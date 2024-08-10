@@ -5,10 +5,16 @@
   <groupId>org.fga.tcc</groupId>
   <artifactId>politics-agents</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>politics-agents</name>
   <url>http://maven.apache.org</url>
+
+  <modules>
+    <module>agents</module>
+    <module>trained-lstm</module>
+    <module>core</module>
+  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

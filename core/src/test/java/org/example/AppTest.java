@@ -1,4 +1,4 @@
-package org.fga.tcc;
+package org.example;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
