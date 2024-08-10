@@ -13,11 +13,12 @@
   <modules>
     <module>agents</module>
     <module>trained-lstm</module>
-    <module>core</module>
   </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>21</maven.compiler.source>
+    <maven.compiler.target>21</maven.compiler.target>
   </properties>
 
   <dependencies>
