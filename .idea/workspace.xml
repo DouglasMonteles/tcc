@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4467710-b66a-4c7b-bf15-5ed7e72708ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/news/NewsIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/news/PrepareWordVector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/news/TestNews.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/news/TrainNews.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/utils/DownloaderUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/generate/text/GenerateTxtModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/sentimental/review/ImdbReviewClassificationRNN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/utils/CharacterIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/utils/DataUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/utils/SentimentExampleIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/word2vec/Word2VecRawTextExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agents/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/agents/dependency-reduced-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agents/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/agents/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained-lstm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trained-lstm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/application.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,38 +38,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.PrepareWordVector.executor": "Run",
-    "Application.TestNews.executor": "Run",
-    "Application.TrainNews.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.politics-agents [clean,install].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/douglas/Documentos/www/politics-agents/trained-lstm/src/main/java/org/fga/tcc/news"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GenerateTxtModel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImdbReviewClassificationRNN.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PrepareWordVector.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestNews.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainNews.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.politics-agents [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/douglas/Documentos/www/politics-agents/trained-lstm/src/main/java/org/fga/tcc/news&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/news" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.fga.tcc.word2vec" />
       <recent name="org.fga.tcc.utils" />
+      <recent name="org.fga.tcc.sentimental.review" />
+      <recent name="org.fga.tcc.generate.text" />
       <recent name="org.fga.tcc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestNews">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.fga.tcc.App" />
-      <module name="politics-agents" />
+  <component name="RunManager" selected="Application.ImdbReviewClassificationRNN">
+    <configuration name="GenerateTxtModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fga.tcc.generate.text.GenerateTxtModel" />
+      <module name="trained-lstm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.fga.tcc.*" />
+          <option name="PATTERN" value="org.fga.tcc.generate.text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImdbReviewClassificationRNN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fga.tcc.sentimental.review.ImdbReviewClassificationRNN" />
+      <module name="trained-lstm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fga.tcc.sentimental.review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,10 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImdbReviewClassificationRNN" />
+        <item itemvalue="Application.GenerateTxtModel" />
+        <item itemvalue="Application.PrepareWordVector" />
         <item itemvalue="Application.TestNews" />
         <item itemvalue="Application.TrainNews" />
-        <item itemvalue="Application.PrepareWordVector" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -146,5 +161,16 @@
       <updated>1723319350746</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/sentimental/review/ImdbReviewClassificationRNN.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
