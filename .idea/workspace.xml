@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4467710-b66a-4c7b-bf15-5ed7e72708ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/news/NewsIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/news/PrepareWordVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/news/TestNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/news/TrainNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/utils/DownloaderUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trained-lstm/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agents/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/agents/dependency-reduced-pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/agents/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/agents/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trained-lstm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trained-lstm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +44,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PrepareWordVector.executor": "Run",
+    "Application.TestNews.executor": "Run",
+    "Application.TrainNews.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.politics-agents [clean,install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -33,18 +54,20 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/douglas/Documentos/www/politics-agents"
+    "last_opened_file_path": "/home/douglas/Documentos/www/politics-agents/trained-lstm/src/main/java/org/fga/tcc/news"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/news" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.fga.tcc.utils" />
       <recent name="org.fga.tcc" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestNews">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.fga.tcc.App" />
       <module name="politics-agents" />
@@ -58,11 +81,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrepareWordVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fga.tcc.news.PrepareWordVector" />
+      <module name="trained-lstm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fga.tcc.news.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNews" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fga.tcc.news.TestNews" />
+      <module name="trained-lstm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fga.tcc.news.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainNews" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fga.tcc.news.TrainNews" />
+      <module name="trained-lstm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fga.tcc.news.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestNews" />
+        <item itemvalue="Application.TrainNews" />
+        <item itemvalue="Application.PrepareWordVector" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

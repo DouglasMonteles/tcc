@@ -6,8 +6,8 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
-  <artifactId>agents</artifactId>
-  <name>agents</name>
+  <artifactId>trained-lstm</artifactId>
+  <name>trained-lstm</name>
   <url>http://maven.apache.org</url>
   <build>
     <plugins>
@@ -74,6 +74,46 @@
   </build>
   <dependencies>
     <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter-engine</artifactId>
+      <version>5.8.0-M1</version>
+      <scope>test</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>apiguardian-api</artifactId>
+          <groupId>org.apiguardian</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>junit-platform-engine</artifactId>
+          <groupId>org.junit.platform</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>kotlin-stdlib-jdk8</artifactId>
+          <groupId>org.jetbrains.kotlin</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter-api</artifactId>
+      <version>5.8.0-M1</version>
+      <scope>test</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>opentest4j</artifactId>
+          <groupId>org.opentest4j</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>junit-platform-commons</artifactId>
+          <groupId>org.junit.platform</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>apiguardian-api</artifactId>
+          <groupId>org.apiguardian</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
@@ -81,6 +121,17 @@
     </dependency>
   </dependencies>
   <properties>
+    <dl4j-master.version>1.0.0-M2.1</dl4j-master.version>
+    <jfreechart.version>1.0.13</jfreechart.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <junit.version>5.8.0-M1</junit.version>
+    <logback.version>1.1.7</logback.version>
+    <javacv.version>1.5.5</javacv.version>
+    <maven.minimum.version>3.3.1</maven.minimum.version>
+    <jcommon.version>1.0.23</jcommon.version>
+    <maven-shade-plugin.version>2.4.3</maven-shade-plugin.version>
+    <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
+    <nd4j.backend>nd4j-native</nd4j.backend>
+    <exec-maven-plugin.version>1.4.0</exec-maven-plugin.version>
   </properties>
 </project>
