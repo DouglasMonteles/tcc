@@ -24,23 +24,31 @@ public class FetchJson<T> {
 
     public OpenDataBaseResponse<T> get(String url) {
         try {
-            HttpClient client = HttpClient.newHttpClient();
+            String uri = extractUri(url);
+            String filePath = RESOURCES_PATH + "/" + uri + "/" + uri + ".json";
 
-            HttpRequest request = HttpRequest.newBuilder()
-                    .uri(URI.create(url))
-                    .GET()
-                    .build();
+            if (!isFileAlreadyCreated(filePath)) {
+                HttpClient client = HttpClient.newHttpClient();
 
-            HttpResponse<String> response = client
-                    .send(request, HttpResponse.BodyHandlers.ofString());
+                HttpRequest request = HttpRequest.newBuilder()
+                        .uri(URI.create(url))
+                        .GET()
+                        .build();
 
-            if (response.statusCode() == 200) {
-                saveResponseInLocalCache(url, response.body());
+                HttpResponse<String> response = client
+                        .send(request, HttpResponse.BodyHandlers.ofString());
 
-                ObjectMapper mapper = new ObjectMapper();
-                return mapper.readValue(response.body(), OpenDataBaseResponse.class);
+                if (response.statusCode() == 200) {
+                    saveResponseInLocalCache(url, response.body());
+
+                    ObjectMapper mapper = new ObjectMapper();
+                    return mapper.readValue(response.body(), OpenDataBaseResponse.class);
+                } else {
+                    System.out.println("Error: " + response.statusCode());
+                }
             } else {
-                System.out.println("Error: " + response.statusCode());
+                ObjectMapper mapper = new ObjectMapper();
+                return mapper.readValue(new File(filePath), OpenDataBaseResponse.class);
             }
         } catch (Exception e) {
             System.out.println("Error: " + e.getMessage());
@@ -66,6 +74,11 @@ public class FetchJson<T> {
         } catch (IOException e) {
             System.out.println("Error saving response in local cache");
         }
+    }
+
+    private boolean isFileAlreadyCreated(String filePath) {
+        File file = new File(filePath);
+        return file.exists();
     }
 
     private String extractUri(String url) {
