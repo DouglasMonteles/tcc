@@ -1,0 +1,29 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2024-08-22T15:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Homenagem",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "HOMENAGEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=23%2F8%2F2024&txPagina=&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : null,
+    "sumario" : null,
+    "transcricao" : "A SRA. BIA KICIS (PL - DF. Para discursar. Sem revisão da oradora.) - Boa tarde a todos. É uma honra, Senador Astronauta, Presidente desta sessão, constar dessa honrosa lista de integrantes da Mesa desta solenidade. Agradeço a V.Exa. esse convite. Cumprimento meu amigo Deputado Danilo Forte, que também é requerente desta sessão; o Senador Izalci Lucas; o Comandante da Aeronáutica, Brigadeiro Marcelo Damasceno; o Sr. Diretor-Geral do Departamento de Ciência e Tecnologia Aeroespacial, o Tenente-Brigadeiro do Ar Maurício Augusto Silveira de Medeiros; e o representante do Ministério da Ciência, Tecnologia e Inovação, o Secretário de Ciência e Tecnologia para o Desenvolvimento Social, o Sr. Inácio Arruda. Cumprimento todos os demais presentes, os oficiais, os convidados, a senhora sobrinha-neta do homenageado e os servidores da Casa que aqui estão. Estamos neste plenário para celebrar os 120 anos de nascimento do Marechal do Ar Casimiro Montenegro Filho. A memória desse visionário corajoso militar cearense é motivo de justo orgulho para todos nós brasileiros e brasileiras. Herdeiro do pioneirismo de Santos Dumont, o Pai da Aviação, Casimiro Montenegro foi um autêntico contemporâneo do futuro, protagonista da viagem inaugural do Serviço Postal Aéreo Militar  embrião do Correio Aéreo Nacional, o CAN, de 1931  e fundador, em 1950, do ITA, esse instituto que tanto orgulha os brasileiros. Eu sou filha de engenheiro militar. Meu pai foi professor do IME. Nós sempre comparamos o talento daquelas pessoas que estudam, que se formam no IME ou no ITA, esses dois institutos militares que tanto orgulham os brasileiros. O ITA gerou o centro tecnológico da Aeronáutica, a EMBRAER, indústria que é referência mundial no seletíssimo e ultracompetitivo ramo da produção de aviões de transporte de cargas e de passageiros e também de aeronaves militares. Ao longo de todas essas etapas exigentes e gloriosas, o Marechal Montenegro demonstrou o carisma que aglutinava os melhores cérebros do seu tempo para essa epopeia atemporal. Minhas senhoras e meus senhores, em um país e em um mundo hoje tão carente de papéis modelares, tanto na vida pública quanto na vida profissional, a trajetória vitoriosa do Marechal Montenegro, suas lutas para vencer os inúmeros obstáculos à implantação no Brasil de um centro de excelência na formação de talentos científicos e tecnológicos, além de sua destemida criatividade na transformação do nosso Brasil em player da vanguarda aeroespacial, merecem ser reconhecidas sobretudo pelas novas gerações. Sua vida e sua obra comprovam que o Brasil pode sim dar certo, superando o pessimismo e o famigerado complexo de vira-lata. As palavras inspiradoras desse líder nato, herói da nossa Pátria amada, iluminam o caminho que todos devemos seguir para correspondermos à urgência com que o Brasil é chamado a preencher o seu destino no concerto das Nações Abro um parêntese, Senador Astronauta Marcos Pontes, que também tanto orgulha esta Nação, para lhe dizer que tenho uma alegria muito grande de ser sua amiga, de ter acompanhado parte da sua trajetória, de conhecê-lo e de ver o carisma de V.Exa. e o carinho que os brasileiros, especialmente as crianças, têm por V.Exa. É com estas palavras do Marechal Montenegro que encerro minha breve, porém sincera, intervenção neste evento: Em toda a minha vida profissional, jamais acreditei em messianismo, estrelismo, concentração do poder e do mérito em um só indivíduo. Sempre trabalhei em equipe. E, se algum merecimento tenho, é o de ter sabido despertar em meus companheiros o entusiasmo, delegar-lhes autoridade com responsabilidade, exortá-los ao pleno uso de suas potencialidades e qualidades, em proveito do povo brasileiro. Agradecemos o seu exemplo imortal, Marechal do Ar Casimiro Montenegro Filho, e lutaremos para dignificar a sua memória hoje e sempre. Muito obrigada."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/204374/discursos?itens=1000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/204374/discursos?pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/204374/discursos?pagina=1&itens=100"
+  } ]
+}

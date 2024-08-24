@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4467710-b66a-4c7b-bf15-5ed7e72708ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/entities/DeputySpeech.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/RouterManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/entities/Depute.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/entities/Deputy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/enums/OpenDataEndpoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/enums/OpenDataEndpoints.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/resources/deputados/deputados.json" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/resources/deputados/deputados.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/DeputeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/DeputyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/impl/DeputeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/impl/DeputyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/resources/deputados/deputados.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -37,6 +44,7 @@
   "keyToString": {
     "Application.DeputeServiceImpl.executor": "Run",
     "Application.DeputesCsvToEntityImpl.executor": "Run",
+    "Application.DeputyServiceImpl.executor": "Run",
     "Application.FetchCsv.executor": "Run",
     "Application.FetchJson.executor": "Run",
     "Application.GenerateTxtModel.executor": "Run",
@@ -69,9 +77,9 @@
       <recent name="org.fga.tcc.generate.text" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeputeServiceImpl">
-    <configuration name="DeputeServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.fga.tcc.services.impl.DeputeServiceImpl" />
+  <component name="RunManager" selected="Application.DeputyServiceImpl">
+    <configuration name="DeputyServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fga.tcc.services.impl.DeputyServiceImpl" />
       <module name="external-data-processor" />
       <extension name="coverage">
         <pattern>
@@ -137,7 +145,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeputeServiceImpl" />
+        <item itemvalue="Application.DeputyServiceImpl" />
         <item itemvalue="Application.FetchJson" />
         <item itemvalue="Application.ImdbReviewClassificationRNN" />
         <item itemvalue="Application.GenerateTxtModel" />
@@ -162,5 +170,46 @@
       <updated>1723319350746</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/impl/DeputyServiceImpl.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/impl/DeputyServiceImpl.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

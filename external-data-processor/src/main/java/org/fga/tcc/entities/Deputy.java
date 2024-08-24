@@ -2,17 +2,15 @@ package org.fga.tcc.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.EqualsAndHashCode;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 @Data
 @EqualsAndHashCode(of = { "id" })
 @AllArgsConstructor
 @NoArgsConstructor
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class Depute {
+@ToString
+public class Deputy {
 
     @JsonProperty("id")
     private Integer id;
@@ -28,5 +26,13 @@ public class Depute {
 
     @JsonProperty("urlFoto")
     private String pictureUrl;
+
+    @JsonProperty("uri")
+    private String uri;
+
+    public Integer getDeputyIdFromUri() {
+        int lastBarIndex = this.uri.lastIndexOf('/');
+        return Integer.parseInt(this.uri.substring(lastBarIndex + 1));
+    }
 
 }
