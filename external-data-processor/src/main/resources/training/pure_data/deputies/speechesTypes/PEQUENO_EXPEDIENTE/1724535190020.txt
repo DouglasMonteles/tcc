@@ -1,1 +1,3 @@
-Transcurso do 22° aniversário de fundação da Universidade Federal de São João Del-Rei.
+version https://git-lfs.github.com/spec/v1
+oid sha256:740dd05caa4264641d43ef3be288231d271de742bc2740dba5f0a918f3b05e5b
+size 92

@@ -1,1 +1,3 @@
-Avanços socioeconômicos do País durante os Governos petistas. Inexistência de propostas do Governo Federal para geração de empregos e superação da crise financeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0da3875efa6aaee08e1125d513dd2b55912124c4f901f68f0d4d43ec76f6d90
+size 172

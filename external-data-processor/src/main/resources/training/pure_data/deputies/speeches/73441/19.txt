@@ -1,1 +1,3 @@
-Posicionamento favorável do PP à Emenda 5 , destacada,  à Subemenda Substitutiva de Plenário ao Projeto de Lei 836 de 2003 (Disciplina o funcionamento de bancos de dados e serviços de proteção ao crédito e congêneres e dá outras providências - Cadastro Positivo de Consumidores), que obriga a comunicação por escrito, comprovando-se por meio de postagem de Aviso de Recebimento - AR ou serviço similar, de inclusão em banco de dados de qualquer informação de inadimplemento do devedor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43d12001c2dd08e239fc1666d6eeacd52b9bb425908c4595a63b3b9ee68a186a
+size 502

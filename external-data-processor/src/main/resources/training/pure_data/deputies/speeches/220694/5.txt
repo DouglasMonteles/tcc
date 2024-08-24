@@ -1,1 +1,3 @@
-Solidariedade aos familiares das crianças assassinadas em creche no Município de Blumenau, Estado de Santa Catarina. Vinculação entre o acesso de crianças e jovens ao conteúdo das redes sociais, de vídeos e filmes violentos e os atentados ocorridos em escolas brasileiras. Necessidade de adoção, pelos governantes, de ações destinadas ao restabelecimento da paz no ambiente escolar. Intromissão de presidente de consórcio na gestão do Município de Ribeira do Pombal, no Estado da Bahia. Realização pelo Governo Estadual de investimentos no hospital da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcfa214451ab7398637f7debc19247ea8c85c1ec0fac7eb9fab060500975f8ba
+size 584

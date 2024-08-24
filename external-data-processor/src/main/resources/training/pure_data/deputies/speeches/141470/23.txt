@@ -1,1 +1,3 @@
-Conveniência da leitura de tabela da Emenda Aglutinativa Global de Plenário à   PEC 333 de 2004 (Modifica a redação do art. 29-A e acrescenta art. 29-B à Constituição Federal para dispor sobre o limite de despesas e a composição das Câmaras de Vereadores e dá outras providências), em apreciação em primeiro turno, relativa ao número de vereadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bb26a4aad7c93dcc67458c97058ff86a5d594d396fdaa5f7588c37c4df298e0
+size 364

@@ -1,1 +1,3 @@
-Defesa da criação de CPI para investigação de invasões de propriedades rurais no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26addd9a84f6bfa125c225c1c97d7b5006e427a74277d49b2ed17255e1c0f150
+size 92

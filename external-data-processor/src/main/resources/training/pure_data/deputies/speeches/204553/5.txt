@@ -1,1 +1,3 @@
-Alcance social dos trabalhos realizados pela Fundação Dr. Jesus, no Estado da Bahia. Visita de editores da revista Época  à instituição. Discordância dos novos oficiais-generais com a determinação presidencial de comemoração do aniversário da ditadura militar. Transcurso do 470º aniversário de fundação da Capital Salvador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:581bf6137d745830e6cb281ec47aa2e02af3dbd1b55bd403cd0b994b44c53381
+size 340

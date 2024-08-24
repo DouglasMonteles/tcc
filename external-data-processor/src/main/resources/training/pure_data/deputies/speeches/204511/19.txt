@@ -1,1 +1,3 @@
-Conclamação aos moradores da Baixada Santista para participação em ação de limpeza da Praia Grande, no Estado de São Paulo. Descaso do Governador João Doria com as regiões de Presidente Prudente e de Presidente Venceslau. Protesto contra a desativação da agência da Empresa Brasileira de Correios e Telégrafos - ECT do Município de Bananal, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24953e82dcf40a30f3b2569573954ef5a7cefa942c6a81177efc0970ef86f256
+size 365

@@ -1,1 +1,3 @@
-Sessão solene de homenagem aos cinquenta anos da morte do grande escritor mineiro João Guimarães Rosa.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbf22708162a9f1c2602c9fd5c776b330b5480421b3ef17cd86c07a094d1c59f
+size 254

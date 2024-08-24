@@ -1,1 +1,3 @@
-Realização do Seminário Estratégico de Enfrentamento ao Crack, pelo Governo do Estado do Rio de Janeiro. Implementação pelo Governador Sérgio Cabral de programas destinados à recuperação de usuários de crack.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbbc8fd35b207b91bf82cf9ec0320843743d2e9bda7f6b9e6db3268e9897dbc2
+size 219

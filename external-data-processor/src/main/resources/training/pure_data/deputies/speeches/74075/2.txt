@@ -1,1 +1,3 @@
-Ações da empresa Alcoa Alumínio S/A. em benefício do Município de Juruti, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9fa67c3175b938258afb2117c069094683910084392ea7acb950e4036b15c46
+size 95

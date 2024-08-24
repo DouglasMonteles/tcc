@@ -1,1 +1,3 @@
-Usou da palavra para proferir parecer ao projeto, pela Comissão Especial, o Sr. Deputado PAULO AZI (DEM, BA).
+version https://git-lfs.github.com/spec/v1
+oid sha256:385fbcb31d80a643d2ca624cddbc1f93034e54be3d0be1558164579cf5c7d641
+size 110

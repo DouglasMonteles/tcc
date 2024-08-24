@@ -1,1 +1,3 @@
-Realização de reunião de mulheres bolsonaristas em João Pessoa, Estado da Paraíba. Indignação com as agressões verbais desferidas pela Procuradora-Geral do Estado de Alagoas, Samya Saruagy do Amaral, contra a Primeira-Dama do País, Michelle Bolsonaro. Tentativa de intimidação do candidato ao Governo do Estado de São Paulo, Tarcísio Gomes de Freitas. Transcurso do Dia do Médico. Saudação ao Ministro da Saúde, Marcelo Queiroz. Voto da oradora pela retirada de pauta de projeto de lei sobre o clima, em tramitação da Comissão de Constituição e Justiça e de Cidadan
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd89b433b0f6acd7a480e4d08aab479ed27a0191996e80190483434229a782be
+size 588

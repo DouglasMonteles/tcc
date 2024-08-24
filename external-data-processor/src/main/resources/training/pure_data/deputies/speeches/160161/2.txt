@@ -1,1 +1,3 @@
-Apresentação de requerimento de indicação ao Poder Executivo para criação da Política de Controle de Zoonoses, nos moldes do Programa RjPet implementado no Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fa8f1ee75197edfa39ca576081b53153cb5dc45ab3d5d8451629eed9c2b0616
+size 188

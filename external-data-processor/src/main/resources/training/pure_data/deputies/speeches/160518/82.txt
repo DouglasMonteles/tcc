@@ -1,1 +1,3 @@
-Acerto da decisão judicial condenatória dos responsáveis por adulteração de leite. Defesa de votação do projeto de lei a respeito da extinção da cobrança de assinatura básica da telefonia fixa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c18aee272aaa625ae38a605ed9da8f1654c124d133c9b99f1e408decc1bed089
+size 204

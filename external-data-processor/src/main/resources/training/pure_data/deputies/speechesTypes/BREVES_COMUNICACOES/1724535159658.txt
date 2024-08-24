@@ -1,1 +1,3 @@
-Bloqueio de recursos orçamentários destinados às áreas de saúde e educação. Prática de corrupção pelo governo petista. Extinção de pastas ministeriais comandadas por mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef4c4df70cc726b3874e9b464685f2dcde5a1391045e3bb3b61ae3c31c274e2d
+size 187

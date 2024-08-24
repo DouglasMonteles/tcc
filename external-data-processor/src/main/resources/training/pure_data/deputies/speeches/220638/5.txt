@@ -1,1 +1,3 @@
-Convite ao Advogado-Geral da União, Jorge Messias, e ao Ministro de Portos e Aeroportos, Márcio França, pela Comissão de Viação e Transportes, para esclarecimento ao órgão da efetuação de pagamento de outorgas com precatórios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18aadbf70a01992642c511141a939a95a59862fc579355bec3ff05941954476f
+size 237

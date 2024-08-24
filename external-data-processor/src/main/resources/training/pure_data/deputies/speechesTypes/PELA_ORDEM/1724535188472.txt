@@ -1,1 +1,3 @@
-Lançamento do Plano Brasil Sem Miséria pela Presidenta Dilma Rousseff. Criação de plano de trabalho pela Subcomissão Especial sobre o Uso de Agrotóxicos e suas Consequências à Saúde, da Comissão de Seguridade Social e Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e5329b2a73fbe6d60ed617060b70c8741483a66ac48b71ac5dc09aa9a6f1394
+size 237

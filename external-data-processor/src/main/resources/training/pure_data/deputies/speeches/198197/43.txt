@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre o prazo de adaptação de salas cinematográficas para o acesso de portadores de deficiência, fixado pela Medida Provisória nº 1.025, de 2020, sobre a alteração da Lei nº 13.146, de 2015, (Lei Brasileira de Inclusão da Pessoa com Deficiência) - Estatuto da Pessoa com Deficiência. Pedido aos Parlamentares de aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d8237db91b22d32b9bc28f7c79b80104ca13609af8c727da73692a2e341cfab
+size 379

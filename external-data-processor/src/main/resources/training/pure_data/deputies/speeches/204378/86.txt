@@ -1,1 +1,3 @@
-Saudações aos estudantes das Faculdades Integradas Aparício Carvalho, do Estado de Rondônia, presentes na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5c902562378374c2f8b82fb6010f94be8cbb07a6c785144ceee8d35d556099f
+size 115

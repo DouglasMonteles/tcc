@@ -1,1 +1,3 @@
-Enaltecimento da atuação da Polícia Federal. Pedido ao Governo Federal de encaminhamento à Casa da proposta de criação da lei orgânica da instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:184c5be741eb1fac63d70469dbdc46c8c2f9cda2077041a3078d98570f2d9dee
+size 159

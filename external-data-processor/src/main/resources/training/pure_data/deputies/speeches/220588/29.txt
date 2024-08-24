@@ -1,1 +1,3 @@
-Cassação dos mandatos parlamentares dos Deputados Deltan Dallagnol e Marcelo Crivella. Riscos à soberania popular decorrentes do ativismo judicial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ab06f0127602eb3d5f6b9c76469045fb4e81ab68c65097a689392d669bf97dd
+size 150

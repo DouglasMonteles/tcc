@@ -1,1 +1,3 @@
-Elogio à Presidenta Dilma Rousseff por medidas adotadas em prol das pequenas e microempresas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19f093cc45f087e074df82c4131cd8155ebef1ba936205e4008aafb42003c634
+size 94

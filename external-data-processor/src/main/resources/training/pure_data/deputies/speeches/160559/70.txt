@@ -1,1 +1,3 @@
-Importância da organização e do financiamento do transporte coletivo. Apoio à PEC 90, de 2011 (Dá nova redação ao art. 6º da Constituição Federal, para introduzir o transporte como direito social), apresentada pela Deputada Luiza Erundina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a7a1d4eef59fb2f8551e9830fface95fcef50a7deeffdca8358ce796975e7d7
+size 249

@@ -1,1 +1,3 @@
-Estímulo de pastores evangélicos à prática de violência contra a comunidade LGBTQIA+. Assassinato de lésbicas, gays e homossexuais no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf75b1b95215c59228f00f5903918521416d82c10726663b9279e2b6578f5983
+size 146

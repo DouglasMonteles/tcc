@@ -1,1 +1,3 @@
-Transcurso do décimo aniversário de criação do Programa Bolsa Família, do Governo Federal. Reconhecimento dos méritos do programa. Crítica ao caráter assistencialista e eleitoral do programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6323dfadc2ec1582ba7756bf753b1110917a1f5e950f345e55ada558d05dcfe
+size 199

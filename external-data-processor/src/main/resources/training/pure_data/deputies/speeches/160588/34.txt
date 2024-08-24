@@ -1,1 +1,3 @@
-Solicitação aos Deputados de aprovação da emenda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1263cf2514014232f89af3c9712354a0f762b51c6576a46465354c56b71f5917
+size 53

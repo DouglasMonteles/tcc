@@ -1,1 +1,3 @@
-Congratulações a funcionários e empresários de casas lotéricas presentes na Casa. Apoio da bancada federal paraense a proposição de interesse da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a82b7082ebed35c369ae75f94422e14a66c1977aa1642b4f4393a4a8aa6ad16
+size 162

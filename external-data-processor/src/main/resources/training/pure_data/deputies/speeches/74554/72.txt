@@ -1,1 +1,3 @@
-Aprovação, pela Casa, da proposta de emenda à Constituição sobre a criação do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f2b4860b60b03d94fc522ba866fe88ab81c70c185a9914b121349e3b99c37e1
+size 143

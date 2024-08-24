@@ -1,1 +1,3 @@
-Imprescindibilidade de realização da reforma previdenciária com a inclusão de Estados e Municípios. Defesa de realização das reformas política e tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23fca96be20fccaa8a698f708bb46a1db21455933c0d244275ebf12195ff266d
+size 165

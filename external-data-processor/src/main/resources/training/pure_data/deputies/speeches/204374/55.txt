@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento, por duas sessões, da votação da Medida Provisória nº 890, de 2019, sobre a instituição do Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde, e a criação do serviço social autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f42bcc57125ea8094d06fdb807c2f9888a1f46aae8b4d266bc74c5b3ed631d1e
+size 387

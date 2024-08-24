@@ -1,1 +1,3 @@
-Necessidade de adoção, pelo Governo Federal e pelo Ministério da Saúde, de ações emergenciais a favor do Estado de Minas Gerais diante do colapso do sistema de saúde provocado pela Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c4f1387fef15997b4072803a1a3ce98eb6fd6dcf6e3b13f2e63b82e40c697b2
+size 197

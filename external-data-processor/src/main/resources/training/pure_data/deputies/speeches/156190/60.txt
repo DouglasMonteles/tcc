@@ -1,1 +1,3 @@
-Repúdio à censura imposta pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes, ao site O Antagonista  e à revista Crusoé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daab6741bedf46036ebac651ed6aab97407a35d7c5558ec403cdf99c4d2e70b8
+size 136

@@ -1,1 +1,3 @@
-Anúncio, pelo Ministério da Ciência e Tecnologia, da implantação de Centro de Vocação Tecnológica na indústria metalomecânica instalada no Município de Cordeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e436bbbdaa57caae0ba58ad863fa8058d0ce6581d187de0bee1fb6b32689aef
+size 198

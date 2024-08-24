@@ -1,1 +1,3 @@
-Presença na Casa das Deputadas Rosângela Reis e Celise Laviola, do Estado de Minas Gerais. Pesquisa do Instituto Datafolha sobre a satisfação dos usuários da rede de saúde pública do País. Elevado nível de insatisfação dos entrevistados. Necessidade de investimento no setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:724a461ff6b8ce9297f379a0ec8c1340b71bca018b5d49dd0b3f320312c9762e
+size 286

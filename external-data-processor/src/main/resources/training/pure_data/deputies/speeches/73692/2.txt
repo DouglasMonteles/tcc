@@ -1,1 +1,3 @@
-Prejuízos materiais e humanos causados pelas enchentes ao Estado do Rio Grande do Sul. Expectativa de atendimento, pelo Governo Federal, a pleitos da Governadora Yeda Crusius em benefício das populações atingidas por intempéries climáticas. Realização do Seminário Internacional da Primeira Infância, em Porto Alegre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aa3821c1c6bea27197c5b994a8027956e3fd67f6629e20f94d8309fb70a999d
+size 327

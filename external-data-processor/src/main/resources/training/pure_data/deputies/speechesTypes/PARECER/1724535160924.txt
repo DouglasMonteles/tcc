@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas de Plenário de nºs 1 a 5, apresentadas ao Projeto de Lei nº  12, de 2021, sobre a alteração da Lei nº 9.279, de 1996, com vista a concessão de licença compulsória de patentes, nos casos de declaração de emergência nacional ou internacional, de interesse público ou de reconhecimento de estado de calamidade pública de âmbito nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60feb5694ea1d725ce98b848f6cd50c407b55e522bd0da1f1e4ce585b404b506
+size 381

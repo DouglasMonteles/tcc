@@ -1,1 +1,3 @@
-Agradecimento ao Governo do Estado de Minas Gerais pela liberação de recursos para a realização de cirurgias eletivas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7993d50331085e4d2d7f6045bdf6df9fb2c57c0223c8c66c280db42cfd60cd9a
+size 122

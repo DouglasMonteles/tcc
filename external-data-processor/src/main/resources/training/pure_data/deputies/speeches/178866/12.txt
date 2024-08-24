@@ -1,1 +1,3 @@
-Sessão solene destinada a comemorar o 10º aniversário da Lei Maria da Penha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27a979b6c14057164359d7f1fd02afbfa7ffab78616d300074837c7d62657744
+size 79

@@ -1,1 +1,3 @@
-Solidariedade à greve de servidores públicos, especialmente de professores, no Estado de Minas Gerais. Apresentação de projeto de lei sobre a proibição da venda de sacolas biodegradáveis para embalagem e transporte de produtos adquiridos em estabelecimentos comerciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f0acdf6a416049ad83330ab32bd19ae1411403f012d8671a8a0ae639a63e029
+size 276

@@ -1,1 +1,3 @@
-Protesto contra a cobrança de impostos extorsivos pelo Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37407141d4e999796bc25242eaaa10d45672ea85647d6133ee9d2894360cd3ea
+size 91

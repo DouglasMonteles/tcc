@@ -1,1 +1,3 @@
-Indignação do orador com discursos de ódio, homofóbicos e desrespeitosos proferidos por Parlamentares da Esquerda contra os Deputados Mário Frias e Nikolas Ferreira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d236f816e641fb29e71bf0bf4fb5dad0b3793d4fc0046fa4f33493cfb95c3faa
+size 170

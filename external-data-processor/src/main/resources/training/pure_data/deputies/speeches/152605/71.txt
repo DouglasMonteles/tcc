@@ -1,1 +1,3 @@
-Anúncio de votação, pelo Senado Federal, de proposta de emenda à Constituição de interesse da juventude brasileira. Expectativa de votação, pela Comissão Especial, do parecer apresentado à proposta de criação do Estatuto da Juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:774f3a277f89e72bafd22b83d94e6bd3e146e55729950da8c262c89da578b0eb
+size 246

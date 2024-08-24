@@ -1,1 +1,3 @@
-Apreensão do orador com acordos comerciais celebrados entre o Brasil e a República Popular da China. Natureza temerária da proposta do Presidente Luiz Inácio Lula da Silva, de criação de moeda única entre os países do Bloco BRICS formado pelo Brasil, Índia, China, Rússia e África do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:992d44d550b71241fe346483e967ff143c29a794a4d40878a42a8ad082eb4e13
+size 299

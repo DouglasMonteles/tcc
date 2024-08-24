@@ -1,1 +1,3 @@
-Orientação de bancada na votação de requerimento de destaque para votação em separado da Emenda de Plenário nº 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:567132df46e6961a888f0b2f9ee4a32cadbdacbc1a34aed990faeec214c95663
+size 122

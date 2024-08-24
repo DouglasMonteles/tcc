@@ -1,1 +1,3 @@
-Morte de marginais em confronto com a Polícia Militar no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc0af5f693ca968a0139f1e4b0e0be17d8ecae47ccc0b3460b6aeee1bd958725
+size 74

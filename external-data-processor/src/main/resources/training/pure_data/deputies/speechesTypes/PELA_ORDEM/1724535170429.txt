@@ -1,1 +1,3 @@
-Solicitação à Presidência de votação do requerimento de tramitação em regime de urgência do Projeto de Lei nº 239, de 2007, sobre tipificação do furto de energia e sinais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2ed62d03b6c38aecec950427eef5fbccbb7d0f419ab20fd1836046e0e41036e
+size 183

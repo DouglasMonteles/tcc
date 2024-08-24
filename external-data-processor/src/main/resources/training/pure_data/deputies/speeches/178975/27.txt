@@ -1,1 +1,3 @@
-Contestação a críticas de Deputados do Partido dos Trabalhadores ao Governo Michel Temer. Defesa da retidão de caráter do Presidente da República interino. Êxito de medidas do Governo Federal para a retomada do crescimento econômico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:228655e0744534811a5ec4348227f9c0dce479adcb344f857c40c97434550b78
+size 241

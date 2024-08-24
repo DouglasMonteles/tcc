@@ -1,1 +1,3 @@
-Repúdio às declarações do  Vereador Carlos Bolsonaro contra o Vice-Presidente da República, general Hamilton Mourão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99a85ad93655d751f8a16aca1767abecc7aefb25c292971c7d40ec309baa7305
+size 122

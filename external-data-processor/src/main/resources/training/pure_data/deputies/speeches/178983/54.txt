@@ -1,1 +1,3 @@
-Apoio do Parlamentar a pedido da Federação das APAEs do Estado de São Paulo, integrante do Comitê Nacional de Assessoramento e Apoio às Ações de Saúde do Plano Nacional para Pessoas com Deficiência, para esforço coletivo de manutenção e aperfeiçoamento das conquistas no âmbito da respectiva política nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62b7d34b3c6ccbf089c65bcf291ebcc1159b544951803d71927ad38d408756ff
+size 325

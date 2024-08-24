@@ -1,1 +1,3 @@
-Apelo ao Ministério da Agricultura, Pecuária e Abastecimento de apoio à fruticultura nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ecd87325453dda69faf13f444185a7cda87a23a5ec16a4e6438c9cf226f4a9a
+size 97

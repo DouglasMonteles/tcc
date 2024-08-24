@@ -1,1 +1,3 @@
-Apelo aos Deputados no sentido de apoio a proposta de proposta de emenda à Constituição para correção do artigo 14 da Constituição Federal de 1988, com objetivo de garantia dos direitos políticos de policiais militares e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f39a578dae341a16870d4703e5cdde4b572a086ecb875536d4e67e4456421162
+size 249

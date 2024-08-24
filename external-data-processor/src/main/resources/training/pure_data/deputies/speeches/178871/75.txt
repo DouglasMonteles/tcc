@@ -1,1 +1,3 @@
-Anúncio de participação na 30ª Festa do Morango, no Distrito de Pedra Azul, Município de Domingos Martins, Estado do Espírito Santo, e na 3ª EXPOAGRO Vidas, em Aracruz, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2abbe16aa7d03de7d0284b6d56353990cbc6e9eee7582d9a37e1ffb8d2ac86b6
+size 202

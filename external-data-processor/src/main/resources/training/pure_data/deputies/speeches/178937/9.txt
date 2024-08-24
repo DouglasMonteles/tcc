@@ -1,1 +1,3 @@
-Reiteração do equívoco da interpretação da Presidência acerca do processo de filiação do orador ao PMDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35a68faabffca44da5efb048148b83c519bde66a7e5086414d1ac8e4981d8a60
+size 112

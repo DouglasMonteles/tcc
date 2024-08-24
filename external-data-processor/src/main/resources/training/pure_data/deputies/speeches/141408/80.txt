@@ -1,1 +1,3 @@
-Anúncio de realização, pela Comissão de Direitos Humanos e Minorias, de audiência pública para debate da situação dos garimpeiros de Serra Pelada, no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:261a37c943a6166d6decbd2801414ae389aef1999ca5666fc70ccae456904ad6
+size 174

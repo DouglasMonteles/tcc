@@ -1,1 +1,3 @@
-Aplausos ao Presidente Rodrigo Maia pela criação de comissão parlamentar, destinada ao exame das propostas anticrime e anticorrupção, apresentadas pelo Ministro da Justiça e Segurança Pública, Sérgio Moro, e pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91769886e83eb0bb01ef3c2c55cc139e8fdc83e405a7fc11ebaf1f6c4455507c
+size 280

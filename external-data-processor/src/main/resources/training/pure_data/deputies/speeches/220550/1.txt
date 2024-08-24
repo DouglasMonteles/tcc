@@ -1,1 +1,3 @@
-Protesto contra os ataques do Presidente Luiz Inácio Lula da Silva ao Presidente do Banco Central, Roberto Campos Neto, em face da última decisão do Comitê de Política Monetária - COPOM pela manutenção da taxa Selic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e160026a72388e142db72af902c8662843f84f1522b9fe2948e7b52d7a74911e
+size 224

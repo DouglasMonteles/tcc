@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 1.139, de 2023, sobre a alteração da Lei nº 14.133, de 2021, (Lei de Licitações e Contratos Administrativos), com vista à prorrogação da vigência das leis de licitações especificadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e40697ba8f67b8d281bf329f0998bf80479e2b08f9e14f710923f6712cd872f
+size 231

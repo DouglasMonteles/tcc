@@ -1,1 +1,3 @@
-Homenagem ao ex-Deputado Mauro Benevides. Importância do ajuste fiscal  para o sucesso da gestão pública. Críticas à proposta de reforma previdenciária publicada por órgãos da imprensa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5ed03b58bb994f02699794866959a70844202a1f12d8807336a17e56859b090
+size 193

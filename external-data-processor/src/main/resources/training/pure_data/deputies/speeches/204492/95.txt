@@ -1,1 +1,3 @@
-Pedido à Casa de aprovação de moção de repúdio ao Governador do Estado de Minas Gerais, Romeu Zema, por declarações preconceituosas contra a Região Nordeste e o seu povo. Ineficiência da administração do gestor estadual mineiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3b9d3ca0a71124df78f95eb31f3cfa4a8f1f6f309ee8aa2597347c85f6df845
+size 240

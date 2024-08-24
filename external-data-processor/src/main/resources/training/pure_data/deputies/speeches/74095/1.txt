@@ -1,1 +1,3 @@
-Congratulações ao Deputado Marco Maia pela eleição à Presidência da Casa, extensivas aos demais membros da Mesa Diretora. Acerto da escolha do servidor Sérgio Sampaio Contreiras de Almeida para o cargo de Secretário-Geral da Mesa da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea17f00a8502765798291979c1a3f5521c90aee8cabe95a3ea340906a6d4da80
+size 263

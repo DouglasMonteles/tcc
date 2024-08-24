@@ -1,1 +1,3 @@
-Propósito da Corrente Afirmação Democrática do PMDB de obstrução das votações na Casa até a inclusão na pauta da proposta de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de recursos para a saúde pública. Improcedência de matéria jornalística a respeito  da realização pelo PMDB de manifestação contra o Líder do partido, Deputado Henrique Eduardo Alves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:213b1d300728efd1245856a634a70b0b24eb0a99795466eaf9b3291401ac50cb
+size 408

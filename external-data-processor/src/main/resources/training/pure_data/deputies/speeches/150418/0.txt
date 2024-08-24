@@ -1,1 +1,3 @@
-Apoio ao estabelecimento de cotas para ingresso de afrodescendentes em universidades públicas. Realização da 2ª Conferência Nacional de Promoção da Igualdade Racial. Urgente aprovação da proposta de criação do Estatuto da Igualdade Racial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:379223dcbc0cedbeeae02bdf86713bf9c0396e86c614cbbb8316b1c4ee01bada
+size 250

@@ -1,1 +1,3 @@
-Equívoco da cassação do mandato parlamentar do Deputado Deltan Dallagnol pelo Tribunal Superior Eleitoral. Protesto contra a soltura de pacientes psiquiátricos periculosos, por força da Resolução nº 487, de 2023, do Conselho Nacional de Justiça, sobre a instituição da Política Antimanicomial do Poder Judiciário. Protesto contra a nomeação de coordenadores do Movimento dos Trabalhadores Rurais Sem Terra - MST para órgãos públicos federais. Repúdio ao Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a7eed2cb88c258eb4cf7bef2c5164e05650b2d843376ea14000340a5be966b3
+size 508

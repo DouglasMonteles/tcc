@@ -1,1 +1,3 @@
-O Deputado respondeu a discurso proferido na tribuna sobre incidente ocorrido recentemente no Município de Nova Friburgo, Estado do Rio de Janeiro. Ele afirmou que a Deputada Estadual Marina do MST foi agredida por um grupo de bolsonaristas enquanto realizava um evento sobre reforma agrária. O Deputado anunciou que no próximo domingo haverá um ato no Distrito de Lumiar, localizado em Nova Friburgo, em prol da paz e da democracia, enfatizando que o incidente não irá silenciar suas vozes. Ele destacou a importância do direito de realizar reuniões públicas e condenou a violência que ocorreu anteriormente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ecbb4e0f109a644c812394da07fc9eb02b36e25bd198471e47cb9d3ce8cb492
+size 619

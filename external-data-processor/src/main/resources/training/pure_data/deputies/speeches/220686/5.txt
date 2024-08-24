@@ -1,1 +1,3 @@
-Importância do papel desenvolvido pelo Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49618c0b5aedb88db8b6fdf8578d63130885a7f593b6487f879b3e31baaa5769
+size 59

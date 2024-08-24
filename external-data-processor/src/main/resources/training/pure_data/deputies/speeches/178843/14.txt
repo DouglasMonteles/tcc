@@ -1,1 +1,3 @@
-Pesar pelo anúncio da PETROBRAS de aumento do preço da gasolina e do óleo diesel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2d3a98616caad355d97cfef38178732d9e68dee1b1e370d842e9acbe70d0823
+size 84

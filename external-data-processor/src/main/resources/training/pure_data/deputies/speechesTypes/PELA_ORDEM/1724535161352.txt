@@ -1,1 +1,3 @@
-Contestação a discursos de petistas sobre a retirada de recursos das áreas da saúde e educação pela proposta de emenda à Constituição em votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad1ac5ebf08b3ceb39dd1bd51877b2901ab1c5a06320c416ab44d63ba942eef3
+size 156

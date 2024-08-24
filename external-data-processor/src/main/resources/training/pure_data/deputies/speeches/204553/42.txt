@@ -1,1 +1,3 @@
-Defesa da concessão de anistia de dívidas de estudantes perante ao Fundo de Financiamento Estudantil - FIES. Transcurso do aniversário natalício da esposa do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5aff19bb8a3d405cb66938c3e75cc0d3469b5e469f6dfe052cc17cb86bc072bb
+size 169

@@ -1,1 +1,3 @@
-Regozijo com a participação da Presidenta Dilma Rousseff na Assembleia Geral da Organização das Nações Unidas - ONU. Empenho do Governo Federal no combate à pobreza no País. Regulamentação da Emenda Constitucional nº 29, de 2000, acerca da destinação de recursos para a saúde pública. Aprovação pela Casa do projeto de lei sobre a criação da Comissão Nacional da Verdade. Manifesto de artistas e intelectuais em apoio à Comissão da Verdade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bbb81c069f6d30354762a58d0a2b35a76413a109c27eb41d9cc75f8ccfef539
+size 462

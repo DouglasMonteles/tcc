@@ -1,1 +1,3 @@
-Repúdio à manobra regimental para a queda da sessão e consequente impedimento da votação da proposta de fixação da jornada de trabalho dos profissionais da enfermagem em 30 horas semanais. Apelo à Presidência de imediata votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d6474101670bf7af870b1cb0ac6670b967d3bf3929d2a54f22c108754944ee7
+size 252

@@ -1,1 +1,3 @@
-Defesa de manutenção do Veto Parcial nº 52, de 2019, aposto ao Projeto de Lei do Congresso Nacional nº 51, de 2019, acerca de alteração da Lei nº 13.898, de 2019, a respeito das diretrizes para elaboração e execução da Lei Orçamentária de 2020. Incoerência do discurso do Governo Jair Bolsonaro a respeito da votação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4abad3bc09d422712bfd4e4216680c7efe59072090d7b3dbc751627af11e10b3
+size 348

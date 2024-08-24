@@ -1,1 +1,3 @@
-Associação da Presidência às homenagens póstumas prestadas pela Casa ao Deputado Ricardo Izar. Apresentação de votos de condolências aos familiares do Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1c2d84ba03e23d2a749b3831561fefc5b5bb809c27810a6b8f6ab8c28d87912
+size 171

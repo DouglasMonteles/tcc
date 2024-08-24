@@ -1,1 +1,3 @@
-Acerto da destinação para as áreas de educação e pesquisa e agendas sociais de recursos do Fundo Social, constituído com verbas oriundas da exploração de petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4efa906bbf4b00961e099347ca03a8cc11fa4cc2d70e6fba4e076a77992878a
+size 191

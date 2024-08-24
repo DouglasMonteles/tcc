@@ -1,1 +1,3 @@
-Lançamento, pelo Governo Federal, da 3ª fase do Plano de Expansão da Rede Federal de Educação Superior, Profissional e Tecnológica. Instalação de unidade do Instituto Federal de Educação, Ciência e Tecnologia - IFET no Município de Monte Carmelo, Estado de Minas Gerais. Descumprimento, pelo Governo Estadual, de decisão do Supremo Tribunal Federal sobre a aplicação da lei que fixa o piso salarial nacional para profissionais do magistério público na educação básica. Apoio à mobilização de professores mineiros por melhorias salariais. Saudação aos servidores dos Correios, presentes nas galerias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6a2a83a9a29084268e2918990fcfb4599f054c1ff6d9b9493fba467c11d087d
+size 624

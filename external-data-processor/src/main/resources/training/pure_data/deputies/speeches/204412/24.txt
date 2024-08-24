@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 5.114, de 2019, sobre a instituição do Dia Nacional da Criança Traqueostomizada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14b61aa83167700f77b3a84e30c50aa173c2a8d33a51a07e079db90f4d49832b
+size 116

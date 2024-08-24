@@ -1,1 +1,3 @@
-Reiteração de pedido ao Ministro da Justiça de adoção de medidas de enfrentamento da violência nos Municípios goianos localizados no entorno do Distrito Federal, especialmente quanto à volta de efetivo da Força Nacional de Segurança Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d922d386a31198e1b03a9376bcd623489c2694bd8c19a6224acd97a4de7824c6
+size 252

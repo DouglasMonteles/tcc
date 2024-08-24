@@ -1,1 +1,3 @@
-Homenagem à memória do cantor e compositor Antonio Carlos Belchior, ao ensejo do transcurso do 75º aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76b60e7783c783c151abac5acb7c135944c18e66edcb786d7d15f8fb83f92b9c
+size 126

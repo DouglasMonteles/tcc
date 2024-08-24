@@ -1,1 +1,3 @@
-Anúncio da realização pela Comissão de Educação e pela Casa, respectivamente, de seminário e de sessão solene a respeito do ensino domiciliar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1390bf0075fa33fe8ea04e142579cda8770d58d031911094ebbcfaeb343f51a9
+size 150

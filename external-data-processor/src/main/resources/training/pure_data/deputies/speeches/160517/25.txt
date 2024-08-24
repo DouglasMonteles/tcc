@@ -1,1 +1,3 @@
-Realização da 3ª etapa do Plano de Expansão da Rede Federal de Educação Superior, Profissional e Tecnológica. Reiteração do apelo de liberação do trânsito no quilômetro 28 da BR-259, no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f3e9b69555bc96e4319edd69bb6bdb8adde8cf2a7e72092105b6d7b5450526f
+size 225

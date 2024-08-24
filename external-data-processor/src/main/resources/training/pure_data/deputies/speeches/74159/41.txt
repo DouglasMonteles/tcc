@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo  à   Emenda 13, destacada, ao Projeto de Lei de Conversão da Medida Provisória 526 de 2011 (Constitui fonte de recursos adicional ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, altera o art. 1º da Lei 12.096 de 2009,   dispões sobre medidas de suspensão temporária de   exigências  de regularidade fiscal, e dá outras providências), que determina que do montante adicional de financiamentos subvencionados a serem concedidos pelo BNDES, resultante da aplicação do art. 1º da Medida Provisória, no mínimo 50% deverá ser repassado às micro, pequenas e médias empresas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06da36e4c7ab4766bf89ba7c0e6beafdb45799a1a627114c0765d64dfdfefd50
+size 640

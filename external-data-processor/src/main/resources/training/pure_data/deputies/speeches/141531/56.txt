@@ -1,1 +1,3 @@
-Inauguração de fábrica de transformadores de alta tensão pela empresa Balteau Produtos Elétricos no Município de Itajubá, Estado de Minas Gerais. Congratulações ao Presidente da empresa, Ricardo Vinhas, e ao Presidente da Confederação Nacional da Indústria - CNI, Robson Braga de Andrade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d39cbce760150b7013f4d78b317e54ff8854a1bd4af999cf5479fb08fab02a6
+size 300

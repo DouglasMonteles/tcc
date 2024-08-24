@@ -1,1 +1,3 @@
-Avaliação positiva dos primeiros 100 dias do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e3bfbde394579385cd1b5c7bf79081c9af8229220021973d4368aa1cd1101c6
+size 70

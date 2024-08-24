@@ -1,1 +1,3 @@
-O Deputado destacou a aprovação recente de dois projetos importantes para as mulheres brasileiras. O primeiro concede o direito à cirurgia de reparação estética para mulheres vítimas de violência doméstica, enquanto o segundo trata da reparação de mama para aquelas que passaram por cirurgia devido ao câncer de mama. Reafirmou seu compromisso com as mulheres, mencionando a criação da Patrulha Maria da Penha em Mato Grosso durante sua gestão como Comandante-Geral da Polícia Militar daquele estado, que contribuiu significativamente para a prevenção da violência contra as mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fd0c9b92b5903cbba029d84420bbbfaacf1ecdd93d95ef41904c086a345e2b2
+size 603

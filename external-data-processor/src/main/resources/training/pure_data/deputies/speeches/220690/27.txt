@@ -1,1 +1,3 @@
-Declaração de voto contrário à aprovação da Proposta de Emenda à Constituição nº 45, de 2019, relativa à alteração do Sistema Tributário Nacional. Defesa de supressão do dispositivo da propositura destinado à criação do chamado imposto de carbono.
+version https://git-lfs.github.com/spec/v1
+oid sha256:335f82f5e6617f7840afe63154114698764ab83668ecc96addc2f95d45d64563
+size 265

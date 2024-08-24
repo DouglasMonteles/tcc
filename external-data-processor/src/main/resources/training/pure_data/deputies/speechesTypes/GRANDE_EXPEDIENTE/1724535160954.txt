@@ -1,1 +1,3 @@
-Influências políticas norteadoras da atuação do Parlamentar. Apresentação da pauta prioritária. Indignação com o excesso de edição de medidas provisórias. Empenho na garantia dos direitos sociais da população carente. Defesa da realização da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29539b949974aea19d0e3f5eea4a3d10434cce2e7e7f1bda9d64ef04be36e6bb
+size 276

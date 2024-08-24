@@ -1,1 +1,3 @@
-Defesa da instalação de unidade do Instituto Federal de Educação, Ciência e Tecnologia - IFET no Bairro de Mangabeira, em João Pessoa, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be01f30b6b366157fa16b57c739df5b879b2ff06dd7ebf0bc0e49446d97948db
+size 160

@@ -1,1 +1,3 @@
-Retomada de esquemas de corrupção pelo Governo Luiz Inácio Lula da Silva. Orientação de bancada na votação do Recurso nº 39, de 2007, contra a apreciação conclusiva do Projeto de Decreto Legislativo nº 2.440, de 2006, da Comissão de Ciência e Tecnologia, Comunicação e Informática, acerca da aprovação do ato de outorga à Fundação Antonio Gomes Neto para execução dos serviços de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Lavras da Mangabeira, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d78d94cb2546b48c63f214f08f00ea7229ff7124368924b71d980c680c73828e
+size 542

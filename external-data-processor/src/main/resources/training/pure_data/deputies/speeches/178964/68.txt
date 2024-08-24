@@ -1,1 +1,3 @@
-Transcurso do Dia do Cooperativismo. Participação em evento de lançamento do Prêmio Cooperativismo Gaúcho de Jornalismo, em Porto Alegre, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e342b30e8e89d18b3a717a0e456412cfd015b5b593c3ae07d502da96da2ae341
+size 171

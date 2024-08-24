@@ -1,1 +1,3 @@
-Transcurso do centenário de criação da Universidade Federal Rural do Rio de Janeiro - UFRRJ. Realização pelo Senado Federal de sessão solene ao ensejo da efeméride.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc0191089307f6e8fb05c99156df1d59d71366d4ad2c57e719463b1c5f7d9d86
+size 171

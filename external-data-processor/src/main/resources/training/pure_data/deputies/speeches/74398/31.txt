@@ -1,1 +1,3 @@
-Razões da visita, à Casa, da Ministra-Chefe da Casa Civil da Presidência da República, Dilma Rousseff. Imediata apreciação da proposta de reforma tributária pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:374d9b315c200ef1858ff7cdd787c3dba496a0e81229be21743eed1087f5080f
+size 191

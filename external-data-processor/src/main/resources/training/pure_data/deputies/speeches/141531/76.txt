@@ -1,1 +1,3 @@
-Celebração de protocolo de intenções entre o Instituto Estadual de Florestas - IEF, de Minas Gerais, e a empresa Anglo American Brasil sobre o repasse de recursos para a preservação do Parque Estadual da Serra do Brigadeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbe2013425601c2103bb405860e64893f9ed978c655c8057d554ad714d062eac
+size 230

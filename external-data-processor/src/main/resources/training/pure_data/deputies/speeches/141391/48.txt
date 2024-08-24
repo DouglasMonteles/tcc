@@ -1,1 +1,3 @@
-Solidariedade à greve de advertência realizada pelo Sindicato Nacional dos Servidores das Agências Nacionais de Regulação - SINAGÊNCIAS. Avaliação da Política de Desenvolvimento Produtivo, lançada pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c230f39d59ad01894fdf5e261c35faf73ad611b346a504980b5119749756399
+size 250

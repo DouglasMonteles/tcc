@@ -1,1 +1,3 @@
-Debate de políticas públicas em apoio e defesa dos direitos das vítimas da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1c5a146fa2e2672565f5f4af41bb59262403ccbb735deb27496787c8076ef4f
+size 87

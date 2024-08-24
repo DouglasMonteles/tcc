@@ -1,1 +1,3 @@
-Registro da atuação do orador na viabilização da instalação do porto fluvial do Município de Praia do Norte, Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8aa7adaedbe21992f8d3686816baa10fa16e215db10a0eacea9932479a0cf22
+size 136

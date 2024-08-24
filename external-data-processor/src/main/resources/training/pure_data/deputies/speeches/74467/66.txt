@@ -1,1 +1,3 @@
-Posicionamento contrário do PDT ao Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória 559 de 2012 (Autoriza a Centrais Elétricas Brasileiras S. A  ELETROBRAS  a adquirir participação na CELG Distribuição S.A - CELG D e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c6a62876452681ff8a35c321ad26f68597e53f6aa69e492a555632cd267d73c
+size 272

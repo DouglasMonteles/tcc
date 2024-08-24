@@ -1,1 +1,3 @@
-Comemoração do Dia do Maçom.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83d13e24ce9eacdf45671ea2722ef3a22577fb55f56dd9ecea945658c83c62ce
+size 31

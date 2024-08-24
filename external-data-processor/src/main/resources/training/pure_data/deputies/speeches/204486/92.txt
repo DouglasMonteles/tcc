@@ -1,1 +1,3 @@
-Apelo ao Ministro a Economia, Paulo Guedes, por imediata definição de valores para garantia de operações de crédito junto aos Estados brasileiros. Alerta sobre as consequências advindas da alteração das regras de acesso dos Estados ao Programa de Recuperação Fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:015ab0ee62e0d00e408e5803df1aa0b361c8a72629ccaf03bcb73b1e5ab45e26
+size 276

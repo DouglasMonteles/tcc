@@ -1,1 +1,3 @@
-Reconhecimento dos brasileiros pela contribuição dos Governos Luiz Inácio Lula da Silva e Dilma Rousseff ao desenvolvimento social do País. Ações e programas ministeriais dos Governos petistas para a redução da pobreza e da miséria. Afastamento da Presidente da República, Dilma Rousseff, com objetivo de suspensão do ciclo de conquistas sociais. Reafirmação de lideranças das Forças Armadas de fidelidade à Constituição e ao ordenamento jurídico do País. Reiteração de luta do orador contra interesses antagônicos à maioria da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:821c3bd0f9f4d5f0a5ac5bed862a98b5c8104f72a17e7a583689d8d068e01d70
+size 575

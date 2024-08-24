@@ -1,1 +1,3 @@
-Caráter histórico do pronunciamento do ex-Presidente Luiz Inácio Lula da Silva, proferido no Sindicato dos Metalúrgicos do ABC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45236a845d8aa84786a761960fcbeb0a1a1bedfb690457fe2d79efb23612f1e2
+size 131

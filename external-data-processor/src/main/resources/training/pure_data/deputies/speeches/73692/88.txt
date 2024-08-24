@@ -1,1 +1,3 @@
-Solidariedade ao Presidente do Instituto Brasileiro de Turismo - EMBRATUR, Flávio Dino, diante do falecimento do seu filho Marcelo Dino em hospital no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f911ec4f2b81b6a0794be80d54b316268b065148de385e212777849d76b7b122
+size 169

@@ -1,1 +1,3 @@
-Participação da Presidenta Dilma Rousseff no lançamento de programa vinculado ao Plano Brasil Sem Miséria no Estado da Bahia. Inauguração pela Presidenta da República de unidades residenciais no Município de Juazeiro construídas no Programa Minha Casa, Minha Vida. Participação do orador na romaria de Bom Jesus da Lapa, em companhia do Governador Jaques Wagner e de outros Parlamentares. Incremento do turismo religioso local pelo Governo Estadual. Necessidade de ampliação do aeroporto e de construção de nova rodoviária em Bom Jesus da Lapa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d17413356377b1499df5294b1ed35b0e6dd4e09e8d3ca17c8169ab9a70cfbe63
+size 560

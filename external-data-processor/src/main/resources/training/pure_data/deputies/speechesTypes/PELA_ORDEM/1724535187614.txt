@@ -1,1 +1,3 @@
-Orientação da respectiva bancada. Conclamação aos Parlamentares à apreciação prioritária de proposições relacionadas à proteção dos recursos hídricos no País. Importância das obras da Barragem de Berizal, no norte de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c97e8b7bcd93e3ba3d48c5c87bb89ae9d417c41c96fcfae66f64c5dc4b554d2
+size 246

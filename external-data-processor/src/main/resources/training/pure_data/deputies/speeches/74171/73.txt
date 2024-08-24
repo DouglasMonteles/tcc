@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre curso de direção defensiva para condutores de veículos automotores, no âmbito do Código de Trânsito Brasileiro. Término do processo de ocupação da reitoria da Universidade de Brasília - UnB, por estudantes em protesto contra irregularidades praticadas pelo ex-Reitor Timothy Mulholland. Contestação, pelo Coordenador-Geral da Coordenação das Organizações Indígenas da Amazônia Brasileira, Jecinaldo Saterê Mawé, de declarações do Comandante Militar da Amazônia, Gen. Augusto Heleno Ribeiro Pereira, sobre suposto risco à soberania nacional pela demarcação de áreas indígenas em zonas fronteiriças, em especial da reserva Raposa Serra do Sol, no Estado de Roraima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77a9406e746054f907bf5263db55519642a15e0860d49d59c12163937c99d8f3
+size 731

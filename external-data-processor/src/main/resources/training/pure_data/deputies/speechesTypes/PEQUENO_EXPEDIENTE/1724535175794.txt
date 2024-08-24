@@ -1,1 +1,3 @@
-Decepção com veto sugerido pelo Ministro da Fazenda a dispositivo da Medida Provisória nº 457, de 2009, sobre o parcelamento de débitos de Municípios. Participação na festa de São João realizada no Município de Valença do Piauí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:501d5def08f93976a2d8a09451da8e81ffafa31aac97b3836854c6aa1759f8b8
+size 241

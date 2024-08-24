@@ -1,1 +1,3 @@
-Preservação dos recursos naturais brasileiros. Desafio do País de conciliação do desenvolvimento econômico com a preservação ambiental. Incentivo à proteção do meio ambiente no processo de reformulação do Código Florestal Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6144d05c97586bf9510b478c18e3b6cb6da38aadba04f8561e88bd7ed51f5811
+size 247

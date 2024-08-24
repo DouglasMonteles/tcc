@@ -1,1 +1,3 @@
-Congratulações ao Ministério dos Transportes pela retomada obras da BR-174 no Estado de Roraima. Reexame, pelo Presidente Luiz Inácio Lula da Silva, da portaria ministerial a respeito da nulidade de processos de incorporação de servidores públicos dos ex-Territórios Federais do Amapá, de Roraima e Rondônia no quadro em extinção da União. Agradecimento aos Parlamentares pelo apoio à criação da Frente Parlamentar Mista de Apoio e Fortalecimento das Defensorias Públicas dos Estados e da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2350ea33890b21100481983745caeef79d66fbae5396be3918668dbda75dc0
+size 513

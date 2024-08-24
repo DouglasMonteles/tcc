@@ -1,1 +1,3 @@
-Realização de evento filantrópico na comunidade de Jacu, Distrito de Burarama, no Município de Cachoeiro de Itapemirim, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87d99c475c360e534d525c1a15c5cfcb7c8423a7913c1c1ba0605182e183f86b
+size 150

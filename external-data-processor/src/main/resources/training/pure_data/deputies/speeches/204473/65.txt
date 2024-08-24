@@ -1,1 +1,3 @@
-Apelo ao Presidente do Tribunal Superior Eleitoral, Ministro Luís Roberto Barroso,  por transparência no processo eleitoral brasileiro. Defesa de adoção do voto impresso nas eleições brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b256cfe13f21ba96144be92b83f62cf45e7f34be5a59df4bdaff681a0e517fc
+size 201

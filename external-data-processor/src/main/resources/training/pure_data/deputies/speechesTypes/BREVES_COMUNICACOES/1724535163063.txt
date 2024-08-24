@@ -1,1 +1,3 @@
-Regozijo com o acesso do Botafogo de Futebol e Regatas à primeira divisão do campeonato brasileiro de futebol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3386de8598378516f42e435446032baefdc0fabd0094127b87b3a6ca7c9fdc2
+size 112

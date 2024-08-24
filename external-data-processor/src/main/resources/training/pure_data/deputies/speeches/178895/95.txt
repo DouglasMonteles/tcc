@@ -1,1 +1,3 @@
-Pesar pela qualidade dos serviços de saúde pública no Brasil. Publicação, pelo jornal O Globo, de levantamento sobre quantitativo de óbitos no Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:477aae958baddc658a393d561124ee33f4b11ff28f7faafe2a05ba27200406b5
+size 180

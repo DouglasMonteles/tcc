@@ -1,1 +1,3 @@
-Assassinato da Profa. Elisabeth Tenreiro em escola pública de São Paulo, Estado de São Paulo. Defesa de aprovação, pela Câmara dos Deputados, de medidas de proteção à vida dos professores brasileiros. Pedido à Casa de aprovação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 254, de 2023, sobre a alteração de dispositivos das Leis de nºs 8.742, de 1993, e 14.176, de 2021, com vista à flexibilização dos critérios de acesso ao Benefício Prestação Continuada – BPC, previsto na Lei Orgânica da Assistência Social – LOAS, por parte das pessoas com deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09f7ab13dd41b5bc475417140cea31ec435f16b4299f7217b33e41cfb63b7fde
+size 618

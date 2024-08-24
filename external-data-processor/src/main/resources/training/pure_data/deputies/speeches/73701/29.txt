@@ -1,1 +1,3 @@
-Congratulações à Deputada Rose de Freitas pela assunção da Presidência da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:616c8268e66b1b9291fa2d6dd0965fa7b7ad76b827a9760fe7ea45f844f4c762
+size 85

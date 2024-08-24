@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação das Emendas do Senado Federal ao Projeto de Lei nº 3.626, de 2023, que dispõe sobre a modalidade lotérica denominada apostas de quota fixa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1a80289d065d42d970e0dccf08c7cc8e38500db1ccd2f77839a078b961f5377
+size 185

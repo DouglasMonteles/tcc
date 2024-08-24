@@ -1,1 +1,3 @@
-Pedido ao Governo Federal de celeridade nas providências em prol da segurança pública no Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1da921602738d4cc60251e2ee5df05263c8963dae01ddc5fa994779cd6e3d295
+size 117

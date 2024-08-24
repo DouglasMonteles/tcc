@@ -1,1 +1,3 @@
-Apreciação pela Casa do Projeto de Lei nº 996, de 2015, sobre a alteração do art. 121 do Decreto-Lei nº 2.848, de 1940, (Código Penal), para tipificação de homicídio praticado contra membros do Ministério Público e da magistratura no exercício de suas funções. Escalada da violência no País. Aparelhamento das forças policiais e melhoria das condições de vida do povo brasileiro, como medidas de combate à criminalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09f762cfe3ea8544938a12dda318e0a35f169d3628124563d9b9b3e3ad7bbc59
+size 441

@@ -1,1 +1,3 @@
-Pedido de apoio aos Deputados da Casa à Indicação nº 3.382, de 2017, de autoria do orador, dirigida ao Poder Executivo, relativa à revisão, pelo Conselho Curador do Fundo de Garantia do Tempo de Serviço - FGTS, dos critérios adotados para o parcelamento de débitos de contribuições devidas ao Fundo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79fe2587b243efce0a9453a12b2f6b28e4679c3484c9e4f09ddc9b7331b161ad
+size 310

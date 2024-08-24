@@ -1,1 +1,3 @@
-Inconsistência da acusação de Deputado contra o Senador Otto Alencar por exercício ilegal da medicina. Manutenção pelo orador do posicionamento político contra o Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af6863c5d0a0a44eb1a6df265da172d1afc4af8c2fe5d0b440012456680c8c7a
+size 192

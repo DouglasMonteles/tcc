@@ -1,1 +1,3 @@
-O Deputado registrou a visita do Pastor Joab Saraiva da Igreja Assembleia de Deus em Cristo (ADVEC), de Caruaru, acompanhado do Pastor Silas Malafaia à Câmara dos Deputados. Agradeceu pela visita e despediu-se com um ditado do Pastor Joab.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01f38c54e35142a981c20c800e9523d47e819101d5dc7f0e3cfb67e49b8c5d31
+size 241

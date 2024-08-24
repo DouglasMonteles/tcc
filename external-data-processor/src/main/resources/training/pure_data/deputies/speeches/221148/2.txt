@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Repúdio à disseminação de ódio e preconceito contra as mulheres por Deputado no plenário. Alerta às populações da periferia sobre a importância da escolha de seus representantes no Poder Legislativo. Razão do assassinato da Vereadora Marielle Franco, da Câmara Municipal do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79e3b176f762c0c2f11beda5a90e043d033c8aacc2b8c208b2d87073c59afb27
+size 344

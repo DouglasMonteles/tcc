@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à proposta de reforma da Previdência Social. Impacto da Desvinculação de Receitas da União sobre o déficit previdenciário brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b9e56e520d10871761cd4a5785ad6ae43fa143009e191c6627ceacaeed1166f
+size 176

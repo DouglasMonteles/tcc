@@ -1,1 +1,3 @@
-Importância de programas sociais implantados pelo Governo petista. Apoio à Proposta de Emenda à Constituição nº 439, de 2009, a respeito da preservação da Zona Franca de Manaus. Implantação de política de interiorização industrial no Estado do Amazonas. Oportunidade de revisão do pacto federativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b048e0e8f631d9b237c09d6397e7ce01c7a04f9f412eb3f84e9754bdae448f0
+size 312

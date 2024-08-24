@@ -1,1 +1,3 @@
-Reafirmação da importância do carvão mineral para o Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0b4caec2d2f858f79c813f255c721d627d07da3d67af30d2eed6f829cb5c6ab
+size 84

@@ -1,1 +1,3 @@
-Sinais de retomada do crescimento socioeconômico brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0c48da4469b64352dc569cfe967bc773c230f2f695e131207075fb1fad617d2
+size 61

@@ -1,1 +1,3 @@
-Questionamento sobre as razões da omissão do então Juiz Federal, Sergio Moro, e do ex-Procurador da República, Deltan Dallagnol, sobre a venda de informações sigilosas da PETROBRAS pelo ex-funcionário da estatal, Sr. Jorge Hardt Filho, pai da Juíza da Operação Lava-Jato, Gabriela Hardt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcce8b8ab67ccbffdbb047c1d0bcbe529c1c359eeb9d755f1e71a348ff73c67a
+size 297

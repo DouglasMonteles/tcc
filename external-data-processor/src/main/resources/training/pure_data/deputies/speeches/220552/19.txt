@@ -1,1 +1,3 @@
-Críticas à proposta de reforma tributária em tramitação na Casa. Tentativa de implementação de ditadura no País pelo governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba0e238a4e9d9636f48577c617ea3e8c908a231dfb68fa0cf8d2982de8293543
+size 141

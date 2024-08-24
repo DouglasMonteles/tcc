@@ -1,1 +1,3 @@
-Protesto contra a convocação da Força Nacional de Segurança Pública durante a realização do  Acampamento Terra Livre na Esplanada dos Ministérios. Críticas ao Governo Federal pelo sigilo a informações de estudos e pareceres técnicos acerca da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:144ea485310c872a4a4a027bbc0de44a486a2202f2c1889c9eecb9e64d8925d0
+size 279

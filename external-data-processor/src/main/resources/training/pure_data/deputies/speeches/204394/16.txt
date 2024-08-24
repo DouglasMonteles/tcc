@@ -1,1 +1,3 @@
-Protesto contra o anunciado corte de recursos destinados à educação pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58fdd46ca45fa662e57aa91199ad92fe479e65240daddc2810a506104b644611
+size 80

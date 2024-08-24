@@ -1,1 +1,3 @@
-O Deputado expressou o seu repúdio à atuação do Núcleo Regional de Educação e da Secretaria de Educação do Estado do Paraná, em virtude de perseguição empreendida contra alunos, diretores e professores, após denúncias acerca da situação precária do Colégio Jardim Panorama, no Município de Sarandi. O Parlamentar exigiu que as autoridades educacionais tomem medidas adequadas para resolver os problemas, em vez de pressionar os alunos de maneira inadequada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d04044c986841d9070b8808b04c80a79544cd8aea7d9f174dd48a580e2c0d92
+size 476

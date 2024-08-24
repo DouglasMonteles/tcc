@@ -1,1 +1,3 @@
-Comoção gerada por estupro ocorrido no Estado de Minas Gerais. Defesa de criação, pelo Parlamento brasileiro, de legislações consonantes com as demandas da sociedade brasileira. Importância do amparo da sociedade pelo Estado brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce0923eaef9879ebb9ce2dbb43c84c0e36ae6ecd00d1c1a05bbb5dc3eadf2d89
+size 243

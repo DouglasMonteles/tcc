@@ -1,1 +1,3 @@
-Caráter humanitário dos serviços oftalmológicos prestados no Estado de Pernambuco pela Fundação Altino Ventura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5b3aab494bfb4a3fe929d67f3238b052971dc81b3e5fb3449a1d45b4ac880bc
+size 117

@@ -1,1 +1,3 @@
-Transcurso do 10º aniversário do Sistema Único de Assistência Social - SUAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:740e0d7c51e90536811803ffd696188caee4ed770f3e9771c623fa330e87cb6d
+size 80

@@ -1,1 +1,3 @@
-Construção da Ferrovia Bahia-Oeste. Conveniência de utilização de tecnologia chilena no desenvolvimento de projetos de irrigação no Vale do São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00e5f0f756833c282e633b0c0e7234b9c6bbfc7cc1ab4db753fb717f21702bfd
+size 162

@@ -1,1 +1,3 @@
-Associação ao discurso do Deputado Eduardo Bolsonaro sobre o direito de ação em legítima defesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aa9412840c3f051be11af379cf104301a73a9a28b97027b66a226aa66c63fc8
+size 101

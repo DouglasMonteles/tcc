@@ -1,1 +1,3 @@
-Encaminhamento da votação da Medida Provisória nº 875, de 2019, relativa a Auxílio Emergencial Pecuniário para famílias de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c36c63cb78aefb466ce31c2c9f21b8329bdf2cd77ef052a3fe561ce6e9f4007
+size 165

@@ -1,1 +1,3 @@
-Congratulações à Presidenta Dilma Rousseff pela desoneração dos componentes da cesta básica. Apoio à candidatura do ex-Governador Alceu Collares para Presidente Nacional do PDT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77c8aab05165d35123f0886061962a80f1449a98b779c2f40a131e21ad273f2d
+size 184

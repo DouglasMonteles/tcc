@@ -1,1 +1,3 @@
-Vinculação entre a participação do Presidente eleito Luiz Inácio Lula da Silva na 27ª Conferência do Clima da Organização das Nações Unidas, no Egito, e a retomada do protagonismo do Brasil nas discussões internacionais sobre o meio ambiente. Retrocesso da política ambiental do Governo Jair Bolsonaro. Balanço positivo dos resultados da COP 27. Impactos do aquecimento global no Brasil. Pedido à Casa de aprovação dos Projetos de Lei nºs 4.129, de 2021, sobre o estabelecimento de diretrizes de formulação do plano nacional e dos planos estaduais e municipais de adaptação das cidades às mudanças climáticas; e 1.410, de 2022, acerca da criação de seguro para famílias afetadas por desastres naturais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3d27989856b0357ffd00060b7b2f4633349c393bc627642b5d6978f752688fe
+size 730

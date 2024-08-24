@@ -1,1 +1,3 @@
-Reportagem sob o título Extrema-unção, publicada pela revista CartaCapital.Anúncio de mobilização de movimentos sociais em prol da reforma agrária, em Brasília, Distrito Federal. Realização de romaria ao Santuário de Bom Jesus da Lapa, no Estado da Bahia. Participação do orador na Romaria da Terra e das Águas realizada, na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39c997343fb23282d67f96db3ff5e2a71e4ea42b4e43dd815c4623e087cbfe41
+size 354

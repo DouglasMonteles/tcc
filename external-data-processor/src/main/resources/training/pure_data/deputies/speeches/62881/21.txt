@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a alteração da estrutura e do funcionamento de Conselhos Tutelares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a29cf6e52945e92f105ac29bddbb0d62f507ef2a21ad08fd2bc03bb8202694e1
+size 108

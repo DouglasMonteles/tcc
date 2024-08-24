@@ -1,1 +1,3 @@
-Baixa qualidade dos serviços prestados aos usuários pela empresa de telefonia Vivo, no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41075d6f35675534fc292212fdb771837b2cc65b7df0dd1c2574ce52e1e6625f
+size 115

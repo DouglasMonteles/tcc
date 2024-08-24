@@ -1,1 +1,3 @@
-Falecimento do ex-Senador Abdias do Nascimento, expoente na luta contra o preconceito racial no País. Eficiência da gestão do Prefeito Municipal de Vitória da Conquista, Estado da Bahia, Guilherme Menezes. Defesa dos pleitos da municipalidade: construção de aeroporto e de adutora, e criação da Região Metropolitana de Vitória da Conquista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9c35650ba38da816a8ebf403c4ffc9213f080c7c3e27ad1f05601a10310f1e1
+size 350

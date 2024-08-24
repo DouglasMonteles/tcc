@@ -1,1 +1,3 @@
-Maior atenção das autoridades contra a prática de bullying no ambiente escolar. Suspeitas sobre o envolvimento do atirador responsável pelo massacre do Realengo, no Rio de Janeiro, como vítima de tal prática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0926542dd1b3450e9a9095ea0c3dd4030ad1a687fe14f0fa77bcc8bb7081ace
+size 214

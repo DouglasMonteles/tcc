@@ -1,1 +1,3 @@
-Escalada da violência e da criminalidade no País. Reexame de dispositivos do Código Penal Brasileiro e da Lei de Execução Penal. Eficiência da Polícia Militar do Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:152f7f70458f0331f9192b6f7a1a0aa716ede76c69a1c5eb256f4d05df9634f8
+size 190

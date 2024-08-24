@@ -1,1 +1,3 @@
-Solicitação à Presidência de concessão do prazo de uma sessão para apresentação do parecer à  Medida Provisória 466 de 2009 (Dispõe sobre os serviços de energia elétrica nos Sistemas Isolados e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dc02420053995ccfed4af2f48744df321e38e445e77674c434d693ef0b31c46
+size 233

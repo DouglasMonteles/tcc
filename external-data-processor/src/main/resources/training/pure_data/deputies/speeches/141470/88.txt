@@ -1,1 +1,3 @@
-Apresentação pela Ministra-Chefe da Casa Civil, Dilma Vana Rousseff, do sétimo balanço das obras do Programa de Aceleração do Crescimento - PAC. Contestação de pronunciamento proferido pelo Líder do Democratas em sessão anterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:664cae197a46869a0ff61727228b55814fff2c334278b7da10ffdfa11e885180
+size 239

@@ -1,1 +1,3 @@
-O Relator esclareceu dúvidas do Deputado Glauber Braga sobre o Projeto de Lei nº 11.247, de 2018, que disciplina o aproveitamento de potencial energético offshore e dá outras providências. Explicou que o projeto não permite novas usinas termelétricas a carvão, mas sim a renovação de contratos de usinas já em operação, seguindo um modelo semelhante ao aplicado em Santa Catarina, com um prazo de renovação até 2050.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff0cf98ee54c91c94bab0adc6c0d4f16a96add049179adfb37ed4fff0a5a5194
+size 432

@@ -1,1 +1,3 @@
-Congratulações aos Relatores do Projeto de Lei 7.494 de 2006 , especialmente ao da Comissão de Educação e Cultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9ffbb14c77602b2e0f8ce9dc1011fa9d85e6dc6cf3884f3c1756e7991d92b11
+size 119

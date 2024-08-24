@@ -1,1 +1,3 @@
-Concessão, pelo Secretário de Saúde do Governo do Estado de Minas Gerais, Fábio Baccheretti, de audiência ao orador e ao Diretor do Hospital Santa Lúcia do Município de Poços de Caldas, Assad Aun Netto, para debate do descredenciamento dos serviços de cardiologia da unidade hospitalar. Empenho no credenciamento de leitos de UTI da Covid-19, em desuso, para a realização de cirurgias eletivas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c859829180e081fe24e0cbdb89be04e119e6b37b29d3826ef50d2050aca8c6ec
+size 405

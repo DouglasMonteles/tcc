@@ -1,1 +1,3 @@
-Presença, na Casa, de caravana de aposentados em busca de apoio ao Projeto de Lei n° 1, de 2007, com o texto de emenda do Senador Paulo Paim, destinado à extensão do índice de reajuste do salário mínimo às aposentadorias e pensões. Pedido às Lideranças partidárias de inclusão da matéria na Ordem do Dia. Anúncio de realização, pela Comissão de Seguridade Social e Família, de audiência pública para debate da extinção do fator previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5ab33f8f61dcea2eb09430c7672913d257ce6a537da60267be398a6cb99d9be
+size 467

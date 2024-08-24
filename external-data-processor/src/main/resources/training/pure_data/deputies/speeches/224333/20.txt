@@ -1,1 +1,3 @@
-Inauguração de indústria farmacêutica no Município de Toledo, Estado do Paraná. Realização de investimentos em ciência e tecnologia pelo Grupo Prati-Donaduzzi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c6ab340825ddf0adfb1f2cfb7bda764af98ef53a58c0677ff8b02a072efd4da
+size 168

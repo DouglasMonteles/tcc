@@ -1,1 +1,3 @@
-Contestação ao discurso de Deputado a respeito das queimadas na floresta amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13507652ec46554e19b74d617e050f66d1a8ed97e267e7787c2a73c37cf67685
+size 86

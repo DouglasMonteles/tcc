@@ -1,1 +1,3 @@
-Transcurso do Dia do Professor. Relevância do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB. Posse da nova diretoria do Sindicato dos Trabalhadores em Educação do Estado da Bahia. Implementação do Piso Salarial Profissional Nacional. Transcurso do 96º aniversário de fundação do jornal A Tarde, de Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:779fbe97e523e5b6924f60f66ae273602d7d6c643898b70a80ae1a1c2232bc8e
+size 409

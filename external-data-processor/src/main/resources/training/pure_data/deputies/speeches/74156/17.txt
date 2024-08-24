@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Meio Ambiente. Realização da Semana do Meio Ambiente no Município de Governador Valadares, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b3294e8fa7553beb7ca3fe2dcc88b381148446474ad40abc47b517a8a0c8bf4
+size 146

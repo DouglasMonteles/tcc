@@ -1,1 +1,3 @@
-O Deputado expressou seu pesar em relação à atuação do Comando da Marinha, destacando a importância histórica da instituição. Ele abordou o Projeto de Lei nº 757, de 2022, aprovado por unanimidade na Câmara, que trata do rodízio entre práticos e a regulação técnica e arbitragem para conflitos econômicos relacionados à prática de preços. Refutou argumentos da Marinha, como a alegação de falta de aparato para estabelecer preços quando acionada, apresentando documentos que comprovam o contrário. Criticou a postura da Marinha, acusando-a de prejudicar a imagem da instituição com atitudes inadequadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12a591968aae2aa29f282e8187e412957203f8dee4d66351d82571f451c68e45
+size 629

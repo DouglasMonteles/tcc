@@ -1,1 +1,3 @@
-Malefícios causados à saúde humana pelo uso de álcool. Defesa de proibição da propaganda de bebidas alcoólicas nos meios de comunicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5463cf377b6049f3589bac001fdb8da274c308f19682fcf7d18c3b3573f7b9b3
+size 145

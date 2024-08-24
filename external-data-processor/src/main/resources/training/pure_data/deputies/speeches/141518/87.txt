@@ -1,1 +1,3 @@
-Esclarecimento ao Deputado Pompeo de Mattos a respeito da Emenda de Plenário nº 7.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08fad2363360e17d8b861449ce1c0d1a11450672a9bce6b4629d90ea8547715f
+size 84

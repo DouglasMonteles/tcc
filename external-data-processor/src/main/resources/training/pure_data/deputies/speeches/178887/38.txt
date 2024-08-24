@@ -1,1 +1,3 @@
-Elogios à Prefeita Suely Pereira, do Município de Matões, Estado do Maranhão, pela inauguração de escolas nos povoados de Carreira D'agua, Vargem, Assuviante e Rabo da Mambira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e03c05b5ffffb242a5c07e6f17017c76b81644a553e8d9b5021e166e6fd44feb
+size 182

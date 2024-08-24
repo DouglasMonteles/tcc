@@ -1,1 +1,3 @@
-Associação às manifestações de solidariedade ao ex-Presidente Luiz Inácio Lula da Silva. Apoio ao posicionamento das bancadas federais dos Estados do Rio de Janeiro e do Espírito Santo, pela manutenção de contratos celebrados a respeito da exploração de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30f68776ce54029ce7872a2826243060d95eab4611f30822f51bad00fa40bf8d
+size 275

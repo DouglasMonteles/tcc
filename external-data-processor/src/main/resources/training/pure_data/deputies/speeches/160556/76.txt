@@ -1,1 +1,3 @@
-Contentamento com a suspensão da liminar pela retirada da comunidade indígena guarani-kaiowás de fazenda localizada no Estado de Mato Grosso do Sul. Entraves causados pelo Poder Judiciário aos processos de demarcação de terras indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f64f5f5ca61d53c547fbc3c994fa68809fe3de625bad3b52236e104af759d43d
+size 244

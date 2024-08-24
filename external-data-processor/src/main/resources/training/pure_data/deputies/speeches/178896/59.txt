@@ -1,1 +1,3 @@
-Comissão Geral para debate do tema O Marco Regulatório dos Jogos de Azar no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04041108ca257974e3a01efbc42c4c0784e0b1f5fa3754034f73b40098cd051b
+size 85

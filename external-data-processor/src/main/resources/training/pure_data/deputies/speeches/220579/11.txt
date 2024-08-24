@@ -1,1 +1,3 @@
-Indignação da oradora com cena libidinosa infantil protagonizada pelo líder espiritual Dalai Lama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e9c8cb394d7a4a5360418781b1826c7f8f98946495b75de94c98d8065c468f8
+size 101

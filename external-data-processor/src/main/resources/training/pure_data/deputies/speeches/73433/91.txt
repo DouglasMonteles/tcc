@@ -1,1 +1,3 @@
-Informação ao Plenário sobre a realização de sessão conjunta no dia 12 de março de 2008, destinada à votação do Orçamento Geral da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d22b914970f8588360829f92291b4daa92af4bd360b2b08cda049474085dcca
+size 149

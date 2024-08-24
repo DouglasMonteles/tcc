@@ -1,1 +1,3 @@
-Resistência das indústrias brasileiras à redução das emissões de gases causadores do efeito estufa em 5% até 2020. Considerações sobre as metas estabelecidas pelo País na última conferência mundial sobre o clima, em especial quanto à redução do desmatamento na Região Amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3bdc57c93c12e890c1211962ac95200b4f06c975db8427c639b25d59e2a9f11
+size 295

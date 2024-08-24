@@ -1,1 +1,3 @@
-Anúncio da realização da XVIII Marcha a Brasília em Defesa dos Municípios, organizada pela Confederação Nacional de Municípios. Pauta de reivindicações dos Prefeitos. Preocupação do orador com a situação da segurança pública no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83384800cda11ea531677522b835f78740c4101d36f5b3d3b400384bcb2ece0f
+size 264

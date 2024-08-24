@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional para Eliminação da Violência contra as Mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b0d0c0b32004d8095e5459aca062162b7a47691d1ab01aee9de47b88e3a072a
+size 83

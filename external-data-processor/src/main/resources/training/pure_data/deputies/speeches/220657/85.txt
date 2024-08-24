@@ -1,1 +1,3 @@
-O Deputado expressou insatisfação com a impunidade no Brasil, criticando o Ministro da Justiça, Flávio Dino, por faltar às convocações da Comissão de Segurança Pública e por ações desrespeitosas ao Parlamento. Mencionou a recusa do Ministro em entregar imagens solicitadas por uma CPMI, classificando essas atitudes como crimes de responsabilidade. Expressou preocupação com o processo de aprovação do Ministro para o Supremo Tribunal Federal (STF) e pediu aos Senadores que rejeitem a sua indicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f029c82a59936273bbc01c234a0041f2d6053e5baa44ccfb09e2ea2693c3e48
+size 518

@@ -1,1 +1,3 @@
-Usurpação da competência legislativa do Parlamento brasileiro pelo Supremo Tribunal Federal, demonstrada na votação da proposta de liberação do consumo de drogas no País. Posicionamento da maioria da população brasileira contrário à legalização das drogas, notadamente da cannabis sativa. Danos causados à saúde humana, às famílias e à sociedade em geral pelo uso de substâncias entorpecentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a80be58077a527cb525cf8c448ca14d0735f626c1bf594b4ed05e08d7017e7d
+size 413

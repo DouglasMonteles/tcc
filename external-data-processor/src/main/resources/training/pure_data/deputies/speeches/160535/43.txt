@@ -1,1 +1,3 @@
-Posicionamento dos partidos oposicionistas no Estado da Paraíba contrário à concessão, pelo BNDES, de empréstimo ao Governo Estadual para execução de projetos de infraestrutura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:152d5b11d813b22589cfb923b8df8ebb1d6b03802485f1747bc75762da2600dc
+size 184

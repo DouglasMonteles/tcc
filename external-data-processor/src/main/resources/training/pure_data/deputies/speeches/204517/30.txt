@@ -1,1 +1,3 @@
-Emissão de parecer às emendas de Plenário ao Projeto de Lei nº 3.754, de 2021, sobre o estabelecimento do marco legal das ferrovias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd4811a32fe3c78dabeef547f484279a4039b65404e594e129b392d9c4d76f8b
+size 136

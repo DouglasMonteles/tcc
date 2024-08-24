@@ -1,1 +1,3 @@
-A Deputada informou que apresentou requerimento de Moção de Aplauso em favor de Giovanna Machado, Diretora do Centro de Tecnologias Estratégicas do Nordeste - CETENE, idealizadora do programa Futuras Cientistas. Esclareceu que o programa visa motivar meninas e mulheres a estudarem e estabelecerem carreiras profissionais nas áreas da ciência, tecnologia, engenharia e matemática. Por fim, comunicou sobre o período de inscrições para o programa Futuras Cientistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daa990debcc9fc59c3ed8536017d8a4f2fb12ceed4ce4b1727ab575f2c331e9f
+size 474

@@ -1,1 +1,3 @@
-Parecer, pela Comissão Especial, à Emenda do Senado ao Projeto de Lei de Conversão 1, de 2011 (Medida Provisória 502 de 2010)  que dá nova redação às Leis 9.615 de 1998, que institui normas gerais sobre desporto, e 10.891 de 2004, que institui a Bolsa-Atleta; cria os Programas Atleta Pódio e Cidade Esportiva e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db9dcb3343dd54b870c6d293b09c7cd443cac7931480fe1947ef50ed513341bd
+size 346

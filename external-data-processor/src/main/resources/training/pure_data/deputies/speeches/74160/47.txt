@@ -1,1 +1,3 @@
-Realização, pela Frente Parlamentar Mista em Defesa da Soberania Nacional, de audiência pública para debate da pretendida privatização da Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA. Defesa de sua manutenção como empresa pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01f0c0b3cfd8f78cbbc24588acd4df8e712289a78d57ca1667d79637df1f2d77
+size 249

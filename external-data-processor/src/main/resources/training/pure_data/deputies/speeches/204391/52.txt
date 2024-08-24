@@ -1,1 +1,3 @@
-Legitimidade das manifestações de rua em apoio e em oposição ao Presidente Jair Bolsonaro. Defesa da realização da reforma previdenciária e das medidas anticrime enviadas ao Congresso Nacional pelo Ministro da Justiça e Segurança Pública, Sergio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bef4e84095a5a17a1c46602cc1f5ea155ee0eedbf666b7b1277b633b5b166dc
+size 261

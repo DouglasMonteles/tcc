@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação da Proposta de Emenda à Constituição nº 16, de 2021, que altera o art. 12 da Constituição Federal para suprimir a perda da nacionalidade brasileira em razão da mera aquisição de outra nacionalidade, incluir a exceção para situações de apatridia e acrescentar a possibilidade de a pessoa requerer a perda da própria nacionalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a954cca8e3144e43d13f57871c6794bde1df960965e1c312afeb23a8f084478
+size 386

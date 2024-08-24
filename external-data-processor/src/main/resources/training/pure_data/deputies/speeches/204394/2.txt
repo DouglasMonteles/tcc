@@ -1,1 +1,3 @@
-Protesto contra a apreciação, pelo Supremo Tribunal Federal, de temas de competência do Poder Legislativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03adfe2274ff2f5197e91bffd6625b4f361d944a3e372a0448f644a7383104f8
+size 109

@@ -1,1 +1,3 @@
-Lançamento da página Constituição Cidadã no Portal da Câmara dos Deputados. Anúncio da criação de grupo de trabalho destinado ao estudo da regulamentação de dispositivos da Carta Magna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c5dad281a444e29fbfab7a9824dcb529da594b57d8a40e9ba319cead6d70087
+size 196

@@ -1,1 +1,3 @@
-Apelo aos Deputados de comparecimento ao plenário para votação do Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae183a2c58b4519931e846d5f5fe927486ff2ee02003b88e647ef8467eafb12b
+size 98

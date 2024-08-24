@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda de Plenário nº 1, com parecer contrário, oferecida ao Projeto de Lei Complementar nº 133, de 2020, a respeito da instituição de transferências obrigatórias da União para os Estados, o Distrito Federal e os Municípios, por prazo ou fato determinado; da regra de cessação contida no § 2º, art. 91, do Ato das Disposições Constitucionais Transitórias; e da alteração da Lei nº 13.885, de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42ca4147d4be4a5f3fe0be8a122e3ade90e8ea9eeed5bf116ea5b88d39fdb652
+size 457

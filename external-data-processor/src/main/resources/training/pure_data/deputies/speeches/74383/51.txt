@@ -1,1 +1,3 @@
-Súmula da história da Caixa Econômica Federal no Brasil. Apoio ao movimento dos permissionários de agências lotéricas do País, diante da determinação do Tribunal de Contas da União de realização, pela CEF, de licitação, com vistas à regularização da exploração das agências. Defesa do Decreto Legislativo nº 190, de 2015, que susta o acórdão do TCU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f2872234496abd14e49a7366ea489ec071dd5e3692bea5eaf2c14be3b84a50e
+size 372

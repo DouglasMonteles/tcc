@@ -1,1 +1,3 @@
-Congratulação à Seção de São Paulo da Ordem dos Advogados do Brasil - OAB e à Caixa de Assistência dos Advogados de São Paulo - CAASP pela eleição das respectivas Diretorias. Cumprimentos ao Dr. Luiz Eugênio Marques de Souza pela eleição como Conselheiro da Seção de Orlândia, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:016abc50b4fcdde303db0d95dfecd629e0c058f72757233ed4ece1b0d9329529
+size 315

@@ -1,1 +1,3 @@
-Discriminação racial praticada contra o jogador de futebol Vinícius Júnior na Espanha. Pedido à Casa de apoio ao Projeto de Lei nº 2.745, de 2023, sobre a obrigatoriedade de instalação de câmeras e sistemas de videomonitoramento com reconhecimento facial ou não, em estádios de futebol, ginásios, arenas e demais locais de competições de esportes profissionais, credenciados para realização de jogos/competições oficiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:617e7e574576181003225c71b1c7612d377ae8ebe2a25af4bd2151d74f4fbd69
+size 439

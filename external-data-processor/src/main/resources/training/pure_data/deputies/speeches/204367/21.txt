@@ -1,1 +1,3 @@
-Manifestações de boas-vindas aos correligionários e amigos do orador presentes no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e11bcb77667b968c2c4c37ec7c7acc2130ca999988441b5a7c834ed803ab5fc
+size 102

@@ -1,1 +1,3 @@
-Apoio ao pleito da Associação de Deficientes do Oeste de Minas, sediada no Município de Divinópolis, a favor da consolidação do ensino da Língua Brasileira de Sinais - LIBRAS. Defesa de criação do plano de carreira dos Agentes Comunitários de Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:105cef032fc0ca2abc7c3d60e98804bb78cb2ed29d16dd04b8c2cdda8d0fc1cd
+size 260

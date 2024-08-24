@@ -1,1 +1,3 @@
-Apreensão do orador ante a possibilidade de elevação do percentual de adição de biodiesel ao óleo diesel mineral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6e9de0a91171fd2cb73df03d2b8e8c18bc9dad61fec817224a6184da739dffb
+size 119

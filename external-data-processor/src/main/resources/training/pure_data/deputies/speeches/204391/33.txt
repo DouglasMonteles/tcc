@@ -1,1 +1,3 @@
-Inadiável realização das reformas previdenciária e tributária. Urgente necessidade da adoção de medidas de combate ao desemprego; de retomada do crescimento econômico brasileiro e de melhoria da área de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b01cfe4fadc02c300ee950bdefcf3bead36084cf2a48b73d957d31db62d54d95
+size 232

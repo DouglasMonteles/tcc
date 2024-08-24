@@ -1,1 +1,3 @@
-Contestação a informação sobre a possibilidade de liberação, pelo Governo Federal, da importação de café.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6d4b4054ebffbc6b9137f9438367f355547c75412d552ea5863bd8d812133e8
+size 114

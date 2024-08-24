@@ -1,1 +1,3 @@
-Transcurso do aniversário natalício do Deputado Narcio Rodrigues.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08afce5f9536662921689cfb8f557c435b2a7e1b9e104c57633cb2b8a319c91b
+size 67

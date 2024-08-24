@@ -1,1 +1,3 @@
-O Deputado fez um breve discurso informando que é da região onde a maior rodovia federal brasileira continua com vários trechos sem pavimentação e destacou as dimensões da Transamazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07db0b681c7e8703c8c670690bf724b4991ea80569bfb9a41ad510992d3660b3
+size 194

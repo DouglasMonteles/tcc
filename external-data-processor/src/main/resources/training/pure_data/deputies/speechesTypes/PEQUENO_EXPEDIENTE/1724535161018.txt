@@ -1,1 +1,3 @@
-Transcurso do 237º aniversário de fundação de Porto Alegre, Estado do Rio Grande do Sul. Atuação do orador em prol da capital gaúcha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67dbf8827f206de5963b6605666c302d97e1083e580dbe0a253aee7cd518bd95
+size 140

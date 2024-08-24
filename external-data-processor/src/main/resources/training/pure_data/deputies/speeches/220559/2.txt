@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de assinatura do requerimento de criação de CPMI para investigação de atos de vandalismo praticados contra as sedes dos Poderes da República. Prioridade do Presidente Luiz Inácio Lula da Silva na destruição do legado bolsonarista. Suspensão pelo BNDES de linhas de crédito agropecuário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8f5909bc7ac2296fe763e0d315f8fc118a90c3ae9d6669d7af9161112c923c6
+size 322

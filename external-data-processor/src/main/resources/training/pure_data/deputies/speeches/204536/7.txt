@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de encerramento da discussão e do encaminhamento da votação do Projeto de Decreto Legislativo nº 379-B, de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67d0583ef555a492413799bfd577af9bb13fcbd6a01cdc6459e55a751ca215f7
+size 160

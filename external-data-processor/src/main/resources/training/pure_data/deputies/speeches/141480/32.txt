@@ -1,1 +1,3 @@
-Saudações aos participantes na Marcha a Brasília em Defesa dos Municípios, especialmente aos gestores municipais do Estado de Tocantins. Apoio às demandas dos Prefeitos Municipais brasileiros. Agradecimento ao Ministro da Agricultura, Pecuária e Abastecimento, Wagner Rossi, pelo convite de participação na abertura da Feira Agropecuária do Tocantins - AGROTINS. Contemplação de pequenos produtores rurais no processo de reformulação do Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a294e4bbd83d9488ca89ab8c356c24f85c9222057ea0018d9d55028b1d69882
+size 479

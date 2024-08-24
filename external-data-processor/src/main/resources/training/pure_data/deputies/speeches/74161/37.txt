@@ -1,1 +1,3 @@
-Realização, por órgão da Casa, de audiência pública destinada ao debate do financiamento de entidades terapêuticas envolvidas na recuperação de dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cf2066985b62f0738612ea741d74616c342ce7992949dc07a15dedf755d0479
+size 175

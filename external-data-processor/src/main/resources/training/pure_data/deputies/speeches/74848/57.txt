@@ -1,1 +1,3 @@
-Indignação da oradora com a decisão do Superior Tribunal de Justiça, pela absolvição de acusado por estupro de menores. Apelo de reexame da decisão do Tribunal, pela CPMI destinada à investigação de denúncias de violência contra a mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce75031ddd5e953e01c658aa75e8ba9910b70e0f688f249eca59fb61e71ee712
+size 250

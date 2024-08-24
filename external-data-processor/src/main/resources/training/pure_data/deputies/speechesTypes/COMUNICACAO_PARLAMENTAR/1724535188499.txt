@@ -1,1 +1,3 @@
-Realização de manifestações populares em favor das áreas de educação e saúde em Maceió, Estado de Alagoas. Maior atenção dos Poderes da República para os serviços públicos. Críticas à gestão da Companhia Energética de Alagoas - CEAL. Ocorrência de acidente de trabalho nas dependências da empresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2e9b507a2f3c1fd6a99ceca08fd528cd1d6c9f8d2ccef4f97329bcd4ee95cc0
+size 317

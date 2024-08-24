@@ -1,1 +1,3 @@
-Conquista do grau de investimento pelo País, conferido pela agência de classificação de risco Standard & Poor's.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c54c1d9c509c0c5ee0c8aa472178d1b5b0fa986d227c514a31d5f24c8fc5a62
+size 116

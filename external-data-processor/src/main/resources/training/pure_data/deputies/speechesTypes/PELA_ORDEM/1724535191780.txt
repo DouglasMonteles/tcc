@@ -1,1 +1,3 @@
-Compromissos da oradora como a mais bem votada Deputada progressista do Brasil, no exercício do segundo mandato parlamentar, nas áreas da educação, saúde, economia, meio ambiente e direitos humanos. Trajetória de vida da Parlamentar oriunda da Vila Missionária, na periferia de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11e237f598cc9d36d191c04ba035d8b79a039b98bd288193378bc1ceab80a18f
+size 318

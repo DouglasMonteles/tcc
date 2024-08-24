@@ -1,1 +1,3 @@
-Indignação do orador com o massacre de jovens negros pela Polícia Militar na favela de Paraisópolis, em São Paulo, Estado de São Paulo. Posicionamento do orador contrário à aprovação do projeto relativo à excludente de ilicitude, encaminhado à Casa pelo Ministério da Justiça e Segurança Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:355df7e03802e42c24e80887d244354be30858eaf70f1b738a9fb2cf484e9094
+size 312

@@ -1,1 +1,3 @@
-O Deputado alertou sobre a situação dramática de Santa Catarina após repetidas enchentes. Fez apelo ao Governo Federal pela liberação total do FGTS em Municípios em situação de emergência e calamidade pública, visando recuperar a economia afetada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4396c0b128faaf30b8378b763998fd88eb6d125810cb3b5f868c977747f5e14
+size 258

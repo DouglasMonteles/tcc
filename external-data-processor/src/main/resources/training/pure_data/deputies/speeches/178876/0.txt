@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado goiano pela eleição do orador. Cobrança à Agência Nacional de Transportes Terrestres - ANTT de providências urgentes com vistas à solução das dificuldades do transporte coletivo na região do Entorno de Brasília.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78bb2458135309e3bf70d53c5c75a8b4abe0723024ef940d036cb7b583218350
+size 250

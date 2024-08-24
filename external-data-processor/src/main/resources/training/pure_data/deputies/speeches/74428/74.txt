@@ -1,1 +1,3 @@
-Quebra de compromisso do PT com os servidores públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d0a277963777170a51aac2abf5554a41b3a125ebb99072d53f7c294085dd010
+size 56

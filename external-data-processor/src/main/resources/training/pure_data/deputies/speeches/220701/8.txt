@@ -1,1 +1,3 @@
-O Deputado anunciou aprovação de proposta de sua autoria que estabelece como diretriz para a Polícia Civil a criação de delegacias especializadas em proteção animal em todo o País, a exemplo do já ocorre no Distrito Federal. Destacou a Comissão de Meio Ambiente aprovou matéria que trata da proibição da utilização de animais em circos. A medida visa acabar com a crueldade imposta aos animais que são submetidos a tarefas repetitivas em circos, preservando seu bem-estar. Outra conquista mencionada pelo orador, no âmbito da Comissão de Meio Ambiente, é a aprovação de proposta que proíbe rifas de animais, visando evitar a exploração desse comércio e garantir o respeito aos direitos dos animais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f53cd6c626daf37481f7e98c604fcbebc340569577a77f85b3dc8ea33c538ac6
+size 723

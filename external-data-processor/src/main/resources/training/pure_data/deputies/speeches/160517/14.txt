@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PSB/PCdoB/PTB  ao parecer pela admissibilidade da Medida Provisória 525 de 2011 (Altera a Lei 8.745 de 1993, no tocante à contratação de professores).
+version https://git-lfs.github.com/spec/v1
+oid sha256:87d16a4af172a669efb9775da013d908221ae91a52a1e61d4c457ab43701bfdc
+size 189

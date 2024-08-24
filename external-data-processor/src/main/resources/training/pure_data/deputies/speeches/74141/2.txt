@@ -1,1 +1,3 @@
-Defesa de retomada da navegação no Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b10f814030f0a67949237bc0bb481beee2d0890f7f410062174f03556ed08ec
+size 56

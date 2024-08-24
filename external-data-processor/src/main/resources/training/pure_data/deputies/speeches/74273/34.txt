@@ -1,1 +1,3 @@
-Adoção de medidas para agilização dos trabalhos do Poder Judiciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:428b3acc139bc503815618bae21d8e674d38a065fb35b3207c87854c10c1eb0e
+size 73

@@ -1,1 +1,3 @@
-Apelo ao Presidente Arthur Lira e aos Líderes partidários de inclusão na pauta do Projeto de Lei nº 44, de 2021, de autoria do orador, sobre a suspensão do pagamento de  mensalidades dos beneficiários junto ao Fundo de Financiamento Estudantil - FIES, em face da epidemia de coronavírus. (apensado ao Projeto de Lei nº 1.133, de 2021).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7bdc6048deb36389622e2c1cd29106f4e7b4862a12e4bbf170334f4565ed0fb
+size 343

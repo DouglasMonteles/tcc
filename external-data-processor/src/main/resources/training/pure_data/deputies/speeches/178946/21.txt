@@ -1,1 +1,3 @@
-Preocupação com a cobrança do Imposto Sobre Serviços - ISS incidente sobre operações realizadas com cartões de crédito. Regozijo com a aprovação do projeto sobre a regulamentação da profissão de artesão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1eedaffe1b9f22380c1347752f7251547eb3d4577906a4359bfbf2524559754
+size 217

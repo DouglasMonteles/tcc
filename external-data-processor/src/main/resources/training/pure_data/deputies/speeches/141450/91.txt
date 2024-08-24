@@ -1,1 +1,3 @@
-Posicionamento do PSC sobre a distribuição dos recursos da exploração de petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7197d35ca79277b6f25e06dd11904c1acac37f2d4b31b195fbc367005569fd64
+size 106

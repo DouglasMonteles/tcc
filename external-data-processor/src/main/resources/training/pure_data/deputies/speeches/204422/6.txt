@@ -1,1 +1,3 @@
-Transcurso do 142º aniversário de emancipação político-administrativa do Município de Pesqueira, no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adff16d2ceea94d03765eadfebcd1bffdef6c267bbbe9dbf9dd64a30c3a6bc54
+size 127

@@ -1,1 +1,3 @@
-Contrariedade à aprovação da Proposta de Emenda à Constituição nº 23, de 2021, sobre o pagamento de precatórios de forma parcelada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2626e5c072664fc9a32eb2a2926cabbfb81e0adc0031faab295734985007db34
+size 139

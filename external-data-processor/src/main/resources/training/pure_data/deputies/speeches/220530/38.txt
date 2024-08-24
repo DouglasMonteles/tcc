@@ -1,1 +1,3 @@
-Depoimentos prestados à CPI do MST pelo líder da Frente Nacional de Luta no Campo e Cidade - FNL, José Rainha Júnior, e pelo ex-Ministro-Chefe do Gabinete de Segurança Institucional - GSI, da Presidência da República, general Marco Edson Gonçalves Dias. Esclarecimento ao órgão pelo Secretário de Segurança Pública do Estado de São Paulo, Guilherme Muraro Derrite, sobre a prisão do ativista José Rainha Junior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70b3b58de99b1f18f3e7e1b74dc27aaee97cf9da1c96bbf6902429e6a7a4b511
+size 427

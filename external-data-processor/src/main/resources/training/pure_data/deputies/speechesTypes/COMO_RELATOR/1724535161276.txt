@@ -1,1 +1,3 @@
-Debate do Projeto de Lei nº 4.330, de 2004, sobre a regulamentação de serviços terceirizados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee31dcf950576127b7f3f0eb60531b0c57ba57a2474e99898a75e9877d04f7e3
+size 97

@@ -1,1 +1,3 @@
-Imediata retomada dos trabalhos da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, para a elaboração do Orçamento Geral da União de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ac27a97a30ea69cac87afc9da80bd8e5ef7164660f0de77bcd8e0eed13db33c
+size 160

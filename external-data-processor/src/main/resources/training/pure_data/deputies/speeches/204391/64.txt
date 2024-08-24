@@ -1,1 +1,3 @@
-Celebração de acordo para a votação do projeto de lei referente às normas de licitações e contratos na administração pública e do projeto de lei pertinente ao Município de Brumadinho, no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa0bcc762979b0a3dd637cbd0010a84664b49ba2ef4fc712b9011ed383ae7810
+size 221

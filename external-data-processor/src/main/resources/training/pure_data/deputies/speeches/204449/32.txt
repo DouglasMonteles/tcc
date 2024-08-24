@@ -1,1 +1,3 @@
-Não concessão, pelos Governos petistas, de créditos aos pequenos agricultores brasileiros. Importância de aprovação da Medida Provisória nº 897, de 2019, acerca do Fundo de Aval Fraterno; do patrimônio de afetação de propriedades rurais; da Cédula Imobiliária Rural; da escrituração de títulos de crédito e da concessão de subvenção econômica para empresas cerealistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c4415e34c27bd32b10b017a4ebd733ecf3d2e7647a16bd3f682bec2c51ae535
+size 390

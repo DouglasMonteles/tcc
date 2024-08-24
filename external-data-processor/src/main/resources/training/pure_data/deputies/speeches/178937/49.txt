@@ -1,1 +1,3 @@
-Pedido aos Líderes partidários de estabelecimento de consenso sobre a votação da proposta de reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5100006f29aff0c14abd8940a7cb8162d0d77225f5638f6c64c7a325dabba860
+size 115

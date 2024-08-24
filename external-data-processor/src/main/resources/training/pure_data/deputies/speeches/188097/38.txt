@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda do Senado Federal nº 8, apresentada ao Projeto de Lei de Conversão nº 7, de 2021, da Medida Provisória nº 1.031, de 2021, sobre a desestatização da empresa Centrais Elétricas Brasileiras S/A - ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04dd7c4771d55b00f86d0da97dc45fce1830f4964967d3d5adef3b1f708a437b
+size 305

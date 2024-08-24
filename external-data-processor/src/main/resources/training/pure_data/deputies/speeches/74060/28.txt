@@ -1,1 +1,3 @@
-Realização, pela Frente Parlamentar em Defesa da Empresa Brasileira de Correios e Telégrafos, de reunião destinada ao debate do pagamento do adicional de risco aos carteiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:822bef9de1e9f9a7651444f5465e6cc542a19c00f1567c54fb2089d384862d66
+size 178

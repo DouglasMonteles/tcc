@@ -1,1 +1,3 @@
-Repúdio ao arquivamento, pela Comissão de Constituição e Justiça da Câmara Legislativa do Distrito Federal, de projeto de lei sobre a proibição da contratação por órgãos públicos de empresas de propriedade de Parlamentares ou de seus familiares. Apresentação de projeto de lei acerca do estabelecimento de critérios para a ocupação de cargos comissionados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2df11b21b67f3dd89ce200394faeb1a53d68c419ae58521efdc24f1a0787bb8
+size 374

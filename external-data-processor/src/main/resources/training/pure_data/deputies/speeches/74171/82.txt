@@ -1,1 +1,3 @@
-Encaminhamento da votação do parecer pela admissibilidade da Medida Provisória 422 de 2008 (Dá nova redação ao inciso II do §2º-B do art. 17 da Lei 8666 de 1993, que regulamenta o art. 37, inciso XXI da Constituição Federal e institui normas para licitações e contratos da administração pública - para aumentar para até 15 módulos fiscais a área rural da União, localizada na Amazônia Legal, passível de regularização, mediante a concessão de título de propriedade ou de direito real de uso, dispensada de licitação).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ea845f28bd8795d781c621aab4abd45a4e2cefebf82d1b749944e162bd98005
+size 544

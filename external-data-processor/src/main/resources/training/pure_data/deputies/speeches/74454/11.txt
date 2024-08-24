@@ -1,1 +1,3 @@
-Registro da presença de convidados à sessão solene em comemoração ao transcurso do 80º aniversário de fundação do jornal O Povo, do Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd1e56f73692eba79b286bad0e61ba963ebf24be4f584f10860942e000f798f1
+size 158

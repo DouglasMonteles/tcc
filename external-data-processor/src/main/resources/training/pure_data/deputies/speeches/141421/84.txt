@@ -1,1 +1,3 @@
-Elogio à Presidenta Dilma Rousseff pelo enfrentamento eficaz à prática, por instituições financeiras, de altas taxas de juros no País. Conveniência, no anunciado processo de mudança de regras na caderneta de poupança, de manutenção dos direitos para o pequeno poupador. Satisfação com notícia publicada na Folha de S.Paulo sobre direito a ressarcimento, pelo consumidor de energia elétrica em todo o País, do valor pago indevidamente às distribuidoras nos últimos anos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67aaa5c7d91db08af6e1eeff2e07d23b660d6041eb239e77cd951817334011eb
+size 487

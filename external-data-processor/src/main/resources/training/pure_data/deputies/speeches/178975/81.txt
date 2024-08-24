@@ -1,1 +1,3 @@
-Orientação de bancada para votação da subemenda substitutiva global oferecida pelo Relator da Comissão de Finanças e Tributação ao Projeto de Lei Complementar nº 100, de 2011, sobre a possibilidade aos Municípios com disponibilidade de caixa de depósito de recursos em cooperativas de crédito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbada2b91ab40732b72e38ccf82367570355cd342b9242ad96d48c5ff8517f51
+size 305

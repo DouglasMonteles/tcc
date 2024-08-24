@@ -1,1 +1,3 @@
-Preocupação com eventual anulação das votações da presente sessão em caso de concessão da palavra ao Deputado Deltan Dallagnol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86cb21d6424a1e87ec2dea5110373b29537dfc78f9a1b6c10563860af56be379
+size 135

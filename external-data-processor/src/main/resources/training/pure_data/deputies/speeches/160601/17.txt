@@ -1,1 +1,3 @@
-Reflexões acerca do fuzilamento de dois brasileiros condenados por tráfico de drogas na Indonésia. Inconformismo com as críticas de Parlamentares às unidades terapêuticas religiosas voltadas à recuperação de dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b12d465c90b977df525afe1e852e99bd5080cb1afc852896a0363210d2551aff
+size 239

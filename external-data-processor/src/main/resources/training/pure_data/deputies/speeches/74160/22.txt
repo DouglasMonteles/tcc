@@ -1,1 +1,3 @@
-Repúdio à utilização, pelo Presidente Jair Bolsonaro, da data comemorativa da Independência do Brasil, para ênfase ao discurso autoritário; ameaça à ruptura institucional; e incentivo aos seus seguidores para manifestação contra instituições democráticas com mensagens golpistas e anticonstitucionais. Tentativa de apropriação de símbolos nacionais; desestruturação do Estado brasileiro e afronta ao Estado Democrático de Direito pelo Presidente da República e seus seguidores. Artigo Intervenção armada: crime inafiançável e imprescritível, de autoria do Ministro do Supremo Tribunal Federal, Ricardo Lewandowski, veiculado pela mídia. Inadmissibilidade de desestabilização da democracia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b964c5a402656da2313b04032e00c9bba30e64ba223e662e997d3db71749c7f
+size 729

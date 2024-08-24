@@ -1,1 +1,3 @@
-Greve dos policiais militares no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cf03ed7279edada1f08240f6212a614d91ad8a27c5fd26012708da2493b835b
+size 49

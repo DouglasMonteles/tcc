@@ -1,1 +1,3 @@
-Urgente necessidade de realização da reforma política. Unificação das eleições brasileiras, com ampliação dos mandatos municipais para 6 anos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d0ef5e26b64cf679a04bb33d8c35922437327ea8a5c0a46fac98f011c2b4f54
+size 151

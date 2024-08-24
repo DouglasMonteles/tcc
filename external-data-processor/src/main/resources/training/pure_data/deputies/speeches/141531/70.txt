@@ -1,1 +1,3 @@
-Críticas à política econômica do Governo Dilma Rousseff. Desempenho pífio da economia brasileira. Preocupação do povo brasileiro com o estabelecimento de políticas públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:356938fe84e313622fd0ca85ac6032cba386c1901165003fe64877887f9ab55a
+size 182

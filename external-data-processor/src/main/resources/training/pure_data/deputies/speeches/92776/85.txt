@@ -1,1 +1,3 @@
-Transcurso do Dia do Administrador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0549fdb7a625f4b54cb2d1cf99786ec0a94f057b68bb242378b65952ac008cf
+size 35

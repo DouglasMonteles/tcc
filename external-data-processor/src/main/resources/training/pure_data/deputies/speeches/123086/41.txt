@@ -1,1 +1,3 @@
-Importância da aprovação pelo Congresso Nacional da proposta de emenda à Constituição sobre a extinção gradual da incidência da Desvinculação de Receitas da União - DRU nos recursos destinados à educação e sobre a ampliação da obrigatoriedade do ensino gratuito a partir da pré-escola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c080e8005ca8d6046635e215cdf06faed31cde1c18f62d06ba8665000458dbf
+size 303

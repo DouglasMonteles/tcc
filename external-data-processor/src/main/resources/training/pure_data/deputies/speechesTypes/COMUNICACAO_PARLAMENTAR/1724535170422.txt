@@ -1,1 +1,3 @@
-Realização em Brasília e no País de manifestações populares contra a corrupção no ensejo do transcurso do Dia da Independência do Brasil. Apresentação de projeto de lei sobre a tipificação da prática de corrupção como crime de latrocínio. Estabelecimento pela Casa de agenda de combate à corrupção. Necessidade de aprovação da proposta de emenda à Constituição sobre a extinção do voto secreto nas deliberações das duas Casas do Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83206c6e5e1a70fa702bd3aa19375e59a32376dc48d2cb035d29331a8fc3008e
+size 477

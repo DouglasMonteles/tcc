@@ -1,1 +1,3 @@
-O Deputado registrou a presença do Vereador Geraldo Macêdo de Simão Dias, elogiando seu trabalho como comunicador e destacando sua atuação parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9a82d61da16697d3f8236cade542719d0e12ff2ba8e4b8a73232c693611b00e
+size 156

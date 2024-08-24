@@ -1,1 +1,3 @@
-Imediata regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de recursos à saúde pública. Reajuste dos valores do Programa Bolsa-Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c81f5828f17271e596cc40d23771a912b6675d61816770a50b6de1bb2bb1e1f
+size 169

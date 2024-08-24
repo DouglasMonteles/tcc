@@ -1,1 +1,3 @@
-Lançamento do livro Ágape, de autoria do Padre Marcelo Rossi, em Brasília, Distrito Federal. Temas debatidos no encontro da bancada federal do PTB com o Ministro da Saúde, Alexandre Padilha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e6263657f66c31d6da56487da7b3d25dd0e23919a3b79ff634b21cd51db959e
+size 194

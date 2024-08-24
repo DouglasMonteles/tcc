@@ -1,1 +1,3 @@
-Posicionamento contrário do DEM   ao Requerimento de regime de urgência urgentíssima para o Projeto de Lei 865 de 2011 (Altera a Lei  10.683 de  2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, cria a Secretaria da Micro e Pequena Empresa, cria cargo de Ministro de Estado e cargos em comissão, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ded8d5d7d7faaf9cd168c85c005fb7bed0ce02fa17b4d6433fd1501c30560a70
+size 368

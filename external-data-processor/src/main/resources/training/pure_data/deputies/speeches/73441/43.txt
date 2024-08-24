@@ -1,1 +1,3 @@
-Informação aos convidados e Parlamentares presentes sobre a tramitação, no Senado Federal, de projeto de lei proibitivo da prática do anatocismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a483a0f286e7faf19d7a1fe50feec8f4ae5781ba303d84f49e4d26ac2c6d0e13
+size 150

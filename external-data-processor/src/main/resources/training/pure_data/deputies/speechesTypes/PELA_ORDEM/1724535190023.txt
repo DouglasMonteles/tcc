@@ -1,1 +1,3 @@
-Cumprimentos ao Diretório Nacional do Partido dos Trabalhadores pela condenação do uso de dinheiro privado em campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61b4623a52a15cc26343d5ee4aff2725e0124692bdfd56911fb7c956ef091021
+size 134

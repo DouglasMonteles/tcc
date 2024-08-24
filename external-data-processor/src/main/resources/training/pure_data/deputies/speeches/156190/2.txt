@@ -1,1 +1,3 @@
-Congratulações à Justiça brasileira pela nova condenação do ex-Presidente Luiz Inácio Lula da Silva. Presença, na Casa, do Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3f1317da1ce8251bd42c5d07d177d2a8f561ee0cf84403901ccb8cd147c9d90
+size 188

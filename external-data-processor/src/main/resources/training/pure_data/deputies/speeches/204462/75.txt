@@ -1,1 +1,3 @@
-A Deputada criticou parlamentares que discursam em defesa da competência legislativa da Casa e, ao mesmo tempo, provocam o Supremo Tribunal Federal para decidir contra o Congresso Nacional. Em seguida, orientou a bancada na votação do requerimento de adiamento da discussão, por uma sessão, do Projeto de Lei nº 2.245, de 2023, que institui a Política Nacional de Trabalho Digno e Cidadania para População em Situação de Rua - PNTC PopRua.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2979d60cd279e295b94ef321b3bc819948c254bf0990b800bc3defd97f8bb222
+size 450

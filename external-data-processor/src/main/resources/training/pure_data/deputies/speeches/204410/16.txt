@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas de Plenário de nºs 1 a 19, apresentadas à Medida Provisória nº 934, de 2020, sobre o estabelecimento de normas excepcionais relativas ao ano letivo da educação básica e do ensino superior, decorrentes das medidas de enfrentamento da situação de emergência de saúde pública constantes na Lei nº 13.979, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f807a38e526844443753cfea7a977c73ada06b05fe7fa7a12e394d78a58c1e2f
+size 356

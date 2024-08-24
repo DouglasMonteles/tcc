@@ -1,1 +1,3 @@
-Danos causados por chuva de granizo nos Municípios de Maringá e Paiçandu, Estado do Paraná. Ocorrência de apagões no País. Necessidade de realização de investimentos governamentais no setor elétrico nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:919ea731e3aade1e182108c045859c1583c28be36ae8a6e983fa66dd9e10ff5c
+size 218

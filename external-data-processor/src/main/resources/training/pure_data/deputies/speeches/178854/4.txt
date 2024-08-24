@@ -1,1 +1,3 @@
-Caráter histórico da abertura do processo de impeachment contra a Presidenta Dilma Rousseff. Realização da convenção nacional do DEM. Leitura de manifesto resultante do evento. Conclamação do povo brasileiro para apoio ao processo de impeachment da Presidenta da República. Apresentação de denúncias contra o Ministro-Chefe da Casa Civil da Presidência da República, Jaques Wagner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb4ef702288b265f07409599b0030d5fe9e03a8a117ab08b0d9fdcc5ff5f813a
+size 395

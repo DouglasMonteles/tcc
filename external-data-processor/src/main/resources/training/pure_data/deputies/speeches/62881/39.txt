@@ -1,1 +1,3 @@
-Realização, no Brasil, da 1ª Conferência Mundial sobre Determinantes Sociais da Saúde. Acerto da criação da Empresa Brasileira de Serviços Hospitalares - EBSERH. Dificuldades enfrentadas pela área de saúde pública no País, especialmente em Fortaleza, Estado do Ceará. Aumento do número de casos de dengue e meningite na Capital cearense. Precariedade do Instituto Doutor José Frota, em Fortaleza. Ineficiência da gestão municipal de Fortaleza, especialmente do setor de educação. Escalada dos homicídios na Capital cearense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92fad8bf1611a90a4bfe9d027173e6e875b38156cd8ad6e967b6e3101be64359
+size 544

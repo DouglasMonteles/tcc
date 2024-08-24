@@ -1,1 +1,3 @@
-Aprovação do Projeto de Lei nº 4.330, de 2016, de autoria da oradora, que regula a divulgação do serviço telefônico de denúncias a respeito de violência contra a mulher. Importância da aprovação, pela Casa, do Projeto de Lei nº 583, de 2007, da Deputada Alice Portugal, do Projeto de Lei nº 4.409, de 2016, do Deputado Carlos Bezerra, e do Projeto de Lei nº 173, de 2015, do Deputado Alceu Moreira, em prol da mulher brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d791f9c56c047d59ff02b182c9fabcec795aaa9da6ed9dd7e161c5efacabdfdb
+size 443

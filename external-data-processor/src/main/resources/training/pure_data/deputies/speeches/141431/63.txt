@@ -1,1 +1,3 @@
-Defesa de distribuição, aos Estados e Municípios brasileiros, de recursos oriundos da exploração de petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac70cdb37d25aca20fb5549c8b84c7f7f6a4dd2c77259f9a4add511b492f0b9a
+size 134

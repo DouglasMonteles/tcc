@@ -1,1 +1,3 @@
-Posicionamento favorável do PSC   ao Projeto de Decreto Legislativo 223 de 2011 (Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da República do  Zimbábue sobre o Exercício de Atividade Remunerada por parte de Dependentes do Pessoal Diplomático, Consular, Militar, Administrativo e Técnico, assinado em Brasília, em 16 de novembro de 2010).
+version https://git-lfs.github.com/spec/v1
+oid sha256:996d6f2b41522ea60cdb6c47fba7e04dd2aace916559c4b945a4d104b519cc63
+size 387

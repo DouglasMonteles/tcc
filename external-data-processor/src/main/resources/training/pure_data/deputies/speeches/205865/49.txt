@@ -1,1 +1,3 @@
-Natureza vexaminosa da chamada CPI da Vaza-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cf6c3cff953d5f3bf414d9b35c5ba6e00be839b9a98a63186249902475415cc
+size 48

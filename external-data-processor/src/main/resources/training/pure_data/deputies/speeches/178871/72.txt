@@ -1,1 +1,3 @@
-Anúncio da realização da 23ª ExpoKennedy, evento agropecuário promovido pela Prefeitura Municipal de Presidente Kennedy, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24da1742e669d6a5e5d01b0e598b4ec5dc3886680693fe2b7b183ce75c4711d6
+size 152

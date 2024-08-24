@@ -1,1 +1,3 @@
-Apelo aos Deputados de rejeição do recurso para submissão ao Plenário do projeto de lei sobre a instituição do novo Plano Nacional de Educação - PNE. Defesa da destinação de 10% do Produto Interno Bruto - PIB brasileiro à área educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:838eafe15069bef8b8320856018d1aa32d794f71623a5e42e912b7d0a6a4cbd6
+size 251

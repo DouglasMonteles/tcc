@@ -1,1 +1,3 @@
-Presença de agentes comunitários de saúde nas galerias do plenário. Posse do Presidente da Associação dos Agentes Comunitários de Saúde de Petrolina, Estado de Pernambuco. Visita do Governador Eduardo Campos a Municípios interioranos. Viagem do Presidente Luiz Inácio Lula da Silva ao Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b853ec92b9f1887563cf60ce43d7170f8306b0eaf868da3073d66dd865badeee
+size 302

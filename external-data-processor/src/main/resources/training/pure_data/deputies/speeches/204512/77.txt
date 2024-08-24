@@ -1,1 +1,3 @@
-Discussão, em segundo turno, da Proposta de Emenda à Constituição nº 23, de 2021, sobre a alteração do regime de pagamento de precatórios pela União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0d63e108a7cbb757cf678b3f9dd961b1ddd3c05163d5be22a5102454060934a
+size 158

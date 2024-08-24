@@ -1,1 +1,3 @@
-Repúdio ao discurso da Oposição sobre compra de votos pelo Governo Michel Temer para aprovação de propostas de reformas constitucionais. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f9ad80cc3699f8f439aa70e286ada02ccaa6489b069dec9b9b55ff6e3b2f5e7
+size 177

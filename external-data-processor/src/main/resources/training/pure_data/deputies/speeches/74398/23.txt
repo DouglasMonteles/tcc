@@ -1,1 +1,3 @@
-Encaminhamento ao Presidente Luiz Inácio Lula da Silva de documento em defesa da reforma política, subscrito por membros da Assembléia Legislativa do Estado do Rio Grande do Sul, da Câmara Municipal de Porto Alegre e da bancada federal gaúcha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d44b8a731bf14b3b1f3288159beef40975261b757e01338737311605d3d23d48
+size 248

@@ -1,1 +1,3 @@
-Retirada pelo PDT de requerimento de destaque oferecido ao Projeto de Lei nº 1.409, de 2020, sobre a alteração da Lei nº 13.979, de 2020, com vista à adoção de medidas imediatas de preservação da saúde e da vida, dos profissionais considerados essenciais ao controle de doenças e à manutenção da ordem pública, durante o estado de emergência decretado em face da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:869645407064f5905a3d71996db5b24faee7bafcc546da9ca169947a8a36f0b6
+size 404

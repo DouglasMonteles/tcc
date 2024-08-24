@@ -1,1 +1,3 @@
-Pesar pela aprovação de projeto de lei sobre terceirização de mão de obra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28ca15f96da508606c621507289ac4f678af28c70491108b84060c2daee5ecb0
+size 79

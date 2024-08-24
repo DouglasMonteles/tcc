@@ -1,1 +1,3 @@
-Indignação diante de reportagens da imprensa nacional sobre a situação de abandono do hospital Instituto Doutor José Frota em Fortaleza, Estado do Ceará. Descaso do Prefeito Municipal com a área da saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb4d5602b06d7e534b99dcaa81180b51e70293f4769a05e181392290ba473574
+size 221

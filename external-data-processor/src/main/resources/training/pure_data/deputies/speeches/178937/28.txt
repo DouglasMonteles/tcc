@@ -1,1 +1,3 @@
-Protesto pela ausência de registro em plenário de parlamentares da base na votação do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 257, de 2016, que estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8c2990b01707792808ff6d71b477a9a41b69284b9a554c160701f6c8e09c491
+size 286

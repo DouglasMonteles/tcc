@@ -1,1 +1,3 @@
-Ações adotadas pela Comissão Especial de Medidas Preventivas diante de Catástrofes, por ocasião da visita à região serrana do Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44aab86de803cb07368b2a448d551cf5ebe1353a2c30cc70c856528d25714996
+size 174

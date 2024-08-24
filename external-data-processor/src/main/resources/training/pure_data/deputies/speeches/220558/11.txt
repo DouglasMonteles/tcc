@@ -1,1 +1,3 @@
-Repúdio à disseminação de fake news e às narrativas da Esquerda. Inconsistência do discurso situacionista sobre o caráter fraudulento do Auxílio Emergencial lançado pelo Governo Jair Bolsonaro, e sobre a proposta de criação de CPMI para investigação de fatos relativos à invasão das sedes dos Poderes da República. Natureza falaciosa das manifestações de esquerdistas a respeito do aborto e da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6e0ee947164fa5cc97edee9c8a8584211b32801d351229edce5db96b96c8ea1
+size 423

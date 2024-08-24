@@ -1,1 +1,3 @@
-Congratulações ao Ministro do Trabalho e Emprego, Carlos Lupi, pela criação do Sindicato dos Enfermeiros do Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3be9c56ec1017015e8d6ad77b9b3779fb5300eaa5fc12cc59646fee722b5750e
+size 131

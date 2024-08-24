@@ -1,1 +1,3 @@
-Transcurso do Dia do Vereador. Congratulações aos Edis do Município de Guanambi, Estado do Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fff6f1dfaa4bc4b2c5371594a3b2553e8e71d8931156e05a1547ea2f13bb4bb9
+size 100

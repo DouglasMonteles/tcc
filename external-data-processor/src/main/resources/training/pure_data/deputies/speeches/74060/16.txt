@@ -1,1 +1,3 @@
-Solidariedade ao Diretor-Geral da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis, Haroldo Lima, diante da repercussão de suas declarações sobre a descoberta de novo campo de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72e991fbe25aa207b7fd9f3fd60c76c6bdf6b880b310d8bb016b2b745166fce7
+size 204

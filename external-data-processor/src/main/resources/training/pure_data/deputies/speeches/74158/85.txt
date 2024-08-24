@@ -1,1 +1,3 @@
-Participação do orador em debates públicos no Município de Manhumirim, Estado de Minas Gerais, sobre o agravamento da criminalidade e o não repasse de recursos aos Municípios mineiros, pelo Governo Estadual, para custeio da área da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf3aebd8cd136f38664c67f1d7772c2f9ffc245230eb42296439694aa0c105cf
+size 246

@@ -1,1 +1,3 @@
-Resultados de reunião de instalação da Subcomissão Permanente de Combate à Cartelização do Agronegócio no Brasil, da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural. Cobrança ao Governo Federal de nomeação da Diretoria da Agência Nacional de Assistência Técnica e Extensão Rural - ANATER.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e028188eab0b9e1a2fbd18a20e57d48c85064a9f9b8a65475131c75814887b6
+size 330

@@ -1,1 +1,3 @@
-Solicitação de empenho do Governos Federal e do Estado da Paraíba no fornecimento de energia elétrica à região da reserva de quartzito do Município de Várzea, região do Vale do Sabugi, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e840ad213eecb8eaf484f8c22a1f80fc83495370bd352d9c8add80f95b44f05d
+size 213

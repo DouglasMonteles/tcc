@@ -1,1 +1,3 @@
-Realização pelo cantor Luiz Marenco de apresentação no Teatro Municipal de Toledo, Estado do Paraná. Preservação da cultura dos colonizadores gaúchos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07eeb720959e31c44a957b4ce18d1c93a2242aec96c1ddb6045486b7be52821b
+size 158

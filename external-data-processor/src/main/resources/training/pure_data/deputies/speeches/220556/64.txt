@@ -1,1 +1,3 @@
-Realização da 17ª Conferência Nacional de Saúde, sob o tema Garantir direitos e defender o SUS, a vida e a democracia - Amanhã vai ser outro dia. Relevância do Sistema Único de Saúde - SUS. Retrocesso do Programa Nacional de Imunização no governo anterior. Elevado número de óbitos registrados no País em decorrência da Covid-19. Crimes contra a vida cometidos pelo ex-Ministro da Saúde, Eduardo Pazuello. Defesa de permanência da Sra. Nísia Trindade como Titular da Pasta. Condicionantes impostas pelo Supremo Tribunal Federal ao pagamento do piso salarial nacional dos profissionais da enfermagem e da parteira. Retomada do Programa Mais Médicos; do Programa Farmácia Popular e da Política Nacional de Saúde Bucal - Brasil Sorridente. Distribuição gratuita de absorventes pelo SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07bd33a05787c795e83c008aeea5bb851175a854a5eae981cf7fb640529ed46a
+size 807

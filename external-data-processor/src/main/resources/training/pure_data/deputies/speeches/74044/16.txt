@@ -1,1 +1,3 @@
-Posicionamento favorável do Governo ao  parecer pela admissibilidade da  Medida Provisória 420 de 2008 (Abre crédito extraordinário em favor de Encargos Financeiros da União, para o fim que especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:566a23262b3d9481d1bb9d263a6231dabbf283a5fbbb28c16c289f8529f8ffdd
+size 207

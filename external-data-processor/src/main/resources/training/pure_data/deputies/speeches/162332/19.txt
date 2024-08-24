@@ -1,1 +1,3 @@
-Realização do 26º Concurso Brasileiro da Canção Japonesa pela Associação Brasileira de Canção - ABRAC, no Município de Lins, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98eed9b8be4775187717441157033aa43468c7d9141f29de4050dc3964ad836d
+size 156

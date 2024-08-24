@@ -1,1 +1,3 @@
-Reassunção do cargo de Secretário-Geral da Mesa Diretora pelo Sr. Mozart Vianna de Paiva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dabae997295323d629c118167cb335045ee929ab3577eacc85580da08f8a39d
+size 92

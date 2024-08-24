@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 1.482, de 2023, sobre a instituição da Política Nacional de Promoção da Cultura de Paz nas Escolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa7f768937293ee892d60f616fa9ba2d74f33e7c3796126af7f0c3406ea17527
+size 137

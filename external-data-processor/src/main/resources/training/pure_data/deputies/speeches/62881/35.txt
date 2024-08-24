@@ -1,1 +1,3 @@
-Participação do orador em missão oficial a Cuba. Assinatura pelos Governos brasileiro e cubano do Projeto de Cooperação Técnica para Fortalecimento da Organização da Pesquisa Clínica em Câncer. Criação da Empresa Brasileira de Serviços Hospitalares S/A - EBSERH. Realização, pela Comissão de Seguridade Social e Família, de audiência pública destinada ao debate do Projeto de Lei nº 2.598, de 2007, a respeito da prestação de serviços remunerados em comunidades carentes por estudantes da área de saúde. Realização da Festa de São Francisco das Chagas, no Município de Canindé, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b2ffd196f21ef6eedd92f50a1988dc0dd65367e9962b27104b145fca9bcec13
+size 625

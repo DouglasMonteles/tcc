@@ -1,1 +1,3 @@
-Expectativa de punição dos responsáveis no caso do desaparecimento de jovem envolvida com o jogador de futebol Bruno Fernandes das Dores de Souza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e2ef89e028b165e3e7828a729c5007447782f0bb2225a6d8105624b884e9287
+size 149

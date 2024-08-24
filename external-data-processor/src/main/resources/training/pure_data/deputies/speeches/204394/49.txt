@@ -1,1 +1,3 @@
-Apelo ao Presidente Jair Bolsonaro de reativação do sistema de bombeamento de água do trecho da obra de transposição do Rio São Francisco localizado no Estado da Paraíba. Solicitação ao Presidente Rodrigo Maia de intercessão junto ao Poder Executivo para atendimento do pleito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57d506465f97bf941d099508ef35d3e69f5fc52b9e9c60004c0899fe31e37e66
+size 287

@@ -1,1 +1,3 @@
-Defesa de rejeição do veto presidencial à proposta de isenção da cobrança de bagagens pelas empresas aéreas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ad90ec40e36eb652b547380e381a51203161f30de8e7518ec4f173922f680fe
+size 127

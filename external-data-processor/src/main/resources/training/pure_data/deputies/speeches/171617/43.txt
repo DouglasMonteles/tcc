@@ -1,1 +1,3 @@
-Anúncio da realização de encontro entre Ministros de Estado e Prefeitos Municipais para debate de políticas públicas de combate aos efeitos da seca e de realização de obras de infraestrutura, no Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66b0dede3faae052274a92de7ffe971fcfbd36e8bbf343990aed7d5172595a14
+size 220

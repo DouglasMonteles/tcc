@@ -1,1 +1,3 @@
-O Deputado destacou o retorno massivo de patriotas às ruas, mencionando a concentração de mais de 100 mil pessoas na Avenida Paulista com apenas três dias de convocação. Criticou setores da imprensa por desinformação e ressaltou a suspensão das lives do Presidente Lula devido à baixa audiência. Também abordou a indicação do Ministro da Justiça, Flávio Dino, para o Supremo Tribunal Federal (STF), apontando preocupações sobre seus pré-requisitos. Convocou mobilização popular e protestos para impedir a nomeação do indicado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:410466cabba7ef3b0ed60a1d2986c209b3b48830936c308e35f9c6f733a15515
+size 549

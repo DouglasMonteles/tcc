@@ -1,1 +1,3 @@
-Anúncio de reunião da Comissão de Relações Exteriores e de Defesa Nacional para deliberação sobre fatos ocorridos na Embaixada do Brasil em Honduras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60dad6e4fb09b914f7bbf7756e59ce05f230beaeec1b701af1065bd86f4219a0
+size 156

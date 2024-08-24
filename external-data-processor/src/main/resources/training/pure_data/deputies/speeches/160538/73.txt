@@ -1,1 +1,3 @@
-Participação em evento sob o tema Diálogos Sociais: Rumo à Rio+20, promovido pelo Conselho de Desenvolvimento Econômico e Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e60896347e7149d6602abb0f6ac673ca31036fd904e579cdc1520f29ce045f7d
+size 134

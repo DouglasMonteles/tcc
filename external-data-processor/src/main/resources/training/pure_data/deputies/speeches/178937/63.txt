@@ -1,1 +1,3 @@
-Morte do jovem Dyogo Costa Xavier de Brito, vítima de bala perdida, em Niterói, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3be3b3f3e13c8ea241ab28918cd54b0b86f36a2ccba581c962a1ebef18e1ec55
+size 107

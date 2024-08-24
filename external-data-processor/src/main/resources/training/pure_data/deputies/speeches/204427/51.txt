@@ -1,1 +1,3 @@
-Comemoração do 211º aniversário de fundação do Município de Garanhuns, Estado de Pernambuco. Balanço da atuação parlamentar do orador em prol da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3af4e653dbb9e3072a55f6d33f063a393605fcf296913ca010dc0dccfb1dc466
+size 170

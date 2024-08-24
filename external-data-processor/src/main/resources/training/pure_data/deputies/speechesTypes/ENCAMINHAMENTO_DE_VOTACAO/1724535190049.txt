@@ -1,1 +1,3 @@
-Saudações às Deputadas Federais e às mulheres brasileiras, na pessoa da Presidenta em exercício dos trabalhos, ao ensejo do transcurso do Dia Internacional da Mulher. Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda de Comissão nº 10, apresentada à Medida Provisória nº 1.006, de 2020, sobre o aumento da margem de crédito consignado dos titulares de benefícios de aposentadoria e pensão, mantidos pelo Regime Geral de Previdência Social, durante a epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51428b00af5e2af339e0cc5f86a79a47c30289c6b7023ca53620bacc17103bb7
+size 532

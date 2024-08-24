@@ -1,1 +1,3 @@
-O Deputado parabenizou a cidade dos seus ancestrais e do escritor Graciliano Ramos, Quebrangulo, no Estado de Alagoas. O orador afirmou a cidade tem história de luta, história literária e muita cultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fd5a1707cc22912e7ce9bddc1666932e2fd7ce086604425b465012ea63de97a
+size 205

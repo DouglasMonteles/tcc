@@ -1,1 +1,3 @@
-Menosprezo do Presidente Jair Bolsonaro à população pobre. Discussão, em segundo turno, da Proposta de Emenda à Constituição nº 10, de 2020, relativa ao estabelecimento do regime extraordinário fiscal, financeiro e de contratações, para enfrentamento da calamidade pública nacional decorrente da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cea820ff77ea035041cee395869461f1385a7054975127a4d9ec75907ebbe19
+size 333

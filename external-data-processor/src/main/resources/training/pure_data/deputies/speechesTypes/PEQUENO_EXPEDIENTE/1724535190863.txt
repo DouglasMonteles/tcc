@@ -1,1 +1,3 @@
-Necessidade de realização da reforma política. Apoio ao financiamento público de campanhas eleitorais. Crise financeira das municipalidades brasileiras. Papel exercido pelo esporte na recuperação de jovens infratores ou em situação de risco social. Contribuição da atividade esportiva e da educação física para o desenvolvimento socioeconômico. Destinação de recursos públicos para o esporte educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e382c4e5cdf65c92d6bf3ef393d6b0d01e69490c5365df2a22662f334222e08
+size 421

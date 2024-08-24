@@ -1,1 +1,3 @@
-Realização da Conferência Brasileira de Energia sob o tema Sustentabilidade Energética do Século XXI, nas dependências do Tribunal de Contas da União - TCU. Concessão do título de Acadêmico Honoris Causa ao Ministro de Minas e Energia, Edison Lobão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44390348bab1ba6bab4522c4b01054138a3c628d5b27c307ea0c951b811a5eaf
+size 260

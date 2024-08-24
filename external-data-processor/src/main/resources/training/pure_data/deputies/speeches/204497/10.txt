@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Rodrigo Maia pelo empenho na aprovação da proposta de reforma previdenciária. Congratulações aos Deputados favoráveis à aprovação da matéria.  Razões do voto do PSD pela reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d16c2f6ef33581859a70fe60750039da4a2a9754ac8c5fb93b42abc450c3cb2
+size 240

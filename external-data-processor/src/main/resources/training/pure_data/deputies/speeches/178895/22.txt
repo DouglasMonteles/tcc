@@ -1,1 +1,3 @@
-Bloqueio de estradas e avenidas do País promovido pelo Movimento Nacional dos Trabalhadores Rurais Sem Terra - MST. Necessidade de investigação de supostos desvios de recursos de convênios entre o Ministério do Desenvolvimento Agrário e entidades não governamentais destinados a projetos de reforma agrária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e766f48ed96542eb5e8b45a3068e2afcebd461e4a4b95eca235b9ca0d652d65
+size 315

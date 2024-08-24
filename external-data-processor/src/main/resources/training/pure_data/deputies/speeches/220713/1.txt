@@ -1,1 +1,3 @@
-Redução dos repasses financeiros ao Estado do Amazonas em face das inconsistências constantes no Censo Demográfico de 2022. Solicitação ao Governo Federal de recontagem da população amazonense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:807d9cf6f42a39e26e13fda32a1359b912c27cfc74b59f86bec932404d5f1ff5
+size 201

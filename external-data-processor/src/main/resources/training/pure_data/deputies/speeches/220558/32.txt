@@ -1,1 +1,3 @@
-Esclarecimento do teor do requerimento de indicação encaminhado ao Ministério da Justiça e Segurança Pública, para suspensão de jogos eletrônicos violentos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adfa13d835cb83be203f2eeab7c3d9fb3a5fd26410854e78533e9beaae58c7da
+size 164

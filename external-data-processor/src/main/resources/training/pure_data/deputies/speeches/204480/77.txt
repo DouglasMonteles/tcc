@@ -1,1 +1,3 @@
-Crescimento da rejeição do Presidente Jair Bolsonaro, de acordo com pesquisa de opinião pública. Protesto contra cortes orçamentários do Programa Minha Casa, Minha Vida e da área da educação. Descaso do Governo Jair Bolsonaro com o povo brasileiro. Instalação da CPMI destinada à investigação da origem das chamadas fake news.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07e72ea3bccca92ee8bc1aee42dcb27b64ef7b55363500aeec2b4d388da19682
+size 340

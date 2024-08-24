@@ -1,29 +1,3 @@
-{
-  "dados" : [ {
-    "dataHoraInicio" : "2019-08-29T16:28",
-    "dataHoraFim" : null,
-    "uriEvento" : "",
-    "faseEvento" : {
-      "titulo" : "Comunicações Parlamentares",
-      "dataHoraInicio" : null,
-      "dataHoraFim" : null
-    },
-    "tipoDiscurso" : "PELA ORDEM",
-    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F8%2F2019&txPagina=57&txSuplemento=&enviar=Pesquisar",
-    "urlAudio" : null,
-    "urlVideo" : null,
-    "keywords" : "SEGURANÇA PÚBLICA, PROGRAMA SEGURANÇA PRESENTE, IMPLANTAÇÃO, NOVA IGUAÇU (RJ), AVALIAÇÃO POSITIVA.\r\nJUNINHO DO PNEU, DEPUTADO FEDERAL, ORADOR, ATUAÇÃO PARLAMENTAR.",
-    "sumario" : "Resultados positivos da implantação do Programa Segurança Presente no Município de Nova Iguaçu, Estado do Rio de Janeiro. Atuação parlamentar do orador em prol dos moradores de Nova Iguaçu e da Baixada Fluminense.",
-    "transcricao" : "O SR. JUNINHO DO PNEU (DEM - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, estou muito feliz com o resultado do Programa Segurança Presente, em Nova Iguaçu. O Governador do Estado do Rio de Janeiro, Wilson Witzel, juntamente com o Prefeito de Nova Iguaçu, Rogério Lisboa, implantou esse programa de segurança que vem dando certo em vários bairros do Rio de Janeiro. Agora chegou à Baixada Fluminense. Tenho conversado muito com os moradores, e eles têm demonstrado um sentimento de mais segurança em nossa região. Em breve, esse programa será implantado nos Bairros de Miguel Couto e Austin, da nossa querida Nova Iguaçu. \r\nSó tenho a agradecer. Estou contente em batalhar muito por Nova Iguaçu e toda a Baixada Fluminense. Hoje nós temos um quadro de Parlamentares do Estado do Rio de Janeiro que têm muita vontade de trabalhar. Nós tivemos diversos problemas no Estado, na Baixada Fluminense, mas estamos debatendo nesta Casa grandes e importantes projetos. Estamos em discussões sobre o Hospital da Posse, que atende toda a Baixada Fluminense, junto ao Ministro e à bancada do Rio de Janeiro. Quero que o meu mandato seja transparente e participativo em prol da população do Estado do Rio de Janeiro. \r\nAgradeço a todos. Fiquem com Deus! \r\nObrigado, Sr. Presidente."
-  } ],
-  "links" : [ {
-    "rel" : "self",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/204457/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
-  }, {
-    "rel" : "first",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/204457/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  }, {
-    "rel" : "last",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/204457/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  } ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:17ba65535ed341063d2d38df395cc7413292e983c3cf007898d8069d2ea65aac
+size 2803

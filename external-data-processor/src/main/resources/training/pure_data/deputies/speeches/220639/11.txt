@@ -1,1 +1,3 @@
-Transcurso dos 5 anos do assassinato da Vereadora Marielle Franco, da Câmara Municipal do Rio de Janeiro. Necessidade de identificação dos mandantes do crime. Envolvimento do clã Bolsonaro com acusados do homicídio da Edil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cb3bbaccf1bf564c2f8db73c85175f985ef72c6b010736a051e0f03381515f2
+size 228

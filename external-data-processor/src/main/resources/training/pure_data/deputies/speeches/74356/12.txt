@@ -1,1 +1,3 @@
-Importância do papel desempenhado pelas pequenas e microempresas na economia brasileira, em especial na geração de empregos. Efeitos positivos da implantação da Lei Geral das Micro e Pequenas Empresas. Desoneração tributária do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e976bd2d60a8a6928a93a02b1227ca4873e9ace5f471d205efe8a7794b02c5f
+size 242

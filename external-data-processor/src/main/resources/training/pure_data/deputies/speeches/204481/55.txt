@@ -1,1 +1,3 @@
-O Deputado criticou uma medida dos Ministérios da Educação e da Saúde para aumentar as vagas em cursos de medicina, argumentando que muitas escolas não cumprem critérios mínimos e que o Brasil já possui um grande número de médicos. Ele questionou a justificativa da expansão baseada em uma orientação da OCDE, considerando-a uma desculpa para um crescimento mercantilista do setor médico. O Parlamentar enfatizou a necessidade de um programa de valorização dos médicos e anunciou um projeto para suspender a portaria e buscar uma abordagem mais responsável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f476d65f3c92e4c47db32dcfcf1b0a1a59d1f0295b5f50c78d9c54e79a623192
+size 575

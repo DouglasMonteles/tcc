@@ -1,1 +1,3 @@
-Congratulações aos Prefeitos de Nova Lima, Conceição do Mato Dentro e Itabirito, Estado de Minas Gerais, por atuação política sobre regulamentação do setor de mineração.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56765e5fdbb02346f72470cccf9aefebbf872fbf4e2d0e36c3ab3b10d58e5bcd
+size 180

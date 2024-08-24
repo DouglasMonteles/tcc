@@ -1,1 +1,3 @@
-Apresentação do Requerimento de Informações nº 1.621, de 2019,  ao Ministro de Minas e Energia, Bento Costa Lima Leite, e ao Presidente da Empresa Petróleo Brasileiro S/A - PETROBRAS, Roberto Castello Branco, sobre o fechamento das instalações da estatal em Aracaju, Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:610007656a7c4e234a582a83efd8e53907908a803c4c10aa77d5c58bdb4919d3
+size 293

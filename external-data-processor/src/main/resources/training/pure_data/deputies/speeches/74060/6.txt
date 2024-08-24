@@ -1,1 +1,3 @@
-Repúdio a ação da Prefeitura Municipal de Salvador contra terreiro de religião afro-brasileira. Elogio ao Presidente da República pelo lançamento do Programa Territórios da Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a41d1fce989e33b86a0a472b6c45bb9b1e86ba0e1a9c32d12488beba146cc77
+size 190

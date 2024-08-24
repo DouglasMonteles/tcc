@@ -1,1 +1,3 @@
-Críticas à reoneração de combustíveis pelo Governo Luiz Inácio Lula da Silva. Defesa de instalação de CPMI para investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9534d90de9e93b151b190c85c6f15bf8db91dcac6e9a1fa3ff5cdb73028602a
+size 214

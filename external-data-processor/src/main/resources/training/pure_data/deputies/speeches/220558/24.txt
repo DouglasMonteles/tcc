@@ -1,1 +1,3 @@
-Contrariedade à implantação de linguagem neutra nas escolas brasileiras. Coincidência entre a declaração de vingança do Presidente Luiz Inácio Lula da Silva contra o Senador Sergio Moro, e a articulação por facção criminosa de atentado contra a vida do Parlamentar. Envolvimento do Presidente da República em grande escândalo de corrupção. Descaso do Ministro da Justiça e Segurança Pública, Flávio Dino, com ataques promovidos pelo crime organizado no Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8ed0b96bef4d4f391cc8acca72c6196ef9e9262d151338870448f807e2ec72a
+size 503

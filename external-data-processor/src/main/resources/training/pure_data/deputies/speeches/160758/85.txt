@@ -1,1 +1,3 @@
-Críticas ao Governo petista. Subserviência do Poder Legislativo ao Poder Executivo. Defesa de cumprimento do interstício regimental para a votação, em segundo turno, da proposta de emenda à Constituição sobre a Desvinculação de Receitas da União - DRU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97f768644a544eefadc9702cc4b952aeea51074a35c8a7c9e13505cad73e4a38
+size 263

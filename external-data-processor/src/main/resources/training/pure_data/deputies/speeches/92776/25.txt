@@ -1,1 +1,3 @@
-Necessidade de aperfeiçoamento da legislação brasileira sobre o porte de armas de fogo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7b01d16c99a5c4fdc1041de5095f8c0c31ab1658759be5475dd24820359d8bd
+size 90

@@ -1,1 +1,3 @@
-Denúncia de ataques e assaltos praticados contra propriedades rurais no Estado de Mato Grosso do Sul. Contrariedade ao desarmamento do homem do campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c904af2b9f5e1663b9d1ee166f3a20f3c8e0a36fcc4ae4a3d10b6c0750d91c3a
+size 151

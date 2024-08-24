@@ -1,1 +1,3 @@
-Pedido ao Secretário de Segurança Pública do Estado da Paraíba de proteção à vida do Padre Aldeone Pereira da Silva, diante de ameaças de morte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad1479ce8705a46147e17ccf8c1a5f0b4c2618cf2ef52bb52d3293db8430ef46
+size 152

@@ -1,1 +1,3 @@
-Êxito do desfile cívico realizado no Município de Santa Cruz do Sul, Estado do Rio Grande do Sul. Importância da agricultura familiar na produção de alimentos no País. Defesa da existência do Ministério do Desenvolvimento Agrário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bee44eef96d22e44aac0f5c30663ef2c53ed1e59eb509ae407af8eaa8339d48
+size 240

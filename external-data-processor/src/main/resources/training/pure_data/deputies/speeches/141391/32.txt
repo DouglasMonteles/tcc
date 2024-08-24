@@ -1,1 +1,3 @@
-Perspectiva de elevação da taxa básica de juros pelo Comitê de Política Monetária do Banco Central do Brasil. Prejuízos causados à balança comercial brasileira pela valorização do real frente ao dólar norte-americano. Dados da Fundação Getúlio Vargas sobre crescimento de setores da economia brasileira. Conveniência de limitação do acesso ao crédito para manutenção da estabilidade econômica no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa7dedcbf7fc85221afb002f28b5c2322b21b75a74fd418ce2f2e670d7f79bb
+size 425

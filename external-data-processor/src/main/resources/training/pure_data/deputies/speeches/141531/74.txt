@@ -1,1 +1,3 @@
-Anúncio do lançamento da candidatura do ex-Ministro das Comunicações Pimenta da Veiga ao Governo do Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5ebacc4dec7d31ac46324121280e4069428e1f0f7e1e0e88046b97f8d34dddb
+size 127

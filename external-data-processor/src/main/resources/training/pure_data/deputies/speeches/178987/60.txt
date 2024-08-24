@@ -1,1 +1,3 @@
-Congratulações à Casa pela votação de proposta de emenda à Constituição relativa à redução da idade mínima para candidatura a cargos eletivas. Apoio à aprovação da matéria em face do estímulo à participação da juventude na política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17b2a9feffdb4124b4b2b14e48e8ee15b60be7abd99b6c4a0397df5f57613495
+size 253

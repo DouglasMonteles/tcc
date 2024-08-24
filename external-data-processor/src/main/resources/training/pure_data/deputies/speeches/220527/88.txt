@@ -1,1 +1,3 @@
-A Deputada cumprimentou Prefeitos e autoridades de diversos Municípios do Espírito Santo que estavam presentes na Câmara dos Deputados. Destacou o comprometimento dessas autoridades com a pauta da educação e a importância de recursos do Fundo Nacional de Desenvolvimento da Educação (FNDE) para acelerar obras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a134dfe860ff11fb39fb645138b559e205c3f3e33fee29151fab2ad809f69af9
+size 318

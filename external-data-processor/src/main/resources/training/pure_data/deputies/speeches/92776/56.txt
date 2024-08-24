@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional contra a Discriminação Racial - 21 de março. Avanços no combate ao preconceito racial no País. Relevância de políticas governamentais afirmativas destinadas à valorização da população negra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:272088e302b9d75f768e7e8625de7774f006e3c29eb5d26b76320c9a40c982c5
+size 234

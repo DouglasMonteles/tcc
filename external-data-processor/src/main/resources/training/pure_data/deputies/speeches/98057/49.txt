@@ -1,1 +1,3 @@
-Esclarecimento sobre a origem do Fundo Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae566ef4d25aa689d1bdba00192cab2b6ed2e6caabcd1663123cbee420a01ffc
+size 49

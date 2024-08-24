@@ -1,1 +1,3 @@
-Necessidade de reconhecimento pelo Governo Federal da produção de queijo artesanal no Estado de Minas Gerais. Votação pela Casa do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5c142c75ec54d7acdc3961b3a6fbbd3154ac16c677526f07eab2ad6b87c2100
+size 169

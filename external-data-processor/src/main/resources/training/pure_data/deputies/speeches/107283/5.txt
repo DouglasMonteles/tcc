@@ -1,1 +1,3 @@
-Repúdio ao discurso em apoio à ditadura militar e ofensivo à ex-Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:530c9d516a3653ab10e841923add0b915e01c136e06d008eece2ff3121358991
+size 93

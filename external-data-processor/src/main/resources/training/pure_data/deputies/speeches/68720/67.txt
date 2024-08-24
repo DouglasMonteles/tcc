@@ -1,1 +1,3 @@
-Apelo ao Diretor-Geral da Polícia Rodoviária Federal, Inspetor Adriano Marcos Furtado, e ao Ministro da Justiça e Segurança Pública, Sérgio Moro, de reexame da decisão de rebaixamento, para a Série D, da 20ª Superintendência Regional da Polícia Rodoviária Federal no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d564c9be3ae5dd9e9690831ff055bda59be36521ffebfc4ccce0819095642bec
+size 297

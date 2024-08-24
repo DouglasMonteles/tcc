@@ -1,1 +1,3 @@
-Participação no evento de lançamento do plano de combate à informalidade e à sonegação do Fundo de Garantia por Tempo de Serviço - FGTS, no Ministério do Trabalho e Emprego. Empenho do orador na defesa dos direitos trabalhistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c24229ae17c234620715be834587f54619d75bc2100d36f55882e4da792ec09
+size 237

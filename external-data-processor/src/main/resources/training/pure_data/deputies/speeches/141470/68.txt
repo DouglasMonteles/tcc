@@ -1,1 +1,3 @@
-Motivo do não acolhimento da Emenda 13 à Medida Provisória 452 de 2008 (Dá nova redação à Lei 11.887 de 2008, que cria o Fundo Soberano do Brasil – FSB, e à Lei 11.314 de 2006, que autoriza o Departamento Nacional de Infraestrutura de Transportes – DNIT a executar obras nas rodovias transferidas a entes da Federação, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fcddee3894f5d4368d65c3c74340c576e131c2a7f455d83d3a6d68be41d3509
+size 361

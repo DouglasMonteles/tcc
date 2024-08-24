@@ -1,1 +1,3 @@
-Cumprimento da agenda política do orador no Município de Cássia, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d21032eef8f5861db6a3bc534aa517f7b466f7df2e70ca181d50968134d72308
+size 91

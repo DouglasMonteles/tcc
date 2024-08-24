@@ -1,1 +1,3 @@
-Agradecimento ao povo baiano pela recondução do orador à Casa. Congratulações ao Deputado Rui Costa pela eleição para Governador do Estado da Bahia. Necessidade de realização da reforma política na próxima legislatura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0aaa1f907220d1d5c9d518091b8b373704c0b6fe10fa839638e0b7a18c956f9
+size 229

@@ -1,1 +1,3 @@
-O Deputado endossou a preocupação do Deputado Arlindo Chinaglia sobre a situação das empresas de energia no Brasil. Com a privatização, ocorre demissões em massa, falta de manutenção e sucateamento, levando a apagões. Alertou sobre o risco da privatização da ELETROBRAS seguindo o mesmo caminho. Criticou a postura dos acionistas e destacou que o desastre das privatizações já é evidente em São Paulo, Goiás e Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3220de7f15818527e7c3f239d414abc0747daa148892622ec1b25bfbafba64d6
+size 438

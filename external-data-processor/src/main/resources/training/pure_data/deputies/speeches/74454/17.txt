@@ -1,1 +1,3 @@
-Prejuízos causados a municípios do Estado do Ceará pelo excesso de chuvas. Incentivo do Governo Federal à produção agrícola no Estado. Realização de atos públicos em defesa da vida em municipalidades brasileiras. Oportunidade do lançamento, pela Conferência Nacional dos Bispos do Brasil - CNBB, da Campanha da Fraternidade de 2008 com o lema Escolhe, pois, a vida! Anseio da sociedade brasileira pela reforma da legislação penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4de846326509f710e21cceb063dab73cb5df04b9e3200078c63d826bcefa97af
+size 444

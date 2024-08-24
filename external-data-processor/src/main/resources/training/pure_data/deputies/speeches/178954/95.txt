@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de encerramento da discussão e do encaminhamento da votação da Medida Provisória nº 890, de 2019, sobre a instituição do Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde, e a criação do serviço social autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:502f1eccae20729e38b872d36e01ab9d4cdceb77277df262901bd53861f5b8ac
+size 395

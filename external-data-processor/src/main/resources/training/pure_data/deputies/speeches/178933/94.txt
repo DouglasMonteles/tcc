@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado do Estado do Paraná pelos votos recebidos na última eleição para a Câmara dos Deputados. Defesa de manutenção de tarifas antidumping  impostas sobre a importação de leite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e521a9f9c8986b54181526eb248c8a7578ff661cfa5900c831b173bebab2f6d8
+size 208

@@ -1,1 +1,3 @@
-Retomada da Liderança do PSL na Casa pelo Deputado Eduardo Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00db7b03e4777dc57b4f216c01ced26f765b67fa7b69c863cace215fd0096b5a
+size 70

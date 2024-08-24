@@ -1,1 +1,3 @@
-Contentamento com a aprovação pela Casa da Proposta de Emenda à Constituição nº 391, de 2017, sobre a elevação em 1% dos percentuais de recursos repassados pela União ao Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1aa762bcc76a7ff4e61891744f281a816d2c641db5caec1f3f8e748e49688fc
+size 225

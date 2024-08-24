@@ -1,1 +1,3 @@
-Concessão, pelo Tribunal de Justiça do Estado do Rio de Janeiro, de liminar em ação de suspensão da reserva de vagas para ingresso de estudantes afrodescendentes em universidades públicas. Urgente aprovação pela Casa de proposta de adoção do sistema de cotas para acesso de alunos negros a instituições de ensino superior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae0447dc48f96f403a0a51133d0c63654f4ca1b76d0905deb2e8d6add23b1077
+size 334

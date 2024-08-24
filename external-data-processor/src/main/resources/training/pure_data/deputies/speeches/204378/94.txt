@@ -1,1 +1,3 @@
-Regozijo com a aprovação do Projeto de Lei nº 3.715, de 2019, acerca da regulamentação da posse de arma de fogo em áreas rurais. Defesa da liberação de voos internacionais no Aeroporto Governador Jorge Teixeira de Oliveira, no Município de Porto Velho, Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e14f385f29d25c2d2ec9a12c811b0b3c15487b6861cb436813cae85374808c53
+size 282

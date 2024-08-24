@@ -1,1 +1,3 @@
-Participação do orador em audiência com o Diretor Sérgio Lobo, da Agência Nacional de Transportes Terrestres, e os Prefeitos dos Municípios de Suzano, Poá e Itaquaquecetuba, Estado de São Paulo, para debate sobre obras viárias de interesse das municipalidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3489eb10b3f8650effa58781ab903f227f2363079c6883f166d029e5088b638e
+size 269

@@ -1,1 +1,3 @@
-Contestação ao discurso de Deputado da Esquerda acerca da reforma trabalhista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7a36862be75d1ab07c6b620e9e3a4a6b402dc0e5e3196dd1824a4e1718360d9
+size 80

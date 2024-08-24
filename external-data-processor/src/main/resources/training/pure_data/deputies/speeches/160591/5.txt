@@ -1,1 +1,3 @@
-Agradecimento aos partidos políticos pelo apoio à proposta de interesse de servidores dos ex-Territórios Federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:366bf56f28568851d6a6274e7eb5e361bccf993bfccf5e8f65b1f774c2a1f6e5
+size 117

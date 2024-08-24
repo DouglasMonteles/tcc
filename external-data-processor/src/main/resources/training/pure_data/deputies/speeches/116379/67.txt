@@ -1,1 +1,3 @@
-Ênfase dada pela extrema Esquerda e pela extrema Direita à troca de ofensas e agressões no plenário, em detrimento da construção de agenda positiva para o País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e000a328d5a78c31cfde78b6f1fa061c27ccce3b2d9eb9b5edf0fa9e7102c48b
+size 167

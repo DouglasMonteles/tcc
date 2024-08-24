@@ -1,1 +1,3 @@
-Congratulações ao Deputado Felipe Rigoni. Regozijo com a nomeação do Coronel Alfredo Menezes para o cargo de Superintendente da Zona Franca de Manaus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7660463201360d7d65b0986a9308fe416deedb70b6459f9a9f1265771fe47d29
+size 154

@@ -1,1 +1,3 @@
-Participação da Ministra da Agricultura, Pecuária e Abastecimento na Exposição Agropecuária e Industrial de Londrina, Estado do Paraná. Anúncio, pela Titular da Pasta, de instalação de polo de inovação na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d9ecfe80da001405d7975d358a738697529dfc47ac63630c3b19cc8c2d2992f
+size 232

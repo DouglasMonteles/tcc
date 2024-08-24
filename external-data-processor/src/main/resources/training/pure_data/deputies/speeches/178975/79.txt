@@ -1,1 +1,3 @@
-Orientação de bancada para votação do parecer da Comissão de Constituição e Justiça e de Cidadania com conclusão pela inadmissibilidade da denúncia da Procuradoria-Geral da República e pelo indeferimento da solicitação de autorização para a instauração do Processo nº 2, de 2017, pelo Supremo Tribunal Federal, referente à denúncia formulada pelo Ministério Público Federal em desfavor do Presidente Michel Temer e dos Ministros de Estado, Eliseu Lemos Padilha e Wellington Moreira Franco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0a82e76ecce67523d328ab1791bdb1aba0ee4b2cd62dacbeb2a7f1de134a1cf
+size 511

@@ -1,1 +1,3 @@
-Saudações aos professores brasileiros. Valorização do magistério pela Câmara dos Deputados. Descumprimento por Governadores Estaduais da Lei nº 11.738, de 2008, sobre a implantação do piso salarial nacional do magistério público da educação básica. Realização, em Porto Alegre, de seminário para discussão da violência no ambiente escolar. Estudo intitulado Condições de Trabalho e Saúde dos Trabalhadores nas Instituições de Ensino Privado do Rio Grande do Sul, realizado pelo Departamento Intersindical de Estudos e Pesquisas de Saúde e dos Ambientes de Trabalho - DIESAT. Discussão do novo Plano Nacional de Educação - PNE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3df90145af57e308062d8ab92c82b877266603261f943104ac29a543094cb340
+size 654

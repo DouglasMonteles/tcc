@@ -1,1 +1,3 @@
-Agradecimento a Deus pela sobrevivência da oradora e do seu esposo Wagner dos Santos Carneiro, vítimas de atentado. Agradecimento aos Parlamentares pelas manifestações de solidariedade. Conclamação aos Deputados para união em torno do combate à violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d53dacc85b1a4273c4a17534c02abd6ea1901813d690dcf6b53ea2c8eb2cc9c9
+size 264

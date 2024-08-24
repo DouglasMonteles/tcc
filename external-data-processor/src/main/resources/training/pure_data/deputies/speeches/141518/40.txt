@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda 252, destacada, ao  Projeto de Lei de Conversão 9 de 2013 da   Medida Provisória 595 de 2012 (Dispõe sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários, e dá outras providências), que trata dos  critérios de aproveitamento pelos terminais privados de  trabalhadores portuários inscritos no Órgão de Gestão de Mão de Obra  - OGMO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:110cc316d120eb5296a406b016afe53db2d2892812e41267fcf3bd58820cd7f2
+size 483

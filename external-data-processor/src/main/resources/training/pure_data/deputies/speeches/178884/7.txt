@@ -1,1 +1,3 @@
-Falecimento do líder político e empresário maranhense Waldir Jorge. Precariedade da agência do Instituto Nacional do Seguro Social - INSS e da BR-316 no Município de Lagoa da Pedra, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:768359289b6b222e41391fa71f9b05c6599fea0feebb61d48b0b5ac34b5f8384
+size 207

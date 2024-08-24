@@ -1,1 +1,3 @@
-Recebimento de recursos do Fundo Partidário pelo Deputado José Nelto. Incoerência do discurso do Parlamentar a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00b251ded4d6375ec9e5b9ca3a1e8416157d3e81e71cf82166727f3ed4ee37b8
+size 131

@@ -1,1 +1,3 @@
-Congratulações à Conferência Nacional dos Bispos do Brasil - CNBB pelo lançamento da Campanha da Fraternidade de 2012 sobre o tema Fraternidade e Saúde Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:870626505b7faab2b4e8990f130a97b404eb10f68787b856c971ac063deff2d0
+size 167

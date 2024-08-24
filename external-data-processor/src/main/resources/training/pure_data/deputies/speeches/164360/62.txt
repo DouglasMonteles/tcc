@@ -1,1 +1,3 @@
-Pedido à Presidência para divulgação de pronunciamento da oradora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d00e560a0d8582bc9ae0c0e46e6705edafcd9f26a63a690362713ab48f59743
+size 70

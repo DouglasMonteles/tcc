@@ -1,1 +1,3 @@
-Presença no plenário de delegação de Vereadores do Município de Icapuí, Estado do Ceará. Homenagem à memória do ex-Deputado Federal, José Flávio Costa Lima, ao ensejo do transcurso do centenário do seu nascimento. Sucesso da carreira política e empresarial do ex-Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0be9356135b1ba7b7bcf99ef57d5405a20592e9bb1220e5917aefd7592f69c89
+size 288

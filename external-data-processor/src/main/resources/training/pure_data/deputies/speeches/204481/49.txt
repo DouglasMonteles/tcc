@@ -1,1 +1,3 @@
-Repúdio à Resolução nº 715, de 2023, do Conselho Nacional de Saúde, na parte concernente à transição de sexo e à liberação de drogas e do aborto no País. Descompromisso do Governo Luiz Inácio Lula da Silva com os valores da sociedade brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd77799d2ecdb8a2026db2bb3cc790361eefb243c1c00739ae0117857803d954
+size 259

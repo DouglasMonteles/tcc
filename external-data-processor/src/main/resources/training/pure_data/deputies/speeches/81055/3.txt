@@ -1,1 +1,3 @@
-Congratulações ao ator  Wagner Moura pela homenagem prestada à memória do guerrilheiro e comunista Carlos Marighella, em Berlim, Alemanha. Homenagem póstuma ao jornalista e escritor Waldir Braga, do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dab0127c00acfee3cbb07798761724411d1cd59a7886b372fbe070dd43c1c1af
+size 224

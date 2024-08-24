@@ -1,1 +1,3 @@
-Orientação de bancada na votação do recurso contra o indeferimento do requerimento de discussão artigo por artigo da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7ff1b4db47697bb8351572b927e55cb42194f6767d139c04a85275003c3e63b
+size 218

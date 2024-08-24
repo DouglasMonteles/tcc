@@ -1,1 +1,3 @@
-Regozijo com a eleição do Sr. Robério Silva para o cargo de Diretor-Executivo da Organização Internacional do Café - OIC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d2ba04f49b14a05858fff54d6a1bcbef92783e839a7bc1ece00d8f4506e6c0e
+size 127

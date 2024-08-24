@@ -1,1 +1,3 @@
-O Deputado respondeu às críticas feitas pelo Deputado José Medeiros em relação ao Governador de Minas Gerais, Romeu Zema, e que o único feito do governo mineiro foi o asfaltamento de uma estrada que leva à sua própria fazenda. Destacou as conquistas do governo do Presidente Lula, incluindo a aprovação de novas regras fiscais, o aumento do salário mínimo e a expansão da faixa de isenção do Imposto de Renda. Por fim, elogiou o Governo Lula por criar programas, impulsionando o crescimento econômico e reduzindo a inflação, enquanto o país recupera empregos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa95b3b108a67f0b6c48d29589e81bd05eb374369c0bf9140a5bc8d73b5c3385
+size 578

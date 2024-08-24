@@ -1,1 +1,3 @@
-Participação da oradora em reunião com o Secretário do Consórcio de Desenvolvimento e Inovação do Norte do Paraná - CODINORP, Amauri Fernandes, e o Presidente do Fundo Nacional de Desenvolvimento da Educação - FNDE, Prof. Carlos Alberto Decotelli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4760bf1ee13192c9e4cbbb0f010c913ee504a0510312a8ced57574f62f110aa
+size 257

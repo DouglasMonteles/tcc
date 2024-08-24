@@ -1,1 +1,3 @@
-Retirada, pelo DEM e pelo PSDB, de assinaturas de emendas do PV, do PPS e do PDT, destinadas à elevação do valor do salário mínimo para 560 reais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d747896e2f28b84541b1bc5ad66986f9aa0d9993a29084738e4e7a1f9c1392b1
+size 151

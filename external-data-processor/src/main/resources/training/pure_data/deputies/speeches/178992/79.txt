@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 998, de 2020, sobre a alteração de diplomas legais e a transferência, para a União, das ações de titularidade da Comissão Nacional de Energia Nuclear, representativas do capital social das Indústrias Nucleares do Brasil S/A e da Nuclebrás Equipamentos Pesados S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28c49d8d0ae4e0076971d69e6a749bfd8f8dd7106a86f536f7bfbd5c3c3f3f32
+size 373

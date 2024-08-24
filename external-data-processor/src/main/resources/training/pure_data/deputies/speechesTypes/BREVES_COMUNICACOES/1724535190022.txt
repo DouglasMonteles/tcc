@@ -1,1 +1,3 @@
-Apreciação pela Casa da proposta de instituição da Política Nacional sobre Drogas. Criação de fundo para tratamento e recuperação de dependentes químicos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94dc489a6546c47d725835c0dc82a5bc23fd5cbeea499010cebba29124bbcad3
+size 173

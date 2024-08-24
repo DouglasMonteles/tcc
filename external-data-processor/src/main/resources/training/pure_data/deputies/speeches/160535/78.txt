@@ -1,1 +1,3 @@
-Liberação da bancada do  PSC para votação do  Requerimento de Moção 6.488 de 2010 (Manifesta irrestrito apoio ao direito universal de livre manifestação do pensamento do povo Cubano), do Deputado Jair Bolsonaro e outros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c5776b53efe9ab375f5419566a092c08456b44bb2af8bc4980a6081aa160483
+size 228

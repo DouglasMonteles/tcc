@@ -1,1 +1,3 @@
-Realização no País de manifestações em prol da nova Presidência Social. Apoio recebido pelo Presidente Rodrigo Maia pelas redes sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:651c93d8da99d6e04d5bee6afb88beb7b441b388074e2922c246b3a513ea85d1
+size 142

@@ -1,1 +1,3 @@
-Implantação do Programa Mais Educação, do Governo Federal, no Município de Patos, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:185a80d6936a5926124b4be51dff956c0652bf24a1ece0e942d8aaaf79b53f18
+size 106

@@ -1,1 +1,3 @@
-Elogio ao Deputado Presidente Arlindo Chinaglia pela atuação na Presidência da Casa. Repasse a Municípios brasileiros de recursos retidos na Procuradoria da Fazenda Nacional. Renegociação de dívidas previdenciárias das Prefeituras Municipais brasileiras. Apoio à candidatura do Deputado Ciro Nogueira à Presidência da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb03bd89afd15ff70995e4cbdd40713e30f9cbfb248194b33363dd6c4bd768fa
+size 334

@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de permanência da gestão do porto de Suape sob a responsabilidade do Governo do Estado de Pernambuco, no processo de apreciação da Medida Provisória nº 595, de 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bf162cea2edb025a1253b6eab7a1191a422141069d37b519533084f2f6c1244
+size 196

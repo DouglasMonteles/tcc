@@ -1,1 +1,3 @@
-Pagamento, pelo Tesouro Nacional, de depósitos judiciais devidos aos Municípios e Estados brasileiros. Pedido ao Subsecretário de Arrecadação e Atendimento da Receita Federal do Brasil, Michiaki Hashimura, de esclarecimento sobre o relatório de compensações da arrecadação tributária da União a Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3280c1c1b56b00702d1d31cf5c78bd27140a2d5779203d50e4285bfb7f31430
+size 329

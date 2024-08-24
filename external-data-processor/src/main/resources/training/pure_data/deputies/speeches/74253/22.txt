@@ -1,1 +1,3 @@
-Defesa da aprovação de proposta de financiamento empresarial de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80be58978877abdcbcae8fbba02ac90c06939f5b6aff15346288b3e4b3f9e628
+size 87

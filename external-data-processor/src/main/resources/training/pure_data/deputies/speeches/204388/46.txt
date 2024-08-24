@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 2.080, de 2019, acerca da permissão do porte de arma de fogo no interior de veículos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:472c7d6b316907c377e3d524e928a0f824a4dc748ea3eb7f455b5632e8ce7057
+size 124

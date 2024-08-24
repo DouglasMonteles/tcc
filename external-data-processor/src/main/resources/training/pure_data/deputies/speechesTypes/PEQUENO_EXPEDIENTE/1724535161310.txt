@@ -1,1 +1,3 @@
-Falecimento de Áurea Ferrer de Moraes, viúva de um dos fundadores da indústria de bebidas Engarrafamento Pitú Ltda., no Município Vitória de Santo Antão, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afb7747f412828799ae05dc097b941fb705211cfb018a4685c41757110eef56d
+size 182

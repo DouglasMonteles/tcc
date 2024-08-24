@@ -1,1 +1,3 @@
-Situação da criança e do adolescente no País. Rejeição, pela Comissão de Constituição e Justiça e de Cidadania, do projeto de lei sobre a descriminação do aborto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:796124f331afa1b9ad1dfd420c81daaefa2f583b8215f8e0b2ffec9285b26185
+size 174

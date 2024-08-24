@@ -1,1 +1,3 @@
-Solicitação aos Deputados dos Estados da Paraíba, Pernambuco, Alagoas, Rio Grande do Sul, Espírito Santo, Paraná e Rio de Janeiro de comparecimento ao plenário para registro de presença.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f427cc4e1e0b00537c0dedf1922c85b4c1e9b96070e7a548385a4a30d8d45f7
+size 193

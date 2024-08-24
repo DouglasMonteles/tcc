@@ -1,1 +1,3 @@
-Inclusão do Porto de Itaqui, no Estado do Maranhão, na nova etapa do Programa de Investimento em Logística do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dbe4a3869f5eff73f28bf76af36fc92ae7eee34ccc0fa42f9ba914ea039d3b1
+size 129

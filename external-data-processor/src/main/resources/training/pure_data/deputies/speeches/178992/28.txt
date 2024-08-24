@@ -1,1 +1,3 @@
-Saudações aos habitantes do Município de Capela do Alto, Estado de São Paulo. Visão empreendedora do Prefeito Pericles Gonçalves, o Kéke.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aa46054bba279512c75fbe9959d5df8e078abc70daaae6be786052fef468989
+size 144

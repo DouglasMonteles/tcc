@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei nº 7.596, de 2017, a respeito dos crimes de abuso de autoridade, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09460849c63deab75b797ddb660588e8846dc0f7b0cb8b5316514a28a9c88ba5
+size 146

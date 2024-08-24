@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, de projeto de lei sobre a dilatação do prazo para pagamento do Imposto sobre a Propriedade Territorial Rural - ITR. Necessidade de investimento pelo BNDES em cadeias curtas de produção alimentícia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08bf7b63e0d5b98f27783a4a96cd3b2642d5343f6f513ed3d362f50d2304ed68
+size 296

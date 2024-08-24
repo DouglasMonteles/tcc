@@ -1,1 +1,3 @@
-Solicitação ao Departamento Nacional de Infraestrutura de Transportes - DNIT de recuperação da BR-226 no trecho entre os Municípios de Grajaú e Barra do Corda, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69fe26f386bb421e6c1a65c1a4ce824d6ee71ceaa986b7719480badf1d3e1a30
+size 186

@@ -1,1 +1,3 @@
-Solicitação de leitura,  na íntegra,  do parecer à Medida Provisória 503 de 2010 (Ratifica o Protocolo de Intenções firmado entre a União, o Estado do Rio de Janeiro e o Município do Rio de Janeiro, com a finalidade de constituir consórcio público, denominado Autoridade Pública Olímpica - APO).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4674c719ac9ce0a050d42d238a94bfe2cf1b9d57f5d2366dcc9e2869ab9a6a1
+size 308

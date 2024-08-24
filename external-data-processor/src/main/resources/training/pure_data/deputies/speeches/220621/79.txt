@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação da Subemenda Substitutiva Global oferecida pela relator da Comissão Especial ao Projeto de Lei nº 2.148, de 2015, que estabelece redução de tributos para produtos adequados à economia verde de baixo carbono.
+version https://git-lfs.github.com/spec/v1
+oid sha256:397cf103b9ce4aa121fabdf6e45a170e9f44c3ea90c66baa4ca721a3c173eb32
+size 255

@@ -1,1 +1,3 @@
-Necessidade de reparação pecuniária aos familiares dos jovens assassinados durante operação realizada pela Polícia Militar na favela Paraisópolis, em São Paulo, Estado de São Paulo, Repúdio à política de segurança pública adotada pelo Governador João Doria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39da1346586806751e60e8e2920195b902dee8a88b148b8852e372dbb332a68c
+size 272

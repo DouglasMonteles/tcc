@@ -1,1 +1,3 @@
-Epidemias de hepatite A, no Município de Lastro, e de dengue, no Município de Cuité, Paraíba. Ações do Ministério da Saúde para combate aos surtos epidêmicos no Estado. Nota à imprensa, sob o título Epidemia de Hepatite no Lastro-PB: Socorro!, de autoria do Padre Djacy Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8893a5e67438d504ec06521b9eba4baa56e5ea7f2eadd6e8ff0b1a6b75150325
+size 292

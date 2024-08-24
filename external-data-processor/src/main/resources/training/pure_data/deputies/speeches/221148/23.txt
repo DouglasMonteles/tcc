@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global oferecida&nbsp;ao Projeto de Lei nº 4.043, de 2019, referente à alteração da Lei nº 8.078, de 1990, com vista à disponibilização aos consumidores, em estabelecimentos comerciais e de prestação de serviços, de versão atualizada do Código de Defesa do Consumidor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d1276108255b5562585741bfc3175dfbf1d142ad7f3f912f599648fa0042dd3
+size 344

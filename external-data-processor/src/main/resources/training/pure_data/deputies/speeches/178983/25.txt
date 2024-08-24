@@ -1,1 +1,3 @@
-Transcurso do Dia do Ferroviário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeee1bc9cac458c3575866410a09ad3f98a405748b97f07c6351b7a86c740e21
+size 34

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional de Combate à Violência contra a Mulher. Atuação do centro de referência da mulher no Município de Nova Friburgo, Estado do Rio de Janeiro. Defesa de efetivação da chamada Lei Maria da Penha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4050d504c2830358dc9bf8516937adae147728eaaf22c71d1095edad90300be9
+size 230

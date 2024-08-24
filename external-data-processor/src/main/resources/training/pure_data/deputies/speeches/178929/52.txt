@@ -1,1 +1,3 @@
-Agradecimentos às Deputadas Rosangela Gomes e Dulce Miranda, pela atuação como Relatoras do Projeto de Lei nº 3.170, de 2015, e à bancada feminina, pela aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da41e0a1856b91158ec38955578efdb771bebc17e90305f4696ec1c57fdf77e2
+size 182

@@ -1,1 +1,3 @@
-Apresentação dos Projetos de Lei de nºs 696 e 1.290, de 2019, respectivamente, sobre a isenção da cobrança de taxa de inscrição em concurso público ao candidato desempregado há mais de 1 ano, e sobre a concessão ao contribuinte, pessoa física, do parcelamento especial de débitos tributários junto à Secretaria da Receita Federal do Brasil, à Procuradoria-Geral da Fazenda Nacional e o Instituto Nacional do Seguro Social - INSS, com vencimento até 31 de dezembro de 2018.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aebc4ef2ae33a2e7ae45143aaca04c40b0a5bb8de10f6f703d0846ef6c0d65de
+size 489

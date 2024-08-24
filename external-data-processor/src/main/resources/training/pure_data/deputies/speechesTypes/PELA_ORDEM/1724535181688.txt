@@ -1,1 +1,3 @@
-Repúdio às declarações do Presidente do Supremo Tribunal Federal, Ministro Gilmar Mendes, a respeito da atuação da Polícia Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc0fb7f4eff5dece6636b49d849d62295c1f9bfa477cacd91f492996cc9266b9
+size 138

@@ -1,1 +1,3 @@
-Impunidade de assassinos de policiais no Brasil. Repúdio à forma de condução de audiências de custódia no País. Pedido ao Presidente Rodrigo Maia de convite a representantes do Conselho Nacional de Justiça e do Ministro do Supremo Tribunal Federal, Dias Toffoli, para debate da audiência de custódia na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cf8b09c803bb4347c48b584e3ccb39e5d1d2c970cccfd6c27371675a6e26b89
+size 335

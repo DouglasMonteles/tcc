@@ -1,1 +1,3 @@
-Orientação de bancada na votação das Emendas de nºs 15, 16, 17 e 23, com parecer favorável, oferecidas ao Projeto de Lei nº 4.162, 2019, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00d441644e2b96d0e2839af09eb94ae8eaaf36da501219f13824d02504dfbcf6
+size 203

@@ -1,1 +1,3 @@
-Realização da 1ª Conferência Nacional de Juventude, em Brasília, Distrito Federal. Documento de dirigente nacional do PSB sobre os anseios dos jovens socialistas brasileiros. Encontro de membros da Juventude Socialista Brasileira com o Presidente Arlindo Chinaglia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60321c5cf92f878863ecafeaa5d70cfaf747f800cc64dd6045f96eebd498b87f
+size 270

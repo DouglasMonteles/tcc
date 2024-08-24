@@ -1,1 +1,3 @@
-Celeridade na tramitação do Projeto de Lei Complementar nº 92, de 2023, sobre a alteração de dispositivos da Lei Complementar nº 187, de 2021, relativa à certificação das entidades beneficentes, e regulação dos procedimentos referentes à imunidade de contribuições à seguridade social. Defesa de apreciação da matéria em regime de urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64aa250004d02716572d5ca891f133e6b46b96d51fd6d51931366fb42a2f9e15
+size 359

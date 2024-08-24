@@ -1,1 +1,3 @@
-Razões do voto do orador contrário à aprovação, em segundo turno, da proposta governamental de reforma previdenciária. Visita do Presidente Rodrigo Maia às instalações da Fundação Dr. Jesus, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d6c64b07e80ea741ed7e60ada5b4e89df0d6c64aa425ae6b4fcb01ce4ce188a
+size 221

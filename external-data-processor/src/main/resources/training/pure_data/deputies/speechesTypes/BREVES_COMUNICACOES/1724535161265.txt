@@ -1,1 +1,3 @@
-Conveniência da realização de acordo de Líderes para aprovação da Medida Provisória nº 615, de 2013, sobre a concessão de subvenção econômica aos produtores de cana-de-açúcar da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dabdd05c93c365f95365b91db3a90aee99c5e1ef38b06cc46e0aeff7d788b51e
+size 209

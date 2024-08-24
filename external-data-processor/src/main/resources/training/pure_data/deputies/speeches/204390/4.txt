@@ -1,1 +1,3 @@
-Aplausos ao Presidente Jair Bolsonaro pela defesa enfática do Ministro da Justiça e Segurança Pública, Sérgio Moro. Urgente necessidade de aprovação da proposta de emenda à Constituição sobre a reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c25ca8e408284e50ee7f8a1ca2d239f72fab8307c5c5a5acfd4fd1f80dbe78f
+size 228

@@ -1,1 +1,3 @@
-Transcurso do 318º aniversário de fundação do Município de Salto, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cfbc952234719353cd05d6ad364d0ab623caab0095c25b7c63e1d0312329d4e
+size 92

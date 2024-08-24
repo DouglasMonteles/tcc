@@ -1,1 +1,3 @@
-Imediata votação pela Casa do novo Código Florestal Brasileiro. Realização no Município de Montes Claros, Estado de Minas Gerais, de reunião destinada ao debate da duplicação da BR-251.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9a6a784e9007d091393c81646bcbfb4a37e8e9089f7c428fc6c00ce80408db6
+size 194

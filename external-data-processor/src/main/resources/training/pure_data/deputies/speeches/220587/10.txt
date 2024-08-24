@@ -1,1 +1,3 @@
-Boas-vindas à Casa ao Vereador Charles Guimarães dos Santos, da Câmara Municipal de Feijó, Estado do Acre. Saudação à população feijoense, ao Prefeito Kiefer Cavalcante e ao Deputado Estadual Marcus Cavalcante. Convite aos Parlamentares de visita ao Festival do Açaí de Feijó, em agosto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a98dac01f8e63baa97379f3368490e52dae1dba1e866bc16f318fce4e3700fae
+size 299

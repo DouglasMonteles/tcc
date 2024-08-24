@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação do Projeto de Lei nº 8.833, de 2017, sobre a tipificação como crime a indução de crianças e adolescentes à prática de suicídio e automutilação. Agradecimento a voluntários pela participação nos trabalhos de despoluição de praias atingidas pelo vazamento de petróleo, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af3728f56a00253111b05eaebedd42a4e835a4b98839ebf76debfe5688d1fd5d
+size 345

@@ -1,1 +1,3 @@
-Apresentação do Projeto de Decreto Legislativo nº 134, de 2023, para sustação dos efeitos da Resolução nº 2.333, de 2023, do Conselho Federal de Medicina, acerca da adoção de normas éticas para a prescrição de terapias hormonais com esteroides androgênicos e anabolizantes, de acordo com as evidências científicas disponíveis sobre os riscos e malefícios à saúde, com a contraindicação do uso para finalidade estética, ganho de massa muscular e melhoria do desempenho esportivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb318e935741b3fb6fcbb6874cce2760e5b6e21f3378dbb92d386a6d7f302e01
+size 501

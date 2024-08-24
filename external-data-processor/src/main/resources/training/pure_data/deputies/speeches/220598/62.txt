@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de Lei Complementar nº 93, de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico, com fundamento no art. 6º da Emenda Constitucional nº 126, de 21 de dezembro de 2022, e no inciso VIII do caput e no parágrafo único do art. 163 da Constituição Federal; e altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c367865e7f1da29defebfb4f91a30f03ad7cf45f20101fde9a2ddf6268a2bfc
+size 493

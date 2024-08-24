@@ -1,1 +1,3 @@
-Insatisfação popular com crise econômica de responsabilidade do Governo petista. Anúncio da realização do evento religioso Canta Jardim no Município de Cidade Ocidental, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:806b6fcaecde53f86deb0e1bae0cef8530ed617752bb98587bf2253e7b9e8193
+size 194

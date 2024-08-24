@@ -1,1 +1,3 @@
-Encaminhamento de indicação à Agência Nacional de Energia Elétrica - ANEEL para inclusão da pesca e da aqüicultura entre as atividades amparadas pela política agrícola brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09e48931850b54016ab6d945cdc2d313a653b6fc193e4864b2e0adb1c5623390
+size 188

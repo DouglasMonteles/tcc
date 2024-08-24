@@ -1,1 +1,3 @@
-Questão de ordem sobre a concessão de tempo aos Deputados para uso da palavra na presente Comissão Geral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38b604e53f2340e9ed61747d5cfb052238f16141acd3dbad4294cb76feff3d71
+size 108

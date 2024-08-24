@@ -1,1 +1,3 @@
-Emissão de parecer à Emenda de Plenário nº 1, apresentada ao Projeto de Lei nº 1.605, de 2019, sobre a instituição do Estatuto da Pessoa com Câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40cdb6007daf0bd5131d94815169a0cda6c3eb41acb86ffe70777de7a7e1ecf9
+size 156

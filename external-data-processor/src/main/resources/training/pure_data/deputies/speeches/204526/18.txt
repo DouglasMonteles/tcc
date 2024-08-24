@@ -1,1 +1,3 @@
-Razões do posicionamento de manifestantes acampados em frente a quartéis e de simpatizantes do novo governo, favorável ao fechamento do Congresso Nacional. Dever dos novos legisladores de eleição dos futuros Presidentes da Câmara dos Deputados e do Senado Federal comprometidos com a soberania de suas respectivas Casas. Repúdio à ação dos Presidentes Arthur Lira e Rodrigo Pacheco diante do clima de convulsão reinante no seio da sociedade brasileira. Necessidade de realização das reformas tributária e eleitoral, do Poder Judiciário e do regime de governo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d58991de3377b876db6158526847881f3fc900871b2777399a0386856aaca965
+size 574

@@ -1,1 +1,3 @@
-Considerações sobre os critérios adotados na distribuição de royalties de petróleo no novo marco regulatório. Defesa, pelo Partido Social Cristão, da extinção do fator previdenciário e de vinculação de reajustes do salário mínimo às aposentadorias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:090fd1614129b05fdad227f57e4eda7207466ad461e6afbf37689f8f576d61bf
+size 264

@@ -1,1 +1,3 @@
-Elogio à atuação do Prefeito Paulo Henrique à frente da Prefeitura Municipal de Salinópolis, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af45831957b95ee1bcf3055a897d8b57e6d88584ab199a0360259aba0a15e892
+size 114

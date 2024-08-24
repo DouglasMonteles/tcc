@@ -1,1 +1,3 @@
-Agradecimento aos participantes na sessão solene, particularmente ao Senador Pedro Simon e ao Arcebispo Metropolitano de Brasília, Dom João Braz de Aviz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d653176eeecfc47619c89b0bc438d4b766b6df2cf6e3369def6f7394e3d0abc
+size 156

@@ -1,1 +1,3 @@
-Falecimento do Prof. Antonio Neto, do Município de Piripiri, Estado do Piauí. Apoio à Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c849b530f960cc819d174d13c8f8e44f0a7e27d4ad15cadb322bd1f3c8e4e09
+size 223

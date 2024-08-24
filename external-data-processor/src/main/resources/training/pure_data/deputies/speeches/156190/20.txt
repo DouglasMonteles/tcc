@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 1º do Substitutivo apresentado ao Projeto de Lei Complementar nº 441, de 2017, com vista à sua supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1525679a29cf5b998dab3494b80d8eb50d0daed167004b51a51a577e482fd0d
+size 209

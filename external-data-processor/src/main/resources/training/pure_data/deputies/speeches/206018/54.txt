@@ -1,1 +1,3 @@
-A Deputada enfatizou a importância de considerar a votação dos vetos, destacando o Veto nº 30, de 2023, apresentado ao Projeto de Lei nº 490, de 2007, sobre a tese do marco temporal, ressaltando os impactos ambientais e sociais da decisão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:381e250c9234b548c6aee09334e06177bd40fcbd95542b49f95333cb9fffdb4d
+size 245

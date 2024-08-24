@@ -1,1 +1,3 @@
-Assassinato de crianças em estabelecimento escolar, no Bairro de Realengo, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc86c95bec6bc8fa6a90e9ced16535c022115e610e131c40502eab0e5894075e
+size 120

@@ -1,1 +1,3 @@
-Discordância com posicionamentos defendidos pelo antropólogo Richard Parker em entrevista concedida ao portal Estadão a respeito da disseminação intencional do vírus HIV.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ac54fd56c667f570c3764ba132e57695bc5dd1398698d4318dca6628cfed30f
+size 176

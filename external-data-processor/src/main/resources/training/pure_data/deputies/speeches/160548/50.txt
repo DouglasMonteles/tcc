@@ -1,1 +1,3 @@
-Aprovação, pela Casa, da Medida Provisória nº 528, de 2011, sobre a alteração dos valores constantes da tabela do Imposto sobre a Renda da Pessoa Física. Rejeição de emenda oferecida à matéria pelo orador, destinada ao desconto do Imposto de Renda de gastos efetuados com medicamentos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0f669501d1a73c2a2b69a5f1bed11011fc465ce0b90b95ee66b49e3a90e13d6
+size 296

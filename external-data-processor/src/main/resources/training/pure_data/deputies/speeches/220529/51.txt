@@ -1,1 +1,3 @@
-Protesto contra o descumprimento de compromisso por parte da empresa Ecovias referente à duplicação da BR-101, no Estado do Espírito Santo. Morte de duas pessoas atropeladas na Comunidade Seringal, do Município capixaba de Viana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:283ce1b4b7eefe743a95c667fe1e0783d7ea7433673f867538ff06febb7fafab
+size 234

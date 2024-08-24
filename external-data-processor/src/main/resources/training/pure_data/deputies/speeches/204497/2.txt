@@ -1,1 +1,3 @@
-Importância cultural e socioeconômica do carnaval de rua (Carnapauxis) realizado no Município de Óbidos, Estado do Pará. Convite aos Parlamentares para participação no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6b2c354d9d2763824ff7eb1e0cc08cf40e5898e1427e6c3991b9d3f751a9566
+size 182

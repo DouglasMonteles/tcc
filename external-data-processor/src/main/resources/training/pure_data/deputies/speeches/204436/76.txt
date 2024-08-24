@@ -1,1 +1,3 @@
-Inclusão das Polícias Legislativas da Câmara dos Deputados e do Senado Federal em grupo prioritário de vacinação contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d704c09508b85e9d32d6514eec5d6dd714dcd79b8b2d47bdf68268008d3c3804
+size 137

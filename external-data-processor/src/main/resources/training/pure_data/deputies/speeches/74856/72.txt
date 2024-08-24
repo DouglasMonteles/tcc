@@ -1,1 +1,3 @@
-Regozijo com a nomeação da Dra. Adele Benzaken para a diretoria do Departamento de DST, AIDS e Hepatites Virais, do Ministério da Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:026b4fd9ed208ca5b6de967ed25008329f381125cdfc422d4e20273b9be39e0d
+size 140

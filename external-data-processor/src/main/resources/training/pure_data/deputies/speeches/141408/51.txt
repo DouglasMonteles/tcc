@@ -1,1 +1,3 @@
-Morosidade do Governo Federal no repasse de recursos a municípios atingidos por enchentes no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93fda15fb0145421ee217426ec012f7524b6aad7d733c055d911117711679a17
+size 114

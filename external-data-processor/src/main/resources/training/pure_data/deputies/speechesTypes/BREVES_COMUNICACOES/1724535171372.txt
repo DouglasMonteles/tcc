@@ -1,1 +1,3 @@
-A Deputada celebrou o Dia do Servidor Público, comemorado em 28 de outubro. Elogiou a dedicação e a qualidade do trabalho realizado pela maioria dos servidores públicos, destacando seu papel vital na sociedade. Ressaltou que os servidores públicos são educadores, profissionais de saúde, bombeiros e policiais, entre outros, desempenhando funções essenciais para o bem-estar da população. A oradora manifestou compromisso em garantir que os direitos da categoria sejam preservados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c84fa1d8ad91c8ef477f1903adc68df3bdb7acae5f6611fe562c2ac9c173ec5b
+size 492

@@ -1,1 +1,3 @@
-Congratulações aos Parlamentares, especialmente ao Relator Lafayette Andrada, pela aprovação Projeto de Lei nº 5.829, de 2019, sobre o estabelecimento do marco legal da microgeração e minigeração de energia distribuída no Brasil. Reconhecimento da luta empreendida pelo Deputado Estadual de Minas Gerais, Gil Pereira, em defesa da energia fotovoltaica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:745faf1517da64d53ab0f9be14f239eb9c1af500be602c06e14c9fa21aa9a949
+size 362

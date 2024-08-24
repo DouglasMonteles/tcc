@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos Cinquenta Anos da Igreja Metodista Wesleyana.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:685744bc6c91e7c4a74692925e9abdb75194be3b6efad45f1c06412ccde4ad1d
+size 226

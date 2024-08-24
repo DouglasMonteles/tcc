@@ -1,1 +1,3 @@
-Votos de feliz Natal e próspero Ano Novo aos Deputados e ao povo brasileiro. Protesto contra a não votação, pela Casa, de matérias de relevante interesse do País. Maior aproximação da Câmara dos Deputados com a comunidade acadêmica. Distorções do sistema político brasileiro. Ingerência do Supremo Tribunal Federal em assuntos intestinos do Poder Legislativo. Assassinato de policial militar do Batalhão de Operações Especiais - BOPE, no Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bd02bfedb5740e5a6cfa5d0a1432d0c3d0451738c086afe3ed4bc8cda71ab9b
+size 485

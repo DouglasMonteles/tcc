@@ -1,1 +1,3 @@
-Apoio da bancada do PMDB à decisão do Líder do partido de obstrução das votações até a deliberação da Casa sobre a proposta de criação do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51b7b43b7384c2f6c40329cf57f997e001e773bd74737e4d4dc7cae2b12d1500
+size 184

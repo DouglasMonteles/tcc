@@ -1,1 +1,3 @@
-Participação feminina na política brasileira. Violência política praticada contra as mulheres no Brasil. Importância da luta pelos direitos da mulher. Lançamento do projeto Vamos Juntas, com vista à mobilização de mulheres candidatas no pleito municipal de 2020. Caráter antidemocrático e machista do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7137c69e22e62a5cac02a4b3115d1b0cbbc3820cd9c250d095e44edc973f1150
+size 336

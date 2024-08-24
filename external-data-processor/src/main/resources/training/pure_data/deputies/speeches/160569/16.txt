@@ -1,1 +1,3 @@
-Transcurso do 49º aniversário de emancipação político-administrativa do Município de Licínio de Almeida, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4e63980e5306e1f7fcaa261306885c134b382ef65504f17cfab819f395f0891
+size 128

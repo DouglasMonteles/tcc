@@ -1,1 +1,3 @@
-Solicitação à Presidência de realocação do orador na Comissão de Seguridade Social e Família, tendo em vista a decisão do orador de desligamento da Comissão de Direitos Humanos e Minorias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7558d4c8f4adbb5aaab159e43a5f477adf5935918fef4dc1ac69b6307461f70f
+size 198

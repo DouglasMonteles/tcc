@@ -1,1 +1,3 @@
-Apelo ao Presidente Arthur Lira e à Mesa Diretora de inclusão na pauta do Projeto de Lei nº 2.564, de 2020, relativo à instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24f8048bbda7b00e4d46cbdbf67edde4604d46803299dff63b05018aef3b3f27
+size 209

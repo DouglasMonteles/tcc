@@ -1,1 +1,3 @@
-Apoio à campanha Hora do Planeta promovida pela organização não governamental WWF - Fundo Mundial para a Natureza. Associação da Casa à iniciativa da entidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed5152bf20600e5acf172cd624d19b25469e4ef1941e9c0592883bed5e0fbd65
+size 166

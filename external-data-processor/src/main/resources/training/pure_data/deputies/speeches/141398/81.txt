@@ -1,1 +1,3 @@
-Inadmissibilidade de adoção do chamado voto distritão por ocasião da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fda26f1cd0d5378357388adf52cdb5f8f5efd62260fa5046b6b91a7aaaa679bf
+size 91

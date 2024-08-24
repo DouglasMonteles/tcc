@@ -1,1 +1,3 @@
-Homenagem à memória do jurista Clóvis Beviláqua, ao ensejo do transcurso do seu 150º aniversário de nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5ec706202b6dc88bb441dad5fca7d8fd613b94c4f1fc77a1121032b488458e2
+size 117

@@ -1,1 +1,3 @@
-Presença no plenário do Ministro da Saúde, Luiz Henrique Mandetta. Defesa de aprovação da Proposta de Emenda à Constituição nº 410, de 2018, sobre a consideração da inculpabilidade até a confirmação da sentença penal condenatória em grau de recurso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7509ce21c746cbc291b453aefc7a61bb92b9cc1dc4fbfcfd376de5e0218c471
+size 265

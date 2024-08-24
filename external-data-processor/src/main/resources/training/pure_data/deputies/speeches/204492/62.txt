@@ -1,1 +1,3 @@
-Quadro de fome e desemprego vigente no País. Prioridade dada pelo Presidente Jair Bolsonaro na discussão do voto impresso, em detrimento das ações de assistência e amparo à população brasileira. Protesto contra a privatização das Centrais Elétricas Brasileiras S/A - ELETROBRAS e da Empresa Brasileira de Correios e Telégrafos - ECT. Retirada de direitos do povo brasileiro pelo Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7754cf24bd076b5d2c9b5f3dfc3f85f0b6962a6853e46f5e495c2780b3d6012a
+size 414

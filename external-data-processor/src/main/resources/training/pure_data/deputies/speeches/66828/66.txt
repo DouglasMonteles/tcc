@@ -1,1 +1,3 @@
-Transcurso do 20º e do 84º aniversários de fundação, respectivamente, do canal BandNews e do Grupo Bandeirantes de Comunicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a80ac1003a58c52e3441b0e030c9f9c6e841cb53433dfaa140af90d67965d75
+size 134

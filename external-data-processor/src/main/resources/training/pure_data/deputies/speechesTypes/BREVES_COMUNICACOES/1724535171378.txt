@@ -1,1 +1,3 @@
-Inclusão de propostas sobre a redução de riscos de desastres ambientais no debate acerca da instituição do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba00122a8315924be2bc7414e17937c1aa6c6f8f9904eb82b3b2bb35090afbea
+size 146

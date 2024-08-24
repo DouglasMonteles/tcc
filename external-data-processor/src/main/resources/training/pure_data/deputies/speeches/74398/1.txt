@@ -1,1 +1,3 @@
-Concessão do Prêmio Carlota Pereira de Queirós a mulheres brasileiras, com destaque para a Sra. Olga Benário Prestes, in memoriam.Carta de despedida de Olga Benário Prestes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6495fea161546cd473bb88eb2bbca5cdac82e35c2df30349a0bf3e2c89dc0f9
+size 178

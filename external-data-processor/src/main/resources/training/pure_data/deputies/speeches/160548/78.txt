@@ -1,1 +1,3 @@
-Aviso ao Plenário sobre a realização no Município de Campinas, Estado de São Paulo, de reunião destinada à discussão da escolha de subsedes da Copa do Mundo de Futebol de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b954505f95aa794c9c8ec1811e5adc7295dd06997c93ad69f785e6719a800cbb
+size 184

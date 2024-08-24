@@ -1,1 +1,3 @@
-Realização da XXVI Festa do Sanfoneiro e da XXIII Exposição Agropecuária do Município de Conceição do Castelo, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4211a21d30b772c029de69482b682df4a07305a3a61f2306ecc2816eca0af15e
+size 145

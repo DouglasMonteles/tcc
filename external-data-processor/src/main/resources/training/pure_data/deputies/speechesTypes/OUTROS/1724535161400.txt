@@ -1,1 +1,3 @@
-Discussão da Medida Provisória nº 1.142, de 2022, sobre a prorrogação de contratos por tempo determinado e a contratação de profissionais para os fins especificados, no âmbito do Ministério da Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3da97c2b055c0a8a5272ccfa9b88f9c93f8350ece0ac06c8092caf5a5746996
+size 209

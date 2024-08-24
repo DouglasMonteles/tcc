@@ -1,1 +1,3 @@
-Acerto das medidas adotadas pelo Governador do Estado do Espírito Santo, Renato Casagrande, em prol da indústria de vestuário. Contrariedade à aprovação da Medida Provisória nº 568, de 2012, prejudicial a servidores públicos e profissionais médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2c19a46b572a81cccbaeaaff3b3944412b2e4f60249b7dbb9ee6c9f53f49792
+size 259

@@ -1,1 +1,3 @@
-Designação, pela Organização das Nações Unidas - ONU, de 2008 como o Ano Internacional do Saneamento Básico. Urgência no lançamento de marco regulatório do setor no País. Baixo acesso da população brasileira a sistemas de coleta e tratamento de esgotos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a6da381e70c47f44a8beef5731dce59a1595004e4731f8b08e02f8cfa3b774d
+size 266

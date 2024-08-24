@@ -1,1 +1,3 @@
-Transcurso do Dia do Professor. Orientação de bancada na votação do parecer da Comissão Mista, quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, oferecido à Medida Provisória nº 886, de 2019, sobre a organização básica dos órgãos da Presidência da República e dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68a366a1d54f9e4d0d8e2c5a1518ff2652fc69c0d9448f251e6d9f3b958060cb
+size 374

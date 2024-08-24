@@ -1,1 +1,3 @@
-Dificuldades das famílias de baixa renda para o acesso do filho com o Transtorno do Espectro Autista - TEA ao tratamento multidisciplinar. Aprovação, pela Comissão de Defesa dos Direitos das Pessoas com Deficiência, de proposição a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30d0835d0ae80e81f3fc59f2e866022572b83b5fcb5b354d886560682d0e3bb5
+size 256

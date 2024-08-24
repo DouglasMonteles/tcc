@@ -1,1 +1,3 @@
-Compromisso de lutar junto ao Conselho Executivo para inclusão dos insumos agrícolas na lista positiva prevista no Projeto de Lei  2.105 de 2007 (Institui o Regime de Tributação Unificada - RTU - na importação por via terrestre de mercadorias procedentes do Paraguai - Projeto do Sacoleiro).
+version https://git-lfs.github.com/spec/v1
+oid sha256:70e8f2a1fe6b977b97f939940ccfeb40d96c28cad34a0e56d43b1189ed29e88d
+size 297

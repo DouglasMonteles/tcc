@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 2, apresentada ao Projeto de Lei nº 5.082, de 2016, sobre a criação da via societária e o estabelecimento de procedimentos de governança e de natureza tributária para modernização do futebol. Apoio ao requerimento de destaque oferecido à matéria pelo Deputado Felipe Francischini.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71abd5b9d5357b58ba009c26e1979dfefe1f53ef2449621477b243a6d664000e
+size 409

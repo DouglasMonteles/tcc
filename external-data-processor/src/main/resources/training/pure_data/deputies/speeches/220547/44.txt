@@ -1,1 +1,3 @@
-Relativização da democracia pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:680cc0d8d0566d46d83affc1bc7f5cada8e2d3d2a0fb15318a2c9f5e523359a3
+size 73

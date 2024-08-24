@@ -1,1 +1,3 @@
-Transcurso dos aniversários de emancipação político-administrativa dos Municípios de Barra do Mendes, Cocos e Riacho Santana, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:766eaee2212d9fe85b4949d5fa2d62ed66ddb032fc23b7c0df3b35b9c2c92287
+size 150

@@ -1,1 +1,3 @@
-Críticas a partidos políticos da Esquerda pela apresentação, ao Supremo Tribunal Federal, de pedido de impeachment  do Ministro da Educação, Abraham Weintraub.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc426f63eaed09293b4cd3785e4f5191831a6787a2acd2f850173b064f085d76
+size 165

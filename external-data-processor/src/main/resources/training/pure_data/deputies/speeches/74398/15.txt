@@ -1,1 +1,3 @@
-Apoio à votação concernente à regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de recursos à saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79e1dfe9d8f48d01ff453d6c127cb8e54f068a73e7074976fb86652d2b171f1d
+size 145

@@ -1,1 +1,3 @@
-Participação do orador em encontro realizado pelo Conselho Metropolitano de São José do Rio Preto da Sociedade São Vicente de Paulo. Destinação pelo orador de recursos de emendas orçamentárias para entidades vicentinas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32f03dc1120a26bb680748a0eefa91af9b98517304d1ff952f9c8f585586d83d
+size 228

@@ -1,1 +1,3 @@
-Apoio ao requerimento de tramitação em regime de urgência do projeto de lei relativo ao Conselho Tutelar da Criança e do Adolescente, apresentado pelo Deputado Jovair Arantes. Êxito da audiência pública realizada na Casa para discussão sobre a perda salarial de profissionais médicos preconizada na Medida Provisória nº 568, de 2012. Defesa de rejeição da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:551425a9d32833909862143ee1afdc003eb368ba90e49d863d03f8475f05372d
+size 378

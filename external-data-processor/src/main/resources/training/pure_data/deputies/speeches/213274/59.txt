@@ -1,1 +1,3 @@
-Descontrole da epidemia de coronavírus na macrorregião de Ribeirão Preto, Estado de São Paulo. Saturação dos leitos de UTIs na rede hospitalar da municipalidade. Omissão do Governo Estadual na realização de testes da Covid-19 e na aquisição de respiradores mecânicos para atendimento aos contaminados pela doença viral em Ribeirão Preto. Protesto contra a aprovação, pela Câmara de Vereadores, de projeto de lei encaminhado pelo Prefeito Municipal sobre a doação de 17 milhões de reais às empresas do transporte coletivo urbano. Encaminhamento, ao Ministério Público, de ação contra a iniciativa do gestor municipal de Ribeirão Preto. Desvio, por Prefeituras Municipais, de recursos destinados ao combate à Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:492657398f278e1c3380862f662d283f1e93b42eba1cc2b3874a0cceb0df69b4
+size 743

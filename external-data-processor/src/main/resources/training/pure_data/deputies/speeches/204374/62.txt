@@ -1,1 +1,3 @@
-Posicionamento dos Deputados do PSL contrário à elevação das dotações orçamentárias do Fundo Especial de Financiamento de Campanha, o Fundo Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d9869208cde35abb926c2b0845209fb174bbb09801f1a31c6b94eb60cdaac4c
+size 158

@@ -1,1 +1,3 @@
-Outorga pela Fundação das Nações Unidas para a Infância - UNICEF ao Município de Paulo Afonso, Estado da Bahia, do Selo UNICEF Município Aprovado. Congratulações ao Prefeito Anilton Bastos pelo reconhecimento internacional de Paulo Afonso. Relevância do Programa Saúde em Movimento, da Secretaria Estadual de Saúde da Bahia. Êxito do Programa Saúde Toda Hora, do Governo Federal, na Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccdb6b1b1220529d2856a970a8b421abc6dcb0eb38fd0ef0df3ac712b1c2bd9b
+size 403

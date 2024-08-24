@@ -1,1 +1,3 @@
-Questionamento sobre as razões do assassinato do soldado Wesley Góes e de ex-policial militar envolvido no homicídio da Vereadora Marielle Franco, ocorridos no Estado da Bahia, na gestão do ex-Governador Rui Costa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aa33c4884997207f472d85251e2530c5a11356055ff2db304e16a0a7d267e10
+size 218

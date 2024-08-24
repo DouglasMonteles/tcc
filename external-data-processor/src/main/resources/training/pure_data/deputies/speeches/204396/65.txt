@@ -1,1 +1,3 @@
-Emissão de parecer à Medida Provisória nº 963, de 2020, sobre a abertura de crédito extraordinário no valor de R$ 5.000.000.000,00 (cinco bilhões de reais), para financiamento da infraestrutura turística nacional (recursos sob supervisão do Fundo Geral de Turismo - FUNGETUR - Ministério do Turismo); e às Emendas de nºs 1 e 2, apresentadas conforme o caput  do art. 3º do Ato Conjunto das Mesas da Câmara dos Deputados e do Senado Federal nº 1, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6a6207ad895ff9aa8099f27fd02e972c4c2a420d2bf2aae86e30c73ad69a388
+size 469

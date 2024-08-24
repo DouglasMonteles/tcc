@@ -1,1 +1,3 @@
-Lançamento pela Presidenta Dilma Rousseff do Programa Nacional de Acesso ao Ensino Técnico - PRONATEC. Importância do ensino técnico profissionalizante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:566cc2473f525e41bfe0e0aeedb640917bcd91ed1e223cb8e9c26b07847648cb
+size 156

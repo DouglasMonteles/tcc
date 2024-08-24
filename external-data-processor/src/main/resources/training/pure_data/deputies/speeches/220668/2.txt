@@ -1,1 +1,3 @@
-Transcurso do 75º aniversário de criação da Companhia Hidro Elétrica do São Francisco - CHESF. Ameaças enfrentadas pela empresa em decorrência da privatização da ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:269a3c55a4b4cb590c95a8a1e68f5263f7ac429e8d23cb19655c72efc78b0eac
+size 183

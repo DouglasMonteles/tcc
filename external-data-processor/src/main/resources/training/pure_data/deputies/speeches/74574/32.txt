@@ -1,1 +1,3 @@
-Não pagamento de indenizações a fazendeiros pela desapropriação de terras em favor de comunidades indígenas, nos Municípios de Itaju do Colônia e Pau Brasil, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16a109e7f7510cc022de6fb361366a2f9ee28b9101981c7f01e3e062aa32c737
+size 182

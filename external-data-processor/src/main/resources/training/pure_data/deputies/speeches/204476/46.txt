@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Subtenente Cunha, do Município de Natividade, Estado do Rio de Janeiro, em visita à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3ba0cd53ff5497e5d33be4d501af392a077c84089045a190147525567493dce
+size 141

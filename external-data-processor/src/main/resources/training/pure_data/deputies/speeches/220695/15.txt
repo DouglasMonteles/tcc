@@ -1,1 +1,3 @@
-A Deputada expressou sua profunda indignação com a violência contra as mulheres, destacando os números alarmantes de feminicídios e violência doméstica. Enfatizou a necessidade de conscientização sobre a gravidade do problema e a importância de medidas eficazes. Ressaltou que muitas vítimas não denunciam por medo e vergonha, enfrentando situações cruéis. Apresentou dados perturbadores, evidenciando a urgência de combater essa realidade. Destacou a relevância da Casa da Mulher Brasileira como um passo significativo no enfrentamento à violência, proporcionando apoio integral às mulheres, desde orientação até autonomia financeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06f00bf3062c4d682985dd3b4c2bc9d8e0026ac9255bb4ee459a241e1e9bb812
+size 658

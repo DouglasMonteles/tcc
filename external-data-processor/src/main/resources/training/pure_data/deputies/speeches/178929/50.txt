@@ -1,1 +1,3 @@
-Orientação da respectiva bancada para votação dos dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 257, de 2016, que estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a76066ab14ff84b09f29c830b71ccfece7f3dbdae0d0f192779b1aa0cd2d672
+size 266

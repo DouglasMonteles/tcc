@@ -1,1 +1,3 @@
-Presença, na Casa, do Vereador Júlio Pimenta, Presidente da Câmara Municipal de Ouro Preto, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:635e4cbe33137af77d0e00dc8990656f39eac3e8fde0b3720c3689d759f5f8ac
+size 118

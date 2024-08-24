@@ -1,1 +1,3 @@
-Orientação da respectiva bancada para votação do substitutivo oferecido pela Comissão de Constituição e Justiça e de Cidadania ao Projeto de Lei nº 3.376, de 2015, que altera a Lei nº 8.072, de 25 de julho de 1990, para incluir o crime de posse ou porte ilegal de arma de fogo de uso restrito no rol dos crimes hediondos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43139c0f72b645e2d4885c78948279c455eacbfcc0cd776267c899c8ba8f42e1
+size 331

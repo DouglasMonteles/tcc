@@ -1,1 +1,3 @@
-Necrológio da advogada Ronilda Noblat. Oportunidade da edição da lei sobre a instituição de piso salarial nacional para os profissionais da educação. Repúdio às tentativas de inviabilização da aplicação do piso. Apoio à luta das entidades educacionais lideradas pela Confederação Nacional dos Trabalhadores em Educação pela aplicação imediata da lei.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a3baabcb1688716e087b0ee7c9a294abc0567e5cb76d0fb255d795523e53cf7
+size 370

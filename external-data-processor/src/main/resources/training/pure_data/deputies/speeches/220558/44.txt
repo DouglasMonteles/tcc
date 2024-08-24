@@ -1,1 +1,3 @@
-Regozijo com o desempenho dos atletas do Município de Joinville, Estado de Santa Catarina, nos jogos paralímpicos realizados em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:059e8c7f3479c919d7e32d27e3caee3ffab3fc891a79a6bce06de2907bf3dd71
+size 163

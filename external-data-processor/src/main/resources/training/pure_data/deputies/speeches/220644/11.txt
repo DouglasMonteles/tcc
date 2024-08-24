@@ -1,1 +1,3 @@
-A Deputada discutiu o Projeto de Lei nº 4.035, de 2023, que institui Agosto como mês de combate às desigualdades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79583e7510bdbb491e39d1632f25cfb4c380df62df40d28a27e200dac48538cd
+size 116

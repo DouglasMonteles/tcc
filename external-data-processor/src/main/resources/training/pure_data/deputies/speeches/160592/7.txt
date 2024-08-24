@@ -1,1 +1,3 @@
-Realização da reforma política. Posicionamento do PT favorável ao voto em lista fechada, ao financiamento público de campanhas eleitorais, à fidelidade partidária e à extinção de coligações nas eleições proporcionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd74134f9c187685f33276f0bbf5c528a8ddfc311e72d9eb93213f9304eae8a1
+size 231

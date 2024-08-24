@@ -1,1 +1,3 @@
-Instalação de Comissões Especiais destinadas à análise de proposta de reforma tributária e da formulação de marco regulatório para Parcerias Público-Privadas - PPPs. Importância das proposições para a economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ad52dcf404f62af513c276b847bb33271ace20ffca8c2d46e677ae909d993b1
+size 234

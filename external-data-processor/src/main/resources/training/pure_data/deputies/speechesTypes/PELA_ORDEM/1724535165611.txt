@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Messias Donato diante do seu desligamento da CPI do MST. Convite ao Parlamentar para filiação aos quadros do PL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bdf115364af597e246e8bcce28bff926a8759b53085d7d6ce7a3d31e641aa96
+size 140

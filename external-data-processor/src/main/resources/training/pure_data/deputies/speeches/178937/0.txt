@@ -1,1 +1,3 @@
-Agradecimentos ao eleitorado do Estado do Rio de Janeiro pela eleição do orador. Expectativa de contribuição da bancada do PR com o desenvolvimento do País. Impacto do escândalo da PETROBRAS sobre Municípios de Itaboraí e São Gonçalo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55493c2500c6f5416dc4e537893a0b23ff0133dba7b2521824c1684f03a1d7fb
+size 244

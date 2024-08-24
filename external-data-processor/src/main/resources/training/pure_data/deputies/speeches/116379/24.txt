@@ -1,1 +1,3 @@
-Equívoco da retirada, pelo Presidente Jair Bolsonaro, do decreto sobre a flexibilização do porte, da posse e do comércio de armas de fogo e munições no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4cd88b9a8bd6cef49bfbb0c8fcc2a3bffe35fab6c72cdf04f6a6704d36c1f43
+size 164

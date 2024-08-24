@@ -1,1 +1,3 @@
-Críticas ao Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb45313c992b0b6abe3f1faa0825ef64c5d38cb944d5bfdd324ef57a6bed4af3
+size 36

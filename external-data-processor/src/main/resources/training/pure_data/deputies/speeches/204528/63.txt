@@ -1,1 +1,3 @@
-Imediato encaminhamento aos Parlamentares de cópia do relatório oferecido ao projeto sobre a Lei de Diretrizes Orçamentárias - LDO de 2020/2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:821e190436208eef8fe5ce1c1afdfd5b2844c03c273e707d2963b810be1246ab
+size 148

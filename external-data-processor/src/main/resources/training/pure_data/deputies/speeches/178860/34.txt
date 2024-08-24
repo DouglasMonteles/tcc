@@ -1,1 +1,3 @@
-Reiteração, pelo orador, do compromisso de rejeição de emenda apresentada à proposta de legalização de jogos de azar no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60a6cab240e514433955ef9dc69495af8b5027589692b294ff0d5c53fd51b1d0
+size 133

@@ -1,1 +1,3 @@
-Alcance da marca funesta de 564 mil mortes no País pela Covid-19. Solidariedade aos familiares das vítimas da doença viral. Crises social, política, econômica, cultural e sanitária reinantes no Brasil. Tentativa do Presidente Jair Bolsonaro de intimidação do Parlamento brasileiro. Desmoralização das Forças Armadas brasileiras pelo Presidente da República.   Solidariedade ao trompetista Fabiano Leitão, diante de sua prisão e quebra do seu instrumento musical por militares do Exército brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:741e1b6ff16e603bb09ada9ec64437bdb0b51eafd88672c48468d7aac42db74b
+size 514

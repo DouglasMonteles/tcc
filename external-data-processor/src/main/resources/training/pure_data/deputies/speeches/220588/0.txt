@@ -1,1 +1,3 @@
-Precariedade da BR-364 no Estado do Acre. Urgente necessidade de recuperação das condições de tráfego da rodovia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b199ae0bfba204e301a03b988c21c221d03d417e9b29e1ef8a631c215dad3dd2
+size 118

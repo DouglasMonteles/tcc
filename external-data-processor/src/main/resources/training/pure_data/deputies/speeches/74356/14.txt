@@ -1,1 +1,3 @@
-Necessidade de recuperação, pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA, de estradas vicinais em assentamentos do Estado do Amazonas para o escoamento da produção agrícola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fb08c02837de3151ec703c697ade402a9cdb5a3e503aa6bd23018ceb40f1da8
+size 201

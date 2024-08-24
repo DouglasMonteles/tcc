@@ -1,1 +1,3 @@
-Transcurso do Dia do Funcionário Público. Recuperação de estruturas do Estado brasileiro pelo Governo Luiz Inácio Lula da Silva. Antecipação do pagamento dos salários dos servidores públicos pelo Governo do Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c582ece74d101263c5255548f55d094998b4d2a48510461023561d9c6a1f08c
+size 237

@@ -1,1 +1,3 @@
-Aviso aos visitantes das galerias do plenário sobre a proibição de manifestações e a determinação de evacuação pela Polícia Legislativa no caso de desobediência. Suspensão da sessão. Reabertura da sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a91e43f703abcb30551108cbae66b7441c4a97f1cddf95fe10afc46e98953c08
+size 218

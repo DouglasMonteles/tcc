@@ -1,1 +1,3 @@
-Realização da Marcha a Brasília em Defesa dos Municípios. Retorno do ex-Presidente Jair Bolsonaro ao Brasil. Centralização do discurso da Esquerda no ex-Presidente da República. Escalada do desemprego e da criminalidade no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2a5934efa5cf4e30900f565d85da8dddef3d48558be4f4dbd9913e47a05cb25
+size 236

@@ -1,1 +1,3 @@
-Integridade da atuação do Deputado Osmar Serraglio como Relator da Proposta de Emenda à Constituição nº  215, de 2000, que acrescenta o inciso XVIII ao art. 49; modifica o § 4º e acrescenta o § 8º, ambos no art. 231, da Constituição Federal, para incluir dentre as competências exclusivas do Congresso Nacional a aprovação de demarcação das terras tradicionalmente ocupadas pelos índios e a ratificação das demarcações já homologadas, estabelecendo que os critérios e procedimentos de demarcação serão regulamentados por lei. Defesa da votação da matéria pela Comissão Especial destinada ao oferecimento de parecer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e5fa5c909f25ce10f9aa2a1ea5319f946a147d715894562df501be7ecb8b296
+size 646

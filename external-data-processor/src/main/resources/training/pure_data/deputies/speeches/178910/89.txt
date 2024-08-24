@@ -1,1 +1,3 @@
-Resultados positivos da participação do orador em audiências na Secretaria de Aviação Civil e no Ministério dos Transportes para debate, respectivamente, da ampliação da pista do aeroporto do Município de Redenção, no Estado do Pará, e da conclusão de obras nas BRs 155 e 158.
+version https://git-lfs.github.com/spec/v1
+oid sha256:712c5c62ff609ae39341e4f2df98117e8c51fca38e2007b230ea7c8bdd270f91
+size 289

@@ -1,1 +1,3 @@
-Não apresentação pela Ministra do Planejamento, Orçamento e Gestão, Miriam Belchior, por ocasião de sua visita à Casa, de solução sobre a paralisação de obras públicas em municipalidades brasileiras, em face do corte de recursos orçamentários, e sobre o prazo de validade de restos a pagar não processados de exercícios anteriores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f69c630460bd7cb01afaaff3dd85f6c703e3f81a3328955800d33cdd496172ea
+size 347

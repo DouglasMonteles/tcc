@@ -1,1 +1,3 @@
-O Deputado abordou a questão econômica no Brasil, destacando seu posicionamento em defesa da realização de uma reforma administrativa abrangente para equilibrar as finanças do País, sem aumento da carga tributária. Expressou preocupação com o atual déficit fiscal, mencionando a possível necessidade de contingenciamento. Sublinhou o papel fundamental da Câmara na votação da Lei de Diretrizes Orçamentárias (LDO) e da Lei Orçamentária Anual (LOA) para o próximo ano, visando promover um crescimento responsável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:967730e57a9dd66c84aa97571078f0727eb34a104c737d688e7ee1489180209f
+size 532

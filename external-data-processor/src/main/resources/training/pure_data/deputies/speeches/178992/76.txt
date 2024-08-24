@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 8, apresentada ao Projeto de Lei Complementar nº 146, de 2019, acerca da instituição do marco legal dasstartups  e do empreendedorismo inovador; e da alteração das Leis de nºs 8.212, de 1991; 7.713, de 1988; 6.404, de 1976; 11.196, de 2005; e da Lei Complementar nº 123, de 2006.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94785b0bdbdc00fc9d42d18b972aaf23a8407c1cf18e1d77cda2229304293071
+size 396

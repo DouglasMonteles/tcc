@@ -1,1 +1,3 @@
-O Deputado destacou os 138 anos da Igreja Batista de Alagoas, ressaltando seu papel na educação e ação social. Mencionou o Colégio Batista e o Lar Marcolina Magalhães, evidenciando o impacto positivo na comunidade Alagoana. Enfatizou os valores cristãos como fundamentais em sua trajetória e parabenizou a igreja por sua história.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fefbb14e2c04b581164732696e66d69466e37f2fe573d4afe45aaa4ff70ba76
+size 339

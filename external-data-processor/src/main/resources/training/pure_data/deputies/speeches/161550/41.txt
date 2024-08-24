@@ -1,1 +1,3 @@
-Instalação de delegacia de repressão a&nbsp;crimes rurais no Município de Passos, Estado de Minas Gerais. Extensão da iniciativa aos Municípios de Alfenas, Guaxupé e Poços de Caldas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0267716644b0e91fc6929b8444f959d51b5a97771b1dabeaf0fbe3e13f11137e
+size 190

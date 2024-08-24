@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao vigésimo aniversário de fundação do Partido Humanista da Solidariedade - PHS.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e725ec464f784817eb95cd5518920fdb2a6115a0edebb8efad9f5b0b731c890e
+size 261

@@ -1,1 +1,3 @@
-Posicionamento favorável do PPS à  Emenda 27, destacada, ao Projeto de Lei de Conversão da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação – EBC, e dá outras providências), que acrescenta  § ao art. 6º para determinar que a EBC deverá se pautar pelos princípios de transparência e impessoalidade, não podendo veicular nomes, símbolos e imagens que caracterizem promoção pessoal ou partidária de autoridades, servidores públicos e cidadãos em geral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:417a7b6168b93881d3bb2dd6eecee68d6e79b9b06bfbe84fc73d7eda1d7db285
+size 692

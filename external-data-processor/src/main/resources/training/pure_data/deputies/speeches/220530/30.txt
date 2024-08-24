@@ -1,1 +1,3 @@
-Protesto contra a cassação do mandato parlamentar do Deputado Deltan Dallagnol. Repúdio à Resolução nº 487, de 2023, do Conselho Nacional de Justiça - CNJ, sobre a instituição da Política Antimanicomial do Poder Judiciário. Apreensão ante a soltura de pacientes psiquiátricos periculosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd274166c3a712ba8670cd99d37f621c7ec50aa1d445113a40a9d6203a1a1c16
+size 302

@@ -1,1 +1,3 @@
-Queda da produção industrial brasileira. Adoção de medidas de proteção ao setor pelo Governo Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5955a56c4e411c424e66223dc573bd30e58ceae81af12019cf684c863be1c84
+size 114

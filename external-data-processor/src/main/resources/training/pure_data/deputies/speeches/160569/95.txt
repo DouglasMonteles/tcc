@@ -1,1 +1,3 @@
-Baixa qualidade dos serviços prestados pela operadora de telefonia móvel Oi no Município de Vitória da Conquista, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44c9530d1ee3dd76dcf7981b052f6b0375f53cf3fc8f33751a1b45614c738d24
+size 134

@@ -1,1 +1,3 @@
-Questão de ordem acerca da possibilidade de estipulação, pela medida provisória constante da pauta, de cobrança de tributo previdenciário incidente sobre seguro-desemprego.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65a59c4ae15b5307215f07a052c7fd34e914793b540db3f9e526ef643879edce
+size 178

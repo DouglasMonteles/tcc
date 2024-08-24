@@ -1,1 +1,3 @@
-Repúdio ao gesto de amizade firmado entre o Presidente Luiz Inácio Lula da Silva e o Presidente da Venezuela, Nicolás Maduro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7681760577663244c5dd4fa85d01146ffd6c1836b09a8201970888dfcee3e96
+size 128

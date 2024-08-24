@@ -1,1 +1,3 @@
-Levanta questão de ordem sobre a natureza distinta dos Requerimentos de  prazo de uma sessão para a apreciação da Medida Provisória 511 de 2010 e do de adiamento da discussão da matéria por uma sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ada1af0d89dccc0789418a6d3fec4b0931264945fd8141e907c885c56e84fe01
+size 209

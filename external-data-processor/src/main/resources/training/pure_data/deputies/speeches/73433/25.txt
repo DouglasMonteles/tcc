@@ -1,1 +1,3 @@
-Informação ao Deputado Miro Teixeira sobre proposta de acordo de procedimento para votação dos destaques ao Projeto de Lei de Conversão da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação – EBC, e dá outras providências), que só ficará definida amanhã, antes da votação dos destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a527243e00dfc4fb099b390cf2f4859d034400e37de6d17a14b8a5b76bcd10d
+size 522

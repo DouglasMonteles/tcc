@@ -1,1 +1,3 @@
-Escalada de violência no País, especialmente nas grandes metrópoles. Necessidade de revisão das leis eleitoral e penal brasileiras. Ataque de quadrilhas a caixas eletrônicos bancários no Município de Campinas, Estado de São Paulo. Participação do orador em reunião do Conselho Comunitário de Segurança - CONSEG da municipalidade. Apelo à Polícia Militar de empenho no combate à criminalidade no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f14c2ea7edd440c217cb874e21e4396e0954d70731cbf5de0f16043e52f271a
+size 418

@@ -1,1 +1,3 @@
-Prioridade de Parlamentares no debate político polarizado, em detrimento da discussão de ações de interesse do povo brasileiro. Reflexão sobre trechos da Bíblia Sagrada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:650a643c06724636a87b0471e4b1a679017a8c6fcbf5bfa27bcda83ce59a5b6f
+size 175

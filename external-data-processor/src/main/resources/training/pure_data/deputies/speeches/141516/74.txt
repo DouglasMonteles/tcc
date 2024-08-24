@@ -1,1 +1,3 @@
-Necessidade de ampliação do debate sobre a implantação do trem da alta velocidade no Brasil, o chamado trem-bala.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b0a56c75b79e58942c2eb012bc21aed9ab297ec1f319955d12c2ab9243cf5a0
+size 117

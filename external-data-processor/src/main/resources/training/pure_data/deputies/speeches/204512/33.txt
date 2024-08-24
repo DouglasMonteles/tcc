@@ -1,1 +1,3 @@
-Aumento da criminalidade no País após a aprovação do Estatuto do Desarmamento. Defesa de aprovação do Projeto de Lei nº 3.723-D, de 2019, relativo à alteração da Lei nº 10.826, de 2003, sobre o registro, a posse e a comercialização de armas de fogo e munição; o Sistema Nacional de Armas - SINAM e a definição de crimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aff82b5b31c5d39ebc398c6b79535d16a5f2a8628cccebea96e551aeaa5d0df5
+size 337

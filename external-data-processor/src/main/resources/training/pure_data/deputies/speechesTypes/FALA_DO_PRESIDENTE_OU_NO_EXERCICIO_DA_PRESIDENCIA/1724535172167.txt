@@ -1,1 +1,3 @@
-Presença em plenário do Prefeito reeleito do Município de Ourém, Estado do Pará, Junhão, e do Prefeito eleito do Município paraense de Bujaru, Jorge Sato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68a53e34f8e4a55928da84cdb9c85cbf052dd5b35e576ab76ce74e005ffd3d7a
+size 161

@@ -1,1 +1,3 @@
-Transcurso do 20º aniversário de lançamento da revista Expansão, do Município de Novo Hamburgo, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0773b9d83a39ed08efeec64a92745031ac863a057b84f19424c25c68efc569ff
+size 129

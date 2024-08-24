@@ -1,1 +1,3 @@
-Comissão Geral com a presença do Ministro-Chefe da Secretaria de Portos da Presidência da República, Edinho Araújo, para esclarecimentos sobre assuntos relacionados a sua Pasta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:197f0102520b0204ab0fc7f23a7a719ce12fa94f50d7414ea1f8f150425a78e1
+size 182

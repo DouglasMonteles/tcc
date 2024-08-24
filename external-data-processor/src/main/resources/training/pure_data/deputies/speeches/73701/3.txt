@@ -1,1 +1,3 @@
-Apoio ao projeto de lei, do Poder Executivo, sobre a fixação do valor salário mínimo em 545 reais e o estabelecimento de sua política de valorização, aprovado pela Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e06b2a2d91333be9c4106f30eeedb386e822515531e0b32682b75a7e271ee06
+size 176

@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação de proposição relativa à melhoria da segurança pública no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7a7f28c0bea1bda4f37e8bb37b1644e32ec18de87fd9f078de1aeee682e58d9
+size 112

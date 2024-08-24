@@ -1,1 +1,3 @@
-Regozijo com a cerimônia de abertura dos Jogos Olímpicos e Paraolímpicos Rio 2016. Congratulações ao Presidente da República interino, Michel Temer, pelo veto de proposição sobre a obrigatoriedade de circulação de automóveis com faróis acesos durante o dia. Defesa de anulação de multas e perda de pontos na carteira de habilitação por motoristas durante a vigência da obrigatoriedade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b9affff982321653860860efed252ef36960213ddae721c311d0b8bcd6a0582
+size 402

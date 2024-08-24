@@ -1,1 +1,3 @@
-Congratulações ao Governador do Estado do Rio Grande do Sul, Eduardo Leite, e aos membros da Assembleia Legislativa pela aprovação da proposta de emenda à Constituição sobre a extinção da exigência de realização de consulta plebiscitária  para privatização de empresas estatais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc32bb35f72a82e61864482012fef46ee479986dc861aa2d8a094c495f5a3ed7
+size 293

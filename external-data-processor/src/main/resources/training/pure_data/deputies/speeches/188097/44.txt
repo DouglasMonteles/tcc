@@ -1,1 +1,3 @@
-Elevação dos preços de combustíveis e do gás de cozinha no País. Declaração do Presidente da República a respeito da necessidade de redução, pelos Governadores Estaduais, da alíquota do ICMS incidente sobre derivados de petróleo. Defesa da criação de fundo de estabilização dos preços de combustíveis e da realização, pela empresa Petróleo Brasileiro S/A - PETROBRAS, de investimentos maciços no refino de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab146be2de0e4cc8094d7e010f442499bc2d9a87579a2316c3618dac8dac1c83
+size 439

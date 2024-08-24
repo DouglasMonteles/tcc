@@ -1,1 +1,3 @@
-Restrição das concessões de rádio e televisão na Argentina. Reexame da legislação brasileira relativa ao tema. Reativação do Conselho de Comunicação Social. Realização da 1ª Conferência Nacional de Comunicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5068158dc8786fb87ecbfa9764d7547e06ec052f05d04015a3e9b983dc1f7ae6
+size 227

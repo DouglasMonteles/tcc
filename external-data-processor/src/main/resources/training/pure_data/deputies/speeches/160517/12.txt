@@ -1,1 +1,3 @@
-Comentários sobre pauta definida pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização e os desdobramentos dessas deliberações para a economia do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3bb42ee213e0e5de3bed1eb241d5d7ed077d9558d2d89d3d4bf9bef46555307
+size 182

@@ -1,1 +1,3 @@
-Apelo aos Prefeitos e Governadores do País de priorização da educação pública. Aprovação pela Casa do Projeto de Lei nº 5.595, de 2020, sobre o reconhecimento da educação básica e do ensino superior, em formato presencial, como serviços e atividades essenciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae0a8f234180d512404c6c4d24cde24c3b0441509475da39f4f08be79f434318
+size 274

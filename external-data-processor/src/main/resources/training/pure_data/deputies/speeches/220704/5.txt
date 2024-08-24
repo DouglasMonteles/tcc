@@ -1,1 +1,3 @@
-Razão do posicionamento dos bolsonaristas contrário ao Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news). Denúncia do casamento do Prefeito de Araucária, de 65 anos de idade, com adolescente de 16 anos de idade, e de nomeação da sua sogra para o exercício de cargo na Prefeitura Municipal. Combate ao machismo no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:187c5584e35916f25dc8f050585f0f8c3d116d26fcf85841e9fe46f6b525b097
+size 442

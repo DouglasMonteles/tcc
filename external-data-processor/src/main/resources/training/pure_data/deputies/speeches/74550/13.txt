@@ -1,1 +1,3 @@
-Contestação à manifestação do Deputado José Carlos Aleluia a respetio das Erratas ao  Substitutivo ao Projeto de Lei 38 de 2008-CN (Estima a receita e fixa a despesa da União para o exercício financeiro de 2009).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c23bee8a8eb7063677d916a97d3de46c267ca940a30f0026ba7b0d78dfccaa8
+size 220

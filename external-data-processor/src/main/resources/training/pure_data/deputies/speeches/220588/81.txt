@@ -1,1 +1,3 @@
-O Deputado destacou uma notícia que poderia se tornar um escândalo do Governo Lula. O Ministro de Minas e Energia anunciou a intenção do Brasil de retomar a importação de energia da Venezuela para abastecer Roraima, fora do Sistema Interligado Nacional. Embora prometesse energia mais barata e limpa, a realidade do negócio teria revelado discrepâncias significativas. A empresa Âmbar Energia, dos irmãos Batista, conduziria o acordo, e o preço estimado seria dez vezes superior ao inicialmente anunciado pelo Ministro. O Parlamentar demonstrou preocupação com a rapidez do processo e a falta de transparência e solicitou uma investigação para evitar um novo escândalo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf5e701fc48bdec2c640e9a54dc8162725058942c56fd7f33a4612e783cf9bb3
+size 686

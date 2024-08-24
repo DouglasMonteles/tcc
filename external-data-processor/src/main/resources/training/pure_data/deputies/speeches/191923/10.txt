@@ -1,1 +1,3 @@
-Regozijo com a aprovação pela Câmara dos Deputados de projeto de lei sobre autorização e uso da fosfoetanolamina sintética para tratamento de câncer. Expectativa de aprovação da proposta no Senado e de registro da substância na ANVISA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e910b1307cafdc6aaf5911850108346912a266186989e65cc9790aad09f5ff6e
+size 245

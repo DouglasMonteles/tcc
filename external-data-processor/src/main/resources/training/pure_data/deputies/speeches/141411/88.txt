@@ -1,1 +1,3 @@
-Orientação da respectiva bancada para votação do requerimento de prorrogação do prazo de funcionamento da CPI FUNAI e INCRA 2, por sessenta dias a contar do término efetivo dos trabalhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df2fbef8ce71830488c5e073705347b5b0f4cfcc66b25c52de2a390a6bbef5b
+size 194

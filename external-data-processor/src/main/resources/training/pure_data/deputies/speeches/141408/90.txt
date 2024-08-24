@@ -1,1 +1,3 @@
-Resultados da audiência pública da Comissão de Direitos Humanos e Minorias, promovida para debate da destinação de resíduos minerais extraídos do garimpo de Serra Pelada, no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83158dd3988b0867c91f852f24177f1ab75364987957fe6d498ec8ccaee695db
+size 197

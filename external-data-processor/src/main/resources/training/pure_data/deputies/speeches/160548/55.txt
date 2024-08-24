@@ -1,1 +1,3 @@
-Regozijo com a expansão do ensino universitário. Criação de novas universidades federais no País. Construção de unidade do Instituto Federal de Educação, Ciência e Tecnologia - IFET no Município de Campinas, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc0a9b6db737593845572d4778f90a2ddb20cc2fa02e739a8be5a52e60685b83
+size 240

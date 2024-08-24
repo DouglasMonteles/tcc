@@ -1,1 +1,3 @@
-Transcurso do Dia do Profissional de Educação Física, em 1º de setembro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02fd698a0b4cef7c7c4df707bbf83a6456123649b13abfa4c54eaca8cb079658
+size 76

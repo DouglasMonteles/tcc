@@ -1,1 +1,3 @@
-Potencialidades econômicas do Município de São Roque, Estado de São Paulo. Agradecimentos ao Governo paulista e ao Governo Federal pelo apoio ao desenvolvimento de polo de produção de energia renovável em Sorocaba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f487c94def3def5e9686864895139be32b71785f70f20dce4053547ce1bbc4cc
+size 221

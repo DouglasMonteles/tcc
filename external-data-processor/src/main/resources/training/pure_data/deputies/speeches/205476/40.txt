@@ -1,1 +1,3 @@
-Transcurso do 30º aniversário de emancipação político-administrativa dos Municípios de Serra do Ramalho e Lagoa Real, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80d33096543785dd284d98daafd9dd5f42904ab0eb934eed9a1dc1ed9665ce56
+size 143

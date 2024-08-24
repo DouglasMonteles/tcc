@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação artigo por artigo do Projeto de Lei nº 2.999, de 2019, sobre a antecipação do pagamento dos honorários periciais em ações do Instituto Nacional do Seguro Social - INSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90f8a2b69e8ed9acbc3937ec45190125452cb68fae677097245d574d552396ba
+size 240

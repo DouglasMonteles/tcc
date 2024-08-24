@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo apresentado ao Projeto de Lei nº 3.148, de 2023, sobre os procedimentos para a denominação de instituições públicas de ensino indígenas, quilombolas e do campo no território nacional, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2576f8b9144a4186841bc02f1d4973ff31cb64ade081866ee0341ac719734614
+size 270

@@ -1,1 +1,3 @@
-Transcurso do 80º aniversário de fundação da Escola Estadual Benjamim Guimarães, do Município de Bom Sucesso, Estado de Minas Gerais. Apoio ao chamado Projeto Ficha Limpa. Aprovação pela Casa do projeto de lei sobre o acesso a informações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26cb4b4678602a0a5af61875d40fed6e99d0882c6ecbec64574fb89a65ebf0dd
+size 249

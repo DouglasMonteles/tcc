@@ -1,1 +1,3 @@
-Congratulação ao Deputado Celso Russomano por obtenção de vitória na Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a67a83b023c3a628ca114bee8e5447af06da4901cec074519c6610adc7accfb
+size 83

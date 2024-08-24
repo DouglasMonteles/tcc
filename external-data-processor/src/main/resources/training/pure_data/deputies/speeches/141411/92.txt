@@ -1,1 +1,3 @@
-Importância da aprovação do Projeto de Lei Complementar nº 54, de 2015, para os Estados brasileiros. Inexistência de quórum no plenário para a aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab841a4591d975de7af2aa2dc57dd6e6151d1db01aef693879b0f32952c69bda
+size 174

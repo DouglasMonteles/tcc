@@ -1,1 +1,3 @@
-Homenagem à memória do Major de Infantaria do Exército brasileiro, Apollo Miguel Rezk. Saudações ao Presidente do Conselho Nacional de Oficiais da Reserva, 2º Tenente Marcos Antônio Martins de Lima. Registro de voto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1bb49de49964207abbe3fd4a1067169c762a06f695684bf0a85cd61d731e0d8
+size 223

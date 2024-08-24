@@ -1,1 +1,3 @@
-Empenho do orador na viabilização de obras de infraestrutura para o desenvolvimento do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8a0026ce2cbe0ed57bbec8fabf7cd77224a92bc4acdf0b2ad40059130c8ec93
+size 107

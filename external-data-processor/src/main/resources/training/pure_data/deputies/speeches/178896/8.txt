@@ -1,1 +1,3 @@
-Agradecimento pela conquista do mandato parlamentar. Balanço da atuação do Parlamentar nas comissões da Casa. Importância da realização de investimentos em políticas de abastecimento hídrico das cidades. Necessidade de realização de obras de infraestrutura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e76ec90b877af6b90261b3eb934893067bfa106ff6843c0afbc43e6fe8f35374
+size 268

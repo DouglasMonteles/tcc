@@ -1,1 +1,3 @@
-Gestão desastrosa do Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c0d0412d90ec06b28bf06a9be23b5490df45cec275cd4c9a1c9a8a5ef967422
+size 60

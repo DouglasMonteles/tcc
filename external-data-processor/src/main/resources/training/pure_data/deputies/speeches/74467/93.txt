@@ -1,1 +1,3 @@
-Posicionamento do orador favorável ao adiamento de votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d180ec8115fefe37b1a882b3733969621e2f84b8908f48745a2f41810f913d78
+size 74

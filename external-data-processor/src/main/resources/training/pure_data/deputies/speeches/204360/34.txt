@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do § 4º, art. 5º, da Lei nº 13.756, de 2018, com a redação dada pelo art. 2º do Projeto de Lei nº 123, de 2019, sobre a alteração da Lei nº 10.201, de 2001, com vista à inclusão de programas de combate e prevenção da violência contra a mulher, como modalidade de projeto apoiado pelo Fundo Nacional de Segurança Pública; e a alteração da Lei nº 11.340, de 2006, para autorização do uso de recursos do Fundo Nacional de Segurança Pública em ações envolvendo prevenção e combate à violência doméstica e familiar contra a mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a68a8feefa666708961bc67e18bfdb072332b2bf7ab749b49739020b6989d6a
+size 639

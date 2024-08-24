@@ -1,1 +1,3 @@
-Transcurso do 10º aniversário de fundação da Universidade Federal do Oeste do Pará - UFOPA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:caba5b4417da48f50bf8849613ebe12358b12b7f6e4502d8d64a9abd661a1225
+size 96

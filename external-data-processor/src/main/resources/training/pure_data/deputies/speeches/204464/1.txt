@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação artigo por artigo do Projeto de Lei nº 10.431, de 2018, sobre o cumprimento de sanções impostas por resoluções do Conselho de Segurança das Nações Unidas, incluída a indisponibilidade de ativos de pessoas naturais e jurídicas e de entidades, e a designação nacional de pessoas investigadas ou acusadas de terrorismo, de seu financiamento ou de atos a ele correlacionados; e revoga a Lei nº 13.170, de 2015.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a49ab93a8f2c5ba4f24347eaaf29cbeb34b004d26c6a93893c200aaaa17e88b8
+size 485

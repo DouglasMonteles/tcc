@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Rodrigo Maia, a Líderes partidários e Parlamentares pelo apoio recebido na elaboração do parecer ao Projeto de Lei nº 873, de 2020, sobre alteração da Lei nº 13.982, de 2020, com vista à mudança nas regras do auxílio emergencial; à vedação da suspensão de benefícios previdenciários e assistenciais concedidos aos idosos, às pessoas com deficiência ou com enfermidade grave, durante a pandemia da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f6a7f6db386e606678aa14b8a5e0330db959fc6d6be30d0fa2019c301d6d674
+size 453

@@ -1,1 +1,3 @@
-Encontro de Prefeitos Municipais com o Presidente Luiz Inácio Lula da Silva, em Brasília, Distrito Federal. Saudações aos gestores municipais da região centro-norte fluminense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed9b3f51180be398257b7274377fe946257ea0d45dde08216868c667d68c9901
+size 181

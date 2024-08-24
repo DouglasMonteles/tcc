@@ -1,1 +1,3 @@
-Prática de intolerância religiosa no Estado da Bahia, demonstrada no rabisco de exemplar do livro Amoras, do rapper Emicida, a respeito da história de menina negra. Fortalecimento da Lei nº 10.639, de 2003, sobre o ensino da cultura afro-brasileira nas escolas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b594be73cd0ea4c5ad66988f6845d00353a71762802223619047b89a82ce085
+size 277

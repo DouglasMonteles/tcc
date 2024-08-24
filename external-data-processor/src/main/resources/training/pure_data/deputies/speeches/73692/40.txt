@@ -1,1 +1,3 @@
-Celebração pelos Líderes partidários de acordo sobre a votação da Emenda nº 164, oferecida à proposta de reformulação do Código Florestal Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a220c135c585a76da0acbeaf3f293df51245c70a75373cfbaaea6244351b2b20
+size 160

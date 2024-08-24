@@ -1,1 +1,3 @@
-Questão de ordem sobre a possibilidade da apresentação de requerimento de destaque para votação do Veto Total nº 54, de 2022, aposto ao Projeto de Lei nº 82, de 2017, (nº 3.553, de 2015, na Casa de origem), a respeito do exercício da atividade de condutor de ambulância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8ad649910b07508ada6cfc298f4ad8d5a437957b1d4f1a1752c3a7c5c86db61
+size 280

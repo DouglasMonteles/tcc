@@ -1,1 +1,3 @@
-Promoção, pela Comissão de Legislação Participativa, de reunião com membros da Comissão da Reforma Tributária e representantes de entidades da sociedade organizada para debate do Sistema Tributário Brasileiro
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b46fa8f72418d8a32d76dc047e6210baa5b99aef56cfb7ecaa1e31810aec83d
+size 217

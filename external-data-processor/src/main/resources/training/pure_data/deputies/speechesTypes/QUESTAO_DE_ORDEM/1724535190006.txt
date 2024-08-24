@@ -1,1 +1,3 @@
-Questão de ordem sobre a realização de reuniões de Comissões durante a Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccceda7993b8825beb7bf0b2b09c4667ad4f353d703ff41e6fdffe91584b3f2a
+size 89

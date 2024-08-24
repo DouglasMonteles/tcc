@@ -1,1 +1,3 @@
-Gestão desastrosa do Presidente Jair Bolsonaro. Desqualificação dos Ministros da Educação nomeados pelo Presidente da República. Denúncia de corrupção no âmbito da Pasta da Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27be2a4625671b6b77e3bcbfc3c944dfe712bb834a4870d534d6ee879bbaac0c
+size 194

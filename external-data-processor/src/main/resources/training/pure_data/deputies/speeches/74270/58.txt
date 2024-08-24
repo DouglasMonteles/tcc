@@ -1,1 +1,3 @@
-Cumprimento aos servidores públicos presentes nas galerias da Casa em defesa da votação de matérias de interesse da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3d2e32d5639ae2ceaa7845461766e340ee2ba99ed8dcaa942209951ee5ab46e
+size 130

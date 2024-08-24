@@ -1,1 +1,3 @@
-Declínio da mineração no Estado de Minas Gerais. Importância da concessão de incentivos ao desenvolvimento de polos tecnológicos, e de conclusão das obras de rodovias federais em prol do agronegócio mineiro. Caos tributário reinante em Minas Gerais. Necessidade de universalização do acesso à energia elétrica no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26e2a53908691d52223859cfdabcb0c73c3e2d7a50ef5b301e97e1ff2ee7f0ca
+size 333

@@ -1,1 +1,3 @@
-Concessão pela Secretaria de Educação do Governo do Estado do Ceará do prêmio Escola Nota 10 a instituições de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc2221352d90a9105f81ef2cfa98f4dd212a88bb2f4eddf31e233f8f4d62de60
+size 125

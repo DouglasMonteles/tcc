@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei Complementar nº 19, de 2019, sobre a definição dos objetivos do Banco Central do Brasil, a sua autonomia, a nomeação e exoneração do Presidente e Diretores da instituição, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc1bd371881b1dda86b6a64c7da531a69939065df7c5a50bc6ef9c7d254b7c89
+size 261

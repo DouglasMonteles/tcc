@@ -1,1 +1,3 @@
-Promoção da 72ª Semana Brasileira de Enfermagem, sob o tema Cuidado de Enfermagem, Ética e Inovação. Transcurso do Dia Mundial da Enfermeira e do Dia do Auxiliar e do Técnico de Enfermagem. Relevância das ações desenvolvidas pelo serviço social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d132bf96418b8bb5329a92db283672458d5c6b5405da402f67db1e91dfc22e6e
+size 256

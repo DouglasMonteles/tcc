@@ -1,1 +1,3 @@
-Saudações aos docentes brasileiros, especialmente à genitora do orador, ao ensejo do transcurso do Dia do Professor. Apresentação de proposta de emenda à Constituição sobre a acumulação remunerada de 1 (um) cargo de professor com outro de qualquer natureza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23bd1a0721a487b7bea05fd6f8099309775c96c9dad88d9fc8223ec81a92e281
+size 267

@@ -1,1 +1,3 @@
-Destinação de recursos federais ao Estado do Amazonas para recomposição de sua matriz econômica, no caso de concretização das propostas de desmatamento zero e revogação de incentivos fiscais concedidos à Zona Franca de Manaus
+version https://git-lfs.github.com/spec/v1
+oid sha256:51d91fa4effe21180b7d5728218db6c590ade6e4978ecea1be29fe29dec9a38a
+size 235

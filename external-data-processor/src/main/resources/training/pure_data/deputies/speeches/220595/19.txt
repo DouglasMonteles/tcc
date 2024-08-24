@@ -1,1 +1,3 @@
-A Deputada proferiu parecer ao Projeto de Lei nº 4.319, de 2020, que aumenta as penas impostas aos crimes de estupro, estupro de vulnerável e pedofilia virtual, altera critérios da progressão de regime e dá outras providências. Além disso, respondeu às críticas da Esquerda, enfatizando a necessidade de repensar a abordagem em relação às armas e destacando sua experiência de 25 anos na polícia. Expressou sua indignação com a situação de violência no País, mencionando caso específico de violência ocorrido no Estado do Mato Grosso, e enfatizou a importância de aprovar leis que tragam segurança efetiva à sociedade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13a6a5376308bdbacf139ff7f7e7b4d19b4fce934add3296ff4d999c806f9d7d
+size 643

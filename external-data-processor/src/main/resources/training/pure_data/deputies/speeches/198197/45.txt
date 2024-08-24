@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Pastor Sargento Isidório, em face do falecimento do seu filho, Deputado Estadual João Isidório.
+version https://git-lfs.github.com/spec/v1
+oid sha256:725b30f880eec01d62de7377cbddd0a93540a172ea5b2cbbc50429c52533e825
+size 124

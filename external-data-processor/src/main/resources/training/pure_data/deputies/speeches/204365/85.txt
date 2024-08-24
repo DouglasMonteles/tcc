@@ -1,1 +1,3 @@
-Discordância do partido Novo com os procedimentos adotados para escolha de representantes da Câmara dos Deputados no Conselho Nacional de Justiça - CNJ e no Conselho Nacional do Ministério Público - CNMP. Apoio do partido à eleição do advogado César Augusto Wolff para o CNJ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbd5066a6f97a5ac4b998ffc257bd5725b6196fa01ecd920e948f1df24da2932
+size 284

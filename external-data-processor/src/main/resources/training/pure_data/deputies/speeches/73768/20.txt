@@ -1,1 +1,3 @@
-Resultados positivos dos investimentos realizados na agropecuária pela Prefeitura Municipal de Toledo, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e984ea58c3abd21b97e6f5bd462e58ad77063e27a8247fa3f0f7584047a22437
+size 122

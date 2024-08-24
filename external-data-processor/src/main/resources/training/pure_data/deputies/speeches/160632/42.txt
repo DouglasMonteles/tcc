@@ -1,1 +1,3 @@
-Defesa de conclusão de pavimentação de trechos da BR-367 e da BR-251, no Vale do Jequitinhonha, Estado de Minas Gerais. Importância estratégica das rodovias para o desenvolvimento socioeconômico da região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c328f7c826e6b22de76b453edce5839f22661c8e3f3614166768328ed6c2e5e
+size 212

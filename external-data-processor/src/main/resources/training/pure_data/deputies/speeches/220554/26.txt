@@ -1,1 +1,3 @@
-Relevância de proposições aprovadas pela Câmara dos Deputados. Gestão exitosa do Presidente Luiz Inácio Lula da Silva. Reconstrução do País pelo governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1c88763374edc9dffae58faff14cd889705304c3c0b1e726b0318abe2f4cd3a
+size 170

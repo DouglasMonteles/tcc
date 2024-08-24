@@ -1,1 +1,3 @@
-Avanços para o País com a aprovação pela Casa do Código Nacional de Ciência, Tecnologia e Inovação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:547e0a15bae39b7e4e92da2996351a8c1711d89490c77753dd88d83bedaa244d
+size 107

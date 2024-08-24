@@ -1,1 +1,3 @@
-Caráter humanitário do Projeto de Lei nº 2.136, de 2020, sobre a realização, por familiares, de videochamadas a pacientes internados com Covid-19. Pedido aos Parlamentares de aprovação da propositura e do requerimento de apreciação da matéria em regime de urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d4aca95429b32478cbe9b20dc533e67d20eb4222ee95650724aff12186ad57e
+size 276

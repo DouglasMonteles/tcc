@@ -1,1 +1,3 @@
-Participação do orador e do Deputado Estadual Jeová Campos em debate com agricultores sobre a reforma previdenciária, no Município de Cajazeiras, Estado da Paraíba. Encaminhamento, à Secretaria Nacional de Recursos Hídricos, de expediente sobre a possibilidade de transbordamento do Açude Engenheiro Ávidos, na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2266f7626c9b1060604a20c887a2e6ba3c4ea0e892846757159f04ce041426bf
+size 336

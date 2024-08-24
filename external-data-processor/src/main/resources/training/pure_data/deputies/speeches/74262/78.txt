@@ -1,1 +1,3 @@
-Conveniência da rejeição da PEC 37, de 2011 (Acrescenta o § 10 ao art. 144 da Constituição Federal para definir a competência para a investigação criminal pelas polícias federal e civis dos Estados e do Distrito Federal), em apreciação em primeiro turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4ca72ab58206230a59ec9953852d4aa92156ad6e81e7fcfb18705be5dcbcb8e
+size 266

@@ -1,1 +1,3 @@
-Solidariedade ao Deputado David Miranda e ao jornalista Glenn Greenwald. Improbidade do Ministro a Justiça e Segurança Pública, Sérgio Moro, e do Procurador da República Deltan Martinazzo Dallagnol. Gestão desastrosa do Presidente Jair Bolsonaro. Defesa da instalação de CPMI para investigação da legitimidade da condenação e prisão do ex-Presidente Luiz Inácio Lula da Silva e outros, determinada pela Operação Lava-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee98badc514d00d6d91de77ca94ff97dcf43dd32f0b922ca686f26ba5cb27b9d
+size 438

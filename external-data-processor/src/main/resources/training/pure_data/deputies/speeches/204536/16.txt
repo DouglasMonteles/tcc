@@ -1,1 +1,3 @@
-Contestação ao discurso de Deputado esquerdista sobre o cenário de instabilidade institucional reinante no País após o golpe ocorrido contra a democracia brasileira, e sobre o não reconhecimento da política econômica do Ministro da Economia, Paulo Guedes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:547625b7078cb6191f584775a5cca315cc868956f4bfe57fe92a4381436212d5
+size 263

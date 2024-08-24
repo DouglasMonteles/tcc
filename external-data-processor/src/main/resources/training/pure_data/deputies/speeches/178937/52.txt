@@ -1,1 +1,3 @@
-Indignação diante de acusações contra Deputados da base aliada de venda de votos em favor do Presidente Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9066cf54f4acede999da77f062f24a6467ac37b29181d096ff4fce02fd44c7ef
+size 121

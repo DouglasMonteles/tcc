@@ -1,1 +1,3 @@
-Apoio dos partidos políticos à votação da proposta de concessão de anistia a bombeiros militares do Estado do Rio de Janeiro. Reunião de Líderes da base governista para debate da retirada da urgência constitucional do projeto de lei sobre a instituição do Programa Nacional de Acesso ao Ensino Técnico e Emprego - PRONATEC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83580d3f13fe5f2acce3bff94df83af0174f7021f6cf925e67c288753db94a34
+size 334

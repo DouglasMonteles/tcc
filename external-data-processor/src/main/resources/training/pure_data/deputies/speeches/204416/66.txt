@@ -1,1 +1,3 @@
-Saudações ao ex-Líder do Governo na Casa, Deputado Vitor Hugo. Votos de sucesso ao novo Líder do Governo, Deputado Ricardo Barros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4ae78409c0e7538fb290c661ceb80547d4733028c5aed89dfe510dc03ac8e4c
+size 134

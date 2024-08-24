@@ -1,1 +1,3 @@
-Participação do orador em reunião na Agência Nacional de Águas e Saneamento Básico - ANA, destinada ao debate da utilização de águas da represa de Furnas na revitalização de nascentes, no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24459fc8777b12a2952367d72ae43366f4f8f819941bf726e90d0a2b940473ab
+size 222

@@ -1,1 +1,3 @@
-Defesa de aprovação, pela Casa, de projeto de lei sobre isenção do pagamento de pedágio aos condutores de veículos com residência permanente nos Municípios com praças de arrecadação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f99bb73151bffea2ac355de7edca0210e9ec32ce9bba2fb08332db9e3f20fe92
+size 193

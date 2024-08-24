@@ -1,1 +1,3 @@
-Transcurso do centenário de fundação do Sport Club Internacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5393227e2f6b7f419b9d73d5ff33cf70a667f187e7c7062d5e672b380a21ddbd
+size 68

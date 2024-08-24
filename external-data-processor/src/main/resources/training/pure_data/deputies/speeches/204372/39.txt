@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei de Conversão nº 15, de 2020, adotado pela Comissão Mista à Medida Provisória nº 936, de 2020, acerca da instituição do Programa Emergencial de Manutenção do Emprego e da Renda, e de medidas trabalhistas complementares para enfrentamento do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 2020, ressalvados os destaques. Pedido à Presidência de votação do requerimento de tramitação em regime de urgência do Projeto de Lei nº 2.338, de 2020, referente à alteração da Lei nº 11.438, de 2006, (Lei Federal de Incentivo ao Esporte), com vista à concessão de incentivos às atividades de caráter desportivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe9a6157ec249979458511ac7862b73c340f596b6e4e86840e3e652164bdfe19
+size 711

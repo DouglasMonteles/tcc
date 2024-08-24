@@ -1,1 +1,3 @@
-Registro da reunião da bancada do PT com os Deputados da atual legislatura e dos candidatos à Deputado Federal, eleitos pelo partido nas eleições de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:412b07b9febf342565213195d4e92ad27e56f78ea9b36a4e103af7adab1fd4af
+size 158

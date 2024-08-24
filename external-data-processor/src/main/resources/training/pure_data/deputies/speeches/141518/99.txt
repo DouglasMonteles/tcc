@@ -1,1 +1,3 @@
-Presença no plenário de dirigentes sindicais da Rússia, da República Popular da China, da África do Sul e do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3be1609cc7b9c0d00eb61c709cf1cf33ecf5de8a3eab1f71438526b994a4d570
+size 121

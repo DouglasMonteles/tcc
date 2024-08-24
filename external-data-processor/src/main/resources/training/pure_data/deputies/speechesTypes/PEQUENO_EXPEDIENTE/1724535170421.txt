@@ -1,1 +1,3 @@
-Lançamento de programa de erradicação do analfabetismo pelo Governador do Distrito Federal, Agnelo Queiroz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:555d026788f422dba3efaa5cb3c597274b23a27bec4f9e6876437abef5b027bc
+size 110

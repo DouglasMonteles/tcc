@@ -1,1 +1,3 @@
-Alcance social do Programa Minha Casa, Minha Vida, e de outros programas de combate ao déficit habitacional brasileiro, lançados pelo Governo Luiz Inácio Lula da Silva. Avocação pela Prefeitura Municipal de Petrolina, Estado de Pernambuco, da autoria de programa habitacional do Governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a76771b42c528595f1918dcb5e52f389937b97cd051fb57a6101836aec442884
+size 300

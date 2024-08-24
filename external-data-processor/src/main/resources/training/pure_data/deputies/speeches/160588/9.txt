@@ -1,1 +1,3 @@
-Relevância da Medida Provisória nº 545, de 2011, sobre a alteração da incidência da contribuição para o PIS/PASEP e da contribuição para a COFINS na cadeia produtiva de café.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99523aabbed1efc391602f7671c03a39a26e27d2cd8b6241707c054c272c6a4b
+size 185

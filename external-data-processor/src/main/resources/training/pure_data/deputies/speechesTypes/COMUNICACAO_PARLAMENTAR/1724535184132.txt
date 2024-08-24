@@ -1,1 +1,3 @@
-Críticas à proposta de instituição da fidelidade partidária no âmbito da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbf5a78994df65ca14be9a1265b298f7afc0e7dd8faf9544adbef6e98313a5f2
+size 97

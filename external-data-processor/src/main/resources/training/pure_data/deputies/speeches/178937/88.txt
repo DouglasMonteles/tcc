@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 7 apresentada à Medida Provisória nº 1.153, de 2022, sobre a alteração da Lei nº 9.503, de 1997, relativa ao Código de Trânsito Brasileiro, (prorrogação da exigência do exame toxicológico periódico); bem como das Leis de nºs 11.442 e 11.539, de 2007, respectivamente, sobre o seguro de cargas e às cessões de Analistas de Infraestrutura e Especialistas em Infraestrutura Sênior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55e8c4d753dcff4e7b7b35572e7d7b07ec180776a78cce217a8e9fc73ce95662
+size 514

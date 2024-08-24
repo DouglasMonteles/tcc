@@ -1,1 +1,3 @@
-Orientação de bancada na votação, em primeiro turno, da Proposta de Emenda à Constituição nº 18, de 2020, a respeito do adiamento das eleições municipais de 2020, em decorrência das medidas de enfrentamento da pandemia de coronavírus, declarada pela Organização Mundial da Saúde - OMS, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e38e7679c804dee820b5a5117bb00f1054a03e8c9aa8cb7cafe955bcdab6f6dd
+size 326

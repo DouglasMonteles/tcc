@@ -1,1 +1,3 @@
-Congratulação ao Deputado Fábio Ramalho pela condução dos trabalhos da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d09508e18c05a607277065faf1e18a79db320a7fbbcc4fa7d3dad227aa2830e
+size 81

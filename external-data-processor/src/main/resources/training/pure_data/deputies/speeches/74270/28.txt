@@ -1,1 +1,3 @@
-Presença na Casa dos Vereadores Marcelo Coutinho e Marcio Almeida, do Município de Guaratinguetá, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be91d447885147d28894cf4053ad2a21d3fddd1949a14611c4b51b9d67f3003e
+size 122

@@ -1,1 +1,3 @@
-Dados do estudo Mapa da Violência 2015: Homicídio de Mulheres no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0dc690abaeb648da18283a263c19d068007e1fb8279f72963cffe83087fa5a9
+size 74

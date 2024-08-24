@@ -1,1 +1,3 @@
-Expectativa do orador com a recuperação dos recursos desviados dos caixas da PETROBRAS. Defesa da construção de refinaria no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0827ef0d593b96c77c751598358444c257ff1106735bf37bb1e8d26a3fa8be91
+size 149

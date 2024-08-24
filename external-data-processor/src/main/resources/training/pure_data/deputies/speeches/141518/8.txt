@@ -1,1 +1,3 @@
-Questão de ordem sobre inconsistência de matéria veiculada pelo Jornal Hoje, da TV Globo, a respeito de tumulto nas dependências da Casa. Ressarcimento, pela Força Sindical, de custo de mesa quebrada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da940566e74d7d6bbd2b722fa2df0a4836f23ab1ac232fbacb8c2c81f098c6f3
+size 205

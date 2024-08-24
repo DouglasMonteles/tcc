@@ -1,1 +1,3 @@
-Dificuldades enfrentadas pelos Municípios brasileiros em face da queda no repasse de recursos do Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8227ffb70c8e4c80cdde24d45daa030e69b5541024ec055b31953c75a9543f8
+size 144

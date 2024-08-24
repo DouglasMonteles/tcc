@@ -1,1 +1,3 @@
-O Deputado parabenizou o novo desembargador do Tribunal de Justiça do Estado do Maranhão, Dr. Samuel Souza, destacando sua dedicação a causas nobres. Mencionou os 50 anos de fundação da Assembleia de Deus em Matinha (MA), liderada pelo Pastor Dimas, e anunciou eventos religiosos e beneficentes no Estado para construir uma casa de recuperação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e7ec39554f83527aabf5c88d5e33e63b58bdb242b73912202bebfb533936981
+size 352

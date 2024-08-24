@@ -1,1 +1,3 @@
-Comprometimento dos agricultores brasileiros com a preservação do meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b629aa533f94393686dedd45e57ff410967c73bf8d079a4de804372ad0e5d5db
+size 82

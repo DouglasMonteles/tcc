@@ -1,1 +1,3 @@
-Ameaça à preservação da Reserva Biológica Federal do Tinguá em decorrência da política predatória do governo anterior, localizada no Rio de Janeiro, Estado do Rio de Janeiro. Apelo à Ministra do Meio Ambiente e Mudança do Clima, Marina Silva, e ao Presidente do Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio, Mauro Oliveira Pires, de retomada dos planos de manejo e fiscalização de unidades de preservação ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a33741d2f4d82ce030124f7b03516d984e05f54afb27b3c1e332d0b81e80d30
+size 452

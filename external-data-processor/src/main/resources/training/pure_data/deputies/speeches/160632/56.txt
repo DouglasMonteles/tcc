@@ -1,1 +1,3 @@
-Obtenção, pelo estudante Henrique Gustavo Santos, do Município de Raposos, Estado de Minas Gerais, do 1º lugar na etapa estadual e do 2º lugar na etapa nacional da Olimpíada do Conhecimento 2012, realizada em São Paulo, Estado de São Paulo. Saudação ao tio do estudante, Sr. Valtecir Portes. Homenagem ao Serviço Nacional de Aprendizagem Industrial - SENAI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:724f2673736d7abc154fe89bb22c82abc0ed5b63933887499439e7f7f88a284d
+size 368

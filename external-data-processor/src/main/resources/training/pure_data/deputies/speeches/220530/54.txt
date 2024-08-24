@@ -1,1 +1,3 @@
-O Deputado destacou o início dos trabalhos da Frente Parlamentar Invasão Zero, que busca lidar com a invasão de terras por grupos como o MST. Também refutou afirmações de Deputados da esquerda que associam o crime organizado e as milícias a um determinado governo, considerando isso absurdo, e citando como exemplo a ida do Ministro da Justiça, Flávio Dino, a comunidades do Rio de Janeiro sem proteção balística.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c70433c29dc0c5ac922266f1f0f50ce5595799a08d19555cc7382aef12c6a11f
+size 425

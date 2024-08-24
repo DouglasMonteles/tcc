@@ -1,1 +1,3 @@
-Visita, à Casa, do Deputado Estadual do Rio de Janeiro, Felipinho Ravis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b00cce0b1be244aaf73e6d652463f95a7103c3b2695a107b5cf62336a210bbf0
+size 73

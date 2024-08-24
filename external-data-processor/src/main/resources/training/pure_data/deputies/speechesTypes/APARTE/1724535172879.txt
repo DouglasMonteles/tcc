@@ -1,1 +1,3 @@
-Apoio do MDB à votação das matérias constantes na pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7c44e5e022d49bae870b4228ef2f23b9f8d7f350f8ca2fc40555033c70fa27d
+size 60

@@ -1,1 +1,3 @@
-Protesto contra a elevação, pela Caixa Econômica Federal, das taxas de juros cobradas das Santas Casas de Misericórdia. Necessidade de adoção pela Casa de providências a respeito do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d9a126993cd1e082b9905ce9514f4d9ef1dbfadc9acd07157959143607d5a82
+size 197

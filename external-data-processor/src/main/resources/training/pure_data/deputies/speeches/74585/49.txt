@@ -1,1 +1,3 @@
-Discussão da Medida Provisória 415 de 2008 (Proíbe a comercialização de bebidas alcoólicas em rodovias federais e acresce dispositivo à Lei 9.503 de 1997 - Código de Trânsito Brasileiro). Posicionamento favorável à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6c3cfd545ac400950f3276fbe500ea5a37c7d6f36659a6a6e1bf8b9776489f8
+size 235

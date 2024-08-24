@@ -1,1 +1,3 @@
-Apreensão do orador diante da disseminação de informações de cunho sexual nas escolas públicas. Solicitação ao Ministério da Educação de informações sobre o conteúdo das cartilhas e a imposição de educação sexual e de ideologia de gênero nas escolas públicas do País. Conveniência de observância de critérios e limites nos materiais sobre educação sexual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94257798c00f081588e0063c0e13a9db04be8d6a7684b7f8eea0c502119780d6
+size 381

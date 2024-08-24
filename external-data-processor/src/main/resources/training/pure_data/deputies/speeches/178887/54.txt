@@ -1,1 +1,3 @@
-Artigo Princesa do Sertão, de autoria do orador, veiculado no Jornal Pequeno, em homenagem ao Município de Caxias, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:185b06b3b7a8a2ae87b89bd8a2c5ed4f7a3a2b7f6bbdb103a3b417166f683b6a
+size 137

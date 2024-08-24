@@ -1,1 +1,3 @@
-Transcurso dos 15 anos do massacre de trabalhadores rurais sem-terra no Município de Eldorado dos Carajás, Estado do Pará. Apresentação de proposta para atualização dos índices de produtividade no campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:238ffa6827e48dd24effc5ddc81bcbb9d698006ec8714b0e8dc8d472826c1acb
+size 211

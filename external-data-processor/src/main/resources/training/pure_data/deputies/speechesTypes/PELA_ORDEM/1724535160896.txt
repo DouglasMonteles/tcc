@@ -1,1 +1,3 @@
-Celebração de acordo de combate à corrupção entre os países nórdicos e a organização não governamental Transparência Internacional no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3232ed4f35573de0007f7d021e938385d2cdf7d14a93431991adfa58351cd5f9
+size 152

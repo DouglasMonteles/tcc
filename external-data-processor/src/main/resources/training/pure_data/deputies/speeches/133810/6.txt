@@ -1,1 +1,3 @@
-Congratulações ao Secretário Especial de Cultura, Mario Frias, pela edição de portaria proibitiva da exigência de passaporte sanitário nos eventos patrocinados por meio da Lei Rouanet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc8f5e6a670d93024ab616ed5920f45791d34ffba1042d7d90797bb0c6a841eb
+size 191

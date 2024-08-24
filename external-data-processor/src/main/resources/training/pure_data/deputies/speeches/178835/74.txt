@@ -1,1 +1,3 @@
-Transcurso do Dia do Advogado. Apoio às reivindicações de categorias relacionadas às carreiras jurídicas. Repúdio à burocracia para liberação de crédito a produtores rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d26cf373535a8d4168f55eec3aeebebcf5cb2e593f55f7dbb4182fd3237d7065
+size 183

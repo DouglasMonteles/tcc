@@ -1,1 +1,3 @@
-Consequências das mudanças climáticas no País e no mundo. Implementação de medidas necessárias para combate ao aquecimento global.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6315713d7ebf02b4a655361b840c8ed94a9f0db70aec05844054ac28d4c6c79e
+size 137

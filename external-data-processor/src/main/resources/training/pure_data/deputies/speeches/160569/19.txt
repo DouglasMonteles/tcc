@@ -1,1 +1,3 @@
-Transcurso do Dia do Índio. Saudações às comunidades indígenas no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0457ab9a2bcfa74466d3479a7eb7bc9c9dc61467245e1d5e477731e49edf8b84
+size 87

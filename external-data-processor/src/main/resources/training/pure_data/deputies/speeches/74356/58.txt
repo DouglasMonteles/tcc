@@ -1,1 +1,3 @@
-Defesa do adiamento da votação da PEC 98 de 2007 ( Acrescenta a alínea e ao inciso VI do art. 150 da Constituição Federal, instituindo imunidade tributária sobre os Fonogramas e Videofonogramas musicais produzidos no Brasil, contendo obras musicais ou lítero-musicais de autores brasileiros, e/ou obras em geral interpretadas por artistas brasileiros, bem como os suportes materiais ou arquivos digitais que os contenham).
+version https://git-lfs.github.com/spec/v1
+oid sha256:894b4cb1432eabf3fdfc9e560e3d7a4a3ec59aa7fc4d34ca3e0a8175cfa15c6a
+size 429

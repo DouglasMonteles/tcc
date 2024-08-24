@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado paranaense pela reeleição do orador. Utilização, pelo governo petista, do Poder Judiciário para perseguição aos seus opositores. Repúdio à censura imposta a Parlamentares bolsonaristas pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes. Não determinação, pelo membro da Suprema Corte, da prisão do Deputado André Janones diante da disseminação de fake news durante o processo eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:178e6e472a0e70b6378063daf629ee682204938c2667f1eb76deab8c06afe712
+size 442

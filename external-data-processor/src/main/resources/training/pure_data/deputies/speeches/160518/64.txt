@@ -1,1 +1,3 @@
-Urgente necessidade de cumprimento, pelo Governo do Estado de Minas Gerais, de decisão do Supremo Tribunal Federal sobre o pagamento do piso salarial nacional dos profissionais do magistério público da educação básica. Greve dos docentes mineiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8aeec6a740ff5363dfb62fcf6694cc97fe799255256b0b22b05d0681bfba104
+size 253

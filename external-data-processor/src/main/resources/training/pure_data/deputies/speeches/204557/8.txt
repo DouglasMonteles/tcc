@@ -1,1 +1,3 @@
-Defesa de realização, pela Fundação Nacional do Índio - FUNAI, de expedição à região da tríplice fronteira para verificação in loco  e atendimento às necessidades dos povos indígenas isolados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23cb174f1a9156cbca62d2c5f8133c54a8aee34250b80554ff7cef03e3091a7d
+size 206

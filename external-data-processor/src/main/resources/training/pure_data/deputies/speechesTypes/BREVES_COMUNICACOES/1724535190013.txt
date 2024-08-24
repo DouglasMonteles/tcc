@@ -1,1 +1,3 @@
-A Deputada expressou solidariedade à comunidade da Escola Estadual de Sapopemba, em São Paulo (SP), após um ato de violência resultar em uma vítima fatal e dois estudantes feridos. Denunciou a falta de políticas públicas efetivas para garantir uma escola segura e saudável no estado, criticando o Governador por retirar verbas da educação e vetar projetos que poderiam melhorar a situação. Informou sobre uma ação popular movida pelo Coletivo Educação em Primeiro Lugar para responsabilizar o Governador Tarcísio de Freitas e exigir o cumprimento da legislação que prevê a presença de psicólogos e assistentes sociais em cada escola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e420cb0222961bedaf4145c3f0ff00c09b63d42fb1e742c828e71091b17c0c5
+size 655

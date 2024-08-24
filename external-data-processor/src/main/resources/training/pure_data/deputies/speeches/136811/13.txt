@@ -1,1 +1,3 @@
-Anúncio da criação de frente parlamentar em defesa do setor de fruticultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a919f07dba3142ce8300fb29790bde46677457370dfc35c5e525e76a68c2f54
+size 79

@@ -1,1 +1,3 @@
-Balanço da atuação parlamentar do orador. Êxito do Governo Eduardo Campos, Estado de Pernambuco. Votos de feliz Natal e próspero Ano Novo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43a7553f86692ad0599c122603d7038bd70da0637271e020b13f45c9cb326ef9
+size 143

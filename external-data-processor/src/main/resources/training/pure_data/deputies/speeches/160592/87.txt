@@ -1,1 +1,3 @@
-Suspensão das atividades da Polícia Rodoviária Federal por falta de dotação orçamentária. Incompetência administrativa do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93e018c1d377840eb13ad8ffce9c795a4e28af70ac2ad22887e82a95158831f
+size 146

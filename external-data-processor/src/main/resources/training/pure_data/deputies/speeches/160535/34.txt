@@ -1,1 +1,3 @@
-Indagação à Presidência sobre a data da votação da proposta de reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f02ae1fef2ae68114cc21642c76844e5cd38e5bcc2527131517f7d67b9bbc7c9
+size 87

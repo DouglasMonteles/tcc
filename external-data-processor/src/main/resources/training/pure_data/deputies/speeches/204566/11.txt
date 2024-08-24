@@ -1,1 +1,3 @@
-Solicitação à Presidência de votação de projeto sobre Acordo de Salvaguarda Tecnológica, de interesse do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39b53951b787d95a8cdb766ef232abd12d4e83c2ac15157f7dd3df727dfe7dce
+size 132

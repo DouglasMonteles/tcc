@@ -1,1 +1,3 @@
-Repúdio à ditadura da toga. Imobilismo do Parlamento brasileiro diante da obrigatoriedade imposta ao Deputado Zé Trovão, pelo Supremo Tribunal Federal, de uso de tornozeleira eletrônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87d58b1439bac94cc7d72ec06c49fb473acfab8f0faa255033404323260ad777
+size 191

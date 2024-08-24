@@ -1,1 +1,3 @@
-Transferência do cargo de Líder do PSOL para a Deputada Luciana Genro. Balanço da atuação do orador na Liderança do partido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b819c2d635e7de63545bdfa19a95bbd3b2e59931076e2591ecd1b03e8ec25de2
+size 130

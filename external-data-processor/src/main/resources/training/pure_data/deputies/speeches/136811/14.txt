@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar em Defesa da Fruticultura Brasileira. Estabelecimento de diretrizes para discussão das dívidas do setor, particularmente no Vale do São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a702f256c85a032278258b64c8e5b47d707eca747fa6322bb6712ea61030fba
+size 181

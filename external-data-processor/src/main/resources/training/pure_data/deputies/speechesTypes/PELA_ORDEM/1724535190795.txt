@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Combate ao Trabalho Infantil. Elevado número de crianças no exercício de atividades laborais no País. Pedido aos gestores públicos de maior empenho para implementação do programa de jovens aprendizes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8481d722647b9154b79abff8e7f8d48439b0b04a018150a18bf24c46c6b985bc
+size 236

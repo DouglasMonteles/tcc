@@ -1,1 +1,3 @@
-Saudações aos integrantes da Mesa Diretora dos trabalhos. Congratulações aos Deputados Nilson Leitão, Flávia Moraes e Rômulo Gouveia pela iniciativa de realização da sessão solene, ao ensejo do transcurso do Dia Nacional de Valorização da Família. Comemoração do Dia Internacional do Voluntariado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a6609f5651210b57b46fc6b07da18c99dcff3fcb340fe0eb965d162b07bf582
+size 312

@@ -1,1 +1,3 @@
-Aprovação, pela Câmara dos Deputados, da proposta de extensão do Programa de Recuperação Fiscal - REFIS para as Santas Casas de Misericórdia, hospitais filantrópicos, e entidades de assistência social.  Ofício da Secretaria de Estado do Vaticano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:101eabc95219735a1dd2d9db384e7b2a2b5ce4c4a71c4fa4a7989c3f3e9ed7ff
+size 256

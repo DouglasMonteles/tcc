@@ -1,1 +1,3 @@
-Imediata votação pela Casa do Projeto de Lei nº 5.279, de 2009, acerca do estabelecimento de normas para as eleições dos representantes brasileiros no Parlamento do Mercado Comum do Sul - PARLASUL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91f70d70e20a8783affeadad17d5af3ef0cb729571a92544128734f6ef2df4e2
+size 202

@@ -1,1 +1,3 @@
-Articulação do governo petista contra a investigação do ex-Ministro-Chefe do Gabinete de Segurança Institucional - SGI da Presidência da República, general Marco Edson Gonçalves Dias, do Ministro da Justiça e Segurança Pública, Flávio Dino, e outros pela CPMI destinada à apuração de atos antidemocráticos praticados contra as sedes dos Poderes da República no dia 8 de janeiro de 2023. Reapresentação, pelos partidos opositores, de requerimentos não aprovados pelo órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9580e88ad0a2dbf4a60d5b574da080f4f276407d26b7ab3a801f7a8d32ac46e6
+size 494

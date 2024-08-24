@@ -1,1 +1,3 @@
-Transcurso do 180º aniversário de fundação do Município de Petrópolis, Estado do Rio de Janeiro. Pedido ao Prefeito Municipal de Niterói, Axel Grael, de reabertura do Túnel do Tibau e dragagem do Canal de Itaipu. Prejuízos causados aos pescadores artesanais e ao meio ambiente pelo lançamento de esgoto in natura na Lagoa de Piratininga, em Niterói.
+version https://git-lfs.github.com/spec/v1
+oid sha256:735b2f447aee7d1ca5748b5ad10393486a6639dae05185422311f2a02f49f60b
+size 360

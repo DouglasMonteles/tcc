@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda nº 92, apresentada à Medida Provisória nº 871, de 2019, sobre o combate a irregularidades em benefícios previdenciários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ff18abfaa2c6ea39c8b67a439e9b8e2b95838949db3244883aea6f1630db0d8
+size 173

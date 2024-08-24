@@ -1,1 +1,3 @@
-Déficit habitacional brasileiro. Importância dos programas governamentais de construção de casas populares. Aumento do fluxo turístico na África do Sul com a realização da Copa do Mundo de Futebol de 2010. Perspectivas de investimentos em infraestrutura e de crescimento do turismo no Brasil com a realização da Copa do Mundo de Futebol em 2014. Início das obras de ginásio poliesportivo em Manaus, Estado do Amazonas. Apoio à aprovação das Propostas de Emendas à Constituição de nºs 300, de 2008, sobre a instituição do piso salarial nacional de policiais e bombeiros militares, e 308, de 2004, a respeito da criação das polícias penitenciárias federal e estaduais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93c66e23c3b2112995c8d3d216ba71ca00a6c4f0f775fdfd49b041b485f3a67b
+size 691

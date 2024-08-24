@@ -1,1 +1,3 @@
-Inauguração do Sistema Viário 2 de Julho, em Salvador, Estado da Bahia. Afastamento do Sr. Sérgio Maurício Brito Gaudenzi da Presidência da Empresa Brasileira de Infra-Estrutura Aeroportuária - INFRAERO. Homenagem ao Serviço Social do Comércio - SESC pelo transcurso do 60º aniversário de criação do Turismo Social. Realização do 2º Bahia Afro Film Festival, em Salvador. Realização do Seminário Internacional Articulação da Rede Hispano-Brasileira no Contexto da Atenção das Brasileiras Vítimas de Tráfico, em Madri, Espanha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e02a993f117e2c34199174661c0362e441000fcec55ccecc24b15ee4790b0da
+size 551

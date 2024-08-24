@@ -1,1 +1,3 @@
-Repúdio à obstrução das votações no plenário pelo PT e pelo PSOL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8b85f2eb17958020a29daf235ab9410b3d70fb47cb2a7b366d3ef3f2faf43c7
+size 72

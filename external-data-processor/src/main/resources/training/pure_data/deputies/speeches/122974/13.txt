@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.615, de 2019, sobre a classificação da visão monocular como deficiência sensorial do tipo visual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04189e4d8c0575d2564a24da64ca5df76105edb1f47f5ca6898e2f20054b8a4d
+size 217

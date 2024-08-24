@@ -1,1 +1,3 @@
-Afirmação do compromisso dos policiais militares com o cumprimento da missão constitucional de proteção às pessoas. Pedido aos jornalistas de não julgamento da instituição com base em comportamentos individuais de seus integrantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5bfbc5f2d5788a4c5c2acea3809b774328b2a7e504c27a007c45640d69923d9
+size 240

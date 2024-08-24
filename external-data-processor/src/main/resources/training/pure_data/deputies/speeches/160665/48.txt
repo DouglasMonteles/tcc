@@ -1,1 +1,3 @@
-Transcurso do 15º e do 94º aniversários de fundação, respectivamente, dos jornais Folha de Pernambuco e Jornal do Commercio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52d1acaffd93ceaa7032c84c835930c462086f36a5905dd46801b8e468ec4095
+size 129

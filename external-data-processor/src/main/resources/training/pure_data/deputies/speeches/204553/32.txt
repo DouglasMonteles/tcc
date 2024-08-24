@@ -1,1 +1,3 @@
-Repúdio à tentativa do Presidente Jair Bolsonaro de criminalização da política. Aprovação pelo Congresso Nacional de proposta de interesse da Presidência da República e do País. Maior atenção com os policiais militares no processo de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35e59dc3fe0cf08753577731525bc27feaabfaf6366fe1e4b68b2af75af94032
+size 270

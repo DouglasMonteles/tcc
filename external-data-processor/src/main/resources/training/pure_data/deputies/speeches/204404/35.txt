@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 3, apresentada ao Projeto de Lei nº 2.474, de 2020, referente à cessão de créditos obtidos em sistema de compensação de energia elétrica, durante a emergência de saúde pública decorrente da epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ccb75619d14681aa4426eda1662149edfc41060389b04c8d76587501f68d374
+size 344

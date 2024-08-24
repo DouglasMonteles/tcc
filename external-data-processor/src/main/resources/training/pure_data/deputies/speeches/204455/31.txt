@@ -1,1 +1,3 @@
-Repúdio ao discurso proferido pelo Deputado Ivan Valente, ofensivo ao orador e aos demais Parlamentares eleitos pelo PSL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b03e0ca18c201cd5a9c97a6f6da412b2bb217d2d56435067450830b4a677c29
+size 122

@@ -1,1 +1,3 @@
-Acompanhamento do julgamento, pelo Tribunal de Contas da União - TCU, da ação do Conselho da Justiça Federal sobre a retomada do pagamento de quinquênios a Juízes Federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01359d17fd58ea6b9d46ecdfc86a867bcfc227fa5b39c2229eb05628f91c7afe
+size 178

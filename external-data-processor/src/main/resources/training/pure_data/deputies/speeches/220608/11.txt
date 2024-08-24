@@ -1,1 +1,3 @@
-A Deputada expressou preocupação com a possibilidade de o STF tomar decisões sobre o aborto que, em sua visão, desrespeitam princípios fundamentais. Citou a Constituição e o Código Civil para destacar o direito à vida desde a concepção, lembrando que no Brasil há grande maioria de cristãos, e fez um apelo aos colegas Parlamentares para assinarem o requerimento de urgência para votar o Estatuto do Nascituro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9f3ca07bbe7c5c87fae09fdc5b510a28b769592d3e110491b365dc5b7e2dca5
+size 424

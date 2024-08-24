@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Meio Ambiente. Necessidade de resistência aos ataques do Governo Federal ao meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13ecc2bb0605e98612ce5f5e28d4b92eb38a12043d0ff260a31a8331503fcb31
+size 120

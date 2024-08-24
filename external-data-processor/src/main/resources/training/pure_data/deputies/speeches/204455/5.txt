@@ -1,1 +1,3 @@
-Indignação com ataques de partidos oposicionistas contra o PSL. Incompatibilidade entre os gastos de campanha eleitoral de candidatos esquerdistas e suas declarações de rendimentos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10b07ff7f471758beca219888e4648243101e71a45e07803da0340e3538d0954
+size 185

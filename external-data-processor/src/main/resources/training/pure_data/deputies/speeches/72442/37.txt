@@ -1,1 +1,3 @@
-Aposição, pelo Presidente Jair Bolsonaro, de veto à proposta de extensão do auxílio emergencial de 600 reais às atividades esportivas. Apelo ao Presidente Rodrigo Maia de inclusão na pauta do Projeto de Lei nº 2.824, de 2020, sobre as ações emergenciais destinadas ao setor esportivo durante a vigência das medidas de isolamento social, de acordo com a Lei nº 13.979, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50ef4b98f427617e6304b817d8feb441fdafd114696af2315a8badc27e8b1bd5
+size 388

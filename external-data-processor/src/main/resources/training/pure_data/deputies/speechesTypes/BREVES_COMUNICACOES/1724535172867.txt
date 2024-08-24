@@ -1,1 +1,3 @@
-Atuação de Parlamentares e do Governo Jair Bolsonaro contra a educação brasileira. Redução dos recursos orçamentários destinados ao setor. Protesto contra o pretendido calote nos precatórios relativos ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEF. Inadmissibilidade de desvinculação de recursos do setor educacional. Contrariedade à divisão dos Institutos Federais de Educação, Ciência e Tecnologia. Defesa de manutenção do piso salarial nacional dos docentes brasileiros. Razões do posicionamento do orador contrário à aprovação da Proposta de Emenda à Constituição nº 32, de 2020, sobre a reforma administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bfe79d676e57a2eec12a88a3ab959cc3325f50bcfa5c761324e451b2f5424cd
+size 703

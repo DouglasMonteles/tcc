@@ -1,1 +1,3 @@
-O Deputado parabenizou a Polícia Federal pelo desmantelamento de uma quadrilha que traficou cerca de 43 mil armas de fogo para o Brasil. Destacou a importância de uma postura firme contra as facções criminosas que ameaçam a segurança nacional e apontou a necessidade de uma política mais efetiva nas fronteiras para combater esses crimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:438a5d46231f9179eb5032e7af567eda583203787124aad8449658a97725def2
+size 345

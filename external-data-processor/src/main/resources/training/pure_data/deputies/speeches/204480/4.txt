@@ -1,1 +1,3 @@
-Convite aos Deputados e Senadores para participação em ato de assinatura do requerimento de criação da CPMI destinada à investigação das circunstâncias e responsabilidades pelo rompimento da barragem da Mina do Córrego do Feijão, da empresa Vale, no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2d4450af7e3c9543fff0333d8a895ccb740f6d2626b3050dff67cfe662e3419
+size 309

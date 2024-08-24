@@ -1,1 +1,3 @@
-Pedido às autoridades competentes de investigação e punição dos responsáveis pelo assassinato do professor no Município de Guarulhos, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8535b9332ba63ab82eb54eb5e6c9770ea58f2d19774786f5d2d81fabca0a1839
+size 162

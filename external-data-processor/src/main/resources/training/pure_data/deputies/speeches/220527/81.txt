@@ -1,1 +1,3 @@
-A Deputada anunciou a entrega de 537 casas do Programa Minha Casa, Minha Vida no Estado do Espírito Santo. &nbsp;Destacou que essas unidades, cuja construção foi iniciada no Governo Dilma Rousseff, representam não apenas habitação, mas também a realização de sonhos e um senso de pertencimento para as pessoas da Barra do Riacho, no Município de Aracruz. Mencionou a presença da Ministra Simone Tebet e a participação do Presidente Lula por videoconferência no evento. A oradora elogiou a importância do Minha Casa, Minha Vida na reconstrução da vida de milhões de brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55da7f778725057e8d6461ddf634752c3924f20800ba1a36a96f1566bf76a91f
+size 595

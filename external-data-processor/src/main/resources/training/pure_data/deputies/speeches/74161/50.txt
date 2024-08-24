@@ -1,1 +1,3 @@
-Presença do professor e autor do livro O Nó do Ensino Médio, Moaci Alves Carneiro, na Comissão Especial relativa à análise da proposta de reforma do ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e91c460a9d9b8564742926538c963f169999829ef6f27faafc880f2e7d490b2a
+size 169

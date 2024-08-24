@@ -1,1 +1,3 @@
-Transcurso do 155º aniversário de emancipação político-administrativa do Município de Várzea Grande, Estado de Mato Grosso. Criação do Clube Esportivo Operário Várzea-Grandense; construção da Igreja Nossa Senhora do Carmo; pavimentação da Avenida da FEB; construção do Ginásio Fiotão e construção da Ponte Mário Andreazza, na municipalidade. Destinação de recursos orçamentários para a saúde pública e pavimentação de Várzea Grande.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12753ead218c6e55e2680f720531e3335c278dd1e6e03e3e31476f7034edf0cb
+size 463

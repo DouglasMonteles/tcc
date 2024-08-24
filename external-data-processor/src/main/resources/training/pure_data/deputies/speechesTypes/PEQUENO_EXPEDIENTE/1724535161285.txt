@@ -1,1 +1,3 @@
-Outorga da Medalha do Mérito Ruy Araújo ao ex-Governador do Estado do Amazonas Gilberto Mestrinho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b9819a781d3563c9fb99058fda1f24fc454b48eb1e08576d066b765b2f4fb9e
+size 100

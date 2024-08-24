@@ -1,1 +1,3 @@
-O Deputado parabenizou a atuação dos policiais militares Batalhão de Missões Especiais — BME, do Espírito Santo. Manifestou preocupação com a doação de alimentos feita pelo MST à Faixa de Gaza por causa da guerra entre Hamas e Israel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9025a188ab9b77bba39ff4fac9d7780a45b9bcf54ec2ad412e6884a619d275f5
+size 246

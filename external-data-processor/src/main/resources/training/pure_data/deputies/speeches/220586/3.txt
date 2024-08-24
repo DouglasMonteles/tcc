@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Anúncio, pelo Presidente Luiz Inácio Lula da Silva, de retomada da construção de creches no País. Lançamento do Programa Creche pelo Governo do Estado de Alagoas. Expectativa quanto à retomada dos investimentos federais na educação infantil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57c91a8eb5475a108510262ca795b73100dd3c35d4fc3ccc673af992759e04f8
+size 293

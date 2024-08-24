@@ -1,1 +1,3 @@
-Impossibilidade regimental de interrupção da votação do  Projeto de Decreto Legislativo 2.912 de 2010 (Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da República Francesa na Área de Submarino, celebrado no Rio de Janeiro em 23 de dezembro de 2008).  Posicionamento favorável do PMDB à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2da3795c065919d675955175d1f490655468f1a6b4c56926da3b0349b074bf54
+size 344

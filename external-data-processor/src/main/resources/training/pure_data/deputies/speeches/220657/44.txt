@@ -1,1 +1,3 @@
-Exigência de elucidação e punição dos responsáveis pelo assassinato do advogado Francisco Di Angellis Duarte Morais, ocorrido em Fortaleza, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eea2087da23c86548097c8fe582438d11d3ab17bf22e9a1d6273528fe1c940c4
+size 163

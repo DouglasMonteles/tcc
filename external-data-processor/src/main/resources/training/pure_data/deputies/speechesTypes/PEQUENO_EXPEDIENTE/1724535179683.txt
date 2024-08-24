@@ -1,1 +1,3 @@
-Apoio aos projetos de lei sobre a dedução, do Imposto de Renda da pessoa física, de despesas com medicamentos de uso obrigatório e continuado, e sobre o fornecimento domiciliar de fármacos pelo Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:835e9e3871cb991855760277e3e5a25536c723d66c6512ea106f88499926ccb2
+size 230

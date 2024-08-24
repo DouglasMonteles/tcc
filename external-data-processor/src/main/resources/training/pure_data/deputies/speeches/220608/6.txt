@@ -1,1 +1,3 @@
-Apresentação do Projeto de Decreto Legislativo nº 91, de 2023, para sustação dos efeitos da Portaria nº 665, de 2023, do Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, sobre a utilização de banheiros, dormitórios, vestiários e demais espaços segregados por identidade de gênero.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb23e1b04bc7a84f40131f87e953d3f74ebc2cc90b1ecc4588239781f061e319
+size 318

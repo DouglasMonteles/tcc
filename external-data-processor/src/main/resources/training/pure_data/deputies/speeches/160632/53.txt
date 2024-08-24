@@ -1,1 +1,3 @@
-Retrospectiva do processo de reformulação do Código Florestal brasileiro, especialmente da aprovação de emenda sobre a regulamentação de créditos de carbono, apresentada pelo orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef9e7ffc507dd4db52e8f168405ca50ed0743fdbdf2f111cab600e32891c7b8c
+size 190

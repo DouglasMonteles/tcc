@@ -1,1 +1,3 @@
-Denúncia à Agência Nacional de Telecomunicações - ANATEL de tentativa de fechamento da Rádio Cidade pela Prefeitura do Município de Zé Doca, Estado do Maranhão. Repúdio a medidas ilegais da administração municipal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d51a46e3c1dfcc4a1f7baa0695d1c5f5e9cc0567aa4eafcecf8c3c9966190665
+size 226

@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar Mista em Defesa da Soberania Nacional. Síntese do texto Reflexões sobre o projeto nacional brasileiro, de autoria do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:370de4171476386e44654899cccfd2f675be45865164a4bda2472b4f3da929f7
+size 160

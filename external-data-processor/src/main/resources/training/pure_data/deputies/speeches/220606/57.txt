@@ -1,1 +1,3 @@
-Solidariedade ao movimento grevista dos trabalhadores da educação no Estado do Rio de Janeiro. Necessidade de abertura, pelo Governador Cláudio Castro, de canais de negociação com a categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f92e83558a301a81f88862d8bf4bf00d248c93a184491ca184adf91424f4f72a
+size 197

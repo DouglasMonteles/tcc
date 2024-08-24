@@ -1,1 +1,3 @@
-O Deputado manifestou preocupação com a crise de segurança pública que assola o Brasil. Ressaltou o caso do ataque de uma organização criminosa ao Distrito de Guariba, perto da capital de Mato Grosso. Enfatizou a necessidade de reavaliar as leis de segurança, evidenciando a sensação de impunidade decorrente de interpretações judiciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36283e88e55dec89afdfbcbc97bcbc0fd8876e56ee6effa4403c685b81bd15e2
+size 348

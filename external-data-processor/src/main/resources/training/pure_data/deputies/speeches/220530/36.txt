@@ -1,1 +1,3 @@
-Importância de cumprimento, pelos Deputados, das bandeiras defendidas na campanha eleitoral a favor da preservação da célula familiar e dos valores cristãos e contra o aborto e as drogas. Pedido aos Parlamentares de resistência a eventuais benesses do Palácio Planalto em troca de votos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ed3112ad37eebb7c9984d1f77a1054280b98a14c631c810f04984ff9452f860
+size 294

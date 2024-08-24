@@ -1,1 +1,3 @@
-Fraude no âmbito da Agência Nacional de Vigilância Sanitária - ANVISA em processo de liberação de agrotóxicos. Superfaturamento do projeto arquitetônico do Estádio Mineirão, de Belo Horizonte, Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e91db01fd69556c2eca47bb5651046fd1f4cd206aeb3288b4638035b60bf087
+size 216

@@ -1,1 +1,3 @@
-Repúdio à portaria do Ministério da Saúde favorável à mudança de sexo de menores. Apoio da Pasta à legalização do aborto e das drogas no Brasil. Defesa de exoneração da Ministra Nísia Verônica Trindade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:930d66c109e1ee2d604b276661bb270ba7ff83ed6d2bf3f41d10fc57c4480db1
+size 216

@@ -1,1 +1,3 @@
-Realização da 9ª Festa do Leite e do Queijo de Itaici, no Município de Muniz Freire, Estado do Espirito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:810c2388855c365190d46ad4d3133385eab43a167709950eda87e4f36ff990a9
+size 114

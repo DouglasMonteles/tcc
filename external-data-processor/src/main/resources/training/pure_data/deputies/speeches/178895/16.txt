@@ -1,1 +1,3 @@
-Agradecimento ao Príncipe Dom Luiz de Orleans e Bragança, Chefe da Casa Imperial do Brasil, pelo encaminhamento de mensagem de Páscoa. Peculiaridades da celebração da efeméride nos Municípios de Ouro Preto e São João del Rei, no Estado de Minas Gerais. Votos de Feliz Páscoa ao povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a31d64721fca92afda77df684040b2f5b2a71fb02c8fac17845c2014046457f5
+size 304

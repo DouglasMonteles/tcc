@@ -1,1 +1,3 @@
-Repúdio à gestão da Governadora do Estado do Rio Grande do Norte, Fátima Bezerra, na área de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c29f7bcc9842b189ecb6d1de6677167fd23e495a5928aaceb6862d957eb06fa
+size 118

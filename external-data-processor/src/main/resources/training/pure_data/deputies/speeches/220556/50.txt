@@ -1,1 +1,3 @@
-Avanços da gestão do Presidente Luiz Inácio Lula da Silva. Sanção do Projeto de Lei nº 8.131, de 2017, sobre a inclusão da Política Nacional de Saúde Bucal no âmbito do Sistema Único de Saúde - SUS. Habilitação de novos Centros de Especialidades Odontológicas e de novos Laboratórios Regionais de Próteses Dentárias no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d883cddc3bfb9e567f0ae30a204b5aac6be763e9c2f77dce41a5c00efa0fd1f
+size 343

@@ -1,1 +1,3 @@
-Aquisição de aparelho de radioterapia para o Hospital de Amor, em Porto Velho, Estado de Rondônia. Anúncio da instalação de centro de prevenção e diagnóstico de câncer no Município de Ji-Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86698de4eed1615bfd692cb956b515e677f2c0c84bcb44045da52cfe89ec9a67
+size 206

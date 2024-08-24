@@ -1,1 +1,3 @@
-Trajetória da vida e das atividades políticas da oradora. Linhas de sua atuação parlamentar. Posicionamento da oradora sobre a proposta de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9d5976c2cf1fbffaa67910bc2c1d546671d1c66048823bf333b7511b2d30e71
+size 167

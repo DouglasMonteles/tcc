@@ -1,1 +1,3 @@
-Sessão solene destinada ao lançamento da Campanha Nacional 16 Dias de Ativismo pelo Fim da Violência contra as Mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b77654c03b55f48a944d6771fd2854f7920edcd9e22fe1b58f6699547464b05d
+size 123

@@ -1,1 +1,3 @@
-Apoio à realização da reforma da Previdência Social com a manutenção dos princípios e conceitos da Seguridade Social, consagrados na Constituição Federal. Natureza falaciosa da vinculação entre a reforma previdenciária e o desenvolvimento da economia brasileira. Associação aos clamores pela manutenção da previdência social rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:171d794c3f465973da955dfd64ed8c1f95b2209c05ebcadcabe52898407ddce4
+size 348

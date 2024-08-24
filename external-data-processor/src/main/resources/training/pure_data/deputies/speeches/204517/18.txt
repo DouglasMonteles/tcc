@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Comissão nº 10, apresentada à Medida Provisória nº 944, de 2020, relativa à instituição do Programa Emergencial de Suporte a Empregos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc34fb99451f0e0e94eb47bdec16426a4608fc02b23e240e7d6218cdf45f0da4
+size 247

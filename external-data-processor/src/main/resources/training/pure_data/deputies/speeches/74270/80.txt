@@ -1,1 +1,3 @@
-Análise da crise econômica no País. Inconformismo com o percentual de recursos orçamentários destinados ao pagamento de juros e serviços da dívida pública. Defesa de realização de auditoria da dívida pública brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30fb8c487a9eb43687835c7f929d5fe18ef476c6730dc221d9097c1429c6bd0e
+size 231

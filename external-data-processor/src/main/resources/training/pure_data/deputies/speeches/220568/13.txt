@@ -1,1 +1,3 @@
-Repúdio ao discurso da Esquerda na defesa de Deputado do PCdoB acusado de assédio sexual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d2c48490adb634cf37399114ad425a3d23d9713366396317df1afce7e2fb6f7
+size 91

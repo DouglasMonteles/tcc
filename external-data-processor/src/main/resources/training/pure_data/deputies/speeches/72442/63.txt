@@ -1,1 +1,3 @@
-Dificuldades enfrentadas pelo setor de produção de eventos diante da epidemia de coronavírus. Apresentação do Projeto de Lei nº 5.638, de 2020, sobre as ações emergenciais destinadas ao setor de eventos, diante da crise gerada pela Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efff8ddf2be99a85fafe9504e280704e19bdcffff4a15034ba063480b87e7d91
+size 249

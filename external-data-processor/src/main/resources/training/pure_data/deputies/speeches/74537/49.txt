@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre alteração da Lei de Diretrizes e Bases da Educação Nacional, com a inclusão da leitura como disciplina no currículo da educação básica
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc02268b0e4a69fde7d0b1870dbb1e1807b4c0022e69b5ed8e7bf7f04aa88441
+size 182

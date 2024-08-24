@@ -1,1 +1,3 @@
-A Deputada proferiu parecer ao Projeto de Lei nº 3.964, de 2023, que altera o Decreto-Lei nº 2.848, de 07 de dezembro de 1940 – Código Penal, para aumentar as penas previstas para os crimes contra a dignidade sexual cometidos em contexto de transporte remunerado privado individual de passageiros. Encerrou sua fala agradecendo à Casa por mais uma demonstração de compromisso com as mulheres brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fed15056acf45741f0844889a8c7b92fdfda4d7b1fbc4155707e28a75dc5f5f
+size 412

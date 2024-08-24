@@ -1,1 +1,3 @@
-Contrariedade à aprovação do Projeto de Lei nº 2.650, de 2003, sobre a proibição do tráfego de motocicletas, motonetas e ciclomotores entre veículos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a3742bb026edcc79ca3949a7e396224eadb12c4746f799f9c7e7fd9f5498c99
+size 157

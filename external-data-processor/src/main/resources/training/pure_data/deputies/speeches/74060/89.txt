@@ -1,1 +1,3 @@
-Nota da Liderança do PCdoB sobre a importância da verba indenizatória para o exercício da atividade parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b43a23a84874b08745ddb3dfd07fed89b3257291f6a59bd30303f658ea4ee1b3
+size 116

@@ -1,1 +1,3 @@
-Agradecimento ao povo do Estado da Bahia pela eleição do orador. Bandeiras defendidas no exercício do mandato parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3ddd1df356a707104b71e8a13f5ad0daae810b54bfcf2a007690a2735f2e847
+size 125

@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022, (novo arcabouço fiscal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1436b72fbabb6d5432880e8f98a188daa7adafb67e93200d0e99061caa4fe19f
+size 341

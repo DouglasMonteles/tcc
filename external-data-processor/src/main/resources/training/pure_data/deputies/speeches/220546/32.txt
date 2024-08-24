@@ -1,1 +1,3 @@
-O Deputado expressou preocupação em relação ao ENEM, afirmando que, mais uma vez, o exame teria um viés ideológico contrário ao agronegócio. Criticou o Presidente Lula por vetar o marco temporal, alegando que tal ato desrespeita o produtor rural que contribui significativamente para o PIB nacional. Destacou a proibição da atuação das Forças Armadas e da Polícia Federal em terras indígenas, considerando isso um atentado à soberania nacional. Questionou os motivos por trás dessa proibição, levantando a possibilidade de interesses relacionados ao tráfico de drogas. Concluiu apelando à união no Congresso Nacional para derrubar o veto e restaurar a paz no campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eda6836223522dd9d72f3362d9e6d2025a9acc9fc67632a83b4d636367351d2a
+size 687

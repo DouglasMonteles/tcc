@@ -1,1 +1,3 @@
-Correção de discurso proferido pelo orador com relação à data de reunião de Governadores em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa25b0c543577746b194f3fe3c13acb1a9615f768d34bffdbe9f69503706efaa
+size 126

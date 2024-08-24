@@ -1,1 +1,3 @@
-Promoção da 18ª Semana Interamericana da Água. Congratulações à direção da Companhia Riograndense de Saneamento - CORSAN pela promoção da 11ª Semana Estadual da Água. Posicionamento do orador contrário à transferência da gestão da água para a iniciativa privada. Manifesto sobre a campanha Água Pública, lançada na Europa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:150e3b074723d0b416fc2f163d1a6d6951d07d823a45abb49c5ea5dfb4df4101
+size 343

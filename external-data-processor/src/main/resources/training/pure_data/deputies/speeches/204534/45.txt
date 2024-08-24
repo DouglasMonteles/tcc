@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do inciso III, art. 167, da Constituição Federal, alterado pelo art. 1º do substitutivo apresentado à Proposta de Emenda à Constituição nº 23, de 2021, sobre a alteração do regime de pagamento de precatórios pela União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfeea6d80c8098bfc942b94afd1df2b0c244b802dfbac44ac7f7cf251e59a6e3
+size 312

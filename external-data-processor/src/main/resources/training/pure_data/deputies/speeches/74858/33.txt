@@ -1,1 +1,3 @@
-Necessidade de redução da taxa básica de juros, a Taxa SELIC, pelo Comitê de Política Monetária – COPOM do Banco Central do Brasil. Redução dos preços de combustíveis, do gás de cozinha e de alimentos. Queda do desemprego e dos índices inflacionários. Convite aos Deputados para participação em ato contra os juros altos, no Salão Verde da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d18db697b96677d4827dab0d82a15df405afe90e2db9e40f0426530d28745da
+size 380

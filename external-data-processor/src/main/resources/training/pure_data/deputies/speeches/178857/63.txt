@@ -1,1 +1,3 @@
-Contestação a pronunciamentos de Parlamentares do PSDB. Indignação do orador com o Ministro Gilmar Mendes, do Supremo Tribunal Federal, pela blindagem do Senador Aécio Neves nas investigações da Operação Lava-Jato. Revelação de interesses ilícitos pelo Governo interino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d538128fe6ee782a6946eb19be904cc7338abdbb4337038567b457e53130fa7
+size 282

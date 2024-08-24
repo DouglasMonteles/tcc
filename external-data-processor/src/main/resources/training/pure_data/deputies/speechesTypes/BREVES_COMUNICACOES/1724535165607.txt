@@ -1,1 +1,3 @@
-Associação ao discurso do Deputado Deltan Dallagnol em repúdio à decisão do Conselho Nacional de Justiça de afastamento do Juiz Federal Marcelo Bretas de suas funções. Perplexidade ante a soltura do ex-Governador do Estado do Rio de Janeiro, Sérgio Cabral. Inversão de valores no Brasil, demonstrada na perseguição a agentes de segurança pública e membros do Poder Judiciário atuantes contra a corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e78877ee2ee594047e72c4f41a3638d35e1c7874e1aac878aa1166ea87da4551
+size 421

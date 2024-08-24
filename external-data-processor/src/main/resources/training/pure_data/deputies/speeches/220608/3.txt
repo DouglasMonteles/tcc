@@ -1,1 +1,3 @@
-Acerto da provação do Projeto de Lei nº 976, de 2022, sobre a instituição de pensão especial aos filhos e dependentes menores de idade, órfãos em razão do crime de feminicídio tipificado no inciso VI do § 2º do art. 121 do Código Penal, com renda familiar mensal per capita igual ou inferior a 1/4 (um quarto) do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccc682ac6e407376ce288817e0cf2ebb6715a0f5eeab0ac085eb5c803e48cc31
+size 343

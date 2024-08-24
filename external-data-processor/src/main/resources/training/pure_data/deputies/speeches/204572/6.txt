@@ -1,1 +1,3 @@
-Congratulações ao Vice-Presidente a República, Hamilton Mourão, pelo posicionamento adotado com relação à crise política venezuelana. Necessidade de combate ao narcotráfico e fortalecimento dos serviços de vigilância da fronteira do Brasil com a Venezuela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:238983d7f6aef3a461d524c3386817a69d0c991b607e1a8ab845ee71daa43b61
+size 267

@@ -1,1 +1,3 @@
-Pedido ao Presidente para inclusão, no painel eletrônico de votações, da informação relativa à orientação das bancadas partidárias. Orientação de bancada para votação de requerimento de apreciação em regime de urgência do Projeto de Decreto Legislativo nº 920, de 2018, sobre a sustação da Portaria Interministerial MDIC-MMC nº 78, de 29 de dezembro de 2017, acerca do estabelecimento de normas, critérios, padrões e medidas de ordenamento pesqueiro em águas continentais na região hidrográfica do Atlântico Nordeste Oriental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:916cb74a2fa128c708a09fc976eb84d532fbb6d9b623ba8941ee89ee2b34c111
+size 553

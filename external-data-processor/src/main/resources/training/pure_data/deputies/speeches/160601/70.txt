@@ -1,1 +1,3 @@
-Preocupação com desdobramentos de notícias sobre a eficácia de medicamento sintético desenvolvido em laboratório acadêmico da Universidade de São Paulo - USP para a cura do câncer. Necessidade de apoio dos órgãos responsáveis por pesquisas e saúde pública à USP para a continuidade das pesquisas necessárias à comprovação da eficácia do medicamento. Solicitação de audiência pública na Comissão dos Direitos Humanos e Minorias para debate do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec4fda9ad51e6ad8c0a400845500f867438d71c5539ef7fdb2e058e6c3ee2865
+size 472

@@ -1,1 +1,3 @@
-Regozijo com o discurso proferido pela Presidenta Dilma Rousseff na abertura da Assembleia Geral da Organização das Nações Unidas - ONU. Importância da participação feminina na política. Defesa da criação de Estado da Palestina. Apresentação, à Comissão de Direitos Humanos e Minorias, de requerimento de realização de diligência em colônia penal no Estado do Pará, destinada à investigação de abuso sexual praticado contra adolescente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c7b9cd9f1097181fbb5a5eefb806c74da6eaea0e2a74b1e940f681862843f3f
+size 458

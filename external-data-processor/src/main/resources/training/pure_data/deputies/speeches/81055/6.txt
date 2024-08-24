@@ -1,1 +1,3 @@
-Importância do escritor Monteiro Lobato para a literatura brasileira. Comprometimento do PCdoB com a valorização da cultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b16da4250eac77ff54ce3d4ed42879d4ddeb2bff44b77c5abd531718491df8f
+size 127

@@ -1,1 +1,3 @@
-Indignação do orador com a obstrução das votações pela Esquerda, em protesto contra os cortes de recursos orçamentários destinados à educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea5566ba31eda872db7578ad94beffad4a0bf2b79334bc026c66f6cf4d0346b2
+size 153

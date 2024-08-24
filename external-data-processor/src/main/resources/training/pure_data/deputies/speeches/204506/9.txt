@@ -1,1 +1,3 @@
-Resposta da Presidência à questão de ordem formulada pelo Deputado Cacá Leão, a respeito de recebimento pela Presidência de requerimentos de destaque aos vetos requeridos por Vice-Líder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b6a50a4a0c7d0542fe2249a28c2780ac57aee7062993cdef79777193666debf
+size 193

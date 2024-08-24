@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de encerramento da discussão e do encaminhamento da votação da Medida Provisória nº 870, de 2019, sobre a organização da Presidência da República e dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06d70465582483a526b7c61e8676c9b41a12f6215192407487fd35ef47d6db3f
+size 218

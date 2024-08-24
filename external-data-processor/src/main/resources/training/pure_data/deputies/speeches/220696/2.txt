@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Lançamento, pelo Presidente Luiz Inácio Lula da Silva, de conjunto de medidas em benefício das mulheres. Retomada do Programa Minha Casa, Minha Vida. Apresentação, pelo Governo Federal, de projeto de lei sobre a equidade salarial de gênero. Saudações às mulheres do Estado da Bahia. Ineficiência da gestão do Prefeito Municipal de Camaçari na área de transporte coletivo urbano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6831f4348caddbdd2722bb7dc2627b910c184e3fc0821b637eb7d3ba07da302
+size 434

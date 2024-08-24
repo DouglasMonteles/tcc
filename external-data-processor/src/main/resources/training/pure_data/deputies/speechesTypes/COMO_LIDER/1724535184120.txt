@@ -1,1 +1,3 @@
-Apoio às manifestações da juventude brasileira a favor da educação. Luta do PCdoB em prol do setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48fc2ac2f82b0b54d4a7224172d2e6f1075d46fe178efb080d37152c1dc52d8f
+size 116

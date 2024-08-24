@@ -1,1 +1,3 @@
-Temas debatidos em encontro de membros da Frente Parlamentar da Saúde e da Frente Parlamentar de Apoio às Santas Casas de Misericórdia, Hospitais e Entidades Filantrópicas na Área da Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c98aa2db96b8b83f0f0b5ba9a32eb1be5192dc840481766f3d1cc4b5e6991d1
+size 195

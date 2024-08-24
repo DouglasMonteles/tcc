@@ -1,1 +1,3 @@
-Continuidade da greve dos profissionais da educação no Estado de Minas Gerais. Expectativa de cumprimento, pelos Governadores, da decisão do Supremo Tribunal Federal em favor do estabelecimento do piso salarial nacional dos profissionais do magistério público da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d89325ba1ac6351bd9ef4debe20b32073a0fde9cca682a81facd6c0be7d79ee4
+size 287

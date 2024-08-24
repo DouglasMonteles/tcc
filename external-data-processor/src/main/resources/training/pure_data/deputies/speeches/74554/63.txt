@@ -1,1 +1,3 @@
-Transcurso do 82º aniversário de emancipação político-administrativa do Município de Xique-Xique, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecea16cc65e37d6d295ae75561139ad9ec8b8c7b0f6a498c1598e79442b9b5cd
+size 120

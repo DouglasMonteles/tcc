@@ -1,1 +1,3 @@
-Aprovação, pela Comissão Especial, da proposta de regularização da situação jurídica de Municípios brasileiros. Expectativa de aprovação da matéria pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70ef01250bcaab8cf5f439e44964124aa6fdd111e447fc109a4a4764abc4df9b
+size 187

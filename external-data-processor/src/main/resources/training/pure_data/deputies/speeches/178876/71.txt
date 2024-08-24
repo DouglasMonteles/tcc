@@ -1,1 +1,3 @@
-Transcurso dos aniversários dos Municípios de Novo Gama e Valparaíso de Goiás, no Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:925b6197b6fdd8dbd88ae211d163b65b41904571ad6a9bc2cd2bf207b804db76
+size 103

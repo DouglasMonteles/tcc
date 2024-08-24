@@ -1,1 +1,3 @@
-Importância da aprovação pela Câmara dos Deputados do Projeto de Lei nº 4.639, de 2016, relativo à autorização de uso da fosfoetanolamina sintética por pacientes diagnosticados com neoplasia maligna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b35e9bd1e3a03a441a3e6a5eb67f4492d959acd1ec8d88aceb510b529a9cda3a
+size 208

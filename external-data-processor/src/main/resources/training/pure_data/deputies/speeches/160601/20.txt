@@ -1,1 +1,3 @@
-Indignação com a realização do 4º Encontro Nacional de Ateus no campus da Universidade Federal do Acre. Anúncio de solicitação à Polícia Civil do Estado de abertura de inquérito para investigação de atos criminosos ocorridos durante o evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d3bfc03b789f831244d474bc563aa61de75ba1a01dee52aaed7274a2eecf695
+size 255

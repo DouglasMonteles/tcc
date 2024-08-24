@@ -1,1 +1,3 @@
-Declarações do Presidente Luiz Inácio Lula da Silva a respeito do ajuizamento de ações contra órgãos da imprensa pela Igreja Universal do Reino de Deus. Não utilização, pelo orador, de outdoors para fins eleitoreiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b56d481a43daa0dd69f72195d2966b248109781f0e8cfecfb50fe2c97e52ef63
+size 227

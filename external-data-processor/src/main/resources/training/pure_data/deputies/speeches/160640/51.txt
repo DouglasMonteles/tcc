@@ -1,1 +1,3 @@
-Falecimento do Arcebispo da Arquidiocese de Montes Claros, Estado de Minas Gerais, Dom Geraldo Magela de Castro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d89080b09e82e917bee779b13a49a9795b07d6eb2222f40f5bf6815cbce115b2
+size 112

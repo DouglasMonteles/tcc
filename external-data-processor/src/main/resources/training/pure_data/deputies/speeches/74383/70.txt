@@ -1,1 +1,3 @@
-Comunicado de decisão da Presidência de não recebimento de destaques às Emendas nºs 3, 4 e 5 por veiculação de matéria estranha à Medida Provisória, de acordo com entendimento do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55ce74fc3cabc0c5fedc27fb545e6e6fde21fbfe591d46f82ca2ce2efa7fd51e
+size 214

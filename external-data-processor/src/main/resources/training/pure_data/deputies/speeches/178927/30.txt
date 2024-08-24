@@ -1,1 +1,3 @@
-Necessidade de aprofundamento do debate sobre a redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7f2e14c6b699e35574b51943001875a4f5fd7131962f0a6d7be987ab117f10a
+size 78

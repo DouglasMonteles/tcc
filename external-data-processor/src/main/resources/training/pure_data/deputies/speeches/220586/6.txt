@@ -1,1 +1,3 @@
-Regozijo com a concessão pela Casa do Prêmio Darcy Ribeiro de Educação ao Governo do Estado de Alagoas, especialmente em razão dos investimentos nos programas Cartão Escola 10 e Vem que dá Tempo. Esclarecimento sobre os programas, implantados pelo orador no exercício do cargo de Secretário de Estado da Educação de Alagoas. Agradecimentos pela premiação concedida ao Governo alagoano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:651b69de61c8d46892f373671693df0e78cddbe276bc2af7f54636f617e7d3d8
+size 398

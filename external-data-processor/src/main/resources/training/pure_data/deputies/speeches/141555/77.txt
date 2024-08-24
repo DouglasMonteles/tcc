@@ -1,1 +1,3 @@
-Natureza precária dos serviços prestados pela SuperVia Concessionária de Transportes Ferroviários S.A. no Estado do Rio de Janeiro. Despropósito da prorrogação, pelo Governo Estadual, do contrato de concessão firmado com a empresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f5c37c75e52b45eeda889a03355749fe1273d85484c2e6f89b6301a3d01b245
+size 239

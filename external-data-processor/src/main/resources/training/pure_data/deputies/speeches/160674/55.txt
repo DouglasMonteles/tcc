@@ -1,1 +1,3 @@
-Precariedade dos serviços de telefonia móvel no Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39a3d62ec5c53f495ec24b5170c5192fa130bca7e0da5712810bf11cf895747c
+size 69

@@ -1,1 +1,3 @@
-Elogio à Presidenta Rose de Freitas pela condução dos trabalhos da Casa. Solicitação à Presidência de apoiamento à concessão de reajuste salarial aos servidores da Câmara dos Deputados. Indignação do orador com a postura do DEM e de outros partidos da Oposição contrários à aprovação de medida provisória que garante recursos para reconstrução de escolas e obras emergenciais, em casos de calamidade pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d22e12e9cbb83b527114630c2c1504e76a62b1186732bf9f10ef4ad272107eb8
+size 430

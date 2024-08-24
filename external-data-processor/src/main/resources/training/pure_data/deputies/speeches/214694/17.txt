@@ -1,1 +1,3 @@
-O Deputado enalteceu a postura do Governador Jorginho Mello por recusar aumento do ICMS, criticando outros Estados que planejaram tal aumento antes da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:531fb406a8a0d6f961edd80728c9f0bde4f7365099cf6377353b624b89e84d14
+size 171

@@ -1,1 +1,3 @@
-Elogio ao Presidente Michel Temer pela votação de proposições apresentadas pelos Parlamentares. Congratulações ao Senador João Capiberibe e à Deputada Janete Capiberibe pela aprovação do projeto sobre a transparência de gastos públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a59bbc36c270bdb891b5d2e06039e43e536ba15053e1df4cbffafe50c47592b
+size 248

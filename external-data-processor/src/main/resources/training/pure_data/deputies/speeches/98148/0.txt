@@ -1,1 +1,3 @@
-Trajetória política do orador. Atuação parlamentar em defesa de investimentos da União na melhoria da infraestrutura do Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b71a880eeed92deeca08d01ddb67e0b7cafbb73ee8949e4a9810c04995468d7e
+size 150

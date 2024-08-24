@@ -1,1 +1,3 @@
-Elogios ao Presidente Henrique Eduardo Alves pela condução dos trabalhos da Casa. Descontentamento diante da obstrução das votações pelos partidos de Oposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:676e5b6d801bdac190adea50c6382f1573d2c879e4fcb9316cd0d233b11daea7
+size 167

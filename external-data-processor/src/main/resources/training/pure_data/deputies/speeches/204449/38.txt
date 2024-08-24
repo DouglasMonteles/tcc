@@ -1,1 +1,3 @@
-Presença, na Casa, do Prefeito Montanari Júnior, do Município de Poloni, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aebbbdfd6778b67c156f4300f188523189074b379fd3c67b6105d1500cdcf57
+size 97

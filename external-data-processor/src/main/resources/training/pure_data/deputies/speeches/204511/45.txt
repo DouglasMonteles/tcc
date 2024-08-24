@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Otoni de Paula   sobre o pedido ao Procurador-Geral da República, Augusto Aras, pelo Deputado Gilberto Nascimento, de suspensão do decreto do Governador do Estado de Pernambuco, Paulo Câmara, acerca de exigência da apresentação de passaporte sanitário para a participação de fiéis em celebrações religiosas nas igrejas e templos. Contrariedade à criação de passaporte sanitário pelo Prefeito Municipal do Rio de Janeiro, Eduardo Paes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d71c97773bbea2a646a565e2afa558e1fe056f1f7ef940756c4ff78dd77fef9
+size 493

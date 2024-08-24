@@ -1,1 +1,3 @@
-Indignação com a nomeação do ex-Presidente da República Luiz Inácio Lula da Silva para o cargo de Ministro-Chefe da Casa Civil da Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a928b57aabed71c873082be46daebd240908385b5ad0204916e53c2a82beb098
+size 163

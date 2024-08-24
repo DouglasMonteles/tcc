@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação da Emenda nº 30880002 ao Projeto de Lei do Congresso Nacional nº 4, de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f621138c988f0b97d6ae44e031aff6f59156c942a9fa8ebc00127376e88d04d5
+size 219

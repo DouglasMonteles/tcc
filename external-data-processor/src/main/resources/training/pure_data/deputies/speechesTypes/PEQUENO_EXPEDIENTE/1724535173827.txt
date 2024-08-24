@@ -1,1 +1,3 @@
-Desempenho do Partido dos Trabalhadores nas eleições municipais do Estado do Ceará. Imediata realização da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a9978cbd992c8cfbda4ed9d38b70d31ed780407a7c3bf849ceec064c58d2c72
+size 130

@@ -1,1 +1,3 @@
-Decretação de novo lockdown pelo Governador do Estado de Pernambuco, Paulo Câmara. Equívoco da desativação de hospitais de campanha pelo Gestor Estadual. Denúncias de corrupção e desvio de recursos no âmbito do Governo de Pernambuco. Desconhecimento do colapso da rede de saúde pública pelo Governador Paulo Câmara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d36eeb55a94f5cfed953ffb76ea7218377eeadbfae821d6985e012b6ed9f7300
+size 328

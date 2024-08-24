@@ -1,1 +1,3 @@
-A Deputada expressou seu repúdio ao comportamento de acadêmicos de medicina, classificando suas ações como vergonhosas e indignas do século XXI. Também condenou as declarações de um prefeito que sugeriu a castração de mulheres, destacando a importância das discussões sobre igualdade de gênero. Como Presidente da Comissão de Defesa dos Direitos da Mulher, enfatizou a necessidade de punição dos autores das referidas infrações, que considerou um ultraje à sociedade brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:756cdfc46fd8574c9cf1c999c7274cc6d3ee4b932b2162d528049fc979eb714e
+size 497

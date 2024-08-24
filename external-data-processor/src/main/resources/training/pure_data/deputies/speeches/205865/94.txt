@@ -1,1 +1,3 @@
-Importância histórica da intervenção militar ocorrida em 31 de março de 1964, contra a implantação do comunismo no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d5a39d3df4dad537ab23e8c2460c558281cb60f3d541ed195367e25cea8a69b
+size 129

@@ -1,1 +1,3 @@
-Abrangência do Código de Defesa do Consumidor. Esclarecimento sobre os direitos dos pagantes de pedágios rodoviários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d198a27229516b9f2004f0c747d9a7d49c85a94f41c2f70bc9677f77524b393
+size 121

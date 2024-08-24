@@ -1,1 +1,3 @@
-O Deputado parabenizou o Parlamentar sergipano Icaro de Valmir pela condução da sessão. Além disso, criticou o Governo da Esquerda em Aracaju, lamentando o atraso da capital de Sergipe em relação a cidades como Maceió, Salvador e Recife. Por fim, exaltou o político Valmir de Francisquinho e a Direita sergipana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee6aa5acb49c71e3c6c9dca9dfade423ef77c23fd65b7ee39e8c79de0b066889
+size 320

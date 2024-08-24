@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado do Estado da Bahia pela recondução do orador à Câmara dos Deputados. Apoio à reeleição do Presidente Jair Bolsonaro. Criação de políticas públicas para a Região Nordeste. Elaboração de projeto de combate à pobreza com geração de emprego e renda. Empenho do Parlamentar na erradicação da indústria de multas rodoviárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19a4b15325e03aff28db8408cfc17c066114cbc8523bc453e2ec66633190d442
+size 368

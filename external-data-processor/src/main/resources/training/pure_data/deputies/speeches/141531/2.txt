@@ -1,1 +1,3 @@
-Elogio ao Governo do Estado de Minas Gerais pela adoção de normas da Convenção das Nações Unidas contra a corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac974671afa552c5bc815b4226cf4341f48002b031e9ed0bf9bcb9d1b57933d9
+size 124

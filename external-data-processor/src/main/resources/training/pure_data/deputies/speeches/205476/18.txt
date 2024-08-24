@@ -1,1 +1,3 @@
-Inadmissibilidade de fusão ou privatização do Banco do Nordeste do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7393881d824fc4a83d320ff924effb2d82473f01fe64b0d932140b8d6428fbc6
+size 77

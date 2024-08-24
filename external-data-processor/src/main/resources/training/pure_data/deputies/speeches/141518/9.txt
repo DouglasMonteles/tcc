@@ -1,1 +1,3 @@
-Intervenção do Ministério Público do Trabalho e da Justiça do Trabalho nos sindicatos dos trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:233227941c1de210a3d76c76685018892c3dcd3d9083a782c8027ec3c2dae712
+size 109

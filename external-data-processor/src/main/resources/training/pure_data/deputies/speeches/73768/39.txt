@@ -1,1 +1,3 @@
-Importância da recuperação do antigo aterro sanitário do Município de Toledo, Estado do Paraná, para o meio ambiente e a saúde pública. Ações do Prefeito José Carlos Schiavinato para a correta coleta, destinação e aproveitamento do lixo urbano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3222fe2ce518f8459beeca0d70bdbcb34a087e4bd50bd16bb01534911cdc2d11
+size 257

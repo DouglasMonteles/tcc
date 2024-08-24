@@ -1,1 +1,3 @@
-Instalação da primeira unidade frigorífica do grupo JBS no Município de Araguaína, Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25db8be23170c9b75099fbf47916b1623c9f4fd7e713ab98d89213cea41c6427
+size 108

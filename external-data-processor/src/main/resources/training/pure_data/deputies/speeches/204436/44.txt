@@ -1,1 +1,3 @@
-Pedido à Presidência de votação do Projeto de Lei nº 6.298, de 2019, sobre a alteração da Lei nº 11.340, de 2006, (Lei Maria da Penha), com vista à aplicação do Formulário Nacional de Risco e Proteção à Vida - FRIDA; e do Projeto de Lei nº  2.442, de 2020, relativo à alteração da Lei n° 13.979, de 2020, com vista ao estabelecimento do prazo de validade e à realização, por via eletrônica, de pedidos médicos de exames pré-natal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc6643dbbc2d42b1b498dbc42f0bc8c3dfbd32b2404d037388b0abc3d50c1bba
+size 456

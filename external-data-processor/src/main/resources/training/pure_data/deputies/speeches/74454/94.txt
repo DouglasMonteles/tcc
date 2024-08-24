@@ -1,1 +1,3 @@
-Artigo Lei da Ficha Limpa, 10 anos, de autoria do orador, publicado pelo jornal Diário do Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa9adf61cb0ffa705abc2fe816ae33822de6f77fc1518a2ac6ad38e745124154
+size 100

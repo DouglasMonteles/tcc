@@ -1,1 +1,3 @@
-O Deputado protestou contra a inclusão na pauta da Casa de requerimento de apreciação em regime de urgência de proposta sobre o Fundo de Combate e Erradicação da Pobreza. O orador esclareceu que a proposta não é boa porque divide a população.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86f7ca772431b45dca9f2e4af1987f55f861a0e0c58a3ba639d5f3b6fde4f323
+size 252

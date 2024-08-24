@@ -1,1 +1,3 @@
-Alcance social do Programa Bolsa Família. Apresentação à Medida Provisória nº 1.164, de 2023, de emendas sobre a isenção de juros, multas e encargos incidentes em empréstimos realizados pelo Programa Bolsa Família, e sobre a proibição de operações de crédito consignado por meio do benefício social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b75e0048cc6065f568f3f044219bfdaa72c684b892d667d2620a1768065094e
+size 315

@@ -1,1 +1,3 @@
-O Deputado compartilhou sua alegria em receber líderes políticos da região norte da Grande São Paulo no Congresso Nacional. Destacou a importância de manter uma conexão próxima com a população e a relevância deste espaço de decisão para o destino do país. Agradeceu aos colegas pela oportunidade de proporcionar essa experiência aos visitantes, esperando que saiam renovados e inspirados para promover mudanças em suas comunidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae0bf8581f1e34cb81680f134a0836d4ad3d44cfe6aba467597214f1eeab0592
+size 446

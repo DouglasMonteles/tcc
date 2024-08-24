@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 18 do Substitutivo apresentado ao Projeto de Lei nº 2.920, de 2023, sobre a instituição do Programa de Aquisição de Alimentos - PAA, e a alteração das Leis de nºs 12.512, de 2011, e 14.133, de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cea5179b9fd21d5da639ed065c2c95d66c4b801110b157e095138a43ec613503
+size 306

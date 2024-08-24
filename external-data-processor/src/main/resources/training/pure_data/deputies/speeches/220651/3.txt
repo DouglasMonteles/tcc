@@ -1,1 +1,3 @@
-A Deputada elogiou o Governador do Estado de São Paulo por adotar um programa de Governo que ela propôs durante seu mandato como Prefeita de Itapetininga. O programa busca ajudar jovens retirados de suas famílias pela Justiça e que acabam nas ruas após completarem 18 anos em abrigos, prevê a criação de repúblicas onde esses jovens podem estudar e trabalhar, incluindo a participação no programa Jovem Aprendiz até os 21 anos. A Deputada enfatizou a necessidade de expandir esse programa para todo o Brasil, destacando a importância de oferecer oportunidades aos jovens do país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8828d4d9ee2d254c9b14dae0ae34d8dd47041e41079fbfaf8d9e911b29c9ad4a
+size 593

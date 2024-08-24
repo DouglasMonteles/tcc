@@ -1,1 +1,3 @@
-Congratulações à Associação de Desenvolvimento Social Palácio sem Nome, pela realização de campeonato de futevôlei no Município de Guajará-Mirim, Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aecac8d11659fc5ddd9cf2bc1a99f692f512281dab18db522ea61d4274dd5e9
+size 177

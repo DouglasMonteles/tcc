@@ -1,1 +1,3 @@
-Saudação à Prefeita Municipal de Pato Bragado, Estado do Paraná, em visita à Casa. Inclusão na pauta da chamada PEC dos Vereadores. Elogio à Companhia de Saneamento do Paraná - SANEPAR pela implantação do programa de transformação do esgoto urbano em fertilizante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:908112eb8893f52c290f7f8f00a38ed775af80d07673f0102ba593852666a314
+size 276

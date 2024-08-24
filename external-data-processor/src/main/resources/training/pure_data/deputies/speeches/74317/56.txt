@@ -1,1 +1,3 @@
-Concessão aos Estados e Municípios menos favorecidos de prioridade na distribuição de recursos da exploração do petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f35dc61c7c6900b292473f2ee689354a806b7145793557ecbf9ed1465595bcf9
+size 147

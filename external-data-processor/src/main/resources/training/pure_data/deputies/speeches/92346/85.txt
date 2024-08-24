@@ -1,1 +1,3 @@
-Pedido à Deputada Erika Kokay de esclarecimento sobre pronunciamento a respeito dos fundos de pensão. Responsabilização da FUNAI pelo estímulo ao conflito entre fazendeiros e indígenas no Mato Grosso do Sul. Crítica à atuação do ex-Ministro da Justiça José Eduardo Cardozo em relação ao tema. Necessidade de intervenção do Governo Federal para a solução dos conflitos no campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d62d0bc0c08a976743dd130e83a3cacb22310dd10a6864516727283104f9df9
+size 395

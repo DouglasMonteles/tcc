@@ -1,1 +1,3 @@
-Protesto contra a indicação da ex-Presidente Dilma Rousseff para a presidência do Novo Banco de Desenvolvimento - NBD, o Banco BRICS, grupo formado pelo Brasil, Rússia, Índia, China e África do Sul. Descaso do Presidente da República com a população de baixa renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3908db41a8420051a637ca63c3fdfa641886e7d72bd3c320f8ae6b3cafc5ee3a
+size 274

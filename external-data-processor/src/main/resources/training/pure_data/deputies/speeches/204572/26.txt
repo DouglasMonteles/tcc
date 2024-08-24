@@ -1,1 +1,3 @@
-Repúdio às declarações do Ministro da Economia, Paulo Guedes, a respeito da Zona Franca de Manaus, durante entrevista concedida ao canal televisivo Globo News.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b349ebf7aa3c491a24af2b84dd55eb5f5fbf8b41d8689810ca53a340e23d72b
+size 163

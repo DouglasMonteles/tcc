@@ -1,1 +1,3 @@
-Balanço da atuação parlamentar do orador em prol das áreas de infraestrutura de transportes e educação do Estado de Goiás. Empenho na realização da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f68c15620b173eda9b55089ccf250751188a0bde88423180251bac9d4223a55
+size 175

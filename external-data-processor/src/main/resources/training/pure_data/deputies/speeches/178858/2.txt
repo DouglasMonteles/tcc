@@ -1,1 +1,3 @@
-Aprovação pela Comissão Externa destinada ao acompanhamento e fiscalização das obras de transposição do Rio São Francisco de requerimento para visita e fiscalização das Barragens de Paulo Afonso e de Sobradinho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbc9efa4d478273e83fe27969b48b6e1b44f35cb72503b7adf51fd60d790a8a0
+size 221

@@ -1,1 +1,3 @@
-Transcurso do 94º aniversário natalício do ex-Deputado Vasco Neto. Denominação da Ferrovia Leste-Oeste de Ferrovia Vasco Neto, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85d1b4b5dd0d4dd55c79b4dbe989afc57723eed6b3f0dedfe2a428e69747e30d
+size 151

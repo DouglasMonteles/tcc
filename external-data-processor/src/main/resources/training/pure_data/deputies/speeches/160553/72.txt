@@ -1,1 +1,3 @@
-Instalação da Subcomissão Especial destinada à avaliação de políticas públicas relacionadas às doenças originárias da pobreza. Adoção pelo Ministério a Saúde de nova tecnologia para diagnóstico da tuberculose.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da86ab36176788f85137a7e0ddecca1821d21fa4c1eebe12a4a479d61e25c084
+size 225

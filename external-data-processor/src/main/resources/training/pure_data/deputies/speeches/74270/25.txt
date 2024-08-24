@@ -1,1 +1,3 @@
-Convite à Sra. Regina Miki, Secretária nacional de Segurança Pública do Ministério da Justiça, para composição da Mesa Diretora dos trabalhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a6f8b38a41baa7f00a70ef654899d0acdeec08933665bc25e49d379dce9c6a2
+size 150

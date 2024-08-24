@@ -1,1 +1,3 @@
-Escalada de acidentes com jet ski no País. Apresentação do Projeto de Lei nº 3.389, de 2012, sobre a punição dos responsáveis por acidentes envolvendo jet ski e outras embarcações. Necessidade de implantação de campanhas educativas e de fiscalização na utilização de embarcações no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:083ea7088d5373e67eb6f8b2f7d81c33015c15db8f2bab6ad1e394de9bb8224d
+size 305

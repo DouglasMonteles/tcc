@@ -1,1 +1,3 @@
-Posicionamento do orador acerca de temas concernentes à reforma política. Apresentação de projeto de lei sobre a transferência para o Tribunal Superior Eleitoral da responsabilidade pelo estabelecimento dos limites de gastos nas campanhas eleitorais, em caso de omissão do Congresso Nacional. Anúncio de apresentação de proposta de emenda à Constituição sobre a adoção de lista preordenada e flexível de candidatos nas eleições legislativas. Convite à população maranhense para participação em audiência pública da Comissão Especial da Reforma Política na Assembleia Legislativa do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:311f1bd9041d5dfc217591d1467a4bcf3eb32622e89d74e5b7a2dd9509417f65
+size 628

@@ -1,1 +1,3 @@
-Importância para o País da descoberta de petróleo na camada pré-sal. Impacto sobre o desenvolvimento socioeconômico do Estado de São Paulo, decorrente da exploração do petróleo do pré-sal. Urgência do estabelecimento do novo marco regulatório da exploração petrolífera no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36900630d33dedf70aa8d28b139622081ec85bd26b3c9ec796a9e9938a5c9b2d
+size 294

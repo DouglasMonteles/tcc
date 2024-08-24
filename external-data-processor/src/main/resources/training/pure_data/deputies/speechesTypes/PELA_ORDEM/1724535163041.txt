@@ -1,1 +1,3 @@
-Importância da criação da Comissão Externa destinada ao apoio aos brasileiros residentes no Paraguai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26f2a0f2e958a6e45eb311f2f53fad002a282bf56dfcdd21406f7dd7a8d584c6
+size 105

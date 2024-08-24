@@ -1,1 +1,3 @@
-Expectativa de aprovação pela Casa da proposta de emenda à Constituição sobre concessão de imunidade tributária na produção e distribuição de CDs e DVDs de artistas nacionais, a chamada PEC da Música. Saudação aos ex-Deputados Frank Aguiar e Elismar Prado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af4846309775ca083b3830d0c014dd7819a0ff55249dba626b871613a4b159b0
+size 270

@@ -1,1 +1,3 @@
-Preocupação com o ritmo do aprimoramento da qualidade da educação no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d965fccc4381cf41bcef9bc3d8d607b333339eda026290f60608bbb133406740
+size 80

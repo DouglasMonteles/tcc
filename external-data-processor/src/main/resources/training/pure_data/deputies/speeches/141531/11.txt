@@ -1,1 +1,3 @@
-Implantação pelo Secretário de Estado de Meio Ambiente e Desenvolvimento Sustentável de Minas Gerais, Adriano Magalhães Chaves, da chamada economia verde a respeito da conciliação entre o desenvolvimento sustentável e a preservação ambiental. Excelência da atuação do Secretário Adriano Magalhães Chaves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e030931cc925d7e2bf33e3f6ffffce53f0ff28b2cb2f29bab7771573e0c45205
+size 319

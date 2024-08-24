@@ -1,1 +1,3 @@
-Agradecimento ao povo do Estado do Maranhão pela eleição da oradora. Principais bandeiras da atuação do Parlamentar na Casa. Excelência da gestão do Governador do Estado do Maranhão, Flávio Dino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd5dd4de4b17d57bbb98b1142608732fc857312a4b6b0ef22b3dc4420bea5c2d
+size 204

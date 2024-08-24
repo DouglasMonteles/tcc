@@ -1,1 +1,3 @@
-Alerta sobre os riscos da aprovação do Projeto de Lei n° 4.385, de 1994, a respeito das regras relativas ao comércio de medicamentos. Defesa da elaboração de subemenda aglutinativa à proposição. Transcurso do Dia Nacional do Samba. Saudações aos familiares do compositor Dorival Caymmi e aos sambistas do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29f438d31c826bcce316938d39ab4da3d4ff01b77bdd58519da3e32ea0d3db22
+size 332

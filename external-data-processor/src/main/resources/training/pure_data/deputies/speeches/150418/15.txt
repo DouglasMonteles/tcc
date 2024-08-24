@@ -1,1 +1,3 @@
-Comemoração do Dia do Professor. Transcurso do 20º aniversário de promulgação da Constituição do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ae0dde4ff563e2fd381070442cfbb9dfd1f470dd03c362445c4fe547ed95ff7
+size 121

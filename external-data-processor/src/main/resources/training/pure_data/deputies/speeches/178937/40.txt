@@ -1,1 +1,3 @@
-Registro de voto. Apoio da população do Rio de Janeiro à participação do Exército Brasileiro no combate à criminalidade no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6781862fd732809db62ad84561e8a2323707eff1e559f14e16dd97a4e37f48b
+size 137

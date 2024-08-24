@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista quanto ao não atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária à Medida Provisória nº 1.009, de 2020, sobre a prorrogação, no âmbito do Ministério da Educação, de contratos do Fundo Nacional de Desenvolvimento da Educação - FNDE; do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP; da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES; e da Agência Nacional de Saúde Suplementar - ANS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d3e12df8eb0e02dd35689256bd6af2054b0e40063be2aa06cac07cb82eb6b0d
+size 591

@@ -1,1 +1,3 @@
-Inauguração de unidade de abate de peixes da C. Vale Cooperativa Agroindustrial, no Estado do Paraná. Retomada do crescimento econômico brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f8cf0b582a61c01d08ba4812153d84de48796e28c8d57a33fa39397ae68c37b
+size 151

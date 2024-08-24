@@ -1,1 +1,3 @@
-Realização da 52ª Exposição Agropecuária de Londrina, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9afa790cceed5ab9b9010f1ff88a999930002af5ec8d948c1293b432db4dae9
+size 78

@@ -1,1 +1,3 @@
-Relevância da Proposta de Emenda à Constituição nº 23, de 2021, sobre a alteração da forma de pagamento de precatórios pela União. Conclamação aos Deputados para aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1208eaa428bf2e2037afa25ef6f694a2d1953ed0a8ac41da1711e5c17fd956d
+size 200

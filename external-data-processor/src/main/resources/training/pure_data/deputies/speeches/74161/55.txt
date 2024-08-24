@@ -1,1 +1,3 @@
-Formatura de acadêmicos do Curso de Engenharia da expansão da Universidade Federal de São João Del Rei, no Alto Paraopeba, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:baf2de3946e96434c5937178420690dea9f11ca2371db1caf8b18f5a1a15c759
+size 150

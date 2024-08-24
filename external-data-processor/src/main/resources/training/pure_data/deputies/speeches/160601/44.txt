@@ -1,1 +1,3 @@
-Solicitação à Presidência de interpelação da ex-Deputada Luciana Genro acerca de acusação da existência de Deputados envolvidos com o tráfico de drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eefab10fed155604c3dcc8f0059fde6906a38ee99c6429c5432f8608d3787b9
+size 162

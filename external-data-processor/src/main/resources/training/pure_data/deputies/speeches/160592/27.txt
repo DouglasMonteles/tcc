@@ -1,1 +1,3 @@
-Confiança na desoneração, pelo Governo Federal, da folha de pagamento da indústria nacional. Necessidade de adoção de medida para a geração de empregos nos setores de confecção e moveleiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09670aa9f94f73eed08e9bbd5d6b213de0e411e3d8bbdae9cb05d7e4b598e7a7
+size 199

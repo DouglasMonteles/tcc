@@ -1,1 +1,3 @@
-Referência a negociações em curso para votação do Projeto de Lei 13 de 2008-CN (Abre  ao Orçamento Fiscal da União, crédito suplementar em favor do Ministério do Esporte para reforço de dotações constantes da Lei Orçamentária vigente),com o objetivo de  custear despesas com a candidatura do Rio de Janeiro a sede dos Jogos Olímpicos de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd2fe79ec8b5e819d9fc3f1b29edcf6e6c4cdbffee843ede1f375929b11072ed
+size 357

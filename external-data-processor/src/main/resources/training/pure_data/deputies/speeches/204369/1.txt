@@ -1,1 +1,3 @@
-Transcurso dos 5 anos da Operação Lava Jato. Prisão de ex-Presidente da República envolvido em atos de corrupção. Acerto da eleição do Deputado Jair Bolsonaro para Presidente do Brasil. Compromisso do Presidente da República de combate à corrupção. Apoio ao projeto anticrime encaminhado à Casa pelo Ministro da Justiça e Segurança Pública, Sérgio Moro. Apoio à Operação Lava Jato, às ações de combate à corrução e à extinção do foro privilegiado. Transcurso do aniversário natalício do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:762d0ceb441a8a872db88b7060ee5a89d3d77fb2d59d38ccfdb3ee22150dc6a8
+size 544

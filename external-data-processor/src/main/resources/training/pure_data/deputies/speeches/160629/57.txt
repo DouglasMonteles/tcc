@@ -1,1 +1,3 @@
-Reiteração do apelo ao Ministério da Agricultura, Pecuária e Abastecimento de combate à praga cochonilha-do-carmim, responsável pela dizimação da palma forrageira na região semiárida nordestina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2687a6b4a58c730ea631844aac421f17ccdf74a3e0e509b2a3eb163808fc7bf4
+size 204

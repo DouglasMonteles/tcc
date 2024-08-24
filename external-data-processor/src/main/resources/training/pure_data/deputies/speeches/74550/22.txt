@@ -1,1 +1,3 @@
-Alteração procedida na redação do § 7º constante do art. 17, do  Projeto de Lei de Conversão da Medida Provisória  451 de 2008 (Altera a legislação tributária federal, e dá outras providências), que trata de  exclusão retroativa do  Simples Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1799a2046acc455feb2f401875003e3df406e9faa9cbc0a58b7eb86f15a7a8a6
+size 264

@@ -1,1 +1,3 @@
-Não recebimento do seguro-defeso por pescadores do Amazonas, em face de intransigência do Delegado Regional do Trabalho no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84703b3e75627963a9b635db2a40c7571bf0b9dbad6a4485bd43fdb099ba5cb2
+size 132

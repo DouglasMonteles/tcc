@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda nº 70, oferecida à Medida Provisória nº 886, de 2019, sobre a organização básica dos órgãos da Presidência da República e dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6589a9bc9323fb105ac1966c85183cf39c6ec6fb7dcdb0f790381e4c1734a6c4
+size 243

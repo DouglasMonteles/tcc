@@ -1,1 +1,3 @@
-Reportagem a respeito do Senador Jean Paul Prates, do PT, publicada pelo jornal Grande Ponto, de Natal, Estado do Rio Grande do Norte. Acerto da quebra do monopólio estatal do petróleo. Características da era Lula-Dilma. Dificuldades enfrentadas pelo Governo Jair Bolsonaro decorrentes da herança do governo petista. Existência de motivos para comemoração dos 8 meses da gestão do Presidente da República. Acerto das ações governamentais destinadas à recuperação da economia brasileira. Fracasso da gestão da Governadora do Estado do Rio Grande do Norte, Fátima Bezerra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d39f5c22798b18abf6040583cafae5f430d4694e7a2cd78ed00db0eb7fcdc598
+size 586

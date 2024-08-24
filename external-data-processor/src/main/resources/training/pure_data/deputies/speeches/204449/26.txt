@@ -1,1 +1,3 @@
-Repúdio ao discurso proferido no plenário por Deputado do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:987a3e6933b108f7ad7aeab5b0c0d0e4c8e76ed4ee54be899a3edca546db755e
+size 78

@@ -1,1 +1,3 @@
-Defesa da colocação em votação do Requerimento de regime de urgência para votação  do veto parcial ao Projeto de Lei 2.565 de 2011, relativo à distribuição de royalties de petróleo. Críticas ao comportamento de parlamentares do Estado do Rio de Janeiro de tentar obstruir a votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:797ab6321a2ac8bf380955b8d0303ee421648cfa0f806441fd7ffc6e374c8a66
+size 296

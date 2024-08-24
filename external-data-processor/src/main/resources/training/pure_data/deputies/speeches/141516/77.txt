@@ -1,1 +1,3 @@
-Posicionamento contrário da Minoria Parlamentar ao  art. 2º do Projeto de Lei de Conversão da Medida Provisória 511 de 2010 (Dispõe sobre medidas para assegurar a sustentabilidade econômico-financeira do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, sobre autorização para garantia do financiamento do Trem de Alta Velocidade - TAV, no trecho entre os Municípios do Rio de Janeiro - RJ e Campinas - SP, e dá outras providências), que autoriza a União a criar empresa pública denominada Empresa de Transporte Ferroviário de Alta Velocidade - ETAV, vinculada ao Ministério dos Transportes, com prazo de duração indeterminado, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d70492f7300ffab327e323250535c02d0a753161ead3628e8ace736237443bb7
+size 672

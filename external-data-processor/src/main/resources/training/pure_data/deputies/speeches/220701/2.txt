@@ -1,1 +1,3 @@
-Presença, na Câmara dos Deputados, de correligionários do orador envolvidos em ações de proteção animal no Município de Fazenda Rio Grande, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58389fb24138e506cb45088388c76eb12160f23a189c2da59dcb7e49923916d8
+size 166

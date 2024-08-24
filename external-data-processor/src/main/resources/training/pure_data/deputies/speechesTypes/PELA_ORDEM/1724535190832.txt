@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 1.444, de 2020, sobre a alteração das Leis de nºs 13.979 e13.982, de 2020, com vista ao estabelecimento de medidas excepcionais de proteção à mulher e seus dependentes, em situação de violência doméstica e familiar, durante a emergência de saúde pública decorrente da pandemia de coronavírus. Divulgação, por Deputados, de fake news a respeito do conteúdo da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed8a957d17be02354808f959d88060623d12f0860ae8dec1af8c54e279c1c6a7
+size 485

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional dos Povos Indígenas. Compromisso de atuação parlamentar em defesa dos povos originários. Resgate dos Jogos dos Povos Indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81f9559d362c7d0ff98fc3b07f92a53f90cab5f2b58e47162df463d0eb22b0f6
+size 164

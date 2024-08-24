@@ -1,1 +1,3 @@
-Realização de encontro pela Confederação Nacional de Municípios - CNM, em Brasília, Distrito Federal, destinado ao debate sobre o impacto da reforma tributária nos Municípios brasileiros e sobre a crise financeira de 51% das municipalidades do País em face da queda da receita. Impacto da não liberação de recursos de emendas parlamentares pelo Governo Federal no equilíbrio financeiro de Municípios. Congratulações ao Presidente da CNM, Paulo Ziulkoski, pela mobilização de Prefeito Municipais para o debate de temas relevantes. Necessidade de debate pela Casa do pacto federativo e da destinação de mais recursos aos Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:984ac2875247ed6adee72f5cce710e563ddcdb22720d931a94487ecc302ebbd6
+size 663

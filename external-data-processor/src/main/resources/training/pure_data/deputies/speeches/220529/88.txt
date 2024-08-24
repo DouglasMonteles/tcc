@@ -1,1 +1,3 @@
-Realização, pelo Governador Renato Casagrande, de investimentos em obras impactantes em Municípios do Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e34ba2713d50469d3b561aa2aa189fcef736c0f83830c8601cd686021f70fa5
+size 131

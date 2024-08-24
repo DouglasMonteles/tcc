@@ -1,1 +1,3 @@
-Urgente necessidade de adoção de medidas para recuperação da atividade cacaueira no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9342f0fd1c4f0e006875f2cf86011070cf70607845120452ac5be4412854cbb3
+size 104

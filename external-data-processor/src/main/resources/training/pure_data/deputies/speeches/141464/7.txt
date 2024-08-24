@@ -1,1 +1,3 @@
-Recuperação do poder de compra do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f8910cb27e3ac5afc96e8f5f354da2694820a73051ebfd6229a27133c59a947
+size 53

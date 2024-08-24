@@ -1,1 +1,3 @@
-Apoio do PSDB à extinção do 14º e do 15º salários concedidos aos Parlamentares. Congratulações à Presidência da Casa pela inclusão da matéria na pauta. Posicionamento unânime do Colégio de Líderes a favor da proposta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30f4fa228e2b5c745cba6cb1c297d7bfe39f4b1e41d112496c639afc6025e8b8
+size 232

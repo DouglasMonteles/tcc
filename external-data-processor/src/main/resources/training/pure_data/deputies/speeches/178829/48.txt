@@ -1,1 +1,3 @@
-Recebimento de informação sobre o não recolhimento a presídio de cabo da Ronda Ostensiva com Apoio de Motocicleta - ROCAM da Polícia Militar do Estado de São Paulo em face de ação em sua legítima defesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19cef0c909a5e5c45630b476fbf1de3e33f7dd544190e09a32f40eafa22f1664
+size 212

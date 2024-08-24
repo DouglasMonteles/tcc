@@ -1,1 +1,3 @@
-Encaminhamento da votação da expressão  em condições financeiras e contratuais a serem definidas pelo Ministro da Fazenda, constante do art. 1º da  Medida Provisória  414 de 2008 (Constitui fonte de recursos adicional para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômico e Social - BNDES), objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58f1cf5208974443fcf8d5e3a5a88d92787ba10d7034ad3a3791ce4f587c51da
+size 347

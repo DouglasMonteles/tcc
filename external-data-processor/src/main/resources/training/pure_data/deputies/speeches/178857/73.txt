@@ -1,1 +1,3 @@
-Cumprimento regimental dos trabalhos no âmbito da Comissão Especial Mista da Medida Provisória nº 723, de 2016, sobre estabelecimento de permissão para prorrogação do Programa Mais Médicos por 3 anos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a165b39ff45e9a09bbc185b5d6c7ebae5007e4d90ee64e5809e60c1aa258e6b
+size 208

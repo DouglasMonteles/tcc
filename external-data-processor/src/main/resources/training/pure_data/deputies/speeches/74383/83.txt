@@ -1,1 +1,3 @@
-Resposta ao Deputado Moroni Torgan. Saudação ao Presidente e a Vereadores da Câmara Municipal de Santos, Estado de São Paulo, presentes na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf678e853702b7b26a7fe305884c1b89e98823591b09743d036db6ec5ef8d84f
+size 148

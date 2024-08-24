@@ -1,1 +1,3 @@
-Repúdio às declarações da Juíza de Direito Deborah Ciocci em defesa do direito de casais homossexuais à concepção de filhos por reprodução assistida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aab9a1875e2db64066ede29e2811e07fa6650667a197d948c405442530f556ec
+size 159

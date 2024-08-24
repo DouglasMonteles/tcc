@@ -1,1 +1,3 @@
-Autorização pelo PPS para apoio do orador a emenda aglutinativa relativa à redução da maioridade penal para 16 anos de idade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:675857c10ad3e332e8dd1688a262bf5c94200336ac21f7514876dbac6082897d
+size 130

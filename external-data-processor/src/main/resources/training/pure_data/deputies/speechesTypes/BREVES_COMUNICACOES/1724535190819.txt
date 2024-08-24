@@ -1,1 +1,3 @@
-A Deputada criticou a falta de alinhamento entre o Ministério do Planejamento e o Ministro da Economia, destacando a disparada do dólar e a queda na bolsa. Defendeu a necessidade de entrar na reforma administrativa para cortar gastos, especialmente reduzindo o número de Ministérios. Repudiou a declaração capacitista de uma vereadora de Arcoverde, Pernambuco, sobre pessoas com deficiência, enfatizando a importância da inclusão social. Por fim, manifestou desacordo com um projeto de lei que propõe obrigar a Netflix a destinar parte de sua receita a filmes de esquerda, argumentando contra a intervenção do Governo na iniciativa privada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ab1d28dcdc135a3f04a469393efa3931f78a06e10addb9013412543d5b7fc3e
+size 652

@@ -1,1 +1,3 @@
-Elogio ao Senador Ricardo Ferraço, Relator da Medida Provisória nº 755, de 2016. Defesa de aprovação da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d670570c80aa3b5d93aadd53abc4ea65954a73afa524d73cc174fefa74dfdf4
+size 122

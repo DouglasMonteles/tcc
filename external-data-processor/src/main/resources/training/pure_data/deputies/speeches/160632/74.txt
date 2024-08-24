@@ -1,1 +1,3 @@
-Necessidade de regulamentação da lei de criação da Agência Nacional de Assistência Técnica e Extensão Rural - ANATER.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f193cf350d41b7d4600a788c5c82e024f6010b19b3058c86f577b5fb1be629a
+size 125

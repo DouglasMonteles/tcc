@@ -1,1 +1,3 @@
-Apoio à ratificação, pela Câmara dos Deputados,  das Convenções nºs 151 e 158, da Organização Internacional do Trabalho - OIT, sobre a regulamentação da negociação coletiva no serviço público. Viabilidade da redução da jornada de trabalho no País. Participação do orador em abaixo-assinado promovido pelo movimento sindical no Município de Jundiaí, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8b34f8c92cef6fc7a0d755557629f1b3cd63063bafbc1e9393e68dd3c05b46c
+size 392

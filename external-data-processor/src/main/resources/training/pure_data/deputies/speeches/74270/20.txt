@@ -1,1 +1,3 @@
-Presença no plenário de alunos do Serviço Social da Indústria - SESI da região administrativa do Gama, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03d3fd9a39d3d86598a1959ac22b89165e3ef32717c3a92ee44f8d539cc0f861
+size 125

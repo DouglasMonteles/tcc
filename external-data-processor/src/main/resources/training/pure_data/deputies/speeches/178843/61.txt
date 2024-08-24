@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Jair Bolsonaro e ao Ministro do Turismo, Gilson Machado Neto, pela edição da Medida Provisória nº 1.044, de 2021, relativa à abertura de crédito extraordinário em favor do fomento do setor de turismo. Solicitação aos Líderes partidários de imediata votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f613cae2e04e9a45c8e910d659d362ca7c383a2418854b9c82cbfa7000db8b94
+size 310

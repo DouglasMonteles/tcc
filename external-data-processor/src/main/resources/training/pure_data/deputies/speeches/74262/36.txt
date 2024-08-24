@@ -1,1 +1,3 @@
-Razões da decisão do PSDB de não votação da Medida Provisória 595, de 2012, sobre a modernização da infraestrutura portuária brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:583486fbf11b73de3ef90830391d32ec80550199c9d240db1323836909e72dea
+size 145

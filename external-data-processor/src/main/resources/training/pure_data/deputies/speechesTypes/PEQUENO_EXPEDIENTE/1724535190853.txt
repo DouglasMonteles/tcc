@@ -1,1 +1,3 @@
-Empenho dos Parlamentares da Amazônia no reexame, pelas autoridades competentes, da redução de incentivos fiscais concedidos à Zona Franca de Manaus, no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8608e018c35a10866b9424ccebf42b39fe3a3ef5bff8b67dfd90f88001c35ce5
+size 176

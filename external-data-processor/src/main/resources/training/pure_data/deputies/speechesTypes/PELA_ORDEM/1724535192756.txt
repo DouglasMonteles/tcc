@@ -1,1 +1,3 @@
-Resultados da Pesquisa Industrial Mensal, do Instituto Brasileiro de Geografia e Estatística - IBGE. Entrevista concedida a jornalistas estrangeiros pelo Ministro das Cidades, Márcio Fortes, a respeito da execução do Programa de Aceleração do Crescimento - PAC e do Programa Minha Casa, Minha Vida, lançados pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88b1652d3c019276f60270a18c6329381109f83d5869f2dbd7fafa9931ad402e
+size 336

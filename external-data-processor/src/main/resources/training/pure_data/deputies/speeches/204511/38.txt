@@ -1,1 +1,3 @@
-Urgente retomada do pagamento do auxílio emergencial a famílias e trabalhadores atingidos pela epidemia de coronavírus. Prejuízos causados aos comerciantes pela decretação de lockdown  em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01e67eb572903ca95c13739cfe58266b9677cf381737d6e0dc39560e6a975fe1
+size 227

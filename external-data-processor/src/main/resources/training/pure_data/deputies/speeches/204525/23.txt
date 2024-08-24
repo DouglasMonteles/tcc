@@ -1,1 +1,3 @@
-Agradecimento aos Parlamentares pelo apoio à criação da Frente Parlamentar dos Portos Nacionais. Compromisso da oradora com a defesa dos interesses da população da Baixada Santista e do Porto de Santos. Assunção do cargo de Ministro dos Portos e Aeroportos pelo ex-Governador do Estado de São Paulo, Márcio França.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a88ca8382b2ddb68f899807b301947ce47975e7b7e62ee96c82dd9378d7e918d
+size 324

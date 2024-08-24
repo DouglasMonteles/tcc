@@ -1,1 +1,3 @@
-Resultados positivos da aprovação pela Casa de proposta sobre destinação de percentual de receita de jogo lotérico ao futebol feminino. Conveniência de extensão do benefício às categorias Sub-16 e Sub-17.
+version https://git-lfs.github.com/spec/v1
+oid sha256:313f3845f2638d093460d19d49703393dcf8f5841eec2fca90e490e1542d6751
+size 213

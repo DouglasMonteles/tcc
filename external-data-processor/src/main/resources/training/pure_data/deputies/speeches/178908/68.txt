@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de votação nominal do requerimento de retirada de pauta do Projeto de Lei nº 4.500-A, de 2001, relativo a alterações na Lei de Execução Penal quanto ao exame criminológico e de progressão do regime de execução das penas privativas de liberdade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:803684a061b380383fb5bb0bd9b98828a417808228a897c78223ec96905916ca
+size 310

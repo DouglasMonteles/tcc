@@ -1,1 +1,3 @@
-Repúdio à declaração do Ministro dos Direitos Humanos e Cidadania, Sílvio Almeida, favorável à descriminalização das drogas para redução da população carcerária. Redução dos índices de violência e homicídio em El Salvador, na gestão do Presidente Nayib Bukele, em decorrência da política de encarceramento de criminosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a2ee3c37b0bd35e4df0061b77e209a49784a22ecd53a20cf708455cf071326d
+size 342

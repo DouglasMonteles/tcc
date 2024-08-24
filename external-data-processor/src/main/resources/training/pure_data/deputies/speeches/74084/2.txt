@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Necessidade de implantação de políticas públicas de combate à violência e preconceitos contra a mulher. Solidariedade à universitária Patrícia Linhares, diante de discriminação praticada por seus colegas de faculdade em face da sua idade. Apresentação do Projeto de Lei nº 723, de 2023, sobre a instituição do Dia Nacional de Combate ao Etarismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b5841924b3fd5f2626f4884506ed741931399c9b456efa7bea00b9da87af03a
+size 405

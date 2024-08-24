@@ -1,1 +1,3 @@
-Congratulações aos organizadores da Conferência Nacional de Saúde, realizada em Brasília, Distrito Federal. Aplausos à Presidenta Dilma Rousseff e ao Ministro da Saúde, Alexandre Padilha, pelos elevados investimentos realizados no setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4cd84e9af5e8b0048d6e965e5bacb0dd196bd53382e91ff66ad439f3139d563
+size 244

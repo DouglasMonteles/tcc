@@ -1,1 +1,3 @@
-Repúdio à articulação do Senador Aécio Neves junto aos Governadores dos Estados de São Paulo, Paraná e Minas Gerais contra a anunciada repactuação, pelo Governo Federal, de contratos com empresas do setor elétrico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e134471bcdd4268481d49efe378ed82064faf1ed53409f5a50b2c76149efa0c5
+size 224

@@ -1,1 +1,3 @@
-Contestação ao pronunciamento do Deputado Henrique Oliveira contra o Governador do Estado do Ceará, Cid Gomes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9432c32050516e1954e9321b53e16e615a615ef34fdad206552bbc93c740bbd4
+size 113

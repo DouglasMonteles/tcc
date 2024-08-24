@@ -1,1 +1,3 @@
-Ações do Governador Flávio Dino para a melhoria da transparência na gestão do Governo do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:747fc6bddf6dcf2723f5213e57214bd36b8ad93e817acda361f2e3944f0aeac0
+size 114

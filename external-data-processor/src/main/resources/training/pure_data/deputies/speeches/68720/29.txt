@@ -1,1 +1,3 @@
-Apoio à mobilização nacional dos trabalhadores da educação. Realização da Marcha das Margaridas, em Brasília, Distrito Federal. Participação, no evento, de caravana do Município de Nossa Senhora do Socorro, Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45dd11a22d02494660c3cd1f83bc20913bf3e83a2145238517c84607df5800be
+size 236

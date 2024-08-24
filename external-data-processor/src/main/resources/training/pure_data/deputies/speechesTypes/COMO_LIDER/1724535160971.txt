@@ -1,1 +1,3 @@
-Defesa do parecer do Relator, Deputado Laercio Oliveira, apresentado ao Substitutivo do Senado Federal ao Projeto de Lei nº 4.302, de 1998, que dispõe sobre o trabalho temporário nas empresas urbanas. Concordância com acordo proposto pelo Líder do PT, Deputado Carlos Zarattini, e o Líder da Minoria, Deputado José Guimarães, de retirada da obstrução em contrapartida a votação nominal da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d9b8c1b50f96bd8fc095040011de1809252f7dd0b100a23653ebc733b42709c
+size 410

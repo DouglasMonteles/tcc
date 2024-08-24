@@ -1,1 +1,3 @@
-Comemoração do 186º aniversário de emancipação político-administrativa do Município de Feira de Santana, no Estado da Bahia. Transcurso do aniversário de fundação da Igreja Evangélica Assembleia de Deus no Brasil. Contrariedade à privatização da Empresa Brasileira de Correios e Telégrafos - ECT e de poços e unidades da empresa Petróleo Brasileiro S/A - PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21a605b9df978321ad7c94b40044cfc724a9989c8f3ad1c6f9980ecafa62cf98
+size 383

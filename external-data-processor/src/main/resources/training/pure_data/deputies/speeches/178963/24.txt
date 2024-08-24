@@ -1,1 +1,3 @@
-Presença na Casa do Deputado Estadual Sérgio Turra, do Rio Grande do Sul. Consonância entre o posicionamento do PP favorável ao impeachment da Presidente da República, Dilma Rousseff, e a atuação da bancada do partido na Assembleia Legislativa do Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9b5415cd16eca1f3dfd840cfb4e458d2bc8d9c45e967d2168863be2a51c7d6f
+size 282

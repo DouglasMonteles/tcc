@@ -1,1 +1,3 @@
-Realização de manifestações de estudantes em Capitais brasileiras. Impasses gerados pela proibição da pulverização aérea de agrotóxicos em lavouras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:255a5fa70277290859000579da271ac6905ea149fe8bc5ebdd3ecd2c8d95b3e1
+size 158

@@ -1,1 +1,3 @@
-Transcurso do 153º aniversário de emancipação político-administrativa do Município de Passo Fundo, Estado do Rio Grande do Sul. Inclusão da municipalidade entre as 100 melhores cidades para a realização de carreira profissional, no ranking da revista Você S/A.  Comemoração do 79º e do 51º aniversários de criação, respectivamente, do Instituto de Previdência do Estado do Rio Grande do Sul - IPE e do Sindicato das Empresas de Transporte de Cargas e Logística do Estado do Rio Grande do Sul - SETCERGS. Realização do 2º Encontro de Segurança no Trânsito do Mercado Comum do Sul - MERCOSUL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e8768883baf0d351a7827041cb064a53b5e35b1553719e7f13b1ad94679446
+size 614

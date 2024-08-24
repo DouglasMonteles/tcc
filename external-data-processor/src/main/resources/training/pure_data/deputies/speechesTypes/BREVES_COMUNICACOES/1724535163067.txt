@@ -1,1 +1,3 @@
-Atropelamento proposital de cão adestrado em praia cearense.  Defesa da adoção de medidas enérgicas de proteção aos animais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10a350f1de496692e232759d5472f24d9624d0ab02727792c972579332effaa1
+size 130

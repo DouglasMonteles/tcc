@@ -1,1 +1,3 @@
-Transcurso do 25º aniversário de criação da Comissão de Direitos Humanos e Minorias da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb3eb4387acef2f30b25b688a7cf76554ed4c9add8871927dfef43757267781b
+size 114

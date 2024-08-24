@@ -1,1 +1,3 @@
-Aspectos negativos do projeto de construção do Trem de Alta Velocidade - TAV, o chamado trem-bala. Açodamento do Governo Federal na aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3fb2f93546fe41721face50a760252ce2da2666fe691c0c1a53f117f2f27175
+size 159

@@ -1,1 +1,3 @@
-O Deputado celebrou o 90º aniversário da cidade de Goiânia, destacando o espírito empreendedor da população e o progresso da cidade ao longo dessas nove décadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec17eb0ee7de56caba6789044d11b27521101150622d63571d5f2000f6ccebe3
+size 168

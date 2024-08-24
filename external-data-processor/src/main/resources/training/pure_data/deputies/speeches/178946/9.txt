@@ -1,1 +1,3 @@
-Apelo aos Deputados de aprovação do requerimento de destaque sobre a retirada do setor de confecções do texto original da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c8609bda77f9cd9fe58c2dadc556eb017cda19f1fa936b4f0ab43d4160423be
+size 139

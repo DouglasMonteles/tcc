@@ -1,1 +1,3 @@
-Protesto contra a suspensão do Mecanismo Nacional de Prevenção e Combate à Tortura, pela Ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8c04169e0ead4c853b854254533e18e6e443f63aacb602f29c3eefc45d70bac
+size 163

@@ -1,1 +1,3 @@
-Realização pela Casa de sessão solene em homenagem à memória do pesquisador e geógrafo Milton Santos. Eleição do agrônomo José Graziano da Silva para o cargo de Diretor-Geral da Organização das Nações Unidas para Agricultura e Alimentação - FAO. Congratulações à Presidenta da Federação Nacional dos Trabalhadores Domésticos, Creuza de Oliveira, pela inclusão de direitos fundamentais da categoria na Convenção 102 da Organização Internacional do Trabalho - OIT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dccd555fcab53ee545a5769f8463da64f19d824a77a1032c5d915eeb82df1452
+size 489

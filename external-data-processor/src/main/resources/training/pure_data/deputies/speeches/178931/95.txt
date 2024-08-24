@@ -1,1 +1,3 @@
-Transcurso do 324º aniversário de fundação de Curitiba, Capital do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a61a518df4ad7c5ff093f8d5c7c811b5d8bb88e150b2e41375651a31845c4bbe
+size 89

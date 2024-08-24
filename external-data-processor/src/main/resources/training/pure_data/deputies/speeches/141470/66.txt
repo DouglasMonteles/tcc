@@ -1,1 +1,3 @@
-Condicionamento do acolhimento da Emenda 13 à  Medida Provisória 452 de 2008 (Dá nova redação à Lei 11.887 de 2008, que cria o Fundo Soberano do Brasil – FSB, e à Lei 11.314 de 2006, que autoriza o Departamento Nacional de Infraestrutura de Transportes – DNIT a executar obras nas rodovias transferidas a entes da Federação, e dá outras providências), à anuência dos Líderes partidários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e78f2c9e04a01e63bc7a1228ccb7ae074915fd932992138bb1004a033f3ccdd
+size 406

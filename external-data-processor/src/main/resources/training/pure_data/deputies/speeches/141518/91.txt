@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário e ao Deputado Rui Falcão sobre o teor da Emenda de Redação nº 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e03d39ed98a9152298709a1f5495e804882e9bef34497e872dc7dda873fbe339
+size 96

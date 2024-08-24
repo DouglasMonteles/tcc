@@ -1,1 +1,3 @@
-Defesa de extensão de incentivos fiscais constantes na Medida Provisória 512 de 2010,   à área mineira de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65277d254d80c905f96e97efef24030b35ef7b0dbc20415477b91265f4fa7ed0
+size 181

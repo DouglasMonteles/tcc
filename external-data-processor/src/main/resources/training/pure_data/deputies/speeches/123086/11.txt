@@ -1,1 +1,3 @@
-Êxito do PSB nas eleições municipais no Estado do Piauí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29b14c74c0a4231703c13c929f83840824f5845f1c3fca0691e9aef8505d691d
+size 60

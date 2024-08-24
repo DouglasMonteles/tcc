@@ -1,1 +1,3 @@
-Reassunção do mandato parlamentar pelo orador. Transcurso do Dia do Trabalho e do Dia Nacional do Diaconato Quadrangular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4fb270ced8748ebdb51f2ef548192f77a2592d37ae3f3163ac7b230626630c9
+size 123

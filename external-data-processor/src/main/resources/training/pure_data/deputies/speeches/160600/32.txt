@@ -1,1 +1,3 @@
-Posicionamento da base governista e do PMDB favorável à votação do  Projeto de Decreto Legislativo 47 de 2011  em votação nominal por força de verificação de votação .
+version https://git-lfs.github.com/spec/v1
+oid sha256:613d0443bbf5ceb6c28cecaf5f2a47a6240aa97ffda3255b455bee2d417c9e38
+size 178

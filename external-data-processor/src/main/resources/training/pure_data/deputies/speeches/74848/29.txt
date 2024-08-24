@@ -1,1 +1,3 @@
-Indignação da oradora com a tragédia ocorrida com bonde de passageiros do Bairro de Santa Teresa, no Rio de Janeiro, Estado do Rio de Janeiro. Defesa da municipalização do sistema de bondes na Capital fluminense. Realização de ato público na estação carioca, no ensejo do transcurso do 115º aniversário de instalação do bondinho de Santa Teresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e31f2f5e709e0066cafd10da78a7f198303dc73f7bca6a55eb76558f3a5bc0e8
+size 359

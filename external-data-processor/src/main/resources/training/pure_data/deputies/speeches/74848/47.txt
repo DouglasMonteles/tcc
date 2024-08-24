@@ -1,1 +1,3 @@
-Congratulações ao Presidente Marco Maia e aos Líderes partidários da Casa pela votação da chamada PEC da Música.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fc6cada8e7f054ef884f846872f1f61a9d0c2db27acf33eef88abfa849dab84
+size 119

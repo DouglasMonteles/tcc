@@ -1,1 +1,3 @@
-Protesto contra a determinação a pequenos pecuaristas acrianos, pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, de retirada de seus rebanhos de propriedades rurais embargadas pelo órgão. Encaminhamento à Ministra do Meio Ambiente e Mudança do Clima, Marina Silva, de requerimento de indicação para prorrogação de fiscalizações e imediata paralisação de embargos impostos pelo IBAMA. Apresentação, à Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, de requerimento de realização, pela Assembleia Legislativa do Estado do Acre, de audiência pública para debate do tema junto à população local.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95b61a30d6130f64bdfbca0ed1f700b0aab69433524d31d1e01199fdec969e4a
+size 682

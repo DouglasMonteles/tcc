@@ -1,1 +1,3 @@
-Anúncio de criação da Gerência Nacional da Habitação Rural pela Caixa Econômica Federal. Defesa de ampliação da construção de habitações rurais e de melhoria da qualidade de vida do homem do campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e4a43f929000e69dc60bfaa0ca4a445362003f27aeff05eb35c38238c102448
+size 210

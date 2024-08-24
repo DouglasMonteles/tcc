@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à aprovação da proposta governamental de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82c724a27f29e94b0caac7e8061940f21b44b2a4f5a460d2014b9b3e34618be9
+size 100

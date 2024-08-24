@@ -1,1 +1,3 @@
-Sessão Solene em homenagem à Equipe Brasileira que participou dos V Jogos Mundiais Militares. (As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a5ec5a22f421bf33bb0d758d7eecfb31f484dc2f49e18097ae6637885931dd7
+size 229

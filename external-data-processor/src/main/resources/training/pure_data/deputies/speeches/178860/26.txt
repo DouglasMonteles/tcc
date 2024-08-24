@@ -1,1 +1,3 @@
-Apreensão com o anúncio de fechamento da Fábrica de Fertilizantes Nitrogenados - FAFEN do Polo Petroquímico de Camaçari e de Sergipe. Solicitação ao Presidente da empresa Petróleo Brasileiro S/A - PETROBRAS de reexame da decisão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4057761eb269ef04d70441de0576ad67ce8ba86da05b06f4655bf3933add4dc2
+size 238

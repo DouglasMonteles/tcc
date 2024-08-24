@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 5.638, de 2020, sobre a criação do Programa Emergencial de Retomada do Setor de Eventos - PERSE. Congratulações à Associação Brasileira de Promotores de Eventos - ABRAPE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83462ea1171cd427cdadc9bf1918b9484eb4375e8ad77b079ae056b8d7e4a0c3
+size 210

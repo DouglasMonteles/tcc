@@ -1,1 +1,3 @@
-Defesa de criação pela Casa de CPI destinada à investigação de irregularidades com relação ao Seguro DPVAT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ecedb4a6b086459b6df5d22e985c1882fbbd3ed2fc4474c22378a78b1d87465
+size 114

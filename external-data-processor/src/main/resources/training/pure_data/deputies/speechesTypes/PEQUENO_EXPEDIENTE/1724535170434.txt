@@ -1,1 +1,3 @@
-Realização do XII Seminário Nordestino de Pecuária - PECNORDESTE 2008, em Fortaleza, Estado do Ceará. Lançamento do Plano Agrícola e Pecuário 2007/2008 pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43c08b39dd0c3c52efbc6ba46a9027796f724af080df852ec98604a35225ae18
+size 181

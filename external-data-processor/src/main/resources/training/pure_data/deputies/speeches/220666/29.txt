@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a prisão injusta de Silvinei Vasques, ex-Diretor-Geral da Polícia Rodoviária Federal. Destacou a dedicação de Vasques à segurança das estradas e ressaltou que ele é mais um dos presos políticos do país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb19a70aed030cd1c3b2a05171714844d8aa211c1d8f076a3ad91a09bab4d875
+size 251

@@ -1,1 +1,3 @@
-Transcurso do 189º aniversário de fundação do Município de Limeira, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fd3069f0c046161615107e15b7ad2c63d3b5771238f3496d661dc497370875a
+size 94

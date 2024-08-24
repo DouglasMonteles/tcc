@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda nº 36, apresentada ao Projeto de Lei nº 1.292, de 1995, sobre alteração da Lei nº 8.666, de 1993, a respeito da instituição de normas para licitações e contratos da administração pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a81ae61a72c67c78b055305fb7c0f1ea9ad13307a74f67c97fa23c1362a505eb
+size 292

@@ -1,1 +1,3 @@
-Natureza histórica da aprovação da Proposta de Emenda à Constituição nº 15, de 2015, sobre a transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica pública. Agradecimento à ex-Deputada Raquel Muniz e à Deputada Professora Dorinha Seabra Rezende, respectivamente, autora e relatora da proposição. Atuação da oradora na Comissão Especial do FUNDEB e na Frente Parlamentar Mista da Primeira Infância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03bc7ff26b2aab39bd70adcb3dbbbe5c4e01d8129acabd13c19e21fcf3af9cb1
+size 565

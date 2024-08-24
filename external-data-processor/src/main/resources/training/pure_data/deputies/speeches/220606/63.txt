@@ -1,1 +1,3 @@
-Acerto da declaração de inelegibilidade do ex-Presidente Jair Bolsonaro. Cometimento de infrações criminais pelo ex-Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08e65d71229858df02af623f06c8d6696fcb0de9a684f47752c2f6d71923b734
+size 145

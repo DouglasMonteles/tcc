@@ -1,1 +1,3 @@
-Congratulações à Agência Nacional de Vigilância Sanitária - ANVISA pela autorização do registro, importação e comercialização de medicamentos à base de canabidiol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09143278d710b43f94d5d98e6972c63a37b887aeaca86ffa13b34a4635a9842f
+size 176

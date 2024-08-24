@@ -1,1 +1,3 @@
-Apelo ao Senado Federal no sentido da aprovação do Projeto de Lei nº 42, de 2007, sobre a fixação do valor do salário mínimo. Defesa de redução dos impostos incidentes sobre os produtos da cesta básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39a9c1965d4e5a1f3a45ccb33fc59145ee67c99aa31ab9d386724e8db70313d0
+size 212

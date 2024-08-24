@@ -1,1 +1,3 @@
-Incompreensão dos Parlamentares com relação ao contingenciamento de recursos orçamentários destinados à educação. Honradez do Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1c368b7c2b07b518fa503cd8fb98a631c75d17c8eaaa9608fbb1b980d829659
+size 191

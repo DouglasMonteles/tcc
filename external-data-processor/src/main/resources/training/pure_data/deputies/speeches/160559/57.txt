@@ -1,1 +1,3 @@
-Importância de aprovação pela Casa, em segundo turno,  da Proposta de Emenda à Constituição nº 207, de 2012, acerca da garantia às Defensorias Públicas da União e do Distrito Federal de autonomia funcional e administrativa e da iniciativa de sua proposta orçamentária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97b29cc93732a58e9476df0b14af217da0c923c86893991dc14001d51671a7fe
+size 280

@@ -1,1 +1,3 @@
-Expectativa quanto ao apoio do PSD ao Projeto de Lei Complementar nº 178, de 2021, sobre a instituição do Estatuto Nacional de Simplificação de Obrigações Tributárias Acessórias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e911990103209366a6cabc759bc290e61945b7ad5d22ac42693f52b68bd742e6
+size 187

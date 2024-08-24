@@ -1,1 +1,3 @@
-Necessidade de aprovação de projeto de decreto legislativo para sustação dos efeitos do Decreto nº 9.759, de 2019, da Presidência da República, acerca da extinção e do estabelecimento de diretrizes, regras e limitações para colegiados da administração pública federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16163298a336953eb7d9fc8924dab953c1aaa35d823aec4730b096736ad5bc49
+size 282

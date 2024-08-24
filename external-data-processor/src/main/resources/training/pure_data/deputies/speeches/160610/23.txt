@@ -1,1 +1,3 @@
-Transcurso do Dia da Empregada Doméstica. Acerto do lançamento da campanha Respeito e Dignidade para as Trabalhadoras Domésticas. Continuidade da greve nas universidades estaduais na Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:424dc549b8cb133e67a12f608db2be7d746988597e20ed0f226b70430299a863
+size 192

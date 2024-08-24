@@ -1,1 +1,3 @@
-Relevância dos trabalhos desenvolvidos pelos radioamadores e estações comerciais de rádio. Abertura de novos campos de atuação para radialistas com o advento da Internet. Adoção de nova legislação de amparo aos profissionais do rádio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a5f4414f0242e8a6003cee6fc4430081c0f88e58bc01d6ec59cd4c221e22d36
+size 245

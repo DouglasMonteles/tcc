@@ -1,1 +1,3 @@
-Apoio da base governista à proposta de procedimento para desobstrução das votações na Casa, apresentada pelo PSDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7210f3cceb16b968c2c7b68e504b40111de6198e5827e9914a6654d2700bf1d
+size 119

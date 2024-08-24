@@ -1,1 +1,3 @@
-Repúdio à atuação do Governo Jair Bolsonaro. Inadmissibilidade de reedição do Ato Institucional nº 5, o famigerado AI-5, instrumento de repressão adotado no regime militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f04c6d2906ce9699ee5c7c4e262a2c63d62a7ee949d35c17290494c38dedf7aa
+size 180

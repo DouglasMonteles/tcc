@@ -1,1 +1,3 @@
-Congratulações aos autores dos requerimentos de realização, pela Casa, de sessão solene ao ensejo do transcurso do Dia Mundial de Conscientização do Autismo. Importância da integração social dos autistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12962f0ef23125a5610df53f56ad2dbd69764eb9e6145a32a9697239faa6ee7c
+size 214

@@ -1,1 +1,3 @@
-Ausência de condições para a continuidade do Governo Dilma Rousseff. Vinculação entre a ausência de Deputados na votação do impeachment e o apoio ao Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6932364c88a3b0ff1c3614c4745d5c8d1c960638ff9ec4b7a0ff9162b15433b1
+size 173

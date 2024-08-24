@@ -1,1 +1,3 @@
-Crítica à falta de explicações por parte dos petistas sobre o aumento significativo nos preços dos combustíveis. Reajuste autorizado pela PETROBRAS nos preços da gasolina e do diesel de maneira considerável, contrastando com promessas anteriores feitas pelo governo. Impacto dos referidos aumentos em toda a economia, afetando o preço de itens básicos como feijão, arroz, carne e transporte público. Alerta sobre possíveis novos reajustes nos preços dos combustíveis com possíveis impactos na economia e no poder de compra dos consumidores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f8849f8cd087b943f78addf447ee5b710e9b7e56e1456d225c738b650b6f65f
+size 556

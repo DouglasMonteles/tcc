@@ -1,1 +1,3 @@
-Encontro de empresários rondonienses com o Presidente Jair Bolsonaro e com o Presidente Rodrigo Maia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7307fb32576187a83fe31668396a1dc3bb09b3a866104fadef79aa1092f22581
+size 102

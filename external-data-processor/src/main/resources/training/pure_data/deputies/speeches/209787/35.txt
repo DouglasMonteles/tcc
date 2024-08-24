@@ -1,1 +1,3 @@
-Contrariedade à aprovação da proposta governamental de reforma tributária. Questionamento sobre a liberação, pelo Presidente Luiz Inácio Lula da Silva, de vultosos recursos de emendas orçamentárias em concomitância com a apreciação da proposta de reforma tributária. Posicionamento contraditório de Parlamentares da Esquerda a respeito do chamado orçamento secreto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f4700582ba8ea6a8de73dffd55d74fa4dd59e56554e0bf23c06909d60f1ab10
+size 380

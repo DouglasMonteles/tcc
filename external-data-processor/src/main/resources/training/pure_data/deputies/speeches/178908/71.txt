@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de votação artigo por artigo do Projeto de Lei nº 3.468, de 2012, sobre a revogação de dispositivos relativos à saída temporária do preso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76e360ed17869266d3e1f2dca986dbf728d3622cf6b87e490a142152145d8bbb
+size 201

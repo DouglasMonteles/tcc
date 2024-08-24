@@ -1,1 +1,3 @@
-Necessidade da implementação de ações destinadas à geração de novos empregos e à retomada do crescimento econômico brasileiro. Contrariedade à liberação do porte e posse de armas de fogo no País. Distanciamento entre as ações do Presidente Jair Bolsonaro e os anseios da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be0e9a367f6a18fe86a1b9c2726b842bb9403dcd86cd1ff19e6ab59dff82c552
+size 309

@@ -1,1 +1,3 @@
-Informação ao Plenário de recebimento pela Mesa Diretora das indicações para o exercício do cargo de Líder da Minoria pelo Deputado José Guimarães e de Líder do Governo pelo Deputado Andre Moura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a042ac01be7c21f9db9f19d05fd06e15f4d4c49a847fa87b50269854cd50a989
+size 205

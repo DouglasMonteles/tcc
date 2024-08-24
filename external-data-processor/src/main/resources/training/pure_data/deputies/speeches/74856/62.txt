@@ -1,1 +1,3 @@
-Avanços da luta pela igualdade de tratamento a portadores do vírus HIV ante a edição da Lei nº 12.984, de 2014, definidor do crime de discriminação dos portadores do vírus da imunodeficiência humana - HIV e doentes de AIDS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1316f44794abd5df3ea455ba8709c1301fee655b1d770a6b8184a7e16d0a161c
+size 232

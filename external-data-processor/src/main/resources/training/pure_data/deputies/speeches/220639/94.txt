@@ -1,1 +1,3 @@
-O Deputado expressou preocupações sobre a proposta de reforma do ensino médio, criticando a falta de diálogo com o Governo e a comunidade educacional. Destacou que a primeira proposta surgiu durante a gestão do ex-ministro da Educação Mendonça Filho, questionando a falta de consenso com o governo eleito. Enfatizou a importância de formar cidadãos críticos, discordando da redução de horas dedicadas à formação básica. Fez um apelo para buscar entendimento e diálogo mais amplo antes de aprovar a reforma, citando Paulo Freire e a necessidade de uma educação libertadora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e304ffde9b4c2393b2f4894326930034a8b2da9e7725aab91688185b1ced6af
+size 592

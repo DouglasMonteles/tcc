@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à implantação do voto distrital e do chamado voto distritão no País. Apoio à adoção do voto em lista fechada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:503e12c6291d77c1b2c1af9cf59ac90a891c2380e3a9cf3fd8f8cc035e4c1bcb
+size 153

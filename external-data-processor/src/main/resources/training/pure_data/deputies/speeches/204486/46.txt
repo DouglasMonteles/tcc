@@ -1,1 +1,3 @@
-Questionamento ao Presidente do Banco Central sobre a realização de operações compromissadas. Pedido de intervenção da Presidência da instituição na questão do spread   bancário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7af9b9d27e8b4084b7e584218993c680a6c9b42a14737a72ccf852772e91cf91
+size 189

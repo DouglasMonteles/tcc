@@ -1,1 +1,3 @@
-Gestão caótica do Presidente da República. Apresentação, pelo Deputado Alexandre Frota, de denúncia sobre a divulgação de fake news  a favor da campanha eleitoral do Presidente Jair Bolsonaro e do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0ccafd9d86d34471a8558e1fcc8404c8c624ffb2511d706d9f72b3f7af0e481
+size 221

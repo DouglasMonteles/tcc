@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global oferecida pelo Relator da Comissão de Seguridade Social e Família ao Projeto de Lei nº 468, de 2019, sobre alteração da Lei nº 6.259, de 1975, para instituição da Carteira Digital de Vacinação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e126ce966965b339d18cff942c1a213ad9d74af490acda6deb6a64def2e2dac
+size 273

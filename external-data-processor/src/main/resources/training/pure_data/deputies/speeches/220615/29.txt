@@ -1,1 +1,3 @@
-O Deputado proferiu parecer ao Projeto de Lei nº 4.035, de 2023, que institui Agosto como mês de combate às desigualdades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f36b5877aefc7576a12eff350c462da1e34b8a5e99615dbe68ecfa35f8d46c5
+size 125

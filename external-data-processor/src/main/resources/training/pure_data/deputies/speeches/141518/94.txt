@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda nº 1, do Senado Federal, ao Projeto de Lei nº 1.321, de 2019, sobre a autonomia dos partidos políticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16e7d3f77c1ce741fd6752e75342839250c0f1769ffcf11cb4126b29f9e612cd
+size 199

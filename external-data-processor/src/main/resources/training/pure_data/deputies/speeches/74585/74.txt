@@ -1,1 +1,3 @@
-Posicionamento favorável do PR  ao  Projeto de Lei 2.468 de 2007 (Autoriza a criação da empresa pública Centro de Excelência em Tecnologia Eletrônica Avancada S.A - CEITEC - com a finalidade de explorar diretamente atividades no âmbito das tecnologias de semicondutores, sistemas de circuitos integrados e produtos de microeletrônica), em votação na forma de Substitutivo da Comissão de Trabalho, de Administração e Serviço Público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae49675cf9b7eefb6971e1a8e26dfe2411cc15059936af6af1c1a65cd8bb14ba
+size 447

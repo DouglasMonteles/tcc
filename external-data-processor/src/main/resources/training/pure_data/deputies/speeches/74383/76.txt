@@ -1,1 +1,3 @@
-Presença, em plenário, do Deputado Hilton Aguiar, do Estado do Pará, e do ex-Prefeito Valmir Climaco, do Município paraense de Itaituba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:446a290e6c95e2929df022e1fabde09071f08438a3308d04193afdb4bc1ae071
+size 140

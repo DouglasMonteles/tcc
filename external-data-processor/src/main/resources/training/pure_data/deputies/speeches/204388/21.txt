@@ -1,1 +1,3 @@
-Orientação da bancada na votação do Ofício nº 34.213, de 2016, do Tribunal de Justiça do Distrito Federal e dos Territórios, acerca da retirada de tramitação do Projeto de Lei nº 4.578, de 2001, relativo à criação do Fundo de Compensação aos Registradores Civis das Pessoas Naturais, no âmbito do Distrito Federal, em regulamentação ao art. 8º da Lei nº 10.169, de 2000. Exigência de identificação do mandante do atentado contra o então candidato a Presidente da República, Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cff01d8d35d2c8fdac8a5218607c0a8e8c4c829f5e5915c3c0fbaa85b02a084
+size 515

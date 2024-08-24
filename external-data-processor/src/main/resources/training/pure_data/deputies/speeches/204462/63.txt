@@ -1,1 +1,3 @@
-Repúdio à Portaria nº 230, de 2023, do Ministério da Saúde, sobre a instituição do Programa Nacional de Equidade de Gênero, Raça e Valorização dos Trabalhadores no Sistema Único de Saúde — SUS. Empenho da Frente Parlamentar Mista contra o Aborto e em Defesa da Vida; da Frente Parlamentar Evangélica; da Frente Parlamentar Mista Católica Apostólica Romana; e da Frente Parlamentar Contra a Sexualização Precoce de Crianças e Adolescentes na revogação da iniciativa da pasta da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbc2744c054b8a973a1cd302cb996f9bd07c162d5e63d46425325c9557917617
+size 507

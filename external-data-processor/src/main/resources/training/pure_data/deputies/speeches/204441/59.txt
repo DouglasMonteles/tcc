@@ -1,1 +1,3 @@
-Carta pública de autoria de representantes do Exército brasileiro sobre a importância dos programas SISFRON, Guarani, Defesa Cibernética e ASTROS 2020, para a consecução de projeto forte de defesa nacional, como previsto na Estratégia Nacional de Defesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21697ae30732a6645753e5fdc3cb32816ef211ec0c3e3e46ddc62edbe0eff1ca
+size 261

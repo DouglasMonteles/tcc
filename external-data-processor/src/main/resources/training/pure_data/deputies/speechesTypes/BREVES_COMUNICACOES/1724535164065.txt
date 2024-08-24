@@ -1,1 +1,3 @@
-Recomposição das dotações orçamentárias da educação brasileira. Promessa do Presidente Luiz Inácio Lula da Silva de conclusão de obras do setor educacional. Valorização, pelo governo petista, das áreas de ciência, educação, pesquisa e extensão. Continuidade da assistência estudantil pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff380b7d2a2baa9db160a2852b4998493d8d56c8dfeb9f5125b0e22305fbee98
+size 323

@@ -1,1 +1,3 @@
-O Deputado celebrou o anúncio do Governo Federal e do Ministro da Educação sobre a revisão da situação do ensino médio. Esta revisão é resultado de mobilizações de movimentos sociais, estudantis e profissionais de educação. O projeto de lei promete não apenas alterações curriculares, mas também aborda infraestrutura escolar e formação de educadores, configurando uma verdadeira Política Nacional do Ensino Médio. Além disso, a proposição estabelece o fortalecimento da formação geral básica e a proibição de educação a distância nesse nível. Por fim, enfatiza a necessidade de avançar na valorização dos profissionais da área e na gestão democrática das escolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f5a6786c73044670e34b0471529dd4ad47d1ca322d265bd47a37e5bf503ba31
+size 703

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de preferência para votação da Emenda de Plenário nº 4, em detrimento do texto original do Projeto de Lei Complementar nº 39, de 2020, acerca da instituição do Programa Federativo de Enfrentamento ao Coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d7b1a079bb7768ba23109b0770cdc6c089ff01d3a4fa24beb8f292c79437bb1
+size 274

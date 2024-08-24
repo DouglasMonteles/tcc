@@ -1,1 +1,3 @@
-Solidariedade aos familiares das vítimas da Covid-19, especialmente aos do Estado de São Paulo. Ajuizamento pelo PSOL de ação perante ao Supremo Tribunal Federal, destinada ao estabelecimento de critério para atendimento aos pacientes de coronavírus em unidades de saúde. Tramitação na Casa de projeto de lei relativo ao tema. Insatisfação da oradora com o pedido à Suprema Corte, por Procuradores dos Estados, para não acatamento da ação impetrada pelo PSOL. Não pagamento, pelo Governo Federal, do auxílio pecuniário emergencial de 600 reais concedido a famílias carentes, trabalhadores informais e autônomos. Contrariedade à flexibilização do isolamento social, medida necessária para contenção do avanço do novo coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9af2e9b087aaffc40f2fd92de230327e9c0ac7c3c2be1b4ddb293ee575476bfb
+size 756

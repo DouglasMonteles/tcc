@@ -1,1 +1,3 @@
-Assinatura pela Prefeitura de Patos, Estado da Paraíba, de convênios com a Caixa Econômica Federal e pastas ministeriais destinados à realização de obras no Município.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f80cacc22503089fa1871c074f947fbcd2e2ed6ecabfba584b7e53ffe4e6e26
+size 174

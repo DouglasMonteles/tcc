@@ -1,1 +1,3 @@
-O Deputado fez um protesto contra a Secretária de Cultura do Estado de São Paulo, Marilia Marton, por lançar um edital que desconfigurou a essência da Lei Paulo Gustavo, dificultando a participação de pequenos artistas. Expressou solidariedade aos artistas de São Paulo e pediu o cancelamento imediato do edital, para garantir que os pequenos artistas tenham acesso aos recursos da referida lei.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be586409250b0b1ce9fb6da217c11ed38f0aa99575055de7f998dfeaf195d156
+size 402

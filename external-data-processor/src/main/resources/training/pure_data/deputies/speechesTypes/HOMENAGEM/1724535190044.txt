@@ -1,1 +1,3 @@
-O Deputado homenageou o Estado de Tocantins ao ensejo do transcurso dos 35 anos de sua criação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0a558c774ca305959f32a1d16595127098879c0cead88887ba71e7f09fc1ca5
+size 97

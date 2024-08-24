@@ -1,1 +1,3 @@
-Aprovação, pela Comisso de Educação e Cultura, do Projeto de Lei nº 5.270, de 2009, sobre a proclamação do ex-jogador Edson Arantes do Nascimento, o Pelé, como o Patrono do Futebol Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3df5a4d6260b24d991283673234501f5e26606848ef33acf2511fbdbbf8e4e3a
+size 200

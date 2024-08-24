@@ -1,1 +1,3 @@
-Necessidade de busca de fontes de financiamento da saúde pública brasileira. Protesto contra a rejeição da proposta de prorrogação do prazo de vigência da Contribuição Provisória sobre Movimentação Financeira - CPMF. Regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de recursos para a área de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3f8b6e426b30f57b42e42e2817f82969682c4dd1fd9903a7796ed80bf2b8b78
+size 344

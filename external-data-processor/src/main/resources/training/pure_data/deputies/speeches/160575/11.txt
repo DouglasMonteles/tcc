@@ -1,1 +1,3 @@
-Defesa de investigação de denúncia de quebra do decoro parlamentar por membro da Casa. Apresentação de projetos de resolução alteradores do Código de Ética e Decoro Parlamentar da Câmara dos Deputados. Instalação de Comissão Especial destinada ao exame da proposta de emenda à Constituição a respeito da realização de investigações contra Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca4a2bdda3afd8a0c74ec783159f97f45ac65ebe90a1ad2f9985b88342623057
+size 373

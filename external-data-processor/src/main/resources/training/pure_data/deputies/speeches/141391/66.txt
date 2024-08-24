@@ -1,1 +1,3 @@
-Ponderação sobre os   efeitos no  regime geral da previdência social da desoneração previdenciária prevista no art. 14, § 1º da Medida Provisória 428, de 2008, que altera a legislação tributária federal e dá outras providências; Indagação sobre o tratamneto dado pelo relator à  Emenda 28, de sua autoria, que estabelece o regime compensatório pela União Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff7b9b64510d6492232e790d21b9733e9c2dca8fd028e5e5582f751d311b77c0
+size 382

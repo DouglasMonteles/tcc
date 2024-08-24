@@ -1,1 +1,3 @@
-Apoio ao texto original da Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0af8fcbde42f75d8b4560183b161642412e4274654a620b34cb6dc88a29502b9
+size 145

@@ -1,1 +1,3 @@
-Regozijo com a realização de investimentos do PAC 2 - Aeroportos, no Município de Patos, na Paraíba. Benefícios advindos da medida para o Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ddfea1f24881afb0ecbe0f2cd703df8c0cf3a93eb8f340a7a0334ed481fb568
+size 150

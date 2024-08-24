@@ -1,1 +1,3 @@
-Associação aos pronunciamentos dos Líderes partidários acerca da proposta da Presidência para apreciação de medidas provisórias. Não atendimento às reivindicações dos produtores rurais da Região Nordeste pelo texto original da Medida Provisória nº 615, de 2013.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b826e584b1d222cbaedbe2e36a7b85e5bc6bdc11ae2cedb2bf9aeeb764b237f
+size 276

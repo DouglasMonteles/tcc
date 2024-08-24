@@ -1,1 +1,3 @@
-Convocação dos Deputados do PT e da base govrnista ao  plenário para votação da  Medida Provisória 402 de 2007 (Abre crédito extraordinário em favor de diversos órgãos do Poder Executivo, para os fins que especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3323eb8645b5792ba95a82a8be0bb50907603c7baf4a34cf5d356cafdd7ee8a6
+size 227

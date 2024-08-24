@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Avanço da Lei Maria da Penha, coibitiva da violência doméstica contra as mulheres. Acerto da decisão do Supremo Tribunal Federal, favorável à apresentação de denúncia contra o agressor à mulher independente da manifestação da vítima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b1f93d19c30be53dea73c668a6a2225333761cc013085d7fb2d72c324ab054c
+size 289

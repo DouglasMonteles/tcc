@@ -1,1 +1,3 @@
-A Deputada denunciou um escândalo em Camaçari, Bahia, relacionado à destinação de cento e seis milhões de reais para uma empresa de Internet que ficou em quinto lugar no processo licitatório. Ademais, ressaltou que a cidade já possui um serviço similar por dez milhões de reais e que outras empresas ofereceram propostas significativamente mais baixas. Além disso, ressaltou que os Vereadores da Oposição denunciaram o caso ao Tribunal de Contas do Município. Por fim, reafirmou a vigilância e a indignação perante o descaso com o dinheiro público, enfatizando a atenção aos desmandos ocorridos em Camaçari.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afd1508893f2d661b99e4314ef1c66d5caaf61a55f0f7f2ba4534f2ef5c7b466
+size 628

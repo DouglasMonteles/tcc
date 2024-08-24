@@ -1,1 +1,3 @@
-Abuso do poder econômico nas eleições municipais brasileiras. Cancelamento de debate televisivo entre os candidatos à Prefeitura Municipal de São Paulo Geraldo Alckmin e Marta Suplicy. Transparência da campanha eleitoral realizada pelo PSOL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b1aa5c06891eef540af82d43328ed9a268612a6c06d7e8effd4cb6dd12a9d5d
+size 247

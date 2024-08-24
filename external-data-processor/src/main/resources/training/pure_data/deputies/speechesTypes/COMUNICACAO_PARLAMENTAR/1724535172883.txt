@@ -1,1 +1,3 @@
-Desabamento de parte da estrutura do corredor suspenso de ônibus, o chamado de Expresso Tiradentes, em São Paulo, Estado de São Paulo. Inconseqüência da retomada da obra pelo Governo do Estado e pela Prefeitura da Capital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08bea459464c21dfc6dba305e10700461545a191a26456bbac5d8c915f78ce00
+size 227

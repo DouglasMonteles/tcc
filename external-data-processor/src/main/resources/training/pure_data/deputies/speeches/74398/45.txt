@@ -1,1 +1,3 @@
-Apresentação de requerimento à Comissão de Trabalho, de Administração e Serviço Público para realização de audiência pública destinada ao debate da demissão de funcionários pela operadora de telefonia móvel Oi. Atuação do Sindicato dos Trabalhadores em Telecomunicações — SINTTEL, do Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afdb23c782599f068b5b19baa15b8414037bbecb951cd984348d1550241a3699
+size 333

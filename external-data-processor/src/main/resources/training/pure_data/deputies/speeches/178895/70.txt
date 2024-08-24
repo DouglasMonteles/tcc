@@ -1,1 +1,3 @@
-Contrariedade ao veto de dispositivo da reforma política sobre a obrigatoriedade de impressão do voto pela urna eletrônica. Dados da publicação Anuário Brasileiro de Segurança Pública sobre o aumento da criminalidade no País. Necessidade de revisão do Estatuto do Desarmamento para a garantia à população do direito ao porte de arma.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7da27d83cfa15a6b94af0ab36fa65ba1606507e3cc7e66e9438b35eac1436961
+size 346

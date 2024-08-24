@@ -1,1 +1,3 @@
-Início das atividades da Comissão Especial destinada ao exame da Proposta de Emenda à Constituição nº 233, de 2008, sobre a reforma tributária. Necessidade de ampliação do prazo estabelecido para apresentação de emendas à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4fa89490d03060ec685b9429f175067e0b494a82c08f0a0fff3cb99ca43fae6
+size 243

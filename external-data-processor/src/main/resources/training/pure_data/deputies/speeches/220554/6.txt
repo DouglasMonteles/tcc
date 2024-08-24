@@ -1,1 +1,3 @@
-Transcurso do 286º aniversário de fundação do Município de Rio Grande, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8e069d5e425f64c0005b6b0d71342001c7591ec7132e01dbe3c8bffdce4760d
+size 104

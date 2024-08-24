@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de quebra de interstício para verificação de votação do Requerimento de adiamento, por duas sessões, da Medida Provisória 445 de 2008 (Dispõe sobre a dispensa de recolhimento de parte dos dividendos e juros sobre capital próprio pela Caixa Econômica Federal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8476d2041552953c8956d914f929ec2d09aefa21162e93fff1327476bdd3879b
+size 313

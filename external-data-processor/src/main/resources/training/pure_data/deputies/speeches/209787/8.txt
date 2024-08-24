@@ -1,1 +1,3 @@
-Pedido à Presidência de observância dos prazos regimentais estabelecidos para a apreciação de proposições na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07b7533d082166ae1d00068b3105ab85ea207bfa76ea91a59d18dcfeafff0b55
+size 138

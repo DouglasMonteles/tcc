@@ -1,1 +1,3 @@
-Inércia do Presidente Jair Bolsonaro diante do número alarmante de óbitos provocados pela Covid-19. Protesto contra a militarização do Ministério da Saúde, em detrimento das ações de combate à pandemia de coronavírus. Iminência de colapso do sistema de saúde no País. Urgente necessidade da adoção de medidas de enfretamento da Covid-19, por parte do Congresso Nacional, do Supremo Tribunal Federal, dos Governadores e Prefeitos Municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e35c10f584f69998699439e21a24de6b7c0d3be43df7eb0765eb69eb8d91c27
+size 456

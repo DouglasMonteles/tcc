@@ -1,1 +1,3 @@
-Importância de aprovação da Proposta de Emenda à Constituição nº 391, de 2009, sobre a implantação do plano de carreira e do piso salarial nacional dos agentes comunitários de saúde. Pavimentação da MS-178, entre os Municípios de Bonito e Bodoquena, Estado de Mato Grosso do Sul. Alocação de recursos orçamentários para melhora da infraestrutura de municípios sul-mato-grossenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45f7b3e011d96013c3b98456d6a7ee3338d04af6480aaad44f11311c40f5b3fc
+size 399

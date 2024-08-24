@@ -1,1 +1,3 @@
-Anúncio de lançamento do Circuito Turístico Caminhos da Serra, no Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f43f1d5de1eff160f873c4bd4a897cf95adb1cab30597e1505fb29690143b50a
+size 94

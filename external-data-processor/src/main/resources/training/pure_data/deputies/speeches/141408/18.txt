@@ -1,1 +1,3 @@
-Apoio à proposta de criação da Fundação de Apoio à Pesquisa e ao Desenvolvimento Agropecuário e Florestal da Amazônia - FUNAGRI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e495aa3d917b13d18194832545f36ddc6021102fa05eda744dd8ca91024d709f
+size 136

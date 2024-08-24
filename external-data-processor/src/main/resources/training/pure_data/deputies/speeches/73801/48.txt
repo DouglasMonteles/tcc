@@ -1,1 +1,3 @@
-Necessidade da liberação de recursos federais aos Estados e Municípios brasileiros. Propostas defendidas pelos Governadores Estaduais para enfrentamento da pandemia de coronavírus. Não apresentação pelo Ministro da Economia, Paulo Guedes, de plano de combate aos efeitos da crise gerada pela Covid-19. Defesa de sua demissão da Pasta. Repúdio à atuação do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06ce11dbd2ac68cf4ccd94f191f27fda47a1e09a749023713d6b0791ce69e841
+size 394

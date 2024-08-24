@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de retirada da pauta da Proposta de Emenda à Constituição nº 77-C, de 2003, a respeito da simultaneidade de pleitos eleitorais e a duração de mandatos parlamentares nas esferas federal, estadual e municipal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19f0546b184d48fd45289bd267064603dd9ef50951fbec7443956831fa3e1bce
+size 268

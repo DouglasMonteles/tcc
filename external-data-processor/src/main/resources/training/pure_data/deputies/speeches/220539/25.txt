@@ -1,1 +1,3 @@
-O Deputado mencionou que solicitou uma audiência pública nas Comissões da Amazônia e do Meio Ambiente para discutir o desejo do Governo Federal de importar energia da Venezuela, destacando sua relevância para Roraima e o Brasil. Expressou sua preocupação com um plebiscito que ocorrerá na Venezuela, no qual será discutida a reivindicação de soberania sobre parte do território da Guiana. Alertou sobre a marcha do exército venezuelano em direção a Roraima e pediu a suspensão da importação de energia da Venezuela até que a situação seja resolvida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cff140db8a2330ace4caf687c57b7f73adb8a6bf6794741d894a95b5cba842e1
+size 570

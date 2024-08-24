@@ -1,1 +1,3 @@
-Recondução do Senador Francisco Dornelles à Presidência do Partido Progressista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d371cf0e411e3373582586b6f3bb95babbde87a8496859d971019b2a5080cdab
+size 84

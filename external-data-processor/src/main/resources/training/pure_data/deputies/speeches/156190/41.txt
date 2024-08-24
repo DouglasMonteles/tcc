@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Substitutivo adotado pela Comissão Especial, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9750ab98833e6e31db48a339ac317d455b795229893fc85aae59749281179a3d
+size 111

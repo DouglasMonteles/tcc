@@ -1,1 +1,3 @@
-Abertura de canal negociações sobre a greve dos petroleiros, no âmbito do Tribunal Superior do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2e7040c0e903c09e4503ca913dd00f226dabe16498c650e01d87bb70d23b76a
+size 107

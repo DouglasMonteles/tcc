@@ -1,1 +1,3 @@
-Realização, pela Comissão de Direitos Humanos e Minorias, da Casa, de audiência pública para debate acerca da destinação de recursos oriundos do refino de ouro extraído do garimpo de Serra Pelada, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6a8282b837f447d0ffc1a0a8c4ac3b5b5954dba8b7a22ea09a3b5d984252cf2
+size 221

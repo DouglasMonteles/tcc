@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 3, apresentada ao Projeto de Lei Complementar nº 147, de 2019, sobre a alteração da Lei Complementar n° 123, de 2006, (Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte), para modificação da composição e do funcionamento do Comitê Gestor do Simples Nacional, e ampliação do âmbito de aplicação do seu regime tributário. Congratulações à Relatora Caroline de Toni pela criação do chamado MEI caminhoneiro no âmbito da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df6837d76f04e2f56b00c20de334a65490f266189abb6316d44fdc9f3eb1d40
+size 584

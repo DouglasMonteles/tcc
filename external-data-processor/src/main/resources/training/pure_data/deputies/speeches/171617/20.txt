@@ -1,1 +1,3 @@
-Eleição do diplomata Roberto Carvalho de Azevêdo para o cargo de Diretor-Geral da Organização Mundial do Comércio - OMC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3ae1061b769fbb7067b08ee3267605254321f0070f6392d253b50b8650becaf
+size 126

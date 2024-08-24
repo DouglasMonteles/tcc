@@ -1,1 +1,3 @@
-Conflito entre o dispositivo do decreto do Presidente da República acerca da permissão do uso de arma de fogo por crianças e adolescentes, e o impedimento do porte de armas por menores de 18 anos preconizado no Estatuto da Criança e do Adolescente. Apresentação, pelo PT, de projeto de decreto legislativo para sustação dos efeitos do decreto presidencial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e45733d34d89a477e1e247b783a383b9506131b6f3f068408a3381d1b0984d8
+size 364

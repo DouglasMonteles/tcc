@@ -1,1 +1,3 @@
-Apresentação de requerimento de moção de louvor a policiais civis pela libertação de agricultores idosos e prisão de quadrilha de sequestradores, no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8a517d3ee5490ea1622f87e8e849bedcacd74d3ec5f3ec5270946bfeef6bac0
+size 179

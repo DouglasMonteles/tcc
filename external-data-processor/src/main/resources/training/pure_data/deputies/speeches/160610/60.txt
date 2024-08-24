@@ -1,1 +1,3 @@
-Apoio ao pleito da Polícia Ferroviária Federal. Encaminhamento, à Relatora Especial da Organização das Nações Unidas sobre Defensores de Direitos Humanos, Margaret Sekaggya, e à Relatora Especial da Organização das Nações Unidas para a Independência dos Juízes e Advogados, Gabriela Carina Knaul de Albuquerque e Silva, de informe a respeito do julgamento de recurso a favor do advogado e defensor dos direitos humanos da Comissão Pastoral da Terra - CPT, José Batista Gonçalves Afonso, condenado à reclusão pela Justiça Federal no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:260fd736652e2afa0a0caa96ef20b1824527e0313648509caf9e8a6ff69e4408
+size 568

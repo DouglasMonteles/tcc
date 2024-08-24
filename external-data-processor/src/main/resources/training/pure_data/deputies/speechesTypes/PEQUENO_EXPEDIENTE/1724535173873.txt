@@ -1,1 +1,3 @@
-Realização da 24ª Feira Nacional da Agropecuária e da 2ª Feira Baiana da Agricultura Familiar, em Salvador, Estado da Bahia. Crescimento econômico do Estado na gestão do Governador Jaques Wagner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f30230b379263194c6b90b3597126b66f9125a0d61023b91c7db3adeb6884b03
+size 202

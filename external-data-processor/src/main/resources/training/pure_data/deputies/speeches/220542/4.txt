@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios sob o tema Pacto Federativo: um olhar para o futuro. Saudações a Prefeitos Municipais, Vereadores, secretários e assessores. Necessidade de revisão do pacto federativo para atendimento às necessidades dos Municípios brasileiros, especialmente com relação às áreas de saúde e alimentação escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4aac2d58c110b2b2e63fbd8f6f6d4dd58ad1e8df8a7b268d991bce0fe40b2a9b
+size 374

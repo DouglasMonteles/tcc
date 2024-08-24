@@ -1,1 +1,3 @@
-Eleição do Deputado Marcelo Ortiz para a 1ª Suplência da Mesa Diretora da Casa. Tragédia ocorrida com integrantes da equipe do Grêmio Esportivo Brasil, do Município de Pelotas, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86a06d9142520719521dfc6ae20e9158e41795df217f1aa6a122704a676aa417
+size 212

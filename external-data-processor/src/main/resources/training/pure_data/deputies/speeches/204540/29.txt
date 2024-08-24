@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Defesa dos Direitos da Mulher, do parecer oferecido ao Projeto de Lei nº 2.478, de 2021, (apensado ao PL 2.062, de 2021), sobre a&nbsp;criação do Selo Empresa Amiga da Mulher. Realização da campanha Agosto Lilás, pelo fim da violência contra as mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fd0fd0f64804e87da52150e427a6a97f8f4982f887cae5450ce0f2f1b133b5d
+size 292

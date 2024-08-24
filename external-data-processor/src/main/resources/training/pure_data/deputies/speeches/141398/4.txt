@@ -1,1 +1,3 @@
-Lançamento do livro Do Crepúsculo à Aurora: Uma Lágrima, sobre o processo de democratização da República Democrática do Congo, de autoria do Pe. Sylvestre Sangala Mulangwa e do Prof. Albert Zabiti Lalonda. Incremento das relações comerciais, políticas e culturais entre o Brasil e aquele país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f932c22b5e8df254a4d05da2a4715f40c967b08120c507bcbb4c49f7f477f224
+size 305

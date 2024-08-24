@@ -1,1 +1,3 @@
-Inconveniência da participação de membros do Judiciário e da Ordem dos Advogados do Brasil em jantar oferecido pela Presidenta Dilma Rousseff. Congratulação ao Ministro Marco Aurélio Mello pela recusa ao convite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d9b7c8135c0d8715a1b7431435e2aab8d67c452a646689b047bf1d24a0d80df
+size 219

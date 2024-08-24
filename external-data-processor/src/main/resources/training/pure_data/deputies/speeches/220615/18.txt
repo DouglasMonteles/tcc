@@ -1,1 +1,3 @@
-Reexame, por Deputado, do ceticismo quanto ao exercício do cargo de pastor evangélico pelo orador e a sua comunhão com Deus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3378a8ad164d94148fd45f56febf82456bcb1c8931615634e31b2ccf5c98e5c3
+size 127

@@ -1,1 +1,3 @@
-Oportunidade de votação da chamada PEC da Música, ao ensejo do transcurso do 99º aniversário natalício do cantor e compositor Luiz Gonzaga Nascimento, o Rei do Baião. Saudações aos músicos, produtores e intérpretes brasileiros. Agradecimento ao Presidente Marco Maia, ao Deputado Otavio Leite e aos Líderes partidários pela votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2f280a18a60df904279f477cfe3d14f10339b75323103d99099292f7898d448
+size 359

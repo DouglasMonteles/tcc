@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PSB/PCdoB/PMN/PRB  ao  parecer pela admissibilidade da  Medida Provisória 456 de 2009 (Dispõe sobre o salário mínimo a partir de 1º de fevereiro de 2009).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b47b1b9cd5abaaa3cf88c77cea99bc32f9475d2e063da125bdc4e81914d71fbc
+size 194

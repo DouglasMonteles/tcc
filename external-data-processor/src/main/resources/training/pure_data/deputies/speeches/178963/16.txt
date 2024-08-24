@@ -1,1 +1,3 @@
-Solicitação aos Deputados do PP de comparecimento ao plenário. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36387e8d4c43e72ac2663a423c530a5a3c442dc0676ecd1cf3d223a5b26a4ec8
+size 101

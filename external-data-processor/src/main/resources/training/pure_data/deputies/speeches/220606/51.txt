@@ -1,1 +1,3 @@
-Legitimidade do movimento grevista dos professores da rede pública de ensino do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:713ad73e7f47bb8150ebb9a88321b76d136581d356aeca7505d95dd9d96da482
+size 106

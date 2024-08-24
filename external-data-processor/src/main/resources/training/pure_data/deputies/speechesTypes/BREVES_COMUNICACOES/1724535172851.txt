@@ -1,1 +1,3 @@
-Expectativa de aprovação pela Comissão Especial do Novo Código Comercial do parecer sobre o capítulo do agronegócio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13e9a4c35f5d877dce5ec74e1b70881daec28136f4bd7b7e0bed87d594d30664
+size 122

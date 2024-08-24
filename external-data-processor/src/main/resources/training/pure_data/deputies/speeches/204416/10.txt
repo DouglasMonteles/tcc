@@ -1,1 +1,3 @@
-Prisão de ex-Presidentes da República. Existência de condições para a reconstrução do Brasil na gestão de Jair Bolsonaro. Relevância dos trabalhos realizados pela Operação Lava Jato. Necessidade de convocação de policiais aprovados em concurso público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4653149ebe99122da0639a7bb534db5f558ccd262f50acb1ba3287cc91579b6e
+size 266

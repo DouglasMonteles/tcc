@@ -1,1 +1,3 @@
-Ratificação do pronunciamento do orador sobre a cobrança de taxas de juros extorsivos no País. Registro de voto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:465a571fa23f1e0475b2a933d6dfc7ba1adeb6aed63e87293b2d118a20b334a7
+size 116

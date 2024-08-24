@@ -1,1 +1,3 @@
-Regularização fundiária e ambiental do Estado do Pará. Lançamento da Frente Parlamentar em Defesa da Cirurgia Reparadora de Pessoas com Fissura Labiopalatina. Defesa de instalação, nos Estados brasileiros, de centros de referência em tratamento da fissura Labiopalatina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e498cb39ce86ad25ec2ea013e6f4455f027f439fa48ba468053945e53edfe8aa
+size 278

@@ -1,1 +1,3 @@
-Proposta de procedimento para apreciação de Medidas Provisórias constantes da pauta da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cef2ba5c054b10215dfed2ef04f97848d24738b1d14e41e993c4980d8f2b9e2
+size 103

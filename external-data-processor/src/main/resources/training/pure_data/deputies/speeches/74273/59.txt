@@ -1,1 +1,3 @@
-Liberação da Bancada do PTB para votação da  expressão na forma da Lei, constante do § 6º da redação dada ao art. 226 da Constituição Federal, no art. 1º do Substitutivo à PEC 413 de 2005 (Altera o § 6º do art. 226 da Constituição Federal que dispõe sobre o divórcio), objeto de DVS.  Posicionamento favorável do orador à manutenção da expressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68239c6443d886789adf7c8450311e23e031ea03940ca973e448aa041a425fdf
+size 370

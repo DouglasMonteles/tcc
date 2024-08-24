@@ -1,1 +1,3 @@
-Questão de ordem sobre a nulidade de decisão do Deputado Beto Mansur em resposta ao Arnaldo Faria de Sá sobre deliberação no Plenário da prorrogação ad referendum dos trabalhos da CPI do CARF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cc65bb7cc77cd6f8fd53f51ba025faeeec0dad417ca06b8a35f20b9f54ed9e7
+size 200

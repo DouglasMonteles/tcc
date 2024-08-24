@@ -1,1 +1,3 @@
-O Deputado destacou a importância da energia eólica para o Rio Grande do Norte e o Brasil, enfatizando sua característica de fonte limpa e sustentável. Expressou preocupação com a insegurança jurídica decorrente da recomendação do Ministério Público para cancelar a licença de um parque eólico na região de Lajes, argumentando que isso afetaria o desenvolvimento econômico e a preservação ambiental e solicitou diálogo entre as partes envolvidas para encontrar soluções que equilibrem esses interesses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48cf22d85f771bb89b5579171263d04bc98a1675b30a778f8ea7b923ea53e49b
+size 523

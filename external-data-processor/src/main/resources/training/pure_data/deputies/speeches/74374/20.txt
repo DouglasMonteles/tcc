@@ -1,1 +1,3 @@
-Instalação de escritório regional da Fundação Oswaldo Cruz - FIOCRUZ em Campo Grande, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9deeea9268b15f5c2ef05972421f3283bd60bf910ad19b4829e9c343e2ccb024
+size 120

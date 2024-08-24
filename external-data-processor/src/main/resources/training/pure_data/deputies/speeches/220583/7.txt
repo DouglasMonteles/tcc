@@ -1,1 +1,3 @@
-Apelo ao Governador do Estado de Alagoas por reversão da crise da saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e365cd9ba30cf3355e99a8d0660dcb43d55c7b8088d9bdff9a00a8a485a7742
+size 83

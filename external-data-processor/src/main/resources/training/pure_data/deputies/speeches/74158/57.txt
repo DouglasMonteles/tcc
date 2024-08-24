@@ -1,1 +1,3 @@
-Homenagem ao servidor da Casa Mozart Vianna de Paiva em face da sua despedida do cargo de Secretário-Geral da Mesa Diretora. Votos de êxito ao novo ocupante do cargo, Silvio Avelino da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2483da402f45b6afa9ebe3e14efe8453da8ce410520aa06b5ee600f54d643ab1
+size 193

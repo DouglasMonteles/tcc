@@ -1,1 +1,3 @@
-Importância da construção da adutora do algodão para as populações das regiões da Serra Geral e do Médio São Francisco, Estado da Bahia. Empenho do Governador Jaques Wagner na concessão do gerenciamento da obra à Empresa Baiana de Águas e Saneamento - EMBASA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee588263e96c0cba2d750f0fea87ac7674c3df42878f91b23104a0c1033b0a5a
+size 271

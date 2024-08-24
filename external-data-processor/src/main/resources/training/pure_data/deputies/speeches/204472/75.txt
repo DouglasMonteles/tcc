@@ -1,1 +1,3 @@
-Não apresentação, pela Oposição, de projeto de desenvolvimento do País. Apoio à privatização de empresas estatais. Responsabilidade do Governo do PT pelo quadro de desemprego reinante no País e pelo sucateamento das áreas de educação, saúde e segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f947f671c30db04d4ba7464cf5b81095ac425b24ca94b8831212bdca2e7ef7b
+size 277

@@ -1,1 +1,3 @@
-Considerações críticas à gestão do Prefeito Gustavo Fruet, do Município de Curitiba, Estado do Paraná. Inconformismo com a supressão, no sítio eletrônico da Prefeitura, de informações sobre as administrações anteriores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42308197a0bbb171dfcd7ed08ac4762d4c336f351bcb8ec8f877462edf03a0d2
+size 233

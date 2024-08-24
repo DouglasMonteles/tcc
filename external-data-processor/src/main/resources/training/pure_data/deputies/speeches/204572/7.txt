@@ -1,1 +1,3 @@
-Apoio à criação de Comissão Externa para acompanhamento de assuntos relacionados ao feminicídio. Apresentação do Projeto de Lei nº 588, de 2019, acerca da alteração da Lei Maria da Penha, para o estabelecimento do uso de monitoramento eletrônico como meio de fiscalização do cumprimento das medidas protetivas, bem como para a disponibilização do mecanismo com Botão de Pânico  para as vítimas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00ce01775627431d05a05ffc4350d8978132989b3e1b9154cd26e6e95c536d73
+size 412

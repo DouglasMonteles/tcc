@@ -1,1 +1,3 @@
-Aplausos à Ministra da Saúde, Nísia Trindade, pela condução da política de saúde pública. Excelência do Programa Nacional de Imunizações. Queda da cobertura vacinal no País nos últimos quatro anos. Realização de investimentos na área de saúde para a redução das demandas no âmbito do Sistema Único de Saúde - SUS. Anúncio de lançamento do Programa Mais Saúde, nova versão do Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1250b0b2994af01eb52d3a195934b19152f57ba53b109e481f731cc19ab3a29
+size 424

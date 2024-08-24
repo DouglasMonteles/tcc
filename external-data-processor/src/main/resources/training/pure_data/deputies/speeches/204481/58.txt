@@ -1,1 +1,3 @@
-O Deputado destacou a presença dos Vereadores Mersinho e J Wellington, de Caucaia, no Ceará. Elogiou os Vereadores pelo compromisso com seu trabalho e mencionou que estão em Brasília para conhecer o trabalho Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5da25d52a1c298eb81cff654e308a6cbf0e8ca1eccfb5a6cbe25be5ebc7d4ed
+size 224

@@ -1,1 +1,3 @@
-Despropósito da atribuição aos engenheiros brasileiros, pelo Ministro-Chefe da Secretaria de Aviação Civil da Presidência da República, Moreira Franco, de culpa pelo atraso nas obras do aeroporto de cidades-sede da Copa do Mundo de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d174c4d30bf8a5fb93bc8e47c3ca0a0f2f609221013ae4b6b431e34576e66dc8
+size 244

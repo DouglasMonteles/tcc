@@ -1,1 +1,3 @@
-Transcurso de aniversário da Revolução de 1964. Hiperinflação, concentração de renda, pobreza, arrocho salarial, perseguição aos povos indígenas e ampliação dos conflitos no campo como legado da ditadura militar. Suspensão de direitos políticos, cassação de mandatos parlamentares, censura, assassinatos, tortura e prisão de opositores pelo regime de exceção. Assassinato do jovem Stuart Edgard Angel Jones e da estilista Zuzu Angel pela ditadura militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f3dfeeaaa31b54ebb55649bc3b140ddc57d04440f0cb8ca6eb2506fb6ac7353
+size 474

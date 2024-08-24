@@ -1,1 +1,3 @@
-O Deputado destacou a importância do turismo como motor de crescimento econômico. Destacou o sucesso das políticas de fomento ao turismo implantadas no Rio Grande do Norte, e fez uma analogia com o potencial do Brasil se houver uma política pública focada nessa indústria. Em homenagem ao Dia Mundial do Turismo, fez um apelo ao novo Ministro do Turismo, o Deputado Celso Sabino, pedindo que ele priorize o setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89e42a6ea948104ac7327be6ad6596520815f4d8458aa5a9af3644801bfe50be
+size 419

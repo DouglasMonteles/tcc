@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de encerramento da discussão e do encaminhamento da votação do Projeto de Decreto Legislativo nº 523, de 2019, sobre a aprovação do texto do Acordo de Salvaguardas Tecnológicas celebrado entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América para utilização do Centro Espacial de Alcântara, assinado em Washington, em 18 de março de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a9b98cbae0798fe67692c67626e6516950c9ccdc5a978cb32cfb5e8d47500d0
+size 441

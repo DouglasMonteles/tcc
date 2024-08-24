@@ -1,1 +1,3 @@
-Participação do orador em audiência pública promovida pela Comissão de Agricultura, Pecuária e Cooperativismo, da Assembleia Legislativa do Estado do Rio Grande do Sul, destinada ao debate da legislação das agroindústrias. Pedido aos Governos Federal e Estadual de elevação dos investimentos para contratação de profissionais e aquisição de equipamentos para fiscalização do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adaa2d0c3fb3b6b49fbd8391d289f6466b222fe390febab95c4aa616569ce28e
+size 398

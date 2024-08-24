@@ -1,1 +1,3 @@
-Posição da avicultura brasileira como segunda maior exportadora mundial e do Estado do Paraná como maior produtor nacional de carne de frango. Contribuições da área para a melhoria da balança comercial brasileira e para o desenvolvimento da economia paranaense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51b0b3521e4fa1ffda17096b18803ac6277f972e931f7f4d37e586443aa80fc0
+size 268

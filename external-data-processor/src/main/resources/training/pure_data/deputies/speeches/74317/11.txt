@@ -1,1 +1,3 @@
-Participação de Secretários da Fazenda em reunião da Comissão Especial da reforma tributária. Apresentação pelo orador de emenda à proposta de reforma tributária, destinada à alteração dos critérios de distribuição de royalties.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e96cb52f49cf6dd5e63286fee545bcba0e92d3a348e9937b5b7b597de9516b03
+size 244

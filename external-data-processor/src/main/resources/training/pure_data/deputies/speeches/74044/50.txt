@@ -1,1 +1,3 @@
-Convocação dos Deputados da base governista  ao plenário para votação nominal do Requerimento de adiamento, por duas sessões, da discussão da Medida Provisória 451 de 2008 (Altera a legislação tributária federal, e dá outras providências). Congratulações ao Presidente Michel Temer pela manifestação em defesa do Legislativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34e4457b97f16ac39a3736c68dc164353f50a299eb37f18d249d455d5fc38dbc
+size 342

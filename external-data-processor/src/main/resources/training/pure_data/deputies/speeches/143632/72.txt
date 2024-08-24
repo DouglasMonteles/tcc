@@ -1,1 +1,3 @@
-Agradecimentos ao povo cearense pela eleição do orador. Prioridades do Deputado na atuação parlamentar como integrante da bancada do PROS. Defesa de reformas no ensino brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ff0d981f8c5f509d66587036d3e5a32ccb39e97ceef8733e3c05e0fe76c3bf6
+size 183

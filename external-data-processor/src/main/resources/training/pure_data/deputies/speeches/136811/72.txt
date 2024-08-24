@@ -1,1 +1,3 @@
-Transcurso do 54º aniversário de fundação da Associação Sulina de Crédito e Assistência Rural - ASCAR/EMATER. Relevância dos trabalhos desenvolvidos pela entidade no Estado do Rio Grande do Sul. Desempenho da Associação Brasileira das Entidades Estaduais de Assistência Técnica e Extensão Rural - ASBRAER.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e25624a8d3ae4bdd09876769f575a9acac820a17282c57c61a0486ecfcf6da85
+size 319

@@ -1,1 +1,3 @@
-Posicionamento favorável do PP ao Projeto de Decreto Legislativo 443 de 2001(Autoriza o envio de um Navio da Marinha do Brasil para compor a Força-Tarefa Marítima da Força Interina das Nações tinidas no Líbano (UNIFIL).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebb74ab9a0bd253217a91eb8b23adebda577553a3ea7918b8467dabe61fabd4d
+size 226

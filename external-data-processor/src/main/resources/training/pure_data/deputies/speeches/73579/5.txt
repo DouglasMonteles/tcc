@@ -1,1 +1,3 @@
-Administração exitosa do Governador do Distrito Federal, José Roberto Arruda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31b15018cb2f5e74644b8055bd60761d091b8f0e0b362525a3b5f7139c70f219
+size 80

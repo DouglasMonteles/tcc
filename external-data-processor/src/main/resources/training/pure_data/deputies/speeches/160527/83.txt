@@ -1,1 +1,3 @@
-Registro sobre a retirada do Destaque nº 25 pelo Líder do PPS, Deputado Arnaldo Jody. Importância da aprovação do destaque em votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1775c1cc23feee7385ce24c8593a28100344e47dc36a50f9948ad16e7bd7906
+size 141

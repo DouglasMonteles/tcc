@@ -1,1 +1,3 @@
-Falecimento do Pastor Cyro Pereira do Lago, no Município de Limeira, Estado de São Paulo. Cumprimento ao Deputado Capitão Augusto pela atuação na Frente Parlamentar do Rodeio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11fbcf0c5745158427a5e7b1c78bf013a86f70906e40a23fbd2e1f45432acd3d
+size 180

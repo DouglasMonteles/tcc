@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação, artigo por artigo, da Medida Provisória nº 971, de 2020, sobre a remuneração da Polícia Militar, do Corpo de  Bombeiros Militar e da Polícia Civil do Distrito Federal, bem como da Polícia Militar e do Corpo de Bombeiros Militar dos ex-Territórios Federais; e a alteração das regras de cessão de policiais militares, bombeiros militares e policiais civis do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdaae8392e0da5f0c9142dbff4ad6bc2314a5f8503cf5ec1607767b28713c309
+size 452

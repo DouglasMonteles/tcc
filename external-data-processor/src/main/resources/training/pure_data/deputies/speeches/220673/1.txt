@@ -1,1 +1,3 @@
-Repúdio à violência praticada por agentes de segurança pública contra garimpeiros em operações ocorridas em área indígena ianomâmi no Estado de Roraima. Inconstitucionalidade de decreto sobre o estabelecimento de estado de emergência em 15 Municípios do Estado do Pará em face das atividades de garimpo e desmatamento ilegal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a7fdaf395a75d121197aa088006a18b839f883fcd081634717d8290d15c78a3
+size 338

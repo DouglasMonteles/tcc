@@ -1,1 +1,3 @@
-Realização da 23ª Festa do Tropeiro, no Município de Tarumã, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adc1600d7700fa8aa3bcf9de694b92f368580e185231451d1894300dbd0dd5d5
+size 87

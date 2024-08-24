@@ -1,1 +1,3 @@
-Proposta do Líder do Governo para votação do requerimento de quebra de interstício para apreciação da Proposta de Emenda à Constituição nº 4, de 2015, sobre prorrogação da Desvinculação de Receitas da União - DRU, e do requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 268, de 2016, do Senado Federal, sobre criação de novas regras para escolha e atuação de diretores-executivos e conselheiros de fundos fechados de previdência complementar vinculados a entes públicos e suas empresas, fundações ou autarquias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cabd927e1776de3f54b63f24535c1879940f2f935dfc335c20213e95a9075d0
+size 570

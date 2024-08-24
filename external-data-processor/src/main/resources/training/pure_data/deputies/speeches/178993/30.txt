@@ -1,1 +1,3 @@
-Aprovação de requerimento na Comissão de Viação e Transportes para oitiva em audiência pública dos presidentes das companhias aéreas com atuação no País sobre as tarifas aéreas praticadas no mercado nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe828b2e2c72765f4ac42133c3830b02c73d8cd43e06ac0e3204c7edec4607b9
+size 220

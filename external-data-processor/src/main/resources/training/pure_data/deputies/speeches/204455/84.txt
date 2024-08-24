@@ -1,1 +1,3 @@
-Esclarecimento aos Deputados Aroldo Martins e Vinicius Carvalho acerca do discurso proferido pelo orador a respeito do Republicanos e do Prefeito Marcelo Crivella. Confirmação do Republicanos como partido de centro-esquerda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2add8fe422a02646ddc7656bf66637fdf14bbdc0c1a14b110544a1b011a754aa
+size 226

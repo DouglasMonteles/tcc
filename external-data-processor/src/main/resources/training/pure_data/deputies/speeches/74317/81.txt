@@ -1,1 +1,3 @@
-Indagação à Presidência acerca da decisão sobre questão de ordem apresentada pelo orador em sessão anterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:367fa2cdc89044a9562459162ad92d027945fb4102432026bc724afa3d787532
+size 115

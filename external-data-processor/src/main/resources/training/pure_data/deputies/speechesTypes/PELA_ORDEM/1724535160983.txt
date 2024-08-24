@@ -1,1 +1,3 @@
-Perseguição do Governo Jair Bolsonaro aos profissionais da imprensa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec278d3bbcbb12a4a713d48b54da62e943e82918e23f0b541368a039373390a3
+size 70

@@ -1,1 +1,3 @@
-Indignação do orador com a proposta de reforma previdenciária, especialmente quanto à idade mínima para aposentadoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a02b2cfc44eb94f0198be7927028c9c6d884d1be9f98f19fa18bdbb9024596b4
+size 123

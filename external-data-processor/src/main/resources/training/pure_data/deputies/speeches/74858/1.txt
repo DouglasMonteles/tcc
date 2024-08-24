@@ -1,1 +1,3 @@
-Defesa da criação de CPI para investigação da tentativa do ex-Presidente Jair Bolsonaro de apropriação de joias sauditas doadas ao País. Ocorrência de escândalos no governo anterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dc61823d9034aed3582dd56fa94e5c0da2e8259190f6bd310a1260c4f8efa68
+size 191

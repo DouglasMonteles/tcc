@@ -1,1 +1,3 @@
-Falecimento do Sr. Antonio Lazaro de Almeida, pai do Deputado Vitor Hugo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf5f0e45f66c42e6a998c2ebf7fbe24ea7974c9a0001f4efa972f6252d944a72
+size 73

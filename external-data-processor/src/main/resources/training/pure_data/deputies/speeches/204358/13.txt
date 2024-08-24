@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 13, apresentada à Medida Provisória nº 934, de 2020, acerca do estabelecimento de normas excepcionais relativas ao ano letivo da educação básica e do ensino superior, decorrentes das medidas de enfrentamento da situação de emergência de saúde  pública constantes na Lei nº 13.979, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e713b1a0f968ca62e1bc0f39c12cb8da49b26da861a5b77a0dc976d2cf5d3bd
+size 420

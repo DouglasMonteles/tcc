@@ -1,1 +1,3 @@
-Falecimento do Presidente das Igrejas Evangélicas Assembleias de Deus no Estado do Paraná, Pastor José Pimentel. Tramitação na Casa de projeto de lei, de iniciativa do Senado Federal, sobre a obrigatoriedade de reserva, pelas universidades federais e pelas escolas técnicas, de 50% de suas vagas para alunos oriundos de escolas públicas, repartidas de preferência entre negros, pardos e índios. Tentativa  de compensação de deficiências da educação brasileira com medidas paliativas e demagógicas, a exemplo da proposição. Defesa de universalização e fortalecimento do ensino fundamental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31cfda054db65af6ed7e6b989d2b9f0736879cba5b94a90a84d17892b40f4122
+size 607

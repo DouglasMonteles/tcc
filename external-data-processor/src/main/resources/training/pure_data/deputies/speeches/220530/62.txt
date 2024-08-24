@@ -1,1 +1,3 @@
-O Deputado criticou o Ministro da Justiça, denunciando suas omissões. Lamentou a morte do militante político Cleriston, destacando manifestações populares. Demonstrou preocupação com a indicação do Ministro da Justiça ao Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93ca796d00d18802296f7856c0b7f8bb275e9530c588988cc9742e3dd67e87c0
+size 256

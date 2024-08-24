@@ -1,1 +1,3 @@
-Reafirmação de compromisso do orador com direitos de povos indígenas, quilombolas e populações tradicionais. Satisfação com a demarcação, pelo Governo Federal, de terras dessas populações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11f0bc348293186133bccb5deb0ef335a0da23d0e90fa89be8d31e0792bfafb9
+size 199

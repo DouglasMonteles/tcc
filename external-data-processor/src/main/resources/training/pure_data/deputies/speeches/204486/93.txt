@@ -1,1 +1,3 @@
-Necessidade de aperfeiçoamento, pelo Senado Federal, do texto da Proposta de Emenda à Constituição nº 187, de 2019, a chamada PEC dos Fundos Públicos. Pedido ao Relator da Proposta de Emenda à Constituição nº 45, de 2019, Deputado Aguinaldo Ribeiro, para não redução da carga tributária do sistema bancário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f157411f78d89dac558291a30ed1972b042bf75c156a01691f5929925ba2fcd4
+size 322

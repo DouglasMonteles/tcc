@@ -1,1 +1,3 @@
-Elogios aos avanços da política externa brasileira nos Governos Lula e Dilma Rousseff. Importância da parceria estratégica do Brasil com os demais países integrantes do bloco BRICS. Registro do artigo Em tempos de ajuste, China investirá US$53 bi no Brasil, publicado no portal Brasil 247.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dc5e06a3c658ec5cbf3449f6e9e112055ba9c817b4c55132b49e0f8e3968e9c
+size 295

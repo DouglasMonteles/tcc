@@ -1,1 +1,3 @@
-Transcurso do aniversário de fundação da Igreja Evangélica Assembleia de Deus em Belém, Estado do Pará. Relevância do projeto social desenvolvido pela instituição religiosa no Município de Melgaço. Agradecimentos pela outorga ao orador do título de Cidadão Benemérito de Portel, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ef8891fc6c1a0d16dae6e347e73c6fd2a5885fa848adef8795fbc78b97342e2
+size 309

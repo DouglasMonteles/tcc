@@ -1,1 +1,3 @@
-Agradecimento à Casa pela aprovação de dispositivo da Medida Provisória nº 1.164, de 2023, destinado ao pagamento dos benefícios do Bolsa Família e do seguro-defeso aos pescadores artesanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a62072764f8ffef0e03e637de4ba27411d9f193f4716e98de77ead8837f338e3
+size 198

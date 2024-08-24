@@ -1,1 +1,3 @@
-Falecimento do Arcebispo Emérito do Município de Montes Claros, Estado de Minas Gerais, Dom Geraldo Majela de Castro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dff07de7dae0c9911596176f2788cb6dd9ba7d88a7c0fc65a9644f1130b92ea
+size 119

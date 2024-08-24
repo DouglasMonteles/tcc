@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 8, oferecida à Medida Provisória nº 859, de 2018, sobre a utilização de recursos do Fundo de Garantia do Tempo de Serviço - FGTS para financiamento de entidades hospitalares filantrópicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4bd37a1e6eaaf0285e53d968d6858f86e0743127328462c1f6d6ea635180cad
+size 301

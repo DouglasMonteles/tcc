@@ -1,1 +1,3 @@
-Convite aos membros da CPI  da Subnutrição de Crianças Indígenas para a reunião do órgão no dia 26 de fevereiro de 2008, às 14h.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2dd0e55f5479babed93f09a33d89207215a59667b657738174b12c341d212a8
+size 136

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Participação em ato na cidade de Ipiaú, Estado da Bahia, para discussão de problemas regionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00184fb621f3b44dab436cea7ca28c659866fccd1acee5a124b6c25638bef615
+size 142

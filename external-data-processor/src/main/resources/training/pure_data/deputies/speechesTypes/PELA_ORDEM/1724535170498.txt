@@ -1,1 +1,3 @@
-O Deputado prestou homenagem ao ex-Deputado Inocêncio Oliveira, natural de Serra Talhada, Estado de Pernambuco, ao ensejo do transcurso dos seus 85 anos de vida. O orador enfatizou a força sertaneja do político pernambucano, que foi Presidente da Casa e ocupou a Presidência da República por 80 dias no Governo Itamar Franco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49582b39210ddd18947e4f1b49972027a49947bb8e85d13259e74317ce5685c2
+size 330

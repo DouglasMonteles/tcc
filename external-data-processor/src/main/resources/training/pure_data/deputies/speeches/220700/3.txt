@@ -1,1 +1,3 @@
-Transcurso dos 44 anos de falecimento do Senador Dirceu Arcoverde. Comemoração do Dia Internacional da Mulher. Transcurso do aniversário do Município de Luzilândia, Estado do Piauí. Lançamento do novo Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99e85d1cc50474cd8496be4b8abf1faa1fa7fdb27c05cbdb0e3ca94a36cd9caa
+size 232

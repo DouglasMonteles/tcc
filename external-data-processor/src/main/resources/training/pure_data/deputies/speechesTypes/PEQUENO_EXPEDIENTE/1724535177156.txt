@@ -1,1 +1,3 @@
-Perfil político e ideológico do orador. Exercício do mandato parlamentar em defesa da aprovação de matérias relevantes para o desenvolvimento socioeconômico e para a segurança pública do País. Não participação do Parlamentar em conchavos políticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29ba1e263e1ab16ce932252a5e85241dbbd58db314c9623acf394c25a7bfa87e
+size 262

@@ -1,1 +1,3 @@
-Inauguração do Hospital Regional de Urgência, Emergência e Traumas Dom Luiz Gonzaga Fernandes, no Município de Campina Grande, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84e707c66c09a6c83814f3a06c969b5983349310a75296f2773acb8264706bd8
+size 151

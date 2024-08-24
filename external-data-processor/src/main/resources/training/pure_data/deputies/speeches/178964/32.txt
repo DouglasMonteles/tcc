@@ -1,1 +1,3 @@
-Reivindicação de fruticultores da Serra Gaúcha, Estado do Rio Grande do Sul, do pagamento do seguro agrícola pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41d1a89f5be328dc5fa94ec104fbce50a1e57bbc8f711e6da1b99255bb7b4817
+size 134

@@ -1,1 +1,3 @@
-Agradecimentos ao Sr. Ministro dos Transportes, Antonio Carlos Rodrigues, pelos esclarecimentos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d6fb6098d3b2b4d1865130c09cdd99a02a03f7940c0127e7177d4c88cea150c
+size 96

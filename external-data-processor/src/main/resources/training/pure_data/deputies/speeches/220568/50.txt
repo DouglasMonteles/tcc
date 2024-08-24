@@ -1,1 +1,3 @@
-O Deputado expressou críticas ao Governo, destacando questões como a dificuldade em atingir o déficit zero, cortes na educação, aumento nas denúncias de assédio sexual, e questões ambientais. Ele também criticou a abordagem diplomática do Governo do PT em relação ao Hamas. Citando diversas áreas, ressaltou desafios e críticas à administração atual. Enfatizou preocupações sobre o rumo do País em temas como economia, educação, meio ambiente e relações internacionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c3592f7f0ea91b44cafaa9de7356f5ff9e5793139f16ee5b14c60129a290fa1
+size 493

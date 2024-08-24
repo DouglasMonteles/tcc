@@ -1,1 +1,3 @@
-Maior atenção do Governo brasileiro para com o acordo de livre comércio celebrado entre o Mercado Comum do Sul - MERCOSUL e a União Europeia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe7f7dc34f395094ef290446cf18460dc4015b66d49ed65b4715eef37782ceba
+size 145

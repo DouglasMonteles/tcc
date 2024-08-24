@@ -1,1 +1,3 @@
-Alteração da sede fiscal das Usinas Hidrelétricas Jupiá e Ilha Solteira do Estado de São Paulo para o Estado de Mato Grosso do Sul, pelo Ministério de Minas e Energia, em atendimento a reivindicação do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64845fdd28d272b56032924220fec7a42369936a750a56905fca5a28604fd8be
+size 217

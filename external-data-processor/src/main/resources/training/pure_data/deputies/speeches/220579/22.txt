@@ -1,1 +1,3 @@
-A Deputada denunciou uma situação grave no Estado do Amapá: 140 pessoas submetidas a cirurgias do Programa Mais Visão, financiado por emendas parlamentares, resultaram em 90 pacientes cegos. Muitos estão sem registros médicos e não conseguem acessar seus prontuários. Apesar de notificar o governo estadual e o Ministério da Saúde, o Governo do Estado recusou fornecer informações para transferência desses pacientes, e a imprensa local foi impedida de cobrir o caso. A situação permanece sem resolução, deixando os afetados sem assistência adequada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f76821be284776598ee1815f1fe3377b07862a786add5f74495134ba22602c2
+size 568

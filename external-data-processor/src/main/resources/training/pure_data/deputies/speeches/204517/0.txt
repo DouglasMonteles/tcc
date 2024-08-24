@@ -1,1 +1,3 @@
-Dificuldades financeiras enfrentadas pelo Estado de Minas Gerais. Comprometimento do orador com ações de fortalecimento do agronegócio brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2989f1d4388c423dea952e8d126884016235b6ccfed68a60d61d4b6722d1d66
+size 149

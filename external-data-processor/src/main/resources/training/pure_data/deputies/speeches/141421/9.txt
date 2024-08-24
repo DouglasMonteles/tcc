@@ -1,1 +1,3 @@
-Criação de CPI destinada à investigação de reajustes abusivos de tarifas de energia elétrica no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a78df89dcc2dd58978826bcf266b83cfb746889e4abac0422a1947377de27e6e
+size 108

@@ -1,1 +1,3 @@
-Homenagem ao ex-Deputado Federal Vasco Azevedo Neto, ao ensejo do transcurso do 94º aniversário natalício. Necrológio do líder comunitário Antonio Sampaio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27ba52c6199a7a0fafed92278f4f561dc0b67222b5d47907c59a86cc06989621
+size 161

@@ -1,1 +1,3 @@
-Pedido à Presidência de esclarecimento quanto à decisão proferida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:862d475ef9de6e02b33ec827389a604ab2eec7e0b6e0192014f257ceadc9d728
+size 70

@@ -1,1 +1,3 @@
-Posicionamento favorável do PSB ao Projeto de Decreto Legislativo 1.048 de 2008 (Aprova os textos das Resoluções adotadas nas Sessões do Comitê de Segurança Marítima Internacional, ocorridas de 2003 a 2005, que resultaram em emendas à Convenção Internacional para a Salvaguarda da Vida Humana no Mar - SOLAS).  Necessidade de manifestação da Mesa Diretora a respeito da não liberação de recursos de emendas orçamentárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d19b43be999d6325f1714030e4ff0116643fd687ea2b04895d4a94319dd00306
+size 438

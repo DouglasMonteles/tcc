@@ -1,1 +1,3 @@
-Regozijo com a eleição da Deputada Rose de Freitas para a 1ª Vice-Presidência da Casa. Realização da primeira reunião da bancada federal do Estado do Espírito Santo  em 2011. Saudação à Ministra da Secretaria Especial de Políticas para as Mulheres, Iriny Lopes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdb184638f8d8e0027b1891825357149a2b30c778a37abd975084fb2ac59e61b
+size 273

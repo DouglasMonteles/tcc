@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à comitiva da Suécia presente no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a620bef60f2972e0a7ff2e60420f943b023b78afc4778bdcd8a356141131540d
+size 75

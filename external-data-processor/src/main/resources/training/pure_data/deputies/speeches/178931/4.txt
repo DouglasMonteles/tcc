@@ -1,1 +1,3 @@
-Condolências do orador às famílias das vítimas de acidente rodoviário no Município de União da Vitória, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec8bd011821ddb1ee9ac6feb2182fcf264e319997fd089262abe2f2e99e63b9f
+size 130

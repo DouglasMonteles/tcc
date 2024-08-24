@@ -1,1 +1,3 @@
-Denominação do espaço de eventos do Município de Canaã, Estado de Ceará, de Espaço Prefeito Sebastião Lopes Soares. Homenagem póstuma ao político cearense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:319b9663af6a34e2458a0953af06756365960fa45c34008313150ad0cd284db5
+size 165

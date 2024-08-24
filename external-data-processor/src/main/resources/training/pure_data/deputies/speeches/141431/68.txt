@@ -1,1 +1,3 @@
-Realização de reunião com fruticultores do Vale do São Francisco para debate de medidas em prol do setor, no Município de Petrolina, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3052f71407d159144f0a89998af9c10d25d46827a52ecfd6d1778654702f3afd
+size 159

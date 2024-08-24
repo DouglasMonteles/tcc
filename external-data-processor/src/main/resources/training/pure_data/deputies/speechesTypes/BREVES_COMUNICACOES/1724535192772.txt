@@ -1,1 +1,3 @@
-Urgente necessidade de regulamentação das operações com cartões de crédito no País. Realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d15263e3107c2f680ea80c45f9bc386c1d0b88d746ea175258cd53302c7265c
+size 127

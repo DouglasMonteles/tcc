@@ -1,1 +1,3 @@
-Protesto contra o reajuste de pedágio na BR-101, no Estado do Espírito Santo. Não duplicação da rodovia pela concessionária Eco101.
+version https://git-lfs.github.com/spec/v1
+oid sha256:106c26fa0b7e8a4903e7a2e827d63e07d6dda74f505369020f1c779e7a07ec34
+size 137

@@ -1,1 +1,3 @@
-Reivindicação ao Governo Federal de providências em face de precariedade de infraestrutura na região de Serra Pelada,  Município de Curionópolis, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1703451fcf034b0c401c7dd19eec6c73a299b75eb63d332d0e895ced7940f572
+size 168

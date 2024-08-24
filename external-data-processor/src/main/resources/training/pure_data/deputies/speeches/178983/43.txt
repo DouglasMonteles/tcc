@@ -1,1 +1,3 @@
-Cumprimentos à Deputada Brunny pela iniciativa do Projeto de Lei nº 2.434, de 2015, sobre o estabelecimento de penas mais severas aos envolvidos em irregularidades na aquisição de alimentos destinados à merenda escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9cc39724e8ded45505b5bccc3c40d93db521e42f1d3e31d70c1d41ebf64d5d0
+size 224

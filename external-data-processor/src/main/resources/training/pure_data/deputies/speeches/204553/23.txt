@@ -1,1 +1,3 @@
-Apresentação à Casa de requerimento de desagravo ao General de Exército, Eduardo Villas Bôas, diante de insultos do ensaísta Olavo de Carvalho. Proposta de retirada da comenda Grã-Cruz concedida ao ensaísta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a58a8ae0b2bd2a61bd3b1cd507065bbc32de5690e3fb5a27e7b72df66f336ff
+size 215

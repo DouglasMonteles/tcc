@@ -1,1 +1,3 @@
-Pedido ao Governo Federal de reintegração de funcionários da Colone e de pagamento de correção salarial a servidores do INSS. Anúncio da realização de encontros do Partido Republicano Brasileiro - PRB em municípios do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca81cc49976f46f77b1e941d862e9c94b1018c0f4bac07a05b3c4d9c07c54e67
+size 247

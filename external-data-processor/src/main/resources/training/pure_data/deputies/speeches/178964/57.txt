@@ -1,1 +1,3 @@
-Apresentação de proposição com vistas ao recrudescimento da pena para crimes de falsificação, corrupção, adulteração ou alteração de produtos alimentícios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8ca156268ef0589a6385a8378da7a81086cf0f4bcf66fc964278e1d9bab677f
+size 168

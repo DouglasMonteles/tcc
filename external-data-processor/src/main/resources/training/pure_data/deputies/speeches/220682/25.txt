@@ -1,1 +1,3 @@
-Apuração, pela CPMI destinada à investigação dos atos de vandalismo praticados contra as sedes dos Poderes da República, de diálogo entre o ex-Major do Exército brasileiro, Ailton Barros, e o coronel Elcio Franco sobre a realização de golpe de Estado. Natureza política da Operação Lava-Jato. Defesa de punição dos envolvidos nos atos antidemocráticos ocorridos no Distrito Federal no dia 8 de janeiro de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb700378a90d401f0bf1628e510486bea730eeea5576ca0ce2b4fb926c25f64d
+size 426

@@ -1,1 +1,3 @@
-Solidariedade aos familiares da Profa. Elisabeth Tenreiro, assassinada por aluno de 13 anos de idade em escola em escola pública de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bcbc4ca8429616d187f9620667a88be13c23ce6eaf8abb867037bd3a3c1c9a5
+size 166

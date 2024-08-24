@@ -1,1 +1,3 @@
-Presença no plenário dos Vereadores Luia Barbacovi, Rafael Ronsoni e Renan Sartori, do Município de Gramado, Estado do Rio Grande do Sul. Apoio ao discurso do Vice-Líder do partido NOVO, em defesa da liberdade de expressão e da imprensa. Protesto contra a censura imposta pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes, a órgãos de comunicação suspeitos de ataques à Suprema Corte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85d346cfb683b5e48b582f63344c6448adac57ddd7cce7ef7f622bbfe796969a
+size 407

@@ -1,1 +1,3 @@
-Transcurso do 124º aniversário de emancipação político-administrativa do Município de São Pedro do Turvo, Estado de São Paulo. Convite aos Deputados de participação na 28ª Festa do Peão de São Pedro do Turvo e na Feira Agropecuária e Industrial de Ourinhos, Estado de São Paulo. Congratulações ao Presidente da União Nacional de Rodeio, Carlos Madrugada Garieri. Anúncio do lançamento da Frente Parlamentar em Prol dos Rodeios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e82ac4f73b3be50172e993cbc6f87e9fc254328e2183bac606ed6474d9c0571
+size 447

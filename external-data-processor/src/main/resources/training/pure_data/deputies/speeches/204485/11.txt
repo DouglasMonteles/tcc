@@ -1,1 +1,3 @@
-Transcurso do 83º aniversário da Federação dos Comerciários do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df3da26a8b82d43ae5a460ad8d571ed3094ab3aeccfee2f42f55ef34016fbf81
+size 89

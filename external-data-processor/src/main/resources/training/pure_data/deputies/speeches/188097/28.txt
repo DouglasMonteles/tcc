@@ -1,1 +1,3 @@
-Protesto contra a desativação da Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA - Meio Norte no Município de Parnaíba, Estado do Piauí. Necessidade de manifestação da Casa sobre o sucateamento de órgãos públicos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57e1a3dbbe7c003dd9d7241592616968b261ecf38ac24f4eb8ba57a3a2fc7ecd
+size 239

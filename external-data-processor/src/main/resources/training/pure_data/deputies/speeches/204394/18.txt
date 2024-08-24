@@ -1,1 +1,3 @@
-Aflição da comunidade acadêmica diante do corte, pelo Governo Federal, de recursos orçamentários destinados às universidades federais. Indignação com declarações de setores do Governo sobre a vinculação entre a liberação de recursos para a educação e a aprovação da proposta de reforma previdenciária. Adoção, pelo Governo Jair Bolsonaro, de medidas prejudiciais ao povo brasileiro. Decisão do PSB de obstrução das votações na Casa até a recomposição das dotações orçamentárias da área educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6676e98e23ee91c766278d6937eb4b57ec58c5a3d55e36898ada3ecc78b1cc3
+size 532

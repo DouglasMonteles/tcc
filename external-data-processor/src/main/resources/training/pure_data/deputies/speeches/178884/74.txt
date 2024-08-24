@@ -1,1 +1,3 @@
-Indignação com a violência em São Luís, Estado do Maranhão. Pedido ao Governador Flávio Dino de adoção de providências com vistas à garantia de segurança à população ludovicense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8df0e380d3a20721d1acd28527ecbb63512934414b6fc9410181dac4d399ee77
+size 193

@@ -1,1 +1,3 @@
-Empenho do orador na reabertura da agência da Capitania dos Portos do Município de Aracati, Estado do Ceará. Transcurso do 80º aniversário de fundação do jornal O Povo,  de Fortaleza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8817b9529311efadc703dc76c0f21b1e98f5f6ebaf720961f1f21aa169d9831
+size 190

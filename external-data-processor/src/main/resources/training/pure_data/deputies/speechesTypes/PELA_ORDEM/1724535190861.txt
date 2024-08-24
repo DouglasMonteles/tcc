@@ -1,1 +1,3 @@
-Congratulações à Mesa Diretora pela realização de exposição nos corredores da Casa. Realização, pela Comissão da Amazônia, Integração Nacional e de Desenvolvimento Regional, de audiência pública para debate da situação do transporte fluvial regional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:623c3528aabbe4ecfcd1c77c28425cdffffc5d7731a0c59898a92f6a68928f27
+size 267

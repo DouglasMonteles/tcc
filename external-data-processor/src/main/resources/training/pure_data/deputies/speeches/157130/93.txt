@@ -1,1 +1,3 @@
-Repúdio às declarações do Deputado Eduardo Bolsonaro sobre realização de viagem ao Catar em missão oficial durante a realização da Copa do Mundo de Futebol. Apresentação de requerimento de informação sobre o assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db5fbc8a977b1fc4a1fdf92697fefc63f0372dca999a0e3807def1c7737d852e
+size 229

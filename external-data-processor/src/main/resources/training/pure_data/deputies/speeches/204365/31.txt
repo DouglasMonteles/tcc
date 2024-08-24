@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de adiamento, por duas sessões, da votação do Substitutivo do Senado Federal ao Projeto de Lei nº 5.029, de 2019, (11.021-B, de 2018, na Câmara dos Deputados), a respeito das regras aplicadas às eleições.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a3750ddcfeaf035203cce5e590a2d73df2a6854274ad330c89c0efbc8972bbd
+size 256

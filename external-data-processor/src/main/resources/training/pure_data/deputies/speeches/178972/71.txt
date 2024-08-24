@@ -1,1 +1,3 @@
-Orientação da respectiva bancada para votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição n º 395, de 2014, que altera a redação do inciso IV do art. 206 da Constituição Federal, referente à gratuidade do ensino público em estabelecimentos oficiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9911749060feea6b9400357a056a2629e30418cf815d347b9bcd2c345391e98d
+size 293

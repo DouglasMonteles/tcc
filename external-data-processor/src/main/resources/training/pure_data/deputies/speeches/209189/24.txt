@@ -1,1 +1,3 @@
-Observação pelo orador, em plenário, de manifestações de intolerância e desrespeito praticadas por Deputados contra opositores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f9aae44c95e5d5d83d7b0513b3c6e35754d560a384a5ae648dd876bb2335b52
+size 133

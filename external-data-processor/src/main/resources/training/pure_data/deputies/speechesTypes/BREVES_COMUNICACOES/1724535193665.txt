@@ -1,1 +1,3 @@
-O Deputado destacou a necessidade de enfrentar esquemas criminosos relacionados a apostas em jogos virtuais, que opera como uma pirâmide financeira. Expressou preocupação com a destruição financeira causada por essa prática e ressaltou a importância de estabelecer mecanismos legais rigorosos para responsabilizar desenvolvedores e influenciadores envolvidos. Protocolizou o requerimento de urgência para a apreciação em plenário do Projeto de Lei nº 3.915, de 2023, que prevê a proibição da divulgação e promoção de empresas de apostas, cassinos e jogos de azar por parte dos desenvolvedores, influenciadores e artistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b72f1f5ad0bfecf5e4ea7d82ec0573846680c658f463c13990accf3e08ae7bdd
+size 640

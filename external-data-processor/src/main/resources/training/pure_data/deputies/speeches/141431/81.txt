@@ -1,1 +1,3 @@
-Contratação, pelo Governo do Estado de Pernambuco, de servidores públicos para preenchimento de vagas nas áreas de educação e engenharia em municípios pernambucanos. Apelo ao Governador Eduardo Campos de inclusão de Petrolina entre as cidades beneficiadas com a medida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c46798f085478f3634a2a0edee9762e067a1a94e8574feef04f271da688359
+size 277

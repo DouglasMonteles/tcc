@@ -1,1 +1,3 @@
-Sessão solene em homenagem à Semana Farroupilha.(As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae82fb2eba434b57ccba0e980af266f2bb37c6d8c2e1099a12009e9b8a9fc096
+size 183

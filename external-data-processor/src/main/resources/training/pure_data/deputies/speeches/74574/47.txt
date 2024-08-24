@@ -1,1 +1,3 @@
-Elevação do índice de popularidade da Presidenta Dilma Rousseff, segundo Datafolha Instituto de Pesquisas. Proficuidade da gestão do Governo Federal. Expectativa de reeleição da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad5fd85d619ad891e9d9f0b1b373d0c53123a82da55fb9836dd71d7b73503411
+size 210

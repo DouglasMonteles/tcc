@@ -1,1 +1,3 @@
-Solidariedade aos povos da Síria e da Turquia diante da tragédia causada por terremoto. Prejuízos causados aos portadores de câncer pela suspensão do repasse de recursos governamentais a hospital de referência no tratamento da doença, no Estado de Alagoas. Configuração do afundamento do porta-aviões São Paulo como prática de crime ambiental pelo Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f06961c86f0ebae8f495fb98241ac086abf28becf9d38b2cdae1805770645006
+size 395

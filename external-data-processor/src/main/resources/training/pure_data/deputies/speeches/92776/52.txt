@@ -1,1 +1,3 @@
-Comemoração do Dia do Advogado. Transcurso de aniversário da criação de cursos jurídicos no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ea5c6a8a0850fdf6480de6d76a2867acb0684b468d37749e6badf8aa465b0f4
+size 105

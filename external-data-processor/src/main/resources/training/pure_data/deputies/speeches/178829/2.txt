@@ -1,1 +1,3 @@
-Pedido ao Governador de São Paulo, Geraldo Alckmin, de extensão às policiais militares femininas do direito à aposentadoria após 25 de tempo de serviço, previsto em lei para as demais categoriais policiais. Conveniência de revisão, pela Casa, da lei que regula a aposentadoria de policiais femininas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:754b029523d51f1f5388e3c2bfeeec638ad5f9a547c81cac37d79b2f9e2a1a19
+size 308

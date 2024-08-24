@@ -1,1 +1,3 @@
-Associação ao pronunciamento da Deputada Carmen Zanotto sobre a importância de aprovação do Projeto de Lei do Congresso Nacional nº 42, de 2019, para a recuperação da malha rodoviária federal catarinense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12b3433ccc1e476805b3c7aff6cefff6a4fadbe1304086cb7203b18eb436e4a8
+size 213

@@ -1,1 +1,3 @@
-Contestação à réplica de Deputado ao discurso proferido pela oradora a respeito do Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88ec7e94e651879db13f15f535b589643c3738d984e1d9d7d209322de9afd159
+size 122

@@ -1,1 +1,3 @@
-Leitura de Ato da Presidência sobre a constituição de Comissão Especial destinada à emissão de parecer à Proposta de Emenda à Constituição nº 171-A, de 1993, que altera a redação do art. 228 da Constituição Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:722ed47f1969c67cf5ab0210aad7c86a446bf83f4ba0370a401523d60fec8d88
+size 230

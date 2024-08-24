@@ -1,1 +1,3 @@
-Incoerência do posicionamento de Deputados da Esquerda favorável ao reajuste dos preços de combustíveis
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f9bc607ae6494f10950ded93647720cfac30618ca8df15357eecd5b23eb11e5
+size 107

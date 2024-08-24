@@ -1,1 +1,3 @@
-Resultado de reunião de membros da Frente Parlamentar da Agropecuária e da Frente Parlamentar Mista do Café com o Presidente da República destinada ao debate sobre o cancelamento de importação de café pelo Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:397e2ef4ac0444b73e3ecea7ab0a23f737d2326ba9aa127a3ae405556d9da0c0
+size 220

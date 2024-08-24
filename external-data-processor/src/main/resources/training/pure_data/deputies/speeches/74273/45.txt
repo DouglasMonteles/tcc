@@ -1,1 +1,3 @@
-Importância da garantia dos direitos das crianças para a construção de uma sociedade livre e solidária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94d42afbec98f042a4dff2848fe921e7298bb2245892c5efa5bf0c9b1cf77db7
+size 108

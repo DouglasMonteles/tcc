@@ -1,1 +1,3 @@
-Caráter prioritário dos investimentos governamentais na educação, especialmente no ensino básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b96f54a09d3b204332fb708d431051af8dcb15a379be9a444093e8a6a6f4ac2b
+size 102

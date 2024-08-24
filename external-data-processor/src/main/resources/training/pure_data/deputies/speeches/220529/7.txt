@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Defesa e Proteção Civil. Homenagem aos profissionais do setor. Ocorrência de tragédias no País provocada por temporais e chuvas intensas. Solicitação aos Deputados de apoio ao requerimento de criação da Frente Parlamentar de Gestão de Riscos e Desastres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3049d3bc1f413e9a80c937f2b142a2f3a0a7eb35602289290bf6aed998923a90
+size 299

@@ -1,1 +1,3 @@
-Indignação do orador com o Banco do Brasil pela ausência de solução em termos do atendimento da população do Município de Santana do Araguaia, Estado do Pará, ante assalto à agência bancária da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65ee27a266478f02b392c1eb1bfe9156e598c623b09c18da6a2e6c5580718710
+size 221

@@ -1,1 +1,3 @@
-Consulta à Presidência sobre a manutenção de acordo de procedimentos para a votação a Proposta de Emenda à Constituição nº 77, de 2003, a respeito da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eb368b953131b0caa11afda0dda231c6db6099027ba04a9071b98bbb27215e3
+size 178

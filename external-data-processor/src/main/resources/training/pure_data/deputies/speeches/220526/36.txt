@@ -1,1 +1,3 @@
-Réplica ao discurso ofensivo proferido por Deputado do PT contra o orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e60be88e4bd3b294d861d74adbaf7ddc0540d54d840202f179ef0efddf9de40d
+size 75

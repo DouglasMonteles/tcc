@@ -1,1 +1,3 @@
-Orientação de bancada para votação do parecer da Comissão Mista quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e da adequação financeira e orçamentária da Medida Provisória nº 783, de 2017, sobre a instituição do Programa Especial de Regularização Tributária junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ac6ba6bd274b0b476dae6995f80daea3165f9dde82509710e9b844c3c314cc9
+size 403

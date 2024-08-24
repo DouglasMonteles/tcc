@@ -1,1 +1,3 @@
-Reajuste em 33,24,% do piso salarial dos profissionais do magistério público da educação básica do Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed514dc34cc19a1020ca74d44ddfe1f645e473627c4f5e57f84091afcdc5a520
+size 127

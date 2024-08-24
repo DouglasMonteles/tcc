@@ -1,1 +1,3 @@
-O Deputado parabenizou o Município de Pomerode, em Santa Catarina, pelo prêmio de melhor queijo na América Latina no World Cheese 2023, na Noruega.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5519e3cb807da30eca6e4246c8f537975b7c85bd37226c625a7e7d4e82fea28a
+size 150

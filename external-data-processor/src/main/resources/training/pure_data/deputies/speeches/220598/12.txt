@@ -1,1 +1,3 @@
-Apelo à Casa de criação da frente parlamentar em defesa dos atingidos por enchentes e desastres socioambientais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6006dac6841686024843987f27bee0c77df4662bbdf8f4dc94bf28f95d3ed97b
+size 115

@@ -1,1 +1,3 @@
-Posicionamento favorável do PSDB ao Projeto de Lei 5.545 de 2009 (Altera a composição do Tribunal Regional do Trabalho da Décima Terceira Região e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:272f8f6531803019f6206e8bbc502f5549334d3a7cf501a6a3522abebd6cccbc
+size 178

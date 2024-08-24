@@ -1,1 +1,3 @@
-Presença na Casa de estudantes do Colégio CCI, da Região Administrativa de Samambaia, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d30c8299aeb6c7c48053f1944232e492a5bea2694e1bf2044c078c681a63705
+size 106

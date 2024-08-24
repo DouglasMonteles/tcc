@@ -1,1 +1,3 @@
-Inadmissibilidade da cobrança de impostos sobre a geração de energia renovável no Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fc5555ccaa1506eb9711ac8cc7eec77861cbc39525165ac88f482aeffbfa00e
+size 108

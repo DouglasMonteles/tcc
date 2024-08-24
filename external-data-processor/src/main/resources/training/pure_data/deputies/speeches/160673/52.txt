@@ -1,1 +1,3 @@
-Comemoração do Dia Internacional do Cooperativismo no Estado do Rio Grande do Sul. Expectativa quanto ao apoio do BNDES ao setor cooperativista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a9759a2bef0efc5d6b18c5bc65157c42cd71817c92a9a3ded2e12b81f40655c
+size 146

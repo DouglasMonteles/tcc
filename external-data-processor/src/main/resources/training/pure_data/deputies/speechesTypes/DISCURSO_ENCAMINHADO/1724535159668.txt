@@ -1,1 +1,3 @@
-Transcurso do 13º aniversário de promulgação da Lei nº 11.340, de 2006, a Lei Maria da Penha, destinada ao combate à violência doméstica contra a mulher. Elevação das solicitações de medidas protetivas apresentadas perante o Juizado de Violência Doméstica e Familiar contra a Mulher na Comarca de Macapá, Estado do Amapá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0506479ce05b28e7dbffbb6a24170152ffdc27566877292e4ab50e6b0caa0098
+size 337

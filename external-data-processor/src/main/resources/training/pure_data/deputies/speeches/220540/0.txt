@@ -1,1 +1,3 @@
-O Deputado denunciou a crise em Roraima após a cassação do Governador, destacando a busca de empréstimo bilionário enquanto questões essenciais como saúde materna são negligenciadas. Alertou sobre gastos excessivos e não licitados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af710ae20a5235dc29cf54c6abd9c34fa6156f89c91291cb270b3b6f5fdee8e1
+size 240

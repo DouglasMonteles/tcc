@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Decreto Legislativo nº 776, de 2021, acerca da aprovação do texto do Tratado entre a República Federativa do Brasil e a Romênia sobre Auxílio Jurídico Mútuo em Matéria Penal, assinado em Brasília, em 13 de junho de 2017.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcf31123aa4e27f27807fd4009a3138b1bb13676d8d48cbf31da331091e0a453
+size 281

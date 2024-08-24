@@ -1,1 +1,3 @@
-Realização, pelo jornal Folha da Manhã, de ato de confraternização no Município de Campos dos Goytacazes, Estado do Rio de Janeiro. Relevância do Superporto do Açu e do Complexo Logístico e Naval Farol-Barra do Furado, no Norte Fluminense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9e2cb2d1c39d26b70947ee94f2ad59a2f93fb1e9fbac11f83f41ed56979f132
+size 248

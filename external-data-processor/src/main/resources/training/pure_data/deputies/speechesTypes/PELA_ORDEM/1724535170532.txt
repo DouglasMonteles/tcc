@@ -1,1 +1,3 @@
-Defesa de realização da reforma previdenciária. Vinculação entre a reformulação do sistema de proteção social dos militares das Forças Armadas brasileiras e a reestruturação da carreira dos seus integrantes. Prisão de ex-Presidente da República e assessores denunciados por prática de corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a32e38723e0050b348b43cea5fe286407e3411b0e45e2e7b6851296be06e2d6
+size 312

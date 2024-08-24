@@ -1,1 +1,3 @@
-Envolvimento do clã Bolsonaro no assassinato da Vereadora Marielle Franco. Ocorrência de escândalos de corrupção no Governo Jair Bolsonaro. Repúdio à proposta oposicionista de criação de CPI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16d732180ced3d9dd464bec1250f7e7cf36c4215afe1787803f3d3a74986899b
+size 200

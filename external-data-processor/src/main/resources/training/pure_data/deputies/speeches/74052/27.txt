@@ -1,1 +1,3 @@
-Falecimento do empresário Noel Barbosa em decorrência da Covid-19, no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7efe88097e5025ddf7140f4062996c493abadb1a6cb6a1b977408a50eba377cb
+size 90

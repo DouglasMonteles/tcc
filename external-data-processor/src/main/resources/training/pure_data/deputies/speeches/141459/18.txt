@@ -1,1 +1,3 @@
-Posicionamento contrário do PR   ao Requerimento de discussão por grupo de artigos da Medida Provisória 482 de 2010 (Dispõe sobre medidas de suspensão de concessões ou outras obrigações do País relativas aos direitos de propriedade intelectual e outros, em casos de descumprimento de obrigações do Acordo Constitutivo da Organização do Comércio - OMC).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1868c4f43ebea4769b2b1c1d426bd070176e012dc956a2dcc7887a4e3c803914
+size 366

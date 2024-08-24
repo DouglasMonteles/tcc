@@ -1,1 +1,3 @@
-Requer o encerramento da presente sessão conjunta por evidente falta de quorum.
+version https://git-lfs.github.com/spec/v1
+oid sha256:727b703362e7e087f868765941ff0c80d2130074bba879fc9783c895f55926ca
+size 80

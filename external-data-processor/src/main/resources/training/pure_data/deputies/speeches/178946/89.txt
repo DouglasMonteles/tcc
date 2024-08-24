@@ -1,1 +1,3 @@
-Orientação de bancada do PMDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5d12351d32315d2a8219495897110d9abbcd2e1fc7be995579948ab6df0c85f
+size 32

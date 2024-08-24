@@ -1,1 +1,3 @@
-Concessão de homenagem ao orador pelo Clube de Engenharia de Brasília.
+version https://git-lfs.github.com/spec/v1
+oid sha256:968670d7c04a72ffd9b2042bc7bff8f2acd10ca356a6447d389f3c8364e6f91a
+size 72

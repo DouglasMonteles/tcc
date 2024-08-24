@@ -1,1 +1,3 @@
-Congratulações aos membros do PSD, especialmente ao Deputado Guilherme Campos. Elogio à Presidenta Dilma Rousseff pelo estabelecimento de parcerias com o Governador do Estado de São Paulo, Geraldo Alckmin, e com o Prefeito Municipal de São Paulo, Gilberto Kassab.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07cc4a455ad11f204b3b7206fca212c8a01037401afb4dd63848df460e37a071
+size 268

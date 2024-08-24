@@ -1,1 +1,3 @@
-Reflexões sobre o transcurso do Dia Nacional de Combate à Homofobia (17 de maio), do Dia Nacional de Luta Antimanicomial (18 de maio) e do Dia Nacional de Combate ao Abuso e à Exploração Sexual Contra Crianças e Adolescentes (18 de maio).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2868a4ca5f0ff8f832fcfcd00c1a092e59976585431596f699b349239ae7ecd
+size 244

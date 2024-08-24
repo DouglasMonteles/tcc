@@ -1,1 +1,3 @@
-Elogio ao Presidente Marco Maia pela condução dos trabalhos no plenário da Casa. Indicação, pela Presidenta eleita do Brasil, Dilma Rousseff, do Senador Alfredo Nascimento para o Ministério dos Transportes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:510c51ba1164adbfce85c19c7413b6c250a906e6e99a66204da75df8d06decf3
+size 212

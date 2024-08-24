@@ -1,1 +1,3 @@
-Beatificação de Irmã Dulce em ato religioso, em Salvador, Estado da Bahia. Apoio do Parlamentar às Organizações Sociais Irmã Dulce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86461ec8d48ce5afe292f86e2bfc6d187dc7209d7a5bd50188e1589487bebf6b
+size 138

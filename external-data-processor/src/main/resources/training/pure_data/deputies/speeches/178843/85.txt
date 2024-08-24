@@ -1,1 +1,3 @@
-Imediato pagamento, pelo Ministério do Trabalho e Previdência, do seguro defeso aos pescadores de camarão do Estado de Alagoas,
+version https://git-lfs.github.com/spec/v1
+oid sha256:d244e7a12c981392468b633eb095dec6f7a3101fcd3ced1f49cba0ab193d7f1d
+size 130

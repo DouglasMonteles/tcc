@@ -1,1 +1,3 @@
-Orientação da respectiva bancada do requerimento de votação artigo por artigo da Medida Provisória nº 752, de 2016, que dispõe sobre diretrizes gerais para a prorrogação e a relicitação dos contratos de parceria que especifica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a9f08259252287a3737d964a3825e487373995f4974e3e1f4334615a0f0a726
+size 238

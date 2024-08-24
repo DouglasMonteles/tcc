@@ -1,1 +1,3 @@
-Reiteração de cobrança de providências pela Agência Nacional de Transportes Terrestres - ANTT quanto à melhoria do sistema de transporte coletivo nos Municípios goianos localizados no Entorno do Distrito Federal. Congratulações à população do Município de Luziânia, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62bb021d754c43a24363fa1f7fce50047e0b187331d480b9ac550bb2b59a2b56
+size 297

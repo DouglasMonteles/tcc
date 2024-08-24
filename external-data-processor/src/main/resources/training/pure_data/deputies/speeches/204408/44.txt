@@ -1,1 +1,3 @@
-Anúncio, pelo Presidente Jair Bolsonaro, de elevação do benefício do Bolsa Família para 300 reais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f6a27fcd13954467d5147b32c80be4bb504c8f6cce29cec1f46dd097360a240
+size 103

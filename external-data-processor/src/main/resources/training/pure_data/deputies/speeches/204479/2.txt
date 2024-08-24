@@ -1,1 +1,3 @@
-Apresentação de projetos de lei relativos ao setor de mineração.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a796d6ac42bd9247f3c933c8898f9e10c148665414eecddbd9934b50362045b5
+size 68

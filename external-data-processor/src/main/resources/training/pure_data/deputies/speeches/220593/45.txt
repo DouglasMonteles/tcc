@@ -1,1 +1,3 @@
-Atuação da Polícia Militar em conjunto com a Polícia Civil e a Polícia Federal contra a criminalidade no Estado de Mato Grosso. Prisão pela polícia de estudantes responsáveis pela criação de rede social falsa para disseminação de pânico no ambiente escolar. Inexistência de Deputados da Esquerda no Estado. Manutenção da disciplina e do civismo nas escolas mato-grossenses. Não propagação de matérias atentatórias à célula familiar em Mato Grosso. Congratulações ao Governo Estadual pelas medidas de combate a crimes físicos e cibernéticos no Município de Confresa. Manutenção do perfil de Direita do Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:257314aa71521eb896fe8b1bc978797a3314cdbc8d9dd83ba1cb7563f7a0f9ff
+size 653

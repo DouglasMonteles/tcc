@@ -1,1 +1,3 @@
-Importância de aprovação do Projeto de Lei nº 3, de 2023, sobre a criação do Protocolo Não é Não de atendimento à mulher vítima de violência sexual ou assédio em discotecas, estabelecimentos noturnos, eventos festivos, bares, restaurantes ou qualquer outro local de grande circulação de pessoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d6cf94718bd1f0610725f5a491776c4456809cd47a0bb36aa58ca7bb2c8c035
+size 310

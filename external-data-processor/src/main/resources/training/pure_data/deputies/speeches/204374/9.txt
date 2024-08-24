@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 4º da Lei 12.414, de 2011, constante do art. 2º do Substitutivo apresentado ao Projeto de Lei Complementar nº 441, de 2017, sobre a criação do cadastro positivo de crédito e a regulamentação da responsabilidade civil dos operadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aef8969dc73b71c9dd8920f57154ca8cf7b03ae92bdea7e173a0ff24f3d0b51f
+size 340

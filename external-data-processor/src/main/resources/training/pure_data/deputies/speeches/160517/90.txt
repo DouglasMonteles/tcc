@@ -1,1 +1,3 @@
-Realização, pela organização não governamental WWF em conjunto com a empresa Ecossistema Consultoria Ambiental, do cálculo da chamada Pegada Ecológica do Estado de São Paulo e de sua Capital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62b965d12e65c13093c0a42c98ebd44d5ee67fb980e75ff0e92fe4751dbac36c
+size 199

@@ -1,1 +1,3 @@
-Isenção de responsabilidade da atividade agrícola pela crise hídrica na Região Sudeste. Esclarecimentos técnicos acerca do ciclo hidrológico. Necessidade de medidas de saneamento básico pelos governos com vistas à redução da poluição dos rios e aproveitamento das águas fluviais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:555814293f96a002f46d234f9ad207847f92f206bf8592da9b760ee86d5a667b
+size 293

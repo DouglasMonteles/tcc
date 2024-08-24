@@ -1,1 +1,3 @@
-Reativação do trem do Pantanal, no Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd42f4b63fb18b0e6807e3f1dff2e02125ecfc953fe0a40785ee04291a7238ed
+size 66

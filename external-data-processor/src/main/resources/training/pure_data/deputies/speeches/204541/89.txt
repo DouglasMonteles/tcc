@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global, oferecida pela Relatora da Comissão de Ciência e Tecnologia, Comunicação e Informática ao Projeto de Lei nº 21, de 2020, sobre o estabelecimento de fundamentos, princípios e diretrizes para o desenvolvimento e a aplicação da inteligência artificial no Brasil, ressalvados os destaques. Congratulações à Relatora Luisa Canziani. Agradecimento ao Deputado Leo de Brito pela retirada de requerimentos de obstrução das votações da matéria. Pedido aos Deputados de aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b90f541dd4fb6da9df9cb785967b5e3c36770dceb96fe2a52f1bef509a902ae1
+size 576

@@ -1,1 +1,3 @@
-Reflexos da crise financeira mundial sobre a economia brasileira. Vantagens advindas da realização de investimentos na produção de biodiesel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95943f99ffbb91dfd3f4f30ed5131c370f0670b33bb660a58e81b9f7ad956843
+size 145

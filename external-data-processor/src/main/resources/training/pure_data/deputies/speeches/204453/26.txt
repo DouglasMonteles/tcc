@@ -1,1 +1,3 @@
-Descaso do Governo Jair Bolsonaro com a tragédia ambiental provocada pelo vazamento de petróleo no litoral da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df71202f574658c3c53d4f681edec969d9cee91cb9527999919bfbb7ffc2be0b
+size 129

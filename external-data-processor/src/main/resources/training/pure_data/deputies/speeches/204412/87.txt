@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a Medida Provisória nº 1.185, de 2023, que dispõe sobre o crédito fiscal decorrente de subvenção para a implantação ou a expansão de empreendimento econômico. Ressaltou os riscos tributários que afetam negativamente o setor de saúde e as empresas farmacêuticas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:837c74bd24daa2cb45de81b872a80ffd54dd257801771dfb9b8e758deab1dbec
+size 313

@@ -1,1 +1,3 @@
-Posicionamento contrário do PDT à  Emenda 1, destacada,  da Comissão de Educação e Cultura, ao Substitutivo ao Projeto de Lei 7.703 de 2006 (Define a área de atuação, as atividades privativas e os cargos privativos de Médico resguardadas as competências próprias das diversas profissões ligadas à área de saúde - Ato Médico), que acrescenta o termo médico no inciso I do art. 4º que trata das atividades privativas do médico. Posicionamento favorável do orador à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:718d973fe2e3d2b0ce139f95e065421bdb7a4fe4153a6c8d88a450e0e9f79795
+size 493

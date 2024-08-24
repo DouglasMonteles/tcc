@@ -1,1 +1,3 @@
-Urgente aprovação da Proposta de Emenda à Constituição nº 300, de 2008, sobre a remuneração de Policiais Militares. Anúncio pelo Governador do Estado da Bahia, Jaques Wagner, de adoção de medidas em prol do sistema de segurança pública da Ilha de Itaparica. Visita de autoridades públicas à localidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e1a97af00e7e896b9c161be63d959b14515b75740685424a3d14edc8627cabd
+size 317

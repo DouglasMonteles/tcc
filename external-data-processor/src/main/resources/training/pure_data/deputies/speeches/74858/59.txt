@@ -1,1 +1,3 @@
-O Deputado denunciou a profunda desigualdade no sistema tributário, questionando a isenção de impostos para os mais ricos em fundos exclusivos e offshores. Apontou a urgência na tributação de dividendos e criticou a isenção para diretores do Itaú, devido à distribuição de lucros e dividendos, ressaltando a singularidade do Brasil e Estônia nesse aspecto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:391c1ded3132f3acf0074e498473911d4dcea2928a952f852a5ae46b4e38da9e
+size 369

@@ -1,1 +1,3 @@
-Contestação a discursos de Deputados de esquerda sobre a existência de perseguição judicial ao ex-Presidente Luiz Inácio Lula da Silva. Expectativa de derrota do ex-Presidente da República para o Deputado Jair Bolsonaro nas eleições presidenciais de 2018.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1a08748006a715e21ecf63b789f25be587d0ec4d97fcf5489be45fc6afbcfe4
+size 264

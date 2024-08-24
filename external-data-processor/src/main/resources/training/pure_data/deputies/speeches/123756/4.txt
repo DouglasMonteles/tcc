@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado do Acre pelos votos recebidos nas eleições de 2010. Encaminhamento, à Casa Civil da Presidência da República, de requerimento de informação sobre as obras realizadas em municipalidades acreanas com recursos do Programa de Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca94bfb8e554f2cb1c0aa73d2028932e8b9937a21ba68450e87f1897cdb1cd15
+size 301

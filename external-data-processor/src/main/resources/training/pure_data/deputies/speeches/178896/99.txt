@@ -1,1 +1,3 @@
-Imediata votação de matéria de interesse do Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8588b89b49b2abf3e33c87d2aecc7ec106fb21691d7b56cb307798f937efcd78
+size 70

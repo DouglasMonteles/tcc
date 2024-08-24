@@ -1,1 +1,3 @@
-Encaminhamento da proposta de reforma tributária ao Congresso Nacional pelo Governo Luiz Inácio Lula da Silva. Apoio à proposta elaborada pelo economista Marcos Cintra sobre a matéria. Protesto contra a excessiva edição de medidas provisórias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f0a5cc10c34fad5b68b8336daea6bdcf76b7488b7bf963a0b0b4bd9f3dc25b0
+size 250

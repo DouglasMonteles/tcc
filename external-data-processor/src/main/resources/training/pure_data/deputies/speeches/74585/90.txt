@@ -1,1 +1,3 @@
-Instalação, pela Comissão de Segurança Pública e Combate ao Crime Organizado, da Subcomissão Especial do Registro de Identidade Civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec755ecb702e04a1d993d98e548d191acaef3ba74b00190f101dda7f7f2ceb13
+size 140

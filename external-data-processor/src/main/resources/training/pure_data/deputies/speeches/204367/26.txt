@@ -1,1 +1,3 @@
-Emissão de parecer à Proposta de Emenda à Constituição nº 186, de 2019, a chamada PEC Emergencial, referente à criação de mecanismos de ajuste fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c93fbb467a33d54043914e5ffbc15b82fe23eeb16afa13f5aeefcccd90d5ff39
+size 159

@@ -1,1 +1,3 @@
-Lançamento da 3ª fase do Plano de Expansão da Rede Federal de Educação Superior, Profissional e Tecnológica. Instalação de novas unidades do Instituto Federal de Educação, Ciência e Tecnologia - IFET em Municípios do Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ded1b93f379aac44624ab9de51932fd37c2a1d25c481d2a5691d71c77de8c642
+size 248

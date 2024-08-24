@@ -1,1 +1,3 @@
-Apelo à Presidência de instalação da CPI destinada à investigação de denúncias de irregularidades na instalação de radares eletrônicos de velocidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47bbdc856b9a491fea42b78bbfd4277877a1cb892ace4da59176efbbfca0c43b
+size 160

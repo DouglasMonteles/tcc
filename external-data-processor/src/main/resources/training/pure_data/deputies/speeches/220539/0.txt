@@ -1,1 +1,3 @@
-Experiência profissional do orador. Compromisso de atuação parlamentar em prol do povo brasileiro. Saudações aos defensores públicos. Ineditismo da eleição de defensor público para o cargo de Deputado Federal. Presença, na Casa, dos Srs. Tília Cruz, Luiz Sanches e Bento Franklin, respectivamente prima e amigos do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83d16a6ebbc15cdd7a8411a32290731aad809a1cc6870199fa9ff4945c1fba90
+size 333

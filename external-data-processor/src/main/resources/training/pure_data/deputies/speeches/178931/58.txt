@@ -1,1 +1,3 @@
-Reafirmação de voto favorável ao parecer pela admissibilidade do processo de impeachment contra a Presidente da República, Dilma Rousseff. Decadência econômica do Brasil em face da má gestão e de escândalos de corrupção no Governo petista. Existência de provas de cometimento de crime de responsabilidade fiscal pela Chefe do Poder Executivo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71909d598491fd45d2c3a604070f8e10174b197f8bc68a493efbb1b33f17919a
+size 362

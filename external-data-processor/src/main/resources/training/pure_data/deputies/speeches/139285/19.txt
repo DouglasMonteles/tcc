@@ -1,1 +1,3 @@
-Apoio de Parlamentares ao projeto de renovação da Universidade Federal da Bahia. Desempenho do ex-Reitor da instituição Edgard Santos e do atual Reitor, Naomar de Almeida Filho. Empenho do Governador Jaques Wagner na  ampliação das universidades do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ad3e2021a1e54eced2239f110517a7b6ef9f991521f520ff51c099cc966fbf1
+size 262

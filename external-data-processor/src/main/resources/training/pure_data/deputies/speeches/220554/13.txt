@@ -1,1 +1,3 @@
-Relançamento do Programa de Aquisição de Alimentos - PAA. Criação da Frente Parlamentar Mista pela Reestatização da Eletrobras. Transcurso do Dia Mundial da Água. Reexame da Lei nº 14.026, de 2020, sobre a criação do marco legal do saneamento básico. Revisão judicial da privatização da Companhia Riograndense de Saneamento - CORSAN, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae52bcb83ae57255b2119b5305c099a0f66b76564bfd315d01c919cf1c2b4cfd
+size 380

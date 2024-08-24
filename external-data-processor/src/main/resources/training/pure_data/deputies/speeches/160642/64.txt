@@ -1,1 +1,3 @@
-Falecimento do Pastor Manoel Amaro Gomes, da Igreja Evangélica Assembleia de Deus do Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:989310330b5345452fc63ee8d778091384cbf121eac21cbd347004c9ad40a3ae
+size 107

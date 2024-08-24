@@ -1,1 +1,3 @@
-Transcurso do centenário de criação do Departamento Nacional de Obras Contra as Secas - DNOCS. Realização de concurso público para preenchimento de vagas no órgão. Revisão do Plano de Cargos e Salários dos Servidores do DNOCS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09bb530e93e9ff2ffcad87588ed63b26853215102dccb33b475e168d26a3aca0
+size 236

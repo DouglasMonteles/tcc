@@ -1,1 +1,3 @@
-Solicitação ao Ministro da Economia, Paulo Guedes, de aplicação de recursos de fundos constitucionais em obras de infraestrutura e em ações de fomento à geração de emprego e renda no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dc2c4ab1eb657a567ad9efc67c501d7260fcc9ff4e79f3ec7794531a2397428
+size 198

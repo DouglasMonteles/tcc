@@ -1,1 +1,3 @@
-Importância das bicicletas como meio de locomoção no Brasil.  Apresentação de proposição sobre a gravação de caracteres nas bicicletas, por parte dos fabricantes, e de prestação de informações na nota fiscal, por parte dos comerciantes, para a facilitação das investigações sobre furtos e roubos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64008de58976d612e6480a5ae436a09d708ee9433b81021ae666da825be5d221
+size 313

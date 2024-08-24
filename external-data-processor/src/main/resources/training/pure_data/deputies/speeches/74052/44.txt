@@ -1,1 +1,3 @@
-Congratulações a estudantes, à Relatora Jaqueline Cassol e à Deputada Marília Arraes, autora do Projeto de Lei nº 4.968, de 2019, sobre a criação de programa de distribuição gratuita de absorventes higiênicos para alunas de escolas públicas de nível fundamental e médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dd8db87a458eda9feae0a748abe2db32b354bc34306ed273c3378aa33135d0e
+size 284

@@ -1,1 +1,3 @@
-Sessão solene em homenagem às Polícias Civis e Militares.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25532790d949d26f6d5705aa7057463a9a59e731c884a8d11f38aeb4ba94d18d
+size 209

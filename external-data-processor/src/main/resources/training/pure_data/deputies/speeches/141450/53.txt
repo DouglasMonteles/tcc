@@ -1,1 +1,3 @@
-Transcurso do 191º aniversário do Município de Nova Friburgo, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a54716ebf7340469adb9c5c422285e5b1d859dfc06290f869be750ef49e52319
+size 90

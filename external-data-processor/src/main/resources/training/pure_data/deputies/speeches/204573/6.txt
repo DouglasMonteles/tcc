@@ -1,1 +1,3 @@
-Corte de investimentos na educação pública brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c10d966b993269e6a6b556b24650da8ff20aedf759d71d85412be75c6b53806
+size 57

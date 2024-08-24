@@ -1,1 +1,3 @@
-Falta de compromisso de Parlamentares com o País, retratada em discursos proferidos no plenário. Defesa de criação da Frente Parlamentar das Relações do Brasil com a América Latina, o Caribe e a África.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b380d8c66c6cca4cbb19e9d2eb15f16f9ccc7c50e82187024e19e0358521223
+size 210

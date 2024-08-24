@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do § 4º do art. 1º da Proposta de Emenda à Constituição nº 18, de 2020, a respeito do adiamento das eleições municipais de 2020, em decorrência das medidas de enfrentamento da pandemia de coronavírus, declarada pela Organização Mundial da Saúde - OMS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:077d285e96da982db4d1b4121fb0d72d73c12da3f79a2cb0c8217ec848ab8936
+size 357

@@ -1,1 +1,3 @@
-Existência de plenas condições de fabricação, no Pólo Industrial de Manaus, do conversor de sinal da TV digital para os aparelhos analógicos mediante preço ao alcance de todos os segmentos da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1949cb81584f841179ed580d61e7e713ee2a9b038d3815f4f7e188864e6bb29c
+size 223

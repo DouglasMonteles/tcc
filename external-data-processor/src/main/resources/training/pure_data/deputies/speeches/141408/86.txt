@@ -1,1 +1,3 @@
-Elogio ao Ministro Alfredo Nascimento pela implantação do Programa Qualidade de Vida no Trabalho no âmbito do Ministério dos Transportes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93b841bfb79a1280aa1e683a8c2512f464e5ab1d39a1e55764492c9a83ece0bd
+size 141

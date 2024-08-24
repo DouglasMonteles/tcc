@@ -1,1 +1,3 @@
-Críticas à decisão do Supremo Tribunal Federal sobre o enquadramento da homofobia e da transfobia como tipo penal definido na Lei do Racismo. Defesa de aprovação do Projeto de Lei nº 4.370, de 2019, sobre o estabelecimento do cumprimento do Princípio da Reserva Legal no Direito Penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1154e8b15d4f4364ce7d392011c9f8e5ade9d8819c74687f028fc63f0cf8d5ad
+size 292

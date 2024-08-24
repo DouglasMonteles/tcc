@@ -1,1 +1,3 @@
-Participação em movimento de centrais sindicais em defesa da destinação de 10% do Produto Interno Bruto - PIB brasileiro para o setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eadd726692c4fdce18174088b84a9896f17e3c449d8c092eb6135e7d6965a915
+size 150

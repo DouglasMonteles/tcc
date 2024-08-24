@@ -1,1 +1,3 @@
-Ameaça ao Estado Democrático de Direito constatada pela prisão ilegal de pessoas inocentes em 08 de janeiro de 2023. Invasão da Prefeitura Municipal de Santa Cruz de Cabrália, Estado da Bahia, com realização de reféns, por integrantes do Movimento dos Trabalhadores Rurais Sem Terra - MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e35e0fc23a05d9ede63d39af0a7b8c4c722293d0527179a72226023ee01c8981
+size 297

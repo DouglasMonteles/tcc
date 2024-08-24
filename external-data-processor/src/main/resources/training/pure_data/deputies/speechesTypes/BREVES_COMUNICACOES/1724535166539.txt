@@ -1,1 +1,3 @@
-Perda de competitividade das exportações brasileiras de produtos agropecuários. Fracasso do Governo brasileiro nas negociações da Rodada de Doha de liberalização do comércio mundial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b85b1cb1e2fa55fd6db7d61d79e12a602963072142774303a2958e91765f6a5
+size 190

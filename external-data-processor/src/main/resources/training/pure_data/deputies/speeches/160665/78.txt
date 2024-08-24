@@ -1,1 +1,3 @@
-Estado de abandono de obras do Programa de Aceleração do Crescimento - PAC, do Governo Federal, especialmente no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5b24131b1f82965425ddd513c91449354658e14db4d9df539b99969306317ec
+size 136

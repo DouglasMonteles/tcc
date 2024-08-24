@@ -1,1 +1,3 @@
-Solicitação à Presidência de registro de voto do orador contrário em votação do item anterior da pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcb2a2b8e35b5a6b4b309c139bddfdaba79fc2825272ebaf7cca07c995dcc7e5
+size 110

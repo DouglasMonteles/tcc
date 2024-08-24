@@ -1,1 +1,3 @@
-Apelo ao Supremo Tribunal Federal por não concessão do benefício de aposentadoria ao magistrado envolvido em atos delituosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34976c03bcd742a6f849ca04ea54c80d02b2b93a8f0e6e7f502fdfe98037e69a
+size 128

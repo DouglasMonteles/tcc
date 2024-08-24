@@ -1,1 +1,3 @@
-Empenho do orador na realização de obras de manutenção de pontes, no Município de Natal, Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45ec8db4fce7016274098a87ee0ebcd371559faee2f0573ddebb69d0cff1e48c
+size 124

@@ -1,1 +1,3 @@
-Linhas da atuação parlamentar do orador. Congratulações a políticos paraibanos. Avaliação do modelo de desenvolvimento econômico do Estado da Paraíba. Referências elogiosas ao futuro Ministro das Cidades, Deputado Aguinaldo Ribeiro. Responsabilidades dos entes públicos na promoção do crescimento econômico paraibano. Ampliação dos investimentos em órgãos de pesquisa e tecnologia. Aperfeiçoamento do Sistema Tributário Nacional. Aparteante: ÁTILA LINS (PSD, AM).
+version https://git-lfs.github.com/spec/v1
+oid sha256:388c449ff2456f1f3c8032e9af04a94c7c9aafee3ae1ff6b43403cc05b6c36fe
+size 484

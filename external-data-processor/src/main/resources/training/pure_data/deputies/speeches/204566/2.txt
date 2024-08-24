@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Requerimento nº 591, de 2019, para apreciação em regime de urgência do Projeto de lei nº 11.239, de 2018, sobre alteração da CLT - Consolidação das Leis do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48a8c0a5158786b59b0f6cc6a778df0062a68cae913ea626fc0cbbaf92b924c1
+size 214

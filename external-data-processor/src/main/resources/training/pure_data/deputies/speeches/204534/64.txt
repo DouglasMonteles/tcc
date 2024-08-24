@@ -1,1 +1,3 @@
-Agradecimento à bancada feminina pelo empenho na aprovação do Projeto de Lei nº 4.534, de 2021, sobre a inserção do Capítulo I-B ao Título VI da Parte Especial do Decreto-Lei nº 2.848, de 1940, (Código Penal), com vista à tipificação do crime de condicionamento de dever de ofício à prestação de ato sexual. Relevância da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e67b046248018d01e853d3a002286a97e1cd2588a7d5ca7b96725960e19a9a50
+size 353

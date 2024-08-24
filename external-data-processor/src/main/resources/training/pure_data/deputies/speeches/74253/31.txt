@@ -1,1 +1,3 @@
-Congratulações à Presidência pela realização de votação nominal do dispositivo e ao Deputado Luís Carlos Heinze pela luta a favor da agricultura brasileira. Expectativa de aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8379dcae23baa76b1e775b38e3a32067d9eaebf0137e1db3698082c756e33c64
+size 205

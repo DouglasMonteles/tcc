@@ -1,1 +1,3 @@
-Presença na Casa do empresário Sergio Paranhos, responsável pela implantação de usina de açúcar e álcool no Médio São Francisco, e também do jurista do Estado da Bahia, Dr. José Francolino. Participação das duas personalidade em audiência com o Vice-Presidente da República, Geraldo Alckmin, e com Antônio Jiló, produtor agrícola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59e775c3be715d69842ddaab5942490459df6d9e22ca4c432075f6e7b56834c4
+size 349

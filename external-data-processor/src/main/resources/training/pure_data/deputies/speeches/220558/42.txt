@@ -1,1 +1,3 @@
-Adiamento da votação do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news). Protesto contra a proibição da pesca de tainha no Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9491ec63c454192feed5413ef60987c2582e77b5e7d701954db050b9d3094b5
+size 270

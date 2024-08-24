@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional das Pessoas com Deficiência. Assinatura de convênio entre o Conselho Estadual dos Direitos da Pessoa com Deficiência e o Tribunal Regional Eleitoral, para garantia da acessibilidade nas zonas eleitorais sergipanas nas eleições municipais de 2020. Lançamento do Projeto Gentileza, na Capital Aracaju. Presença no plenário do Presidente da Federação dos Municípios do Estado de Sergipe - FAMES, Prefeito Christiano Cavalcante. Luta do Presidente da FAMES contra a aprovação do dispositivo da Proposta de Emenda à Constituição nº 188, de 2019, do Poder Executivo, relativo à extinção de Municípios com até 5 mil habitantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d763a5c7f308f530197022870d3d8d5a056469f9fad99da4bc39b403b55ffd55
+size 674

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo adotado pela Comissão de Finanças e Tributação ao Projeto de Lei nº 5.149, de 2020, sobre a alteração da Lei nº 8.989, de 1995, com vista à prorrogação da isenção do IPI incidente na aquisição de veículos utilizados no transporte  autônomo de passageiros e por portadores de deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e11b4a2b3da4e97c588a5e71c99324577c0ed67d96fe873519b4e4a95775603
+size 358

@@ -1,1 +1,3 @@
-Congratulação ao Governador do Estado do Rio de Janeiro, Cláudio Castro, pela aquisição de novas ambulâncias para a Baixada Fluminense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ce88289153f03f5e6ba43c0fe9ffd7126bc3e4e24fce05301fecd030b53c8bf
+size 141

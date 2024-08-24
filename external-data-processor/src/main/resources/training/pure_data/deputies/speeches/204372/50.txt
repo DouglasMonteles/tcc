@@ -1,1 +1,3 @@
-Protesto contra a suspensão, pela Justiça do Distrito Federal, dos efeitos do decreto do Governador Ibaneis Rocha sobre a reabertura de setores do comércio local.
+version https://git-lfs.github.com/spec/v1
+oid sha256:763f2a4c1f26ec0ef6239d90c145f06a5daabea1d21cc04502b7bb295e4121fd
+size 165

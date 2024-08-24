@@ -1,1 +1,3 @@
-Inconsistência do lema Mais livros e menos armas adotado pelo Governo Luiz Inácio Lula da Silva para o convencimento da população brasileira sobre vantagens do desarmamento. Repúdio a decreto presidencial sobre a redução do acesso às armas e munições.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c75327b0212c08cf5fe2082d71ffe519801a3b13a8b7e8f4683bdfe948a8924
+size 261

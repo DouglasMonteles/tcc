@@ -1,1 +1,3 @@
-Indignação com discursos agressivos e desrespeitosos proferidos no plenário da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db19b4d2f7d831e2a0922471dd778d1951b01e6f8efb5c3ce83122be22486c32
+size 104

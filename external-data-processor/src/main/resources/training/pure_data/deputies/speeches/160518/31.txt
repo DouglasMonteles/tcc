@@ -1,1 +1,3 @@
-Requerimento de indicação à Presidenta Dilma Rousseff para adoção de providências urgentes acerca da formação de cartel pelo setor de revenda de combustíveis no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a240b14408554cbdb6f83c19170b30573c8531c0ad36b1571bef55ac20e0f22
+size 176

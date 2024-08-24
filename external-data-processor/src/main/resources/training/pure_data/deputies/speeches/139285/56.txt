@@ -1,1 +1,3 @@
-Lançamento do livro Contreiras Camarada Engenheiro, de Elieser César. Incremento do fluxo turístico no interior do Estado da Bahia, em face dos festejos juninos. Participação da oradora na abertura oficial da Festa de São João no Município de Macaúbas. Nomeação de aprovados em concurso da Prefeitura do Município de Paulo Afonso, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc2dfe59ac77a2573c7a5f8583a1ab704fe28e61027b88742c7eec22aa52489e
+size 359

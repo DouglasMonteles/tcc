@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Defensoria Pública. Desempenho da Defensoria Pública de Mato Grosso do Sul na gestão do Governador Zeca do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eec419681143e9a137d2e65d75ef060f16599d0dc380e736da68b168048ad0f
+size 143

@@ -1,1 +1,3 @@
-Paralisação das atividades de Prefeituras Municipais paraenses em protesto contra a queda no repasse do Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cd2248bf5fcfcc4767c16a0702042e3e164d681936caabed209eb40ea0212ca
+size 152

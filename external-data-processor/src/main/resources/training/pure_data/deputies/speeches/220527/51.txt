@@ -1,1 +1,3 @@
-Contradita à questão de ordem do Deputado André Fernandes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7b28a1be9204e5f9392e7ee9efa6e792855b78773dfc3f8f3d8b1e43e869592
+size 61

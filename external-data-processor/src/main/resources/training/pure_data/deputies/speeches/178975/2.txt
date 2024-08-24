@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Importância da aprovação, pela Casa, do projeto de lei sobre a inclusão do feminicídio no rol dos crimes hediondos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:099642e58b8f783bde1d71450027a60a399965a9ab512a1eb3ced0bce482c938
+size 163

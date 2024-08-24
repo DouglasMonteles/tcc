@@ -1,1 +1,3 @@
-Importância de proposta de emenda à Constituição em votação, sobre a alteração do procedimento de apreciação das medidas provisórias pelo Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04ba2f6dcae8edb5eb15f660d0170e64af5c20d4d27c526619a23abd1b91666f
+size 168

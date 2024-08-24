@@ -1,1 +1,3 @@
-Transcurso do Dia das Mães. Descaso de autoridades municipais com a merenda escolar no País. Prioridade do Prefeito Municipal de Vitória da Conquista, Guilherme Menezes, nas áreas de educação e saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77c5c3fea7a41c65def39d00a0600e23c6cbb2510e9a38801a431a54237565ea
+size 207

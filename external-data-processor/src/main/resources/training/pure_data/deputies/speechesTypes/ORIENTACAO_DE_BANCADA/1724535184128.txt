@@ -1,1 +1,3 @@
-Posicionamento favorável do PRB  à votação do Requerimento de regime de urgência para o Projeto de Lei 7.495 de 2006 (Regulamenta os §§ 4º e 5º do art. 198 da Constituição, dispõe sobre o aproveitamento de pessoal amparado pelo parágrafo único do art. 2º da Emenda Constitucional 51 dede 2006 -  Agente Comunitário de Saúde e Agente de Combate às Endemias -,  e dá outras providências) e do mérito da matéria na presente sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22c0d9fbd53a1237165eadf6ba0b9fddceb537577e987affbbae3f729c36871d
+size 451

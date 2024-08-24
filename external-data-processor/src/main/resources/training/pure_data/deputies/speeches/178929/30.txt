@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados de líder da Renovação Carismática Católica do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e1f14b81ec95ab1de67425244aaa637500503857e25d613dce475b47bde5f2f
+size 104

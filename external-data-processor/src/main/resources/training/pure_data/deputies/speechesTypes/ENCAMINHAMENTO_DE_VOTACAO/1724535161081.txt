@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de adiamento, por duas sessões, da votação da   Medida Provisória 567 de 2012 (Altera o art. 12 da Lei 8.177 de 1991, que estabelece regras para a desindexação da economia, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:73f34c1dcbb0fb5b6f2e2ed1a26196bdf82aed366feb658e964188d8d546557b
+size 251

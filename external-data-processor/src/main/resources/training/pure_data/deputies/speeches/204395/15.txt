@@ -1,1 +1,3 @@
-Pedido à Presidência de concessão de tempo ao Plenário com vista à celebração, pelos Líderes partidários, de acordo para votação das matérias constantes na pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd5d674f79c0908591bc888bb792672c2037d85d133c65005bdd2dbb0a9111b6
+size 174

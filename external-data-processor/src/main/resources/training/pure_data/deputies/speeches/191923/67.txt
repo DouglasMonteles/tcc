@@ -1,1 +1,3 @@
-Decisão equivocada do Presidente Jair Bolsonaro de extinção, em 2019, do Ministério do Planejamento, Desenvolvimento e Gestão. Fracasso da gestão da economia em face da inexistência de metas e planos no Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51e4666651331eae9a30a6bb0f45f1ae65cbb5058a07d9c8df23948cc30b3657
+size 233

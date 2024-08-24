@@ -1,1 +1,3 @@
-Solicitação ao Conselho Administrativo de Defesa Econômica - CADE de investigação de fraude e formação de cartel no setor de revenda de combustíveis no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:583cd724214470499ac44db9893cd3b3475006bf47b0ed0c74296364371c3e49
+size 183

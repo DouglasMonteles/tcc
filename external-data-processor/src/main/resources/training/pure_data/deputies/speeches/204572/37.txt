@@ -1,1 +1,3 @@
-Precariedade do sistema penitenciário brasileiro. Apoio à medidas anticrime enviadas ao Congresso Nacional pelo Ministro da Justiça e Segurança Pública, Sergio Moro, especialmente quanto ao sistema penitenciário e ao combate à facções criminosas. Necessidade de votação pela Casa da Proposta de Emenda à Constituição nº 372, de 2017, sobre a criação das polícias penais federal, estaduais e distrital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63c6f440305d8059b25ae0278dbceca17c982b26961d636a1ae2355d587bad86
+size 419

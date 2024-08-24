@@ -1,1 +1,3 @@
-Agradecimento ao Ministro da Cidadania, Osmar Terra, pela manutenção do Programa do Leite no Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57a3581137cd710bbe5daa6378cf902e807c22a00d9e64382f1ce134cf843cca
+size 113

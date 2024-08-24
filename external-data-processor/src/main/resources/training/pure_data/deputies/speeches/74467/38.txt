@@ -1,1 +1,3 @@
-Falecimento do ex-Secretário do PDT no Estado da Paraíba, Ricardo Moreira. Imediata votação pela Casa da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares. Promoção da Semana Nacional da Enfermagem. Defesa de aprovação da proposta de fixação da jornada de trabalho dos profissionais de enfermagem em 30 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cae1733e1748c09354ebac0cdb8dd9af4242ceb0c041e2a89d1b9b523923a764
+size 412

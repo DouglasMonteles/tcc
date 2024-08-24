@@ -1,1 +1,3 @@
-Determinação ao Banco do Brasil S/A, pela Secretaria do Tesouro Nacional, do repasse de recursos ao Fundo de Participação dos Estados e ao Fundo de Participação dos Municípios. Solicitação à Secretaria do Tesouro Nacional de publicação das transações na Internet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:367a46d42edaf1e57524cefaf84e1fef269215f92af20d8a602ad611e435673c
+size 277

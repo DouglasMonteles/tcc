@@ -1,1 +1,3 @@
-Lançamento da Iniciativa para a Ciência e Tecnologia no Parlamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e921c259390fcb5338dff4830676a59a714fde4f225ca6723801ce548ad100bb
+size 69

@@ -1,1 +1,3 @@
-Resultados de audiência pública realizada pela Comissão de Meio Ambiente e Desenvolvimento Sustentável, em conjunto com a Comissão de Minas e Energia, destinada ao debate sobre o potencial de energia solar e incentivos para o desenvolvimento no Brasil. Demonstração de instabilidade do sistema presidencialista diante da crise política no País. Perspectiva de superação da crise política com a mudança do sistema de governo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1796eed48195a56f9311796fa16c048dff0ecaed8f56be059883c8586b8f7f6d
+size 437

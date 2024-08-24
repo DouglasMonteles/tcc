@@ -1,1 +1,3 @@
-Transcurso do Mês da Água. Preocupação com o agravamento da escassez hídrica no País. Atuação do orador no exercício do cargo de Coordenador da Frente Parlamentar Mista dos Municípios Produtores de Água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55e1cb5779d2e552bbc602961c82f6720e3140d389bf0d4821edab065242e1f4
+size 214

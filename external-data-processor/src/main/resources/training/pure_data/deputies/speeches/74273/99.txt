@@ -1,1 +1,3 @@
-Repúdio à associação da campanha publicitária do patrocinador da Seleção Brasileira de Futebol ao consumo de bebidas alcoólicas. Efeitos danosos causados pelo uso de álcool na adolescência. Coibição da venda de bebidas alcoólicas para menores. Congratulação à Rádio Jovem Pan AM pelo posicionamento contrário ao conteúdo de telenovelas brasileiras. Realização no País de seminários de crescimento espiritual e de princípios da vida cristã pela Igreja do Evangelho Quadrangular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e952127042919e594c4431985797ca00e067ae77a4021a9757b171556975c575
+size 502

@@ -1,1 +1,3 @@
-Apelo ao Supremo Tribunal Federal por não concessão do benefício de aposentadoria a magistrado envolvido em atos delituosos. Orientação de bancada na votação da Emenda de Plenário nº 6.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d38f46a9092c079a02f829cc2bf34bf8ac80a69aa8b3bcbc8f5bd98d42bc8971
+size 194

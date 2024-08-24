@@ -1,1 +1,3 @@
-O Deputado destacou a importância de programas de incentivo à educação, focando particularmente no programa Cartão Escola 10, do Governo de Alagoas, reconhecido com o Prêmio Darcy Ribeiro. Ademais, ressaltou que o incentivo financeiro concedido pelo programa à presença de alunos do ensino médio em sala de aula contribuiu para o aumento significativo no número de formandos em Alagoas, de 30 mil para 42 mil por ano. Além disso, enfatizou a necessidade de replicar essa iniciativa em todo o Brasil, tendo em vista seu impacto positivo na conclusão do ensino médio e no aumento de inscrições para o ENEM em Alagoas. Por fim, demonstrou empenho junto ao Ministro da Educação, Camilo Santana, e a outros membros do Governo em busca de soluções orçamentárias para o investimento em políticas educacionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9333311869dacbb8ab0a197e7e01333bf3b44c6522df77616b8433997e887ce
+size 824

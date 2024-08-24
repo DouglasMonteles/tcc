@@ -1,1 +1,3 @@
-Desempenho da empresa Vale. Repúdio às constantes tentativas, por parte de setores do Governo petista, de interferência na gestão da companhia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66b5a973654bf52086b335e51dbb144e4c3b6841aff287b431e2cb20ed18e9d2
+size 147

@@ -1,1 +1,3 @@
-Posicionamento favorável do PSB  à PEC 438 de 2001  (Dá nova redação ao art. 243 da Constituição Federal, para estabelecer a pena de perdimento da gleba onde for constatada a exploração de trabalho escravo e a reversão da área para assentamento rural), em votação em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abb1df6aae3dda1402922838d7c8978915bb780037ba2e286a0699e6955e1ef6
+size 294

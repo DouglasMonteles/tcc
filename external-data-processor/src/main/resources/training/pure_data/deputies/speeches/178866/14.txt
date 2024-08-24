@@ -1,1 +1,3 @@
-Apresentação de requerimento ao Ministério da Justiça e Segurança Pública sobre decisão do Tribunal Regional Federal contrária à Comunidade Indígena Tapeba e à FUNAI, com deferimento de reintegração de posse de terra no Município de Caucaia, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a48c3abb5794067725913286207abd50ca453bcf63077f424046437e4776aba
+size 273

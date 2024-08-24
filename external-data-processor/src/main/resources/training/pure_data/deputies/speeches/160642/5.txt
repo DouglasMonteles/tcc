@@ -1,1 +1,3 @@
-Presença, na Casa, do Pastor Lelis Washington Marinhos, Presidente da Comissão Política da Convenção Geral das Assembleias de Deus no Brasil - CGADB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:477d099e83d34b4e9822763ad323b27838af7e9dca083a096bab9f15a1f0df96
+size 154

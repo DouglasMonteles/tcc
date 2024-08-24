@@ -1,1 +1,3 @@
-Congratulações à Deputada Joice Hasselmann pela condução dos trabalhos da presente sessão e a Deputadas pelo exercício do mandato parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4d60a465b99c5deaf0426beaf7114e149ab390138e250f26515d08fa7cda6a4
+size 149

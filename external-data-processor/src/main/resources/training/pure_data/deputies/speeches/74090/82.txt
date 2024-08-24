@@ -1,1 +1,3 @@
-Presença do orador no 3º Festival de Botos do Município de Maraã, Estado do Amazonas. Encontro do Parlamentar com lideranças políticas dos Municípios de Amaturá e São Paulo de Olivença. Festejos do padroeiro do Município de Autazes. Encerramento da Festa do Pescador no Município de Tapuá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79f27905e911cf9fc8ca682724f3bf17d7c80d20fd8cda7ebcdd65df245b179a
+size 302

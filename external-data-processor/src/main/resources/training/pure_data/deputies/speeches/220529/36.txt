@@ -1,1 +1,3 @@
-Desempenho dos Vereadores e do Prefeito&nbsp;Gesi Antônio da Silva Júnior, do Município de Muniz Freire, Estado do Espírito Santo. Realização do 5º Festival da Viola na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d757b5fad34506f12b0bf2f1998878d046e49f9f9aef8556b690f2e25a290e9b
+size 191

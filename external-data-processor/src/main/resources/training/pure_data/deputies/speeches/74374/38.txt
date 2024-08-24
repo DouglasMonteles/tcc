@@ -1,1 +1,3 @@
-Saudações aos novos membros da Mesa Diretora da Casa. Escalada da violência no trânsito no País. Estreita relação entre o consumo de álcool e acidentes automobilísticos. Estudos realizados pelo Instituto de Pesquisa Econômica Aplicada - IPEA sobre o impacto socioeconômico de acidentes de trânsito. Eficácia da chamada Lei Seca na coibição de abusos e redução da mortalidade no trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:074f039245179d285e1a44ccd1895a2094b22833a9794a860b047a41aa3e9dea
+size 405

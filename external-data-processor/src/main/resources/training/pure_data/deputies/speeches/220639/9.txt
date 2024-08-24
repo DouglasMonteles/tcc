@@ -1,1 +1,3 @@
-Saudações às mulheres brasileiras em nome da Deputada Benedita da Silva. Solidariedade às Deputadas Erika Hilton e Duda Salabert, diante de ataque transfóbico desferido por Deputado no plenário. Reconstrução do País pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f06054df9cb948d7111de75ce06ed21172a040b506975ae2d61d1bbebfa8172c
+size 268

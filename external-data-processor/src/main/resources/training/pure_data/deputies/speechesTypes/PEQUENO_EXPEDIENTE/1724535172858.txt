@@ -1,1 +1,3 @@
-Realização do Congresso da Cidadania Digital, em Brasília, Distrito Federal. Discurso proferido durante o evento pelo Diretor-Presidente do Instituto Nacional de Tecnologia da Informação, Renato Martini.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e75ee3c5573e93448d6a24ac23aea5993ee47e8d146c2335005994c6ca6881b
+size 208

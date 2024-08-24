@@ -1,1 +1,3 @@
-Confiança na gestão do Deputado Edson Santos à frente da Secretaria Especial de Políticas de Promoção da Igualdade Racial. Solidariedade ao Ministro do Esporte, Orlando Silva, diante das acusações de uso inadequado de cartão de crédito corporativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4ab00ed3bc481e63df13f364630a1b512864034b57a17d7776fa13cd8a102b9
+size 258

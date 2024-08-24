@@ -1,1 +1,3 @@
-Implementação pela Defensoria Pública de programa de atendimento a comunidades indígenas, no Estado de Roraima. Recomposição das dotações orçamentárias da Defensoria Pública da União
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbe794f48894eff08eb275a376b881bc80f2dd6568a80604bd1331483cbf1aa6
+size 194

@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 1.529, de 2021, sobre a criação da Política Nacional de Valorização das Mulheres na Área de Segurança Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc50610d195611f12b762717b8e9992f8c464f2cb03ea77b9d729855f6530d79
+size 160

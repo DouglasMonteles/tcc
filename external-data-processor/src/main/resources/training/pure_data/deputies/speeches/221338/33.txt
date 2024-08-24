@@ -1,1 +1,3 @@
-Apoio à luta e mobilização dos profissionais de educação do Município de Marília, no Estado de São Paulo. Vitória na luta pelo pagamento do piso da categoria como salário, e não como subsídio, conforme tratado em reunião com o Sindicato dos Trabalhadores nos Serviços Públicos Municipais de Marília. Aviso ao Prefeito Daniel Alonso sobre o direito constitucional de greve dos trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e99d8329d29ec253cc389727d772e87022d9f36977d9c1911ff24c8e3433c05
+size 406

@@ -1,1 +1,3 @@
-Excelência da gestão do Presidente Luiz Inácio Lula da Silva notadamente nas áreas ambiental, saúde, educação e segurança pública. Aplausos ao governo petista pela condução da política externa brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cc4881f183d3deccf1b41fc55531c51a919d293258a25f305ab73c9abc8c2a6
+size 216

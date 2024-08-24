@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à descriminalização das drogas no País. Expectativa quanto à decisão do Supremo Tribunal Federal a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84a7f3c2766d65851dcb0c7f052e92a7efa215aac9eecb1020d2f16f18c9f0b6
+size 158

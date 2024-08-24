@@ -1,1 +1,3 @@
-Associação ao discurso da Deputada Benedita da Silva a respeito da Fundação Cultural Palmares. Realização do movimento denominado Marcha das Margaridas, em Brasília, Distrito Federal. Irrestrito apoio da oradora às reivindicações dos fiscais federais agropecuários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e09b9352397e53c5408e87ad43d55de41226655e9486fbd06383f024e208a0b
+size 276

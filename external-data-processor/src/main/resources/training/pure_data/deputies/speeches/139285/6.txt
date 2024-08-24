@@ -1,1 +1,3 @@
-Lançamento do livro Uma Trajetória Política, de autoria do Vereador Ataíde Macedo. Congratulações ao Governador Jaques Wagner e ao Secretário do Estado de Turismo Domingos Leonelli Neto pela assinatura de contratos com o Ministério do Turismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3034e14b0995c512d5194119f6bcf854bda7282e6463b129395fe83fb9ab30aa
+size 251

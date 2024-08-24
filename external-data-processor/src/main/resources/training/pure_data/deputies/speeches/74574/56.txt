@@ -1,1 +1,3 @@
-Outorga do título de Cidadão Baiano ao Ministro Marco Aurélio Mendes de Farias Mello, do Supremo Tribunal Federal, pela Assembleia Legislativa do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dee57bce04d6f818d148438e1c6bef5cffbc7dc9d14aa6b8999edd77d3869aa6
+size 165

@@ -1,1 +1,3 @@
-Posicionamento contrário do PDT  à  Emenda 10, destacada, ao Projeto de Lei de Conversão da Medida Provisória 475 de 2009 (Dispõe sobre o reajuste dos benefícios mantidos pela Previdência Social em 2010 e 2011),que reajusta os benefícios previdenciários em 8,77%.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cae65920c181ff62f079ffcc24cbfaaa78e77ba1a63450e4fa0597fc6c61719d
+size 272

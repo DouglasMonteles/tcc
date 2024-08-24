@@ -1,1 +1,3 @@
-Carta aberta à sociedade brasileira sobre a recente decisão do Presidente do Supremo Tribunal Federal, Ministro Gilmar Mendes, sobre o Habeas Corpus n° 95.009-4, relativo à prisão do banqueiro Daniel Dantas. Manifesto da Magistratura Federal da 3ª Região, em solidariedade ao Juiz Fausto Martin de Sanctis. Nota de autoria do Juiz Federal Fausto Martin de Sanctis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4175ed8f31a8f32521fcfbdf0e7809db713d1c5b3b0d3c21750e1a3319213f42
+size 371

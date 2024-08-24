@@ -1,1 +1,3 @@
-Não obstrução das votações no plenário pelo PT, por um mês, diante do recebimento de prêmio da Mega-Sena pelos seus assessores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:287f0517eefbae0299bccf084759b1595085962435f4b0c101d1eda64bf806bb
+size 135

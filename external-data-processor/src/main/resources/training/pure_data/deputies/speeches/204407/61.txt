@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado do art. 67, constante do art. 28 do Projeto de Lei de Conversão nº 17, de 2019, da Medida Provisória nº 881, de 2019, sobre a Declaração de Direitos de Liberdade Econômica, o estabelecimento de garantias de livre mercado e a análise de impacto regulatório, com vista à sua supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb011cd3aaeeadb453b41e974e26d2032974415d61b120f4ccff73132ffd7925
+size 377

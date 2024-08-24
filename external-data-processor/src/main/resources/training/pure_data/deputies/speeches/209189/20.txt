@@ -1,1 +1,3 @@
-Realização de manifestações no País por professores e estudantes dos Institutos Federais de Educação, Ciência e Tecnologia contra a inexistência de planos do Governo Federal para a área educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f98dc392cde4266e40e94b814a80834799f38837c6c60f6fdae878371bc085cc
+size 208

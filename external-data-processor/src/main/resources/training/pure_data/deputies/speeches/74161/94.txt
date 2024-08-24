@@ -1,1 +1,3 @@
-Posicionamento do orador sobre temas em debate na proposta de reforma política. Apoio à criação de cotas para negros em cargos eletivos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d1b1f84e82afafef2a865373887867aedfeb7804e7628f018cc41f967661d09
+size 140

@@ -1,1 +1,3 @@
-Disposição do Exército brasileiro para a instalação de ponte móvel sobre a BR-364, entre os Municípios de Jaru e Ariquemes, Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0620da9e8b63444977602372e7c4f591e77d479ee22efaf40d8207834713b654
+size 151

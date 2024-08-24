@@ -1,1 +1,3 @@
-Omissão da Governadora Fátima Bezerra no repasse de recursos à Cooperativa Médica do Rio Grande do Norte. Descaso da gestora estadual com a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e3f7857a0b829a825f35f88c93ce1e4c10f27a81bfc5a16335b8414009813dd
+size 160

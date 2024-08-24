@@ -1,1 +1,3 @@
-Natureza equivocada e tardia da Medida Provisória dos Portos. Afirmação por Parlamentares da base do Governo de existência de vícios insanáveis na medida. Posição do PSDB pela obstrução das votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75c13a41693d73f2efba9c9339b67bcb90dcb67c3cfffa61c6021bb3b65a45a4
+size 211

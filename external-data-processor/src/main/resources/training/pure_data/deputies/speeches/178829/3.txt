@@ -1,1 +1,3 @@
-Necessidade de alteração na legislação penal brasileira para o enfrentamento da criminalidade. Defesa de projeto de resolução de alteração do Regimento Interno da Casa, de autoria do orador, com vistas ao sigilo das votações de matérias relativas à repressão ao crime organizado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab7e5f7012062e37566802b7bc02da95a7209e9cad097cee2cf67c5acf21c13c
+size 292

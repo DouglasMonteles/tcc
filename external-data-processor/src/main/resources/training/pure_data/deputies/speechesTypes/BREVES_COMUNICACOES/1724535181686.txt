@@ -1,1 +1,3 @@
-Documento intitulado Manifesto Contra a Tortura, Pela Cidadania: Educação Sim! Tortura Não!, referente a ato público promovido por entidades de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:beafdada6a9871b40bcd5ccde898e051831e758267239c03ac3e09a06c13684b
+size 181

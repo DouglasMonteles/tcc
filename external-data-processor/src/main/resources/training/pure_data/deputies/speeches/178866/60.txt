@@ -1,1 +1,3 @@
-Razões do posicionamento da oradora favorável à recondução do ex-Presidente Luiz Inácio Lula da Silva ao poder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ae753d6a9809a913614838e2ff300e3a53226f7ea64a85a184e4d852baa1d05
+size 117

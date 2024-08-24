@@ -1,1 +1,3 @@
-Avaliação positiva da Resolução sobre a Reforma Política aprovada pelo Diretório Nacional do Partido dos Trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39a26e5bf2ba968388302e64f875e2810615467a277c10d67cdb6c4e1bfb47a7
+size 125

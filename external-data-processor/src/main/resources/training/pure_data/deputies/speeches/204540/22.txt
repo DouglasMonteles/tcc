@@ -1,1 +1,3 @@
-Congratulações à bancada feminina e aos Deputados Capitão Alberto Neto e Tabata Amaral pela aprovação do Projeto de Lei nº 3.878, de 2020, pertinente à alteração da Lei nº 13.667, de 2018, com vista à concessão de prioridade no atendimento às mulheres em situação de violência doméstica ou familiar pelo Sistema Nacional de Emprego - SINE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b428d748235df32596bc4e5265bf84c95810d0c63ec5d88664f8cc9d715e08fb
+size 357

@@ -1,1 +1,3 @@
-Encaminhamento da votação do parecer pela admissibilidade da Medida Provisória 432 de 2008 (Institui medidas de estímulo à liquidação ou regularização de dívidas originárias de operações de crédito rural e de crédito fundiário, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fb4c9bb3b386759c2935044e0150e52b0cbf4fee19b7f5b723cf2f649470a9a
+size 272

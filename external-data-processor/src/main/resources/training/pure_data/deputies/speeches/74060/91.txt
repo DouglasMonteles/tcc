@@ -1,1 +1,3 @@
-Transcurso do 30º aniversário de criação do Bloco Olodum, em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38d412a0919996ac62be55043d4e07f63eb44eb990d201726db3188be89abb4d
+size 91

@@ -1,1 +1,3 @@
-Realização de seminário sobre a situação de moradores de rua pela Defensoria Pública do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0364da3a3ca5fed77c98cdff25dcc8bbb4cba6430a5d1894d72b59d404b8fb57
+size 119

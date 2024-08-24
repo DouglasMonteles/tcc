@@ -1,1 +1,3 @@
-Presença na Casa do Vereador Ailton Nantes, do Município de Londrina, Estado do Paraná, acompanhado de correligionário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e19d098eeae375acfa0ee223402ef2ddd227621cc734d8a3f3598e7fe4b3834a
+size 123

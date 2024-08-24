@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de tramitação em regime de urgência do Projeto de Lei nº 5.595, de 2020, sobre o reconhecimento da educação básica e do ensino superior, em formato presencial, como serviços e atividades essenciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7707684eca354c1bb3e197644b081969b1147a1575cb019e3b2ac6fcfa4d2de3
+size 259

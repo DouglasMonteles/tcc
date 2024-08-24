@@ -1,1 +1,3 @@
-Concessão pelo Ministro da Previdência Social, José Pimentel, de audiência ao orador e a Prefeitos Municipais do Estado do Maranhão. Apresentação de emenda de bancada ao Orçamento Geral da União, com vistas à ampliação da rede de atendimento do INSS no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6293ae20b5f22a1e5c5f13ac136a3f57a15a869effe03e962ba7cb2bf6c4c453
+size 272

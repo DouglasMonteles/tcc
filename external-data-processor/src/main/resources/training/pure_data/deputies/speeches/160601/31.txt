@@ -1,1 +1,3 @@
-Mobilização internacional contra o aprisionamento do pastor Saeed Abedini pelo Governo do Irã, por motivo religioso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f017d34ce707e255ee74c8d66478745d372b619d5cb40b08500bfe717a9512ab
+size 119

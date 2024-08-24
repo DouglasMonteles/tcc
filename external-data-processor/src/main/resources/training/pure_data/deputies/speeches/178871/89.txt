@@ -1,1 +1,3 @@
-Realização da 11ª Festa do Galo com Macarrão, no Distrito de Piaçu, Município de Muniz Freire, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a79852d730c8ba288f9116e27e4cc833ddc0335dc3254fb4c8ef0f37b0ae469
+size 127

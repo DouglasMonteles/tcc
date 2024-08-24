@@ -1,1 +1,3 @@
-Problemas enfrentados pelo setor cacaueiro no Brasil, especialmente no Estado da Bahia. Necessidade de maior rigor do Ministério da Agricultura, Pecuária e Abastecimento na inspeção e na fiscalização do trânsito internacional de produtos e subprodutos vegetais. Proposições apresentadas pelo orador em favor da cacauicultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26040b6230740aff0226c7392c9bc2d8cdf93eaf6942d63253bcbbe5e7162a94
+size 334

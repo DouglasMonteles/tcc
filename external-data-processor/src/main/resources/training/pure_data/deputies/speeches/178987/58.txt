@@ -1,1 +1,3 @@
-Pedido à Presidência de retirada da pauta de recursos diversos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dd36c55521f0b97849fabdce578dc117181274fa80663bed9e6c21220ea2aad
+size 65

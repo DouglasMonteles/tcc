@@ -1,1 +1,3 @@
-Presença, na Casa, dos Srs. Elídio Capel e Eduardo Brandão, respectivamente, proprietário e diretor do jornal Diário Regional, da região do ABC, em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bd58a9999a4b181d933528830f07bb92b2fe996c3202e22734700924115cfb3
+size 187

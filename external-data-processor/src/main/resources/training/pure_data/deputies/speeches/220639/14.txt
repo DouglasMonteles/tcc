@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação do Projeto de Lei nº 3.453, de 2021, sobre a alteração da Lei nº 8.038, de 1990, e do Decreto-Lei nº 3.689, de 1941, (Código de Processo Penal), com vista à deliberação sobre o resultado de julgamento em matéria penal ou processual penal em órgãos colegiados e à concessão de habeas corpus de ofício. Resgate de trabalhadores em condições análogas à escravidão em Estados brasileiros. Inadmissibilidade de extinção da Justiça do Trabalho e da fiscalização trabalhista. Realização de concurso público para o cargo de Auditor Fiscal do Trabalho. Necessidade de aprovação de legislação rigorosa contra exploradores de mão de obra escrava.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdde3eb3187b62d39752943c9a6c81662601c0ff8a56051f59ce5b4a4ee6ac25
+size 710

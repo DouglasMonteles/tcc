@@ -1,1 +1,3 @@
-Necessidade de discussão, pela Casa, do projeto de lei a respeito da securitização das dívidas dos Estados e da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f57c87ae7a30ec4e2e369a6af9473e760cc86c142ca8e7859ba6eed37428ad78
+size 123

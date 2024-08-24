@@ -1,1 +1,3 @@
-Apresentação de requerimento de informações ao Ministro das Comunicações sobre a denúncia de uso indevido de aeronave da Força Aérea Brasileira - FAB. Abdicação do orador ao benefício de auxílio-moradia. Respeito do Governador do Estado de Santa Catarina, Jorginho Mello, ao dinheiro público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:673ee8cedf31c41c18a17828ab4bef953a8d3c373081e3842c31497b9e15d4ec
+size 306

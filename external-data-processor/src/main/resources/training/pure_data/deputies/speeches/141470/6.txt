@@ -1,1 +1,3 @@
-Lançamento, pelo Ministério do Desenvolvimento Agrário e pelo Banco do Nordeste do Brasil, de linha especial de financiamento destinada aos produtores rurais enquadrados nos grupos C, D e E do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF. Desempenho do programa no período de 1999 a 2004. Apoio ao Projeto de Lei nº 1.171, de 2007, sobre a criação do Fundo de Manutenção e Desenvolvimento da Agricultura Familiar - FUNDAF, no âmbito dos municípios e no do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3e8ad3ce40ceca4dabbf1e218fa94bf357c469f6c8fb3fd1f24e454026a7055
+size 508

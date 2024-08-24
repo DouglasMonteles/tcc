@@ -1,1 +1,3 @@
-A Deputada destacou a preocupação com o aumento das tentativas de fraude financeira no Brasil, afetando os consumidores. Segundo dados do SERASA, a cada 7 segundos, um brasileiro é alvo de tentativa de fraude. Anunciou a realização de audiência pública na Comissão de Defesa do Consumidor da Casa, convidando várias instituições, incluindo o Banco Central e a Federação Brasileira de Bancos para discutir medidas que responsabilizem as instituições financeiras por fraudes nas transações digitais e protejam os consumidores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65521709418555bf8ccb2709704f8fcf6ec962228b2dbeecd941a16621ac996c
+size 541

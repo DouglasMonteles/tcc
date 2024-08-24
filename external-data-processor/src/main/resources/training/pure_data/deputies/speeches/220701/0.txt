@@ -1,1 +1,3 @@
-Assunção pelo orador, em 2019, da Delegacia de Proteção ao Meio Ambiente do Estado do Paraná. Apresentação de proposições destinadas à proteção animal. Agradecimento ao eleitorado paranaense pela assunção do mandato parlamentar. Criação da Frente Parlamentar da Causa Animal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5277250aac318fb3536d6aa1b1ee989063a572ba477cffd0e481acdfb80aff5f
+size 291

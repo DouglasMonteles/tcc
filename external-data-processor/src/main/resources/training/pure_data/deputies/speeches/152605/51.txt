@@ -1,1 +1,3 @@
-Instalação de centro de referência da moda na região centro-norte fluminense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef0ac745bfc46eead1f3a011dfd2bcd454b7aa54d4816c5d74a756bb3a79058a
+size 81

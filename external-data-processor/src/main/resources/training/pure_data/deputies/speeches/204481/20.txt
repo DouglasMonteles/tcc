@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre proibitivo da contratação de médicos como pessoas jurídicas, a chamada pejotização.
+version https://git-lfs.github.com/spec/v1
+oid sha256:068c5f7092e26af8c8107099f79a72633c13c567bd3282b7902e6734e6f78459
+size 128

@@ -1,1 +1,3 @@
-Invasão, pelo Movimento dos Trabalhadores Rurais Sem Terra - MST, de fazenda da EMBRAPA localizada no Município de Petrolina, Estado de Pernambuco. Responsabilidade do governo petista pela ocorrência de conflitos no campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:045aa834272c0ae958372e067e6e8286c03609c997d2aa353ef6634ca619dc07
+size 225

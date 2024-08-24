@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Finanças e Tributação, do projeto de lei sobre a limitação do tempo de permanência em filas nas instituições financeiras. Dificuldades na aprovação de propostas de autoria dos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:646dcc3632fdbcb0cae661aef28947575167d28217cfc51ace070b8f33994df5
+size 231

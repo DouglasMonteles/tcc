@@ -1,1 +1,3 @@
-Urgente necessidade de aprimoramento da educação brasileira. Redução do número de matrículas no sistema educacional brasileiro, segundo o Censo Escolar 2021. Semelhança entre a situação das áreas de educação e saúde. Defesa de redirecionamento do setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e31a3f6d8c16df29f52eb717a10b4093cc549e581d19ac1c65ca869ed5fe1c20
+size 278

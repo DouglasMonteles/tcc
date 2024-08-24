@@ -1,1 +1,3 @@
-Aprovação, pela respectiva Comissão Especial, do Projeto de Lei nº 6.840, de 2013, destinada à elaboração de propostas para a reforma do ensino médio. Expectativa de aprovação da matéria no plenário da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27d31f48d9fd6a4f97e4c07d498bf6291722662630416a29fb98a45404cb993c
+size 219

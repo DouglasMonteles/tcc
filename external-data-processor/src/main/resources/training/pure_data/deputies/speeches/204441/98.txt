@@ -1,1 +1,3 @@
-Apoio à decisão do Governo Federal de redirecionamento de recursos das universidades federais pera a educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0565fd7202e867af56a35664465ad27698447e0844df462254e8a998fe1cadb
+size 122

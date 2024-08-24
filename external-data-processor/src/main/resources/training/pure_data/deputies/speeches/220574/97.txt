@@ -1,1 +1,3 @@
-Orientação de bancada na votação de requerimento de moção de repúdio aos atos racistas praticados contra o jogador de futebol brasileiro Vinícius Júnior, na Espanha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cace61e14fdc0ea52a52dfecb3f0d15b8ea73fb5dca8428955e9be39bfadcd2f
+size 174

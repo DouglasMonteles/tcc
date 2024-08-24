@@ -1,1 +1,3 @@
-Posicionamento favorável do Governo  à  expressão  permitindo-se o uso dos recursos para investimento em infraestrutura de conteúdo social, constante do § 2º do art. 1º do Substitutivo ao ao Projeto de Lei 5.417 de 2009 (Cria o Fundo Soberano Social do Brasil - FSSB e dispõe sobre sua estrutura, fontes de recursos e dá outras providências), apenso o PL 5.940 de 2009 (Cria o Fundo Social - FS, e dá outras providências), objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ade428059d900ff96bb91bc50c6dd088e9752ed0d3ac6b7e1c15a0553fafb9e
+size 449

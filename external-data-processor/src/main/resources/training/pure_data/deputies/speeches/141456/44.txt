@@ -1,1 +1,3 @@
-Defesa de votação do Projeto de Lei nº 1.481, de 2007, sobre a destinação de recursos do Fundo de Universalização dos Serviços de Telecomunicações - FUST para acesso a redes digitais de informação em estabelecimentos de ensino. Contentamento do orador com o lançamento do Plano Nacional de Banda Larga.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7c26fb9eeb02129cec1e144aef30eae2f5a5c141550ad39715ead20673af3a7
+size 315

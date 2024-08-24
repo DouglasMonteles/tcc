@@ -1,1 +1,3 @@
-Congratulações à Relatora Celina Leão pela inserção dos profissionais da vigilância patrimonial no parecer apresentado ao Projeto de Lei nº 1.011, de 2020, relativo à alteração da Lei nº 6.259, de 2020, para garantia do acesso de caminhoneiros e profissionais do transporte de cargas à vacinação contra o coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17249503749b94bdc993f2ec0f1a17f10006bad56173d7dda2d317bcd00a74e6
+size 333

@@ -1,1 +1,3 @@
-Votos de sucesso ao Deputado Marcelo Ortiz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9cde7e830cc6c2cd6756534d589c0f4f58aa5338c7a4b96ed536ed1e5e9d5cc
+size 43

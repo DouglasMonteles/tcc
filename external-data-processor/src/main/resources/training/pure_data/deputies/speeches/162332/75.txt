@@ -1,1 +1,3 @@
-Congratulações ao Desembargador Paulo Roberto Vasconcelos pela eleição para o cargo de Presidente do Tribunal de Justiça do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1c0fe0a51596466c56b47d4cec87dbe56808b8f31a092d5355bda3515c91135
+size 147

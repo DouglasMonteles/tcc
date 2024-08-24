@@ -1,1 +1,3 @@
-Homenagem póstuma à Sra. Chiara Lubich, fundadora do Movimento dos Focolares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26032119c0e20ba853e7f061c544fea23f836c333c209b11480ef463cbf6c6a7
+size 79

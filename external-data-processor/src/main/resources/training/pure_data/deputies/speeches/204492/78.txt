@@ -1,1 +1,3 @@
-Anúncio de votação pelo Senado Federal do Projeto de Lei nº 2.564, de 2020, relativo à instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91daf5eb1d785e216ba359d5eea20f2acefec9601f0ace72aa4729ee454de983
+size 178

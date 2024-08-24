@@ -1,1 +1,3 @@
-Compromisso do Deputado Arlindo Chinaglia de votação do Requerimento nº 3.810, de 2011, sobre a tramitação em regime de urgência do Projeto de Lei nº 1.597, de 2011.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28293e80a5bba9d5e27e920c64fba513931235238b3e3219745fd58dbe708878
+size 172

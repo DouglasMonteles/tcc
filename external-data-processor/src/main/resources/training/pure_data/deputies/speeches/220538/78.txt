@@ -1,1 +1,3 @@
-Presença de profissionais da enfermagem nas galerias do plenário. Conveniência da imediata apreciação pela Casa de projeto de lei sobre a redução da jornada de trabalho da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b33df7d7ed1dd3838fc5a0e7ca412304539ffdaefd5661948035d5b7c598a7e7
+size 189

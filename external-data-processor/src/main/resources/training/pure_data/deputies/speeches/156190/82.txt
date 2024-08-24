@@ -1,1 +1,3 @@
-Transcurso dos aniversários natalícios dos Deputados Pedro Lupion e Alceu Moreira. Agradecimento ao Deputado  Augusto Coutinho pelo acolhimento de emenda apresentada pelo NOVO em proposta de alteração da lei relativa às normas para licitações e contratos da administração púbica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5216e2b3c8052b7a5ae503ac26251bf5998c5392027bc635200f3c217ab1a260
+size 289

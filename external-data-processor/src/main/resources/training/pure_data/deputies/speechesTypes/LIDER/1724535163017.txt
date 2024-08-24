@@ -1,1 +1,3 @@
-Prejuízos causados à imagem do Parlamento brasileiro pela não cassação do mandado de Deputado condenado à reclusão. Equívoco da submissão ao Plenário da votação do processo de perda do mandato do Parlamentar. Obrigatoriedade da Mesa Diretora da Casa de declaração da perda do mandato de Deputado condenado ao cumprimento de pena em regime fechado. Elogio à Presidência pela votação da PEC 349, de 2001 (Altera a redação dos arts. 52, 53, 55 e 66 da Constituição Federal para abolir o voto secreto nas decisões da Câmara dos Deputados e do Senado Federal), em apreciação em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bf4b4e8b953480d2e31d6ca545ebdea07ef326d8fa6abf6a03c5b341fa97870
+size 613

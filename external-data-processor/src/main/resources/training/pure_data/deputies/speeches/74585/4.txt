@@ -1,1 +1,3 @@
-Apoio à proposta de ampliação da pena relativa a crimes praticados por gangues.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2faa6002a665efcdcad279ebbc7960ed32b285586755f4dd405c3f18a1526ad
+size 82

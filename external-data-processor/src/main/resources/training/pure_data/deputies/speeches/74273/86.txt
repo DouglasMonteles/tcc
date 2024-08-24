@@ -1,1 +1,3 @@
-Êxito dos programas socioeconômicos do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdff180308db92a91f67302e269a15c8c349d54405d403d5ed16214ebfb9faca
+size 57

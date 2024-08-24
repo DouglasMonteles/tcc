@@ -1,1 +1,3 @@
-Decretação de estado de calamidade pública em municipalidades maranhenses atingidas por chuvas torrenciais. Imediata ação de governantes para contenção das erosões no Município de Buriticupu, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cebf5668aa7e243f3dffe0f19af9db6168ecc74902b58b1e25fe0b1d865da47c
+size 221

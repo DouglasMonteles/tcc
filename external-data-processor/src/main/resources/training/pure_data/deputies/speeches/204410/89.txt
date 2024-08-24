@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados dos Prefeitos Adelita Parmezan e Roberto Justus, respectivamente, dos Municípios de Quatiguá e Guaratuba, Estado do Paraná, e do futuro Presidente da Associação dos Municípios do Paraná, Edimar Santos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ead1f9c5f1415464ff77c44e0853dad46ea22c75841e86a2bf6b8f79ccc3689b
+size 243

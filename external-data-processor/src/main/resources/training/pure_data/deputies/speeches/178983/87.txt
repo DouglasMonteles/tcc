@@ -1,1 +1,3 @@
-Destinação de recursos de emendas orçamentárias do orador para a saúde pública do Município de Mogi Guaçu, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df88faf76498deb7db66648ea88034d6fbc8efff01e53078381e3c11d61c264c
+size 136

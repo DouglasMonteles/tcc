@@ -1,1 +1,3 @@
-Encontro do orador com o Presidente da Companhia dos Serviços Urbanos de Recife - CSURB, Gabriel Leitão. Reforma dos mercados públicos da capital pernambucana. Conveniência de realização, pelo Ministério da Saúde, de maiores investimentos em políticas públicas de combate ao sedentarismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5eb1ec89d4aa3b63d40f189ab3e435b9cd6aa6362e7b63f90e6029389a44851
+size 298

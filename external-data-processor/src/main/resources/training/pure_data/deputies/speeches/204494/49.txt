@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas de Plenário nºs 1 e 2, oferecidas ao Projeto de Lei nº 2.048, de 2020, relativo à alteração da Lei º 13.979, de 2020, com vista à suspensão de convocações para avaliação das condições exigidas para a concessão e manutenção do benefício de auxílio-doença; da aposentadoria por incapacidade permanente e da pensão por morte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bd2de059dbcaf47f7cda313511283183ff418b725bfadc28662c39e36d366fa
+size 376

@@ -1,1 +1,3 @@
-Deficiências do sistema de telefonia móvel. Avanço do consumo de crack no País. Ampliação do número de leitos nos Centros de Atenção Psicossocial para atendimento a dependentes químicos, em especial aos usuários de crack. Intensificação dos trabalhos de combate ao tráfico de drogas na fronteira do País com a Bolívia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80a0669eb280dcf24a62da8957a25eceed5625a1695e60b2fa2a69f5b8a9a4dd
+size 334

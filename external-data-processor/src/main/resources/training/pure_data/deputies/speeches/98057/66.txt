@@ -1,1 +1,3 @@
-Defesa de privatização do setor de saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5d6ea36d02077f126288f26f3f89101547e80c3a7566646bc3d4a36c96d9dac
+size 56

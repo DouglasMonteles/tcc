@@ -1,1 +1,3 @@
-Assassinato do ativista e militante político, Ramon Durães, no Município de Queimados, na Baixada Fluminense, Rio de Janeiro, Estado do Rio de Janeiro. Apelo às autoridades competentes de apuração e punição dos responsáveis pelo crime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05b36db56b0cc5175e484f7866ef079393b9e995d269ef89214a32c774e5175c
+size 244

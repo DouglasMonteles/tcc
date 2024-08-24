@@ -1,1 +1,3 @@
-Crítica ao serviço de telefonia móvel prestado no Estado do Maranhão. Anúncio de convocação do Presidente da Agência Nacional de Telecomunicações - ANATEL para esclarecimentos sobre a qualidade e o custo dos serviços de telefonia celular no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a5a82686409b00e5da54caab4eaa34800edd517381fdce1111fba98753d0da4
+size 258

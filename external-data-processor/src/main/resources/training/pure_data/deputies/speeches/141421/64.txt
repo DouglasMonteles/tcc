@@ -1,1 +1,3 @@
-Congratulações aos servidores da área de informática da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4300c4b371c357e08c70034d970bab64e711b7ac3002b86dd76a9776d2b6dc8b
+size 65

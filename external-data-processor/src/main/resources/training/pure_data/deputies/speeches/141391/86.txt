@@ -1,1 +1,3 @@
-Posicionamento contrário do PPS ao parecer do Relator à Medida Provisória 432 de 2008 (Institui medidas de estímulo à liquidação ou regularização de dívidas originárias de operações de crédito rural e de crédito fundiário, e dá outras providências), na parte que manifesta opinião pelo não-atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd5cb30fe62d882fe2d6d822a886957377c5783fa1ca197e0acdef34a1e42afc
+size 431

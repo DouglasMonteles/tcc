@@ -1,1 +1,3 @@
-Encaminhamento da votação da Medida Provisória 397 de 2007  (Revoga a Medida Provisória 385 de 2007 (Acrescenta parágrafo único ao art. 1º da Lei 11.368 de 2006, para estender ao trabalhador rural enquadrado como contribuinte individual o prazo previsto no art. 143 da Lei 8.213 de 1991- requisição de aposentadoria por idade).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a74dd8ce6b16bbac85200bf93fbcb4b442833435c068c9feafdd6b1a35b4c507
+size 336

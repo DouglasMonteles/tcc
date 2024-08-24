@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Meio Ambiente. Comemoração da Semana Nacional do Meio Ambiente. Relevância de conferências e acordos realizados a respeito da questão ambiental. Indignação do orador com a decisão do Presidente dos Estados Unidos da América, Donald Trump, de ruptura do Acordo de Paris, acerca de mudanças climáticas. Relevância de políticas e normas legais instituídas no País para preservação do meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31e1f499c6f11560e0a8a228dfaf3140eb2b946fd0f3718993aaf1201d995c4d
+size 441

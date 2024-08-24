@@ -1,1 +1,3 @@
-Posse do Deputado Nelson Pellegrino na Secretaria de Justiça, Cidadania e Direitos Humanos do Estado da Bahia. Excelência da atuação do Governador Jaques Wagner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05a64d0f518c673ecf1d44a29d8491de296f031a9eafaa1acd69655a4a8189c8
+size 165

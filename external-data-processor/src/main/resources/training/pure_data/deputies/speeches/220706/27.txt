@@ -1,1 +1,3 @@
-Defesa da apreciação da Proposta de Emenda à Constituição nº 215, de 2000, sobre a inclusão entre as competências exclusivas do Congresso Nacional da aprovação de demarcação das terras tradicionalmente ocupadas pelos índios e a ratificação das demarcações já homologadas. Prejuízos causados à economia rural paranaense com a indiscriminada demarcação de terras pela Fundação Nacional do Índio - FUNAI. Apelo ao Ministro da Justiça, José Eduardo Cardozo, por providências para a desocupação de área do Parque Nacional do Iguaçu, Estado do Paraná, invadida por indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9ea0fa453e59f70114581875f93d9c287fdb9dbc7930e838e7546abeef95eb9
+size 603

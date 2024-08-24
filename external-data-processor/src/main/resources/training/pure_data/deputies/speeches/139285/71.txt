@@ -1,1 +1,3 @@
-Transcurso do 45º aniversário de criação da Feira de São Joaquim, em Salvador, Estado da Bahia. Outorga da Medalha Zumbi dos Palmares ao feirante Nilton Raimundo Ávila, pela Câmara de Vereadores de Salvador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84d7562cdbc7482e3b41ae958a74073f712698f049ce2fa923db4df1a5f714d3
+size 214

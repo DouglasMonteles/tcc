@@ -1,1 +1,3 @@
-Encaminhamento de votação do Requerimento 5.464 de 2012 (Requer a apreciação de Moção de Repúdio ao Governo da República Árabe da Síria em virtude da forte repressão ordenada pelo seu Presidente Bashar Al-Assad contra os opositores ao regime político do País).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3532ee24365d223974269833ca3f6ee066e89c02b3e0096eec0db5994f59fc5
+size 273

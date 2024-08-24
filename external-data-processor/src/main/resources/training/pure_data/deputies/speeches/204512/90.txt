@@ -1,1 +1,3 @@
-Relevância das operações de combate à corrupção realizadas pela Polícia Federal. Desvio de recursos públicos pelas gestões petistas. Pedido ao Presidente da República de reestruturação das carreiras dos policiais federais, dos policiais rodoviários federais e dos policiais penais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfd4fdc001ad379fe16763d340f13bc5c0e6392d3ab29e291af1bc212d648c88
+size 294

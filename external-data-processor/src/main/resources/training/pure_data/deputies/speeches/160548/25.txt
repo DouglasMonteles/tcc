@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre  presunção de verdade do uso de bebida alcoólica ou de substância psicoativa no caso de recusa da realização, pelo condutor de veículo automotor, de procedimento para apuração do seu estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d1d0514cd4d350bb099a3fd9d84085ad086fa810de9ba4168f98bffd8e1da4a
+size 238

@@ -1,1 +1,3 @@
-Ineditismo da aprovação da  PEC 324 de 2009 (Altera o art. 103-B, para modificar a composição do Conselho Nacional de Justiça - estabelece que a Presidência do Conselho Nacional de Justiça será exercida pelo Presidente do Supremo Tribunal Federal; acaba com o limite de idade para os membros do Conselho), por unanimidade, pela Câmara dos Deputados. Repúdio à tentativa do Poder Judiciário de impedimento da posse de Suplentes de Vereador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:580dec9100eaa5bf4c768a0562bff07f3de23739eae5a2508bbc1f40817f62e6
+size 451

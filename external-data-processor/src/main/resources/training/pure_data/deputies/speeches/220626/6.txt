@@ -1,1 +1,3 @@
-Importância da agropecuária leiteira para o Brasil. Realização da exposição MEGALEITE 2023, no Município de Belo Horizonte, Minas Gerais. Protesto contra decisão do Governo Luiz Inácio Lula da Silva de redução da alíquota de importação do leite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f87168c4150d477099314aefa41025043181bda0cf564ad660afd23dced8fccb
+size 259

@@ -1,1 +1,3 @@
-Preocupação com proposta de novo Código Penal em tramitação no Parlamento da República Islâmica do Irã com o estabelecimento de pena de morte nos casos de conversão do Islã para outra religião, em flagrante violação de princípios contidos na Declaração Universal dos Direitos Humanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2950d44afea7fbc75e40763e2057bff76ddb37d30fd4e8a26877ddcf5600a9ac
+size 300

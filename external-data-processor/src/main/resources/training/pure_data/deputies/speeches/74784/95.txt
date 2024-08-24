@@ -1,1 +1,3 @@
-Lançamento do livro Memórias de uma Guerra Suja, a respeito de crimes ocorridos durante a ditadura militar, de Marcelo Netto e Rogério Medeiros. Apelo às autoridades competentes de proteção do acervo de provas da violação de direitos humanos durante o regime de exceção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a224393c8ac90024738de5b8821f38438edcd7d165c7e5c621653db0a97938f4
+size 280

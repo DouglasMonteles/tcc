@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Comissão nº 121, apresentada à Medida Provisória nº 998, de 2020, acerca da alteração de diplomas legais e da transferência, para a União, das ações de titularidade da Comissão Nacional de Energia Nuclear, representativas do capital social das Indústrias Nucleares do Brasil S/A e da Nuclebrás Equipamentos Pesados S/A. Defesa de votação do projeto original de regulamentação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61fa8932a62db7110bd8d5089e71230f3afc9164ae38216a940c003d595881a4
+size 624

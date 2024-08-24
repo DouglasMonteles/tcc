@@ -1,1 +1,3 @@
-Apoio à greve dos professores da rede de ensino público do Estado de São Paulo. Críticas à política educacional do Governo do Estado, em particular quanto às normas atinentes à remoção, substituição e contratação temporária de docentes da rede estadual de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5a6355660d84fe21eecef7ded653c511b84e4ddf8a49414149e1515d8cc6b7d
+size 278

@@ -1,1 +1,3 @@
-Transcurso do centenário da imigração japonesa no Brasil. Visita do Príncipe Herdeiro do Japão, Naruhito Hironomya, ao Brasil. Festividades comemorativas do Centenário no Estado do Paraná
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bbda94cadadeaddc1748addeeffa014c861db29e4f6384597afc42768ab0fb0
+size 194

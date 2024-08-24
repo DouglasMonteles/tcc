@@ -1,1 +1,3 @@
-Protesto contra a iniciativa do Presidente Jair Bolsonaro de concessão, aos Estados Unidos da América, do direito de utilização do Cento Espacial de Lançamento de Alcântara, no Estado do Maranhão, e de extinção de aposentadorias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5e43b6b09758fa3f2b49df0b0be226bb971a5fe87bb3a676e45d7dd03935f2f
+size 238

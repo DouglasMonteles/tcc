@@ -1,1 +1,3 @@
-Transcurso do Dia do Circo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23757885ef3f9b2f50806c035e1ad097aae1d8b3135062e69fc8001f0acc7009
+size 27

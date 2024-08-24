@@ -1,1 +1,3 @@
-Presença no plenário dos Vereadores Willian Andrade e Huan Back, respectivamente, das Câmaras Municipais de Urupema e Itapema, Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd96ca38ff94f54bc6160fbeb564877f05ae5b09707e77a9dea7bbd1c2afc71d
+size 155

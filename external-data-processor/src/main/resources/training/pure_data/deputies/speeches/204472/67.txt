@@ -1,1 +1,3 @@
-Morosidade do Secretário Especial da Receita Federal do Brasil, Marcos Cintra, na liberação de voo internacional para o Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5ceca36c8e79d8489af65b3612f7b5d461d41fac34170949bb4df2ff4df4684
+size 145

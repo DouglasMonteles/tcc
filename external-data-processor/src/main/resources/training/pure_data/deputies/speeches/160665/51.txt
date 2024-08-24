@@ -1,1 +1,3 @@
-Encaminhamento de indicações ao Tribunal de Contas da União - TCU e ao Ministério Público para investigação da legalidade de autorizações concedidas pelo Governo Federal à empresa Estruturadora Brasileira de Projetos S/A - EBP. Denúncia de cerceamento de processo licitatório em benefício da EBP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b14d94c509b475cdf2eaa9ac44d29c9d5d306e2b14ee2892c88741200bfff0bb
+size 309

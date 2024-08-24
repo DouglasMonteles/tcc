@@ -1,1 +1,3 @@
-Protesto contra medidas adotadas pelo Ministro da Economia, Paulo Guedes, prejudiciais à Zona Franca de Manaus, no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a412b043dc26e69897835f90a2fb27ca7b6469efc79e48428a21d2a87ed5a3e3
+size 135

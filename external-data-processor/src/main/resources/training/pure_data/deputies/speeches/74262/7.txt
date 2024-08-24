@@ -1,1 +1,3 @@
-Regozijo com a aprovação pela Casa de projeto de lei sobre a construção do chamado trem-bala.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31eacad065f87c4877726c90e271c1aca9303fbff2ae30bbfa6b638e9721a09b
+size 97

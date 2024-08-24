@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento, por uma sessão, da votação do Projeto de Lei nº 4.728, de 2020, acerca da reabertura do prazo de adesão ao Programa Especial de Regularização Tributária - PERT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b114fdaf44772f0bdae6aff9925cbabccbde2ee428ae11727d41c2a52756df0
+size 235

@@ -1,1 +1,3 @@
-Homenagem póstuma ao Monsenhor André Viana Camurça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:556072442985b3ac963853136dd6b905b2d609278a49efa0d1958335962a38e6
+size 54

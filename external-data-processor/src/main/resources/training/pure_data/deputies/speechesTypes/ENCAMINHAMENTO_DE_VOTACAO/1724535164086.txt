@@ -1,1 +1,3 @@
-Encaminhamento da votação das Emendas do  Senado ao  Projeto de Lei de Conversão, 28 de 2008 (Medida Provisória 441 de 2008), que dispões sobre a estruturação e reestruturação de planos de cargos e planos de carreiras e a reorganização e simplificação  das estruturas remuneratórias no âmbito da Administração Pública Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efa5f2797699f723a7541a3997bf9f8416c3d3d0c4469eb88aca3952726ee2e0
+size 344

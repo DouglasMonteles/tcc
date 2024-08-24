@@ -1,1 +1,3 @@
-Solidariedade à Universidade de Brasília - UnB diante da publicação pela revista Veja do artigo Madraçal no Planalto, de Gustavo Ribeiro. Transcurso do 21º aniversário do Estatuto da Criança e do Adolescente. Ações do orador no exercício do cargo de Secretário de Desenvolvimento Social e Combate à Pobreza do Governo do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d201333b95c96eda6f13685f7b0aa2a0ebcb1a341546e0f0792c61c709c6366f
+size 350

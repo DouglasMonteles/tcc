@@ -1,1 +1,3 @@
-Carência de profissionais qualificados no mercado de trabalho brasileiro. Reportagem do jornal Correio Braziliense sobre a evasão escolar no ensino médio. Reflexos da má qualidade do ensino sobre o desenvolvimento do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44d3bcb2fe90dd8920b6829a4f564e22e0e7dd2d89393f68f4128df784cbab2a
+size 227

@@ -1,1 +1,3 @@
-Importância da Lei Maria da Penha para diminuição dos casos de violência doméstica contra a mulher. Estímulos para inserção de maior número de mulheres na vida social e econômica do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d95deddc3d6afcc6fcfbc2445b5e53feb49b5522ef8ae3cdc92d944be468c17
+size 198

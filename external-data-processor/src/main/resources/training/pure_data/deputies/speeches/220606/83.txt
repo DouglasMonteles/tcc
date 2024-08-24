@@ -1,1 +1,3 @@
-O Deputado avaliou positivamente a votação da medida provisória que reajusta o salário mínimo. Mencionou a aprovação de um substitutivo à Lei Complementar nº 173, de 2020, na Comissão de Administração e Serviço Público, que visa recuperar os direitos dos servidores da educação pública que foram retirados durante a pandemia. Por fim, mencionou um ato em Lumiar, Nova Friburgo (RJ), em apoio à Deputada Marina do MST, atacada enquanto prestava contas de seu mandato, ressaltando a necessidade de defender a democracia diante de tais ataques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b63801b8a9f7c2ae4f845c7a952bc750dd409217bb8214a7ebd80fd09beefd4
+size 559

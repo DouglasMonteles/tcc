@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado do Rio Grande do Norte pela eleição do orador. Comprometimento do Parlamentar com a causa municipalista. Apoio ao conjunto de medidas anticrime apresentadas pelo Ministro da Justiça e Segurança Público, Sérgio Moro. Reiteração do compromisso com os legítimos interesse da população do Brasil e do Rio Grande do Norte. Anúncio de apresentação, pelo orador, de proposta de emenda à Constituição sobre a redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:838944ab20c1e33a72daedd60e6669069c23370b3d6f384bfa6f14173a33e910
+size 486

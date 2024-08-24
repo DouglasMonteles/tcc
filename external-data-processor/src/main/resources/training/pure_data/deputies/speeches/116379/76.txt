@@ -1,1 +1,3 @@
-Contestação ao pronunciamento de Deputado do PT do Estado da Bahia, a respeito do envolvimento do Presidente Jair Bolsonaro no assassinato da Vereadora Marielle Franco, da Câmara Municipal do Rio de Janeiro. Indagação aos Deputados oposicionistas sobre a autoria do homicídio do então Prefeito Celso Daniel, do Município de Santo André, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:773b5b02f43d0bb4390781cdb02c055aa80e90c1128b9a16d7bb61489d0ab0ba
+size 367

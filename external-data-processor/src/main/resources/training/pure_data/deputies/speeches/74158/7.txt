@@ -1,1 +1,3 @@
-Protesto contra o cerceamento do livre trânsito a delegados de polícia na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d5e59f65ceb7e454b460102774fb17a9843b1cabef855c40a6e85bd68bf24d6
+size 81

@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação da Emenda de Plenário nº 17, apresentada ao Projeto de Lei nº 7.082, de 2017, que dispõe sobre a pesquisa clínica com seres humanos e institui o Sistema Nacional de Ética em Pesquisa Clínica com Seres Humanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae8482f35f1e6ca1b5168136f6356ec8859b81adb789a21bb909408c0fe80d44
+size 259

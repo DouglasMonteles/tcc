@@ -1,1 +1,3 @@
-Homenagem à Igreja Evangélica Assembleia de Deus, ao ensejo do transcurso do centenário de sua fundação no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9470591b39794827f1da2256632c023b488d36433c7a0a6a4e05ed16c3df1393
+size 119

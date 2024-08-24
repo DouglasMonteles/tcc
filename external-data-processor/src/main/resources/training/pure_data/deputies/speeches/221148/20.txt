@@ -1,1 +1,3 @@
-Consulta à Presidência sobre a concessão da palavra aos oradores inscritos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4acc03fd1ee83427c2db111a7f0f7b85fc84eea54b6ef7daa7e3d5b70aa0a0c
+size 78

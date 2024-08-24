@@ -1,1 +1,3 @@
-Relato sobre participação do orador em missão oficial da Casa em Guadalajara, México, destinada ao debate sobre o ensino superior na América Latina e países caribenhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbfacbc8d7d3882d56a51ea25ad257a4b8d90e8fd84e210e85aec58faeebd3d5
+size 174

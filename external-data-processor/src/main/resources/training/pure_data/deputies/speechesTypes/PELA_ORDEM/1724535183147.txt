@@ -1,1 +1,3 @@
-Esclarecimento ao Deputado Glauber Braga sobre o posicionamento do orador acerca de tópicos da proposta de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:501156326cbdae39c5c558c55fe75046756c4db03cbfeb922e33546942d43875
+size 132

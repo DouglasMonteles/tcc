@@ -1,1 +1,3 @@
-Preocupação com a provável redução da safra de café no Estado de Minas Gerais. Indignação ante o excesso de instruções normativas editadas pelo Ministério do Trabalho e Emprego. Apresentação de projeto de lei sobre a garantia de proeminência da convenção coletiva de trabalho sobre a instrução normativa. Agradecimento ao Governador Antonio Anastasia pela implantação do Programa Ver Minas no Município de Campos Gerais. Morosidade dos investimentos federais no setor de transportes do Estado de Minas Gerais. Caráter exorbitante dos juros aplicados à dívida do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64ed923967daf41028e8ba523228ad4ec8978f23e4bfd21cde1cb90364d87eb0
+size 593

@@ -1,1 +1,3 @@
-Apelo ao Governo Federal, em especial ao Ministério de Minas e Energia, de indenização de proprietários rurais atingidos pela construção da Usina Hidrelétrica de Sobradinho, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aecb2ffc862021ade5293b7bca214945e6671fa5c4a80196ae543368831c39a
+size 200

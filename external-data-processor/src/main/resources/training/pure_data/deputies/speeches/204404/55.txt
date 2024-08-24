@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a situação crítica enfrentada pelo Rio Grande do Sul devido às fortes chuvas e enchentes que atingiram mais de 107 municípios, resultando em mais de 50 mortes e devastação em diversas áreas. Destacou que o Estado vive um dos meses mais chuvosos de sua história, colocando-o em situação de calamidade e emergência. Elogiou o trabalho do Governador Eduardo Leite e da Defesa Civil, mas enfatizou a necessidade urgente de recursos federais para socorro e reestruturação, especialmente na área da saúde pública. Fez ainda um apelo ao Parlamento e ao Governo Federal para que deem atenção especial ao Estado, visando não apenas o resgate rápido, mas também a reconstrução das áreas afetadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ace8f414168e91dc94c81d4d0580707eb2e4c95368d199b6bbeb5b5a9b3684a
+size 750

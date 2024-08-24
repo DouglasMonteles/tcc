@@ -1,1 +1,3 @@
-Imediata votação pela Casa do Projeto de Lei nº 2.215, de 2020, sobre a alteração da Lei nº 9.074, de 1995, com vista ao estabelecimento do Sistema de Compensação de Energia Elétrica, apensado ao Projeto de Lei nº 5.829, de 2019, a respeito da produção e distribuição de energia renovável. Possibilidade da ocorrência de crise energética no País. Queda do nível dos reservatórios brasileiros. Reajuste de tarifas de energia elétrica em 20%. Vantagens advindas da realização de investimentos em fontes de energias renováveis, notadamente na energia solar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0e208ee389ace84490d04670bd8cd1d0c12e0f8055bb5245f6d08d6709b1bb7
+size 578

@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do Projeto de Decreto Legislativo nº 554, de 2021, que aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo do Estado de Israel para Cooperação em Segurança Pública, Prevenção e Combate ao Crime Organizado, firmado em Jerusalém, em 31 de março de 2019. Na oportunidade, também destacou o protagonismo do Brasil no Conselho de Segurança da ONU ao apresentar proposta que visava uma pausa humanitária para criar um corredor de segurança a fim de resgatar crianças, idosos e deficientes. Esclareceu que essa proposta recebeu o apoio de 12 países, mas foi vetada pelos Estados Unidos. Informou, ainda, que o Presidente Lula condenou veementemente os ataques do Hamas contra civis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51d4146d77a8bdf68f2dc65a1ac38b933ba65d74ca11d24b3cd7178657636cdc
+size 769

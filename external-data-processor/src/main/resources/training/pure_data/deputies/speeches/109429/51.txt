@@ -1,1 +1,3 @@
-Apelo à Casa de votação de proposições destinadas à repressão ao crime. Pedido ao Senado Federal de votação das Propostas de Emenda à Constituição de nºs 171, de 1993; 33, de 2012, e 32, de 2019, relativas à redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a1adc3fdcde5f219097e8c1999b70569772244a63057d65a02282ce3352b9f6
+size 252

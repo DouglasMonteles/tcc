@@ -1,1 +1,3 @@
-Necrológio do radialista Pacheco Filho, de Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0512f1ea5cd5c0709333ffef886897b6ad74966c5ccff307369ecbb6fa402afe
+size 70

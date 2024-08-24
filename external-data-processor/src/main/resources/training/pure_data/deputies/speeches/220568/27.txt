@@ -1,1 +1,3 @@
-Repúdio aos questionamentos da Senadora Eliziane Gama ao ex-Diretor-Geral da Polícia Rodoviária Federal, Relatora da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República. Decisão do governo petista de taxação do PIX, sistema de transferência monetária e pagamento eletrônico instantâneo. Declaração do Presidente da República sobre a vinculação do progresso à falta de dinheiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4decb81147a135a53b5afb6eca5e4d95a4ec8b88277537fca3fa65aaab3c2622
+size 453

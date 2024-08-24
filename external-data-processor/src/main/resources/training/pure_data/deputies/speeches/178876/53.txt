@@ -1,1 +1,3 @@
-Cobrança ao Governo Federal de redução da tarifa de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a38b531cbcdcd553f6e9b06874a25c0010568d6477f8a837ed47b7e54f98a8ba
+size 73

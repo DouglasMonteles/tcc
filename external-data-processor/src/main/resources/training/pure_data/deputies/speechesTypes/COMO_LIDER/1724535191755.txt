@@ -1,1 +1,3 @@
-Agradecimento à Casa pela votação da Emenda Aglutinativa nº 57, destinada à instituição de cotas para a representação feminina no Parlamento brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23ed7b2d60913c439cacbe6be231d9ab42680105b3a8f0c610be297597148e58
+size 161

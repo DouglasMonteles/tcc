@@ -1,1 +1,3 @@
-Apelo ao Ministro da Saúde, Alexandre Padilha, de retomada da doação do medicamento Interferon aos portadores da hepatite C.
+version https://git-lfs.github.com/spec/v1
+oid sha256:954b68fc44048220ff991852669dca445477f9df73fdcd9206be738c6a70f9af
+size 127

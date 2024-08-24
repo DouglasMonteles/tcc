@@ -1,1 +1,3 @@
-Impacto ambiental causado pela Companhia Siderúrgica Nacional - CSN ao Município de Volta Redonda, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1311f0a39f895844b57bfa8dfa3bff48afebb660a1502e11b4f47fac995dc5d9
+size 126

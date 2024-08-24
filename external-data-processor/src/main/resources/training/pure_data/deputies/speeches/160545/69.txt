@@ -1,1 +1,3 @@
-Orientação de bancada do DEM favorável à Emenda Aglutinativa de Plenário nº  2 ao  Projeto de Lei Complementar nº 221, de 2012 (altera os Anexos da Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o abatimento de parcela dedutível do valor devido mensalmente pelo pagamento do Simples Nacional, conforme a faixa de renda da pessoa jurídica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:86a88c0b118e56eb18494039081e4bfdae3532946c77d3d6dcc3d7c4e48db956
+size 368

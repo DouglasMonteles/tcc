@@ -1,1 +1,3 @@
-Inauguração de praça poliesportiva no Município de Ourinhos, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dad729c13a0495c142912085b3b6cade8387bde73f032b3f55f8518a97086ec6
+size 86

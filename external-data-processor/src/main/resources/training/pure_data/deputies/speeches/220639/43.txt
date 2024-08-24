@@ -1,1 +1,3 @@
-Apresentação, pela bancada do PSOL, do Projeto de Decreto Legislativo nº 170, de 2023, para sustação do reajuste de planos de saúde autorizado pela Agência Nacional de Saúde Suplementar - ANS. Apresentação do Projeto de Lei nº 3.139, de 2023, sobre a alteração da Lei nº 9.656, de 1998, relativa aos planos e seguros privados de assistência à saúde, com vista a não consideração, como doenças ou condições preexistentes, das doenças congênitas e perinatais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08686877f024396e786acd77801d33446b59636566df6b6b28efe74449207d8d
+size 482

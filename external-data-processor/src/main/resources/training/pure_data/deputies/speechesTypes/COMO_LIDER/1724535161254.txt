@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Geraldo Thadeu, em defesa dos portadores de hepatite crônica e contra a proliferação da doença no País. Natureza política do afastamento do Delegado Protógenes Queiroz de operação da Polícia Federal
+version https://git-lfs.github.com/spec/v1
+oid sha256:205f3307b5aa35f1e5d53be3c786f98d23a5bbd4c706ef4e639e1eb5dc23d805
+size 234

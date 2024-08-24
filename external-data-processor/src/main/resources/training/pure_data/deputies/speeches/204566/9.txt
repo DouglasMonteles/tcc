@@ -1,1 +1,3 @@
-Transcurso do aniversário natalício do Deputado Fred Costa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57bab1e6a447447224961b80274d579e36b827053ab234002ef69fd643938f03
+size 61

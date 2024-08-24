@@ -1,1 +1,3 @@
-Requer a retirada das notas taquigráficas de expressões do pronunciamento do Deputado Amauri Teixeira ofensivas ao Líder do DEM, Deputado Antonio Carlos Magalhães Neto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02725d032cd5ef430413db81e30afc779b75945d224c7d63388c0cf44f998fec
+size 172

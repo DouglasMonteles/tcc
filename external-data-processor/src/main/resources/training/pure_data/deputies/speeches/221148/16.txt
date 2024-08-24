@@ -1,1 +1,3 @@
-Contestação a pronunciamentos contrários à visita do Presidente da Venezuela Nicolás Maduro, ao Brasil, a convite do Presidente Luiz Inácio Lula da Silva. Retomada, pelo Governo brasileiro, das relações diplomáticas com países da América do Sul. Importância do apoio dos Parlamentares ao Governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb4ff68999446f1e798f8e0b50ca0971dd89164d3f1ae4b5bcc09450a313fdff
+size 316

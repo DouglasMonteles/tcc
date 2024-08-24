@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d6bde855db50e6e768918760acefc94b9d6f92c74c0b870239d37e97e722268
+size 153

@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Finanças e Tributação, de requerimento de realização de audiência pública para discussão da Lei de Reponsabilidade Fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a29b478e3e792f7101f93f18f95bf96a7cbb21d4484247f252a0024cbaebd25
+size 161

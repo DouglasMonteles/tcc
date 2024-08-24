@@ -1,1 +1,3 @@
-Apoio ao posicionamento do Ministro da Justiça e Segurança Pública, Sérgio Moro, favorável à expunção do Congresso Nacional. Caráter mitômano de discurso proferido por Deputada oposicionista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a3352c603b53e7fe283c1fd87ae72ef9dbf384ede3ba9433e768820661eeb4f
+size 201

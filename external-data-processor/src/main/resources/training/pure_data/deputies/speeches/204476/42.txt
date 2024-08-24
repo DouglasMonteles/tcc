@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 5.149, de 2020, sobre a alteração da Lei nº 8.989, de 1995, com vista à prorrogação da isenção do IPI incidente na aquisição de automóveis utilizados no transporte autônomo de passageiros e por portadores de deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86aeb33971fe865dcc77944639ec646915de974b3102ebb5224b743748bbfc01
+size 347

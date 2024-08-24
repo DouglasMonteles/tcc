@@ -1,1 +1,3 @@
-Encaminhamento de discurso em homenagem póstuma à artesã Ana Leopoldina dos Santos, conhecida por Ana das Carrancas, do Município de Petrolina, Estado de Pernambuco. Concessão, pelo Governo Luiz Inácio Lula da Silva, da Medalha da Ordem do Mérito Cultural à artesã.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ed338b5ee130b0eb40496715bee7823bee453b6253ed3a11f4345294cd928f1
+size 274

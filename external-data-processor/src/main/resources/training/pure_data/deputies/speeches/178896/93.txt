@@ -1,1 +1,3 @@
-Presença no plenário do Prefeito Walter Júnior Ladeia Borborema, do Município Nova Módica, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10a3786e390e84c2d8585226c7bd8479d1ddc09ce50ab03f3b41ed54daf66f8b
+size 119

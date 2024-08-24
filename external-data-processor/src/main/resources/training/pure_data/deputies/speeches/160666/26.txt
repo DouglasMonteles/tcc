@@ -1,1 +1,3 @@
-Falecimento do ex-Prefeito Wilson Brito, do Município de Cipó, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5729978aeb34d03b0291535306c96034b58258412de07f186f6ba932e143851f
+size 81

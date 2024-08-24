@@ -1,1 +1,3 @@
-Importância dos investimentos governamentais no setor de saneamento básico. Indignação do orador com a classificação obtida pelo Município de São Gonçalo, Estado do Rio de Janeiro, no ranking nacional dos indicadores de saneamento básico. Não realização de investimentos na área de saneamento pelo gestor da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15e9a5aa1f71134fb13d0456274c9df46cbc019020c40fa9c97d3069805dcc68
+size 337

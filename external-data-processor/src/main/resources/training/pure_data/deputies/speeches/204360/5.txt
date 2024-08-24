@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar de Luta contra o Câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3536fd671bf8b105bcea20460af9b33d93f6e15828f963cad7803b7f4b470f05
+size 59

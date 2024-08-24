@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei nº 2.250, de 2023, sobre a faculdade de concessão, como garantia de operações de crédito, do direito de resgate assegurado aos participantes de planos de previdência complementar aberta, aos segurados de seguros de pessoas, aos cotistas de Fundo de Aposentadoria Programada Individual e aos titulares de títulos de capitalização.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5654dc6a100a21d875af8fc31439ee643a579c15926316413144a28d8184431d
+size 393

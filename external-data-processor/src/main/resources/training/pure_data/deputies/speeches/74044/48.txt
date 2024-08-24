@@ -1,1 +1,3 @@
-Posicionamento favorável do Governo  ao parecer pela admissibilidade da Medida Provisória 449 de 2008 (Altera a legislação tributária federal relativa ao parcelamento ordinário de débitos tributários, concede remissão nos casos em que especifica, institui regime tributário de transição, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce83fe4187b1cecc4d5c33e0cdbca32e560feb2e293845db6d99d822dcd67c5a
+size 328

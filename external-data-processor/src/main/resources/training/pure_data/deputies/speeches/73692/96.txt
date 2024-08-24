@@ -1,1 +1,3 @@
-Realização da Feira Nacional da Soja - FENASOJA, no Município de Santa Rosa, Estado do Rio Grande do Sul. Pujança do agronegócio na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ed722835f4155462e7ef63a4cadccd3c222bcf0c9ab52ebf31068f3432fab4e
+size 152

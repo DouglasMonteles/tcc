@@ -1,1 +1,3 @@
-Satisfação da Deputada Rosângela Gomes com a votação do projeto. Solicitação aos Deputados de apoio à proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90c86b3489481a5f0112c891cda8fd26bf02216ba145a65d87b4f569d69020c3
+size 123

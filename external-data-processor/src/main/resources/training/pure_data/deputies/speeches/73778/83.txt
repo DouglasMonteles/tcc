@@ -1,1 +1,3 @@
-Convite aos Parlamentares para participação no ato de lançamento da campanha pela adoção do Orçamento Impositivo, promovida pelo Movimento dos Focolares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7c3363e40a59e717674e2ad81a806a3d2a3a1ad3817024bd621bd4b6913b1ad
+size 159

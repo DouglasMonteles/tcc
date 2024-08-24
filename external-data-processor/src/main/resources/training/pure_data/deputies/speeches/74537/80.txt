@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM à   Emenda 7, do Senado, destacada, ao Projeto de Lei de Conversão 30 de 2008 (Medida Provisória 443 de 2008), que autoriza o Banco do Brasil S.A e a Caixa Econômica Federal a constituírem subsidiárias e a adquirirem participação em instituições financeiras sediadas no Brasil, que suprime dispositivo que autoriza a União a conceder crédito do BNDES para abertura de linhas de crédito para capital de giro das empresas contratadas pelos governos federal, estaduais ou municipais para execução de obras de infraestrutura no âmbito do Programa de Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:155f1901fa430913a079a7b4f67522edb7781170688c3700643f4c27d2c931fe
+size 629

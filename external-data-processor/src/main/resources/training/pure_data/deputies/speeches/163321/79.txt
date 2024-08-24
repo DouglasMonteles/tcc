@@ -1,1 +1,3 @@
-Manifestação de boas-vindas aos Pastores Andreas Scholl, Nilson e Aldino Krüger, presentes na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67a52f5883bb29c300ee6aa719f01188c4a540ad8cef5e6e7af398ab434df3bd
+size 102

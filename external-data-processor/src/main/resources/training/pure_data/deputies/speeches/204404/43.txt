@@ -1,1 +1,3 @@
-Criação, pelo Senado Federal, de comissão de juristas para revisão da Lei nº 1.079, de 1950, (Lei do Impeachment), sobre a definição dos crimes de responsabilidade e a regulação do respectivo processo de julgamento. Defesa da punição de Ministro do Supremo Tribunal Federal por adoção de decisões inconstitucionais. Inadmissibilidade de retrocesso da Lei do Impeachment. Apoio ao requerimento de criação da CPI do Abuso de Autoridade. Reexame do tempo de mandato e da sistemática de nomeação dos membros da Suprema Corte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee659941b4a807b93ab9c481f7ac943439ba9390c5cc28b811a59f8ca8b4354e
+size 540

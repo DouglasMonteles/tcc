@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da expressão além de outras atribuições definidas em lei específica de iniciativa do Poder Executivo, constante no § 5º-A, do art. 144, introduzido pelo art. 3º da Proposta de Emenda à Constituição nº 372, de 2017, sobre a criação das polícias penais federal, estaduais e distrital, com vista à sua supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2135ff8d5396126f980d0b660daa4474b47b232d880f0805872253b5d69bf3b4
+size 418

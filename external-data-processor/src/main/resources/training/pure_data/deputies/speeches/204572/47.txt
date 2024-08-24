@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição nº 6-D, de 2019, sobre reforma do sistema previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:248fd7e316438ea7a2f4a004910be92e2ceda76b3c6c62b1fa1f854bb446ea5f
+size 173

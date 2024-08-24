@@ -1,1 +1,3 @@
-Necessidade de apuração de denúncia do investigador de polícia Augusto Pena contra o ex-Secretário-Adjunto de Segurança Pública do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffc67262a4aecf26b199689e42030de54dc80002139dbd51665f5b9d223b1555
+size 159

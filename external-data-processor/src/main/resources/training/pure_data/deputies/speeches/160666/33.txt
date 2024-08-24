@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de destaque para votação em separado da Emenda nº 122, oferecida à Medida Provisória nº 783, de 2017, sobre instituição do Programa Especial de Regularização Tributária junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6747c76d880f6876df91a3c7048664a03a2855dd080c108e5f85a56632fd1d0f
+size 328

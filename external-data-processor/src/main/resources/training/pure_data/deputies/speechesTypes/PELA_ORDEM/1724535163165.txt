@@ -1,1 +1,3 @@
-Posicionamento do PDT favorável à legalização dos jogos de bingo no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7f992825f2dbb43c4a130bdbbd7c2a5b68bcccbe72cd3035d4b9aa5b793cb89
+size 78

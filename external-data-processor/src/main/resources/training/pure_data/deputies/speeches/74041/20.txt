@@ -1,1 +1,3 @@
-Leitura de Ato da Presidência sobre a criação de Comissão Especial destinada ao exame do Projeto de Lei nº 4.842, de 1998.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72bb28ecd9eb23af386124fa345e89b2e94f19baaee5f2677d7cbf1bfa49c447
+size 127

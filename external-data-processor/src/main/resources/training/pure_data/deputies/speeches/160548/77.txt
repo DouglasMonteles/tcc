@@ -1,1 +1,3 @@
-Agradecimento aos Parlamentares pelo apoio à Emenda 148 ao Projeto de Lei de Conversão da Medida Provisória 540 de 2011 (Institui o Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras - Reintegra; dispõe sobre a redução do Imposto sobre Produtos Industrializados - IPI à indústria automotiva; altera a incidência das contribuições previdenciárias devidas pelas empresas que menciona, e dá outras providências),  que restringe a isenção do PIS/PASEP e Cofins aos computadores e notebooks fabricados no Brasil. Expectativa de cumprimento de  compromisso assumido pelo Líder do Governo, Deputado Cândido Vaccarezza de  inclusão da matéria em outra medida provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19123c96a204a23afae7e7f0dcce7d29e3021e3be1db5da7cbd83f8f503181e9
+size 720

@@ -1,1 +1,3 @@
-Realização da 10ª Feira Agropecuária de Jaru Agroshow 2015, no Município de Jaru, Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b57031098a4f8ab5e784d2784fe85d69a119504eea57c5d2268ac008737146c1
+size 107

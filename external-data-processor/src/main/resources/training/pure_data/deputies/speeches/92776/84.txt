@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Amazônia. Pujança da biodiversidade da região amazônica. Combate às agressões humanas na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc418d4445680dfeb3d615762458b43131b067182be634de22ec0fd9a88d5724
+size 132

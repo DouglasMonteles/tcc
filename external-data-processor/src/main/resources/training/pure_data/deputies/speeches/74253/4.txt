@@ -1,1 +1,3 @@
-Necessidade de transparência dos programas sociais de transferência de renda. Apoio à proposta sobre a matéria, em trâmite na Comissão de Fiscalização Financeira e Controle. Ocorrência de pagamentos indevidos no Programa Bolsa Família, segundo relatório do Tribunal de Contas da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c70aa9c1934628adea57b714e3b121c25c09c12ef540ae51b5095c2bbe4ac4f3
+size 297

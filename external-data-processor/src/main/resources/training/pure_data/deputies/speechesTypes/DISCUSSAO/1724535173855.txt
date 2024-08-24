@@ -1,1 +1,3 @@
-Discussão da Medida Provisória nº 756, de 2016, sobre a alteração dos limites do Parque Nacional do Rio Novo, da Floresta Nacional do Jamanxim e criação da Área de Proteção Ambiental do Jamanxim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c8b3b2f99eabb2eb10250747de1c9b794cdacfa177d2a4d4b56e091666e3a33
+size 205

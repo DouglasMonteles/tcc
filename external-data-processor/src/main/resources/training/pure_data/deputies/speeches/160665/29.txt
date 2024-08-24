@@ -1,1 +1,3 @@
-Necessidade da realização de auditorias em contratos celebrados entre o Governo Federal e a empresa Delta Construções S.A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13d6bbd782b29b1e6ce1070e9912e379d3e9d2b898ae5c73f5188cb6b5392bd7
+size 126

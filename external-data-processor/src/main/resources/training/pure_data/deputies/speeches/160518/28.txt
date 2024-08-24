@@ -1,1 +1,3 @@
-Reajuste abusivo nos preços dos combustíveis no País. Solicitação ao Conselho Administrativo de Defesa Econômica - CADE de investigação de possível formação de cartel no setor de revenda de combustíveis no Brasil, particularmente no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d69565590e2f6f792da9ec92b79e7720add7ae82123287d7d18d2046f28154a4
+size 268

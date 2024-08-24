@@ -1,1 +1,3 @@
-Repúdio à tentativa do Ministro da Justiça e Segurança Pública, Sérgio Moro, de prisão da ex-Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae2b5ecda34c73754f7a28a55ec19d91ebc113aec25365b72291c9557f278e15
+size 126

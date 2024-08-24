@@ -1,1 +1,3 @@
-Avaliação positiva do processo democrático brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4763ac4c878331b0453527e511246542aaff842bf09efee33f072ee0b165240
+size 57

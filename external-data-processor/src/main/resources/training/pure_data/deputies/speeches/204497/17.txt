@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à Proposta de Emenda à Constituição nº 206, de 2019, sobre a cobrança de mensalidades dos estudantes de universidades públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97edd02535ac77e15fe30a1e25553db08787ecc9c4c356b02a60a96149990ad5
+size 170

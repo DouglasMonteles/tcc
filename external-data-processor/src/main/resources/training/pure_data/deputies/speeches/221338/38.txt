@@ -1,1 +1,3 @@
-Defesa de exclusão do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, do teto de gastos públicos preconizado no bojo do Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022, (novo arcabouço fiscal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:560b7dea05e071c06cd95226b7354a65831603562dfeb929d72fb514c9ccd619
+size 524

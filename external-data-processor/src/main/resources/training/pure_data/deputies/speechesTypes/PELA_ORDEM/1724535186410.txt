@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à extensão do  Regime Diferenciado de Contratações Públicas - RDC  para as obras do Programa de Aceleração do Crescimento - PAC, inserida no Projeto de Lei de Conversão da Medida Provisória 559 de 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ad70830051d16360b37e52b66535efce0fc61989775ed08a2c5e5e4792c8fd8
+size 247

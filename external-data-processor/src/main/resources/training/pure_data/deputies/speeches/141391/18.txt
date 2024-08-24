@@ -1,1 +1,3 @@
-Aguardo da manifestação da Liderança do Governo sobre a garantia de que componentes eletrônicos não serão inseridos no contexto do Projeto de Lei  2.105 de 2007 (Institui o Regime de Tributação Unificada - RTU - na importação por via terrestre de mercadorias procedentes do Paraguai - Projeto do Sacoleiro).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e55ecd743d9e3f3f51d4d2fae19ef6c97172a53ef2d48a3d83c8ac9a924ff5e
+size 317

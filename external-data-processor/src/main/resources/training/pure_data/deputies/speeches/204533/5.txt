@@ -1,1 +1,3 @@
-Indignação com o descaso do Ministro da Economia, Paulo Guedes, com os professores e a área da educação. Questionamento sobre a existência de projeto de desenvolvimento para o País no Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0281fe1f7d4a9c059625f5a5880e687d07b3789d5b8f12c1ad8b9a2b14eedce6
+size 214

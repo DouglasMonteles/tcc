@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Saudações às mulheres brasileiras. Solicitação à Conferência Nacional dos Bispos do Brasil - CNBB, de debate da Campanha da Fraternidade de 2012 junto à Frente Parlamentar de Apoio às Santas Casas de Misericórdia, Hospitais e Entidades Filantrópicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83bb0ac1852ae09bdf126d11614303ffa24753baebf2e6ebec858c8c1d58aab6
+size 304

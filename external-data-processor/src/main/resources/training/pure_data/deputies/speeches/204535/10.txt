@@ -1,1 +1,3 @@
-Divulgação de pesquisa sobre a reforma previdenciária, pela Associação Nacional dos Auditores Fiscais da Receita Federal do Brasil - ANFIP e pela Federação Nacional do Fisco Estadual e Distrital - FENAFISCO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc1bb6a3a002a4fdc1082116c09d96789877745a6162ec4463c6536f1e7a0f20
+size 214

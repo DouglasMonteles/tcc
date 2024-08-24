@@ -1,1 +1,3 @@
-Realização de ato público em defesa da PETROBRAS, no Rio de Janeiro, Estado do Rio de Janeiro. Lançamento da Campanha Parar a PETROBRAS é parar o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07eb7d5cce04f83233029cde3872c2bb09334e01b47cbd924359798f28c03525
+size 158

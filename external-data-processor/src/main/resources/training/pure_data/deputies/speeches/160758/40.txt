@@ -1,1 +1,3 @@
-Oportunidade histórica de votação pela Casa do novo Código Florestal Brasileiro. Conveniência de comparecimento dos Deputados ao plenário para a votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d56e1e063bf708ec05dcdae299f4929407660fb99b80def4c99251223dcd483
+size 173

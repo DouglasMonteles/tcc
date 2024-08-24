@@ -1,1 +1,3 @@
-Congratulações ao Presidente do Congresso Nacional, Eunício Oliveira, e ao Presidente da Casa, Rodrigo Maia, pela derrubada de veto presidencial aposto a dispositivo constante em projeto de lei complementar sobre a distribuição aos Municípios brasileiros de percentual do Imposto sobre Serviços de Qualquer Natureza - ISS incidente sobre operações com cartões de crédito, planos de saúde e leasing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca3bcd4fb0dd906b93807325e9ea5df13154f49d2400720ecff5fe3f523abf57
+size 410

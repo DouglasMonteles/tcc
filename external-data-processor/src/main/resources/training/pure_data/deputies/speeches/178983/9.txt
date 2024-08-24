@@ -1,1 +1,3 @@
-Expectativa de recepção de comitiva de Prefeitos e Vereadores do Alto Tietê, Estado de São Paulo, com vistas à participação em audiências nos Ministérios dos Transportes e do Trabalho e Previdência Social sobre demandas da população da região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef66cfb82938b18719a03cd5c538da9c25bd26855634bc65b9d59720e343d22b
+size 256

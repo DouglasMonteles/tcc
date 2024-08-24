@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 1.266, de 2023, sobre a dilação do prazo estabelecido para o recadastramento de armas de fogo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d566d224af6a8eb7d83df25bdde279c1d7cc1814e9cfd6b0991bafe21a838ec7
+size 133

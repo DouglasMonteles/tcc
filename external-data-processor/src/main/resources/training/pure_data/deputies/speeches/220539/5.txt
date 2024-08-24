@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios sob o tema Pacto Federativo: um olhar para o futuro. Congratulações aos Prefeitos, Vice-Prefeitos e Vereadores do Estado de Roraima participantes no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccb202dfd1f86a10c57fca092354641a66df64e438413297e3f1e3ea6a1abba7
+size 224

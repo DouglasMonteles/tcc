@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Líder Comunitário. Homenagem ao líder comunitário da Favela da Rocinha no Rio de Janeiro, William de Oliveira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06e0c818832f706294e4cf40feeba763dad303b2bdbd08f62cc9fc475f40d110
+size 144

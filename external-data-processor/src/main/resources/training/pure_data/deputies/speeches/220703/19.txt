@@ -1,1 +1,3 @@
-O Deputado registrou a presença na Casa de Vice-Prefeitos Municipais do Estado da Bahia para entrega ao orador de proposta de emenda à Constituição (PEC) que visa dispor sobre atribuições e a possibilidade de acúmulo de função pública por ocupante do cargo. O orador pediu aos Parlamentares apoio à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:219b7e1b31652412e9358b34eecb7ff80135b7da9e134d8be5fce0cfcb271eff
+size 319

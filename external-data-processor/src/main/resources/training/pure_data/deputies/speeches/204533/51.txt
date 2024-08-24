@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de dispensa do interstício de duas sessões para apreciação, em primeiro turno, da Proposta de Emenda à Constituição nº 23, de 2021, sobre o pagamento parcelado de precatórios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc931dd2f5acb2bd30b42a40e7697756c93a4960bf0e058fdd7607200b9bc82
+size 237

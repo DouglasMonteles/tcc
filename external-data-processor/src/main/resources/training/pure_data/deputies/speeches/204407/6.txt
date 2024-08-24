@@ -1,1 +1,3 @@
-Razões da obstrução das votações pelo PSOL. Apresentação pelo partido de requerimento de convocação do Ministro-Chefe da Secretaria-Geral da Presidência da República, Gustavo Bebianno Rocha, para esclarecimento à Casa sobre a suspeita de ocorrência de fraude em torno do Fundo Partidário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91c81b165599be4c7bc2a2fa46e371de548cde729acf6eddfb0711cae4336f42
+size 302

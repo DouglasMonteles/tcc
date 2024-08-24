@@ -1,1 +1,3 @@
-Causas do atraso na distribuição de milho aos produtores rurais de Municípios do interior do Estado da Bahia pela Companhia Nacional de Abastecimento - CONAB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:465eca42e056a5b7169ebcc20c5eaa387045a7d57334b3f32355dfdbc53fdda6
+size 161

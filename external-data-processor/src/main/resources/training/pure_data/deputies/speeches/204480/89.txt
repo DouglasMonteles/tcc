@@ -1,1 +1,3 @@
-Pedido à Presidência para não votação em globo de requerimentos de destaques procedimentais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1e37003219d4184280d110ce59e13296c55cd044d9a644d194bad0ab548a5d4
+size 97

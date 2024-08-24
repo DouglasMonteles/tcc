@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Água. Defesa de preservação do meio ambiente no processo de criação do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:767abaf6df9f891c2dcc4ec62ab09239dfbb70843fd5065996c9cf29c55fd3c6
+size 139

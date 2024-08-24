@@ -1,1 +1,3 @@
-Conclamação aos Parlamentares para rejeição do Veto Parcial nº 28, de 2021, aposto ao Projeto de Lei de Conversão nº 4, de 2021, oriundo da Medida Provisória nº 1.016, de 2020, a respeito da renegociação extraordinária de débitos no âmbito de fundos constitucionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1e7337d797758f164dd8a8f52b41f203621bface5939039e2acb3b8278cc1e8
+size 280

@@ -1,1 +1,3 @@
-Eleição do orador para a Presidência da Comissão de Turismo e Desporto. Diretrizes da atuação do órgão. Importância do desenvolvimento do setor turístico nacional. Contribuição do esporte para a retirada de jovens da criminalidade. Congratulação ao Presidente Marco Maia pelo prestígio às Comissões Permanentes da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3dd699da49a99d38c05b8d9cd317f0644da47995f8918a3d6474fa780f6cf00
+size 336

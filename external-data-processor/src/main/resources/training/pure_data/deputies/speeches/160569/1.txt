@@ -1,1 +1,3 @@
-Encaminhamento de indicações ao Ministério da Educação para criação da Universidade Federal do Sudoeste e da Universidade Federal da Serra Geral sediadas, respectivamente, nos Municípios de Vitória da Conquista e Caetité/Guanambi, Estado da Bahia. Transcurso do 31º aniversário de fundação do Partido dos Trabalhadores. Saudações aos militantes petistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35ea8afdea0fe363ebec687d2cf26062b8722869a12c7e7dfbc3bc6b7e0a96b7
+size 370

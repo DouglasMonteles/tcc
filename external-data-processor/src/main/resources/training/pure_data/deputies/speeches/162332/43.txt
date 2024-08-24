@@ -1,1 +1,3 @@
-Transcurso do 104º aniversário da imigração japonesa ao Brasil. Promoção da Semana Cultural do Japão na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8e24d39adf729759f869f01c00aedb1afbf1df3661a9ec3a8619c28165687bb
+size 116

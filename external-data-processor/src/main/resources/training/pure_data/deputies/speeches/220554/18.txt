@@ -1,1 +1,3 @@
-Transcurso dos 100 primeiros dias do Governo Luiz Inácio Lula da Silva. Reconstrução do País pelo governo petista. Pedido ao Governador do Estado do Rio Grande do Sul, Eduardo Leite, de reexame da privatização da Companhia Riograndense de Saneamento - CORSAN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a81506db9a3f2340080e25a10c148af19caea724dd84e193f57c90ca5de59920
+size 265

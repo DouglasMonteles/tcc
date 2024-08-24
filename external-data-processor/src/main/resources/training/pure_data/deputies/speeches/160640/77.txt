@@ -1,1 +1,3 @@
-Preocupação com a política sobre drogas no Brasil. Solicitação, pela Confederação Nacional das Comunidades Terapêuticas, de intercessão do orador para a realização de audiência com o Presidente da República interino, Michel Temer, sobre o assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00ed03c5f62f7c36ae7e9e0cbf4e71074af0ad491003ea6e064cd6aeb1bd0059
+size 260

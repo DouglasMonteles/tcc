@@ -1,1 +1,3 @@
-Empenho do coordenador da bancada federal nordestina, Deputado José Guimarães, na adoção de medidas emergenciais a favor dos flagelados pela seca e na renegociação das dívidas de pequenos e médios produtores junto ao sistema bancário. Anúncio de reunião da Agência de Desenvolvimento Sustentável do Seridó - ADESE para discussão de assuntos de interesse do Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:240c752d9c844a014f1c393cdaa1034e9d5c7ee205301757ff63bd46f423d7a6
+size 402

@@ -1,1 +1,3 @@
-Carta do Conselho Indígena de Roraima sobre  a ocorrência de conflito na reserva indígena Raposa Serra do Sol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afe029c54c69278e3533bd2d2235136db5e140d9ac245ee5bc4c2d0229cec90c
+size 113

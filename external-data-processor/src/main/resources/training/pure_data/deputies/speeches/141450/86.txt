@@ -1,1 +1,3 @@
-Decepção do orador quanto às exigências da Companhia de Concessão Rodoviária Juiz de Fora-Rio - CONCER para as obras de duplicação de trecho rodoviário na serra de Petrópolis e de ligação entre os Bairros de Bingen e Quitandinha. Solicitação ao Tribunal de Contas da União de inspeção de contrato da CONCER com Agência Nacional de Transportes Terrestres - ANTT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36e3b91bcae3d6f1a332769a7c7cc22943fe8f69c96e576c73132f8c8bd8fd93
+size 379

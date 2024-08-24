@@ -1,1 +1,3 @@
-Anúncio da entrega, pelo Ministério do Desenvolvimento Agrário, de motoniveladoras a Municípios alagoanos. Sucesso do programa de aquisição de equipamentos do Governo Federal. Escalada da violência no Estado de Alagoas. Ineficiência da política de segurança pública do Governo Teotonio Vilela Filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e045d873ab8a3ab2345b9d5f153da63f91d8fd4d20d89db31b0f53be941f1ecd
+size 310

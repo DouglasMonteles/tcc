@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de adiamento, por duas sessões, da discussão da Medida Provisória 402 de 2007 (Abre crédito extraordinário em favor de diversos órgãos do Poder Executivo, para os fins que especifica). Ponderações sobre a inconstitucionalidade da utilização de crédito extraordinário, via Medida Provisória,  para suplementação de recursos orçamentários. Crítica ao uso abusivo e indevido do instituto da Medida Provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f13b6390fbc5e5ce285c168073569120ea615775562b3b4ba66d0ca06731c8d4
+size 470

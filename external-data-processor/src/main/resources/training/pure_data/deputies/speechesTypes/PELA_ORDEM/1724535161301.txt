@@ -1,1 +1,3 @@
-Transcurso do Dia do Professor. Realização de audiência pública na Comissão de Meio Ambiente e Desenvolvimento Sustentável da Casa sobre a adoção de práticas sustentáveis, sobretudo de alimentação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:287ba3d0fb5ce04ca8fa738a40f02592968f447ca7f67343046e1ffbc563e5fb
+size 209

@@ -1,1 +1,3 @@
-Protesto contra a realização, pela Agência Nacional de Energia Elétrica - ANEEL, de consulta pública sobre a taxação da energia solar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b187fd02bd3e010e51c978f4fb69b1a4244e4c1252e9a0c8ac78a03199fca365
+size 141

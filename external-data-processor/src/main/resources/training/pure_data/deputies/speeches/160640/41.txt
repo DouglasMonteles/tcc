@@ -1,1 +1,3 @@
-Apresentação de projeto de decreto legislativo que susta a Resolução nº 12, de 2015, do Conselho Nacional de Combate à Discriminação e Promoção dos Direitos de Lésbicas, Gays, Bissexuais, Travestis e Transexuais da Secretaria de Direitos Humanos da Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33f73cf9cc31b043e99494585101ada21824d9d67e73d80d57275ae123590520
+size 287

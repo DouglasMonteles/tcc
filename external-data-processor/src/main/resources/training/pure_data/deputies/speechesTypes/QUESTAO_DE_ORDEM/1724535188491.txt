@@ -1,1 +1,3 @@
-Questão de ordem sobre declaração de nulidade da aprovação, pela CPI da FUNAI e do INCRA, dos Requerimentos nºs 292, 282 e 284, de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17e6536b83909fee658ee36238ef1819c052e34f1ee29d52904d802d9314de1c
+size 142

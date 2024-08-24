@@ -1,1 +1,3 @@
-Obstrução das votações em face do corte de bolsas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES, do Ministério da Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:930d9885564d3ea9c5035a2d3b74bc7defcc47146f785bab327ff9d28fcb1a9d
+size 159

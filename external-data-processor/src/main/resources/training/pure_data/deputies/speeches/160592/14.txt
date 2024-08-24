@@ -1,1 +1,3 @@
-Realização, pela Frente Parlamentar Mista para o Desenvolvimento da Indústria Têxtil e de Confecção, de audiência pública destinada ao debate da coibição das importações ilegais e da desoneração tributária do setor, em Curitiba, Estado do Paraná. Apoio à ampliação da faixa de enquadramento no imposto Simples Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:310e616ab84f97466b3a027ecd3303ce3d40cefe8c481766d1deb1f1688ab845
+size 338

@@ -1,1 +1,3 @@
-Repúdio à Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b9bd0344d21d49a2f613cc1141d80a272c06296837efbc76b3fc5e2c8462863
+size 108

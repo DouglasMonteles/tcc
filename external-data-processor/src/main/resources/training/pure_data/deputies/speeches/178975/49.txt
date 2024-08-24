@@ -1,1 +1,3 @@
-Agradecimentos aos Deputados do PMDB pela recondução do orador à Liderança do partido. Confiança na retomada do crescimento econômico pelo Presidente da República, Michel Temer. Importância de proposição aprovada pela Câmara dos Deputados relativa à renegociação de dívidas dos Estados. Votos de feliz Natal e próspero Ano Novo ao povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2136c20f965cd2eb38894d1be602a4a0de650e84e7702a860d143dc4b8de0fb2
+size 363

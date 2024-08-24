@@ -1,1 +1,3 @@
-Desrespeito da Presidenta Dilma Rousseff, dos Líderes do PT e do Governo com o PMDB, especialmente com o Líder Eduardo Cunha e com o Presidente Henrique Eduardo Alves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:529e10c9e60683cc89c577bea6d4e6ff34252e711abe8b688f446dca74464413
+size 169

@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo  à Emenda 269, destacada, ao Substitutivo ao Projeto de Lei 5.417 de 2009 (Cria o Fundo Soberano Social do Brasil - FSSB e dispõe sobre sua estrutura, fontes de recursos e dá outras providências), apenso o PL 5.940 de 2009 (Cria o Fundo Social - FS, e dá outras providências), que inclue a área  da segurança pública  como beneficiária do Fundo Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e42ef06ccfed9e70d2d815db190ca985793b077442425673271486334fbd3903
+size 399

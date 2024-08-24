@@ -1,1 +1,3 @@
-Elevação dos índices de homicídio feminino no Brasil, segundo o Mapa da Violência de 2012. Criação nos Estados das chamadas Casas da Mulher Brasileira, destinadas ao amparo das vítimas da violência. Resultado da auditoria realizada pelo Tribunal de Contas da União - TCU a respeito da implementação do Pacto Nacional pelo Enfrentamento da Violência contra a Mulher. Implantação de políticas públicas para a garantia da plena eficácia da Lei Maria da Penha, coibitiva da violência doméstica contra as mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a085f29a7ced1807592ac7d342db82913ef53c0cac1483825e0e0bc2c7bc8eb6
+size 529

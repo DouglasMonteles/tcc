@@ -1,1 +1,3 @@
-A Deputada encaminhou a votação do requerimento de tramitação em regime de urgência do Projeto de Lei nº 4.943, de 2023, que institui o Dia Nacional do Rosário da Virgem Maria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:368a8e51e88bf340c41ce6ed1f8b65ad12cdf7b672164b7abc5094e4eca6bf61
+size 183

@@ -1,1 +1,3 @@
-Apoio à aprovação da Proposta de Emenda à Constituição nº 300, de 2008, sobre o estabelecimento de piso salarial de policiais e bombeiros militares. Urgente inclusão na pauta de proposta de criação de varas de justiça no Estado do Piauí. Necessidade de decisão da Presidência a respeito da questão de ordem sobre a redação final do projeto de lei referente aos critérios para distribuição de royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d7a1f3a1f3320646dddd0822bbb34cdb569200ac53685b5b384621b97d9eaba
+size 435

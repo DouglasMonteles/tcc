@@ -1,1 +1,3 @@
-Encaminhamento da votação do  § 4º  do art. 12 da  Lei 6.766 de 2010,  introduzido  pelo art. 28 do   Projeto de Lei de Conversão da Medida Provisória 547 de 2011 (Altera a Lei 6.766 de 1979; a Lei 10.257 de 2001; e a Lei 12.340 de 2010, para criar o cadastro nacional de municípios com áreas propícias à ocorrência de escorregamentos de grande impacto ou processos geológicos correlatos),  que trata da  exigência da identificação das áreas de interesse social na averbação da matrícula dos lotes ou registro de parcelamento do solo nos municípios inseridos no cadastro nacional de  municípios com áreas suscetíveis à ocorrência de desastres naturais, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc873cf9fd8a0a8327747ccb485e7c2426835db6edc42b219d652612d69624bb
+size 692

@@ -1,1 +1,3 @@
-Acesso da população do Estado do Ceará ao Programa Brasil Sorridente, lançado pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ab22fb82cdc3ca6b655006fce05a68db162c1e163a6ee5df1e0643a12d115b9
+size 103

@@ -1,1 +1,3 @@
-Apoio do orador à aprovação da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares. Atuação do orador como Sub-Relator da CPI da PETROBRAS na Câmara dos Deputados. Contrariedade com não prorrogação do prazo da CPI ante a necessidade de continuação das investigações. Dificuldade do orador para agendamento de reunião com a Diretoria da estatal com vistas à busca de esclarecimentos sobre desinvestimentos anunciados. Indignação com a falta de transparência na gestão dos recursos da PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a6d35485706ae4e272cb135ef7b3cce5666567e2096b667fa7e1a99a7a34484
+size 594

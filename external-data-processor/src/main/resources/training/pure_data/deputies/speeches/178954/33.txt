@@ -1,1 +1,3 @@
-Protesto contra a emissão do Decreto nº 9.004, de 2017, que transfere a Secretaria de Aquicultura e Pesca, do Ministério da Agricultura, Pecuária e Abastecimento, e a Secretaria Especial da Micro e Pequena Empresa, da Secretaria de Governo da Presidência da República, para o Ministério da Indústria, Comércio Exterior e Serviços. Pedido ao Governo Federal de reavaliação da medida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31d5defaa1da23e061c75f0e2b0e3a6604f5dadc8cac3a09d3e06ab0ae6cf2f7
+size 394

@@ -1,1 +1,3 @@
-Anúncio da visita do orador a Municípios situados na região do Cone Sul do Estado de Rondônia. Apoio do Parlamentar à demandas das populações de Porto Velho e Guajará-Mirim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4792ced6da0b3c92b88fcccc574696a4aae00f3f8599be7de95699787d4ddb0e
+size 181

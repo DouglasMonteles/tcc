@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Deputado Federal Artenir Werner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d2ab6450f5bd372c02a4ca9e848b2354b2265d0e88144f177d6ea25aeea5b0b
+size 57

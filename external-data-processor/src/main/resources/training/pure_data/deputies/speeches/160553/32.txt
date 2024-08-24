@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Combate à Tuberculose. Realização, pela Comissão de Seguridade Social e Família, de audiência pública destinada ao debate do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75d32baef55ee9f587066b9616ca55d425c9434e856aa786e3c2de0d219ee42e
+size 166

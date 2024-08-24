@@ -1,1 +1,3 @@
-Consternação com o falecimento do Pastor Sebastião Ferreira Pinto, da Convenção Evangélica das Assembleias de Deus do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:483b841c59fcb5e48574f2c683349a8a992bdc338b382721aced7cf230321515
+size 149

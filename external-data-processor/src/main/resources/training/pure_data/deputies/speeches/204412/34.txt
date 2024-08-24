@@ -1,1 +1,3 @@
-Inauguração do Hospital Estadual da Criança e do Adolescente, em Goiânia, Estado de Goiás. Transcurso do Dia Nacional da Criança Traqueostomizada. Iluminação das instalações do Congresso Nacional na cor roxa, em homenagem às crianças traqueostomizadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99b0410733b4171bb6942d8b3cbf2c4e9b64ef246af09a4cac6a94cfd9cd2e93
+size 264

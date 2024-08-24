@@ -1,1 +1,3 @@
-Protesto contra a suspensão, pela Caixa Econômica Federal, da execução do Programa Minha Casa, Minha Vida na região do Entorno do Distrito Federal e na Região Metropolitana de Goiânia, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd2944a8a2576accac15420bb066485d9bf3f1770c2529e1c18d8f70e6e52bd4
+size 209

@@ -1,1 +1,3 @@
-Urgência na apreciação da proposição sobre a regulamentação das centrais sindicais no País. Proposta de acordo para votação imediata das medidas provisórias constantes da Ordem do Dia para desobstrução da pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dccee8225b86e991991cfc674faf020c3906c9cc3811848ef11ce322439be6cc
+size 224

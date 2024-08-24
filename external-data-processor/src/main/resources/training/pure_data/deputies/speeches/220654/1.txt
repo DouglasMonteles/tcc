@@ -1,1 +1,3 @@
-Defesa de convocação do Ministro das Comunicações, Juscelino Filho, pela Comissão de Fiscalização e Controle, para esclarecimento de denúncia de malversação de recursos públicos. Encaminhamento, à Procuradoria-Geral da República, de representação contra o Ministro das Comunicações por prática de crime de responsabilidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f41967b5cd4ccd0c52301b4a6008de58e81f4e81574c83643be155417dbcf6fb
+size 341

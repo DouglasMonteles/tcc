@@ -1,1 +1,3 @@
-Posicionamento do orador sobre a reforma da Previdência Social. Defesa da implantação do regime de capitalização previdenciária com a contribuição empregado/patrão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63ef28b78460531a7f56d2dcd6667a8b70235cd4156eca76a533b9affc387c6b
+size 173

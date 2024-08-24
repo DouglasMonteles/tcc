@@ -1,1 +1,3 @@
-Apoio à Carta à Nação subscrita pelo Conselho Nacional de Secretários de Saúde - CONASS sobre manifestação de discordância com o contingenciamento de recursos da saúde pública. Pauta de audiência do orador com o Ministro da Saúde, Arthur Chioro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0137bb32a8f3a09a81d305d1bed484267ef3e5e6cf8e893507d90294d0602516
+size 258

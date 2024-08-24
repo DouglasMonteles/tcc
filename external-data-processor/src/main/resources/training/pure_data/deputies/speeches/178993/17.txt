@@ -1,1 +1,3 @@
-Apoio do orador à Defensoria Pública do Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa409682a7e89fc427dccafeba62aad1d905f39036ab5ad4e68ad302a2e24493
+size 62

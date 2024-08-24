@@ -1,1 +1,3 @@
-Tragédia provocada pelo desabamento de prédios na comunidade de Muzema, Município do Rio de Janeiro, Estado do Rio de Janeiro. Responsabilidade da Juíza Cristiane Teles Moura Marques pelo ocorrido. Domínio exercido por grupos paramilitares em comunidades fluminenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c0da02152ff049f446036ff44f954103cf75f25429bd4ee5807fed15c46dc5e
+size 272

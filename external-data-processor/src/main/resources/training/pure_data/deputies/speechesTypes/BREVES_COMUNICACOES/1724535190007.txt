@@ -1,1 +1,3 @@
-Posicionamento contrário ao Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022 (novo arcabouço fiscal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:896fef22527e70c0dd52ccbb1888deb0df663d291d8bbcf95d44415982a5c6ea
+size 355

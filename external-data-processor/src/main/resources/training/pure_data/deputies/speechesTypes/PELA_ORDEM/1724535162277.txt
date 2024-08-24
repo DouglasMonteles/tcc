@@ -1,1 +1,3 @@
-Encaminhamento pelo PT de Representação ao Conselho de Ética e Decoro Parlamentar contra Parlamentar do PL, por ofensa verbal à Deputada Dandara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac313d9211cd337c419f0c3625ab558547f54bb433b265609c8fb4da99b982a1
+size 149

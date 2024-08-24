@@ -1,1 +1,3 @@
-Aprovação pela Casa do Projeto de Lei nº 2.563, de 2021, sobre a instituição do mês de conscientização e promoção da saúde bucal. Reajuste do piso salarial de odontólogos e médicos. Leniência da Polícia Federal, da Justiça Eleitoral, do Supremo Tribunal Federal e do Superior Tribunal de Justiça com a corrupção no Estado de Alagoas. Questionamento sobre a visita do Ministro da Justiça e Segurança Pública, Flávio Dino, sem escolta policial, ao Complexo da Maré, reduto no narcotráfico, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:283d594d05424b7523c9f438a0d1d153173847becde75e49c6f15eaa341e68a8
+size 557

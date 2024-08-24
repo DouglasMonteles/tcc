@@ -1,1 +1,3 @@
-Assassinato do Sacerdote Kazimierz Wojno, conhecido como Padre Casemiro, da Igreja Nossa Senhora da Saúde, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:306bfafd09d7ad25c3ac6861c45286bc170e3e5d6be5ed2a5e03db11d4f9db4a
+size 139

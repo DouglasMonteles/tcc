@@ -1,1 +1,3 @@
-Desaquecimento da economia brasileira. Urgente adoção de políticas públicas para a retomada do desenvolvimento e da competitividade da indústria nacional. Considerações críticas à política de assistencialismo do Governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1bf0bfd739695edea9ccd36ffd9fd6c7e4fa97a4b23b05351e015a7bf229d3b
+size 238

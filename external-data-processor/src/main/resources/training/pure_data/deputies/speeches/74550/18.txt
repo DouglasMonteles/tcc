@@ -1,1 +1,3 @@
-Parecer, pela Comissão Mista, à Medida Provisória 451 de 2008 (Altera a legislação tributária federal, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2a765ffc424f55b98a2da7a5cf489b9cf66407073a9462528a8261e364c0ea3
+size 137

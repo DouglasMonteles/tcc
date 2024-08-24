@@ -1,1 +1,3 @@
-Desabamento de ponte por falta de conservação no Município de Jaguari, Estado do Rio Grande do Sul. Protesto contra a suspensão de obras na BR-290 entre os Municípios de Eldorado do Sul e Pantano Grande, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34664845e831bfe9abf14bb52fcc1aac43b0b9456d10e30e11cc5b52a07e86c3
+size 237

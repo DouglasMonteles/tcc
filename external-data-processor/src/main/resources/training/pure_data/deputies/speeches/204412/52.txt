@@ -1,1 +1,3 @@
-Reconhecimento dos trabalhos desenvolvidos pelos profissionais da enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7853ab64b222984e91559bcb34afeedcd277340dfc27df4ee24db4d06956f66b
+size 77

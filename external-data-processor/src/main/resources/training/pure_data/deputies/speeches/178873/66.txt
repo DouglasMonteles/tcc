@@ -1,1 +1,3 @@
-Orientação de bancada para votação do Projeto de Lei nº 7..119-B, de 2017, acerca da nova redação do art. 1.520 da Lei nº 10.406, de 10 de janeiro de 2002, com vista à supressão das exceções legais ao casamento infantil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:111ff8ae89a83daf28d5d1cf31ecb43004592a173e7c8c6531fff5dd150fde77
+size 232

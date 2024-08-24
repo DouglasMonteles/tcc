@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Segurança Pública e Combate ao Crime Organizado, de projeto de lei sobre a instituição do Programa Bolsa-Formação, destinado aos integrantes de carreiras policiais da União, dos Estados e do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84b2ce0912b9f44389672ef52183753d87f259de455d21a538c6059d186ff319
+size 246

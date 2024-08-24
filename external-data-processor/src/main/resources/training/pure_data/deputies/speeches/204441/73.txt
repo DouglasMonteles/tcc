@@ -1,1 +1,3 @@
-Repúdio aos patrocinadores da discórdia entre o Presidente Jair Bolsonaro e o Vice-Presidente Hamilton Mourão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa54913890d72715b2595fbc184b528236e120e7bf75b64a200bb6323bd02ebe
+size 113

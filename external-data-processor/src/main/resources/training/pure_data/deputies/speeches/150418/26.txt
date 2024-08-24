@@ -1,1 +1,3 @@
-Reeleição do orador. Relato da campanha eleitoral do Parlamentar. Agradecimento aos eleitores do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bdeb5d9eb082d409862c3d2cdb6930c7ee96218d6e3946b69b51058a14e9787
+size 115

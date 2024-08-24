@@ -1,1 +1,3 @@
-Retomada do Estado Democrático de Direito e do desenvolvimento econômico brasileiro. Fortalecimento de instituições públicas e resgate da democracia brasileira. Autonomia do Ministério Público Federal, da Polícia Federal e da Polícia Rodoviária Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3716a9abefe3e80943e6e11678ff310128f7224625d9b3de0452cd59b676e3a
+size 263

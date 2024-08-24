@@ -1,1 +1,3 @@
-Contrariedade à prorrogação dos contratos de concessão para administração de rodovias federais no Estado do Paraná. Ausência de previsão de obras de melhoria nas estradas no atual contrato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18ca656cea2427fb78975365eaa8507a32b513eed6448b62668144b835eb8b53
+size 198

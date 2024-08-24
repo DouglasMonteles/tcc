@@ -1,1 +1,3 @@
-Vinculação entre a reforma previdenciária e o fortalecimento dos Municípios brasileiros. Defesa de realização da reforma tributária e de revisão do pacto federativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31f856cb4a237614b35693fac9d264bdcf29e0b3f3952fdc88cdf40b13305875
+size 173

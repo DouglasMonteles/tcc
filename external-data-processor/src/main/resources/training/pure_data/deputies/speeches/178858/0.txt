@@ -1,1 +1,3 @@
-Defesa pelo PP dos interesses dos pescadores. Apoio à orientação do Governo diante de anúncio de envio ao Congresso Nacional de medida provisória relativa a direitos da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a90894571ed531b2de1af4cf6dc9145d0b83c56b53be13d092a0887c5037b3a
+size 184

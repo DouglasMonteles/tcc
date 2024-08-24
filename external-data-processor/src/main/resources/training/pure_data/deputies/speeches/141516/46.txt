@@ -1,1 +1,3 @@
-Não realização pelo Governo Federal de investimentos no Estado de  Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f096fbd6cda5e1a0e5c2ad6239e0f579cfae6290f89d3e422c7ca8871994d494
+size 83

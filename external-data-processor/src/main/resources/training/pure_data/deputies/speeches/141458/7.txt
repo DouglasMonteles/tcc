@@ -1,1 +1,3 @@
-Congratulação ao Deputado Inocêncio Oliveira por sua eleição para a 2ª Secretaria da Mesa Diretora. Saudação ao novo Presidente da Casa, Deputado Michel Temer. Parabenização ao Governador Jaques Wagner pela reforma do Estádio de Pituaçu, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9f563f37c230334101ed6af79df56661a2654c8fbaa1aa0276905c51ef08c5e
+size 266

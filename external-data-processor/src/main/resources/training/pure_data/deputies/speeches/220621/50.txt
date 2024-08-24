@@ -1,1 +1,3 @@
-O Deputado expressou sua preocupação com a redução nos repasses do Fundo de Participação dos Municípios - FPM e criticou os ministros do STF por considerar a legalização do aborto como uma invasão de competência do Legislativo. Enfatizou a importância de proteger a vida e defendeu a realização de um plebiscito para que o povo brasileiro possa decidir sobre temas polêmicos, como o aborto e a legalização das drogas. Encorajou os cidadãos a se manifestarem e a se pronunciarem nas redes sociais em defesa da vida e da competência do Congresso Nacional para legislar sobre essas questões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33df1ddeda343bf81991554499f1f0a0660addb10f4010d3759b8f1b3822be24
+size 608

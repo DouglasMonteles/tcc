@@ -1,1 +1,3 @@
-Relançamento do Programa Bolsa Família pelo Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00881a3b437f2ea7aceccfc8057e2fa9a696e7257f79b07902ce24e83d2919af
+size 81

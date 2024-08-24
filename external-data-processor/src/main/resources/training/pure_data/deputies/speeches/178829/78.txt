@@ -1,1 +1,3 @@
-Parcialidade do jornal Folha de S.Paulo na veiculação de matéria sobre a investigação, pela Polícia Militar do Estado de São Paulo, da chacina ocorrida no Município de Osasco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfe4ef73949aeb4d477c3e73ea498b4e395610a755ae06cdfcedba39c06ddb49
+size 183

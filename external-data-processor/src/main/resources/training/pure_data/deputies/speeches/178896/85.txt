@@ -1,1 +1,3 @@
-Concordância com a votação do requerimento de destaque para votação em separado da expressão e a Procuradoria-Geral da União do caput do art. 1º da emenda aglutinativa e, em decorrência, do § 7º do art. 1º, e da expressão Advocacia-Geral da União, no art. 15.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15b1992480db2df40ce5fa0d0773081345315b9392f2470ea7527c0b36d9c0a5
+size 273

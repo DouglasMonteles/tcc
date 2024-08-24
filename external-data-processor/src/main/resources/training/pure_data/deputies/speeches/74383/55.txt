@@ -1,1 +1,3 @@
-Exaltação do ecossistema e da biodiversidade da Mata Atlântica. Importância do papel do Centro Integrado para a Conservação da Biodiversidade da Mata Atlântica - In Bio Veritas, em Curitiba, Estado do Paraná, em ações de conservação da Mata Atlântica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ad0dc814f7d5c97f33012a9fc6c5fd15a14e35b3dd7250724ff5dfe4dcae6e0
+size 264

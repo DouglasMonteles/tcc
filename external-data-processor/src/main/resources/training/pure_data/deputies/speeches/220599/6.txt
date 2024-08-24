@@ -1,1 +1,3 @@
-Sessão Solene do Congresso Nacional destinada a comemorar os 40 anos de fundação da Igreja Universal do Reino de Deus
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfe6e2a9daf4307c36bf7bdbba000dcd1bd9c323fdee0df6b0fafe576aff8efd
+size 120

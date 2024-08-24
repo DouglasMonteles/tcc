@@ -1,1 +1,3 @@
-Ciência ao Plenário quanto ao recebimento do Aviso nº 361, da Casa Civil da Presidência da República, com solicitação de cancelamento do pedido de urgência para apreciação do Projeto de Lei nº 5.124, de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa5b7f00de60839c24c2c2376670a791c1ee87755060e463b01cf57716944cbf
+size 219

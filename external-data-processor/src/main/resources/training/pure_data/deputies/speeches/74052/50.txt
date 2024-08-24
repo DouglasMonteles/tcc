@@ -1,1 +1,3 @@
-Falecimento do ex-radialista e ex-Deputado Estadual de Sergipe, Reinaldo Moura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc60a837c86391f7fc8100f9589fb6e907a61d54079b8eca3e6a9c1a442528d1
+size 79

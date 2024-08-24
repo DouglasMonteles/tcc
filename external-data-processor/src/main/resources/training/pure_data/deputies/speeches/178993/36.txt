@@ -1,1 +1,3 @@
-Transcurso do 26º aniversário de fundação de Palmas, Estado de Tocantins. Atuação do orador em prol da realização de obras de infraestrutura na capital tocantinense no exercício do cargo de Governador do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e959300cfd8e992afcd8fb975d03be46e4ff5615202c4fef79a3d95ebb03b064
+size 220

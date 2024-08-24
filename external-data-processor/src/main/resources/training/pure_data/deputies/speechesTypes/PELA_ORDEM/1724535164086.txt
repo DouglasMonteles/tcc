@@ -1,1 +1,3 @@
-Referência a alerta feito pelo orador quando da votação da Emenda  2, do Senado, ao Projeto de Lei de Conversão 28 de 2008 (Medida Provisória 441 de 2008), que trata do reenquadramento dos servidores da Comissão Executiva do Plano da Lavoura Cacaueira - CEPLAC, originária da Emenda 576 do orador, sobre a inexistência do anexo citado, bem como ao  encaminhamento ao Relator do anexo contendo a tabela  para que fosse feita a devida correção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:314417acc6e53d79cdf1da53bca4c688774403f8b9b45f176fcf1bae3447219f
+size 452

@@ -1,1 +1,3 @@
-Apoio do partido NOVO à reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:397d663c702e7907c3db892b688c5f121662689e17e74db7db5376a4223b8c76
+size 56

@@ -1,1 +1,3 @@
-Ação de representação disciplinar impetrada pela Frente Parlamentar Evangélica no Conselho Nacional de Justiça contra a Vice-Presidente do Tribunal Regional Eleitoral do Estado de Alagoas, Desembargadora Elizabeth Carvalho do Nascimento, por declarações injuriosas, em prolação de voto, às igrejas evangélicas no Brasil, em julgamento do Deputado João Henrique Caldas por crime eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cdb3764f1fbf479efe92c4feb775892e87ed837ea62b4245ab5568d0586d1f8
+size 401

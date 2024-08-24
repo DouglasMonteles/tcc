@@ -1,1 +1,3 @@
-Avaliação do Programa Espacial Brasileiro, ao ensejo do transcurso dos 6 anos do acidente ocorrido com o Veículo Lançador de Satélite - VLS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:477c8052f2e75529b7d94e109385065e79f784f44af993f3db756d7f786b8178
+size 145

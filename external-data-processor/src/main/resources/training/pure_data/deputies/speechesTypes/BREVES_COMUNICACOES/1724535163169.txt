@@ -1,1 +1,3 @@
-Resgate de trabalhadores em situação análoga à escravidão em vinícolas no Estado do Rio Grande do Sul. Transformação de sessão plenária da Casa em Comissão Geral para debate do cumprimento de direitos trabalhistas no País. Apresentação do Projeto de Lei nº 413, de 2023, sobre a criação de Selo e do Programa Nacional Trabalho Igual, Salário Igual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a33026aa82cc1c655c85f404ce3d334677f2a7939153b32c75b984947181e67
+size 366

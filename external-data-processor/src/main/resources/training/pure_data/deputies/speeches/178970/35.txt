@@ -1,1 +1,3 @@
-Participação da Ministra do Desenvolvimento Social e Combate à Fome, Tereza Campello, no lançamento do Programa de Mecanização Agrícola 2015, no Município de Nossa Senhora da Glória, Estado de Sergipe. Distribuição de sementes a agricultores familiares pelo Governo do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f950b43f0656af4b0843ec1f92e3f88489f0754ad638c6ab411ac6d26a2d40f
+size 287

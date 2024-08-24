@@ -1,1 +1,3 @@
-Defesa da aprovação da Proposta de Emenda à Constituição nº 19, de 2011, sobre a criação da Zona Franca do Semiárido Nordestino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffa4f7bfc761ffb6fcad6448a5a34bf7c1607c788219a07848afd2d5f830c3f8
+size 137

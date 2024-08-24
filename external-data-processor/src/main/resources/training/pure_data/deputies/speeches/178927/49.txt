@@ -1,1 +1,3 @@
-Aprovação pela Comissão de Viação e Transportes de requerimento de realização de audiência pública no Município de Ponta Grossa, Estado do Paraná, sobre a situação da BR-373. Apoio à causa dos permissionários lotéricos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:750f905969220715e3f98f0eb89f12672c53d60cb43e495356ec4eac24a692f1
+size 235

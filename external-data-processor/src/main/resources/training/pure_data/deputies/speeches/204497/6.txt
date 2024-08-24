@@ -1,1 +1,3 @@
-Indignação do orador com a cobrança  de tarifas aéreas abusivas no Brasil, em prejuízo ao desenvolvimento da economia e do turismo. Apresentação dos Projetos de Lei de nºs 607 e 1.773, de 2019, respectivamente, sobre a cobrança de marcação de assentos e bagagens pelas companhias aéreas e sobre o disciplinamento do exercício do direito de arrependimento pelo consumidor pela compra de passagens aéreas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba1239681a824d68b47889454ac06610baa805d70f26453704efb65259c1c3ca
+size 417

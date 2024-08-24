@@ -1,1 +1,3 @@
-O Deputado expressou sua surpresa e preocupação com a atuação recente do Supremo Tribunal Federal. Mencionou casos passados de denúncias e prisões de políticos e empresários, que tiveram sua validade questionada pelo STF após quase uma década. Também criticou a Suprema Corte por se envolver em questões legislativas, como a legalização da maconha e do aborto, argumentando que essas são questões de mérito legislativo. Defendeu a preservação da vida desde a concepção e criticou a legalização das drogas, citando sua experiência na igreja evangélica com pessoas que se recuperaram do alcoolismo e das drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1102867f1cbb7a9f52ced6c36acb3088b114d33a5edb2d01c2643c04a0ce79c7
+size 634

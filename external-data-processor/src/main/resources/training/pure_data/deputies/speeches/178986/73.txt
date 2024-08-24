@@ -1,1 +1,3 @@
-Lançamento do livro biográfico Dom Paulo Evaristo Arns - Um homem amado e perseguido, em homenagem à memória do Cardeal. Atuação de D. Paulo Evaristo Arns em favor da democracia no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ee0bda8012538056329cbbb52ecea6418b79448c8ef913ca5fca9a5cebf630a
+size 193

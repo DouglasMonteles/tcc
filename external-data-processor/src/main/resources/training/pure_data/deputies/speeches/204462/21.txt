@@ -1,1 +1,3 @@
-Necessidade de reação do Parlamento brasileiro contra o ativismo judicial praticado pelo Supremo Tribunal Federal, especialmente quanto à usurpação de competência exclusiva do Poder Legislativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d9ad03f19f1fd969be188d945d28de66f56f0e941a546daea6093076d060625
+size 200

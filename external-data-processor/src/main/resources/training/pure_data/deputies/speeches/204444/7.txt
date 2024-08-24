@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação do Projeto de Lei nº 1.360, de 2021, referente à criação de mecanismos de coibição e prevenção da violência doméstica e familiar contra crianças e adolescentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e0a5fcb0800617e9b3d43049ede35841995deac84d5e9acfa430b021432caa1
+size 213

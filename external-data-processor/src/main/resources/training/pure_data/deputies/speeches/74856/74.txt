@@ -1,1 +1,3 @@
-Regozijo com a realização das Olímpiadas Rio 2016. Elogio ao povo carioca pela demonstração de apoio aos atletas durante o evento. Importância do legado dos Jogos Olímpicos para a cidade do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f816c2faca393267fd3c5515deec5786ef816b5085726457a965e4a360607e01
+size 212

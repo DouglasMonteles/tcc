@@ -1,1 +1,3 @@
-Comissão Geral destinada ao debate do tema As 10 Medidas de Combate à Corrupção, na Forma do PL 4.850/2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3089af6fe8a4036446abcbf2985f609b8a2b115180977f75407c95359db6992
+size 111

@@ -1,1 +1,3 @@
-Expectativa de aprovação pela Casa do Projeto de Lei nº 2.824, de 2020, acerca das ações emergenciais destinadas ao setor esportivo durante o período de vigência das medidas de isolamento ou quarentena, de acordo com a Lei nº 13.979, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de0aba09626d0e4930f224b38737b4939f103262aebc8932b0c7db21dbe99713
+size 250

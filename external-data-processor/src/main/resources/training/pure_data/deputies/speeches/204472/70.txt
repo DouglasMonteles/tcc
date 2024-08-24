@@ -1,1 +1,3 @@
-Razões da apresentação, pelo PODEMOS, de requerimento de destaque para votação em separado da Emenda nº 13, oferecida ao Projeto de Lei nº 11.021, de 2018, sobre a remuneração recebida por funcionário de partido político com recursos do fundo partidário. Importância para o País do recebimento, pela Força Aérea Brasileira, da aeronave KC-390.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4941d6c5f8c1cfb7a94f346060b120402d73390c50294ed1a035e2b077136ae9
+size 359

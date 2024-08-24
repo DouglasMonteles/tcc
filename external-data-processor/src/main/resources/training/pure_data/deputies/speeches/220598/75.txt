@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 192/2023, que altera a Lei Complementar nº 64, de 18 de maio de 1990.
+version https://git-lfs.github.com/spec/v1
+oid sha256:337450827cb4eccbc3ecaac122f74424223ffc9b87c2db3261d9e7499a1ad006
+size 203

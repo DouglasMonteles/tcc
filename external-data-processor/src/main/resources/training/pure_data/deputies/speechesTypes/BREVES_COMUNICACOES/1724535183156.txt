@@ -1,1 +1,3 @@
-Falecimento do Pe. Ângelo Banki, da Paróquia Santo Cura D'Ars, do Município de Paiçandu, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab3955a416ae9f95c6a71ce872c6457dd52c4f22d79ee49c70dd4aa5e69ff6d5
+size 111

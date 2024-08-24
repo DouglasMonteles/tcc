@@ -1,1 +1,3 @@
-Importância da união dos Parlamentares em prol da reconstrução do País. Posicionamento do orador sobre as reformas previdenciária, tributária, política e penal. Revisão do pacto federativo em benefício dos Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b544e13470da9a0d1f4c0861a383d5f62713bce0d5840e7f17e60eaa5b84f23b
+size 240

@@ -1,1 +1,3 @@
-Verificação in loco da não obstrução, por trabalhadores, do acesso de Parlamentares às dependências da Casa. Repúdio a declaração do Deputado Darcísio Perondi sobre os trabalhadores posicionados na área externa da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3eacfd05d494f1b4d47c635f5d7ca082ab0ca2164884f045ac2dab05b380b05
+size 231

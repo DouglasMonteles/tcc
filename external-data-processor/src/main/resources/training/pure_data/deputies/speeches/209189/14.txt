@@ -1,1 +1,3 @@
-Medidas adotadas pelo Governo Jair Bolsonaro favoráveis à desestruturação do Estado brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a02ab42af7bff513b403be8a60aeab59c7b540a44644a51928c77b06474ca302
+size 99

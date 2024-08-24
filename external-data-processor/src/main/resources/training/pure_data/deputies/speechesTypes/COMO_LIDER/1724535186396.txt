@@ -1,1 +1,3 @@
-Desconhecimento, por parte do Deputado Alexandre Frota, do funcionamento das universidades federais. Posicionamento do orador contrário ao corte de recursos orçamentários destinados ao ensino superior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b2ca1b27a0a73ba934016402a7295344562efb224b49a9aba03d3d1d9a34429
+size 204

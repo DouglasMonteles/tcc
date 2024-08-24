@@ -1,1 +1,3 @@
-Importância, para os deficientes visuais, da aprovação do Projeto de Lei nº 340, de 2022, sobre a instalação em bibliotecas públicas de seção de livros e periódicos em braile.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d3541f8d809a151996a414543dfb2bc1ba0907c40350828c0ef7619139843e6
+size 185

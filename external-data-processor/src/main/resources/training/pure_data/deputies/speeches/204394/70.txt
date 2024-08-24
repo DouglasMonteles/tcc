@@ -1,1 +1,3 @@
-Orientação  de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 21, apresentada ao Projeto de Lei nº 1.079, de 2020, sobre a suspensão das obrigações de beneficiários do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade pública. Defesa de votação pela Casa da Proposta de Emenda à Constituição nº 15, de 2015, sobre a transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d775b9655bb165b699f377bb52296b390ac9b6c1f07e5cfa7778c8574713dc71
+size 614

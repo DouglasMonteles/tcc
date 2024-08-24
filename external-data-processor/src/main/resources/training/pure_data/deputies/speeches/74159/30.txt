@@ -1,1 +1,3 @@
-Apoio ao início da discussão da proposta de revisão do Código Florestal Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23399ca9e19f08240efffd28289602c3c8e71eed0e1e74a8c9cab10be6a05d68
+size 87

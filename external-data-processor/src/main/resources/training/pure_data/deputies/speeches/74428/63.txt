@@ -1,1 +1,3 @@
-Apresentação de emenda à Medida Provisória nº 549, de 2011, com vistas à concessão de incentivos para expansão da indústria automobilística na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:702105f09a1ebddbd87b96ea0443cc070659f95d264d9f93f5f6092211544ef6
+size 170

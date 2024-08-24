@@ -1,1 +1,3 @@
-Apoio à decisão do Governo Luiz Inácio Lula da Silva de discussão, nos Estados, do Plano Plurianual de Investimentos - PPA. Defesa de alocação, no PPA, de recursos para a construção da Ferrovia Transnordestina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d886b9c640cedcad6fedd4125cede6fa77bc294d3d2d31326485ce547b3b5dd
+size 218

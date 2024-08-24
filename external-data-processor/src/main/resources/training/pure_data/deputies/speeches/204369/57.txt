@@ -1,1 +1,3 @@
-Contrariedade à aprovação do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news). Anúncio de instalação da CPI do MST, da CPI das Americanas e da CPMI destinada à investigação de atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fe88075174579ab2d7dbc5fb13ba8e514a46335d885d225f8857bbe27405da8
+size 374

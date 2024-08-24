@@ -1,1 +1,3 @@
-Solidariedade aos familiares dos estudantes assassinados na Escola Municipal Tasso da Silveira, no Rio de Janeiro, Estado do Rio de Janeiro. Reexame da legislação penal brasileira. Necessidade de controle da comercialização de armas de fogo no País. Revisão pelas autoridades competentes da veiculação de cenas de violência nos meios de comunicação. Defesa de fortalecimento da segurança nas escolas brasileiras. Compromisso de atuação parlamentar em defesa de crianças e adolescentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39989d64595b1bf4d88c87321ebf1ec8bf9b1077ef14d3af55b5fde246ec10a1
+size 500

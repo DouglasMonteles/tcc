@@ -1,1 +1,3 @@
-Solicitação da determinação do encerramento das reuniões de Comissões, tendo em vista o início da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc0eabc46adc342eff77b4acb6cbd12efcd12703a5563274f2551790888f474b
+size 118

@@ -1,1 +1,3 @@
-Saudações aos representantes da União Brasileira dos Estudantes Secundaristas - UBES e da União Nacional dos Estudantes - UNE presentes na Casa, em busca da alocação de recursos para o setor educacional. Prioridade do Governo Dilma Rousseff na erradicação da extrema pobreza no Brasil. Defesa de utilização de recursos do Fundo Social, formado por recursos oriundos da exploração de petróleo na camada pré-sal, para combate à fome e à miséria no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edd1fc408302f1262ec0a620da95fd90d43b53a1a22502d13b6c9f993f63c78a
+size 469

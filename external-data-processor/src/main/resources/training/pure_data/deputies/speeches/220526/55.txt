@@ -1,1 +1,3 @@
-O Deputado deu boas-vindas à Casa ao amigo Emiliano Repeker. O orador também anunciou sua ida ao Município de São Mateus, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:909e96a0c7fb583df72544596c7f0c45523124250d9189217cb1f6eedac44d80
+size 152

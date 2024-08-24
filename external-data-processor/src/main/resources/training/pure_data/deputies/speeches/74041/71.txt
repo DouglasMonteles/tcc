@@ -1,1 +1,3 @@
-Publicação, pelo Correio da Paraíba, de lista com o nome de candidatos às eleições municipais de 2008 no Estado da Paraíba com problemas com a Justiça.  Sugestão ao Ministério Público Eleitoral de investigação para impugnação das candidaturas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b84167dc11f54b7dde06f31ade34f453fb971951d03d406c193240e1f960a2bb
+size 258

@@ -1,1 +1,3 @@
-Presença no plenário de pastores participantes da Convenção Nacional das Assembleias de Deus no Brasil - Ministério de Madureira em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bf23830669d13d1ad8040ec4f57f25155b978cac05a0ed9856e0e4442688815
+size 165

@@ -1,1 +1,3 @@
-Importância da pauta dos cuidados paliativos no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db3391c06ce57140fa15b325a4087b5c79a247a1fc067b1d5a331600c2c66f6a
+size 56

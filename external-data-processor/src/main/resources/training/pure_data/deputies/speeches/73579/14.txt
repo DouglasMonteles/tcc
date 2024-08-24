@@ -1,1 +1,3 @@
-Críticas ao comportamento do Deputado Silvio Costa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be9de1d2b63026de5251852f323e99c7c3cb288c812ccf210bfb1b9686b6883a
+size 52

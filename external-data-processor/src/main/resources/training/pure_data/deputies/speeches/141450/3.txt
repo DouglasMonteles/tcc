@@ -1,1 +1,3 @@
-Manifestação de pesar pelo falecimento do monge beneditino Dom Estevão Tavares Bettencourt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee8cec5c239c5b672f5fd924bdd698ace34d2656da46fea762eee725c99ab896
+size 94

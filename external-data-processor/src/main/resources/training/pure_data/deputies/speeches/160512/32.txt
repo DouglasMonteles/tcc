@@ -1,1 +1,3 @@
-O Deputado expressou seu agradecimento a todos os Parlamentares de diferentes bancadas pela aprovação do projeto de lei complementar sobre a prorrogação da Lei Paulo Gustavo. Destacou a relevância da matéria, ressaltando que o PIB da cultura e da economia criativa supera o da indústria automobilística no Brasil. Enfatizou que essa prorrogação é fundamental para a geração de emprego, renda e oportunidades no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:577adb53baf0d0eb92b874a50b651fb7e86c6cafce755fc0a515a2a8fa170100
+size 430

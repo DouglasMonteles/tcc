@@ -1,1 +1,3 @@
-Solidariedade às populações do Estado do Rio de Janeiro atingidas por fortes chuvas. Repúdio à utilização, para fins eleiçoeiros, da tragédia ocorrida no Rio de Janeiro em decorrência das chuva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59a3310b74a8d50ed23bb7d4e9a9583a9dd8381b02e4b7149c69152e8736aafe
+size 204

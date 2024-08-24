@@ -1,1 +1,3 @@
-Agradecimento ao povo paranaense pelos votos concedidos ao orador. Trajetória política do Parlamentar. Convite aos Deputados para atuação política apartidária em prol dos interesses do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78c5e23ef916d538e3164a3964d1c52825d4213e6ff2c73862e2f1482970c2d1
+size 207

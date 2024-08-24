@@ -1,1 +1,3 @@
-O Deputado expressou manifestação da bancada do PSOL contrária à apreciação, na presente sessão, relacionada à eleição em Conselho. Sugeriu à Presidência que incluísse o tema na pauta de sessão posterior do Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:931cf4c5150a5e86b3934ef9caf69449760d3b8da434a0819cd4b7ff85604668
+size 240

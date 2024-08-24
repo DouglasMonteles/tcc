@@ -1,1 +1,3 @@
-Avanços da Proposta de Emenda à Constituição nº 45, de 2019, sobre a alteração do Sistema Tributário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9e069bd3d9d52e9f1b5e2b7cc763193202a964838f142cb5882218dfe8f7fdb
+size 118

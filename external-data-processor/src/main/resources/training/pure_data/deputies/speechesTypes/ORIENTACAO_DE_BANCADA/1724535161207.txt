@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT ao  Substitutivo à    PEC  471 de 2005 (Dá nova redação ao parágrafo 3º do art. 236 da Constituição Federal para estabelecer a efetivação para os atuais responsáveis e substitutos pelos serviços notariais, investidos na forma da lei), em votação em primeiro turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42cde4e5bc6dfb8d582a8a23f25a54fefea440c302a0a9fc64f53c02996e7a2a
+size 311

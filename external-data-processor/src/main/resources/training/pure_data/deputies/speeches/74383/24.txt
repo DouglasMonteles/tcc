@@ -1,1 +1,3 @@
-Transcurso do 47º aniversário de emancipação político-administrativa do Município de Capitão Leônidas Marques, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1e41b2b79a3b044665c517a5ff20e613eeb7a5c51c75c5359679f64bf9eb41c
+size 140

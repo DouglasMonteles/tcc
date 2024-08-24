@@ -1,1 +1,3 @@
-Presença no plenário  de convidados à sessão solene em comemoração ao transcurso do Dia Internacional pela Eliminação da Discriminação Racial.dos Srs. Embaixadores Daniel Antonio Pereira, da República de Cabo Verde; Kayode Garrick, da República Federal da Nigéria; Salem Omar Abdullah Al Zubaidi, da Grande Jamahiriyah Socialista Popular da Líbia Árabe; Farida Jaïde, do Reino de Marrocos; Michael Ndivayele, Ministro-Conselheiro da Embaixada da República da Namíbia; Elisha Karodza, Conselheira da Embaixada da República de Zimbábue; e Eloi Ferreira de Araujo, Secretário-Adjunto da Secretaria Especial de Políticas de Promoção da Igualdade Racial,
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd96b7facfdd0636deafe948b9fa3cad3a13751d531bf7bb5d05f846e6ad27e1
+size 673

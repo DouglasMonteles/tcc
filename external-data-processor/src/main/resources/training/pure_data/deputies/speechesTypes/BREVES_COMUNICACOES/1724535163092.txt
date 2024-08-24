@@ -1,1 +1,3 @@
-Apreensão do orador com a exoneração da Ministra do Meio Ambiente, Marina Silva. Elenco de exigências do futuro Ministro da Pasta, Carlos Minc, ao Presidente Luiz Inácio Lula Silva. Carta Aberta sob o título Querida Marina, de autoria de Carlos Alberto Libânio Christo, conhecido por Frei Betto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18811305574b698c9e0c76dc29bfffb6c744b1137f3dad60ec32975bc4d7a286
+size 302

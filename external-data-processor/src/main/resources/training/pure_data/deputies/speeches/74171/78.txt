@@ -1,1 +1,3 @@
-Posicionamento favorável do PSOL à  Emenda 2, destacada, à Medida Provisória 420 de 2008 (Abre crédito extraordinário em favor de Encargos Financeiros da União, para o fim que especifica), que determina que os recursos oriundos do referido crédito extraordinário destinado ao BNDES seja utilizado exclusivamente para financiar projetos de micro, pequenas e médias empresas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:253e60d8562a119cc8de31c8ed9e352ca8fd439039d939248ff8cae499b6bfc7
+size 383

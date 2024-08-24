@@ -1,1 +1,3 @@
-Vantagens da utilização da técnica da silagem de colostro na amamentação de bezerros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed47f7d2278574d214d63027a3d888f036696de4af92ec06f104a342922e36ea
+size 90

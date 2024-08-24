@@ -1,1 +1,3 @@
-Conveniência de superação de clima de discórdia reinante entre o Presidente Jair Bolsonaro e o Vice-Presidente Hamilton Mourão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ead0621231cd5ddabbe3e7f467b2953219f7250c3dab97151989d6f15708eef8
+size 132

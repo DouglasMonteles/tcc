@@ -1,1 +1,3 @@
-Expectativa de votação pela Casa de projeto de lei relativo à proteção da biodiversidade brasileira. Participação das Ministras da Agricultura, Pecuária e Abastecimento, Kátia Abreu, e do Meio Ambiente, Izabella Teixeira, em reunião realizada pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural na 55ª Exposição Agropecuária e Industrial de Londrina, Estado do Paraná. Solicitação à Ministra do Meio Ambiente de prorrogação do prazo para o cadastramento de propriedades rurais no Cadastro Ambiental Rural - CAR. Importância da produção de peixes no lago da Usina Hidrelétrica de Itaipu Binacional. Atuação do Ministro da Pesca e Aquicultura, Helder Barbalho, em prol do desenvolvimento da piscicultura brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5da57118bea132105515fbf5cebd2008d49605a1b73a5e1a28696766433ff89
+size 767

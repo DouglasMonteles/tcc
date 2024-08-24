@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado da Bahia pela reeleição do orador. Renovação de compromissos assumidos com o povo baiano. Retomada do desenvolvimento econômico brasileiro. Reconstrução do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:584baf5e41809b531786ae9dcee0b31b46bcbe9f407d6b6ed74f282caed900b4
+size 207

@@ -1,1 +1,3 @@
-Homenagem ao Arcebispo da Diocese de Cascavel, Dom Armando Círio, ao ensejo do transcurso do 97º aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4970901362bc5660453e851651d4dd1dd1378304a7f06cb920f9d8dfd728bbec
+size 123

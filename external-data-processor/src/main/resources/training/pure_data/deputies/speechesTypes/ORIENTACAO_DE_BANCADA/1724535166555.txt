@@ -1,1 +1,3 @@
-Posicionamento favorável do PSDB ao   § 11 do art. 11-B constante do art. 1º do  Projeto de Lei de Conversão da Medida Provisória 512 de 2010 (Altera a Lei 9.440 de 1997, que estabelece incentivos fiscais para o desenvolvimento regional e da indústria automotiva),que possibilita a habilitação de novas empresas para a realização de novo empreendimento industrial  que não implique a transferência de unidade já instalada no país, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4285995716567013e6e63e9ba03b6cbe4682d08ef1345201a2d721e0d0c528e5
+size 459

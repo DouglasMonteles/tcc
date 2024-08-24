@@ -1,1 +1,3 @@
-Orientação de bancada na votação em globo dos Projetos de Lei do Congresso Nacional de nºs 10, 15, 21, 24, 25, 26, 29, 30, 31, 32, 34, 35, 36, 37, 39, 40, 43, 44, 46, 47, 49 e 50, de 2019. Exigência de retratação pelo canal Netflix de ofensa aos seguidores da fé cristã.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b9d1db9ddfee381a437fe3cedf7581c7492f3150a0346bb9c315ab3c93b140f
+size 280

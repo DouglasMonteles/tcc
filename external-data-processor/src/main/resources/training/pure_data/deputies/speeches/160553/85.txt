@@ -1,1 +1,3 @@
-Transcurso do 68º aniversário de fundação do PTB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c580b30804166880a91c92c48bc0a1bb5b27322a35d65687add1b32c675d190
+size 53

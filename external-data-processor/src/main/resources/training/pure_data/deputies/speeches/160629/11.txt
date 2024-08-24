@@ -1,1 +1,3 @@
-Falecimento do empresário Ricardo Luiz de Andrade, do Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95d6b2f0acc34fc17576eaf8f3a5d4ab17924b530da9bdc1bde11ce5f083ab24
+size 74

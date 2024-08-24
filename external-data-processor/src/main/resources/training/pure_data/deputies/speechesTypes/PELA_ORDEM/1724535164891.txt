@@ -1,1 +1,3 @@
-Repúdio às agressões verbais desferidas pelo Deputado Marcon contra a base governista na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b5d0c0469ed28153efdffdf2e955cd7df7a15edc17b61a685fde7bb9dc5ae47
+size 114

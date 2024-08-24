@@ -1,1 +1,3 @@
-Posicionamento  contrário do PSC  à  Emenda  10, destacada,  à Subemenda Substitutiva Global de Plenário ao Projeto de Lei Complementar 416 de 2008 (Dispõe sobre o procedimento para a criação, a  incorporação, a fusão e o desmembramento de Municípios, para regulamentar o § 4º do art. 18, da Constituição Federal),  que  inclui  na demonstração de viabilidade econômico-  financeira  a  comprovação de que o município a ser criado terá condições de custear a remuneração dos agentes públicos  e seus cargos de confiança com recursos oriundos de receitas próprias, excetuando-se as transferências constitucionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76e055861ef75de72cfb8b2497fce06a182b56fe96ddf79f313fd73cb44481a7
+size 642

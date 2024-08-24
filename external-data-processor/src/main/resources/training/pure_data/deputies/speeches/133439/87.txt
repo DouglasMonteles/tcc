@@ -1,1 +1,3 @@
-Apoio à proposta da Presidência sobre a apreciação de vetos presidenciais.  Acerto da decisão do Congresso Nacional na rejeição do veto presidencial ao projeto de lei sobre a partilha de royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:950071e2f16f167f67b996bfe1d78d76c23b74bf8fc8e98311805e25ca79ad34
+size 217

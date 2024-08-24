@@ -1,1 +1,3 @@
-Retorno do Deputado Paulo Rubem Santiago à Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1d5147cfd50cae99972be38fed4c3ed32faacfe30b89bea61c46884b6a04cf0
+size 49

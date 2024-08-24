@@ -1,1 +1,3 @@
-Corte de 70% das vagas nas instituições de educação em tempo integral pelo Governador do Estado de Minas Gerais, Romeu Zema. Repúdio à política defendida pelo Governador Estadual e pelo partido NOVO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f01e9e3f6e020acee6060430f1e2000c9901e6caa7dccc3a9677ace8deadf91
+size 206

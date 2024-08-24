@@ -1,1 +1,3 @@
-Realização da Convenção Geral das Assembleias de Deus no Brasil, em Brasília, Distrito Federal. Anúncio de realização pela Casa de sessão solene em homenagem à Igreja Evangélica Assembleia de Deus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0d596b5a380926602083506cc95ad73a440afd77ff1b3bbe88d2da73e8911c6
+size 208

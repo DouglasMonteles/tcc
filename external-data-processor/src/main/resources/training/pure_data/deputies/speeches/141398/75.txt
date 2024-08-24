@@ -1,1 +1,3 @@
-Agradecimento ao povo do Estado de São Paulo pela recondução do orador à Casa. Saudações aos Parlamentares reeleitos. Apoio à Medida Provisória nº 511, de 2010, sobre a sustentabilidade econômico-financeira do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e o financiamento da construção do Trem de Alta Velocidade - TAV, no trecho Rio de Janeiro-Campinas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0333d0d38360b696b2c176ae4ca7331d037325a1fe5674d296e60fdc70142713
+size 384

@@ -1,1 +1,3 @@
-Lista das 50 melhores instituições para estágio no Estado de São Paulo. Expectativa de contribuição da nova Lei do Estágio com a inserção dos jovens no mercado de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a530e5fce92ea524221c123267cfcb18402e4418232d14fc22a89fe62816a360
+size 181

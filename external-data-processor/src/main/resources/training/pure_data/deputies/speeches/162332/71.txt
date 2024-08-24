@@ -1,1 +1,3 @@
-Condolências aos familiares do cinegrafista Santiago Andrade, morto em manifestação pública. Necessidade da adoção de medidas enérgicas a favor do exercício dos profissionais em trabalho nas manifestações e contra as ações violentas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff8a6b466d8d9ec856234d284855bad004025824e0834f29807a4d753bc822c3
+size 245

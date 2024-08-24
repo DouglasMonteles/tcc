@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 10.119, de 2018, sobre a instituição da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista
+version https://git-lfs.github.com/spec/v1
+oid sha256:48f5e6216ba2b77bb380db831fae589313ab5f5a795576820fcd522f8f546a2a
+size 156

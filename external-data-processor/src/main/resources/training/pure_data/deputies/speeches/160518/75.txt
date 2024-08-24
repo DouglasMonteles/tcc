@@ -1,1 +1,3 @@
-Protesto contra a aprovação, pela Agência Nacional de Energia Elétrica - ANEEL, de resolução acerca da cobrança de tarifa de energia de acordo com o horário de consumo, a chamada tarifa amarela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64e4e872b90b996d2f3d48d1d82f05fa63fddf176a8ac7d630f3f3a026fa98da
+size 202

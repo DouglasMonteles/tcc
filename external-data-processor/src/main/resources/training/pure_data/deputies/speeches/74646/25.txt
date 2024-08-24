@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº  12, de 2021, sobre a alteração da Lei nº 9.279, de 1996, com vista a concessão de licença compulsória de patentes, nos casos de declaração de emergência nacional ou internacional, de interesse público ou de reconhecimento de estado de calamidade pública de âmbito nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c077575704f0edb98c34d12fe101b5234db73da986f7a06ab2276a758356eaa8
+size 328

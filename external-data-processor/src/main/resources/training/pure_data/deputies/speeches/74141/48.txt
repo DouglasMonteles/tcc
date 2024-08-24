@@ -1,1 +1,3 @@
-Aumento do consumo pela população brasileira. Acerto da política socioeconômica implantada pelo Governo Federal. Lançamento pelos setores público e privado de agenda de desenvolvimento de segmentos econômicos. Inconsistência de críticas da Oposição à gestão federal petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a944b151398bccc0a27dbfa0ec095ac9e2a72586a364bf0927a552f0489255bd
+size 287

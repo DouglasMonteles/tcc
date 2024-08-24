@@ -1,1 +1,3 @@
-Solicitação ao Governador do Estado de São Paulo, Geraldo Alckmin, de pagamento do abono de produtividade e de extinção da escala de 24 horas por 48 horas aos policiais militares. Solicitação à Comissão de Turismo de aprovação de projeto de lei sobre a criação da área turística denominada Angra Doce no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:323139011289c1c0fb3e5fcedfde5dae9e06835a8475dbaee2b5484d72c755d3
+size 340

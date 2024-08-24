@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de regularização do repasse de recursos destinados à construção de habitações rurais para as cooperativas habitacionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d2212df23d7975f8b0b8680169a36c3a69edf3cf1bffeeeb1f737a064d93a17
+size 152

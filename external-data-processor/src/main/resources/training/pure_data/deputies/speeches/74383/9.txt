@@ -1,1 +1,3 @@
-Regozijo pela aprovação do Projeto de Lei 2.105 de 2007 (Institui o Regime de Tributação Unificada - RTU - na importação por via terrestre de mercadorias procedentes do Paraguai - Projeto do Sacoleiro).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f035af96796deb1b036d4bf617878080b04c0f261c6560215e43fb8dcd35cb0e
+size 208

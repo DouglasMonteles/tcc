@@ -1,1 +1,3 @@
-Orientação de bancada na votação, em primeiro turno, da Proposta de Emenda à Constituição nº 372, de 2017, sobre a criação das polícias penais federal, estaduais e distrital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aed07226c2dd4532f0c595fe48c48d787928675799ddab73ff4583f62314e4e1
+size 185

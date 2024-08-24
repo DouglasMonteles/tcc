@@ -1,1 +1,3 @@
-Realização da XIII Romaria das Águas e da Terra no Município de Itinga, Estado de Minas Gerais. Leitura de trecho da carta extraída do evento. Imediata reformulação do Código Florestal Brasileiro. Apresentação do Projeto de Lei nº 5.226, de 2009, para atualização do Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ff66d5405a93e5f223f61ec7a69a59cad14d988a805033b44d6d6dc15693c76
+size 309

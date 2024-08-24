@@ -1,1 +1,3 @@
-A Deputada denunciou agressões e prisões de manifestantes na Assembleia Legislativa de São Paulo, durante discussões sobre a privatização da SABESP. Defendeu a liberdade dos detidos, acusando os Parlamentares favoráveis à privatização de agirem de maneira criminosa. Alegou que a resistência não é crime e criticou a atuação da Polícia Militar. A moção de repúdio apresentada visa chamar atenção nacional e internacional para os eventos em São Paulo, responsabilizando o governo estadual pela situação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8846b80e04cb2330f9f5fc8bfd7f10193836bf5b2096339d3b4551430023e712
+size 526

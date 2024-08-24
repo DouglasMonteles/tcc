@@ -1,1 +1,3 @@
-Parecer, pela Comissão Mista de Planos, Orçamentos Públicos e Fiscaliação, ao Projeto de Lei 15  de 2009-CN (Altera o art. 2º e o Anexo IV da Lei 11.768 de 2008, que dispõe sobre as diretrizes para elaboração e execução da Lei Orçamentária de 2009, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e88b695a2085f7082913a887eef684603f883309742e336fcd68150972e5678
+size 290

@@ -1,1 +1,3 @@
-Necessidade de atendimento pelas instituições de demanda de população mobilizada pelo resgaste do Estado Democrático de Direito no País. Crítica à Proposta de Emenda à Constituição nº 32, de 2022, sobre alteração do Ato das Disposições Constitucionais Transitórias, para permissão da implementação do Programa Bolsa Família e definição de regras para a transição da Presidência da República aplicáveis à Lei Orçamentária de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3cb71c498390325fead43a333c569e9689aff69b66baf11a5e3be61ca714ce0
+size 460

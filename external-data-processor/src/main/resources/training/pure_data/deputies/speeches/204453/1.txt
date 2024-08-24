@@ -1,1 +1,3 @@
-Incoerência do discurso do Presidente Jair Bolsonaro sobre a reforma previdenciária e a proposta apresentada pelo seu Governo. Natureza desumana da proposta de reforma da Previdência Social apresentada ao Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a70ebee2296aa78f4780da1666df74ce743a8b99e67a0aa8014079679985fde
+size 227

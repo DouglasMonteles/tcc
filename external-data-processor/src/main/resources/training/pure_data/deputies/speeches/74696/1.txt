@@ -1,1 +1,3 @@
-Defasagem da tabela de procedimentos do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:598afaf2f271bc8a29458fb07cd2f0b84c8cc6759a5286848532c35381dae279
+size 71

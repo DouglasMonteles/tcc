@@ -1,1 +1,3 @@
-Ilegalidade da Resolução nº 175, de 2013, do Conselho Nacional de Justiça, sobre a habilitação, celebração de casamento civil, ou de conversão de união estável em casamento, entre pessoas do mesmo sexo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a34d7b9706729d91e08583d47f9be010e2a5eba1194129550de5427c37daac5
+size 213

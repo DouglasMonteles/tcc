@@ -1,1 +1,3 @@
-Regozijo com a aprovação da Emenda de Plenário nº 6, apresentada ao Projeto de Lei nº 2.505, de 2000, sobre a determinação de repasse, às Secretarias de Segurança Pública Estaduais e à Polícia Federal, do material apreendido pela Polícia Federal, fruto de contrabando e passível de uso no combate ao crime. Pedido aos Senadores do Estado do Maranhão de apoio para aprovação da matéria no Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba263781f558f5b35adfa4922466d107b15306ec6995b03088a34eaf294134e0
+size 421

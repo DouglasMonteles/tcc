@@ -1,1 +1,3 @@
-Regozijo com a instalação de campus do Instituto Federal de Educação, Ciência e Tecnologia no Município de Arapongas, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93788a5379a55f5cbfaea96353e4ccbac29d50369f1033a84f509427832df7b4
+size 142

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Urgência na adoção de políticas públicas destinadas às mulheres deficientes. Combate às agressões físicas e sexuais contra portadoras de necessidades especiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdc841f5126a7f7e1b46328cfcb0679b2b5399a37ad5872e09b01ecff5c10262
+size 212

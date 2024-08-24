@@ -1,1 +1,3 @@
-Aplausos à Deputada Janete Rocha Pietá pelo discurso proferido. Premiação concedida pelo Conselho Federal de Odontologia a profissionais do setor e a gestores municipais. Reconhecimento, pelo Ministério da Saúde, da excelência do projeto de saúde bucal desenvolvido no Estado da Paraíba. Avanços da Odontologia no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f33ae04a411b015c1201e0e4b5ea947c82a245d82641f5d349fc9f23fe64c458
+size 331

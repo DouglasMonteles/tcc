@@ -1,1 +1,3 @@
-Esclarecimentos sobre assuntos relativos ao Ministério da Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eb5f44b2106f887a7fc241eb2e1059a525ba708d60a969db4ae6adb908a3011
+size 68

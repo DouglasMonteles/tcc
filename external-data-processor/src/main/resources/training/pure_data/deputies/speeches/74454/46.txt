@@ -1,1 +1,3 @@
-Adoção de medidas governamentais em prol dos Municípios atingidos por enchentes no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:029f4fc68be42f72769866bf36e9022e0238cf9ca00a6fc02dc6a13c78da4fc5
+size 103

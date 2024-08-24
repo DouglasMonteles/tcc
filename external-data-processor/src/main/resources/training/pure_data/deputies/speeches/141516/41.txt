@@ -1,1 +1,3 @@
-Presença, na Casa, de comitiva do Município de Manhuaçu, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8ec2113ae1ebbd88fdd0e61534c2c664c067c93abcd3ca8a5ce1823b747791d
+size 83

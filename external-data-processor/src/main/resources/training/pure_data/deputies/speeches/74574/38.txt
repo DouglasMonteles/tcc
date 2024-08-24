@@ -1,1 +1,3 @@
-Filiação do Prefeito Sargento Francisco, do Município de Candeias, Estado da Bahia, aos quadros do PSD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e2cf879e5a8efbc15c42d330497beeb04f45a1129cfbe7e11523b910b6c3115
+size 106

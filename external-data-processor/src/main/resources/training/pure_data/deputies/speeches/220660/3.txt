@@ -1,1 +1,3 @@
-O Deputado anunciou que está dialogando com o Governador do Estado do Ceará, Elmano de Freitas, sobre a realização da Exposição Centro Nordestina de Animais e Produtos Derivados, EXPOCRATO, uma das maiores festas do Nordeste. Ele expressou o desejo de que o evento seja realizado gratuitamente e destacou a importância da festa para a região por gerar empregos, promover o turismo e movimentar a economia local. Comprometeu-se a lutar por recursos diretos de Brasília para fortalecer a exposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09233f09889e13a8859b8f322a21807d4adedfa30640677b53719b00c8463011
+size 507

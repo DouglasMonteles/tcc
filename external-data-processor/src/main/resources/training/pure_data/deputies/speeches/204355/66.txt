@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Veto Parcial nº 44, de 2019, aposto ao Projeto de Lei da Câmara nº 47, de 2017 (nº 3.820, de 2019, na Casa de origem), relativo à política de desenvolvimento e apoio às atividades das mulheres marisqueiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1d18cd0c27150a81745d1e688edd1b36f3d9fc2ae388493ed73537a2376a036
+size 253

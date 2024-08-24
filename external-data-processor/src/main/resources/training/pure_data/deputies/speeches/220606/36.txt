@@ -1,1 +1,3 @@
-Defesa de reestatização da ELETROBRAS. Desestruturação do Centro de Pesquisas de Energia Elétrica - CEPEL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9f3c67342251df45de48e6d5b79bdf4eea6b1fb7b35f105a07855fa31d87ef4
+size 111

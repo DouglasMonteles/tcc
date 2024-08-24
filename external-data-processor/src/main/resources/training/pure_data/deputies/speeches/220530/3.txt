@@ -1,1 +1,3 @@
-Contrariedade à realização, pela Universidade de São Paulo, do processo de transição de gênero em crianças e adolescentes. Pedido à Casa de apoio ao requerimento de autoria do orador sobre a criação da frente parlamentar contra a sexualização precoce de crianças e adolescentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c7f5c24a11065cceb72a84fe0f40692de19cf5851d1f7887e09063e3c8a768a
+size 292

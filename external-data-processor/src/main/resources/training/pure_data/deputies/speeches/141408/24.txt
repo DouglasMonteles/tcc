@@ -1,1 +1,3 @@
-Apreciação de vetos presidenciais pelo Congresso Nacional. Realização das reformas política e tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab48f068e7f592eac6ccf904b3a7b7a0287018ab69e7208b7e16ad3a9714eb9e
+size 111

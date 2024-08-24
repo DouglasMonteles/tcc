@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a permissão ao trabalhador de abertura de empreendimento próprio com o saldo da conta vinculada do Fundo de Garantia do Tempo de Serviço - FGTS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af62109830b4c7abcd4f212556207c107b579b20f26e2d0e325c5d99496e682a
+size 186

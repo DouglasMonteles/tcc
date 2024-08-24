@@ -1,1 +1,3 @@
-Transcurso do Dia do Metroviário. Anúncio de lançamento da Frente Nacional em Defesa do Sistema Metroviário. Apoio às reivindicações dos trabalhadores vigilantes. Solidariedade aos participantes na marcha nacional de educadores a favor da destinação, ao ensino público, de 10% do Produto Interno Bruto - PIB brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7642986010f17f8f843012cd56311123bb8be22cd79e3b14ff11eb3eb9bce4a8
+size 329

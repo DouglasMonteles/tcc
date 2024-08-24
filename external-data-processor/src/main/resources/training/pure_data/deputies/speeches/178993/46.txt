@@ -1,1 +1,3 @@
-Anúncio da apresentação de projeto de lei relativo à destinação de percentual arrecadado em jogos lotéricos para entidades filantrópicas ou para a construção de hospitais de câncer no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef4deea17ebb63c768691ddd25de76276080e0dd913b2a275425f258a525e96e
+size 201

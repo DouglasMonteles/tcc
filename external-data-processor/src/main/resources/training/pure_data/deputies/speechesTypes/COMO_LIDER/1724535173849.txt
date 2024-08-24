@@ -1,1 +1,3 @@
-Consequências negativas da privatização da Companhia Energética de Goiás - CELG. Pedido ao Governador Ronaldo Caiado de declaração de estado de calamidade em face na crise de abastecimento de energia. Posicionamento contrário à privatização do setor de saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7e2938d338fc3eeb7b83ff5eff661149789f7e41ea5c9ed3f02fdbfd620c9c9
+size 283

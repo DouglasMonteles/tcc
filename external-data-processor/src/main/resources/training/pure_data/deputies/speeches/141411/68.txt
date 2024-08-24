@@ -1,1 +1,3 @@
-Registro da presença de convidados à presente sessão solene pelo transcurso do 80º aniversário de criação do Ministério do Trabalho e Emprego.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da17b1c75ddb0fefde32b85ccd21952312c2e14498a0d1160f21fd6ce0d7f9ff
+size 150

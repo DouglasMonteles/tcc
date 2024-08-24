@@ -1,1 +1,3 @@
-Acerto da decisão da Agência Nacional de Vigilância Sanitária - ANVISA contrária à adição de aromatizantes aos derivados de tabaco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1842bcadb841e75d6383dc50681effbf144f8855c56b49ac449184958d8168e
+size 139

@@ -1,1 +1,3 @@
-Crescimento do setor agropecuário nacional. Destaque brasileiro na produção de grãos, em especial a soja e o milho. Projeção do País na exportação de carne aviária e bovina. Importância da agricultura familiar na produção de alimentos. Dificuldades enfrentadas pelos produtores rurais, especialmente com o seguro agrícola e os elevados custos de produção, para a manutenção da competitividade do agronegócio brasileiro. Cobrança à Casa de celeridade na tramitação de propostas que regulamentam a produção e registro de produtos fitossanitários genéricos. Papel desenvolvido pela Subcomissão do Endividamento Agrícola da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8615fde04423c2b2909ae659e76905910b501e8f87d187d12dd5be8efc20d750
+size 724

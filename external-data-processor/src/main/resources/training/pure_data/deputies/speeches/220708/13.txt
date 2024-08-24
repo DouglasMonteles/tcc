@@ -1,1 +1,3 @@
-O Deputado celebrou a visita do Governador do Estado da Bahia, Jerônimo Rodrigues, ao Município de Campo Formoso destacando as importantes entregas para a cidade, incluindo uma escola reformada, sistemas de água e estradas asfaltadas na zona rural. Agradeceu pelo apoio recebido nas eleições e reconheceu o compromisso do Deputado Adolfo Menezes em fortalecer a região. O Parlamentar reafirmou seu empenho em buscar recursos e ações para beneficiar Campo Formoso e saudou diversas figuras locais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2355cd2c4a0b33287f0e58bc5e376fbac0738f4200f4533428b129a1450f3092
+size 504

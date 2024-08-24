@@ -1,1 +1,3 @@
-Ações o Governo Luiz Inácio Lula da Silva em prol da igualdade racial. Estudo do Prof. Hélio dos Santos sobre a inclusão social dos negros brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae59b35460c263bfb4d5e56c4c16c8582e92672f3711e8046feb5c63155b7325
+size 156

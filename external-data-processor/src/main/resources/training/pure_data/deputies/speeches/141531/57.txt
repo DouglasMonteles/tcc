@@ -1,1 +1,3 @@
-Conquista, pelo Sada Cruzeiro Esporte Clube, do título de Campeão Mundial de Clubes de Vôlei Masculino. Excelência da atuação dos atletas do clube esportivo. Congratulação à população do Município de Betim, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:309a7289e1a2e6be7d366ceb3adaa728512e8a399c3dfbe35ca637419766f05d
+size 242

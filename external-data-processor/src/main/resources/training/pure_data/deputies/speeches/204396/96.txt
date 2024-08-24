@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de Lei Complementar nº 153, de 2015, que altera a Lei Complementar nº 87, de 13 de setembro de 1996, para regulamentar o art. 155 da Constituição Federal, estabelecendo metodologia de compensação de perdas de arrecadação do ICMS pelos estados, em conformidade com o que estabelece o art. 91, § 3º do Ato das Disposições Constitucionais Transitórias, incluído na Constituição Federal por meio da Emenda Constitucional 42, de 19 de dezembro de 2003.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ed9c7cda68fc001d7cfc306ea27084c7eaadee057e4df85f6fa863d58ded284
+size 493

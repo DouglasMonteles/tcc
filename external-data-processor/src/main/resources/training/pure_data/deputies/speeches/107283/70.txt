@@ -1,1 +1,3 @@
-Apelo à Presidência de adiamento da votação da Minuta de Proposição Legislativa nº 1, de 2020, para cumprimento ao quórum de iniciativa previsto no art. 60 da Constituição Federal à proposta de emenda à Constituição relativa à instituição do regime extraordinário fiscal, financeiro e de contratações para enfrentamento da calamidade pública nacional decorrente de pandemia internacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51e0a7dbda1075098c66d4a3858fd97b82518ae1f4be01488486629b491b8bc8
+size 409

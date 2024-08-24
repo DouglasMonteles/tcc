@@ -1,1 +1,3 @@
-Crise da fruticultura na região do Vale do São Francisco. Necessidade de inclusão do setor no processo de renegociação de dívidas agrícolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5375c951afba66677e46c08ec91aea3ce5bb432113528b45b8c2458a18682704
+size 147

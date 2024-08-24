@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido ao Projeto de Lei do Congresso Nacional nº 19, de 2021, sobre a estimativa da receita e a fixação da despesa da União para o exercício financeiro de 2022. (Projeto de Lei Orçamentária Anual para 2022).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fe58e277d393dbef7ad11b92178f9c1facc3ef1edb7079b82c68ca94f9e38fd
+size 271

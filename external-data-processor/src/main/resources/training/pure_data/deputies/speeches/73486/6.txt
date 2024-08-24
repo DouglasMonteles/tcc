@@ -1,1 +1,3 @@
-Ineficácia da Medida Provisória nº 415, de 2008, sobre proibição da comercialização de bebidas alcóolicas em rodovias federais. Defesa de aprovação do Projeto de Lei nº 308, de 2007, acerca do estabelecimento de punição para motoristas embriagados ou participantes em rachas ou pegas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e00059cca505afe007c492f4d23e38f1e2a37819ff5bfc76937357cd84b3ea3
+size 297

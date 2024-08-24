@@ -1,1 +1,3 @@
-Crítica à convocação pela Comissão de Constituição e Justiça e de Cidadania do Ministro-Chefe da Casa Civil da Presidência da República, Onyx Lorenzoni, para esclarecimentos acerca de decreto presidencial sobre a posse e porte de armas de fogo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fa78d85fe56e9c0b18fe8d6fb62205965333da369121d8aa6af1cd1f1c6fc96
+size 254

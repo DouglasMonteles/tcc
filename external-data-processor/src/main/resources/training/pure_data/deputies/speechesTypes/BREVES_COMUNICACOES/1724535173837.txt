@@ -1,1 +1,3 @@
-Elevação dos índices de popularidade do Presidente Luiz Inácio Lula da Silva. Críticas à cobertura dada pela imprensa aos efeitos da crise financeira internacional no Brasil. Apoio à política econômica do Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fee0cbe4c62ce39cbec6f909808610dc8b8f82ff9c5c507ac7f2f29ba0b51bd
+size 249

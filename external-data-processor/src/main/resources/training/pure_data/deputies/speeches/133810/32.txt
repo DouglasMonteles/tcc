@@ -1,1 +1,3 @@
-O Deputado agradeceu a visita do Secretário Municipal da Fazenda de Estrela, Felipe Diehl, destacando seu trabalho durante as enchentes na Região dos Vales. Ainda expressou disponibilidade para encaminhar recursos à região do Vale do Taquari.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db80337b297bce334704998d717673a9db49bd61a864b5498708189de087fef5
+size 246

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Luta das mulheres contra o machismo, a violência doméstica e pela igualdade de direitos. Combate às discriminações contra a mulher no País. Apoio do orador à causa feminina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39bd21a47304bcd08655bf1427f47bc1a5c8e0596a318bec4c530e5ebfc5de2b
+size 223

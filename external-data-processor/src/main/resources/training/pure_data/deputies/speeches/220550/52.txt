@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 1.628, de 2023, (apensado ao PL 1.864, de 2021),&nbsp;sobre a alteração do Decreto-Lei nº 2.848, de 1940, (Código Penal), com vista ao agravamento de penas impostas aos crimes de homicídio qualificado, sobretudo nos casos envolvendo menores de 14 anos. Não votação pela Casa de propostas acerca da permanência de policiais armados em estabelecimentos escolares, bem como de outras proposições de interesse da população brasileira e do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:157131ecbdd2e081dd06f76ea88e2b8dcbc2d10a219f8dde6a44170bda87095e
+size 498

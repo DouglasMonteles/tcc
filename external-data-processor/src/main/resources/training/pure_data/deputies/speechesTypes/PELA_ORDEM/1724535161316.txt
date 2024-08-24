@@ -1,1 +1,3 @@
-Necessidade de cumprimento, pelo Governo Federal, de acordo a respeito da manutenção daautonomia do Complexo Industrial Portuário de Suape, no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cb12dc4c6d12e8cbcd4e05008125bc1726966a5815d829c5a2b2d0f5749e1f4
+size 167

@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Combate ao Trabalho Infantil. Importância do cumprimento de resoluções da Organização Internacional do Trabalho - OIT, destinadas ao combate à exploração da mão de obra do menor. Meta da comunidade internacional de erradicação do trabalho infantil perigoso até 2016. Efetivação de políticas públicas destinadas à erradicação do trabalho infantil e ao fortalecimento da rede de proteção da criança.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35f3a4ab6c69faa4014e79b394b7b53a400782a780d382a7ee3d1df5aafe74f3
+size 448

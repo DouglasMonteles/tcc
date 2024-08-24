@@ -1,1 +1,3 @@
-Ações do Governo Luiz Inácio Lula da Silva para combate ao déficit habitacional brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ed15131b7c612f2962b08a123693aed7c5c1580080279c86be80a8391c211ab
+size 95

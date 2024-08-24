@@ -1,1 +1,3 @@
-Participação, em comitivas dos ex-Presidentes Dilma Rousseff e Michel Temer, do sargento da Aeronáutica preso pelo transporte de cocaína em aeronave presidencial. Inexistência de vínculo entre o militar e a Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6670568be27ef10a7c38d463de284fcfead92018b2fcc443387561b1c1774dd0
+size 240

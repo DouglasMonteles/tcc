@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Idoso. Apresentação de projeto de lei para acréscimo de dispositivos ao Estatuto do Idoso com vistas à criação do Conselho de Proteção ao Idoso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e21d4946f56fcfe6fad02ea904a236ec0ce38b9b893723b9ec2bcbf2bd83d041
+size 182

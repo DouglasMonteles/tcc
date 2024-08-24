@@ -1,1 +1,3 @@
-Posse da nova diretoria da Sociedade Rural Brasileira. Discurso proferido pelo Presidente da entidade, Cesário Ramalho da Silva, na solenidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba1722a8f27e4d81bc96ebf4d977723cb10692a02a29fa52f3591bb4cdaddeed
+size 144

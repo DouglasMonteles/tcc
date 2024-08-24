@@ -1,1 +1,3 @@
-Pedido à Presidência para instalação da Comissão Especial destinada ao exame da Proposta de Emenda à Constituição nº 88, de 2007, sobre a criação do Fundo Especial de Desenvolvimento da Agricultura - FUNAGRI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f749ebf984e8734f2816cf34d7a90edd89ddf51e5e51cb80cf0d006d3498e1a3
+size 219

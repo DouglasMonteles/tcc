@@ -1,1 +1,3 @@
-Considerações sobre o livro Dossiê Abrasco: um alerta aos impactos dos agrotóxicos na saúde, baseado na Campanha Permanente contra os Agrotóxicos e pela Vida, da Associação Brasileira de Saúde Coletiva - ABRASCO. Atividade parlamentar do orador. Necessidade da construção de agenda institucional e popular de mudança de hábitos na produção rural brasileira, com a eliminação do uso indiscriminado dos venenos agrícolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9d93bce885b0e59fdd09493edbee7c1bcb11f9b00ccb15bb63b122c0ebadf45
+size 437

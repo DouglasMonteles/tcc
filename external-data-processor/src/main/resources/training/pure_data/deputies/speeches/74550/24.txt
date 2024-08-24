@@ -1,1 +1,3 @@
-Retirada da alteração 3 ao Projeto de Lei de Conversão da Medida Provisória  451 de 2008 (Altera a legislação tributária federal, e dá outras providências), relativa à reduação a zero as alíquotas da contribuição para o PIS/PASEP e da COFINS incidentes sobre a receita bruta auferida por comerciantes com venda de bicicletas e outros ciclos incluindo os triciclos, sem motor, cadeiras de rodas e outros veículos para inválidos e partes e acessórios de veículos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f8977b566241ebf59f291b5c3d0e349afa584a87fd681e5c49263ba4ab80a54
+size 480

@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Izalci em defesa da aprovação, pela Casa, de projeto de lei de interesse do Tribunal de Justiça do Distrito Federal e dos Territórios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d163417956564b225059b97936cec60e18fdb90b2a282f81dc58da6f3888dafe
+size 181

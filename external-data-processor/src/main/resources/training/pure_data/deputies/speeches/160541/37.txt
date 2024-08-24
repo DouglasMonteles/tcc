@@ -1,1 +1,3 @@
-Posicionamento contrário do PP ao art. 5º do Substitutivo do Senado ao Projeto de Lei 708 de 2007 (Institui a Política Nacional de Integração Lavoura-Pecuária-Floresta e altera a Lei nº 8.171, de 17 de janeiro de 1991), que trata da concessão de bônus a título de pagamento por serviços ambientais aos mutuários que comprovarem a recuperação de passivos ambientais, a melhoria ecológica das áreas exploradas, a redução das emissões de gases de efeito estufa e a estocagem de carbono no sistema, objeto de DVS, visando ao seu restabelecimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f3a9ec437b382504532eae6a8e50a8c1cae1596dcf23af4e5e748abcffa867c
+size 561

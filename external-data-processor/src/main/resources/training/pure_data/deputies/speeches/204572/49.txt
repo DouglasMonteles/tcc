@@ -1,1 +1,3 @@
-Importância da adoção de medidas efetivas para a redução dos índices de violência contra a mulher no País. Apresentação do Projeto de Lei nº 588, de 2019, sobre o aprimoramento da Lei Maria da Penha destinada ao combate à violência doméstica contra a mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bedb72bb8be3e94113d2f2b353565883881d130a4c353f990dd6656e6ca996ab
+size 272

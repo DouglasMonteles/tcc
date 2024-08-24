@@ -1,1 +1,3 @@
-Posicionamento contrário do PSOL ao parecer do Relator à Medida Provisória 401 de 2007 (Altera as Leis 11.134 de 2005 e 11 361 de 2006, que dispõe sobre a remuneração devida aos militares da Polícia Militar e do Corpo de Bombeiros Militar do Distrito Federal e sobre os subsídios das carreiras de Delegado de Polícia do Distrito Federal e de Polícia Civil do Distrito Federal), na parte em que manifesta opinião pelo não-atendimento dos pressupostos constitucionais de relevância e urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d37fc979ce76f01213de86ecd5c03259da2755fbf73734056c23100d91fcbb2
+size 505

@@ -1,1 +1,3 @@
-Falecimento do Bispo Emérito do Estado do Pará Dom Vicente Zico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40822a370d40696fd99d6c3973b1bd077a3bda4fde346fb166c089ffb5322a03
+size 66

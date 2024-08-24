@@ -1,1 +1,3 @@
-Transcurso do 186º aniversário do Município de Maués, no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc2af526a4c9c29a63949cb592b0e76ddbe76cc58172d8419e2287d8f925c1bf
+size 80

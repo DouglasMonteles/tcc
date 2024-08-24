@@ -1,1 +1,3 @@
-Importância da aprovação do projeto de lei sobre a garantia do acesso à Internet banda larga em escolas públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5aa69c1b61bc4bc989d5103db5c117509f9b91c9c371de11b7620ea3ee3d4867
+size 118

@@ -1,1 +1,3 @@
-Apresentação de requerimento de inclusão na pauta da proposta de emenda à Constituição sobre a regulamentação do plano de cargos e carreira de médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b447ae31641f06debc9054673bdc9632118769aa0245abc70af55aa364b7841
+size 160

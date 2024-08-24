@@ -1,1 +1,3 @@
-Não recebimento pela Presidenta Dilma Rousseff da advogada iraniana contemplada com o Prêmio Nobel da Paz, Shirin Ebadi, em visita ao País. Omissão do Ministério as Relações Exteriores sobre a anunciada legalização, pelo governo boliviano, de veículos roubados no País. Repercussão internacional da decisão do Supremo Tribunal Federal contrária à extradição do terrorista italiano Cesare Battisti. Repúdio à postura adotada pelo Governo brasileiro com relação ao caso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04c0d9ac3be1bc0280d192bbddae9ac3aafd1c2b582f6c42cf105e9725daff9f
+size 489

@@ -1,1 +1,3 @@
-Repúdio à truculência e desrespeito de funcionários do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA e do Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio, aos produtores rurais na Reserva Extrativista Chico Mendes e no Seringal São Salvador, Estado do Acre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01816003afb09ca7815393455a9f96f7f12aaf1573375b786980754c683a4702
+size 317

@@ -1,1 +1,3 @@
-Reconhecimento da luta da Presidenta Dilma Rousseff em prol da redemocratização do País e do bem-estar do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a9cb2d4bbc5b84f2004fdaa79da9cbad41b572a4508a6ad0592aecd5f6b1bac
+size 125

@@ -1,1 +1,3 @@
-Realização de marcha da sociedade pela paz em Belém, Estado do Pará, em homenagem às vítimas de violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19eb1507993ccfaebb72cc30daa79713b02af5bba4c08df76ded253fce9d9def
+size 113

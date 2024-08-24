@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de votação nominal do requerimento de retirada de pauta da Medida Provisória nº 879, de 2019, a respeito do reembolso de despesas de distribuidoras de energia elétrica. Realização, pela bancada do PT, de manifestação em frente ao Ministério da Justiça e Segurança Pública, ao ensejo do transcurso dos 500 dias da prisão do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ab1c9bc78fc408cc6b63e042f4be1f420989a9365c3d04bbd7ef1b0f9a109ad
+size 422

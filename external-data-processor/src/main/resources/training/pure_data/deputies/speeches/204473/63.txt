@@ -1,1 +1,3 @@
-Mau uso pela Governadora do Estado do Rio Grande do Norte de verbas repassadas ao Estado pelo Governo Federal para combate à pandemia de Coronavírus. Comparecimento do Ministro da Defesa na Comissão de Relações Exteriores e Defesa Nacional para apresentação dos projetos das Forças Armadas. Defesa de investigação, pela Polícia Federal, de desvios de verbas federais pelo Consórcio Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a5660afdf2af75317ea1235cae74b0f42db88db6f997dba3c8beb91023cdac1
+size 403

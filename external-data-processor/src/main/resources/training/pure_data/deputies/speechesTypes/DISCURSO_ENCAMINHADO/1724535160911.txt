@@ -1,1 +1,3 @@
-Transcurso do 38º aniversário de fundação do Município de Chapadão do Céu, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecfb1995ad57ae3bc0f48b57db73d68b1de9b20e5878b21b0a45d026f5c8ecd0
+size 99

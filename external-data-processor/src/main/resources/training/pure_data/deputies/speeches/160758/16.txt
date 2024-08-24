@@ -1,1 +1,3 @@
-Discussão da Medida Provisória 511 de 2010 (Dispõe sobre medidas para assegurar a sustentabilidade econômico-financeira do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, sobre autorização para garantia do financiamento do Trem de Alta Velocidade - TAV, no trecho entre os Municípios do Rio de Janeiro - RJ e Campinas - SP, e dá outras providências). Avaliação crítica da  matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14be255facb6b7151037da11c586dd4e3992fc0a24809c79d382e067be1b7539
+size 409

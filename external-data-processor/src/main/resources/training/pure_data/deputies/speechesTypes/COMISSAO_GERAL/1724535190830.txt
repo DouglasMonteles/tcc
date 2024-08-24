@@ -1,1 +1,3 @@
-Debate acerca da preservação e conservação da Amazônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea3b0570379d05851f0f96e15cf89b8b3a197e17b33b4d191083efdd38741887
+size 60

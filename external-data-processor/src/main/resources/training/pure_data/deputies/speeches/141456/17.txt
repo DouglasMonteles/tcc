@@ -1,1 +1,3 @@
-Apoio às propostas sobre o estabelecimento do marco regulatório da exploração de petróleo na camada pré-sal, apresentadas pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fe680558c57b4c68beac7707854399374f642b7a9842f91913469b8706d0af5
+size 171

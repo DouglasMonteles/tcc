@@ -1,1 +1,3 @@
-Integração pelo orador da comitiva do Ministro das Relações Exteriores, Carlos França, em viagem a Luanda, na Angola, para participação em reunião da Comunidade dos Países de Língua Portuguesa - CPLP. Apoio à proposta de emenda à Constituição sobre exclusão da incidência de ICMS na composição dos preços dos combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad19ae252c5568a5160b5979d776a459aa3fad9769560be48e0dab618f578378
+size 342

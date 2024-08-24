@@ -1,1 +1,3 @@
-Protesto contra a recriação do Ministério da Cultura. Coleta de assinaturas para a criação da CPI destinada à investigação sobre irregularidades no âmbito do Ministério da Cultura em relação à concessão de isenção tributária por meio da Lei Rouanet.  Encerramento, por falta de recursos financeiros, das atividades do coral Meninas Cantoras de Petrópolis, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ebcdac697bd332ead755de0cad2e6d254d9de55ddd5fb1869348c8be04fb071
+size 399

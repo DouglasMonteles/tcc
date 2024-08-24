@@ -1,1 +1,3 @@
-Elevação dos índices do desmatamento da Amazônia, segundo informações do Instituto Nacional de Pesquisas Espaciais - INPE. Conivência dos Governos dos Estados de Roraima e Mato Grosso com o desmatamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be6be7ca064231fd4fc0db0a2a7ce33cfa54d3359efee078920006a9acf95473
+size 210

@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a possível disputa territorial entre Venezuela e Guiana, envolvendo a soberania territorial brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d78fb9753297ec3bee3f6910ccd722041f3624f2530541700057bea2abde03e
+size 143

@@ -1,1 +1,3 @@
-Urgência na realização de reforma política no País. Desempenho do PRB nas eleições de 2010. Apoio do partido ao Governador reeleito do Estado da Bahia, Jaques Wagner, e à Presidenta eleita do Brasil, Dilma Rousseff. Significativo aumento do valor do salário mínimo no Governo Luiz Inácio Lula da Silva. Prejuízos causados aos alunos da rede pública de ensino, no Estado da Bahia, por repetidos movimentos grevistas de professores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:692a22c7b9fdb705af9be03912fdabe0d37e207cb60c74b38dfa0df4278dc507
+size 443

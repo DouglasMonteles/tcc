@@ -1,1 +1,3 @@
-Expectativa quanto à aprovação, em segundo turno, da proposta de reforma previdenciária em consonância com os anseios do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be75aad57814f780c0f1b8f13c8a32b69157fb151ee6cb16bec4fcb87c473994
+size 142

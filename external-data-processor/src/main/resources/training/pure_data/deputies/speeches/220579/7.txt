@@ -1,1 +1,3 @@
-Anúncio da apresentação de proposta de imprescritibilidade de crimes sexuais praticados contra crianças. Compromisso de luta pelo encarceramento de estupradores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5f5cfc6830bfa5d84671d6476e901d4ce2211ff0ab315b03f2bb6889324bd4e
+size 165

@@ -1,1 +1,3 @@
-Aprovação do relatório final da Subcomissão Especial sobre o Uso de Agrotóxicos e suas Consequências à Saúde. Necessidade de redução do uso de agrotóxicos na agricultura brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d894033cb845bb53f5125797115073e0ed6fe29b2ee8bbf16af6eaf71d5a3059
+size 192

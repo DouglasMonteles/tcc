@@ -1,1 +1,3 @@
-Realização, pela Comissão Parlamentar Memória, Verdade e Justiça, de audiência reservada para o depoimento de testemunhas de crimes ocorridos no período da ditadura militar. Repúdio ao comportamento inconveniente de Parlamentar da Casa durante os trabalhos da Comissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76de82b69a76bcb1eff2fe260cf4e33e8b6636796875f2072a45869901f5cba2
+size 278

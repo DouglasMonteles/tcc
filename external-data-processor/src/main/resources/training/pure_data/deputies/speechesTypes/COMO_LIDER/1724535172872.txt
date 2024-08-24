@@ -1,1 +1,3 @@
-Relevância do Projeto de Lei nº 1.605, de 2019, sobre a instituição do Estatuto da Pessoa com Câncer. Excelência da gestão do Prefeito Eduardo Braide, da Capital São Luís, Estado do Maranhão. Vacinação em massa da população ludovicense contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3c50c76f7905b36cd6232cccebec3dd86726c45953d465ce54648e8b707600d
+size 268

@@ -1,1 +1,3 @@
-Instalação de campi da Universidade Federal de São Paulo - UNIFESP nas zonas sul e leste da Capital paulista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce6dd29ad05a13ab93db51de0b6f456e47867d3a7e8ed9f28442f3048814dd68
+size 112

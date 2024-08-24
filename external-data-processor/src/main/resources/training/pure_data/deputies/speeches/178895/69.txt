@@ -1,1 +1,3 @@
-Presença da Vereadora Luciene Teixeira de Moraes, do Município de Tombos, Estado de Minas Gerais, acompanhada da irmã Aparecida Teixeira de Moraes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfb906e429024d5d970779eec44f25f6d8be55e11b5d4c43625ab72ef8485f69
+size 150

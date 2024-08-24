@@ -1,1 +1,3 @@
-Participação no seminário Conservação, Uso Múltiplo e Reúso da Água e Saneamento Básico. Transcurso do Dia Mundial do Meio Ambiente. Instituição da Semana Nacional do Meio Ambiente. Realização de eventos relacionados ao meio ambiente no Estado de São Paulo. Comprometimento do orador com a questão ambiental. Desafios do novo Ministro do Meio Ambiente, Carlos Minc. Celeridade na concessão de licenciamento ambiental para a construção de usinas hidrelétricas. Necessidade de debate da destinação adequada de resíduos sólidos pelo Poder Público em conjunto com o setor produtivo e a sociedade brasileira. Elaboração da Política Nacional de Resíduos Sólidos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e75d13de4ca7d366da5ddc928b94720f275e65bae086cfc588778e022e93c70e
+size 685

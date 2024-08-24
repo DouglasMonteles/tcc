@@ -1,1 +1,3 @@
-Congratulações à Polícia Federal pelo impedimento de atentado contra a vida do Senador Sergio Moro. Apreensão do orador quanto à segurança do ex-Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e91a57213b6ace4fad9d4cb540ceaa3ae60aade9e1d6569f8f4d024ea7889f1d
+size 178

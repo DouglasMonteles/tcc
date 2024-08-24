@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Jair Bolsonaro e à Ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, pela abertura de novos mercados para o agronegócio brasileiro, em especial para o catarinense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78f6b7a23198faa418049dabf428bb8637ae61d3aa2ee9cce925c12e648ce947
+size 212

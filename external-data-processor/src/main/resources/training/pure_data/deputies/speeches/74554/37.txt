@@ -1,1 +1,3 @@
-Visita do orador às instalações do Comando-Geral de Operações Aéreas - COMARA, em Belém, e ao Município de Tiriós, no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b57361fdaaaf26b41d084b5715339919c86a6ae9d0fa7e3517d3ae75523d8f31
+size 143

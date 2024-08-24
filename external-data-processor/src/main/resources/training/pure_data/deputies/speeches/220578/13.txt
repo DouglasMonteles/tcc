@@ -1,1 +1,3 @@
-Escalada dos crimes de estupro e assédio sexual no Brasil. Apresentação do Projeto de Lei nº 3.777, de 2023, sobre o pagamento de indenização às vítimas de crimes contra a liberdade sexual. Defesa de votação da propositura em caráter de urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8772069047c55058770540c6d07a493091b7cb613e12e28733ef7081d2ba91b7
+size 258

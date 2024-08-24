@@ -1,1 +1,3 @@
-Transcurso do 125º aniversário de emancipação político-administrativa dos Municípios de Colombo e Araucária, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2231189df3ddd9a7e7f1e3a51e0af3b994cc1fe045ff91b13563c056ad8a625
+size 134

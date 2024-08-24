@@ -1,1 +1,3 @@
-Anúncio de orientação da bancada do PMDB pela manutenção de veto, no caso de cumprimento de acordo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86310263b97cd110c43ee57d08cca2fce3cb0e702b4fe79a050fe550ccc9bf51
+size 104

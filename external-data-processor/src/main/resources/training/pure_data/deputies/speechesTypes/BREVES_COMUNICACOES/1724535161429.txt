@@ -1,1 +1,3 @@
-Implantação de sistema de transformação de dejetos da suinocultura e da bovinocultura em biogás, no Município de Marechal Cândido Rondon, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f82ee516263372c28a4f6b103fe1e650c7944cff065e6bff05d0cf072983180e
+size 163

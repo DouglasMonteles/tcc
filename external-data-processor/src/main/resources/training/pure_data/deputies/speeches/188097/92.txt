@@ -1,1 +1,3 @@
-Avanço da insegurança alimentar e da fome e escalada dos preços dos alimentos no Brasil. Inexistência de política de apoio à agricultura familiar no Governo Jair Bolsonaro. Importância do setor para a produção de alimentos para consumo da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af6302214ad7e61fe8c883b9faebb906564e0af5b6896cd53e802c0e3d67778a
+size 271

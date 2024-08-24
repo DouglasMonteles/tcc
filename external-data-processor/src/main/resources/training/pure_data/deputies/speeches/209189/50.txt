@@ -1,1 +1,3 @@
-Transcurso dos 500 dias da prisão do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4487bde7472010c76b76bf038196fda0c3839b91790eca255fd1590b44ffc526
+size 79

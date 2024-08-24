@@ -1,1 +1,3 @@
-Inconformismo da população brasileira com reajustes continuados de tarifas de energia elétrica. Cobrança ao Governo Federal de revisão da política energética.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8e16521cf1095e40c8d73ff2b07060113b8c3076d1083bf6f247e5597226b2e
+size 165

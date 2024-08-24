@@ -1,1 +1,3 @@
-Prioridade das nações da Comunidade Europeia na preservação ambiental. Realização de coleta seletiva e reciclagem de lixo nos Municípios de Curitiba e Londrina, Estado do Paraná; Itabira, Estado de Minas Gerais, e Santo André e Santos, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0808498100443d1b6bad6fbfbd815b4978ccc227e6dc372da1fdc3e410bde53f
+size 266

@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Agente Comunitário de Saúde. Indignação com veto a lei de interesse da categoria. Contrariedade ao lançamento do Programa Criança Feliz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:018665f0b3423628d8da5091760aba2da9f9099506f9ee86ee63cb4b347e1eaf
+size 172

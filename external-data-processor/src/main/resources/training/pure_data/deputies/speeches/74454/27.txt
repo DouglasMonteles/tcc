@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Administrador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8f626a18e7cf41888921bccda6bf18a2dcd5afd569d1d3ff4b1da407dcde791
+size 44

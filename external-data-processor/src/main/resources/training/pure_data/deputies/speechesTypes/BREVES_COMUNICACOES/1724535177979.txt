@@ -1,1 +1,3 @@
-Sugestão à Presidência de utilização do Regimento Comum do Congresso Nacional como parâmetro para a revisão do Regimento Interno da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8df869b96f864efe7f8ad34f0df06144cbade722e509420bb53abb4878e58966
+size 144

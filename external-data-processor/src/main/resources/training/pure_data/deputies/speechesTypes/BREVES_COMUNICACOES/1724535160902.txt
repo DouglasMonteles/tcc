@@ -1,1 +1,3 @@
-Apelo aos Governadores Estaduais, aos Prefeitos Municipais e Secretários de Educação por retomada das aulas presenciais, adotados os protocolos sanitários de combate ao coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f86955b57cff53fc46d7052b305c39ef7995fc2f12567de6059d615af8457566
+size 186

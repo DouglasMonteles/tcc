@@ -1,1 +1,3 @@
-Urgência de realização, pelo Governo Federal, de obras de recuperação da BR-155, entre os Municípios de Xinguara e Eldorado dos Carajás, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:619f933e6c64479aa88582b25530b9d544b37bdade7e43952e6f881b29a2fa86
+size 160

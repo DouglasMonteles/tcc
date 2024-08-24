@@ -1,1 +1,3 @@
-Regozijo com a aprovação do Projeto de Lei nº 1.084, de 2023, sobre a alteração da Lei nº 10.891, de 2004, para garantia de direitos às atletas gestantes ou puérperas, no âmbito do Programa Bolsa-Atleta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3786bd31bae16841732606ccb0df30cb4506c811bd0d79641e4712d7627e3e32
+size 212

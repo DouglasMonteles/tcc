@@ -1,1 +1,3 @@
-Transcurso do 61º aniversário de emancipação político-administrativa do Município de Sapopema, no Estado do Paraná. Inauguração da Rua Sergipe Inteligente no Município de Londrina. Agradecimento à Agência Brasileira de Desenvolvimento Industrial - ABDI. Desassociação de cuidados paliativos da eutanásia. Defesa de disseminação de cuidados paliativos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69c4afc1339db83224ac361d4ebb3dfa397fe26a13e2693a4de87ca7d63087e0
+size 368

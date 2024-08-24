@@ -1,1 +1,3 @@
-Realização do 13º Seminário Nacional de Desenvolvimento da Suinocultura, no Município de Foz do Iguaçu, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1693f9e1397db204b6df2c1b6dec8fab75303f4bb17d94944832f08d72c21731
+size 128

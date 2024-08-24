@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento nº 6.543, de 2017, sobre a criação de Comissão Externa para acompanhamento das investigações de recente chacina de trabalhadores rurais no Município de Pau d'Arco, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20e2431537f6848120e9c856ef6cfb7432d3e9d65c69244d59b6860e6cbdc315
+size 231

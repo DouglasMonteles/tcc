@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados da Prefeita Municipal de Bela Vista de Goiás, Nárcia Kelly, acompanhada de representantes da respectiva Câmara de Vereadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09796f5392d1886c71fc5ddb5022910e55027d7451a8d24878b36d4802084acf
+size 163

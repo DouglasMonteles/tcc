@@ -1,1 +1,3 @@
-Atenção especial do Governo Luiz Inácio Lula da Silva para com o Estado do Acre atingido por enchentes. Revitalização do Igarapé São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d9cd06928ec392f8f907d9a7d2addde1349c1d16a425ef797dbfcab7178bc70
+size 150

@@ -1,1 +1,3 @@
-Regulamentação de lei estadual a respeito do peso e da espessura de sacolas plásticas oferecidas nos supermercados do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4397232729e77954b9b88ddeb09fbb28096fc9937c3035b16a49732fdfcd3f9e
+size 139

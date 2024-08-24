@@ -1,1 +1,3 @@
-Solidariedade aos participantes na marcha pela redução da jornada de trabalho para 40 horas semanais, em Brasília, Distrito Federal. Efeitos positivos para empresários e trabalhadores da diminuição da jornada semanal de trabalho na empresa de confecções De Chelles, Nova Friburgo, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b24eb3f4026bb1aa29edc62565e4b6a6034ef8d422839f5692616f79a2549114
+size 314

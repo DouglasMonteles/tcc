@@ -1,1 +1,3 @@
-Emissão de parecer à Medida Provisória nº 944, de 2020, relativa à instituição do Programa Emergencial de Suporte a Empregos, e às Emendas de nºs 1 a 261 apresentadas conforme o caput do art. 3º do Ato Conjunto das Mesas da Câmara dos Deputados e do Senado Federal nº 1, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3df28f217385587ce90f9c22389e9365302dc3eebead6b5cf6fba3e24632df34
+size 291

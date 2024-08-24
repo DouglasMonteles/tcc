@@ -1,1 +1,3 @@
-Inexistência de motivos para comemoração do Dia Internacional da Mulher. Pedido à Casa de apoio ao Projeto de Lei nº 977, de 2023, sobre a concessão do porte de arma de fogo às mulheres vítimas de violência doméstica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85ff3d40ff7623aff202855d8b2f0acd4f31d225c77778c7431a3d9df9350d2c
+size 227

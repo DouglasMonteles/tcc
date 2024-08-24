@@ -1,1 +1,3 @@
-Esgotamento do aterro sanitário, o lixão, instalado entre o Município de Marituba e o Refúgio da Vida Silvestre, na Região Metropolitana de Belém, Estado do Pará. Engajamento do orador na luta pela desativação do aterro e busca de alternativas para a destinação do lixo recolhido nos Municípios de Belém, Ananindeua e Marituba. Não preenchimento de vagas no Programa Mais Médicos no Município de Melgaço, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5102d1cb43d5980429242cbe43c504410ade755a47811184ddb527367df9e515
+size 438

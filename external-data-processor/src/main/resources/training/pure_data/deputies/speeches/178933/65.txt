@@ -1,1 +1,3 @@
-Esclarecimento de pontos da Medida Provisória nº 752, de 2016. Pedido aos Deputados de voto favorável à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bce35ad7ecc43981f55cf26bed23d57219bff6eba2ac46980acc3bdcbfd30962
+size 117

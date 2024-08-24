@@ -1,1 +1,3 @@
-Oportunidade da aprovação, pela Casa, da Medida Provisória nº 404, de 2007, a respeito da data de pagamento de benefícios previdenciários. Apoio à proposta de extensão dos percentuais de reajustes do salário mínimo às aposentadorias e pensões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7776924c8a8f3bcfb0236053ae9c8b6e1a433cf4d56ef18ad0e285805b1015cd
+size 255

@@ -1,1 +1,3 @@
-Descaso do Presidente Jair Bolsonaro e do Ministro do Meio Ambiente, Ricardo Salles, com o vazamento de petróleo no litoral da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e37583f2b26b8083f080385d680f22a36ab598846f861ba4612d1fb13bbcfd2
+size 145

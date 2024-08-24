@@ -1,1 +1,3 @@
-O Deputado apresentou Questão de Ordem baseada no art. 187, §4º do Regimento Interno da Casa, mencionando que o Deputado Covatti Filho e outros parlamentares relataram dificuldades em votar pelo aplicativo Infoleg.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f848d4b936b5c1657ecff715a6d46822172e3e8ac28025d504e705ce2e7f5988
+size 217

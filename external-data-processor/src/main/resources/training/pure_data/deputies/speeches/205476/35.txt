@@ -1,1 +1,3 @@
-Encerramento da trezena de Santo Antônio, no Município de Guanambi, Estado da Bahia. Saudações à comunidade católica local.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd7d2405c8a35929660c20e5af7b677266ca812af88c80bf9f205583f404f9f7
+size 129

@@ -1,1 +1,3 @@
-Preocupação com a escalada de violência no Estado do Rio de Janeiro. Repúdio às declarações do Governador fluminense, Sérgio Cabral, contrárias à aprovação da Proposta de Emenda à Constituição de nºs 300, de 2008, sobre instituição de piso salarial nacional para as categorias de policiais e bombeiros militares. Defesa de melhorias salariais e de trabalho para os agentes de segurança pública no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a7a02b6923387c28e8556b46eb2d0b6ed8144acbd71f47846b608b66a870157
+size 423

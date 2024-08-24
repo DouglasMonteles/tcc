@@ -1,1 +1,3 @@
-Manifestação do orador favorável à permanência do Conselho do Controle de Atividades Financeiras - COAF na alçada do Ministério da Justiça e Segurança Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:841df89695b516dab15d1c26ef6bd6fe2e1846ef8c7d50c6d526dd8e450bff18
+size 169

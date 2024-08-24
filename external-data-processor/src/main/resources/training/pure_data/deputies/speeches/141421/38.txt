@@ -1,1 +1,3 @@
-Posicionamento favorável do PP à porrogação, por 10 dias, do prazo de funcionamento da CPI destinada  à investigação dos reajustes de tarifas de energia elétrica (CPI da ANEEL).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d9bed86293a02602cfff38b66cdbf9bb6bd2ab64459bdd09f95d4f6d0916d48
+size 185

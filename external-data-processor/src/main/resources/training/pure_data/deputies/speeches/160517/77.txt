@@ -1,1 +1,3 @@
-Congratulações à Presidente Dilma Rousseff pela redução do spread bancário e das taxas de juros. Necessidade de realização, pelo Governo Federal, de investimentos na área de infraestrutura do Estado do Espírito Santo, especialmente no sistema portuário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:182ae9718d76e66a772dbaef7a5b98f3d91d6d499eddcd11016dec7ad35afa23
+size 264

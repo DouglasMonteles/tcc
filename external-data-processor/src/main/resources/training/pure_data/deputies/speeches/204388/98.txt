@@ -1,1 +1,3 @@
-Contestação ao discurso da Oposição a respeito do transporte de drogas na aeronave presidencial de Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:824e2aebbcd845184c92baabea8e5ede1820c856253dc45bbb7b3acc703ae357
+size 118

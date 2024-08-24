@@ -1,1 +1,3 @@
-Posicionamento favorável do Governo ao  parecer pela admissibilidade da Medida Provisória 401 de 2007 (Altera as Leis 11.134 de 2005 e 11 361 de 2006, que dispõe sobre a remuneração devida aos militares da Polícia Militar e do Corpo de Bombeiros Militar do Distrito Federal e sobre os subsídios das carreiras de Delegado de Polícia do Distrito Federal e de Polícia Civil do Distrito Federal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa8aa2979d900deb27b79990fa0ca32295020a01cd6f2a5dd34d88e87f895a41
+size 401

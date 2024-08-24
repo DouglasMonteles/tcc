@@ -1,1 +1,3 @@
-Relato da visita do orador a Municípios do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b80b9cb950af518a6c52248cf4927e56fe83c9f583b7c799076f017adb936754
+size 60

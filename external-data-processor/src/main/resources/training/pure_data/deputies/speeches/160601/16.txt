@@ -1,1 +1,3 @@
-Fuzilamento do brasileiro Rodrigo Gularte na Indonésia. Esperança de não envolvimento de jovens brasileiros com drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bca1f1571467d99d96ff69e855f32c92025e8cbdb57bef1c63314050cf30eb3
+size 122

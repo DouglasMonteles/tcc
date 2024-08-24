@@ -1,1 +1,3 @@
-Necessidade de reação da Casa contra decisões arbitrárias tomadas pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes, contra o Deputado Daniel Silveira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c6ed5e026f91ff4158dc636dc61ddc4aff3b592f598cf2aa3a8ae2d5db839cd
+size 168

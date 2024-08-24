@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios. Comprometimento do orador com a causa municipalista. Destinação pelo Parlamentar de vultosos recursos orçamentários às pequenas municipalidades no Estado da Bahia. Alcance social do Programa Minha Casa, Minha Vida e do Programa Água para Todos. Agradecimento a Prefeitos Municipais do PSD pelo apoio à campanha eleitoral do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a078e610e228daf7af819a9da0fa44179a69f9cd500838e1d1c953a70f4e868c
+size 405

@@ -1,1 +1,3 @@
-O Deputado expressou gratidão pela presença e trabalho destacado da Vereadora Monica Cunha, do Rio de Janeiro, enaltecendo sua luta e liderança na defesa das mães vítimas da violência e na criação da Comissão Especial de Combate ao Racismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d235f0e56595f5b7dcd4f1cd57b41c6d141faf5b10f8706249bc743cfdcb329a
+size 249

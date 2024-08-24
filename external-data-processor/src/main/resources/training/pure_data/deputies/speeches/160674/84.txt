@@ -1,1 +1,3 @@
-Falta de investimentos governamentais no setor educacional paraibano. Instalação de unidade do Instituto Federal de Educação, Ciência e Tecnologia - IFET no Município de Santa Luzia, Estado da Paraíba. Implantação do curso de Engenharia Civil no campus da Universidade Federal de Campina Grande instalado no Município de Pombal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdedcab56ef594415bf83f44e36d81f23c75cc2007575c5ea687d92ff18ec0d7
+size 338

@@ -1,1 +1,3 @@
-Repúdio à nova lei européia de imigração. Urgente ratificação, pelo Governo brasileiro, de convenção da Organização das Nações Unidas - ONU sobre a regulamentação dos direitos dos trabalhadores migrantes e de seus familiares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e8bf5bbbae130334533d4172caeb40c077cc7e4d8ba70e4afd5f28aac95f6df
+size 240

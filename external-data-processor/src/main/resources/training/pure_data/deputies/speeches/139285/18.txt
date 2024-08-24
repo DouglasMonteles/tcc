@@ -1,1 +1,3 @@
-Transcurso do 18º aniversário do Estatuto da Criança e do Adolescente. Críticas à decisão do G8, grupo dos 7 países mais industrializados do mundo e Rússia, sobre redução da emissão de gases de efeito estufa. Solicitação ao Governo Federal de aumento da pressão sobre o governo dos Estados Unidos da América para revisão de sua posição sobre redução do lançamento de dióxido de carbono na atmosfera.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7daa0f1a46f538f7a146e6115751d437d02c0d359c3f168c13ff71a3ed62780
+size 421

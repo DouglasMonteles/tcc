@@ -1,1 +1,3 @@
-Encaminhamento, ao Conselho de Ética e Decoro Parlamentar, de Representação contra a Deputada Carol Dartora por divulgação de fake news a respeito da prática de intolerância religiosa pelo orador; bem como de processos à Advocacia-Geral da União - AGU e ao Supremo Federal Federal contra a Parlamentar. Repúdio à atuação dos Deputados do PT e ao governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:754e9114658fb76f0cd349afdbf9c7f3b45afc0991f3c0420c7f9daa71da81ac
+size 375

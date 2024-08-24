@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global oferecida ao Projeto de Lei nº 1.481-A, de 2007, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6e7b0f2ae929e5bdcfd39015c41a92e74ea0e6ac9ecfb723aa0e5c36cf4b81d
+size 145

@@ -1,1 +1,3 @@
-O Deputado, Relator da matéria, agradeceu pela aprovação do Projeto de Lei nº 7.926, de 2014, que institui o Adicional de Especialização e Qualificação aos servidores do quadro de pessoal da Secretaria do Tribunal de Contas da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5677315e4febc78df2396050923247d94f796ed1c15354e50d8ff345ee84883b
+size 242

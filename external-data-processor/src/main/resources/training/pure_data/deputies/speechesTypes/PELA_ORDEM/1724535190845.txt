@@ -1,1 +1,3 @@
-Natureza retrógrada e arbitrária da retomada da prisão disciplinar administrativa de policiais e bombeiros militares, no Estado do Rio de Janeiro. Assassinato de agentes da segurança pública no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4640a34004743682de7466fdad8caa19588254916481eaeb87f504ff113efaca
+size 206

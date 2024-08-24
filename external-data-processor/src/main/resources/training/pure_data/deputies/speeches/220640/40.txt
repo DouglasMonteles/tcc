@@ -1,1 +1,3 @@
-A Deputada discutiu o Projeto de Lei nº 2.975, de 2023, que introduz a situação específica da mulher indígena na legislação de enfrentamento da violência e de promoção da saúde e da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a896b9fd66ea8f386d1f1f09afb4451a409a665d739b6007f6c753ae368f3b12
+size 204

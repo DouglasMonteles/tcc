@@ -1,1 +1,3 @@
-Posicionamento contrário a proposição relativa à descriminalização do uso de caixa dois em campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a852c84fdc8cdf59e0d0253f8e33772f4c708aa7eb624d53764a155ee18f63f4
+size 118

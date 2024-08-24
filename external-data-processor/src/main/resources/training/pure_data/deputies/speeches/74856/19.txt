@@ -1,1 +1,3 @@
-Apoio a iniciativas de combate à prostituição infantil e à pedofilia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a005beaf1883129a42b8e3009a5f6eb8e68d181c2a124d8ada2453faec917ae
+size 73

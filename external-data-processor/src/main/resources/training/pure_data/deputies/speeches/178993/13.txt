@@ -1,1 +1,3 @@
-Reunião da bancada da  Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural com a Ministra da Agricultura, Pecuária e Abastecimento, Kátia Abreu, para discussão sobre o desenvolvimento  na região denominada MATOPIBA, a nova fronteira agrícola brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76ff618bcef4579a84c3d801a2edb7774873ae2031d80a57ec31a08366351638
+size 282

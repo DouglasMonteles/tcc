@@ -1,1 +1,3 @@
-Apelo ao Presidente Arthur Lira de votação do pedido de sustação da Ação Penal nº 1.044, de 2021, instaurada contra o Deputado Daniel Silveira, em tramitação no Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87d1580f603b7116db5d2d329d29ed8b87624a5d5fbf71153f6d5fe29dcff855
+size 195

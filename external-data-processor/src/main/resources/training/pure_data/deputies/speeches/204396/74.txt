@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 365, de 2020, relativo à alteração da Lei nº 13.709, de 2018, (Lei Geral de Proteção de Dados Pessoais), com vista à inclusão de entidades filantrópicas no rol de exceções à aplicação do diploma legal, e ao estabelecimento de limite para a aplicação de multa a tais entidades. Participação do orador em reunião com o Ministro do Tribunal de Contas da União - TCU, Vital do Rêgo Filho, para debate da nova concessão do Parque Nacional do Iguaçu, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62ef6f154c76802075a2cd4849f64fbd72a68ede16205a4b062f9153aac1521c
+size 603

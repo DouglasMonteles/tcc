@@ -1,1 +1,3 @@
-Realização da Feira Agropecuária Industrial do Município de Ourinhos, Estado de São Paulo. Importância do credenciamento do Hospital do Câncer de Ourinhos junto ao Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:697176b42eac03fd7fa1317a13498aed8bb33924fdbbac6478feb3cbfa9be304
+size 202

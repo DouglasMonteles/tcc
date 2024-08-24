@@ -1,1 +1,3 @@
-Congratulações ao Republicanos e ao seu Presidente, Deputado Marcos Pereira
+version https://git-lfs.github.com/spec/v1
+oid sha256:166d10f667dc45fd3e18965b794595bc5ba86f593db4a0a0c2eb64eb096eb3f8
+size 77

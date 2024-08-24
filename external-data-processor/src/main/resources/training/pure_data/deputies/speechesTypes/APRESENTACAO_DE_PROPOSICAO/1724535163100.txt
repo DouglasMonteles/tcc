@@ -1,1 +1,3 @@
-Questão de ordem sobre o indeferimento, pela Presidência da Comissão de Direitos Humanos e Minorias, do requerimento de verificação nominal da votação do Projeto de Lei nº 81, de 2021, sobre as infrações administrativas por atos de racismo e homotransfobia nos estádios de futebol, pistas de atletismo, ginásios poliesportivos e demais equipamentos esportivos, nos Municípios e no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa3f140686a5e91c171fcf978fc08f0efa4c25e2b786a384b09c4d5e55ced61c
+size 411

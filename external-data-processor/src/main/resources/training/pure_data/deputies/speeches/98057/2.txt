@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de preferência para apreciação da Medida Provisória nº 852, de 2018,  sobre o Projeto de Lei de Conversão nº 33, de 2018, adotado pela Comissão Mista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2a02599c27a68f3962c5625a06d74d053a463d1352595f264ddb369a5aa8744
+size 211

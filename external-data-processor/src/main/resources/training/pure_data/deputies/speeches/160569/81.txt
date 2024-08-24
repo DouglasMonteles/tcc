@@ -1,1 +1,3 @@
-Protesto contra a realização pela revista Veja de investigação indevida contra o ex-Deputado Federal José Dirceu. Oportunidade de regulação dos meios de comunicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1332c436b635276faf871f1b40bd067c60e106581c8de6db901ee76bb0bf4fbb
+size 174

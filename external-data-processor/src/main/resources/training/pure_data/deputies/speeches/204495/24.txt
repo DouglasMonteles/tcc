@@ -1,1 +1,3 @@
-Pedido ao Governo Federal para conservação da BR-422 e conclusão da pavimentação asfáltica das BRs-230 e 163, no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ac5e584e5056e1249c79910f7799737fb699f63e39ae8d4eeafe4bd76145e96
+size 135

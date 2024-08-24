@@ -1,1 +1,3 @@
-Congratulações aos bombeiros militares do Distrito Federal e aos Deputados Rôney Nemer, Alberto Fraga e Ronaldo Fonseca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6558d8546fa985dbfdbed88c5c2c9268722db1b2a58230997ba38bbfa873998
+size 123

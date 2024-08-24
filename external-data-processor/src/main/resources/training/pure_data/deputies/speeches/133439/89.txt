@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT  ao Requerimento de regime de urgência urgentíssima para o Projeto de  Resolução 178 de 2013 (Dispõe sobre a estrutura temporária da Liderança do Partido Social Democrático - PSD, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:0115fe55d919b27c2ec793337be56649a225e41f19f49b795e61526497d403fc
+size 249

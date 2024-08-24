@@ -1,1 +1,3 @@
-Agradecimento aos Ministros da Defesa e da Justiça e Segurança Pública pelas ações adotadas em prol da segurança pública no Estado do Rio de Janeiro. Aprovação pela Casa de requerimento para tramitação em regime de urgência do Projeto de Lei nº 3.376, de 2015, originário do Senado Federal, sobre a inclusão do crime de posse ou porte ilegal de arma de fogo de uso restrito no rol de crimes hediondos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e3c91f6fc64770146d433212f309b626f7944a2fcf54d774a9100ec6e6d2f3a
+size 416

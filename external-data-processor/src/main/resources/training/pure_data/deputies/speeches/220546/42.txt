@@ -1,1 +1,3 @@
-O Deputado repudiou o ato de agressão ocorrido durante a sessão, na qual o Deputado Washington Quaquá deu um tapa na cara do Deputado Messias Donato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71a994f1470fac7c7b73d312de68d9503b716247f1b4748f02713f5e866d41d0
+size 152

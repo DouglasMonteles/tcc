@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Deputado Gilberto Nascimento, recém-filiado aos quadros do PSD. Retomada das obras do Teatro Municipal de Londrina, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d31947fa805a0a73626885831865a167b150925fc111b2c13cf9d99f9cba6b0d
+size 168

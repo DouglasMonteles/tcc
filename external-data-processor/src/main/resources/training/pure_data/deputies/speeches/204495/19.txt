@@ -1,1 +1,3 @@
-Transcurso dos 23 anos do massacre de trabalhadores rurais sem terra pela Polícia Militar, no Município de Eldorado do Carajás, Estado do Pará. Participação em evento na chamada Curva do S, local da chacina dos camponeses, promovido pelo Movimento dos Trabalhadores Rurais Sem Terra - MST.  Alerta sobre as consequências do incentivo governamental aos ataques contra ativistas e movimentos sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a192f178d9af869deb5848057265a2a5a3145fb268a28320ae7bd32a4cd3a88a
+size 405

@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM  ao Requerimento de  realização de sessão extraordinária, após esta sessão, para deliberação do Requerimento 1.775 de 2011(Convocação do Ministro-Chefe da Casa Civil, Sr. Antonio Palocci Filho, para explicar a vultosa evolução patrimonial de seus bens - no período de quatro anos - objeto de denúncia veiculada pelo jornal Folha de São Paulo).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec5c84ca7a6292007801b01d540d3deeb6e5eda66958c5b99a2166e9ab41b652
+size 391

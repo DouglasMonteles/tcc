@@ -1,1 +1,3 @@
-Congratulações à Presidenta Dilma pela liberação de recursos para a duplicação da BR-381 entre Belo Horizonte e o Município de Governador Valadares, Estado de Minas Gerais. Participação do orador em festival de vinho realizado no Município de Catas Altas, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cff3d52955591741c15a03e8a75fbb05b3c290e061285a5f583953db02840669
+size 290

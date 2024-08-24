@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT  ao Requerimento de regime de urgência para votação do Projeto de Lei 2.330 de 2011 (Dispõe sobre as medidas relativas à Copa das Confederações de 2013 e à Copa do Mundo FIFA 2014, que serão realizadas no Brasil - Lei Geral da Copa).
+version https://git-lfs.github.com/spec/v1
+oid sha256:431a2e662e3f8ba29712c68aae880d1fa5ab3ae01d160406d05efa71ccb0b07d
+size 275

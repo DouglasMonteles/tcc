@@ -1,1 +1,3 @@
-Críticas ao comportamento de membros do DEM durante o debate pela Comissão de Finanças e Tributação do Projeto de Lei nº 3.931, de 2008, sobre o reconhecimento da responsabilidade do Estado brasileiro pela demolição da sede da União Nacional dos Estudantes - UNE, em 1964, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df2a2a204383d3f711e11c79407604b70838e0c320247e57d04744ce9b4c7fe1
+size 326

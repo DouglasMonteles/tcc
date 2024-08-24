@@ -1,1 +1,3 @@
-Agradecimento à Presidenta Dilma Rousseff pelo reconhecimento de comunidades terapêuticas destinadas à recuperação de dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b33502d5d7b2748468aed867b38321b052ad39b0fbfb79e06c44a46cb0dc64bd
+size 145

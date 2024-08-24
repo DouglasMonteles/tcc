@@ -1,1 +1,3 @@
-Posicionamento contrário do PSDB ao Requerimento de regime de urgência para o Projeto de Lei 4.470 de 2012 . Defesa da retomada da apreciação de matéria constante da pauta da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac3a91d2c53ac03d4dbf7b7d737aeb93d2c0d086a47fc2a3ccee5fd5ffd2ea2e
+size 193

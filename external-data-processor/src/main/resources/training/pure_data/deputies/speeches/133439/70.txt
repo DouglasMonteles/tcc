@@ -1,1 +1,3 @@
-Regozijo com a retirada de assinaturas do recurso destinado à submissão, ao Plenário, da apreciação do projeto de lei sobre a instituição do novo Plano Nacional de Educação - PNE. Defesa da destinação de 10% do Projeto Interno Bruto - PIB brasileiro para o setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9def2ada675bb859452ca323a4272907b7e3f7bdb2d0a86b8e2ff4d5f7afbf04
+size 286

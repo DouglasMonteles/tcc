@@ -1,1 +1,3 @@
-Realização do 1º Seminário Nacional da Juventude Rural: A permanência do jovem no campo e a continuidade da agricultura familiar no Brasil, em auditório da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3e2e1d975accbee576198782dc37b4f8c86ae6739c6be78af83ac0885f751bb
+size 167

@@ -1,1 +1,3 @@
-Inadmissibilidade da não elaboração dos planos estaduais e municipais de educação para atendimento às exigências do Plano Nacional de Educação. Defesa de aprovação da chamada Lei de Responsabilidade Educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e70255f6f78b37f222f1a6b4bfab6eed15b686eb4af36abb6820e52dadfb2043
+size 222

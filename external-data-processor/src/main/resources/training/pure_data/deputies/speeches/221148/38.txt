@@ -1,1 +1,3 @@
-O Deputado expressou sua preocupação com a tragédia em andamento no conflito entre Israel e Palestina. Ele lamentou as mortes de crianças de ambos os lados e enfatizou a importância de se preocupar com todas as vítimas inocentes, independentemente da sua origem. Também condenou os ataques terroristas do Hamas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6c98704fe96f160645ad5e35697468761c6ba0fe1f7d75488129f3ec9cfcafc
+size 318

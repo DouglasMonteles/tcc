@@ -1,1 +1,3 @@
-Incremento da indústria paranaense.Eficiência da gestão do Governador Ratinho Júnior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb414d21959dcee12276c440d7db1d67de03c23b4da85189d40dc1820c31c52f
+size 89

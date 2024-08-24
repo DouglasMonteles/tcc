@@ -1,1 +1,3 @@
-Inconsistência dos esclarecimentos prestados pelo Ministro da Justiça e Segurança Pública, Flávio Dino, à Comissão de Segurança Pública e Combate ao Crime Organizado, a respeito dos atos antidemocráticos praticados contra as sedes dos Poderes da República, e da sua visita ao Complexo da Maré, reduto do crime organizado, no Rio de Janeiro, Estado do Rio de Janeiro. Defesa de prisão do Ministro da Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eba576d9da72371cbc61f9a0f650fdb9ac4f77c101ec6770bc5a4a171401f7dc
+size 421

@@ -1,1 +1,3 @@
-Assinatura de convênio entre o Ministério do Turismo e o Governo do Estado da Bahia para realização de obra de infraestrutura na Feira de São Joaquim, em Salvador. Saudações aos Vereadores presentes na Casa. Outorga do título de Cidadã Baiana à Sra. Maria da Penha Maia Fernandes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fdfcd582b9d8df6a41741f600d6d292fe503b2a845096f2c1b36ced4be0a7ce
+size 290

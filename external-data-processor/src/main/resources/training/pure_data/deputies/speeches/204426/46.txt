@@ -1,1 +1,3 @@
-Atraso do Ministério da Educação no repasse de recursos para a Universidade Federal de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:337a5678c5cd352171da998e7e90d3ae995edace7f02c8e8bdcdaf53a0c9170c
+size 101

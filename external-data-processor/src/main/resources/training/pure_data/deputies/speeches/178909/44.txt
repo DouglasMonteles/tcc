@@ -1,1 +1,3 @@
-Anúncio de apresentação do Projeto de Lei nº 2.070, de 2015, sobre garantia de gratuidade no acesso à Internet em terminais rodoviários e ferroviários e em portos e aeroportos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd5f6d5d12a1e6b39276dc055d0cacf79c19ce8c74dcff8f73bcb760c4a81d41
+size 183

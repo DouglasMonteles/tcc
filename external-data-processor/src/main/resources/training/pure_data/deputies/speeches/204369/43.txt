@@ -1,1 +1,3 @@
-Presença, na Casa, de Vereadores da Câmara Municipal de Videira, Estado de Santa Catarina. Agradecimentos pelos votos concedidos à oradora na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc991b70dbec72e0d844b11e128bc5b887afd3ab45ce69ab28c8129c92673bf
+size 160

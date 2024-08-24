@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 948, de 2021, sobre a alteração do art. 2º da Lei nº 14.125, de 2021, com vista ao estabelecimento de regras de aquisição e doação de vacinas por pessoas jurídicas de direito privado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d69098cd0154176dd2452ee046ea1a1f673f2cb6a0905c302d9d96863e65ff6
+size 236

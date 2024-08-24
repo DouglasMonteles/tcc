@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Congratulação às mulheres ao ensejo da data. Apoio à manifestação realizada por mulheres agricultoras no Estado de São Paulo contra a liberação do cultivo de eucalipto transgênico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ece56d98ad6cc4fd2bc3708c9e2b41a8987d7c47bc9db9cd1ab5201fbcda8e1
+size 233

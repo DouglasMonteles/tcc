@@ -1,1 +1,3 @@
-Discussão da Medida Provisória nº 998, de 2020, sobre a alteração de diplomas legais e a transferência, para a União, das ações de titularidade da Comissão Nacional de Energia Nuclear, representativas do capital social das Indústrias Nucleares do Brasil S/A e da Nuclebrás Equipamentos Pesados S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efaf5f483bf9db88d57ade23339a13a2b304dfcbd4960f113ea9001953ed19cf
+size 310

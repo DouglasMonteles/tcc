@@ -1,1 +1,3 @@
-Transcurso do 44º aniversário de fundação do Clube de Campo Guanambi, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4317bc2e5e9e793304ac5a3cb4247bbef6b23e8377f94c3c5fb9d9f78ddbcc42
+size 93

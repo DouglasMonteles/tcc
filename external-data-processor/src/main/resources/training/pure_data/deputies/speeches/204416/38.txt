@@ -1,1 +1,3 @@
-Inconformismo do orador com a perda da eficácia da Medida Provisória nº 895, de 2019, sobre a criação de carteira de identificação estudantil digital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f11773c00fc5633b6939930278c7b3f247cc1d29edb93f157a5a9468ed0628a0
+size 157

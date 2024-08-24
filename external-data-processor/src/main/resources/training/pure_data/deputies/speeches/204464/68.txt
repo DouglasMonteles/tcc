@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 55 do projeto de lei de conversão da Medida Provisória nº 897, de 2019, acerca da instituição do Fundo de Aval Fraterno; do patrimônio de afetação de propriedades rurais; da Célula Imobiliária Rural; da escrituração de títulos de crédito e da concessão de subvenção econômica para empresas cerealistas, com vista à sua supressão. Solidariedade à jornalista Patrícia Campos Mello, diante de ofensas verbais do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f16604f6abd500e256c7ee7e1470af9013039faddb90c58c6f37416473628558
+size 557

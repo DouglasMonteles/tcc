@@ -1,1 +1,3 @@
-A Deputada expressou preocupação com a possibilidade de privatização da Companhia Pernambucana de Saneamento - COMPESA. Destacou os riscos de privatizações sem planejamento. Defendeu o acesso público e digno à água e se posicionou contra a privatização da COMPESA pelo governo estadual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8a0a1b00c7925982c6496e1635c23b38c9323b7da30542e23923aa76e54fe2c
+size 297

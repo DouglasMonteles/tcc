@@ -1,1 +1,3 @@
-Relevância da Medida Provisória nº 701, de 2015, para o setor sucroenergético, mediante refinanciamento de dívidas de produtores de cana-de-açúcar com a União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71e6db00f48d919a336761c33385a55ea36789b75e9f8e7a01615f9d0c8ea1c0
+size 167

@@ -1,1 +1,3 @@
-Associação à luta do Deputado Felipe Carreras em defesa do setor de produção de eventos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:610d1235631873a1a8a946313901946306e1417d0997ea331a386945dac930e9
+size 93

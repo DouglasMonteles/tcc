@@ -1,1 +1,3 @@
-Posse de Dom Juarez Marques Sousa da Silva como Arcebispo Metropolitano de Teresina, Estado do Piauí. Congratulações à Conferência Nacional dos Bispos do Brasil - CNBB pela escolha do tema Fraternidade e Fome para a Campanha da Fraternidade 2023. Sintonia entre a gestão petista e o pensamento cristão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afdbd33b0f33cf501daade3eaf57113091e903532306db83e21271a0639a3487
+size 309

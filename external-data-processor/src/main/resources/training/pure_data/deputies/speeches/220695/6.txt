@@ -1,1 +1,3 @@
-Importância de esclarecimento ao povo brasileiro das propostas governamentais relativas ao novo arcabouço fiscal e à reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82f902b06f15d84187ceaa1e8404eefa1558620cf8c675b335ade214777ee01c
+size 140

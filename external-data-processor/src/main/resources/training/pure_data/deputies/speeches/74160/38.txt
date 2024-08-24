@@ -1,1 +1,3 @@
-Baixos salários percebidos pelos professores da Universidade Estadual de Minas Gerais - UEMG e da Universidade Estadual de Montes Claros - UNIMONTES. Apoio à aprovação, pela Assembleia Legislativa de Minas Gerais, do Projeto de Lei nº 3.283, de 2021, sobre a incorporação de gratificações aos vencimentos básicos de docentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1839de09cea524f1d21227d06662c42389fc1653e2f88b92e6de62279d135dfb
+size 335

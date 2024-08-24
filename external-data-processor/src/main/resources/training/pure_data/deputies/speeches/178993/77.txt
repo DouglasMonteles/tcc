@@ -1,1 +1,3 @@
-Cobrança ao Governo Federal de retomada de obra da BR-153, no Estado de Tocantins. Solicitação ao Governo do Estado de Tocantins de concessão de reajuste a professores e funcionários da área da educação. Destinação pelo orador da totalidade de emendas orçamentárias para investimentos em hospital no Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16850c5a8da4eb6d50b7a4f2c7235216ea52a50e90d3f6eeb9cdf76bed0d1b23
+size 322

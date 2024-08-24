@@ -1,1 +1,3 @@
-Congratulação ao Juiz Thadeu de Melo Alves, da Comarca de Pindaré-Mirim, Estado do Maranhão, pela determinação ao Prefeito Municipal de efetivação de candidatos aprovados em concurso público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:183fd313e2fef9ebc8c7c297c0d40262cb8afb28703fefb1dea67a57d8ad5f52
+size 200

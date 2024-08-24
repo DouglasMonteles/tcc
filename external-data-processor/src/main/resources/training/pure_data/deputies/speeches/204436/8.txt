@@ -1,1 +1,3 @@
-Urgente alocação de recursos governamentais para conclusão das obras do Canal do Sertão Alagoano. Importância do empreendimento para os Municípios situados no semiárido do Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bfee9313996179349750464cd2ebebdec8f5e888a39a253d9bbcbd82ff04ddc
+size 197

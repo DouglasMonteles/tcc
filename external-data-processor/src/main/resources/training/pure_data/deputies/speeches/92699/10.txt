@@ -1,1 +1,3 @@
-Pedido aos partidos oposicionistas de não obstrução das votações do Projeto de Lei nº 3.261-A, de 2019, sobre a atualização do marco legal do saneamento básico, e posterior votação da Proposta de Emenda à Constituição nº 391, de 2017, sobre o disciplinamento da distribuição de recursos federais ao Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3d0ab1926560cb08667a7f3c49d406f05230f62e0509e4506a48613c3669b79
+size 362

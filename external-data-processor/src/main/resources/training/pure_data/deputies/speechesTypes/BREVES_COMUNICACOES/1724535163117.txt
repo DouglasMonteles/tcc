@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar Mista de Promoção da Saúde Mental. Aprovação, pela Comissão de Saúde, do parecer oferecido pelo orador ao Projeto de Lei nº 3.003, de 2022, referente à instituição da Semana Nacional de Conscientização sobre a Síndrome do Pânico. Realização, pelo órgão, de audiência pública para debate do Programa de Apoio ao Desenvolvimento Institucional do Sistema Único de Saúde - PROADI-SUS. Apresentação do Projeto de Lei Complementar nº 92, de 2023, sobre a alteração de dispositivos da Lei Complementar nº 187, de 2021, relativa à certificação de entidades beneficentes e à regulação de procedimentos acerca da imunidade de contribuições à Seguridade Social, constante no § 7º, art. 195, da Constituição Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57551238bc00e11b427bbc52803a9ac78261c164264676abf886f8c68001392d
+size 780

@@ -1,1 +1,3 @@
-O Deputado expressou sua preocupação em relação à eventual aprovação do requerimento de apreciação em regime de urgência urgentíssima do Projeto de Lei nº 1.520, de 2021, que busca aumentar a pena máxima no Brasil de 30 para 50 anos, sem a devida discussão prévia nas Comissões, considerando isso um equívoco grave. Fez um apelo à Oposição para que concorde que matérias tão sérias não devem ser submetidas ao Plenário sem a devida análise de especialistas e criminalistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40ea5e30748f78a7b975ff8cff9bfa44ffa04f915a61abb1d439ed7aaa79b71e
+size 499

@@ -1,1 +1,3 @@
-Orientação de bancada na votação requerimento de apreciação em regime de urgência do Projeto de Decreto Legislativo nº 3, de 2019, acerca da sustação do Decreto nº 7.724, de 2012, no tocante à delegação da competência de classificação de informações públicas nos graus de sigilo ultrassecreto ou secreto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c5bf85621d2c1823501d23dc7fb525e6859f5227eff37e44a49b81a760ec9cd
+size 324

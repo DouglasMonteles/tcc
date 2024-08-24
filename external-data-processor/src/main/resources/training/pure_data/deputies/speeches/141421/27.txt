@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Michel Temer pela instalação da CPI destinada à investigação de reajustes de tarifas de energia elétrica no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c150ea03fd62c0ebf6e310ca97ffc764832a3cec2a3cc16ddc36e21cbd0cb09
+size 149

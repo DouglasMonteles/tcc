@@ -1,1 +1,3 @@
-Repasse de recursos aos Estados e Municípios pela Secretaria do Tesouro Nacional. Posicionamento do orador acerca da divisão dos recursos provenientes da exploração de petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89bfd893fbf8c49e73801b8f08dde4d9513cb632bedfca4adb511f5f5edc96b5
+size 201

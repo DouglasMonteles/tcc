@@ -1,1 +1,3 @@
-Acusação do orador contra o Presidente Luiz Inácio Lula da Silva por prática de corrupção e outros crimes. Ligação do PT com a facção criminosa Primeiro Comando da Capital - PCC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8aefecfa34893978420d06ba49b16205b62611c1a72463694b83385702c3eda0
+size 188

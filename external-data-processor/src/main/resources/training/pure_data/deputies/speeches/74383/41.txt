@@ -1,1 +1,3 @@
-Homenagem ao Pequeno Cotolengo Paranaense pelos relevantes serviços prestados à comunidade carente do Estado do Paraná ao ensejo do transcurso dos 50 anos de criação da entidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddb9dbe5be8d621c34413c99d323340384be4c82cb0442ad0e57b3fa16ab3962
+size 183

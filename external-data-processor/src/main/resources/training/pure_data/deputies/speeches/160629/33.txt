@@ -1,1 +1,3 @@
-Reposição salarial dos servidores do Poder Judiciário da União. Defesa de aprovação do Projeto de Lei nº 6.613, de 2009, sobre reestruturação das carreiras da categoria. Prioridade para a votação de proposições sobre correção salarial de servidores públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:946456fa28e4c84674e93ef1a6bdb01c31ae3ca088a80d383f8ddf0436d23015
+size 274

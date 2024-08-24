@@ -1,1 +1,3 @@
-O Deputado abordou a exibição de um filme pela Embaixada de Israel, que mostrava atrocidades cometidas pelo Hamas. Expressou preocupação com a presença de radicalismo no Brasil e alegou que alguns indivíduos compartilham características com terroristas fanáticos. Mencionou a prisão de agentes do Hezbollah no Brasil e questionou a presença da mídia internacional em eventos de violência. Levantou a possibilidade de uma Comissão Parlamentar de Inquérito (CPI) para investigar a presença de agentes e organizações relacionados à desinformação, bem como, a conexão da mídia internacional com eventos de violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e46fb08753515f545448c5b3e9943f35840ce46161665fea51cc3ff10cd1449d
+size 635

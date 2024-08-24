@@ -1,1 +1,3 @@
-Lançamento do Programa #MarçoMulher pelo Governador do Distrito Federal, Ibaneis Rocha. Anúncio, pela Ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, de construção de quatro unidades da Casa da Mulher Brasileira no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5200af9ef92ada2d151e8e3f5865f098802ce963c0f645607b7bc0b106db7ca
+size 260

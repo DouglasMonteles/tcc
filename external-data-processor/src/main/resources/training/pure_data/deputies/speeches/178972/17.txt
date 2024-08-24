@@ -1,1 +1,3 @@
-Relançamento do Comitê de Fomento Industrial do Polo do Grande ABC - COFIP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66be80fdbb8216136e0644913fb8a04f2d46eb51e709bd8274b5a8b57434fdaa
+size 77

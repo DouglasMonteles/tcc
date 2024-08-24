@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Turismo. Promoção da Semana Nacional do Turismo. Urgente apreciação pela Casa dos Projetos de Lei nºs 5.120, de 2001, e 3.059, de 2008, respectivamente, sobre a regulamentação de agências de viagens e concessão de vistos a turistas estrangeiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6bab9d878fd4e473edcc81bcc2fd86f8c7c6df6f5c796816d1049f2a21e0119
+size 283

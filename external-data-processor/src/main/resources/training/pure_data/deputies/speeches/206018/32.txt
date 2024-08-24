@@ -1,1 +1,3 @@
-A Deputada expressou preocupação com a aprovação apressada da tese do marco temporal, contida no Projeto de Lei nº 2.903, de 2023, pela Comissão de Agricultura do Senado Federal. Destacou o recente incidente de invasão de território indígena na Bahia envolvendo o Deputado Ricardo Salles. Também mencionou que o projeto de lei relacionado ao marco temporal está em discussão e pediu que os Ministros do Supremo Tribunal Federal garantam os direitos dos povos indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbc1ec7322df21486d377f8dd56f3a82664ea75fb4c729a5fa319e4ad9bf1a3d
+size 482

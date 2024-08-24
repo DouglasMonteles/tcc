@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à reforma da Previdência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d3984db39d2b03ebd412f6cef304e4e625fe7f6e18a18e474cf48c39630c36e
+size 63

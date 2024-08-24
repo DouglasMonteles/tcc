@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos quinze anos do Centro de Debates Estratégicos da Câmara dos Deputados - CEDES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:016da26d9192037a9443056def68ba42f45279373dbc4e506df7e7148fc58b24
+size 112

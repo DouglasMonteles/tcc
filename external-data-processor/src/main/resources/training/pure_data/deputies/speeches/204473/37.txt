@@ -1,1 +1,3 @@
-Contratação, pelo canal de notícias CNN, do jornalista Alexandre Garcia para âncora do programa CNN - Liberdade de Expressão. Saudações aos participantes na Marcha pela Família, realizada no Distrito Federal. Indignação com ações de agentes de segurança em manifestações pacíficas. Repúdio ao tratamento dispensado pela Rede Globo de Televisão à Marcha pela Família. Empenho do Governo Jair Bolsonaro na evolução da educação brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd8ac550965adfe341a9258795e2adf0cefaada93a27b6f9481d660407b4b66b
+size 460

@@ -1,1 +1,3 @@
-Existência de acordo para votação de emenda apresentada pelo orador à Medida Provisória nº 932, de 2020, sobre a alteração das alíquotas de contribuição aos serviços sociais autônomos especificados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27093c51452a198b92c23a15d1372f1e9f0d219c6e32c590bdf21cfe56a18247
+size 211

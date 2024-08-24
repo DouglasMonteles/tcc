@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9cbdfda73e0626984d506a144f443b8e2a66e36325da4ba727a3c2b76a576f2
+size 206

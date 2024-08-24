@@ -1,1 +1,3 @@
-Empenho do Senador Eunício Oliveira na busca de solução para a crise hídrica no Estado do Ceará. Anúncio de reunião do Parlamentar com Prefeitos eleitos e reeleitos em Municípios do Estado e com o Ministro da Integração Nacional, Helder Barbalho, para debate do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7f6c8e0677b5c60ae3bd41cee87f3573dc7e4edf3811ab0719c60ebee5002ec
+size 277

@@ -1,1 +1,3 @@
-Solidariedade ao Ministro da Educação, Ricardo Vélez Rodríguez, diante de críticas de Parlamentares à determinação de gravação em vídeo da execução do Hino Nacional em estabelecimentos de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3569240ad7df65d6ae086ffbd1097b58450525d18ca62119748481df9b3bdad1
+size 208

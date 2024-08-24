@@ -1,1 +1,3 @@
-Indignação do orador com a espionagem global realizada pelo Governo dos Estados Unidos da América. Necessidade de apuração rigorosa de denúncias de espionagem norte-americana contra o Brasil. Defesa da aprovação do projeto de lei sobre a criação do marco civil da Internet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d192cf56e1796f020fd540c7f2b5af7ce808f350159896563b65ba36abae550e
+size 283

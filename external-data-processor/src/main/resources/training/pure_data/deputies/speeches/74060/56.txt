@@ -1,1 +1,3 @@
-Encontro do Governador do Estado da Bahia, Jaques Wagner, com Prefeitos Municipais eleitos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab9c5056bec7e6a295a43a9d04f7a3164c9b8d4968a79f165e53e7f4fe83555c
+size 91

@@ -1,1 +1,3 @@
-Transcurso do aniversário natalício do saudoso Governador do Estado do Tocantins, José Wilson Siqueira Campos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a66037dda0ed3726d1436847df8b061ed21a77cecad10704ce508dde86c8b3d
+size 113

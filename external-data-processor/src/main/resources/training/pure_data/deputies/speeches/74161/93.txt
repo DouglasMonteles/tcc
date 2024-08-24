@@ -1,1 +1,3 @@
-Críticas ao Deputado Domingos Sávio em razão de declarações feitas em programa de rádio sobre o filho do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27d56bf05ae2d177ae4812a8e58ba98457d3388242416f9c6e6d1a4dbdf3114f
+size 152

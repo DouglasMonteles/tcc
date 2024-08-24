@@ -1,1 +1,3 @@
-Orientação de bancada na votação de requerimento de retirada de pauta da Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8868fe442ca3cc62edfb19a567803cf3fce9f37248c3f7f9d27f3c2d8e2e4e36
+size 195

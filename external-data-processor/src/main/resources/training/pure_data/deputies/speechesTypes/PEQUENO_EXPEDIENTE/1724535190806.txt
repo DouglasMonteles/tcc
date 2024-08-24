@@ -1,1 +1,3 @@
-Crise do PSL. Desestruturação política, econômica e administrativa do Brasil pelo Presidente Jair Bolsonaro. Descaso do Governo Federal com a carreira do magistério. Confiança na mobilização da juventude, de educadores e trabalhadores em defesa do País. Resistência no Congresso Nacional às medidas antipopulares do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65b6cf77e350cd92129adc99dfd05375d51599808a7703cebf88414825dc221d
+size 350

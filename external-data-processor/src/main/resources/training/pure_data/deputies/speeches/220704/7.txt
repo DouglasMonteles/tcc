@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional de Combate à Homofobia. Necessidade de avanço do País nas ações de proteção à comunidade LGBTQIA+. Cassação do mandato parlamentar do Deputado Deltan Dallagnol pelo Tribunal Superior Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5f55983edf2794c024ce4b2edd73aa3209bfe416b6420fce20288ff10c5f218
+size 235

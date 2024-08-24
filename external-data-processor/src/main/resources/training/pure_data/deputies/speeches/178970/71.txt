@@ -1,1 +1,3 @@
-Matéria publicada no Jornal da Cidade sobre a importância da bacia leiteira do Alto Sertão sergipano, em especial da bacia leiteira do Povoado Santa Rosa do Ermírio, Município de Poço Redondo, Estado de Sergipe. Realização da 2ª Festa Amigos do Leite, no povoado Santa Rosa do Ermírio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2396b0e480ac3173d59f550e45895ad299c7b28e1487d7ccc6802decbd2f4b9
+size 295

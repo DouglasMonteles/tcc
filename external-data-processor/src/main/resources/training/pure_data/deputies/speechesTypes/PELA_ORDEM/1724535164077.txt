@@ -1,1 +1,3 @@
-Crise financeira da fruticultura nacional. Importância da renegociação de dívidas do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9943638c909446d76fa3a3c8b9eca9d603ed5c6d098fd06a0ccd491cc8f12af0
+size 95

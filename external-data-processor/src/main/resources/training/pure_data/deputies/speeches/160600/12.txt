@@ -1,1 +1,3 @@
-Papel significativo desenvolvido pelo setor florestal e de celulose na economia do Estado da Bahia. Repúdio às invasões de florestas de eucalipto no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fd113762a2d2c8aa8e44f041c1eca27d5444d6f5df83a97e2cb2efb783edb23
+size 159

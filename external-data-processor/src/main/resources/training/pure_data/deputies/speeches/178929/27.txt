@@ -1,1 +1,3 @@
-Anúncio de realização de Comissão Geral no plenário da Câmara dos Deputados sobre proposição referente a medidas de combate à corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f91590c851a3cfe313fc6c67c0e3e05d93650e32dbbfbab7a22f7f4ee6548310
+size 147

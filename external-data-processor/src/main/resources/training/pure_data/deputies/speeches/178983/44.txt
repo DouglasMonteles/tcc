@@ -1,1 +1,3 @@
-Congratulação ao Governo do Estado de São Paulo pela realização do Festival da Cultura Paulista Tradicional. Defesa da continuidade de realização do evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:927fa2616c6a3be07ec2a1ff01c0cdbe16d1ebd89278dbbf8635c35f9681661b
+size 163

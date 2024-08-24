@@ -1,1 +1,3 @@
-Transcurso do primeiro ano do blecaute ocorrido no Estado do Amapá. Caos vivido pela população amapaense durante o apagão de energia elétrica. Inconformismo com a não implementação do disposto na Medida Provisória nº 1.010, de 2020, acerca da isenção dos consumidores dos Municípios do Estado do Amapá, abrangidos pelo estado de calamidade pública, do pagamento de fatura de energia elétrica nos termos especificados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8be5da53e4d06f0d5cd393a2b2c800a82dda27abae63186c1f24b18306c40d21
+size 433

@@ -1,1 +1,3 @@
-Apoio do DEM à emenda apresentada pelo Deputado Vanderlei Macris em benefício dos policiais ferroviários federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94d79da232210ad0cf82e7199bf8c5c5d1f0ad5a5e94b0af17e939c718f08327
+size 117

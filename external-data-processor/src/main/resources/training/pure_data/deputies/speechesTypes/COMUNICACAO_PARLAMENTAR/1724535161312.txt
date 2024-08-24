@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de liberação de recursos emergenciais para atendimento aos Municípios nordestinos atingidos pela estiagem. Paralisação das obras de transposição de águas do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:626bb490ec5110971114eeb448dc0e52299bed91e3c10c7a013bd9a206b0da98
+size 209

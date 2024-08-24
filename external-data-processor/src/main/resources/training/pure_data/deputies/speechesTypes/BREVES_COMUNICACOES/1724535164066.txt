@@ -1,1 +1,3 @@
-Pedido ao Prefeito Fuad Noman, de Belo Horizonte, Estado de Minas Gerais, de sanção do projeto de lei sobre a concessão de passe livre a estudantes e mulheres vítimas de violência no transporte público municipal aos domingos e feriados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b2c8daf3d858b7b46de344dea93d3a0892f5d1d6b154b8d3082482358f0309f
+size 242

@@ -1,1 +1,3 @@
-Reabertura de agência do INSS no Município de Iúna, Estado do Espírito Santo. Pedido ao Ministro da Previdência Social, Carlos Lupi, de manutenção do funcionamento de agência do órgão no Município de Guaçuí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ec6b7e637cc0ccdc2d7d9341c0976895627fdf050c6934cb377d26c0c198c8d
+size 220

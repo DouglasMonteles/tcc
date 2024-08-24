@@ -1,1 +1,3 @@
-Anúncio de regularização, pela Agência Nacional de Vigilância Sanitária - ANVISA, do registro do medicamento Zolgensma destinado ao tratamento da atrofia muscular espinhal. Congratulações aos Governadores e aos Secretários Estaduais de Fazenda pela isenção da cobrança do ICMS incidente na comercialização do fármaco. Defesa de ampliação do debate sobre doenças raras pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b87a0c32013e0f6936b8856a3addfc8b875c3c7809af0daa49443a5db5fd179
+size 413

@@ -1,1 +1,3 @@
-Imediata inclusão na pauta da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aba2d0623f8416acaa29fb7feaec28a5c9a9761574a4033f1f6f367910e52c4a
+size 165

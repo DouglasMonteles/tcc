@@ -1,1 +1,3 @@
-Anúncio de realização, pela Assembleia Legislativa do Estado do Ceará, de reunião para debate do papel exercido pelo Banco do Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0b247cfe573f3147010d95eb2d05ae93066208d86df15e8c53d827ca68ed817
+size 140

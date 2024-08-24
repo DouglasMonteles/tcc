@@ -1,1 +1,3 @@
-Instalação de Unidade de Polícia Pacificadora - UPP no Morro da Mangueira, no Rio de Janeiro, Estado do Rio de janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:770fa2f40e18bde1447b12b9ee58ae6bc39e3219a72d893bd582a625a8008a4f
+size 122

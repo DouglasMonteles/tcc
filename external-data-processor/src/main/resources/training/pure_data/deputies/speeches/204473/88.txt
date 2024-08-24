@@ -1,1 +1,3 @@
-Não declaração pela Justiça da inocência do ex-Presidente Luiz Inácio Lula da Silva. Caráter verdadeiro e real do pronunciamento do Presidente Jair Bolsonaro na abertura da Assembleia-Geral da Organização das Nações Unidas - ONU. Apoio ao tratamento precoce da Covid-19. Protesto contra a politização da epidemia de coronavírus. Defesa de acatamento, pelo Supremo Tribunal Federal, da tese do marco temporal na demarcação de territórios indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ed40cd29e287b56a431016cf727bbd80452a5113c9b13a173c6c7513d2803af
+size 465

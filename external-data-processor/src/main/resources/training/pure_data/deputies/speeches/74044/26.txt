@@ -1,1 +1,3 @@
-Defesa da votação das matérias conforme acordo realizado pelos Líderes de partido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:864cb270660a5780471921c1166fe5bcc4c7aac7a2efc2b11d24436ffad16055
+size 86

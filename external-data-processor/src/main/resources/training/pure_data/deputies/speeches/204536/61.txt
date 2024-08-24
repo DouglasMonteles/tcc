@@ -1,1 +1,3 @@
-Indignação do orador com a elevação das dotações orçamentárias destinadas ao Fundo Especial de Financiamento de Campanha, o Fundo Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6a5743bb7b8d3ab0ab5aff59419a7635b7ace2b0c74143777da0049b4bc07bd
+size 148

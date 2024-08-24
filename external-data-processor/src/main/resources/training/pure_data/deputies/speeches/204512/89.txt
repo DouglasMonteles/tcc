@@ -1,1 +1,3 @@
-Apelo ao Presidente Jair Bolsonaro por edição de medida provisória sobre a reestruturação das carreiras dos policiais federais, dos policiais rodoviários federais e dos policiais penais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ffa016293de5b2b5f25a06f8d96696ba08dbebfae5d510605688416596464d7
+size 192

@@ -1,1 +1,3 @@
-Apelo à Presidência por retomada dos trabalhos da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização e das votações na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38ebe1651b29484318ac36cebfbb4fb1900955512a37899506415ce350168de1
+size 160

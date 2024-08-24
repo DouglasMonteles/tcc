@@ -1,1 +1,3 @@
-Realização, pela Assembleia Legislativa do Estado do Maranhão, de reunião para debate do Acordo de Salvaguardas Tecnológicas, firmado entre o Governo brasileiro e os Estados Unidos da América para utilização do Centro Espacial de Lançamento de Alcântara. Tramitação, no Senado Federal, do projeto de lei sobre a alteração dos limites do Parque Nacional dos Lençóis Maranhenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2810b779e4bc8670620992fd3b35aba815ddad1799c635451187be06b74bb5eb
+size 393

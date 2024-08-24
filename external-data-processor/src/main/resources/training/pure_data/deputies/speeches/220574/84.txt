@@ -1,1 +1,3 @@
-Importância de cumprimento da portaria do Ministério da Saúde a respeito do pagamento do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d949e8e28fee50683be4f30ffb0d2f5c49c53776b086b3fc573e40ba715e8e6
+size 161

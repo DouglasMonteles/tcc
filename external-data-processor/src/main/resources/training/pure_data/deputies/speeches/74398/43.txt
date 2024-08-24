@@ -1,1 +1,3 @@
-Presença de Vereadores do Município de Porto Alegre no Distrito Federal, para debate da expansão do ensino profissional junto ao Ministério da Educação. Anúncio de reunião com o Ministro  Fernando Haddad para discussão da crise da Universidade Luterana do Brasil — ULBRA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36e22e0bfbd8fab980dee005e7fd8dab1fc9c066bea7284057444023f648fa1d
+size 282

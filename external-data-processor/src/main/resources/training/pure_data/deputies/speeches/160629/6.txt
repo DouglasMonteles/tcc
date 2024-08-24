@@ -1,1 +1,3 @@
-Apelo ao Ministério da Agricultura, Pecuária e Abastecimento de estabelecimento de parceria com o Governo do Estado da Paraíba para o combate à praga cochonilha-do-carmim, responsável pela devastação da palma forrageira na região do Cariri paraibano. Posicionamento favorável à aprovação de projeto de lei sobre a criação de Varas do Trabalho no Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4c1c256fcdd0dbb85c01bf8b3da86c500d0b6beae301f57724841c452a5081f
+size 379

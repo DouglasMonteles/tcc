@@ -1,1 +1,3 @@
-Firmeza do Governador do Estado da Bahia, Jaques Wagner, na condução das negociações com policiais militares em greve.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6af1667772f6c666479503eed5804953a4ad234970fe2c17a7098e78e8f8d8d2
+size 122

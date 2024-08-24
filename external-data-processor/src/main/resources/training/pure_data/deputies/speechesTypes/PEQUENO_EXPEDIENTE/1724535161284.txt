@@ -1,1 +1,3 @@
-Revisão da sistemática de tramitação de medidas provisórias. Apreciação da proposta de reforma tributária pela Comissão de Constituição e Justiça e de Cidadania. Prejuízos à Zona Franca de Manaus pela pretendida cobrança de tributos no destino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bde54a9b19ec5d97ed010ff7159370d0a905ff4535503839de273c0f1469d592
+size 259

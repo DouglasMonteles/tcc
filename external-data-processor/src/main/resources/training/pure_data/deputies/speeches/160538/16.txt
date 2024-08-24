@@ -1,1 +1,3 @@
-Importância da celebração de acordo para a votação da proposta de instituição do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ce6d85656455b9b4b156cf6a33c7ae3ea52243c17280fa08d686988e2d567c9
+size 122

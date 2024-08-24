@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta das Emendas do Senado Federal ao Projeto de Lei de Conversão nº 4, de 2021, da Medida Provisória nº 1.016, de 2020, sobre a alteração da Lei nº 7.827, de 1989, com vista à renegociação extraordinária de débitos no âmbito do Fundo Constitucional de Financiamento do Norte - FNO; do Fundo Constitucional de Financiamento do Nordeste - FNE; e do Fundo Constitucional de Financiamento do Centro-Oeste - FCO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9389ecac9d21e6b86db34e496413ecd6bd83c59147c12cb32738bc76af97543
+size 490

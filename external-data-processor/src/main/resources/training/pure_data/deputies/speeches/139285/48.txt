@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalhador Doméstico. Inclusão pelo Governador Jaques Wagner do trabalho doméstico entre as prioridades da Agenda Bahia do Trabalho Decente. Necessidade de votação,  pela Casa, de projeto de lei sobre ampliação dos direitos dos trabalhadores domésticos. Transcurso do 30º aniversário do Bloco Olodum, em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d914c4e7ad6ee64aab0b0ca3f4460d1f12f07b1d947f21adfbee2affb6c7d82e
+size 362

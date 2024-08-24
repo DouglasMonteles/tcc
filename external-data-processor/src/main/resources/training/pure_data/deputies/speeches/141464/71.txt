@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural,  ao Substitutivo do Senado ao Projeto de Lei 687 de 1995 (Dispõe sobre a política pesqueira nacional, regula a atividade pesqueira e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f8146adf041c65431e3862f6c26bd9b89ac7f67de36ccaf16c66cf84c24f2a4
+size 251

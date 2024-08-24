@@ -1,1 +1,3 @@
-O Deputado formulou questão de ordem sobre a declaração de prejudicialidade do Requerimento nº 3.499, de 2023, em virtude da aprovação da proposição principal à qual o referido item estava apensado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf2f9cd06d8bf060dec93c0ba8db469c2f5d7bb5f45b3b585a50269c902a7a27
+size 207

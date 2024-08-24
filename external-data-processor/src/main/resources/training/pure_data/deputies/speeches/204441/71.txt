@@ -1,1 +1,3 @@
-Situação de desespero vivida pelo PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45fda51988647fca7656c2960630874020dd32ee40badf02b81a05fabb040098
+size 39

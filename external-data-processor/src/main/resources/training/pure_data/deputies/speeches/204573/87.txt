@@ -1,1 +1,3 @@
-O Deputado destacou a aprovação do projeto de lei relacionado ao hidrogênio verde e destacou a importância do apoio às energias renováveis, mencionando investimentos na Chapada Diamantina. Ele ressaltou a oportunidade de desenvolver o hidrogênio verde e mencionou a relevância de apoiar setores como biogás e biodiesel para o desenvolvimento sustentável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20d93aeea49d623d92be130b6e1ea90fd2603c43b9cd45b2463dc8ff3c872031
+size 364

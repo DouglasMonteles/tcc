@@ -1,1 +1,3 @@
-Participação de agricultores do Estado do Paraná na mobilização realizada no Distrito Federal a favor da votação do novo Código Florestal Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6011b504c8197af7215dcd2e5aafac8cbe9400bbb3360586eacc278965e09859
+size 157

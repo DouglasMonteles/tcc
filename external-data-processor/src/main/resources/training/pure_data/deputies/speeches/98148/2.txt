@@ -1,1 +1,3 @@
-Redirecionamento do discurso parlamentar para temas de interesse do País e do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94d1aa81f06587d460e3ceefa93963c2f0e3b6fe38b4f4b472488b6dde862708
+size 95

@@ -1,1 +1,3 @@
-Inconsistência de discurso proferido no plenário, a respeito da ocorrência de maior número de óbitos pela Covid-19 nos Estados governados por aliados ao Presidente Jair Bolsonaro. Repúdio ao questionamento, por Deputado do PT, do discurso da Direita em defesa da liberdade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0488468b8a464f05c502858d629959354e27457df7c84877ec788114af6b56c
+size 279

@@ -1,1 +1,3 @@
-Apelo aos Deputados do PMDB de obstrução das votações até a votação do projeto de lei sobre a instituição do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0001c2385294ee2d78cc080b2185126250a65f768aef28942e6753af49282e52
+size 152

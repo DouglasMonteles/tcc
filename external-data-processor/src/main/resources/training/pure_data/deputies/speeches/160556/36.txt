@@ -1,1 +1,3 @@
-Preocupação com o surto de meningite no Município de Ouro Branco, Estado de Minas Gerais. Empenho das Secretarias Estadual e Municipal de Saúde para erradicação do surto da doença na municipalidade, com a determinação da vacinação da população. Solicitação ao Ministério da Saúde de adoção de providências sobre o assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b072b253c024c99c3f73bb4786a1abfe3f85b2cbcfddb91ea96a9da903d0cf38
+size 342

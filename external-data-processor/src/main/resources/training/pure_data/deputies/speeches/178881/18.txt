@@ -1,1 +1,3 @@
-Descaso do Governador Flávio Dino com o Estado do Maranhão e seus Municípios, notadamente com relação a Grajaú, Fortaleza dos Nogueiras e Formosa da Serra Negra. Descumprimento, pelo Governador, da promessa de campanha eleitoral de recuperação da MA-006.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c25b876504c49e6360f35a4b5441fd71560c90bb517c029ce7da2a67c759606
+size 262

@@ -1,1 +1,3 @@
-A Deputada criticou o uso de linguagem ofensiva, defendendo o respeito aos estudantes e instituições representativas. Ressaltou a importância de um debate democrático respeitoso e responsável, e destacou que a Casa merece um nível de discussão mais elevado, sem ataques ou comportamentos inadequados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a15b2083a4e120e799e0391d6a41384ffe6520fa86a53d13876d58163cc51f5
+size 307

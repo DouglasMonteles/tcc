@@ -1,1 +1,3 @@
-Associação ao discurso do Deputado Chico Alencar sobre a indignação da sociedade diante da impunidade. Declaração de voto contra a corrupção em sessão anterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:315fb260221a1c0ada7127367f49eb3aa494d2d10a74a0543b9852b70f578d8f
+size 169

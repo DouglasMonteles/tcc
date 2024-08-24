@@ -1,1 +1,3 @@
-Indignação do orador com o envolvimento de crianças na Parada do Orgulho LGBT realizada em São Paulo, Estado de São Paulo. Repúdio à música de apologia ao crime e ao sexo. Apresentação do Projeto de Lei nº 3.000, de 2023, sobre a inserção de dispositivos na Lei nº 8.069, de 1990, (Estatuto da Criança e do Adolescente), proibitivos da exposição de crianças e adolescentes em ambientes com abordagem erótica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95ead89f1dd130c8364f06b84b7d57a6542216d49982bbcad2e2bdd40bdcb4a8
+size 427

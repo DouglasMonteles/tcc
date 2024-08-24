@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado da Bahia pela eleição do orador. Lançamento pelo Governo Federal do Programa Saúde não Tem Preço, destinado à distribuição gratuita de medicamentos aos portadores de diabetes e hipertensão. Crise financeira das Santas Casas de Misericórdia no País. Imediata regulamentação da Emenda Constitucional nº 29, de 2000, sobre alocação de recursos para a saúde pública. Revisão da tabela de procedimentos do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4e5aef3e20c8312f66886e9cdd028141709f74352bdc95acfd5e42deea169dc
+size 490

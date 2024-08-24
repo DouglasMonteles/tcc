@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 747, de 2023, sobre a alteração da Lei nº 12.871, de 2013, relativa à instituição do Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5219f4e1b628958beb884952f046fe08149117b6410838cb59d9fbf918a6e161
+size 219

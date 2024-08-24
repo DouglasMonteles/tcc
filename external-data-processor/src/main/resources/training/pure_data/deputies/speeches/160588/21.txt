@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de adiamento, por duas sessões,  da votação da Medida Provisória 621 de 2013 (Institui o Programa Mais Médicos e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a8c292b4469b795ac14b3d50d12c130f2782d4f340ef3a4b6056e346745c72b
+size 188

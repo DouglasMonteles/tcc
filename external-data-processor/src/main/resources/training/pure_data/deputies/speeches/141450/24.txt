@@ -1,1 +1,3 @@
-Posicionamento favorável do PSC ao parecer pela admissibilidade da Medida Provisória 442 de 2008 (Dispõe sobre operações de redesconto pelo Banco Central do Brasil e autoriza a emissão da Letra de Arrendamento Mercantil - LAM, e dá outras providências ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f156f348d7da2dfa2e89e975342830971fbebdfafee492942ca1e24829fe5e9e
+size 262

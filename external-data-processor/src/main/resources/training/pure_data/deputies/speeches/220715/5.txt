@@ -1,1 +1,3 @@
-Descumprimento, pelas municipalidades brasileiras, do novo marco legal do saneamento básico e da legislação pertinente ao tratamento de resíduos sólidos. Encaminhamento de expedientes ao Ministério Público Federal e aos Ministérios Públicos Estaduais a respeito do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d756172010dd43751fa97328effddd9f37a32fea53025b6144be1d296b609ad
+size 282

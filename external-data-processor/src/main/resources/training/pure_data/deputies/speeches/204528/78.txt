@@ -1,1 +1,3 @@
-Protesto contra o descumprimento do rito de tramitação da Proposta de Emenda à Constituição nº 3, de 2021, sobre a alteração dos arts. 14, 27, 53, 102 e 105 da Carta Magna, com vista ao resguardo das prerrogativas parlamentares. Apelo à Presidência de inclusão na pauta da Proposta de Emenda à Constituição nº 333, de 2017, relativa à alteração dos arts. 5º, 37, 96, 102, 105, 108 e 125 da Carta Magna, com vista à extinção do foro especial por prerrogativa de função no caso dos crimes comuns, e à revogação do inciso X, art. 29, e o § 1º, art. 53, da Lei Maior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d611af32f831624e996f697d739167c0d9af83363183f8937e1a04fcf0d81e2
+size 592

@@ -1,1 +1,3 @@
-Transcurso do Dia da Bandeira e do Dia Mundial da Filosofia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a7ac694aabe0b04b9a12575b9581041fe17b674dfa1ce414dc8352eedb622d1
+size 60

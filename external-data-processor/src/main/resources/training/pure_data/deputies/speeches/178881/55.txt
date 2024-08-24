@@ -1,1 +1,3 @@
-Pedido ao Governador do Estado do Maranhão de reexame da exoneração de policiais militares habilitados em cursos de capacitação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75fa28401baf3a5fe557411444be17b9cc0773cff1d26daa6d65213039a74925
+size 133

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.295, de 2021, sobre autorização à administração pública direta e indireta de todos os entes da Federação, na constância da Emergência em Saúde Pública de Importância Nacional declarada em decorrência da infecção humana pelo novo coronavírus (SARS-CoV-2), da celebração de contratos ou outros instrumentos congêneres, com dispensa de licitação, para a aquisição de insumos e medicamentos de eficácia comprovada, além de bens e serviços utilizados no tratamento de saúde em regime hospitalar de pacientes infectados pelo novo coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5593e1b81f901e2885f16bfbc7991754624191403cf77a92ae281ef4a9936a21
+size 681

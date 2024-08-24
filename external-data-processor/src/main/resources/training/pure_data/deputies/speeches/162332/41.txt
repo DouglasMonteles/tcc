@@ -1,1 +1,3 @@
-Transcurso do 65º aniversário do Município de Maringá, Estado do Paraná. Realização da 40ª Exposição Feira Agropecuária, Industrial e Comercial de Maringá - EXPOINGÁ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:251afa8b5503da27f4936b83cca27c61cbb17d8cfd0b07e067377e9c6d21f6e6
+size 179

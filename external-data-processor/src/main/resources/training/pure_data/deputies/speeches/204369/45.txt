@@ -1,1 +1,3 @@
-Recorde no desmatamento na Amazônia em 2023. Inconsistência de críticas do Presidente Luiz Inácio Lula da Silva à política ambiental do Governo Jair Bolsonaro. Indignação com o apoio do governo petista a invasões de propriedades rurais produtivas pelo Movimento dos Trabalhadores Rurais Sem Terra - MST. Redefinição do marco temporal adotado na demarcação de terras indígenas
+version https://git-lfs.github.com/spec/v1
+oid sha256:a258a0afc8cd7f5a239cf7f284726b887203233f4ad37781b768ccf5be39077f
+size 389

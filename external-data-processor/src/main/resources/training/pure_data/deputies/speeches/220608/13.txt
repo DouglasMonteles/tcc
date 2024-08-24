@@ -1,1 +1,3 @@
-A Deputada defendeu a legalização do garimpo no Rio Madeira, Rondônia, destacando o impacto econômico positivo e o potencial tributário da atividade. Citou dados que mostram uma arrecadação significativa de ICMS apenas sobre o diesel utilizado pelos garimpeiros, além de outros tributos que contribuem para a economia do Estado e do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:480dfb926f43bd2a2b4ba42dfca9ffa1d262f431eff4d66af68fb30e85681970
+size 347

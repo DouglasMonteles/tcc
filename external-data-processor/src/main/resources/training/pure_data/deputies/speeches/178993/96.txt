@@ -1,1 +1,3 @@
-Empenho do orador na solução de dívida do Estado do Tocantins com Municípios tocantinenses. Solicitação ao Governo do Estado do Tocantins de providências para retorno à atividade do setor de radiologia do Hospital Regional de Araguaína.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c0f04fca5e5847b602ccbd83da5ebb807b6643085d2549f51306a600aa6ebd9
+size 245

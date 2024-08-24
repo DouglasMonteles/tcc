@@ -1,1 +1,3 @@
-Necessidade de ação da Câmara dos Deputados com relação ao corte de recursos orçamentários destinados às instituições federais de ensino superior. Dificuldades financeiras enfrentadas pela Universidade Federal do Piauí - UFPI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f41b40cd3ed1d996488bcb6b9c85736fb438be0661daa739944d6cbc3015174d
+size 237

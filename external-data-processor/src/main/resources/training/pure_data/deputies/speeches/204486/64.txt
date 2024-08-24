@@ -1,1 +1,3 @@
-Alerta sobre a extinção do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, pela proposta de emenda à Constituição emergencial encaminhada à Casa pelo Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91cd4410e6134bcbef55a14a3ab3325ea318823a983725e801b0852f184813c7
+size 247

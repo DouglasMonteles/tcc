@@ -1,1 +1,3 @@
-Descumprimento, pelo Governador Ibaneis Rocha, da promessa da campanha eleitoral de expansão do Metrô do Distrito Federal. Descontinuidade das ciclovias brasilienses. Exclusão das cidades-satélites do Programa de Gestão de Águas e Drenagem Urbana do Distrito Federal&nbsp;- DRENAR/DF. Baixa qualidade do sistema de transporte público de Brasília. Estado de abandono da periferia da Capital Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7480ed25805e4bb494089d24f55ad4208365374e86c25edd91bfe6962784e9d5
+size 406

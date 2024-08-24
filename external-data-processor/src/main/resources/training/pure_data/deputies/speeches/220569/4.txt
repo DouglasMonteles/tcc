@@ -1,1 +1,3 @@
-Importância para o Brasil da aprovação do Projeto de Lei nº 4.438, de 2021, sobre alterações do Estatuto da Pessoa Idosa e do Estatuto da Pessoa com Deficiência, para aprimoramento da defesa dos direitos humanos e para o estabelecimento de medidas protetivas de urgência para as pessoas idosas e pessoas com deficiência vítimas de violência ou sob ameaça de violência.&nbsp;Necessidade de atuação dos Parlamentares no sentido de cumprimento da futura Lei nos seus Estados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d245cc7fd0713862e4b3d543f5a55e20ddf8b45951ba0b9cfcba5912210b0abf
+size 487

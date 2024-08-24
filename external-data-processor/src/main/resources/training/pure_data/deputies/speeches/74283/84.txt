@@ -1,1 +1,3 @@
-Saudações aos delegados de polícia presentes na Casa em defesa da aprovação de proposta de reinserção da categoria na carreira jurídica. Aprovação, pela Comissão de Trabalho, de Administração e Serviço Público, de projeto de lei sobre o acompanhamento pelos sindicatos da fiscalização das condições de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:298648b04f830972756b858a9b38af36d38aa8af1786507548e85495b858d1f3
+size 330

@@ -1,1 +1,3 @@
-Defesa da distribuição dos royalties de petróleo aos Estados e Municípios brasileiros. Posicionamento do orador contrário à fusão do Grupo Pão de Açúcar com os supermercados Carrefour. Inadmissibilidade de participação do BNDES no processo de fusão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4628c464bf0c446d4bc36ac2d6fac00bbb7937f5ca9d32dad60f3f2c8f28aff5
+size 262

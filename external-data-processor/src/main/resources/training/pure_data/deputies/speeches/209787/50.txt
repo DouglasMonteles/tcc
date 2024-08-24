@@ -1,1 +1,3 @@
-O Deputado reiterou a estratégia de obstrução parlamentar e criticou o Supremo Tribunal Federal por usurpar competências e legislar em áreas que deveriam ser responsabilidade do Legislativo. Elogiou o Senador Rodrigo Pacheco por sua postura em relação à legalização das drogas e disse esperar ação similar sobre a questão do aborto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72ec0b4a0769ed486f147555685d99fed4bd04d4466331460148701999e245d2
+size 345

@@ -1,1 +1,3 @@
-Transcurso do 75º aniversário de criação da Ordem dos Advogados do Brasil - OAB, Seção Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d1cf728a2711dcced1f0927bb29f16579010929f9d7a9e4bf772f5fcb800c0d
+size 100

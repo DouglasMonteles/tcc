@@ -1,1 +1,3 @@
-Alcance da marca de 80 mil mortes no País em decorrência da Covid-19. Postura genocida do Presidente Jair Bolsonaro com relação à pandemia de coronavírus. Defesa de afastamento do Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b407c20cacc22640c2999fd13ee54be1d27b580fcae11ff88fe0399bd3498db
+size 211

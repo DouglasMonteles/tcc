@@ -1,1 +1,3 @@
-Transcurso do 482º e do 484º aniversários de fundação, respectivamente, dos Municípios de Recife e Olinda, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:031d37865c057e85e2f47b71951d6b1e88b2bf4e59494bade8b7e04bc389cc98
+size 134

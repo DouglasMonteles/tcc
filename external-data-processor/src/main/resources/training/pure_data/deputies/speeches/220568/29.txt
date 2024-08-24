@@ -1,1 +1,3 @@
-Elevação dos índices inflacionários e de desemprego, e recorde no desmatamento na Amazônia e nos cerrados brasileiros no Governo Luiz Inácio Lula da Silva. Oneração da cesta básica pela reforma tributária. Prejuízos causados pela reforma às municipalidades brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fd5c3a106b21187d57494d929cd4105dd3709f07e53eea6b7c9e5f39fee5351
+size 281

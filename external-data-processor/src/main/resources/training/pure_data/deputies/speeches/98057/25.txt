@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista, quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária (Medida Provisória nº  861, de 2018, sobre a transferência, da União para o Distrito Federal, da Junta Comercial do Distrito Federal e das atividades de registro público de empresas mercantis e atividades afins no Distrito Federal e sobre a alteração da Lei nº 8.934, de 1994, relativa ao Registro Público de Empresas Mercantis e Atividades Afins).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6737032303cdce2f5d733fa989614e21139c3ee565242b0ea5c6441a7beabab
+size 556

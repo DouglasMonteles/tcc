@@ -1,1 +1,3 @@
-Legitimidade do mandato do Presidente Jair Bolsonaro. Encaminhamento da votação do requerimento de destaque para votação em separado do inciso VII do art.64, do Projeto de Lei de Conversão nº 30, de 2019, oferecido à Medida Provisória nº 897, de 2019, sobre a instituição do Fundo de Aval Fraterno e sobre o patrimônio de afetação de propriedades rurais, a Cédula Imobiliária Rural, a escrituração de títulos de crédito e a concessão de subvenção econômica para empresas cerealistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7caad1426e0a991b3ee2b5c34abc4eadfb55e9e8a47f8a6498bfd362f8dedd3c
+size 507

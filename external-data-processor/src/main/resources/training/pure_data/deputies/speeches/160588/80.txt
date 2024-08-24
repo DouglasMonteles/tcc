@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de apoiamento à eleição do Deputado Expedito Netto, para o cargo de 3º Secretário da Mesa Diretora da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4763afbb35c34191b18906c74c25a60ed339813de8a2dc00437816acda9f9883
+size 154

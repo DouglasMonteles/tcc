@@ -1,1 +1,3 @@
-Regozijo pela aprovação, na Comissão de Constituição e Justiça e de Cidadania da Câmara dos Deputados, do Projeto de Lei nº 322, de 2015, de autoria do orador, sobre a instituição da Semana Nacional do Uso Consciente da Água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bde52cb55c037946b9ad960bd49001f894e9ca548c81a3f2051d5e0d957a1ea8
+size 236

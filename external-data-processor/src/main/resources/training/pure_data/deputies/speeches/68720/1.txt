@@ -1,1 +1,3 @@
-Apoio ao Projeto de Lei nº 5.312, de 2016, sobre a redução da jornada de trabalho dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a582fa49127df7edd412e3ff4c88f4ed98119bdc31079f9ba3a78cbc333e6f50
+size 159

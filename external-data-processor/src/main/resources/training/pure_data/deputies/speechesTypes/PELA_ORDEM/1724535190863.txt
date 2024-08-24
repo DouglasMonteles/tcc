@@ -1,1 +1,3 @@
-Importância de fortalecimento das pequenas e microempresas para a geração de emprego e renda no País. Compromisso da Presidenta Dilma Rousseff de criação do Ministério da Micro e Pequena Empresa. Benefícios gerados pela Lei Geral das Micro e Pequenas Empresas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ed707dde29302e6c04a309b36cdbc21fc6c76e3796aa3d08e69d0bc1eb05d7a
+size 268

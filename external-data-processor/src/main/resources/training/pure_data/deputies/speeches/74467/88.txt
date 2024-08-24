@@ -1,1 +1,3 @@
-Lançamento, pelo Governo Federal, da campanha Novembro Azul sobre prevenção e combate ao câncer de próstata. Votos de boas-vindas à Professora Kênia, coordenadora da União de Ensino Superior de Campina Grande, no Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7fb5f40277346e5b39699d62c030de3acf1d280f65ecc10cf17405072d81047
+size 240

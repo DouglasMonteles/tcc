@@ -1,1 +1,3 @@
-Inauguração de ala de pré-parto na Maternidade Municipal Lucilla Ballalai, no Município de Londrina, Estado do Paraná. Comprometimento do Prefeito Marcelo Belinati com a saúde da população londrinense, especialmente de mulheres e crianças. Acatamento pelo Relator Gastão Vieira de emenda em benefício da juventude brasileira, apresentada pela oradora ao Projeto de Lei nº 3.148, de 2021, sobre a atualização do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:591b4c1582bf8378523bc06c1e8e58dd41fe96cb76a7aa1fcd3436e594b54e2c
+size 547

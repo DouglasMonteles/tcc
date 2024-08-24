@@ -1,1 +1,3 @@
-Congratulações aos microempreendedores ao ensejo do transcurso do Dia Nacional da Micro e Pequena Empresa. Aprovação, pela Câmara dos Deputados, de proposições de interesse dos microempreendedores. Saudação ao Deputado Marx Beltrão pela posse no cargo de Ministro do Turismo. Encontro da oradora com a Ministra-Chefe da Advocacia-Geral da União, Grace Mendonça. Associação a discurso da Deputada Laura Carneiro sobre a importância da Campanha Outubro Rosa, destinada à conscientização da importância da prevenção e diagnóstico precoce do câncer de mama. Satisfação com o lançamento, pelo Governo Michel Temer, do Programa Criança Feliz, destinado ao atendimento à primeira infância. Solicitação aos Deputados de comparecimento ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:523b5712a04e8f0598493f93b0445c5e033e34a65063bed83c3394a0bcbe0fec
+size 771

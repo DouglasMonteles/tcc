@@ -1,1 +1,3 @@
-O Deputado agradeceu à Casa pela aprovação do Projeto de Resolução nº 10, de 2023, que institui o Prêmio Glória Maria de Jornalismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c36f09810163d9d83156ea46b21c7e67bdfad0b942f2b7ec7cc436514fb0595
+size 140

@@ -1,1 +1,3 @@
-Apreensão no Complexo Industrial Portuário de Suape, Estado de Pernambuco, de lixo hospitalar proveniente de Portugal. Pedido aos Parlamentares de apoio ao Projeto de Lei nº 1.172, de 2023, sobre a alteração da Lei nº 9.605, de 1998, com vista ao aumento da pena imposta ao crime de importação de resíduos sólidos perigosos e rejeitos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd6933fc199a503ea123af275f3634e8d0e695fd8d23ff7987a21082bb5f5135
+size 345

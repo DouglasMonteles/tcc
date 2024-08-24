@@ -1,1 +1,3 @@
-Matéria sobre a aviação regional brasileira, de autoria da jornalista Solange Galante, publicada pela revista Flap Internacional. Concessão de estímulo ao incremento da aviação regional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c5791c7bf6bc9fc14fce1b1717a2fa4db6f5608e97ae55bbc26306d79b2addd
+size 193

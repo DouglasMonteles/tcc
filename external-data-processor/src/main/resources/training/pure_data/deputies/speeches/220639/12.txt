@@ -1,1 +1,3 @@
-Urgente necessidade de realização de reforma tributária com ênfase na justiça social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a05f7af37f09f086dc4583167ff4377ff3a786639f1265c44b5578a40f001342
+size 90

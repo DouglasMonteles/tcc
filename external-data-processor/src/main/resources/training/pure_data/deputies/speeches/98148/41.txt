@@ -1,1 +1,3 @@
-O Deputado defendeu a Proposta de Emenda à Constituição, de sua iniciativa, que estabelece mandato de 10 anos para os Ministros do STF, sem recondução, além de estabelecer critérios técnicos para escolha dos Ministros, evitando indicações políticas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:395f3aa7ee992936f85c4b4731c0c9063945e90cd175f0c21f3fc5d40d17f049
+size 260

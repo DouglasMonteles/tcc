@@ -1,1 +1,3 @@
-Presença do orador em vigília realizada por aposentados e pensionistas na Praça dos Três Poderes, no Distrito Federal, pela sanção presidencial de proposição relativa à alteração no cálculo do fator previdenciário, a chamada fórmula 85/95.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a284c1609c4cf1e9eee120f119fef2c2f50b9c37a4adbb368c84938b48cb6f89
+size 253

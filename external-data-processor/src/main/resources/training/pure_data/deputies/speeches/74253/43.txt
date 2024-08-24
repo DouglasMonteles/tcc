@@ -1,1 +1,3 @@
-Defesa da necessidade de aprofundamento do debate político sobre eventual abertura de processo de impeachment contra a Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6add3c8bb4bb07e88a8846933055a6fa6241f91b76b39683d2db02e3543985f7
+size 146

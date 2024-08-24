@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do requerimento de adiamento da discussão do Projeto de Lei n°2.721, de 2023, que dispõe sobre a prestação de serviços postais aos órgãos públicos federais da administração direta e indireta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ded64b2ec181e1393dc341b47aa3775c13a40f65803c0de8062c4d46870e175
+size 245

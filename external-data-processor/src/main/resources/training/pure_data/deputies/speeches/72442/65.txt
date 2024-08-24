@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Arthur Lira pela inclusão na pauta do Projeto de Lei nº 5.638, de 2020, sobre a criação do Programa Emergencial de Retomada do Setor de Eventos - PERSE. Pedido à Presidência de votação do requerimento de tramitação da propositura em regime de urgência. Reunião de Parlamentares com membros da Associação Brasileira dos Promotores de Eventos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18a86725a5403aa3b00d0c080e48daf762a19d1b2ed1d7d50a1f74647b9d6d43
+size 383

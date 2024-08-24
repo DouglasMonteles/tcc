@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de apoio a proposição do orador com vistas ao estabelecimento e regulamentação de prazo para apreciação e julgamento das contas da Presidência da República pelo Congresso Nacional. Importância de realização de reforma tributária no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2dab305e022d6bc8b4429ce1230690a532590762c6060c53d28128788ce175c
+size 275

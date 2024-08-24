@@ -1,1 +1,3 @@
-Tratamento diferenciado dispensado pela Justiça quanto à apuração de denúncias de corrupção no Governo do Distrito Federal e no Partido dos Trabalhadores - PT. Inadmissibilidade de intervenção federal na Capital da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbe68a9ceecc204172e1864ba0b02af95e496a3ab8b3e3d53b1852854d37cc08
+size 235

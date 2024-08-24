@@ -1,1 +1,3 @@
-Expectativa de votação pelo Senado Federal da Proposta de Emenda à Constituição nº 333, de 2004, sobre o limite de despesas e a composição numérica das Câmaras Municipais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:276c2aea51bbeed730d6200452cbd9403a1df40baae09d8cabded15ccebd8118
+size 193

@@ -1,1 +1,3 @@
-Congratulação à Casa pela aprovação do Projeto de Lei nº 5.638, de 2020, sobre as ações emergenciais e temporárias destinadas ao setor de eventos para compensação dos efeitos decorrentes das medidas de combate à epidemia de coronavírus. Solicitação à Presidência de inclusão na pauta do Projeto de Lei nº 3.067, de 2020, sobre a alteração da Lei nº 11.771, de 2008, acerca da execução da Política Nacional de Turismo no exercício de 2020, no âmbito da emergência de saúde pública decorrente da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c96bf4ab123d8bae190832da4ceab9581948398832fed00bdc45f88f1996c4d8
+size 533

@@ -1,1 +1,3 @@
-Repúdio aos atos de vandalismo praticados durante manifestação realizada em Brasília, Distrito Federal. Defesa da votação de medidas provisórias constantes na pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:222829133051a78d90be5dcdf14db6f9363cbc213747924cc5b54aadaa5ef486
+size 172

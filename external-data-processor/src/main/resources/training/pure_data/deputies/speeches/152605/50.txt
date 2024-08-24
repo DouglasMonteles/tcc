@@ -1,1 +1,3 @@
-Apelo ao Plenário de votação neste ano da proposta de emenda à Constituição sobre a redução da jornada de trabalho para 40 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79021a5ff663d5b6db30e82e1e8e2cb689e43321b910ebe72f59dd115231d2a9
+size 146

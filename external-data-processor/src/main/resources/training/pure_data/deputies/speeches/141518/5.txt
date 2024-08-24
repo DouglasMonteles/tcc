@@ -1,1 +1,3 @@
-Inconsistência de matérias veiculadas pela imprensa sobre o envolvimento do nome do orador em relatório da Polícia Federal. Pedido de quebra dos seus sigilos bancário, fiscal e telefônico. Anúncio de mobilizações de centrais sindicais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a04f94ad03e63bc9387bddc7641e1451b35280ce1694e3ee783251999cae80b
+size 244

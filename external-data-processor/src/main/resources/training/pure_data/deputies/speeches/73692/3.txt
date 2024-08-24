@@ -1,1 +1,3 @@
-Regozijo do orador com a reassunção do mandato parlamentar. Compromisso de atuação em prol da saúde. Desempenho do orador na Secretaria de Saúde do Governo do Estado do Rio Grande do Sul. Regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de receitas para a área de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1062ed9deee62cdea579781ec68eb15a28ad4005312e673363a7285356a05a66
+size 309

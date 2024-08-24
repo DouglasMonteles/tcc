@@ -1,1 +1,3 @@
-Aplausos à Presidência pela destinação de recursos da Câmara dos Deputados para combate à crise gerada pela pandemia de coronavírus. Reexame do texto da Medida Provisória nº 944, de 2020, sobre a instituição do Programa Emergencial de Suporte a Empregos. Orientação de bancada na votação da Subemenda Substitutiva Global oferecida pela Relatora da Comissão de Seguridade Social e Família ao Projeto de Lei nº 848, de 2020, sobre alteração da Lei nº 5.991, de 1973, acerca do Controle Sanitário do Comércio de Drogas, Medicamentos, Insumos Farmacêuticos e Correlatos, com vista à validade de receita de fármacos durante surtos epidêmicos, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d1403b2f201979b0952c46fdde5cf04f62115ad2238c2d6c9f75f24d9ebae3f
+size 690

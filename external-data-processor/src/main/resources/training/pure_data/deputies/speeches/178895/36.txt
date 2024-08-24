@@ -1,1 +1,3 @@
-Imediato reajuste da tabela de procedimentos médicos do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbde8f989a25f311ad568f9ab1e4f4dc1759b1d8292d2d7ae6d09cc981ba6df0
+size 88

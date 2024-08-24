@@ -1,1 +1,3 @@
-Convite à Sra. Coraci da Silva Neiva Batista para composição da Mesa Diretora dos trabalhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:636bb09c66c37812a5e47fca3982fb551a1151475f2fd71f9a525714fcfd309e
+size 95

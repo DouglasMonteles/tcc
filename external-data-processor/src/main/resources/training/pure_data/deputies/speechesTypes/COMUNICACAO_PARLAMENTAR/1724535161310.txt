@@ -1,1 +1,3 @@
-Estudo da Fundação Getulio Vargas a respeito do custo da energia elétrica no Brasil. Utilização indevida pelo Governo Federal da arrecadação do setor para a composição do superávit primário. Imediata realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9697ed147d5e900a537a33064041875d228046f100817601bb5722a0b2787061
+size 247

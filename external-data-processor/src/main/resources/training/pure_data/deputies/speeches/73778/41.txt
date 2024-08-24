@@ -1,1 +1,3 @@
-Posicionamento contrário da Minoria ao parecer pela admissibilidade da  Medida Provisória 411 de 2007 (Dispõe sobre o Programa Nacional de Inclusão de Jovens - Projovem, instituído pela Lei 11.129 de 2005, altera a Lei 10.836 de 2004 e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:37ea13d48cdccf9aeedca5e17f7a6e00df6122009015445699af95e89390c5dc
+size 267

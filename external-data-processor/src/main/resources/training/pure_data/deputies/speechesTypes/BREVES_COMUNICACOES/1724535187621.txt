@@ -1,1 +1,3 @@
-O Deputado fez um discurso enfático criticando o Presidente Lula e sua administração. Expressou indignação em relação aos gastos do presidente com melhorias em seu avião presidencial, que incluíram a instalação de uma cama de casal, enquanto o País enfrenta uma série de desafios, como a falta de insumos hospitalares e infraestrutura precária. Questionou a postura da esquerda em não abordar essa questão e destacou a discrepância entre as ações do governo e as necessidades reais da população, enfatizando que os gastos com luxos presidenciais poderiam ser direcionados para áreas essenciais, como saúde, educação e infraestrutura. Ele concluiu desafiando alguém a justificar tais gastos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a053de9b60f89bda64d7fb4968a2ff87b24e3e85bc1dbd95cccad9c8a5947cda
+size 716

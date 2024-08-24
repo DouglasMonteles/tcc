@@ -1,1 +1,3 @@
-Instalação da Frente Parlamentar Mista Contra o Aborto e em Defesa da Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6070ebd876f92908d4efe12ab71c1727104c9adea5588655dbfa65d573646a02
+size 77

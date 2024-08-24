@@ -1,1 +1,3 @@
-O Deputado expressou sua satisfação com a entrega de ambulâncias para a implantação do SAMU na região de Ribeira do Pombal, destacando a importância do serviço de saúde de urgência. Mencionou projetos para melhorar a rede de saúde na região, incluindo a construção de uma unidade hospitalar regional e a necessidade de serviços de tratamento oncológico. Mencionou também a importância do PAC e o apoio do Presidente Lula com recursos ao Semiárido e ao Sisal. O Parlamentar reiterou seu compromisso com a saúde pública e o SUS em sua região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d84246ac2c7086d8b4cbfcbea116dd7625d8feb355d952a2824cec4099b1d8b
+size 562

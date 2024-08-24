@@ -1,1 +1,3 @@
-Agradecimento aos convidados e Parlamentares presentes. Inserção nos Anais da Casa de texto elaborado pelo Deputado Nazareno Fonteles. Solicitação aos Deputados e convidados de observância de um minuto de silêncio em homenagem póstuma à Profa. Maria Benigna Martinelli de Oliveira, da Universidade Federal do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7af080979c018c64a5f3d7a382e6caf49ff7bb51073d34b038edb802206fe4b
+size 325

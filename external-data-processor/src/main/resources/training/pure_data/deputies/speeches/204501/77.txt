@@ -1,1 +1,3 @@
-Prática do crime de racismo pelo Deputado Coronel Tadeu, demonstrada no ataque à exposição comemorativa do Dia Nacional da Consciência Negra, realizada nas dependências da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cd24ee9c3536d413cf618de2859fca074db7c204c9699f69164cca37df173a7
+size 183

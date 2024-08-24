@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do Projeto de Decreto Legislativo nº 554, de 2021, que aprova o texto do acordo entre o Governo da República Federativa do Brasil e o Governo do Estado de Israel para cooperação em segurança pública, prevenção e combate ao crime organizado, firmado em Jerusalém, em 31 de março de 2019. Também expressou preocupação com a defesa do Hamas pela esquerda radical, destacando a importância de distinguir entre apoiar o povo palestino e endossar o terrorismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c67c3802be21625511ad6782928733617342d3bd2d31750f1aeec694d3c5015
+size 511

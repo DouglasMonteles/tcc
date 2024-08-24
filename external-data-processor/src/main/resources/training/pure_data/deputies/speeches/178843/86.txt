@@ -1,1 +1,3 @@
-Apoio à aprovação do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira. Aplausos à Polícia Militar e à Polícia Civil do Estado de Alagoas pela realização da Operação Buraco, destinada ao combate ao narcotráfico nos Municípios de Coruripe e Penedo. Baixa quantidade de drogas apreendida durante a operação militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9520044a2ae93c3512b742832fcd23a1c78383109d034c0335ec224932fb483e
+size 407

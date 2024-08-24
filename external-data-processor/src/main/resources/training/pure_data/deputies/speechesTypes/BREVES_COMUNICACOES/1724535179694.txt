@@ -1,1 +1,3 @@
-O Deputado expressou sua discordância em relação à recente decisão do Supremo Tribunal Federal (STF) sobre a contribuição assistencial, conhecida como imposto sindical. Argumentou que essa decisão permitirá que os sindicatos voltem a arrecadar fundos e se envolvam em atividades políticas e partidárias, como ocorreu no passado. O orador enfatizou que essa decisão permite que os sindicatos se financiem novamente e sirvam de massa de manobra para movimentos de esquerda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef2b32f9eb63f87d25342a544bc480a46c9ab3ca99bde659381eda840557a42d
+size 483

@@ -1,1 +1,3 @@
-Reoneração de combustíveis pelo Governo Luiz Inácio Lula da Silva. Revisão da política de preços praticada pela PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83f77d5601ea4fc78cb59a4e90692e95176ee620cd8df9dc12459822ce40de9b
+size 129

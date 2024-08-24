@@ -1,1 +1,3 @@
-Lançamento do novo IBGE indígena. Atraso do Congresso Nacional na eleição da primeira representante dos povos originários e na criação do Ministério dos Povos Indígenas. Razão da tentativa de cassação do mandato da oradora no Conselho de Ética e Decoro Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa871378c764008b59bc0d5251cbea6092fb2f3f20108715f699fe489b12aa41
+size 278

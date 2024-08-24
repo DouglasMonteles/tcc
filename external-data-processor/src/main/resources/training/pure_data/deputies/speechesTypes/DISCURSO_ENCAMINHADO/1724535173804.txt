@@ -1,1 +1,3 @@
-O Deputado celebrou a aprovação do Projeto de Lei nº 2.646, de 2020, que incentiva o investimento privado em infraestrutura no Brasil. Ele destacou a importância disso para impulsionar o crescimento econômico do país, dada a queda nos investimentos durante a pandemia e a necessidade de melhorar as condições de infraestrutura. Elogiou a relatoria do Deputado Arnaldo Jardim e a análise do Senado Federal, agradecendo aos co-autores do projeto e enfatizando seu impacto positivo no desenvolvimento do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9d65044e6ee045a593118b92c106e7e991249c5e87d3e17936696a15da17f2f
+size 517

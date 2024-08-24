@@ -1,1 +1,3 @@
-Empenho do Relator Hugo Leal na celebração de acordo consensual para a votação da Medida Provisória nº 932, de 2020, sobre a alteração das alíquotas de contribuição aos serviços sociais autônomos especificados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23bcfcbf7f00ee8aa97e5ad8557a3460de441aa6f3fe55df78539ea9cb1ea871
+size 223

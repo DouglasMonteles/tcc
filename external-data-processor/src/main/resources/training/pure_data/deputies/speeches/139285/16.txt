@@ -1,1 +1,3 @@
-Aprovação, pela Assembléia Legislativa do Estado da Bahia, de mensagem do Governador Jaques Wagner sobre a transferência simbólica da Capital do Estado para o Município de Cachoeira. Instalação de campus da Universidade Federal do Recôncavo da Baia na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f751f68c302fd372a73184d1190f2e8ba570d2310325d9c132edb8161e24bf4b
+size 276

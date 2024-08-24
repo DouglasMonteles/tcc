@@ -1,1 +1,3 @@
-Confiança na rejeição do Veto Total nº 10, de 2021, aposto ao Projeto de Lei nº 3.477 de 2020, acerca da garantia de acesso à internet, com fins educacionais, a alunos e a professores da educação básica pública. Agradecimento ao Líder do Governo, Senador Eduardo Gomes, pela construção de acordo para a votação do veto presidencial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:620c2195b413f2f9c9723ffb8061d3698daf0dc6c7f4efa3a140d0eccd0381bf
+size 347

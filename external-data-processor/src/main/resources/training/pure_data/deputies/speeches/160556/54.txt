@@ -1,1 +1,3 @@
-Lançamento pela Presidenta Dilma Rousseff de medidas de complementação do Plano Brasil Maior, destinado à retomada da competitividade da indústria nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8bf42eb27968037d3b4c0c0995d6773fbeab679e3881b0a8639713144f94de2
+size 161

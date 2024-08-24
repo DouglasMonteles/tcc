@@ -1,1 +1,3 @@
-Anúncio da visita do Presidente do Paraguai, Fernando Lugo, ao Município de Ponta Porã, Estado de Mato Grosso do Sul, para assinatura da ordem de serviço relativa à construção da Rodovia Sul-Fronteira. Anúncio da apresentação de emendas orçamentárias relativas à obra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e779c72c18600edc87aeb075e65345a77ceb3adaba89725494b1a5c67f119b09
+size 281

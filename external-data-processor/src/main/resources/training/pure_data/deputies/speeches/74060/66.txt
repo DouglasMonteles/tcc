@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PSB/PDT/PCdoB/PMN/PRB ao Substitutivo do Senado ao Projeto de Lei Complementar 184 de 2004 (Institui,  na forma do art. 43 da Consstituição, a Superintendência do Desenvolvimento Sustentável do Centro-Oeste - SUDECO, estabelece sua composição, natureza jurídica, objetivos, área de competência, instrumento de ação e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:85371aeb8cc1af507c77ebcb568bc0c55e940771b4cd39206a94eb1b500f715e
+size 389

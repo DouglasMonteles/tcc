@@ -1,1 +1,3 @@
-Apoio à integração das atividades da Bolsa de Valores de São Paulo - BOVESPA com a Bolsa de Mercadoria & Futuros S/A. Anúncio de apresentação, à Comissão de Finanças e Tributação, de requerimento  de realização de audiência pública para debate do assunto. Temas debatidos em encontro realizado na Santa Casa de Misericórdia de Londrina, Estado do Paraná. Imediata regulamentação da Emenda Constitucional nº 29, de 2000, sobre a aplicação de recursos em ações e serviços de saúde pública. Ampliação do quadro de servidores da Fundação Nacional de Saúde - FUNASA. Documento Diagnóstico sobre o PAC FUNASA, elaborado pelo corpo técnico de Engenharia de Saúde Pública da FUNASA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e83d873d31ba186070309b60232f0832b95e2e10c115f619f57291306c51826
+size 711

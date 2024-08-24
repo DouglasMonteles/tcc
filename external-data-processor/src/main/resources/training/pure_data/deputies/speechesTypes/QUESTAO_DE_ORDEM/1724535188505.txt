@@ -1,1 +1,3 @@
-Apelo à Presidência de concessão da palavra a representantes da classe trabalhadora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e561accbf9ccf6ce169e7b402e0c13b95af027d08ddf3c5533d344c898811a33
+size 87

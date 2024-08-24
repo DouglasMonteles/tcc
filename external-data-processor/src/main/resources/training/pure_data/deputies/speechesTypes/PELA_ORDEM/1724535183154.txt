@@ -1,1 +1,3 @@
-Realização da 19ª Festa da Uva Fina, no Município de Marialva, Estado do Paraná. Lançamento de nova variedade de uva no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeb48d144e8da70842eda6abd25f8937cd3ed8bc29dde8e939cfe574d922bae3
+size 133

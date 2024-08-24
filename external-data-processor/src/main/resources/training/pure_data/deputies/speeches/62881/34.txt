@@ -1,1 +1,3 @@
-Esclarecimentos sobre a questão de criação de subsidiárias  e da autonomia universitária no texto do Substitutivo ao Projeto de Lei 1.749 de 2011 (Autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Serviços Hospitalares S.A. - EBSERH e dá outras  providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e78aaeaa380bff08f435454157131da71b85bccac1a806838a19617e3855535b
+size 305

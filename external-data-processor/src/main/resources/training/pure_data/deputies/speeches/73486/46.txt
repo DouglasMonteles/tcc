@@ -1,1 +1,3 @@
-Crise financeira mundial. Defesa da punição de especuladores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46c366f950689528685693ca94369f8c75f55d05ccfc252dc9379778bad3fde4
+size 63

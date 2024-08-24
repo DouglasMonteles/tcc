@@ -1,1 +1,3 @@
-Esclarecimentos sobre divergências ideológicas na bancada feminina a respeito da criação da Comissão de Defesa dos Direitos da Mulher e da Comissão de Defesa dos Direitos da Pessoa Idosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa4fb31b700884178d6d81689ee1f77842478028b5d81a28641c4677237338fe
+size 193

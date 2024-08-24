@@ -1,1 +1,3 @@
-Emissão de parecer à Medida Provisória nº 1.026, de 2021, sobre as medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e comunicação, comunicação social e publicitária, bem como treinamentos de vacinação, e sobre o Plano Nacional de Operacionalização da Vacinação contra a Covid-19; e às Emendas de nºs 1 a 156, apresentadas conforme o caput do art. 3º do Ato Conjunto nº 1, de 2020, editado pelas Mesas da Câmara dos Deputados e do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6ec8d6a98d780b997d46b05d4d943f85aed9ac6cb32e9d71049d3127b628b00
+size 542

@@ -1,1 +1,3 @@
-Necessidade de medidas governamentais contra a disseminação dos narcóticos crack e oxi no País. Tramitação na Casa do Projeto de Lei nº 7.663, de 2010, de autoria do orador, sobre política nacional contra as drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09a88e6478f3228b9876a41f306208f0b402149ad2037296960646c7e66529e9
+size 223

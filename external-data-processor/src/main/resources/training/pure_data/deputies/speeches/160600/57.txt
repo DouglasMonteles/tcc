@@ -1,1 +1,3 @@
-Apelo aos Deputados do PMDB no sentido do comparecimento ao plenário. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f01248b1486ef7de66655b8c2fad7fa0aa75ec65a82281ecf0e8cf2be625ea87
+size 106

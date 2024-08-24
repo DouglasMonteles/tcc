@@ -1,1 +1,3 @@
-Indagação ao Líder do Governo sobre a intenção de inclusão na pauta da Ordem do Dia de projeto de resolução sobre alterações no Regimento Interno da Casa, conforme declaração do  Líder do PT, Deputado Maurício Rands,  à Globo News.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b757a58b8eccc77ab9487a51ca5a22ee75df9a9ccc99cd377e548c2bf5173a77
+size 246

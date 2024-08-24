@@ -1,1 +1,3 @@
-Sessão solene em homenagem à Força Jovem do Brasil. (As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:da507db7480e281b03698d673357e70f4841b27c486ae6f3417a237efa5d4e4c
+size 188

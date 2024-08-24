@@ -1,1 +1,3 @@
-Solicitação à Presidência de inclusão na pauta da proposta de redução da jornada de trabalho para 40 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74d25cdf6233da4a4b02b3309dd7c03d41b83904777d3d68816fac96bb17c791
+size 123

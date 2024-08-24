@@ -1,1 +1,3 @@
-Associação aos discursos proferidos no plenário contra o despejo de famílias no Distrito Federal. Pedido a Presidência de inclusão na pauta do Projeto de Lei nº 1.975, de 2020, de autoria da oradora, sobre a suspensão do cumprimento de medida judicial, extrajudicial ou administrativa resultante em despejos, desocupações ou remoções forçadas, durante o estado de calamidade pública decorrente da epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cc606b4963eafe313d8b9c6c2035fab8129ebbdef923707fbb5571b81febdf9
+size 436

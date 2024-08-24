@@ -1,1 +1,3 @@
-Congratulação às centrais sindicais pela mobilização realizada a favor da rejeição do projeto de lei sobre a terceirização das relações de trabalho. Realização de sessão solene em homenagem ao Dia Nacional do Índio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1805b9d479733d85c6aac7ac433ccf2e42ef84e4be50961fc91e66ff5501f738
+size 230

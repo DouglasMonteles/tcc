@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado, para fins de supressão, do art. 3°, inciso II, da Medida Provisória nº 1.104, de 2022, sobre alteração da Lei nº 8.929, de 1994, acerca da instituição da Cédula de Produto Rural, e da Lei nº 13.986, de 2020, para disposição sobre o Fundo Garantidor Solidário, e, por decorrência, do art. 3°, inciso II, da Lei nº 13.986, de 7 de abril de 2020, na redação do art. 2° da medida provisória. Protesto contra a decisão do Ministério da Educação de corte dos recursos orçamentários das universidades federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ae0ff4fc6905f6ff33f3a4fd1000a7ee2fd94d036cd5dfbc864ed8781e69f83
+size 623

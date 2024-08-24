@@ -1,1 +1,3 @@
-Necrológio do Deputado Ricardo Izar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e73ebf79ec067687ca84250db7f6f29821e2d202635aa3851d65ab6c51f55e5
+size 37

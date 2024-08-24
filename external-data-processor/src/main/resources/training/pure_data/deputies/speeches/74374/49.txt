@@ -1,1 +1,3 @@
-Inauguração de piscina olímpica e  instalações da Universidade Federal da Grande Dourados, no Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b43907fb4a7041b5c520bb1d11798123b4df9ea8589b76ca6bcb1b41208a9c4
+size 128

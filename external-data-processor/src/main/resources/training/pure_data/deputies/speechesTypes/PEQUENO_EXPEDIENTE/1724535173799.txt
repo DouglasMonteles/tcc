@@ -1,1 +1,3 @@
-Excelência das gestões municipais de Bom Jesus da Serra, Cândido Sales e Ibirapitanga, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9180562448b632fde19de1923dca2b789bec7538ca743b4aad14ce50c6e75b97
+size 106

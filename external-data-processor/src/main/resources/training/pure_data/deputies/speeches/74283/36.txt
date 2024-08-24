@@ -1,1 +1,3 @@
-Discussão da  Medida Provisória 404 de 2007 (Altera o art. 41-A da Lei 8.213 de 1991, modificando a data de pagamento dos benefícios da Previdência Social). Críticas à obstrução dos partidos de Oposição às votações. Ponderações sobre a importância da legalização das centrais sindicaias
+version https://git-lfs.github.com/spec/v1
+oid sha256:685126f5d0c059e22117d5bfc1cd13ca6bb460570c32535ea7fd9747082d0958
+size 304

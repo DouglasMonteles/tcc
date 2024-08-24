@@ -1,1 +1,3 @@
-Regozijo com a reassunção do orador ao mandato parlamentar. Agradecimento à população do Estado de Tocantins pela votação recebida. Agradecimento ao Governador tocantinense, Wanderlei Barbosa, pelo comparecimento à posse do Deputado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:325cb2ce3213c6f76c5369cef0be5fe2b7f728b4dce3364d0b0e8e53b926cb53
+size 241

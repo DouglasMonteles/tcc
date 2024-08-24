@@ -1,1 +1,3 @@
-O Deputado expressou indignação com a recusa de parlamentares da Esquerda em classificar o Hamas como organização criminosa e terrorista. Condenou os recentes ataques do grupo, incluindo a decapitação de 40 crianças, e manifestou solidariedade aos familiares das vítimas do Hamas. O orador considerou inimaginável a dor dos pais que tiveram suas crianças decapitadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a77f517835f77a018ea2d94cc49b27e1c54f89eefa37ce59d9ade1448806640c
+size 377

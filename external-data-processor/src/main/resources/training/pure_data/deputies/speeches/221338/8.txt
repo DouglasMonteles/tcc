@@ -1,1 +1,3 @@
-Revogação da reforma do ensino médio. Implantação no País de escolas pública de qualidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f52a4dd9d0e6a3cd91e428a057e68295bac1068e3209a1042ff53be0e414d978
+size 97

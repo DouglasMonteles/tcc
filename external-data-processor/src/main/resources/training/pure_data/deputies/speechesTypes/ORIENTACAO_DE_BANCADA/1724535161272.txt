@@ -1,1 +1,3 @@
-Razões da obstrução do PMDB à votação do  Projeto de Decreto Legislativo 1.351 de 2008 (Aprova o texto do Tratado de Extradição entre a República Federativa do  Brasil e a República Popular da China, celebrado em Brasília , em 12 de novembro de 2004), em votação nominal por força de verificação de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:702635360efaf7fb23e98329c02469582bbc9a2c41dd5072ddfff72c87805901
+size 325

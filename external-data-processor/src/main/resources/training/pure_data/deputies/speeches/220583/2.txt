@@ -1,1 +1,3 @@
-Conivência do Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, general Marco Edson Gonçalves Dias, com os atos antidemocráticos praticados contra as sedes dos Poderes do Republica. Defesa de sua prisão. Tentativa do governo petista de inviabilização da CPMI destinada à investigação do caso. Responsabilização dos envolvidos na depredação das sedes dos Poderes Executivo, Legislativo e Judiciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79398e90a1bf77200384986a75386b4588eebbb14b63f71b065ea4e0bc9f1346
+size 448

@@ -1,1 +1,3 @@
-O Deputado registrou a presença na Casa do Prefeito Zé Antonio Andrade, do Município de Fátima, Estado de Tocantins. O orador afirmou que se trata do gestor municipal mais bem avaliado do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9317c31df13737609fca99eda95a12a809e414f490030cc372ea5444822e31f3
+size 199

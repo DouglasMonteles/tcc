@@ -1,1 +1,3 @@
-Natureza falaciosa da promessa de campanha do Presidente Luiz Inácio Lula da Silva de extinção de sigilos em seu governo. Tentativa do Ministro da Justiça e Segurança Pública, Flávio Dino, de intimidação de Parlamentares da Oposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3b0efcfad8b9f81b032f456f56fbc7cba13c91545b86f45e1d5c61d64a8cc8e
+size 244

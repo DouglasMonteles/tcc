@@ -1,1 +1,3 @@
-Apoio à incidência de efeitos administrativos sobre os Deputados ausentes no plenário. Presença no plenário dos Deputados Romeu Guzamana e Maria Gabriela Hernández, da Venezuela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9295ccbd01b1be4de677c94204e6a808c99ba52e31eb5c2a28909549eeb0a0d8
+size 184

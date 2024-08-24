@@ -1,1 +1,3 @@
-Contrariedade a documento do Ministério da Educação em prol da ideologia de gênero distribuído nas Assembleias Legislativas e Câmaras de Vereadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ba31ba7156f6de6437f151b10e1f0c08592d67e897897b70b27832933f41f77
+size 154

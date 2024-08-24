@@ -1,1 +1,3 @@
-Transcurso do 168º aniversário de fundação de Aracaju, Estado de Sergipe. Realizações da oradora no exercício do cargo de Vice-Prefeita da Capital sergipana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ef42d40c605825091c1e3eaecb9adcd337e173b63d80c0370819de4aedf3cf8
+size 164

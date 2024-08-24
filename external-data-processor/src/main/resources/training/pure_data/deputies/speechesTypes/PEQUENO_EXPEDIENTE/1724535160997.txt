@@ -1,1 +1,3 @@
-Realização de eleições indiretas para Governador do Distrito Federal. Indignação do orador com a publicação do Diário Oficial de candidatura de cunho jocoso. Inadmissibilidade de loteamento de cargos no Governo Wilson Lima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4c268e0ebf226a05aa7e23606965f2a099b089a8e32a94e94f2e7d811b7860c
+size 232

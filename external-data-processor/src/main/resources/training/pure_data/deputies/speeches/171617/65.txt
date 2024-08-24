@@ -1,1 +1,3 @@
-Participação do orador na III Conferência Nacional de Promoção da Igualdade Racial - CONAPIR, em Brasília, Distrito Federal. Apoio ao projeto de lei do Poder Executivo sobre a reserva de vagas em concursos públicos federais para negros. Ações afirmativas anunciadas pela Presidenta Dilma Rousseff no evento. Transcurso do 10º aniversário de criação da Secretaria de Políticas de Promoção da Igualdade Racial de Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:437af8404810e258688ac5010646c325f927949480199b6e5685735f1af5921a
+size 454

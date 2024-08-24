@@ -1,1 +1,3 @@
-Imediata revogação dos embargos de área constantes no decreto de regulamentação da lei ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:195271a8da3c4882b184bb9def55f908602b6001a84051ce8cbfab8765d6fa8c
+size 102

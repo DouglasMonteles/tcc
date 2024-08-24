@@ -1,1 +1,3 @@
-Participação do orador no 11º Seminário Internacional sobre Agroecologia, realizado no Estado do Rio Grande do Sul. Lançamento, pelo Governador Tarso Genro, do Programa de Agricultura de Base Ecológica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db17cabeee9519373934011ede55afba38035f2751cc30ef7f87c8d2f2c10f28
+size 208

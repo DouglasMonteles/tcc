@@ -1,1 +1,3 @@
-Apelo à Presidenta Dilma Rousseff de concessão de reajuste salarial aos servidores e docentes dos Institutos Federais de Educação, Ciência e Tecnologia - IFETs e dos Centros Federais de Educação Tecnológica - CEFETs. Inconsistência de pronunciamentos acerca da remuneração de professores no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad9889033f2f21c42c3e13e9b268664fb9fd36670f26655434134fb0623eafa0
+size 325

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 8, apresentada à Medida Provisória nº 983, de 2020, sobre as assinaturas eletrônicas em comunicações com entes públicos e em questões de saúde, e sobre as licenças de softwares por eles desenvolvidos. Equívoco da decisão da Prefeita Municipal de Pelotas, Estado do Rio Grande do Sul, de decretação de lockdown no Dia dos Pais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da135b2d477ef2a3ab2361d2b3ba121f2702955cd757562a5f045d28b86b879c
+size 459

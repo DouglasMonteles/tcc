@@ -1,1 +1,3 @@
-Crise reinante no Instituto Nacional do Seguro Social - INSS por falta de servidores. Sucateamento do serviço público e do setor educacional pelo Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7187caa2be045cd20c7857560e8dd2abd2cd1d003d63c1362b57d701d2d56d5
+size 171

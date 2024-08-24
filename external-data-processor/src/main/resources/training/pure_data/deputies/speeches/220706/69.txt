@@ -1,1 +1,3 @@
-O Deputado expressou solidariedade aos municípios paranaenses afetados por fortes chuvas e tornado recentes. Destacou a rápida resposta do Governador Ratinho Júnior, que liberou uma linha de crédito através da Fomento Paraná para socorrer as cidades atingidas. O Parlamentar também afirmou que levará o caso à Comissão de Integração Nacional e Desenvolvimento Regional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:951d1f2c765065e9f8c0fe9845bd516fd8c8a093fe6ceba1cf06ecea41a2b5e3
+size 381

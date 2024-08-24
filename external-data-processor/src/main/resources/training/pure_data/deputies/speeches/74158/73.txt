@@ -1,1 +1,3 @@
-Repúdio à autorização do Governo Federal para importação de café. Expectativa de revisão da decisão pelo Ministro da Agricultura, Pecuária e Abastecimento, Blairo Maggi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d873bbacec2b5e898216d3f9b1c39a26105a8685f2c6a953673c4dc1ed0105e
+size 179

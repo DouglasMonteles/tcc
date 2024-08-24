@@ -1,1 +1,3 @@
-Conclusão de obras do Programa de Aceleração do Crescimento — PAC no Estado do Mato Grosso do Sul. Repúdio a atos de violência contra a Comunidade Bahá'í. Protesto contra a prisão de lideranças bahá'is no Irã.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ceb2bcb20751e7c248698d0823b7a4e244de3c3c95af814ce80917db6c2f480
+size 222

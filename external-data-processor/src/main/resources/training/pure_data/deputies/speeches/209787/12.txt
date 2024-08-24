@@ -1,1 +1,3 @@
-Prática de corrupção pelo Presidente Luiz Inácio Lula da Silva. Utilização, pelo Presidente da República, da máquina pública para esvaziamento da CPMI destinada à investigação de atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ab725eb81303bbb27ff6e5decd43af0488e13ccc0c16220c18908f9ad5c12ac
+size 263

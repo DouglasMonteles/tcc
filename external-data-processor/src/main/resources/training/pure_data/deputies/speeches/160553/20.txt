@@ -1,1 +1,3 @@
-Congratulações ao Ministro da Saúde, Alexandre Padilha, pela liberação de recursos para as Santas Casas de Misericórdia e os hospitais filantrópicos. Atuação do orador em prol de entidades filantrópicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bde4d9cc9f0a3ff345169d9d17734d39cd862ffa0c664df662fc61d92c872511
+size 213

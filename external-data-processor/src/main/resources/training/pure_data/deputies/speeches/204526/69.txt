@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a crise da segurança pública no Rio de Janeiro e em outros Estados, destacando os recentes atentados a ônibus. Ele enfatizou que a situação reflete o aumento da criminalidade organizada, incluindo milícias e grupos ligados ao narcotráfico, que estão desafiando o controle do Estado. Argumentou que quando o crime organizado assume o controle, o País fica sob seu domínio, citando exemplos de outros países. Ele fez um apelo ao Ministro da Justiça por uma estratégia de segurança pública urgente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5f1ff8584f4d46cdae3b1d336ffb77abad1e0f4d009a036b5ff97192034be5f
+size 549

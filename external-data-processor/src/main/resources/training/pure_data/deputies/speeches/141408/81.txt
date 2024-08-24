@@ -1,1 +1,3 @@
-Resistência do Governo Federal à proposta de recomposição de aposentadorias e pensões com base em reajustes do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3ed5830c8defe89086bb13dada7b08e16fb8e7e65adfaed9be037e9df634838
+size 133

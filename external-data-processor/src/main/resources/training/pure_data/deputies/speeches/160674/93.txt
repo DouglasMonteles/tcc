@@ -1,1 +1,3 @@
-Apresentação de emenda orçamentária para a construção do Hospital de Trauma do Sertão, no Município de Patos, Estado da Paraíba. Estranheza diante das declarações do Governador do Estado, Ricardo Coutinho, sobre a natureza prescindível da obra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e960670ed6bf36cd7a4f16ed05028a2d4215a46667b0155c6cdfacf0ae0b4bb6
+size 256

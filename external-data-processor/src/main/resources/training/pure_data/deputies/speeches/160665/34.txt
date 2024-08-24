@@ -1,1 +1,3 @@
-Transcurso do 155º aniversário de emancipação político-administrativa do Município de Caruaru, a Capital do Forró, Estado de Pernambuco. Diversidades culturais da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8feb3c7f0f64aba80d9cc60a1ae1185da6ab0906494e655e479d80e2a908c04
+size 185

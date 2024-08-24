@@ -1,1 +1,3 @@
-Reunião da bancada federal nordestina com o Presidente do Instituto de Pesquisa Econômica Aplicada - IPEA, Márcio Pochmann, e com o Superintendente do Escritório Técnico de Estudos Econômicos do Nordeste - ETENE, José Sydrião de Alencar, para debate do desenvolvimento econômico da região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:652e1491116fb168eff387c2aa20940ab30c1065e05fe7522aee04322217bbed
+size 299

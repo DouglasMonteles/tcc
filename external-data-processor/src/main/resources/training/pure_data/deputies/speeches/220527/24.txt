@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao ex-Vereador Edson Wilson, do Município de São José do Calçado, Estado do Espírito Santo, em visita à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0372859aba44dc5bc850f7447469ee905a60b1ca9c56448d8717037e81bc50d2
+size 162

@@ -1,1 +1,3 @@
-Encontro de Prefeitos Municipais com o Presidente Luiz Inácio Lula da Silva, em Brasília, Distrito Federal. Saudações aos participantes no evento. Transcurso do 29° aniversário de fundação do Partido dos Trabalhadores - PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16bad97d8857422f6c3e24ae8060f1a025c622d1b0355d2dff53b6bee5569c2d
+size 231

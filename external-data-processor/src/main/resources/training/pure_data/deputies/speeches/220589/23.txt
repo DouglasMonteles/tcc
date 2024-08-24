@@ -1,1 +1,3 @@
-O Deputado destacou a alarmante estatística de que doenças cardíacas estão causando a morte de quase um terço dos brasileiros. Mencionou o recente transplante cardíaco do apresentador Faustão e a fila de cerca de 400 pessoas aguardando por transplantes. Além disso, relembrou o aviso da OMS de que 500 milhões de brasileiros terão sua saúde comprometida até 2030 se não praticarem atividade física. O Parlamentar pediu ao poder público que incentive a prática de exercícios físicos e atenda às necessidades dos pacientes cardíacos na fila de transplante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0c63568a76864a9e7868a934e1829990f82e1d0b830aa956a46cf2ee0b1430d
+size 574

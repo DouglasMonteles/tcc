@@ -1,1 +1,3 @@
-Atuação do orador em defesa da pauta municipalista. Relato da visita do Parlamentar aos Municípios de Dores do Turvo, Cipotânea e Brás Pires, no Estado de Minas Gerais. Inauguração do Centro de Fisioterapia de Brás Pires.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c9c39ed44bcbc224d8ed37800edaf5f7dd6b30dbd55574046e941881a98fb29
+size 229

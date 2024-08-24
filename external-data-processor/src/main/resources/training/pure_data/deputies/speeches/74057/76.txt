@@ -1,1 +1,3 @@
-Transcurso do quarto centenário de criação do Tribunal de Justiça do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fb6dcbacfc79b98b04e6e08281ae444ff135de809c58d4c2f1728e35be67233
+size 89

@@ -1,1 +1,3 @@
-Importância de aprovação da proposta de Desvinculação de Receitas da União - DRU incidente sobre o setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c789b07bf7670fee817d5a5727e7f308f64e77f2183cc04241abaf202355ea8
+size 123

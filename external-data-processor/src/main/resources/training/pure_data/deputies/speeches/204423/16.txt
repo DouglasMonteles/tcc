@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.088, de 2020, sobre a suspensão retroativa e o impedimento de novas inscrições nos cadastros de empresas de análises e informações para decisões de crédito, durante o estado de calamidade pública decretado em decorrência da Covid-19. Declaração de voto do PSC pela aprovação do requerimento de apreciação em regime de urgência do Projeto de lei nº 1.006, de 2020, sobre a prestação, pela União, de auxílio financeiro às Santas Casas de Misericórdia e hospitais filantrópicos diante da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c87094a67665dcfd51057b7af09bd1940ab987189c0a0020415733cd5a05198
+size 651

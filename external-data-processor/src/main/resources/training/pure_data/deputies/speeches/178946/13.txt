@@ -1,1 +1,3 @@
-Congratulações à Receita Federal do Brasil pela redução das alíquotas do Imposto de Importação incidente sobre medicamentos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c26e448e63cfdd06034c1afe066245e30e81561674f70a4615a6abd5dcb0fec
+size 132

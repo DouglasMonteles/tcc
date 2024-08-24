@@ -1,1 +1,3 @@
-A Deputada elogiou a missão realizada pelo Presidente Luiz Inácio Lula da Silva na África, especialmente em Angola, destacando a importância das relações comerciais entre o Brasil e esse país africano. Ressaltou que Angola é o principal parceiro comercial do Brasil no continente africano. A Parlamentar enfatizou o Presidente contribuiu para restabelecer essas relações e reaproximar o Brasil da África e se considerou honrada por ter participado da delegação brasileira. A oradora ainda parabenizou a realização na Casa da primeira sessão solene em homenagem ao Dia da Visibilidade Lésbica e destacou a importância de combater o preconceito e a violência contra as lésbicas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17c47b11daf665d55fa7c66d429363fe78258817fe3056b09da36a8cc050831f
+size 705

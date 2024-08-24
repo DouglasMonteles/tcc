@@ -1,1 +1,3 @@
-Eleição da Deputada Jô Moraes para o cargo de Líder do PCdoB na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d078e9917cadb56e1cde779310717680a43fc3a76d7e83fc4b92bd4c29b90d7
+size 73

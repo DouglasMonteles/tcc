@@ -1,1 +1,3 @@
-A Deputada expressou sua tristeza e indignação com o caso de estupro e assassinato de uma jovem em Rio Verde, seu Município em Goiás. A Parlamentar, que também é mãe, manifestou sua solidariedade à família da vítima e fez um apelo para que a justiça prevaleça. Destacou que o Brasil ocupa o quinto lugar no ranking de países que mais matam mulheres e enfatizou a urgência de não banalizar essa realidade. Ao final, parabenizou as forças de segurança de Rio Verde e do Estado de Goiás pela rapidez na condução do caso, assegurando que o responsável será punido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0efdd050f595abb74229779a9200bd6301a555517b41722c7c00729e589a3d70
+size 582

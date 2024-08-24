@@ -1,1 +1,3 @@
-O Deputado lamentou os recentes ataques em escolas brasileiras, enfatizando a importância de garantir a segurança e bem-estar dos alunos. Ele mencionou a tragédia na Creche Gente Inocente em Janaúba (MG), que testemunhou em 2017 como bombeiro militar. Ressaltou que as escolas devem ser locais seguros, de educação e acolhimento, mas recentes ataques colocaram essa segurança em questão. Defendeu a necessidade de reforçar a segurança nas escolas, aumentar os efetivos de polícia e considerar a saúde mental dos alunos. Argumentou que os psicólogos e assistentes sociais desempenham um papel crucial na detecção e tratamento de problemas de saúde mental entre os alunos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a40ad43b3bd4ebc37d15a3fcb40896b2b40d6f36f01394e9b1d58dbe1624e2c
+size 686

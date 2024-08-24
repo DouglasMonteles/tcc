@@ -1,1 +1,3 @@
-Inconsistência do discurso de Deputados bolsonaristas contra o Governo Luiz Inácio Lula da Silva. Reestruturação democrática, econômica e social do Brasil pelo governo petista. Criação de falsa polêmica em defesa da instalação de CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República. Caráter eleiçoeiro da redução dos preços de combustíveis pelo Governo Jair Bolsonaro. Relançamento, pelo Governo Federal, do Programa Nacional de Vacinações. Pedido aos Deputados de apoio ao requerimento de criação da Frente Parlamentar em Defesa das Vacina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ccf67ae888f688c347f88c6f5e7812def39d68f6d29eed2fe5fbeb9db097188
+size 623

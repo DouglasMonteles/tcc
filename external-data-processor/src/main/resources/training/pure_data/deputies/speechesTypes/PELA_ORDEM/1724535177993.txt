@@ -1,1 +1,3 @@
-Agradecimento ao Comando da Força Área por apresentação da Esquadrilha da Fumaça em evento comemorativo do 50º aniversário de emancipação político-administrativa do Município de Araguaína, Estado do Tocantins. Transcurso do Dia do Aviador e do Dia da Força Aérea Brasileira - FAB. Necessidade de destinação de recursos orçamentários para o reaparelhamento das Forças Armadas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c549b5416fd8a2d28139121a501d0cfd275279136fb742af27df2ab50ae5edc5
+size 406

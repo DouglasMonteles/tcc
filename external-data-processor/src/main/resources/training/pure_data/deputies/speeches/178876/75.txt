@@ -1,1 +1,3 @@
-Avaliação positiva das eleições municipais de 2013 no Brasil. Congratulações ao grupo político do orador. Votos de exercício exitoso dos respectivos mandatos aos Prefeitos e Vereadores eleitos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b5bc481bd158699f5e9d5780fb26e3f441c4f71288c18fdbf548cd00949585b
+size 201

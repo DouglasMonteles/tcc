@@ -1,1 +1,3 @@
-Eleição do Bispo Dom Walmor Oliveira de Azevedo para a Presidência da Conferência Nacional dos Bispos do Brasil - CNBB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:caab01002b39b6db75f7f7345ce297d487d9d5913f6a5bf2936165d3a4aafe60
+size 123

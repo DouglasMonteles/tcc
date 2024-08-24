@@ -1,1 +1,3 @@
-Congratulação ao Prefeito Marco Ernani Hyssa Luiz, o Nanão, do Município de Altinópolis, Estado de São Paulo, Presidente do Consórcio dos Municípios da Alta Mogiana, pelo sucesso das mobilizações contra a instalação de pedágios na região de Franca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:239c368b29bb0f43304a7e44aa3b96db31cda2a0e748ba09aab4ccc753ecf31c
+size 262

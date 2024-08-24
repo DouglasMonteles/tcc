@@ -1,1 +1,3 @@
-Posicionamento do orador a respeito da reestruturação administrativa da Empresa Brasileira de Infra-Estrutura Aeroportuária - INFRAERO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:688342a48d62afe63bd6e01485e7dd104351db114905ced2c8cdc6495bc852ea
+size 138

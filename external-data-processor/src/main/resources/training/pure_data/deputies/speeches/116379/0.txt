@@ -1,1 +1,3 @@
-Expectativa de realização das reformas necessárias para a retomada do desenvolvimento brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f491212bf93728fc293a425b6bfb916cd6844dd8f5bfab0c1e1b63507753b334
+size 100

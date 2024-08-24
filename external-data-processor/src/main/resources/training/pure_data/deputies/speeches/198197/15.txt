@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global, apresentada pelo Relator da Comissão de Finanças e Tributação ao Projeto de Lei nº 985, de 2020, sobre as medidas excepcionais adotadas em situação de emergência pública nos termos da Lei nº 13.979, de 2020, ressalvados os destaques. Agradecimento ao Ministério da Saúde pela liberação de recursos aos Municípios do Estado de Minas Gerais para enfrentamento da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27fc43ec8192ffbe15433a28a102873e20121670a9c30d8d7b06302ba49f7fe5
+size 456

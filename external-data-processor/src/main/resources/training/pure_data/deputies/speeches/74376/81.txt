@@ -1,1 +1,3 @@
-Necrológio do ex-Senador Lúdio Martins Coelho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ba8430b0a1fc07d3a5d8e5acb0b8c95afc2ed4c86409aa4684a68d5749e274b
+size 48

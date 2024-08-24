@@ -1,1 +1,3 @@
-Apresentação do relatório da Comissão Especial destinada ao exame da desoneração do transporte urbano em regiões metropolitanas. Expectativa de aprovação pela Casa de projeto de lei apresentado pelo órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f6d3d1beb656fc251fcd109ce2fadf19e83f8aa8cc14e5dcecde3c58aadd58f
+size 216

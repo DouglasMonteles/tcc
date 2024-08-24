@@ -1,1 +1,3 @@
-Apelo à Secretaria Nacional de Proteção e Defesa Civil de liberação de recursos ao Município de Riachuelo atingido por fortes chuvas, no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb50c819d506416e82e793d00c670ca470d6cf5d42d9a719bfa2bb22ad82faf2
+size 161

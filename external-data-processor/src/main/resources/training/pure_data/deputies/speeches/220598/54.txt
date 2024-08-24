@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 3.383, de 2021, sobre a instituição da Política Nacional de Atenção Psicossocial nas Comunidades Escolares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f12f12b15b6ab1dd27ec6261610b8edf4d56fcb52c4e5065afca0f6057639c3
+size 156

@@ -1,1 +1,3 @@
-Aperfeiçoamento da Medida Provisória nº 432, de 2008, sobre reestruturação das dívidas de produtores rurais. Apresentação de propostas em benefício do agronegócio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7966a290fc9234bd1f97279d28bef7065dca39f186447f543b7d720cc1cc9c0
+size 173

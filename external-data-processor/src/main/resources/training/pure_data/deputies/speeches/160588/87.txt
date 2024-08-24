@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Veto Parcial nº 17, de 2020, aposto ao Projeto de Lei Complementar nº 39, de 2020, sobre o estabelecimento do Programa Federativo de Enfrentamento ao Coronavírus, e a alteração da Lei Complementar nº 101, de 2000, (progressão funcional e reajuste salarial de servidores públicos).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0ee2c0ec9efe6b88a9fdc907460c41c422ba3813989d54f26643e3ccafc1416
+size 328

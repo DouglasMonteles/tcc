@@ -1,1 +1,3 @@
-Solicitação à Presidência de inclusão na pauta do Projeto de Lei nº 1.182, de 2011, sobre a regulamentação da venda de ingressos para apresentações artísticas e jogos de futebol por meio da Internet. Indignação com a cobrança de valores abusivos na revenda de bilhetes para a Copa das Confederações de 2013 e o Rock in Rio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a92ef1edbef2229813f264cbc740016600b78baceee1fba4fb372af143406ab0
+size 339

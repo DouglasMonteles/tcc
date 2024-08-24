@@ -1,1 +1,3 @@
-O Deputado expressou consternação pela morte de Cleriston Pereira da Cunha, que estava detido na Penitenciária da Papuda por participação nos atos antidemocráticos em Brasília. Culpou o Ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), lamentou a falta de empatia na política, pediu justiça para Cleriston e enfatizou a importância de responsabilizar os envolvidos por negligência jurídica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef2bb53f02a23ba636d18691d105221c137ba0149843d15c9319f6409f99cf73
+size 417

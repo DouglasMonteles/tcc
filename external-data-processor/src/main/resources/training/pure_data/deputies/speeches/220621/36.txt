@@ -1,1 +1,3 @@
-Assassinato por criminosos do guarda municipal Paulo Clebiano da Silva, no Município de Sítio Novo, Estado do Rio Grande do Norte. Repúdio à declaração do Ministro da Justiça e Segurança Pública, Flávio Dino, a respeito da operação de combate ao crime organizado realizada pela Polícia Militar no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e5ebaeee67ed59536401cecb629b1ac9f9ef749e6b75d37a43128265b97afbe
+size 331

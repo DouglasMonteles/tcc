@@ -1,1 +1,3 @@
-Agradecimento aos eleitores potiguares pela recondução do orador à Casa. Compromisso do Parlamentar com o municipalismo. Congratulações às Deputadas e Deputados reeleitos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cf90a47d61170fc8a1fa69be477eebda8ad57a9cc5171183da2988a5080992f
+size 177

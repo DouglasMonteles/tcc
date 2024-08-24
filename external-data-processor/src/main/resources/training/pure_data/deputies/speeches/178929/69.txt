@@ -1,1 +1,3 @@
-Declaração de voto contrário ao parecer da Comissão de Constituição e Justiça e de Cidadania pelo indeferimento da abertura de processo criminal contra o Presidente Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fac06723bf6168fdbe7fa73b9e0a5d6b4955b6e631fb37ffd2df01489fb8ca2
+size 185

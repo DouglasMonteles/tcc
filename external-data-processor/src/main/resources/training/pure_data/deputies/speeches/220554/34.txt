@@ -1,1 +1,3 @@
-O Deputado celebrou as conquistas de três gaúchos na Copa América de Taekwondo: Mestre Roger Marasciulo, na categoria Master 2, e seus alunos Gabriel Botelho e Artêmios Patron, campeões nas categorias faixa preta juvenil e vice-campeão faixa colorida juvenil, respectivamente. O orador parabeniza os atletas pelo reconhecimento alcançado no campeonato, destacando suas vitórias no âmbito da América Latina e do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d7a7e989bd74a89a891d7bcdb2d4f3a7663e112848c23d098988b60dfe26071
+size 428

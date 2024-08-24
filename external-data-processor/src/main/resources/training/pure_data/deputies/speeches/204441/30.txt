@@ -1,1 +1,3 @@
-Situação de calamidade do Hospital da Posse, no Município de Nova Iguaçu, Estado do Rio de Janeiro. Pedido ao Presidente Jair Bolsonaro e ao Ministro da Saúde, Luiz Henrique Mandetta, de adoção de medidas para reversão da crise dos hospitais públicos na região da Baixada Fluminense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c619f56aeeaf2958fdd4a122f96324b1dcbe1b14083349411f92eda6859f50b
+size 293

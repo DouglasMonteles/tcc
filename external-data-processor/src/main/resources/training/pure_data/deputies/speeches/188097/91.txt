@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Resolução nº 79, de 2021, sobre a concessão ao Sr. Lewis Carl Davidson Hamilton do título de cidadão honorário da República Federativa do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e554dc8f94bbdfb28ce3005de57227f38b29a2b679a89798297dc8dffd1d4d6
+size 204

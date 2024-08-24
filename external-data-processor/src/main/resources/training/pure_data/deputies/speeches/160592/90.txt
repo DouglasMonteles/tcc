@@ -1,1 +1,3 @@
-Implantação de cursos de Medicina na Faculdade de Pato Branco - FADEP e na Faculdade Integrado, de Campo Mourão, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39fee86200828f26e0cb20b39db88406ce9a7a3c80a3ab871cb06eabe05e6504
+size 137

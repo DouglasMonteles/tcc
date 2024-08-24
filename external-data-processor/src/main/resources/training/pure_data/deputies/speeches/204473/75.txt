@@ -1,1 +1,3 @@
-Investigação de desvios de recursos federais destinados aos Estados e Municípios para combate à Covid-19. Solidariedade aos familiares das vítimas do coronavírus. Contrariedade à atribuição ao Presidente Jair Bolsonaro da responsabilidade por mortes decorrentes da Covid-19. Convocação da cúpula do Consórcio do Nordeste para esclarecimento da aplicação de recursos destinados à compra de respiradores mecânicos. Parcialidade da Justiça Eleitoral brasileira. Conveniência de sua extinção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41586b3aee06236da8506531c3650fcdaa5b9202b85eb7fc9725638955700147
+size 509

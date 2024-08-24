@@ -1,1 +1,3 @@
-Outorga do Prêmio Irmã Dulce ao Município de Itabuna, pelo Conselho Estadual dos Secretários Municipais de Saúde da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eedc2241547579792969e18528cd1e0b6c56cffd983cf00d71f9a1223609fff1
+size 127

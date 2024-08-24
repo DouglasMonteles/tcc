@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Veto Total nº 1, de 2020, aposto ao Projeto de Lei nº 4.489, de 2019, do Senado Federal, (nº 10.980, de 2018, na Câmara dos Deputados), sobre a alteração da Lei nº 8.906, de 1994 (Estatuto da OAB), e do Decreto-Lei nº 9.295, de 1946, com vista ao estabelecimento da natureza técnica e singular dos serviços prestados por advogados e por profissionais de contabilidade. Associação do pronunciamento do Deputado Sérgio Souza a respeito da rejeição de vetos presidenciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa5bd5a9ea48ff3601e35c2ec3b068d195ca53793e1ec50e63e118ab1761565f
+size 524

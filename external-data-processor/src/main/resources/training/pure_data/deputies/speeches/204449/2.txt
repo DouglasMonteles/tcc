@@ -1,1 +1,3 @@
-Reiteração do apoio incondicional do orador ao Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:893bd787531afd061ab4c820d840710ecf144fdfd5efc36307963e5b2d309798
+size 75

@@ -1,1 +1,3 @@
-Realização, pela Assembléia Legislativa do Estado do Ceará, de sessão solene ao ensejo do transcurso do Dia do Médico. Artigo Os médicos continuam infelizes, do Dr. Miguel Srougi, publicado pelo jornal Folha de S.Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c804f43dc06a02ad83f82d1fa0905911436e41f4d6eb230a37f370b2400240c
+size 226

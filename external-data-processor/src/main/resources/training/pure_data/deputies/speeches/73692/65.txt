@@ -1,1 +1,3 @@
-Reexame da política cambial brasileira em prol do setor de exportação. Dificuldades enfrentadas pela indústria nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19b407e065683b70cf367f22fdebfe0389a7a47b6fe00124adcb3cb70929924f
+size 124

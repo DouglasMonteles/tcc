@@ -1,1 +1,3 @@
-Realização da Serenata Italiana pela Associação Festa da Polenta - AFEPOL, no Município de Venda Nova do Imigrante, Estado do Espírito Santo. Convite aos Parlamentares para participação no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a04f30c5fb60e0da868720ac9132e2922b0065fd06e77205e5de2b7b0a177ac6
+size 204

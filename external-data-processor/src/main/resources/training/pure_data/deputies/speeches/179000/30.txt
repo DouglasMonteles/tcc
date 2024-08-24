@@ -1,1 +1,3 @@
-Saudações aos Deputados do PSL. Agradecimento ao Presidente da Frente Parlamentar Mista em Defesa do Turismo, Deputado Herculano Passos, pela indicação do orador para o cargo de Ministro do Turismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23b72225686ff258811b08f706d8822ffc3e71a2fc31c40e4ccd0df34f6da29a
+size 202

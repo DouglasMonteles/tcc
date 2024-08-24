@@ -1,1 +1,3 @@
-Transcurso do 72º aniversário de emancipação político-administrativa do Município de Governador Valadares, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de640345a7b08ed34c7b238a0072be9272f38b3e658ecf5f7672992262537b76
+size 136

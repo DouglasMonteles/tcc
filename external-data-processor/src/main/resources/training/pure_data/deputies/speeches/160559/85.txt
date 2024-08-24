@@ -1,1 +1,3 @@
-Lamentação com a expectativa de manutenção do Veto Parcial nº 2, de 2014 (tipificar o vinho produzido por agricultor familiar ou empreendedor familiar rural, estabelecer requisitos e limites para a sua produção e comercialização e definir diretrizes para o registro e a fiscalização do estabelecimento produtor), e do Veto Total nº 5, de 2014 (desobriga as máquinas agrícolas do registro e licenciamento anual).
+version https://git-lfs.github.com/spec/v1
+oid sha256:578d9b461d53d1ce98b2b16a6695644828bcef77f628064d5f07aa744afadf22
+size 425

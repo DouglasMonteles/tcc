@@ -1,1 +1,3 @@
-A Deputado orientou a bancada na votação do requerimento de adiamento da discussão do Projeto de Lei n°2.721, de 2023, que dispõe sobre a prestação de serviços postais aos órgãos públicos federais da administração direta e indireta. Ademais, manifestou-se pela libertação da Palestina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c2588ee78fbdecbf560a5554595c1a3187c0e32204a2552040763432403a8cb
+size 300

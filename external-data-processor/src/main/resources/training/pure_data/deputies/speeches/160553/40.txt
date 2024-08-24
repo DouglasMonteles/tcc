@@ -1,1 +1,3 @@
-Efeitos devastadores provocados pela seca no Estado da Bahia. Adoção pelo Governo Federal de ações em prol das municipalidades atingidas pelo fenômeno climático.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef6fb8376f3b967976e18480c8f3bd0490d6afb5996c854f8b00e96f321c55a8
+size 167

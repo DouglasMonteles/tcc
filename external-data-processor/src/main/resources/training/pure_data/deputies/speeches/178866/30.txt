@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado do § 2º do art. 18 do Substitutivo da Comissão Especial à Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário. Poscionamento da oradora contrário à reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:241617a2d2f8a8e288e4ae02a043d3bf209283b12956f8edce14eb19afc1c7cf
+size 312

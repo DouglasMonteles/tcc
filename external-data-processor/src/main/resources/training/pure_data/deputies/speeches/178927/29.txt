@@ -1,1 +1,3 @@
-Exclusão do Ministério da Educação e do Ministério da Saúde quanto à incidência de cortes de recursos orçamentários definidos pelo Governo Federal. Indignação do orador com a aprovação do financiamento empresarial de campanhas eleitorais a partidos políticos. Solidariedade ao movimento grevista de servidores e professores da rede de ensino público do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dd0fca264853a859407a276d1837bc3995f81bb90f39ab86dd95aa478afb82f
+size 387

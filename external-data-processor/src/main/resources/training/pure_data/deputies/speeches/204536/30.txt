@@ -1,1 +1,3 @@
-Defesa de realização da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28c3be69d90550f89ea46a18f939972bddafe217e8638f403f5d8a3666858d51
+size 50

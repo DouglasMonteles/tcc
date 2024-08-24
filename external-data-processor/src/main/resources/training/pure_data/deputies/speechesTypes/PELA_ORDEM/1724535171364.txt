@@ -1,1 +1,3 @@
-Elevado índice de aprovação popular do Governador do Distrito Federal, Ibaneis Rocha. Excelência da gestão do Governador brasiliense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20de3b00bb4ee3bd86350d21af3f1fc3b8c22785ef83a3b1971b6116f404886f
+size 138

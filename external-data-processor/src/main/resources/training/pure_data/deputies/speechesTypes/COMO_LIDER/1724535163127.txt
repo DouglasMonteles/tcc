@@ -1,1 +1,3 @@
-O Deputado destacou a aprovação da lei do marco temporal para demarcação de terras indígenas, criticando vetos presidenciais que foram posteriormente derrubados. Expressou sua inquietação com a presença de armas de guerra nas mãos de criminosos no Brasil, elogiando as forças policiais e criticando a falta de ação do Governo Federal. Além disso, manifestou repúdio ao ICMBio em relação ao Parque Nacional da Chapada dos Guimarães, denunciando que a falta de autorização do instituto impede intervenções necessárias para evitar acidentes, como quedas de pedras. O Parlamentar defendeu a estadualização do parque.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0110d300e079c2198541080d7d70c6af466ed3245f634b6818c6a977580b8ded
+size 636

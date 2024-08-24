@@ -1,1 +1,3 @@
-Defesa de aprovação pela Casa do Projeto de Lei Complementar nº 73, de 2021, (Projeto Paulo Gustavo), sobre a concessão, pela União, de apoio financeiro aos Estados, ao Distrito Federal e aos Municípios para garantia de ações emergenciais destinadas ao setor cultural. Necessidade de verificação in loco, pela Agência Nacional de Energia Elétrica - ANEEL, da qualidade dos serviços prestados aos usuários pelas operadoras de Internet no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b85a59d63044163bc78f1d59de60fc12cc39ea6af371f229e5bcaf886e29d1a3
+size 470

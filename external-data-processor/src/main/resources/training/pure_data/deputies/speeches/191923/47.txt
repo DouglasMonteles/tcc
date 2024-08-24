@@ -1,1 +1,3 @@
-Realização, pela Comissão de Seguridade Social e Família, de audiência pública para discussão do Projeto de Lei nº 1.305, de 2021, de autoria do orador, acerca da destinação, pelo Fundo Nacional de Assistência Social - FNAS, de pensão individual e mensal, no valor de um salário mínimo, a crianças e adolescentes órfãos em decorrência da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6114fbc2309663e6b63eee54e98dbe4d86740dba3b6762f808fe36cd89dd2af7
+size 365

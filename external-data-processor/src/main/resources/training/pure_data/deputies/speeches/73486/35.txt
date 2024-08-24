@@ -1,1 +1,3 @@
-Defesa da  conclusão da votação da Medida Provisória nº 431 de 2008,  para viabilizar a votação da  Medida Provisória nº 432, de 2008, sobre a renegociação de dívidas dos agricultores brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b401209234763e39d79b9a326faa0fa5da0ec2bca7cb6dc4a07d38d9dc5b7b3
+size 208

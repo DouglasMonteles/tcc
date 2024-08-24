@@ -1,1 +1,3 @@
-Reação do cantor Zeca Baleiro contra espectador diante da interpelação a respeito da Lei Rouanet. Utilização política da Lei nº 8.313, de 1991, (Lei Rouanet), em benefício do governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a10e93a3acf0697303a4c186cbb848262e989e30070ee58602ce47ea549cc49f
+size 200

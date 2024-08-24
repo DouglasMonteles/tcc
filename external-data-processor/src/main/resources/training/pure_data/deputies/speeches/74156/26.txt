@@ -1,1 +1,3 @@
-Defesa da convocação de Assembléia Nacional Constituinte para a realização da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ced3a4f91a9ce4e0604ca0d40fb58f078930897837c49adb28b2345edd4275db
+size 101

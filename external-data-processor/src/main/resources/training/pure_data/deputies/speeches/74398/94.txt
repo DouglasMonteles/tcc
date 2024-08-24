@@ -1,1 +1,3 @@
-Avanços do setor educacional brasileiro. Descaso do Governo Estado do Rio Grande do Sul com a educação infantil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59fcc002d411280cfa94efce3b93179d436d9ce3ca94a5c4cee1b5a1370cbd63
+size 115

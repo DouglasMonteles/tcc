@@ -1,1 +1,3 @@
-Transcurso do 165° aniversário natalício do Padre Cícero Romão Batista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23063b22158a8103ff0677c4444e8f6e3bfc48eecb1a1742ef6d6cb2f040850f
+size 76

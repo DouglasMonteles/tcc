@@ -1,1 +1,3 @@
-Solicitação aos Deputados do Partido da República de comparecimento ao plenário para registro de presença.
+version https://git-lfs.github.com/spec/v1
+oid sha256:902850adf75c33706b143a2d4ff645435253576405e3d72ebcba8c968ef690c7
+size 111

@@ -1,1 +1,3 @@
-Transcurso dos aniversários natalícios do Deputado Inocêncio Oliveira e do Prefeito Municipal de Pedra Branca, Antonio Gois Monteiro Mendes. Comemoração do Dia do Comerciário. Saudações às comunidades indígenas no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d16aa53bf49209b8d43ef316d6d955ddab3a264a56432df8eca2b63aeb2823e
+size 241

@@ -1,1 +1,3 @@
-Eleição do orador para a Presidência da Confederação Internacional das Misericórdias - CIM. Realização do Congresso Mundial das Santas Casas de Misericórdia e Hospitais Filantrópicos, em Salvador, Estado da Bahia. Realização em Macau, na República Popular da China, de evento preparatório para o congresso mundial. Crise financeira das santas casas de misericórdia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02ca2c14c919b1a70d2fe92e29ec7275d735c916c6d94ed994a40fb7d60564ac
+size 380

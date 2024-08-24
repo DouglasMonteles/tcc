@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nª 5.634, de 2019, sobre o plantio de espécies nativas para a recuperação ou restauração de áreas ecologicamente sensíveis na propriedade rural. Preocupação com a adoção pelo Governo Federal de medidas com impacto na queda da receita e aumento das despesas dos Estados e Municípios brasileiros. Ineficácia das medidas na redução do preços dos combustíveis. Responsabilidade da política de dolarização dos derivados de petróleo adotada pela PETROBRAS na elevação dos valores cobrados aos consumidores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3b171f2cc38ff04d99ee4924e0192cbe97a109bde02965a27344864b37300b3
+size 634

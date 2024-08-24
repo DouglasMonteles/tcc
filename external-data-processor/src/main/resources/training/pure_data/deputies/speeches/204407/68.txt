@@ -1,1 +1,3 @@
-Protesto contra a política ambiental do Governo Jair Bolsonaro. Urgente necessidade de adoção de medidas para preservação da Amazônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:febf58ef9bd9465a07a36e542b24a0ae836a48222c2850a057ecde30a3187d78
+size 140

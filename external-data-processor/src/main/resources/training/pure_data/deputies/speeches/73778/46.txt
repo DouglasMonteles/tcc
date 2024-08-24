@@ -1,1 +1,3 @@
-Congratulação ao Presidente eleito do Paraguai, Fernando Lugo. Expectativa de auditoria das contas da empresa Itaipu Binacional pelo novo mandatário paraguaio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0d7b3942c5c50ab86f4d3a8d03fb6ace995e129adffab13e65880203b868bcc
+size 162

@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de inclusão automática na Ordem do Dia do Projeto de Lei nº 2.720, de 2023, sobre a tipificação dos crimes de discriminação contra pessoas politicamente expostas e sobre alteração do Código de Defesa do Consumidor, para prescrição dos procedimentos adotados pelas instituições financeiras nos casos de negativa de abertura ou manutenção de conta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:121ca6567252305eb35ec9da7ce751e249999907b36a9a2ee79cb5add707fb95
+size 406

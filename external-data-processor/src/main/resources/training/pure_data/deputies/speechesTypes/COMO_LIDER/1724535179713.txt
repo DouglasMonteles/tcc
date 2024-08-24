@@ -1,1 +1,3 @@
-Defesa da aprovação pela Casa da Medida Provisória nº 890, de 2019, sobre a instituição do Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde - SUS, e a criação do serviço social autônomo, denominado Agência para o Desenvolvimento da Atenção Primária à Saúde. Previsão no bojo da propositura de realização, duas vezes ao ano, do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituições de Educação Superior Estrangeiras - REVALIDA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d796bbabfd720a1a55344d287e417c53586d6014df7c3b70c8297f3bdf5d3806
+size 529

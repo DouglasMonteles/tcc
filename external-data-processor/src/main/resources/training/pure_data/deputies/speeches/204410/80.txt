@@ -1,1 +1,3 @@
-Congratulações ao Prefeito Marcelo Belinati e ao Secretário Municipal de Saúde Felippe Machado, de Londrina, Estado do Paraná. pela realização de curso de formação em cuidados paliativos para profissionais da área da saúde. Revitalização da Avenida José Bonifácio, no Município de Cambé, Estado do Paraná, pela gestão do Prefeito Conrado Ângelo Scheller. Atuação parlamentar do orador e do Deputado Estadual Tiago Amaral, do Paraná, na destinação de recursos para a realização da obra de infraestrutura rodoviária de Cambé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ff9716071656920de2d3a43fca1c41ff3ba66768a1bc27bcfa8ffad3db081b2
+size 552

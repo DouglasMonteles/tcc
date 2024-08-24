@@ -1,1 +1,3 @@
-Conveniência de esclarecimento pelo Governo Federal de aspectos do Programa Minha Casa, Minha Vida, destinado à redução do déficit habitacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85b8872047a99b06aad28d77976f3e110b11ce969f97ff32818de0565b3f8e3c
+size 149

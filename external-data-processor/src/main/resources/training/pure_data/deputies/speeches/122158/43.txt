@@ -1,1 +1,3 @@
-Orientação de bancada para votação das Emendas nºs 1 e 2, do Senado Federal, oferecidas ao Projeto de Lei de Conversão nº 24, de 2017, da Medida Provisória nº 776-A, de 2017, a respeito da alteração da Lei nº 6.015, de 31 de dezembro de 1973, sobre os registros públicos, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b3759505fc5a94ac58a0b1d4ec4ffeecaf8b796ff34c7b17a469ec08632dcbd
+size 310

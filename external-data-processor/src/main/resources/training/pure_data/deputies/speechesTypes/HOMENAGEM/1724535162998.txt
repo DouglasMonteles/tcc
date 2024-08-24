@@ -1,1 +1,3 @@
-Homenagem ao Estado de Israel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1f6230f08f980bfc305353002265040f36514907b011ed4cea5880e966ca5f3
+size 30

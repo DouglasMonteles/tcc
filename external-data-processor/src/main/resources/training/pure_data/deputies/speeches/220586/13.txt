@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com o acordo entre a Braskem e a Prefeitura de Maceió, destacando que a empresa é a maior beneficiária do crime ambiental que cometeu na região. Ressaltou que a Braskem ainda não indenizou ninguém e criticou o acordo que dá à empresa 20% do território da capital alagoana, isentando-a de responsabilidades ambientais passadas, presentes e futuras. Por fim, pediu à Prefeitura de Maceió que desfaça o acordo e cancele a venda de áreas da cidade para a empresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72a8a1852584b07713cd3680438ef8364f30f5dca4847fe749090ddc7ba90617
+size 507

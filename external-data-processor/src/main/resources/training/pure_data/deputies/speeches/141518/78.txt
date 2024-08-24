@@ -1,1 +1,3 @@
-Esclarecimentos ao Plenário sobre os motivos da representação do orador contra o Deputado Chico Alencar junto ao Conselho de Ética e Decoro Parlamentar da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe9924817f82e0386c09738c05a98dd7ac0f830783546c980ff5e42ad78414b5
+size 164

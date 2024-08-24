@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Distrito Federal pelos votos obtidos nas eleições para o Senado Federal. Atuação parlamentar do orador. Repúdio a declarações da candidata governamental à Presidência da República, Dilma Rousseff. Insatisfação com a falta de apuração de vários escândalos no âmbito do Governo Federal. Descontentamento com a expressiva votação obtida pelo artista Tiririca, em São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:254578725bd2d709ad3c2c1fe85dd4199548ceabcf6ae2cff7876cb80969a239
+size 421

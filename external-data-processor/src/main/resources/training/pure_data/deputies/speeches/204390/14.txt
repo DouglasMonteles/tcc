@@ -1,1 +1,3 @@
-Urgente necessidade de aprovação, pela Câmara dos Deputados, de projeto de lei sobre a prorrogação do prazo de vencimento de duplicatas e a concessão de empréstimo às empresas brasileiras para o pagamento salarial de seus empregados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e84d269afd3600b313eccf86c74203dfb6d5c5052b2e46f6e072bdd244558dd3
+size 241

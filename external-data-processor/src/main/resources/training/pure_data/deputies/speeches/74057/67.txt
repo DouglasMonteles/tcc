@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Educação e Cultura,  ao Projeto de Lei 4. 383 de 2008 (Institui a Semana de Mobilização Nacional para Doação de Medula Óssea)
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ada16c62de8bb666610ae27a2f58e993ce707699f2689e002de4322396a778e
+size 159

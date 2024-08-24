@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos 125 anos da criação da Justiça Federal.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55fdcbbcb7bd203289afd49c7011bbe3740a2774b39272e41958c5ed9900118e
+size 223

@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva oferecida pelo Relator da Comissão de Seguridade Social e Família, ao Projeto de Lei nº 873, de 2020, sobre a alteração da Lei nº 13.982, de 2020, com vista à mudança nas regras do auxílio emergencial; à vedação da suspensão de benefícios previdenciários e assistenciais concedidos aos idosos, às pessoas com deficiência ou com enfermidade grave, durante a pandemia da Covid-19, ressalvados os destaques. Necessidade de regularização, pela Caixa Econômica Federal, do acesso de trabalhadores informais e famílias carentes ao auxílio pecuniário emergencial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30b6acedda7de388c6b2b514875c168a6bd0df2f0cee58bcf458cdd3430653b4
+size 642

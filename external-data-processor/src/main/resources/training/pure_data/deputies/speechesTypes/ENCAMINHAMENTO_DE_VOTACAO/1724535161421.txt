@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de votação nominal do requerimento de retirada de pauta da Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f28b1ac27fe0cbbcd9c436a5564afde142455eef9da70222186c6009445aacd
+size 223

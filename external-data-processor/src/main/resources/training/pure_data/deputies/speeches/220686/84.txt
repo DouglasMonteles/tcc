@@ -1,1 +1,3 @@
-Relato da visita de comitiva de Parlamentares ao Parlamento Europeu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b488e096d595c38992cb8bb0eb007d7279d59f6d958ea62eb9100cb44d888511
+size 68

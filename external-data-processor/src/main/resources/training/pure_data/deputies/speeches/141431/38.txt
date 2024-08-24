@@ -1,1 +1,3 @@
-Crescimento da economia brasileira, com expansão da base tributária e queda na inadimplência e sonegação, nos âmbitos federal e estadual. Reflexos da crise financeira na cadeia mundial de produção e comercialização. Urgência da votação, pela Casa, da proposta de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f12c95430b61213485645ea332db6944a1c3d751c8cbb47a5a67e6a171e3faff
+size 296

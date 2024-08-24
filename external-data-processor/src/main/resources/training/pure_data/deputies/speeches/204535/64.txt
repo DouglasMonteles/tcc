@@ -1,1 +1,3 @@
-Solidariedade aos indígenas guaranis, diante de agressão à Área de Proteção Ambiental na região de Jaraguá, em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dd1fe65be2b8c1508d374bb63e07f61e76e411bbdd77dc5338e014c253b6c45
+size 152

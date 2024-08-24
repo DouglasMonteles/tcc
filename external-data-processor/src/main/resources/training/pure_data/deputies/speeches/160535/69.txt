@@ -1,1 +1,3 @@
-Posicionamento favorável do PSC  às Emendas de Plenário ao Projeto de Lei Complementar 543 de 2009 (Altera a Lei Complementar 97 de 1999, que dispõe sobre as normas gerais para a organização, o preparo e o emprego das Forças Armadas, cria o Estado- Maior Conjunto das Forças Armadas e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5667c384a938a343c50a95eb710e494ed84b4820c4285215b6a4fa04c53c231e
+size 319

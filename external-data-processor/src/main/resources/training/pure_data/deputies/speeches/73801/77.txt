@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 11, apresentada à Medida Provisória nº 925, de 2020, sobre as medidas emergenciais para a aviação civil brasileira diante da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c3410467f3e28d2b7a6e5f49701b9bef48e3c6d62c3bfe96ae99c15f6d6591b
+size 274

@@ -1,1 +1,3 @@
-Homenagem aos habitantes do Município de Belém do São Francisco, Estado de Pernambuco, ao ensejo do transcurso do 90° aniversário de criação de bonecos gigantes, característicos do carnaval de Recife e Olinda. Cumprimentos aos organizadores dos festejos carnavalescos na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbe24fd9a360a5da10c55d2e3dedbeb9830621a265f748eac534916e999361f8
+size 294

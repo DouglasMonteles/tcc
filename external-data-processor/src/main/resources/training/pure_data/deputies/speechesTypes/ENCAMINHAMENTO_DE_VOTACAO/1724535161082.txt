@@ -1,1 +1,3 @@
-Encaminhamento de votação do Requerimento de retirada da pauta da Ordem do Dia  do Projeto de Lei 865 de 2011 (Altera a Lei  10.683 de  2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, cria a Secretaria da Micro e Pequena Empresa, cria cargo de Ministro de Estado e cargos em comissão, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c9c5d766a65ccaab4c1f77b00f2833ace856bc81753ff1953de7fc62045222a
+size 358

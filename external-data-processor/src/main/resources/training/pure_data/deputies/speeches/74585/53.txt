@@ -1,1 +1,3 @@
-Elaboração da nova CLT - Consolidação das Leis do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd92230183e2bf6b2bc90a7ee2f603297929668d343b3066365b7e329b75413b
+size 63

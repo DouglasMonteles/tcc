@@ -1,1 +1,3 @@
-Protesto contra o reajuste das tarifas do transporte público de passageiros, no Município de Ribeirão Preto, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f848fd95efbc2548dfd80778d3e1bbf12db030ee184b5aab6ef43ba379102ff
+size 133

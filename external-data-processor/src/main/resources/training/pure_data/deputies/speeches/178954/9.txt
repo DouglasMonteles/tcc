@@ -1,1 +1,3 @@
-Preocupação com a síndrome da morte do capim braquiária nos Estados de Mato Grosso, Rondônia e Acre. Pedido à Ministra da Agricultura, Pecuária e Abastecimento, Kátia Abreu, de designação de equipe para realização de estudos e pesquisas sobre o problema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea78d36a1146a9f4a02549f0a4b2167b2c72d83fcba903a5b35e737aeee14517
+size 266

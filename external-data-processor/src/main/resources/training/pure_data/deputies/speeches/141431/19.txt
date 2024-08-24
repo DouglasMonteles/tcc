@@ -1,1 +1,3 @@
-Lançamento do Programa de Gestão Pública em Educação, pelo Governo do Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e80fbcf2f42935a430f98846de54071877fd5c69513e52413649dec67eb5a1f9
+size 96

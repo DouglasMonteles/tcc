@@ -1,1 +1,3 @@
-Contestação a discurso de Deputado do PT capixaba sobre a aprovação do Presidente Luiz Inácio Lula da Silva, inclusive pela maioria dos evangélicos do País. Congratulações à Polícia Militar do Estado do Espírito Santo pelo êxito de operação contra criminosos realizada na região do Morro do Macaco, em Vitória. Solicitação ao Governador Renato Casagrande de concessão de reajuste salarial aos profissionais da segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb51102b676e2349813d952da6ae0031540dacadbd0316a0cd7f694797115168
+size 450

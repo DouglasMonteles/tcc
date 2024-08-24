@@ -1,1 +1,3 @@
-Natureza separatista e preconceituosa da proposta de criação da Frente Sul-Sudeste em oposição aos Estados das Regiões Norte e Nordeste, apresentada pelo Governador do Estado de Minas Gerais, Romeu Zema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93beefd1c62006b828050e5f0eec07c73d833a3203cfd6e80a926b43224ec455
+size 208

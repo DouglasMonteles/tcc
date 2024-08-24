@@ -1,1 +1,3 @@
-Inexistência de compromisso do chamado Plano Dubai para o desenvolvimento da região amazônica. Propósito do Ministro da Economia, Paulo Guedes, de desestruturação da Zona Franca de Manaus, no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9305ebb570ee03987fed88c9684a0f69704ebaf4aa5b3f700c43bb6c30f1f8e
+size 217

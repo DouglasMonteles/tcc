@@ -1,1 +1,3 @@
-Artigo O que defendo para a reforma política, de autoria do Parlamentar, veiculado no Jornal Pequeno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6ca04e37e8c08d6206e0fb7abe7bf403e43c1a8dfd57076ecfda0428fa1c87e
+size 102

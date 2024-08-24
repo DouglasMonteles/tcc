@@ -1,1 +1,3 @@
-Manifestação de votos de condolências aos familiares do Senador Jonas Pinheiro, especialmente à sua esposa, Celcita Pinheiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b171db4ad286f33dd67092847370dac500c5444f205b50eeb7bffeaf229d20a
+size 129

@@ -1,1 +1,3 @@
-Defesa da extensão para o Estado do Espírito Santo de normas do Protocolo de Intenções pela Adoção de Boas Práticas Trabalhistas e Condições de Trabalho Decente na Cafeicultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87389f87a592f33eec9a1bfbc428047dc04ec939be920c3f3091b9367ba7ecde
+size 186

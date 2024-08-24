@@ -1,1 +1,3 @@
-Exigência de maior respeito do PT para com os militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1616850bb137475ec0bf0ca35a757e93b1d4e753d1cabd87865ab16185712b52
+size 57

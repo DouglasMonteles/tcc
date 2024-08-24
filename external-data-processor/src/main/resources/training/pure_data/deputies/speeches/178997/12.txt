@@ -1,1 +1,3 @@
-Panorama da crise institucional do País. Críticas ao Governo Federal pela condução da política econômica. Desequilíbrio na distribuição, entre União, Estados e Municípios, dos recursos arrecadados. Defesa da reforma do pacto federativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:517e6753052cd0b5b91b7118b2ff78fec9a265ee5f5379cedef50cc86e1909b4
+size 247

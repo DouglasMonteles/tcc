@@ -1,1 +1,3 @@
-Posicionamento favorável do PT ao Projeto de Lei 1.806 de 2011 (Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 23ª Região e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7429a358a022a0d9083316bbddb618b0605fb74466a9964d677b36ff476c3ab7
+size 205

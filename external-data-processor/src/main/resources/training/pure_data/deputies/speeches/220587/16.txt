@@ -1,1 +1,3 @@
-O Deputado apresentou projeto de lei que altera dispositivo da Lei Geral de Telecomunicações, para estabelecer a fruição por tempo indeterminado dos créditos de telefonia celular pré-paga. Enfatizou que a matéria, se aprovada pelo Parlamento e sancionada, beneficiará milhões de usuários. Também apresentou projeto de lei que estabelece piso salarial de 2.640 reais aos microscopistas, destacando a necessidade de valorizar a categoria. Por fim, manifestou expectativa de que as matérias sejam aprovadas pela Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e936ab5d99cec9a542ad8437fcbb13309b7996486bb72b59b380306cddf6ff33
+size 526

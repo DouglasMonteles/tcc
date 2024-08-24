@@ -1,1 +1,3 @@
-Perplexidade ante a celeridade na votação, pela Assembléia Legislativa do Estado da Paraíba, da proposta orçamentária estadual de 2009.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd8125efa45563419e3d132b9f62a779654d61622e14b42bcf7f101957b5ccec
+size 141

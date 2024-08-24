@@ -1,1 +1,3 @@
-Saudação ao novo Deputado Ubiratan Sanderson.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4edcf5fa56d0a595e654faaf43dba2e94c2eff42be1a640a26f89aca4ae6915c
+size 47

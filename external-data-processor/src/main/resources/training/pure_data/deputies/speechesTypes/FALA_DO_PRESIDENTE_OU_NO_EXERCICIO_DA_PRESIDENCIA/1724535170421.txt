@@ -1,1 +1,3 @@
-Saudação ao Deputado Distrital Peniel Pacheco. Gratidão da população brasiliense e do País para com os bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:deb9d498e4e356b550ccefe61df85d1ceb89b636d58a571c757a7ba7fa528083
+size 129

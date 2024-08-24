@@ -1,1 +1,3 @@
-Defesa de aprovação de proposta de reforma política voltada para a unificação da data das eleições em âmbito federal, estadual e municipal e para o fim das coligações nas eleições proporcionais. Expectativa de redução do número de ministérios pelo próximo Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7233529fbba28db2e364040c86b9826b5b1fedfdbfbee0df4ae45d12677f6b8f
+size 298

@@ -1,1 +1,3 @@
-Lançamento do Plano Safra 2011/2012 pela Presidenta Dilma Rousseff, por ocasião de sua visita ao Estado do Paraná. Criação do Plano Brasil sem Miséria pela Presidenta da República. Realização pelo Governo Federal de grandes investimentos no Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8218c536ad95d837eb8186a3ed1b14556b61f9e3412db0546ff73c11a25678a
+size 258

@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Saúde. Vantagens advindas da prática de medicina preventiva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:baf3817579ece66a3841417cd079ec7cff97fec89620ad87224b2297abde3809
+size 92

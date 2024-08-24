@@ -1,1 +1,3 @@
-Apoio ao Projeto de Resolução nº 77, de 2021, sobre a denominação, de Sala Carlos Eduardo Cadoca, da Sala da Comissão de Turismo da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4391f4270945fe5a4e56a976a8eb7b7b04a98a96f13993b9205ee1053108eeb
+size 160

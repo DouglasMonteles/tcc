@@ -1,1 +1,3 @@
-Decisão da Agência Nacional de Saúde Suplementar sobre a ampliação da cobertura aos segurados de planos de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9217896a4d3d9c31fc7500455d8bc1dfa4f76bf4c314cd14100d689a32f41700
+size 119

@@ -1,1 +1,3 @@
-Resposta à Deputada Rita Camata.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9291b8536bda8e39bb7db3b2cb3b713cff2e4ad091e126d3840f7152f121720f
+size 33

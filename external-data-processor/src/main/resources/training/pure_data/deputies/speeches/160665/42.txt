@@ -1,1 +1,3 @@
-Repúdio ao patrocínio da Caixa Econômica Federal ao clube de futebol Corinthians. Apresentação de projeto de lei sobre o impedimento de patrocínio do futebol profissional brasileiro por órgãos públicos e empresas associadas ao poder público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a27965d46642ecb83e4b3e9de1a148edd6ce7e1a02d529b9ae2f8568521fcb31
+size 251

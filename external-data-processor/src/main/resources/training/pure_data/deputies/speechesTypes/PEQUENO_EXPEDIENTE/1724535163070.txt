@@ -1,1 +1,3 @@
-Desabamento de prédio em Fortaleza, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88c71949764fc625e446fa54709f6f17c8d0573d8207db78b5dc6cf258efdf73
+size 54

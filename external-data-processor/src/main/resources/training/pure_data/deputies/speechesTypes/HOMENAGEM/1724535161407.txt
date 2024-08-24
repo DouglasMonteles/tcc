@@ -1,1 +1,3 @@
-Comemoração do 55º aniversário de fundação do Instituto Histórico e Geográfico do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78e97e1bed47f7c66939df72e4a71eff52c0bfdabc83b9dc1fb486034fb73fdf
+size 107

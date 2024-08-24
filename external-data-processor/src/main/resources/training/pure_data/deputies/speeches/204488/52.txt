@@ -1,1 +1,3 @@
-Congratulações ao Corpo de Bombeiros Militar e à sociedade cearense pelas ações realizadas diante do desabamento de edifício residencial na Capital Fortaleza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2acd0b1c7f6535016f6b4e0fcb62815462511eff79b36f22bc2ec707a608b4d7
+size 164

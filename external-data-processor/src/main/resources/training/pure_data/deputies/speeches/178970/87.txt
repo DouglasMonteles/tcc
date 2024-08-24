@@ -1,1 +1,3 @@
-Homenagem póstuma à artista Jeane Pereira Leite, a Jeane Show.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1113b58b9c28b40af1833653dbb88ed605aad5f6023c663c6757dcef3e1b48a7
+size 64

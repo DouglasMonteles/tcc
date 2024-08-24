@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado, para fins de supressão, do art. 2º, inciso I, da Medida Provisória nº 863, de 2018, sobre a abertura do setor aéreo ao capital estrangeiro. Ataque às instituiições democráticas pelo Presidente Jair Bolsonaro. Superação da desaprovação do Governo Jair Bolsonaro em relação à sua aprovação, de acordo com pesquisa de opinião pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f53d0fb8fb075547ab8734b038892b1805fca77a42e6ed9c76f8ea4a0ae74cb9
+size 435

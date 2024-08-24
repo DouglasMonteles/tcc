@@ -1,1 +1,3 @@
-Vulnerabilidade da economia brasileira diante da crise financeira internacional. Contrariedade à aprovação de medidas para proteção das instituições financeiras em detrimento dos interesses dos trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3060f30473d9f14a9a14dca6c67bab07071d4fb691ded4d8486511caf0083b16
+size 215

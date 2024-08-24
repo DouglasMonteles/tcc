@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, de requerimento de convite aos Ministros da Agricultura, Pecuária e Abastecimento, das Relações Exteriores, do Desenvolvimento, Indústria e Comércio Exterior e do Desenvolvimento Agrário, para esclarecimento ao órgão sobre a importação de banana do Equador. Relevância do Projeto Formoso acerca do cultivo da banana na região sul do Estado da Bahia. Defesa de abertura de linhas de crédito especial aos produtores rurais do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04ad055fcaa3033fa77691c677c2516ca5ef0d526812f72c64727274633a3f40
+size 538

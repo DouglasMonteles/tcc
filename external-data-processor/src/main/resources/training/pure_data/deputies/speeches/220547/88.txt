@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 1.768, de 2023, que reabre prazo para repactuação de dívidas de crédito rural abrangidas pela Lei nº 11.322, de 13 de junho de 2006 (Lei Eunício Oliveira), e estende as condições nela previstas a dívidas contraídas por Microempreendedor Individual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30596efc00a2e57570203ee5088cc099ae42b4e53c26f020e426368f2dd03ea9
+size 360

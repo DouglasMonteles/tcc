@@ -1,1 +1,3 @@
-Empenho da bancada federal paraibana na construção do Hospital de Traumas do Sertão, no Município de Patos, Estado da Paraíba. Apelo à Secretaria de Defesa Civil de atendimento às populações atingidas pelas chuvas em municipalidades paraibanas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f07d50ce979445f204b1d1c357aeb934958fbb417c91651126046c5b7e34fcd7
+size 253

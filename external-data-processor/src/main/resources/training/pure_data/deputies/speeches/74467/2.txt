@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar em Defesa dos Profissionais de Saúde. Urgente necessidade de regulamentação da Emenda Constitucional n° 29, de 2000, sobre a destinação de recursos para a área da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d8c89f8416891f6f876910ba6ae765c2160a2bdf40e5b77a20b8a4b9c5d4c05
+size 209

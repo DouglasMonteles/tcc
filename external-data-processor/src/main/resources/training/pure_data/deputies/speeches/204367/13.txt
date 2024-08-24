@@ -1,1 +1,3 @@
-Eleição do orador para a Presidência da Frente Parlamentar Mista em Apoio ao Carvão Mineral. Importância do carvão mineral, recurso natural abundante na Região Sul do Brasil, como fonte na matriz energética mundial ao longo das próximas décadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fafbe79b15da56a34d02609e0133e9fe5ca2bb1f1cf8a2602d8809795746e33
+size 255

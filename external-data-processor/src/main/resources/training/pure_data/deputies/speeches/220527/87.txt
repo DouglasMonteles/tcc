@@ -1,1 +1,3 @@
-A Deputada destacou o Boletim Epidemiológico sobre a saúde da população negra, trazendo preocupantes estatísticas, como mais de 60% das mortes de mulheres grávidas na época da COVID ocorrendo entre mulheres negras. Expressou a necessidade de destinar orçamento para ações que mitiguem o racismo na saúde. Comprometeu-se a promover a melhoria da saúde da população negra, alinhando-se com a recém-criada bancada negra da Câmara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48a72dff60f1e962c55e92bd3d2666c927071f0ffa626cb85f9b0a51c61867fd
+size 443

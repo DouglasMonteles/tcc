@@ -1,1 +1,3 @@
-Indignação do orador com a não votação pela Casa de projetos de lei elaborados pela CPI destinada à investigação de causas e responsabilidades pela tragédia socioambiental ocorrida no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e65d4dc536856f6b5b7c8ca0158f754dc25e0bdeee66b01bec268187139f8a92
+size 242

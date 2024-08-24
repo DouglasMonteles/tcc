@@ -1,1 +1,3 @@
-Aprovação, pela Casa, do projeto de lei sobre estabelecimento do regime de partilha dos recursos da exploração de petróleo na camada pré-sal. Importância do marco regulatório para redução das desigualdades regionais no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad5e11a2171c518c7725ef4c60c7b3268d3df03b29437d41e70e239086a44b9a
+size 235

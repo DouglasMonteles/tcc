@@ -1,1 +1,3 @@
-Repúdio ao Projeto de Lei nº 5.383, de 2019, e outros similares, sobre a modificação das Leis de nºs 10.741, de 2003, (Estatuto do Idoso), e 10.048, de 2000, com vista à alteração da idade da pessoa idosa para 65 (sessenta e cinco) anos. Presença, na Casa, dos Vereadores Marcelo Grassetti, Roberto César, Edilson Raimundo Barros, Elaine Cristina Turbiani e Narciso Ramos Pereira, da Câmara Municipal de Vista Alegre do Alto, Estado de São Paulo. Saudações ao Prefeito Luís Fiorani e ao Vice-Prefeito Arlindo Balsanelli, da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68cfc62d4bcf0904e1b5e0511842f9ecf4cf254b4aa49db900a16d594f9b7c3e
+size 554

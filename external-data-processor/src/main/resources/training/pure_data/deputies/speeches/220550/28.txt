@@ -1,1 +1,3 @@
-Indignação com atitude agressiva do Vereador Lucas Caregnato, do PT, contra a Secretária Municipal de Caxias do Sul, Grégora Fortuna dos Passos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d4d2d93ea697cf6426e27a5893831e8a30221c4c86ab57759c891f8a060bf01
+size 148

@@ -1,1 +1,3 @@
-Exigência de investigação da tentativa de assassinato de castanheiros por policias e milicianos, no Município de Eldorado dos Carajás, Estado do Pará. Redirecionamento das políticas econômica e ambiental implementadas pelo Governo Jair Bolsonaro. Subserviência do Governo brasileiro aos Estados Unidos da América.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c24ac55d3b21c0c3ab8dde8a6bc58aae3cde48dfdd417d4b3389a1ea65fbbda4
+size 323

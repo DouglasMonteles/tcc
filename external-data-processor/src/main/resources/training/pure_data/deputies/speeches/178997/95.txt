@@ -1,1 +1,3 @@
-Reunião da bancada federal nordestina com o Presidente do Senado Federal para debate acerca da contratação de funcionários pelo Banco do Nordeste do Brasil S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b1caf2beac2cf578169e9be16b7f0419d06c822003880ea02bde13a5b5e48c0
+size 164

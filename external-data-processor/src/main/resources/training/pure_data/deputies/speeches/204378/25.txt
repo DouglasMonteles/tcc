@@ -1,1 +1,3 @@
-Importância de abertura da aviação comercial brasileira ao capital estrangeiro,  para  melhoria dos serviços prestados aos usuários, especialmente nos Estados da Região Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0307b1846e556109c4966856a4d3b60884c21dccd252a79c395f8250b15f69d
+size 181

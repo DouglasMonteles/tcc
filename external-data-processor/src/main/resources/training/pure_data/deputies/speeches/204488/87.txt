@@ -1,1 +1,3 @@
-Participação do orador e dos Deputados Eduardo Bismarck e Adriana Ventura, como representantes do Parlamento brasileiro, em encontro realizado na Organização para a Cooperação e o Desenvolvimento Econômico - OCDE. Superação de entraves impeditivos da participação do Brasil na OCDE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc70fb5c5715d08c0ab9cf5cc8473eb54c65188efd753ac8fa5beb1059d76b7e
+size 293

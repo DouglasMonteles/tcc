@@ -1,1 +1,3 @@
-Contentamento com decisão judicial acerca da soltura de policiais militares envolvidos em ação ocorrida no Município de Pau D'Arco, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d606fcea3fce2874b4ac25a1c09ebb52b8a118fbf10dad6cd2a174c2ca7d3539
+size 152

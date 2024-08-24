@@ -1,1 +1,3 @@
-Constatação da queda da popularidade do Presidente Jair Bolsonaro diante do fracasso de atos realizados em favor da sua gestão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca6c1a5eb2a05d32b4668194ea092825876c013264233fc03799fff6118bc562
+size 130

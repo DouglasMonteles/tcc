@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 33, de 2021, sobre a alteração do Decreto-Lei nº 2.848, de 1940, (Código Penal), para tipificação do crime de descumprimento da ordem prioritária de vacinas. Pedido à Presidência de votação do Projeto de Lei nº 5.638, de 2020, sobre a criação do Programa Emergencial de Retomada do Setor de Eventos - PERSE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e131df2a93e9f70b7533933b4113469fc8e7bc7d63fe3c8422e9da487c3b4e05
+size 435

@@ -1,1 +1,3 @@
-Solicitação aos Deputados do PMDB de comparecimento ao plenário. Importância da matéria para o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:771958552a35277e10cd9719aa530ad22623d0cffcc6b63208996ea36fcfa296
+size 107

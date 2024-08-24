@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de  adiamento, por uma sessão, da discussão do Projeto de Decreto Legislativo 2.600 de 2010 (Submete à deliberação do Congresso Nacional o texto das Notas Reversais entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai sobre as Bases Financeiras do Anexo C do Tratado de Itaipu, firmado em 1º de setembro de 2009, para estabelecer os novos valores a serem recebidos pelo Paraguai a título de cessão de energia de Itaipu).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a6419fc9ab464cd62573f3640e59740c032deb94ada0dd1709733676cddc266
+size 508

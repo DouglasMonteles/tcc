@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 4.372, de 2020, sobre a regulamentação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5849b5056b03996fff213acb18f3ae1a6f450f09dae11fcf0c0eb2de197a93f0
+size 262

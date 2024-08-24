@@ -1,1 +1,3 @@
-Defesa da distribuição dos royalties de petróleo a todos os Estados e Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0278277640be2256bb41af80f0d74a7f96942694d30357c4400969c10f706544
+size 97

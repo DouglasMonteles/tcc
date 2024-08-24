@@ -1,1 +1,3 @@
-Esclarecimento sobre a anulação de condenações judiciais impostas ao ex-Presidente Luiz Inácio Lula da Silva por falhas no processo de julgamento. Não declaração da inocência do líder petista pela Justiça. Adoção da mentira como o norte da atuação do PT. Defesa de acatamento, pelo Supremo Tribunal Federal, da tese do marco temporal na demarcação de terras indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4386bc18b52cf07e56ec9b3f1b9757be97eebfa5e0c5dc5a5f610c600094cf51
+size 386

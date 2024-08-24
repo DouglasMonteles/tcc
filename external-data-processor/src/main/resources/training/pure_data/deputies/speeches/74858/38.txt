@@ -1,1 +1,3 @@
-Pedido ao hacker Walter Delgatti Neto, pelo ex-Presidente Jair Bolsonaro, de grampeamento do telefone celular do Ministro Alexandre de Moraes, e de invasão de urnas de votação eletrônicas para comprovação da vulnerabilidade do sistema eleitoral brasileiro. Atribuição ao ex-Presidente da República da responsabilidade pelos atos antidemocráticos ocorridos nas sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b56e1beb279a7d6b9b84fd2accfcff97ebcd1f323acf800604cfa7919f774b41
+size 402

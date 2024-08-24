@@ -1,1 +1,3 @@
-Congratulações ao Deputado Junior Marreca por iniciativa referente à vinculação da Companhia Docas do Maranhão - CODOMAR à Secretaria de Portos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6fe036621db5aacf3abf52ed99ece713701453835fe7bfe539f75922d5b9445
+size 151

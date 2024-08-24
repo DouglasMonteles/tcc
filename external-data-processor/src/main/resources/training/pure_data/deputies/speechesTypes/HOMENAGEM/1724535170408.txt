@@ -1,1 +1,3 @@
-Comemoração dos 300 anos de fundação de Cuiabá, Capital do Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbd4345ed66f084960c64078d99d07200edd79504bee3442bfa4977d9696fcaf
+size 86

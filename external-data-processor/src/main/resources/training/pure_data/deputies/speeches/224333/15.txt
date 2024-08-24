@@ -1,1 +1,3 @@
-Determinação, pelo Presidente Luiz Inácio Lula da Silva, de retirada de grades do entorno do Palácio do Planalto. Necessidade de regulamentação de plataformas digitais. Acerto da decisão judicial adotada contra o aplicativo de mensagens Telegram. Conclamação à Casa para votação e aprovação do Projeto de Lei nº 2.630, de 2020, a respeito da instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).&nbsp;
+version https://git-lfs.github.com/spec/v1
+oid sha256:b38f952ad56710f1a75d72458d8bf16ed19eefc44fc63e0fb1f76c4d6c275b1f
+size 486

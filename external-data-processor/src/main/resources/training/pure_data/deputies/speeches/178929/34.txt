@@ -1,1 +1,3 @@
-Sessão Solene em comemoração ao Jubileu da Renovação Carismática Católica no Mundo.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afc5b643af734badc9d865335eea20516861b442a6b983a2207090b70ca0554a
+size 239

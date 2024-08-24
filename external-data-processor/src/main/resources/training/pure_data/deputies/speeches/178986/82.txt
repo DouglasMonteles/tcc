@@ -1,1 +1,3 @@
-Contrariedade à proposta do Governo Federal de reforma da Previdência Social. Defesa da tese de ilegitimidade do Governo do Presidente da República, Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b59be1638e70b7e3fa22347ddbbb862f6fda5c820a4ce899a8002d8263ff9e30
+size 165

@@ -1,1 +1,3 @@
-Realização pela Casa de seminário sobre o Estatuto da Juventude. Redução das taxas de juros do Programa de Financiamento ao Estudante do Ensino Superior- FIES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:173c0e42e13ba2752d9d8877da4caa9132cfa2123f5501b61ac48d114d49a68d
+size 164

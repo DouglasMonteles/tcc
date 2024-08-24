@@ -1,1 +1,3 @@
-Realização do 26º Congresso Brasileiro de Agronomia, no Município de Gramado, Estado do Rio Grande do Sul. Transcurso do Dia do Engenheiro Agrônomo. Congratulações à Associação Bageense dos Engenheiros Agrônomos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fc8b880b1b4e59a81369957382e980f62aec43f579c70ad4b0dadf4dc208d84
+size 223

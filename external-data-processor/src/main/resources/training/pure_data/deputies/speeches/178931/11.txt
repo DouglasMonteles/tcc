@@ -1,1 +1,3 @@
-Indignação com a Prefeitura Municipal de Curitiba, Estado do Paraná, pelo fechamento de área de uso comum da população curitibana, supostamente de propriedade particular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4168e8cb9ec973c685110750dd7e52b00cef693b4ad9c14a8376863a5ba2735c
+size 176

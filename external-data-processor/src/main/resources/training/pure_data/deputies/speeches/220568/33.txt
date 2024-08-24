@@ -1,1 +1,3 @@
-Manchetes da mídia intituladas STF manda soltar André do Rap, apontado como um dos líderes do PCC em SP; STF anula apreensão de quase 700 kg de cocaína; STJ manda e polícia devolve helicóptero a chefão do PCC; STF e STJ criam obstáculos para combate ao tráfico, anulam provas e soltam chefes do crime; e STF anula condenação de traficantes de drogas. Contrariedade à eventual legalização das drogas pelo Supremo Tribunal Federal. Desrespeito, pelo Poder Judiciário, à independência entre os Poderes da República. Anúncio da apresentação de projeto de lei a respeito do porte e consumo de drogas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ce5f217847380405f0e3d0114f6cef4a7bf8ca1828a236232af40183f14e911
+size 626

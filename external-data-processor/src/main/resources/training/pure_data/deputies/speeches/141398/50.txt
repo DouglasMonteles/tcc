@@ -1,1 +1,3 @@
-Aprovação, pela Comissão Especial destinada ao exame do projeto de desoneração do transporte público, de proposta de retirada de impostos federais incidentes sobre o transporte público urbano e metropolitano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4917397643a32e6fd972a65984694d7d814d454b22d9aef8133173255d1a7601
+size 215

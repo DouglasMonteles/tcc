@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Defensoria Pública. Saudações aos Defensores Públicos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16ea7d1580e960134c8a36f9c252e3728262385e2bfc6fbdb3a5946868537826
+size 100

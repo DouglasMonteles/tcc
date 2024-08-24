@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Constituição e Justiça e de Cidadania,  às Emendas de Plenário ao Projeto de Lei 6.381 de 2005 (Dispõe sobre a Política Nacional de Irrigação e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:658119850fcf77179d30f3434303aaed51c5d4d83a4254cc7713cd7d9975d61f
+size 206

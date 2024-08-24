@@ -1,1 +1,3 @@
-Conquista, pela Associação Desportiva Bahia de Feira, do título de Campeão Baiano de Futebol de 2011. Transcurso do Dia do Trabalhador em Limpeza Urbana. Reivindicações do sindicato da categoria - SINDLIMP/BA. Assassinato e prisão de indígenas em conflitos por posse de terra no País, segundo relatório da Conferência Nacional dos Bispos do Brasil - CNBB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1568e642b9ef4ec18b23f0fcbb1c545d1c852488a2634494b900fb55e832cc90
+size 366

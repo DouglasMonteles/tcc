@@ -1,1 +1,3 @@
-Pesar pelo homicídio de Ana Lúcia Neves, esposa de Sávio Neves, sobrinho do Vice-Governador do Estado do Rio de Janeiro, Francisco Dornelles.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db6c4ff251293d161158463cd9b60a648968275e159638a6e92f986955ac5bf1
+size 144

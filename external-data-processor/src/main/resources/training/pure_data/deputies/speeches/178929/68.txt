@@ -1,1 +1,3 @@
-Gastos do Governo Federal com publicidade relacionada à reforma previdenciária. Posicionamento do orador contrário à aprovação de tal reforma.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c64aa799b5e5b5843fa0379c397dc75fbf8a9cdb7951406ddae7f10590d340a
+size 148

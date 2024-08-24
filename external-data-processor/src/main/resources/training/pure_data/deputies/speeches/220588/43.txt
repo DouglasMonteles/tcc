@@ -1,1 +1,3 @@
-Falta de embasamento das acusações do Ministro da Fazenda, Fernando Haddad, contra a Câmara dos Deputados por suposta humilhação do Senado Federal e do Poder Executivo em face do seu alto poder. Conveniência de atenção do Ministro da Fazenda para com os índices econômicos, a exemplo da 10ª queda consecutiva das ações da Bolsa de Valores - IBOVESPA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e337dd095d42cffab3cb3a281d7c525c8078ae9fc28406bb6f04da2344a00926
+size 363

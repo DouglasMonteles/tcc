@@ -1,1 +1,3 @@
-Cassação de mandatos de Deputados pelo Governo Nicolás Maduro, na Venezuela. Necessidade de cessação de perseguições políticas naquele país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b0ed032fee4f91024ed807c7b892cfd856ade07aff940fa1858af2c0518f543
+size 149

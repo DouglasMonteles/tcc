@@ -1,1 +1,3 @@
-Presença na Casa do Prefeito Pedro da Silva, do Município de São Domingos, Estado de Sergipe. Cumprimentos ao Ministro do Desenvolvimento Agrário, Patrus Ananias, e à Presidente do INCRA, Maria Lucia Falcón, pelo esclarecedor debate sobre assuntos da terra ocorrido na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, da Casa. Confiança na manutenção, pelo Governo Dilma Rousseff, dos programas de inclusão social iniciados no Governo Lula.
+version https://git-lfs.github.com/spec/v1
+oid sha256:684a029e7a7448cb7d9870bba900eafa9084f4f5f0c62e7d79b891fb39e63d68
+size 477

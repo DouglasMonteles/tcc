@@ -1,1 +1,3 @@
-Associação da Presidência ao pronunciamento do Deputado Efraim Filho sobre inexistência de políticas públicas efetivas para a inserção dos jovens brasileiros no mercado de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7dc06596a5827a3a42087748bb719b8c07c416332a94e28e130c8193c4571a1
+size 189

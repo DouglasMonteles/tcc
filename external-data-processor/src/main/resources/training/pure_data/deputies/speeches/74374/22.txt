@@ -1,1 +1,3 @@
-Apoio à luta dos servidores da Fundação Nacional de Saúde - FUNASA pela extensão, ao quadro funcional do órgão, da Gratificação de Combate a Endemias - GACEN instituída pela Medida Provisória nº 431, de 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c0b69094414f63cda9732ee55067de7c80c2523974a48cdefdad8cd4ebc6ae4
+size 220

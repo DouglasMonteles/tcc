@@ -1,1 +1,3 @@
-Repúdio ao posicionamento do Congresso Nacional a respeito da cassação de mandatos parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:333ce63ad56fd131202d3343018ec3841d0d20d73bb8a9f23071b9b37672c5f6
+size 100

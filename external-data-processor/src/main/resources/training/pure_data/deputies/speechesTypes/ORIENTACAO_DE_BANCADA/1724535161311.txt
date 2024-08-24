@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM  ao Projeto de Lei 1.874 de 2011(Dispõe sobre a criação de Vara do Trabalho na jurisdição do Tribunal Regional do Trabalho da 19ª Região e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:10775dcad5a675628006ddc1272c6621ca9a9403404806f9f27898b5295b87f9
+size 205

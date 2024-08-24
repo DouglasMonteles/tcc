@@ -1,1 +1,3 @@
-Críticas à apresentação do Advogado-Geral da União, Ministro José Eduardo Cardozo, na Comissão Especial do Impeachment. Contrariedade ao Projeto de Lei Complementar nº 257, de 2016, que estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdd8c9dc2f7b7dfe1d4e9394b4b5aa2dbcce0235d169e8ce4482481dcfafd3e6
+size 306

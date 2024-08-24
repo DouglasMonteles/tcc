@@ -1,1 +1,3 @@
-Congratulações ao Presidente Luiz Inácio Lula da Silva pela retomada do Programa Mais Médicos. Posicionamento da Oposição contrário à sua reativação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6d2019de8a07708e63d13948a4e4bdddada31187d336a877addddc217ed1135
+size 159

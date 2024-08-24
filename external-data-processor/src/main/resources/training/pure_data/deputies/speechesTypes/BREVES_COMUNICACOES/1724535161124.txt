@@ -1,1 +1,3 @@
-Realização, pela Comissão de Educação e Cultura, de audiência pública destinada ao debate do projeto de lei sobre a criação do Instituto Brasileiro de Museus. Defesa de aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ba4da32037d9698007012635870df8359cb04a395bdee0f3155e85cf6248ca2
+size 202

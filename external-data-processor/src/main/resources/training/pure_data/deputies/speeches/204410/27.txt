@@ -1,1 +1,3 @@
-Prioridade do Poder Legislativo na realização de reformas constitucionais, e na aprovação de projetos fundamentais para o desenvolvimento socioeconômico brasileiro pós-pandemia. Importância do estímulo à inovação tecnológica associada à educação. Defesa de retomada das aulas presenciais, obedecidas às diretrizes sanitárias de combate à Covid-19. Importância da implantação da tecnologia 5G no País, para maior velocidade nas conexões da Internet e em outras aplicações de interesse da sociedade brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6dcf5f7f61f787a591e54344982221e78722d4ede3b4b879537e3a59ca34437
+size 533

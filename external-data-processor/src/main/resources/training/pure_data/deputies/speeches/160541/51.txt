@@ -1,1 +1,3 @@
-Solidariedade ao Líder do Governo na Casa, Arlindo Chinaglia, por desvirtuamento de entrevista concedida ao site UOL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d187b3e6b1c277f28e80b7da439293858d824ad2b1e1331b1dd2c364ea8be9fc
+size 118

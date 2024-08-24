@@ -1,1 +1,3 @@
-Realização de acordo para a votação da proposta de reformulação do Código Florestal Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30fd2572ad08354a185d6c781973fe076c06c5baa26f6d45c4374296383b2104
+size 102

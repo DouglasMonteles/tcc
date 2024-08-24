@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial dos Animais. Pioneirismo do Município de Campinas, Estado de São Paulo, na implantação de delegacia de proteção aos animais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4940fc769c8438f20755880a12987b4d926b8b173a56f9d10e54201d0d32e2cf
+size 156

@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Seguridade Social e Família, às Emendas do Senado ao Projeto de Lei 335 de 1995 (Dá nova redação ao art. 89 da Lei de Execução Penal, determinando que as penitenciárias de mulheres sejam dotadas de seção para gestantes e parturientes e de creches para os menores cuja responsável esteja presa).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e8c08e2302af38ecf90ad73f23d99713c36bcb9ec6217658d32bf2a6dac7c64
+size 332

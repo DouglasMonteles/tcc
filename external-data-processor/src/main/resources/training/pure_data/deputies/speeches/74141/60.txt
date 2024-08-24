@@ -1,1 +1,3 @@
-Criação do curso de medicina no campus da Universidade Federal do Vale do São Francisco - UNIVASF, na cidade de Paulo Afonso, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d5b385f153106210f72df883ef974157bb239fdfb3a812ad5a0ef596c4b74ff
+size 145

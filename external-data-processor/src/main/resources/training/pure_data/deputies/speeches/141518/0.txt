@@ -1,1 +1,3 @@
-Congratulações ao Deputado Renildo Calheiros pela assunção da Liderança do Bloco Parlamentar PSB/PDT/PCdoB/PMN/PRB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd56309ce1af7ba6a37779f5b6cf564ccb3323fe735e5f468f6fd8d947fe5525
+size 120

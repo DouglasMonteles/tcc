@@ -1,1 +1,3 @@
-Promoção da Semana Internacional do Café, em Belo Horizonte, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddd37c38a2413e545b703acb242feee9eff06dc27984a369288c7977c9c128f3
+size 87

@@ -1,1 +1,3 @@
-Indagação à Presidência sobre a inclusão na pauta da Proposta de Emenda à Constituição nº 549, de 2006, acerca do regime constitucional peculiar das carreiras policiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af29f3d1bc7e06f3382701926ab0a161328dd97d188748ec37bab0f2c9a6d77d
+size 178

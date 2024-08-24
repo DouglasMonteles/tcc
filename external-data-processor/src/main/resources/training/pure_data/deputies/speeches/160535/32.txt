@@ -1,1 +1,3 @@
-Urgente resgate da capacidade legiferante, pelo Poder Legislativo. Necessidade de votação pela Casa de matérias de relevante interesse do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4f2c02d4c343747c173d829a5cc4fa7f9389f29c7c51f9de24cf36629e4d72b
+size 147

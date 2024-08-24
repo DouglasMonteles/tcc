@@ -1,1 +1,3 @@
-Saudações aos Prefeitos e Prefeitas Municipais presentes no Distrito Federal. Importância das ações do Parlamento brasileiro em defesa da causa municipalista. Imediata votação pela Casa da proposta de reformulação do Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30d3f4b168acfe25b33c35824b422338fc28ce470d9b8a65834575c79b2a885b
+size 255

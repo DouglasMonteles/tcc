@@ -1,1 +1,3 @@
-Expectativa de manutenção dos direitos trabalhistas com a apreciação pelo Senado Federal do Projeto de Lei nº 4.330, de 2004, que dispõe sobre o contrato de prestação de serviço a terceiros e as relações de trabalho dele decorrentes. Críticas à política trabalhista do ex-Presidente Fernando Henrique Cardoso e ao posicionamento do PSDB frente ao projeto de terceirização de mão de obra. Falecimento do escritor e jornalista uruguaio Eduardo Galeano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4808f1798b8850107dd7fbbb493a4b32b04b0bf8bf7a14af152b6119b86521c
+size 467

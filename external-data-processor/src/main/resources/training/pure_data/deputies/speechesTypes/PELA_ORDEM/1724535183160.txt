@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 4.449, de 2023, que institui o Programa Renda Básica Energética.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04f0d714cffef8a7c8f2a7432b1890d82eecc0f75422f375caf4471954585d45
+size 160

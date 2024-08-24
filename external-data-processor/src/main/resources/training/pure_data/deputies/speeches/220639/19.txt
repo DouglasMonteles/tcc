@@ -1,1 +1,3 @@
-Defesa de reestatização da ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6d6fe72b7cbf0e0c2ac53cde79ca3370e5f5722a0ab781e225a59c6fa245667
+size 40

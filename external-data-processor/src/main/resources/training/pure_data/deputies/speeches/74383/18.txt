@@ -1,1 +1,3 @@
-Transcurso de aniversário do Município de Sengés, Estado do Paraná. Retrospecto do processo de criação da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae043f8245c48b1b2e31fdbc2fdb621c3ad1bf711da18e5245d2134a455b50a3
+size 127

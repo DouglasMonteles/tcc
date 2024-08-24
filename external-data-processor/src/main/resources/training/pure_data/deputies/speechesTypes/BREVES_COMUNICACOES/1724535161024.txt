@@ -1,1 +1,3 @@
-Apelo a empresa Oi no sentido de que reveja decisão que proíbe contribuições por meio da conta telefônica para entidades filantrópicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2de415949feac65fd85c9f68d8a6ff641265afbc8cfd37c46bd42ec0e5f29d72
+size 141

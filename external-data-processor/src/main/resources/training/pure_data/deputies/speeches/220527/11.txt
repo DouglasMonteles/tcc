@@ -1,1 +1,3 @@
-Transcurso do 20º aniversário da instituição de políticas públicas de igualdade racial. Lançamento de conjunto de ações antirracistas pelo Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb24b80163d79e4ea3b848183fd9262c2d861b7366a84c18bdf6c82cd55c5c0c
+size 183

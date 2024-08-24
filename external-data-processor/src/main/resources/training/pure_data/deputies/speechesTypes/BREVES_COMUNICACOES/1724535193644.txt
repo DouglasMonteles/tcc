@@ -1,1 +1,3 @@
-Resultado de reunião realizada no Distrito de Ibitira, Município de Rio do Antônio, Estado da Bahia, destinada à discussão de reivindicações e demandas da população local.
+version https://git-lfs.github.com/spec/v1
+oid sha256:944ea2f8ba9edf890c1a602b222c932193826a4d4aba4992e0a02b21b49cf07c
+size 180

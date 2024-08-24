@@ -1,1 +1,3 @@
-Diretrizes da Corrente Afirmação Democrática do PMDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e10a6558b8d825ddffabdc8048f3e59b8b0afdc81591d732657dd69fe407cfd
+size 56

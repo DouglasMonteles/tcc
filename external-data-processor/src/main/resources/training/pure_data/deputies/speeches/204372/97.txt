@@ -1,1 +1,3 @@
-Importância do Projeto de Lei nº 2.336, de 2021, sobre a alteração da Lei nº 9.615, de 1998, relativa às normas gerais do desporto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40be3fe863667788178245ccb3b6a693f5ef065835236c944945e661d64e590f
+size 137

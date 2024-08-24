@@ -1,1 +1,3 @@
-Apresentação de requerimento de realização de sessão solene em homenagem aos 94 anos da Assembleia de Deus – Ministério de Madureira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7a6f1dc68a638b1b06ef73c0fb6254f495e3045c3fea8dcefc0cae1f90e279c
+size 141

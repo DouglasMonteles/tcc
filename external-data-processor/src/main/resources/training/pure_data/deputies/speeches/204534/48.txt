@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de moção de repúdio às declarações misóginas do Deputado Estadual de São Paulo, Arthur do Val, contra as mulheres ucranianas e refugiadas de guerra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d73707f85a992803ea8c3a642e9e3656d03bead1b4780af11dccc6f59d75cdb
+size 209

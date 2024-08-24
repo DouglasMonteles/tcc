@@ -1,1 +1,3 @@
-Posicionamento favorável do PTB ao Projeto de Lei de Conversão 6 de 2013 da Medida Provisória 593 de 2012 (Altera a Lei 12.513 de 2011, que institui o Programa Nacional de Acesso ao Ensino Técnico e Emprego - Pronatec, para ampliar o rol de beneficiários e ofertantes da Bolsa-Formação Estudante; e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd834001a15a8beb13ccdb4f756d888e5ce90542515d494fe7aef0d24569bf77
+size 332

@@ -1,1 +1,3 @@
-Sugestão ao Ministro da Justiça e Segurança Pública, Sérgio Moro, para quebra do seu sigilo telefônico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:375fa211864e0be837c3a61e9eaeff1163c5f21c9c0ff89a4fb0d4ff34015399
+size 109

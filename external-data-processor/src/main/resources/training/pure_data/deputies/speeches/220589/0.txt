@@ -1,1 +1,3 @@
-Pedido ao Governo Federal de realização de investimentos na rodovia federal localizada entre os Municípios de Rio Branco e Cruzeiro do Sul, no Estado do Acre. Vantagens econômicas da realização de investimentos para construção de trecho rodoviário entre os Municípios de Cruzeiro do Sul, no Brasil, e Pucallpa, no Peru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a03e90b26f4bcea30cd60dc885d26e2386adbaeddc562ae6f78da0a37d8ad154
+size 329

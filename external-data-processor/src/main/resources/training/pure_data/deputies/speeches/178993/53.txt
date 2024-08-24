@@ -1,1 +1,3 @@
-Anúncio de indicação ao Poder Executivo de criação de hospital da Rede Sarah Kubitschek em Palmas, Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a504b0cd6c9762230527dbe82a483bacbe0835fe612a265c5ad4d640c478b5b1
+size 124

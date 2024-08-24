@@ -1,1 +1,3 @@
-Congratulações ao Presidente Eduardo Cunha pela condução dos trabalhos da Casa. Elogios à atuação do Líder do PMDB, Deputado Leonardo Picciani, no exercício do cargo. Homenagem à Polícia Militar e à classe médica do Estado do Tocantins. Agradecimentos à Ministra da Agricultura, Pecuária de Abastecimento, Kátia Abreu, pelo apoio ao Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e090a8a033ea90da29d7beed908c541f278625aae3e6bf8003627cad960cf0af
+size 369

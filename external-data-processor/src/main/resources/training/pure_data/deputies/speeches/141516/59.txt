@@ -1,1 +1,3 @@
-Reafirmação de  declarações da Presidenta Dilma Rousseff sobre a fixação do salário mínimo acima de 600 reais em 2011, a propósito de desmentido do Líder do PT, Deputado Paulo Teixeira .
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b8aa2b2bb259092f55e217f2cba177d45841d479c42deaf30424b43b7cb9cc7
+size 196

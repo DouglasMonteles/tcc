@@ -1,1 +1,3 @@
-Resistência da Presidência contra a inclusão na pauta da Medida Provisória nº 1.000, de 2020, acerca da instituição do auxílio emergencial residual para enfrentamento da emergência de saúde pública decorrente do coronavírus, referida na Lei nº 13.979, de 2020. Defesa de manutenção do auxílio emergencial em 600 reais, concedido a trabalhadores e famílias carentes diante da crise provocada pela Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34166c33b3ddcc0184f21f8f8a01c4579e16b8c5d8d42c8cbb6483ccc6c82844
+size 422

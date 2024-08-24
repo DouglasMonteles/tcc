@@ -1,1 +1,3 @@
-Encaminhamento, pelo Presidente Luiz Inácio Lula da Silva, de sugestões acerca da reforma política. Crescimento da participação da sociedade nas questões políticas do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5461961fd0f6ae227f4cece8703293858cf32f7a01400fcaba89889f195c1a00
+size 180

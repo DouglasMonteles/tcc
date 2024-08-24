@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Deputado Estadual de Alagoas, Ronaldo Medeiros, em visita à Câmara dos Deputados. Recebimento, pelo Presidente da empresa Petróleo Brasileiro S/A - PETROBRAS, do salário mensal de 260 mil reais. Distribuição, ao presidente e diretores da empresa estatal, de 13 milhões de reais pelo Plano de Prêmio por Performance. Prática, pela PETROBRAS, de elevados preços de combustíveis no País. Apelo ao Presidente Jair Bolsonaro de revisão da política de dolarização de preços de combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:243f5eea0d4c6eeba81f212481c786143b727e1d757f9ba4838825c82b7413a2
+size 535

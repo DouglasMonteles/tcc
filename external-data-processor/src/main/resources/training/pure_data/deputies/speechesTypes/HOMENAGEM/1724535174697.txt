@@ -1,1 +1,3 @@
-Homenagem à Conferência Nacional dos Bispos do Brasil - CNBB, pela realização da Campanha da Fraternidade de 2023 sob o tema Fraternidade e fome, e com o lema&nbsp;Dai-lhes vós mesmos de comer!.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65f998d795cbf9348a98c410d0708e0a844ae5138521bc6049c14417c59461d3
+size 199

@@ -1,1 +1,3 @@
-Apelo ao Ministério do Planejamento, Orçamento e Gestão e à Receita Federal do Brasil de busca de solução para a greve dos auditores fiscais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c064f8f4f3a4376cf5cf8ba688c7937a31e6c4fc938de723d28b5027c15214a5
+size 147

@@ -1,1 +1,3 @@
-Anúncio da realização de palestra sobre direito dos idosos na Instituição São Vicente de Paula, conhecida como Vila Vicentina, no Município de Nova Resende, Estado de Minas Gerais. Confirmação de presença no evento do Secretário Nacional de Promoção e Defesa dos Direitos da Pessoa Idosa, Antonio Costa, e da Coordenadora-Geral do Conselho Nacional dos Direitos do Idoso, Eunice da Silva. Solicitação aos parlamentares de atenção aos lares dos idosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:336a15b4603a338dfc48e3fa6ebd469d8666e9f35b7e2bc8912e9344f920fae3
+size 468

@@ -1,1 +1,3 @@
-Convite aos Deputados de participação em reunião da Comissão Especial destinada ao acompanhamento das ações de combate ao câncer no Brasil, para discussão e votação do parecer da oradora. Agradecimentos por apoios ao trabalho da Deputada como Relatora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e037635dc3fb78117c798b9c6e0d4aeb890182abb7a6ad775c0aa7497f00ef75
+size 262

@@ -1,1 +1,3 @@
-Elogio ao Deputado Luis Carlos Heinze pelo empenho na renegociação das dívidas dos agricultores brasileiros e pelo trabalho desenvolvido na elaboração da Lei de Diretrizes Orçamentárias - LDO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b2dc50f9d008ec4dab6e6475d7f2fc11e1f8cfc4c2a31e0297a67cebcb3c809
+size 199

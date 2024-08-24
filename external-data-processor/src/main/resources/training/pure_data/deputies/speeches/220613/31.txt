@@ -1,1 +1,3 @@
-Considerações sobre a oração do Pai Nosso. Indisposição criada pelo Governo Federal em face da recepção de Estado oferecida ao Presidente da Venezuela, Nicolás Maduro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aefce98b0243cf4a1c2922f335446926a4ec87a5782941fdcb2b62dfa63eea51
+size 176

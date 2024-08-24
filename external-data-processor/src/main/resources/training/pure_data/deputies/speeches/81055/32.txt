@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Medida Provisória n° 863, de 2018, sobre a abertura do setor aéreo ao capital estrangeiro, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9870be687d8858ff34ba55dbc450a0b74ee5b3d246aa56ea908d49a9f604b347
+size 159

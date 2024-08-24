@@ -1,1 +1,3 @@
-Realização da cerimônia do 7º Reconhecimento e Premiação Nacional às Micro e Pequenas Empresas, em Brasília, Distrito Federal. Regozijo com a premiação concedida às empresas Omega Tecnologia e Quinta da Estância Grande, do Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dca8428eac9f9371055631930f8b4bc2583f49245454ab7b1292c9dc5cc7a569
+size 263

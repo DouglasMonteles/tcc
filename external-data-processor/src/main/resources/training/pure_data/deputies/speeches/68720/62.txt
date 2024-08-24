@@ -1,1 +1,3 @@
-Prejuízos causados ao setor turístico pelo vazamento de petróleo no litoral da Região Nordeste. Omissão do Governo Federal diante do desastre ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:304c58ee446c19879b321af254b93c6963a78df5b9dcc7bae0a9fc9c61bcd88a
+size 157

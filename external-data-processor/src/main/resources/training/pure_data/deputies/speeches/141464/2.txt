@@ -1,1 +1,3 @@
-Resultados positivos da atuação do orador junto ao Departamento Nacional de Infra-Estrutura de Transportes - DNIT, com vistas ao reinício das obras da ponte sobre o Rio Jaguaribe, no Município de Aracati, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21b6a58dd32a7667f4647b5c53067bbfcf5079d3ef232f31db8a298b12c38428
+size 226

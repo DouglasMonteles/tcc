@@ -1,1 +1,3 @@
-Vitória das atletas capixabas Rosangela Pennafort, Adelina Fischer e Madalena Rodrigues, acompanhadas de atletas brasilienses, no campeonato sul-americano de canoa havaiana, realizado em Lima, Peru, na categoria para competidoras com idade superior a 60 anos. Engajamento do Brasil na campanha 16 Dias de Ativismo pelo Fim da Violência contra a Mulher. Dados sobre a violência contra as mulheres negras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d490f6636c3d0e15d7a34332622d9ae27f4eb4c2e340d3a6320ca9c351e4a11
+size 406

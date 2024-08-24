@@ -1,1 +1,3 @@
-O Deputado criticou a crescente judicialização da política no Brasil, especialmente pelo STF. Argumentou que o Supremo tem se envolvido em temas que deveriam ser discutidos no Congresso Nacional, como a descriminalização das drogas, o aborto e o Marco Temporal. Enfatizou a importância da separação de poderes, base da Constituição, e expressou preocupação com o que vê como um ativismo judicial excessivo. Mencionou que o Judiciário parece estar assumindo um papel predominante na República, restringindo até mesmo as garantias constitucionais dos parlamentares. Por fim, destacou a necessidade de restabelecer a ordem constitucional e respeitar a democracia representativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38f70164af89d1c0bbd2f0a6dbb23cade96352dbf4dd29eca88072daf84d606c
+size 691

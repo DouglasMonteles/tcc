@@ -1,1 +1,3 @@
-Necessidade de adoção de providências pela
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae2eeb0738b413ed9ff04a3b309afdd102b5270c433722c33c67bcda7aa3e74a
+size 45

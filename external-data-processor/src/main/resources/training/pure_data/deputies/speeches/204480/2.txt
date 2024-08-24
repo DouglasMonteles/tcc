@@ -1,1 +1,3 @@
-Crime ambiental praticado pela empresa Vale no Município de Brumadinho, Estado de Minas Gerais. Pedido aos Deputados de participação na Comissão Geral destinada ao debate do assunto; de apoio à criação de CPMI para investigação das causas e responsabilidades pelo episódio e à realização de plebiscito sobre a reestatização da empresa Vale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc007e64c26d70171a19ff695459c39198c4b2c400b93f0a05f9dbb22fcb16cc
+size 355

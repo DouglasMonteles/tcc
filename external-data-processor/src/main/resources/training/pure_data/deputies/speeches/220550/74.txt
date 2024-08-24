@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de Lei nº 2.245, de 2023, que institui a Política Nacional de Trabalho Digno e Cidadania para População em Situação de Rua - PNTC PopRua.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a109e2122a969767389169b2ce206769eda7c0a69f642ddf6d5472b03443e48
+size 173

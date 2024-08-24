@@ -1,1 +1,3 @@
-Liberação, pelo Ministério da Educação, de recursos à Universidade de Brasília - UnB para recuperação de bens danificados por enchentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11993b4ab8a8bb386dcadf76d78ea45a6ccbee08ccbadec868c9edd0404dd369
+size 145

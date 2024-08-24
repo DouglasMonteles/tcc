@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Saúde e do Dia do Trabalho. Redução da jornada de trabalho no País. Ratificação pela Casa das Convenções de nºs 151 e 158, da Organização Internacional do Trabalho - OIT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56cbcdbf0df40760f6512b7742e05fea39c1ce24f897d97f46fc4a7bd41cb1e8
+size 210

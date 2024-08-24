@@ -1,1 +1,3 @@
-Agradecimento ao povo pernambucano pela eleição do orador. Homenagem à memória dos ex-Governadores Miguel Arraes e Eduardo Campos. Relevância do legado do escritor Ariano Suassuna e do educador Paulo Freire. Compromisso de atuação parlamentar em defesa dos interesses das populações do Estado de Pernambuco e do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7939283bff5b78836daa55206c2f223e5ccd9351c95a2718ad36874b81e5bfbf
+size 327

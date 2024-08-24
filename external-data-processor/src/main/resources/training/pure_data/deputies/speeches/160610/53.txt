@@ -1,1 +1,3 @@
-Assassinato de trabalhadores rurais na Região Amazônica. Impunidade de mandantes e assassinos de agricultores no País. Necessidade de ações governamentais efetivas para o combate à violência no campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddde4c209d6452a7e66798a97cdccffb3d9589e221607a42402b20678ade570f
+size 207

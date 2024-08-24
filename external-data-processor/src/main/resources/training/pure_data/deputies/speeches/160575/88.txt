@@ -1,1 +1,3 @@
-Saudação aos alunos presentes nas galerias da Casa. Importância da prática da leitura de livros. Cerceamento e violação de direitos de presidiários no Distrito Federal. Repúdio à pretensão do Governo do Distrito Federal  de promoção de trem de alegria no âmbito da carreira de auditor fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64a58f0ec8e16da7af25b96fcfeb69d37b59dc3c52041390998ab7cb05115a8a
+size 305

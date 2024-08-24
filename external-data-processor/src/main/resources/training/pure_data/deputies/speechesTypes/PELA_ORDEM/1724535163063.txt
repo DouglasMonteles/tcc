@@ -1,1 +1,3 @@
-Pedido à Presidência de esclarecimento sobre o propósito da Comissão Especial recém-constituída.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cc65857cfa3bca4ee802edb5bdb0981d12d6464c4d125108f3857ed98adf47a
+size 102

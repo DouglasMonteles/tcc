@@ -1,1 +1,3 @@
-Congratulações à Presidência pela implantação de sistema de votação virtual. Associação ao pronunciamento do Deputado Vitor Hugo sobre a necessidade de inclusão na pauta de projetos de lei favoráveis ao corte de gastos públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf540088d0ac95100277626f6a40fbe6a4dfbbaf7468d541c581e9a256b2feda
+size 241

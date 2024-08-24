@@ -1,1 +1,3 @@
-Emissão de parecer sobre o Projeto de Lei nº 3.394, de 2015, acerca da alteração de dispositivos da Lei 12.846, de 2013, e da Lei nº 8.429, de 1992, visando a destinação de valores recebidos de multas a medidas educativas anticorrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cc0bb8cff1a615018c6edee39fcc3c42e7304ea495ec989914f5d553899ca89
+size 245

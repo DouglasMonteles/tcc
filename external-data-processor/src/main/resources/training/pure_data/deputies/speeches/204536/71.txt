@@ -1,1 +1,3 @@
-Apoio à criação de programa de renda mínima  para os trabalhadores brasileiros, diante da crise gerada pelo pandemia de coronavírus. Pedido aos Líderes partidários de votação de propostas de redução de gastos públicos. Apresentação pelo orador de projetos de lei sobre a redução salarial de servidores públicos e sobre a limitação de gastos com o cartão corporativo da Presidência da República. Contestação às críticas de Deputada oposicionista ao Parlamento brasileiro, pela não aprovação de proposta de criação de renda mínima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7835819e01752c7f81f5d5345b47f1d153848366613d76e8ae9e06267c264500
+size 561

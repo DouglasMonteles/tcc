@@ -1,1 +1,3 @@
-Presença, no plenário, do Prefeito Manoel Ferreira Lima, do Município de Juarina, Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69ea27998d4aedcfe5540535fcc9ae5bc8da424cf95b92e968f99633f98921ef
+size 105

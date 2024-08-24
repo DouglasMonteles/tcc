@@ -1,1 +1,3 @@
-Participação em seminário promovido pela Confederação Nacional dos Trabalhadores no Vestuário. Morosidade no julgamento, pela Justiça do Estado do Rio Grande do Sul, dos policiais acusados pelo assassinato de sindicalista. Conveniência de realização por órgão da Casa de audiência pública para debate da terceirização.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf31c5778745076d74f2bf126835dcf443463e18ac918b5dbdd758f45de86e1f
+size 334

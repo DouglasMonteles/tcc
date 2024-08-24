@@ -1,1 +1,3 @@
-Questão de ordem sobre a validade de votação realizada em reunião da CPI destinada à investigação de fatos relativos à Fundação Nacional do Índio - FUNAI e ao Instituto Nacional de Colonização e Reforma Agrária - INCRA, após o início da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aabf31b50d3984cbd6c43cb3d99f4be4cf0e67e1d9327be18938702f06e56511
+size 266

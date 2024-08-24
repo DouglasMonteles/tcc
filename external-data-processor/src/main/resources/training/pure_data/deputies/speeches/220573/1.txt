@@ -1,1 +1,3 @@
-Pedido de apoio aos Parlamentares para a proposta de criação da Frente Parlamentar em Defesa da Vacina. Desmobilização do Ministério da Saúde provocada pelo negacionismo do ex-Presidente Jair Bolsonaro. Importância da retomada da cobertura vacinal no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89c25bd6e63403581836ee066a3a61c5c273396641b4f1b55965cb1505cb7cf2
+size 264

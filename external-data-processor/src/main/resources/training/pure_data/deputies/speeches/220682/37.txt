@@ -1,1 +1,3 @@
-Realização, pelo Conselho Nacional do Ministério Público, de auditoria na 13ª Vara Federal de Curitiba, responsável pela condução de processos da Operação Lava-Jato. Inconsistência do discurso da Oposição contra a proposta governamental de reforma tributária. Confiança na aprovação da matéria pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba56ff4243c76906dfdc66d503e7b2f94071a00211fb91d10f7664d51bd7db43
+size 339

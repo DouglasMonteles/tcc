@@ -1,1 +1,3 @@
-Levanta questão de ordem sobre a adoção pelo Presidente Marco Maia de decisão tomada pelo ex Presidente Michel Temer de indeferimento liminar de emendas à Medida Provisória que tratam de assuntos impertinente ao objeto da medida provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:282e9362aa7098c712a2ac85285623a58b0e406b1272cb3193f3ea4eee390e1b
+size 247

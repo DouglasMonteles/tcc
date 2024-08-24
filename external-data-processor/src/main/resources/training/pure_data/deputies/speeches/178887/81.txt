@@ -1,1 +1,3 @@
-Cumprimentos ao Governador do Estado do Maranhão, Flávio Dino, pela certificação de técnicos em agricultura familiar para atuação nos Municípios maranhenses de mais baixo Índice de Desenvolvimento Humano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5022f5aee3550fa0565bb33236a668ebb52146b4ea363f590b8e23642f697dd0
+size 213

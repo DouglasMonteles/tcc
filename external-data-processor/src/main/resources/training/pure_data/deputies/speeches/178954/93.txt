@@ -1,1 +1,3 @@
-Sugestão à Presidência para não votação da Medida Provisória nº 890, de 2019, sobre a instituição do Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde, e a criação do serviço social autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde. Conveniência de apreciação de projeto de lei apresentado pelo Deputado Hiran Gonçalves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dbd0a5bfef9f23ded3b13873ff0cdba4db55443fac98859b0d527b9def6cd2d
+size 426

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 27, de 2021, sobre a criação da hipótese de dano qualificado para o caso de inutilização de vacina, insumo ou qualquer outro bem destinado ao enfrentamento de emergência de saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0ee32bd753d2392223608d40a18b144a273477099d1364c4d584e71e0268b03
+size 309

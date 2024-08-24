@@ -1,1 +1,3 @@
-Ampliação da participação popular no processo legislativo por intermédio do projeto denominado Banco de Projetos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:835c948c5a060808e543fa5b070290587f8777eea32e2b16c9572ee5b41a55ae
+size 118

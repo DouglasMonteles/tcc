@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Necessidade de avanço das conquistas femininas perante a sociedade. Luta das Parlamentares pela redução das desigualdades sociais. Elaboração pelo Governador do Estado de São Paulo, Tarcísio Gomes de Freitas, de amplo programa de reinserção social de moradores de rua. Elevação do contingente em situação de rua no Município de Santos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:338dbba3f110cf143bb9852e8766298f78313822a6d9688f2559f04b58554236
+size 392

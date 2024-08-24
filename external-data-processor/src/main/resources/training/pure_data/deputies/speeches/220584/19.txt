@@ -1,1 +1,3 @@
-O Deputado parabenizou o Prefeito Adelson pelo êxito na gestão do Município de Areial, Estado da Paraíba. Saudou a Secretária de Saúde da municipalidade, Camila Alves. Elogiou o trabalho da Deputada Estadual Sílvia Benjamin, do Republicanos da Paraíba, que está no primeiro mandato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2798c81b0055edd3d3b782f431d1005f1afbc894b54682b69ce76edd45fd20df
+size 291

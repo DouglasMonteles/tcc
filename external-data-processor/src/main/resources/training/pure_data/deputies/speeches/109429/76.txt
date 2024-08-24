@@ -1,1 +1,3 @@
-O Deputado lamentou o falecimento do cantor Zé Sanfoneiro, destacando sua contribuição para a cultura nordestina e para o forró. Ressaltou a tristeza sentida não apenas no Rio Grande do Norte, mas em todo o Brasil. O falecimento do artista representa uma significativa lacuna na cena cultural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed027f864d19d6bd4c2e0e05c5f1463eb9a4b2fa1ea48b7f45cc7e2c7afc2336
+size 298

@@ -1,1 +1,3 @@
-Anúncio de asfaltamento da BR-158, no Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8443a5ce2494da3ce3eec8f5a16679c6d197b08af4a23c8f65416e4497b30b9d
+size 61

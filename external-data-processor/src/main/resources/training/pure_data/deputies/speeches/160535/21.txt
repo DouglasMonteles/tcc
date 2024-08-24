@@ -1,1 +1,3 @@
-Elogio ao Presidente Michel Temer pelo encaminhamento de correspondência ao jornal O Estado de S.Paulo, em defesa da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f71a7584d18666fc1a7b551d6cf41068c354c7cc41af43a34928e032defc9bd9
+size 140

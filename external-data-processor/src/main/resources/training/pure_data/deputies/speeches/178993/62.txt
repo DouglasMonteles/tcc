@@ -1,1 +1,3 @@
-Agenda parlamentar prioritária do orador. Repúdio ao alto custo da energia elétrica no Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52617a08cc2ab8c84decc7d0141337e582cd76dba992e6fef8a126488ffd60a8
+size 110

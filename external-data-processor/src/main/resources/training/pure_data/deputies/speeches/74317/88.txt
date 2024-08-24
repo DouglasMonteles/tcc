@@ -1,1 +1,3 @@
-Determinação pelo Supremo Tribunal Federal de arquivamento de processo instaurado contra o orador. Solicitação de apoio ao requerimento de tramitação, em regime de urgência, da proposta de realização de plebiscito sobre a criação do Estado do Gurgueia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b929adf0bbc1238dabbb4c8d0213a1ee1a6765aedbd6a58586895f4407750b6
+size 263

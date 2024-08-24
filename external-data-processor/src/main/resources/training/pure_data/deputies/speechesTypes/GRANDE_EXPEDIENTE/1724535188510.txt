@@ -1,1 +1,3 @@
-Considerações sobre a reforma política. Mudanças no sistema partidário ao longo da história brasileira. Críticas ao instituto da medida provisória. Desinteresse dos Chefes do Executivo pelo fortalecimento dos partidos políticos. Provável realização de reforma política limitada, com vistas à contenção da influência do poder econômico sobre o sistema político.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a111b2611c27e69c6b7c168b9efdcba71348089621af2a32225478be172a232
+size 379

@@ -1,1 +1,3 @@
-Aumento do número de matrículas na rede de ensino fundamental do País. Apoio à proposta de criação de  Comissão Externa para averiguação de suposta violência praticada por policiais militares na Universidade de São Paulo — USP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b1508ac3eb9568b1d2a6589ae44dcad0b8f6442248b171e437a3f6911279a5
+size 240

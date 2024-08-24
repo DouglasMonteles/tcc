@@ -1,1 +1,3 @@
-Excelência da gestão do Governador do Estado da Bahia, Rui Costa. Defesa de pagamento pela União de precatórios devidos ao Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaa868a263b6c4e7c287393c1535cad4909480f940434dcc351a0fd6c297a271
+size 143

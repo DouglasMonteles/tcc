@@ -1,1 +1,3 @@
-Orientação de bancada na votação das Emendas de Plenário de nºs 1 a 4, com parecer contrário, oferecidas ao Projeto de Lei nº 1.006, de 2020, sobre a prestação, pela União, de auxílio financeiro às Santas Casas de Misericórdia e hospitais filantrópicos diante da pandemia de coronavírus, ressalvados os destaques. Tramitação na Casa de projeto de lei, de autoria do orador, a respeito das Santas Casas de Misericórdia e dos hospitais filantrópicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:497d317291a2fedef86f82bfa85c3df4953577f00894c32cb24670533afc13d3
+size 468

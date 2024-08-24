@@ -1,1 +1,3 @@
-Realização das eleições à Prefeitura Municipal de Belo Horizonte, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39931bdf6183f51b608c2bc3aa41721403cbbae0c21a9ce255240c9d3bbfdfdd
+size 94

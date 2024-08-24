@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas de Plenário de nºs 1 a 3, apresentadas ao Projeto de Lei nº 2.750, de 2020, acerca da licença temporária para operação de emissoras de radiodifusão comunitárias submetidas a medidas disciplinares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38c1ec44c7aa89c025a762605e83708133eda03b84c99fc09ba51853923a07b4
+size 237

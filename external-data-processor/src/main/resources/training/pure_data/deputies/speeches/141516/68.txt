@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Contribuição da Liderança da Minoria para a aprovação de propostas de interesse da bancada feminina. Conclamação às Deputadas de empenho na implementação de programas destinados à classe feminina. Maior participação feminina na política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d6d86f4cc97c908c72e4553ef856178013d1b678cf88cf21cad4092465be9fe
+size 294

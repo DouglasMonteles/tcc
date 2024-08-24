@@ -1,1 +1,3 @@
-Homenagem póstuma ao Presidente da Câmara de Vereadores do Município de Santa Luzia, Estado do Maranhão, Cícero Ferreira da Silva. Solicitação à Polícia Civil do Estado de investigação do assassinato do político maranhense. Nota do PCdoB sobre o assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27ddef1aef2fcbc1331dae98755c4cee849966214e7da2917b0e450339165b3a
+size 266

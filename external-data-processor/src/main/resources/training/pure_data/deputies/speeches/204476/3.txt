@@ -1,1 +1,3 @@
-Contrariedade à aprovação da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária. Defesa de realização da reforma tributária com adoção de imposto único.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33e96a0aafb37e87541e84566db158a4ba8e3ac5d6f238f89ddae47c532461a0
+size 195

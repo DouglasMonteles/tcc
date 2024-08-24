@@ -1,1 +1,3 @@
-Tramitação, na Comissão de Constituição e Justiça e de Cidadania, da Proposta de Emenda à Constituição nº 196, de 2019, sobre alteração da sistemática de atuação sindical no Brasil e criação do Conselho Nacional de Organização Sindical (CNOS), com participação paritária de trabalhadores e de empregadores. Posicionamento do Governo Federal e da oradora contrário à recriação do imposto sindical.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97271524e7a7a8c1dc4fff3d3c2fbe792f318c90d766166c09dd277ff76aa2ea
+size 422

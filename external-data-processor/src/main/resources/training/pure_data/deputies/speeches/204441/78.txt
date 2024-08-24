@@ -1,1 +1,3 @@
-Discordância do orador com pontos da proposta de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27bee724b5538c80e36d4955899c6a5dca165023cb5e75c35d475f5e887ba3be
+size 74

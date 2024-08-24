@@ -1,1 +1,3 @@
-Orientação de bancada na votação da admissibilidade do Requerimento de Destaque Simples nº 6, apresentado ao Projeto de Lei nº 5.082, de 2016, sobre a criação da via societária e o estabelecimento de procedimentos de governança e de natureza tributária para modernização do futebol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5fbcf282252fbde996827f38559b9b45339ff916b0f041a870a37cd818513e3
+size 295

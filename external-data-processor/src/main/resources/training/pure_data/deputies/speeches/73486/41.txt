@@ -1,1 +1,3 @@
-Falecimento do ex-Deputado Celso Souza Soares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4da67c9279fdcfb339d5e2a9e44fcbc4a64d052b12d422275b39ac225f70931
+size 46

@@ -1,1 +1,3 @@
-Instalação de unidade da cervejaria Heineken no Município de Passos, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad55c0e249b389d475b49b5065a687b341175595f1d04ca43dc33679f932be0e
+size 95

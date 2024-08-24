@@ -1,1 +1,3 @@
-Recorde na geração de empregos formais, conforme dados do Cadastro Geral de Empregados e Desempregados - CAGED. Razões do crescimento da oferta de postos de trabalho no País. Avaliação dos dados do CAGED atinentes aos diversos setores da economia e ao Estado do Rio Grande do Sul. Transcurso do 271° aniversário de fundação do Município de Rio Grande. Anúncio da realização da 9ª Expodireto Cotrijal no Município de Não-Me-Toque.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ec058e6056e7dd73a163fd3851fe1795e4cce615f359e327f96ef4e6a80c29c
+size 446

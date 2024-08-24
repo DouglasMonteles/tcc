@@ -1,1 +1,3 @@
-Cobrança ao Governo do Tocantins de melhorias na educação e de providências para o abastecimento de água da região sudeste do Estado, sujeita aos efeitos da estiagem. Contestação a pronunciamento de Parlamentar da Casa sobre a boa situação tocantinense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b1b5072308e6cfc41ea30ce60e41e76518791d3dd3fc343f2f9032a2e20e1e7
+size 263

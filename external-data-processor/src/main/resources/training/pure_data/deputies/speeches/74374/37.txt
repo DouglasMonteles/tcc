@@ -1,1 +1,3 @@
-Garantia de recursos para investimento em saneamento básico no Distrito de Vila Cachoeirinha, no Município de Dourados, Estado de Mato Grosso do Sul. Realização de obras de abastecimento de água na Grande Dourados, com recursos do Programa de Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddb6141bde13961a711564b0b790f5e5a27922f33d811795f69cde91b9c14507
+size 282

@@ -1,1 +1,3 @@
-A Deputada anunciou o evento Defesa Lilás em Porto Velho, organizado pelo União Brasil, enfatizando a capacitação e o incentivo à participação política das mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a98112ec7a53e966b1a50d189671817cf4dc385a996594bcfa8360601ec567a9
+size 173

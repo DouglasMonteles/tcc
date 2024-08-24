@@ -1,1 +1,3 @@
-Instalação de porto seco no Município de Campina Grande, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:367b9847b5308182300b7df15aaa6a7205bd4b7eb2594df52eb689f08af3907f
+size 79

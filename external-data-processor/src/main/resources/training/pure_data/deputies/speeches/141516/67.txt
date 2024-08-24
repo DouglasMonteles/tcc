@@ -1,1 +1,3 @@
-Regozijo com a preservação dos princípios norteadores da Lei de Licitações na discussão de acordo para votação da   Medida Provisória nº 503, de 2010 relativa à criação da Aautoridade Pública Olímpica. Elogio ao Presidente Marco Maia pela condução dos trabalhos.  Alerta à Casa sobre a tentativa pelo Governo Federal de alteração de dispositivos da Lei nº 8.666, de 1993 (Lei de Licitações) por meio de medida provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c8c56d8158ee3668612fa956ee1f95040df1d2b871bcbcf88627189ba4f9152
+size 445

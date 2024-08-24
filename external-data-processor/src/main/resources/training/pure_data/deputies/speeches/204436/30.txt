@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Medida Provisória nº 994, de 2020, sobre a abertura de crédito extraordinário em favor do Ministério da Saúde, no valor de R$ 9.444,373,172,00, para a produção e disponibilização de possível vacina contra a Covid-19. Elogio à Deputada Mariana Carvalho, Relatora da medida provisória. Politização da vacina contra o coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4904d7593864875f9886d72c0dbd6c2fd6705b03c7471f279db221f33bac5410
+size 383

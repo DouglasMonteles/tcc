@@ -1,1 +1,3 @@
-Aprovação de emenda do PT ao Projeto de Lei nº 4.067, de 2015, destinada à realização semestral do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira - REVALIDA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:971b012df4a482435b1b84349238007bbb04b5decc4a6d552551c5c9c1b8a75f
+size 232

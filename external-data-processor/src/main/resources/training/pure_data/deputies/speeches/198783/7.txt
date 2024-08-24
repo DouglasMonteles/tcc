@@ -1,1 +1,3 @@
-Apelo aos órgãos competentes por imediata conclusão das obras de duplicação da BR-364, no trecho compreendido entre os Municípios de Jaciara e Rondonópolis, Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae923b564734b5d5cbfca825c174066375c92e24c125c4ca9c4d754e0a7a8004
+size 186

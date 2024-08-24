@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei de Conversão nº 9, de 2023, da Medida Provisória nº 1.147, de 2022, a respeito da alteração da Lei nº 14.148, de 2021, acerca da criação do Programa Emergencial de Retomada do Setor de Eventos - PERSE, com vista à redução a zero das alíquotas da contribuição do PIS/PASEP e da COFINS, incidentes nas receitas decorrentes da atividade de transporte aéreo regular de passageiros, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1afc65dbadb0731c30b2f432795a9053d5e07d672f5aa369ff303ccb5e8fd13b
+size 474

@@ -1,1 +1,3 @@
-Lançamento, pela Presidenta Dilma Rousseff, do Programa Nacional de Acesso ao Ensino Técnico - PRONATEC. Valorização do setor educacional pela administração petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eba1c8dc718a9619dd58460204ddd8af718dd52005f09480d11dcf9bb0a5d839
+size 171

@@ -1,1 +1,3 @@
-O Deputado denunciou o escândalo envolvendo a empresa 123 Milhas, que vendeu pacotes promocionais de passagens e não os entregou, prejudicando centenas de milhares de brasileiros. Destacou a insuficiente compensação oferecida pela empresa, que em muitos casos não cobria o valor real das passagens compradas. Em resposta a essa situação, o orador afirma que assinou um pedido para a criação de CPI para investigação a 123 Milhas, juntando-se à CPI das Pirâmides Financeiras já em andamento. Boulos enfatizou a importância de proteger os brasileiros contra abusos de corporações econômicas e financeiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df99502a6b6996d8d0f47ebd7da67bfa9c22194bbb73c65dd73d4f0168059039
+size 621

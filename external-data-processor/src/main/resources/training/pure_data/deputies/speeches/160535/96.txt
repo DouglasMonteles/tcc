@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a revogação do art. 188 do Código de Processo Civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2524f3e957964f29f24b6eabf38cc81c0b902769c0b0a3053301d4be40a5f9d8
+size 94

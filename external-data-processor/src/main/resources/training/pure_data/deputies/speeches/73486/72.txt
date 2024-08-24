@@ -1,1 +1,3 @@
-Homenagem póstuma ao Deputado Adão Pretto. Aplausos ao Ministro do Trabalho e Emprego, Carlos Lupi, pela extensão do Programa Nacional de Microcrédito Produtivo Orientado aos beneficiários do Programa Bolsa-Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:202c03b24f1e4a4a8330fa59d1ed7e9a8557a65997e4b75994c4f6229ce634fe
+size 221

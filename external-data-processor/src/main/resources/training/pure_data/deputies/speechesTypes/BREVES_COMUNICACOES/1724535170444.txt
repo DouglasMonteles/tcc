@@ -1,1 +1,3 @@
-Transcurso do 75º aniversário de criação da Polícia Federal. Apresentação, à Comissão de Segurança Pública e Combate ao Crime Organizado, de requerimento de convite à União dos Policiais do Brasil - UPB para participação em debate sobre a proposta de reforma previdenciária. Pedido ao Presidente Jair Bolsonaro de nomeação de candidatos aprovados em concurso público para os quadros da Polícia Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:faae9e87b04daeca3f8af75f72a2323dec4289ae58c3daeeda36066709a77c02
+size 422

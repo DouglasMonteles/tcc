@@ -1,1 +1,3 @@
-Arbitrariedade da prisão, por ordem do Governador Marcelo Déda, de sargento da Polícia Militar do Estado de Sergipe por manifestação a favor melhores salários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dcf01d58a5a5d2f32fc135c66338ffad65bd794fb523d58a017563433544963
+size 165

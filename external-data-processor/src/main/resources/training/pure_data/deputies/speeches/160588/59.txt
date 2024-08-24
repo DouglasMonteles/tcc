@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da expressão nascidas entre 1º de janeiro de 2015 e 31 de dezembro de 2019, constante no art. 1º do Projeto de Lei de Conversão nº 26, de 2019, da Medida Provisória nº 894, de 2019, sobre a instituição de pensão especial destinada a crianças com Síndrome Congênita do Zika Vírus, nascidas entre 1º de janeiro de 2015 e 31 de dezembro de 2019, contempladas com o Benefício de Prestação Continuada - BPC. Congratulações à Presidência pela aprovação do Projeto de Lei nº 1.685, de 2011, sobre a autorização da transferência de capital, a título de contribuição, mediante celebração de convênios entre a União e as Associações de Proteção e Assistência aos Condenados - APACs, em atenção ao disposto no § 6º do art. 12 da Lei nº 4.320, de 1964.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e42e54f8f621725314463d78bba24897bb4e064369b54c94a840292aa53cb15a
+size 877

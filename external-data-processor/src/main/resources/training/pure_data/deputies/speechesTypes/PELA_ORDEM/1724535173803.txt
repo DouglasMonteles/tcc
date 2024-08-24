@@ -1,1 +1,3 @@
-Pedido aos Deputados de apoio à eleição do Sr. Emmanoel Campelo de Souza Pereira ao Conselho Nacional de Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cca3e33cf604c5350e8aca0316b669649b882f2ca0a285303eddb63edcb20e99
+size 117

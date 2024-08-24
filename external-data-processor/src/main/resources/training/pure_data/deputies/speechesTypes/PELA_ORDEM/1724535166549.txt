@@ -1,1 +1,3 @@
-Visita de membros da Comissão de Turismo e Desporto a Fortaleza, Estado do Ceará, para acompanhamento das atividades preparatórias para a Copa do Mundo de Futebol de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31ac5946f4f134aa2e96597d7de069902b11dfb68cba8070a928ad439c6ec077
+size 174

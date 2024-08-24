@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 1.179, de 2020, sobre a instituição de normas de caráter transitório e emergencial para a regulação de relações jurídicas de direito privado, diante da pandemia de coronavírus, e a alteração da Lei nº 13.709, de 2018. Apelo ao Relator Enrico Misasi de inclusão, no parecer apresentado à propositura, da suspensão de ações de reintegração de posse, bem como de contratos de financiamentos e de serviços de uso contínuo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad3700c63b893d9c651affc22c5865b9bf9217f05be1f23e986fe79f4306976e
+size 473

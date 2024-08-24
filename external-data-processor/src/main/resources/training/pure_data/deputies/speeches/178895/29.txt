@@ -1,1 +1,3 @@
-Posicionamento favorável à revogação do Estatuto do Desarmamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b639818ec0f9cb22e36263ab1294d5046b1ecfbb77dc9b40bf46098141ac6b9
+size 69

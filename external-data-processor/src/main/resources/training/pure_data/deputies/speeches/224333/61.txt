@@ -1,1 +1,3 @@
-O Deputado informou que o Brasil subiu para a nona posição na economia global. Ele atribuiu esse progresso a políticas e projetos implementados no país, incluindo a redistribuição de renda, que visa incluir os mais pobres no orçamento e taxar os mais ricos. O Parlamentar enfatizou a importância de uma política afirmativa que atenda às necessidades das pessoas mais vulneráveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31b3ce94313d01cd6004305c251dff62e08ae22f256127efddf3d4f2c5afd220
+size 390

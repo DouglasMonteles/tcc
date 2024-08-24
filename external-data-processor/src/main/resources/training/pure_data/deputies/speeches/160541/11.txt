@@ -1,1 +1,3 @@
-Liberação da Bancada do PP para votação dos  dispositivos do Substitutivo do Senado ao Projeto de Lei 1.876 de 1999 (Dispõe sobre Áreas de Preservação Permanente, Reserva Legal, exploração florestal e dá outras providências - Novo Código Florestal Brasileiro), com parecer contrário do Relator Paulo Piau.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b6d315c863efb3348accf9659c7cfd0c430ab568ce39f9992311aa50ffcdab4
+size 319

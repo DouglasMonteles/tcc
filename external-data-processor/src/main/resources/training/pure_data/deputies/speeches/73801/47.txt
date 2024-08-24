@@ -1,1 +1,3 @@
-Crise reinante no País e no mundo provocada pela Covid-19, Desrespeito do Presidente Jair Bolsonaro às recomendações sanitárias de prevenção da doença. Incompetência gerencial do Ministro da Economia, Paulo Guedes. Retardo e boicote, por Paulo Guedes/Bolsonaro, de medidas de combate à pandemia de coronavírus aprovadas pelo Congresso Nacional. Imediata liberação de recursos federais aos Estados e Municípios para enfrentamento da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60940d6411f9bf52edd4600e3619950428de68dcf2e9331964f49c2956a25f58
+size 455

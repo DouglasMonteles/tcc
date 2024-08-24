@@ -1,1 +1,3 @@
-Posicionamento da Esquerda contrário à universalização dos serviços de saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2702dc048a5a243cd991b57cb6a194332bc3928c78ca6c322a0c449235907ad2
+size 95

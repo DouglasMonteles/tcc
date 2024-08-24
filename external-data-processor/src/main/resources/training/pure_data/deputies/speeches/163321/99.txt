@@ -1,1 +1,3 @@
-Presença, na Casa, do Sr. Nélio Botelho, líder do Movimento União Brasil Caminhoneiro. Descontentamento da categoria com as Resoluções nºs 3.056, de 2009, e 3.658, de 2011, da Agência Nacional de Transportes Terrestres - ANTT, sobre a obrigatoriedade de utilização da carta-frete. Expectativa de revogação da matéria pelo órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d07028e002ae275d2e3dfa94a6476919ca03f0c009af0a27b88997ac3d9a2814
+size 343

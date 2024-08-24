@@ -1,1 +1,3 @@
-Elogio aos Deputados Paulo Teixeira e Fabio Trad. Defesa de aprovação do projeto de lei sobre a investigação de mortes decorrentes de ação policial, o chamado projeto dos autos de resistência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e5f589228100961707b03c6e60913d2c6b2d12cee807eaf751ac7b9264343a5
+size 199

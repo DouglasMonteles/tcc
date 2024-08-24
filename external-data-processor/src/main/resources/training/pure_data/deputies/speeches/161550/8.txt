@@ -1,1 +1,3 @@
-Homenagem aos profissionais de enfermagem do País, no transcurso do Dia da Enfermagem. Defesa da vacinação de professores e líderes religiosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea7d044f1cd921fa4b87e0bf84cc266db8f8bdb556137cdf0f8f23371dc7d6e0
+size 147

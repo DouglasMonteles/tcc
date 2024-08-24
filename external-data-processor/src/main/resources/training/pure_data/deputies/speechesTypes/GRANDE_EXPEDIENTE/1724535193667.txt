@@ -1,1 +1,3 @@
-Defesa às demandas da população rural brasileira. Saudações aos extensionistas brasileiros. Carência de políticas públicas destinadas ao campo. Sugestão à Presidenta Dilma Rousseff para implantação de projeto no campo nos moldes do Programa de Aceleração do Crescimento - PAC. Solicitação aos Deputados de apoio ao projeto de lei sobre a destinação, para o desenvolvimento rural, de recursos provenientes do fundo social formado com recursos da exploração de petróleo da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb6f8c1e1c4219ee8b2b91ecb7cf507c65565d592b6cb9c1d5679eefb6e9bb38
+size 508

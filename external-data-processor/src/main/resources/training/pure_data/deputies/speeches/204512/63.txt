@@ -1,1 +1,3 @@
-Aplausos ao Governo Federal pela adoção de políticas públicas em prol do Estado de Minas Gerais, sobretudo na área de saúde. Apreensão, por policiais federais, de grande carregamento de cocaína no Estado do Ceará. Excelência da atuação da Polícia Federal, notadamente na repressão ao tráfico de drogas e no combate à corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69c9f1bddfed8b414afa44ac961dbba5f5afdaf5224cc850ebb0c8c6de25467f
+size 345

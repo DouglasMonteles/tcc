@@ -1,1 +1,3 @@
-Luta da Central Única dos Trabalhadores pela ratificação da Convenção 151 da Organização Internacional do Trabalho, sobre a proteção do direito de organização e os processos de fixação das condições de trabalho da função pública. Aguardo da criação, pela Presidência da Casa, de Comissão Especial destinada ao exame da Proposta de Emenda à Constituição nº 129, de 2003, sobre a extensão do direito à negociação coletiva aos servidores públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa23f306a190ffbdbd9e2eb4bdf74c2dd0a790ab755ac7dbe05015eb3f1255d9
+size 475

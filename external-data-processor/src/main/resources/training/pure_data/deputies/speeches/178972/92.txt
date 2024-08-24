@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de destaque para votação em separado do art. 16-D constante do art. 1º do substitutivo do Projeto de Lei nº 8.612, de 2017, sobre a promoção de ampla reforma no ordenamento político-eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edaf8fcb8a1fbcaa5bf0700d16bb88e126c6e742fa2d9dc3c04ad3c85496f3bc
+size 254

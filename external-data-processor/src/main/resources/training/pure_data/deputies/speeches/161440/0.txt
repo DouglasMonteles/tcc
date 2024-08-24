@@ -1,1 +1,3 @@
-Apelo ao Governo Federal por medidas de proteção da cadeia produtiva de leite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1551409a881eb3a5ea857253db19ca71e04f856ef05a65c929235a4af5d43ec9
+size 80

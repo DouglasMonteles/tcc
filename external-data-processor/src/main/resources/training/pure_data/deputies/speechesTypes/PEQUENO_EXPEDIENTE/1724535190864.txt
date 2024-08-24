@@ -1,1 +1,3 @@
-Maior atenção de governantes, especialmente do Governo Federal, para com os trabalhadores no extrativismo na região amazônica. Importância, para o setor extrativista, da realização de pesquisas sobre as Ilhas de Alta Produtividade - IAPs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5acceef7823806c09a296296e12d2d4e627a0637255c949004cc2b56ca2f97b8
+size 245

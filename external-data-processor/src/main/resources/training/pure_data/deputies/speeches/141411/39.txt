@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT a  dispositivo da Medida Provisória 477 de 2009 (Abre crédito extraordinário em favor de diversos órgãos e entidades do Poder Executivo e reduz o Orçamento de Investimento de diversas empresas, para os fins que especifica), relativo a recursos para o Departamento Nacional de Infraestrutura de Transportes - DNIT, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8b1246204b1e6f7961d7c2dedb15a34239a340cbb07f1670f52cadb62499bdc
+size 367

@@ -1,1 +1,3 @@
-Dificuldades na operacionalização do Programa Terra Legal, destinado à regularização fundiária na região amazônica, especialmente no Estado do Amazonas. Conveniência de realização de convênio entre o Governo Federal e os Governos Estaduais para a implementação do Programa. Protesto contra o corte de emendas parlamentares. Matéria Regularização de terra na Amazônia cumpre 1% da meta, a respeito do Programa Terra Legal, publicada pelo jornal Folha de S.Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78e919d21eb2a316473a1b709aad7b23d1122a31e03cf94ba0b03129b5e98d4d
+size 479

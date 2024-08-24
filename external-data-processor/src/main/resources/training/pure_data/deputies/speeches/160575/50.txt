@@ -1,1 +1,3 @@
-Repúdio à atuação dos partidos oposicionistas. Apoio à Presidenta Dilma Rousseff. Realização, por bombeiros militares do Distrito Federal, de manifesto contra a prisão de membros do Corpo de Bombeiros Militar do Estado do Rio de Janeiro. Antecipação pelo Governador Sérgio Cabral da concessão de reajuste nos soldos da classe. Apoio da Comissão de Direitos Humanos e Minorias aos bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5608f1b5b24c77d02eb988d93c54a27b1f4553fc99c5903effa6d6b1a270a3b
+size 413

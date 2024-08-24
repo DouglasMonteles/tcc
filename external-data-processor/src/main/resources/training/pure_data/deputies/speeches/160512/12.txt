@@ -1,1 +1,3 @@
-Agradecimento aos Parlamentares pela aprovação do Projeto de Lei nº 2.303, de 2015, acerca da inclusão da prestadora de serviços de ativos virtuais no rol de instituições sujeitas às suas disposições.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e2076959fbf63a236db80ced56d2ea63bebbc7a8c68289d98a78c5ccfd0499f
+size 210

@@ -1,1 +1,3 @@
-Realização da I Conferência Estadual de Comunicação, no Rio de Janeiro. Apoio à Proposta de Emenda à Constituição nº 333, de 2009, a PEC dos Vereadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:197b7b804f5b40273cda2cb69635a13a92606287128f4892c7bdbd9facfc6870
+size 162

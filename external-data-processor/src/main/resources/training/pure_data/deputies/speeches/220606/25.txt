@@ -1,1 +1,3 @@
-Recondução do Brasil ao cenário internacional pelo Presidente Luiz Inácio Lula da Silva. Caráter estratégico da visita oficial do Presidente Lula à República Popular da China. Celebração dos 200 dias, 100 dias do Governo petista e 100 dias sem o Governo Jair Bolsonaro. Implementação de política de reconstrução da cidadania do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:835ba2584446a6ad79072920aa5a6b5e2ac87b250a6564b94dba8fa7aa84773e
+size 359

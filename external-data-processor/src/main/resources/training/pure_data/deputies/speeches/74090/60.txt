@@ -1,1 +1,3 @@
-Posse de Mauro Campbell Marques no cargo de Ministro do Superior Tribunal de Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c75d14abe39d72445e3dffb56439cb55016e1273ea656e47d804da7a0a0ae0a
+size 86

@@ -1,1 +1,3 @@
-Solicitação ao Ministério das Relações Exteriores de atendimento ao clamor de estudantes brasileiros na Bolívia, diante do clima de instabilidade política reinante naquele país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e35f909381485d645579dba9d35489a3a420a8f977b11e980ed7ce556692c906
+size 185

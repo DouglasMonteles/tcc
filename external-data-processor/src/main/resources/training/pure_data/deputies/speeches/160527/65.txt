@@ -1,1 +1,3 @@
-Questão de ordem sobre a inadmissibilidade de alegação de inconstitucionalidade para supressão de destaque do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:797e3a732d72079cf9ccc105a7dc1a1778a816f142e34bb8678aea553d27237c
+size 117

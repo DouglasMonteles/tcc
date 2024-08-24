@@ -1,1 +1,3 @@
-Fatos consubstanciadores da perseguição aos povos indígenas no País. Necessidade de cumprimento, pelo Estado brasileiro, do papel constitucional de proteção das comunidades indígenas. Manifesto da Articulação dos Povos Indígenas do Brasil - APIB, a respeito da perseguição e ataques contra suas comunidades. Solicitação ao Ministro da Justiça e Segurança Pública, Sérgio Moro, de concessão de audiência ao orador e outros para discussão de medidas de proteção de lideranças indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33d94310620e3ce437c92e139ef55726052c404ab528c8ee58f2fa6c04858161
+size 509

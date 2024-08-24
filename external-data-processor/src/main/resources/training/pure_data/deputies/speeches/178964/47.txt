@@ -1,1 +1,3 @@
-Repúdio à omissão dos entes públicos brasileiros diante da não realização da Jornada Nacional de Literatura, no Município de Passo Fundo, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36c6c7269f14c77722368b788abb5da511d6a9928eed366cd9527d50aa2ce849
+size 174

@@ -1,1 +1,3 @@
-Baixos salários percebidos pelos servidores da área educacional no Estado de Minas Gerais. Dificuldades enfrentadas por motociclistas para recebimento do Seguro DPVAT. Desvio de recursos destinados ao pagamento do Imposto no Estado de Alagoas. Precariedade dos serviços prestados aos consumidores pela Companhia Energética de Minas Gerais - CEMIG. Defesa de extinção da cobrança de assinatura básica da telefonia fixa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dce6acc1fe8b7b4d0b21796e62ed18e96ec113cc9de70bd46a18cdb58ef549da
+size 426

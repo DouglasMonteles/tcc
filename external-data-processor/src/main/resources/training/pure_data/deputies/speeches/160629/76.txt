@@ -1,1 +1,3 @@
-Realização da XV Marcha a Brasília em Defesa dos Municípios, a chamada Marcha dos Prefeitos. Imperiosa necessidade de adoção de medidas de amparo às populações atingidas pela estiagem prolongada na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:550999a757c711a4fa7afcff57b8af0690e0d733c88061d9541ee67ee07d2cac
+size 224

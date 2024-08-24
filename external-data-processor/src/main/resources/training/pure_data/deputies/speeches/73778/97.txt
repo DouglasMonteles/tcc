@@ -1,1 +1,3 @@
-Derrota do orador no segundo turno das eleições municipais de Londrina, Estado do Paraná. Importância da adoção de medidas efetivas de combate aos efeitos da crise do sistema financeiro internacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e2dea752d8f701025436dcd210a2ef9452773161bfbc8398f449e3ff9676dd3
+size 206

@@ -1,1 +1,3 @@
-Presença no plenário do Deputado Estadual de Pernambuco, Coronel Alberto Feitosa; de equipe de Oficiais de Justiça; e do ex-Ministro do Turismo, Gilson Machado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5448f8d13d88ed6e19e57210312becbef4b986747a9efa4cbdd6027c3e912a57
+size 163

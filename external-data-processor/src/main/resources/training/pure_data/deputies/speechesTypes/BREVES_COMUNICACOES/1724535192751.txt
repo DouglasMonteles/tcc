@@ -1,1 +1,3 @@
-Imediata inclusão na pauta da Proposta de Emenda à Constituição nº 438, de 2001, sobre a pena de perdimento da gleba onde for constada a exploração de trabalho escravo. Resgate de trabalhadores em situação análoga à escravidão no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2bb1f72da4784c7a0b6f3d6c0063e213263bfaaafda3a67f0c73bee3784ae92
+size 258

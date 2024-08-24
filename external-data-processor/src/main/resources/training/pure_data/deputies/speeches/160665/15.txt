@@ -1,1 +1,3 @@
-Pedido à Comissão de Trabalho, de Administração e Serviço Público para realização de audiência pública destinada à discussão do reajuste de honorários médicos pelas operadoras de planos de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70c93c115f812df738ef00aca3f91d6ae9b7de63137e290750a660f82909af57
+size 210

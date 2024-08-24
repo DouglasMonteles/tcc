@@ -1,1 +1,3 @@
-Inserção, pelo Relator Elmar Nascimento, de matérias estranhas no texto da Medida Provisória nº 1.031, de 2021, acerca da privatização das Centrais Elétricas Brasileiras S/A - ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be035c1bd87e4dffa49382428958ceb680583a1dc22fbef69b05ea938dd22e3b
+size 195

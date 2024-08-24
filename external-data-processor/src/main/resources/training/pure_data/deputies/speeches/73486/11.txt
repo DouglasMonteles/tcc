@@ -1,1 +1,3 @@
-Homenagem à memória do ex-Presidente da República João Goulart.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5894fe842b0eb76ea20d0f2256a28018c15d368681a7875cf5f91a596364fb4a
+size 67

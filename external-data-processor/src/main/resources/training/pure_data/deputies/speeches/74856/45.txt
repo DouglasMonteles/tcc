@@ -1,1 +1,3 @@
-Conveniência de retirada da pauta de projeto de lei contrário aos interesses dos servidores públicos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dbe4da7f6251b1cc89429b6d922f07b4af06539ffb56706c66f797f6052527b
+size 116

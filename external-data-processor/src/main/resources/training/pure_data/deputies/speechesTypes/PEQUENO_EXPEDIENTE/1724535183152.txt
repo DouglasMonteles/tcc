@@ -1,1 +1,3 @@
-Instalação, na Casa, de câmara de negociação destinada ao debate do novo Código Florestal Brasileiro. Necessidade de aprovação da matéria pela Casa no mês de março de 2011.
+version https://git-lfs.github.com/spec/v1
+oid sha256:557aeec604ca3c01e0b70cfe283f45ae0b75547eb0ad85fddb9371d13eeadca8
+size 183

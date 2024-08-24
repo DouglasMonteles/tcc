@@ -1,1 +1,3 @@
-Lançamento pelo Governo Federal do Programa Melhor em Casa, de atendimento domiciliar de saúde. Pedido de inclusão do Estado de Santa Catarina no Programa SOS Emergências. Importância da edição da Portaria Interministerial nº 630, de 2011, assinada pelos Ministros da Saúde e de Minas e Energia, sobre concessão da tarifa social de energia elétrica para os usuários de equipamentos hospitalares em domicílio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf544d2ac9f3fb0b9304eac89c28e14cb69d9e491dd43ce6107c4022dcfccdb1
+size 421

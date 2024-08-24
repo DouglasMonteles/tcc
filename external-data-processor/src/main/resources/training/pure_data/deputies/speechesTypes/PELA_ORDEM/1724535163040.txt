@@ -1,1 +1,3 @@
-Regozijo com a aprovação da chamada PEC da Música. Convite aos Parlamentares para a reinauguração da galeria da bancada feminina, no dia 14 de dezembro de 2011, às 15h45min. Realização de ato em homenagem à memória da Deputada Ceci Cunha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3da80512ea5ecab43f8ba80419db0e7271a5ccc655ff42eae7abcd984507dfe5
+size 248

@@ -1,1 +1,3 @@
-Adesão à proposta de convocação de sessão extraordinária para amanhã, dia 4 de julho   às 11h, para votação de medidas provisórias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63d0dbaa71209c1ded9701e95c4d280dfff0d3c836c74e9eda7b69df23520ea8
+size 142

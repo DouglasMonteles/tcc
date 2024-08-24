@@ -1,1 +1,3 @@
-Defesa do estabelecimento de prioridades para aquisição da  casa própria no contexto do Projeto de Lei de Conversão da Medida Provisória 459 de 2009 (Dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV, a regularização fundiária de assentamentos localizados em áreas urbanas e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:eed5bc302a08d10212c5ec6164427f9c48cbb254bcf0d6f42b65c457f03f79cc
+size 316

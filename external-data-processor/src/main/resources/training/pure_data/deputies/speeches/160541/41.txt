@@ -1,1 +1,3 @@
-Dever da Câmara dos Deputados de regulamentação da criação de partidos políticos. Apoio do PP à votação do requerimento para tramitação do projeto a respeito em regime de urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:000b8fc4b45b0030da377dd5a2ba17f92ee27420c0468821e33a9c7c9f3212d4
+size 192

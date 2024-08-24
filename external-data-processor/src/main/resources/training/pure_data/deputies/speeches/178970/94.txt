@@ -1,1 +1,3 @@
-Congratulações a trabalhadoras rurais e urbanas participantes da V Marcha das Margaridas em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bb0ff6775ff4a3b04462b5e78b94bff6d6aba001bed05abec5f6dda538a96da
+size 122

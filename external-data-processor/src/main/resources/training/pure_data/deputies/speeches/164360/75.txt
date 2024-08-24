@@ -1,1 +1,3 @@
-Transcurso do centenário de criação da Sociedade Divina Providência, no Estado de Santa Catarina. Relevância dos serviços assistenciais realizados em hospitais mantidos pela entidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b887a736183eb3e808a9f2b31e868dc2de6333da8535d510387a7d5c81fbff0a
+size 189

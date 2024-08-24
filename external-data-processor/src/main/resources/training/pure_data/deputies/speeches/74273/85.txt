@@ -1,1 +1,3 @@
-Distribuição aos Estados brasileiros de recursos oriundos da exploração de petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ad1edccb145abaed59ac500b9c15d8632a6bc5b8fd574fa66bd0d750800780e
+size 108

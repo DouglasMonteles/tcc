@@ -1,1 +1,3 @@
-Real motivo do afastamento do Superintendente da Polícia Federal do Rio de Janeiro, Delegado Ricardo Saad. Integridade do policial federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d6d89cca83a91ff0fa1c59f64c7aa0b56a8e87f070d1077839c13aa15e0ae09
+size 140

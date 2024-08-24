@@ -1,1 +1,3 @@
-Transcurso do Dia do Médico. Atuação de médicos brasileiros em instituições filantrópicas, especialmente em Santas Casas de Misericórdia.  Importância da regulamentação da Emenda Constitucional nº 29, de 2000, para a melhoria dos serviços prestados pelas instituições filantrópicas na área de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e659e539faf92a3ead573a9ac4a22667692b733f0c61ce32c33f8c41c9ad405
+size 317

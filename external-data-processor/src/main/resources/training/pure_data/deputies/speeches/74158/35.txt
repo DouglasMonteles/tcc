@@ -1,1 +1,3 @@
-Impasse nos trabalhos da Comissão de Direitos Humanos e Minorias. Conveniência de realocação de membros do órgão para outras Comissões da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06df2578e4d517dde7acd46d6047d719c003937870a7490ec0263e295999d259
+size 150

@@ -1,1 +1,3 @@
-Condições estabelecidas pela Oposição para o acordo de votação de projeto de lei sobre a destinação de verbas suplementares ao Governo Federal. Graves prejuízos à imagem do Judiciário brasileiro causados pelo Ministro da Justiça e Segurança Pública Sergio Moro e  pelo procurador da República Deltan Martinazzo Dallagnol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93cd3743df32fd50313025e1b2adc4bdadd3d9fb580db93cb855821f20515d88
+size 336

@@ -1,1 +1,3 @@
-Pedido ao Governo Federal de destinação de recursos aos Municípios para contratação de segurança armada e instalação de detectores de metal nos estabelecimentos escolares. Proposta de reajuste do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação — FUNDEB, para aplicação em ações preventivas e segurança no ambiente escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d569bdbf5f20b5749ecd1796dc9437cabc25bb9b1e16e0253ca1c484dee105e8
+size 402

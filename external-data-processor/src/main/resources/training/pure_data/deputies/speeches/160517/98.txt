@@ -1,1 +1,3 @@
-Redução das tarifas de energia elétrica impostas à área industrial, no Estado do Espírito Santo. Protesto contra o fechamento, pelo IBAMA, de postos de revenda de combustíveis na região serrana capixaba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb5549a95f2914920f52c0093dcf04295d6c313480a8b2e1c94a8bd66b9513e1
+size 211

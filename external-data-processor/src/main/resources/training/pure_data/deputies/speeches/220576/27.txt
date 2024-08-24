@@ -1,1 +1,3 @@
-Injustiça da cassação do mandato parlamentar do Deputado Deltan Dallagnol, determinada pelo Tribunal Superior Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dff565efc1dc583e76f25192aa7ee78b4a9b8b9d760ecb530f6a39da567920c
+size 123

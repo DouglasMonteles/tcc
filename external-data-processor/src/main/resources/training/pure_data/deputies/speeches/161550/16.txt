@@ -1,1 +1,3 @@
-Queda do número de casos e internações de pacientes da Covid-19 no Estado de Minas Gerais. Apelo aos Parlamentares por destinação de recursos orçamentários para a realização de cirurgias eletivas em Minas Gerais e no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:672f6f630f8852e15d54a4e722777866ca999ee2f19492cfe5bce8fb2198ad34
+size 232

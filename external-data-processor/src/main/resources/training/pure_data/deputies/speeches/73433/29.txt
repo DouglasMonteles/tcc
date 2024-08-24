@@ -1,1 +1,3 @@
-Responde a questão de ordem do Deputado Walter Pinheiro em que pondera sobre a falta de amparo regimental  de proposta, em negociação, de apresentação de  emenda aglutinativa para resolver a polêmica criada em torno da localização da sede e do foro da Empresa Brasil de Comunicação – EBC e propõe a  inversão da ordem de apreciação dos destaques  ao Projeto de Lei de Conversão da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação – EBC, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb7c8164462ed4337592b77cec8a974d084b38e5b3167bd3ca1b72e4b2c7b12d
+size 708

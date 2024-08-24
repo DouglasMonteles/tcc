@@ -1,1 +1,3 @@
-Votos de sucesso aos novos Líderes do PCdoB, Deputada Jô Moraes; do Bloco Parlamentar PSB/PDT/PCdoB/PMN/PRB, Deputado Renildo Calheiros; e do PDT, Deputado Vieira da Cunha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bcdfa9f2e882f11c36f7fded707c4e59d5699812640f4854cdf4ffa2558ab9d
+size 174

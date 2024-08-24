@@ -1,1 +1,3 @@
-Presença, na Casa, do Vereador Eduardo Zanatta, da Câmara Municipal de Balneário Camboriú, Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d341d18f6f7760f622939e2887ea6dfd8269baeb779b326f850ebc843fa4e29
+size 120

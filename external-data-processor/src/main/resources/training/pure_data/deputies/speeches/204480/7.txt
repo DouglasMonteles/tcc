@@ -1,1 +1,3 @@
-Apelo ao Presidente da Casa por celebração de acordo, com vista à instalação de CPMI destinada à investigação das causas e responsabilidades pela tragédia socioambiental ocorrida no Município de Brumadinho, Estado de Minas Gerais, em decorrência do rompimento de barragem da mineradora Vale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3083c2d376eeb021a37cbdabf4cd9c1485b4f078a59ba923f323c2e5877091d1
+size 302

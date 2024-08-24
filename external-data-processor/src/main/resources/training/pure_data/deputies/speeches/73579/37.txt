@@ -1,1 +1,3 @@
-Encaminhamento ao Ministro da Justiça de requerimento de informações sobre o regime prisional do Governador licenciado de Brasília, José Roberto Arruda. Agravamento do seu estado de saúde na prisão. Alerta à Câmara Legislativa do Distrito Federal sobre a obrigatoriedade da posse de suplente encarcerado. Posicionamento contrário à intervenção federal na Capital da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73140563a04221859eab72a09b173cb76d39ba77d9f1d1b042cb8be35c70270f
+size 390

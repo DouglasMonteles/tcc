@@ -1,1 +1,3 @@
-Presença na Casa do Presidente da Assembleia Legislativa do Estado do Pará e de Deputados paraenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7714c3518cefcf2342a35802350f505b227c951196d64c87362a2a1d9360dc51
+size 102

@@ -1,1 +1,3 @@
-Realização, pela Polícia Federal, de ação de busca e apreensão na residência do ex-Presidente Jair Bolsonaro, em face da adulteração do seu certificado de vacinação. Responsabilidade do ex-Presidente da República por 700 óbitos registrados no País em decorrência da Covid-19. Defesa da aprovação do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news). Expectativa quanto aos resultados da CPMI destinada à investigação dos atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a3c4656628be6fedbd4cfefabcfad71d8514538e6291fc4857b030e9fe3c052
+size 629

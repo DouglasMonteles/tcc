@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de Lei nº 1.874, de 2015, que altera a redação do parágrafo único do art. 3º e os artigos 5º e 7º da Lei nº 12.764, de 27 de dezembro de 2012, que institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ad6ffa5f7f992ee5024771f5e893740bf2459543843599d2af763274571d6ce
+size 288

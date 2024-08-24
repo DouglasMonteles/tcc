@@ -1,1 +1,3 @@
-Realização da 10ª Jornada da Cidadania no Bairro do Bangu, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f37d25c8b3132a0db3137efc83afa3699d4f92ddf1b2cc9e4de97c86a3cb22a5
+size 106

@@ -1,1 +1,3 @@
-Posicionamento do orador favorável à emenda apresentada pelo Deputado Ronaldo Caiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4137c0cf510087e73cb522b1c6ce60ed0e9ed7179552612df925a2b3382574e
+size 87

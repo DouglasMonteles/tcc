@@ -1,1 +1,3 @@
-Conclamação aos Deputados para aprovação da Proposta de Emenda à Constituição nº 454, de 2009, sobre a organização da carreira única de médico de Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4087a36fd2ca178995d809d59b3375fa57711cebe752a94edfd45bb7665bcfe5
+size 165

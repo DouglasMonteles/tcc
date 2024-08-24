@@ -1,1 +1,3 @@
-Defesa de aprovação pela Casa da Proposta de Emenda à Constituição nº 300, de 2008, acerca da equiparação entre os soldos dos policiais e bombeiros militares dos Estados e do Distrito Federal. Transcurso do 172º aniversário de criação da Brigada Militar do Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3057348543422dec65418711ab39ed7b05bcfda858e359758bf25ab1ebe0f7e5
+size 297

@@ -1,1 +1,3 @@
-A Deputada destacou a decisão de aumento real do salário mínimo sob a gestão do Presidente Lula. Também celebrou o reconhecimento de uma indicação, feita pela Parlamentar, para o Prêmio Zilda Arns da Câmara Federal. Trata-se de uma associação de aposentados e pensionistas de Içara (SC) que será homenageada em outubro por seus serviços prestados a 3 mil idosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6b34cf4b2e280cb7cab8fccf2752360f788b1b4f280769901aa6a11b4276555
+size 376

@@ -1,1 +1,3 @@
-Visita a regiões de agroindústria do Estado de Sergipe, com o Superintendente do Instituto Nacional de Colonização e Reforma Agrária - INCRA, André Bonfim. Cumprimento da agenda política do orador nos Municípios de Poço Redondo e Canindé de São Francisco. Cumprimentos ao Governador do Estado de Sergipe, Jackson Barreto, pela inauguração da rodovia SE 427.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1412d131814c15945e9c47c16df0942cc01ceb4a2ab1ae05d5035f9fc07255b2
+size 370

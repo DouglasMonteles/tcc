@@ -1,1 +1,3 @@
-Presença em Brasília, Distrito Federal, da ex-Prefeita Maura Jorge, do Município de Lago da Pedra, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f10a230954d5015e06fc83301f98853bca83e6aa65729a0e8998dd274d428d1
+size 122

@@ -1,1 +1,3 @@
-Crítica à abertura da Ordem do Dia com vistas ao encerramento dos trabalhos da Comissão Especial destinada à análise de projeto de lei de alteração da remuneração de servidores da Polícia Federal e da Polícia Rodoviária Federal. Solicitação ao Governo de esclarecimentos à base aliada sobre a prioridade para votação de matérias na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:598e3daf5349250801facab9f16da6508bd52e329d8e1fcf2f77bbf96c71ff18
+size 355

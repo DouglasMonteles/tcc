@@ -1,1 +1,3 @@
-A Deputada destacou a derrota das fake news nas eleições e a reconstrução do País após um governo negacionista que resultou em mais de 700 mil mortes devido à pandemia de Covid-19. Ela expressou solidariedade ao povo do Rio Grande do Sul, recentemente afetado por um ciclone extratropical, e desmentiu a disseminação de fake news sobre a falta de apoio federal. Enfatizou que o Governo Federal liberou recursos significativos para assistência humanitária, reconstrução e restauração de empregos na região afetada. Concluiu reforçando a união em prol da democracia e contra a disseminação de notícias falsas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c64d609639052226d3cb1123bc0b4020c8bddf4915fdd266b604cfd8178914ac
+size 628

@@ -1,1 +1,3 @@
-Congratulações aos Parlamentares participantes de negociações para aprovação da Proposta de Emenda à Constituição nº 1, de 2015, sobre valor mínimo aplicado anualmente pela União em ações e serviços públicos de saúde. Defesa da taxação de grandes fortunas e de alteração na tributação do Imposto de Renda para melhoria do financiamento da área de saúde. Convocação à população brasileira para manifestação no dia 18 de março em defesa do Governo da Presidenta da República Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ae3f3bbcc23c20571a3b7d3347b8d1d54d73f3e6612defb5ab2d6fe3f18c7ff
+size 522

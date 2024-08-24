@@ -1,1 +1,3 @@
-Expectativa de solução de impasse entre a Caixa Econômica Federal e o BNDES, para liberação de recursos federais a Municípios atingidos por enchentes na região serrana do Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a09f843706f0f9bef7b34874dbab4fb97d4b5425cab7379a355455b651299585
+size 219

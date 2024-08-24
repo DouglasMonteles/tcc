@@ -1,29 +1,3 @@
-{
-  "dados" : [ {
-    "dataHoraInicio" : "2023-02-03T11:36",
-    "dataHoraFim" : null,
-    "uriEvento" : "",
-    "faseEvento" : {
-      "titulo" : "Breves Comunicações",
-      "dataHoraInicio" : null,
-      "dataHoraFim" : null
-    },
-    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
-    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F2%2F2023&txPagina=31&txSuplemento=&enviar=Pesquisar",
-    "urlAudio" : null,
-    "urlVideo" : null,
-    "keywords" : "agradecimento,Ministro de Estado das Comunicações,Deputado federal,Eleições,Mandato parlamentar,Eleitor,Maranhão,Atuação parlamentar",
-    "sumario" : "Agradecimento ao Ministro das Comunicações, Juscelino Filho, pela eleição do orador. Compromisso de atuação parlamentar em defesa do Estado do Maranhão.",
-    "transcricao" : "O SR. DR BENJAMIM (Bloco/UNIÃO - MA. Sem revisão do orador.) - Quero cumprimentar o Sr. Presidente da Mesa e agradecer a oportunidade que estou tendo. Sinto-me muito honrado de representar o Maranhão, um Estado que tanto precisa. Quero agradecer ao meu companheiro e colega médico, o Ministro Juscelino Filho, que sempre me deu apoio e confiou em mim e, por isso, estou aqui hoje. Quero falar a V.Exas. que é um desafio muito grande o mandato, mas com certeza vamos lutar para levar melhorias para o nosso Estado, principalmente para a região tocantinense e melhorar o agro, a saúde e, principalmente, o social de que tanto o Maranhão é carente. Meu muito obrigado a todos."
-  } ],
-  "links" : [ {
-    "rel" : "self",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/221339/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
-  }, {
-    "rel" : "first",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/221339/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  }, {
-    "rel" : "last",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/221339/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  } ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8071f215652c4ea472194a3fa2a4d19a624edaa2fa234d8e296f2a469244e82
+size 2081

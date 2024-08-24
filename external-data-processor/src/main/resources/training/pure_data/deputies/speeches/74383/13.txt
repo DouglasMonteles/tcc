@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a federalização de trecho da PR-163, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e550f8876a15ab853b7ffe802dc34b29b248442229307c3fcde02eff82f65129
+size 99

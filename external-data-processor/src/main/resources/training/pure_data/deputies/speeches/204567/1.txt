@@ -1,1 +1,3 @@
-Transcurso do 170º aniversário de criação do Município de Valença, no Estado da Bahia. Comemoração do Dia de Nossa Senhora do Amparo, Padroeira da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2896e95883992719939090aa7a3b5444bc3e29f7fb8b3cc1243c9ce9296ae99d
+size 170

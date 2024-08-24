@@ -1,1 +1,3 @@
-Voto do PT contrário à exclusão do auxílio emergencial do teto de gastos públicos na apreciação da Proposta de Emenda à Constituição nº 186, de 2019, (a chamada PEC Emergencial).
+version https://git-lfs.github.com/spec/v1
+oid sha256:380c29aa65398679c57c2e04e2a30f417da13141320b2c4c5ba2f2af1b46e06e
+size 189

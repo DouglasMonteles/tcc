@@ -1,1 +1,3 @@
-Implantação de política efetiva de garantia dos preços remuneratórios da produção cafeeira, em especial para os produtores de café em montanha. Encontro do orador com cafeicultores no Município de Cabo Verde, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7edb5c1b1eabcedd4615a3feeac15ef0e3c28c502a255e47c86f06ff94e84728
+size 241

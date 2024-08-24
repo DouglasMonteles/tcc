@@ -1,1 +1,3 @@
-Conhecimento prévio pelo Presidente Luiz Inácio Lula da Silva, pelo Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, general Gonçalves Dias, e pelo Ministro da Justiça e Segurança Pública, Flávio Dino, da invasão por manifestantes das sedes dos Poderes da República. Oferecimento, pelo Presidente da República, de 60 milhões de reais a Parlamentares para retirada de assinaturas da CPMI destinada à investigação do caso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f83edc1454d77d9377ac39628593bbf23f95cae589f62a6efb4d661c46e4edc
+size 471

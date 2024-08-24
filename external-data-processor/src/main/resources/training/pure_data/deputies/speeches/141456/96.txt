@@ -1,1 +1,3 @@
-Tentativa de desestabilização do Governo Dilma Rousseff, revelada em acusações infundadas contra o Ministro-Chefe da Casa Civil, Antonio Palocci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f16e82ae96210a6837137982584f0cf1aae16e5f52a52b1b589bdd76257bf48
+size 149

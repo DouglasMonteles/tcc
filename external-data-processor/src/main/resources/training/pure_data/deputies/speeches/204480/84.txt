@@ -1,1 +1,3 @@
-Estagnação da economia brasileira. Elevação dos índices de pobreza na Argentina. Não alocação, pelo Governo Federal, de recursos para o Programa Minha Casa, Minha Vida. Repúdio ao Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4340777d8aaa30ca02cbe72641a249ae2d02b41dc3ab69203b5ff0964f817c0
+size 212

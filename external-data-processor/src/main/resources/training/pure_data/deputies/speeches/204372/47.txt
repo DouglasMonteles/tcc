@@ -1,1 +1,3 @@
-Aplausos ao Presidente Jair Bolsonaro e ao Ministro da Infraestrutura, Tarcísio Gomes de Freitas, pela inauguração de trecho das obras de transposição de águas do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7df0396e3d398f188c447b60a7802dd7c102f1135b94822009a2b71bf87e633
+size 188

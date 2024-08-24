@@ -1,1 +1,3 @@
-Comemoração do 115º aniversário de criação do Município de Pedreira, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbe4b2a0b72a29034f1241ee47a9000a4c77e173d283aa06fb0e061c446b30f9
+size 97

@@ -1,1 +1,3 @@
-Repúdio à iniciativa do Movimento de Mulheres Olga Benário de denominação da Ponte Costa e Silva, no Distrito Federal, de Ponte Marielle Franco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e12b30aa22cca4dc865bc91c188cf67038a5d400cbaaa72a27ad185d83060d60
+size 149

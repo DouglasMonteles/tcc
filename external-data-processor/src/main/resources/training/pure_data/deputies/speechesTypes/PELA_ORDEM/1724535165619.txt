@@ -1,1 +1,3 @@
-Confiança na manutenção pelo Supremo Tribunal Federal da decisão sobre de execução de pena após decisão judicial em segunda instância. Apoio à prisão do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da48a32be6142b81794deb63d1d681635fe5f62ce86ddacfd4a61eb91dd32596
+size 205

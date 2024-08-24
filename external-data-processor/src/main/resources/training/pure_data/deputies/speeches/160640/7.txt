@@ -1,1 +1,3 @@
-Defesa da manutenção do  § 7º do art. 11-B, constante do art. 1º do Projeto de Lei de Conversão da Medida Provisória 512 de 2010 (Altera a Lei 9.440 de 1997, que estabelece incentivos fiscais para o desenvolvimento regional e da indústria automotiva), que estende os incentivos aos empreendimentos instalados ou que venham a se instalar em municípios abrangidos pela área de atuação da SUDENE, objeto de DVS,  em votação nominal por força de verificação de votação.    Convocação dos Parlamentares ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2df183b35548d009af6e445713d926b87f6b2c24f7dcab2997d5636a7ec911dc
+size 532

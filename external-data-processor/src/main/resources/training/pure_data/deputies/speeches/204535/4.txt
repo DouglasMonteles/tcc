@@ -1,1 +1,3 @@
-Posicionamento do PSOL contrário à aprovação da proposta de reforma previdenciária apresentada pelo Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ef24aa8eb2a834278f52f181519060383816108cf7e8e7109aa5560545dfdf3
+size 128

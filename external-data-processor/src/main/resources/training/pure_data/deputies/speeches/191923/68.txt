@@ -1,1 +1,3 @@
-Veiculação de denúncias de assédio sexual e moral contra o Presidente da Caixa Econômica Federal. Degradação dos valores éticos e morais pelo Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35cd530e92f191a543de935b2454ff07cc453336be717fe4cde806176888ec98
+size 173

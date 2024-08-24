@@ -1,1 +1,3 @@
-Desacordo com projeto de privatização de parques estaduais e alienação de área da Escola Técnica Cônego José Bento, no Município paulista de Jacareí, pelo Governo Geraldo Alckmin, e de parques federais pelo Governo do Presidente interino Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b58f109517d353f101f5dae71422468fa42ad6630daef09a35b8b4cc1681cf41
+size 261

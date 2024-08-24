@@ -1,1 +1,3 @@
-O Deputado abordou a preocupação com o orçamento das universidades federais. Mencionou que houve uma perda de investimentos e alertou que o orçamento previsto para o próximo ano pode ser ainda menor, o que representa um desafio significativo para as instituições de ensino superior. Enfatizou a importância das universidades federais na produção de pesquisa e conhecimento. Analisou o orçamento da EMBRAPA e do Plano Safra, e destacou a necessidade de investimento nas universidades para garantir a produção de conhecimento e pesquisa no Brasil. Explicou que a educação não deve ser vista como gasto, mas sim como um investimento no desenvolvimento do país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a19aa95fedcdb496c744fafaccb51a7d19868f8dde2a9b3ee60f8515f072b098
+size 674

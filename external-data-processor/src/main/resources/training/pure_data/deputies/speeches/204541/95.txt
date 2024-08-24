@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Comissão nº 20, apresentada à Medida Provisória nº 1.061, de 2021, sobre a instituição do Programa Auxílio Brasil e do Programa Alimenta Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:622cc04a97347069bc37445024f87f5bc877f707a1804835b36e807cf9a14d87
+size 257

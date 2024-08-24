@@ -1,1 +1,3 @@
-Protesto contra a inclusão dos nomes dos Deputados ausentes na Câmara dos Deputados por motivo de saúde, na lista de Parlamentares faltosos divulgada pela mídia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92ad222a953969cdc5e6962b45ac3dc51f1d637118326e0c2aeb6d4ed2079137
+size 165

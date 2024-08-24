@@ -1,1 +1,3 @@
-Conveniência de observância, pelos governantes, da queda do número de homicídios no Brasil após a flexibilização do porte e posse de armas de fogo e munições.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7f1bfe1162d885d66800b55ada1273c5762a50c847aab7e064ee0656a159a91
+size 167

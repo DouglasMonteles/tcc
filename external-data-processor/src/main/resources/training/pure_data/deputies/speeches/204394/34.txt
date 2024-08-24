@@ -1,1 +1,3 @@
-Retrocesso da proposta governamental de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8426a5248188b1c5510b7d76d369ea7bf48092373a37a4f147b5650d80bdc73a
+size 64

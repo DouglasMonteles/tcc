@@ -1,1 +1,3 @@
-Adjudicação de imóvel da Fábrica Ypu em benefício da Universidade Federal Fluminense, no Município de Nova Friburgo, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92fd9e49393b7c7cdf47f053b7810a299e0587331ba0445e499e58cbee6dcc9e
+size 148

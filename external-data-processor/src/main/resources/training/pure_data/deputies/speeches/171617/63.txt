@@ -1,1 +1,3 @@
-Ineficiência da gestão da ELETROBRAS Distribuição Alagoas - CEAL. Denúncia de utilização da subestação do órgão localizada no bairro de Jacintinho, no Município de Maceió, para o tráfico de drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17104346ee829ad2c893059bdf2b03d9eff5f23960c6db68e6466da648f22043
+size 211

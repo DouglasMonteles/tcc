@@ -1,1 +1,3 @@
-Risco de extinção das Associações de Pais e Amigos dos Excepcionais - APAEs  após a alteração, pelo Senado Federal, do projeto de lei sobre a instituição do novo Plano Nacional de Educação - PNE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e7a05a930084a8428409d0e2c0a2838522606a25d3ca446361714d560bf4f92
+size 206

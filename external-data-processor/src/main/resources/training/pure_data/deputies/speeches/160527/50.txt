@@ -1,1 +1,3 @@
-Presença em plenário do Ministro de Estado da Saúde, Ricardo Barros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:147f399956f6e561581f80c426d0fc949ef035cbeed46d32914b7d9a5b4dc6f5
+size 71

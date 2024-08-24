@@ -1,1 +1,3 @@
-Inconsistência de pronunciamentos sobre a realização de manifestação pública contra o Congresso Nacional no dia 15 de março de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74ad9b050af9967f664a2269d1eec4ed1c5a5c61ce4ed08e6a485b32f28185f2
+size 139

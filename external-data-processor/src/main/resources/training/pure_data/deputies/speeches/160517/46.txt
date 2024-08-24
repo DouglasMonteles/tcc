@@ -1,1 +1,3 @@
-Realização, pela Comissão de Ciência e Tecnologia, Comunicação e Informática, de audiência pública destinada ao debate da revisão da Norma nº 4, de 1995, da Agência Nacional de Telecomunicações - ANATEL, a respeito da atividade do provedor de acesso à Internet e do Serviço de Valor Adicionado - SVA para a modalidade de telecomunicações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5d11c673b81866a52a0854d08824103294d3b3188e79a6f428492619498ade2
+size 356

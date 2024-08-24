@@ -1,1 +1,3 @@
-Denúncia do uso de grampo telefônico por agentes da Polícia Federal, no Estado do Acre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91f4d43df7e44e0ddbb744705c98daa0ad56982f091c0539aca3a49acba5088d
+size 90

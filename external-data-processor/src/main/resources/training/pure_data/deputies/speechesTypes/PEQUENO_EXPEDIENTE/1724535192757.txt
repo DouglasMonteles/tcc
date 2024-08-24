@@ -1,1 +1,3 @@
-Indignação do orador com a reportagem Governo paga por projeto fantasma para a Copa, a respeito de suposta irregularidade no âmbito do Ministério do Esporte, publicada pelo jornal O Estado de S.Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a857513987875dab1c47bb26fd93a9a25ddf67fb14f8f76a8406575dd7ea2128
+size 204

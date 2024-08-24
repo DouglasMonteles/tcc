@@ -1,1 +1,3 @@
-Visita ao Estado do Rio Grande do Sul de membros da Subcomissão Especial para Acompanhamento do Sistema Único de Assistência Social, vinculada à Comissão de Seguridade Social e Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3ebed73d030cda282281048f0740b6787871a748fd70bb97b7eb34ba8bcc48d
+size 191

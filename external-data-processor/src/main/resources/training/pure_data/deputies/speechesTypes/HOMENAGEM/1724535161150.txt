@@ -1,1 +1,3 @@
-Sessão solene de entrega do Diploma Mulher-Cidadã Carlota Pereira de Queirós.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc5cc6eab6423adc8bc37ee707d969a70be2c16e04d9f0b1dd4fda6357713236
+size 80

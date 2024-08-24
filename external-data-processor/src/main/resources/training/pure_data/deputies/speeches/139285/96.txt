@@ -1,1 +1,3 @@
-Instalação do Conselho de Desenvolvimento Econômico e Social do Estado da Bahia. Posse da Prefeita Mariângela Borges, do Município de Lajedo do Tabocal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df50e0d8aa0a02b0383186a185716d77f8aadfc8681d818df585f99bca510547
+size 157

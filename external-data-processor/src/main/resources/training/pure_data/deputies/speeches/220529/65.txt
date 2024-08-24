@@ -1,1 +1,3 @@
-Presença no plenário de delegação do Espírito Santo em busca da alocação de recursos para o Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:147eb5288fd2a08fbf6abb942b115ffd71d35bfa3560ba5f99c23d2c9183d841
+size 106

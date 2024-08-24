@@ -1,1 +1,3 @@
-Repúdio aos atos de racismo praticados contra o jogador de futebol Vinícius Júnior, na Espanha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f81adff54cd6e339bb6f138cbdb2b0147786ec106128162418e73a96393e06e
+size 98

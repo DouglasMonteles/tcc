@@ -1,1 +1,3 @@
-Assassinato do Delegado Alcides Lantorno, no Rio de Janeiro, Estado do Rio de Janeiro. Empenho na instauração de CPI destinada à investigação de chacinas praticadas por milícias privadas e grupos de extermínio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e78a6189631257f2412c580008f4ba08fd84d8e8cdfd9bff7782365836b51fbc
+size 217

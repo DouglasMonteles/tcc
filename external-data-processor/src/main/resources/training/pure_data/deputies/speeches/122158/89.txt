@@ -1,1 +1,3 @@
-Tragédia ocorrida no Município do Rio de Janeiro em decorrência das fortes chuvas. Incompetência do Prefeito Marcelo Crivella. Não realização, pelo gestor municipal, de investimentos em drenagem e na contenção de encostas na Capital fluminense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:497e1677da562bffff0d675eabc68999506efc0a427abda7206c393cb057642e
+size 253

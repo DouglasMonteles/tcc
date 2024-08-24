@@ -1,1 +1,3 @@
-Transcurso do 21º aniversário de fundação do Distrito de Irrigação Nilo Coelho - DINC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29410a08c74de3c7af5e77eac1331a7bc59f29f30dcbc5d8e57a2f9ec6deee69
+size 92

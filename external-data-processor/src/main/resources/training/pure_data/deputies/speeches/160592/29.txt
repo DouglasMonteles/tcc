@@ -1,1 +1,3 @@
-Resultado positivo de auditorias realizadas pelo Ministério da Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a17045303a8392a28711294e0f6a47fa13ae50f9992b2ff0a547ec51d1064b5c
+size 71

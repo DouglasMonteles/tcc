@@ -1,1 +1,3 @@
-Apoio à proposta de acordo do Governo Federal, favorável à ascensão e progressão funcional dos profissionais da área de segurança pública, na votação da Proposta de Emenda à Constituição nº 186, de 2019, sobre a criação de mecanismos de ajuste fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d54a9a646ab1840f03e0c57b4d0fe39a094ee678e8aa2ac7c401ff4642f141b5
+size 267

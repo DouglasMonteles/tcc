@@ -1,1 +1,3 @@
-Transcurso do 55º aniversário de fundação da Cooperativa Regional de Cafeicultores em Guaxupé Ltda - COOXUPÉ, no Estado de Minas Gerais. Trajetória exitosa da entidade. Seriedade e profissionalismo da administração da COOXUPÉ. Realização, pela Frente Parlamentar Mista em Defesa da Cafeicultura em conjunto com outras entidades, de reunião para debate do novo Código Florestal brasileiro e das alterações da legislação tributária federal, destinadas ao estímulo das exportações e produção de café, no Município de Espírito Santo do Pinhal, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d8c52c98094c01e45031defef63fef819ae04031135c298fd0cdaefae069c08
+size 588

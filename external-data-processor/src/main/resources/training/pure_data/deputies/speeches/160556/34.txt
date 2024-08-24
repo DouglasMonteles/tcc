@@ -1,1 +1,3 @@
-Realização, na Assembleia Legislativa do Estado de Goiás, de reunião da Frente Parlamentar pela Educação do Campo. Ocorrência de audiência pública, em Goiânia, da Subcomissão Especial sobre o Uso de Agrotóxicos. Lançamento do filme O Veneno está na mesa, de autoria do cineasta Silvio Tendler. Maior apoio dos órgãos governamentais à produção agroecológica. Participação do orador em reunião sobre o uso de fontes alternativas de energia. Aprovação pela Casa da proposta de criação do Estatuto da Juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:faef7732c06dfbc2503df942be1004fa371c376e8b18ee5311cedfe714032bac
+size 534

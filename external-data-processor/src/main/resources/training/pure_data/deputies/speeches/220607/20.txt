@@ -1,1 +1,3 @@
-O Deputado destacou a necessidade de um federalismo cooperativo no Estado do Rio de Janeiro para enfrentar os desafios na área de segurança pública. Enfatizou a importância da colaboração entre União, Estados e Municípios, defendendo a aplicação do Federalismo Cooperativo para conter a violência, especialmente das milícias. Em vez de intervenções temporárias, ele propôs a criação de um Comitê Permanente de Inteligência Operacional de Segurança e Cidadania, envolvendo diversos Estados, para promover a segurança de forma duradoura e estrutural. O objetivo seria de preservar a liberdade e a autonomia dos cidadãos, fortalecendo a segurança e a qualidade de vida no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:786146004625b55a0550d57c319d20c0d8f36d1892e75ff51570c63c8cbff40f
+size 699

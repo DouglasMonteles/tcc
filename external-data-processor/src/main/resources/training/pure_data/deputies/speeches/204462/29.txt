@@ -1,1 +1,3 @@
-Orientação de bancada na votação da admissibilidade do requerimento de destaque simples apresentado ao Projeto de Lei nº 598, de 2019, sobre a instituição da Semana Escolar de Combate à Violência contra a Mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ba735ea9787b9ba794a5c96347d1062d421fe3b0aa9c6c1151753214b65a1ca
+size 221

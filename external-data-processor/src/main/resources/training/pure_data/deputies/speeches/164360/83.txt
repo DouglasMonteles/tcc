@@ -1,1 +1,3 @@
-Ponderações sobre a inconveniência da liberação de bebidas alcoólicas nos estádios de futebol durante a realização da Copa das Confederações e da Copa do Mundo de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bec191db2db9ec6902441fdc564b4965106a528ad619a96cc0bd67af6b268446
+size 179

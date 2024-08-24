@@ -1,1 +1,3 @@
-Perplexidade ante o pronunciamento de Deputado, favorável ao uso de vitamina D e de vermicida para combate à Covid-19. Orientação de bancada na votação do requerimento de destaque para substituição, pela redação da Emenda de Plenário nº 5, da redação do § 3º, art. 2º, do Projeto de Lei nº 534, de 2021, sobre a permissão aos Estados e   Municípios, bem como à iniciativa privada, de aquisição de vacinas contra a Covid-19 com registro ou autorização temporária de uso no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed9ed66a3cdbd9d60c3c126d34a5c23ba54d324c3e04a501a131e1eb58fd5f7f
+size 505

@@ -1,1 +1,3 @@
-Votos de pleno restabelecimento da saúde ao Presidente Jair Bolsonaro, contaminado por coronavírus. Congratulações à Casa pela aprovação de medidas de enfrentamento da pandemia de coronavírus. Apresentação do Projeto de Lei nº 1.995, de 2020, sobre a inclusão de igrejas, templos religiosos e comunidades missionárias no rol das atividades essenciais para efeito de políticas públicas no âmbito do Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fd455f5c2c3407d8d6ea9c3806531911d377aba631199d2e0b7a47931e5bda2
+size 430

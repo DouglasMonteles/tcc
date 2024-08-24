@@ -1,1 +1,3 @@
-O Deputado ressaltou a atuação da Frente Parlamentar em Apoio ao Petróleo, Gás e Energia (FREPPEGEN), apoiada por 217 Deputados, que destaca o desenvolvimento nacional e a importância estratégica da exploração de petróleo, gás e energia no Brasil. De acordo com o Parlamentar, a FREPPEGEN visa a cooperação econômica, o aprimoramento do setor, a geração de empregos e o incentivo a ações sustentáveis na geração de energia, com o objetivo de garantir a segurança energética e melhorar a qualidade de vida da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4874da8d55010966af036d515c6d64e18ecf39792995ce0b8c8dfc4cbd636b4
+size 553

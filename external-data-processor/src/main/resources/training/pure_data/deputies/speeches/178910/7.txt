@@ -1,1 +1,3 @@
-Homenagem às famílias brasileiras por ocasião do transcurso do Dia de São José. Artigos Pecuária Verde de Paragominas vira exemplo, acerca dos modos sustentáveis de produção de carne bovina, do jornalista Ronaldo Brasiliense, e Corte de verbas já afeta as universidades federais instaladas no Pará, veiculados no jornal paraense O Liberal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0da16d07a15a535d5bea657abb1b527b16d4d351136d45ed1437bf2a69d187d
+size 350

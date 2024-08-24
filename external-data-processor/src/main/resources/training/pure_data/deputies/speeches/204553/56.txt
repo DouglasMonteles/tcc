@@ -1,1 +1,3 @@
-Leitura de trecho da Bíblia Sagrada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1b831cbf118fe5abd886e31bbcfcd10a3e29e731f9e6ddc237f280e2429b03c
+size 37

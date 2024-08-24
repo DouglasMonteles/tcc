@@ -1,1 +1,3 @@
-Apresentação de requerimento de indicação ao Ministério da Cidadania para criação de memorial em homenagem aos mortos e desaparecidos na tragédia socioambiental ocorrida no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:010b2a92f05e54485f38185b7743e0b72a810d4862d5865682607efa8cd46480
+size 230

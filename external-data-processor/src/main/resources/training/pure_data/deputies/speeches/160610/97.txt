@@ -1,1 +1,3 @@
-Caráter pejorativo e discriminatório de matérias a respeito dos integrantes do Movimento dos Trabalhadores Rurais Sem Terra - MST, de autoria dos jornalistas Reinaldo Azevedo e Augusto Nunes, publicadas pela revista Veja. Apoio às mobilizações realizadas pela Via Campesina Brasil no Distrito Federal e outras regiões do País. Prioridade do Governo Federal na reforma agrária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d80eda83a940a423d0cbdf07ff2a3d0f9c785e834dcd808e108b882346f63e7
+size 385

@@ -1,1 +1,3 @@
-Apoio à aprovação do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira. Defesa da concessão de piso salarial digno aos policiais militares. Repúdio ao tratamento dispensado às polícias pelos Governadores Estaduais. Esclarecimento sobre a não declaração da inocência do ex-Presidente Luiz Inácio Lula da Silva em processos de corrupção, diante do reconhecimento, pelo Comitê de Direitos Humanos da Organização das Nações Unidas - ONU, da parcialidade do ex-Juiz Federal Sérgio Moro no julgamento de ações criminais contra o líder petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78ca16b81b34c3eb9a1f12f4cbc5f006892f001f189acb2c7f666a7e5c94c64a
+size 639

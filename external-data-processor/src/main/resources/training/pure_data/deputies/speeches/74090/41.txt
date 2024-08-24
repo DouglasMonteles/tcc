@@ -1,1 +1,3 @@
-Aplausos ao Governo Luiz Inácio Lula da Silva pela prorrogação do Programa Luz para Todos até 2010. Extensão dos benefícios do Programa a pequenas comunidades do interior do Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8ff7000e68a5d3d4d907412ff9816c5754d21f93f32154944727813f876a331
+size 199

@@ -1,1 +1,3 @@
-Transcurso do 474º aniversário de fundação de Salvador, Estado da Bahia. Lançamento da Frente Parlamentar de Fomento à Qualificação, Inclusão e Subsistência das Mulheres na Construção Civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:581efcf32ef10e7bf7690f2824112e8959644334973aa4e6d0f100de248f9dac
+size 202

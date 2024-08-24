@@ -1,1 +1,3 @@
-Necessidade de combate aos grupos de extermínio no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7628de044c9387b4d176c8b33a2c20b4f6bbc7d9d9d1e03967c18bff841ebc3d
+size 58

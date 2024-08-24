@@ -1,1 +1,3 @@
-Encaminhamento da votação do Projeto de Lei Complementar 177 de 2004(Dispõe sobre o Sistema Nacional de Crédito Cooperativo), apenso o PLP 312 de 2002.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb5b00617e34bf2792a20200702fcc77f7669c5fb0037cb0801c8cbf83de8054
+size 155

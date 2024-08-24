@@ -1,1 +1,3 @@
-Homenagem à memória da ex-Deputada Estadual de Santa Catarina, Antonieta de Barros. Transcurso do 21º aniversário da União de Negros pela Igualdade - UNEGRO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ace1642db419f457af9ce3f982daf48c7c8c6bddfb05b671b5687b4d753e459c
+size 162

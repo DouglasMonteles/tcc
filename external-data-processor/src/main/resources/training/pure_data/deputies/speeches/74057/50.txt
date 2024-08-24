@@ -1,1 +1,3 @@
-Transcurso do 60º aniversário de fundação do Hospital Universitário Professor Edgard Santos, da Universidade Federal da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1339be66370737875ad8b58334cb559ef04bb621982d2870d6b2537df938335b
+size 131

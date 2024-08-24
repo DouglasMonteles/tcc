@@ -1,1 +1,3 @@
-Encaminhamento de indicação ao Ministro dos Transportes, Alfredo Nascimento, para recuperação da BR-101, no trecho compreendido entre o Município de Itamaraju, no Estado da Bahia, e a divisa com o Estado do Espírito Santo. Matéria Ecos da Escravidão, publicada pela revista CartaCapital. Implantação de políticas públicas a favor das comunidades carentes. Combate ao preconceito racial no País. Apresentação pelo orador, à Assembleia Legislativa do Estado da Bahia, de projeto de lei sobre a instituição do Estatuto da Igualdade Racial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbbd246f81438b02ca6e0b49b91d2627ad4a1a17f78214b245f9bcd94ca3c8da
+size 554

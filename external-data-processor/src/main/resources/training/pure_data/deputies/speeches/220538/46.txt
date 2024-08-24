@@ -1,1 +1,3 @@
-Conquista, pela Sociedade Beneficente Recreativa Imperadores do Samba, do título de Campeã do Carnaval de Porto Alegre de 2009, com samba-enredo em homenagem ao Sport Club Internacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2650940dac0666cd853e6ce04a3be38931d93d0f7e3fc24415f8926b4b600f71
+size 188

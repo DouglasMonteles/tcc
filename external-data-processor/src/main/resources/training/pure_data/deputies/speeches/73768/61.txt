@@ -1,1 +1,3 @@
-Defasagem da tabela do SUS. Precariedade das entidades de saúde conveniadas com o Poder Público. Penalização dos usuários do sistema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10a8345a6e6aec79b5e71591aa0fe86731a51d9abbda138698914edf71757b8d
+size 138

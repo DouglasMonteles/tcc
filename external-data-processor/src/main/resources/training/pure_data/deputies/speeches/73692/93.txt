@@ -1,1 +1,3 @@
-Imediata adoção, pelo Governo brasileiro, de providências a respeito de restrições impostas pela Argentina às exportações de produtos brasileiros, especialmente de máquinas agrícolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc1a0375826770a95df8fdb585db48f0841650a8c881ef2684aacf392e7f299a
+size 193

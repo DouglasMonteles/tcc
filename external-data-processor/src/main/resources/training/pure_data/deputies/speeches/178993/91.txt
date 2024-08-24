@@ -1,1 +1,3 @@
-Excelência da Polícia Militar do Estado de Tocantins. Congratulações aos funcionários da Casa pelo apoio ao trabalho dos Parlamentares. Encontro do orador com a Ministra da Agricultura, Pecuária e Abastecimento, Kátia Abreu, e o Ministro dos Transportes, para debate sobre a duplicação da BR-153 no Tocantins. Anúncio de participação em cavalgada no Município de Porto Nacional, Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ee29f316aecb6e995088eb5b8a863e28bfa61c290e4a5d6252f68d0e6ab7e74
+size 412

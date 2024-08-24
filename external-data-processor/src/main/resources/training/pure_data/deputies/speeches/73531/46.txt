@@ -1,1 +1,3 @@
-Protesto contra a decisão do Desembargador Luiz Antonio de Godoy, do Tribunal de Justiça do Estado de São Paulo, sobre a suspensão do processo contra o Coronel do Exército Carlos Alberto Brilhante Ustra, acusado pela morte do jornalista Luiz Eduardo Rocha Merlino. Apresentação de projeto de lei sobre a transformação do Rio Ribeira de Iguape em patrimônio histórico, cultural e ambiental do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bd71e879a322e625f57c137386dc75e70fe15eef4550c74d9d57e35a410d557
+size 410

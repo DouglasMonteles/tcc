@@ -1,1 +1,3 @@
-Apelo à Presidência de retomada dos trabalhos da Comissão Especial destinada ao exame da Proposta de Emenda à Constituição nº 443, de 2009, acerca da fixação dos subsídios das carreiras da Advocacia-Geral da União e das Procuradorias dos Estados e do Distrito Federal. Defesa de aprovação da Emenda Substitutiva Global nº 03, de 2011, de autoria do Deputado Arnaldo Faria de Sá, destinada à extensão da proposta aos auditores-fiscais da Secretaria da Receita Federal do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aa79d33074435d2214697db9ae31813ef8a734a7a87555896d1d1ad52247aa1
+size 494

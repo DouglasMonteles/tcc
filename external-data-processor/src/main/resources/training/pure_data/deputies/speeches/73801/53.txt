@@ -1,1 +1,3 @@
-Incompetência e despreparo do Ministro da Economia, Paulo Guedes. Posicionamento do Titular da Pasta contrário à liberação de recursos às empresas brasileiras para garantia de empregos, bem como aos Estados e Municípios para enfrentamento da pandemia de coronavírus. Boicote por Paulo Guedes às ações de combate à Covid-19, aprovadas pelo Congresso Nacional. Natureza abusiva da postura do Presidente Jair Bolsonaro diante de óbitos ocorridos no País por infecção de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd946a107e9f1c605177067a1d3a05cf7af97b3f509dfb4c6a581757cb45fabe
+size 496

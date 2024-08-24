@@ -1,1 +1,3 @@
-Convite para participação em audiência pública na Comissão Especial da Reforma Tributária, com a presença do Secretário da Receita Federal do Brasil, Jorge Rachid, e do ex-Deputado Sandro Mabel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c45f9170be396a54508d7ca268a9435b61da017483c634f552fee70d408128f3
+size 202

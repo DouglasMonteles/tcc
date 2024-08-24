@@ -1,1 +1,3 @@
-Solicitação à Presidência de votação de requerimentos de criação de Comissão Externa da Casa destinada ao acompanhamento de movimento grevista de caminhoneiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b427ce3178a04cc447091608bb51914a3ecebdaff33af2cb216763b74ac7879b
+size 169

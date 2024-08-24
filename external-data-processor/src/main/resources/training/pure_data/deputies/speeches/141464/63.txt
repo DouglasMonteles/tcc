@@ -1,1 +1,3 @@
-Transcurso do 20º aniversário da Associação dos Jovens Empresários de Fortaleza, no Estado do Ceará. Situação do trânsito na Capital cearense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:471b3cff43e09be4b813580f02c9b68ae3f92c08acfa4c1f5418d7c538bba66f
+size 151

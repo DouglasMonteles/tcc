@@ -1,1 +1,3 @@
-Importância da aprovação da proposta de reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b189ba47fb240b168b159e0329c3ba431c9ca7e6c406943e153ec5130f46a13a
+size 74

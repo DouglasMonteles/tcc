@@ -1,1 +1,3 @@
-Realização do 3º Seminário das Empresas Federais de Distribuição de Energia em Maceió, Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45020b551e061256d363b8a45234a3cc1800de34f6b7ff835e5e4f03f2974fe0
+size 112

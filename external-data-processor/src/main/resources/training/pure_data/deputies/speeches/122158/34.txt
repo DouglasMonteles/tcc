@@ -1,1 +1,3 @@
-Defesa de rejeição de requerimento de destaque destinado à supressão do art. 8º, contido no projeto de lei complementar sobre a instituição de regime de recuperação fiscal dos Estados brasileiros. Conclamação aos Deputados para aprovação do substitutivo oferecido à matéria pelo orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2562e1b661ddbcae012fdfa47468cc2e0c4a3d4a6abc0ce315b310ff415fea4
+size 301

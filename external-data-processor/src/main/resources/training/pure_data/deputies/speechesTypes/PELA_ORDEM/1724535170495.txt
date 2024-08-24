@@ -1,1 +1,3 @@
-Realização do Festival de Inverno de Garanhuns, no Estado de Pernambuco. Apresentação do Projeto de Lei nº 4.115, de 2019, sobre a declaração de Garanhuns como a Capital do Inverno Nordestino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ca665005e08d89d6b603c840409210aeda723af57652f8025aea11e46ba05f1
+size 199

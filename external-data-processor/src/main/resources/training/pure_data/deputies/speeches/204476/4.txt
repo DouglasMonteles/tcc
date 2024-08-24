@@ -1,1 +1,3 @@
-Relevância do projeto de lei sobre a abertura do setor aéreo ao capital estrangeiro. Posicionamento do orador acerca da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5e9df1865d4632449b2b63c89b6b5ba77979d6992ae07529e37c3adaa2e4880
+size 146

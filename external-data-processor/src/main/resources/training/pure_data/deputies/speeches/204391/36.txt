@@ -1,1 +1,3 @@
-Elevação dos índices de desemprego no País, segundo dados do Instituto Brasileiro de Geografia e Estatística - IBGE. Defesa da realização de reformas estruturantes, especialmente da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20e62b51cb38c7b53c7d7a056ea597103c299803d2d8e6cd4f7cdda8480c7711
+size 213

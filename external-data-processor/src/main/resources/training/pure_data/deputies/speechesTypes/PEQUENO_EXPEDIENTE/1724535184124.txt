@@ -1,1 +1,3 @@
-Solicitação ao Governo Federal de urgência na liberação de recursos orçamentários ao Município de Salvador atingido por enchentes. Realização, pela Assembléia Legislativa do Estado da Bahia, de sessão solene ao ensejo do transcurso do 19º aniversário de criação do Estatuto da Criança e do Adolescente. Transcurso do 121º aniversário da Abolição da Escravatura no Brasil. Urgente aprovação pela Casa da proposta de criação do Estatuto da Igualdade Racial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23ae681273572128a7b94501f18353ca1270ee301d42dbf63144c3d0f5cc530a
+size 480

@@ -1,1 +1,3 @@
-Relação entre a falta de qualidade nos ensinos fundamental e médio e a capacitação dos profissionais brasileiros. Defesa de observância de critérios técnicos para nomeação do futuro Ministro da Educação. Relevância do comprometimento do titular da Pasta com a execução do Plano Nacional de Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54376ef731cc3924ddd779ac7ec651b651e4512c85aece5945ec3c340509becb
+size 316

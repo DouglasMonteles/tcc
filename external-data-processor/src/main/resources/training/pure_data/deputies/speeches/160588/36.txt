@@ -1,1 +1,3 @@
-Questão de ordem sobre a suspensão da sessão para a avaliação de destaques pelo Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31740a70f65427c4182d2c834ed92def9b567bc5c1aa59b1fe42369e211edd3f
+size 95

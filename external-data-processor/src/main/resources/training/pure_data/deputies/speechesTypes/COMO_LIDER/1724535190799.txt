@@ -1,1 +1,3 @@
-Tópicos consubstanciadores da gestão desastrosa do Governo Jair Bolsonaro. Aprovação pela Casa de projetos de lei relativos à mineração.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5ca3605450760130e2adc235b105a0158be5d69e847501534ccf14cadb748e5
+size 143

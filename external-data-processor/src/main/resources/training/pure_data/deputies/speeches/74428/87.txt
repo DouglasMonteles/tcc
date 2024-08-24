@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM ao Substitutivo à   PEC 416  de 2005 (Acrescenta o art. 216-A à Constituição para instituir o Sistema Nacional de Cultura), em votação em primeiro turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46d9344d4674d236a0030578efac944356d7087a3965f48d88b6c7d1531924bd
+size 192

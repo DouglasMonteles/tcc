@@ -1,1 +1,3 @@
-Transferência para a Presidência da República, pelo Supremo Tribunal Federal, da decisão sobre o pedido de extradição, pela Itália, do ex-ativista italiano Cesare Battisti. Confiança na decisão do Presidente da República pela permanência do italiano no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e51971d31f234dc260df7d87a3dad6827f0a1152c3174aa027438db2ead91752
+size 271

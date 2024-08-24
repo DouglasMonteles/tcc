@@ -1,1 +1,3 @@
-Anúncio de apresentação pela Presidenta Dilma Rousseff do Plano Safra Brasil de 2013. Solicitação ao Governo Federal de construção de armazém para estoque de milho no Município de Luís Eduardo Magalhães, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f087a1ad250aa467b728944882cc41191e13b9c22deb2be84c71ffbc5a27288
+size 231

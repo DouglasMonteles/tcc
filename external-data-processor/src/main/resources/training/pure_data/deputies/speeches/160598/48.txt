@@ -1,1 +1,3 @@
-Congratulações aos Prefeitos Municipais do Estado de Goiás eleitos em 2012. Desempenho do PDT no pleito eleitoral. Transcurso do Dia do Professor. Defesa de cumprimento, por Governos Estaduais, do piso salarial nacional dos profissionais do magistério público da educação básica. Apoio à proposta de destinação de recursos provenientes de royalties de petróleo para a educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d30143043bdda6e1c3e1c4676b7170f7a254c8af245edc9fe3ec4b3484ad5fe
+size 391

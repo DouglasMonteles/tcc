@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do art. 26 e, por decorrência de mérito, do art. 27 da Medida Provisória nº 927, de 2020, a respeito das medidas trabalhistas de enfrentamento do estado de calamidade pública decorrente da pandemia de coronavírus (Decreto Legislativo nº 6, de 2020). Apelo ao Governador Ronaldo Caiado por aquisição dos equipamentos necessários para o funcionamento do hospital de campanha, instalado no Município de Águas Lindas de Goiás, na região do Entorno de Brasília.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30c1c158ad7379872dd8d6914810a86da1c7f5521141cd35b40a179d0fd8dfdb
+size 552

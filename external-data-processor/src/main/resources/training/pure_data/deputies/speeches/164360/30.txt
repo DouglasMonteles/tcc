@@ -1,1 +1,3 @@
-Carta das Mulheres Catarinenses, resultante do Seminário Estadual As Mulheres e a Reforma Política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c9a6fe8170d730d111228e2dc7278b2dfdeefca3142460314f923c8865df0bc
+size 101

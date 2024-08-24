@@ -1,1 +1,3 @@
-Congratulações aos fiéis da Igreja Evangélica Assembleia de Deus no Brasil, especialmente aos do Estado da Bahia, pelo transcurso do aniversário de fundação da instituição religiosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2927b053e8b8e3d8049ecf46db88cd8b6a6ebdce2d88b654e568520b452f006b
+size 191

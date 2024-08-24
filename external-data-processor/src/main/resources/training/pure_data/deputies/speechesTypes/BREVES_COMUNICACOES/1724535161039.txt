@@ -1,1 +1,3 @@
-Convite aos Deputados, especialmente do Estado do Rio Grande do Sul, para votação de requerimento para tramitação em regime de urgência de propositura sobre a redução do número de Deputados em Estados da Federação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85a216fc66334f8b87b8ccc2557b9bae5993cb6040754a5bcb7cf2dfcec287f1
+size 224

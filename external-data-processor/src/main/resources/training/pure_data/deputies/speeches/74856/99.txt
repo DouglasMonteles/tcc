@@ -1,1 +1,3 @@
-Pedido à Presidência de esclarecimento quanto à matéria em votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af477aa73c860433594e7efdd560439b350a251246e1c67a83423be2f6b3d958
+size 73

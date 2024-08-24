@@ -1,1 +1,3 @@
-Proposta de não realização da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8345288bb1484eb94eb012691ce4f29caad7f148bfcf4e02ac83bcddef88aa83
+size 46

@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre o teor do Projeto de Lei Complementar nº 11-A, de 2020, relativo à incidência do ICMS sobre combustíveis. Informação ao Deputado Glauber Braga sobre a impossibilidade de alteração da regra de composição dos rendimentos do presidente da PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04a14f181c2082da3b5508190d751b7ef8e8ba1934de147b2806ef2590537a03
+size 290

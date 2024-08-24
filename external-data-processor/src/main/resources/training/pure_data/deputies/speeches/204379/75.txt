@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Discriminação praticada contra as mulheres no mercado de trabalho. Maior participação feminina na política. Escalada da violência doméstica/familiar contra a mulher. Recorde alcançado pelo Brasil quanto ao número de feminicídios em 2022. Eliminação das desigualdades de gênero no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba2e3b0387ca1527f997186eef60766513242c8873c9552f94e0c9487b91f1d1
+size 342

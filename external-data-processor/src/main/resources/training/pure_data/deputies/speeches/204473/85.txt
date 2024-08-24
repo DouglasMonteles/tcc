@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Carlos Jordy a favor da soltura do Deputado Daniel Silveira. Perplexidade ante a anunciada investigação, pelo Tribunal Superior Eleitoral, de supostos atos antidemocráticos praticados pelo Presidente Jair Bolsonaro, durante as manifestações realizadas no País ao ensejo do transcurso do Dia da Independência do Brasil. Reforço das dotações orçamentárias do Programa Casa Verde e Amarela. Inconformismo com a não investigação, pela Polícia Federal, de denúncias de corrupção no âmbito do Governo do Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c08907270a91c58c8dc9bb8bfabf41eb0c0563bf14cf1334f4bc22c8c460104
+size 591

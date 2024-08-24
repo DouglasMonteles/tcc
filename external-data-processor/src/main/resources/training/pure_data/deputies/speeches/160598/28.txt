@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Turismo. Importância do setor turístico para a economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12375b6e9f25361516390b41d6cb8e8871606d2068497c41cf4f05da5c873bb4
+size 99

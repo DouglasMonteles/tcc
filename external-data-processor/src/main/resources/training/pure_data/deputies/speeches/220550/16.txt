@@ -1,1 +1,3 @@
-Incoerência da reclamação do Deputado Ivan Valente contra as taxas de juros praticadas pelo Banco Central do Brasil, tendo em vista às suas aplicações em fundo de renda fixa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f22ffad2703a524927784a71b8d4bfe4191376653094b8a32717efc89dfe837
+size 180

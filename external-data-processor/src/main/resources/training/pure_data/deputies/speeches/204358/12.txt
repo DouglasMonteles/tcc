@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido pela Relatora da Comissão de Seguridade Social e Família ao Projeto de Lei nº 1.494, de 2020, acerca da permissão do atendimento na modalidade telessaúde para fins fisioterapêuticos e terapêuticos ocupacionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:019a59e24d61d341081831c4c4d9f39691ce26b2cc2a2e8a2f98a73117f46ab1
+size 280

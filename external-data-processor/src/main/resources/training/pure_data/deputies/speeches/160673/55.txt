@@ -1,1 +1,3 @@
-Votação pela Casa de projeto de lei a respeito da organização e funcionamento de cooperativas de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cbf2e6eebaa49326726f6f9eb8233535a2250dd9a576e62adcdac5fb728006a
+size 110

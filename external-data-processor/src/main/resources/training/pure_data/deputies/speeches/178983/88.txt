@@ -1,1 +1,3 @@
-Transcurso do 80º aniversário de fundação do Município de Votuporanga, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0776dd5e446bae2ddeeab7655b1139ad55fe0056b9be3ed3f0c17f4226950f52
+size 97

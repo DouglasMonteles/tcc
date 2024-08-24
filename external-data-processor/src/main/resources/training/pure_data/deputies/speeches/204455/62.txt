@@ -1,1 +1,3 @@
-Expectativa de realização da ordem do dia. Contestação à declaração do ex-Presidente Luiz Inácio Lula da Silva sobre a falta de credibilidade dos investidores estrangeiros na política econômica adotada pelo Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f904d252f931591e5063f4c7cfb295d8c66ae0829ec402b00d414d422d513ff
+size 240

@@ -1,1 +1,3 @@
-Encaminhamento de indicação ao Ministério do Esporte para alocação de recursos ao Município de Vitória da Conquista, Estado da Bahia, para reforma de estádios de futebol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a88ea94dddd8ad985a20edfcbdcfc64817c70c092dca5da29f2733bce10495b1
+size 178

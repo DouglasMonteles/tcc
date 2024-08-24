@@ -1,1 +1,3 @@
-Congratulações ao Presidente Arthur Lira e ao Presidente do Senado Federal, Rodrigo Pacheco, pelo compromisso com a apresentação de soluções legislativas para os problemas do Brasil. Fracasso da gestão do Ministro da Economia, Paulo Guedes. Importância do denominado grupo político Centrão para a democracia brasileira. Posicionamento sobre a implantação do semipresidencialismo ou do parlamentarismo no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6f3a8210d8161960679bb160699279b4040cd60a43a81689cefd6cafecdb6fa
+size 422

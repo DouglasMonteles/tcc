@@ -1,1 +1,3 @@
-Apoio à criação de universidade pública na Zona Sul e na Zona Leste de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30d3ee3964f1954df5c897823680d02f709a96d87c245371184ec63d68d96e50
+size 108

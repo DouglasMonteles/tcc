@@ -1,1 +1,3 @@
-Contrariedade à aprovação do Projeto de Lei nº 2.630, de 2020, a respeito da instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ed4dac52316fa7e5b746cfb3ac2cebb3dd9eb39e702b95f5bcd405cce0ed6eb
+size 204

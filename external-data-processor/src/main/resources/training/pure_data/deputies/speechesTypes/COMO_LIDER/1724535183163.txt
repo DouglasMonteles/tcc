@@ -1,1 +1,3 @@
-Realização da I Conferência Nacional de Comunicação. Oportunidade de atualização do Conselho de Comunicação Social pelo Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cec447a78ab70475616b9ce66e831ea7b7f384e50a9f617dc07ba6b5763961e4
+size 148

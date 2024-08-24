@@ -1,1 +1,3 @@
-Apreensão do orador ante a reativação da União de Nações Sul-Americanas - UNASUL pelo governo petista. Posicionamento do Parlamentar contrário aos Decretos de nºs 11.466 e 11.467, de 2023, da Presidência da República, a respeito dos serviços públicos de saneamento básico. Apelo ao Presidente Arthur Lira de adoção de providências a respeito da usurpação, pelo Poder Executivo, da competência legiferante da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:946d117652af511e1920bcc7392c4cd6422db4db89c9bfcc6a83f0f9eaf3b4db
+size 449

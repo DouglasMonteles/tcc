@@ -1,1 +1,3 @@
-Agradecimento ao Governador do Estado de São Paulo, Tarcísio Gomes de Freitas, pela concessão de audiência à Delegada da Polícia Civil, Jacqueline Valadares, para debate da disparidade da proposta de reajuste salarial das forças de segurança pública. Sucateamento da Polícia Penal. Alerta ao gestor estadual a respeito de indicações políticas para assunção de cargos na Polícia Civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a01af20af0da86f46260a24753cd11b1e1accdb38b75c61713d0f892381ef12
+size 400

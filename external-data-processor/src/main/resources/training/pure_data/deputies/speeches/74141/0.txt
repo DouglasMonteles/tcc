@@ -1,1 +1,3 @@
-Posse da Desembargadora Daldice Maria Santana de Almeida no Tribunal Regional Federal da 3ª Região. Artigo Da cidade sem doutor para os tribunais, de Fausto Macedo, publicado pelo jornal O Estado de S. Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ecc153c829ad6b1a98e47886f8e803f0a0aff8a897b43b715ba1b76c23ddd53
+size 210

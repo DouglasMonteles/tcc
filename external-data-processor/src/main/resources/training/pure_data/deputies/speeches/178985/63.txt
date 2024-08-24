@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à Prefeita Nelita Cristina Michel Franceschini e comitiva, do Município de Iracemápolis, Estado de São Paulo, em visita à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b759857f8503cf0703e859b08e94cdbb83127a551814e935042632ff15e0d7e
+size 179

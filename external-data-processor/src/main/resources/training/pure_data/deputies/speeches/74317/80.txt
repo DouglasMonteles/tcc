@@ -1,1 +1,3 @@
-Indignação com os baixos investimentos realizados na área de pesquisa, especialmente na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa74ed6aa254790815690dafd8b75e13bc23bfc918c8376168771ac079e3591a
+size 108

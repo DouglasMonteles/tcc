@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Transportador Escolar. Apresentação do Projeto de Lei nº 1.059, de 2015, sobre autorização ao Poder Executivo para criação do Programa de Apoio ao Transporte Escolar Urbano, isenção de Imposto sobre Produtos Industrializados - IPI e criação de linha especial de financiamento para veículos de transporte escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dafd842431ed2aadd32973fc6bc098fba0d2db389770c3079841d35d57702c5a
+size 354

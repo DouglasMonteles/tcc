@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado do Estado do Rio de Janeiro pela assunção do mandato parlamentar. Relato da trajetória política e dos cargos de secretário municipal e estadual exercidos pelo orador. Aplausos ao Governador Cláudio Castro pela instituição do Programa RJPET, destinado à castração gratuita de cães e gatos. Apresentação do Projeto de Lei nº 8, de 2023, proibitivo da utilização de equinos como arma e transporte em operações policiais. Pedido de assinatura de abaixo-assinado em apoio à proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9435d6797168ae460ee16598d480b016169a0e3c50a1949d57d54d7cf0c3e07
+size 530

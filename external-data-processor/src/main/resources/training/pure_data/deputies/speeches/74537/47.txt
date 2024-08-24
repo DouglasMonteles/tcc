@@ -1,1 +1,3 @@
-Defesa da aprovação da Emenda Aglutinativa Global de Plenário  à PEC 333 de 2004 (Modifica a redação do art. 29-A e acrescenta art. 29-B à Constituição Federal para dispor sobre o limite de despesas e a composição das Câmaras de Vereadores e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:176178ebd57480f06e164941bd7c87e7167e68de558ba59965dbe8c01636ba47
+size 280

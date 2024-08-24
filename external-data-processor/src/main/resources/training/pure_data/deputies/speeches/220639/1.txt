@@ -1,1 +1,3 @@
-Transcurso do primeiro mês da tentativa de golpe de Estado articulada pelo ex-Presidente Jair Bolsonaro em conjunto com o ex-Ministro da Justiça e Segurança Pública, Anderson Torres, e o Governador do Distrito Federal, Ibaneis Rocha. Defesa de punição dos responsáveis pelo atentado à democracia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b63f7522b9e2f8740cfcc95ff0db50a3f979fecadf2e4fdb6947bdac07962a2
+size 315

@@ -1,1 +1,3 @@
-Defasagem da tabela de procedimentos do Sistema Único de Saúde - SUS. Encaminhamento de requerimento de indicação ao Ministério da Saúde para sua atualização.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d72f4966cd4c496cfc3bca6e3b7b9db481f3debc319a6b3ee3245cbb719f315
+size 166

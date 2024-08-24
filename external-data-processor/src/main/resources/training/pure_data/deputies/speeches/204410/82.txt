@@ -1,1 +1,3 @@
-Transcurso do 76º aniversário de criação da Sociedade Rural do Paraná. Regozijo com a realização da 44ª Festa Junina de Ibiporã, Estado do Paraná. Relevância dos trabalhos desenvolvidos pela Associação de Proteção à Maternidade, Infância e Família da municipalidade. Regozijo da oradora com a conclusão das obras da trincheira da linha férrea no Município de Rolândia. Previsão de recursos orçamentários para a resolução de conflito ferroviário no prolongamento da Avenida Vitório Messiano com a BR-369, no Município paranaense de Ibiporã.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d881c8438a8a65849d9b6fa70cc3536e9f6f64674816e9ea45df337bd0006826
+size 570

@@ -1,1 +1,3 @@
-Arquivamento, pelo Conselho de Ética e Decoro Parlamentar, do processo instaurado pelo PSOL e outros partidos contra o orador. Alerta sobre os reflexos na imunidade parlamentar advindos do pedido, por magistrado do Distrito Federal, de remoção de vídeos do orador veiculados na Internet. Pedido aos Parlamentares de recuo no discurso de cunho ideológico. Alerta sobre a institucionalização da censura no Brasil. Repúdio à perseguição praticada contra o orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afe897d03c28724f913592e091279d98c58fee6a48835bb6a6cc0b414cc53dc4
+size 471

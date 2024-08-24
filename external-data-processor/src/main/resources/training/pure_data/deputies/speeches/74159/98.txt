@@ -1,1 +1,3 @@
-Apoio ao Projeto de Lei nº 873, de 2020, sobre alteração da Lei nº 13.982, de 2020, com vista à mudança nas regras do auxílio emergencial; à vedação da suspensão de benefícios previdenciários e assistenciais concedidos aos idosos, às pessoas com deficiência ou com enfermidade grave, durante a pandemia da Covid-19. Entraves impostos pelo Presidente Jair Bolsonaro, para a implementação de medidas de combate ao coronavírus aprovadas pelo Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b99f5181d2ed624dc90ddfce36974849834c01d0cca4647f017b74c9697a4f6c
+size 476

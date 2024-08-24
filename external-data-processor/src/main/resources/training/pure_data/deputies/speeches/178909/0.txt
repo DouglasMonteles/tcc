@@ -1,1 +1,3 @@
-Congratulação ao Deputado Estadual Márcio Miranda pela reeleição como Presidente da Assembleia Legislativa do Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8978475b73ab7c16d3bea45b85bf524a2cbfe986771a6192968cb089246423ce
+size 131

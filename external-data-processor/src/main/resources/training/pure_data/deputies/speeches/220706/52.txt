@@ -1,1 +1,3 @@
-Inauguração do Memorial Ucraniano no Município de Cascavel, Estado do Paraná. Razões da invasão da Ucrânia pela Federação Russa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d51a7f7e1b7ff07fc83c756c601101696cea451c00f53c6cbdd706d0a2ff211c
+size 137

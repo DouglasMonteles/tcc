@@ -1,1 +1,3 @@
-Sessão solene em comemoração aos 30 anos do Tribunal Regional do Trabalho da 15º Região - Campinas/SP.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6c49cd8ae3d427dd71e424659f05fc8c4a83a735404ba56c9564ca3280ffb60
+size 256

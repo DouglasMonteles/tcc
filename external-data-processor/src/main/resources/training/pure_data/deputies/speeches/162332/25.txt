@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado do Paraná pela assunção do mandato parlamentar. Trajetória profissional e política do orador. Maior atenção das autoridades monetárias com os reflexos da crise financeira mundial sobre a economia nacional. Panorama da economia brasileira. Defesa de realização da reforma tributária. Necessidade de investimentos maciços nas áreas de educação e saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:775ecaaba1fd975f4c123e6f798d9b976ae5d0aaf4779894316918dc663dfeee
+size 404

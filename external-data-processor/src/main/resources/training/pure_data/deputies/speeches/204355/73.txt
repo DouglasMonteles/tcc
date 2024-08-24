@@ -1,1 +1,3 @@
-Danos materiais e humanos causados pelas chuvas no Estado do Espírito Santo. Liberação, pelo Governo Federal, de recursos financeiros para reconstrução de municipalidades espírito-santenses atingidas por enchentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62c17d417b8b7e8c4e2561de4b51fed708817370298412f5c2e0cb60e3932529
+size 220

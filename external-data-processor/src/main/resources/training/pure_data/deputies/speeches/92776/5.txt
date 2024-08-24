@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial dos Direitos do Consumidor. Marco histórico da criação do Código de Defesa do Consumidor. Importância da visita do Presidente dos Estados Unidos da América, Barack Obama, ao Brasil para o estreitamento das relações comerciais e dos laços diplomáticos entre os dois países. Expectativa de avanço nas relações entre o Brasil e os Estados Unidos da América no tocante à questão ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b963c910c41dbba727387fa69eb279edc907bb8e0e120618366bdf43c8452579
+size 428

@@ -1,1 +1,3 @@
-Realização de reunião do Conselho Político do PT. Convite para participação em assembleia geral do partido. Pedido aos Parlamentares de participação em reunião da Subcomissão da Educação destinada ao acompanhamento da implantação do piso salarial nacional dos profissionais do magistério público da educação básica. Protesto contra o bloqueio de acesso ao plano de saúde de professores da rede pública no Estado de Minas Gerais, por ocasião da greve. Situação da categoria no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afa1197b16171107ebd8f3ba3a5c590f218caf2a543ccbda6ec83a44ba72306c
+size 507

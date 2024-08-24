@@ -1,1 +1,3 @@
-Visita de membros da Comissão de Turismo e Desporto a Manaus, Estado do Amazonas, e a outras cidades-sede da Copa do Mundo de Futebol de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8150ebaf34f85b9aeaf6ceddee9efa885c455d9910e069aa086fcf7dfbf8431d
+size 143

@@ -1,1 +1,3 @@
-Contestação ao pronunciamento de Deputada sobre a rentabilidade dos investimentos na Venezuela promovidos durante os governos petistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25275282e4dec05eea2adf3a7387a6ec01a6273a7a5520214ca52dfd411d295b
+size 137

@@ -1,1 +1,3 @@
-Regozijo com a aprovação pela Casa do Projeto Ficha Limpa. Defesa da realização da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb01a6f9541b44e9ef1289c843f31155a01a264f86a1736de83f27613c5ec299
+size 105

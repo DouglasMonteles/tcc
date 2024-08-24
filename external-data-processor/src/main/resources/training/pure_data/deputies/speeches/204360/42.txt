@@ -1,1 +1,3 @@
-Emissão de parecer à Emenda de Plenário nº 1, apresentada ao Projeto de Lei nº 6.330, de 2019, relativo à alteração da Lei nº 9.656, de 1998, (Lei dos Planos de Saúde), para ampliação do acesso a tratamentos antineoplásicos domiciliares de uso oral, pelos usuários de planos de assistência à saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dd1397f29c04c34dd7d54d34fc4783b19352a5bcfa430286e609681f65ae474
+size 315

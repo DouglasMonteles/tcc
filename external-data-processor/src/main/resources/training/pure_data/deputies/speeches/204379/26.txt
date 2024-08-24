@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 3, apresentada à  Medida Provisória nº 919, de 2020, acerca da fixação do valor do salário mínimo em R$ 1.045,00 (mil e quarenta e cinco reais), a partir de 1º de fevereiro de 2020. Falecimento do Desembargador Eduardo Freire Contreras, do Tribunal de Justiça do Estado do Amapá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2bc6470a49609873d57f98f0e20c94f0bc5959ab7cae4781ab4ef030518bd37
+size 408

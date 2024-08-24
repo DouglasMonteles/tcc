@@ -1,1 +1,3 @@
-Reivindicação à Caixa Econômica Federal de abertura de agências nos Municípios de Salvaterra, na Ilha de Marajó e Castanhal,  Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1e4f3fc59125fbeed2e05e744f0d9ab05dc16f94f495857a7e09d2d3b6d3b3c
+size 149

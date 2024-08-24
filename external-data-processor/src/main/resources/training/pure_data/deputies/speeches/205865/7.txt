@@ -1,1 +1,3 @@
-Razões da apresentação pelo orador do Projeto de Lei nº 8.065, de 2014, sobre a pesquisa e a lavra de minérios de potássio e de fosfato. Necessidade de apreciação da matéria pela Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:102b336e8d1d370820c8edee43c49fb879f495ece95dc20e282efd994ab285b8
+size 193

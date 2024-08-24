@@ -1,1 +1,3 @@
-Importância de aprovação da Proposta de Emenda à Constituição nº 276, de 2013, acerca da convocação de Assembleia Nacional Constituinte Revisional exclusiva para a reforma política. Influência do poder econômico sobre campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2a743c2c60825a6685ac401b25b2d238cf9b6f18851d9480b0fd338f8ee1c5a
+size 251

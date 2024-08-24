@@ -1,1 +1,3 @@
-Associação da Presidência ao discurso proferido pelo Deputado Danilo Forte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18f8e592a7f542b3cbe6344d7cdad5b3fff0a858ae48692728c2d4dbd4bd8a3e
+size 78

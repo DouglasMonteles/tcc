@@ -1,1 +1,3 @@
-Defesa da aprovação da Emenda 4, destacada, ao Projeto de Lei de Conversão 12 da   Medida Provisória 605 de 2013 ( Altera a Lei 10.438,  de 2002, na parte em que cria a Conta de Desenvolvimento Energético e estabelece seus objetivos),  que determina a devolução aos consumidores finais de energia elétrica dos ganhos de escala decorrentes do aumento da demanda indevidamente absorvidos pelas concessionárias de distribuição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd02c5f9a4feeb023d3e40f07cbc5310bcf156d248fb4d69b7ab13ae7315b24d
+size 435

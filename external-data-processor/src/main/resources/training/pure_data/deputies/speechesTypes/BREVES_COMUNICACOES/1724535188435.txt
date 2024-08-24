@@ -1,1 +1,3 @@
-Denúncia de intolerância política praticada contra o Vereador José Luiz Corrêa pela Câmara Municipal de São Sebastião do Paraíso, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:141a603940f3cb6baa3c75b7718773bf2c3cda71c24d0893a6fe4d1d984fddb1
+size 162

@@ -1,1 +1,3 @@
-Orientação de bancada na votação, em primeiro turno, do art. 4º, e das alíneas a a f do inciso II, do art. 8º, com parecer contrário, constantes da Proposta de Emenda à Constituição nº 10, de 2020, referente ao estabelecimento do regime extraordinário fiscal, financeiro e de contratações para enfrentamento da calamidade pública nacional decorrente da pandemia de coronavírus, ressalvados os destaques. Anúncio da apresentação de emenda em benefício dos professores ao Projeto de Lei Complementar nº 39, de 2020, acerca de criação do Programa Federativo de Enfrentamento ao Coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b355db7789ab6e324d3f5ac870e313c04e11774cdbb6c7a529885c29e164c99
+size 612

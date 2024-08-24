@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Substitutivo oferecido pelo Relator da Comissão de Constituição e Justiça e de Cidadania ao Projeto de Lei nº 2.788, de 2019, sobre a instituição da Política Nacional de Direitos das Populações Atingidas por Barragens - PNAB; a discriminação dos direitos das Populações Atingidas por Barragens - PAB; o Programa de Direitos das Populações Atingidas por Barragens - PDPAB; o estabelecimento de regras de responsabilidade social do empreendedor e a revogação de dispositivos da Consolidação das Leis do Trabalho - CLT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32794e66f152dc02595ce70bbd426c4a9fe51f2347ae9193c196b049ca194d59
+size 576

@@ -1,1 +1,3 @@
-Decadência do Mercado Comum do Sul - MERCOSUL. Prejuízos causados ao Brasil pelo bloco econômico. Contestação a preconceitos difundidos contra a utilização de defensivos agrícolas, o agronegócio e os chamados ruralistas. Necessidades de investimentos do Governo Federal em tecnologias agropecuárias e extensão rural. Necessidade de superação pelo País do preconceito cultural contra os negros. Recusa dos indígenas de isolamento nas matas. Miscigenação do povo brasileiro. Críticas à elaboração pela Fundação Nacional do Índio - FUNAI de laudo antropológico para a demarcação de terras indígenas de forma unilateral. Imediata publicação pelo Ministério da Agricultura, Pecuária e Abastecimento da Regulamentação da Inspeção Industrial e Sanitária de Produtos de Origem Animal - RIISPOA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71a34af68bc6dae23dc4a904cde2579f0928de30b237ded61831f544f2bd7d62
+size 823

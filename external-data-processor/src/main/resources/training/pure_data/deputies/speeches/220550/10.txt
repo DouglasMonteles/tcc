@@ -1,1 +1,3 @@
-Contrariedade à decisão do Ministro do Trabalho e Emprego, Luiz Marinho, de regulamentação do aplicativo Uber (modalidade de transporte individual de passageiros).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef040c54a20d54ce1471fd05032fd5296083a562bf2a0bf0fdd6e981ca273fa3
+size 167

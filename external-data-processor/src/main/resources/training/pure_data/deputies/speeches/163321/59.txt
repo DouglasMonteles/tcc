@@ -1,1 +1,3 @@
-Transcurso do 130º aniversário de nascimento do ex-Presidente da República Getúlio Vargas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95ab25bdb02896387d98a66437b75364ef0420deef46f94a91a8549fe007eee3
+size 94

@@ -1,1 +1,3 @@
-Reforma da Escola Estadual Presidente Vargas, no Município de Dourados, Estado de Mato Grosso do Sul. Defesa de aprovação da Proposta de Emenda à Constituição nº 386, de 2009, sobre a exigência de diploma em jornalismo para o exercício da profissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26d3e513f242c58330e90f676a6f86271ae52fabe44f2b3009816fa88b6b90bb
+size 259

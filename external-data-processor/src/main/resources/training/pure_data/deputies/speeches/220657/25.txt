@@ -1,1 +1,3 @@
-Presença do Vereador Inspetor Alberto, de Fortaleza, e de lideranças políticas cearenses na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a86b6c058921f5e07dbe751eb67688126ecc572bd4d7c13b3215aceea7a1b92
+size 117

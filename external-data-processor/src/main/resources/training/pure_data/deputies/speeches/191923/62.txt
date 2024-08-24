@@ -1,1 +1,3 @@
-Vinculação entre a política econômica adotada por Paulo Guedes/Bolsonaro e o agravamento da fome, a falta de medicamentos, a elevação dos índices inflacionários e dos preços de combustíveis e a inexistência de política educacional no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9b5bda7e6f61a57ebc1de9a0fbe57d36375e5280832d7aafd3d04b2392b3ea2
+size 252

@@ -1,1 +1,3 @@
-Apelo à direção do Departamento Nacional de Infraestrutura de Transportes - DNIT, por recuperação da BR-319 no quilômetro 18, trecho seccionado pelas águas, em direção a Porto Velho, Estado de Rondônia. Expectativa quanto à privatização do sistema elétrico do Estado do Amazonas. Pedido à Agência Nacional de Energia Elétrica - ANEEL, de acompanhamento da interrupção no fornecimento de energia a Municípios amazonenses, especialmente em Apuí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a40783ec0af8ec9bb5dbd24a271eb67bfa1ed1e2494b95bc91cfce820cdc1d7
+size 464

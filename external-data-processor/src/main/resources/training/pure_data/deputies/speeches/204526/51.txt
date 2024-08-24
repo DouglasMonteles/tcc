@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do inciso VI, § 1º, art. 155, inserido pelo art. 1º do Substitutivo oferecido pelo Relator à Proposta de Emenda à Constituição nº 45, de 2019, sobre a reformulação do Sistema Tributário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a37c07067a55a82394e0921ec703efe8e0c031e807265201389c6495a5fedba1
+size 287

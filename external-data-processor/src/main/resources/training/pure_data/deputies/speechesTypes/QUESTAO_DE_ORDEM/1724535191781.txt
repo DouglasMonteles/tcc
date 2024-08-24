@@ -1,1 +1,3 @@
-Questão de ordem sobre a retirada dos Anais da Casa de discurso transfóbico proferido pelo Deputado Nikolas Ferreira. Encaminhamento, ao Conselho de Ética e Decoro Parlamentar, de pedido de cassação do mandato do Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4f03682938987e3459a9e3095966031be85e300057418e4c712e0cb7619af4f
+size 230

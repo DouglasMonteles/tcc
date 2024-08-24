@@ -1,1 +1,3 @@
-Natureza utópica da tentativa de grupo político de extinção da Operação Lava-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cdb991bc0a99e7e418006b3b73a22767163f6ec3a891f5c908ebbe7e1e3258a
+size 88

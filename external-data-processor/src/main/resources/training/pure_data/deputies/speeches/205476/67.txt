@@ -1,1 +1,3 @@
-Reportagem da TV Globo  sobre o grupo de dança Quilombo dos Anjos, coordenado por Carlúcia Alves Ferreira, na Fazenda Olho D'água, no Município de Candiba, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f4ff23f77e4b2cd2cad3ed014a787de025babcf0877c7cedceb00aebdf8a6e7
+size 176

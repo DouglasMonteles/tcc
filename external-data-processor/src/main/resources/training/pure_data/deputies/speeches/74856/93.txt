@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de apoio ao Projeto de Lei nº 7.651, de 2014, sobre proibição de toda forma de discriminação aos portadores de hepatites virais, em especial os portadores de hepatite C.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d78560f2499203e15d3467e47e4e3937c57d80a5975e02d10685e4eecb9caf6c
+size 199

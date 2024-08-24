@@ -1,1 +1,3 @@
-Anúncio da apresentação de substitutivo à Comissão Especial destinada ao exame do projeto de lei sobre a criação do piso salarial nacional dos agentes comunitários de saúde e dos agentes de combate às endemias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83e6f4e64addb8a46fa2355c3f47328ef1f4a85bc2cae9e2e2e563290db06468
+size 220

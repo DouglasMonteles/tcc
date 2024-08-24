@@ -1,1 +1,3 @@
-Retificação de voto à Emenda Aglutinativa Substitutiva Global de Plenário ao Substitutivo à PEC 495 de 2006 (Acrescenta artigo ao Ato das Disposições Constitucionais Transitórias, sobre a formação de novos municípios até o ano de 2000), em apreciação em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3b0da8723e730471d21f85020eb4c5b5750e8616deb8bbaa944074f30653e02
+size 282

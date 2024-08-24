@@ -1,1 +1,3 @@
-Posicionamento contrário do PDT    ao Recurso 395 de 2010 contra o indeferimento liminar da Emenda 12  à Medida Provisória 474 de 2009 (Dispõe sobre o salário mínimo a partir de 1º de janeiro de 2010 e estabelece diretrizes para a política de valorização do salário mínimo entre 2011 e 2023), que assegura a todos os benefícios previdenciários mantidos pela Previdência Social o mesmo reajuste e a mesma política de valorização do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce46afa363050c2eb3686972e2b61688f1c1584ff4a193039fcc9b989cbac8e5
+size 466

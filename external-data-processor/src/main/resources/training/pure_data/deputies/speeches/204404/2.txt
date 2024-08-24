@@ -1,1 +1,3 @@
-Incoerência do discurso do PT contrário à abertura do setor aéreo ao capital estrangeiro. Repúdio à política quanto pior, melhor  adotada pela Oposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24069bbbb94275c238777ac55d0019c2845771d855af7c806ab78f31c45e53c5
+size 161

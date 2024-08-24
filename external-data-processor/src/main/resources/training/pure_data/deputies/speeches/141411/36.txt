@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT  ao parecer pela admissibilidade da Medida Provisória 473 de 2009 (Abre crédito extraordinário em favor dos  Ministérios da Agricultura, Pecuária e Abastecimento, da Educação, da Saúde, dos Transportes e da Integração Nacional, para os fins que especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1419f7669ae6aa6805c8dd7dfa914057230e3da120615cd16f182b054df58bc
+size 300

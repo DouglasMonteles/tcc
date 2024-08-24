@@ -1,1 +1,3 @@
-Implantação de curso de Medicina na Universidade Federal de São João Del Rei, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d31f87e3cffd834aac1cfb93c45c3c35fd3a56ea10525ec801e4a6fd27be819b
+size 105

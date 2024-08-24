@@ -1,1 +1,3 @@
-Participação em audiência com o Ministro da Saúde, Arthur Chioro, para adoção de medidas de combate à dengue no Estado de São Paulo. Transcurso do Dia Internacional da Mulher, em 8 de março.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f32c19cfb56c829203506df5fdf906ba8b55458089d057679de76b43fa5a165d
+size 199

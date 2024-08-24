@@ -1,1 +1,3 @@
-Congratulações ao povo brasileiro e aos participantes de movimentos sociais pelas manifestações nas ruas contrárias à proposta do Governo Federal de reforma previdenciária. Contrariedade à proposição, ante os prejuízos para os trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9be93c77796bdff3c7784328ba5d78741a0840875da8ecebaf1e65dafd6d3356
+size 252

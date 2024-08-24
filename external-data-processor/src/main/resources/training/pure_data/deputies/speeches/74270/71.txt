@@ -1,1 +1,3 @@
-Leitura de Ato da Presidência sobre criação de Comissão Especial destinada ao exame da Proposta de Emenda à Constituição nº 2-A, de 2015, que altera o art. 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e19e910eb043a823d0c5451c8e4d608740f33416357e82251b84df69384e5aed
+size 280

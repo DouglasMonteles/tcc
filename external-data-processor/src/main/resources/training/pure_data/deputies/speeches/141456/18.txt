@@ -1,1 +1,3 @@
-Retomada do crescimento econômico brasileiro. Encaminhamento à Casa, pelo Poder Executivo, de projetos de lei sobre o estabelecimento do marco regulatório da exploração de petróleo na camada pré-sal. Celebração de acordo entre o Governo brasileiro e o governo francês para fornecimento ao País de aeronaves de combate e submarinos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:092b13d2ec2e755f7c0797043e5502c2c784e9fbd5c3f15f87e3c1e36eeda26d
+size 342

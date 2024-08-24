@@ -1,1 +1,3 @@
-Expectativa de redução das taxas de juros pelo futuro Governo Dilma Rousseff. Importância de realização da reforma tributária para o desenvolvimento econômico brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4b0024bee72951b9afd3745ae41211f2eb11b734b96f97e5210c3d01ba57600
+size 177

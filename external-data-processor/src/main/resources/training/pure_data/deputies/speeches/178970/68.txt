@@ -1,1 +1,3 @@
-Participação do orador no Seminário Rádios comunitárias e comunicação eletrônica no Estado de Sergipe, realizado pela Comissão de Ciência e Tecnologia, Comunicação e Informática na Assembleia Legislativa do Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dc75001054180123a100cb95e2b228d2d9a82951a44da889ea08ce720700fb6
+size 238

@@ -1,1 +1,3 @@
-Revisão do Sistema Financeiro Imobiliário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c861669547422db1a0486209f9f969ac0cd41ad7c67acb5f14278f9e6549366
+size 44

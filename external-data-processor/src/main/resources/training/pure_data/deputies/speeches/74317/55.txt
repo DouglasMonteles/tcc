@@ -1,1 +1,3 @@
-Apresentação de emendas aos projetos de lei relativos ao pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdb067eb6ee8e05eb6a80288387e70bd44c1cff8f936a78c1e6bcaf16fe26540
+size 68

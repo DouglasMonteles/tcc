@@ -1,1 +1,3 @@
-Alteração da legislação do Estado do Rio Grande do Sul referente à prevenção de incêndios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3b2334937ace9adadd999ac7f0ff429f0f3379d39e3e0c9b37105335e6046ad
+size 98

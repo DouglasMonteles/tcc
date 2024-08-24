@@ -1,1 +1,3 @@
-Importância das ações adotadas pelo Governo Federal em defesa do comércio, da indústria, das pequenas e microempresas e dos trabalhadores informais diante da crise gerada pela Covid-19. Edição de medida provisória sobre a isenção do pagamento de tarifas de energia elétrica pelo período de três meses. Destinação de recursos do Fundo Especial de Financiamento de Campanha para as ações de combate ao coronavírus. Clamor popular pela aprovação do projeto de lei proibitivo da concessão de liberdade provisória à massa carcerária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4eb1cb0a0c025d8e5c5a91f6efb99ac70ea27e5f89e40e48e876b852ac0ac50
+size 552

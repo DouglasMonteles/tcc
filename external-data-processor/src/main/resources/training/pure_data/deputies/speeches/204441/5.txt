@@ -1,1 +1,3 @@
-Reunião da Frente Parlamentar Evangélica com o Presidente do Supremo Tribunal Federal, Ministro Dias Toffoli, para discussão da Ação Direta de Inconstitucionalidade por Omissão nº 29, a respeito da criminalização da homofobia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f91abd02b7093c8515bb41f61e61519eb6ebb03a3d9e651c4ecbff52538cee05
+size 235

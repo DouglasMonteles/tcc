@@ -1,1 +1,3 @@
-Eleição do engenheiro agrônomo José Graziano da Silva para o cargo de Diretor-Geral da Organização das Nações Unidas para Agricultura e Alimentação - FAO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de3aaab250865f50eec4bf8b8c00c4f503aa3fa52c3074a2a1d71ffc5545f0e8
+size 164

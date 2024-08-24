@@ -1,1 +1,3 @@
-Defesa de avanço nos debates da proposta de autonomia dos partidos políticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a9c16b0df38943de8bbea2a442e955a340bee0e9880d0bcc60c185d6d7fe8e0
+size 79

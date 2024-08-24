@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 125, apresentada ao Projeto de Lei nº 2.337, de 2021, sobre a alteração da legislação do Imposto sobre a Renda e Proventos de Qualquer Natureza de Pessoas Físicas e de Pessoas Jurídicas, e da Contribuição Social sobre o Lucro Líquido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da3423aa8e4469beb44390aa85f658cb8034297f079fa88dcd8d7b7e97ff4151
+size 363

@@ -1,1 +1,3 @@
-Divulgação do relatório Justiça em Números  pelo Conselho Nacional de Justiça. Defesa de cumprimento, pelos membros do Poder Judiciário, do teto salarial do funcionalismo público. Protesto contra a construção de novas instalações do Tribunal de Justiça do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7282ea6bd4650af68fd063418128b38fc12db0d32ab07c2072636f859862764
+size 290

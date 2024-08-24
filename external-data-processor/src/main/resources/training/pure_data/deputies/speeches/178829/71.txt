@@ -1,1 +1,3 @@
-Relato de assalto a instituição bancária na cidade de São Paulo. Repúdio a reportagem de caráter irônico sobre o fato, de autoria do jornalista Rodrigo Bocardi, da TV Globo. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bb66562114ab9624f51c2c10892a604db5ebf542ad2b63372017e687ae9f64a
+size 216

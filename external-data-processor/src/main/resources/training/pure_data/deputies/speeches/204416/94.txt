@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Proposta de Emenda à Constituição nº 391, de 2017, acerca do disciplinamento da distribuição, pela União, de recursos ao Fundo de Participação dos Municípios - FPM, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b183054127ed88d9d3a2a38d7c379a4091366b00b18d87fd1536e196ec06d758
+size 240

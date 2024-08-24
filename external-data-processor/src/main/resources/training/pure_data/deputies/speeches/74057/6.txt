@@ -1,1 +1,3 @@
-Promoção de conferências preparatórias, pelo Governo da Bahia, para a Conferência Nacional de Juventude, no mês de abril, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b79918195af55797e84e1f03b2149bcff62329678cd7f38a3eabb0ef7c7e8a5a
+size 159

@@ -1,1 +1,3 @@
-Preocupação com a recessão no País e as proposições em tramitação na Casa sobre aumento de impostos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:071a807ed876534dcbf5cd67f7d711cb3a0963ec1e30104b4cbaf3b492741dd3
+size 108

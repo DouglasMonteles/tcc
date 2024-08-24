@@ -1,1 +1,3 @@
-Encaminhamento de votação do requerimento de destaque para votação em separado do § 3º, do art. 239, constante do art. 1º da redação para o 2º turno aprovada pela Comissão Especial da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária, com vista à sua supressão. Anúncio da realização de mobilização popular contra o Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:750a4fd5d9d131ad018ccfd9a86543070ff5a33652bb836ae1aa0bfd4a4888c6
+size 392

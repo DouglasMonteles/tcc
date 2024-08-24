@@ -1,1 +1,3 @@
-Avanço da aprovação do Projeto de Lei nº 1.998, de 2020, sobre a regulamentação da prática de telemedicina no País. Elogio aos Deputados Adriana Ventura e Pedro Vilela. Apresentação dos Requerimentos de nºs 610 e 611, de 2022, de apreciação em regime de urgência dos Projetos de Lei de nºs 3.931 e 3.930, de 2021, acerca da instituição do Outubrinho Rosa  e do Novembrinho Azul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe44bcd7553a580a6c4495eb5849d3086830cbf217a0f822353905cc683c29fd
+size 395

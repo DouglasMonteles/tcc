@@ -1,1 +1,3 @@
-Contrariedade à declaração, pelo Supremo Tribunal Federal, da inconstitucionalidade de lei sobre a proibição do uso de linguagem neutra nas escolas. Apoio ao Projeto de Lei nº 5.198, de 2020, sobre a vedação expressa da utilização, em currículos escolares e editais, por instituições de ensino e bancas examinadoras de seleções e concursos públicos, de novas formas de flexão de gênero e de número das palavras da língua portuguesa, em contrariedade às regras gramaticais consolidadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d719664a3bfc12485b55263db6430e84c26599d4dac2f16348f78afa4defe039
+size 506

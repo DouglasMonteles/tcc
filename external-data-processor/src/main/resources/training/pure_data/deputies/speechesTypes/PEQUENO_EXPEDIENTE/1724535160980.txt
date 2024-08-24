@@ -1,1 +1,3 @@
-Presença do orador no Acampamento Terra Livre 2019, evento realizado pelos povos indígenas na Esplanada dos Ministérios, Distrito Federal. Temor dos participantes no evento com eventual repressão da Força Nacional de Segurança Pública. Apoio às reivindicações dos povos indígenas brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7779fe6748714dcaf66b0566c187713ee6add3c0f428d928bd5822469d4c102a
+size 303

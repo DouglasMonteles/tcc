@@ -1,1 +1,3 @@
-Transcurso do 32º aniversário de criação  de Mato Grosso do Sul. Desenvolvimento econômico do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6b1b71deaa0e77e9bbb79d65207741110e8604170113daf8a546577a30fbeb5
+size 106

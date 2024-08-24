@@ -1,1 +1,3 @@
-Solidariedade ao movimento grevista de professores da rede pública de ensino do Estado de São Paulo. Repúdio à fata de diálogo do Governador Geraldo Alckmin com a categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4dd4ab6775c55afbfc65ff154be95e716e5f7226add8f6de6069adcba9de3d4
+size 178

@@ -1,1 +1,3 @@
-Presença na Casa de autoridades estaduais e municipais do Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb65e3ec5e482b345b290d2f7c3ec350553355c929bff2b4de20b540402971e9
+size 79

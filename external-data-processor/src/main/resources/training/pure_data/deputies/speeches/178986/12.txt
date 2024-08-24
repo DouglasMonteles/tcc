@@ -1,1 +1,3 @@
-Participação do orador na solenidade de formação de Agentes Socioambientais de Educação Ambiental na Agricultura Familiar, destinado à população rural jovem de comunidades tradicionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:005a03c721b51e606ce2b24bf495b3777bc6f72f5c4540c29b0eea88d4cabb66
+size 194

@@ -1,1 +1,3 @@
-Transcurso do 30º aniversário de criação do Pólo Petroquímico de Camaçari, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b88e4fe4fb6c98cd06a25944cfbd002117b77318e1ae9cc49be544d45532f513
+size 98

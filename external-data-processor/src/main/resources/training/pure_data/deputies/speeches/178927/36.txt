@@ -1,1 +1,3 @@
-Visita do orador ao Ministério dos Transportes para solicitação de revisão de resolução sobre a obrigatoriedade do uso de cadeirinhas em transporte escolar. Agradecimento ao Desembargador do Tribunal Regional Eleitoral do Estado do Paraná  Jucimar Novochadlo pela prorrogação do prazo para cadastramento biométrico no Município de Ponta Grossa, Estado do Paraná. Apoio do PCdoB a proposta de emenda à Constituição de interesse de funcionários da Advocacia-Geral da União - AGU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d8bd1ad88ecb8ad6679eece6e25427fbac5e0885c30b307cd523556f4261768
+size 494

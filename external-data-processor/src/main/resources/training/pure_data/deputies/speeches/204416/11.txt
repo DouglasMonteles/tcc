@@ -1,1 +1,3 @@
-Saudação ao Deputado Santini. Participação do orador em grupo de trabalho da Comissão de Constituição e Justiça e de Cidadania, destinado à discussão da alteração da Lei nº 8.666, de 1993, a chamada Lei de Licitações. Alto custo dos combustíveis no Brasil, especialmente no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6084807b87f96bb6a86c02c71a9142653249c59bef297139ac88d5bb1bd2f2aa
+size 318

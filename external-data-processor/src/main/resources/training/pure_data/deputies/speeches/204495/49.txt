@@ -1,1 +1,3 @@
-Exigência, pelos partidos oposicionistas, de investigação de diálogos mantidos entre o então Juiz Federal, Sérgio Moro, e o Procurador da República, Deltan Dallagnol, no âmbito da Operação Lava-Jato. Apoio ao posicionamento da Ordem dos Advogados do Brasil - OAB, favorável ao imediato afastamento do Ministro da Justiça e Segurança Pública, Sérgio Moro, e do Procurador da República, Deltan Dallagnol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:100a38303c55b6f3b68ac8e9f45193c236656c8c96b9a977aca800f7fd75c397
+size 418

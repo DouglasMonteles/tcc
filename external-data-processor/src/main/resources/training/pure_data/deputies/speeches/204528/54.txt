@@ -1,1 +1,3 @@
-Pedido ao Presidente do Senado Federal, Senador Davi Alcolumbre, de reinstalação da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, e de votação do Projeto de Lei nº 1.485, de 2020, sobre a alteração do Decreto-Lei nº 2.848, de 1940 (Código Penal), com vista à duplicação de penas impostas aos crimes praticados contra a administração pública em situações de calamidade. Posicionamento da oradora contrário à reeleição do Presidente Davi Alcolumbre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06cdcdd150d26eeed3764baa43ba5d373a18da1c7c202a02bb9f2e907a0a8e76
+size 489

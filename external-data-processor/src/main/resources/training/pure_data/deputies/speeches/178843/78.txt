@@ -1,1 +1,3 @@
-Imediata votação pela Casa do Projeto de Lei nº 2.564, de 2020, acerca da instituição do piso salarial nacional dos profissionais da enfermagem e da parteira, bem como da Proposta de Emenda à Constituição nº 22, de 2011, acerca da responsabilidade financeira da União, corresponsável pelo Sistema Único de Saúde - SUS, na política remuneratória e valorização dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias. Descumprimento, pela maioria dos gestores municipais, das leis federais relativas ao reajuste salarial de agentes comunitários de saúde e professores. Imediato pagamento, aos docentes brasileiros, de precatórios relativos ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:525e5f2a6c3577c8407402b6918f44cfa0f9ad452243b0f174820df5ac9db658
+size 801

@@ -1,1 +1,3 @@
-A Deputada comemora a validação de sua indicação para a AAPIMI, Associação dos Aposentados, Pensionistas e Idosos de Içara, no Prêmio Zilda Arns 2023, reconhecendo o trabalho essencial dessa instituição em prol da pessoa idosa em sua cidade natal. Destaca a importância de apoiar e valorizar aqueles que se dedicam aos idosos e enfatiza a necessidade de aprovar um projeto que estenda a validade do cartão preferencial de estacionamento para a pessoa idosa.&nbsp;Também parabeniza o senhor Severiano Antonio Valentim, presidente da Associação de Aposentados e Idosos de Içara, bem como a toda a equipe de colaboradoras e colaboradores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:436555173ae16f423fe7c671c0a5cedf500b284a8cd07e891f683c207a884cbc
+size 651

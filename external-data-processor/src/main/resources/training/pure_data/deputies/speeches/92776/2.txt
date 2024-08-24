@@ -1,1 +1,3 @@
-Apoio às ações destinadas a proteção, qualificação e inclusão social das pessoas com deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d02ec7f8f890b210dd1d798faf2b0919b59c7522c26a5966dfa80288249b8a93
+size 106

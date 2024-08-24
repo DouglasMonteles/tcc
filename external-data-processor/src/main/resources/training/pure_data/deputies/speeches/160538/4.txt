@@ -1,1 +1,3 @@
-Transcurso do 50º aniversário de criação do Movimento da Legalidade, iniciativa coordenada pelo ex-Governador Leonel de Moura Brizola, no Estado do Rio Grande do Sul, a favor da posse do Sr. João Goulart na Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4daa2b6bb98c54b64410d458e2787486d9c7b7d96c4b49334cbfbc0e66bfc791
+size 239

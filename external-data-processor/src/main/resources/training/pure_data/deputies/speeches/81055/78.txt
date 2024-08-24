@@ -1,1 +1,3 @@
-Comemoração do Dia Nacional do Rádio pela Comissão de Ciência e Tecnologia, Comunicação e Informática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3cfe4a1721a4e7c13442d2208b95ce67e030679445946903468e3bd10babb1b
+size 110

@@ -1,1 +1,3 @@
-Conveniência de esclarecimento às categorias de policiais e bombeiros militares sobre o teor do texto da Proposta de Emenda à Constituição nº 300, de 2008, aprovado pela Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23f92039ed99f71851cd25fef4a6fd216084fa06640320e8090337197d54ab3c
+size 181

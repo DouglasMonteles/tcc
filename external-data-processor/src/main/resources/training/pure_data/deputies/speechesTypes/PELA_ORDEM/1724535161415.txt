@@ -1,1 +1,3 @@
-Falta de condições morais do PT para manifestação a respeito de cheque nominal destinado à Primeira-Dama do País, Michelle Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e57968f4930a9fcaff553860f69fd44d9f7084c6f18f0a092f81364f2aabe7ee
+size 139

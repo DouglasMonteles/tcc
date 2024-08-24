@@ -1,1 +1,3 @@
-Acompanhamento pela oradora do julgamento, pelo Supremo Tribunal Federal, de ações diretas de inconstitucionalidade da reforma previdenciária. Apresentação do Projeto de Lei Complementar nº 21, de 2023, sobre a alteração da Lei Complementar nº 173, de 2020, com vista à contagem do tempo de período aquisitivo de anuênios, triênios, quinquênios, sexta-parte, licença-prêmio e demais mecanismos equivalentes, durante o período de enfrentamento da Covid-19. Determinação ao ex-Presidente Jair Bolsonaro, pelo Tribunal de Contas da União - TCU, de devolução de armas e joias oriundas da Arábia Saudita.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ef2b233c1389279cef62ad9de08189f0e96640a0e098674bec87d6c3aab08c3
+size 622

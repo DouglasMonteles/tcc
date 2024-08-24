@@ -1,1 +1,3 @@
-Início das obras para instalação de extensão do Instituto Federal do Paraná no Município de Cascavel, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:872f7e6d501e9fb9514293ce6fd5fc90210532494a6cae63951db026358c7009
+size 126

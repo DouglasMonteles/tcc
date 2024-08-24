@@ -1,1 +1,3 @@
-Falecimento do Desembargador Affimar Cabo Verde, do Tribunal de Justiça do Estado do Amazonas. Realização do 12° Festival de Cirandas do Município de Manacapuru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09515eacc56b1d7fc2aac20f748ed0ba561f3ef9993f31dda2ac934c5ee13ee4
+size 166

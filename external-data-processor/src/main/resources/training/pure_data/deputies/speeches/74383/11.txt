@@ -1,1 +1,3 @@
-Contestação a discurso do Deputado Raul Jungmann sobre a presença de rede de apoio a grupos criminosos internacionais no Município de Foz do Iguaçu, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:693fb25de9165f925c9de5206f57c9ea2ed22e0e0f7274fb7ba420a20ea0ac54
+size 172

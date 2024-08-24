@@ -1,1 +1,3 @@
-A Deputada reclamou da qualidade dos serviços prestados pelas companhias aéreas para a população da Região Norte, especialmente para o povo de Rondônia. Ademais, censurou os elevados preços das passagens e as poucas opções de voos oferecidos pelas empresas de transporte aéreo, beneficiárias de incentivos públicos. Por fim, agradeceu a empresa Latam pela retomada de voos para Rondônia e criticou o desrespeito da Azul, responsável pelos voos regionais no interior do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c4049286dbc29a0f4ce30a6c2db0061a3b820cc66234cf4fc7efd289c5ee716
+size 490

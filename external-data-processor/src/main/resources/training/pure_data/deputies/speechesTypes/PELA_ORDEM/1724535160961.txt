@@ -1,1 +1,3 @@
-Indignação com o cancelamento de sessão do Congresso Nacional por falta de quórum.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4308418ffa92357cbe2c3b5b2f3c234e419ad8ca1aeeeefb8b7409887164f3e0
+size 86

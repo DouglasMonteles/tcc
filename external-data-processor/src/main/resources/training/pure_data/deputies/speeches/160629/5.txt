@@ -1,1 +1,3 @@
-Retomada das obras do Centro de Convenções, em João Pessoa, Estado da Paraíba. Empenho na construção de aeroporto de porte internacional na capital paraibana. Desenvolvimento do turismo no interior da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f48127fcf6693d8a5a3a0f8920567c1b35edec89bb5bcb59539b0d3ca02ebffd
+size 216

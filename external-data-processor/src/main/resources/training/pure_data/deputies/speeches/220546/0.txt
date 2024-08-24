@@ -1,1 +1,3 @@
-Protesto contra a invasão, pela Frente Nacional de Luta Campo e Cidade - FNL, de fazendas produtivas nos Estados de São Paulo e Mato Grosso do Sul. Repúdio às acusações de Deputado contra proprietários rurais sul-mato-grossenses, notadamente nos Municípios de Mundo Novo e Japorã.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4543719d0d1f0b0e2e8d58df8ca826a93b3a5ca217cd3a457d567a278784489
+size 289

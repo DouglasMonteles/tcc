@@ -1,1 +1,3 @@
-O Deputado proferiu parecer ao Projeto de Lei nº 3.626, de 2023, que dispõe sobre a modalidade lotérica denominada apostas de quota fixa; altera as Leis nºs 5.768, de 20 de dezembro de 1971, e 13.756, de 12 de dezembro de 2018, e a Medida Provisória nº 2.158-35, de 24 de agosto de 2001; revoga dispositivos do Decreto-Lei nº 204, de 27 de fevereiro de 1967; e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17c1f72c2d619f30c0b03d71974059d67736600f8111ec0468ce638d9c79eec2
+size 393

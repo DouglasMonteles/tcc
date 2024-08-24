@@ -1,1 +1,3 @@
-Realização da 11ª Marcha a Brasília em Defesa dos Municípios. Prejuízos causados pelas chuvas a Municípios do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56af0d54f7c410abf2f185e62708e297d4770b22c01eab63a93c8e903375b18d
+size 137

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional das Pessoas com Deficiência. Apoio à proposta de criação da Secretaria Nacional dos Portadores de Deficiência, defendida por delegados da 2ª Conferência Nacional dos Direitos da Pessoa com Deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67e56d66b5a77121a539f73187ab5064c175aac214b72be791eb6656917a80aa
+size 241

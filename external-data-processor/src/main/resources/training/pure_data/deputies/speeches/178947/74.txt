@@ -1,1 +1,3 @@
-Presença, na Câmara dos Deputados, do Pastor Anderson do Carmo e da Pastora Flordelis, pré-candidata à Prefeitura do Município de São Gonçalo, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7aec3ab0a626f9e8457b5f4de074b1233e1dfc156305eab210d5894f6d6a22da
+size 175

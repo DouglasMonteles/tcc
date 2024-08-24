@@ -1,1 +1,3 @@
-Importância do estudo Zona Franca de Manaus: Impactos, Efetividade e Oportunidade, realizado pela Fundação Getúlio Vargas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cb7469bc56f9eed16328048c4b392c76e95dad8a59549396c9c077628647685
+size 126

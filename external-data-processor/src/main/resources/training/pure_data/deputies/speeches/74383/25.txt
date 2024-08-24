@@ -1,1 +1,3 @@
-Protesto contra a prorrogação da cobrança de pedágio rodoviário no Anel de Integração do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6ecee83eb3a71d0cc7e0b33d60cd6eca0e996ff7edec67b9e54ba180eb7ecd5
+size 114

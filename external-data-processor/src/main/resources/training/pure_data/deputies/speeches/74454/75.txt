@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Desigualdade salarial entre homens e mulheres. Necrológio da médica pediatra e sanitarista Zilda Arns Neumann.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eebb360891fe33421ecd7b1ddca8f46429e32eb1582ea06d4435323ce4bc3c12
+size 155

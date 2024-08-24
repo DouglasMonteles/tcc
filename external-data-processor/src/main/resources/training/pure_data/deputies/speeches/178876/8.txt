@@ -1,1 +1,3 @@
-Falhas do Programa mais Médicos do Governo Federal apontadas em auditoria do Tribunal de Contas da União. Defesa da valorização e do estímulo aos profissionais médicos brasileiros pelo Governo Federal para o desenvolvimento de atividades nas regiões carentes do País. Críticas à priorização de médicos cubanos pelo Governo Federal em detrimento dos profissionais brasileiros. Defesa da conclusão de obras de infraestrutura no Estado de Goiás pelo Governo Federal. Necessidade de aprimoramento das áreas de transporte, saúde e segurança em prol dos habitantes da Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd1a86582f3335c475dec8b9615b611ebfbae6fadd63ab9af42c29da09775efd
+size 654

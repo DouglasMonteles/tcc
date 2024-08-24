@@ -1,1 +1,3 @@
-O Deputado contestou fake news que estão circulando no País acerca de importações que afetam o mercado interno, como no caso da tilápia e do leite. Ele garantiu que o Governo Federal já está adotando medidas para estimular a indústria leiteira nacional e defendeu a adoção de políticas que garantam a procedência e a identificação do leite importado. Defendeu a criação de uma política nacional do leite, salientando que é um produto crucial para gerar empregos e combater a fome, sugerindo a implementação de um programa de fornecimento de leite nas escolas. Também mencionou um exemplo bem-sucedido em Arapongas, onde um assentamento da reforma agrária processa leite e seus derivados, beneficiando pequenos agricultores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7de6b47a0811ab3b296996bfbae3cdda7e0cdc8386b008b9579c9878a7cf02e
+size 745

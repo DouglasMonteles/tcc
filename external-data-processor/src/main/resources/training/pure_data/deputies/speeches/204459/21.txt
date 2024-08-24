@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Resolução nº 31, de 2022, sobre alteração do Capítulo II-B do Título II do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989, para transformação da Secretaria da Juventude na Secretaria da Primeira Infância, Adolescência e Juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5804f6a223ff0622113a898f28e9c470650c2521a70ea3d5a3586da26f213194
+size 314

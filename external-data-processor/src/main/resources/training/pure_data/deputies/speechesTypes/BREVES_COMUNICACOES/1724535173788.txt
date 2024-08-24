@@ -1,1 +1,3 @@
-Posicionamento do PR favorável à votação da proposta relativa ao risco hidrológico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed686c43d79cb01ff9caf824afa0e44ce34cb6ffc1469804d77b99b6ade532df
+size 88

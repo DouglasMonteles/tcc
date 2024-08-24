@@ -1,1 +1,3 @@
-Reconstrução de políticas públicas pelo Governo Luiz Inácio Lula da Silva. Relançamento do Programa Minha Casa, Minha Vida; do Programa Mais Médicos; do Programa Nacional de Alimentação Escolar - PNAE; e do Programa Bolsa Família. Importância de realização da reforma tributária e de aprovação do novo arcabouço fiscal. Recolocação do Brasil no caminho virtuoso do desenvolvimento socioeconômico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9be6d2455b1fc21738fbbb16cc3acda9ead096f76ae9bc1df0cc75b4e5354cba
+size 416

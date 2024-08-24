@@ -1,1 +1,3 @@
-Presença no plenário do Presidente da União Nacional dos Estudantes - UNE, Daniel Iliescu, e do Secretário Especial da Juventude. Congratulações à Casa pela aprovação do Estatuto da Juventude. Indagação à Presidência sobre a pauta da sessão extraordinária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d9c6a1b67c6eae8ec6efe75d44b996b85c0c89e836a1b71716354f5f2c2a0b5
+size 271

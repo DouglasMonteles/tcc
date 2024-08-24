@@ -1,1 +1,3 @@
-Esclarecimento aos Parlamentares sobre o parecer oferecido pelo orador à Medida Provisória nº 918, de 2020, a respeito da criação de funções de confiança destinadas à Polícia Federal e da extinção de cargos em comissão. Importância de aprovação da propositura. Indagação ao Deputado Enio Verri sobre a manutenção da questão de ordem acerca do acolhimento de emendas pelo Relator da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9b134a413a9cfeca6b61295d55463a025489525c1f4e82c840d68d27fd8e056
+size 412

@@ -1,1 +1,3 @@
-O Deputado agradeceu aos colegas a aprovação do Projeto de Lei nº 2.749, de 2023, que garante a prioridade de tramitação dos processos nos quais seja parte pessoa com deficiência, síndrome de Down, transtornos do espectro autista e doenças raras. Destacou a importância de garantir direitos a grupos frequentemente negligenciados, propondo a criação de centros de apoio para crianças com autismo em Municípios. Reforçou a necessidade de expandir a rede de atenção à pessoa com deficiência, citando centros de reabilitação no Piauí. Enfatizou a urgência de aprimorar as políticas de inclusão para alcançar uma sociedade justa e inclusiva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:539901da7025caa7168e6ba8e764f889c902a39076ba3c8edcc1641c38f9f7e2
+size 662

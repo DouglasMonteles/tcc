@@ -1,1 +1,3 @@
-Liberação da Bancada do PTB para votação da  PEC 413 de 2005 (Altera o § 6º do art. 226 da Constituição Federal que dispõe sobre o divórcio),  em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a521e2ddf4fe83529ff587a8d4539b4e03d89114ba85af7d8d59670c0f57d7a0
+size 170

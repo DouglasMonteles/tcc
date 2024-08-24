@@ -1,1 +1,3 @@
-Liderança do Estado do Paraná na oferta de leitos de UTI pelo Sistema Único de Saúde - SUS, conforme levantamento do Conselho Federal de Medicina. Investimentos do Governo paranaense em hospitais públicos e na ampliação do atendimento pelo SUS. Expectativa de aumento da oferta de leitos em Municípios do Paraná até 2018.
+version https://git-lfs.github.com/spec/v1
+oid sha256:000214c63d7d963028835a9b3f5329623f808d4050ef485f1bf77fb3ca9a01b7
+size 331

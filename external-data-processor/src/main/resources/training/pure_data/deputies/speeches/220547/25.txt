@@ -1,1 +1,3 @@
-Violação de princípios e direitos fundamentais preconizados na Constituição Federal, nos pactos internacionais de direitos humanos e na Convenção Interamericana de Direitos Humanos, demonstrada da prisão de participantes em manifestação política realizada em Brasília no dia 8 de janeiro de 2023. Repúdio à determinação judicial de uso de tornozeleira eletrônica por membro da Casa. Indagação ao Ministro dos Direitos Humanos e da Cidadania, Silvio Almeida, sobre o posicionamento adotado com relação à prisão de participantes em manifestação política, bem como sobre o regime ditatorial nicaraguense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4123de19cccf348e8239ed92436f287228cd75e185df629b9f48f01513ad2d91
+size 627

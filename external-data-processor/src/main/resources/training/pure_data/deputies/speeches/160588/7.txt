@@ -1,1 +1,3 @@
-Preocupação do Governo Dilma Rousseff com novas fontes de financiamento da saúde pública. Anúncio de apresentação de projeto de lei referente a concessão de incentivos fiscais para fomento de atividades e serviços na área de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb3291825f7e70152769e05e8b4e43555dba70fa8eec1ff423405d6c66d3bd34
+size 242

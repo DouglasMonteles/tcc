@@ -1,1 +1,3 @@
-O Deputado anunciou apoio às áreas afetadas por enchentes nos Estados de Santa Catarina, Paraná e Rio Grande do Sul. Mencionou o aumento significativo dos rios, a devastação em várias cidades e o desejo de reconstrução das regiões atingidas, contemplando desde resposta a desastres e recuperação de infraestruturas até projetos de desenvolvimento sustentado e suporte à oferta de água, com ênfase na proteção de Estados afetados por enchentes e seca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e54f2eab66a85de2a0ed43fbbd25e85cae6f4ddf4c1d9255e3e216bd970db55b
+size 467

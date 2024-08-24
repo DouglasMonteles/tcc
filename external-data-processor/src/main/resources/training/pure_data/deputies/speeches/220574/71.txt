@@ -1,1 +1,3 @@
-Extrapolação, pelo Presidente Luiz Inácio Lula da Silva, dos limites de sua competência na alteração do novo marco legal do saneamento básico por meio de decreto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebded687e1daa89307a753974e4efbceba3f1558f7d4b48c09fd3250a43b27bc
+size 169

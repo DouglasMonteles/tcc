@@ -1,1 +1,3 @@
-Consulta à Presidência sobre a inclusão na pauta do Projeto de Lei 442, de 1991, relativo à regulamentação de bingos, cassinos, caça-níqueis, jogo do bicho e apostas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f2ac4b33de4399e41197f52f5091784c865847f50e6b2c1d43610aca79894b4
+size 183

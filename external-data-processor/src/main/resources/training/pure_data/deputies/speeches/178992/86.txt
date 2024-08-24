@@ -1,1 +1,3 @@
-Necessidade de apoio do Governo Federal à indústria de placas e painéis solares e de energia eólica. Defesa de criação do Ministério da Indústria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d84f7aafe2cb35ede4e5bb097d7a097a5722aeabc1e1e367e155c96c87d5703c
+size 154

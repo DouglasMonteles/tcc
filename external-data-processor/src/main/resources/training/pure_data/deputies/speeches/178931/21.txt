@@ -1,1 +1,3 @@
-Lançamento do Mutirão de Cirurgias Eletivas pelo Governo do Estado do Paraná. Pedido ao Poder Executivo de liberação de recursos para o Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66a362c6edc17a6b049eba104dd0d240785084749db58a31105b830997206a25
+size 148

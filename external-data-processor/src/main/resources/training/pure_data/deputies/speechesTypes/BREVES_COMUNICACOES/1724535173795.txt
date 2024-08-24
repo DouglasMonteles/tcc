@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Meio Ambiente. Compromisso do mandato parlamentar do orador em defesa da causa ambientalista. Importância de aprovação da Proposta de Emenda à Constituição nº 504, de 2010, que inclui  o Cerrado e a Caatinga entre os biomas considerados patrimônio nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8af988884c949e59f57c239db6bd2d4a5d5eb0ea82c35c4e73233c8e2b10ded
+size 294

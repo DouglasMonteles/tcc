@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Aniversário de Palmas, Capital do Tocantins.As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9363a65544be1d25926b003266a9dc1b95238e072c8c02262fa64791051f20e
+size 207

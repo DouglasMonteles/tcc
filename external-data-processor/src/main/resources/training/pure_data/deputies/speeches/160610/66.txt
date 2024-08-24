@@ -1,1 +1,3 @@
-Participação do orador nas festas juninas realizadas nos Municípios de Vitória da Conquista, Irecê, Itagibá e Itamaraju, Estado da Bahia. Concessão do título de Cidadão Honorário de Itamaraju a personalidades envolvidas no processo de desenvolvimento da municipalidade. Transcurso de aniversário da declaração da independência do Município de Cachoeira do jugo português, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3006e5224e84d0c280231c20532f657534f5d2bda8e43f20e6d4710ce3ed049b
+size 407

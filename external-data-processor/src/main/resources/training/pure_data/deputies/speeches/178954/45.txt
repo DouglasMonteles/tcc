@@ -1,1 +1,3 @@
-Não apresentação, pelos partidos oposicionistas, de fundamentos contra a medida provisória em votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0429cdb990822e05f1fb44e460a553e3622ad2ba7ae1c2335d95b5f7fdc5f4c6
+size 108

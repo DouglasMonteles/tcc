@@ -1,1 +1,3 @@
-Encaminhamento da votação da expressão, provenientes de infraestrutura explorada no regime público, contaste do § 3º do art. 1º da Lei 7.920,  constante do art. 1º do Projeto de Lei de Conversão da Medida Provisória 551 de 2011 (Altera dispositivos das Leis 7.920 de 1989, 9.825 de 1999, 8.399 de 1992, 6.009 de 1973, 5.862 de 1972, 12.462 de 2011 e dá outras providências),    que trata de adicional sobre    tarifas aeroportuárias, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0040a1ac159ce5e7da9793423b0b2d43c499925e40bb1c22f44adf7cd8984db
+size 461

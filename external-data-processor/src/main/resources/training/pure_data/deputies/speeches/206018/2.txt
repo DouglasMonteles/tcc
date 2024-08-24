@@ -1,1 +1,3 @@
-Constatação pela oradora, in loco, da crise humanitária na Terra Indígena Yanomami, no Estado de Roraima. Necessidade de revisão de autorizações para exploração de terras indígenas na Amazônia, especialmente para atividades de garimpo de ouro. Exigência ao Congresso Nacional de atuação em defesa dos povos indígenas e do meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b66a638403c6b39407079c014817bf3bae406210dbc14beb692318943477c3b
+size 351

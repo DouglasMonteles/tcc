@@ -1,1 +1,3 @@
-Apoio ao Governo Jair Bolsonaro. Constatação, pela CPI do BNDES, do envio irregular de recursos ao exterior em governos anteriores. Participação, em voos oficiais da ex-Presidenta Dilma Rousseff, do militar preso pelo transporte de drogas na aeronave da comitiva presidencial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:947a236db4ca32a0b2f2f39190a2837c69ce9f6604423568fb1878656452afe1
+size 280

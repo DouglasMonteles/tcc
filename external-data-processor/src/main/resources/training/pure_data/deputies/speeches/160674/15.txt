@@ -1,1 +1,3 @@
-Realização da Festa de São João no Município de Patos, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cedee80f862c929cc7f62886584f89e41de5f53b375c425f0353bac9effd687
+size 79

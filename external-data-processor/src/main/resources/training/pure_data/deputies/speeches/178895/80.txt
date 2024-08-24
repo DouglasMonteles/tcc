@@ -1,1 +1,3 @@
-Importância da campanha Novembro Azul, destinada à conscientização da população masculina sobre a importância da prevenção e tratamento do câncer de próstata.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2c9c4ad2a006423fa47da7c414ebe58363fa6b5396fce7f8100625a1c26786d
+size 169

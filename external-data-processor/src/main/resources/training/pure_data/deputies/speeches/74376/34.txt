@@ -1,1 +1,3 @@
-Importância da Caixa Econômica Federal como agente das políticas públicas do  Governo Federal. Ações da instituição em prol do desenvolvimento socioeconômico do Estado do Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79957448320f19b0e37001df318993ce9fc1a61759071680fb5726ab16b36dc5
+size 199

@@ -1,1 +1,3 @@
-Não definição, pelo Tribunal de Contas da União - TCU, de diretrizes estratégicas para enfrentamento da pandemia de coronavírus. Não coordenação, pelo Governo Federal, de ações destinadas ao combate à Covid-19. Alcance do patamar de 60 mil mortos em decorrência da doença no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4f75232a107ae3c268dbd15b2ffefd2108f5135250a0a59c6c9e52bc4c898ac
+size 295

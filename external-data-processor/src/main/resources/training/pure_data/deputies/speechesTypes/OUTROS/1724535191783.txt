@@ -1,1 +1,3 @@
-Saudações aos profissionais da enfermagem presentes nas galerias do plenário. Votação de projeto de lei do Congresso Nacional sobre a alocação de recursos para custeio do piso salarial da categoria. Expectativa quanto aos resultados da&nbsp;CPMI destinada à investigação de atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e63808f6daac2a663df9ab7e6f54217a01c2e2017f40c88f7b8ce051e300e3e4
+size 356

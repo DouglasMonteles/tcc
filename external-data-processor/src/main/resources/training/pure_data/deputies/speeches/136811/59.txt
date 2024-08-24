@@ -1,1 +1,3 @@
-Justificativa da ausência do parlamentar de votações anteriores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ade226b41356830b68d2762782898c825ed0ede5cfbb1abbde1a351647c27df6
+size 67

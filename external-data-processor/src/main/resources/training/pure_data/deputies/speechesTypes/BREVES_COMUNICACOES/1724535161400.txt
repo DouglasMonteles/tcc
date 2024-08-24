@@ -1,1 +1,3 @@
-O Deputado celebrou os 80 anos de Apucarana, no Paraná, destacando sua diversidade étnica e desenvolvimento econômico. Destacou avanços em infraestrutura, moradia, saneamento, educação e saúde. Apresentou um Requerimento para criar um grupo de trabalho que sugira alterações na norma ABNT NBR 7256, visando reduzir os custos das obras de saúde no país. Também propôs um Projeto de Decreto Legislativo para sustar os efeitos dessa norma, alegando que ela aumenta desnecessariamente os gastos com estruturas de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9773fc5853f7ca84a4e48c66397064b75e394d00798a786dafb11cf8c0b2e05
+size 529

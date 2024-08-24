@@ -1,1 +1,3 @@
-Cobrança ao Presidente Jair Bolsonaro de medidas em prol dos policiais militares e das Forças Armadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:635464dd23a2a1ee5044d8619b53c7e50a0853b8556c8b0f3c4d74ea9774863f
+size 104

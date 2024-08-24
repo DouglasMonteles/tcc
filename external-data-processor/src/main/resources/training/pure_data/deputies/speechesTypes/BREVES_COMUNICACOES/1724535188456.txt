@@ -1,1 +1,3 @@
-Repúdio à determinação do Ministro do Supremo Tribunal Federal, Alexandre de Moraes, de suspensão da reportagem O amigo do amigo de meu pai,, veiculada pelo site O Antagonista  e pela revista Crusoé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:baf89b4779775f6c30efdfde029a532878068732d474507c3427ad0227bdc5f6
+size 205

@@ -1,1 +1,3 @@
-Restabelecimento da saúde do Deputado Pedro Lupion.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28d9cb352ff9351c53d41b1b37a59e9789f784e1145694fc0631f0a4856ddd77
+size 52

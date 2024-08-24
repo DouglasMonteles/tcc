@@ -1,1 +1,3 @@
-Aprovação pelo Senado Federal da proposta de criação do Estatuto da Juventude. Prioridade da Casa na apreciação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92df05328fcf27ffffcf9d738b9e19c3bcb11296ec771ce79100dad180c6f2a2
+size 130

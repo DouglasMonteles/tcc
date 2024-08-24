@@ -1,1 +1,3 @@
-Presença nas galerias do plenário de agentes comunitários de saúde do Município de Campina Grande, Estado da Paraíba. Defesa da aprovação de projeto de lei sobre a criação do piso salarial nacional da categoria. Presença na Casa da Presidenta do Sindicato dos Enfermeiros do Estado da Paraíba, Eva Vicente da Silva. Realização de greve de fome por profissionais de enfermagem em prol da aprovação do projeto de lei sobre a fixação da jornada de trabalho da categoria em 30 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:739e6f34e33c861db0c0e9fd0b82993a39fddfeb1314dad3bcdbd91fb058adc0
+size 506

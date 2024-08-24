@@ -1,1 +1,3 @@
-Questão de ordem sobre possibilidade regimental de apresentação de pedido de verificação pela parte vencedora. Existência de questão de ordem sobre a matéria, apresentada em 2010 e acolhida pela Presidência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18eb1381adfb26cc2d01bd800d9ccc92eae93b4ed3375664f4d653105a9f6203
+size 216

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 2.920, de 2023,&nbsp;sobre a instituição do Programa de Aquisição de Alimentos - PAA, e a alteração das Leis de nºs 12.512, de 2011, e 14.133, de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:664dca53c8deb956f59c2fe52d436a4df25f9e9c313d853caedf63778f99db81
+size 254

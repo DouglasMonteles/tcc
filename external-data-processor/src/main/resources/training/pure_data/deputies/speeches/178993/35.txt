@@ -1,1 +1,3 @@
-Preocupação com impacto do ajuste fiscal promovido pelo Governo Federal na vida do brasileiro. Protesto contra o reajuste do Imposto Predial e Territorial Urbano - IPTU pela Prefeitura Municipal de Palmas, Estado do Tocantins.  Anúncio da participação do orador nas comemorações alusivas ao transcurso do 26º aniversário de fundação de Palmas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e24b0bd1bc02dd265ebc301192b1859921ecc884048605c43395db46a3c5c86f
+size 354

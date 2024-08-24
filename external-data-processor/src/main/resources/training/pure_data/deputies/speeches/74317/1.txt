@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de auxílio aos desabrigados pelas enchentes no Município de Esperantina, Estado do Piauí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e33c8d8e342b906147a51c4c9dc799179245c7a934b899541c70aff80619a1ba
+size 117

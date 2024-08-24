@@ -1,1 +1,3 @@
-Acerto da implementação, pelo Governador Flávio Dino, do Programa Mais IDH, destinado à elevação do Índice de Desenvolvimento Humano em Municípios do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e4393e9e9e0b5bcdd9019ba8f38f82c71a23a04efcb423fb98c5bfb5cdb8d6f
+size 178

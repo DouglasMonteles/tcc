@@ -1,1 +1,3 @@
-Pedido à Presidência de votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.949, de 2020, acerca da estratégia para o retorno às aulas diante da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e459c485c312361221496b4e1a2ac7fd4f02780bae19255b232915dc75fe9d3
+size 211

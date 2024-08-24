@@ -1,1 +1,3 @@
-Lançamento pelo PT em conjunto com o PP do Município de Itabira, Estado de Minas Gerais, da Agenda 2012, destinada ao desenvolvimento sustentável da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cffa110eb0cd5d9b7bf34463933583a36a047a24f57d2ca6afa5d39e491ed017
+size 167

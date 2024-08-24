@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados de Flávio Magdalena Bravo, Prefeito do Município de Areal, Estado do Rio de Janeiro, da Vereadora Vanessa Santinon e do Secretário Marco Antônio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3c5ffea5aab98c788e1b558ccd238b8967706e5467831021d7a439183092e5c
+size 184

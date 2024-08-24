@@ -1,1 +1,3 @@
-Investigação de possível fraude na votação da Proposta de Emenda à Constituição nº 15, de 2022, acerca da concessão de regime fiscal diferenciado ao setor de biocombustível.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9db4a7770a5613565f840484e04d2573fa238da281bb8a89e3024185520e1fe0
+size 184

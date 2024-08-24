@@ -1,1 +1,3 @@
-Carência de aeródromos e portos fluviais no Estado do Amazonas e na Amazônia. Deficiência do sistema de abastecimento de energia elétrica na região amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:815b799a5d212ce58b758464bea5b2800fcd4596ce9887e187fbc0c05ba244a6
+size 165

@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do requerimento de adiamento de votação das Emendas do Senado Federal ao Projeto de Lei nº 3.626, de 2023, que regulamenta as apostas esportivas on-line. Ressaltou a sanção pelo Presidente Lula de um novo feriado nacional, o Dia da Consciência Negra, a ser comemorado no dia 20 de novembro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ae3d5f7b0efac6fb5e414545ca2e228e9fb919410dc83ef1c0339d20ca80894
+size 339

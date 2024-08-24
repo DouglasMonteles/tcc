@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Finanças e Tributação, à Emenda de Plenário, 39 ao  Projeto de Lei 4.881 de 2009 (Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior - FIES), apensos os PLs 4.945/09, 4.974/09,  5.413/09, 5.370/09, 5.558/09 e 5.628/09, que permite o  abatimento do saldo devedor do estudante beneficiado pelo Fundo que prestar serviços na área de odontologia pelo SUS em  localidades carentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:611db21b633c4222e3d59596ac7f5ffb90a18b1904752b8b5a51c3fe83c8936a
+size 430

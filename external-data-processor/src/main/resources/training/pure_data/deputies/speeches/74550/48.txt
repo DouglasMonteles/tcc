@@ -1,1 +1,3 @@
-Convite aos Deputados da bancada do Estado da Bahia para participação no pré-lançamento de congresso da Ferrovia de Integração Oeste-Leste - FIOL, em Salvador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ebc09c79932173f5abea355edc20494c9730892042432599e7f22a59b99bf46
+size 165

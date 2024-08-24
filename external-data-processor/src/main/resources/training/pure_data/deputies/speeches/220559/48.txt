@@ -1,1 +1,3 @@
-A Deputada criticou o Projeto de Lei nº 1.768, de 2023, que reabre prazo para repactuação de dívidas de crédito rural abrangidas pela Lei nº 11.322, de 13 de junho de 2006 (Lei Eunício Oliveira), e estende as condições nela previstas a dívidas contraídas por Microempreendedor Individual. Reclamou que, historicamente, a região Sul e especificamente o Estado de Santa Catarina são relegados pelo Parlamento. Argumentou que a região Sul e Santa Catarina precisam de apoio em decorrência das intempéries climáticas e inundações. Por fim, lembrou que a reforma tributária foi recentemente aprovada sob o argumento de acabar com a guerra fiscal, sendo assim, deveria haver maior isonomia na concessão de incentivos fiscais para os Estados e regiões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37322425ee5e97d5eb69c9b4bd1489962c7356fb7d2b217ad6e5a958be2549af
+size 767

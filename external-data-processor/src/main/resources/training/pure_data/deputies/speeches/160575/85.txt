@@ -1,1 +1,3 @@
-Congratulação ao Deputado Reguffe pelo discurso proferido. Reexame da Resolução nº 3.954, de 2011, do Banco Central, sobre a ampliação das funções de correspondentes bancários. Concentração de agências bancárias na Região Sudeste, especialmente no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d6486a9f168fc0bc94b08b4544f4bcc5526c6835672a10a118572ea54f85b22
+size 284

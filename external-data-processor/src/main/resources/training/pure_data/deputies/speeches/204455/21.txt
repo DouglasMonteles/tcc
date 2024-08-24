@@ -1,1 +1,3 @@
-Domínio exercido pelo crime organizado e pelas milícias sobre as favelas do Rio de Janeiro, Estado do Rio de Janeiro. Apelo aos Parlamentares por aprovação de matérias de interesse do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df1583b5bc45d4b67af358251a9ba5c01280b9184c64030d036eeefa04c61c78
+size 195

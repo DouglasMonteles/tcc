@@ -1,1 +1,3 @@
-Retomada da realização de cirurgias eletivas no Estado de Minas Gerais e no País. Agradecimento ao Governador Romeu Zema e Prefeitos Municipais pela liberação de verbas para tal fim. Apelo aos Parlamentares e ao Governo Federal de destinação de recursos às unidades de saúde para a realização de procedimentos cirúrgicos eletivos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b53d48a865ff4e2f7d82d172ac2b7aef53b61211d2c6788466ca6b64b1ee4a4
+size 342

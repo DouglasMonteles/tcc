@@ -1,1 +1,3 @@
-Pedido às bancadas federais do Ceará, do Piauí e do Maranhão para atuação conjunta em prol da liberação de créditos extraordinários aos respectivos Estados com vistas ao atendimento às populações atingidas por enchentes. Defesa de criação, pela Casa, de Comissão Externa para visita aos Estados atingidos pelas cheias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18514f3c40f3cf736c6be4d4340d3d6759a290b6193726fd87cbde33524f4f22
+size 334

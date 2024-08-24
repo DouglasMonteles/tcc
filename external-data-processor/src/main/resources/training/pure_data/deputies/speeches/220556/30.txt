@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao ex-Deputado Federal José Fritz presente no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9d5ed4327b606830bd1175b644210326ca3456e5b8fdc10da6ca47277875675
+size 87

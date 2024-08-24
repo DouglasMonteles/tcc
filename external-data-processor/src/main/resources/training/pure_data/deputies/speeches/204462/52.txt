@@ -1,1 +1,3 @@
-Transcurso do 458º aniversário de fundação do Rio de Janeiro, Estado do Rio de Janeiro. Tradição católica da Capital fluminense. Clima de guerra urbana instalado na municipalidade. Prática de corrupção por ex-governadores locais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4350034b8c34d2d60fe8af245b837e37ca1ff98247dbe720a261e993e0c82571
+size 239

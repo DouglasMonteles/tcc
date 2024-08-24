@@ -1,1 +1,3 @@
-Realização do 4º Festival Internacional de Trovadores e Repentistas, no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d763aa9917aab7ba825c0c85e00127190f9cc524c62e78821feee833a9ee086
+size 92

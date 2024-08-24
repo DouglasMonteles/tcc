@@ -1,1 +1,3 @@
-Sanção da Lei Nacional de Adoção pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:427750a9ddd914d7b48933c0f61444e67d7d725a7e343d34400cc99ff76c8de7
+size 80

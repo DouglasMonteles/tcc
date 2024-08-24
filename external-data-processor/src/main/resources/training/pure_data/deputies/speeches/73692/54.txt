@@ -1,1 +1,3 @@
-Conclamação à Casa para mobilização a favor da regulamentação da Emenda Constitucional nº 29, de 2000, sobre destinação de recursos para a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dd020adbbbf908ff5e7dbf4baaf1ad293f4692db8abbf03154ddb92dac622b2
+size 165

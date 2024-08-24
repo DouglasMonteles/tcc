@@ -1,1 +1,3 @@
-Realização de marcha a Brasília, Distrito Federal, pelo Movimento Brasil Livre. Apoio a reivindicações do movimento ao Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abe0176a12b416e589757b63620a636c57896769158e3acb90486e3b2ebfb866
+size 143

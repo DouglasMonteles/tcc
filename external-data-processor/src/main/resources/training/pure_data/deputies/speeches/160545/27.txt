@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM ao  Requerimento de adiamento, por uma sessão, da votação da Medida Provisória 559 de 2012 (Autoriza a Centrais Elétricas Brasileiras S. A  ELETROBRAS  a adquirir participação na CELG Distribuição S.A - CELG D e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e23ddec15a14ebb20411d13e730b56915a5cdf5ecf8aa41da99554b99037935e
+size 280

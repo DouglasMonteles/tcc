@@ -1,1 +1,3 @@
-Participação em manifestações realizadas em Salvador, Estado da Bahia, por ocasião do transcurso do Dia do Trabalho. Oportunidade da discussão de modelo de desenvolvimento econômico sustentável. Empenho do Conselho Federal de Serviço Social na aprovação, pela Casa, de projetos de interesse dos profissionais das áreas do serviço social e psicologia. Transcurso do 15º aniversário de lançamento da revista Persona.
+version https://git-lfs.github.com/spec/v1
+oid sha256:119cb05bda570523dc3d89fd0134c23519ddb03975bb1171cea495a269928274
+size 430

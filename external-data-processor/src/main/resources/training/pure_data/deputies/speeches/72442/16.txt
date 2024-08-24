@@ -1,1 +1,3 @@
-Aprovação da Medida Provisória nº 863, de 2018, sobre a abertura do setor aéreo ao capital estrangeiro. Defesa de aposição de veto presidencial à isenção da cobrança de bagagens  em voos domésticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eab5622059d71f326885231e130ba7f8e341536a0b97114f7ef06afa82c31fa9
+size 210

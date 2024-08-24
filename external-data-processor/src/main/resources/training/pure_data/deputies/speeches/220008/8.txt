@@ -1,1 +1,3 @@
-Razões do posicionamento da oradora favorável à privatização das empresas públicas brasileiras. Defesa da criação de voucher para o ensino fundamental e creches.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8230adeb6f7469bbfb94a9982c487cc95a898bae28dea1bdb5a580670ee0839
+size 169

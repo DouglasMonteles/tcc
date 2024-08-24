@@ -1,1 +1,3 @@
-Apelo ao Governo Federal e ao Governo do Estado da Bahia, por imediata assistência aos Municípios de Itamaraju e Jucuruçu atingidos por fortes chuvas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97d5ecd4edce26e8d700a217fb5db035b747c378ae063e519dd3fd71f4c6cd86
+size 153

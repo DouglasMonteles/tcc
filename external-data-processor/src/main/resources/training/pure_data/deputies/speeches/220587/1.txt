@@ -1,1 +1,3 @@
-Importância da criação da CPMI destinada à investigação dos atos antidemocráticos ocorridos no dia 8 de janeiro de 2023 em Brasília, Distrito Federal. Necessidade de posicionamento da Casa em prol da soltura de brasileiros encarcerados injustamente por suposta participação nos atos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:303a52f4325cadb1be445411c4e8eba196d49180ead8dd63347de631f86f6582
+size 293

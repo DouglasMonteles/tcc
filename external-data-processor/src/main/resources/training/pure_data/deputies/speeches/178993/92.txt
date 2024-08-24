@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de término dos discursos com vista à votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a16f9f314ec0c7b1d43638649aa2ea2ed3c56af00fdbfb716a9bd56b575db2d3
+size 86

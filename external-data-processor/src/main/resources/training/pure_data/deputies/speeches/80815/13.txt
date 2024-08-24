@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 8, apresentada ao Projeto de Lei nº 2.617, de 2023,&nbsp;sobre a instituição do Programa Escola em Tempo Integral, e a alteração da Lei nº 11.273, de&nbsp;2006.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb283c49f410caf6ab66b9660cb2a4f6ba3201d694e4ce994c0faa54e6101c74
+size 276

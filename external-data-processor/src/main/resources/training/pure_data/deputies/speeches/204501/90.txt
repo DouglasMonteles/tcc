@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 1.389, de 2020, sobre a transposição e a transferência de saldos financeiros constantes dos Fundos de Assistência Social dos Estados, do Distrito Federal e dos Municípios, provenientes de repasses federais, apurados até dezembro de 2019. Possibilidade de exoneração do Ministro da Justiça e Segurança Pública, Sérgio Moro. Perseguição de adversários políticos pelo Presidente Jair Bolsonaro e pelo Ministro Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8b9575e4ccbba6f40780d939c9bcc2ab2896fcccc808c0936ef486d275f914c
+size 469

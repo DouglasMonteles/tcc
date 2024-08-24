@@ -1,1 +1,3 @@
-Saudações aos Parlamentares e aos membros da Mesa Diretora. Contrariedade à aprovação do Projeto de Decreto Legislativo nº 31-D, de 2015, sobre a criação do Fundo Mercosul Cultural. Agradecimento ao ex-Presidente Jair Bolsonaro pela investidura do orador no cargo de Secretário Especial da Cultura. Oposição do Parlamentar ao governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dedeabcba0bad3864e8b50723cfffbd7e67876cd9c1c3fec20e01d9e5fa4f52d
+size 353

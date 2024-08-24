@@ -1,1 +1,3 @@
-Transcurso do 80º aniversário natalício do ex-Governador do Estado do Amazonas Gilberto Mestrinho. Ampliação do Programa Calha Norte pelo Ministério da Defesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30bfaccbff8d857e08089005c4aff0d23c759a8f8b3960026dc4121923286061
+size 165

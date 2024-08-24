@@ -1,1 +1,3 @@
-Agradecimento a Deus, à família, ao Pastor Isamar Pessoa Ramalho e à missionária Nazaré pela assunção do orador ao mandato parlamentar. Apelo à Casa de apoio ao desenvolvimento econômico e social do Estado de Roraima, especialmente com o fornecimento de energia elétrica eficiente, com relações de parceria entre o Brasil e a Guiana e com a trafegabilidade da BR-174.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1ec43c222cdfc900e68192e13f1580deefe9e19ffcee457ca0c4b8394067ad8
+size 379

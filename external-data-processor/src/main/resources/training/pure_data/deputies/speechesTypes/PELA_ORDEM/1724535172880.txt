@@ -1,1 +1,3 @@
-Apelo à Presidência de cumprimento de acordo para a supressão de cláusula do texto da Mensagem nº 369, de 2019, (Projeto de Decreto Legislativo nº 288, de 2021), sobre o Texto do Sexagésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica Nº 35 (ACE-35), acerca da incorporação ao referido Acordo do Acordo de Livre Comércio (ALC) entre o Brasil e o Chile, assinado em Santiago, em 21 de novembro de 2018. Pedido aos Líderes partidários de apoio ao requerimento de retirada da proposição da pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41f5ea848756002866e32b2f53e58af04a05dd5a01c91a812bb5e202d874c2b5
+size 531

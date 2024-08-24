@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global oferecida pela Relatora da Comissão de Defesa dos Direitos da Mulher ao Projeto de Lei nº 1.085, de 2023, do Poder Executivo, sobre o estabelecimento de igualdade salarial e remuneratória entre homens e mulheres no exercício da mesma função; e a alteração da CLT - Consolidação das Leis do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92562aac5afb4dc57ba3ae1ec31560b11ebb2af5bc9ce59b428b6fa70e44e0b2
+size 379

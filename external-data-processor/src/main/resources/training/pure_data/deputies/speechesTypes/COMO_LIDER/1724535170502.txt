@@ -1,1 +1,3 @@
-Defesa da concessão da posse de arma de fogo em áreas rurais. Investigação de suposto envolvimento do PT com a organização criminosa Primeiro Comando da Capital - PCC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23dc46affc4b0f327dd5dbf3dd5f56b7dfc9f35ad864b61ca66f935a315e62f8
+size 173

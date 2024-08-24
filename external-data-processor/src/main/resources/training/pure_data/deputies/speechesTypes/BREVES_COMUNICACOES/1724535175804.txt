@@ -1,1 +1,3 @@
-Desempenho do Governador de Brasília, Ibaneis Rocha. Inauguração do Hospital de Radioterapia, na Cidade-Satélite de Taguatinga. Convocação de novos policiais militares e bombeiros militares do Distrito Federal. Pedido à Presidência de inclusão na pauta da Medida Provisória nº 984, de 2020, sobre a alteração da Lei nº 9.615, de 1998, relativa às normas gerais de desporto, e da Lei nº 10.671,  de 2003, acerca do Estatuto de Defesa do Torcedor, em face da emergência de saúde pública decorrente da pandemia de coronavírus, consoante à Lei nº 13.979, de 2020. Apelo à Secretaria Nacional da Juventude de implementação do Programa Espaço 4.0, destinado ao acesso de jovens a novos recursos tecnológicos da indústria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad53d0a587a4b0610f325d94414bb804d4cb10f0aae20d3117bd8b9ef83468f3
+size 743

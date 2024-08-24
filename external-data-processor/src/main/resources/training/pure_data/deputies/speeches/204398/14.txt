@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Substitutivo oferecido pelo Relator da Comissão de Finanças e Tributação ao Projeto de Decreto Legislativo nº 316, de 2020, para sustação da Portaria nº 260, de 2020, do Ministério da Economia, acerca do disciplinamento da proclamação de resultado do julgamento no âmbito do Conselho Administrativo de Recursos Fiscais - CARF, na hipótese de empate na votação, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bbeb9e6cdd2cd2707c1ad49d32300fd1841ceec7358f05ef3b7fe151ff4df1f
+size 441

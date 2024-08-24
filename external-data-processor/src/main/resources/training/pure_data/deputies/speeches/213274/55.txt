@@ -1,1 +1,3 @@
-Informação aos Deputados sobre a rejeição das Emendas de Plenário, com exceção à apresentada pelo PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1006cfed16bc98af4c7ab7cb84b00ac22b841913653733416e111fa2ae63e89a
+size 109

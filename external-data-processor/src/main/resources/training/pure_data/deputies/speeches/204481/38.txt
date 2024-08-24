@@ -1,1 +1,3 @@
-Congratulações ao Ministro-Chefe da Advocacia-Geral da União, André Mendonça, e ao Presidente do Instituto Brasileiro de Direito e Religião, Thiago Rafael Vieira, pelo apoiamento à decisão do Ministro do Supremo Tribunal Federal, Kassio Nunes, favorável à reabertura de templos religiosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3780682b2e4e19acc3a5103ed1a45175bd2aa83e667b735ce83a635c5f04eb39
+size 299

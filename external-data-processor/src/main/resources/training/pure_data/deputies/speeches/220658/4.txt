@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Presidente do Sistema CNC-SESC-SENAC, Antonio Oliveira Santos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2f2cf7f4c291342e3edda26f065d6b149296504df546790528347c1c65500a1
+size 87

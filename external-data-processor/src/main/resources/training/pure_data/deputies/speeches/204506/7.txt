@@ -1,1 +1,3 @@
-Leitura do pronunciamento do Deputado Rodrigo Maia sobre o transcurso do 71º aniversário de criação do Estado de Israel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86506cd1bd1029a9edb00c5fd32982684f1a299d2da8cadb50317117320f5beb
+size 124

@@ -1,1 +1,3 @@
-Congratulações ao Governador do Estado do Espírito Santo, Renato Casagrande, pelo repasse de recursos à educação municipal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3cc86592795b307e44be08eafd3929068ec625167ac9b2c3c9732249c62038b
+size 129

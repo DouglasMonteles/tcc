@@ -1,1 +1,3 @@
-Realização, pelo Governo do Estado do Rio Grande do Sul, de assembleias populares destinadas ao debate do Plano Plurianual de Investimentos - PPA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36473b8f1a835eba2c68411e3381688d74c4ab1a15e829010ccb4fbe39a65e97
+size 148

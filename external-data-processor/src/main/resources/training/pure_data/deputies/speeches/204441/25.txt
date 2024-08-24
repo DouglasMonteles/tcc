@@ -1,1 +1,3 @@
-Repúdio às difamações do ex-Deputado Federal Jean Wyllys contra a Direita brasileira, o Presidente Jair Bolsonaro e o País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0706e0a4246b04b8f49b4cb0110642741bcff6d9a18c6faeb7d373d71c5e2d90
+size 128

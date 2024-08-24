@@ -1,1 +1,3 @@
-Escalada do assassinato de jovens no Município de Cascavel, Estado do Paraná. Apelo ao Governo Federal de envio de contingente da Força Nacional de Segurança Pública à municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94c714311a9aa0382e30fa4adad221179a881d9d66b7e2a4df558ae80dea8ab5
+size 189

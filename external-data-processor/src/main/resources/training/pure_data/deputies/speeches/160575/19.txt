@@ -1,1 +1,3 @@
-Retrospecto sobre esquema de corrupção ocorrido no âmbito do Governo de Brasília em 2009. Exigência de investigação rigorosa, pelo Conselho de Ética e Decoro Parlamentar da Casa, de denúncias de corrupção contra Deputada do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2342f7cb1b879ed12f29df7679f50b1578b194c8ce12069f8ae3f884faa6f99
+size 252

@@ -1,1 +1,3 @@
-O Deputado agradeceu ao povo brasileiro por ter elegido o Presidente Luiz Inácio Lula da Silva e ter dado um basta à gestão desastrosa do ex-Presidente Jair Bolsonaro, a quem responsabilizou pela morte de 700 mil pessoas por COVID-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e769daef33c1f3b01d048d6ce9f49d24bb5eb8ed1d6cab343c8c6a826b94fd40
+size 237

@@ -1,1 +1,3 @@
-Aviso aos visitantes sobre proibição de manifestações nas galerias do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acd7ebdfcfaaf06b6bc98041399e915f0de59e00fa8816ef2ac2e1b8478e6d41
+size 84

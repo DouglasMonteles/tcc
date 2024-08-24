@@ -1,1 +1,3 @@
-Repúdio ao pedido de habeas corpus  ao Supremo Tribunal Federal pelo ex-Presidente da empresa Vale Fabio Schvartsman para não participação como depoente na CPI destinada à investigação sobre o rompimento da Barragem de Brumadinho, Estado de Minas Gerais. Anúncio da quebra dos sigilos bancário, fiscal, telefônico e de Internet do Sr. Fabio Schvartsman pelo órgão investigativo da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90849d363f69f511f4eba05f15f272be0aba1b04999827e6e45b6f29a40ca959
+size 398

@@ -1,1 +1,3 @@
-Homenagem à memória do Prof. Aires da Mata Machado Filho, ao ensejo do transcurso do centenário do seu nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9dc97786cdac3765063cfeaf3e0ace6df0ef1a9600ca67d8dc19ed4e3d272d
+size 117

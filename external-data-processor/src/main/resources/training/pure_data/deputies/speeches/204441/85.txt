@@ -1,1 +1,3 @@
-Apresentação de requerimento de informações ao Ministério da Saúde acerca de políticas públicas destinadas ao enfrentamento da depressão e à prevenção do suicídio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cd3bb08432a524b0f00a8b640863eb6487a88cf471f9bb6951deb26c29be9e6
+size 176

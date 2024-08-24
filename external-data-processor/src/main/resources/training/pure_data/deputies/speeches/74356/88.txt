@@ -1,1 +1,3 @@
-Congratulação ao Presidente Inocêncio Oliveira pelo êxito obtido na realização de votações na sessão extraordinária matutina. Imediata inclusão na pauta do substitutivo oferecido pelo Deputado Aldo Rebelo à proposta de reformulação do Código Florestal Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13aaf6a4f4b0916c64fafcd7d94d9e411d4cba27b1d81f02f517c39f74c476fd
+size 278

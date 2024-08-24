@@ -1,1 +1,3 @@
-Participação da Ministra-Chefe da Secretaria de Políticas para as Mulheres, Eleonora Menicucci, no ato de adesão do Estado de Alagoas ao programa Mulher, Viver sem Violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f893f6b0f024b8d1e0568cdcd90407189232f53e7e28bf4205f6e67ff052e10
+size 179

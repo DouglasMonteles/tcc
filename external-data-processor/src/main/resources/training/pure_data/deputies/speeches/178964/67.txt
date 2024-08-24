@@ -1,1 +1,3 @@
-Análise da evolução dos preços dos produtos agrícolas em comparação com o avanço da inflação e do salário mínimo. Constatação de valorização abaixo da inflação da maioria dos produtos agropecuários. Dificuldades financeiras dos produtores rurais para o pagamento do crédito rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bbbb772e5bb689b7045b407c6a623fe255f2d44cfb2b081a8a0dd7abf905a37
+size 300

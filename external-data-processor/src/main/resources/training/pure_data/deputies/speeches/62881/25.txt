@@ -1,1 +1,3 @@
-Conduta ilibada do ex-Deputado Colbert Martins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27702c7bafdee8668255c59139ca5b043032aa364cc04f9a7e2d3568a4843f0d
+size 47

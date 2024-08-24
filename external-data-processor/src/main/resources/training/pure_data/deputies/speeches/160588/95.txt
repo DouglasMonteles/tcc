@@ -1,1 +1,3 @@
-Celebração de acordo entre o Governador Romeu Zema e a empresa Vale para realização de vultosos investimentos no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bda5b1525025760ee0316acb243c8357d92e7c68407f366354dc21911d66a75
+size 140

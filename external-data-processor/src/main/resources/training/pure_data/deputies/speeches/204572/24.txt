@@ -1,1 +1,3 @@
-Comemoração do Dia Nacional do Policial e do Bombeiro Militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ab3a0b46322e34c8b133ddff9ac83a3467e1627e2e23bbf0f31c022e1fb3fea
+size 66

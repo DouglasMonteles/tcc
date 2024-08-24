@@ -1,1 +1,3 @@
-Posicionamento favorável do  DEM à Subemenda Substitutiva Global de Plenário ao Projeto de Lei 3.775 de 2008 (Institui  Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:41adbffce78aa3b166f31a5c48dbf945c14f79939f4b44e156735036c00d09da
+size 285

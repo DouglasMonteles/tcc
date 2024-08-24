@@ -1,1 +1,3 @@
-A Deputada expressou solidariedade aos donos da loja Zeigue, afetada por um grande incêndio em Rio Verde (GO. Elogiou a atuação eficaz dos Bombeiros, ressaltando o rápido controle das chamas, o envolvimento de 28 homens e a dedicação por quase 3 horas, parabenizando o Corpo de Bombeiros de Goiás pela intervenção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91f5317808c91ce899bd820357022e0f6758b9baf8c8ca3078a1c3a729e43bcb
+size 323

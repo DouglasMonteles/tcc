@@ -1,1 +1,3 @@
-Prioridade do Congresso Nacional na revisão do pacto federativo. Propostas apresentadas pela equipe econômica do Governo Federal a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4820c6ae656df947b1e3dd719333ffb980a6e605848dc6fbb55b529e3c08c7d
+size 150

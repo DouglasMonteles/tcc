@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido pela Relatora da Comissão de Defesa dos Direitos das Pessoas com Deficiência. Repúdio às ofensas do Deputado Zeca Dirceu ao Ministro da Economia, Paulo Guedes, durante reunião na Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fdcad36b9566fbbcabaadc4d3e6953525f4a2d1e6cdfab1b95415b6de2f9406
+size 301

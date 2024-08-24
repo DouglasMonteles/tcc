@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 2.758, de 2022, sobre a obrigatoriedade de instalação de berçários em instituições públicas e privadas de ensino superior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:523d85803b86d9e89c98c02b0d18edeb9bf6773b602811a1ec18c9b5383a0ae9
+size 166

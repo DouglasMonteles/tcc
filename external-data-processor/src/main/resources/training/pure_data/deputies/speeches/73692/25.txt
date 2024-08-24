@@ -1,1 +1,3 @@
-Protesto contra a libertação de jovem assassino no Estado do Rio Grande do Sul. Aperfeiçoamento da legislação penal no tocante à punição de criminosos portadores de transtornos mentais. Criação da Frente Parlamentar em Defesa da Primeira Infância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af96131747c5e223d29467ea8aeb025552c1e2c282cc0dfe36f962f17bff2c7d
+size 258

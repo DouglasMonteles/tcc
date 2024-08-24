@@ -1,1 +1,3 @@
-Associação do PPS à manifestação de pesar pelo falecimento do ex-Deputado Federal Affonso Camargo. Participação no 2º Fórum Internacional de Sustentabilidade sob o tema Sustentabilidade Econômica, Ambiental e Social da Amazônia e do Planeta, realizado em Manaus, Estado do Amazonas. Medidas socioambientais debatidas durante o evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:425d03eada9af494d18a699ff9c3746ca5d50dfced37f8fd8628e8f232ea224a
+size 345

@@ -1,1 +1,3 @@
-Denúncia do Governador do Estado do Amazonas pela Procuradoria-Geral da República por supostos desvios de recursos públicos utilizados no período da pandemia do coronavírus. Concentração de unidades de tratamento intensivo - UTI em Manaus. Instalação da CPI da Covid-19 no Senado Federal. Desempenho insatisfatório do Governo amazonense no combate à pandemia de Covid-19. Defesa de apuração de fatos relacionados ao enfrentamento da pandemia de Covid-19 no Estado do Amazonas pela CPI da Covid-19 do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dbf956048086bf6275e1513a2453a31d0d2bdb5e2dd70aeb6e3983e160aa34e
+size 528

@@ -1,1 +1,3 @@
-Publicação, pelo jornal O Estado de S. Paulo, de reportagens sobre a utilização do Programa Segundo Tempo, do Ministério do Esporte, para fins eleitorais e financeiros do PCdoB. Anúncio da apresentação, às Comissões de Fiscalização Financeira e Controle e de Turismo e Desporto da Casa, de Proposta de Fiscalização e Controle do Programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:199ac4335edada22c0d18fe998813c70a00a506de0b350519566e7ba2471a905
+size 352

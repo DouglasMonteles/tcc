@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados do conterrâneo do orador, Francisco Aramici, do Município de Maranguape, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:949c48fd2270924d9a4df6f345d82f6144916d0585e2f861872d18658fd49b7f
+size 127

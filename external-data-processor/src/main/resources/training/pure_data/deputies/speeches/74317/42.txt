@@ -1,1 +1,3 @@
-Participação do Secretário substituto da Receita Federal do Brasil em audiência pública na Comissão de Finanças e Tributação, da Casa, destinada à avaliação das contas do Governo Federal no período de janeiro a julho de 2009. Protesto contra o contingenciamento de recursos de emendas orçamentárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26d74365fcf70cba35d4110ce3e4d59b3389ea712ea8ac59466548ca42b7cbd9
+size 314

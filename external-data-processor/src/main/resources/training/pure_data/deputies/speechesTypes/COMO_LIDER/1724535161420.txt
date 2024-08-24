@@ -1,1 +1,3 @@
-Indignação do orador com a convocação do Ministro da Educação para esclarecimento à Casa sobre o corte de recursos da educação pública. Necessidade de votação de relevantes medidas provisórias pela Câmara dos Deputados. Defesa de manutenção do Conselho de Controle de Atividades Financeiras - COAF no âmbito do Ministério da Justiça e Segurança Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e8aafa0f6fc92595d94c890a013ae13eedfac03831426e28e3e7becd2c1f4a6
+size 374

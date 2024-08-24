@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial em Memória das Vítimas de Trânsito. Elevado número de acidentes de trânsito no Brasil. Ações do Congresso Nacional para aperfeiçoamento do Código de Trânsito Brasileiro. Maior rigor na fiscalização das ações de trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60c0885f04db3fa97afc638320220fc48ac9f70453b46a35396c24d2b50bdee2
+size 261

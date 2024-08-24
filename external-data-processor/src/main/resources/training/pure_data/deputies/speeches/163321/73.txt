@@ -1,1 +1,3 @@
-Críticas ao aumento do preço do óleo diesel anunciado pela Petrobras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e001df1fc791135968bb5438b036cf45c7da4832d5830cfeedd04ba834463fd7
+size 72

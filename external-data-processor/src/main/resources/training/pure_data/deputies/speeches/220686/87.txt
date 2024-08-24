@@ -1,1 +1,3 @@
-Fragilidade da fiscalização do transporte de material radioativo no País. Construção da Usina Nuclear Angra 3, no Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd5801cb4f514ebe907d5ea5aa38e99c51e55d5036b2c739a2b99e5b464dee51
+size 144

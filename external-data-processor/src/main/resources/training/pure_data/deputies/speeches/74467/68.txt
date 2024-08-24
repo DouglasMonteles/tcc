@@ -1,1 +1,3 @@
-Falecimento do ex-Governador do Estado da Paraíba Ronaldo Cunha Lima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6acf0b33ecc4e0dc5519a5163e7c2179dd1971bb63901724075c59098de4870
+size 70

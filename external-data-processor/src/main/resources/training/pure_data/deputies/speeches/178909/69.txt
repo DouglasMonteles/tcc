@@ -1,1 +1,3 @@
-Realização do Campeonato Brasileiro de Remo, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b434552c61999cbc1cd23eeaf850d8bd4faaabef773cb39afc1a5db8cba98a0
+size 78

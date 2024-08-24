@@ -1,1 +1,3 @@
-Associação ao discurso do Deputado Pastor Marco Feliciano contra a condenação, pelo Governo da República Islâmica do Irã, de cidadão iraniano à pena de morte em face sua conversão ao cristianismo. Solidariedade à Ministra-Chefe da Secretaria de Políticas para as Mulheres, Iriny Lopes, diante do lançamento de campanha em defesa da valorização da mulher. Excelência da atuação da Ministra-Chefe da Secretaria de Direitos Humanos, Maria do Rosário Nunes. Apoio à reivindicação de funcionários dos Correios contra o corte do ponto durante à greve da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceb0622e89295e28f0f560e8dbd68adeac7cfefdfde7f8adec29011d8037a53e
+size 582

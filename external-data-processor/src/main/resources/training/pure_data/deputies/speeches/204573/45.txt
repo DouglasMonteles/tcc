@@ -1,1 +1,3 @@
-Simplificação e inovação do sistema de câmbio brasileiro pelo Projeto de Lei nº 5.387, de 2019, a respeito do mercado de câmbio brasileiro, do capital brasileiro no exterior, do capital estrangeiro no País e da prestação de informações ao Banco Central do Brasil. Agradecimento aos Parlamentares pelo apoio à proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2389f4c0bfa51c04cc5b38930b595330e1f18428419527cd7a59c9ba1ceeed1c
+size 335

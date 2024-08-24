@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 2.767, de 2023, que regulamenta os programas de milhagem das companhias aéreas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:000ef247d0c9a8d05031f05c829caf46a47ca129c240b6d15c93ce4c98b8bd19
+size 174

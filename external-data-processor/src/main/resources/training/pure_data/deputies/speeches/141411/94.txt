@@ -1,1 +1,3 @@
-Defesa de autorização ao Supremo Tribunal Federal, pela Câmara dos Deputados, da investigação de denúncia apresentada pelo Procurador-Geral da República contra o Presidente Michel Temer por prática de corrupção. Conveniência de antecipação das eleições presidenciais diretas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55c8314d28916db06b71e91d4ea62ae70731ceb7ddf9ae000699dbaa093042b9
+size 290

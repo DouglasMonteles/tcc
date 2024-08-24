@@ -1,1 +1,3 @@
-Denúncia de liberação e uso indiscriminado de agrotóxicos no País. Omissão do Ministro da Saúde, Luiz Henrique Mandetta, na resposta ao requerimento de informações do orador sobre a liberação de novos defensivos agrícolas. Anúncio de promoção, pela Comissão de Direitos do Consumidor, de audiência pública para debate do assunto
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae6bf043378e63f16acb7031c4232aaf8828af271133490e973876110155f668
+size 346

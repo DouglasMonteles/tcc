@@ -1,1 +1,3 @@
-Efeitos do corte de recursos orçamentários do ensino público sobre o alunato cearense. Subserviência do Ministro da Educação ao Ministro da Economia, Paulo Guedes. Falta de comunicação do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fb797211197a69154f008db42b936b4cce18f9b5fd9c5d4bb3089cda8d10fcd
+size 219

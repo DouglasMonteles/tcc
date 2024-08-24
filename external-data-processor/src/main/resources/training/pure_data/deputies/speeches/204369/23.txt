@@ -1,1 +1,3 @@
-Transcurso dos aniversários de emancipação político-administrativa dos Municípios de Chapecó, Joaçaba, Herval d'Oeste, e Luzerna, Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df21db4065402600b779b70cda4588b98bd8cf4a310dff8e0b0e18f55c977116
+size 162

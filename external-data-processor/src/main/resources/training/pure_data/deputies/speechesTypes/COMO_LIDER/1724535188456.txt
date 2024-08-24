@@ -1,1 +1,3 @@
-Necessidade de resolução, pelo Presidente Jair Bolsonaro, de conflito envolvendo o Vice-Presidente da República, General Hamilton Mourão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bd9f612190740283c8e717abe0584407a80cb66b7fd1806ae28f129af3505e7
+size 141

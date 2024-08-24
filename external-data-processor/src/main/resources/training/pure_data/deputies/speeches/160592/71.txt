@@ -1,1 +1,3 @@
-Manifestações de caráter golpista por Lideranças do PSDB. Reiteração de apoio à Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6126400243449b8ecde1449dcdedd2ecfa672a649b60229a621d442eccf77a09
+size 113

@@ -1,1 +1,3 @@
-O Deputado saudou a volta à ativa do Presidente Lula após um procedimento cirúrgico e destacou a assinatura da Lei Complementar nº 136, de 2023, destinando recursos aos municípios. Mencionou a importância desses recursos para auxiliar os prefeitos diante das dificuldades financeiras e pediu atenção à Portaria nº 544, solicitando a liberação de recursos de custeio. Por fim, também reconheceu o empenho da União dos Municípios da Bahia, liderada pelo Prefeito Quinho, e ressaltou seu compromisso como ex-prefeito e parlamentar em defender o municipalismo e os interesses do povo baiano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e00a12c7606171b7832ada609d78cc127b36c1dd08348c6b5c9d582a2639e9b
+size 602

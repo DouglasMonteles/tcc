@@ -1,1 +1,3 @@
-Descaso do Governo Federal com a situação das rodovias brasileiras, especialmente com a BR-381. Queda de ponte sobre o Rio das Velhas, na rodovia, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38079a6add81f1bb3d80290b45428c2ce48ad2e585d904c625762d8cd22e0ccf
+size 172

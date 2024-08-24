@@ -1,1 +1,3 @@
-Acusação à Oposição de obstruir a votação da Medida Provisória  451 de 2008 (Altera a legislação tributária federal, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f867f8618bb16c10868231719dd6a4f454b8b97d2c87713c744e84a7ce5bdd93
+size 156

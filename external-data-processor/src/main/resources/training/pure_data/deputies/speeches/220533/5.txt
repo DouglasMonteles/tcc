@@ -1,1 +1,3 @@
-Aplausos ao servidor da Secretaria da Receita Federal do Brasil, Marco Antonio Lopes Santana, pela resistência contra a tentativa de militares e políticos de resgate de joias sauditas. Contrariedade à retomada da discussão da Proposta de Emenda à Constituição nº 32, de 2020, acerca da reforma administrativa. Tibieza do ex-Ministro de Minas e Energia, Almirante Bento Albuquerque, diante de pressões exercidas pelo ex-Presidente Jair Bolsonaro com relação ao episódio das joias sauditas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fd2eb1599e4770194127d7c9767f37b425f9b0d12869056679e4d5650776b29
+size 500

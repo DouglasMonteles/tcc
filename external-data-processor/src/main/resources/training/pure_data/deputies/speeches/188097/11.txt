@@ -1,1 +1,3 @@
-Solidariedade à Deputada Benedita da Silva diante da retirada, pelo Presidente da Fundação Cultural Palmares, da foto da Parlamentar da galeria nas grandes personalidades negras brasileiras. Imediata votação e rejeição da Medida Provisória nº 1.000, de 2020, para garantia do pagamento do auxílio emergencial de 600 reais a trabalhadores e famílias carentes. Regulamentação do Imposto sobre Grandes Fortunas, previsto na Constituição Federal. Retomada da taxação de lucros e dividendos. Revisão do Sistema Tributário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bd2f6aecd303d518dacc3da9165fe7a561149420e956de7e788e0d950bd3e41
+size 545

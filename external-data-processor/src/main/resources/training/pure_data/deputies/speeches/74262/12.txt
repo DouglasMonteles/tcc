@@ -1,1 +1,3 @@
-Improcedência do relatório apresentado pelo Deputado Odair Cunha na CPMI destinada à investigação do envolvimento de agentes públicos e privados com o contraventor Carlos Augusto Ramos, conhecido como Carlinhos Cachoeira. Expectativa de rejeição do texto pelo Plenário da Comissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3374e020e879f254249c74e3bc449379fb81a30de511d09c362cb3d38add080d
+size 291

@@ -1,1 +1,3 @@
-Apoio à chamada PEC dos Precatórios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb3899122f0dfad0aba7a79d71087e0557331ee62a701b9a8b920c2a62ea0fea
+size 38

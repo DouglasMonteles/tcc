@@ -1,1 +1,3 @@
-Criação da Agência Nacional de Assistência Técnica e Extensão Rural - ANATER.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0672d0c6e2302ca80148729ee6232a34503824328add373a0686f1058b31721f
+size 83

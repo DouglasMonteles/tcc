@@ -1,1 +1,3 @@
-Tramitação na Casa de matérias em prol da juventude brasileira. Investimentos do Governo Luiz Inácio Lula da Silva no ensino médio. Transcurso do 30º aniversário de fundação do Partido dos Trabalhadores - PT. Elogio ao Presidente da República. Redução dos juros incidentes sobre o Fundo de Financiamento ao Estudante do Ensino Superior - FIES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73bf812a31cbddc6f4e3cb1ec59b438922407b5d097eb7a4e1c151adec7a29e8
+size 355

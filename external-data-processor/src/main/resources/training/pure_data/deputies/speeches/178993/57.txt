@@ -1,1 +1,3 @@
-Repúdio à citação do nome do orador em reportagem do jornal Correio Braziliense, como participante de viagem à Europa por conta da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d21da374b39f223e030fe81709d30f3d19d89d774d7ad4d86b1efa817e071a4b
+size 141

@@ -1,1 +1,3 @@
-Solicitação aos Ministros da Infraestrutura, Tarcísio Gomes de Freitas, e da Justiça e Segurança Pública, Sergio Moro, de adoção de medidas em prol do Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05388df1b584d494be635705af448c11fbe70e351fd2d30d4f630b160eb0fc33
+size 181

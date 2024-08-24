@@ -1,1 +1,3 @@
-Papel do agronegócio no desenvolvimento econômico brasileiro. Defesa da proposta de emenda à Constituição sobre a criação do Fundo Especial de Desenvolvimento da Agricultura - FUNAGRI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1333d304fc9d44a7596fc162744abf0edee29535a52cd00c446d7703cc68f4b6
+size 191

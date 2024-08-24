@@ -1,1 +1,3 @@
-Indagação à Presidência sobre a manutenção de acordo de procedimento firmado pelos  Líderes para apreciação da Medida Provisória 449 de 2008 (Altera a legislação tributária federal relativa ao parcelamento ordinário de débitos tributários, concede remissão nos casos em que especifica, institui regime tributário de transição, e dá outras providências). .
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f7195c622a253bfc2dc349c03a473cf318514be4a1879b23e58ccf9350cb99d
+size 377

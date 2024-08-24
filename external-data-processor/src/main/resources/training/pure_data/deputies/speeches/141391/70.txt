@@ -1,1 +1,3 @@
-Criação, pelo Instituto Nacional de Processamento de Embalagens Vazias - INPEV, da empresa Campo Limpo Reciclagem e Transformação de Plásticos S/A, destinada ao reaproveitamento sustentável de embalagens de defensivos agrícolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ef8c57a183fc9c9ea5c1f4248c36fd4f89aa8676bdf9bd83795415c785ab863
+size 235

@@ -1,1 +1,3 @@
-Registro de voto. Caráter demagógico e inconsistente de pronunciamentos sobre o não recebimento de aposentadoria privilegiada por Deputados da Oposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:664d2b50f5a249c4a6df21256f9f033349435b99a7be783d2374a9aa0d8d8a14
+size 157

@@ -1,1 +1,3 @@
-Presença, na Casa, dos Vereadores Serginho Moraes, Rodrigo Rabuske e Nicole Weber, do Município de Santa Cruz do Sul, Estado do Rio Grande do Sul. Destinação de recursos orçamentários à municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6856414f6b9c92d59ac8d73ea4293d0ea1066ec1ef112b23b18f2eee86123b09
+size 208

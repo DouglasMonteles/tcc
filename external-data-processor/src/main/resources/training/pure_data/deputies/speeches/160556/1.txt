@@ -1,1 +1,3 @@
-Participação em encontro do Ministro dos Transportes, Alfredo Nascimento, com gestores municipais do Estado de Minas Gerais para debate sobre a duplicação da BR-040, trecho Belo Horizonte-Barbacena; a realização das obras do Anel Rodoviário de Belo Horizonte e da BR-381, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ddad2e5728144257f0750e095be118f71bccc2b942b04cd907f66b08deb2604
+size 289

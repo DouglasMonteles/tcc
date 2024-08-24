@@ -1,1 +1,3 @@
-Anúncio da apresentação de requerimento de criação da CPI destinada à investigação dos preços de passagens aéreas e a formação de cartel no setor. Regozijo com a canonização da Irmã Dulce. Criação da Rota do Turismo de Irmã Dulce, entre Aracaju e o Município de São Cristóvão, Estado de Sergipe. Apoio ao ato realizado por policiais civis do Estado de Sergipe em defesa do projeto de lei sobre a criação do cargo único de Oficial de Polícia Civil - OPC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:300336972b3e8abe752ce877ce23b17fa2169afb0c3febefb76934e000fe7b42
+size 479

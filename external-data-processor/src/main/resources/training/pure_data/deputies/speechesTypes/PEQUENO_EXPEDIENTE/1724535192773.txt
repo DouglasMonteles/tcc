@@ -1,1 +1,3 @@
-Urgente retomada das obras de ampliação do Aeroporto Internacional de Macapá, no Estado do Amapá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:845b58d8dfc9f09f0852ce946928c1abb54e55a8c3c50e097f57127ab99c8b9c
+size 101

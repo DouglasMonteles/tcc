@@ -1,1 +1,3 @@
-O Deputado encaminhou a votação da Medida Provisória nº 1.177, de 2023, que abre crédito extraordinário em favor do Ministério da Agricultura e Pecuária, no valor de R$ 200.000.000,00 (duzentos milhões de reais), para o fim que especifica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b46be09bafacc137e39176a037777036d5ad665c092be3441539a95eb4bab831
+size 248

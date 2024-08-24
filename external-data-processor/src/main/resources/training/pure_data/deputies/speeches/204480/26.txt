@@ -1,1 +1,3 @@
-Expectativa de recessão econômica durante o Governo Jair Bolsonaro. Críticas à política econômica adotada pelo Ministro da Economia, Paulo Guedes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc4ee27c6bd782802e4d26d488e497a11a1039c5fd82919e5cf0cd5ff5eb1dcc
+size 152

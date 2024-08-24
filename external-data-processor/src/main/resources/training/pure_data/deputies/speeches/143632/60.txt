@@ -1,1 +1,3 @@
-Apelo à Presidência de celeridade nos trabalhos com vistas ao início da sessão do Congresso Nacional destinada à apreciação do requerimento de votação, em regime de urgência, do veto presidencial aposto ao projeto de lei sobre a redistribuição de royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b02ef9d75268c106d9a6f75bac63189887058acbc2b2e2d00acdaea38294c4ab
+size 282

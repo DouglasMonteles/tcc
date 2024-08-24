@@ -1,1 +1,3 @@
-A Deputada proferiu parecer ao Projeto de Lei nº 2.117, de 2021, para afastar da competência da Justiça Militar os crimes cometidos com violência doméstica e familiar, quando praticados por militar da ativa contra militar na mesma situação. Por fim, expressou gratidão a todos os Parlamentares presentes, agradecendo especialmente à Presidente da Sessão, Deputada Maria do Rosário, e à Deputada Soraya Santos. Ressaltou a importância de continuar lutando para aumentar a representação das mulheres em todas as instância de poder, e destacou o engajamento da Ministra do Superior Tribunal Militar, Maria Elizabeth Guimarães Teixeira Rocha, na luta pelos direitos das mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63ea00db1ec7e8c2aec6cf6c94e4b484bce453796361fd3036d489342fef48b4
+size 692

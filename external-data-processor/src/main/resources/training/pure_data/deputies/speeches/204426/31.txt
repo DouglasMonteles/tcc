@@ -1,1 +1,3 @@
-Comemoração da Lei nº 11.326, de 2006, conhecida como a Lei da Agricultura Familiar; celebração da Semana Nacional da Agricultura Familiar, instituída pela Lei nº 13.776, de 2018; debate da sucessão nas pequenas propriedades rurais com a permanência dos jovens no campo, de ameaças à aposentadoria dos agricultores e do lançamento da Década da Agricultura Familiar, pela Organização das Nações Unidas - ONU em conjunto com o Fundo das Nações Unidas para a Alimentação e Agricultura - FAO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02c0e3254f0935c89382cb37915b20b6dd7ebf280e530246883244ddddbffdab
+size 509

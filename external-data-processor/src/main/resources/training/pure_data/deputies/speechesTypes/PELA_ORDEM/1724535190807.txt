@@ -1,1 +1,3 @@
-Apelo ao Ministro da Integração Nacional, Fernando Bezerra, de inclusão da microrregião de Guarabira, Estado da Paraíba, na área de abrangência do semiárido brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e6a9163b8b6bc84464c7e492719ee75c295d76e323e713c83eba1b0e9eb5600
+size 176

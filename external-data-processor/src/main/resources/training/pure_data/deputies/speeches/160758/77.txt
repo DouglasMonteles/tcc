@@ -1,1 +1,3 @@
-Suspensão da greve de professores no Estado de Minas Gerais. Valorização dos docentes brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b1023fbd0e12fcae16f4468959b2ef163fdc25946b9e3e42c6c002e81e5129b
+size 101

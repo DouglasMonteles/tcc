@@ -1,1 +1,3 @@
-Empenho do orador na universalização do Programa Luz para Todos e na melhoria da infraestrutura dos Municípios de Porto Velho e Pimenta Bueno, no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57ea3917c32c2e96fb8f57eb12f95752dc28893c6feb738f5ca05bb522cc28eb
+size 169

@@ -1,1 +1,3 @@
-O Deputado agradeceu a atuação da Consultoria Legislativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59a4e40edccc033823ccf1cd06bba90d4368a6c3afd4d5214288555dc2c9d984
+size 60

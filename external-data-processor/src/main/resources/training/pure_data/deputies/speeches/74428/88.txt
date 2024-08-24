@@ -1,1 +1,3 @@
-Razões da reconsideração pelo DEM  da obstrução da votação da PEC 416  de 2005 (Acrescenta o art. 216-A à Constituição para instituir o Sistema Nacional de Cultura).
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbe556d540a25ef363a5866e4e92b8af8fbc691ed1fe5a61c8770ff1c41c3e10
+size 175

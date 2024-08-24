@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido pela Relatora da Comissão de Seguridade Social e Família ao Projeto de Lei nº 1.389, de 2020, sobre a transposição e a transferência de saldos financeiros constantes dos Fundos de Assistência Social dos Estados, do Distrito Federal e dos Municípios, provenientes de repasses federais, apurados até dezembro de 2019, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24f5d4d68834ff75fef9ec8b616e8b6c2c34b50d92b77e42c1373950d5b68b56
+size 413

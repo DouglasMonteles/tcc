@@ -1,1 +1,3 @@
-Aprovação pela Casa do Projeto de Lei Complementar nº 16, de 2021, sobre a alteração da sistemática de cobrança do ICMS incidente sobre combustíveis. Protesto contra o novo reajuste nos preços de combustíveis, determinado pela empresa Petróleo Brasileiro S/A - PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e197579e453e48c5eef9e7a2639fe2f1e01dd3ba6d318c415e9f8295b050c364
+size 282

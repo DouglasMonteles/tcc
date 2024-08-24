@@ -1,1 +1,3 @@
-O Deputado fez críticas ao Governo Luiz Inácio Lula da Silva. Apontou que o governo está deixando um legado de promessas não cumpridas, incluindo um posicionamento favorável ao aborto, à legalização das drogas e à realização de tratamento hormonal para adolescentes que desejam mudar de sexo. Também expressou sua preocupação com a situação financeira do País, destacando um grande rombo fiscal nos primeiros meses de 2023 e a proposta controversa de adquirir um avião presidencial caro. Ele fez um apelo aos parlamentares para que priorizem a defesa dos valores da vida e da família, enfatizando a importância de manter a ordem e o progresso na Nação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e63bce84a09511ef1563cec80ef425776228ae480e1730945b54aa5c842fa428
+size 674

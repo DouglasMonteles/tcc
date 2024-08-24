@@ -1,1 +1,3 @@
-Descompasso entre os excessivos benefícios concedidos a detentores de altos salários, e os reduzidos auxílios das classes menos favorecidas. Criação pelo orador do Projeto Milhas do Bem, sobre a destinação de milhas aéreas a instituições beneficentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45fa3bedb5e036d131b1f9584fff4d89a72aaa84e6ff51837dca53192f0ff89d
+size 261

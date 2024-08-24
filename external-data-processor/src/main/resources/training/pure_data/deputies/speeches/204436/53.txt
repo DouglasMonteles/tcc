@@ -1,1 +1,3 @@
-Congratulações ao Líder do Governo no Congresso Nacional, Senador Eduardo Gomes. Importância da construção de acordo para a votação do Veto Total nº 36, de 2020, aposto ao Projeto de Lei nº 1.826, de 2020, sobre o pagamento, pela União, de compensação financeira aos profissionais e trabalhadores de saúde incapacitados para o trabalho em face da Covid-19;  bem como do Veto Parcial nº 3, de 2021, aposto ao Projeto de Lei de Conversão nº 41, de 2020, (oriundo da Medida Provisória nº 996, de 2020), sobre a instituição do Programa Casa Verde e Amarela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ceb38f250cdfa1b619d63e51ebb32602b8a1484229e39225a8542356f9bfa59
+size 574

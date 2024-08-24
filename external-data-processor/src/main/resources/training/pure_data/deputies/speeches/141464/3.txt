@@ -1,1 +1,3 @@
-Lançamento do Programa Territórios da Cidadania pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d93be826a6e60175b2d8440b6ff819e4623e00bbb8b3d9c6d7bc9c7ebcbdd88
+size 93

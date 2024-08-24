@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado de Goiás pela recondução do orador à Casa. Defesa de continuidade do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddedc38872ba739047f206718a94de944da539f88586b8b44aaf0fef4809b65d
+size 134

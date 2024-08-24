@@ -1,1 +1,3 @@
-Debate sobre a situação financeira dos Municípios brasileiros.  Defesa da autonomia municipal. Ponderações sobre a vinculação de  recursos do Fundo de Participação dos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b60eade1c20b1f847a8e0aca68c5731f67cc7c5db42448fdbc104022ab401b72
+size 189

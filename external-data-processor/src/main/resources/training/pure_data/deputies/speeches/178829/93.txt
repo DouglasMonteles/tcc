@@ -1,1 +1,3 @@
-Agradecimentos aos Parlamentares signatários de proposta de emenda à Constituição, de iniciativa do orador, com vistas ao reconhecimento do caráter indenizatório da verba Regime Especial de Trabalho Policial, dos policiais civis, militares e técnico-científicos, e da consequente não incidência de Imposto de Renda. Apoio à causa dos permissionários de agências lotéricas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c7a4708f5ebb78c24ef1462aa1ca6cb71e56140eb71f82100f1a5b812972cd2
+size 395

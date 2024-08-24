@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios. Saudações aos participantes no evento, em especial aos do Estado do Acre. Importância de atendimento à pauta de reivindicações dos gestores municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:824b343d8032f30448e99e6cd8e1c4c4012b1a6744e4aaf8dce43676eb8671b6
+size 224

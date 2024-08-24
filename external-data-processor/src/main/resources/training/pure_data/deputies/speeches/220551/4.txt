@@ -1,1 +1,3 @@
-A Deputada abordou a importância da igualdade e tratamento isonômico, especialmente no contexto das deficiências. Ela destacou a necessidade de considerar as limitações específicas de pessoas com surdez unilateral, ressaltando que essa condição também apresenta desafios significativos. Alertou sobre a urgência de derrubar o Veto nº 58, de 2022, para garantir aos surdos unilaterais os mesmos direitos concedidos a outros deficientes auditivos. Enfatizou a discriminação existente e instou os Parlamentares a mobilizarem-se para corrigir essa situação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9e703c1453a58119495a399cce27b12d8d33687efadb1ef0d7a7292621beb5f
+size 568

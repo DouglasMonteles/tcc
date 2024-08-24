@@ -1,1 +1,3 @@
-Malefícios causados à saúde humana pela ingestão de bebidas alcoólicas. Combate ao alcoolismo entre a juventude brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:454fcc534f17d26e0974fd793c17fe3e998bc38f0e08b34a0dfa4b2f39f18c13
+size 128

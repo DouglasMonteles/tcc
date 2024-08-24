@@ -1,1 +1,3 @@
-Visita, à Casa, de Vereadores dos Municípios de Caicó e Apodi, Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec7dd90f9be8f0ed26f436f78369be74993465f93ff5acbd83f3dd6759529e6e
+size 96

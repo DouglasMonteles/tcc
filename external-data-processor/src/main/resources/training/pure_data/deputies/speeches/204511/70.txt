@@ -1,1 +1,3 @@
-O Deputado apoiou a aprovação pelo Senado Federal da Proposta de Emenda à Constituição (PEC), que visa limitar os poderes do Supremo Tribunal Federal (STF), para restabelecer o equilíbrio entre os Poderes. Defendeu o mandato fixo e as eleições para escolha dos Ministros dos Tribunais Superiores, como ocorre nos Estados Unidos, a fim de evitar possíveis abusos e excessos. Além disso, lamentou a morte de um cidadão preso, sem condenação criminal, devido a decisão abusiva de um Ministro do STF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70214276824be8d963d6a3f3c3c5708a2c76997345f94c0876e887dcb493b73b
+size 510

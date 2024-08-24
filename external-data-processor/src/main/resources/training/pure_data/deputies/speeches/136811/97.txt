@@ -1,1 +1,3 @@
-Realização do Frutal Cone Sul 2009, no Município de Bento Gonçalves, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63de5dc3357f9fa377d067c0b7eb94847bb64e2a614846d5fc725f227038d78b
+size 101

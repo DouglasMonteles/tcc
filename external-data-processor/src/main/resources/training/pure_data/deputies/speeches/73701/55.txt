@@ -1,1 +1,3 @@
-Importância de votação pela Casa do novo Código Florestal brasileiro. Contrariedade à proposta dos partidos oposicionistas de convocação do Ministro-Chefe da Casa Civil, Antonio Palocci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:586bd2829bdef31080d4a6087ab8b247f2beb162e30e1f8e5c2b25c2f0d0925a
+size 193

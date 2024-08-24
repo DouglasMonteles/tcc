@@ -1,1 +1,3 @@
-- Registro de voto. Solicitação à Presidência de registro do voto dos Deputados Orlando Silva, Luis Tibé, Junior Marreca, Chico Alencar, Arnaldo Jordy, Luzia Ferreira, Leandre, João Derly e Shéridan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5606d3794494ced65703ad4660346da02262448f6e50508f283668d9e04967b
+size 206

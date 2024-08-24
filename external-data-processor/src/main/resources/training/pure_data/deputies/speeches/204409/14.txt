@@ -1,1 +1,3 @@
-Visita do Vereador Cristiano Costa Bassini, o Cris Costa, do Município de Encantado, Estado do Rio Grande do Sul, à Câmara dos Deputados. Construção do monumento Cristo Protetor na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:944c0dfcd600b18908b202661ba8a86e8673627b4cfacf0428222c02c78b5364
+size 201

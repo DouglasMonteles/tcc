@@ -1,1 +1,3 @@
-Orientação da respectiva bancada na votação do requerimento de urgência para tramitação do Projeto de Lei Complementar nº 343, de 2017, de autoria do Poder Executivo, que institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e96e3a8a1b38f72b405eb3f38b806a0483e29d94def8011c4681e50f9f6862b
+size 255

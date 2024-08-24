@@ -1,1 +1,3 @@
-Agradecimento aos eleitores paulistas pela eleição do orador. Retrospecto da trajetória profissional do orador e da sua atuação no cargo de Ministro da Indústria, Comércio Exterior e Serviços. Linhas de atuação do Parlamentar na Câmara dos Deputados. Expectativa de avanço nas investigações sobre o atentado contra o então candidato à Presidência da República, Jair Bolsonaro. Exigência de identificação e punição dos assassinos da Vereadora Marielle Franco, ocorrido no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff8270f7bbe8938a00c297867ec74977dc9d67058604b176f6b66c81684b2061
+size 535

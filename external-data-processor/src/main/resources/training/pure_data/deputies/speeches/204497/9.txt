@@ -1,1 +1,3 @@
-Falecimento do médico ex-Deputado Estadual do Pará, Haroldo Martins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6e2bf2b827d66eec9a7dbdbad0e033146fc655f8d3ff7d020dd804feeb414be
+size 70

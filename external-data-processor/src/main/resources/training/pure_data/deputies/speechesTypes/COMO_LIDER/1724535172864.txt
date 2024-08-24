@@ -1,1 +1,3 @@
-Apelo à Presidenta Dilma Rousseff e ao Secretário do Tesouro Nacional, Arno Augustin, de manutenção do funcionamento dos postos da Companhia Nacional de Abastecimento - CONAB localizados nos Municípios de Itaporanga, Sousa e Catolé do Rocha, no Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f43a658739a2df4eae133d50d1ad3508796c5bd287e4510d2ba8a385319cb1d4
+size 270

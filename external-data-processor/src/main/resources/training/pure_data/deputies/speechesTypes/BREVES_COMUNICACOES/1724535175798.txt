@@ -1,1 +1,3 @@
-Realização, no Auditório Nereu Ramos, de reunião de Prefeitos e Parlamentares favoráveis à aprovação da emenda apresentada pelos Deputados Ibsen Pinheiro e Humberto Souto ao projeto de lei referente à distribuição de royalties de petróleo da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b08d3e72bf48d9fc6dddc1d9ff881d7a4d14a2abf63cef3a2f23e49e4189f0c
+size 270

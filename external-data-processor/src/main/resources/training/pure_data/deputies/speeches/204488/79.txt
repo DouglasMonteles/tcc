@@ -1,1 +1,3 @@
-Filiação do orador aos quadros do PSD. Urgente necessidade de aprovação do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira. Regozijo com a aprovação do requerimento de apreciação da propositura em regime de urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0797d56dd34b22942c1bb2517c7dfa06121495e8a70b4c0081fd59b597f3d03e
+size 306

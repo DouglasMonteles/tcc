@@ -1,1 +1,3 @@
-Presença em plenário da jovem cientista Alia Al Mansoori.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67cee5e43f3fad9aa6960690bf0524f230e8da78a635381de5820b939e24372c
+size 59

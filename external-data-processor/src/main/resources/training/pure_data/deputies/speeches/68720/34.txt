@@ -1,1 +1,3 @@
-Apelo aos membros do Supremo Tribunal Federal por não redução da jornada de trabalho e dos vencimentos dos servidores públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ef50718df0e803b2d9bd6de5e7521eca943cce110246f5ec05662e74e667880
+size 131

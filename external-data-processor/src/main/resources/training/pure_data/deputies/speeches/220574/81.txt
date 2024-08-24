@@ -1,1 +1,3 @@
-Reiteração do apelo ao Governador do Estado da Paraíba de suspensão da cobrança de contribuição previdenciária dos policiais militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e2c09caf1fb5b434325bb1f8b19df223d1335595a3ae030d7b35a192d342edb
+size 143

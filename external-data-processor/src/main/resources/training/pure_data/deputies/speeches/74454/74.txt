@@ -1,1 +1,3 @@
-Lançamento pelo Conselho Nacional de Igrejas Cristãs do Brasil - CONIC da Campanha da Fraternidade Ecumênica de 2010, com o tema Economia e Vida e o lema Vocês não podem servir a Deus e ao dinheiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e539ea68b455113569fb42b9b93789aef915e51b8600364bfeff35cfdb72144
+size 203

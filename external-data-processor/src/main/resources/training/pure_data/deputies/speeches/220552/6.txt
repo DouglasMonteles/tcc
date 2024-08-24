@@ -1,1 +1,3 @@
-Perda de safras de soja e milho no Estado do Rio Grande do Sul. Protesto contra a invasão de propriedades rurais produtivas no País pelo Movimento dos Trabalhadores Rurais Sem Terra. Defesa de criação da CPI do MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03050a66304ca5e55cdb63b1975c2841a26308b1a6df00871b525cb241d17830
+size 219

@@ -1,1 +1,3 @@
-Questão de ordem sobre  verificação de quórum para início da sessão extraordinária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21344ddcc593ea91609daab55f335a126e058b8d8aebd7925a99dce43c91a5bc
+size 90

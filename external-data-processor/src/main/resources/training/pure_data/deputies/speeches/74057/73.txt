@@ -1,1 +1,3 @@
-Realização do carnaval  no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06e054218878caec2c4bc4ec31574c686d296bad7e11807bf61fc0ac6ee7397a
+size 45

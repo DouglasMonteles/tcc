@@ -1,1 +1,3 @@
-Presença, na Casa, da Prefeita Paula Mascarenhas e do Vice-Prefeito e Secretário Municipal de Desenvolvimento Rural, Idemar Barz, do Município de Pelotas, Estado do Rio Grande do Sul. Realização da Feira Nacional do Doce — FENADOCE, em Pelotas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb925540309a7936a683a28aa6ceac66c18a25dde08656c84a9371312d060e7a
+size 251

@@ -1,1 +1,3 @@
-Questionamento acerca dos verdadeiros benefícios ao consumidor decorrentes da aprovação da proposta de criação do cadastro positivo. Interesses subjacentes constante da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1464588642c9a31b75ca9950b421df28975381d488f265d8323c9a6ddfa364e2
+size 187

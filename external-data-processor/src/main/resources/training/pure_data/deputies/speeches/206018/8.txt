@@ -1,1 +1,3 @@
-Realização do chamado Abril Indígena. Participação da Ministra dos Povos Indígenas, Sônia Guajajara, em audiência pública na Comissão da Amazônia e dos Povos Originários e Tradicionais. Participação da Parlamentar em intercâmbio de povos indígenas da América Latina realizado no Chile. Lançamento da Frente Parlamentar Mista em Defesa dos Direitos dos Povos Indígenas. Importância da apresentação, à Medida Provisória nº 1.165, de 2023, de emenda destinada ao fortalecimento da saúde indígena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7aa13d0b4d15c51244dd3beac6f94b3c2b431295dc5ce2f26d28e3ef23b1b621
+size 520

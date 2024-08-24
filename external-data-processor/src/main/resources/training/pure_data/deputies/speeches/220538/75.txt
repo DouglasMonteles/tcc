@@ -1,1 +1,3 @@
-Necessidade de observância, pelo Tribunal Superior Eleitoral, do princípio constitucional da anualidade no processo de alteração da representatividade na Câmara dos Deputados e nas Assembleias Legislativas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f075ae6e52be5a323051239872c0590d0177448bff8f48db9cd3c3525deea8a9
+size 211

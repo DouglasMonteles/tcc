@@ -1,1 +1,3 @@
-Discussão da Medida Provisória nº 1.165, de 2023, sobre a instituição da Estratégia Nacional de Formação de Especialistas para a Saúde, no âmbito do Programa Mais Médicos. Fortalecimento do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ffaab87dec7ff87527204830033dc2fd423f18af0dd67254747b4f087a2b4e4
+size 232

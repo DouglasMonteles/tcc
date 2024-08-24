@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM  ao Requerimento de discussão artigo por artigo da Medida Provisória 567 de 2012 (Altera o art. 12 da Lei 8.177 de 1991, que estabelece regras para a desindexação da economia, e dá outras providências). Solicitação, nos termos regimentais, de nulidade de deliberações de Comissões que estão reunidas simultaneamente com a Ordem do Dia dem Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b4b34fcdc9c4184a00a7f47127d660359a5c5f50837c8cd41cf62385ca68b61
+size 394

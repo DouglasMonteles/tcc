@@ -1,1 +1,3 @@
-Prática de mentiras como característica dos Deputados do PT. Contestação a discurso de Deputado petista sobre a omissão do Governo Jair Bolsonaro na realização de investimentos na área da saúde, especialmente para enfrentamento da pandemia de Covid-19. Apresentação de moção de louvor a policial militar feminina pela reação contra assaltante. Repúdio ao reajuste dos próprios salários pelos Vereadores da Câmara Municipal de Piúma, Estado do Espírito Santo. Imediata instalação de CPMI para investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9659d14e80782de1b676e186ede088da9e9ba88badc4aa83fa0f9d3dafc25f6b
+size 609

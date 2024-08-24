@@ -1,1 +1,3 @@
-Pedido aos Presidentes da Câmara dos Deputados e do Senado Federal de devolução, ao Poder Executivo, da Medida Provisória nº 886, de 2019, sobre a transferência para o Ministério da Agricultura, Pecuária e Abastecimento da responsabilidade pela demarcação de terras indígenas, de quilombolas e da agricultura familiar. Ajuizamento pelo PT de ação direta de inconstitucionalidade da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48e3c8310e05cbe90b42d3c4b291d93357e982a1ff166b8f85e348f535fcca5c
+size 408

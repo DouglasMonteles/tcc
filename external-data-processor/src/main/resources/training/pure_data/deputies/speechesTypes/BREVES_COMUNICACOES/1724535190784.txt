@@ -1,1 +1,3 @@
-Realização da Expoagro Dourados 2023, no Estado do Mato Grosso do Sul. Repúdio às críticas do Presidente da República aos produtores rurais e ao agronegócio brasileiro. Retração dos negócios das empresas de maquinários e implementos agrícolas. Início dos trabalhos da CPI do MST. Conivência de Parlamentares com a invasão de propriedades rurais produtivas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8e687b81fe57d7b8a497cc669bf77d0287f961c84e960c61a1ae574cc76b7a5
+size 380

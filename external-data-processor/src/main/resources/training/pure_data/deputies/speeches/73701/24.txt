@@ -1,1 +1,3 @@
-Associação da Presidência à manifestação de pesar pelo passamento do ex-Governador Jackson Lago.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dbd6509a8df10ae2dbe5ab1a496c48b990a937b7795e3daaee3db6393372588
+size 102

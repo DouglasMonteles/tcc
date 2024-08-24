@@ -1,1 +1,3 @@
-Repúdio à aprovação, pela Câmara Municipal de Sobral, Estado do Ceará, de projeto de lei encaminhado pelo Poder Executivo sobre a realização, pela Guarda Municipal, dos serviços de proteção e segurança de ex-gestores municipais. Solicitação ao Ministério Público de investigação do caso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fae2aa8c947ff6a8609e4855ccfde94fc41d44c4b27dc89436b6466a1f43cdc
+size 305

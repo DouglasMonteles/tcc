@@ -1,1 +1,3 @@
-Enaltecimento do papel da Câmara dos Deputados, ao ensejo da despedida do orador da Casa para assunção da Prefeitura Municipal de Olinda, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b4de7193253bba433114900c515044c3b4275895ab0aa4728a5b331c73d7226
+size 162

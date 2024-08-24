@@ -1,1 +1,3 @@
-Defesa de valorização do trabalho dos motoristas e cobradores de ônibus em Salvador, Estado da Bahia. Protesto contra a perseguição contra motoristas de transporte alternativo. Contrariedade à disseminação da ideologia de gênero entre as crianças.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8045bd3730538c018301e541f202f8094db9589acf1dd9060b359ab6f4bcd022
+size 257

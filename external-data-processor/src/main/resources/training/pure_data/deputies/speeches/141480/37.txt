@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Meio Ambiente. Defesa de conciliação entre a produção agrícola e a preservação ambiental, especialmente quanto à biodiversidade. Importância do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:219e1cce2de32c82473634b86ca74f0c433b6220f7fc28835fb57e883065ea3b
+size 216

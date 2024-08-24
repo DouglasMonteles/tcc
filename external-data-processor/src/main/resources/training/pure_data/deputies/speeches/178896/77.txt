@@ -1,1 +1,3 @@
-Presença no plenário do Vice-Prefeito Álvaro Cordeiro, do Município de Papagaios, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:478c2f056b1d1a6cfb5ab3228558218704d165d33a12f0e764519db1c8d38342
+size 109

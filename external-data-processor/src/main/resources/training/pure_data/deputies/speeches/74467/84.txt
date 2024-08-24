@@ -1,1 +1,3 @@
-Encontro do Governador do Estado da Paraíba, Ricardo Coutinho, com a Presidenta da PETROBRAS, Maria das Graças Silva Foster, para discussão do anunciado encerramento das operações da estatal no Porto de Cabedelo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6abbe27dcec7d3bdc77c2e2b8c4dc86763055e7f5b4d781c2382e14bee47deb3
+size 217

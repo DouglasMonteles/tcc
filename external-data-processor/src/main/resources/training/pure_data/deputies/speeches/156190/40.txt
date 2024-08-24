@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição nº 2, de 2015, sobre a adoção do orçamento impositivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf46acc36134e16e3baaac96de8a1c5d0d2c81c0dfb1ef0ff13602c57be9388f
+size 172

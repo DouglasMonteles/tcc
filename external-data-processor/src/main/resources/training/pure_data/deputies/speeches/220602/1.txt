@@ -1,1 +1,3 @@
-Prejuízos causados à população em geral pela instalação, em áreas urbanas, de barricadas impeditivas de acesso do poder público. Apelo aos Parlamentares de criação de frente parlamentar de combate às barricadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e463619d5a99505ae0c8a42274c1d4400be661ba07bde8ee3ce4c4369cfa97de
+size 222

@@ -1,1 +1,3 @@
-Repúdio ao discurso proferido por Deputado do Estado do Paraná contra o orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db2835d4fc0fbd218d9d658adac5ac807d6643c07b04d020c6cdbaae142f93bf
+size 81

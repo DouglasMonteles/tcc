@@ -1,1 +1,3 @@
-Empenho do orador na transformação de agências lotéricas em concessionárias da Caixa Econômica Federal. Necessidade de aumento dos valores repassados aos agentes lotéricos pela prestação de serviços bancários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:919623f7445061cfa1b3d9b49cd0bf47c6bd950debd2b05c01dc55853f10b5c8
+size 220

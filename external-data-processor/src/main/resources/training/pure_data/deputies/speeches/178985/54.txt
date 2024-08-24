@@ -1,1 +1,3 @@
-Realizações do Conselho Geral Internacional da Sociedade de São Vicente de Paulo, sob a presidência do jornalista Renato Lima de Oliveira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c3a3b904aab68db97a2cca783cc98fc13c5b89784836b2e4de2f78654879e25
+size 142

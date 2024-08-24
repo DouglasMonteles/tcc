@@ -1,1 +1,3 @@
-Transcurso do 45º aniversário de fundação da Igreja Universal do Reino de Deus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:936c2b96ad8d380de2ed8594815474708e14e19d7141bf52707c0c073c50146d
+size 83

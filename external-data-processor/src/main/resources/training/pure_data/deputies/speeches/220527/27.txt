@@ -1,1 +1,3 @@
-Realização de movimento dos profissionais da educação no Município de Vitória, organizado pelo Sindicato dos Trabalhadores em Educação Pública do Espírito Santo - SINDIUPES. Aprovação do Projeto de Lei do Congresso Nacional nº 5, de 2023, sobre a alocação de recursos para custeio do piso salarial nacional dos profissionais da enfermagem e da parteira. Sanção da Lei nº 14.554, de 2023, relativa à flexibilização das condições de contratação e renegociação de operações no âmbito do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte PRONAMPE.&nbsp;Defesa de aprovação do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b2c4e239524494aa78df50a5f8c310d4e8d52d71516141264d090113d3398f9
+size 793

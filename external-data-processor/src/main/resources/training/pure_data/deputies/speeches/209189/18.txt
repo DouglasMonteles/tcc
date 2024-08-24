@@ -1,1 +1,3 @@
-Anúncio da realização de mobilização contra o corte de recursos destinados à educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d859e6ea524e1719328a81e971e56396e96def19405021adc08c4b81f1ade570
+size 94

@@ -1,1 +1,3 @@
-Melhoria dos indicadores macroeconômicos e sociais do País. Êxito dos programas sociais do Governo Federal. Defesa da valorização do setor produtivo no âmbito da reforma tributária. Importância do fortalecimento das relações de trabalho no Brasil. Conveniência da aprovação da proposta de reconhecimento legal de centrais sindicais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a20232542c68107265fc1cebf4e5207c808091c1d8e614818c71cb376761a52
+size 345

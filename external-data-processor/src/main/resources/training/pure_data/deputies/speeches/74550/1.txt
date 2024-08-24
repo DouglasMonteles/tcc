@@ -1,1 +1,3 @@
-Participação do Ministro das Cidades, Márcio Fortes, na cerimônia de lançamento do Programa de Aceleração do Crescimento — PAC em favelas do Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff7ab7f925d4cb73e508e23176711fc08303cfb9c323056b1c3c616758efb446
+size 191

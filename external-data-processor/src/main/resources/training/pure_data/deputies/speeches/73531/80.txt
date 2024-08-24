@@ -1,1 +1,3 @@
-Repúdio ao posicionamento da Advocacia-Geral da União em defesa do Cel. Carlos Alberto Brilhante Ustra, denunciado por prática de tortura durante o período de exceção.  Conveniência de abertura dos arquivos da ditadura militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cb75729d258af6508f5aee50995858709a7acafa66f2f0697ee7450bed72d96
+size 234

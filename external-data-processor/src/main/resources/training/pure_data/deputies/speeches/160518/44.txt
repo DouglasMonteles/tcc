@@ -1,1 +1,3 @@
-Lançamento do Plano Nacional de Banda Larga. Apelo ao Governador do Estado de Minas Gerais, Antonio Augusto Anastasia, e aos demais Governadores de extinção da cobrança do ICMS incidentes sobre os serviços da Internet. Aprovação, pela Comissão de Defesa do Consumidor, de projeto de lei sobre a obrigatoriedade de aviso prévio para corte do fornecimento de serviços essenciais. Encontro do orador com o Vice-Presidente da República, Michel Temer, para discussão sobre o Plano Nacional de Combate às Drogas. Necessidade de fortalecimento dos serviços de vigilância nas regiões de fronteira. Precariedade dos serviços de fornecimento de energia elétrica no País, especialmente em Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:148ec16c1d5ace26271bfc923c185dc343fa30d6f05173c2feb8c91c1f872ab3
+size 710

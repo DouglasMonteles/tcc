@@ -1,1 +1,3 @@
-Ratificação de acordo para aperfeiçoamento do texto da   Emenda 44, destacada, ao Projeto de Lei de Conversão 4 de 2013 da Medida Provisória 589 de 2012 (Dispõe sobre o parcelamento de débitos junto à Fazenda Nacional relativos às contribuições previdenciárias de responsabilidade dos Estados, do Distrito Federal e dos Munícipios), que institui programa de parcelamento de débito previdenciário das Santas Casas de Misericórdia, entidades hospitalares sem fins lucrativos, entidade de saúde de reabilitação de pessoas com deficiência, sem fins lucrativos e demais entidades sem fins econômicos da área de saúde, assistência social e educação  e inserção da matéria em outra medida provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e14914ae10239094459ac4663940e064bc10afe97e3d657da5a5abe4a69b60f
+size 723

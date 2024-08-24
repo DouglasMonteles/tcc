@@ -1,1 +1,3 @@
-Sessão Solene em homenagem ao  Dia de Oração e Ação pela Criança.(As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:013d086190740e414c55077d47b53095abe4f1e2ebd85d2f45ea1df53e168bb8
+size 204

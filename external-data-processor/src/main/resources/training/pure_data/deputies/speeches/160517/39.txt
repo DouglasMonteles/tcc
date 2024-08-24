@@ -1,1 +1,3 @@
-Importância da Defensoria Pública. Atuação da Defensoria Pública do Município de Colatina, Estado do Espírito Santo, em defesa de famílias inscritas no Programa Minha Casa, Minha Vida. Conveniência de revisão, pela Caixa Econômica Federal, do processo de reavaliação de cadastro para fins de cálculo da prestação de mutuários. Posicionamento do orador contrário ao projeto de lei, aprovado pelo Senado Federal, a favor da distribuição de royalties de petróleo da camada pré-sal entre os Estados e Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84a469d09e1abe0d2dff99e286e4837dc6b946497113c150b47b272ca5bd5bad
+size 543

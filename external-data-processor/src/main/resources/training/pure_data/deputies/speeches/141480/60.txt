@@ -1,1 +1,3 @@
-Registro de presença na Casa dos alunos do curso de Direito da Faculdade Curitibana e da Faculdade Paranaense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ecc5139f1badc7471ddbba1497913dda60dfc6960f823cee7c95251318c0eca
+size 111

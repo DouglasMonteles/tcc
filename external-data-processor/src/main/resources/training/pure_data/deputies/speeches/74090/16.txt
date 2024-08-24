@@ -1,1 +1,3 @@
-Transcurso do 122º aniversário de fundação do Município de Lábrea, Estado do Amazonas. Inaugurações de obras públicas no Município.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06d1f7cb15034bd303e91e8b214f21542d6da9be46bab6989d9e8a64489a1bcd
+size 141

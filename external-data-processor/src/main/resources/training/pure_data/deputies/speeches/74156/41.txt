@@ -1,1 +1,3 @@
-Participação em sessão solene realizada pela Câmara de Vereadores de Teófilo Otoni, Estado de Minas Gerais, ao ensejo do transcurso do 40º aniversário de criação da Empresa Brasileira de Correios e Telégrafos — ECT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce0663b3439179aee40059d1ddd5fdee4b6c9f549cbaeafdf7779dccd70d63f5
+size 227

@@ -1,1 +1,3 @@
-Homenagem  in memoriam ao poeta pernambucano João Cabral de Melo Neto. Defesa de criação, pelo Governo do Estado da Paraíba, da Secretaria de Energia para gerenciamento da produção de energia fotovoltaica e eólica; e da Secretaria de Transição Digital para absorção de novas tecnologias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88cda23cc282dfc77f229c85e64584a190b6ca1805201edba8374d6fcf738b8a
+size 298

@@ -1,1 +1,3 @@
-Consulta ao Plenário sobre possibilidade de acordo para votação de emenda ao Projeto de Lei de Conversão da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação – EBC, e dá outras providências) relativa à localização da sede da Empresa Brasil de Comunicação — EBC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20df9802fc5ded6ebbdc4eea3d7906c8da48e8fb13f4c73c280990c7d303ecf4
+size 499

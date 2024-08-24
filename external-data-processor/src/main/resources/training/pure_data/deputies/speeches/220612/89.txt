@@ -1,1 +1,3 @@
-Repúdio à proposta do Ministério da Agricultura, Pecuária e Abastecimento de reestruturação da Comissão Executiva do Plano da Lavoura Cacaueira - CEPLAC. Defesa do diálogo do tema com produtores de cacau e órgãos de pesquisa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edc31f8e2d388304834c058dbce941d02a8ff992f7b32e84b61bfb64abb6bae2
+size 235

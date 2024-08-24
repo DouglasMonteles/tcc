@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de aprovação do Projeto de Lei do Congresso Nacional nº 5, de 2023, sobre a alocação de recursos para o custeio do piso salarial nacional dos profissionais da enfermagem e da parteira; e de rejeição do Veto Parcial nº 43, de 2022, aposto ao Projeto de Lei nº 2.564, de 2020, acerca da alteração da Lei nº 7.498, de 1986, com vista à instituição do piso salarial da enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6ba9349904a5cc9a85023dbf1da2f48fa894a3d4ad65a5f0cc0e03c0c4e8b3f
+size 416

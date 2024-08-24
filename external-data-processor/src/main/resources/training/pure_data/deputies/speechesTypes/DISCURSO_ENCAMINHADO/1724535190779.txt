@@ -1,1 +1,3 @@
-O Deputado abordou a distribuição recorde de recursos pela Lei Rouanet, destacando um valor de 16,3 bilhões de reais destinado aos artistas. Ele expressou preocupação com o aumento dos gastos em contraste com o rombo previsto nas contas públicas. O Deputado criticou a disparidade entre os recursos destinados às produções do Sudeste, especialmente de São Paulo, e às das outras regiões do país, o que aprofundaria a desigualdade cultural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:980ee9c854311031279b782831d25c204717a1040777c44f060ba966de1aabbb
+size 452

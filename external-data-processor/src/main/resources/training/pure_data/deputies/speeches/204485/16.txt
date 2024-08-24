@@ -1,1 +1,3 @@
-O Deputado transmitiu uma mensagem de orgulho pelo Dia da Independência, destacando a importância da democracia, da soberania e do desenvolvimento econômico e social para o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7330a32caa24d0b636f24d5c2126ba0716b0d51ae84211761609c6f6595eaa02
+size 183

@@ -1,1 +1,3 @@
-Orientação de bancada na  votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 6, apresentada à Medida Provisória nº 934, de 2020, acerca do estabelecimento de normas excepcionais relativas ao ano letivo da educação básica e do ensino superior, decorrentes das medidas de enfrentamento da situação de emergência de saúde  pública constantes na Lei nº 13.979, de 2020. Importância da definição do calendário do Exame Nacional do Ensino Médio - ENEM. Defesa de votação pela Casa da Proposta de Emenda à Constituição nº 15, de 2015, sobre a transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59128ed657c6ac39f4c075eae573287c314f2c98bc277fbdb78f2c31afeaab8c
+size 818

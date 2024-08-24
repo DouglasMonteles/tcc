@@ -1,1 +1,3 @@
-Caráter eleiçoeiro de discurso proferido no plenário por Deputado petista. Derrocada da economia brasileira no Governo Luiz Inácio Lula da Silva. Afastamento do Juiz Federal Eduardo Appio, da 13ª Vara da Justiça Federal de Curitiba, aliado do Presidente Luiz Inácio Lula da Silva. Repúdio à matéria publicada pelo jornal Folha de S.Paulo sobre a vigência do fascismo no Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82133cf7654361a074331fca2a624b5effb068f576ca610cbd94bbc0d725a748
+size 406

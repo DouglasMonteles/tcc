@@ -1,1 +1,3 @@
-Invasão de estabelecimento escolar por cidadão armado, no Município de Charqueadas, Estado do Rio Grande do Sul. Eleição da oradora para a presidência da Frente Parlamentar de Incentivo à Leitura. Risco à manutenção da biblioteca comunitária instalada na Ilha Grande dos Marinheiros, no Município de Porto Alegre, Estado do Rio Grande do Sul, diante da anunciada construção de ponte na localidade pelo Prefeito Nelson Marchezan Júnior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f08f2ea4ea365667e9d230ce754081e3135690c36961d4eea74d7061d4bccd26
+size 450

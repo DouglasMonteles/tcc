@@ -1,1 +1,3 @@
-Visita do Presidente da Associação dos Produtores de Leite no Estado de Goiás - APROLEITE, Marco Sérgio Xavier, ao gabinete parlamentar do orador para debate da situação da cadeia produtiva de leite. Implementação de políticas públicas de fomento à produção leiteira nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:360bf67eda03b48f43fa2b353ccc85880b578e5d8baba93d4ebf8bb310d241b1
+size 289

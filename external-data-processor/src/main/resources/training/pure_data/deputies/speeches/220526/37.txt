@@ -1,1 +1,3 @@
-Visita ao Congresso Nacional do Deputado Estadual do Espírito Santo, Wellington Callegari; do líder da Direita em Marataízes, Amarildo Tognere Moreira; e do Presidente do PL de Vargem Alta, Luciano Quintino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:421acd2ae490a7a8de8bb4b7de148be94d5d760073c9fe7aaca39ad57ea11a88
+size 210

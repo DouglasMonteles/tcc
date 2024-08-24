@@ -1,1 +1,3 @@
-Acerto da decisão do Supremo Tribunal Federal de suspensão das chamadas emendas de Relator (orçamento secreto). Recusa do Presidente Jair Bolsonaro à compra de vacinas contra a Covid-19. Prática de crime contra a humanidade pelo Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44f7f823933ef2ea9fb3a116a4c2f9980234c7004f6bf6d5d54674e5544cfb09
+size 259

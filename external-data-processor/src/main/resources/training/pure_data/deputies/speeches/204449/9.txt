@@ -1,1 +1,3 @@
-Informação à Deputada Gleisi Hoffmann sobre as realizações do Presidente Jair Bolsonaro nos 100 primeiros dias do seu governo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ad5d5881db3533ca21985e6a2dc51e2d5d92fd3459d18b0527014ec07afb27e
+size 131

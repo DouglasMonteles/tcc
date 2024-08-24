@@ -1,1 +1,3 @@
-Apelo ao Senado Federal de imediata apreciação da proposta de emenda à Constituição sobre a instituição do orçamento impositivo relativo às emendas parlamentares. Importância da matéria para o fortalecimento da autonomia e da independência do Congresso Nacional ante o Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8f35f24258664de70d83f37265ba983516f69f41d8a17586857906872a93363
+size 297

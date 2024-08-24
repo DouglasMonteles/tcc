@@ -1,1 +1,3 @@
-Participação do orador em audiência pública promovida pela Câmara de Vereadores de Aracati, Estado do Ceará, para debate da construção da Ponte Presidente Juscelino Kubitschek. Lançamento de edital de licitação para a recuperação da BR-304.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11019c82341e3514f5436e6853ade229b1452b49bae6c6e06b951fca7c603a5c
+size 253

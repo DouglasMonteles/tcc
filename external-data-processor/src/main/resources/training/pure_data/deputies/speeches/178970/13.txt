@@ -1,1 +1,3 @@
-Elogios à Presidenta Dilma Rousseff pelo encaminhamento à Câmara dos Deputados de medidas de combate à corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2962746122902d0840baca51a7ae6815d39823ad1296cb2f998a9e1421af70f2
+size 119

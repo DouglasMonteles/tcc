@@ -1,1 +1,3 @@
-Realização, pela Comissão de Educação e Cultura, de audiências públicas destinadas ao debate do Programa Nacional de Acesso ao Ensino Técnico e Emprego - PRONATEC, nos Municípios de Salvador e Vitória da Conquista, Estado da Bahia. Apoio à pauta de reivindicações apresentada pelo movimento grevista dos Institutos Federais de Educação, Ciência e Tecnologia - IFETs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96db518ab1a40c0725aef896fa321ec91fb233671a64c79bdce61821327b3898
+size 382

@@ -1,1 +1,3 @@
-A Deputada discutiu o Projeto de Lei nº 5.867, de 2023, que dispõe sobre a criação do Dia do Rei Pelé. Na oportunidade, expressou sua preocupação com a falta de previsibilidade na divulgação das pautas de votações na Câmara dos Deputados. Além disso, ressaltou a importância de preservar a civilidade e o respeito nas discussões políticas e pediu providências em relação ao episódio ocorrido no Plenário, onde o Deputado Messias Donato foi agredido fisicamente pelo Deputado Quaquá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9731c70381aee96318727ef18d3a4a897b5b85825e43cc4ca53929f251616b1
+size 504

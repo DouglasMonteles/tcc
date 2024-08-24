@@ -1,1 +1,3 @@
-Votos de sucesso à nova Reitora da Universidade Federal da Paraíba - UFPB, Margareth Diniz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed7393cabdbd2be46fa79a3ea90a92ac75ef9ff9d392c1f18048fb10812232ae
+size 93

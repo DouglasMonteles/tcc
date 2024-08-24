@@ -1,1 +1,3 @@
-Promoção da Semana Mundial de Aleitamento Materno. Agradecimento à Casa pela aprovação do Projeto de Lei nº 3.635, de 2023, sobre a criação do Selo Empresa Amiga da Amamentação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9513c1eb05174107c0537dd7d8a37aefd62c2746b54b5f3bded0025a2313febb
+size 187

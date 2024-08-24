@@ -1,1 +1,3 @@
-Reestruturação e fortalecimento do Departamento Nacional de Obras Contra as Secas - DNOCS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7235204577f418111fa7c2cb3522885215eef457ad391409ce7cbea8d9a225a2
+size 92

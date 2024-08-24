@@ -1,1 +1,3 @@
-Repúdio à ameaça do Ministro da Economia, Paulo Guedes, de corte de benefícios fiscais concedidos ao polo de concentrados na Zona Franca de Manaus, Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a696322cba44a9fcdca66edab5bd824fd62ccd116de163f7620e616d7b327a5b
+size 171

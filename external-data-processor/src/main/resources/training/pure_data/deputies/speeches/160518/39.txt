@@ -1,1 +1,3 @@
-Greve de professores e policiais civis por reajuste salarial no Estado de Minas Gerais. Descaso do Governo Estadual com o serviço público e com a área social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:903c93789dffcfe832af279b7a9f982096de63949199fe701b749ce962aa4742
+size 161

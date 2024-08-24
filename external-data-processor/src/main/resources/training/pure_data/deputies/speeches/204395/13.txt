@@ -1,1 +1,3 @@
-Apelo ao Plenário por imediata votação da Medida Provisória nº 884, de 2019, sobre a proteção da vegetação nativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a76c32e06f0fa614f588a1de9c46636c43e672fbd02009cd70806357925ba9a
+size 123

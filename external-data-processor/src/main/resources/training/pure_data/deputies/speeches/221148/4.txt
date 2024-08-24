@@ -1,1 +1,3 @@
-Falta de fundamento de ataques de Parlamentares ao Presidente Luiz Inácio Lula da Silva. Repúdio ao discurso da Oposição contrário ao avanço socioeconômico do País. Impedimento, pela Polícia Federal, de atentado contra o Senador Sergio Moro e outras autoridades públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21cee6261f529c6d64ec2e031f96eebb0419f559c4a51c267ca6c3c1335c0fcc
+size 281

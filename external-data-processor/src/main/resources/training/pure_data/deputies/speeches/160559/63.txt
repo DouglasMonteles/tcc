@@ -1,1 +1,3 @@
-Contestação à manifestação do Deputado Ivan Valente acerca de pronunciamento do orador sobre  recuo de decisão da Casa para instalação de Comissão Especial destinada à análise da Proposta de Emenda à Constituição nº 215, de 2000, diante de pressão de grupos indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:103cebf237f799c536d1ad74730db6ee77709d3f4bfea831ed85ff99880843e7
+size 285

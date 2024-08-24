@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do art. 3º, do Projeto de Lei nº 4.994, de 2023, que reconhece a rodovia BR-319-RO/AM como infraestrutura crítica, indispensável à segurança nacional e estabelece a garantia de sua trafegabilidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06a054a0ffd0d38375196f0acdfe4387d88cc2943cf5f51e6cd8401436235c79
+size 246

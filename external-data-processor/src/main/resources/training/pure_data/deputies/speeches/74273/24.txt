@@ -1,1 +1,3 @@
-Razões da desaceleração do crescimento econômico mundial. Homenagem aos professores brasileiros, especialmente do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fdfdf516cfce3b76a1edf234e84fb3eeb80deed5fa59ce1ff7ddb8ac395883b
+size 139

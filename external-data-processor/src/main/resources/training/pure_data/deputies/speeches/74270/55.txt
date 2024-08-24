@@ -1,1 +1,3 @@
-Apresentação de proposta de emenda à Constituição sobre o estabelecimento de parâmetros para a fixação de subsídio para os cargos de Delegado de Polícia Federal, Delegado de Polícia Civil, Auditor-Fiscal da Receita Federal e Auditor-Fiscal do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67f29c15d355a4c20eaf2a1b9cb48092cab06570a748fd951673c18ecbf4576d
+size 263

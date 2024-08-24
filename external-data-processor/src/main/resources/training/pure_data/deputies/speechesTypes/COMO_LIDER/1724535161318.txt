@@ -1,1 +1,3 @@
-Desempenho negativo da política industrial dos Governos Luiz Inácio Lula da Silva e Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec031ac63fd7252fa792ca7deaa1c3bf9310bb0fd727d9a5a5fb8e2dd5c9de4e
+size 101

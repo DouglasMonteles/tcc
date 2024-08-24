@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Comissão nº 323, apresentada à Medida Provisória nº 927, de 2020, a respeito das medidas trabalhistas de enfrentamento do estado de calamidade pública decorrente da pandemia de coronavírus (Decreto Legislativo nº 6, de 2020).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fe3c5b65bb1e048dce1336f43d62f289e8822e1596e9cfedb0a3607270312fb
+size 338

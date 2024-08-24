@@ -1,1 +1,3 @@
-O Deputado criticou o Governo do Presidente Lula. Mencionou as contas públicas, as consequências do desmatamento em Manaus, a exclusão de famílias do Bolsa Família, as contradições relativas às ações afirmativas de inclusão social e o aumento das passagens aéreas. Encerrou com previsões sobre o futuro do Governo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb2a8df5b6abbc03718adafd80bb5de010974761ad5fa3fb97e378ed72ca4aad
+size 327

@@ -1,1 +1,3 @@
-Solidariedade à estudante Patrícia Linhares, do Centro Universitário Sagrado Coração - UNISAGRADO, hostilizada por seus colegas em face da sua idade, no Município de Bauru, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cbf8c76c97626fe61126fb4a0039bd808e7987cab26d59614bddfa26398f44e
+size 200

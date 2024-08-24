@@ -1,1 +1,3 @@
-Lançamento pelo Governo do Estado de Minas Gerais do programa Desenvolvimento do Ecossistema de Empreendedorismo e Startups de Minas Gerais - SEED. Apelo à Casa de adoção de medidas de apoio às Santas Casas de Misericórdia em todo o País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ad499183b8f2b5bb68fdf28b2d9ee5e69e47bbc8ca5d238430f93c8fe9f4b2b
+size 245

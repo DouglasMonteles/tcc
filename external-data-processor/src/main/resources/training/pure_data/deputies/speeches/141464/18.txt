@@ -1,1 +1,3 @@
-Instalação e posse da diretoria da Associação Brasileira de Advogados - ABA, seção Ceará. Concessão da Medalha Sobral Pinto ao advogado Ernando Uchôa Lima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:269e3e6265feca16599b549ec5eec0082c6214f0fecf7269b6269470d163d53a
+size 164

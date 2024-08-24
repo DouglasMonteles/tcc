@@ -1,1 +1,3 @@
-Esclarecimento sobre o substitutivo apresentado ao Projeto de Lei Complementar nº 343, de 2017, que institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b7626fc59eaf5ff6834541531bbc63bbf1cc908fa106255e4dbfaf8afd2ebe6
+size 177

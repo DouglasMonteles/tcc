@@ -1,1 +1,3 @@
-Homenagem ao pai do orador, Deputado Estadual de São Paulo, Rafael Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47b404d53f90130e1589887d87f626034d1489fdb15e33df59dc93a0204bd563
+size 74

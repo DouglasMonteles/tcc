@@ -1,1 +1,3 @@
-Apresentação pelo Ministro da Saúde, Ricardo Barros, de balanço das realizações da Pasta nos primeiros 4 meses de gestão. Descontingenciamento, pelo Governo Michel Temer, de recursos para a saúde. Incoerência de declarações de Deputados do PT quanto à intenção do Governo Federal de alienação da PETROBRAS, ante a responsabilidade do partido pela desvalorização da companhia. Realização, pela Polícia Federal, da Operação Greenfield, de investigação de desvios de recursos apontados pela CPI dos Fundos de Pensão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1891efed21071bcbd4bda7ad98f9a36b2124d98bd6a098af5e6dd04d8b9aa807
+size 539

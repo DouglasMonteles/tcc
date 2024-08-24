@@ -1,1 +1,3 @@
-Protesto contra a prisão de Pastores da Igreja Cristã Maranata, requerida pelo Ministério Público, em Vitória, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:882fcf47c6474040dd8824dd58c5c83828385e472d068953225685d70dfb3f14
+size 142

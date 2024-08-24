@@ -1,1 +1,3 @@
-Imediata regulamentação da Emenda Constitucional nº 29, de 2000, sobre a alocação de recursos para a saúde pública. Defesa de revisão da tabela de procedimentos do Sistema Único de Saúde - SUS. Excelência da atuação do Ministro da Saúde, Alexandre Padilha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d88a5d1b60fca82b18c021affe89fabb3a042d4309e91dc8ab119455a1c9f6c6
+size 270

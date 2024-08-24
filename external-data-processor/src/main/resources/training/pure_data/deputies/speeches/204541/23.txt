@@ -1,1 +1,3 @@
-Necessidade de atendimento à pauta municipalista, nos termos preconizados na carta da Confederação Nacional dos Municípios - CNM, medida necessária para combate à evolução do coronavírus. Pedido à Casa de aprovação do Projeto de Lei nº 733, de 2020, proibitivo da interrupção no abastecimento de energia elétrica de consumo residencial em situação de emergência sanitária. Apresentação de conjunto de projetos de lei em benefício dos microempreendedores individuais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd012c8cdce9a79c11e2e17b5397438bafd69657d7c27e716dcb275c27179170
+size 489

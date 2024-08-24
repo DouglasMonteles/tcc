@@ -1,1 +1,3 @@
-Defesa da aprovação de proposições apensadas ao Projeto de Lei Complementar nº 60, de 1999, sobre a concessão de aposentadoria especial aos trabalhadores expostos a condições insalubres. Considerações sobre a Medida Provisória nº 385, de 2007, sobre a prorrogação do prazo da aposentadoria rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83c051201bcc7faa459b2ed9b977027e997a52f913c33c5c6512c93822e12f70
+size 310

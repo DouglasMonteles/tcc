@@ -1,1 +1,3 @@
-Relato da viagem do orador à região do Alto Solimões, no Estado do Amazonas. Apelo à empresa Manaus Energia S/A para regularização do fornecimento de energia elétrica no Município de Benjamin Constant. Pedido à Agência Nacional de Aviação Civil - ANAC de liberação das operações no trecho aéreo entre os Municípios de Manaus, Tefé e Tabatinga para as empresas Gol Linhas Aéreas Inteligentes S/A e/ou TAM Linhas Aéreas S/A. Solicitação ao Ministro das Comunicações de implementação de telefonia celular no Município de Atalaia do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:957d96cb89a2470d8c2d012fb9431a3f9ba29701441e2e9601ff847ca9b792a6
+size 563

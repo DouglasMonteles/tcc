@@ -1,1 +1,3 @@
-Agradecimento ao PDT e à população do Estado de Rondônia pela eleição da oradora. Homenagem à genitora da Parlamentar. Agradecimento a Parlamentares pela adesão à proposta de criação da Frente Parlamentar Mista de Luta contra o Câncer. Prioridades da atuação da oradora no exercício do mandato parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a93245687ee96b70566ad31834208b7a7e324b0f58914104d3d160d6ee489dd
+size 321

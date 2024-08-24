@@ -1,1 +1,3 @@
-Encaminhamento à Mesa Diretora de pedido de informações ao Ministério de Minas e Energia e à Diretoria-Geral da Agência Nacional de Transportes Aquaviários - ANTAQ sobre as obras da Hidrovia do Rio Parnaíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f307bd9af4bc96d7cf4049d4a5c7c47094ed60baffb74aec778a7a9f6f30caad
+size 215

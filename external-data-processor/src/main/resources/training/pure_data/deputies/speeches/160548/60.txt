@@ -1,1 +1,3 @@
-Transcurso do Dia do Profissional de Educação Física.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7822b6ab6af1dc63d263bb6df25ee8698e255b9ae4eafd991f3191819fb626a2
+size 56

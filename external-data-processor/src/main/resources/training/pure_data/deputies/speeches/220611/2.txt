@@ -1,1 +1,3 @@
-O Deputado abordou a questão do Imposto Sindical em seu discurso, destacando sua preocupação com a reintrodução desta taxa e seus possíveis impactos. Lembrou que a extinção do imposto em 2017 foi uma decisão democrática para buscar alternativas ao financiamento dos sindicatos e enfatizou a importância de ouvir todas as partes envolvidas, considerar os impactos econômicos e sociais e evitar abordagens ideológicas. O orador argumentou que, em meio às incertezas econômicas do país, reintroduzir o imposto pode criar ônus adicionais às empresas e não refletir os interesses dos trabalhadores. Portanto, se posicionou contrário ao retorno do Imposto Sindical.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cad66d310464c86fec34cba01e3e715d76661474887aed6242c54a1a1bb23163
+size 679

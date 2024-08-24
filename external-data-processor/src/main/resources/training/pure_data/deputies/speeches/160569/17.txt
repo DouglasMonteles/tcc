@@ -1,1 +1,3 @@
-Encaminhamento de indicação ao Ministério dos Transportes para construção de viadutos nas interseções do anel rodoviário da BR-116, no Município de Vitória da Conquista, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e5e3c32e2f56a921c86387327d0a1eb6ee0e9e9e82bc0aaf4caf4b6d416a545
+size 196

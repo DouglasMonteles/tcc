@@ -1,1 +1,3 @@
-Relato de participação do orador em viagem a países da Ásia como membro parlamentar da comitiva da Ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina. Constatação do domínio e conhecimento de causa da Ministra Tereza Cristina a respeito de interesses relativos ao comércio bilateral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b2699dffad45710945db6f6cc5940e3648360664f990e8dd6eed0c1fffdd3fc
+size 308

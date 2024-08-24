@@ -1,1 +1,3 @@
-Transcurso do 40° aniversário de fundação do Sindicato Rural Patronal de Astorga, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e99042aa5ac0ad19892cf102e2e77d140fd546453ba7e2d9f3ca0f1d0764d2a9
+size 104

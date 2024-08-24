@@ -1,1 +1,3 @@
-Pedido à Presidência de prosseguimento da votação do Projeto de Lei nº 1.397, de 2020, a respeito da instituição de medidas emergenciais mediante alteração, em caráter transitório, de dispositivos da Lei nº 11.101, de 2005, com validade até 31 de dezembro de 2020, ou durante a vigência do Decreto Legislativo nº 6, de 2020, relativo ao estado de calamidade pública decorrente da pandemia da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17adaf68dd4aa5a62d27be3d096447204f0f5dbb45ec805c1d92d756bd9bd1ee
+size 417

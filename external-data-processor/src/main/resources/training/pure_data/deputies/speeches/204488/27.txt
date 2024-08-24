@@ -1,1 +1,3 @@
-Apresentação de projeto de lei acerca de isenção da cobrança da Taxa de Iluminação Pública aos consumidores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:848b9b5856bcd215802c253813dbfc764de7a4e7a46f3d227648fb3d88849b6d
+size 116

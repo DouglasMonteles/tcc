@@ -1,1 +1,3 @@
-Congratulações à Presidência pela instalação de telões no Plenário Ulysses Guimarães. Determinação pelo Governador Flávio Dino do uso de força policial para dispersão de manifestação de indígenas em frente à sede do Governo do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bece79bee087daa90e6432c8445f239777ffc462f11ebaa0d44b7003ed367f9
+size 265

@@ -1,1 +1,3 @@
-Transcurso do Dia de Nossa Senhora de Fátima. Realização da Procissão das Velas em Belém, Estado do Pará. Transcurso do aniversário de emancipação político-administrativa dos Municípios de Xinguara, Rio Maria, Redenção e Rondon do Pará, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d91aee56a893ff877022eb497513c184c67a0490d831f512f8d6fa8a2ee65084
+size 267

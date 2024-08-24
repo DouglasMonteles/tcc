@@ -1,1 +1,3 @@
-Eleição do Sr. Evair Vieira de Melo para a Presidência do Conselho Nacional dos Sistemas Estaduais de Pesquisa Agropecuária - CONSEPA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37127b527f87cd9247a063c8ad09fb9dfa5075e76beb2ae6e2e66d44f2f81cc3
+size 138

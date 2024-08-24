@@ -1,1 +1,3 @@
-Realização da Exposição Agropecuária, Industrial e Comercial de Umuarama, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2de9dd9cf04e3da900ea1828d136d9f5d70767c005bda41c4c85ae25090873f
+size 100

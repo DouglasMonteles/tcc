@@ -1,1 +1,3 @@
-Greve de professores no Estado do Rio Grande do Norte em protesto contra o descumprimento da Lei nº 11.738, de 2008, relativa à instituição do piso salarial nacional dos profissionais do magistério pública da educação básica. Expectativa de cumprimento do Diploma Legal pelos Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1db5bf695b529d2eec1a4355a2588f60cf95ef391d215cfc8b27d80c5b2eea86
+size 307

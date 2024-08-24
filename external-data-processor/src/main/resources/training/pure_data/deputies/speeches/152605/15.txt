@@ -1,1 +1,3 @@
-Início da canalização do Rio Bengalas, no Município de Nova Friburgo, Estado do Rio de Janeiro, com recursos do Programa de Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:776911f42fa42b93ba2c179e7cee564338bfdf2de85784657273ba0df45e2cc2
+size 162

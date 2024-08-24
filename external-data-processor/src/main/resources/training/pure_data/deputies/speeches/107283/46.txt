@@ -1,1 +1,3 @@
-Assinatura de Representação encaminhada ao Conselho de Ética e  Decoro Parlamentar contra o Deputado Coronel Tadeu, por prática de ato de racismo nas dependências da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f27705bc303d34c74f0f4bb0599ed0d48921ef0af92f303a59d285ebcc659b54
+size 176

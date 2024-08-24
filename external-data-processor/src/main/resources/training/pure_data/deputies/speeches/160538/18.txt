@@ -1,1 +1,3 @@
-Aplausos à Presidenta Dilma Rousseff pelo tratamento dispensado aos Prefeitos Municipais presentes no Distrito Federal. Anúncio de liberação de recursos do PAC Saneamento aos Municípios brasileiros com menos de 50 mil habitantes. Contentamento de gestores municipais com o repasse de recursos para a área de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c97c30768b384cbc75a7d7f558fd97891fe47954abad096b332833d65e1d63d
+size 321

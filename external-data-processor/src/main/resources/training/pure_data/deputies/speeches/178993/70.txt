@@ -1,1 +1,3 @@
-Associação a pronunciamento do Deputado Mauro Pereira em defesa do Presidente Eduardo Cunha. Expectativa de votação da Proposta de Emenda à Constituição nº  443, de 2009,  que fixa parâmetros para a remuneração de advogados públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70e0d154afb1d6876c163741b6caf4d144eff7c8117b87f5d50690c09a4ade85
+size 245

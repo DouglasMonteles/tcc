@@ -1,1 +1,3 @@
-Assinatura, pelo Presidente Jair Bolsonaro, do projeto anticrime elaborado pelo Ministro da Justiça e Segurança Pública, Sérgio Moro. Importância do combate à corrupção no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14876d396790a559269170bbd47e699a885d51b6a5e86f682b9cc96e8d713452
+size 186

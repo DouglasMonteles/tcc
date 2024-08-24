@@ -1,1 +1,3 @@
-Congratulações ao Presidente Jair Bolsonaro pela renovação do passaporte diplomático do Bispo Edir Macedo, da Igreja Universal do Reino de Deus. Congratulações ao Prefeito Marcelo Crivella, do Rio de Janeiro, pela assistência prestada aos atingidos pelo desmoronamento de prédios na comunidade de Muzema. Repúdio à decisão judicial contrária à demolição de imóveis na comunidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3045ef7896708efafbc9157d7b749b8377270f84f4034ad012fb5346fc7b6222
+size 396

@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Luiz Inácio Lula da Silva, ao Ministro da Integração Nacional, Geddel Vieira Lima, e ao Presidente da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba - CHESF, Orlando Cezar da Costa Castro, pela execução do projeto da adutora do Pontal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46c03283875f4f9be82c075cd614af0e75b145693281de350db942a828e25f20
+size 293

@@ -1,1 +1,3 @@
-Convite de participação em audiência pública na Comissão de Educação, destinada ao debate da situação das educadoras da primeiríssima infância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b34bf28be230607a5f5dc723a3c2c4c6f3f83381b29380f85ceaa273ef332a1
+size 154

@@ -1,1 +1,3 @@
-Omissão do Ministério da Saúde no comando das ações de enfrentamento da pandemia de coronavírus. Caráter temerário da flexibilização do isolamento social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ba537bd6ec56b74a02590e2b7cea0cff5eaa6cb12a576c99a4db1a9190a17a6
+size 164

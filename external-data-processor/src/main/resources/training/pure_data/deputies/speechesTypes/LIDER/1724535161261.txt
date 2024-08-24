@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre a deliberação adotada pelo Colégio de Líderes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5643ab34ad9c364750555b9c0484d6557d6cc5087e2721321cd7a41dd65c85a8
+size 84

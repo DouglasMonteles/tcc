@@ -1,1 +1,3 @@
-Contestação ao pronunciamento do Deputado Kim Kataguiri contra o Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af782d8e79663d756f9e51526db22cb0f4d39f1b5a3db2c95d1ffd04955a8b7e
+size 105

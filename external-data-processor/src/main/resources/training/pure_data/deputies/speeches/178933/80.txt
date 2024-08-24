@@ -1,1 +1,3 @@
-Associação às congratulações aos Deputados, em especial à Deputada Tereza Cristina, por consenso obtido em relação ao Projeto de Lei nº 9.206, de 2017, sobre a instituição do Programa de Regularização Tributária Rural junto à Secretaria da Receita Federal e à Procuradoria da Fazenda Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a08d4674fffdcadc7db2ef683f51b719c569585d7fa70e5d5cc2fd5ac370939b
+size 309

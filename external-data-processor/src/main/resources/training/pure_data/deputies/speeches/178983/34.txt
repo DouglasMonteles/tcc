@@ -1,1 +1,3 @@
-Congratulação ao Prefeito Adriano Leite, do Município de Guararema, Estado de São Paulo, pela inauguração do Residencial Paraíba do Sul, por intermédio do Programa Minha Casa, Minha Vida, do Governo Federal. Elogio às atuações da ex-Prefeita da cidade Conceição Apparecida Alvino de Souza, mãe do orador, do ex-Prefeito André Luís do Prado e do então Deputado Federal Valdemar Costa Neto em prol da construção do conjunto habitacional em Guararema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85b3b2bc2aaa1badd42a5c4c2de3bc3805a9019c811c106eeac51641c1deda59
+size 467

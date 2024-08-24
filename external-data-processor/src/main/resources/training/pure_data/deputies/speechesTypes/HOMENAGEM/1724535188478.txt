@@ -1,1 +1,3 @@
-Sessão solene em comemoração ao Dia Nacional de Valorização da Família.(As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:57230a0036eb92fc338a12545c1284926e68c89823be8160d84937527069605e
+size 210

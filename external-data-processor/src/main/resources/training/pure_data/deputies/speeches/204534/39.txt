@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas de Plenário de nºs 1 e 2, apresentadas ao Projeto de Lei nº 1.540, de 2021, acerca da instituição da política de bem-estar, saúde e qualidade de vida no trabalho e valorização dos profissionais da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:638fdf309fcaf28d62ca1dada570a1b371f5c853bcf36f3cd8d713c9f889c3d7
+size 249

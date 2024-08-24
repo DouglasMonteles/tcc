@@ -1,1 +1,3 @@
-Criação do partido União Brasil, resultante da fusão do DEM com o PSL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34ff840103938c6ab18bd733dcfc1a77a01e72b04e4aba63bceb2404a98c4d11
+size 74

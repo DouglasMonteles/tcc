@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes. Resultado dos trabalhos da CPMI destinada à investigação da exploração sexual de menores no País. Conveniência de alteração de dispositivos do Código Penal Brasileiro, com vistas à tipificação do crime de abuso sexual de menores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8008ba5ba23b36d5590977b711b324982cba59ce29f5bb37d65d62e2b2e8b3ff
+size 343

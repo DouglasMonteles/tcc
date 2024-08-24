@@ -1,1 +1,3 @@
-Premência de realização de reforma curricular e de valorização do professor para a redução da evasão escolar no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b127a0c0154fd9eb962d646982f83d851b2e84a9708e487e2eba9f0891d7bf7e
+size 127

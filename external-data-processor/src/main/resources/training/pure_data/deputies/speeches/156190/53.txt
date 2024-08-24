@@ -1,1 +1,3 @@
-Repúdio às ofensas desferidas contra o Ministro da Economia, Paulo Guedes, durante reunião destinada ao debate da reforma previdenciária, na Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b2899e7486df39154beb3f96a3f6c798ae60d1539e204e42ba52aef727e1495
+size 199

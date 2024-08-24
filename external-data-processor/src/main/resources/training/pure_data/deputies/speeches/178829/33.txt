@@ -1,1 +1,3 @@
-Votos de êxito na carreira a novos soldados da Polícia Militar do Estado de São Paulo. Solicitação de celeridade ao Centro de Estudos e Debates Estratégicos da Câmara dos Deputados em pesquisa sobre o cumprimento de penas no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e18f959ff5d0ae7c51788b85dcd3e687bb19a4b3613e6b0eff6291b84a3e7b6e
+size 239

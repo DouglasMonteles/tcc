@@ -1,1 +1,3 @@
-Congratulações aos Deputados no exercício do primeiro mandato parlamentar. Razões da divergência do orador com a base governista em relação à aprovação da Medida Provisória nº 665, de 2014. Registro de voto favorável a matéria relativa ao aumento da alíquota do PIS/COFINS para produtos importados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:055d26071e3d06baa4399be35a4dc3752b99ff007f6e04c6646119eccf2aa262
+size 313

@@ -1,1 +1,3 @@
-Desafio imposto à saúde pública brasileira diante da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24393fba48512821236ca7c5ddbb352933280e003d0bea0411505e367722f481
+size 81

@@ -1,1 +1,3 @@
-Realização da XIV Conferência Nacional de Saúde em Brasília, Distrito Federal. Necessidade de aperfeiçoamento e votação da regulamentação da Emenda Constitucional nº 29, de 2000, para garantia de financiamento da Saúde no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7bb089ac85266191385d6f3ba559114981fb347ad7dbe1ee528840e1c2a5aec
+size 240

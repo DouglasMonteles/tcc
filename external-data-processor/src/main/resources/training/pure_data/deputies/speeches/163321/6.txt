@@ -1,1 +1,3 @@
-Realização, pela Comissão Executiva Nacional do PTB, de homenagem à memória do ex-Presidente Getúlio Vargas ao ensejo do transcurso do aniversário natalício, no Município de São Borja, Estado do Rio Grande do Sul. Votos de feliz Páscoa aos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:012e71c4df34650226bb5e685651fe06b8939d8a8a2ed26d69fcbb985a84dd91
+size 265

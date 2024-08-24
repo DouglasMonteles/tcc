@@ -1,1 +1,3 @@
-Elogio ao Deputado Arlindo Chinaglia pela condução dos trabalhos da Casa. Atuação do orador na Presidência da Comissão de Direitos Humanos e Minorias. Empenho do Parlamentar na aprovação de projeto de lei sobre mudança no critério de reajuste de aposentadorias e pensões pela Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ce5b9318c63a03f5726b03d14ad80f25f8d46ae1e1a45a46215435c4a7e88f1
+size 307

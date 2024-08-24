@@ -1,1 +1,3 @@
-Apresentação, à Comissão de Defesa do Consumidor, de requerimento sobre a realização de audiência pública destinada ao debate do reajuste de tarifas pela Companhia Energética de Pernambuco - CELPE. Solicitação ao Tribunal de Contas da União - TCU de realização de auditoria na CELPE. Conveniência de adoção, pela empresa e pela Agência Nacional de Energia Elétrica - ANEEL, de recomendações da CPI destinada a investigação de reajustes de tarifas de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84b22ebd3c0da0b804ca25ccd9741b72d71e8c47536ee9eaf962893163ac2d4a
+size 491

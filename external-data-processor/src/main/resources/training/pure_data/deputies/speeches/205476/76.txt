@@ -1,1 +1,3 @@
-Falecimento do radialista Erivaldo da Silva Santos, do Município de Guanambi, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86d12c56f6c9c6950d93801753ba0ab9708f7faf28f0f1d2b758db52e2c27512
+size 95

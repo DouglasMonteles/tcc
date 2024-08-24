@@ -1,1 +1,3 @@
-Malefícios causados à saúde humana pela prática de tabagismo. Apresentação do Projeto de Lei nº 2.900, de 2023, proibitivo do uso de Dispositivos Eletrônicos para Fumar - DEFs em ambientes fechados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:794e756c856d318c8125d00908e5e07565b0183fe5be2c796147b001cc9ae49d
+size 206

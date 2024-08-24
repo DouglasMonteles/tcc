@@ -1,1 +1,3 @@
-Pedido à Presidência de inclusão na pauta da Proposta de Emenda à Constituição nº 27, de 2019, sobre a fixação das taxas de juros bancários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00445c813500013049b90ea67bdfbd71e5841d28af25400aa85a3b4d85f785b9
+size 150

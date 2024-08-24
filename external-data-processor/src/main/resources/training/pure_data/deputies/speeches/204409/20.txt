@@ -1,1 +1,3 @@
-Prioridade dos Parlamentares nas contendas político-partidárias em detrimento da discussão de matérias de sumo interesse do País e do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa1fed3f59df95ed7eb03a25b80e6bb37ae5c3677910b89c6095c40d5fd329b
+size 155

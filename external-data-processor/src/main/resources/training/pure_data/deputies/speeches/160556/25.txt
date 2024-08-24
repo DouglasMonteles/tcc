@@ -1,1 +1,3 @@
-Estado de abandono da educação em Minas Gerais. Defasagem salarial dos docentes mineiros. Necessidade de abertura, pelo Governador Antonio Anastasia, de negociações com os professores em greve pelo cumprimento da lei sobre a criação do piso salarial nacional do magistério público da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a00f986e6f5ed233acce9a0de950077a9e7c2a781b48b5befdede774832eef79
+size 311

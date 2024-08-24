@@ -1,1 +1,3 @@
-Lançamento da Coleção Gente da Bahia pela Assembleia Legislativa. Posse da Prefeita Mariângela Borges, do Município de Lajedo do Tabocal, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11447d64360d7bcbb4cbb5a57c0637e6a035f1cba01d638eeaddf72f02719666
+size 159

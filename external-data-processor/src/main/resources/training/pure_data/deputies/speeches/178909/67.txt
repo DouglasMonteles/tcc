@@ -1,1 +1,3 @@
-Êxito do Círio de Nossa Senhora de Nazaré em Belém, Estado do Pará. Descontentamento com a falta de manutenção de rodovias federais no Pará. Demanda de providências para a solução de problemas causados por naufrágio no Porto de Vila do Conde no Município de Barcarena, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a683b10ef333dfad15d0a2f99449a52c491c35e8dd2daeaeb3ea946af9c9e86
+size 298

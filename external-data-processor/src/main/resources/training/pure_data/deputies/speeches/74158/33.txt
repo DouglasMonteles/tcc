@@ -1,1 +1,3 @@
-Contentamento com a aprovação pela Casa da Proposta de Emenda à Constituição nº 300, de 2008, sobre a  instituição de piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e005e83a1efb888c62c81157d97afd84482d83919d4729f61c9dadc4d13bad1
+size 184

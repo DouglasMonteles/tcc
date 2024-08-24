@@ -1,1 +1,3 @@
-Apoio à inclusão na pauta do projeto de lei relativo aos Conselhos Tutelares da Criança e do Adolescente no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e8ac8ee492356fd637e8f0be01f8c42957fe78f8b3f622fe5bb1963176be109
+size 117

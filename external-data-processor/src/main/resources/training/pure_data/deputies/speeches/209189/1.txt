@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de votação em globo da admissibilidade dos requerimentos de destaques simples.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62417139407bf7e733bb5287e3304bc843e8b959a22334fa192c278e37557615
+size 124

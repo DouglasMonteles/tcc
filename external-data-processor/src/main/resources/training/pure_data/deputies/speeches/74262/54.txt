@@ -1,1 +1,3 @@
-Defesa de criação de CPI para a investigação de denúncias de membros da base governista de interesses escusos em matéria atinente à  medida provisória sobre a modernização dos portos ocorridos no processo de votação da matéria. Ponderações sobre o comportamento do PSDB com relação à votação da matéria sob suspeita.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22f5784428457e42feffa36eb6377bf56159941a1097cf29e92e84d6d20bc4a6
+size 337

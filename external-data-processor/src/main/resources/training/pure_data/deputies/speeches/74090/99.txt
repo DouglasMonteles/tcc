@@ -1,1 +1,3 @@
-Expectativa quanto à assinatura pelo Presidente Luiz Inácio Lula da Silva de novo decreto a respeito da desocupação de terras por fazendeiros e pecuaristas na região do Município de Boca do Acre, Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e3862f775c16ec742959faacd541ecea5448766745b32299079fe0b68d33202
+size 221

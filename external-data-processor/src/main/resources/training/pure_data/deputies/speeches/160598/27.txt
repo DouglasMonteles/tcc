@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT à PEC 270 de 2008 (Acrescenta o § 22 ao artigo 40 da Constituição Federal de 1988, para garantir ao servidor que aposentar-se por invalidez permanente o direito dos proventos integrais com paridade), em votação em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64ac33918c03b2eed37833ecde37ef94cf5551f5068fa8c9dadc8951ae6925cb
+size 267

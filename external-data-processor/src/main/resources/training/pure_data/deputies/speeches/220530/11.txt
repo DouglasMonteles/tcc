@@ -1,1 +1,3 @@
-Pedido aos Deputados de assinatura do requerimento de criação da Frente Parlamentar Contra a Sexualização Precoce de Crianças e Adolescentes. Dados estarrecedores sobre o abuso de crianças no Brasil. Repúdio à Portaria nº 230, de 2023, do Ministério da Saúde, acerca da instituição do Programa Nacional de Equidade de Gênero, Raça e Valorização das Trabalhadoras no Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53a85810d21ab83e7674e762b806800e9cbac86ce4907acd4293e9cc4b3a4c21
+size 414

@@ -1,1 +1,3 @@
-Apelo a instituições bancárias de liberação dos recursos disponibilizados pelo Governo Federal aos Municípios atingidos por enchentes na região serrana do Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bf975954bb6f26f1d4ec7557507cbf2fed66cc32d84bf661ff9e7833d2c74b3
+size 203

@@ -1,1 +1,3 @@
-Preocupação com a possibilidade do crescimento de crimes no País com a saída de presos por ocasião do transcurso do Dia das Mães. Necessidade de alterações na Lei de Execução Penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68dec4a4d288e7ddeb033886b0e95b82717ff12f817b56f1e24a0b3d4fd88d50
+size 191

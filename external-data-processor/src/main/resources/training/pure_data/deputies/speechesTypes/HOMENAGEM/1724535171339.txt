@@ -1,1 +1,3 @@
-Sessão Solene em homenagem aos 40 anos da Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA.(As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:28ed7656fb57852ccbf191f6651c70673f0f1ef7c6a75d4286b37c72df5cf6cc
+size 231

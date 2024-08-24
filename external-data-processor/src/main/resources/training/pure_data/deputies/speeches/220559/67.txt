@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação da expressão incluído o poder de compra governamental para o desenvolvimento dos territórios, constante do inciso XII, art. 30-A, da Medida Provisória nº 1.187, de 2023, que cria o Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte. Expressou sua indignação com a declaração do Presidente Lula e destacou que é impossível aceitar um tratamento que ignora metade da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:994761ba33887de424106c9070151d2c7a43338251b6cbc8525000c98d94b068
+size 470

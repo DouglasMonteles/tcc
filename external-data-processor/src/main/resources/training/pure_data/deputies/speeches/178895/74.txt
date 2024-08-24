@@ -1,1 +1,3 @@
-Necessidade de revisão das políticas de ensino no País e de aplicação efetiva do Plano Nacional de Educação. Maior valorização dos profissionais do magistério. Preocupação com o número de afastamentos por doença entre os professores do ensino público no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f008a93add702bb15dc113edad9f177700a6932130d6977d10b71f8ad97fc64a
+size 276

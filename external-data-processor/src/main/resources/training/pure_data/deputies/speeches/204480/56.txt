@@ -1,1 +1,3 @@
-Apelo aos Deputados por aprovação de emenda supressiva do PDT, destinada à redução do tempo para concessão de aposentadoria a professores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdedef4d83761cccb475b93c97cc7ea0068f05cdc8e6947c21c7cd9c16e8af96
+size 144

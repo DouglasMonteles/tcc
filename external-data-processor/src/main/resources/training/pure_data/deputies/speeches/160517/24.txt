@@ -1,1 +1,3 @@
-Celebração de convênio entre o Ministério da Educação e o Governo do Estado do Espírito Santo para a implantação de novas unidades escolares do Programa Brasil Profissionalizado no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cabd46cc4ec10dbaa01d6845a41df758d331d63e0ee2c21a92393ef49e2ab38c
+size 197

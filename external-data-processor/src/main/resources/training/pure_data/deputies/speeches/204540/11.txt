@@ -1,1 +1,3 @@
-Congratulação ao Presidente Rodrigo Maia pelo discurso proferido sobre o papel da Câmara dos Deputados diante da pandemia de coronavírus. Consonância entre o teor do pronunciamento do Presidente da Casa e a nota públicaNosso inimigo é o vírus, divulgada pelo Republicanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1b81c57e8453e0fe53443ae47306f740110dd44c7840a697c5a8bad4e1659f9
+size 280

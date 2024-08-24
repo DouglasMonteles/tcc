@@ -1,1 +1,3 @@
-Saudação ao Deputado Miro Teixeira, ora na Presidência dos trabalhos da sessão. Presença na Casa do Vice-Prefeito Rodrigo Alves Carvelo, do Município de Catalão, Estado de Goiás, em mobilização contra medidas provisórias de ajuste fiscal contrárias aos interesses dos trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:790758ec00eba85405f612384fee0bc34a0930cda1b2c19c5c141da54d79777b
+size 294

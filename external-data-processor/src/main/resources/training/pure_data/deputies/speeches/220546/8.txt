@@ -1,1 +1,3 @@
-Repúdio às ameaças do líder do Movimento dos Trabalhadores Rurais Sem Terra - MST, João Pedro Stédile, de invasão de propriedades rurais no País. Apresentação de requerimento de informações ao Ministro-Chefe da Casa Civil, a respeito do motivo da participação do líder do MST na comitiva do Presidente Luiz Inácio Lula da Silva em viagem oficial à República Popular da China.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fead1d6880fd18867e36b63ae8ee842da538b0055af0e022d2b65268d8ddbb2e
+size 393

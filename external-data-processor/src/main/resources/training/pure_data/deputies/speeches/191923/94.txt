@@ -1,1 +1,3 @@
-Classificação do Brasil em 1º lugar no ranking mundial do ecoturismo, segundo publicação da revista Forbes especializada em negócios e economia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0949fda46b6aee013f22c8a4aed635c19ece47d0213fdbfc862e0509a6f5cbe8
+size 150

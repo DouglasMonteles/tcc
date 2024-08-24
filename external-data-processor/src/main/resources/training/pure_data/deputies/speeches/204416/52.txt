@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista, quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, à Medida Provisória nº 944, de 2020, relativa à instituição do Programa Emergencial de Suporte a Empregos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fdda0c87bfcdfe4d9d006cdb8332d5c6044d9be82b221503af8d6d4d511d473
+size 312

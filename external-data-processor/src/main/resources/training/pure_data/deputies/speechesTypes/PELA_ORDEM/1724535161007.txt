@@ -1,1 +1,3 @@
-Defesa de votação pela Casa de proposições em prol da melhoria da rede pública de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5cbafc48fc9e191d6a1c2b1843a3d4b1f6ab79a497f7258d65660b121f0359b
+size 94

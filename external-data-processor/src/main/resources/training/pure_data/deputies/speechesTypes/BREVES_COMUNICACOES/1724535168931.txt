@@ -1,1 +1,3 @@
-Assunção do mandato parlamentar pelo orador. Trajetória profissional e política do Parlamentar. Compromisso de atuação pela melhoria dos indicadores sociais do País, especialmente do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a147df3ab635c16a974bfdd62f59c3091f1123574005ba253dfe0846a61889c
+size 210

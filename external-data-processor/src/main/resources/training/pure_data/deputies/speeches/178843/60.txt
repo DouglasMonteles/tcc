@@ -1,1 +1,3 @@
-Repúdio à autorização, pela Agência Nacional de Energia Elétrica - ANEEL, de reajuste da tarifa de energia elétrica no Estado de Alagoas. Anúncio de representação contra a medida junto ao Ministério Público Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3314a13407129776dab903606fb52df3d77177c8bd23def26d6be284ddd248df
+size 227

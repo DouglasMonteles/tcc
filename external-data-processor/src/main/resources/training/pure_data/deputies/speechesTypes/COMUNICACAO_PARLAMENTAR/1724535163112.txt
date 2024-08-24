@@ -1,1 +1,3 @@
-Oportunidade da inserção, pelo Governo Federal, de dispositivo na Medida Provisória nº 385, de 2007, em benefício do trabalhador rural enquadrado na categoria de segurado contribuinte individual. Conveniência de acatamento pelo Relator da matéria, Deputado Eudes Xavier, de emendas oferecidas pelos Deputados Arnaldo Faria de Sá e Dr. Ubiali para garantia da aposentadoria de trabalhadores rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13ab2af1c087ed5959b99fcd9428ee82ed2eb6f57773695c978d43f41066aeb7
+size 405

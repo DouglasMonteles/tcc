@@ -1,1 +1,3 @@
-Prejuízos causados à União, aos Estados e Municípios pela dilação do prazo de recolhimento do Imposto sobre Produtos Industrializados - IPI; do Imposto de Renda Retido na Fonte e de Contribuições Sociais Previdenciárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abd0fc44b72af5f52094d870ee9a2ee20cd294395ab0b0d8f065d90bf419b4c2
+size 229

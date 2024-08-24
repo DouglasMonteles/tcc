@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de Lei nº 4.172, de 2023, que institui o Pacto Nacional pela Retomada de Obras e de Serviços de Engenharia Destinados à Educação Básica e Profissionalizante e à Saúde; e altera a Lei nº 10.260, de 12 de julho de 2001. O orador parabenizou a Relatora da matéria, Deputada Flávia Morais, por atender solicitação da bancada do PDT e incluir no seu parecer o refinanciamento das dívidas do FIES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53ba15bb5c97538adb4ff0310dd0833864e2184e5051084e1211b3b953fabc14
+size 435

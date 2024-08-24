@@ -1,1 +1,3 @@
-Natureza desproporcional da operação policial realizada no Município de Guarujá, para a prisão dos marginais responsáveis pelo assassinato de policial militar. Ineficiência da Secretaria de Segurança Pública e da Polícia Militar do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77cbfb48ba5218422ed44f09ea8e2b3c901321501e06a68fb51befd79c507045
+size 263

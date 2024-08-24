@@ -1,1 +1,3 @@
-Discordância com as justificavas apresentadas pelo Presidente da Agência Nacional de Energia Elétrica - ANEEL, Jerson Kelman, para reajuste de tarifas de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:caa35d955c1e6ac9042d45acc6027c1eefc201e5c6959b57f4ffc2f87f9bc29d
+size 175

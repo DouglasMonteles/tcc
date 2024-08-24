@@ -1,1 +1,3 @@
-Transcurso do 28º aniversário de emancipação política do Município de Água Fria de Goiás, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43f88d4d94de55381f1a0e1e21dcced0e7bbc5b32eb1354dfd957ac54017b701
+size 115

@@ -1,1 +1,3 @@
-Imediata realização das reformas política e tributária.  Urgente necessidade de revisão do pacto federativo em prol dos Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c34b693761af4f007221471f138d7a453b34a3e713414e5a9ca8f0031936e6e
+size 147

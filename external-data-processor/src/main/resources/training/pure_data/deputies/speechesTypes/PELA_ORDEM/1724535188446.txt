@@ -1,1 +1,3 @@
-Elogio ao Presidente Marco Maia e ao Líder do PMDB na Casa, Deputado Henrique Eduardo Alves, pela postura adotada a favor da regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de percentuais mínimos à saúde pela União, Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4de126836bbd9674e652a55f7a60b9d520d9dfc08f8790aadb3ee8a5db03c9c
+size 275

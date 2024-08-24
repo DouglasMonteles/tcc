@@ -1,1 +1,3 @@
-Prejuízos causados à população brasileira pela greve dos funcionários do Instituto Nacional do Seguro Social - INSS. Justeza das reivindicações da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:453167733099e9b09531a599dffe2433d4bec3c43aad30e4e88eee9fb28327ae
+size 164

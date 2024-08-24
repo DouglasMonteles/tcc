@@ -1,1 +1,3 @@
-Danos causados pelas chuvas no Município de Petrópolis, Estado do Rio de Janeiro. Anúncio de apresentação pela respectiva bancada federal de emendas orçamentárias destinadas a obras de infra-estrutura na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b075b0bacc2598c10f81852553451225507782152deb3143c4127874eb9673e
+size 226

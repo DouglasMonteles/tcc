@@ -1,1 +1,3 @@
-Desempenho do Partido Republicano Brasileiro - PRB nas eleições municipais realizadas no Estado do Maranhão. Apoio do PRB ao candidato João Castelo no segundo turno das eleições municipais de São Luís.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b53e97d1bacbbcd53e980ca28244cac6ab13b094c73e789928cf99aef6fd5790
+size 209

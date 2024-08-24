@@ -1,1 +1,3 @@
-Contestação a discurso de Deputada elogioso à situação do Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2791d506dc950dda23597e272d557117c8601f1b0bcc4ad96caa21dcfc356725
+size 83

@@ -1,1 +1,3 @@
-Considerações sobre a instalação da CPMI dos Cartões Corporativos. Defesa da criação de CPI para investigação das condições de pagamento dos juros da dívida pública brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34796579bbff9029b75929517204f5cf7ca5ed97d662b5f8cb253ec0deccc057
+size 189

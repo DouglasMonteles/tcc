@@ -1,1 +1,3 @@
-Expectativa de aprovação, pelo Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN, de reconhecimento da festa da marujada, no Município de Bragança, Estado do Pará, como patrimônio imaterial do Brasil. Registro de apresentação de indicação ao Ministro da Cultura para celeridade na tramitação do processo de registro da marujada como patrimônio imaterial do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f459f24d119d2abfab42d6a5f6c4a14d85df490f30af572445e79ca7aba1a004
+size 393

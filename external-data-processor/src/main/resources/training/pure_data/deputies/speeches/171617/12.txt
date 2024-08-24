@@ -1,1 +1,3 @@
-Encontro de membros da bancada federal agrária do PT com o Ministro do Desenvolvimento Agrário, Pepe Vargas. Obstáculos enfrentados para a efetiva implantação da reforma agrária no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a004223e5951ae4c0d074caee03c8ff6fab28618ccbbbef9c782f47ea44264ee
+size 193

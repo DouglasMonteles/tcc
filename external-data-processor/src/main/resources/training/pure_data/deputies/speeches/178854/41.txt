@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo adotado pela Comissão de Educação ao Projeto de Lei nº 10.880, de 2018, sobre a destinação, para o pagamento dos profissionais do magistério da educação básica pública, de recursos não utilizados do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, ressalvado o destaque.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3649121952953d3715146f896ab032f2b053ae99f14f02f65722c93eae0a5d6d
+size 409

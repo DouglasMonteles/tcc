@@ -1,1 +1,3 @@
-Posicionamento favorável do PTdoB ao Substitutivo ao Projeto de Lei 5.829 de 2005 (Dispõe sobre a criação de 400 Varas Federais destinadas precipuamente à interiorização da Justiça Federal de primeiro grau e à implantação dos Juizados Especiais Federais no País, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a49e6cdd6f82819e1be64315e558f39210db550df40a2ea5e75cd28b3ea89661
+size 303

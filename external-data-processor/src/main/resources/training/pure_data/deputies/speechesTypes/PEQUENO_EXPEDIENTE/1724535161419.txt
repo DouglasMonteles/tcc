@@ -1,1 +1,3 @@
-Apelo ao Supremo Tribunal Federal por revisão da Lei Orgânica da Magistratura Nacional, com vista à não concessão de aposentadoria a magistrado envolvido em ação delituosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77fc493b7cec0e1d7f2763f4e3a6a4dc00d0004d3fdc4e1f69d65856dfdafd4f
+size 179

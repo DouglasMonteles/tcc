@@ -1,1 +1,3 @@
-A Deputada expressou sua gratidão pela aprovação do Projeto de Lei nº 4.459, de 2021, que inclui informações sobre a Dislexia e o Transtorno do Déficit de Atenção com Hiperatividade (TDAH) nos censos demográficos. Enfatizou a necessidade dessas informações para orientar a criação de políticas públicas direcionadas a essas pessoas, ressaltando os esforços dos colegas Deputados Diego Garcia, Rejane Dias e Amália Barros, que contribuíram com propostas específicas para doenças raras, dislexia e visão monocular, respectivamente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4022d62ebd895b0190ba0fa4c5b77ce4233b936309df2bb26ac2953a26367dc4
+size 551

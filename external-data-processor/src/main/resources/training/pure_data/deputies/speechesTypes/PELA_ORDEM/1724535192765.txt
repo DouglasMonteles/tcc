@@ -1,1 +1,3 @@
-Convocação dos Deputados do PT ao Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c7029d5facb99511b090a45ca6ac3b731faf555a19af8fad93cc5da7985b4fa
+size 46

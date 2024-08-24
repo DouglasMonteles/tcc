@@ -1,1 +1,3 @@
-Contrariedade ao aumento dos recursos orçamentários destinados ao Fundo Partidário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4bbfcccb0b0b47625193ba760eb6bddc10eda83397c86598081b8332bceebb9
+size 86

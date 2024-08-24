@@ -1,1 +1,3 @@
-Transcurso do 46º aniversário de criação dos Municípios de Naviraí e Ivinhema, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d43caf5871465543c1dc6ec832a062a40e3c676cb1f781c0c713c45c970a4de7
+size 114

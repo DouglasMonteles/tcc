@@ -1,1 +1,3 @@
-Lançamento do Portal Social do Brasil pelo PSDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3cdccb6b59118872b8a1484cdb4c89a7c663c72e9280eef811ccc129fe9020d
+size 49

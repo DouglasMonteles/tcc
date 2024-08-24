@@ -1,1 +1,3 @@
-Encontro de membros da Frente Parlamentar em Defesa das Santas Casas de Misericórdia, Hospitais e Entidades Filantrópicas na Área de Saúde com representantes do setor, no Auditório Petrônio Portela do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24bab9d052ec3bd16c849aea4d7a3c6e10bed9a08f0383929fbd508024027cae
+size 222

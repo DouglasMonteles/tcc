@@ -1,1 +1,3 @@
-O Deputado destacou a importância do registro oficial da obstrução no painel, ressaltando que esse procedimento deve ser feito pelos partidos políticos e não pelas Frentes Parlamentares. Também mencionou a aprovação do marco temporal no Senado como uma demonstração de respeito à vontade da maioria e à capacidade legislativa do Parlamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ba97bd6710eb5aaf1c1d7f9422c7acc17c982b1ee88db60a29ca777f01e2d73
+size 352

@@ -1,1 +1,3 @@
-Vinculação entre o sucesso do Programa de Compliance Público, destinado ao combate à corrupção no Estado de Goiás, e a elevação dos investimentos do Governo Estadual na educação. Aprovação, pela Assembleia Legislativa, da proposta de compra do Hospital Materno Infantil encaminhada pelo Governador Ronaldo Caiado. Votos de feliz Natal e próspero Ano-Novo ao povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddf5835948a2873eaffdcad39e4bad4625ed76f667b317eed0a67dd1ad594f9b
+size 388

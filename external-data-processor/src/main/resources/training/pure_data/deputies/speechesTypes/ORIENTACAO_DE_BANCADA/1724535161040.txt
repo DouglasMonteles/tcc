@@ -1,1 +1,3 @@
-Orientação de bancada do PMDB contrária ao requerimento para votação nominal do requerimento de retirada de pauta do Projeto de Decreto Legislativo nº 1.491, de 2014, que susta a aplicação do Decreto nº 8.243, de 23 de maio de 2014, que institui a Política Nacional de Participação Social - PNPS e o Sistema Nacional de Participação Social - SNPS, e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4134b68ef411967f711dc919d8ed42da8f6c1c983eb47d75c37a587fe901af26
+size 389

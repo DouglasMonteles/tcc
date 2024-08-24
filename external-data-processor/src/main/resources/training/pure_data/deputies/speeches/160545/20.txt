@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM ao Projeto de Decreto Legislativo 350 de 2011 ( Aprova o texto do acordo entre o Governo da República Federativa do Brasil e o Governo da República de Guiné-Bissau sobre o exercício de atividade remunerada por parte de dependentes do pessoal diplomático, consular, militar, administrativo e técnico, assinado em Brasília, em 25 de agosto de 2010).
+version https://git-lfs.github.com/spec/v1
+oid sha256:af76bf499e3448861b2431d6c86885c227c60d11d2e93a191af125f8f311d56a
+size 387

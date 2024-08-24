@@ -1,1 +1,3 @@
-Comemoração do 119º aniversário natalício do educador Anísio Teixeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:187e956c6a1f0b9bb706486fd3cafff93de736ba8f74afb417793bfe96191ecb
+size 76

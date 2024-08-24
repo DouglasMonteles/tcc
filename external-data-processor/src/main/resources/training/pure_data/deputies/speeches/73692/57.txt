@@ -1,1 +1,3 @@
-Desestruturação da cadeia produtiva da suinocultura em face do embargo imposto pela Rússia às exportações de carne suína brasileira. Defesa de inclusão do setor no Plano Brasil Maior, destinado ao fortalecimento da indústria nacional. Propósito da bancada do PMDB de votação tão somente do projeto de lei sobre a criação do Programa Nacional de Acesso ao Ensino Técnico e Emprego - PRONATEC e da proposta de ampliação dos limites de enquadramento no Super-SIMPLES, antes da votação da proposta de regulamentação da Emenda Constitucional nº 29, de 2000, acerca da destinação de percentuais mínimos à saúde pela União, Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4f2dc55d6fa2adfd4c242a9aaed3aaa3b3f9b0253444df17be9292d4ab73614
+size 668

@@ -1,1 +1,3 @@
-Relevância dos trabalhos desenvolvidos pela Subcomissão Especial destinada ao debate do uso de agrotóxicos no País, instituída pela Comissão da Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural. Estabelecimento de política de incentivo à produção agroecológica. Lançamento do vídeo O Veneno Está na Mesa do Consumidor, de Silvio Tendler.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32017c1d633ed6ffe916ad56202887b082b15c04e30a54be97c9e0be9ae48e4e
+size 363

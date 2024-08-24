@@ -1,1 +1,3 @@
-Retrocesso da Portaria nº 665, de 2023, do Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, sobre a utilização de banheiros, dormitórios, vestiários e demais espaços segregados por gênero, conforme a identidade de gênero individual. Conveniência de ampliação de banheiros unissex.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7199e0e197ddb26cef8c9010ad568008ed5e0b9652cc20819d63d8cdb8dea9cf
+size 317

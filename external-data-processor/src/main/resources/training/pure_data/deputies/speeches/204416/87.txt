@@ -1,1 +1,3 @@
-Congratulações aos Parlamentares pela aprovação da Medida Provisória nº 1.021, de 2020, sobre a fixação do valor do salário mínimo em 1.100 reais, com vigência a partir de 1º de janeiro de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce3c3ace0c19f440c5291f73546ed4c744d94d11da0e7340c468e502645501a2
+size 206

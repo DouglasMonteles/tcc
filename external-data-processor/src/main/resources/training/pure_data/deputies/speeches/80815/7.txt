@@ -1,1 +1,3 @@
-Instalação de órgãos federais na região comercial de Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80e2e9c9fb24ebfe38fe02eceb7abeede1a4e12847380dce9af8702f57c7525c
+size 84

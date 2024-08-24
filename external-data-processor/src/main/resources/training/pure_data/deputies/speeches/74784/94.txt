@@ -1,1 +1,3 @@
-Exibição do filme Perdão, mister Fiel, na Comissão Parlamentar Memória, Verdade e Justiça, da Comissão de Direitos Humanos e Minorias, a respeito do operário Manuel Fiel Filho, torturado e morto nos porões da ditadura militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4816806c1e27b92aa505d0fa493a7ea2b1ab4c598a34fca47bf2d8cc29945c0
+size 235

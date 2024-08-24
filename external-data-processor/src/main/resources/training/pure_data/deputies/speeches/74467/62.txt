@@ -1,1 +1,3 @@
-Transcurso dos 25 anos de falecimento do Vice-Governador do Estado da Paraíba Raimundo Asfora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eb0281bbd99f38f84fa3236b9d3605b33d10c80567789c625999a0b48dd82a1
+size 95

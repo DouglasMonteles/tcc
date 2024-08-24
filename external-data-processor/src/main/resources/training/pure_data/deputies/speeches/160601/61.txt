@@ -1,1 +1,3 @@
-Indignação do orador com as diretrizes do Plano Nacional de Educação para a educação religiosa no currículo escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9ff4ca73c077528b9f0632785d713be54a3a388d1ee220b69da1774d237453
+size 123

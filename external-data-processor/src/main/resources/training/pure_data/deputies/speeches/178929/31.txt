@@ -1,1 +1,3 @@
-Autorização de pagamento de emenda parlamentar de autoria do orador para a aquisição de equipamentos para a Santa Casa do Município de Bandeirantes, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:128f24d71828ebbbc690dcdf45858a9cdd9532fd25873451aff461d7ba9f8faa
+size 172

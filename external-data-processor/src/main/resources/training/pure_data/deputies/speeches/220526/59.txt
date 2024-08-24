@@ -1,1 +1,3 @@
-O Deputado expressou sua insatisfação com a gestão financeira do governo Lula. Argumentou que o governo gasta bilhões de reais com ministérios e compra de apoio político, enquanto as prefeituras enfrentam dificuldades financeiras. Além disso, questionou a visita do Ministro da Justiça e Segurança Pública, Flávio Dino, ao Complexo da Maré, controlado pelo Comando Vermelho, uma das facções criminosas mais perigosas do mundo. Insinuou ainda que o Ministro precisou de autorização de traficantes para entrar na área. Também criticou a recusa do Ministro em comparecer à Comissão de Segurança Pública da Câmara, alegando temer pela sua segurança devido à presença de Deputados policiais armados. Concluiu acusando o Ministro de desrespeitar o Congresso Nacional e de cometer crime de responsabilidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:847ccae78ecd4bb052e3421674e1bae98a9a540f57112f749ed4fe064be1650c
+size 826

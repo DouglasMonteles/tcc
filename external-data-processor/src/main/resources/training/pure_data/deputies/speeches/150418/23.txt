@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar em Defesa da Capoeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d1291f4bf978cccbc8e42b92650791db1fb05c7d5e983801262aeb6257924e3
+size 54

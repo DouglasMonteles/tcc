@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Decreto Legislativo nº 160, de 2022, sobre a aprovação do texto do Protocolo sobre Transferência de Pessoas Sujeitas a Regimes Especiais (Complementar ao Acordo sobre Transferência de Pessoas Condenadas entre os Estados Partes do Mercosul, a República da Bolívia e a República do Chile), celebrado em Assunção, em 20 de junho de 2005.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b38ded7a94edd2e6f17f54b14700aeabc1d92d287a717ca7f57f8100d3ae0956
+size 395

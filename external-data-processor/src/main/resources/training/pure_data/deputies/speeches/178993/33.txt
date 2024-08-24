@@ -1,1 +1,3 @@
-Requerimento de Indicação à Presidente Dilma Rousseff propondo a finalização da duplicação da BR-153, Estado do Tocantins, e construção da Ponte de Xambioá. Anúncio do lançamento pela Ministra da Agricultura, Pecuária e Abastecimento, Kátia Abreu, do consórcio geográfico entre os Estados do Maranhão, Piauí, Bahia e Tocantins, o MATOPIBA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d417569e65e9622a05f0041a6fc2c5a9bb4a20fed4a2475660418781ff0fde8
+size 357

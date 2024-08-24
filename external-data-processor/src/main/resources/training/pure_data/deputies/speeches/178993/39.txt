@@ -1,1 +1,3 @@
-Compromisso do orador com o mandato parlamentar em prol da área de saúde pública no Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35c1231275dd04a4694af157f83b5a9b1c1bc3f041d3016eaf405f4e1f20c636
+size 107

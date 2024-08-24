@@ -1,1 +1,3 @@
-Transcurso do Dia do Evangélico. Homenagem aos evangélicos brasileiros. Aprovação, pela Casa, de projeto de lei sobre o reconhecimento do cristianismo como manifestação cultural brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae790a84c35f90ffa32969d30bb816ca3a449dd9ea769e652c73c00a9bd98220
+size 195

@@ -1,1 +1,3 @@
-Editorial Omissão generalizada, a respeito da criação de reservas indígenas em Mato Grosso do Sul, publicado pelo jornal Correio do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb237300c29096b999b3e5708012ed0ec5ef8aee3878544f99778fa0995dbf4c
+size 143

@@ -1,1 +1,3 @@
-Manifestação de Deputadas pela coibição da violência contra a mulher. Impropriedade da atitude do Deputado Márcio Jerry envolvendo à Deputada Julia Zanata. Imediata convocação de novos policiais pelo Governador do Estado de Mato Grosso, Mauro Mendes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a0a41cac8867b8d54b7a9fb1c9499deb0c58ead3751aba0ac170f610e277f1c
+size 259

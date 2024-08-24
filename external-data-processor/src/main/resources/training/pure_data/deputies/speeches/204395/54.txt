@@ -1,1 +1,3 @@
-Despropósito da declaração do Presidente Agência de Promoção de Exportações e Investimentos - ApexBrasil, Jorge Viana, sobre a degradação do meio ambiente pelo agronegócio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46b83b58ce1cf36811f021d99252349e3cbd9c0c5ea72cfd9f59802661719391
+size 183

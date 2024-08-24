@@ -1,1 +1,3 @@
-Repúdio à indicação da ex-Presidente Dilma Rousseff para o cargo de Presidente do Banco de Desenvolvimento do BRICS (Brasil, Rússia, Índia, China e África do Sul). Inconsistência do currículo da petista para gestão da instituição financeira multilateral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:987c2fa67a25d517e291d2b4ed60da9aff03f7d3846f0f1dcf0a5ce6d3b09c66
+size 266

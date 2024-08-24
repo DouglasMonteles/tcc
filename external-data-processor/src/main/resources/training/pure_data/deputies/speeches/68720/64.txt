@@ -1,1 +1,3 @@
-Realização da peregrinação ao Santuário de Divina Pastora, no Estado de Sergipe. Apelo ao Governador Belivaldo Chagas e à Companhia de Saneamento de Sergipe para a construção de caixa d´água ou de reservatórios na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7c477f5f264ff32cbfc230ee18d4cc97f097bc56387755f1bd5db486c28d6d7
+size 240

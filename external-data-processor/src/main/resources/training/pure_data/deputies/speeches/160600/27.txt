@@ -1,1 +1,3 @@
-Convocação dos Deputados do PMDB ao plenário para votação nominal  do Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória 533 de 2011 (Autoriza a União a transferir recursos financeiros aos Municípios e ao Distrito Federal, com a finalidade de prestar apoio financeiro à manutenção de novos estabelecimentos públicos de educação   infantil, e  dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7925bf14dd9b1574d2fa3ab25d76118eb4a93269a0bf8b5b055b32a9574f15f1
+size 403

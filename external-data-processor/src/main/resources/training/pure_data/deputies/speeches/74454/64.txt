@@ -1,1 +1,3 @@
-Transcurso do centenário de criação do Departamento Nacional de Obras Contra as Secas - DNOCS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4771f40dfa9317c9ef7814e1051de02106e7a4a543aa8e1449d54ac4e635154c
+size 97

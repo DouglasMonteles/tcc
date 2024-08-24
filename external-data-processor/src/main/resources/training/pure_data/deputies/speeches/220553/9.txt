@@ -1,1 +1,3 @@
-O Deputado celebrou a 34ª edição da Festa da Uva em Caxias do Sul, Rio Grande do Sul. Anunciou que a comitiva do evento estava em Brasília para divulgar a festa. Esclareceu que o evento comemora os 150 anos da colonização italiana no Brasil, envolvendo o setor industrial, agrícola, inclusive a agricultura familiar. Convidou todos os colegas Parlamentares para visitarem a Serra Gaúcha. Por fim, reconheceu a importância da Lei Rouanet, que viabilizou os recursos de quase 6 milhões de reais junto ao Ministério da Cultura para a realização da Festa da Uva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a8ddbc8aab6616b2c9c34089ab7d854792a0df2653b4fd059a55522634fcbf9
+size 571

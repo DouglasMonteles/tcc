@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Café. Realização pela empresa EMBRAPA Café de exposição nas dependências da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e81723e2c6076f2514ccce9edcf973e11a8356e81b128e19e0414019d17fbfcb
+size 118

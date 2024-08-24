@@ -1,1 +1,3 @@
-Leitura de ato da Presidência sobre a criação da Comissão Especial destinada à emissão de parecer à Proposta de Emenda à Constituição nº 212-A, de 2016, sobre a instituição do Regime Especial de Pagamento de Precatórios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bab8b7802de15858e52f05378df6efa94710e2908299cd07a96ae3c51ed2d868
+size 234

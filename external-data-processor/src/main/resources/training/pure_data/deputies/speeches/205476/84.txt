@@ -1,1 +1,3 @@
-Apresentação de projeto de lei a respeito do comércio de óleos lubrificantes em lojas de autopeças e mercados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b44c6c9ef8ab1ee72edea82f9e7cab56420640aa5a4c50fda3bde43e8476dc0e
+size 115

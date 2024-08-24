@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Recurso nº 17, de 2021, contra o parecer terminativo da Comissão Mista pela inadequação financeira e orçamentária da Emenda do Senado Federal nº 5, oferecida ao Projeto de Lei de Conversão nº 4, de 2021, da Medida Provisória nº 1.016, de 2020, sobre a alteração da Lei nº 7.827, de 1989, com vista à renegociação extraordinária de débitos no âmbito do Fundo Constitucional de Financiamento do Norte - FNO; do Fundo Constitucional de Financiamento do Nordeste - FNE; e do Fundo Constitucional de Financiamento do Centro-Oeste - FCO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90c49989d8aab06be267e545592cd017bb411ffa0de273956189878db9ceae5a
+size 591

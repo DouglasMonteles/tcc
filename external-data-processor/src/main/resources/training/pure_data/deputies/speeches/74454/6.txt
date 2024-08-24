@@ -1,1 +1,3 @@
-Ampliação do Aeroporto Internacional Pinto Martins, em Fortaleza, Estado do Ceará. Desenvolvimento da economia cearense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d711e0b0b37bf4b5048ab2db05cc28246ce4b8349db1d53119a38f299ffa4a1
+size 123

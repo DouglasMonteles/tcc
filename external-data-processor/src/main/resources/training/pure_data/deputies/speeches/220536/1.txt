@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios sob o tema Pacto federativo: um olhar para o futuro. Saudações aos Prefeitos Pedro Henrique Machado e Wenston Paulino Berto Raposo, respectivamente, dos Municípios de Alto Alegre e Normandia, Estado de Roraima. Fomento de políticas públicas e projetos voltados ao municipalismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f496785afc1111e97ae6d91d056d318c4fcb0700a2cd5319d53d9195721d5711
+size 349

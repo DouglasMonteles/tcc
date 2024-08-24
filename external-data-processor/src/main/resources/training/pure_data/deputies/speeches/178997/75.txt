@@ -1,1 +1,3 @@
-Visita do Ministro da Integração Nacional, Helder Barbalho, e do Presidente do Congresso Nacional, Senador Eunício Oliveira, às obras da Transposição do Rio São Francisco no Estado do Ceará. Apreensão ante os efeitos da crise financeira da Empresa Brasileira de Correios e Telégrafos - ECT sobre os pequenos Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f5337357ce95daec353566fe6217286ee903b7465b01b5bb69ea6a1e6369a7d
+size 342

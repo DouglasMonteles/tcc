@@ -1,1 +1,3 @@
-Perda de elevado número de postos de trabalho no primeiro mês do Governo Luiz Inácio Lula da Silva. Defesa da independência e autonomia do Banco Central do Brasil. Pedido aos Parlamentares de apoiamento à criação de CPMI para investigação da invasão e vandalismo das sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ead4979e9a487cd0bccda8ca0bde0d888fbc2f8d6723373135ed690274c3227
+size 309

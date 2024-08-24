@@ -1,1 +1,3 @@
-Agradecimento aos familiares do orador e ao eleitorado fluminense pela assunção do mandato parlamentar. Transcurso do 81º aniversário natalício do Pastor Fábio Antônio da Silva, fundador-presidente da Igreja Socorrista Evangélica, sediada no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6596ac21136ba79e4e7570d7c85537eb9d3ab1bdab117d5cc805553c8d733462
+size 291

@@ -1,1 +1,3 @@
-Regozijo com a criação de novos empregos formais no Estado do Ceará. Nomeação de Dom Antônio Fernando Saburido para Arcebispo Metropolitano da Arquidiocese de Olinda e Recife, Estado de Pernambuco. Transcurso do Dia do Advogado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ebefc61702d7b661b858e5c4caf2a917e9a0edea59ead96dc656419f2869690
+size 234

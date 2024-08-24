@@ -1,1 +1,3 @@
-Acerto da não premiação do documentário Democracia em Vertigem, da cineasta Ana Petra Costa, com o Oscar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bca51b3de09574c2b3161a5c94daa796f9fb0bf78f03a6672c25fef1e229501f
+size 109

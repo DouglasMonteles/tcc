@@ -1,1 +1,3 @@
-Encontro do orador com o Secretário de Saúde de Dourados, Mário Eduardo Rocha Silva, para o estabelecimento de ações estratégicas para a saúde no município. Manutenção do País em estado de alerta para o combate à Influenza A (H1N1).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f0c8bca8f24ff412d6001b8d3832fede40ebade79b8f66d9c3d062ebcada549
+size 244

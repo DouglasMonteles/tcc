@@ -1,1 +1,3 @@
-Posicionamento favorável do PR ao  parecer pela admissibilidade da Medida Provisória 421 de 2008 (Dispõe sobre o salário mínimo a partir de 1º de março de 2008).
+version https://git-lfs.github.com/spec/v1
+oid sha256:570ac6639c414bc6d760c6f3a2c806f80bac2393e19ef354b2eb91088ed56dcf
+size 168

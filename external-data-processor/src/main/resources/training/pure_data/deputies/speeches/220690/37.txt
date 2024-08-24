@@ -1,1 +1,3 @@
-O Deputado denunciou a onda de violência no sul da Bahia, associando-a ao MST e a supostos membros do PCC disfarçados de indígenas. Criticou a falta de ação efetiva das forças de segurança destacadas para a região e alegou existir uma ordem do Governo Estadual que restringe a atuação policial na proteção de propriedades privadas. Elogiou a ação proativa da Polícia Militar de Santa Catarina contra o MST e defendeu uma resposta mais firme das autoridades policiais frente a invasões de propriedade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d290efec0fd848d2002dc35ffc12fd0b3de211da3c0e58483c37f16837701d81
+size 516

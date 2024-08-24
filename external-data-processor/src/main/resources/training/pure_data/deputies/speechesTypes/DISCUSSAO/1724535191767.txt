@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 3.170, de 2015, que altera a Lei nº 8.069, de 13 de julho de 1990, para garantir o direito a acompanhamento e orientação à mãe com relação à amamentação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:735d2244d5055d9068628fef36a5050b9f6fa344080630a99d3763b8b4f7821e
+size 196

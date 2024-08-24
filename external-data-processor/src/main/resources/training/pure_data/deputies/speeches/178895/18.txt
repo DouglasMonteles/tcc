@@ -1,1 +1,3 @@
-Cumprimentos ao Juiz Eliezer Siqueira de Souza Júnior da 1ª Vara Cível e Criminal, pela decisão na ação de pedido de reparação por danos morais impetrada pela genitora de aluno cujo aparelho celular esteve confiscado por professor do Município de Tobias Barreto, Estado do Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1234dfea92b69df6d7489aef2a624931a18eb999ee2ce6ff91dbac687a9ed77c
+size 290

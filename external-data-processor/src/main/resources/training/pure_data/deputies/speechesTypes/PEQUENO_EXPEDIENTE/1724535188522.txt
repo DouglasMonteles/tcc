@@ -1,1 +1,3 @@
-Subserviência do Presidente Jair Bolsonaro ao sistema financeiro. Retirada de direitos dos trabalhadores brasileiros. Expectativa quanto à decisão do Supremo Tribunal Federal sobre a execução da pena após a condenação em segunda instância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08c7019fdc4bd37749a4e054e54c627cf2af262303e3fef08c5fb88523cdb105
+size 248

@@ -1,1 +1,3 @@
-Homenagens às Organizações Rômulo Maiorana ao ensejo do transcurso do 40º aniversário de fundação da TV Liberal, afiliada à Rede Globo, no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd1774878a1095a59d3b0828def3b24bcadeb3756aef27a939bd9f5d3ec4ef6c
+size 164

@@ -1,1 +1,3 @@
-Ampliação do número de matrículas em cursos de ensino superior no Brasil. Aumento do número de cursos a distância. Defesa de ampliação de políticas de inclusão social em prol do acesso ao ensino superior no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3036bacaac3ebe47ee07b5b8e27c2fafe317eb579938ff377f35e9f5678445f5
+size 223

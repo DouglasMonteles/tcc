@@ -1,1 +1,3 @@
-Esclarecimentos de que o Governo não tem nenhum interesse em suprimir direitos na consolidação de legislação .
+version https://git-lfs.github.com/spec/v1
+oid sha256:48ec6a7eddf2cd426ba95879acbe068afe98b2a367a7cee276eadcfbfb45a205
+size 115

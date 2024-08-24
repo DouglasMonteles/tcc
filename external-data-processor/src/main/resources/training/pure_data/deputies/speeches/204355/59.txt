@@ -1,1 +1,3 @@
-Definição, pela bancada federal espírito-santense, das emendas prioritárias ao Orçamento Geral da União de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ae07fd3c54027f7ef9c1793701e3e373ed03528e775051660244aa2899b7379
+size 118

@@ -1,1 +1,3 @@
-Participação da Prefeita Iracema Vale, do Município de Urbano Santos, Estado do Maranhão, em cerimônia no SEBRAE de Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87f0e88feb675542d789d94706e4be23c15f33eef31abf124072839d182b1756
+size 149

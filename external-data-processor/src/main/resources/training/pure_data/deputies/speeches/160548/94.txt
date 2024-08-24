@@ -1,1 +1,3 @@
-Congratulações ao ex-Líder do Governo na Casa, Deputado Cândido Vaccarezza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b6795b13f27d235ef02465ad60212f7190087d832eece0ba96c8a82e6526422
+size 79

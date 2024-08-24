@@ -1,1 +1,3 @@
-Presença no plenário do Deputado Estadual Paulo Carneiro, de Tocantins, Presidente da Federação da Agricultura e Pecuária do Estado do Tocantins - FAET.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66889ffe4e21008a2e0b2a7ff0bc6cc6814ec100acfc0650cf7ed308bf58b903
+size 157

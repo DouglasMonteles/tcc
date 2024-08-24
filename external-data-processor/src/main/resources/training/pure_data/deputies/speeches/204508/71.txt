@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Decreto Legislativo nº 292, de 2021, para sustação dos efeitos do art. 38 da Portaria GM/SM nº 1.263, de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3d13c9002978cd2aa6cc49c32ef3bf128232b9c59ab2cd9bd9e19b48bc983ea
+size 148

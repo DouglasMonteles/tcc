@@ -1,1 +1,3 @@
-Críticas ao discurso da Presidenta Dilma Rousseff em rede nacional por ocasião do Dia Internacional da Mulher. Apoio à manifestação de parte da população brasileira em repúdio à corrupção no País. Convite à sociedade para participação em manifestação contra o Governo programada para o dia 15 de março.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9898722cb06c8316d6fcb037e46421fc2b4e2dc7cc54ecd8ed7270a749167b5
+size 320

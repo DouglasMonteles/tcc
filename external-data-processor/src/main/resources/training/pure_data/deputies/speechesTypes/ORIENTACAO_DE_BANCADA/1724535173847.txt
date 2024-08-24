@@ -1,1 +1,3 @@
-Envolvimento do PT com a facção criminosa Primeiro Comando da Capital - PCC. Orientação de bancada na votação do requerimento de votação nominal do Projeto de Lei do Congresso Nacional nº 6, de 2019, sobre abertura ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral, do Trabalho e do Distrito Federal e dos Territórios, do Ministério Público da União e do Conselho Nacional do Ministério Público, de crédito suplementar no valor de R$ 236.566.628,00, para reforço de dotações constantes da Lei Orçamentária vigente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6d4b61679089551e43a7304068d1481dbc635bae54610274a3501b354b5d77f
+size 559

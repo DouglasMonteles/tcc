@@ -1,1 +1,3 @@
-Pesar com a redução da produção de café no Brasil em decorrência da estiagem. Necessidade de incentivo governamental para recuperação do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef58e964178b6e3c99e0cbb05f527fcb2888cdfea4949cefffb6690695e05c9b
+size 151

@@ -1,1 +1,3 @@
-Indignação com a escolha do nome do orador para personagem do filme Tropa de Elite 2. Solicitação à Presidência de adoção de providências acerca do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a056b416e195d27eef29e76ecb2cbd43079e031828b29abb43878588e9b0196
+size 165

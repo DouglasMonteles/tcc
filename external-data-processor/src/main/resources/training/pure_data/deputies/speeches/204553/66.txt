@@ -1,1 +1,3 @@
-Defesa da concessão do direito do porte de arma de fogo às Guardas Municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96a1bec63f99815862a8a9e8f976f02e3c1c5a5496f99e921910c7ddaa9c8751
+size 80

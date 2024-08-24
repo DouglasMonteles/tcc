@@ -1,1 +1,3 @@
-Concessão do título de Cidadão Honorário do Estado do Paraná ao ex-Deputado Federal Euclides Scalco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b2d9688954f82adee39c458593ad40fdbccd9079885be323e4b460342afdc2f
+size 105

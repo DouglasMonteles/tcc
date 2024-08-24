@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de retirada da pauta do substitutivo do Senado Federal ao Projeto de Lei nº 333-B, de 1999, sobre a alteração da Lei nº 9.279, de 1996, acerca da regulação de direitos e obrigações relativos à propriedade industrial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3034aec215dd3027e3f35d7d9b2109aed90f7e232735a5a9c1ec02af403b3fc1
+size 280

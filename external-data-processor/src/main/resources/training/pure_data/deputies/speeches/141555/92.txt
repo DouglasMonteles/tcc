@@ -1,1 +1,3 @@
-Compromisso de atuação parlamentar em prol da defesa dos direitos do consumidor. Insatisfação com a qualidade dos serviços prestados por instituições financeiras, em especial a Caixa Econômica Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54fbac21c7985f0de87e57985fd0638273a3110b29b511eb525e48f6f814b8e2
+size 209

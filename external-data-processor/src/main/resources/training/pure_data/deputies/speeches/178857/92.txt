@@ -1,1 +1,3 @@
-Contrariedade à Proposta de Emenda à Constituição nº 241, de 2016, sobre a instituição do Novo Regime Fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b992558677933b45dba7a489f75de6c8026ff411a56d1ce79549c8005fa035f9
+size 116

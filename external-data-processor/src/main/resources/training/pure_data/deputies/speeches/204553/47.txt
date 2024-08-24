@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 7.475, de 2017, sobre a revogação de dispositivos do Código Penal acerca da tipificação do crime de rixa e dos crimes contra a honra. Congratulações ao Senado Federal pela retirada do dispositivo sobre a obrigatoriedade do trabalho aos domingos, constante no corpo da Medida Provisória nº 881, de 2019, sobre a Declaração de Direitos de Liberdade Econômica, o estabelecimento de garantias de livre mercado e a análise de impacto regulatório.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cb78bf180c76f5fa04bd300916631b50814120fa186a4a344516fa0a315ff45
+size 569

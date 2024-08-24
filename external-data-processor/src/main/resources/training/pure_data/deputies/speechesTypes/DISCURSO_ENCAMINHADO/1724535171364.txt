@@ -1,1 +1,3 @@
-Comemoração do aniversário de criação da Polícia Ferroviária Federal. Congratulações ao Sindicato dos Policiais Ferroviários Federais do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69d196c0d61e8990fd472fafb940ceb3a0e68a26b50e77c320d10fbc7d967825
+size 168

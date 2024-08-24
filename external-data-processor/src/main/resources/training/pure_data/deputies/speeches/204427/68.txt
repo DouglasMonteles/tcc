@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de apreciação em regime de urgência urgentíssima do Projeto de Lei nº 3.083, de 2023, sobre a destinação de recursos públicos às festividades de São João, e o estabelecimento de percentual mínimo para a contratação de artistas e conjuntos musicais representativos da cultura popular do forró.
+version https://git-lfs.github.com/spec/v1
+oid sha256:362d4b471453515e51c27c6e6169d7273651cb72e9351bf000b9569f54ed02d3
+size 351

@@ -1,1 +1,3 @@
-Avanço de políticas sociais e exclusão do Brasil do Mapa da Fome no Governo Luiz Inácio Lula da Silva. Responsabilidade do Presidente Jair Bolsonaro por mortes decorrentes da Covid-19, em face da recusa à aquisição de vacinas em tempo hábil. Caráter machista, misógino, racista, preconceituoso e corrupto do Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3dd302002a5e36a59470b9755ada7c327f342a784b0c2e3047a0de750e9cdf3
+size 343

@@ -1,1 +1,3 @@
-Agradecimento ao Ministro da Integração Nacional, Fernando Bezerra, pela audiência concedida ao orador e Prefeitos Municipais da Região Metropolitana de Campinas, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2adc46467ff242b13499c3681ce03fb22df9abbade46ea9b7544c0f29962c1c
+size 188

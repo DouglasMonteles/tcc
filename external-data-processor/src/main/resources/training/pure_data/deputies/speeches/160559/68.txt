@@ -1,1 +1,3 @@
-Solicitação à Presidência de divulgação de pronunciamento anterior do orador no programa A Voz do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd22d2a9285cd67565e4f6e3000f2c4fe9acfecad02ea48d393d7989406d5179
+size 111

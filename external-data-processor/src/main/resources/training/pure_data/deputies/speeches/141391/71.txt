@@ -1,1 +1,3 @@
-Encaminhamento de votação  do parecer pela admissibilidade da   Medida Provisória 429, de 2008 (Autoriza a União a participar na formação do patrimônio do Fundo de Garantia para a Construção Naval, FGCN, e dá outras providências). Consistência do parecer do Deputado Edmilson Valentim, Presidente da Frente Parlamentar da Indústria Naval. Discordância do envio da matéria sob a forma de medida provisória. Defesa da apreciação de propostas que alterem o rito de tramitação de  medidas provisórias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fe330c436e1641c588ce2cf1ceb4486cc4712de9cfbdef9ff8cc8a20cc8698b
+size 518

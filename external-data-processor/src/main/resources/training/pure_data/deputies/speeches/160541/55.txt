@@ -1,1 +1,3 @@
-Posicionamento contrário do PP à PEC 37, de 2011 (Acrescenta o § 10 ao art. 144 da Constituição Federal para definir a competência para a investigação criminal pelas polícias federal e civis dos Estados e do Distrito Federal), em apreciação em primeiro turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6ee46adae68bd50de424e551f19a66002ca289e9285a70fcb44902465d3a7a9
+size 270

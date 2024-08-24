@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para supressão do art. 3º do Projeto de Lei de Conversão nº 17, de 2020, da Medida Provisória nº 932, de 2020, sobre a alteração das alíquotas de contribuição aos serviços sociais autônomos especificados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:faaf587d9ffea0ac1f95428e0cf5dbfe971350b79e7dce4d59bfd32f7c7e6367
+size 273

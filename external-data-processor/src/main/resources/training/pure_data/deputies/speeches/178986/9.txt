@@ -1,1 +1,3 @@
-Aprovação pela Comissão de Meio Ambiente e Desenvolvimento Sustentável de projeto de lei relativo à criação da Política Nacional de Incentivo à Formação de Bancos Comunitários de Sementes e Mudas de Variedades e Cultivares Locais, Tradicionais ou Crioulos. Contestação a pronunciamento de Deputado sobre aumento da aplicação de multas a motoristas pela Prefeitura Municipal de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb1f56bc530d9291045c4f8b33a1ca313d9d887f08a42df13fb5a122d45bd017
+size 426

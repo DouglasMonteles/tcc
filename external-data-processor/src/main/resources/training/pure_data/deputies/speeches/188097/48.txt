@@ -1,1 +1,3 @@
-Caráter falacioso do discurso proferido pelo Presidente Jair Bolsonaro na abertura da Assembleia-Geral da Organização das Nações Unidas - ONU. Continuidade da defesa, pelo Presidente da República, do uso de medicamentos ineficazes para o tratamento da Covid-19. Paralisação, pelo Instituto de Pesquisas Energéticas e Nucleares - IPEN, da produção de radiofármacos e radioisótopos em face do corte de recursos orçamentários do órgão. Defesa de aprovação do Projeto de Lei do Congresso Nacional nº 16, de 2021, com vista à destinação de recursos ao IPEN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b1f9386ccfba7c2e74d65d99e2481db4addc68afc58c2164bd461484e627102
+size 575

@@ -1,1 +1,3 @@
-Prisão do Vereador Maninho, do Município de Diadema, Estado de São Paulo, durante negociação para desocupação de área por trabalhadores sem-teto no Bairro Eldorado. Manifestação de solidariedade ao político paulista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:800963728926c424320d2b91846dbe377794311827538701cc14a63e886b8927
+size 227

@@ -1,1 +1,3 @@
-Necessidade de adoção pelo Governo do Distrito Federal de providências acerca da greve de rodoviários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4967f285609c048387ba0d1ada114d64a68c2459926f853e20bece836c2a9f93
+size 106

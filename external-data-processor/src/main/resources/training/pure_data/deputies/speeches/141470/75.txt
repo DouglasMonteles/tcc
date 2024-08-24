@@ -1,1 +1,3 @@
-Discussão sobra a reforma política em reunião de Comissão Geral. Defesa de votação do financiamento público de campanha e da lista fechada preordenada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5adbf2103ef03d6945afef2b6cd95ff8aed75bee278eecd10e45da04febdfc55
+size 158

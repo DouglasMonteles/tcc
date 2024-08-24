@@ -1,1 +1,3 @@
-Retirada da obstrução das votações pelo PSL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaf32dd2d09e8304f57a3e8bbd1cede30bc051c9990d81bb8cfa7de00031a66c
+size 48

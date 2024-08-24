@@ -1,1 +1,3 @@
-Ações do Governo Luiz Inácio Lula da Silva para combate à fome e às desigualdades sociais. Acerto da política econômica adotada pelo governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:caa83d66c329870d14f67ffea7dc07f3990247af05d6306bbcd831c5873d9150
+size 156

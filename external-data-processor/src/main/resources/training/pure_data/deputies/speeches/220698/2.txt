@@ -1,1 +1,3 @@
-Encaminhamento ao Ministério da Saúde do Requerimento de Indicação nº 265, de 2023, para atualização da tabela de procedimentos do Sistema Único de Saúde - SUS.&nbsp;Expectativa de debate do tema pela Comissão de Saúde da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0302c4c1e45d09add1eaa9e9732228e27720cc63e445f2385f643c8c8e1237dc
+size 255

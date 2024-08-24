@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios sob o tema Pacto Federativo: um olhar para o futuro. Corroboração do apoio do orador aos gestores municipais brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e22390a82279c35f5fbc4c4d94a5eb3ebd323bffb50d1e4a6f6ffdb5cc64e66
+size 189

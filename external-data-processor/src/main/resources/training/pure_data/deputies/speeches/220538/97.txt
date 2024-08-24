@@ -1,1 +1,3 @@
-Compromisso da Casa de votação da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares, e de medida provisória constante na pauta. Conveniência de votação, pela Casa, da Proposta de Emenda à Constituição nº 89, de 2003, impeditiva da utilização do benefício da aposentadoria como punição para magistrados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc26159f5053c4ab9b2ec48f950daefa21c585f5832237d02dc37498da15a353
+size 401

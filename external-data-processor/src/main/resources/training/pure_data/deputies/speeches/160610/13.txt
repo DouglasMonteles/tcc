@@ -1,1 +1,3 @@
-Documento Em Defesa do Código Florestal, pelo Direito dos Camponeses e Camponesas ao uso Sustentável das Florestas, subscrito por entidades sindicais e ambientalistas. Entrevista concedida ao jornal A Tarde pelo Coordenador Estadual do Movimento dos Trabalhadores Rurais Sem Terra, Márcio Matos, a respeito da situação da reforma agrária no Estado da Bahia e no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1075682addd8c8e8049e08920484fb4401e4f230e45b86bdcaa1911688a46e2
+size 375

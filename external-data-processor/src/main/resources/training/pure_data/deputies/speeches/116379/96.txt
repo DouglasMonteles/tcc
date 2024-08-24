@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de preferência para votação da Medida Provisória nº 897, de 2019, sobre o Projeto de Lei de Conversão nº 30, de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63ef463bb4f70770dc75f9747b1700dc29bf9fc334a64455664e234e3fdd839d
+size 177

@@ -1,1 +1,3 @@
-Início dos trabalhos da Comissão Especial destinada à elaboração de propostas de combate aos efeitos de tragédias naturais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebfa4ccc2a7230006f841f41c429e89e8b88f407dfc147cad1103ec43800c8ac
+size 129

@@ -1,1 +1,3 @@
-Apresentação de projeto de decreto legislativo para a suspensão dos efeitos da Portaria nº 2.222, de 2012, do Ministério da Justiça, a respeito da demarcação de terras de Mato Preto, Estado do Rio Grande do Sul. Caráter fraudulento de processos de demarcação de terras indígenas promovidos pela FUNAI. Pedido a Governadores Estaduais e à Presidenta Dilma Rousseff de adoção de providências a respeito do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b65e9690d73572b6506ddd2fbd91bb7d79ab7b024d68202229a8741567b8bfc1
+size 428

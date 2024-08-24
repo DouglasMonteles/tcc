@@ -1,1 +1,3 @@
-Vinculação entre a implantação do Pólo Petroquímico de Camaçari e o desenvolvimento industrial do Estado da Bahia. Presença do orador em festejos juninos e em convenções partidárias de Municípios baianos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f707c1be3e20ea452b1573a094cfca18694dbd5edb9db94a9a6883564c6aad6
+size 216

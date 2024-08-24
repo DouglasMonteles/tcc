@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 3.792, de 2019, sobre a criação do selo Empresa Amiga da Mulher. Avanço de projetos de lei e decretos lançados pelo Presidente Luiz Inácio Lula da Silva em benefício das mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6564e21f46659382bc0f166f43505c0afca049ef55c09b5258a3c4d6a16b9b1
+size 218

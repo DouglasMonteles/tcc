@@ -1,1 +1,3 @@
-Constatação, pelo Tribunal de Contas da União - TCU, da existência de desequilíbrio na distribuição de recursos para a realização de obras preventivas de catástrofes. Caráter ufanista do PAC 2.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ed21e7c6e92e97361e6340a6966619950eec6765ffc8b306122b62838a39c22
+size 204

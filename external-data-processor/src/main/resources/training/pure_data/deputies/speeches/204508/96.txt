@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 442, de 1991, a respeito da legalização dos jogos cassinos no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ba68c89e49a6197567680c2bb16c5db14db709a54a4c1e6f91b76edd96eff92
+size 185

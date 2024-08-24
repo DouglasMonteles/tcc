@@ -1,1 +1,3 @@
-Protesto dos consumidores contra os péssimos serviços oferecidos pelas operadoras de telefonia móvel. Encaminhamento de representação ao Ministério Público Federal para investigação a respeito dos valores arrecadados da interconexão e os valores investidos na infraestrutura de rede de telefonia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4e382154534b0a3906bc8ccc7c385ccc4841e770bad00fd426405039d5494c3
+size 306

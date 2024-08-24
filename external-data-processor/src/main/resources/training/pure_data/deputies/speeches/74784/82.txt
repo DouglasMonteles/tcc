@@ -1,1 +1,3 @@
-Presença da oradora em evento realizado em Assunção, Paraguai, destinado ao debate da política de cotas para participação feminina nos espaços institucionais de poder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e6d52de937b780b38b58319c3183fc95dd484ece288601d5dc946c9237353e7
+size 174

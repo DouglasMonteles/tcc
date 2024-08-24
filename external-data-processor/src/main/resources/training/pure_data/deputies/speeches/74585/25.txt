@@ -1,1 +1,3 @@
-Convocação dos Deputados do PR ao Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8be0570663862eee5c4b4e4fff70e3f6e74e8365fa858478790cd6f6e2be8434
+size 46

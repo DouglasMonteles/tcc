@@ -1,1 +1,3 @@
-O Deputado agradeceu ao Deputado André Figueiredo por seu trabalho como Relator da matéria, especialmente por aprimorar a redação sobre a implantação da teleperícia. Diante disso, informou que retiraria destaque do bloco partidário para suprimir artigo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05986f24f8c3dd4e7c047766f2dedfc15f3e342227d9d194dba8c4dfbac23d7e
+size 261

@@ -1,1 +1,3 @@
-Posicionamento favorável do  PSDB ao Projeto de Lei de Conversão da Medida Provisória 412 de 2007 (Dispõe sobre a prorrogação do Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária - Reporto, instituído pela Lei 11033 de 2004).
+version https://git-lfs.github.com/spec/v1
+oid sha256:61529f5e5b02f58ba3a6c90da667334cbf45a01a2b059ccc69d080dc7b420430
+size 275

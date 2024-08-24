@@ -1,1 +1,3 @@
-Repúdio à decisão do Secretário Municipal de Saúde do Estado da Bahia, de descredenciamento do Município de Itabuna da gestão da Saúde Plena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc3286b73adf4856e3e2cf58e64bb286e07804fa9fd003804902f87ed35123e1
+size 149

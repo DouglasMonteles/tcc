@@ -1,1 +1,3 @@
-Posicionamento do orador na votação da proposta apresentada em prol dos profissionais da área de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a05d84226e3e24e328327ee569f9ad9db65c35898630d013a5b34babaeb1acd
+size 120

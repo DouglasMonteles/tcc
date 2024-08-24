@@ -1,1 +1,3 @@
-Desindustrialização da agropecuária no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f04ded1cdb9180bc9eac66543781134ac477241c87a99f98d7a7a4e0ea71726d
+size 70

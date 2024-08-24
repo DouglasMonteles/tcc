@@ -1,1 +1,3 @@
-Composição da Mesa Diretora dos trabalhos da sessão solene em  homenagem póstuma ao teólogo italiano Enrico Giusti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c0e416c43d485cb8fba6f69a5ac371c6e32a76c66f16fac220752ebc1666064
+size 120

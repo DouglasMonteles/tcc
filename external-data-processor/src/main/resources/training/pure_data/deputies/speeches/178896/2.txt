@@ -1,1 +1,3 @@
-Registro de voto favorável ao projeto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a29e9bde500b142e062dbaf3c1c61e926b23b42b4e7e0c8790e41f9eb5216d6a
+size 39

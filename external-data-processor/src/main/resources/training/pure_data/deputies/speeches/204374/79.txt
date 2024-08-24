@@ -1,1 +1,3 @@
-Contestação ao discurso oposicionista contra o Presidente Jair Bolsonaro. Preocupação do Presidente da República com a preservação de empregos, diante da pandemia de coronavírus. Empenho de Jair Bolsonaro na utilização do medicamento hidroxicloroquina no tratamento de pessoas infectadas pela Covid-19. Exigência de esclarecimento do atentado praticado contra o então candidato à sucessão presidencial, Deputado Jair Bolsonaro. Tentativa de culpabilidade do Presidente da República por pedido de proteção aos seus familiares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e92457850fb629d047eb8ed5c19b16170d0dc0f5a50ca6c1380604f3df07b838
+size 542

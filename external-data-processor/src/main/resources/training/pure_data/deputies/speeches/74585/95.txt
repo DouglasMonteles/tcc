@@ -1,1 +1,3 @@
-Resgate da ex-Senadora Ingrid Betancourt, seqüestrada pelas Forças Armadas Revolucionárias da Colômbia - FARC. Urgente libertação dos reféns em poder da guerrilha colombiana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c63e0643648e7513bb35549ec7f10cbb5017ebc019a648eda628d2ae60d451c
+size 181

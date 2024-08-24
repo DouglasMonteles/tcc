@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do § 14 do art. 195 da Constituição Federal, contido no art. 1º do Substitutivo da Comissão Especial oferecido à Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f2375afaa15d3557ae7c6a3a0287dac5d68490422f6fe840956752a5567c527
+size 296

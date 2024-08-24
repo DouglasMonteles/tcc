@@ -1,1 +1,3 @@
-Solicitação à Presidência de arquivamento do requerimento de convocação do Ministro-Chefe da Secretaria de Governo da Presidência da República, Antonio Imbassahy, apresentado pela Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de56d6d7559aa95a7bf3b20b66f28054b9afd9e24ae77f50e38b0c7bfd380213
+size 271

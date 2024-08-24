@@ -1,1 +1,3 @@
-Legado positivo da Copa do Mundo no Brasil, especialmente com relação às obras de infraestrutura. Elogio à atuação da INFRAERO - Empresa Brasileira de Infraestrutura Aeroportuária e à Agência Nacional de Aviação Civil - ANAC. Elevado índice de aprovação do evento pelos turistas internacionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eaa7ef497a71baaefc6109dd5cf4e5f4d49eb6cd1d841ba8429b101bd0d33e1
+size 308

@@ -1,1 +1,3 @@
-Interrupção pelo orador do isolamento domiciliar diante das enchentes ocorridas no Município de Santana do Ipanema, no Estado de Alagoas. Importância da Proposta de Emenda à Constituição nº 10, de 2020, sobre a instituição de regime extraordinário fiscal, financeiro e de contratações para enfrentamento da calamidade pública nacional decorrente da pandemia de coronavírus. Elogio ao Deputado Acácio Favacho pelo parecer oferecido ao projeto de lei sobre a recomposição dos recursos do Fundo de Participação dos Estados- FPE e do Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4129617d538bb6cb37c00da2284213f78d781462cc436cc03aeec47528a4b7e4
+size 596

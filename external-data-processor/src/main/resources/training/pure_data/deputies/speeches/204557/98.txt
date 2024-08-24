@@ -1,1 +1,3 @@
-Classificação do Estado do Amazonas em 1º lugar no ranking nacional de homicídios, segundo o Mapa da Violência no Brasil. Necessidade de fortalecimento dos organismos policiais, bem como das ações de controle de fronteiras, especialmente nas regiões do Alto Solimões e dos Rios Iça e Negro, para contenção do avanço das ações do narcotráfico no Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4902699102695c2d39fd245bffa10746d3a6049c6765ea6daa567d21b87cedeb
+size 370

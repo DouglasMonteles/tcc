@@ -1,1 +1,3 @@
-Incoerência do discurso da Esquerda no tocante à participação do capital estrangeiro nas companhias aéreas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:658cddbaea13d751e086ac3f96827f7395439a5de26b59c4831cd1b4587ce7b5
+size 124

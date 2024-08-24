@@ -1,1 +1,3 @@
-Defesa de retomada do voto impresso nas eleições brasileiras. Prática de corrupção pelos governos petistas. Soltura, pelo Supremo Tribunal, de condenados pela Operação Lava-Jato por desvio de recursos públicos. Repúdio aos discursos a favor do cancelamento da passagem de tropas da Marinha do Brasil pela Esplanada dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06184a5d5b342e7e448dedf203252b2bf85515e2cd4e92c22bd3ec19d9397966
+size 341

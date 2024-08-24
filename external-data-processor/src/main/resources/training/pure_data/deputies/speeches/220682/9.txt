@@ -1,1 +1,3 @@
-Abertura de consulta pública a respeito do novo ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ddbbb338cc6374a791c392f0dc2b9da75401ab0ccfa7fc731e78885ab8de1b7
+size 63

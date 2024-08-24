@@ -1,1 +1,3 @@
-Repúdio a narrativa do Presidente Jair Bolsonaro para manipulação do povo brasileiro contra o voto eletrônico e a favor do voto impresso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1972d995465bcc87ccb565a4a8d20dab1b436f60b0d65c98e634c47300ee11d6
+size 141

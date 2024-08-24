@@ -1,1 +1,3 @@
-Prorrogação da data limite de averbação de reservas legais de propriedades dos pequenos agricultores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:235d48f9cf120e60df531cb69691f0e8430081daed44919755445c7521ddba25
+size 105

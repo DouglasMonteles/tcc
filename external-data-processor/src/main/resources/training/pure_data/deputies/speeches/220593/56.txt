@@ -1,1 +1,3 @@
-Congratulações ao arquiteto e urbanista José Antônio Lemos pela homenagem à memória do tenente Antônio João Ribeiro, Patrono do Exército brasileiro e herói da Guerra do Paraguai, ao ensejo do transcurso do bicentenário do seu nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:628d7ec51438905dd4af7615c3f83632939de70b2353a6ecb6e55a1573270ba7
+size 248

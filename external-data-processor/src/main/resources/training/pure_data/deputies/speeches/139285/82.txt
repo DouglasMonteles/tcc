@@ -1,1 +1,3 @@
-Transcurso do 97ª aniversário de fundação do jornal A Tarde, do Estado da Bahia. Elogio ao Governador Jaques Wagner pela realização da Caravana Estadual de Erradicação do Trabalho Infantil. Ampliação dos investimentos  do Governo baiano na área da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59108d7116d7b6721f5539f93fa3979045f3340a1850787613fe063a2353a14e
+size 270

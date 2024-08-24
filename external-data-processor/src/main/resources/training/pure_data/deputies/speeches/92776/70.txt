@@ -1,1 +1,3 @@
-Aperfeiçoamento da chamada Lei Seca, coibitiva da embriaguez ao volante. Intensificação dos trabalhos de fiscalização e realização de investimentos governamentais em campanhas de educação no trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dcd56fe77f729703e7b057b71262ea24bc3aa7927885ef936f4c993d7e73218
+size 210

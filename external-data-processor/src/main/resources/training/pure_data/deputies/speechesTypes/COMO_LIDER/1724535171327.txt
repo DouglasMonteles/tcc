@@ -1,1 +1,3 @@
-Indeferimento, pelo Tribunal Superior Eleitor, do processo de cassação do mandato do orador ajuizado pelo PPS. Agradecimento ao Presidente Michel Temer, ao Líder do PMDB, Deputado Henrique Eduardo Alves, aos membros do partido e a outros Parlamentares pelo voto de confiança e solidariedade ao orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d858b8c16fbe033ecacbb3145d64249156f8a7e736350646d779c1e4d906786
+size 305

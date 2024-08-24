@@ -1,1 +1,3 @@
-Pedido à Presidência de esclarecimento quanto ao dia de votação de proposição sobre correção das contas do Fundo de Garantia do Tempo de Serviço.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1339e7287eb7cffcc54253e7fbd96361f8139e51ed44f8dda22db2b21306b6ab
+size 154

@@ -1,1 +1,3 @@
-Iminência de atingimento de quórum. Defesa de abertura de processo de impeachment contra a Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfbea14c90804f59281a141dedabcb5d931b0bd626c5c4d8dc99bb25a4dbd430
+size 119

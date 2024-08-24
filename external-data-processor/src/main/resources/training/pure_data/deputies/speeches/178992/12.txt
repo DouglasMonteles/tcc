@@ -1,1 +1,3 @@
-Crise econômica nas Prefeituras Municipais do País. Preocupação com a perda da avaliação positiva do Brasil em relação à condição de pagamentos internacionais e com o aumento do desemprego. Necessidade de financiamento, pelo Governo Federal, da saúde no âmbito municipal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43cd0fabffeb9c3323e91beb1cec479295d680998c211a44958ead1c9f5f0955
+size 284

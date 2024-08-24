@@ -1,1 +1,3 @@
-Alegação de responsabilidade de Deputados apoiadores do Deputado afastado, Eduardo Cunha, pela ruptura democrática no Brasil a despeito do voto favorável à cassação do mandato de S.Exa. Cobrança às bancadas do DEM, PSDB e PPS de desculpas ao povo brasileiro pela sustentação do Parlamentar na Presidência da Casa para a promoção do impeachment da ex-Presidente da República Dilma Rousseff. Blindagem de Parlamentares e do Presidente da República, Michel Temer, na Operação Lava-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31b3b1c8b562873895f22f952b1b21fa5c703c8804c4891d203a31d1d9dea5cb
+size 501

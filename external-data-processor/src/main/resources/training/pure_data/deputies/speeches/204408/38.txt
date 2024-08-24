@@ -1,1 +1,3 @@
-Aplausos ao Presidente Rodrigo Maia pelo discurso de conclamação à paz, à harmonia e ao equilíbrio institucional. Emissão de parecer ao Projeto de Lei Complementar nº 9, de 2020, a respeito da adesão de empresas enquadradas no SIMPLES Nacional à transação tributária tratada em Lei Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84c7eb70eb1d4670dbf029a1b4520ae9cbf42ac18e78009a84dd0c4424678561
+size 302

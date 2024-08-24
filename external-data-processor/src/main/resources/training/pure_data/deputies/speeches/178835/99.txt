@@ -1,1 +1,3 @@
-Responsabilidade do Parlamento na busca de alternativas para o equilíbrio orçamentário e para a recuperação da economia do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e58de2d58782576149181f232f2d7406ff517b407a0ae37ba7422668c9eb656
+size 134

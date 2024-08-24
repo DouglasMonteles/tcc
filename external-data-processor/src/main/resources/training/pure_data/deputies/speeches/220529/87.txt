@@ -1,1 +1,3 @@
-Visita do orador ao Município de São Gabriel da Palha, no Estado do Espírito Santo. Transcurso do 60º aniversário de fundação da Cooperativa Agrária de Cafeicultores de São Gabriel - COOABRIEL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de6c89487d43462723114b33adb3550f233dcc581aca3fd3c99442f9a656e083
+size 202

@@ -1,1 +1,3 @@
-Posicionamento contrário do governo ao Requerimento de retirada da pauta da Ordem do Dia das Emendas do Senado ao Projeto de Lei de Conversão 7 de 2009 (Medida Provisória 454 de 2009), que dá nova redação  aos arts, 2º, 3º e 4º da Lei 10.304 de 2001, que transfere ao domínio do estado de Roraima terras pertencentes à União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:909f30710eb443093b8f6b835aa55714298b040514c3b24ceae03f566dda8636
+size 337

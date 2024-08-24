@@ -1,1 +1,3 @@
-Visita do assessor de relações institucionais do Instituto Casa do Pai, do Rio de Janeiro, Waldemar Ávila, à Câmara dos Deputados. Realização pelo orador de vistoria técnica em unidades hospitalares na Capital fluminense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90f678281e88e836cbe444da8e836b81637b7bd09d533db6e33af738ecc7b4a2
+size 229

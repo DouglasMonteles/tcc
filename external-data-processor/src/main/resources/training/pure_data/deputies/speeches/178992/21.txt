@@ -1,1 +1,3 @@
-Análise do legado negativo do Governo da Presidente da República afastada, Dilma Rousseff, para o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:130ea67150b07201d5fdbd12f6a94cdf87900468253cd7b88b264664aa1dfd7e
+size 107

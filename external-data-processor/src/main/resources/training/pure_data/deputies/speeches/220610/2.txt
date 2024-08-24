@@ -1,1 +1,3 @@
-União entre o Poder Legislativo e governantes para enfrentamento da violência nas escolas brasileiras. Pedido de tramitação em regime de urgência do Projeto de Lei nº 1.791, de 2023, sobre a instalação de detector de metais bem como o uso de detectores manuais nas redes pública/privada de ensino. Conveniência de redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b01270a966a60a5f686463050596ffe8ed93e76eae42a9ad68f1b3d586a95900
+size 354

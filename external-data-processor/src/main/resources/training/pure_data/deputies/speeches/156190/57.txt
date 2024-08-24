@@ -1,1 +1,3 @@
-Protesto contra a moção de repúdio à reforma da Previdência Social apresentada por participantes na Marcha a Brasília em Defesa dos Municípios. Importância da aprovação da matéria para a destinação de recursos orçamentárias aos Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86c79f0e5ea3d33b4f456f21bc7f0c713217ad623df61ad586d4727bc01ef354
+size 267

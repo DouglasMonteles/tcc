@@ -1,1 +1,3 @@
-Nota da Confederação Nacional dos Bispos do Brasil - CNBB sobre a decisão de colegiado do Supremo Tribunal Federal - STF de descriminalização do aborto até o terceiro mês de gestação. Anúncio de realização de audiência pública da Comissão de Defesa dos Direitos das Pessoas com Deficiência destinada ao debate sobre o aborto. Defesa da preservação da vida humana desde a concepção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2300b93f87c80755256ed45dabe7b44bfc24fd3669f467253cdbbd5f3e3903fd
+size 401

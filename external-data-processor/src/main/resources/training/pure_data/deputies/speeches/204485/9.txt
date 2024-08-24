@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de encerramento da discussão da Proposta de Emenda à Constituição nº 23, de 2021, sobre a alteração do regime de pagamento de precatórios pela União. Falecimento do Sr. Gumercindo de Seta, Oficial do Cartório de 1º Ofício de Registro de Imóveis do Município de São José do Rio Preto, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b272067526a4b7d873542789553e2bde23bc09679c6f7da33588b47cdb33659e
+size 374

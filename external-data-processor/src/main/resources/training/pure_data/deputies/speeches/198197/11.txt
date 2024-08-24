@@ -1,1 +1,3 @@
-Realização do 27º Seminário do Café da Região do Cerrado Mineiro, no Município de Patrocínio, Estado de Minas Gerais. Convite aos Parlamentares, aos ouvintes da Rádio Câmara e aos telespectadores da TV Câmara para participação no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a99fc1b4f8ffb3e2a102aaf9920db4e8a0f25828a191528b4e7b7d4e3062430a
+size 250

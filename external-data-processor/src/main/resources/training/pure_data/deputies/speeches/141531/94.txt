@@ -1,1 +1,3 @@
-Descumprimento de promessa do Governo Dilma Rousseff de pavimentação asfáltica da BR-367,  no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6a19914a2edcf864ad103841fab610bf7d5a2d9fdeac4f5c3ac03fd09d50109
+size 120

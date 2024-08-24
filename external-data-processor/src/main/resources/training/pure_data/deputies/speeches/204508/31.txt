@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 534, de 2021, sobre a permissão aos Estados e Municípios, bem como à iniciativa privada, de aquisição de vacinas contra a Covid-19 com registro ou autorização temporária de uso no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23eb1d81f27f9aa9400e51844a93d3b933b7990750d9929b3b85c7a21cdd3c61
+size 237

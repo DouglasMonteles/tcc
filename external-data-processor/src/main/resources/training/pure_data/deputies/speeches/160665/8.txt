@@ -1,1 +1,3 @@
-Transcurso do 154º aniversário de fundação do Município de Caruaru, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6391c0907fe37337a6bf4b031e913c651309ad84e33aecf4fd50ece26906f17c
+size 94

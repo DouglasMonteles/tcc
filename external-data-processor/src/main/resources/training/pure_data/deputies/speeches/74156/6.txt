@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Água. Ações do Governo Federal em defesa do meio ambiente, com destaque para o Plano de Prevenção e Controle do Desmatamento da Amazônia. Engajamento do Brasil na Agenda 21, de garantia de bases para o desenvolvimento sustentável mundial. Transcurso do 4º aniversário de criação do Ministério do Desenvolvimento Social e Combate à Fome.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65e24677e17c963dd42ba445567454ec0fc9f8d4bcaad0a3321cc1532d6622c6
+size 378

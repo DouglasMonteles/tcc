@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional do Jovem Trabalhador. Apresentação de projeto de lei sobre a criação do Programa Jovem Cidadão. Adoção de políticas públicas destinadas à inserção da juventude no mercado de trabalho. Divulgação, pela Organização das Nações Unidas - ONU, do relatório Emprego de jovens: perspectivas da juventude na busca de trabalho decente em tempos de mudança.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d8f777ff3d8608e2d466c68b4db68da40e5d84807b0a3076f434bd9552e75e9
+size 398

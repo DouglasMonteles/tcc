@@ -1,1 +1,3 @@
-Precariedade da logística de transporte para escoação de commodities produzidos no Estado da Bahia, especialmente soja e minério de ferro. Morosidade nas obras da construção da Ferrovia Transnordestina e de transposição das águas do Rio São Francisco. Entrave na liberação de licença ambiental para a construção da Ferrovia Oeste-Leste e de porto no Estado da Bahia. Otimismo com a iniciativa da Casa de mudanças na legislação ambiental com vistas à celeridade nas obras de infraestrutura de relevante interesse para o desenvolvimento econômico do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0b5ef9c348d603cc121aceeb5097c9ade88b2f9e0e789590b1dc1acce10b824
+size 574

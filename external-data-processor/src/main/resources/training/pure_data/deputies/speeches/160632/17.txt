@@ -1,1 +1,3 @@
-Prejuízos causados aos produtores rurais pelas constantes interrupções do fornecimento de energia elétrica. Solicitação à Casa de apoio ao Projeto de Lei nº 2.497, de 2011, de autoria do orador, sobre fixação de prazo para o restabelecimento do fornecimento de energia e de multa às concessionárias no caso de não cumprimento desse prazo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54538b2243b02ea687ad7a7f299ef0969af2c66571ba276035ed325775d41cde
+size 351

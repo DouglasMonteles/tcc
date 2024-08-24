@@ -1,1 +1,3 @@
-Realização de manifestação de louvor em homenagem à beatificação da Irmã Dulce, em Salvador, Estado da Bahia. Reunião do Governador Jaques Wagner com agricultores para discussão de processos de desapropriação de terras e criação de assentamentos rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:425bded5df7481bd67554e4ca4f3418c3b3d6136bb83bc1b8d485e17c26b3106
+size 267

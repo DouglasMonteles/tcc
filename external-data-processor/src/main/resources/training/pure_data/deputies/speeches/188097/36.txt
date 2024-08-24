@@ -1,1 +1,3 @@
-Risco de colapso no fornecimento de energia elétrica no País no segundo semestre de 2021, diante do baixo nível de água nos reservatórios nacionais. Necessidade de diversificação da matriz energética brasileira. Importância de manutenção das Centrais Elétricas Brasileiras S/A - ELETROBRAS como empresa estatal, para financiamento de pesquisas no parque energético nacional. Defesa de discussão, pela Casa, do Projeto de Lei nº 5.829, de 2019, acerca da produção e distribuição de energias renováveis, especialmente da energia solar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a1b872f780fcc0de7a12be8c4561acd1c75a7cab42938a5b661c12544950266
+size 553

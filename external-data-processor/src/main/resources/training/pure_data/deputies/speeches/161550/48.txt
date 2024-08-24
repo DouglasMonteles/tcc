@@ -1,1 +1,3 @@
-O Deputado anunciou uma reunião em Nova Resende (MG), para debater programas desenvolvidos nas regiões Sul e Sudoeste de Minas Gerais. Um desses, denominado Programa Cuidar, visa apoiar lares de idosos, APAEs e Casas da Criança, com 191 entidades beneficiadas por emendas parlamentares. O Deputado falou ainda sobre as cirurgias eletivas que, inicialmente, havia 45 mil pendentes na fila do SUS. Destacou que, com o apoio do Governador Romeu Zema e do Secretário de Saúde, Dr. Fábio Baccheretti, 21 mil foram realizadas e espera-se zerar a fila.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1d8d41c10929a66b0693b178cbfe40c885d7eccec3371e23d97fa86fd382746
+size 551

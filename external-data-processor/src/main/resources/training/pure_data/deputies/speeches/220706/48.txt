@@ -1,1 +1,3 @@
-Presença do Presidente da Casa, Arthur Lira, do Governador Ratinho Júnior e do Prefeito Leonaldo Paranhos na 35ª edição do Show Rural Coopavel, no Município de Cascavel, Estado do Paraná. Anúncio da apresentação de projeto de segurança alimentar para o País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4779ac9c0ff582fda5461544da25377fd634793a2daeb83fc272b3c80488eab9
+size 270

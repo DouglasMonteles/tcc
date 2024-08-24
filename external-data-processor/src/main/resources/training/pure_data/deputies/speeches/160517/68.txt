@@ -1,1 +1,3 @@
-Alerta à Agência Nacional de Energia Elétrica - ANEEL sobre a cobrança de tarifas abusivas por concessionárias do setor. Lançamento, pelo Departamento Nacional de Infraestrutura de Transportes - DNIT, de edital para licitação de obras de recuperação de rodovias no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4e77a2169881b02947f089a3a69d8a30fb7560f0fb7e559a5b4af972d10f578
+size 301

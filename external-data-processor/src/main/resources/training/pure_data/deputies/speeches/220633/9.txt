@@ -1,1 +1,3 @@
-Razões do encerramento precoce de reunião da CPI do Movimento dos Trabalhadores Rurais Sem Terra — MST, com a participação do Governador do Estado de Goiás, Ronaldo Caiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bedf82bc0f647b7561f6db119c6e7311076e48d89a75a552fcf1799cad16b568
+size 179

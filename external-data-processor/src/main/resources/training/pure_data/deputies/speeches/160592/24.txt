@@ -1,1 +1,3 @@
-Ameaça de expropriação de terras pertencentes a agricultores brasileiros residentes no Paraguai, os chamados brasiguaios. Empenho do Governo Fernando Lugo na adoção de medidas para garantia dos direitos dos produtores rurais residentes naquele país. Defesa de criação pela Casa de Comissão Externa destinada ao acompanhamento do caso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e18ed628ad8e76aa16087f3fed21ca6728d4e5d8af4c3a5a54e2ba0d444a5d3
+size 343

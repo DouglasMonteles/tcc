@@ -1,1 +1,3 @@
-Necessidade de apreciação pela Casa de proposições destinadas à redução da violência no ambiente escolar. Solidariedade a professores e familiares de vítimas da violência nas escolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:035bda77bc3bc4cef103982a3e3c1acd0c173207c0320519ccb689f998089621
+size 193

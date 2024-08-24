@@ -1,1 +1,3 @@
-Diversidade da flora brasileira. Apresentação ao Ministério da Agricultura, Pecuária e Abastecimento de propostas para o desenvolvimento do mercado de flores e plantas ornamentais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:617fcf32429349c8309e4595cb09800b83db34c2b1edcd13cd40d607cb18854b
+size 184

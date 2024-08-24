@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de Lei nº 54, de 2021, que institui incentivo financeiro-educacional, na modalidade de poupança, aos estudantes matriculados no ensino médio público. Além disso, defendeu a reforma do novo ensino médio, incluindo adequação ao ENEM e bônus de transição para os alunos prejudicados com a carga horária de apenas 1800 horas de formação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d62a059043c9b55b2acdf099ef97f5cb14ecd54d1921dbe7fd498adf77f45fa
+size 385

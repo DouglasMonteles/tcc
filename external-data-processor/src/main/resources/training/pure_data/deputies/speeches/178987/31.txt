@@ -1,1 +1,3 @@
-Negligência do Governo do Estado de São Paulo na adoção de providências para suspensão da greve dos professores da rede estadual de ensino. Cumprimentos ao Presidente da Assembleia Legislativa do Estado de São Paulo, Deputado Fernando Capez, pela recepção dos professores em audiência pública com o intuito de superação da crise.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9881961b431e3593d4bbee996efcaec71ebe3724e9b03105e0a232954316493f
+size 342

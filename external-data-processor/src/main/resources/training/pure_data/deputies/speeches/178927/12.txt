@@ -1,1 +1,3 @@
-Resultados de participação do orador em reunião realizada na Casa com representantes da Federação das Santas Casas de Misericórdia e Hospitais Beneficentes do Estado do Paraná - FEMIPA, destinada ao debate sobre saídas para a crise financeira das entidades. Nota de repúdio da União da Juventude Socialista ao Projeto de Lei nº 4.330, de 2004, que dispõe sobre o contrato de prestação de serviço a terceiros e as relações de trabalho dele decorrentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa6586454f3d6f8836e13de24e682434a76bdbedf373159666cce2871c1f673f
+size 468

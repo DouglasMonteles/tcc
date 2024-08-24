@@ -1,1 +1,3 @@
-Realização do Festival de Moda de Fortaleza, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfb92b5cbaab80b8e213141fcad2292d3cafeaa7f90b15ffcb843828ea1ca24d
+size 64

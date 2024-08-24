@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação, artigo por artigo, da Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f30e3218091d243190ebcbbaecc0f2f1074e1ee5b8c5f9c0bcd7d73d36df2144
+size 207

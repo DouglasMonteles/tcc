@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Carlos Jordy contrário à prisão do Deputado Daniel Silveira, determinada pelo Supremo Tribunal Federal. Transcurso do Dia do Advogado. Atraso na aplicação de vacinas contra a Covid-19 pelos Governadores e Prefeitos Municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a7faf9b22ef67f52f070794439169ba2146b7500a22f833e496c45cc572a966
+size 274

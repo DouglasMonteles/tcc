@@ -1,1 +1,3 @@
-Discussão  das  Emendas do Senado Federal ao Projeto de Lei 5498, de 2009, que altera a Lei 9.096, de 1995 (Lei dos Partidos Políticos) e a Lei 9.504, de 1997, (Estabelece normas para as eleições)  e 4.737, de 1965 - (Código Eleitoral).  Discordância do açodamento na votação da matéria em desconsideração ao trabalho realizado pelos Senadores Marco Maciel e Eduardo Azeredo, aprovado por aquela Casa e que introduz importantes contribuições à proposta aprovada na Câmara dos Deputados, notadamente no que diz respeito à internet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4fbf8bf737267764138dbc667034b47f6c4842234548da5c10061613dda0e42
+size 547

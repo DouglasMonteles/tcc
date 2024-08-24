@@ -1,1 +1,3 @@
-Descontentamento com o encerramento de convênio entre a Prefeitura Municipal de Curitiba, Estado de Santa Catarina, e a Escola Profissional Maria Ruth Junqueira, mantenedora de cursos profissionalizantes para pessoas carentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:739b8cacb8e22aeacdb5ba000ab76116789ad2a0d917dce3ec393d6859481e31
+size 227

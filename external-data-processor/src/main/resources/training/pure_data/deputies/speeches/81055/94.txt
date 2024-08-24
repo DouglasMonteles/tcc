@@ -1,1 +1,3 @@
-Repúdio às declarações favoráveis à reedição do Ato Institucional nº 5, o AI5, instrumento de repressão adotado na ditadura militar. Oportunidade de discussão pela Casa de projetos de lei a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab3bd8eaa98d6fb0a8397b4ce0bf070fe32f4d1f159598892e527fd88f54e6c9
+size 218

@@ -1,1 +1,3 @@
-Indignação do orador com a comemoração, pelo Governador do Estado do Rio de Janeiro, do extermínio de criminoso pela polícia fluminense. Caráter reacionário e retrógrado do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c97dcc10eb81554857fa14a642d5e58d6250811a69056cc9d6fd3e74499a3e12
+size 205

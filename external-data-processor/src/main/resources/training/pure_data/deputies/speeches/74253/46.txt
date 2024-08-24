@@ -1,1 +1,3 @@
-Denúncia de ilegalidade da instituição, pelo Governo Federal, do aumento de tributos e taxas. Sugestão ao Presidente Eduardo Cunha de elaboração de projeto de decreto legislativo sobre cessação de cobranças irregulares de taxas e emolumentos de agências federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6825db122f09a6699066fba850367cebd1bafa66e518c7ec3de86f725b919a57
+size 273

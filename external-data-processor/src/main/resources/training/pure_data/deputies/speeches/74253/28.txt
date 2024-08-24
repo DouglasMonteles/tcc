@@ -1,1 +1,3 @@
-Defesa de rejeição do destaque.
+version https://git-lfs.github.com/spec/v1
+oid sha256:220db16922d43885a80408dc5bf45d044a8da39ede1aa7314c19168cf7db4542
+size 33

@@ -1,1 +1,3 @@
-Congratulações aos professores da área de Educação Física.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcd33f1de9d82ef31f7333241e5b9e8cc8e5b8a2394e5f40d999a679b96afc4d
+size 64

@@ -1,1 +1,3 @@
-Reparos à manifestação do Deputado Chico Alencar  sobre o envolvimento de  todos os partidos com o empresário Carlos Augusto Ramos, Carlinhos Cachoeira, indiciado pelo Ministério Público Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82771f07cab14ff640745d937f93670efa325c561569151614743b07453878cf
+size 201

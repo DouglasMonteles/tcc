@@ -1,1 +1,3 @@
-Defesa de aprovação, pelo Plenário do Congresso Nacional,  da proposta de apresentação de emendas ao Orçamento da União pelos Municípios com população com até 50 mil habitantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e22ca0e1cc68790e6b93396338fd063e8fc0118a4b3a4bdd3672aeb6566f5ae1
+size 188

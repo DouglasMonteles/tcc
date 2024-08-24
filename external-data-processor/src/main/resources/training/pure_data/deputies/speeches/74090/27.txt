@@ -1,1 +1,3 @@
-Reunião do Conselho Político do PMDB para debate sobre a reforma tributária e as eleições municipais de 2008, em Brasília, Distrito Federal,
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3e8d0a3100d728556fc96db973bb46dc6f48fbb30b8abda9f7279a28752ba9f
+size 146

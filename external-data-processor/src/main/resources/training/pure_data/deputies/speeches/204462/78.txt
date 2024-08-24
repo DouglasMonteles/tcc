@@ -1,1 +1,3 @@
-A Deputada proferiu parecer ao Projeto de Lei nº 2.880, de 2023, que dispõe sobre a criação de programa de saúde dirigido às mulheres alcoolistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e710554ed20b74d430ea8ece0eb42b1c5814cbe86baa10b272ab8088096b7aa7
+size 152

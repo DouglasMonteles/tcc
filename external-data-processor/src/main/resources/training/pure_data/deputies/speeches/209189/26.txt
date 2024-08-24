@@ -1,1 +1,3 @@
-Contrariedade à Medida Provisória nº 868, de 2018, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:150389389a63a97ff1041bd2ce5d30136e840a7931a5cc4cd231c0c61cc90acd
+size 113

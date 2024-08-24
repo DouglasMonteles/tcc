@@ -1,1 +1,3 @@
-Apoio à inclusão do Parque Nacional do Pantanal Mato-Grossense entre as 7 maravilhas naturais do mundo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5d23d01fd01d35986e8336a609c9425102df70da509dd59a5ec95677d99146e
+size 105

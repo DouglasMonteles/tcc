@@ -1,1 +1,3 @@
-Encaminhamento de Indicação ao Ministério do Planejamento, Orçamento e Gestão para doação de propriedade da União a famílias sem teto no Município de Pirambu, Estado de Sergipe. Regozijo pela continuidade do Programa Minha Casa, Minha Vida, do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc8ceba4e3768dfdbcdc14ed5970bfc8cb7daaf638d6d16e14963c6854de642e
+size 270

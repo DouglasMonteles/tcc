@@ -1,1 +1,3 @@
-Agradecimento aos eleitores cearenses, especialmente aos da Capital Fortaleza, pela reeleição da oradora. Eleição do Deputado Estadual Elmano de Freitas para Governador do Estado e do ex-Governador Camilo Santana para Senador da República. Razões do apoio da Parlamentar à recondução do ex-Presidente Luiz Inácio Lula da Silva ao poder. Gestão desastrosa do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96ab7cdc894aac36e823a01cfc8d16985d5e92ca50827aa9f524734151f52095
+size 395

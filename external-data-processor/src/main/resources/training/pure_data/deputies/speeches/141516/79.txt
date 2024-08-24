@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à  proposta de revisão do Tratado de Itaipu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea640592bea107d98f2ce25f47d3109f36c3ec2986db612fe108824f7fbceb5f
+size 82

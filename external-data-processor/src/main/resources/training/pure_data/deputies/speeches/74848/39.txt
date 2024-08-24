@@ -1,1 +1,3 @@
-Destinação de maiores ao Sistema Único de Saúde - SUS. Necessidade de melhoria do seu planejamento e da sua gestão. Acerto da confirmação pelo desembargador José Luiz Germano, do Tribunal de Justiça do Estado de São Paulo, da liminar concedida em ação contra a reserva de vagas no serviço público de saúde para usuários de planos de saúde privados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d48939d8e2ab6993ce6d6834648f2e0c2328bb27fed005b672701bada5d866fd
+size 365

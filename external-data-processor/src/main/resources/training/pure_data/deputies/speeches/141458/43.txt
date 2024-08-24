@@ -1,1 +1,3 @@
-Cumprimentos à Presidência pela condução dos trabalhos à frente da Mesa Diretora da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49dc8ddd5bb7a035a240b782ed677c6f55b0c138c2744ad59cfd65b5d191c7b8
+size 94

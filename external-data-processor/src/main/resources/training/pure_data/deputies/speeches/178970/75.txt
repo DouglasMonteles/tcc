@@ -1,1 +1,3 @@
-Relato da viagem do orador à Venezuela. Regozijo com o desenvolvimento econômico e social venezuelano. Esclarecimentos sobre a viagem de comitiva de Senadores brasileiros ao país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f474e429d7553820711b0a145a2c2319ccc12f01b2f142eb8d49a4d0cc9a1d9
+size 182

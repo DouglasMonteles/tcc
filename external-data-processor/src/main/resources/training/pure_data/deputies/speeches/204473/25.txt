@@ -1,1 +1,3 @@
-Defesa da investigação de denúncia apresentada peloJornal da Record  sobre a efetuação, pela facção criminosa Primeiro Comando da Capital - PCC, de pagamento milionário aos advogados do PT e ao Instituto Anjos da Liberdade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4deb513f132e6468335fb23de27e306e5bf736405e18eafd2d8608e4ce9f3def
+size 231

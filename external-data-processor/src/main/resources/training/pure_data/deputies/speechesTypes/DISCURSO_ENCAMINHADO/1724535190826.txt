@@ -1,1 +1,3 @@
-Artigo O grande momento do PCdoB maranhense, de autoria do orador, publicado no Jornal Pequeno, sobre o crescimento do PCdoB no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcd45290751b97f19cb300d0c924881949291518bd657030f0e8bd0d158652c4
+size 148

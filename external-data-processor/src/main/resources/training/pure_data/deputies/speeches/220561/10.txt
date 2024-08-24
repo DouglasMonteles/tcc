@@ -1,1 +1,3 @@
-A Deputada expressou sua indignação pelo veto presidencial à Lei Orgânica da Polícia Civil, defendeu a derrubada do veto e a valorização da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c91840fd77c95409b267395e328803f27995928143fa83efe3aed837fcf368f5
+size 157

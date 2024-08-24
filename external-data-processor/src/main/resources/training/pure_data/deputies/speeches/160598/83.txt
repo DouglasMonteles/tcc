@@ -1,1 +1,3 @@
-Audiência da bancada feminina com o Ministro da Saúde Arthur Chioro para o trato da alteração da idade mínima para a realização do exame de mamografia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a389e0dc00ee13ccaeb1d7f88307f111434730fcef845ed3fec5fa9d21a041f
+size 158

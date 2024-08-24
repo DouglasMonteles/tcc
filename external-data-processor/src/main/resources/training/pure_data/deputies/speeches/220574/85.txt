@@ -1,1 +1,3 @@
-Gastos exorbitantes do Presidente Luiz Inácio Lula da Silva com o cartão corporativo. Elevado índice de rejeição popular do Presidente da República. Eleição do candidato petista com o auxílio de Tribunais Superiores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1929013f8c3d47188638c386c6f1495b7ef874b94913cb208363ff1284d47f39
+size 225

@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do inciso VI do art. 32 da Subemenda Substitutiva Global apresentada ao Projeto de Lei nº 7.082, de 2017, que dispõe sobre a pesquisa clínica com seres humanos e institui o Sistema Nacional de Ética em Pesquisa Clínica com Seres Humanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2225231538bfc6d92d27a48c03161f6e424131fa6da653259bc70b24f8c27b90
+size 285

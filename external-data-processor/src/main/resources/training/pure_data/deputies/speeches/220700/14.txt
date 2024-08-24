@@ -1,1 +1,3 @@
-O Deputado abordou a necessidade de reestruturação do Ministério do Trabalho e do INSS no Governo Lula. Destacou que o INSS enfrenta graves dificuldades devido ao sucateamento anterior e à falta de peritos médicos, resultando em 1,8 milhão de brasileiros aguardando benefícios, incluindo 600 mil que esperam por perícias médicas. Propôs a adoção de perícias médicas por telemedicina, a realização de concursos para peritos do INSS e um período de terceirização para acelerar os benefícios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfcb233fbf7e75efd5e99e3550f3825f81d6a8f878e919f6b8e6b156c8f10e95
+size 509

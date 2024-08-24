@@ -1,1 +1,3 @@
-Transcurso do 155º e do 199º aniversários de emancipação político-administrativa, respectivamente, do Município de Nossa Senhora do Socorro e do Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22dcd18eeb262cafe3d35590dea26821785e65e77c33581aaf3c0d0d354b4442
+size 170

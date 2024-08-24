@@ -1,1 +1,3 @@
-Defesa da aprovação do Projeto de Lei Complementar 238 de 2013 (Dispõe sobre o quórum de aprovação de convênio que conceda remissão dos créditos tributários constituídos em decorrência de benefícios, incentivos fiscais ou financeiros instituídos em desacordo com a deliberação prevista no art. 155, § 2º, inciso XII, alínea g, da Constituição, e para a reinstituição dos referidos benefícios nos termos da legislação aplicável; altera a Lei Complementar nº 101 de 2000, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal; dispõe sobre critérios de indexação dos contratos de refinanciamento da dívida celebrados entre a União, Estados e Municípios; e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b94611740b4d46ef5deafa0716010eb40827ab92a38a9719178d1a9d37e686db
+size 757

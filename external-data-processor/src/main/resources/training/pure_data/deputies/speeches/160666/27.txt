@@ -1,1 +1,3 @@
-Posse do Desembargador Edmilson Jatahy Fonseca Júnior como membro efetivo do Tribunal Regional Eleitoral - TRE da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc1810cc3a16cb8f73fe9580f6eeaf9daf9e6ca1f5bf2030ce4470c2c4f2685c
+size 121

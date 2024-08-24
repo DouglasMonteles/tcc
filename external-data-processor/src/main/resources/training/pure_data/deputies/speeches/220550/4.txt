@@ -1,1 +1,3 @@
-Apelo ao Ministro do Supremo Tribunal Federal, Alexandre de Moraes, para a liberação de ônibus retidos pela Polícia Federal pertencentes a empresários acusados de financiamento dos atos de vandalismo ocorridos na Praça dos Três Poderes no dia 8 de janeiro de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca362022f7aeaa9616e3c6a9facfec3d5c1806751e332aae8ade917598a6cc69
+size 271

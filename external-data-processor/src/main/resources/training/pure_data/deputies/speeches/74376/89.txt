@@ -1,1 +1,3 @@
-Evolução da bovinocultura de corte brasileira. Movimento de pecuaristas em conjunto com a Associação dos Criadores de Mato Grosso do Sul - ACRISSUL, em prol da recuperação de rendas da cadeia produtiva de carne.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c438b3a52a515a4a651044c9afb646a2bc7583ac85f928918a70d4f8e88cb12
+size 217

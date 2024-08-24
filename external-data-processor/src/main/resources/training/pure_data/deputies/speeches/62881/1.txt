@@ -1,1 +1,3 @@
-Saudação à Presidenta Rose de Freitas. Disseminação da dengue no País. Precariedade do setor de saneamento básico no Estado do Ceará. Instalação de aterros sanitários no Estado. Realização de mobilização nacional contra a dengue.
+version https://git-lfs.github.com/spec/v1
+oid sha256:357ce54745b0fe01b45bc1f22bb31420aa9633653cfb30af13d698f6638864de
+size 244

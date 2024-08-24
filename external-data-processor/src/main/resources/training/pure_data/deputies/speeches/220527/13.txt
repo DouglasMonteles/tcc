@@ -1,1 +1,3 @@
-Reestruturação do Estado brasileiro pelo Presidente Luiz Inácio Lula da Silva. Desarticulação, pela Polícia Federal, de plano para assassinato do Senador Sergio Moro. Retomada do Programa Nacional de Segurança Pública com Cidadania - PRONASCI. Repúdio aos discursos de criminalização de favelas e comunidades periféricas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abef0dc11f432d0cfeb4c3ef99b7133868d49b6f274100dffd20f88da96df3b4
+size 333

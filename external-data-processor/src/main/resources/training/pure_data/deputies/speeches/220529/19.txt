@@ -1,1 +1,3 @@
-Pedido à Presidência de reinclusão na pauta do requerimento de apreciação em regime de urgência do Projeto de Lei nº 747, de 2023, sobre a alteração da Lei nº 12.871, de 2013, relativa à instituição do Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91cd31787e46fb0aea4e2810c8f20b941ab8700f56dd750f7984d54e6e2b15e8
+size 238

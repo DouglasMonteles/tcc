@@ -1,1 +1,3 @@
-Transcurso do 473º aniversário de fundação do Município de Olinda, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9a60a573fed834e56bb96dddc3c326cc50cac91881f6a22d4f825d0fd36310a
+size 93

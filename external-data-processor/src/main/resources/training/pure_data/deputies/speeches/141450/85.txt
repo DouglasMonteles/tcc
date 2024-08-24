@@ -1,1 +1,3 @@
-Reafirmação do apoio integral à diretriz estabelecida pela Direção Nacional do PSC, a favor da luta dos trabalhadores aposentados pela indexação dos seus proventos ao salário mínimo. Pedido ao Plenário de imediata votação das Emendas do Senado ao Projeto de Lei de Conversão da  Medida Provisória nº 466, de 2009.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71c378d473565da8defc3181c3109ba64764b4b97fa0e5687150230226f6756e
+size 328

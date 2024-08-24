@@ -1,1 +1,3 @@
-Importância da realização de reformas constitucionais para a retomada do crescimento econômico e a geração de emprego e renda no País. Aprovação pela Casa, em primeiro turno, da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41cb99f79a814debfde6c3695d3c5d3db0b95993b495a9bdf797d3e0a505716a
+size 279

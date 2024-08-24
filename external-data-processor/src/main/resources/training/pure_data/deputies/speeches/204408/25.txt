@@ -1,1 +1,3 @@
-Contentamento com a destinação de recursos de emendas de bancada para a construção do Hospital do Câncer de Lagarto, no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eb275f0d5f2cba6dc69f94f4577991df978f167ff9213e78a23c79df45ec124
+size 143

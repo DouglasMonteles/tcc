@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Síndrome de Down. Criação, pela Comissão de Seguridade Social e Família, de Subcomissões destinadas à discussão de assuntos de interesse de segmentos sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2ef12c63e6fbeeff67ef66d5f4c802c721dea882c74bc844ff29adb707e331e
+size 201

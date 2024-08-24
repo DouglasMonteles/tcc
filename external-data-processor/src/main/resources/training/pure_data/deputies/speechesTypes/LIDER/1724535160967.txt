@@ -1,1 +1,3 @@
-Relevância da política de incentivos ao polo industrial de tecnologia da informação do País. Apoio à prorrogação de Zonas de Processamento de Exportação - ZPEs, especialmente na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0bf123e153a57af1dee853e91fc893e8c39cc90e65dda6e3cd557b2df91337c
+size 205

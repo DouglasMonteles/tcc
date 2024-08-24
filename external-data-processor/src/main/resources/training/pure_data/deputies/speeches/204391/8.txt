@@ -1,1 +1,3 @@
-Posicionamento do orador favorável aos termos do acordo construído pelo Presidente Rodrigo Maia para aprovação do Projeto de Lei Complementar nº 441, de 2017, sobre os cadastros positivos de crédito e a responsabilidade civil do operadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e99f5b74648b4470094a6e93996c7a010d3cf9078a8936d985fee8258db4b7b3
+size 246

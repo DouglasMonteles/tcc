@@ -1,1 +1,3 @@
-Votação pela Casa da Proposta de Emenda à Constituição nº 45, de 2019, oriunda do Governo Jair Bolsonaro, a respeito da reformulação do Sistema Tributário Nacional. Necessidade de implantação, pelo Governo Federal, de políticas destinadas ao fortalecimento dos setores produtivos e combate ao desemprego. Insuficiência dos recursos destinados ao Programa de Construção e Ampliação de Armazéns - PCA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc233a65c2aa9922953c7dd579bc8bda11462afb601d4fd1630478369462646f
+size 417

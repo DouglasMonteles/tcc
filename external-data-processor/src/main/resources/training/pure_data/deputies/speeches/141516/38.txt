@@ -1,1 +1,3 @@
-Transcurso do 25º aniversário de criação do Departamento Intersindical de Assessoria Parlamentar - DIAP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c0f9cfc99a8ad7c0e233f55c7dd286981c9e20b9e8f8651588e7343d538d6f7
+size 108

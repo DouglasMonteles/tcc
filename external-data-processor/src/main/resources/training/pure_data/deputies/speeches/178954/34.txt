@@ -1,1 +1,3 @@
-Pedido ao Departamento Nacional de Infraestrutura de Transportes - DNIT de celeridade nas obras de recuperação da BR-364, no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe76890c1bf8a016175982689f39f7a812d03ef9bb90a98ec776661744cc1eb5
+size 147

@@ -1,1 +1,3 @@
-Apelo aos Líderes oposicionistas de votação de projetos de lei sobre a exploração de petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:789a06fbef0080f02da2a051b494268d9ae7aeb731f9de815755621f82533239
+size 119

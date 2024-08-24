@@ -1,1 +1,3 @@
-Contrariedade à aprovação da proposta de redução dos vencimentos dos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0753cc54b50417c977b04beceeb5e8877e4e43c3fcafcd034cda743ea46f8926
+size 88

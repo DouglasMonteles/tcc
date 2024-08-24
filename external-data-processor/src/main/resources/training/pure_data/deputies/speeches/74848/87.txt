@@ -1,1 +1,3 @@
-Participação em encontro entre membros da Comissão Nacional da Verdade e da Comissão Memória e Verdade Anísio Teixeira, da Universidade de Brasília - UnB. Documento Memória de acontecimentos sobre a morte do educador Anísio Teixeira. Discurso do ex-Deputado Haroldo Lima, proferido por ocasião do evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95f54a8a85d8956df60fc7d32c1366ae1abc41d64fe2398f3150b559238cd46e
+size 314

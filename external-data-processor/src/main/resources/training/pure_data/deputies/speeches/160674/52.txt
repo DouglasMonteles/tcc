@@ -1,1 +1,3 @@
-Apoio à mobilização de produtores rurais no Município de Patos, Estado da Paraíba, pela renegociação de suas dívidas com o Banco do Nordeste do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b47931d5bf47bb0b3a890b5239e1c23c48240c18a3e2f76dd166af052bec29a
+size 159

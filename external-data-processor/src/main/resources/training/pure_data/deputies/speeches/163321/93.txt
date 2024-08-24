@@ -1,1 +1,3 @@
-Correção de pronunciamento a respeito da data e horário de desligamento de telefones celulares pelos seus usuários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb43fa143280d01a9e9f4f7d572c007a9ca3a2cc0af3c48fdfae150a7f449e9e
+size 119

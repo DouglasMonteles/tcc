@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Fiscalização Financeira e Controle, de requerimento de convocação da diretoria da concessionária Eco101, para esclarecimento das razões do descumprimento da cláusula contratual sobre a duplicação da BR-101 no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:167511aaf4913a415972a4cdcc686069b7c4979027a4ddc264b215c142935d93
+size 275

@@ -1,1 +1,3 @@
-Proposta de inclusão da expressão com o apoio financeiro da União no  inciso I do art. 7º do Projeto de Lei de Conversão da Medida Provisória 547 de 2011 (Altera a Lei 6.766 de 1979; a Lei 10.257 de 2001; e a Lei 12.340 de 2010, para criar o cadastro nacional de municípios com áreas propícias à ocorrência de escorregamentos de grande impacto ou processos geológicos correlatos), que trata da  competência dos Estados para executar o Plano Nacional de Defesa Civil em seu âmbito territorial, tendo em vista a retirada do texto do Fundo Nacional de Proteção Civil  .
+version https://git-lfs.github.com/spec/v1
+oid sha256:82cabf26d6616a85b04a00fd8a4dbd83494c1d30574fdee0130f97ab906bfafb
+size 582

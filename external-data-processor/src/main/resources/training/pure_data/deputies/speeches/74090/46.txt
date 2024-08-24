@@ -1,1 +1,3 @@
-Necrológio do Senador Jefferson Péres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66937b7e0bc70b932671cc1d1e2585b15030564505821ccf95dd3fe77bf00825
+size 40

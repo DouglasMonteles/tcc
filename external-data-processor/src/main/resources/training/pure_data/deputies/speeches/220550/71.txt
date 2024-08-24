@@ -1,1 +1,3 @@
-O Deputado criticou a interferência do Supremo Tribunal Federal no Congresso e expressou preocupação com a desvalorização do papel dos parlamentares. Afirmou que a Oposição está em obstrução para defender a integridade do Legislativo e destacou que o foco em cargos e emendas desvaloriza o mandato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1c1b4c33a297d712868684882df35e8a9a4367d2abfc580a1f7053f9c60d583
+size 308

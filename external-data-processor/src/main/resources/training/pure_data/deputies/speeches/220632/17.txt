@@ -1,1 +1,3 @@
-Repúdio ao pronunciamento da Deputada Delegada Ione a respeito de chacina ocorrida no Município de Guarujá, Estado de São Paulo. Adoção de política de valorização da vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5606faaa972d4e31a71edc85b10405927c7f05fb8259b66e63e07c8c02e10da8
+size 180

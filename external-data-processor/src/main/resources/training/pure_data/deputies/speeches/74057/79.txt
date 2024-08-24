@@ -1,1 +1,3 @@
-Reunião da Frente Parlamentar em Defesa da Polícia Rodoviária Federal com a Federação Nacional dos Policiais Rodoviários Federais — FENAPRF. Apoio à proposta de redução da jornada de trabalho dos profissionais da enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37203516642542a66fa1b7c93ce9da38d4e4dce0744b4205cf3e7a18dec1add6
+size 235

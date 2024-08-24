@@ -1,1 +1,3 @@
-Encontro do Ministro da Saúde, Alexandre Padilha, com membros de frentes parlamentares do setor, nas dependências da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3919eb6c87653e8f00a9442927d8fb774d6f001ce9f097b2f45c961a0f8ad76c
+size 141

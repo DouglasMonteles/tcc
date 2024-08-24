@@ -1,1 +1,3 @@
-Expectativa quanto à suspensão do embargo imposto pela Rússia às exportações de carne suína brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffba4de65d8d4723560422d37aa8c81404febc7ee0edc5349cf12ae23543fced
+size 110

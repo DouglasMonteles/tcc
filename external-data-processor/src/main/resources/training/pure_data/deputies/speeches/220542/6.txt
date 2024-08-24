@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Vereador Edimar Leandro, da Câmara Municipal de Araguaína, Estado de Tocantins, em visita à Câmara dos Deputados. Contentamento com o desempenho da Polícia Militar tocantinense. Aparelhamento das forças de segurança pública pelo Governador Wanderlei Barbosa. Elogio à polícia pela ação realizada contra a tentativa de esbulho possessório no Município de Nova Olinda. Imediata indicação dos membros da CPI do MST. Apresentação de requerimento de moção de aplausos à polícia tocantinense, pela eliminação de marginais em fuga do Estado do Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:249814f226b648698a68e2b7e1342cf1f11875d79da64ecb2fadecbc5df016ad
+size 606

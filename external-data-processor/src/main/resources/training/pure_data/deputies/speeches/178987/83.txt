@@ -1,1 +1,3 @@
-Pedido à Presidência de acolhimento das emendas apresentadas à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d9e9ba72e2afc470e58e32e3748f90c0bd692ad8ba8cd8c60907657b82dadd6
+size 75

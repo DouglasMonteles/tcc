@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei de Conversão nº 11, de 2023, adotado pela Comissão Mista, referente à Medida Provisória nº 1.164, de 2023, sobre a instituição do Programa Bolsa Família e alteração da Lei nº 8.742, de 1993, sobre a organização da Assistência Social, e da Lei nº 10.820, de 2003, sobre a autorização para desconto em folha de pagamento, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb9893191eefc0aa2f38b25ae73e36a0926a1e337f5f85c9b1bf6a21ceefc9b3
+size 418

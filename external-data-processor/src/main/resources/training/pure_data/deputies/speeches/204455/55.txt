@@ -1,1 +1,3 @@
-Repúdio ao discurso dos Parlamentares do PT e do PSOL, contrário à aprovação do texto do Acordo sobre Salvaguardas Tecnológicas celebrado entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América para utilização do Centro Espacial de Alcântara, no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c650ba0bee2153eb591ef4bea1b136df5b93e66f99f03fe12abdcb6ca8fc3f6
+size 313

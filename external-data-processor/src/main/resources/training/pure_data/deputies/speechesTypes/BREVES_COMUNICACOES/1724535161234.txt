@@ -1,1 +1,3 @@
-Aprovação pelo Senado Federal da Medida Provisória nº 1.162, de 2023, sobre o restabelecimento do Programa Minha Casa, Minha Vida. Acatamento pelo Relator da matéria de emenda da oradora em prol da mulher amparada por medida protetiva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25cb072f3e7695895157ad44015dd87a98dc4f76ef4c062deb697aa617b6f9c9
+size 240

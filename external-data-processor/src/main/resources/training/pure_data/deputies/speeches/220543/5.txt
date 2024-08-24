@@ -1,1 +1,3 @@
-Indignação do orador com o nível dos debates no plenário. Necessidade de discussão pelos Parlamentares de assuntos de relevante interesse do povo brasileiro e do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b46bf5b39e39300deefc2a741f194fd8a16ee856d96c19c2d8b6e98b6e219c31
+size 173

@@ -1,1 +1,3 @@
-Presença da oradora em reunião com o Presidente do Tribunal Superior Eleitoral, Ministro Edson Fachin, para debate do voto da juventude brasileira. Assinatura, pela Agência Espacial Brasileira em conjunto com o Instituto Federal de Educação, Ciência e Tecnologia - IFET do Estado do Paraná, de acordo de cooperação técnica para a criação, no campus do IFET de Londrina, de curso de capacitação de profissionais nos segmentos de satélite, empreendedorismo e inovação tecnológica. Contrariedade à extinção da Vara do Trabalho instalada no Município de Bandeirantes. Recondução do Sr. Ovhanes Gava à Presidência do Sindicato do Comércio Varejista de Londrina - SINCOVAL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84f1c21ae7fde244c5e4b4d57c231832c35719e5fe950f673266a885c799faaa
+size 694

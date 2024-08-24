@@ -1,1 +1,3 @@
-Regozijo com a aprovação pela Casa do Projeto de Lei nº 1.883, de 2021, sobre a concessão de crédito a microempresas e empresas de pequeno porte dirigidas por mulheres. Convite aos Deputados para a sessão solene promovida pela Casa ao ensejo transcurso do Dia Internacional da Mulher. Expectativa quanto à aprovação de proposições de valorização da mulher brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f54110f500e59cc0aee5f9108a793549cec72f7a1f927828b7af7edee3e51ee
+size 380

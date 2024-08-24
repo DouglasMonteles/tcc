@@ -1,1 +1,3 @@
-Excelência da gestão do Presidente Luiz Inácio Lula da Silva. Assinatura, pelo Presidente da República, de decreto sobre o estabelecimento do Compromisso Nacional Criança Alfabetizada. Elevado índice de crianças analfabetas no País, segundo levantamento do Ministério da Educação. Aumento da evasão escolar no Estado de Santa Catarina, especialmente entre alunos do ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be585584f058c1c074f53d21a9e4f0a084804a2a604dba533412ae7b28e1c069
+size 392

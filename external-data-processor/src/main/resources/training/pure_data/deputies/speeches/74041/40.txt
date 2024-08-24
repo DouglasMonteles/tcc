@@ -1,1 +1,3 @@
-Equívoco da bancada do Partido dos Trabalhadores em relação à importância da Comissão de Direitos Humanos e Minorias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:235489cd1985f7c4eca48357ef2aff5833375618430f3ba5156106382084972b
+size 123

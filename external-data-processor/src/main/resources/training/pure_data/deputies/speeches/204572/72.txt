@@ -1,1 +1,3 @@
-Apresentação de proposta de emenda à Constituição acerca do acúmulo remunerado do cargo de professor com outro de qualquer natureza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10834a40746ac065351549edc4fa3559d2db6ede4046e442dc887a561f178d67
+size 138

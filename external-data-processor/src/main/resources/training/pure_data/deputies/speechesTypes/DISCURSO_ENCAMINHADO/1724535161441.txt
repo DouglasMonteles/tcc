@@ -1,1 +1,3 @@
-Realização da campanha mundial Novembro Azul, destinada à conscientização e prevenção ao câncer de próstata. Importância da realização dos exames preventivos da doença. Incidência do câncer de próstata sobre a população masculina brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60cea75823a33142673e0b3b8c20d072584faf84ad3a0ea3f4607ecd599c9c82
+size 259

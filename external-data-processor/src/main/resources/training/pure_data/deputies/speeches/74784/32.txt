@@ -1,1 +1,3 @@
-Prioridade na realização da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a26c4007d1842887de27e38172a61c96f67cc6466a630f2cfdc5dba69d7a62c
+size 48

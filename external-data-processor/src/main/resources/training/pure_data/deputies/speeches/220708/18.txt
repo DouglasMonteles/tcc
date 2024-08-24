@@ -1,1 +1,3 @@
-O Deputado celebrou os 90 anos de emancipação política de Euclides da Cunha, Estado da Bahia. O orador parabenizou ex-prefeitos que contribuíram para o progresso da municipalidade e reafirmou seu compromisso de representar e defender a Bahia e sua terra natal no Parlamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:543b1236de81ff692c40c0c4383f34d67dd3536ab5a5d983c7a013663ac149c6
+size 278

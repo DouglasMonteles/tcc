@@ -1,1 +1,3 @@
-Saudações aos Deputados presentes. Apresentação de projeto de lei sobre o aumento da pena imposta ao praticante de estupro, no caso de aproveitamento da condição profissional ou religiosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eb4690eb20d914a19d38168d362ebe92a7c9ad29aa4ad6d913ed7f4263a65e4
+size 194

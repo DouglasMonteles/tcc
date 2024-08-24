@@ -1,1 +1,3 @@
-Participação em debate sobre o Programa Nacional de Inclusão de Jovens - PROJOVEM, no Município de Montes Claros, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9791beef25693798bbbcf27c16933eb4178e7db8c95eb10c6a846d102460ebbd
+size 141

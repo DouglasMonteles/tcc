@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 1.768, de 2023, que reabre prazo para repactuação de dívidas de crédito rural abrangidas pela Lei nº 11.322, de 13 de junho de 2006 (Lei Eunício Oliveira), e estende as condições nela previstas a dívidas contraídas por Microempreendedor Individual. Ademais, em nome da Oposição, pediu o apoio dos demais parlamentares para a criação da Comissão Parlamentar de Inquérito (CPI) a fim de investigar os abusos de autoridade do Poder Judiciário, tendo em vista o ocorrido com o cidadão Clezão, portador de comorbidades, detido por participação nos atos antidemocráticos, que faleceu durante sua prisão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a95fc25df9a337eb96e21d37170f25e09bb79137d16322c80b5dfd07aef870f
+size 722

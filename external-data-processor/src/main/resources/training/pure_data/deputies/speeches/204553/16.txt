@@ -1,1 +1,3 @@
-Contrariedade à aprovação da proposta de reforma previdenciária. Expectativa de rejeição da admissibilidade da matéria pela Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:671053b9e132266aa0d271bde743048066dbf99d6b8404f1a09539c33059ab33
+size 185

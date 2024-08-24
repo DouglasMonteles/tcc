@@ -1,1 +1,3 @@
-Falecimento do Sr. João Batista Ferreira Monteiro, presidente de honra do PT no Município de Poços de Caldas, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fc78444a801336f2f91a9caecef97dcbfbbcab1ad6a77a628dc059f231e3fbb
+size 136

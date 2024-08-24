@@ -1,1 +1,3 @@
-Sanção presidencial do projeto de lei sobre a regularização da situação de imigrantes ilegais no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:911164de863bf7475f62300a586af4fb7d9322fb870ec2057794d4afd474972c
+size 109

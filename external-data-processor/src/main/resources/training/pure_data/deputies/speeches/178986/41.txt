@@ -1,1 +1,3 @@
-Congratulações à Presidenta da República, Dilma Rousseff, pela assinatura de decretos de reforma agrária e de regularização de terras de comunidades quilombolas em Estados brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e9e753ced339827508f174613e9b158fd9a7dfc359e33f1907e7b70c55899b1
+size 191

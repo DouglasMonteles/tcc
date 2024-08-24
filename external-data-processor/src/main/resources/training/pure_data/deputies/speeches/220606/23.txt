@@ -1,1 +1,3 @@
-Celebração dos 100 primeiros dias do Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0747f6fd16f959540b470f5402fc808d2f70e2df0492fe05ee314d7fddc26b43
+size 74

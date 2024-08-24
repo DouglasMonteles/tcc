@@ -1,1 +1,3 @@
-Garantia pelo Ministro dos Transportes, Antonio Carlos Rodrigues, de continuidade da duplicação da BR-135 do trecho da localidade Estiva até o Município de Bacabeira, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be1f3834cfc7ccc6f2c7b5a4995cc4c59ac7c3a970f9ecfd4276118f7a48b3d3
+size 191

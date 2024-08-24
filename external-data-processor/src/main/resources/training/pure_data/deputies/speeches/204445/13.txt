@@ -1,1 +1,3 @@
-Repúdio à proposta de criação da Frente Sul-Sudeste em oposição aos Estados da Regiões Norte e Nordeste, apresentada pelo Governador do Estado de Minas Gerais, Romeu Zema. Recitação de trecho da canção Imagina o Brasil ser dividido e o Nordeste ficar independente, de Ivanildo Vilanova e Bráulio Tavares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1959e120ca822b118310c35ad997611e982665400ec5eedc582b9ab6eea7989
+size 316

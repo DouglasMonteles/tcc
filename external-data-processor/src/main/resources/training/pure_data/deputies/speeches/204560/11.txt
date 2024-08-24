@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global, oferecida pela Relatora da Comissão de Minas e Energia ao Projeto de Lei nº 712, de 2019, acerca da criação de subvenção econômica para concessionárias do serviço público de distribuição de energia elétrica de pequeno porte; e da instituição do Programa de Transição Energética Justa - TEJ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc91654b7b1745511de25620c2e7895e1de591c163ed893f841665dab02b311d
+size 379

@@ -1,1 +1,3 @@
-Empenho do orador no atendimento às reivindicações de pescadores do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b80eff60ae49b4347203764fed8f2ab7e82d2c6f5b157ee258f869a47f98b64b
+size 87

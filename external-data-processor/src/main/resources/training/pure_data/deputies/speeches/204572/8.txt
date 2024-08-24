@@ -1,1 +1,3 @@
-Prioridade do Ministério da Saúde nas ações de combate ao vírus da gripe H1N1, no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e49d1bf79b6d0915f9832253f57a2c5342f02c2325080400f341289bd7ce703
+size 106

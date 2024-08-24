@@ -1,1 +1,3 @@
-Instalação de campus da Universidade Federal do Rio Grande do Sul nos Municípios de Tramandaí e Cachoeira do Sul. Nomeação do Deputado Mendes Ribeiro Filho para o cargo de Ministro da Agricultura, Pecuária e Abastecimento. Revisão da política de ocupação e uso do solo para a produção primária. Ingerência de organizações não governamentais na política de demarcação de terras indígenas e de remanescentes de quilombolas. Discordância com a demarcação e titulação de área quilombola no Distrito de Morro Alto, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57e64812d9514e4172788e9450666f918ffda4ae02d98e542520ecab1ba87b58
+size 569

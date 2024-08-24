@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do Requerimento de retirada de pauta do Projeto de Lei nº 5.496, de 2013, que acrescenta artigos à Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre o contrato de trabalho por prazo determinado para admissão de jovens entre 16 (dezesseis) e 24 (vinte e quatro) anos de idade que não tenham tido vínculo empregatício anterior, e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71e17fd6ded5f7be7ba603464fb4a34dd64898517f53d7e00bb01dd8cae226b2
+size 474

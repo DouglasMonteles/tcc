@@ -1,1 +1,3 @@
-O Deputado registrou e saudou a presença no plenário de estudantes e professores da Universidade Federal Rural do Rio de Janeiro, Campus Três Rios. Destacou a importância do envolvimento da juventude na política e ressaltou o papel fundamental do diálogo entre o Parlamento e os jovens.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2805ae64f1f0ba9632fd985b5ac1322cb2d2761541e9ad0118408190e380b15
+size 292

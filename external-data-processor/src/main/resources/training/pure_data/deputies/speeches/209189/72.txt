@@ -1,1 +1,3 @@
-Ineficácia do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42aa73ab8055dcac5ae744ff8a4228b3edc1a5bbbfcd340b4119fc717dc1f2a9
+size 38

@@ -1,1 +1,3 @@
-Críticas ao filósofo Olavo de Carvalho. Protesto contra a decisão do Ministro da Justiça e Segurança Pública, Sérgio Moro, de utilização da Força Nacional de Segurança Pública para fins políticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b2fd300ee9985ff6bc61e5369724909707d2d049cfeff28db7af0a4a3a872ef
+size 209

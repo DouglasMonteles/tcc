@@ -1,1 +1,3 @@
-O Deputado deu boas-vindas ao Presidente da Câmara Municipal de Sorriso, Vereador Iago, destacando a importância do agronegócio em Mato Grosso e no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bd37ab8ffa0ee00592b6b8044ad17e00419483dac315513b97efb088106c923
+size 158

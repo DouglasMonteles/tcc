@@ -1,1 +1,3 @@
-Importância de realização da reforma da Previdência Social. Necessidade de adoção, pelo Governo Federal, de agenda destinada à retomada do crescimento econômico brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fe9851c58bd3a71240683337e03e37ed31d2c575d3e0bc3b82803d663bce8f4
+size 180

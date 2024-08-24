@@ -1,1 +1,3 @@
-O Deputado expressou sua admiração e respeito pelo ex-Presidente Jair Messias Bolsonaro, destacando sua popularidade em todo o país e no mundo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc38d8058348f90d38ac34c82e475957b75db566d19e997606cc30e93f9ac27a
+size 146

@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Educação, de requerimento de realização de audiência pública para debate do novo Fundo de Financiamento Estudantil - FIES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e19125e56597ee64d4c62c49bb2927b84094414324376f6a35af9f5bb2f7f9e0
+size 159

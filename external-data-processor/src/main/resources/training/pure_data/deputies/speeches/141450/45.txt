@@ -1,1 +1,3 @@
-Transcurso do 60º aniversário de fundação do Seminário Diocesano Nossa Senhora do Amor Divino, no Município de Petrópolis, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97a4614ea492f8172881d91af5cbcfb360c527ff3e84aa5d3178e99139c7a35f
+size 155

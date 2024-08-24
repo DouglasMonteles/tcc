@@ -1,1 +1,3 @@
-Indignação com discurso do Deputado Elmar Nascimento com acusações contra o ex-Governador do Estado da Bahia, Ministro Jaques Wagner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0187a64bbaeac3ac880062c8e24d4907d3f0340353bdffed0bb2f59951a1097
+size 137

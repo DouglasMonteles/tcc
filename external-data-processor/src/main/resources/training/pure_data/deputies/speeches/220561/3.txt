@@ -1,1 +1,3 @@
-Ameaças de atentado contra escolas em Aracaju, Estado do Sergipe. Imediata adoção de medidas de fortalecimento da segurança nas escolas brasileiras. Apresentação, à Comissão de Segurança Pública e Combate ao Crime Organizado, de requerimento de audiência pública para debate do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc7c45d6a74ac1ddfb78fd7a5c73fb616bd82cf5328a7437b6c588aeedcdbd42
+size 295

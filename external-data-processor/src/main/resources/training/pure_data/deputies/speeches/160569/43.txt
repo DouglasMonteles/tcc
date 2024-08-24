@@ -1,1 +1,3 @@
-Realização do 3º Encontro de Lideranças Municipais, em Brumado, e de Conferência Estadual sobre Reforma Política, em Salvador,  Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21304dcccf8f86c73802e0dac70791fad95170dc04a8a33ca7d4ba1fdb5752fa
+size 150

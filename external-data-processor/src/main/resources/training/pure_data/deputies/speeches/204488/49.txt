@@ -1,1 +1,3 @@
-Orientação de bancada na votação  do Projeto de Lei nº 20, de 2019, adotado pela Comissão Especial da Medida Provisória nº 885, de 2019, a respeito da venda de bens apreendidos de traficantes, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed0b3565ac72afc8626e9cc1e8d42213c5025ed423d07ee60efb128549f7a2bb
+size 226

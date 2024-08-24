@@ -1,1 +1,3 @@
-Descontentamento com a rejeição pela Casa do pedido de instauração de processo criminal contra o Presidente Michel Temer. Defesa de convocação de eleições gerais no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6bf9ae02fff71af5753ec4a37b7ea0109b87aa1f925e7e539266d556c898116
+size 179

@@ -1,1 +1,3 @@
-Votos de boas-vindas aos alunos do ensino médio do SESC de Taguatinga, Distrito Federal, presentes na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fea5fa5a8ceda3aab5efe469f335e65738616db26abd2a7f0a9f86f8f7d9392d
+size 108

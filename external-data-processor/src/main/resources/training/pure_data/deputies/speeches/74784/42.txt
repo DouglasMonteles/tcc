@@ -1,1 +1,3 @@
-Descontentamento com a protelação das votações da Proposta de Emenda à Constituição nº 590, de 2006, sobre a participação de mulheres nas Mesas Diretoras do Senado Federal, da Câmara dos Deputados e das Comissões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aadc8982516141cef994eab7e61f9bd3ee322721da411c204ba0c6363a61787d
+size 225

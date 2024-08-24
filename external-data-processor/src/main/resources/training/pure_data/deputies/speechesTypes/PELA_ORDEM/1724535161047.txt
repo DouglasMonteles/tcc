@@ -1,1 +1,3 @@
-Apoio à greve dos servidores públicos do Município de São Paulo contra a proposta de elevação da alíquota de contribuição previdenciária. Defesa de rejeição da proposta de reforma previdenciária encaminhada à Casa pelo Presidente Jair Bolsonaro. Submissão do Governo brasileiro aos ditames dos Estados Unidos da América.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f821b00d863fd9d2e2c0179c972ee3f0f929304733397c75f5c6b309ca99750
+size 336

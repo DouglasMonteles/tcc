@@ -1,1 +1,3 @@
-Decisão do Superior Tribunal de Justiça favorável ao cancelamento, no prazo de 7 dias, de financiamentos contraídos pelos consumidores junto a instituições financeiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:430fea5a1ec4b75eb55179eb87b4ce62aa282bf3f8b1d07528178ea9e720ce13
+size 174

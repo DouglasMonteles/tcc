@@ -1,1 +1,3 @@
-Paralisação do setor cultural em face da pandemia do novo coronavírus. Congratulações ao Governador do Estado do Rio de Janeiro, Cláudio Castro, pela execução de projetos culturais e concessão de renda emergencial aos artistas. Importância da prorrogação da Lei nº 14.017, de 2020 (Lei Aldir Blanc), instituída em prol da área cultural. Defesa da aprovação do requerimento para apreciação em regime de urgência do Projeto de Lei nº 468, de 2019, sobre a criação do Cartão Nacional de Vacinação On Line. Considerações sobre o Projeto de Lei nº 6.917, de 2017, sobre a criação do Cartão Digital de Vacinação - CDV.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb9bd3bca10bf7e3ba545472b54bf117b8747ef48c18b844724027a2626ede88
+size 646

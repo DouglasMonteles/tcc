@@ -1,1 +1,3 @@
-Inadequação da proposta governamental de reforma previdenciária. Necessidade da realização de reformas constitucionais para o desenvolvimento do País. Esclarecimento sobre o regime de aposentadoria especial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b55f3072ae98afb2f02e908e544f7a128eb1a43059e0ced4f2408c2887a228c8
+size 213

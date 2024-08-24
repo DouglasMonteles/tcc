@@ -1,1 +1,3 @@
-Rompimento de barragem no Município de Machadinho d'Oeste, Estado de Rondônia. Elogio ao Ministro da Saúde, Luiz Henrique Mandetta. Compromisso do orador com a obtenção de recursos para o asfaltamento e saneamento básico da Capital Porto Velho. Participação do Parlamentar no grupo de trabalho destinado ao exame das legislações penal e processual penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7699cf6e498d13e041bd2008210120366db992f5bd5cd76fcc3beeb4e4f7dd6e
+size 364

@@ -1,1 +1,3 @@
-Importância dos programas sociais de proteção à família para o alcance dos objetivos constitucionais do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2127f7b7af87bc4c95ead976dbebab91dbff8acf31bde64ff90635bb14aeead
+size 115

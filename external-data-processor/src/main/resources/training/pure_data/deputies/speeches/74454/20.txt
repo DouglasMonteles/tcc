@@ -1,1 +1,3 @@
-Anúncio pelo Ministro-Chefe da Secretaria de Relações Institucionais, José Múcio Monteiro, da instalação de refinaria da PETROBRAS no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c951acaab983040932620d3067c65219339b07e35987e497468e7e7a1c37cde
+size 158

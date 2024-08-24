@@ -1,1 +1,3 @@
-Posicionamento contrário à aprovação de destaque relativo a prazo para troca de partido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5da401764f7756e26066bd12b44ca3a02960ed4edaf4445f2f2ece1c8e71e0b5
+size 92

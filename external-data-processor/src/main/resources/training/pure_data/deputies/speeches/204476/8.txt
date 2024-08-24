@@ -1,1 +1,3 @@
-Posicionamento do orador sobre a proposta de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81062417365f544320987d89b5022d46933f067f22e94211f4e26d39dc5e3776
+size 69

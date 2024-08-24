@@ -1,1 +1,3 @@
-Presença no plenário do Vice-Governador do Estado de Rondônia, José Jodan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52ea9822cc9612702c7fc24d090247f03adcc2658b6b8c092fde7371794b7d15
+size 78

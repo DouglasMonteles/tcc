@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão da alínea c, inciso XXIII, art. 21, da Proposta de Emenda à Constituição nº 517, de 2010, sobre a quebra do monopólio estatal da produção de radioisótopos e radiofármacos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cada8bc2eede19f4ff2f83e3306bf3b67b1b2eaeebb99b40c4468f82fbec93f
+size 262

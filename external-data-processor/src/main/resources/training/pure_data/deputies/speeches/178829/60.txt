@@ -1,1 +1,3 @@
-Julgamento pelo Supremo Tribunal Federal de ação sobre tipicidade do porte  de droga para consumo pessoal. Apelo aos cidadãos por mobilização social em prol de sentença improcedente. Posicionamento do orador contrário à descriminalização das drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14a10b705e7a65c5c107aef47097acb057a9dae4da9340aba29085370ee3473f
+size 259

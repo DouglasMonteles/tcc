@@ -1,1 +1,3 @@
-Contrariedade à anunciada criação de recifes artificiais e à liberação do acesso de cruzeiros marítimos ao arquipélago de Fernando de Noronha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ae06a49fc2d475dafbc170d979904d2ea632bc8281cbd9c705ef6983adc4f35
+size 150

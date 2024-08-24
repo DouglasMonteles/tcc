@@ -1,1 +1,3 @@
-Falecimento do Pastor Eliel Pereira, no Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42484506169b496b8608c459da0702ab7b6c2c293c5fdc91f4c88860fa6dd2e0
+size 65

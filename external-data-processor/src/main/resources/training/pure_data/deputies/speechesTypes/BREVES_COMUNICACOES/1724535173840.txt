@@ -1,1 +1,3 @@
-Liberação, pelo Governo Federal, de recursos aos Estados do Ceará, Piauí e Maranhão para atendimento às populações atingidas por enchentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24f83670ae71d62da8abd85ee1305308ffc687ee74284ecdcf6599079606624a
+size 147

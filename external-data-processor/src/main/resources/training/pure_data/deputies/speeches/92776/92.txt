@@ -1,1 +1,3 @@
-Impactos ambientais decorrentes da exploração desordenada dos recursos naturais no País. Responsabilidade das autoridades governamentais de promoção de ações educativas, educativas e de saúde em prol do meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32d35466c9ff1dbb0bc4f03ed5d2472b3d7a1f04927252ffdccc27e0e0185e97
+size 225

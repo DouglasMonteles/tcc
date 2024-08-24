@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de preferência para votação do texto original do Projeto de Lei nº 1.321, de 2019, sobre a autonomia dos partidos políticos para a definição do prazo de duração dos mandatos dos membros dos seus órgãos partidários permanentes ou provisórios. Repúdio a discursos em apologia da ditadura militar-civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a48ddbef1cf51c25c145ce73033db70ae6a6f3226b42ea72fe1042ba26641f2a
+size 358

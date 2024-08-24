@@ -1,1 +1,3 @@
-Estagnação do crescimento do Produto Interno Bruto - PIB brasileiro. Otimismo com a solução de entraves impostos ao agronegócio por meio do novo Código Florestal brasileiro. Solicitação à Casa de votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ef86d96ea2697d06025615c1a5d34f6a068fd9efec6eb4a5677856e2fb61854
+size 227

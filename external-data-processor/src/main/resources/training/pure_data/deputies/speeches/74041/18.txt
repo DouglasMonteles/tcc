@@ -1,1 +1,3 @@
-Homenagem às mulheres brasileiras. Escalada da violência entre jovens no País, com ênfase no alto índice de homicídios de adolescentes no Município de Campina Grande, Estado da Paraíba. Ocorrência de exploração sexual infanto-juvenil em Campina Grande. Atuação da Polícia Federal no combate à criminalidade no Estado. Matérias de jornais do Estado da Paraíba sobre a violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4f3576a817f0553a4673c88a1d21508d4386d858c5f79a94e1bf103282e81f9
+size 395

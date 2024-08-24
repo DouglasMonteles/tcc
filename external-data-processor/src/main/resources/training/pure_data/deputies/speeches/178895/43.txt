@@ -1,1 +1,3 @@
-Contrariedade à política de desarmamento da população civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98d4705c17520bd56537593a657df73b321dbf27e423c8b7383d6f968a7a8af4
+size 64

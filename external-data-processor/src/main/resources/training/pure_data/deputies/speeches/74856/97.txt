@@ -1,1 +1,3 @@
-Orientação da bancada do PMDB de votação favorável ao requerimento de urgência para apreciação do Projeto de Resolução nº 159, de 2016, da Mesa Diretora da Câmara dos Deputados, que acrescenta o art. 25-A na Resolução nº 20, de 1971, para autorizar a prestação de assistência médica, de emergência e de ambulatório, inclusive perícia, pelo Departamento Médico da Câmara dos Deputados, mediante clebração de convênios e acordos de cooperação técnica. Contrariedade à privatização da Companhia Estadual de Águas e Esgotos do Rio de Janeiro - CEDAE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0e4d728297855c409ac9d4fe5d38024e5bd7789b36886266f37899b6cc20e34
+size 580

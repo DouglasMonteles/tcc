@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional dos Animais. Defesa de preservação das espécies animais, por meio do combate ao tráfico e aos maus-tratos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a84d34c52aff6763f637675a09fbf77f7d324c8de84a6eed7dc185419bdac9e5
+size 137

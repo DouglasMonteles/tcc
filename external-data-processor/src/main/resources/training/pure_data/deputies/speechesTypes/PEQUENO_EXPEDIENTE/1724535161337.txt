@@ -1,1 +1,3 @@
-Imediata indicação pela Presidenta Dilma Rousseff de substituto à vaga do ex-Ministro do Supremo Tribunal Federal - STF Joaquim Barbosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dd32908260e1b452a41920c2a48d3ed9ffccd4faf3820654c4e76404750be80
+size 139

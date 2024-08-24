@@ -1,1 +1,3 @@
-Sessão Solene em homenagem ao Dia Nacional de Luta da Pessoa em Deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56e1b07534b4d1c2acccf28211e5df9a65b83458b058e636d75d7557310e6cd4
+size 78

@@ -1,1 +1,3 @@
-Apelo ao Tribunal de Contas da União - TCU de rejeição do processo de privatização das Centrais Elétricas Brasileiras S/A - ELETROBRAS. Protesto contra a dolarização dos preços de combustíveis e as elevadas  tarifas de energia elétrica vigentes no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aca99299f09e5624d23bff2acde607e197aba6967c89bd31e2703df54baaff7
+size 265

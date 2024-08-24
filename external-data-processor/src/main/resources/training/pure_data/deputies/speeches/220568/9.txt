@@ -1,1 +1,3 @@
-Participação de empresários condenados pela Operação Lava-Jato na viagem oficial do Presidente Luiz Inácio Lula da Silva à República Popular da China. Reprovação, por 90% da população brasileira, da declaração do Presidente da República a respeito do plano de assassinato do Senador Sergio Moro e sua família. Presença do Ministro da Justiça e Segurança Pública, Flávio Dino, na Comissão de Constituição e Justiça e de Cidadania para esclarecimento de sua visita, sem escolta armada, a comunidade dominada por facção criminosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44402fae77064b0b617cf9168542975a88327dcc111b9acf3c1a732bc970067a
+size 554

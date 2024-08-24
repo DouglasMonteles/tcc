@@ -1,1 +1,3 @@
-Relato da vida da oradora como atleta profissional. Maior amparo governamental às mulheres no esporte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04e740c2df08c455d2bc17627ab76f382ed20ab1cacb78398c00821d3d0b0942
+size 103

@@ -1,1 +1,3 @@
-Transcurso do aniversário natalício do Presidente em exercício dos trabalhos. Presença, na Casa, do Deputado Estadual de Mato Grosso do Sul, Evander Vendramini. Apoio ao restabelecimento dos serviços públicos básicos no Município de Corumbá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75eb9bfdcbdf795f17e6ed0f34f6567a7e188afd7be6e454cd0e8ed102f52ca1
+size 250

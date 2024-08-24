@@ -1,1 +1,3 @@
-Apoio às reivindicações dos policiais ferroviários federais presentes na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d73f568f3741c4fcb06c15f845ade9bd97b3d775f2791311544d5466eca9ce2
+size 82

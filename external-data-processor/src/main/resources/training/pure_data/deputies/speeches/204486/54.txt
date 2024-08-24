@@ -1,1 +1,3 @@
-Urgente necessidade de discussão, pela Casa, de propostas de combate a desigualdade de renda no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:738d72db6da0b20c16d047c4ac91c7137988a3bdea2db6d28dc64d6959466047
+size 103

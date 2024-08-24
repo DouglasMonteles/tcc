@@ -1,1 +1,3 @@
-Posicionamento contrário do DEM à  Emenda  20, destacada,  à Subemenda Substitutiva Global de Plenário ao Projeto de Lei Complementar 416 de 2008 (Dispõe sobre o procedimento para a criação, a  incorporação, a fusão e o desmembramento de Municípios, para regulamentar o § 4º do art. 18, da Constituição Federal),  que trata do requisito de número de habitantes para elaboração do Estudo de Viabilidade  Municipal visando comprovar a existência de  condições para a criação de municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b50a9428183e659d842863972e59aa024a4010fa31798849e735321a68f0a1dc
+size 511

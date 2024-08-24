@@ -1,1 +1,3 @@
-Repúdio ao posicionamento de Deputada contrário à afixação de faixas relativas ao assassinato da Vereadora Marielle Franco, do Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bb35a4e6eb1bccdcc5efb1155973ea448b967a64d7355f3fcff8c222e5b97b0
+size 173

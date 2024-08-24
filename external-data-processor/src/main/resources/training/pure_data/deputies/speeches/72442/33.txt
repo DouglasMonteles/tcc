@@ -1,1 +1,3 @@
-Homenagem póstuma ao Deputado Federal Luiz Flávio Gomes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b75d2e414ac8f0dc2e98874ff532e2eabd5dabf1cb423596374c4b818793056d
+size 58

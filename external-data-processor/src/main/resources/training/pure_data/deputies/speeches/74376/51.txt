@@ -1,1 +1,3 @@
-Destinação ao setor educacional de recursos oriundos da exploração de petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f4712a38bccbf29550b3f7473ff77c1b8ff46cab7165210046591ef53e9c40a
+size 103

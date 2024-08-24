@@ -1,1 +1,3 @@
-Realização de festejos religiosos no Município de Tauá, Estado do Ceará. Transcurso do Dia Nacional da Caatinga. Defesa de aprovação da Proposta de Emenda à Constituição nº 115, de 1995, sobre a inclusão do Cerrado entre os biomas considerados patrimônio nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3042f40d981a7ce7dc4f516df72acd1312ab7b18861d3d419e359f286ab481e7
+size 277

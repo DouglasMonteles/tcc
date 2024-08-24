@@ -1,1 +1,3 @@
-Transcurso do primeiro ano da catástrofe ocorrida no Japão em decorrência de terremoto seguido de tsunami. Solidariedade ao povo japonês.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ea1e262ec65cada7caa798035afab5191e86cd8b4979edf05da0f33629b7232
+size 141

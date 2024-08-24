@@ -1,1 +1,3 @@
-O Deputado lamentou brutal assassinato de mãe e filhas em Sorriso, Mato Grosso. Criticou a impunidade, defendendo a revisão do sistema penal e a necessidade urgente de reação contra a criminalidade no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa3ffc0221476390a671788952d9d42c3819bf9bfdab50472506eb39b0fe7f7b
+size 212

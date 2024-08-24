@@ -1,1 +1,3 @@
-Votos de pronto restabelecimento da saúde ao ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ed1470525f75125252dcdc47b1c7e0e240d42d4924659e05ca3e1dda90539d7
+size 87

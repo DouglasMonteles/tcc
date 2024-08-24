@@ -1,1 +1,3 @@
-Epidemia de zika vírus, dengue e chikungunya no Município de Ribeirão Preto, Estado de São Paulo. Pedido de apoio do Governo Federal para o enfrentamento do problema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:862e354ad4a51ac6e630fca55de28d67859da5640819b8b3396c31b4e218df70
+size 170

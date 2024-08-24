@@ -1,1 +1,3 @@
-Rejeição, pelo Supremo Tribunal Federal, de recurso contra a condenação do ex-Presidente Luiz Inácio Lula da Silva em segunda instância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78e6db7e37821a9a8010a904001be9dd186850377511372a10e5f0b27dddebf9
+size 142

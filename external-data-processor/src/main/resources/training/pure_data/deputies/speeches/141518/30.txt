@@ -1,1 +1,3 @@
-Agradecimento ao Presidente da Casa, Deputado Marco Maia, pela participação nas comemorações do Dia do Trabalho, em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e58def055df3d0a1ceaa7b884b56cb36e021cbabbc3575902da5c6ee53ba558c
+size 153

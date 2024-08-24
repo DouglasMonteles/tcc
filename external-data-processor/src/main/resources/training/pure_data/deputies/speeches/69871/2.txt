@@ -1,1 +1,3 @@
-Realização de trabalho voluntário de atendimento médico-ambulatorial no Município de Condeúbas, Estado da Bahia. Visita do Presidente Luiz Inácio Lula da Silva ao Estado para lançamento de obras do Programa de Aceleração do Crescimento - PAC. Transcurso do 23º aniversário de emancipação político-administrativa do Município de Lapão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a0d32753b63271ae79a400446a9899f930c3d71d3768e7fd2cfb84953a301d9
+size 351

@@ -1,1 +1,3 @@
-Indignação com o reajuste das tarifas de energia elétrica em 36,08%, no Estado do Amapá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d61043f2e62adad5627e0ce264ccb876681422915824df4a0a08d73a729460a
+size 92

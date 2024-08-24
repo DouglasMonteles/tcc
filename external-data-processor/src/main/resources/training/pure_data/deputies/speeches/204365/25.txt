@@ -1,1 +1,3 @@
-Repúdio ao processo de discussão e aprovação pela Casa do projeto de lei a respeito dos crimes de abuso de autoridade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6579febbf212bbfe179f996c125617145429449c3d20d327e15f73b5ad1d689
+size 122

@@ -1,1 +1,3 @@
-A Deputada agradeceu calorosamente a recepção em sua visita à cidade de Biritinga, Estado da Bahia, destacando o progresso trazido pelo governo estadual na recuperação da estrada BA-233. Elogiou o programa Desenrola Brasil por restaurar a autoestima das famílias brasileiras, parabenizando o Presidente Lula por sua sensibilidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aeada997fab93b889dc3a4d4628229458fb673709c34b8e2b6a80a693125155
+size 336

@@ -1,1 +1,3 @@
-Orientação da Minoria. Denúncia sobre atos de violência contra a comunidade indígena guarani-kaiowá no Estado do Mato Grosso do Sul. Responsabilização da CPI da FUNAI e do INCRA pelos conflitos fundiários no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f822b9d45938f51c52744621690e1feddb7347dbc1a2f70532df0020122b357b
+size 224

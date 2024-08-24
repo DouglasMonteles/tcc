@@ -1,1 +1,3 @@
-Importância do setor agrícola para a economia brasileira. Apoio às políticas governamentais de incentivo do setor. Congratulações aos produtores rurais paranaenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:098ccf6e3f651693c3c8520596f5db3651621c23dadaad188dbc72f8f632c1b4
+size 170

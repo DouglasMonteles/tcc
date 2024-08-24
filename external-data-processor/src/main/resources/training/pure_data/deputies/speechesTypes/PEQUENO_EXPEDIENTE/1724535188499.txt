@@ -1,1 +1,3 @@
-Divulgação do Relatório sobre a Violência Homofóbica no Brasil em 2012, pela Secretaria de Direitos Humanos da Presidência da República em conjunto a Secretaria de Políticas para as Mulheres e o Ministério das Relações Exteriores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7701a80715ab88c58081820986f1749440cfaa3aa7d5656603c092c02bf9cfc7
+size 241

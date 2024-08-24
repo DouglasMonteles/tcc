@@ -1,1 +1,3 @@
-Participação em encontro da Associação dos Juízes do Estado do Rio Grande do Sul, destinado ao debate sobre a criação de novo marco regulatório do setor de comunicação do País. Importância a atuação da Frente Parlamentar pela Liberdade de Expressão e o Direito à Comunicação com Participação Popular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93aa57e2d57903b20a8d61b14905f83648600f96712009ce41cbed89e91368a
+size 320

@@ -1,1 +1,3 @@
-Protesto contra o veto presidencial aposto ao Projeto de Lei do Senado nº 372, de 2008, a respeito da readmissão de servidores demitidos durante o Governo Fernando Collor de Mello.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61b0abc61840b1b0f66ba6caeb33f28cfe821fcc906ba868e9f718c7f1e70b2e
+size 182

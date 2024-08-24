@@ -1,1 +1,3 @@
-Cobrança ao Líder do PSL na Casa, Deputado Delegado Waldir, de retratação por ofensa proferida contra o Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22154b7fb2348a8de0503df5f0c357f5660019dac54d417c3cf6f2ef237118be
+size 124

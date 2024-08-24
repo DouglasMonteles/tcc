@@ -1,1 +1,3 @@
-Avanço da aprovação do Projeto de Lei nº 4.162, 2019, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e4ee1f47d43a1796437564d64e0c849dabd7cb02db627348af4c84ba4d04b83
+size 117

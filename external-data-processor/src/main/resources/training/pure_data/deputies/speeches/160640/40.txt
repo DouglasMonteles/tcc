@@ -1,1 +1,3 @@
-Congratulações a entidades sociais brasileiras dedicadas à recuperação de dependentes químicos e ao acolhimento de crianças em tratamento de câncer. Anúncio da recriação da Frente Parlamentar Mista em Defesa das Comunidades Terapêuticas, Acolhedoras e APACs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5a82c1a3d35cf31a15923835eac6b3d62538ce24d88bae9cb0fa782b731d36d
+size 270

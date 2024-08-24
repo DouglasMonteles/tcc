@@ -1,1 +1,3 @@
-Artifícios utilizados pelo Governo Federal para enfraquecimento da CPMI dos Cartões Corporativos. Necessidade de aperfeiçoamento da proposta de reforma tributária. Inocuidade da proibição da venda de bebidas alcoólicas nas rodovias brasileiras. Improcedência das declarações do Presidente Luiz Inácio Lula da Silva sobre a atuação dos partidos oposicionistas no Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9023db7deaff034d7524de0cb8e57637c1db3316dd108db9c36b439e4a665e82
+size 394

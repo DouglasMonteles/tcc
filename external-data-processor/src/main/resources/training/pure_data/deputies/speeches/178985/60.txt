@@ -1,1 +1,3 @@
-Ampliação da campanha financeira da Sociedade de São Vicente de Paulo em prol de suas conferências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d34706926e0e9cfacec149c332a5801a83da904266e28c4cad00dbf4897b2fd0
+size 103

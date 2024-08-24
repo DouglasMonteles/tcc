@@ -1,1 +1,3 @@
-Posicionamento contrário do DEM à proposta de procedimento para votação da   Medida Provisória 559 de 2012 (Autoriza a Centrais Elétricas Brasileiras S. A  ELETROBRAS  a adquirir participação na CELG Distribuição S.A - CELG D e dá outras providências), apresentada pelo Líder do Governo, Deputado Arlindo Chinaglia. Obstrução do DEM à votação por não concordar com dispositivo do Projeto de Lei de Conversão que   trata da extensão do Regime Diferenciado de Contratação - RDC para obras do Programa da Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7455e71570a2f3cc380d10d7cd43174e3ba31d0df2358656339cbb137ee9e01b
+size 559

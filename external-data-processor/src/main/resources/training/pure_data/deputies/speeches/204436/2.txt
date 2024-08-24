@@ -1,1 +1,3 @@
-Relevância da Lei nº 12.764, de 2012, sobre a criação da Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista. Congratulações à Casa pela realização de sessão solene, por ocasião do transcurso do Dia Mundial de Conscientização do Autismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc4f01f5f5e11581efccb209481507f43583edad02c9897dc845cd6d171558b4
+size 289

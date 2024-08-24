@@ -1,1 +1,3 @@
-Regozijo com a aprovação pela Casa, em segundo turno, da proposta de reforma previdenciária. Expectativa quanto à realização da reforma tributária. Contrariedade à transferência do ex-Presidente Luiz Inácio Lula da Silva para presídio no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b3ce5052776e1b79c90b8b9433cb1f9230176232d9df9e2d7fb9d09f20cdf80
+size 270

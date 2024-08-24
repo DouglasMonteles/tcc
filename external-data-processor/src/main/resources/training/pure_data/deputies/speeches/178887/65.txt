@@ -1,1 +1,3 @@
-Participação em evento do PCdoB no Município de Pinheiro, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86ddc2a6a41c940e75563972c294293fd698656a44501f3bff2286b7c226cca6
+size 81

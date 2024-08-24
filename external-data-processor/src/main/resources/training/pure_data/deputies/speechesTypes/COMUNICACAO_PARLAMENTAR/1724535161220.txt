@@ -1,1 +1,3 @@
-Crise do setor leiteiro nacional. Reapresentação de requerimento de informações ao Ministro do Desenvolvimento, Indústria e Comércio Exterior sobre a importação de produtos lácteos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b51224f413d662edcc60fbd248bc737cc41c8cbd9267f144df08f6deeb18442
+size 190

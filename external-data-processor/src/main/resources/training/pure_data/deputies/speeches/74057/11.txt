@@ -1,1 +1,3 @@
-Realização da 1ª Conferência Nacional de Políticas Públicas de Juventude, em Brasília, Distrito Federal. Manifestação do Prof. Antonio Natalino Manta Dantas sobre a avaliação do desempenho da Faculdade de Medicina da Universidade Federal da Bahia pelo Exame Nacional de Desempenho de Estudantes - ENADE e pelo Indicador de Diferença Entre os Desempenhos Observado e Esperado - IDD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ad436a00d8e6e438af32c6af92b95feb9c501799297394a05feb9cf22817faf
+size 393

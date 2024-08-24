@@ -1,1 +1,3 @@
-Efeitos positivos da Lei  nº 11.705, de 2008, a chamada Lei Seca, coibitiva do uso de bebidas alcoólicas por condutores de veículos automotores. Precariedade das rodovias brasileiras. Alterações previstas para o Código de Trânsito Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d91829d7227299a574eccffe15ef3490fb1055459f4a6c0acb75cd557138e66
+size 249

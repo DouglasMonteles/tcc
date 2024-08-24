@@ -1,1 +1,3 @@
-Orientação de bancada do SD favorável à emenda 23, objeto de  Destaque para votação em separado (DVS), da Medida Provisória nº 635, de 2013, que dispõe sobre a ampliação do valor do Benefício Garantia-Safra para a safra de 2012/2013.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b379cd04acb46aa879fd22f53a8633e6bc832d90f7d84413529646607b885e03
+size 245

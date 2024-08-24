@@ -1,1 +1,3 @@
-Avaliação dos projetos de lei do Poder Executivo sobre o estabelecimento do marco regulatório da exploração de petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe03ac0f81148ed660012f7190fa1b6cdaf56bf7224851c4842402e98b5db00b
+size 145

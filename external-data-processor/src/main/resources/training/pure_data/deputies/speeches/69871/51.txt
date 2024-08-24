@@ -1,1 +1,3 @@
-Transcrição do artigo de autoria do jornalista Osvaldo Lyra intitulado Corrupção: um ciclo vicioso, veiculado no jornal Tribuna da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:896c954f613d908b1e80b5fe072d569f008f0197912045debb0eb1feda0e7ce6
+size 141

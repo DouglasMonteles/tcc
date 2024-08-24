@@ -1,1 +1,3 @@
-Necessidade de mobilização dos trabalhadores e trabalhadoras contra a reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02cd336b2f2875fea4894c3afe98290e0df239bbe5463e15a2af65e9b02f55f4
+size 103

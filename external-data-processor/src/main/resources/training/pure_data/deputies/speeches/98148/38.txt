@@ -1,1 +1,3 @@
-O Deputado informou que apresentou o Projeto de Lei nº 5.154, de 2023, que inclui disposições sobre a proteção de advogados e advogadas que sofrem ameaça, coação ou violência no exercício da profissão. Mencionou o caso recente da advogada Giane Bello, agredida durante o exercício de sua profissão; e ressaltou a previsão constitucional acerca da atividade advocatícia para a Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c37012f2124cea193231f063e889656c3da7333f18114c5228f4df5e158c690
+size 400

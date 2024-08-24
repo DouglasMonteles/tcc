@@ -1,1 +1,3 @@
-Falecimento do Prof. Wellington Leitão, ex-Diretor da Faculdade de Direito da Universidade Federal do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7843fc52d44de6964c6808f4b4b16c23f02d957236a09a70cf54f5c609949fee
+size 110

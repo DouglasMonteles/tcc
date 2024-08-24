@@ -1,1 +1,3 @@
-Congratulações à direção da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba - CODEVASF, pela assinatura de ordens destinadas ao fornecimento de água tratada às comunidades de Pedrinhas, Serrote do Urubu, Agrovila Massangano e Caatinguinha, no Município de Petrolina, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:696a257ed9ace1ad6dcb65cc6f96029f7717c34a230615556b26e7e926ab3efd
+size 320

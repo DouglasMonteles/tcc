@@ -1,1 +1,3 @@
-Transcurso do 50º aniversário de instalação da fábrica Hileia Alimentos no Município de Castanhal, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:875b4ba2daf73e4fe295a545cd3ecd35a762ab41985264cb03516ea1800355da
+size 121

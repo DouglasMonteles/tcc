@@ -1,1 +1,3 @@
-O Deputado criticou a base bolsonarista no Congresso e afirmou que a recente manifestação de apoio ao ex-Presidente Bolsonaro em Belo Horizonte foi um fracasso. O Parlamentar questionou seus pares sobre atos considerados terroristas e contrastou com as políticas do Presidente Lula, tais como a segunda fase do Programa Desenrola, que beneficiará 32 milhões de brasileiros com descontos em dívidas. Além disso, anunciou mudanças no Programa Minha Casa, Minha Vida, isentando de prestações beneficiários do Bolsa Família e do BPC. Destacou que, enquanto a base bolsonarista está perdida, o Governo atual trabalha em políticas para o povo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4482ebd1ee73ab97bbbc8d50c378dd948115b05a47701e2d68e2fab0a7f1564e
+size 651

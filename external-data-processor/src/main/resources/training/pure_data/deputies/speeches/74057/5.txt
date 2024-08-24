@@ -1,1 +1,3 @@
-Comissão Geral para debate dos temas A Mulher nos Espaços de Poder e A Lei Maria da Penha no Combate à Violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1642cbfafb14e47feeea06766195d562501b61fc3236d32f9ab39402338bddb
+size 117

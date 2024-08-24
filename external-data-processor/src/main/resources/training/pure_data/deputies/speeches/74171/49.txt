@@ -1,1 +1,3 @@
-Propriedade da proposta dos  partidos de Oposição de votação na semana em curso de três Medidas Provisórias sem obstrução.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9081e49048cd453ec45fbc4eecdccd6b6cf8c323185de160be28e2169e02e579
+size 130

@@ -1,1 +1,3 @@
-Realização de encontro estadual do Partido Republicano Brasileiro em São Luís, Maranhão. Considerações sobre proposta de emenda à Constituição acerca da vinculação de reajustes do salário mínimo aos benefícios previdenciários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d926332b0970c835f0cbc4a54bb8a718d73d43e55615a0bb93d44cc10b6dd99d
+size 242

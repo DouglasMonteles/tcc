@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional de Luta por Moradia. Reivindicações da Articulação dos Movimentos Populares de Moradia de Sergipe aos poderes públicos. Matéria Proinveste: mais de R$ 63 mi estão sendo investidos na construção da Rota do Agreste, sobre nova rodovia entre os Municípios de Itabaiana e Itaporanga, Estado de Sergipe, publicada pelo portal da Agência Sergipe de Notícias. Aclamação do ex-Presidente Luiz Inácio Lula da Silva na Itália como maior liderança popular do Brasil e da América Latina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aec0206fa0c49eb9774d6d6aaeb1a00eb9b757113bedd2b5d4f221668263ff2
+size 520

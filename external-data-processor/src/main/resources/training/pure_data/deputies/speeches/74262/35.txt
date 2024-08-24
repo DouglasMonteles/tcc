@@ -1,1 +1,3 @@
-Homenagem à memória de Dom Agnelo Cardeal Rossi, da Arquidiocese de São Paulo, ao ensejo do transcurso do centenário do seu nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c76d64fc483e14c73bb5b29f37128c3532672dff445614fe6d837146d78d138
+size 139

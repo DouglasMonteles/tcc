@@ -1,1 +1,3 @@
-Assassinato pelo crime organizado do policial militar Patrick Bastos Reis, integrante da ROTA - Rondas Ostensivas Tobias de Aguiar, em São Paulo, Estado de São Paulo. Contrariedade à proposta do Ministro da Justiça e Segurança Pública, Flávio Dino, de desarmamento do cidadão de bem. Exigência de respeito e valorização dos policiais militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bbc47d05eed9c4a8cdfd56a4cde2ffff6bed32e00e4e98697080b13590ee798
+size 355

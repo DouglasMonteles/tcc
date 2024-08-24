@@ -1,1 +1,3 @@
-Associação ao discurso proferido pelo Deputado Pedro Uczai a favor do financiamento público de campanhas eleitorais. Conveniência de votação pela Casa, em segundo turno, da proposta de emenda à Constituição sobre a extinção do voto secreto nas deliberações da Câmara dos Deputados e do Senado Federal. Solidariedade ao movimento grevista dos funcionários da Imprensa Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8f2f77f5d90e6befedafbfbcd63c7a998ca54acfb478f9ff18ba1fdab332b7a
+size 391

@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo  ao Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória 445 de 2008 (Dispõe sobre a dispensa de recolhimento de parte dos dividendos e juros sobre capital próprio pela Caixa Econômica Federal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1345f5e3232793a4937da440a567926331e56eb1e504c18fbb369d6ad7cd47cd
+size 253

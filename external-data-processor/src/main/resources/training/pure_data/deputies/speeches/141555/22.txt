@@ -1,1 +1,3 @@
-Posicionamento favorável do PTdoB ao  Recurso 90 de 2007 contra a apreciação conclusiva da Comissão de Constituição e Justiça e de Cidadania sobre o Projeto de Lei 836 de 2003 (Disciplina o funcionamento de bancos de dados e serviços de proteção ao crédito e congêneres e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1f601787fb971544e36273677f805f4c977336c96d9760855d5581deb1f4b91
+size 310

@@ -1,1 +1,3 @@
-Não compactuação do PODE com a velha política do toma lá, dá cá, para a aprovação da proposta de reformulação do sistema previdenciário. Posicionamento do partido favorável à realização de ampla reforma previdenciária, igualitária e justa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7a2efbb27cf7ac455c3ea9fd5dadac49195de841aa3fce4b9c330a98863d393
+size 257

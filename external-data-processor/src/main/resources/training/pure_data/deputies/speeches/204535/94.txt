@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 27, apresentada à Medida Provisória nº 925, de 2020, sobre as medidas emergenciais para a aviação civil brasileira diante da pandemia de coronavírus. Importância de aprovação, pela Casa, do Projeto de Lei nº 1.552, de 2020, acerca das medidas de proteção das mulheres em situação de violência, durante o estado de calamidade pública com efeito até 31 de dezembro de 2020, ou na vigência das medidas de quarentena e restrições de atividades no contexto da pandemia do novo coronavírus. Escalada do crime de feminicídio no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71554ac314a639e7402adc32e151cc6378bbc02dbce58da388edc57c036651d4
+size 669

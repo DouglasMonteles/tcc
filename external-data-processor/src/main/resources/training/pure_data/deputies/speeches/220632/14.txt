@@ -1,1 +1,3 @@
-Contrariedade à privatização da Fundação Ezequiel Dias, no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3468e724730af026154e1eb592ba6022d323e20222388d8627ad8dc07b9fbbf
+size 87

@@ -1,1 +1,3 @@
-O Deputado externou que a Deputada Silvia Waiãpi não representa a população waiãpi do Amapá e que esta população é contra o marco temporal. Ele mencionou que as lideranças indígenas já declararam sua posição contrária a essa medida e destacou a importância de não distorcer a posição do povo waiãpi em relação a esse assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78c1d4b3d4a7c63214efdd8e56cb1bc8792c832bf4f623e7ce568c7532bc6b57
+size 347

@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Consciência Negra. Arcabouço jurídico concernente à redução da discriminação racial no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d58e55c539745b8211b3fb714967208aa073ce092d4826f72c704d823ff30724
+size 131

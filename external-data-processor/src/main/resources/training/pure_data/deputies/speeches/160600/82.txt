@@ -1,1 +1,3 @@
-Convocação dos Deputados integrantes da bancada do Partido Solidariedade para comparecimento ao plenário, tendo em vista a importância da votação da proposta de prorrogação do prazo da Zona Franca de Manaus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca79e5f944517da426e6f4f6f22cfc2bd69832ec115478833c06f2da5cb13ece
+size 215

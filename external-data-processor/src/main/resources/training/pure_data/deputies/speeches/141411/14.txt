@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT ao § 9º do art. 8º da Lei 11.775 de 2008, alterado pela Emenda  1 do Senado ao Projeto de Lei de Conversão 13 de 2009 (Medida Provisória 462 de 2009 ), que dispõe sobre a prestação de apoio financeiro pela União a entes federados que recebem recursos do Fundo de Participação dos Municípios - FPM, no exercício de 2009, com o objetivo de superar dificuldades financeiras emergenciais, e dá outras providências, objeto de DVS, que dá competência ao Ministro da Fazenda para definir descontos para liquidação ou renegociação de operações no âmbito do PRODECER II.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f887ea15bdb74b9a4e19fa5291170d384529b9bac760a1841988e49fa6b2b9c4
+size 618

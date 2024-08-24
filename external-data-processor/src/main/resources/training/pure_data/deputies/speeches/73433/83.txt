@@ -1,1 +1,3 @@
-Realização de acordo de Lideranças para agilização das votações na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d64d3cc26b2a7e29046a98abfbb89bc0f32d4ff1d14a08f90bdc46f2602224f9
+size 79

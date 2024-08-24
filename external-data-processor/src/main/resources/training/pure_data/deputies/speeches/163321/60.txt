@@ -1,1 +1,3 @@
-Apoio à aprovação pela Casa do Projeto de Lei nº 7.495, de 2006, sobre criação do plano de carreira e do piso salarial nacional dos agentes comunitários de saúde e dos agentes de combate às endemias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d248115b2054cb1c768be55ffcc46b334d2fdfeebf239d26a8a8cd0f36038c52
+size 208

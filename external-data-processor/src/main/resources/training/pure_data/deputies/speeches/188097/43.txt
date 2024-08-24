@@ -1,1 +1,3 @@
-Posicionamento contrário à aprovação da Proposta de Emenda à Constituição nº 32, de 2020, sobre a reforma administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79499861ba98b347e65c76db9a367a7bdd64832d10e7aef7be6ac01a90c9cd25
+size 129

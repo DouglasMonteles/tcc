@@ -1,1 +1,3 @@
-Defesa de aprovação, pela Comissão de Constituição e Justiça e de Cidadania, da admissibilidade da Proposta de Emenda à Constituição nº 18, de 2011, de autoria do orador, sobre autorização de trabalho sob o regime de tempo parcial a partir dos 14 anos de idade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ffdc50ff807b969bdd6f85104c8734b7eea11334d21e0efa771c0e3000c3be2
+size 273

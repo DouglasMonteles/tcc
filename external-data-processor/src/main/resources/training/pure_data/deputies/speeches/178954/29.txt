@@ -1,1 +1,3 @@
-Indagação à Presidência sobre o início da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24a9dccdade725689a39fbbb37157fb2fb05a7d651214cedf82562df5c34e8e7
+size 60

@@ -1,1 +1,3 @@
-Indicação do orador para membro da Comissão de Saúde. Destinação, pelo Governo Federal, de recursos para realização de cirurgias eletivas, bem como de exames e consultas represados no âmbito do Sistema Único de Saúde - SUS. Relançamento do Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7928f8d80ab44b461c81f9a11e8af1d88a213ef68054e9b9366154dc044493a
+size 275

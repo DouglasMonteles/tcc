@@ -1,1 +1,3 @@
-Cumprimentos à Presidência pela inclusão na pauta de proposições relativas à segurança pública no País. Críticas ao PT pela obstrução da votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82d527b5dd32d3751c932df64d1f2182aa29795df9cc80d5cca3576a64367a78
+size 171

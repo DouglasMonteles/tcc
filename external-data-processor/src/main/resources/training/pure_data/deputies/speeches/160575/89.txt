@@ -1,1 +1,3 @@
-Posicionamento da bancada federal brasiliense, contrário à transferência de diretorias do Banco do Brasil da Capital da República para São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a44c0431d43f22298bcf7f9fd57ee4cd324fbd4dc002d425baf65320967dbe04
+size 172

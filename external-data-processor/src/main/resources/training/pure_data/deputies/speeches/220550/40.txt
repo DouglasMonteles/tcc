@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 6.385, de 2016, sobre a prestação de serviços postais aos órgãos públicos federais da administração direta e indireta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07092ece7c7b4ed81f9691243db3b39a751f9e4015fac94d2455feb52145f2c4
+size 222

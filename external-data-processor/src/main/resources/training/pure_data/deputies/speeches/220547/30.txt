@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Substitutivo oferecido pelo Relator da Comissão de Desenvolvimento Urbano ao Projeto de Decreto Legislativo nº 98, de 2023, para sustação dos efeitos do Decreto nº 11.467, de 2023, a respeito da prestação regionalizada dos serviços públicos de saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:898f92ad9c81d426780d10665e336a3129c0c885a70ee1c72769a91483e8a3fe
+size 312

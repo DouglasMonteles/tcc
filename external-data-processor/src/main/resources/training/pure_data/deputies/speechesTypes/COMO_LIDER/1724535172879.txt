@@ -1,1 +1,3 @@
-Transcurso do 55º aniversário de fundação do MDB. Linhas norteadoras da atuação do partido. Abdicação do embate político em prol da discussão de agenda única de enfrentamento da crise sanitária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fc76b52b4e540890d256da1be77cdeddc64677c232aba2ef9493e979d0419ab
+size 206

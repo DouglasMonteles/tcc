@@ -1,1 +1,3 @@
-O Deputado lamentou a indicação do Ministro da Justiça Flávio Dino para o Supremo Tribunal Federal, criticando sua gestão na segurança pública e considerando a escolha um retrocesso. Ele também expressou descontentamento pela oportunidade perdida de prestigiar as mulheres juristas do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38bf0a63a6b2caa554be8824ba40153219c7988070f57d35c9cc27f047aad9d7
+size 300

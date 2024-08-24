@@ -1,1 +1,3 @@
-Congratulações ao Prefeito Ricardo Maia Filho, do Município de Tucano, Estado da Bahia, pelo sucesso da festa Pré-São João realizada no Distrito de Caldas do Jorro. Realização da reforma tributária. Destinação de recursos federais ao custeio da saúde municipal. Participação do orador nas festas juninas em municipalidades baianas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f959d96f8dc8dbf8778e9a1ca58507307eea123318f26042472d29cd3678608e
+size 345

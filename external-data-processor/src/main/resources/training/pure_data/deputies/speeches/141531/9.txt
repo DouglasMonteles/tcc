@@ -1,1 +1,3 @@
-Excelência da gestão do Governador do Estado de Minas Gerais Aécio Neves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc52b157a10b4ace45ba9af1002b520d969e27313e9c1c3704b77b50200e963f
+size 76

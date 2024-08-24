@@ -1,1 +1,3 @@
-Protesto contra a decisão do governo petista de aumento dos impostos incidentes sobre combustíveis. Desoneração de derivados de petróleo pelo ex-Presidente Jair Bolsonaro. Atuação parlamentar do orador contra o socialismo e o comunismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:572c3be4c5992c52f24588d1b8577126f172e9298cd45e4233f77bf17c20ff41
+size 243

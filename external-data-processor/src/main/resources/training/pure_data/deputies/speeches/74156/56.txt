@@ -1,1 +1,3 @@
-Apoio à Proposta de Emenda à Constituição nº 333, de 2004, a PEC dos Vereadores. Assinatura de convênios entre o Ministério das Cidades e as Prefeituras Municipais de Governador Valadares e Caratinga, Estado de Minas Gerais. Importância para o País da exploração de petróleo na camada pré-sal. Expectativa de elevação de investimentos na área social com recursos oriundos do petróleo. Fortalecimento do Estado brasileiro no Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:570b3708d9cf3617dcbe0ab9c8854b0b634182466bdedec14deadcd273599d1e
+size 476

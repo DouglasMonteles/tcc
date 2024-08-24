@@ -1,1 +1,3 @@
-Matéria publicada pelo jornal O Povo a respeito da incoerência entre os lucros exorbitantes alcançados pelas instituições bancárias e a baixa qualidade dos serviços prestados aos correntistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e46287333f85e7f8c578c9440da66201e9f2de4ba6cee237e8a4f46e643dc3f1
+size 199

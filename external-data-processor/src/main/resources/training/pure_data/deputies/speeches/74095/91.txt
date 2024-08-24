@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM à  Emenda 8, destacada, ao Projeto de Lei de Conversão da Medida Provisória 526 de 2011 (Constitui fonte de recursos adicional ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, altera o art. 1º da Lei 12.096 de 2009,   dispões sobre medidas de suspensão temporária de   exigências  de regularidade fiscal, e dá outras providências), que prioriza os financiamentos subsidiados a projetos que gerem mais empregos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e47532997416692972e5d390c8975c973b970b9d0c8282dbd78f12c7fbaa4bd5
+size 470

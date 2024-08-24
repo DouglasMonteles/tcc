@@ -1,1 +1,3 @@
-O Deputado criticou o descumprimento das promessas do Presidente Lula em relação à isenção do Imposto de Renda e acusou-o de nomear um homem para a Caixa Econômica Federal (CEF), indo contra sua suposta defesa das mulheres. Ele mencionou uma emenda da Oposição para cumprir a promessa original e criticou Parlamentares que se dizem defensores dos pobres, mas votaram contra a emenda, citando nomes de diferentes partidos. Concluiu afirmando que muitos Parlamentares agem de forma contrária aos seus próprios discursos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3c663baafe93e72d5531cba6c0f8afcb56f78c033038402f2f4d460c1a36652
+size 528

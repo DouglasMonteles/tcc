@@ -1,1 +1,3 @@
-Acerta da outorga do Prêmio Líderes do Brasil 2019 ao ex-Governador do Estado de Sergipe, Albano Franco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c4be1dea4eb27851ce245b4fa7abf707aaa9c61bbb6ff5e3c878e95e51c8d33
+size 106

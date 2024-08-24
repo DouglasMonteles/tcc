@@ -1,1 +1,3 @@
-Transcurso do 259º ano de emancipação político-administrativa do Município de Camaçari, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7bbbeb832307368f67bfc738316cde8bfe3f676cf3868ba23b087758e4fee1d
+size 113

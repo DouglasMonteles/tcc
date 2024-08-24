@@ -1,1 +1,3 @@
-Anúncio da apresentação de recurso contra a decisão do Relator, pela inconstitucionalidade da emenda sobre a competência para o julgamento de crimes comuns relacionados ao financiamento ilegal de campanhas eleitorais. Apresentação de emenda para alteração do Código de Processo Penal com relação ao tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f2ee5f2856bc184d13cf5f6bef146d5037f8c70c4a07f6219f0d1db96c66a2e
+size 316

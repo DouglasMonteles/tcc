@@ -1,1 +1,3 @@
-Importância das ações desenvolvidas pelo Projeto Rondon no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35974cfc09cb3e7795e93f34b858ba007f1ef3068695fec1946e03b022d51b07
+size 90

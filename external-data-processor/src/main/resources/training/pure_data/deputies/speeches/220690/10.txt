@@ -1,1 +1,3 @@
-Omissão do Presidente da República, do Ministro da Justiça e Segurança Pública, Flávio Dino, e de Governadores Estaduais sobre a invasão de propriedades rurais produtivas pelo Movimento dos Trabalhadores Rurais Sem Terra - MST. Envio, pelo Governador do Estado da Bahia, de tropas da Polícia Militar ao Distrito Federal para reforço da segurança pública diante do vandalismo praticado contra as sedes dos Poderes da República. Pedido ao Supremo Tribunal Federal de apuração da omissão e prática de crime de responsabilidade, por parte do Governador Jerônimo Rodrigues e de outras autoridades, com relação às invasões de terras no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14c781e5feed63774ef1d17487580045289bcad868df7c21e4c5f4c4e0ef7c4b
+size 667

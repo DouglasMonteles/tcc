@@ -1,1 +1,3 @@
-Êxito da Parceria Público-Privada - PPP realizada pelo Prefeito Municipal Eduardo Paes para a revitalização da área portuária da cidade do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:272ac05f4dbb7e2aacb861066a5ffcd44c15fc936131f47c1ed42e37de0decc2
+size 160

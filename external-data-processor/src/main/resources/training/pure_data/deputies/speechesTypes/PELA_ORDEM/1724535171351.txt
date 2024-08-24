@@ -1,1 +1,3 @@
-Apelo ao Superintendente Regional do Departamento Nacional de Infraestrutura de Transportes –&nbsp;DNIT no Estado do Espírito Santo, Romeu Scheibe Neto, de liberação do acesso rodoviário às comunidades de Vila Bethânia e São Francisco, no Município de Cariacica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a57affc85120a385a122930cfdcb956059066fde578e6fd4929eca4d01fbed4
+size 272

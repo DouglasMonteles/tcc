@@ -1,1 +1,3 @@
-Julgamento pelo Supremo Tribunal Federal do processo de demarcação da reserva indígena Raposa Serra do Sol, no Estado de Roraima. Repúdio às declarações do Gen. Augusto Heleno Ribeiro Pereira a respeito do assunto. Entrevista do antropólogo Eduardo Viveiros de Castro sobre a questão indígena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8faca37a2bf23eca8d50d4f01fa161ea7dcba004acf33a5aab1e602342e9ecdd
+size 303

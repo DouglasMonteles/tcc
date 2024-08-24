@@ -1,1 +1,3 @@
-Visita da oradora ao Município de Milagres, Estado da Bahia. Avaliação de dados relativos à educação e saúde na municipalidade. Clima de terror imposto no Município pelo Prefeito Raimundo de Souza Silva. Denúncia de agressões e ameaças de morte a adversários políticos do gestor municipal. Elogio à conduta da Promotora de Justiça local, Manoela Rocha. Transcurso do 87° aniversário de fundação do Partido Comunista do Brasil — PCdoB. Perfil histórico do partido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49a3f6f9f156ab2fb249073cd0d9e50301df9de1fff1a7c6bad2cfd150412c6a
+size 485

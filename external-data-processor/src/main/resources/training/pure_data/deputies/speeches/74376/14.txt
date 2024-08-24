@@ -1,1 +1,3 @@
-Empenho dos países integrantes do Mercado Comum do Sul - MERCOSUL no combate ao tráfico humano. Realização do III Congresso Mundial de Enfrentamento da Exploração Sexual de Crianças e Adolescentes, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:698d2766861157b957b80f3cc954d132d3eabb34f8bb16334898fa26d78a7a09
+size 249

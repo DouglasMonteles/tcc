@@ -1,1 +1,3 @@
-Elogio ao Governo Federal pela realização de leilões de linhas de transmissão de energia elétrica no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94ac1a022f31aa973120dd7e681638ee146c3d31077cdd3fdfa958fed62365e1
+size 122

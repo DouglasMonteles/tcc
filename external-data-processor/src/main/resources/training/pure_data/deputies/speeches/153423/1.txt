@@ -1,1 +1,3 @@
-Agradecimento ao Governador do Estado do Pará, Helder Barbalho, pelo envio de força policial ao Estado do Rio Grande do Norte para engajamento nas ações de combate ao crime organizado. Gestão exitosa do Governador do Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09a501822c41fcbeba2fe35a164eaa66cbee8a265125d109314d450d675085dc
+size 238

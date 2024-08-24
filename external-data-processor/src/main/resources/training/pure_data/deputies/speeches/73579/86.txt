@@ -1,1 +1,3 @@
-Desinteresse do Governo Federal na busca de solução para a crise da área de segurança pública no País. Defesa de apreciação pela Casa da Proposta de Emenda à Constituição nº 151, de 1995, sobre a reestruturação do sistema de segurança pública. Defesa de reativação da Polícia Ferroviária Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c1dad705b11c52c694ce38209a613aa6591e8a1192528e4674d0079cc89a1f4
+size 316

@@ -1,1 +1,3 @@
-A Deputada deu boas-vindas à Casa à jovem Mayara, recém-filiada ao PT e defensora do Movimento Negro em Marataízes, e a João, membro da Secretaria de Planejamento da Prefeitura de Marataízes, Estado do Espírito Santo. Expressou seu apoio ao Rio Grande do Sul e destacou a importância da união no Congresso Nacional para ajudar a aliviar o sofrimento do povo gaúcho que enfrenta dificuldades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7801a6e68aa11a769d473c00d92dac352064116145ffbb228c5f8eccfa9e0e73
+size 401

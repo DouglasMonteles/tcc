@@ -1,1 +1,3 @@
-Importância da votação pela Câmara dos Deputados de projeto de lei sobre a tipificação do crime de assédio moral no trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7cf4cbb30d3b7734d53ffd5a765a1f1ab0ee7f1717deb052cb1c4247105f60e
+size 132

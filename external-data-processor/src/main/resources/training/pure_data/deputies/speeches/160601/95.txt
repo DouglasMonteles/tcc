@@ -1,1 +1,3 @@
-Pedido aos Líderes de acordo para votação de projeto sobre a liberação do uso, pelo SUS, da fosfoetanolamina sintética para tratamento do câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bc069f99d76337cb62795de07264fca996eb235e0531ef546fe1ba676e1923e
+size 152

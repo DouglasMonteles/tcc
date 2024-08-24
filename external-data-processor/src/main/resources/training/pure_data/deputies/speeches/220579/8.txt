@@ -1,1 +1,3 @@
-Apresentação à Medida Provisória nº 1.162, de 2023, de emenda destinada à inserção dos povos indígenas e quilombolas no Programa Minha Casa, Minha Vida. Redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bde92cc59e601c77af0ca8829bfc0db370211414183dfdecdd60e872fb6c1e0c
+size 192

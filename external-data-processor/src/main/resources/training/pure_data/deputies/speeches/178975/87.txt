@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei de Complementar nº 549, de 2018, sobre a fixação dos coeficientes de distribuição dos recursos do Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebec0a9358155ad4d9ab2b134375e16ae8ac8d2cef754cd5733aab6c465338ec
+size 204

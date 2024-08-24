@@ -1,1 +1,3 @@
-Falta de investimentos do Governo Federal na área de segurança pública. Defesa da votação de projetos de lei relacionados ao setor. Apoio à Proposta de Emenda à Constituição n° 549, de 2006, sobre a carreira de delegado de polícia. Morosidade na apreciação de proposta de reforma da legislação processual penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cbb06abe7d05dc82842a3e8fff2792fab69e2b44147fe475b424f7f5f5c1f2e
+size 326

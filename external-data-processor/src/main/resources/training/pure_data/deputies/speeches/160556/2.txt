@@ -1,1 +1,3 @@
-Expectativa quanto ao não acatamento, pelo Supremo Tribunal Federal, da ação direta de inconstitucionalidade da lei de instituição do piso salarial nacional do magistério público da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e194075957ebcda72ee591539df0d53e2cadce259f73848fe3cfa84a1750128e
+size 208

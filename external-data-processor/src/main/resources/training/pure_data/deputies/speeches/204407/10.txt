@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda de Plenário nº 6. Críticas à proposta de reforma previdenciária encaminhada à Casa pelo Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb6d06f5f34f1de9fd490cf922de9a86a12d4c880e620b2cc12943f2b57e8adc
+size 164

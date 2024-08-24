@@ -1,1 +1,3 @@
-Inauguração de unidades habitacionais no Município de Vitória da Conquista, Estado da Bahia, construídas por meio do Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ca82cafad37d29667c8e94219022d0dfde16bede467463b1d4efde156a76b8d
+size 154

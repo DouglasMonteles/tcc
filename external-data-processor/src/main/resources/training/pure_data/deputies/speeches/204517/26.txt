@@ -1,1 +1,3 @@
-Congratulações ao Deputado Vicentinho Júnior, Relator da Medida Provisória nº 1.050, de 2021, sobre a alteração da Lei nº 7.408, de 1985, relativa à permissão da tolerância de 5% na pesagem de carga em veículos de transporte, e da Lei nº 9.503, de 1997, referente ao Código de Trânsito Brasileiro, com vista à fiscalização do excesso de peso de veículos, bem como a alteração da Lei nº 10.209, de 2001, acerca da instituição do vale-pedágio obrigatório sobre o transporte rodoviário de carga.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d60a7fa8270466eae58eb5b473bd2b5b4b7aad9f8d4faffd9727fcced8f15c3a
+size 519

@@ -1,1 +1,3 @@
-Realização, pelo Senado Federal, de sessão solene em homenagem póstuma ao poeta Antônio Gonçalves da Silva, o Patativa do Assaré, ao ensejo do transcurso do centenário do seu nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0115d0da50918f3f4e26ff84aa7ad942354bac63335fc9cb82c25245dcc901a5
+size 194

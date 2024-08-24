@@ -1,1 +1,3 @@
-Adoção, pelo Governo Luiz Inácio Lula da Silva, de conjunto de medidas em prol das áreas de saúde e educação; bem como da segurança alimentar. Anúncio de lançamento do Programa Mais Saúde. Retomada do Programa Nacional de Imunizações. Atenção dispensada pelo governo petista à população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25255b863141a432b32d17fa39690286fa75ab50fa1d5766a815b72808082b03
+size 316

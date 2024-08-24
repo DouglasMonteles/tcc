@@ -1,1 +1,3 @@
-Crise no setor de transporte rodoviário do País. Críticas à Presidenta Dilma Rousseff pela omissão quanto às reivindicações dos caminhoneiros. Necessidade de ação urgente do Governo Federal em busca de solução para o problema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6443dadf66fa1ec55991f6ab241c343dd142c6283f2a4d92b76fafa55a989bc8
+size 238

@@ -1,1 +1,3 @@
-Indignação do orador com a cassação do mandato parlamentar do Deputado Deltan Dallagnol pelo Tribunal Superior Eleitoral. Repúdio à ditadura da toga.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4834e57953618e8b04f06aad1cf0b88733cc953e3189cfdb6bc9d3654b29dd09
+size 155

@@ -1,1 +1,3 @@
-Contrariedade à votação de requerimento de tramitação em regime de urgência de projeto de lei constante na pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bcfe8a6ca8b58a7db7023ddd4f5ccae0f2de31b3fb6adcf88cc91503a16e463
+size 119

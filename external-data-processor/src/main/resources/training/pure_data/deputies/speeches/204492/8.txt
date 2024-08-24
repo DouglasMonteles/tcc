@@ -1,1 +1,3 @@
-Ações do Presidente Jair Bolsonaro prejudiciais povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b98f87227071a03fc2c219f59660b758ea7a3140a3cd2d49b16f921c18176c4b
+size 66

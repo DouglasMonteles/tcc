@@ -1,1 +1,3 @@
-Visita da Ministra-Chefe da Casa Civil, Dilma Rousseff, ao Estado do Ceará, para assinatura de termo de compromisso para a construção de usina siderúrgica. Homenagem póstuma ao médico Silas Munguba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88383ddcd6e01923906edae8e605df8df1ba47f9fb0c3165c972afd616f49d3a
+size 204

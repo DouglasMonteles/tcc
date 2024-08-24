@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento, por uma sessão, da votação do Projeto de Lei nº 4.491, de 2021, acerca do pagamento de honorários periciais em ações envolvendo o Instituto Nacional do Seguro Social - INSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83540caab53f817a15cfbc2cf769748351a40437b023787615f1195a86d4db67
+size 247

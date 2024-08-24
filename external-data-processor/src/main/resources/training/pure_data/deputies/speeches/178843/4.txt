@@ -1,1 +1,3 @@
-Presença do orador em reunião no Ministério da Fazenda com representantes do setor sucroalcooleiro dos Estados de Alagoas, Pernambuco e Paraíba para debate da crise do setor. Demora da chegada aos produtores dos recursos aprovados por meio da Lei nº 12.999, de 2014, que dispõe sobre a ampliação do valor do Benefício Garantia-Safra para a safra de 2012/2013 e sobre a ampliação do Auxílio Emergencial Financeiro, relativo aos desastres ocorridos em 2012, e autoriza o pagamento de subvenção econômica aos produtores da safra 2012/2013 de cana-de-açúcar da Região Nordeste. Urgência da regulamentação do normativo para o setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fba2bc26177ab5ed6d596006bfcde3510800be99d15859d66c9fd547481b4d6
+size 648

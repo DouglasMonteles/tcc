@@ -1,1 +1,3 @@
-Posicionamento favorável do Governo  ao Requerimento de encerramento da discussão e do encaminhamento da votação,  em primeiro turno, da PEC 336 de 2009 (Altera a redação do inciso IV do caput do art. 29 da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais), do Senado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4484249c9050a0a66e5f8ad69cd79d88fd4dca680022f0c18f2ebbfbaf58a72a
+size 328

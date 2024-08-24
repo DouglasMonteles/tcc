@@ -1,1 +1,3 @@
-Impactos negativos sobre a Zona Franca de Manaus, advindos da anunciada redução da alíquota do imposto de importação incidente sobre produtos de tecnologia da informação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c5b7b2c08aecb031843ea7d2b1f5c54d2fba40f1a42131c52cfb900b5dc9e0d
+size 177

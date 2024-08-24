@@ -1,1 +1,3 @@
-Conivência do Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, general Marco Edson Gonçalves Dias, com os atos antidemocráticos praticados contra as sedes dos Poderes da República. Defesa de sua prisão. Ilegalidade da prisão do ex-Secretário de Segurança Pública do Distrito Federal, Anderson Torres. Imediata instalação da CPMI destinada à investigação dos atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3b193fc96ed6d097d6fb1f43cd4ef17cd62f02f41afab51b2b07c96c37769c3
+size 481

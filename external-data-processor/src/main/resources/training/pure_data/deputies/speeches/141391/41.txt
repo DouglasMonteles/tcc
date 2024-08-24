@@ -1,1 +1,3 @@
-Encaminhamento da votação do parecer pela admissibilidade da Medida Provisória 418 de 2008 (Altera as Leis 11.508 de 2007, que dispõe sobre o Regime Tributário, Cambial e Administrativo das Zonas de Processamento  de Exportação - ZPEs e 8.256 de 1991, que cria Áreas de Livre Comércio nos Municípios de Pacaraima e Bonfim, no Estado de Roraima e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a165133255cfab7c060f940abffef4a20b8e8c879d20dfa523fb78a57c18821
+size 382

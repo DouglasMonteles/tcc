@@ -1,1 +1,3 @@
-Julgamento de Deputada pelo Supremo Tribunal Federal por estímulo à violência contra o Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c827117a6c7c3b8fe38021626a6ee23c1308e9ae5b805dc04cb4ce4c3da0a74
+size 115

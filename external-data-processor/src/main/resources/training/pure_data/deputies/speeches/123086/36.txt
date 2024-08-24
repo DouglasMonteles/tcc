@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Educação e Cultura, do projeto de lei sobre a inscrição do nome do compositor Heitor Villa-Lobos no Livro de Heróis da Pátria. Apoio à Proposta de Emenda à Constituição nº 300, de 2008, sobre a equiparação entre os soldos dos policiais e bombeiros militares dos Estados e do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bccf3723c4d8ab70e1b80a6e1c261431eef5af4480ac839e308e538c08add3a
+size 336

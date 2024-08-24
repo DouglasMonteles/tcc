@@ -1,1 +1,3 @@
-Congratulações às Deputadas Maria do Rosário e Laura Carneiro pela aprovação do Projeto de Lei nº 3, de 2023, sobre a criação do Protocolo Não é Não de atendimento à mulher vítima de violência sexual ou assédio em discotecas, estabelecimentos noturnos, eventos festivos, bares, restaurantes ou qualquer outro local de grande circulação de pessoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39921670baec744adf51c80cbee7f49305ec3aa46654d59051bc927a4d3569ea
+size 365

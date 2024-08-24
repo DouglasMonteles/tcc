@@ -1,1 +1,3 @@
-Trajetória profissional e política da oradora. Compromisso de atuação parlamentar contra a precarização do trabalho e pelo fortalecimento dos direitos sociais e do regime democrático. Combate aos resquícios do autoritarismo e do discurso criminoso bolsonarista. Engajamento na luta do Presidente da República pela reconstrução nacional. Defesa de universalização do acesso ao Sistema Único de Saúde - SUS. Apoio ao fortalecimento da agricultura familiar e da indústria brasileira, bem como às ações de combate à fome no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14cb7764daba8aa0d0d064156bce55a1dcb4d607207102555d7830e634e08271
+size 546

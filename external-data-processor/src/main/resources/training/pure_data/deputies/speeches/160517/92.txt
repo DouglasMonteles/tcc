@@ -1,1 +1,3 @@
-Anúncio, por parte do Governo do Estado do Espírito Santo, de investimentos em infraestrutura no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec0e03fbb2c623c0f88bc732a39b935a02270adcab59b28edda68a1184c3e8a4
+size 106

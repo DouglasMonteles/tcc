@@ -1,1 +1,3 @@
-Participação do orador na Comissão Especial destinada ao exame do Projeto de Lei 3.267, de 2019, sobre alteração da Lei nº 9.503, de 1997, acerca da instituição do Código de Trânsito Brasileiro. Acatamento de emendas do orador pelo Relator da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c278082b1f4e8bcff81b2cbd3d40027b60ed6256683919893d5146b03f1edab0
+size 266

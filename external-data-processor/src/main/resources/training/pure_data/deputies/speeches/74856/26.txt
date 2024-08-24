@@ -1,1 +1,3 @@
-Avanços decorrentes da Lei n.º 13.146, de 6 de julho de 2015, sobre instituição do Estatuto da Pessoa com Deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:484b3b66a5f325d9e02e09b82129b642d9ec271a4cc575e5a4ba5fbabb887f63
+size 123

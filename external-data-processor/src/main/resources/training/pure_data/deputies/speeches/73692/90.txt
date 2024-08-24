@@ -1,1 +1,3 @@
-Associação ao pronunciamento da Deputado Liliam Sá a respeito da absolvição, pelo Superior Tribunal de Justiça, de acusado de estupro de crianças de 12 anos de idade. Realização pelo orador de palestra a respeito do consumo de drogas no País, no Tribunal de Justiça do Distrito Federal e dos Territórios. Defesa de aprovação do Projeto de Lei nº 7.663, de 2010, sobre a obrigatoriedade da classificação de drogas e a definição das condições de atenção aos dependentes. Acerto da criação pela Presidenta Dilma Rousseff do Plano Nacional de Combate ao Crack e outras Drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a316ed9180dd940e7d010d508358ff8523ee2770749abcbd317d8c517483fc16
+size 597

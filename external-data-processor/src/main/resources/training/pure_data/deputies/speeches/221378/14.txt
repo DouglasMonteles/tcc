@@ -1,1 +1,3 @@
-Ocorrência de casos de violência e racismo em unidades dos Supermercados Carrefour no País. Urgente necessidade de combate ao racismo estrutural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57de45c8941dea146acd961df0af6a7efc06dc75ec763b9dc4c14c29ad5ebd97
+size 148

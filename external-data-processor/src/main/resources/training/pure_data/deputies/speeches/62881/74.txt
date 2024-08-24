@@ -1,1 +1,3 @@
-Homenagem à memória de Ulysses Guimarães, ao ensejo do transcurso dos 20 anos do seu desaparecimento. Paradoxo entre o desenvolvimento econômico brasileiro e os elevados índices de desigualdade social reinantes no País. Efeitos negativos do excesso de burocracia sobre os investimentos públicos do Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3329bca83312f54915306e9bb3403d801a89d611b1aa2695c8ec40c12003be8c
+size 321

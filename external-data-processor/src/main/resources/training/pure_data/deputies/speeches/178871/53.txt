@@ -1,1 +1,3 @@
-Pedido ao Ministro da Indústria, Comércio Exterior e Serviços, Marcos Pereira, de reexame da anunciada decisão de importação de café.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f63dcf7b9b0625c55fccda1b51bad3f2eb4e73a3766cface1cecccba7a96caf
+size 140

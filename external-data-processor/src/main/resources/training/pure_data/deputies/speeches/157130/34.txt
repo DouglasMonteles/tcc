@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 4.606, de 2019, proibitivo da alteração do texto da Bíblia Sagrada. Defesa de aprovação do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ee28f99b51f71fe9e3b87d0b561353c404a23269ff2e85280a8ef11ec7017a2
+size 339

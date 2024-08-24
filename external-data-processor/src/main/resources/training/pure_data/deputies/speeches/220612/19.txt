@@ -1,1 +1,3 @@
-Reconhecimento do empenho do Presidente da Casa na apreciação de projeto de lei relativo à regulamentação da terceirização do contrato de trabalho. Necessidade de aprimoramento do texto. Descontentamento com a aprovação da matéria diante da possibilidade de precarização das relações de trabalho no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:918a9db8d3196931fa4cb5220307d071b4757fae7ef5bed2123783805577a589
+size 319

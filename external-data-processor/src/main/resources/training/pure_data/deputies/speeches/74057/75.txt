@@ -1,1 +1,3 @@
-Participação feminina na Mesa Diretora da Comissão de Educação e Cultura. Transcurso do Dia Internacional da Mulher. Necessidade de amplo debate pela Casa acerca do impacto da crise econômica no mercado de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4d00e42aff49b2fa11edca68f4e9dfe9f4c22ad6a6ad423ccf49d5461f41b95
+size 221

@@ -1,1 +1,3 @@
-Apelo à Casa de ratificação da convenção da Organização das Nações Unidas - ONU, sobre os direitos das pessoas portadoras de deficiência. Defesa de adoção do sistema tributário como mecanismo de promoção da justiça social. Posicionamento do PSOL sobre a proposta de reforma tributária do Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9040a8a83785c64c8577ffb8e3e97752afd7ad4578af1fba4367a28b7f9858c0
+size 321

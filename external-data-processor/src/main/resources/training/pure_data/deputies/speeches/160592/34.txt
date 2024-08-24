@@ -1,1 +1,3 @@
-Manobras do DEM e do PPS para obstrução da votação, na Comissão de Seguridade Social e Família, da proposta de taxação de grandes fortunas para o financiamento da saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e76aad0567c2adcf3875f6d644a95917558a4ded9c95407b48a014875da64d50
+size 187

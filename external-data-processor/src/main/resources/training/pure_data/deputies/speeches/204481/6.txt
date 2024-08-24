@@ -1,1 +1,3 @@
-Razões da apresentação pelo orador do projeto de lei sobre alteração do art. 121 do Código Penal e do art. 10 do Marco Legal da Internet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c1802c46b0052100c563235207cec76fd6e2860ea5892b33f3c39c0abda083d
+size 143

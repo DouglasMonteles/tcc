@@ -1,1 +1,3 @@
-Críticas ao Projeto de Lei nº 863, de 2015, sobre a alteração da legislação relativa à política de desoneração da folha de pagamento das empresas. Efeitos negativos dos consecutivos aumentos da tarifa de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bc70550fbc02de0aa9d13111f8e10ba6fe9bf49bdbe407697eef5cbbe426d36
+size 232

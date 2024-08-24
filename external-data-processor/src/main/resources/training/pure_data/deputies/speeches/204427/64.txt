@@ -1,1 +1,3 @@
-Maior cautela dos Parlamentares na apreciação da proposta governamental relativa ao novo arcabouço fiscal. Realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac6a4a31280339b9e4a6edfd36841aed08fe6f9d08cc4a6bd3f2b6fca23c9068
+size 146

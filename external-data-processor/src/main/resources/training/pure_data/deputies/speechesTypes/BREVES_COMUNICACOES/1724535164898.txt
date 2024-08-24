@@ -1,1 +1,3 @@
-O Deputado defendeu a derrubada do veto ao Projeto de Lei sobre a desoneração fiscal da folha de pagamentos, enfatizando que o veto prejudica as pequenas e médias empresas do País. Criticou a elevada carga tributária que afeta negativamente as empresas, a economia e, consequentemente, os trabalhadores. Lembrou que a economia nacional está em crise há sete anos e que o comércio ainda não se recuperou. Por fim, destacou a importância de valorizar os empresários, responsáveis pela geração de empregos, e de mudar a cultura que rotula os empregadores como inimigos dos trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b72076ac048c34da73fe798c908621c88b424fbf1dcad47d64fd16851aefdbb
+size 598

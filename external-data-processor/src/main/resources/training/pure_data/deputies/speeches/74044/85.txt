@@ -1,1 +1,3 @@
-Informação ao Deputado Ronaldo Caiado sobre a realização de acordo anterior sobre a retirada da urgência constitucional para a tramitação de projetos de lei sobre a exploração de petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53bc8bab47a12a23927ff7d282886dc06a860ca0c7506043a6c11907454c7cff
+size 217

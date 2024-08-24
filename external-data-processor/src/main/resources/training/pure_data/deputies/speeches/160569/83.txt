@@ -1,1 +1,3 @@
-Transcurso do 87º aniversário de emancipação político-administrativa do Município de Bom Jesus da Lapa, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10630d7c6ffeed08fa25b88a31904ba6930472606065f623beb9c617f6e422d3
+size 129

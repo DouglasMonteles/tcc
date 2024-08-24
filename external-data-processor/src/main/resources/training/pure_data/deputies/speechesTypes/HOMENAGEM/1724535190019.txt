@@ -1,1 +1,3 @@
-Em sessão solene destinada a comemorar os 35 anos da Constituição Federal de 1988, o Deputado Raimundo Santos destacou a importância desse marco histórico para a democracia brasileira. Saudou diversas autoridades presentes, incluindo Constituintes e representantes de diversos níveis de governo. Enfatizou a relevância do processo de elaboração da Constituição, marcado pelo clamor popular e pelo movimento Diretas Já! que trouxe a democracia de volta ao Brasil. Prestou homenagem ao povo brasileiro, reconhecendo sua contribuição fundamental para o retorno à democracia. Também ressaltou a necessidade de preservar a Constituição e a independência dos Poderes, garantindo o Estado de Direito e a soberania popular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a01fb13fd106df6d35c2556bc662f13af238c4a0f91745a08b0f927d53db0896
+size 734

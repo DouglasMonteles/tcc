@@ -1,1 +1,3 @@
-Solicitação ao Presidente Rodrigo Maia de prorrogação do prazo de funcionamento da CPI do CARF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e4f1ebd0896d6465feb93ec5d9fc79a3e432cdd54d97b61338d53dd94a4a4a9
+size 99

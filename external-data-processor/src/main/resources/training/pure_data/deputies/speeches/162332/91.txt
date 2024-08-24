@@ -1,1 +1,3 @@
-Transcurso do 69º aniversário de fundação do Município de Maringá, Estado do Paraná. Congratulações à Sociedade Rural de Maringá pela realização da Exposição Feira Agropecuária, Industrial e Comercial de Maringá - EXPOINGÁ, com a abordagem do tema Tecnologia para Todos. Importância da agropecuária para a economia do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:655735d4da574fcba1ae55147ef42a88c0ba408939d7628048a64dfea3f25590
+size 345

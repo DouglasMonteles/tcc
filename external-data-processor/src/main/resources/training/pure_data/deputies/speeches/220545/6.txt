@@ -1,1 +1,3 @@
-Repúdio à Resolução nº 715, de 2023, do Conselho Nacional de Saúde - CNS, a respeito da transição de gênero, da legalização do aborto e da maconha no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ea8d8f86d96649e78dbb8fc2feb696767ddcc66de6566fa1922f9b8f5792c31
+size 167

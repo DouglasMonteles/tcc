@@ -1,1 +1,3 @@
-Continuidade da atuação da bancada federal capixaba para a liberação, pelo Governo Federal, de recursos destinados à melhoria da área da saúde no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61e072068ee4dc98563e47a4034f95d35a97ab78c3fc9693c852a0696bea15d8
+size 179

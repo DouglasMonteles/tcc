@@ -1,1 +1,3 @@
-Assassinato de homossexuais e mulher transgênero no Estado do Rio Grande do Norte. Notificação dos crimes à Comissão de Direitos Humanos e Minorias e aos poderes municipal e estadual. Repúdio à necropolítica adotada pelo Presidente Jair Bolsonaro contra a comunidade LGBT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4c2758af3597d703042517cf68d8e2fdc578df4ecb2fe8e9ffc7b6fc85ffefb
+size 280

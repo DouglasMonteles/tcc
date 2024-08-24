@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista, quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, à Medida Provisória nº 909, de 2019, sobre a extinção do fundo formado pelas reservas monetárias constante no art. 12 da  Lei nº 5.143, de 1966, bem como a destinação dos recursos remanescentes e a revogação do dispositivo mencionado. Retirada do Requerimento de Destaque nº 5.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12f459c18d66f8475a50fae2bb800be8c975707d1de3847f63e7e5d8f0e90ee6
+size 489

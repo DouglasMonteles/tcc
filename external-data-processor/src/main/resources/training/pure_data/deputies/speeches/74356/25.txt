@@ -1,1 +1,3 @@
-Resultados de reunião de Prefeitos Municipais com representantes de órgãos federais, em Manaus, Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dd0b29c88c3e523731ed05db3631b25a34f189b1451945b5dca38307255a370
+size 118

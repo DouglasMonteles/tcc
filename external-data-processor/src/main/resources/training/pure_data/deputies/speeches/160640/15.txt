@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Seguridade Social e Família, do Projeto de Lei nº 6.719, de 2009, a respeito da alteração de preceitos relativos à prescrição de crimes praticados contra crianças e adolescentes. Participação  do orador, em missão oficial, na Jornada Mundial da Juventude, realizada em Madri, Espanha. Defesa de realização do evento no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bd591372950d59b00c1eb62a6444094deed566d528a5d9566d2c3f77ac8a4a8
+size 370

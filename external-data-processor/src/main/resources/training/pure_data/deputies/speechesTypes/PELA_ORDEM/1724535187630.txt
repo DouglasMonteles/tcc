@@ -1,1 +1,3 @@
-Repúdio a relatório da CPI da FUNAI e INCRA ante a tentativa de criminalização de representantes e entidades de movimentos sociais defensores dos direitos indígenas e quilombolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f90afdf35d35d4b99d3f003e8ddc4249e40f0cfff8507da667bbec1792fee05
+size 184

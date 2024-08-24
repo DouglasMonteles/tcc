@@ -1,1 +1,3 @@
-Transcurso do primeiro ano de promulgação do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38da0f687e3eee46dded02226995099417011f89ba564fddbe2cc0d7729467d2
+size 81

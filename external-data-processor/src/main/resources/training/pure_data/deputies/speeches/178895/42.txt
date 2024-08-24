@@ -1,1 +1,3 @@
-Estimativa do Banco Central do Brasil de piora dos indicadores econômicos brasileiros neste ano. Preocupação com a crise econômica do País e com o aumento do desemprego.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38bc314ffc0f5c91f051799a09dd429c864ceb06369c3f2752c6461e7f2d8b0a
+size 174

@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Consciência Negra. Situação dos afrodescendentes no mercado de trabalho na Região Metropolitana de Salvador, Estado da Bahia, segundo estudo da Superintendência de Estudos Econômicos e Sociais da Bahia - SEI e do Departamento Intersindical de Estatística e Estudos Socioeconômicos - DIEESE. Necessidade de ações afirmativas e políticas públicas destinadas à inclusão social da população negra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07af58df7c09d8598ec0973196c64110910dc9e17f8bf4af21fab34f276ceece
+size 439

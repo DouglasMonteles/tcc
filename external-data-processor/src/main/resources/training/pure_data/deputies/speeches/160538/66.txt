@@ -1,1 +1,3 @@
-Transcurso do aniversário natalício da Presidenta Dilma Rousseff. Lançamento do Programa Rede Brasil Rural, em Porto Alegre, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68a177a968f273b49442473204d6fa321abf36204d5b4f1ad65c885df0798ef7
+size 156

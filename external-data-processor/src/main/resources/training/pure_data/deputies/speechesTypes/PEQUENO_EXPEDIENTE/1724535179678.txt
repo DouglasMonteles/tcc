@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Turismo. Inadmissibilidade de redução dos recursos orçamentários do Ministério do Turismo. Acerto do Governo do Estado da Bahia na promoção do turismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b542145d88adc76ede3bfcdfe1d82e0e840fc6b83e5bcc22b637c99898625b0
+size 188

@@ -1,1 +1,3 @@
-Denúncia contra a Prefeita do Município de Una, Estado da Bahia, Diane Brito Rusciolelli, pela prática de atos lesivos aos direitos dos servidores públicos municipais. Solidariedade do orador com a categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf8dcb604872101c99957dfe9b0efdc3021cc184f44a43e3bcd3af27ebc2d1b4
+size 212

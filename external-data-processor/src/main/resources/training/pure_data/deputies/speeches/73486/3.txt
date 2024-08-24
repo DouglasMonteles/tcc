@@ -1,1 +1,3 @@
-Ratificação, pelo Conselho Nacional de Biossegurança, de decisão da Comissão Técnica Nacional de Biossegurança - CTNBio sobre a liberação da produção de espécies de milho transgênico no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcdf2cd5aef64270c0ea67b043a9c26c5f563bfe78076592a587be42e4aa8075
+size 205

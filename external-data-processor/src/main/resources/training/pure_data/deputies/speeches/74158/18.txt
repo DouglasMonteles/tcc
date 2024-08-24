@@ -1,1 +1,3 @@
-Defesa da distribuição equitativa entre os Estados brasileiros dos recursos oriundos da exploração de petróleo na camada pré-sal. Realização de investimentos na produção de etanol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad8d4bc873c0ec46332d104c4d69af7c6ee0228e182eb52e3f92392cdb57978e
+size 190

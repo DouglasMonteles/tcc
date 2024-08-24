@@ -1,1 +1,3 @@
-Expectativa de liberação, pelo Governo Federal, de recursos para atendimento aos municípios atingidos pela estiagem no Estado do Rio Grande do Sul. Lançamento do Plano Safra 2009/2010 para a agricultura familiar. Visita do orador a municípios atingidos pela seca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b507e4002150194dfca188b124f441aa54c91f44bd61542a09386320fce5424
+size 268

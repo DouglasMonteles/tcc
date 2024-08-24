@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do Projeto de Lei nº 2.975, de 2023, que introduz a situação específica da mulher indígena na legislação de enfrentamento da violência e de promoção da saúde e da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11d170dd6a1ec08ff3ff708d3f9e06cd6dce138135a762862b05f84cc9e6f6a4
+size 228

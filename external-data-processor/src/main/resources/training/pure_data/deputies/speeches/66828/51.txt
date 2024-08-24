@@ -1,1 +1,3 @@
-Elogio ao Deputado Arnaldo Faria de Sá pela atuação parlamentar na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ed53a9c490bf5bfd673d87469769e18ff92e0017e8dd0da47e2b552b421e420
+size 75

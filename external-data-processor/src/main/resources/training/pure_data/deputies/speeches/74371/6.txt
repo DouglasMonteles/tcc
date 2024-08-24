@@ -1,1 +1,3 @@
-Perplexidade diante da prisão do artista plástico Shahriar Cyrus no Irã em decorrência da profissão da fé bahá'i. Solidariedade aos pedidos ao Governo iraniano de soltura dos adeptos da fé bahá'i. Apoio à comunidade bahá'i do Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a79c669e559bafdbdb054e4d31aee87e2a28d06bd64c79973caf8de6d4a2b529
+size 254

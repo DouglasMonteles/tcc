@@ -1,1 +1,3 @@
-Críticas à gestão do Governador do Estado do Maranhão, Flávio Dino. Elogio à atuação do Presidente da Câmara dos Deputados, Eduardo Cunha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81c986fdee18aca952b1b7b9a8ac49a2069402dad8b9997ed6aa72e6fa92d462
+size 147

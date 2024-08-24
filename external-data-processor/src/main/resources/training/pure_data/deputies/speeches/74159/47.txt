@@ -1,1 +1,3 @@
-Agradecimento aos Líderes partidários, em nome da liderança do Governo,  pela aprovação do Projeto de Lei de Conversão da Medida Provisória 530 de 2011 (Institui no âmbito do Ministério da Educação, o Plano Especial de Recuperação da Rede Física Escolar Pública, com a finalidade de prestar assistência financeira para recuperação das redes físicas das escolas públicas estaduais, do Distrito Federal e Municipais afetadas por desastres).
+version https://git-lfs.github.com/spec/v1
+oid sha256:70fa9d02edc78fb27e7b9e812a157b1a0409b70646f3b4131dfdee28b9cef403
+size 458

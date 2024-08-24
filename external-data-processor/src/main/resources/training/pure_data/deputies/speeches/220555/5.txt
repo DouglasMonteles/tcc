@@ -1,1 +1,3 @@
-Boas-vindas à Casa à Secretária Nacional da Mulher do PCdoB, Daniele Costa. Regozijo com a participação das mulheres, especialmente negras e indígenas, em espaços de poder e de decisão política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68e59e7a9cc66a4914c61b4e23d26219d0b8424c13855674e9a4bc8522c9f7ee
+size 203

@@ -1,1 +1,3 @@
-Orientação da respectiva bancada para votação do requerimento de destaque do art. 2º da Emenda Substitutiva nº 1 apresentada ao Projeto de Lei nº 5.587, de 2016, que trata do transporte individual remunerado e do transporte motorizado privado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b0c3b2825a711a9a872f231ba8802449bbe17687f226c387c85da05db756998
+size 250

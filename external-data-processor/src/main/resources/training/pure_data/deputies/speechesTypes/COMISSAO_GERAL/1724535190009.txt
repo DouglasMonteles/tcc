@@ -1,1 +1,3 @@
-Comportamento inadequado de Parlamentares no plenário. Insatisfação do orador com o corte de recursos orçamentários destinados à educação pública brasileira. Necessidade de investimentos governamentais nos ensinos básico e infantil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:532e78fcd600dfe6449f32fb56c5405e0e99f2456fbb95178fcfabdca8652669
+size 242

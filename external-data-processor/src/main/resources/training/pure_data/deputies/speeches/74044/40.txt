@@ -1,1 +1,3 @@
-Pedido à Presidência de concessão do prazo de 5 minutos para definição de acordo em torno da votação das matérias da pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e92c95ea37d451f6d205e3d455918f320289e2b6dc203d2533e11fef8dca69c
+size 131

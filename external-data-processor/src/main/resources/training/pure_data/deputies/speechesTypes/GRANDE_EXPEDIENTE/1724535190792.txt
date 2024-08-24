@@ -1,1 +1,3 @@
-Congratulações à Deputada Raquel Muniz pela condução dos trabalhos da sessão. Críticas à gestão da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a89588c616c294711587665b20e93cee0be6baaeecc2c09c3cfadce75742289
+size 134

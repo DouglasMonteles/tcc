@@ -1,1 +1,3 @@
-Presença, na Casa, dos Vereadores Vanessa Galloni e Ricardo Canata, da Câmara Municipal de Leme, Estado de São Paulo. Saudação ao Prefeito da municipalidade, Claudemir Borges.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8e7b8fdfd29579c8a9e247b877ee8530418d49d4cdf732d725fc49bc087bac9
+size 180

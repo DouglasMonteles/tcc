@@ -1,1 +1,3 @@
-Pedido aos Deputados de aprovação do requerimento de destaque sobre a concessão de aposentadoria especial aos professores brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:578678215dce3b9ce024bfafd958c35039bf23ae2e26ea66134530e8e88fdc57
+size 137

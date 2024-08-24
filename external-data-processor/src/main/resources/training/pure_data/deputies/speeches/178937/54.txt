@@ -1,1 +1,3 @@
-Expectativa de atingimento do quórum para início da votação. Alegação de obrigatoriedade de registro de presença pelos Deputados integrantes da base governista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a7d668a13d27c7d1bc097c739a7832a0d680c441af8d92a4b2e4aa3a23415e2
+size 167

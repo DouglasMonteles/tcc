@@ -1,1 +1,3 @@
-Posicionamento contrário do PDT   à Emenda 11, destacada, ao Projeto de Lei de Conversão 2 de 2013 à Medida Provisória 586 de 2012 (Dispõe sobre o apoio técnico e financeiro da União aos entes federados no âmbito do Pacto Nacional pela Alfabetização na Idade Certa, e dá outras providências),  que fixa a idade certa para alfabetização aos 6 anos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:766db508e4aadce1f4a419a1d6262437f0b896d0e4f6a69a65af26d51af38d41
+size 362

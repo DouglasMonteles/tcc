@@ -1,1 +1,3 @@
-Discussão da Medida Provisória nº 870, de 2019, sobre a organização da Presidência da República e dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df6436076870951db5fd6356b6d5726d68b138eb5f2299c22ac65e790248b8e4
+size 122

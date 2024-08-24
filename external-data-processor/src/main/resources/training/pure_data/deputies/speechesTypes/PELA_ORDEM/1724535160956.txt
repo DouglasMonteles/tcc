@@ -1,1 +1,3 @@
-Expectativa de liberação de recursos pelo Ministério da Saúde para o custeio e a manutenção da Unidade de Pronto Atendimento - UPA do Município de Alegrete, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91ed47597d529d1b878aa79f51f690130fe59f48176eb3073a762a90569334bc
+size 192

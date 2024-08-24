@@ -1,1 +1,3 @@
-Realização de reunião destinada ao debate da proposta de fixação da jornada de trabalho dos profissionais da enfermagem em 30 horas semanais, no Auditório Nereu Ramos, da Casa. Defesa de aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03a29443fb9ff7a18fcdfe516158ec20b1e521554423f0aaa26567081ee78cfb
+size 217

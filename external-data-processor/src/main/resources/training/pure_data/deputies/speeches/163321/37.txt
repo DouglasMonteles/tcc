@@ -1,1 +1,3 @@
-Escalada de crimes com requintes de crueldade praticados por menores no País. Imediata criação pela Casa de Comissão Especial destinada ao exame da Proposta de Emenda à Constituição nº 171, de 1993, acerca da redução da maioridade penal para 16 anos de idade. Defesa de aprovação da proposta de alteração do Estatuto da Criança e do Adolescente, com vistas à ampliação para 10 anos do prazo de ressocialização de menores infratores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb4dafe050d9ee6f9e18c4c4f7ee1731ab94a7eb7cd6232d088781d18f410e5b
+size 452

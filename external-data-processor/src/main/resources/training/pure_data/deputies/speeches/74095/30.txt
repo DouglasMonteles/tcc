@@ -1,1 +1,3 @@
-Posicionamento contrário ao Recurso 313 de 2006 (Requer seja submetido ao Plenário o Projeto de Lei 5.238 de 2005 que cria cargos em comissão e funcões comissionadas no Tribunal Regional do Trabalho da 2ª Região, e dá outras providências), do Tribunal Superior do Trabalho - TST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8c19fb837fc1e296f1b384032850d251b6d7f0d8cb999f1cd04e2d6c068586d
+size 287

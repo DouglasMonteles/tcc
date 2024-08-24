@@ -1,1 +1,3 @@
-Repúdio à narrativa da Esquerda a respeito do desarmamento da população civil. Inconsistência de matérias veiculadas pela imprensa sobre a prisão de membros do grupo de Caçadores, Atiradores e Colecionadores - CACs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f5d2b15d043be97ff5a4bca051fe838d3bf115aae43ac996659f9bc5aebcf35
+size 223

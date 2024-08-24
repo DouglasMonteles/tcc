@@ -1,1 +1,3 @@
-Necessidade de revisão de medida provisória sobre a concessão de reajuste salarial a categorias do serviço público federal. Apoio à reivindicação dos Policiais Rodoviários Federais de exigência de nível superior para ingresso na corporação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf19ef95893c1e5408572257f426d10d41a77977aacd417c5e9945ab9a0bde68
+size 253

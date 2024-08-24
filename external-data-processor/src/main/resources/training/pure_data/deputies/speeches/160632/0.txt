@@ -1,1 +1,3 @@
-Transcurso dos 60º aniversário do Sistema Brasileiro de Assistência Técnica e Extensão Rural - SIBRATER.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6733726d5749b13c278d44504eb4f6d69ee76215905d4b50051186dcaebe8f38
+size 109

@@ -1,1 +1,3 @@
-Transcurso dos 10 anos de vigência do Estatuto do Idoso. Inadmissibilidade de agressões praticadas contra idosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41b8673ff1e0d39e4e11c243602de115bbd40e035dcf51a1bca0dbf7f793d50c
+size 115

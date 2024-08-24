@@ -1,1 +1,3 @@
-Desnecessidade de recriação da Contribuição Provisória sobre Movimentação Financeira - CPMF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3447f1b8dbc308fa995f647a04c08b3734ab5844f4487122217ec68d7ccdb93
+size 99

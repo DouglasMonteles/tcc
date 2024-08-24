@@ -1,1 +1,3 @@
-Posicionamento favorável do PP  ao Substitutivo do Senado ao Projeto de Lei 2.057 de 2007 (Dispõe sobre o processo e julgamento colegiado em primeiro grau de jurisdição de crimes praticados por organizações criminosas; altera os Decreto-Leis 2.848 de 1940, Código Penal e 3.689 de 1941, Código de Processo Penal; as Leis 9.503 de 1997 e 10.826 de 2003, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f8f73ccb058113228917f712e30bf731553dfa6fb22c5d11b6b521791ff21d0
+size 389

@@ -1,1 +1,3 @@
-Pedido à Presidência de inclusão na pauta de requerimento de criação da Comissão Externa, destinada ao acompanhamento e fiscalização das obras de transposição de águas do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46344a83e066b4d7ab8a24fc03ebc9b6034bf755209b1fe06f7a22d3c5b6564b
+size 201

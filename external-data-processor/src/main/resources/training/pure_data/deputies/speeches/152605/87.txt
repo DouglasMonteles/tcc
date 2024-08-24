@@ -1,1 +1,3 @@
-Instalação da Comissão Especial destinada à apresentação de propostas e avaliação dos efeitos da tragédia causada pelas enchentes na região serrana do Rio de Janeiro, Estado do Rio de Janeiro. Retomada dos trabalhos da Comissão Externa instituída para verificação in loco das consequências das chuvas na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:513f5ec435a3ac90868def7a062ed91b3bb22e5f1dcbe11832749c2966df2234
+size 327

@@ -1,1 +1,3 @@
-Regozijo da Juventude Progressista pela aprovação do fim da reeleição para cargos do Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff748607beca31277cb5fe974027c8585a578bed95e97a752c52041664fe493a
+size 105

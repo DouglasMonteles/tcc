@@ -1,1 +1,3 @@
-Críticas à gestão do Presidente Luiz Inácio Lula da Silva. Inexistência de plano de desenvolvimento econômico no âmbito do Governo Federal. Incompetência do Ministro da Fazenda, Fernando Haddad. Ataques do Presidente da República ao Banco Central do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d772c8b69f2d5698bcc6e15fe6e52fed321573c50d4a21f33f115f0f733cf94
+size 266

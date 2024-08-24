@@ -1,1 +1,3 @@
-Descaso do Prefeito Marcelo Crivella, do Rio de Janeiro, Estado do Rio de Janeiro, com a realização de obras de prevenção de enchentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:623ee2f4ae5cb9f6e76a06201af6cef633caea816dc87db3753bbadf73566961
+size 139

@@ -1,1 +1,3 @@
-Lançamento pela Central Única das Favelas - CUFA, do movimento Crack - tire essa pedra do seu caminho, na Câmara Municipal de Fortaleza, Estado do Ceará. Aumento do consumo dos narcóticos crack e oxi no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f4b8e0bcfd8781fd7cb34d648fd75f2f51da593fb13410def08de245223f46e
+size 214

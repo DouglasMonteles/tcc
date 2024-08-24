@@ -1,1 +1,3 @@
-Natureza promissora da piscicultura no Estado de Rondônia. Agradecimentos ao Ministro da Pesca e Aquicultura, Helder Barbalho, pela concessão de audiência ao orador para debate do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fd3a8e8907b62533c91df4e74bfe625e9f65ff3ea1f4bf8318bc99c65552495
+size 188

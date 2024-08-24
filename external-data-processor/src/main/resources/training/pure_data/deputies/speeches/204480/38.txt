@@ -1,1 +1,3 @@
-Preocupação do orador com o lobby  da empresa Vale dentro do Parlamento brasileiro. Solicitação ao Líder do Governo na Câmara dos Deputados, Major Vitor Hugo, de indicação dos Relatores de projetos relativos à atividade de mineração no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db166d9f98c4b6ee4a94b35f3f823850c3c07f471d3a651960075183d22eaeb5
+size 253

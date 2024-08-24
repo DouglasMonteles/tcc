@@ -1,1 +1,3 @@
-Esclarecimento à população do Município de Itaboraí, Estado do Rio de Janeiro, sobre a pré-candidatura do orador a Prefeito da municipalidade. Críticas ao Presidente interino da Câmara dos Deputados, Deputado Waldir Maranhão, pela inconstância nas decisões sobre os trabalhos da Casa. Elogio a Michel Temer pela atuação como Presidente da República interino. Gravidade da crise financeira do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08fcffe8d90b5841167403d80fad5e6c66c9200c9eb9f304e32ba53c8ee7bbf2
+size 431

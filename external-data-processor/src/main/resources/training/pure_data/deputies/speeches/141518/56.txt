@@ -1,1 +1,3 @@
-Solicitação à Presidência de suspensão da presente sessão e adiamento da votação das emendas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee0b416ef55985e7ff4be6366f36617fcf4f8a54b441a0e955c338c0aef49e9d
+size 101

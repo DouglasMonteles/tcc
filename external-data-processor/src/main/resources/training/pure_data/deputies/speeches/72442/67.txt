@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Arthur Lira e ao Presidente em exercício dos trabalhos, Deputado Marcelo Ramos, pelo apoio ao setor de entretenimento. Dificuldades enfrentadas pelos produtores de eventos em decorrência da epidemia de coronavírus. Congratulações à Associação Brasileira de Promotores de Eventos - ABRAPE,  por ação promovida junto ao Parlamento brasileiro em prol do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e3110e911425217c7f11012eabd52b7da17073b4450e1cf536c93f3a0bcd7df
+size 395

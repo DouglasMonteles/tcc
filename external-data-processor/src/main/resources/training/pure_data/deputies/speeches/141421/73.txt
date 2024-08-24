@@ -1,1 +1,3 @@
-Repercussão negativa da importação de tecidos usados em hospitais norte-americanos, por empresa de confecções sediada no Município de Santa Cruz do Capibaribe, Estado de Pernambuco. Pujança do polo de confecções pernambucano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f052dac4ea40eb0737c7b2de5f9ef82129376a4005a4eb22734e0ab404b4155
+size 234

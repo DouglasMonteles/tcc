@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido pelo Relator da Comissão Especial ao Projeto de Lei nº 2.336, de 2021, sobre a alteração da Lei nº 9.615, de 1998, relativa às normas gerais do desporto, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efcdace2e43c019a97090709c10dc054b0e2ff886b6fa21b78049216850ba839
+size 248

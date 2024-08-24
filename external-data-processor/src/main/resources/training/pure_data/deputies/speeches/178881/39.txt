@@ -1,1 +1,3 @@
-Determinação do Tribunal de Justiça do Estado do Maranhão de reassunção do mandato pelo Prefeito Indalécio Wanderlei Vieira Fonseca, do Município de Governador Nunes Freire, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:816422ef0b202b6b3132e8e188ad4155156a9bbb1335b0704596fcdd573c6396
+size 202

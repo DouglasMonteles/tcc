@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 5.919, de 2019, sobre da criação do Tribunal Regional Federal da 6ª Região, com sede em Belo Horizonte, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd6918001dcc1fa0a6d85af0f7b13ad893a8c0621c11f620cc4fcd5ef85f7e34
+size 245

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei nº 50, de 2019, sobre a obrigatoriedade de fixação, em pet shops, clínicas veterinárias e estabelecimentos congêneres, de cartazes de incentivo à adoção de animais. Reiteração do apelo aos Parlamentares de redirecionamento do debate para as ações de superação dos desafios impostos ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6410e3c34871af6e06dcdefbc2a69ac7760899cf355da72a8b5ca999db71ac5d
+size 362

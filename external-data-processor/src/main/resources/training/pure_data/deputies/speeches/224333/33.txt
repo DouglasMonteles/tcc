@@ -1,1 +1,3 @@
-Lançamento do livro A voz do gesto, de Mário Milani, no Salão Verde da Câmara dos Deputados. Crise enfrentada por produtores rurais em decorrência das importações de leite. Imediata prorrogação do prazo de custeio de financiamentos concedidos ao setor leiteiro nacional. Compra pública de leite pelo Governo Federal e regulação da reidratação do produto, como medidas de incentivo à produção de lácteos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f091a8f420d473d6b1680b59c8304e763f1a79301fd7ac07fdda3387ff5e753c
+size 430

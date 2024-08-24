@@ -1,1 +1,3 @@
-Apelo ao Ministro da Economia, Paulo Guedes, de reexame de decisão a respeito da Zona Franca de Manaus, no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3d70184fdc4938e80fa9e1b950adf21372a1db89ced9c6fa34e3036a8268007
+size 127

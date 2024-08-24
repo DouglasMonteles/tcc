@@ -1,1 +1,3 @@
-Solidariedade à população do sudeste do Estado de Tocantins afetada pela estiagem. Presença na Casa do Deputado Estadual Valdemar Júnior, de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7dc171f37eba5bf7263ae265679e506eb2f9109e64a52cb27772e9eaf58ae70
+size 156

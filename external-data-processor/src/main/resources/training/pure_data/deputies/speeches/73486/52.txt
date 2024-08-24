@@ -1,1 +1,3 @@
-Distribuição, pelo Ministério da Educação, de acervos literários às escolas públicas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79e53ff6b241cf51be96bf8ed79d88ee56380951d4f007719963173303059386
+size 105

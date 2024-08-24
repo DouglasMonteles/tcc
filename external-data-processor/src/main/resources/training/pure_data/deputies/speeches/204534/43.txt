@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 3.878, de 2020, pertinente à alteração da Lei nº 13.667, de 2018, com vista à concessão de prioridade no atendimento às mulheres em situação de violência doméstica ou familiar pelo Sistema Nacional de Emprego - SINE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30a8f8a877ed5c27ca22581732f34f12fc3e6f76c4be89e629fa6c416a6556ca
+size 269

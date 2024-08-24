@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Prefeito Alexandre Donato, o Xandão, do Município de Corumbataí do Sul, Estado do Paraná, em visita à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a2fd25a01abf6aae089c6af6b0e105b8ebdbba21ce847d92a87448aefba467b
+size 162

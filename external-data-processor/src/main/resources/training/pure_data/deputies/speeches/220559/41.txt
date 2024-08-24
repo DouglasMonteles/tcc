@@ -1,1 +1,3 @@
-A Deputada informou que o funcionário da Casa que havia debochado de uma mulher estuprada atuava na assessoria do Deputado Márcio Jerry e pediu ao Parlamentar que o demitisse. Em seguida, orientou a bancada na votação da Emenda de Plenário nº 1 apresentada ao Projeto de Lei nº 2.012, de 2022, que altera as Leis nºs 12.608, de 10 de abril de 2012, e 12.340, de 1º de dezembro de 2010, para aprimorar os instrumentos de prevenção de desastres e recuperação de áreas atingidas, as ações de monitoramento de riscos de desastres e a produção de alertas antecipados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7effa3d6ba25fefadad07ac6e3fef71cabc01305d9e576c4282aebd7a97cb56e
+size 580

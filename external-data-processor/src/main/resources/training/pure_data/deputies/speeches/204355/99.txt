@@ -1,1 +1,3 @@
-Anúncio da presença do Ministro da Infraestrutura, Marcelo Sampaio, na inauguração do Aeroporto de Linhares, Estado do Espírito Santo, e no Município de Colatina, Estado do Espírito, para participação em debate sobre obras rodoviárias. Elogio à atenção do Ministro Marcelo Sampaio às reivindicações da bancada federal capixaba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d49ebf89ba4cb32495db2e5b0c364dcf691ae089f9f76765abdd92aa8e3fcea3
+size 343

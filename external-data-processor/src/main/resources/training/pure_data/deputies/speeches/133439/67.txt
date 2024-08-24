@@ -1,1 +1,3 @@
-Descumprimento pelo Governo Federal de prazo acordado com os partidos da base aliada para a votação da proposta de alteração do fator previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8237af6b6c6309d68c4517baa3bc6d00c89235b7fd862b5e6acecf79d3fb464
+size 154

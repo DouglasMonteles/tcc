@@ -1,1 +1,3 @@
-Defesa de autorização ao Supremo Tribunal Federal, pela Câmara dos Deputados, de investigação de denúncia da Procuradoria-Geral da República contra o Presidente Michel Temer por prática de corrupção. Apoio à realização de eleições diretas para a sucessão presidencial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f264a49a5a93e1616cba9c633ca398c17dd48eece53de5d609965a77d864ef91
+size 284

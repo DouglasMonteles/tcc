@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT  ao Requerimento de regime de urgência urgentíssima para o Projeto de Lei 2.592 de 2007 (Dispõe sobre infração administrativa, crimes de trânsito e normas processuais a estes aplicáveis). Anúncio de pedido de votação  nominal do requerimento , no caso de não realização de acordo para retirada da pauta do  Projeto de Lei Complementar nº 92, de 2007.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32a26a4d151e4bac1d8ae0eba26d21d5ca99c0314e91015531666ecb483401c6
+size 397

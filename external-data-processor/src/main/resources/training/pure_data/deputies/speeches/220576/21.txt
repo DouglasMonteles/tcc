@@ -1,1 +1,3 @@
-Indignação do orador com a decisão do Supremo Tribunal Federal de devolução do cargo ao Governador do Estado de Alagoas. Inconformismo com a absolvição judicial do Presidente da Assembleia Legislativa do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c993969ea261795426176659b59d610ef02840ef48eb4a2ef8cc672304e13668
+size 218

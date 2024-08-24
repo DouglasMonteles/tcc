@@ -1,1 +1,3 @@
-Tendenciosidade da CPI da Covid, instaurada pelo Senado Federal. Apoio à desestatização da empresa Centrais Elétricas Brasileiras S/A - ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fdcce5b47ddd8372d03efab57640e266ab6544cb0e12f1b84bc95162d7409fe
+size 151

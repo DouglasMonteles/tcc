@@ -1,1 +1,3 @@
-Participação no seminário Três Anos do Balcão do Consumidor, realizado pela Universidade de Passo Fundo, no Estado do Rio Grande do Sul. Lançamento do livro Balcão do Consumidor - histórico do movimento consumerista em Passo Fundo, de autoria dos Profs. Liton Lanes Pilau Sobrinho e Rogério da Silva. Pioneirismo do Município de Passo Fundo na elaboração do Código Municipal de Defesa do Consumidor do Brasil. Solicitação ao Ministro da Integração Nacional, Geddel Vieira Lima, por membros da bancada federal gaúcha, de adoção de medidas em benefício dos Municípios atingidos pelas chuvas do Estado do Rio Grande do Sul. Alteração da sistemática de distribuição de royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c633f67638636f39da9c19c4055e239116bf31516a2e698706e4704c9ef288f
+size 715

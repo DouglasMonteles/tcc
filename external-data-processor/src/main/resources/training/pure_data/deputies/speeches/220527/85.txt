@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação da Subemenda Substitutiva Global oferecida ao Projeto de Lei nº 3.780, de 2023, que altera o Decreto-Lei nº 2.848, de 07 de dezembro de 1940 – Código Penal, para aumentar as penas cominadas aos crimes de furto e roubo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:361294f91093a7ba408c57d2ae820305102792cfb0a20759ab11289b34c0acc8
+size 266

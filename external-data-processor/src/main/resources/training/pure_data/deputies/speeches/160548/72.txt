@@ -1,1 +1,3 @@
-Aprovação pela Casa de projeto de lei sobre a criação do Estatuto da Juventude. Necessidade de proibição de propagandas de bebidas alcoólicas direcionadas aos jovens.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4346c63f09ef5a8f3625e76ebbb718a24e1717c39cb7c74bd8473e3711f3ca4
+size 173

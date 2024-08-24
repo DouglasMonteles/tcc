@@ -1,1 +1,3 @@
-Posicionamento favorável do PT ao  Substitutivo do Senado ao Projeto de Lei 2.660 de 1996 (Dispõe sobre o tempo de direção do motorista de caminhões e ônibus trafegando em rodovias).
+version https://git-lfs.github.com/spec/v1
+oid sha256:07e9d65329e87a5d73181661ab3ac803772fabb58eabd2cb7c55b415a6374854
+size 188

@@ -1,1 +1,3 @@
-Solicitação à Presidência de inclusão na Ordem do Dia, de amanhã, dos destaques à   Medida Provisória 530 de 2011 (Institui no âmbito do Ministério da Educação, o Plano Especial de Recuperação da Rede Física Escolar Pública, com a finalidade de prestar assistência financeira para recuperação das redes físicas das escolas públicas estaduais, do Distrito Federal e Municipais afetadas por desastres). Disposição de busca de acordo junto ao DEM para votação dos destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd0587c01163ef7a04e446465cbbb1f4ab592d511378414ad50fffa2cc58f62b
+size 496

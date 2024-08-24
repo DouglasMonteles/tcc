@@ -1,1 +1,3 @@
-O Deputado felicitou a cidade de Goiânia (GO) pelos 90 anos de fundação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5635bd2e93d756f05a5c533672fccbb6a8ac95883e81d3bcca2938e0d5bd520a
+size 75

@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Água. Artigo Guerra Fiscal, sobre a alteração das alíquotas do ICMS incidentes em operações interestaduais com bens e mercadorias importados, de Regina Alvarez, publicado pelo jornal O Globo. Discordância com a alteração das regras de distribuição de royalties de petróleo. Proficuidade da gestão do Governo do Estado do Espírito Santo nos setores de educação, segurança pública e política social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a9721b736fb5d3594b05fafe428882f6a57be3c97ca7311f3449d170300859e
+size 445

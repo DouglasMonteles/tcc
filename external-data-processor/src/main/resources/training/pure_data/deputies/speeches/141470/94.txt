@@ -1,1 +1,3 @@
-Evolução da política externa adotada pelo Governo Brasileiro. Ações do Governo Luiz Inácio Lula da Silva pelo desenvolvimento socioeconômico da Região Nordeste. Condições da região para enfrentamento da crise econômica mundial. Conveniência de intensificação da ação fiscalizadora da bancada nordestina na Casa sobre programas governamentais para desenvolvimento da região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1a227084c400a0ba00a93f5e936d1e6dc62a33f3a25ccb3f8aaa849ff89f037
+size 391

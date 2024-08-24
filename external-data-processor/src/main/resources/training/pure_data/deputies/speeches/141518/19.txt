@@ -1,1 +1,3 @@
-Solicitação aos sindicalistas presentes na galeria do plenário  para não vaiarem os parlamentares que defendem o aumento do salário mínimo proposto pelo Governo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:787d8b08e6ca806fbda2e595d556dd6e7a8c2cb1eda34cf67f1ff72385ac1ec3
+size 167

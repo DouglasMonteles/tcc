@@ -1,1 +1,3 @@
-Iniciativa da Confederação Nacional da Indústria  - CNI de realização de debates com os candidatos à sucessão presidencial Dilma Rousseff, José Serra e Marina da Silva. Anúncio, pela candidata petista à Presidência da República, de criação do Ministério da Pequena e Microempresa e de realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e30aff571b4a2d3bf30d9a994dfa9d4c5fbc918b87dac641d6c7e6444449582
+size 336

@@ -1,1 +1,3 @@
-A Deputada contestou discurso da Deputada Talíria Petrone sobre o combate à desigualdade, destacando que a parlamentar disputou as eleições, de acordo com dados do TRE (Tribunal Regional Eleitoral), com recursos superiores aos de outras candidaturas femininas lançadas pelo PSOL. A oradora enfatizou que é hipocrisia pregar combate à desigualdade e não haver divisão equitativa de recursos do partido com todas as mulheres que se candidataram.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d812516aff1ec9caf276c4602f7c39869f9d3166474a45f6b15f40436d6ab3c
+size 452

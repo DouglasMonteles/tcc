@@ -1,1 +1,3 @@
-Participação do orador em audiência pública promovida pelo Colegiado do Território do Alto Sertão e realizada no Município de Poço Redondo, Estado de Sergipe, para debate sobre projetos educacionais na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4607482ad8add9e7a874471be555425aafe97acea805bdfc0a13092db9046a16
+size 218

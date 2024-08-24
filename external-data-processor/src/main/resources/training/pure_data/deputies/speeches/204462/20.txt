@@ -1,1 +1,3 @@
-Convite aos Deputados e à sociedade civil para participação na sessão solene, promovida pela Casa ao ensejo do transcurso do Dia do Nascituro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0adff20ba195bc1eafacf6c632582172fbfabed0df982cd1d22134812f8dec77
+size 146

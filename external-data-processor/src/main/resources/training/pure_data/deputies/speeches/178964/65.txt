@@ -1,1 +1,3 @@
-Anúncio, pelo Governo do Estado do Rio Grande do Sul, de ampliação do programa de combate ao câncer de pele.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bc7d477990869e51323ea1ca565adb35863b7570ae6315be0998f73fde07b9f
+size 112

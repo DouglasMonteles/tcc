@@ -1,1 +1,3 @@
-Contrariedade à decisão do Tribunal de Justiça do Estado do Rio de Janeiro sobre a restrição da política de cotas na Universidade Estadual do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fb11a016c3c39ba6b1c6cff32fdf1d2c66041c226acce3ab4694227149fa9d1
+size 163

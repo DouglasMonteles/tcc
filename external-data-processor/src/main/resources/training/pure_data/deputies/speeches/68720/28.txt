@@ -1,1 +1,3 @@
-Repúdio à determinação judicial de transferência do ex-Presidente Luiz Inácio Lula da Silva para presídio comum. Elogio aos Parlamentares e aos Ministros do Supremo Tribunal Federal, pelo posicionamento contrário à decisão judicial da primeira instância a respeito da transferência do ex-Presidente da República para penitenciária no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8170594ac3926ecaf523360db9154aef22f88355695e81d59cd1de034ec87e52
+size 369

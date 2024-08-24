@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 905, de 2019, sobre a instituição do Contrato de Trabalho Verde e Amarelo e a alteração da legislação trabalhista brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b06ed37b533bbcb1c1e3ba4df43911410686ab01cbdee93052cceba1e2e3857
+size 231

@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de adiamento, por duas sessões, da discussão da Medida Provisória 482 de 2010 (Dispõe sobre medidas de suspensão de concessões ou outras obrigações do País relativas aos direitos de propriedade intelectual e outros, em casos de descumprimento de obrigações do Acordo Constitutivo da Organização do Comércio - OMC). Obstrução dos partidos de Oposição às votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:532958b149d9aa98659c2c775ddac7241ea117bf391e7b364540aa7db8c09c9b
+size 427

@@ -1,1 +1,3 @@
-Contestação a pronunciamento do Deputado Paulo Azi  sobre críticas ao Governador do Estado da Bahia, Rui Costa. Excelência da gestão do Governador baiano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f10a95b2ed61f64d1bc1eddaffa15a29fba42a508e2f9872663fcc1371c7e8c5
+size 159

@@ -1,1 +1,3 @@
-Assinatura do Protocolo Agroambiental pelo Governo do Estado de São Paulo e pelos fornecedores independentes de cana-de-açúcar filiados à Organização dos Plantadores de Cana da Região Centro-Sul do Brasil - ORPLANA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98be5f60fa96dd565e72ddd82793862d1d6816bf82d3c5a8fb01a63eebb17d61
+size 222

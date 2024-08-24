@@ -1,1 +1,3 @@
-Regozijo com homenagem recebida pelo orador no site Ranking Políticos pela produção parlamentar. Posição do orador contrária à aprovação, na Câmara dos Deputados, de dispositivo para anistia de prática de caixa dois em campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdceab0e459639a68af3bc3710d635d57adce13176f3987b5db97f88f48c6e1d
+size 251

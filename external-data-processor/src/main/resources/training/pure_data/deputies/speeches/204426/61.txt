@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 770, apresentada à Medida Provisória nº 905, de 2019, sobre a instituição do Contrato de Trabalho Verde e Amarelo e a alteração da legislação trabalhista brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fafbd683226788728bde4aa0f428cf97e9d3d21cc8f88e767e49f61ebcb453d5
+size 280

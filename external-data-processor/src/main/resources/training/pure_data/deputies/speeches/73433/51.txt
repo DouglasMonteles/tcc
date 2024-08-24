@@ -1,1 +1,3 @@
-Composição da Mesa Diretora dos trabalhos da sessão solene em comemoração ao transcurso dos 28 anos de fundação do Partido dos Trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c9d3d80a0063538e2107a30865efc29165aa76ccf3398fd2c89b6ce2b75b38
+size 148

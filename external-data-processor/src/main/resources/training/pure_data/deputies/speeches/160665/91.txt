@@ -1,1 +1,3 @@
-Associação do orador ao posicionamento das entidades nacionais de engenharia contrário à aprovação da Medida Provisória nº 630, de 2013, sobre mudança no regime de licitação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21728c77c7747ceded28721137f0718da4cf8e86dcb09be29bac6633c5fd34a7
+size 185

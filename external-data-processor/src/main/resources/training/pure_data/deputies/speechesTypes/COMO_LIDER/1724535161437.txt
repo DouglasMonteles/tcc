@@ -1,1 +1,3 @@
-Indignação com o comportamento de Parlamentares durante as sessões da Câmara dos Deputados. Necessidade de recuperação da credibilidade da classe política junto à sociedade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9304671187620568282e7e05df9c8a29205e5616e065522c8b4847c7c518c6be
+size 181

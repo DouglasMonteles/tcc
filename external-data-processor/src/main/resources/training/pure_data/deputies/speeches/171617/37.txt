@@ -1,1 +1,3 @@
-Relevância do programa Mulher, Viver sem Violência, lançado pelo Governo Federal por meio da Secretaria de Políticas para as Mulheres. Importância da instalação nos Estados dos centros especializados no atendimento às mulheres, a chamada Casa da Mulher Brasileira. Apelo aos Estados brasileiros, especialmente ao Estado de Alagoas, de adesão ao programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3456952f27296b04e20ae766bbd96d71320ccb166794d1f3423dc7533bca6e1b
+size 363

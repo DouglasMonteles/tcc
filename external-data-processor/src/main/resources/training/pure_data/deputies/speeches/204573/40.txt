@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 19, apresentada ao Projeto de Lei Complementar nº 19, de 2019, sobre a definição dos objetivos do Banco Central do Brasil, a sua autonomia, a nomeação e exoneração do Presidente e Diretores da instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acf76bc9f4b6cedc55ad044740f84d5bd20b148d5d9be6b1af651c0c6541af8b
+size 333

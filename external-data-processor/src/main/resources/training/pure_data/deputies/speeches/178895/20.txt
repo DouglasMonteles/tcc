@@ -1,1 +1,3 @@
-Reflexões do orador acerca do projeto de lei de terceirização de mão de obra. Apoio à aprovação da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:352c8ba49d1e645b08ffe1027a7b4c84f2c938d0ef0666b786d20afd8b9c62bc
+size 119

@@ -1,1 +1,3 @@
-O Deputado enfatizou os riscos iminentes de um apagão na saúde e na educação devido à falta de repasses do governo Lula. Explicou que a mudança nas regras fiscais criou um impasse, exigindo que o governo destine uma porcentagem mínima da receita para essas áreas, mas sem recursos suficientes para cumprir essa obrigação. Criticou a inépcia da atual equipe econômica governamental, que tenta promover o equilíbrio entre o cumprimento da legislação e a frustração do discurso economicamente irresponsável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5901071beb6cc7c499943fae924d198f5f1838fc827fb3fa7920b143592623e
+size 522

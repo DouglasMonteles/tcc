@@ -1,1 +1,3 @@
-Transcurso do Dia da Empregada Doméstica.  Aperfeiçoamento da legislação relativa aos direitos dos trabalhadores domésticos. Elevado índice de informalidade entre a categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bee76f55f89dcfa26494f5406706a573b23ef5005214bc2d48903b7576fac4d7
+size 181

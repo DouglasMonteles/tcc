@@ -1,1 +1,3 @@
-Transcurso do cinquentenário de emancipação político-administrativa do Município de Nova Canaã, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d85eeb24cb6a41dfed31582dd87c1d5478adb35d2933e5a96f185f0d9c4c685
+size 118

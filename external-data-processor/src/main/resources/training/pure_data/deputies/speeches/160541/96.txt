@@ -1,1 +1,3 @@
-Questionamento à Presidência sobre registro de presença dos oradores inscritos para uso da palavra na presente sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d413543fb147db94f2bdb9facdc5df316a806f521871effb9d0906cad66c75de
+size 122

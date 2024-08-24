@@ -1,1 +1,3 @@
-Posicionamento contrário do PR ao Requerimento de retirada da pauta da Ordem do Dia do Projeto de Lei 5.417 de 2009 (Cria o Fundo Soberano Social do Brasil - FSSB e dispõe sobre sua estrutura, fontes de recursos e dá outras providências), apenso o PL 5.940 de 2009 (Cria o Fundo Social - FS, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:19bc773e27bcb4e7e2394d62fc341fa41849c45fe0c6309c4d54d2befc490b65
+size 324

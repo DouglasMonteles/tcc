@@ -1,1 +1,3 @@
-Congratulações aos Deputados Fábio Trad e Paulo Teixeira pelo trabalho em prol da aprovação de projeto de lei sobre a criação do novo Código de Processo Civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:433de12a852dea6e3f00743f42b61a3d0cc37c5f22fb58d91c0b1752a277f043
+size 167

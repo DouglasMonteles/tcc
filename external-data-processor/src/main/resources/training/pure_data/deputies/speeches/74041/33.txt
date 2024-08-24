@@ -1,1 +1,3 @@
-Apoio à criação de Comissão Externa destinada ao acompanhamento da apuração do caso de submissão de adolescente a regime de cárcere privado e tortura em Goiânia, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93ace3796d09952d13f0451289d986853a56e53880d28d1e00a946f54cb4f3ed
+size 188

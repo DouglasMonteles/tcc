@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado do Espírito Santo pela reeleição do orador. Apoio à eleição do Sr. Fernando Haddad à Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f2df0b4fdc8dd4b20d90f71c8cc0d729d8c0ba5328635ce9024b458f5c7b6b6
+size 157

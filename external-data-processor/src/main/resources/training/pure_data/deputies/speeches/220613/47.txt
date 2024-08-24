@@ -1,1 +1,3 @@
-O Deputado parabenizou o Líder do PL Altineu Côrtes pelo transcurso de seu aniversário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f3db39542cfde9142cede7cde852626961d7761ed664620979335a3e867a504
+size 90

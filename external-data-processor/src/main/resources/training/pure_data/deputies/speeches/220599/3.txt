@@ -1,1 +1,3 @@
-Sessão Solene destinada à promulgação da Emenda à Constituição 77, de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:974791e0461f6063f9323819c754947ecca4e623cb4d65cb55d6109d229554bb
+size 82

@@ -1,1 +1,3 @@
-Apelo ao Governador Romeu Zema por manutenção da malha rodoviária no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e64a5e7122a95bfc5a63abed2752426a90ea43dcd6bccf02e0aba33031527b68
+size 95

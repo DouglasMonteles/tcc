@@ -1,1 +1,3 @@
-O Deputado parabenizou o autor de um projeto que proíbe o uso de cerol e produtos similares nas linhas de pipas. Compartilhou experiências como cirurgião, onde tratou vítimas de acidentes causados por cerol, incluindo casos graves de cortes em veias jugulares, traqueia e tendões de Aquiles. Enfatizou a gravidade do problema e a necessidade de proibir o uso do cerol, pois pode causar lesões sérias e até mesmo levar à morte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:506a85cf8279b6a420b5fe8f79f5f9adbc8a465b5b5989beb232cde19f8a18b2
+size 435

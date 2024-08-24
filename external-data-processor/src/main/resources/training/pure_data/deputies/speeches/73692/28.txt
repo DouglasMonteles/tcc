@@ -1,1 +1,3 @@
-Massacre de estudantes ocorrido em escola pública no Bairro de Realengo, no Rio de Janeiro, Estado do Rio de Janeiro. Maior rigor na aplicação de penas contra psicopatas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad8249a9207182152467460a3edf052ca2b14ab9aeb3363cc857fb2376f39c5b
+size 173

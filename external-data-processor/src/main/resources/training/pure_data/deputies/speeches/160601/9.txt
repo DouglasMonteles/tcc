@@ -1,1 +1,3 @@
-Êxito do projeto de integração de jovens Gladiadores do Altar, da Igreja Universal do Reino de Deus. Contestação a críticas do Deputado Jean Wyllys aos evangélicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f38973775edf82f1fd65e9e967c5998a61d90652e6023ab1029d1f040fde7acb
+size 171

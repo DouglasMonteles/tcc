@@ -1,1 +1,3 @@
-Orientação de bancanca sobre o requerimento de destaque para votação em separado do art. 5º do projeto de lei de conversão da Medida Provisória nº 756, de 2016, sobre a alteração dos limites do Parque Nacional do Rio Novo, da Floresta Nacional do Jamanxim e a criação da Área de Proteção Ambiental do Jamanxim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dde3ae35bc454d353d8403128723bbd550a59dcd9886ddbc31406f55851e8f4
+size 325

@@ -1,1 +1,3 @@
-Descaso do Governador do Estado do Pará com a área da segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a877dfe116677209a1488535814774a3711dac0855348d55e5883109bd6dd227
+size 76

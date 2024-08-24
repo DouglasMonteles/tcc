@@ -1,1 +1,3 @@
-Realização do seminário nacional o novo marco regulatório do saneamento. Repúdio à sanha privatista do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3744e6576f7b7060fdc9c84140d6b2345849a852227869f4af5645da0f9264b
+size 132

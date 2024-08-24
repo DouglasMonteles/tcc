@@ -1,1 +1,3 @@
-Apreensão e incêndio, por pescadores, de embarcações de pesca clandestinas na Praia de Redonda, no Município de Icapuí, Estado do Ceará. Solicitação ao IBAMA de adoção de ações contra a pesca predatória no litoral cearense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac4486f437483c7040175fb0473d91d01ea9383687443f72186f8dd7ef46d2e2
+size 237

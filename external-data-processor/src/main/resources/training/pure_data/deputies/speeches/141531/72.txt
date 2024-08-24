@@ -1,1 +1,3 @@
-Lançamento, pelo Governador do Estado de Minas Gerais, Antonio Anastasia, do plano de metas para 2014, a chamada Agenda do Legado. Resultados positivos das administrações do PSDB em Minas Gerais. Iminência da assunção do cargo de Governador pelo atual Vice-Governador do Estado, Alberto Pinto Coelho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0520dcaac5f5edb9da15795508e30d90d10bb83b33e365957e9140a91cd472ec
+size 306

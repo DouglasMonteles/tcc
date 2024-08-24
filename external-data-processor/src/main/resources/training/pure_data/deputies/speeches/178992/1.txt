@@ -1,1 +1,3 @@
-Sucesso das manifestações contra a corrupção pela população paulistana e sorocabana. Críticas às reações do PT e da Presidenta Dilma Rousseff ante os protestos populares no Brasil. Existência de crise moral, institucional, política e econômica no País. Elogios ao Governador Geraldo Alckmin pelos cortes de gasto público no Governo do Estado de São Paulo. Denúncia de dívida do Governo Federal com o Estado de São Paulo oriunda de gastos com saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b602d3f922491bb0cf224229d99876f3853264df74f922192191fcd2600f329
+size 477

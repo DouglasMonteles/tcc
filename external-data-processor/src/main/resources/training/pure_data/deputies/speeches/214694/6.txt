@@ -1,1 +1,3 @@
-Tragédia causada por temporal no Alto Vale do Itajaí, Estado de Santa Catarina. Realização de investimentos na prevenção de desastres naturais na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fffd32bed6c8d7ace293ed7bca923c0c211e1556c69d43b8793a2ed98c1b4104
+size 160

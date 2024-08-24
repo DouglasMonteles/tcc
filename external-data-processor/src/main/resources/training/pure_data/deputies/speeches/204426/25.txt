@@ -1,1 +1,3 @@
-Defesa de aprovação de requerimentos de destaques apresentados à Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária, na votação da matéria em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d59aef7f2dc08baf3d4ed4e1a46d8f8db119abf94ec3432430239d0187bd2e4c
+size 196

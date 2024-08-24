@@ -1,1 +1,3 @@
-O Deputado defendeu a Zona Franca de Manaus na discussão sobre a reforma tributária, rebatendo críticas à Contribuição de Intervenção no Domínio Econômico (CIDE). Destacou a importância da Zona Franca para o país e para a preservação da Floresta Amazônica. Ele ressaltou a necessidade de manter o tratamento diferenciado para a região na reforma tributária, garantindo que o modelo de desenvolvimento regional continue a preservar a floresta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b5d743a77da91fffa6e7767fa7ace6edaf8f031b042a96fe83f2bffdc5bb599
+size 459

@@ -1,1 +1,3 @@
-Transcurso do 80º aniversário de fundação do jornal O Povo, do Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:726423f197bf7c3f35c0a9f11142fa2482a20b458b1bf409beb42c71d9ffd03c
+size 84

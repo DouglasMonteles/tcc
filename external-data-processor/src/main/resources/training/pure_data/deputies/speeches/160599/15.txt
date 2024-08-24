@@ -1,1 +1,3 @@
-Expectativa de aprovação, pelo Senado Federal, da Proposta de Emenda à Constituição nº 349, de 2001, que extingue o voto secreto nas decisões das Casas legislativas, nos âmbitos municipal, estadual e federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09283fd5629df17faf4c9d988ee0eb85799dcf5e33a9b29fdaa96c3cfe8fc210
+size 216

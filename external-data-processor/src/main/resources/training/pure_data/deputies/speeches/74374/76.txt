@@ -1,1 +1,3 @@
-Escalada da violência e da criminalidade em aldeias indígenas no Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:387c69dd32f717ba3b0776aa5519faf63f18baebfe18b49b8b357dae42ad3d24
+size 96

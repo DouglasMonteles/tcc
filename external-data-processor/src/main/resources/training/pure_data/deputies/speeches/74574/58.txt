@@ -1,1 +1,3 @@
-Exaltação do trabalho da Presidenta Dilma Rousseff em prol das vítimas dos desabamentos decorrentes das chuvas em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c9e9600c9142cab067c5db60520198cf41ba14f4ee1f6a10fa4ce78d44928ad
+size 143

@@ -1,1 +1,3 @@
-Excelência dos trabalhos realizados pelo Exército brasileiro na Amazônia. Necessidade de providências do Ministério da Saúde quanto à prestação de atendimento médico à população do Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81b58432f6afd1beded2c4459b43ee2c2aa1075d438f6860677d7cdb4c564d13
+size 213

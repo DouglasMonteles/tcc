@@ -1,1 +1,3 @@
-Posicionamento favorável do PR  à  expressão citopatológicos contida no  inciso VIII do art. 4º do Substitutivo ao Projeto de Lei 7.703 de 2006 (Define a área de atuação, as atividades privativas e os cargos privativos de Médico resguardadas as competências próprias das diversas profissões ligadas à área de saúde - Ato Médico), objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6152517953cc6785224776a1d79d18bad15abeb5bc9622eee5f3872bfb29492d
+size 360

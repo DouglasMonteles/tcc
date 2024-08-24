@@ -1,1 +1,3 @@
-Regozijo com o desempenho da então candidata à Presidência da República, Sra. Dilma Rousseff, no Estado do Piauí. Desafios do futuro Governo do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cb5ed3a1db54abeccc5aa6821b719a663343a7d07ce61177b1e4033e6145c7e
+size 155

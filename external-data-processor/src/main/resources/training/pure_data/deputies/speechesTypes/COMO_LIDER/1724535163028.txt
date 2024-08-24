@@ -1,1 +1,3 @@
-Apoio à aprovação dos projetos de lei sobre o estabelecimento do marco regulatório da exploração de petróleo na camada pré-sal. Realização, nas dependências da Casa, do I Seminário Ferroviário - A Realidade do Transporte Ferroviário de Carga, Trem Turístico e Trem de Alta Velocidade no Brasil. Aprovação, pelo Senado Federal, da indicação do nome do Advogado-Geral da União, José Antônio Dias Toffoli, para o cargo de Ministro do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:557547d42f6bd13797f1b99c0dfac1e44ded2d99766508af15a755de45609624
+size 478

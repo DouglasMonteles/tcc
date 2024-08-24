@@ -1,1 +1,3 @@
-Esclarecimentos sobre os termos do acordo feito com o Deputado José Otávio Germano, relator da Medida Provisória 428, de 2008 (Altera a legislação tributária federal e dá outras providências), e representantes da Receita Federal, que  resultou na criação do programa nacional de tarifa social dos serviços de abastecimento de água e saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffdd4921779d3c7cc605415be9604efe535ed1d2f8d95b5bf0b507517bbdac86
+size 364

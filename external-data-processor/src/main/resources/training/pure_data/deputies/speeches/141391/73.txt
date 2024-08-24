@@ -1,1 +1,3 @@
-Conveniência de rejeição do Projeto de Lei nº 3.674, de 2008, sobre a criação do Fundo Soberano do Brasil - FSB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b7f91951874e79b6c9a1c83eff8d8711f8aa9a6a8a959185f6ac49d2c144295
+size 118

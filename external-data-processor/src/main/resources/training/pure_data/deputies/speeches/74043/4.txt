@@ -1,1 +1,3 @@
-Solicitação aos Deputados do PR de comparecimento ao plenário, para votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66bbb14572e8f43d9cdd66b2e4d71a1b56695a4462a4646af4caad11e9cc8360
+size 93

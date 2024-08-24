@@ -1,1 +1,3 @@
-Homenagem prestada pela Presidenta Dilma Rousseff ao Relator do substitutivo apresentado ao projeto de lei sobre a destinação de recursos de royalties de petróleo para as áreas de saúde e educação, Deputado André Figueiredo, durante a solenidade de sanção da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ce39af05def089c518dc144726859ef4096a657a1877f28cefa84afb01882b2
+size 278

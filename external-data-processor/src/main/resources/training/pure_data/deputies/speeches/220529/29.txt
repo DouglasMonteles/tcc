@@ -1,1 +1,3 @@
-Agradecimento ao Governo Federal pela retomada de obras compactuadas junto ao Fundo Nacional de Desenvolvimento da Educação - FNDE. Apelo ao governo petista por repactuação de contratos de obras educacionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82e617f2fc2091169f15a384ee9634d86dc1c7104f425b0e858f6c02427d36ec
+size 212

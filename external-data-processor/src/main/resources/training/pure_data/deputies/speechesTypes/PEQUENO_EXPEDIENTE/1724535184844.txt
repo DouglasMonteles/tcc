@@ -1,1 +1,3 @@
-Apresentação de requerimento de informações ao Ministro da Economia, Paulo Guedes, sobre o lançamento de política de redução do preço do gás de cozinha e dos combustíveis. Relato sobre reunião da bancada federal nordestina com o Presidente Jair Bolsonaro, destinada à apresentação de pauta de reivindicações da Região ao Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7c424985cdeef28e445c0a6d760b21168ae013a14a9f6951a786061a2aa4f60
+size 355

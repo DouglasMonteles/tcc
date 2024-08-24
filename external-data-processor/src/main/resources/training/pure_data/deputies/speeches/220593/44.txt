@@ -1,1 +1,3 @@
-Distorções do Projeto de Lei nº 6.446, de 2019,&nbsp;sobre a oferta, por fornecedores de mapas para dispositivos de Sistemas de Posicionamento Global - GPS e outros sistemas similares de navegação global por satélite, de recurso de alerta ao usuário em caso de aproximação de áreas com elevado índice de ocorrência de crimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44d3b482c61b7dca5a7d97f362d790da59a3f0e68f9117bb4736a8a893a99904
+size 337

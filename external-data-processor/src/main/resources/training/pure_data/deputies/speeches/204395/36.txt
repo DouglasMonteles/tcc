@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da expressão III - servidores da Defesa Agropecuária, constante da Emenda nº 44, de 2020, apresentada ao Projeto de Lei Complementar nº 39, de 2020, do Senado Federal, referente à instituição do Programa Federativo de Enfrentamento ao Coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dae6f4fc28fea3f623c5b164e08b76e57b4c336f1c97078b72e4fb849e48c9d2
+size 338

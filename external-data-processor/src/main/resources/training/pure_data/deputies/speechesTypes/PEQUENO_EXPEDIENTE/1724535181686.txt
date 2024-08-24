@@ -1,1 +1,3 @@
-Falecimento da fundadora do Movimento dos Focolares, Chiara Lubich, e do advogado Israel Guedes. Liberação de recursos de convênios firmados entre Ministérios e Prefeituras Municipais do Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:809f7912dbfd6f8f0ce0d500c0677e9217c843d7535ffc05af4a778fcc783bfa
+size 210

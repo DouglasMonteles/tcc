@@ -1,1 +1,3 @@
-Falecimento do radialista maranhense Herbert Fontenele.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90bd0a8d06dbbd62d47c6a6053c2206d5ecca48f2af465543bd5505cb0f12b7e
+size 55

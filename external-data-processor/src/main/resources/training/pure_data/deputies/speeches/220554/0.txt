@@ -1,1 +1,3 @@
-Compromisso do orador com a realização de um mandato democrático e participativo, em defesa dos interesses nacionais e do povo gaúcho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83f65f4f7c5cde7151b35cbe39044fe2796a62039933f7630e760f5c642071b2
+size 138

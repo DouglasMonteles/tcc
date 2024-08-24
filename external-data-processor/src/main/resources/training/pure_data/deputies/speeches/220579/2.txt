@@ -1,1 +1,3 @@
-Caráter histórico do descaso governamental com a população indígena. Inadmissibilidade da exploração política do sofrimento do povo ianomâmi. Necessidade de proteção do País contra os interesses internacionais atuantes na Região Amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d023f7c5fdbe9f7c47d3ca64c336110387ce481766f19ec6f32049aa2f3a93a
+size 253

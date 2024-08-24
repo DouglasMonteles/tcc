@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM    ao Requerimento de adiamento, por duas sessões, da votação da   Medida Provisória 567 de 2012 (Altera o art. 12 da Lei 8.177 de 1991, que estabelece regras para a desindexação da economia, e dá outras providências). Protesto contra a não liberação de recursos orçamentários de emendas individuais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e98b8541ac0e08d9d3c8b199322f32f25eadab986db132adc03f2a379e5f0a62
+size 346

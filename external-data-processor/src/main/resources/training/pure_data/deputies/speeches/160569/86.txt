@@ -1,1 +1,3 @@
-Realização, pela Comissão de Educação e Cultura, de audiências públicas destinadas ao debate do Programa Nacional de Acesso ao Ensino Técnico e ao Emprego - PRONATEC, nos Municípios de Salvador e Vitória da Conquista, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d33cba35002a745a153b0d75b7d6900104ddd290b4a365912c4d974715575ed
+size 244

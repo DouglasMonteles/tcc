@@ -1,1 +1,3 @@
-Discussão da Medida Provisória nº 927, de 2020, a respeito das medidas trabalhistas de enfrentamento do estado de calamidade pública, decorrente da pandemia de coronavírus (Decreto Legislativo nº 6, de 2020).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3850d94152cfc6c9340e1929bf884d646719c6af537ce5d4962c069bbc43fe0
+size 214

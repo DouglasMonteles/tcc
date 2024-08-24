@@ -1,1 +1,3 @@
-Equívoco quanto à manutenção da Lei nº 6.683, de  1979, a chamada Lei da Anistia, pelo Supremo Tribunal Federal. Defesa de revisão do diploma legal para a conclusão do processo de redemocratização do País. Anúncio da apresentação do Projeto de Lei nº 573, de 2011, sobre alteração do disposto no art. 1º, § 1º, da Lei da Anistia. Expectativa de constituição, pela Casa, da Comissão Especial destinada ao exame do Projeto de Lei nº 7.376, de 2010, sobre a criação da Comissão Nacional da Verdade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b834de882ef3d456f7967b190511f643a19046aed4fff9d0f50575f7d72af3d9
+size 521

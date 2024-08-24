@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Ministro da Saúde, Luiz Henrique Mandetta, presente na Câmara dos Deputados. Votação pela Casa da Medida Provisória nº 890, de 2019, sobre a instituição do Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde, e a criação do serviço social autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde. Importância da aprovação da proposta de realização do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituições de Educação Superior Estrangeiras - REVALIDA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5f327811c468f3f39c88b75a42a5c2ae0aaaeab42fa58df70ece031e6e74c99
+size 609

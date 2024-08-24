@@ -1,1 +1,3 @@
-Relevância do projeto de lei sobre a criação do novo Plano Nacional de Educação - PNE para o decênio 2011/2020. Aprovação, pela Comissão de Educação e Cultura, de projeto de lei sobre criação de cargos de docentes para as instituições federais de ensino superior e escolas técnicas federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5252b8f75836604758f9b97a1974a4ca2462c00931b57badb76636fe338c1fd6
+size 307

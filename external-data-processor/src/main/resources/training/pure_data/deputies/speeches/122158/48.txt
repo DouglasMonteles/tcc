@@ -1,1 +1,3 @@
-Defesa de extinção das coligações partidárias nas eleições proporcionais a partir de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f192b9c82abffe8828a76fb22bb9077d53a5b0a17db5b5c7a7f8a6ed7f358e7e
+size 97

@@ -1,1 +1,3 @@
-Desrespeito à Casa demonstrado no impedimento, por ativistas, da eleição à Presidência da Comissão de Direitos Humanos e Minorias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64a181338bee71d7acf7536b0d4aa823cb158df3a9c2a59c779d56f651d8ce9e
+size 136

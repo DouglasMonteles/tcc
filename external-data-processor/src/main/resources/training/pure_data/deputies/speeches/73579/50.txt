@@ -1,1 +1,3 @@
-Protesto contra a interrupção, pelo Conselheiro do Tribunal de Contas do Distrito Federal, Renato Rainha, de concurso público para a Polícia Militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34303cf63b410671f40962ebbf80e1078929baa034770c48e6e6003a682307e6
+size 153

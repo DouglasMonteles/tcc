@@ -1,1 +1,3 @@
-Improdutividade das sessões deliberativas convocadas para as segundas-feiras. Lançamento do Programa Territórios de Cidadania, pelo Governo Federal. Críticas à gestão do Governador do Estado do Rio de Janeiro, Sérgio Cabral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96e3c3c710ba0f99fdb19c965d79160934c32c1d06238b144edcf15efdbd57c9
+size 231

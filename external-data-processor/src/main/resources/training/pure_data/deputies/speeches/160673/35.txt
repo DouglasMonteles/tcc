@@ -1,1 +1,3 @@
-Avanço de alteração procedida no Código Florestal brasileiro pelo Senado Federal. Temas prioritários discutidos pela Comissão de Meio Ambiente e Desenvolvimento Sustentável sob a presidência do orador. Ação adotada pelo órgão a respeito do vazamento de petróleo na Bacia de Campos, no Rio de Janeiro, Estado do Rio de Janeiro. Realização pela Comissão de audiência pública destinada à discussão do licenciamento ambiental da Usina Nuclear de Angra II.
+version https://git-lfs.github.com/spec/v1
+oid sha256:993780b964ea5e67db8736a7ec93cb25557bf7fc0ef5458db1b3139af0c653a4
+size 471

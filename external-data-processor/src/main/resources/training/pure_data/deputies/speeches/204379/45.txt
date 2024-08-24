@@ -1,1 +1,3 @@
-Pedido aos Líderes partidários de aprovação da Medida Provisória nº 1.010, de 2020, sobre a isenção de consumidores amapaenses abrangidos pelo estado de calamidade pública, do pagamento da fatura de energia elétrica referente aos últimos 30 dias; e a alteração da Lei nº 10.438, de 2002.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f35d73c0f96757cf878a3e359dfe27ff9f0ebde2d727df60f33885812e403398
+size 301

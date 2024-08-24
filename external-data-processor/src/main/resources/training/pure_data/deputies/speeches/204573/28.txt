@@ -1,1 +1,3 @@
-Necessidade de aprimoramento do texto da Medida Provisória nº 945, de 2020, sobre a adoção de medidas temporárias no âmbito do setor portuário diante da pandemia de coronavírus; e a cessão de pátios sob a administração militar. Defesa de votação de projeto de lei a respeito da suspensão de cobranças previdenciárias dos trabalhadores aposentados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bee95e9088817a57ea7eee9b33ba411569d7b8ced9faafb2f98c4310020cc704
+size 364

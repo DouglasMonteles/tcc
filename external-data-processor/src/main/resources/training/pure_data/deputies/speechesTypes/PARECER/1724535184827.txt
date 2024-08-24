@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Finanças e Tributação, ao  Projeto de Lei 4.881 de 2009 (Altera a redação do § 2º do art. 5º da Lei 10.260 de 2001, para admitir o abatimento do saldo devedor junto ao Fundo de Financiamento ao Estudante do Ensino Superior - FIES, mediante serviço profissional junto ao Sistema Único de Saúde - SUS, nas áreas de Odontologia e Enfermagem, em localidades carentes), apensos os PLs 4.945/09, 4.974/09,  5.413/09, 5.370/09, 5.558/09 e 5.628/09.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b97ec40c3f96f11d52f381031a728c75ee59840b034cc95396694314e926dbac
+size 480

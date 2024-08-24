@@ -1,1 +1,3 @@
-Conduta antiética de Ministros de Estado nomeados pelo Presidente Jair Bolsonaro. Despreparo do Ministro da Saúde para o exercício do cargo. Não funcionamento na prática do Comitê de Crise para Supervisão e Monitoramento dos Impactos da Covid-19. Imediata aprovação de pedido de impeachment contra o Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adec2bdd77a5e2fd2cc9c5d750af77da59e0c50cfb58aca017956cf8bcb79b73
+size 334

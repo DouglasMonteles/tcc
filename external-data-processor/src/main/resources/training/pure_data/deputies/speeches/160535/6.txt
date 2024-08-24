@@ -1,1 +1,3 @@
-Encaminhamento da votação, como Relator,  do § 2º art. 6º da Medida à Provisória 434 de 2008 (Dispõe sobre a estruturação do Plano de Carreiras e Cargos da Agência Brasileira de Inteligência - ABIN, cria as  Carreiras de Oficial de Inteligência, Oficial Técnico de Inteligência, Agente de Inteligência e Agente Técnico de Inteligência, e dá outras providências), que permite aos servidores da Carreira de Oficial de Inteligência, no regime de dedicação exclusiva, prestação de colaboração esporádica, remunerada ou não, em assuntos de sua especialidade e devidamente autorizada pelo Diretor-Geral da ABIN, para cada situação específica, observados os termos do regulamento, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ceca6a2f8c531f0ccb039f9b0157764f7b5704caac87db90a499a594fd4b9de
+size 720

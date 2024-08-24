@@ -1,1 +1,3 @@
-Comissão Geral para debate das taxas de juros vigentes no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2308f8e5e740a00e9b06591f76a0a603a127c361e0a081526ccd9cccee4c5333
+size 65

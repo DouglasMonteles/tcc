@@ -1,1 +1,3 @@
-Transcurso do 67º aniversário de emancipação político-administrativa do Município de Cantanhede, no Estado do Maranhão. Visita do orador ao Município de Imperatriz. Saudações a correligionários do Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b124caddb97eccb62655f26218f8fbad915595635652786840a8c466676bd1d4
+size 220

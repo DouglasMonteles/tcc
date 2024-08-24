@@ -1,1 +1,3 @@
-Compromisso de atuação parlamentar em prol da saúde preventiva, do esporte, da cultura e em defesa da valorização dos nutricionistas e dos profissionais da educação física. Apoio à indicação da atriz Regina Duarte para o cargo de Secretária Especial da Cultura. Esclarecimento sobre as declarações do Presidente da Associação Brasileira dos Promotores de Eventos - ABRAPE, Doreni Caramori, acerca do pagamento de meia-entrada por estudantes em eventos culturais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cddfedf331d9f5d42be2957f99078bb242b3bcaca0327c5eacbb500250814f0a
+size 478

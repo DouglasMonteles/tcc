@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Consciência Negra. Necessidade de aprovação, pela Casa, da proposta de instituição do Estatuto da Igualdade Racial. Ocorrência de maior número de óbitos de pessoas negras no País, comparativamente ao de pessoas brancas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f94ce5272f8c40385a433acaf62c54c91d721abb4c7bf82ed3342ed8459c581
+size 258

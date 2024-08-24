@@ -1,1 +1,3 @@
-Urgente adoção, pelo Ministério da Integração Nacional e pela Secretaria Nacional de Defesa Civil, de ações em prol das populações desabrigadas em decorrência das chuvas no Estado do Piauí. Conclusão das obras do Porto de Luís Correia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:279d54c382b87fba25caf274d796894e7888c93a4f41c6b490b98059eb86ded3
+size 248

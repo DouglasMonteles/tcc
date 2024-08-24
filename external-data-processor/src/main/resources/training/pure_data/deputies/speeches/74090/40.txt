@@ -1,1 +1,3 @@
-Lançamento do Plano Amazonas Sustentável pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2b57914676f3aa103aeb02001034900a1bdc24602eddabb3a8b2781f6e576f4
+size 86

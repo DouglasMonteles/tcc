@@ -1,1 +1,3 @@
-Saudação ao ex-Deputado e ex-Ministro Nilmário Miranda, presente no plenário. Presença de familiares de vítimas da ditadura militar nas dependências da Casa. Defesa de criação da Comissão Nacional da Verdade, destinada ao esclarecimento de fatos ocorridos durante o regime militar. Realização, pela Comissão de Direitos Humanos e Minorias, de audiências públicas destinadas à discussão do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba6ec5f7a89ddf1803e298cc1996639a1d721b42e949de183980d6f7139291ac
+size 414

@@ -1,1 +1,3 @@
-Balanço positivo da visita oficial da Presidenta Dilma Rousseff à República Popular da China. Dificuldades enfrentadas pelo setor têxtil nacional em face do crescimento das importações daquele país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0a4fc92ce9f59acc802fc22590d40eb33bb1ab64946e294d5635d9906b465c6
+size 205

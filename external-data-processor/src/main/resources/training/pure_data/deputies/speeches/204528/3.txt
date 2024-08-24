@@ -1,1 +1,3 @@
-Solidariedade ao Ministro da Economia, Paulo Guedes, diante de ofensas verbais de Parlamentares durante reunião realizada na Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9237cc2f6789d6319e9cf669dadf32038b26b230a5ff70947558dfd16d2e63ba
+size 180

@@ -1,1 +1,3 @@
-Críticas à atuação da imprensa. Equívoco de matérias jornalísticas acerca da reação do orador contra a utilização do seu nome por personagem do filme Tropa de Elite 2.
+version https://git-lfs.github.com/spec/v1
+oid sha256:227fb269e2c5fccb7afed5748622a0b0470d1df0751a1b58d032980fa9bec84d
+size 178

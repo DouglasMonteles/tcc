@@ -1,1 +1,3 @@
-Esclarecimentos sobre declaração feita pelo Ministro da Educação durante a visita à Universidade Federal do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58f5fbe504b16068a3e386c920b2d1be0128cd3f639188ceea5c7b5471cd772b
+size 119

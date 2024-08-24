@@ -1,1 +1,3 @@
-Transcurso do 111º aniversário de construção da Estrada de Ferro Madeira-Mamoré, no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a085196654238964d904dbf46ad1880167bd53933ce1995980d4cb1efea8089
+size 109

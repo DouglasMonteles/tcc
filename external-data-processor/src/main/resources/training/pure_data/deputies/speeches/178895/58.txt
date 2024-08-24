@@ -1,1 +1,3 @@
-Imediata adoção de medidas de proteção ao agronegócio diante de crise econômica interna e externa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d3c4fa16c775ad2222ba27746e9fffe39695a1b41fc66a7ce653620198010c7
+size 104

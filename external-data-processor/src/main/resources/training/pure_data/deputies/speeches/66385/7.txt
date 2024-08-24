@@ -1,1 +1,3 @@
-Ocupação pelo Estado do Piauí do 4º lugar entre os Estados brasileiros com capacidade instalada de geração de energia eólica. Importância da concessão de inventivos governamentais à exploração da fonte energética.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bae2c6dc4772c27391608768a7476081dacf8bd75c6cf7396e210a815b03fbbd
+size 226

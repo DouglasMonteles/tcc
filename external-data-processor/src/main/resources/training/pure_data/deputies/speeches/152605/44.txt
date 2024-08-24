@@ -1,1 +1,3 @@
-Expectativa dos jovens brasileiros quanto à aprovação, pelo Congresso Nacional, das propostas de criação do Estatuto da Juventude, do Plano Nacional de Juventude e da chamada PEC da juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9744204c667073a1d8114ff205b27f91128d1d3faa8341c3f725a8ff4189b87f
+size 197

@@ -1,1 +1,3 @@
-Reexame pelo Ministério Público Federal da decisão de fechamento de rodovia em face do preço de pedágio, no Município de Soledade, Estado do Rio Grande do Sul. Congratulações ao Governador Tarso Genro pela adoção de novas regras para a cobrança de pedágios rodoviários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6b8aaf52d802c5c3d5cd1039b25bc5abd683502a5c948887b7023e015a97d04
+size 282

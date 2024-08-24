@@ -1,1 +1,3 @@
-Conquista pela estudante Maria Isabel, do Município de Cariús, Estado do Ceará, do 6º lugar no vestibular de Medicina da Universidade Federal do Cariri - UFCA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:099c61aa95fad3290259c96eaff8cab6970f4c2284e753b8271bcc4ab620adfa
+size 163

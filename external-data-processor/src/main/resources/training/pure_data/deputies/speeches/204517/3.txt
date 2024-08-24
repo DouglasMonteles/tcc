@@ -1,1 +1,3 @@
-Anúncio da realização no Município de Araguari, Estado de Minas Gerais, de reunião para debate da segurança nas escolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af1018ad462045e716a94c991cb5671e12c3e3af0013f1876108bf199ebd1a3b
+size 126

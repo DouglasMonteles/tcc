@@ -1,1 +1,3 @@
-Apelo à Casa de votação da Medida Provisória nº 890, de 2019, sobre a instituição do Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde, e a criação do serviço social autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1ddd08bb306b18e14f0c561b3b01a3836cc42afbabad60e14911b3e99f370fd
+size 315

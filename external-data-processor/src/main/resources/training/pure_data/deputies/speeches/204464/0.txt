@@ -1,1 +1,3 @@
-Contestação ao discurso proferido por Deputado a respeito do ex-Deputado Jean Wyllys. Perseguição praticada contra as minorias no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:442d939d8736bacd65d67e2f7aa22b97d68f64a989d1db4376ca375bf50fd2a3
+size 140

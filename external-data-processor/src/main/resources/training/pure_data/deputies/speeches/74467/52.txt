@@ -1,1 +1,3 @@
-Falecimento do Pastor Francisco Pacheco de Brito, Líder da Igreja Evangélica Assembleia de Deus no Município de Campina Grande, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:045eaa8bd9d2dedb9b73af36acaf3305e43c0251cc5b04dda465ab9c242c3313
+size 150

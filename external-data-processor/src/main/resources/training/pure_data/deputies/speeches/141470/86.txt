@@ -1,1 +1,3 @@
-Encaminhamento à Assembleia Legislativa do Estado do Ceará, pelo Governador Cid Ferreira Gomes, de projeto de lei complementar sobre a criação da Região Metropolitana do Cariri.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63858898786189e74b9a5a988fef853488bf49865044278c1d1375e75c727605
+size 182

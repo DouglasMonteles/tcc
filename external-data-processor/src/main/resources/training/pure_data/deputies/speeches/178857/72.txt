@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar Mista em Defesa do Sistema Único de Saúde - SUS. Realização da Marcha em Defesa do SUS em Brasília, Distrito Federal. Solicitação à Presidência de votação, em segundo turno, da Proposta de Emenda à Constituição nº 1, de 2015, sobre o valor mínimo de aplicação anual pela União em ações e serviços públicos de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53adb5596852c2f4c37a0c71300b931d2c63d97160a10c8a708ca3ea0f95766d
+size 371

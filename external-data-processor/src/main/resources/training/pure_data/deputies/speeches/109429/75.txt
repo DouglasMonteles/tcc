@@ -1,1 +1,3 @@
-O Deputado agradeceu o Relator, Deputado Aguinaldo, ela aprovação do Projeto de Lei nº 4.287, de 2023, que dispõe sobre a autorregularização incentivada de tributos administrados pela Secretaria Especial da Receita Federal do Brasil. Instou a aprovação do Projeto Lei do Congresso Nacional nº 40, de 2023, que trata de saldar perdas fiscais de Estados e Municípios, assegurando pagamentos de pessoal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a13499cbe4d6dad242e2958dd42bda6f2e52a5460a5e75043507be09e6181a2
+size 410

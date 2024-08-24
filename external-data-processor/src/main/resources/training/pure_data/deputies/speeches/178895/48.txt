@@ -1,1 +1,3 @@
-Importância da garantia do direito à propriedade e da livre iniciativa para a retomada do crescimento econômico do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1eaac0357b97649a92ed020ac1cf526050f525dbf8d601c0fcea93d38eeb8ef
+size 124

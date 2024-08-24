@@ -1,1 +1,3 @@
-Transcurso do Dia do Ferroviário. Exaltação do trabalho da Associação Brasileira de Preservação Ferroviária em prol da recuperação e conservação do patrimônio histórico ferroviário. Viagem inaugural da locomotiva a vapor Mallet 204, a partir da estação do Município de Rio Negrinho, Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01eb3a86a6e0a7b14069f35e7b300f92a044d7d6add46113e3454aba68b68885
+size 326

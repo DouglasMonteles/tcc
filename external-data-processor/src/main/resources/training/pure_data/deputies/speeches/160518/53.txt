@@ -1,1 +1,3 @@
-Agradecimento aos signatários do requerimento de tramitação, em regime de urgência, do projeto de decreto legislativo sobre a devolução aos consumidores de valores cobrados a maior em tarifas de energia elétrica. Excelência da atuação do Deputado Eduardo da Fonte. Solidariedade à greve de docentes pelo recebimento do piso salarial nacional dos profissionais do magistério público da educação básica, no Estado de Minas Gerais. Aprovação, pela Comissão de Defesa do Consumidor, de requerimento de realização de audiência pública destinada ao debate da atuação da empresa de telefonia TIM - Telecom Italia Mobile.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c72734fb167d63034980f6a1245de15d0846eb4a029235222d4c6a0949c8297
+size 638

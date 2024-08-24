@@ -1,1 +1,3 @@
-Discussão, com a comunidade de João Barroca e vizinhança, da construção de barragem de rejeitos da empresa Bahia Mineração S/A - BAMIN na região do Município de Guanambi, Estado da Bahia. Anúncio de realização, pela Comissão de Minas e Energia, de audiência pública para debate do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a1d8ada9c80c1f77c25b7984bb2bf495e92106b297bdb4913f659b6355f6a99
+size 304

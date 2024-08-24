@@ -1,1 +1,3 @@
-Apoio à decisão do Tribunal Superior Eleitoral de cassação do mandato parlamentar do Deputado Deltan Dallagnol. Perseguição política ao Presidente Luiz Inácio Lula da Silva, praticada pelo ex-Deputado em conjunto com o Senador Sergio Moro no âmbito da Operação Lava-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50cdd2fad44f2ed38daef0f52e712456cddcbd954bd4e412dc70068bc6bf8fd2
+size 282

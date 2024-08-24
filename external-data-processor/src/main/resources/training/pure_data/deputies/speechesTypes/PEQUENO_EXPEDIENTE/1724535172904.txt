@@ -1,1 +1,3 @@
-Instalação da Comissão Nacional da Verdade, destinada à investigação de violações de direitos humanos durante o regime militar. Protesto contra o adiamento da votação, pela Comissão de Seguridade Social e Família, do projeto de lei complementar sobre a taxação de grandes fortunas. Inadmissibilidade da redução dos vencimentos de servidores ocupantes do cargo de Médico, preconizada na Medida Provisória nº 568, de 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d9633e8ae9aaeae50fca12875f453a6ba165b54b524174bb25f48da51370308
+size 439

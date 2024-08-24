@@ -1,1 +1,3 @@
-Necessidade de maior divulgação da carne suína com vistas ao aumento do consumo do produto no País. Importância de atendimento à pauta de reivindicações dos suinocultores brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47e36516eca6c572865ce9de20d8348470195936c1b76093a81e10e6662000bf
+size 191

@@ -1,1 +1,3 @@
-Importância de aprovação pela Casa do Projeto de Lei nº 3.723, de 2012, sobre a redução da carga tributária imposta às empresas da área de saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61ec5f8415bbc24a9ef3040624733248a2e22b7ae5a1890304c105c672f8c2a4
+size 167

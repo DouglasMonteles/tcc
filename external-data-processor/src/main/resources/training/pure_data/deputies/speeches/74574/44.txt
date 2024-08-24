@@ -1,1 +1,3 @@
-Empenho do Governador em exercício do Estado da Bahia, Otto Alencar, na manutenção da BR-324. Caráter desrespeitoso do tratamento dispensado por diretores da Agência Nacional de Transportes Terrestres - ANTT ao Governador Otto Alencar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:508b9981237ae1aadf7d13e1131d02e831282e90e59b61b76e9cb0c15ff0f1f6
+size 240

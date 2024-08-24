@@ -1,1 +1,3 @@
-Apelo ao Ministro da Infraestrutura, Tarcísio Gomes de Freitas, e ao Secretário Nacional de Portos, Diogo Piloni, por adoção de medidas de proteção da vida dos portuários diante da epidemia de coronavírus. Pedido ao Presidente Arthur Lira de inclusão na pauta de projeto de lei sobre a permissão, aos trabalhadores avulsos de portos, do saque de recursos do Fundo de Garantia do Tempo de Serviço - FGTS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ade9031692fbefaf0244ffa7c5471de9708f7274f74b563f883ddf8a14cc7f3e
+size 414

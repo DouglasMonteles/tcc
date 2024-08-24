@@ -1,1 +1,3 @@
-Presença, na Casa, do Prefeito Sivaldo Albino e de Vereadores do Município de Garanhuns, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c4fdff0d722dc8887f1a79612e474c869abbd6bd5a7b0efc8f9a59dbc757e9b
+size 112

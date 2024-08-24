@@ -1,1 +1,3 @@
-Contrariedade ao armamento da população civil. Pedido a hacker, pelo ex-Presidente Jair Bolsonaro, de invasão de urnas de votação eletrônica para comprovação da fragilidade do sistema eleitoral brasileiro. Morte de trabalhadores durante a operação realizada pela Polícia Militar no Município de Guarujá, após o assassinato de membro da corporação pelo crime organizado. Precariedade da estrutura da área de segurança pública de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c3996a1f5e347e089ef5199fe1be9caf07008f444e7ce7967f05dadcadfd3b5
+size 480

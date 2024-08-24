@@ -1,1 +1,3 @@
-Aviso ao Plenário sobre a realização de sessão no dia 12 de março de 2008, às 15h. Apelo aos Líderes partidários de concretização de acordo com vistas à agilização das votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f770a40503971976e851d2b3392a1f106b9cc60568acf1e044297db263c6ccee
+size 192

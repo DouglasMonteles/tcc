@@ -1,1 +1,3 @@
-Confirmação pelo orador da destinação de recursos de emendas impositivas às Prefeituras Municipais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:165766f5e332f1d40e326f283724dee92b9a2752239675a7c3be3244255daa11
+size 116

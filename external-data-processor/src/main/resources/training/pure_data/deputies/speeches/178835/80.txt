@@ -1,1 +1,3 @@
-Homenagem ao ex-Presidente Getúlio Vargas, ao ensejo do transcurso do 61º aniversário de seu falecimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27945646353c85296341c524bb1ca479d3544da9fbecce0c30c4d5938edabfff
+size 108

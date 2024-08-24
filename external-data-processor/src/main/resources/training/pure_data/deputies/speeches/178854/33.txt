@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque de preferência para votação do texto original da Medida Provisória nº 1.031, de 2021, acerca da privatização das Centrais Elétricas Brasileiras S/A - ELETROBRAS, em detrimento do Projeto de Lei de Conversão nº 7, de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50ccf9996d846319bae897d3d3e6cff868597ee42d56bca9dc1847c961aa4da2
+size 296

@@ -1,1 +1,3 @@
-Presença na Casa de lideranças políticas do Município de Grajaú, Estado do Maranhão. Agradecimento ao Ministro dos Transportes, Portos e Aviação Civil, Maurício Quintella Lessa, pelo tratamento dispensado às autoridades grajauenses durante audiência sobre a instalação do aeroporto regional de Grajaú.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24755be64c746b4cdbf1510e19977f50b5b1110fd289adbf2da9911f189d6dcf
+size 315

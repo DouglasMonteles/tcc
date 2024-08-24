@@ -1,1 +1,3 @@
-Ameaça de demissão de servidores da Companhia de Saneamento Básico do Estado de São Paulo - SABESP, da Companhia de Tecnologia de Saneamento Ambiental - CETESB e de outras empresas estatais paulistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8adab7ac6ddc93a983ff4d8322477d3466a21ded73fc6ab6884112e1d508e85e
+size 204

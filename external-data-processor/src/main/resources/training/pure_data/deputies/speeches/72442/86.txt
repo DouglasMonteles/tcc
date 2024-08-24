@@ -1,1 +1,3 @@
-Não comparecimento dos Ministros do Meio Ambiente, Ricardo Salles, e do Turismo, Gilson Machado Neto, em audiência pública na Comissão de Turismo para debate do impacto da exploração de petróleo na atividade turística do arquipélago de Fernando de Noronha. Anúncio da apresentação de requerimento de convocação do Ministro do Turismo para esclarecimento do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bc28c062f778576963743f8d8178f2d42dec6aed912e82947844eec523a5f41
+size 376

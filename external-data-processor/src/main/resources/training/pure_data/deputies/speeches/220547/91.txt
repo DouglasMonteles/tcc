@@ -1,1 +1,3 @@
-O Deputado apresentou Questão de Ordem relacionada à organização da pauta na Câmara dos Deputados. Argumentou que o Regimento Interno da Câmara estabelece que a agenda mensal deve ser organizada com antecedência, permitindo que os parlamentares e suas equipes estudem as matérias que serão apreciadas. Expressou preocupação com a imprevisibilidade na divulgação da pauta, afirmando que isso dificulta a preparação adequada para as votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e27042ae6c0ecc75b1110f1bc540e24bda7c61408c07a6c86a0835a6688e825
+size 457

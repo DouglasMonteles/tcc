@@ -1,1 +1,3 @@
-Desenvolvimento socioeconômico do Estado do Espírito Santo. Maiores investimentos do Governo Federal no setor de infraestrutura e na capacitação de mão de obra no Estado. Realização de debates sobre o futuro do Espírito Santo, por ocasião  do transcurso do 15º aniversário de fundação da Rádio CBN Vitória. Liberação de recursos ao Estado pela PETROBRAS. Relação fiscal entre o Estado do Espírito Santo e a União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9367dacfae3a61e5f32f924631af5f034f48b140064f9e7e1ceca9e89b7cab33
+size 434

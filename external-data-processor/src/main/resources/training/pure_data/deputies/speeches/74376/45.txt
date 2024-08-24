@@ -1,1 +1,3 @@
-Realização da Festa da Linguiça no Município de Maracaju, Estado de Mato Grosso do Sul. Apoio do Governo Estadual e do Ministério do Turismo ao evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d15fc59364dd946e58e60f2f6e9b3a094df749c4b07dfc6d00360b641141141
+size 156

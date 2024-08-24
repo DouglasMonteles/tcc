@@ -1,1 +1,3 @@
-Realização de encontro para debate da concessão pelo BNDES de financiamentos a Municípios, em Teresina, Estado do Piauí. Participação em evento promovido pela bancada federal nordestina destinado à discussão de medidas para redução do índice de pobreza na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd19cffcdd3841a0be2d859ea63096c1dfe0f650f12ce615adb557575ddbd624
+size 276

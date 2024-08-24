@@ -1,1 +1,3 @@
-Regozijo com a aprovação do parecer da Comissão Especial destinada à análise de projeto de lei relativo à regulamentação das atividades dos agentes comunitários de saúde e agentes de combate a endemias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecd2f8d6b75de95d7bad430ac51c4e5d6f02c53cc34978411b561ec2e2485a74
+size 212

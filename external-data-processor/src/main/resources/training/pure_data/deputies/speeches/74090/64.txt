@@ -1,1 +1,3 @@
-Realização, pelo Estado do Amazonas, de empréstimo no Banco Mundial para financiamento do projeto de desenvolvimento sustentável da região do Alto Solimões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13bc0096effc2544279f3c657fa75150dbd12795969b30e8749f642a12695c8e
+size 162

@@ -1,1 +1,3 @@
-Eleição do Papa Francisco. Inconsistência das afirmações do Deputado Domingos Sávio sobre a falta de investimentos do Governo Federal no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a485f65fc2d7d78f1d84d2c3fe0f0122ed493d358240067633233a7e1d587faa
+size 166

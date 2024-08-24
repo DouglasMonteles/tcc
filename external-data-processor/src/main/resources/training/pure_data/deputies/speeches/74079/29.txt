@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 13, apresentada ao Projeto de Lei Complementar nº 211, de 2021, sobre o estabelecimento de limites de tributação de bens essenciais, especialmente de energia elétrica, petróleo, telecomunicações e gás natural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5afd6705e3c5ed2bde4bcc0569c3848cbb38f1033f889d979fea1f4edc33ccc
+size 336

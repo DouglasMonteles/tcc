@@ -1,1 +1,3 @@
-Inconformismo com o aumento do quantitativo de casos de sífilis no Brasil. Apresentação de Proposta de Fiscalização e Controle nº 81, de 2016, com vistas à apuração, pela Comissão de Fiscalização Financeira e Controle, de problemas relacionados à sífilis e respectivo tratamento no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53dc52cf3cae637929450a95d14437d1264fccbb480ef04f1b0361a7e9e1e86f
+size 302

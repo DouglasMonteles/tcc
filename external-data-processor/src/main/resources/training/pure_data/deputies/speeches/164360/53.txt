@@ -1,1 +1,3 @@
-Discussão da Medida Provisória 536 de 2011 (Dá nova redação ao art. 4º da Lei 6.932 de 1981, que dispõe sobre as atividades do médico-residente). Defesa da aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2cc8f83bf6fb4bdf42d8bc77218f6987226e61be0ed5a341236a374f1a1a809
+size 188

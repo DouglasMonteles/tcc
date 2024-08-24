@@ -1,1 +1,3 @@
-Participação do orador em eventos nos Municípios de Araguaína e Paraíso, Estado do Tocantins. Apoio ao pleito dos professores do Estado em greve por aumento salarial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:118126297e3f8df377d02013507e345a282070b9ff39e184cfcefb36a9677a9d
+size 171

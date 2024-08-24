@@ -1,1 +1,3 @@
-Agradecimentos ao Ministro da Agricultura, Pecuária e Abastecimento por assinatura, no Município de Cafelândia, Estado do Paraná, de convênios relativos ao Programa Produção Integrada de Sistemas Agropecuários em Cooperativismo e Associativismo Rural - PISACOOP. Apoio do Governador Beto Richa ao cooperativismo paranaense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85fd1ddea6d97b59117767728f1d840133c86b15a0fe3aad73ba404873c6fcb0
+size 331

@@ -1,1 +1,3 @@
-Repúdio a nota técnica do Ministério da Educação sobre definição de ideologia de gênero. Pretensão do documento de desconstrução da família tradicional em atendimento ao movimento Lésbicas, Gays, Bissexuais, Travestis, Transexuais e Transgêneros - LGBTTT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22c174abb95d24862b5526dd8a2396fbf19b3e00b3aa5b544be95312a192cf73
+size 269

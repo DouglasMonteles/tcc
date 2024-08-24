@@ -1,1 +1,3 @@
-Anúncio da visita dos Parlamentares da CPI da Violência contra Jovens Negros e Pobres ao Estado do Espírito Santo. Necessidade de um novo marco legal para os programas de proteção a pessoas ameaçadas no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:680bbb06b5f0becb3c0e85d82a0a89b8290c4da5357325176637edd2a4891154
+size 216

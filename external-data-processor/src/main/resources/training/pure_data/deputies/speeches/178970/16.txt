@@ -1,1 +1,3 @@
-Posse da Presidenta do Instituto Nacional de Colonização e Reforma Agrária - INCRA, Lúcia Falcón.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9da018abac172c4f397174b4a6c9244348db3a5e793f56c6e29d8f1f81a2a3bb
+size 102

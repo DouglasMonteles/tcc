@@ -1,1 +1,3 @@
-Transcurso do 22º e do 120º aniversários de emancipação político-administrativa, respectivamente, dos Municípios de São José da Vitória e Andaraí, Estado da Bahia. Participação na Festa do Divino Espírito Santo no Município de Andaraí. Inauguração do Calçadão Carlos Aguiar na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6cfebdb638c6e62aad39c90bf89b30d3e245a74af9598b69d825b252e9406ff
+size 312

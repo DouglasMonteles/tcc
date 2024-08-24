@@ -1,1 +1,3 @@
-Contrariedade ao acatamento, pelo Supremo Tribunal Federal, de ações sobre a descriminação de drogas no País e a interrupção da gravidez até a 12ª semana de gestação. Usurpação, pela Suprema Corte, da prerrogativa legiferante do Parlamento brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f03b64f40b3e3240d074e567584c49b209b895dc0e755cfd7ef64bb53f414b0
+size 264

@@ -1,1 +1,3 @@
-Comemoração dos 186º aniversário de criação da Polícia Militar do Estado de Pernambuco. Congratulações ao Governador Eduardo Campos pelo apoio à corporação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd265c64ad8b503f0cdc4435c68ac4a9fd7ba6e2a2ca9b9bf20e5e93a8375925
+size 168

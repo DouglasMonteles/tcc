@@ -1,1 +1,3 @@
-Aumento dos índices de desmatamento na Amazônia. Açodamento na liberação, pelo Conselho Nacional de Biossegurança, da comercialização de milho transgênico no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26558d57e03dc6f19c149c8bab000d155d608e34dfad7449cf3f94dc850d3ba7
+size 173

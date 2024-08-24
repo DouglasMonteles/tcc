@@ -1,1 +1,3 @@
-Maior atenção do Governador do Estado do Rio de Janeiro, Wilson Witzel, para com as necessidades dos policiais militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad132fdb6fcbe9b94419aa565853da0e51f397a0fa74b2867db2e51da730ace3
+size 123

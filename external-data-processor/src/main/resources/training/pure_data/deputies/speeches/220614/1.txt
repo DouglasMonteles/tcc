@@ -1,1 +1,3 @@
-Apresentação de requerimento de informação à Agência Nacional de Vigilância Sanitária - ANVISA sobre resolução acerca da obrigatoriedade do uso de máscaras nos aeroportos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56feb6e4d07a7ee0e919a3394b8536ab3c86dbb2f6045a36eed338f23992e848
+size 194

@@ -1,1 +1,3 @@
-Repúdio à deturpação de pregações do orador para disseminação de conflitos entre evangélicos e católicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3887708d8eb5616a0962469972b74e8e265c94601f1c289d87c33507a3e099f5
+size 115

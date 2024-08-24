@@ -1,1 +1,3 @@
-Apoio à proposta de reforma previdenciária apresentada pelo Governo Jair Bolsonaro. Denúncia de desvio de salário de funcionária pela Deputada Erika Kokay.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1c93455fd51b7e4f3ee5f5f1af3d5901635d35f706cebe547676e3a6b656aff
+size 160

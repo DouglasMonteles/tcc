@@ -1,1 +1,3 @@
-Congratulações ao Deputado Sóstenes Cavalcante pela aprovação de parecer de sua autoria ao projeto de lei sobre a adoção. Referência ao nome do Governador do Estado do Paraná, Beto Richa, e de Deputados Estaduais em delação no âmbito da Operação Quadro Negro, destinada à investigação de irregularidades na construção de escolas públicas no Estado. Necessidade de instalação, pela Assembleia Legislativa paranaense, de CPI destinada à investigação de denúncias contra políticos citados na Operação. Expectativa de homologação da delação pelo Ministro Luiz Fux, do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e8ed0091905331d5fac8117381ced4c66187e80e7b631d656373580cc616b2b
+size 622

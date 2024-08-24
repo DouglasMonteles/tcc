@@ -1,1 +1,3 @@
-Pedido ao Tribunal Superior Eleitoral de não extinção das zonas eleitorais dos Municípios de Juquiá e São Luiz do Paraitinga, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3b4b29fea76f4c9b2640da420fd910a2a95a88fe138e6aca95f70a3f716105a
+size 153

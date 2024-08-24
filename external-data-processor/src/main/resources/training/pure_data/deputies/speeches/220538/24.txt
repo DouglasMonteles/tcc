@@ -1,1 +1,3 @@
-Expectativa quanto à sanção, pelo Presidente da República, do projeto de lei de conversão à Medida Provisória nº 415, de 2008, a respeito da proibição de qualquer concentração de álcool no sangue de condutor de veículo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:101f2a2113241734348d8b377fadb6b22825bd7d3746efa86c3022f5ed5d2d9d
+size 233

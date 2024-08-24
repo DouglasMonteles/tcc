@@ -1,1 +1,3 @@
-Histórico de programas desenvolvidos no País para a implantação da educação em tempo integral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d747e28dfb70e5602dd6bb6c40b891c21e93ea175410101ace982563a924e4f
+size 100

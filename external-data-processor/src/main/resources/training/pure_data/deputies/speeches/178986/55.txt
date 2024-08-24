@@ -1,1 +1,3 @@
-Participação do orador, na condição de 2º Vice-Presidente da Comissão de Direitos Humanos e Minorias, em manifestação no Município de Paraty, Estado do Rio de Janeiro, pela punição dos autores do homicídio do jovem Jaison Caique Santana, vítima de conflito de terra entre moradores e a empresa Trindade Desenvolvimento Territorial - TDT. Pedido de proteção à única testemunha do crime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc1d852c55307ea42dcb187adc2af1f13f01d83e97873b628b0ed707436b23fa
+size 402

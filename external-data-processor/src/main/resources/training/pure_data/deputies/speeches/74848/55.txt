@@ -1,1 +1,3 @@
-Repúdio à ação policial praticada contra participantes em manifestação realizada no Rio de Janeiro por ocasião do transcurso do aniversário do movimento militar de 1964. Imediata instalação da Comissão Nacional da Verdade, destinada à investigação da violação de direitos humanos durante o regime militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce788d32ae9098847fc537cf757547629a7d49f16fb6e1df83d49ba4db7538d1
+size 321

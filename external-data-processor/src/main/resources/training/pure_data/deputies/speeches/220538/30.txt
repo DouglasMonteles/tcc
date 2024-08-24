@@ -1,1 +1,3 @@
-Transcurso do Dia do Professor. Indignação do orador com o descumprimento, pelo Governo do Estado do Rio Grande do Sul, da lei federal relativa à instituição do piso salarial nacional do magistério público. Inadmissibilidade de redução de recursos destinados à área de segurança pública do Rio Grande do Sul. Transparência das eleições do Conselho Regional de Enfermagem de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f53fe438fa50f92b9dff369915d8b8ebfe940a8c5aa14b34b87d198f444c57c1
+size 405

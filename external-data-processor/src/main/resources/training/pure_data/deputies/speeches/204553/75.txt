@@ -1,1 +1,3 @@
-Solidariedade às populações de Salvador e sua região metropolitana atingidas pelas chuvas intensas. Importância da atenção do Governo Federal e do Governo do Estado da Bahia às famílias desabrigadas por inundações. Elogio à Presidência pela condução dos trabalhos no plenário. Importância da realização do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituições de Educação Superior Estrangeiras - REVALIDA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0359704fdbbfac914d3e579916194047070dd29ae9dc91abd2f337ed50f20f9
+size 454

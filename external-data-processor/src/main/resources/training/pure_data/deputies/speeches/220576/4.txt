@@ -1,1 +1,3 @@
-Apresentação de requerimento de instalação de Comissão Externa para acompanhamento dos danos causados pela empresa petroquímica Braskem em decorrência da exploração do subsolo no Município de Maceió, Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a863ccc050d22cf24e17743ea805599f7d16c9195704e1eab47a645d834b98ba
+size 229

@@ -1,1 +1,3 @@
-Perplexidade ante o acesso do jornal O Estado de S. Paulo  a inquérito sigiloso, revelado no diálogo entre hacker  e a ex-Deputada Federal Manuela d'Ávila. Acerto da votação do Projeto de Lei nº 7.596, de 2017, acerca dos crimes de abuso de autoridade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:265491e35ab9954dd0f2dc1274bd319ba9fde709a08902dc1addf2a908511747
+size 258

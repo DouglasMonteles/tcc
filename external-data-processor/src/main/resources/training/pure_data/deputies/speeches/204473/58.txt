@@ -1,1 +1,3 @@
-Necessidade de atendimento às reivindicações dos profissionais da segurança pública no âmbito da Proposta de Emenda à Constituição nº 186, de 2019, a chamada PEC Emergencial, sobre a criação de mecanismos de ajuste fiscal. Repúdio às decisões contrárias à prescrição de medicamentos para o tratamento precoce da Covid-19. Efeitos da negligência nos investimentos na área de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a395b5354fa5f1191e93d3e30c0144f33d118c19eebc678fa2cf93cf423b5963
+size 402

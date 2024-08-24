@@ -1,1 +1,3 @@
-Realização de greve pelos servidores da educação no Distrito Federal. Apoio da bancada federal brasiliense às reivindicações da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:218547fb74a15811b419d061a9b3a95ac914dfe1d9bd6d001b0cc574751fe351
+size 145

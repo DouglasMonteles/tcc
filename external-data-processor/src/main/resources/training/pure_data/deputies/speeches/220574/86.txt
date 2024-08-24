@@ -1,1 +1,3 @@
-Apelo ao Governador do Estado da Paraíba, João Azevedo, de cumprimento da legislação relativa à correção salarial dos servidos públicos na data-base da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f97b3c651d8d5e47a951d5b6a96a121b14a230ad33f91af8ca47c6173b4377b
+size 170

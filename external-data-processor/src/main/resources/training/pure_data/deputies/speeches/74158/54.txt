@@ -1,1 +1,3 @@
-Discussão pela Casa da reforma política. Considerações críticas sobre o instituto da fidelidade partidária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9bdc382fc4a17a123a69c54c0530c0ef6382e3b86115493dadc1b507cfc225
+size 113

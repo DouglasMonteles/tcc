@@ -1,1 +1,3 @@
-Recebimento de correspondência da Associação Brasileira Beneficente de Reabilitação - ABBR, de agradecimento ao orador pela alocação de recursos orçamentários à entidade. Constatação, pelo Ministério da Saúde, da não aplicação de recursos na saúde por Estados brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:870d4d64388291a79983825ac73233a4a09c9b34b0ab7636138e301ced0bbb0d
+size 290

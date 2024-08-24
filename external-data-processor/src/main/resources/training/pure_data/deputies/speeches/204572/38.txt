@@ -1,1 +1,3 @@
-Moção de elogio à Força Aérea Brasileira pelo resgate do amazonense Imecson Pantoja no Paraguai, portador de paralisia rara. Defesa da aprovação, na íntegra, de proposta anticrime encaminhada ao Congresso Nacional pelo Ministro da Justiça e Segurança Pública, Sergio Moro. Eficácia da matéria no combate às organizações criminosas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04dbf489221950a59fc885bf14d8c7fd0bbc7fb3d660f2cd1755759560d9e66c
+size 347

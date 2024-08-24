@@ -1,1 +1,3 @@
-Resultado da audiência pública realizada pela Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia, destinada ao debate do projeto de irrigação do Vale do Iuiu, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75acd37029c114840be4fc6f1d4dafbfafe5c7ffa28e9eab7de352d1582b3d58
+size 207

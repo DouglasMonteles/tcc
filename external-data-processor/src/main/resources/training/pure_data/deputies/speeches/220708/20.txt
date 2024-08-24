@@ -1,1 +1,3 @@
-O Deputado expressou sua alegria pelo Governador Jerônimo Rodrigues ter realizado importantes entregas em Quijingue, Bahia. Foram inauguradas duas escolas com investimentos de mais de 38 milhões de reais, além de uma nova sede da 4ª Companhia Independente da PM, fortalecendo a segurança pública na região. Destacou a autorização para a construção de estrada que interligará Quijingue a Cansanção e elogiou o Governo da Bahia pelo foco em investimentos e desenvolvimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3617102c4805621ea5f8200f3223be5c2a6551e855088b9b9a64c654735994b2
+size 485

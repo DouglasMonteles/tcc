@@ -1,1 +1,3 @@
-Inauguração, pelo Governador Flávio Dino, do Hospital Regional Dr. Jackson Lago, no Município de Pinheiro, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b42d293eb212d2d3985daa85b38ecf71d6771de9c4404c8f15d06cd9d8d70fa2
+size 131

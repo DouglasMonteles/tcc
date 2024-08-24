@@ -1,1 +1,3 @@
-Agradecimento à base governista pela persistência na votação da Medida Provisória dos Portos. Elogio ao Presidente Henrique Eduardo Alves pela condução das votações da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8708f9b201c7cb1406bb3cdd4f425dd4a31ff3cec32349bfd1212db1d5a86de4
+size 186

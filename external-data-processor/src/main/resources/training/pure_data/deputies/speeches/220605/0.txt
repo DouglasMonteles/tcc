@@ -1,1 +1,3 @@
-Debate do Programa de Fortalecimento dos Esportes Olímpicos no Brasil - PROFORTE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98d821599cf2da3ee00b1d552b78c351340c088daa3d65dffe5bf81758350af7
+size 82

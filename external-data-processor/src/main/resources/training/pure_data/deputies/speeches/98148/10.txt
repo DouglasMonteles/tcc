@@ -1,1 +1,3 @@
-Homenagem à memória do ex-Governador do Estado de Santa Catarina, Luiz Henrique da Silveira, ao ensejo do transcurso dos 8 anos do seu falecimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d3f966a8b2f07aa7adfa9b37e242d68bb8f42733951a99718f176a62c0a19e0
+size 149

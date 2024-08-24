@@ -1,1 +1,3 @@
-Motivo da exclusão do Brasil de reunião da Organização Internacional do Café, realizada em Londres, Inglaterra. Descaso do Governo Jair Bolsonaro com a cafeicultura nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51b942a82035bd0dd895ef63f6db5dd09b91f77da452f338002041d5e3e09b1c
+size 179

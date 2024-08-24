@@ -1,1 +1,3 @@
-Repúdio a matérias de órgãos da imprensa sobre a prisão de pastores da Igreja Evangélica Assembleia de Deus no Município de Veranópolis, Estado do Rio Grande do Sul, em decorrência da Operação Deus Tá Vendo, da Polícia Civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1ee2a9f49756dfe5ce025e68dc296c907b06deb3bd24dd20ef0932385789a62
+size 238

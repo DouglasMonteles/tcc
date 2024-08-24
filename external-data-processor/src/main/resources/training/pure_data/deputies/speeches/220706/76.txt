@@ -1,1 +1,3 @@
-O Deputado discursou na Comissão Geral reunida para debater os cuidados paliativos no âmbito do sistema brasileiro de saúde, enfatizando a necessidade de UBS geriátricas e direitos dos idosos. Abordou a situação da colheita da soja.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfe2b89521399d010b537beb84eb58073a0f5d65363b21af6308836674f956fd
+size 238

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, à Medida Provisória nº 923, de 2020, sobre a alteração da Lei nº 5.768, de 1971, relativa à distribuição gratuita de prêmios mediante sorteio, vale-brinde ou concurso, a título de propaganda, e o estabelecimento de normas de proteção à poupança popular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dce81f7017cf4c07d1e9ff4de6bf2f2cc7c9880e6ce3cdaff11b81b9303766b
+size 467

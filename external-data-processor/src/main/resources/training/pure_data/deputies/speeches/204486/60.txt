@@ -1,1 +1,3 @@
-Urgente implementação de políticas públicas para a contenção do avanço da extrema pobreza no Brasil. Dados do Instituto Brasileiro de Geografia e Estatística - IBGE sobre a concentração de renda no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd4a94d49833ed2a46d35c168633bb2eebbe9e867d3bb94ea2197dc5352a3a77
+size 214

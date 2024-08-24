@@ -1,1 +1,3 @@
-O Deputado apresentou Questão de Ordem destacando o art. 226 do Regimento Interno da Câmara dos Deputados, sobre o exercício do mandato parlamentar. Denunciou abusos na Comissão Parlamentar de Inquérito (CPI) do Movimento Sem Terra (MST), presidida pelo Deputado Luciano Zucco, mencionando Questões de Ordem despropositadas que interrompiam os trabalhos. Relatou acusações de violência de gênero e de preconceito contra o Presidente da CPI alegando que isso afetava sua atuação.&nbsp;Pediu padrões mais rígidos para Questões de Ordem, ressaltando a necessidade de fundamentação jurídica e pertinência temática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79016e749988bfb6f95325b5b09996430fa19d15230734cd3106c1a1a6a65794
+size 630

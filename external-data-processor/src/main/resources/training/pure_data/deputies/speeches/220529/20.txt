@@ -1,1 +1,3 @@
-Dificuldades dos segurados do INSS para acesso aos serviços de perícia médica. Pedido ao Ministro da Previdência Social, Carlos Lupi, de realização de concurso público para o cargo de médico perito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:026aef6ef2891d9a1c19cc0d9f848a828d475296dbebdbe1fc79f610988b899b
+size 206

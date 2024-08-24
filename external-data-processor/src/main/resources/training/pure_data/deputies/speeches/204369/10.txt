@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre o Projeto de Lei nº 8.833, de 2017, a respeito da tipificação como crime a indução de crianças e adolescentes ao suicídio e à automutilação. Defesa de aprovação da matéria pela Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db377dea731c4d467446b4110e81927f3606b3e03af534da1aedfd86e0a769dd
+size 229

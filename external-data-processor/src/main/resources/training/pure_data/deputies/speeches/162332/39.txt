@@ -1,1 +1,3 @@
-Relevância do estabelecimento do Acordo de Cooperação Triangular entre Brasil, Japão e Moçambique, a favor do desenvolvimento agrícola da savana africana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a44e1173ad50f3dc950187fbd451d1452573b480f485bd9684634e85e331225
+size 160

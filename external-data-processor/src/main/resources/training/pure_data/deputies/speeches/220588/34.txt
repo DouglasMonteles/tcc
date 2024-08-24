@@ -1,1 +1,3 @@
-Perplexidade ante o encaminhamento ao Ministério das Comunicações, pelo PT, de pedido de concessão ao partido de emissora de rádio e canal de TV aberta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f08803c485234f051138d2477ade76a00ff4d1fe71088c32f62df0a8b8a96344
+size 157

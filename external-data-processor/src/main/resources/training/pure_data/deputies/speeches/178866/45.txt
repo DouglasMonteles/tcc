@@ -1,1 +1,3 @@
-Solidariedade aos familiares das vítimas da Covid-19. Postura irresponsável do Presidente Jair Bolsonaro com relação ao combate à doença. Imediata investigação, pelo Tribunal Regional Eleitoral do Estado do Ceará, de denúncia de compra de votos por parte do Prefeito Municipal de Fortaleza, Roberto Cláudio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:128a7ff1285a1fbeff8025b56cc7505c3906072e7899bbb2e0dfdb18a0dd9c88
+size 318

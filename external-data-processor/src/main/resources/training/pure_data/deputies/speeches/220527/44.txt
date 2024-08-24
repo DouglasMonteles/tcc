@@ -1,1 +1,3 @@
-Responsabilidade política e administrativa do Governo Luiz Inácio Lula da Silva com o povo brasileiro. Luta pelo fortalecimento da democracia na América Latina e pela inclusão social na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b588fb0fe17dd74fc517288bba5f82ef48b0106bde684774254dfd33c96a91e
+size 198

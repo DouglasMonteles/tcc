@@ -1,1 +1,3 @@
-Defesa da rejeição de proposição relativa à criação de fundo para o financiamento público de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8fc24c865372907025c45d7963aecf6a22f85b102302d2dc7b9cafa87cb6fbb
+size 122

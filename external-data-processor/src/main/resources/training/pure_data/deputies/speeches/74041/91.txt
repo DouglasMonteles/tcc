@@ -1,1 +1,3 @@
-Denúncia de corrupção eleitoral no Estado da Paraíba. Empenho do Presidente Luiz Inácio Lula da Silva na realização da reforma política. Relutância do Congresso Nacional na promoção de alterações no sistema político-eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:347e75a46495e7f956f716cb57d637033aa515c4e4acb6cbf24d31bc713f3585
+size 240

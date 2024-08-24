@@ -1,1 +1,3 @@
-Visita do Governador do Estado do Amazonas, Eduardo Braga, e equipe a Municípios situados na região do Rio Purus. Concessão de licença ambiental para a pavimentação de trecho da BR-317, no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2afdc37f05b621169d93ca22ef0ef6bc009f23c504d4c2553ac5307b9f46d60b
+size 214

@@ -1,1 +1,3 @@
-Expectativa quanto à promulgação da Emenda Constitucional nº 116, de 2022, proveniente da Proposta de Emenda à Constituição nº 200, de 2016, (nº 133, de 2015, no Senado Federal), acerca de isenção de templos religiosos do recolhimento do Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4ce1cebfc556c191eca165692f4afb52760e608723333bfa3c5a9d79c14c50f
+size 313

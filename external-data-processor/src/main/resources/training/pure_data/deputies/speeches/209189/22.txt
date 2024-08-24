@@ -1,1 +1,3 @@
-Defesa da obstrução da votação de medida provisória sobre o estabelecimento da estrutura organizacional do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b2d18683281e57100f93c667d5d0b8c34668d2724b5d96fb08948605333295f
+size 128

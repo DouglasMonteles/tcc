@@ -1,1 +1,3 @@
-Julgamento, pelo Supremo Tribunal Federal, de recurso oferecido pelo Ministério Público contra o compartilhamento de mensagens entre o então Juiz Federal Sérgio Moro e Procuradores da República, para incriminação do ex-Presidente Luiz Inácio Lula da Silva no âmbito da Operação Lava-Jato. Defesa de criação da CPI da Lava-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e0f6615d0b75d6e18d67253b4865e66e09ad095cf998177a56dcab23f92d1bf
+size 340

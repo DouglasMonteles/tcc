@@ -1,1 +1,3 @@
-Contrariedade a eventual votação simbólica pelo Plenário do projeto sobre o estabelecimento de medidas de combate à corrupção com emenda sobre anistia ao crime de caixa dois.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d64dcbf42eab256f974388add65739d27f1069e0fb26870e31197b0dd5a7c74
+size 181

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido pela Relatora da Comissão de Seguridade Social e Família ao Projeto de Lei nº 1.985, de 2019, a respeito da permanência de fisioterapeuta em Centros de Terapia Intensiva - CTIs adultos, pediátricos e neonatais, ressalvados os destaques. Apresentação da proposta de disponibilização de leitos hospitalares privados para a população em geral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24c0057ba1ce1f3e1c517bebcf7e5c510cbcd614a80cf97197d078dc18a1ec75
+size 414

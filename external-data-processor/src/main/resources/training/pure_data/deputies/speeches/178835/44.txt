@@ -1,1 +1,3 @@
-Perplexidade diante dos recentes ataques terroristas, em vários países, de cunho religioso radical. Contrariedade à proposta de redução da maioridade penal no País. Defesa de adoção da cultura de paz diante da violência, do ódio e da intolerância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:691c563b6335d5bed6ad2ebf85dc51a1af4555a6b70664d2ed2b278c24f90f0d
+size 258

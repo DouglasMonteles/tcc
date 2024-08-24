@@ -1,1 +1,3 @@
-Contaminação do litoral leste do Estado do Ceará em decorrência do vazamento de petróleo cru. Necessidade de adoção pelo Governo Federal, especialmente pelo Ministério do Meio Ambiente, de providências a respeito do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:228a18a132814f281df1d873722ce81e0d8b437a82a425c1c80110a631dbdb7a
+size 233

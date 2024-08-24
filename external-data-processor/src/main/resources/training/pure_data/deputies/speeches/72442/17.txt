@@ -1,1 +1,3 @@
-Alerta à população brasileira sobre os danos causados à saúde humana pela utilização de agrotóxicos no setor agrícola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28e1a2f62d210ec6819b1c341b541cea565e482874e510728442ec3db315173a
+size 127

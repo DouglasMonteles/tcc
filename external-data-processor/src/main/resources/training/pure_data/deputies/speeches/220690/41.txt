@@ -1,1 +1,3 @@
-O Deputado alertou sobre os frequentes golpes em contas bancárias de servidores públicos da Bahia. Denunciou que uma empresa, atuando em nome do Credcesta, um produto gerenciado pelo Banco Master, é a responsável pelos golpes. A fraude inclui a emissão não autorizada de cartões, a contratação de empréstimos sem conhecimento do devedor e a cobrança de juros em faturas com descontos em folha de pagamento. Além disso, criticou as decisões do Poder Judiciário na Bahia, que têm apoiado a atuação da referida empresa. Censurou também os convênios entre os Governos de Estado e a Credcesta ou o Banco Master para descontos em folha de pagamento. Por fim, apelou para que a Polícia Federal e a Secretaria Nacional do Consumidor investiguem as fraudes bancárias em todo o Brasil, visando proteger os trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1946ea4fe5fe7880e14ea50711273ba13579d2683e35dc4317266c2651c938e7
+size 831

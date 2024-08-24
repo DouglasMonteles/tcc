@@ -1,1 +1,3 @@
-Reiteração de solicitação ao Departamento Nacional de Infraestrutura de Transportes - DNIT de duplicação da BR-316 entre os Municípios de Castanhal e Santa Maria do Pará, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:027ca0d58ef215b493677b5fe651a4a3c423f2fd04621227467dccc00fea7257
+size 195

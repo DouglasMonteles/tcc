@@ -1,1 +1,3 @@
-O Deputado comunicou o falecimento do jornalista Elias Klaime, do Município de Cascavel, Estado do Paraná, e prestou condolências à esposa e filhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33798a5acd33d395e051d3ebac9e32ac4bfc4d111b6ff6aae1bbdb22ff0887f1
+size 152

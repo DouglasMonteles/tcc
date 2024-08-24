@@ -1,1 +1,3 @@
-Realização, pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, de audiência pública para debate da renegociação de dívidas agrícolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72d42364d917cc352ea0e64fae98a2e4b312d1b3438ede51663e2e7129e88a53
+size 171

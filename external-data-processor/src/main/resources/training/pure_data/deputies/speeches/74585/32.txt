@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Segurança Pública e Combate ao Crime Organizado, de proposta de alteração de dispositivo do Estatuto da Criança e do Adolescente, relativo ao tempo de internação de menores infratores em unidades de recuperação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eed09e113f2c62067166e98850eb70999f5cf18b0942313830ff3c619a8ade37
+size 251

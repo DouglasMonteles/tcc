@@ -1,1 +1,3 @@
-Discussão da Medida Provisória 442 de 2008 (Dispõe sobre operações de redesconto pelo Banco Central do Brasil e autoriza a emissão da Letra de Arrendamento Mercantil - LAM, e dá outras providências ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3620367742b0d1111260bc0579c17a854dec2e79c8d04677911f212dd9dac310
+size 208

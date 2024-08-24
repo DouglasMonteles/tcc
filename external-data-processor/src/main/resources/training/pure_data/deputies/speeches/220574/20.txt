@@ -1,1 +1,3 @@
-Proibição à Ordem dos Advogados Conservadores do Brasil - OACB, pelo Supremo Tribunal Federal, de prestação de assistência jurídica aos participantes em manifestação política realizada em Brasília, Distrito Federal. Protesto contra a revogação, pela Suprema Corte, da decisão do Congresso Nacional de redução da alíquota estadual do ICMS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af769b75050c9ede7445b4c23bb170386a06ae836b1e2a885f39e15a36f2e55b
+size 355

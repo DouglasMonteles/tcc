@@ -1,1 +1,3 @@
-Apresentação de requerimento de indicação ao Ministério da Agricultura, Pecuária e Abastecimento, para instalação de posto avançado do Instituto Nacional de Colonização e Reforma Agrária - INCRA no Município de Humaitá, Estado do Amazonas. Apoio ao movimento grevista dos trabalhadores estaduais da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:960838d59536f56b545b7701a1347e27ada837a1e6ce65084a4605f27cccaacf
+size 324

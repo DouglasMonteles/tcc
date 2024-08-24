@@ -1,1 +1,3 @@
-Presença, na Câmara dos Deputados, de lideranças da Direita do Estado do Espírito Santo. Apoio da Esquerda ao aborto e à legalização das drogas no País. Defesa, pelos pastores da Direita, da família tradicional e dos valores cristãos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bdf34c092e0ef959743a187ef8ac47a2dec8603d185285f1c8e92c5a7572001
+size 244

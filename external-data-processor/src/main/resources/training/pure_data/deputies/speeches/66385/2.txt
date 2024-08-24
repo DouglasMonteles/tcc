@@ -1,1 +1,3 @@
-Classificação da Capital Teresina, Estado do Piauí, em 40º lugar no ranking mundial da violência. Encaminhamento, ao Ministério da Justiça e Segurança Pública, de requerimento de informações sobre as ações da Pasta destinadas ao controle da criminalidade, bem como de modernização e valorização das forças policiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1016dbb2015d61f5ce2d36e49accc3df3a0f5ce6ba79e1a6d9c5b2a25261c47
+size 334

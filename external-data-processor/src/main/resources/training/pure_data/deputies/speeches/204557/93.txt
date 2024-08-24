@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 4.365, de 2021, sobre a alteração da Lei nº 8.213, de 1991, com vista ao estabelecimento do prazo de concessão de aposentadoria e outros benefícios sociais. Pedido aos Parlamentares de apoiamento à proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee287c273db0a47a35b6fd2caca236d37b02d83a5a1c13d023d9695be7c7705a
+size 254

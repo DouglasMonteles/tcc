@@ -1,1 +1,3 @@
-Elogio ao Deputado Felipe Rigoni e ao movimento RenovaBR.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a667153841a0d52884825b7143f1fbbdf86aa84d2977409971bad858b4eb3da
+size 57

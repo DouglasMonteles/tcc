@@ -1,1 +1,3 @@
-Solicitação à Presidência de prioridade na votação de lei complementar relativa à regulamentação do ressarcimento aos Estados, pela União, das perdas provocadas pela chamada Lei Kandir.
+version https://git-lfs.github.com/spec/v1
+oid sha256:accec009c7344a00554d792ba6668ec5d30a57e0fcc4fea80e7a77a7af7251d4
+size 195

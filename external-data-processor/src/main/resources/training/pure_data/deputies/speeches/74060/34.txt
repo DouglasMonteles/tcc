@@ -1,1 +1,3 @@
-Transcurso do 30° aniversário de implantação do Pólo Petroquímico de Camaçari, Estado da Bahia. Acerto das políticas  desenvolvimentistas adotadas pelo Governador Jaques Wagner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cde80711c43c3c88828032277d13e94c8c6281ff75aff3e79e9e8d8a07604fe9
+size 185

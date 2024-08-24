@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Ministro do Trabalho, Arnaldo da Costa Prieto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3427c0f65a07eb53a0239c203d444dc6e14422844c3a621e323d93c9ebde8b6
+size 71

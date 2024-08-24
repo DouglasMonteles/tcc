@@ -1,1 +1,3 @@
-Criminalização dos produtores rurais e do agronegócio brasileiro pela novela Terra e Paixão, apresentada pela TV Globo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65ab301e08a7f27a508efe139fd2753d8eaa158d419ad4251e9c54605617ae4c
+size 123

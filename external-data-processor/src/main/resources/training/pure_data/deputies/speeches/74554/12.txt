@@ -1,1 +1,3 @@
-Visita do orador a municípios do Estado da Bahia. Transcurso do cinqüentenário de emancipação político-administrativa do Município de Barra do Mendes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aba64f03683c5ce8de365c9cb905cb6231071b4490249115a0a5e3e8ddd73f4
+size 157

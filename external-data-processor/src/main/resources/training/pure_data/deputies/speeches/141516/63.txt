@@ -1,1 +1,3 @@
-Inadmissibilidade de retirada do Poder Legislativo da competência para a fixação do valor do salário mínimo. Baixo valor do reajuste do salário mínimo proposto pelo Governo Federal. Protesto contra a inserção de matéria alheia no texto do projeto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2486b013fd435db915436fcd1c23e54810ca0fe7ba778791167d936e612064fb
+size 257

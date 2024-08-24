@@ -1,1 +1,3 @@
-Apelo aos Deputados da base aliada de comparecimento ao plenário. Importância da votação, pela Casa, das propostas sobre o estabelecimento do marco regulatório da exploração de petróleo na camada pré-sal. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abae8c100f592d89fd15192e4f3459e4d29bfd1f0109010ff9b19387876617c5
+size 249

@@ -1,1 +1,3 @@
-Questão de ordem sobre a existência de quórum no plenário para início da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a727e8d4bf75bb512539d5d57c2029bf3840f391920f0caee0649c25ac9f6e2
+size 91

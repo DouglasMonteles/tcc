@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 30 do Projeto de Lei nº 7.596, de 2017, a respeito dos crimes de abuso de autoridade, com vista à sua supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00d4a533d27272e590ddc9c3a70c27d93c6a97fe15ec9a375a9aaa76f0dc2431
+size 215

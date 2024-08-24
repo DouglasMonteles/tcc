@@ -1,1 +1,3 @@
-Cumprimento, pelo Governo do Estado do Paraná, de percentual mínimo de investimentos orçamentários em ações e serviços públicos de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e30ca7915d752347a8e9ca4ee0e2a4d2807a0aefb267a4888afbc2243f05f98d
+size 146

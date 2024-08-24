@@ -1,1 +1,3 @@
-Discussão, pelo PDT, de medidas de ajuste fiscal contidas no conjunto de propostas de emendas à Constituição encaminhadas ao Congresso Nacional pelo Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:210792d0b36094903bdba466e75ddefdd959f30a9ab3ff57ac348cdb48a226f4
+size 169

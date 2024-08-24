@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos 180 Anos da Revolução Farroupilha.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65c0786fcf91f176862e35f13e2970e7aa330411c1d364fc411f0bc4a2d97763
+size 217

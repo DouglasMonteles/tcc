@@ -1,1 +1,3 @@
-Importância do Projeto de Lei nº 3.170, de 2015, sobre a garantia do direito da mãe a acompanhamento e orientação com relação à amamentação, de autoria do orador. Pedido ao Presidente da Comissão de Seguridade Social e Família, Deputado Antonio Brito, de designação de relator para a matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c2c0c8b066c6740716135096c88595b3a99ac6f9aa0b97dc6abf0d1c6b717db
+size 307

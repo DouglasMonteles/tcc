@@ -1,1 +1,3 @@
-O Deputado expressou sua preocupação com o fechamento temporário das Prefeituras na Bahia, uma medida extrema adotada pela União dos Municípios da Bahia - UPB devido à falta de regularidade nos pagamentos a fornecedores e funcionários. Destacou a necessidade de um debate com o Governo Federal sobre a situação financeira dos Municípios, que enfrentam dificuldades financeiras e endividamento. O orador propôs a alocação de recursos do Ministério da Saúde para os Municípios que dependem do Fundo de Participação dos Municípios - FPM e têm dificuldades em cumprir suas obrigações financeiras. Por fim, ressaltou a importância de encontrar soluções para garantir a continuidade dos serviços públicos municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0b510ae907c34dc6f57144421db4ba91ed53d1daeb8c4ddad65c500c1914af6
+size 737

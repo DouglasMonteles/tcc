@@ -1,1 +1,3 @@
-Solicitação ao Ministro da Saúde, Ricardo Barros, de urgente liberação de recursos para o setor de saúde de Municípios do Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:483235590ce00c65d132bbfc9c05b04af6dd695ff50a5b3ca6c60dddecd2e803
+size 152

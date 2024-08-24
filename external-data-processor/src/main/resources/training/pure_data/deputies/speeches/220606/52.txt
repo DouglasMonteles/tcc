@@ -1,1 +1,3 @@
-Regozijo com a permanência de João Fukunaga na Presidência da Caixa de Previdência dos Funcionários do Banco do Brasil&nbsp;— PREVI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7bc9c0bbf6e7288da638ed12a95e1f5c27849e787e3a6ad87d209964e443854
+size 139

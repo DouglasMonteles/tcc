@@ -1,1 +1,3 @@
-Incoerência do discurso dos Deputados contrários à reforma previdenciária e optantes pelo regime especial de aposentadoria. Adesão da oradora ao Regime Geral de Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9306fdcd6f997e53d4e87c3bcffedf3ae0c37d8636d0b7c8ea5d4d682eb55a9c
+size 186

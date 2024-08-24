@@ -1,1 +1,3 @@
-Inauguração de sistema de aproveitamento de energia solar da Prefeitura Municipal de Sousa, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01841d0cb8c250475a783aaa3047a233fb395fb68478e08a860e05b2d87786b8
+size 113

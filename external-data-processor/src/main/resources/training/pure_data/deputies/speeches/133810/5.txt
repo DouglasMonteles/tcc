@@ -1,1 +1,3 @@
-Presença, na Casa, dos Vereadores Jandinho do Elemar e Professora Célia, do Município de Passo do Sobrado, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7aafc7aedb68296c108c5561ec59871ddfb3981054dbcb183f25dd4f259886b2
+size 138

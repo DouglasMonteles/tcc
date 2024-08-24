@@ -1,1 +1,3 @@
-Sessão solene destinada a comemorar o Dia Internacional da Mulher e a agraciar os vencedores da 15ª Premiação do Diploma Bertha Lutz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e0d958b104eb09a333f62f9f839b3dc05dd912171ef4093432ded7fd85187f5
+size 137

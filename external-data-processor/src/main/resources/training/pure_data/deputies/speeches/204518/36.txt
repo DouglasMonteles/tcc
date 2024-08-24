@@ -1,1 +1,3 @@
-Contrariedade à votação de forma açodada da Proposta de Emenda à Constituição nº 45, de 2019, sobre alteração do Sistema Tributário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58b9016aa745517c9b27e1739f9bea8f4bbf593b90f8630195b97d883270fcb8
+size 152

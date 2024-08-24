@@ -1,1 +1,3 @@
-Relevância da educação para a prosperidade do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de697405de2475b6873ee00bedd637ba263830c36dc9b4771ab009b50dabab14
+size 55

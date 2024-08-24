@@ -1,1 +1,3 @@
-Apelo ao Governo Federal para desburocratização e descentralização das ações do Programa de Aceleração do Crescimento  - PAC no Estado do Amazonas. Congratulações ao Presidente do Congresso Nacional, Senador Garibaldi Alves Filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a70963be43810b0e0abc615b73e0852d6be9a296e0420d174baf2813984dd6c2
+size 240

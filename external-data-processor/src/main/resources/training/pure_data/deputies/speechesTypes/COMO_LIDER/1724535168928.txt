@@ -1,1 +1,3 @@
-Natureza histórica da aprovação, pela Casa, do Projeto de Lei Complementar nº 18, de 2022, sobre alteração da Lei nº 5.172, de 1966, e da Lei Complementar nº 87, de 1996, para reconhecimento como bens e serviços essenciais os relativos aos combustíveis, à energia elétrica, às comunicações e ao transporte coletivo. Caráter global do aumento da inflação e da crise dos mercados financeiros. Acerto da condução da política econômica brasileira. Transcurso do Dia Mundial de Conscientização da Violência Contra a Pessoa Idosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64a4bed34d37d6c4643dc2a507f3e0bf6d3342b19fa478af57d81e831df27efa
+size 549

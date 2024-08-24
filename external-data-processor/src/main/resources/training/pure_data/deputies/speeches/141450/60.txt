@@ -1,1 +1,3 @@
-Posicionamento favorável  do PSC   à Subemenda  Substitutiva Global de Plenário apresentada ao Projeto de Lei 5498, de 2009, que altera a Lei 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos) e a Lei 9.504, de 30 de setembro de 1997, (Estabelece normas para as eleições).
+version https://git-lfs.github.com/spec/v1
+oid sha256:9466752ba31ad65eb9a2d81a268a44bdb6587bce1c4882c4a04866fbbcec0c0c
+size 289

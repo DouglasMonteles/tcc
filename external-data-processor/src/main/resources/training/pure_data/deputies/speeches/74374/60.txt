@@ -1,1 +1,3 @@
-Protesto contra a interrupção do Programa Nacional do Livro Didático - PNLD. Implantação do Programa Minha Casa, Minha Vida no Município de Dourados, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ed2c57f7f343452204dd148ee72e491469d0165da402e3d82654065931a243d
+size 185

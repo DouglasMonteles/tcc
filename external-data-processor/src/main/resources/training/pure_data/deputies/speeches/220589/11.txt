@@ -1,1 +1,3 @@
-Presença no plenário do Presidente da Associação Brasileira dos Condutores de Ambulância, Alex Douglas, e do Presidente do Sindicato dos Condutores de Ambulância do Estado do Acre, José Augusto Soares Aiache.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ce0e0477767669f1a36f40cdee0841713765cbfeb75d6b290c7bc69b61dd53b
+size 215

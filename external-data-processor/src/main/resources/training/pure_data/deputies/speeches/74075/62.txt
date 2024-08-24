@@ -1,1 +1,3 @@
-Agradecimento à Casa pela aprovação do Projeto de Lei nº 1.552, de 2020, acerca das medidas de proteção das mulheres em situação de violência, durante o estado de calamidade pública com efeitos até 31 de dezembro de 2020, ou na vigência das medidas de quarentena e restrições de atividades no contexto da pandemia do novo coronavírus. Pedido do prisão do Sr. Kleber Hilário por prática de violência doméstica, do Município de Herculândia, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c50da5b813e73f482483669303de09e884545f193519c341415eaa9bea36027
+size 482

@@ -1,1 +1,3 @@
-Reinauguração do Estádio Estadual Governador Lourival Baptista, o chamado Arena Batistão, no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:382f2ee519d8eb835ff15e5da1e303666ae80814c548ebe9715364e76fdbdf8e
+size 115

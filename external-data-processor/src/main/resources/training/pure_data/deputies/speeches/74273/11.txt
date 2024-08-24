@@ -1,1 +1,3 @@
-Déficit de moradias e precariedade de domicílios no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d0aecf57d25093d438e25955ccf43c7f3264c74686ba2c8e2d81b928b0b47ac
+size 60

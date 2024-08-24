@@ -1,1 +1,3 @@
-Homenagem ao Tribunal Regional Eleitoral do Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55b9b5b8d31b910f297e1476eaf581a360f96f3132c22269b6577b3da92d623c
+size 64

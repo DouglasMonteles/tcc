@@ -1,1 +1,3 @@
-O Deputado reconheceu e parabenizou a atuação destacada dos Vereadores Drika, de Arroio do Tigre, e Thomas Raabe, de Pantano Grande, no Rio Grande do Sul, por seus esforços em prol das comunidades locais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78643bbd1e647fd649dfd513088b097685077cfa831555d549bb54b384e2d450
+size 207

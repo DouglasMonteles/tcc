@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque supressivo do art. 7º do Projeto de Lei Complementar nº 39, de 2020, do Senado Federal, referente à instituição do Programa Federativo de Enfrentamento ao Coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a4ba1e5e7c7810e751a81f6c3e41915c90d6e30faf3d0aeda7f6dc63fe07b16
+size 238

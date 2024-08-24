@@ -1,1 +1,3 @@
-Presença em plenário do Vereador Diego Pandini, do Município de Indaial, Estado de Santa Catarina. Pedido de mais respeito ao povo catarinense. Cassação do mandato da Vereadora Maria Tereza Capra, do Município de São Miguel do Oeste, em face de afirmações caluniosas sobre gestos interpretados como uma saudação nazista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37e0aefefc061ccc8be9925acdf9dbaca3653ec83e34adccbe8d10b38314f6f9
+size 331

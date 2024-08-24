@@ -1,1 +1,3 @@
-Escalada das ações do crime organizado no País. Realização pelos governantes de ações conjuntas para combate à criminalidade. Pedido ao Senado Federal de inclusão na pauta do Projeto de Lei nº 3.731, de 1997.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a00db3676db9a77ae6c5b95e30c3e858c3a0ec1bbe4c8c824f481ee8a59360d6
+size 218

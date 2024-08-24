@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 2, apresentada ao Projeto de Lei nº 1.562, de 2020, relativo à alteração da Lei nº 13.979, de 2020, com vista à obrigatoriedade do uso de máscaras para circulação em locais públicos, durante a vigência das medidas de enfrentamento da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4abfe1b4be9d6aff34541ec6962050f3275600cb1e74559beef463b7badd1fc3
+size 389

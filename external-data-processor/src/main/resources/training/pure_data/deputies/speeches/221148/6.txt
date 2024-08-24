@@ -1,1 +1,3 @@
-Inconsistência de discurso proferido no plenário sobre a ligação do PT com a facção criminosa Primeiro Comando da Capital - PCC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f49a649ec500d016743bd5fd58e2c5561dd42fe836ff7fd2db8dd2425e84699
+size 134

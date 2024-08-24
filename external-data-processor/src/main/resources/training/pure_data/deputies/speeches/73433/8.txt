@@ -1,1 +1,3 @@
-Votos de sucesso ao Deputado Maurício Rands, novo Líder do PT na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36cbfc861767d6deb7f476b250670544b8275a9fb33e67179690532b12aa92a7
+size 89

@@ -1,1 +1,3 @@
-Posicionamento favorável do PT ao  parecer pela admissibilidade da Medida Provisória 421 de 2008 (Dispõe sobre o salário mínimo a partir de 1º de março de 2008).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac610a508d706a6acb9643359f8eae6a33d564eb189a3354cde2c71812f0beda
+size 168

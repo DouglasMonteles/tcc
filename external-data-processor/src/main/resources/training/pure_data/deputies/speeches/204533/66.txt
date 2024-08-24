@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com as mudanças propostas no Novo Ensino Médio, enfatizando a necessidade de manter a obrigatoriedade do espanhol nas escolas e a importância da sociologia e da filosofia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbccff08dcc8a408d3a517d7741ab8031c72a18dd173327027f51aac9351c962
+size 209

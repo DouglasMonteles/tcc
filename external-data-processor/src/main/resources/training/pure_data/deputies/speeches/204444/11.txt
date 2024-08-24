@@ -1,1 +1,3 @@
-Majoração das taxas de juros incidentes sobre o setor de games pelo Presidente Luiz Inácio Lula da Silva. Imediata instalação de CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe17cdaa85cccc67a6a8a3b66baf85222d2a8539fb41437a52e42a3328166826
+size 246

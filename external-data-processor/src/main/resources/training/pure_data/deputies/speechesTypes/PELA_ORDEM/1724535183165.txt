@@ -1,1 +1,3 @@
-Associação às manifestações em homenagem aos assistentes sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f808113e9db1aee0b3138803780b3fabe9182f998d5999fa86b678f6faf53d54
+size 70

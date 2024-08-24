@@ -1,1 +1,3 @@
-Congratulações ao Governador Jaques Wagner pelo lançamento das obras do Hospital da Criança no Município de Feira de Santana e do Parque Tecnológico da Bahia. Transcurso do Dia Mundial Contra o Trabalho Infantil. Avaliação das ações governamentais destinadas ao combate da exploração da mão-de-obra infanto-juvenil no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f359c124cef0beedb58866c8a17e1fd636f07da703f400610e9f587f3def6884
+size 338

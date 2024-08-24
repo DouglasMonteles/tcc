@@ -1,1 +1,3 @@
-Perspectiva de crescimento do mercado consumidor brasileiro nas próximas décadas. Defesa da inclusão do Direito do Consumidor como matéria obrigatória da grade curricular do ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33bc47efe1f122f4785a2970155c477fb5843786a39fc1f6469b9aa70678198c
+size 193

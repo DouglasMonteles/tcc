@@ -1,1 +1,3 @@
-Transcurso do 42º aniversário da criação do Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b82bb9843002de225fc01ab2871795719131020efcb854338a1a718e97b612c9
+size 77

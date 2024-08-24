@@ -1,1 +1,3 @@
-Alerta aos produtores rurais brasileiros, em especial aos do Estado de Mato Grosso do Sul, sobre a anunciada invasão de propriedades produtivas pelo Movimento dos Trabalhadores Rurais Sem Terra - MST, o chamado Abril Vermelho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96350d26e802793895f1a67d4ed3270f1a487a5c9dbcc84356c64549813ab310
+size 227

@@ -1,1 +1,3 @@
-Manifestação de apoio aos lotéricos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7884d9ca330745714ee4b6d5c71da7ac717c8a6bfd93fcf0a91f9359c61adabf
+size 51

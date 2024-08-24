@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Finanças e Tributação, de emenda orçamentária destinada ao ensino profissionalizante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d887db64cd4a1c50134eb10cc0e17239d5887d956002aceaa6cf46f1ed16b8b7
+size 121

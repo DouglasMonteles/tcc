@@ -1,1 +1,3 @@
-Posse do Secretário de Agricultura, Pecuária e Abastecimento do Estado de Minas Gerais, João Cruz Reis Filho, na Presidência do Conselho Nacional dos Secretários de Estado de Agricultura. Presença do Secretário João Cruz Reis Filho no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05cd18db98e69a2e04fdae448af47faff61486e788ea1373598b098320783933
+size 253

@@ -1,1 +1,3 @@
-Indignação com a recolocação de sensores eletrônicos de velocidade em vias de Maceió, Estado de Alagoas. Anúncio de solicitação ao Ministério Público de investigação de suposta irregularidade na contratação, sem licitação, de empresa de sensores eletrônicos de velocidade pela Prefeitura Municipal de Maceió.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93489512feb594ee54c16090879e854df369433c9eb328f8f71154824f24d05
+size 327

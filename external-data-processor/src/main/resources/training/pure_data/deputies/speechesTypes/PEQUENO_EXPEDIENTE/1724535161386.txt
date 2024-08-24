@@ -1,1 +1,3 @@
-Preocupação dos agricultores brasileiros, especialmente os do Estado do Rio Grande do Norte, com a Resolução nº 800, de 2017, publicada pela Agência Nacional de Energia Elétrica - ANEEL, sobre a exigência de recadastramento para os consumidores de energia com tarifas subsidiadas. Encaminhamento, à Consultoria Legislativa da Casa, de pedido para elaboração de projeto de decreto legislativo a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae92f828866bb8e6b383c6095054d1d81c11bb617cb0b6df691c3b0a3db0cdd7
+size 422

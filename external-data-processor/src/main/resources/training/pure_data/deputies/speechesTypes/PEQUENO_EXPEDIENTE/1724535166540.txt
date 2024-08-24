@@ -1,1 +1,3 @@
-Homenagem póstuma ao capitão aviador Anderson Amaro Fernandes, falecido em decorrência de acidente com aeronave durante apresentação da Esquadrilha da Fumaça no Município de Lages, Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08d0dd6520d58ba87bf7f5a40ce685583e3e6f4e1a273255e79567584880dd70
+size 213

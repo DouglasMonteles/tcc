@@ -1,1 +1,3 @@
-Precariedade dos serviços de abastecimento de água potável prestados pela empresa Águas do Rio à população do Estado do Rio de Janeiro. Criação de CPI para investigação das razões do descumprimento da legislação nacional por empresas de saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68e7a38328c1e92097616f60989c124275963000513315cad95efd9d2968f068
+size 270

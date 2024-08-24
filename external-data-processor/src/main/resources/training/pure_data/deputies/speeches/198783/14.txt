@@ -1,1 +1,3 @@
-Contentamento do orador com a votação, pela Casa, do Projeto de Lei nº 5.478, de 2019, sobre o estabelecimento de critérios de distribuição dos valores arrecadados com os leilões dos volumes excedentes ao limite referido no § 2º do art. 1º da Lei nº 12.276, de 2010 (cessão onerosa).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e6cdc3cd52953a55e88800f403c784c116a37f2400516555d00500d56f2b388
+size 295

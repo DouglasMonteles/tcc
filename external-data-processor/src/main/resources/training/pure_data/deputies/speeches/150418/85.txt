@@ -1,1 +1,3 @@
-Transcurso do 36º aniversário de fundação da Igreja Universal do Reino de Deus. Liderança exercida pelo Bispo Edir Macedo. Obras sociais desenvolvidas pela instituição religiosa no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f3e0c8655e8c7f7b518023e2b72f95df083d42e31d777a1e7341fdf62e7f347
+size 194

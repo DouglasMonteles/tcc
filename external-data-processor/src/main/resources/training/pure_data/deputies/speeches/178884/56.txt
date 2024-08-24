@@ -1,1 +1,3 @@
-Solicitação aos Deputados do PMDB de comparecimento ao plenário. Apoio do partido à previsão constitucional do financiamento empresarial de campanhas eleitorais e contrariedade ao financiamento público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:627a8d3c59846b8b52e8c8578f87169231e5603ccb19a4564d7d7773502b5e18
+size 208

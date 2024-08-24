@@ -1,1 +1,3 @@
-Presença, na Câmara dos Deputados, de Auditores da Secretaria da Receita Federal do Brasil. Posicionamento dos Auditores favorável à realização de reforma tributária com participação popular e ênfase na inclusão social e nos setores vulneráveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42a75fe0a9604544503bcf007ac2d6dc3ea4f17c37cbaa978b4ce4611e459b6e
+size 257

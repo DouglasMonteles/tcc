@@ -1,1 +1,3 @@
-Realização, pela Comissão de Viação e Transportes, de audiência pública destinada ao debate da pavimentação asfáltica da BR-030, trecho Ubaitaba- Maraú, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:884561ebd6a749ec307be89adba8f32c3136fcece4c579643de36032913c8657
+size 183

@@ -1,1 +1,3 @@
-Congratulações aos Líderes partidários pela realização de reunião destinada ao debate de medidas em defesa da democracia brasileira. Acerto da solicitação ao Governo Federal, pelo Presidente Rodrigo Maia, de convocação da Força Nacional de Segurança Pública para coibição de depredações de instalações públicas e garantia da integridade física de participantes em movimento popular realizado na Esplanada dos Ministérios, em Brasília, Distrito Federal. Reavaliação, pelo Governo Federal, do prazo de permanência das Forças Armadas nas imediações do Parlamento brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cb10a10e785880f023ebe0decd5f8b41a4163b63d7642639abd23ecf4013ea7
+size 601

@@ -1,1 +1,3 @@
-Realização de desfile da Escola de Samba Estrela do Terceiro Milênio no carnaval paulistano. Convite à população brasileira para participação nos desfiles das escolas de samba de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5394e8caa24d526818af1c51aecd89c742d286bfb3752667e265bfed447837b4
+size 220

@@ -1,1 +1,3 @@
-Elogio ao Deputado Nilson Leitão pela retratação de declarações a respeito da Presidenta Dilma Rousseff. Contrariedade à inclusão do setor de transportes nas medidas de ajuste do Governo Federal. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81e23e06654baad58e71454cfd68a9d656d0303581f596102f206099462c4d4b
+size 238

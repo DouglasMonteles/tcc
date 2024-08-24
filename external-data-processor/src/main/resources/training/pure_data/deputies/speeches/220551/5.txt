@@ -1,1 +1,3 @@
-A Deputada registrou a presença de uma comitiva de mulheres do partido Republicanos do Rio Grande do Sul, que participaram de uma imersão em capacitação política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c9d9f274adcfd4692146ace85c96f631a3b088369cca152d7c481cfd4b62e41
+size 167

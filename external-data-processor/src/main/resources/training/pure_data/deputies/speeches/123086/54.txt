@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado do Piauí pela reeleição do orador. Eleição do Sr. Wilson Martins para Governador do Estado. Compromissos firmados com o povo piauiense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8be51eb7216c2f702eabe68dc48f064b4ada47cc0377258a5ebeededfe93be5b
+size 178

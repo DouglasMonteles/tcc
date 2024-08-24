@@ -1,1 +1,3 @@
-Vinculação da família Bolsonaro com o crime organizado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10399fe6c779cd832840e8091469d4c7493cfeb0eea3874fabffb43564e4251f
+size 58

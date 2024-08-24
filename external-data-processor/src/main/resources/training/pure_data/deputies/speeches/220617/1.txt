@@ -1,1 +1,3 @@
-Desburocratização, pelo Governo Federal, do processo de liberação de recursos aos Municípios atingidos por enchentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b3da71e86d9d6998edd3ce3f7dccdbdaa2640bfb345fdeb4d60cf92f52781e5
+size 122

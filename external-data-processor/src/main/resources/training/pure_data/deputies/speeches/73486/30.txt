@@ -1,1 +1,3 @@
-Homenagem ao bicentenário do Banco do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9026da503b67b83afdac5d82a1c905dccc0a5799be652d2ce6bf565bd78764ea
+size 46

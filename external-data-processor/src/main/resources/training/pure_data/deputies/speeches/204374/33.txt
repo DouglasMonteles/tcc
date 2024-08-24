@@ -1,1 +1,3 @@
-Apoio à proposta governamental de reforma previdenciária. Expectativa de aprovação da matéria pela Casa e pelo Senado Federal. Defesa da realização da reforma tributária. Congratulações aos membros da Comissão de Constituição e Justiça e de Cidadania e da Comissão Especial destinada ao exame da proposta de reformulação da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:946435ecdd214ebf0156498fb8a149e43d4fb7e280f8c978e46000a1cd7d0207
+size 361

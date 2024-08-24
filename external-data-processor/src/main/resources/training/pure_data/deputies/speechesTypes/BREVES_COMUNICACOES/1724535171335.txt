@@ -1,1 +1,3 @@
-Repúdio à postura adotada pelo Presidente Jair Bolsonaro com relação à epidemia de coronavírus. Descaso do Presidente da República com a vacinação do povo brasileiro contra a Covid-19. Defesa de prorrogação do auxílio emergencial concedido a trabalhadores e famílias carentes para enfrentamento da crise gerada pelo coronavírus. Expectativa de resgate, pelo Senado Federal, da proposta original sobre a regulamentação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63caf62d24b18ff783ed879b48f87bec382c76d50c5565aad20540338e19461c
+size 559

@@ -1,1 +1,3 @@
-Defesa de aprovação pela Casa da proposta governamental de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05feeb6e156588d579bc526124c2c041223417ff0b24e1f71a6ed42ae4e50268
+size 81

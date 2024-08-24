@@ -1,1 +1,3 @@
-Ações do Governo petista em prol da área da educação. Atividades realizadas pela Comissão de Educação e Cultura da Casa. Convite à sociedade brasileira para participação nos debates acerca da implementação do Plano Nacional de Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f862930c57ec2dc1a6b4a3ed8550724d340554e6261cd630a5456d06bf380c5
+size 251

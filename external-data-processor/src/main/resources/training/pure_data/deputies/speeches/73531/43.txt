@@ -1,1 +1,3 @@
-Desconhecimento pelo PSOL de reunião de Líderes partidários na Presidência da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eb4793f763aa7375d8826e2c0fe1140d92271a7a04c6af03ad758139ca5f05a
+size 87

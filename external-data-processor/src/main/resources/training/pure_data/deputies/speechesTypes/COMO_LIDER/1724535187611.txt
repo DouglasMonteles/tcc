@@ -1,1 +1,3 @@
-Divulgação de nota do PSL em apoio ao Governo Jair Bolsonaro e ao Presidente Nacional do partido, Deputado Luciano Bivar. Apoio ao Líder do PSL, Deputado Delegado Waldir.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c15cbd281fc2a7452becd6d5efcebe47a289d783345f9616e6058e45312ba42
+size 173

@@ -1,1 +1,3 @@
-Votos de sucesso aos Prefeitos Municipais e Vereadores eleitos na região do Município de Ribeirão Preto, Estado de São Paulo. Razões do apoio do orador à candidata Suely Vilela no segundo turno das eleições à Prefeitura Municipal de Ribeirão Preto. Expectativa quanto à gestão do Prefeito reeleito, Duarte Nogueira. Necessidade de realização da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa8d175a21f0d2fdfcc370541995d7426723d65425488004d3dfaf1c04231a6b
+size 377

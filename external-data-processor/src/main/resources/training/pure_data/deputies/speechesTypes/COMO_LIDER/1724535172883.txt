@@ -1,1 +1,3 @@
-Necessidade de mudança da agenda de trabalho do Congresso Nacional. Proposta do PSOL para a pauta de trabalhos da Casa, com destaque para a instalação da CPI da dívida pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a31d5c6725a9fa28e19f323cf063fb911bb5533d5b82c34b479a60d165bb6d59
+size 181

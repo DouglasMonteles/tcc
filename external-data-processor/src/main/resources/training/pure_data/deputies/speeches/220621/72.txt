@@ -1,1 +1,3 @@
-O Deputado expressou sua preocupação com a indicação do Ministro da Justiça e Segurança Pública, Flávio Dino, para o Supremo Tribunal Federal (STF). O Deputado também citou declarações polêmicas de Flávio Dino, que se autodeclara comunista e faz críticas ao ex-Presidente Bolsonaro. O Deputado também mencionou a PEC 8, que visa limitar as decisões monocráticas do STF, e pediu que o Senado contribua para o reequilíbrio entre os Poderes da Nação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:211ee45136593864aa9592fda940a5bb291623e824c3072fed00b3c7a21a2c14
+size 467

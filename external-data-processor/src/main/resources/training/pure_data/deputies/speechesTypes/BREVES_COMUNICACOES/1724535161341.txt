@@ -1,1 +1,3 @@
-Cobrança ao Governo Federal de explicações sobre a não participação do Brasil no acordo de livre comércio denominado Parceria Transpacífico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67d0db9a6bae5308ce23b7d6604e79218927ea17fd0e58ff0b3147961861cd14
+size 148

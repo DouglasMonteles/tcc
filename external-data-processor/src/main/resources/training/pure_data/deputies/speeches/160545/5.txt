@@ -1,1 +1,3 @@
-Saudações aos alunos presentes nas galerias do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:460d1781a2bcfbc6bbde5f2cd564dcd53b5cbae3ed3d61dd9f099546e69410dc
+size 59

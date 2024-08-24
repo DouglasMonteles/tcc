@@ -1,1 +1,3 @@
-Regozijo com aprovação de proposta de emenda à Constituição sobre regularização da situação jurídica de municípios brasileiros. Eleição da Senadora Kátia Abreu para a Presidência da Confederação da Agricultura e Pecuária do Brasil - CNA. Aprovação de filho do orador no exame da Ordem dos Advogados do Brasil - OAB. Edição, pelo Supremo Tribunal Federal, da Súmula Vinculante nº 8, sobre a prescrição de débitos previdenciários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67d81637f7dc430dcec4e802b25fd667a5357ef4971c4750441de5b7193c59f3
+size 456

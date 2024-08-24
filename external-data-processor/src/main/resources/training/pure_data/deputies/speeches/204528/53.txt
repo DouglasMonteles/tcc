@@ -1,1 +1,3 @@
-Pedido ao Presidente Rodrigo Maia de retomada dos trabalhos das Comissões Especiais, notadamente da destinada ao exame da Proposta de Emenda à Constituição nº 199, de 2019, sobre a alteração dos arts. 102 e 105 da Carta Magna, com vista à transformação dos recursos extraordinário e especial em ações revisionais de competência originária do Supremo Tribunal Federal e do Superior Tribunal de Justiça (prisão de condenados em segunda instância).
+version https://git-lfs.github.com/spec/v1
+oid sha256:50c6eb11515b8a8bd2945412c4b839d6812d59611c1d671dd59e6b29a04c7e66
+size 463

@@ -1,1 +1,3 @@
-Acerto da nomeação do Coronel Alfredo Braga de Castro para Comandante da Polícia Militar do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff3559a91468d4817540e5f091b2245450fdc9e9056ac9ee863683046065e1ad
+size 111

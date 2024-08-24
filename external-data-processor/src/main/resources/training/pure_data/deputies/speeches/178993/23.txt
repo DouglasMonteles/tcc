@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre alteração da Lei nº 9.492, de 1997, que trata de protestos de títulos. Crítica ao protesto de débitos referentes a tributos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48bd549572bfd3ab8f2ab7ccc74fd2c93661a9da85a1170d821455200bd2bfff
+size 169

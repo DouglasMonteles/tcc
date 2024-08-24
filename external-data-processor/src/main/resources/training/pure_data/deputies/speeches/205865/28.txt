@@ -1,1 +1,3 @@
-Repúdio ao discurso dos Deputados do PT, do PSOL e do PCdoB favorável ao afastamento do Ministro da Justiça e Segurança Pública, Sérgio Moro, e do Procurador da República, Deltan Dallagnol, e contra a Operação Lava-Jato. Interceptação ilegal de diálogos entre Promotor de Justiça e Juiz Federal pelo jornalista Glenn Greenwald , do site  The Intercept Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9a326c45b2c29852609c3feb29cbc794ed8a9d116cc1e4ebf64138adf51eef
+size 372

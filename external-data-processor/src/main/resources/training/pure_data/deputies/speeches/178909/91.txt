@@ -1,1 +1,3 @@
-Transcurso do 40º aniversário de fundação da TV Liberal, no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1ce234757c090e2322810c10a11c4e7cb132d5c8b973798855f3ae5bcb40f51
+size 80

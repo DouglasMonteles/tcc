@@ -1,1 +1,3 @@
-Homenagem à memória de Monsenhor Walfredo Gurgel, ex-Governador do Estado do Rio Grande do Norte, ao ensejo do transcurso do centenário de nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfafa10dd7999efefc35b2500423624b7ee03a9d2e213736e5bc6f940a7abb6f
+size 153

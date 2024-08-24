@@ -1,1 +1,3 @@
-Vinculação entre o processo de impeachment da Presidenta da República, Dilma Rousseff, e o inconformismo da Oposição com o resultado das eleições de 2014. Ilegalidade do pedido de afastamento da Chefe do Poder Executivo. Apoio da população brasileira ao Governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c5c1cbacb5e87d9565f240a98f8548cdbe4ec5afc0fe9002387835d35b8aae1
+size 279

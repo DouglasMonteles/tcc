@@ -1,1 +1,3 @@
-Apelo à Casa e aos Ministérios das Relações Exteriores e da Justiça de manifestação sobre a decisão do governo boliviano de legalização de veículos contrabandeados. Equívoco da aprovação da Medida Provisória nº 527, de 2011, sobre o estabelecimento do regime diferenciado de contratação com vistas à realização das obras de infraestrutura para a Copa do Mundo de Futebol de 2014 e para os Jogos Olímpicos de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8db0cbe716df49ac1dcdf75094f3e3a0dc5bcf2c8b564232db678348ec02ec7
+size 435

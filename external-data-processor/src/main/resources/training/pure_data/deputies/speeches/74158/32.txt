@@ -1,1 +1,3 @@
-Empenho do PDT na aprovação da proposta de criação do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45bc823da0a6c923cb9ec59a6adb7535a3c10f1a8104bc8aba35266b140a6582
+size 116

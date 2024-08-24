@@ -1,1 +1,3 @@
-Congratulações ao Governo do Estado da Bahia pela criação de ambiente favorável aos negócios. Instalação do Estado de unidades da montadora de veículos elétricos BYD. Construção pela empresa automobilística do sistema de Veículo Leve sobre Trilhos - VLT, na Capital Salvador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:591b817b9ea7045e980ca99d63ec8b186261fbddc22c3b2fea53544a19faa190
+size 289

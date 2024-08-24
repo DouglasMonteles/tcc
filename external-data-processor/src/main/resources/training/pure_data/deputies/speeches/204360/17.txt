@@ -1,1 +1,3 @@
-Visita da oradora ao Hospital Sarah Kubitschek, no Distrito Federal. Relevância dos trabalhos realizados pela Rede Sarah de Hospitais na prevenção e  tratamento de doenças neurológicas e ortopédicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:287bdc7cb9c5fea09765235977bcd7e9cd133054e70db255f52c9251a025d8ff
+size 205

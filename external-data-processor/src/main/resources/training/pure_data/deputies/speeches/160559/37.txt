@@ -1,1 +1,3 @@
-Manifestação favorável à distribuição de royalties de petróleo aos Estados e Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67be5f0a4adeb41a479abd56f6261e5c2689b96f453c3af1c17abf8863f3a466
+size 108

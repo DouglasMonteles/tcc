@@ -1,1 +1,3 @@
-Apoio ao posicionamento do Ministro Marco Aurélio Mello, do Supremo Tribunal Federal, favorável à necessidade da decisão do Tribunal Pleno da Suprema Corte, para interferência em questões relativas aos Poderes Legislativo e Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b607512e285459929c0de800591ade20c2511b51591208c4a5f7f9862fabfcce
+size 240

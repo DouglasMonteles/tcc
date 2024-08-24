@@ -1,1 +1,3 @@
-Saudação à Presidenta em exercício dos trabalhos, Deputada Maria do Rosário. Pedido de criação pela Casa de Comissão Externa, para acompanhamento das ações de enfrentamento dos efeitos das chuvas em municipalidades cearenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f3664bab732d6dc495f406f82762b059173299fc47b28c1d0add093844e6d80
+size 235

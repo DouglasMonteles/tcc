@@ -1,1 +1,3 @@
-Aplausos ao Prefeito do Rio de Janeiro, Marcelo Crivella, pela criação do Programa Trabalhar Vale a Pena, destinado à utilização da mão de obra de presidiários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10ce33f5f0a3651fd5507a243e3947dad32d099357fdaf91398c849491d5c40a
+size 167

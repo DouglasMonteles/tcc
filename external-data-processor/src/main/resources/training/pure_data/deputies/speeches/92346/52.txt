@@ -1,1 +1,3 @@
-Críticas à adoção de temas relativos à temática feminista pelo Exame Nacional do Ensino Médio. Defesa de aprovação do Projeto de Lei nº 867, de 2015, sobre a inclusão do Programa Escola sem Partido entre as diretrizes e bases da educação nacional, e de proposições sobre o mesmo tema em tramitação na Assembleia Legislativa do Estado do Rio de Janeiro e na Câmara Municipal do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2be109521e8499556f51f965ae0fad2aee8904cd343e3bb9d831e1df1784166d
+size 410

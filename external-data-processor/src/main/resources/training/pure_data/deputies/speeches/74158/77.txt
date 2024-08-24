@@ -1,1 +1,3 @@
-Crítica à reforma política em curso na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97abf32b98b3e56422990ea12af8b4b0a5fdec365a997f1b162f5bfef2cbd18e
+size 64

@@ -1,1 +1,3 @@
-Aprovação de requerimento, de autoria do orador, com vistas à realização de audiência pública, pela Comissão Externa de Rompimento de Barragem na Região de Mariana, para oitiva de especialistas em recuperação ambiental e tratamento de água, com objetivo de realização de estudos na Casa sobre recuperação do Vale do Rio Doce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12486fc7e037d1a54ca2e4aaeb526cdc0ecc2364ae6bf067f4659bf61d8620ac
+size 341

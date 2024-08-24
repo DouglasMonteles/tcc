@@ -1,1 +1,3 @@
-Exploração política da pandemia de coronavírus pelos partidos oposicionistas.  Exaltação do novo coronavírus por ex-Presidente da República. Repasse, pelo Governo Federal, de recursos aos Governadores Estaduais para compra de medicamentos e equipamentos de proteção individual. Apelo ao Presidente Rodrigo Maia por equilíbrio nas inscrições para discussão de matérias constantes na pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d543aa5ab866d01701ec22dabfa3866b626997e1350053e11eb9029902e0be7
+size 403

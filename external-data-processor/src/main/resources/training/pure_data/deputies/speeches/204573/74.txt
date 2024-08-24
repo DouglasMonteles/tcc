@@ -1,1 +1,3 @@
-Defesa de rejeição pela Casa do Projeto de Lei nº 576, de 2021, sobre o disciplinamento da outorga de autorizações para aproveitamento de potencial energético offshore.
+version https://git-lfs.github.com/spec/v1
+oid sha256:142bcb70834273ad2f627136d75c1877991c54757d656309d05de9c03f3bcd0d
+size 174

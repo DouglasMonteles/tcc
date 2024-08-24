@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido pelo Relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável ao Projeto de Lei nº 1.494, de 2021, sobre a tipificação da prática de zoofilia como crime de maus-tratos. Apresentação do Projeto de Lei nº 287, de 2023, acerca da doação aos fundos de animais domésticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb5e9f3f1463cafe5ead2fc0cd0ea019b08e54c781af8e2240e39e037061f2a0
+size 352

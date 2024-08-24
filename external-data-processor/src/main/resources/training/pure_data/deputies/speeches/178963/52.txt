@@ -1,1 +1,3 @@
-Pedido à Presidência de votação do item 3 da pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83c4a3e6d81a2cf650de7d048ae0fdd999e336bc87acee5e3d1d02db34cc6034
+size 55

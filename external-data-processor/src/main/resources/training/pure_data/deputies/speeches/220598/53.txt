@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 3, apresentada ao Projeto de Lei nº 996, de 2015, sobre a alteração do art. 121 do Decreto-Lei nº 2.848, de 1940, (Código Penal), com vista à qualificação do homicídio praticado contra membros do Ministério Público e magistrados no exercício de suas funções.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4fef4c581c68bf913a796f69d9db50346488fcc22922faefd0e74d28c7dcf51
+size 391

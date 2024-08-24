@@ -1,1 +1,3 @@
-Transcurso do centenário da imigração japonesa ao Brasil. Congratulações às colônias nipônicas radicadas no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dac366b83cb286a742e4d3107143d8253837bce2be89f8cde9041cf557897efa
+size 137

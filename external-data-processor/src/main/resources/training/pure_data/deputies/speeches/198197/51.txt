@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Café. Presença no plenário dos Vereadores Dorinha Melgaço e Raphael de Paulo, do Município de Unaí, Estado de Minas Gerais. Emissão de parecer à Medida Provisória nº 1.091, de 2021, e às Emendas de nºs 1 a 11, apresentadas conforme o caput  do art. 3º do Ato Conjunto nº 1, de 2020, editado pelas Mesas da Câmara dos Deputados e do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04ec3bc8c29f343000e552a6b2b9fbb66d20e4326b0e8fa5707674ae4156e416
+size 392

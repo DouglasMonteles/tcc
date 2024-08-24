@@ -1,1 +1,3 @@
-Crítica à gestão do Presidente Luiz Inácio Lula da Silva. Expectativa de repúdio do Parlamento a atrocidades praticadas pelo Governo petista contra o País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bba8979befbe8e76190fb194c8b142a6a5eaabedd8775af996d00cf66057648
+size 161

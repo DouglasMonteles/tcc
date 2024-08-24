@@ -1,1 +1,3 @@
-Consternação com a queda de avião em que viajava o Presidente da Bradesco Seguros, Marco Antonio Rossi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8fba93263346b223dcfdef06aecac58b18b18b2a670f8fefe8211de85ffd4ea
+size 106

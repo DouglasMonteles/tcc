@@ -1,1 +1,3 @@
-Perseguição política praticada contra o candidato à Prefeitura Municipal de Sorocaba, Deputado Estadual Raul Marcelo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:042d8136e45da4c6138524f32dd79a2c3bb8ded2a43dc101954adff15f9de0aa
+size 121

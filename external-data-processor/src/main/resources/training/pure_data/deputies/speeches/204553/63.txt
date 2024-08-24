@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei do Congresso Nacional nº 45, de 2019, sobre a abertura ao Orçamento Fiscal da União, em favor do Ministério de Minas e Energia, de Encargos Financeiros da União, de Transferências a Estados, Distrito Federal e Municípios, e de Operações Oficiais de Crédito, crédito especial no valor de R$ 40.513.869.298,00 (alteração proposta pela Mensagem presidencial nº 545, de 2019). Omissão do Governo Federal sobre o vazamento de petróleo no litoral nordestino. Empenho do Governador Rui Costa, do povo baiano, especialmente dos membros da Fundação Dr. Jesus, para despoluição das praias do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66bb2edd4d5e3b04d6679c2f3bfee7126002879d99fa6983c70189545372de66
+size 673

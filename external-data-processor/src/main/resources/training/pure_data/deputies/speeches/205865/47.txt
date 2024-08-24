@@ -1,1 +1,3 @@
-Solicitação à Presidência de determinação ao Departamento de Taquigrafia, Revisão e Redação de retirada de expressão ofensiva ao Presidente da República contida em pronunciamento de Deputada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fe873ed615e673df52afa0551b0eb2f283abcb6da17ecf7094b42802d7a700c
+size 202

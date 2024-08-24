@@ -1,1 +1,3 @@
-Preocupação com a alfabetização das crianças brasileiras, ante a divulgação, pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP, dos resultados da Avaliação Nacional da Alfabetização de 2014 de alunos de escolas públicas e privadas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a01b4d19bbae479471f07f1f85efc8e50235bad9b19d43a49766343d5eb5541
+size 286

@@ -1,1 +1,3 @@
-Apresentação de requerimento de criação de CPI para investigação de casos de fura-fila na vacinação contra a Covid-19. Encaminhamento, ao Ministério da Saúde, de requerimento de indicação para inclusão de Oficiais de Justiça em grupo prioritário no âmbito do Plano Nacional de Imunização. Defesa da participação da categoria em audiência pública na Comissão de Constituição e Justiça e de Cidadania, para debate da Proposta de Emenda à Constituição nº 32, de 2020, acerca da alteração de disposições relativas aos servidores públicos e à organização administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9091234a0c246386112924ef887e7e8fdb91655e5af034054cab1a41cf96c6a
+size 603

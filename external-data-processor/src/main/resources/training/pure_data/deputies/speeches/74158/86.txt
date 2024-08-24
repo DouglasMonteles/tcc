@@ -1,1 +1,3 @@
-Apresentação, pelo orador, de requerimento de urgência para a análise do Projeto de Lei nº 1.162, de 2007, acerca da prevenção de acidentes em piscinas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59b5e9a6cf9277710bba4cbc4825f1c05ab7cfb13723c2c8f852d9b0c340fbb8
+size 159

@@ -1,1 +1,3 @@
-Ameaça de desapropriação de terras de produtores rurais no Estado de Santa Catarina, em face da demarcação de reservas indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b96da44ead57eb855f06415dab1e522d923819ec7bfe2e925a82a3e21c705a7f
+size 135

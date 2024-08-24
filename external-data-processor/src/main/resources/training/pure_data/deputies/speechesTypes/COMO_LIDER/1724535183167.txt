@@ -1,1 +1,3 @@
-Saudações aos militantes do Movimento dos Trabalhadores Rurais Sem Terra - MST. Trajetória política da oradora. Contentamento da Parlamentar com o lançamento da pré-candidatura do ex-Presidente Luiz Inácio Lula da Silva à sucessão presidencial, no Município de Contagem, Estado de Minas Gerais. Inexistência de provas criminais para condenação do líder petista. Teor do depoimento prestado pelo advogado Rodrigo Tacla Duran à Comissão de Direitos Humanos e Minorias a respeito da Operação Lava-Jato. Não afastamento da população brasileira da política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d3edb69f4053a271d9436339bd7c31ecec784bb8cc16dc045c9ff14531c378a
+size 574

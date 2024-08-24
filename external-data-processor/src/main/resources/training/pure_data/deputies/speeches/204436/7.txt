@@ -1,1 +1,3 @@
-Necessidade de estímulos governamentais à retomada do desenvolvimento socioeconômico da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e13c029040ff3c0c37ceb60961229bcad2e11a30cb41e852af056ccb6b01130f
+size 108

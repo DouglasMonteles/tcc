@@ -1,1 +1,3 @@
-Determinação de retirada de presumíveis lobistas do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afe59331a438484cbfa499594b6982095774ef7e47d0ac5e00ab5d9d791636a9
+size 65

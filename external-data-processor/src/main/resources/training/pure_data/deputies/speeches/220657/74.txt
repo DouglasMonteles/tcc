@@ -1,1 +1,3 @@
-O Deputado protestou contra a obstrução do PT à votação do Projeto de Lei nº 3.780, de 2023, que trata do aumento das penas para os crimes de furto e roubo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fe8ff31346293e730ae8c661b959b9b7a60d4a734c05087ca6dea7fd8a04547
+size 162

@@ -1,1 +1,3 @@
-Transcurso do 120º aniversário de criação da Inspeção do Trabalho no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7651f5769720c2252d24c2ba8dad03413791eba8978a7d20938decc40b42fea
+size 82

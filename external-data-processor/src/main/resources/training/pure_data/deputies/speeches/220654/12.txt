@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Vyshyvanka, data destinada à celebração de tradições seculares do povo ucraniano. Inadmissibilidade de implantação do regime comunista no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06ab9c75a73804febd4dcc12c57ca4a0366db870fc34fbd1856bf14228b5a8f5
+size 181

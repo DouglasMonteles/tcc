@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Balanço da luta das mulheres pela igualdade de gênero. Avanços decorrentes da promulgação da Lei Maria da Penha. Atuação parlamentar do orador em defesa da melhoria da qualidade de vida das mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d59c8843389d510e0975acf5ad8f25385b2b5d320cd4339e3161cf75a1dbf6b7
+size 249

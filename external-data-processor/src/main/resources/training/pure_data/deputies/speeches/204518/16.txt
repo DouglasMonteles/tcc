@@ -1,1 +1,3 @@
-Homenagem póstuma ao Deputado Federal Luiz Flávio Gomes. Congratulações à Comissão Externa destinada ao acompanhamento das ações de combate ao coronavírus. Orientação de bancada na votação da Subemenda Substitutiva Global apresentada pelo Relator da Comissão de Seguridade Social e Família ao Projeto de Lei 864, de 2020, sobre alteração da Lei nº 6.360, de 1976, com vista à liberação imediata do uso de materiais, medicamentos, equipamentos e insumos da área da saúde para auxílio no combate à pandemia do Covid-19, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0261d397905b479f2aa5b2a76d6953fd1c87fd6660bf3fc4ec0371485ff6df0
+size 568

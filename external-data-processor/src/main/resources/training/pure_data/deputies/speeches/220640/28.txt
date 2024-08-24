@@ -1,1 +1,3 @@
-Participação da oradora na comitiva da Ministra dos Povos Indígenas, Sonia Guajajara, em visita ao Parque Indígena do Xingu, no Estado do Mato Grosso. Aprovação, pela FUNAI, dos estudos de identificação e delimitação da Terra Indígena Kapôt Nhinore. Julgamento, pelo Conselho de Ética e Decoro Parlamentar, de processo instaurado contra a oradora por participação em manifesto contra a adoção da tese do marco temporal na demarcação de territórios dos povos originários. Preservação do meio ambiente como medida de contenção do avanço de mudanças climáticas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83e62d07f25cde2ef746b81f57355c769994869a21feac882118843d8df49c1b
+size 586

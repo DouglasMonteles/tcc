@@ -1,1 +1,3 @@
-Regozijo com a aprovação do Projeto de Lei nº 6.579, de 2013, sobre alteração dos arts. 123 e 124 da Lei nº 7.210, de 1984 (Lei de Execução Penal), para restrição do benefício da saída temporária de presos. Anúncio de apresentação de projetos de lei sobre criminalização do uso de telefone celular dentro das unidades prisionais e extinção das visitas íntimas e do auxílio reclusão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:561a540db73d35e85369bf002412ef9ff9370406e0380f2d3d96a42b20d27e54
+size 405

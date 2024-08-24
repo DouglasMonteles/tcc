@@ -1,1 +1,3 @@
-Pedido de esclarecimento acerca do art. 19 do parecer do Relator do Projeto de Lei nº 1.428-C, de 1999, acerca da alteração de dispositivos do Código de Trânsito Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56952e2961ffae52d3d4d6a0ae2435c3d9dd6ccea25746b8d067d19676962a3a
+size 178

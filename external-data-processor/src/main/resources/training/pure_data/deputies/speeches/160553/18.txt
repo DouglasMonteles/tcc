@@ -1,1 +1,3 @@
-Gestões da Frente Parlamentar das Santas Casas junto ao Ministério da Saúde e ao BNDES para concessão de uma linha subsidiada para Santas Casas de Misericórdia e hospitais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e71df2dd2628a01c40e4a1a5a239a256f53be3791645e0d41a3350f7a298268
+size 177

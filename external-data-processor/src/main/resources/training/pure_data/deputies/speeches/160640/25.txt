@@ -1,1 +1,3 @@
-Repúdio ao posicionamento da nova Ministra da Secretaria de Políticas para as Mulheres favorável à prática do aborto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9fe440394e63d2f7cc7aa2200e5f36d218e7617e588cc9cd40ff013b22394f9
+size 122

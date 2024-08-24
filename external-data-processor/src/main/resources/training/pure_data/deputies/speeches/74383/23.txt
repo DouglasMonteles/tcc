@@ -1,1 +1,3 @@
-Transcurso de aniversário do Município de Rio Branco do Ivaí, Estado do Paraná. Atrações turísticas da municipalidade. Retrospecto do processo de criação de Rio Branco do Ivaí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbdb2eccdb671d2a4edcce845c632f5bd7ba7700102f7cc2d927526db793ae69
+size 186

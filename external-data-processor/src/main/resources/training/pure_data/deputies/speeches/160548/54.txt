@@ -1,1 +1,3 @@
-Regozijo com o acordo sobre a ampliação dos limites de enquadramento no Super-SIMPLES, celebrado entre o Governo Federal e a Frente Parlamentar da Micro e Pequena Empresa no Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33975e9b43686f2f287348fb1630a7fe1d4ebdf683f70167a1a218dddcf9ccbd
+size 195

@@ -1,1 +1,3 @@
-Cobrança ao Governo Federal de investimentos na área de saúde no Estado de Tocantins. Empenho do orador na construção de hospital na capital tocantinense, Palmas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:566b09fae4bfd9bfd7a61999c9e405d66a2f75b315ff8225660470bd4107787f
+size 167

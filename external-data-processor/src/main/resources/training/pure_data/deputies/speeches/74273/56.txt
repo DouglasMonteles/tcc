@@ -1,1 +1,3 @@
-Urgente adoção de medidas efetivas para combate à criminalidade no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d81e5c98f13aa6f9af58bd43923d42ab08946731a2fdea16ebfc896acd4090cb
+size 77

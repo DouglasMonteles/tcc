@@ -1,1 +1,3 @@
-Resultado de reunião do orador com o Ministro da Integração Nacional, Gilberto Occhi, destinada ao debate de projetos de interesse do Estado de Sergipe relacionados à Pasta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:329524c3c52c79fb41f6adbca78fed67b7cc3860734b294f1b7d5b4446717a15
+size 177

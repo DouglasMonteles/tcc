@@ -1,1 +1,3 @@
-Caráter itinerante da atuação da Ouvidoria do Ministério da Saúde na gestão de Alexandre Padilha. Realização de convênio entre o órgão e a Federação dos Trabalhadores na Agricultura do Estado do Rio Grande do Sul - FETAG/RS para esclarecimento à população rural sobre o funcionamento do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c659b01f41678a02c95e2283d83c6ccd5a339c862c740977f1ab6b8b6179a0c
+size 334

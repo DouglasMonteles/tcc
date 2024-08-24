@@ -1,1 +1,3 @@
-Apelo à Presidenta Dilma Rousseff de retomada das obras de transposição de águas do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0c3a8ef159876a04acd106fa827ec1878678310f7ad8af0c00249a90605ab54
+size 107

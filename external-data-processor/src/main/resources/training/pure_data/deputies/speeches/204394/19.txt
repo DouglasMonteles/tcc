@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação nominal do requerimento de retirada de pauta do Projeto de Lei nº 1.292, de 1995, sobre a alteração da Lei nº 8.666,  de 1993, acerca de normas para licitações e contratos da Administração Pública. Repúdio ao corte de recursos do setor educacional, anunciados pelo Presidente Jair Bolsonaro. Expectativa quanto à realização de manifestações no País em defesa da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b7c8d4035b2de0603ed40fa64e8ba8d335e90479c3432c2820daf1fd69f46b8
+size 455

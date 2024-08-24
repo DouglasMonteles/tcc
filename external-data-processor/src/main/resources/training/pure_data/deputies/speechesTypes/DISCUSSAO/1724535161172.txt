@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de Lei nº 5.867, de 2023, que dispõe sobre a criação do Dia do Rei Pelé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c082f1f9c4c8808e16370ff266bce3e74e7034fdb2fd98459cc8c359280584a
+size 107

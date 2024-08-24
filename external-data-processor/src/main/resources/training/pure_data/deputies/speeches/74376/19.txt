@@ -1,1 +1,3 @@
-Expectativa da certificação do Estado de Mato Grosso do Sul como área livre da febre aftosa, com vistas à retomada das exportações de carne bovina para o mercado europeu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40c9cb6ec90e6db627a7d66e21957f2cb82a65061a27d926ac0f9cf782717bb6
+size 176

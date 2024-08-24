@@ -1,1 +1,3 @@
-O Deputado criticou o Governo da Bahia pelo cancelamento da FENAGRO 2023, atribuindo a decisão à intenção do Governo Estadual de vender o local que hospedaria o evento, o que afetaria negativamente o setor agropecuário e a agricultura familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1491b56b9f7fe304ff51e63c1060375f42755bc2047ec54eb55694d310fc303
+size 249

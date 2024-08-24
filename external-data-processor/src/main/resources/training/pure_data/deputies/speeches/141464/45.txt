@@ -1,1 +1,3 @@
-Solicitação, ao Conselho Nacional de Defesa Civil e ao Ministério da Integração Nacional, de auxílio às Prefeituras Municipais de Icapuí e Caucaia, Estado do Ceará, para execução de obras de combate à erosão e ao avanço das marés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57058aa30af9ee14ae730050c5c3b514b05af46788317530224047981e895708
+size 245

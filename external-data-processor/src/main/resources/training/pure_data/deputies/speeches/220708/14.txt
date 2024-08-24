@@ -1,1 +1,3 @@
-O Deputado expressou sua preocupação com o municipalismo brasileiro, em especial com os pequenos e médios municípios do Norte e do Nordeste, que dependem do Fundo de Participação dos Municípios (FPM) como sua principal fonte de receita e enfrentaram queda acentuada na arrecadação. O Parlamentar fez um apelo ao Ministro da Fazenda, Fernando Haddad, para que intervenha e ajude esses municípios a enfrentar essa crise financeira. Além disso, pediu à Casa que considere a redução da alíquota do INSS, especialmente para os pequenos e médios municípios, e destacou a importância de projetos que tramitam na Câmara, tais como a desoneração da folha de pagamento de setores da economia brasileira. Enfatizou que essa medida seria crucial para fortalecer o municipalismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b97d38a88af6f101c36ed86ef2b0dba6a3713d784a65fd74141b7d9ee8b5661a
+size 787

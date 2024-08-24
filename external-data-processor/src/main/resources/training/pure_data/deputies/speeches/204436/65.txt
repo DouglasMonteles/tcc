@@ -1,1 +1,3 @@
-Alcance do patamar de 425 mil mortes no País em decorrência da Covid-19. Transcurso do Dia Internacional do Enfermeiro. Defesa de inclusão na pauta do Projeto de Lei nº 2.295, de 2000, sobre a jornada de trabalho dos enfermeiros, técnicos e auxiliares de enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:808a7836c1ba78b68c1eb16fee391d12513ea7d2a8a918460dfc81b16e61fc38
+size 271

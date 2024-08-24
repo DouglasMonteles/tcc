@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 1.246, de 2021, sobre a reserva obrigatória mínima de 30% de vagas para mulheres em conselhos de administração de companhias abertas, estatais, sociedades de economia mista ou outras empresas da União, dos Estados, do Distrito Federal e dos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:030daecc569313267c732251151f64c32da3af002a3b276190dee4b337944982
+size 291

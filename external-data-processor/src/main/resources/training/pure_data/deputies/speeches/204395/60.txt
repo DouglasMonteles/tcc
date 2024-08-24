@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a disponibilidade de recursos para o seguro rural, destacando a necessidade em meio a desastres naturais, como secas e enchentes. Explicou a demanda da Frente Parlamentar da Agropecuária por 3 bilhões de reais para o seguro e a situação de cancelamento de recursos. Informou ainda que um acordo foi alcançado para recompor 45 milhões de reais retirados do seguro rural no Projeto de Lei do Congresso Nacional nº 22, de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5edaa115160c13ab3d80c9e0260376d5bac1f5be7949f0781010223e5c5f6ba6
+size 470

@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação da Emenda de Plenário nº 12 apresentada ao Projeto de Lei nº 4.173, de 2023, que dispõe sobre a tributação da renda auferida por pessoas físicas residentes no País em aplicações financeiras, entidades controladas e trusts no exterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eccba90eb02abcbeaa75b0f03d9d70b5c4a835cf8f42be886019e914d7d65c65
+size 287

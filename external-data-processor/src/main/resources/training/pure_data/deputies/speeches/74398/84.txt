@@ -1,1 +1,3 @@
-Relato de atividades da Comissão de Educação e Cultura com vistas à aprovação do novo Plano Nacional de Educação. Solidariedade aos professores do Estado do Rio Grande do Sul diante da apresentação, pela Governadora Yeda Crusius, de ação direta de inconstitucionalidade da lei sobre a instituição do piso salarial nacional do magistério público da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3daa9ecb7dc8dcac17e32da19bd98df67cb2cbc0880d576e96906668e809c35
+size 383

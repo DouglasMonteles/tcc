@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Constituição e Justiça e de Cidadania, ao Projeto de Lei 1.664 de 2007 (Amplia, para o estrangeiro em situação ilegal no território nacional, o prazo para requerer registro provisório).
+version https://git-lfs.github.com/spec/v1
+oid sha256:34ea073600970687ecca4b7d759b6b93cf19ac3810690c3e5917b22f6404934f
+size 219

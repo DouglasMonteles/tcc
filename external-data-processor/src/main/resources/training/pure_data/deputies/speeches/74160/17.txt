@@ -1,1 +1,3 @@
-Reflexões sobre o panorama global da fome ao ensejo do transcurso do Dia Mundial da Alimentação. Reconhecimento internacional do sucesso dos Governos do PT em políticas de erradicação da fome e miséria no Brasil. Elevação dos índices de fome e miséria em decorrência de cortes de programas sociais pelo Governo Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:660231c7ef45a7abc6251d4171fb40f4aff01298b32ab0db1be06f7c121cb138
+size 336

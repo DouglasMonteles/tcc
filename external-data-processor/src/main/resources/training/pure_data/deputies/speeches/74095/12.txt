@@ -1,1 +1,3 @@
-Apresentação de requerimento de informações ao Ministério do Esporte sobre denúncias de irregularidades da execução de programas pela Pasta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22bb4f45536f678c8a579f7c33313dd5a95058c919556f444e53feba7ec94d7e
+size 148

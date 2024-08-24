@@ -1,1 +1,3 @@
-Defesa de aprovação da Proposta de Emenda à Constituição nº 45, de 2019, sobre a alteração do Sistema Tributário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8f4c9380d26018de9d32414915a6fe5aa5f40322a2b8639b70ba13e96b92968
+size 131

@@ -1,1 +1,3 @@
-Saudações aos indígenas pernambucanos participantes no Acampamento Terra Livre, realizado no Distrito Federal. Posicionamento do orador contrário à aprovação da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:243558c67306b32815f57734ab0225bb8fd6d4f5e32fe53364301a25545c0930
+size 192

@@ -1,1 +1,3 @@
-Assunção pelo Vice-Governador Otaviano Pivetta, em caráter interino, do cargo de Governador do Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba7d9ad7314c63d9e408e51a4fdce951b8020e87a0ae60e93a42c6e77525b3e0
+size 120

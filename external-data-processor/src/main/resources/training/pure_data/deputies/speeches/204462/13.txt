@@ -1,1 +1,3 @@
-Declaração de voto pela aprovação, em segundo turno, da proposta de reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f39ca773fc78f3a0ec48bc8add0104be237aa440e0a9f66f3117ce1f2881a60a
+size 103

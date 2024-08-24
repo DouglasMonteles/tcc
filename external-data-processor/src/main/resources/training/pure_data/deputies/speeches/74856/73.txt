@@ -1,1 +1,3 @@
-Pesar pelos baixos índices de saneamento básico no Brasil. Compromisso da oradora no desempenho do mandato parlamentar em prol do aprimoramento da infraestrutura em saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:130ccb9af4e5999b3c399e3803e914dfed941d9044f415767e9f0c2f6737f79a
+size 186

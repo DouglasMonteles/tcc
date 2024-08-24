@@ -1,1 +1,3 @@
-Apoio à ação realizada pela Polícia Militar em conjunto com a Polícia Rodoviária Federal contra criminosos, culminante na morte de 25 pessoas, na Vila Cruzeiro, Complexo da Penha, Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:258764c96ed5fb796ad2c93dc151170dba222ea296934424e40cd33a4776daa4
+size 227

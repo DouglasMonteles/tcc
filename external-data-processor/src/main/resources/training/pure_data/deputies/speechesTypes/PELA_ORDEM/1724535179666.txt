@@ -1,1 +1,3 @@
-Perplexidade ante o assassinato da própria mãe por jovem de 17 anos de idade. Reformulação de dispositivos do Código Penal brasileiro, com vistas à punição de menores praticantes de crimes hediondos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:982bf42ecfad9caf8e86262650134a04805d08904a023336a6fe32998e1b77d5
+size 207

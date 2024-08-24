@@ -1,1 +1,3 @@
-Defesa da perenidade do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB. Apelo ao Líder do Governo na Casa de debate com os Ministros da Economia e da Educação sobre a importância da prioridade no financiamento do setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0916acb55084c9aabdfe3abcb5e7fe71fcd9d83427f8ddae7104d85b9a218fc
+size 310

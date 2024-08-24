@@ -1,1 +1,3 @@
-Regozijo pela aprovação, em primeiro turno, da Emenda Aglutinativa Global de Plenário à  PEC 333 de 2004 (Modifica a redação do art. 29-A e acrescenta art. 29-B à Constituição Federal para dispor sobre o limite de despesas e a composição das Câmaras de Vereadores e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc066b7bd3f38e72becae6acc26f5c6f4b0d5e05388534e4f90cd4f1b498a785
+size 304

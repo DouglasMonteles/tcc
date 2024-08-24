@@ -1,1 +1,3 @@
-Repúdio à atuação do Presidente Jair Bolsonaro. Elogio ao Presidente Rodrigo Maia e Deputados por iniciativa adotada em favor do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d45f8dfb14fde7300fe4a1767c5b0d9b00cb2ba23f9ea8d1efae52f839b0662
+size 174

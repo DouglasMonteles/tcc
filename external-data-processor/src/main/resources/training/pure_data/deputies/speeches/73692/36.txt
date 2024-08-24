@@ -1,1 +1,3 @@
-Apoio da corrente Afirmação Democrática do PMDB à decisão do Líder do partido, Deputado Henrique Eduardo Alves, de obstrução das votações até a deliberação da Casa sobre a proposta de instituição do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e913edde38cf54067fe79686a4395cd22ec0dec0437ec03ff53c2fb635610c6
+size 248

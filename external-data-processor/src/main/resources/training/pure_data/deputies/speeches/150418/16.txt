@@ -1,1 +1,3 @@
-Sanção, pelo Presidente Luiz Inácio Lula da Silva, do Estatuto da Igualdade Racial, lançamento do Selo Quilombola e concessão de títulos de propriedade da terra a remanescentes de quilombos por ocasião de visita a Salvador, Estado da Bahia. Transcurso do Dia Nacional da Consciência Negra. Combate à discriminação racial no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47eb573c272e919f45fcae6b05a0b83103b0a1c0e0fa7101396471059a9254ab
+size 342

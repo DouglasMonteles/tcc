@@ -1,1 +1,3 @@
-Homenagem aos organizadores da 11ª Cavalgada do Raid da Amizade, no Município de Nossa Senhora da Glória, Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76fb577b1aaa82b02bc77486b9004331ab79d0232c1d6ac5f40c17d27109fcaa
+size 127

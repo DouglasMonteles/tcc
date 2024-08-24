@@ -1,1 +1,3 @@
-Saudação à ativista Amália Barros. Emissão de Parecer ao Projeto de Lei nº 1.615, de 2019, a respeito da classificação da visão monocular como deficiência sensorial, do tipo visual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae5e570d004909fadd83149dc96b02b2cb713a001a09ca574786248cff3f7a8b
+size 191

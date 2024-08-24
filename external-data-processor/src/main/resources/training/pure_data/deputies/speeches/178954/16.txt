@@ -1,1 +1,3 @@
-Anúncio de início da Semana do Peixe no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afbbbe9d43d683fd99fbbce79ea3259eb63afb4c14a6fac5c657978b8ecbdd4a
+size 62

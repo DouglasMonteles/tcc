@@ -1,1 +1,3 @@
-Baixo valor dos royalties de minério repassados a municipalidades brasileiras. Sustentação do Projeto de Lei nº 283, de 2011, do Senado Federal, que eleva a alíquota da Compensação Financeira sobre Exploração de Recursos Minerais - CFEM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc36f4ec919d1ba234a4bf4a2e92c8bdcd935ff3dc115d2568778864896e573d
+size 246

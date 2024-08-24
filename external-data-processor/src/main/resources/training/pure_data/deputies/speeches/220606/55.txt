@@ -1,1 +1,3 @@
-Contestação à fala insensata do Deputado Abílio Brunini em relação ao Papa Francisco, uma das maiores referências do mundo religioso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58d0621865bed35bb4955b23d84c3af16062734b8d200fc5d4ebc1931451f807
+size 140

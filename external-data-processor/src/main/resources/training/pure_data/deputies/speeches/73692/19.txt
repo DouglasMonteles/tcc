@@ -1,1 +1,3 @@
-Discordância do orador com o posicionamento do ex-Secretário Nacional de Políticas sobre Drogas - SENAD, Pedro Abramovay, favorável à soltura de pequenos traficantes. Combate ao tráfico e ao uso de crack no País. Defesa de aprovação pela Casa de nova legislação de combate ao narcotráfico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd4eb48df0a8a9e541d1b36f726bbc97cd748c9ac63aeef0e598537bc2a966b4
+size 301

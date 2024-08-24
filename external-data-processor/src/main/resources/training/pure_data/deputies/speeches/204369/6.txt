@@ -1,1 +1,3 @@
-Honradez do Ministro da Justiça e Segurança Pública, Sérgio Moro, e dos Procuradores da Operação Lava-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29e321fbc809f2c053b747d76e61b55e7d6bf94bd2559aa435148059066752f0
+size 113

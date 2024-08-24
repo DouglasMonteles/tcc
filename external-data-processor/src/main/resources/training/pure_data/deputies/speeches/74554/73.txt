@@ -1,1 +1,3 @@
-Participação na Festa dos Vaqueiros, no Município de Barra do Mendes, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a508d762fdc1651411e4f1a1cc445150c8c20a723d9bda90fb229f32c562e0b1
+size 89

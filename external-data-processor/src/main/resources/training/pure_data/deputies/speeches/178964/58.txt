@@ -1,1 +1,3 @@
-Cobrança à ANATEL de solução para a falta de sinal de telefonia celular e de Internet no meio rural brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f46437f59fd2379e12735872adf419225c74d098f39d17c3acbb1af552abc10
+size 115

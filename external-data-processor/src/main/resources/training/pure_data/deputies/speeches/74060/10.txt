@@ -1,1 +1,3 @@
-Transcurso do 86º aniversário de fundação do Partido Comunista do Brasil - PCdoB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba20b62826b62e340e08eb3eaf3758b4174c4afcae3de0845a226bbfe8a64f65
+size 85

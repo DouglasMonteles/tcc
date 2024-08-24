@@ -1,1 +1,3 @@
-Vocação do Estado de Santa Catarina para o empreendedorismo. Manifestação de boas-vindas ao empresário catarinense Gilberto Zanetti, em visita à Câmara dos Deputados. Agradecimento ao Presidente Jair Bolsonaro pela implantação de políticas a favor do empresariado brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a7ef259aac0c811d41d13c586a65912cec16c81a6eb6bc8dd5690fa8e0d5ab5
+size 285

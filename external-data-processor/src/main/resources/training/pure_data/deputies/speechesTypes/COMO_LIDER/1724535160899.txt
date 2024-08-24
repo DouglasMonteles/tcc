@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 3º-B, constante do art. 3º do Substitutivo oferecido no Projeto de Lei nº 10.372, de 2018, e, por decorrência, dos artigos 3º-C, 3º-D, 3º-E e 3º-F, para fins de supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae8128f7c511ceebf6f758b2c73ce709d32e31c207629ba57d24ce0a43811d7f
+size 280

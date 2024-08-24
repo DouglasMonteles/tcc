@@ -1,1 +1,3 @@
-Importância de aprovação, pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, da proposta do Relator Arlindo Chinaglia sobre a possibilidade de apresentação de emendas orçamentárias populares pelos Municípios com até 50 mil habitantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d18d4c1b25b8bd3b0dcadb5483e3cdd6be6c96006d4b4af727b5aa1ad2b6644
+size 264

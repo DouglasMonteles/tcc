@@ -1,1 +1,3 @@
-Congratulações à Fundação SOS Mata Atlântica ao ensejo do transcurso do Dia Nacional da Mata Atlântica. Recuo do desmatamento no bioma sem o comprometimento do desenvolvimento sustentável. Saudação a doutoranda da Universidade Federal de Sergipe pelo lançamento de livro sobre a Mata do Junco. Empenho do orador na aprovação da Proposta de Emenda à Constituição nº 504, de 2010, que altera o § 4º do art. 225 da Constituição Federal, para incluir o Cerrado e a Caatinga entre os biomas considerados patrimônio nacional. Fragilidade de acusações caluniosas contra o ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ca14b4dccc4a0fe96a41d7ee3fa008a9e0d6957418172ac5c28653533ae0e6f
+size 630

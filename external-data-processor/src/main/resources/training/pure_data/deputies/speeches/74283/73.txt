@@ -1,1 +1,3 @@
-Cumprimentos ao engenheiro Otoniel Andrade pela profícua gestão do Departamento Nacional de Produção Mineral no Estado do Tocantins. Falecimento do Prefeito Municipal de Gurupi, João Lisboa da Cruz. Realização da Exposição Agropecuária de Gurupi. Transcurso de aniversário do Município de Santa Rosa, Estado do Tocantins. Homenagens à Organização Jaime Câmara e ao Jornal do Tocantins pelos relevantes serviços em prol do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8c2de81c2c01ee2f0124e732dedc74e170888ce4eb3e2b68b2ff6d8e053c25d
+size 449

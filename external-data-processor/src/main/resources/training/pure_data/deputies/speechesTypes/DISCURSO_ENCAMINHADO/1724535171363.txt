@@ -1,1 +1,3 @@
-Contentamento da população brasiliense com a retomada do cargo pelo Governador do Distrito Federal, Ibaneis Rocha. Compromissos assumidos pelo Governador ao ensejo do seu retorno ao Palácio do Buriti. Anúncio de lançamento do edital do Hospital Regional do Guará. Transcurso do Dia Mundial da Infância e do Dia Internacional da Síndrome de Down. Relevância do Programa Criança Feliz Brasiliense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:842643aeae8f5342fb091a337b8cfcdc71aac3f76120b12e30b7595635658ece
+size 405

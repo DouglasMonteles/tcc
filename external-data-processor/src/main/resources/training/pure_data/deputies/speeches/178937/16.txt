@@ -1,1 +1,3 @@
-Visita do Presidente da República interino, Michel Temer, ao Parque Olímpico e à Arena do Futuro, na cidade do Rio de Janeiro. Participação de S.Exa. em reunião do Comitê Olímpico Internacional - COI e do Comitê Olímpico Brasileiro - COB. Importância dos Jogos Olímpicos e Paraolímpicos de 2016 para o Brasil. Contestação a pronunciamentos sobre a existência de golpe de Estado no País. Apoio do Presidente Michel Temer à continuidade das investigações da Operação Lava-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afaea7427fe2aca4493de048573dafa1c319603e14a0c5929d071996babdc8b3
+size 497

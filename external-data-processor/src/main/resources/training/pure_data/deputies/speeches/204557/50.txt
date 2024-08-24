@@ -1,1 +1,3 @@
-Imediata votação pela Casa da Medida Provisória nº 1.030, de 2021, sobre a liberação de recursos federais aos Estados atingidos por enchentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7d6ec6ba75af80d0dcff427a86e8a52a2b650cd2700649b7e7a976a12656b9a
+size 148

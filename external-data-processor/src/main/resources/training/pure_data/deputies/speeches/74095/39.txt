@@ -1,1 +1,3 @@
-Posicionamento contrário do DEM ao Requerimento de encerramento da discussão e do encaminhamento da votação da Medida Provisória 511 de 2010 (Dispõe sobre medidas para assegurar a sustentabilidade econômico-financeira do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, sobre autorização para garantia do financiamento do Trem de Alta Velocidade - TAV, no trecho entre os Municípios do Rio de Janeiro - RJ e Campinas - SP, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8f2470ab2d058b1a2569f69633d8ed20d58d4de0332be044e636a696d0a8f23
+size 475

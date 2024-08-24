@@ -1,1 +1,3 @@
-Protesto contra a não inclusão de carvão mineral em leilões de energia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b6e37197f1f2046fa04701ae03de9a203f533c2852080d6d385c3ed318eb5ee
+size 75

@@ -1,1 +1,3 @@
-Anúncio pelo Vice-Presidente da República, Geraldo Alckmin, da instalação de usina de produção de etanol no Município de Passo Fundo, Estado do Rio Grande do Sul. Empreendedorismo da empresa Be8, antiga BSBios. Importância da utilização do biodiesel como combustível.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a3c0a1a50e488b903096e4723734996e97cd49a4dce0e2929374faeb20b46f3
+size 278

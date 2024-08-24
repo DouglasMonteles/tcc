@@ -1,1 +1,3 @@
-Divulgação pela Rede Globo de Televisão, com o apoio do Ministério do Turismo, da campanha Ação Turismo - Viaje pelo Brasil. Precariedade da infraestrutura aeroviária brasileira. Alto custo das tarifas aéreas praticadas no País. Apresentação do Projeto de Lei nº 9.989, de 2018, sobre a ampliação das fontes de receitas para subvenção à aviação regional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dda49f85f6ab04c130e0c719f0c38a6a139a53b6d9be445f404d7c4fee77802c
+size 373

@@ -1,1 +1,3 @@
-Comemoração do 188º aniversário da independência do Estado da Bahia do jugo português. Defesa de denominação do Aeroporto Internacional de Salvador/Luís Eduardo Magalhães para Aeroporto Internacional de Salvador - 2 de Julho. Luta empreendida pelas Sras. Maria Quitéria, Joana Angélica e Maria Felipa a favor da independência da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90325b1f3e51c8e3a96af2ba0c966d8b17ca48167f7b023c80f11d92664bd850
+size 348

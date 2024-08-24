@@ -1,1 +1,3 @@
-Anúncio da apresentação de emendas à Proposta de Emenda à Constituição nº 10, de 2020, sobre a instituição do regime extraordinário fiscal, financeiro e de contratações para enfrentamento da calamidade pública nacional decorrente de pandemia internacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc655fa3aab50b0d175eec2954d41de86d6345d5ab48ec194fc13784d5340f43
+size 270

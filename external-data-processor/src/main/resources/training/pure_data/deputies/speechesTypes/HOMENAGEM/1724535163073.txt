@@ -1,1 +1,3 @@
-Sessão solene destinada à comemoração ao transcurso do Centenário da Imigração Japonesa ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a911615488ae6e3f4c3fda827eab5351ba030f4db92eef0503778a70163dbe3
+size 105

@@ -1,1 +1,3 @@
-Apoio à aprovação pela Casa do projeto de lei de interesse dos aposentados e pensionistas. Prioridades estabelecidas pela Comissão de Turismo e Desporto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d1331a86864e8ff6bb1d483d5f2cd17136b44ac76d3e6ad4843e57fc41ccc97
+size 157

@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Constituição e Justiça e de Cidadania,  à Emenda de Plenário 1 ao Projeto de Lei  Complementar 579 de 2010 (Dispõe sobre isenção do Imposto Sobre Serviços de Qualquer Natureza, de competência dos Municípios e do Distrito Federal, à Fédération Internationale de Football Association - FIFA e a outras pessoas, para fatos geradores relacionados com a Copa das Confederações FIFA 2013 e com a Copa do Mundo FIFA 2014), que determina a publicação pelo Poder Executivo dos Municípios e do Distrito Federal, em portal da Internet para livre consulta,  de todas as informações relativas à aplicação desta Lei Complementar e das Leis específicas municipais ou distrital, em especial o tipo de serviço, o valor e a renúncia fiscal correspondente, assim como os beneficiários das isenções concedidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d3ceb016ef32f152a5470cfa396590927d81f3ae5a5c3a1f590ad266b91f8ea
+size 847

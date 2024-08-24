@@ -1,1 +1,3 @@
-Contrariedade à aprovação da Proposta de Emenda à Constituição nº 32, de 2022, sobre alteração do Ato das Disposições Constitucionais Transitórias, para permissão da implementação do Programa Bolsa Família e definição de regras para a transição da Presidência da República aplicáveis à Lei Orçamentária de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72992e1700f2c68b196d807ba899c6531f43ba874538b79a6c1ab21b3d4cb124
+size 337

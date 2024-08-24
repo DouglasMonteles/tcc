@@ -1,1 +1,3 @@
-Aprovação, por unanimidade, do parecer apresentado à Comissão Especial relativa a alterações na tributação de micro e pequenas empresas, o Super-SIMPLES. Congratulações ao Presidente Eduardo Cunha pela condução dos trabalhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0935e6497d39ca86797e066b70410b779b0d9ff415ddbbc94417a2e13d38970
+size 237

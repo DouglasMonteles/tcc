@@ -1,1 +1,3 @@
-Discussão do Projeto de Decreto Legislativo nº 514-B, de 2016, sobre a aprovação do texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da Jamaica para o Intercâmbio de Informações sobre Matéria Tributária, assinado em Kingston, em 13 de fevereiro de 2014. Arquivamento de denúncia judicial contra o ex-candidato a Presidência da República, Fernando Haddad. Nulidade dos atos do autoproclamado Presidente da Venezuela, Deputado Juan Guaidó.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a72615185c14087c73ef1470e3235adde9c86e4e10437c57789cec4df65fd7a2
+size 480

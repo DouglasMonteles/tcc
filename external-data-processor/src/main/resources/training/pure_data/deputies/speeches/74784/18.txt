@@ -1,1 +1,3 @@
-Realização, pelas Comissões de Ciência e Tecnologia, Comunicação e Informática; Legislação Participativa e Direitos Humanos e Minorias, de Encontro Preparatório da I Conferência Nacional de Comunicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82752049ba1e64d9f52f87f737fa5aae6bf2a7910255b2de369add366570c72d
+size 215

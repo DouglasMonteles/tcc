@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de retirada de pauta do Projeto de Lei nº 3.261-A, de 2019, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83a9b744fb98b3f2fc10e859252809b45fb50de3bd113bbc1cbfbcb3acdd8626
+size 164

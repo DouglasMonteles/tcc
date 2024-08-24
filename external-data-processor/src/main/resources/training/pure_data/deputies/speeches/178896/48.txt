@@ -1,1 +1,3 @@
-Regozijo com a aprovação pela Câmara dos Deputados da admissibilidade do processo de impeachment contra a Presidenta da República. Expectativa da população de retomada do crescimento econômico do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8487c7a4c93aa5b294579d62a93928f51d46de1150a0b81fe91deaaf892aed4f
+size 210

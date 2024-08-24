@@ -1,1 +1,3 @@
-Presença em plenário do Prefeito Municipal de Cascavel, Estado do Paraná, Edgar Bueno. Aprovação, pelo Senado Federal, de proposta sobre a destinação de recursos para o Município.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ac214d8f76ac27e71e8f2c00419f0def64ea6942de1ba66f9aa68be1b113394
+size 187

@@ -1,1 +1,3 @@
-Congratulações ao Ministro do Tribunal de Contas da União Augusto Nardes por relatório apresentado a respeito das contas de 2014 do Governo da Presidenta da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e0f098b1822adcb95db2fa1060c3ce3b02675d9f675a3cf8a08a899dab28b94
+size 172

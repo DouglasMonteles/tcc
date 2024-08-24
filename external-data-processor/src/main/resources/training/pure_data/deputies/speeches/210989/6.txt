@@ -1,1 +1,3 @@
-Aprovação pela Casa do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3.630, de 2021, sobre a alteração da Lei nº 12.764, de 2012, com vista à criação de centros de assistência integral ao paciente com Transtorno do Espectro Autista - TEA, no âmbito do Sistema Único de Saúde - SUS. Congratulações à Casa pela votação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89be40a71650fb3b0ce3931f8565125644f3b55ade37d7454e8fab7b36ba7b92
+size 377

@@ -1,1 +1,3 @@
-Repúdio a tentativa de invasão, pela Polícia Civil do Estado de São Paulo, da Escola Nacional Florestan Fernandes, no Município paulista de Guararema, ocupada por estudantes em protesto contra a reforma do ensino médio e contra a Proposta de Emenda à Constituição nº 55, de 2016, sobre a criação do Novo Regime Fiscal, em tramitação no Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f3978d654d598ca247c35c0cce97801c2c60af819b7186b441aef9751194ac1
+size 365

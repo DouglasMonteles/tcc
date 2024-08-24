@@ -1,1 +1,3 @@
-Realização de assembleia da Associação Paulista de Extensão Rural - APAER, no Município de Campinas, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dac0bf9307134924f55ca1b9c238620c05ee9ac9d2c9c4868d1dbaa2323e8273
+size 128

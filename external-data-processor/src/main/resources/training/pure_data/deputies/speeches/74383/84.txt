@@ -1,1 +1,3 @@
-Rejeição da questão de ordem do Deputado Givaldo Vieira e apresentação de recurso, de ofício, à Comissão de Constituição e Justiça e de Cidadania para análise da decisão da Presidência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d181b15b3f98872278445fba7db233199b483b41265b85a8760a9774daebdf8e
+size 199

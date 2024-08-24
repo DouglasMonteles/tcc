@@ -1,1 +1,3 @@
-Roubo de agência bancária com uso de explosivos no Município de Lagoa Nova, Estado do Rio Grande do Norte. Defesa da aprovação do Projeto de Lei nº 5.365, de 2020, sobre alteração do Código Penal, para tipificação do crime de Domínio de Cidades, e sobre alteração da Lei de Crimes Hediondos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7999cf960b89400ba514230ffe4f42075d25d62b1e99927b4499e4121c551ee1
+size 305

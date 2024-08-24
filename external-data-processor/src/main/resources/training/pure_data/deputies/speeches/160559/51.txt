@@ -1,1 +1,3 @@
-Anúncio da realização de mobilização nacional contra a desapropriação de propriedades rurais para a demarcação de reservas indígenas e de quilombolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15bbf7e0841821dfb6bd27262c7a095fe7b12fb1ca166995ea2e0d48dee4fbc5
+size 160

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei do Congresso Nacional nº 17, de 2020, sobre a abertura do Orçamento Fiscal da União em favor dos Ministérios da Agricultura, Pecuária e Abastecimento, da Justiça e Segurança Pública e da Defesa, crédito suplementar no valor de R$ 615.996.235,00, para reforço de dotações constantes da Lei Orçamentária vigente. Congratulações ao novo Líder do Governo na Casa, Deputado Ricardo Barros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b44e948e97c2798c81e472f45f9f232b9d8087320cfcdf2f25e7c062719aed2
+size 456

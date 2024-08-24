@@ -1,1 +1,3 @@
-Convocação da população brasileira por movimentos de rua para defesa da democracia, da justiça e da liberdade no dia 4 de junho de 2023. Degradação do Estado Democrático de Direito diante da cassação do mandato parlamentar do Deputado Deltan Dallagnol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4825b6d753142e859f96c2e1572d8bb7bb166d832f1259ca05c93857b3e8d74c
+size 262

@@ -1,1 +1,3 @@
-Equívoco da demissão do Ministro da Saúde, Luiz Henrique Mandetta.  Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 43, apresentada ao Projeto de Lei nº 873, de 2020, sobre a alteração da Lei nº 13.982, de 2020, com vista à mudança nas regras do auxílio emergencial; à vedação da suspensão de benefícios previdenciários e assistenciais concedidos aos idosos, às pessoas com deficiência ou com enfermidade grave, durante a pandemia da Covid-19. Congratulações ao Deputado Cezinha de Madureira pelo parecer oferecido à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1edadb8e8dd43d4802cab64bdf6f70bd5fb4afedbe80563b5fd12d6293a108d0
+size 605

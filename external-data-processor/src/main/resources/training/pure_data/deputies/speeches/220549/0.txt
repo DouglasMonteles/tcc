@@ -1,1 +1,3 @@
-Repúdio ao assédio sexual praticado por Parlamentar da Casa contra a Deputada Julia Zanatta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99f8af4309a9e1053a5763a22e6cd2403ee7f2d6148786b9ed7e7e91db6ab95f
+size 94

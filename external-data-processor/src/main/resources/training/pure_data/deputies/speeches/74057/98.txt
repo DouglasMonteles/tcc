@@ -1,1 +1,3 @@
-Participação em Congresso de Mulheres Parlamentares da América Latina e Caribe, em Madri, Espanha. Defesa da igualdade de gêneros na política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:570e7f1e0db0202b70268d078a1beb65013afea80817fef5381bb56bd7ad689a
+size 147

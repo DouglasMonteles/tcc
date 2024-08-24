@@ -1,1 +1,3 @@
-Congratulações ao Governo Federal pelo anúncio de investimentos para a retomada da produção de insulina no Brasil. Importância do medicamento para o controle do diabetes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:331add51e99da90faee891ff6b5841d7a716b41b573afc343766d523311ee057
+size 176

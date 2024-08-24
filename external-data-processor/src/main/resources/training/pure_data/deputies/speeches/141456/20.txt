@@ -1,1 +1,3 @@
-Apoio à tramitação em regime de urgência constitucional dos projetos de lei sobre o estabelecimento do marco regulatório da exploração de petróleo na camada pré-sal. Conotação político-eleitoreira do pretendido adiamento da apreciação das proposições pela Oposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33e2adb4e0492f4187bd921e7ce45d3c4d47ce0fafa110ae38deb77d978a26cd
+size 283

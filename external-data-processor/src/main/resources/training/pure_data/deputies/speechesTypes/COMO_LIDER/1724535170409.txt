@@ -1,1 +1,3 @@
-Transcurso do 303º aniversário de fundação de Cuiabá, Capital do Estado de Mato Grosso. Realização de maciços investimentos na saúde pública dos Municípios de Cuiabá e Várzea Grande.
+version https://git-lfs.github.com/spec/v1
+oid sha256:704239d9a83f5dd977ef26a38d481a3b6156b62343b8bb95ad71c7d1cf0048d5
+size 195

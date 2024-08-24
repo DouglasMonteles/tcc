@@ -1,1 +1,3 @@
-Apoio à luta de famílias de trabalhadores rurais pela desapropriação da Fazenda Junco, no Município de Macambira, Estado de Sergipe. Nota do Sistema ONU no Brasil contra a aprovação da Proposta de Emenda à Constituição nº 171, de 1993, que altera a redação do art. 228 da Constituição Federal  - imputabilidade penal do maior de 16 anos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b11fcef61bf2930bcdaf53f0f277792840a72cff734be948f31b72d2c1b6c0b
+size 352

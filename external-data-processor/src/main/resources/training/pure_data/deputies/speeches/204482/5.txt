@@ -1,1 +1,3 @@
-Declaração de voto do orador pela aprovação da Medida Provisória nº 881, de 2019, sobre a instituição da Declaração de Direitos de Liberdade Econômica, o estabelecimento de garantias de livre comércio e a análise de impacto regulatório.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9fe71d71dbd8e4f8ace75c51f3a353e23a57af7348728b6904e8fa2bbe66b9
+size 250

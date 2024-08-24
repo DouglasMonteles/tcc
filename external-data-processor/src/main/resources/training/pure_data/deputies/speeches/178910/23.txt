@@ -1,1 +1,3 @@
-Veiculação, pelo jornal O Liberal, de matéria sobre a falha no fornecimento de energia elétrica no Estado do Pará. Apresentação de requerimento na Comissão de Minas e Energia da Casa de realização de audiência pública sobre o assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8d1a2153ab36af685f04c3b5a0fb1fe2f120a0198357039dc166a687c026635
+size 246

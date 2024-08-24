@@ -1,1 +1,3 @@
-Saudação especial ao ex-Líder do Governo na Casa, Deputado Cândido Vaccarezza. Realização, pelo Governo do Estado de Goiás, do Fórum de Turismo dos Estados não Sedes da Copa do Mundo de Futebol de 2014. Principais metas do fórum.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72f9ab0567396257ce8d1bac8b87446938e72321604595aaf0428ae01181f7b3
+size 239

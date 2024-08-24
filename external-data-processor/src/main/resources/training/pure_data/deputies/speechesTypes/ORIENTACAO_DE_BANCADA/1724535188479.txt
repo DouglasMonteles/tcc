@@ -1,1 +1,3 @@
-Posicionamento favorável  do PSB  ao Projeto de  Decreto Legislativo 549 de 2012 (Aprova o texto da Decisão CMC 8/11 Contribuições para o Orçamento do  Instituto Social do Mercosul, aprovada em Assunção, em 28 de junho de 2011).
+version https://git-lfs.github.com/spec/v1
+oid sha256:369543713b42aa90d3ef4828d90f51548f2ee99807b0127df2f76a31fa7616a1
+size 235

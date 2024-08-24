@@ -1,1 +1,3 @@
-Baixos salários percebidos pelo professorado no Estado de Minas Gerais. Solidariedade aos docentes mineiros em movimento grevista pelo recebimento do piso salarial nacionalmente estabelecido para os profissionais do magistério público da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37bbd4cb43e8be5844b8ea20cb219989df14c007755fe1c8378d2a05c5b918a4
+size 260

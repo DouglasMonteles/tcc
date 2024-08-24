@@ -1,1 +1,3 @@
-Congratulações ao Presidente da Casa pela votação de projeto de lei relativo à regulamentação da terceirização do contrato de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:496954abd7018fe69bc97058328e7f9962035ccb9fa61a8eff1eb8a5dac9eebc
+size 144

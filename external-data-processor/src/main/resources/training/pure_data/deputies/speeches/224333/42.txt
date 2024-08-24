@@ -1,1 +1,3 @@
-O Deputado iniciou o discurso afirmando que o Presidente Lula é uma pessoa abençoada. Em seguida, informou sobre sua participação na apresentação do Programa de Aceleração do Crescimento - PAC 3, que prevê investimentos da ordem de R$ 1,7 trilhão até 2026. O orador esclareceu que os municípios brasileiros não terão prejuízos em 2023 e afirmou que o PAC também é voltado para o desenvolvimento das municipalidades, que deverão cadastrar seus projetos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dab8401d42d1c45e79f0e28d779513692f1b250de0f3417d5ba09509a89a452a
+size 470

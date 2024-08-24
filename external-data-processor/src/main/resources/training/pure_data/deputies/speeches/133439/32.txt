@@ -1,1 +1,3 @@
-Repúdio às acusações contra o Ministro do Trabalho e Emprego, Carlos Lupi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a1ac531195fdb7fcc5f1817b9b97afd615f26c0bd5e6284c46940c081340300
+size 78

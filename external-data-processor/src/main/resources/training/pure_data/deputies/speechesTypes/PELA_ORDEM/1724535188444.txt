@@ -1,1 +1,3 @@
-Matéria a respeito do combate às drogas, publicada pelo jornal O Globo. Participação do orador em reunião do Conselho Federal de Medicina destinada à discussão da política governamental de enfrentamento do crack.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d6d60d8702decf8ac733f1c4a8f27d362d58354d4e5cb115ea7f312c7cfbaf6
+size 220

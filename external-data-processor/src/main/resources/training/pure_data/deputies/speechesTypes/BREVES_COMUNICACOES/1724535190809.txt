@@ -1,1 +1,3 @@
-Participação do orador em audiência pública na Comissão de Desenvolvimento Regional e Turismo, do Senado Federal, destinada ao debate de dívidas dos agricultores nordestinos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93ddafac83c6a075b5b9dbcdd7e42b3fab6efd2cf4d8a2df4b38c6857ccec733
+size 180

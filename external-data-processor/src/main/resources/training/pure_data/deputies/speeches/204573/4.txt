@@ -1,1 +1,3 @@
-Pedido aos Deputados de apoio à aprovação do Projeto de Lei nº 888, de 2019, sobre a alteração do Regime Especial de Tributação - RET nos contratos de incorporações e construções de interesse social, com relação aos projetos do Programa Minha Casa, Minha Vida, no valor de até 100 mil reais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:975c6788e355462aa7890c9e79187b51f9e239fb39f42ef2aa8ec8c0283dbc0c
+size 306

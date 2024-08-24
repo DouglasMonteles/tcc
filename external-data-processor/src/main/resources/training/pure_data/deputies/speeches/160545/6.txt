@@ -1,1 +1,3 @@
-Reconsideração pelo DEM do pedido de retirada da pauta da Ordem do Dia do  Projeto de Decreto Legislativo  219 de 2011 (Aprova o texto do Acordo de Cooperação Cultural entre o Governo da República Federativa do Brasil e a Organização para a Libertação da Palestina, em nome da Autoridade Nacional Palestina, assinado em Ramallah, em 17 de março de 2010).
+version https://git-lfs.github.com/spec/v1
+oid sha256:db00038bff5bc7dd028745cae9d63789ded5c752491cebb154e6594d464869cc
+size 364

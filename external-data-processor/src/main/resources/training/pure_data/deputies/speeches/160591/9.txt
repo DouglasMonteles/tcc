@@ -1,1 +1,3 @@
-Registro da presença do orador na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d03024609e53ef315f71497363bede0ed898cce0806e6ed9b81fd7383da15b40
+size 40

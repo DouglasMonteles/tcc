@@ -1,1 +1,3 @@
-Reassunção do cargo pelo Prefeito Indalécio Vieira, do Município de Governador Nunes Freire, Estado do Maranhão, afastado para tratamento de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf03111ad6c5f7f14906320e513a0c71df901d1b46989a081f3d3e1c0569d9c9
+size 153

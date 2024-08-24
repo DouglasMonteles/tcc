@@ -1,1 +1,3 @@
-Defesa de preservação de mananciais, rios, matas ciliares e da biodiversidade brasileira. Recuperação da Bacia do Rio Doce. Eleição e posse da nova diretoria do Comitê da Bacia Hidrográfica do Rio Doce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:606bd5de71531a614682e8888095d32f253f66256cc4b55c10dc0e357154ea9a
+size 210

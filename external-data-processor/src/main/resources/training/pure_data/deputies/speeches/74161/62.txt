@@ -1,1 +1,3 @@
-Defesa da aprovação da Emenda 4, destacada,  à Subemenda Substitutiva Global de Plenário ao Projeto de Lei Complementar 416 de 2008 (Dispõe sobre o procedimento para a criação, a  incorporação, a fusão e o desmembramento de Municípios, para regulamentar o § 4º do art. 18, da Constituição Federal), do Senado, que determina que a elaboração dos Estudos de Viabilidade Municipal – EVN  será precedida da comprovação em relação ao município a ser criado e ao município remanescente, de população igual ou superior a cinco mil habitantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:563a69fe2517e318d1e93cecf441fd611ab7e5279acfa21145c74c2f6e1df8fc
+size 563

@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação da Emenda de Plenário nº 7 apresentada ao Projeto de Lei nº 11.247, de 2018, que disciplina o aproveitamento de potencial energético offshore.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8277ee457bfdc2f611f7645c267a3768a60cb40c45759a7fcf49355075d35ab4
+size 189

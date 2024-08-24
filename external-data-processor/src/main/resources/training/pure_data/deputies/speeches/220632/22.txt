@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do Projeto de Decreto Legislativo nº 745-B, de 2017, que aprova o texto do Protocolo de Adesão do Estado Plurinacional da Bolívia ao MERCOSUL, celebrado em Brasília, em 17 de julho de 2015.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02e3801de243c5c35769c3224e93503813e9dea7d1fb9869edfc6ceb6a217f92
+size 236

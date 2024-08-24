@@ -1,1 +1,3 @@
-Homenagem às crianças e aos professores brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdaa7811f4c244ed35f731f32ae880cd4e275eb5099b13300a7559ed1504a790
+size 54

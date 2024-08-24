@@ -1,1 +1,3 @@
-Congratulações ao Prefeito Moésio Loiola, do Município de Campos Sales, Estado do Ceará, pela doação de área para a construção do campus da Universidade Regional do Cariri - URCA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50cce319a3c6355d2ad80c094854e462dfa25df7936d68071827a39b4513c1a4
+size 189

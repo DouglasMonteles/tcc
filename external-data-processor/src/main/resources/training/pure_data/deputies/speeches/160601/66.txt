@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Dia Internacional do Lions Club.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf40f6d40ef397a16ad61de3410f3248c2435374c42f78e7de897b694d541373
+size 212

@@ -1,1 +1,3 @@
-Importância da redução em 0,5% da taxa básica de juros, a Taxa SELIC, pelo Comitê de Política Monetária - COPOM do Banco Central do Brasil. Queda dos índices de desemprego no País. Apoio da população brasileira às políticas públicas do Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59a5cbb5b4a6a84d895b3fc0ed449884a1357b70c7b9dce629474c5fce60e926
+size 285

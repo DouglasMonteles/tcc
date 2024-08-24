@@ -1,1 +1,3 @@
-Nomeação da Sra. Lina Maria Vieira para o cargo de Secretária da Receita Federal do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1165a86875d41b448803c9638d4bf83e00f5620352b6206a64a700dd44029ca6
+size 94

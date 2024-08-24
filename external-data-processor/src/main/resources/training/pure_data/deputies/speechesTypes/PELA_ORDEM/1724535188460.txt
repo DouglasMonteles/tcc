@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do § 7º, art. 5º, do texto do segundo turno da Proposta de Emenda à Constituição nº 15, de 2015, sobre a transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32da01ed6cc669d40059c740579f8b58945381ea02cdfe07f8a84952d21f4b80
+size 409

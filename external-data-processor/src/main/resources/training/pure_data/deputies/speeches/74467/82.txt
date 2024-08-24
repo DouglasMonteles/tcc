@@ -1,1 +1,3 @@
-Posicionamento do orador no tocante à contratação de médicos estrangeiros pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffe51586cb4e038208c81f26ee2ce66afb0228fc925c196e9954f5ecc16c78c9
+size 99

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação, artigo por artigo, do Projeto de Lei Complementar nº 19, de 2019, sobre a definição dos objetivos do Banco Central do Brasil, a sua autonomia, a nomeação e exoneração do Presidente e Diretores da instituição. Votos de sucesso ao Presidente Arthur Lira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:994cb5f8680537f82f6a91bf4f0e988707d46c5c38eeb381db2c064fa36baa41
+size 328

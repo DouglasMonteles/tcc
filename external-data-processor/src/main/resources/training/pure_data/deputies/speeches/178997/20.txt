@@ -1,1 +1,3 @@
-Orientação da respectiva bancada. Regozijo com a filiação do Senador Cristovam Buarque ao PPS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ea77182567df6c344c1eb2a0d6cce7457910e65c8b83e919c2f74599b6ffc66
+size 98

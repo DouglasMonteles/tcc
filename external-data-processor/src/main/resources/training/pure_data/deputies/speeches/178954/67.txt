@@ -1,1 +1,3 @@
-Solicitação ao Departamento Nacional de Infraestrutura de Transportes - DNIT de imediata recuperação do trecho da BR-364 localizado entre os Municípios de Jaru e Ariquemes, no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:831fcb0d6ffa487af763d3d5dca1340a0bf2cfea8050789436e96980c2888cdf
+size 201

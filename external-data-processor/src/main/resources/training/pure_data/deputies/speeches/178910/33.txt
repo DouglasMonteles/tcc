@@ -1,1 +1,3 @@
-Elevação de investimentos no Estado do Pará. Expectativa de incremento da infraestrutura do País com o lançamento, pelo Governo Federal, do Programa de Investimento em Logística.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae2849c52286d5f2dc5621b06eb8a5c36e59042578465d2ae1652088ba2ab8ff
+size 184

@@ -1,1 +1,3 @@
-Regozijo com o voto do Ministro Marco Aurélio de Mello, do Supremo Tribunal Federal, a favor do aborto terapêutico de feto anencefálico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:596546cd7e81395c87034c0a8f83a88d4ec63e416f862098ad52b37030f309fd
+size 139

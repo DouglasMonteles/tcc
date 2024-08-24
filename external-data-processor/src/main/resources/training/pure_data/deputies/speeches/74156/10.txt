@@ -1,1 +1,3 @@
-Ideais de Tiradentes e da Inconfidência Mineira. Versos de O Estatuto do Homem, de autoria do poeta Thiago de Melo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:022ffe43832e1c225930230a83b9e3ff114a572caae3ea936e6529c09064f522
+size 116

@@ -1,1 +1,3 @@
-Apelo ao Deputado Arnaldo Faria de Sá de concordância com a manutenção do  registro de presença da presente sessão ordinária  para a sessão extraordinária subsequente para votação da  PEC 333 de 2004, relativa à composição das Câmaras de Vereadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be7f10cda5b265cfbf6e616b8605653944886ddc97a54db92718e51b64fb55e5
+size 264

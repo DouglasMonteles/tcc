@@ -1,1 +1,3 @@
-Solidariedade à jornalista Délis Ortiz diante das agressões sofridas por parte de seguranças do Presidente da Venezuela, Nicolás Maduro, durante coletiva de imprensa no Palácio do Itamaraty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87ab1293dc84e0918150e86758b74c26efe782dd22f8887ac82cca8fbf24a0e1
+size 196

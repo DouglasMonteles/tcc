@@ -1,1 +1,3 @@
-Declaração do ex-Ministro Joaquim Barbosa sobre os integrantes dos Tribunas de Contas do País. Defesa da inclusão na pauta de votações da Casa da Proposta de Emenda à Constituição nº 28, de 2007, sobre a criação do Conselho Nacional dos Tribunais de Contas, órgão externo de controle das Cortes de Contas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8e447b7907e52421e1627e9bd7e23d52f83968ac483e26113e379cbc8bcc750
+size 319

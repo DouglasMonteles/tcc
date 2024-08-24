@@ -1,1 +1,3 @@
-O Deputado expressou pesar pelas vítimas inocentes no Oriente Médio devido à intolerância religiosa. Destacou a necessidade de evitar a intolerância no debate político e enfatizou que nem todos os palestinos são terroristas. Pediu por informação precisa e debate construtivo para resolver o conflito, enfatizando que a única vítima real é a humanidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd03448691827880e2a6d15f29005e00a6d71900e0d18bff8c9c4d935972e910
+size 364

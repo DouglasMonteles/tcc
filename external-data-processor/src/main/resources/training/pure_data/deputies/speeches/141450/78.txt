@@ -1,1 +1,3 @@
-Requer a revisão da composição das Comissões Especiais destinadas ao exame dos projetos de lei referentes ao estabelecimento do marco regulatório da exploração de petróleo na camada pré-sal  para que dentro do critério da proporcionalidade partidária possam ser, também, contemplados os pequenos partidos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12242cc36b19e65ddc7989b4bae09f67ebe0abf32e232b0118912e1519d5fd71
+size 317

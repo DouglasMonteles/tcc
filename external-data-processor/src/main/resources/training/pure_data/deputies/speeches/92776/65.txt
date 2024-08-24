@@ -1,1 +1,3 @@
-Escalada da violência no País. Inexistência de políticas públicas eficazes destinadas à prevenção da criminalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b694aa8d3e30836a2aa93fa3a65e21edc25de0c89c57b90136d699eb028fd4e9
+size 123

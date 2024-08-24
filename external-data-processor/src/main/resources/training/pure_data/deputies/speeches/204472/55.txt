@@ -1,1 +1,3 @@
-Protesto contra a decisão judicial acerca da desintrusão do Distrito de Jarudore, no Município de Poxoréu, Estado do Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aba41b155d8346be5a68312dc635c57cf2fc69acf1e11b0da4a7368f7cd03a46
+size 133

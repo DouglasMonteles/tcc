@@ -1,1 +1,3 @@
-Congratulações à Polícia Civil pela prisão de estudantes de medicina suspeitos de falsificação de documentos para ingresso na Universidade de Rio Verde - UniRV, no Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfb30ab077f9ce48b588088f2d5cf968281bccbe9b2d569cdc9d28bf9fed58a7
+size 188

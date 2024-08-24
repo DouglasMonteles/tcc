@@ -1,1 +1,3 @@
-O Deputado destacou a conquista do Município de Pires Ferreira, no Ceará, que recebeu o Prêmio Band Cidades Excelentes como a cidade com a melhor educação do Brasil entre municípios com até 30 mil habitantes. Mencionou a presença da Prefeita Lívia e seu esposo, Marcos Paulo, na comitiva que veio a Brasília para receber esse reconhecimento. Também ressaltou que outros municípios cearenses, como Eusébio e Sobral, também foram premiados em diferentes categorias, demonstrando a excelência da educação no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:060253943b462a455b5c3fb8f491c6c74a6ceff7817bac32bea16e8d9348bcfc
+size 539

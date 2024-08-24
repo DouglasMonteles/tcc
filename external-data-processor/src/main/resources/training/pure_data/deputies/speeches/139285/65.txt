@@ -1,1 +1,3 @@
-Homenagem à memória do escritor Euclides da Cunha, ao ensejo do transcurso do centenário do seu falecimento. Congratulações a órgãos da Casa pela homenagem prestada ao escritor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7b9d59704a25be151c1878c0a39da223e517536626193d89e81084f8aa1b6ff
+size 184

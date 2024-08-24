@@ -1,1 +1,3 @@
-Visita do Presidente da República interino, Michel Temer, à Frente Parlamentar de Agropecuária da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b327b914de1473c75a04a0d1d6a7140e4439b65c83491449b7d34160c436d2c
+size 106

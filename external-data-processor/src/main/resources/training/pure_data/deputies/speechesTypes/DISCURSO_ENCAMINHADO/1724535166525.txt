@@ -1,1 +1,3 @@
-Conclamação da Casa para aprovação da Medida Provisória nº 545, de 2011, sobre a alteração da incidência de PIS/PASEP e COFINS na cadeia produtiva do café.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d01292c979bf90d7aef63da487648623f9b4ba802c96a7f0ce64adc3b357b106
+size 165

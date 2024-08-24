@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação da Subemenda Substitutiva Global apresentada ao Projeto de Lei nº 2.245, de 2023, que institui a Política Nacional de Trabalho Digno e Cidadania para População em Situação de Rua - PNTC PopRua, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e54475280c86c6c1c51c23db25e0a18e6d5f865d8abcbd52a03adb3400cc2e8
+size 268

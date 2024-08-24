@@ -1,1 +1,3 @@
-O Deputado parabenizou a Faculdade de Direito do Sul de Minas - FDSM, no Município de Pouso Alegre, pelo aniversário de 64 anos e,, em nome do Diretor Oliveira Rezende, cumprimentou todo o corpo docente da instituição. O orador saudou, em seguida, o ex-aluno da FDSM João Otávio de Noronha, atualmente Ministro do Superior Tribunal de Justiça. Por último, lamentou o falecimento do ex-Diretor da faculdade, Carlos Abel Guersoni Rezende.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fc5e41deb711c28139d96d3043a502c090f3a7ef7267402a11fb15c7c482eb6
+size 444

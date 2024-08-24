@@ -1,1 +1,3 @@
-Protesto contra a proibição da distribuição de panfletos eleitorais na cidade de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ea5429e1b67eb43088cafbd45d9f45cc8f0d54eb681353c3384875b1f1ca2d5
+size 118

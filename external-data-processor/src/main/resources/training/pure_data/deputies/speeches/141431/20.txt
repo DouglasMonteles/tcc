@@ -1,1 +1,3 @@
-Expectativa quanto ao reajuste da taxa básica de juros pelo Comitê de Política Monetária do Banco Central - COPOM. Posicionamento do orador pela redução dos juros e da carga tributária vigentes no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72e12cd9c06e5816509e5160b02ca379472779164bb94506d57733215e37ecff
+size 210

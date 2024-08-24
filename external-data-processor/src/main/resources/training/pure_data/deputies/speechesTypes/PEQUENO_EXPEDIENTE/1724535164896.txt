@@ -1,1 +1,3 @@
-Associação aos pronunciamentos contrários à aprovação do Projeto de Lei nº 3.369, de 2015, sobre a instituição do Estatuto das Famílias do Século XXI. Ineficácia dos investimentos realizados pelo Governo do Estado de São Paulo para despoluição do Rio Tietê.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8260a6968983dff0d26172483fc9d9c4245ab10a0ea60552d29201a7e1f27cb9
+size 273

@@ -1,1 +1,3 @@
-Importância para a integração do centro do País às Regiões Norte e Nordeste da Ponte dos Imigrantes Nordestinos Padre Cícero José de Sousa, recentemente inaugurada, entre os Municípios de Lajeado e Miracema do Tocantins, Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3827cde3460e8d283bdc571f6147174272333e189b02ea67e8411e08db86f82e
+size 250

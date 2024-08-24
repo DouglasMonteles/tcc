@@ -1,1 +1,3 @@
-Esclarecimentos de que o PSB e o PTB que fazem parte do Bloco PDB/PCdoB/PTB votarão a favor  do Substitutivo ao Projeto de Lei 1.749 de 2011 (Autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Serviços Hospitalares S.A. - EBSERH e dá outras  providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a2864bd2aaa7e86ce9f6c73037a767dee577a82846228bb62930e75942679fb
+size 296

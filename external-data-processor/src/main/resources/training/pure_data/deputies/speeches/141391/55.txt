@@ -1,1 +1,3 @@
-Lançamento pela Rádio Eldorado AM de campanha contra a criação da Contribuição Social para a Saúde - CSS, em São Paulo, Estado de São Paulo. Posicionamento do orador, contrário à instituição do novo tributo e pela realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5b772315e4891b591de61a823608566c7f2a349deaefc747d9bd7ab6bdaca2c
+size 263

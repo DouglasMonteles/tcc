@@ -1,1 +1,3 @@
-Elevado número de suicídios e assassinatos de policiais no Estado da Paraíba. Baixa remuneração e condições inadequadas de trabalho dos policiais paraibanos. Suspensão do gozo de férias e de licença especial de policiais diante das festas juninas. Repúdio ao tratamento dispensado à corporação pelo Governador João Azevêdo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eba504754eb270938fc35253678e466b829b34d0f7afc75ac67db114a5cc95c0
+size 339

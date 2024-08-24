@@ -1,1 +1,3 @@
-Atuação do orador no cargo de Secretário da Educação e Cultura do Estado do Piauí. Êxito da política educacional adotada pelo Governo Luiz Inácio Lula da Silva. Elogio ao Governador do Estado do Piauí, Wellington Dias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f7186b66915389d72f6a581f5bdc84a2172f4663b991f8a4fec9ae050f86894
+size 228

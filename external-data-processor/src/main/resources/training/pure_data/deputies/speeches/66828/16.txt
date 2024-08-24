@@ -1,1 +1,3 @@
-Esclarecimentos quanto à interpretação regimental para nova apreciação da proposta de redução da maioridade penal no País. Apoio à aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fac4c911448d4503507e506bf8fbae97379307408f9303e477836c7ae9bf3aa0
+size 164

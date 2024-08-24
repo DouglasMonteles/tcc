@@ -1,1 +1,3 @@
-O Deputado lamentou o falecimento prematuro de Adrião Neto, Secretário de Educação de Caraúbas do Piauí, no Estado do Piauí (PI), prestando as devidas homenagens ao homem devotado à educação no município.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc70770c3c76e1b55e7128c2d7836339d7f3d281b5cfa0e965fe67936aadd587
+size 215

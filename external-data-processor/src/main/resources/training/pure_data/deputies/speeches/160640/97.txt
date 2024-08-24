@@ -1,1 +1,3 @@
-Orientação da respectiva bancada para votação do requerimento de urgência na apreciação do Projeto de Lei nº 1.530, de 2015, que dispõe sobre medidas de prevenção e repressão ao contrabando.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7682b5454876881a458d6b2e5a7eeda62e3a07ede43eedf99591347e075af97
+size 202

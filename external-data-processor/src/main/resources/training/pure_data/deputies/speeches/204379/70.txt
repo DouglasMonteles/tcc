@@ -1,1 +1,3 @@
-Orientação de bancada na votação, em segundo turno, da Proposta de Emenda à Constituição nº 32, de 2021, sobre a elevação para setenta anos a idade máxima de escolha e nomeação de membros do Supremo Tribunal Federal; do Superior Tribunal de Justiça; dos Tribunais Regionais Federais; do Tribunal Superior do Trabalho; dos Tribunais Regionais do Trabalho; do Tribunal de Contas da União; bem como dos membros civis do Superior Tribunal Militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78271a5edc7194eb3b510478db7a94441e0f5fa3e05939d88f97cc522e78552f
+size 458

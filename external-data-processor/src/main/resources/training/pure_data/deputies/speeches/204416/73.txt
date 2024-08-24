@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de inclusão automática na Ordem do Dia do Projeto de Lei nº 2.939, de 2019, a respeito da alteração da Lei nº 8.072, de 1990, (Lei de Crimes Hediondos), com vista ao estabelecimento da progressão de regime nos crimes de feminicídio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3404e7d1537823dd6c29ec48432eae198d0fdadf8787920a2a3b1cdf1493fff
+size 293

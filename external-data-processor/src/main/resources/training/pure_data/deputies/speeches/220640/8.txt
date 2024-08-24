@@ -1,1 +1,3 @@
-Contestação ao discurso oposicionista sobre a ligação do PT com a facção criminosa Primeiro Comando da Capital - PCC. Desvalorização do serviço público e, especialmente de políticas públicas pelo governo anterior. Pedido de esclarecimento do episódio sobre a apropriação de joias sauditas pelo ex-Presidente Jair Bolsonaro. Omissão dos oposicionistas sobre a política de juros altos praticada pelo Banco Central do Brasil. Relevância do Programa Nacional para a Promoção da Alimentação Saudável. Convite à Oposição para participação em debate de projetos destinados à reconstrução do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bfad2a07ebe7c3c86fdf2502f04e5ecc74de696a990973e8f2a4bcb7cddf2dd
+size 622

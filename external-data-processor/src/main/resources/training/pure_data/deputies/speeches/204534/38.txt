@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 1.540, de 2021, acerca da instituição da política de bem-estar, saúde e qualidade de vida no trabalho e valorização dos profissionais da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0938c29b1d0fcd2934fd6e41dc175c2f1ed328835b983486fe7aa98a46768f59
+size 196

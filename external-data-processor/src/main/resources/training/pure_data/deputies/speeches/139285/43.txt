@@ -1,1 +1,3 @@
-Necrológio da enfermeira Simonne Alice Dedouck, fundadora do Centro de Integração Familiar — CEIFAR, em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cb47547126a3f39ab55dd803b4298d2ba7dd0a323d07c99cedf128e51b18ad8
+size 135

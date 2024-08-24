@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM à Medida Provisória  531 de 2011 (Abre crédito extraordinário em favor do Ministério da Educação para os fins que especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccdc103200f068a99b3c0290116dcb29d5a953350cc75f5ffe62b4325a4368ad
+size 166

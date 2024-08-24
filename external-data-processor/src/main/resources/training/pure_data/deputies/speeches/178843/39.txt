@@ -1,1 +1,3 @@
-Agradecimento aos Parlamentares pela aprovação de matérias de interesse do setor turístico nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4055cb69dca0720a4b3cfcb43813c48b6b570022b69926374c3ea869764375be
+size 104

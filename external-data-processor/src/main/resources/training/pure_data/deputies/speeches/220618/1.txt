@@ -1,1 +1,3 @@
-Convite aos Parlamentares para participação na sessão solene promovida pela Casa ao ensejo do transcurso do 458º aniversário de fundação do Rio de Janeiro, Estado do Rio de Janeiro. Excesso de trabalho imposto aos profissionais fluminenses de segurança pública durante o carnaval de 2023. Defesa de extensão da Gratificação de Risco de Atividade Militar - GRAM aos policiais e bombeiros militares inativos e pensionistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6554e1beb982ae59124a969dd42a71d7493d22b8004393e80e2635deb1c924b8
+size 433

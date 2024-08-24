@@ -1,1 +1,3 @@
-Cumprimento ao Relator, Deputado José Otávio Germano,  pelo acatamento de Emendas do PSDB   à Medida Provisória 428, de 2008 que altera a legislação tributária federal e dá outras providências, referentes aos serviços de saneamento básico
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ee0f5c2c318f218ca8044cff8559b56be6fe049d291b46d33c9fd833c07fec7
+size 249

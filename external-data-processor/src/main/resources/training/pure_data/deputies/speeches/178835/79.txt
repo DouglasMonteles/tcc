@@ -1,1 +1,3 @@
-Sessão Solene destinada a reverenciar o transcurso dos 61 anos da morte de Getúlio Vargas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dbab3313d20f8c8d4213ae405ae401b30a192756919bbe61c4428f8ba141390
+size 92

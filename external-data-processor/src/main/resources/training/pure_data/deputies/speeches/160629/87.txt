@@ -1,1 +1,3 @@
-Falecimento do Prefeito Manoel Alves da Silva Junior, do Município de Pedras de Fogo, no Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1518c83ffa731beb44742775abf13b4a9f392e632a741cff14a01dfeb13914c
+size 109

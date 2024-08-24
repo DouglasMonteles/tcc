@@ -1,1 +1,3 @@
-Cumprimentos ao povo, às lideranças políticas e religiosas dos Municípios de Jaraguá e Luziânia, Estado de Goiás, pela realização das Festas do Divino Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2a70872604514d55518fc03e812ae821b74e49631c8cc87c8aa08eb247512e1
+size 176

@@ -1,1 +1,3 @@
-Prejuízos materiais e imateriais causados à Universidade de Brasília - UnB em decorrência de fortes chuvas. Necessidade de adoção, pela bancada federal brasiliense, de ações em prol da reconstrução dos locais da UnB destruídos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:724503404a16c544b0419dfa4186c55582677810058d28458b0002ae992f05f3
+size 238

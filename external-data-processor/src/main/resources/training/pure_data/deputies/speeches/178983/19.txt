@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar Mistados Municípios Produtores de Água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5b0d5945f25a39478eddf72c500b337c9affec9390d20443747c75853da73fa
+size 75

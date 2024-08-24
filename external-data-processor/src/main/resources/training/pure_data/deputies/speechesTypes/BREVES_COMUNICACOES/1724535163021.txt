@@ -1,1 +1,3 @@
-Transcurso do 30º aniversário da instalação do Movimento dos Trabalhadores Rurais Sem Terra - MST no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:674b2a05b24ecaa65357f102d2cd72b153dac16a10fb92c72834d1f0bb88151b
+size 126

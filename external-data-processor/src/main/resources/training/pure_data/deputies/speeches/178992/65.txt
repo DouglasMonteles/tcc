@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 44, inciso V (contratação integrada) do Substitutivo adotado pela Comissão Especial do Projeto de Lei nº 1.292, de 1995, sobre a alteração da Lei nº 8.666, de 1993, acerca das normas de licitações e contratos da administração pública, e, por decorrência, os parágrafos 3º e 4º do mesmo dispositivo. Também, por decorrência, os arts. 6º, inciso XXXII; 53, incido II, alínea c; 131, parágrafo único, e a expressão contratação integrada onde houver.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a14fe6e076362946fea9491865cd203744dd5a2269db85dd5acabb038887e19
+size 571

@@ -1,1 +1,3 @@
-Conveniência de superação do clima de discórdia reinante entre o Vice-Presidente da República, General Hamilton Mourão, e o filósofo Olavo de Carvalho. Necessidade de união em torno da implantação de projeto de desenvolvimento do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8ffb0fdce7bd9bdfde132472b1eda3f96cc6df36451bd28fc9756b404c79346
+size 246

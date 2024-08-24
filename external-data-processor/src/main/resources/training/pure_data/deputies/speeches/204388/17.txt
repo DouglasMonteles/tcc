@@ -1,1 +1,3 @@
-Congratulações à polícia do Estado do Rio de Janeiro pela prisão dos suspeitos do assassinato da Vereadora Marielle Franco, ocorrido no Rio de Janeiro, Estado do Rio de Janeiro. Caráter leviano de pronunciamentos de Deputados do PT a respeito do envolvimento da família Bolsonaro com o crime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f18c57643a5da6954232957ff4160b5ed1855dd44b47070ae7cf10231816da5
+size 299

@@ -1,1 +1,3 @@
-Matéria A intenção do desafio lançado por Verissimo foi simplesmente para ferir a memória de Jairo, extraída do blog de Shalako Tavares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12cead471d8b1cb6e156a214753c79d53adc5fc97d360f6740e3ced8b3fbc7c6
+size 142

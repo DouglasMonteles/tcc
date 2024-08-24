@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 1.485, de 2020, sobre a alteração do Decreto-Lei nº 2.848, de 1940 (Código Penal), e das Leis de nºs 8.666, de 1993, e 12.850, de 2013, para combate ao desvio de recursos destinados ao enfrentamento do coronavírus durante o estado de calamidade pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7d2ddab0de44fb9aac3230cc77c4d755ab9af6b7bc6c96019b4ef38d05258a7
+size 356

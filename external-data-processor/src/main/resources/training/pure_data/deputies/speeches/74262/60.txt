@@ -1,1 +1,3 @@
-Solicitação à Presidência de encerramento da sessão diante da dificuldade de complementação de quorum para deliberação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6661445cbd3374de03b280829b76a8b82cd738b0196782cea11dd96898c7131
+size 128

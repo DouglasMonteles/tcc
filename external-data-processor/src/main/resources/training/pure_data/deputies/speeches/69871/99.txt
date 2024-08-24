@@ -1,1 +1,3 @@
-Associação a pronunciamentos sobre falhas no acesso ao cadastro e emissão de guias de pagamento no portal eSocial, o chamado SIMPLES Doméstico. Solicitação à Presidenta da República de determinação à Receita Federal do Brasil de prorrogação do prazo dado aos empregadores para cadastro no sistema, emissão da guia e recolhimento do tributo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:241eae5a564acb4e2d9f39e459cf2a1b09812e9517a0506e35f8a91a6b29468e
+size 354

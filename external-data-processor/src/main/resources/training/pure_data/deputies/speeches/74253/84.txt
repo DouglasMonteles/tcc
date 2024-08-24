@@ -1,1 +1,3 @@
-Repúdio à comunicação enviada às nações amigas, por parte do Ministério das Relações Exteriores, sobre iminência de golpe no Brasil, conforme reportagem da Rádio CBN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6256ea2b0b456006250760668f270c604a810e122ec2f198f7206cf26268925b
+size 178

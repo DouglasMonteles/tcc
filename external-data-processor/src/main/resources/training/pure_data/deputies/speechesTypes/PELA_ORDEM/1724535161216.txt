@@ -1,1 +1,3 @@
-Apresentação de requerimento de informações à Casa Civil da Presidência da República sobre a realização de obras em Municípios do Estado do Acre, por meio do Programa de Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:222072dd64dfd053005219709aaec7a1f660a21e2655cad282205b0fb1166793
+size 214

@@ -1,1 +1,3 @@
-Transcurso do 59º aniversário de emancipação político-administrativa do Município de Moita Bonita, localizado na região do agreste sergipano. Relevância da cultura folclórica e tradições da municipalidade. Destaque de Moita Bonita na produção de batata-doce e farinha de mandioca. Elevado índice de vacinação dos habitantes locais contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:126c079dfcbfbc137a5bc37db1064469d2abdfa59fa5de08777eeffae82849af
+size 365

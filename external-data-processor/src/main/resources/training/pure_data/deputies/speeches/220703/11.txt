@@ -1,1 +1,3 @@
-Conscientização da sociedade brasileira da importância do setor agropecuário para a economia do País. Liderança mundial do Brasil na exportação de produtos primários. Incorporação de novas tecnologias pelo agronegócio. Participação significativa do setor no Produto Interno Bruto — PIB brasileiro, com destaque para o Estado da Bahia. Importância de proteção e incentivo à agropecuária do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b974f67ffbe1cae625fd69ecd4bea00cad488c1fcbe0fcb88cc5faa6ead4ce3
+size 416

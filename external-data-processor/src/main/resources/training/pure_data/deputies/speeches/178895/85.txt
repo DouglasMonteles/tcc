@@ -1,1 +1,3 @@
-Crescimento da taxa de desemprego diante de recessão econômica. Inconformismo com a manutenção pelo Congresso Nacional de veto presidencial a projeto de lei relativo ao reajuste salarial dos servidores do Poder Judiciário da União. Congratulações aos Deputados e Senadores apoiadores da rejeição ao veto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1160704a7b7aa2ab5ee778fc348ffaaf8cd945540608130160a6b296889fee35
+size 314

@@ -1,1 +1,3 @@
-Julgamento, pelo Conselho Nacional do Ministério Público, de ação contra o Procurador da República Deltan Dallagnol pela apresentação de power point  a respeito do ex-Presidente Luiz Inácio Lula da Silva. Condenação injusta do líder petista pela Operação Lava-Jato. Declaração, pelo Supremo Tribunal Federal, da inconsistência de delação premiada do ex-Ministro Antônio Palocci em processo contra o ex-Presidente da República. Necessidade de esclarecimento, pelo Presidente Jair Bolsonaro, da realização do depósito de 89 mil reais na conta bancária da Primeira-Dama do País Michelle Bolsonaro, pelo ex-assessor parlamentar do então Deputado Estadual Flávio Bolsonaro, Fabrício José Carlos de Queiroz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70ed9d0b1febbbb30894d1d1401feaa054a148ed108e81acb55c6ac696096ab7
+size 730

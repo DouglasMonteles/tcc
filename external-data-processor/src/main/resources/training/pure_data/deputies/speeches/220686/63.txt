@@ -1,1 +1,3 @@
-Retirada pelo PSDB de requerimentos atinentes à Medida Provisória 409 de 2007 (Abre crédito extraordinário em favor de diversos órgãos do Poder Executivo para os fins que especifica), em decorrência de acordo de procedimento para votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f23ffcc5f8d5231169c3a2d9e894774391b86dbc521dc20a99e650d871cee436
+size 259

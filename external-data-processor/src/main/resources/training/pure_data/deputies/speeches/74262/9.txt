@@ -1,1 +1,3 @@
-Conveniência da  convocação dos Deputados ao plenário para acompanharem a  leitura do parecer à Representação contra a Deputada Jacqueline Roriz por quebra de decoro parlamentar e   da ampliação do tempo concedido ao Relator, à Deputada Jaqueline Roriz e aos advogados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e76995075776c671492be620d076bbdc27e339fdf31a7088c9c94b46652461e9
+size 279

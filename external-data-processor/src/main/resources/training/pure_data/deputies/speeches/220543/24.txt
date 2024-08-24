@@ -1,1 +1,3 @@
-O Deputado abordou a necessidade de mudanças no sistema judiciário do Brasil e defendeu limites para a atuação do Supremo Tribunal Federal (STF). Anunciou que elabora uma proposta de emenda à Constituição (PEC) que visa dar maior legitimidade à indicação e nomeação de ministros do STF, além de estabelecer o mandato de 8 anos, com possibilidade de recondução. Argumentou que a cassação de deputados somente deve ocorrer por deliberação da Casa. Defendeu a sustação, por meio de projetos de decretos legislativos, de atos e resoluções da Justiça Eleitoral e do Tribunal de Contas da União (TCU) que exorbitem suas prerrogativas. O orador enfatizou a importância do equilíbrio entre os Poderes da República para proteger a democracia representativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df40b168ef50b3fc18d647c47d5e5bc3589b824d9e8185679d59d4da2392b1a2
+size 776

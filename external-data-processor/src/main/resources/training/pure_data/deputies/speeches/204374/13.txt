@@ -1,1 +1,3 @@
-Repúdio às declarações do Presidente da Ordem dos Advogados do Brasil - OAB, Felipe Santa Cruz, sobre a abertura de processo judicial contra perfis do Facebook  com relação à Operação Lava-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f469bb51f4709ce1907ac17c501da8232934116fac523a17c07d6df67b3603f
+size 203

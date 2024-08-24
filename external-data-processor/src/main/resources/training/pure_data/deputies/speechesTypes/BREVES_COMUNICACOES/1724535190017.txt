@@ -1,1 +1,3 @@
-Transcurso dos aniversários de emancipação político-administrativa dos Municípios de Vitória da Conquista e Valença, Estado da Bahia. Saudações aos Vereadores Orlando Filho e Subtenente Muniz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb3ec03bb92705116d1acc140672ffd801d91f6bdc87bb5cb099cbcd13daf0af
+size 201

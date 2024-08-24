@@ -1,1 +1,3 @@
-Posicionamento do Patriota favorável à aprovação do substitutivo oferecido pelo Relator da Comissão Especial ao Projeto de Lei nº 2.336, de 2021, sobre a alteração da Lei nº 9.615, de 1998, relativa às normas gerais do desporto. Congratulação do Deputado Julio Cesar, Relator da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b14dab76c47472c741c4e9ae0d4bfeb3b183083242884fac65139b0d35afd27
+size 300

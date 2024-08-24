@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM  à admissibilidade dos  destaques simples, em votação em globo,    ao Projeto de Lei de Conversão da Medida Provisória 527 de 2011 (Altera a Lei  10.683  de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, cria a Secretaria de Aviação Civil, altera a legislação da Agência Nacional de Aviação Civil - ANAC e da Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO, cria cargo  de Ministro de Estado e cargos em comissão, dispõe sobre a contratação de controladores de tráfego aéreo temporários, cria cargos de Controlador de Tráfego Aéreo).
+version https://git-lfs.github.com/spec/v1
+oid sha256:53fe530164a8f22934d2e6b21036da73912b5779bdde2cffe64721f6fe25389b
+size 645

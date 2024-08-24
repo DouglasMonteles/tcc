@@ -1,1 +1,3 @@
-Apelo aos Deputados de revogação da prisão do Deputado Daniel Silveira, determinada pelo Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03bd08672cf1700a49b185e67c5ffa7010ab61ecc420660765d24b44374fe964
+size 117

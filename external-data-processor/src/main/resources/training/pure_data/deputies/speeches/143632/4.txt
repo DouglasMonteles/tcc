@@ -1,1 +1,3 @@
-Cumprimento à Deputada Luiza Erundina. Divulgação do Mapa da Violência 2011 pelo Ministério da Justiça. Importância da adoção de políticas públicas para jovens no País. Apresentação de projeto de resolução sobre a criação pela Casa da Comissão Permanente da Juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f5d519d70b1f1427fa5b6b88d72bb820a01e8f4afdbf88522773a45bb4cdc8b
+size 287

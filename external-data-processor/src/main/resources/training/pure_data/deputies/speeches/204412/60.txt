@@ -1,1 +1,3 @@
-Preocupação do orador com o surgimento de 4 casos suspeitos de varíola no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:475321cf664f82539c6797d0bb2e1ef57032a5a3e0407471604583188b2133df
+size 83

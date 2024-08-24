@@ -1,1 +1,3 @@
-Homenagem à Liga Bahiana Contra o Câncer, mantenedora do Hospital Aristides Maltez, em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c059eb75ed995b485af6d2d46787298bdca2194a1b07d4dc6cfd671e6a410bd
+size 115

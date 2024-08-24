@@ -1,1 +1,3 @@
-Transcurso do 127º aniversário do Município de Araucária, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fea98024b1cd4573a0e9e2113c56f373fe3dfafc9f95258f990c5371e182aa69
+size 80

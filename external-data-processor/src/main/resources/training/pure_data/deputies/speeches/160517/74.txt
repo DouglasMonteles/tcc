@@ -1,1 +1,3 @@
-Prejuízos causados às finanças dos Estados do Espírito Santo, Santa Catarina e Goiás pela decisão da Comissão de Assuntos Econômicos do Senado Federal de unificação da alíquota do ICMS incidente sobre bens e mercadorias importados do exterior. Necessidade de cumprimento pelo Governo Federal da promessa de realização de investimentos no setor de infraestrutura do Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99cdaff13498aeeb5166e241880914a525f0195d78e92f0a40277291bfec2215
+size 404

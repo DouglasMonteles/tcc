@@ -1,1 +1,3 @@
-Apelo aos partidos oposicionistas de votação da Medida Provisória nº 945, de 2020, acerca das medidas temporárias de enfrentamento da pandemia da Covid-19 no âmbito do setor portuário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50535ebc39062debd23cbf6cf23f9133153fdd454cf3670013047b058186554b
+size 191

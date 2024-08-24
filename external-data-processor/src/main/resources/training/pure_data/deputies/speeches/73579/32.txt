@@ -1,1 +1,3 @@
-Convocação dos Parlamentares do Democratas ao plenário para votação de proposição de interesse dos policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03d1a69e0ff12a3231a230ab0cbd0ccdb1f29d2a4f93d6fadf913c277bf8ce75
+size 138

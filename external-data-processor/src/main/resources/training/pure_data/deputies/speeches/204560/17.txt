@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global oferecida pela Relatora da Comissão de Trabalho, de Administração e Serviço Público ao Projeto de Lei nº 2.896, de 2022, sobre a alteração da Lei nº 13.303, de 2016, com vista à regulação de vedações na indicação ao conselho de administração e à diretoria de estatais, bem como de gastos com publicidade e patrocínio de empresa pública, de sociedade de economia mista e suas subsidiárias; e da Lei nº 9.986, de 2000, para regulação de vedações na indicação ao conselho diretor ou à diretoria colegiada de agências reguladoras, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a22d292c32358e1a16b3901fcca1bb5423f5e4f2f61e0332ae8f009d71997a73
+size 653

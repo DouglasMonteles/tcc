@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Diabetes. Aumento do número de diabéticos no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34bb6ba79bb6c3d72aa1bfdab1b23038cae9b8660170cbde827c725f0245309b
+size 83

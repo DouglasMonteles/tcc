@@ -1,1 +1,3 @@
-Apresentação de projeto de decreto legislativo para suspensão da Instrução Normativa nº 802, de 2008, da Receita Federal do Brasil, sobre a obrigatoriedade de informação ao órgão, pelas instituições financeiras, de movimentações bancárias detalhadas de pessoas físicas e jurídicas. Defesa de realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:096095112e2cd2f533d88aeebd111c19f111899c01f1b9b0be2c0add92426b6e
+size 345

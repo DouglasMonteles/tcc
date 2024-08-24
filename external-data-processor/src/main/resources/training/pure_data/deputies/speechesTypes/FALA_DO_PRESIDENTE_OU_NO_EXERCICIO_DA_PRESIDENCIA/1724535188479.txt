@@ -1,1 +1,3 @@
-Sessão Solene em homenagem à Igreja Evangélica Assembleia de Deus.(As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.)
+version https://git-lfs.github.com/spec/v1
+oid sha256:401212dd987101f9d51fa085b9d549fe900610766976b2ec032cdd8eb9624d57
+size 202

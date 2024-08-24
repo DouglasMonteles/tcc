@@ -1,1 +1,3 @@
-Inconformismo do orador com o adiamento, pelo Senado Federal, da apreciação da proposta de recomposição numérica das Câmaras Municipais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef0227a765a513b54fee2a414a4a47d95e7ab355ee657157fecf907397825ae2
+size 154

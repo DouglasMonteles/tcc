@@ -1,1 +1,3 @@
-Manutenção da greve dos professores do Distrito Federal por recomposição salarial. Inconsistência de declarações do Governador Ibaneis Rocha a respeito do movimento grevista dos docentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffdc7c7d1d80e374ac69e500fd564f1ce873f82d9969d4163136a4d5ad8b8345
+size 194

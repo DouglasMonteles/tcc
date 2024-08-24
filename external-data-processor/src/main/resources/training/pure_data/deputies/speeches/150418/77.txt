@@ -1,1 +1,3 @@
-Liberação do PRB para votação do Projeto de Lei Complementar nº 266, de 2013 (Altera a Lei Complementar nº 62/89, a Lei nº 5.172/66 - Código Tributário Nacional -, e a Lei nº 8.443/92 - Lei Orgânica do Tribunal de Contas da União -, para dispor sobre os critérios de rateio do Fundo de Participação dos Estados e do Distrito Federal - FPE -; e revoga dispositivos da Lei nº 5.172/66).
+version https://git-lfs.github.com/spec/v1
+oid sha256:97d98a66e7b99bd74275a77ad05d37ebc833de91ef06483e68474f91420d01c6
+size 400

@@ -1,1 +1,3 @@
-A Deputada formulou questão de ordem para retirada de pauta de matéria que não cumpriu prazo regimental de 24 horas para que a Casa tomasse conhecimento do seu mérito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7b436c7bb16b4ddbec99fb8ca4a4c21145568a77040552a9c0de1aeada1141c
+size 171

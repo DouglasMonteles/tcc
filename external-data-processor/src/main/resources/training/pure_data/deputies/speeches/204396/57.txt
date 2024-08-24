@@ -1,1 +1,3 @@
-Instalação da Escola Nacional de Turismo, no Município de Foz do Iguaçu, Estado do Paraná. Crescimento do setor turístico no Brasil. Expectativa quanto ao êxito dos trabalhos da Câmara dos Deputados em 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c698aa35bf608dd984d0b0eee853aa720bb5267ec3c8ff7d48827ac61006536
+size 215

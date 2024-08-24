@@ -1,1 +1,3 @@
-Não apuração de escândalos e denúncias de corrupção contra o Governo Federal e sua base. Acompanhamento pelo orador de desmandos do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3f3481d877a563b08db5607e62361c2f064c887f96d10e992e16e28a141e0cd
+size 142

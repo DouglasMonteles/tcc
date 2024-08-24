@@ -1,1 +1,3 @@
-Expectativa de aprofundamento pelo Plenário do debate sobre Proposta de Emenda à Constituição relativa à redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:975e6857179d898e127ac65749979ec18feab7cc5dbef0cf4d2d1096b47cbc45
+size 140

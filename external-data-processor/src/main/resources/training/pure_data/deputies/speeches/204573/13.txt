@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei do Congresso Nacional nº 27, de 2019, sobre a alteração da Lei nº 13.707, de 2018, acerca das diretrizes para a elaboração e execução da Lei Orçamentária de 2019. Protesto contra a decisão da Agência Nacional de Energia Elétrica - ANEEL de taxação do setor de microgeração de energia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76421c8343933d71b675ef5974c4808e8b1306eedd63337c924fc6f03ec05960
+size 356

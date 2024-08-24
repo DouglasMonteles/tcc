@@ -1,1 +1,3 @@
-Cumprimentos ao Presidente da República, Michel Temer, pela escolha do Deputado Marx Beltrão para o cargo de Ministro do Turismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:418d54fd357562a8cd9a1b12da635514cb2cbfbe8ecf9c9662303c074af0d9ed
+size 131

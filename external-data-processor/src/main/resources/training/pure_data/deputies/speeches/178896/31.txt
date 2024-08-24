@@ -1,1 +1,3 @@
-Apoio à retirada de pauta do requerimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:116a94cbcd80facd2d17c5e18826fbcb8f4968669421ebaac1d34d0247ad5c02
+size 43

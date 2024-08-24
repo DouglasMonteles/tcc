@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 5.082, de 2016, sobre a criação da via societária e o estabelecimento de procedimentos de governança e de natureza tributária para modernização do futebol. Suspensão, pela Justiça Federal, dos efeitos do Ato nº 62 do Ministério da Agricultura, Pecuária e Abastecimento, sobre a liberação de produtos agrotóxicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d010b34630b6fee0c6d66c6ea8f6902b0cf2487107eca5192b1accde789e62a
+size 441

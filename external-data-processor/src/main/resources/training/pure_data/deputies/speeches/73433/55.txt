@@ -1,1 +1,3 @@
-Correção de equívoco no pronunciamento do Presidente da Casa com relação ao nome do filiado número 1 do Partido dos Trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70a7a8cfe09dd8a981c463dcb247e7e6f8af431db292e956f088a22361ffa0ae
+size 136

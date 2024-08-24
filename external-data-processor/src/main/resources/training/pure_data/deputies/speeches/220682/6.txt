@@ -1,1 +1,3 @@
-Investigação do leilão de área destinada à estocagem de álcool no Porto de Paranaguá, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2542af3592f50357a03c9fbfeddf9d4e2d6a423d8afc1dc62f7ffb690377458e
+size 111

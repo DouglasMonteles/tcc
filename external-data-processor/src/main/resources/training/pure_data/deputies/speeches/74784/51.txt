@@ -1,1 +1,3 @@
-Realização da II Conferência Nacional de Economia Solidária. Tramitação na Casa de projeto de lei sobre a regulamentação do sistema de microcrédito no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3144ebf2218557935bc0af11093064cdb3fd3c2c17584924033f4c22bc8d3f10
+size 166

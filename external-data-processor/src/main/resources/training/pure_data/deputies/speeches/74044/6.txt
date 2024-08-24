@@ -1,1 +1,3 @@
-Convocação dos deputados da base governista ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3f74bc311932161cfb7413f23227f44de6fa81efb397a88d4b347e8379f2a8a
+size 59

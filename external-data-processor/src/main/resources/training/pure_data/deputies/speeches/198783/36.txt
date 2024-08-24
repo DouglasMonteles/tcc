@@ -1,1 +1,3 @@
-Denúncia de perseguição e ameaças praticadas pelo Governador Mauro Mendes e a Primeira-Dama Virginia Mendes, do Estado de Mato Grosso, contra o jornalista Alexandre Aprá de Almeida pela publicação de reportagens sobre irregularidades em contrato de publicidade celebrado pelo governo mato-grossense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:799eb830586d4c696758422c391a16f15e0e5c1f5aff5afeca43c4d3c220e64b
+size 306

@@ -1,1 +1,3 @@
-Realização do Encontro do PT do Nordeste, em Recife, Estado de Pernambuco. Teor da Carta Aberta elaborada por ocasião do evento. Importância da união e fortalecimento do Partido dos Trabalhadores. Resgate, pelo Grupo Especial de Fiscalização do Ministério do Trabalho e Emprego, de trabalhadores rurais submetidos ao regime análogo ao de escravidão, no Município de Correntina, Estado da Bahia. Necessidade de combate à prática de trabalho escravo no País. Defesa da desapropriação de latifúndios para fins de reforma agrária, no caso de constatação de tal prática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eef6f12c1021230a4ac11734f0bc0e45cc95b98ad6e4e3a37e24da6f9bac1117
+size 586

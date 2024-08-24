@@ -1,1 +1,3 @@
-Visita do orador ao Município de Garanhuns, Estado de Pernambuco. Elogio ao Prefeito da municipalidade, Sivaldo Albino. Regozijo com a sanção, pelo Presidente da República, de projeto de lei sobre a instituição do Programa Emergencial de Retomada do Setor de Eventos - PERSE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e9165d5e0e91abe00e5a3a0e5c06c87b02e51b19e125cf1b69d0255ff254170
+size 281

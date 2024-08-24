@@ -1,1 +1,3 @@
-Transcurso do 33º aniversário de emancipação político-administrativa do Município de Mauá da Serra, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a394100484785cb79e5fa2534898b3e88803b771f000b61dc344e4cbdbd9dcaf
+size 125

@@ -1,1 +1,3 @@
-Empenho da Presidência na busca de consenso para a tramitação das medidas  provisórias. Contradição entre a inoperância do Congresso Nacional e a exploração abusiva de noticiário sobre a utilização inadequada de cartões corporativos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce6a693d2bdae630106217fd22c9532020209c6a3fe9134a93997edfe40492fc
+size 246

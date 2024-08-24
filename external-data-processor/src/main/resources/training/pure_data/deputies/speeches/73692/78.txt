@@ -1,1 +1,3 @@
-Solidariedade à Reitoria da Universidade de São Paulo - USP diante de atos de depredação e vandalismo promovidos por estudantes da instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d893762d0c63ad8afa8f5815a9152815c919396bbdb1fa7a04d42a0cdee38b2e
+size 149

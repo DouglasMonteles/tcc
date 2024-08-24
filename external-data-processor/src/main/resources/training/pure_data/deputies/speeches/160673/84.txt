@@ -1,1 +1,3 @@
-Balanço da atuação parlamentar do orador em 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea9719f2717c028bb8bd1ffc70d6e226a570011afa9f3666c2319bb44a84359e
+size 52

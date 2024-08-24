@@ -1,1 +1,3 @@
-Posicionamento contrário do PP  ao art. 9º do Projeto de Lei de Conversão 3 de 2013 da Medida Provisória 587 de 2012 (Autoriza para a safra 2011/2012 o pagamento de valor adicional ao Benefício Garantia - Safra, de que trata a Lei nº 10.420  de 2002, e amplia para o ano de 2012 o Auxílio Emergencial Financeiro, de que trata a Lei nº 10.954 de 2004),  que trata  da  equalização do custo de produção das unidades industriais produtoras de etanol que desenvolvam suas atividades nas áreas de atuação da SUDENE e da SUDAM, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e124dfcf2955eed300f3d71358cb05467569ceca41a9e1795400feba38fa8c9
+size 551

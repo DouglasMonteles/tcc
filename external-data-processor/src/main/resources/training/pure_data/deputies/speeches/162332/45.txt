@@ -1,1 +1,3 @@
-Defesa de realização, pela PETROBRAS, de investimentos na exploração de petróleo e gás natural a partir do xisto betuminoso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b2965a217fd1d20c2f887cf78a33ddfc6f8607d4a9194df68bd6ae79f74c508
+size 130

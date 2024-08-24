@@ -1,1 +1,3 @@
-Apreensão da oradora com os rumos do setor educacional brasileiro, diante das constatações da Comissão Externa destinada ao acompanhamento dos trabalhos desenvolvidos pelo Ministério da Educação. Despreparo do Ministro Abraham Weintraub.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ad035a97704d586ba93903574c042c5e82b4040564d6b4185b591e55900b43b
+size 244

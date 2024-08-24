@@ -1,1 +1,3 @@
-Posicionamento contrário da oradora à chamada PEC da Transição. Impactos fiscais negativos para o País em caso de aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b897b05ccc244415eac9ef471d8a0d181c6b89a048e4497503e2ee2f6ba513f0
+size 143

@@ -1,1 +1,3 @@
-Participação do orador nas festividades do Círio de Nossa Senhora da Conceição, no Município de Abaetetuba, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36ca2c400c727ffab484f1ef1556cef3ad9e2e952bf9f96b47291dbfc1f69e92
+size 130

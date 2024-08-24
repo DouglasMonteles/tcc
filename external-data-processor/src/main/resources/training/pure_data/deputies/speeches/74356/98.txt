@@ -1,1 +1,3 @@
-Revisão do pacto federativo. Importância da privatização do setor de telecomunicações para as municipalidades brasileiras. Implantação dos serviços de telefonia móvel e de Internet banda larga em Municípios amazonenses. Impactos advindos do contingenciamento de recursos do Orçamento Geral da União. Defesa de adoção do orçamento impositivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf6075be671377e1fff298790a13de84bdae44078aa7bacc2de836346ad24096
+size 357

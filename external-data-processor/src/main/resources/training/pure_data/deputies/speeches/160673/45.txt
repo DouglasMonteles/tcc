@@ -1,1 +1,3 @@
-Posse do Deputado Brizola Neto como Ministro do Trabalho e Emprego.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2561f8752cec747daaf598cee1f65ae741d14992e9e88618cc0b17cb03a001b5
+size 67

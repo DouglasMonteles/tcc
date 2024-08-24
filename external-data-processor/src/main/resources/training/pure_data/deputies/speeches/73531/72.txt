@@ -1,1 +1,3 @@
-Considerações sobre o voto do Ministro Carlos Ayres Britto e à defesa apresentada pela advogada Joênia Batista de Carvalho em julgamento, pelo Supremo Tribunal Federal, de ação relativa à demarcação da reserva indígena Raposa Serra do Sol, no Estado de Roraima. Pioneirismo da atuação de advogada indígena no STF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24b9453447075c18b747bcaaf3ae1b05c8c4b459678d4231e88b33995e32260b
+size 326

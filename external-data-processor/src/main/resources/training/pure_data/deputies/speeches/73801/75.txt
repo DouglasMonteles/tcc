@@ -1,1 +1,3 @@
-Solidariedade aos familiares do Deputado Assis Carvalho. Apoio da bancada do PCdoB à eleição do Deputado Paulão para o cargo de 4º Suplente da Mesa Diretora da Câmara dos Deputados. Registro de voto da Deputada Alice Portugal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28631115ab3ee92c7580e7e3e7ff03cf2976f85dbab295a807ab6680d79742cb
+size 232

@@ -1,1 +1,3 @@
-Apresentação do relatório final da Comissão Especial sobre a carreira médica. Indicação de alternativas para a melhoria da carreira no âmbito do sistema de saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0df8c971b018b7012d50362bc63321dd0b7c61b5fe903253427d5e1586286b5c
+size 180

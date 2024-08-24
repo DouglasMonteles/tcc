@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 1.691, de 2023, sobre a concessão, pela União, de compensação financeira às vítimas de violência nas escolas, bem como aos seus familiares no caso de óbito. Encaminhamento ao Ministro da Educação, Camilo Santana, e ao Governador do Estado do Espírito Santo, Renato Casagrande, de requerimentos de indicação sobre a destinação de&nbsp;recursos aos Municípios para fortalecimento da segurança escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f376e084b8851fa0335723bac1b6a7449bc7cf27db3852b2af1a6eec43e47a41
+size 453

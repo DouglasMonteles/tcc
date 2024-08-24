@@ -1,1 +1,3 @@
-Posicionamento favorável do PT ao Substitutivo  ao  Projeto de Lei 219 de 2003 (Regulamenta o inciso XXXIII do art. 5º da Constituição Federal, dispondo sobre prestação de informações devidas pelos órgãos da Administração Pública), apensos os PLs 1.019/07, 1.924/07 e 5.228/09.
+version https://git-lfs.github.com/spec/v1
+oid sha256:976a08a1a7796b90fd24a0852d8f1f40b9fdabe28d24c6c86c19d63de039a1e6
+size 290

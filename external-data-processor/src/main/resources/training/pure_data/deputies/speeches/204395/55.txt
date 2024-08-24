@@ -1,1 +1,3 @@
-Leitura de nota assinada por diversas frentes parlamentares em solidariedade ao Presidente Arthur Lira, desrespeitado de maneira vil e inadequada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15c4298a1a66d0d36272672af110b9353cecb340eba03ff7a03ee55518c5cde5
+size 146

@@ -1,1 +1,3 @@
-Transcurso dos aniversários de emancipação político-administrativa dos Municípios de Itambé, Caculé, Guanambi e Carinhanha, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77685faae3d97b70e3a1270923c3faad838ed693460635b5e429dc7d30042d2a
+size 147

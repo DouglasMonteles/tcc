@@ -1,1 +1,3 @@
-Apresentação de requerimento de apreciação, em regime de urgência, da Proposta de Emenda à Constituição nº 333, de 2017, sobre a extinção do foro especial por prerrogativa de função no caso de crimes comuns.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46208eef19a982c36e1739c97027e51a82361a30891afc10759555d1f7b49a58
+size 220

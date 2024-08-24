@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Café. Classificação do Brasil em 1º lugar na produção e exportação mundial de café e em 2º lugar entre os mercados consumidores. Criação da Frente Parlamentar Mista em Defesa da Cafeicultura. Conquistas e atividades desenvolvidas pela Frente Parlamentar. Apoio da Câmara dos Deputados e do Senado Federal à causa da cafeicultura nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfae70ffa42104e6a993aec7e4f5dc1864c5195235ee9000f5828285b7bf3056
+size 382

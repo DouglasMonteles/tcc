@@ -1,1 +1,3 @@
-Participação em evento de trilheiros promovido pela associação Bananalama no Município de Corupá, Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb5ca29c5b97b7bf1741ffc25b68fe3c8118736bcdc5b1e7d85ffa2bb6867d7e
+size 129

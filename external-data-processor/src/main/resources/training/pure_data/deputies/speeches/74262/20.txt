@@ -1,1 +1,3 @@
-Ponderações sobre a  importância  de a Casa decidir  sobre a  questão dos vetos pendentes de deliberação ao invés de  ficar no aguardo de decisão do Supremo Tribunal Federal. Defesa do exercício da prerrogativa do Congresso Nacional de encerramento do processo legislativo com a devida apreciação de vetos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c3ca0ba97febdc7fd40a006dc817e2d17d0c53cdc1a3e516fd974c761dba552
+size 317

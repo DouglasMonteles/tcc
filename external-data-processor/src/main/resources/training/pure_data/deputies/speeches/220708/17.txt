@@ -1,1 +1,3 @@
-O orador comemorou a aprovação do Projeto de Lei nº 1.016, de 2023, que prorroga os prazos referentes à contribuição previdenciária sobre a receita bruta, e dá outras providências. Enfatizou que a matéria se trata de uma luta da bancada municipalista e dos Prefeitos de todo o Brasil, inconformados com as alíquotas do INSS. Informou que, de acordo com emenda apresentada ao projeto, o tributo será escalonado de maneira justa, de acordo com o tamanho dos municípios. Também anunciou a criação da Comissão Externa sobre a situação dos municípios que perderam recursos do FPM. Como Relator dos trabalhos da Comissão, o orador manifestou expectativa de interromper os impactos negativos que o Censo de 2022 trouxe para o municipalismo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4d87d45ce34db03e057408f75a6b91e50b0573d1767898ed971fac22766145f
+size 765

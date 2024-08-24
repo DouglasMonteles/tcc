@@ -1,1 +1,3 @@
-Conclamação aos Deputados para apoiamento à proposta de criação dos Estados do Tapajós e Carajás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed4727756c4ba8d820064fd95c5a29d85ff13ea31dc4df81b79be997a6ff7bbd
+size 104

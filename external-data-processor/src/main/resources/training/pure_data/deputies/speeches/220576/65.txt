@@ -1,1 +1,3 @@
-O Deputado discutiu a Medida Provisória nº 1.187, de 2023, que cria o Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte. expressou preocupação com o atual cenário fiscal do Brasil, destacando o recorde de déficit primário e a elevada dívida bruta em relação ao PIB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1db9abe5fd61f1e6f95998c118299fff23d564e234430fc627d28ff4b67a17f8
+size 304

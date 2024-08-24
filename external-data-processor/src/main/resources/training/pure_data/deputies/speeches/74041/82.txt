@@ -1,1 +1,3 @@
-Reconhecimento, pelo economista Edmundo Phelps, da importância do Programa Bolsa Família como instrumento de inclusão social e de fortalecimento da economia brasileira. Interesse mundial pelos programas sociais do Governo Luiz Inácio Lula da Silva. Participação do Ministro do Desenvolvimento Social e Combate à Fome, Patrus Ananias, em conferência da Organização das Nações Unidas para a Agricultura e a Alimentação - FAO, realizada em Roma, Itália. Acerto da política socioeconômica do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4584639ece4fe11d8e104a7989e6e4602b3eb40f45d07d12d0bb3a0f0b8797d
+size 521

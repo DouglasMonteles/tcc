@@ -1,1 +1,3 @@
-Realização, pela Comissão de Direitos Humanos e Minorias, de audiência pública para discussão da Guerrilha do Araguaia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9849b0dea64663de48fd1bf19dd5ccb6fd09b775381103705b79041f379a9abd
+size 125

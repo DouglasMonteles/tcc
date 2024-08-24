@@ -1,1 +1,3 @@
-Participação do orador em reunião com o Presidente do Senado Federal, Senador Renan Calheiros, o Ministro de Minas e Energia, Edison Lobão, e lideranças políticas do Estado de Alagoas para debate sobre a recuperação de perdas salariais dos empregados da extinta Companhia Energética de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d91d9a0e5f955d2ebc02b2866081ab8e400dea929a5a43ec20cfe06666000e5b
+size 303

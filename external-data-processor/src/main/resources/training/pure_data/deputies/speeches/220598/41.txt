@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição nº 45, de 2019, sobre a alteração do Sistema Tributário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09e84310d2526f1f4c3b1c6c5f0d7c9f4f2a041081b43edc85fc5ac192e6633f
+size 183

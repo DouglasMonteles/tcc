@@ -1,1 +1,3 @@
-Posicionamento favorável do PP ao Projeto de Decreto Legislativo 563 de 2008 (Aprova o texto da Convenção sobre os Direitos das Pessoas com Deficiência e de seu Protocolo Facultativo, assinados, em Nova York, em 30 de março de 2007 - Mensagem 711 de 2007). Ponderações sobre o Estatuto da Pessoa com Deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c50d0227c0a3e1c6c04a7dd67f62921b15db57afe67fb9bc69be545cf7bc5df5
+size 320

@@ -1,1 +1,3 @@
-A Deputadas destacou a importância do mês de agosto como um período de conscientização das doenças raras, como a AME e a esclerose múltipla, além de ser marcado pelo aniversário da Lei Maria da Penha. Ela enfatizou a necessidade de expandir os esforços de combate à violência contra a mulher para o interior do estado do Ceará, apontando exemplos positivos em municípios como Maracanaú e Lavras da Mangabeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01fe05810078d6f32957bb3b7dbdd2fad7c76a9def43b6701a6ec64c80f61f53
+size 424

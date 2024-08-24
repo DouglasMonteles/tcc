@@ -1,1 +1,3 @@
-Congratulações aos Deputados favoráveis à aprovação da PEC dos Vereadores. Indagação à Presidência sobre a data de votação da matéria em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d440bf6738e4779b73dfc0bb965d3bea8a2249328f49e1b611fc6d0b5a3f35a
+size 164

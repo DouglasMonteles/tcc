@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do inciso V do § 3º do art. 119 do substitutivo oferecido ao Projeto de Lei nº 1.292, de 1995, sobre a alteração da Lei nº 8.666, de 1993, relativa à instituição de normas de licitações e contratos da administração pública, com vista à sua supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c7092c98b16d7d44544c823b0ffdb522c5a4b1668e83350292e7094c28a91fe
+size 358

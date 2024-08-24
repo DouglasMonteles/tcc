@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com as enchentes em Santa Catarina devido às fortes chuvas que afetaram muitas áreas do estado. Ele destacou a solidariedade e o trabalho realizado pelas autoridades estaduais e federais, colocando de lado considerações políticas para ajudar o povo catarinense. Além disso, mencionou a crise na produção de leite em Santa Catarina devido à importação crescente de leite da Argentina e do Uruguai. Ele elogiou as medidas tomadas pelo Governo Federal para aliviar a situação dos produtores de leite, trazendo esperança para o setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb976f594bd5c47cf89698abdad624fcdcc1be0de498367c808ae9dc3c93ae1d
+size 579

@@ -1,1 +1,3 @@
-Desconexão entre o pronunciamento de Deputado do PT contrário ao ódio e à violência na política, e a sua omissão sobre a declaração de vingança do Presidente Luiz Inácio Lula da Silva contra o Senador Sergio Moro. Não manifestação de Parlamentares petistas sobre a ação de sindicalistas contra o Presidente do Banco Central, Roberto Campos Neto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:319a83468658e42d6bd34e5ec1924a7916bfc8b0c26769f8b765d06aa861429b
+size 361

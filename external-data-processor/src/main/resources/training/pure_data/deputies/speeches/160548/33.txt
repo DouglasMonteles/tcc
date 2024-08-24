@@ -1,1 +1,3 @@
-Anúncio de realização, pela Comissão de Turismo e Desporto, em conjunto com outras Comissões, de audiência pública destinada ao debate da situação dos aeroportos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62184c3695f96e47ad435db41d464a7c456b3fdda8fa7d9e400ca9c7c2ab7322
+size 183

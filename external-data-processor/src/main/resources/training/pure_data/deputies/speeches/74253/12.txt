@@ -1,1 +1,3 @@
-Congratulações à Deputada Andreia Zito pela apresentação de proposta de emenda à Constituição que unifica a regra para a aposentadoria por invalidez. Solicitação aos Deputados do PP e do PROS de comparecimento ao plenário. Apoio à aprovação da matéria. Congratulações ao Governador do Estado do Rio de Janeiro pela indicação do Deputado Carlos Osório para o cargo Secretário de Estado de Transportes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbdca5126e82aaf600f0778fcab67c8f1b2adf254de86e99586fda465902824b
+size 421

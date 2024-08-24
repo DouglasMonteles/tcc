@@ -1,1 +1,3 @@
-Apoio à aprovação da chamada PEC dos Vereadores. Contrariedade à política de distribuição dos royalties do petróleo. Apresentação de emendas aos projetos de lei sobre o estabelecimento do marco regulatório da exploração de petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26b28fd6fefd621151cb446b0547907c14b355e3c64e42711d4c6cd0982c40a7
+size 265

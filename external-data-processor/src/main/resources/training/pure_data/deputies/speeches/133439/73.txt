@@ -1,1 +1,3 @@
-Aprovação, pela Casa, do Projeto de Decreto Legislativo nº 2.304, de 2009, favorável aos servidores do Instituto Nacional do Seguro Social - INSS. Instalação de CPI destinada à investigação da atuação de institutos de pesquisas. Regulamentação de pesquisas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6414edfbc3e3e32ac9e82351c4f73cb4596fce7c1609b6ad1e6fd6f9c4bd3eef
+size 281

@@ -1,1 +1,3 @@
-Transcurso do 60º aniversário de fundação do jornal O Dia, do Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c43085c6b8d96d538d4f165979be8c021174845e9fa15f54ff5bb0f3d9c6a25
+size 107

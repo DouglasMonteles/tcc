@@ -1,1 +1,3 @@
-Transcurso do 109º aniversário de fundação de Campo Grande, Estado do Mato Grosso do Sul. Inexistência de favorecimento político nos investimentos realizados pelo Presidente Luiz Inácio Lula da Silva no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15404cf874f4b97db076f964c344303fc428019786d010479c1db66209b9cd8d
+size 217

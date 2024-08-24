@@ -1,1 +1,3 @@
-Homenagem à Operação Lava-Jato, destinada ao combate à corrupção, ao ensejo do transcurso do 9º aniversário de sua criação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:caba40a5d5f823c3b0d31116bc35a30e0c6187346e97d384711e153740946f83
+size 133

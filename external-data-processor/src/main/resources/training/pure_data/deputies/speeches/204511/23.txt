@@ -1,1 +1,3 @@
-Não adesão do Governador do Estado de São Paulo, João Doria, ao Programa Nacional das Escolas Cívico-Militares. Inconformismo do orador com a decisão do gestor estadual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29cfea2a53864d1d293515f77a0eadec5acb47c97c01291873ae23890a7eb2b6
+size 175

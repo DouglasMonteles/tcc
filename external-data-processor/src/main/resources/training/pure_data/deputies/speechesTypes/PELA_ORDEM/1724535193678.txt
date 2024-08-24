@@ -1,1 +1,3 @@
-Situação do transporte púbico urbano nas principais metrópoles brasileiras. Previsão de obras em Curitiba, Estado do Paraná, para melhoria da mobilidade urbana com vistas à Copa do Mundo de Futebol em 2014. Disponibilidade, no portal eletrônico do Ministério das Comunicações, de dados sobre a concessão de emissoras de rádio e televisão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f44ce6ee47aa353c9ce2963ba895a4a12f6b9de71eac0f4956fdaf6b2a3c7263
+size 352

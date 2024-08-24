@@ -1,1 +1,3 @@
-Repúdio à decisão do Supremo Tribunal Federal, contrária à prisão de condenados em segunda instância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffdaf763b4e0ae7d71473de9863d1283536c55d018946b70f576c360616a96cd
+size 108

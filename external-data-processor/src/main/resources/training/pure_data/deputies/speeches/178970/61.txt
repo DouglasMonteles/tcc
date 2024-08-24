@@ -1,1 +1,3 @@
-Regozijo com a reeleição do Sr. José Graziano da Silva para o cargo de Diretor-Geral da Organização das Nações Unidas para a Alimentação e a Agricultura - FAO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:955c6df967872fffb734079f21354059e7009a92d93349641e2691d201361bad
+size 168

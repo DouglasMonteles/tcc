@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Requerimento nº 592, de 2019, para apreciação em regime de urgência do Projeto de Lei nº 10.712, de 2018, sobre alteração do Estatuto da Criança e do Adolescente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d575e3ce51c60323de5e2d59567e0280abd27175c430b67ab3e736677bc41523
+size 210

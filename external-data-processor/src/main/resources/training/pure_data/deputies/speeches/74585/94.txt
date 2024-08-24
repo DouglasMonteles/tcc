@@ -1,1 +1,3 @@
-Urgente atualização da tabela de procedimentos do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd1d81863030c03e9a0e4c2f279311b025931f4969de6c417b18162da1a77950
+size 83

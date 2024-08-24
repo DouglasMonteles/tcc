@@ -1,1 +1,3 @@
-Acumulação de superpoderes pelo Presidente Arthur Lira, em detrimento de preceitos da Constituição Federal e do Regimento Interno da Casa. Manobras da Presidência em prol da aprovação da Proposta de Emenda à Constituição nº 15, de 2022, sobre o estabelecimento de diferencial de competitividade para os biocombustíveis; o aumento do valor do Auxílio Brasil para 600 reais, dentre outros temas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cacf31ea84836bbd299b29f1455adc0571d9995a31a290cfc3534d9c9d5b3354
+size 406

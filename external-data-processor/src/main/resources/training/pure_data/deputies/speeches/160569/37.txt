@@ -1,1 +1,3 @@
-Aprovação de projeto de lei sobre a criação do Conselho Estadual de Comunicação Social, pela Assembleia Legislativa do Estado da Bahia. Caráter democrático do Governo Jaques Wagner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81597ebc7afe9fa85f43079403c9a5887d3fc24949915a04c2f23b62c856d5bf
+size 189

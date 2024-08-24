@@ -1,1 +1,3 @@
-Repúdio à narrativa da Esquerda e do Presidente Luiz Inácio Lula da Silva para impedimento do retorno do ex-Presidente Jair Bolsonaro ao poder. Comparação entre as ações promovidas pela Operação Lava-Jato e pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes. Negligência do Senado Federal na investigação de práticas abusivas do Judiciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d7a9118aee59115f333d3a6282d32ff6b799c7a807620719a689a8e54afc4c6
+size 366

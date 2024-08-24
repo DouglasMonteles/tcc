@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas do Senado Federal apresentadas ao Projeto de Lei Complementar nº 18-A, de 2022, sobre alteração da Lei nº 5.172, de 1966, e da Lei Complementar nº 87, de  1996, para reconhecimento como bens e serviços essenciais os relativos aos combustíveis, à energia elétrica, às comunicações e ao transporte coletivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7d37e5bdd905ae689ba1f5ea91aa53f3a044b9e52385cf485130c11f3ea7144
+size 349

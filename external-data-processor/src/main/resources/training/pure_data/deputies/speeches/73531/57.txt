@@ -1,1 +1,3 @@
-Pedido à Casa de apreciação imediata do Projeto de Lei nº 4.385, de 1994, sobre maior rigor no controle dos estabelecimentos farmacêuticos na venda de medicamentos, fármacos e produtos correlatos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39b0038a99c841607d4c74271da627173d187080886eda8b4acaee7801d792cc
+size 202

@@ -1,1 +1,3 @@
-Expectativa de votação do Projeto de Lei nº 863, de 2015, que altera a Lei nº 12.546, de 14 de dezembro de 2011. Apresentação de emendas à proposição em defesa da agricultura, da pecuária avícola e da indústria têxtil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:680e9439f7534992735430c369ae0a3ae93577d0e0991f7c5d73e2f091d76b0b
+size 231

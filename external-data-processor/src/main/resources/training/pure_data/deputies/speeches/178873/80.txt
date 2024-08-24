@@ -1,1 +1,3 @@
-Não comparecimento do Procurador da República, Deltan Dallagnol, em audiência pública na Comissão de Direitos Humanos e Minorias. Divulgação, pelo site  The Intercept Brasil , de mensagem de áudio atribuída ao membro do Ministério Público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fe2fafe4e608c1b752385f3427e4da98934c0f3c12566b3474e357fde9690d9
+size 250

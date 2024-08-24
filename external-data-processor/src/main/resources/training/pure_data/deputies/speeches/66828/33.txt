@@ -1,1 +1,3 @@
-Sessão Solene em homenagem aos 65 anos do Esquadrão de Demonstração Aérea - EDA - Esquadrilha da FumaçaAs notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:176f0e270fd244cbf92bd5eb5f016caffa3e1272ffc453ace4615698e0889e22
+size 258

@@ -1,1 +1,3 @@
-A Deputada encaminhou a votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.673/2023, que altera a Lei nº 12.764, de 27 de dezembro de 2012, para dispor sobre a formação de profissionais de creches e pré-escolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6448d2f48f5365ac8517df995b9c6a38cf5742e76826b8bd5cb08668dd26d733
+size 253

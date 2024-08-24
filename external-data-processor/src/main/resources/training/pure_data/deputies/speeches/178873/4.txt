@@ -1,1 +1,3 @@
-Regozijo com a aplicação de 198 bilhões de reais por meio do Programa de Investimentos em Logística, do Governo Federal, em obras no País. Construção da Ferrovia Vitória-Rio de Janeiro e concessão de trecho da BR-262. Realização, pela Comissão Especial de revisão da Lei das Licitações, de seminário na Assembleia Legislativa do Estado do Espírito Santo para debate sobre o tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c12af764395439cea7b2d884bb324833e2c1e3873c10738259cbcfd4a08d67f5
+size 396

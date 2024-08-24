@@ -1,1 +1,3 @@
-O Deputado protestou, com indignação, contra a apreciação pelo STF da ADPF 442, que trata da descriminalização do aborto voluntário até a 12ª semana de gestação. O orador comparou a legalização do aborto a um holocausto silencioso e considerou essa pauta uma afronta ao povo cristão do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bda7657b0862dd8489ce9a42b74d28c75eb2ae7be79bbe1f039fc218741256aa
+size 307

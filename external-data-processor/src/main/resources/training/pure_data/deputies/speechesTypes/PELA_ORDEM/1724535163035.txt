@@ -1,1 +1,3 @@
-Agradecimento à população brasileira, aos Governos Estaduais, aos Secretários Estaduais e Municipais de Saúde e à Cruz Vermelha pelo apoio prestado ao Estado de Santa Catarina em catástrofe natural em 2008. Inauguração pela Presidenta Dilma Rousseff de unidades habitacionais no Município de Blumenau, construídas por meio do Programa Minha Casa, Minha Vida. Realização, pela Comissão de Seguridade Social e Família, de audiência pública destinada ao debate sobre o piso salarial dos Agentes Comunitários de Saúde e dos Agentes de Combate a Endemias. Promoção da Semana Nacional do Meio Ambiente. Importância da preservação ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96a7abca31012fcda1f682d4c7755f69bdcdc3173bb13c808f2cfd9ad5e62a66
+size 658

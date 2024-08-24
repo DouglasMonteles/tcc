@@ -1,1 +1,3 @@
-Congratulação à população brasileira pelas manifestações em favor do impeachment da Presidenta da República, Dilma Rousseff. Defesa da concessão de prioridade à votação da matéria pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbeeaa974b106bd22b005465b737b6f7db6571830070e7c70ff9b470942191bb
+size 220

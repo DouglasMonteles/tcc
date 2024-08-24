@@ -1,1 +1,3 @@
-A Deputada denunciou a crise na educação em São Paulo, apontando a demissão em massa de milhares de profissionais, incluindo professores categoria O. O Governo Estadual, liderado pelo Governador Tarcísio de Freitas, implementou medidas autoritárias, como a portaria vigiar e punir, além de descumprir obrigações como o pagamento do INSS. Criticou a Proposta de Emenda à Constituição nº 9, de 2023, em tramitação na Assembleia Legislativa de São Paulo, que propõe a redução das verbas da educação, enquanto o Estado enfrenta problemas estruturais, como mais de cem escolas de lata. Ressaltou a mobilização do Coletivo Educação em Primeiro Lugar! e a importância de defender a educação como um direito social fundamental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b5d85c49451d394d6ab4cec4e3e1f9c75a7b4fb41d3ff1a652478ec944bb423
+size 747

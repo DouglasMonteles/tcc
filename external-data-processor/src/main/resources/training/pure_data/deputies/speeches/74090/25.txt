@@ -1,1 +1,3 @@
-Eficiência da administração do Prefeito Sidônio Gonçalves, do Município de Tefé, Estado do Amazonas. Apoio popular à sua reeleição. Implementação pelo Governo Eduardo Braga e pelo Governo Federal de obras em Tefé. Apresentação pelo orador de projetos em benefício da municipalidade. Apresentação de emenda de bancada ao Orçamento Geral da União destinada à área de infra-estrutura local.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fe3398b681d7022052ca464d6ce713dd79e30bb88582182a74c7dd4af26b162
+size 409

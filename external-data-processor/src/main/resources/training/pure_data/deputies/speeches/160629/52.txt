@@ -1,1 +1,3 @@
-Relato de visita do Governador do Estado da Paraíba, Ricardo Coutinho, ao Município de Campina Grande.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5c2dba924d1bbaeae29883f9f429e6533b5519877d911f947a7fe5ed57b2c10
+size 104

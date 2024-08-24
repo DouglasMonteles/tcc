@@ -1,1 +1,3 @@
-Realização de audiência pública no Município de Governador Valadares para debate do tema Efeito Estufa: Causas e Conseqüências. Importância da formulação de políticas públicas para o desenvolvimento sustentável da municipalidade. Compromisso da Frente Parlamentar de Defesa do Rio Doce com a recuperação ambiental da região. Transcurso do 65º aniversário da emancipação político-administrativa do Município de Mantena, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7312f499af3fe50982e43e062e7c918fca04d11b78198b931812ea7385da0cc
+size 464

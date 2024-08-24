@@ -1,1 +1,3 @@
-Homenagem à memória do cantor Waldick Soriano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7fb02376133f2bf7c2273cd5b0d4658aef720342b2e0cfce2ffcf965d855429
+size 48

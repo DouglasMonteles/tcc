@@ -1,1 +1,3 @@
-O Deputado manifestou sua solidariedade ao Vereador Gabriel César, do Município de Parnamirim, Estado do Rio Grande do Norte, por ser vítima de intolerância, intimidação e tentativa de cancelamento nas redes sociais por parte de ativistas do movimento LGBTQI+ e também por colegas do Parlamento da cidade. Esclareceu que o Vereador usou de sua liberdade de expressão e de indignação para criticar a presença da bandeira do movimento no desfile cívico de 7 de Setembro, razão pela qual passou a ser intimidado. O orador parabenizou Gabriel César pela defesa dos valores cívicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:509f7e85abf083a2b319f7a8dfd8272d50bc336caedea1ab154fa98ed6b86a2a
+size 592

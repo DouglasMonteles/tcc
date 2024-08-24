@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido pela Comissão de Constituição e Justiça e de Cidadania ao Projeto de Lei nº 4.438, de 2021, sobre alterações do Estatuto da Pessoa Idosa e do Estatuto da Pessoa com Deficiência, para aprimoramento da defesa dos direitos humanos e para o estabelecimento de medidas protetivas de urgência para as pessoas idosas e pessoas com deficiência vítimas de violência ou sob ameaça de violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71a438add38b68652561f8a67f9b1443a43a7ee5545b1398dc8409037efbdce9
+size 461

@@ -1,1 +1,3 @@
-Posse da Ministra Kátia Arruda no Tribunal Superior do Trabalho - TST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48e7c8814fb83170b916e26764b1fe0705422563f44fa2b88b7a13738a4f3993
+size 71

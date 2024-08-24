@@ -1,1 +1,3 @@
-Perseguição religiosa praticada pelo Irã contra a comunidade Bahá'í. Conveniência de manifestação do Governo brasileiro a respeito do caso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50d0982a4152ad529291b1ccd54efe35e1b634dcb6993233f7c38b0fea721a4b
+size 147

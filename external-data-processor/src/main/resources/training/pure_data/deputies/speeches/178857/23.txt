@@ -1,1 +1,3 @@
-Descontentamento com o embate entre servidores públicos de carreiras distintas presentes à votação da Proposta de Emenda à Constituição nº 443, de 2009, que fixa parâmetros para a remuneração dos advogados públicos. Anseio por espaço adequado para o diálogo entre o Poder Legislativo e as carreiras em campanha salarial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f331471f01161cf1776d46b9bb0774ba4e1fa0f96928604440f10a2d99997d5c
+size 334

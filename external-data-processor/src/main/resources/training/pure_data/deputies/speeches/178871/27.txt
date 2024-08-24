@@ -1,1 +1,3 @@
-Votos de boas-vindas à Deputada Pollyana Gama, do PPS, ao ensejo da assunção do mandato parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aa57e45df4fc3b6afb8d80423ba9aeba9dd13c528fc7f16e5076d5ab7273ca4
+size 103

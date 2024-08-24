@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a situação do Programa Forças no Esporte (PROFESP), que enfrenta a ameaça de extinção devido à falta de repasses do Governo Federal. Destacou que o programa tem sido eficaz na promoção da inclusão social, atendendo crianças e adolescentes carentes em todo o Brasil. Enfatizou a relevância da PROFESP, especialmente no contexto da violência no Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d253e71afc4382a25f3ef3161d35b753c949218af5cda54d8c907135826bf014
+size 420

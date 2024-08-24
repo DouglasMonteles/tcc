@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei 1.876  de 1999 (Dispõe sobre Áreas de Preservação Permanente, Reserva Legal, exploração florestal e dá outras providências - Novo Código Florestal Brasileiro).
+version https://git-lfs.github.com/spec/v1
+oid sha256:61c073af8b72b026fda7f0ea6f1f372a62c55cc58ff49f451053e53e29ccbbaf
+size 197

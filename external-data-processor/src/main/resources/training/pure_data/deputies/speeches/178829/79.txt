@@ -1,1 +1,3 @@
-Realização da 1ª Feira Agrocomercial do Município de Coronel Macedo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe921b4c8372ff7ae891125b282f2331c2ec7dca5756a07c714d94af7f5536f7
+size 94

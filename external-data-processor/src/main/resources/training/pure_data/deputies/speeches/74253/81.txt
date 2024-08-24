@@ -1,1 +1,3 @@
-Descaso da Presidenta da República, Dilma Rousseff, com o conteúdo de ligações telefônicas objetos de gravação pela Polícia Federal no âmbito da Operação Lava-Jato. Reação da população à nomeação do ex-Presidente da República Luiz Inácio Lula da Silva para o cargo de Ministro-Chefe da Casa Civil da Presidência da República. Regozijo com a participação da população em protestos pela reconstrução do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:564b431a4311851a2971b54ab8fd3077e69bc820d7efe3f27392045da2a08003
+size 436

@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a regulamentação do patrocínio estatal de esportes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:230109ba1f431351a09eec91324313d84c55145a4d395fabc2938517e014d3f4
+size 93

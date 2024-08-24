@@ -1,1 +1,3 @@
-Transcurso do 117º aniversário de fundação do Município de Guararema, Estado de São Paulo. Exercício do mandato parlamentar do orador em prol da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38f11fb60f29ceb1716be99d37408eda1b00d39eede1cf70af661d69e1d6efbe
+size 167

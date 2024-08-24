@@ -1,1 +1,3 @@
-Posicionamento favorável do PRB   à PEC 98 de 2007 ( Acrescenta a alínea e ao inciso VI do art. 150 da Constituição Federal, instituindo imunidade tributária sobre os Fonogramas e Videofonogramas musicais produzidos no Brasil, contendo obras musicais ou lítero-musicais de autores brasileiros, e/ou obras em geral interpretadas por artistas brasileiros, bem como os suportes materiais ou arquivos digitais que os contenham - PEC da Música), em votação em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f5832cfd92af2c2fd96f34a2f2051b05c7a6596bc7b49bcc41b6385dd9a31bd
+size 479

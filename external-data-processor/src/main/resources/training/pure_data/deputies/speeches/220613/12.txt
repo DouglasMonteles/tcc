@@ -1,1 +1,3 @@
-Leitura de trechos da Bíblia Sagrada. Repúdio à consideração como armação, pelo Presidente Luiz Inácio Lula da Silva, da tentativa de assassinato do Senador Sergio Moro e seus familiares. Protesto contra os ataques do Presidente da República ao Banco Central do Brasil e à política de juros adotada pela instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce81b597054955810085669a9876d9c78306ecf38645dc2dd62d83763281e92c
+size 329

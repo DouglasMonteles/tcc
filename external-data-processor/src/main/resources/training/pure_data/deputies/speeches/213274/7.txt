@@ -1,1 +1,3 @@
-Preocupação do orador com a desativação de 130 leitos, por falta de funcionários, do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc85fb7b7c36e21e1ed766167c9427bdde65e1559e41667fc132f59089a205ac
+size 179

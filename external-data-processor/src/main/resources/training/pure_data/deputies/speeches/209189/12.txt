@@ -1,1 +1,3 @@
-PRESIDENTE (Joseildo Ramos) - Suspensão da sessão extraordinária para início da sessão solene, promovida pela Casa ao ensejo do transcurso do Dia Nacional de Luta pela Reforma Agrária. PRESIDENTE (João Daniel) - Reabertura da sessão extraordinária.Cancelamento da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:092cc87251fe77e736d8c0faf47be244819fb6993b213aa9d8c562c1e4d6aae0
+size 286

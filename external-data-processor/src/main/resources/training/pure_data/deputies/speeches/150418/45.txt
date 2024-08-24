@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação da proposta de emenda à Constituição sobre o confisco de terras de escravagistas. Participação de delegação parlamentar da Casa na Cúpula da Diáspora Africana do Parlamento Pan-Africano, em Midrand, África do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10417cce625614514d1c41d78c47a5771e2c417c96b90eab80b00ef800ca7deb
+size 265

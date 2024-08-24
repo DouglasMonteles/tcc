@@ -1,1 +1,3 @@
-Repúdio à proposta de criação da Frente Sul-Sudeste em oposição aos Estados das Regiões Norte e Nordeste, apresentada pelo Governador do Estado de Minas Gerais, Romeu Zema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83dff16c1e2ee9d4b6a401b2ec4dd66f757e62e82583ea9ae98dd73388c81e85
+size 179

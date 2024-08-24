@@ -1,1 +1,3 @@
-Imediata votação das propostas de extinção do fator previdenciário e de vinculação de reajustes do salário mínimo às aposentadorias e pensões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcf44918e0c176d5fbf55906bd1ab5c7295b00a1d146fcbb58492c4fb9730799
+size 153

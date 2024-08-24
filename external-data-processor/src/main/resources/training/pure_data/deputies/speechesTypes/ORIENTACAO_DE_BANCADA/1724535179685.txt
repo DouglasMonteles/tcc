@@ -1,1 +1,3 @@
-Posicionamento favorável do PR ao  Substitutivo do Senado ao Projeto de Lei 6.350 de 2002 (Dispõe sobre a guarda compartilhada).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6a6beda85988767ff1330cef881f3ec215ac1123d5147564b2555553e41ca6f
+size 130

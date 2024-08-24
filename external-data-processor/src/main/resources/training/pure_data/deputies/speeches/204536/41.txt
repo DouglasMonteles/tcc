@@ -1,1 +1,3 @@
-Contestação de justificativas de Parlamentar favorável ao aumento dos recursos destinados ao Fundo Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bcd4ccb1fb68b8964da1835359d36773b2adfa82ba4f3f23f11d829b7c09605
+size 112

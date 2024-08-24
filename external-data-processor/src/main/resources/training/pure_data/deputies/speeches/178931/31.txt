@@ -1,1 +1,3 @@
-Dados de pesquisa sobre o sistema pública de saúde no Brasil. Necessidade de melhoria na gestão dos recursos públicos destinados à área e de aumento dos valores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdf472227dabb95b1e5311b8b44f58908ab0d4c84d463827c6480ad8d74190ca
+size 167

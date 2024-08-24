@@ -1,1 +1,3 @@
-A Deputada manifestou regozijo com a realização pela Casa de sessão solene em homenagem aos 70 anos da Rede Record, considerada a emissora mais antiga do Brasil. Afirmou que a Record tem como objetivo original entreter e prestar serviços noticiosos à sociedade, a exemplo da TV Atalaia, a afiliada do Estado de Sergipe. Informou que o Sistema Atalaia de Comunicação pertence ao grupo empresarial do ex-Deputado Walter Franco. Em seguida, agradeceu ao site Congresso em Foco pela premiação como uma das dez melhores parlamentares do País A oradora afirmou que seu mandato procura mostrar que a mulher tem capacidade e deve ocupar espaços de poder, servindo como incentivo para que outras brasileiras ingressem na política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed0975ddf3e24393965f1b1d4fe43921847b35623076c480a81ed320e78df16e
+size 733

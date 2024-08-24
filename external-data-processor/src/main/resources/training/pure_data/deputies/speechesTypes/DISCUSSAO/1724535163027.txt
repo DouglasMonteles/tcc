@@ -1,1 +1,3 @@
-Discussão sobra a reforma política em reunião de Comissão Geral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:402b76833afa368966c816f8c30f9dfd6833671911c35f04f096bc798b1a6acb
+size 68

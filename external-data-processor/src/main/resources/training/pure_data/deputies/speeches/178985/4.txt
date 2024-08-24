@@ -1,1 +1,3 @@
-Necessidade de adoção de medidas para sanar a crise financeira das Santas Casas de Misericórdia. Solicitação ao Ministério da Educação de ampliação do número de contratos do Fundo de Financiamento Estudantil - FIES. Regozijo com o lançamento do Programa de Investimentos em Logística.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d2dbf3955be259fcc64ba5db347f2d70c59ce21d7971b54da9a246e281a4191
+size 297

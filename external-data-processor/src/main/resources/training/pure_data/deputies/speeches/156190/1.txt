@@ -1,1 +1,3 @@
-Escolha do orador para o cargo de Líder do NOVO na Casa. Saudações aos membros da agremiação partidária. Agradecimento aos eleitores do Estado do Rio Grande do Sul pela eleição do orador.  Apresentação de projeto de lei sobre a extinção do Fundo Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3e752ba0b6ef211f7a01be2792272fc909cc5fd4dee920f4cf371ed3363b0db
+size 268

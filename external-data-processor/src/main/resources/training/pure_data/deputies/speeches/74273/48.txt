@@ -1,1 +1,3 @@
-Urgente necessidade de concessão, pelo Governo Federal, de suplementação orçamentária aos Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ecbca40cb67d48d5e266d6dda2cd63cb4f02c10859bd0fe6c1b406ebf0ae6ab
+size 119

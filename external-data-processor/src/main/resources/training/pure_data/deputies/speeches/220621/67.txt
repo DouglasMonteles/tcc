@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de lei nº 3.780, de 2023, que altera o Decreto-Lei nº 2.848, de 07 de dezembro de 1940 – Código Penal, para aumentar as penas cominadas aos crimes de furto e roubo.. Ademais, distinguiu pobreza e desonestidade, criticando o discurso da esquerda política. Além disso, repudiou o posicionamento da esquerda ao ser contrária à anistia para os manifestantes dos atos antidemocráticos e, ao mesmo tempo, favorável a penas mais leves para criminosos que cometem roubo. Por fim, criticou a impunidade e defendeu o endurecimento das penas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3db7f0a8bb8343b9fcf7ca7c49af30109958514ccd087df68ed95803cd6cc240
+size 572

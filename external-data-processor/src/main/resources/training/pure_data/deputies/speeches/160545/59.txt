@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM ao Requerimento de quebra de interstício para verificação da votação da expressão não inferior ao prazo consignado no respectivo contrato, constante do art. 56 do  Projeto de Lei de Conversão 9 de 2013 da   Medida Provisória 595 de 2012 (Dispõe sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários, e dá outras providências),   que trata da renovação dos contratos de arrendamento celebrados anteriormente à Lei 8.630 de 1993, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1088e017ed61bee8d1bd6cae14d6b13220d11bb70c403ad595ffef5dbe2af82
+size 592

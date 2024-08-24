@@ -1,1 +1,3 @@
-Encaminhamento da votação do parecer pela admissibilidade da Medida Provisória 510 de 2010 (Regula o cumprimento de obrigações tributárias por consórcios que realizem negócios jurídicos em nome próprio; dá nova redação ao art. 31 da Medida Provisória no 497  de 2010;  acresce dispositivos à Lei no 10.168  de 2000, que institui contribuição de intervenção de domínio econômico destinada a financiar o Programa de Estímulo à Interação Universidade-Empresa para o Apoio à Inovação; e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb32410142cac1d906a3d948686d4d5e0ed6a2a9873204a6ea1bb1d69ec9fcee
+size 537

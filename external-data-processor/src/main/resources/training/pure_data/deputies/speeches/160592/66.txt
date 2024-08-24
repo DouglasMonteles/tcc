@@ -1,1 +1,3 @@
-Manifestação de opinião contrária do orador às propostas de manutenção do financiamento empresarial de campanhas eleitorais e de instituição do chamado distritão, ao ensejo da votação da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb6653e3f7e39bd7c4f8ac8a83855d4ba94878c73fc5eb6287c325cdc7bd4ea1
+size 217

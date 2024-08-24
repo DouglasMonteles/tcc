@@ -1,1 +1,3 @@
-Elogios ao Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF. Preocupação do orador com eventual aumento dos juros pagos por agricultores ao programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87fd80a115a8729e0d9311a2ac3e3bb9f650648329d5d805e45251934f41794d
+size 171

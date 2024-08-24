@@ -1,1 +1,3 @@
-Expectativa quanto à decisão do Tribunal Superior Eleitoral acerca da cassação do mandato do Governador do Estado da Paraíba, Cássio Cunha Lima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b82efcef5b403a868869b7d3282eca1b93d1feb2ac6d321056ad78fbd969029f
+size 150

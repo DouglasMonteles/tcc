@@ -1,1 +1,3 @@
-Apresentação pelo Relator Sergio Zveiter, na Comissão de Constituição e Justiça e de Cidadania, de parecer pelo prosseguimento de denúncia apresentada pelo Ministério Público contra o Presidente Michel Temer. Defesa de eleição do futuro Presidente da República por sufrágio direto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55d416fe7bee6a7fb80771b88341aa8f3fcb804a3904f7ae49c1c0d5da3c7c61
+size 294

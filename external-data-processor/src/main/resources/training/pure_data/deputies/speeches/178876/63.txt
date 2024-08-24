@@ -1,1 +1,3 @@
-Elogios à atuação dos Policiais Militares do Distrito Federal. Manifestação de apoio à preservação dos direitos das categorias. Anseio da população brasileira pelo impeachment da Presidenta da República, Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ad628b2d4b0aab9524939e2ecbd2be808c404847582709ae11ab57ddcd6490e
+size 230

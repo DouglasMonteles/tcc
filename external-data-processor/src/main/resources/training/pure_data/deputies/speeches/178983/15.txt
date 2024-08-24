@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Água. Deficiência do fornecimento de água à população brasileira. Anúncio do lançamento da Frente Parlamentar Mista dos Municípios Produtores de Água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfb199ebc4b7971e4286977033f43e8292c1f2246ade62b52ffd051fac89a7eb
+size 189

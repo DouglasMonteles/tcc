@@ -1,1 +1,3 @@
-Anúncio de realização na Câmara Municipal de Campinas, Estado de São Paulo, de encontro destinado à discussão da escolha de subsedes da Copa do Mundo de Futebol de 2014. Convite aos Parlamentares para participação no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f44ce58776c98070d0c79b0672a322d5ade7c4d2c99d2ae5a68df85414ceaf06
+size 233

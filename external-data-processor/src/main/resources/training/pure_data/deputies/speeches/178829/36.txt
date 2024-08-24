@@ -1,1 +1,3 @@
-Saudação a representantes de entidades promotoras de rodeios e de criadores de cavalos presentes na Casa.  Apoio à reivindicação das Associações de Pais e Amigos dos Excepcionais - APAEs de manutenção pelos Governos Federal, Estaduais e Municipais de convênios na área de saúde especializada em reabilitação. Congratulações ao trabalho realizado pelas APAEs em Municípios paulistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b382a4bc968a066f6cb7b6aebfb6480113d53ee4bc6ad2f894757102c8a2558
+size 399

@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Deputado Marcão Gomes. Honradez do Prefeito Clebel Cordeiro, do Município de Salgueiro, Estado de Pernambuco. Votos de feliz Natal aos Parlamentares e ao povo pernambucano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e3d4b23dedfb9c1885c9b20c0844c1226f7fd14da2de75d54b1a4521d1024a5
+size 207

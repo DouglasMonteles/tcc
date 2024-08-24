@@ -1,1 +1,3 @@
-Voto favorável ao requerimento de regime de urgência na apreciação do Projeto de Lei nº 5.587, de 2016, que trata do transporte individual remunerado e do transporte motorizado privado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da512a607ee035ef54fe2670779c9fcbff8418c8fa88ea5866b1d607191fb1d5
+size 190

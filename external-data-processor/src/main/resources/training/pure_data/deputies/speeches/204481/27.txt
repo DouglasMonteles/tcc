@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de apoio à Medida Provisória nº 881, de 2019, sobre a instituição da Declaração de Direitos de Liberdade Econômica, o estabelecimento de garantias de livre mercado e a análise de impacto regulatório.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e1c3ec5c02f020e1a24db56731132cf9fd7d1f9e415ebdbce2ccaa7c26a38f0
+size 234

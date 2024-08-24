@@ -1,1 +1,3 @@
-Protesto contra a obrigatoriedade do trabalho aos domingos, preconizada no texto da Medida Provisória nº 881, de 2019, sobre a Declaração de Direitos de Liberdade Econômica, o estabelecimento de garantias de livre mercado e a análise de impacto regulatório. Discriminação salarial do trabalhador negro no mercado de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aba3a21ca1fc738a12793988f567d4e6fe28ebedf6d7a92d725f8073757367fb
+size 334

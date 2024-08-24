@@ -1,1 +1,3 @@
-Aprovação, em primeiro turno,pela  Câmara dos Deputados da PEC 300 de 2008, relativa ao piso salarial de policiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff20f82a819137c15936ef903c66978f41e20340cf65b41defa48a6e76e7e2c9
+size 118

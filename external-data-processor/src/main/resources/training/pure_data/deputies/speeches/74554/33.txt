@@ -1,1 +1,3 @@
-Realização da Festa de São Pedro nos Municípios de Aracatu e Oliveira dos Brejinhos, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bbb59a23ec5e4e997bf3d2e2a202cfcc60009f914d97059780799282ae321df
+size 105

@@ -1,1 +1,3 @@
-Participação em procissão em homenagem à padroeira do Município de Aquidabã, Estado de Sergipe. Realização do I Encontro Estadual pelos Planos Municipais de Mata Atlântica em Aracaju. Artigo Agrotóxicos: quem deve decidir seu uso, de Leomar Daroncho, publicado na revista Carta Maior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc09920f3f787d5b25dd157e7460322ffbb3906a1506dc7a69ae46014774afc7
+size 294

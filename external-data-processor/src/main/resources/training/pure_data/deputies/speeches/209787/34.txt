@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à proposta governamental de reforma tributária. Gastos de dinheiro público pelo Presidente Luiz Inácio Lula da Silva e sua esposa em viagens luxuosas. Repúdio às acusações aos defensores do cristianismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:670aa52a5dbde6be8ffdd6750e435cad008fadaf1c8b398273a5843ca7167013
+size 247

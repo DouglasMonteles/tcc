@@ -1,1 +1,3 @@
-Saudações aos trabalhadores brasileiros, ao ex-Presidente Luiz Inácio Lula da Silva e à Presidenta Dilma Rousseff. Conquistas alcançadas pelos trabalhadores rurais e urbanos na gestão federal petista.  Defesa de extinção do fator previdenciário e da exploração da mão de obra infantil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8abe208305a065bb2f904da46c29ee4d7657fcdf5cf669109676b3a484ed29a
+size 297

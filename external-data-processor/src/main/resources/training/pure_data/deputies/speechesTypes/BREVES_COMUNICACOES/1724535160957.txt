@@ -1,1 +1,3 @@
-Considerações sobre o andamento da reforma política, no âmbito da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ee38045e3dd1daad4f6c2bef40b6270ec21ccaeacb8bfdce2bdb2a7a5881956
+size 75

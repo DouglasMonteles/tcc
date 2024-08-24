@@ -1,1 +1,3 @@
-Urgente necessidade de realização de reformas previdenciária, tributária e eleitoral, e de rediscussão do pacto federativo e da questão da segurança pública. Reafirmação de compromissos da companha eleitoral perante a população paranaense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f74700807a96e5ca87c58de2e48fc0f9c7d034718194f435d50f3f71599421b
+size 251

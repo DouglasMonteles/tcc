@@ -1,1 +1,3 @@
-Contentamento com a instalação de unidade do Hard Rock Hotel no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fcbbc5c5994826001c3731fe03309b1c88c0b6297af071e3db66b13760121ad
+size 84

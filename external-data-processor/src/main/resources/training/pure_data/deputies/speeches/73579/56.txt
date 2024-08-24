@@ -1,1 +1,3 @@
-Sessão solene do Congresso Nacional destinada a celebrar o Jubileu de Ouro da Arquidiocese de Brasília e o XVI Congresso Eucarístico Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:285b39bb511efae6c7b502b2fd417422a1878eed6373268481dbfae282c4493f
+size 145

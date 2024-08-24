@@ -1,1 +1,3 @@
-Encerramento da votação da PEC 55, de 2011 (Dá nova redação ao § 8º do art. 144, da Constituição Federal, para disciplinar a carreira dos agentes públicos responsáveis pelo policiamento de trânsito, em âmbito municipal), em apreciação em segundo turno. Agradecimento ao Presidente Henrique Eduardo Alves pelo apoio à tramitação e votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e918a2f5209c81b86017b2775dd7f5688043e0e982b4bee7130777412caf077
+size 370

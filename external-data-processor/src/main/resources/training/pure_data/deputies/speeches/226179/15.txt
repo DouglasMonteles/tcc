@@ -1,1 +1,3 @@
-A Deputada denunciou a concessionária Energisa por falhas no serviço de energia em Mato Grosso.&nbsp;Pediu aos prejudicados que registrem reclamações no site do Governo Federal e na ANEEL.&nbsp;&nbsp;Afirmou que a raiz do problema é a falta de investimento, evidenciada por quedas frequentes, incêndios em transformadores e demora na religação. Comprometeu-se a propor medidas legislativas na Comissão de Defesa do Consumidor para responsabilizar a concessionária e melhorar a regulação do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dc9d6085607e322ed361d7d80e4a775cfc64c7c1301eccc4211a136403ee505
+size 508

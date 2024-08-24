@@ -1,1 +1,3 @@
-Conveniência de inserção no Código de Trânsito Brasileiro de dispositivos destinados à proibição do tráfego de caminhões de grande porte nas rodovias brasileiras da meia-noite às 4 horas da manhã e à redução de acidentes com motocicletas no País. Maior rigor nos exames psicotécnicos exigidos para a obtenção da Carteira Nacional de Habilitação. Combate ao uso de álcool na condução de veículos automotores. Criação da Frente Parlamentar da Primeira Infância. Convite aos Parlamentares para participação em reunião do órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e56867932ae35451fb24b0c34f7e6869df21eb5e0449daa4694ace2b03f710a
+size 557

@@ -1,1 +1,3 @@
-O Deputado registrou a presença de representantes da Inter TV Grande Minas. A emissora atualmente atende os Estados de Minas Gerais, Rio de Janeiro e Rio Grande do Norte e expandiu suas operações para Brasília, a fim de cobrir as atividades dos parlamentares dessas regiões, bem como as ações do Governo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:651920e94983e9883ea005c6ff55c57ae61f1960a664a9069b3273ce4d7b6243
+size 311

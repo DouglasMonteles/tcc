@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Substitutivo oferecido pelo Relator da Mesa Diretora ao Projeto de Resolução nº 331, de 2018, sobre a criação do Prêmio Nise da Silveira de Boas Práticas e Inclusão em Saúde Mental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0de5a846792a340a9acdc7dd0453a185098b8f1123dac6b8864e4b0ff5386cad
+size 230

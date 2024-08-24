@@ -1,1 +1,3 @@
-Falecimento do empresário Nereu Marin da cidade de Cascavel, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cc72c0ecf2b4c54d196490d478dc3842f1a39473443eb088fe924dd49c537a1
+size 80

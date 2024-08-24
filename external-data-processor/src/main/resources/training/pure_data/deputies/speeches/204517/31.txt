@@ -1,1 +1,3 @@
-Resultados positivos da economia brasileira, não obstante os desafios enfrentados pelo País nos últimos 4 anos. Improficuidade do acirramento da polaridade política na Casa. Defesa de instauração do diálogo entre o Governo e a Oposição com vista ao desenvolvimento do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92c970a7299ad881220b0267a533edea08043dad743900c18e911310950b23f1
+size 284

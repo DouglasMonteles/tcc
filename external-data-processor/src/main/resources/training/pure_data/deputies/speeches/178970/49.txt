@@ -1,1 +1,3 @@
-Congratulações a Prefeitos e Vereadores sergipanos participantes da XVIII Marcha a Brasília em Defesa dos Municípios. Matéria Governo federal e prefeitos se reúnem para debater políticas públicas, sobre a participação do Governo Federal na XVIII Marcha a Brasília em Defesa dos Municípios, publicada pelo Portal do Palácio do Planalto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28e53fc660d90903961cf43c29a1f44aa860a6d45fe2f0de6077f9d05612303d
+size 348

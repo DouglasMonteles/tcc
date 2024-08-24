@@ -1,1 +1,3 @@
-Apoio à redução da idade para aposentadoria de policiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bcfea9881eef92ef7ae6b0d045558542f2f9f316c8a3a0dbdad2099d65040a7
+size 60

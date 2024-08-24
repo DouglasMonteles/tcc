@@ -1,1 +1,3 @@
-Contestação ao discurso do Deputado Alexandre Padilha contra a aprovação do Projeto de Lei nº 1.674, de 2021, sobre a instituição do Certificado de Imunização e Segurança Sanitária - CSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fb809f5d3671119be27ed0e02edf9c2fc79247abd822a332190794301a3ed67
+size 198

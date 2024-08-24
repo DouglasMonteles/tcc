@@ -1,1 +1,3 @@
-Pedido à Presidência de adoção de providências a respeito do anúncio da existência de artefato supostamente explosivo nas dependências da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57020617fa1dcd8dde5ddc993b11a4e43ce6a29fedea938e5d31df708631f086
+size 151

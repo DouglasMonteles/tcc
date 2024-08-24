@@ -1,1 +1,3 @@
-Exploração de petróleo na camada pré-sal. Defesa da distribuição equânime de royalties de petróleo entre os Estados brasileiros. Resultado positivo da visita do Presidente Luiz Inácio Lula da Silva ao Município de Sobral, a Fortaleza e à sua região metropolitana, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c68034299cb07a1ac9e62e4d9b0418a3cdcec01ead3b9e44adf8e1817f09aaf
+size 293

@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei Complementar nº 101, de 2020, acerca da instituição do Programa de Acompanhamento e Transparência Fiscal; do Plano de Promoção do Equilíbrio Fiscal, e da alteração de diplomas legais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e76a904cbf35f9821f7ac24d9a4f469ea13f807635bc92528f4dc2070c8397c
+size 221

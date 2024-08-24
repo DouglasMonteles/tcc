@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM à admissibilidade da Medida Provisória 445 de 2008 (Dispõe sobre a dispensa de recolhimento de parte dos dividendos e juros sobre capital próprio pela Caixa Econômica Federal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fd967cb41502337bf405f9037ad73292b74439325ac397e86900e4ef7ea550e
+size 214

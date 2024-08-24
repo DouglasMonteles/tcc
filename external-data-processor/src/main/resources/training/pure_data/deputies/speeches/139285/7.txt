@@ -1,1 +1,3 @@
-Razões da apresentação, pela bancada feminina na Câmara dos Deputados e no Senado Federal, de moção de desagravo à Ministra-Chefe da Casa Civil da Presidência da República, Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9921c6ef110ac933ac570f269705c57bccc3d67490b622b1f393f0eebdaa3993
+size 197

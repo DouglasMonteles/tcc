@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PSB/PCdoB/PMN/PRB  ao Projeto de Decreto Legislativo 859 de 2009 (Aprova o texto do Acordo sobre Gratuidade de Vistos  para Estudantes e Docentes dos Estados Partes do MERCOSUL, assinado em Córdoba, em 20 de julho de 2006).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f4588855b83473467288a91357fd5a8b8a7e647123e72cddcae5fa70822e603
+size 259

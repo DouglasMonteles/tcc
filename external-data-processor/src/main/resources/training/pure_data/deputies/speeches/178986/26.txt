@@ -1,1 +1,3 @@
-Protagonismo do Brasil na 21ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudanças Climáticas - COP 21, em Paris, França. Defesa de continuidade do desenvolvimento sustentável em benefício da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ea6a1a289e5a4778d5560b07c8ba0c31c9f72d2298be791b702fb065f2092c6
+size 249

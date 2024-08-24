@@ -1,1 +1,3 @@
-Exigência ao Governador do Estado da Paraíba de cumprimento de promessas da campanha eleitoral com a área de segurança pública. Apoio aos profissionais do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8135784fd972e148a206727a1378295f8415d810de1e5a32926bfea6121c568
+size 166

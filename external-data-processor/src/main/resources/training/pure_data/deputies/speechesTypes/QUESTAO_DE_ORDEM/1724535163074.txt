@@ -1,1 +1,3 @@
-Questiona o despacho da Presidência ao Requerimento 4.551, de 2009, de retirada de tramitação da Proposta de Fiscalização e Controle 49, de 2008, de autoria do  Deputado José Mentor,requerida pelo autor da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6061780bbecf0f2c2828f7cd6623fe9c267096a219fde592dd1b0e5a4608af9
+size 225

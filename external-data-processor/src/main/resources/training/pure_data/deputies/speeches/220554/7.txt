@@ -1,1 +1,3 @@
-Transcurso do centenário de falecimento do escritor e jurista Rui Barbosa, o Águia de Haia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:376730c878c2ef0b454de74444724874de0bbcd21f3e4f7f158001f2ce464e12
+size 93

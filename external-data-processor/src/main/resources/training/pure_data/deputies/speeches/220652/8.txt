@@ -1,1 +1,3 @@
-Apelo ao Governador Tarcísio Gomes de Freitas por concessão de reajuste salarial aos policiais do Estado de São Paulo. Contrariedade à aprovação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).
+version https://git-lfs.github.com/spec/v1
+oid sha256:79d8cb0340c1614389d0cdebfe42a1844d1d7970b426160247214ef5632a8d96
+size 375

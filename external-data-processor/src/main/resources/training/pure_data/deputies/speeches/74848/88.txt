@@ -1,1 +1,3 @@
-Manifesto Em Defesa da Verdade, a respeito de matéria produzida mas não veiculada pelo programa Fantástico, da TV Globo, acerca do desvio de recursos pela Universidade Federal do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b704d42be301e6fa1e5b1ac1ffe4dd7ced75f67a91ba6aa20fa7e237e657569
+size 197

@@ -1,1 +1,3 @@
-Apelo ao Ministro da Saúde, Eduardo Pazuello, de imunização dos habitantes do arquipélago de Fernando de Noronha contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a897e6a4db02f31dfc4538668969cdb61ef1570c1f0c18aa064229ed3f1b3282
+size 135

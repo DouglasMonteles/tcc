@@ -1,1 +1,3 @@
-Indignação do povo do Estado da Bahia com manifestação xenofóbica de Vereador da Câmara Municipal de Caxias do Sul, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6767f4025bd8c8d9f4956fac336b8cfca4234434608d36c249a59c03bd6182f0
+size 150

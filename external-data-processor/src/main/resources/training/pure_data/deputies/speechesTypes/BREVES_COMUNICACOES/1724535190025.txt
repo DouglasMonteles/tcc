@@ -1,1 +1,3 @@
-Transcurso do 17º aniversário de promulgação da Lei Maria da Penha, coibitiva da violência doméstica contra a mulher. Persistência das agressões às mulheres no País. Reafirmação pela oradora do compromisso de atuação em defesa da classe feminina. Sanção presidencial do Projeto de Lei nº 1.604, de 2022, sobre a alteração da Lei nº 11.340, de 2006, (Lei Maria da Penha), com vista à implantação de medidas protetivas de urgência em prol da mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cc5b5342e3321952356a500d0efa42d4764f1115cbd87320dbeea9484b6d6da
+size 471

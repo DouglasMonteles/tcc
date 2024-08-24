@@ -1,1 +1,3 @@
-Expansão do comércio de computadores e telefones celulares no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f911b980c4cec70393918df744038f6286b173c83cb6ea32891da79ec03e5bb1
+size 70

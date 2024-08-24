@@ -1,1 +1,3 @@
-Presença do orador na festa junina Arraial da Gente, no Município de Sítio Novo, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3df662ccd62a8bd423ab734188061cafedee99c762ddfdeb18842b10df801edd
+size 104

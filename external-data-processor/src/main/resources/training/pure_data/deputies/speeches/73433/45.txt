@@ -1,1 +1,3 @@
-Aviso ao Plenário sobre a eleição dos Presidentes e Vice-Presidentes das Comissões Permanentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d70ab8c6556925517ab7ba00e6557d7ec86789728bee9e0472dfa704459257c7
+size 99

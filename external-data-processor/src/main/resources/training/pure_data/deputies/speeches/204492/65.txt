@@ -1,1 +1,3 @@
-Realização de manifestações no País contra a Proposta de Emenda à Constituição nº 32, de 2020, sobre a reforma administrativa. Escalada da fome e do desemprego no Brasil. Tentativa do Governo Jair Bolsonaro de desestruturação do serviço público brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:867d22df6be0027cd81435cc3cd5e6cc801446f54b42e7d418bfa69c0d2c654d
+size 269

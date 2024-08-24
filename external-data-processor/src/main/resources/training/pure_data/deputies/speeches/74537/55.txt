@@ -1,1 +1,3 @@
-Proposta de procedimento para apreciação da Medida Provisória 434 de 2008 (Dispõe sobre a estruturação do Plano de Carreiras e Cargos da Agência Brasileira de Inteligência - ABIN, cria as  Carreiras de Oficial de Inteligência, Oficial Técnico de Inteligência, Agente de Inteligência e Agente Técnico de Inteligência, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:94636a864cf2db64d2f83b96bca419285c8405ce95946d1a3bdcabe9158dd5e0
+size 359

@@ -1,1 +1,3 @@
-Responsabilidade da empresa Vale pelos crimes socioambientais decorrentes do rompimento de barragem no Município de Brumadinho, Estado de Minas Gerais. Solicitação à Presidência e aos Deputados de criação de CPMI para apuração das causas da tragédia. Conveniência de destituição da Diretoria da empresa Vale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0927225c40a42c646044b3ecad5a4ec9413bdd986015d369ddd160ca8fcf4144
+size 321

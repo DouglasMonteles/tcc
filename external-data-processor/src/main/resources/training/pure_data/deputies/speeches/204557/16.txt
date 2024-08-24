@@ -1,1 +1,3 @@
-Protesto contra a não concessão de aumento real ao salário mínimo pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:969f898151b4ac4090fbff7732f27c56ebd76ba03f1c1b5e7293be46039be9c4
+size 91

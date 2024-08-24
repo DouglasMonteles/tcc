@@ -1,1 +1,3 @@
-Conquistas da bancada federal do Estado do Espírito Santo. Protesto contra não inclusão do Estado na  Portaria nº 183, de 2018, da Secretaria de Defesa Agropecuária do Ministério da Agricultura, Pecuária e Abastecimento, sobre a definição dos locais aptos para a reinspeção de produtos de origem animal comestíveis no âmbito do trânsito internacional de produtos de interesse agropecuário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95b9e26340521f08227c6e4614e09d47d4f21161011a3a7d258a5794de61f2fa
+size 404

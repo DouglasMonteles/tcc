@@ -1,1 +1,3 @@
-O Deputado celebrou o Dia da Reforma Protestante, relembrando a coragem de Martinho Lutero ao afixar as 95 teses há 506 anos. Destacou a influência da Reforma na liberdade cristã e ressaltou que seus efeitos transcenderam o âmbito religioso, impactando a liberdade econômica, política, a democracia, a educação e a liberdade de expressão. Expressou gratidão pelos frutos positivos da Reforma Protestante no mundo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18dbd9e70e82d6c992d97eea37817455cc05799b70a17d276cc608c146ee4e0c
+size 423

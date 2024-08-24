@@ -1,1 +1,3 @@
-Transcurso do Dia da Educação. Classificação do Brasil em 84º lugar no Índice de Desenvolvimento Educacional - IDE, segundo o relatório Monitoramento de Educação para Todos 2010 lançado pela Organização das Nações Unidas para a Educação, a Ciência e  a Cultura -  UNESCO. Evolução da educação brasileira, conforme o Índice de Desenvolvimento da Educação Básica - IDEB, do Ministério da Educação. Necessidade de realização de investimentos maciços na educação brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7139e47194c4b79d16a8238d0fc630b244c98ec8681375024ecfcb10c7b133ec
+size 503

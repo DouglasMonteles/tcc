@@ -1,1 +1,3 @@
-O Deputado registrou a presença, na Casa, de pastores do Município de Bom Jesus de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2c08a7f26271b5c1d560688fc34a34a2c7e02cfd360729d34cab19a0efa3a6e
+size 92

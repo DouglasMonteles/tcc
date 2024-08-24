@@ -1,1 +1,3 @@
-Imediata implementação da Lei nº 13.935, de 2019, sobre a prestação de serviços sociais e de psicologia nas redes públicas de educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e36b805cc965af75b150a6c23150a794e59c13ff07fe21f61475a1495ed8bfbc
+size 152

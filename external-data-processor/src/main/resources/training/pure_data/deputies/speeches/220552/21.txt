@@ -1,1 +1,3 @@
-O Deputado testemunhou a devastação das enchentes no Vale do Taquari, no Rio Grande do Sul. Agradeceu às doações e destacou a responsabilidade do Parlamento em fazer avançar políticas públicas de prevenção e enfrentamento de desastres. Anunciou o apoio para se votar em regime de urgência projeto de lei que aprimora os instrumentos de prevenção a desastres e de recuperação de áreas atingidas. Agradeceu a solidariedade diante da triste situação e enfatizou a importância de aprender com os erros para evitar futuras tragédias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e314c3d5b5ec5c7cd2f4ec566fc984553e7e5147dce8dd3531377cba95aae3f7
+size 548

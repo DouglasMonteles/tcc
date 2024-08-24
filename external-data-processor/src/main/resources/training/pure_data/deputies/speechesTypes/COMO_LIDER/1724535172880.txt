@@ -1,1 +1,3 @@
-Alerta aos Líderes partidários e aos demais Deputados sobre a importância de aprovação do requerimento de destaque para supressão do art. 6º do Projeto de Lei de Conversão nº 8, de 2021, da Medida Provisória nº 1.018, de 2020, sobre a alteração dos valores das tabelas da Taxa de Fiscalização de Instalação (Fiscalização das Telecomunicações); da Contribuição para o Fomento da Radiodifusão Pública e da Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ecc740f04c36ecdfabf8a6141bfc61da3960f585c4bbe742f4c2999c42cb242
+size 507

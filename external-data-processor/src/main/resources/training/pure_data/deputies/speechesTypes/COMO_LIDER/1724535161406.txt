@@ -1,1 +1,3 @@
-Prejuízos causados ao Brasil e a outros países da América Latina pelos Governos de Esquerda. Empenho do Governo Jair Bolsonaro no resgate da indenpendência das instituições democráticas e na recuperação dos valores cristãos da sociedade brasileira. Apoio ao projeto apresentado pelo Ministro da Justiça e Segurança Pública, Sérgio Moro, para combate à corrupção e à criminalidade. Necessidade de revisão da Lei de Imigração, da Lei de Execução Penal e de realização da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5c94eb57dd33b4491342599ce7ad0c85e714b6f96127298adce30e8ce320473
+size 518

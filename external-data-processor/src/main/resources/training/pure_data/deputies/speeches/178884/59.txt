@@ -1,1 +1,3 @@
-Presença, na Casa, do Prefeito Gilmar de Almeida Boeira, de Monte Alegre dos Campos, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9879d68d52bde2c171eda24b2952b53c3661f4ac6959aaa3a886ddd314fd909d
+size 117

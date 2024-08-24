@@ -1,1 +1,3 @@
-Presença, na Casa, do empresário Miguel Perini e de sua esposa Cristina, do Estado de Santa Catarina, para apresentação de sugestões relativas à reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a497912ed05e99881e8302a5550c0addeda211b65d671b4b8648d3cc11b666a8
+size 175

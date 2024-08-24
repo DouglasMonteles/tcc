@@ -1,1 +1,3 @@
-Aprovação pelo Senado Federal de projeto de resolução sobre autorização ao Governo do Estado do Ceará para contratação de empréstimo com o Banco Interamericano de Desenvolvimento - BID para fortalecimento do Programa de Expansão e Melhoria da Assistência Especializada à Saúde do Ceará - PROEXAMES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d4366158d131d0e800ebfa0bffc5068862b6448da12632830c8486029dc251a
+size 313

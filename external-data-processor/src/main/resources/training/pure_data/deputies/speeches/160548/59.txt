@@ -1,1 +1,3 @@
-Falecimento do Arcebispo da Arquidiocese de Campinas, Estado de São Paulo, D. Bruno Gamberini.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d27ac4992fe02118f8b8bf22d622c8dfa65ce2f15cc852b6e2d743397814207
+size 95

@@ -1,1 +1,3 @@
-Ameaças do Presidente da República à democracia brasileira. Repressão e perseguições no campo político ocorridas durante a ditadura militar. Efeitos tenebrosos do Ato Institucional nº 5, o AI-5, instrumento de repressão adotado pelo regime de exceção. Importância de rejeição pelas urnas dos defensores do golpe militar de 1964, ao ensejo da celebração do bicentenário da Independência do Brasil e do centenário da Semana de Arte Moderna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8ac37942bd91422e1cc0c5942803dad96ca3e146c6ae77885bc0aeb26a98e9d
+size 457

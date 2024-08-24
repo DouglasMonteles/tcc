@@ -1,1 +1,3 @@
-Nota publicada pelo jornal O Globo a respeito do pedido de alteração do horário de trabalho, por parte de carteiros no Estado do Piauí. Posse do Prof. Luiz dos Santos Júnior no cargo de Reitor da Universidade Federal do Piauí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f3748ef08e9b9163bbe80f2b845d6099cc0e493f56176bc1cb84cef2f2cfd66
+size 232

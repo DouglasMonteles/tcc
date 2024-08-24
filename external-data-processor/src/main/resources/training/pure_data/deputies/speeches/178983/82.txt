@@ -1,1 +1,3 @@
-Regozijo com iniciativa do Vereador Protássio Ribeiro Nogueira, da Câmara Municipal de Mogi das Cruzes, Estado de São Paulo, de apresentação de requerimento de congratulação ao orador pela destinação de recursos orçamentários para a Santa Casa de Misericórdia e à Associação de Pais e Amigos dos Excepcionais - APAE do Município.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a994def36904211f65bd0f9cb0d67259a085b820cbae459449b657f9b9fbd8d8
+size 345

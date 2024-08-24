@@ -1,1 +1,3 @@
-Afronta à democracia pelo Presidente Luiz Inácio Lula da Silva, demonstrada na participação em evento com ditadores latino-americanos. Posicionamento do Presidente da República contrário ao patriotismo, à tradicional família cristã e aos bons costumes. Contrariedade à aprovação da proposta governamental de reforma tributária. Repúdio ao governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a5d79aa454e3e4e679a96ccfa439bf8c345953c8e5cbf139ed53691c1968b2d
+size 369

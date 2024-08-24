@@ -1,1 +1,3 @@
-Transtornos causados pela prisão do ex-Presidente Luiz Inácio Lula da Silva às famílias residentes no entorno da sede da Polícia Federal em Curitiba, Estado do Paraná. Repúdio aos pronunciamentos em defesa da soltura do Líder petista e da criminalização dos responsáveis pela sua condenação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d70411cc31c17a0ff81dd328821688a203b413f3b1f2aa9f9aeb649360b4fac
+size 304

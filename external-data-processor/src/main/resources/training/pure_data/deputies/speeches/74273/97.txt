@@ -1,1 +1,3 @@
-Comemoração do 46º aniversário de fundação do Município de Votorantim, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:839e470f5728b8d0c0d023942cc296a9d531b60b51ed1094bd75afe4827bbad6
+size 99

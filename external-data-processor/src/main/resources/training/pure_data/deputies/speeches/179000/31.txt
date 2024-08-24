@@ -1,1 +1,3 @@
-Repúdio aos atos criminosos praticados contra as sedes dos Poderes da República. Pedido ao Presidente Arthur Lira de criação de Comissão Externa para acompanhamento das investigações e da prisão de participantes em manifestação ocorrida na Capital Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b994835ae3963c0f82f0f4eacaa03df79e914f024747488026d9599c490f8110
+size 266

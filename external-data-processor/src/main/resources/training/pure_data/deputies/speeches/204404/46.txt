@@ -1,1 +1,3 @@
-Facilitação do acesso de vândalos às instalações do Palácio do Planalto, pelo Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, general Marco Edson Gonçalves Dias. Defesa de instalação da CPMI destinada à investigação dos atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85a18e12c59d4e049a9db5652a4da4bae7cddda443389e0ddd8b8c96e6a988f6
+size 343

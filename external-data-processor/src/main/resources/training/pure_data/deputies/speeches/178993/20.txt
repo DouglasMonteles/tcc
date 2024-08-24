@@ -1,1 +1,3 @@
-Posicionamento favorável ao Projeto de Lei nº 4.330, de 2004, que dispõe sobre o contrato de prestação de serviço a terceiros e as relações de trabalho dele decorrentes. Transcurso do Dia do Jornalista. Defesa da aprovação de proposta de emenda à Constituição relativa à obrigatoriedade do diploma de curso superior de jornalista para o exercício da profissão. Congratulações aos profissionais de imprensa do Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72805adeb509634a16c57305b2ed6915c69dadafbd0afa80a0bc36a04126c885
+size 447

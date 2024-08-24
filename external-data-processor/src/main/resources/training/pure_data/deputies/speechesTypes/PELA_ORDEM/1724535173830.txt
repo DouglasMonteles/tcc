@@ -1,1 +1,3 @@
-Omissão de órgãos governamentais quanto à prática de pesca predatória no litoral do Estado do Ceará. Realização pela Casa de sessão solene no ensejo do transcurso do Dia do Pescador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e92ce81ce87e54f6a5dd96c9418aaa56789f8ffc151c3ec70b3bfa0ae56a490
+size 192

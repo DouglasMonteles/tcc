@@ -1,1 +1,3 @@
-Baixa qualidade dos serviços prestados à sociedade pela Companhia Energética de Minas Gerais - CEMIG. Ações adotadas pelo orador contra a empresa de telefonia TIM, em face da precariedade dos serviços prestados aos usuários em Minas Gerais. Apresentação de emendas ao Projeto de Lei de Diretrizes Orçamentárias - LDO, em benefício das Santas Casas de Misericórdia e das Associações de Pais e Amigos dos Excepcionais - APAEs. Transcurso do centenário de fundação do Município de Contagem, em Minas Gerais. Visita do orador ao Município mineiro de Guaxupé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9404f429701ee42a62eaebc724078809497ce70ebd34de2a3c1ffc10a8b0c1f
+size 575

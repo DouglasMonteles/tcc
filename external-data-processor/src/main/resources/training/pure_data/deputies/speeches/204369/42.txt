@@ -1,1 +1,3 @@
-Congratulações ao Poder Judiciário, autoridades e entidades do Estado de Santa Catarina pela condenação de pai por crime de abuso sexual contra o filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17849fcc32c8fc1028a3dbba23ebbbe080e2d1348d0541a4f29f1705c9e9e916
+size 157

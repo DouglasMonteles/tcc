@@ -1,1 +1,3 @@
-Convite ao Ministro da Fazenda, Guido Mantega, de comparecimento à Comissão de Fiscalização Financeira e Controle para esclarecimento de ingerência na gestão da empresa Vale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfe035d8650af16b9370f3cd53bbdd3778001854d7fda0ce2b0ba368d41e9268
+size 180

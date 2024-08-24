@@ -1,1 +1,3 @@
-Inserção de dados falsos na carteira de vacinação do ex-Presidente Jair Bolsonaro, por meio do aplicativo ConectSus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91da9b5cd81399b2ddc1b0e9116cd95800bd7bf3c6c1b4b208975265154c71e5
+size 120

@@ -1,1 +1,3 @@
-Fortalecimento da agropecuária brasileira. Presença, na Casa, do Prefeito e de Vereadores do Município de Rondinha, Estado do Rio Grande do Sul.  Alocação de recursos orçamentários para a pesquisa e extensão rural, defesa sanitária animal e vegetal e apoio à atividade leiteira. Prorrogação do prazo de vencimento de dívidas dos produtores rurais brasileiros. Aprovação, pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, de requerimento de audiência pública com o Ministro do Planejamento, Orçamento e Gestão, Paulo Bernardo Silva, para discussão sobre funcionamento do Sistema de Gestão de Convênios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b63650b7c32678d96a2734b2195d12025f2bcfe9e58cdaf249fd85e7f1f4b4a3
+size 654

@@ -1,1 +1,3 @@
-Encaminhamento da votação do parecer do Relator à Medida Provisória 443 de 2008 (Autoriza o Banco do Brasil S.A e a Caixa Econômica Federal a constituírem subsidiárias e a adquirirem participação em instituições financeiras sediadas no Brasil), na parte em que manifesta opinião pelo não-atendimento dos pressupostos constitucionais de relevância, urgência e de sua adequação financeira e orçamentária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d0881ef8c09863bf0fbcdc7b1b93c4e755791bc7a2d129eac62646e4a313c90
+size 421

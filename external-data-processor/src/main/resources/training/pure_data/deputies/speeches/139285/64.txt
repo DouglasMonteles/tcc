@@ -1,1 +1,3 @@
-Realização do 1º Encontro Estratégico da Comissão de Turismo e Desporto da Câmara dos Deputados e da Hotelaria Nacional, em Salvador, Estado da Bahia. Posse do Prof. Oswaldo Barreto no cargo de Secretário de Estado da Educação do da Bahia. Realização, pela Comissão de Educação e Cultura, de seminário sobre o escritor Euclides da Cunha, ao ensejo do transcurso do centenário do seu falecimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1df69033be73d919b03150eb3be1f8a1db5f09104e64214051512ce16ef6e07d
+size 411

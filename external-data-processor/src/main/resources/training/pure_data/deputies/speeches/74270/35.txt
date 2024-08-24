@@ -1,1 +1,3 @@
-Boas-vindas ao Deputado Frankenberg, de Roraima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53d9fb90bafafc26b4145cb79baa56b6a5dd197f62fa27a8cf02a212b3860e6b
+size 48

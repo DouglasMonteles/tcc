@@ -1,1 +1,3 @@
-Aplausos ao Presidente do Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN, Luiz Fernando de Almeida, pela inclusão de Aracati no Programa Monumenta, com vistas à recuperação e restauração do conjunto arquitetônico do município. Transcurso do 75º aniversário de criação da Ordem dos Advogados do Brasil - OAB, Seção Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25c31294e00dd336437868844af1e7c9e2f9f98f178235f5487677d26214bf56
+size 354

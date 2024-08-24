@@ -1,1 +1,3 @@
-Orientação de bancada na votação da ementa; dos arts. 1º, 2º, 3º, 4º, 5º, 6º e 7º; do caput  do art. 8º; dos incisos IV e V e do § 1º do art. 8º; e dos arts. 9º, 10 e 11, com parecer favorável, do substitutivo do Senado Federal ao Projeto de Lei nº 1.162, de 2007, acerca da prevenção de acidentes em piscinas, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7f01d6fee6c39661a5fc1f08f1bff685606dc8d1bbc7f9daa7770e039622639
+size 356

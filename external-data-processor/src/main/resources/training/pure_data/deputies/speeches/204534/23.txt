@@ -1,1 +1,3 @@
-Apelo aos Parlamentares, especialmente aos oposicionistas, de votação do Projeto de Lei nº 3.477, de 2020, acerca da garantia do acesso à Internet, com fins educacionais, aos alunos e professores da educação básica pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d754ce04f2b88a36ffaa6e4b0841aed7a7fb736b0ab57efc3f365208d87d4c6
+size 231

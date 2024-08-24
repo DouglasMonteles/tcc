@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda de Redação nº 1, apresentada ao Projeto de Lei Complementar nº 18, de 2022, sobre a alteração da Lei nº 5.172, de 1966, e da Lei Complementar nº 87, de 1996, com vista à inclusão de combustíveis, energia elétrica, comunicações e transporte coletivo no rol de bens e serviços essenciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05346c3dcc5d7c51085744605f8112f8409f375db5a1dd8e5fe2e6971d548270
+size 348

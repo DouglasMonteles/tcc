@@ -1,1 +1,3 @@
-Atuação do orador como Relator da Medida Provisória nº 413, de 2008, sobre medidas de incentivo tributário a setores da economia brasileira. Aprovação da matéria pelo Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc6f09f668eab587b7834c0c56f9a0a150afc374f3a6f565c40890ea9153be37
+size 190

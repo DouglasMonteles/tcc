@@ -1,1 +1,3 @@
-Necessidade de ações conjuntas da Prefeitura Municipal, do Ministério Público e do Poder Judiciário para o êxito da intervenção federal na área da segurança pública do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80c4b7e4d3fc1054213602508d6ba1f02b2e28e8c0aafbdc566896b4fcc329d6
+size 204

@@ -1,1 +1,3 @@
-Repúdio à pretensão do Governo Federal de desvinculação de recursos destinados à educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ee50d40dbeea52471db7e09d00a999e39737f167a05ff5014608fcae9492013
+size 98

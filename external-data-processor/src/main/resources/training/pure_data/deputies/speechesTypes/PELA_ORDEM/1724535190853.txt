@@ -1,1 +1,3 @@
-Apelo ao Ministro da Saúde de retomada do funcionamento da estrutura da saúde indígena no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ba7b0ced221b898b78437779dcbfec182dc72114714ec79a7b5d09b49c2b7ad
+size 99

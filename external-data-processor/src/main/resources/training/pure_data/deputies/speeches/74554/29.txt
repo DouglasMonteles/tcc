@@ -1,1 +1,3 @@
-Agenda do Presidente Luiz Inácio Lula da Silva por ocasião de sua visita ao Estado da Bahia. Relato da visita do orador a Municípios no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:207ac8259c8796e7af5c7053be03960eded16f22a1936f539e2b7508bd1c711f
+size 146

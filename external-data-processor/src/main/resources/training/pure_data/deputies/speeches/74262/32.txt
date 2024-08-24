@@ -1,1 +1,3 @@
-Esclarecimento ao Deputado Hugo Napoleão sobre o discurso proferido pelo orador a respeito da postura política do PSD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73c1c78cff4a26906964fe8bdc515f9e2b4f650e7d81b35d58368825df3ffb81
+size 120

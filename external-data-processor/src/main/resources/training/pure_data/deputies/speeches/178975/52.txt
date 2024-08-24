@@ -1,1 +1,3 @@
-Orientação da bancada do PMDB contrária ao requerimento de destaque de votação em separado do art. 1º do Projeto de Lei nº 6.568-A, de 2016, que altera a Lei nº 13.254, de 13 de janeiro de 2016, que dispõe sobre o Regime Especial de Regularização Cambial e Tributária (RERCT) de recursos, bens ou direitos de origem lícita, não declarados ou declarados incorretamente, remetidos, mantidos no exterior ou repatriados por residentes ou domiciliados no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c25ddf85ef9926af4f1d1c18d9bf15f6ed5c3d04aaf2273c3b58703d08b82955
+size 470

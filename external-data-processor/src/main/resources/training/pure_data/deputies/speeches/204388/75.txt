@@ -1,1 +1,3 @@
-Confiança do orador na aprovação da proposta de reforma previdenciária. Elogio ao desempenho do PSL em votação de matéria no plenário da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcfff30d1c7c01a6d6cd4da673eccaee727f9d0a7981e1a66e025a5a8d71f70c
+size 167

@@ -1,1 +1,3 @@
-Razões da convocação pela Casa dos Ministros da Justiça e Segurança Pública, Flávio Dino, e da Educação, Camilo Santana. Repercussão de declaração do Presidente Luiz Inácio Lula da Silva em dissonância com a liturgia do cargo. Revelação de plano para assassinato do Senador Sergio Moro. Criação de CPMI para investigação de atos de vandalismo praticados contra as sedes dos Poderes da República; e de CPI para investigação da invasão propriedades rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85dc7613afe4514bec3b8f6019724e7772bf73f1526f26477c633c67c4b0d5f2
+size 478

@@ -1,1 +1,3 @@
-Defesa de adiamento da votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2358e5cb6f7d0e76df9435424ae8b68610057481d591e00622bb4921b048f61e
+size 45

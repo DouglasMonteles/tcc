@@ -1,1 +1,3 @@
-Solicitação ao Governo do Estado da Paraíba de medidas de proteção à vida do jornalista Heleno Lima, da Rádio Sociedade de Soledade Ltda., diante de ameaças de morte. Pedido à Secretaria de Estado da Saúde de combate à hepatite A no Município de Lastro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cd5fa6f8e5ded443130a697a9e8b5ae39da0dac313b6e0995273312147f0323
+size 265

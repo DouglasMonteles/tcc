@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao 18º Aniversário de Fundação do Partido Humanista da Solidariedade - PHS.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9dc33e005afe269eb14173b618c9cb8bb549ad3f02bf85a36e93e877e273591
+size 256

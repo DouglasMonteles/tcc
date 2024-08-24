@@ -1,1 +1,3 @@
-Apelo aos Líderes oposicionistas de votação do Projeto de Lei nº 1.485, de 2020, acerca da alteração do Decreto-Lei nº 2.848, de 1940, com vista à duplicação das penas dos crimes praticados contra a administração pública em situações de calamidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21e23c31ccc45dbbfbd669a7ec5ea162d5e00995c49e3aa3a728f9ce3acd3d64
+size 263

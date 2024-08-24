@@ -1,1 +1,3 @@
-Requerimento do orador ao Ministro da Justiça, Alexandre Morais, de instalação de delegacia de Polícia Federal no Município de Sobral, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60e4e0f46cbb7782403c3d0f31d77cf00ad63b7ade6deefe63bb998ccacbf1c6
+size 157

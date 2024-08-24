@@ -1,1 +1,3 @@
-Congratulação ao Deputado Efraim Filho pela apresentação de projeto de lei em prol dos pequenos agricultores rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc3ee6e47d0e8fc99e83a3e826534a6bf37bf41d0078825922062959ab737450
+size 120

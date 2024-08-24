@@ -1,1 +1,3 @@
-Exigência de reparação pelas empresas de energia elétrica dos prejuízos impostos aos consumidores em face da cobrança decorrente de cálculo equivocado aplicado pela Agência Nacional de Energia Elétrica - ANEEL, conforme constatado pelo Tribunal de Contas da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9372ceffda8f2c791cfc3d691e4caf41562b1f5dfcee8192c60f723b8d3c4194
+size 274

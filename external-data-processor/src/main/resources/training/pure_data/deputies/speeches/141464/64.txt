@@ -1,1 +1,3 @@
-Promoção, pela Associação Brasileira de Enfermagem, da 70ª Semana Brasileira de Enfermagem no Município de Aracati. Transcurso do 52º e do 22º aniversários de emancipação político-administrativa, respectivamente, dos Municípios de Quixeré e Potiretama, no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf6e3774514eaad0d3d7ce24d3653faa098a30f75e1aa7f18af2ebd0f30b3ac4
+size 287

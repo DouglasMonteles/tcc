@@ -1,1 +1,3 @@
-Agradecimento aos familiares e ao eleitorado do Estado do Rio de Janeiro pela eleição do orador. Gratidão aos seguidores do ex-Vereador Gabriel Monteiro, filho do Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c2a66b3a0efcd21086e8f208f18971943ac9ad4b71804ecd370c633335efd40
+size 178

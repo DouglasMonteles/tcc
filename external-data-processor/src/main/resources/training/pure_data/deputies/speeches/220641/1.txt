@@ -1,1 +1,3 @@
-Defesa de aprovação, pelo Parlamento brasileiro, de amplo projeto de segurança nas escolas brasileiras. Apresentação, na Assembleia Legislativa do Estado de São Paulo, dos Projetos de Lei de nºs 328 e 812, de 2019, respectivamente, sobre a presença obrigatória de policial militar nas escolas e sobre a criação de serviço de apoio psicológico à criança e ao adolescente em situação de vulnerabilidade. Apresentação, na Câmara dos Deputados, do Projeto de Lei nº 1.522, de 2023, a respeito da criação do serviço de apoio psicológico ao aluno em situação de vulnerabilidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98feb2f565f2dee04b0020d566c9da2247c578b6370a041ae05030b3e072b702
+size 599

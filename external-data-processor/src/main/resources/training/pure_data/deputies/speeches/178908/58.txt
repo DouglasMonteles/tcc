@@ -1,1 +1,3 @@
-Manifestação de boas-vindas a estudantes presentes nas galerias do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a17e4f8c4c61f44663cbeee5454f6fdc21703d580f75696c23adbbff1f5dcb29
+size 79

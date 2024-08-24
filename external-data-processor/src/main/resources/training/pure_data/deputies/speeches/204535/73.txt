@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da alínea d, do inciso IV, do art. 21 da Lei nº 8.213 de 1991, alterado pelo art. 35 da Emenda Aglutinativa Substitutiva Global nº 1, oferecida à Medida Provisória nº 905, de 2019, sobre a instituição do Contrato de Trabalho Verde e Amarelo e a alteração da legislação trabalhista brasileira, para fins de supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c708517b38950826be5985ae2b6fe4a568ba549608f992bde7e993def8130e5c
+size 412

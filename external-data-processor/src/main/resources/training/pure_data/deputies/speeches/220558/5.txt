@@ -1,1 +1,3 @@
-Contestação a discurso do Deputado Helder Salomão sobre ações positivas do Governo Luiz Inácio Lula da Silva. Honestidade do ex-Presidente Jair Bolsonaro. Denúncias corrupção contra o Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b62f3e986e8420041665e18c50ed93fd02d1fb583e68cdb64bdfb0b71ce8892f
+size 231

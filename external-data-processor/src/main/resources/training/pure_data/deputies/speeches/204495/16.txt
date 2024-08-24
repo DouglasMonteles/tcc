@@ -1,1 +1,3 @@
-Inauguração de sistema de energia solar na Universidade Federal do Sul e Sudeste do Pará - UNIFESSPA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b06dc2a9fd1491534a0e689bcce0ae1fd4582ac0374d0f66a726bad7d93d338
+size 104

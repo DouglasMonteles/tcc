@@ -1,1 +1,3 @@
-Homenagem à memória do genitor da oradora, ex-Deputado e ex-Senador Nelson Carneiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a45604528f8aec44775ab0aa46cb1bbc79db8b5365530d10562e0e94b6e914c
+size 86

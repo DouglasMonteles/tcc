@@ -1,1 +1,3 @@
-Perseguição empreendida contra o orador em face do seu posicionamento a respeito do homossexualismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e924b805fa5e1aecfbd1e0cdfb5f6b34769d57ffb381cc8b6963ab075aea28bc
+size 102

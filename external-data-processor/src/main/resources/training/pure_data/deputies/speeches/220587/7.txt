@@ -1,1 +1,3 @@
-Necessidade de liberação, pelo Governo Federal, de maiores recursos ao Estado do Acre para enfrentamento das enchentes. Indignação com as críticas ao agronegócio brasileiro, por parte do Presidente da Agência Brasileira de Promoção de Exportações e Investimentos - ApexBrasil, Jorge Viana. Gestão desastrosa do então Governador do Estado do Acre, Jorge Viana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e58cf354d6977dcd82fc16eb67f9a35b4afc6a4ae9516fed513cab46b99b729
+size 372

@@ -1,1 +1,3 @@
-Presença do Ministro do Esporte, Orlando Silva Júnior, na Comissão de Turismo e Desporto para debate de questões de relevante interesse da sociedade brasileira. Aumento dos recursos orçamentários destinados à Pasta. Democratização do acesso de populações carentes às atividades esportivas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:376ab44b7ef29d44b8e6e843a9dfee509f0da767dcdb5cbb9ac29e0e8b015061
+size 301

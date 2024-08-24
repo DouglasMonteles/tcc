@@ -1,1 +1,3 @@
-Dificuldade financeira dos Municípios. Reivindicação dos prefeitos municipais de derrubada do veto presidencial aposto à proposta de distribuição dos royalties do petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18c4c89cccd010942ba7356095e33d82589709d65dc2af3fe19b1fcc7eb80706
+size 179

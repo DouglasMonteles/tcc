@@ -1,1 +1,3 @@
-Realizações do Prefeito Manoel Pedro Rodrigues Soares, conhecido por Pedro da Campineira, do Município de Itamaraju, Estado da Bahia. Instalação de indústria de confecções na municipalidade. Apoio à reeleição do gestor municipal de Itamaraju.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e57c1b0819966a86a75901aaa290d9d1c8474c89694049cc10d655d340dd5a59
+size 253

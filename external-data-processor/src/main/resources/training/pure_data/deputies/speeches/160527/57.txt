@@ -1,1 +1,3 @@
-Compromisso do PP com o apoio a medidas destinadas à melhoria dos serviços públicos prestados à população brasileira. Resultados positivos da gestão de Ricardo Barros no Ministério da Saúde. Confiança no sucesso do Governo Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cc75c08d2480a8e2cced0bfd57bf2e035875399c1ddfdda48b2201ab4350a11
+size 246

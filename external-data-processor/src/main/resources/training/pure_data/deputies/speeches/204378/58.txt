@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque de preferência para votação do Requerimento de Destaque nº 7, sobre pedido de votação em separado do §3º do art. 68 da Lei nº 12.5651, de 2012, contido no art. 1º do Projeto de Lei de Conversão nº 9, oferecido à Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental. Saudação aos integrantes do Corpo de Bombeiros Militar do Distrito Federal presentes na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5808a251b2d56d642f1ac3ae24fceb20f8c6233eb86a82b0aed4bebea8e92373
+size 504

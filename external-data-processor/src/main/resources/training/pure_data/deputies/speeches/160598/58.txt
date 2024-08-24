@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional do Jovem Trabalhador. Necessidade de políticas públicas voltadas à preparação do jovem para o mercado de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7928bdc9a35c4a99fe7728ab3c65ecd860e332910c11ddddc1305136724004ac
+size 151

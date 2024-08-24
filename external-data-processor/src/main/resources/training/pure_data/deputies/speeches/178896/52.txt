@@ -1,1 +1,3 @@
-Relato sobre viagem do orador em missão oficial a Portugal, para visita a produtores de celulose e empresários da indústria florestal, com vistas à conquista de investimentos no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d42110ee920176ffd483228d24810e8f27163d2d72f73e60f48673fb8248607
+size 189

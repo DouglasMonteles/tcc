@@ -1,1 +1,3 @@
-Transcurso do 64º aniversário de fundação da Rádio Clube de Lages 690 AM, instalada no Município de Lages, Estado de Santa Catarina. Anúncio da realização de audiência pública conjunta entre a Comissão Especial destinada à elaboração de políticas públicas de combate às drogas e comissão da Assembleia Legislativa do Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2114c5e01a159e63fc89a23f23c29601f13f962a84884577b5851e5781fdbdca
+size 361

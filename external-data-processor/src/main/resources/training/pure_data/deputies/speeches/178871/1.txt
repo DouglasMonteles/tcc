@@ -1,1 +1,3 @@
-Convite para participação na Festa do Imigrante Italiano do Município de Santa Teresa, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2721144c46eff0022373b92397175c1c22c2a0078e3d44f93d2d08c6ddab052c
+size 116

@@ -1,1 +1,3 @@
-Apoio à mobilização dos professores do Estado de Minas Gerais pela implementação do piso salarial nacional. Atuação do Deputado Estadual Elismar Prado em defesa de servidores públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39ec6a995268c24746bd47f5729c232d22eeeded144f2cc5648260b010daba25
+size 192

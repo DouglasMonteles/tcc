@@ -1,1 +1,3 @@
-Êxito da legislação sobre controle de despesas públicas na Finlândia, França, Holanda, Austrália e Peru. Esclarecimentos sobre a Proposta de Emenda à Constituição nº 241, de 2016, acerca da instituição do Novo Regime Fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2897fab7c2bf7d37399c91d4c5ac8d5d3b5661ab64140061630e32dc364b27e0
+size 237

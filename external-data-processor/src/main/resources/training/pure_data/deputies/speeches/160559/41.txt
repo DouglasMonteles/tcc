@@ -1,1 +1,3 @@
-Votos de feliz Natal. Solicitação à Presidência de inclusão na pauta de votações de projeto sobre a aplicação dos recursos do Fundo de Universalização dos Serviços de Telecomunicações - FUST. Protesto contra a importação de leite em pó pelo Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb205619b605a1b79712cf1e7bf0592b770942a5b155ad2e4e9af33be175de8e
+size 265

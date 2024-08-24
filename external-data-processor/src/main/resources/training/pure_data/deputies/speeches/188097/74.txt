@@ -1,1 +1,3 @@
-Transformação do Ministério da Educação em balcão de negócios. Denúncia de superfaturamento na compra de livros didáticos e ônibus escolares pela pasta educacional. Prática de corrupção na compra de vacinas pelo Ministério da Saúde e de viagra, (medicamento para disfunção erétil), pelas Forças Armadas brasileiras. Tentativa do Governo Jair Bolsonaro de esvaziamento da Lei de Acesso à Informação. Transformação, pelo governo petista, do combate à corrupção em política de Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08aa279498872973cacbef437dbb137305d45931b91795f54db8ff600de1b785
+size 509

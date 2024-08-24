@@ -1,1 +1,3 @@
-Apelo ao Governador do Estado da Paraíba, João Azevedo, de cumprimento da decisão judicial suspensiva da cobrança de contribuição previdenciária de policiais e bombeiros militares inativos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02c750ebd9b89a1c528b44bf9c764b3753d2be3fd417d62de8cd7aa8852cd2ae
+size 196

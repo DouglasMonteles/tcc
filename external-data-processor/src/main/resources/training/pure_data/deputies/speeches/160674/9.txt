@@ -1,1 +1,3 @@
-Anúncio de realização da 15ª Festa de São João, no Município de Patos, Estado da Paraíba. Desabamento de torre da Igreja de Nossa Senhora dos Remédios, no Município de Sousa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2ec33ae78dfff6d4ec99496de2e36ee94e61bdd2fd0bc111f3a1af10e898c4e
+size 184

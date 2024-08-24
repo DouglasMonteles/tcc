@@ -1,1 +1,3 @@
-Contrariedade à utilização do Exército brasileiro em operações de policiamento ostensivo em favelas do Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff0daf67ce24b02b3c9359fc7846617bbfb2f614a86936698ab73cb85ecb0c4c
+size 150

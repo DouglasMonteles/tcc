@@ -1,1 +1,3 @@
-Recomposição dos soldos da Polícia Militar pelo Governador do Estado do Ceará, Camilo Santana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bff4916f937fb2d7224e2e5bd7bf141f4537b5df7dba364a605d079fffd9a52d
+size 98

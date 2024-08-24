@@ -1,1 +1,3 @@
-Repúdio ao Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f35233debbd39e9a336d28fcd12dfc852af1986897aa2bde1ca93e7be572b030
+size 47

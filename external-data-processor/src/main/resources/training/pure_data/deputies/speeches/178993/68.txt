@@ -1,1 +1,3 @@
-Contrariedade à proposta de adoção de alíquota única nacional para o ICMS. Expectativa de aprovação pela Casa da Proposta de Emenda à Constituição nº  443, de 2009,  que fixa parâmetros para a remuneração de advogados públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eeca4136cdef9f5fe7d8aff2d5242ad4a091dbe2c56b1e34f5e791d25f2b69c
+size 242

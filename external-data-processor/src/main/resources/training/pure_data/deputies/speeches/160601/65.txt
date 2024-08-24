@@ -1,1 +1,3 @@
-Sessão solene em homenagem às Igrejas Presbiterianas do Brasil e aos 145 anos do Instituto Presbiteriano Mackenzie.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93f681e8f139431803d960afcdaf135d9fbdb50a3f1a1c88145c9184b517c7a4
+size 266

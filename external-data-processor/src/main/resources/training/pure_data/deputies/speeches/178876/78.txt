@@ -1,1 +1,3 @@
-Transcurso do 83º aniversário de Goiânia, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bec4eeb8ea6e7821a140812845c55f28f272bfa528a30d21164143213e729068
+size 62

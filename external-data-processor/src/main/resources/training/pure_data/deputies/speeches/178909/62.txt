@@ -1,1 +1,3 @@
-Solicitação ao Ministério das Cidades de revisão da decisão de tomada do imóvel de beneficiários inadimplentes do Programa Minha Casa, Minha Vida. Protesto contra anúncio da Caixa Econômica Federal de aumento da taxa de juros para financiamento da casa própria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25efa8bcc7eb99b3cc6301652a737c0b192616ce10b213a8f149441d64a85150
+size 271

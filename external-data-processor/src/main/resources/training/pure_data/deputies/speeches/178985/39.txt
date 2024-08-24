@@ -1,1 +1,3 @@
-Associação a pronunciamento do Deputado Rôney Nemer. Posse da nova Diretoria do Conselho Nacional do Brasil da Sociedade de São Vicente de Paulo. Empenho do orador e do Deputado Rôney Nemer na participação da Sociedade de São Vicente de Paulo no Conselho Nacional de Assistência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba2ef1f2f046c8df9d9ef2bcf1a70347901992cfc06bc4e1decb7b893b98dba8
+size 295

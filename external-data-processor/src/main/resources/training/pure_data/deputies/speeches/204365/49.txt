@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 44, oferecida ao Projeto de Lei nº 1.179, de 2020, sobre a instituição de normas de caráter transitório e emergencial para a regulação de relações jurídicas de direito privado, diante da pandemia de coronavírus, e a alteração da Lei nº 13.709, de 2018.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e50f2eab4236218c849ea17517aebc003edff61bf1afa4fc3002c7877370966
+size 385

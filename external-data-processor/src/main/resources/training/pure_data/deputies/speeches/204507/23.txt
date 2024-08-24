@@ -1,1 +1,3 @@
-Alerta aos Deputados sobre o novo método utilizado pela bandidagem para clonagem de telefones celulares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fdc5e6b33f5355f7b0b1bc347a4b2dd424b6b6f24d8834678b1f5d4aba80cc4
+size 105

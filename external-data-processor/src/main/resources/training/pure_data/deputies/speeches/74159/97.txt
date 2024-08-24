@@ -1,1 +1,3 @@
-Apreensão do orador com danos econômicos à população causados pela variação do nível da Usina Hidrelétrica de Furnas, no Estado de Minas Gerais, resultante da falta de planejamento do Operador Nacional do Sistema. Anúncio de apresentação de proposta de criação de comitê gestor dos reservatórios, destinada à busca de solução para a baixa dos reservatórios  do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48b069763e3d8a3bcb70399d475c23603d0b38d67019560111d2788398add454
+size 387

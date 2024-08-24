@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Redução da Mortalidade Materna. Redução do número de óbitos maternos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ef8204546ffd89a2a495ab998fc1c8721d63c635e8205ca708270a1ba0d42ae
+size 114

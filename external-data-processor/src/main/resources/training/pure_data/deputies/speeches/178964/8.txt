@@ -1,1 +1,3 @@
-Atuação da Federação dos Trabalhadores na Agricultura no Rio Grande do Sul - FETAG-RS em favor do setor leiteiro. Apoio a mobilização dos produtores de leite gaúchos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8345ca4b18b2f1417f2bb3187257c8b05183dfb56ae57fdfb7d9f4d715ac9a39
+size 173

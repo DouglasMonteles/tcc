@@ -1,1 +1,3 @@
-Solidariedade aos familiares das vítimas de enchentes ocorridas na Baixada Santista, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eef198ef7e5ad25f2520df3ff77dae9d7f8d92f8b8a663dc0317805c7e0d9ac7
+size 107

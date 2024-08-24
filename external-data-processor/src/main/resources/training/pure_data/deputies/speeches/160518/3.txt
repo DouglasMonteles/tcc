@@ -1,1 +1,3 @@
-Apelo aos Deputados de assinatura do requerimento de criação da CPI destinada à investigação de fraudes no chamado seguro DPVAT. Solicitação à Presidência de criação de Comissão Especial destinada ao exame da proposta de extinção da cobrança da assinatura básica da telefonia fixa. Realização, pelo orador, de gestões junto à Agência Nacional de Energia Elétrica - ANEEL contra a cobrança da tarifa amarela de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7da9bdce4ba3d7dac146b9cd6c98483f0597337bed50a50bec2f2f07c7fd7f7
+size 451

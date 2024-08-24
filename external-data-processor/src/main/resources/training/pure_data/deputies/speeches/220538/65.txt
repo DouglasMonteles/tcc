@@ -1,1 +1,3 @@
-Importância da eficiência na administração pública. Resultados positivos do Programa de Modernização da Gestão Pública, implantado pelo Governo do Estado de Pernambuco. Elogio ao Movimento Brasil Competitivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9a178ead377b764227aa85a67400f1cb445fd3734338ac1137cf376d944a2e5
+size 217

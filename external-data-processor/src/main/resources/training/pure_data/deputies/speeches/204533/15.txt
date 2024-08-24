@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 11, apresentada ao Projeto de Lei Complementar nº 39, de 2020, do Senado Federal, referente à instituição do Programa Federativo de Enfrentamento ao Coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6d9b59dc00d5469e81d7df67806535c8b7e32171d15df964f169593c68a1b36
+size 285

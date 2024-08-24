@@ -1,1 +1,3 @@
-Orientação de bancada para votação da Emenda Aglutinativa Substitutiva Global nº 6, oferecida à Medida Provisória nº 789, de 2017, sobre a Compensação Financeira pela Exploração de Recursos Minerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9570b5497a97513801b3ebf2f93b7da87933f28d7ffc7df1920d08f3e9e75ee
+size 211

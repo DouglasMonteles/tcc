@@ -1,1 +1,3 @@
-Transcurso do 22º aniversário de criação da Universidade de Santa Cruz do Sul, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fb2476bc929812f876a0564744a829d04e49a1815a1ce79c410b0db458120b0
+size 111

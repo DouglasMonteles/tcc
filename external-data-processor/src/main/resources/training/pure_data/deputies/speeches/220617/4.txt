@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados dos Vereadores Franciney Luiz de França e Antônio Pedro Zoreia, da Câmara Municipal de Itaperuna, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bbff25c2e620cc396232434c0474f7b318e390cc9974f73a7ce870b43a2a81d
+size 161

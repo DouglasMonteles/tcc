@@ -1,1 +1,3 @@
-Regozijo com a manutenção do Veto Parcial nº 52, de 2019, aposto ao Projeto de Lei do Congresso Nacional nº 51, de 2019, sobre a alteração da Lei nº 13.898, de 2019, a respeito das diretrizes para a elaboração e a execução da Lei Orçamentária de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d69a2e2473c4ce68b76d58ac5994fc3ce832dbf9cc65583d5f4a416ab5dfe88
+size 264

@@ -1,1 +1,3 @@
-Exoneração do Secretário de Estado da Educação do Rio de Janeiro, Nelson Maculan. Crise do setor educacional fluminense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13c98cdf533b61c624c1f18fbf7a8413d88cbdfad9f74267307a66a30fc7f0c8
+size 125

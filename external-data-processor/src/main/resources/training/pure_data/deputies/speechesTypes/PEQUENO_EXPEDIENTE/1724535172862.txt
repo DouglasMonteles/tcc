@@ -1,1 +1,3 @@
-Dificuldades de pequenos produtores do Estado da Paraíba para quitação de empréstimos junto ao Banco do Nordeste S/A. Apelo às autoridades governamentais de renegociação de dívidas dos agricultores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a27685d9e45236f523d2c5bd0ddc10678a0fbdda481367f991cc61d4bccdfc1c
+size 206

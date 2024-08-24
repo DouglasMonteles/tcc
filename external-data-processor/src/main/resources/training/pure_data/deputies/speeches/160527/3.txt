@@ -1,1 +1,3 @@
-Transcurso do 95º aniversário de instalação da primeira agência do Banco do Brasil no Estado da Paraíba. Participação da instituição bancária na vida econômica e social paraibana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20ed3e5937bd30fd5e3ea3da4c3dfdb5dd634b9969e0d856db047c6a04e23356
+size 191

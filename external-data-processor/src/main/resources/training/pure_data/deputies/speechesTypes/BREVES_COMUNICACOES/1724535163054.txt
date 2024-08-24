@@ -1,1 +1,3 @@
-Alcance social do Programa Bolsa Família. Prioridade do Governo Luiz Inácio Lula da Silva no combate à miséria e à fome. Confiança na exclusão do Brasil do Mapa da Fome.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1bd2f80397001e14a26521c95a6bec89e9107633e3cc2f0f88cf687f4be3dcd
+size 176

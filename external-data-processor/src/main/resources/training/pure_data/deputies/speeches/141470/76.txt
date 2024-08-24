@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre instituição do Fundo Especial para Ações Emergenciais de Defesa Civil — FUNDEC. Natureza e alcance da proposta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18731d6b8c221608db808ebb53fe619f1340368f40118aa171ca5d36c84d54f6
+size 156

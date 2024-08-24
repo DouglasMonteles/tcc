@@ -1,1 +1,3 @@
-Empenho do Governo Federal na preservação da Amazônia. Relevância do Plano de Ação para a Prevenção e Controle do Desmatamento na Amazônia Legal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dc3ebcc5212acea39ef5c47f98dbaeb2e6fab967d55d1e443cb7b14fee4e212
+size 154

@@ -1,1 +1,3 @@
-Apoio da Corrente Democrática do PMDB à decisão do Líder do partido, Deputado Henrique Eduardo Alves, de obstrução das votações até a deliberação da Casa sobre o projeto de lei acerca da reformulação do Código Florestal brasileiro. Inconsistência da matéria Político de resultados, publicada pela revista Veja.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dccd2e717cad06f01a368b0091ea0701f2542d7b4ea1c72e364bd81254ed7df
+size 327

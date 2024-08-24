@@ -1,1 +1,3 @@
-Realização de Jornadas Pedagógicas em Municípios do Estado da Bahia. Visita da oradora ao Município de Santo Amaro da Purificação. Sucesso do Programa Todos pela Alfabetização - TOPA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:775f99687f3c67af739478484cae47b387d10e10c925def74eb27009a5b2bb26
+size 192

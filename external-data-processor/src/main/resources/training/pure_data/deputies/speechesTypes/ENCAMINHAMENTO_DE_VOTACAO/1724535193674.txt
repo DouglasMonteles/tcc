@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de encerramento da discussão e do encaminhamento da votação do Projeto de Lei nº 490, de 2007, sobre a regulamentação do art. 231 da Constituição Federal, para disposição sobre o reconhecimento, a demarcação, o uso e a gestão de terras indígenas; e sobre alteração das Leis nºs 11.460, de 2007; 4.132, de 1962; e 6.001, de 1973.
+version https://git-lfs.github.com/spec/v1
+oid sha256:541e3d7c06ec1cd3ecf1e1d38b24f3d55def9887d887f026b79bb21498da02bf
+size 389

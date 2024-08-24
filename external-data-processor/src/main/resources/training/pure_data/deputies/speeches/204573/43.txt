@@ -1,1 +1,3 @@
-Esclarecimento à Oposição sobre o teor do Projeto de Lei nº 5.387, de 2019, a respeito do mercado de câmbio brasileiro, do capital brasileiro no exterior, do capital estrangeiro no País e da prestação de informações ao Banco Central do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eba8babab50fb7b49b21c3131f6a11d13de33afa7af8c2192b4968924568479
+size 253

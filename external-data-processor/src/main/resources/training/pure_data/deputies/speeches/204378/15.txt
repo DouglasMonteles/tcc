@@ -1,1 +1,3 @@
-Desinteresse das Forças Armadas brasileiras na criação de situações conflituosas com países vizinhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d21a59dd99f2112935d8b057e04e561855bf26bce083a8bd72dc22ba9728e4ce
+size 107

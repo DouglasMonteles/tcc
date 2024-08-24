@@ -1,1 +1,3 @@
-Homenagem ao empresário Belarmino Fernández Iglesias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d2783ab0fc81f19277c571bf6c7a6ce8f1a7c33894037f9d0b38b7700e2919b
+size 55

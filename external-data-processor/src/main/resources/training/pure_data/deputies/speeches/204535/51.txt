@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido pelo Relator da Comissão de Viação e Transportes ao Projeto de Lei nº 693, de 2019, sobre alteração da Lei nº 6.766, de 1979 (Lei do Parcelamento do Solo Urbano), com vista à garantia do direito de permanência de edificações na faixa não edificável contígua às faixas de domínio público de rodovias, e para possibilidade de redução da extensão dessa faixa não edificável por lei municipal ou distrital, ressalvados os destaques. Aprovação, pela Comissão de Defesa dos Direitos da Mulher, de requerimento de convocação do Ministro do Turismo, Marcelo Álvaro Antônio, para esclarecimento das chamadas candidaturas laranjas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95066c2ee7c1a7d47262219b3f1dfef3f1112c21f695207818b81c0d65e2da18
+size 713

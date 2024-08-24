@@ -1,1 +1,3 @@
-Acerto da iniciativa do Ministério da Saúde de criação do Índice de Desempenho do Sistema Único de Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4066b6f2a83ae797f0f1e55a02cdef924854dad57e458913eb3eeaa1c212fa8
+size 112

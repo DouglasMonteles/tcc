@@ -1,1 +1,3 @@
-Apoio à decisão da Presidência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a809325efcffb91de46d906233c7a9e7344c2c1c170ab2b379c509079e74af8
+size 34

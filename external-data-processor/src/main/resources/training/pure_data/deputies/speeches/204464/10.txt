@@ -1,1 +1,3 @@
-Persistência do racismo no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42e9423c6b0969d83b6c45a624ae35d8b02d268f708879d5566ab9922bc35e6d
+size 35

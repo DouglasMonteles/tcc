@@ -1,1 +1,3 @@
-Protesto contra a proibição, pelo IBAMA, da exploração de petróleo na costa do Estado do Amapá. Consideração da decisão do IBAMA como atentado à soberania nacional, bem como à situação de pobreza de mulheres e crianças e ao desenvolvimento econômico do Estado. Pedido de transformação de sessão plenária da Casa em Comissão Geral para debate do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ab4484351e7501112dbcd5d5e654b7d50b45e0bb9208357e47f023f0e3bdbc0
+size 373

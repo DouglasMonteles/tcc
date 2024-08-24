@@ -1,1 +1,3 @@
-O Deputado se somou aos municipalistas do Brasil para manifestar sua satisfação pela aprovação do Projeto de Lei nº 4.172, de 2023, que institui o Pacto Nacional pela Retomada de Obras e de Serviços de Engenharia Destinados à Educação Básica e Profissionalizante e à Saúde; e altera a Lei nº 10.260, de 12 de julho de 2001.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86373a949afac5b0421f1f9d8378af1355e9f9ef05a2c15338193cd69a86e012
+size 336

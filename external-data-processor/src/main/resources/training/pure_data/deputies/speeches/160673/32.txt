@@ -1,1 +1,3 @@
-Transcurso do Dia da Revolução Farroupilha. Promoção da Semana Farroupilha sob o tema Nossas Raízes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6b67e6879adc557df38e1098aa61346d8a0918537234d2f011656b302b067a5
+size 105

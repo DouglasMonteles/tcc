@@ -1,1 +1,3 @@
-Preocupação com o grande número de medidas provisórias em tramitação na Casa. Conveniência de atenção dos Parlamentares às mudanças e reformas exigidas pela Nação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d1116e5b8ff4c46d8c5a351c7e4f6c9d7cbfe59a5dc1260668fc075e6df7aa6
+size 176

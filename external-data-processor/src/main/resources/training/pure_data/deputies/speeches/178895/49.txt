@@ -1,1 +1,3 @@
-Crescimento da agropecuária brasileira no primeiro trimestre de 2015. Importância do setor para a economia do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a5f9db3c360343666f16e902ce4739b3fb14eee08d2564e48d17d07862d4666
+size 118

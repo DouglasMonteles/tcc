@@ -1,1 +1,3 @@
-Transcurso dos 5 anos do assassinato da Vereadora Marielle Franco, no Rio de Janeiro, Estado do Rio de Janeiro. Não identificação dos mandantes do crime. Instituição do Dia Nacional de Combate à Violência Política Contra as Mulheres, no Estado do Paraná. Inadmissibilidade de desqualificação da imagem de Marielle Franco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58a3ec05f5e15547635d35307db2814c4c977ea57d3d97d478871cd107683d50
+size 332

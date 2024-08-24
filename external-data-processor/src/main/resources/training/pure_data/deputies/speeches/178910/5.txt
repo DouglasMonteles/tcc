@@ -1,1 +1,3 @@
-Congratulações ao Deputado Hélio Leite pela condução dos trabalhos no plenário. Participação do orador em reunião com o Ministro-Chefe da Secretaria da Micro e Pequena Empresa, Guilherme Afif Domingos, para debate da desburocratização do SIMPLES Nacional, entre outros assuntos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57a1912439797531f0ede0ffad67784fda23164dafaba0aa7fe7f680a16fef10
+size 289

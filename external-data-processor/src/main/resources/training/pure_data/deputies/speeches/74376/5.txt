@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Lançamento do II Plano Nacional de Políticas para as Mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77d4c7e94a7ebc73a47b03111b21937090e6a6c78711edb236bd165159a039b4
+size 107

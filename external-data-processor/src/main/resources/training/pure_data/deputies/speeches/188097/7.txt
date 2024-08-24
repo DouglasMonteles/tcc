@@ -1,1 +1,3 @@
-Reiteração da razão do voto do orador favorável ao retorno do Conselho de Controle de Atividades Financeiras - COAF ao âmbito do Ministério da Economia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77d4d914f2c70f8db2f5b68184d348ead58dc8d57169125f06f85b512d47455a
+size 158

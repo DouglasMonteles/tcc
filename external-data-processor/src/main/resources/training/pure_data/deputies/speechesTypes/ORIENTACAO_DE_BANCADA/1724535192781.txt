@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 1, apresentada ao Projeto de Lei de Conversão nº 27, de 2018, oferecido à Medida Provisória nº 843, de 2018, sobre o estabelecimento de requisitos obrigatórios para a comercialização de veículos no Brasil; a instituição do Programa Rota 2030 - Mobilidade e Logística e o regime tributário de autopeças não produzidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d2cb1335589ae95d832f06c36157a2e8db1a520ed0dd31bf7141c5d2b5feb26
+size 438

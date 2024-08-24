@@ -1,1 +1,3 @@
-Defesa de aprovação da Emenda nº 1, de 2017, de plenário, ao Projeto de Lei nº 3.792, de 2015, que estabelece o sistema de garantia de direitos de crianças e adolescentes vítimas e testemunhas de violência, e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90f92c24b922463b84bf7b500485061e237672f6837b48565fd79674792c45dd
+size 242

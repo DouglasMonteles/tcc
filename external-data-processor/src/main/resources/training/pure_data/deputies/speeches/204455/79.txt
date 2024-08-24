@@ -1,1 +1,3 @@
-Importância da aprovação do Projeto de Lei Complementar nº 146, de 2019, acerca da instituição do marco legal dasstartups  e do empreendedorismo inovador; e da alteração das Leis de nºs 8.212, de 1991; 7.713, de 1988; 6.404, de 1976; 11.196, de 2005; e da Lei Complementar nº 123, de 2006.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2818d326843e52f627387b7437d84e6c47bae1c389767f5eec2c25f48c67c37
+size 299

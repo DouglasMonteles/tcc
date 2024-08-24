@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à Resolução nº 487, de 2023, do Conselho Nacional de Justiça, sobre a instituição da Política Antimanicomial do Poder Judiciário, tendo em vista à extinção de hospitais de custódia e consequente soltura de pacientes psiquiátricos periculosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b1467d66e279d75f364d31c4f0f02b2ebcc1ff8d250133478749ae5e95837ac
+size 292

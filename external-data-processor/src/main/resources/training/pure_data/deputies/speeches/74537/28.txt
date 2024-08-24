@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM às emendas à Medida Provisória 405 de 2007 (Abre crédito extraordinário em favor da Justiça Eleitoral e de diversos órgãos do Poder Executivo, para os fins que especifica), com parecer contrário do Relator.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28304e370f124116eb69ab2bf2577cb647867e5922933d5174664ed498e16025
+size 248

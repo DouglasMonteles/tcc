@@ -1,1 +1,3 @@
-Solidariedade à população do Estado de Santa Catarina, atingido por inundações. Importância do ordenamento urbano e do respeito ao meio ambiente para o efetivo combate aos efeitos das enchentes. Adoção de medidas para a regularização do fornecimento de Gás Natural Veicular ao Estado do Rio Grande do Sul. Necessidade de liberação, pelo Governo Federal, de recursos para o Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf6b9a424111c60f55877a3a882a6beb9ca9e641c9e65ab9323596786015122b
+size 411

@@ -1,1 +1,3 @@
-Elevado número de desabrigados no Estado do Maranhão em decorrência das chuvas. Necessidade de urgente liberação de recursos, pelo Governo Federal, para atendimento às populações maranhenses atingidas por inundações. Visita do orador aos Municípios de Timbiras e Junco do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c99c91518834bcf61503095662de92fcb63d19cc56a6a0f9770176498dffe6d
+size 293

@@ -1,1 +1,3 @@
-Decisão do orador de manutenção do texto do Senado Federal quanto à Desvinculação de Receitas da União - DRU, na condição de Relator da Proposta de Emenda à Constituição nº 32, de 2022, sobre a alteração do Ato das Disposições Constitucionais Transitórias, com vista à implementação do Programa Bolsa Família e à definição das regras de transição da Presidência da República aplicáveis à Lei Orçamentária de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63901523d94a7f5d5d6de014cc7e2cd24ab3d309e3ba100ffb83b70f2accbf17
+size 446

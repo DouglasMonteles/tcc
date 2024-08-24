@@ -1,1 +1,3 @@
-Presença na Casa de lideranças políticas do Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:550b58c06cdee38e3a1eebdb23af433a33b6f727844d4fbad3b2ffd0d3a6ffbd
+size 75

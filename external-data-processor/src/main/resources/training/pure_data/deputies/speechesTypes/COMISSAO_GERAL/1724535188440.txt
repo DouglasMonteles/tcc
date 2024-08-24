@@ -1,1 +1,3 @@
-Esclarecimentos sobre assuntos relativos ao Ministério do Esporte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d21f313a7e003874309dc8ffe85e59bd7069f1242af98462e82b84390495370
+size 67

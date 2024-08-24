@@ -1,1 +1,3 @@
-Criação de CPI para investigação da invasão de propriedades rurais produtivas pelo Movimento dos Trabalhadores Rurais Sem Terra - MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e5fbae9a1192db830342deaf6e1e00ac313fb11cf292342578dea5516963fb9
+size 139

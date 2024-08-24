@@ -1,1 +1,3 @@
-O Deputado destacou presença na Casa de Luciana e João, esposa e filho de Fausto Silva, o Faustão. Defendeu a aprovação do Requerimento de Urgência nº 2.983, de 2023, referente a projeto sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72fd91395029487268f48e812015c2f710df7130af12198a6f7d724cc488eb5e
+size 296

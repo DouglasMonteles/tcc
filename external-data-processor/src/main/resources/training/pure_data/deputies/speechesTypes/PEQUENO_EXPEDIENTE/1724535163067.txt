@@ -1,1 +1,3 @@
-Penalização de profissionais da enfermagem pela reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6634ac1289f5fcf2b3cc0ea1af1bfcb8f0e02cef18950134c0782728d7272d23
+size 74

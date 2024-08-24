@@ -1,1 +1,3 @@
-Homenagem às mulheres brasileiras em nome da cidadã piauiense escravizada, Esperança Garcia. Instalação do seu busto na sede da Ordem dos Advogados do Brasil - Seção Piauí. Concessão à Esperança Garcia, pela OAB/Piauí, do título de Primeira Advogada do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc321229e01828cd86d7f1755daca0ce28c1baff97f352beb570245b2b34dfe3
+size 273

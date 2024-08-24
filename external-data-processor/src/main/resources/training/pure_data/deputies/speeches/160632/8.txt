@@ -1,1 +1,3 @@
-Presença, na Casa, do representante da Rede de Inovação Tecnológica para a Defesa Agropecuária, no Estado de Minas Gerais, Altino Rodrigues Neto, em busca de apoio a pleito dos produtores de queijo artesanal junto ao Ministério da Agricultura, Pecuária e Abastecimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dac83a59dd9191b6dba12a800b13ddc9cb83155dbfc5f0cac5df7f01d4c49595
+size 276

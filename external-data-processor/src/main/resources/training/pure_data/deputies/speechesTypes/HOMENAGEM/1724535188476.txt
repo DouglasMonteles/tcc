@@ -1,1 +1,3 @@
-Sessão Solene em homenagem aos 50 anos da Confederação Nacional dos Trabalhadores na Agricultura - CONTAG.(As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d35bc323dbcba557c1ec389bf5c72e146f734aa662ccea0219fb14169670ccda
+size 242

@@ -1,1 +1,3 @@
-Transcurso do 90º aniversário de fundação do jornal Folha de S.Paulo. Papel desenvolvido pelo periódico no processo de redemocratização do País. Repercussão de matérias veiculadas pela Folha de S.Paulo na vida política brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ea0de47b96eff6507b6f9aecc51d3402f99cc658cec5a8170d1c1c7b006d08b
+size 241

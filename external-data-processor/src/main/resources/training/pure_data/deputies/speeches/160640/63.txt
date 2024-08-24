@@ -1,1 +1,3 @@
-Anúncio da filiação do orador ao PROS. Agradecimentos a lideranças do PTB pela atuação parlamentar do orador no partido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4e249358845c493b445befce5fe607b005097ef490cee59e19a23b4ba8d7e67
+size 126

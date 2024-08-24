@@ -1,1 +1,3 @@
-Críticas à política econômica do Governo Jair Bolsonaro. Apoio às manifestações de estudantes e trabalhadores contra medidas adotadas pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8749cc19e28429b77d025e8fcf2be836aa3fb31d3f44912db4653112ce8768b
+size 162

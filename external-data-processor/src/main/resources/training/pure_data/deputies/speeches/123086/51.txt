@@ -1,1 +1,3 @@
-Transcurso do Dia do Contabilista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b73b73b9886e8a5fd584298092c4e7475589587093124ec8ccea2aab63f838d
+size 34

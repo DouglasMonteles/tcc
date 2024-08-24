@@ -1,1 +1,3 @@
-Alcance pelo Município de Toledo, Estado do Paraná, do Valor Bruto da Produção Agropecuária - VBP de um bilhão de reais. Destaque da agropecuária na municipalidade. Realização de obras essenciais para o incremento do agronegócio na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:595a7ec7e83998fcd5a66d819889d142e22ab08cf7efce19df48b1b0860f0009
+size 250

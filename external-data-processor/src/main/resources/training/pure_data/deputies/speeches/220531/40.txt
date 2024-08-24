@@ -1,1 +1,3 @@
-Inauguração da sede da Administração Regional de Água Quente; do Restaurante Comunitário de Sol Nascente; e do Túnel Rei Pelé na Cidade-Satélite de Taguatinga, Distrito Federal. Congratulações ao Governador Ibaneis Rocha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22bab797c8fae67d48fb4d01bab10962f6189eb83dc0e0d9dc092075ca23cf54
+size 232

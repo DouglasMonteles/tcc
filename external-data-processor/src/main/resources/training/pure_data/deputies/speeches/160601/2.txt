@@ -1,1 +1,3 @@
-Necessidade de solução equilibrada para o problema da redução da maioridade penal. Críticas à soltura precoce do menor autor da morte do jovem Victor Hugo na cidade de São Paulo. Necessidade de aperfeiçoamento da legislação penal pelo Parlamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:688baf79913153eb2d81704641ffbb7e470d048b88a088ead3b883ab0df3911d
+size 256

@@ -1,1 +1,3 @@
-Interesse da família Bolsonaro na morte do miliciano Adriano Magalhães da Nóbrega. Caracterização do homicídio do miliciano como crime de queima de arquivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f45df463230e3ca16090a281217b159dcd6e1d7042a4b12f031d9f31c0cb0c7
+size 162

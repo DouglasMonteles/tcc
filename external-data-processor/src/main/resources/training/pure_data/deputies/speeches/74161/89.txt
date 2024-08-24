@@ -1,1 +1,3 @@
-Instalação de CPI destinada ao enfrentamento da violência contra jovens negros e pobres no Brasil. Acerto das medidas de ajuste fiscal tomadas pela Presidenta Dilma Rousseff para a manutenção do grau de investimento do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0979a6721084cccee600f87212011cdc06f82c9a42b810f8ee49e65cf831c8ac
+size 230

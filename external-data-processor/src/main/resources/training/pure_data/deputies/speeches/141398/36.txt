@@ -1,1 +1,3 @@
-Retomada da produção e da geração de emprego no País. Redução do desmatamento na região amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e344f03fa887e7b8d25786fc6a24dd3eccbb56f32b95ecf04c868329bc8879af
+size 107

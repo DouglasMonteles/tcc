@@ -1,1 +1,3 @@
-Paralisação de obras públicas no País. Realização, pela Assembleia Legislativa do Estado do Rio Grande do Sul, de audiência pública para debate do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a62ee65d5e99d40635f0fab794d711136f43d316179e6047d4a6b2de367c7b7
+size 160

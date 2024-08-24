@@ -1,1 +1,3 @@
-O Deputado abordou as recentes chuvas no Paraná, afetando 57 municípios e mais de 36 mil pessoas. Elogiou a atuação da Defesa Civil do Estado. Fez especial menção ao seu próprio município, Dois Vizinhos, que enfrentou a pior enchente de sua história, deixando famílias desabrigadas. Agradeceu o compromisso do Governador Ratinho Júnior e ressaltou que obteve o comprometimento do Ministro de Estado do Desenvolvimento Social e do Secretário Nacional de Defesa Civil, em fornecer ajuda humanitária e apoio na reconstrução para os Municípios atingidos no Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8b4b56927a7c9037567e8d04768d1f19a9bbce940b779f66633b5f4c163c936
+size 577

@@ -1,1 +1,3 @@
-Protesto contra a rejeição, por partidos políticos, da proposta de destinação de recursos partidários para a área social, apresentada pelo NOVO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dd29e2cd12b711a6dbe02b5ce24db18e7c60c9b82af45f344612859faaf3f02
+size 151

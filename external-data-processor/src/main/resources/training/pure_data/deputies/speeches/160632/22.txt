@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Extensão Rural. Saudações aos extensionistas brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68c64064fee1ccb16b868e1deee7a2f06b56ddc8a4bf4247a1905f353b6858f7
+size 90

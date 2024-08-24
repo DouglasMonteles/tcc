@@ -1,1 +1,3 @@
-Posicionamento favorável do PSOL  ao art. 4º do Projeto de Lei de Conversão da Medida Provisória 443 de 2008 (Autoriza o Banco do Brasil S.A e a Caixa Econômica Federal a constituírem subsidiárias e a adquirirem participação em instituições financeiras sediadas no Brasil), que autoriza a criação da empresa CAIXA - Banco de Investimentos S.A, objeto de DVS
+version https://git-lfs.github.com/spec/v1
+oid sha256:711d703a785d2dc08115a512c7e350e7657db1b57810db11a5ce07e9501bdbbb
+size 370

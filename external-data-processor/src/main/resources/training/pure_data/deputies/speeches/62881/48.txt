@@ -1,1 +1,3 @@
-Parecer, pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, ao Projeto de Lei 44 de 2011-CN (Abre ao Orçamento da Seguridade Social da União  em favor do Ministério da Previdência Social crédito suplementar,   para reforço de dotações constantes da Lei Orçamentária vigente).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca0981497370aae6bb09e672f218766b047a3826c022279394dc6f9a104f3583
+size 306

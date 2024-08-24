@@ -1,1 +1,3 @@
-Homenagem à memória do Senador Antonio Carlos Magalhães, ao ensejo do seu 91º aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfd72651524f93c9cc0cddb00d87fc006ac1d13b413a7eea4539c7bda8199bd1
+size 106

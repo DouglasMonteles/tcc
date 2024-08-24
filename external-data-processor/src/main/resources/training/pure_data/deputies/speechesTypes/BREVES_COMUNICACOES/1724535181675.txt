@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre a proposta do Líder do Governo, Deputado Cândido Vaccarezza, a respeito das votações de propostas de emenda à Constituição em tramitação na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:141c8e96ad142b32c01b9abc38443a6cc8055f474fde1ad296c3bdc5d1ca7c11
+size 188

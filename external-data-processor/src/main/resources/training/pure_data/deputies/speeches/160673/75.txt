@@ -1,1 +1,3 @@
-Defesa da transferência para os Estados brasileiros da competência para criação de Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:143677428d494df29d8da565c24e9ff8303eceff0a8a2e6603a7e9ecf222ecae
+size 99

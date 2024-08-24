@@ -1,1 +1,3 @@
-Presença, na Casa, do ex-Presidente e do Vice-Presidente do Conselho Federal de Enfermagem - COFEN, respectivamente, Manoel Neri e Antônio Marcos Freire Gomes. Luta histórica do ex-Presidente do COFEN pela criação do piso salarial nacional dos profissionais da enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dabe2b0011c630844a7df3902db5350fb23563d5c30abe5d78476f1f4fa72d9
+size 277

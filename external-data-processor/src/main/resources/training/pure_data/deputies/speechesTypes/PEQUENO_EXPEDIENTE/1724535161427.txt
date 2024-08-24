@@ -1,1 +1,3 @@
-Solidariedade à comunidade de Linha Salto, no Município de Santo Cristo, Estado do Rio Grande do Sul, diante da morte de moradores da localidade em trágico acidente de trânsito ocorrido no Estado de Santa Catarina. Conveniência de debate na Comissão de Viação e Transportes, da Casa, de propostas para a redução do número de acidentes de trânsito nas rodovias brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df3ae23e136a1088b78aba7ded1908a91f3ab38e3abcc08495fe8806c178a7e8
+size 384

@@ -1,1 +1,3 @@
-Importância da aprovação de projeto de lei destinado ao fortalecimento da segurança nos estádios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:179e22ab962eb8018e528dfc1510471fa26d22be131c1e4deb8cb5ec4a04c9a0
+size 102

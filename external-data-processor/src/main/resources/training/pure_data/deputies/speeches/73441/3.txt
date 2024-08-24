@@ -1,1 +1,3 @@
-Transcurso do 18º aniversário de vigência do Código de Defesa do Consumidor. Permanência do brasileiro em posição desfavorável em algumas situações de consumo. Setores campeãs de reclamação no País de consumo. Imperiosidade da reestruturação das Agências Reguladoras para efetivo equilíbrio das relações de consumo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88564af480f62f0842460e7aafa8d3dc763ae9fbf32174523aa5db7a5e28862d
+size 335

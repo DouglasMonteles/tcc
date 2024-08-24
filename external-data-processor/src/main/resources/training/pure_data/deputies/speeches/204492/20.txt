@@ -1,1 +1,3 @@
-Exigência de esclarecimento, pelo Presidente Jair Bolsonaro, de denúncia sobre o envolvimento do seu nome no caso do homicídio da Vereadora Marielle Franco. Indagação ao Ministro da Justiça e Segurança Pública, Sérgio Moro, sobre o paradeiro do ex-assessor do Senador Flávio Bolsonaro, Fabrício Queiroz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:081b63b64c8c9e9706b206b207e5278760826d36a0832ce51d9cd3df722e5403
+size 314

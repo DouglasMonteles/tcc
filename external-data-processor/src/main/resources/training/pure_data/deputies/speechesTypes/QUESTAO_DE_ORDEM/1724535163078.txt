@@ -1,1 +1,3 @@
-Repúdio às reações hostis de Deputados contra o Governador do Estado de São Paulo, Tarcísio Gomes de Freitas, em face da celebração de acordo com o governo petista para a votação da proposta governamental de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:713deef7291efb72defe2af0000f4f92e99e65db5c153c3a4e6135fcb7e567e2
+size 238

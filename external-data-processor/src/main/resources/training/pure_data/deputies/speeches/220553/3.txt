@@ -1,1 +1,3 @@
-Congratulações ao Governo Federal, especialmente à Polícia Federal, pela investigação de atentado contra a vida do Senador Sérgio Moro. Visita do Ministro do Trabalho, Luiz Marinho, aos Municípios de Caxias do Sul e Bento Gonçalves, Estado do Rio Grande do Sul, para fiscalização de casos de trabalho análogo à escravidão. Reconhecimento pelo Titular da Pasta da necessidade de celebração de grande pacto para coibição de tal crime. Defesa de engajamento da Câmara dos Deputados na luta contra o trabalho escravo. Pedido à Mesa Diretora de aprovação do requerimento de criação de Comissão Externa para verificação de denúncias relativas ao tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:490399f9d0f707efc9307e8af12b230280349909525cb21aaaa8c76186adbc08
+size 673

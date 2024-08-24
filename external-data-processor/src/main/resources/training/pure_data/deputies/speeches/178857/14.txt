@@ -1,1 +1,3 @@
-Crítica à condução dos trabalhos legislativos na CPI da PETROBRAS quando do início da Ordem do Dia no plenário. Apresentação de recurso contra deliberações da CPI da PETROBRAS em curto momento de suspensão da sessão no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5af6283c862ebbfaa79a7e2274a44a898b604e9ecc6b615e8c8bff52c4d4517
+size 241

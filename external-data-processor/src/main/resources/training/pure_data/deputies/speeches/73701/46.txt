@@ -1,1 +1,3 @@
-Concessão pela Ministra do Planejamento, Orçamento e Gestão, Miriam Belchior, de audiência à oradora para debate de assuntos relacionados à saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed13e0d26091068d6dc7ae4494d1058a6cbc297e66566c18f4274daa65cf708f
+size 153

@@ -1,1 +1,3 @@
-Caráter histórico do encontro dos Presidentes dos países da América do Sul, promovido pelo Presidente Luiz Inácio Lula da Silva. Importância da retomada da pactuação política, diplomática e econômica entre os povos das Américas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b85cba4dc3f4b204f44a376f57ef2dd86af59d23f6ed7eaa7a56b55155c0886
+size 240

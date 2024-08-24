@@ -1,1 +1,3 @@
-Gravidade do panorama econômico brasileiro. Crise da saúde pública. Dificuldades financeiras das Santas Casas de Misericórdia. Defesa de aprovação da Proposta de Emenda à Constituição nº 1, de 2015, sobre o estabelecimento do percentual mínimo das aplicações anuais da União em ações e serviços públicos de saúde. Visita à Casa do Presidente da Câmara de Vereadores de Capão Bonito, Estado de São Paulo, Matheus Francatto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c89e4230ca55209fca548ed92daca83b167724184759d0551a546249b18f7d81
+size 445

@@ -1,1 +1,3 @@
-Agradecimento ao Deputado Alberto Fraga Frente pelo brinde recebido da Frente Parlamentar da Segurança Pública. Exigência ao Ministro da Justiça e Segurança Pública, Flávio Dino, de desarmamento de facções criminosas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0199c10aaba1fc04282f190cae35358af7570851d35e227e40c0cc0ddb2b3223
+size 226

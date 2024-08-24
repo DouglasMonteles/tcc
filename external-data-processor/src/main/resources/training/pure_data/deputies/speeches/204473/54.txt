@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 4, apresentada ao Projeto de Lei nº 534, de 2021, sobre a permissão aos Estados e Municípios, bem como à iniciativa privada, de aquisição de vacinas contra a Covid-19 com registro ou autorização temporária de uso no Brasil. Transcurso do 57º aniversário de criação do Centro de Instrução de Guerra na Selva - CIGS, do Exército brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14b7109059a1f1b85d54ad6fe2b4245ac58fff90f537889a9dad8c976a03d1b4
+size 473

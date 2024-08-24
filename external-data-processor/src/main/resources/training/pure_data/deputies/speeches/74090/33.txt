@@ -1,1 +1,3 @@
-Pedido ao Ministério da Previdência Social de nomeação de servidores para o INSS do Estado do Amazonas. Prejuízos causados pela greve de Auditores-Fiscais da Receita Federal do Brasil à Zona Franca de Manaus. Apelo ao Governo Federal no sentido de conclusão das negociações com a categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fc20dbe0cfe6b29aa64543dd16186d8abb4aa9d7d41efcb029f276cd30ffbb1
+size 299

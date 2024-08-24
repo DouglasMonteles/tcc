@@ -1,1 +1,3 @@
-Razões do apoio do Partido NOVO ao projeto de lei acerca da elevação da participação do capital estrangeiro com direito a voto nas empresas de transporte aéreo. Defesa de encerramento da discussão da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b660a0c6be161c54081466bfa97b9d1b591cc63fcff0ea95a8d32a5c4cbe727c
+size 216

@@ -1,1 +1,3 @@
-Pedido aos Deputados de aprovação da moção de repúdio à Procuradora-Geral do Estado de Alagoas, Samya Suruagy do Amaral Barros Pacheco, diante de ofensa à Primeira-Dama do País, Michelle Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f6d7e96661b55f71fe9f1c885d0871bbe309f84d79bd3ef0fbc261ff290da19
+size 205

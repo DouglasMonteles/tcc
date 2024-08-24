@@ -1,1 +1,3 @@
-Necessidade de definição do conceito de trabalho escravo. Financiamento de grandes frigoríficos pelo BNDES em detrimento de cadeias curtas do setor. Criminalização dos produtores rurais pelo novo Código Florestal brasileiro. Discussão, pela Agência Nacional de Vigilância Sanitária - ANVISA, da utilização de agrotóxicos na agricultura brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e02162eae3907a4ed0439ee949aa1c6031b14f23a31acea65e92ccd0c23852fe
+size 360

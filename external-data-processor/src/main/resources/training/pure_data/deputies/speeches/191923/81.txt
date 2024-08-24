@@ -1,1 +1,3 @@
-Discordância com a declaração do Senador Hamilton Mourão sobre o desejo do Presidente Luiz Inácio Lula da Silva de transformação dos militares em cidadãos de segunda categoria. Contrariedade à ocupação de cargos públicos por militares, especialmente de cargos políticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2062f790f7f5eb10b6362d73ae4efa4bbc7ca39983bcd8d6bbaf47889f74de2
+size 283

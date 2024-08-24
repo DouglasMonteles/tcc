@@ -1,1 +1,3 @@
-Transcurso do 132º aniversário de fundação do Município de Muniz Freire, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74a258cb3e51b6179b21016b0387fbdf23bbe8e124d41ed0257bb4c7aa4e520a
+size 104

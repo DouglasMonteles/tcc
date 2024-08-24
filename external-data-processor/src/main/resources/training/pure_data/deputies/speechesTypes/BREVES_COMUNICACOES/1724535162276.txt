@@ -1,1 +1,3 @@
-Repúdio ao depoimento prestado à CPI dos Atos Antidemocráticos da Câmara Legislativa do Distrito Federal, pelo general Gustavo Henrique Dutra de Menezes, ex-Comandante Militar do Planalto, a respeito dos participantes na manifestação política realizada na Esplanada dos Ministérios no dia 8 de janeiro de 2023. Apelo à Mesa Diretora de não acatamento da decisão do Tribunal Superior Eleitoral pela cassação do mandato parlamentar do Deputado Deltan Dallagnol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99559f8c0162c330ffea3f8d1ee7b7b288a628b03f565fa37cbe344b36c2e070
+size 472

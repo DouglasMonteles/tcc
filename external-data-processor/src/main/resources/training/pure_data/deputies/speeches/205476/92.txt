@@ -1,1 +1,3 @@
-Regozijo com a indicação do escritor Gonçalo Silva Junior para a Academia de Letras da Grande São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a23db1c26330a5758e98c07ac4f4ca560dccfad89e09d2e6263cc36c3cfd2111
+size 108

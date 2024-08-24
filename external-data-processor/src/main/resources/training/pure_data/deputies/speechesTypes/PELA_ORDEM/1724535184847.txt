@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.380, de 2021, sobre o funcionamento e as operações do Fundo Geral de Turismo - FUNGETUR.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6de1bf49dc75b3b6b7e5b0add2ddbc7eb1cc44214c3e3e0d6f53715377ed928
+size 206

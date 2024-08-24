@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo  ao Requerimento 1.775/11 (Convocação do Ministro-Chefe da Casa Civil, Sr. Antônio Palocci Filho, para explicar a vultosa evolução patrimonial dos seus bens - no período de quatro anos -, objeto de denúncia veiculada pela Folha de São Paulo).
+version https://git-lfs.github.com/spec/v1
+oid sha256:72f769e8a069ec1b1f8a7a937ea75a58bb8c143d65a32a555309ace8dd3fc180
+size 287

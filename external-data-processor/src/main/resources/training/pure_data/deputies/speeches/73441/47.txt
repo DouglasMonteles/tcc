@@ -1,1 +1,3 @@
-Apresentação de requerimento com vistas à realização de sessão solene na Câmara dos Deputados em homenagem póstuma ao médico e fundador da Rede Sarah de Hospitais de Reabilitação, Aloysio Campos da Paz Júnior. Condecoração da Rede Sarah de Hospitais de Reabilitação com o Prêmio Transparência e Fiscalização Pública - Edição 2014, conferido pela Comissão de Fiscalização Financeira e Controle e pela Mesa Diretora da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ace3c83959f490f5a9c7a138fbd4e208431980c2ba6c35c3175daa3d9a0d120e
+size 448

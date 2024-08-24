@@ -1,1 +1,3 @@
-Anúncio do retorno do ex-Presidente Jair Bolsonaro ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5879a8775d23b46a801828d8a48666423fc3feb51e15c5ea7b0bfcccc743bcbe
+size 62

@@ -1,1 +1,3 @@
-Natureza falaciosa do discurso proferido pela Líder do PT a respeito da empresa Petróleo Brasileiro S/A - PETROBRAS. Desvio de recursos da estatal pelo governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c108fbe9263395da482ef26913ad7c9c8351ec322cb8e2ad6cbbd5f0fb213625
+size 170

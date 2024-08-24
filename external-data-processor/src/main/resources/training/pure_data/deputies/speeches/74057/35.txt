@@ -1,1 +1,3 @@
-Sanção pelo Presidente Luiz Inácio Lula da Silva da proposta de instituição do piso salarial nacional dos professores do ensino básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e79aa57f1250a29c4a72bb17acec2ddb2a06388406640eddd9f5090e10f7825f
+size 141

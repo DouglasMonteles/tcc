@@ -1,1 +1,3 @@
-Ineficácia das ações do Governo Federal. Defesa de reajuste para aposentados e trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:653dd1f0af0c3245d3b690aa7965b896bca42f7c78f19fc046574fa3e8df61cd
+size 96

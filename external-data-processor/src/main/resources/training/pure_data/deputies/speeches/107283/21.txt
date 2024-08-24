@@ -1,1 +1,3 @@
-Denúncia de irregularidades no acordo sobre o cronograma de compra de energia da Usina Hidrelétrica de Itaipu, estabelecido entre os Governos do Paraguai e do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5095efbb3c504303955e149ad86a370f3e98716dc2ed545c481e1167745d2cbf
+size 168

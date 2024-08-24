@@ -1,1 +1,3 @@
-Defesa da aposição de veto presidencial ao destaque em votação apresentado à Medida Provisória nº 863, de 2018, sobre a alteração do Código Brasileiro de Aeronáutica. Solicitação à Deputada Bia Kicis de convencimento do Presidente da República acerca da necessidade do veto, em benefício do consumidor de passagem aérea. Desistência de apresentação de pedido de verificação da votação diante do risco de perda de validade da medida provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:298f8480ac210325ea514a1a48257609ee088065beaa4f55f1adafe462693667
+size 468

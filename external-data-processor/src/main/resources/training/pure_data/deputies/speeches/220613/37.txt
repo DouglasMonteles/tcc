@@ -1,1 +1,3 @@
-Aplausos ao Governador do Estado do Rio de Janeiro, Cláudio Castro, pela implementação de ações de combate à criminalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9812f884646be78c31e2c98f619a821aeff9aa1df5bdf1a51ceda5082b70d0ef
+size 129

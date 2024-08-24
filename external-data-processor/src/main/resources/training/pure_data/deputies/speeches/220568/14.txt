@@ -1,1 +1,3 @@
-Alteração do orçamento do INSS pelo Governo Federal. Vinculação entre a ideologia da Esquerda e atentados ocorridos no ambiente escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a71a80872f8ec451e6d04854327b7ba185576f9a501aaf58c9838ddf770ff051
+size 141

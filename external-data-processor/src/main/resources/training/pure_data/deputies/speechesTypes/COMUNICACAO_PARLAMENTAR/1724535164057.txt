@@ -1,1 +1,3 @@
-Ações da Gerência Regional do Patrimônio da União da Paraíba e de Prefeituras para a regularização fundiária no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87f9ff58c507933ae948d2a6d156de2c0482308049bf7db57ecd26e29b7d3ad5
+size 128

@@ -1,1 +1,3 @@
-Imediata duplicação da BR-381 na região do Vale do Aço, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29e588a703e67662c2abafb191a80e7e41fe54198c6b8d564139ae1f6a448f47
+size 83

@@ -1,1 +1,3 @@
-Saudações aos alunos da Universidade Paulista - UNIP, campus de Sorocaba, presentes nas galerias do plenário. Aplausos à Presidenta Dilma Rousseff pelo lançamento de programa de concessão de rodovias, ferrovias e portos. Necessidade de avanço do País na área educacional, especialmente quanto aos ensinos médio, profissionalizante e tecnológico. Importância do lançamento de medidas governamentais de ajuste do sistema tributário. Desoneração da folha de pagamento do setor de transporte urbano. Reexame, pela Agência Nacional de Energia Elétrica - ANEEL, da decisão de transferência para os Municípios brasileiros da responsabilidade pela manutenção do sistema de iluminação pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76ab81ee0414de36c433d115c23cb59113fd4dce9f3389dad7f89163fadfb141
+size 710

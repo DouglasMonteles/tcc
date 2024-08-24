@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Constituição e Justiça e de Cidadania, da admissibilidade da proposta sobre a redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9605e652752524594d5a5c848be0cc641396a92d583e67667e0f2235498e9f82
+size 142

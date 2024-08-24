@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de destaque para votação em separado do art. 11-A da Lei nº 9.504, de 1997, alterado pelo art. 4º do Projeto de Lei nº 4.438, de 2023, que altera a Lei nº 4.737, de julho de 1965 (Código Eleitoral), a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos) e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), com o fim de promover reforma no ordenamento político-eleitoral (Minirreforma Eleitoral de 2023).
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ea699132e1a7a3e761fe36d79e256463cdada7da215ac07c09ecf1c3865b3fd
+size 503

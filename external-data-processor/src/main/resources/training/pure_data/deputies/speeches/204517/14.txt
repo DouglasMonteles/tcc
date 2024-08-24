@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas de Plenário de nºs 1 a 21, apresentadas à Medida Provisória nº 944, de 2020, relativa à instituição do Programa Emergencial de Suporte a Empregos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8925f1cf5b95321f7b3a91380cb8c7c9af973b314e90cd04a2373c0c1ab29061
+size 186

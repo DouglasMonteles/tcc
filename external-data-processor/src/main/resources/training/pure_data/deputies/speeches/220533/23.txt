@@ -1,1 +1,3 @@
-O Deputado destacou, na semana do servidor público, a recente decretação de greve pela carreira pública da assistência social no Distrito Federal. A greve foi a resposta da categoria após o Governo do Distrito Federal (GDF) recusar transformar em projeto de lei a minuta conjunta elaborada pelo sindicato e várias secretarias. Ressalta que estes servidores atendem diretamente 372 mil famílias e que a falta de reconhecimento pelo governo local prejudica ainda mais a assistência social. Por fim, expressa seu total apoio à paralisação dos profissionais que assistem a população mais vulnerável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac638e1c821338a2c9cd6a7fc628d655078a413c297bf1bba3de090536ec72bc
+size 610

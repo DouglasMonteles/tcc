@@ -1,1 +1,3 @@
-Potencialidades do setor agropecuário brasileiro. Importância do fortalecimento da agricultura brasileira. Elevada taxa de informalidade na economia brasileira. Sanção pelo Presidente Luiz Inácio Lula da Silva da lei sobre a instituição da figura jurídica do microempreendedor individual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97f9d6876acd4a5532f47e826e8e8093b6259fafb6d13460ad24b956de1ac399
+size 296

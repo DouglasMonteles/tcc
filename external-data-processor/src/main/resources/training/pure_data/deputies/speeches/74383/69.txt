@@ -1,1 +1,3 @@
-Esclarecimentos da Presidência sobre ordem de apreciação das matérias da sessão e sobre quórum mínimo para aprovação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d9be049bf8251e0ea878ede22bdf3c4f20a5559740496b3ee98b2fcb81f1351
+size 126

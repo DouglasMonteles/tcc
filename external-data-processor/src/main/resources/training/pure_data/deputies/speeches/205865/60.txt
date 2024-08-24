@@ -1,1 +1,3 @@
-Necessidade de adoção, pelas autoridades competentes, de ações em prol dos estudantes brasileiros residentes na Bolívia, diante do quadro de instabilidade política reinante naquele país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccd94edb21a172e873a75143d24f7aa3792a527ee05e3fbe5d3f2d73cdc9764b
+size 193

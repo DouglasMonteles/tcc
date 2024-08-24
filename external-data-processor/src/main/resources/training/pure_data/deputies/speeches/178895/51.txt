@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional das Santas Casas de Misericórdia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29ea20e1531aba63af7b444c102fde7a0b1e3331262d7d5a70c7edb2940f3035
+size 61

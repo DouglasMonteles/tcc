@@ -1,1 +1,3 @@
-Presença no plenário de comitiva de Parlamentares da Argentina, do Uruguai e do Paraguai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d08413a418e479060192ffeb6df304ea61a5224999b1e72a33aa2da647136417
+size 91

@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados de Zé Paulo, Prefeito do Município de Antonina, Estado do Paraná. Participação do orador, do Prefeito Zé Paulo e do Presidente Michel Temer em reunião sobre liberação de empréstimo ao Governo do Estado do Paraná para a construção de rodovia entre os Municípios de Pitanga e Mato Rico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecd68246bdcaf6c13f06a26a02c1601446d7c756e2d621ec8fd0fe1372963772
+size 333

@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar em Defesa dos Bombeiros Voluntários do Brasil. Reapresentação, pela Deputada Angela Amin, da proposta de emenda à Constituição, de autoria do ex-Deputado Federal Marco Tebaldi, a respeito da segurança jurídica de corporações voluntárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ad3d16d8e7327ee1e0fb1cbe89bcabf0fda7f5828640aa3ab9edb1bc9baa242
+size 282

@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Deputado Lyrio Bertoli. Solicitação ao Plenário de observância de 1 minuto de silêncio em homenagem ao ex-Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcc23d5ec4ee8affc11e9607251c3d42120856e3ab53927593d7c812e2829576
+size 148

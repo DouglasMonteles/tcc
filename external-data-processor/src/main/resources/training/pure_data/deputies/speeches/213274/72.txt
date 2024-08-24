@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 25, apresentada ao Projeto de Lei Complementar nº 112, de 2021, acerca das normas eleitorais e das normas processuais eleitorais brasileiras. Visita à Câmara dos Deputados de comitiva de Vereadores do Município de Igarapava, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27f22fedcb324d080bb19cd1ad926b49cd3cbbc405ef951ce1be8355a2f4ddb0
+size 369

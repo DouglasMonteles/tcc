@@ -1,1 +1,3 @@
-Solicitação à Presidência de indeferimento de requerimento apresentado pelo PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20fd2022c9728cacdc6e9e469d5b4f2e679df0a78c897f007f15fffbe4aca3a2
+size 83

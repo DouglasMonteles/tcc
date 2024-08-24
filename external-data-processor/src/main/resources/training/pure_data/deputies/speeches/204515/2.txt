@@ -1,1 +1,3 @@
-Convite ao Deputado Alexandre Frota para participação na Comissão Externa destinada à investigação das causas e responsabilidades pelo desastre socioambiental ocorrido no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9928258dcee9259dfbede55585fd07c43ae0a509ea1dae892b97923ff803cd8
+size 226

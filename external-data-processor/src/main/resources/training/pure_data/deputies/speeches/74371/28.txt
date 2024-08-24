@@ -1,1 +1,3 @@
-Imposição de arrocho fiscal e de sacrifícios às populações de baixa renda, pelo Projeto de Lei Orçamentária Anual de 2021 encaminhado ao Congresso Nacional pelo Poder Executivo. Insignificância da elevação do valor do salário mínimo para 1.067 reais. Insuficiência dos recursos orçamentários destinados à área de infraestrutura brasileira. Inexistência de vínculo entre a peça orçamentária de 2021 e o desenvolvimento socioeconômico do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc413fb6beeda310bcbe3afda44d049cd56e2d7ec4b6f391c783d420bc1e1875
+size 466

@@ -1,1 +1,3 @@
-Realização de encontro de Vereadores, no Auditório Nereu Ramos da Casa. Anúncio de criação da Frente Parlamentar em Defesa das Câmaras Municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42f9ab18fb54b0fd75c5e10b3e2534ab70470e6f3b445e429253da6e805f9d69
+size 153

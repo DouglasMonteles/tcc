@@ -1,1 +1,3 @@
-Informação ao Plenário sobre as pretendidas alterações do Regimento Interno da Casa e nas normas de tramitação de medidas provisórias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd3edb244c40ee72ec3cf3025ae93c98b3605ffeffe240aeb09921b942f9a4e7
+size 142

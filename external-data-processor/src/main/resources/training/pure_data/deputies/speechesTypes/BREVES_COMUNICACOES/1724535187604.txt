@@ -1,1 +1,3 @@
-Saudações às mulheres brasileiras, em especial às paraibanas. Agradecimento aos eleitores, Prefeitos Municipais, Vereadores, lideranças políticas e familiares pela eleição do orador. Transcurso do Dia Internacional da Mulher. Necessidade de conclusão das obras da Adutora do Pajeú, para transposição de águas do Rio São Francisco ao sertão nordestino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78e712920d32d2f7f05786c4f9b806ca0b8fc27e157adabe693007e2d37f6fc7
+size 366

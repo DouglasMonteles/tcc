@@ -1,1 +1,3 @@
-Apoio à permanência da 11ª Companhia da Polícia Militar no Bairro Teixeira Dias, na região do Barreiro, em Belo Horizonte, Estado de Minas Gerais. Anúncio de encontro do orador com o Governador Fernando Pimentel para discussão do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32aaaeba76978826890d94c0b1528c6a4147f44de2f3769f95a0663661fb87ae
+size 245

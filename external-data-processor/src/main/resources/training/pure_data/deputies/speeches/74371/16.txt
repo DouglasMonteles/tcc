@@ -1,1 +1,3 @@
-Homenagem póstuma ao Deputado Assis Carvalho. Luta do parlamentar pela aprovação da Proposta de Emenda à Constituição nº 15, de 2015, a respeito da transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b886343de2adf9bdbdd04b494d89c0d79823de31e46125a37c355aede5c656b
+size 371

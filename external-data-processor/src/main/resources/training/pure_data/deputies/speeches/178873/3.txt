@@ -1,1 +1,3 @@
-Realização do Seminário Estadual da Comissão Especial do Super-SIMPLES, no auditório da Federação das Indústrias do Espírito Santo, Vitória, Espírito Santo. Indignação com a manobra política utilizada pela Presidência da Casa para aprovação de dispositivo que autoriza o financiamento empresarial a partidos políticos no bojo da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44cbb88c01a64f588058bdf637487c7e1d8fd672819794465e9bce2de1b97693
+size 365

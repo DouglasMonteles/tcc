@@ -1,1 +1,3 @@
-Comissão Geral para debate dos preços de combustíveis no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3565f357f9243160ee22493d0adaa641daced6baeac8e861f2fd861fb4c3c18f
+size 67

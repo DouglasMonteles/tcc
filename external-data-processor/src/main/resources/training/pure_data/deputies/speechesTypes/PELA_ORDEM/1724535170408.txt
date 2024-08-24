@@ -1,1 +1,3 @@
-Aprovação, pela bancada federal do Estado de Mato Grosso, de emenda destinada ao custeio do Hospital do Câncer de Cuiabá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95fd1dd0dbbb517345e3a614a49f60c743c6b511fce5b322a956e38e602bf409
+size 125

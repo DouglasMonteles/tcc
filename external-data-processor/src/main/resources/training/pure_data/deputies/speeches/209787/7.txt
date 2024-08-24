@@ -1,1 +1,3 @@
-Contradição entre o discurso de campanha do Presidente da República Luiz Inácio Lula da Silva contrário ao aborto e a retirada do Brasil, pelo governo petista, do Consenso de Genebra a favor da vida desde a concepção. Apelo aos Deputados de rejeição do requerimento de apreciação em regime de urgência do Projeto de Lei nº 7.559, de 2014, sobre a instituição do Fundo Nacional para a Promoção dos Direitos da Mulher. Razão do posicionamento do orador contrário à aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f76e4196ca4c2427a7cadffeb4e5784ef06732e912085ca3abb47b1900d844a2
+size 510

@@ -1,1 +1,3 @@
-O Deputado registrou, com pesar, o falecimento do ex-Senador Francisco Dornelles e manifestou sentimentos à família e correligionários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0fa6a26cc843f225322479ff45f8ab7602488f90c3030db91ac817d6fd5d007
+size 138

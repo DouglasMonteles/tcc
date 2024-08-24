@@ -1,1 +1,3 @@
-Presença no plenário do Presidente da Associação Mineira de Municípios, Prefeito Julvan Lacerda, e do Presidente da Associação dos Municípios da Microrregião do Noroeste de Minas, Prefeito Edgar José de Lima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80247b7ae9e505c316472344c878810048c5d1bcc65cb83b9d4217cc9e388036
+size 218

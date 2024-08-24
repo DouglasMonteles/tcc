@@ -1,1 +1,3 @@
-O Deputado destacou seu compromisso em destinar recursos para a construção de uma unidade de oncologia infantil em Campina Grande, na Paraíba. Ele compartilhou experiências pessoais, reforçando a importância de oferecer tratamento próximo às famílias e expressou determinação em concluir o mandato com a inauguração dessa unidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b4438155823854bd549fd511101c77b255cbd5db9ccb1107caf9d162ad089b
+size 343

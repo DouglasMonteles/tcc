@@ -1,1 +1,3 @@
-Indignação do orador com o desrespeito de membros da Oposição para com o Ministro da Economia, durante reunião destinada ao debate da reforma previdenciária, na Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:563654afad760b6cd9e0ddc3418581f1908ad6684d451501b501e35bd631608f
+size 221

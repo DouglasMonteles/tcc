@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao ex-Deputado Carlos Araújo, em retorno às fileiras do Partido Democrático Trabalhista - PDT. Breve balanço da atuação parlamentar do orador. Votos de feliz Natal e próspero Ano Novo à Nação brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2e55f65f066c450ddc847057d8416ca01e418560c4a8be47f8039441340a252
+size 243

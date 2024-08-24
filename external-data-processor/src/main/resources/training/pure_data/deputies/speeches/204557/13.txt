@@ -1,1 +1,3 @@
-Homenagem ao poeta Thiago de Mello, ao ensejo do transcurso do seu aniversário natalício. Reconhecimento da importância de sua contribuição para a literatura brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ef65701d8cd2f5296c65ddaba4b7e87c20f543bd4febfd7f2557849565ca3dd
+size 174

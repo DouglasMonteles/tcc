@@ -1,1 +1,3 @@
-O Deputado apresentou requerimento de louvor pelo aniversário do Pastor da igreja Assembleia de Deus, em Belém. Destacou sua influência nacional e trabalho social no Arquipélago do Marajó.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3a4c3466f5a5758bb679c6cca0128ea40feb28dd60b74918a7e28f81ef631a0
+size 193

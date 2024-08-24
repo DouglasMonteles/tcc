@@ -1,1 +1,3 @@
-Discussão da Proposta de Emenda à Constituição nº 125, de 2011, sobre a inserção de dispositivo no Ato das Disposições Constitucionais Transitórias, e a alteração da Constituição Federal, para fins de reforma político-eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83291ceacd8c3e192a01eec5d7e20729f1b61be0ce1bc1bdd60f250e362da04e
+size 243

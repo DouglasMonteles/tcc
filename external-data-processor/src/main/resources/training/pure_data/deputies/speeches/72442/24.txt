@@ -1,1 +1,3 @@
-Importância do esporte como instrumento de inclusão social. Protesto contra a redução dos recursos orçamentários destinados ao desporto nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1281626f44534cd885e1ec8c2e4b57955cda1c85a675c0390e2cacd3cb946efd
+size 151

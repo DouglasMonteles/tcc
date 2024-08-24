@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 13, apresentada ao Projeto de Lei nº 1.079, de 2020, sobre a suspensão das obrigações de beneficiários do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cedb2c931900e412dfaff500e345f6924a672bc658dcdba4567aa00d9befa88
+size 297

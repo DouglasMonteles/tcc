@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Presidente da África do Sul, Nelson Mandela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b8271117db88a1113be1dde655d8f5f679e3d68bbf4cd87771308afac498fca
+size 70

@@ -1,1 +1,3 @@
-Solicitação ao Presidente Inocêncio Oliveira de determinação do encerramento dos  trabalhos nas Comissões para início da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3401c43154be459df7a1a7cefee4d52c062336eaf03e9e9d25c4193c4cdd9149
+size 141

@@ -1,1 +1,3 @@
-Encaminhamento da votação do Projeto de Lei 8 de 2009-CN (Abre ao Orçamento Fiscal da União crédito especial em favor de transferências a Estados, Distrito Federal e Municípios, para o fim que especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:709af76a6567a55eb1b73a45fce64ba200ceaee9537924ebcd537ea4bf5b3ee3
+size 212

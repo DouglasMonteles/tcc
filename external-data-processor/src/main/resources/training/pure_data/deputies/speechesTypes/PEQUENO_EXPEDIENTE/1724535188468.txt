@@ -1,1 +1,3 @@
-Inauguração de abatedouro de peixe da Cooperativa Agroindustrial C. Vale no Município de Palotina, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0257da3ca20eff1a6c7c14be45df37efe9473088a2c6679e0a8eaff5e01582fc
+size 120

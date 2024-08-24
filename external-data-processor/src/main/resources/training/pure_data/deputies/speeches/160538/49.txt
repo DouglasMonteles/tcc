@@ -1,1 +1,3 @@
-Contentamento com a atuação da Presidenta Dilma Rousseff em sua visita a países europeus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01d69aa9c0cd33c36168fe625e42fd8b70f10f72a6023f28182c16c703e71390
+size 92

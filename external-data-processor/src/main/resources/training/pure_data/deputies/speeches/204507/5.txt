@@ -1,1 +1,3 @@
-Repúdio ao discurso da Esquerda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfd66fd62806bf70d3622fbc934033bb2eeb06f14ae42ae2bd593f80849e886c
+size 33

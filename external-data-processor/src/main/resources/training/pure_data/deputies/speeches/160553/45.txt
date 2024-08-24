@@ -1,1 +1,3 @@
-Aprovação pela Casa da Medida Provisória nº 566, de 2012, sobre a abertura de crédito extraordinário a favor dos Ministérios da Integração Nacional e do Desenvolvimento Agrário, para atendimento às municipalidades atingidas pela seca. Proficuidade da gestão da Superintendente Regional da Companhia Nacional de Abastecimento - CONAB nos Estados da Bahia e de Sergipe, Rose Edna Mata Vianna Pondé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5f2c25dee99e9faed7f3e74e771ab123f21ded61d73f1dcc0a91233edc420a7
+size 409

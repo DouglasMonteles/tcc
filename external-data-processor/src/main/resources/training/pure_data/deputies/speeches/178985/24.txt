@@ -1,1 +1,3 @@
-Manifestação de voto favorável a proposição sobre abertura de crédito suplementar para o Fundo de Financiamento Estudantil - FIES. Importância de inclusão, na pauta do Congresso Nacional, do Projeto de Lei nº 8, de 2016, para recuperação dos níveis de emprego e da economia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ed98376433605de9dc448992f19fdf6f02c91f57835bbe66cb8250ddb72b2a1
+size 286

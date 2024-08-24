@@ -1,1 +1,3 @@
-Escalada da violência juvenil no País. Combate ao bullying nas escolas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be3f17e526f75f1b7af610dc967f778758345e008234ec95db68e4f80b3efd96
+size 85

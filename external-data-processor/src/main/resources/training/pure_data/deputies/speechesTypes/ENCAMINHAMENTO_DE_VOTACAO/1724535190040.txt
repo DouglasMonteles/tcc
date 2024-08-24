@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 7, apresentada ao Projeto de Lei nº 1.304, de 2020, sobre alteração da Lei nº 10.304, de 2001, relativa à transferência de terras da União para o domínio dos Estados de Roraima e do Amapá; e da Lei nº 6.634, de 1979, acerca da faixa de fronteira, com vista à sua aprovação. Necessidade de adoção, pela Caixa Econômica Federal, de providências para atendimento humanizado aos contemplados com o auxílio pecuniário emergencial, aprovado pela Câmara dos Deputados. Encontro do Ministro da Economia, Paulo Guedes, com membros da Comissão instituída para acompanhamento da execução dos recursos destinados ao combate à crise provocada pela Covid-19. Defesa de demissão do Titular da Pasta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:054fe5af9fb8c6dd5289419ee9d573e8bca1e6adf78e904dddffb30f7857de20
+size 820

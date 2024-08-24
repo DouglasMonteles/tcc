@@ -1,1 +1,3 @@
-Acerto da suspensão, pela Presidenta Dilma Rousseff, da distribuição do chamado kit gay nas escolas públicas brasileiras. Apresentação de projeto de lei sobre a extinção do segredo de justiça no caso da prática de crime contra o patrimônio público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cd268e5decdc521f9b6acca14e46920bf2536d9567d0778441902d9c3af4c87
+size 260

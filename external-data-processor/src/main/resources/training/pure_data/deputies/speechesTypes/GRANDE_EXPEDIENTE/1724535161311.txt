@@ -1,1 +1,3 @@
-Avaliação das causas do descrédito do Congresso Nacional perante a sociedade brasileira. Ingerência do Poder Executivo nos trabalhos do Poder Legislativo. Utilização abusiva do instrumento da medida provisória. Defesa de adoção do orçamento impositivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e5145567f447f780769e810b52fc25fdf41c1c1cb9694088e12ee9fbbbfab27
+size 262

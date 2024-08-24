@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da expressão e de resolução de passivos de poluição hídrica causada pelo lançamento de efluentes sem tratamento, constante no inciso V, do art. 11 da Lei 11.445, de 2007, modificado pelo art. 8º da Emenda nº 15 apresentada ao Projeto de Lei nº 4.162, de 2019, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:601d5fa5c4e3f256466a4dc2b9644fe17bd16f53e2def9b26ea91dd7218cd773
+size 421

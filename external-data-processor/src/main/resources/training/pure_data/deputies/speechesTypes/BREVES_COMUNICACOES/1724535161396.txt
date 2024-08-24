@@ -1,1 +1,3 @@
-Falecimento do Prefeito Municipal de Cassilândia, Jair Boni Cogo, e do professor universitário Fausto Matto Grosso Pereira, no Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c6c6061759e8ff853556aedcb25dc9176bcc5a72f7b20cb973e0fe28c0513a9
+size 158

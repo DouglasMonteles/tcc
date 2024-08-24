@@ -1,1 +1,3 @@
-Votação pela Casa de proposições destinadas ao enfrentamento da crise gerada pela pandemia de coronavírus. Orientação de bancada na votação da Subemenda Substitutiva Global apresentada pelo Relator da Comissão de Finanças e Tributação ao Projeto de Lei nº 985, de 2020, acerca das medidas excepcionais adotadas em situação de emergência pública nos termos da Lei nº 13.979, de 2020, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bfb2609f5605738633445cd6ae2025829821fa4ebe60994473f560b240a0a01
+size 427

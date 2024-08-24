@@ -1,1 +1,3 @@
-O Deputado, na condição de Relator da matéria, fez esclarecimentos ao Plenário sobre o teor do parecer apresentado ao Projeto de Lei&nbsp;nº&nbsp;6.256, de 2019, que institui a Política Nacional de Linguagem Simples nos órgãos e entidades da administração pública direta e indireta de todos os entes federativos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e9ee5df832ab6f3f44b190769e67cb0e1d3ed6b56ea1b767a76a887283d3fa
+size 323

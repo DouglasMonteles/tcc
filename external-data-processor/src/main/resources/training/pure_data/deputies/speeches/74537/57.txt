@@ -1,1 +1,3 @@
-Solicitação à Presidenta da Companhia de Desenvolvimento Urbano do Estado da Bahia - CONDER, Maria del Carmen Fidalgo, de esclarecimentos sobre a utilização eleitoreira de recursos destinados à instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59ab07629659be8a79a4b9baf66983855ce01fc3e47cc4f48a4d9681f2050139
+size 214

@@ -1,1 +1,3 @@
-Orientação de bancada na votação de requerimento de votação, uma a uma, das emendas oferecidas ao Projeto de Lei nº 3.715, de 2019, acerca da regulamentação da posse de arma de fogo em áreas rurais. Atuação vexaminosa do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad84c64a692f40940148d7d9880d7a4e4d0a5ea790e11d24b19088116f582538
+size 259

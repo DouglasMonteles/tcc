@@ -1,1 +1,3 @@
-Pedido ao Presidente Rodrigo Maia de inclusão na pauta do projeto de lei a respeito do repasse, pela Caixa Econômica Federal, de recursos de emendas orçamentárias às municipalidades brasileiras, o chamado projeto fundo a fundo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9e32a127d4716fcb7943b8ab18011110e7b1cd7f475003bcbac642531b4fc7e
+size 232

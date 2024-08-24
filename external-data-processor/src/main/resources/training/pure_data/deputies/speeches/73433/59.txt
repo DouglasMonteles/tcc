@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à Presidenta da Associação Nacional dos Auditores Fiscais da Receita Federal do Brasil, Assunta Bergamasco, e às demais dirigentes de entidades presentes no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ded1b40432078299bda2a7fe8082590a83e964d7325a6c871c1c452bd840162
+size 201

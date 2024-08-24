@@ -1,1 +1,3 @@
-Informação à Esquerda sobre as realizações do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e37292ddb86b0b9f116574daf123fd16284dc6c9f8054e50fe0642cc9021282
+size 74

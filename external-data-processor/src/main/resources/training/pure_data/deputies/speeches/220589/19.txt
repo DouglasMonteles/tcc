@@ -1,1 +1,3 @@
-Presença, na Câmara dos Deputados, dos Prefeitos Kiefer Cavalcante e Rosana Gomes, respectivamente, dos Municípios de Feijó e Senador Guiomard, Estado do Acre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceb21750f962331d64ce70f3ad3d83ea1afdf66e884810981f3bbc7a00eda092
+size 163

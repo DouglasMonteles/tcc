@@ -1,1 +1,3 @@
-Realização do 31º Festival da Canção do Município de Ourém, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2094c2c92de0af415378377cbc623152d8ad9ed821f33ed68f3419c135b6779e
+size 83

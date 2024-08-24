@@ -1,1 +1,3 @@
-Saudações ao movimento sindical brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b260f43e7cd51edb12269c85145d48525157f9e0959e9164aaff2aa55767be35
+size 45

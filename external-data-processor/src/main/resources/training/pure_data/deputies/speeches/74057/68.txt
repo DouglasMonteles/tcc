@@ -1,1 +1,3 @@
-Encontro de Prefeitos Municipais com o Presidente Luiz Inácio Lula da Silva, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e579169eb0f748b4b5a7cc3d8a235b06723571c1c2bb25d4b1539348806c508
+size 109

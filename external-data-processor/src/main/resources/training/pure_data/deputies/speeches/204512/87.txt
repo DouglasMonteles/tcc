@@ -1,1 +1,3 @@
-Aprovação, pela Casa, do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.564, de 2020, acerca da instituição do piso salarial nacional dos profissionais da enfermagem e da parteira. Apelo ao Presidente da República por edição de medidas provisórias sobre a reestruturação das carreiras dos policiais federais, dos policiais rodoviários federais e dos policiais penais. Realização, pela Polícia Federal, de operação destinada ao combate à pedofilia no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68e4056398ca398785d7675b76b125a0a1afd45003bff7db644c4d159cc1cfe1
+size 519

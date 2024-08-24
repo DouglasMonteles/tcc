@@ -1,1 +1,3 @@
-Descrição da tramitação do Plano Nacional de Educação na Comissão de Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4e097582ccdec41a7e2fea557c5608dcf11d98ac26525d8ed3f403dec1bb7df
+size 87

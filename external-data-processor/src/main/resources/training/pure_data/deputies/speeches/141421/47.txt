@@ -1,1 +1,3 @@
-Urgente decisão, pela Agência Nacional de Energia Elétrica - ANEEL,  sobre a devolução aos consumidores de valores cobrados a maior nas contas de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:253c3345b60e5661cee21c11f6d8ca66687a56900de19b4e95668e5eee56af40
+size 169

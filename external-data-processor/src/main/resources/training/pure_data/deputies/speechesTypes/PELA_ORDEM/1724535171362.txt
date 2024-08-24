@@ -1,1 +1,3 @@
-O Deputado parabenizou o Presidente da Câmara pelo seu aniversário e expressou apoio à sua candidatura à reeleição. Destacou a importância dos optometristas na saúde ocular da população e mencionou a longa fila de espera por exames de vista no SUS. Saudou a Presidente da Câmara Regional de Óptica e Optometria do Espírito Santo e todos os optometristas do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51dffd35e12988f4f6bc5df258caadaad5feef963f088e6eec30607c420c51a7
+size 377

@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Deputado David Miranda. Solidariedade aos seus familiares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5a8519afea5b4aba365e0fc6c14cbbc830de8651af356b5ceed1d93af9a45f3
+size 83

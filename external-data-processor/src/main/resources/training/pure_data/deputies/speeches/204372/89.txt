@@ -1,1 +1,3 @@
-Lançamento pelo Governo do Distrito Federal, em parceria com o Ministério da Mulher, da Família e dos Direitos Humanos, do aplicativo Proteja-se, destinado ao combate à violação de direitos humanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a0817a90ee1f50b159546fc71f1d823de5fb2f46d25c0d521fa5be1758ecdf7
+size 204

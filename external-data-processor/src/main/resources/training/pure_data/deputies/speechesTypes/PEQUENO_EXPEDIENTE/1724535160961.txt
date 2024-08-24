@@ -1,1 +1,3 @@
-Presença na Casa de amigos do orador na municipalidade de Alegrete, Estado do Rio Grande do Sul. Homenagem à memória do Senador Pinheiro Machado ao ensejo do transcuro do centésimo aniversário de sua morte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0ac2d2a8355de9df9b43bab2f3f7d72206f04c2622e06b6a696939b0e526aa2
+size 211

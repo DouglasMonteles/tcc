@@ -1,1 +1,3 @@
-Liberação da Bancada do PSC para votação do  Requerimento de Moção 6.508 de 2010 (Manifesta posição contrária ao bloqueio de Cuba pelos Estados Unidos da América e apoio e solidariedade a prisioneiros políticos), apresentado pelos Deputados Vanessa Grazziotin, Ivan Valente e outros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8cf2bd69a17d0c51f54761c133cea2c191e0afdd416def2c4513909a31cac2e
+size 294

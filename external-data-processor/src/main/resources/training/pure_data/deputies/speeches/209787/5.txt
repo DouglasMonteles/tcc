@@ -1,1 +1,3 @@
-Esclarecimentos à Deputada Sâmia Bonfim sobre fala do orador acerca da situação dos participantes dos atos de vandalismo ocorridos na Praça dos Três Poderes no dia 8 de janeiro de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c291abb1f1cf199788f4763bdcf95c7dfc431c18169072d263029bc8949cc58
+size 191

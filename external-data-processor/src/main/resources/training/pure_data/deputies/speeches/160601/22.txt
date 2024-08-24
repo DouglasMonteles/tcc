@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Cabo Daciolo em razão da expulsão do Parlamentar do PSOL. Crítica à decisão do partido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ae2245b615dfec3a4191c1483578b6621b6973f529f7cb60c75399edef62eaa
+size 118

@@ -1,1 +1,3 @@
-Constatação em pesquisa realizada pela Universidade Federal do Pará sobre características impróprias para o consumo humano da água consumida pela população paraense. Atuação do orador junto ao Ministério das Cidades para investimentos em saneamento básico em Municípios paraenses. Necessidade de melhoria dos serviços prestados pela Companha de Saneamento do Pará relativos à qualidade da água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f2e2a7404b6fbae63cb40bf18826bec3e76feca08c53dbceccd8f77f280247b
+size 411

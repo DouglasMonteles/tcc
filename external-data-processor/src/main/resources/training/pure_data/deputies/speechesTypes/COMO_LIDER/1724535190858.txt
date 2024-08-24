@@ -1,1 +1,3 @@
-Apelo ao Operador Nacional do Sistema Elétrico de redução do funcionamento de usinas termelétricas. Retomada pelo País dos investimentos no sistema elétrico nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cd41339c0ae5bb12b880a54ec63339de75400ab8718fee7aaf8e22959be7e3f
+size 172

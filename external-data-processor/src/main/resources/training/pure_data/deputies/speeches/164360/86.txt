@@ -1,1 +1,3 @@
-Importância da aprovação da Proposta de Emenda à Constituição nº 270, de 2008, sobre a garantia do recebimento de proventos integrais com paridade pelo servidor público aposentado por invalidez permanente. Realização, pela bancada feminina na Casa, de manifesto em favor do julgamento e condenação dos acusados pelo assassinato da ex-Deputada Federal Ceci Cunha. Aprovação, pela respectiva Comissão Especial, do projeto de lei proibitivo, quanto à educação dos filhos, da aplicação de castigos corporais. Defesa de desenvolvimento da cultura da paz no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55e36a7d5086a5fb73e7c690494fbedbe1858bf662f03a139e9f7dd753147407
+size 578

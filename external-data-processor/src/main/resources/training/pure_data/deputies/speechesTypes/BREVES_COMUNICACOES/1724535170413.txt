@@ -1,1 +1,3 @@
-Visita do orador ao hospital veterinário do Instituto Federal da Educação, Ciência e Tecnologia do Sul de Minas Gerais do Município de Muzambinho. Destinação de recursos de emendas orçamentárias pelo Deputado para investimentos no hospital veterinário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78d8865000c89c1a7b469d67387ecb3c6872752ebc9010db2af92810aeb02714
+size 262

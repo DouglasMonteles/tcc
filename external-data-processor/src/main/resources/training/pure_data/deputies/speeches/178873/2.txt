@@ -1,1 +1,3 @@
-Registro de voto contrário ao financiamento privado de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1168da2662cb62ee6cc9917e0db0bf01db1d739a8ee40df4e2026133a1550e8
+size 77

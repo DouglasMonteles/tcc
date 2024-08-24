@@ -1,1 +1,3 @@
-Posicionamento favorável do PT ao  Projeto de Lei 2.468 de 2007 (Autoriza a criação da empresa pública Centro de Excelência em Tecnologia Eletrônica Avancada S.A - CEITEC - com a finalidade de explorar diretamente atividades no âmbito das tecnologias de semicondutores, sistemas de circuitos integrados e produtos de microeletrônica), em votação na forma de Substitutivo da Comissão de Trabalho, de Administração e Serviço Público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96e0e228cfc5a3115b53e4533877bcd79343f74a86a38add82948f06ff0a9132
+size 446

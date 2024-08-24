@@ -1,1 +1,3 @@
-Repúdio à invasão do plenário por manifestantes. Reunião de Parlamentares membros de Comissão Externa sobre a Crise Fiscal no Estado do Rio de Janeiro com o Governador do Estado e o Secretário de Fazenda para debate dos preços de petróleo definidos por portaria da Agência Nacional de Petróleo - ANP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ada162cee72849cdc642291b963c286676bf9ba92b7e5b29a4627d47c84b54e
+size 311

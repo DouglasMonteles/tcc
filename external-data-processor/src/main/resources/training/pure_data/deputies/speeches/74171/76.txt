@@ -1,1 +1,3 @@
-Perplexidade da sociedade brasileira ante a absolvição do mandante do assassinato da missionária Dorothy Stang. Defesa da liberdade de expressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a647cb7ed95ad8ba70eea84930ab5176709ebcb8274430c7bf31d5cbd1f767d
+size 149

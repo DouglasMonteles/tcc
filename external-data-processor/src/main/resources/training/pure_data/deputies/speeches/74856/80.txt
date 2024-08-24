@@ -1,1 +1,3 @@
-Dados divulgados pelo Programa das Nações Unidas para o Meio Ambiente sobre o custo do desperdício de alimentos no mundo. Importância do envolvimento da Câmara dos Deputados na elaboração de leis garantidoras do cumprimento das metas aprovadas na Conferência Rio+20, realizada no Brasil em 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcfe405a92f0e614b94ea6dbe9af3bd1712f80f7e9c9d7d97e7a86035b63c6d6
+size 303

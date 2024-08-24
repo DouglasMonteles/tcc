@@ -1,1 +1,3 @@
-Expectativa dos estudantes inscritos no Fundo de Financiamento ao Estudante de Nível Superior - FIES de revisão pelo Governo Federal das novas regras impostas para obtenção do financiamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9daec11a5287c1882c02cc211ade09aad99d28cd704abbb1302d4a14a066022
+size 194

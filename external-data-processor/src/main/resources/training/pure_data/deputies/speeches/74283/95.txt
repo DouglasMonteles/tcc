@@ -1,1 +1,3 @@
-Falecimento do ex-Reitor da Universidade Regional de Gurupi - UNIRG, Valnir de Sousa Soares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4cd296c10b78373101b43da22c9c4d021e408bd54cacb9416770ce55d58b54d
+size 92

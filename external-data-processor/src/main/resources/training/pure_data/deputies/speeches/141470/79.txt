@@ -1,1 +1,3 @@
-Geração de novos empregos formais no País. Empenho do Governo Federal na retomada do crescimento econômico brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d4fa615f2e99f40e4575d596830d6c535856c3307be618d31fe10288d176253
+size 122

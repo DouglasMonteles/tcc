@@ -1,1 +1,3 @@
-Resistência do Governo Federal ao cumprimento de promessa de retirada da exclusividade da demarcação de terras indígenas pela Fundação Nacional do Índio - FUNAI. Anúncio de apresentação pela Senadora Kátia Abreu de proposta de emenda à Constituição sobre a suspensão temporária de demarcações de áreas invadidas por indígenas. Gravidade de conflitos entre índios e produtores rurais em todo o País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9de73cc6095939eb9f63101710a6460957ab7a41ce14359092112ab34a76435
+size 420

@@ -1,1 +1,3 @@
-Promessa do Deputado Kim Kataguiri de renúncia ao mandato parlamentar, no caso da obrigatoriedade do trabalho aos domingos pela Medida Provisória nº 881, de 2019, sobre a Declaração de Direitos de Liberdade Econômica, o estabelecimento de garantias de livre mercado e a análise de impacto regulatório. Indagação ao Parlamentar sobre o cumprimento de sua promessa tendo em vista a exigência de trabalho aos domingos pela proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7aa78b47d50d7c565782b2c70650026e4bc64a979dedd0c928f819374f141454
+size 444

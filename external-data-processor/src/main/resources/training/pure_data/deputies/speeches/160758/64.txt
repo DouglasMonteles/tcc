@@ -1,1 +1,3 @@
-Necessidade de investigação de denúncias de irregularidades no âmbito do Departamento Nacional de Infraestrutura de Transportes - DNIT. Solicitação ao Ministério da Agricultura, Pecuária e Abastecimento de suspensão das importações de leite da Argentina e do Uruguai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf80fe91c39ff3ebbf1e4ef579a5fb7b3d0fc83c42fce6c191c9396704ac6a1d
+size 278

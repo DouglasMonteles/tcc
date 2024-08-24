@@ -1,1 +1,3 @@
-Encontro de membros do Conselho de Desenvolvimento Político-Regional com representantes da região centro-norte fluminense, para debate da criação de plano de desenvolvimento estratégico da região, no Município de Duas Barras, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e46cc093c19ff0ef87907c7f8ee7f21515c2b42e6fcb76752b98c0bd9f47d5ca
+size 258

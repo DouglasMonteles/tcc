@@ -1,1 +1,3 @@
-Repúdio ao dispositivo do decreto presidencial sobre o desarmamento, proibitivo da instalação de clubes de tiro nas imediações de estabelecimentos educacionais. Invasão pelo decreto da competência legislativa municipal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93c657ccc7727212304d8b0d8554e864abf01d62468c2cfe16e1e33f6e83e80c
+size 226

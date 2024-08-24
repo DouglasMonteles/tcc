@@ -1,1 +1,3 @@
-Realização, pela Casa, de seminário sobre o aprimoramento da Lei Geral da Micro e Pequena Empresa (Lei Complementar nº 123, de 2006).
+version https://git-lfs.github.com/spec/v1
+oid sha256:319f08a87d9323e24ad72b126c32d0400073fd57bc33220ab5fb31bcbb52ba53
+size 137

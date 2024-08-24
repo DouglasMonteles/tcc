@@ -1,1 +1,3 @@
-Apoio da população do Estado do Rio Grande do Sul à reforma previdenciária. União da bancada do PSL.  Apoiamento do partido à proposta de reforma da Previdência Social e ao projeto anticrime elaborado pelo Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa3453bde0dfae1b3304f51a8dd13a890c7c039e77893a475f42860bfe4eb0d
+size 270

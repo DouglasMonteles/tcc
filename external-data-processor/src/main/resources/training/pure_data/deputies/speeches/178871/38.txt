@@ -1,1 +1,3 @@
-Inconformismo com a publicação, pela Companhia Nacional de Abastecimento - CONAB, de edital de leilão para a importação de café conilon pelo Brasil. Encaminhamento de ofício ao Presidente da República, Michel Temer, com pedido de suspensão do edital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a29dc097d233907740446672560dea6c0586c4bf97abf593f29c735d66e63b4d
+size 259

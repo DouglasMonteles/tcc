@@ -1,1 +1,3 @@
-Regozijo com a aprovação da medida provisória sobre a criação da política de preços de mínimos do transporte rodoviário de cargas. Criação de associação dos caminhoneiros autônomos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fad01ff5de4d0424aab164dc381d8fbffcbf8613b4dae9c646ec5a959f87ab1
+size 195

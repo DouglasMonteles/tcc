@@ -1,1 +1,3 @@
-Assinatura de convênios e inauguração de obras pelo Presidente Luiz Inácio Lula da Silva e Ministros de Estado por ocasião da visita a Municípios situados nas regiões leste e nordeste do Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:187e06f384490cea2fc18d7ea67dc410991bba1d0f108fb84ae0878a05aaa19f
+size 217

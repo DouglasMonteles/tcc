@@ -1,1 +1,3 @@
-Defesa da aprovação do projeto e das emendas de Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ed84fed9b0e3ce6c68b590bb59bb69084f13707d06d5d2a1cb7817a905c16ee
+size 60

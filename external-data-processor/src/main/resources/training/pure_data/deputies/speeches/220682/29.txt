@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Fiscalização Financeira e Controle, de requerimento de convite à Juíza Gabriela Hardt, da 3ª Vara Federal de Curitiba, do seu genitor Jorge Hardt Filho e outros, para esclarecimento ao órgão da retirada das dependências da PETROBRAS, de forma ilegal, da tecnologia desenvolvida pela estatal para extração de óleo combustível de rochas de folhelho betuminoso, também chamado de xisto betuminoso (processo Petrosix).
+version https://git-lfs.github.com/spec/v1
+oid sha256:84209b5c51ff594a6749c2dff03840133d4675003e01d487d64b4cc5eee45708
+size 458

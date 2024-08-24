@@ -1,1 +1,3 @@
-Participação no Seminário Internacional Agronegócio em Moçambique: Cooperação Brasil-Japão e Oportunidades de Investimento, realizado em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56393f8f493eb6e1b5fb2f4eaa8eaec6260e12109a18b0e172ca00bdbd5f0dca
+size 178

@@ -1,1 +1,3 @@
-Concessão pela Casa do Prêmio Brasil Mais Inclusão, destinado ao reconhecimento de ações de empresas, entes federados, entidades ou personalidades em prol da inclusão de pessoas com deficiência. Congratulação à Associação Jacarezinhense de Atendimento ao Deficiente Auditivo e Atendimento ao Deficiente Visual - AJADAVI pela obtenção do 2º lugar na premiação na categoria Empresas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:938fe6d99627a1df010bddadd36d3a7498c8aa4c06c39ad8acc303fd0c74419f
+size 398

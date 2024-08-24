@@ -1,1 +1,3 @@
-Presença na Casa dos alunos do Colégio Madre Carmen Sallés, de Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e56b424ed86cecdac089384b6636e319178f0c504bc14a7d667e2953c07bc380
+size 94

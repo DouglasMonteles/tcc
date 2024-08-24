@@ -1,1 +1,3 @@
-Impossibilidade de realização de acordo com o PT. Solicitação de presença dos Deputados do DEM em plenário. Agradecimento pela presença na Câmara dos Deputados do Vereador Isaías de Oliveira, do DEM do Município de Três Rios, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa50abfc77bb2693803d5571bb7884d7c04bb3c8122dffe22bbaa46ede743438
+size 262

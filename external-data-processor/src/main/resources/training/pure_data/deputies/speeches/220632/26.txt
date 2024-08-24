@@ -1,1 +1,3 @@
-A Deputada encaminhou a votação do inciso II, do artigo 2º, do Substitutivo ao Projeto de Lei nº 2.721, de 2023, que dispõe sobre a prestação de serviços postais aos órgãos públicos federais da administração direta e indireta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edf1ff959a98566ffa81dd1f22164c4ec3029f6c6ce4198f59cdb3dad34914c9
+size 239

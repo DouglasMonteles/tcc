@@ -1,1 +1,3 @@
-Eleição do Deputado Pedro Fernandes para o cargo de Presidente do Diretório Estadual do PTB no Maranhão. Anúncio de realização, pela Confederação Brasileira de Aposentados e Pensionistas - COBAP e pelo Movimento dos Servidores Públicos Aposentados e Pensionistas - MOSAP, de vigília em defesa da aprovação pela Casa de proposições de interesse da classe, em Brasília, Distrito Federal. Lançamento do livro Nova Aposentadoria, de autoria do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd059588f94eb00b0be7952f27917b74c4c4c65fde748efabf1bfa1eb6fe8187
+size 464

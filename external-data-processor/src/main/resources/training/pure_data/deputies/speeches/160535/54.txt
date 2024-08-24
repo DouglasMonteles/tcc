@@ -1,1 +1,3 @@
-Apoio à decisão do Comando da Aeronáutica a respeito da aquisição, pelo Governo brasileiro, de submarino de propulsão nuclear, de helicópteros e de aeronaves tipo caça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa05dcb0cc8186ba4be4a33340e9f7972d0b3dfe7bcf589af642d5d705d26e49
+size 176

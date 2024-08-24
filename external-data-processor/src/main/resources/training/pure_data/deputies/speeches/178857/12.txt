@@ -1,1 +1,3 @@
-Sessão Solene em homenagem a um ano de promulgação da Lei nº 12.994/14, que instituiu o piso salarial profissional nacional e as diretrizes para o Plano de Carreira dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:539a67cb56bd6a2cd17fb10a587ebe7be0bbf375e9c1a3478c1fff29a4ffc9b0
+size 392

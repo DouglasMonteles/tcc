@@ -1,1 +1,3 @@
-Indicação do Procurador-Geral de Justiça do Estado do Amazonas, Mauro Campbell Marques, para o cargo de Ministro do Superior Tribunal de Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3cd6d5a5de3288b7cb1a90e164c5b7ae6f37d569d22b4fd2cb93ec631dfd42a
+size 149

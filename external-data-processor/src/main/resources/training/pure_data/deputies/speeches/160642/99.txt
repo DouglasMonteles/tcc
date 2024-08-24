@@ -1,1 +1,3 @@
-Congratulação ao Presidente Henrique Eduardo Alves pela condução dos trabalhos da Casa. Protesto contra a abstenção de voto no processo de cassação do mandato do Deputado Natan Donadon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51701a39e96e54f1871d6d3f221ad8e18afc8c57b528a7775ec8a561b3957904
+size 193

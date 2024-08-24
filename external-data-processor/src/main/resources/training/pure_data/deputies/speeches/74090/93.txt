@@ -1,1 +1,3 @@
-Anúncio pelo Ministro de Minas e Energia, Edison Lobão, da implantação de programa emergencial de geração de energia elétrica no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76aca2a8b4c3816885c48de665cbe15feccba4f2c7255c7c7332d01a8e28dd1f
+size 155

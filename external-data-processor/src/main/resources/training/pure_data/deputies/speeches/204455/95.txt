@@ -1,1 +1,3 @@
-Apoio ao Projeto de Lei nº 2.336, de 2021, sobre a alteração da Lei nº 9.615, de 1998, relativa às normas gerais do desporto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb5e8f5d85dfceb219005a23854682bbe990b2e004fc31087ff3747dafeece0a
+size 130

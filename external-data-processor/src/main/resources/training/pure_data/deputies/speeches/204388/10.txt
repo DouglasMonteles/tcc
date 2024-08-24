@@ -1,1 +1,3 @@
-Apoio à proposta de reforma previdenciária apresentada pelo Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a846abeac16df7bcb9fbe20adc0ebd3b9bfde23f627ebf678ce07997be0bf82
+size 88

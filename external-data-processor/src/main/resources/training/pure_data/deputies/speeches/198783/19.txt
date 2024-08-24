@@ -1,1 +1,3 @@
-Crise política reinante na Bolívia. Apelo às autoridades brasileiras de adoção de medidas em prol dos estudantes brasileiros naquele país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b20a0cda94fa4b6f2aaeb4d121ccc9eb810c3a258c34dc0d14ebfb3ff0c04df
+size 144

@@ -1,1 +1,3 @@
-Situação caótica da área de segurança pública no Estado de Roraima. Inércia do Governador José de Anchieta Júnior com relação à greve de policiais civis e agentes carcerários. Imediata votação pela Casa do substitutivo oferecido pelo Deputado Aldo Rebelo à proposta de criação do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91928e4672e84cdb326009d50f78c6c897487d1d11357b49e8ad321e6684cee0
+size 332

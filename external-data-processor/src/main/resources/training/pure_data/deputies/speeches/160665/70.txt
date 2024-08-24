@@ -1,1 +1,3 @@
-Defesa da redução de gastos pelos Poderes da República, especialmente com a folha de pagamento do pessoal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e29e287559652b9872a31437f8e5519d0abed5bc2d5362497ae3332e36e37e7c
+size 109

@@ -1,1 +1,3 @@
-Aprovação pelo Senado Federal de proposta de capitalização da PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11f71d51bf7892747c54ad95c449d6bffeae1e6c6f539d8d88285364c219e307
+size 76

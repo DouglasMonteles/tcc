@@ -1,1 +1,3 @@
-Solicitação aos Deputados do PT de comparecimento ao plenário. Realização do 17º Grito da Terra Brasil, promovido pela Confederação Nacional dos Trabalhadores na Agricultura - CONTAG. Anúncio, pela Presidenta Dilma Rousseff, de destinação de recursos financeiros para a agricultura familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f269371bae05364d7ebba137cea6d77e9bc8acfffe6d289ee266c80da3aba144
+size 302

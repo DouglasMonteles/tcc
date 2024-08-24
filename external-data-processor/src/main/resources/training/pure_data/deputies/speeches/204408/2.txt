@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 16 da Lei nº 12.414, de 2011, com a redação dada pelo art. 2º do Substitutivo apresentado ao Projeto de Lei Complementar nº 441, de 2017, sobre os cadastros positivos de crédito e a regulação da responsabilidade civil dos operadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79ba839063814264c5d37b805f3268d0254762011eeb488fc01cdee93dbc96a0
+size 341

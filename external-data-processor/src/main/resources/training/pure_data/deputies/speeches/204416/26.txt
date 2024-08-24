@@ -1,1 +1,3 @@
-Aplausos ao Presidente Jair Bolsonaro pelos vetos apresentados a projeto de lei sobre os crimes de abuso de autoridade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06e571c74ae5c4cf0eacffc6be39d9416844ad51561c45e819f9ec8631e63628
+size 119

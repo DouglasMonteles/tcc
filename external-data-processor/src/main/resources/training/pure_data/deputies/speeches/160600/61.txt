@@ -1,1 +1,3 @@
-Anúncio da apresentação de substitutivo ao Projeto de Lei nº 4.330, de 2004, acerca do contrato de prestação de serviços a terceiros e as relações de trabalho dele decorrentes, em tramitação na Comissão de Constituição e Justiça e de Cidadania. Irreversibilidade da terceirização no País. Principais tópicos do substitutivo apresentado pelo orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68424e1e8daba5911f5991367f45356c8a74bcc7bc5ee09f9e6ca2c92b8115dd
+size 367

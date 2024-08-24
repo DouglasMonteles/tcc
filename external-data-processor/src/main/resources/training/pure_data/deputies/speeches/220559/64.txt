@@ -1,1 +1,3 @@
-A Deputada discutiu a Medida Provisória nº 1.187, de 2023, que cria o Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte. Sugeriu que a proposta visa apadrinhar aliados do governo e acusou o governo de buscar arrecadação constante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:798722648f3c51dd76046e31899896015dab590bcc37b6c6d29b3ddfc032e224
+size 263

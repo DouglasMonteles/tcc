@@ -1,1 +1,3 @@
-Comemoração dos 500 anos da Confissão Luterana. Presença significativa da comunidade luterana no Estado do Espírito Santo. Realização da 6ª Festa da Família, no Município de Afonso Cláudio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60cb5c6c98106dcc671295cf67d31939501e8d5d9aff2b8796968df4fdcee5bf
+size 200

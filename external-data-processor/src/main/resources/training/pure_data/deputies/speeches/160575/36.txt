@@ -1,1 +1,3 @@
-Associação da oradora ao discurso proferido pelo Deputado Cláudio Puty a respeito de preconceito praticado por emissora de televisão. Elogio à Secretaria de Cultura do Governo do Distrito Federal pelas festividades realizadas por ocasião do 51º aniversário de fundação de Brasília.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5899048f878d12dacfb6ba4328d4162b3ee49a806f94e9f239a7d4b655dc2d28
+size 292

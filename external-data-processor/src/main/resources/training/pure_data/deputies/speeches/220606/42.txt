@@ -1,1 +1,3 @@
-Perplexidade ante a reclamação de Deputados contra a redução dos preços de combustíveis e do gás de cozinha e o reajuste do salário mínimo acima dos índices inflacionários. Cumprimento da decisão do Tribunal Superior Eleitoral de cassação do mandato parlamentar do Deputado Deltan Dallagnol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c232e41cc076bfe5fae963fab300e1e4f0f7b384f9073231ec8c7b80f06ec81
+size 305

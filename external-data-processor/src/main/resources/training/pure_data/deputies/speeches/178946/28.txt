@@ -1,1 +1,3 @@
-Agradecimento ao Presidente da sessão, Deputado Edson Moreira, pela concessão do uso da palavra à bancada feminina para divulgação da campanha Outubro Rosa, destinada á conscientização sobre a importância da prevenção do câncer de mama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0920cb1e80a3773c8452b71cb7e757ec5f15750b0219741f1904f35bb185142e
+size 248

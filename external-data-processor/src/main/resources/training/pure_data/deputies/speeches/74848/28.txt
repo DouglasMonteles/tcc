@@ -1,1 +1,3 @@
-Transcurso do 5º aniversário de promulgação da Lei Maria da Penha, coibitiva da violência doméstica contra a mulher. Elevação dos índices de violência contra as mulheres no Brasil. Luta da oradora pela efetiva implementação da Lei Maria da Penha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaf5ab056a8507d8bd3005288ffee1ea25a57a6dd26fc865a64ff1723002350a
+size 258

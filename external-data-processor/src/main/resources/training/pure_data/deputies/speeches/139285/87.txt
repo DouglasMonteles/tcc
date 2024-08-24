@@ -1,1 +1,3 @@
-Falecimento da Profa. Neide Marques, da Faculdade de Administração da Universidade Federal da Bahia. Visita do Presidente Luiz Inácio Lula da Silva a Salvador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6499835e23c791f552a2979036d3860e925be6963aa50718519259743abdd6e0
+size 162

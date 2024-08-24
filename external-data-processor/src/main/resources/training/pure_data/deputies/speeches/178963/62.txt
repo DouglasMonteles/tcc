@@ -1,1 +1,3 @@
-Solicitação à Presidência de liberação do acesso às galerias do plenário aos trabalhadores caminhoneiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcc9ff91add0ce6575e1fad69540388f241dcc6771c5715a992f1930415a6df4
+size 113

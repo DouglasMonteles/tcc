@@ -1,1 +1,3 @@
-Elogio à Ministra do Turismo, Daniela Carneiro. Exploração do potencial turístico do Distrito de Raposos, no Município de Itaperuna, Estado do Rio de Janeiro. Dificuldades da Prefeitura Municipal de Búzios para atendimento médico à população flutuante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e408a031f7607d9c893956464eb923363f965f4f4d2e428143c217acaf6120d3
+size 262

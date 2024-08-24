@@ -1,1 +1,3 @@
-Precariedade de investimentos do Governo Dilma na área de ciência, tecnologia e inovação. Fortalecimento da Fundação de Amparo à Pesquisa de Minas Gerais - FAPEMIG e do Sistema Mineiro de Inovação - SIME pelos Governos Aécio Neves e Antonio Anastasia. Êxito da gestão do Secretário-Adjunto de Ciência, Tecnologia e Ensino Superior de Minas Gerais, Evaldo Ferreira Villela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65abd985ba912b173b26d449cf0b219b31cb9107a3b4c6b33f5582938be6e8f9
+size 386

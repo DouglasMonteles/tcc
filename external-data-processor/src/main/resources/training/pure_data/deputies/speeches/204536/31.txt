@@ -1,1 +1,3 @@
-Reação dos partidos oposicionistas contra a não participação em coletiva de imprensa concedida por partidos políticos favoráveis à reforma previdenciária. Inocuidade da resistência da Oposição contra a reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba104df4b62f98a30fbe14c0c2b810fe7cd774fcd20642aa22f7853724772910
+size 245

@@ -1,1 +1,3 @@
-Realização, pelo Ministério da Educação, de eventos com a participação de Prefeitos no Distrito Federal. Saudações a Prefeitos do Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18a2f9a15dfbab72622bce7e2c81907550c84952aaa683a86d9fff55fea7b6dd
+size 158

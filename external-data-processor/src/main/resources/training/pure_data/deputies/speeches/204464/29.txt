@@ -1,1 +1,3 @@
-Solidariedade ao Deputado David Miranda e ao jornalista Glenn Greenwald. Parcialidade do Ministro da Justiça e Segurança Pública, Sergio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51532eb892635971a049cacab4bb75f9516cd1d2a021dc27460a491fc6bfd600
+size 145

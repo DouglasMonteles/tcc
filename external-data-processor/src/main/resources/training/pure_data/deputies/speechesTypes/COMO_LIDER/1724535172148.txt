@@ -1,1 +1,3 @@
-Defesa da instalação de usina de dessalinização no Estado de Sergipe, em primeiro lugar, com relação aos outros Estados da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:515fc9d10f6b963152e8f76fe8d8fc401e65247c22e2897efeaf2a39d6d6ccce
+size 146

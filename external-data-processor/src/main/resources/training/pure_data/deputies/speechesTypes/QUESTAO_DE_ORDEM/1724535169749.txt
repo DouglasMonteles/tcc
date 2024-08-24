@@ -1,1 +1,3 @@
-Saudação à Presidenta interina da Casa, Deputada Rose de Freitas. Apreciação da proposta de criação da Comissão Permanente da Mulher da Câmara dos Deputados. Solicitação à Presidência de fortalecimento da Procuradoria da Mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e5353d570a783802d2372e71bc9876130882466aabced4ef0b3782e075d30dc
+size 241

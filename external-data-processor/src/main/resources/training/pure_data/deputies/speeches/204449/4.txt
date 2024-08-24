@@ -1,1 +1,3 @@
-Denúncia de invasão da gleba Pecuama, no Estado de Mato Grosso, comandada pelo militante condenado pela Justiça, José Rainha Júnior. Inconsistência de afirmações sobre o posicionamento do Presidente Jair Bolsonaro contrário à reforma agrária. Prestação de assistência governamental aos assentados pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA, em Mato Grosso. Empenho do Governo Jair Bolsonaro na documentação de terras de trabalhadores rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d3ce8ee1f3b613c92904a2d6cca86dde8714fb001b461fd1ab0af6d9fe167c4
+size 482

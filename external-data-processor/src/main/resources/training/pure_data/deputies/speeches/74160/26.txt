@@ -1,1 +1,3 @@
-Razões do posicionamento do orador contrário à privatização das Centrais de Abastecimento de Minas Gerais S/A - CEASA. Não comparecimento do Secretário Especial de Desestatização, Desinvestimento e Mercados, Diogo Mac Cord de Faria, à audiência pública na Assembleia Legislativa de Minas Gerais destinada ao debate da desestatização da Ceasa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:733f81248ad2b40c593413f2aaab1ab8b0b8ea6c9e37daa630000ae2c6c13536
+size 356

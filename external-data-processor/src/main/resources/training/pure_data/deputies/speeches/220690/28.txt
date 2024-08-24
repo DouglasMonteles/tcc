@@ -1,1 +1,3 @@
-Posicionamento sobre matéria publicada por órgãos da imprensa brasileira relativa ao maior número de mortes causada pela polícia do Estado da Bahia em relação às mortes de responsabilidade de todas as polícias dos Estados Unidos da América. Atuação corajosa das forças de segurança pública da Bahia no combate ao crime e à violência, a despeito da leniência do Governo petista com facções criminosas. Expectativa de reconhecimento e valorização dos policiais baianos pela sociedade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85a5742244f9d987e9b820ff579b8c90e2323aa93e740d2382ffeaa98cd5f1f7
+size 504

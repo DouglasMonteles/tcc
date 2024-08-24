@@ -1,1 +1,3 @@
-Solicitação, às autoridades da área de segurança pública do Governo Federal e do Governo do Estado da Bahia, de adoção de medidas para garantia da integridade física de quilombolas da comunidade remanescente do quilombo de São Francisco do Paraguaçu, no Município de Cachoeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:324be420cc47998dc8a2883abef54ac9ff81fd2169c0816db077f08e690a5b47
+size 289

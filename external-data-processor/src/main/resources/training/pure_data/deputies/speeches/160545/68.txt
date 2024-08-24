@@ -1,1 +1,3 @@
-Manutenção de obstrução pelo Democratas até resolução de impasse sobre a votação da Medida Provisória nº 632, de 2013.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10fcb77cbb7af58d2709ba26790f66837e6579bcd9bf86795c78f4e68969bfd6
+size 129

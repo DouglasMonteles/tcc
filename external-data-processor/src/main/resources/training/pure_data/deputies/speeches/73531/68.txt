@@ -1,1 +1,3 @@
-Artigo A tortura é a verdadeira herança maldita, do jornalista Elio Gaspari, publicado pelo jornal O Globo. Omissão do Governo Luiz Inácio Lula da Silva na punição de acusados da prática de tortura durante o regime militar. Vitória do Presidente Evo Morales em referendo revogatório na Bolívia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37a3901862f322f7bebd96952ff668f45cb459dddb6dafab9b44602986e6f372
+size 304

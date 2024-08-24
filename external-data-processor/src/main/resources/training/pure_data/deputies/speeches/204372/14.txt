@@ -1,1 +1,3 @@
-Realização, pela Casa, de sessão solene ao ensejo do transcurso do 80º aniversário de fundação da Confederação Brasileira de Desporto Universitário - CBDU. Lançamento do filme Nada a perder 2, sobre a vida do Bispo Edir Macedo, fundador da Igreja Universal do Reino de Deus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba5d184190bd5f51f295724e2065f32e07aaace935235273049194f449bbd528
+size 285

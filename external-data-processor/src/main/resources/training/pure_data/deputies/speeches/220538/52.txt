@@ -1,1 +1,3 @@
-Transcurso do 75º aniversário de fundação do Jornal do Comércio, do Estado do Rio Grande do Sul. Efeitos da estiagem do Estado. Defesa da adesão do Rio Grande do Sul ao Sistema Unificado de Atenção à Sanidade Agropecuária - SUASA. Apoio às reivindicações das entidades representativas do setor primário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4173d9f908ceea206e3ee2146988fc2cb1b38cba32b92b67c757559bcfb5ebe
+size 317

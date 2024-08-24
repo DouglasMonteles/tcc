@@ -1,1 +1,3 @@
-Reflexos da crise financeira mundial na agricultura brasileira, notadamente sobre o setor de fertilizantes. Reexame do sistema brasileiro de crédito rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcb4787f69a514a70ea1e3267dc93b9dc0c53b2f99f1f8b96480fe27c33d1a7a
+size 156

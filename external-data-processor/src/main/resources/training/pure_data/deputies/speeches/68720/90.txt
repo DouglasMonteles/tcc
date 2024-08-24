@@ -1,1 +1,3 @@
-Repúdio à Portaria nº 338, de 2019, editada pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia, sobre a padronização dos sensores de velocidade de taxímetros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b48d86037dacbb2771726617ff744d6cff3f8f6f8053a1725170d5b84537ac2
+size 175

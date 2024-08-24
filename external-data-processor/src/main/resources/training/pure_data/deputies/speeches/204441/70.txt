@@ -1,1 +1,3 @@
-Deturpação de ensinamentos da Bíblia Sagrada pela Deputada Benedita da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecdd8a8c519e8bc70d12d25eb054cb3f793f5b997159d413fa8c9da9750393f5
+size 80

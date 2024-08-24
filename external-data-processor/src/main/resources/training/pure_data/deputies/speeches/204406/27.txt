@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 6.001, de 2019, sobre alteração da Lei nº 8.080, de 1990, sobre a obrigatoriedade da divulgação anual dos critérios e dos valores para a remuneração de serviços e dos parâmetros de cobertura assistencial no Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72b0140cee2582b7495037579a7eed42a4524ca4e8eece424b1570acca7851e4
+size 290

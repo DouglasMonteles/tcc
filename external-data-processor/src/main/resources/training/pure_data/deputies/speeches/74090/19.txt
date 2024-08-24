@@ -1,1 +1,3 @@
-Prejuízos causados a Estados pela cobrança do ICMS no destino, conforme preconizado na proposta governamental de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e8a1b971d88d59897d7a9780f9f979c35420a962637b9119d28c5b4fd6fce15
+size 135

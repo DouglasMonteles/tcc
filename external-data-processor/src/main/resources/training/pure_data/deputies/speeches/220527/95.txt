@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do artigo 1º do Projeto de Lei nº 4.035, de 2023, que institui Agosto como mês de combate às desigualdades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a88fe4e79d49b90bb17774d6f12245e4d1754f8a716be2e3fd9c9454c38f629a
+size 154

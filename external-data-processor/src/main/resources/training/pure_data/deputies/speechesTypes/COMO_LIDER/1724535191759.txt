@@ -1,1 +1,3 @@
-Necessidade de imediata votação Proposta de Emenda à Constituição nº 443, de 2009.
+version https://git-lfs.github.com/spec/v1
+oid sha256:124b0ae31ccb82ca63762d0e37075544530803f667d90255c01b388f5076a116
+size 88

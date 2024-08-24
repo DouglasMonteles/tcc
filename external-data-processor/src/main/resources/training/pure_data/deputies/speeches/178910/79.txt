@@ -1,1 +1,3 @@
-Colaboração dos operadores do Porto de Barcarena, Estado do Pará, com investigações sobre naufrágio de navio com cabeças de gado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bde13d7d832cdc5b759b087da240304deb502081f6c74018a0bce1c4992e5c37
+size 136

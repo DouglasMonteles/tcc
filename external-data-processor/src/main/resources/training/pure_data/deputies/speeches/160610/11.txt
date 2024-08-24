@@ -1,1 +1,3 @@
-Comemoração do 20º aniversário de criação do Movimento dos Atingidos por Barragens. Transcurso do Dia Mundial da Saúde. Lançamento, por entidades da sociedade civil, de campanha permanente contra o uso de agrotóxicos no País. Defesa de banimento do uso de defensivos agrícolas nas lavouras brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6692b27705cbd8dee92826030d6ad6b4e37b64096fb143730846ac58c760868
+size 313

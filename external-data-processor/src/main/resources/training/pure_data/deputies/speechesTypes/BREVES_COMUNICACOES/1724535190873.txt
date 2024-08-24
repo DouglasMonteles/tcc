@@ -1,1 +1,3 @@
-A Deputada esclareceu os motivos que determinaram o seu voto contrário à proposta de minirreforma eleitoral: reduz a transparência do processo eleitoral; enfraquece a Lei da Ficha Limpa, marco no combate à corrupção política; flexibiliza punições para quem comete crimes eleitorais; prejudica a cota feminina, ampliando a desigualdade de gênero na política. A oradora afirmou que trabalha por uma política transparente, ética e democrática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d47e83deb04315bfa3cf013b66e0ad2b8f863d4fffe0396bdfa43c1a3d775c06
+size 454

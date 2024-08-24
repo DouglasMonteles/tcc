@@ -1,1 +1,3 @@
-Greve dos trabalhadores da educação no Estado de Minas Gerais. Greve dos professores de universidades federais. Apelo ao Ministro da Educação, Aloizio Mercadante, de busca de solução para o movimento grevista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b345ccae95d31e9481b760824ea13003afbeda4f3ad2f217735212ac62573f3
+size 215

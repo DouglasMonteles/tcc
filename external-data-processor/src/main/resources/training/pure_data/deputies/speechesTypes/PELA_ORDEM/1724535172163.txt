@@ -1,1 +1,3 @@
-Agradecimentos ao povo paraense pela eleição do orador. Necessidade da realização de obras de infraestrutura rodoviária e portuária no Estado do Pará. Retomada das discussões sobre as eclusas da barragem de Tucuruí. Prejuízos causados pela Lei Kandir ao Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e17b1a673617fb3c3c170dc02577f631957c0044ecc16901ac019bbe916cec48
+size 280

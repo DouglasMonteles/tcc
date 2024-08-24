@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Márcio Jerry. Inexistência, no âmbito do Governo Jair Bolsonaro, de propostas para enfrentamento da crise econômica brasileira. Apresentação, pelo PT, do Plano Emergencial de Emprego e Renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cd8a89bf81a940bc435a2cfbef9bb8e7fe5aaa78fcd3990bbd2174952c3b23a
+size 223

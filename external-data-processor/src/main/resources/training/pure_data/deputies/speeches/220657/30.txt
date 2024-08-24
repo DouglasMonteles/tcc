@@ -1,1 +1,3 @@
-Anúncio da data da sessão do Congresso Nacional destinada à leitura do requerimento de criação da CPMI de investigação dos atos de vandalismo praticados contra as sedes dos Poderes da República. Oferecimento, pelo Presidente Luiz Inácio Lula da Silva, de emendas e cargos a Parlamentares para retirada de assinaturas do requerimento de abertura da CPMI. Promessa de divulgação dos nomes dos Parlamentares optantes pela retirada de suas assinaturas do requerimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85b208246c0c3aacbfbc1010f278b1edd2b9abb99d92548b78d2c26eee9da6ac
+size 475

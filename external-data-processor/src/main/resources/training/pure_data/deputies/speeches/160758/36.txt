@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Aldo Rebelo diante de críticas à sua conduta na elaboração do parecer ao projeto de lei sobre a revisão do Código Florestal brasileiro. Protesto contra o adiamento da votação da matéria. Conveniência de encaminhamento à Casa, pelo Poder Executivo, de nova proposta de distribuição de royalties de petróleo da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f9f1c1700ff675fe7e7baa657fc8c4f42148075c049e7fce0a51ed0690d5465
+size 365

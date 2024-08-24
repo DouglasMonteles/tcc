@@ -1,1 +1,3 @@
-Presença na Casa do chefe de gabinete do Deputado Estadual Ciro Simoni, do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ca67e19a0c61455b0264b8f4cc9b804b5933a9a8dc6c31f8eaf1370509a7ad1
+size 94

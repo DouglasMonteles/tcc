@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Nilmário Miranda, contrário à pretendida redução da maioridade penal. Comemoração do 30º aniversário de fundação da entidade Agentes de Pastoral Negros do Brasil, no Município de Maceió, Estado de Alagoas. Alto índice de crimes praticados contra a juventude em Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07cd39bc2f60529e544629a9dd554de506ad0fad47fd650d89f61fbb54b846e8
+size 326

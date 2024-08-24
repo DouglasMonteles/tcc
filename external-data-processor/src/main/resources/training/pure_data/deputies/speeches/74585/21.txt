@@ -1,1 +1,3 @@
-Cobrança abusiva de tarifas bancárias no País. Repúdio à cobrança, pelo sistema bancário, de taxas de abertura de crédito e de liquidação antecipada de empréstimos sobre transações financeiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8a3c46d25e8179ed4d95f80599c5f7db61b8882d7eac27347d50661207ab0d0
+size 206

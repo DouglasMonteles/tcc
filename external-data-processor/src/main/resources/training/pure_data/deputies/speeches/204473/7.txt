@@ -1,1 +1,3 @@
-Repúdio à atuação do Movimento dos Trabalhadores Rurais Sem Terra - MST. Apelo às autoridades competentes de adoção das medidas necessárias para a retomada das exportações de peixes, crustáceos e frutas pelo Porto de Natal, no Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58aa8c29d4beb00bd0d5ec338bf679a6e6eca735ec433c321577de56995a7f47
+size 268

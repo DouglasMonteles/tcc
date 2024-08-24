@@ -1,1 +1,3 @@
-Inadmissibilidade de aprovação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 490, de 2007, sobre a alteração da Lei nº 6.001, de 1973, relativa ao Estatuto do Índio. Contrariedade à adoção da tese do marco temporal na demarcação de terras indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a811f249f9f4c0bd9268f49ad80e1f26660cee75e2caf27b5074e71ae0e10428
+size 292

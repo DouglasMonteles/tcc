@@ -1,1 +1,3 @@
-História da independência do Estado da Bahia do jugo português. Balanço de ações governamentais em prol do desenvolvimento socioeconômico do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69493d6c5083e9604eee891376146602ce64e6a6fbef75c7c848a94984da09cd
+size 155

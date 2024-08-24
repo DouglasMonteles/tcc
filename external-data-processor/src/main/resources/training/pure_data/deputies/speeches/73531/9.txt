@@ -1,1 +1,3 @@
-Repúdio à ação militar realizada pelo exército colombiano no Equador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e42250873616d1f1d46ad83cfe221fc9bd2799c10445220665ca33a30d09e79
+size 74

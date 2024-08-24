@@ -1,1 +1,3 @@
-Regozijo com a mudança de governo com a eleição do Presidente Luiz Inácio Lula da Silva. Realização da Marcha das Margaridas em Brasília, Distrito Federal, com pautas como luta por direitos, emprego, igualdade de gênero, políticas públicas e reforma agrária. Papel das mulheres como protagonistas de conquistas sociais, lutando por coletividade, emprego, saúde, meio ambiente e direitos humanos. Dificuldades enfrentadas pelas mulheres em crises econômicas e políticas, especialmente as mães, negras e das periferias. Saudações às Margaridas de todo o Brasil pela luta quanto à preservação dos direitos e reivindicação de projetos futuros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72bca33c022951755cf545b3da2d711bf01e9713d0ab901c53fe0d2cf2e910cf
+size 662

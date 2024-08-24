@@ -1,1 +1,3 @@
-Redução dos recursos federais destinados aos Municípios brasileiros. Acerto da aprovação pela Casa da Proposta de Emenda à Constituição nº 391, de 2017, relativa ao disciplinamento da distribuição, pela União, de recursos ao Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32df0daf58ebb4810a6f911918b8304c8fd4d8116bf5ba62ee8aa716e79e7fcf
+size 283

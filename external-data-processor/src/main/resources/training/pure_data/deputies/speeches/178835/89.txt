@@ -1,1 +1,3 @@
-Presença na Casa do Vereador Mário Fraga, da Câmara Municipal de Porto Alegre, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f759dd30f79ebc7c872e74639fc434859a2daf2462a0d42203065dec5596e7c
+size 110

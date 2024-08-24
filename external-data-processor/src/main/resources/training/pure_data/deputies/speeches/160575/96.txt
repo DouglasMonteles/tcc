@@ -1,1 +1,3 @@
-Homenagem aos professores brasileiros. Resgate de direitos da infância. Esclarecimento ao Deputado Izalci sobre os gastos de regiões administrativas do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6799e8c5185deae24481f4a41677c7ae5d24439969c8b89681e2123542361ef
+size 171

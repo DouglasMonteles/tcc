@@ -1,1 +1,3 @@
-Comemoração do 76º aniversário do Sindicato dos Trabalhadores em Educação Pública do Paraná - APP/Sindicato. Críticas à gestão do Governador Ratinho Junior na área educacional. Repúdio à sanha privativista do gestor estadual. Luta da Esquerda contra o trabalho infantil e pela garantia de direitos dos trabalhadores brasileiros. Transcurso do Dia do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:098d751feb7f83c0a0c8acebfbe80a6cab272a07e8a1227d60912da5e1b661ce
+size 373

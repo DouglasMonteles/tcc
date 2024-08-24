@@ -1,1 +1,3 @@
-Recuperação da credibilidade do Brasil junto à comunidade internacional pelo Presidente Luiz Inácio Lula da Silva. Defesa de aprovação do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).
+version https://git-lfs.github.com/spec/v1
+oid sha256:02a96c5b57384e4d382e53abf97b8ec7c34bf0380dd40e06f4aeb21a57de9814
+size 310

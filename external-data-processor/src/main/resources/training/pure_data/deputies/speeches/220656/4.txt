@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Ministro da Agricultura, Alysson Paulinelli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e002e3149afa7d70bc44236806cfe43a1fd3c4f069cc17df6cb46bbc25198d0a
+size 69

@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do substitutivo ao Projeto de Lei nº 3.974, de 2015, que dispõe sobre direito a dano moral e concessão de pensão especial à pessoa com Microcefalia ou com Síndrome de Guillain-Barré, decorrentes do Zika Vírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc875f9d13d22936365d54c47a61e370485a4528501db1fa1cfba9ffb500bb26
+size 260

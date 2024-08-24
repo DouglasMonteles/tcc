@@ -1,1 +1,3 @@
-Expectativa de revisão, pelo Supremo Tribunal Federal, de decisão prejudicial ao ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa45816e2dd54f2eeae745727f65521f1bdfe3833250f2194d70f829724eb265
+size 124

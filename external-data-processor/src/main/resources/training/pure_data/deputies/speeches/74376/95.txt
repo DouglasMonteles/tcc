@@ -1,1 +1,3 @@
-Transcurso do 35º aniversário de fundação da Federação dos Trabalhadores em Educação de Mato Grosso do Sul - FETEMS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:457899ac39be4ec602e43991d87add454f9d1810ad996587645a81694a1ee506
+size 124

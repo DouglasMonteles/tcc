@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Governador do Estado do Tocantins, Siqueira Campos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df69be1b5437a4b3118872e8515baa52d44344da9959aedc3d1ff739642be025
+size 76

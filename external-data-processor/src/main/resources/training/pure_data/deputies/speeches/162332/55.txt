@@ -1,1 +1,3 @@
-Elevada carga tributária vigente no País. Elogio à Associação Comercial de São Paulo, Estado de São Paulo, pela instalação do chamado impostômetro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d777c76069a55bf7f093f98a6fc0a5084e48a5cd4bf0de68a7dd708bb1109bf2
+size 157

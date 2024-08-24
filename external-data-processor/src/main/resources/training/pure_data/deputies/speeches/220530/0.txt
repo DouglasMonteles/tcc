@@ -1,1 +1,3 @@
-Agradecimento à população do Estado do Espírito Santo, a lideranças políticas, religiosas, comunitárias e empresariais pela eleição do orador. Eficiência da gestão do Prefeito Euclério Sampaio, do Município de Cariacica. Preservação dos valores familiares e da vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad501cb37c927e3f46dc5e7a018874928290c40d8e7eda9087b914997be469f9
+size 281

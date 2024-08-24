@@ -1,1 +1,3 @@
-Contestação à nota do ex-Governador do Estado do Ceará, Cid Gomes, sobre perseguição política na aplicação de multa pelo Instituto Chico Mendes de Conservação da Biodiversidade - ICMBIO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38a7467bb6b86a50ace27f1d244d2a3347c3a9387284b99ab22cd9dda9786d17
+size 197

@@ -1,1 +1,3 @@
-Anúncio pelo Ministro da Pesca e Aquicultura, Altemir Gregolin, da instalação de fábricas de gelo no País. Produção de pescados no Estado da Bahia. Aprovação da proposta de criação do Estatuto da Igualdade Racial pela respectiva Comissão Especial. Apresentação do Projeto de Lei nº 6.072, de 2009, sobre o Conselho Comunitário de Trânsito dos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7baef2224d881b4d22cfa8c865926ebfc3a18332f600091fd74226e4dc6bd13
+size 372

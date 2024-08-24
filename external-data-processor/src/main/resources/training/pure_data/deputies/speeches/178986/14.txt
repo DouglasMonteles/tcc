@@ -1,1 +1,3 @@
-Anúncio, pela Presidenta Dilma Rousseff, das metas do Brasil para a 21ª Conferência das Nações Unidas sobre Mudanças Climáticas - COP 21.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97270beea5d67f95ff04da26a157760f59c0f00405911f5e9458e732ff0749f0
+size 144

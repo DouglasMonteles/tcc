@@ -1,1 +1,3 @@
-O Deputado considerou como uma vitória na votação da Lei de Diretrizes Orçamentárias (LDO) o impedimento de direcionamento de recursos públicos para pautas ativistas. Ressaltou a importância de garantir que os recursos sejam direcionados para áreas prioritárias, como saúde, educação e segurança.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36e0f6c6d62af9b04073b16173e3743df02bf137d28e6916b965055bc4a377c5
+size 309

@@ -1,1 +1,3 @@
-Presença no plenário da paciente Ailana Tessaro Bitar, do Hospital Sarah Kubitschek em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d2d2e19499257ae21de27519718ffe8c31e44f1704de47e7aa368ab42d83cd5
+size 117

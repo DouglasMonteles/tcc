@@ -1,1 +1,3 @@
-Conotação política da transferência do médico Abmael de Sousa Lacerda, conhecido como Dr. Veríssimo, do Hospital Regional Senador Ruy Carneiro, no Município de Pombal, para a Secretaria Municipal de Saúde de João Pessoa, Estado da Paraíba. Apelo às autoridades competentes para revisão da iniciativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd21e18f8553eefcc918ed224cab19bb37526ceb5bf9659ebb485c4d66bc03bd
+size 312

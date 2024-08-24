@@ -1,1 +1,3 @@
-Distorções da Medida Provisória nº 809, de 2017, sobre a alteração da Lei nº 11.516, de 2007, relativa à criação do Instituto Chico Mendes de Conservação e Biodiversidade - Instituto Chico Mendes, e da Lei nº 7.957, de 1989, relativa à tabela de pessoal do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA. Sacrifícios impostos à população brasileira pelo Governo Michel Temer. Elevação dos índices de desemprego no País após a aprovação da reforma trabalhista. Natureza arbitrária da prisão do ex-Presidente Luiz Inácio Lula da Silva. Razões da não aprovação da reforma previdenciária. Apoio à candidatura do Líder petista à sucessão presidencial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5525c70a8f54a575a68d197b15a5396d74061cf845c83609417fb83f9c87042
+size 718

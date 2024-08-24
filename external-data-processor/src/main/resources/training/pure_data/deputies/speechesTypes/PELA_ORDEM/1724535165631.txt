@@ -1,1 +1,3 @@
-Maior atenção do Prefeito Municipal de São Paulo, Ricardo Nunes, para com a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50d4e13ebf27ff953b56c4c846fd9f58e77bf4af68b02d60997ae2735099acab
+size 95

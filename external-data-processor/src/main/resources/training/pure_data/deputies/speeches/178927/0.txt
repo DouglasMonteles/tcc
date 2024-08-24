@@ -1,1 +1,3 @@
-Regozijo com a eleição do orador. Críticas ao sistema político brasileiro. Repúdio ao desrespeito do Governo do Estado do Paraná aos professores estaduais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3214d2b96515f74cdd7be8e07e0263aafde19128bad723bf98e70c668b10a204
+size 161

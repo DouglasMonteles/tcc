@@ -1,1 +1,3 @@
-Congratulações ao Governo Luiz Inácio Lula da Silva pela adoção de ações para combate à crise humanitária do povo ianomâmi. Expectativa de continuidade de políticas públicas de apoio aos povos indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56133cb7427eae6b8d1d94970258fd6cd933cbff9e6fd6f01a35dd64e97084e2
+size 216

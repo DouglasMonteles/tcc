@@ -1,1 +1,3 @@
-Realização de conferência na Câmara Municipal de Goiânia, Estado de Goiás, pela Comissão Especial destinada ao exame de propostas de reforma política em conjunto com a Frente Parlamentar da Reforma Política com Participação Popular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc8e71079909e638f11aa1b0fc30ecc1a62591e33ebb6ca93df01ab50a231a67
+size 243

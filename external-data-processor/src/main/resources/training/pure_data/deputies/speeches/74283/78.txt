@@ -1,1 +1,3 @@
-Presença no plenário do Prefeito Antonio Luiz Bandeira Júnior, do Município de Lajeado, do ex-Prefeito Otoniel Andrade, do Município de Porto Nacional, Estado do Tocantins, e do Coordenador do Departamento Nacional de Produção Mineral - DNPM, Ihering Rocha Lima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da6310fa97005b2643a6878079252d4cb4ba0317a05ba9ceef2de2b595ddce82
+size 269

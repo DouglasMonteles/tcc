@@ -1,1 +1,3 @@
-Inexistência nos Estados brasileiros de condições financeiras para a implementação da Proposta de Emenda à Constituição nº 300, de 2008, sobre a equiparação dos soldos dos policiais e bombeiros militares dos Estados aos do Distrito Federal. Reexame da proibição do segundo emprego aos policiais e bombeiros militares, o chamado bico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33ba825bc67bb682ee3f579ba9ae023c856c0417606794afc6d838cceb807f67
+size 346

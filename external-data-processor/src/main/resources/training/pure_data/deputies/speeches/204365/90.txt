@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Requerimento nº 2.793, de 2020, para apreciação em regime de urgência do Projeto de Lei nº 1.531, de 2015, sobre a alteração da Lei nº 9.029, de 1995, com vista à proibição de prática discriminatória e limitativa para efeito de acesso à relação de emprego ou sua manutenção, por motivo de orientação sexual, doença crônica, HIV/SIDA ou religião, e à criminalização da violação dos direitos de personalidade e de intimidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a634b8cb1722d66bef3b1911c7a0828215a6acd9f98a7291931d51d5128cafc
+size 491

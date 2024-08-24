@@ -1,1 +1,3 @@
-Lançamento do novo Programa de Aceleração do Crescimento - PAC pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2457a4bed53127528a2b39c0e62f58453b96588229e72bb4ce8f5d693c6bb068
+size 109

@@ -1,1 +1,3 @@
-Comemoração do Jubileu de Ouro da Congregação Claretiana Londrinense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7fbeb6f7d847d41c87d27d039930d6665cc9ec3edfac3be12093161a34c5624
+size 73

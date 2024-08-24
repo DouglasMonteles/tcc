@@ -1,1 +1,3 @@
-Sugestão à Presidência para abono de faltas de Vice-Líderes do Governo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbbc740bfe8ef5ad1411220d91070fb1d6f19381159c96d19e24dc654214e956
+size 75

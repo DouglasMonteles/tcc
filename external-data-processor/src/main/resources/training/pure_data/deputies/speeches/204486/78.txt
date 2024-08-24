@@ -1,1 +1,3 @@
-Expectativa quanto à aprovação pela Casa da Proposta de Emenda à Constituição nº 391, de 2017, sobre o disciplinamento da distribuição de recursos federais ao Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1663fde11798bfb6d0d660dbd8ce14a95fa9f797544ba05b7027861e8f2826d3
+size 214

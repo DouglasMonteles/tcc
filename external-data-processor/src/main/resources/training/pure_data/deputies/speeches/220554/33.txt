@@ -1,1 +1,3 @@
-O Deputado parabenizou o Município de São José do Norte, no Rio Grande do Sul, pelo seu 192º aniversário. Destacou a hospitalidade e a contribuição do povo local, mencionando a importância da agricultura familiar, do polo pesqueiro e do polo de biomassa na economia do Município. O orador mencionou a implantação de um estaleiro pela empresa Estaleiros do Brasil, que gera postos de trabalho na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10667346f5d1104786a0c338f039d3f1e147489c1753154914e0f4ec6b741fa9
+size 414

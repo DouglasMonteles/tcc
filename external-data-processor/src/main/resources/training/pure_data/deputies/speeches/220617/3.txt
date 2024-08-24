@@ -1,1 +1,3 @@
-Empenho do orador na realização, pelo Sistema Único de Saúde - SUS, de cirurgias cardíacas infantis no Município de Itaperuna, Estado do Rio de Janeiro. Pedido ao Ministério da Saúde de elevação dos recursos destinados aos Municípios brasileiros para custeio do Piso de Atenção Primária - PAP e dos serviços de Média e Alta Complexidade - MAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3efb4582b76b1c37d7a13bf2f5967e5ad066fd621d484f993fd74c1cffb28de1
+size 359

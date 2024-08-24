@@ -1,1 +1,3 @@
-Utilização, pelo governo do PT, de universidades federais como palanque político. Urgente necessidade de reformulação do sistema educacional brasileiro. Apoio à proposta do Presidente Jair Bolsonaro para o ensino superior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dcf987e99a11c156058ab1dd2330c4518cf05329c2d3858deb65a416f2988a3
+size 228

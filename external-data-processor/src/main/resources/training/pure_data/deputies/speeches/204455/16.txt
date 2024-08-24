@@ -1,1 +1,3 @@
-Presença do Ministro da Economia, Paulo Guedes, na Comissão de Constituição e Justiça e de Cidadania para debate da reforma previdenciária. Posicionamento histórico do PT contrário à aprovação de matérias de relevante interesse do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:482fb9e37f7cff71310a5d4ee458f5b1c6b46014363f7171cecb39ff9fa6de88
+size 249

@@ -1,1 +1,3 @@
-Matéria publicada pelo jornal O Popular, intitulada Caldas Novas, agora sim, de Gabriel Nascente, sobre o restabelecimento da ordem no Município durante o carnaval. Excelência da gestão do Prefeito Evandro Magal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71e0b40a131a32d09b88e2817ee8ac5aa4c243bb70478d3994128b0579784745
+size 216

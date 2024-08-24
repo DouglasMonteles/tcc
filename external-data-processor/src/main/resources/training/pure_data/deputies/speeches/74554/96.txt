@@ -1,1 +1,3 @@
-Manifestação de pesar pelo falecimento de Adalberto Carlos Viana, o Betinho, personalidade ilustre do Município de Buritirama, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f66de893c8d028c7abd777004f22b1bc81fec54eafaf1705a6d7bd84d6c9a4ab
+size 146

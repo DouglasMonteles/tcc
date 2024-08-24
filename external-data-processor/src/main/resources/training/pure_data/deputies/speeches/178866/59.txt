@@ -1,1 +1,3 @@
-Apelo ao eleitorado brasileiro, em especial aos jovens, de voto no candidato Luiz Inácio Lula da Silva no segundo turno das eleições presidenciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b439bca385cd12ae48587da58a29159a33db17cf81030e34ce9a6a1afdd83fe
+size 150

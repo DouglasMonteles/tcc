@@ -1,1 +1,3 @@
-Dificuldades financeiras enfrentadas pelos municípios brasileiros. Falência do sistema de distribuição de recursos tributários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91227a994f98534a96d118ecbf79e5d891def852fe8d7cf659e7f05cf6d0b4ad
+size 132

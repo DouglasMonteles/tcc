@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda 2, destacada, ao  Projeto de Lei de Conversão Medida Provisória 465 de 2009 (Autoriza a concessão de subvenção econômica ao Banco Nacional de Desenvolvimento Econômico e Social  - BNDES, em operações de financiamento destinadas à aquisição e produção de bens de capital e à inovação tecnológica, altera as Leis 10.928 de 2004 e 11.948 de 2009 e dá outras providências), que determina que o Executivo regulamente as condições para  a concessão da subvenção econômica, inclusive as contrapartidas a serem oferecidas pela empresas beneficiadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ded41da20c0eaa12dade39a1e3ab9e1b8c333f93046f5dc2000d6966ff0edf91
+size 605

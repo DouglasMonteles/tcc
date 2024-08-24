@@ -1,1 +1,3 @@
-Orientação de bancada para votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição nº 282-C, de 2016, sobre a vedação às coligações nas eleições proporcionais, o disciplinamento da autonomia dos partidos políticos e o estabelecimento de normas sobre fidelidade partidária e funcionamento parlamentar dos partidos políticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4c1f54ae596a94e09cc19e58d746f70f08d49ada3399669f6751ecfbc46b89a
+size 367

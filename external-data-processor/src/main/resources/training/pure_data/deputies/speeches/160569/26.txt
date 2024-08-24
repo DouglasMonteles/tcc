@@ -1,1 +1,3 @@
-Realização do II Encontro Interestadual do Biocombustível, em Salvador, Estado da Bahia. Carta extraída do evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a3894eb85d11da90601e383790cb4493f24e65db36fe63402475fb8ba8adf6d
+size 118

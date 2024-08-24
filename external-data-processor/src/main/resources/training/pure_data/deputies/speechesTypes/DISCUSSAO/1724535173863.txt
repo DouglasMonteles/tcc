@@ -1,1 +1,3 @@
-Protesto contra a aprovação da Medida Provisória nº 868, de 2018, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32f7e6d253b83247a26995b551a2060061c68a2ceaad53d6fdfa3ba865bbae05
+size 129

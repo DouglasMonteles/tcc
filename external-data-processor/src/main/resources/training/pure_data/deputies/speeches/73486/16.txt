@@ -1,1 +1,3 @@
-Editorial Indústria do grampo, publicado pelo jornal Zero Hora, de Porto Alegre, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:270f71aaa71c5ce32dd091499e35e0712570641de86373ce5d9c43cbb266bd05
+size 110

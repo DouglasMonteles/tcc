@@ -1,1 +1,3 @@
-Balanço da atuação parlamentar do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4798e24ac7e11b7e8f723e6355bad44b9106be52c3d65fce86f83041e4e4667
+size 44

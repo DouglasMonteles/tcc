@@ -1,1 +1,3 @@
-Nota da Defensoria Pública a respeito da invasão de propriedades rurais no Estado da Bahia. Apresentação do Projeto de Lei nº 832, de 2023, sobre a alteração da Lei nº 13.260, de 2016, para caracterização como ato de terrorismo a invasão armada de terras particulares, terrenos, lotes, casa ou imóvel rural, com intenção de posse futura, praticada com violência ou grave ameaça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae30d1133cce4da95c27313357970f1558d03c07db51d965f64efd01f76304dc
+size 394

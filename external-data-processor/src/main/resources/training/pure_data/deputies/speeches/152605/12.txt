@@ -1,1 +1,3 @@
-Ampliação dos serviços de captação e distribuição de água potável no Estado do Rio de Janeiro. Solicitação de melhoria dos serviços de abastecimento de água no Município de Rio das Ostras. Efeitos da privatização de empresa de saneamento básico no Município de Nova Friburgo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8959a881ea746abd6e64c9a179d04e7c883102edd8bf191c9b04ec5b42799389
+size 293

@@ -1,1 +1,3 @@
-Necrológio do radialista gaúcho Lauro Hagemann.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47a626304f29492f9d72ec5096142bf6878d9d6fd84e8274c01df5b14074bca5
+size 49

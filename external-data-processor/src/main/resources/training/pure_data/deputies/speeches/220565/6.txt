@@ -1,1 +1,3 @@
-A Deputada destacou a importância do bioma do Cerrado, enfatizando sua riqueza ecológica, cultural e econômica. Alertou sobre a crescente degradação do Cerrado devido ao desmatamento e queimadas, enfatizando a urgência de protegê-lo. Também mencionou a responsabilidade do governo e dos legisladores em preservar esse bioma vital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:502d9ac45fc6d3890b313d1b4d922f43044f67015362989f064a827fd6e4b10a
+size 338

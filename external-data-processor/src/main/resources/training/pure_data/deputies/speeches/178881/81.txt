@@ -1,1 +1,3 @@
-Agradecimento ao PSC e a outros partidos pela manutenção do Veto Parcial nº 52, de 2019, aposto ao Projeto de Lei do Congresso Nacional nº 51, de 2019, acerca da alteração da Lei nº 13.898, de 2019, sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2020. Preocupação do orador com o teor de projeto de lei do Congresso Nacional relativo ao orçamento de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26074b3401c8418a1c08f25deb193537c2b886daa49dbded7bcd9c770f8ac398
+size 398

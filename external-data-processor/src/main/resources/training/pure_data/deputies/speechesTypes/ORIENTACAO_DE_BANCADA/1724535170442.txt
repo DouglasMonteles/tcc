@@ -1,1 +1,3 @@
-Orientação da respectiva bancada sobre a votação do Projeto de Lei nº 7.606-A, de 2017, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9012218b7ac529b992c06d4ecd5ef9875abf789e5ec9a1f57e15f06c0bd6f99
+size 118

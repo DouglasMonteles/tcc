@@ -1,1 +1,3 @@
-Preocupação com prejuízos econômicos ao País causados por movimento grevista de caminhoneiros. Solicitação à Presidenta Dilma Rousseff de sanção de projeto de lei que regulamenta a profissão de caminhoneiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6625dcce5ddbe058b76021f6e078eb009fad42e7b39bf6ddc2e9e1425d379ac5
+size 218

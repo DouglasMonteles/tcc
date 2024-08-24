@@ -1,1 +1,3 @@
-Exigência de retratação pelo Ministro da Economia, Paulo Guedes, de declarações ofensivas ao Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2501b4cb7ab948c0e4d00abfc151e811122aac2f2a77adec23fa2b2c36db32c7
+size 117

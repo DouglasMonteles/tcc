@@ -1,1 +1,3 @@
-Encaminhamento do Requerimento de Indicação nº 1.592, de 2019, à Ministra da Mulher, da Família e dos Direitos Humanos, para inclusão do porteiro do condomínio Vivendas da Barra, depoente no caso dos homicídios da Vereadora Marielle Franco e do motorista Anderson Pedro Gomes, no Programa Federal de Assistência e Proteção a Vítimas e Testemunhas - PROVITA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:108c5bf8032468cb4a096927672b5715193218f281a37b83f8ad4ca0bcbbecb5
+size 369

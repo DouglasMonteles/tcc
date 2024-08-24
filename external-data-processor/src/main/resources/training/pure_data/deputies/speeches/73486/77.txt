@@ -1,1 +1,3 @@
-Balanço das atividades realizadas pela Comissão de Direitos Humanos e Minorias na gestão do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9b29942d4ffb42ee711bebae423792e043907767a69465f3e787f836e6a1744
+size 102

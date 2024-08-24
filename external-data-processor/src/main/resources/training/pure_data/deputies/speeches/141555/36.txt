@@ -1,1 +1,3 @@
-Conclusões de estudo sobre a indústria de cartões de crédito no País, realizado pelo Banco Central em conjunto com os Ministérios da Fazenda e da Justiça. Apresentação de requerimento à Comissão de Defesa do Consumidor para a realização de audiência pública para discussão do tema, com a participação do Presidente da Associação Brasileira das Empresas de Cartões de Crédito e Serviços — ABCS, de representantes do Banco Central, da Secretaria do Direito Econômico, dos Ministérios da Justiça e da Fazenda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf0233f2d426ea07c3874122e37ba724162ce6203add913ba2fad2b21579854d
+size 534

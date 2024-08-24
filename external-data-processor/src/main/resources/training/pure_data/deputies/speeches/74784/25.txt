@@ -1,1 +1,3 @@
-Falecimento do Deputado Adão Pretto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df596f5ceeb30e86d36c581be4741f3695f9548d54c15b69a7b0aed7b8061566
+size 37

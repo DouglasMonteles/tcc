@@ -1,1 +1,3 @@
-Comprometimento do governo petista com a alimentação do povo brasileiro. Contentamento dos moradores da Cidade de Deus, no Rio de Janeiro, com a eleição do Presidente Luiz Inácio Lula da Silva. Retomada do Programa Minha Casa, Minha Vida e do Conselho Nacional de Segurança Alimentar. Reativação da indústria naval e do setor turístico nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:469be1419f72e221f0cd025547c0e3c9ed803bf20cc012fe9f6192b372e3cc49
+size 355

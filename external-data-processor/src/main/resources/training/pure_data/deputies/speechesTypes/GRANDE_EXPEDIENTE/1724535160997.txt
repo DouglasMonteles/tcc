@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Balanço da atuação do orador no cargo de Secretário de Estado de Transportes do Governo do Distrito Federal. Avaliação da crise política reinante na Capital da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef66be5677f82848508f94fc8a374b77813b75a71f3cb9aa232d9ed74feb7540
+size 221

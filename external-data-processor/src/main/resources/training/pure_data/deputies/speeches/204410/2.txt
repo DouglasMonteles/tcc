@@ -1,1 +1,3 @@
-Transcurso do 81º aniversário de emancipação político-administrativa do Município de Cornélio Procópio, no Estado do Paraná. Solicitação ao Governador Ratinho Júnior e ao Vice-Governador Darci Piana de implementação do curso de Medicina na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:beb96fd24bb59f683d62e4e2987d9eaede439487f1e27a791d27375dced85f1e
+size 269

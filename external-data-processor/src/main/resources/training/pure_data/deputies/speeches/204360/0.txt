@@ -1,1 +1,3 @@
-Solicitação ao Departamento Nacional de Trânsito  - DETRAN  de adoção de providências diante da interdição da BR-364.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af58fa20bede827ff3cf57549e2126bf045caf741e5823b01a6bf74229edf438
+size 125

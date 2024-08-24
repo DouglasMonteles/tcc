@@ -1,1 +1,3 @@
-Participação do orador em reuniões nos Municípios de Caiuá, Presidente Prudente e Teodoro Sampaio, Estado de São Paulo, destinadas ao debate da proposta de reforma da Previdência Social. Preocupação da população com possíveis dificuldades para a conquista da aposentadoria. Saudação a movimentos sociais presentes em manifestação no Ministério das Cidades em defesa da retomada do Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32008e46fb74e7093c9dbf1ad52b4d5cf758c188c383aba1cea5ef6831cae18b
+size 430

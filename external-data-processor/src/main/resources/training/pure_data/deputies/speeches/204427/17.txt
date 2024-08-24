@@ -1,1 +1,3 @@
-Solicitação à Polícia Federal, ao Ministério Público Federal e ao Ministério Público de Contas de Pernambuco, de celeridade na investigação de irregularidades na compra de respiradores pulmonares pela Prefeitura Municipal de Recife.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ce0113cc6b4fd3483d31e8f57f0480b61cf09e5195fa21d954d58a7fc3432e7
+size 242

@@ -1,1 +1,3 @@
-Realização de elevados investimentos no Estado do Ceará, segundo relatório da Secretaria do Tesouro Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9af6d1a672dc97114cccf933fda5aed5fefb4a474fd7f0b3f67d3d2ead732e7a
+size 113

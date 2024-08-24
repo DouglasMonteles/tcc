@@ -1,1 +1,3 @@
-Congratulação ao Presidente Michel Temer pelo condução dos trabalhos. Saudações aos autores da proposta de interesses dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d748bb39afc5684e8235eea83e701cc30f2edaf5145e48e96fdeb912e76531d0
+size 198

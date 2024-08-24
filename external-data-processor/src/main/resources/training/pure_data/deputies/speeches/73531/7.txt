@@ -1,1 +1,3 @@
-Repúdio à restrição da liberdade de expressão de servidores públicos formalizada em estatutos da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7458830e5851a23c8596d169b0253d7c6a4eed534af62f6c6dd821257225c932
+size 113

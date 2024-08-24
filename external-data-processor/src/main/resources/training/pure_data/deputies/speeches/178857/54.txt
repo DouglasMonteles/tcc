@@ -1,1 +1,3 @@
-Questão de ordem sobre credenciamento de convidados para ingresso na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eacbe741197f530493fb46e5c47f4ff4473c323922546714ec49df0d86eaec8
+size 92

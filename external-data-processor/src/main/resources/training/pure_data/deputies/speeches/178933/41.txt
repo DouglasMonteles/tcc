@@ -1,1 +1,3 @@
-Apoio do PMDB à manutenção do art. 6º, aprovado pela Comissão Especial destinada ao oferecimento de parecer á medida provisória em votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a59cb14c597e4afe46e789fd252c1942f7dfb8d9094559150ed1095eb118974
+size 148

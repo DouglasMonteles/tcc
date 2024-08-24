@@ -1,1 +1,3 @@
-Congratulações à Prefeita do Município de Glória, Estado da Bahia, Vilma Negromonte, pela conquista da liderança regional do Índice FIRJAN de Desenvolvimento Municipal. Perda da liderança do Município de Paulo Afonso, Estado da Bahia, em decorrência da falta de investimento na saúde, educação e geração de empregos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:167474bad945e3cc7f35a0d7608ee7a6b02e1d4b103cb76246ad892374710a71
+size 331

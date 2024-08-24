@@ -1,1 +1,3 @@
-Participação na solenidade de abertura dos trabalhos didáticos no campus do Instituto Federal de Educação, Ciência e Tecnologia - IFET, no Município de Almenara, Estado de Minas Gerais. Apoio à política educacional do Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67c2d4362a5d73425adfdebce2a7ab3a90e8479f12dcc21d7bb530627cbd07e7
+size 262

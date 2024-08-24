@@ -1,1 +1,3 @@
-Repercussão da nova prisão do ex-Ministro José Dirceu, no âmbito da Operação Lava-Jato, da Polícia Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f095905f356fb10a251e240e362ec824dfe85d60e9aa2e86bc4c01d639df161d
+size 114

@@ -1,1 +1,3 @@
-Saudações aos advogados brasileiros. Inexistência de justificativas para o atraso no início nas obras de duplicação do trecho da BR-392 de acesso ao Porto de Rio Grande, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16296418aa2112e24edca5862976e69fb48cc216a24255d4a9dfda58bebad1aa
+size 207

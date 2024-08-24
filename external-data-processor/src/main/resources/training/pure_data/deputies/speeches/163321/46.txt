@@ -1,1 +1,3 @@
-Aprimoramento do processo de fiscalização de contratos firmados pelo Departamento Nacional de Infraestrutura de Transportes - DNIT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cf603feff3af38dd9d1534511175f73a4e77f76306d1df6bd76206942ee28cc
+size 133

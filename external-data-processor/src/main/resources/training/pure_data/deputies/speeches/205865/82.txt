@@ -1,1 +1,3 @@
-Repúdio e indignação com o incêndio de igrejas católicas durante manifestação esquerdista, em Santiago, Chile.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1d0d4b3b857b3121aa5ec1ca2f91c6ce2bb4d6934568d42350f911a3a9710ca
+size 117

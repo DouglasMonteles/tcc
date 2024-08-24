@@ -1,1 +1,3 @@
-Plataforma da atuação parlamentar do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59015dd7338cb46db1c3a3f63e32fadf2d7f7f99a5ddc10dbc42b05cf6dc6bb5
+size 46

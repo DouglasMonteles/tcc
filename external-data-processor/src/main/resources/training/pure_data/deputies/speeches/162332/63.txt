@@ -1,1 +1,3 @@
-Presença no plenário do Prefeito Hiroto Fujii, de Minokamo, Japão, acompanhado do Sr. Seidi Osato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:160824b12610d5de22090fda7975b0bc8de3837d4fe24724e3649e6236666e9d
+size 101

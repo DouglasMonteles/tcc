@@ -1,1 +1,3 @@
-Realização da CIX Assembléia da União Interparlamentar, em Genebra, Suíça. Apresentação pelo orador, no evento, de relatório preliminar acerca da relevância de fontes renováveis de energia, com destaque para a produção brasileira de etanol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b965e7a374789442ddda76a3ae7cdc305ee497d8817a8fe92db062a8e7e4b65
+size 253

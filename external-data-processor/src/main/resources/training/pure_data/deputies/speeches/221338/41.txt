@@ -1,1 +1,3 @@
-Pedido ao Ministério Público e ao Tribunal de Contas de investigação da denúncia de instalação, pela Secretaria da Educação do Estado de São Paulo, de aplicativo espião nos celulares dos professores da rede estadual de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61072d5d0cb7f9d519d12fc50e78f9f44b5549e13680cc34259aa58deeb62b41
+size 237

@@ -1,1 +1,3 @@
-A Deputada defendeu a votação do requerimento de urgência do Projeto de Lei nº 5.174, de 2023, que institui o Programa de Aceleração da Transição Energética – PATEN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7296f3305602d9a1b15ddb29d54ded7006e45e8e71738da64b1ae3d3e1de659
+size 176

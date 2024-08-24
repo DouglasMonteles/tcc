@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de adiamento da discussão, por uma sessão, do Projeto de Lei nº 4.173, de 2023, que dispõe sobre a tributação da renda auferida por pessoas físicas residentes no País em aplicações financeiras, entidades controladas e trusts no exterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c959ff20e5f6666191b09af825a03b98a43406c6510b77bc8128bd63431b69c
+size 306

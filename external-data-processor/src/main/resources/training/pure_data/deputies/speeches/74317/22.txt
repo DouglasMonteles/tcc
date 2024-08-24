@@ -1,1 +1,3 @@
-Realização, pelo Senado Federal, de sessão solene ao ensejo do transcurso dos 186 anos da Batalha do Jenipapo, ocorrida no Estado do Piauí. Temas debatidos durante encontro da Ministra-Chefe da Casa Civil da Presidência da República, Dilma Rousseff, com membros da bancada federal nordestina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a9eff6f0092ff1d407509e4dfb7228721303c7555941a674b3cad504775016b
+size 298

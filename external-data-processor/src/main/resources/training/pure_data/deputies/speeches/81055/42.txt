@@ -1,1 +1,3 @@
-Eleição dos professores Natalino Salgado e Allan Kardec, respectivamente, para os cargos de Reitor e Vice-Reitor da Universidade Federal do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0da0db970573e95b53d4ba18380f50d19965df8a4f64633656dd0ed03715a882
+size 152

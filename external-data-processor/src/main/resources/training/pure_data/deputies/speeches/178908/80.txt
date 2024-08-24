@@ -1,1 +1,3 @@
-Inconsistência do discurso do Deputado Zé Geraldo acerca da liderança do Sr. Luís Inácio Lula da Silva em pesquisa de intenção de voto à Presidência da República no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:079814da64c67c0651af7bea1081514409759c7feb6761ff461b1d6fa9f5549f
+size 191

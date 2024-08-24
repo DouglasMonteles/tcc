@@ -1,1 +1,3 @@
-Votação, pela Casa, de matérias de interesse da sociedade brasileira. Criação da Frente Parlamentar em Defesa dos Quilombos. Escolha do orador para a presidência do órgão. Expectativa quanto à decisão do Supremo Tribunal Federal sobre o processo de demarcação das terras de remanescentes de quilombos. Transcurso do centenário da imigração japonesa ao Brasil. Necessidade de promoção da igualdade racial no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54f33420ae921b2f6f0ba2849b5400439f2ed261d74ce43a2d5f27c94aa6dac1
+size 430

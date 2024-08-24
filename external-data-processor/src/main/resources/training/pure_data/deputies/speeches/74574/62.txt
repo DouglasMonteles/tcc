@@ -1,1 +1,3 @@
-Êxito de política de transplante de órgãos da Secretária da Saúde do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb7668a905681baa51754a68dc7aadfa14b9e72eb7cd4ff09e9a40019f1ce122
+size 91

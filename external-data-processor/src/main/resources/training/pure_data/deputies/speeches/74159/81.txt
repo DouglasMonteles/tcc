@@ -1,1 +1,3 @@
-Protesto contra o adiamento do julgamento do fazendeiro Adriano Chafik Luedy, acusado de mandante do massacre de trabalhadores rurais sem terra, no Município de Felisburgo, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0ceb2b2763522ea69acb77d0b9966dea50e4335bf21b57fd8c3c5f567222f7d
+size 197

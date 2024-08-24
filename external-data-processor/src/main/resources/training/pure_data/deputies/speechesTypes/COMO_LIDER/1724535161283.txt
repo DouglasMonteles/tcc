@@ -1,1 +1,3 @@
-Lançamento do Programa Territóriosda Cidadania no Estado do Amazonas. Implantação de programa de inclusão digital no País. Instalação de telecentros comunitários em municípios do Estado do Amazonas. Transcurso do 52º aniversário do Município de Autazes. Comemoração do aniversário natalício do Prefeito Municipal José Thomé Filho. Participação do orador na Convenção Municipal do PMDB realizado em Codajás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3332dcd3a66e73c89bad1419c25ef7711f43fcc1fcc0ea2a6cfb3583df64cba2
+size 430

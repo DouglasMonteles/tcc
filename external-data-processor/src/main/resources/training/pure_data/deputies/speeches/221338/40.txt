@@ -1,1 +1,3 @@
-Repúdio à decisão do Governador do Estado de São Paulo, Tarcísio Gomes de Freitas, de não adesão ao Programa Nacional do Livro Didático. Acionamento da Justiça e do Ministério Público contra a iniciativa do gestor estadual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69838aabb8bc7fbc2ac98a7ebb6b5bbae27efde55f22b2ef1ba30a0bf773b91e
+size 234

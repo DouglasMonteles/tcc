@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global oferecida pela Relatora da Comissão de Constituição e Justiça e de Cidadania ao Projeto de Lei nº 4.742-A, de 2001, sobre a tipificação do crime de assédio moral, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:783d5f0c026e7d1e6b2c819d4726dc8a5145677f90263d10f4909663df683eb9
+size 266

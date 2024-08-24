@@ -1,1 +1,3 @@
-Apoio ao adiamento da votação da Medida Provisória nº 879, de 2019, sobre autorização, à União, da liberação de recursos às Centrais Elétricas Brasileiras S/A - ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3da84ed04ed98171c74183774433d43dbfb4744c955712fd767b2fb022185e35
+size 184

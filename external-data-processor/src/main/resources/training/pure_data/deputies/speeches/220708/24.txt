@@ -1,1 +1,3 @@
-O Deputado destacou a gravidade da situação do sisal baiano, que representa mais de 90% da produção nacional. Alertou para a queda de 54% no preço do sisal em 2022, e como a atual relação entre a sua produção e o custo da cesta básica vem prejudicando os pequenos produtores. Em defesa do Movimento Pró-Sisal, o parlamentar pediu à CONAB atenção especial para os produtores e apresentou as principais demandas do movimento. Ressaltou conversas com o Ministro da Agricultura e a CONAB, buscando soluções urgentes para a crise no setor sob o Governo Lula, que valoriza os pequenos produtores rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d0747c77ecba8353e60e16cb5acf5179eb41ec568cbbc935f2cfeb08aec7e60
+size 613

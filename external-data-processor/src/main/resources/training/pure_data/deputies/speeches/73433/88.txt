@@ -1,1 +1,3 @@
-Solicitação aos Relatores das Emendas do Senado ao  Projeto de Lei 1.990 de 2007 (Dispõe sobre o reconhecimento formal das centrais sindicais para os fins que especifica, altera a Consolidação das Leis do Trabalho - CLT e dá outras providências),de brevidade na leitura dos pareceres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42f5243dd8bb511a698f4e7a5f67743b64f7b942e97b889da71af245dd4714e1
+size 291

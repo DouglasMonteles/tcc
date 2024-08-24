@@ -1,1 +1,3 @@
-Posicionamento do PT contrário à aprovação do Projeto de Lei nº 3.261-A, de 2019, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aabb7787924b23c8d6ac09560c1aa4d55bbe925dba15e5b79c7033c3925ad72d
+size 146

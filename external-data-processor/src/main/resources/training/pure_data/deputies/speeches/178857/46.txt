@@ -1,1 +1,3 @@
-Congratulações à Presidenta da República, Dilma Rousseff, pelo lançamento de nova fase do Programa Minha Casa, Minha Vida. Regozijo com a decisão do PMDB de rompimento da aliança com o Governo Federal. Críticas ao Vice-Presidente da República, Michel Temer, pela postura diante do pedido de impeachment da Chefe do Poder Executivo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d7ae1fd3209140755b438ae23f4b0d0db668852dc0d07669099dd0c7b6b7ac9
+size 348

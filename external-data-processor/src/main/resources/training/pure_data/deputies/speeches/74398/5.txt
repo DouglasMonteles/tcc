@@ -1,1 +1,3 @@
-Solidariedade aos atingidos pelo ciclone extratropical no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0a5526902b549a8697cc109cd65c0ab10b467bf960109703dfc619980070253
+size 86

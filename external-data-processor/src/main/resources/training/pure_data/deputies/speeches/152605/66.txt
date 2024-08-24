@@ -1,1 +1,3 @@
-Pedido à Procuradoria da Fazenda Nacional de manifestação sobre o processo a respeito da adjudicação pela Universidade Federal Fluminense de imóvel da Fábrica Ypu, no Município de Nova Friburgo, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d571a1373c6e428b29fc88c33d65974ca61abe13cea8cb76176538a423c5e01
+size 228

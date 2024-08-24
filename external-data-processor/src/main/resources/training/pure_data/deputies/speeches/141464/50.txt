@@ -1,1 +1,3 @@
-Solicitação ao Ministro do Trabalho e Emprego, Carlos Lupi, da liberação do seguro-defeso (benefício concedido à categoria durante o período de defeso) a pescadores no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a337cb0842ff3e3321f2f925c1bdeebb8e3844c066a8740fd8bec99a9c07c102
+size 192

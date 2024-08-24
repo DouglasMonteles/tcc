@@ -1,1 +1,3 @@
-Contrariedade à venda de medicamentos em supermercados e estabelecimentos congêneres. Ocorrência de inúmeros casos de intoxicação medicamentosa no País. Falta de medicamentos nas farmácias brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05e59a8a02e5fd0b552032ab0cf7c868a1210e019f6d4d45aa0c3e049f352347
+size 209

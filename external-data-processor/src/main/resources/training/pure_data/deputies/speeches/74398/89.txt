@@ -1,1 +1,3 @@
-Realização do IV Congresso Nacional do Partido dos Trabalhadores - PT, em Brasília, Distrito Federal. Temas incluídos na pauta de debates do evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63ad0202cd2d7d82eddaea5b5994caa6d2e09de97b7946c8f8fb7cd4822eeda7
+size 152

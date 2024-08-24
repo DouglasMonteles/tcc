@@ -1,1 +1,3 @@
-Crescimento econômico do País durante o Governo Luiz Inácio Lula da Silva. Investimentos realizados pelo Governo Federal no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f12b70a131d4884a9c7065356c422a0263960cf0eea03d559f61ecdd1ae6109
+size 144

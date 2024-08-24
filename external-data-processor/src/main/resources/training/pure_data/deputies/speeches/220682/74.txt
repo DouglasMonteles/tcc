@@ -1,1 +1,3 @@
-O Deputado destacou a retomada do projeto da PETROBRAS que inclui a possibilidade de reativação da Fábrica de Fertilizantes Nitrogenados de Araucária (FAFEN) e a produção de fertilizantes nitrogenados no Brasil. Parabenizou a iniciativa pelo benefício à economia e à geração de emprego em sua região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40e5d9087527c63be21b54873533af926de00e129838030fc0383d7edf5ad8e0
+size 312

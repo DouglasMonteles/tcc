@@ -1,1 +1,3 @@
-Parecer ao Projeto de Lei 79 de 2008-CN (Abre ao Orçamento Fiscal da União, crédito suplementar em favor dos Ministérios do  Meio  Ambiente  e da Integração Nacional, para reforço de dotações constantes da Lei Orçamentária vigente).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca9f6f1c57432e7c722195e52d01d761aa0305a299b02d0398a4c31b489de900
+size 243

@@ -1,1 +1,3 @@
-Solidariedade à população de Salvador, Estado da Bahia, diante de deslizamentos de terra ocorridos no Município. Caráter arbitrário da decisão da Agência Nacional de Aviação Civil - ANAC, acerca de liberação de tarifas aéreas internacionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e4148d084c0f7fae3dadcfa153efbe42b6add41792bcab4ae4a7b5cb2ade519
+size 254

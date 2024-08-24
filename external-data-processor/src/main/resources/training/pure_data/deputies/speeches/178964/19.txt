@@ -1,1 +1,3 @@
-Defesa da manutenção do certificado de filantropia da Empresa de Assistência Técnica e Extensão Rural do Estado do Rio Grande do Sul - EMATER/RS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eab37f62a5e906d6ff3572c4bf594506874b4a6cda1fa8f97c88e16d261cc44c
+size 150

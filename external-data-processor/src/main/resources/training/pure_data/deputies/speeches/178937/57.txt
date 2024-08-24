@@ -1,1 +1,3 @@
-Perplexidade do povo brasileiro diante das denúncias de prática de estupro pelo médium João Teixeira de Faria, conhecido por João de Deus. Defesa de aperfeiçoamento das leis para punição de envolvidos em casos de uso da fé para a prática de crimes sexuais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91d95d9352732a86195343bebcf26b5112307ea524665c17595f54a11cc79ad3
+size 266

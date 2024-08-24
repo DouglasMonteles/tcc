@@ -1,1 +1,3 @@
-Associação ao discurso do Deputado Roberto de Lucena sobre corrupção. Apoio às políticas públicas destinadas à redução da desigualdade social brasileira. Apresentação de projeto de lei acerca da capacitação de conselheiros de políticas públicas. Acerto da decisão da Secretaria de Estado de Transparência e Controle do Distrito Federal, de declaração de inidoneidade de empresas de informática envolvidas em irregularidades. Resultado da audiência pública realizada pela Comissão de Direitos Humanos e Minorias, com a participação de responsáveis pelos alunos sobreviventes da chacina ocorrida na Escola Tasso da Silveira, no Bairro do Realengo, Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52cb3f2b80ae7bbf34f82a32202d55e079e735b4473d8ef55994fadfc9455f73
+size 714

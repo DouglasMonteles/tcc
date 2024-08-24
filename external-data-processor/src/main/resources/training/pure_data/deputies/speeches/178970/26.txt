@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Caatinga. Reunião do Governador do Estado de Sergipe, Jackson Barreto, com a Diretoria do Movimento dos Trabalhadores Rurais Sem Terra sergipano, para debate de ações nas áreas de reforma agrária, educação, desenvolvimento e agroindústria do Estado de Sergipe. Pauta do Movimento dos Trabalhadores Rurais Sem Terra em Sergipe, entregue ao Governador sergipano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff1fb7e0fa6b5142ac51ec63c445acf619c9da667957c9d9825eb4fb93892032
+size 398

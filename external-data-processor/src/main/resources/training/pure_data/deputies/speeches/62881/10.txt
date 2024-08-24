@@ -1,1 +1,3 @@
-Destaque do Brasil no cenário econômico mundial. Crescimento econômico sustentável do País. Recriação da Frente Parlamentar Mista em Defesa da Infraestrutura Nacional. Importância das obras de infraestrutura realizadas por meio do Programa de Aceleração de Crescimento - PAC. Apelo à Mesa Diretora e às Lideranças partidárias de estabelecimento de novo marco para as atividades regulatórias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:557753f8094eae0fa5cf691467d077af237e682049902c82fa687c42408dfb88
+size 406

@@ -1,1 +1,3 @@
-Apelo ao Relator Hildo Rocha de retirada, do parecer, de dispositivo incompatível com o texto o Projeto de Lei nº 3.364, de 2020, sobre a instituição do Regime Especial de Emergência para o Transporte Coletivo Urbano e Metropolitano de Passageiros -  REMETUP, em face da epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c47c6d4cf734fabb5c9441fd5dff015e5f9ef2f4d5337cfaf262b3681209f42
+size 301

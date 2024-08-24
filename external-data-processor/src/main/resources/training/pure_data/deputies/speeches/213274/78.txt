@@ -1,1 +1,3 @@
-Defesa de manutenção do Veto Parcial nº 44, de 2021, aposto ao Projeto de Lei do Congresso Nacional nº 3, de 2021, acerca das diretrizes de elaboração e execução da Lei Orçamentária de 2022, especialmente do dispositivo da proposição sobre o aumento do montante de recursos do Fundo Especial de Financiamento de Campanha, o Fundo Eleitoral. Necessidade de aprovação pela Casa do Projeto de Lei nº 1.890, de 2020, sobre a prorrogação do prazo de pagamento de tributos e contribuições federais, e o estabelecimento das formas de parcelamento de débitos tributários, durante o estado de calamidade pública ou de pandemia reconhecidos pelo Governo Federal. Participação do orador no V Fórum Nacional do Comércio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d959bdd862f3c1c09bdc6300bee41963cd017472f257f8c3d4e02ed84c52253
+size 734

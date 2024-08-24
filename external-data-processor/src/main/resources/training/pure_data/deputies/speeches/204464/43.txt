@@ -1,1 +1,3 @@
-Pedido às autoridades competentes de identificação dos mandantes do assassinato da Vereadora Marielle Franco. Assassinato de jovens na periferia do Rio de Janeiro durante ação policial. Repúdio à política de segurança pública implantada no Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:033ac6646fdcc878751694e6758dfe864110f5d47b5ab0e4ebb521d923b67741
+size 275

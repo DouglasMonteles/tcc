@@ -1,1 +1,3 @@
-Defesa de transferência para a Procuradoria-Geral da República do inquérito sobre o assassinato da Vereadora Marielle Franco, em face da citação do nome do Presidente Jair Bolsonaro no episódio. Críticas à atuação do Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8904ed7c25a19bba909e7618cc78c24f72bdb2491b1964f9bd45476181b229ea
+size 284

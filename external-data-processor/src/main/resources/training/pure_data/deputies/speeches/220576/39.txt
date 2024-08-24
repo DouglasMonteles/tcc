@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à família do Estado de Alagoas em visita à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8da94b3d1ab6b40e4bef3c2d75b9c81a6db3f77e10d419af5b82309312122723
+size 98

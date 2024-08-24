@@ -1,1 +1,3 @@
-Registro do primeiro caso de dengue autóctone em Curitiba, Estado do Paraná, em decorrência da falta de manutenção da roçada nos bairros da cidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05cc737f6d9997a4814bf4e63008cd159f6114bb47e85a8c59b914e3183b1acc
+size 153

@@ -1,1 +1,3 @@
-Repúdio às manifestações extremadas de políticos e populares contra a blogueira cubana Yoani Sánchez, em sua visita à Casa. Defesa de ressarcimento aos Estados exportadores por perdas de receita decorrentes da Lei Kandir.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93ae56747f3e9d093aae7e057f61294fccbcf7ef6259f6c6700a4d882ca38761
+size 228

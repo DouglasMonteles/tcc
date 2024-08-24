@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Síndrome de Down. Importância das medidas assistenciais e de combate ao preconceito e à discriminação dos portadores do distúrbio genético.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ed783231bd282b6882566af2d5bd10623bfa155499d0d24054b2109d23fa322
+size 181

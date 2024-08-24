@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda 52 apresentada ao Projeto de Lei nº 1.292, de 1995, sobre a alteração da Lei nº 8.666, de 1993, acerca das normas de licitações e contratos da administração pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01ef898bbf9ed0912c5aa3d8e4caa152effcac6182b7525c4b5a990e401ce971
+size 276

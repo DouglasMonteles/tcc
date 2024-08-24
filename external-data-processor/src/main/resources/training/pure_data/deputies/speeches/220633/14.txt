@@ -1,1 +1,3 @@
-O Deputado contestou orador anterior que fez crítica ao trabalho da CPI do MST. Esclareceu que as investigações mostraram evidências de que o Movimento dos Trabalhadores Rurais Sem Terra abusa dos mais fracos, usa da violência contra produtores e causa malefícios ao agronegócio brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b5081e8f6690eafb5055a961a3cb05eb748616c39a130c8bd6cffa00bcdba9d
+size 297

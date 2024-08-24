@@ -1,1 +1,3 @@
-Expectativa de confirmação pelo Presidente Marco Maia de declarações sobre a votação, no dia 28 de setembro de 2011, da proposta de regulamentação da Emenda Constitucional nº 29, de 2000, acerca da destinação de percentuais mínimos à saúde pela União, Estados e Municípios.  Posicionamento da bancada do PMDB favorável à regulamentação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f981c108ec00c58e726cb328ba042357201c3ac4bc6427821103103fbf2d83a
+size 368

@@ -1,1 +1,3 @@
-Pedido do Ministério Público Eleitoral de declaração da inelegibilidade do ex-Presidente Jair Bolsonaro. Defesa da prisão do ex-Presidente da República por crimes praticados contra o Estado Democrático de Direito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6175aa1015bde4b98663fd81df4f4397fd588d29f5f72b32d2e61d2cf25ce514
+size 220

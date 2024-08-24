@@ -1,1 +1,3 @@
-Apresentação da Proposta de Emenda à Constituição nº 96, de 2011, acerca da criação de pisos salariais nacionalmente unificados para os funcionários das entidades públicas de pesquisa agropecuária, e da Proposta de Emenda à Constituição nº 97, de 2011, sobre instituição de pisos salariais nacionalmente unificados para os funcionários das entidades públicas da área de sanidade animal e vegetal. Saudações aos profissionais do Instituto Mineiro de Agropecuária - IMA e da Empresa de Pesquisa Agropecuária de Minas Gerais - EPAMIG.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01b57254a80e2cf0bc6675e93d1e35124e5fb2d942af86669609794224ba9353
+size 555

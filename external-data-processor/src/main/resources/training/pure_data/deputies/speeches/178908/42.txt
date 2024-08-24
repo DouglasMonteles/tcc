@@ -1,1 +1,3 @@
-Congratulações à Polícia Civil do Estado de São Paulo e ao Ministério Público Estadual por operação de investigação sobre envolvimento de advogados com facções criminosas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:775fc31f0e288c620aeb4f8b2406f1194467e9013a8c24f819879299c74e2086
+size 184

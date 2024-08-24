@@ -1,1 +1,3 @@
-Posicionamento contrário do Bloco PSB/PCdoB/PMN/PRB ao Requerimento de votação artigo por artigo da Medida Provisória 453 de 2009 (Constitui fonte adicional de recursos para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8bd42db5e7a2da6b8249d5506fb5cac9a419b27f03d74274a2ce1ac342e26be
+size 307

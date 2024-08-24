@@ -1,1 +1,3 @@
-Apelo aos Deputados para votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee2422f5a438cdc87dcbf1ddfda552c388f428ec29d2f1ff636245bb5c6d06af
+size 47

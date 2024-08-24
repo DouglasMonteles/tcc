@@ -1,1 +1,3 @@
-O Deputado discutiu a importância de manter a desoneração para setores econômicos essenciais em um momento crítico para o país. Ele ressaltou a necessidade de apoiar os Municípios e a economia, especialmente no contexto de greves municipais e dificuldades de pagamento de folhas de pagamento. O deputado também fez um apelo bipartidário para incluir setores como saúde e moveleiro na desoneração, destacando a importância de preservar empregos e evitar demissões em meio à atual crise econômica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:121e08d9dbdb6979ad0ee5ad2267b0dbdb3fd468c6bc42e4f89b79411f0676bc
+size 511

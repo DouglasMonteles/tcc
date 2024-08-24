@@ -1,1 +1,3 @@
-Pujança do setor de mineração no Estado da Bahia. Expectativa de formalização de empresas do setor com a redução da carga tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9357fff91264f58d742073fc5252c944a510e2b98103d1692ac345e56e6a2c6e
+size 141

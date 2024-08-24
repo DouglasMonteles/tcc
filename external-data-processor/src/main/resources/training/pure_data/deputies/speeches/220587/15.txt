@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Presidente da Assembleia Legislativa do Estado do Acre, Deputado Luiz Gonzaga, em visita à Câmara dos Deputados. Reunião do Parlamentar com membros da Casa para debate dos elevados preços de passagens e da baixa oferta de voos ao Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76a9deade330becc64f3ebdc92ada1c8abdcf18fe5d224923108a092fda51a59
+size 274

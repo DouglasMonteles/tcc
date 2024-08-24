@@ -1,1 +1,3 @@
-Apoio à criação da Contribuição Social da Saúde - CSS. Homenagem ao ex-Deputado Federal Roberto Gouveia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c50db924e51415164b37939f668237b7af3b45d633181308ef7361fb91f8dcf
+size 110

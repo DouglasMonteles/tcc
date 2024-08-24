@@ -1,1 +1,3 @@
-Realização do 1º Fórum Legislativo da Copa do Mundo de Futebol - O Poder Legislativo Fazendo Parte do Time da Copa de 2014, em Manaus, Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9adc1ecea6f531344cbb0ffe69550d4baaf3e8e5e297f4a397f4b7355b83c41
+size 158

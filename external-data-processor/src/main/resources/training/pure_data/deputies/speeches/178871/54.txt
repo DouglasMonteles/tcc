@@ -1,1 +1,3 @@
-Apelo ao Ministro da Indústria, Comércio Exterior e Serviços, Marcos Pereira, para revisão da autorização para importação de café. Transcurso dos aniversários de emancipação político-administrativa e de fundação de Municípios capixabas e de colonização do Estado do Espírito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:013d82f7a76850d8647ba99fc196c6a49418e8935381f8680db31cd1d14cf198
+size 294

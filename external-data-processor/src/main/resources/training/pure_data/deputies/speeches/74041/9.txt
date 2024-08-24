@@ -1,1 +1,3 @@
-Empenho da Comissão de Direitos Humanos e Minorias na apuração de responsabilidades pela morte do funcionário da empresa Gerdau, Gilberto Toledo Pires de Almeida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab13d44a98c7ea5391e6e35679411d35037ec6a789dd1ca0c4b97f01158c190a
+size 166

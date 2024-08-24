@@ -1,1 +1,3 @@
-O Deputado anunciou e justificou a apresentação do Projeto de Lei nº 4.288, de 2023, que objetiva assegurar a todo policial, ativo ou aposentado, o direito à posse de uma arma de fogo institucional sob sua cautela permanente. O orador afirmou que o Ministro da Justiça e Segurança Pública, Flávio Dino, e dos Direitos Humanos e da Cidadania, Sílvio Almeida, não se preocupam com a vida dos policiais e citou, com indignação, casos recentes de execução de profissionais da segurança pública em São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74fdbc4f4e36d00cdba7e75325c4f02a7d5333a9099e59968b00974315d99710
+size 520

@@ -1,1 +1,3 @@
-Participação do orador em reunião de debates com médicos da equipe do Programa Saúde da Família, no Município de Campina Grande, Estado da Paraíba. Greve da categoria por reajuste salarial e melhores condições de trabalho. Apelo à Presidência de inclusão na pauta do Projeto de Lei nº 2.750, de 2011, sobre fixação de piso salarial nacional para os profissionais médicos. Conclamação aos Deputados da Casa para rejeição de dispositivos da Medida Provisória nº 568, de 2012, que reduzem salários e aumentam a carga horária da categoria nos estabelecimentos públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95c346bbfe8ab50a98f618646d293978864ad06ceb7680d922e0811054584edd
+size 591

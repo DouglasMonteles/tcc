@@ -1,1 +1,3 @@
-Apelo à Presidência para retomada da votação de projeto sobre o prazo de validade do laudo pericial para pessoas com autismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:067354062d968b85287312c1e35263fee70f0f1fdcd59dcf9e423052e8f43f05
+size 129

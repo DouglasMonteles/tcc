@@ -1,1 +1,3 @@
-Comunicado de solicitação, pelo Ministério Público do Estado de São Paulo, da prisão preventiva do ex-Presidente da República Luiz Inácio Lula da Silva. Conclamação da população para participação em manifestações contra a corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef6f438b178faa152d9ff292e78aa39c0c6bd64fd908ee347eb35f379893ad2f
+size 250

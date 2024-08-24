@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 636, de 2023,&nbsp;sobre a alteração da Lei nº 12.340, de 2010, para garantia de maior efetividade ao Plano de Contingência de Proteção e Defesa Civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:073a16a174a8b046803d115c509fd3d1848c70352c1f5138a3d4d7934e5e6301
+size 199

@@ -1,1 +1,3 @@
-Regozijo com o adiamento do Exame Nacional do Ensino Médio - ENEM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b667fdf9ce0f724cf86a8933dce9767f83ea18aac3a17e2733fedbd7f460102
+size 67

@@ -1,1 +1,3 @@
-Transcurso do Dia do Enfermeiro e da Semana da Enfermagem. Apoio às propostas de redução da jornada de trabalho dos enfermeiros. Defesa de criação da CPI destinada à investigação do roubo, receptação, contrabando, comércio ilegal e tráfico ilícito de obras de arte, bens culturais e de arte sacra no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2d80b647e49015f05be369244774ea3b6adc6f45015303050488124c9968692
+size 320

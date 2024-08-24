@@ -1,1 +1,3 @@
-Apoio do Presidente do Paraguai, Fernando Lugo, à candidatura da cidade de Campo Grande, Estado de Mato Grosso do Sul, para sede de etapa da Copa do Mundo de Futebol de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:179f2c643b04203a59d022e01c7baccd7713f3457479b15577b7d823eaf76886
+size 175

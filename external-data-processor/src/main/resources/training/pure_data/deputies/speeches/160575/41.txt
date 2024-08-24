@@ -1,1 +1,3 @@
-Transcurso do aniversário de promulgação da Lei Áurea. Decisão do Supremo Tribunal Federal pelo reconhecimento da união estável entre pessoas do mesmo sexo. Solidariedade à Senadora Marinor Brito, vítima de homofobia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a65da1536c96f2b5144b61dca5e9c724732fd3cb6074b8f085a01b8dd852f58
+size 226

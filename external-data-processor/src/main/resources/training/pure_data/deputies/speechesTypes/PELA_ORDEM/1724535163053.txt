@@ -1,1 +1,3 @@
-A Deputada informou que a Comissão de Relações Exteriores aprovou requerimentos de apoio a Israel e de repúdio aos ataques terroristas feitos pelo Hamas, além de um requerimento de pesar pelas mortes de civis inocentes nesse conflito. Ressaltou a necessidade de combater o terrorismo e de apoiar Israel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eeb3de978bf6ce243552a491a361b54c459b180cd7fc0a12bbef4ddf6d8bdc6
+size 308

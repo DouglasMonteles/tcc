@@ -1,1 +1,3 @@
-Falecimento do ex-Deputado Federal Eraldo Tinoco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb33befe0c8c45052ce0b147b2d4a219b532ffc091f56defbbecb7f3cf1eca0e
+size 49

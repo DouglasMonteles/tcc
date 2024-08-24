@@ -1,1 +1,3 @@
-Consulta à Presidência sobre a votação de projeto de lei destinado à preservação de salários e empregos diante da crise gerada pelo coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9f513a06324e37f95bd53d43f4717dea184f4fc9c090d8bc5b5cb8bda9cbdf0
+size 153

@@ -1,1 +1,3 @@
-Questão de ordem sobre a retirada das redes sociais e dos meios de comunicação da Casa, de expressão ofensiva ao Presidente Luiz Inácio Lula da Silva constante em discurso proferido por Deputado no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a14032401c6366cc2ce744267663abae3fc421e1b53e6b6ca7c221ab775e348
+size 213

@@ -1,1 +1,3 @@
-Saudação à ex-Governadora do Estado do Rio de Janeiro Rosinha Garotinho. Apoio à implantação do Trem de Alta Velocidade - TAV no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7cde1813747ba91d34733095458981a056d35f3683b85648273b64b2a767497
+size 141

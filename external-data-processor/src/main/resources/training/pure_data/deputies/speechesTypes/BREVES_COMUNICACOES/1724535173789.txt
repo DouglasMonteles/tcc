@@ -1,1 +1,3 @@
-Constatação do desvio de condutas pela CPI do BNDES. Maior transparência e igualdade no setor de bens de serviços de exportação. Desigualdades sociais brasileiras. Preservação do regime democrático. Imediata criação pela Casa de CPI para investigação da conduta de institutos de pesquisas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1deb504f54493a20ceba36668690e62db6302f02c8a5829a11879e3390f8b068
+size 313

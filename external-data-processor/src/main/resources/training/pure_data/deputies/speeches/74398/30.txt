@@ -1,1 +1,3 @@
-Transcurso do 50º aniversário de fundação do Sindicato do Comércio Varejista de Combustíveis e Lubrificantes do Estado do Rio Grande do Sul - SULPETRO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd4974b089069f021de6ec8c53e88443c39be1a46278c1287e905d8cd40da2b9
+size 157

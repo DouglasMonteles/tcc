@@ -1,1 +1,3 @@
-O Deputado encaminhou a votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3.777, de 2023, que dispõe sobre indenização às vítimas de crimes contra a liberdade sexual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e309bcc0bfa5023bf5b5ab9498f1ea126fd25519171802ebd1a5e465bb603d85
+size 208

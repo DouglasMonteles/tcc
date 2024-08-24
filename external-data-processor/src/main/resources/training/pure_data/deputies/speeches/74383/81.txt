@@ -1,1 +1,3 @@
-Informação ao Plenário de recebimento dos Ofícios nºs 282 e 283, de 2016, com encaminhamento do processado das Medidas Provisórias nº 713 e 714, de 2016, respectivamente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98439cab113dde9880181fb07cf99753fac76d1f318ce8292f35ad10b73d3600
+size 177

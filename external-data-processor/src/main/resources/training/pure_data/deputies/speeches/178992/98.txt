@@ -1,1 +1,3 @@
-Realização do Gran Prix São Paulo de Fórmula 1 de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a0abc6c161147a29cc24a2939f9c79cfecd542e488e1f534009e7e3df273f16
+size 59

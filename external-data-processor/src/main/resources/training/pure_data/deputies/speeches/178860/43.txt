@@ -1,1 +1,3 @@
-Alerta aos Deputados sobre o equívoco da Casa na apreciação da matéria por meio de lei ordinária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73df22894d428090b1b068b6998442c35521f65c92cc3a9f9c92942969eff423
+size 102

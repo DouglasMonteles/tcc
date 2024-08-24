@@ -1,1 +1,3 @@
-Expectativa quanto à execução de obras hídricas na região do Alto Sertão do Estado da Paraíba. Compromisso do Ministro da Integração da Nacional de conclusão do projeto de transposição das águas do Rio do São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03ea5a4eefbecf1f8a4452284e301095c5dc2e7ca51a5024fb1daf90ec7d6a4e
+size 233

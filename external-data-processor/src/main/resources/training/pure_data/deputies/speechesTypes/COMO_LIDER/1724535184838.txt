@@ -1,1 +1,3 @@
-Indicação do orador para a Presidência da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51f6feee54b965f1af6cad0f063757187a5b3c47174983257a1530a57b9f74d2
+size 111

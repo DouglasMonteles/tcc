@@ -1,1 +1,3 @@
-Visita à Casa de comitiva de oficiais da Polícia Militar do Estado de São Paulo. Solicitação ao Ministro das Cidades, Gilberto Kassab, de destinação de unidades residenciais do Programa Minha Casa, Minha Vida a policiais militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46b0d87a93e7df4f2324f8e6463ab227a86f8d5e14a89fe2cfc2da33ce5748cd
+size 238

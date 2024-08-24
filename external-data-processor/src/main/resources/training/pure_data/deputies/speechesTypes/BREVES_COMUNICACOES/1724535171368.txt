@@ -1,1 +1,3 @@
-Realização, pela Comissão de Meio Ambiente e Desenvolvimento Sustentável, de audiência pública com a presença da Ministra do Meio Ambiente, Izabella Teixeira, destinada ao debate de assuntos relacionados à Pasta. Anúncio de realização do Seminário Cidades Sustentáveis e do Fórum Social Mundial, em Porto Alegre, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a3d6f0e4045b4798284e6a545fa0db8ee884fe77187715bbc0e84b3d23a4dbc
+size 355

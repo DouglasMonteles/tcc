@@ -1,1 +1,3 @@
-Indignação do orador com decisão da Agência Nacional de Energia Elétrica - ANEEL de taxação da energia solar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed4452956a681bf98ce3600c9674d0fd7f976ce098eb895210554e098cb552f4
+size 116

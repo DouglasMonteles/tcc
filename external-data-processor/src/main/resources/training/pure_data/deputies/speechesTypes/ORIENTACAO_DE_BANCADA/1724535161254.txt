@@ -1,1 +1,3 @@
-Posicionamento contrário do PSOL ao Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória 431 de 2008 (Dispõe sobre a reestruturação de planos de cargos e salários de servidores da administração federal, dos militares e das polícias federal e rodoviária federal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:56e8260335fd7b46dd9c24ec9d5de041a3504b91a72be3f475315c47d5aeb909
+size 290

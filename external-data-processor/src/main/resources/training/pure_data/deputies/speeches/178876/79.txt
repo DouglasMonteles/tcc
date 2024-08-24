@@ -1,1 +1,3 @@
-Regozijo com o lançamento, pelo Presidente da República, Michel Temer, e pelo Ministro das Cidades, Bruno Araújo, do Programa Cartão Reforma, para concessão de recursos financeiros para compra de material de construção para reforma de moradias de famílias de baixa renda, conforme programa similar implantado no Estado de Goiás em 1999. Solicitação ao Governo Federal de ampliação do Transporte Rápido por Ônibus - BRT do Distrito Federal para os Municípios goianos da região sul do Entorno de Brasília.
+version https://git-lfs.github.com/spec/v1
+oid sha256:941b640df3c629c0040c4babce0809bee6256cde42fb71569ad00c22c4d3ef5a
+size 521

@@ -1,1 +1,3 @@
-Descontentamento de Parlamentares com a redução dos preços de combustíveis e do gás de cozinha. Homenagem ao Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb26e54ea8964c7e5b52772e042f161735be74c5a2be7b458f412ce4cbf5b15f
+size 152

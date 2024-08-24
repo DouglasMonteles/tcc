@@ -1,1 +1,3 @@
-Defesa de entendimento na Câmara dos Deputados acerca da alternância de poder no Governo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:215d304a295c341695f82ddb2535bcec2ea93e2fca4b0d9099a01cf544e5bb3e
+size 102

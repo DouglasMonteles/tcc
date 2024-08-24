@@ -1,1 +1,3 @@
-Transcurso do 75º aniversário de instalação da Igreja Evangélica Assembleia de Deus no Município de Passo Fundo, Estado do Rio Grande do Sul. Trabalho social realizado pela congregação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f014d23e4371fb2e80b60344c3972b0a1811fa2963239bcbf369f076304184e
+size 193

@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 3.792, de 2019, sobre a criação do selo Empresa Amiga da Mulher. Escalada do crime de feminicídio no Estado de Rondônia e no Brasil. Apresentação do Projeto de Lei nº 1.006, de 2023, sobre a alteração da Lei nº 11.340, de 2006, (Lei Maria da Penha), para reconhecimento do monitoramento eletrônico como medida protetiva de urgência. Criação da &nbsp;Frente Parlamentar de Cuidados das Mães de Crianças e Adolescentes com Deficiência, Autismo e Doenças Raras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ae11bf9fde774bbea795fde6e5a5a3c4830a9fa77380b1133941c7378a1393a
+size 509

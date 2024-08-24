@@ -1,1 +1,3 @@
-Transcurso do Dia dos Pais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09be00bc6418e6697f0cb94bf4cf1ce6ec331cc34c993c023e02e61e344fa9f4
+size 27

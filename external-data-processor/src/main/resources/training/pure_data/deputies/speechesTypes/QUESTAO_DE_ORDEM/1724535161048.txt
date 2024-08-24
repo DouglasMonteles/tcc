@@ -1,1 +1,3 @@
-Questão de ordem sobre a devolução  da Emenda nº 20 ao autor, em face de sua incompatibilidade com o projeto de lei em votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a93a267c97078893891265c99cea73a90f62931fb39275b4f05f60fcfeb960a
+size 133

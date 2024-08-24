@@ -1,1 +1,3 @@
-Solidariedade a familiares de suicidas no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90d2bde89952222dff350074f07ef511f54ee4a3da79fe657052fae7e992735e
+size 49

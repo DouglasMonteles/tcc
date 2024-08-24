@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Alfabetização. Empenho de sucessivos governos brasileiros no combate ao analfabetismo. Sucesso das ações destinadas a crianças e adolescentes para a universalização e melhoria do ensino fundamental. Elevado índice de analfabetismo funcional, segundo dados da Pesquisa Nacional por Amostra de Domicílio - PNAD 2012. Relevância do Pacto Nacional pela Alfabetização na Idade Certa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6562e3500734e84ee2bd4f43d82714dc3a67357a1d360a961f093b5f9daae75
+size 420

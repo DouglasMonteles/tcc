@@ -1,1 +1,3 @@
-Elogio à Câmara dos Deputados pela aprovação do Projeto de Lei nº 23. de 2020, sobre as medidas sanitárias para enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus. Morosidade do Governo Jair Bolsonaro na repatriação de cidadãos brasileiros residentes na República Popular da China.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fcd47fb4ba7063ab65a8b10c0221c61ec25ffff477a62a2421583644123e941
+size 345

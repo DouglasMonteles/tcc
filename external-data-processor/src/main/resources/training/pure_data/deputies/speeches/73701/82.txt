@@ -1,1 +1,3 @@
-Homenagem à memória do pesquisador e geógrafo Milton Santos. Eleição do engenheiro agrônomo José Graziano da Silva para o cargo de Diretor-Geral da Organização das Nações Unidas para Agricultura e Alimentação - FAO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d013161ea0442f49bd82743b194f54bbc8ea804d60621d5fa35e245a5aac8e5
+size 228

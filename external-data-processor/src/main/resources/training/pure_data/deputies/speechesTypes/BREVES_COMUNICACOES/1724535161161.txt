@@ -1,1 +1,3 @@
-Resultado do encontro do orador com o Secretário Nacional de Proteção e  Defesa Civil do Ministério do Desenvolvimento Regional, Alexandre Lucas, para debate do apoio às populações atingidas por enchentes nos Municípios de Formosa da Serra Negra, Bacurituba e Boa Vista do Gurupi, no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ad19e48801ff8fc4864b321bf64d517128efc76c807c4635923fb3f785dc76d
+size 312

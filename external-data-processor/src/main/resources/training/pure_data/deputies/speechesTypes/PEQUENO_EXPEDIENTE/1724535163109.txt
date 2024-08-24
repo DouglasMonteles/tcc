@@ -1,1 +1,3 @@
-Necessidade de aperfeiçoamento do projeto de Lei de Diretrizes Orçamentárias — LDO de 2009.
+version https://git-lfs.github.com/spec/v1
+oid sha256:381796672c544a6f491d061a6450997770ef6c3f08b009cf08e059422cec6c0c
+size 96

@@ -1,1 +1,3 @@
-Lançamento pelo Ministério da Saúde do novo Programa Mais Médicos. Adesão das municipalidades brasileiras ao programa. Retomada da Política Nacional de Saúde Bucal – Programa Brasil Sorridente. Robustez do Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:806796b7ad53817acefd014bd86344c16339d3b86eacafc5049d90a81506b0c0
+size 239

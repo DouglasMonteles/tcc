@@ -1,1 +1,3 @@
-Comprovação, pela CPI do MST, do vínculo do PT com o Movimento dos Trabalhadores Rurais Sem Terra no Estado da Bahia. Oposição do orador ao governo petista. Atuação do Parlamentar em defesa dos valores cristãos e da família brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:515d082b91146ed0fdf7a3ba40c4a01fdb6299368be9fa42edd753f4a0fad20e
+size 244

@@ -1,1 +1,3 @@
-Ascensão da Associação Atlética Ponte Preta à Série A do Campeonato Brasileiro de Futebol. Manutenção do Guarani Futebol Clube na Série B do Campeonato Brasileiro de Futebol. Aceitação, pelo ex-jogador de futebol Ronaldo Luís Nazário de Lima, do convite para o exercício do cargo de Diretor do Comitê Organizador Local da Copa do Mundo de Futebol de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e5950cf0a6b684a05825aada17b5bf9899a1b837dd5e6993ad7d30b3a006ce9
+size 370

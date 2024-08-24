@@ -1,1 +1,3 @@
-Posicionamento favorável do PSDB ao  Projeto de Lei Complementar 200 de 2012 (Acrescenta § 2º ao art. 1º da Lei Complementar nº 110, de 29 de junho de 2001, para estabelecer prazo para a extinção de contribuição social), do Senado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4760b5f0411352dd745d0cae5551364856224731f3488428f5f1e7e8841d9a7a
+size 240

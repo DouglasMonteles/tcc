@@ -1,1 +1,3 @@
-Balanço negativo dos primeiros 88 dias do Governo Luiz Inácio Lula da Silva. Repúdio à atribuição ao agronegócio, pelo Presidente da Agência Brasileira de Promoção de Exportações e Investimentos - ApexBrasil, Jorge Viana, da responsabilidade pela degradação do meio ambiente. Retorno do ex-Presidente Jair Bolsonaro ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdcab264af339391d0d7924be82946a37aac31e7352bba7945e93ada1e5c0520
+size 340

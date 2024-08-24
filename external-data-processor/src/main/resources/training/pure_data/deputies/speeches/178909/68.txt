@@ -1,1 +1,3 @@
-Transcurso do 70º aniversário da Igreja Evangélica Assembleia de Deus do Município de Castanhal, Estado do Pará. Implantação do Polo de Ciência e Tecnologia do Mar e Petróleo em novo campus da Universidade Federal do Pará, no Município de Salinópolis, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66dd796d7126006d5466e7476efec0ea4c1d045a65913184d40e46aab2bfa677
+size 280

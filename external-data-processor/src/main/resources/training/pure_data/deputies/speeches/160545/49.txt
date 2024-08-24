@@ -1,1 +1,3 @@
-Congratulação ao Presidente Henrique Eduardo Alves pela condução dos trabalhos da Casa. Solicitação à Presidência de concessão de prioridade aos projetos de autoria dos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b1ad75ae11785cb277f24f669de52561e16623d7a6ffc8f7b15cea0e76e0e90
+size 192

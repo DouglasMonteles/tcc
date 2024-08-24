@@ -1,1 +1,3 @@
-Realização de teleconferência no âmbito dos Poderes Legislativos destinada à discussão dos preparativos para a Copa do Mundo de Futebol de 2014. Congratulações às capitais escolhidas para subsedes do evento, em especial Porto Alegre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2eee515f696b38243da4464a1feb5b1612139874f9bcedf87edc02a6cffb9a5
+size 242

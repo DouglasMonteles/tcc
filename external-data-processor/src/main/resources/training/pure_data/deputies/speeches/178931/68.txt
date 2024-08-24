@@ -1,1 +1,3 @@
-Alerta do Conselho Federal de Medicina - CFM sobre a necessidade de melhoria da rede médico-hospitalar no Brasil e na cidade do Rio de Janeiro, com vistas à realização dos Jogos Olímpicos e Paraolímpicos Rio 2016.  Excelência do atendimento da rede pública de saúde no Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34ff846989579b2a8590d882c68b5e78b796dbca3036d7e60c86862010c85c5a
+size 286

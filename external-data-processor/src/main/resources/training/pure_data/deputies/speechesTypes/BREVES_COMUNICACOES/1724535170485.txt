@@ -1,1 +1,3 @@
-Importância da Proposta de Emenda à Constituição nº 233, de 2008, do Poder Executivo, sobre alteração do sistema tributário nacional. Êxito da desoneração tributária promovida pelos Governos do Estado de Pernambuco e do Município de Recife. Ampliação de investimentos da empresa Contax Participações S/A na Capital pernambucana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceb70d4675e6ad9e39130026057d32c0b927374e9650a72ec6ffb59467bcd66c
+size 345

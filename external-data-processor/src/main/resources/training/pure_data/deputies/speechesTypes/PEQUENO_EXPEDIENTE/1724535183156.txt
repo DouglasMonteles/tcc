@@ -1,1 +1,3 @@
-Realização da 45ª edição da Exposição Feira Agropecuária, Industrial e Comercial de Maringá - EXPOINGÁ, no Município de Maringá, Estado do Paraná. Transcurso do 70º aniversário de fundação do Município.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc64dc812071cb8d4142e5ba57dee3066f3bc8bf92c0bc3127bab199f5e52bb3
+size 220

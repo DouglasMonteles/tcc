@@ -1,1 +1,3 @@
-Conivência do Supremo Tribunal Federal com a prática de corrupção pelo Governador do Estado de Alagoas, Paulo Dantas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9e0c33f0bd7c310ac57f48220853fd38e2916987a4f6eab5c70978a22944c4e
+size 121

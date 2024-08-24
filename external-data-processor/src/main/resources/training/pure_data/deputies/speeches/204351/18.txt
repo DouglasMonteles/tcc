@@ -1,1 +1,3 @@
-Debate da situação da saúde no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbaa478e6d3ff1ac30a9a89f91e57fa255fb4befe7c6b8008798c0f056f8dc7e
+size 41

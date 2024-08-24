@@ -1,1 +1,3 @@
-Elevado número de mortes em decorrência de acidentes de trânsito no Estado do Rio Grande do Sul durante o recente final de semana prolongado. Lançamento por entidades civis do movimento Chega de Acidentes! a favor da instituição do Plano Nacional de Segurança Viária - PNSV. Participação do orador na 13ª Jornada Nacional de Literatura, realizada no Passo Fundo, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b102ad606666853849580084f563489436fef1b3e5ed27fa99aa3b072fc31832
+size 402

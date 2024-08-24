@@ -1,1 +1,3 @@
-Descaso do Presidente Jair Bolsonaro com a crise socioeconômica vigente no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb85ed3bf9f1bba5561388353d12c0bf15e627938d05676ce6b79d0d8e745a71
+size 82

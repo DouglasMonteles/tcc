@@ -1,1 +1,3 @@
-Solicitação à Presidência de inclusão na pauta da Ordem do Dia do Projeto de Lei 5.393 de 2005, relativo ao vale-transporte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9f181542ee8f1f51e3b8cdb045c96df99d7431a2a678847e801251f7dfea4eb
+size 129

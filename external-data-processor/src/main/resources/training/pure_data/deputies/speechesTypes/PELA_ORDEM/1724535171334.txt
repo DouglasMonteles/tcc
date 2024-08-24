@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 3.261-A, de 2019, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1aef279fbb5520898ff6b9219792d26ad8cb9ddf03dfee0cf003fbab85c4d54b
+size 173

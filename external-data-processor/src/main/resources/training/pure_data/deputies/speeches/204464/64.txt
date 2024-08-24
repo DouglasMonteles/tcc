@@ -1,1 +1,3 @@
-Declaração de voto contrário à aprovação do Projeto de Lei nº 10.372, de 2018, sobre alteração das legislações penal e processual penal para aperfeiçoamento do combate ao crime organizado, aos delitos de tráfico de drogas, ao tráfico de armas e à milícia privada, aos crimes cometidos com violência ou grave ameaça e aos crimes hediondos, bem como para agilidade e modernização da investigação criminal e da persecução penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e75e01496a3ddeb736466f87355bfa770583c036251c9bef6f4d8086b67ae745
+size 449

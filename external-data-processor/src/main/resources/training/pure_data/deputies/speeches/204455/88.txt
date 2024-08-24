@@ -1,1 +1,3 @@
-Defesa de adoção do voto auditável nas eleições brasileiras de 2022. Apoio à implantação no País do sistema de voto denominado distritão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93326aca8f92493ff70b38e3c10d1be8ef2e9e5838269ca594d2b00d468f3040
+size 147

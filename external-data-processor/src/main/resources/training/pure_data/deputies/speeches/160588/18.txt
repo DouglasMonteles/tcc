@@ -1,1 +1,3 @@
-Importância da realização de obras no Anel Rodoviário de Belo Horizonte, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0f8b35457fbbf7efbb9e6a1367236550b3ce7be22543db84e0dbe657809f5f2
+size 100

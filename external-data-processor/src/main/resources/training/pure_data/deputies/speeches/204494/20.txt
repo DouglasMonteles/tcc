@@ -1,1 +1,3 @@
-Natureza leviana das acusações desferidas pelo Deputado Otoni de Paula contra o orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3401afc1f7de96019f30497d729341b30d7735240d4ed44dd99aba509184a34c
+size 89

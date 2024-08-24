@@ -1,1 +1,3 @@
-Saudação ao Apóstolo Valdemiro Santiago, Presidente da Igreja Mundial do Poder de Deus, em aparte ao discurso do Deputado Marcelo Aguiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7d0b69e0c28afb20d3958e35c0fb33fc51d5e97c1888d30627135e9f1baf077
+size 140

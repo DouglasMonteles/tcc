@@ -1,1 +1,3 @@
-Excelência da gestão da Diretora-Superintendente do SEBRAE no Distrito Federal, Rosemary Rainha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b73093b22f6f1dae5fca4c6583f15a2834bb8278d2b715f7f1bab178fbffa020
+size 98

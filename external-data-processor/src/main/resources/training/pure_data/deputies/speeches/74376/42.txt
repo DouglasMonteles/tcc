@@ -1,1 +1,3 @@
-Transcurso do cinquentenário das Obras Sociais Irmã Dulce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2b5e8952be9d90fa4630303d6cd7513b09a691b9ebbcb0010578357035561f9
+size 60

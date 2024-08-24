@@ -1,1 +1,3 @@
-Transcurso do 78º aniversário de fundação da Rádio Timbira, instalada em São Luís, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f300acd159ebe4cd9a4c8aea950297b136014e18c6d5563c5d65ae2f169e90a
+size 110

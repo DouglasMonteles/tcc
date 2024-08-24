@@ -1,1 +1,3 @@
-Reforma estrutural das áreas econômica, social e política para atendimento aos anseios da população brasileira. Apoio às pautas de promoção do crescimento econômico com geração de emprego e renda. Implementação de políticas agrícolas. Atuação do orador em defesa da vida, da família e dos valores cristãos, bem como dos interesses do País e do Estado do Espírito Santo, notadamente do Município de Cariacica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e53af12ed1ff6de1d43080b03d880b59127f859e06897d1d9644c34effd983a0
+size 430

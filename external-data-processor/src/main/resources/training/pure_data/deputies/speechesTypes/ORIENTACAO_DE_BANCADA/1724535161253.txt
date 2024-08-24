@@ -1,1 +1,3 @@
-Posicionamento favorável do PPS ao Requerimento de retirada da pauta da Ordem do Dia da  Medida Provisória 427 de 2008 (Acrescenta e altera dispositivos na Lei 5.917 de 1973, que aprova o Plano Nacional de Viação, reestrutura a VALEC - Engenharia, Construções e Ferrovias S.A., encerra o processo de liquidação e extingue a Empresa Brasileira de Planejamento de Transportes - GEIPOT, altera as Leis 9.060 de 1995 e 11.297 de 2006, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ac6541d07e2255f817c7baf437cbf8300f72c2ba97e905ac5c0d5f8d9e3803e
+size 467

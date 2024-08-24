@@ -1,1 +1,3 @@
-Posicionamento contrário do PSB ao Requerimento de retirada da pauta da Ordem do Dia do Projeto de Lei 7.663 de 2010 (Acrescenta e altera dispositivos à Lei   11.343,   de 2006, para tratar do Sistema Nacional de Políticas sobre Drogas, dispor sobre a obrigatoriedade da classificação das drogas, introduzir circunstâncias qualificadoras dos crimes previstos nos arts. 33 a 37, definir as condições de atenção aos usuários ou dependentes de drogas e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:04138851f65cbdf69746f202dbd0c6932782898b043bbb912d5beaf5db7991fb
+size 487

@@ -1,1 +1,3 @@
-Discussão do Projeto de Decreto Legislativo 1.739 de 2009 (Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da República Bolivariana da Venezuela sobre Transferência de Pessoas Condenadas, assinado em Caracas, em 27 de junho de 2008).  Ponderações sobre a impropriedade das críticas ao comportamento dos partidos de Oposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a28907b9da263cd476297f3234bd6d88c12f4b2cc364cdc5fa0573bb63f97e89
+size 372

@@ -1,1 +1,3 @@
-A Deputada abordou uma Proposta de Emenda à Constituição (PEC) voltada para as mães de filhos com doenças incapacitantes. Destacou a ausência de normas que amparem essas mulheres, que muitas vezes deixam de trabalhar para dedicar-se integralmente aos cuidados dos filhos. A proposta sugere um auxílio do Estado para as mães nessas circunstâncias, condicionado a 15 anos de contribuição e comprovada necessidade de dedicação exclusiva. Convidou os colegas parlamentares a subscreverem a proposta, visando reconhecer e valorizar o crucial papel desempenhado por essas mulheres nas famílias brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ebbfe6aa8cf9683ca472cb295ae60f4dbe6019b566605c3bf1aaf97cdc2748a
+size 614

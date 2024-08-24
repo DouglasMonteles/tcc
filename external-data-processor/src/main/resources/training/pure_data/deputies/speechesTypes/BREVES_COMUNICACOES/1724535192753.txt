@@ -1,1 +1,3 @@
-Início do curso de capacitação de gerentes de programas sociais no Estado de Mato Grosso do Sul, fundamentado nas diretrizes e conceitos do Programa Gestão Social com Qualidade, do Ministério do Desenvolvimento Social e Combate à Fome.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8b46a4731e1437848a5568de858cae55cf9bc729cfe03807da97590be2b82fc
+size 241

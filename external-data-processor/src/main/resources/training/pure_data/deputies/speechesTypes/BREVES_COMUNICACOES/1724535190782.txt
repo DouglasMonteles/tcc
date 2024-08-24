@@ -1,1 +1,3 @@
-O Deputado destacou a importância da derrubada do veto à desoneração da folha de pagamento para a competitividade de diversos setores e manutenção de empregos. Expressou sua empatia com aqueles que enfrentam desafios no mercado de trabalho. Parabenizou os parlamentares que votaram pela queda do veto, independentemente do posicionamento político.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b76cc09478473ed3c70478261dec9488632ca617b7722f01e6cd6931f845296b
+size 354

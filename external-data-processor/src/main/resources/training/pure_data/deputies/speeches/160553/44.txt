@@ -1,1 +1,3 @@
-Aprovação do relatório da Subcomissão da Comissão de Seguridade Social e Família instituída para acompanhamento da crise financeira das Santas Casas de Misericórdia, hospitais filantrópicos e instituições de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:217f2b578506c811c867c2097a1da63ce7a8fc56c148c8700aea44dbd5a58102
+size 226

@@ -1,1 +1,3 @@
-Críticas ao Governo Michel Temer. Preocupação com eventuais medidas de supressão de benefícios da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:303b805a1173c22f0b3841addbbdd1290c5b1b4d0ed3619897292fcb4943943d
+size 126

@@ -1,1 +1,3 @@
-Reponsabilidade da gestão anterior do PT pela atual crise financeira do Governo do Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fc55d04388fa3a9d4ecbfccd81e6b19db5de8e19d59d1ae1a22843f274e4b3c
+size 112

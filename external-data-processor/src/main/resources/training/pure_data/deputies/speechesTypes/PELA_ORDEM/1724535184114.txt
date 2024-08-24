@@ -1,1 +1,3 @@
-Teor da Carta dos Governadores do Nordeste, resultante de encontro realizado no Distrito Federal. Realização da Bienal da UNE - União Nacional dos Estudantes, em Salvador, Estado da Bahia. Posicionamento do orador contrário à extinção do programa A Voz do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff2c78513139f663e82382d63f4ee84a3d740f306d043cb2ceb5c378d3d71883
+size 270

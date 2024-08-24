@@ -1,1 +1,3 @@
-Bases para o exercício do mandato parlamentar. Retrospecto da trajetória política do orador. Avanços alcançados pelo País nos últimos anos. Defesa de ampliação das políticas públicas destinadas ao combate à pobreza. Adoção de medidas efetivas de combate à corrupção e de aprimoramento do Sistema Único de Saúde - SUS. Importância do aprimoramento da gestão pública no País. Papel do setor privado no combate à sonegação e à pirataria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbbaf7692615c3f2e9a42c4d88b49cb9bf572b4b08dd51d9a66ac35f06e1171c
+size 461

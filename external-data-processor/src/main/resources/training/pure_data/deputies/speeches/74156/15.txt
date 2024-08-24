@@ -1,1 +1,3 @@
-Promoção, pela Frente Parlamentar em Defesa da Infra-Estrutura Nacional, do Seminário Mineração e sua Importância na Economia Brasileira. Realização de seminário sobre o tema no Município de Governador Valadares, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41d1a7bc68d2e4c79ff9e1b79bdfb8bcb66f368dbdf509aa6783ff47d300583f
+size 246

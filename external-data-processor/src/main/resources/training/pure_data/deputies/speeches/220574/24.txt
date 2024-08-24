@@ -1,1 +1,3 @@
-Imediata adoção, pelo Congresso Nacional, de medidas de fiscalização dos recursos federais destinados aos Estados brasileiros para enfrentamento da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:824016f1ee64f5abc9064e3260cf61c3f4f69bb2e0e18d91dc3fe53869b2ec7d
+size 161

@@ -1,1 +1,3 @@
-Liberação do Bloco PSB/PDT/PCdoB/PMN/PRB para votação do  § 15 do art. 62 da Constituição Federal, alterado pelo art. 1º do Substitutivo à PEC 511 de 2006 (Altera o art. 62 da Constituição Federal para disciplinar a edição de medidas provisórias),  que permite ao Presidente da República, no prazo de quinze dias a contar da edição, retirar medida provisória, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d55321b52ea0cc4643a62e1f1ad0c7fb7046a44bea1713fa73db25612336c4b5
+size 392

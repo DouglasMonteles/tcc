@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da expressão desde que, no momento da compra, tenham classificação em categoria de risco de crédito no mercado local equivalente a BB - ou superior, conferida por pelo menos uma das três maiores agências internacionais de classificação de risco, constante no inciso II, do art. 8º, da Proposta de Emenda à Constituição nº 10, de 2020,  referente ao estabelecimento do regime extraordinário fiscal, financeiro e de contratações para enfrentamento da calamidade pública nacional decorrente da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aa0ac316e89ca8d7f9d2b026faed581eba414e86d470d1b6ad49d11f16dcb7d
+size 625

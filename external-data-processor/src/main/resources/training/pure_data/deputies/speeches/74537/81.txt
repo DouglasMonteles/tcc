@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda 6, do Senado, destacada, ao Projeto de Lei de Conversão 30 de 2008 (Medida Provisória 443 de 2008), que autoriza o Banco do Brasil S.A e a Caixa Econômica Federal a constituírem subsidiárias e a adquirirem participação em instituições financeiras sediadas no Brasil, que impõe  limites à participação de capital da União e suas empresas, bem como de entidades fechadas de previdência complementar  que tenham contribuições patronais de empresas públicas ou sociedades de economia mista controladas pela União, nos empreendimentos imobiliários realizados  por meio de Sociedade de Propósito Específico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:408257a887e6c1a337c4c6a7040899eac2164dc107125772b296d8903d40a81c
+size 661

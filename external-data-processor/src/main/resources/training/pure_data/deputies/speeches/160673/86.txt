@@ -1,1 +1,3 @@
-Expectativa quanto à apuração final do trágico incêndio ocorrido em boate no Município de Santa Maria, Estado do Rio Grande do Sul. Presença do agente tóxico cianeto na composição da fumaça do incêndio como causa principal da morte de mais de duas centenas de jovens. Apresentação do Projeto de Lei nº 4.949, de 2013, que dispõe sobre normas de prevenção e proteção contra incêndios em boates e casas de shows. Elogio à Presidenta Dilma Rousseff pelo cancelamento de compromissos em sua viagem ao Chile e imediata visita a Santa Maria, para ultimar providências e confortar familiares das vítimas da tragédia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ab858539572de4e526e140d3752b3f390ad536e48000790eb8472074101505f
+size 634

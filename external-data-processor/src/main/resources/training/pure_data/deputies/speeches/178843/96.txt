@@ -1,1 +1,3 @@
-Apoio à proposta encaminhada pelo Governo Jair Bolsonaro para a redução da carga tributária incidente sobre os preços dos combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48d297e50362a320798ac1f36eedc3df139a9a527c4603cc08d504c2fed5b9b1
+size 141

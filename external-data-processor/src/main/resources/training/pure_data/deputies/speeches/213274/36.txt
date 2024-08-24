@@ -1,1 +1,3 @@
-Congratulação ao Presidente Arthur Lira pela condução dos trabalhos da Casa. Pedido ao Governo Federal de antecipação do pagamento do 13º salário dos aposentados e pensionistas mantidos pelo Instituto Nacional do Seguro Social - INSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ceff75a1588c620b89a2929d4d795d7e67041eaef350e68aa419152159d3426
+size 242

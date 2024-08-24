@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Minas e Energia, do Projeto de Decreto Legislativo nº 07, de 2019, para sustação dos efeitos do Decreto nº 9.642, de 2018, da Presidência da República, acerca da redução gradativa de descontos concedidos em tarifas de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db987f4d6e08bd3858ef3fe613fdfe84fcfb1a3a1ee6948f09c687b542c29abe
+size 275

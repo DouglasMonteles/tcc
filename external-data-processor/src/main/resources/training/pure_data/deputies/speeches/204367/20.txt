@@ -1,1 +1,3 @@
-Reunião de membros do Fórum Parlamentar Catarinense com o Ministro da Infraestrutura, Tarcísio Gomes de Freitas, para debate da cobrança de pedágios rodoviários na região sul do Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:607b51158f28bfeaccc7a7b2c545ab2b99ecc39ed85a10eafc656f5b3d09c3e9
+size 210

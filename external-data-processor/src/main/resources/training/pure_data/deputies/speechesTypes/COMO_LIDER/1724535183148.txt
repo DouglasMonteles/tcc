@@ -1,1 +1,3 @@
-Reconhecimento de erro pelo orador na generalização sobre a ocorrência de chantagem para a votação da Medida Provisória nº 870, de 2019. Necessidade de relação respeitosa entre os Deputados, independente de posições ideológicas e partidárias. Expectativa de atuação da Casa em prol dos interesses do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2528367536abb86d883b4311f311327c2f111c195565f090e13b42d4082109e2
+size 321

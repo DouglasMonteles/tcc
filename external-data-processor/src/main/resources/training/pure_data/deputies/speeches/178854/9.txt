@@ -1,1 +1,3 @@
-Falecimento do ex-Prefeito Hamilton Rios de Araújo, do Município de Conceição do Coité, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e123e33ec82343fedf98e683e1d3dab3fe484517262ab7f8086b78f503356f2c
+size 109

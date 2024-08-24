@@ -1,1 +1,3 @@
-Relevância histórica da aprovação pela Casa do projeto de lei sobre a concessão de anistia post mortem ao marinheiro João Cândido Felisberto, líder da Revolta da Chibata, e aos demais participantes no movimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f9fd1bfa6b5902f30f7984c5a2c75e225763c050d6f1256157547ec6825b9e8
+size 219

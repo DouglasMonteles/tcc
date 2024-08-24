@@ -1,1 +1,3 @@
-Defesa de aprovação da Medida Provisória nº 564, de 2012, acerca da instituição do Plano Brasil Maior, destinado ao fortalecimento da indústria nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1f4e8d87ddc0a3cf46a6400330320546923cbbe254eea50bbb5d41a8e219007
+size 160

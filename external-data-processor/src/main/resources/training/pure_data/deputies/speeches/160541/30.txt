@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre a candidatura do Deputado Simão Sessim a cargo da Mesa Diretora pelo PP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7cf3b2f92db98c69816016c91a7f46127420252da5b2e273dd8f4a0e3b9c6f5
+size 107

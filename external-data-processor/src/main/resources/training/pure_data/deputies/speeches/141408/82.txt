@@ -1,1 +1,3 @@
-Presença, na Casa, de Vereadores de São Luís, Estado do Maranhão. Imediata aprovação da Proposta de Emenda à Constituição n° 333, de 2004, sobre a recomposição numérica das Câmaras Municipais brasileiras. Redução dos valores das aposentadorias de ex-combatentes e das pensões de seus dependentes. Sugestão aos aposentados de realização de manifestações em prol da aprovação das propostas de extinção do fator previdenciário e de correção de proventos pelos índices de reajuste do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25ff76bb574cfaceb4b345e3cc3f921b3028962aba5dbe6eefcea26aae5cb83a
+size 527

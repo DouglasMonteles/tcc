@@ -1,1 +1,3 @@
-Crise do agronegócio brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdab0f6bfded47f4ba48b767924c9499e95c3416aae630fa8fa901d9f07162bf
+size 33

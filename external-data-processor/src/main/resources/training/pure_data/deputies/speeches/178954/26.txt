@@ -1,1 +1,3 @@
-Tramitação na Casa do Projeto de Lei nº 3.530, de 2015, sobre as cláusulas resolutivas dos títulos de domínio, concessão de uso ou concessão de direito real de uso emitidos pelo órgão fundiário federal. Pedido aos Deputados de apoio para aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80bd665e5518a0d125faf08a2748df8f8a62e3cfd5e58e49b1917ce91cf99bd0
+size 273

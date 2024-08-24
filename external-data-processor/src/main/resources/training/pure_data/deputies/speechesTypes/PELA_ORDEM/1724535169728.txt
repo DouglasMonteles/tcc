@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Comissão nº 68, apresentada à Medida Provisória nº 1.063, de 2021, sobre a venda direta de combustíveis ao revendedor varejista e a incidência de impostos nas operações de compra e venda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6d0ad7b1ab8813311d1f6ae200b1d95194328bce23d1b26a013869c57596734
+size 301

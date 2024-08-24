@@ -1,1 +1,3 @@
-Incompatibilidade entre o Estatuto da Criança e do Adolescente e a proposta aprovada pela Casa de consideração de medidas socioeducativas para a elevação de penas por crimes cometidos após a maioridade. Posicionamento contrário à elevação da maioridade penal. Defesa da aprovação de projeto de lei atinente ao sistema nacional de medidas socioeducativas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ead7e009a85417cc26622bb8010820b973818869e089193172bf551dfa6c1912
+size 366

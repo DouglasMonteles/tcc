@@ -1,1 +1,3 @@
-Importância da aprovação do Projeto de Lei nº 4.731, de 2019, sobre a alteração da Lei nº 6.088, de 1974, com vista à inclusão da Bacia do Rio Araguari e das demais bacias dos Estados do Amapá, do Amazonas e do Pará na área de abrangência da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba - CODEVASF. Apoio ao parecer oferecido pela Relatora Professora Dorinha Seabra Rezende à Proposta de Emenda à Constituição nº 15, de 2015, sobre a transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:474ac3b2092394df2227ad50b4cc58c25a2595ae7b02fa86595f9297bbe44b0a
+size 695

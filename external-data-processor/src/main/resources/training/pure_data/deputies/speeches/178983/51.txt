@@ -1,1 +1,3 @@
-Transcurso do 115º aniversário de fundação do Município de Cruzeiro, Estado de São Paulo. Priorização da recuperação da Estação Ferroviária Central de Cruzeiro pela Frente Parlamentar de Preservação da Memória e do Patrimônio Ferroviário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47752f18b3d6cceee5692b23d6a4d0c2a0007db6e5058215d135b23da1798788
+size 256

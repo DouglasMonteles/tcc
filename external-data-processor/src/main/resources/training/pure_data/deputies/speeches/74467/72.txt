@@ -1,1 +1,3 @@
-Indignação do orador com a má distribuição de recursos governamentais para modernização dos portos brasileiros, especialmente do Porto de Cabedelo, no Estado da Paraíba. Apelo ao Ministro-Chefe da Secretaria de Portos da Presidência da República para realização de maiores investimentos em favor do Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2dec2e614afad8855633bd396e637dc58f369e68de96f6d6abbecd419271cc7
+size 330

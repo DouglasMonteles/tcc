@@ -1,1 +1,3 @@
-Importância do lançamento do programa Saúde Já pela Prefeitura Municipal de Curitiba, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:493c88cbf9768899e5d2a6c678fa9fef954a8371b500540f5fa30f26ea548c7e
+size 108

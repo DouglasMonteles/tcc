@@ -1,1 +1,3 @@
-Preocupação com a crise econômica no Brasil com repercussão na área de saúde pública. Críticas ao Governo Federal perla transferência de responsabilidades na área de saúde para os Municípios brasileiros. Queda dos níveis de confiança da população no Governo do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cde99755245c1ca4d79d08187912f040f988bf2d1bea2dc4679abed31de083dc
+size 280

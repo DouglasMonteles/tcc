@@ -1,1 +1,3 @@
-A Deputada lamentou o assassinato de Maria Bernadete Pacífico, líder quilombola, e destacou a preocupação com a violência contra lideranças quilombolas no Brasil. Pediu por políticas de segurança e igualdade de direitos para essas comunidades. Mencionou a importância de regularizar e titularizar os territórios quilombolas e expressou esperança de que o Governo do Presidente Lula promova políticas para garantir o direito à vida e à reparação do povo negro no país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:540bcfafa2bbf10ac863aa55ee9f4f1a5a05cb0a31e18e6f2331d5e7a56d26b8
+size 484

@@ -1,1 +1,3 @@
-Defesa de rejeição pela Casa do conjunto de medidas de ajuste fiscal encaminhado pelo Governo Jair Bolsonaro ao Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b53d53c242b7a00a07e2540f12d6f97627677a249618ba59654e93b724b29a5a
+size 133

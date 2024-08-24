@@ -1,1 +1,3 @@
-Necrológio do jornalista paranaense Euclides Bogoni, fundador do jornal Diário do Noroeste, do Município de Paranavaí, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e906883eb79ba14db1b508464e02fdd4d84b797290b25bfc28016570c644d32
+size 141

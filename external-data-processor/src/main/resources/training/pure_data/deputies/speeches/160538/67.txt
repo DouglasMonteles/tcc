@@ -1,1 +1,3 @@
-Anúncio pela Presidenta Dilma Rousseff, por ocasião de sua visita ao Estado do Rio Grande do Sul, da construção da segunda ponte sobre o Rio Guaíba; da aquisição de retroescavadeiras para pequenas municipalidades e da implantação do Programa Rede Brasil Rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1460b13d94c3785c2ba27027c0a6d8d0079eac14a2fd92de61329c284718c576
+size 269

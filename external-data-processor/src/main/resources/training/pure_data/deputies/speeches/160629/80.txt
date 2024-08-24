@@ -1,1 +1,3 @@
-Visita do orador às obras de urbanização do entorno do Estádio Governador Ernani Sátyro, conhecido como O Amigão, no Município de Campina Grande, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5112fbd6d136b169dffe2ea8a2d5b67c16a3e566959bf45b72f31f2b75724952
+size 172

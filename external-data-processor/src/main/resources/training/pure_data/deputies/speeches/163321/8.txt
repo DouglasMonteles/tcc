@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a regulamentação do exercício da profissão de detetive particular. Necessidade de garantia da segurança jurídica aos produtores rurais no âmbito da proposta de reforma do Código Florestal Brasileiro. Importância de implementação de políticas públicas de promoção da responsabilidade ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6106e2a10cdf55f261bcde6622846e743ffbea338a12ae39551d8ea15e5d4c72
+size 347

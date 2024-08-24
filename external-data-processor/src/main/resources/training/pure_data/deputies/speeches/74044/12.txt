@@ -1,1 +1,3 @@
-Pedido aos Deputados da base governista para comparecimento ao plenário para votação l do parecer pela admissibilidade da  Medida Provisória  414 de 2008 (Constitui fonte de recursos adicional para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômico e Social - BNDES), em votação nominal por força de verificação de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3a1c018c5ed64deb1cb51b792e858708428f7ec9fa0f78a6b11edb78f570703
+size 367

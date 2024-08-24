@@ -1,1 +1,3 @@
-Contestação dos argumentos do representante do Fundo das Nações Unidas para a Infância - UNICEF no Brasil, Gary Stahl, e do Presidente da Ordem dos Advogados do Brasil, Marcus Vinicius Coelho, para justificativa da inconstitucionalidade da proposta de redução da maioridade penal em tramitação na Casa. Consonância da matéria com o anseio público. Apoio à redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a1cbd9284d226dd0b3c4c73ac7981f19d2dd20311ad515e85f159dfa54fd21c
+size 399

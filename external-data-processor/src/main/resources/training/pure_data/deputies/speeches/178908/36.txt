@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados do Deputado Estadual Coronel Neil, do Estado do Pará, pré-candidato a Prefeito do Município paraense de Ananindeua. Associação ao discurso do Deputado Altineu Côrtes sobre a condução dos trabalhos da Casa pelo Presidente interino, Deputado Waldir Maranhão. Contrariedade à não apreciação de requerimento de autoria do Parlamentar de prorrogação do prazo de funcionamento da CPI do CARF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2526c2c8f951a09087eb2535ad956554482e4de0a148ab12092976b89c4503a8
+size 436

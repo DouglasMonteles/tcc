@@ -1,1 +1,3 @@
-Repúdio à interferência do Presidente da França, Emmanuel Macron, em assuntos internos do Brasil relativos à Amazônia. Prejuízos causados à Zona Franca de Manaus, Estado do Amazonas, pela Proposta de Emenda à Constituição nº 45, de 2019, sobre a alteração do Sistema Tributário Nacional. Defesa do desenvolvimento da região amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9a60e3e3e3bc57cb129331d9aa0d87739579996d8011697b48014c4cc72abb8
+size 351

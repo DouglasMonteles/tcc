@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 58 do projeto de lei de conversão da Medida Provisória nº 897, de 2019, sobre a instituição do Fundo de Aval Fraterno; do patrimônio de afetação de propriedades rurais; da Cédula Imobiliária Rural; da escrituração de títulos de crédito e da concessão de subvenção econômica para empresas cerealistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aaca195be06a689b8c49181afa1879b9a87820bfa5ab77c24b6c472a5b4e1d2
+size 418

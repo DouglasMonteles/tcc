@@ -1,1 +1,3 @@
-Transcurso dos 5 anos do impeachment da Presidenta Dilma Rousseff. Relevância das políticas sociais implantadas pelo governo petista. Gestões desastrosas do Presidente Jair Bolsonaro e do Ministro da Economia, Paulo Guedes. Quadro de desemprego e fome reinante no País. Empenho do Presidente da República e sua equipe na realização de manifestações em 7 de setembro, em prol da sua permanência no poder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd442b0a16e0ddb32a128b465827461b43a392ee233149a700930c9a0ad2be2c
+size 413

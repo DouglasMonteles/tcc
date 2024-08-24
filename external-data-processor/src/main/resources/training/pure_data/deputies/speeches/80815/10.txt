@@ -1,1 +1,3 @@
-Participação do orador em encontro destinado à discussão do abate de jumentos na Região Nordeste. Apelo à Casa de aprovação do Projeto de Lei nº 287, de 2023, sobre a doação para os fundos do animal doméstico na declaração anual do Imposto de Renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afc88ec7f4156d49db9f2839310ff88935e2c19e38b499052203cfd2f852b2f8
+size 263

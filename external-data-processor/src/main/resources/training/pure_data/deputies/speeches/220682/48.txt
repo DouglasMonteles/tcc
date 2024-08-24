@@ -1,1 +1,3 @@
-O Deputado alertou para a crise na cadeia de produção de leite no Brasil. Destacou a importação excessiva de leite estrangeiro e seu impacto negativo sobre os produtores nacionais. Reivindicou uma cota de 3% para importações, preços justos e a rolagem de dívidas para garantir a sobrevivência dos produtores e a estabilidade do setor.&nbsp;Alertou sobre a desova de leite ruim no Brasil oriundo da União Europeia e da Nova Zelândia, que entra no País como leite em pó.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6cb508a323edbbb9be74443d049b32f18dd399bb723f18f352939ad96a8586a
+size 481

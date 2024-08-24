@@ -1,1 +1,3 @@
-Agradecimento aos Parlamentares pela aprovação do Projeto de Lei nº 3.148, de 2023, acerca da autonomia das comunidades indígenas, quilombolas e do campo para denominação de instituições públicas de ensino em seus territórios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7681630f616954aa12e5de22982c0cc639686ed3e59594d6707c850efd28469
+size 236

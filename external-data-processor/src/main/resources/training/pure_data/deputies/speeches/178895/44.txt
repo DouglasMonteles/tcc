@@ -1,1 +1,3 @@
-Destaque do Estado de Minas Gerais na produção agropecuária no País. Transcurso do Dia do Produtor Rural Mineiro. Congratulações aos Deputados apoiadores de proposta de emenda à Constituição relativa à redução da maioridade penal de 18 para 16 anos de idade. Apoio do Juiz de Direito Alexandre Semedo de Oliveira à redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cf2754bc596d90555e2a5b0b28603bdfc7f2a5cab323ddb576020d8b1ee83d9
+size 358

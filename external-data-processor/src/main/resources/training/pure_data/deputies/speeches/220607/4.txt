@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 733, de 2023, sobre a destinação de recursos de emendas orçamentárias às Santas Casas de Misericórdia e hospitais filantrópicos, sem fins lucrativos, participantes do Sistema Único de Saúde - SUS. Encaminhamento, ao Conselho Nacional de Polícia Fazendária - CONFAZ, de requerimento de indicação com vista à elevação, para 250 mil reais, do teto de isenção do IPI/ICMS na aquisição de automóveis por deficientes físicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fb9a203a417244b6743fda177f62e3e02e33b7163c4fdeabbf7b240411eae00
+size 478

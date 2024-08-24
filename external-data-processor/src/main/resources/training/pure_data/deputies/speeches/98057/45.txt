@@ -1,1 +1,3 @@
-Regozijo com a aprovação de emenda apresentada pelo orador à Lei de Diretrizes Orçamentárias - LDO de 2019/2010, destinada à reforma, ampliação e reaparelhamento do Aeroporto Santos Dumont, no Município de Araguari, no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24e242be42173d8be6c3d3c7176f87c08ceb11e598a26aba1c84e4fa3daf03dd
+size 251

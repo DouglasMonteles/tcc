@@ -1,1 +1,3 @@
-Transcurso do aniversário de fundação dos Municípios de Itaoca, Tremembé, Tabapuã, Vargem Grande Paulista e Promissão, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b33f4d9dd7c8f43cfe5f5b69a3bfcffbf6d8d41b1d3ad16bf7a5004769761d8c
+size 147

@@ -1,1 +1,3 @@
-Aumento do desmatamento no País. Comprometimento do povo amazonense com a preservação ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ccdb08aed1f8a1be1579f97cb75f2d2e4fb837b5e897e7684c2b210ce518713
+size 99

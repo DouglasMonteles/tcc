@@ -1,1 +1,3 @@
-Transcurso dos 25 anos de promulgação da Constituição Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e30a9eab49a82598025d1a9ed6f631af1724016932be885c2a008f718856d17
+size 66

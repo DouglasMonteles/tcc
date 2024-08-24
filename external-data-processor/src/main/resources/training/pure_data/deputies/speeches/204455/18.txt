@@ -1,1 +1,3 @@
-Responsabilidade de ex-Governadores do MDB pela falência do Estado do Rio de Janeiro. Repúdio à utilização, por políticos, de tragédias e da pobreza para fins eleiçoeiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7f50ce0e20c2fd0e312daf28e354096ab401d012e2821f295754320bbb90c35
+size 179

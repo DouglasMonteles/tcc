@@ -1,1 +1,3 @@
-Documento O INCRA como instrumento de execução de políticas públicas de erradicação da miséria no Brasil, de autoria da Confederação Nacional das Associações dos Servidores do INCRA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b9f278e3b76d680f3c574dea8b198e9c71716e0e799f0a956f67c26cfdb5ee5
+size 193

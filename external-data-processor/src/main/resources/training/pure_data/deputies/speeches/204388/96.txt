@@ -1,1 +1,3 @@
-Viagem do Ministro da Justiça e Segurança Pública, Sérgio Moro, aos Estados Unidos da América, para conhecimento da legislação norte-americana de combate à corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0adc70760628608f87aa194dd39c484822090431ff91964e80f38dda7ce725bd
+size 176

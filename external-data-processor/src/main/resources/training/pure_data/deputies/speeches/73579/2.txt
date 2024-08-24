@@ -1,1 +1,3 @@
-Reparos a discurso do Deputado Laerte Bessa no que diz respeito à referência feita ao orador e ao Deputado Antônio Carlos Biscaia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bba8964c927c963a6be24a1485b70c8ddbb09ade2a83314de1ec95e5544b4b5
+size 133

@@ -1,1 +1,3 @@
-O Deputado elogiou a vitória de Javier Milei na Argentina, destacando a rejeição ao populismo esquerdista e criticando as tentativas de influência do Governo Lula. Observou que o candidato vitorioso ameaça romper com o Mercosul e o BRICS, apontando preocupações sobre possíveis impactos na Zona Franca de Manaus e nas relações comerciais bilaterais. Destacou as propostas macroeconômicas liberais de Milei como potenciais soluções para a crise econômica na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7448ca21fbdb1792bfce7192511f056028b9a216da30f871d9974b2ac62dcbf5
+size 479

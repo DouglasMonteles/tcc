@@ -1,1 +1,3 @@
-Solidariedade à Deputada Paula Belmonte em face de tratamento descortês pelo Governador do Distrito Federal, Ibaneis Rocha. Orientação de bancada na votação do parecer da Comissão Mista quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e da adequação financeira e orçamentária da Medida Provisória nº 875, de 2019, sobre o Auxílio Emergencial Pecuniário para famílias de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16bd96c9d3ee4c6bbce2896a954a5c6bffedf698b901f78aa8d60cd6c9ae3f2e
+size 454

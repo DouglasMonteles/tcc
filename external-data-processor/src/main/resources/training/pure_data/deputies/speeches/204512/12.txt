@@ -1,1 +1,3 @@
-Razão do posicionamento do orador contrário ao anunciado estabelecimento de acordo entre o Ministro Público de Minas Gerais e a Segurada Líder - Administradora do Seguro DPVAT -  Danos Pessoais Causados por Veículos Automotores de Via Terrestre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:752592e824bc96058a986ed8f2cdc00a2a93fef94eeb7f8374198db0de5aa568
+size 250

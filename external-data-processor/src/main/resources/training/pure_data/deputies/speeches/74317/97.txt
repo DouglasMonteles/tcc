@@ -1,1 +1,3 @@
-Apelo aos Deputados de comparecimento ao plenário para votação das Propostas de Emenda à Constituição nºs 300, de 2008, e 308, de 2004, respectivamente sobre a instituição do piso salarial nacional de policiais e bombeiros militares e a criação das polícias penitenciárias federal e estaduais, e da proposta de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a alocação de recursos para a saúde pública. Reexame pela União dos critérios adotados para a redistribuição de recursos aos Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6d8b8c7875a3d3b140fab0b37b7a2995d313c3427a056f86b385a237d33d220
+size 544

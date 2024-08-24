@@ -1,1 +1,3 @@
-Discussão da Medida Provisória 421 de 2008 (Dispõe sobre o salário mínimo a partir de 1º de março de 2008).Avaliação positiva da política do saláro mínimo empreendida pelo  Governo do Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0ae97aecde153a98a15b2de0ceb1c6931a6b9334da1d2c803707e347689a9ee
+size 234

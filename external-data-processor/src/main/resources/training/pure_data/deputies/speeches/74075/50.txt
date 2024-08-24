@@ -1,1 +1,3 @@
-Agradecimentos pela aprovação do projeto de lei de autoria da oradora. Importância do estabelecimento de normas de segurança em casas de espetáculos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6975a1c5e29e86ac39bb38fa11c931d7cb331a0b9c0dcb763c4b90c13805c42
+size 154

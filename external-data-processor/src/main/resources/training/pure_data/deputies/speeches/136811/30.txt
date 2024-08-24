@@ -1,1 +1,3 @@
-Realização de eventos em Alegrete, Estado do Rio Grande do Sul, por ocasião do transcurso do centenário da primeira colheita de arroz no Município. Saudações aos membros da Associação dos Arrozeiros de Alegrete. Criação do Memorial do Arroz na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63535354bb1767c545290965c61960777c6950fbd8b196e6ca42225feecf4a10
+size 270

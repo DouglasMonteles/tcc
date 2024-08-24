@@ -1,1 +1,3 @@
-O Deputado ressaltou a importância da bolsa para estudantes carentes do ensino médio em tempo integral. Enfatizou que cerca de 2 milhões de jovens estão fora da escola, apontando o aumento alarmante de evasão durante a pandemia. Destacou a relevância da renda na evasão escolar, defendendo a aprovação urgente do projeto de lei que trata do Programa Poupança Estudantil, já aprovado na Comissão de Educação em 2021, mas ainda não apreciado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6721a263b057d4e87901982d96d3edb5059d45cd99e1c5640b314250cd70c1d0
+size 455

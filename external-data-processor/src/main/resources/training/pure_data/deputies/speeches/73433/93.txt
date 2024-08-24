@@ -1,1 +1,3 @@
-Composição da Mesa Diretora dos trabalhosda sessão solene em comemoração ao transcurso do Dia Internacional pela Eliminação da Discriminação Racial. Saudações ao convidados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ee6c2d6a73c2a7275ea934cfaf1e135d2666dd46a763a39f017511e46627838
+size 184

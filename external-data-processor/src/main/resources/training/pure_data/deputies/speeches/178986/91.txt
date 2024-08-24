@@ -1,1 +1,3 @@
-Transcurso do primeiro ano da sessão da Câmara dos Deputados de destituição da então Presidente da República Dilma Rousseff do cargo. Críticas a proposições do Governo Federal após a destituição da Presidente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05f1b88555f944d8ee0e3ab46323fe0f1425ea8df4d94eab898ae05cfcb07b18
+size 221

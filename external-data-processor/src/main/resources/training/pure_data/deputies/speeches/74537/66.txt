@@ -1,1 +1,3 @@
-Consulta à Presidência sobre a existência de acordo com relação à pauta da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8905a8a881dbb926b2b0eefc893f5cbb238b652f6255ab1666c8b5f887928c1
+size 94

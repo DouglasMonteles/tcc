@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Água. Alerta à sociedade brasileira sobre a importância do uso racional da água. Necessidade de construção de infraestrutura de saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2e6d203635f936883c73188fe7d2d68ba2902f7c4de0aebd5ab934f346bcc7b
+size 182

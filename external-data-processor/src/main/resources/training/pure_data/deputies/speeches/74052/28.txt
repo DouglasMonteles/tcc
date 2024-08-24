@@ -1,1 +1,3 @@
-Homenagem póstuma ao notário público José Elício de Oliveira, do Município de Moita Bonita, Estado de Sergipe, falecido em decorrência da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7714508b7c2889a47d48ebc65b6f1a7e4fa881b73822f1661faef75959bdbba8
+size 154

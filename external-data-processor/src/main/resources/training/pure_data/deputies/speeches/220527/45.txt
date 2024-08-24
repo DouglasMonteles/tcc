@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao ex-Deputado Federal João Coser, atual Deputado Estadual do Espírito Santo, em visita ao Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fa1caecf97b8ce50a204b212bcd9b452c5e01b9efc63ba2af5a9370d8c461a9
+size 142

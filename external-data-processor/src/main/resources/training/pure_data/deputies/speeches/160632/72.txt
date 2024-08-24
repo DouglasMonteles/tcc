@@ -1,1 +1,3 @@
-Solicitação à Presidência da República de inclusão no PAC das obras da Barragem de Berizal, na região do Alto Rio Pardo, Estado de Minas Gerais. Urgente construção de adutora para a regularização do abastecimento d'água nas municipalidades mineiras de Berizal e Taiobeiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c4f46f752d6ba88a93e426a48d89e8ff7ee6e06856187b11087911d1e2bf9eb
+size 285

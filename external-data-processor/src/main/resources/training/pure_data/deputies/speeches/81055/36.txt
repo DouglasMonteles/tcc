@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista quanto ao não atendimento dos pressupostos constitucionais de relevância e urgência e da adequação financeira da Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4b8ee6e454e1d284f981860536dd14596971305cf0876eb8b44a4ae8e6f705b
+size 303

@@ -1,1 +1,3 @@
-Resultados de reunião do Conselho Político do Governo Federal, destinada à avaliação das medidas de enfrentamento da crise financeira mundial e à viabilização de ações para recomposição das perdas de arrecadação de Prefeituras Municipais. Ampliação do Programa Minha Casa, Minha Vida. Apresentação de emenda ao substitutivo oferecido à Medida Provisória nº 457, de 2009, sobre o parcelamento de débitos de gestões municipais decorrentes de contribuições sociais. Transcurso do 283º aniversário de fundação de Fortaleza, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:514df093d10896114d34b51e404c01e73482752e6545c1677910f192210fd69a
+size 566

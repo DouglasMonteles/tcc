@@ -1,1 +1,3 @@
-Saudações aos profissionais da enfermagem. Apoio à aprovação do Projeto de Lei nº 2.295, de 2000, sobre a jornada de trabalho dos profissionais do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cde0592fe70844cf95abe2768999365ed08afc6111389cddcafa790eab19a16a
+size 159

@@ -1,1 +1,3 @@
-Posicionamento do orador contrário ao casamento entre pessoas do mesmo sexo. Conveniência de realização de plebiscito sobre a implantação do Plano Nacional de Promoção da Cidadania e Direitos Humanos no País. Luta da comunidade evangélica em defesa da preservação da célula familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7300bda901e0ff638780cb21312dd28862631729ed85dbaacac79db643c57570
+size 296

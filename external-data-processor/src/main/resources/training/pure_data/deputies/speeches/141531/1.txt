@@ -1,1 +1,3 @@
-Excelência dos trabalhos realizados pelo ex-Embaixador José Aparecido de Oliveira junto à Comunidade dos Países de Língua Portuguesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28e90d20aa6f7eb5f643a6b3f4c69f683eb504676440b1a8ed1488841b7a001f
+size 138

@@ -1,1 +1,3 @@
-Não execução de programas compensatórios da tragédia ambiental ocorrida no Município de Mariana, Estado de Minas Gerais. Denúncia da atuação de falso perito judicial no âmbito da Fundação Renova.
+version https://git-lfs.github.com/spec/v1
+oid sha256:840c0b26daf2ece7154fffaf7b482946e35d8d1493a21ac548565d95d74abdae
+size 207

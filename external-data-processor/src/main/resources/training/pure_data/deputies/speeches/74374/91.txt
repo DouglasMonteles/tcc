@@ -1,1 +1,3 @@
-Inauguração do Hospital Regional Dr. Álvaro Fontoura Silva no Município de Coxim, Estado de Mato Grosso do Sul. Apreensão dos habitantes do Município de Dourados ante o funcionamento de unidade prisional de regime semiaberto em importante rua da cidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7c33e339a59f255dc74c0a4d5a9b65139baeadd16001f9baae5a82a95af03d5
+size 259

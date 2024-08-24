@@ -1,1 +1,3 @@
-O Deputado destacou a expectativa em torno do centenário de Lajes, no Rio Grande do Norte, sua cidade natal, cuja celebração ocorrerá em 3 de dezembro de 2023. Lamentou as recentes perdas de dois conterrâneos ilustres: Cícero Trombone, contribuinte para a cultura local, e Dr. Jairo Procópio de Moura, tabelião em Natal. Expressou solidariedade às famílias enlutadas, enfatizando o respeito e pesar pela partida desses notáveis cidadãos de Lajes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d2146b32961c0bc78149bc306d24c7b96de054bab3c68f7e7cd771b6d9fa103
+size 458

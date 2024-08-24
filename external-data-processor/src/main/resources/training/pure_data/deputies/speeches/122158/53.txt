@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de destaque para votação em separado do art. 1º do Projeto de Lei de Conversão apresentado à Medida Provisória nº 795, de 2017, sobre o tratamento tributário das atividades de exploração e de desenvolvimento de campo de petróleo ou de gás natural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d83ddb243e0355b18bfe2453b9eeaf0c6f5c4e8e68db3e7d31a551cb46f3e49
+size 314

@@ -1,1 +1,3 @@
-Questão de ordem sobre o posicionamento da Presidência da Casa diante da cassação do mandato do Deputado Deltan Dallagnol pelo Tribunal Superior Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:313d6ce54bd61ac9623e1bdc3af5bd1d81d4f0fa4626a5358f5e055453c959ed
+size 159

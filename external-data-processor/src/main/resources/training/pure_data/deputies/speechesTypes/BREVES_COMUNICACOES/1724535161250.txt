@@ -1,1 +1,3 @@
-Manifesto contrário ao Projeto de Lei nº 2.105, de 2007, sobre a criação do Regime de Tributação Unificada na importação, por via terrestre, de mercadorias procedentes do Paraguai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6feaea2deddffd192213825c394eb894f45b6e53e07d0b433a1ad561fe2ea6a0
+size 188

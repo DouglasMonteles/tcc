@@ -1,1 +1,3 @@
-Vacinação do povo brasileiro contra o coronavírus. Importância do cumprimento das medidas preventivas da doença viral, tendo em vista o alto contágio da variante delta. Observância dos princípios democráticos pelos participantes nas manifestações populares, programadas para a data comemorativa do 199º aniversário da Independência do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eed6642c5ffbead3c9d1f0213e36f8c3ba16e601d1a951cc079e38149621b3a
+size 356

@@ -1,1 +1,3 @@
-Transcurso dos 30 anos de reconstrução da União Nacional dos Estudantes - UNE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87dac9c5fd8dec48f4666c1acd48bd2a26766fe40519b0807ada35e83ca34a91
+size 81

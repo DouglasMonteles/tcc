@@ -1,1 +1,3 @@
-Apresentação de projeto de lei a respeito do instituto da sobrepena. Recebimento de correspondência de  presidiário do Município de Lauro de Freitas, Estado da Bahia, sobre a morosidade na conclusão de instrução criminal e julgamento de seu processo. Indignação ante a permanência de pessoas encarceradas após cumprimento de pena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90dac7b94ee74eb9dd622be172cdc32d2ab82eb55982d86ac0a1a161682189a5
+size 342

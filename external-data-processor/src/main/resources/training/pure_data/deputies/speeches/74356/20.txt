@@ -1,1 +1,3 @@
-Visita do orador ao Município de Juruá, Estado do Amazonas. Falta de transporte escolar e de merenda nas escolas rurais do Município de Envira. Importância da atividade esportiva na recuperação de jovens infratores ou em situação de risco. Saudação aos atletas brasileiros participantes dos Jogos Olímpicos de Pequim, República Popular da China.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34febd65a16e330700d2fd4af3b5019d4170e1c0f9549b69553def2d43d7ed30
+size 357

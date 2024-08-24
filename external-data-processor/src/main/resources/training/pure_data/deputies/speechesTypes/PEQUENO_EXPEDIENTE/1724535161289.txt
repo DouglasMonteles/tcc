@@ -1,1 +1,3 @@
-Imediata adoção, por parte do Ministro de Minas e Energia, Edison Lobão, e do Presidente da ELETROBRÁS - Centrais Elétricas Brasileiras S/A, de providências acerca da crise no abastecimento de energia elétrica em Manaus e outros Municípios do Estado do Amazonas. Transcurso do centenário de fundação do Município de Itapiranga. Realização do Festival Folclórico de Barreirinha e da Festa da Castanha no Município de Tefé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f768f76c6197fb9dd9a9d993fa3de2be8a89f1c0b5d04416b0b107a9d4b957d2
+size 438

@@ -1,1 +1,3 @@
-Declaração da Sra. Cláudia Reis a respeito do assassinato, por marginais, do policial militar Patrick Bastos Reis, integrante da ROTA - Rondas Ostensivas Tobias de Aguiar, no Município de Guarujá, na Baixada Santista, Estado de São Paulo. Descompasso entre a prioridade dispensada a presidiários pelo Ministro dos Direitos Humanos e da Cidadania, Silvio Luiz de Almeida, e o descaso com os familiares das vítimas do banditismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1dccf91e47d49655613451effd2e8f92df5b52cd422555c8046c25e6583f252
+size 435

@@ -1,1 +1,3 @@
-Lançamento do Plano Acelera Bahia pelo Governador Jaques Wagner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7383ff76cc1aae85a6ef240e005b7dbe9d97654e72d83159aded015a88cb52d2
+size 65

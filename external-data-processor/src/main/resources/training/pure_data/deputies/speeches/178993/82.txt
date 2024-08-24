@@ -1,1 +1,3 @@
-Transcurso do Dia do Soldado. Críticas a pacote de medidas econômicas do Governo do Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e553d8bb966eb4dcff6ae07e033a18748c508ae5abd729d8d65c1e5051cd316
+size 106

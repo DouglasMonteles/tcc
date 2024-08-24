@@ -1,1 +1,3 @@
-Despropósito de ataques de grande parte da elite e da imprensa brasileiras ao Governo Federal. Repúdio à criminalização generalizada de organizações não governamentais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5620b5ab1dad80fb66637a4b86a61ad954cb9f80e63293bc5bc8e5113605dbf
+size 176

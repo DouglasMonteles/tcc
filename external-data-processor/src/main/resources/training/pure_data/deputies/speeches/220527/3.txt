@@ -1,1 +1,3 @@
-Regozijo com a retomada do Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b2b2e4771645195b6b6e9ec46cc0f9283de523e589f2e2dc538cd02730a5641
+size 51

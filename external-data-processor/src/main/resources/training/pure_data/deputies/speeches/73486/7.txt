@@ -1,1 +1,3 @@
-Realização da 18ª Abertura Oficial da Colheita do Arroz, no Município de Cachoeirinha, Estado do Rio Grande do Sul. Prejuízos causados pela estiagem a Municípios gaúchos produtores de soja. Urgente adoção, pelas autoridades competentes, de providências com relação à alta do preço dos insumos agrícolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15b7c5e772f925dc22b50b6178acc52d020fc689a3a685e5d5da34fe8cd5c57d
+size 318

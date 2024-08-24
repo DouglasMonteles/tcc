@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global oferecida pela Relatora da Comissão Especial ao Projeto de Lei nº 2.462, de 1991, sobre o acréscimo ao Título XII na Parte Especial do Código Penal, relativo aos crimes contra o Estado Democrático de Direito; e sobre a revogação da Lei nº 7.170, de 1983 (Lei de Segurança Nacional), e do dispositivo do Decreto-Lei nº 3.688, de 1941 (Lei das Contravenções Penais), ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00a2ca26f1a4524a2de78cf10e174b26d2b67565c888de8cf4c6289f9357af9d
+size 473

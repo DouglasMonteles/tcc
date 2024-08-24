@@ -1,1 +1,3 @@
-Alerta aos Parlamentares sobre estratégia do Governo Jair Bolsonaro para desgaste da imagem do Congresso Nacional perante a opinião pública. Ocorrência de divisão na base do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a289ed3a72e65aaa6ba938baafe2d3a8fea07b6db785aaa1899d25aac8a1818
+size 195

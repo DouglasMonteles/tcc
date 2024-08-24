@@ -1,1 +1,3 @@
-Críticas à Medida Provisória nº 664, de 2014, que fixa novas regras para concessão do auxílio doença e pensão por morte, com vistas ao ajuste fiscal, em prejuízo de trabalhadores e pensionistas. Pesar pelo homicídio do policial federal Mário Mattos e pelo desamparo financeiro da família em decorrência da vigência da medida provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50a125fe9e1d5aa28b6ffd99355e30fd254d10fb18358d2c0281e9381bfb9ad0
+size 351

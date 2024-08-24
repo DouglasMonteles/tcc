@@ -1,1 +1,3 @@
-Crise das áreas social, de saúde e economia no País, em decorrência da pandemia de coronavírus. Pedido de exoneração pelo Ministro da Justiça e Segurança Pública, Sérgio Moro. Apoio do Presidente da República à manifestação popular  em defesa da ditadura militar, do fechamento do Congresso Nacional e do Supremo Tribunal Federal.  Atuação desastrosa do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00b6ed5fddfb4da091c6034d1419980d5ce2ad87761092375599542cab736956
+size 394

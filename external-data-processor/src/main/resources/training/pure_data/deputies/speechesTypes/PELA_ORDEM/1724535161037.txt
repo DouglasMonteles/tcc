@@ -1,1 +1,3 @@
-Contradita ao discurso do Deputado Paulo Pereira da Silva sobre os direitos do trabalhador portuário na Medida Provisória nº 595, de 2012, acerca o novo marco regulatório do setor portuário nacional. Necessidade de modernização do setor portuário nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0352fe7afeba28896177a718ba32cf3930868c16fcd28ef8526542826f0f8531
+size 264

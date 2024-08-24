@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado de Minas Gerais pela assunção do mandato parlamentar. Oposição do orador ao Governo Luiz Inácio Lula da Silva. Contrariedade ao recadastramento de armas de fogo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca7e827f66d52ec677d9013302184886d60e8d66e31f0d566842c7a358bd55f6
+size 204

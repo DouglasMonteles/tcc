@@ -1,1 +1,3 @@
-Relato da visita de delegação parlamentar  à Alemanha para conhecimento de experiências daquele país na área de energias renováveis. Desativação de usinas nucleares pelo governo alemão. Necessidade de diversificação da matriz energética brasileira. Votos de Feliz Natal e próspero Ano-Novo aos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a5a386ff6343692546fd25fa7b16c4707b680de50696ae25da79021f38a66cf
+size 318

@@ -1,1 +1,3 @@
-Balanço dos 100 dias do mandato parlamentar do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ece94921782a32014d75d635a859458cc9e211af5576742115a5c1898fc712b5
+size 55

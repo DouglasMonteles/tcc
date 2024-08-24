@@ -1,1 +1,3 @@
-Realização, pela Casa, de sessão solene ao ensejo do transcurso do Dia da Marinha do Brasil. Agradecimento à Diretora do Departamento de Taquigrafia, Revisão e Redação, Adriana Silva, aos seus colaboradores e aos servidores da Câmara dos Deputados pela realização do evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d5c5e7a09dbdcd6a87c965f2e58b5fbbc05beef96fb35e94bbf460c7bd372b4
+size 284

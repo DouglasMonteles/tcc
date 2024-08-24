@@ -1,1 +1,3 @@
-Presença no plenário do Prefeito Rafael Mesquita, do Vice-Prefeito Raimundo Camilo e Vereadores do Município de Buriti, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dff1aae9832ba808eb62ed403b4abba66c12337993c4584937e44b5b2cd4683a
+size 143

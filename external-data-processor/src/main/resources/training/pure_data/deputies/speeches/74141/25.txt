@@ -1,1 +1,3 @@
-Anúncio, pelo Ministério da Integração Nacional, de saneamento dos Municípios situados na calha do Rio São Francisco. Realização de eventos por ocasião do transcurso dos 510 anos do descobrimento do Rio São Francisco. Importância de sua revitalização.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c51cfe65828826cc85458951a951a587febf0f92940b0cffdd34835e239d660
+size 264

@@ -1,1 +1,3 @@
-Agradecimento ao Relator pelo acolhimento de emenda apresentada à matéria em votação
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6b6f6e42152388e6bf075b31a07c8abd1ccd1ead61480a4a6cbdc0782817095
+size 88

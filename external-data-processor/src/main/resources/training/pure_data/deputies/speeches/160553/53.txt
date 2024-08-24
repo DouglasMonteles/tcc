@@ -1,1 +1,3 @@
-Anúncio de liberação, pela Caixa Econômica Federal, de linha de crédito para as santas casas de misericórdia e hospitais filantrópicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc069221132c2f114a96f4a897654ecb1bd5029405a7b1e7f61d58e613f5bd0c
+size 142

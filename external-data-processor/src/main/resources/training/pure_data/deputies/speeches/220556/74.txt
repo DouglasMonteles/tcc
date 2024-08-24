@@ -1,1 +1,3 @@
-Participação da oradora na feira de negócios Pronegócio, realizada no Município de Brusque, Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c3ac2e1eab521567750e6ccdb8da470acbc1289d271940442b735b491b38e3e
+size 122

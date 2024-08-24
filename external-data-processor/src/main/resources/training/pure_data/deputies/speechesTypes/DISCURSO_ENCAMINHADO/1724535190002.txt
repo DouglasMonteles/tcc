@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Voz. Relevância dos profissionais de fonoaudiologia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e640a25390360466061812150d9f85745a402eee9a50b212aa9236c3334470a2
+size 82

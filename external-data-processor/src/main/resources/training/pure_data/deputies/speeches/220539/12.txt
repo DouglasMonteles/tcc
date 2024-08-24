@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Defensoria Pública. Congratulações aos Defensores Públicos brasileiros, especialmente aos do Estado de Roraima. Importância do apoio do Congresso Nacional à Instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e4b7c98f6c902741c6f68cb38857bbfa9aa7f889392b5e951699d6437d85cd3
+size 207

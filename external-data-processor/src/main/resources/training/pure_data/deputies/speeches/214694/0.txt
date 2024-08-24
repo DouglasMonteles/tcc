@@ -1,1 +1,3 @@
-Saudações a Parlamentares e convidados presentes. Agradecimento a Parlamentares, correligionários, amigos e familiares pela assunção do mandato parlamentar. Corroboração de compromissos da plataforma de atuação na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6d18967d7757a87a08482b540e3f893069ffc7dadf8d5cf1197727692d32ed8
+size 245

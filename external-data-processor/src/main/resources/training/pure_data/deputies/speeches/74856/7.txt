@@ -1,1 +1,3 @@
-Congratulações aos despachantes documentalistas pelo transcurso do 13º ano de vigência da Lei nº 10.602, de 2012, relativa ao Conselho Federal e aos Conselhos Regionais dos Despachantes Documentalistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2daa0d1b0d18ba8e79687b04494a2b01925400528b79abc7c86fcfe37a09045
+size 207

@@ -1,1 +1,3 @@
-Realização da Marcha a Brasília em Defesa dos Municípios. Críticas à sistemática governamental de distribuição de impostos aos Estados e Municípios. Apresentação, à Comissão de Constituição e Justiça e de Cidadania, de recurso contra a alteração do sistema de distribuição de royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7dfa8d006e2fc514882ed04c16326ebc86310fd21ad18d12b403fa727715695
+size 320

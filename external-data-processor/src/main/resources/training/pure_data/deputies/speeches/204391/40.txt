@@ -1,1 +1,3 @@
-Necessidade de implementação, pelo Presidente da República, de medidas em prol da sociedade brasileira e do País. Aperfeiçoamento do conjunto de projetos anticrime, encaminhado à Casa pelo Ministro da Justiça e Segurança Pública, Sérgio Moro. Declaração de voto pela aprovação da proposta governamental de reforma previdenciária, com a exclusão dos trabalhadores rurais e do Benefício de Prestação Continuada - BPC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:997838dd28cf8c6d689f5ff0b25f54c329607137fc83f2ab5c61338bcf151619
+size 434

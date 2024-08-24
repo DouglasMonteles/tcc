@@ -1,1 +1,3 @@
-Apreensão de Parlamentares bolsonaristas diante dos desdobramentos da CPMI destinada à investigação de atos de vandalismo praticados contra as sedes dos poderes da República. Expectativa quanto à inelegibilidade do ex-Presidente Jair Bolsonaro. Redução do desemprego e dos índices inflacionários no País. Popularidade do Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e7d2cb147c5de19186e92b673f78c6fb1ddf451b99d47c951d3db956447914b
+size 370

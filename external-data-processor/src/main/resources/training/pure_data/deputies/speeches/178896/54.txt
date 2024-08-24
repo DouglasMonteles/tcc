@@ -1,1 +1,3 @@
-Importância do fim de restrições a investimentos estrangeiros e da austeridade fiscal para o desenvolvimento do setor florestal no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c86f77b023a26246e7ced5afdb589dcab48fc5424c507230a7b1f80c8a64aa4
+size 141

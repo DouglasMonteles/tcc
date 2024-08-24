@@ -1,1 +1,3 @@
-Repúdio às declarações Eu não acreditei muito, mas, em se tratando de Santa Catarina, onde 69% dos eleitores votaram em um fascista.. e Eu me deparei com uma saudação nazista em Santa Catarina, da jornalista Giovana Madalosso, publicadas pela Folha de S.Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68e0d86b0c01a2a76ba458d59bebb7d31314158dfcd221777a909f776b7bc829
+size 267

@@ -1,1 +1,3 @@
-Defesa da prorrogação do prazo para recadastramento de armas de fogo no País. Iniciativas do orador e da Comissão de Direitos Humanos e Minorias em favor das pessoas portadoras de deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac9cb3986b3bc0415966e11f2120bc8c5ea45d6cfce9e6f99c19393400c1da19
+size 197

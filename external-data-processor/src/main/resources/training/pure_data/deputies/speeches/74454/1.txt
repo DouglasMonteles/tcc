@@ -1,1 +1,3 @@
-Pronunciamento do Presidente Luiz Inácio Lula da Silva a favor da reforma do Código de Processo Penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51391ca63eba1fa46eb029623c0828c3c2b0d9d044ea0ee545192884e576814b
+size 104

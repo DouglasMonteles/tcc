@@ -1,1 +1,3 @@
-Congratulações ao Ministro das Comunicações, Ricardo Berzoini, pelo lançamento do Plano Nacional de Outorgas, destinado à democratização dos meios de comunicação. Transcurso do décimo aniversário de criação do Sistema Único de Assistência Social - SUAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:731994839d957ee0465181764fc3ebc5e541e5a86f927bcfc8c7d453f5984327
+size 269

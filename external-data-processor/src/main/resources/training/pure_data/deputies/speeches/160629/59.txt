@@ -1,1 +1,3 @@
-Saudações às mulheres brasileiras. Defesa da aprovação do Projeto de Lei nº 2.573, de 2011, sobre a instituição do piso salarial nacional dos profissionais da enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aefb790390246cf4cde04622963f5892f45f186795a10a9c1121bfd0dce3ff7f
+size 178

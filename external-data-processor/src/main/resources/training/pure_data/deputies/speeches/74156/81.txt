@@ -1,1 +1,3 @@
-Realização de encontro destinado à prestação de contas da atuação parlamentar do orador e à discussão do fomento da integração regional, no Município de São João Evangelista, Estado de Minas Gerais. Implantação do Programa Nacional de Segurança Pública com Cidadania - PRONASCI e do Gabinete de Gestão Integrada Municipal, em Governador Valadares. Elevado índice de homicídios entre adolescentes, no Município. Instalação de unidade do Instituto Federal de Educação, Ciência e Tecnologia - IFET e do ensino a distância no Município de Governador Valadares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7c68d342034b6aa5412a61a1f65c44579bcdd76b4f8ff26d1f8169ee3e26259
+size 585

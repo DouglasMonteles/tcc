@@ -1,1 +1,3 @@
-Excelência dos trabalhos realizados pelo Grupo de Apoio ao Adolescente e à Criança com Câncer, com sede em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11ba5aa1bf4aeba713ea2b7355f02454876f1bc3616406e3f65fa20be58aa007
+size 144

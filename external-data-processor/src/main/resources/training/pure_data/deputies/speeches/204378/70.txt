@@ -1,1 +1,3 @@
-Realização de passeio ciclístico no Município de Guajará-Mirim, Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2903a34980e03d653f1f99dac8fcf23b0d8e17c069e6db9fd151f8640497667b
+size 89

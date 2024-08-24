@@ -1,1 +1,3 @@
-Natureza revanchista da cassação do mandato parlamentar do Deputado Deltan Dallagnol pelo Tribunal Superior Eleitoral. Declaração do Ministro da Justiça e Segurança Pública, Flávio Dino, a respeito do fim da liberdade na Internet. Inércia do Senado Federal diante de arbitrariedades e abusos praticados por autoridades judiciárias. Descrença da sociedade com os Poderes da República e as Forças Armadas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b7b93fede57ac29c5f7a190aadb00dfdf76f0aa65a0a37aca5356eddc11ec63
+size 428

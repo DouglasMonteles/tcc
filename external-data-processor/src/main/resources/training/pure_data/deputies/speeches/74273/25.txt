@@ -1,1 +1,3 @@
-Alerta à população sobre a importância do planejamento de despesas e da contenção de gastos. Alerta aos trabalhadores da iniciativa privada e aos funcionários públicos sobre a importância do desenvolvimento de projeto de vida para a aposentadoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de048fc442249f9b74938db4fa6c670694939f4a6fba270881923ac0db554c75
+size 256

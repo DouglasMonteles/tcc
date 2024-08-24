@@ -1,1 +1,3 @@
-O Deputado proferiu parecer ao Projeto de lei nº 4.719, de 2020, que dispõe sobre isenção de tributos federais, nos termos do Código Tributário Nacional, para a doação de medicamentos para entidades reconhecidas como de utilidade pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00ce1bd92bed9574eadbe1a04f55288c44b5607de851dd705564c17e4ddf0d59
+size 247

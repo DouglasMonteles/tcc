@@ -1,1 +1,3 @@
-Prejuízos causados aos moradores do Município de Petrópolis, Estado do Rio de Janeiro, pela cobrança de pedágio na BR-040.
+version https://git-lfs.github.com/spec/v1
+oid sha256:685cc157405c57d0992bfd1dccfd8f0cf06c5dfc648da9dc8ae87a9c5306b575
+size 127

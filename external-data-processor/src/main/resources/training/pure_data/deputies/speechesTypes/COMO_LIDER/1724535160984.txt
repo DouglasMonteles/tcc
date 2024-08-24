@@ -1,1 +1,3 @@
-Suspensão do fornecimento de medicamentos gratuitos aos usuários do Sistema Único de Saúde - SUS em face do rompimento, pelo Ministério da Saúde, de contratos firmados com laboratórios de produção de fármacos. Ataques do Governo Jair Bolsonaro ao Instituto Brasileiro de Geografia e Estatística - IBGE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1092f089241571481916bffb77a0a5107e6db50725cd9be3a8902dbb5a8c570
+size 313

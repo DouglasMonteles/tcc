@@ -1,1 +1,3 @@
-Imediata implementação, pelas autoridades das áreas de educação e saúde, de ações necessárias para a redução das elevadas taxas de obesidade da população brasileira. Apoio irrestrito à campanha nacional de combate à obesidade, principalmente junto às escolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3988830380f346682239c4587ef6e90d54c31a09676a527f10eb8b056682b628
+size 275

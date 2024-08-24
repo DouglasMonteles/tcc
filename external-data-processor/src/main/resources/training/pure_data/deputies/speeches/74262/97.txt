@@ -1,1 +1,3 @@
-Indignação com a decisão da Casa pela não cassação do mandato do Deputado Natan Donadon, condenado pelo Supremo Tribunal Federal e ora cumprindo pena em regime fechado. Imperiosidade de extinção do voto secreto nas deliberações das duas Casas do Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d2a7bb753622a9461e3e789508cda7f85d92e6c537affb3c2b16044b37e5ae5
+size 275

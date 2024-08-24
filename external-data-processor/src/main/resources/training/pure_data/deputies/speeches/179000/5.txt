@@ -1,1 +1,3 @@
-Esclarecimento sobre o custeio e o funcionamento do Hospital Metropolitano Doutor Célio de Castro, em Belo Horizonte, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e4bbaeb043dcaeb8bfb08218846180377ef8be3dc572dd62dbe8463819a4b94
+size 142

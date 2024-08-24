@@ -1,1 +1,3 @@
-Promoção da Semana Nacional da Agricultura Familiar. Inexistência de políticas públicas voltadas à agricultura familiar no Estado do Amazonas. Conquistas representadas pela Lei nº 11.326, de 2006, sobre as diretrizes para a formulação da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais e pela Lei nº 13.776, de 2018, sobre a Semana Nacional da Agricultura Familiar. Amplo impacto do setor primário na economia no Estado. Apresentação de pleitos ao Governo Federal a respeito do desenvolvimento e do financiamento da agricultura no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c8dd0227f02ed3c5e7f3b23799c6765ac863d2dfb9040b0b4542ef061722c6f
+size 594

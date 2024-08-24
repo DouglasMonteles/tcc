@@ -1,1 +1,3 @@
-Congratulações à Comissão de Constituição e Justiça e de Cidadania pela aprovação da admissibilidade da Proposta de Emenda à Constituição nº 171, de 1993, sobre a imputabilidade penal do maior de 16 anos. Crítica aos movimentos contrários à proposta. Leitura de artigo de Percival Puggina sobre as consequências do estabelecimento de cláusulas pétreas na Constituição Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c6cb55fee18b999df383f893622f7b90c84367b11731cbecbdad8dfaa2eabef
+size 397

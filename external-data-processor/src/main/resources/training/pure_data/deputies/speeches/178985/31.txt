@@ -1,1 +1,3 @@
-Destinação de recursos, por meio de emenda orçamentária de autoria do orador, para a Sociedade São Vicente de Paulo. Cumprimentos ao Presidente-Geral Internacional da instituição, Renato Lima de Oliveira, ao ensejo do início de sua gestão administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:861178e56fde99cd95222523bdf935bd912fd81066faa6e550d17fde0da1a4a1
+size 263

@@ -1,1 +1,3 @@
-Assunção do mandato parlamentar pelo orador. Considerações sobre a proposta de reforma tributária. Questionamento sobre a prioridade no debate a respeito da desoneração tributária, em prejuízo de discussão acerca da progressividade nos tributos federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af314ee7686617c6a76d56e50a4a587bc2c0f9cdb88fa9cd756290f5ecb9ebd9
+size 264

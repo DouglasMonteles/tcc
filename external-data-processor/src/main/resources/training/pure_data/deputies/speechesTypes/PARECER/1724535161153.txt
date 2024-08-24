@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 4.572, de 2019, sobre a alteração da Lei nº 9.096, de 1995, (Lei dos Partidos Políticos), com vista à adequação da propaganda partidária gratuita no rádio e televisão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:996a4460a629bd81de6f0c79f1cac699d2f3f964047cb40348cdac2474cdec90
+size 219

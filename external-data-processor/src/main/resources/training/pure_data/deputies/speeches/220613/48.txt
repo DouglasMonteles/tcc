@@ -1,1 +1,3 @@
-O Deputado anunciou a presença no plenário do Presidente da Superintendência de Desportos do Estado do Rio de Janeiro - SUDERJ, Renato de Paula. O orador parabenizou o Governador pela nomeação do Dr. Renato para a SUDERJ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9d36281c786eb9b9e8d87486cdbc3023c324c425ef4fce1baefbaa2feba298e
+size 226

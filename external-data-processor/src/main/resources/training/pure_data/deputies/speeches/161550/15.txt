@@ -1,1 +1,3 @@
-Agradecimento à Ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, à Frente Parlamentar do Café e à bancada federal mineira, pelo apoio à cafeicultora do Estado de Minas Gerais diante de prejuízos causados por geadas. Aprovação, pelo Conselho Deliberativo de Política do Café - CDPC, da proposta de liberação de recursos aos cafeicultores mineiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f197f451521c09c8c6084525c0d95c645bca0f9052348ab6a9a553e25e4ac551
+size 378

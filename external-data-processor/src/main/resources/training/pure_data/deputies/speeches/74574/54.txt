@@ -1,1 +1,3 @@
-Agradecimento ao povo baiano pela eleição dos candidatos a Governador Rui Costa, a Senador Otto Alencar e dos Deputados aliados do Governador Jaques Wagner. Expressiva votação da Presidenta Dilma Rousseff no Estado da Bahia. Apoio da bancada federal ao PSD ao Governo Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bad4e696330c8cf87546cc4fead450305d4444856c763f19af5374ec2383a690
+size 287

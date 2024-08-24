@@ -1,1 +1,3 @@
-Inauguração da Praça do Cinquentenário no Município de Xique-Xique, Estado da Bahia. Desempenho do Prefeito Municipal Reinaldo Teixeira Braga Filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23efcc8b066d61588d8956f73e8396f9084c8732f86589613b9b84a27c03c9c1
+size 153

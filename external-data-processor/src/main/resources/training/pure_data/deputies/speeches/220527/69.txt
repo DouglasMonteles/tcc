@@ -1,1 +1,3 @@
-A Deputada anunciou a presença no plenário da Presidenta do Sindicato dos Trabalhadores e Trabalhadoras da Saúde no Estado do Espírito Santo, Geiza Pinheiro. Informou que a companheira de luta reivindica, de forma legítima, a votação da Proposta de Emenda à Constituição nº 18, de 2022, que cria piso salarial diferenciado para os agentes comunitários de saúde e os agentes de combate às endemias detentores de formação técnica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e81d053c57482dfa6efb0f7e75b9498be9098338555e9d7e569c134fc4d10c23
+size 445

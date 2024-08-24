@@ -1,1 +1,3 @@
-Regozijo com a alteração dos arts. 155 e 156 do Código de Processo Penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:885fe712a324fbf18f7388dcc24a4a2ab34bd798a4286b5cccd672af5cf36ce3
+size 76

@@ -1,1 +1,3 @@
-Tentativa do ex-Presidente Jair Bolsonaro de retirada, da alfândega de São Paulo, de joias sauditas não declaradas. Apropriação do Estado brasileiro pelo ex-Presidente da República em benefício próprio e dos seus familiares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:221dab0497fc1fe3a81b49788c2ddce5a91fb54d1ef92e7807e9fb2ae5380df7
+size 232

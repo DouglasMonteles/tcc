@@ -1,1 +1,3 @@
-Relevância da educação e da pesquisa como fatores de desenvolvimento e multiplicação da riqueza. Avanço do plantio de trigo no Estado de Minas Gerais no verão mediante uso de irrigação, pesquisa e cultivares especiais. Importância da expansão do cultivo do trigo tropical no cerrado brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:114e851334dc5327d5d8ec87c96a83c320399e0a230c08a6e7a64eea0b52d927
+size 305

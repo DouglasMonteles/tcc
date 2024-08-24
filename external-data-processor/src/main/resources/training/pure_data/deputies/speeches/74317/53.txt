@@ -1,1 +1,3 @@
-Votação, pela Comissão Especial, do parecer apresentado pelo Deputado Henrique Eduardo Alves ao projeto de lei sobre a alteração da política energética nacional. Rejeição pelo órgão de emendas oferecidas à matéria pelo orador. Anúncio da apresentação de novas emendas em plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abb1eccc571778a86bb92a1697c028cd47fd51eede8cf84489180d9b7a0f3b97
+size 297

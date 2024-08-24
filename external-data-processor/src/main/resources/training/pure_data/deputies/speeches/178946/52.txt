@@ -1,1 +1,3 @@
-Orientação de bancada do PMDB, contrária ao encerramento da discussão de matérias constantes na pauta. Posicionamento do partido favorável à discussão dos projetos de criação da Comissão do Idoso e da Comissão da Mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84839955895f5d4efaf22223ee34b7b77c8daca75b6509ec4e25d3127983d7fd
+size 232

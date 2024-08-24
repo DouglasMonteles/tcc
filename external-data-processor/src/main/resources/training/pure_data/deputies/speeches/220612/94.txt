@@ -1,1 +1,3 @@
-Solicitação ao Governo do Estado da Bahia de medidas para permanência da extração de minério no Município de Itagibá, em face da ameaça de desemprego e crise econômica para os Municípios da região com o anúncio do encerramento da atividade mineradora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18b8aa75e6f604bd9b4b371c1b6574ebef221dab59977884a6e3a5e851b8c313
+size 264

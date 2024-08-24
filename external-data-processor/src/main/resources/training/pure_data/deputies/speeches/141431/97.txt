@@ -1,1 +1,3 @@
-Lançamento ao mar, pelo Estaleiro Atlântico Sul, no Complexo Portuário de Suape, do navio petroleiro João Cândido. Ganhos da Implementação do Programa de Modernização e Expansão da Frota da Transpetro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:960edcb75147b369f3a3bb62f9617de72e41414c2f7bef9a02a8de1a8b42c753
+size 211

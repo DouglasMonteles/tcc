@@ -1,1 +1,3 @@
-Denúncia de ameaças de morte contra os bispos de Xingu, Dom Erwin Kräutler; da Ilha de Marajó, Dom José Luís Azcona, e de Abaetetuba, Dom Flávio Giovenale. Repúdio à absolvição do mandante do assassinato da missionária Dorothy Stang.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68ba066a268c5bbdb707d469bf522477a9a806d05e1d413c6910c9fbb82b512c
+size 245

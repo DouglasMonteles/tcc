@@ -1,1 +1,3 @@
-Precariedade dos serviços prestados à população fluminense pela empresa de energia elétrica Light S/A. Apresentação de requerimentos de informações à Light e à Agência Nacional de Energia Elétrica - ANEEL a respeito do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc025328e2f39bd3c720bd7ff955522a727b3fee60f305db342e5411322ef48e
+size 240

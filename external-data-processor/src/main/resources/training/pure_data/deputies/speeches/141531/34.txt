@@ -1,1 +1,3 @@
-Inauguração do Ginásio Poliesportivo Osni Geraldo Gonçalves, no Município de Mariana, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d2f3ba8b1a4b2aa19943d52eeb165e51f11c1aef05eb123df2a13a98c5afdc7
+size 114

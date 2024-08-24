@@ -1,1 +1,3 @@
-Apelo ao Ministro da Infraestrutura, Tarcísio Gomes de Freitas, por duplicação da BR-163, trecho Cascavel-Marmelândia, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4989379f3d913b50abbe953768ee6538225bb01442fd843546ea58a50f6aeb8
+size 144

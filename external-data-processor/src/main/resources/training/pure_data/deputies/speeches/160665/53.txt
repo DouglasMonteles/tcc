@@ -1,1 +1,3 @@
-Conquista, pelo Santa Cruz Futebol Clube, do título de Tricampeão de Futebol do Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff31e8030e4af7ec1c7bed93b50d790d3939e5705a6e67b72461d81e0ea6879f
+size 103

@@ -1,1 +1,3 @@
-O deputado celebrou o Dia da Democracia em honra à memória de Vladimir Herzog, cuja morte simboliza o processo de redemocratização em 1985 e a promulgação da Constituição Federal em 1988, marcando um período de 35 anos de princípios democráticos sólidos. Conclamou a continuidade na defesa e fortalecimento desses valores essenciais para o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:782b9870a1a267e057ec1f6bd5217742b86ff09da2f1d9378fea23e5ca4ddb8f
+size 359

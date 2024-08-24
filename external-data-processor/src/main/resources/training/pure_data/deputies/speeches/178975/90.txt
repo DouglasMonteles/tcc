@@ -1,1 +1,3 @@
-Nota da bancada do MDB na Câmara dos Deputados em solidariedade ao General Eduardo Dias da Costa Villas Bôas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ced476fdef369f8cfcb1ebe69bf2865d7ea2405b25af8296bb0e6a5a2b962ed
+size 111

@@ -1,1 +1,3 @@
-Posicionamento do orador contrário ao financiamento público de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4cad9e79b8cf48b6aafd74df26180e078734d25d28930a9aa4deb867260ecef
+size 86

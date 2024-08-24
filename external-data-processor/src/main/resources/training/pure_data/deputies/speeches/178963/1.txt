@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação de proposição relativa à tipificação de crime hediondo para o homicídio qualificado contra policial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:962e611c38e22eeb564c1fd0e3734a0fe1a3ee6e3cf5f808ee6b8c7ac2dc17c6
+size 148

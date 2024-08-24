@@ -1,1 +1,3 @@
-Repúdio ao pronunciamento do Deputado José Carlos Aleluia quando da votação do Projeto de Lei nº 7.664, de 2014, que regulamenta o funcionamento de entidades sem fins lucrativos. Reclamação sobre o uso indevido da tribuna do plenário pelos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53d03d22442cd0796d8472a124003be8613216fd2258a0bfa1062bf9eacfa1d7
+size 262

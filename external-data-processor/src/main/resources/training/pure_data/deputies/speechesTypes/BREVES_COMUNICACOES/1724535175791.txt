@@ -1,1 +1,3 @@
-Homenagem póstuma prestada pela Comissão de Finanças e Tributação ao Deputado Mussa Demes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2eab09b974d7b1140adf530e8e4979ccdeeb534fa207f29cc844e94867a32b4b
+size 95

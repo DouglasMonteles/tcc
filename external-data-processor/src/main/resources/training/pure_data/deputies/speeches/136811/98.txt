@@ -1,1 +1,3 @@
-Importância do turismo para a economia nacional. Realização do 21º Festival de Turismo de Gramado, Estado do Rio Grande do Sul. Outorga ao orador do título Amigos dos Hoteleiros do RS, pela Associação Brasileira da Indústria Hoteleira. Anúncio de realização do XI Congresso Brasileiro de Atividade Turística - CBRATUR, com o tema O Poder Legislativo fazendo parte do time da COPA 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b40648d7f441452f8dba8498c180cbb333baf938c00b02fa29572705f8ca941
+size 397

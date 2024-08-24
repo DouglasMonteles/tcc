@@ -1,1 +1,3 @@
-Apelo ao Presidente Rodrigo Maia de imediata instalação da CPI destinada à investigação das causas e responsabilidades pelo desastre ambiental decorrente do derramamento de petróleo na região litorânea da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a52809a00c5495634bb96e9337ac8a99b3f164752f440bd392fc64b208a4408
+size 230

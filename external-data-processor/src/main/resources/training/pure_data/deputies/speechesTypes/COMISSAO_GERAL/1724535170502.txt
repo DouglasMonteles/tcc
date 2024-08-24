@@ -1,1 +1,3 @@
-Indagações ao Presidente do Tribunal Superior Eleitoral, Ministro Luís Roberto Barroso, a respeito do voto impresso e do sistema eletrônico de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7ea99f80a9a01f10f6ad69c07befde6955ad4d7922ea492c78473592d54fe1b
+size 157

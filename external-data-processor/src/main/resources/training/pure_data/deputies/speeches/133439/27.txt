@@ -1,1 +1,3 @@
-Transcurso do Dia do Profissional de Educação Física. Realização do 5º Congresso Nacional do PDT, em Porto Alegre, Estado do Rio Grande do Sul. Temas debatidos durante o evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bd1726f5c8fb0d7e43604af7b40e738020f212b4aabe8e10b30c719f6faebbb
+size 183

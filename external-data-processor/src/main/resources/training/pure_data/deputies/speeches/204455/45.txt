@@ -1,1 +1,3 @@
-Transcurso do 70º aniversário de criação da Associação Brasileira de Nutrição - ASBRAN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:171db3fd87ae70c578dd5c3dc41328cd9728dc154c88496ae1a73cdbd7e0cf9c
+size 95

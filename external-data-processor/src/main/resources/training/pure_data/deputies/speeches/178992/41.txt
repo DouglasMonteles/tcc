@@ -1,1 +1,3 @@
-Maior atenção do Governo Federal para com a Secretaria de Comércio Exterior - SECEX e a Câmara de Comércio Exterior - CAMEX. Dificuldades enfrentadas pela indústria de placas e painéis solares no País. Revisão do Sistema Tributário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb4eab429c50109430fe6cb309517b69e7cfd26c33cf0a6bb8e3bc8b9975ebc8
+size 251

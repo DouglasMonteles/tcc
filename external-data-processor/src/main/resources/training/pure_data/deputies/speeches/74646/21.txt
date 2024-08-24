@@ -1,1 +1,3 @@
-Aprovação, pelo Senado Federal, da Proposta de Emenda à Constituição nº 48, de 2019, sobre a autorização da transferência de recursos federais a Estados, ao Distrito Federal e a Municípios mediante emendas ao projeto de lei orçamentário anual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8775655be51857ed88c829c74e214afd832ffc76fa2081bcb136d34ddff4a0cd
+size 255

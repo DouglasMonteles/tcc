@@ -1,1 +1,3 @@
-Inauguração da Fazenda da Esperança, entidade destinada à recuperação de dependentes químicos, no Município de Pouso Alegre, Estado de Minas Gerais. Lançamento do Projeto Aliança pela Vida, no Estado. Realização pela Polícia Militar da Operação Cracolândia, em Belo Horizonte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e128594e1a0723603a076ed822e13d5230df064926ebb61111c1fa74a9f0a18a
+size 292

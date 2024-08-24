@@ -1,1 +1,3 @@
-Transcurso do 80º aniversário natalício do ex-Deputado Federal Osvaldo Coelho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2ff80eeb0ddbe7607318b28b80b0ed9055a3469c6fcebf5ace55e6e954ef1cf
+size 81

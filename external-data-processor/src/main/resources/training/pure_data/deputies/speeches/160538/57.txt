@@ -1,1 +1,3 @@
-Solicitação aos Deputados do PT de comparecimento ao plenário. Defesa da aprovação, pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, de proposta sobre a possibilidade de apresentação de emendas orçamentárias populares pelos Municípios com até 50 mil habitantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:619b5da91bf1be74b4cf3f872b35d93e911b9601c4868c2420507d362faa34ab
+size 295

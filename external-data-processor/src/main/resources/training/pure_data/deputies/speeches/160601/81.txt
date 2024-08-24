@@ -1,1 +1,3 @@
-Cumprimentos aos participantes das manifestações sociais do dia 13 de dezembro em prol da liberdade e da democracia no Brasil. Críticas ao PT pela definição como ilegítima da iniciativa de impeachment da Presidente Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2197c7f15d51216922f8020cff18a2bbaea7f9391014240253cc5e96ffb36649
+size 236

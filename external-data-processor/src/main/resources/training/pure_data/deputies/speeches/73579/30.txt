@@ -1,1 +1,3 @@
-Proposta de procedimento para agilização da votação das matérias constantes da pauta da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b0762a731523118a148ffe52d1982531e25390eaf7d02fc50df18af149a3f9a
+size 106

@@ -1,1 +1,3 @@
-Apelo ao Ministro da Economia, Paulo Guedes, de imediata liberação de recursos à Caixa Econômica Federal para garantia do Financiamento à Infraestrutura e ao Saneamento - FINISA
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce1ece0876d277b2eb4f340705121648c8275c97ed184748f2295dff1ea6ca6a
+size 182

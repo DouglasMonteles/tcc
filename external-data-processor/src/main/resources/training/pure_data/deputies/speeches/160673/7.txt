@@ -1,1 +1,3 @@
-Importância do equilíbrio entre o desenvolvimento econômico e a preservação do meio ambiente. Realização da Conferência Rio+20, no Rio de Janeiro, Estado do Rio de Janeiro. Relato de atividades desenvolvidas pela Comissão de Meio Ambiente e Desenvolvimento Sustentável, especialmente nas áreas nuclear e de saneamento básico. Eleição da Presidenta Dilma Rousseff como uma das 100 pessoas mais influentes do mundo pela revista Time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1932d36b070b497fb5283a47eb8f1648f6e46bdb9fadb18e5c5d6992e9f205d
+size 445

@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 2.952, de 2022,&nbsp;sobre a instituição da Política Nacional de Prevenção e Controle do Câncer no âmbito do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9f5904093eb2254a566c2928bb822de3b926513294a43ba1e3b023a91d34f83
+size 189

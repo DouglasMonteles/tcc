@@ -1,1 +1,3 @@
-Rebate às manifestações pessimistas quanto ao êxito da organização pelo Brasil da Copa do Mundo de Futebol e da Seleção Brasileira. Aspecto positivo para o País das obras de mobilidade urbana e infraestrutura realizadas na preparação do megaevento. Expectativa de crescimento da movimentação da economia brasileira na área de turismo com os jogos da Copa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29b29ec373e94d0f07329d4c00f88eac2752a308db0a8e134cf8384ad7db72fa
+size 369

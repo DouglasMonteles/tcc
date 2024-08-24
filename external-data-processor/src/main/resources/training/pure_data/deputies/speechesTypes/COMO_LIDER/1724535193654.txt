@@ -1,1 +1,3 @@
-Pedido à Presidência de retirada de pauta do requerimento de tramitação em regime de urgência do Projeto de Lei Complementar nº 34, de 2020, sobre a instituição de empréstimo compulsório para atendimento, em caráter de urgência, as despesas relacionadas à Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:697f917b658a72218ae32a6b16e690f3c8b482685b5b41551caeeb72ef1fd926
+size 278

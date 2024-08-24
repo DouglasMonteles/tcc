@@ -1,1 +1,3 @@
-Comunicação de decisão da Presidência de não recebimento das Emendas nºs 12 e 19 por ausência de relação temática com a matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3c3202dc521737449061394b82ff7af5ae771a617fca34998c4193fd80f3c44
+size 139

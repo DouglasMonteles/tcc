@@ -1,1 +1,3 @@
-O Deputado denunciou que a proibição da pesca e transporte de pescado no Estado de Mato Grosso por 5 anos prejudica a população ribeirinha e que tal medida atende a interesses econômicos de empresas, como donos de Pequenas Centrais Hidrelétricas e empresários do ramo de tanques de peixes. Ele pediu que o Supremo Tribunal Federal reconheça a inconstitucionalidade dessa lei e sugeriu alternativas, como investimentos em saneamento básico, redução das PCHs nos rios e aumento da fiscalização para preservar o estoque pesqueiro e proteger os ribeirinhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79156dcbe9d7f03873f5b73a1d94ab976b32e1fe2b4e730c54a5ad17f7922c8a
+size 566

@@ -1,1 +1,3 @@
-Conquista do título de Campeão da Copa Sul-Americana de Futebol de 2008 pelo Sport Club Internacional. Aprovação, pelo Senado Federal, de substitutivo apresentado pelo orador à proposta de instituição do Regime de Tributação Unificada na importação por via terrestre de mercadorias procedentes do Paraguai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1775d90d6569760f9ad19e7bd9b1ad2e0348d31db2f25ecf1cacb20c674f20a1
+size 317

@@ -1,1 +1,3 @@
-Realização da campanha Outubro Rosa, destinada à prevenção do câncer de mama. Apresentação de proposições de amparo às mulheres, a exemplo do projeto de lei sobre a instituição da Política Nacional de Proteção e Combate à Violência Contra a Mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ea2715dfcc7d866b2d6f8b32accd208b8b84f2db0ad125f6b1fabf11d823dad
+size 266

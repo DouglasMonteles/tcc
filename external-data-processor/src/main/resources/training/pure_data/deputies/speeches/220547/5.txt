@@ -1,1 +1,3 @@
-Congratulações ao advogado sul-mato-grossense Mansour Elias Karmouche pela posse como representante da Ordem dos Advogados do Brasil - OAB no Conselho Nacional de Justiça - CNJ
+version https://git-lfs.github.com/spec/v1
+oid sha256:f981792ffb458a5531a39fe23ee6b365e0e2e1c1e57c1c7113a25856af22e518
+size 179

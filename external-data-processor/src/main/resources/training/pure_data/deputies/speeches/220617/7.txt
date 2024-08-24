@@ -1,1 +1,3 @@
-Apoio gestão da Ministra do Turismo, Daniela Carneiro. Apelo à Titular da Pasta por realização de investimentos nos Municípios do interior do Estado do Rio de Janeiro, especialmente em Itaperuna, Varre-Sai e Bom Jesus do Itabapoana. Necessidade de melhoria dos serviços de saúde no Município de Armação dos Búzios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0c59fd0e317f7f44a5112d0afc7ee81cef51bc2ae5ccbedd19cff9e77b4f070
+size 325

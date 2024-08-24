@@ -1,1 +1,3 @@
-Apresentação de requerimento de criação de Frente Parlamentar em Defesa das Prerrogativas do Parlamento. Expectativa de apoio de todos os Deputados à criação do colegiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:441346471383b691a47c5eb63cfd090d35557b899f7977c7f38d5afa6ae2c3e5
+size 178

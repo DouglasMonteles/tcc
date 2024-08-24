@@ -1,1 +1,3 @@
-Agradecimentos pela eleição do orador. Quebra do ordenamento jurídico brasileiro constatada pela prisão de inocentes em decorrência das invasões ocorridas no Distrito Federal em 8 de janeiro de 2023. Parcialidade política dos atos do Poder Judiciário referentes ao caso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85c37eb2aef4ef3164d4f37fc0c683262e361e94f15d6c9df31d22cb5956092e
+size 278

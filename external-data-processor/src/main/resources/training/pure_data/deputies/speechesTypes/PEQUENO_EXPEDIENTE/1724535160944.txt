@@ -1,1 +1,3 @@
-Eleição do orador para Presidente da Comissão de Turismo e Desporto. Incremento do turismo doméstico brasileiro. Compromisso de atuação do orador à frente dessa Comissão. Considerações sobre a realização da Copa do Mundo de 2014 no País. Realização da 19ª Abertura da Colheita do Arroz, no Município de Cachoeirinha, Estado do Rio Grande do Sul. Concessão ao orador do título Homem do Arroz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90eaefc42cbf65dc76563e40c16101aec78e493808fd039a96ed277965fabbcb
+size 410

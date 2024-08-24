@@ -1,1 +1,3 @@
-Visita da Ministra-Chefe da Casa Civil, Dilma Rousseff, e do Ministro dos Transportes, Alfredo Nascimento, à Bahia. Obras de infraestrutura custeadas pelo Programa de Aceleração do Crescimento no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70f8836b9782fd85f5194b3c640b310dd8ccd293be1c8c5a0e9474d6073401a1
+size 206

@@ -1,1 +1,3 @@
-Comemoração do 293º aniversário de fundação de Fortaleza, Capital do Estado do Ceará. Gestão exitosa do Prefeito Municipal Roberto Cláudio. Concessão da Medalha Iracema ao ex-Deputado Federal Mauro Benevides e aos Srs. Pio Rodrigues Neto e Otho Leal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58daca51998308f97e0a25372e42c5401691bad687f1a50add6028b9228f90d4
+size 260

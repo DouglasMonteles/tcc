@@ -1,1 +1,3 @@
-Apoio aos caminhoneiros. Natureza contraditória do tratamento concedido pelo Governo Federal aos participantes de movimentos sociais ideologicamente alinhados ao poder e aos de integrantes de movimentos classistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9a8f02f77517c67f727a503f92af919ab50ffca474ee4841c90861f0a74dbb5
+size 215

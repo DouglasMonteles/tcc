@@ -1,1 +1,3 @@
-Apoio ao pronunciamento do Deputado Pr. Marco Feliciano sobre a União Nacional dos Estudantes - UNE. Críticas à atuação da organização não governamental Projeto Legal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be6f1dc0782b0df6d3f1359710fa30e8fee9ceb9f5bd74e51eeadeeb5e403027
+size 175

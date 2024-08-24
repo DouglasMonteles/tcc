@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Segurança Pública e Combate ao Crime Organizado,  às Emendas de Plenário ao Projeto de Lei 451 de 1995 (Dispõe sobre medidas de prevenção e repressão aos fenômenos de violência por ocasião de competições esportivas e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7831128647f4b514d6045d44469c94f712febb1deaacff9a4817efabbff6f09
+size 283

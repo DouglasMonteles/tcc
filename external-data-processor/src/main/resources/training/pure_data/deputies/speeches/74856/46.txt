@@ -1,1 +1,3 @@
-Posse de novos conselheiros tutelares da cidade do Rio de Janeiro. Discurso proferido na solenidade pela Sra. Juliana dos Santos, em nome de todos os conselheiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f46190545a10bb0e03fd070f3239a2a408c0235b46880efba2163e8607af9473
+size 163

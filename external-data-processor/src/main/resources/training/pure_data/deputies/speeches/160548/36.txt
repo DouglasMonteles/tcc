@@ -1,1 +1,3 @@
-Discussão da Medida Provisória  518  de 2010 ( Disciplina a formação e consulta a bancos de dados com informações de adimplemento, de pessoas naturais ou de pessoas jurídicas, para formação de histórico de crédito). Avaliação positiva da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79afb580d0c2973931dfe2b618d67baa765f2634b85ac22d6c14cf32f1ed7e6e
+size 260

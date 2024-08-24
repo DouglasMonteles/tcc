@@ -1,1 +1,3 @@
-Defesa do pagamento em pecúnia de férias e licença-prêmio a policiais civis e militares do Estado de São Paulo, ativos e aposentados, impedidos do gozo dos benefícios ante a necessidade de serviço.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0c3d80877e0c675477516153ac6d339c2b4ca1f059be0da09cf939320ab10bb
+size 204

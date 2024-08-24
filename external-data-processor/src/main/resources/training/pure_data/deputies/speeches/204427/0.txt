@@ -1,1 +1,3 @@
-Comprometimento do orador com as demandas da população brasileira, especialmente do povo pernambucano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bf054624cce5c94ad2f388c806b688b662e05dd3c6688dd6e501abae1747b2f
+size 104

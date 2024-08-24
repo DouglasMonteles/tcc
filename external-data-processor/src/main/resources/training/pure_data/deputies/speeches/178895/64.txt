@@ -1,1 +1,3 @@
-Expectativa da Associação Brasileira dos Criadores de Girolando da transferência de conhecimento para criação da raça bovina a países da América Latina. Conclusões de estudo técnico da Consultoria Legislativa da Câmara dos Deputados destinado ao fornecimento de subsídios ao Projeto de Lei nº 3.722, de 2012, que disciplina as normas sobre aquisição, posse, porte e circulação de armas de fogo e munições, cominando penalidades e dando providências correlatas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e02dbd3643a0a95446272f8f0857e12fd293253dea682de2d96286d627c33c4d
+size 480

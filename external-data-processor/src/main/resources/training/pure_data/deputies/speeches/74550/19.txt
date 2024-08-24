@@ -1,1 +1,3 @@
-Alteração procedida no texto do Projeto de Lei de Conversão da Medida Provisória  451 de 2008 (Altera a legislação tributária federal, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:0360aae1a1e3507db2ca46c9bfa3f4f68ba29fe50af74f616bb7d4ed2161abba
+size 170

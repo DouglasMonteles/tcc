@@ -1,1 +1,3 @@
-O Deputado destacou a importância do Congresso Nacional na preservação de sua competência legislativa, conforme previsto na Constituição Federal. Ele questionou a omissão do Presidente do Senado, Rodrigo Pacheco, em defender as prerrogativas do Poder Legislativo. Expressou preocupação com as decisões recentes do Supremo Tribunal Federal, incluindo a derrubada do marco temporal, que afeta o setor agrícola e econômico do Brasil. Defendeu a obstrução das votações para lutar pelas prerrogativas do Parlamento e instou o Senado Federal a votar rapidamente a proposta sobre o marco temporal. Alertou sobre as consequências econômicas e sociais da derrubada do marco temporal, afirmando que isso poderia afetar a produção de alimentos e aumentar os preços, impactando a alimentação global. Concluiu pedindo a defesa das prerrogativas da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:176eebbc12a36a6e567658e3f150e55b8a68d3436837408b08f107db01dfa9e3
+size 863

@@ -1,1 +1,3 @@
-Realização, pelo governo petista, de manobras políticas para esvaziamento da CPI do MST. Constatação, pelo órgão, da atuação criminosa do Movimento dos Trabalhadores Rurais Sem Terra. Indignação da oradora com a adesão do Republicanos ao Governo Luiz Inácio Lula da Silva. Propósito do Presidente da República de descriminação do aborto e das drogas no País. Perseguição do Supremo Tribunal Federal aos Parlamentares da Direita. Cerceamento imposto aos trabalhos da Oposição na CPMI destinada à investigação de atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3ac417755bdc183dbe7269449887c554f1ecdf1b5c451e3e64d9fcadcb4f413
+size 608

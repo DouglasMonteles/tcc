@@ -1,1 +1,3 @@
-Anúncio da presença da Presidenta Dilma Rousseff no Município de Bom Jesus da Lapa, Estado da Bahia, para solenidade de entrega de unidades habitacionais do Programa Minha Casa, Minha Vida e da nova sede do Instituto Federal de Educação, Ciência e Tecnologia Baiano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fa35c481d7d40d06e167278aca246dd71733682dc176c07650d8df19369c1d5
+size 272

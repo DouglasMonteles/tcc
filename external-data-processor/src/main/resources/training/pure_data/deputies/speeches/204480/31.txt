@@ -1,1 +1,3 @@
-Situação de penúria das populações afetadas por rompimento de barragens no Estado de Minas Gerais. Solicitação de apoio às investigações relacionadas à tragédia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8ff0424ae15001996beaddb7850f01c092c8c62f3040d49c088048a41fc80ab
+size 173

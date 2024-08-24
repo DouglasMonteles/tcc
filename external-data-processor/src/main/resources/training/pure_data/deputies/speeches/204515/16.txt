@@ -1,1 +1,3 @@
-Acerto da aprovação pela Casa do Projeto de Lei nº 675, de 2020, sobre a suspensão retroativa e o impedimento de novas inscrições nos cadastros de empresas de análises e informações para decisões de crédito, durante o estado de calamidade pública decretado em decorrência da pandemia de coronavírus. Repúdio ao posicionamento do partido NOVO contrário à aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fa2b3f8eb7829b57c0a20600473adc0f69293002b2ab1e52718e1b018934e4d
+size 398

@@ -1,1 +1,3 @@
-O Deputado expressou preocupações sobre a situação atual do Brasil. Mencionou a greve de centenas de prefeitos, principalmente do Nordeste, que se sentem ignorados pelo governo federal devido à falta de repasses financeiros adequados. Também criticou a promessa de enviar dinheiro do Brasil para países em crise, citando a Argentina como exemplo. Ele alertou para a crescente desocupação e a falta de confiança na economia brasileira. Além disso, Gayer questionou a eliminação de provas relacionadas ao 8 de janeiro, levantando suspeitas sobre a ação do governo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:445687fc71f31489574503a528469c8a199c587e7c499819f883cfb1210101ef
+size 577

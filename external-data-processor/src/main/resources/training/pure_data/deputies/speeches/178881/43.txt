@@ -1,1 +1,3 @@
-Transcurso do 24º aniversário de emancipação político-administrativa do Município de Belágua, Estado do Maranhão. Excelência da gestão do Prefeito Municipal Herlon Costa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6fbf5bbe82223681bbd6e2095c7f17ee77a2bed74360c40d53fe350761a5be7
+size 180

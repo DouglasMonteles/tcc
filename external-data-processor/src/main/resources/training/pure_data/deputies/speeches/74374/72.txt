@@ -1,1 +1,3 @@
-Apreensão de produtores rurais na região do Distrito de Picadinha, Município de Dourados, Estado de Mato Grosso do Sul, com a iniciativa do INCRA de demarcação de áreas ditas  remanescentes de quilombolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f17607ef4afb3e51f61572751afce3ce1cc82fc471e897fc5108e134b84f9fe
+size 211

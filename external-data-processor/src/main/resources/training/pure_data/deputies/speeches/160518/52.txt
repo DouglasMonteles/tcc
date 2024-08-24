@@ -1,1 +1,3 @@
-Anúncio de realização, pela Comissão de Defesa do Consumidor, de audiência pública destinada ao debate da atuação da empresa telefônica Telecom Italia Mobile - TIM. Apresentação de requerimento de tramitação em regime de urgência para o projeto de decreto legislativo sobre devolução aos consumidores de valores cobrados a mais em tarifas de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34ee03002cef67dadc43cb02d35a4dfd96293d4abc35dd78fd537d87ad225798
+size 376

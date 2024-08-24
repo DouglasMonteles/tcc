@@ -1,1 +1,3 @@
-Empenho do Prefeito e da população do Município de São Francisco de Paula, Estado do Rio Grande do Sul, na reconstrução de locais destruídos por intempérie e na ajuda a desabrigados na cidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8826e22051604a0e4fd5924c3a694239cc9524e944b5b64332a50d3d0385136d
+size 200

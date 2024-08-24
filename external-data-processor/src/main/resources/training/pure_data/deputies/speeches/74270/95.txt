@@ -1,1 +1,3 @@
-Presença, na Casa, de alunos da Faculdade de Direito do Centro Universitário UNISEB, do Município de Ribeirão Preto, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3536af435211550cc8294c992a600d108fe43257548c150891a1ef610b5148e2
+size 142

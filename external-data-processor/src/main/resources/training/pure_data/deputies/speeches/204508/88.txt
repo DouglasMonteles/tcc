@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo apresentado à Proposta de Emenda à Constituição nº 5, de 2021, sobre a alteração da composição do Conselho Nacional do Ministério Público, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:052ae20f500476a8fda0823c865218eced1b501778133280d359fc2d5fd89378
+size 228

@@ -1,1 +1,3 @@
-Apoio às ações do Movimento dos Trabalhadores Rurais Sem Terra - MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a8f1a74fa0c54d7c46616ebd31157bc59653f11a8ddaba09662fd95b285abda
+size 72

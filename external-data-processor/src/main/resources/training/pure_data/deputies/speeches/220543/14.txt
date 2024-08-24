@@ -1,1 +1,3 @@
-Pioneirismo do Estado do Tocantins na negociação de créditos de carbono no mercado internacional. Expectativa de aprovação pela Casa do Projeto de Lei nº 528, de 2021, sobre a regulamentação do Mercado Brasileiro de Redução de Emissões - MBRE, determinado pela Política Nacional de Mudança do Clima, (Lei nº 12.187, de 2009). Importância da conciliação entre o desenvolvimento econômico e a preservação ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02775909ab1c181f2eb28b5283aa0d6fa914c7064b8d5fc62006eb64c9c420e7
+size 433

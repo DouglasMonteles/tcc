@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos 35 Anos da Morte de Wilson de Souza Pinheiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa4dbe643f832595c06db6a3e1caef6a11a648d35f48903e2f12f8e5800b4724
+size 77

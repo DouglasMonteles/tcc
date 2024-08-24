@@ -1,1 +1,3 @@
-Descarrilamento de trem na Estação de Deodoro, no Rio de Janeiro, Estado do Rio de Janeiro. Anúncio de realização, pela Comissão de Defesa do Consumidor, de audiência pública destinada ao debate sobre a renovação de contrato de concessão entre o Governo do Estado do Rio de Janeiro e a Supervia Concessionária de Transportes Ferroviários S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ee0b4486d970947d0689092fec664e7c38be64de5858efe869bf01dc8dd6c87
+size 355

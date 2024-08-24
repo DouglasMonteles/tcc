@@ -1,1 +1,3 @@
-Luta do orador pela redução dos preços do Gás Liquefeito de Petróleo - GLP, o gás de cozinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:229aa5f1069574e82327daeb609c58b6ce2d3d95d99623cd336f03e7816b6346
+size 99

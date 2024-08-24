@@ -1,1 +1,3 @@
-Realização de encontros do PDT nos Municípios de Russas e Redenção, Estado do Ceará. Inauguração do Hospital Regional do Vale do Jaguaribe. Defesa de construção do Hospital Regional do Maciço de Baturité. Destinação, pela bancada federal cearense, de recursos orçamentários para a construção do hospital universitário da Universidade Estadual do Ceará - UECE. Transcurso do 2º aniversário de criação do Grupo Otimista de Comunicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0982fe8e2ed217c41ce134c84be55637f71b835147d12a9d0a0e9ab649749ce4
+size 459

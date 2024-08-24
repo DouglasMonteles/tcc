@@ -1,1 +1,3 @@
-Assinatura, pelo Presidente Jair Bolsonaro, de medida provisória sobre a destinação de bens apreendidos do narcotráfico. Inconsistência de denúncias divulgadas contra o Ministro da Justiça e Segurança Pública, Sérgio Moro. Popularidade do Presidente Jair Bolsonaro, comprovada em sua visita ao Município de Santa Maria, Estado do Rio Grande do Sul. Falta de condições morais do PT para discussão de assuntos pertinentes ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES. Comprometimento do PSL com o crescimento socioeconômico brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab7b2711ee4db5c8f7c31a7e6a8110aef8364bf265c8fc3a5b7be8ea33fc4f3f
+size 568

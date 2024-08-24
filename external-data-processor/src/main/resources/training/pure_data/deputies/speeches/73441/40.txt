@@ -1,1 +1,3 @@
-Posicionamento contrário do PP  ao Requerimento de retirada da pauta da Ordem do Dia do Projeto de Lei 4.486 de 2001(Acrescenta parágrafo único ao art. 15 da lei 6.5l5 de 1977(Lei do Divórcio) e dá nova redação ao inciso VII do art. 888 da Lei 5.869 de 1973 (Código de Processo Civil), para estender aos avós o direito de visita aos próprios netos), do Senado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b6c6e0025ef5f243d4ce142f57013984436383d547578eb385eb82feb198688
+size 370

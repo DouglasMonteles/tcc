@@ -1,1 +1,3 @@
-O Deputado registrou a presença na Casa dos Prefeitos Mano Medeiros e Joselito Gomes da Silva, respectivamente, dos Municípios de Jaboatão dos Guararapes e Gravata, Estado de Pernambuco. Também registrou a presença da Primeira-Dama Viviane Facundes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad51dd4a86b93f3451cc986c3dc29a9c2e6fbc1c2665b21bc664a9a8bf46f81f
+size 254

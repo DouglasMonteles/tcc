@@ -1,1 +1,3 @@
-Reexame pelos Parlamentares de posicionamentos partidários em prol da aprovação de proposições de interesse da população brasileira. Defesa de taxação de lucros e dividendos. Saudações aos moradores do Município de Ribeirão Preto, Estado de São Paulo. Afastamento do Deputado Luiz Flávio Gomes para tratamento da própria saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65d76f4ae1ed0e4937fe00caa19ae1a2cb1c677ce9d4b50dc9cc0f3b1e6dc013
+size 344

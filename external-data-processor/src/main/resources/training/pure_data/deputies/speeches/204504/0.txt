@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 749, de 2019, sobre a determinação, às operadoras de telefonia móvel de abrangência nacional, de implantação e manutenção do cadastro dos usuários adquirentes de aparelhos celulares e chips.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1add281047a48771e226efd2c2cf6d6e493e4df6734b3d6cdf24268a1f395fb
+size 237

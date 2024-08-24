@@ -1,1 +1,3 @@
-Não recebimento, por candidatos comprometidos com a área da segurança pública, de votos suficientes para a eleição. Escalada da violência no País. Necessidade de aprovação, pela Câmara dos Deputados e pelo Senado Federal, de medidas enérgicas de combate à criminalidade. Reiteração do apelo à Presidenta da República eleita de adoção de medidas para redução dos índices de violência no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f17fefd40942ba8f57a4df11a030f867d51cb571a8eea111c238246f3f82f707
+size 415

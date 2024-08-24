@@ -1,1 +1,3 @@
-Transcurso do 49º aniversário de emancipação político-administrativa do Município de Candiba, Estado da Bahia. Excelência da gestão do Prefeito Municipal Reginaldo Prado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3eb8c81c187d2844e212b369283b2479b0c72d15fda695c8683b3b6ec035019
+size 178

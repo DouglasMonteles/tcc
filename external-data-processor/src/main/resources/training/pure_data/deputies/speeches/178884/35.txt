@@ -1,1 +1,3 @@
-Regozijo com a aprovação pela Casa do Projeto de Lei nº 4.330, de 2004, que dispõe sobre o contrato de prestação de serviço terceirizado e as relações de trabalho dele decorrentes. Voto contrário do orador à terceirização na administração pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05fb5915e7f9de0047bf2a8f107bf857c486da7027b1a9deb3b0a5664613dd85
+size 263

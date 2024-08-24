@@ -1,1 +1,3 @@
-A Deputada proferiu parecer ao Projeto de Lei nº 883, de 2023, que prioriza a guarda unilateral do recém-nascido à genitora enquanto perdurar o período de amamentação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:196cfafb701fb4b58a799dd2b1f28cbc78167ece982384e2b8833421aea0945b
+size 173

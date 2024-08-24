@@ -1,1 +1,3 @@
-Descompasso entre o discurso do Presidente Luiz Inácio Lula da Silva em defesa da pacificação do País e a recepção, com honrarias de Chefe de Estado, do ditador venezuelano Nicolás Maduro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55017942ceef198a910993f5798f351301ac8072b048fa3cdf6dee613c5286e4
+size 195

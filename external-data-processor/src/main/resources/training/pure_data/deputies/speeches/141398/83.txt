@@ -1,1 +1,3 @@
-Encaminhamento aos Líderes partidários de cópias do parecer preliminar da   Medida Provisória   511, de 2010, da qual é relator.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71766b832a94dd1fb180c293f182711f3316b29efdede0e35d9f7240253aa7bb
+size 133

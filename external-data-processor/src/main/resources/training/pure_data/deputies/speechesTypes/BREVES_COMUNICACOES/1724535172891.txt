@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à Vereadora Karla Coser, do Município de Vitória, Estado do Espírito Santo, em visita à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:635ae42a64056a4a014e733d008efaa06378a725d9d77bfbcbd9dbf009e5f5af
+size 145

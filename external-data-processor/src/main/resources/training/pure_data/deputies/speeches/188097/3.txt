@@ -1,1 +1,3 @@
-Resultados significativos alcançados pela escola de tempo integral. Apresentação do Projeto de Lei nº 1.439, de 2015, sobre alteração da Lei nº 11.494, de 2007, com vista ao aumento do custo per capita  de alunos nas escolas de tempo integral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:046917f0364b00a8164d522a333ae29df30c52b944c6a4ade13d60e887173d54
+size 250

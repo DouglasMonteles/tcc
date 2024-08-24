@@ -1,1 +1,3 @@
-Presença no plenário do Deputado Estadual Renato Machado, Presidente da Comissão de Assuntos Municipais da Assembleia Legislativa do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2569be2fae4b228087a3845a630a3b505f6700e129036e6ada406222ac751f2
+size 161

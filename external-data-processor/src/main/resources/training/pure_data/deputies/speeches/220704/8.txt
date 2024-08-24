@@ -1,1 +1,3 @@
-Repúdio aos ataques racistas desferidos contra o jogador de futebol Vinicius Júnior, na Espanha. Reação do Presidente Luiz Inácio Lula da Silva e da Ministra da Igualdade Racial, Anielle Francisco da Silva, contra a discriminação racial. Combate ao racismo no contexto mundial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6f9166e3e90566ae022e8b389f30fc54359f7d4b5206d492052a3d1db3bad59
+size 284

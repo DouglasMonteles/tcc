@@ -1,1 +1,3 @@
-Promulgação da Lei de Acesso à Informação Pública, Lei nº 12.527, de 2011. Apoio ao Projeto de Lei nº 3.750, de 2012, sobre a obrigatoriedade de divulgação de processos licitatórios em tempo real.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b85dc71a3a03ca03816ff341f409bd74b3c0269dadcd55a623e5f25153bc6af5
+size 207

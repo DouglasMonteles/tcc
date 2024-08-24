@@ -1,1 +1,3 @@
-Comemoração do 104º aniversário da imigração japonesa ao Brasil. Realização da Exposição Cultural Nipônica na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66575d29d631db7656566b1614b41085055042b2c98510493a652f1234812b46
+size 143

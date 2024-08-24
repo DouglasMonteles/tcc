@@ -1,1 +1,3 @@
-Transcurso do 16º aniversário de emancipação político-administrativa do Município de Jatobá, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13887daa331180aa8c7542d520706f05ba6e2e5ce16c4f14bbe2028cca4bbfa8
+size 121

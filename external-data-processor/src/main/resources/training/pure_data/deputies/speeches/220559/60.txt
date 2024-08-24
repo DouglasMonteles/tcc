@@ -1,1 +1,3 @@
-A Deputada expressou sua disposição para permanecer no plenário até altas horas da noite, criticando a falta de previsibilidade nos horários anunciados. Protestou contra a restrição do direito dos colegas de contribuir com conhecimentos sobre o Projeto de Lei&nbsp;nº 2.228, de 2022, que autoriza os Municípios a aderirem a atas de registro de preços municipais, uma vez que impacta gestores municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1f05203c2db58ff2d05738bdd2ad15ecc5a0659137f7311766e0cb15a89fc3d
+size 413

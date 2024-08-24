@@ -1,1 +1,3 @@
-Realização do Grito da Terra Brasil 2009. Pauta de reivindicações ao Congresso Nacional apresentada por participantes do movimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:571c1ddd9d59a36ac1c2d3bb9109a373fb34d1125f3c74152478a38a1e9a0326
+size 135

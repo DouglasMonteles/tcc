@@ -1,1 +1,3 @@
-Presença no plenário do Vereador Tovar Correia Lima, da Câmara Municipal de Campina Grande, Estado da Paraíba. Participação do Vereador paraibano na Convenção Nacional do PSDB, na Capital da República. Pleitos do Município paraibano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73bee9e10c971023a99dcc6d519d882615a7099828248c8dd6117406389c07b0
+size 243

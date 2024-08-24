@@ -1,1 +1,3 @@
-Início das obras de transposição de águas do Rio São Francisco na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76038f229eb7782363145a65ac1cd24a006ca37ded469a74f4e994f1022ce83e
+size 88

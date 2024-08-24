@@ -1,1 +1,3 @@
-Posicionamento contrário à criação da Contribuição Social para a Saúde - CSS. Realização de maiores investimentos na saúde pública. Defesa de destinação ao setor de recursos provenientes da exploração de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aba4b01e37f8e472b0bd7d6eca968074ce993de5bb8b24a0169dd58e325d325
+size 229

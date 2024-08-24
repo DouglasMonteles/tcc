@@ -1,1 +1,3 @@
-Resultados positivos da visita do Presidente Luiz Inácio Lula da Silva ao Estado da Bahia. Aprovação pela Comissão de Constituição e Justiça e de Cidadania, em caráter conclusivo, da proposta de estabelecimento do piso salarial nacional de professores dos ensinos públicos infantil, fundamental e médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f65e62ec6eaee6f357b31c28fd99300966484b8e045227a6450130849bab7b71
+size 313

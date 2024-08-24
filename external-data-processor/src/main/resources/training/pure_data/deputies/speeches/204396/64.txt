@@ -1,1 +1,3 @@
-Agradecimento à Casa pela aprovação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3.067, de 2020, sobre a alteração da Lei nº 11.771, de 2008, acerca da execução da Política Nacional de Turismo no exercício de 2020, no âmbito da emergência de saúde pública decorrente da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e20eb518ec40acb5c086dbc1057cf675887123a517a5d2234fdd80977be513a
+size 325

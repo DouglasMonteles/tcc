@@ -1,1 +1,3 @@
-Homenagem póstuma à Irmã Zoé da Cunha Menezes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb9a9ec32b920114332543c744083d8833f58b9119ec9006a8cdc7410c6156eb
+size 50

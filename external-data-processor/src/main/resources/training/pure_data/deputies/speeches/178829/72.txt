@@ -1,1 +1,3 @@
-Expectativa de obtenção de resultado positivo em decorrência da oferta, pelo Governo do Estado de São Paulo, de recompensa a informantes sobre a autoria de disparo contra soldado da Polícia Militar paulista. Repúdio à instalação, pela concessionária ECONORTE, de praças de pedágio na BR-369 e na BR-153, na divisa dos Estados de São Paulo e do Paraná, sem licitação. Pedido ao Supremo Tribunal Federal de imediato julgamento de ação sobre o assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:338f819fd097b3c79aac6c1ba5aee787a81a40e9694b86d128e3cc07f161a230
+size 467

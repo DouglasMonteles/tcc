@@ -1,1 +1,3 @@
-Realização pela Casa de sessão solene em homenagem a Marinha do Brasil. Empenho do orador na destinação de recursos para o setor de saneamento básico do Município de Pimenta Bueno, no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9717911a3bd66547ebe190dc5b5d11c099b571d05d04cac4b7d9ff2a8b94714
+size 211

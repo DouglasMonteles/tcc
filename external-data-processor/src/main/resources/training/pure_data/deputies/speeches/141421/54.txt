@@ -1,1 +1,3 @@
-Imediata implantação do Plano Nacional de Banda Larga no País. Necessidade da melhoria e de redução dos preços de acesso aos serviços de Internet. Solicitação ao Ministro das Comunicações de informações sobre a implantação do Plano Nacional de Banda Larga no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fcfa9ec80700e453c1cd7a4fb7bbd7973679b86b25a58e937a5037b06d3380a
+size 295

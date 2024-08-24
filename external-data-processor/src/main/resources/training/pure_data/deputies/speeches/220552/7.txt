@@ -1,1 +1,3 @@
-Expectativa quanto à instalação de CPMI destinada à investigação de atos de vandalismo praticados contra as sedes dos Poderes da República. Repúdio à declaração do Ministro dos Diretos Humanos e Cidadania, Silvio Almeida, em defesa da descriminação das drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e15d693361d71e970225e07b8ba3e6a7d7913d6e752c570b3c0e43a2aa01aa04
+size 273

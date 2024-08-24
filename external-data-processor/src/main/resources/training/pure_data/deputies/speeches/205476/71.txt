@@ -1,1 +1,3 @@
-Congratulações à Cáritas Diocesana de Caetité pela realização da 3ª Romaria das Pastorais Sociais no Distrito de Guirapá, no Estado da Bahia. Realização, na comunidade Cachoeira, de ato de protesto contra a construção da barragem de rejeitos da empresa Bahia Mineração - BAMIN entre os Municípios de Guanambi e Pindaí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2ea43e95ca9ebceec8a3cab0f5bb29bbae62ab4a9db79a026f4b54c017df417
+size 335

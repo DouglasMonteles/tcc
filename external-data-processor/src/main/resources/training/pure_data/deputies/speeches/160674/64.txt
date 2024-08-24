@@ -1,1 +1,3 @@
-Balanço da reunião dos membros da bancada federal do Estado da Paraíba com o Ministro da Agricultura, Pecuária e Abastecimento, Mendes Ribeiro Filho, e o Diretor da Companhia Nacional de Abastecimento - CONAB, Marcelo Melo, destinada à discussão de medidas de combate aos efeitos da seca no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86ac9ab7f5a0d963500a95f7fa49c853b8cd0b3cf76be32a33a4b76b993de11a
+size 304

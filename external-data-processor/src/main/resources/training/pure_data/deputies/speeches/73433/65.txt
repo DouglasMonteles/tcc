@@ -1,1 +1,3 @@
-Determinação à CPI das escutas telefônicas clandestinas de encerramento de seus trabalhos. Nulidade de atos da Comissão praticados em concomitância com a Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f815068f45540c6175e4492a0012d3682e55bad748cf8835ce56d718719a85c
+size 173

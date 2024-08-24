@@ -1,1 +1,3 @@
-Repúdio às acusações de Senador da República contra o Presidente Rodrigo Maia e à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fba9e4d8ad8ca85ace8028270192c726d6879cc198ab747cdd9b039b8f701e0
+size 110

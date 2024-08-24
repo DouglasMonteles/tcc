@@ -1,1 +1,3 @@
-Regozijo com a sanção da lei sobre a criação da Empresa Simples de Crédito - ESC. Importância do diploma legal para as microempresas e os microempreendedores individuais. Luta do orador pela redução da alíquota do imposto SIMPLES; pela criação do SIMPLES trabalhista e pelo aumento do teto nacional das empresas de pequeno porte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b3dff73e7f96c57900040db16e1ed8dc6026cb339a39c701c377d3f82a05a89
+size 340

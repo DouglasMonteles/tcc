@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a instituição do Programa Nacional do Albergue Saúde - PROALBERGUE. Encaminhamento à Mesa Diretora do relatório da participação do orador na Conferência Mundial de Cooperativas de Crédito do WOCCU, realizada em Gdansk, Polônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bdfcd4cd1daf670da3dd044403f7a972dfa154180f2b2228a10d92bd93b315d
+size 276

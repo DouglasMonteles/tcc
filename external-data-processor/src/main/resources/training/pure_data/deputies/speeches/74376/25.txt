@@ -1,1 +1,3 @@
-Assassinato do Vereador Flávio Roberto Godoy, no Município de Bela Vista, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e5863185907b71147ff88bc7b23884b02d06761052473ebc3a719b34b1225a8
+size 105

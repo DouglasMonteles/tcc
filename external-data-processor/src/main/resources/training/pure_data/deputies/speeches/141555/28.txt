@@ -1,1 +1,3 @@
-Considerações críticas ao Prefeito Lindberg Farias, do Município de Nova Iguaçu, Estado do Rio de Janeiro, por não convidar Parlamentares para solenidades de inauguração de obras públicas. Apresentação do Projeto de Lei nº 4.772, de 2009, sobre obrigatoriedade de divulgação da origem dos recursos públicos relativamente a obras custeadas por emendas parlamentares ao Orçamento da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c82ab24d7bef9394874402d7b856ec1e34a585ecd095078ce37423afc961a50a
+size 404

@@ -1,1 +1,3 @@
-Presença, na Casa, do Deputado Estadual Fábio Ramalho; do Secretário de Finanças da Prefeitura Municipal de Lagoa Seca, Iankel de Sousa Lucena; e do correligionário Reinaldo Ribeiro, do Estado da Paraíba. Apoio às demandas da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5ae05646ca73821f13d54f637cc212442877da740556b61fc2a4d9cf441cdc2
+size 248

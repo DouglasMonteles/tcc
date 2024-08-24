@@ -1,1 +1,3 @@
-O Deputado levanta questões cruciais no setor aéreo brasileiro. Recentemente, a agência de viagens 123 Milhas chocou o público ao suspender abruptamente os pacotes e passagens de sua linha promocional, afetando embarques previstos até dezembro de 2023. A empresa promete reembolsar integralmente os clientes, mas o orador adverte que gera preocupações a falta de clareza sobre restituições em dinheiro. Como membro da Comissão de Defesa do Consumidor, o Deputado propôs uma audiência pública para discutir os danos aos consumidores e às companhias aéreas. Além disso, questiona a mudança planejada dos voos do Aeroporto Santos Dumont para o Aeroporto Internacional Tom Jobim, na cidade do Rio de Janeiro, Estado do Rio de Janeira, e argumenta que a transição exige uma análise mais detalhada em termos logísticos, de acesso e segurança.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c8cdc821aa6af6406bf33cac95aeeba6def1606d2d9067ea3787d245e3a2476
+size 858

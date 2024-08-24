@@ -1,1 +1,3 @@
-Homenagem póstuma ao pesquisador e geógrafo Milton Almeida dos Santos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b33cc2b46914b4217d097ff1ab76f97d1308452e4383f97902f7c52dacc074d6
+size 72

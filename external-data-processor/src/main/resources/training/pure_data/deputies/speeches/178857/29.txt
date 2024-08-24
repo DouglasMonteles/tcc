@@ -1,1 +1,3 @@
-Descaso de setores oposicionistas e do PMDB  com denúncias de corrupção contra o Presidente Eduardo Cunha. Inconsistência  de tentativa da Oposição de abertura de processo de impeachment da Presidenta Dilma Rousseff com base na rejeição das contas presidenciais pelo Tribunal de Contas da União - TCU. Inexistência de denúncia de corrupção contra a Presidenta da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f0ea4567c62b355c1523f862c30bc8af371cc8196cabcae25cacd748cb8e5ef
+size 387

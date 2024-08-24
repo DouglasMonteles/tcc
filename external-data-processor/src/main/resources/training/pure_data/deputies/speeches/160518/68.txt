@@ -1,1 +1,3 @@
-Continuidade da greve de professores no Estado de Minas Gerais. Descumprimento pelo Governo Estadual da Lei nº 11.738, de 2008, sobre a instituição do Piso Salarial Profissional Nacional dos Profissionais Do Magistério Público da Educação Básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5025334b74967f908373bed8c381ff5565c3c6bd51a3a21f81c89230d2731916
+size 254

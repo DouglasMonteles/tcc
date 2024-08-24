@@ -1,1 +1,3 @@
-Inauguração de campus cultural da Universidade Federal de Minas Gerais - UFMG no Município de Tiradentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7dbf317330def9ba6ad94f078d97694a0b5973fffee671a316594253ab2a834
+size 108

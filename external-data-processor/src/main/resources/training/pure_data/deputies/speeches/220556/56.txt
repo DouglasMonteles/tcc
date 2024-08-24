@@ -1,1 +1,3 @@
-Queda dos preços de combustíveis e do gás de cozinha com a revogação da política de dolarização de preços adotada pela PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebbed7e7f54a343a2a89f3b2eedda3122ab7e33742a37d4999bb120afc314834
+size 138

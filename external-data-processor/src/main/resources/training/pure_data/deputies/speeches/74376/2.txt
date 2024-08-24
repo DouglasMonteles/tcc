@@ -1,1 +1,3 @@
-Realização, pela Ordem dos Advogados do Brasil  —OAB, seccional de Mato Grosso do Sul, de palestra sobre o endividamento dos produtores rurais. Conveniência de implantação de nova política agrícola no País. Preocupação de produtores rurais com a decisão do Ministério da Agricultura, Pecuária e Abastecimento de ajuste do período de plantio do milho safrinha à política de zoneamento agrícola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:380ba483b73b5caf128bbd451a6dd0e657b0ca426395c769cf062bb1343566b9
+size 412

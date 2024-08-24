@@ -1,1 +1,3 @@
-Agradecimento à Presidência e aos Parlamentares pela aprovação do projeto de lei sobre alteração da Lei Maria da Penha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08b66120ed41ffc7f954a4f0a607b07d5922835cbcb13fc6fa5bc0be71e01c7e
+size 125

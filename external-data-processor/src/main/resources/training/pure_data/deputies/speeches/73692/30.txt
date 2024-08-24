@@ -1,1 +1,3 @@
-Dificuldades enfrentadas pelas indústrias no Estado do Rio Grande do Sul, em decorrência da política cambial e das elevadas taxas de juros vigentes no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7af01ebff7e84d9753b9b0711f921033244f6898712aa74f036daec8fe12d554
+size 160

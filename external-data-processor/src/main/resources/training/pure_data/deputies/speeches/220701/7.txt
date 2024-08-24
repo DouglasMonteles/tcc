@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de Lei nº 1.949, de 2007, que institui a Lei Geral da Polícia Civil e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fc9f6fff9899b3d2585762dec200fad15b1363b16f52c6f042cbc200f24f1af
+size 127

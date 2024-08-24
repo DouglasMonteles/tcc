@@ -1,1 +1,3 @@
-Dificuldades na exportação de máquinas agrícolas da empresa John Deere Brasil para a Argentina. Urgente necessidade de revisão da política cambial brasileira. Atuação da bancada federal do Estado do Rio Grande do Sul em defesa do setor industrial gaúcho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7deb56ff20e2cd414d743edcb3becde6e53bb949b8f4114aa0e513e471a0551
+size 263

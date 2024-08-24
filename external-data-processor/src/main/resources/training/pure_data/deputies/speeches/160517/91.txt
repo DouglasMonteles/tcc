@@ -1,1 +1,3 @@
-Revisão de tarifas de energia elétrica pela Empresa Luz e Força Santa Maria, no Município de Colatina, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:557a6f17d288f4507aabb06bae000867b37d60eba5db6957cb9f1fd868365e5b
+size 133

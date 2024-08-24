@@ -1,1 +1,3 @@
-Solicitação à Presidência de verificação da apensação do Projeto de Lei nº 4.330, de 2016, de autoria da oradora, ao Projeto de Lei nº 1.036, de 2015, em virtude de divergência entre ambos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:836a1e62725bbe9f9d01356ba977b6b9eaa2793f00a2280caaf97bff6e1cb369
+size 200

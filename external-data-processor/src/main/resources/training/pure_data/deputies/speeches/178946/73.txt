@@ -1,1 +1,3 @@
-Defesa de aprovação das propostas legislativas para o Super-SIMPLES e o Salão-Parceiro, em face de importância dos projetos para os pequenos e microempresários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f78b08a9dd7cf0178de48e9259b3563f9b98d06ee47367e7f885404070788cb
+size 165

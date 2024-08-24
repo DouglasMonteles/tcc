@@ -1,1 +1,3 @@
-Parecer ao Projeto de Lei  56 de 2008-CN (Abre aos Orçamento Fiscal da União, crédito especial  em favor do Ministério da Ciência e Tecnologia).
+version https://git-lfs.github.com/spec/v1
+oid sha256:11ae0b78e00a3b05ecf756055835af12daf97585901c9ad1ba9aa37aa4986f2d
+size 149

@@ -1,1 +1,3 @@
-Orientação de bancada para votação do requerimento de destaque para votação em separado do art. 17-A da Constituição Federal, alterado pelo art. 1º. do Substitutivo à Proposta de Emenda à Constituição nº 282, de 2016, relativa à vedação das coligações nas eleições proporcionais, ao disciplinamento da autonomia dos partidos políticos e ao estabelecimento de normas sobre fidelidade partidária e funcionamento de partidos políticos, em segundo turno de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0136ffb8c27beeaa572a8c85f4759611db94d845a230bf827977bd2960c712f
+size 487

@@ -1,1 +1,3 @@
-Disseminação do consumo de crack no País. Necessidade de adoção, por parte do Parlamento brasileiro e dos governantes, de ações efetivas para combate à droga. Urgente criação pela Casa de Comissão Especial destinada à promoção de estudos políticas públicas destinadas ao controle, à prevenção e à recuperação dos dependentes de crack.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd8e9cb3e0d0e2ccebe1c48b04a6888b3f16b830901b202808d8bd352584deb9
+size 356

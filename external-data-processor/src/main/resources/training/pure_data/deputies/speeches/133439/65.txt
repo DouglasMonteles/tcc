@@ -1,1 +1,3 @@
-Ponderações sobre a    Emenda 17, destacada, ao Projeto de Lei de Conversão 17 de 2012 à  Medida Provisória 567 de 2012 (Altera o art. 12 da Lei 8.177 de 1991, que estabelece regras para a desindexação da economia, e dá outras providências), que propõe que os saldos das contas do Fundo de Garantia por Tempo de Serviço - FGTS  sejam remunerados pelos mesmos critérios que estão sendo fixados para a caderneta de poupança. Liberação da Bancada do PDT para votação da matéria.  Apelo ao Governo Federal e ao Presidente Marco Maia de votação da proposta de alteração do fator previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfd74efba0417a4d5b4c2003089a4a207b11f77c5ea80d62ec3ed3695a413710
+size 613

@@ -1,1 +1,3 @@
-Críticas ao Governo Luiz Inácio Lula da Silva. Tentativa do governo petista de compra de votos do PP, do União e do Republicanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d548c21bb17f7509d86d9cf0e39b0f1e1c0116a7837c90d2658438b2b923e106
+size 132

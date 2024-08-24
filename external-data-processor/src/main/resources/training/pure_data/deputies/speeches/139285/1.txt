@@ -1,1 +1,3 @@
-Classificação, pelo jornal britânico The Lancet, de artigo do cientista Maurício Lima Barreto, do Instituto de Saúde Coletiva da Universidade Federal da Bahia, entre os 12 mais importantes da área de saúde publicados em 2007. Tratamento preconceituoso dispensado por países da União Européia aos cidadãos brasileiros, com menção aos maus tratos e humilhação impostos a grupo de brasileiras pelo setor de imigração do Aeroporto de Barajas, em Madri, na Espanha. Necrológio da jornalista Zilah Laura da Silva  Moreira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3178447bd4ac1086c0d449fc606b9e798e84e5f15470dbb3e6ba67978af5fda1
+size 534

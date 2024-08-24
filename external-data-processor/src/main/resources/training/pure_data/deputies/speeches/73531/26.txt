@@ -1,1 +1,3 @@
-Eleição do Sr. Fernando Lugo para a Presidência do Paraguai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bebc3f94885e598153e5ef587986a161a4eba3b66017edab80e5ebe28659f535
+size 63

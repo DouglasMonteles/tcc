@@ -1,1 +1,3 @@
-Protesto contra a remoção de subsídios concedidos ao setor de geração de energias renováveis pela Medida Provisória nº 998, de 2020, acerca da alteração de diplomas legais e da transferência, para a União, das ações de titularidade da Comissão Nacional de Energia Nuclear, representativas do capital social das Indústrias Nucleares do Brasil S/A e da Nuclebrás Equipamentos Pesados S/A. Defesa de retirada, pelo Governo Federal, de subsídios concedidos na geração de energias poluentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f2d797cc66c471f2247f9b30a4ee5e17c0ed9f8e1a0bb36851fe6a5380778f9
+size 506

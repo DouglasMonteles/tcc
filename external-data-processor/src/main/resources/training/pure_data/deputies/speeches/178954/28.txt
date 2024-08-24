@@ -1,1 +1,3 @@
-Reunião com o Presidente da República, Michel Temer, sobre regularização fundiária no Estado de Rondônia. Apresentação dos Projetos de Lei nº 5.843, de 2016, e nº 3.530, de 2015, ambos sobre o assunto. Defesa da edição de medida provisória sobre a matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1103ec1fbc42c9ea3c9856a00609d0ec6d68ad8d1bb6fbad70731d26e3be314
+size 270

@@ -1,1 +1,3 @@
-Protesto contra o pretendido esvaziamento da Barragem da Caatinga, no Município de Bocaiuva, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e2eeaffa7ff72cc4a952ba14f383ae0dd74ec55860b1342f7c21a5d48ade775
+size 117

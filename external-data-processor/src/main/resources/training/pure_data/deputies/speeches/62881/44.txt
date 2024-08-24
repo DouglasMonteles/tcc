@@ -1,1 +1,3 @@
-Apreciação pelo Senado Federal do projeto de lei sobre a criação do novo Código Florestal brasileiro. Contrariedade à transformação de setores produtivos do Estado do Ceará, particularmente de camarão, sal e  coco, em Áreas de Preservação Permanentes - APPs pelo novo Código Florestal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12132105c95a647b81f8577dc9768c8734cddba33e4413111fe7389092828c3f
+size 299

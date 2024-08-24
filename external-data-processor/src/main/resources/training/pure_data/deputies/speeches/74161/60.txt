@@ -1,1 +1,3 @@
-Encaminhamento da votação  do art. 10 da  Subemenda Substitutiva Global de Plenário ao Projeto de Lei 7.663 de 2010 (Acrescenta e altera dispositivos à Lei 11.343 de 2006, para tratar do Sistema Nacional de Políticas sobre Drogas, dispor sobre a obrigatoriedade da classificação de drogas, introduzir circunstância qualificadoras dos crimes previstos nos arts. 33 a 37, definir as condições de atenção aos usuários ou dependentes de drogas e dá outras providências),   que trata do aumento de   pena  para o traficante de drogas que comandar organização criminosa, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4821c338ab08fe95a351631d61207aae42e809221c761fe4f05fc83ca77d31db
+size 596

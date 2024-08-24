@@ -1,1 +1,3 @@
-Ofensas recorrentes de Deputados da Esquerda dirigidas ao orador. Tumulto provocado pelas Deputadas Sâmia Bomfim e Talíria Petrone durante reunião da CPI destinada à investigação da atuação do Movimento dos Trabalhadores Sem Terra — MST, do seu real propósito, assim como dos seus financiadores (CPI do MST). Repúdio à atuação da bancada do PSOL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a442cbb6e06fa1a2362e9242758df3361fb89fba26d76c8f542939665b37971d
+size 361

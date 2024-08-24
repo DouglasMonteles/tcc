@@ -1,1 +1,3 @@
-O Deputado encaminhou favoravelmente à votação do Requerimento de Urgência nº 2.111, de 2023, para votação do Projeto de Lei nº 3.163, de 2023, que altera o inciso IV do Artigo 60 da Lei nº 14.597, de 14 de junho de 2023, para determinar, nos processos eleitorais das organizações esportivas, sistema de recolhimento de votos imunes a fraude, assegurada a votação não presencial. O Parlamentar destacou uma correção no texto, enfatizando que essa votação poderá ocorrer de várias formas, conforme definido pelas organizações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea28b7fd1c13d9910dc45402d57ab5bc6df868ba023c6a5a2d040aed763994fd
+size 547

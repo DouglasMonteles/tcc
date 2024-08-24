@@ -1,1 +1,3 @@
-Sessão solene de homenagem à maior Rádio do Estado de Minas Gerais - Rádio Itatiaia.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d61356ad7b2bfda4bff50722dcce316faa231d52e24480ec3e749b764082aeb3
+size 237

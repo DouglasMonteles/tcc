@@ -1,1 +1,3 @@
-Reuniões do orador com lideranças políticas para discussão de demandas de Municípios do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2513d302403a9b0b444d43634d8e25e4a98dbaee3beb874e40906b0a734473e7
+size 114

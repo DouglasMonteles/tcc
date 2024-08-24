@@ -1,1 +1,3 @@
-Defesa de aprovação da proposta de emenda à Constituição sobre a recomposição numérica das Câmaras de Vereadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8c1e577ac80d2d74a71ccffe42e1d4fe606609de836d46fb803e8a2ce5ac667
+size 122

@@ -1,1 +1,3 @@
-Regozijo com a aprovação da Medida Provisória   562  de 2012, sobre o apoio técnico ou financeiro da União no âmbito do Plano de Ações Articuladas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbca4d53114466d2747089638be6c45f88e8983cf2432bb079a43cad59e8e3fb
+size 155

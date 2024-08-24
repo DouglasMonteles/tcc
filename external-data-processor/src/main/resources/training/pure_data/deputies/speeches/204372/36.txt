@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei do Congresso Nacional nº 1, de 2020, relativo à alteração da Lei de Diretrizes Orçamentárias - LDO 2020, com vista à recomposição salarial das carreiras custeadas pelo Fundo Constitucional do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfeaf9b29713c650926b1ded951f4faa58d9cb25624419610f33fc10f3a210f9
+size 273

@@ -1,1 +1,3 @@
-Defesa da concessão de royalties  aos Municípios de Guajará-Mirim e Nova Mamoré, no Estado de Rondônia, para mitigação de prejuízos causados pela construção das Usinas Hidrelétricas de Jirau e Santo Antônio. Agradecimento ao Presidente da Frente Parlamentar da Agropecuária, Deputado Alceu Moreira, pelo empenho na pavimentação de trecho de rodovia federal entre os Municípios de Nova Mamoré e Buritis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87f2f746108c992a99588b4cd173ab0c0d23c36e8c55b83ef02cf9203bcf0bd5
+size 419

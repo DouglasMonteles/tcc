@@ -1,1 +1,3 @@
-Epidemia de dengue no Estado do Rio de Janeiro. Defesa da realização de campanhas permanentes de esclarecimento da população sobre formas de combate à doença. Importância do trabalho dos agentes comunitários de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf76cbb762dcd034282047fde4c20dd73f16d67f3402ff3ae73d4876666f968e
+size 226

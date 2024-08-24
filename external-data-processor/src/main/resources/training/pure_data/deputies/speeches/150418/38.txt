@@ -1,1 +1,3 @@
-Posicionamento  favorável do PRB  ao Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória   542   de 2011 (Dispõe sobre a alteração dos limites do Parque Nacional da Amazônia, do Parque Nacional dos Campos Amazônicos, do Parque Nacional da Mapinguari e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e17acab8aa9b1157fe0ddf1f26ae6567441b45ae8a15aef01413d6584bff3100
+size 304

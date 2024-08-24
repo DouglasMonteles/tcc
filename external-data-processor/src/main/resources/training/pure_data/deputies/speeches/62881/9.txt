@@ -1,1 +1,3 @@
-Deficiências do sistema de assistência à saúde no País. Inauguração do Hospital Regional do Cariri, no Município de Juazeiro do Note, Estado do Ceará. Construção do Hospital Regional Norte, no Município de Sobral. Defesa de escolha do Município de Canindé para sede do Hospital Regional dos Sertões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:457490dff93d8e12eb7eab0cb21312a3920799b2464ef09e2e803aeb744b775a
+size 314

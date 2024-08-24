@@ -1,1 +1,3 @@
-Solicitação de apoio veemente da Câmara dos Deputados ao Presidente deposto de Honduras, Manuel Zelaya.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb1456ee7fa07232d5a169101dce4dd73d2c4bd04887558bc663745f92237bc2
+size 106

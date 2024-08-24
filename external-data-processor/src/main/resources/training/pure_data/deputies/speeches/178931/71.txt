@@ -1,1 +1,3 @@
-Importância da inauguração de fábrica de celulose da empresa Klabin no Município de Ortigueira, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8b7cfdfb93c67af4f8894d1877f15624ca0e15c04be389d0155037edf1297a6
+size 119

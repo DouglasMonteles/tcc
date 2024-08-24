@@ -1,1 +1,3 @@
-Protesto contra o atraso na duplicação da BR-101 pela  concessionária Eco101, no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2d12899783a4bf331f3ae74aaf17fe3eb44f7abc59bc5db16c3cb975c24b486
+size 110

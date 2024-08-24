@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Solidariedade aos familiares dos  mortos e feridos em decorrência de descarga elétrica durante o CARNABAND, no Município de Bandeira do Sul, Estado de Minas Gerais. Relevância da organização de retiros religiosos pela Renovação Carismática Cristã durante o carnaval.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cd28513c7dfc99dcaf262a1b11a24957324dc7d729ee3cde27bb56c42dd0606
+size 319

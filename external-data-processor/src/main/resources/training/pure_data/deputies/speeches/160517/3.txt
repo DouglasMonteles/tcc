@@ -1,1 +1,3 @@
-Ameaça, pela Agência Nacional de Vigilância Sanitária - ANVISA, de proibição do comércio de anorexígenos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80490f04ae8b5cdc3dc52435e99c52c9cbe013a6c6e7e8255b51923548688b4d
+size 113

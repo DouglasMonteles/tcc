@@ -1,1 +1,3 @@
-Participação decisiva do Presidente Luiz Inácio Lula da Silva na celebração de acordo sobre o programa nuclear iraniano. Realização do Governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bffbb5dff637097130e523d1cf1b696cc0bbc618e674caead0d3cd4524bdd8f0
+size 158

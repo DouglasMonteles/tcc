@@ -1,1 +1,3 @@
-Êxito da gestão do Prefeito Fernando Haddad, do Município de São Paulo, especialmente nas áreas de mobilidade urbana e saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:135771317e6b45c1106a3cbd099161243feb7b121ec6013b2f60f29832636874
+size 131

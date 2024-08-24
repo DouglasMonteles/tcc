@@ -1,1 +1,3 @@
-O Deputado condenou o episódio em que um ex-Senador, recentemente afastado do cargo, está foragido por supostamente ter encomendado a morte da mãe de sua filha, e instou o Ministro de Estado da Justiça e Segurança Pública, Flávio Dino, a agir para sua captura. Na sequência, o Parlamentar orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 715, de 2.019, que estabelece a prioridade de atendimento no serviço de assistência psicológica e social e a preferência no atendimento para a realização de cirurgia plástica reparadora, no âmbito do Sistema Único de Saúde (SUS), para a mulher vítima de agressão da qual resulte dano à sua integridade física ou estética.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2667bd0f36bda4446d40603ab36c956d0aa747ea27fbeb27fbec5a640172e0c3
+size 716

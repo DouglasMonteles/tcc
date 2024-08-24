@@ -1,1 +1,3 @@
-Relato da visita do Parlamentar a Municípios do Estado da Bahia. Concessão do título de Cidadão Cafarnauense ao orador. Imediata aprovação, pela Casa, do projeto de lei complementar sobre a destinação de recursos para a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2b4884516722a3b3b59edf413a58c90cbac38af991fac639c1c86dd86eeb665
+size 244

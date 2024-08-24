@@ -1,1 +1,3 @@
-Artigo de autoria do orador intitulado Brincando à beira do abismo, sobre o atual momento político brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed043d82864dc9a04d5f37b52c591331cb8832394555365fbf30c5f00cfec3e0
+size 112

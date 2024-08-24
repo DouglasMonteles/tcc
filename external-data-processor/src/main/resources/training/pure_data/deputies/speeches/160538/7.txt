@@ -1,1 +1,3 @@
-Apresentação de requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 362, de 2006, sobre alteração de dispositivos da Lei Complementar nº 32, instituidora do Fundo de Terras e da Reforma Agrária - Banco da Terra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb9e23e5205d23915e92a885cef1131d9f92bacf22ea8867aee28f3a7df44410
+size 252

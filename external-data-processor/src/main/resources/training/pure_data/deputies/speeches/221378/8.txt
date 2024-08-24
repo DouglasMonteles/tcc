@@ -1,1 +1,3 @@
-Retomada de políticas de enfrentamento à violência contra as mulheres. Imediata revogação da reforma do ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e162aa9155d419cc80acc545d187cad52f1ebb727d5b512bd0b90fbd7ccaff15
+size 123

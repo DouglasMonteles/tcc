@@ -1,1 +1,3 @@
-Necessidade de retomada do crescimento econômico do Brasil. Defesa da realização da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ecb2e675d0b87447b6aa9bddbc14921561338efeb42f6f5de3311b1b5022ef4
+size 111

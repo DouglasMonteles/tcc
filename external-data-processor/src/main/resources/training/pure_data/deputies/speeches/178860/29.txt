@@ -1,1 +1,3 @@
-Defesa de aprovação do requerimento para apreciação em regime de urgência do projeto de lei complementar sobre a criação de novos Municípios no País e de construção de acordo para aprovação do mérito da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac6f26fa752db1733ebc16a2201694251a311e61d5f942cd38a9d283fa1c3365
+size 230

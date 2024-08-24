@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Doação de Órgãos e Tecidos. Destaque internacional do Brasil na área de transplantes. Elevação do índice de doação de órgãos no Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d12a2bb230cd2dec3203fe75ba538c1b4e52e5ba6b18e566503a4ebd38c381e7
+size 195

@@ -1,1 +1,3 @@
-Solicitação ao Presidente da Casa de inclusão na pauta da proposta de fixação de piso salarial nacional dos agentes comunitários de saúde e dos agentes de combate às endemias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34641994e7b7eb87b77357fb26ee2c61f3c522359656f3105e42759978bacd76
+size 183

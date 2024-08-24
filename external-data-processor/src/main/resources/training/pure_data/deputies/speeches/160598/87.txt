@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Combate ao Câncer. Importância da adoção de medidas, pelas autoridades brasileiras, para a prevenção de novos casos e o incentivo à pesquisa sobre o câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cd0a1a0f832634c2d99d50418b853d1443001968b5dad794347095baca2cb45
+size 193

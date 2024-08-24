@@ -1,1 +1,3 @@
-Defesa do desenvolvimento sustentável da Amazônia. Proposta de criação do Registro Nacional das ONGs Amazônicas - RONA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ac5cdb91d80fb5809ef055f55bec93f9706052b725ff696cba99ae4fe2a3d6d
+size 124

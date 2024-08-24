@@ -1,1 +1,3 @@
-Resultado positivo da reunião da bancada federal do Estado do Espírito Santo com o Secretário-Executivo do Ministério da Fazenda, Nelson Barbosa, para debate da compensação financeira ao Estado em face de resolução aprovada pelo Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24fd6813b59c862e6da6531002c8e06ac9886a48c913bd1f39dc0eb3fa9f86da
+size 252

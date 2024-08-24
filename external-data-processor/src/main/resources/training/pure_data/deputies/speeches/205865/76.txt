@@ -1,1 +1,3 @@
-Protesto contra a não permanência de Senadores ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ccde95ad0e5baed4f49cbdac2c400e676b637aa53613d7d101e5f382019f44f
+size 62

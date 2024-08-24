@@ -1,1 +1,3 @@
-Agradecimento ao PMDB pela indicação do Parlamentar como Líder do partido na Casa. Defesa de construção de base parlamentar sólida, abertura de diálogo com os partidos e apoio ao Presidente da República Interino, Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ac47fc9855637b3aceb124af816c238cb3dc5ef57f2a6a788cb9df24cce67c7
+size 234

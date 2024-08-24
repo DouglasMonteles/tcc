@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao 403º  aniversário de São Luís- MA.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc67971e79527063fdf152204b442b29c65a77f765e54af9a9362510bc427d77
+size 218

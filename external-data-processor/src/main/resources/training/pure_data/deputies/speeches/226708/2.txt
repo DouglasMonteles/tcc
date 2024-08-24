@@ -1,1 +1,3 @@
-O Deputado lamentou um recente caso de agressão a uma idosa de 86 anos, expressando tristeza pela falta de respeito à terceira idade na geração atual. Como médico, enfatizou as sérias lesões da vítima e criticou a soltura do agressor. Defendeu a necessidade de leis mais rigorosas e anunciou a elaboração de um projeto de lei para abordar essas situações no país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d12c6d018baf47c04d7f280e20dffca75ab8fec4ab3a587081a5c2561575f05d
+size 376

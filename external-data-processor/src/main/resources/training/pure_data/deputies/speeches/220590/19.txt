@@ -1,1 +1,3 @@
-O Deputado criticou o Ministro da Justiça e Segurança Pública, acusando-o de ser despreparado e desrespeitoso. Ele expressou preocupação com a violência no Brasil e condenou a recusa do Ministro em comparecer a uma convocação da Comissão de Segurança Pública e Combate ao Crime Organizado. Repudiou as declarações do Ministro, que insinuou que os Deputados são criminosos, e questionou por que o Ministro não temia visitar áreas dominadas por criminosos, como o Complexo da Maré.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f34d5066b202d2eb1771f97f477f860d329b35fbde569e07b6a169e334b9e444
+size 496

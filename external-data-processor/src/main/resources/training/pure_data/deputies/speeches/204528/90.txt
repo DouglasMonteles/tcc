@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de adiamento, por 1 sessão, da discussão do Projeto de Lei nº 5.595, de 2020, sobre o reconhecimento da educação básica e do ensino superior, em formato presencial, como serviços e atividades essenciais, e o estabelecimento das diretrizes para o retorno seguro às aulas presenciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:309397de863e63075197021f62306a743a7f8826d55b4e6703f5ae6ebcea9443
+size 334

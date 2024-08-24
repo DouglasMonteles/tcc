@@ -1,1 +1,3 @@
-A Deputada proferiu parecer ao Projeto de Lei nº 1.768, de 2023, que reabre prazo para repactuação de dívidas de crédito rural abrangidas pela Lei nº 11.322, de 13 de junho de 2006 (Lei Eunício Oliveira), e estende as condições nela previstas a dívidas contraídas por Microempreendedor Individual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f0d77c92ee419d3a0e522f357d1c31c89c6ad0c43645fd6aa5bc98e69732f44
+size 308

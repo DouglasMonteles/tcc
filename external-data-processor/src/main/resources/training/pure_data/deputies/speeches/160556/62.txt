@@ -1,1 +1,3 @@
-Apoio à pauta de reivindicações dos pequenos agricultores e trabalhadores rurais, mobilizados em Brasília, Distrito Federal. Imediata reestruturação da carreira dos servidores do INCRA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:993ebeb215714e78ba5ef993663996d47b59fd46bde7aec7fb743905fa437dfc
+size 191

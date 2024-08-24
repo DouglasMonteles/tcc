@@ -1,1 +1,3 @@
-Posse do Juiz de Direito Flávio Pascarelli Lopes no cargo de Desembargador do Tribunal de Justiça do Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:218a8fb66c723bc7a3c62bec63ffc1ac7cd16cd176e89ea35f3c6894ae52a77b
+size 122

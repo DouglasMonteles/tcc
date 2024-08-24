@@ -1,1 +1,3 @@
-Repúdio à agressão física praticada contra a jornalista Delis Ortiz, por agentes de segurança do ditador venezuelano Nicolás Maduro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2a6b1862071a5400bb75f31be02fc9119417a32b6f830655ba99a4666a6d741
+size 138

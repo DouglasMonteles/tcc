@@ -1,1 +1,3 @@
-Protesto contra a não concessão, pela Comissão Especial da reforma previdenciária, de tratamento diferenciado aos profissionais da segurança pública. Expectativa quanto ao posicionamento dos Parlamentares na votação da matéria no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a2344dedf3afc73bf58c4d8c6461068714c8b1ae5eb1cf8b32341dbb923552f
+size 249

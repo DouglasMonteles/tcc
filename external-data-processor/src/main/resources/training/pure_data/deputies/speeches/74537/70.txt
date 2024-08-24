@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de adiamento, por duas sessões, da Medida Provisória 445 de 2008 (Dispõe sobre a dispensa de recolhimento de parte dos dividendos e juros sobre capital próprio pela Caixa Econômica Federal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbe9e2ae1288f840a98e4e5cac53702671add809f4f44b9bd512f3abd824217a
+size 239

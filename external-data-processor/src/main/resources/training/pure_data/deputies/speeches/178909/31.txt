@@ -1,1 +1,3 @@
-Presença, na Casa, dos Vereadores Teo Ribeiro e Professora Patrícia, do Partido dos Trabalhadores de Camaçari, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d295ceb37351fa74c34c2e9f6409ec45025b7525b8ced8dfe67c9fbec9533c24
+size 130

@@ -1,1 +1,3 @@
-Visita do orador a clínica destinada ao tratamento de dependentes químicos, no Município de São Bernardo do Campo, Estado de São Paulo. Elaboração de programa de atendimento integrado a dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea3b20fab095fd25b298e75a9744b20cecdcb65b67037767bae38a48156f4f59
+size 215

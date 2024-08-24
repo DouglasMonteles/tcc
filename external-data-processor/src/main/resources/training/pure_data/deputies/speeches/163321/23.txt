@@ -1,1 +1,3 @@
-Transcurso dos 176 anos da Revolução Farroupilha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:965f13e46cc7019984fedefc354921abdac5c370022c622ac4c36bb7f38cabc2
+size 51

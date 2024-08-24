@@ -1,1 +1,3 @@
-O Deputado anunciou a criação da Frente Parlamentar da Invasão Zero, para combater ações criminosas de movimentos como o MST no campo. Ele criticou invasões e bloqueios recentes realizados pelo MST em vários Estados após o término da CPI do MST. Destacou um bloqueio na BR-163 em Mato Grosso do Sul liderado por um filiado ao PT, que resultou em prejuízos. Elogiou a atuação da Polícia Rodoviária Federal na resolução do bloqueio. Mencionou a ausência do Ministro Flávio Dino em uma convocação da Comissão de Segurança Pública, questionando sua atitude em relação a parlamentares armados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a20b005bb18509710341121c5b83b69a112ab45f66c19d1c49f4e9f9185e014f
+size 613

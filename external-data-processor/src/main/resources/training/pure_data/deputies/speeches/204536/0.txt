@@ -1,1 +1,3 @@
-Comissão Geral para debate dos impactos da não realização de investimentos na indústria nacional pela empresa Petróleo Brasileiro S/A - PETROBRAS e das consequências do fechamento de unidades da Fábrica de Fertilizantes Nitrogenados - FAFEN na economia dos Estados da Bahia e de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab00149b6c681906e5a20037cd0084600e4f6bbf17b058c7dcb0dba8d5ff6ced
+size 295

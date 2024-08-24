@@ -1,1 +1,3 @@
-Transcurso do cinquentenário do Jornal Nacional,  da Rede Globo de Televisão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e96aa8d4a066a8f7f10327ae8db0567646202f14dfff3e327bef0339b13c84d
+size 79

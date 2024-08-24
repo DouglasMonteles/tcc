@@ -1,1 +1,3 @@
-Atuação parlamentar do orador em prol dos Municípios de Montes Claros, Belo Horizonte, Rio Pardo de Minas, Taiobeiras, Santa Cruz de Salinas, Antônio do Retiro, Monte Azul, Catuti e Nova Porteirinha, no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63dca9e3fa730dac628c06c6d3cf8e528ed9f942b2c9e3c27d12a1ff070eb2f8
+size 230

@@ -1,1 +1,3 @@
-Pedido ao Conselho Nacional de Justiça de apuração sobre possível violação de direitos na exposição de crianças durante a Parada do Orgulho LGBT. Encaminhamento de ofício ao Conselho Tutelar de São Paulo para esclarecimentos sobre possíveis providências em relação ao caso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bf94850dd84273ae2919a7b01edca981bb8ca1c6de4c76e8f781b8a8f3affd9
+size 288

@@ -1,1 +1,3 @@
-Emissão de parecer às emendas de Plenário apresentadas ao Projeto de Lei nº 3.453, de 2021, pertinente à alteração da Lei nº 8.038, de 1990, e do Decreto-Lei nº 3.689, de 1941. (Código de Processo Penal), para deliberação sobre o resultado de julgamento em matéria penal ou processual penal em órgãos colegiados e a concessão de habeas corpus de ofício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e73c615f0a63c92a042540ba37f34ed94fed0274a444a157c42158c19b416058
+size 370

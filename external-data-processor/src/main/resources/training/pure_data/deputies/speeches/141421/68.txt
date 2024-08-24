@@ -1,1 +1,3 @@
-Presença de policiais ferroviários federais nas galerias da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a671cac5f898a962a2ce5618380113dbea4e11b9dc8e500417e963c6c5f8f4d
+size 67

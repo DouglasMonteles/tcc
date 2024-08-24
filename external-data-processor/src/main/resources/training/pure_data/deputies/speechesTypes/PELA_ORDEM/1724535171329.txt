@@ -1,1 +1,3 @@
-Apoio à inversão da pauta para votação da Proposta de Emenda à Constituição nº 391, de 2009, sobre o estabelecimento do piso salarial nacional dos agentes comunitários de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:808e1712cc1a25573c242c476a19f2ed521b385e02bb1c9a511bea0a91ed0c0f
+size 187

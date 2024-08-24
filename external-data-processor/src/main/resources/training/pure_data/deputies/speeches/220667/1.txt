@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre o teor do Decreto nº 11.467, de 2023, a respeito da prestação regionalizada dos serviços públicos de saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97286d73cad8b6bc4046812bb8762efb039e88e88458f3429402494af1f2c712
+size 159

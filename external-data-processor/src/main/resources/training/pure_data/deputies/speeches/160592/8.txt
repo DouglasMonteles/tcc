@@ -1,1 +1,3 @@
-Incremento da produção de frutas na região do Arenito Caiuá, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90e70e7e25be76554b0f3f34ff67cc3e22520ff4c93836393bb6c8ea6ce298a1
+size 83

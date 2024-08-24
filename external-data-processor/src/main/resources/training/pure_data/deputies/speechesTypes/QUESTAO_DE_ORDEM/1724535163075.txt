@@ -1,1 +1,3 @@
-Questão de ordem sobre a legitimidade do Líder do PMDB para orientação do Bloco PMDB/PP/PTB/PRB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b55046b6ab47b9987799c4371521c860216c4a055df2ca4edce6b5e0061147d
+size 100

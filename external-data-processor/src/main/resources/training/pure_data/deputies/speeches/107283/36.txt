@@ -1,1 +1,3 @@
-Inexistência, no âmbito do Governo Jair Bolsonaro, de plano de reversão da crise econômica brasileira. Repúdio à política adotada pelo Ministro da Economia, Paulo Guedes. Contrariedade ao congelamento do valor do salário mínimo. Elevação dos índices do desemprego e queda na renda do trabalhador brasileiro. Alta lucratividade alcançada pelo sistems bancário. Reajuste nos preços de combustíveis. Apresentação pelo PT de plano emergencial de geração de emprego e renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c8255ce8e0fc1fa300390518d2d76ad2df6119e93ed6551400742827bbe77df
+size 489

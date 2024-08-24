@@ -1,1 +1,3 @@
-Visita do orador ao Município de Cajazeiras, Estado da Paraíba, para verificação in loco da transposição de águas do Rio São Francisco. Apelo ao Governo Luiz Inácio Lula da Silva de abertura de comportas de canais da transposição em benefício dos Estados de Pernambuco, Ceará, Paraíba e Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6442ac5d17fa7efd6bda0503db261cffb5ba4e1411748149eb21ba35bb3e2906
+size 321

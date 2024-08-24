@@ -1,1 +1,3 @@
-Instalação de unidade da empresa de automóveis JAC Motors no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8b17ef398c8ac39c98aed325eb7dd304e86077e50fc87d1b0e40b7dff4359ac
+size 80

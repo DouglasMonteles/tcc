@@ -1,1 +1,3 @@
-Sinais indicadores do agravamento da crise financeira mundial nos Estados Unidos da América, na União Européia e em países asiáticos. Competência do futuro Secretário do Tesouro dos Estados Unidos da América, Timothy Guithner, para enfrentamento dos efeitos da crise. Medidas do Governo Federal para combate aos seus efeitos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca002456e9691b252f28de33336d7642517111db49efd1e92bc20f6f51da840d
+size 342

@@ -1,1 +1,3 @@
-Presença no plenário do Prefeito Rogério Cabral e dos Vereadores Marcio Damásio e Alexandre Cruz, do Município de Nova Friburgo, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36c3f80bc1a56f293edecc05383f1afe0e45ffcc44cf5d2a7fb92530baf433dd
+size 159

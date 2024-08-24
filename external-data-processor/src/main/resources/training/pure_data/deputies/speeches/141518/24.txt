@@ -1,1 +1,3 @@
-Descumprimento pela Presidente Dilma Rousseff de compromisso assumido  na campanha eleitoral de implementação de política salarial para os aposentados. Críticas  à política econômica do Governo.Protesto contra a intransigência do Governo de incluir no Orçamento da União para 2012 recursos destinados a reajuste de aposentados e servidores .
+version https://git-lfs.github.com/spec/v1
+oid sha256:f305b86272536d4e7d2209e95d0368904cfe8ebc10485936da13eb9ca751e24e
+size 351

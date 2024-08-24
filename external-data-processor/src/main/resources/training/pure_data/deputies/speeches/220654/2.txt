@@ -1,1 +1,3 @@
-Questionamento sobre as razões do posicionamento do Governo Luiz Inácio Lula da Silva, contrário à instalação da CPMI destinada à investigação de atos antidemocráticos praticados contra a sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55cf66e5994b9db095a2170c1f7bfa16610331d811118fb1a1b81fb57fefb4c0
+size 230

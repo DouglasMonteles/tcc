@@ -1,1 +1,3 @@
-Transcurso do Dia do Estudante. Apoio à proposta de emenda à Constituição sobre a redução gradual da Desvinculação de Receitas da União - DRU do setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e52eacafbfef0183729c5a15f6b41799882c3e28dba5d1ff134faa21ecf5ab48
+size 172

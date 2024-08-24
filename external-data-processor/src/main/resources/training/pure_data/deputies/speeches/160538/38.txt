@@ -1,1 +1,3 @@
-Declaração de voto pela cassação do mandato da Deputada Jaqueline Roriz. Realização do 1º Seminário da Juventude Rural, no Auditório Freitas Nobre da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73890cf8db08cb64992fe312774319ab1675817e8accce812214023bd6545ef3
+size 164

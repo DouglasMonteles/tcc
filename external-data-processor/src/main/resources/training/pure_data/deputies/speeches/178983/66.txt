@@ -1,1 +1,3 @@
-Recebimento de demandas dos Municípios de Santa Branca e Salesópolis, Estado de São Paulo. Empenho do orador no exercício do mandato parlamentar em prol das municipalidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69217c9d58bf59f8455013d593d73042b96ecf0445f54208af6f21211040041e
+size 177

@@ -1,1 +1,3 @@
-Solicitação à Presidência de votação do requerimento de moção de repúdio à decisão do Governo boliviano de regularização de veículos supostamente roubados, notadamente do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa41f4f24273cb2c38b97b39a7da878293196d42b5197b2d185e2790cb5dbd85
+size 192

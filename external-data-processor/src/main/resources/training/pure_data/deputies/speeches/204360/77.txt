@@ -1,1 +1,3 @@
-A Deputada defendeu a derrubada do veto ao marco temporal das terras indígenas, a fim de garantir o direito dos produtores rurais que ocupam a terra há vários anos bem como assegurar a paz no campo, especialmente em Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0506ec286ee2a19d3a32fd86158efcabd435baf816e4d90b28a47dba989a8d6a
+size 229

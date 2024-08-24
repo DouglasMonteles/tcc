@@ -1,1 +1,3 @@
-Homenagem póstuma do PMDB ao ex-Ministro da Justiça e ex-Deputado Federal Fernando Lyra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:172f1a7f8091580f3525e7e0a40ebe2707846eb5eee2b0a774450d242424f392
+size 90

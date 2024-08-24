@@ -1,1 +1,3 @@
-Defesa da soberania nacional pelo PCdoB. Preservação dos direitos das comunidades quilombolas instaladas na região do Município de Alcântara, Estado do Maranhão. Apoio ao  Acordo de Salvaguardas Tecnológicas celebrado entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América para utilização do Centro Espacial de Alcântara. Retomada do Programa Aeroespacial Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f20fb40836d0395d4aed80cee6c03dddb95e98dcfd327b274caa22a9b02f9222
+size 416

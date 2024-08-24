@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar em Defesa do Voto Aberto. Apoio à Proposta de Emenda à Constituição nº 349, de 2001, sobre a extinção do voto secreto nas decisões da Câmara dos Deputados e do Senado Federal. Realização da 10ª Exposição Feira Gastronômica, Industrial e Comercial de Sarandi - EXPORANDI, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68e0162c2f4d4d67ab3f2ea7ba7adac41ef69757629649c7299943ca8b0e27bb
+size 341

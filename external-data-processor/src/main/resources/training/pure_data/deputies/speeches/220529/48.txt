@@ -1,1 +1,3 @@
-Transcurso do 133º aniversário de emancipação político-administrativa do Município de São José do Calçado, no Estado do Espírito Santo. Inauguração do Parque de Exposições da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8d49ee5d6c124ee28985a3c6d6fcc8d0c889ddb36aa24c7c997e984bb1470a4
+size 204

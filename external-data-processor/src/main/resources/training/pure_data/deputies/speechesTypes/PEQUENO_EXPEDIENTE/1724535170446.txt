@@ -1,1 +1,3 @@
-Sucesso das ações realizadas pela Polícia Militar em conjunto com a Polícia Civil para combate à violência na região do Bairro Santa Maria, em Aracaju, Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f297b8c34e5160871bf78a67f86b64c7639689b88f33c97bf5dbcdf4e9591dd8
+size 177

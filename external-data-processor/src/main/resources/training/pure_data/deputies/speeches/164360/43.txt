@@ -1,1 +1,3 @@
-Importância da aprovação da Medida Provisória nº 533, de 2011, para garantia do custeio do ensino infantil nos Municípios brasileiros. Não obstrução das votações da matéria pelo PPS. Importância da celebração de acordo para votação de proposições de relevante interesse do País. Apoio ao pleito da Sociedade Brasileira de Análises Clínicas - SBAC sobre a revisão dos valores pagos pelo Sistema Único de Saúde - SUS por serviços laboratoriais de análises clínicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9cd329fd8a9240d94d4e18f51fbc1020c45c73ca6ee961043ca2ee1abd6d453
+size 491

@@ -1,1 +1,3 @@
-Transcurso dos 66 anos do ataque atômico perpetrado contra as cidades de Hiroshima e Nagasaki, no Japão. Convite aos brasileiros para adesão à Semana da Paz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7bc7fd2627d5b61fb2b7a14cf8faed36329b2a3ef2675203c1508d3d39e20ef
+size 161

@@ -1,1 +1,3 @@
-Anúncio de concessão de reunião pelo Presidente do Senado Federal, Renan Calheiros, a peritos e técnicos de nível superior do Instituto Nacional de Colonização e Reforma Agrária - INCRA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b36440ec16f49e0e40c4b9faa8b421c0b1f49fdf0ae5421ba8268418d1d3d1df
+size 194

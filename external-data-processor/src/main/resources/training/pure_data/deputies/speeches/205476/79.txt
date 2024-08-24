@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 5.437, de 2019, sobre a obrigatoriedade da instalação de cobertura nos pontos de embarque e desembarque de passageiros nos serviços de transporte público coletivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b75ee89a0e5b0287b872884bc1fa4fd11e98cad5315fd263c1a7a00200832143
+size 204

@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de tramitação em regime de urgência do Projeto de Lei nº 3.974, de 2015, que dispõe sobre o direito a dano moral e concessão de pensão especial à pessoa com Microcefalia ou com Síndrome de Guillain-Barré, decorrentes do Zika Vírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7260738cb1cdae73c1216b511d1f4ef4452ae2ca4c916c733416ca39b658c93
+size 301

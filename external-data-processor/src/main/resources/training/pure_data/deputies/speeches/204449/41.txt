@@ -1,1 +1,3 @@
-Inconsistência de declarações sobre a aversão do Presidente Jair Bolsonaro às mulheres. Saudações às mulheres na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db29fd33526cb97719de95247126feacd6f1eb707e1024711fa607118d82d05e
+size 143

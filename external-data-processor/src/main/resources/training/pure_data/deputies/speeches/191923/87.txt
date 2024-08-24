@@ -1,1 +1,3 @@
-Inadmissibilidade de comparação da cassação do mandato parlamentar do Deputado Deltan Dallagnol com a cassação do mandato do Deputado Márcio Moreira Alves pelo regime militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:114cf22aad2a06d59ea349cd5f4f8c23f306ceaa0ecdf5b7b3c8450ec05b1991
+size 182

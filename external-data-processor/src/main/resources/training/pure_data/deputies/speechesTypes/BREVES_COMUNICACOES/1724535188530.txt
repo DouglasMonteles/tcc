@@ -1,1 +1,3 @@
-Lançamento pelo Ministro das Cidades, Gilberto Kassab, do sistema BRT - Bus Rapid Transit no Município de Feira de Santana, Estado da Bahia. Investimentos do Governo Federal nas áreas de habitação e saneamento na Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc05d277ba9ec87f0f590ddbec0b4ae2f5dd741f997a63690bfbde35dd7ae3f7
+size 224

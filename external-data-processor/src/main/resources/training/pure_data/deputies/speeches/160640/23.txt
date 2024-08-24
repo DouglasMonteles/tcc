@@ -1,1 +1,3 @@
-Aplausos ao Presidente Marco Maia pela inclusão da chamada PEC da Música na pauta. Regozijo do orador com a aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84ec0b99d76de602be2c8b5447b65a98078e2fddcdd247e615094941657af950
+size 134

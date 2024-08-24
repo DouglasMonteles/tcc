@@ -1,1 +1,3 @@
-Protesto contra a promoção de pautas ideológicas pelo Governo Luiz Inácio Lula da Silva. Repúdio à Portaria nº 230, de 2023, do Ministério da Saúde, sobre a instituição do Programa Nacional de Equidade de Gênero, Raça e Valorizações das Trabalhadoras no Sistema Único de Saúde - SUS. Designação pelo Presidente da República da Sra. Elisa Maria Aníbal Silva, militante feminista e defensora do aborto, para participação na 67ª Sessão da Comissão sobre a Situação da Mulher, da Organização das Nações Unidas - ONU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f48e12caf55485876fb3591b395e09ea679de241f000742b8fce4415336a9c66
+size 544

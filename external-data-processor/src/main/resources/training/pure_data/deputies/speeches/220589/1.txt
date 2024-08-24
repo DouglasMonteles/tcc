@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial das Doenças Raras. Drama vivido pelo menor Bernardo Bonfim Tolentino Campos, portador de hidrocefalia com mielomeningocele. Maior atenção do Estado brasileiro para com os portadores de tais enfermidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdb0edb3470bb26883f9d01f3e666e1b6bb0ff8b3b5a966e4805baeda53e65cf
+size 232

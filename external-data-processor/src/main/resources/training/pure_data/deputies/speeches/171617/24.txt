@@ -1,1 +1,3 @@
-Contestação à matéria Dilma transforma emendas em mensalão oficial, diz deputado, publicada pelo jornal Gazeta de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53b3630717597ae96390d77155830b50e611396b179ce4f04640f265e1165e04
+size 127

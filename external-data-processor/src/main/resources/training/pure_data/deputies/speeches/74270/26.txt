@@ -1,1 +1,3 @@
-Agradecimento aos participantes da Comissão Geral. Suspensão da sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80372dfd4c7ed54ec4a9d1b4a119fe2fabc0af3cb8d59a49f015f27accd51a80
+size 74

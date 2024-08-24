@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de aprovação do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:011e45c46a068e87594126d0b6b7b5e535dccce82ee662bc9e63d40ec37b29e2
+size 172

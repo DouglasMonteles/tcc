@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de tramitação em regime de urgência do Projeto de Lei nº 4.067, de 2015, sobre a instituição do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Universidades Estrangeiras - REVALIDA. Defesa de aprovação da Medida Provisória nº 890, de 2019, sobre a instituição do Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde - SUS, e a criação do serviço social autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:467f6ba8bd4d9464f014d36df7974392191fd1a2f1414bfe651785dbce17e7a7
+size 577

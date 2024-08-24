@@ -1,1 +1,3 @@
-Revisão do pacto federativo com vistas à definição das atribuições dos municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a820e1396c0f2d6d85b1215d7afa01bfaca8156d8d78b133369ced81ffbcf9bd
+size 101

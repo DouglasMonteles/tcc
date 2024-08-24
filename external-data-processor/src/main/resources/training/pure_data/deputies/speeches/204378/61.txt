@@ -1,1 +1,3 @@
-Congratulações aos habitantes dos Municípios de Pimenta Bueno, Buritis, São Felipe, Primavera do Oeste e Espigão, Estado de Rondônia. Expectativa quanto à construção de usina hidrelétrica na região do Município de Machadinho d'Oeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2081360b5a184a86599265c9cc9ca187f60191805d9247e719d6726ecc9039ff
+size 245

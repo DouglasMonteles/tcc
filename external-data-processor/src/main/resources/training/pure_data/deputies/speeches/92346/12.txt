@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Aniversário de 55 Anos de Brasília.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b0dd3e0f4513168513d87f200a4099aaf8e7bde0dcb968fb5ce3b1fbfb81612
+size 217

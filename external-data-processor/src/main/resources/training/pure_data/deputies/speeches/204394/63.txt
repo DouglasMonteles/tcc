@@ -1,1 +1,3 @@
-Determinação judicial de prisão do ex-Governador do Estado da Paraíba, Ricardo Vieira Coutinho, e de outras autoridades. Apelo ao Poder Judiciário de sensatez, serenidade e de respeito ao Estado Democrático de Direito no julgamento do ex-Governador paraibano. Contestação ao discurso do Deputado Pedro Cunha Lima a respeito do Governo Ricardo Coutinho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a12b8eab6bb5410cc1761a12c226b6ea93ab73dbfc2f764288ec34e9396c9ed
+size 360

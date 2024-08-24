@@ -1,1 +1,3 @@
-Retorno do orador à Casa. Considerações sobre a urgência de realização das reformas política e tributária no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59b07a311acf8d603c17ada4d7a09530a1bdbbebae4e8efd190f9eed4376d757
+size 123

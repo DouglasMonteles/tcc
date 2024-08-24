@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda 70, destacada, ao Substitutivo ao Projeto de Lei 5.941 de 2009 (Autoriza a União a ceder onerosamente à Petróleo Brasileiro S.A - PETROBRAS o exercício das atividades de pesquisa e lavra de petróleo, de gás natural e de outros hidrocarbonetos fluidos de que trata o inciso I do art. 177 da Constituição, e dá outras providências), que garante o pagamento de participações especiais sobre o produto da lavra derivado da cessão onerosa de reservas de petróleo à Petrobras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5d516439c494fd28155d14b8e03d8f94af53527dab3df46ce871ebd82f7c77e
+size 523

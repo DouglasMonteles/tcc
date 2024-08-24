@@ -1,1 +1,3 @@
-Solidarização da Presidência com o pronunciamento do Deputado Celso Maldaner de pedido de apoio para as vítimas das enchentes no Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d45297f1f05f38b349fcfe702b7c9a90b0948b97e32d4cab80172661a9a59ea6
+size 158

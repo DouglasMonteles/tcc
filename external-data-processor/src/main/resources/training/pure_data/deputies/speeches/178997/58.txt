@@ -1,1 +1,3 @@
-Convite aos Parlamentares para participação em audiência pública da Comissão de Segurança Pública e Combate ao Crime Organizado destinada ao debate do jogo virtual denominado Baleia Azul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a2b626ec3905bb9502d849d3b1ffca016ab6cd11add487113b2be0188690e61
+size 194

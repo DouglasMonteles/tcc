@@ -1,1 +1,3 @@
-Descontentamento com Programa Terra Legal, do Governo Federal, no processo de regularização fundiária de terras públicas federais no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92be14d72ce80f1117331db974a29fc3adecf48c01cf0a8a82f0356bcf76a8d1
+size 156

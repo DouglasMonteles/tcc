@@ -1,1 +1,3 @@
-Reformulação do parecer oferecido às Emendas de Plenário de nºs 1 a 14, apresentadas à Medida Provisória nº 1.026, de 2021, sobre as medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e comunicação, comunicação social e publicitária, bem como treinamentos de vacinação, e sobre o Plano Nacional de Vacinação contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a797254cebb622507eaa10601ef53f8fb6eebdacd275c4059922b0fc54fd3aec
+size 418

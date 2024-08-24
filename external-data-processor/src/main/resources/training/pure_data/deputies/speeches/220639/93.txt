@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do Projeto de Lei nº 3.268, de 2021, que declara feriado nacional o Dia Nacional de Zumbi e da Consciência Negra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d10f66837d1d9b35a49685b37e7d5e457988b5d945a6cbf67f09a8a643f4a56
+size 158

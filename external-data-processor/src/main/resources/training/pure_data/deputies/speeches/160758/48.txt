@@ -1,1 +1,3 @@
-Visita de grupo de Parlamentares ao Parque Nacional da Serra da Canastra, no Estado de Minas Gerais, para verificação in loco da possibilidade de conciliação entre as atividades desenvolvidas por produtores rurais e a preservação do meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b437ac7088dc8bbb96fd72f406e98febec143ba802747f020f569acf6af32aaf
+size 253

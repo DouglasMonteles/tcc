@@ -1,1 +1,3 @@
-Congratulações ao Plenário pela votação de proposições de interesse das populações atingidas pelo rompimento de barragens. Agradecimento ao Ministro da Cidadania, Osmar Terra, pela liberação de recursos para o Município de Brumadinho e a região do Vale do Jequitinhonha, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70144b226b68d618e6ce2497764d95b2b22dbaf3252e49651ac2707bdb6568e2
+size 307

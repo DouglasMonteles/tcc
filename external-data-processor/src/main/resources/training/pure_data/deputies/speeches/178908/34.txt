@@ -1,1 +1,3 @@
-Dificuldade de aprovação, na CPI do CARF, de requerimentos de convocação de pessoas eventualmente envolvidas em fraudes contra a Receita Federal. Solicitação aos Deputados de aprovação de requerimento de prorrogação dos trabalhos da referida CPI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2761c6f7c862ee8b395b7ca10747928201637e7c0e2f7c386240b28166f8bfc7
+size 256

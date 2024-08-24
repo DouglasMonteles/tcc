@@ -1,1 +1,3 @@
-Comprovação, pela Polícia Rodoviária Federal, de tráfego em velocidade acima da permitida pelo motorista do caminhão envolvido em trágico acidente ocorrido no Estado de Santa Catarina. Conveniência de realização, pela Comissão de Viação e Transportes da Casa, de debates acerca de acidentes de trânsito com vítimas fatais nas rodovias brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc094d1b2d02d1683b47e0e44614c9d821fcd0cb7ffbcb123b427e0dc3e50b22
+size 362

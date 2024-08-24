@@ -1,1 +1,3 @@
-Prejuízos causados pelas enchentes aos Municípios de Itamarati, Envira e Eirunepé, no Estado do Amazonas. Fortalecimento da Secretaria Nacional de Defesa Civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa06059352f176eca05079fc3894560abd7b9b4e5f669e98c976b1ee5b56d283
+size 163

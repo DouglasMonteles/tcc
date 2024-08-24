@@ -1,1 +1,3 @@
-O Deputado defendeu a importância da Operação Lava-Jato como a operação de maior sucesso no combate à corrupção na história do Brasil. Expressou preocupação com a reescrita da história e a negação da corrupção por parte de autoridades e políticos. Pediu aos colegas que, independentemente de suas filiações partidárias, se unissem em busca da verdade sobre a corrupção no Brasil. Enfatizou que o eleitor brasileiro deseja a verdade e não quer mais corrupção. O orador conclamou todos os Deputados a trabalharem juntos para preservar a verdade e resgatar a integridade do Parlamento e do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e674d717e372e3ad86d414c0f5b6db8a8835776b41e4a428cceb7eb4062380f
+size 628

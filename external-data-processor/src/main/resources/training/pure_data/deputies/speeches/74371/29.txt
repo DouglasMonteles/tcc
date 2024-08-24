@@ -1,1 +1,3 @@
-Visita de comissão de Parlamentares às áreas atingidas por queimadas no pantanal mato-grossense. Descaso do Governo Jair Bolsonaro com o meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a05917c8de9fb013dc5709f44256dd760268566309f66b6e4bf2b729b53a1ef2
+size 154

@@ -1,1 +1,3 @@
-Congratulações ao Ministro da Justiça e Segurança Pública, Sérgio Moro, pela apresentação de propostas destinadas ao combate aos crimes violentos, à corrupção e ao crime organizado. Conveniência de decretação de prisão preventiva aos praticantes de crimes habituais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:864d923bfcdef6ddd1059d0a60d7997dd50c768fefdf59758d7a3583007342d0
+size 281

@@ -1,1 +1,3 @@
-Imediata aprovação do Projeto de Lei nº 7.495, de 2006, sobre a regulamentação do piso salarial nacional dos agentes comunitários de saúde e de combate às endemias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9115c0a539335a7d445b0624629cfe1c4d82125c242ff9e529c3468c828a242
+size 172

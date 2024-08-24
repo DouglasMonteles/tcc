@@ -1,1 +1,3 @@
-Questiona o início de discussão de matéria constante da pauta da Ordem do Dia, sem a devida deliberação de requerimentos  atinentes às proposições.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d66bf3b9f6bff2225dd019009690d82371865093b3ca45807b58e37421de1463
+size 155

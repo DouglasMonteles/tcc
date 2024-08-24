@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 21, apresentada ao Projeto de Lei nº 1.079, de 2020, sobre a suspensão das obrigações de beneficiários do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade pública. Transcurso do Dia Mundial da Educação. Regozijo com a decisão do Supremo Tribunal Federal, contrária à implantação da chamada escola sem partido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:baf3e84fe84d20204dee5960ee7153dc9151bd626c769c530f4afb72df3e749a
+size 454

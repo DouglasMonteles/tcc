@@ -1,1 +1,3 @@
-Agradecimento a Parlamentares e servidores da Casa pela contribuição com o orador na elaboração do parecer à Medida Provisória nº 1.064, de 2021, sobre a instituição do Programa de Venda em Balcão destinado ao acesso de pequenos criadores de animais aos estoques públicos de milho. Importância da aprovação da propositura para o agro brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:303101bd0713ff88adf81b0ce9b118f6923cfdaf9da8ec460fe469665f02acdb
+size 359

@@ -1,1 +1,3 @@
-Falecimento do político mineiro Oscar Soares de Andrade, avô do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:207c67e07fa1ab19fc2b0620b3d66e5fd055cad1d37ae38512efdc485361282f
+size 73

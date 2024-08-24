@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à legalização do consumo de drogas no País. Consequências danosas advindas do uso de substâncias entorpecentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d517f7693e5d98aad69d78e626fa02a705f31f949564dd8536f99af901d5787b
+size 153

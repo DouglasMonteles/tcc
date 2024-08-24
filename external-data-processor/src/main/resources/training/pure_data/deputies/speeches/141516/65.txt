@@ -1,1 +1,3 @@
-Posicionamento da Oposição favorável à criação do Programa Bolsa Atleta e da Autoridade Pública Olímpica. Inadmissibilidade de criação de novos cargos na administração pública federal. Inexistência, no âmbito do Governo Federal, de plano estratégico destinado à área social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0715137f478a9c355185f563a285618e49ec73e68b18f8f7c7480953990a607f
+size 292

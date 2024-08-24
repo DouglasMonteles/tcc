@@ -1,1 +1,3 @@
-Regozijo com a retomada do debate em torno da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8bd06468b3b210804828790375e53e5619d9d2648278b99d4edc6b82ea905eb
+size 64

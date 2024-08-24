@@ -1,1 +1,3 @@
-Reunião de Parlamentares com o Ministro da Educação, Milton Ribeiro, para debate de medidas de melhoria do ensino brasileiro. Recuperação da saúde da Deputada Aline Sleutjes, contaminada por coronavírus. Defesa de retomada do voto impresso nas eleições brasileiras. Protesto contra a convocação das Forças Armadas brasileiras para a garantia da segurança nas eleições municipais. Ocorrência de compra de votos no pleito municipal de 2020. Anúncio da apresentação de projeto de lei sobre a ampliação da pena imposta a tal prática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a6659bd043649026cbc46ecf6ded6adde7585e29c0084f1e5073734b9b66f25
+size 551

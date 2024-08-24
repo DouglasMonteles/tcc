@@ -1,1 +1,3 @@
-Posicionamento contrário do PSC   à  Emenda 10, destacada, ao Projeto de Lei de Conversão da Medida Provisória 475 de 2009 (Dispõe sobre o reajuste dos benefícios mantidos pela Previdência Social em 2010 e 2011),que reajusta os benefícios previdenciários em 8,77%.
+version https://git-lfs.github.com/spec/v1
+oid sha256:609ef0b37e92338e2f840e1544c16345acb586e48aedada0c00edfdd48676d6e
+size 273

@@ -1,1 +1,3 @@
-Repúdio ao discurso de ódio de Oposição. Revisão da sistemática de recolhimento do ICMS incidente sobre os setores de confecção e combustível. Realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b160bf4942b6a09938cc639c37511d85ec911afbac85d54bd7ffbf9971008a0
+size 188

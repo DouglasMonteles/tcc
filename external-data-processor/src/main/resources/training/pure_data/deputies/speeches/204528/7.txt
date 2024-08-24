@@ -1,1 +1,3 @@
-Participação de representantes do Poder Executivo em evento promovido pela Embaixada da Dinamarca, no Brasil, ao ensejo da celebração do Acordo de Cooperação dos Países Nórdicos com a Transparência Internacional no Brasil. Inconsistência da nota pela Oposição acerca da liberação, pelo Governo Federal, de recursos de emendas orçamentárias aos Deputados favoráveis à aprovação da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:624cdc8da8de4655097414ab62f351b63bd4da8990a1fb8b15c9a17a0e63f198
+size 424

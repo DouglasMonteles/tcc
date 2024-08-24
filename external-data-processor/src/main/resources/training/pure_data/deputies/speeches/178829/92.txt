@@ -1,1 +1,3 @@
-Agradecimento ao Governador e ao Secretário de Segurança do Estado de São Paulo pelo pagamento do chamado bônus de produtividade aos policiais militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1d48ffa55e83a74a948f92ef533dbfc70c67f5299baaba9372c7ad000c42be0
+size 157

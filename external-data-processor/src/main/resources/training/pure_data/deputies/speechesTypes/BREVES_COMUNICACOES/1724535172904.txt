@@ -1,1 +1,3 @@
-Adiamento da votação da proposta de emenda à Constituição sobre a expropriação de terras em que haja exploração de trabalho escravo. Confiança na aprovação, pela Comissão de Seguridade Social e Família, da proposta de taxação de grandes fortunas para financiamento da saúde. Regozijo com a decisão do Ministro da Saúde, Alexandre Padilha, de manutenção do funcionamento do Hospital Geral de Ipanema, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a31f3eeaa342e9927ae4c46f0e313fd087246d7adc7f6c466f566b14b6a727d
+size 465

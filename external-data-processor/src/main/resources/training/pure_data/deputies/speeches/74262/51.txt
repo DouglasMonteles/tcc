@@ -1,1 +1,3 @@
-Comentário sobre o comportamento da base governista na votação de destaques ao Projeto de Lei de Conversão 9 de 2013 da   Medida Provisória 595 de 2012 (Dispõe sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários, e dá outras providências), que trata da definição da área dos portos organizados por ato do Presidente da República, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acc18448fd20d9909a8c26a0bd8c0d47f1950f2f572be39c42a6ca48948e3b71
+size 460

@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 1.434, de 2011, que institui o Fundo Nacional de Assistência ao Estudante de Nível Superior - FUNAES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:faae3696c36aabfdbb60507d9de5c75a4766f62b26f5f4174116f49e1be0aaf6
+size 205

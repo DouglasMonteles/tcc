@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 6, apresentada ao Projeto de Lei nº 4.372, de 2020, sobre a regulamentação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB. Registro de voto do Deputado Afonso Motta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8e4270e312902c672c6a3624009398176ae25046f59a37771880d6fcbd3c553
+size 365

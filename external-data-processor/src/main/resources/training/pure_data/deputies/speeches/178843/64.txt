@@ -1,1 +1,3 @@
-Apensação da Proposta de Emenda à Constituição nº 14, de 2021, à Proposta de Emenda à Constituição nº 22, de 2011, a respeito da política remuneratória e de valorização dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias. Pedido ao Senado Federal de votação do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e2279f065cab6c67f991d058c8ebc131b997b8a70060d07fd412fb03f01ec2b
+size 429

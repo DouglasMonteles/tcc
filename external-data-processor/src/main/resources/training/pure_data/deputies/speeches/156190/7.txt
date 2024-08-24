@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de encerramento da discussão e do encaminhamento da votação do Projeto de Lei nº 10.431, de 2018.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eed3517f28f19484860107c014fecfcd2f4073b073e4caa68ee6a7b684344ea7
+size 154

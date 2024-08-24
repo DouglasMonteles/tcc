@@ -1,1 +1,3 @@
-Solidariedade à população de Manaus, Capital Estado do Amazonas, diante dos efeitos das chuvas torrenciais. Homenagem póstuma ao ex-Ministro de Estado e ex-Deputado Federal, Eliseu Padilha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd5782746e30f2c43c3e752f0dc974c7ebc39a6cbf4bf9efb71ac0b0d1033af8
+size 193

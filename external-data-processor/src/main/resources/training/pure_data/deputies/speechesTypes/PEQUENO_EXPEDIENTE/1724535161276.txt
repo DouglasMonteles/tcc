@@ -1,1 +1,3 @@
-Falecimento do jurista Pedro Manso Cabral, do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b2e3c31ad45e734687df58737653a2dafff2212d4869f79da3153802897631d
+size 62

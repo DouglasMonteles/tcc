@@ -1,1 +1,3 @@
-Descontentamento da população com as modificações realizadas no programa denominado Mãe Curitibana, pelo Prefeito Gustavo Fruet, do Município de Curitiba, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7c05523cd1520be19b7a10d859ca0f18fda729277313d86ecb0fa12f6a1782d
+size 179

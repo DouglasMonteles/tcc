@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Conquistas políticas da mulher potiguar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93c2a9bbf33261b09aa5fbbded34f1e7a322449df8a5932181a308d64483c43
+size 84

@@ -1,1 +1,3 @@
-Saudações aos participantes na 24ª Marcha a Brasília em Defesa dos Municípios. Assassinato de professora por aluno de 13 anos de idade, em escola pública de São Paulo, Estado de São Paulo. Manifestação de votos de condolências aos familiares da docente. Importância de cumprimento do disposto no Estatuto da Criança e do Adolescente. Elevado índice de violência sexual contra crianças e adolescentes em 2021, segundo o Anuário Brasileiro de Segurança Pública. Transcurso do 61º aniversário de emancipação político-administrativa do Município de Augusto Corrêa, no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ddb5faf7716e9d15adb29af1e4d77fab7aff618b56bf1d585972a0f5ea9f748
+size 606

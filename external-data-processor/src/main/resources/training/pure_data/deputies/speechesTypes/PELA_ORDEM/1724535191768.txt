@@ -1,1 +1,3 @@
-Apoio do orador à aprovação de emenda aglutinativa relativa à previsão constitucional do financiamento privado de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5f5cefbe77644d2d7122634441689638f286e312413ef300e0ed13478997b0d
+size 140

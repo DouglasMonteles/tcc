@@ -1,1 +1,3 @@
-Transcurso do 70º aniversário natalício do Deputado Inocêncio Oliveira. Comemoração do 118º aniversário de emancipação político-administrativa do Município de Boca do Acre, Estado do Amazonas. Reunião de fazendeiros da municipalidade com autoridades locais para debate da demarcação de áreas indígenas na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e5f7a35e24804be22ab6d85736137978197a45d4c1dad866b3e3b3933b999c4
+size 330

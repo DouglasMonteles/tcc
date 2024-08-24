@@ -1,1 +1,3 @@
-Homenagem à jornalista piauiense Elvira Raulino, ao ensejo do transcurso de seu 70º aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c12dd91384c3579ec52fa9eb686300e5ee23f030c56631cbecbb165ec5c488e
+size 110

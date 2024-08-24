@@ -1,1 +1,3 @@
-Importância para o Brasil da aprovação da Medida Provisória nº 1.162, de 2023, sobre o Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02ad839c26800b76c2cbb8f49cb4c669a9c4b8ab424fe2034735b094ee52c11e
+size 124

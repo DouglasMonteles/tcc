@@ -1,1 +1,3 @@
-Transcurso dos 6 anos da tragédia socioambiental ocorrida no Município de Mariana, Estado de Minas Gerais, em decorrência do rompimento da Barragem de Fundão, da empresa Samarco Mineração, controlada pela empresa Vale. Morosidade dos processos de reassentamento e indenização das populações atingidas pelo rompimento da Barragem do Fundão. Indícios de impunidade dos responsáveis pela tragédia socioambiental de Mariana. Implantação de novo modelo de mineração no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4c14bf7ea3c611ebb285659bda6b405fdbb5c37db8ddde91b8998f9fe910344
+size 488

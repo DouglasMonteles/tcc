@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 23 do Substitutivo adotado pela Comissão Especial à Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário, com vista à sua supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33c71854142ec6df702d974a0edb3a0e084dde5558c117d65495d9bf1fc35ad4
+size 279

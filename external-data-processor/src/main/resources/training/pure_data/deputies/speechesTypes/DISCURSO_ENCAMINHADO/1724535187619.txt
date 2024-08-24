@@ -1,1 +1,3 @@
-Encaminhamento pelo PSL de Representação à Assembleia Legislativa do Estado de Roraima, para cassação do mandato parlamentar do Deputado Estadual Jalser Renier, envolvido no sequestro e tortura do jornalista Romano dos Anjos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19a8e0f692a6dc6c1046547f7c1fe47ed6509fe4d5817165adb0fb5a9176319f
+size 230

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do inciso IV, § 11º, art. 100, da Constituição Federal, na redação dada pelo art. 1º da redação para o segundo turno da Proposta de Emenda à Constituição nº 23, de 2021, sobre a alteração do regime de pagamento de precatórios pela União. Aplausos ao PDT pela mudança de posicionamento no tocante à votação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:239575483e8c9d9201e7fa01e3c41d9e9b95325837a1b7d475e4e6cfa726b240
+size 423

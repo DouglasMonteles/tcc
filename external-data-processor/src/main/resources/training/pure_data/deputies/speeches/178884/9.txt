@@ -1,1 +1,3 @@
-Presença na Casa do Deputado Estadual Léo Cunha e do Prefeito Municipal de Barra do Corda, Estado do Maranhão, Eric Costa. Anúncio de participação em reunião com o Ministro-Chefe da Secretaria de Aviação Civil, Eliseu Padilha, para debate sobre os aeroportos regionais do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:425eeda81a50816d00a5bf184974666e7d521b2b3afe28e3dba005afcc992151
+size 301

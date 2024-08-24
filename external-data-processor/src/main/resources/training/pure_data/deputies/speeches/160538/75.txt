@@ -1,1 +1,3 @@
-Visita do Ministro das Comunicações, Paulo Bernardo, ao Município de Morretes, Estado do Paraná. Compromisso do Governo Federal de extensão dos serviços da Internet ao meio rural. Lançamento do Programa Rede Brasil Rural pelo Ministério do Desenvolvimento Agrário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff97a4471e6ccf50fa853fa38528f77f5e66cbc68ec20886eba963ada2ad0cdc
+size 273

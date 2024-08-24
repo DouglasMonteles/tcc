@@ -1,1 +1,3 @@
-Posse da Dra. Lorene Louise Silva Pinto como Diretora da Faculdade de Medicina da Universidade Federal da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a878b14eeff25615f6ae913eb498a029a861e1e8a5d07d8f0afbca24ee2b562
+size 112

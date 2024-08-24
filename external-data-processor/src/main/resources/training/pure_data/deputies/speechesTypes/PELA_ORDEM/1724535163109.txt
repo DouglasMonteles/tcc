@@ -1,1 +1,3 @@
-Expectativa da população do Município de Lajedo do Tabocal, Estado da Bahia, quanto a decisão do Tribunal Regional Eleitoral sobre a assunção da Prefeitura da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29b04db3a5753955e640c60dd33b29ca7d8eb829275fff61888e4bbe8b5bc78f
+size 180

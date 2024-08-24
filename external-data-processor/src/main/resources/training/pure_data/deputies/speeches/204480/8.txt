@@ -1,1 +1,3 @@
-Repúdio à proposta de reforma previdenciária apresentada pelo Presidente Jair Bolsonaro. Expectativa de criação da CPMI destinada à investigação das causas e responsabilidades pelo rompimento de barragem de rejeitos de mineração da empresa Vale, no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07697427548bdf437b275390e3e52088c3cf5691a7b73865484185193a5d09d0
+size 308

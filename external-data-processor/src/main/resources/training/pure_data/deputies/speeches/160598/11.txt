@@ -1,1 +1,3 @@
-Desafios do País para realização da Copa do Mundo de Futebol de 2014 e dos Jogos Olímpicos de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c313f81e23b383485772526e05dd7b4b9df8c95d24a04268424dc9a1e742923d
+size 103

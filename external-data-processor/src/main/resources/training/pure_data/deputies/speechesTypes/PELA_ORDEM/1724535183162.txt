@@ -1,1 +1,3 @@
-Posicionamento favorável à inclusão da Venezuela  no  Mercosul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc0fbd55183a2184e3cb108baa7f54e55aa2e4c6de2910db6e44ba48de373a5d
+size 66

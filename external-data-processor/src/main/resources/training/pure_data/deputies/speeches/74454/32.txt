@@ -1,1 +1,3 @@
-Transcurso do 99° aniversário de fundação do Departamento Nacional de Obras Contra a Seca - DNOCS. Empenho do orador na liberação de recursos para a construção de barragens em Municípios do Estado do Ceará. Interesse do DNOCS no gerenciamento do projeto de interligação de bacias do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9dd3f1d36228fb59bc088c47b3335fb4881294255143c6ac47a9b97a87cf8c
+size 314

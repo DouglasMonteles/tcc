@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 1.321-A, de 2019, sobre a autonomia dos partidos políticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:796d8132f2f8e755c6105248f0025c372bb94a621e947c6b23c24e1bc18551ab
+size 156

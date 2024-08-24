@@ -1,1 +1,3 @@
-Saudações aos Deputados do Estado de Alagoas. União da Esquerda com o Supremo Tribunal Federal para devolução de 6 bilhões de reais a empreiteiros corruptos. União do PT com o Instituto Anjos da Liberdade para a retomada de visitas íntimas a chefes de facções criminosas. Inconsistência das acusações do advogado Rodrigo Tacla Duran contra o então Juiz Federal Sergio Moro e o ex-Procurador da República Deltan Dallagnol. Denúncia de corrupção no âmbito dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dd26de55713f0f50684feebb94e5019aa3184f374b052e3437f8e9c7a6d4604
+size 499

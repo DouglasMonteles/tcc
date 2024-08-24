@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Jair Bolsonaro pela atenção dispensada ao orador e pelo atendimento a pleitos do PSD. Competência e coragem do Presidente da República para enfrentamento da crise gerada pela Covid-19. Probidade de Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4423dc6e6d4c79afc360ad104dcd51b5c103bc59be8206202b6e345df441c4ac
+size 245

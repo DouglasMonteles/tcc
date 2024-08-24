@@ -1,1 +1,3 @@
-O Deputado defendeu a Campanha Nacional de Multivacinação do Governo Federal, para imunização de jovens com até 15 anos de idade para prevenir doenças como sarampo, rubéola, caxumba, difteria, tétano, coqueluche, dentre outras. Elogiou o investimento de mais de 150 milhões de reais para apoiar Estados e Municípios na elevação dos índices de imunização e expressou sua preocupação com a baixa taxa de vacinação, atribuindo-a em grande parte às ações do governo anterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07fbc73a6413d222f82d244a7ff35229dac84de1e8c26d9339222a3002e92271
+size 493

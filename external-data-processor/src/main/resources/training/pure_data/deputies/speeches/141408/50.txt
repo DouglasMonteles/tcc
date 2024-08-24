@@ -1,1 +1,3 @@
-Aprovação, pela Casa, do Projeto de Lei nº 3.051, de 1989, sobre a regulamentação das Colônias, Federações e Confederação Nacional dos Pescadores como órgãos de classe dos trabalhadores da pesca; e da proposta sobre a prorrogação do prazo fixado para a concessão de aposentadoria ao trabalhador rural, inclusive ao  pescador artesanal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18fc87377abcfe0123a054e9536b8b9c1516298995c8ac60805c33e7967e0b37
+size 350

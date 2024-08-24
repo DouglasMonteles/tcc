@@ -1,1 +1,3 @@
-Razões do voto da oradora favorável ao projeto de lei sobre a política de valorização do salário mínimo a longo prazo. Atuação da Polícia Federal no combate a grupos de extermínio ligados a policiais militares na região do Entorno do Distrito Federal. Apoio ao projeto de lei sobre a criação da Comissão Nacional da Verdade, destinada à investigação de crimes e abusos praticados durante o regime militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4914b987662301b970023d1005ccf66c3ec99e1efc7368c8ffaa5e430eaa51f
+size 423

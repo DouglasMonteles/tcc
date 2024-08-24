@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar Mista de Desenvolvimento Estratégico do Sistema Penitenciário, Combate ao Narcotráfico e Crime Organizado no Brasil. Apresentação das linhas de trabalho do órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:673d53c0fd9beb5cc1fc2507d1c8188cd3ade152b2502910041b6fe7bc15105f
+size 201

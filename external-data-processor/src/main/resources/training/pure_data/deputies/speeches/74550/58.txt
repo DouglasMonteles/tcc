@@ -1,1 +1,3 @@
-O Deputado celebrou a aprovação do Plano Plurianual (PPA), destacando três emendas que viabilizam obras estratégicas para a Bahia, incluindo a Ponte Salvador-Itaparica e melhorias viárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4685e40c91159c45fbc3b5ae56404644ee5c6212b75c4886091a1f4f1cd1985b
+size 193

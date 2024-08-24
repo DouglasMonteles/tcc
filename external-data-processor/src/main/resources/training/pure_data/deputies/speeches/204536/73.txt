@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global apresentada pelo Relator da Comissão de Seguridade Social e Família ao Projeto de Lei nº 864, de 2020, sobre a alteração da Lei nº 6.360, de 1976, com vista à liberação imediata do uso de materiais, medicamentos, equipamentos e insumos da área da saúde para auxiliar no combate à pandemia do Covid-19, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:863f0d59d916d1f066551616db73a6cb1b896a8490b2ad73cc50532ad8f85ce9
+size 409

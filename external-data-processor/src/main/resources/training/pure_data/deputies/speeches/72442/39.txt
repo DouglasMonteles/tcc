@@ -1,1 +1,3 @@
-Recuperação da saúde de infectados por coronavírus em Fernando de Noronha. Expectativa quanto à liberação do acesso do arquipélago a turistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1882322832fe3d519d8b8973d9ee08f751b297d5c630ea9b2bb290a0efbff89c
+size 150

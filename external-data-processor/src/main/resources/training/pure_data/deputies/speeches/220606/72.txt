@@ -1,1 +1,3 @@
-Congratulações à Deputada Tabata Amaral, Relatora do Projeto de Lei nº 3.383, de 2021, sobre a instituição da Política Nacional de Atenção Psicossocial nas Comunidades Escolares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87d84f2a68ab99db0d4182ca25d684428f2efc05a6e1cbf3d6efc4a6c7f9c8a3
+size 187

@@ -1,1 +1,3 @@
-Resultado da pesquisa Justiça Criminal, Impunidade e Prescrição,  realizada pela Associação Brasileira de Jurimetria em conjunto com a Universidade de São Paulo e o Conselho Nacional de Justiça.  Posicionamento do orador sobre o conjunto de medidas anticrime apresentadas pelo Ministro da Justiça e Segurança Pública, Sérgio Moro. Imediata apreciação pela Casa da proposta de criação da Lei Orgânica da Polícia Federal. Defesa de aprovação da Proposta de Emenda à Constituição nº 412, de 2009, sobre a garantia da autonomia administrativa, orçamentária e funcional da Polícia Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2959cf7c7b3ffacaf0b92cd57b3cb1412ae8bb635ab70bfbc508483f2fa9a30
+size 610

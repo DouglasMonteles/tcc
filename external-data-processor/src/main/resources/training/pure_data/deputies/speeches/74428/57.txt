@@ -1,1 +1,3 @@
-Sugestão ao Relator da  Medida Provisória 540 de 2011 (Institui o Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras - Reintegra; dispõe sobre a redução do Imposto sobre Produtos Industrializados - IPI à indústria automotiva; altera a incidência das contribuições previdenciárias devidas pelas empresas que menciona, e dá outras providências) , Deputado Renato Molling, para alteração da sistemática de tributação de empresas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4a50d5909ec82f92c7c59e4a38b295ac23aa449fe12ef5be55983b53280f981
+size 481

@@ -1,1 +1,3 @@
-Visita do Presidente Luiz Inácio Lula da Silva ao Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e9a50e3c1eb67d3af74139de0cd6ff4c82a53b335072ac71abf4ce201b5073c
+size 68

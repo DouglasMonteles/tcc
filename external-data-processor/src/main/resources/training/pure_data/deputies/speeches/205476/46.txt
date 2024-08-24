@@ -1,1 +1,3 @@
-Classificação do Município de Guanambi em primeiro lugar no Índice de Medição de Administração no Estado da Bahia. Comemoração, no Município de Caetité, da data da independência do Estado da Bahia do jugo português - 2 de julho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d381d14dd544fb12efde17d50763b64bbc8f466a3e57f0fa196d2a3ef08be3b
+size 242

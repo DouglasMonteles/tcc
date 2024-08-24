@@ -1,1 +1,3 @@
-Apoio à redução da jornada de trabalho dos profissionais da enfermagem. Aprovação do projeto de lei sobre a regulamentação do exercício da Medicina, o chamado ato médico. Apoio à criação de piso salarial nacional para médicos e cirurgiões-dentistas. Aprovação pela Casa da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b17b87f3dc9ad97ab48452cdd055c336d03ace5c777db8cc3056dcefe5899a48
+size 423

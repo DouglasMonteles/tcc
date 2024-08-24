@@ -1,1 +1,3 @@
-Encaminhamento aos Ministros da Fazenda, Fernando Haddad; da Agricultura e Pecuária, Carlos Fávaro; e do Desenvolvimento Agrário e Agricultura Familiar, Paulo Teixeira, de requerimentos de indicação para adoção de medidas em prol dos produtores de leite, diante das importações de laticínios pelo governo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fa7ff16aec297cbe7628648eff1072a1bd8e1d0ba4418905edcc97805052daf
+size 326

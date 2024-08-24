@@ -1,1 +1,3 @@
-Apoio do PTB  à proposta de procedimento para desobstrução das votações na Casa, apresentada pelo PSDB.Pedido de votação do projeto de lei de interesse dos trabalhadores aposentados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33831d3d255b39b4e8c55fc9a2ac90621c593131a63ea0852192cb069163cd87
+size 189

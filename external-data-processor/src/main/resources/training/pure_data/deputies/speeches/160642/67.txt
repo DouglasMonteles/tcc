@@ -1,1 +1,3 @@
-Relevância dos trabalhos de recuperação de dependentes químicos realizados por comunidades terapêuticas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:013deebf314bb2a376e506002faff9d9c2c86bb06f42c8e04a3f762244908123
+size 118

@@ -1,1 +1,3 @@
-Imediata publicação, pelo Governo Federal, de portaria sobre o pagamento do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53ad552431aeaea86a98ebc1c13a73aade2086ae9cc71c956abebea5c7587f00
+size 147

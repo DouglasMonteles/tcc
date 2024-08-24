@@ -1,1 +1,3 @@
-Falecimento do jornalista Rafael Henzel em decorrência de infarto, sobrevivente do acidente aéreo envolvendo a equipe da Associação Chapecoense de Futebol, do Município de Chapecó, Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61226f67037feb09b0da0af2287c77904a4885d3d1ce0a1833043f34e6423e2c
+size 212

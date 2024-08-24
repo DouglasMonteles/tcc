@@ -1,1 +1,3 @@
-Presença no plenário do Deputado Estadual Eduardo Loureiro, do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28c7b066f7f46b4c6aaf56b82aa15a2b7ad4a7ca15f788a0672478e6466b94e4
+size 83

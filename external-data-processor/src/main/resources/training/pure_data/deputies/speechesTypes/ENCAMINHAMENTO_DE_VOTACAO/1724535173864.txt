@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição nº 6, de 2019, sobre a modificação do sistema de Previdência Social, em segundo turno de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03554e5f2533d25c02c650b411096e04dde74a338d7d015d97b382d52964ac54
+size 208

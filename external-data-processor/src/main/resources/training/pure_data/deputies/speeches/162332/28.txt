@@ -1,1 +1,3 @@
-Aprovação, pelo Senado Federal, de acordo previdenciário entre o Brasil e o Japão. Falecimento do ex-Deputado Federal Antônio Ueno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:207170f6340dc4aa91492754243ee23d5924ed574a8c54f158d331e29ec8809a
+size 136

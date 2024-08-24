@@ -1,1 +1,3 @@
-Posicionamento favorável do PP à  PEC 336 de 2009 (Altera a redação do inciso IV do caput do art. 29 da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais), do Senado, em votação em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9810087f9c24dc97436500fb4469306973f6b1aa065d39943981d6ca64c1058b
+size 254

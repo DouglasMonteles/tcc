@@ -1,1 +1,3 @@
-Necessidade de exigência, pelas autoridades brasileiras, de tratamento justo nas negociações externas a respeito da preservação ambiental. Prorrogação do prazo para regularização de reservas florestais. Sugestões para reformulação do Código Florestal Brasileiro. Propostas do Governo Federal para redução das emissões de gases causadores do efeito estufa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57803ce2266729812b1639b79591e52232a06421843b977c8b65de12f39334ae
+size 371

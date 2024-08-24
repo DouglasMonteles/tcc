@@ -1,1 +1,3 @@
-Consulta aos Deputados do PT sobre as medidas adotadas pelo partido, em relação a ataques e ofensas de seus membros a Parlamentares nas três esferas legislativas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f49a31d890d2c8b4fcbc962d8f49916a809c9b85bfde3f4e8d25192e4ba1947c
+size 165

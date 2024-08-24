@@ -1,1 +1,3 @@
-Sugestão ao Relator Luis Miranda de acolhimento de emenda apresentada pelos Deputados Allan Rick e Lafayette de Andrada ao Projeto de Lei nº 985, de 2020, acerca das medidas excepcionais adotadas em situação de emergência pública nos termos da Lei nº 13.979, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f86a1308a1da0359f33b3cc76e68bb50156429dc8bb9a09cbfb0a8ac168839a
+size 274

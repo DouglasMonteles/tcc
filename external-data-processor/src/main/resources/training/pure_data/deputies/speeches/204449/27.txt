@@ -1,1 +1,3 @@
-Apelo aos órgãos competentes por não destruição de equipamentos apreendidos de garimpeiros no Município de Aripuanã, Estado do Mato Grosso. Apoio do Prefeito Jonas Canarinho aos garimpeiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:317fddc821b9687297d72bde03537312785e99d662777a937f10f370a8a0411b
+size 197

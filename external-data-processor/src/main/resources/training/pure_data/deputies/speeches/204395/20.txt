@@ -1,1 +1,3 @@
-Desagravo ao Relator Alexandre Leite, diante da retirada de categorias do texto do Projeto de Lei nº 3.723-A, de 2019, acerca da alteração da Lei nº 10.826, de 2003, sobre o registro, a posse e a comercialização de armas de fogo e munição no País; o Sistema Nacional de Armas - SINARM e a definição de crimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5312d201e6486f776abc38399ededb36aa57b11163d5e6089ae22c160145642a
+size 320

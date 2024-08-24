@@ -1,1 +1,3 @@
-Exigência de votação pela Casa, em segundo turno, da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:924d3a6514f6cf09cfcf428337cd08bc46a14a255e487a407a1b97040e28a3b1
+size 190

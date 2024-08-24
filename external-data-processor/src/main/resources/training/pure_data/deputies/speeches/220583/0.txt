@@ -1,1 +1,3 @@
-Pressão exercida pelo Presidente Luiz Inácio Lula da Silva para a retirada, pelos Parlamentares, de assinaturas do requerimento de criação da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República. Apoio do orador à instalação do órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f33bbc0c53be806d5efd568de575756a24856168a94e6307d70cc04a4c31e6f1
+size 302

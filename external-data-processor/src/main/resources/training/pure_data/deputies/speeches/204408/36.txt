@@ -1,1 +1,3 @@
-Aprovação pela Casa da proposta de reforma da Previdência Social e de outros temas de relevante interesse do povo brasileiro e da economia nacional.  Artigo Brasil está sendo salvo pelas qualidades de deputados e senadores, do colunista Celso Rocha de Barros, publicado pelo jornal Folha de S.Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83c3b1ffde7822033ddb00d9d3c08d1bbb2263dc4fece3fc442d6d818a090f51
+size 303

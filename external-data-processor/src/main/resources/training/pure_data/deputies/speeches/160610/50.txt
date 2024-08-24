@@ -1,1 +1,3 @@
-Retrocesso da aprovação pela Casa do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6871c9c84e33ee5c42363bd1788cee9284101454f3d11da6bebee9cd61ffc661
+size 73

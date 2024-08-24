@@ -1,1 +1,3 @@
-Imediata sanção do Projeto de Lei Complementar nº 148, de 2017, a respeito da inclusão dos Municípios do Vale do Rio Doce, no Estado de Minas Gerais, e de Municípios do Estado do Espírito Santo na área de abrangência da Superintendência do Desenvolvimento do Nordeste - SUDENE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec6812413cc703de12d488cac7c95397c22006c22f9592f64b75932dd6df3da6
+size 287

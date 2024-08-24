@@ -1,1 +1,3 @@
-Relançamento do Programa Bolsa Família. Repúdio ao discurso xenofóbico e racista contra o povo baiano, proferido pelo Vereador Sandro Fantinel, da Câmara Municipal de Caxias do Sul, Estado do Rio Grande do Sul. Apelo às autoridades competentes por recuperação de rodovias federais no extremo sul do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5ec3e135422525ffcf1027cf6c2adf5cb928de6356f6741d486eb090e888f94
+size 323

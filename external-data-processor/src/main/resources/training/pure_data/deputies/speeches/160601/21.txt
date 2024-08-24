@@ -1,1 +1,3 @@
-Congratulações ao Reverendo Ouriel de Jesus ao ensejo do transcurso do seu aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c09774fbcecf94a4a5974471e8e23da47c141ee8bffc1c273ed8d938ddbf0c1
+size 101

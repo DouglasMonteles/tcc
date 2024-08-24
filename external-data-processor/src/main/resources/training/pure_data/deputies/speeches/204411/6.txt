@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei Complementar nº 441-D, de 2017, acerca da criação dos cadastros positivos de crédito e regulação da responsabilidade civil dos operadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c2a3fe4701014ab7f214ef00f373510083e66ec060620fffa150e560cddb59a
+size 236

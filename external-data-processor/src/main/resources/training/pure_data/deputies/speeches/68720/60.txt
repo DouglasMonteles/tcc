@@ -1,1 +1,3 @@
-Transcurso do 110º aniversário de fundação do Club Sportivo Sergipe. Homenagem póstuma ao ex-dirigente da entidade, Antônio Soares da Mota, o Motinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e345de7411cb231de257726d4ca136de45988035784927388004643a235f814b
+size 156

@@ -1,1 +1,3 @@
-Defesa da realização de amplo debate sobre a reforma tributária. Anúncio de convocação do Ministro da Economia, Paulo Guedes, para debate do plano do Governo Federal destinado ao combate à crise da economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53777e3f3a8b8b16eb3b1688e51694e1ce26e314ddd10e640ffa1a98653e0880
+size 225

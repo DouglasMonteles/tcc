@@ -1,1 +1,3 @@
-O Deputado destacou a visita do Vereador Jorge Willian, de Candelária, no Rio Grande do Sul, ao Congresso Nacional. Mencionou a parceria efetiva entre o Vereador, seu mandato e o da Deputada Federal Kelly Moraes, ressaltando a destinação de recursos para obras e para atender à agricultura, especialmente à fumicultura na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f50515a17585def2a80d58a76654105346fbfcd038f7a9978ab091d16e5e5324
+size 335

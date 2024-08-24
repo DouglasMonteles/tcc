@@ -1,1 +1,3 @@
-Inconstitucionalidade da Proposta de Emenda à Constituição nº 134, de 2015, a respeito da inserção do art. 101 no Ato das Disposições Constitucionais Transitórias, com vista à  reserva de vagas para cada gênero na Câmara dos Deputados, nas Assembleias Legislativas, na Câmara Legislativa do Distrito Federal e nas Câmaras Municipais, nas três legislaturas subsequentes. Consulta à Presidência sobre a retirada da proposição da pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3542dd615f71e0b1ffb813fec54b839775c40c39648a018b5c53fd88ec1ae51
+size 452

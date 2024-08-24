@@ -1,1 +1,3 @@
-Entrega simbólica no plenário do Senado Federal, pelo Senador Paulo Paim, de agenda positiva em defesa dos aposentados e pensionistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82dced0e6e2e8800d8089e70cba6d36e34906003990681356842eae13d1da05d
+size 136

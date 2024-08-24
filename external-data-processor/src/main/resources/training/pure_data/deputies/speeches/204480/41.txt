@@ -1,1 +1,3 @@
-Convicção na queda do Ministro da Justiça e Segurança Pública, Sérgio Moro. Confiança na rejeição da proposta governamental de reforma previdenciária. Realização de greve geral contra o Governo Jair Bolsonaro e a reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6dcf77d72c70ba2d644253f159594d29088e74f7b34739d73ec86e33cf70b4d
+size 249

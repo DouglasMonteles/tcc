@@ -1,1 +1,3 @@
-Indignação pela violência no Estado do Pará. Contestação da tese de redução do número de homicídios em decorrência do Estatuto do Desarmamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7461ec9acda7f9839d1cdbe18abc7e6adad6911eca1d96e94ecbc90663308e9
+size 154

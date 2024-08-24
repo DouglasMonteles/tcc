@@ -1,1 +1,3 @@
-Homenagem aos servidores da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:160a9a90b3dabbc9a15d575ec2fa9dc8364b2e97bd0d7fb1858a1cecbb9538b8
+size 50

@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Bicentenário da Revolução Pernambucana de 1817.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57b45272b4cadc536d923ef02d37fe9331f528a31c4f2e71112f294b7af47766
+size 230

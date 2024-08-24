@@ -1,1 +1,3 @@
-Desgaste do Governo Dilma Rousseff com a crise envolvendo o Ministro-Chefe da Casa Civil, Antonio Palocci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4003b1e8ac84d611c78e4ad5284d4e1be284dae7f18170c5895feae7a84fff39
+size 106

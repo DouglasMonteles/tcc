@@ -1,1 +1,3 @@
-Apoio às organizações não governamentais de defesa dos animais. Realização, pela Comissão de Meio Ambiente e Desenvolvimento Sustentável, de audiência pública destinada ao debate de ações públicas de proteção aos amimais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:046e9a961484ffaa4c00f78b0ab05f0600d0f75cd10128e7602f15dc293b09ea
+size 236

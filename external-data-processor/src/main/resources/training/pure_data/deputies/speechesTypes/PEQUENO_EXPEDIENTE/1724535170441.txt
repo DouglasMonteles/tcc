@@ -1,1 +1,3 @@
-Transcurso do 80º aniversário de fundação da Escola Estadual de Ensino Fundamental e Médio João Bley, no Município de Castelo, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58165fbc2590b44800a2762833fccf9fb7ea2a01ec9b31d1ec61c8fc2872dacb
+size 160

@@ -1,1 +1,3 @@
-Destinação de recursos financeiros oriundos de emenda parlamentar de autoria do orador em prol de entidades beneficentes do Município de Bragança Paulista, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd3340815d99e8f1ca66b810adf6c77b8d74befa26c670e35abb023ca9f96e00
+size 181

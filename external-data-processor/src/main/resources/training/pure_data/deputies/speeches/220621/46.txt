@@ -1,1 +1,3 @@
-O Deputado deu boas-vindas à Casa ao Vereador Everton Souza, do Município de Lagoa de Velhos, Estado do Rio Grande do Norte. Em seguida, tratou da crise na saúde pública, ampliada pela deflagração de greve por uma cooperativa de médicos motivada pelo atraso no pagamento de salários pela Governadora Fátima Bezerra. Assalto sofrido por médico no interior do Pronto Atendimento do Hospital Regional de Caicó foi utilizado pelo orador como exemplo do caos na segurança pública potiguar, caos que se aplica a outras áreas da gestão da Governadora petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31ea39825164fe40c9d2b2ca80bfd5482ea0f32706dfb07be31fb567cdb2e8b8
+size 567

@@ -1,1 +1,3 @@
-Considerações a respeito do fracasso do leilão de privatização da Companhia Energética de São Paulo, CESP. Ação Direta de Inconstitucionalidade da Lei que impede a participação de Empresas Estatais no leilão de privatização da CESP. Anuência do Governo Brasileiro ao Tratado de Livre Comércio a ser realizado pelo MERCOSUL e Israel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f56a7c1a36fa339eff46e9c42c83059afd2b412523262d24ab8267b6cad7c331
+size 348

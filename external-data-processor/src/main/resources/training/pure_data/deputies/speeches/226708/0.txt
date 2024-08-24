@@ -1,1 +1,3 @@
-O Deputado expressou seu desacordo com a discussão sobre o aborto na Câmara dos Deputados. Lembrou que como médico, pai e cristão, rejeita a ideia de decidir sobre a vida de crianças ainda no útero da mãe e defende a importância do direito à vida. Alertou para o perigo de abrir precedentes que possam levar a legislações sobre a vida de pais e filhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e815cb69dbba15490fb2cd14208219dee7f3efa8ee7108d4f13775fec8a2b18
+size 363

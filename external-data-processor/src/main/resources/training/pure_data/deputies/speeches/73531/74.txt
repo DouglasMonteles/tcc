@@ -1,1 +1,3 @@
-Apoio à greve nacional dos bancários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9012dbd5d77163c662a366d9cbde96968fedc61140c3f3b49e145e23409b92ba
+size 39

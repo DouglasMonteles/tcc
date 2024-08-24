@@ -1,1 +1,3 @@
-Presença na Casa da Vereadora Patrícia Crizanto, do Município de Vila Velha, Estado do Espírito Santo. Participação da Vereadora na Conferência Nacional de Promoção da Igualdade Racial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:109757e52a196a5470f3c71e9a3b9adb28bc609df7124a4e02d2cf72bdc7a20d
+size 194

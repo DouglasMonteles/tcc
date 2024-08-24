@@ -1,1 +1,3 @@
-Desempenho de partidos da base governista nas eleições municipais de 2008. Fortalecimento do PCdoB no País, especialmente no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d900dd23a43e788e8ade30655ac9dacac946e9ad8f6dd95af5676774bd2c34fa
+size 144

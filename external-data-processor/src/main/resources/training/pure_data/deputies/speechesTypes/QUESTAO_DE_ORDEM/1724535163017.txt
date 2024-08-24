@@ -1,1 +1,3 @@
-Levanta questão de ordem sobre a competência da Mesa Diretora para declarar a perda do mandato parlamentar do Deputado Natan Donadon, condenado criminalmente pelo Supremo Tribunal Federal – STF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8ad823e9ad75d7008bca911559c7aca3f3a3bf321becb63efc14a1012ca5f8a
+size 198

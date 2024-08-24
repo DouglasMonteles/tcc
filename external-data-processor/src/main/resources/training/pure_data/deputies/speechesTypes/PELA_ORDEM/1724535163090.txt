@@ -1,1 +1,3 @@
-Aspectos contraditórios da aprovação popular do Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4809d07df905471e5e0c1b4b4d64f23551082af5b67bd9eba10000ec9e1b5ff7
+size 86

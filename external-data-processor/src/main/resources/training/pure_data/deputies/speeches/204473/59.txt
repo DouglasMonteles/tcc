@@ -1,1 +1,3 @@
-Importância do tratamento preventivo da Covid-19. Contrariedade à politização da epidemia de coronavírus. Insensatez da determinação governamental de fechamento do comércio para combate à transmissão da doença viral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:688b6d407488a1a7a60ba677008025fbfc80cdf159f02767e876935aaeb25a84
+size 227

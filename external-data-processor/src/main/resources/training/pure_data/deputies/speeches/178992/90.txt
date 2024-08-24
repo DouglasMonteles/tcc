@@ -1,1 +1,3 @@
-Aprovação, pelo Senado Federal, do Projeto de Lei nº 4.253, de 2020, (Substitutivo da Câmara dos Deputados ao Projeto de Lei  nº 559, de 2013, do Senado Federal), relativo ao estabelecimento de normas gerais de licitação e contratação para as administrações públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios, e à alteração de diplomas legais (modernização da Lei de Licitações e Contratos - Lei nº 8.666, de1993.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1114761d8ae9687ad21b0b7350bc34cd891effb9c92d82c784ea8edf64194c06
+size 490

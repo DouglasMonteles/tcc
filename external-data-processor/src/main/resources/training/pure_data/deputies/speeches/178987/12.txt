@@ -1,1 +1,3 @@
-Agradecimentos ao eleitorado paulista pela eleição do orador. Apresentação da agenda prioritária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfb925e360579678f3386d2bb872a19a8c7173979ab22894f22f681d4295a8a5
+size 102

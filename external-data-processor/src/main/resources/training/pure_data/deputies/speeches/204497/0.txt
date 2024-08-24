@@ -1,1 +1,3 @@
-Agradecimento aos eleitores paraenses pela eleição do orador. Pedido aos Parlamentares de aprovação do Requerimento nº 45, de 2019, sobre a criação de Comissão Externa destinada ao acompanhamento do processo de fiscalização de barragens no País. Compromisso de atuação parlamentar em defesa dos interesses das populações do Estado do Pará e do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19523f73a489aaee42b2d2d674d13209838ac31b5de6440c118344065ac56b78
+size 367

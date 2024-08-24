@@ -1,1 +1,3 @@
-Instalação da Unidade de Alta Complexidade em Oncologia - UNACON, no Município de Caetité, Estado da Bahia. Transcurso do Dia do Professor. Aquisição de kits de irrigação para os agricultores familiares na região do Município de Malhada, na Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed61d8714c957b8d11ee1dcb4ecda5259e4e28fb2e40fd6c1583b023ff1491ba
+size 257

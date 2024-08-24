@@ -1,1 +1,3 @@
-Contentamento com a aprovação pela Casa do projeto de lei sobre a ampliação de provas para comprovação da embriaguez ao volante e a elevação do valor de multa aplicada ao motorista infrator. Prioridade do Congresso Nacional na apreciação de proposições de iniciativa parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfa3f97817293e646c4721ef786b1bec5590520d18721ad85269d8452e2393da
+size 291

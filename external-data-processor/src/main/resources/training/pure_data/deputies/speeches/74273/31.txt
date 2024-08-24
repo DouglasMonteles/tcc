@@ -1,1 +1,3 @@
-Consequências da crise financeira mundial, especialmente sobre os países europeus. Sugestões para mitigação dos efeitos da crise no País. Acerto do lançamento do Programa de Aceleração do Crescimento — PAC pelo Governo Federal. Realização pela Câmara Municipal de Sorocaba, Estado de São Paulo, de audiência pública destinada ao debate dos efeitos da crise financeira mundial na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30b04dfa7d460dd6af830b36b1c2d8f6a483bcbf7c4c413ed98423174114af94
+size 404

@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda nº 65, apresentada ao Projeto de Lei nº 1.292, de 1995, sobre a alteração da Lei nº 8.666, de 1993, acerca da instituição de normas de licitações e contratos da administração pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4a0930af6850cabdb203832c250b1257e417f030a7953237c913f6a94e933dc
+size 288

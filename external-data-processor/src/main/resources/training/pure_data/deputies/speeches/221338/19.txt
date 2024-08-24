@@ -1,1 +1,3 @@
-Indignação da oradora com a pretendida redução dos recursos destinados ao setor educacional pelo Governador do Estado de São Paulo, Tarcísio Gomes de Freitas. Não cumprimento, pelo Governo Estadual, da legislação pertinente ao piso salarial nacional do magistério público da educação básica. Descaso governamental com a educação em São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb8fcc8b1f41c6f05e938afabce86e6cdfde87be525a5680efea86b8c55772f1
+size 359

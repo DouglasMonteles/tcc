@@ -1,1 +1,3 @@
-Relevância do Programa Nacional de Triagem Neonatal, instituído pelo Ministério da Saúde. Instituição do Dia Nacional do Teste do Pezinho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2a04f92a16dafdee2ddfd5011b0a8a3aef0080aa0a5960d92e752a03c5736fe
+size 144

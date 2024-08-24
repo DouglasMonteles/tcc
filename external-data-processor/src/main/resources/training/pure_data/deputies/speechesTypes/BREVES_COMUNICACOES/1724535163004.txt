@@ -1,1 +1,3 @@
-Expectativa da votação da chamada PEC dos Jornalistas. Defesa da regulamentação da profissão de jornalista. Relevância da profissão para o País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92d139ca98cb269d40b5ba5b7cf423cb7d9ebc6aa8b16bcee8278faa9701e0c9
+size 152

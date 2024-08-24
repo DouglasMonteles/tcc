@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 1.987, de 2023, sobre a criação de funções comissionadas no Quadro de Pessoal do Tribunal de Justiça do Distrito Federal e Territórios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78256b8eba8eae39e509758c4957218352be1adced0980f1735d5fb6bc90463c
+size 185

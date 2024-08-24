@@ -1,1 +1,3 @@
-Promoção de campanha de incentivo ao plantio de árvores pela empresa São Braz, no Município de Campina Grande, Estado da Paraíba. Tramitação de projeto de lei sobre o plantio de árvores em conjuntos habitacionais construídos por meio do Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ac55de3ccbe5a03173f3c3231c15d7b2577a67e29a77611b00e1529a1e69626
+size 279

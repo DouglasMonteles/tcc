@@ -1,1 +1,3 @@
-Perfil estadista do Presidente Luiz Inácio Lula da Silva. Protesto contra discursos proferidos no plenário a respeito do Complexo da Maré, no Rio de Janeiro, Estado do Rio de Janeiro. Resgaste de trabalhadores em situação análoga à escravidão no País. Democratização de canais de acesso à Justiça do Trabalho. Submissão de trabalhadores ao regime de trabalho escravo pela empresa Volkswagen do Brasil, na Fazenda do Rio Cristalino, no Município de Santana do Araguaia, Estado do Pará. Defesa de indenização às vítimas por dano moral coletivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d63f2a7f06c90f7fc0a3f92dbeffc08b35631950b3c75e7066d4de1299791a9
+size 562

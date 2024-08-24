@@ -1,1 +1,3 @@
-Alcance do patamar de 250 mil mortes no País em decorrência da Covid-19. Postura irresponsável do Presidente da República com relação ao enfrentamento da doença. Atribuição ao Presidente Jair Bolsonaro da responsabilidade pela falta de vacinas para imunização do povo brasileiro. Necessidade de assunção, pela Câmara dos Deputados e pelo Congresso Nacional, do protagonismo na retomada do pagamento do auxílio emergencial a trabalhadores e famílias carentes. Necessidade de pressão do Parlamento brasileiro sobre o Governo Federal, para a aquisição de novas vacinas contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94ac1ffb00cbaefefaad73f2cf1bf69a99b4e67d590ca27df16ce186fb5c321c
+size 603

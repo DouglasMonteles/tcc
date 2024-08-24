@@ -1,1 +1,3 @@
-Sessão solene de homenagem ao Dia da Imigração Chinesa no Brasil.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f55075db81945445539c4e79de4769e643215ab56ee39921953e691b24228afd
+size 217

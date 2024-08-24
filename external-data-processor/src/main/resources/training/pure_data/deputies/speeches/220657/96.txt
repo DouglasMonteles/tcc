@@ -1,1 +1,3 @@
-O Deputado encaminhou a votação do requerimento de urgência para apreciação do Projeto de Resolução nº 129, de 2023, que institui a Medalha Rei Pelé. Criticou a falta de previsibilidade na definição da pauta de votação na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da29c84e63d855caa71d58d34c139a41c6f06da3a045a2a492804b06743d0d99
+size 257

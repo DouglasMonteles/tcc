@@ -1,1 +1,3 @@
-Referências elogiosas do ex-Presidente da República Itamar Franco ao Deputado Inocêncio Oliveira. Aprovação pela Comissão de Trabalho, de Administração e Serviço Público do Projeto de Lei nº 1.033, de 2003, sobre a criação do salário adicional de periculosidade para vigilantes e empregados em transporte de valores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e8587e69a2be899c37429979482126de5da6fe99e879deb6814aed4d7121ed4
+size 330

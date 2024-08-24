@@ -1,1 +1,3 @@
-Condicionamento do apoio do PSDB a acordo para votação Medida Provisória 416 de 2008 (Altera a Lei 11.530 de 2007, que institui o Programa Nacional de Segurança Pública com Cidadania - PRONASCI, e dá outras providências) a acolhimento, pelo relator de alterações no texto propostas pelo partido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17d05cb2398b9c09526462e36b619a6b6131d06cffedd09b524690510868ef0f
+size 304

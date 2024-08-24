@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalho. Saudações aos trabalhadores brasileiros, em especial aos paraibanos. Ações do Governo petista em favor da classe trabalhadora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f59da9bb8c3b649fb9552ca61c7d0411dcc89f26445cf2ad00cf24e1370c27ad
+size 161

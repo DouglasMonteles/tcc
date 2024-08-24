@@ -1,1 +1,3 @@
-Associação aos pronunciamentos de Parlamentares em defesa da alocação de recursos para recuperação da malha rodoviária federal catarinense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bade121ba8b43a1177e149abbfb78da74b354b998d831cbff6026b65f9411b1
+size 146

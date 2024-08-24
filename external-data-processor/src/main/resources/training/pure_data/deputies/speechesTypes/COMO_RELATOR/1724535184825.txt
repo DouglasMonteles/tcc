@@ -1,1 +1,3 @@
-Ponderações sobre a Emenda Substitutiva Global de Plenário ao Projeto de Lei 4.850 de 2005 (Altera dispositivos do Decreto-Lei 2.848 de 1940 - Código Penal, em especial do seu Título VI - para tipificar os Crimes contra a Liberdade e o Desenvolvimento Sexual, Crimes contra o Desenvolvimento Sexual de Vulnerável, Lenocínio, e do Tráfico de Pessoa para o Fim de Exploração Sexual; altera a Lei  8.072 de 1990- Crimes Hediondos), a propósito de reparos feitos à matéria por parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51d47e63ca5c4e26b130ac4ceb198ea4944c87775511ac3aa186528098bf1d22
+size 500

@@ -1,1 +1,3 @@
-Posicionamento da bancada do PSL contrário à Proposta de Emenda à Constituição nº 5, de 2021, sobre a alteração da composição do Conselho Nacional do Ministério Público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:376327b33b8fc8f772799b70ea41f6c197aed19a6473caf2c3296c872d6ccd43
+size 181

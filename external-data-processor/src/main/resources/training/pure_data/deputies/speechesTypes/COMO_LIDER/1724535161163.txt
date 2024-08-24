@@ -1,1 +1,3 @@
-Nomeação do Prof. Natalino Salgado para o cargo de Reitor da Universidade Federal do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04106d45397174a79d9e891a3528e26def164be566a99c690b046e61f05cf69e
+size 97

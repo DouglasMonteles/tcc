@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 740, de 2023, sobre a suspensão do pagamento de proventos a acionistas de Sociedades por Ações envolvidas em desastres ambientais. Apelo ao Governo Federal de envio de caminhões-pipa ao Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26acfd99b03839c7a130d35f1131a838a93ee3e889ccef7873a87470720669cf
+size 245

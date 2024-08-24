@@ -1,1 +1,3 @@
-Comemoração do Dia Nacional da Juventude com o tema Contra o extermínio da juventude e sob o lema Juventude em marcha contra a violência. Elevação dos índices de homicídios entre a juventude brasileira. Ações do Governo Luiz Inácio Lula da Silva em prol da população jovem. Realização da 1ª Conferência Nacional da Juventude. Criação da Política Nacional de Juventude e do Estatuto da Juventude. Propostas da Organização das Nações Unidas para a Educação, a Ciência e a Cultura - UNESCO para  a elaboração de políticas públicas da juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb77adec940bb9b431dcf2f0f4338b42fdbdb948972b1398ffb23273aa8db8e8
+size 572

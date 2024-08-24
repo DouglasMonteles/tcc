@@ -1,1 +1,3 @@
-Candidatura do Deputado Antônio Carlos Magalhães Neto à 2ª Vice-Presidência da Casa. Encontro de Prefeitos Municipais com o Presidente Luiz Inácio Lula da Silva, em Brasília, Distrito Federal. Saudações aos participantes no evento. Dificuldades financeiras enfrentadas pelas Prefeituras Municipais brasileiras. Regularização de débitos municipais junto ao INSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e240b0ad85eb455cb3adbed8b8590ef4a9c548c7a957fae8fd83a9cd228fb45
+size 373

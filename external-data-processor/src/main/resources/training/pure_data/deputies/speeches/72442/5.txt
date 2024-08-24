@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos vinte anos da Lei nº 9.696, de 1998, que regulamenta a profissão de Educação Física e a cria o Sistema CONFEF/CREFs.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:457ad1037d2ddec2e512dd8174c38a1f9804137ebaf0f9ada1c10293cdbb4ebe
+size 302

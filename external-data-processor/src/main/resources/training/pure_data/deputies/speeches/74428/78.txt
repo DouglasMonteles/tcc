@@ -1,1 +1,3 @@
-Posicionamento contrário do DEM  ao  Requerimento de urgência urgentíssima para o Projeto de Lei 301 de 2007 (Define condutas que constituem crimes de violação do direito internacional humanitário, estabelece normas para a cooperação judiciária com o Tribunal Penal Internacional e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a4530befb185cb9c1ca21a80f3603ad1bec5cf7b07ff419dc855d6e97107c41
+size 317

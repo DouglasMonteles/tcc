@@ -1,1 +1,3 @@
-Recorde na produção de energia pela Usina Hidrelétrica de Itaipu. Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 897, de 2019, sobre a instituição do Fundo de Aval Fraterno e sobre o patrimônio de afetação de propriedades rurais, a Cédula Imobiliária Rural, a escrituração de títulos de crédito e a concessão de subvenção econômica para empresas cerealistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5bf69223edb5b4e8df8c66a7e8908475cb40833d8ed61b89a1de1fee99e387b
+size 429

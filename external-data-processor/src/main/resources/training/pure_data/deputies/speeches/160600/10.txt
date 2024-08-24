@@ -1,1 +1,3 @@
-Agradecimento ao Ministro da Integração Nacional, Fernando Bezerra, pela assinatura de ordem de serviço para a construção da Adutora do Algodão, no Estado da Bahia. Importância da obra para o fornecimento de água às populações de municipalidades da região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:333511c6632ea5f7cd1a64a2f15064845ea527f975d242c1f5d3ebdb632a0598
+size 268

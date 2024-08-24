@@ -1,1 +1,3 @@
-Transcurso do terceiro centenário da autonomia político-administrativa do Estado de Minas Gerais. Redução do número de óbitos e contaminados por coronavírus no Estado. Competência da polícia mineira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d44209bbecd879932a957f7eeee8316e42fac70277be41b20a8304ac620d6f9f
+size 208

@@ -1,1 +1,3 @@
-Concessão de audiência, pelo Ministro da Integração Nacional, Fernando Bezerra Coelho, à bancada federal do Estado da Paraíba para discussão de medidas de combate aos efeitos da seca. Ações do Governo Federal em prol das municipalidades atingidas pela estiagem na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:663ea11c2f3e96a3b36b0a8730e0f475fdd3a61b78ae12d9f12b6363c21e184e
+size 290

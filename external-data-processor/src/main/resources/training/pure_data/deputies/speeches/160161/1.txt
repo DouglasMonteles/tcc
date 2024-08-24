@@ -1,1 +1,3 @@
-Anúncio de apresentação de propositura sobre o controle populacional de animais domésticos. Tramitação na Casa do Projeto de Lei nº 8, de 2023, de autoria do orador, sobre a vedação do uso de equinos nas forças policiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6645fd3216b1422bfca808231bd6bd11aa031a7d7ce62a9d376e15f52eee753e
+size 231

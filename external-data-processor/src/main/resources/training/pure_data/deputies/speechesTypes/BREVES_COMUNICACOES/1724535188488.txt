@@ -1,1 +1,3 @@
-Imediata adoção, pelos Governos Federal, Estadual e Municipal, de providências a favor das comunidades atingidas por fortes chuvas na Capital Salvador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:127e471dcccdc9039047a9a41471ef9e10630c8674b1e513a9b1454833fc22c1
+size 154

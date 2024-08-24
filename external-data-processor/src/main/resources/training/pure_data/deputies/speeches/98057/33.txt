@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Proposta de Emenda à Constituição nº 70, de 2011, sobre a alteração do procedimento de apreciação das medidas provisórias pelo Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b0da2e0e5444043b99dabb0d78716d66d67eea411dedcccdd875e007c021419
+size 195

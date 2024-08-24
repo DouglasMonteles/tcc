@@ -1,1 +1,3 @@
-Participação em encontro realizado pela Confederação Nacional de Municípios - CNM. Necessidade de ampliação do repasse de recursos federais aos Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5831358f98dc3cee571ef6b6b2f3db3074a97c208c0a1634e7704a285d187aa8
+size 175

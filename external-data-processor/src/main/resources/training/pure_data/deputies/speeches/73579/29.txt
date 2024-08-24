@@ -1,1 +1,3 @@
-Apelo à Liderança do Governo na Casa, de inclusão na pauta do projeto de lei sobre a criação do Plano de Cargos e Salários da Polícia Militar e do Corpo de Bombeiros Militar do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d490cddd8461adaa2d8df2cefb4992baa00f020a5623d17dc8a4ce1993321ba2
+size 201

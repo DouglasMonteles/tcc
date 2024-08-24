@@ -1,1 +1,3 @@
-Razões da inclusão dos Municípios de Tauá e São Gonçalo do Amarante, Estado do Ceará, no roteiro de expedição de equipe da revista Veja, dedicada a experiências exitosas de empreendedorismo no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cc910966d244f353a616d672abebb17a5dd1ef8ff64239f97270579a6a4ce28
+size 209

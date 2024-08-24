@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 14, apresentada à Medida Provisória nº 1.026, de 2021, sobre as medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e comunicação, comunicação social e publicitária, bem como treinamentos de vacinação, e sobre o Plano Nacional de Operacionalização da Vacinação contra a Covid-19. Protesto contra a retirada do art. 14 do texto da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79748b3504c9bfed6661b80d64bdb6149531440dad59c107adc31a808858d6af
+size 550

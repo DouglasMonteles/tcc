@@ -1,1 +1,3 @@
-Orientação de bancada para votação do requerimento para votação em separado da Emenda nº 109, apresentada à Medida provisória nº 783-A, de 2017, sobre instituição do Programa Especial de Regularização Tributária junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1038081692c646fee72f591eb0996cfa6fea22652ab3365680bdd830805a7cff
+size 320

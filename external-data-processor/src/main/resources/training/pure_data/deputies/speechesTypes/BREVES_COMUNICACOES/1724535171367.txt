@@ -1,1 +1,3 @@
-Inserção do ensino ambiental no currículo escolar do Estado do Rio Grande do Sul. Defesa de criação de fundo ambiental para os pequenos produtores rurais. Prioridade da Casa na votação do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:591cd878d5cae9ebb2bfff0a2d543917994c4ef014372e2f29579285de198d51
+size 229

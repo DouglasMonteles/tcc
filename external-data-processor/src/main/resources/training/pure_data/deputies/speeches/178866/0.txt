@@ -1,1 +1,3 @@
-Sessão solene destinada a comemorar o Dia Internacional da Mulher e agraciar as vencedoras da 14ª premiação do Diploma Mulher-Cidadã Bertha Lutz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fed249183b090c2c435cded273f35b7b57b0a191b1b565b743c99ec565e3111a
+size 150

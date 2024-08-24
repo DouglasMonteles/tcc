@@ -1,1 +1,3 @@
-Associação aos discursos dos Deputados Jair Bolsonaro e Eduardo Bolsonaro sobre a ausência de segurança no País. Carência de viaturas pela Brigada Militar no Município de Canoas, Estado do Rio Grande do Sul. Críticas à gestão dos recursos públicos pelo Departamento Penitenciário Nacional. Inconformismo com decisão da Defensoria Pública do Estado do Rio de Janeiro que proíbe a apreensão de menor infrator fora de flagrante delito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70738ad065d348f2c7a7de54291adc946d3b892db7a41e4c110ae3d93b0306bc
+size 448

@@ -1,1 +1,3 @@
-Presença, na Câmara dos Deputados, do Presidente do Clube dos Oficiais da Polícia e Bombeiro Militar do Estado da Paraíba, coronel Francisco de Assis Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:687c1884a0996a8345fc5cbc71d5b0384ec5d946877c97880c295cb59d6f8428
+size 160

@@ -1,1 +1,3 @@
-Presença, na Casa, do Deputado Estadual Vinícius Camarinha, de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc09b61e44692d07a105e221803e5edb129de2b6da7b2d4fef10ed297f740cbe
+size 76

@@ -1,1 +1,3 @@
-Apelo ao Governador do Estado da Paraíba, Ricardo Coutinho, e ao Secretário Estadual de Saúde, Waldson Dias de Souza, para regularização do pagamento por serviços prestados por centro de hemodiálise em cidade do Sertão da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7df6eaa8b7ec5a72f2293f1e9e1a7964d0a0a3d11e636c2d29d3c59e22001f93
+size 239

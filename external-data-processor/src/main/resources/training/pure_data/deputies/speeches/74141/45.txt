@@ -1,1 +1,3 @@
-Expansão do emprego formal no País, segundo dados do Cadastro Geral de Empregados e Desempregados, recém-divulgado pelo Ministério do Trabalho e Emprego.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aab0b174872ac615d0f21bccf5257098976448911ace7e120d6827e9a38a69b
+size 157

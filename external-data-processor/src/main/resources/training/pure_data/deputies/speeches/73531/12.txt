@@ -1,1 +1,3 @@
-Protesto do Movimento dos Ameaçados por Barragens - MOAB realizado na cidade de São Paulo contra a liberação, pelo IBAMA, das obras da Usina Hidrelétrica de Tijuco Alto, no Vale do Ribeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f99e25a37a0ffaeae008bc00351eea6dc6e45d9a9989f4f29983de6b5a91bbe1
+size 194

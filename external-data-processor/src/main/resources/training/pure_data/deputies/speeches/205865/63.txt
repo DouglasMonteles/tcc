@@ -1,1 +1,3 @@
-Denúncia de ateamento de fogo na região amazônica por organização não governamental, vinculada ao Projeto Saúde e Alegria, com o propósito de incriminação do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72fac6968751b9a9b136a8b23a65ae5f39000d183958cf08022b04aac29cf835
+size 194

@@ -1,1 +1,3 @@
-Congratulações ao Presidente Rodrigo Maia, ao Presidente em exercício dos trabalhos, Deputado Marcos Pereira, e ao Líder do MDB, Deputado Baleia Rossi. Orientação de bancada na votação do substitutivo oferecido pela Relatora da Comissão de Seguridade Social e Família ao Projeto de Lei nº 1.389, de 2020, sobre a transposição e a transferência de saldos financeiros constantes dos Fundos de Assistência Social dos Estados, do Distrito Federal e dos Municípios, provenientes de repasses federais, apurados até dezembro de 2019, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65f8b09ee0a77bae0033d8ffdacef28762cca9c6581231b7c2fd38f046e9abac
+size 569

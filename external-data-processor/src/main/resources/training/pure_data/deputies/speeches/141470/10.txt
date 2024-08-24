@@ -1,1 +1,3 @@
-Imediata votação da Medida Provisória nº 423, de 2008, sobre a liberação de recursos aos Estados atingidos por inundações na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f54a6222b8f5f7b425abe2124f88ee88f418e3507b5f21c8533bc16750b15b6
+size 150

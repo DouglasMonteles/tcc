@@ -1,1 +1,3 @@
-Implementação de política de proteção dos animais pelo Ministério do Meio Ambiente e Mudança do Clima. Expectativa quanto à alocação, pela Câmara dos Deputados, de recursos para a sua transformação em política permanente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bb76049e486ae159507480c0730ebf572acc97e3de136f965f9d9f69caffcac
+size 235

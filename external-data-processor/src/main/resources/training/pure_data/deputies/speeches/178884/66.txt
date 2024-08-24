@@ -1,1 +1,3 @@
-Cobrança ao Governador do Estado do Maranhão, Flávio Dino, de reconhecimento da culpa do Estado pelo assassinato do mecânico Irialdo Batalha, em falha de blitz policial realizada no Município de Vitória do Mearim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adfce8ce0cac6442e600baae7f5be61d809fbb6397a0d5cd21008f79c77166e8
+size 219

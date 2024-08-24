@@ -1,1 +1,3 @@
-Congratulações à Polícia Militar do Estado do Acre. Presença, na Câmara dos Deputados, de policiais rodoviários federais do Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:981d71e4718666a6cb24dda60569dac5552e06584c88bb486d946b659bb72875
+size 152

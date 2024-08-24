@@ -1,1 +1,3 @@
-Transcurso do 92º aniversário de emancipação político-administrativa do Município de Angelim, no Estado de Pernambuco. Concessão ao orador do título de Cidadão Honorário de Angelim. Retomada, pela municipalidade, do protagonismo no cenário político do Agreste pernambucano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a466cb345dddbb719b2ac23483ba17220a2e04e0b39467ad50a3191b43a92633
+size 285

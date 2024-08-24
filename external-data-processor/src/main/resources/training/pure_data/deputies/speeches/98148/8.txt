@@ -1,1 +1,3 @@
-Saudação ao ex-Deputado Federal e ex-Ministro do Trabalho e Previdência Social, Reinhold Stephanes. Vultuosidade das exportações das cooperativas catarinenses do ramo agropecuário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1727703428bf6f92a400cf75df24477599dada6a6884e2e2bb46090902157864
+size 186

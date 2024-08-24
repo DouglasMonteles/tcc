@@ -1,1 +1,3 @@
-Comemoração do 149º aniversário da imigração italiana ao Município de Santa Tereza, no Estado do Espírito Santo. Outorga ao orador do título de Cidadão Teresense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e84428be79ab431c7f4e85757d4ddbed4e6abe70d63c5bca902f2b4661d442f1
+size 172

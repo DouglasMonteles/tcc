@@ -1,1 +1,3 @@
-Destaque do Estado do Ceará na geração de novos empregos, particularmente na Região Metropolitana de Fortaleza. Acerto da política de desenvolvimento integrado adotada pelo Governador Cid Gomes e da política econômica implantada pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4780dd2f10f8e4ff024b463c9d5c9a3200bbabbe5a05c70be99c4c8974b8b92
+size 279

@@ -1,1 +1,3 @@
-Anúncio de reunião da bancada federal do Estado da Bahia com Prefeitos Municipais destinada à discussão sobre a folha de pagamento dos professores. Transcurso do Dia do Professor. Investimentos do Governo Federal em educação e na valorização do magistério. Conflito entre a obrigatoriedade do pagamento do piso salarial profissional nacional para os profissionais do magistério público da educação básica e do cumprimento da Lei de Responsabilidade Fiscal pelos Municípios. Necessidade de legislação relativa ao estabelecimento de novos limites com gastos de pessoal pelo poder público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc493775e3817c54bad9521a7f4777d41f92cf64cb3fa27a8495e0eb20fd77b8
+size 604

@@ -1,1 +1,3 @@
-Avanço da aprovação pela Casa da chamada PEC da Música.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4179ed534597a3f6b4999cb36d0752a6076eda6417abe7349e4c67eb02ecb8f4
+size 59

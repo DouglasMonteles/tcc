@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação da Emenda de Plenário nº 1, apresentada ao Projeto de Lei 6.256, de 2019, que institui a Política Nacional de Linguagem Simples nos órgãos e entidades da administração pública direta e indireta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b912589adaf09d75f38d58ed71063b8af2f586314b78f6bf3d07c15439f5d531
+size 245

@@ -1,1 +1,3 @@
-Participação da oradora em seminário realizado no Município de Camaçari, no Estado da Bahia, a convite do Vereador do PT Tagner Cerqueira, com os agentes de combate a endemias e os agentes comunitários de saúde. Peido de apoio da categoria para a aprovação da Proposta de Emenda à Constituição nº 18, de 2022, sobre o acréscimo do § 9º-A ao art. 198 da Constituição Federal, para criação do piso salarial diferenciado dos agentes comunitários de saúde e dos agentes de combate às endemias detentores de formação técnica, nos termos especificados pela matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e76d0b4b912f307e5fa35f0da6256cc582dcdf6f84b38a31aac28e1dc4fc03ba
+size 586

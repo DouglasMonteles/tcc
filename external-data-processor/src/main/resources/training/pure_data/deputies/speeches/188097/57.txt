@@ -1,1 +1,3 @@
-Repercussão na sociedade brasileira da proposta orçamentária do exercício de 2022, encaminhada ao Congresso Nacional pelo Poder Executivo. Investigação da suspeita de negociações espúrias na venda depreciada da carteira de crédito do Banco do Brasil para o Banco Pactual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a202b35e1479b9270d804ebe4da32fc6271411cbf6ba5f24d11294b84748ebea
+size 281

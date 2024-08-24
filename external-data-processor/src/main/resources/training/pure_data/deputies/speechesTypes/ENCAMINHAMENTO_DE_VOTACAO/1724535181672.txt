@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 25, de 2019, sobre a instituição do Sistema Nacional de Educação - SNE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3ab436086bcd4feaa293ec476196cb9d3243d35e0bfcafe49908f6a6bc6a316
+size 193

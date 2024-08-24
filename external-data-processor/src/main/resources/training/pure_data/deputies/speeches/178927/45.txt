@@ -1,1 +1,3 @@
-Presença no plenário do Deputado Estadual paranaense Márcio Pauliki e do Vice-Prefeito Marcos Bertolini, do Município de Castro, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80f687865930d33478c1639f4ec56f5693e14273a237e9ded7db3ebfc2c07523
+size 151

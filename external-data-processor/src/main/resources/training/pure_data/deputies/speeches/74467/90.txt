@@ -1,1 +1,3 @@
-Solicitação aos Deputados das bancadas dos Estados da Paraíba e de Pernambuco de comparecimento ao plenário para votação do Projeto de Decreto Legislativo nº 1.361, de 2013, sobre a sustação de atos normativos do Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31e54a75f174b488b4c1ea596b5fde1989f049da7a5020adb27642640ac65058
+size 238

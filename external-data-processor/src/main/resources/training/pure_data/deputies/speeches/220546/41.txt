@@ -1,1 +1,3 @@
-O Deputado condenou veementemente a agressão física ocorrida no Parlamento e expressou sua indignação com o comportamento de alguns membros da Esquerda. Destacou que o Deputado Messias Donato, vítima da agressão, é conhecido por sua postura pacificadora, e ressaltou a gravidade do episódio. Enfatizou a necessidade de punição ao agressor e defendeu a cassação do responsável pela agressão como uma medida que demonstraria a aplicação da lei e a preservação da ordem na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7292fcc7c5d2d9de67c24aae506776b58ece074664579cd1a51d516d89e62e6
+size 493

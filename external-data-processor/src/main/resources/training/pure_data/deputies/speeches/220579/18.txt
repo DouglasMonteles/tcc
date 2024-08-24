@@ -1,1 +1,3 @@
-Transcurso do 33º aniversário do Estatuto da Criança e do Adolescente. Descumprimento do papel institucional do ECA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df4506761ef05db90b7af7d399ce6e01add21bfa0f9792fa80e5007140a124b2
+size 119

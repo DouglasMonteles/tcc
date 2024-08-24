@@ -1,1 +1,3 @@
-Decisão, pela Assembléia Legislativa do Estado de Pernambuco, bem como pelo Governo do Estado, favorável a negociação de dívidas de contribuintes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d44fc1370f303aefc123bbc64352a4fa1a3d4d666736a4e0f9c6a84928fee0e5
+size 152

@@ -1,1 +1,3 @@
-Lançamento, pelo Presidente Luiz Inácio Lula da Silva, de conjunto de ações em prol da mulher brasileira. Apresentação do Projeto de Lei nº 953, de 2023, sobre a alteração da Lei nº 10.177, de 2001, com vista à destinação, às microempresas e empresas de pequeno porte administradas por mulheres, de recursos dos Fundos Constitucionais do Norte, do Nordeste e do Centro-Oeste. Repúdio ao discurso proferido por Deputado no plenário ofensivo às mulheres, à democracia e ao Poder Legislativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:376f836bac4a4dd1acea4b0610495b3409183827a6060a59aa1936c010fee468
+size 507

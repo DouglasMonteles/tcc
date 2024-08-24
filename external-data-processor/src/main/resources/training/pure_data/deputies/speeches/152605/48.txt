@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Ciência e Tecnologia, Comunicação e Informática, do Projeto de Lei nº 3.797, de 2008, sobre a utilização da telefonia móvel para localização de pessoas desaparecidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cba312542508a794ce795b0c56f23394ac9eb4b35ca43302aea4bc46b9c40e88
+size 207

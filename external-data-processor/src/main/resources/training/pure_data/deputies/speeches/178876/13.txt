@@ -1,1 +1,3 @@
-Aumento da violência com a precariedade da segurança pública no País. Solicitação ao Ministério da Justiça de recolocação de tropas da Força Nacional para patrulhamento na região do Entorno de Brasília, Distrito Federal, com alto índice de criminalidade. Transcurso do Dia do Médico Legista - 7 de abril.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b230d57c09ca290d2ceb86388655a77453689d412bafa1a28145ec83355da53
+size 319

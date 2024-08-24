@@ -1,1 +1,3 @@
-Contestação aos discursos de Deputados petistas contra o Governador do Estado de Minas Gerais, Romeu Zema. Indignação do orador com a adesão do Republicanos ao governo petista. Inconsistência das alegações apresentadas pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes, para a prisão do ex-Diretor-Geral da Polícia Rodoviária Federal, Silvinei Vasques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a41e5ce318fd6d1cd3b21ac00b9c6e951aca8ec3ad1c09371aa8ec6c429e9d71
+size 376

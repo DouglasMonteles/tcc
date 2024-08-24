@@ -1,1 +1,3 @@
-Perspectiva de não cumprimento da meta do Plano Nacional de Educação relativa à redução do analfabetismo no País. Urgente necessidade de retomada dos investimentos do Governo Federal no Programa Brasil Alfabetizado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d89d3a223cebeff45e02e29202f803d24e0ff8ca9754491cdeea64b0ce792c5
+size 222

@@ -1,1 +1,3 @@
-Comemoração do 71º aniversário de criação do Estado de Israel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68d7f5cc578e8ec55874f73a081534315fd817d3f8a0e274d9d2d243a7b9f98a
+size 68

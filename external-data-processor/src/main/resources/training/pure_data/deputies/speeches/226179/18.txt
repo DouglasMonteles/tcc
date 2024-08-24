@@ -1,1 +1,3 @@
-A Deputada discorreu sobre a questão da violência contra a mulher no Brasil, destacando o início da campanha dos 21 dias de Ativismo pelo Fim da Violência Contra a Mulher. Ressaltou dados alarmantes sobre a prevalência da violência física, psicológica e patrimonial contra mulheres no País. Ademais, elogiou o lançamento do programa Defesa Lilás pelo partido União Brasil, uma iniciativa permanente de combate à violência contra a mulher, que será implementada nacionalmente. Além disso, convidou as mulheres de Mato Grosso para o evento de lançamento do programa no Estado. Por fim, alertou para a necessidade de conscientização e medidas de segurança efetivas para combater a violência doméstica e a impunidade no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd8ff162d371b39b9211f068f230ce55e636128798518c432c73a209739cc35c
+size 745

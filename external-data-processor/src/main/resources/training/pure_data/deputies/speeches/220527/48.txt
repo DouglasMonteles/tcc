@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à dirigente sindical Valéria Cristina, em visita à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31a92285508d5bdf580982ad65785aa407a35398f7d8129c40dca050364db0b8
+size 106

@@ -1,1 +1,3 @@
-Realização da 34ª Exposição Agropecuária, Industrial e Comercial de Jequié e 11ª Exposição Nacional, no Município de Jequié, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a60a0b3e9462a240a8a30af18de2987126b4bf5e80924cb7a8dbf59ee005cae
+size 153

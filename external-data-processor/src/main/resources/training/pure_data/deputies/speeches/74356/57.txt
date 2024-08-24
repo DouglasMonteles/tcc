@@ -1,1 +1,3 @@
-Precariedade do abastecimento de energia elétrica em Municípios do Estado do Amazonas. Envio de tropas da Força Nacional de Segurança Pública a Municípios situados na fronteira do Amazonas. Conquista pelo Município de Tabatinga da Copa dos Rios de Seleções de 2009.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e5178a5f853e229f9fbc2366106676020a183e49a51ace46398acc8b0b8e923
+size 274

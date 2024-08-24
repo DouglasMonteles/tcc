@@ -1,1 +1,3 @@
-Realização da etapa estadual de Sergipe do 5º Congresso Nacional do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c71556c50f744a5438016faf1804b6be973950cb119c63d11bad4c1cad878c9
+size 74

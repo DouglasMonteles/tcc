@@ -1,1 +1,3 @@
-Orientação de bancada do PROS favorável ao substitutivo da Comissão Especial da Projeto de Lei nº 4.850-A, de 2016, que estabelece medidas contra a corrupção e demais crimes contra o patrimônio público e combate o enriquecimento ilícito de agentes públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15d47a2bcee2803d572c407c5cf923a2ce4b3410a55b0c0f5b600fdfd9ad3c2a
+size 268

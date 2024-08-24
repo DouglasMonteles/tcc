@@ -1,1 +1,3 @@
-Desconexão entre o discurso petista e a realidade do povo brasileiro. Gastos excessivos de dinheiro público pelo Presidente Luiz Inácio Lula da Silva. Declaração de voto contrário à aprovação do Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022, (novo arcabouço fiscal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8baa09573cba1a66fb38a850e5027ddaab1116b9b75fcb18be30d62bb8772320
+size 531

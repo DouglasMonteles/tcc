@@ -1,1 +1,3 @@
-Realização da Marcha a Brasília em Defesa dos Municípios. Importância do atendimento à pauta de reivindicações dos participantes no evento.  Saudações à Federação dos Prefeitos do Estado do Maranhão, na pessoa do Prefeito Erlanio Xavier, do Município de Igarapé Grande.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31ecdf668c69aae39fc0f81d7952a375fd09eaf6601185865960d9af69d59e7e
+size 285

@@ -1,1 +1,3 @@
-Questão de ordem sobre aplicação ao Presidente interino da Câmara dos Deputados, Deputado Waldir Maranhão, de dispositivo regimental relativo à suspensão de Parlamentar em caso de comprovação de incapacidade civil absoluta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13e9aa6a7f08ca58e48c953ec0e0eba7dfa2931d200b0e5b2ffaa9fa92158f2a
+size 232

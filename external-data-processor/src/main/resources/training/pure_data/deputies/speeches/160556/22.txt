@@ -1,1 +1,3 @@
-Agradecimento à Câmara de Vereadores de Mariana, Estado de Minas Gerais, pela concessão ao orador do Diploma de Honra ao Mérito 300 anos do Legislativo Marianense. Agradecimento ao Prefeito Municipal de Mariana e ao Governador de Minas Gerais pela outorga da Medalha Dia de Minas ao Parlamentar. Indicação da coordenadora do Sindicato Único dos Trabalhadores em Educação de Minas Gerais -  Sind-UTE, Beatriz Cerqueira, para recebimento da Medalha do Mérito Legislativo. Apelo ao Governador do Estado de Minas Gerais de abertura de negociações com os profissionais da educação em greve. Defasagem salarial dos professores em Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea72fa17ad98226b228cf71ce2d4d62ba9f9c195cd9dae4db138777b646cb56f
+size 651

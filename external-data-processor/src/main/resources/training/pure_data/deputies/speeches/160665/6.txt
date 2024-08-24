@@ -1,1 +1,3 @@
-Imediata votação do Projeto de Lei nº 7.571, de 2010, do Senado Federal, sobre o estabelecimento do prazo prescricional de 10 anos para os crimes de improbidade administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee64b945030844382ca3b252bbcf02050da56805cee4057aea2382ff75edfa59
+size 179

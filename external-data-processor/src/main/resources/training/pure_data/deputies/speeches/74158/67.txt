@@ -1,1 +1,3 @@
-Necessidade de respeito ao profissional de educação no Brasil. Apoio à causa dos permissionários de agências lotéricas do País. Anúncio de realização de audiência pública na Casa para debate da facilitação de locomoção de pessoas com deficiência pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a2c609beecd22141bd2e46a8a114e8200d65667f95eb90b157d580c09680433
+size 272

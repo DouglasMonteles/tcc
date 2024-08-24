@@ -1,1 +1,3 @@
-Congratulação à Justiça Federal de Brasília pela suspenção da nomeação do ex-Presidente da República Luiz Inácio Lula da Silva como Ministro-Chefe da Casa Civil da Presidência da República. Agradecimento aos Deputados pela postura diante do Governo. Pedido de renúncia da Presidente da República, Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0d54d673ec09e96f13b4f67e27edf2fa78ac6cd42c3634540ab14c670f7de65
+size 327

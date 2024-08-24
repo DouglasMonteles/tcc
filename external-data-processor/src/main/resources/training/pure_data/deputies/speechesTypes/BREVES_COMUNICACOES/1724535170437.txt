@@ -1,1 +1,3 @@
-Celebração de missa gratulatória nas imediações do Memorial JK, como parte das comemorações do cinquentenário de fundação de Brasília. Transcurso do Dia Mundial da Liberdade de Imprensa. Realização da 9ª Bienal Internacional do Livro do Ceará, em Fortaleza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f89e7919745d6b0d9fceb092309d854b6aeb2f32da6a4c1527da6c81a873a81e
+size 272

@@ -1,1 +1,3 @@
-Padronização visual de veículos usados nos serviços de táxis em Brasília. Impugnação, pelo Tribunal de Contas do Distrito Federal, de edital de licitação de concessões de serviços de táxi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65a2fbf2a31a7c44e486554f26c3983d0433819cee0bb05b30c4de43c336a4bd
+size 201

@@ -1,1 +1,3 @@
-Posicionamento  favorável do  PP  ao Substitutivo à    PEC  471 de 2005 (Dá nova redação ao parágrafo 3º do art. 236 da Constituição Federal para estabelecer a efetivação para os atuais responsáveis e substitutos pelos serviços notariais, investidos na forma da lei), em votação em primeiro turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecade46554766abcf1252ee8c866cd2aa437cc548a490c0b08d746cdb345fc02
+size 312

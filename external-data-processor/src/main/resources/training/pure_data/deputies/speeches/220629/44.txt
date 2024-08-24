@@ -1,1 +1,3 @@
-A Deputada protestou contra a ausência de ações efetivas do Governo de Minas Gerais, da Prefeitura de Uberlândia e de outras prefeituras mineiras para garantir proteção e a hidratação da população diante da intensa onda de calor. Destacou a falta de acesso à água potável em diversas escolas de Uberlândia, mencionando especificamente a Escola Jacy de Assis, no bairro Grande São Jorge. Enfatizou a necessidade urgente de intervenção para resolver a escassez de água em diversos bairros, especialmente nas áreas periféricas da cidade. A oradora fez apelo ao Governador Romeu Zema e ao Prefeito Odelmo para que instalem bebedouros públicos, melhorem as condições de transporte e da infraestrutura as escolas de Uberlândia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ce9898f1bf95ecfc4118b5254fc4746aaf951f9c4df6c1749226bc9e76eff5b
+size 745

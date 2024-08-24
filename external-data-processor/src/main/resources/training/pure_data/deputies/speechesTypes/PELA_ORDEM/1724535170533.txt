@@ -1,1 +1,3 @@
-Anúncio da apresentação de projeto de lei extensivo aos professores dos Estados brasileiros de abono salarial concedido à classe no Distrito Federal e nos Estados de São Paulo e Rio de Janeiro. Não fechamento da Biblioteca a Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8dabd5dc1e379b7435b8a78f1016ed2a555233878fc68f2ed3bfba75d3baf5e
+size 258

@@ -1,1 +1,3 @@
-Cobrança exorbitante de tarifas bancárias no País. Baixa qualidade dos serviços prestados pelos bancos no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75c8d98a7651fc29c839a42eacaa5099c98564b3c465624c2f8db74f3270ed02
+size 127

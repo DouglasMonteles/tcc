@@ -1,1 +1,3 @@
-Anúncio de votação, pela Comissão de Finanças e Tributação, do requerimento de convocação do Presidente do Banco Central, Roberto Campos Neto, para esclarecimento das taxas de juros adotadas pela instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ea2978ec6e619a94ffeb3530e54b479b737011c010110f89e617ec6b0893f5a
+size 219

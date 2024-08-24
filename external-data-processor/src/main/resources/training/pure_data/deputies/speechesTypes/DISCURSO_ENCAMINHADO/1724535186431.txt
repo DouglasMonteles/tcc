@@ -1,1 +1,3 @@
-Escalada da violência nas escolas brasileiras. Dever do Congresso Nacional de implementação de medidas destinadas ao restabelecimento da paz no ambiente escolar. Defesa da realização de investimentos em mecanismos de segurança e controle do acesso às escolas. Urgente necessidade de garantia de segurança psicológica para a comunidade escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1000164fade20f9b8a558b55aecd5c3e0b11ba5877a920fd288a93a4516a49f
+size 352

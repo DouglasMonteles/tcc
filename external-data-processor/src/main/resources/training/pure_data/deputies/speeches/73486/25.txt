@@ -1,1 +1,3 @@
-Falecimento do Senador Jefferson Peres. Morosidade na edição de medida provisória sobre a renegociação das dívidas dos produtores rurais brasileiros. Medidas necessárias para a melhoria da situação dos agricultores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ed01f668b9f917920930ae42b365683a56d7a0af42321b46a972ca15a1badef
+size 224

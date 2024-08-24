@@ -1,1 +1,3 @@
-Regozijo com a classificação alcançada pelo Prefeito José Dias, do Município de Jaborandi, Estado da Bahia, junto ao Índice FIRJAN de Gestão Fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6dc76f01e71ef0c98fde4dafdcf89c615fbe3cd8bc4190bab795d0f31fbc421
+size 155

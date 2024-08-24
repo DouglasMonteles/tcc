@@ -1,1 +1,3 @@
-Protesto contra a apresentação, à Comissão de Cultura, de projeto de lei sobre a inscrição do nome do guerrilheiro Carlos Marighella no Livro dos Heróis e Heroínas da Pátria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba3840bbf4b63a1a2e0d5965b77ab68797a9df8491f6d1c23b9530683570d33b
+size 183

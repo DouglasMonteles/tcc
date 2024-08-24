@@ -1,1 +1,3 @@
-Defesa ao Projeto de Lei Complementar nº 343, de 2017, que institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2b6afa250358dc078e0801890535f94c44598553d8a5fb052af14508c2c78d8
+size 136

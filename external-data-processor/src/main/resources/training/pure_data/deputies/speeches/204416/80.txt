@@ -1,1 +1,3 @@
-Homenagem à Deputada Carmen Zanotto, ao ensejo do seu afastamento para assunção da Secretaria de Estado da Saúde de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81d52b7ca3f55407a87d2bd603a1d446ce43def0d4f71bf20dc18404c711b3dc
+size 135

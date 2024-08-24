@@ -1,1 +1,3 @@
-Inauguração, na cidade de São Paulo, da loja Armazém do Campo, organizada pelo Movimento dos Trabalhadores Sem - MST, com venda de itens da agricultura familiar. Participação do orador e convite à população para o Fórum Social e Parlamentar de Direitos Humanos pela Democracia, na Câmara Municipal de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2ef2178ab37cb8d22c36133fc98a8b9b3ac78614860a72518400406d575655a
+size 323

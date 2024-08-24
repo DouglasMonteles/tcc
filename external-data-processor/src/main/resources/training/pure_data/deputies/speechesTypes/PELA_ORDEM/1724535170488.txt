@@ -1,1 +1,3 @@
-Comemoração do 14º aniversário de emancipação político-administrativa dos Municípios de Jatobá e Santa Filomena, Estado de Pernambuco. Transcurso do 50º aniversário de fundação da Rádio Pajeú, instalada no Município de Afogados de Ingazeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e62313493da9d57798a8b176db141bdef3e60e159775321e3904901f3172c05a
+size 257

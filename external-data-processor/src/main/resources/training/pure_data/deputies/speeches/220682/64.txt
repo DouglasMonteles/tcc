@@ -1,1 +1,3 @@
-O Deputado reprovou a atuação de Israel na guerra contra o Hamas na Faixa de Gaza, lamentando a morte de crianças em bombardeios, a falta de anestesia, água e alimentos para a população civil bem como a transformação da região em um campo de concentração a céu aberto. Ademais, censurou a cumplicidade do silêncio da imprensa e de todos que se omitem a respeito dos sofrimentos do povo palestino. Adicionalmente, elogiou a posição equilibrada do Presidente Lula em prol de uma saída negociada, condenando tanto os atos terroristas do Hamas como o terrorismo de Estado da extrema direita israelense. Defendeu ainda a existência de dois Estados independentes, conforme decisão da ONU. Por último, definiu como genocídio a proibição de o Egito permitir a fuga da população civil palestina para seu território.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e45c3b67fd8d18876c90977080346f638e936dc7ea856bdadb0269a783461001
+size 831

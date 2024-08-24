@@ -1,1 +1,3 @@
-Apresentação do Projeto de Decreto Legislativo nº 33, de 2022, para sustação dos efeitos do Decreto nº 10.966, de 2022, editado pela Presidência da República, sobre a instituição do Programa de Apoio ao Desenvolvimento da Mineração Artesanal em Pequena Escala e da Comissão Interministerial para o Desenvolvimento da Mineração Artesanal em Pequena Escala. Aumento em 342% da garimpagem no Estado do Amazonas durante o Governo Jair Bolsonaro. Danos causados ao meio ambiente pela atividade garimpeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b062f0f20f0cfb6f3ec0cf328187bf754c3c5258e69ae091b8898d353a5657fd
+size 515

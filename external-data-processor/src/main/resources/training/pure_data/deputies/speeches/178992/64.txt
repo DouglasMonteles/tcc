@@ -1,1 +1,3 @@
-Transcurso do 365º aniversário do Município de Sorocaba, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84296dc3efdc7b0b9f493ccf7943eefe61881ae7a393d575d8fc68c3611942fe
+size 81

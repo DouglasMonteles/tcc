@@ -1,1 +1,3 @@
-Elogio do ex-Presidente Luiz Inácio Lula da Silva ao Partido Comunista da República Popular da China. Retrospecto de fatos políticos ocorridos naquele país no último século. Prepotência do Partido Comunista Chinês. Condenação, pelo Supremo Tribunal Federal, de Ministros de Estado nomeados pelos governos petistas. Descompasso entre a tentativa de criminalização do Presidente Jair Bolsonaro, a negligência na investigação de Governadores Estaduais, e a preservação do sigilo bancário do ex-militante político Adélio Bispo de Oliveira, autor do ataque ao então presidenciável Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b387137c5f2d2025530a2570a26775072616b0dc7d8391d4c39db609b586fec
+size 613

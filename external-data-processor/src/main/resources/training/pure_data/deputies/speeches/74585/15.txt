@@ -1,1 +1,3 @@
-Transcurso do 80º aniversário de fundação do jornal Estado de Minas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bd07257dc9d902c34aef6ec009d5c5995468f8d8cd54585ceffa1c3d7be3c38
+size 72

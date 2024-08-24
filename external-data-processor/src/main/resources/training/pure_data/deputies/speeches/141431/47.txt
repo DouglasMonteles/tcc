@@ -1,1 +1,3 @@
-Relato das atividades desenvolvidas pelo Governador do Estado de Pernambuco, Eduardo Campos, durante visita a municípios interioranos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8deb082b58e993a6cffb1fa877154a8c555ab3ed9ae6e786eca206323e64313
+size 135

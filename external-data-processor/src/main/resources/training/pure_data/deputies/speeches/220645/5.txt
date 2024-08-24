@@ -1,1 +1,3 @@
-Contestação ao discurso proferido no plenário sobre a tentativa de impedimento de pregações do Evangelho, pela oradora e pelo Senador Fabiano Contarato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:476809bbc11638545b08b940f982f3ff4d96aab89da7f3c41d210b79bc719f3d
+size 157

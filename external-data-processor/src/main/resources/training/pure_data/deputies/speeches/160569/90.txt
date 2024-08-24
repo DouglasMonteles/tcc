@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 2.331, de 2011, acerca da destinação de 10% das vagas nos Institutos Federais de Educação, Ciência e Tecnologia - IFETs para alunos oriundos da agricultura familiar. Concessão, pela Comissão de Educação e Cultura, do Prêmio Darcy Ribeiro de Educação ao Governador do Estado da Bahia, Jaques Wagner, pela implantação do Programa Todos pela Alfabetização - TOPA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe51433112aa2badd68598108b74e088cb2f36ca9c5b389cb290d07df050c048
+size 413

@@ -1,1 +1,3 @@
-Propósito do Governo Renato Casagrande de celeridade nas ações do Programa de Incentivo ao Investimento no Estado do Espírito Santo - INVEST/ES.  Diretrizes e metas do Programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56142e345752c6d637b0eefe320203443ea2e856408cfbbd090fdea3a95d099d
+size 181

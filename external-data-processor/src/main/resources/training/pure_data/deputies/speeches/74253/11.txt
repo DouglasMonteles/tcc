@@ -1,1 +1,3 @@
-Apoio à indicação do Senador Vital do Rêgo ao cargo de Ministro do Tribunal de Contas da União - TCU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97e832288e43a3489d1a31d544ac6803202892b7eb2bf6c67e470f64576a52bf
+size 106

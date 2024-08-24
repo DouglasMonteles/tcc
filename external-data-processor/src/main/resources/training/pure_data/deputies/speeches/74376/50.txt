@@ -1,1 +1,3 @@
-Lançamento do Programa MS Forte no Estado de Mato Grosso do Sul. Utilização política do programa pelo Governo Estadual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b192c8adaf1825423c60cdd36751746596f6f62387939b5998202cba63b84ad
+size 123

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 4º constante da emenda do Senado Federal ao Projeto de Lei nº 2.999, de 2019, sobre a antecipação do pagamento dos honorários periciais em ações do Instituto Nacional do Seguro Social - INSS, com vistas à sua rejeição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7f5b4716a666eeb69b5dbe0a503bb64166097fdffd82cf8ea015f9d6a85a537
+size 328

@@ -1,1 +1,3 @@
-Necessidade de exame meticuloso, pelo Governo brasileiro, do pedido de produção de vacina contra a febre aftosa encaminhado ao Ministério da Agricultura, Pecuária e Abastecimento por laboratório da Argentina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:182478dd15c0f880d82acac58c7fd162c03404058e33c21fdf170cd362b21bb8
+size 213

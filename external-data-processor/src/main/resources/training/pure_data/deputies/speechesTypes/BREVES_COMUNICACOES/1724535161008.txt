@@ -1,1 +1,3 @@
-Transcurso do 10º aniversário de criação da Guarda Civil Municipal de Praia Grande, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:443808718e5cb6a53563833736dfd59babd333746619dba9b883ec936db24713
+size 109

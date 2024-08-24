@@ -1,1 +1,3 @@
-Realização pela Comissão de Constituição e Justiça e de Cidadania de debate sobre a proposta de criação do Estatuto da Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4de8655595f4f887f21ef29874499240f3db031dd17681d7024003d51a9e810
+size 136

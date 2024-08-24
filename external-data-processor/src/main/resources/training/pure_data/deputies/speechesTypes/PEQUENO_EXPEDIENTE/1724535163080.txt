@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 1.721, de 2019, sobre a obrigatoriedade de oferta dos serviços de telefonia móvel e Internet ao longo das rodovias federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6b1a59bad2e0cb8d57d99dd6e5d7aba5b2195218eb42c59c1c9c21f6e8c9079
+size 163

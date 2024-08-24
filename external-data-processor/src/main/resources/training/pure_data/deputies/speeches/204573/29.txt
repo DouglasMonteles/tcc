@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 36, apresentada ao Projeto de Lei nº 3.364, de 2020, sobre a alteração da Lei nº 10.233, de 2001; e o repasse de recursos aos Estados, aos Municípios e ao Distrito Federal, em caráter emergencial, diante do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 2020, com vista à garantia da prestação dos serviços de transporte público coletivo de passageiros, e do reequilíbrio de contratos impactados pela epidemia da Covid-19. Agradecimento ao Relator Hildo Rocha pelo acatamento de emenda do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a404175a9653e8483cabdb7867fa937fec1bae7f62ce89036fced0418b3fd7ca
+size 657

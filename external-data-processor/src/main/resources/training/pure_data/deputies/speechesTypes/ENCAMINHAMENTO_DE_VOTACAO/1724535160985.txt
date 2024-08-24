@@ -1,1 +1,3 @@
-Responsabilidade do Presidente Jair Bolsonaro pelas queimadas e desmatamento na Amazônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24837adc1ab53ce8fecce0379dd527651691ae912c0e8341a751ceec648b6be8
+size 90

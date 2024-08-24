@@ -1,1 +1,3 @@
-Sessão solene em homenagem à data nacional da criação do Estado de Israel.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3876f215249a03fc9d5eaee3d440020cba23a68f14d1778f4d20254f37edd695
+size 227

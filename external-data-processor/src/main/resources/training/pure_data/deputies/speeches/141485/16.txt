@@ -1,1 +1,3 @@
-Posicionamento contrário do PTB ao  Requerimento de retirada da pauta da Ordem do Dia das  Emendas do Senado ao Projeto de Lei de Conversão 16 de 2009 (Medida Provisória 466 de 2009), que dispõe sobre os serviços de energia elétrica nos Sistemas Isolados e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1b3cf7750a90003007097ae4edfcfa5e7ac9c844e3258d0b489bf0df44c32ad
+size 288

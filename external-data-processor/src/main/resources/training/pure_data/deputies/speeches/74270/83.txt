@@ -1,1 +1,3 @@
-Presença, na Casa, de alunos do Colégio Delta, do Município de Anápolis, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdcffd4f19c3ccc41aca1a88cb9ca227be758ac98ec9c67f583b048b28b4e766
+size 94

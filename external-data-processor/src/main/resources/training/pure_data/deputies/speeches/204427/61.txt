@@ -1,1 +1,3 @@
-Apelo ao Presidente Luiz Inácio Lula da Silva e ao Ministro da Previdência Social, Carlos Lupi, de imediata convocação de candidatos aprovados em concurso público do INSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f151488002489f21918feaf438e03d9853de5a92510509872c5e7eddd753524e
+size 176

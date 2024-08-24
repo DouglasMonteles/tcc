@@ -1,1 +1,3 @@
-Renúncia do Presidente de Cuba, Fidel Castro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:834b4b982837aa0608a616a6f3c33c65854c34ceb2b13b6e004321824ee39447
+size 46

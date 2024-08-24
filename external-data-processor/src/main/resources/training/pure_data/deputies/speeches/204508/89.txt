@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Resolução nº 43, de 2021, sobre a denominação de Deputado Bonifácio de Andrada à Ala A do pavimento térreo do Anexo II da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08359533196edaf96f7a5b45b00a9ca9a4cd5dae6648fca6838db740b75f9f1f
+size 258

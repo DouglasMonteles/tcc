@@ -1,1 +1,3 @@
-Trajetória profissional e política do orador. Compromisso de atuação parlamentar em prol da pacificação e do desenvolvimento do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1798bd950903c811b581da2db53afd90d06a99960799cb62f53be61d36ba1271
+size 140

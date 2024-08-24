@@ -1,1 +1,3 @@
-Posicionamento do orador sobre relatório das Forças Armadas brasileiras acerca da segurança das urnas eletrônicas utilizadas nas eleições de 2022. Parcialidade das decisões do Presidente do Tribunal Superior Eleitoral, Ministro Alexandre de Moraes, especialmente benéfica à campanha do candidato esquerdista a Presidente da República, Luiz Inácio Lula da Silva. Expectativa de manifestação do Congresso Nacional sobre a perseguição do TSE a perfis de direita nas redes sociais. Exigência ao Senado Federal de análise de pedidos de impeachment de Ministros do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5b8cbc97d9ea2faaf5b96ab7fc0aace0d0ddc23a4a4c325a273a1e3ba9ca9a5
+size 601

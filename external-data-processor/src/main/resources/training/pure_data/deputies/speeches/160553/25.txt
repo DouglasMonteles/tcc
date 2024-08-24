@@ -1,1 +1,3 @@
-Participação da Ministra do Desenvolvimento Social e Combate à Fome, Tereza Campello, em reunião da Comissão de Seguridade Social e Família destinada ao debate sobre o Sistema Único de Assistência Social - SUAS e o Plano Brasil Sem Miséria. Crise enfrentada por creches comunitárias em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5df395d15e995eb70ec3747097f3864b99a739a9df7f4cb21b7a33e177eff7f
+size 322

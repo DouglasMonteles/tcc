@@ -1,1 +1,3 @@
-Apelo ao Ministério Público do Trabalho por não fechamento das chamadas casas de farinha, no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d435467a7d11cf56a883a02919c7f8488a27d2a117af77d6ee6aac9922165db0
+size 114

@@ -1,1 +1,3 @@
-Regozijo com decisão do Governo Federal de recomposição dos recursos do Fundo de Participação dos Municípios - FPM. Defesa da aprovação da Emenda nº 8 à Medida Provisória nº 460, de 2009, apresentada pelo PCdoB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:487e88b017a00c9ba54dcae41c9e3c017c0dba7cd243abdfb5ac263c07fff1a5
+size 223

@@ -1,1 +1,3 @@
-Aplausos ao Presidente Jair Bolsonaro pela liberação de crédito aos caminhoneiros autônomos e pela realização de investimentos na malha rodoviária brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e0b0fc1fabf8df0442e50d2a7718b84431d05846ab4a6644cc19b24be985888
+size 165

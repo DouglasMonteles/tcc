@@ -1,1 +1,3 @@
-Necessidade de recuperação das BRs-020 e 116, no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08e7d6673b8e18f3fc85aee9e1d1d72acf4f4387ee5b88c977e26571dadd918b
+size 68

@@ -1,1 +1,3 @@
-Maior atenção ao setor de derivados de petróleo no processo de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdbc84a2b8633da76acba8ab7b98cfe9b57db4b9180c95845a38b6b8c0c4c0cd
+size 86

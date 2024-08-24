@@ -1,1 +1,3 @@
-Obstrução das votações pelo PT, em protesto contra o corte de recursos destinados às universidades federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18244fa381c233f460d52972847ec9ae783dfe81d3faec69f0f06a0952562154
+size 113

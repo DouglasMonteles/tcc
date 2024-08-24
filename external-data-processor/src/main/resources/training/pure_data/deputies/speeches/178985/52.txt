@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Imigrante Italiano. Trajetória familiar do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26c8fde0ba154a94c108a628c9b33583e8adec488bb599e2c55ea25cac6eeb78
+size 81

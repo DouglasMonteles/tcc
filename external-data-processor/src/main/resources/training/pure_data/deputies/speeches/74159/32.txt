@@ -1,1 +1,3 @@
-Conveniência de suspensão da sessão para exame do texto da Emenda Substitutiva Global de Plenário ao  Projeto de Lei   1.876  de 1999 (Dispõe sobre Áreas de Preservação Permanente, Reserva Legal, exploração florestal e dá outras providências - Novo Código Florestal Brasileiro).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d7e2e2a828c22a8f89e3766fc97c1983c2d61bb1c12695855f5f98efa3a03d6
+size 291

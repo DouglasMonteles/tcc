@@ -1,1 +1,3 @@
-Dificuldades dos cacauicultores para acesso ao crédito novo, especialmente no Estado da Bahia, em face da não renegociação de suas dívidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a69e5890b36f29e1d012126e526aa5c0cbc42b0aa9b8cff972f5000d79bcb11d
+size 144

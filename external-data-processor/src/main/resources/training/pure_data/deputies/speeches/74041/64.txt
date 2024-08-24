@@ -1,1 +1,3 @@
-Elogio à Ministra-Chefe da Casa Civil da Presidência da República, Dilma Rousseff, pelo depoimento prestado na Comissão de Serviços de Infra-Estrutura do Senado Federal. Acerto da demarcação da reserva indígena Raposa Serra do Sol, no Estado de Roraima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd6f0fce73ba42f05e2124963d810aae52b5f38efee22e885eb62fa0c095c532
+size 261

@@ -1,1 +1,3 @@
-Apoio à eleição da Sra. Carmen Gandarela à Prefeitura Municipal de Madre de Deus, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f7fbb201a82caa34bd6742c44e5b5fc87450f875747e1abc8393240a01021b1
+size 102

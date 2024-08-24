@@ -1,1 +1,3 @@
-Defesa de retomada das negociações a respeito da fusão entre o Grupo Pão de Açúcar e os supermercados Carrefour, com a participação do BNDES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fd16fbb88441086190914de681ca7fbff8e324726fa1cf93c391c330767eeef
+size 149

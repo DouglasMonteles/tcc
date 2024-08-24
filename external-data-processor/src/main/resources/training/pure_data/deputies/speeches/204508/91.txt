@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas do Senado Federal ao Projeto de Lei nº 1.605, de 2019, acerca da instituição do Estatuto da Pessoa com Câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:716e73dc2cf7cf2408043c6ae7c4db116e38937d7857c3a390e606532a2a5e8e
+size 146

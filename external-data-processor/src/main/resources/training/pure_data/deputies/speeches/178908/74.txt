@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Josué Bengtson. Contrariedade à redução da alíquota de royalties da produção de minério.
+version https://git-lfs.github.com/spec/v1
+oid sha256:685b18a4d9b1aad872e9297baa8baff9c1164de44eb56ef54b7f827b8f6f4217
+size 139

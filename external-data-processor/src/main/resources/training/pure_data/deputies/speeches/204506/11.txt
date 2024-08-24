@@ -1,1 +1,3 @@
-Improcedência da questão de ordem formulada pelo Deputado Paulo Ramos, a respeito da incidência de efeitos administrativos sobre a Presidência da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:107747f2500c8d0a622772f5512ff53de3cb0bf0afd8b4a927c3e58df74ba7be
+size 155

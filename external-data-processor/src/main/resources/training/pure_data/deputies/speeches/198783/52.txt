@@ -1,1 +1,3 @@
-Prevalência de interesses internacionais na definição das políticas de exploração e comercialização de petróleo e gás natural no Brasil. Fator determinante do reajuste nos preços de combustíveis e do gás de cozinha. Necessidade de atendimento aos interesses nacionais pela PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb73e2f6e8adeb2b5bf5f97dccf06078f0068d84ecd029f50b16c2db048250a7
+size 296

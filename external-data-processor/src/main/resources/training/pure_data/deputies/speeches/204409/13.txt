@@ -1,1 +1,3 @@
-Protesto contra o elevado preço do pedágio rodoviário estabelecido pela Empresa Concessionária de Rodovias do Sul S/A - ECOSUL, no Estado do Rio Grande do Sul. Pedido ao Tribunal de Contas da União - TCU, de realização de auditoria no contrato celebrado com a concessionária ECOSUL. Ajuizamento de medida cautelar para suspensão do reajuste de 8% nos preços de pedágio rodoviário na região sul do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2b957064bd876a67abff1d98f6e03c5862dcd7ae34efe33a212ae94df22c1b5
+size 417

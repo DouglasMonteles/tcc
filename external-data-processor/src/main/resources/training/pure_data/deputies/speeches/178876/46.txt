@@ -1,1 +1,3 @@
-Repúdio à inclusão, pelo Governo Federal, do Ministério da Saúde dentre os Ministérios negociáveis com vistas à obtenção de governabilidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b73302f54d248e69b88b3aeb0b66db281b1988fb8f4426bb63e0deb768711fa9
+size 150

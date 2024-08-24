@@ -1,1 +1,3 @@
-Balanço da atuação parlamentar do orador. Morosidade na aprovação do requerimento para tramitação em regime de urgência do projeto de lei sobre a criação de plano de cargos e salários da Polícia Militar e do Corpo de Bombeiros Militar do Distrito Federal.  Alerta sobre os riscos da aprovação da Proposta de Emenda à Constituição nº 300, de 2008, sobre a equiparação entre os soldos dos policiais militares dos Estados e do Distrito Federal. Envolvimento de crianças com a criminalidade. Contingenciamento de recursos do Fundo Nacional de Segurança Pública. Retorno do orador à Secretaria de Transportes do Governo do Distrito Federal. Desempenho do orador à frente da Pasta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24356c6b8d3abe585b37077ec3655b545af397ac3ec3e3238cfacc566e8cc728
+size 700

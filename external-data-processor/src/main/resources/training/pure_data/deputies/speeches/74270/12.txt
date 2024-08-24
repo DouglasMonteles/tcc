@@ -1,1 +1,3 @@
-Registro da presença na Casa de comitiva de autoridades civis da República Eslovaca, acompanhada por seu Embaixador no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:109fa2dc5071d9f8e385cb40ca7ac035b2519e2cef19472c2524f6e6d0ca741b
+size 128

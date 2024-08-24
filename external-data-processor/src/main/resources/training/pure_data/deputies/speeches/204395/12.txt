@@ -1,1 +1,3 @@
-Consulta à Presidenta em exercício dos trabalhos sobre a votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 312, de 2015, relativo à Política Nacional de Pagamento por Serviços Ambientais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6005bfe2bd072df71f26623a5e9a13a1eac4a09496bae2517f376bc28e5961a8
+size 229

@@ -1,1 +1,3 @@
-Defesa de aprovação da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8335c112ca4743f3955a390779f76dd26851a0f9a2cf9c05da4a564f9aeeea74
+size 121

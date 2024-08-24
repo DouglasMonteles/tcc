@@ -1,1 +1,3 @@
-O Deputado destacou a dificuldade enfrentada pelos produtores de soja em Mato Grosso devido à chamada moratória da soja, em que empresas se recusam a comprar produtos mesmo de produtores que seguiram a legislação ambiental brasileira. Enfatizou a necessidade de uma resposta do Congresso Nacional a essa situação. Expressou desagravo à morte de Cleriston Pereira da Cunha, que estava detido na Penitenciária da Papuda, no Distrito Federal, por participação nos atos antidemocráticos em Brasília. Convocou os Parlamentares a derrubarem os vetos relacionados ao marco temporal para demarcação de terras indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08635e7a73f2124314c911b0a7482344207e2999eca020c75b629b21e07ffb37
+size 626

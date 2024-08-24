@@ -1,1 +1,3 @@
-Protesto contra prisão de militante do Movimento dos Trabalhadores Rurais Sem Terra - MST no Estado de Goiás. Perseguição a movimentos sociais pelo Governo Federal interino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c893cdbf852120447dc64746744bdb6fd6521932a2670a0c0f5a424d35fe6312
+size 177

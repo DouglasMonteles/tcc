@@ -1,1 +1,3 @@
-Sanção, pelo Presidente Luiz Inácio Lula da Silva, da chamada Lei Pietro, de estímulo à doação de medula óssea.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f2913522fab7f0f73b66d4ce8e767ca4675cc9dc754451af4d89b5e626ffe97
+size 119

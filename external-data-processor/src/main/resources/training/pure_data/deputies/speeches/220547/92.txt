@@ -1,1 +1,3 @@
-O Deputado levantou Questão de Ordem relacionada ao Projeto de Lei nº 4.035, de 2023, que institui Agosto como mês de combate às desigualdades, alegando que o mesmo não está de acordo com o Regimento Interno da Câmara dos Deputados e a Lei nº 12.345/2010. Argumentou que o projeto menciona datas comemorativas, o que requer uma proposição específica de acordo com a lei mencionada. Além disso, afirmou que o Autor do Projeto alega que não se trata de uma questão de gênero, mas a justificativa do projeto contradiz essa afirmação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68b0a119c4cbdadb33bba3c4e627719c65f427213979cd524fb5376d3f0262ee
+size 547

@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Arlindo Chinaglia e à Mesa Diretora pela condução da apreciação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4179560124abc86cf8e2a387f23e2ece0b6db3ef96abc280f894a60ff1479eff
+size 109

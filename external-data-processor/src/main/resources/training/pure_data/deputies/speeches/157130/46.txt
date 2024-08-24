@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do § 4º, art. 1º, da Medida Provisória nº 1.099, de 2022, sobre a instituição do Programa Nacional de Prestação de Serviço Civil Voluntário e do Prêmio Portas Abertas, com vista à substituição do § único, art. 1°, do Projeto de Lei de Conversão nº 10, de 2022.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90b34d7d0b3ea158c2c260c1dad1be32fd4716de492aa8068374e75ec608df90
+size 372

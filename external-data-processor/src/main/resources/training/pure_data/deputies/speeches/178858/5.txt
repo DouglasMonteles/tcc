@@ -1,1 +1,3 @@
-Elogios ao Deputado Cacá Leão pela condução dos trabalhos da Casa. Presença do Governador do Estado da Bahia, Rui Costa, em Brasília, Distrito Federal. Contrariedade ao aumento de impostos como solução para a crise econômica do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24746ab6fb800f720ab03123727ba3d0886426a362c70b9f56fac4839eb78ad7
+size 244

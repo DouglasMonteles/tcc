@@ -1,1 +1,3 @@
-Reportagem O caixa dois do caixa dois, sobre existência de esquema de corrupção no Governo do Estado do Rio Grande do Sul, publicada pela revista Veja.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afa07968bd120143908be5bd3136722107b7d27b77d5dbc8cfafc11cf959c87e
+size 154

@@ -1,1 +1,3 @@
-Defesa de aprovação pela Casa do Projeto de Lei nº 1, de 2007, relativo ao reajuste do salário mínimo, bem como de emenda oferecida à matéria pelo Senador Paulo Paim. Apoio à proposta de extinção do fator previdenciário. Defasagem dos proventos de aposentados e pensionistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:156b1110bd272cc8e25f3de5c1677dc8afd48e476b1ea83178ff2ed26cbd9da1
+size 286

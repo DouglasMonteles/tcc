@@ -1,1 +1,3 @@
-Informação à Presidência sobre apresentação de projeto de decreto legislativo com vistas à sustação de decreto presidencial acerca da regulamentação do reajuste de taxas de serviços do Governo Federal constantes na Medida Provisória nº 685, de 2015. Solicitação ao Líder do Governo, Deputado José Guimarães, de realização de acordo para correção da matéria em face da irregularidade do ato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f35cb319c4ead12c2b624f39e635b2b2ddcb344fd1e5a50b2d9cefd0714bb762
+size 414

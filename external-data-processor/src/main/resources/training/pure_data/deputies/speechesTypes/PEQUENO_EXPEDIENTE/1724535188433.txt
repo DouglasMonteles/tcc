@@ -1,1 +1,3 @@
-Participação em debate sobre a doutrina social da Igreja Católica, no Município de Valinhos, Estado de Minas Gerais, e, em Vitória, Capital do Estado do Espírito Santo. Fixação dos limites do Parque Nacional da Serra da Canastra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99819a7b43bbc906b93305ab0da11b63add99d6be5b49427e11ad98b6c1202f0
+size 237

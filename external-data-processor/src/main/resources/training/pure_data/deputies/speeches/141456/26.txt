@@ -1,1 +1,3 @@
-Criação da empresa PETRO-SAL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88edc4754a66ef1a22c56b3b554e96a1fa7dd70fa04aec5dea9d4c13958bceeb
+size 31

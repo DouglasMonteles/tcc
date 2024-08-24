@@ -1,1 +1,3 @@
-Repúdio a ataque racista praticado contra o Deputado Valmir Assunção.  Discussão da Medida Provisória nº 905, de 2019, sobre a instituição do Contrato de Trabalho Verde e Amarelo e a alteração da legislação trabalhista brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ab372f791987b9f0cc9c6224b9761645f2ac907e7b1de19bc702e7369932a73
+size 242

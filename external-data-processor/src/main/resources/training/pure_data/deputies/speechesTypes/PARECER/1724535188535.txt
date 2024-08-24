@@ -1,1 +1,3 @@
-O Deputado proferiu parecer às emendas de plenário ao Projeto de Lei nº 6.256, de 2019, que institui a Política Nacional de Linguagem Simples nos órgãos e entidades da administração pública direta e indireta de todos os entes federativos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f177bb927230fad21e07e07190c19b1d1e4e3b8a9afa7acd2533c42713ddec8
+size 247

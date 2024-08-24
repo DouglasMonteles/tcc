@@ -1,1 +1,3 @@
-Falecimento do filho do ex-Deputado Flávio Dino, Marcelo Dino Fonseca de Castro e Costa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d159c07753c68b4a6f4a40ccf80c0ac0ab88e996f5d68a29a4cca7b0186fddf3
+size 89

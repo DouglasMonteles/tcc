@@ -1,1 +1,3 @@
-Defesa da regulamentação da Agência Nacional de Assistência Técnica e Extensão Rural - ANATER. Posse do Deputado Luís Carlos Heinze na Presidência da Frente Parlamentar da Agropecuária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4db8c9722df46d8b16d7e2d04f85d9c95847056b64b33042cb5f18bfe50b89dd
+size 194

@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de liberação de recursos ao Estado do Acre para enfrentamento das enchentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b704d41f732d6b6d8e6485894627db7188a487b8c104e55673aa8adcf3353db
+size 103

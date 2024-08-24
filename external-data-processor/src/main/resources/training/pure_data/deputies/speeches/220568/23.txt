@@ -1,1 +1,3 @@
-Hipocrisia da Esquerda na defesa da liberdade de imprensa e na demonstração de condolências e simpatia à jornalista brasileira agredida durante coletiva concedida pelo Presidente da Venezuela, Nicolás Maduro. Censura imposta a jornalistas da Direita.
+version https://git-lfs.github.com/spec/v1
+oid sha256:015375912de7db7e773fdc8f873121939e28161bd85676ce1efc7c069a42b95b
+size 255

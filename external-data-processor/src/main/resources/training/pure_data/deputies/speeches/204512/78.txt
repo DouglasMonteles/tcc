@@ -1,1 +1,3 @@
-Transcurso do Dia do Policial Federal. Valorização da Polícia Federal. Maior atenção dos Parlamentares e do Presidente Jair Bolsonaro para com os policiais federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4d9bdd53024aed039c778065d68b8d65c35389f5d27702c7dfc5c878a6c2847
+size 170

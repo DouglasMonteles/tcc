@@ -1,1 +1,3 @@
-Orientação da respectiva bancada. Solidariedade a policiais rodoviários federais diante de fechamento de postos no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6a0e6aa4b0cd82bf9c33c131e2d0585127dde31a6a5a64ba54072aeab5a39bb
+size 146

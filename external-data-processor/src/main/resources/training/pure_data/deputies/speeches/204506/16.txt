@@ -1,1 +1,3 @@
-Apelo ao Ministério da Economia e à Secretaria Especial da Receita Federal do Brasil, por celeridade no processo aduaneiro com relação aos insumos importados para a indústria eletroeletrônica nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:161ed38bef58e8f0ee6f435b96bbc654fc5ce9cc73ebfec250ca23721e14ab0d
+size 207

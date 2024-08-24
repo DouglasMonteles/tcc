@@ -1,1 +1,3 @@
-Imediata retomada das aulas presenciais. Realização, pela Comissão Externa de Enfrentamento à Covid-19, do seminário Retomada das Aulas Presenciais na Educação Básica em 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb088b6267d5f0155f1b70e08251af07ffc8b01a04aa0d12559a8ca0e0acd761
+size 183

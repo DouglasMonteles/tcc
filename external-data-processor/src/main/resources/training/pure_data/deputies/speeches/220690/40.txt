@@ -1,1 +1,3 @@
-O Deputado, ao lamentar a morte de Cleriston na prisão, expressou indignação quanto à violação dos direitos e ao desrespeito à Constituição. Criticou acusações de tentativa de golpe a manifestantes pacíficos, pedindo justiça conforme a lei.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c9dc068c08f7f4be2f9cea1fb584cf29a90be42d349b5020870d6bf1425b54b
+size 253

@@ -1,1 +1,3 @@
-Imediato exame pelo Governo Federal e votação pela Casa, de projetos de lei elaborados pela CPI destinada à investigação das causas e responsabilidades pelo desastre socioambiental ocorrido no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3c56eaa670b62ea17a5cf2d63d3dafa9ccd0bcc73c149b2f3ce52743f540400
+size 247

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do § único, art. 1º, do Projeto de Lei Complementar nº 19, de 2019, sobre a definição dos objetivos do Banco Central do Brasil, a sua autonomia, a nomeação e exoneração do Presidente e Diretores da instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:172cca78456b6642d15a3a35929d6870e2c1d453bafe0a076982c5d3b94ee0f3
+size 303

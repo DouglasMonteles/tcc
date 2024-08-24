@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 747, de 2023, sobre a alteração da Lei nº 12.871, de 2013, relativa à instituição do Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:475bcd92f28a68b34fb24b82ecb2866dcd4b0b407ecb9fdc9e83bdef620d455f
+size 228

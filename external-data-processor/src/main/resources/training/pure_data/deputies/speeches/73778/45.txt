@@ -1,1 +1,3 @@
-Eleição do Sr. Fernando Lugo para a Presidência do Paraguai. Posicionamento do orador favorável à revisão do contrato firmado entre os Governos do Brasil e o Paraguai sobre a Usina Hidrelétrica Binacional de Itaipu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8e86970cbcd275cc633dca3cdc52e7b0516b6376556155f903eab443b425f1a
+size 222

@@ -1,1 +1,3 @@
-Instalação de unidade do Instituto Federal de Educação, Ciência e Tecnologia - IFET no Município de Brumado, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47571e27469848eb178279a7dbc85ae0b4cb858fb70d057e108e2d7612642b67
+size 131

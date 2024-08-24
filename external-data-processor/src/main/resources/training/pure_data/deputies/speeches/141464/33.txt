@@ -1,1 +1,3 @@
-Lançamento do Programa de Melhorias Urbanas e Ambientais do Rio Maranguapinho - PROMURB Maranguapinho, em Fortaleza, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fc720f2007a27de5100f52d4ce0a378e9baf2470acc8a1bbfe7d5100dd60876
+size 135

@@ -1,1 +1,3 @@
-Encaminhamento da votação  do Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória 511 de 2010 (Dispõe sobre medidas para assegurar a sustentabilidade econômico-financeira do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, sobre autorização para garantia do financiamento do Trem de Alta Velocidade - TAV, no trecho entre os Municípios do Rio de Janeiro - RJ e Campinas - SP, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6db0a9358060c882eb682af84da4fb86e8ef40a4e24166aa6b4ed0370d845ec6
+size 445

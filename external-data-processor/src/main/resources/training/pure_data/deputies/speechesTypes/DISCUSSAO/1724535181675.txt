@@ -1,1 +1,3 @@
-Debate sobre o   Projeto de Lei nº 270, de 2003, que dispõe sobre a atividade de jogos recreativos no território nacional e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e98a225a370a3102e775aba68ae5b7f1ac2f64e15525cf8eb9ae15672e699872
+size 152

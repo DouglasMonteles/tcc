@@ -1,1 +1,3 @@
-Visita do Coronel Juraci Alves, da Polícia Militar do Estado do Tocantins, à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f28b7d4d04e8872dd3c0079733ef9fcc3cc05a3812cc4e1e7265c23fee34591e
+size 101

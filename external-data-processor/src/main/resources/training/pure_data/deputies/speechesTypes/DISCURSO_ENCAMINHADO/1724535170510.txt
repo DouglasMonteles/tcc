@@ -1,1 +1,3 @@
-Lançamento do II Plano Nacional de Enfrentamento ao Tráfico de Pessoas. Atividades desenvolvidas pela CPI destinada à investigação de denúncias de tráfico de seres humanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb486d53d36c02e175e372a816b7b2e7a989ba59e60288fe7cc3d8750717fce3
+size 179

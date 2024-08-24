@@ -1,1 +1,3 @@
-Realização de ato público em solidariedade à Vereadora Ireuda Silva, vítima de racismo e intolerância religiosa, em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f531376d348940c288bb57cf3c98979b56426b205e58a75f9ba24d040d2dad2d
+size 148

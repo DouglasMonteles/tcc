@@ -1,1 +1,3 @@
-Orientação de bancada na votação de requerimento de retirada de pauta do Projeto de Lei nº 3.715, de 2019, sobre a regulamentação da posse de armas de fogo em áreas rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:412d51b9c4e370cae060d5d01154155a57f46ff73c983336046b3be358b38fe1
+size 180

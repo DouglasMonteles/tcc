@@ -1,1 +1,3 @@
-Transcurso do 102º aniversário de criação do Departamento Nacional de Obras Contra as Secas - DNOCS. Defesa de destinação, ao setor educacional, de 50% de recursos oriundos de royalties de petróleo da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b146cecfb3a8c6414b744b96d42ac48a84e09129763a21e59c2657a6f9f45bd
+size 224

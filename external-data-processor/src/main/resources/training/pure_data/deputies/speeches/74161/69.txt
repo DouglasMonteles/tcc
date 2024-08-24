@@ -1,1 +1,3 @@
-Defesa de inclusão, no texto do Estatuto da Juventude, de dispositivo acerca da concessão de passe livre a estudantes no transporte público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be3607aa96f176c999562af1e0a1d7a4f1972cc1baa2f233466a00664c0bf874
+size 143

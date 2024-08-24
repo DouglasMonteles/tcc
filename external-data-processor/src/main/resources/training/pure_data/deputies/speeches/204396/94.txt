@@ -1,1 +1,3 @@
-Presença no plenário do Vereador Jean Emiliano, do Município de Francisco Beltrão, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5171512a453857c3d1f90bb3891ee155bdccd877322e6f14147a85f26bbdefbf
+size 105

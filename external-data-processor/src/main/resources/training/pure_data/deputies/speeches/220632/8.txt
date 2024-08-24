@@ -1,1 +1,3 @@
-Realização, pelo ex-Presidente Jair Bolsonaro, de campanha contra a vacinação da Covid-19. Busca, pela Polícia Federal, do cartão de vacinação do ex-Presidente da República. Lançamento da Frente Parlamentar de Vacinação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe06b84ae1a644460f98532237b2fa39f690096eed52577e7bb05a55be6186fb
+size 232

@@ -1,1 +1,3 @@
-Tragédia ocorrida na Baixada Santista em decorrência das fortes chuvas, no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4d9bac2949c3a0a9f90347fecda9f8df7acf7e7a2107c7ecda09e1bea48c3c0
+size 98

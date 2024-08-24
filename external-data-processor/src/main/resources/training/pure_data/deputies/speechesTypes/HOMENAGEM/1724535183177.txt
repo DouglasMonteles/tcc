@@ -1,1 +1,3 @@
-Saudação à Deputada Distrital Júlia Lucy
+version https://git-lfs.github.com/spec/v1
+oid sha256:a806eb9e522da9d9b6cf5a59b409cb65b7241862163d6606af498f6a71ad756e
+size 44

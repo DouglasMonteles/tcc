@@ -1,1 +1,3 @@
-Instituição da Política de Desenvolvimento Produtivo pelo Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cafea8e4c8e26319cf1b486195bb978b73480ff78fa04fc74428d3a829b0434
+size 96

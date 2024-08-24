@@ -1,1 +1,3 @@
-Questão de ordem sobre a determinação à Presidência da Comissão de Segurança Pública e Combate ao Crime Organizado, pelo Presidente Arthur Lira, de não recebimento dos requerimentos de convocação da Ministra do Turismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d37e15904dd20a5eafb0fc0e802adb640a363bf6d6f28ba6895fc7b9a6756bba
+size 230

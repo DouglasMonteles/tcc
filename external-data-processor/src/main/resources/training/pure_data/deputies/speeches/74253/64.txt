@@ -1,1 +1,3 @@
-Congratulações ao povo venezuelano pela vitória da Oposição nas eleições para o Congresso do país. Legitimidade da abertura de processo de impeachment contra a Presidenta Dilma Rousseff. Congratulações ao Vice-Presidente Michel Temer pelo posicionamento sobre o processo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38690167d5951fb708f0f8dcccdac1762bad20250d9bfa76b27691a3464c3644
+size 281

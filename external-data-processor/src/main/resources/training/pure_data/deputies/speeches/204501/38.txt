@@ -1,1 +1,3 @@
-Importância de julgamento do Supremo Tribunal Federal favorável à tipificação do crime de homofobia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a02c3bb860c327593d9b19ffde93987dc15032e09a89e1f3ae88fcb8caa7af30
+size 105

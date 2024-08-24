@@ -1,1 +1,3 @@
-Regozijo com a criação de cursos de Medicina nos campi universitários instalados nos Municípios de Teófilo Otoni, Diamantina, Alfenas e São João Del Rei, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e492fb490348f531203a70bd8de1ccab61e03fc9f6d8268ac1d3845a967e4c99
+size 184

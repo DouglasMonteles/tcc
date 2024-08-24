@@ -1,1 +1,3 @@
-Transcurso da Semana Santa. Anúncio de realização da encenação da Paixão de Cristo na comunidade de São Paulo, Município de Rio Bananal, e no Distrito de Jaciguá, Município de Vargem Alta, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:844642099c4d039f981243af43232865f6bcbcca382c510d02e291607ea47944
+size 225

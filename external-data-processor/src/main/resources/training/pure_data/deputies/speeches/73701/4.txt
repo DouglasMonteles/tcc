@@ -1,1 +1,3 @@
-Realização da 22ª Assembleia Geral Ordinária do Comitê Permanente para Questões de Gênero do Ministério das Minas e Energia. Criação do Plano de Ação Pró Equidade de Gênero. Participação da mulher no mercado de trabalho. Desigualdade salarial entre homens e mulheres. Conquistas e avanços da mulher brasileira, representadas na eleição da Presidenta Dilma Rousseff e da Deputada Rose de Freitas para 1ª Vice-Presidência da Casa. Saudações às ex-Ministras da Secretaria Especial de Políticas Públicas para as Mulheres, Emília Fernandes e Nilcéa Freire, e à nova Ministra do órgão, Iriny Lopes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c50ded3fdda7c1578c71c07c66e3483d84a25319471790c23ec44eb1e0e0cc6f
+size 623

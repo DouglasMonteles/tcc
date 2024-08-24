@@ -1,1 +1,3 @@
-Crise do Governo do Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cd937a0df8d3e6ae78c6ffdba52b838f306ae1e056eb5e498955764849ef4d1
+size 48

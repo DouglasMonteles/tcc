@@ -1,1 +1,3 @@
-Posicionamento  contrário do PP ao Requerimento de retirada da pauta da Ordem do Dia do Requerimento 8.053 de 2013 (Manifesta censura ao governo dos Estados Unidos da América -EUA , se confirmadas as atividades da National Security Agency - NSA  no País, particularmente às referentes à inqualificável espionagem da Presidente da República Federativa do Brasil, outras autoridades e cidadãos brasileiros).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7630b9178dac19a1268df7bff8257cac12423935a37b2051f21a7c71c3d20156
+size 413

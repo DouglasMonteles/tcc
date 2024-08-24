@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo à supressão da   expressão tributada com base no lucro real, constante do artigo 10, e da expressão desde que tributada com base no lucro real, constante do § 2º do artigo 10, do Substitutivo  ao Projeto de Lei 5.798 de 2009 (Institui o Programa de Cultura do Trabalhador, cria o Vale-Cultura e dá outras providências),  objeto de DVS, para permitir que as empresas tributadas com base no lucro presumido também possam beneficiar seus empregados com o Vale-Cultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1737a41873c0e09ab1ac473545ecece8191bfcbe7fb87064fa51e5a019751d54
+size 511

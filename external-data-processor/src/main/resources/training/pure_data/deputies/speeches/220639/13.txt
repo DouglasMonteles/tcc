@@ -1,1 +1,3 @@
-Apelo ao Comitê de Política Monetária - COPOM do Banco Central por redução da taxa básica de juros, a Taxa SELIC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dd2c550c15baf4c0a626cf4be1dba2c9dcf63acee6376873b7ce7d734b86e78
+size 119

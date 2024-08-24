@@ -1,1 +1,3 @@
-Participação em festas de Santo Antônio realizadas nos Municípios de Xique-Xique, Jaborandi, Caraíbas e Sebastião Laranjeiras, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90a370b162a936ba99097bb8018434bece5090e61a60d47230488fa346da7997
+size 152

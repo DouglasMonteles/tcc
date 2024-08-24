@@ -1,1 +1,3 @@
-Solidariedade aos familiares das vítimas de tragédia ocorrida em escola pública do Rio de Janeiro, Estado do Rio de Janeiro. Necessidade de debate acerca do desarmamento da população brasileira. Criação da Empresa de Transporte Ferroviário de Alta Velocidade S.A. - ETAV.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd13f120d122b57822e521f97b747bf1a29fba29330a50745c47deb6a949bdc0
+size 279

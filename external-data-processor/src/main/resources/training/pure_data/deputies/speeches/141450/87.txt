@@ -1,1 +1,3 @@
-Posicionamento contrário do PSC   ao Requerimento de retirada da pauta da Ordem do Dia das Emendas do Senado ao Projeto de Lei de Conversão 16 de 2009 (Medida Provisória 466 de 2009), que dispõe sobre os serviços de energia elétrica nos Sistemas Isolados e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c7b05ba62879d90d0416b07e8c19a3fa0efc5735f95dd585e84f4563f3d9616
+size 288

@@ -1,1 +1,3 @@
-Apoio à proposta de inclusão da língua portuguesa como idioma oficial da Organização das Nações Unidas -ONU. Agilização do processo de ratificação do acordo ortográfico de unificação da língua portuguesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b88f6862690d137aeafac581b5be2c2785b194d3e3f98261c55d9e8af7862feb
+size 219

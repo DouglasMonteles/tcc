@@ -1,1 +1,3 @@
-Contrariedade à anunciada construção, pela empresa Bahia Mineração - BAMIN, de barragem de rejeitos na região do Município de Guanambi, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9146dc3ee94a477ef50453a54ad0a1e72644952aedf7c8c4341ec4f315c9153f
+size 159

@@ -1,1 +1,3 @@
-Apelo à Liderança do PT e à Direção Nacional do Partido dos Trabalhadores de estabelecimento de acordo com manifestantes petistas no plenário da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0d4890d600ad1ca4e6a07b463bfabcf3b29d6f992f49afff83fa4953ebfa32d
+size 156

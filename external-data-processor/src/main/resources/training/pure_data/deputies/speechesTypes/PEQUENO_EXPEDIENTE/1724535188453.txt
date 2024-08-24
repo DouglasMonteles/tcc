@@ -1,1 +1,3 @@
-Impactos a longo prazo decorrentes do uso de maconha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dba7998c3f51168e04871779b71b61c28c69655ddcbc97831cf23aaace5b070c
+size 53

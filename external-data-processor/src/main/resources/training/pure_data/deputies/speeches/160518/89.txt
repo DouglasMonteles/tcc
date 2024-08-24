@@ -1,1 +1,3 @@
-Solidariedade ao movimento grevista de professores a favor do pagamento do piso salarial nacional dos profissionais do magistério público da educação básica. Denúncia de insegurança de equipamentos de parques de diversão por falta de manutenção e inspeção técnica. Defesa de aprovação do Projeto de Lei nº 138, de 2011, sobre as normas de segurança em brinquedos de parques localizados em estabelecimentos de educação infantil e de ensino fundamental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f310d9b1a7abbbbbf7f20d06a2635caefb91ea6e350437ea746ebd25779868e
+size 470

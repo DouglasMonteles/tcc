@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Comissão nº 384, apresentada à Medida Provisória nº 927, de 2020, a respeito das medidas trabalhistas de enfrentamento do estado de calamidade pública decorrente da pandemia de coronavírus (Decreto Legislativo nº 6, de 2020). Informação ao Deputado Eduardo Cury sobre a continuidade da Prefeitura Municipal de Ribeirão Preto nas páginas policiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a721e40a26e8b988db6e47808f1038fdd84f48da08751cc30b1932497d481a69
+size 464

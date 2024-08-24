@@ -1,1 +1,3 @@
-O Deputado registrou a presença, na Casa, do Vereador Léo Pindoba, da Câmara Municipal de Vila Velha; e do empresário Marcus Batista, da empresa Cozivip, da cidade de São Mateus, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bfc923572767807733aa7bdc108327a3430e08b01c23d9e74b192ebd35d99b0
+size 210

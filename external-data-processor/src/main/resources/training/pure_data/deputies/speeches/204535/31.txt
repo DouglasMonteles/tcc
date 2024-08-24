@@ -1,1 +1,3 @@
-Indignação da oradora com a repressão praticada contra manifestantes em frente ao Anexo II da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfc52c848555b12b3814e9da64d42284e97a2e887609550aab39e4c379407fae
+size 119

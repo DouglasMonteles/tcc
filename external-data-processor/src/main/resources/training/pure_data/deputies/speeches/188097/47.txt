@@ -1,1 +1,3 @@
-Não elevação, pelo Governo brasileiro, das dotações orçamentárias do setor educacional durante a epidemia de coronavírus, segundo pesquisa realizada pela Organização para a Cooperação e Desenvolvimento Econômico - OCDE. Defesa de liberação antecipada aos Estados e Municípios, pela União, de recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais a Educação - FUNDEB. Realização de amplo mutirão em defesa da educação pública brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a130f395aa1c1a12b7eab37ec1f660435dbd9dacc564b3ee9c115bed1e8856ae
+size 518

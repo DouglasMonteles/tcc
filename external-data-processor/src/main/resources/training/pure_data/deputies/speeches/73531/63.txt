@@ -1,1 +1,3 @@
-Documento Manifesto em Repúdio à Criminalização do MST Promovida pelo Ministério Público do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55df2ae67cb7c9cdf8d31f04ab8895bdca2db62d3e142d88053ab67e26116622
+size 116

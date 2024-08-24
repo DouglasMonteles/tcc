@@ -1,1 +1,3 @@
-Defesa da transformação do campus da Universidade Federal de Alagoas, no Município de Arapiraca, em Universidade Federal do Agreste Alagoano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbf692983e01de922a1fdaf27271c2a8555ceef3ec2343ef51efd350cfb0073c
+size 144

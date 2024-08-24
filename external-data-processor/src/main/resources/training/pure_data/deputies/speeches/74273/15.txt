@@ -1,1 +1,3 @@
-Importância do papel desenvolvido pelas entidades filantrópicas. Homenagem ao voluntariado no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d924e7b80cda349b09bfd631ca5dc0a2c1d04d9e9e97cb6dcb91b9b549950868
+size 102

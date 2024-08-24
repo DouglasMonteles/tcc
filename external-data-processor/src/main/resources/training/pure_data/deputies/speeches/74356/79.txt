@@ -1,1 +1,3 @@
-Críticas ao serviço de telefonia no Estado do Amazonas. Apelo à Agência Nacional de Telecomunicações - ANATEL e ao Ministério das Comunicações de melhoria dos serviços de telefonia no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df8fcdc44be1c4d26fafb442627a9a4d24950bba5ef377f9f40ae48d9d3d8369
+size 200

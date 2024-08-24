@@ -1,1 +1,3 @@
-Defesa da tese de ruptura democrática a partir da confirmação do impeachment da Presidente da República afastada, Dilma Rousseff. Cobrança à Câmara dos Deputados de votação, em segundo turno, da Proposta de Emenda à Constituição nº  1, de 2015,  sobre o valor mínimo de aplicação anual pela União em ações e serviços públicos de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e660cefa8aa6d9bc68960abb8998f39d38ad78d4c56ee1127ffb6fb6c870d5e6
+size 357

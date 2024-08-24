@@ -1,1 +1,3 @@
-Defesa da votação das Emendas do Senado ao  Projeto de Lei 1.990 de 2007 (Dispõe sobre o reconhecimento formal das centrais sindicais para os fins que especifica, altera a Consolidação das Leis do Trabalho - CLT e dá outras providências). Apelo aos partidos de Oposição para não obstruírem a votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b6ac56799fb107c423a78c807f2721395eb561f961e757440e1eb0dc4a91105
+size 325

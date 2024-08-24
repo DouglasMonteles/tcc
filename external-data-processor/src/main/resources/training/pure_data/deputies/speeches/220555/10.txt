@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 3.148, de 2023, sobre os procedimentos para a denominação de instituições públicas de ensino indígenas, quilombolas e do campo no território nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e5136631656fee1e2ddd01d1a75b8d034f3e4d1dc0cc8c4a14903f2005d658b
+size 199

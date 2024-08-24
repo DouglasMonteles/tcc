@@ -1,1 +1,3 @@
-Carência de bibliotecas escolares no Brasil. Importância da aprovação de projeto de lei sobre a regulamentação das profissões de mototaxista e motofretista pelo Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:047238e1a926f2b2cd792281efc2c04fdd7d436b41107922f5516d0f4ba55852
+size 183

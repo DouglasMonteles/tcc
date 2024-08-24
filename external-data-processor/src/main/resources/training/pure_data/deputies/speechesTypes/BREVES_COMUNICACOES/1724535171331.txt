@@ -1,1 +1,3 @@
-O Deputado destacou a falta de fornecimento de energia elétrica em áreas críticas da Região Norte e especialmente no Acre. Denunciou a situação de pessoas que têm acesso à infraestrutura elétrica, mas são impedidas de consumir devido a restrições ambientais, pedindo a intervenção do ICMBio. Também mencionou a falta de energia na fronteira entre o Acre e o Amazonas, pedindo apoio dos Parlamentares para a resolução do problema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d095efc9f2655306229e85a6e14a37bf66dc8164c343b5f01b8706ad832eccd2
+size 446

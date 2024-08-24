@@ -1,1 +1,3 @@
-Preocupação com a junção das empresas de insumos agrícolas Syngenta Seeds Ltda. e Monsanto do Brasil Ltda. e com as consequências para os agricultores em decorrência da formação de monopólio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:520e4f6c944382d8f8a91e7da0fc900aef08dc64764e93d8f17363de2b4e5b9e
+size 201

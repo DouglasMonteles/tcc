@@ -1,1 +1,3 @@
-Anúncio da apresentação de projeto de resolução sobre o estabelecimento do interstício de duas sessões para a votação de medida provisória, no caso de alteração do texto original pelo Relator.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69eda76208100d4b71de2ff8eac3117ca2f5c3654df707545d6ffb079a49be1a
+size 204

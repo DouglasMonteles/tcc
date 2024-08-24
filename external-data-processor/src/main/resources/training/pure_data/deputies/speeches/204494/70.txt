@@ -1,1 +1,3 @@
-Acerto da aprovação pela Casa da Proposta de Emenda à Constituição nº 22, de 2011, sobre a remuneração dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias. Congratulações ao autor da proposição, Deputado Valtenir Pereira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:990395098a97f4688aab19fe3e4e68cf1e4767c559a6bee9be91f42f77dc0279
+size 255

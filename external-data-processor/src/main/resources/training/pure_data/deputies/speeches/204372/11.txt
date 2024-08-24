@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de encerramento da discussão da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56ba2250b837d71f4dca13d272aa3e61505e5b2aa97793b868f09088ddbea69b
+size 182

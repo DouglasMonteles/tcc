@@ -1,1 +1,3 @@
-Criação de novas universidades federais e de unidades do Instituto Federal de Educação, Ciência e Tecnologia - IFET, no Estado da Bahia. Defesa de criação de nova universidade no Município de Vitória da Conquista. Oportunidade de instalação da primeira Universidade Federal de Integração Luso-Afro-brasileira - UNILAB no Município baiano de São Francisco do Conde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89cf83f30d4e983795f87e359d1a983f22b38debec743c0d8c943db54b3ca601
+size 379

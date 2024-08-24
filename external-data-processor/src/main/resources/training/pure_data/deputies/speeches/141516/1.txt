@@ -1,1 +1,3 @@
-Posicionamento favorável da Minoria  à Emenda 99, destacada, ao Projeto de Lei de Conversão da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação – EBC, e dá outras providências), que suprime dispositivos  relativos à  contratação temporária de pessoal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a7a56671a146cd6e3dbed8c20d5eef862356ce7aacdd356973e95d3c8ef7ef9
+size 486

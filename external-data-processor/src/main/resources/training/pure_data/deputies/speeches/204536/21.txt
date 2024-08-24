@@ -1,1 +1,3 @@
-Inconsistência do noticiário sobre a decretação, pelo Governo Jair Bolsonaro, de sigilo de dados da reforma previdenciária. Não recebimento, por Parlamentares situacionistas, de recursos para aprovação da proposta de reforma da Previdência Social. Posicionamento do orador favorável à aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:379cd868a710cecc06c2d644a4250b6df26da8da1ecea8237a7b898dad229e3f
+size 320

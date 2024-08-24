@@ -1,1 +1,3 @@
-Homenagem póstuma ao médico e ex-Deputado Ivan Paixão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:586eb0afffe703132d2aa090133929581bcaef2e2919910031e7563fc07b92d2
+size 57

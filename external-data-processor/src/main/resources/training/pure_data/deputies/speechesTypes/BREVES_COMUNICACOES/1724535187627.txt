@@ -1,1 +1,3 @@
-Alerta para possível fragilização das relações de trabalho no Brasil em caso de aprovação de projeto de lei sobre terceirização de mão de obra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e87cbede9dce096deaf5570bca7798f60421325a88ba8fdd4a76ba88ac0ee519
+size 153

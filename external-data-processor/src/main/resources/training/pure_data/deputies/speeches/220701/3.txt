@@ -1,1 +1,3 @@
-Expectativa de inclusão na pauta do Projeto de Lei nº 1.494, de 2021, sobre a tipificação da prática de zoofilia como crime de maus-tratos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dc34a516eee1584d725c3508fdc0980cdd11f6ae1b7430612fd012af72b305f
+size 144

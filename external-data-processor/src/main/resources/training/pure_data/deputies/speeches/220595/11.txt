@@ -1,1 +1,3 @@
-Contrariedade à liberação, pelo Supremo Tribunal Federal, do consumo de drogas no País. Conveniência de aperfeiçoamento da chamada Lei Maria da Penha, com vista à obrigatoriedade de tratamento do agressor à mulher. Contrariedade à pretendida ampliação, pela FUNAI, de área indígena nos Municípios de Vila Rica, Santa Cruz do Xingu e São José do Xingu, no Estado de Mato Grosso, e em Município do Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e2504a659c079537b7faf214277ca942552e83e296165bf18ff2bf6bb24e4d1
+size 429

@@ -1,1 +1,3 @@
-Homenagem ao Corpo de Bombeiros Militar do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3321803f6e1128c6b89bf2fe6b731c908337c5de2a314ff6e7e70acc3e9de0d3
+size 60

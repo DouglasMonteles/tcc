@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar em Defesa das Guardas Municipais. Empenho no reconhecimento constitucional da corporação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fc0df8afb11008b22b694aba217245313de37d81515c40b2ff9e078703b7890
+size 123

@@ -1,1 +1,3 @@
-Transcurso do 150º aniversário de emancipação político-administrativa do Município de Teixeira, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fbe2edf4899049126375cf066b8874ad4fea4ad5c43014435201dca834ee821
+size 121

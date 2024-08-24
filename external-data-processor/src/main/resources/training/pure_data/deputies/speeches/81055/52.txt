@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do § 3º, do art. 239, constante do art. 1º da redação para o 2º turno aprovada pela Comissão Especial da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária, com vista à sua supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6cdadf27f792501302502021d8079fa3c585b9dfbf41573fdb9ea538883d770
+size 318

@@ -1,1 +1,3 @@
-Conclusão das obras da Barragem de Piaus, entre os Municípios de Pio IX e São Julião, Estado do Piauí. Apresentação de projeto de lei sobre a denominação do empreendimento de Barragem Dona Maria Zeneide Viana de Andrade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:021998ef54e45fea4b5cb375be874c56fe0f91ca90830764b8e3448a49ceb3cb
+size 229

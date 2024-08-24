@@ -1,1 +1,3 @@
-Equívoco da concessão de autonomia ao Banco Central do Brasil. Necessidade de redução da taxa básica de juros, a Taxa SELIC, pela instituição bancária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f274a341db93d69dbcb258ffb7c80b66146f95a98a6714fb7fc043a50b577fb9
+size 159

@@ -1,1 +1,3 @@
-Interferência dos Partidos Políticos de oposição por meio da prática de obstrução parlamentar no processo legislativo do Congresso Nacional, como forma de impedir ações governamentais, bem como junto ao Judiciário, na tentativa de obstruir obras do Programa de Aceleração do Crescimento, PAC,  e do Programa Territórios da Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abb6a62f0c3a66bce71221be5a46dae928ea6c1b024e48525d9df4cb025b64a6
+size 346

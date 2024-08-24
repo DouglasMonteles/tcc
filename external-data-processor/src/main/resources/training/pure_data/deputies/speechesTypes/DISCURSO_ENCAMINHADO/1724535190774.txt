@@ -1,1 +1,3 @@
-Exorbitância dos preços de voos para a Região Norte, notadamente para o Estado do Acre. Criação de CPI para investigação da atuação de empresas aéreas no Norte do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac4ce83d4c4a18e94401d8de438679bb607308a3690ccd2aa10c547a43cbb076
+size 179

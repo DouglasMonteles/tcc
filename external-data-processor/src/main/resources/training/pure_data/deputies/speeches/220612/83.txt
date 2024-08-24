@@ -1,1 +1,3 @@
-Preocupação com o anúncio, pela empresa Ford Motor Company Brasil, do encerramento de turno de atividades na unidade do Município de Camaçari, Estado da Bahia. Contrariedade dos trabalhadores com o risco de fechamento de postos de trabalho. Pedido de intervenção dos Governos Federal e Estadual junto à empresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b95f7215115edb9d2523ba58e206071f9500d55db5433d1ce12a057e997a5bb1
+size 319

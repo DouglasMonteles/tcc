@@ -1,1 +1,3 @@
-O Deputado encaminhou a votação do requerimento de destaque para supressão do art. 99 do Projeto de Lei de Conversão nº 16, de 2023, oferecido à Medida Provisória nº 1.170, de 2023, que altera a remuneração de servidores e de empregados públicos do Poder Executivo Federal. O Parlamentar parabenizou as Deputadas Alice Portugal, Relatora da matéria, e Maria do Rosário. O orador propôs a retirada do destaque, buscando chegar a um consenso e suprimir essa parte do texto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cfd613e93a2278c215a480cb029bd724d3df8d982b730692747ba710b6fc2e4
+size 485

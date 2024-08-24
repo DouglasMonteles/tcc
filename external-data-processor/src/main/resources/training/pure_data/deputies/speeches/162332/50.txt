@@ -1,1 +1,3 @@
-Necessidade de compensação aos Municípios brasileiros pelo Governo Federal diante da queda na arrecadação tributária provocada pela desoneração do IPI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0560a51899afece11b15ef4fd7881e646e5604af0116aae9d2880848f6f68abf
+size 159

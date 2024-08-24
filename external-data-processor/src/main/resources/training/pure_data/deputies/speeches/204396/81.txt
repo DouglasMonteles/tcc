@@ -1,1 +1,3 @@
-Apoio à aprovação do Projeto de Lei nº 442, de 1991, sobre a legalização de jogos de azar no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b202f34d71dbdbc0581eb0647385edbc6191fbde65756b171312bd1cb06cf00a
+size 106

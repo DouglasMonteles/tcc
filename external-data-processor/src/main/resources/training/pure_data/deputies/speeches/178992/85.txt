@@ -1,1 +1,3 @@
-Empenho do Governador do Estado de São Paulo, João Doria, e do Instituto Butantan na produção de vacinas contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b04dc951075a65d6fd1ab34d0d3b3efa845ced8270fbcc442d1d75df9422ec50
+size 127

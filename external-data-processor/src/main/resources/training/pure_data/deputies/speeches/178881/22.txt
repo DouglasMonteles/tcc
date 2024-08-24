@@ -1,1 +1,3 @@
-Precariedade dos serviços de telefonia celular prestados à população brasileira. Anúncio de apresentação à Comissão de Fiscalização Financeira e Controle de requerimento de convite ao Presidente da Agência Nacional de Telecomunicações - ANATEL e aos presidentes das empresas de telefonia celular, para participação em audiência pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19d6eba89f091133c0c35e5737ca0a7ffab36512f78de734a79376eb4bb9b87c
+size 354

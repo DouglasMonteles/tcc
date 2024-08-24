@@ -1,1 +1,3 @@
-Indignação do orador com as invasões de propriedades rurais pelo Movimento dos Trabalhadores Rurais Sem Terra - MST. Protesto contra a participação do líder do MST, João Pedro Stedile, na comitiva do Presidente da República em visita à República Popular da China.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52bb4f6b1b8108213f9ae48079cb50ce7badec7d185ee4d7dbc0841c2fa273c7
+size 273

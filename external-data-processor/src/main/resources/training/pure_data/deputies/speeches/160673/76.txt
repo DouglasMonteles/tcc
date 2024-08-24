@@ -1,1 +1,3 @@
-Regozijo com a aprovação pela Casa do projeto de lei sobre a distribuição de royalties de petróleo aos Estados e Municípios brasileiros. Atuação da Casa em defesa dos interesses do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:594e614c622c0dfda22407864ae9c597916f5f2f56720f651a6d030002f3a8a2
+size 195

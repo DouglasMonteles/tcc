@@ -1,1 +1,3 @@
-Cumprimentos ao engenheiro agrônomo André Luiz Bomfim Ferreira, pela nomeação para o cargo de Superintendente do Instituto Nacional de Colonização e Reforma Agrária - INCRA no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a94e3e28240ecc6d4d084bc0d29d7edc9b513ae0396011ab57344a89da5d07e
+size 201

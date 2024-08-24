@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Pessoa Idosa, do Dia Nacional do Vereador e do Dia do Vendedor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02248bba52b5067a59cd8bdcb7a3e28f3e8223af2f7831973ef3713ba0515074
+size 98

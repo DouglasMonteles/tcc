@@ -1,1 +1,3 @@
-Repúdio à decisão do Tribunal Superior Eleitoral de cassação do mandato parlamentar do Deputado Deltan Dallagnol. Indignação do orador com declaração elogiosa ao Presidente Luiz Inácio Lula da Silva, proferida pelo ex-Comandante Militar do Planalto, general Gustavo Henrique Dutra de Menezes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e145b27020687d38ed3f48c190c4c100e58a0b06a64ffecddd1d424f958dc45
+size 302

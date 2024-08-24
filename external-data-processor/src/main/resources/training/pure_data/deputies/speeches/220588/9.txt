@@ -1,1 +1,3 @@
-Necessidade de providências do Congresso Nacional e da Agência Nacional de Aviação Civil - ANAC, a respeito dos elevados preços de passagens aéreas para o Estado do Acre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a45485adedfb07467e8389685f685f15adc07c252c1b29dc9edf58cbb6271ff
+size 176

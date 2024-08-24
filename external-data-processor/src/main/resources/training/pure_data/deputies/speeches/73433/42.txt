@@ -1,1 +1,3 @@
-Elogio ao trabalho desenvolvido pelo Deputado Walter Pinheiro na relatoria da Medida Provisória  398  de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação – EBC, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:01648671bc8edf23c0bb67aebcdf88d92a3c166d0097edbc6b23da0c41081f4e
+size 390

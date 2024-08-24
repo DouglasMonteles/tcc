@@ -1,1 +1,3 @@
-Críticas ao encaminhamento pela Procuradora-Geral da República, Raquel Dodge, de parecer ao Supremo Tribunal Federal favorável à transferência de presidiários transgêneros e travestis para penitenciárias femininas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b145cf4b04471e2ee5fec13d21bfc3e6a2ea18ff0f0a73971b6cb8ec7959276
+size 222

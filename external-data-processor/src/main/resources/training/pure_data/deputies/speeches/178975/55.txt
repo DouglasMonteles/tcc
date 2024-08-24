@@ -1,1 +1,3 @@
-Apelo aos Deputados do PMDB e da base aliada de permanência no plenário para votação do mérito da proposição. Importância da matéria para o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47d81521d28c052742e977c0e694af7782696d808ab036897cd0dc5c715d08c0
+size 156

@@ -1,1 +1,3 @@
-Estreia do Deputado Estadual pelo Estado do Rio de Janeiro, Marcelo Freixo, no rol dos colunistas da Folha de S.Paulo. Reflexões sobre a inconsistência das teses defendidas pelo político do PSOL em seu primeiro artigo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afbe95ba23d0a4746a1ffdcbbde3fbdbb70b8f0e37b878efed986daafdf23ba6
+size 221

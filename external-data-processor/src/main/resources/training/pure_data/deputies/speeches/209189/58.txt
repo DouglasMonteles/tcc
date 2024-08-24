@@ -1,1 +1,3 @@
-Omissão do Governador do Estado do Rio de Janeiro sobre a morte da menor Ágatha Félix, provocada por disparo de arma de fogo da polícia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb1006278f4800f6213e141e56f016a19d8d6e4c07c36e81037628bdc74314e5
+size 140

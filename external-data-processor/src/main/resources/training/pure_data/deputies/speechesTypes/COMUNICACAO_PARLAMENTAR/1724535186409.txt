@@ -1,1 +1,3 @@
-Descumprimento pela Liderança do Governo de acordo de Líderes para a votação de matérias constantes na pauta. Inconformismo com a não inclusão na pauta do requerimento de convocação do Ministro da Fazenda, Guido Mantega, para esclarecimento à Casa de denúncias de corrupção contra o ex-Presidente da Casa da Moeda do Brasil, Luiz Felipe Denucci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:488b2d99ab8283c9696b49596dc5b581b83c22be11ff3d47820638e6f1d12b96
+size 358

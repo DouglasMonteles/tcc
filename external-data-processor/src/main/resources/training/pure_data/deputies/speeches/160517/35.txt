@@ -1,1 +1,3 @@
-Transcurso do Dia do Médico. Importância da regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de percentuais mínimos à saúde pela União, Estados e Municípios. Promoção da 8ª Semana Nacional de Ciência e Tecnologia. Abertura da Semana Estadual de Ciência e Tecnologia no Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:816a03c6e26d120bca2fbb369fe0cb7d07d8ab024322c1bd5b89652321c9433c
+size 328

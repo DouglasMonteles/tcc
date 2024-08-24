@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com eventos de violência recentes ocorridos no Rio de Janeiro, incluindo incêndios em ônibus e trens. Discordou da ideia de um gabinete de crise temporário, argumentando que o Rio de Janeiro já experimentou soluções temporárias sem resultados duradouros. Propôs a criação de um comitê permanente de inteligência operacional, segurança e cidadania. Enfatizou a necessidade de um programa de segurança pública abrangente e cooperativo, que respeite as competências da União, estados e municípios, para enfrentar os problemas persistentes de segurança no Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:778443731291e6777321ef8ad895a4b0c20ed09db9dbb2065e1f8f784988a756
+size 622

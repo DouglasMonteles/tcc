@@ -1,1 +1,3 @@
-Inauguração de obra destinada à contenção de processo erosivo em bairro do Município de Novo Gama, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14b2a06dfb0b2d54001a0fe313df41fdbf28fba91dd00a5b0ae11faafe5336cc
+size 122

@@ -1,1 +1,3 @@
-Pedido à Diretoria do Banco Nacional de Desenvolvimento Econômico e Social de liberação de recursos para o Estado de Rondônia, com vistas ao cumprimento de obrigações contratuais de obras de infraestrutura, escolas, delegacias, estradas, e investimento no setor produtivo. Regozijo com o desembargo, pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis, das obras da BR 319, e com as obras de recuperação da BR 364.
+version https://git-lfs.github.com/spec/v1
+oid sha256:314d0e9345780e8cbc9fdcd81fc1a4be043b47417cf8d7df6ec97d8317594fd6
+size 450

@@ -1,1 +1,3 @@
-Desigualdades regionais brasileiras quanto ao acesso aos meios digitais. Elevado número de estudantes desconectados da Internet durante o fechamento das escolas. Elogio ao professorado brasileiro pelo empenho na manutenção do vínculo entre a escola e o aluno durante a epidemia de coronavírus. Relevância do Projeto de Lei nº 3.477, de 2020, sobre a garantia de acesso à Internet, com fins educacionais, aos alunos e professores da educação básica pública. Congratulações à Deputada Tabata  Amaral, Relatora a matéria, e a outros Parlamentares envolvidos na construção da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84fc274f7dde597048157ce666a560b8ce26cb278458095fdd2f927d5f380cc7
+size 602

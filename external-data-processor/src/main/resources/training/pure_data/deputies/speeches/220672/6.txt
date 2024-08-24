@@ -1,1 +1,3 @@
-O Deputados expressou preocupação com os excessos na fiscalização do garimpo e da pequena mineração na região oeste do Pará, especialmente nos municípios de Itaituba, Jacareacanga, Novo Progresso e Trairão. Ele destacou a necessidade de equilibrar a fiscalização com a justiça, para evitar que trabalhadores legítimos sejam prejudicados. Também apelou pela regularização das atividades de mineração na região para fornecer segurança jurídica aos garimpeiros e contribuir para o desenvolvimento da região. Além disso, pediu apoio da Casa para esclarecer caso de assassinato de um trabalhador na mineração em Itaituba, Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5683bf984891a9609fef82924477251f0323a8c6168d80e2eec64e0334555dce
+size 649

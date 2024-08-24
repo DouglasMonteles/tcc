@@ -1,1 +1,3 @@
-Urgente adoção, pelo Governo brasileiro, de medidas diante as exigências do Governo argentino a respeito da importação de produtos pelo país. Atraso nas obras do Estádio Beira Rio, Possibilidade de exclusão de Porto Alegre, Estado do Rio Grande do Sul, como subsede da Copa do Mundo de Futebol de 2014. Manutenção pelo PMDB de candidaturas ao cargo de Prefeito Municipal em grandes metrópoles.
+version https://git-lfs.github.com/spec/v1
+oid sha256:813f367b41d0a6e70e0548540b438ef72c0e49d8875c26178d170cc8e443ef55
+size 404

@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Lions Club. Relevância da atuação do Lions Club Internacional, especialmente no combate à cegueira infantil e na prevenção do uso de drogas pela juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98b3cf51c2d61251852248476494dc34153e2eaf2d6b4a68275f7d376f16e3be
+size 190

@@ -1,1 +1,3 @@
-A Deputada &nbsp;destacou a importância do Seminário Inovação, Educação e Cuidado com as Mulheres, realizado durante a campanha Outubro Rosa, dedicado à prevenção de doenças ginecológicas. Agradeceu ao Instituto Ercília Nicodemos e ao Governador Helder Barbalho por seu apoio na prevenção do câncer de mama e outras doenças ginecológicas no Estado do Pará. A oradora reconheceu o trabalho conjunto das colegas parlamentares na divulgação de ações de prevenção de câncer de mama e colo do útero em todo o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:821a22509e00f3be6510332b3ee0af296ba0bc75e0d45aab2b972c193a9e5257
+size 537

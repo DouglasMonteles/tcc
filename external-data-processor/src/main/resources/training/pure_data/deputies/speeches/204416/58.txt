@@ -1,1 +1,3 @@
-Esforços envidados pelo Governo Federal e pela Defesa Civil em prol dos desabrigados por enchentes no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5deefbeeb6ecb63c0ccc791c5a023f18677176bf458ed3ee5c685a777e9606af
+size 131

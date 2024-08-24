@@ -1,1 +1,3 @@
-Necessidade de inclusão na legislação do Programa Minha Casa, Minha Vida de dispositivo destinado à revisão das prestações de beneficiários, no caso de perda da renda familiar. Correção de equívoco de discurso proferido pelo orador em sessão anterior, a respeito da responsabilidade da Caixa Econômica Federal pela não contemplação de famílias com unidades habitacionais construídas por meio do Programa Minha Casa, Minha Vida, no Município de Colatina, Estado do Espírito Santo. Regozijo com a classificação da Faculdade da Região Serrana - FARESE, sediada no Município de Santa Maria de Jetibá, Estado do Espírito Santo, em quinto lugar no Exame Nacional de Desempenho de Estudantes - ENADE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d028d17c1e5a422ac5cd0cc82d9a16b20805b5b255920a9337ec9a2969f156f8
+size 719

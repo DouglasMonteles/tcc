@@ -1,1 +1,3 @@
-Descumprimento pelo Governador do Estado de São Paulo, Tarcísio Gomes de Freitas, da diretriz educacional sobre o estabelecimento do número máximo de alunos por turma na pré-escola e nos ensinos fundamental e médio. Acionamento do Ministério Público para exame do caso. Apoio ao projeto apresentado pelo Deputado Estadual Prof. Carlos Giannazi para revogação da medida adotada pelo gestor estadual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16afc937a8fcbbe1b6078b50221583c439af4d360030ea5dc9a0bc75902854c8
+size 408

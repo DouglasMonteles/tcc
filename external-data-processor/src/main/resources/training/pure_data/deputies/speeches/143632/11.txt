@@ -1,1 +1,3 @@
-Necessidade de adoção, pelo Departamento Nacional de Infraestrutura de Transportes - DNIT e pelo Ministério dos Transportes, de providências acerca da situação das rodovias federais no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ce2153384d497132aa33139613236d10ec2e07bdf4078d97ee8450aaef506ff
+size 208

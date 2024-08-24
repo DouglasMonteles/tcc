@@ -1,1 +1,3 @@
-Prestação de contas pelo Governador Renato Casagrande à Assembleia Legislativa do Estado do Espírito Santo. Realização de obras viárias no Município de Colatina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2feee167dbb5a18227edc2069b2abbbca86de6b62f56cd634a67be3ff5a15a17
+size 169

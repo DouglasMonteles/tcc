@@ -1,1 +1,3 @@
-Realização da XII Jornada da Cidadania no Bairro Engenho da Rainha, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22daf2d45f6617a2de732b8b4e6bcf15c42244c2cfe49c0fbbd60c47905c3242
+size 114

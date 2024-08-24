@@ -1,1 +1,3 @@
-Posicionamento contrário do PCdoB  à   Emenda do Senado que suprime o art. 8º do  Projeto de Lei de Conversão 25 de 2012,  da Medida Provisória 575 de 2012( Altera a Lei 11.079 de 2004, que institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública), que tipifica como crime executar serviços de radiodifusão em potência superior a 100 Watts ERP, sem a devida outorga e define pena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcccbec607ea66f343a3ac48380158891783a4289cdbc82f616b02c36cac5972
+size 455

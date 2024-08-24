@@ -1,1 +1,3 @@
-Transcurso do 160º aniversário de Aracaju, Estado de Sergipe. Excelência das gestões dos ex-Prefeitos Jackson Barreto e Marcelo Déda. Congratulações a movimentos sociais e sindicais pela pauta de mobilização nacional realizada no dia 13 de março de 2015. Importância de manifestações no País realizadas no dia 15 de março de 2015 em repúdio à corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e13ab34a76f741e3477614faa60f9d3583822968a6d1793d32ba31c5064586fc
+size 372

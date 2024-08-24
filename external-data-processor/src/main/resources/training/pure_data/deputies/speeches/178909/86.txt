@@ -1,1 +1,3 @@
-Pedido à Presidência de registro automático de presença após fala de Deputado ao microfone em plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fa31207fdbc8c182bd01dc9a14d7c22f46087c11d388c163a2ea96e9bb488ca
+size 109

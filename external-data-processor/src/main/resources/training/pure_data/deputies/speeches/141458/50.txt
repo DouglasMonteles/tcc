@@ -1,1 +1,3 @@
-Pedido ao Deputado Rodrigo Maia de inclusão na pauta do requerimento de prorrogação do prazo de funcionamento da CPI do CARF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a30e34d596962fe142dff429473cb9d7560f99b73105e360a5cd2de5ed34af4
+size 128

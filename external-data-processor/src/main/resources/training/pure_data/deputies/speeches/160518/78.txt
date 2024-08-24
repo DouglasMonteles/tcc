@@ -1,1 +1,3 @@
-Regozijo pela aprovação do Projeto de Lei 28 de 2011-CN ( Estima a receita e fixa a despesa da União para o exercício financeiro de 2012). Agradecimento a todos que colaboraram para a aprovação da matéria. Atuação do Comitê de Obras Irregulares, coordenado pelo orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58d945a9cab6a29106b226ce02edf7ee4c32cb632b6767c2e9688bb854765310
+size 279

@@ -1,1 +1,3 @@
-Cobrança ao Governo brasileiro de imediato posicionamento sobre agravamento da crise política na Venezuela com a prisão arbitrária do Prefeito de Caracas, Antonio Ledezman.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24cebea27497cb8c74fbcfb4076e9c5cac70d7e7fd82395be0850e02d23fd853
+size 176

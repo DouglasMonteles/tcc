@@ -1,1 +1,3 @@
-Participação do orador nas comemorações pelo transcurso do 94º aniversário natalício de sua mãe, no Município de Poloni, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e47ada5afd6eb9514758b305ae453a57cfa88f135b0ef5d6e8163625c261da6
+size 151

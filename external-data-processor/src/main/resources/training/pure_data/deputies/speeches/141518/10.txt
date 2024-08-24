@@ -1,1 +1,3 @@
-Apresentação ao Governo Federal, por centrais sindicais, de contraproposta sobre o reajuste de aposentadorias e pensões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed04e2c34090184b666db2ee6cca9884ab96640d73431269970028e80ebb840a
+size 123

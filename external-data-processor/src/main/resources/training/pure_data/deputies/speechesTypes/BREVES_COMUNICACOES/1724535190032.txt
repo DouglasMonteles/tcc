@@ -1,1 +1,3 @@
-Urgente apreciação do Projeto de Lei nº 8.065, de 2014, sobre pesquisa e lavra de minérios de fosfato e potássio. Não contemplação do assunto, de modo satisfatório, pelo novo Código Nacional de Mineração. Conveniência de política nacional de autossuficiência em fertilizantes. Estabelecimento de marco regulatório específico para a exploração de jazidas de fosfato e potássio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:482cda51f3ef58f78fda2d36afe3f0923224f282728827f827636f4aaab49f7a
+size 396

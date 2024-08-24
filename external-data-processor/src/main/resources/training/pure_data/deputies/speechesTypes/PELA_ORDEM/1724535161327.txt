@@ -1,1 +1,3 @@
-O Deputado comunicou a realização de reunião da CPI das Pirâmides Financeiras para ouvir os sócios da empresa 123Millhas, que lesou mais de 700 mil brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6cef89275f8148f49dbc98783408f3858fa16dac8c574c600f663f6d43f5082
+size 165

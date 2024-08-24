@@ -1,1 +1,3 @@
-A Deputada denunciou o fechamento de pelo menos 14 escolas em comunidades rurais no Paraná, destacando a falta de consulta à comunidade escolar e os impactos negativos. Abordou também o encerramento da Educação de Jovens e Adultos (EJA) e a ameaça a colégios quilombolas, criticando a abordagem do governo estadual à educação como despesa, não investimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5148d72ba59cfa88665f94735132fb7b348fc2c9bda061eb36d0cef33ac223d
+size 368

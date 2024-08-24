@@ -1,1 +1,3 @@
-Congratulações ao Deputado Mendonça Filho, Relator do Projeto de Lei nº 2.617, de 2023,&nbsp;sobre a instituição do Programa Escola em Tempo Integral, e a alteração da Lei nº 11.273, de&nbsp;2006. Pedido de aprovação Projeto de Lei nº 54, de 2021, relativo à criação de incentivo financeiro ao estudante do ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a03e532dfeae293506391583011a9acdfe6a5ac21259a1a361c372b4bbc7011a
+size 336

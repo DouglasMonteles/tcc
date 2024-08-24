@@ -1,1 +1,3 @@
-Alegação de inexistência de votos suficientes para aprovação da admissibilidade do processo de impeachment da Presidente da República, Dilma Rousseff. Falta de apoio popular a eventual Governo de sucessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d26e28acfa38b498a8273b925da5f33cc8eb82489ab325b87f4bf0e3e6bb9fb9
+size 212

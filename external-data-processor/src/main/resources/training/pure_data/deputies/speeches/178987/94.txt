@@ -1,1 +1,3 @@
-Solicitação à Presidência de início da orientação das bancadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8bd234f0ec4ab46702d38a992198860885874ce336bdd10de3970815e899697
+size 70

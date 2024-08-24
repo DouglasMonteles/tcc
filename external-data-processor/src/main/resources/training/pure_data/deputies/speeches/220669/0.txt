@@ -1,1 +1,3 @@
-Compromisso do orador com as pautas de interesse do povo pernambucano, especialmente dos agricultores familiares. Defesa da ampliação de programas sociais, a exemplo do Programa de Aquisição de Alimentos — PAA. Inadmissibilidade de redução dos recursos do Fundo de Participação dos Municípios - FPM destinados ao Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06f170db6bf07113560b4fc083bf13c7ced7980989e10a3adee3f9ac0663951a
+size 345

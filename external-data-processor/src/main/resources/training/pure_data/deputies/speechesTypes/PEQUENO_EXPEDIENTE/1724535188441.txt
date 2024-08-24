@@ -1,1 +1,3 @@
-Participação do orador em comitiva da Presidenta Dilma Rousseff na entrega de unidades residenciais do Programa Minha Casa, Minha Vida e em visita ao Porto de Itaqui para anúncio de investimentos em infraestrutura de logística, em São Luís, Estado do Maranhão. Congratulações ao Governador Flávio Dino pela recepção à Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50e2db9ea815292edf0606cc50bac652bca98a6aaf065a6910eea19845f60985
+size 357

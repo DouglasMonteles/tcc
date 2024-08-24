@@ -1,1 +1,3 @@
-Reflexões do orador acerca do chamado distritão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16f519a8bcc32fa74503702b865465c7d4debde9ccfc16441e1a3e1b4657a4d3
+size 50

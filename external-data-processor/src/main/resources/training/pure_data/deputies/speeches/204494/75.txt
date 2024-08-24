@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque supressivo do § 13, art. 198, da Constituição Federal, alterado pelo art. 1º da Proposta de Emenda à Constituição nº 11, de 2022, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50cff481c478227fccff201aa36991683738321972d82a51d50eaec1b77ce617
+size 297

@@ -1,1 +1,3 @@
-Congratulações aos profissionais da TV  Câmara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53dff7d54841a978b41d2a8736d4be77c34f3862153601d126496693457e2bdc
+size 50

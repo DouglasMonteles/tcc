@@ -1,1 +1,3 @@
-Agradecimento aos agricultores familiares e aos extensionistas rurais pela eleição do orador. Compromisso de atuação parlamentar em defesa dos interesses do meio rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6437461a644b2e7a677e6b58ab4b54e0f0c35a5929c15c814e8e136f4e8c740d
+size 172

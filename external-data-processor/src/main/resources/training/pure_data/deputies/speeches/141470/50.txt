@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Beto Albuquerque diante do falecimento de seu filho. Saudação ao Deputado Inocêncio Oliveira. Vinculação entre a popularidade do Presidente Luiz Inácio Lula da Silva e a responsabilidade do PT no enfrentamento da crise econômica mundial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bbc6e3d3e71417864589973ea33fbdd7bc060bd963446140434ddf261e7b1be
+size 270

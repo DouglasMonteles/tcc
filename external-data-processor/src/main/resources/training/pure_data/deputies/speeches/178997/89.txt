@@ -1,1 +1,3 @@
-Aprovação de requerimento de indicação, pela Comissão de Educação, ao Poder Executivo para criação da Universidade Federal da Ibiapaba, no Estado do Ceará, resultante de projeto de lei de autoria do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd288b6fac6c3a90446945b96679ecfb947d02233d601499a9baa1bb9e253757
+size 216

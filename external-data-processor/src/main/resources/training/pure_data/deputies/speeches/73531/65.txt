@@ -1,1 +1,3 @@
-Transcurso do 40º aniversário de realização da greve de metalúrgicos na cidade de Osasco, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bd709f03710df870d55c770e582011549c6d66050a95bc54c888fd207cb4f37
+size 116

@@ -1,1 +1,3 @@
-Denúncia contra movimentos socializantes que operam mídias no Brasil. Responsabilidade do Comitê Olímpico Brasileiro na escolha de empresas de segurança para atuação nas próximas Olímpiadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8013f0be71fa8975898b019da3cf0890f02aa9433eb8549a3e62f2dfaaf98d92
+size 199

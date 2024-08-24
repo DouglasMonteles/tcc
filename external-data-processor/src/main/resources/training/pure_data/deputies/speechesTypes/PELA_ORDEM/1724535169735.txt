@@ -1,1 +1,3 @@
-Solicitação à Presidência de limitação do acesso às galerias do plenário para garantia da segurança e da ordem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a7e2f0a35552b0273d45d269db37e930c4526a50318443df4b9f67ffd372d40
+size 120

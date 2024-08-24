@@ -1,1 +1,3 @@
-Repúdio aos ataques do presidente da Agência Brasileira de Promoção de Exportações e Investimentos - ApexBrasil e de diretores do BNDES ao agronegócio brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:163e6635f208690671c72af3fbd43286b5a2078383a078c886f2c93558d4fb09
+size 169

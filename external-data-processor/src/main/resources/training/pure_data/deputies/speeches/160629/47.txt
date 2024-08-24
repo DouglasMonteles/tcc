@@ -1,1 +1,3 @@
-Apelo ao Ministro da Integração Nacional, Fernando Bezerra Coelho, de adoção de ações para a retomada das obras de transposição de águas do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99b6ef44fbe566389cfcebc5bd7c3902d4d8578bdf3a1619cab1786214bf9e78
+size 168

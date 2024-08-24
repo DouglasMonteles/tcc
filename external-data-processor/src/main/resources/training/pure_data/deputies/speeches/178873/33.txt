@@ -1,1 +1,3 @@
-Críticas à Proposta de Emenda à Constituição nº 241, de 2016, que institui o Novo Regime Fiscal, ante os malefícios à população brasileira decorrentes da limitação de gastos nas áreas de saúde e educação públicas. Defesa da tese de ilegitimidade do Governo do Presidente da República Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f688c98ecdac679be0f2bc3aacc37837b6f391fa641c3953dacf7efc7a94d370
+size 315

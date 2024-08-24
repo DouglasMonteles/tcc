@@ -1,1 +1,3 @@
-Falecimento da ex-Deputada Federal Marina Magessi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5ab046c9a9366b5da4fa2ca9371f417d2319f58b9bd2efd9b4df80b493835e9
+size 50

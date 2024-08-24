@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do Projeto de Lei Complementar nº 205, de 2023, que altera a Lei Complementar nº 195, de 8 de julho de 2022 (Lei Paulo Gustavo), para prorrogar até 31 de dezembro de 2024 o prazo de execução dos recursos por Estados, Distrito Federal e Municípios. Também anunciou a retirada do kit obstrução pelo PL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82e33f4a956bf31dbfce4477c27ae94c61fbae63b01a2014c816c6ad51a761a2
+size 352

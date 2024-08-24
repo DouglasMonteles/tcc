@@ -1,1 +1,3 @@
-Expectativa de recorde na safra agrícola brasileira de 2012-2013. Dificuldades para escoamento e armazenagem da produção agrícola. Inoperância da gestão do Governo Federal na área de infraestrutura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5f11730b74aedc9dfe8d9c5620a90ec0e5d481a15ef0282fa7e6b0870d7754e
+size 205

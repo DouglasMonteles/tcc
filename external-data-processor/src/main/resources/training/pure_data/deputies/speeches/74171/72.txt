@@ -1,1 +1,3 @@
-Defesa de votação de projetos consensuais nas sessões realizadas às quintas-feiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d6219d4b6068f3fdee9834a3c83b9d9af78f0a75c3031fa266b154ccbda8fed
+size 87

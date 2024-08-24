@@ -1,1 +1,3 @@
-Reeleição do Reitor da Universidade Estadual de Alagoas - UNEAL, Jairo Campos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:375d3168dbf293747b991bd78f7d3e0f4ef6f4e350de702f465dd1a52df18281
+size 80

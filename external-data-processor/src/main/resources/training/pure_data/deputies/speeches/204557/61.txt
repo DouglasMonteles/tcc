@@ -1,1 +1,3 @@
-Necessidade de votação pela Câmara dos Deputados e pelo Senado Federal, respectivamente, dos Projetos de Lei de nºs 2.633, de 2020, e 510, de 2021, relativos à regularização fundiária de ocupações incidentes em áreas de domínio da União. Importância da regularização fundiária para os produtores rurais da Amazônia. Conciliação entre o desenvolvimento econômico e a preservação ambiental na região amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3df099962e5d9589dae752f3196f146052fdd5b9b99179d34d01e3d1e6498c50
+size 433

@@ -1,1 +1,3 @@
-Apelo ao Ministro da Educação, Fernando Haddad, de abertura de negociações com servidores de Institutos Federais de Educação, Ciência e Tecnologia - IFETs e de universidades federais, em paralisação grevista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38ade984ea33c84f0e9f2a7959e6be426b65b1c7fa19f0b121ba52d91e603080
+size 217

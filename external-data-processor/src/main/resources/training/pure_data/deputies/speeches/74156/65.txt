@@ -1,1 +1,3 @@
-Êxito da política social adotada pelo Governo Luiz Inácio Lula da Silva. Aprovação da Proposta de Emenda à Constituição nº 47, de 2003, sobre a inclusão da alimentação no rol dos direitos sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0021e4a4c9331f50c1cde6945d2da90239d07cb7b4f7c0f0d638bce46dd53cce
+size 208

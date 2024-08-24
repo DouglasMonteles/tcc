@@ -1,1 +1,3 @@
-Agradecimento à Presidência pela designação do orador para  a relatoria da Medida Provisória nº 1.031, de 2021, sobre a desestatização da empresa Centrais Elétricas Brasileiras S/A - ELETROBRAS. Agradecimento ao Ministro de Minas e Energia, Bento Albuquerque; ao Ministro da Economia, Paulo Guedes; ao Líder do Governo na Casa, Deputado Ricardo Barros, e aos demais Líderes partidários, a Senadores e Deputados pela colaboração com o orador na elaboração do parecer apresentado à proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f61b4677b5d9fe06ada5b6b44bf1e5516c35edfb45a4493f37ab4f35fce34dc3
+size 510

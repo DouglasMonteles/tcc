@@ -1,1 +1,3 @@
-O Deputados destaca a realização da Marcha para Jesus, em Campo Grande, Mato Grosso do Sul, evento organizado pelo Conselho de Pastores de Campo Grande e o Conselho de Pastores do Mato Grosso do Sul, pelo Pastor Edmilson e pelo Pastor Wilton.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a729fe231ee2f79ce1c71ccba868f1ff396891a2374180ac97469f71a4f833c
+size 244

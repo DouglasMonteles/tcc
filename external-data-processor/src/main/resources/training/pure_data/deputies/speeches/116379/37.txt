@@ -1,1 +1,3 @@
-Improcedência do discurso proferido por Deputado oposicionista a respeito da votação de emenda em prol do pequeno produtor rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48c5c2eff35cae9c3f16fcfaf9b33e1d7c11af338c6e80842097627f5ad4727a
+size 132

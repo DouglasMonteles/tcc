@@ -1,1 +1,3 @@
-Repúdio ao Decreto nº 8.515, de 2015, que delega competência ao Ministro de Estado da Defesa para edição de atos relativos a pessoal militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79c19a6b27dd451683f5ff5bd0d3bce5386fc55fa302510fd18dcf819fa34927
+size 146

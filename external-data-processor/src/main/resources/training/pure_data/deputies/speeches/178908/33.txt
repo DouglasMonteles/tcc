@@ -1,1 +1,3 @@
-Denúncia quanto à situação da segurança pública no Estado do Pará. Pedido de renúncia do Secretário Estadual de Segurança Pública e Defesa Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:618fab89b691650bfa68bf9e482d6aafe9d53c1c412474dfd9c56d881a6bb713
+size 157

@@ -1,1 +1,3 @@
-Convite aos Deputados para participação em audiência pública com a presença do pesquisador da área de desenvolvimento infantil, Prof. Richard Tremblay, da Universidade de Montreal, Canadá, promovida pela Comissão Especial destinada ao exame de projeto de lei sobre o novo Plano Nacional de Educação, em conjunto com a Comissão de Direitos Humanos e Minorias e a Frente Parlamentar da Primeira Infância, no dia 13 de setembro de 2011, às 14h, no Plenário nº 10 da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aed9779105c64882b2f871b9c15426c5a0dbf7253432b7e929a7c6132cf8e741
+size 483

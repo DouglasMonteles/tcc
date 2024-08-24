@@ -1,1 +1,3 @@
-Posicionamento contrário do PP ao prosseguimento da sessão para deliberação sobre a Medida Provisória 595 de 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e778b6675eaf93feb89931372a5d6822d3b4d3553d36d717a71e8946d88cb94
+size 119

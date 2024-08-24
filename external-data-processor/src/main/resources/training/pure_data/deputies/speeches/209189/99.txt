@@ -1,1 +1,3 @@
-Homenagem póstuma ao Deputado Assis Carvalho. Infecção do Presidente Jair Bolsonaro por coronavírus. Expectativa quanto à postura do Presidente da República após a superação da doença.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4c978f533353354c17073aaed644b504149ca0402fb2c45133242b4499f228a
+size 194

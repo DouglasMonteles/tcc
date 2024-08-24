@@ -1,1 +1,3 @@
-Contrariedade à aprovação da Proposta de Emenda à Constituição nº 148, de 2019, de autoria da Deputada Clarissa Garotinho, sobre alteração do art. 21 da Constituição Federal, com vista à criação de fundo constitucional da unidade federativa criada a partir da fusão da antiga capital, e fixação do prazo de 10 (dez anos) para o funcionamento dos fundos constitucionais previstos no inciso XIV do dispositivo. Defesa de preservação do Fundo Constitucional do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46e905611dd6c6d79a0a5e9656cc9ac3c24b7d1395935fbb2f44b12b089f0da6
+size 494

@@ -1,1 +1,3 @@
-Artigo sobre a corrupção, de autoria do Desembargador aposentado, Francisco César Pinheiro Rodrigues, publicado pela Revista Jurídica Consulex.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4bd67172769a55da70b3e2242b46c2c62845a888a3bac3cfad169c029843e2d
+size 147

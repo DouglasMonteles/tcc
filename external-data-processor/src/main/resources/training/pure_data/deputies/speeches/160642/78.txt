@@ -1,1 +1,3 @@
-Posicionamento contrário do  PSB  à  Emenda 9, destacada, à   Subemenda Substitutiva Global de Plenário ao Projeto de Lei Complementar 416 de 2008 (Dispõe sobre o procedimento para a criação, a  incorporação, a fusão e o desmembramento de Municípios, para regulamentar o § 4º do art. 18, da Constituição Federal),  que determina que o Estudo de Viabilidade Municipal deverá receber parecer técnico favorável emitido pelo Instituto de Pesquisa Econômica Aplicada – IPEA e ser aprovado pelo Tribunal de Contas da União – TCU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ec913ff927e47b9d67cb93c0ce6111362cf8867e7339d0eae20cfa957de88a0
+size 547

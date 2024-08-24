@@ -1,1 +1,3 @@
-Arquivamento, pelo Supremo Tribunal Federal, de ação contra a ex-Prefeita Municipal de São Paulo Marta Suplicy sobre descumprimento da Lei de Responsabilidade Fiscal. Equívoco do então Prefeito José Serra relativo à licença para administração pelo Banco Itaú da folha salarial da Prefeitura do Município de São Paulo. Críticas à administração do Prefeito Gilberto Kassab.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40df6a85af79a2bb2cb6811c6d3192516cfe4166efe31d8f1338488e07dd7fea
+size 388

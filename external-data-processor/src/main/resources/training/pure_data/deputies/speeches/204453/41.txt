@@ -1,1 +1,3 @@
-Esclarecimento sobre a não inclusão dos profissionais da segurança pública, lotados no sistema penitenciário, em artigo do substitutivo do Projeto de Lei nº 1.562, de 2020, mencionado por Deputado no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:583e57e9ad062fa353d3f0f739913839edb8e6deddf70f1a77a834fc4c03f1fe
+size 216

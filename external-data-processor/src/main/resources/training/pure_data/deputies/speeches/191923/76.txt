@@ -1,1 +1,3 @@
-Transcurso do primeiro mês da invasão e vandalismo das sedes dos Poderes da República. Realização, em 1922, da Revolta do Forte de Copacabana contra o resultado das urnas. Preservação da democracia brasileira
+version https://git-lfs.github.com/spec/v1
+oid sha256:c51feaa511941377c86c33cfa72012da9a24ca6a849b8b85dcfca11ffbb2d314
+size 215

@@ -1,1 +1,3 @@
-Visita do Presidente do Supremo Tribunal Federal, Ministro Joaquim Barbosa, ao Núcleo Estadual de Atendimento Socioeducativo - NEAS, de Maceió, Estado de Alagoas. Destinação de recursos pelo Governo Federal para enfrentamento da violência no Estado. Crítica ao desempenho do Governo Estadual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bfc4c2571e264db093c76a0a4677cd4de69ace146d82ed52a9a9b56502361dc
+size 298

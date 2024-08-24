@@ -1,1 +1,3 @@
-Outorga de homenagem ao orador pela Universidade Estadual do Norte do Paraná. Repressão policial a profissionais da rede estadual de ensino paranaense. Defesa de ação do Governo Federal no Estado do Paraná em prol da solução do conflito entre o Governador do Estado e o movimento grevista de professores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f49e02f956d1722829dd41bfe89753cef52f7ca8eeceb841fa1b2338e11a3cb
+size 311

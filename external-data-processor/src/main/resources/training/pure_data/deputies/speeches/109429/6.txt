@@ -1,1 +1,3 @@
-Maior atenção do Governo Federal e do Governo do Estado do Rio Grande do Norte com a situação de barragens e açudes, especialmente no Sertão Central de Angicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a06a40aa828ace6b3a443cb2edf8eccb3ffbc1f74df60ff1bb0e54a2086557d
+size 166

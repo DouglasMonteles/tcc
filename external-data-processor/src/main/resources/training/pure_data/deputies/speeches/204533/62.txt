@@ -1,1 +1,3 @@
-Apelo aos Governadores Estaduais e Prefeitos Municipais de cumprimento da portaria do Ministério da Educação sobre a concessão de reajuste salarial a professores. Compromisso de atuação parlamentar em defesa dos profissionais da educação e dos estudantes de escolas públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18e5b4445f158ce2c2b9f258b13b0e07392510301aa6345afa284fcb6d836bb3
+size 284

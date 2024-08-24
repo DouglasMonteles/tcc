@@ -1,1 +1,3 @@
-O Deputado criticou a política econômica do Governo Lula, destacando a retomada do Imposto de Importação como preocupante para compras internacionais de até cinquenta dólares. Censurou o apetite arrecadatório contra os pequenos consumidores em sítios de internet. Alertou sobre a tributação de ICMS (Imposto sobre Circulação de Mercadorias e Serviços)&nbsp;em importações por comércio eletrônico. Reprovou o peso dos impostos sobre consumo no Brasil, salientando que o País possui uma das maiores cargas tributárias sobre consumo no mundo. Acusou o Governo de estelionato eleitoral pelo não cumprimento das promessas de redução de impostos sobre o consumo, prejudicando os mais pobres. Por fim, apelou ao Congresso Nacional para impedir o aumento excessivo de tributos promovido pelo Governo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2a74d24799780142e12ed236e881fb39f027324b4a093cb2b10df7b84755c1f
+size 814

@@ -1,1 +1,3 @@
-Indicação ao Governo Federal de criação de plano nacional de erradicação da fraude da perda de energia no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5a7796a626ef631775bfaca05c772839f9f56a17d31c59509057bfd3b593c65
+size 119

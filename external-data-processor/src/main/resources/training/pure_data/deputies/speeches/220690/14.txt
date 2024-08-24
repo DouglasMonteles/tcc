@@ -1,1 +1,3 @@
-Imediata demarcação de terras indígenas no extremo sul do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fe4bc0128bf01ba2e71af8f0dd7cc62ca03820c06f3e2f907be64ebec8bc4bf
+size 77

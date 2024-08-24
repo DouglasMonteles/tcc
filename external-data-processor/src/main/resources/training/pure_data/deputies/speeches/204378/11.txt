@@ -1,1 +1,3 @@
-Protesto contra a cobrança abusiva de tarifas de energia elétrica no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63654b4b83ebadf2db102dcbf2d12252f2c08633b59bb99b892abdeee6d3bc7b
+size 91

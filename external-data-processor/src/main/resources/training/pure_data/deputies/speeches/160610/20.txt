@@ -1,1 +1,3 @@
-Agradecimento ao Governador do Estado da Bahia, Jaques Wagner, pelas negociações promovidas com a direção estadual do Movimento dos Trabalhadores Rurais Sem Terra - MST. Expectativa de atendimento à pauta de reivindicações dos sem-terra pelo Ministro do Desenvolvimento Agrário, Afonso Florence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f16978b0fc4c5223a3a846ed9345b92b7ab8f1bc3b11dcc113d846a7c526d4c3
+size 303

@@ -1,1 +1,3 @@
-Indignação com as declarações de natureza pejorativa e desrespeitosa, proferidas pelos jornalistas Thiago Asmar e Alê Oliveira acerca do Município de Foz do Iguaçu, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f462b9c887a25088ad3de05a6a8cc50432c16e048aecc777143d73becf7a77cc
+size 193

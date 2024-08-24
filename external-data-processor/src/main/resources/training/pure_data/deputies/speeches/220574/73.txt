@@ -1,1 +1,3 @@
-Repúdio à operação de busca e apreensão realizada pela Polícia Federal na residência do ex-Presidente Jair Bolsonaro, para investigação de suposta falsificação do seu cartão de vacinação. Omissão do Presidente do Senado Federal, Senador Rodrigo Pacheco, diante de decisões ditatoriais tomadas pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7331c36e21cb8a080e5d0b39f75bfd7b17d7897093995f8fb215399e779ea19
+size 372

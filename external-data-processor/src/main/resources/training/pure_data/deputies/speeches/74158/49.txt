@@ -1,1 +1,3 @@
-Discussão da Medida Provisória 621 de 2013 (Institui o Programa Mais Médicos e dá outras providências). Avaliação crítica da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84acf146b1fd12ec7066a99b3f1744fb0b12bb01fd86dcd90515996655b8cce5
+size 142

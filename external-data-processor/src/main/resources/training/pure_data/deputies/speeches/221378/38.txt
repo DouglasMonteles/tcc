@@ -1,1 +1,3 @@
-A Deputada manifestou solidariedade ao povo do Rio Grande do Sul, afetado por enchentes devastadoras. Destacou a situação de emergência em Porto Alegre, enfatizando a gravidade das mudanças climáticas que afetam desproporcionalmente as populações mais pobres. Além disso, abordou a importância do Dia Nacional da Consciência Negra, elogiando as medidas anunciadas pelo Governo Lula para apoiar comunidades remanescentes de quilombos. Ressaltou ainda o compromisso do Governo Federal com a regularização e titularização de territórios quilombolas. Por fim, exaltou a resistência e a importância da luta negra no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e102eef02f20348e59be89764e50377ad6340ff1cde1cdd990b6ce328ff3d052
+size 635

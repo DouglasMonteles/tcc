@@ -1,1 +1,3 @@
-Elogio ao Presidente em exercício dos trabalhos. Apresentação de proposta de emenda à Constituição sobre o direito do militar de retorno às suas funções após o cumprimento de mandato eletivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e78598390d55938931ede8519289c2f0cf5819ec2cfb340751b74d2dc0e5d14f
+size 201

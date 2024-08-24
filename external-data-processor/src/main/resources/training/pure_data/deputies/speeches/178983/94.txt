@@ -1,1 +1,3 @@
-Disseminação do consumo de crack no País. Apelo ao Poder Executivo de execução do programa Crack, é Possível Vencer. Imediata liberação, pelo Governo Federal, de ônibus adquiridos com recursos do programa pelos Municípios de Suzano e Ribeirão Preto, Estado de São Paulo; São Gonçalo, Estado do Rio de Janeiro, e outras municipalidades brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:849e1641e8f4f9b96ce52c5710410415303e9cc9a67ac8637711ce7a2b40c741
+size 362

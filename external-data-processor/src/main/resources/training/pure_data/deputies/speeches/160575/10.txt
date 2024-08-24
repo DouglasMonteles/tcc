@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Conquistas da mulher brasileira. Luta das mulheres pela igualdade de direitos. Realização da reforma política. Defesa de adoção do voto em lista fechada. Ampliação da representatividade feminina no Parlamento brasileiro. Preservação da Lei Maria da Penha, destinada à coibição da violência doméstica contra a mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba44c463c6b167df104ea4ad7446f5e6e77fba7cd13c8713521ba735cbe7c2f2
+size 373

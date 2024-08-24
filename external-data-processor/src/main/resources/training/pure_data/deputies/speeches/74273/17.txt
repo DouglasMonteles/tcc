@@ -1,1 +1,3 @@
-Aumento da expectativa de vida da população brasileira. Elevado uso de medicamentos pelos brasileiros. Transcurso do 10º aniversário da promulgação da Lei dos Genéricos. Êxito do Programa Farmácia Popular. Ampliação do acesso da população ao Sistema Único de Saúde - SUS. Menção a fábula de Esopo sobre fraternidade e solidariedade entre os seres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70748ab7ea1d421fd5da1d1d00cbea94b74824e2bc3daa51560b43ed73969a83
+size 365

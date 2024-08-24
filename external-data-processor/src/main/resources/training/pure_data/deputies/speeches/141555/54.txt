@@ -1,1 +1,3 @@
-Aprovação pela Comissão de Constituição e Justiça e de Cidadania, em caráter conclusivo, do Projeto de Lei nº 4.622, de 2009, concessivo ao Ministério Público do direito da apresentação de pedido de revisão criminal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55918585185ae72529b8d669d0b42f452108bacaf5a44e7610191d608bc2186a
+size 229

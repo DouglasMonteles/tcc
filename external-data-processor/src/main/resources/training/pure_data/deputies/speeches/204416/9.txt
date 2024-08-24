@@ -1,1 +1,3 @@
-Solidariedade ao Líder do Governo, Deputado Major Vitor Hugo, diante de pronunciamento ofensivo proferido no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:205ce97a76f4c7adb6e0f0b39bfa9532f9ae23691c18e51107a031d376980424
+size 120

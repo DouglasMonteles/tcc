@@ -1,1 +1,3 @@
-Realização da 4ª Marcha Nacional da Cidadania pela Vida, na Esplanada dos Ministérios, em Brasília, Distrito Federal. Convite aos Deputados para participação no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8c0fde118e079d806c92bca796c459f4273b609528743831c4f2765afc217a6
+size 175

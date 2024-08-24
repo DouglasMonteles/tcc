@@ -1,1 +1,3 @@
-A Deputada criticou a recente desvalorização das ações da PETROBRAS, associando-a ao anúncio de alterações estatutárias que possibilitariam novas indicações políticas para a empresa. Ressaltou a conexão deste evento com prejuízos históricos decorrentes de práticas de corrupção, exemplificando com a Operação Lava Jato e seus impactos financeiros. Mencionou uma decisão do ex-Ministro do Supremo Ricardo Lewandowski, que facilitaria o retorno do aparelhamento estatal pelo PT. Contrastou a gestão atual com a administração anterior, elogiando os lucros obtidos pela PETROBRAS durante o governo Bolsonaro e a postura da ex-primeira-dama. Por fim, expressou saudosismo pelo governo anterior e desaprovação pela atual administração, advogando por um retorno à moralidade e à eficiência governamental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22402b6e00f30c0a8757726e027ed005c3df243864ae3da8a0bf95ec25b8c856
+size 827

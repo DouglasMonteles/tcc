@@ -1,1 +1,3 @@
-Orientação de bancada na votação do recurso contra a declaração de inconstitucionalidade da Emenda de Plenário nº 6, oferecida ao Projeto de Lei nº 1.321, de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83212c8ce98e312151468072ecd1effb02c2a5a8096646a80d0a0f54a7de6d64
+size 172

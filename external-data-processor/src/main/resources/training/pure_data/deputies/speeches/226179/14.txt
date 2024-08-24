@@ -1,1 +1,3 @@
-A Deputada convocou audiência sobre golpes financeiros contra consumidores brasileiros. Destacou que a cada 7 segundos, ocorre uma tentativa de fraude e que os consumidores frequentemente arcam sozinhos com prejuízos. Informou que representantes do Banco Central, FEBRABAN, Procons e outros órgãos, participarão do evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa6bdc902655b570f389f4a925425aa1f58fa28cf31ea1fbd69803fbb40402db
+size 327

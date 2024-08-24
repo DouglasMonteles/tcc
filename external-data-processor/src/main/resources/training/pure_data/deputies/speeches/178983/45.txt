@@ -1,1 +1,3 @@
-Transcurso do 456º aniversário de fundação do Município de Moji das Cruzes, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4b714b0adcd7592c09b08573046d3fbfb98524db729264485bbbed8f1318412
+size 102

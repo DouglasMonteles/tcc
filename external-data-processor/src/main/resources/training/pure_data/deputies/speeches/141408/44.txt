@@ -1,1 +1,3 @@
-Aprovação pelo Senado Federal da proposta de criação do Estatuto do Garimpeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adbe84809bfa63e183bb74262c44eab253c70b52e41cf632857bf74ecd6461ca
+size 83

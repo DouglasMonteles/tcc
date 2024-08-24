@@ -1,1 +1,3 @@
-Assinatura, pelo Departamento Nacional de Obras Contra as Secas - DNOCS, de ordem de serviço para construção do canal de transposição de água por gravidade para o Perímetro Irrigado Icó-Lima Campos, no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfe85633b7a99cd9acb37865a148319c5f3475dcc88dd8857006b0b36cd2d60e
+size 227

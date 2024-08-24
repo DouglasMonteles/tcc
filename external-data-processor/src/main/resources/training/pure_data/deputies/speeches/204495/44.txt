@@ -1,1 +1,3 @@
-Transcurso do Dia do Meio Ambiente e do 11º aniversário de criação da Reserva Extrativista do Rio Xingu, no Município de Altamira, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0220f80857148be9bd16aa269e0852807e35d65a60eab2d63edaf1e459ad53cb
+size 152

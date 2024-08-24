@@ -1,1 +1,3 @@
-Julgamento pelo Supremo Tribunal Federal de ações diretas de inconstitucionalidade sobre o uso de amianto na construção civil. Defesa de exploração e uso de amianto no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e8c74c288a974e790c08546b40bdb94f62278c08085b0cd984dea1428f9224c
+size 180

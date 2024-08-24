@@ -1,1 +1,3 @@
-Pedido à Presidência de retirada de pauta do Projeto de Lei nº 7.687, de 2017, sobre o estabelecimento de sanções à discriminação contra profissionais de limpeza pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dd95792209a958a020a433d90f98e3eda9e3915a2baf9b0b2dea36bec4e4b20
+size 179

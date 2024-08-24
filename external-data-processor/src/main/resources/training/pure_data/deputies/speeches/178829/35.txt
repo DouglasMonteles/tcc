@@ -1,1 +1,3 @@
-Importância da aprovação, pelo Senado Federal, do Projeto de Lei da Câmara nº 108, de 2014, sobre a investigação criminal conduzida por oficiais da Polícia Militar. Realização da 45ª Feira Agropecuária e Industrial de Ourinhos - FAPI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b93f478c26837c7bf06f149b02997e1af4208b708c4949e5e0d3dbb1ea8a6479
+size 246

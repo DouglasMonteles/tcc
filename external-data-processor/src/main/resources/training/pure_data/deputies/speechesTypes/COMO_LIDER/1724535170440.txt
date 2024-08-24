@@ -1,1 +1,3 @@
-Indignação com decisão do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP de não publicação das notas do Exame Nacional do Ensino Médio - ENEM dos campi dos institutos federais de ensino. Desempenho acima da média nacional, em 2014, dos estudantes do ensino médio do campus de Vitória do Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d996fdec57401839fcf54c7e550eb45422fa86da168fa734186ebf1db3f3b68
+size 403

@@ -1,1 +1,3 @@
-Transcurso do 80º aniversário de criação do Ministério do Trabalho e Emprego.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c461b42a3cb5bafdcf59a6b1f55bba265c960259399478987642a0e1353d015
+size 82

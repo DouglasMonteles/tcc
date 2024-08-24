@@ -1,1 +1,3 @@
-Orientação de bancada na votação da admissibilidade dos requerimentos de destaque simples. Repúdio à decisão do Tribunal Superior do Trabalho sobre a ilegalidade de movimentos grevistas realizados contra a privatização de empresas públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dfa14373c8930ed6935af187bafe958f7563940b5bf3e34693148ac44ca4b14
+size 250

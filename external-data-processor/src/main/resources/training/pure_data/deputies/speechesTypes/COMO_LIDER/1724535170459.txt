@@ -1,1 +1,3 @@
-Agradecimento à Casa pela aprovação do Projeto de Lei nº 5.638, de 2020, de autoria do orador, sobre as ações emergenciais e temporárias destinadas ao setor de eventos, para compensação dos efeitos decorrentes das medidas de combate à epidemia de coronavírus. Congratulações aos trabalhadores, às entidades representativas do setor e, especialmente, ao Presidente da Associação Brasileira dos Produtores de Eventos - ABRAPE, Doreni Caramori Júnior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19940d52b8e2e19fd64fe0dbcf51ab79124fa6d64b6935e179bb776811815291
+size 465

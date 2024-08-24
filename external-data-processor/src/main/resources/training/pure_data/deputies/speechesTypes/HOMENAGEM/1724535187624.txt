@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Dia Mundial do Meio Ambiente.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dfdc992491d65fdbbf27bbf5f8738f816c165e31ffe048841fb0c5c72c58308
+size 209

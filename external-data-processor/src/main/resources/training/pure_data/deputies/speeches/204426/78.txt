@@ -1,1 +1,3 @@
-Defesa de rejeição da Medida Provisória nº 927, de 2020, acerca de medidas trabalhistas destinadas ao enfrentamento do estado de calamidade pública decorrente da pandemia de coronavírus (Decreto Legislativo nº 6, de 2020).
+version https://git-lfs.github.com/spec/v1
+oid sha256:106337963cd71646cddbdab519eec8536cd1c132361953490f561ab8efb4e71c
+size 229

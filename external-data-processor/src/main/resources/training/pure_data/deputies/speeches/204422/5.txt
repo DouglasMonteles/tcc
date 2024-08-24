@@ -1,1 +1,3 @@
-Inconstitucionalidade do decreto editado pelo Governador do Estado de Pernambuco, Paulo Câmara, sobre a exigência imposta a fiéis para participação em cerimônias e cultos religiosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:388fd601c55a8a779fac1a6ca77b7cc3e912b20484510124eba430c686ac757f
+size 188

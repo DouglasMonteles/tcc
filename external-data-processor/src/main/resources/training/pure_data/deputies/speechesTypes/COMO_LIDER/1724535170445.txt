@@ -1,1 +1,3 @@
-Defesa de concessão, aos profissionais da área de segurança pública, de tratamento diferenciado no processo de reformulação da Previdência Social. Convocação de candidatos aprovados em concurso público para a Polícia Rodoviária Federal. Homenagem póstuma ao empresário Sadi Paulo Castiel Gitz, do Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6cf9464b2312bfe95bddcd4a48de2690f89538cf9e3647ad549e3e992c66723
+size 329

@@ -1,1 +1,3 @@
-Instauração de CPI destinada à investigação de denúncias da prática de trabalho escravo no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa94fb3088ceb6970a8687deabe595dbc0f5f9c3acc63e8c9b4db63bf919c407
+size 104

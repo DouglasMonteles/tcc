@@ -1,1 +1,3 @@
-Apoio à participação de indígena em seleção brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b726b6e88231410b014d50b0deeab7abfdf5e196ce11537d0bfad3380ecca709
+size 61

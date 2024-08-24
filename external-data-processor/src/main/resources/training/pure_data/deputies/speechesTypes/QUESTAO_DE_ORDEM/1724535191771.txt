@@ -1,1 +1,3 @@
-Questão de ordem sobre a inscrição de oradores para a discussão da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1170089ea6c470508d962338cd9d6a96d345776086ef0aae6e40277bcb028b3f
+size 80

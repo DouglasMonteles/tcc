@@ -1,1 +1,3 @@
-Transcurso do Dia do Enfermeiro. Saudações aos profissionais da enfermagem, especialmente à enfermeira Lícia Nery de Novais e aos professores e estudantes do curso de Enfermagem da Universidade Estadual do Sudoeste da Bahia - UESB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ac8210ad35f09637abecb070d90a698ac4553da78093a2c94937c1aaec3a520
+size 235

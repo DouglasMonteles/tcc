@@ -1,1 +1,3 @@
-Crise do setor agrícola na região entre os Municípios de Petrolina, Estado de Pernambuco, e Juazeiro, Estado da Bahia. Decretação de situação de calamidade pública em Municípios do Estado de Pernambuco em decorrência de intempéries climáticas. Ações do Governo Federal e do Governo de Pernambuco para a recuperação da economia local. Reafirmação do compromisso do orador com o setor agrícola da região sertaneja nordestina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0f4e7ce6e7d831f700e17151e80bc961b3589af428b38e631b4d65734504f1b
+size 443

@@ -1,1 +1,3 @@
-Necessidade de apoio da Casa às medidas da Presidenta Dilma Rousseff destinadas à melhoria dos serviços públicos e ao combate à corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c17da65593e49e85a00b411da8644265020836f4b002b22db9439829d828c4e
+size 145

@@ -1,1 +1,3 @@
-Balanço negativo dos 100 primeiros dias de Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eae49b0df5b5c3fef58f629d620d37dcf412e793c60243d2f964b4589019792
+size 79

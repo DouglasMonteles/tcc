@@ -1,1 +1,3 @@
-Inclusão no parecer do Relator da Proposta de Emenda à Constituição nº 31, de 2007, Deputado Sandro Mabel, de salvaguardas em benefício da Zona Franca de Manaus, Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e7ecea612f37bb21c4b5e5d02088c2000f807ddd2ba92f44d7109217ed40482
+size 187

@@ -1,1 +1,3 @@
-Repúdio à discriminação praticada por ativistas e líderes políticos contra o Deputado Pastor Marco Feliciano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e78f8b564eba0372445a097a6843751bc7c44002750dd92d1b40f42c8f12b8b
+size 115

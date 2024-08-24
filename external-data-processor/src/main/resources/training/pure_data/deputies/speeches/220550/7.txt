@@ -1,1 +1,3 @@
-Despreparo do Ministro da Fazenda, Fernando Haddad, e do Presidente da Caixa de Previdência dos Funcionários do Banco do Brasil&nbsp;- PREVI, João Fukunaga. Desvio de exorbitantes recursos públicos pelos governos petistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2042b078e63536be9dae0867701ce57c852d51f6b69afb457f4bba1ec429975
+size 226

@@ -1,1 +1,3 @@
-Transcurso do Dia do Engenheiro e do Arquiteto. Homenagem à Associação dos Engenheiros e Arquitetos de Sorocaba, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa05ddf08882ef0767089b9685b42ac42cd03135ed4c915b58aa0254fa003fd2
+size 137

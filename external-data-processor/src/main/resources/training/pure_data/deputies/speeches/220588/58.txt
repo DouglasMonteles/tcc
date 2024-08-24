@@ -1,1 +1,3 @@
-O Deputado discorreu sobre a produção agropecuária no Estado do Acre, com números crescentes ano a ano. Destacou que o momento indica oportunidade e exige atenção do Governo do Estado e do Governo Federal para garantir mais crédito e facilidades ao produtor rural. Diante dessa exposição, anunciou a apresentação do Projeto de Lei nº 1.513, de 2023, que suspende, por 36 meses, o pagamento de financiamentos obtidos no âmbito dos programas de crédito rural. O orador esclareceu que a matéria visa retirar o peso de dívidas do agropecuarista e valorizar o setor no Acre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19804b9530b367839c83a0691096ad091040b253262c8396a5897acc2b446e5b
+size 585

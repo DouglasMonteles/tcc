@@ -1,1 +1,3 @@
-Defesa da aprovação da Proposta de Emenda à Constituição nº 304, de 2017, que acrescenta § 7° ao art. 225 da Constituição Federal para determinar que práticas desportivas que utilizem animais não são consideradas cruéis, nas condições que especifica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c275dd15060654fea10a9897c273abbec91b94ecf915432a6ae9888e468f632
+size 266

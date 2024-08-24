@@ -1,1 +1,3 @@
-Repúdio a pronunciamento de Deputados acerca de compra de votos para aprovação da matéria em pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc5c4ed4ef1a9a1a53d35ab9c716664b40dfcb34446ab38df0cd3fe4c4ac3676
+size 103

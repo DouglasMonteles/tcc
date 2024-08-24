@@ -1,1 +1,3 @@
-Encaminhamento da votação do parecer da Comissão Mista quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e da adequação financeira e orçamentária da Medida Provisória nº 863, de 2018, sobre a abertura do setor aéreo ao capital estrangeiro, nos termos do art. 8º da Resolução nº 1, de 2002, do Congresso Nacional. Conclamação aos Parlamentares para união de esforços em prol da melhoria do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6d8757e4c2221d6208b2726af651bff9cb9dd9aff0616c2b447eeb371f5d30d
+size 445

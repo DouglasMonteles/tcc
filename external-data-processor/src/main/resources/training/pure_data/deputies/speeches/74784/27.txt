@@ -1,1 +1,3 @@
-Manifestação de pesar pelo falecimento do Deputado Clodovil Hernandes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9e2ec96d8ac7c638bdc76c6608963fea937e5a519e671ead211428217841ae7
+size 72

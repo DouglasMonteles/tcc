@@ -1,1 +1,3 @@
-Ponderações sobre o  art. 32 do  Projeto de Lei de Conversão da Medida Provisória  451 de 2008 (Altera a legislação tributária federal, e dá outras providências), relativo à tabela para cálculo de indenização do Seguro Obrigatório DPVAT, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fb3624fd382f9748a3a98ff89f14031a0be12005a11b9f3bd7287502cddc8be
+size 266

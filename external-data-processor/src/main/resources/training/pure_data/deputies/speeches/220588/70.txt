@@ -1,1 +1,3 @@
-O Deputado condenou as atrocidades do grupo terrorista Hamas contra Israel. Destacou a responsabilidade do Hamas na demora da liberação de brasileiros em Gaza e alertou sobre a ação conjunta da Polícia Federal e Mossad, serviço de inteligência de Israel, para frustrar um plano de ataque do Hezbollah no Brasil, apoiado pelo Irã. Instou o Governo brasileiro a agir, exigindo informações do Irã e expressando solidariedade a Israel diante das evidências alarmantes de terrorismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d24f53c98976cbbdd358ea457264ab5a19b3e16c01f5f87e2fdb363b70b3126
+size 490

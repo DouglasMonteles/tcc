@@ -1,1 +1,3 @@
-Necessidade de reação da Mesa Diretora da Casa contra declaração ditatorial do Deputado Eduardo Bolsonaro. Defesa de rejeição do Projeto de Lei nº 3.261, de 2019, sobre a atualização do marco legal do saneamento básico. Prejuízos causados ao País pelo megaleilão de reservas petrolíferas da camada pré-sal da empresa Petróleo Brasileiro S/A - PETROBRAS. Protesto contra a pretendida taxação da energia fotovoltaica. Protesto contra a entrada do Deputado Eduardo Bolsonaro no plenário acompanhado de pessoas não identificadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0913feed64382aeb8b6cbdd39897d1d1a6c5c76a1d74f1f69c43c4b339758f45
+size 545

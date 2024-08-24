@@ -1,1 +1,3 @@
-Transcurso do 58º aniversário da instalação da Igreja do Evangelho Quadrangular no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44ca82f0c40419714b8cf9d680ac0498a18cf1dae3fe04dcb5342fb9302ffe08
+size 94

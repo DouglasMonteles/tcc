@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional do Jovem Trabalhador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56fff9937341bc0b50203897f0f75115b4c9bb472bab955bbb5a70720d736284
+size 53

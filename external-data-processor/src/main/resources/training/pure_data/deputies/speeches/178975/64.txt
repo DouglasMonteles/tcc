@@ -1,1 +1,3 @@
-Apoio à aprovação da chamada PEC da Vaquejada. Matéria sob o título Folha errou em reportagem sobre áudio de Temer, divulgada pelo jornal Folha de S.Paulo. Retomada do crescimento econômico no Governo Michel Temer. Probidade do Presidente da República. Expectativa de continuidade das votações de propostas de reformas necessárias ao desenvolvimento econômico do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:078728ca0c0135f437e5909a8c747cf099674221bb5e61e7d0b28cd354d28c97
+size 381

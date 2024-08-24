@@ -1,1 +1,3 @@
-Defesa do condicionamento da inscrição do agricultor familiar no Cadastro Ambiental Rural - CAR à regulamentação pelo Governo Federal de pagamento por serviços de preservação ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63ad2f63f34a78fc29916cf4b539000ed91bde86df2f78393270550dc90df5e9
+size 193

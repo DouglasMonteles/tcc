@@ -1,1 +1,3 @@
-Justificativa da ausência do Presidente da Federação das Indústrias do Estado do Piauí, Antonio José de Moraes Souza Filho. Homenagem à memória do ex-presidente da entidade, Antonio José de Moraes Souza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:556cf26cc6a6deb4c3a688fa87218d8978bcb7bc85c2d9022dda6be96814cde7
+size 212

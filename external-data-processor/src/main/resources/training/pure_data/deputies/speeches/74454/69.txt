@@ -1,1 +1,3 @@
-Comemorações realizadas no País em homenagens à memória do jurista, filósofo e literato Clóvis Bevilacqua, ao ensejo do transcurso dos 150 anos do seu nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4e05002dc187e0b7d53a17077a2174d2089c567e75fcc3af20ca59eaae2fec1
+size 169

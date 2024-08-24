@@ -1,1 +1,3 @@
-Transcurso do Dia do Professor. Baixa remuneração e capacitação do professorado brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c3f306b492d23ede9607111acb8e2595a5f313e919b47810958cc452d7a2f01
+size 95

@@ -1,1 +1,3 @@
-Indicação, pela Assembléia Legislativa, do ex-Deputado Josué Cláudio de Souza Filho para cargo de Conselheiro do Tribunal de Contas do Estado do Amazonas. Transcurso dos aniversários de fundação dos Municípios amazonenses de Envira e Itamarati.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48638f0fd6dcd5506be1d4bc1817ef47d9766b1f18f6cbb1257c3e3a7d798571
+size 253

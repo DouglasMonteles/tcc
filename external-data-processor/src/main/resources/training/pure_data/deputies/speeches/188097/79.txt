@@ -1,1 +1,3 @@
-Alcance de lucros exorbitantes pela empresa Petróleo Brasileiro S/A - PETROBRAS, em decorrência da política de dolarização dos preços de combustíveis (Preço de Paridade Internacional - PPI). Percepção de vultosos dividendos pelos acionistas da estatal. Responsabilidade do Presidente da República pelos elevados preços de combustíveis vigentes no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:697741d4c3120ef10a5c9e96de80b76e53ba50c4e2508cd9cc4f028cc606f3d6
+size 366

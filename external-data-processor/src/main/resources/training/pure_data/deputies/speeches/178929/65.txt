@@ -1,1 +1,3 @@
-Reclamação contra a improdutividade de sessões convocadas pela Câmara dos Deputados. Posicionamento de membros do PHS favorável à investigação do Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20430bc0d88e1107712947d68ed4cc23c81191b2bfc29c59ec6369f66c7060d0
+size 179

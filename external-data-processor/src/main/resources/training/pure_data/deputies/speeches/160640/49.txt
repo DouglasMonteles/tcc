@@ -1,1 +1,3 @@
-Relançamento da Frente Parlamentar em Defesa das Comunidades Terapêuticas, Acolhedoras e APACs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aef31ce0bafd0dff541aa0f3bd4e4d27e21a0dd54ec2d1eab78446d33b407d5
+size 97

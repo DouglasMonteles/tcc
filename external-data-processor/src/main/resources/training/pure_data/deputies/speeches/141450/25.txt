@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial em Memória às Vítimas de Acidentes de Trânsito. Apresentação do Projeto de Lei nº 4.260, de 2008, sobre a instituição do Dia Nacional de Mobilização em Memória das Vítimas de Trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a67048693c86da1b0fdd8cc3a9c7e567e4f0882c3ecf2fbffe0a39ac578ef110
+size 224

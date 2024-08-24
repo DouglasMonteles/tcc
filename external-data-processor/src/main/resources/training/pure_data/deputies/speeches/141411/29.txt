@@ -1,1 +1,3 @@
-Imediata votação, em segundo turno,  da proposta de emenda à Constituição sobre a implantação do piso salarial nacional dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b6f199d2ca34275b14436d63eddc7e01047d96ea8ce4f68150d42594cea4370
+size 201

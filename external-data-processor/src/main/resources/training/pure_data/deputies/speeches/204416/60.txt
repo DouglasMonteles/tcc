@@ -1,1 +1,3 @@
-Transcurso do 40º aniversário de fundação da TV Pampa, da Rede Pampa de Comunicação, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe07242dd5fd051c5c0451d87ce49e12685a12cc706cf9ce41d1dea54e3890c9
+size 122

@@ -1,1 +1,3 @@
-Protesto contra o veto presidencial aposto ao dispositivo do projeto sobre a Lei de Diretrizes Orçamentárias - LDO de 2011/2012, destinado à recomposição dos proventos de aposentados e pensionistas, e de outros vetos impostos à LDO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a83c5a6e951e08f08603b35e54627e527e40662ade5edcc5a649d0ec7ceb28f5
+size 238

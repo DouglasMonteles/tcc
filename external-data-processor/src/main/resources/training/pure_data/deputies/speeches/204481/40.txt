@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei Complementar nº 11, de 2020, relativo à alteração da sistemática de cobrança do ICMS incidente sobre combustíveis, e às Emendas de Plenário de nºs 1 a 4 presentadas ao Projeto de Lei Complementar nº 16, de 2021, apensado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d89784108d184a0e2d1cc0580b931d7fd2a1a6e263419399dc8acf4d7fd70fd
+size 270

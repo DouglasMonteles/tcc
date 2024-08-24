@@ -1,1 +1,3 @@
-Lançamento, pelo Governo Federal, de Consulta Pública destinada à revisão da Lei Geral de Telecomunicações. Anúncio da realização de audiência pública sobre o tema pela Comissão de Ciência e Tecnologia, Comunicação e Informática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cb7ee77b5c9c7b38c4410c457fc9fa76aeea901ca9034291937f63c60803248
+size 245

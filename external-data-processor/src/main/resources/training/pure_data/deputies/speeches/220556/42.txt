@@ -1,1 +1,3 @@
-Discussão pela Casa do Projeto de Lei nº 5.543, de 2020, sobre a instituição do Dia Nacional do Cirurgião Oncológico. Liberação, pelo Presidente Luiz Inácio Lula da Silva, de recursos ao Estado de Santa Catarina para a realização de cirurgias de reconstrução mamária no Sistema Único de Saúde - SUS. Atenção especial do Presidente da República à saúde da mulher brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6c695c40f758bac8bb6e1b8865ffaa4f616a0880202af9c76d1fb9d03df781f
+size 394

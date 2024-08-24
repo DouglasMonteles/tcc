@@ -1,1 +1,3 @@
-Atuação contraditória dos partidos da Esquerda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b23d3ee15de2b1cde0afec3540a8ceb6df68155d9e2d77a8996b46a8210d1a58
+size 50

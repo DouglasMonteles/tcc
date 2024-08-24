@@ -1,1 +1,3 @@
-Presença no plenário do Prefeito Municipal de Água Branca, Estado do Piauí, e de jornalista do Diário do Povo. Possibilidade de aprovação de emenda sobre a redistribuição de receitas provenientes de royalties do petróleo, ao ensejo da realização da reforma tributária. Posicionamento do orador acerca de matérias constantes da pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:029f50e2c70db2cda3ccb042b9d60801025702158ff28c9a7d2855aeea9712a6
+size 347

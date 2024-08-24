@@ -1,1 +1,3 @@
-Responsabilidade do Governo Dilma Rousseff pelo blecaute ocorrido na Região Nordeste. Sucateamento do setor energético brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27e97ee1a4a54bdd5fc1b270af741ca2472a101b7e9eca7845d97b08bbb3e9e1
+size 132

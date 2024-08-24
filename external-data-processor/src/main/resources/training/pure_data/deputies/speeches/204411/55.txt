@@ -1,1 +1,3 @@
-Transcurso do 55º e do 38º aniversários de emancipação político-administrativa, respectivamente, dos Municípios de Céu Azul e Tupãssi, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d8208b32bfcb8b9c6cc53a27660903424df30bb415d7bfbb395b693bf249261
+size 165

@@ -1,1 +1,3 @@
-Defesa de acatamento, pelo Superior Tribunal de Justiça, da ação sobre a obrigatoriedade de cobertura, pelos planos de saúde, de procedimentos não incluídos na lista da Agência Nacional de Saúde Suplementar - ANS. Importância de aprovação da propositura para os portadores de doenças raras, do transtorno de espectro autista e de deficiências. Anúncio da apresentação de projeto de lei a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12c92caecd78767240ccf06a777a5469c97b691bfcded8230d37f970211f7868
+size 421

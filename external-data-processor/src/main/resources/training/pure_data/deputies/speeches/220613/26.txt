@@ -1,1 +1,3 @@
-Aplausos às Polícias Civil e Militar pela ação realizada contra a tentativa de assalto à agência da Caixa Econômica Federal na Ilha do Governador, no Rio de Janeiro, Estado do Rio de Janeiro. Sucesso da política de segurança pública adotada pelo Governador Cláudio Castro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d8c180acd7964ef3a5744ac5aa38dd30ffa21ebb2473fdba3847ed198ec6e68
+size 283

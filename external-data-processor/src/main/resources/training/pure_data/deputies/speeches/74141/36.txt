@@ -1,1 +1,3 @@
-Visita de Deputados Estaduais da Bahia a órgãos públicos no Distrito Federal, em busca de apoio à agilização das obras da Ferrovia da Integração Oeste-Leste e do Porto Sul, no Município de Ilhéus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edb4cecb9f301fe5a74344e453f114e1c36c8e3274dc6a5518c4410e3a0830bd
+size 206

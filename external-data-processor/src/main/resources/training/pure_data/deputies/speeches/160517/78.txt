@@ -1,1 +1,3 @@
-Anúncio pelo Ministério das Comunicações de extensão dos serviços de Internet e telefonia móvel às comunidades rurais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d8bc187ee8a328b06978e64b1cc6c544718eab05b6c3b1e407f2a24e5e16715
+size 138

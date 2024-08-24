@@ -1,1 +1,3 @@
-Necessidade de manifestação da Câmara dos Deputados contra o golpe de Estado ocorrido em Honduras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17ec5b947bfc4807cdc05fe22e837979a3852c95b5688e98849b15b587a9e392
+size 101

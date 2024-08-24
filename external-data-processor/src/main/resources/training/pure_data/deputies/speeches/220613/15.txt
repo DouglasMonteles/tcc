@@ -1,1 +1,3 @@
-Transcurso do aniversário natalício do Governador do Estado do Rio de Janeiro, Cláudio Castro. Excelência da administração do gestor estadual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99cbbc9b0ebaadbedb704ca19e2a40de83fcbbc7273f19c719d590045380b100
+size 148

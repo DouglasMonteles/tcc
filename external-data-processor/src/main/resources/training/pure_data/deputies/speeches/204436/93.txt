@@ -1,1 +1,3 @@
-Proposta à Presidência e aos Líderes partidários de celebração de acordo para a retirada do serviço de roaming  internacional do texto da Mensagem nº 369, de 2019, (Projeto de Decreto Legislativo nº 288, de 2021), sobre o Texto do Sexagésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica Nº 35 (ACE-35), acerca da incorporação, ao referido Acordo, do Acordo de Livre Comércio (ALC) entre o Brasil e o Chile, assinado em Santiago, em 21 de novembro de 2018.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87820fffa21ef431640a537528ccc15794937eb4e9b38dd35c0a035556bafba0
+size 492

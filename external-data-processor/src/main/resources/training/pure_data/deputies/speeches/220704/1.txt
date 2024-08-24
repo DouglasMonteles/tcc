@@ -1,1 +1,3 @@
-Natureza eleiçoeira da desoneração de combustíveis pelo ex-Presidente Jair Bolsonaro. Retomada dos investimentos governamentais nos setores de educação e saúde. Presença do Ministro do Desenvolvimento Agrário e Agricultura Familiar, Paulo Teixeira, na primeira colheita de soja não transgênica produzida pelo Movimento dos Trabalhadores Rurais Sem Terra - MST, no Município de Centenário do Sul, Estado do Paraná. Reinstalação do Conselho Nacional de Segurança Alimentar e Nutricional — CONSEA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e35626e46c80d7abb42a58541eddb6d38e106639b002ec4e49ad1c5f6d1053a0
+size 513

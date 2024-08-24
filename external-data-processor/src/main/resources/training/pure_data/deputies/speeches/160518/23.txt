@@ -1,1 +1,3 @@
-Necessidade de controle de reajustes nos preços de combustíveis no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06772ce0c0daef55000fc406d15a85a824fa6a050f0039f13a00a62a8ca3aef0
+size 75

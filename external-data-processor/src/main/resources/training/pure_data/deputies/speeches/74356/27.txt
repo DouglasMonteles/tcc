@@ -1,1 +1,3 @@
-Transcurso do Dia da Bíblia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a54a29af24a4f1d9bc32fda98bd3e1ebe408653c201168f7d6d0c798cdac1de4
+size 29

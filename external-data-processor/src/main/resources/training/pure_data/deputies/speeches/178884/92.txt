@@ -1,1 +1,3 @@
-Indignação com a morte de um jovem de 19 anos, Fagner Barros dos Santos, em decorrência de ação da Polícia Militar maranhense. Uso excessivo de força policial pelo Governador Flávio Dino, do Estado do Maranhão, para contenção de manifestações populares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:010115aa2aeafb36a70ab6ad6e565548a16b8296588bd52b33f0c7e04be63988
+size 266

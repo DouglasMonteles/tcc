@@ -1,1 +1,3 @@
-Restrição do apoio ao Presidente Jair Bolsonaro na Casa. Elogio ao ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4af08a996e2f81566c0ce5f4d72aed264134c66ccda4032efe68b824a568335d
+size 110

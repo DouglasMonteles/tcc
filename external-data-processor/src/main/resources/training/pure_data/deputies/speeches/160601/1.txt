@@ -1,1 +1,3 @@
-Repúdio ao assassinato do jovem piloto jordaniano Tenente Muath al-Kaseasbeh, vítima de ato de barbárie do grupo Estado Islâmico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d1cdafaf17788b7bc3025820271cbd7a2ab10f6c2e21ad6f5c02876ae47229a
+size 133

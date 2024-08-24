@@ -1,1 +1,3 @@
-Repúdio aos ataques pessoais entre Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:add1794ff9e7c9eed6d2444dd999e294737c614ba8e04fc1f2a12c6189279faa
+size 50

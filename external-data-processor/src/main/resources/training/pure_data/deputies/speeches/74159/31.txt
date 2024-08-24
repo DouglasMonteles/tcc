@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo ao Requerimento de retirada da pauta da Ordem do Dia do Projeto de Lei 1.876 de 1999 (Dispõe sobre Áreas de Preservação Permanente, Reserva Legal, exploração florestal e dá outras providências - Novo Código Florestal Brasileiro).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d9c2c64bf8ea1c24cc94caaf2cfbd2d0b2af8ce8da1cd0cc6568fbf019fa7ec
+size 275

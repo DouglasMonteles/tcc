@@ -1,1 +1,3 @@
-Implementação do projeto de realização de cirurgias eletivas em Minas Gerais, de autoria do orador. Implantação pelo Parlamentar dos Projetos Mais Genética; Mais Segurança; Plantando Mais Águas para Furnas e Peixoto; Nosso Mel e Cuidar, no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c1613b10b389c798dc1bb951a3d86a19ed54f074abd78b0526f8eadf47c7e77
+size 272

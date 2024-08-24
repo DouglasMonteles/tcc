@@ -1,1 +1,3 @@
-Repúdio ao Presidente Jair Bolsonaro pelo ataque à memória do pai da ex-Presidenta do Chile, Michelle Bachelet, morto durante a ditadura militar de Augusto Pinochet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f513ae987cac62ed069e81e8f24fd1b7c0ea97e1bac0b82217cecddd83c571
+size 168

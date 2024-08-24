@@ -1,1 +1,3 @@
-O Deputado mencionou investimentos para a construção do novo Hospital Pequeno Príncipe Norte em Curitiba, com participação da bancada federal paranaense, da Itaipu Binacional, do Governo Estadual e da Assembleia Legislativa. O Hospital foi eleito um dos melhores hospitais pediátricos do mundo pela revista americana Newsweek. O Deputado destacou a importância do investimento para a melhoria dos serviços de saúde no Estado e a relevância do Hospital em seu compromisso com a excelência no atendimento pediátrico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63fe0ed74a9091b13207ef5d4324eb177077408f69586fe86c5836551091c303
+size 526

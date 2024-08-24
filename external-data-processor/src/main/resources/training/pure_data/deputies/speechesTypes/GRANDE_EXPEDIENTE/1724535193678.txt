@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado do Parará pela eleição do orador. Transcurso do 31º aniversário de fundação do Partido dos Trabalhadores. Agradecimento aos Senadores Gleisi Holffmann e Roberto Requião. Trajetória política do orador. Elogio ao ex-Presidente Luiz Inácio Lula da Silva. Realização do Parlamentar à frente da Prefeitura Municipal de Cruzeiro do Oeste, Estado do Paraná. Desafio do Governo Federal de melhoria do setor de infraestrutura do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2ff61d670d2825d4086847af27307b7121c4a8177fed4f89a71d8e5b10c97f6
+size 479

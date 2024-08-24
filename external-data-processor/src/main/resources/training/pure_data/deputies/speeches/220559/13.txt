@@ -1,1 +1,3 @@
-Presença no plenário do Deputado Estadual de Santa Catarina, Delegado Egidio Ferrari.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af27c66ff1494d2c281c27a8b038abab027ee78de8a43c6aa582929d2ed0ae0d
+size 87

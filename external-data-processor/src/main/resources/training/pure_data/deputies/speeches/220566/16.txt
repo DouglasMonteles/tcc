@@ -1,1 +1,3 @@
-A Deputada expressou sua gratidão pela aprovação, na Casa, do Projeto de Lei nº 883, de 2023, de sua autoria, que altera o art. 1.584 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para priorizar a guarda unilateral do recém-nascido à genitora enquanto perdurar o período de amamentação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50e7cfc3c97b58826d2059e4193120d24eee4d9ba1791b02cb2332744f32fe8a
+size 310

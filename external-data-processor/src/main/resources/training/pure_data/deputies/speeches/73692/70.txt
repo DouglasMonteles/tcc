@@ -1,1 +1,3 @@
-Agradecimento à Casa pela votação da proposta de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de recursos para a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e442a0f7d1ef4fb82c6ecaf83c315c17c2a5f85ff00658734feba4fdf6320aa
+size 167

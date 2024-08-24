@@ -1,1 +1,3 @@
-Ponderações sobre a Emenda 13 à Medida Provisória 452 de 2008 (Dá nova redação à Lei 11.887 de 2008, que cria o Fundo Soberano do Brasil – FSB, e à Lei 11.314 de 2006, que autoriza o Departamento Nacional de Infraestrutura de Transportes – DNIT a executar obras nas rodovias transferidas a entes da Federação, e dá outras providências),  que visa o ressarcimento da União por empresa ou consórcio vencedor de licitação de concessão para exploração econômica de rodovias federais, ou estaduais, que tenha   recebido recursos do DNIT a partir do exercício de 2009, a propósito da manifestação do autor, Deputado Arnaldo Jardim, solicitando o acolhimento da emenda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3384c6dba13c3587cc3392f058b24a53517fc7541416288fad0bab28220aea4c
+size 691

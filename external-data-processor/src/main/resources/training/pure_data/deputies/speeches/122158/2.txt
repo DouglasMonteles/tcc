@@ -1,1 +1,3 @@
-Agradecimento aos Líderes partidários pela construção de acordo sobre a votação da medida provisória acerca da criação da Autoridade Pública Olímpica - APO. Aperfeiçoamento da Lei de Licitações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94a041679349b272740a8f6222e4326685b796b08086e4ceeb90e8cdae6897e6
+size 208

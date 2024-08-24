@@ -1,1 +1,3 @@
-Existência de acordo para a votação do projeto de lei relativo às normas de licitações e contratos da administração pública, e do Projeto de Lei nº 2.787, de 2019, sobre a tipificação do crime de ecocídio e a conduta delitiva do responsável por desastre relativo a rompimento de barragem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ecd29b081ae5b569f58c5b1eac42318345d2a72163bf674f15f987346a7f0c6
+size 302

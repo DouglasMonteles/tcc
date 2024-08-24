@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos Noventa Anos da Associação Brasileira de Enfermagem.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a682164ef48b60b9fe4c48559de8e264d3a45f0d6bdc4a70a9599eef6f6e697d
+size 235

@@ -1,1 +1,3 @@
-Imediata aprovação do Projeto de Lei nº 2.020, de 2007, que dispõe sobre normas gerais de segurança em casas de espetáculos e similares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f87617c23b840afda66357ec4c0c1b35bca4a00d306df5660b64879976935db9
+size 142

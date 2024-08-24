@@ -1,1 +1,3 @@
-Contrariedade à privatização da Companhia Paranaense de Energia - COPEL. Distorções do balanço contábil da empresa energética.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3b7c8d3c860e7f72c4396fe7c409c0aaadd334c07b8c6401cda4269c6429406
+size 134

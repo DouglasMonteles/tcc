@@ -1,1 +1,3 @@
-Indignação da oradora com a disseminação, pelo aplicativo de mensagens Telegram, de informações falsas a respeito do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).&nbsp;Defesa de aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7b3e48b4d45fec98871e242c88193e0091a6079627afd0b8cc424c4119c23aa
+size 332

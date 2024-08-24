@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado do Rio Grande do Sul, em especial aos habitantes do Município de Santa Rosa, pela reeleição do orador. Comprometimento com a realização das reformas política, tributária, trabalhista e administrativa. Defesa de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de recursos para a saúde pública. Apresentação do Projeto de Lei nº 7.663, de 2010, cerca da adoção de medidas de combate às drogas. Defesa de criação de fundo constitucional em prol da Bacia do Rio Uruguai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ed6558feff664247df91a31b5a0a8f17b6dfe952c6afd269c5e0f2cc413228d
+size 553

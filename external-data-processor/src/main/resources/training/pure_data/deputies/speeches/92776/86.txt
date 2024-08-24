@@ -1,1 +1,3 @@
-Realização pela Casa de sessão solene ao ensejo do transcurso do 40º aniversário do Programa Nacional de Imunização.
+version https://git-lfs.github.com/spec/v1
+oid sha256:593c98a82e49d9fa9d1045dabe4d4978d39c5d934322ef323269a78b5f77f3a8
+size 123

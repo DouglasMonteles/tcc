@@ -1,1 +1,3 @@
-Convite à Deputada Rosinha da Adefal para composição da Mesa Diretora dos trabalhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6170e8b9ab8a5a80454ce99bcfb5f388aaf28dac6c53e68ecf1daf35c677a36c
+size 87

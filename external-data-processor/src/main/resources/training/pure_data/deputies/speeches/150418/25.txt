@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado da Bahia pela reeleição do orador. Transcurso do Dia Nacional da Consciência Negra. Necessidade de avanço nas políticas de inclusão social da população negra brasileira. Defesa de cumprimento do disposto no Estatuto da Igualdade Racial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e30b63238ace0ef2ef2b47066c9324c3ec089068bf96b77516e1e096f9309cf2
+size 282

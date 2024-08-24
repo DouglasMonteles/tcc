@@ -1,1 +1,3 @@
-Uso abusivo do instrumento da medida provisória. Questionamento sobre o parecer da Comissão Mista pela prejudicialidade da Medida Provisória  591, de 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b588757247921a7ad1f79f03efba14abfbdf42ca583758e9ed98947c9c7632ad
+size 158

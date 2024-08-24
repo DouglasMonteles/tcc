@@ -1,1 +1,3 @@
-Participação em audiência pública na Assembleia Legislativa do Estado de Sergipe, destinada ao debate da Medida Provisória nº 905, de 2019, sobre a instituição do Contrato de Trabalho Verde e Amarelo, e alteração da legislação trabalhista brasileira. Posicionamento de entidades sindicais contrário à aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae190a0377bad172a8b42200dcc03eb860e97be1df67147a8f50970c1270dbe4
+size 342

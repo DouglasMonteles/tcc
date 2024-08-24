@@ -1,1 +1,3 @@
-Realização de reunião da Frente Parlamentar pela Reforma Política com Participação Popular para apreciação de proposições encaminhadas pelo Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73b48842a4b3fff9c55d9aa86e4c20adba562332ce2dbe2e623a62232a127de2
+size 166

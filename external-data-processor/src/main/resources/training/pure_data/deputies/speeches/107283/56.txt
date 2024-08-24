@@ -1,1 +1,3 @@
-Indignação diante do incentivo, pelo Presidente Jair Bolsonaro, à quebra da harmonia entre os Poderes da República, demonstrado em convocação do povo brasileiro para manifestação contra o Congresso Nacional e o Supremo Tribunal Federal. Inadmissibilidade de apoio do Presidente da República e do Ministro da Justiça e Segurança Pública ao motim de policiais no Estado do Ceará. Agravamento da crise socioeconômica do País, em decorrência da política neoliberal do Governo Jair Bolsonaro. Defesa da adoção de pauta em consonância com os interesses do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4da1948d1fa97cafc0afaee86216f57cf4344fc02fd8a0e28e80f8a0e79fb11
+size 586

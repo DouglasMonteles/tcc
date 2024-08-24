@@ -1,1 +1,3 @@
-Descaso do Presidente Jair Bolsonaro com a tragédia socioambiental ocorrida no Município de Brumadinho, Estado de Minas Gerais. Encaminhamento, pelos membros da Comissão Externa destinada à investigação das causas da tragédia de Brumadinho, de projetos de lei a respeito do tema. Sonegação de impostos pela empresa Vale. Defesa da abertura de CPI para investigação dos fatos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a9f549abf7a85584f9846b75b3bc9c502158fd5203c1d3c980e374a449c8b1d
+size 386

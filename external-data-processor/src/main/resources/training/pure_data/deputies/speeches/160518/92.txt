@@ -1,1 +1,3 @@
-Anúncio da apresentação de recurso judicial contra o índice de reajuste de tarifa da Companhia Energética de Minas Gerais S/A - CEMIG. Baixa qualidade dos serviços prestados aos usuários pela empresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:449bc03b63b7003d16ad4b5ff928fd9937dc4df31e2d642c830b791eb6806cd5
+size 207

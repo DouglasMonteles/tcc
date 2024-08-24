@@ -1,1 +1,3 @@
-Defesa de revisão dos critérios de distribuição de royalties de petróleo em prol da redução das desigualdades sociais e regionais no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a829fd17d8f49feb665fa9335b2259efaf1dc0c8f8df734db108ae8ec8315aec
+size 146

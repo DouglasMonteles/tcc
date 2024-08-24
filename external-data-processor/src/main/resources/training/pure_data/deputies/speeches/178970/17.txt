@@ -1,1 +1,3 @@
-Realização, pela Assembleia Legislativa do Estado de Sergipe, de sessão solene destinada à devolução simbólica dos mandatos cassados durante a ditadura militar. Realização no órgão de seminário destinado ao debate dos malefícios decorrentes do uso de agrotóxicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3704b0cccad72f4fa5b77289d488d7c6286e978ad5145e9f4113058b83b49efc
+size 277

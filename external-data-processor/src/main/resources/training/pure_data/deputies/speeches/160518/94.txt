@@ -1,1 +1,3 @@
-Defesa de extinção da cobrança de assinatura básica da telefonia fixa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6f72b6a76ddfdc790399b36edbc07495b17dac96546a398481e6604e2961215
+size 74

@@ -1,1 +1,3 @@
-Homenagem ao Sindicato dos Metalúrgicos do ABC. Congratulações ao ex-Presidente da entidade José Lopes Feijóo. Votos de sucesso ao seu sucessor, Sérgio Nobre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd85921afe205a99c507f078fd3b0c82b148016129d31cb1033a1117acc61d8b
+size 164

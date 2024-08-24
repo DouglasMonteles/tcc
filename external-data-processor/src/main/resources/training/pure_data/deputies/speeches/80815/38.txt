@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 221, de 2016, que inclui como objetivo do Fundo de Combate e Erradicação da Pobreza a aplicação de recursos na superação das desigualdades raciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6c31a54e050bec3add1b9dab3c088ab6818e5d2b67afc96936d564b7384eddd
+size 286

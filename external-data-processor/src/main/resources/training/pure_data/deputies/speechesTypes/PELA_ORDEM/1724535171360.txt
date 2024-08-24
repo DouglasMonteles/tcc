@@ -1,1 +1,3 @@
-Presença no plenário do Prefeito Uesley Corteletti, do Município de Itaguaçu, Estado do Espírito Santo. Defesa da presença de vigilantes armados e instalação de detectores de metais nas escolas da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:916f0d87f6493c7303a236c41a072a1c2313ed5e99076f9f680789b7fcbda80c
+size 220

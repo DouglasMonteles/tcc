@@ -1,1 +1,3 @@
-Contrariedade à implantação de linguagem neutra no ISO Colégio e Cursos, no Estado da Paraíba, e nas demais escolas brasileiras. Inadmissibilidade de reserva de cotas para transexuais, gays e lésbicas em concursos públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56dd8f1e62f4fc8fa357ac140538cf4bb3df6b6d063a27d4c6b7ea3102f48ce9
+size 230

@@ -1,1 +1,3 @@
-Urgente aprovação, pela Comissão de Constituição e Justiça e de Cidadania, do projeto de decreto legislativo sobre a questão da fidelidade partidária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0334fc724c094948a61da92fae7df680345237c0fe670bd41e5a18f3f78872eb
+size 158

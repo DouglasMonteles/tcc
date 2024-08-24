@@ -1,1 +1,3 @@
-Atraso no repasse de verba para controle do Bolsa Família, conforme reportagem do jornal Folha de S. Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3feddc5e45d483378123f4766cc6cf227fb106c6d02583b15556ec8d590571b5
+size 108

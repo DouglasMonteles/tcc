@@ -1,1 +1,3 @@
-Posicionamento contrário do PMDB  ao Requerimento de retirada da pauta da Ordem do Dia da  Medida Provisória 533 de 2011 (Autoriza a União a transferir recursos financeiros aos Municípios e ao Distrito Federal, com a finalidade de prestar apoio financeiro à manutenção de novos estabelecimentos públicos de educação   infantil, e  dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b8034d8e78c83a9ce03ae71340ad2e10b070709e3954ded7b3906b18ef2b433
+size 367

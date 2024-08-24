@@ -1,1 +1,3 @@
-Necessidade de elucidação do homicídio da Vereadora Marielle Franco e do atentado ao então candidato à Presidência da República, Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:658fe0f2c2e281d22efeadf96664c44c54c93ff4ebda5c2200c6a8ac06f10e4a
+size 151

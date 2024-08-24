@@ -1,1 +1,3 @@
-Congratulação à Casa pela construção de acordo com vistas à conclusão da votação da Medida Provisória nº 870, de 2019, sobre a organização da Presidência da República e dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9367b7ae7ff06b35b0685d04615d9662e1cbacb744ba3147886e077ff044cd4
+size 201

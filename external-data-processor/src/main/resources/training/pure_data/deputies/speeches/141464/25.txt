@@ -1,1 +1,3 @@
-Inauguração, pelo Presidente Luiz Inácio Lula da Silva, de terminal de regaseificação de gás natural liquefeito no Estado do Ceará. Perspectiva de construção de refinaria de petróleo no Estado. Implantação da Usina de Itatiaia e de indústria siderúrgica no Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d8f0a06f72a965853b45b22fef887e6412694c843b35674c4b7dbdd80d535b8
+size 278

@@ -1,1 +1,3 @@
-Realização do 54º Congresso da União Nacional dos Estudantes - UNE, em Goiânia, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2208df252ee41ab87676202664f80f76f073364e03549fcd6b42d2f18fed6a1a
+size 102

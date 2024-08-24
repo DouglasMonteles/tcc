@@ -1,1 +1,3 @@
-Anúncio de encaminhamento de projeto de lei que prevê a devolução ao apostador em bilhetes e jogos da loteria federal de percentual dos impostos recolhidos pelo Estado na forma de redução do valor de taxas, impostos e contribuições federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1abf2eccca008035ec52bf049b151f81f45ddc258ad2bee6bab3ac76fab3503
+size 249

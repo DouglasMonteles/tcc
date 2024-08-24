@@ -1,1 +1,3 @@
-Saudações às crianças presentes nas galerias do plenário. Transcurso do 5º aniversário de promulgação da Lei Maria da Penha, coibitiva da violência doméstica contra a mulher. Congratulações ao Supremo Tribunal Federal pelo apoio à aplicação da referida lei. Importância de criação da Procuradoria da Mulher da Câmara dos Deputados. Regozijo com a iniciativa da Presidenta Dilma Rousseff de nomeação de mulheres para importantes cargos da administração pública federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3147dd2a51debd12b33bc94a490eeec2333a35b7af45873bbd1594593d717be1
+size 493

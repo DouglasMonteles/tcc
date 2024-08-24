@@ -1,1 +1,3 @@
-Apoio à proposta do Deputado André Figueiredo de suspensão dos trabalhos nas Comissões da Casa. Necessidade de adoção, pela Presidência da Casa, de providências enérgicas a respeito de ações praticadas por manifestantes durante votação na Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6639139a2508ce7e5e45fdfc5429f7aba8c5224a2f571f0022af118af8d9021
+size 306

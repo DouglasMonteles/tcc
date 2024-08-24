@@ -1,1 +1,3 @@
-Visita do orador aos Municípios de Rio Brilhante, Amambai e Coronel Sapucaia, Estado de Mato Grosso do Sul. Transcurso do 80º e do 61º aniversários, respectivamente, dos Municípios de Rio Brilhante e Amambai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66ae405b9f7b16aac0345de241d533d8b4f36f01e4b4b645133c0a318d72e59e
+size 213

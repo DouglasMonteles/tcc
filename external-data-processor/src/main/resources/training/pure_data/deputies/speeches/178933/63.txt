@@ -1,1 +1,3 @@
-Encaminhamento de votação do requerimento de destaque para votação em separado da expressão mínima, constante do inciso III, do art. 9º, aprovado na Comissão Mista quando da apreciação da Medida Provisória nº 752, de 2016, que dispõe sobre diretrizes gerais para a prorrogação e a relicitação dos contratos de parceria que especifica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f90e8186f744a548dd0dd0754ea9cd4cd1e1b367c8d710aae87f628f163a804
+size 351

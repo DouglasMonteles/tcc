@@ -1,1 +1,3 @@
-O Deputado elogiou o governo de Lula por restabelecer a credibilidade internacional do Brasil. Abordou a onda de calor no País e os impactos das mudanças climáticas, particularmente no Amapá, onde a população enfrenta altas temperaturas e tarifas de energia elétrica exorbitantes. Destacou a necessidade de reverter o aumento da tarifa de energia de 44,41%, que tornaria a energia no Amapá a mais cara do Brasil. Concluiu anunciando uma audiência com o Ministro de Minas e Energia para buscar soluções.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de647271a126f126f1e2603ed070f50af97b017b06a04960c1d0bbeb26bc9014
+size 513

@@ -1,1 +1,3 @@
-Esclarecimentos sobre a invasão pelo Movimento dos Trabalhadores Rurais Sem Terra - MST da Fazenda Capão do Cipó, no Município de Castro, Estado do Paraná. Prioridade de destinação de terras de domínio público à reforma agrária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf863f6cc922aa20e92cee40a1a54c563c31d62743fd9d3f3c2ee9ebf59b952c
+size 239

@@ -1,1 +1,3 @@
-Orientação de bancada na votação de requerimento de retirada de pauta da Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental. Necessidade da presença da Polícia Militar nos campi  universitários para a segurança dos estudantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:808a8bece3f061d24f476d7a9bf1e516135e608429f01539334f8552f1c7a593
+size 301

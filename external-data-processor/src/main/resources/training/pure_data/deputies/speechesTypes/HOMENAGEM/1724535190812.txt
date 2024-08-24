@@ -1,1 +1,3 @@
-Transcurso do centenário de fundação da Igreja Evangélica Assembleia de Deus no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a2917cb805d7ee829e395284b66d2ca233640135bdfaca80d507eb84a8903e1
+size 91

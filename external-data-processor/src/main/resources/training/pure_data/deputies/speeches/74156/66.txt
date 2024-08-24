@@ -1,1 +1,3 @@
-Aprovação pela Casa do Projeto de Lei nº 5.939, de 2009, sobre a criação da Empresa Brasileira de Administração de Petróleo e Gás Natural S/A - PETRO-SAL. Reafirmação do apoio à Proposta de Emenda à Constituição nº 300, de 2008, sobre a instituição do piso salarial nacional dos policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82cbb527e1541a6edcc828ea81f9d51bbec9889e9be30cee143f3ec94ce3c36b
+size 329

@@ -1,1 +1,3 @@
-Elogio ao Deputado Felipe Rigoni pelo discurso proferido sobre a história de sua vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69efdfd04aaa938437184f07ef625fa0f5e7d0be10c44fd7293fc6092edc647c
+size 87

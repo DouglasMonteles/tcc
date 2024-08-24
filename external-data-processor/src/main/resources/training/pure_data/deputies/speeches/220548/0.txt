@@ -1,1 +1,3 @@
-Apoio ao encaminhamento ao Conselho de Ética e Decoro Parlamentar, pela Deputada Tabata Amaral, de Representação contra Deputado por ofensa às mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:266a9790cf2dc733033486dfa0bf524866406b89bbd4af3818f40080dba02fb3
+size 156

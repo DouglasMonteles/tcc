@@ -1,1 +1,3 @@
-Solidariedade aos familiares e torcedores da a Associação Chapecoense de Futebol pelo falecimento de atletas em acidente aéreo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8557562193e55d3446447f0037e8469f978503d579e9df66ad769666570040a3
+size 130

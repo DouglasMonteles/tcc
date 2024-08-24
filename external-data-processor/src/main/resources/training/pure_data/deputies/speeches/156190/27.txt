@@ -1,1 +1,3 @@
-Solidariedade ao povo venezuelano diante da crise política e social por que passa àquele país. Apoio ao presidente interino da Venezuela, Deputado Juan Guaidó.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1980071cca59a91cfe5000c008a3088258170f3b0853b6b6e6d0bdc257faa42d
+size 163

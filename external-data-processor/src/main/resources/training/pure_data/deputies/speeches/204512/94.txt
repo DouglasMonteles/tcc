@@ -1,1 +1,3 @@
-Transcurso do 60º aniversário de criação da Universidade Estadual de Montes Claros - UNIMONTES, no Estado de Minas Gerais. Excelência da gestão do Reitor Padre Antônio Alvimar. Outorga do selo OAB Recomenda aos cursos de Direito da UNIMONTES e da Faculdade Santo Agostinho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e15a3daf31ca665b42a47e70fab9858cab479d28638a3f46e8d0668fa7ad474
+size 280

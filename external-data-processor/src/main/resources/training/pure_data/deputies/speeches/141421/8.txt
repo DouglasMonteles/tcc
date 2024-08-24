@@ -1,1 +1,3 @@
-Aprovação, pela Comissão Mista de Planos, Orçamento Público e Fiscalização, da Medida Provisória nº 423, de 2008, sobre a abertura de crédito extraordinário para os Ministérios dos Transportes e da Integração Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fc0b2ca7fe199daeaee758aa2efce2bac61253ab64abd44da67d5266494395e
+size 232

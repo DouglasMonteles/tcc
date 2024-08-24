@@ -1,1 +1,3 @@
-Posicionamento favorável do Governo ao Substitutivo ao Projeto de Lei Complementar 374 de 2008 (Dispõe sobre o aperfeiçoamento dos instrumento de Seguro Rural para a proteção da produção agrícola, pecuária aquícola e de florestas no Brasil, mediante a instituição de mecanismos para fazer frente a catástrofes decorrentes de eventos da natureza e de doenças e pragas, incluindo subvenção econômica, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:96987b1c413401e5abf41c6b051f6f0cd4e6a140a0abe0ab22b6013161cdda26
+size 444

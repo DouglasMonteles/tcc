@@ -1,1 +1,3 @@
-Agradecimento aos estudantes do ensino médio do Centro Educacional do Lago Norte, do Distrito Federal, pela presença na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16bc5f781aa0574f73cea5cb181701390075139cfc0058da69693371005715ec
+size 144

@@ -1,1 +1,3 @@
-Homenagem póstuma ao Deputado Carlos Wilson.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ebcdf1eea816b3a9a07c762e39d4f8a3b2d867215b5a31a184e9ac6da3c817d
+size 45

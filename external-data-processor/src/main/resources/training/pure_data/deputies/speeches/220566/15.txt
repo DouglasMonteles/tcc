@@ -1,1 +1,3 @@
-A Deputada agradeceu à Casa e, em especial, ao Colégio de Líderes, pela aprovação dos projetos previamente acordados com as bancadas. Reconheceu a importância do projeto de lei que garante a assistência fisioterapêutica aos pacientes submetidos a cirurgia de mastectomia, parabenizando os autores e a Relatora da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0b62ba5f12ddb8c70ab3dee09881b69f08d54bfde6d76ce3b127b6d0060cb03
+size 330

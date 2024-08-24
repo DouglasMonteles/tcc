@@ -1,1 +1,3 @@
-Comemoração do Dia da Força Aérea Brasileira e o Dia do Aviador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:173bdf5ff2c7097af7a632500e832e0f3dca39a2e80064f1fa99b6be6cb17f38
+size 68

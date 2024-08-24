@@ -1,1 +1,3 @@
-Inauguração de frigorífico de peixes pela C.Vale Cooperativa Agroindustrial no Município de Palotina, Estado do Paraná. Declaração de voto favorável a permanência do Presidente Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:558efefb031c5106b035a0ac163b040cc6b2dfe095d034b3d620ed4457c3d72a
+size 199

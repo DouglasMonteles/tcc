@@ -1,1 +1,3 @@
-Discussão da Emenda do Senado Federal ao Projeto de Lei de Conversão nº 8, de 2021, da Medida Provisória nº 1.018, de 2020, a respeito dos valores da Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional; da Taxa de Fiscalização de Instalação; e da Contribuição para o Fomento da Radiodifusão Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:131a3f44074140250b5c5e0f21945e0339423f2399daa89c673d9aa4b8993191
+size 338

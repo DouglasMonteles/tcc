@@ -1,1 +1,3 @@
-Questão de ordem sobre o processo de votação da Medida Provisória nº 639, de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df92125e6dd5864abb936d5b2de494900ddbbadfbdecb6d9b0452649babeced3
+size 87

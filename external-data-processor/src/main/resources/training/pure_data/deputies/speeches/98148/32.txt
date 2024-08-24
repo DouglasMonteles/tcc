@@ -1,1 +1,3 @@
-O Deputado abordou a situação crítica de Santa Catarina devido às fortes chuvas que afetaram o Estado. Descreveu as inundações em várias regiões e destacou a importância da atuação das defesas civis e do Governo Estadual, bem como a utilização de barragens para conter o impacto das chuvas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87c64df143cce772c1b9fed5dd4a07222bc042fe954ec09ee4e3d958d471cad8
+size 303

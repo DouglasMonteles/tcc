@@ -1,1 +1,3 @@
-Visita do orador a entidades assistenciais nos Municípios do Rio de Janeiro e Niterói, Estado do Rio de Janeiro. Prioridade dos Deputados nas agressões mútuas em detrimento do debate de matérias de sumo interesse do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d4348b9f96b913d294e0c72625ad7c880a798bce9ac228b1eb75ec86fefb48b
+size 237

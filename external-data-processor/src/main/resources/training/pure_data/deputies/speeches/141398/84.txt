@@ -1,1 +1,3 @@
-Posicionamento contrário do PT à Emenda de Plenário 1, destacada,   ao Projeto de Decreto Legislativo 860 de 2008 (Aprova o texto do Acordo entre a República Federativa do Brasil e a República Argentina sobre  Localidades Fronteiriças Vinculadas, celebrado em Puerto Iguazu, em 30 de novembro de 2005), que limita o atendimento médico nos serviços públicos de saúde em condição de gratuidade e reciprocidade a casos de emergência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4604dd034fe3204eba0a572700267f1f4a708a3979bced870bd5f205b61ce5a7
+size 443

@@ -1,1 +1,3 @@
-Assassinato de militante do Movimento dos Trabalhadores Rurais Sem Terra - MST no Município de Iguaí, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a452e13c71983c35d1d14178c5ee38929a5c70372dc7b5f6dacd63bc9b15077c
+size 120

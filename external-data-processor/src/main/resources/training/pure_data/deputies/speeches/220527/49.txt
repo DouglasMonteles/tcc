@@ -1,1 +1,3 @@
-Transcurso do 51º aniversário de criação do Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - SEBRAE. Homenagem ao presidente da entidade, Décio Lima. Lançamento da Frente Parlamentar Mista das Micro e Pequenas Empresas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:deaeaea7c66f81efcb4fa594d4ea16c85dc0b8a6926dffd288dcb50e10e73bc9
+size 237

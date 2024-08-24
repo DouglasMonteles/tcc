@@ -1,1 +1,3 @@
-Homenagem póstuma a Maria José dos Santos Ferreira Gomes, genitora do Ministro da Educação, Cid Gomes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc3ce35dafa3cc15a79175ff7396fd865588d8c23d780d04264782facd3e0c2a
+size 106

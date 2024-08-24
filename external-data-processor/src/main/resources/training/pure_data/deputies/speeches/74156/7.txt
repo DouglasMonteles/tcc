@@ -1,1 +1,3 @@
-Realização da 12ª Brazil Gem Show - Feira de Gemas e Pedras Preciosas, no Município de Governador Valadares, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fde3ca32e9ea9610fc8917e06a166ae2dcea097e98a8f716c92ba840367742de
+size 136

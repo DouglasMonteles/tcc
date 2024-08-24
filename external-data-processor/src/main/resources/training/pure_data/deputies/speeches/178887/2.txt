@@ -1,1 +1,3 @@
-Resultados de reunião entre o Governador do Estado do Maranhão, Flávio Dino, e a Presidenta Dilma Rousseff, sobre a retomada da construção de refinaria da PETROBRAS no Município de Bacabeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bda4fcaf33c2bfdfca43141b1f49fa67037ce003062cdde1c66b82d4e675214c
+size 197

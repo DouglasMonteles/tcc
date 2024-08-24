@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional das Pessoas Portadoras de Deficiência. Promoção do Dia da Acessibilidade pela Câmara dos Deputados. Falecimento do judoca paraolímpico Elmo Mamede.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5494ea726a63da425d67fb8dbb0141eecd26463ea9e878f5f49b1278ffdb6cd3
+size 184

@@ -1,1 +1,3 @@
-Cobrança de posicionamento transparente e coerente do Governador do Estado da Bahia e dos Deputados do PT com relação à proposta de reforma da Previdência Social. Apoio do orador à matéria, com a manutenção dos direitos da camada mais pobre da população e a extinção de privilégios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e9eed13e883c81cafd5813de13dec1644ddb278ae87d2bb40c39951d412f33a
+size 296

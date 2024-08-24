@@ -1,1 +1,3 @@
-Lançamento, pelo Governo Federal, de programa de incentivo à aquisição de refrigeradores por famílias de baixa renda. Aprovação, pela Câmara dos Deputados, da medida provisória sobre reajuste do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f9981196a9185c32da42f956ed1897269029457f38abc2a6256b1cd901393ff
+size 221

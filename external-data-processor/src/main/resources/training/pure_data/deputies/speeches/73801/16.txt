@@ -1,1 +1,3 @@
-Inconstitucionalidade de decreto presidencial sobre a regulamentação do Estatuto do Desarmamento. Necessidade de elaboração de políticas destinadas ao setor de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:452335b715f15879eee2314af82ab771d5553a4c5a5ca205cb084635695f8a79
+size 185

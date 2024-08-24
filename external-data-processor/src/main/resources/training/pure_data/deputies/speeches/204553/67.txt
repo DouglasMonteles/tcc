@@ -1,1 +1,3 @@
-Protesto contra a flexibilização do porte e posse de armas de fogo no País. Defesa de fortalecimento da área de segurança pública. Imediata recriação do Ministério da Segurança Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cf851f5c31725302ab987681a945f99e7a9c7e3d5d71bdfecbf4ca54154c48a
+size 196

@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional de Luta contra a Violência à Mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e65ad4dbfec1ea97f393f7d16b131f852a1d696ff652cdbfd2809dfc85bb7a4
+size 65

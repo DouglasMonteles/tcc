@@ -1,1 +1,3 @@
-Posse do jornalista e escritor Pádua Lopes na Academia Cearense de Letras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:981a771a662ec987bbb06090d2e53538774ec956f7f2b923b106a54927a53689
+size 75

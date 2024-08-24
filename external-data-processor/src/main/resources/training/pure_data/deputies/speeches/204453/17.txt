@@ -1,1 +1,3 @@
-Desestruturação, pelo Presidente Jair Bolsonaro, da rede de proteção do meio ambiente. Descaso do Presidente da República com as queimadas na região amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e50ae700517d82e1deb9a41425378477d0ab222ee48481b04ae0db9b4ad0f72b
+size 166

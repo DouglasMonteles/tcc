@@ -1,1 +1,3 @@
-Retomada da discussão sobre a medicina de tráfego e psicologia de trânsito no âmbito do Ministério da Infraestrutura. Expectativa quanto à aprovação, pela Comissão de Constituição e Justiça e de Cidadania, do Projeto de Lei nº 4.367, de 2020, sobre a criação do 14º salário para aposentados e pensionistas mantidos pelo Regime Geral de Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:574a136031886a27f406e658170a44b11cd972121e60278e27b13f63646a7bc9
+size 373

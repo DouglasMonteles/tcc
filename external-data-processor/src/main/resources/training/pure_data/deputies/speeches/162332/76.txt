@@ -1,1 +1,3 @@
-Apoio à realização da reforma política. Defesa da adoção do voto distrital misto, da unificação do calendário eleitoral e do fim da coligação proporcional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b12af7103a2c326ef0fdd9bae4e0c513a31b84f87f27f1efd2dabd44b8bac4ba
+size 166

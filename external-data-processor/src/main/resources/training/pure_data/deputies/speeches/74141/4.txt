@@ -1,1 +1,3 @@
-Distorções na legislação referente aos royalties sobre a mineração, estabelecidos por meio da Compensação Financeira pela Exploração de Recursos Minerais - CFEM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e66d8c63d363f7c614c7ea0f846fae2d25508534ba0c7b49fb91af3ccc8c9485
+size 171

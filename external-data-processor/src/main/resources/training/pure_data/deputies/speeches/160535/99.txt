@@ -1,1 +1,3 @@
-Posicionamento contrário do PSC ao Requerimento de adiamento, por duas sessões, da discussão da Medida Provisória 483 de 2010 (Altera as Leis 10.683 de 2003, que dispõe sobre a organização da presidência República e dos Ministérios, e 8.745 de 1993, que dispõe sobre a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, e dá outras  providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ea6dd9af03e33e79b0b71da8120801cabbc28d87cd7f935c8eac73b886b43ac
+size 419

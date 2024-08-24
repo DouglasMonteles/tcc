@@ -1,1 +1,3 @@
-Esclarecimento à Oposição sobre o cumprimento de acordo para a retirada de dispositivos do Projeto de Lei nº 3.723-D, de 2019, relativo à alteração da Lei nº 10.826, de 2003, sobre o registro, a posse e a comercialização de armas de fogo e munição; o Sistema Nacional de Armas - SINAM e a definição de crimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1088978fe95c80f469a73810418e2037ca1041a452671ad8b474e81619ca7c0
+size 323

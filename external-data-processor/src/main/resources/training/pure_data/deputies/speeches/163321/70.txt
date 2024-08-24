@@ -1,1 +1,3 @@
-Posicionamento da Organização Não Governamental Amigos Rio da Várzea, contrário à construção do Presídio Regional de Passo Fundo nas imediações do Rio da Várzea, Estado do Rio Grande do Sul. Aprovação, pela Câmara de Vereadores de Carazinho, de projeto de lei sobre a instituição do Dia Municipal em Defesa e Preservação do Rio da Várzea.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f004d0b603f2d4cfaadcba44e338563df44d54f253564baa6de3b73e6da7bdba
+size 358

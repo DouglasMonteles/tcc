@@ -1,1 +1,3 @@
-Declaração de voto do orador favorável  à aprovação da proposta de reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f79b544c73e8986d54210bbbcf3a2d3e3359913e92aa931b49400497b6d27f43
+size 104

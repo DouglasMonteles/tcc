@@ -1,1 +1,3 @@
-Realização da festa de Santa Bárbara e da festa de Nossa Senhora da Imaculada Conceição no Estado da Bahia. Promoção do desenvolvimento socioeconômico pelo Governo Jaques Wagner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe7e55375bb740f4e3c9753dacf6472bc4cc1bf462c975ac5d4be454e4ada9a9
+size 186

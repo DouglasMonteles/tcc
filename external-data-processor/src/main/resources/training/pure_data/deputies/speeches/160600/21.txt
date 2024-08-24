@@ -1,1 +1,3 @@
-Falecimento do ex-Prefeito José Xavier, do Município de Ibipitanga, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa8442792ca5d328256f23da1963bf085946d16c086b170104c4f5107517c67d
+size 86

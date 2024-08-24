@@ -1,1 +1,3 @@
-Necessidade de identificação e punição dos mandantes do assassinato da Vereadora Marielle Franco, ocorrido no Rio de Janeiro, Estado do Rio de Janeiro. Resgaste de trabalhadores em situação análoga à escravidão nos Municípios de Bento Gonçalves e Uruguaiana, Estado do Rio Grande do Sul. Queda da renda dos trabalhadores brasileiros. Fortalecimento de medidas protetivas do trabalhador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ec518b452b55d819c7d165e0bfaf6d61847a2e3f1ee87504fcb8b338c4f714a
+size 397

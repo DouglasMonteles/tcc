@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 5.467, de 2009, sobre a responsabilidade da administração de shopping center pelo disciplinamento da oferta e das formas de fixação de preços aos consumidores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f19d424af04df7f3c9d968652e6aa2d816d7723eac0c9d1e6d91c3eb10c26ca
+size 201

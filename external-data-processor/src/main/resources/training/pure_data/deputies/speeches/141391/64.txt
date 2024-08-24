@@ -1,1 +1,3 @@
-Apoio à proposta de acordo de procedimento para votação da Medida Provisória 427 de 2008 (Acrescenta e altera dispositivos na Lei 5.917 de 1973, que aprova o Plano Nacional de Viação, reestrutura a VALEC - Engenharia, Construções e Ferrovias S.A., encerra o processo de liquidação e extingue a Empresa Brasileira de Planejamento de Transportes - GEIPOT, altera as Leis 9.060 de 1995 e 11.297 de 2006, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfb64aa4317063c5e3f69e8058668a9f59b24a2ece13462e0c433367f9a7d217
+size 439

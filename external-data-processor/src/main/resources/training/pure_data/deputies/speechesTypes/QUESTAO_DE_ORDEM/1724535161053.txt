@@ -1,1 +1,3 @@
-Questão de ordem sobre o cancelamento, por falta de amparo regimental, de reunião extraordinária convocada pela Presidência da CPI do BNDES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:808c9c84cf4e7046b9dcd90f591ab5de2156684ea5d7f021f411f7f6bacfa61a
+size 144

@@ -1,1 +1,3 @@
-Reportagem do jornal Valor Econômico a respeito dos elevados salários percebidos por dirigentes de grandes empresas brasileiras de capital aberto, em contraponto aos baixos vencimentos dos professores no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2a1f801f173bcfe9c40b5305537760a69d2606bcde04cf6f3aec2c4cbaf6745
+size 227

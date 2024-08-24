@@ -1,1 +1,3 @@
-Protesto contra procedimentos pouco transparentes e questionáveis adotados nas eleições indiretas para o Governo de Brasília.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef23d597853e90904c4bfe4073d188d0d719182f3b8a724d76eee37bbe36eea5
+size 129

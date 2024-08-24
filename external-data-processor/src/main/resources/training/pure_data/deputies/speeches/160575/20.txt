@@ -1,1 +1,3 @@
-Imediata apreciação pela Casa da Proposta de Emenda à Constituição nº 347, de 2009, sobre a garantia do acesso à educação especializada aos portadores de deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aebd9d149275536f505d51be97f1ee579a2a4ae478660301165981629fcaccee
+size 176

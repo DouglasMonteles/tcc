@@ -1,1 +1,3 @@
-Transcurso do 98º aniversário de emancipação político-administrativa do Município de Marabá, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8021d0d3f32cb07ec5caaf880703496d13646748139558db0c17cd38a16f811
+size 116

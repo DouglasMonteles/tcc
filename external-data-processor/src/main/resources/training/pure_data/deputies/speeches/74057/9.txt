@@ -1,1 +1,3 @@
-Anúncio de realização, pela Comissão de Educação e Cultura, de audiência pública para debate da validação de diplomas adquiridos por estudantes brasileiros no exterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f9273a81b35f55553f54702f518fb878d16d7771b662bc15c6528103157f328
+size 178

@@ -1,1 +1,3 @@
-O Deputado destacou a visita do Ministro Waldez Góes, do Ministério da Integração e Desenvolvimento Regional, ao Rio Grande do Norte para reafirmar o compromisso do Governo Federal com importantes obras hídricas no Estado. Parabenizou o ministro e agradeceu pelo empenho em concluir esses projetos vitais para a região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fa57f8c619ca5d6ce0028b6e24b2786c5e5d5fa1c9e5bcc4977620effbd83d2
+size 325

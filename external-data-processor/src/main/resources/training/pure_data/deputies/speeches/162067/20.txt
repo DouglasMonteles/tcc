@@ -1,1 +1,3 @@
-O Deputado se opôs à privatização da SABESP, uma das maiores empresas de saneamento do mundo. Destacou a importância estratégica da empresa, que atende 70% da população de São Paulo, e ressaltou que a água não deveria ser tratada apenas como um produto para lucro. Mencionou exemplos de cidades que reestatizaram seus serviços de saneamento após privatizações e argumentou que não há justificativa concreta para a privatização da SABESP. Enfatizou que a empresa é lucrativa e possui capacidade de investimento, tornando desnecessária a venda. Concluiu alertando para a possibilidade de o modelo de privatização de serviços públicos se espalhar pelo Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6082cabff8d38fd6741241f9bcab1ba7202807aed17982706e8b1c7c04c094c5
+size 681

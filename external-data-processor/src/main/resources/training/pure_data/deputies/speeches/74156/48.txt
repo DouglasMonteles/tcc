@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalhador Rural. Ações do Governo Luiz Inácio Lula da Silva em prol do setor agrícola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:403a1621ddd1d2d53a322c7e3ef45d36b0ab2a4001e496f68662cb4b24fe482d
+size 113

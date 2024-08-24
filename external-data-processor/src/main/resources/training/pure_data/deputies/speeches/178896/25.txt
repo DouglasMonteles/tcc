@@ -1,1 +1,3 @@
-Preocupação com as constantes invasões de propriedades rurais ocorridas no País. Regozijo com a inclusão dos produtores artesanais de bebidas no rol de beneficiados do Super-SIMPLES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d48afed7ecbd61921cd61e3479f1fd271743fdc1baac968e657499d166cd64bf
+size 187

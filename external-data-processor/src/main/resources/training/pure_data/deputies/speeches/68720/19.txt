@@ -1,1 +1,3 @@
-Expectativa quanto à canonização da Irmã Dulce. Apelo à bancada sergipana por apresentação de emenda em favor da duplicação de rodovia entre os Municípios de Aracaju e São Cristóvão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab5d582757b6dec283d9ae5cf488116bf525430a610f77394b844b540ef64d1e
+size 195

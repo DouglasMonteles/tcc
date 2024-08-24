@@ -1,1 +1,3 @@
-Fechamento de postos da Polícia Rodoviária Federal no Estado do Maranhão. Atuação parlamentar do orador pelo restabelecimento da fiscalização das rodovias federais no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27d63192f3afed4edb5b900a41d9e7399fb9ac51fa37c00522fa8665cb1b1bf7
+size 181

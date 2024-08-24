@@ -1,1 +1,3 @@
-Questão de ordem acerca da prejudicialidade de emendas em caso de aprovação de substitutivo da Comissão de Segurança Pública e Combate ao Crime Organizado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a903501237eb3c6e8c96ecdc658badf5bb01a16b1b2582d7327403753cc7aa5
+size 161

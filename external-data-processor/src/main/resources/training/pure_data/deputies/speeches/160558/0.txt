@@ -1,1 +1,3 @@
-Presença na Casa da criança autista Arthur, acompanhado de sua genitora. Luta do orador e do Governo Jair Bolsonaro contra a discriminação a crianças autistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60000231d5eb84e7e78a92416be8b3e99db8789edbd6f72753302169ae5b777e
+size 164

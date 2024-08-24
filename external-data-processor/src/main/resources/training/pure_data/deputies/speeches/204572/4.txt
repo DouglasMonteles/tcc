@@ -1,1 +1,3 @@
-Imediata adoção, pelo Ministério de Minas e Energia, de providências a respeito do colapso no abastecimento de energia elétrica nos Municípios de Manacapuru e Iranduba, Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f9782a67ff4c266a44a507c1b16b5119ba9f2ecc77d3e7254ae3b583c898ece
+size 194

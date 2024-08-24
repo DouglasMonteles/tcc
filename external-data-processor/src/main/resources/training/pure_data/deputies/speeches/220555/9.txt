@@ -1,1 +1,3 @@
-Regozijo com a realização da 7º Marcha das Margaridas em Brasília, Distrito Federal. Conclamação às Deputadas de participação no evento em defesa das trabalhadoras rurais do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:603b0bb46eba9f0be9588cfd8537b238bdac842bb1a73aafdb8082d17fdb7934
+size 189

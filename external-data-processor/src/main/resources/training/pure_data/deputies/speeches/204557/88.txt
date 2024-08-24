@@ -1,1 +1,3 @@
-Apelo ao Departamento Nacional de Infraestrutura de Transportes - DNIT, por recuperação do trecho da BR-174 entre os Municípios de Presidente Figueiredo/AM e Boa Vista/RR.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ffd0188d9ada07687676af79200dbd22ba9d7a7f87086cf6156e6e0b59431af
+size 174

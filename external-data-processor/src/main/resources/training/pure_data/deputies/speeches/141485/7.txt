@@ -1,1 +1,3 @@
-Votação, pela Comissão de Constituição e Justiça e de Cidadania, da Proposta de Emenda à Constituição nº 285, de 2008, sobre a destinação de recursos orçamentários da União, dos Estados, dos Municípios e do Distrito Federal aos Fundos de Habitação de Interesse Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe4eff1a6ebeccfdfeba9fb2d135abd7d5f0d89473d244113b2e518ff9ef010b
+size 286

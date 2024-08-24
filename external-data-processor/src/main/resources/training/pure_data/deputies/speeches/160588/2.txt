@@ -1,1 +1,3 @@
-Participação na Feira Nacional do Agronegócio Café - EXPOCAFÉ. Convite aos Parlamentares para participação na futura frente parlamentar em defesa da cafeicultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b03b5a1c9b96846703cd966c31388acbb66971b780dc4616099b3e4ee693f0
+size 169

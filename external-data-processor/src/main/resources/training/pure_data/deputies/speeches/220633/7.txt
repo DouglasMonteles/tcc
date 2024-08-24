@@ -1,1 +1,3 @@
-Necessidade de exame meticuloso do caso envolvendo a Deputada Julia Zanatta e membro da Casa. Invasão e depredação de estabelecimentos comerciais no centro de São Paulo por moradores da cracolândia. Defesa da internação compulsória de dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78fa43d94bbfc0ab503cc999cebfd1e20c6278591dd823fe128eb9dad8fc56d3
+size 265

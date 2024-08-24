@@ -1,1 +1,3 @@
-Visita do orador a Municípios atingidos pelas cheias no Estado do Amazonas. Apelo ao Presidente Luiz Inácio Lula da Silva de criação de bolsa família para Estados vulneráveis a enchentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de06ea9bb83847bff51d60bd241ca8a95ca35e164c622bacebf5f07f91c19a4d
+size 193

@@ -1,1 +1,3 @@
-Falecimento do Diretor-Presidente da Revista Caros Amigos, Sérgio de Souza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11b67cfbafd39ac8b603463209e203527ca18e68479a58174b53ba197bc56a51
+size 76

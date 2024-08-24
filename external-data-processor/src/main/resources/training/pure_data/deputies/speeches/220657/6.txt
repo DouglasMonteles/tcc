@@ -1,1 +1,3 @@
-Transcurso dos 23 anos de existência do Ministério Canaã, fundado pelo Pastor Jecer Goes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d572a60c64c870de75abe7683c259fd54a5f815fc5aa19b9b5c86b88678d764b
+size 92

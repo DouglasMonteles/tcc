@@ -1,1 +1,3 @@
-Solicitação ao Ministro da Saúde de ampliação do lote de vacina contra a gripe H1N1 destinado ao Estado do Amazonas. Apresentação de projeto de lei sobre a regulamentação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, no tocante ao pagamento dos profissionais do magistério contratados em caráter temporário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8d206cd829b8eca7937305445d90788b9954aa0b403450bcab54f8784d9de21
+size 399

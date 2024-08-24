@@ -1,1 +1,3 @@
-Ampliação do Programa Farmácia Popular no Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:955d0bd56e76a606d90d40facdedff92f6365e56a1bf7c23e0e6f8a9f401a79a
+size 70

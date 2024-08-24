@@ -1,1 +1,3 @@
-Pedido à Presidência de inclusão da chamada PEC dos Vereadores na pauta de votações da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed01bfda9e06f7bb9e022132a01074bc14945419d46a281e305f2daeedac3312
+size 97

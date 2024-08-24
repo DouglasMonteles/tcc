@@ -1,1 +1,3 @@
-Preocupação do orador com as demonstrações de desconhecimento, pelo futuro Ministro do Meio Ambiente, Carlos Minc, da problemática da região amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b27845b1d8b62868d9dc900913732c9fc742f024f73870eca5eef67b1ee3fd04
+size 158

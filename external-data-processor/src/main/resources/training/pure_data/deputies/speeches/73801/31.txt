@@ -1,1 +1,3 @@
-Expectativa quanto ao aperfeiçoamento, pelo Senado Federal, do texto da Subemenda Substitutiva Global apresentada ao Projeto de Lei nº 1.292, de 1995, sobre a alteração da Lei nº 8.666, de 1993, relativa às normas de licitações e contratos da administração pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60f6fca997b6885f010beecda50485f8e2704cfa6fb0cb93d19e334a01924b6b
+size 276

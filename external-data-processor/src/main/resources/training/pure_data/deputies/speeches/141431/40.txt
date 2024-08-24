@@ -1,1 +1,3 @@
-Estabelecimento de parceria entre o Governo Federal e o Governo do Estado de Pernambuco, para universalização do sistema de eletrificação conforme preconizado no Programa Luz para Todos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed346e378c42e457b820a7920a5fb7abf2bd9131fcdd9d2b7e02ad33adf0c8e9
+size 190

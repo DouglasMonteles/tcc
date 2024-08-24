@@ -1,1 +1,3 @@
-Levanta questão de ordem para dirimir dúvidas sobre critérios de aplicação de disposição regimental que trata da não-publicidade de informações e documentos oficiais de caráter reservado, tendo em vista o recebimento de resposta, com pedido de sigilo, a Requerimento de Informações ao Ministro das Minas e Energia sobre a publicidade da Petrobrás aos Jogos Pan-americanos de 2007, diferentemente da  resposta a Requerimento de mesmo teor ao Ministro da Fazenda com relação à Caixa Econômica Federal - CEF, sem nenhuma observação. Consulta a Mesa Diretora sobre a legalidade de decisão do Conselho Nacional de Políticas Energéticas de construção de ANGRA III sem a devida apreciação pelo  Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a258623acbc3577d76377d2e9885a0d92a3cdb657e57016387c674d888430ab
+size 734

@@ -1,1 +1,3 @@
-Apoio à proposta de regulamentação da atividade de telemarketing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e99882c4f42ccacbee204840f7f12b53926ada165c0a3cd49bbe3b787d4381bd
+size 68

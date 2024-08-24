@@ -1,1 +1,3 @@
-O Deputado destacou a necessidade de o Brasil olhar para o futuro e criticou a constante referência do Presidente Lula ao ex-Presidente Bolsonaro. Mencionou realizações no Governo Bolsonaro, como redução de impostos e avanços em diferentes setores. Criticou o comportamento de Lula e seus Ministros, sugerindo que deveriam olhar para frente. Expressou descontentamento com o corte de repasses em áreas como saúde e educação, apontando a redução do 13º salário no Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df3999a866712ae1fb2c2834e6171523e599c7f3d2c9f26a3ab64757e508dace
+size 492

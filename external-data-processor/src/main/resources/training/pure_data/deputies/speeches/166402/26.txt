@@ -1,1 +1,3 @@
-Votos de boas-vindas à Deputada Luzia Maria Ferreira, ao ensejo da posse de S.Exa. no cargo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53841432fc6261424a6c64d4bcc383780a0740a9c338af849af48e59a3509088
+size 93

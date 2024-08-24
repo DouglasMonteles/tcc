@@ -1,1 +1,3 @@
-O Deputado anunciou a presença no plenário e deu boas-vindas à Casa aos Vereadores Luciano Formentin e Liander da Silva Padilha, respectivamente, dos Municípios de Morro da Fumaça e São Joaquim, Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49f68ad105193e3c3251a80602b9401d5066db1fd2973c7aa5dee4a23cd44f91
+size 226

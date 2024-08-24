@@ -1,1 +1,3 @@
-Compromisso regimental e posse do Deputado FERNANDO MONTEIRO (Bloco/PP, PE).
+version https://git-lfs.github.com/spec/v1
+oid sha256:772b80eb1b71720551cb6a64c61edb1595e6c5205841f3f03853faa0fe814f7b
+size 76

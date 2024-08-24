@@ -1,1 +1,3 @@
-Regozijo da bancada da Região Nordeste com o anúncio de transformação de sessão plenária em Comissão Geral destinada ao debate dos efeitos da seca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:894ebb76b53e3396f5e042396f2585e535dec4b5eabc5189a9c4ad3dc660d34d
+size 154

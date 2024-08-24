@@ -1,1 +1,3 @@
-Suspensão da greve dos auditores-fiscais da Receita Federal do Brasil. Nota da Federação Nacional dos Auditores-Fiscais da Receita Federal do Brasil e do Sindicato Nacional dos Auditores-Fiscais da Receita Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:205b21e3ff62881cfbb941ebff9330331b1d463d5b3a7a02dd14977f4e24a216
+size 217

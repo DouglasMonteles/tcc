@@ -1,1 +1,3 @@
-Queda dos índices inflacionários no mês de junho de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21f84144d0dc7e88ba12917a3aa43aaf216d7249fbe981e442138bafa25c9c25
+size 60

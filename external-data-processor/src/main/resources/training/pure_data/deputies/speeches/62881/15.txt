@@ -1,1 +1,3 @@
-Informação ao Deputado Arnaldo Faria de Sá sobre as razões da supressão do § 2º do art. 17 Projeto de Lei de Conversão da Medida Provisória 520 de 2010 (Autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Serviços Hospitalares S.A. - EBSERH e dá outras providências), que trata da  definição pelo Ministério da Saúde das ações de gratuidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:597ae4fcf1c109e6268458a7dbda01e3a6444147f0c013f1d3b6d1303163cdb8
+size 394

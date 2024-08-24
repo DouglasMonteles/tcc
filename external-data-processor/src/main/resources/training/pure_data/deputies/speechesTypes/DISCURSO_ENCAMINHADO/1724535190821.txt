@@ -1,1 +1,3 @@
-Realização de caravana pelo ex-Presidente Luiz Inácio Lula da Silva na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efd1879309606c8da911915f442a55d2ad379de0a8d3ad5895c6e06a227d3ee7
+size 91

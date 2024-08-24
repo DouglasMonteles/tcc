@@ -1,1 +1,3 @@
-Transcurso do 75º aniversário de fundação do jornal O Estado, do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c26cfa7e6d548779d898d09f6d3e95c845edfd156e76087d11e8afc48c352e73
+size 76

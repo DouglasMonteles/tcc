@@ -1,1 +1,3 @@
-Transcurso do 21º aniversário do Grito da Terra Brasil, da Confederação Nacional dos Trabalhadores na Agricultura - CONTAG. Pedido à Presidenta Dilma Rousseff de solução para a pauta dos trabalhadores rurais. Realização, nas dependências da Casa, de ato público em defesa da reforma política com participação popular. Apelo à Presidência da Casa por debate sobre a reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:295529196e2d0f025a6e3fe0c46e94a65f66b7e5d745c482e841ffda82ca9ca0
+size 399

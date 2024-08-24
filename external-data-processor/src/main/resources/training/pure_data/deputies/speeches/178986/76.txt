@@ -1,1 +1,3 @@
-Relato sobre a participação do orador em comitiva brasileira presente na Conferência do Clima - COP 22, no Marrocos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd3579e9d2cce4b9e6af6a407b574a6ee4bbf75bc64d81f353805f725a72590c
+size 119

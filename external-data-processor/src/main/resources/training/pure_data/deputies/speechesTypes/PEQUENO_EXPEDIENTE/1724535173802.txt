@@ -1,1 +1,3 @@
-Pedido ao Governo Federal e ao Governo do Estado do Rio Grande do Norte de auxílio a setores produtivos atingidos por enchentes. Defesa de modificações na Medida Provisória nº 432, de 2008, sobre a regularização das dívidas rurais, com vistas à situação do agronegócio nordestino. Enaltecimento do Programa Desenvolvimento Solidário, do Governo potiguar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:079a5e35c44aac61ba56adda0d6dfdf578c6d79f8d67293a7af8319a628320ea
+size 367

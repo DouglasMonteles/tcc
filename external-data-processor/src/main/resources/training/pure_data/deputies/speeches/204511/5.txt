@@ -1,1 +1,3 @@
-Urgente necessidade de realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86c8ef6682dd27bd665426d1156f94d8c2aa435e16dec7eac7ad8a3c7a2e8d49
+size 59

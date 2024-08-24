@@ -1,1 +1,3 @@
-Associação ao discurso proferido por Deputado sobre os portadores do Transtorno do Espectro Autista - TEA. Repúdio à declaração do Presidente Luiz Inácio Lula da Silva a respeito dos autistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:939818b1559f529d559b96eba32a5bcc1e7e26a89b02a10160e0dabdbd4ecb2a
+size 199

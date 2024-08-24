@@ -1,1 +1,3 @@
-Homenagem póstuma ao empresário Roberto de Souza Leão Filho. Relevância de sua atuação em prol do hipismo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:047f249930567843a83dba673067b71fde5dc2d5018ac8925f3e1a33190081be
+size 123

@@ -1,1 +1,3 @@
-Expectativa de aprovação, pela Comissão de Seguridade Social e Família, do projeto de lei sobre a obrigatoriedade de emissão, por empresas e cooperativas, do Perfil Profissiográfico Previdenciário - PPP de trabalhadores e cooperados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c5ef900c6c2448604c7eb6ec45b36fa54a4e0e6a63b11d1e8e5b940949fc5e
+size 240

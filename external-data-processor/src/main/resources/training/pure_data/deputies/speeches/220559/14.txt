@@ -1,1 +1,3 @@
-Transcurso do 350º aniversário de fundação de Florianópolis, Capital do Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:793ff3f33da4e36de42b73fa81cf2f14edc845d843180dc27b7e551d7033d8ae
+size 102

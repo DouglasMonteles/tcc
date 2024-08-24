@@ -1,1 +1,3 @@
-Solicitação ao Governo Federal de reabertura do garimpo da Serra da Carnaíba, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3008a1fd114b97c85f4a5dabbc8085e4355dd9e6c22fa4a38b6ac140f386b0b
+size 100

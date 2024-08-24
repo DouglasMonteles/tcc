@@ -1,1 +1,3 @@
-Visita à Câmara dos Deputados do Prefeito e do Vereador do Município de Mirante da Serra, Estado de Rondônia, respectivamente Adinaldo de Andrade e Adineudo de Andrade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12cdc93baef19fa4c6d05102d4524bd2c8395f266b34297636d6f2917c6caa31
+size 172

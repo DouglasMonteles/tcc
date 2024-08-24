@@ -1,1 +1,3 @@
-Solicitação à Presidência de apoiamento a recurso contra o descumprimento de preceitos do Regimento Interno durante reunião da Comissão de Segurança Pública e Combate ao Crime Organizado da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7e1569720c4889a39027cff630bf0c500c8b395c27757937290b127402f3586
+size 203

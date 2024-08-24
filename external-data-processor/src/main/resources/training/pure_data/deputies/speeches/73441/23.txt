@@ -1,1 +1,3 @@
-Transcurso do Dia da Consciência Homossexual. Prática de violência contra homossexuais no Brasil. Defesa de aprovação de projeto de lei sobre o combate à homofobia. Direitos conquistados pelos homossexuais no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ebe3167c49eb6537a265432ae5b2525d81197944df3230091512da534a6fb0f
+size 221

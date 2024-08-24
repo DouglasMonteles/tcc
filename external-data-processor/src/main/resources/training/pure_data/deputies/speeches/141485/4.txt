@@ -1,1 +1,3 @@
-Equívoco na leitura do parecer ao Projeto de Lei 66 de 2008-CN (Abre crédito suplementar em favor dos Ministérios do Planejamento, Orçamento e Gestão e das Cidades).
+version https://git-lfs.github.com/spec/v1
+oid sha256:aae878daf497dca9166dd3b82544f94f8da863dbd1618b48b146af88da455fcf
+size 170

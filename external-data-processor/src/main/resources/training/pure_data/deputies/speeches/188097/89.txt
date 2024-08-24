@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 130, de 2019,  sobre alteração do § 4º do art. 8º da Lei 8.069, de 1990, para ampliação da assistência à gestante e à mãe no período pré e pós-natal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86297e93a2cb40769c37d3be283c6a24eb4d8321994994671cf0d629ba208e81
+size 277

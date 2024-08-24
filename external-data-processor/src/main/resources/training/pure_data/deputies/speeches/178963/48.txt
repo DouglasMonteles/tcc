@@ -1,1 +1,3 @@
-Solicitação à REDE de retirada de requerimentos de destaques oferecidos ao Projeto de Lei nº 1.530-C, de 2015, sobre medidas de prevenção e repressão ao contrabando.
+version https://git-lfs.github.com/spec/v1
+oid sha256:693119f0ab4554a568461460ff34f7b9631c3ebdce0ddaa3000e14151df9bece
+size 172

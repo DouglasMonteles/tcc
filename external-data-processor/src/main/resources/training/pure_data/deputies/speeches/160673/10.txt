@@ -1,1 +1,3 @@
-Defesa de votação e aprovação da proposta de criação do novo Código Florestal Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a5ecc4cb6b257c43e577a3eae93d80cffdb3aeb12074dd5f5718a929447c73d
+size 96

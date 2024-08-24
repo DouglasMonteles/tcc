@@ -1,1 +1,3 @@
-Homenagem ao Deputado Inocêncio Oliveira, ao ensejo de seu pronunciamento de despedida da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80d3b0ae86d6a7219f7ef1dfd30351e15ecc761668d186b43fd3953ad4fa9cfb
+size 96

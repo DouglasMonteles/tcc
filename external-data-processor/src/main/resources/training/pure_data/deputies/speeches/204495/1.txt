@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à extinção do Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:531c0c5fdea503a574f974d195a249c4e3b592613bf311c267bea2f425513e93
+size 76

@@ -1,1 +1,3 @@
-O Deputado apontou a parcialidade do discurso político da esquerda e dos parlamentares petistas no contexto da discussão do Projeto de lei nº 3.780, de 2023, que altera o Decreto-Lei nº 2.848, de 07 de dezembro de 1940 – Código Penal, para aumentar as penas cominadas aos crimes de furto e roubo. Ademais,apontou a contradição entre a rígida condenação criminal dos manifestantes dos atos antidemocráticos e a oposição ao aumento de pena para o latrocínio. Repudiou a política de desencarceramento, citando o exemplo malsucedido da Califórnia. Por fim, defendeu o endurecimento das penas e a prisão de bandidos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56cd0ebc4a68c1db32b9cb3d64c67654ef930627474c3e13b9916c7870393e71
+size 630

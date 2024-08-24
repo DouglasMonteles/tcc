@@ -1,1 +1,3 @@
-Instalação de novos parques de energia eólica no Estado da Bahia. Contrariedade à pretendida taxação da energia solar pela Agência Nacional de Energia Elétrica - ANEEL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1c7556ed2bd3eb0a36e5f4f95bd47d2d50c7e2d2c28c78ec3999721e2e251b2
+size 176

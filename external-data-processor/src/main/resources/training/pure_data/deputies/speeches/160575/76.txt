@@ -1,1 +1,3 @@
-Associação ao pronunciamento da Deputada Teresa Surita sobre a importância de aprovação, pela Casa, do projeto de lei coibitivo da violência doméstica contra crianças e adolescentes. Regozijo com a decisão do PT a favor da paridade de gênero em todas as instâncias de direção do partido. Apresentação, pela bancada feminina, de emenda à proposta de reforma política destinada à alternância de gênero na lista preordenada de eleições proporcionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f92ed6ecd6ea24ab4aca8f8a8e7d3eb694e48cdee41c26c6709971cc0add8fd
+size 469

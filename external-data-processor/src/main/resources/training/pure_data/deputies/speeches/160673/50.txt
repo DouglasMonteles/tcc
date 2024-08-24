@@ -1,1 +1,3 @@
-Prática de atividades físicas nas municipalidades gaúchas por ocasião do transcurso do Dia do Desafio 2012, de mobilização popular em prol da promoção de saúde e qualidade de vida. Programação de eventos alusivos à efeméride na capital gaúcha, Porto Alegre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa548a852c9527dbe55ee5d3115168cc9eab45288e215661703efa054a3f13c2
+size 271

@@ -1,1 +1,3 @@
-Morosidade e descaminho dos trabalhos da Comissão de Mortos e Desaparecidos Políticos. Defesa de parecer pela agilização dos procedimentos para identificação dos restos mortais de desaparecidos políticos durante o regime militar, em especial dos envolvidos no episódio conhecido como Guerrilha do Araguaia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:400d5bc623f7f73301a8773ddddebd669cd508a9bf1377dadf7c3e217c7f229f
+size 314

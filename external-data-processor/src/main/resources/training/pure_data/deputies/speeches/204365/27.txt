@@ -1,1 +1,3 @@
-Orientação de bancada na votação da subemenda substitutiva oferecida ao Projeto de Lei nº 11.021, de 2018, sobre a remuneração recebida por funcionário de partido  político com recursos do fundo partidário, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f88d1f559fd2ce722ba464485ca6741453e7c400c4b6f37b66d955286d44054
+size 242

@@ -1,1 +1,3 @@
-Votos de êxito na atuação parlamentar dos Deputados no ano legislativo de 2018. Reiteração de compromisso do orador com o atendimento dos anseios da população do Estado de Goiás e com a luta por justiça e igualdade no Brasil. Visitas a Municípios goianos durante o recesso parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34d5603b376d957b9d3291e82c0b3a65e51b0d1a3560540756a2be27358d934e
+size 295

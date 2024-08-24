@@ -1,1 +1,3 @@
-Solicitação à Presidência de reconsideração sobre a continuidade da sessão, em face do cansaço dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95fa19771a65a1a5b292eabc34710dff380a1be5cbf6128612d38e28297070b5
+size 117

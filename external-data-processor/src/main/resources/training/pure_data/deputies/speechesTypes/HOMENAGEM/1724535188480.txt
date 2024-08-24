@@ -1,1 +1,3 @@
-Sessão Solene em homenagem à Polícia Militar do Distrito Federal.As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec38bc3e67f39d259c7dbfb6c2adb6303103280615634a3fd142443f7e810074
+size 199

@@ -1,1 +1,3 @@
-O Deputado solicitou ao Governo Federal a publicação de decreto para liberação aos Municípios brasileiros da Compensação Financeira pela Exploração Mineral - CFEM e destacou a necessidade do recurso para 25 municipalidades do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69683d444846a2858c700a03ee5bd8b6083ef6b06f8cca167da75ac699f8787b
+size 255

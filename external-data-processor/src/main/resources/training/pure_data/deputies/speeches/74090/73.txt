@@ -1,1 +1,3 @@
-Protesto contra a centralização do gerenciamento de companhias de energia elétrica no Estado do Rio de Janeiro. Precariedade do abastecimento de energia elétrica em Municípios do Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc46abb29a785f15c83253edfeb7bfab460ac0486a792327321af38f78b5766d
+size 203

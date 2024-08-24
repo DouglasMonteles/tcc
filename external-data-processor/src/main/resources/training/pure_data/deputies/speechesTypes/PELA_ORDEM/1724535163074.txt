@@ -1,1 +1,3 @@
-Apoio à questão de ordem suscitada pelo Deputado Arnaldo Faria de Sá sobre a prejudicialidade da Emenda 73 à   Medida Provisória 460 de 2009,   que permite a fixação de preço diferenciado na venda de bens ou na prestação de serviços pagos com cartão de crédito em relação ao preço à vista, por tratar de matéria objeto do Projeto de Lei 4.360 de 2008, declarado  prejudicado e arquivado pela Mesa Diretora da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71ed2666d29300340480141b8c125506dc0f72615ae842b1ad0b247d6d2344e5
+size 449

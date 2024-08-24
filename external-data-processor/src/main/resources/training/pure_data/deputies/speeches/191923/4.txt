@@ -1,1 +1,3 @@
-Cobrança ao Governo Federal de reforço na fiscalização e policiamento das fronteiras do Brasil. Resultados de audiência pública realizada pela Comissão de Fiscalização Financeira e Controle destinada ao debate sobre a importância dos efetivos da Polícia Rodoviária Federal, da Polícia Federal e da Receita Federal do Brasil na fiscalização das fronteiras brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48d3673c2dbcf1dedd40ee05cec446f9883f4e463f64a9a0a4c12ba7950ae87f
+size 382

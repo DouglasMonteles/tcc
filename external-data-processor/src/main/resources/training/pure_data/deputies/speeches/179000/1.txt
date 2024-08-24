@@ -1,1 +1,3 @@
-Agradecimento aos participantes do 1º Seminário Mineiro sobre a Lei de Incentivo ao Esporte, na Câmara Municipal de Belo Horizonte, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d16adbd262131683812e468c2f2d886b508e2d3bb871bd505e0f638882450dc
+size 158

@@ -1,1 +1,3 @@
-Congratulações ao Presidente do Equador, Rafael Correa, pela concessão de asilo político ao jornalista Julian Assange, responsável pelo site WikiLeaks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:663a3db33df2310ec0c1086b6c01ebaeacbae154bc2caf3297ea9596d8c237f5
+size 156

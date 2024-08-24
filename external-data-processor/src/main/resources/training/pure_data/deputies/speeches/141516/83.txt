@@ -1,1 +1,3 @@
-Protesto contra a não extensão de benefícios da Medida Provisória  512  de 2010, sobre a concessão de incentivos fiscais à indústria automotiva,  à região do Vale do Jequitinhona, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e2045b3e938524f248ce4757b25115bdd3ef923b1fcc89c77173a74fc01239e
+size 212

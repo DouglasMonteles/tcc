@@ -1,1 +1,3 @@
-Desequilíbrio do pacto federativo brasileiro em face da retenção de recursos pela União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:134fc2804d627b6ed31338112b52298162fbae45ffcec34b9aeb795b2e7a63e3
+size 92

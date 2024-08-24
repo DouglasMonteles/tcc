@@ -1,1 +1,3 @@
-Falecimento do folclorista gaúcho Antônio Augusto da Silva Fagundes, Nico Fagundes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a85944bb5c9fc68f0d60828919709e10fd91ccfb70c01713143caae71fb1771
+size 85

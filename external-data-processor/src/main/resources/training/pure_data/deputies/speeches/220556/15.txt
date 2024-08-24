@@ -1,1 +1,3 @@
-Presença, na Casa, do Secretário de Educação, Cultura e Desporto, Paulo Cesar Longen, e do Chefe de Gabinete do Prefeito Municipal de Presidente Getúlio, Leonardo Pavanello Jr., Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2716da36aeee9cb8920c6ed8681c3f70a53e183ab6b32b9d0a642a423dc9d6f
+size 208

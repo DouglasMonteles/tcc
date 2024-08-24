@@ -1,1 +1,3 @@
-Solidariedade à luta do Deputado Anthony Garotinho em defesa do setor sucroalcooleiro do Estado do Rio de Janeiro. Impossibilidade de extensão, pelo Governo Federal, dos subsídios aos produtores de cana da Região Sudeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e39f11f1d724ecada2b77cd69f728fcd836f074fab296d412b83eae2f443704d
+size 225

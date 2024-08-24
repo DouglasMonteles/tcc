@@ -1,1 +1,3 @@
-Discussão do índice do reajuste do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50b9b5664b05b84b3999af375254bfa0ee9f6688cd48e4b125ef0f71746b745a
+size 54

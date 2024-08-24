@@ -1,1 +1,3 @@
-Exibição pelo programa Fantástico, da Rede Globo de Televisão, de reportagem sobre a merenda escolar fornecida aos alunos de escolas públicas brasileiras. Conclamação a autoridades públicas e à população em geral de realização de campanha pela fiscalização da merenda escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c32c705147d4a3d9f7c7808000dff692650339b3be9b6b09c7b499816e16ce2
+size 291

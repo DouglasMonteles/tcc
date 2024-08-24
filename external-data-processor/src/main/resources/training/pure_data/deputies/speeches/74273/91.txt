@@ -1,1 +1,3 @@
-Combate à falsificação de medicamentos pela Agência Nacional de Vigilância Sanitária - ANVISA e pela Polícia Federal. Alerta ao consumidor de medicamentos sobre a importância da adoção de medidas de combate à pirataria de produtos medicamentosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7cdcd781ca222767d0ba46cbf1ae9e06b06fb6da034e57d25c25f37e3e88254
+size 257

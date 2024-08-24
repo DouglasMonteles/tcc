@@ -1,1 +1,3 @@
-Concordância com o  acordo de procedimento proposto pelo Deputado Paulo Pereira da Silva para votação de matérias constantes da pauta da Ordem do Dia.  Urgência na apreciação do Projeto de Lei nº 1.179, de 2007, sobre a redução do Imposto de Importação às microempresas importadoras de equipamentos de informática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03bb7de82e789c78fb9e9dcd6cf4fde9d58e3eccd0909d3148ea29f7e26e9fb2
+size 328

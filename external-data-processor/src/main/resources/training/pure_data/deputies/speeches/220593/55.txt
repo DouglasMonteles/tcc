@@ -1,1 +1,3 @@
-Baixa produção agrícola dos assentamentos do Movimento dos Trabalhadores Rurais Sem Terra - MST. Críticas à realização do 4º Festival Nacional da Juventude Rural. Empenho da Direita na capacitação profissional da juventude rural, distante do meio político-partidário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:825363bb67c016deaedbc23e6016696991d867e55ea6f3fc54cf88fe14425d31
+size 279

@@ -1,1 +1,3 @@
-Acerto da criação do Consórcio de Governança Cooperativa para Políticas Públicas de Convivência e Desenvolvimento dos Municípios do Semiárido Cearense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7b37ed3739ed4a8811c2d34338e9cb22989c75be020cce7ff26cb6e60cc1e19
+size 160

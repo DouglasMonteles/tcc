@@ -1,1 +1,3 @@
-Reportagem do Jornal da Record a respeito da interdição do Hospital Infantil Arlinda Marques e da greve de policiais no Estado da Paraíba. Solicitação ao Ministério Público Federal de acompanhamento do processo de interdição da unidade hospitalar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ea06f753fd3a17bf801d081fb9a8af46562f73cb2b9febee604f2360c92a30e
+size 256

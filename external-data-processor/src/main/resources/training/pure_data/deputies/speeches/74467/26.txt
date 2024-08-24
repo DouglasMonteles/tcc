@@ -1,1 +1,3 @@
-Ação social realizada no Município de Campina Grande pela Superintendência Regional da Polícia Federal no Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c16cc28855f505d784c78ae9ed4575bba2bc36855742269e3f6541b154eb5ad
+size 130

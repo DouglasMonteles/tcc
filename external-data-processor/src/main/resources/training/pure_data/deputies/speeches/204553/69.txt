@@ -1,1 +1,3 @@
-Importância de pacificação do País para garantia do bem-estar social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02cc155c8572ffe1abf41d84044a1d5986cbfae92b47d231a566103cbeb640eb
+size 73

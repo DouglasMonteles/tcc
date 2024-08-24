@@ -1,1 +1,3 @@
-Participação do orador na 30ª Assembleia Geral do Parlamento Latino-Americano - PARLATINO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32cb8e01bfc49c00b7e2257c6f6a53514f9286da8cb5bda28a6c5c5a586b0f60
+size 93

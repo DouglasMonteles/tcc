@@ -1,1 +1,3 @@
-Avanços da área social nos Governos Luiz Inácio Lula da Silva e Dilma Rousseff. Importância da diversificação da matriz energética da agricultura familiar. Produção de cachaça por pequenos agricultores no Estado de Minas Gerais. Importância da concessão de incentivos às pequenas propriedades rurais para a produção de etanol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b426137e46d6539ba43eaba5437439a83179c0149e5e12002f1e747d9aadf757
+size 341

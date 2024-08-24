@@ -1,1 +1,3 @@
-Associação ao posicionamento do Líder do Governo, Deputado Arlindo Chinaglia, sobre a votação de projeto de lei a respeito dos Conselheiros Tutelares da Criança e do Adolescente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08022c5656c3f2cb8f43e4dd91000a901274b1fd3067e1d960ad536a39f2fa2f
+size 184

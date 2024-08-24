@@ -1,1 +1,3 @@
-Instalação de Comissão Especial destinada ao exame do Projeto de Lei nº 3.960, de 2008, sobre a transformação da Secretaria Especial de Aqüicultura e Pesca em Ministério da Pesca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2e1c2e215ff8e0b935468cbc7f0c695a4f2a67aa540d0d10f1b172eab209e70
+size 187

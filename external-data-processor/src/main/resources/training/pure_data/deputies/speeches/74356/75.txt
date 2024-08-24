@@ -1,1 +1,3 @@
-Reunião de membros da bancada federal do Estado do Amazonas com o Prefeito Municipal de Lábrea para debate de episódio ocorrido no Instituto Chico Mendes. Baixos investimentos realizados no ensino superior brasileiro. Universalização do acesso à telefonia móvel no País. Realização pela Comissão da Amazônia Integração Nacional e de Desenvolvimento Regional, de audiência pública para debate do cronograma de instalação da telefonia móvel e dos serviços de Internet na região amazônica. Necessidade de ampliação do acesso aos serviços de Internet banda larga no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21519ef0c91c972890dd15a99a4414399fbb1d214571ff26ca17de6a5122e4a7
+size 594

@@ -1,1 +1,3 @@
-Homenagem a D. Manoel dos Reis de Farias, nomeado para a Diocese de Petrolina, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad7a65cf4977db920aa37353a9cc23c82a33fc9e0ddb2437ce35e16f1834cab6
+size 100

@@ -1,1 +1,3 @@
-Registro de voto do parecer da Comissão Especial sobre a denúncia contra a Presidenta Dilma Rousseff por crime de responsabilidade - Impeachment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb7c3a7de4dca116a2d61365091a0b4436436283acd862342fbaad0bfe2b6197
+size 147

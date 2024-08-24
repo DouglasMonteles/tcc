@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalhador. Conquistas na política de recuperação do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c28762a7b75b3320e2b6121390b2125ef9a14109fc5e60bd7f7339d17bd4bff
+size 95

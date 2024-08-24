@@ -1,1 +1,3 @@
-Dados consubstanciadores da necessidade de renúncia do Ministro da Fazenda, Fernando Haddad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dc0769a8cb72dced54d73187382f067bdccec0eb9c5a5143801ab74116503a7
+size 93

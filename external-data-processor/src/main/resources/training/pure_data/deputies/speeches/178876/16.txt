@@ -1,1 +1,3 @@
-Elogio ao Deputado Carlos Manato pela condução dos trabalhos da sessão. Congratulações ao Goiás Esporte Clube pela conquista do Campeonato Goiano de Futebol 2015. Solicitação ao Ministro da Justiça de autorização da presença da Força Nacional de Segurança Pública em Municípios do Estado de Goiás da região do Entorno do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41ffb7fc57d87f1a8784c2d120a7cacc3647c9c4e2d14efa40382e6de1467d7e
+size 356

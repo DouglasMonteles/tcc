@@ -1,1 +1,3 @@
-O Deputado discursou em nome das pessoas com deficiência, especialmente focando na deficiência visual. Compartilhou preocupações sobre a dignidade e tratamento adequado para indivíduos com deficiências e anunciou a apresentação de projeto de lei que busca identificar pessoas com deficiência visual por meio de cores em suas bengalas. As bengalas com traços brancos identificariam cegueira total, as com traços verdes indicariam algum resquício de visão, e as com faixas brancas e vermelhas seriam para pessoas com deficiência visual e auditiva. O orador destacou os números alarmantes de deficiência visual no Brasil e ressaltou que a identificação por cores ajudaria outras pessoas a tratar aqueles com deficiência com mais cuidado e compreensão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d63d4ef33133c532b44ac01b2a428739cd56e76a02d50122a6d79fbcd8a30377
+size 768

@@ -1,1 +1,3 @@
-Imediata inclusão na pauta da Ordem do Dia da Proposta de Emenda à Constituição nº 555, de 2006, sobre a extinção da contribuição previdenciária dos aposentados e pensionistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87bfeeef3ef697d2f18be5011cd584d635add95ce652b3299655f5049a7ce71c
+size 186

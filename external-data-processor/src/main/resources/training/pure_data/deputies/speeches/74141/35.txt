@@ -1,1 +1,3 @@
-Contemplação de Municípios com até 50 mil habitantes pelo Programa Minha Casa, Minha Vida. Êxito da política social adotada pelo Governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88e0fcd7c7f21b4246588271848740e59733733a85d98b5c49270ec829c6745f
+size 151

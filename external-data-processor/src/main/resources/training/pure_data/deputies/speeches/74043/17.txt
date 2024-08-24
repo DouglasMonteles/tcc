@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global, apresentada pelo Relator da Comissão de Finanças e Tributação ao Projeto de Lei nº 985, de 2020, sobre as medidas excepcionais adotadas em situação de emergência pública nos termos da Lei nº 13.979, de 2020, ressalvados os destaques. Apoio à votação de proposta de emenda à Constituição e ao projeto de lei relativo ao Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a37884828264f3ac66221f49c7862fd4ade3944a2bb46c28b81443d23173801
+size 452

@@ -1,1 +1,3 @@
-Votação pela Casa da Medida Provisória nº 610, de 2013, sobre a ampliação do Benefício de Garantia-Safra e do Auxílio Emergencial Financeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:426aa56aa7bf3b21c2956a372fc3ef530ae777b1ddb6693084e5fe9422890827
+size 149

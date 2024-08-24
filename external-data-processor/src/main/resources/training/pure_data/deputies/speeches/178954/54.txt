@@ -1,1 +1,3 @@
-Presença em plenário dos Prefeitos dos Municípios de Machadinho D'Oeste, Eliomar Patrício, e Mirante da Serra, Adinaldo de Andrade, Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d302e2bb2b7accf3cac6efc478ea548704e60a50897f587712ea730750d86bb
+size 156

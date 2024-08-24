@@ -1,1 +1,3 @@
-Prestação de contas das emendas orçamentárias apresentadas pelo orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9309ef696b66f0e34548ad0a22c95e924521b0d9a51d8edd85449f888b1b6381
+size 75

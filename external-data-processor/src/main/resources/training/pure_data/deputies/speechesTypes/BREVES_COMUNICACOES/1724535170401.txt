@@ -1,1 +1,3 @@
-Voto da Ministra do Supremo Tribunal Federal, Cármen Lúcia, a favor da desmonetização de canais com conteúdo favorável ao Presidente Jair Bolsonaro, e da suspensão do documentário Quem mandou matar Jair Bolsonaro?, veiculado pelo site&nbsp;Brasil Paralelo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddb4afa79869c6879b5183d6471ed526868ea108293958584d496a11a946740d
+size 264

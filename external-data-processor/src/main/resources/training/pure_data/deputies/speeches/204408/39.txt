@@ -1,1 +1,3 @@
-Emissão do parecer às Emendas de Plenário de nºs 1 a 6, apresentadas ao Projeto de Lei Complementar nº 9, de 2020, a respeito da adesão de empresas enquadradas no regime SIMPLES Nacional à transação tributária tratada em Lei Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3d84b3e0eb3b5d949b00348fac5d90c96b9e8f32ebcdad20a0df2a9cc21e5ae
+size 243

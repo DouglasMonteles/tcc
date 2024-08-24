@@ -1,1 +1,3 @@
-Necessidade de auxílio do Governo Federal aos Governos Estaduais para combate à criminalidade. Solicitação de melhoria da segurança pública no Estado de Goiás e na região do Entorno do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77b080f241d5673cc58d52494ee3883504a400b3ac146b527cb542f0c254f3bd
+size 210

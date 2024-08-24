@@ -1,1 +1,3 @@
-Compromisso do governo petista com a melhoria das condições de vida do povo brasileiro. Relançamento do Programa de Aquisição de Alimentos - PAA; do Programa Mais Médicos; e do Programa Nacional de Alimentação Escolar - PNAE. Anúncio de reajuste do salário mínimo acima dos índices inflacionários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f514e4468208efe63ff933481db1d8b5072fd2d6624a9eecdbf2536606ceec83
+size 310

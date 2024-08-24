@@ -1,1 +1,3 @@
-Solicitação à Casa de apoio à criação de CPI destinada à investigação sobre mortes e desaparecimentos de jovens negros e pobres no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6266e01561497ad3a688e10e134320b402974c3a3c8848993d15045349247fa3
+size 147

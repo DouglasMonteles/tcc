@@ -1,1 +1,3 @@
-Defesa da aprovação do Projeto de Lei nº 484, de 2019, sobre a extinção do financiamento público de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bae11c8da858366992d444b809a7164a6d58ff03999f38509fbe756a869b181f
+size 127

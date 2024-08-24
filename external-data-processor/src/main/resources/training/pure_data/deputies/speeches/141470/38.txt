@@ -1,1 +1,3 @@
-Realização de audiências públicas em Estados brasileiros pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização. Acolhimento  pelo órgão de sugestões de movimentos sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92f9c15eaed90d0bef769c693ac4d934ec05b5c57e36c64ff962044d59159198
+size 195

@@ -1,1 +1,3 @@
-Decisão do PDT de rejeição de matérias estranhas inseridas no texto de medidas provisórias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f09a51723e3621bdd12179a148d7ec59a5ca94b870941a511b5994e3342bced6
+size 96

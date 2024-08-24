@@ -1,1 +1,3 @@
-Orientação de bancada para votação do Projeto de Decreto Legislativo nº 886, de 2018, sobre a aprovação do Decreto nº 9.288, de 2018, relativo à intervenção federal no Estado do Rio de Janeiro com o objetivo de pôr termo ao grave comprometimento da ordem pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:220bf160d70d4e6fcd2ae96943493c59219a87df4530f83706494ef8e64e8976
+size 276

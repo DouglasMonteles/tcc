@@ -1,1 +1,3 @@
-Inauguração de Unidade de Terapia Intensiva - UTI neonatal na Santa Casa de Misericórdia São Judas Tadeu, no Município de Jequié, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e14676d67991a3e83e9522f44ee9550b563f7d9509927ba2565f09cddd8f786
+size 152

@@ -1,1 +1,3 @@
-Relevância dos trabalhos realizados pela CPI destinada à investigação de denúncias de desvio de recursos de fundos de pensão. Sanção da lei sobre o estabelecimento de diretrizes gerais para a prorrogação e a relicitação de contratos de parcerias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fec5a74f9a813afde6facdebd9916f04223d107977d0f3adcb93a266763cd6f
+size 258

@@ -1,1 +1,3 @@
-Parecer, pela  Comissão de Constituição e Justiça e de Cidadania, ao Projeto de lei 4.866 de 2009 (Inclui o Rio Santa Maria da Vitória na Lei 5.917 de 1973, que cria o Plano Nacional de Viação).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3debf657064d076f20c29c59096cd978e82fdd0ca0d0619a8a7f54f1eb62a07
+size 201

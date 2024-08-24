@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do substitutivo oferecido pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado ao Projeto de Lei nº 1.949, de 2007, que institui a Lei Geral da Polícia Civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5e0cca146f43701f3bcfcbf74415ad49866932cd28500768364c525aa4f3b47
+size 229

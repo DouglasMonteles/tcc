@@ -1,1 +1,3 @@
-Regozijo pela criação da Comissão Especial destinada ao exame do projeto de lei sobre adoção de medidas de combate à corrupção. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd8561e90d62415c131db91d8126136116e068d701aaa46903ac769d0cfadd48
+size 171

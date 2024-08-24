@@ -1,1 +1,3 @@
-Realização do 9º Congresso Brasileiro de Cooperativismo de Crédito - CONCRED, pela Confederação Brasileira das Cooperativas de Crédito - CONFEBRÁS, no Município de Nova Petrópolis, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db38a40847305b6e39ca28e676f24f7319f1d87ca3ff9b16cf2ca51caaab018d
+size 219

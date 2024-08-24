@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Meio Ambiente e Desenvolvimento Sustentável, da Proposta de Fiscalização e Controle nº 35, de 2019, referente ao derramamento de petróleo ou produto similar em larga escala no mar territorial atlântico e no litoral brasileiro com suas bacias afluentes, decorrente da exploração, produção, venda ou transporte de recursos petrolíferos, especialmente na Região Nordeste, e seus danos, responsabilidades e medidas preventivas e mitigadoras relacionadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0942856b3d9c5143404fd839351e4551f28a9c12836344b6aa1c263f339bc4aa
+size 493

@@ -1,1 +1,3 @@
-Reparos à manifestação do  Líder do Governo, Deputado Arlindo Chinaglia,  sobre atendimento de reivindicação de trabalhadores portuários  pelo Relator  da Medida Provisória 595 de 2012 (Dispõe sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9b7010f2e2321c27ff67d55900ffe74857f96f0730a64879450366d9a285234
+size 387

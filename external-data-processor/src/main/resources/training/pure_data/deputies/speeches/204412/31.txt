@@ -1,1 +1,3 @@
-Lançamento pelo Governador Ronaldo Caiado do programa de segurança alimentar Mix do Bem, idealizado pela Organização das Voluntárias de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:888f22f44d149d2d701db9ece9686d9d9e7d4dac45168123a218ac2503aea4e4
+size 148

@@ -1,1 +1,3 @@
-A Deputada proferiu parecer às emendas de plenário ao Projeto de Lei nº 4.319, de 2020, que aumenta as penas impostas aos crimes de estupro, estupro de vulnerável e pedofilia virtual, altera critérios da progressão de regime e dá outras providências. Além disso, fez referência específica às mulheres das cidades de Sorriso e Cuiabá (MT), mencionando o trágico caso do menino Kaito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5af166a7567a3e11fac825f0de7db64ae7ad9bdef7a62f2cdb47fa6e24c2604
+size 396

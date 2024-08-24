@@ -1,1 +1,3 @@
-Elevados gastos anuais do País com o tratamento de motociclistas acidentados. Recorde no número de acidentes com vítimas fatais envolvendo motocicletas no Município de Araripina, Estado de Pernambuco. Criação, pelo Governo pernambucano, do Comitê de Prevenção aos Acidentes de Moto. Sugestão ao Governo Federal para lançamento de campanhas destinadas à redução do número de acidentes com motocicletas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b39237a462f41f2efa0769543f8bf962163552cfc41596de1fa701abe2b7b86
+size 416

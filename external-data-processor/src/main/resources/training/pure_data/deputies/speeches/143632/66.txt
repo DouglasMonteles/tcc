@@ -1,1 +1,3 @@
-Solidariedade aos familiares de cidadãos do Município de Boa Viagem, Estado do Ceará, vitimados por acidente em trecho da BR-020, no Município de Canindé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f4f4ce3f067b34c9e6cd1d52e5165aa59d903e817e033080d19b10c609e1e23
+size 159

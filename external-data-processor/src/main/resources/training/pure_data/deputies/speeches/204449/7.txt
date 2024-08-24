@@ -1,1 +1,3 @@
-Defesa da nomeação da Sra. Iolene Lima para o cargo de Secretária-Executiva do Ministério da Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c06ade4a9dd27259d6441da97ec97077f02d4125e7b9703da5159e67308c11c
+size 108

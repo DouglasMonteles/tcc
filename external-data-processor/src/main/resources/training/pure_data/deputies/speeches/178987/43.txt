@@ -1,1 +1,3 @@
-Sessão solene em homenagem homenagem aos 70 anos de criação do Partido Trabalhista Brasileiro - PTB.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8accd0ac2f9b11b161a577833a011fab91a8488d37658cb47415e1d90ab337c2
+size 252

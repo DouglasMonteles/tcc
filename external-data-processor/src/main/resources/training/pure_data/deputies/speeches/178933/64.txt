@@ -1,1 +1,3 @@
-Existência de acordo para votação do Destaque nº 3. Razões da apresentação do destaque. Orientação da respectiva bancada do requerimento de destaque de parte do texto original da Medida Provisória nº 742, de 2016, para sua inclusão/substituição no Projeto de Lei de Conversão nº 3, de 2017, aprovado na Comissão Mista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3998b2d43868d1264d6f7f8aa2fe73fa74ca64d50437b13ef20c5d2fb6836dff
+size 335

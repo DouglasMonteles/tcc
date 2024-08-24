@@ -1,1 +1,3 @@
-Solicitação ao Governador do Estado do Rio de Janeiro, Wilson Witzel, de providências quanto à abordagem de policiais militares a motoristas para a realização de vistoria veicular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8e68a99f268128c8bc986ea46f3294fdbe406f9bb2d924b54d6c15b47c0e096
+size 186

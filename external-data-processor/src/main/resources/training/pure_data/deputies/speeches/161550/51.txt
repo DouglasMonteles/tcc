@@ -1,1 +1,3 @@
-O Deputado prestou contas de sua atuação parlamentar.Anunciou que, durante um mês, serão realizadas 4.320 cirurgias eletivas de catarata em várias cidades da região. Informou acerca da destinação de 40 milhões de reais em emendas parlamentares para a saúde a fim de reduzir as filas de exames diagnósticos nos próximos meses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b34921ed3c4a70c1d774aa9e0230c6a2cef10251da7dcbc41dd9cb64e2a9af7
+size 337

@@ -1,1 +1,3 @@
-Pesquisa publicada na Revista Calibre sobre a redução da criminalidade nos Estados Unidos em período de aumento do número de concessões de porte de arma.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaf8b47ef92abcce8cdec213260b74994ccf4725e666931289c4703cb548d496
+size 158

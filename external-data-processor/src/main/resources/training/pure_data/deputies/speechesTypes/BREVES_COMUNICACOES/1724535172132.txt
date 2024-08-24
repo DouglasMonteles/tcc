@@ -1,1 +1,3 @@
-Apoio ao movimento grevista dos petroleiros. Realização de marcha nacional em defesa da empresa Petróleo Brasileiro S/A - PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3e238da3af38968210eac9672f8dba2c4e2ea0ef899cb776f301c947433da6d
+size 135

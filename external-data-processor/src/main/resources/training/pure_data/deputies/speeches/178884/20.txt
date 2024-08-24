@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 630, de 2015, de autoria do orador, que inclui barras de proteção antiesmagamento entre equipamentos obrigatórios dos veículos automotores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71ee01f2f43bbc1c3cf1f79eba4e0d617e5f9c897dd09fba25e9c5497cd7de78
+size 180

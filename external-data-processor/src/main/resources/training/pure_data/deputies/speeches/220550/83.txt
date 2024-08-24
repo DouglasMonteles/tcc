@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação da Emenda de Plenário nº 3 ao Substitutivo do Projeto de Lei n° 4.179, de 2020, que estabelece a isenção de tributos federais para a doação de medicamentos à União, aos Estados, ao Distrito Federal e aos Municípios, às santas casas de misericórdia, à Cruz Vermelha Brasileira e a entidades beneficentes certificadas na forma da Lei Complementar nº 187, de 16 de dezembro de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:552fe31c2cf344199a714fb6f120d5c16c2a104b4ed6512fa3f3f7781aa708df
+size 436

@@ -1,1 +1,3 @@
-Pedido de esclarecimento à Presidência acerca da votação em curso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86e03df295268b8392ed0eb1716f5365abdfac654e784d690ccdf2f675bd3957
+size 70

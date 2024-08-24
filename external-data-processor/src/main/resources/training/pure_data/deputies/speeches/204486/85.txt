@@ -1,1 +1,3 @@
-Elevados gastos do Governo Federal com o pagamento dos juros da dívida pública brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2ecc2a2dbb6b391e529fda8481d0e752451f554b2d2382827928cb912f490e1
+size 92

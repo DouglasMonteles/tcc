@@ -1,1 +1,3 @@
-O Deputado expressou sua insatisfação com a visita do Ministro da Educação, Camilo Santana, à Câmara dos Deputados, acusando-o de mentir sobre o programa de escolas cívico-militares e de permitir questões ideológicas prejudiciais ao agronegócio no Exame Nacional do Ensino Médio (Enem).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e45482556b8e6c1dcb30faed1575080d06e854fbfd1bd7e85c310594ce197ec
+size 297

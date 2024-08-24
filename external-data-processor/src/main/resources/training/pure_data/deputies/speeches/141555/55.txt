@@ -1,1 +1,3 @@
-Realização da 12ª Jornada da Cidadania no Bairro Engenho da Rainha, na zona norte do Rio de Janeiro, Estado do Rio de Janeiro. Homenagem ao Prof. Edvaldo Araújo, ao ensejo do transcurso do 70º aniversário natalício. Contrariedade à inclusão, no cadastro de restrição ao crédito, dos nomes de consumidores inadimplentes no pagamento de tarifas públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99b9fa7236dee6bfd5a62fa1f426f72bf925ab3b34e5bd77bb30c69da179e9bb
+size 365

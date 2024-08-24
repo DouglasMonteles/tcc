@@ -1,1 +1,3 @@
-Contentamento com as ações de combate à invasão de propriedades rurais promovidas no Município de Sandolândia, Estado de Tocantins, e no Município de Tucuruí, Estado do Pará. Anúncio da destinação pelo orador de recursos orçamentários para aparelhamento da Patrulha Rural, em Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:316bdb5cb5eb264445752fe4002b1c5971efd27499b345bcd25bb8917931f6db
+size 300

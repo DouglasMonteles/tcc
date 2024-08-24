@@ -1,1 +1,3 @@
-Repúdio à exposição cultural promovida pelo Banco Santander, por afronta às crianças e aos direitos fundamentais da família brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33dd9ef7e4d27f80fd8c244734a0e78799772c5bff418611c1bf8e7e58717a24
+size 142

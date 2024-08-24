@@ -1,1 +1,3 @@
-Defesa de manutenção, pelo Supremo Tribunal Federal, da jurisprudência sobre a execução da pena após condenação em segunda instância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ada12709b30538f426301110e0f4bf53dcdd7c1882bd9de8cedbca417ed8e17c
+size 142

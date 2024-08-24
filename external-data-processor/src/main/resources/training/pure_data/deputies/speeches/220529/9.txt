@@ -1,1 +1,3 @@
-Reclamação contra o tratamento dispensado ao orador na 4ª Secretaria da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3978592b2f04dc9c97b2be454060471be841a65aa361e67bd316cd9d62ac16c
+size 97

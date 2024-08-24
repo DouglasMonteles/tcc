@@ -1,1 +1,3 @@
-Relevância da Lei 14.172, de 2021, sobre a garantia de acesso à Internet, com fins educacionais, a alunos e professores da educação básica pública. Tentativa das operadoras de telecomunicações de impedimento da implementação do diploma legal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:699cbcc91b95e940fc1fd3939d82832e76fae05a3f73a39d259b373932ffb78f
+size 252

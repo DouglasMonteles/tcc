@@ -1,1 +1,3 @@
-A Deputada destacou a visita do vereador Zezinho Alves, de Xique-Xique, Estado da Bahia, à Capital Federal. Durante a visita, discutiram importantes pautas, incluindo o acesso ao Programa Bolsa Família, seguro-defeso e estradas vicinais para o escoamento agrícola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ad358342c90a991ef35babc70a405f3e6e925841b1338cf8895e6cee42bc481
+size 267

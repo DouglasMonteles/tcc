@@ -1,1 +1,3 @@
-Hipocrisia do discurso da extrema direita em defesa da liberdade de imprensa. Solidariedade a jornalista brasileira agredida durante coletiva de imprensa do Presidente da Venezuela, Nicolás Maduro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afbe865a5136638fa55f02f2b30e6c77e1d723ec2fa18ee231fd7543bd9beff4
+size 198

@@ -1,1 +1,3 @@
-O Deputado anunciou a presença no plenário e deu boas-vindas à Casa ao Presidente do Diretório Municipal do PL de Viana, Estado do Espírito Santo, Lucas Casagrande. O orador apresentou-o como uma grande liderança da Direita capixaba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6571dcbda4e2b6a18c7a88481dfe41767d8edad19191239366f2bd3079d2134f
+size 239

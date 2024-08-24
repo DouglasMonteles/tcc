@@ -1,1 +1,3 @@
-Reabertura da sessão. Compromisso regimental e posse do Deputado LUIS TIBÉ (PTdoB, MG). Declaração de posse do Parlamentar. Aviso ao Plenário sobre a realização hoje, às 18 horas, de sessão destinada à eleição dos membros da Mesa Diretora da Câmara dos Deputados para o biênio 2015/2016. Suspensão da sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bbc2142757e5a97eebea2308b893a884f575fb977561c5a5a8af0a024a9fe13
+size 324

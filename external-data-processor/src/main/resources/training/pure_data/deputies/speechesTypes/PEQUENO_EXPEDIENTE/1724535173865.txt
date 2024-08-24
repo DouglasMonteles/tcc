@@ -1,1 +1,3 @@
-Vinculação entre o quadro de insegurança político-jurídica reinante no País e a decisão de empresas estrangeiras de não participação no megaleilão de blocos petrolíferos da cessão onerosa da camada pré-sal, realizado pela empresa Petróleo Brasileiro S/A - PETROBRAS. Postagem, no Twitter oficial do Presidente da República, de fake news  sobre o fechamento de grandes empresas na Argentina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:034f0d8009c9da71718a0815a8383cb8d8fa4fb2e16e7d3e8572516730047c3f
+size 406

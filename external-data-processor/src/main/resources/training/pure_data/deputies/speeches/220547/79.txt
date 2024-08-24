@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de urgência do Projeto de Lei nº 3.557, de 2023, que dispõe sobre a criação do espaço do ciclista, nas dependências das empresas, com infraestrutura física e operacional de apoio ao trabalhador que utiliza bicicleta como meio de transporte ao trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a99d4f0a2dd0833dcc9c92b064767653ed13c065a10a138896bbe241855e44db
+size 319

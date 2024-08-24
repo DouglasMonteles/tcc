@@ -1,1 +1,3 @@
-Papel exercido pelos ensinamentos públicos na vida orador. Importância dos trabalhos realizados pela Fundação Dr. Jesus para a recuperação de dependentes químicos, no Estado da Bahia.  Apresentação de projetos de lei sobre a execução obrigatória de emendas orçamentárias de Vereadores e a instituição do Dia Nacional do Orgulho Heterossexual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfb565af25b3ed291c943f4f25f5f816160c7a6dd680c3b684c428ca30a7ff30
+size 358

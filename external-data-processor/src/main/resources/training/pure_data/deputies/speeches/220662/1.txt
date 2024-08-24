@@ -1,1 +1,3 @@
-Aplausos ao ex-Governador Paulo Câmara pela referência do Estado de Pernambuco na área de gestão fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2436637b5772a58aec1a3a0fa96d5f0b1f712a255b6fd3949318525f880bea8c
+size 108

@@ -1,1 +1,3 @@
-Inconsistência da matéria veiculada no jornal Correio da Bahia sobre a iniciativa do orador de convencimento do Prefeito Municipal de Itamaraju, Pedro da Campineira, ao apoio à candidatura do ex-Governador Paulo Souto. Apoio às candidaturas de Rui Costa e Otto Alencar para Governador e Senador da República, respectivamente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8edce1a7476ba983aeacb5e1e6ea7a7b50600d121a5cd0e805a7c425a7aa4a4
+size 330

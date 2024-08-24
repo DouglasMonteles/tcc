@@ -1,1 +1,3 @@
-Compromisso regimental e posse do Deputado CARLOS EDUARDO CADOCA (PCdoB, PE).
+version https://git-lfs.github.com/spec/v1
+oid sha256:30e82d2ebb09f8c30d00339b861bb91f7612b5d1601007cc75fe4bffe687029e
+size 77

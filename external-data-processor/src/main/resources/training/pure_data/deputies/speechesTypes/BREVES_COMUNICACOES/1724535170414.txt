@@ -1,1 +1,3 @@
-O Deputado convidou apicultores e produtores rurais da região Sul e Sudoeste de Minas Gerais para participarem do Programa Nosso Mel, que entregará kits de apicultura e realizará palestras sobre apicultura e tratamento de abelhas. Convidou para o lançamento da delegacia rural em Alfenas. Além disso, ele abordou a proibição da renovação de licenças de caça de javalis e solicitou apoio para revisar essa proibição, enfatizando os prejuízos causados aos produtores rurais por esses animais invasores e a necessidade de valorizar os caçadores de javalis legalizados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eddb2760ce6e69324238dee4a61e4982b97a8f446b5871f3b4a3638f25176aa3
+size 580

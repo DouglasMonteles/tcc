@@ -1,1 +1,3 @@
-Oportunidade da adoção de discurso harmonioso pela Oposição, diante do apoio demonstrado por Deputados do Centro e da Direita ao ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51620077fbb57a5e4efa552c425d4a6d06345cc2a40226539b01cb7ec0e4dc46
+size 174

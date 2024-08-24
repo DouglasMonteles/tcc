@@ -1,1 +1,3 @@
-Posicionamento favorável à aprovação das Propostas de Emenda à Constituição nºs 443, de 2009, que fixa parâmetros para a remuneração dos advogados públicos, e 102, de 2015, que estabelece parâmetros para a fixação de subsídio dos integrantes das carreiras disciplinadas nas Seções II e IV, Capítulo IV, Título IV, da Constituição Federal, bem como dos cargos de Delegado de Polícia Federal, Delegado de Polícia Civil, Auditor-Fiscal da Receita Federal e Auditor-Fiscal do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1304f669c21be11c703fa29071d3cf902565bccd4ecd195f920452b4a1c1a430
+size 505

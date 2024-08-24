@@ -1,1 +1,3 @@
-Emissão de parecer à Medida Provisória nº 1.064, de 2021, sobre a instituição do Programa de Venda em Balcão destinado ao acesso de pequenos criadores de animais aos estoques públicos de milho; e às Emendas de nºs 1 a 46, apresentadas conforme o caput do art. 3º do Ato Conjunto nº 1, de 2020, editado pelas Mesas da Câmara dos Deputados e do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b8d4efc50dd6a4f8966974d156fed15ef75b4b2fe6f627b8a6272d6530bc12a
+size 371

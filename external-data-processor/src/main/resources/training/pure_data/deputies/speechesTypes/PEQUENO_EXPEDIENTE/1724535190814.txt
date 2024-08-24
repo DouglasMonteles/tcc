@@ -1,1 +1,3 @@
-Implantação, pelo Governo Federal, de sistema nacional de cruzamento da base de dados dos servidores públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25233ae5c0828fdfb0da2c8ff598511be57de3a232e1cced2d3882433180b1aa
+size 113

@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Município de Campinas e região pela eleição do orador. Apresentação do Projeto de Lei nº 122, de 2011, sobre cumprimento de mandado de prisão preventiva em época eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5107ce9a116ed459c7c5dd2302624db31e9028e6adb4d649afd44aab9599a760
+size 212

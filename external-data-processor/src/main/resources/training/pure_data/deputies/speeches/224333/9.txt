@@ -1,1 +1,3 @@
-Perplexidade ante o assassinato de crianças em creche no Município de Blumenau, Estado de Santa Catarina.&nbsp;Solidariedade aos familiares das vítimas da tragédia. Consequências nefastas do estímulo ao uso de armas. Importância de promoção da cultura de paz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b37861ae6d11a15304692a46018011a4d28147fa6c58b9e4dd3530781d5da863
+size 268

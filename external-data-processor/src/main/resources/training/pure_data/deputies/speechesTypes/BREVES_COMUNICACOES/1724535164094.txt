@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Vinicius Poit sobre a importância do papel exercido pelos pequenos empreendedores na geração de emprego e renda. Manifestação de boas-vindas aos empresários catarinenses Olvacir Fontana e José Spricigo, presentes na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc3af33c79b8140232c2feeb91bd6cf134f27eefdcc43680ed18c43e6d062169
+size 288

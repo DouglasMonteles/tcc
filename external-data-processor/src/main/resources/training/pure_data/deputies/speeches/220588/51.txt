@@ -1,1 +1,3 @@
-O Deputado criticou o ex-presidente Luiz Inácio Lula da Silva por suas declarações polêmicas durante a 18ª reunião da cúpula do G20, em Nova Delhi. Destacou que Lula fez afirmações equivocadas sobre o Tribunal Penal Internacional (TPI) e sua relação com o Brasil, questionando a adesão do país ao tribunal. Ressaltou que a Constituição brasileira estabelece claramente o compromisso do Brasil com o TPI, classificando-o como uma cláusula pétrea. Também apontou a contradição de Lula, que apoiou denúncias contra o ex-presidente Jair Bolsonaro no TPI, enquanto agora o critica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c0c59f3de2fc8283eb6736371d428154d9df393c6f0da4f790196c295a91fa6
+size 597

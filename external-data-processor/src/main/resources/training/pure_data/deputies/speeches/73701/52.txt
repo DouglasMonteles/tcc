@@ -1,1 +1,3 @@
-Convite aos Deputados, especialmente aos integrantes da Frente Parlamentar Evangélica, de participação em reunião com o Ministro Fernando Haddad na Liderança do Governo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a260b145c805547291a19278901dd1040a3a570401c82d4dcedf436940e38e15
+size 174

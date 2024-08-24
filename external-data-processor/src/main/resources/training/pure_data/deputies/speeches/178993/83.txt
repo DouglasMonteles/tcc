@@ -1,1 +1,3 @@
-Agradecimentos ao Presidente Eduardo Cunha pela colocação na pauta da Casa de requerimento de urgência para votação de proposta de criação das varas da Justiça Federal nos Municípios de Araguaína e de Palmas, Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5919ca7d21bf7ebeb4ad6d1e4426e5b723cbe049315570f9e358d14272ee349c
+size 239

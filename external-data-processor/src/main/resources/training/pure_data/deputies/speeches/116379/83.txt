@@ -1,1 +1,3 @@
-Importância de aprovação pela Casa da Proposta de Emenda à Constituição nº 199, de 2019, sobre alteração dos arts. 102 e 105 da Carta Magna, com vista à transformação  dos  recursos extraordinário e especial em ações revisionais de competência originária do Supremo Tribunal Federal e do Superior Tribunal de Justiça. Realização da reforma previdência. Discussão das propostas de realização das reformas tributária e administrativa. Votação dos projetos de lei anticrime encaminhados à Casa pelo Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4589d1a0d37e9969acebc339ed014c3fed8f4c92759bfdb22c6cfd5d546117d6
+size 581

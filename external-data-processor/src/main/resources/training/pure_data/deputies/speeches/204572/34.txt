@@ -1,1 +1,3 @@
-Responsabilização do PT pela crise no sistema penitenciário do Estado do Amazonas. Orientação de bancada na votação do requerimento de votação nominal do requerimento de retirada de pauta da Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b7e180f6328a83e7f0252db8d2458af41a3baee58c2a8380e0e054e4fa97546
+size 318

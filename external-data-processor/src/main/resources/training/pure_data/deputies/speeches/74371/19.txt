@@ -1,1 +1,3 @@
-Responsabilidade do Governo Jair Bolsonaro pelo colapso da saúde pública, provocado pela pandemia de coronavírus. Defesa de votação da Proposta de Emenda à Constituição nº 15, de 2015, acerca da transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59b5c0bbf682e0daeb9fff954cdcca9981cd0c830eb0bb7d861935359143a3a9
+size 420

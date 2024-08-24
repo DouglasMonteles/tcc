@@ -1,29 +1,3 @@
-{
-  "dados" : [ {
-    "dataHoraInicio" : "2023-08-16T17:48",
-    "dataHoraFim" : null,
-    "uriEvento" : "",
-    "faseEvento" : {
-      "titulo" : "Breves Comunicações",
-      "dataHoraInicio" : null,
-      "dataHoraFim" : null
-    },
-    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
-    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F8%2F2023&txPagina=105&txSuplemento=&enviar=Pesquisar",
-    "urlAudio" : null,
-    "urlVideo" : null,
-    "keywords" : "Infraestrutura portuária,Santos (SP),Guarujá (SP),Túnel,Veículo leve sobre trilhos (VLT),Infraestrutura urbana,Frente parlamentar,Baixada Santista",
-    "sumario" : "Lançamento da Frente Parlamentar Mista da Ligação Seca Santos-Guarujá. Relevância econômica e social do empreendimento.",
-    "transcricao" : "O SR. PAULO ALEXANDRE BARBOSA (Bloco/PSDB - SP. Sem revisão do orador.) - Sra. Presidente, Srs. Deputados e Sras. Deputadas, eu utilizo esta tribuna para noticiar um fato relevante para a Baixada Santista, região que eu represento no Estado de São Paulo, que é o lançamento da Frente Parlamentar Mista da Ligação Seca Santos-Guarujá, que ocorrerá no próximo dia 18, sexta-feira, às 9 horas da manhã, no Guarujá. A ligação seca Santos-Guarujá é uma obra importante para a Baixada Santista, para o Estado de São Paulo e para o Brasil. Nós temos, em Santos, o maior porto da América Latina, por onde passa um terço do PIB nacional. Na entrada do canal portuário do maior porto da América Latina, há um sistema de balsas ultrapassado, o maior sistema de balsa do mundo, que é utilizado diariamente por mais de 31 mil pessoas. No momento em que os navios passam, a balsa para, e, consequentemente, isso também impede o desenvolvimento econômico do porto e a efetividade e a produtividade do nosso porto. Essa obra vai melhorar a mobilidade dos moradores da Baixada Santista, que, muitas vezes, têm que enfrentar longas filas para fazer esse deslocamento entre a cidade de Santos e a cidade do Guarujá. Com o túnel que será construído, conforme anúncio do Governo Federal, e que contará com recursos também do Governo Estadual, nós vamos garantir uma mobilidade com muito mais eficiência. O trajeto, que hoje é feito em 30 minutos, às vezes, em mais de 1 hora, com filas, ou pela estrada, será feito em apenas 2 minutos. Esse será o primeiro túnel submerso do Brasil. Não há obra semelhante desenvolvida no nosso País, que já está muito atrasado na execução de obras desse tipo. Agora mesmo, entre a Alemanha e a Dinamarca, está sendo construído um túnel de 18 quilômetros de extensão. Esse túnel entre Santos e Guarujá tem pouco mais de 1 quilômetro. Há 100 anos, ele é discutido, ele é prometido, ele é noticiado, ele é divulgado, e todos os projetos que se sucederam têm uma única semelhança: ficaram no papel, não foram executados. A Frente Parlamentar tem o objetivo de unir todos os atores envolvidos  Governo Federal, Governo Estadual, os Governos Municipais de Santos e do Guarujá, as Prefeituras, a sociedade civil, a iniciativa privada, tendo em vista que a modelagem de execução dessa obra é uma PPP , para que nós possamos, finalmente, tirar essa obra do papel, parar de divulgar notícias e, de fato, entregar resultados para melhorar a vida da população da Baixada Santista e contribuir com o desenvolvimento econômico do Brasil, porque também isso vai melhorar a competitividade do nosso porto. Sra. Presidente, nós teremos um VLT, o primeiro VLT do Brasil, passando por esse túnel. Então, é fundamental que nós possamos envidar os esforços do Poder Legislativo, deste Congresso, para garantir os recursos necessários para que essa obra seja executada, melhorando a vida das pessoas e desenvolvendo economicamente a nossa Nação. Era esta a minha comunicação. Muito obrigado, Sra. Presidente."
-  } ],
-  "links" : [ {
-    "rel" : "self",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220650/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
-  }, {
-    "rel" : "first",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220650/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  }, {
-    "rel" : "last",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220650/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  } ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:282878c63bac04ad5d30580c9673c22b615a84c95e8f9d820309b8f43ab55e59
+size 4468

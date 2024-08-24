@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional de Luta pela Eliminação da Discriminação Racial. Necrológio do poeta e historiador Oliveira Silveira. Manifesto de aposentados e pensionistas do Instituto de Seguridade Social AERUS. Expectativa de julgamento, pelo Supremo Tribunal Federal, de ação em benefício da classe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4e47f763f643a291fcf9ace9b4782bb5d0891147f099a30a761954a75cf7d7f
+size 312

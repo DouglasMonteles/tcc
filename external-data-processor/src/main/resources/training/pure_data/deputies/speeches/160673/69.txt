@@ -1,1 +1,3 @@
-Realização pela Casa de sessão solene ao ensejo do transcurso da Semana Farroupilha. Decretação de estado de calamidade pública em municipalidades sul-rio-grandenses atingidas por temporais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90a3ed12cc853529f1c4e03a4b28df6dc28a313a8d15120b369293b123a65bba
+size 196

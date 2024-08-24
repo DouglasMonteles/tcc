@@ -1,1 +1,3 @@
-Empenho do orador na revogação da Lei nº 13.855, de 2019, a respeito do transporte escolar e do transporte remunerado não licenciado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a07ab8cf81efbcb02ca086cf1834abc34374e236345952935956c8a9ad132ac7
+size 137

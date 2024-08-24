@@ -1,1 +1,3 @@
-Levanta questão de ordem sobre  a precedência da leitura do  veto parcial ao Projeto de Lei 2.565 de 2011, relativo à distribuição de royalties de petróleo, sobre o requerimento de regime de urgência urgentíssima para sua apreciação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d1f5c47dec6e7c5f84bd9e6a00f976ca9743f3209d08775c606f535bcc9d989
+size 243

@@ -1,1 +1,3 @@
-Edição pelo Ministério da Justiça da Portaria n° 702, de 2008, sobre o reconhecimento da Polícia Ferroviária Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bed0101c53137418b7ff5257646e0cda81e0473ae305dc8145259b3f030abf06
+size 124

@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 226, de 2019, sobre a alteração da Lei nº 10.714, de 2003, para divulgação ao público dos códigos de acesso telefônico destinados ao recebimento de denúncias de violência contra a mulher (Ligue 180) e de violação de direitos humanos (Disque 100).
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f59d15fd39c1e0112cd24aa721e5264cab767ce8212475188174cb3d516608
+size 300

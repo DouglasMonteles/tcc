@@ -1,1 +1,3 @@
-Congratulações ao Presidente Arthur Lira pela votação do Projeto de Lei nº 6.726, de 2016, sobre a regulamentação do limite remuneratório no serviço público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0ac6cd3284abf7d8a959ebc71917ba16d69a12b3ad47108f8552da3818f551b
+size 167

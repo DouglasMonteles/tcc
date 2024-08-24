@@ -1,1 +1,3 @@
-Investigação da Polícia Federal sobre suposto esquema de desvio de recursos do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF no Estado do Rio Grande do Sul, a chamada Operação Colono.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91d5df1f5de58df1860b6f43650ed75c928febd1abd4ffe648655be14e59a6cb
+size 211

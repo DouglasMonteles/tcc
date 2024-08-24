@@ -1,1 +1,3 @@
-Classificação do Brasil no Índice de Desenvolvimento Humano - IDH, da Organização das Nações Unidas - ONU. Importância da prioridade do Governo Federal nos setores de saúde e educação pública. Defesa da ampla realização de debates acerca da concessão de licenças ambientais no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a78a569653892480458d4dc4a5abf0a45114ddeaea0e3045964e392696eaa6fc
+size 299

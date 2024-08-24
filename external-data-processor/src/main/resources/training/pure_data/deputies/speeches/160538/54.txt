@@ -1,1 +1,3 @@
-Sanção presidencial do projeto de lei sobre a criação do Programa Nacional de Acesso ao Ensino Técnico e Emprego - PRONATEC. Sucesso do Exame Nacional do Ensino Médio - ENEM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:109be9e053c26046d2c23ad5713514d844d0b83d765280eba2d33cf2e77841ad
+size 180

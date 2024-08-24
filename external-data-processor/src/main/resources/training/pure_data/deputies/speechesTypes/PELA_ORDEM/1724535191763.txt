@@ -1,1 +1,3 @@
-Agradecimento à Presidência e a Deputados por apoio ao trabalho parlamentar da oradora referentemente à Comissão Externa criada para acompanhamento das investigações do caso de estupro coletivo ocorrido no Rio de Janeiro. Necessidade de aprovação de propostas sobre o tema em curso na Casa ou a serem apresentadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ef9fb5e45ebdd276dc6bc13213177bd4ff2556f17a11b7842cede5e7a2e1013
+size 322

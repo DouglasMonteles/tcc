@@ -1,1 +1,3 @@
-O Deputado fez um apelo para que todos votassem a favor do Projeto de Resolução nº 131, de 2023, que dispõe sobre os cargos efetivos da Carreira Legislativa da Câmara dos Deputados, em reconhecimento aos servidores da Casa. Repudiou o comportamento do Deputado Washington Quaquá, após ter agredido um parlamentar no Plenário da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b940a00050ec3d5d9e2f522d8f5ad469dc261cbebd0acddd5a1bc64aa2a9a5f
+size 341

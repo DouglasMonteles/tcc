@@ -1,1 +1,3 @@
-Responsabilidade de órgãos de fiscalização por rompimento de barragem no Município de Mariana, Estado de Minas Gerais. Ineficácia no combate à proliferação do Aedes aegypti no Brasil. Elevação no número de recém-nascidos com microcefalia em decorrência de infecção pelo zika vírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f62ab7eab6a3de119315408f406a56e2427272805ebd99b896f49a7ed5f0a8b
+size 298

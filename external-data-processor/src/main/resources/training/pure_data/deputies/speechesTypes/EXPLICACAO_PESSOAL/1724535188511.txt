@@ -1,1 +1,3 @@
-Contestação à manifestação do Líder do Governo, Deputado Cândido Vaccarezza sobre o comportamento da Minoria Parlamentar. Defesa do beneficiamento da  Região do Vale do Jequitinhonha no Estado de Minas Gerais, área de atuação da SUDENE, pela Medida Provisória  512  de 2010, sobre a concessão de incentivos fiscais à indústria automotiva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9c35bdf925b196c71d503707a884d7682cb5815cfea22f7ed137865bd921311
+size 353

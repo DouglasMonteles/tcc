@@ -1,1 +1,3 @@
-Entendimentos do orador com autoridades estaduais e federais em defesa do não contingenciamento de recursos públicos destinados à área de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bfe573d0d4ff05dba57435da007706c22b934bda43701a65a9981314cef06ef
+size 149

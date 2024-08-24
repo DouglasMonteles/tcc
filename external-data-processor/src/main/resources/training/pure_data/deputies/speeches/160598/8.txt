@@ -1,1 +1,3 @@
-Lançamento do Plano Brasil Maior pela Presidenta Dilma Rousseff. Importância do aleitamento materno para a saúde infantil. Lançamento da Campanha Nacional de Amamentação 2011 pelo Ministro da Saúde, Alexandre Padilha. Ações de incentivo ao aleitamento materno no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2020ba9c8aea00769b644735d9ca9b47fdd946aa10e022c9b244fba5f341af3
+size 278

@@ -1,1 +1,3 @@
-Saudações aos membros da Mesa Diretora, em nome do Presidente da Casa. Agradecimento aos familiares e ao povo do Estado do Ceará, em especial ao segmento evangélico, pela eleição do orador. Excelência da atuação da Deputada Estadual do Ceará, Dra. Silvana. Precariedade do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e04c1c12602cf5652bb0a67a1b087a9586f22e4c28f74d28aab5c39b26f8f8f
+size 314

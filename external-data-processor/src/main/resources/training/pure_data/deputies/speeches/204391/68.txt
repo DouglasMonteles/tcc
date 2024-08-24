@@ -1,1 +1,3 @@
-Necessidade de adoção pela Ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, de medidas contra movimento externo prejudicial aos produtores de soja do Estado de Goiás e do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33dc9c10d24332d6dc76375d6339b3aa41ba63bf6addd930c0ad5fa47a391d32
+size 200

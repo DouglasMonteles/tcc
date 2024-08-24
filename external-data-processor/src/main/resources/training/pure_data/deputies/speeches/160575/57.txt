@@ -1,1 +1,3 @@
-Registro da presença de convidados à sessão solene em comemoração ao transcurso do 155º aniversário de criação do Corpo de Bombeiros Militar do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66f2e19f9304a87e5f3ddf8c5ccf66eeb9dc90a1fc0ce7c3295ab9efe9118100
+size 170

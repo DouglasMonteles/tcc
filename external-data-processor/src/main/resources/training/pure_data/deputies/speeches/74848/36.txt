@@ -1,1 +1,3 @@
-Adiamento da votação do veto presidencial aposto à emenda sobre a redistribuição de royalties de petróleo. Inadmissibilidade de perda de receitas oriundas de royalties pelos Estados produtores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad9e856a614dc2d00dbe742ff8b6e5fca31b2720dc93523fc2edd2b23625f446
+size 199

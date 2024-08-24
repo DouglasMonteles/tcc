@@ -1,1 +1,3 @@
-Realização do encontro Juntos por Pernambuco, de Prefeitos Municipais com o Governador do Estado. Lançamento, pelo Governador Eduardo Campos, de conjunto de medidas em prol das municipalidades pernambucanas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:512161718dbec889bb862366415dbbddcdd9285d445746ad7437f12d8c300b1c
+size 210

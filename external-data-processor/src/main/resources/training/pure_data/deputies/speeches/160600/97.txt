@@ -1,1 +1,3 @@
-Posicionamento contrário do SDD à emenda 421, constante da Emenda Aglutinativa Substitutiva Global ao Projeto de Lei nº 6.025, de 2005 (Altera o art. 666 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, para dispor acerca da penhora sobre máquinas, instrumentos e implementos agrícolas), que dispõe sobre a permissão a oficiais de justiça de promoverem a mediação e a conciliação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:562dd0e35d1f8ffec110bd5705d6ad9b243f99e0980751b547a736a16cc79b88
+size 415

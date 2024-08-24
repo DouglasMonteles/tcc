@@ -1,1 +1,3 @@
-Saudações aos integrantes da Central Única dos Trabalhadores - CUT presentes nas galerias do plenário. Apoio à proposta de redução da jornada de trabalho para 40 horas semanais. Participação do ex-Presidente Luiz Inácio Lula da Silva nas comemorações do transcurso do 30º aniversário de fundação do Instituto Brasileiro de Análises Sociais e Econômicas - IBASE. Aplausos à Polícia Militar, à Guarda Municipal e ao Corpo de Bombeiros Militar pela atuação em episódio ocorrido no Rio de Janeiro, Estado do Rio de Janeiro. Defesa de aprovação da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a10b94c1fb867c366b8816aea2c73cb9c41e2ba9d5cac2458be74ac5c1a72f73
+size 703

@@ -1,1 +1,3 @@
-Incentivo do líder do Movimento dos Trabalhadores Rurais Sem Terra - MST, João Pedro Stédile, à invasão de propriedades privadas. Defesa de criação da CPI do MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83aa3a980bcdba04f7d9e2636f5176af4bdd7e655aa2795bea781366066225bd
+size 169

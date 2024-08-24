@@ -1,1 +1,3 @@
-Solicitação da retirada da Emenda 30, destacada pelo PSDB, ao Projeto de Lei de Conversão da Medida Provisória  545 de 2011 (Altera a Lei 10.893 de 2004, que dispõe  sobre o Adicional ao Frete para Renovação da Marinha Mercante - AFRMM e o Fundo da Marinha Mercante - FMM; altera a Medida Provisória 2.228-1 de 2001 e as Leis 11.434 de 2006, 11.196 de 2005, 10.865 de 2004, 8.685 de 1993; altera a incidência da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS na cadeia produtiva do café, institui o Programa Cinema Perto de Você, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:17351f27f57f91663d56c6359677185ef465418ee73ab09ad59dc72330bae864
+size 625

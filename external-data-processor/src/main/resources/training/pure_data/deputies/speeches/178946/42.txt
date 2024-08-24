@@ -1,1 +1,3 @@
-Agradecimento à Presidência pela votação de matérias de interesse das mulheres brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8342ec5bfc19394fa605d13bbfae571c5000d0f0ecff51f81523150ad748ba7c
+size 96

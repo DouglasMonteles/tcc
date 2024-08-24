@@ -1,1 +1,3 @@
-Responde a questão de ordem suscitada pelo Deputado  Antônio Carlos Pannunzio, em que solicita ao orador a devolução, ao relator, do  Projeto de Lei de Conversão da Medida Provisória 396 de 2007 (Dá nova redação aos arts. 1º e 2º da Lei 10.841 de 2004, que autoriza a União a permutar Certificados Financeiros do Tesouro), por introduzir dispositivo que trata da flexibilização da forma de associação da ELETROBRÁS  para constituição de consórcios empresariais ou participação em sociedades, que se destinem à exploração da produção ou transmissão de energia elétrica sob regime de concessão ou autorização, matéria estranha ao objeto da Medida
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5b60d439aaf0f799a99fcc9b46837500c7dfe2b8e6569cbc4b7ff494a0743de
+size 677

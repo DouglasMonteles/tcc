@@ -1,1 +1,3 @@
-Comprovação, pela  CPI da Covid, de série de crimes praticados pelo Presidente Jair Bolsonaro no enfrentamento à epidemia de coronavírus. Vinculação entre a morte de milhares de brasileiros pela doença viral e o negacionismo do Presidente da República, notadamente quanto à aquisição de vacinas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b4fe73ae5f49bcac5db94ce3b117893a8a7007b884f413bccd9d7d6fb4a1ff0
+size 307

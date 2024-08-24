@@ -1,1 +1,3 @@
-Pedido ao Governo do Estado de Tocantins de negociação com os profissionais de educação em greve. Iminência de deflagração de greve pelos profissionais de saúde tocantinenses. Preocupação com a deterioração dos salários e com o quantitativo de pessoal da Polícia Militar do Estado. Defesa da não equiparação do ICMS do Estado de Tocantins com os demais Estados da Federação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:644f216ffb9e9cfeb080d07e515b433d061656c93ec50de4c7e9c14d3cfbc643
+size 393

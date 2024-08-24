@@ -1,1 +1,3 @@
-Repúdio à atuação do Ministro da Economia, Paulo Guedes. Agravamento das crises sanitária, política e econômica no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ccb3a7728ac500f4633321f1f78f51177993ff3bc96c023cb58c0cbb3700568
+size 128

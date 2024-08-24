@@ -1,1 +1,3 @@
-Transcurso do 236º aniversário de fundação de Porto Alegre, Estado do Rio Grande do Sul. Realização da 49ª Semana de Porto Alegre. Apresentação de emendas orçamentárias em benefício da Capital sul-rio-grandense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:368fb77e84c882c0b8dce656ae745aee3467eb2c3124dd39c3dd05d5695bc2a8
+size 223

@@ -1,1 +1,3 @@
-Saudações aos Parlamentares cubanos e ao Embaixador de Cuba no Brasil, em nome do Fórum Interparlamentar das Américas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36add73d0a49cec2df36b872b647d9ab6e9cc823bf01ed3eea44aaa96fc7517b
+size 122

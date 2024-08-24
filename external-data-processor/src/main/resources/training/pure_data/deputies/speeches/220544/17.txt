@@ -1,1 +1,3 @@
-Trranscurso do 32º aniversário de emancipação político-administrativa do Município de Lagoa da Confusão, Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8248f91fecaffd59be3daf4a04e7c35b0cc1b087e3a3f9baf8b59e4dbd97a83
+size 132

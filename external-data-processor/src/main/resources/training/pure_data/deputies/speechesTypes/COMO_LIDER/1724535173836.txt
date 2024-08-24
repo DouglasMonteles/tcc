@@ -1,1 +1,3 @@
-Votação da proposta de Lei de Diretrizes Orçamentárias pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização. Diretrizes observadas pela Relatora da matéria, Senadora Serys Slhessarenko. Congratulações aos membros do colegiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a59cbf31aaaecdf7ac1e5ccc2cf58faeab3d93bf87a73cd46bdc72f6f93918ab
+size 251

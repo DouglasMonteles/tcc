@@ -1,1 +1,3 @@
-Imposição, pelo Supremo Tribunal Federal, de censura à veiculação de notícia sobre a suposta citação do Presidente da Suprema Corte, Ministro Dias Toffoli em delação premiada, no âmbito da Operação Lava-Jato. Defesa da liberdade de expressão e de imprensa no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc883a3cea226a3258930e85dbc90e295ca5448fc08d0a2c2eb9e93261a76d97
+size 279

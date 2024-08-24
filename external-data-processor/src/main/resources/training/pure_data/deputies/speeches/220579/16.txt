@@ -1,1 +1,3 @@
-Transformação da sessão plenária em Comissão Geral para debate da exploração de atividade de perfuração marítima no bloco FZA-M-59, na Bacia da Foz do Amazonas. Determinação do rito procedimental da Comissão Geral. Saudações aos convidados presentes. Composição da Mesa Diretora dos trabalhos. Leitura de discurso encaminhado pelo Presidente Arthur Lira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23c52b17b873b4245d251b8402bf30dcaf9895dd0fef1554c9c8e33f2eaeb2ea
+size 371

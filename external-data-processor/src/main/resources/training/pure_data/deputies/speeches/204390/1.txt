@@ -1,1 +1,3 @@
-Agradecimento ao Ministro da Educação pelo anunciado custeio da área educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f97aea291d7216474296a15a13d0ff591aa303c296c5bb9321df346ac7d88014
+size 84

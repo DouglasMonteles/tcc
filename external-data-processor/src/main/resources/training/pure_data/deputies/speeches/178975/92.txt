@@ -1,1 +1,3 @@
-Encaminhamento da votação do Projeto de Lei do Congresso Nacional nº 4, de 2019, sobre a abertura dos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Economia e da Cidadania, de Encargos Financeiros da União e de Operações Oficiais de Crédito, crédito suplementar para reforço de dotações constantes da Lei Orçamentária vigente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ccdb9f60371866a8ae126716cc90015f348aa7e91127ac78c1924ef3a3f4757
+size 375

@@ -1,1 +1,3 @@
-Indignação do orador com a tentativa de transferência do ex-Presidente Luiz Inácio Lula da Silva para presídio comum. Pertinência da realização de manifesto suprapartidário a respeito do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e3748dfc312f19d91589b3ed2916e677f5686c1c75bd381dcc42aecc2d181c3
+size 204

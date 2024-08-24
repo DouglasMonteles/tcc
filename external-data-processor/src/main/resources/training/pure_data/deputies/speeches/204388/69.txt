@@ -1,1 +1,3 @@
-Realização da Feira Nacional do Trigo - FENATRIGO, no Município de Cruz Alta, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5911d5720b1f4537a7feb87fc2fd42839d9e9d5e2482366414c028ee81b3e9f5
+size 109

@@ -1,1 +1,3 @@
-Previsões econômicas pessimistas para o segundo semestre de 2015 e para 2016. Necessidade de retomada do crescimento do País sem processo inflacionário e elevação da carga tributária. Causas da falta de eficiência, de preocupação com o atendimento do público e de sistema de acompanhamento de qualidade na gestão das empresas públicas, em comparação com as do setor privado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db8c96aa00cac3d0aec563b4d545dec04ea9bdd8ca2e6a203465bdbdd154c8e6
+size 389

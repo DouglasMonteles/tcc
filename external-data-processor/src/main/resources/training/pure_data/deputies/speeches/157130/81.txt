@@ -1,1 +1,3 @@
-Natureza eleiçoeira da Proposta de Emenda à Constituição nº 15, de 2022, sobre o estabelecimento de diferencial de competitividade para o setor de biocombustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b844e91ba1594b16b6730689498ca67bca2d26fcbeb945889ff887b4ac81d60
+size 169

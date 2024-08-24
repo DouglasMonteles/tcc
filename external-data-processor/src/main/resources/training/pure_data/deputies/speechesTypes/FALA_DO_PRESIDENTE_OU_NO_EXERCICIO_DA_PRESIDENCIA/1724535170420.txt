@@ -1,1 +1,3 @@
-Transcurso do 174º aniversário de criação da Polícia Militar do Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b373c0a847373f3b2e4b177351724d58678bb24430b7e5249e58afaac1fa023a
+size 88

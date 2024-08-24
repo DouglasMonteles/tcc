@@ -1,1 +1,3 @@
-Posicionamento do PSD contrário à iniciativa da Agência Nacional de Energia Elétrica - ANEEL de tributação da energia fotovoltaica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6dd9ba5863ad34749cb7c72d34f2d79d985f2e55ac03fa9551242754dba92a4
+size 137

@@ -1,1 +1,3 @@
-Lançamento, pelo governo petista, do Movimento Nacional pela Vacinação. Reinstalação do Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA. Reinclusão do Brasil no Mapa da Fome pelo ex-Presidente Jair Bolsonaro. Retomada do Programa de Aquisição de Alimentos - PAA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6fa27232a9454f852a0527fb5445a7898aeafe73ed2c21a7e38aa402d33a782
+size 287

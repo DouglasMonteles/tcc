@@ -1,1 +1,3 @@
-Repúdio a discursos proferidos no plenário contra o Deputado Nikolas Ferreira. Inviolabilidade dos Parlamentares em suas opiniões, palavras e votos, conforme preconizado no art. 53 da Constituição Federal. Defesa da democracia e da liberdade de expressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d0cd409868562a9275f5574d105ce663125b002fcf625b3e2e18b02bad331ab
+size 261

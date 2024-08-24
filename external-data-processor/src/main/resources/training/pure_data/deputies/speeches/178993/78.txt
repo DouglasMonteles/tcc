@@ -1,1 +1,3 @@
-Levantamento das obras nas áreas de saúde e educação no Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8aeada20a2ac87d16b417d920b65fb59110a9b401c257b809ccc7859f4ff01ac
+size 80

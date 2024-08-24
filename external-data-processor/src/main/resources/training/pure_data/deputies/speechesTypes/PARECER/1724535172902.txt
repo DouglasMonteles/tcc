@@ -1,1 +1,3 @@
-Reformulação do parecer à Medida Provisória 521 de 2010 (Altera a Lei 6.932 de 1981, que dispõe sobre as atividades do médico-residente e prorroga o prazo de pagamento da Gratificação de Representação de Gabinete e da Gratificação Temporária para os servidores ou empregados requisitados pela Advocacia-Geral da União). Retirada do Projeto de Lei de Conversão dos dispositivos relativos ao  Regime Diferenciado de contratações Públicas- RDC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79521bc4d5e6a12dc034915eebcacb188fb6cf97639cb91d51d59aed8b5bb576
+size 459

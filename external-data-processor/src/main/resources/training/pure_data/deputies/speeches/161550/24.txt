@@ -1,1 +1,3 @@
-Necessidade de agilização por parte da Ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, na busca de soluções para a questão dos fertilizantes. Reflexos dos elevados preços de combustíveis sobre os produtores rurais brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8255fa11deae5a5d801d0f5b1ebab6670b35fc2f44df531c8d38f187f7404083
+size 254

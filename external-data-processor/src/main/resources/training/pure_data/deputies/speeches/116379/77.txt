@@ -1,1 +1,3 @@
-Defesa de estabelecimento, pelos Deputados esquerdistas e situacionistas, de pacto mínimo de convivência em prol da retomada do desenvolvimento socioeconômico brasileiro. Conveniência de superação de conflitos internos do PSL em prol da governabilidade do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c0f6c36af4c9a003d31d17d529ac44fcbd867af29e73ee6f3a4d389e40833b2
+size 268

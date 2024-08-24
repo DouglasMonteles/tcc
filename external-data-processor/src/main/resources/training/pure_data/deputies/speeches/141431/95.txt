@@ -1,1 +1,3 @@
-Transcurso do Dia do Exército. Relevância das ações realizadas pela instituição. Alocação de maiores recursos orçamentários para o Exército Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51c43877933f25fcfb26aa1594f63e1feb61332396b5d8f6d6c49392237eccff
+size 162

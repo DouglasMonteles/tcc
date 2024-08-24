@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 16, de 2021, do Poder Executivo, relativo à unificação das alíquotas do ICMS incidentes sobre combustíveis e outros derivados de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e2e070c7f148c895b73f625cb539c70c7781f6623005b69af482906dc7ecb71
+size 271

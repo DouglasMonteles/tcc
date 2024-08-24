@@ -1,1 +1,3 @@
-Regozijo com a aprovação, pelo Senado Federal, do jurista paranaense Luiz Edson Fachin para o cargo de Ministro do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d99631d7c6ac1ed8b5a4d2695e988908f73913a3ef417fb79e849be3708d568
+size 142

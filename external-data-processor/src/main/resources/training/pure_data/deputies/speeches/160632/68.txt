@@ -1,1 +1,3 @@
-Acidentes com mortes em trecho da BR-251 entre os Municípios de Montes Claros e Salinas, Estado de Minas Gerais. Imediata duplicação da rodovia federal, de Montes Claros à região do Vale do Jequitinhonha, Estado de Minas Gerais
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aaf68f42490c2ff4b38602d5fae25c5804ae83636bf6756fe9abd9a1455f48c
+size 232

@@ -1,1 +1,3 @@
-Congratulações ao Deputado Felipe Bornier pela aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccfe9e77479f50ce8176913d1da7c5bc29bc06c0a8d607cf511db9c1604981fd
+size 73

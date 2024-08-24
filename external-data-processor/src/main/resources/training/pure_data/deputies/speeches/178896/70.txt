@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário acerca de separação da discussão das Medidas Provisórias nºs 765, de 2016, e 766, de 2017, ante a impossibilidade de discussão conjunta das matérias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b560c897d239f0b4280f58ba40c0062e0d03ebe88365a5714651580ff07c8eb9
+size 184

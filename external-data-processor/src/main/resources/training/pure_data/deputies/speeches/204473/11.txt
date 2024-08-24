@@ -1,1 +1,3 @@
-Razões do posicionamento do orador favorável à comemoração do aniversário da revolução de 31 de março de 1964. Evolução do País no período revolucionário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44b485560a07f11c7f5250a3ea7aead22675dd595fa43a306f763ad39aba1ff2
+size 168

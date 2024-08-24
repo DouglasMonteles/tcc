@@ -1,1 +1,3 @@
-Participação em encontro nos Municípios de Montes Claros e Januária, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7de8fc84b7a06c9504a8d2de7f3f354e56b90f352668a141a25c0ba9d55d7b2
+size 96

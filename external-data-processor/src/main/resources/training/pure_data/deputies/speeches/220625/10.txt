@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de aprovação do Projeto de Lei nº 366, de 2023, sobre a criação do Protocolo Mulher Segura, destinado à proteção de mulheres em ambientes de entretenimento, hospedagem e lazer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab01869b465f86ee2ca4a8b1167f1afc80f671fbfa0043cdfc5d887f96f093ca
+size 209

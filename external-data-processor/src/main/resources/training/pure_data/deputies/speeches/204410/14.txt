@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 1.079, de 2020, sobre a suspensão das obrigações de beneficiários do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d99d52c53ee33e208188e5f8749ce5711de4c8bb7258c7b2012f070e96cc19b
+size 197

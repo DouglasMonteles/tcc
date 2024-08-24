@@ -1,1 +1,3 @@
-Agradecimento à bancada do PSDB pela eleição do orador para Líder do partido na Casa. Necessidade de resgate da imagem da Câmara dos Deputados perante a população brasileira. Posicionamento do PSDB favorável à extinção do 14º e do 15º salários dos Parlamentares e do voto secreto nas deliberações das duas Casas do Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb67fe16f280dae64e08c546235238235557bfb6bc1dcf9e3e86d695f765dfd4
+size 350

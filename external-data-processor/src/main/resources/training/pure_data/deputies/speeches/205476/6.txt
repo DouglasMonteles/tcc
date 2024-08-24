@@ -1,1 +1,3 @@
-Comemoração do Dia Internacional da Mulher. Homenagem à bancada feminina no Congresso Nacional, extensiva às mulheres brasileiras, especialmente às do Estado da Bahia.  Avanço da criação da Lei Maria da Penha, destinada ao combate à violência doméstica contra a mulher. Aprovação, pela Casa, de legislações rígidas de proteção às mulheres. Saudações à Ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, e à Secretária Nacional de Políticas para as Mulheres, Tia Eron.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e07534c98d2556d47d6023c4482077183afd3516ba80271e621a60bbc57d18e5
+size 512

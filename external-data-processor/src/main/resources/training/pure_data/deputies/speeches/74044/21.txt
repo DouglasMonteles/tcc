@@ -1,1 +1,3 @@
-Apoio à criação de contribuição para financiamento da saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b73d845015faaab1d896d3f7720122d45969ec73a46b40e94ad7435ffdcdb7c9
+size 75

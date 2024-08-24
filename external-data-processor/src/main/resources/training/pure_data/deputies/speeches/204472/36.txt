@@ -1,1 +1,3 @@
-Incoerência do discurso da Oposição acerca do contingenciamento de recursos orçamentários da área social pelo Governo Federal. Esclarecimento sobre o uso de armas de fogo por policiais em favelas do Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e721e02719e9e6fe1bdecdc0eb38896d1123c64bf991873d6d32e22627e4b930
+size 246

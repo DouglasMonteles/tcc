@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado do art. 4º do Projeto de Lei nº 7.596, de 2017, a respeito dos crimes de abuso de autoridade, com vista à sua supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:203482c232bb2bc127e620e00786e3120c346bfc8e7cd755867964de8f113e43
+size 207

@@ -1,1 +1,3 @@
-Protesto contra a redução da quarentena de 36 meses preconizada na Lei das Estatais para a indicação de coordenadores de campanha eleitoral, dirigentes partidários e pessoas com vinculações políticas para o conselho de administração e a diretoria de empresas públicas, sociedades de economia mista e suas subsidiárias, bem como para o conselho diretor ou a diretoria colegiada de agências reguladoras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ce8e93e53038c99c723094f3efe459762fb79fab2c4e712d8b9f3b215fb137f
+size 414

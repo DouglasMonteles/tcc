@@ -1,1 +1,3 @@
-Apoio à aprovação da proposta de interesse dos Vereadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b8f15ddffb930df9facf8013d41af6261fd8015a18247bba42d0d55153daf1b
+size 61

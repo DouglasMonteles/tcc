@@ -1,1 +1,3 @@
-Caráter apelativo de denúncias da prática de violência de gênero contra Deputadas. Luta pela eleição de candidato do PL à Prefeitura Municipal de Vitória, Estado do Espírito Santo. Contestação ao pronunciamento de Deputada a respeito da realização de motociatas pelo ex-Presidente Jair Bolsonaro. Apresentação do Projeto de Lei nº 3.070, de 2023, proibitivo da participação de crianças e adolescentes em Parada LGBTQIA+, bem como a divulgação de materiais relativos ao envolvimento de menores no citado evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e62ee4a0755baef6f4465ca82db58a8884881478790748dfd040127686471c0
+size 532

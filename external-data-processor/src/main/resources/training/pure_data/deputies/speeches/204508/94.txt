@@ -1,1 +1,3 @@
-Congratulações aos Parlamentares em especial ao ex-Deputado Eduardo Braide, autor do Projeto de Lei nº 1.605, de 2019, acerca da instituição do Estatuto da Pessoa com Câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00dde47f7f4c80bd3a93aac78411e88678a5bdc178f93869625669cc5740a203
+size 180

@@ -1,1 +1,3 @@
-Manifesto É hora de pensar o futuro do Rio Grande, de autoria do orador, sobre novos rumos políticos para o Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1d09be1d6523275622cbc29a6b99be6d24ae983a4f4faef9bcb993314947a33
+size 138

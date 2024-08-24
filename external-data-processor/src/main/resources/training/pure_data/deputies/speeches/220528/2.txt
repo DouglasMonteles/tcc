@@ -1,1 +1,3 @@
-Descumprimento, pela empresa Vale, do compromisso assumido com o Estado do Espírito Santo de construção da Ferrovia EF-118 entre os Municípios de Cariacica e Anchieta, bem como de terminais portuários do Porto de Ubu. Contrariedade ao fechamento do Museu Vale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b07055c2ffa042f09286bed63f4a3bc7ce784cbe9b229425c0c61a6033a0e1d5
+size 265

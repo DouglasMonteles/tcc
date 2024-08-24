@@ -1,1 +1,3 @@
-Discordância com a pregação de Arcebispo da Igreja Católica contrária ao armamento da população civil. Prática de corrupção nos governos petistas. Inconsistência das declarações do Vice-Governador do Estado do Rio Grande do Norte, acerca da aquisição de vacinas contra a Covid-19 pelo Governo Estadual. Inadmissibilidade de atribuição ao Presidente Jair Bolsonaro da responsabilidade pela crise econômica brasileira. Desvio, pelo Consórcio do Nordeste, de recursos federais destinados ao combate à epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4785fdda15bd416f8f83017b0b3c63e36d96dc4c22f9632c88b71ea3c7e14ba0
+size 543

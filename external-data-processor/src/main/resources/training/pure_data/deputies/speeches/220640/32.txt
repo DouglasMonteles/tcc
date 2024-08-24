@@ -1,1 +1,3 @@
-Relevância do Projeto de Lei nº 3.035, de 2020, acerca da instituição da Política de Educação Especial e Inclusiva, com vista ao atendimento aos portadores de transtorno mental; do Transtorno do Espectro Autista - TEA; de deficiência Intelectual e deficiências múltiplas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a877988943c569d6f05cf843b25a400b52909a8f195665df54dd46c08ee4134
+size 281

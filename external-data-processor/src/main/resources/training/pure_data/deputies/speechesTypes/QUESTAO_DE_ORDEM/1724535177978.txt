@@ -1,1 +1,3 @@
-Questão de ordem sobre o desvio da discussão de matéria da pauta por oradores inscritos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc314385dac88540d22e23b6a6c1f578e9a460e6e98607f74fae6ce5a6fa5434
+size 91

@@ -1,1 +1,3 @@
-Críticas à gestão do Governo da Presidenta Dilma Rousseff. Críticas às ações de políticas de igualdade de gênero desenvolvidas pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aef5135906bfc60fe139d7aa3a46805128cd185e8a13bf9da0bfb2f1a85127e9
+size 157

@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de retirada de pauta da Medida Provisória nº 897, de 2019, acerca da instituição do Fundo de Aval Fraterno; do patrimônio de afetação de propriedades rurais; da Cédula Imobiliária Rural; da escrituração de títulos de crédito e da concessão de subvenção econômica para empresas cerealistas. Protesto contra a agenda ultraliberal adota pelo Ministro da Economia, Paulo Guedes. Descaso do Governo Jair Bolsonaro com as camadas menos favorecidas e com o Programa Bolsa Família. Apoio à greve dos petroleiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6c56e9c12e3362c489d3172702a03abf367e9bf100c54a7055cdf8817113bf7
+size 567

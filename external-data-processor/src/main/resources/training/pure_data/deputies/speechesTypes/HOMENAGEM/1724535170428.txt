@@ -1,1 +1,3 @@
-Sessão Solene em comemoração aos 65 anos de fundação do Conselho Federal de Medicina - CFM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0414ee0b119c41738646cf26def1a50bf594d200ab7e7cdde279f6e2d6c85cc3
+size 96

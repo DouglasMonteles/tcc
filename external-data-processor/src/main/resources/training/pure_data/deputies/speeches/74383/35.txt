@@ -1,1 +1,3 @@
-Importância do agronegócio para a economia do País. Atuação do Deputado em prol do setor, em especial como Presidente da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Casa. Expectativa de aprovação de proposições de autoria do orador. Entraves para o desenvolvimento da atividade agropecuária nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91db6fec2b818c636d841e96234706ff74d5b03f0a456a754008385afe46f062
+size 344

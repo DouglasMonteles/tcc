@@ -1,1 +1,3 @@
-Saudações às Deputadas Federais. Votação pela Casa de proposições de interesse das mulheres. Repúdio à tentativa de Parlamentar de ridicularização de mulheres transexuais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68119733865370f619af0ff6515b8e1bc7f81a226e375002b03336877aba5400
+size 182

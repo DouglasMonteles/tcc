@@ -1,1 +1,3 @@
-Apresentação pelo Jornal Nacional, da Rede Globo de Televisão, de matéria sobre o Município de São Gabriel da Cachoeira, no Estado do Amazonas. Realização, pela Comissão da Amazônia, Integração Nacional e de Desenvolvimento Regional, de audiência pública para debate da saúde indígena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe17fe1c8a7a7c132d6f638912cc596760c2f9048880c71b7e316f3d73fb65c2
+size 301

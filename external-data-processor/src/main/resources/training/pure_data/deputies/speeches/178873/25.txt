@@ -1,1 +1,3 @@
-Expectativa de votação, pelo Plenário, do processo de cassação do mandato do Deputado afastado Eduardo Cunha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3534c3bd89b168908b817e863d52cca73373eb28b0a157039a671f8dd7c90b49
+size 114

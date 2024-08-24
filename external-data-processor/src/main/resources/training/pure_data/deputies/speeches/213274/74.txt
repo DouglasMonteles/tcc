@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 64, apresentada ao Projeto de Lei Complementar nº 112, de 2021, acerca das normas eleitorais e das normas processuais eleitorais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89e64b231705e45ce5dd3a635fb50ad80793f0e2242e425c26b037f67a5fb8ff
+size 261

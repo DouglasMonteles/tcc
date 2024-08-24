@@ -1,1 +1,3 @@
-A Deputado anunciou a presença no plenário do Prefeito Joaquim, da cidade de Ji-Paraná, Estado de Rondônia. A oradora informou que mora na municipalidade há mais de 20 anos e elogiou o trabalho do prefeito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64fc3ac7e407107da818d5ddec6ac3950fcedb870a831c485ba4279db841bcb4
+size 211

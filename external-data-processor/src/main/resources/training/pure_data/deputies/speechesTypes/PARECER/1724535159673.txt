@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 1.304, de 2020, sobre alteração da Lei nº 10.304, de 2001, relativa à transferência de terras da União para o domínio dos Estados de Roraima e do Amapá; e da Lei nº 6.634, de 1979, acerca da faixa de fronteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f751305422ab5ab63cb2feb178bcc78630c4dcdb7789d0fc78de60e96a80074
+size 261

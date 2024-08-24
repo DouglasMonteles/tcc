@@ -1,1 +1,3 @@
-Posicionamento da oradora favorável à aprovação do requerimento. Apoio à proposta de criação de  Comissão Externa para averiguação de suposta violência praticada por policiais militares na Universidade de São Paulo — USP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec2a8268e281d27143558accf30e712dba58d29a05107b05eba7daba9691796c
+size 235

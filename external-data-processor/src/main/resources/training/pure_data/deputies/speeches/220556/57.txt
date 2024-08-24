@@ -1,1 +1,3 @@
-Aprovação, pela Casa, da Medida Provisória nº 1.154, de 2023, sobre a organização básica dos órgãos da Presidência da República e dos Ministérios. Balanço positivo dos 5 meses do Governo Luiz Inácio Lula da Silva. Defesa de quebra dos 100 anos de sigilo imposto pelo ex-Presidente Jair Bolsonaro. Defesa de condenação judicial do ex-Presidente da República por crimes praticados durante o seu Governo. Omissão do Governador do Estado de Santa Catarina, Jorginho Mello, no repasse de recursos às Prefeituras Municipais relativos ao Plano 1000.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b86d6aace51354cc7c0f59d37934bc603bdbf36f2f9d06e46fbe8ec7b0aa739a
+size 561

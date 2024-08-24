@@ -1,1 +1,3 @@
-Apresentação de requerimento de convite ao Presidente do Banco Central, Roberto Campos Neto,  para participação de reunião em órgão da Casa, destinada ao debate de planos do Governo Federal para a recuperação econômica do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54a365f3b0e68e9936f4b0fcfea04a00cfbddc9d2b72ddfa2ecca8783d740985
+size 238

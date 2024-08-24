@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:accf2227a90b241c0779e8952deae67121def97d7891b340fcf47dc79d819a72
+size 215

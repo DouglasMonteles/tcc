@@ -1,1 +1,3 @@
-Debate de parcelamentos tributários no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36f8559b36ab35bc908079d25f1b769251e833744d1d122f4e0dce05cfe30fa9
+size 47

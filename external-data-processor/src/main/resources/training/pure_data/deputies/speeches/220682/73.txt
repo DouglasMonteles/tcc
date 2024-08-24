@@ -1,1 +1,3 @@
-O Deputado questionou a viabilidade do déficit zero no orçamento, criticando a artificialidade da proposta diante das desonerações e do aumento das emendas parlamentares, ressaltando os impactos e a desconexão com a realidade econômica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53e884f7a34bd304dfaec44640fd0690baf2624e84e3c08fb0c539f42782367a
+size 242

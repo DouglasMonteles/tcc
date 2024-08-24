@@ -1,1 +1,3 @@
-Empenho da Casa no combate às desigualdades sociais e regionais brasileiras. Transferência de receitas tributárias para o Fundo de Participação dos Estados - FPE e para o Fundo de Participação dos Municípios - FPM. Defesa de distribuição igualitária de royalties oriundos da exploração do petróleo da camada pré-sal a Estados e Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eb71ce8a73c1913b6372bf50f1e7c370bfcfd00f5e0307284eba55ba5e012d5
+size 367

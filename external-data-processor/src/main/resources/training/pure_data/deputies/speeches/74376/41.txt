@@ -1,1 +1,3 @@
-Transcurso do 29º aniversário de fundação do Partido dos Trabalhadores. Resolução do Diretório Nacional do PT sobre a conjuntura econômica mundial. Eficácia das medidas adotadas pelo Governo Luiz Inácio Lula da Silva para o enfrentamento dos efeitos da crise financeira internacional sobre a economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e8d61e19fce4fb9148182cfd4d8fdadedd171583dea1c7f1f7590875811d2d8
+size 322

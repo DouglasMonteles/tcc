@@ -1,1 +1,3 @@
-Pedido de envio, pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, de equipe de salvamento ao sertão pernambucano para participação nas ações de combate a incêndio na região da caatinga.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec01f8785b6589dc30eb10919f4bdd346e27ffeb49a1e6e04093ca0b1a5ceb57
+size 231

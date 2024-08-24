@@ -1,1 +1,3 @@
-Consequências da estiagem prolongada em municípios do Estado do Rio Grande do Sul. Expectativa dos trabalhos da Comissão Externa instituída pela Casa para busca de soluções para a situação das municipalidades gaúchas atingidas pela seca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84bb368fcad1063597617412cb249d1a3e816fbbb4852ab68812a5779343513f
+size 246

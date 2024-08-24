@@ -1,1 +1,3 @@
-Conclusão de obras no campus do Município de Bacabal da Universidade Estadual do Maranhão. Priorização de ações na área da educação pelo Governador do Estado do Maranhão, Flávio Dino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22b10c73a6d60709914957fe6cd77ee72cbb2939c8f9d670bc8c8ca32c8a6f39
+size 195

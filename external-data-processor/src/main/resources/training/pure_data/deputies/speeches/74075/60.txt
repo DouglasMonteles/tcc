@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 1.552, de 2020, acerca das medidas de proteção das mulheres em situação de violência, durante o estado de calamidade pública com efeitos até 31 de dezembro de 2020, ou na vigência das medidas de quarentena e restrições de atividades no contexto da pandemia do novo coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3895abefc2fb278d104e99e2fd9dfc3402058b41002807aecce1c54d15ac27d2
+size 330

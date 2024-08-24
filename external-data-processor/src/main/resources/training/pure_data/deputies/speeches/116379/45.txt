@@ -1,1 +1,3 @@
-Responsabilidade da Esquerda pela crise socioeconômica brasileira. Apoio popular à reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ca24951d141da6a253fac328b63087e4df8ce6267ffd64bbb07614382f93e13
+size 109

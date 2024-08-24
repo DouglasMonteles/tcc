@@ -1,1 +1,3 @@
-Reconhecimento nacional e internacional do programa de modernização da administração pública no Estado de Minas Gerais, conhecido como Choque de Gestão, iniciado pelo ex-Governador Aécio Neves. Congratulações à Secretária de Estado de Planejamento e Gestão de Minas Gerais, Renata Vilhena, pelo êxito na expansão do programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18293548a7c141508262580be67c48212ec36ca97374f6af8eb42f3ea7141cc6
+size 339

@@ -1,1 +1,3 @@
-Transcurso do Dia do Pastor Evangélico. Relevância das ações pastorais realizadas pelos irmãos em Cristo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03464d2d17c10b6e01147bc7b531564973d8b151b533217131e794d5a2e5ad9f
+size 110

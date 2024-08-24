@@ -1,1 +1,3 @@
-Acusações contra o empresário Daniel Dantas relacionadas a escutas telefônicas clandestinas e fusões fraudulentas de empresas de telecomunicações. Falta de cobertura jornalística às denúncias de envolvimento do empresário em crimes. Necessidade de investigação, pela Casa, das privatizações e transferência de recursos públicos para fusão de empresas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e272ffbe5bfe40f30f9993897d2ffbcbbdb303e8602d065f9d56d4b86032b625
+size 369

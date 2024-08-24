@@ -1,1 +1,3 @@
-Orientação de bancada na votação das Emendas de Plenário de nºs 2 a 6, e 9, com parecer contrário, apresentadas ao Projeto de Lei nº 534, de 2021, sobre a permissão aos Estados e Municípios, bem como à iniciativa privada, de aquisição de vacinas contra a Covid-19 com registro ou autorização temporária de uso no Brasil, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ee806ce803673dc0ed8136e240dc09f31ee22af5396a809b0fb28e424e6d963
+size 362

@@ -1,1 +1,3 @@
-Reconhecimento público do orador ao trabalho do Instituto Butantan de pesquisa de vacina contra a dengue.
+version https://git-lfs.github.com/spec/v1
+oid sha256:349d89c27c48ca09f7d8200d19136ae4b2727ff3f2781b935326a14a30f82ba4
+size 106

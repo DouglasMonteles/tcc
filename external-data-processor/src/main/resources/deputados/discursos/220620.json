@@ -1,29 +1,3 @@
-{
-  "dados" : [ {
-    "dataHoraInicio" : "2023-03-08T20:56",
-    "dataHoraFim" : null,
-    "uriEvento" : "",
-    "faseEvento" : {
-      "titulo" : "Ordem do Dia",
-      "dataHoraInicio" : null,
-      "dataHoraFim" : null
-    },
-    "tipoDiscurso" : "PELA ORDEM",
-    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F3%2F2023&txPagina=165&txSuplemento=&enviar=Pesquisar",
-    "urlAudio" : null,
-    "urlVideo" : null,
-    "keywords" : "Mulher,Dia Internacional da Mulher,População negra,Violência política de gênero,Representatividade política,Representatividade feminina",
-    "sumario" : "Congratulações às trabalhadoras rurais e urbanas ao ensejo do transcurso do Dia Internacional da Mulher. Homenagem póstuma à mãe da oradora, Sra. Ponciana de Oliveira Bragança. Repúdio à violência política de gênero.",
-    "transcricao" : "A SRA. ROSÂNGELA REIS (Bloco/PL - MG. Pela ordem. Sem revisão da oradora.) - Sra. Presidenta, Deputada Maria do Rosário, quero saudar todas as colegas Deputadas e os Deputados aqui presentes. É importante esta minha posição no Parlamento, na Câmara Federal, para aqui enaltecer o dia 8 de março, uma data importantíssima, que nós celebramos com muita alegria, podendo homenagear as mulheres e também lembrar a nossa história, a nossa luta e todo o trabalho das mulheres brasileiras, que nós representamos. Eu quero aqui parabenizar todas as mulheres, como as servidoras públicas do País, em especial as do meu querido Estado, Minas Gerais. Elas são protagonistas, são trabalhadoras, são mulheres do campo, são professoras, são enfermeiras, são \"do lar\". Parabenizo, em especial, as mulheres negras, que estão sendo protagonistas em uma sociedade plural, em que se buscam os espaços. Quero aqui saudar cada uma delas. Compartilho com os colegas a lembrança da minha saudosa mãe, Ponciana de Oliveira Bragança. Ela nasceu em uma pequena cidade, Mesquita. Mãe de 13 filhos, mulher firme, forte e corajosa, teve, como muitas outras mulheres do Brasil, uma jornada de afazeres como dona de casa, mas também não se furtou a servir à sociedade, a servir àquele Município, onde foi parteira. Ela também tirava um tempo para se dedicar às causas sociais. Deputada Maria do Rosário, nós somos 52% da população brasileira e responsáveis por trazer o restante dela ao mundo. Então, nós temos aqui o compromisso e a responsabilidade para com o relacionamento também com os homens da sociedade. Eu quero ainda falar aqui sobre a violência política de gênero que muitas mulheres sofrem quando tentam excluí-las das disputas políticas por elas terem sua votação. Querem as vagas e as composições nos partidos políticos, mas não querem que nós sejamos competitivas em uma chapa. Então, deixo aqui a minha indignação e a minha rejeição a toda uma situação montada pelo sistema político nacional excludente às mulheres. Quero parabenizar todas as mulheres do País pelo dia 8 de março. Nós temos muito ainda a conquistar."
-  } ],
-  "links" : [ {
-    "rel" : "self",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220620/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
-  }, {
-    "rel" : "first",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220620/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  }, {
-    "rel" : "last",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220620/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  } ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:84b35bf110c31e11dc63391e3cf0cf8961fa3b8e28b36cd99092e190e48a8481
+size 3620

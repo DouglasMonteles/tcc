@@ -1,1 +1,3 @@
-Eleição do orador para o cargo de Líder do PSD na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d8c970c692112a70136d511247080a1778c84eebcc51444249784938a3d01f5
+size 75

@@ -1,1 +1,3 @@
-Congratulação à Federação das Santas Casas de Misericórdia e Hospitais Beneficentes do Estado do Paraná - FEMIPA, ao ensejo do transcurso de 31 anos de atividades da entidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eefca9875c5b4619379304917e0c5fec5e2e470c7d8db1e45e7cba7b7d03304d
+size 182

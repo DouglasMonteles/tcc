@@ -1,1 +1,3 @@
-Imediata realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e41184dc13c0d89d8ac35b3237895f40890c537fb935ff272e13e58a1fe1d8dd
+size 45

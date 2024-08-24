@@ -1,1 +1,3 @@
-Presença, na Casa, de Vereadores do Município de Apuí, Estado do Amazonas, em busca de apoio à regularização fundiária na região sul do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bc6b49525a7d1a0eb8b7d71fcac2b38756091cd1b54837967f58c1b2b8c69e0
+size 151

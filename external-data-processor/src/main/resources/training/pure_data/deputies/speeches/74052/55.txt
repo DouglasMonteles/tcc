@@ -1,1 +1,3 @@
-Orientação de bancada na votação em globo dos Vetos Parciais de nºs 23, 27, 28, 36 e 44, de 2021; e dos Vetos Totais de nºs 51 e 64, de 2021, com acordo pela rejeição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0afa20a9a7f147196672e78cceaa0b3111450d137f5fdd624f923d5ea44d0a5
+size 175

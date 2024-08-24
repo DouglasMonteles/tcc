@@ -1,1 +1,3 @@
-Regozijo com a posse do Prof. Roque Albuquerque no cargo de Reitor da Universidade da Integração Internacional da Lusofonia Afro-Brasileira - UNILAB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:538ff9994518b3288fecba89101735cbeda333d0382b68a3bf0258c06ef41c36
+size 151

@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PV/PPS  ao Projeto de Decreto Legislativo 221 de 2011 (Aprova o texto de Emendas à Convenção do Banco Internacional de Reconstrução e Desenvolvimento - BIRD)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9cb7295ca7f7bcdb3987b82fa8cb9033bd3e98219ee3f475561e287286d7534
+size 197

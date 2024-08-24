@@ -1,1 +1,3 @@
-Nota da Confederação Nacional de Municípios em defesa da aprovação da Proposta de Emenda à Constituição nº 23, de 2021, sobre a alteração do regime de pagamento de precatórios pela União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f002a564aacbf4a10c3a77530ede89354bba2c8e68647e5e3dd5a02db7df5b2
+size 200

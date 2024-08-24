@@ -1,1 +1,3 @@
-Criação, pela Comissão de Comunicação, da Subcomissão Especial de Combate à Censura. Não apoiamento da maioria do Congresso Nacional ao Governo Luiz Inácio Lula da Silva. Tentativa do Presidente da República de compra de Parlamentares com recursos do orçamento secreto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa13417b5b90da10490ea455c5d58432f4fc448b5020ca1393f2e073ca1de4c6
+size 280

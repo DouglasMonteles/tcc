@@ -1,1 +1,3 @@
-Transcurso de aniversário da Fundação Dr. Jesus, instalada no Município de Candeias, Estado da Bahia. Visita do Pastor Abimael Almeida à Câmara dos Deputados. Indignação com a violência praticada contra os profissionais do transporte de passageiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:663b5a58f06e75d72e6065dbde22a6e1362815c48ac9d30fed512c402d3d9aad
+size 258

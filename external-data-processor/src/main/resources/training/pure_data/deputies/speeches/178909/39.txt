@@ -1,1 +1,3 @@
-Compromisso do orador com a defesa dos agentes comunitários de saúde e dos agentes de combate às endemias do Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ca41b8c3257b4844af09f16ce6bb1fb21be2639ef27f2aee10292e0aadbd796
+size 128

@@ -1,1 +1,3 @@
-Apresentação ao Governador do Estado de Pernambuco, Eduardo Campos, de reivindicações do setor de vitivinicultura da região do Vale do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e9aecd70e055e697949bedf3c00ce1d41d67c95589b1f805606a85e0955aff2
+size 159

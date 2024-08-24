@@ -1,1 +1,3 @@
-Eleição e posse do médico Breno de Figueiredo Monteiro e do orador, respectivamente, para os cargos de Presidente e Vice-Presidente da Confederação Nacional de Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76f42f96aee5051275661d695d95f90e8003c61afce60526901f9a918e487d38
+size 172

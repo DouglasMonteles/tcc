@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição nº 3, de 2021, sobre a alteração dos arts. 14, 27, 53, 102 e 105 da Carta Magna, com vista ao resguardo de prerrogativas parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2200f63c06da324909b0e9eafe63328f28dfb5d05c9ce2f5bed585c7d434b448
+size 252

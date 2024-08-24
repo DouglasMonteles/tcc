@@ -1,1 +1,3 @@
-Presença no plenário da irmã do orador, Soraya Galdino, Presidente do Conselho de Secretarias Municipais de Saúde - COSEMS da Paraíba e Diretora do Conselho Nacional de Secretarias Municipais de Saúde - CONASEMS em nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32ceb28a161b7be235d4656b2ac12bd0bf2038a6ad24bf923794b1b41270c3d1
+size 230

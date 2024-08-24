@@ -1,1 +1,3 @@
-Inauguração, pelo Presidente Luiz Inácio Lula da Silva, do Complexo Rodoviário 2 de Julho, no Estado da Bahia. Concessão à oradora do título de Cidadã Ameliense, pela Câmara de Vereadores do Município de Amélia Rodrigues.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5942d4bf7c102a8bb09af80449717e38c17fb78f756fe6566c33db3e1ce2c546
+size 232

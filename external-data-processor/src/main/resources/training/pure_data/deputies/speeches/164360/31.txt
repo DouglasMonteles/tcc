@@ -1,1 +1,3 @@
-Realização, pela bancada feminina do Estado de Santa Catarina, de audiência pública destinada ao debate do tema As Mulheres e a Reforma Política. Carta de Santa Catarina, documento resultante do evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33c4a67c8ac9501e4b727e65ed720c3d37880394705786cc55734861aaac7339
+size 207

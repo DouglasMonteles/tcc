@@ -1,1 +1,3 @@
-Emissão de parecer ao substitutivo do Senado Federal ao Projeto de Lei nº 976, de 2019, acerca da inclusão, nos sistemas de registro de informações das Polícias Civil e Militar, da concessão de medidas protetivas previstas na Lei nº 11.340, de 2006, (Lei Maria da Penha).
+version https://git-lfs.github.com/spec/v1
+oid sha256:04dd98e00af49626929858591f41cdfeae7a30389cdd93dbba64e911126f8785
+size 279

@@ -1,1 +1,3 @@
-O Deputado discutiu o Substitutivo do Senado Federal ao Projeto de Lei n°2.721, de 2023, que dispõe sobre a prestação de serviços postais aos órgãos públicos federais da administração direta e indireta. Ademais, criticou os argumentos da Esquerda na defesa do monopólio dos Correios, lembrando casos de corrupção e apoiando a liberdade de mercado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:340e6e7a13258d4520816c2e56a6202fd3f399d58542a9130f4309556acc5751
+size 360

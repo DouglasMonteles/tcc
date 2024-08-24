@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Deputado Estadual do Acre, Pablo Bregense, ao empresário Bruno Rosella e ao pecuarista Everton Moreira, em visita à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70db30e4c654ac3904135d95a06211c318c0e17a53beb1034a342202bae5dc6c
+size 173

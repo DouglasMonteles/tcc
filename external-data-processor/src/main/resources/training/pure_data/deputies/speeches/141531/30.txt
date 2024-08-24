@@ -1,1 +1,3 @@
-Apoio às recentes manifestações populares ocorridas no País. Incompetência do Governo Dilma Rousseff na adoção de medidas para atendimento aos anseios da população. Defesa de realização de referendo sobre a reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fedec946281327b21e8534d02bf0043e1d5149390ab8aa516a4279a79d455269
+size 236

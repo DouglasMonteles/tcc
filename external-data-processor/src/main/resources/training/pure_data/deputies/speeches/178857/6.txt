@@ -1,1 +1,3 @@
-Carta aberta do Movimento da Associação dos  Moradores dos Povoados  Atingidos pela Barragem de Sobradinho, Sento Sé e Remanso, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9756359b55126cc9598a6e51f6e807aaac5d89364070fde55572a7fb4ff610ae
+size 147

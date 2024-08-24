@@ -1,1 +1,3 @@
-Aplausos à Mesa Diretora pela revogação do uso obrigatório de máscaras preventivas do coronavírus nas dependências da Câmara dos Deputados. Protesto contra a exigência do uso de máscaras por crianças em creches e escolinhas, no Município de Santa Cruz do Sul, Estado do Rio Grande do Sul. Apresentação de requerimento de apreciação em regime de urgência do Projeto de Lei nº 4.647, de 2020, de autoria do Deputado Jerônimo Goergen, sobre a alteração da Lei nº 13.979, de 2020, com vista à revogação do uso obrigatório de máscaras faciais por crianças com menos de doze anos de idade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5483facdecc65ad6cccaa9cc1df4fad91432907d5692e86ca3d7680c1da8f5e9
+size 611

@@ -1,1 +1,3 @@
-Relato de atividades do orador durante visita aos Municípios de Santa Fé do Sul e Fernandópolis, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3e8b0819a9bbe505e54be91c936643f892b56e52a3121d9c8e94f70b668b8a3
+size 121

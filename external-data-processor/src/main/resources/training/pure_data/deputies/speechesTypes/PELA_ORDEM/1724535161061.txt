@@ -1,1 +1,3 @@
-Falecimento do empresário Eloi Carlone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ec28792ff711a6e445803e5bbb96088f283897135e8ad650a03690bc1502c48
+size 40

@@ -1,1 +1,3 @@
-Avanço do Projeto de Lei nº 873, de 2020, sobre alteração da Lei nº 13.982, de 2020, com vista à mudança nas regras do auxílio emergencial; à vedação da suspensão de benefícios previdenciários e assistenciais concedidos aos idosos, às pessoas com deficiência ou com enfermidade grave, durante a pandemia da Covid-19. Sugestão à Presidência para a votação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c23d5fe1f50e6155697a881f774f7ee078bab3c589f68c739a626b039df9355
+size 391

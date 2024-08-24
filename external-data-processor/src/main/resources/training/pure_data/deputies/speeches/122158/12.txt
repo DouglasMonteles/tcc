@@ -1,1 +1,3 @@
-Congratulações à Presidenta Dilma Rousseff pela inauguração da linha BRT Transcarioca e pela autorização de financiamento para a conclusão de obras relacionadas aos Jogos Olímpicos e Paraolímpicos de 2016 na cidade do Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0288711a64486aa96b99d166c23b709d64dfc0ff8721f7b278e638aded0bfaf
+size 269

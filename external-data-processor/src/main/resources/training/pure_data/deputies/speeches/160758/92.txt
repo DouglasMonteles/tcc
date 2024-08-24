@@ -1,1 +1,3 @@
-Morosidade na tramitação das propostas de criação do novo Plano Nacional de Educação - PNE e de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a alocação de recursos para a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa00f8e627e7205018e4a725d6bff3a83d213f7f597dbbd708560bac3d47c747
+size 215

@@ -1,1 +1,3 @@
-Expectativa de primazia da Justiça no caso de apuração de cometimento de crime de evasão de divisas pelo Presidente Eduardo Cunha. Atribuição do prolongamento da crise econômica no País à crise política. Críticas à Oposição pela insistência na abertura de processo de impeachment contra a Presidenta Dilma Rousseff e pelo apoio à eleição do Deputado Eduardo Cunha à Presidência da Casa. Repúdio à corrupção do Governo Fernando Henrique Cardoso e aos respectivos partidos de apoio. Apoio ao fim do financiamento privado de campanhas eleitorais. Defesa da continuidade das políticas sociais dos Governos petistas. Apoio ao Governo da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:596f13246e93c00079d309d5690f75a7281f43f6c7550232057ea9fb362923f1
+size 683

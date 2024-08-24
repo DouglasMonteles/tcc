@@ -1,1 +1,3 @@
-Existência de acordo de Líderes para a votação do Projeto de Lei nº 1.485, de 2020, sobre a alteração do Decreto-Lei nº 2.848, de 1940, com vista à duplicação das penas de crimes praticados contra a administração pública em situações de calamidade. Defesa de inclusão da propositura, como o primeiro item da pauta, na sessão da próxima quinta-feira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f41b34f0df9f93cfd39feba7e8aaa899866a310a50ff38dafbfc894acf992865
+size 368

@@ -1,1 +1,3 @@
-Consternação da população alagoana com o brutal assassinato do empresário Guilherme Brandão. Aumento significativo do número de latrocínios no Estado de Alagoas, conforme a publicação VII Anuário Brasileiro de Segurança Pública. Descaso do Governo do Estado ante a crescente criminalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a82fe043ade5807c54842f97932f678123a072139c0d5c5b2d4e5c7ddd933c18
+size 302

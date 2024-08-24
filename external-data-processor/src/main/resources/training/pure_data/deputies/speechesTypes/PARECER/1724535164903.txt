@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 5.708, de 2019, sobre a instituição do Dia Nacional de Lula e Combate ao Estupro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2eafc4b34c1d80922312e844bd81c4d5861e3876c4177fc37e0036c1d78c966
+size 125

@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Luta Antimanicomial e do Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes. Importância do debate da educação sexual no ambiente escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc7877908d2a13c64b88cfc5b7c397da70f6e35f0123a7f23a8b55ed111bfbc4
+size 206

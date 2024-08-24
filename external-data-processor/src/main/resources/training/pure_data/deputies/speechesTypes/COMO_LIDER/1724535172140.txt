@@ -1,1 +1,3 @@
-Regozijo com a operação de busca e apreensão realizada pela Polícia Federal na residência do ex-Presidente Jair Bolsonaro, em face do seu envolvimento na falsificação do próprio certificado de vacinação da Covid-19. Reinclusão do Brasil no Mapa da Fome pelo ex-Presidente da República. Defesa de punição de Jair Bolsonaro por crimes praticados durante o seu governo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a8072c1017905624bfeb1076fdc9859c75576bde01526833ebe4fb116dc3aa1
+size 380

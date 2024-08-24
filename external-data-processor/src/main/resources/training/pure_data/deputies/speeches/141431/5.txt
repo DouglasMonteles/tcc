@@ -1,1 +1,3 @@
-Acerto dos investimentos realizados pelo Governador Eduardo Campos na infra-estrutura do Complexo Industrial e Portuário de Suape, no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0132a358d33f7708c1303309c48c82aba11a69415b755d7447c469b52a0acd35
+size 156

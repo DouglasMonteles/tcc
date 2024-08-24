@@ -1,1 +1,3 @@
-Denúncia de distribuição gratuita no Brasil, pela organização não governamental holandesa Women on Web, de comprimidos abortivos para mulheres grávidas contaminadas com o vírus zika. Solicitação à Polícia Federal de investigação das atividades da instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3db99cf86a75b98027d3a067ea2c1f69502fff2c7bdec064e32d35033473270
+size 275

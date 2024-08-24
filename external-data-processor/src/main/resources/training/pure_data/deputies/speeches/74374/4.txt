@@ -1,1 +1,3 @@
-Apelo ao Supremo Tribunal Federal de liberação de pesquisas com células-tronco embrionárias, previstas na Lei de Biossegurança.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b9756afcbaed5319959fc70507132db519a1a77a3b3a5deff7b5bb342882775
+size 132

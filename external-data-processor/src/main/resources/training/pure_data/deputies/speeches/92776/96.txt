@@ -1,1 +1,3 @@
-Compromisso de atuação parlamentar para erradicação do trabalho infantil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfaef41614e265e92bb2539daa136ca4c3e33dfcae1d8811eaed37f5f526693c
+size 77

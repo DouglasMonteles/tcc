@@ -1,1 +1,3 @@
-Transcurso do oitavo aniversário do V Congresso Nacional do Movimento dos Trabalhadores Rurais Sem Terra
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d384ebe059db5458b1d64004fd25d63a0772f83ff9b33728796b7049a0e87f9
+size 105

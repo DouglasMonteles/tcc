@@ -1,1 +1,3 @@
-Eleição da Presidenta Dilma Rousseff como uma das 100 pessoas mais influentes do mundo, pela revista Time. Realização, pela Comissão de Meio Ambiente e Desenvolvimento Sustentável, de audiências públicas destinadas à discussão do setor de saneamento básico e do programa nuclear brasileiro. Descumprimento de termo de compromisso de ajuste de conduta (TAC) pelas empresas ELETROBRAS e ELETRONUCLEAR. Posicionamento do orador contrário à utilização da energia nuclear no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8015415c48fc147babc93799c2b2b8e77ef8179f01d4bbdf47937a3c5716ebac
+size 491

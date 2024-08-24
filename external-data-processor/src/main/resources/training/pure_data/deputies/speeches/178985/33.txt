@@ -1,1 +1,3 @@
-Participação do orador na 47ª Romaria Nacional dos Vicentinos a Aparecida, no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c450ec6355ced9942b0394e48d18d049f937d8ccc0a31172689a986c6ae5e41
+size 102

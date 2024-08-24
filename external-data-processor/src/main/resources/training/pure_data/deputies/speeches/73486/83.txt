@@ -1,1 +1,3 @@
-Elogio ao Presidente Michel Temer pela celeridade imprimida aos trabalhos da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdb9c79af5938fd59f0f4385bc4f93d3fbbc5dd0e471a5ceef9124a5dbf3a127
+size 82

@@ -1,1 +1,3 @@
-Investimentos realizados pelo orador nas áreas de saúde e mobilidade urbana, na condição de Vereador da Câmara Municipal de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a811ba7f263067daa494ca4c9b12303781a0b295f0aabcac062096ecfd034ec4
+size 162

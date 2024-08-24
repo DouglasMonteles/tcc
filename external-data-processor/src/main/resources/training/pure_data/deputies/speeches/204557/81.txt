@@ -1,1 +1,3 @@
-Omissão da Agência Nacional de Energia Elétrica - ANEEL sobre os reiterados pedidos do orador para fiscalização da empresa Amazonas Energia, diante de cobranças abusivas e da baixa qualidade dos serviços prestados aos usuários. Descumprimento, pela Agência Nacional de Telecomunicações - ANATEL, do compromisso de instalação dos serviços de Internet em Manaus e municipalidades interioranas amazonenses. Descumprimento do papel institucional das agências reguladoras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e373091ec63b41273b8147b7709889016a1f7d147df1197139a50b7c9eb25fa8
+size 482

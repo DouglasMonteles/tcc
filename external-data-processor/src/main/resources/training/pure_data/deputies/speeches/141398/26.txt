@@ -1,1 +1,3 @@
-Congratulação ao Presidente Luiz Inácio Lula da Silva pelo lançamento do PAC da Macrodrenagem Urbana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ce29c172dd18fc57e714523c45dcd0ac5cf9739024f74adb1e0e2afd06aec29
+size 105

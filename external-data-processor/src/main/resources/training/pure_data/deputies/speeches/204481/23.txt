@@ -1,1 +1,3 @@
-Comemoração do 71º aniversário de criação do Estado de Israel. Apoio à transferência da Embaixada do Brasil, em Israel, de Tel Aviv para Jerusalém.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d17720065c1fbf63ea35370bf354e1141126449ffa3d68bfbaae1369f594904d
+size 156

@@ -1,1 +1,3 @@
-Orientação da respectiva bancada. Transcurso do 192º aniversário de fundação do Município de Jaguariaíva, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8aa117fb2ff777b99b2eecde91d5b5c1a878be6d66d0e581d603a47660ac7c3e
+size 132

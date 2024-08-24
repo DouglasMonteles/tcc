@@ -1,1 +1,3 @@
-Aprovação pela Casa de projetos de lei apresentados pelo orador, com destaque para os projetos sobre a inclusão da mulher chefe de família em programas habitacionais e sobre a obrigatoriedade de instalação de airbag em veículos novos. Apresentação de projeto de lei sobre a obrigatoriedade de instalação de freios ABS nos veículos de fabricação nacional e de inclusão do equipamento em veículos importados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aabc49f7174ab108151ab28aa2bc0e25f35fa230f63070dae219898cfcd8f794
+size 422

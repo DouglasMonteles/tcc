@@ -1,1 +1,3 @@
-Transcurso do 28º aniversário de criação do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA. Solicitação à Presidente do órgão de reabertura dos escritórios situados nos Municípios de Crato, Iguatu, Sobral e Aracati, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfcb6ccab85bea0aeb7f53b36a0a57a9d5b7450a680e800b427f25cfa46ee827
+size 279

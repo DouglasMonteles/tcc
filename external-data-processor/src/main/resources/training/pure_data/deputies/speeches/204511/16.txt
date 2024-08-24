@@ -1,1 +1,3 @@
-Discussão da Medida Provisória nº 886, de 2019, sobre a organização básica dos órgãos da Presidência da República e dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6352265710a2531427afdb4f3c32fce1dfc7c4f5280d71ac08ef3045695f65d0
+size 143

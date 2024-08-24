@@ -1,1 +1,3 @@
-Manifestação dos Prefeitos do Estado do Paraná a favor da revisão do pacto federativo. Falência dos Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4428bbfe8ce1ffa030d9a34db500bb449909a3e0a0af4624ebbea2fc937655a2
+size 129

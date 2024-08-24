@@ -1,1 +1,3 @@
-Necessidade de conhecimento do texto da Emenda Aglutinativa Substitutiva Global ao projeto de lei sobre a criação do novo Código de Processo Civil, para se posicionar sobre a possibilidade de votação da matéria na presente sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a25b51954c813874d1f46f9aa0070b6560ce1436860190a7e4b546889bfd0518
+size 237

@@ -1,1 +1,3 @@
-Contrariedade à importação de trigo pelo País. Adoção de política em favor da cadeia produtiva de trigo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8827d2ad4ab998bcead543cd6a74b855dcdda1087f7f73667da64f0e1a62cdab
+size 111

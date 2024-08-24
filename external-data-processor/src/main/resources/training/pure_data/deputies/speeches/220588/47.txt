@@ -1,1 +1,3 @@
-O Deputado Roberto criticou a proposta do Governo Federal de reintroduzir o Imposto Sindical, argumentando que a medida aumentaria significativamente os custos para os trabalhadores. O Ministro do Trabalho, Luís Marinho, é defensor da medida, que segundo ele pode fortalecer os sindicatos e garantir uma democracia robusta. No entanto, o orador questionou a eficácia desse modelo, destacando que a maioria dos trabalhadores não é sindicalizada e que a unicidade sindical limita a escolha dos trabalhadores. Enfatizou a importância de quebrar a unicidade sindical e criticou o sistema cartorial e monopolista dos sindicatos brasileiros. O Parlamentar recordou que o fim do Imposto Sindical compulsório causou uma queda significativa na arrecadação dos sindicatos e pediu ao Congresso para proteger os salários dos trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:843687b5100e06be5d9872c1ecfde71b4eadf72d26e0773be780c88d6952ca75
+size 837

@@ -1,1 +1,3 @@
-Importância de aprovação do Projeto de Lei nº 3.715, de 2019, acerca da regulamentação da posse de arma de fogo em áreas rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a952aa08eef8e34b0655f721ed298291cd2e3d4b0cd7b231bf2d151db7acc194
+size 135

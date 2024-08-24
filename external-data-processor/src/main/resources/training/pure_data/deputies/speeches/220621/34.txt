@@ -1,1 +1,3 @@
-Sugestão ao Ministro dos Direitos Humanos e da Cidadania, Silvio Luiz de Almeida, de criação de comissão para acompanhamento das investigações do assassinato de agentes da segurança pública por facções criminosas no Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67df94a9816548a7ac6529d146b78492d34f54351cf9d0e6351dd3bf5a6d93c1
+size 256

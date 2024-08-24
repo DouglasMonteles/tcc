@@ -1,1 +1,3 @@
-Participação do orador nas celebrações pelo transcurso do 54º aniversário de emancipação político-administrativa do Município de Guaratinga, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13beb6f565b574b943239b1e0870de58a1d3de940e40c952bb8c87fdcb8fd29f
+size 167

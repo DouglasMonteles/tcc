@@ -1,1 +1,3 @@
-Comemoração do aniversário de fundação do Município de Pauini, Estado do Amazonas. Transcurso do Dia de São José, Padroeiro do Município de Jutaí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed1739ef5a4a2d4f0e8ce6746f10f673d4176809ac9d0af0185dd60d5fb7c2cf
+size 156

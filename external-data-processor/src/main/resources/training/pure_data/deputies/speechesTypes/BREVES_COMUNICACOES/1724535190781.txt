@@ -1,1 +1,3 @@
-O Deputado lamentou a perda de um trabalhador da empresa terceirizada Siga, que faleceu devido a um infarto fulminante antes de chegar à sessão, expressando condolências à família. Além disso, apresentou e homenageou representantes do Corpo de Bombeiros do Estado do Rio de Janeiro presentes na Casa. Também reconheceu a presença de seu irmão, vereador de Queimados, e o agradeceu pelo apoio recebido ao longo de sua trajetória política. O Parlamentar se posicionou contra a descriminalização do aborto, enfatizando sua própria história como exemplo de vida em meio a adversidades, e também expressou sua oposição ao uso de drogas, destacando os danos que podem causar às famílias e à sociedade em geral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e4f6b0e6519938c7245d68d72d78e724964bb7e78b3dc1ba0727c6741cb0965
+size 725

@@ -1,1 +1,3 @@
-Defesa de convocação, pelo Conselho da República, de reunião destinada ao debate de crises, desobediências, afrontas, ativismos político e ideológico reinantes no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f910c37ab16d8bbeb49727cc743a141a4512573ce53653276bab46f7dbad9b60
+size 176

@@ -1,1 +1,3 @@
-Empenho do partido NOVO na reinclusão de Estados e Municípios no bojo da proposta de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17709986ea59a6dc8fcab80add9ac12c6033c7b7222fb43bda5e830fb1c28e1d
+size 111

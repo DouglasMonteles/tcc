@@ -1,1 +1,3 @@
-Decisão dos Governadores Estaduais de prorrogação do congelamento do preço-base de combustíveis. Prejuízos causados aos Estados e Municípios brasileiros pela unificação das alíquotas do ICMS incidentes sobre derivados de petróleo. Revisão da política de dolarização praticada pela empresa Petróleo Brasileiro S/A - PETROBRAS, para a redução dos preços de combustíveis no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c7601df85ef356c85f3312a9c779527544f06e23315d97bf44e6d945f3510db
+size 397

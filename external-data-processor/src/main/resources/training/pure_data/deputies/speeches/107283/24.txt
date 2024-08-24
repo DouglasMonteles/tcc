@@ -1,1 +1,3 @@
-Realização da Marcha das Margaridas; da 1ª Marcha das Mulheres Indígenas e de movimento contra os cortes na educação, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17be36403ba42049b85317fd74eb9470ce15d52f2b2b11f5b2cb798f3fa0e896
+size 155

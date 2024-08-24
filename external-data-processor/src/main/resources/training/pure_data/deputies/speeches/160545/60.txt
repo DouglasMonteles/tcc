@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM ao Requerimento de retirada da pauta da Ordem do Dia da  Medida Provisória 595 de 2012 (Dispõe sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e316ae64c07605f7264b4de8705c88a106c902eba81b50c17a903e927c4970c6
+size 315

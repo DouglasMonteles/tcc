@@ -1,1 +1,3 @@
-Reflexões sobre a tragédia socioambiental decorrente do rompimento de barragens de rejeitos da mineradora Samarco, no Município de Mariana, Estado de Minas Gerais. Necessidade de ampla discussão com a sociedade, em todo o País, sobre projeto de lei relativo à criação do novo Código de Mineração.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13d5f59ecac6ea656a8e70f0d6c0cb88750829c886951eee161352caa9f917aa
+size 307

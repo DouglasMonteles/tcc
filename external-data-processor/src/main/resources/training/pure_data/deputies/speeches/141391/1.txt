@@ -1,1 +1,3 @@
-Considerações sobre o impacto da compra da Brasil Telecom S/A pela empresa Oi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92a9c27e4714f5dda89560fe042795ca7124183f3e338797989cf58ff7c8a2f5
+size 80

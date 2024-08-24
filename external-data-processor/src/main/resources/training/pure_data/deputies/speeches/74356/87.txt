@@ -1,1 +1,3 @@
-Posicionamento favorável do PSC  ao parecer pela admissibilidade da  Medida Provisória 506 de 2010 (Abre crédito extraordinário em favor do  Ministério do Desenvolvimento Agrário para o fim que   especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b87984313618fd7065eddd5c28fc357a6952c2b8b435d02c3f09ce06d85647cf
+size 214

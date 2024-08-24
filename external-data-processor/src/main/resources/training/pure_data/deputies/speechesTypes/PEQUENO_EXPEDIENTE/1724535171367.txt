@@ -1,1 +1,3 @@
-Falecimento do cantor e compositor Rui Biriva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8413a3238d8fe6fa8f59a400d3bd29370c414850614be56caca5edac99f45b31
+size 46

@@ -1,1 +1,3 @@
-Presença no plenário do Vereador Adelso Pereira, da Câmara Municipal de Maricá, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4af8e00fec0cd67af8f53a224e43644a646fc95963e994a3a848f9c387c64511
+size 109

@@ -1,1 +1,3 @@
-Visita do Presidente do Tribunal Superior Eleitoral, Ministro Marco Aurélio de Mello, ao Município de Fátima do Sul, Estado de Mato Grosso do Sul, para implantação do sistema de cadastramento biométrico de eleitores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96590f39a135cdcb75f27cb8a78ee0ac0680ccaa1e93db76fb7474c504cc7c98
+size 222

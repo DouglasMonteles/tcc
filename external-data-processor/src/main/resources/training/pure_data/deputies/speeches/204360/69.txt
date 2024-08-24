@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do requerimento de urgência para apreciação do Projeto de Resolução da Câmara dos Deputados nº 116, de 2023, que cria a Bancada Negra da Câmara dos Deputados e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cb29f5b370353033115b7b09cd551a7b23be9053e7a17227d75a28740c83108
+size 236

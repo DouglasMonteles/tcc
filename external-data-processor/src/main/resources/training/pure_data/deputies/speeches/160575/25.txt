@@ -1,1 +1,3 @@
-Apresentação de requerimento de inclusão na pauta da Proposta de Emenda à Constituição nº 347, de 2009, sobre a garantia aos portadores de deficiência do acesso à educação especializada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89bc0f0e6bbbad55e93e98eddead34819b1cf1865dfdac0d3905ce20bfb357fe
+size 197

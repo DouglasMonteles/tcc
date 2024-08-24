@@ -1,1 +1,3 @@
-Inauguração de unidades habitacionais no Município de Vitória da Conquista, Estado da Bahia, construídas por meio do Programa Minha Casa, Minha Vida. Excelência da política social implantada pelo Prefeito Municipal Guilherme Menezes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79821d52fd29e808b58e976eab64b05ce68b286a2550bcaeda619d494671d680
+size 240

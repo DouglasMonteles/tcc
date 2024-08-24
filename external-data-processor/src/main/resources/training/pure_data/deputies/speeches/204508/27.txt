@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 5.919, de 2019, acerca da criação do Tribunal Regional Federal da 6ª Região, com sede em Belo Horizonte, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb283ab1b2b7482719d54d53134b4603e92e2ddc6f52922d17972127d0d036c6
+size 228

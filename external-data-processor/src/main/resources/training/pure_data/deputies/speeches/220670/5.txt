@@ -1,1 +1,3 @@
-Assunção pela oradora, em caráter interino, da Coordenadoria-Geral dos Direitos da Mulher da Secretaria da Mulher da Câmara dos Deputados. Eleição da Parlamentar para o cargo de 1ª Coordenadora-Adjunta do órgão. Aprovação pela Casa de relevantes proposições de interesse da bancada feminina. Realização da campanha Agosto Dourado - Juntos pela Amamentação. Promoção da Semana do Aleitamento Materno. Apresentação do Projeto de Lei nº 3.635, de 2023, sobre a criação do selo Empresa Amiga da Amamentação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b437fec5bb327e0566835835c79d4df28d81f85462dd8d34aaa67644e4e73565
+size 529

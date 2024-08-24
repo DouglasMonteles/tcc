@@ -1,1 +1,3 @@
-Inauguração de escola de tempo integral no Município de São João dos Patos, no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9bbe88103bac4e9724fdbc59d5a33cca1704bcd6eb626af9896a6aa43074250
+size 104

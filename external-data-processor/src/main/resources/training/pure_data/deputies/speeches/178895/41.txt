@@ -1,1 +1,3 @@
-Apoio majoritário da população a proposta de emenda à Constituição relativa à redução da maioridade penal para 16 anos de idade. Defesa da imediata aprovação da matéria pela Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b91b85858ded2f628df7594e66a97f3b5ba12e7b3990f1740ac2a2f26faca097
+size 191

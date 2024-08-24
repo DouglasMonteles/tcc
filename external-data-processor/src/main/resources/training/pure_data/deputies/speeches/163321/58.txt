@@ -1,1 +1,3 @@
-Edição, pelo Conselho Nacional do Ministério Público, da Resolução nº 81, de 2012, sobre a criação da Comissão Temporária de Acessibilidade. Indicação do Conselheiro Luiz Moreira Gomes Júnior para a presidência do órgão. Defesa da aprovação do Projeto de Lei nº 2.064, de 2011, sobre a certificação de empresas públicas ou privadas com edificação adequadas às normas de acessibilidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6f238fa8c9b90f8f0fc73062fa43082b57faa17ab9414f9fc053a6d664c98d3
+size 411

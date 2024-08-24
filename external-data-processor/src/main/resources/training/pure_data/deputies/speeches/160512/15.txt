@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para manutenção do parágrafo único do art. 9º do Substitutivo do Senado Federal ao Projeto de Lei nº 4.401, de 2021, acerca da inclusão de prestadoras de serviços de ativos virtuais no rol de instituições sujeitas às suas disposições.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69c233016533557fccc6012b3465fa2fa3581f18269fd48c16ce81d2681c5117
+size 303

@@ -1,1 +1,3 @@
-Paralisação de médicos no País em protesto contra práticas adotadas por operadoras de planos e seguros de saúde. Nota do Comitê Central do PCdoB a favor da criação do Estado da Palestina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:849fe54d455662071da5dbae0f9574c61ee55123ee76576a0eda13d6cd6b9ffe
+size 196

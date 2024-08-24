@@ -1,1 +1,3 @@
-Apresentação de pedido de impeachment   contra o Ministro do Supremo Tribunal Federal, Ricardo Lewandowski.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7951a5e856f6d625108e3b901ad708434e33e18cd491003c7b861bda43f44b72
+size 109

@@ -1,1 +1,3 @@
-Inconveniência da realização de sessões deliberativas às segundas-feiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f743b408c8245e1268c18e4bf7b4aa584254282f64482f76d06358691d73e5fc
+size 78

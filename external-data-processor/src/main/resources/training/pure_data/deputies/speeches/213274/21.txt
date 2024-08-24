@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da expressão e a locomoção interestadual, constante no inciso I, § 6º, art. 3º, da Lei nº 13.979, de 2020, e no art. 1º do Projeto de Lei de Conversão nº 25, de 2020, da Medida Provisória nº 926, de 2020, sobre a alteração da Lei nº 13.979, de 2020, com vista ao estabelecimento dos procedimentos para aquisição de bens, serviços e insumos destinados ao enfrentamento da emergência de saúde pública decorrente do coronavírus. Cessão, pela Fundação Oswaldo Cruz - FIOCRUZ, de robôs ao Município de Ribeirão Preto, Estado de São Paulo, para a realização de testes em massa da Covid-19. Destinação de recursos de emendas de bancada à área de saúde da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e974f7cb8b220e8b0ad21f5479d515935a7c593a55d58e3e98ee2ef5be3a87dd
+size 791

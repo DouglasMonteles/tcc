@@ -1,1 +1,3 @@
-Anúncio do relançamento da Frente Parlamentar de Segurança Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6d00efe5cdca973467d7c60bfd5639a39256f91f057999abfb7b5067e9f7445
+size 71

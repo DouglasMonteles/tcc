@@ -1,1 +1,3 @@
-Visita do orador ao Município de Muniz Freire, região do Caparaó, Estado do Espírito Santo, para discussão, juntamente com outras autoridades, sobre a instalação de Instituto Federal de Educação, Ciência e Tecnologia IFES na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a97290d2afea9d240ffcaa3a480d9e9cb4082093de031c48074eec77d7f7bba
+size 250

@@ -1,1 +1,3 @@
-Protesto contra a decisão do Prefeito Marcelo Crivella, do Município do Rio de Janeiro, Estado do Rio de Janeiro, de demolição do campo de futebol do Everest Atlético Clube para a construção de imóveis do Programa Minha Casa, Minha Vida.  Falta de vagas em cemitério para sepultamento do corpo do músico Evaldo Rosa do Santos, assassinado por militares das Forças Armadas brasileiras. Defesa da investigação da máfia dos cemitérios no Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8d3ad4432af1e28afb1497b2e70c488e63b0f949c63f4e61595e57205c5d1cc
+size 465

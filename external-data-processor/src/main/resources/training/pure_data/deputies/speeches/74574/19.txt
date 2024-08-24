@@ -1,1 +1,3 @@
-Reiteração do apelo ao Presidente da Casa de adoção de providências acerca do desaparecimento de vaso de arruda do hall do apartamento funcional do orador. Alerta sobre a ameaça à integridade física dos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:848470ef1135172385b2fc6110d89335b16fe6f54495a93215b94f1b8dd2bfb7
+size 225

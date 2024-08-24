@@ -1,1 +1,3 @@
-Levantamento da Confederação Nacional dos Transportes - CNT sobre as condições precárias do trabalho dos caminhoneiros e a situação das rodovias federais e estaduais no Brasil. Necessidade de execução de plano de combate ao mosquito Aedes aegypti pelas autoridades em saúde pública no Brasil em face da proximidade dos Jogos Olímpicos e Paralímpicos do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b00aa608270732070a0a59d148c9d90e5501bd80949a785eeff26c8903726c09
+size 381

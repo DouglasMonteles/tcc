@@ -1,1 +1,3 @@
-Realização, pela Comissão de Fiscalização Financeira e Controle, de audiência pública destinada ao debate da baixa qualidade dos serviços prestados pelas operadoras de telefonia fixa e móvel e de Internet no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e0a010588579e4de706de5f6c0ba413ba3fe1cdef628c9cbf6b436b0e56ad7b
+size 223

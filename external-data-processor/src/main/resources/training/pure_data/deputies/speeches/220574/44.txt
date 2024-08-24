@@ -1,1 +1,3 @@
-Questão de ordem sobre o não acatamento de questão de ordem a respeito do rito de tramitação de medidas provisórias, apresentada pelo Senador Renan Calheiros em sessão do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50b89ecb3979837a180ea10837c35f21373b087d2f86212b7e594e6532fdf996
+size 193

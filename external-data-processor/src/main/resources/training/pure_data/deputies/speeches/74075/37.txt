@@ -1,1 +1,3 @@
-Agradecimentos ao Deputado Simão Sessim e ao Presidente Eduardo Cunha pela realização da Comissão Geral. Cumprimentos ao Ministro da Pesca e Aquicultura, Helder Barbalho, pela exposição dos trabalhos da Pasta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee02c276c65eb53cb71d75f0ca4ba76d87bdef7fc54f24b9a046c05e7654f214
+size 215

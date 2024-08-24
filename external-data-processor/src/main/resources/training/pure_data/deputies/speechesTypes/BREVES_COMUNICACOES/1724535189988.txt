@@ -1,1 +1,3 @@
-Congratulação ao Presidente Rodrigo Maia pela celebração de acordo a favor dos Municípios brasileiros. Elogio ao Presidente da Confederação Nacional dos Municípios, Glademir Aroldi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49a1d57acf6da7d81fd83355da6d50b8863ef2351455cfe9dfcde33c8c1773ef
+size 189

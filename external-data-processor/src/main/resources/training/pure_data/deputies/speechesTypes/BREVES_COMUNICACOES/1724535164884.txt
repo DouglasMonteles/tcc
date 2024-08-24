@@ -1,1 +1,3 @@
-Regozijo com a classificação pela Escola Adriano Nobre, do Município de Itapajé, do 5º lugar no ranking das melhores escolas públicas do Estado do Ceará. Ampliação da rede de ensino profissionalizante pelo Governo Cid Gomes. Inauguração de agência da Caixa Econômica Federal no Município de Itapajé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30202c5611fe3c50feae1dd6ab86a21dffcf75f795a98e461723aeb0799321dc
+size 314

@@ -1,1 +1,3 @@
-Contrariedade ao Projeto de Lei Complementar nº 257, de 2016, sobre o estabelecimento do Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal, ante a penalização dos Estados das Regiões Norte e Nordeste e a possibilidade de desmantelamento da saúde pública no País. Expectativa de supressão do art. 3º do Projeto de Lei de Diretrizes Orçamentárias, ante a concordância do Presidente da Casa, Deputado Rodrigo Maia, com a inconstitucionalidade do dispositivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab8189d5214a3499df6f664e0e335d1318b625598bf4f4fa216221b9fa8ca1d0
+size 516

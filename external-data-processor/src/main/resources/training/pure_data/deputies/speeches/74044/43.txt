@@ -1,1 +1,3 @@
-Congratulação ao Presidente eleito Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8612b1abfdcd2b121c2520b82bde681e0472f995cf0c31acf9fbb795c0833aaa
+size 50

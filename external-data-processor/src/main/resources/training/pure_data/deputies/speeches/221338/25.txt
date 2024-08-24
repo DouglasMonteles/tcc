@@ -1,1 +1,3 @@
-Solidariedade à luta dos professores da rede municipal de Guarulhos, Estado de São Paulo, pelo recebimento do piso salarial nacional do magistério público da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef109a44b25ae8befd203fe6bf6e081f440ab638a38d26e5a90c4e5cc9a6a568
+size 181

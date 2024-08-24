@@ -1,1 +1,3 @@
-Reajuste dos preços de combustíveis pelo Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:502d8a393bdea53b7c15b8daa053537712dd46c16f7e494db5f15a6d79b4abd9
+size 78

@@ -1,1 +1,3 @@
-Posicionamento favorável do PSC à proposta do Presidente da Mesa,  para retirada, de ofício,  de Pauta da Ordem do Dia das  Emendas do Senado ao Projeto de Lei de Conversão da Medida Provisória 460, de 2009, para  votação de matérias consensuais
+version https://git-lfs.github.com/spec/v1
+oid sha256:d836b94896177179005bfaf86cdb33889ad8c043365c6903f3fffd4646471664
+size 253

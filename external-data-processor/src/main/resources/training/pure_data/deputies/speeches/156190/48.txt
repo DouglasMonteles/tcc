@@ -1,1 +1,3 @@
-Orientação da bancada na votação do requerimento de destaque para a votação em separado da Emenda nº 4.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e3efffd23ae66cd078925680c54c3ae81e0e020ff18ff64eedad7ecd54d64fd
+size 110

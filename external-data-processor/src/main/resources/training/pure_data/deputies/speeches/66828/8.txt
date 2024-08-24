@@ -1,1 +1,3 @@
-Defesa de manutenção do texto na votação do próximo item da pauta. Congratulações ao Ministro da Fazenda, Joaquim Levy, e ao Relator da matéria, Leonardo Picciani, pela apresentação de proposta destinada ao combate ao subfaturamento e à sonegação indireta de impostos por empresas estrangeiras produtoras de bebidas não alcoólicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8933e8536a705d6280e726d66cfae48d423d31ffac6723b55cde0f6dc041863f
+size 346

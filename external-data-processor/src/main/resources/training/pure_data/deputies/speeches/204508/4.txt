@@ -1,1 +1,3 @@
-Protesto contra a retirada de pauta de projetos de lei apresentados pela CPI destinada à investigação das causas e responsabilidades pelo rompimento de barragem de rejeitos da empresa Vale no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:453e5ef07ab0c11e0dc3001778cc819539c68ca7fd82ed28e1b8eb518f2f4a4f
+size 244

@@ -1,1 +1,3 @@
-Aplausos ao Deputado Marcelo Freixo pelo discurso proferido a favor da reestruturação do Município do Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9310f1fbdbe046456dfe663aa83105aab37fcd0c52682af8797bc7e08b61de5e
+size 146

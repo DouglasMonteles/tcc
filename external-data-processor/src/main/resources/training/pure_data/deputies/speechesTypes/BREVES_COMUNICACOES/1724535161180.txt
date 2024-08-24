@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios sob o tema Pacto Federativo: um olhar para o futuro. Reclamação geral dos gestores municipais contra o ex-Presidente Jair Bolsonaro. Expectativa quanto à devolução, pelo ex-Presidente da República, de joias sauditas destinadas ao Estado brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c7ee2e19de61e6b1535c45231797c6e51601e2c66832246ab102802e5edbac5
+size 320

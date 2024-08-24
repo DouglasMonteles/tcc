@@ -1,1 +1,3 @@
-Confiança no sucesso da realização no Brasil da Copa do Mundo de Futebol de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4d5dacd5e1f686ecc035b2e04a44f3150b317646080131ee90daabd27f920b9
+size 84

@@ -1,1 +1,3 @@
-Incompetência do Presidente Jair Bolsonaro, demonstrada no pronunciamento à Nação a respeito da pandemia de coronavírus. Falta de condições cognitivas de Jair Bolsonaro para exercício do cargo de Presidente da República. Apelo aos Presidentes da Câmara dos Deputados, do Senado Federal e do Supremo Tribunal Federal por promoção de ações contra o coronavírus e pela governança do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abb0847f190bcb75deb6c135b0cd430041bd498361c42235a96c3c56f5650838
+size 402

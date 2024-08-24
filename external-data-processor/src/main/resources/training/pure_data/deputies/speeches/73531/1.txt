@@ -1,1 +1,3 @@
-Descaso da gestão estadual do PSDB com o sistema metropolitano de transportes na Grande São Paulo. Protesto contra a pretendida privatização de estatais pelo Governador José Serra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79ce3f669ffc7ad1a541a38c7848955fea4764d948aea7091dd2de023a7b9c93
+size 185

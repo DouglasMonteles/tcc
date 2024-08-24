@@ -1,1 +1,3 @@
-Defesa de realização das reformas previdenciária e tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b5bea3003e2c3ebc06f29dfb4a06bdd661713309dba828510a9a4941f09f31f
+size 66

@@ -1,1 +1,3 @@
-Solicitação ao Governo Federal de não contingenciamento de recursos orçamentários destinados à  agricultura familiar e à reforma agrária. Solidariedade a reivindicações de servidores do Instituto Nacional de Colonização e Reforma Agrária - INCRA. Apoio do PT ao aperfeiçoamento da transparência do sistema eletrônico de urnas utilizado nas eleições brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68cd99ec01989fb2636a70c46da7f8933095bc55af22ea5495d05aec6ff7663c
+size 379

@@ -1,1 +1,3 @@
-Danos causados pelas chuvas intensas no Estado do Piauí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f2fbab5cdc0d726bc036a9c6bf748394d1955d152e95ecafbd33df5534a2e19
+size 57

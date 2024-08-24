@@ -1,1 +1,3 @@
-Construção de moradias para a população de baixa renda no Governo Jair Bolsonaro, por meio do Programa Casa Verde Amarela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f182a60b529f85715238ff7b24958b7b6879a2192334f1c106985135bad5e96e
+size 126

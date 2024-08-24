@@ -1,1 +1,3 @@
-Associação aos discursos da bancada federal nordestina, em repúdio ao adiamento da votação da Medida Provisória nº 565, de 2012, a respeito da renegociação de dívidas dos pequenos produtores rurais e de outros temas. Realização da reforma política com ênfase na coincidência de pleitos eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f42dee8b519449729e5a994174ef8ea0332320d582d4e5cd8470d3886f51a382
+size 312

@@ -1,1 +1,3 @@
-Concessão de prêmio ao orador pela Federação das Empresas de Transporte de Cargas do Estado de São Paulo - FETCESP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e6a65f52254072791ff08b3dd7b30dca27b9bd931e57136ddf2c41f74ff3a81
+size 120

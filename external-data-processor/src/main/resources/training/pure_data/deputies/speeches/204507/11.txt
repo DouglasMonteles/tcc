@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado do § 1º do art. 2º da Subemenda Substitutiva Global oferecida ao Projeto de Lei nº 4.742-A, de 2001, sobre a tipificação do crime de assédio moral, com vistas à sua supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:015e6d40a65973530f5e51071e0501e9b466f52786182ab5ada09e22263733a9
+size 267

@@ -1,1 +1,3 @@
-Apoio à aprovação do Projeto de Lei nº 1.562, de 2020, relativo à alteração da Lei nº 13.979, de 2020, com vista à obrigatoriedade do uso de máscaras para circulação em locais públicos, durante a vigência das medidas de enfrentamento da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e657abf8fbb4f07466f3c165973d401668976aa92ee740938981cfe893852f3c
+size 276

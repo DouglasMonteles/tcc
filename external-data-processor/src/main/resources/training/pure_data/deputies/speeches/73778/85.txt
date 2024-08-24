@@ -1,1 +1,3 @@
-Transcurso do 71º aniversário da Federação Paranaense de Futebol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f36521f04ea25180fc4cb4367ab3881a6cd40389d054be8efc046d07783af731
+size 69

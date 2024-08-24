@@ -1,1 +1,3 @@
-Transcurso do 150º aniversário de fundação da Santa Casa de Misericórdia no Município de Recife, Estado de Pernambuco. Relevância dos serviços prestados pela instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d22c2bde9e1e6aef6408326ca7304b2b51866d67eb94db0a6f543840d5dc6ef
+size 180

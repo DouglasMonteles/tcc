@@ -1,1 +1,3 @@
-Celebração de convênio entre o Ministério da Integração Nacional e o Governo do Estado da Bahia para a construção da Adutora do Algodão no Município de Guanambi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:092bfe1f832291bf15945f717bea77f124926cac41fe82757ff39527573f9ccc
+size 171

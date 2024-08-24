@@ -1,1 +1,3 @@
-Orientação de bancada na votação dos arts. de nºs 1º a 6º, com parecer favorável, do Substitutivo do Senado Federal ao Projeto de Lei nº 1.374, de 2021, sobre a instituição do auxílio gás social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce99441451fa93007b6a41fdfe2edb843793f5e54bd321ca3d550130b929c33f
+size 208

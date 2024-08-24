@@ -1,1 +1,3 @@
-Agradecimento aos Senadores, em especial ao Senador Heráclito Fortes, pela aprovação da proposta de reestruturação da carreira dos servidores da Câmara dos Deputados. Apelo ao Presidente Luiz Inácio Lula da Silva de sanção da matéria. Necessidade de concessão de reajuste salarial aos servidores comissionados da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49065c1e265b6f6ceffdd5224c02920c7d0a2af110fd246b0d3f7f5fc1e4314b
+size 329

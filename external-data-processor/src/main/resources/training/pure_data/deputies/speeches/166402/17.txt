@@ -1,1 +1,3 @@
-Repúdio a declarações da ex-Senadora Marina Silva contra a atuação parlamentar do Deputado Ronaldo Caiado em defesa dos agropecuaristas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbda3ce939d1183386f8a0f3952669498bdb6085feaf40d9bd4f268ea6320108
+size 141

@@ -1,1 +1,3 @@
-Posicionamento favorável do PSC   ao Projeto de Resolução 121 de 2012(Dispõe sobre jornada de trabalho dos servidores da Câmara dos Deputados em órgãos cujos serviços exigem atividade ininterruptas).
+version https://git-lfs.github.com/spec/v1
+oid sha256:18ccfce738a0da3f097dffe9214614527743c388e7b94a409742b07a0c42a5d9
+size 207

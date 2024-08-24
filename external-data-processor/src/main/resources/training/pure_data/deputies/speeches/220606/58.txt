@@ -1,1 +1,3 @@
-Queda dos índices inflacionários. Reportagem veiculada pelo jornal Folha de S.Paulo, a respeito da privatização da ELETROBRAS. Transcurso do 25º aniversário de criação da empresa Petrobrás Transporte S/A - Transpetro. Pronunciamento do Presidente da Transpetro, Sérgio Bacci, acerca do futuro da empresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a94063e058b0bc61ec5e8e8169f96dabe054870e4ca250a5bbb7058a1187f4c
+size 314

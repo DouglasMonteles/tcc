@@ -1,1 +1,3 @@
-Solicitação ao Secretário de Logística e Transportes do Estado de São Paulo de recuperação e duplicação da Rodovia Raposo Tavares entre os Municípios de Ourinhos e Piraju, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a656ddbd77453f42b19e702d74234390b1bf8d4a5ee2d3184e42d2e143de5ee
+size 203

@@ -1,1 +1,3 @@
-Repúdio às agressões praticadas pela Polícia Militar, a mando do Governador Flávio Dino, contra participantes em  manifestação a favor da restauração da MA-006, no Município de Formosa da Serra Negra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9a76f37c99018379dadfa31ede646ff31798f3bf95dbcd1ea6ebcaf15a0702b
+size 210

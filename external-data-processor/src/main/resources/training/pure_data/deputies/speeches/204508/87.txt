@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição nº 5, de 2021, sobre a alteração da composição do Conselho Nacional do Ministério Público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5855042d746048726db92b9c72cbf8082069b96899c47b9a19e670785cc709b1
+size 211

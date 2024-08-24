@@ -1,1 +1,3 @@
-Diferenças entre os currículos dos pré-candidatos à sucessão presidencial, Dilma Rousseff e José Serra. Repúdio à atuação do Partido dos Trabalhadores - PT. Utilização da máquina pública na campanha eleitoral da ex-Ministra Dilma Rousseff. Excesso de viagens realizadas pelo Presidente Luiz Inácio Lula da Silva. Escândalos ocorridos no Governo petista. Natureza publicitária de programas do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c5f4c689da3583fcb84f75643b32ce7187e37f18a89c217d116a3a4c9565319
+size 425

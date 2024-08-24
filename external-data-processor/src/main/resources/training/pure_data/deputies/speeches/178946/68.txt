@@ -1,1 +1,3 @@
-Transcurso do Dia do Advogado. Satisfação com a prisão de pedófilos pela Polícia Federal no Distrito Federal e no Estado de Goiás. Encaminhamento ao Ministro da Educação de denúncia de professor de Palmas, Estado de Tocantins, em audiência pública realizada pela Coordenadoria dos Direitos da Mulher da Câmara dos Deputados, sobre a indicação pelo livro educacional Portas Abertas de portal com informações a respeito da prática de sexo inapropriadas para crianças.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eb1a09590fe246b981c6e833e99f11b9affe90a50a4fa458a7de8e6087d4370
+size 483

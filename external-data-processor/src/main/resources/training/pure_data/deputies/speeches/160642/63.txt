@@ -1,1 +1,3 @@
-Congratulações ao Presidente Henrique Eduardo Alves pela condução dos trabalhos da Casa. Contentamento com a decisão da Presidência de concessão de urgência para matéria que facilita a emancipação de Distritos em Municípios, ouvido o Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba8a0f4963ebf47322169fb9af5d581d44efa78384d5ea6dcc8eea5bcbbe7b9b
+size 256

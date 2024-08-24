@@ -1,1 +1,3 @@
-Repúdio aos debates agressivos ocorridos no plenário. Manifestação de votos de sucesso ao Governador do Estado do Rio de Janeiro, Cláudio Castro. Reconstrução do Brasil pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e62d314273c7bbcdcf29efdb268870039743b4c6925485f74ad4583b42d5e3
+size 219

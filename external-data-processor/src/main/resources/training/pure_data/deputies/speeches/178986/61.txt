@@ -1,1 +1,3 @@
-Protocolização pelo orador de questão de ordem junto à Mesa da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:950a481f20d1e55bdf5350c48a7b8778c1460fa9cda313e8463762a445f7a846
+size 89

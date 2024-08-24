@@ -1,1 +1,3 @@
-Prisão da Profa. Camila Marques, do Instituto Federal de Educação, Ciência e Tecnologia, em face da denúncia de difusão da cultura marxista no âmbito da instituição, no Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f37f9cfa9188bfbe1136285de129397193f9ede7268362396fe0e7f8df88c935
+size 195

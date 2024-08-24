@@ -1,1 +1,3 @@
-Descompasso entre a distribuição, pela empresa Petróleo Brasileiro S/A - PETROBRAS, de vultosos dividendos aos seus acionistas e o quadro de fome, caristia, desemprego e arrocho salarial vigente no País. Reexame da política de dolarização dos preços de combustíveis adotada pela estatal. Defesa de votação pela Casa do Projeto de Lei Complementar nº 73, de 2021, (Projeto Paulo Gustavo), sobre a concessão, pela União, de apoio financeiro aos Estados, ao Distrito Federal e aos Municípios para garantia de ações emergenciais destinadas ao setor cultural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3562b1de0f3e76c5b38aa705280160443f50c9020f2f0388cdf16b5b64c27cc
+size 571

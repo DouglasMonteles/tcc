@@ -1,1 +1,3 @@
-Apreensão de alunos com armas brancas em escolas no Estado de Tocantins. Repúdio à pauta da Esquerda para as escolas brasileiras, com base na retirada do ensino religioso, na implantação da ideologia de gênero e da linguagem neutra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80a19fe421ef1b5a7f2a75ad889342e33846b0f7cfaf5272af03d18c20c35599
+size 238

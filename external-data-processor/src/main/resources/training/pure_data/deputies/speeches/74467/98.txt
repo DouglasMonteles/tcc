@@ -1,1 +1,3 @@
-Agradecimentos pela aprovação do projeto de decreto legislativo sobre a sustação de efeitos da resolução do Tribunal Superior Eleitoral acerca da composição numérica da Câmara dos Deputados, das Assembleias e Câmara Legislativa para as eleições de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df74cda262d4729a3a49ef53a7a110b56e7124b5172ddcdf640e31dccea1b460
+size 266

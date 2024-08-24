@@ -1,1 +1,3 @@
-Resposta à questão de ordem do Deputado Arnaldo Faria de Sá sobre convocação de sessões extraordinárias exclusivamente para apreciação de matérias constantes da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6c1eafeda578a74d0303e20ae2b52beac41688d3fc9dc474736c91930764012
+size 184

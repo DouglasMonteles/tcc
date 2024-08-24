@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 5.829, de 2019, sobre alteração da redação do art. 26 da Lei nº 9.427, de 1996, acerca da instituição da Agência Nacional de Energia Elétrica - ANEEL e do disciplinamento do regime das concessões de serviços públicos de energia elétrica. Transcurso do Dia Internacional da Enfermagem. Apoio ao Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional do Enfermeiro, do Técnico de Enfermagem, do Auxiliar de Enfermagem e da Parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1da68cfccbb7e79649f1bc0586d163e7fec0376024fbfd3e41143f1e2afe899b
+size 516

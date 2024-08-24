@@ -1,1 +1,3 @@
-Crítica à recepção promovida pelo Presidente Luiz Inácio Lula da Silva para o Presidente da Venezuela, Nicolás Maduro, em Brasília, Distrito Federal. Governo ditatorial e desastre socioeconômico da gestão de Nicolás Maduro. Expectativa de adoção de providências pelo Presidente do Senado Federal, Rodrigo Pacheco, para apreciação de pedidos de impeachment de Ministros do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:077b5a5e2cdaeface4f8f0da186942ed718473650fb0e5430a80911ea852c27a
+size 412

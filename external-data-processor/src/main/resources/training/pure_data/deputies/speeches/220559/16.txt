@@ -1,1 +1,3 @@
-Perplexidade ante a inversão da narrativa dos Parlamentares da Esquerda, com relação à CPMI destinada à investigação dos atos de vandalismo praticados contra as sedes dos Poderes da República. Defesa de rejeição do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a33c1c6d3bc82a3f1a1b14608c81ea59d09106e28f592693cec24cd22c994fb8
+size 391

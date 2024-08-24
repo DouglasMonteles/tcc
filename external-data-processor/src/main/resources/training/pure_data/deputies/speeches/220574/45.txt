@@ -1,1 +1,3 @@
-Desequilíbrio do Presidente Luiz Inácio Lula da Silva. Crise socioeconômica gerada pelo governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf0fd22cb6cc8fc29864767cbfe735ec182c12a919afd4690b271b0793eaa35a
+size 107

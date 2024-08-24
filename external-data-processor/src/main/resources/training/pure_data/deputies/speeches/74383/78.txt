@@ -1,1 +1,3 @@
-Presença, nas galerias do plenário, de jovens integrantes do programa Estágio Participação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d5b0ef2208e1003c4814acf6aa9cc7798feb755367a5d5075ef24ffb46d4270
+size 96

@@ -1,1 +1,3 @@
-Apelo aos partidos oposicionistas de votação da proposta relativa ao novo Fundo de Financiamento ao Estudante do Ensino Superior - FIES. Transcurso do aniversário de fundação do Município de Bom Sucesso, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43895c30b6b88581f14a39bf3e75043d1e9557375aa4569a4f569095b356cddb
+size 233

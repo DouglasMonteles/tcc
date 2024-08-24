@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 2.695, de 2021, sobre a denominação do Aeroporto Internacional de Campo Grande, no Estado de Mato Grosso do Sul, de Aeroporto Internacional de Campo Grande - Ueze Elias Zahran.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f98babdd41de95c9fe439e59448276368e7a4af0fda8fcaa20654561d407693e
+size 220

@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre o acordo para suspensão da obstrução das votações e sobre a não-convocação de sessão extraordinária no dia 12 de março de 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18e35ca7366c0afcd346f058991bbe0400e6797ebcdce39cce1b697559746e52
+size 172

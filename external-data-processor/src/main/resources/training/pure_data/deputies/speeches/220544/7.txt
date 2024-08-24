@@ -1,1 +1,3 @@
-Parecer, pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização,  ao Projeto de Lei 31 de 2009-CN (Abre ao Orçamento Fiscal da União crédito especial em favor do Ministério dos Transportes para os fins que especifica , e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:680f152d976fe2d4176fb11dd6eb24cbc2514e4b844a474828455078f5d7d846
+size 267

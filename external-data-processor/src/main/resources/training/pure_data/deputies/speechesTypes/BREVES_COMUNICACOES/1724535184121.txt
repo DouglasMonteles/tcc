@@ -1,1 +1,3 @@
-Indignação do orador com o não comparecimento do Procurador da República, Deltan Dallagnol, à Câmara dos Deputados para esclarecimento de diálogos escusos divulgados pelo site The Intercept Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de1b0675715dd0c04bed240d86f2b3c743e73bf768521989e8378ed5fc984b56
+size 204

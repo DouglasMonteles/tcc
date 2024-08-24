@@ -1,1 +1,3 @@
-Questionamento da relevância do anúncio, pelo Governo Luiz Inácio Lula da Silva, da existência de recursos para pagamento da dívida externa, ante a permanência da dívida interna. Defesa do acolhimento, pelo Governo Federal, de proposta de reforma tributária de autoria do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a05e913edd67fc953b0d5ddcb6c9c7f9bc5652d91d9bea51db40629e0874d61
+size 287

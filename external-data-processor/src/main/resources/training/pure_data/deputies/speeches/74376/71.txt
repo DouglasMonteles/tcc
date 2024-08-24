@@ -1,1 +1,3 @@
-Homenagem póstuma à Profa. Irene Cicalise, do Município de Aquidauana, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad2445f94557c475ea15a4317706cef0292a892ed73deec0688642c17033469e
+size 103

@@ -1,1 +1,3 @@
-Defesa de aprovação de  medida provisória que garante a  implantação dos serviços de Internet banda larga nas escolas públicas brasileiras. Conveniência de aprovação do projeto de lei sobre a extinção da assinatura básica da telefonia fixa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adde296e1a48907c050b74bd52eb6ac9732b93a88ccc0cbbcb2f8655b4120f46
+size 253

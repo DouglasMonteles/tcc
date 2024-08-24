@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda de Plenário nº 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b723d9f92cfc3af7fe8a075821b6393b22decf78cf2ad6175d7431583406f34f
+size 67

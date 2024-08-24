@@ -1,1 +1,3 @@
-Conveniência de adiamento da votação da Proposta de Emenda à Constituição nº 45, de 2019, a sobre a alteração do Sistema Tributário Nacional, com vista à ampliação do debate em torno da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66086a59dbd88ea8b57b0331b226ac9b656eb66b45e8847919f941c65ee543dc
+size 211

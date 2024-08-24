@@ -1,1 +1,3 @@
-Participação em seminário sobre o Código Florestal Brasileiro, promovido pela Frente Parlamentar Ambientalista em conjunto com o instituto O Direito por um Planeta Verde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5da292e196f28c05f39a9a8481c9a352775be2b63ec212666f56e901f4188aac
+size 174

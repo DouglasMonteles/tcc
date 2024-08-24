@@ -1,1 +1,3 @@
-Transferência de empresas brasileiras para o exterior. Perda de  competitividade da indústria nacional. Inadmissibilidade de implantação, pelo Governo Federal, de plano de utilização do extrativismo no combate à pobreza extrema, para fins políticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a67284ca05d42f5bd5c9a85a433b84585ba80d2bfe59bd9c0c89585e541d5e5
+size 257

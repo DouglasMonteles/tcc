@@ -1,1 +1,3 @@
-Comemoração do Dia da Bandeira. Manifesto encaminhado ao orador pelo Presidente do Movimento Nacional PEC-300. Defesa de aprovação pela Casa da Proposta de Emenda à Constituição nº 300, de 2008. Balanço da atuação parlamentar do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17abfa6073c4c1dae0e8470d200f1347f573b6cbf665554322468c273af5ac87
+size 247

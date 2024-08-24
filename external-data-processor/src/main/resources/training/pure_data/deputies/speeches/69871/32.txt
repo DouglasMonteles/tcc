@@ -1,1 +1,3 @@
-Realização de manifestações populares no País. Congratulação ao Presidente Andre Vargas e ao Presidente do Congresso Nacional, Senador Renan Calheiros, pela atuação durante os protestos. Maior atenção pelos Parlamentares para as reivindicações da população brasileira. Importância da realização da Copa do Mundo de Futebol 2014 no País. Avanços socioeconômicos do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:800ba821ce4ae8c147a002418ba1f7ceb34de29b0ace5a6902b858f393bc24b5
+size 391

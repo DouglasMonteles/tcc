@@ -1,1 +1,3 @@
-Indignação com a convocação de sessões plenárias improdutivas e seus custos. Posicionamento da maioria do PHS favorável à investigação de denúncia do Ministério Público contra o Presidente Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4251396d6fab8e7e3ce580d812675a0a9b97ad407be889b89c0282528d85710
+size 215

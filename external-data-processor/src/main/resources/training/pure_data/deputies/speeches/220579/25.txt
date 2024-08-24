@@ -1,1 +1,3 @@
-A Deputada manifestou seu voto favorável ao Projeto de Lei nº 2.975, de 2023, que introduz a situação específica da mulher indígena na legislação de enfrentamento da violência e de promoção da saúde e da educação. Ademais, denunciou as barreiras enfrentadas pelas mulheres indígenas em relação à proteção contra a violência e ao acesso ao sistema de segurança pública. Além disso, criticou a aplicação distorcida do art. 231 da Constituição Federal, que visa preservar a cultura indígena, falhando em proteger as mulheres indígenas de abusos, incluindo estupro coletivo e violência doméstica. Por fim, manifestou a necessidade de preservar a vida e a segurança da mulher indígena, que merece ser protegida inclusive de outros indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a510ffd0027d5e03cf64b7147aa77949c730126dd8748747295a99bc0f56a4b1
+size 771

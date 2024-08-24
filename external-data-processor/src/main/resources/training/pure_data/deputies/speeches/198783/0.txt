@@ -1,1 +1,3 @@
-Homenagem ao povo e políticos do Estado de Mato Grosso, especialmente ao ex-Deputado Emanuel Pinheiro da Silva Primo. Principais bandeiras da atuação política do orador no exercício do mandato parlamentar. Agradecimento pelos votos recebidos nas últimas eleições para a Câmara dos Deputados. Inauguração do novo Hospital Municipal de Cuiabá, no Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a02fcc5461ee3a6139363cbbe84df5d3adc82ce8e5f79706ced14070639abf87
+size 379

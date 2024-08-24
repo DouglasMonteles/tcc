@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional de Luta contra a LGBTfobia. Avanços da luta contra preconceitos e discriminações da comunidade homossexual. Liderança do País no ranking mundial de assassinatos de pessoas LGBT. Importância da eleição de candidatos homossexuais no pleito de 2022, e de rejeição de candidaturas homofóbicas. Compromisso da oradora com a causa LGBT. Criminalização da LGBTfobia no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c1463b8e069889aa7b7f1b190f79ba5a13d29016a19bb12a45ff98aa8c3d9a4
+size 413

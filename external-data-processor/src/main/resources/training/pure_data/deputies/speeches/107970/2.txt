@@ -1,1 +1,3 @@
-Lançamento do Pacto pela Alfabetização pelo Prefeito Odelmo Leão, do Município de Uberlândia, Estado de Minas Gerais. Relevância do Programa Saúde Escolar e do Programa Escola Bem Arrumada implantados na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e60b1bf84d66a206b7aeefec3a87b4abaa58272530267d56f039e7a7a66c207
+size 227

@@ -1,1 +1,3 @@
-Pedido à Casa de aprovação do requerimento de tramitação em regime de urgência do Projeto de Lei nº 2.952, de 2022, sobre a instituição da Política Nacional de Prevenção e Controle do Câncer no âmbito do Sistema Único de Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64ea1f4d842d31c7c85561e00ea04dea42da574c25e1f0f37cd024b1e98b5c34
+size 243

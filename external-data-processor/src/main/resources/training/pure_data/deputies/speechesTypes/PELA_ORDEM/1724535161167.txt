@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Cleber Verde diante do assassinato dos seus pais, e ao Deputado Estadual do Maranhão, Arnaldo Melo, pelo falecimento de sua filha, Mariana Melo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1948a91992776c937b56264bea76e6e0866430a29ac7f37fe8c078aa65a7ab2
+size 171

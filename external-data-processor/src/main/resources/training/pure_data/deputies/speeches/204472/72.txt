@@ -1,1 +1,3 @@
-Importância de aprovação do Projeto de Lei nº 1.292, de 1995, sobre a alteração da Lei nº 8.666, de 1993, acerca das normas de licitações e contratos da administração pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cdc48379ce99fea4620cdfb6ac8aae8edf37fc0e615dc26286cfc6455feadcd
+size 187

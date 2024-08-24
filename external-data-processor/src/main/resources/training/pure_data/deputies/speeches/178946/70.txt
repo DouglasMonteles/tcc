@@ -1,1 +1,3 @@
-Defesa de votação das matérias constantes na pauta. Elogio ao Senador Valdir Raupp pelo empenho nas votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcf95bdafd0809c6417c292ce992af48c590078bfe62014186b250fc4b47cafe
+size 114

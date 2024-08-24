@@ -1,1 +1,3 @@
-Regozijo com aprovação da medida provisória sobre o reajuste do valor do salário mínimo. Publicação do estudo Políticas para a expansão da cobertura dos trabalhadores e trabalhadoras domésticas: a experiência do Brasil, de autoria da jornalista Mônica Cabañas Guimarães.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32c9b099a3441cf7d291801ec2a8ac0aeb64f3cbeb986d8ac49460ef599615a6
+size 284

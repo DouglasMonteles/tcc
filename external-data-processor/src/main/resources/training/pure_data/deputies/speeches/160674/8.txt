@@ -1,1 +1,3 @@
-Greve de médicos do Hospital Regional de Patos, Estado da Paraíba. Apelo ao Governo Estadual no sentido da abertura de negociações com a categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:358af2a5247730c36b0789d910c12affad960cd762f9409f8e07d0e5926b025c
+size 151

@@ -1,1 +1,3 @@
-Não aquisição de misoprostol pelo Ministério a Saúde, medicamento de uso obrigatório em procedimentos obstétricos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ab3e1f2033702a94bc839b406c5dfba95a44b3cd14e9bf5101b0d7705266cda
+size 121

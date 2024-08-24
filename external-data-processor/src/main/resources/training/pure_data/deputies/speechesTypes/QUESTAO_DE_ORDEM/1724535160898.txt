@@ -1,1 +1,3 @@
-Questão de ordem sobre o cumprimento da ordem de votação das matérias constantes na pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:415874ccc1919c12f662df9443432bb601a5e80288600d3651687d6b642c0d17
+size 94

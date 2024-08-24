@@ -1,1 +1,3 @@
-Importância de alteração da sistemática de distribuição de royalties do petróleo para a redução das desigualdades regionais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:852c0963e74e98fb9507c39b869c5612ff6ae0d83a88d2af1642bb8577a87707
+size 145

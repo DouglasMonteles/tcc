@@ -1,1 +1,3 @@
-Matéria dos jornalistas Herbert Araújo e Cristina Fernandes sobre a violência doméstica contra a mulher, publicada pelo jornal Correio da Paraíba. Manifestação do Padre Djacy Brasileiro sobre isolamento dos municípios paraibanos de Santa Cruz e São Francisco em decorrência das enchentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de7697ad301ad63494a304303f61824f548bb0ea86c19c8cd26f88e584a22491
+size 298

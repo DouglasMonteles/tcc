@@ -1,1 +1,3 @@
-Perplexidade do País diante da trágica morte de menina de 3 anos em decorrência de atropelamento por jet-ski na Praia de Bertioga, no litoral paulista. Anúncio de apresentação de projeto de lei proibitivo do tráfego de embarcações motoaquáticas na orla de praias, lagoas e represas com grande concentração de banhistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d836ad422cda815ec1cf98fedc91bd84f23b89fce446e594e1ec6f897bfdb89
+size 331

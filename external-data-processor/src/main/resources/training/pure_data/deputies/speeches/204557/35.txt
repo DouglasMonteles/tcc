@@ -1,1 +1,3 @@
-Suspensão  de voos no Estado do Amazonas pela empresa Passaredo Linhas Aéreas. Necessidade de manifestação da Agência Nacional de Aviação Civil sobre o caso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5bfd0cdfb6c43adae4350252af4119812799aceb5c7c65f720b9612cd03c5b2
+size 164

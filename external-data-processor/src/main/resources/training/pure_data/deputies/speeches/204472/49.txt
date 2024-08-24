@@ -1,1 +1,3 @@
-Contestação ao discurso proferido pelo Líder do PSOL a respeito do transporte de cocaína em aeronave da comitiva presidencial. Apoio à atuação do Ministro do Meio Ambiente, Ricardo Salles. Repúdio ao discurso dos partidos oposicionistas sobre a questão ambiental. Ligação umbilical do jornalista Glenn Greenwald com o PT e o PSOL. Perplexidade ante os discursos a favor do afastamento do Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a74c716df89131213dc48836fffe804e5b68b9982c5d99fa1bdc9a62b5c9e82
+size 456

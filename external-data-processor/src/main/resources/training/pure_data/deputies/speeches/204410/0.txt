@@ -1,1 +1,3 @@
-Renovação da representatividade na Câmara dos Deputados. Defesa da realização de investimentos nas áreas de educação, ciência, tecnologia, inovação e pesquisa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e853d6f22527b838e1ab17daf9b19a1320668eb0bd1dc628143b1335317ac43f
+size 170

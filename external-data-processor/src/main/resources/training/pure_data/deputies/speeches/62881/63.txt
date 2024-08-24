@@ -1,1 +1,3 @@
-Aprovação, pela Ordem dos Advogados do Brasil - OAB, Seccional Ceará, de requerimento a favor da implantação do curso de Música nas escolas de ensino fundamental. Acerto do lançamento pelo Governo Federal do Plano Brasil Maior, destinado à recuperação da economia nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55effb00bc661919a563faeb4b6951be3cdcb8169b4b5b96261c3ceb06157e06
+size 283

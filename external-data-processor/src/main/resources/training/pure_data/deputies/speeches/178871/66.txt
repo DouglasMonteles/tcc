@@ -1,1 +1,3 @@
-Homenagem à memória do Herói da Pátria Domingos José Martins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eac7542c4ba87482673701eddf1e1649ccc9a35464cc73662c44d7fd027809be
+size 66

@@ -1,1 +1,3 @@
-Transcurso do 32º aniversário de emancipação político-administrativa do Município de Quiterianópolis, Estado do Ceará. Considerações sobre as áreas de educação e saúde da municipalidade. Agradecimentos do orador pelos votos recebidos da população quiterianopolense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:617c5789d48d3056a18dac3a66a78cf5d22328e2fc60c28e070fb9691b849aef
+size 281

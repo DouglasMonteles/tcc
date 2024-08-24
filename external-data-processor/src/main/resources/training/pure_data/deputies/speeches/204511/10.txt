@@ -1,1 +1,3 @@
-Reflexo do desmatamento da região amazônica sobre São Paulo, Estado de São Paulo. Anúncio de implantação, em São Paulo, de lei sobre a obrigatoriedade de instalação em parques municipais de equipamentos de acessibilidade destinados aos portadores de deficiência, originária de projeto de lei apresentado pelo orador na condição de Edil. Aprovação, pela Câmara de Vereadores de São Paulo, de projeto de lei de autoria do Parlamentar sobre a obrigatoriedade de utilização de motores elétrico-híbridos por 80% da frota de ônibus na Capital paulistana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d8834948cc436193c1e2cba17beef6bceb1b69b2a7f2010cd710e85b6c506ec
+size 571

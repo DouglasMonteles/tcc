@@ -1,1 +1,3 @@
-Transferência de atribuições e competências do Ministério do Trabalho e Emprego para outros órgãos públicos. Protesto contra a morosidade na nomeação do novo Titular da Pasta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c1dec51d7a2c2dad7805e9781a38178aea0990aa936de82f2a9fe89d52d089c
+size 185

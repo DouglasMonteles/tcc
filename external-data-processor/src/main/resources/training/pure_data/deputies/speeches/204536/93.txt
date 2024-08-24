@@ -1,1 +1,3 @@
-Encaminhamento da votação do parecer da Comissão Mista, quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária da Medida Provisória nº 971, de 2020, sobre a remuneração da Polícia Militar, do Corpo de  Bombeiros Militar e da Polícia Civil do Distrito Federal, bem como da Polícia Militar e do Corpo de Bombeiros Militar dos ex-Territórios Federais; e a alteração das regras de cessão de policiais militares, bombeiros militares e policiais civis do Distrito Federal. Protesto contra a não inclusão de servidores dos Poderes Legislativo e Judiciário na proposta de reforma administrativa, encaminhada ao Congresso Nacional pelo Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a39b87bef9e451a84debbdee6c25d327e0408a238ec2fa84c7ed47ab8b66790a
+size 736

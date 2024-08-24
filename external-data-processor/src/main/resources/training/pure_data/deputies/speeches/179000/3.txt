@@ -1,1 +1,3 @@
-Transcurso do 118º aniversário de Belo Horizonte, Estado de Minas Gerais. Anúncio da inauguração do Hospital Metropolitano Doutor Célio de Castro, na região do Barreiro, na capital mineira. Agradecimentos ao Prefeito Márcio Lacerda por investimentos na área da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d000286c3d9364ac37377cfb13074792cc155ce989d06d511616d420f2c8a735
+size 277

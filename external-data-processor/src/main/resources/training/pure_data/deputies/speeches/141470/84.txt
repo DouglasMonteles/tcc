@@ -1,1 +1,3 @@
-Realização da Festa do Pau da Bandeira 2009, no Município de Barbalha, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:639ca572b3fa256a71288a43bd6bb08da39da5d07376121563d19a3607e76f99
+size 91

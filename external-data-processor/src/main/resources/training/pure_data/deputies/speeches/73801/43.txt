@@ -1,1 +1,3 @@
-Conveniência da apresentação de emenda de redação ao texto do Projeto de Lei nº 4.121, de 2019, sobre o estabelecimento de limite de gastos de campanha nas eleições municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:218ddfb3e68e89603a8316b1ff33e9213afaf2650eb0c1da49eb6fbfc8dbf53d
+size 184

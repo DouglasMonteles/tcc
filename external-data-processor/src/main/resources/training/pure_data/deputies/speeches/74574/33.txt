@@ -1,1 +1,3 @@
-Agradecimentos à Presidenta Dilma Rousseff pela prorrogação dos débitos dos produtores rurais do Estado da Bahia e da Região Nordeste pelo prazo de 3 anos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbddaaa4f793c904ab9b11c57ba760a8843f1b59982c5d724d2f47500f3c335c
+size 160

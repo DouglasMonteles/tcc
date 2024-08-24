@@ -1,1 +1,3 @@
-Recusa pelo Governador do Estado de São Paulo, Tarcísio Gomes de Freitas, à adesão ao Programa Nacional do Livro e do Material Didático.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d549234d4d7a47b0c50dbe008ca40363fa288a1f3925374f67ff129fe849eaa4
+size 141

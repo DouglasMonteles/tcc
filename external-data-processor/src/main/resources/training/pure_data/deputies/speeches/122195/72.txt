@@ -1,1 +1,3 @@
-Falecimento do fundador do Partido Social Cristão - PSC no Município de Sousa, Estado da Paraíba, Francisco Vieira de Figueiredo, conhecido por Chico de Josias. Nota do PSC de pesar pelo passamento do militante político.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe564d278dc82436bb7ccbda3a460c0505a63ba1681884d77eb5e5cc72e9271b
+size 224

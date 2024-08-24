@@ -1,1 +1,3 @@
-Destinação pelo orador de recursos de emendas orçamentárias às áreas de educação, saúde, infraestrutura, esporte e lazer da região norte de Minas Gerais. Inadmissibilidade de recondução do PT ao Governo do Estado. Saneamento das finanças pelo Governador Romeu Zema. Apoio à reeleição do gestor estadual e do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:457fc80578afe86926fcf22e0410fed245bf6c28aa9a872221cff182f34ef185
+size 350

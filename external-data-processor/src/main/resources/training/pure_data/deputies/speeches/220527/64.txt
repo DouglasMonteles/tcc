@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.825, de 2023, que cria a Semana Cultural Interescolar nas escolas de ensino fundamental e médio de todo o território nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10788dc535ffde49218cc84151c259025a0daac7d8d905939c03f3836447c46e
+size 250

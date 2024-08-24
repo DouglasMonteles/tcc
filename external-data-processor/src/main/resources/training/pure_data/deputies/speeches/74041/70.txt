@@ -1,1 +1,3 @@
-Entrevista concedida ao informativo Em Questão pelo Presidente da FUNAI, Márcio Meira, sobre a ocupação da reserva indígena Raposa Serra do Sol por produtores de arroz. Competência da União para a demarcação de terras indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:811ed13eff97fe9362e4e46054de91a8514200d3b83c58e92a8d47bf1a087fd9
+size 238

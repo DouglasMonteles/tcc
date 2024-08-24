@@ -1,1 +1,3 @@
-Agradecimento aos participantes na sessão solene. Estreitamento das relações políticas, comerciais e culturais entre o País e o continente africano. Empenho da Casa na inclusão social e no combate a todas as formas de discriminação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1079f0967bed8a6b2ba9af4ace2fb6ba785e0581ea2c9513f3d48f0775418003
+size 240

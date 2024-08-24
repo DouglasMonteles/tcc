@@ -1,1 +1,3 @@
-Homenagem às forças de segurança pública do Estado do Espírito Santo e do País. Concessão de salários dignos aos policiais brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b57beb993412e9212370083f47278240d34c9ff318eeee7ce0b3f787669e3601
+size 143

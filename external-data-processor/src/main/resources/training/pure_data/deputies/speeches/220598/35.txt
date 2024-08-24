@@ -1,1 +1,3 @@
-Presença do Diretor do Museu Nacional, Alexander Wilhelm Armin Kellner, na Câmara dos Deputados.Criação de rubrica orçamentária específica para o Museu Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b91ac0c8240340c921d5c6192a078498569e9b8349cb5dd3620117adefb24ab
+size 168

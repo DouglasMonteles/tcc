@@ -1,1 +1,3 @@
-Gestão caótica do Ministro da Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18367f15d598063ff6565e7ce8379722e406de444aa761a0e861784a08f3a3df
+size 43

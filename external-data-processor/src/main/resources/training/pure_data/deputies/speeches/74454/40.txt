@@ -1,1 +1,3 @@
-Lançamento, pela Conferência Nacional dos Bispos do Brasil, da Campanha da Fraternidade de 2009 sob o tema Fraternidade e Segurança Pública e com o lema A Paz é fruto da Justiça. Aumento de crimes praticados por meio da Internet. Ações do Governador do Estado do Ceará, Cid Gomes, na área de segurança pública. Apoio da Arquidiocese de Fortaleza à Campanha da Fraternidade de 2009. Inauguração pelo Governo do Estado do Ceará dos trechos 2 e 3 do chamado Eixão das Águas. Construção de obras de infraestrutura no Estado. Medidas do Governo estadual para enfrentamento da crise financeira mundial. Comemoração do 165º aniversário de nascimento do Padre Cícero Romão Batista, no Município de Juazeiro do Norte, Estado do Ceará. Perspectiva de reabilitação post-mortem, pelo Vaticano, do Patriarca de Juazeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4254622be61e41b7ddf75308066bd0c912ee0dbfb369c75f2279ac9be708380c
+size 837

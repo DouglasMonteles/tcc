@@ -1,1 +1,3 @@
-Reportagem veiculada pelo programa Bom Dia Brasil, da TV Globo, a respeito do estilo afro cultuado pelo povo baiano. Aprovação pela Casa da proposta de instituição do Programa de Cultura do Trabalhador e de criação do Vale-Cultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:655842e6b5a9dfe5609d65fe49909a3ed3433af18e0ea523dd6f1c8a8ed81e1e
+size 237

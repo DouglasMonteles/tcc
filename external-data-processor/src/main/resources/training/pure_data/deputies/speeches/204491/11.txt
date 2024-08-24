@@ -1,1 +1,3 @@
-Pedido à Relatora Bia Kicis de esclarecimento de dispositivo incluído no parecer apresentado ao Projeto de Lei nº 81, de 2022, sobre o direito da mulher a acompanhante em consultas e exames médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a0343dc9579179e64651b1a267d4ebd8aaab2543afce6a3e3964e933196f54f
+size 202

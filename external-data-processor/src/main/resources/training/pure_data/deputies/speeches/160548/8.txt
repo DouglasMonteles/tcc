@@ -1,1 +1,3 @@
-Importância da aprovação pela Casa do projeto de lei sobre a extensão aos avós do direito de visita aos netos, no caso de separação judicial de seus pais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70ddfa5316b3cad475c0f4277828ecdd6709d6fd53c86c3aeadc2aadbdae6f97
+size 161

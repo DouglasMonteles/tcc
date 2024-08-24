@@ -1,1 +1,3 @@
-Apresentação pelo PT de queixa-crime ao Supremo Tribunal Federal e de Representação ao Conselho de Ética e Decoro Parlamentar contra o Deputado Nikolas Ferreira, em face de discurso transfóbico proferido no plenário. Falso interesse da Oposição na instalação da CPMI destinada à investigação dos atos de vandalismo praticados contra as sedes dos Poderes da República. Apoio à criação de CPI das joias ilegais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea0a10e4dad50f6895ff3af91128fa928d93cc1c95c143b44a4cbfdb7d857a3b
+size 427

@@ -1,1 +1,3 @@
-Lançamento do Programa Brasília sem Miséria pelo Governo Agnelo Queiroz e do Plano Brasil sem Miséria pela Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16f371adeb8a94af1b00cf6eea47f471fbf99836bf450be0b7c3e5269403df5c
+size 137

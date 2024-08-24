@@ -1,1 +1,3 @@
-Defesa do Governador do Estado de Goiás, Marconi Perillo, alvo de aleivosias por Parlamentares da Casa. Saudação ao Deputado Célio Silveira, Presidente da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural. Manifestação de repúdio ao Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7dbd5d9c6865b34fbd7ce4c0a0668b08fc47cf6da6d71fc1e725a47c796c2dc
+size 281

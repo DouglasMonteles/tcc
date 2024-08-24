@@ -1,1 +1,3 @@
-Morte do capitão Anderson Amaro Fernandes durante apresentação da Esquadrilha da Fumaça no Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a772c8d64816fbb817478111a75dc9409dd71d73d2a6e296b708f2195461c436
+size 120

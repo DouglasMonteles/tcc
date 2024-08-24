@@ -1,1 +1,3 @@
-Renegociação de dívidas dos cafeicultores brasileiros junto ao Banco do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1529f6aa5a6211c5b14691663ce85b63f1b99b7a636124272b8cdd4aa3d40e32
+size 82

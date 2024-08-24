@@ -1,1 +1,3 @@
-Urgente inclusão na Ordem do Dia da Medida Provisória nº 545, de 2011, de interesse da cafeicultura nacional. Proposições incluídas na pauta por acordo de Líderes partidários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6ac637e2fcc62d1c8eeb0d1657e0a94832c6f43bc098bdf08c095d1988587a9
+size 183

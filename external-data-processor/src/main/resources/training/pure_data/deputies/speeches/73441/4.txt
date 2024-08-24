@@ -1,1 +1,3 @@
-Acerto da autorização, pelo Ministério da Saúde, da realização de cirurgias de mudança de sexo pelo Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e5ae33f221c2594046053113068b32e41df195ab71113085e33a43ae0e785c7
+size 138

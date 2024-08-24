@@ -1,1 +1,3 @@
-Esclarecimento à Deputada Bia Kicis sobre a absolvição do Presidente Luiz Inácio Lula da Silva pelo Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4408a6a661c1dce0a0b0a9a40fbe3736810a173ac93eb93519257957a06630a7
+size 129

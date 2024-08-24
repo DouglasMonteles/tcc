@@ -1,1 +1,3 @@
-Presença no plenário da Sra. Débora Marques, Secretária de Agricultura, Trabalho e Desenvolvimento Econômico de Cuiabá, Estado de Mato Grosso. Agradecimento à Ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, pela garantia de pagamento da primeira parcela do convênio relativo à construção do galpão do produtor na Baixada Cuiabana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89ea145bb093ff3647a84fbe2f42bdf137df2b295c8c45a55f8b8f76242bb3ad
+size 363

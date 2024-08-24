@@ -1,1 +1,3 @@
-Realização do 14º Grito da Terra  Brasil, no Distrito Federal. Apoio à pauta de reivindicações do movimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d82a8c0d54ab4019f9cd81c4b4158e2ef6bcab0e22d79db114490f4d4a1be8c
+size 114

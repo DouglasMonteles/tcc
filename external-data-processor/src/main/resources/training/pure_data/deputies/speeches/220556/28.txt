@@ -1,1 +1,3 @@
-Relançamento do Programa Mais Médicos pelo Presidente Luiz Inácio Lula da Silva. Incineração, pelo Ministério da Saúde, de grande quantidade de medicamentos com o prazo de validade vencido. Prejuízos causados ao País e à população brasileira pela negligência do governo anterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70924b434ef637a284311cf82b7d4c5f2cd14ef1f624c7513d7f101d514662ba
+size 292

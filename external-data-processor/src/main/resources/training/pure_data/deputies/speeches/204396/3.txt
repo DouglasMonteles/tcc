@@ -1,1 +1,3 @@
-Defesa de preservação da aposentadoria de trabalhadores rurais e do Benefício de Prestação Continuada, no processo de reforma da Previdência Social. Apoio à realização das reformas necessárias para o desenvolvimento do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14c78275cc608df5b4f070f35fc1a8924606a6608b893bdfa8cded0b094b5cc7
+size 235

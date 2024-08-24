@@ -1,1 +1,3 @@
-Realização da 13ª Caminhada Azoany pelos seguidores de religiões de matrizes africanas, em Salvador, Estado da Bahia. Escolha do metrô como modal de transporte público de Salvador pelo Governador Jaques Wagner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2ece05efc0c1df28e9024cf716e88fc6ccc8d3030e12786dbc2c68765557a57
+size 216

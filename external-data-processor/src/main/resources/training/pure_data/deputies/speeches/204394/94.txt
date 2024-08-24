@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em globo da admissibilidade dos requerimentos de destaques simples, apresentados à Proposta de Emenda à Constituição nº 186, de 2019, a chamada PEC Emergencial, sobre a instituição de mecanismos de ajuste fiscal. Realização da reforma tributária. Prorrogação do auxílio emergencial de 600 reais. Postura negacionista do Presidente Jair Bolsonaro com relação à epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70015c064db27d16569085ee547cdd2d9f8f1ecb7010f5f1c242da39d9834be2
+size 470

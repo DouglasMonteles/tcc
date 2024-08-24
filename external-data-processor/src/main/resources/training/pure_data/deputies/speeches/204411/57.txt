@@ -1,1 +1,3 @@
-Transcurso do Dia do Professor. Destinação pelo orador de recursos de emenda orçamentária a Municípios do Estado do Paraná para aquisição de ônibus escolares. Transcurso do Dia da Criança.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2f327a6e32e1117b18531bdd1e532c051453d499ddd8826644d088b5651c67c
+size 198

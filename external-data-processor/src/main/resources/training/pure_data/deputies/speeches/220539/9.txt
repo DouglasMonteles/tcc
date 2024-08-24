@@ -1,1 +1,3 @@
-Contrariedade à pretendida compra, pelo Governo Federal, de energia elétrica da Venezuela para abastecimento do Estado de Roraima.&nbsp;Defesa de conclusão das obras do Linhão de Tucuruí para ligação do Estado ao Sistema Interligado Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e1859dbf8c8d5e76c86ebfd476148500642d23a9d2e71bf4d99190b04f65c93
+size 249

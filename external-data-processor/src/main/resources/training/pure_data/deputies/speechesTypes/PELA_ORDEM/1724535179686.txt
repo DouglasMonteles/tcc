@@ -1,1 +1,3 @@
-Medidas necessárias para a celeridade na tramitação de processos no Poder Judiciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afb3720e36417bc30ef0dad8faa48e97ff6bd8ce7680d59e4004a2719f6c115f
+size 89

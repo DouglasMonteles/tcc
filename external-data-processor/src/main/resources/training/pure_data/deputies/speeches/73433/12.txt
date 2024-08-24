@@ -1,1 +1,3 @@
-Acolhimento, para posterior decisão,  da questão de ordem suscitada pelo do Deputado Antônio Carlos Pannunzio em que o pleno funcionamento das Comissões Permanentes da Casa até que seja realizada  na forma regimental a eleição dos novos Presidentes e Vice-Presidentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcc83b2224ddfe3febc023008d78d79a5a6322e8ec829d2997897232a7900acf
+size 275

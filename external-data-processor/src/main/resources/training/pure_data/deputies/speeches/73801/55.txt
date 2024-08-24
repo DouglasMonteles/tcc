@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação e supressão do art. 1º do substitutivo oferecido ao Projeto de Lei nº 1.304, de 2020, sobre alteração da Lei nº 10.304, de 2001, relativa à transferência de terras da União para o domínio dos Estados de Roraima e do Amapá; e da Lei nº 6.634, de 1979, acerca da faixa de fronteira. Repetição, pelo Presidente Jair Bolsonaro, de ações e atos promovidos pelo Presidente dos Estados Unidos da América, Donald Trump.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff1c7e35036591f743b98b229cc04ddd7288ddbb2be45d05679842b96f5b69c0
+size 508

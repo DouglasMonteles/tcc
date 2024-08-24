@@ -1,1 +1,3 @@
-Congratulações ao Deputado Estadual Marcelo Santos, novo Presidente da Assembleia Legislativa do Estado do Espírito Santo. Aplausos aos Deputados Estaduais Lucas Scaramussa e Allan Ferreira pelo desempenho, respectivamente, nas áreas de agricultura e cooperativismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23f175010f91b5fde5936b2c9ff0d753c6d035142198f636ddceef19d3c2a88d
+size 270

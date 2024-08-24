@@ -1,1 +1,3 @@
-Promoção da Semana de Mobilização Nacional para Doação de Medula Óssea. Participação em eventos destinados ao debate de políticas públicas de exploração de energias renováveis, na Bélgica e na Alemanha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ceed82a0921b88e0f82549a284e25945c79a22b09439e0bf3f81740513b7795
+size 217

@@ -1,1 +1,3 @@
-Transcurso do 29º aniversário de emancipação político-administrativa do Município de Belford Roxo, Estado do Rio de Janeiro. Excelência da gestão do Prefeito Wagner dos Santos Carneiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4288ec95dbd013b584e8e71ac50004fdf328b51e3d9f45fbfa3cd493fc88dd2f
+size 193

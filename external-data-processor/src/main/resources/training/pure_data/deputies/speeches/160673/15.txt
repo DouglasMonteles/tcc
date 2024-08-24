@@ -1,1 +1,3 @@
-Presença, na Casa, de Deputados Estaduais do Rio Grande do Sul para acompanhamento das votações da reforma do Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b45449470eb6db233f3cbbe670299f39a7f0c9f100c4762169e7fdb8b446951
+size 142

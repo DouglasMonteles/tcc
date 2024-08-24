@@ -1,1 +1,3 @@
-Defesa de abertura, pelo Governo brasileiro, de negociações com a Organização dos Países Exportadores de Petróleo - OPEP e com o Tratado Norte-Americano de Livre Comércio - NAFTA, com vista à redução dos preços de combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a984924df1cb63730799d7c8178af07bb372cc80743954ff3beedd6f08aaa94
+size 239

@@ -1,1 +1,3 @@
-Escalada de crimes bárbaros no País, notadamente no Estado do Rio Grande do Norte. Assassinato do jovem João Victor Munay, em Natal. Reexame da legislação penal brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28bd0891f48697165036b620736e177f23455f1e30c3b612572d6785b01ff34b
+size 177

@@ -1,1 +1,3 @@
-Aviso à Presidência sobre acordo para a votação do Requerimento de regime de urgência do Projeto de Lei Complementar nº 227, de 2012 (Regulamenta o § 6º do art. 231, da Constituição Federal de 1988 definindo os bens de relevante interesse público da União para fins de demarcação de Terras Indígenas).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a9ff5b7581bcf4a4c73f03682cbda52cb25e39dc75fdd909839678222c3efe1
+size 316

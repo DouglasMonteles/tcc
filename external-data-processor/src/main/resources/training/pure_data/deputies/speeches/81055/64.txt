@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento, por duas sessões, da discussão do Projeto de Lei nº 3.715, de 2019, acerca da regulamentação da posse de arma de fogo em áreas rurais. Protesto contra o açodamento, pela Comissão de Constituição e Justiça e de Cidadania, na votação de propostas contrárias aos interesses dos indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6354135433619669abe21fd1d42e73c340ae49a34538bdbf99581f0861be6f2
+size 367

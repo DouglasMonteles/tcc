@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a obrigatoriedade de inscrição da expressão Deus seja louvado das cédulas de Real.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fce4b6516766150121e7529a7b7164d72da368936b73d4a08cad2a3129baff2
+size 125

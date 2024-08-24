@@ -1,1 +1,3 @@
-Presença, na Câmara dos Deputados, da Vereadora Fernanda Carreiro, da Câmara Municipal de Barra Mansa; e da Coordenadora Nacional da Pastoral do Povo de Rua da Arquidiocese do Rio de Janeiro, Tania Ramos. Realização da Conferência Nacional de Saúde, em Brasília, Distrito Federal. Instalação da Frente Parlamentar Mista em Defesa dos Direitos da População em Situação de Rua.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9716ceec765b87477794cef2acb8081d377b0db94e43a66da8fce9ddbdc244ca
+size 389

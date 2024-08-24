@@ -1,1 +1,3 @@
-Regozijo do povo paranaense com a aprovação pelo Senado Federal do jurista Luiz Edson Fachin para o cargo de Ministro do Supremo Tribunal Federal - STF. Início de debates pela Casa sobre a reordenação da renúncia fiscal e desonerações de setores da economia brasileira. Anúncio de realização de audiência pública pela Comissão Especial destinada à análise e apresentação de propostas com relação à partilha de recursos públicos e respectivas obrigações da União, dos Estados, dos Municípios e do Distrito Federal (Pacto Federativo) no Município de Londrina, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77f722a1c219c4f6c305668b8204c9c3fde48556f3c552244709ddd74cb92aa3
+size 603

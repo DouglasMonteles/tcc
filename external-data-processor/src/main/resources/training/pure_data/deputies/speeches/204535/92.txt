@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do § único, do art. 21-A, alterado pelo art. 8º do Projeto de Lei de Conversão nº 22, de 2020, oferecido à Medida Provisória nº 934, de 2020, acerca do estabelecimento de normas excepcionais relativas ao ano letivo da educação básica e do ensino superior, decorrentes das medidas de enfrentamento da situação de emergência de saúde  pública constante na Lei nº 13.979, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74cc227a35a1a299f7d660c63a95204ceef68c979b76156ff7edca518c3d2a7c
+size 475

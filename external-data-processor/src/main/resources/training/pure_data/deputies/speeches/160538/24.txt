@@ -1,1 +1,3 @@
-Elogio ao Presidente Marco Maia pela iniciativa de criação de câmara de negociação para a votação da Proposta de Emenda à Constituição nº 231, de 1995, sobre a redução da jornada de trabalho para 40 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:940970fb668975425f0dae658e54ba0a6ea5e242a588ca8ba12ccbd8750c6387
+size 227

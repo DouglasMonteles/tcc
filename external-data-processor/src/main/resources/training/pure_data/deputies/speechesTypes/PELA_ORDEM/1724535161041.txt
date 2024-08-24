@@ -1,1 +1,3 @@
-Posicionamento do  PMDB favorável à votação de projeto de interesse da Defensoria Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b50e2db34b4ade4904063c028daeff4718eabbcbeff2828614703ff37833b3b
+size 95

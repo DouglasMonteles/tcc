@@ -1,1 +1,3 @@
-Risco de racionamento de energia elétrica no País. Conveniência de adoção, pelo Governo Federal, de programa de racionalização do consumo de energia elétrica. Acerto da pretendida ampliação, pelo BNDES, de linhas de financiamento de programas destinados ao setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91596f83e8bed6d000d0030631930922a1bf830c5825d91f72e3d06c0008100f
+size 273

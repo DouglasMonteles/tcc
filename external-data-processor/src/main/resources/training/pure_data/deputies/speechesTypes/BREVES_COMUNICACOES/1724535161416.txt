@@ -1,1 +1,3 @@
-Solidariedade ao povo da Venezuela diante do desrespeito aos direitos humanos pelo governo ditatorial e opressor daquele país. Repúdio ao apoio de Parlamentares da Esquerda ao regime venezuelano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a71fc334ba23bd4cdc191e0d8b407200db263b088bd7a03c809b7efd4e234bf0
+size 197

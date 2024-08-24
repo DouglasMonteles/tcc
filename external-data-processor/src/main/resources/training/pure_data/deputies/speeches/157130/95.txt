@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo do Senado Federal ao Projeto de Lei nº 1.998, de 2020, sobre a regulamentação da prática de telemedicina no País, com parecer pela rejeição, com exceção do art. 6º, ressalvados os destaques. Fracasso dos atos de vandalismo praticados por bolsonaristas em Brasília, Distrito Federal. Anúncio, pelo futuro Ministro da Justiça, de apuração e punição dos responsáveis pelos ataques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f768579452098c9d14c83a82779880f3ef6f08a401374ec1a5f5b6c98e546223
+size 449

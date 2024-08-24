@@ -1,1 +1,3 @@
-Apoio ao discurso proferido pelo Deputado Nikolas Ferreira, a respeito da perda de espaços pelas mulheres diante do transexualismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e184b6af38d821d05bc439e2eeb7f64506ca9a62c0aa5303bf97e218443c4955
+size 132

@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Ouvidor. Reexame de gastos da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00deaeb45531c3e5cc9ca9f7791e82e0f6b548155063c459a5b5e37e7e842123
+size 82

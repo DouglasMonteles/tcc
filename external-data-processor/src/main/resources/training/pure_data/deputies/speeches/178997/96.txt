@@ -1,1 +1,3 @@
-Anúncio da visita do orador aos Municípios de Campos Sales e Potengi, no Estado do Ceará, para lançamento de obras de pavimentação e de abastecimento de água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a9f4a5a3b0f31a1aacf56ae0467713f3ab248f27faaf21cc8894e2e4b116f4d
+size 165

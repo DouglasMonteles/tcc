@@ -1,1 +1,3 @@
-Estado de calamidade pública reinante no Município de Icapuí, Estado do Ceará, em decorrência de chuvas torrenciais. Pedido de adoção, pelas autoridades competentes, de medidas de contenção das erosões no litoral cearense e de assistência às populações atingidas por enchentes em Icapuí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cbfb50b46e6398522eb863c05c28d0732af7db3456b55d8adfe6fe91b4948fb
+size 302

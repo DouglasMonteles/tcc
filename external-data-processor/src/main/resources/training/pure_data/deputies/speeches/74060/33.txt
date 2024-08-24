@@ -1,1 +1,3 @@
-Agradecimento aos participantes na Mesa Diretora dos trabalhos, aos Parlamentares e convidados presentes. Pólo Petroquímico de Camaçari como vetor desenvolvimentista. Expectativa de construção de novos pólos industriais no Nordeste e nas demais Regiões do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8328eba7a2d793cfdf50e0f5182a121886df365317620e3c1bef15899f5ff578
+size 269

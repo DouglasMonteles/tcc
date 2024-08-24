@@ -1,1 +1,3 @@
-Anúncio da liberação de recursos ao Fundo de Participação dos Estados - FPE e ao Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ced3347d034a2a21e78d0928401a2c1dfb245490785f243bdbfcbe005ba03f74
+size 132

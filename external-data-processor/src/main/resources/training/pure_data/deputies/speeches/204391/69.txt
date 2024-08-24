@@ -1,1 +1,3 @@
-Solidariedade ao Ministro da Justiça e Segurança Pública, Sergio Moro, em face de acusações do jornalista Glenn Greenwald. Necessidade de investigação do caso de transporte de drogas por sargento da Aeronáutica em aeronave da comitiva presidencial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef0944c2eec9ec67451273bed0134e472ef34273ceaaefce3ba4703f9f660b7a
+size 256

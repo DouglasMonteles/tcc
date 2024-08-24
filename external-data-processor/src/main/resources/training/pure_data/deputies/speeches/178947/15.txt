@@ -1,1 +1,3 @@
-Solicitação aos Deputados de apoio para aprovação do Projeto de Lei nº 1.729, de 2015, sobre a obrigatoriedade do teste de impacto nos dispositivos de retenção para o transporte de crianças em veículos automotores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:223c3cf7d109fee992f586677c47127b17b4bd2e074119979999970511430418
+size 223

@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Dia da Bíblia Sagrada.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b5657e9c3f839b902d95bd69d3113ade11eb54523e1365c2f5c637966980ce1
+size 203

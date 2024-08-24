@@ -1,1 +1,3 @@
-Apelo ao Governo Federal por retomada das obras do Canal do Sertão (Projeto de Transposição de Águas do Rio São Francisco) no Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be63e2c1f863ba66add25f025edde416dc8973b6f3fdbd69e9bc9836946fea0f
+size 149

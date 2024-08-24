@@ -1,1 +1,3 @@
-O Deputado prestou homenagem à cidade de Lajes por seu centenário de fundação e confirmou seu compromisso com o desenvolvimento e o bem-estar de sua comunidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:916b3e9f050e3155f3ace19da7c163ef8901ac9acc89555894a6e17e86e5575b
+size 164

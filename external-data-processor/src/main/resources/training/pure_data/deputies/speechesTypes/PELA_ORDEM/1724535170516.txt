@@ -1,1 +1,3 @@
-Defesa de rejeição da Proposta de Emenda à Constituição nº 188, de 2019, do Poder Executivo, acerca de extinção dos Municípios com menos de 5.000 habitantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24369b9efb142da429305a0e6c0b8f4de94f9950caca69a231c9ba5cb08bc0f8
+size 166

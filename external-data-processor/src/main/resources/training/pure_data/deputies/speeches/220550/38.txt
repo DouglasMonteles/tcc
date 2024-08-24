@@ -1,1 +1,3 @@
-Presença, na Casa, do Prefeito Diogo Siqueira, do Município de Bento Gonçalves, Estado do Rio Grande do Sul, acompanhado do trio de soberanas da Festa Nacional do Vinho - Fenavinho e da Feira Multissetorial - ExpoBento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:742ca67362457857c99527e7841fd611da944290d0f740695d502e8623d71916
+size 222

@@ -1,1 +1,3 @@
-Lançamento do livro Crônicas de Campinas, de Jorge Alves de Lima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db56594fc5a0aa824f306fb21d5923679b9f4d4bf56bbc783aca8bd215fedaca
+size 67

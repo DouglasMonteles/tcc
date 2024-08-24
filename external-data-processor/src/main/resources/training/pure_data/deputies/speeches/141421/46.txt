@@ -1,1 +1,3 @@
-Alteração, pela Agência Nacional de Energia Elétrica - ANEEL, da metodologia adotada para reajuste de tarifas de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a7dd4970e7074b808183ee7712f392397da34761f7b495e87f3018c2a87cbcf
+size 135

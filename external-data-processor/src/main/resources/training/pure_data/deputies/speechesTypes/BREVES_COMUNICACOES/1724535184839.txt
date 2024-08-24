@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Presidente em exercício dos trabalhos, Deputado Nelho Bezerra. Excelência da gestão do Prefeito João Carlos, do Município de Buriticupu, Estado do Maranhão. Alocação de recursos orçamentários para a municipalidade. Agradecimento aos Vereadores da Câmara Municipal de Buriticupu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:977823b467a46db89803c1b070fea24cabdca8c874883a3760eeb6d0bad89bce
+size 322

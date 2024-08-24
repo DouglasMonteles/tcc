@@ -1,1 +1,3 @@
-Realização da 24ª Exposição Agropecuária de Guanambi, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b152f2f8d5bb3c1d43bf4aed81621f9c1168b00cf283c6f24297d33c2a402700
+size 79

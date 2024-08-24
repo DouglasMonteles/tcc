@@ -1,1 +1,3 @@
-Debate sobre assuntos relativos ao Ministério da Ciência, Tecnologia e Inovação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eff2d0bca4989a7db11347b56278f58a1784406d8fe519273e4cff12c731516
+size 84

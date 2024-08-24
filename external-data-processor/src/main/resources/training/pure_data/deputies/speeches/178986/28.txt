@@ -1,1 +1,3 @@
-Solidariedade ao ex-Presidente da República Luiz Inácio Lula da Silva, alvo de denúncias de instituições públicas e da mídia. Elogio à atuação do ex-Presidente  na transformação da educação no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0df2e14d4b7dc425a460983272cbde5f478444f10b8941bbbf321b5e0299acd2
+size 214

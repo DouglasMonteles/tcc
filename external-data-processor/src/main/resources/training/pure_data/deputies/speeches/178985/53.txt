@@ -1,1 +1,3 @@
-Contrariedade à proposta de elevação da idade mínima para concessão do Benefício da Prestação Continuada a idosos carentes, preconizada na da proposta de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df23e50168d977ab654b7223e70be35e220a6164bf90d901215374429ba9244
+size 186

@@ -1,1 +1,3 @@
-Realização do encontro da juventude das Igrejas Evangélicas Assembleias de Deus, em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b790a56a6c230b410926ab805391702f04ddd5ba59866237932b7c57a7cf2af0
+size 113

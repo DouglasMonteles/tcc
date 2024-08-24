@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 13, apresentada à Medida Provisória nº 934, de 2020, acerca do estabelecimento de normas excepcionais relativas ao ano letivo da educação básica e do ensino superior, decorrentes das medidas de enfrentamento da situação de emergência de saúde  pública constantes na Lei nº 13.979, de 2020. Votos de pronta recuperação da saúde ao Presidente Jair Bolsonaro, acometido pela COVID-19. Falecimento do Deputado Assis Carvalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00415f1624b30884a9f05e2c54acf26f2d4a63c58e64148e6792746bd19d56ff
+size 555

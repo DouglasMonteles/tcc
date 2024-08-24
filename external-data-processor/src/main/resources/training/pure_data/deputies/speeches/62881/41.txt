@@ -1,1 +1,3 @@
-Defesa de instalação da Refinaria Premium II, da PETROBRAS, no Estado do Ceará. Votos de plena recuperação da saúde ao ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a5ef7268569a6b48cdc65455fb2a1540e55686322746f5eff782a756269c6de
+size 166

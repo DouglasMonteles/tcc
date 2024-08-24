@@ -1,1 +1,3 @@
-Questionamento sobre a realização, por assessores, da inscrição de Deputados  para o uso da palavra no plenário. Utilização, pela Esquerda, da morte da Vereadora Marielle Franco e da questão do racismo para fins eleiçoeiros. Não manifestação de esquerdistas sobre o assassinato do Cabo da Polícia Militar, Derinaldo dos Santos, de cor branca, na Baixada Fluminense, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f7c1ea5f5df032175c324fd1edcdad0e223e805a1661e046076ce5258089e36
+size 423

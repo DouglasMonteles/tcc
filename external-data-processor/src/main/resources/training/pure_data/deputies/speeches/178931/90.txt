@@ -1,1 +1,3 @@
-Transcurso do 146º aniversário de fundação do Município de Campo Largo, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97fc6bacfe9227d5bfe5766b832324751a8a0c4b0aea982cf4b6347dcdfc1254
+size 95

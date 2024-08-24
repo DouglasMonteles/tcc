@@ -1,1 +1,3 @@
-Transcurso do centenário da imigração japonesa para o Brasil. Presença da colônia nipônica no Estado do Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8864e7a0ed901fc96c951c24a2dc1ab6fc11f525b3d55c91de8a5920044abb1d
+size 129

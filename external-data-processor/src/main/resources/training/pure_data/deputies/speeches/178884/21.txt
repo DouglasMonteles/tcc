@@ -1,1 +1,3 @@
-Preocupação com o fechamento de indústrias siderúrgicas no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef81e7e7899050dfbf9dd6bf276b37a5bdf50d553639e57591df83acbea821e7
+size 83

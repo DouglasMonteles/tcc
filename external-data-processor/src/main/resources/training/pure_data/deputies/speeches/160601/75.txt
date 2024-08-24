@@ -1,1 +1,3 @@
-Pedido à Presidência de esclarecimento quanto à ordem de inscrição para uso da palavra. Indignação com discurso de petistas sobre corrupção. Apoio ao processo de impeachment da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2072cb489d3b01cf9ff21917e1ec89f395959c645675e7e31298b3f31d1d896
+size 212

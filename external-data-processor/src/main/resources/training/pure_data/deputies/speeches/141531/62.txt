@@ -1,1 +1,3 @@
-Dificuldades enfrentadas pelos produtores de café no País. Descaso do Governo Federal com o atendimento das reivindicações da categoria, especialmente da renegociação de dívidas e da construção de armazéns para o produto. Necessidade de estabelecimento de política de preços mínimos para o setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe0cf1cd14cbba4b85a2425ca6a990a6f6a6ad1b7c1c02f9589c1b396f238b36
+size 309

@@ -1,1 +1,3 @@
-Saudações aos bancários brasileiros. Apresentação de requerimentos de indicações para a inclusão de bancários, Oficiais de Justiça, garis e motoristas de ônibus no grupo prioritário de vacinação contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:181fa0e71d0c400e5111138b4b8408f715672ae579f8b502076b497c7fc8c25f
+size 227

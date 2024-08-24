@@ -1,1 +1,3 @@
-Encontro do orador com o Ministro interino da Agricultura, Pecuária e Abastecimento, José Carlos, destinado ao debate da implantação de política de controle da importação de leite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14cd0b8dd5b5817afc3ad308dce8305ea132e7e839895e77cdb06aac451e7ede
+size 187

@@ -1,1 +1,3 @@
-Necessidade realização da reforma previdenciária. Maior atenção para com os menos favorecidos no processo de reformulação da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1efa24c1d944828dc89b79b20edc6d206ef79ecfc95212d8df9dc1f42540ebda
+size 152

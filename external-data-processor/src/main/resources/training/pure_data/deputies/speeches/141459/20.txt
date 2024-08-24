@@ -1,1 +1,3 @@
-Relato da visita do Presidente Luiz Inácio Lula da Silva ao Estado do Rio Grande do Norte. Importância estratégica do aeroporto do Município de São Gonçalo do Amarante, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b52d7865b714b685f502d212a305723920c130aa196116a8b20fbf863ffa86cd
+size 185

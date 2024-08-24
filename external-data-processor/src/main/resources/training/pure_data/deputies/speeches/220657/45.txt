@@ -1,1 +1,3 @@
-Críticas ao Governo Luiz Inácio Lula da Silva diante do agravamento das queimadas na região amazônica e no bioma cerrado; da queda do número de empregos formais; da recusa de aquisição de vacinas contra a dengue; e da majoração dos preços de componentes da cesta básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9f2b86c416d21a8de5282d905884e6326814e34dda4e86724af852c4015c2a3
+size 281

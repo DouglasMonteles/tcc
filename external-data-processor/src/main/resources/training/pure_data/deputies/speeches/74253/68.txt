@@ -1,1 +1,3 @@
-Contrariedade a intervenção do Ministro Luiz Edson Fachin, do Supremo Tribunal Federal - STF, no processo de eleição da Chapa 2, na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4da48432b71dd9e3c7faaf0adec4806da5923bc1a8cf7a79526644b5907ffa5a
+size 158

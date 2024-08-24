@@ -1,1 +1,3 @@
-Agradecimentos à população de São Bernardo do Campo, Estado de São Paulo, pelos votos recebidos no segundo turno das eleições municipais. Destinação de emendas parlamentares do orador para investimentos em infraestrutura naquele Município, ante o agravamento da crise econômica e do desemprego na cidade. Defesa de enxugamento da máquina administrativa e pública no Brasil, em face do alto custo de sua manutenção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b68eb127637630de5db5f2ac83e1b2d903f7efa8bfe7b23964a23fd272e2141
+size 429

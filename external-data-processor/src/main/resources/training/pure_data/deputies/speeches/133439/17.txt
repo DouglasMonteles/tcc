@@ -1,1 +1,3 @@
-Anúncio de lançamento da Frente Parlamentar Mista da Atividade Física para o Desenvolvimento Humano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb5c1082a01eb973253469fd53bce3d635858d4aab442a66907a338611f035f6
+size 103

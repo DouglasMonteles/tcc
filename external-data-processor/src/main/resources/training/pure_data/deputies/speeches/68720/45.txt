@@ -1,1 +1,3 @@
-Agradecimento ao PDT pela indicação do orador para Vice-Líder da Minoria na Casa. Solidariedade ao youtuber   Felipe Neto diante de ameaças à sua vida e de seus familiares. Necessidade de união dos Governadores e da bancada federal do Nordeste contra o encerramento das atividades da empresa Petróleo Brasileiro S/A -  PETROBRAS na Região. Contrariedade à privatização da estatal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8856c0e6090ac223ba3ee40f4185ef96ad4db600bf22c71f52cd846fa15ae56
+size 391

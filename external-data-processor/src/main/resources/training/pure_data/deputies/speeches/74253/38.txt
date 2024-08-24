@@ -1,1 +1,3 @@
-Assinatura de convênio entre a Comissão de Desenvolvimento Urbano e a Federação das Indústrias do Estado de São Paulo - FIESP para acompanhamento das obras públicas realizadas no Brasil. Defesa de estabelecimento de regras para o financiamento empresarial de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f09c8f50d7e69297a8d7151d756a1aaafd1346c576c46bbac847c274251351a1
+size 287

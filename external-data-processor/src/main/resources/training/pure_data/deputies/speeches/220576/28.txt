@@ -1,1 +1,3 @@
-Elogio ao trabalho do Deputado Marangoni como Relator da Medida Provisória nº 1.162, de 2023, sobre o Programa Minha Casa, Minha Vida.&nbsp;Crítica à pretensão do Presidente Luiz Inácio Lula da Silva de aquisição de novo avião presidencial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9f4cf9cf0ba3d64862acf6b4c8a7c0116f4fed2a52b0131cddd7914db08251f
+size 249

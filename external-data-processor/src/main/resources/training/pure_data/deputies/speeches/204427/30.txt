@@ -1,1 +1,3 @@
-Homenagem à Rádio Cidade, ao ensejo do transcurso do primeiro  aniversário de fundação, instalada no Município de Caruaru, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaba365089bacf5f141d8e71f383c96f899d501e2b34194a43278c001785abf7
+size 150

@@ -1,1 +1,3 @@
-Agradecimento a representantes dos profissionais de transporte do Município de Ponta Grossa, Estado do Paraná, pela presença na Câmara dos Deputados. Expectativa de realização de audiência na Agência Nacional de Transportes Terrestres - ANTT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e6903f0e472a0d2a6daee2eecbac2cadcc839535641d3f5aaa52ab9d45333b4
+size 250

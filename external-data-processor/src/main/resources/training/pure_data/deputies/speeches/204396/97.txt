@@ -1,1 +1,3 @@
-O Deputado destacou a importância do Projeto de Lei nº 2.122, de 2023, que incorpora institutos federais à Lei do Programa Nacional de Alimentação Escolar (PNAE). Sugeriu a possibilidade de apensar esse projeto ao que foi recentemente aprovado, destacando a educação comunitária e mencionando a presença dos institutos federais no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4effc416f3409b713c3d2a0fe59083505fd8c9345a079fc666edea1499662a67
+size 347

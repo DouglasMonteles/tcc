@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do § 2º art. 26 do Substitutivo adotado pela Comissão Especial à Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário, com vista à sua rejeição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ed9374b8ad997bcee48719cede3a9a58345a6ffaea1892ea7d215cabfe72b7d
+size 286

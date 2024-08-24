@@ -1,1 +1,3 @@
-Incapacidade do Governo Jair Bolsonaro de enfrentamento das crises sanitária e econômica reinantes no País. Conclamação ao Congresso Nacional para retomada do pagamento do auxílio emergencial de 600 reais a trabalhadores e famílias carentes. Defesa da taxação de grandes fortunas, de lucros e dividendos, e de criação de contribuição emergencial para enfrentamento da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f834b2ac8c1674f7bd25bbf8a8b756300c360236c01f133299a958c183712f8e
+size 390

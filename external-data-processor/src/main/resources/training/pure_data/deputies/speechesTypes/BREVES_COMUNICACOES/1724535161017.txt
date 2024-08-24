@@ -1,1 +1,3 @@
-Apresentação de requerimento de constituição, pela Casa, de Comissão Externa para acompanhamento das eleições do Conselho Federal de Enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3f8f527c1a8291633357a104220af93f30d4f9f159d9c47f2b239350877da46
+size 151

@@ -1,1 +1,3 @@
-Ampliação da circulação do jornal Diário Regional, da região do ABC Paulista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f23fe713d22f0695badb3d8d8fcff2b147c8b1f62432f570c79e9654d23fb7c
+size 83

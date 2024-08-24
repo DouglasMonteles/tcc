@@ -1,1 +1,3 @@
-Realização do 15º Grito da Terra Brasil, pela Confederação Nacional dos Trabalhadores na Agricultura - CONTAG. Comprometimento do Governo Luiz Inácio Lula da Silva com o fortalecimento da agricultura familiar no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e054b36724fd3b921f2e0af4a6daa5b7df6841adef1cf193ee6741f4835e8a3d
+size 224

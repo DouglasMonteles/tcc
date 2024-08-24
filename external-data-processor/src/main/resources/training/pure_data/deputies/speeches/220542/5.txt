@@ -1,1 +1,3 @@
-Solidariedade aos familiares das vítimas de atentados em escolas no País. Imediata instalação de detectores de metais, de monitoramento e contratação de segurança especializada para as escolas públicas/privadas brasileiras. Destinação, pelos Governadores e Prefeitos Municipais, de recursos orçamentários para a segurança de professores e alunos no ambiente escolar. Discussão de plano de segurança para as escolas; maior atenção psicológica para com as crianças e combate à prática de bullying nos estabelecimentos escolares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b762d350558b71500063c8efd0a7c664a912d2368fabeb4ba1a93e19c343764d
+size 547

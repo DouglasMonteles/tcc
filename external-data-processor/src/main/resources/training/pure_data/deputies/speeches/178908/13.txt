@@ -1,1 +1,3 @@
-Relação entre o desvio de dinheiro público e a falta de recursos nos Municípios brasileiros, a exemplo do Município paraense de Augusto Corrêa. Repúdio à precariedade da merenda escolar oferecida às crianças no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25a7ba09e05102f9fdae05089023e74a43408609ee261a0c94a29bc97083957d
+size 237

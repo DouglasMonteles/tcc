@@ -1,1 +1,3 @@
-Encaminhamento da votação do Recurso 333 de 2009 contra o indeferimento liminar da Emenda 42 à Medida Provisória 470 de 2009 (Constitui fonte adicional de recursos para ampliação de limites operacionais da Caixa Econômica Federal e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5a6dc57621d25fb26a49cfe391a9fc588f8c7dbdc5d2e5c8176d2455f43f38d
+size 265

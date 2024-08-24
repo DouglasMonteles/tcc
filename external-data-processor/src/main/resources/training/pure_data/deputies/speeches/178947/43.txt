@@ -1,1 +1,3 @@
-Agradecimento ao Deputado Estadual Milton Rangel, do Rio de Janeiro, pela obtenção de informações do Ministério da Saúde sobre atendimentos nos hospitais federais fluminenses. Cobrança ao Ministro da Saúde de recursos para a melhoria dos hospitais federais no Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf7aed16a0077687deb7188f164dca88eab0d1e877ac5fea6a3b7ab76a983c0c
+size 283

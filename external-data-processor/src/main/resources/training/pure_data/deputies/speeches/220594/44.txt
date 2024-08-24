@@ -1,1 +1,3 @@
-O Deputado expressou sua preocupação com a violência no Brasil, em especial com o Rio de Janeiro. Apontou a falência do sistema de justiça criminal e defendeu a necessidade de combater a impunidade. Enfatizou a importância de uma política nacional de combate ao crime, conclamando a sociedade a cobrar ações efetivas do Governo Federal, Poder Executivo, Poder Judiciário e legisladores. Por fim, abordou a frustração com a legislação e a política de desencarceramento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c356b89bdff82a0ca77c02f7e5115013602d9842bb36849eaf09aa5869cdfecd
+size 483

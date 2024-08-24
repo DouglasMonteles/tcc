@@ -1,1 +1,3 @@
-Transcurso do 80º aniversário da conquista do direito de voto pela mulher brasileira. Baixa representatividade feminina na Câmara dos Deputados. Desigualdade de gênero na área política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17cf2aaba317276463a8e4fdfb4e2003cabb6f1268c597794164cc6d307065e4
+size 191

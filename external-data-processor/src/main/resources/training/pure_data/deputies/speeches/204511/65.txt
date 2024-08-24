@@ -1,1 +1,3 @@
-Pedido ao Governador Tarcísio Gomes de Freitas de manutenção de efetivo da Polícia Militar no centro de São Paulo para combate à criminalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:837a00f2737720215a4ad56a5d31f52f00b95207da1a084c699edd991994d219
+size 149

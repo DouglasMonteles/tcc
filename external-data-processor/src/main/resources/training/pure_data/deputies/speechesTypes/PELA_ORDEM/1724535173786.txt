@@ -1,1 +1,3 @@
-Solicitação à Presidência de inclusão na pauta de votações do Projeto de Lei nº 2.050, de 2011, que propõe a criação da Universidade Federal do Noroeste da Bahia. Protesto contra o uso da imprensa para fins inescrupulosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0dd7d4b455e503bcfe72a12159302e6d2a1791f6304ec3aa52bf8b6ad5a8f32
+size 233

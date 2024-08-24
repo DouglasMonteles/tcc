@@ -1,1 +1,3 @@
-Consequências do rompimento de barragens de rejeitos minerais no Estado de Minas Gerais. Comoção mundial diante dos atos terroristas em Paris, na França. Defesa de investigação rigorosa da autoria de chacina ocorrida na região da Grande Messejana, em Fortaleza, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab23c9292f1f3db87e9aa2d8515f4cae7c992263baa2b7a4f4f7ad222d8ae12d
+size 286

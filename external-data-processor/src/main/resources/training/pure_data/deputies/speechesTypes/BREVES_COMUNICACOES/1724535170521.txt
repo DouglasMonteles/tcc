@@ -1,1 +1,3 @@
-O Deputado destacou a luta do Governador Rafael Fonteles pela transição energética no Piauí, celebrando investimentos reconhecidos pela Comissão Europeia para a produção de hidrogênio verde. Elogiou a credibilidade internacional do Governador e registrou a presença de uma delegação de Parnaíba em seu gabinete, liderada pelo Vereador Ronaldo Prado, destacando outras lideranças locais importantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b64b80ad6ddfb38e950e67ea982c00cf02f6226b04c35766b845814f44bdd4c
+size 411

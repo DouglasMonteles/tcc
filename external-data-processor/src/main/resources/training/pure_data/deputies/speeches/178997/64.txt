@@ -1,1 +1,3 @@
-Dificuldades para acesso ao ensino superior, sobretudo na Região Nordeste, em decorrência da redução da oferta de vagas junto ao Fundo de Financiamento Estudantil - FIES. Reunião do orador com Ministro de Estado para discussão do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f0bd2e56b58d4a1649b01b2dc402e4dad90badfc0d6bcce59d59bf563cfa724
+size 244

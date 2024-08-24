@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a unificação dos índices de ajuste de contratos de aluguéis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d57331080f511e847ec34c3e83e4bc2192e5e7abdfb5e20ecd201407ac25e5cc
+size 103

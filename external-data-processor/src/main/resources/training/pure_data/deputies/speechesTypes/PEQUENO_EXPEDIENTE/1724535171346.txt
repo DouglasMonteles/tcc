@@ -1,1 +1,3 @@
-Elogios ao Deputado Domingos Sávio. Transcurso do Dia do Advogado. Preocupação com o aumento do desemprego. Urgente retomada do crescimento econômico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bd650f5c68876d21abfd32a888a6965cf87e6c5d439c2b8569cab53890cb188
+size 154

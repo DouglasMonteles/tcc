@@ -1,1 +1,3 @@
-Transcurso do 19º aniversário de promulgação do Código de Defesa do Consumidor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c2eb69a2386213c1c26a1fbb3880f9135ae9cfc8719212eec8241f58c7f458
+size 84

@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à delegação do Parlamento da Suécia em visita à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99c58a119635224dc92854d045e6e87b5f9eb28b29fb229324a9068304c99b07
+size 105

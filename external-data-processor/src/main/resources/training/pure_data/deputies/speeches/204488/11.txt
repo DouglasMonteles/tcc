@@ -1,1 +1,3 @@
-Acerto da convocação do Ministro da Educação para esclarecimento à Casa sobre o corte de recursos do setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5153292ef84c2f8fc4e8b066f2c586cbe3c693bf5db26824aab39b99eb31b213
+size 124

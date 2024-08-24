@@ -1,1 +1,3 @@
-Compromisso de atuação parlamentar do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14895403d51481fb7f1acf607f061028643f1861139684fc6fbcb445dfe11095
+size 47

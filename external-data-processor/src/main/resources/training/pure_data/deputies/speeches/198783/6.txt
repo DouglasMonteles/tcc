@@ -1,1 +1,3 @@
-Congratulações à Casa pela criação de Comissões Externas para acompanhamento de andamento de obras públicas. Preocupação com obras paralisadas no Estado de Mato Grosso. Solicitação ao Governador mato-grossense, Mauro Mendes, de providências para a conclusão e inauguração do Hospital Júlio Müller, em Cuiabá, Estado do Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b50e3501c1903173cd71c8a5b00bfb05f2a4d9ac81cb786b14c6e8052fa38827
+size 349

@@ -1,1 +1,3 @@
-Crítica à situação do transporte público no Município de Curitiba, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b514ab978f02dac1c6c330fe7c92cce2eba9abdffcb5da4f78462809b0316bbe
+size 91

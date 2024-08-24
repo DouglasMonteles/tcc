@@ -1,1 +1,3 @@
-Questão de ordem sobre o início da Ordem do Dia. Satisfatório desempenho da Casa na presente semana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d77c315c2d37240b83dfa0ac0dcfadceacf79f34f7d963c535c67e51fdc96f2c
+size 103

@@ -1,1 +1,3 @@
-Participação do PDT na base de sustentação do Governo Federal. Apelo ao Presidente Marco Maia de votação de matérias consensuais e de adiamento da apreciação do Projeto de Lei nº 1.992, de 2007, sobre a instituição do regime de previdência complementar dos servidores públicos federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2721f0150e3ad9dd5c47d38f378860e82257f50ca9e247e3041744bbfb32b9c1
+size 300

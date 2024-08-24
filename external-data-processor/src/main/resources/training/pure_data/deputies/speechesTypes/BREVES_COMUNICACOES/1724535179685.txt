@@ -1,1 +1,3 @@
-Manifestação favorável à aprovação do Projeto de Lei nº 6.350, de 2002, sobre a guarda compartilhada de filhos de pais separados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eca2b6c6b18d780a6c9a080cd63012918af07fa4a1db45cdc7ca22e1c2cb8d7
+size 136

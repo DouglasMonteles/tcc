@@ -1,1 +1,3 @@
-Fatores determinantes das manifestações de protesto realizadas no Chile. Possibilidade da ocorrência de convulsão social no País em decorrência da reforma previdenciária e da tentativa do Governo Jair Bolsonaro de sucateamento da educação pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2fb84c69685fc13a5ebae39caf271e4758b98196e09f2c880b129e18523b707
+size 257

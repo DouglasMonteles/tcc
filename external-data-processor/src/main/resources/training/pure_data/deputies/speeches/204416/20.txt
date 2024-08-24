@@ -1,1 +1,3 @@
-Morte de policial civil durante ação de combate ao crime de abigeato, no Município de Montenegro, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b5512ff4bcb93d4e4e7ff81f748023cf88d7fa5adae81e2778bfab6a402b60
+size 129

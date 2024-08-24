@@ -1,1 +1,3 @@
-Protesto contra a não implementação, no Estado de Minas Gerais, do piso salarial nacional dos profissionais do magistério público da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aea63d674ff1a888b986119008747314547c8ed6b2bf43ab5f7c907cdab47943
+size 157

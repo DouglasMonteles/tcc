@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Comemoração dos 471º e 473º aniversários de fundação, respectivamente, dos Municípios do Recife e de Olinda, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f81f9e232de05e442eb172bae775585deab144fdcb676932f1b3a6f6108a72c3
+size 181

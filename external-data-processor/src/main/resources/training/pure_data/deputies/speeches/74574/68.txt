@@ -1,1 +1,3 @@
-Importância da aprovação pela Câmara dos Deputados da Proposta de Emenda à Constituição nº 241, de 2016, sobre a instituição do Novo Regime Fiscal. Defesa da aprovação da Proposta de Emenda à Constituição nº 411, de 2015, sobre a aplicação de limite remuneratório aos cartórios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82a8a52d4f6ab4b8281473c01992eb94e41081aadb90def578122b940c238e47
+size 298

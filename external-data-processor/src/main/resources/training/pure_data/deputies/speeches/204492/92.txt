@@ -1,1 +1,3 @@
-Repúdio ao discurso proferido pelo Deputado Gilvan da Federal contra o Presidente Luiz Inácio Lula da Silva e a Proposta de Emenda à Constituição nº 45, de 2019, sobre a alteração do Sistema Tributário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b97deb81a5744e6c47f336bd7c6c19d1d658e4fe7836210b46a4027a01fe57e
+size 220

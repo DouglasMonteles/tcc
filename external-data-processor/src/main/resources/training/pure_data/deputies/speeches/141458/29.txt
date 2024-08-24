@@ -1,1 +1,3 @@
-Importância da aprovação do Projeto de Lei de Conversão da  Medida Provisória   517  de 2010 ( Dispõe sobre a incidência do imposto sobre a renda nas operações que especifica, altera as Leis   6.404  de 1976, 9.430  de 1996, 11.478  de  2007, e 12.350   de 2010, institui o Regime Especial de Incentivos para o Desenvolvimento de Usinas Nucleares - RENUCLEAR, dispõe sobre medidas tributárias relacionadas ao Plano Nacional de Banda Larga, altera a legislação relativa à isenção do Adicional ao Frete para Renovação da Marinha Mercante - AFRMM, dispõe sobre a extinção do Fundo Nacional de Desenvolvimento, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5a491c5840246880563e34a4d04de7808ba099d8d074ae92d542c76c78b68c9
+size 656

@@ -1,1 +1,3 @@
-A Deputada destacou a entrega do relatório do programa de participação popular ao Presidente Lula, resultado de reuniões e plenárias populares em todo o Brasil. Enfatizou que mais de 13 trilhões de reais serão destinados a ações que visam combater a fome, a miséria, fortalecer a educação básica, a saúde preventiva, o esporte e o meio ambiente. Ela celebrou a retomada da democracia e a participação popular no governo. Ressaltou o PAC 3, que destinará 371 bilhões de reais para ações em todo o País, destacando que mesmo estados que não apoiaram a candidatura de Lula, como Goiás, receberão recursos significativos. Expressou confiança na realização dos sonhos da população pelo governo de Lula e o apoio do Congresso Nacional nesse processo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c52bef7e278a90d5f7acd6be4e94e31f5612a005ba4a0f096d9b791a853d3af
+size 773

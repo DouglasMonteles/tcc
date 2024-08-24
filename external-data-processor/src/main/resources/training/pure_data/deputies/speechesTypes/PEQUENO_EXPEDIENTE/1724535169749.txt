@@ -1,1 +1,3 @@
-Solicitação ao Procurador-Geral da República, Roberto Gurgel, pela Procuradoria Especial da Mulher da Câmara dos Deputados, de transferência para o Superior Tribunal de Justiça do julgamento de processo contra delegados da Polícia  Civil do Estado de São Paulo, acusados de violação de direitos contra escrivã de polícia. Adesão da Casa ao Programa Pró-Equidade de Gênero e Raça, lançado pelo Governo Federal. Convite aos Deputados e servidores da Casa para participação na abertura do I Seminário Internacional da Procuradoria Especial da Mulher, no Auditório Nereu Ramos, na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc4ed62e726ba23b96d0d223ed4bd36b8720484f6b469909a064357229b87e58
+size 603

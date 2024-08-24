@@ -1,1 +1,3 @@
-Prisão de cidadãos brasileiros pela polícia italiana acusados de fraude. Pedido ao Ministério Público e à Polícia Federal de investigação da veracidade dos fatos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8e8353c51eb4edc1fdf7ba9532e7c01485a1913dbdc7ea46a27466fa5270f16
+size 171

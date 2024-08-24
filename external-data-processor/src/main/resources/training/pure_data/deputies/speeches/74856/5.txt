@@ -1,1 +1,3 @@
-Registro de alteração da qualidade do voto à matéria em pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0be8b4f75050ca652465c35060e7c2ecb805e66c2bb617b00f8cb38bcd8fe51b
+size 66

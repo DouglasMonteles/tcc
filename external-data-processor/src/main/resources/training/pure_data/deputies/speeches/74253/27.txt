@@ -1,1 +1,3 @@
-Repúdio a medida discriminatória e racista do Pró-Reitor substituto José Fernando Schlosser, da Universidade Federal de Santa Maria, Estado do Rio Grande do Sul, contra professores e alunos israelenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:657eb3203bc0cda09d912d2424c8f5cafa0980caaa251193fbb16318c619f3aa
+size 206

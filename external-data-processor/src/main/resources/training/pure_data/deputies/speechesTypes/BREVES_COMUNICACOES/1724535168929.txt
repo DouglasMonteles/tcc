@@ -1,1 +1,3 @@
-O Deputado criticou o Projeto de Lei nº 528, de 2021, que trata do sistema brasileiro de créditos de carbono, argumentando sobre possíveis impactos econômicos negativos para o Brasil diante da pequena responsabilidade em emissões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeaddc6ec6651cbc975091e5e692586973fdf971b8b183d6a9dc6f626cc4cb16
+size 235

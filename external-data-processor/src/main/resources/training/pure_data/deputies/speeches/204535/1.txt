@@ -1,1 +1,3 @@
-Apoio à luta de servidores contra a criação da Fundação de Previdência Complementar dos Servidores Públicos do Município de São Paulo - SAMPAPREV.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49c9cca6e71c3b079c190ca8d7cf0d89891aeb1612fb4af1ccaf2ec982aa4366
+size 155

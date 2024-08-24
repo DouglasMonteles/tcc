@@ -1,1 +1,3 @@
-Aprovação pela Casa do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.494, de 2021, sobre a tipificação da prática de zoofilia como crime de maus-tratos. Defesa de aprovação do mérito da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8802f2879aa865dd206b7f9a77240cc6c268bf633950d58eb7bd9032fe3e0fa1
+size 237

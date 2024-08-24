@@ -1,1 +1,3 @@
-O Deputado encaminhou a votação da Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, que disciplina o aproveitamento de potencial energético offshore e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d3b0b37d2b1ed4c8b13dea44965f7e0279cd75a7430f857e55136c717cdf8e0
+size 199

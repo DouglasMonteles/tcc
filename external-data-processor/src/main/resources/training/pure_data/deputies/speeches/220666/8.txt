@@ -1,1 +1,3 @@
-Presença, na Casa, do Presidente da Federação Pernambucana de Futebol, Evandro Carvalho. Empenho do orador na ampliação do acesso dos jovens pernambucanos ao futebol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63afe48cfdf130eec60abd4dea5226c5252e17e75e6dbb80cd1d9284901cc720
+size 171

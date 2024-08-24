@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Defesa da participação feminina na política. Decisão do Partido dos trabalhadores de observância da paridade entre homens e mulheres em todas as suas instâncias. Redução das desigualdades socioeconômicas brasileiras, segundo pesquisa da Fundação Getúlio Vargas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a22c0cea4f852e3717dd9bb08c948b06d851762ca9a96bc5dde29ba67c8777c3
+size 316

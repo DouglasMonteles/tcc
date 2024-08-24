@@ -1,1 +1,3 @@
-Inconsistência da declaração do Presidente Luiz Inácio Lula da Silva sobre a situação da economia argentina. Prejuízos ao setor turístico nacional advindos da retomada da exigência, a cidadãos estrangeiros, de visto de entrada no Brasil. Defesa de renúncia do Presidente da República e do Ministro da Fazenda, Fernando Haddad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:738f2cdfd5531f7e14be9df5d4bb4cf19aea23482a59e335e1372350ea98efb0
+size 338

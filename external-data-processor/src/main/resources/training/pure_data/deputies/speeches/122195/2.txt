@@ -1,1 +1,3 @@
-Proficuidade da gestão do Prefeito Veneziano Vital do Rêgo, do Município de Campina Grande, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8ea88c267e1f603399d900a290e01edee51959021e17cefae95904a9969377f
+size 114

@@ -1,1 +1,3 @@
-Visita do Ministro do Trabalho e Emprego, Carlos Lupi, ao Estado do Amazonas. Solicitação ao Ministro da Defesa, Nelson Jobim, de providências a respeito das elevadas tarifas cobradas por empresa aérea no Estado. Relevância das ações de promoção da saúde e de educação para a saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95f90976f0d620026a944fbcaa66e7e0abd75a3ae9e264ce1c8bf1a5c6ef6e4f
+size 295

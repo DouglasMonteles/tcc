@@ -1,1 +1,3 @@
-Empenho na alocação de recursos para a instalação no Estado da Paraíba do Museu Armorial dos Sertões em homenagem ao escritor Ariano Suassuna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f9f53400899909447978fee06e8e018118e6fae5500fdba70dff168d222e29d
+size 148

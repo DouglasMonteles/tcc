@@ -1,1 +1,3 @@
-Decisão do Comitê de Política Monetária - COPOM do Banco Central de manutenção da taxa básica de juros, a Taxa SELIC. Efeitos da crise do sistema financeiro internacional sobre a economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe83927d6952f60b980bdb0d7fd7633bfd7a39fb1e6199b57e2ff9dccd58e2c4
+size 206

@@ -1,1 +1,3 @@
-Contradição entre a concessão pelo governo brasileiro de empréstimos a países estrangeiros com recursos do BNDES, e a suspensão do repasse de verbas da instituição financeira ao agronegócio
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0841b80cc7686250402645db5198541b3c557ec08949462a99782d6ac212082
+size 198

@@ -1,1 +1,3 @@
-Saudações aos Deputados. Agradecimento à população do Distrito Federal pela eleição da oradora. Desafio do Governo Agnelo Queiroz de reconstrução de Brasília. Transcurso do 31º aniversário de fundação do Partido dos Trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21065ea358c4f600ed2d4f4a28daadf86f2587623e5234ed158eb6c44c1bcb49
+size 244

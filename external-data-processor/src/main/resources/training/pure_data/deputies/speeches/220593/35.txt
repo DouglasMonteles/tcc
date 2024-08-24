@@ -1,1 +1,3 @@
-Crise da saúde pública no Município de Cuiabá, Estado do Mato Grosso. Pedido à Justiça de afastamento do Prefeito da Capital mato-grossense, Emanuel Pinheiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0fd1fe80ab17a5f82078c5dff66144e1eecc9aae268b1aeb58181b4743691c3
+size 164

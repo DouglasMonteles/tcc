@@ -1,1 +1,3 @@
-Incompetência do Presidente Jair Bolsonaro. Necessidade de realização de ampla reforma tributária. Votação pela Casa do Projeto de Lei nº 2.337, de 2021, relativo à alteração da legislação do Imposto sobre a Renda e Proventos de Qualquer Natureza de Pessoas Físicas e de Pessoas Jurídicas, e da Contribuição Social sobre o Lucro Líquido. Importância de retomada da tributação sobre lucros e dividendos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7340872fd55c112bbcbc56eb14cc77de96ddb5cd914bda024de7b8766baab70a
+size 422

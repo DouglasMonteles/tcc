@@ -1,1 +1,3 @@
-Posse dos professores Jaime Giolo e José Januário de Oliveira Amaral, respectivamente, nas Reitorias da Universidade Federal da Fronteira Sul e da Universidade Federal de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9989ed86fda88dc0d5ec5751f50804d3dedbe9c152590672088ee3bdf8284312
+size 183

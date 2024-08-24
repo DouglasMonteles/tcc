@@ -1,1 +1,3 @@
-Indignação do orador com ato de racismo praticado por Deputado nas dependências da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c1e5ad7b529f722835e553836ca9398eb68640f00eaa19dd7bbc3474655d671
+size 91

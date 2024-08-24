@@ -1,1 +1,3 @@
-Redução dos índices de pobreza e da desigualdade de renda no Estado do Espírito Santo nos últimos 10 anos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95898da5ac77349e2fb06da2a926d7f7687b56116aa0dc7b103d3b9011648b78
+size 111

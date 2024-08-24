@@ -1,1 +1,3 @@
-Acerto da declaração de inelegibilidade do ex-Presidente Jair Bolsonaro pelo Tribunal Superior Eleitoral. Expectativa quanto à condenação e prisão do ex-Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1fbf3a203d709c8c7b269875cf03590395152f97ee875e427450435a78f592b
+size 184

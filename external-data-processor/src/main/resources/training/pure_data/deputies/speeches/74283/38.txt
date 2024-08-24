@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Trabalho, Administração e Serviço Público, às Emendas do Senado ao  Projeto de Lei 1.990 de 2007 (Dispõe sobre o reconhecimento formal das centrais sindicais para os fins que especifica, altera a Consolidação das Leis do Trabalho - CLT e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fe516e1bad1fa0da14322e73b24134b006efdcf4ea90f3051bab6160a07ee6d
+size 299

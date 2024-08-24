@@ -1,1 +1,3 @@
-Decisão do Ministro da Infraestrutura, Tarcísio Gomes de Freitas, pela retomada do traçado original da BR-158. Anúncio da concessão de licenciamento ambiental para a construção das BRs-242 e 174.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86a8834042f00cf82c58c91688bd8f63fc91ef30d4528ab0d92b0a9add02230b
+size 202

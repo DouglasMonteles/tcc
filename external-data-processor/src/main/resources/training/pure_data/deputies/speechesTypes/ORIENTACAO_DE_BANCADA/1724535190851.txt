@@ -1,1 +1,3 @@
-Orientação de bancada para votação do Projeto de Decreto Legislativo nº 296-A, de 2015, sobre a aprovação do texto do Acordo de Cooperação no Domínio da educação entre o Governo da República Federativa do Brasil e o Governo da Irlanda. Presença, na Casa, do Prefeito Aquiles Takeda Filho e dos Vereadores Vinícius José da Cosa, o Vinícius da Lanchonete, e Edmilton Feliciano, do Município de Marilândia do Sul, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:721d01259ff515fbbdae2449b816bc88ae85f6b6a004ce1406bba0e584a04abf
+size 448

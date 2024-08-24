@@ -1,1 +1,3 @@
-Declaração de voto contrário à aprovação do requerimento para apreciação em regime de urgência do Projeto de Lei Complementar nº 270, de 2016, sobre a vedação da aplicação de sanções aos Municípios pela extrapolação do limite para despesa com pessoal nos casos de queda de receita especificada. Descumprimento de medidas preconizadas no Regime de Recuperação Fiscal no Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f272c89d2e644732106312b4cf9ee58110a7d3e57b36a30e53c1711fdd54189d
+size 415

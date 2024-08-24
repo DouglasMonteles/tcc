@@ -1,1 +1,3 @@
-Condenação, pelo Tribunal de Justiça de Minas Gerais, do fazendeiro Adriano Chafik Luedy, réu confesso do Massacre de Felisburgo, ocorrido no Município de Felisburgo, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffb971aba36e08199fa4259a9167c8ae222996e50f6999375e8761b303c302e0
+size 195

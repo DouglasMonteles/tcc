@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à aprovação dos Projetos de Lei do Congresso Nacional de nºs 8, de 2019, sobre a abertura ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho, crédito especial no valor de R$ 89.660.000,00, para os fins especificados;  11, de 2019, acerca da abertura ao Orçamento Fiscal da União, em favor das Justiças Federal e Eleitoral, crédito especial no valor de R$ 3.665.000,00, para os fins especificados, e 12, de 2019, a respeito da abertura ao Orçamento Fiscal da União, em favor das Justiças Federal e Eleitoral, crédito suplementar no valor de R$ 13.379.410,00, para reforço de dotações constantes da Lei Orçamentária vigente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa03db763e3bc8c0f1571b88936cb3cb837d30fe1119c372235d012afb54493c
+size 713

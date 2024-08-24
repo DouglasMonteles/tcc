@@ -1,1 +1,3 @@
-Discussão do Veto Parcial nº 43, de 2022, aposto ao Projeto de Lei nº 2.564, de 2020, sobre a alteração da Lei nº 7.498, de 1986, para instituição do piso salarial nacional dos profissionais da enfermagem e da parteira. Expectativa de votação do Projeto de Lei do Congresso Nacional nº 5, de 2023, a respeito do piso salarial da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e408009f0d8fbc1a0a1557e039e304df7e50033fca6e95366bedb8609b914aee
+size 350

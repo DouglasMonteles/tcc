@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 996, de 2020, sobre a instituição do Programa Casa Verde e Amarela, destinado à aquisição da casa própria para famílias residentes nas áreas rural e urbana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a34ba93345c14635a569e8d9c2848b5c0ed5f7525200b0f075749f7d3129608
+size 264

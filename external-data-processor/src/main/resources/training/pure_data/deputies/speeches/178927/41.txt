@@ -1,1 +1,3 @@
-Transcurso do 25º aniversário de emancipação político-administrativa do Município de Candói, Estado do Paraná. Realização da 15ª edição da Festa Nacional do Charque na municipalidade. Votos de sucesso à nova diretoria da União Municipal dos Estudantes Secundaristas Pontagrossenses - UMESP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:841901091eb2c164fe0a9a44f361326efe691494b7b17eb8b54e2cddc24c5237
+size 305

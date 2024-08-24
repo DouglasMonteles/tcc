@@ -1,1 +1,3 @@
-Agradecimentos à Ministra da Secretaria de Políticas para as Mulheres da Presidência da República, Eleonora Menicucci, pela participação na Comissão Geral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:292ff060a4b4009ddd1a7af88949275537170701a23a45e5c552b8ba8208a426
+size 162

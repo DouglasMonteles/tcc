@@ -1,1 +1,3 @@
-Papel estratégico dos bancos públicos no desenvolvimento sustentável do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0393bee27b7d2276120556157bb304317fe75cede86d653fecfb8c842b58cb8
+size 81

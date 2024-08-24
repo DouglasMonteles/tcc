@@ -1,1 +1,3 @@
-Presença do orador no ato de lançamento do Plano Nacional de Combate ao Crack e Outras Drogas, no Estado do Rio Grande do Sul. Homenagem póstuma ao ex-Deputado Nelson Trad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6156e5942128c1d580362031d30ef33425b34b452e7f8b4a8926f206f631a5ba
+size 175

@@ -1,1 +1,3 @@
-Inconsistência de noticiário a respeito do falecimento do Vereador Irmão Lázaro, da Câmara Municipal de Salvador, Estado da Bahia. Inveracidade da manifestação do Senador Humberto Costa, postada nas redes sociais, a respeito de declaração do Irmão Lázaro, durante culto evangélico, sobre a contaminação por coronavírus tão-somente por pessoas do mal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:623deea6420069ff3f52885e1978baa3432f9f7c539323fc492d9ef418dc8b60
+size 366

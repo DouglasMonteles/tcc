@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Relações Exteriores,   às Emendas do Senado ao Projeto de Lei 1.664 de 2007 (Dispõe sobre a residência provisória para o estrangeiro em situação irregular no território nacional e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d94d81f1628e0eb980e1ee82486860b7a18031f28aa431fb39b9613119f279f
+size 242

@@ -1,1 +1,3 @@
-Posicionamento de Senador da República a respeito de operação realizada pela Polícia Federal. Atuação vexaminosa do Presidente Jair Bolsonaro na Assembleia Geral da Organização das Nações Unidas - ONU, em Nova Iorque, Estados Unidos da América.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c558e4e6dc40eb41b86ea38baa366a8d3b47dd5ac43521cab39a15b3764fc19e
+size 255

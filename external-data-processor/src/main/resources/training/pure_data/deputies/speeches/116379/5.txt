@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento da votação por duas sessões do Projeto de Lei nº 4.742-A, de 2001, sobre a tipificação do crime de assédio moral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bd308113f9ec84c346fc67ec52a8138f10a1e8b7fa7c139c9805cf70ab1c9e1
+size 186

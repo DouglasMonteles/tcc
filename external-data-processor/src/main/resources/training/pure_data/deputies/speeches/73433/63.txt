@@ -1,1 +1,3 @@
-Alerta às galerias sobre impedimento regimental de manifestação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3350f7b40928ccaa1705e7e15e6e3e10a2547fd6231e7349320c750979138be
+size 67

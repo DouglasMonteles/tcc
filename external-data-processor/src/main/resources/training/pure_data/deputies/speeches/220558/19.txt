@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado catarinense pela eleição do orador. Críticas à criação, pelo Governo Federal, de programa de passagens aéreas a baixo custo. Falta de confiança do mercado financeiro no Governo Luiz Inácio Lula da Silva. Denúncia de compra de Deputados pelo governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ab1e79da247a6062f3758640582405a89434d261e1002a45f15e16c857905f0
+size 295

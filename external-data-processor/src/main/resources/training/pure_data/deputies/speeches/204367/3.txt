@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à Vereadora Giovana Galato, do Município de Cocal do Sul, Estado de Santa Catarina, em visita à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e31cd53d4b46f744022191a2071e8cd013a114532525ea23262c4894f7bbf52b
+size 151

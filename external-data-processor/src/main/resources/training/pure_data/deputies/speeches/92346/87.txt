@@ -1,1 +1,3 @@
-Defesa da legalidade do processo de impeachment contra Presidenta da República afastada, Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69c39e5eeb3f61e1a4cf3194566b67d84a045039cf42963eba49621572013ebd
+size 105

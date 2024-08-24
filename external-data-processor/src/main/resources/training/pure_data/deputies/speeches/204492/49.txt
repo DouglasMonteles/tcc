@@ -1,1 +1,3 @@
-Solidariedade aos familiares do ator Paulo Gustavo e às vítimas da Covid-19 no País. Indícios de negligência do Presidente Jair Bolsonaro no combate à pandemia viral demonstradas pela CPI do Senado Federal destinada à investigação de omissões e responsabilidades do Governo Federal no enfrentamento da epidemia de coronavírus. Repúdio às ameaças do Presidente da República aos Prefeitos, Governadores e ao Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79ee970ae021a2bef82814ca3e3237b0c75bb0aeb6400e7e2c30467fd10c4b8d
+size 446

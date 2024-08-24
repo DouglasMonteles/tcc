@@ -1,1 +1,3 @@
-Protesto contra a aprovação, pela Casa, da Medida Provisória nº 1.031, de 2021, relativa à desestatização da empresa Centrais Elétricas Brasileiras S/A - ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:169bb553f32c68a5780d4cbba445875192f3b45d8d98228fba4c665652759218
+size 173

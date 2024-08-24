@@ -1,1 +1,3 @@
-Presença na Casa do Prefeito Laercio Demerval Schuster Junior, do Município de Timbó, Estado de Santa Catarina. Defesa do estabelecimento, no corpo da reforma política em votação na Casa, de regras adequadas para a troca de partido pelo detentor de mandato eletivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c33bb7efdaf6f28774d70d9f8e9014f161aba44f7c4529113875e5d934dce69
+size 271

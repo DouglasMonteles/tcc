@@ -1,1 +1,3 @@
-Transcurso do 133º aniversário de emancipação político-administrativa do Município de Cariacica, Estado do Espírito Santo. Excelência da gestão do Prefeito Euclério Sampaio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe278f0c05003588e2b7046eca766b7835b90109f4ee046e0d690cb4983adac9
+size 183

@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalho. Impacto da crise econômica no emprego e salário dos trabalhadores brasileiros. Aumento da diferença entre trabalhadores com maior e menor remuneração, conforme dados da Organização Internacional do Trabalho - OIT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60b83724c01f708a25de5b657543b3541fe39fc1e808f6df72e866133b6d4b05
+size 251

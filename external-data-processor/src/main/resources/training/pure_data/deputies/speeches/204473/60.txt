@@ -1,1 +1,3 @@
-Protesto contra a decretação de lockdown por Governadores Estaduais para combate à Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea345b1ea9b376ea8d1ce3a95c3b6b349b61821b4c7024f436f16d12a17f40f9
+size 95

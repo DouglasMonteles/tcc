@@ -1,1 +1,3 @@
-Alerta aos consumidores sobre as altas taxas de juros cobradas pelas administradoras de cartão de crédito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37a9820bffe9c2314bfbc06eaa1ad1b6c043f2fbdda1473e87ded08b66def635
+size 108

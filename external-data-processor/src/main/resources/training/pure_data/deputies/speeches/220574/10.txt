@@ -1,1 +1,3 @@
-Importância de manutenção da independência do Banco Central. Improcedência dos ataques do governo petista ao presidente do órgão. Críticas ao Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33e0e2d19c050685ef7da0c7b82eea0af7074ebf1ff471c377c57dbbc3eee303
+size 185

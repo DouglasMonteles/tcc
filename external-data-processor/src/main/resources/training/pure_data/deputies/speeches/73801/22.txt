@@ -1,1 +1,3 @@
-Defesa dos interesses dos trabalhadores brasileiros no processo de apreciação da proposta de reforma previdenciária. Continuidade da luta em prol da Previdência Social justa e igualitária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f363e09809b55e649cff1d623c28671c234ec4f41f9b8746d0579a2769f47808
+size 193

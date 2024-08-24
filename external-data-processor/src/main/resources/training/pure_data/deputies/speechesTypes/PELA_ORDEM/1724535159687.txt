@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Decreto Legislativo nº 111, de 2023, para sustação dos §§ 13 ao 17, art. 6º, do Decreto nº 11.467, de 2023, sobre a atualização das leis de saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f2c067528985dd3baecb0e43043e9556108e36902d00e0be0b3ae5ff90137dd
+size 274

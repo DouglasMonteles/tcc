@@ -1,1 +1,3 @@
-Realização da 2ª Feira Nacional da Reforma Agrária, em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a6aaa78d2f2ba1df586ae622c559dcf171d64c739afce887fbe63a6cc6e4332
+size 92

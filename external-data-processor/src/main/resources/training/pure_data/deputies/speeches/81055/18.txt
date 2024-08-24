@@ -1,1 +1,3 @@
-Contestação ao discurso proferido pelo Deputado Edilázio Júnior, envolvendo o nome do Governador do Estado do Maranhão, Flávio Dino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c8e0a3f8027373f6aa58cec36f1c4d5c7cef8db2850a07aac609bb16c0c2fea
+size 138

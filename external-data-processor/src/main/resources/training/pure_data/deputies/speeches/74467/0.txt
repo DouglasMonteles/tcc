@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar em Defesa dos Profissionais de Saúde. Prejuízos causados pelas chuvas a Municípios do Estado da Paraíba. Realização do IV Congresso Nacional do PDT, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a5f9d42e8aed6523172e6b012dc668167d6f13eb638e79fce72f3d63dcfaf42
+size 218

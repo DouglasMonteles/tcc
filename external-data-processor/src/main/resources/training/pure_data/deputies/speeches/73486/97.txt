@@ -1,1 +1,3 @@
-Realização, pelo PDT do Estado do Rio Grande do Sul, de evento por ocasião do transcurso do 30º aniversário do encerramento do exílio do ex-Governador Leonel de Moura Brizola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04775a194048b33a6f531abb688e93643d21005660fe9c2a1b9943ebd91f5254
+size 181

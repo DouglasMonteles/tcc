@@ -1,1 +1,3 @@
-Anúncio de paralisação de caminhoneiros no Pais. Alerta sobre a necessidade de redução dos tributos incidentes sobre o óleo diesel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52784d4ca6ba560d0f0a9c304315126edc8888b628c88460e27eba522f23d084
+size 137

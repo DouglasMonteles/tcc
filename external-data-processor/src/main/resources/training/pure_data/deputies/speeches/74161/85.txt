@@ -1,1 +1,3 @@
-Regozijo com a aprovação pela Comissão Especial respectiva de aumento no repasse do Fundo de Participação dos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:178df266d2fa8cf2f3a577b62d94cc05df47e058cf9df274ff3455a71ccf4994
+size 127

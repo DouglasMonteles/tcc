@@ -1,1 +1,3 @@
-Pedido ao Ministério do Planejamento, Orçamento e Gestão de revisão da nota técnica sobre a retirada da gratificação de dedicação exclusiva de professores universitários cedidos às administrações estaduais e municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59b0d580c3e85f89a0b46fdfbaedf9ec2909c63e4d39d6fa0689269376b600f8
+size 232

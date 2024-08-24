@@ -1,1 +1,3 @@
-Repúdio ao comportamento do Deputado Silvio Costa no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43d9a636d4e4071542cee4523ac10dc5c0afa2c3c089e27a24636c94d5ddadd0
+size 64

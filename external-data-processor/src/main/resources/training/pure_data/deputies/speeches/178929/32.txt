@@ -1,1 +1,3 @@
-Consulta ao Presidente sobre o calendário de sessões dos meses de agosto e setembro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:040233ec2ddeefafb5d0bf1dcfa06dd9eb127d0abfc1e5baf19e08da53e4fb04
+size 86

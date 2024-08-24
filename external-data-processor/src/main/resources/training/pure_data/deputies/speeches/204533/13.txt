@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 13, apresentada ao Projeto de Lei nº 1.079, de 2020, sobre a suspensão das obrigações de beneficiários do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade pública. Apelo à Presidência de inclusão na pauta da Proposta de Emenda à Constituição nº 15, de 2015, sobre a transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fdeb1effe6676f83355fb91651bd8f47787772face5f73c98791352821567bd
+size 614

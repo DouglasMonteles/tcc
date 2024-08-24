@@ -1,1 +1,3 @@
-Responsabilidade do governo anterior pela reinclusão do Brasil no Mapa da Fome. Geração de novos postos de trabalho no País. Crescimento do Produto Interno Bruto - PIB brasileiro. Valorização do salário mínimo. Queda das espirais inflacionárias. Avanço das áreas nacionais de saúde e economia. Sanção da Lei nº 14.572, de 2023, sobre a instituição da Política Nacional de Saúde Bucal,&nbsp;no âmbito do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4a0099b9808051c0619e909ed31d5885a04c1d02ff4341fe521a96514fa9fb4
+size 454

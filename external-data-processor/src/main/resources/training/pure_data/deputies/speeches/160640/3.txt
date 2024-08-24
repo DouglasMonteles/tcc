@@ -1,1 +1,3 @@
-Importância de recriação da Frente Parlamentar de Apoio às Santas Casas de Misericórdia, Hospitais e Entidades Filantrópicas na Área de Saúde. Relevância do papel desenvolvido pelas Santas Casas de Misericórdia e pela rede de hospitais filantrópicos. Anúncio de criação da Frente Parlamentar em Defesa das Comunidades Terapêuticas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e17e719fcb1bb27bff035ff97ac6c07439942e39b882ce3cf99ddaf7f0d7c14
+size 346

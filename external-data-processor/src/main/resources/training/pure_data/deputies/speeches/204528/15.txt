@@ -1,1 +1,3 @@
-Protesto contra a decisão da Presidência de não votação nominal do Projeto de Lei nº 7.596, de 2017, sobre os crimes de abuso de autoridade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e26f00693bbd111b1940ca85ed35c2ef15eb337bef2b7430bc765ebddce2ed6c
+size 146

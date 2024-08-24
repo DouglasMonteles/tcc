@@ -1,1 +1,3 @@
-Sessão Solene destinada a comemorar os 100 anos do Dia das Mães no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fbb2bb4e1fb40b32c394f9eef4567243f598bf496f5c06dbce7b20c16ed94f3
+size 76

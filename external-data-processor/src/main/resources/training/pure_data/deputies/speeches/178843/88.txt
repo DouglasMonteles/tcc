@@ -1,1 +1,3 @@
-Imediato pagamento do seguro-defeso aos pescadores de camarão, no Município de Piaçabuçu, Estado de Alagoas. Participação do orador em reuniões destinadas ao debate do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81532de5008e7f622859655d348bf6aeb02b955f26282d578c2cfe010e01d15e
+size 180

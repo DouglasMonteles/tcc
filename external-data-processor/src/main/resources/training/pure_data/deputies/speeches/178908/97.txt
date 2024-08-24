@@ -1,1 +1,3 @@
-Visita de integrantes da Comissão de Direitos Humanos e Minorias da Câmara dos Deputados ao Estado do Pará, para discussão sobre a morte de detentos no Complexo Penitenciário de Americano e de trabalhadores rurais sem terra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65afed77b9e5c76fe205009cc4aecf5b7f3ed5e2e023167d706cc87301fbea80
+size 229

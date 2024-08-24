@@ -1,1 +1,3 @@
-Presença no plenário da genitora do orador, Sra. Carmem Coutinho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e56cf2755d3acc8a409cafff2a0e8c60ed6001df42854320182cc7e18ec74b8
+size 67

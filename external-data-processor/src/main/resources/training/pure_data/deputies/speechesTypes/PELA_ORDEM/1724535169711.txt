@@ -1,1 +1,3 @@
-Incompatibilidade entre o crescimento da economia e a falta de investimentos nos setores de infra-estrutura rodoviária e de geração de energia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96c77a3fca147e5be48fde9a1e8e7f2b9459a9ba5dfd40c598976f5c6e8cbf30
+size 146

@@ -1,1 +1,3 @@
-Transcurso do 40º aniversário de criação da Universidade Estadual da Bahia UNEB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b122ad9d94fefee5879a990305824a15d504673a977ca1c3140e526e8e93f511
+size 84

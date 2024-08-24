@@ -1,1 +1,3 @@
-Reinício da greve dos caminhoneiros em face da resistência do Governo Federal à implantação da tabela impositiva do frete mínimo. Compromisso de atuação parlamentar em defesa dos caminhoneiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa261339f80e9ce048feb37eaa255955fb9be3ab8aee5b4f667845feeb361d1d
+size 201

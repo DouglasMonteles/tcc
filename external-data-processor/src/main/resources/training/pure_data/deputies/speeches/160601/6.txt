@@ -1,1 +1,3 @@
-Caráter criminoso do movimento promovido por grupos de soropositivos para contaminação proposital de jovens desavisados com o vírus HIV. Oportunidade de campanha nacional sobre os riscos à saúde com a promiscuidade sexual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c0249ecc45cd61b5edc1644706b6135c277c2bbe3d77309bc4c00c872e49d27
+size 228

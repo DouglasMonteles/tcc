@@ -1,1 +1,3 @@
-Parecer ao Projeto de Lei 84 de 2008-CN (Abre aos Orçamentos Fiscal, da Seguridade Social e de Investimentos da União, crédito especial  em favor do Senado Federal, da Justiça Federal, Eleitoral e do trabalho, da Presidência da República e do Ministério Público da União).
+version https://git-lfs.github.com/spec/v1
+oid sha256:337b3504df751035c7a89472d51b907017913586e0d383d5901e6d4411d765ee
+size 281

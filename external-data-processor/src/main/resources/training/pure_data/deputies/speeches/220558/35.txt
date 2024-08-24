@@ -1,1 +1,3 @@
-Falecimento da menor Luísa Petri Casagrande em decorrência da dengue, no Município de Barra Velha, Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c1552b4caf724d35687c097d75ca9a279e92dab86a348e06f0be436464bd3a3
+size 127

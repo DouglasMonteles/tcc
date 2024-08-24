@@ -1,1 +1,3 @@
-Solidariedade ao povo brasileiro, em especial aos familiares das vítimas da Covid-19. Repúdio e indignação do orador com o desvio de recursos públicos destinados ao combate à doença. Imediata votação pela Casa de projetos de lei relativos ao combate à corrupção. Equívoco da permissão, pelo Governo do Estado de Minas Gerais, da instalação de fábrica de baterias no Vale do Jequitinhonha a partir do lítio extraído na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28d61689fb56249bf2ec83361fb49f4ace7ea37290c6c0b5f0ab6c6230d173ea
+size 445

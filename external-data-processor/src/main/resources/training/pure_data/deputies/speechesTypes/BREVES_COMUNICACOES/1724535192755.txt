@@ -1,1 +1,3 @@
-Solicitação às autoridades competentes de esclarecimento sobre o desaparecimento dos professores indígenas Genivaldo Verá e Rolindo Verá, do Município de Paranhos, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33c5796ee03b3b9e00f44d88c1da469dac9f5353c9359a34f8452f863bd37a76
+size 200

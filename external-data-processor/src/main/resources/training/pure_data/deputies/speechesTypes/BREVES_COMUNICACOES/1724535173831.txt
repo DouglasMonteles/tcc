@@ -1,1 +1,3 @@
-Crise do setor pesqueiro nacional. Apelo ao Ministro da Pesca e Aquicultura, Altemir Gregolin, de intermediação no conflito entre pescadores dos Estados do Rio Grande do Norte e do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3b38c5ef9471d00aa356b5e64bd152db197e40abd68cc88db73cd2cdf028fab
+size 190

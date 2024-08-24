@@ -1,1 +1,3 @@
-Urgente necessidade de adoção, pelo Instituto Nacional do Seguro Social - INSS, de providêcias a respeito da falta de peritos médicos no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fee353ed8cc8eb04c6aa4fe99385de82fa5822698f9a28c161da1c0257be851
+size 160

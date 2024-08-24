@@ -1,1 +1,3 @@
-Presença, na Casa, do Deputado Estadual do Maranhão, Rafael Leitoa. Transcurso do 128º aniversário do Município de Colinas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de6113456e98f702361cbdac8854bb6500bec4004b556eaaaf000694636146c3
+size 128

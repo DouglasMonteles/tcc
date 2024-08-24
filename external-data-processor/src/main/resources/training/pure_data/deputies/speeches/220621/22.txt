@@ -1,1 +1,3 @@
-Solidariedade ao jogador de futebol Vinicius Júnior, vítima de racismo na Espanha. Afastamento do Juiz da 13ª Vara da Justiça Federal de Curitiba, vinculado ao Presidente Luiz Inácio Lula da Silva. Conivência do Poder Judiciário com sistema de corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6f9399b366572407f1a79b4778ca7cbd2d6371c6c9f22c9252c0f6fbecca68c
+size 263

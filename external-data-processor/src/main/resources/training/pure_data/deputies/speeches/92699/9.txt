@@ -1,1 +1,3 @@
-Apoio dos Governadores de Estado da Região Nordeste à aprovação do Projeto de Lei nº 3.261-A, de 2019, sobre a atualização do marco legal do saneamento básico. Urgente necessidade de aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f71dafb08686d94ff6bf094e9631bb2dd9958254b349c0a07d2213035bc80821
+size 215

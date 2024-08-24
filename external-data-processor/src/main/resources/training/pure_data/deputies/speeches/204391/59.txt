@@ -1,1 +1,3 @@
-Apoio do PODE e da bancada do partido à Operação Lava-Jato e ao Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb0dd33188801293c55d28e2d9a13d180743c859d1cb369945feb3e699d144a4
+size 93

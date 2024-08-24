@@ -1,1 +1,3 @@
-Congratulações ao Governador do Estado de São Paulo, Tarcísio Gomes de Freitas, ao Secretário de Estado dos Negócios da Segurança Pública de São Paulo, Guilherme Muraro Derrite, e à ROTA - Rondas Ostensivas Tobias de Aguiar, pela reação contra o assassinato de membro da corporação pelo crime organizado. Repúdio à manifestação dos Ministros da Justiça e Segurança Pública, Flávio Dino, e dos Direitos Humanos e da Cidadania, Silvio Luiz de Almeida, a respeito do caso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1ee27be49105c57a12e4e8ff0b01c8c9032376ac749c4f920167ec2403d31b8
+size 491

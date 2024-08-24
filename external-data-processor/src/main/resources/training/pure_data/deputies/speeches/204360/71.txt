@@ -1,1 +1,3 @@
-A Deputada fez um apelo para a votação urgente da Proposta de Emenda à Constituição nº 47, de 2023, destacando sua importância para os servidores dos ex-Territórios, especialmente Rondônia. Ressaltou a união necessária entre todas as bancadas e o senso de justiça para valorizar esses servidores, muitos dos quais faleceram aguardando a transposição. Pediu a união de todos os Deputados, independentemente de partido, para votar a favor da PEC e garantir o direito desses servidores à transposição para o quadro federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86ce8ac7ee6de69ae53e29edf315798e08585c578d264c9082a69bca9136775a
+size 538

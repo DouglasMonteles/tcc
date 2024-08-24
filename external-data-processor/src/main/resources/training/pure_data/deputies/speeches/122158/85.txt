@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Decreto Legislativo nº 1.105, de 2018, (Mensagem nº 703, de 2018) sobre a intervenção federal no Estado de Roraima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9200e3c5ac19be7a25520a7ac7738b09d15955a697bb5683233a57922d33ee12
+size 170

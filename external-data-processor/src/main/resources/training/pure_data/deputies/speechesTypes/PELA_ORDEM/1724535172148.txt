@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 863, de 2018, sobre a abertura do setor aéreo ao capital estrangeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87e16675172ada2524aaa508e81c34e1abd35db901355be5ab194f5f2685d292
+size 170

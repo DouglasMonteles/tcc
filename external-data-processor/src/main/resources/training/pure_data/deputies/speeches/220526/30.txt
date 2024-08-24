@@ -1,1 +1,3 @@
-Repúdio a discurso proferido por Deputado do PT em defesa de ex-presidiário corrupto e de ditador narcotraficante. Contestação às falsas acusações do Senador Fabiano Contarato contra o Senador Magno Malta por suposta prática de racismo. Pedido pela Procuradora-Geral de Justiça do Estado do Espírito Santo, Luciana Andrade, de instalação de grampo no parlatório para escuta de advogados de presos denunciados por prática de atos antidemocráticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e824af07ddbc4d1ceeb2160c3586d987cfa8c418e4ecab2695ea10f5aed47335
+size 461

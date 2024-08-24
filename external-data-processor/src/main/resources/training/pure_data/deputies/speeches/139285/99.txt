@@ -1,1 +1,3 @@
-Lançamento, pelo Governo do Estado da Bahia, do Programa de Proteção a Crianças e Adolescentes Ameaçados de Morte e do Programa de Proteção aos Defensores dos Direitos Humanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd63f555c4b146e1a712c166fe07d4d6513209e7e4a9a712084f6f465f8c3fda
+size 183

@@ -1,1 +1,3 @@
-Congratulações ao Presidente Rodrigo Maia por ação realizada em prol do sistema democrático. Declaração da Sra. Nelma Kodama, presa pela Operação Lava-Jato, sobre irregularidades em delações premiadas contra o ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6478362c4d80502375dcc5971dfd73823f7aa65fee684502bdd1989ba350017f
+size 262

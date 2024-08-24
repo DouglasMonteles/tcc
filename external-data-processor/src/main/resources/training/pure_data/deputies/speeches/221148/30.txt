@@ -1,1 +1,3 @@
-O Deputado criticou orador anterior por usar expressão ofensiva (ladrão de nove dedos), demonstrando preconceito contra pessoas com deficiência física. Sugerir que a Presidência determinasse a retirada da expressão dos Anais da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b3081c0a306c9731fabc0788d6040b0bfc488868f35e0a357bcb75861163cc1
+size 239

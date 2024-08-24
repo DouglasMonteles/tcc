@@ -1,1 +1,3 @@
-Insatisfação do orador com as políticas do Governo Jair Bolsonaro em relação à Amazônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9a72525cc979d3d0e8d8b9ef67495eba4ffa4ec410cef8f311ac8ac14c846b2
+size 95

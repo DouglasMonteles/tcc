@@ -1,1 +1,3 @@
-Encontro de empresários do Estado de Rondônia com os Presidentes Jair Bolsonaro e Rodrigo Maia. Realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7ca0cdfdbbf50205a277ce4c465bb0f8afa9ab6a761bf50bba4e156c95ff5d4
+size 134

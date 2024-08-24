@@ -1,1 +1,3 @@
-Regozijo com a concessão pelo Ministro Luís Roberto Barroso, do Supremo Tribunal Federal, de liminar no mandado de segurança do orador a favor da nulidade da sessão destinada à apreciação do processo sobre a perda do mandato do Deputado Natan Donadon. Defesa de cassação do mandato do Parlamentar pela Mesa Diretora da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ed5ef9d0a1f5fc89c9419471598b73dc06d14c5835a6aeab4257a261a8170b7
+size 333

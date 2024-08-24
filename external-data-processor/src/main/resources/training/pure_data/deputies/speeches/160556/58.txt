@@ -1,1 +1,3 @@
-Inadimplência do Governo do Estado de Minas Gerais com os investimentos nos setores de educação e saúde. Abertura de licitação para as obras de recuperação do Anel Rodoviário do Belo Horizonte e da BR-040, trecho Belo Horizonte-Ressaquinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb7f884b9f25f40c0cc29ad955c1439473ad05a76db347cb0ea023458968addd
+size 249

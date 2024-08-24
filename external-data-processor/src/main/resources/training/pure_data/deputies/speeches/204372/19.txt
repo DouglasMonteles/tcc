@@ -1,1 +1,3 @@
-Assinatura pelo Governador do Distrito Federal, Ibaneis Rocha, de decreto sobre a regulamentação do pagamento de pecúnias atrasadas aos servidores públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af12c97edbd18eb4bedc57fcf512ce5c7cffc935637547cce4c3f800677bd6ba
+size 160

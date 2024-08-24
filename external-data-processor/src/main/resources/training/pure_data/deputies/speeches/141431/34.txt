@@ -1,1 +1,3 @@
-Medidas do Governo Federal para enfrentamento dos efeitos da crise financeira internacional. Apelo à equipe econômica do Governo petista de criação de comitê estadual contra a crise.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78a90ff9b743b83478b0821183f768f043d82b967586d70b9d4555d65847278b
+size 187

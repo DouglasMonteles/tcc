@@ -1,1 +1,3 @@
-Necessidade de apreciação pelo Congresso Nacional de matérias de relevante interesse da sociedade brasileira, especialmente da área de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0024cba73b95210b2f4e3a7b85602912436bb4c5e2089511883f80438d375a17
+size 159

@@ -1,1 +1,3 @@
-Descumprimento pelo Presidente do Departamento Nacional de Trânsito - DENATRAN, Maurício Alves, do compromisso de suspensão do emplacamento de veículos no modelo do Mercado Comum do Sul - MERCOSUL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb5ec92bc483b3793aa68b2d919425137ba9a254daeb1adb178442587426b461
+size 201

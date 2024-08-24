@@ -1,1 +1,3 @@
-Congratulações ao Presidente Rodrigo Maia pela decisão de colocação em pauta, em novembro, do projeto que trata da liberação dos cassinos no Brasil. Solicitação de apoio à emenda sobre permissão de instalação de cassinos em estâncias hidrominerais. Presença na Casa de Vereadores e Vice-Prefeito do Município de Lambari, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebabf7a058d815f3c6f404b80f9c735a01d78852e3ca30737a9389e56494e3a7
+size 360

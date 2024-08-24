@@ -1,1 +1,3 @@
-Indignação do orador com a exibição pelo canal Netflix do filme Como se Tornar o Pior Aluno da Escola, com cenas libidinosas de afronta à moralidade envolvendo adolescentes, dirigido por Danilo Gentili e protagonizado por Fábio Porchat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff6c89ff0f895d4604a27d9ade14fd59b2022067d09527eeda2265ada82dc80c
+size 242

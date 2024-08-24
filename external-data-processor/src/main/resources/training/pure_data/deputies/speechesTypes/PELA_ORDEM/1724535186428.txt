@@ -1,1 +1,3 @@
-Anúncio de realização da Romaria Nacional dos Vicentinos, no Município de Aparecida, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ea3ec899edaf0d783af4ddb41b7fc9b1f9af723079ddcaad80c38ca23cd4642
+size 110

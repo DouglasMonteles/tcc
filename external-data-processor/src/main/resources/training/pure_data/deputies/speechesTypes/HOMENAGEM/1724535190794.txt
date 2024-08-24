@@ -1,1 +1,3 @@
-Sessão Solene em homenagem póstuma ao Deputado Eduardo Campos e ao Deputado Pedro Valadares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33352ec11052f3d26fcc6cddb37ffbc1a5ad79786ca6f4857ac97b72b1c3296e
+size 94

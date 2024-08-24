@@ -1,1 +1,3 @@
-Agradecimento aos Deputados pela assinatura de apoio à Proposta de Emenda à Constituição nº 2, de 2015, que altera o art. 166 da Constituição Federal para tornar obrigatória a execução da programação orçamentária decorrente de emendas de bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:038fded693ea419293f60d51812e0c93d4a36a1c79cb36bacd8c9e535d70de60
+size 260

@@ -1,1 +1,3 @@
-O Deputado saudou a presença na Câmara dos Deputados do seu filho Tony Andrade, Vereador da cidade de Porto Nacional (TO). Ademais, lembrou sua trajetória política como Vereador em Porto Nacional e como Parlamentar de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00fe7b831c5b3a35129720e203fb93df9685ecde9ada71265d75df549aaeb1db
+size 232

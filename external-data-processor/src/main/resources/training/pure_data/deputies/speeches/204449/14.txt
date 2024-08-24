@@ -1,1 +1,3 @@
-Regozijo com a demissão do presidente do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, Joaquim Levy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63a97e30b9eb3149c323b1bfea2a460e3260e971dc592f7dfa34520331ff493b
+size 118

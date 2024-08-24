@@ -1,1 +1,3 @@
-Celebração de acordo partidário para retirada do art. 6-A do substitutivo apresentado ao Projeto de Lei nº 5.384, de 2020, acerca da alteração da Lei nº 12.711, de 2012, com vista à transformação, em caráter permanente, da reserva de vagas nas universidades federais e nas instituições federais de ensino técnico de nível médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eee99e57d0ca3623bdd55779184779b1a2f9d85df7c8011451cec66ec299d30e
+size 344

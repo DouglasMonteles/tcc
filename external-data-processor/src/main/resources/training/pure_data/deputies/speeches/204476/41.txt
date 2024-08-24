@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do inciso II, § 1º, art. 107, do Ato das Disposições Constitucionais Transitórias e, por decorrência, dos §§ 12º ao 14º, do mesmo dispositivo, objeto de modificações constantes do art. 2º do substitutivo à Proposta de Emenda à Constituição nº 23, de 2021, e, por consequência, do art. 4º do substitutivo oferecido à proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40052dd12b4aa83b4ad7ec19928d773415f2f43d3d1359540c180a2f4ed165bf
+size 431

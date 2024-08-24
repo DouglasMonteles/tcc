@@ -1,1 +1,3 @@
-Visita do Secretário-Executivo do Ministério da Agricultura, Pecuária e Abastecimento ao Estado do Amazonas. Defesa da instalação de unidade avançada do Instituto Nacional de Colonização e Reforma Agrária - INCRA na região sul amazonense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97ed374b5f326840be21f94b9135d7c24e792380380449f2eff2ec846293a59e
+size 248

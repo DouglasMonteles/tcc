@@ -1,1 +1,3 @@
-Transcurso dos aniversários de emancipação político-administrativa dos Municípios de Malhada de Pedras, Aracatu, Ibiassucê  e Rio do Antônio, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a728195d1353a643038661c4d6c20909bac39c777c1673a59baa384b7be2f86
+size 168

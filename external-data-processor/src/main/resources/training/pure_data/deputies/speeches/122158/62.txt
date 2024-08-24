@@ -1,1 +1,3 @@
-Questão de ordem sobre a escolha dos representantes da Casa no Conselho da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8657d307727d72eecf44e3e33c4d2c305337b898978b2316bce0c442203318a
+size 87

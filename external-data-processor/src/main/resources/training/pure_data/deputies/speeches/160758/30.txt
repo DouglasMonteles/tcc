@@ -1,1 +1,3 @@
-Construção do Hospital Regional de Divinópolis, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84716efd2fe59769eb07fab6b6274838fdc456a50da3c69239b421e7bb163472
+size 74

@@ -1,1 +1,3 @@
-Assinatura pela oradora do requerimento de instalação da CPMI destinada à investigação da invasão e vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:965421d7c76495b5edfe1ad821632899878daa42cb86db4e625302f4cb10ba7d
+size 170

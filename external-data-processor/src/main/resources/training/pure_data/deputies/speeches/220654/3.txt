@@ -1,1 +1,3 @@
-Repúdio ao posicionamento do Ministro dos Direitos Humanos e Minorias favorável à descriminalização de drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94320659dab972187ae99b14fca3588c7b193f60472dcc4225f4f378bbe72015
+size 115

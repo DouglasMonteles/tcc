@@ -1,1 +1,3 @@
-Concessão, pelo Governo do Estado de Alagoas, de incentivos tributários a empresas aéreas para ampliação de voos no Aeroporto Internacional Zumbi dos Palmares, na Capital Maceió.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3928d189373469bc7b8bbdad5b92e12074a8b35c5fb670494294fa3e3d5dac52
+size 184

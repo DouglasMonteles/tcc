@@ -1,1 +1,3 @@
-Documento Queremos produzir alimento. Contra o agronegócio, em defesa da agricultura camponesa, do movimento Via Campesina. Ocupação de propriedades rurais por integrantes do movimento nos Municípios de Mari e Sousa, Estado da Paraíba. Decisão do Tribunal Superior Eleitoral pela manutenção de candidaturas de postulantes a cargos eletivos com antecedentes criminais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afb0400da191253b6d2b649e6c665d6d44c415499d015d2745c0f71837cf3b2c
+size 375

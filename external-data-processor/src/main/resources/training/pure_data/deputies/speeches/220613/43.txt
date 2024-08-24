@@ -1,1 +1,3 @@
-O Deputado comemorou o transcurso do Dia Nacional de Combate ao Fumo, comunicou a realização, nas dependências da Casa, do seminário com o tema Integração dos centros e unidades especializadas em oncologia, elogiou o trabalho do Instituto Nacional d Câncer - INCA no Rio de Janeiro, Estado do Rio de Janeiro, e parabenizou a TV Câmara pelos 25 anos de serviços prestados ao Parlamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f30a509d440e6e32a9b6a052d3ecf316ccbdc855072554b1622874f3bb97cb7e
+size 394

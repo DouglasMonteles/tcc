@@ -1,1 +1,3 @@
-Solicitação à Presidência de substituição do orador como membro da Comissão Especial do Impeachment
+version https://git-lfs.github.com/spec/v1
+oid sha256:008d2d6a533b8e2de85aaf2c70fd0288cb29d8323b0da1c7bd26fa7d829e4344
+size 106

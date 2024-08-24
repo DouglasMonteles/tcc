@@ -1,1 +1,3 @@
-O Deputado abordou a crítica situação da estiagem no Pará. Destacou a importância dos rios para alimentação e transporte na região, lamentando os impactos da seca, que priva as comunidades de alimentos e de água potável, e impede a locomoção. Agradeceu ao Governo Estadual e ao Governo Federal as ações emergenciais, que declararam estado de emergência em 18 Municípios. Anunciou a visita dos Ministros das Cidades e da Integração para avaliar e implementar medidas de auxílio, incluindo um microssistema de fornecimento de água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59e9861d4efd072a81a340c3dc68058025f08713dac7487b6af1e353e509ba5a
+size 549

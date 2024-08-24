@@ -1,1 +1,3 @@
-O Deputado contestou oradora governista sobre dados a respeito do Brasil e de joias. O orador afirmou que o Governo cairá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7d799c4bf6cc218bd874779ca306d89b59cc83892d99341639a75c1c57e79aa
+size 123

@@ -1,1 +1,3 @@
-Informação à Presidência de acordo em reunião de Líderes partidários para votação dos projetos de lei relativos ao sistema tributário Super-SIMPLES e ao salão-parceiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29edaebb97ad4e1b97615ed31c363664d9477d436acfb327043a79ffe1ef17c7
+size 179

@@ -1,1 +1,3 @@
-Transcurso dos aniversários de emancipação político-administrativa dos Municípios de Bom Jardim e Miranda do Norte, Estado do Maranhão. Elogio às gestões dos Prefeitos das duas municipalidades maranhenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb6b035bad62bb40d1bb59a6021cb673748a57b8e261461bbe2eb5c160f7daff
+size 213

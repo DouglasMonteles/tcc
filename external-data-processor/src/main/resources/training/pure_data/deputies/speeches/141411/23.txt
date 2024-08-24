@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT à   PEC 130 de 2007 (Revoga o inciso X do art. 29; o inciso III do art. 96; as alíneas be c do inciso I do art. 102; a alínea a do inciso I do art. 105; e a alínea a do inciso I do art. 108, todos da Constituição Federal - foro privilegiado), em votação em primeiro turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:286c531ad389e45134023db2bd73d7a2bb9184fb1136855a58514b82a47a885d
+size 313

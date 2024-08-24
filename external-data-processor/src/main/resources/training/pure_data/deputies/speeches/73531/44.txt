@@ -1,1 +1,3 @@
-Exoneração da Ministra do Meio Ambiente, Marina Silva. Críticas à política ambiental implementada pelo Governo Luiz Inácio Lula da Silva. Matéria Desmatamento cresceu em torno da BR-364, publicada pelo jornal Valor Econômico. Expectativa quanto à atuação do novo Ministro do Meio Ambiente, Carlos Minc. Considerações sobre a demarcação da reserva indígena Raposa Serra do Sol, Estado de Roraima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd6ab834db2906f0620d5b0eb692134b4125871747a65e8ab2f236c781360415
+size 411

@@ -1,1 +1,3 @@
-Importância da discussão sobre o aumento do repasse de recursos para o Programa Nacional de Alimentação Escolar - PNAE. Homenagem aos alunos da rede pública de ensino do Estado de Alagoas pela excelente nota obtida na prova de redação do Exame Nacional do Ensino Médio - ENEM. Excelência dos trabalhos desenvolvidos pela Profa. Lívia Soares, da Escola Estadual Maria das Graças de Sá Teixeira, situada no Município de Maceió. Importância das políticas públicas voltadas à educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2daa1b432088c4bfb242dc3974e21109de8fbde3d7d6b641d81c94fada5d2a10
+size 501

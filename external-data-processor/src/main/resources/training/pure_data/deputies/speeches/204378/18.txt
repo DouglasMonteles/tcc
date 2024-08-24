@@ -1,1 +1,3 @@
-Homenagem aos integrantes das Forças Armadas brasileiras, em serviço na fronteira do Brasil com a Venezuela. Natureza ditatorial do regime do presidente da Venezuela, Nicolás Maduro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:720001c42b26e1ca25b348941fbf6ff6dd3e10a8c0b47102f4cb6067413deba0
+size 185

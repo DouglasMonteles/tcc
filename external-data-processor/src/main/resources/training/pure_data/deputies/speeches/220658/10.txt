@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Decreto Legislativo nº 405, de 2023, que susta, nos termos do art. 49, V e X, da Constituição Federal, a aplicação da Portaria do Ministério do Trabalho e Emprego (MTE) nº 3.665, de 13 de novembro de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:543d967f60d91b9729c31c454e3297a2d93bfb675c0ca1a18c7fad0ea664dad2
+size 324

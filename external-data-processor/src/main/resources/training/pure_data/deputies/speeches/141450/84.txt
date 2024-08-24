@@ -1,1 +1,3 @@
-Compromisso do PSC com os interesses dos aposentados brasileiros. Importância da manifestação realizada pelos trabalhadores aposentados nas galerias do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d43694d528493c56a2869da2517bac307975c114879dd048cbff841d800385f4
+size 165

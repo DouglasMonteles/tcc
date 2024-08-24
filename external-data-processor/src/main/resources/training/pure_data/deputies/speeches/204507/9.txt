@@ -1,1 +1,3 @@
-Retirada do requerimento de votação nominal do requerimento de apreciação em regime de urgência do Projeto de Resolução nº 331, de 2018, sobre a instituição, no âmbito da Câmara dos Deputados, do Prêmio Nise da Silveira  de Boas Práticas e Inclusão em Saúde Mental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc44c9e6b2b3437cc0dce545585ea84ff420efdcd09cf541c4b592ad92b8f7b6
+size 281

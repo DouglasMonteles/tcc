@@ -1,1 +1,3 @@
-Importância da transposição de águas do Rio São Francisco para o semiárido brasileiro. Agradecimento aos membros da Frente Parlamentar Mista em Prol do Semiárido. Repúdio ao tratamento dispensado por Deputados a Ministros de Estado convocados pela Câmara dos Deputados. Destaque do Brasil no noticiário internacional no tocante à vacinação da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44aede75495f2ba46bc4cd2e8e85416c7699ebabd3a9c9ab4ede149dc307225d
+size 365

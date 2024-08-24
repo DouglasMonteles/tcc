@@ -1,1 +1,3 @@
-Apelo aos membros da Maioria e da Minoria para que busquem  acordo da votação da Medida Provisória 431, de 2008, (Dispõe sobre a reestruturação de planos de cargos e salários de servidores da administração federal, dos militares e das polícias federal e rodoviária federal); Considerações  sobre a importância da votação da  proposta de alteração da Lei Geral da Microempresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:851efbed299d8ecef9b72d42f47041476d06bffdf1407b3e7b3d1577f5a3b32a
+size 394

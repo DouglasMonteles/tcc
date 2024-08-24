@@ -1,1 +1,3 @@
-Anúncio da data de início da vigência da Lei de Acesso à Informação Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8dc38ef5abbbcfec27afac6c49191b32d3c2bc02b7123891f84177c77dfa5b9
+size 83

@@ -1,1 +1,3 @@
-Omissão da grande mídia sobre o assassinato do menor Rhuan Maicon, ocorrido na Cidade-Satélite de Samambaia, no Distrito Federal; a investigação do mandante do assassinato do então candidato à Presidência da República, Jair Bolsonaro, e a ação criminosa praticada contra o Ministro da Justiça e Segurança Pública, Sérgio Moro, por parte do jornalista Glenn Greenwald, do site The Intercept Brasil. Relevância das ações realizadas pela Operação Lava-Jato contra a corrupção e a impunidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:028a30f3affd88284fb93f3822b0b4e51185bbed99f3410885258524b7ef2d2e
+size 510

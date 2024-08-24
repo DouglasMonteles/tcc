@@ -1,1 +1,3 @@
-Congratulações ao Deputado Vicentinho pela coleta de assinatura para a criação de frente parlamentar em defesa dos camelôs e trabalhadores ambulantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a837c3a19680a796fe16c2e970c8d985fec4066c40a206bb5d1368bb9ae21ae
+size 155

@@ -1,1 +1,3 @@
-Importância de cumprimento das recomendações médico-sanitárias destinadas ao enfrentamento da Covid-19. Defesa de produção, por indústrias nacionais, de respiradores artificiais para atendimento aos infectados por coronavírus e de outros equipamentos utilizados na área hospitalar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82615367a9424e7359b17e835b974e2fa4873f4cc3896532d22fbbd9b5d716e3
+size 291

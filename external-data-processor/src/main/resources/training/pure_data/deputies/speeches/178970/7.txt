@@ -1,1 +1,3 @@
-Liberação de recursos pelo Ministério da Educação para a construção de campus da Universidade Federal de Sergipe no Município de Nossa Senhora da Glória. Importância da instalação do campus universitário para o desenvolvimento das potencialidades econômicas da região do Alto Sertão Sergipano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f808df1451bf83619d7d597d04203ea2302339963b246ab9bea908c3e8927de
+size 309

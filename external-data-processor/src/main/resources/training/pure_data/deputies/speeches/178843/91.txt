@@ -1,1 +1,3 @@
-Defesa de votação do Projeto de Lei Complementar nº 18, de 2022, sobre a alteração Lei nº 5.172, de 1966, e da Lei Complementar nº 87, de 1996, com vista à inclusão de combustíveis, energia elétrica, comunicações e  transporte coletivo, entre os bens e serviços essenciais. Necessidade de revisão, pela PETROBRAS, da política de dolarização dos preços de combustíveis. Defesa de redução, pela Agência Nacional de Energia Elétrica - ANEEL, dos preços de energia elétrica no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14ce9a68af3fb870a142690a1229f827e12da6736bb6ea2f8725cd3bdcb3015b
+size 505

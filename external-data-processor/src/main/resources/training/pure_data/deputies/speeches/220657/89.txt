@@ -1,1 +1,3 @@
-O Deputado expressou preocupação ao ser ameaçado por um colega após fazer críticas à indicação do Ministro da Justiça, Flávio Dino, ao STF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e04e684c6cf7a4edea0363d3c9a5f6e63a8128a744e695fcbc61bc7da9c1cccc
+size 149

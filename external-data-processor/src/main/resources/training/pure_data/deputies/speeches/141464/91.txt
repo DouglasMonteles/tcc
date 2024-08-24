@@ -1,1 +1,3 @@
-Realização do IV Festival da Lagosta, no Município de Icapuí, Estado do Ceará. Comemoração do 51º aniversário de criação do Bairro Jardim Iracema, em Fortaleza. Transcurso do 84º aniversário de fundação da Estação Ferroviária de Missão Velha. Aprovação do projeto sobre a inclusão de segmentos culturais no regime tributário Super-SIMPLES. Expectativa de votação da proposta de emenda à Constituição sobre a transferência de recursos para Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d45a3726d210a1d42a6471c5551021bf03eb1f377bc3ab65df4b2019cdeb2f18
+size 490

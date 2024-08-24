@@ -1,1 +1,3 @@
-Agradecimento ao PTB pelo tempo de permanência na legenda e anúncio de filiação ao PROS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee6c65efd63b0fc7b4088e52eddeca00942900589ecea76077788b072e14e724
+size 92

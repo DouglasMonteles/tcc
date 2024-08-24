@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado gaúcho pela recondução do orador à Casa. Saudação aos novos Parlamentares e aos reeleitos. Crítica à preponderância de falsos dilemas nos debates feitos na Casa, em especial sobre reforma política, educação e políticas fundiária e econômica. Críticas à alta taxa de juros no Brasil. Repúdio à permanência da Presidenta da PETROBRAS, Maria das Graças Foster, no cargo. Inconformismo com excessos praticados por agentes de fiscalização contra produtores rurais.  Apoio à elaboração de legislação positiva sobre uso de propriedades rurais. Dificuldade de planejamentos de médio e longo prazo no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32d20a51ce0c523bb6271ccd934e34907912b825f5f607748f33c4e3e8d13972
+size 655

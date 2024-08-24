@@ -1,1 +1,3 @@
-Reivindicação de celeridade na apreciação do pedido de cassação contra o Presidente Eduardo Cunha e questionamentos sobre seus ganhos financeiros. Inconsistência das acusações contra a Presidente da República Dilma Rousseff para abertura de processo de impeachment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41f0d31d43ceeb9f125939139e0298e698963810e780e9d28f8de851b3dbf08c
+size 275

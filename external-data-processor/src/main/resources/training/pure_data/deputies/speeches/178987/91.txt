@@ -1,1 +1,3 @@
-Compromisso do Ministro do Trabalho e Emprego Manoel Dias com a busca de entendimento entre representantes sindicais e a empresa General Motors do Brasil - GM para readmissão de metalúrgicos demitidos no Município de São Caetano, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a79dab19b4ec590639407e9fb5f8e1604b4389eae7c8785f5da50a5dcba8021b
+size 255

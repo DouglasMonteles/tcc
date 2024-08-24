@@ -1,1 +1,3 @@
-Acerto da redução da taxa básica de juros em 0,5% pelo Comitê de Política Monetária - COPOM. Nota do Banco Central do Brasil sobre os motivos da decisão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfdc25309d4376c5f5849fccbb0d18e4a735bd090b9d82858cf22fe23e3e5962
+size 160

@@ -1,1 +1,3 @@
-Contestação ao discurso de Deputado contra membros do PT. Incompetência da base governista. Críticas ao Presidente Jair Bolsonaro. Não participação do presidente do PSL em debates no plenário. Disposição do PT para a discussão de projetos de interesse do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27eba4abc48993fdb5dd8d3d64488bb7f7302560b7a4a1c4fda2631967b69241
+size 272

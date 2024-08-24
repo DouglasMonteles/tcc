@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a reforma do ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f07e63596739a98198c1cda3116271054a08cb515d8db40bb5228469040f62b9
+size 66

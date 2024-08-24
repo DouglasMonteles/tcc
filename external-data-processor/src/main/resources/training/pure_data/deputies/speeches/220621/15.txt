@@ -1,1 +1,3 @@
-Indignação do orador com a realização, pela Polícia Federal, de operação de busca e apreensão na residência do ex-Presidente Jair Bolsonaro, diante de suposta inserção de dados falsos em seu cartão de vacinação. Dissensão da base aliada do governo petista na Câmara dos Deputados. Apresentação de pedido de impeachment do Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7bbb6c6178c283e2a6c70e7323bb6a54fb82ea5ed684ed2f9d14d16edf2427a
+size 378

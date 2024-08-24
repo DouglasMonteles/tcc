@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 1.961 de 2021, sobre a declaração da água como bem estratégico, de interesse nacional, de domínio inalienável e imprescindível do Estado; o estabelecimento do acesso à água potável como direito humano fundamental; e a proibição da privatização do uso e consumo da água da chuva, de córregos, rios e lagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6258a4735695c9fb8c30c116b6659210704081ad02e875968c7cb4dc10773e4
+size 359

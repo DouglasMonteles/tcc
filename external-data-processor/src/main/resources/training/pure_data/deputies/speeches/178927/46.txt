@@ -1,1 +1,3 @@
-Falecimento do precursor da técnica de plantio direto, Manoel Henrique Pereira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d951ed463547f6610db3f5dde40c89281feabd9b82690053e10c4ccf2f609b16
+size 80

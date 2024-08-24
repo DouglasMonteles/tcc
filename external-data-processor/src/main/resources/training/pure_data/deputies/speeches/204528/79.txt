@@ -1,1 +1,3 @@
-Pedido à Presidência de esclarecimento sobre os critérios adotados para a aferição do apoiamento do Plenário a recurso com efeito suspensivo, nas sessões realizadas pelo sistema híbrido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f7d1112b43fafd04f15d1c1d6443065db740786ac56f0fb5efe6c5ce69b1882
+size 194

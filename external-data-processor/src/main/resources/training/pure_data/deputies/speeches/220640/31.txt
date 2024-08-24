@@ -1,1 +1,3 @@
-Congratulações à Deputada Célia Xakriabá, autora do Projeto de Lei nº 3.148, de 2020, referente à autonomia das escolas indígenas, quilombolas e do campo para nomeação de instituições públicas de ensino em seus territórios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:508285350eec738c4d85cdf60096d12e22e9eddb644d7b1c429421f9c84edcfe
+size 237

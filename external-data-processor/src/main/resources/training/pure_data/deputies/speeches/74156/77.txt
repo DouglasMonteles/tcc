@@ -1,1 +1,3 @@
-Realização da Cavalgada do Taquaral, no Município de Peçanha, Estado de Minas Gerais. Defesa de aprovação pela Casa da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeac7fdfde40867f10302face62756b7a5adab88568d42b132c5563b4637e773
+size 259

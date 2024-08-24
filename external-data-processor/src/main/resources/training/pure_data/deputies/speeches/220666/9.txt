@@ -1,1 +1,3 @@
-Acerto da aprovação pela Casa do Projeto de Lei nº 2.617, de 2023, sobre a instituição do Programa Escola em Tempo Integral, e a alteração da Lei nº 11.273, de 2006. Reestruturação do setor educacional pela Governadora do Estado de Pernambuco, Raquel Lyra. Anúncio de implantação do projeto Escola Aberta no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0d6547b0dc9875e40d6432031bbfb63916b3dbfb7c88f177ded1501f90c2082
+size 328

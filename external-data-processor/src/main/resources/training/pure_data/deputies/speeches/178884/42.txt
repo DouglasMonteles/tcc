@@ -1,1 +1,3 @@
-Indignação com a falta de dinheiro nos terminais de autoatendimento do Banco do Brasil no Estado do Maranhão. Solicitação ao Ministério Público Estadual de ajuizamento de ação contra a instituição financeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e423df64e9fa6425cbf536af7b08747b959f64d9c9107291a8b78e56efce960
+size 219

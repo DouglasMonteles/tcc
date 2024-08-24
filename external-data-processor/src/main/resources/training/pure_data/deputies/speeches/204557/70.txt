@@ -1,1 +1,3 @@
-Anúncio de lançamento do edital da tecnologia 5G, nova geração de Internet móvel. Apoio ao amplo acesso da população da Amazônia aos serviços de Internet. Apelo ao Conselho da Agência Nacional de Telecomunicações por participação de pequenas empresas no leilão da tecnologia 5G.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d0b1ce1e5a63b860382e78ce2d00ac55ed477d327bb6cfd92cebcc4c780ac43
+size 293

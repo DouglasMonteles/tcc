@@ -1,1 +1,3 @@
-Felicitações ao Senador Walter Pinheiro pela desfiliação do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfcdf7592bfc0b75326974b4e2ae91ab6268cfe5993db41c2721014aabb663be
+size 67

@@ -1,1 +1,3 @@
-Empobrecimento da Bacia do Rio Uruguai, no Estado do Rio Grande do Sul, segundo dados do IBGE. Adoção de política de combate às desigualdades no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b791415bd3384dacd21e4f845a10ac8826bcd9a4141571a96eebed04b9161479
+size 156

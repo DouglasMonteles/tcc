@@ -1,1 +1,3 @@
-Anúncio da criação de grupo de trabalho para exame de subsídios tributários, creditícios e financeiros concedidos pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8782bc225b64a656eac95c3005b08c383779f92e50162a5e3b85aceccd84aeb1
+size 141

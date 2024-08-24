@@ -1,1 +1,3 @@
-Discurso encaminhado pelo Presidente Arthur Lira à sessão solene realizada pela Casa ao ensejo do transcurso do Dia do Médico
+version https://git-lfs.github.com/spec/v1
+oid sha256:71641bee14f0887b6b259c72bdcea1d9fed2d684702e52488273d162c008d9df
+size 128

@@ -1,1 +1,3 @@
-Presença no plenário do Prefeito Jadson Lessa dos Santos acompanhado do assessor Luiz Conselheiro, do Município de São Miguel dos Milagres, Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b31f69fb546887b737ba56bcc15fa323fb6fa07bafd70af128574f4e42eece38
+size 162

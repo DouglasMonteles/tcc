@@ -1,1 +1,3 @@
-Importância da votação de matéria sobre o financiamento estudantil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:960ad77240fbbf905c0b3b98d82b5e8c00bc12d037964cb030afa131f94ce43c
+size 71

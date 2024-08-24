@@ -1,1 +1,3 @@
-Transcurso do Dia das Mães. Saudações às mães brasileiras, em especial à esposa e à filha do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8282e618d6d5223faae625942e4470284f8b6f8a67a7116814435e42f12716f7
+size 107

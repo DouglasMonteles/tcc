@@ -1,1 +1,3 @@
-Descompasso entre a eleição do símbolo da corrupção à Presidência da República e a cassação do mandato parlamentar do Deputado Deltan Dallagnol pelo Tribunal Superior Eleitoral. Prerrogativa da Câmara dos Deputados de decisão sobre a cassação de mandatos parlamentares. Declaração de voto contrário ao Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022, (novo arcabouço fiscal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b33db4edcfc31330a91e91dbc0e185a15cf8905e83ecdeb4913f1cf225364317
+size 646

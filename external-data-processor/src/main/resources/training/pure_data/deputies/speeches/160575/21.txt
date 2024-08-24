@@ -1,1 +1,3 @@
-Regozijo com o reconhecimento, pelo Supremo Tribunal Federal, da constitucionalidade do artigo 41 da Lei Maria da Penha, destinada ao combate da violência doméstica contra as mulheres. Defesa de aprovação, por ocasião da reforma política, de garantia da equidade de gênero na representação política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5e8280f15a224f024a6361769db2a6fc784e809052f07dbed37da70d335f80e
+size 309

@@ -1,1 +1,3 @@
-Preocupação do orador com a queda do nível de emprego no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1943a3ba5823eed4ef0206d3bf3dba72014f778d07dbd3e8b40a4ece156e76dc
+size 80

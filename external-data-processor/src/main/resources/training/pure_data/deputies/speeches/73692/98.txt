@@ -1,1 +1,3 @@
-Empenho do orador e de outros Deputados no estabelecimento do marco legal da primeira infância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:383de781f531e2b034499600900d90e51d9fc79413850828d92bab6e649325df
+size 96

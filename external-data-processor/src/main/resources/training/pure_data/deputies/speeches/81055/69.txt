@@ -1,1 +1,3 @@
-Transcurso do 407º aniversário de fundação de São Luís, Estado do Maranhão. Falecimento de Sandra Torres, ex-Vice-Prefeita da capital maranhense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9a1884730469179a829a3f5549b1d6874176752cb2ddb3343d01c6183148b01
+size 152

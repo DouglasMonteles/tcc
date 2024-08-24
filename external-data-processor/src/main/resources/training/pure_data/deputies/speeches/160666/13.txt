@@ -1,1 +1,3 @@
-Perspectiva de aumento do custo da energia elétrica no Brasil. Conveniência de concessão, pelo Governo Federal, de estímulos à implantação de fábricas de lâmpadas compostas por diodos emissores de luz - LEDs, de reconhecida qualidade e menor consumo de energia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fa4875882b27f950fae40c768ed0fcf5ef662989eb7ab5d53e88270df38dca0
+size 270

@@ -1,1 +1,3 @@
-Transcurso do 20º aniversário de emancipação político-administrativa dos Municípios de Coqueiros do Sul e Almirante Tamandaré, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da924e64c6290aaa4a70e673d0f48e68abbe983178cbdd183bb95d6b6aa0e09e
+size 162

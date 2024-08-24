@@ -1,1 +1,3 @@
-Necessidade de abertura pelo Governador do Estado da Bahia, Jerônimo Rodrigues, de diálogo com a Associação de Policiais, Bombeiros Militares e de Seus Familiares - ASPRA; a Associação dos Oficiais Militares Estudais da Bahia - FORÇA INVICTA; e a Associação de Praças da Polícia e Bombeiro Militar - APPM, em torno de propostas de atendimento aos interesses e anseios das corporações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:513f0a1f136ba90f79572de1525881ef6fb5d95aadeae07438c118cce562730a
+size 397

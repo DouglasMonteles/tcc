@@ -1,1 +1,3 @@
-O Deputado expressou sua indignação e classificou como hipocrisia o discurso do Deputado que o antecedeu, mencionando a defesa do superávit no Brasil. Destacou que o ex-Presidente Jair Bolsonaro deixou superávit, enquanto o país enfrenta um déficit . Criticou a destinação de recursos para aumentar Ministérios e distribuir dinheiro para outros países.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24551607b1ab3faea0a9ee84d02def9562479faccee85a171287fb709a9584dd
+size 362

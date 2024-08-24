@@ -1,1 +1,3 @@
-Encaminhamento de indicação ao Ministro da Integração Nacional, Geddel Vieira Lima, para imediata alocação de recursos para modernização da infraestrutura de perímetros de irrigação e suspensão temporária do pagamento das chamadas tarifas K1 e K2, na região do Vale do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cc3aed88914f3793ca540311461791107ac3e20cfc35ba510faeb2d576fe841
+size 302

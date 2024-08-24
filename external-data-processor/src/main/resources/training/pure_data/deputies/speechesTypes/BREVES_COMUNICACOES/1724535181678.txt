@@ -1,1 +1,3 @@
-Eleição do Deputado José Aníbal para a Liderança do PSDB. Alteração da sistemática de tramitação de medidas provisórias. Críticas à atuação do Ministro da Saúde. Proposições para apreciação nesta sessão legislativa. Votos de plena recuperação da saúde ao Senador Jonas Pinheiro; ao ex-Prefeito Municipal de Londrina Wilson Rodrigues Moreira e ao primo do orador Pedro Ayub. Lançamento, pela Conferência Nacional dos Bispos do Brasil - CNBB, da Campanha da Fraternidade de 2008, com o tema Fraternidade e defesa da vida e o lema Escolhe, pois, a vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ae3988887078401df1c849cda7cc9309c85b53c1d8ba1ecf5690a42e608d1a0
+size 576

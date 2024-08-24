@@ -1,1 +1,3 @@
-Elogios ao Senador Sérgio Petecão e ao Deputado Otavio Leite, respectivamente Presidente e Relator da Comissão Mista da Medida Provisória nº 671, de 2015, pela condução dos trabalhos e da votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06f7804bf2d4fbc1526776c1bbedf8e38b3d613ee1f717845668012baa029a2e
+size 217

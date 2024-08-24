@@ -1,1 +1,3 @@
-Concessão, pela Secretaria da Primeira Infância, Infância, Adolescência e Juventude, da Medalha Amigo da Primeira Infância a instituições e pessoas envolvidas em ações de proteção e garantia dos direitos da primeira infância. Realização, pelo Presidente Luiz Inácio Lula da Silva, de investimentos na área de infraestrutura rodoviária de Santa Catarina. Elevação do montante de recursos orçamentários destinados à duplicação das BRs-470 e 280, no Estado. Recomposição das dotações orçamentárias das universidades federais. Papel exercido pelo Programa Mais Médicos junto às populações vulneráveis. Retomada do Programa Saúde Bucal - Brasil Sorridente SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b529030ded542443764827dda4c1d9b5556f13e27d4af5b1585a1eb1df2cfc2
+size 691

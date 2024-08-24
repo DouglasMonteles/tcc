@@ -1,1 +1,3 @@
-Enfrentamento pelo candidato da Direita à sucessão presidencial, Javier Milei, da herança deixada pelo peronismo na Argentina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ad64e3ba473bffd136943f4d936d883d2ffb060f5957427d2c02e4f1b832f36
+size 129

@@ -1,1 +1,3 @@
-Descaso de companhias aéreas com os usuários no País. Indignação com o tratamento dispensado ao orador pela empresa Azul - Linhas Aéreas Brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e68b5e5a3ff04b93e3f7e5b8abef4c607ebd5f27894eba4e9f91401e9d5a7c3
+size 155

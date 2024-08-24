@@ -1,1 +1,3 @@
-Congratulações a entidades brasileiras, especialmente no Estado de Minas Gerais, participantes da campanha Outubro Rosa, destinada à conscientização sobre a importância da prevenção do câncer de mama. Relação entre a violência e o consumo de drogas no País. Premência de aprimoramento da segurança pública no Município de Paracatu, Estado de Minas Gerais, diante do elevado índice de homicídios. Atuação do orador em defesa da recuperação de dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c73a3f246bc247aa0e009fd68692b3bf6fef12b3732c1f495f0e95f17294174
+size 487

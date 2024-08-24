@@ -1,1 +1,3 @@
-Realização de acordo para a votação da Medida Provisória nº 759, de 2016, sobre a regularização fundiária rural e urbana. Solicitação aos Deputados de comparecimento ao plenário para votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbd3586efba180ce0074ad01c78bf88022f48ef33346a46e9bfacf3b941ebb79
+size 217

@@ -1,1 +1,3 @@
-Participação do orador na inauguração de estádio de futebol no Município de Envira, Estado do Amazonas. Transcurso do 153º aniversário de fundação do Município de Tefé. Visita ao Município de Itamarati.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a36df71ea6ead8f8aa87b1550f636197f7a8704f050873e6edf4aa2bcabb5ed9
+size 215

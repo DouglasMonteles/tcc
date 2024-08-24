@@ -1,1 +1,3 @@
-Instalação pela Casa de CPI destinada à investigação de responsabilidades por tragédia socioambiental ocorrida no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:665486f157cdc806c41cabe479606f13cbcdb611af8f9c30295ffbc04f6b70b0
+size 169

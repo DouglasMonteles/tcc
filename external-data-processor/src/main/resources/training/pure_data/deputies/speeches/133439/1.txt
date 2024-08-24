@@ -1,1 +1,3 @@
-Homenagem à memória do educador Darcy Ribeiro, por ocasião do transcurso dos 14 anos de seu falecimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2774b15f481615e05fe26e6c09107458f532837c30efc79d4e41c72c18cb6e29
+size 107

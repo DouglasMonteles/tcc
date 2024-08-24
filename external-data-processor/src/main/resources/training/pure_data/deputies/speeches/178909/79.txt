@@ -1,1 +1,3 @@
-Pedido de apoio dos Parlamentares para aprovação da Proposta de Emenda à Constituição nº 2, de 2015, que torna obrigatória a execução da programação orçamentária que especifica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:907dac98ea84fadeaefd578e15d393a927159979be862590b46a88f544278a07
+size 190

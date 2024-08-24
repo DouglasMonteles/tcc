@@ -1,1 +1,3 @@
-Protesto contra o lucro excessivo auferido pelas operadoras de planos de saúde no Brasil. Urgente reversão de decisão judicial sobre a validação do caráter taxativo do rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde Suplementar- ANS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2316f9b5bc1a9614acda506b6fb693d36e9eae2e1d4ce298a740d7792d30a6b
+size 268

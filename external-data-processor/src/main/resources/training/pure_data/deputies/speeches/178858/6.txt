@@ -1,1 +1,3 @@
-Informe de incêndio em reservatório de gás refrigerado da TRANSPETRO, no Município de Madre de Deus, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43585bf4d9063df18c4e450a95bf067e40a603e65d62fa3301b877f2e871b2bb
+size 121

@@ -1,1 +1,3 @@
-Repúdio à proposta da Prefeitura Municipal de Nova Friburgo, Estado do Rio de Janeiro, de alteração do nome do Teatro Municipal Ariano Suassuna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fa28180e499fb42e32a9a5e6b118532ce1fdb3bd9b952eabbd935cc5d9a75be
+size 148

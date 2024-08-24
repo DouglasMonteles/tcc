@@ -1,1 +1,3 @@
-Designação do orador para Relator do Projeto de Lei nº 2.541, de 2021, sobre a alteração da Lei nº 12.546, de 2011, com  vista à prorrogação, até o mês de dezembro de 2026, da desoneração da folha de pagamento de setores da economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0954486492f702acaae657dbe5ba103c822d600adaa8c5b939a1666ec04db568
+size 257

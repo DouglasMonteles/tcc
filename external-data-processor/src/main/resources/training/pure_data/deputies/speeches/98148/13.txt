@@ -1,1 +1,3 @@
-Análise sobre a crise do setor de leite do Estado de Santa Catarina, especialmente na região oeste catarinense, em face da importação crescente do produto da Argentina e do Uruguai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66f1c2e57afa1b4bb6643d1e6cd331da34882cf965bdd6bff2bd63f9b79e92ff
+size 185

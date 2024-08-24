@@ -1,1 +1,3 @@
-Repúdio ao comportamento de manifestantes na Comissão Especial da Redução da Maioridade Penal. Posicionamento favorável à redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb2e9614681722dde3556549c377910759a504bef1260b7a615b520a6ad1d867
+size 158

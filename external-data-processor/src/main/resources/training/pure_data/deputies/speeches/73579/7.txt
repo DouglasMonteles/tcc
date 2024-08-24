@@ -1,1 +1,3 @@
-Solicitação à Presidência de adoção das providências necessárias com relação ao não fornecimento, por empresa terceirizada da Casa, de tíquete refeição aos seus empregados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e358b2c240a454c4ffe92785a33849f60dd3678c5792ad23eaf2226b3ed8518b
+size 186

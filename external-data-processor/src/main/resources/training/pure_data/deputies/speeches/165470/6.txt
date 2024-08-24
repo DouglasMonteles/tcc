@@ -1,1 +1,3 @@
-Transcurso do aniversário natalício do ex-Presidente Jair Bolsonaro. Contrariedade à tributação de produtos comercializados pela Internet. Solidariedade aos Parlamentares denunciados pelo Ministro da Justiça e Segurança Pública, Flávio Dino. Defesa de sua convocação pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff687bf88d518fd541cdc4a95aeb7bf10e97b0400eb84a031bafc9e825a33301
+size 305

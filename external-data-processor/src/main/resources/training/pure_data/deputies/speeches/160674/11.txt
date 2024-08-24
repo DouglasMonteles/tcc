@@ -1,1 +1,3 @@
-Apresentação de requerimento de informações ao Ministério das Comunicações sobre a situação de bens patrimoniais em posse de empresas de telefonia fixa privatizadas. Realização de festival de música brega no Município de Quixaba, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f981e7ceb455420bf810566bc79995abf1c4017187104ec771793f9d0c76629
+size 262

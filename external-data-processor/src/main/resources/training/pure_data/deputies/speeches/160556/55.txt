@@ -1,1 +1,3 @@
-Apoio a reivindicações de trabalhadores rurais sem terra, quilombolas, indígenas e comunidades atingidas pela construção de barragens. Mobilização de movimentos sociais em defesa da reforma agrária, em Brasília, Distrito Federal. Realização de seminários sobre a situação de comunidades atingidas por barragens e sobre a produção, comercialização e utilização de agrotóxicos no País. Importância da Medida Provisória nº 562, de 2012, sobre a destinação de recursos para a educação no campo. Prioridade governamental na realização da reforma política. Defesa de financiamento público de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53d66c0f0a89f439e0a29dd673681b606a5dfec8b1bf35fa6dc92987a2a1ee7f
+size 640

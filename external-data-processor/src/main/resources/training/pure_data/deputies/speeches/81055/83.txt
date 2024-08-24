@@ -1,1 +1,3 @@
-Realização da 13ª Feira do Livro e do 4º Encontro Nacional pelo Direito à Comunicação, em São Luís, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecb2a0eeafcfc9b71006ab8e9aebeec577df2c98d00418b4257b42e32199bcf8
+size 129

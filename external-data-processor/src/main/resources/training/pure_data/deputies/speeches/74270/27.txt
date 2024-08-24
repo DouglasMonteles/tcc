@@ -1,1 +1,3 @@
-Registro de presença na Casa dos Vereadores Aloísio Schwarzer, Cloe Scheid e Adiles Meyer, e do Prefeito Sidnei Eckert, do Município de Arroio do Meio, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62bdcd4d630ec8c161f57188c59dcaa1e67d278f1dd3ed9609689bd92c3f76a4
+size 183

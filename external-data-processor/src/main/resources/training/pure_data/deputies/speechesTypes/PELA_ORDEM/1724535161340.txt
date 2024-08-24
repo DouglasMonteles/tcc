@@ -1,1 +1,3 @@
-Transcurso da Semana Nacional do Trânsito. Caráter alarmante do número de vítimas em acidentes de trânsito no País. Necessidade de discussão, na Casa, de matérias relativas à segurança do trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6472142c3c9c024decab2a44a280167a7a019c4cc595b288a8813362823ec20
+size 208

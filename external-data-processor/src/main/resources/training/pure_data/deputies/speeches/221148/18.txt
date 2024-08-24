@@ -1,1 +1,3 @@
-Necessidade de adoção pelo Governador do Estado de São Paulo, Tarcísio Gomes de Freitas, de providências a respeito da gestão da concessionária de trens urbanos ViaMobilidade. Anúncio da realização de audiência pública para debate do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5760bbd778d1c3afebaa97a54a2bbadae3ed57172855e62ddc688103f9fed63
+size 254

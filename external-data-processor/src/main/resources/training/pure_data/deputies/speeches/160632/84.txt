@@ -1,1 +1,3 @@
-Presença na Casa do Vereador Ademir, Presidente da Câmara Municipal de Januária, Estado de Minas Gerais, e dos Vereadores Manoel e Claudinho. Atuação do orador em prol do Município.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a34e8127971592254dca3af2affc4df30413be043788f7edf5a7c00d7c0a178
+size 187

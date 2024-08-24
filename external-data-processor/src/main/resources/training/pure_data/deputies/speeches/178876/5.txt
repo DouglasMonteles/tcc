@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de melhoria da segurança pública na região do entorno do Distrito Federal. Contestação ao pronunciamento da Presidenta da República em rede nacional. Críticas à gestão da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0732c6b9f35fec4242b1d6b2497aa0849f464eccdac6039e039ed576f8206ce6
+size 231

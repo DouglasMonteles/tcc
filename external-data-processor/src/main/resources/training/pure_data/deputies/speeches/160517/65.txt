@@ -1,1 +1,3 @@
-Convite à Presidenta Rose de Freitas e aos Parlamentares para participação no lançamento da licitação do Programa CREMA I, destinado á restauração e manutenção da BR-259, trecho João Neiva-Baixo Guandu, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:106ade570aacb2e8646ed270f6f5ea8e4da56eedf635a83fcb7dd0b409fe604d
+size 241

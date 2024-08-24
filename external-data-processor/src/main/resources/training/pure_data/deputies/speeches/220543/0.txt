@@ -1,1 +1,3 @@
-Transcurso dos 33 anos de inauguração da Universidade Estadual do Tocantins — UNITINS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3ca25c6c4ae3011c5ba4355da5c019c4748635d7a1364c872716b68ea71abc1
+size 90

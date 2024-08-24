@@ -1,1 +1,3 @@
-Manipulação de pesquisa de opinião pública pelo Instituto Datafolha, de acordo com matéria veiculada pelo portal Poder360.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6371f161ddde5517a3da2049251caf0cdfe931b392e5302127ad8923cdeae14b
+size 127

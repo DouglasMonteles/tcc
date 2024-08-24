@@ -1,1 +1,3 @@
-Publicação pela revista Veja de nota sobre o desvio de recursos destinados à saúde pública. Necessidade de melhoria da gestão do setor e de intensificação das ações de fiscalização dos seus recursos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b830c9623f8de80718063e6d9a4907cc4aaa09d9adff0af4b0bec4ba5dfacdaa
+size 211

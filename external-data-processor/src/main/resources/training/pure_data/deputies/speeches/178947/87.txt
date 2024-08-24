@@ -1,1 +1,3 @@
-Realização da Operação Boca Livre pela Polícia Federal contra fraudes na Lei Rouanet. Congratulações ao jornal O Estadão pela publicação de matéria sobre a utilização fraudulenta da lei de incentivo à cultura. Cobrança ao Presidente interino da Casa, Deputado Waldir Maranhão, de instalação da CPI da Lei Rouanet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c73aa6cdf2df76c349d494b9083b6bf68ffb2abfbda1844e1fc46bb0778b8aa0
+size 331

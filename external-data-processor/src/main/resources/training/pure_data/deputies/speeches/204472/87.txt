@@ -1,1 +1,3 @@
-Repúdio a atribuição ao Governo Jair Bolsonaro e a empresa Petróleo Brasileiro S/A - PETROBRAS da responsabilidade pelo vazamento de petróleo na região litorânea do País. Inconsistência de discursos a respeito do imobilismo das Forças Armadas brasileiras a respeito do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83b098b16ec63f9dbd75c2384519ddb18c40678aec379e333ddd1215e20a3451
+size 287

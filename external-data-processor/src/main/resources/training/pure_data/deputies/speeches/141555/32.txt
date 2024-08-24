@@ -1,1 +1,3 @@
-Desrespeito com a população idosa no País. Decisão do Superior Tribunal de Justiça sobre reajustes de planos de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bab0f388c6de11425532fd92d61d6665060c897edf3b05ae0aaabce03d9202e5
+size 124

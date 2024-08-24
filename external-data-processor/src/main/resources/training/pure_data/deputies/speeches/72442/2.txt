@@ -1,1 +1,3 @@
-Reassunção do mandato parlamentar pelo orador. Balanço da gestão do Parlamentar no cargo de Secretário de Turismo, Esportes e Lazer do Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:434ca076ca3a6289afeec89f49d2f1f9eb8549228698eb8628e8a29b317cb0af
+size 161

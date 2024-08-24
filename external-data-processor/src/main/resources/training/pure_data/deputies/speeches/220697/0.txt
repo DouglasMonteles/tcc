@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado piauiense pela eleição do orador. Linhas de atuação do Parlamentar no exercício do seu mandato. Confiança nas gestões do Presidente da República e do Presidente da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bd8db174526609c5b478d4e9dff53b5a9ffd1897a99d0a6c4af5d79a6365323
+size 222

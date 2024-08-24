@@ -1,1 +1,3 @@
-Inconsistência de declarações do Ministro da Economia, Paulo Guedes, sobre a recuperação da economia brasileira. Reajuste nos preços dos combustíveis, da carne bovina e de outros produtos. Inexistência no âmbito do Governo Federal de projeto de desenvolvimento econômico do País. Repúdio à Medida Provisória nº 905, de 2019, sobre a instituição do Contrato de Trabalho Verde e Amarelo, e a alteração da legislação trabalhista brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93df4846cf65173bbee34583265dcf3d63cb47efb29b4def768250e7f9ee1359
+size 458

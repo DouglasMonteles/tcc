@@ -1,1 +1,3 @@
-Instalação  da Frente Parlamentar em Defesa das Santas Casas e Hospitais Filantrópicos do Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b41afd0c76e9232a4a24b36bcc2d592424b8e4ccb63a8587b7adb35e0f5310e9
+size 116

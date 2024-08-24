@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 1º, da Emenda nº 1, apresentada ao Projeto de Lei nº 2.048, de 2020, relativo à alteração da Lei º 13.979, de 2020, com vista à suspensão de convocações para avaliação das condições exigidas para a concessão e manutenção do benefício de auxílio-doença; da aposentadoria por incapacidade permanente e da pensão por morte. Repúdio à manifestação do ex-Presidente Luiz Inácio Lula da Silva em exaltação ao novo coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78586483dcc26da207468a224c431419267e4233a387f1d9f448ea6a3a633830
+size 550

@@ -1,1 +1,3 @@
-Realização de audiência pública pela Comissão de Meio Ambiente e Desenvolvimento Sustentável, com a presença do Ministério do Meio Ambiente, sobre pagamento por serviços ambientais instituídos pela Lei nº 12.651, de 2012, e pela Lei nº 12.727, de 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d14a2e323b9a3071ba2ae1ffaa78593b2d62cf37f15af9efddb617099c74b61
+size 264

@@ -1,1 +1,3 @@
-Questionamento sobre o apoio de defensores da democracia à criação de CPMI para investigação de abusos praticados contra participantes em manifestação realizada no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:891b71414ce0dc5415df437b555939501773f5aff295ce940f8cda1ba193a941
+size 188

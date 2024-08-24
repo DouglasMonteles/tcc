@@ -1,1 +1,3 @@
-Presença de comitiva de Deputadas no Município de Formosa, Estado de Goiás, para acompanhamento da aplicação da Lei Maria da Penha e do julgamento do assassinato de jovem mulher e para articulação para instalação da rede de proteção à mulher no Município.
+version https://git-lfs.github.com/spec/v1
+oid sha256:144e1ad774ba503ea30e5a754b97b5846823bbe7831b54f3298454ee3533616e
+size 268

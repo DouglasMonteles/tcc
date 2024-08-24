@@ -1,1 +1,3 @@
-Defesa de construção da Refinaria Premium II, da PETROBRAS, no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63b5889208618753412f672a1fa2c2cbdba218ba5f53dc9cd5c18c54d1055ea6
+size 82

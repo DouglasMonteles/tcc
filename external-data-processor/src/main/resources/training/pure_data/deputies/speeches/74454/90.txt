@@ -1,1 +1,3 @@
-Sessão solene destinada à promulgação da Emenda Constitucional nº 97, de 2017, oriunda da proposta de Emenda à Constituição nº 33, de 2017, que altera a Constituição Federal para vedar as coligações partidárias nas eleições proporcionais, estabelecer normas sobre o acesso dos partidos políticos aos recursos do fundo partidário e ao tempo de propaganda gratuito no rádio e na televisão e dispor sobre regras de transição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cb81ea7b947531e8ab0f944f715c1179acc7decd8b46921961ad24ea0c09028
+size 444

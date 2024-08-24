@@ -1,1 +1,3 @@
-Orientação da respectiva bancada para votação da Proposta de Emenda à Constituição nº 395, de 2014, referente à gratuidade do ensino público em estabelecimentos oficiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:435bc961785aeca153a7f51c5be9b75a1d9dc70c9477af7a7d06fd95c5561273
+size 180

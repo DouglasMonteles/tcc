@@ -1,1 +1,3 @@
-O Deputado homenageou os pioneiros de Cascavel, no Paraná, pelos 72 anos do município em 14 de novembro de 2023. Saudou D. Aurora Baranoski Presley, centenária, desejando saúde e felicidades. Destacou o Sr. Pedro Muffato, ex-prefeito e desportista, recentemente homenageado com a inauguração de um museu que retrata sua trajetória no automobilismo. Expressou seu abraço a esses notáveis pioneiros, reconhecendo suas contribuições para a história e tradição local.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe113dc3a676a1ecd27012f05531cc8674cb91a99313873932011f9585cdf685
+size 477

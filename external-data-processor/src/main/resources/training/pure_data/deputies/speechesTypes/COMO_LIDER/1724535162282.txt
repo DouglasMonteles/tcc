@@ -1,1 +1,3 @@
-Defesa de aprovação da Medida Provisória nº 881, de 2019, sobre a instituição da Declaração de Direitos de Liberdade Econômica, o estabelecimento de garantias de livre comércio e a análise de impacto regulatório.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4bc80aca0ec4ac20a875bb49d15a5dfb8e29927235f684ed8595faafb5c5c65
+size 224

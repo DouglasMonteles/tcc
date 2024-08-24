@@ -1,1 +1,3 @@
-Realização da 4ª Jornada da Cidadania, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d2af802538af2abed23a8ca52935c9bd61280c68ba18994d956ec8074204ee5
+size 86

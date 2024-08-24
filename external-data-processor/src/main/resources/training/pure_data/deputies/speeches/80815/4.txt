@@ -1,1 +1,3 @@
-Apoio ao posicionamento do Presidente Arthur Lira a respeito do rito de tramitação de medidas provisórias no Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e8b729a960d77742eeb7b6de7573d5919400d7ed50377eaaead68ac901d682a
+size 131

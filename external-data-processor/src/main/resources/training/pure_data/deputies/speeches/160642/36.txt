@@ -1,1 +1,3 @@
-Estudo divulgado pelo Ministério da Saúde acerca dos efeitos do consumo do álcool.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99e4b9c3268e52ca7ec1c89b750962f0cc2daf7965f3697d7791e10cf552dea8
+size 85

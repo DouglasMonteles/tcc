@@ -1,1 +1,3 @@
-Solidariedade aos familiares das vítimas de atentado praticado por adolescente em 2 escolas do Município de Aracruz, Estado do Espírito Santo. Congratulações à polícia capixaba pela apreensão do menor infrator. Apelo à Casa de realização de debate sobre proposta de redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d75da02c6fbf678b56c1b72941ceb91d07a6e1be331626f88abfbb98b9fdf5f
+size 307

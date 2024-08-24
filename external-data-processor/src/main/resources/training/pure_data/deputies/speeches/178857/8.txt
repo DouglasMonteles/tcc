@@ -1,1 +1,3 @@
-Matéria Bahiafarma retoma produção e projeta faturamento de R$ 80 mi, sobre a retomada da produção de remédios pela Fundação Baiana de Pesquisa Científica e Desenvolvimento Tecnológico, Fornecimento e Distribuição de Medicamentos - BAHIAFARMA, publicada pelo jornal A Tarde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00c27d1166d287262050de9a70ba9507e8f85d97a80fc8eb6f35bbad8718bb0b
+size 286

@@ -1,1 +1,3 @@
-Elogio ao Deputado Pastor Henrique Vieira pelo discurso proferido no plenário. Realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d37c36b98597197f9bba8e67016cd02f98ef76565d82dd7850f715389991b22
+size 116

@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar Mista pela Reforma Política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4745fb30ae3da0e44373693d3a68335ece0b77609bc794f5db385efea7d4abc4
+size 61

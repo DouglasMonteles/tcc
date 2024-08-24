@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de adiamento, por duas sessões, da discussão do Projeto de Lei Complementar nº 19, de 2019, sobre a definição dos objetivos do Banco Central do Brasil, a sua autonomia, a nomeação e exoneração do Presidente e Diretores da instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa1fee7e807a118012d25e1d73248f0bd82c44fa07db99bf9f8e2f8e6dad8f3
+size 289

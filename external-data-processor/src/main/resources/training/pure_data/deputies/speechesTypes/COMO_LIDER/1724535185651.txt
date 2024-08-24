@@ -1,1 +1,3 @@
-Proibição ao Telegram pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes, de envio aos seus usuários da mensagem O Brasil está prestes a aprovar uma lei que irá acabar com a liberdade de expressão. O PL 2630/2020 dá ao governo poderes de censura sem supervisão judicial prévia. Para os direitos humanos fundamentais, esse projeto de lei é uma das legislações mais perigosas já consideradas no Brasil — leia aqui o porquê. Fale com seu deputado aqui ou nas redes sociais hoje mesmo — os brasileiros merecem uma internet livre e um futuro livre. Desrespeito à Constituição Federal e ao Parlamento brasileiro pelo Ministro Alexandre de Moraes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c63d8c96d6c2b43d4a64a7a72014ceae2eef9d85735c88d7b4352ea21a63f7fa
+size 673

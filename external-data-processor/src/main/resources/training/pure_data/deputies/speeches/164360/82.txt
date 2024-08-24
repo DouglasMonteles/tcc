@@ -1,1 +1,3 @@
-Dados do Relatório Situação da Adolescência Brasileira 2011 - o Direito de Ser Adolescente: Oportunidade para reduzir vulnerabilidades e superar desigualdades, divulgado pelo Fundo das Nações Unidas para a Infância e Adolescência - UNICEF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecd769fedd16371778d81d775b8955bd90b664b226b3014ccd1fe7ba55c40b2f
+size 247

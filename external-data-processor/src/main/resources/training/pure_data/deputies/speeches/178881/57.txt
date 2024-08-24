@@ -1,1 +1,3 @@
-Denúncia de utilização criminosa do Sistema Guardião pelo Secretário de Segurança Pública do Estado do Maranhão, Jefferson Miller Portela, para investigação de adversários políticos do Governador Flávio Dino e de outras autoridades. Aguardo do comparecimento do Secretário à Comissão de Segurança Pública e Combate ao Crime Organizado para esclarecimento do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d61fe4019c48ad1046d2ddd010bbcd6fd4d825580e16eca0a457d001932bcb9
+size 384

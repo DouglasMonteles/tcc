@@ -1,1 +1,3 @@
-Desenvolvimento socioeconômico brasileiro. Expectativa de erradicação do analfabetismo e de universalização dos serviços de saneamento básico no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de28d30630db2f5ddbd951f19c7cb61929f76ad9a483f570cea665481a7372d7
+size 158

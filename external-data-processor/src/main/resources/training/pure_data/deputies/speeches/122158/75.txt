@@ -1,1 +1,3 @@
-Posicionamento do orador favorável à realização de investimentos privados na empresa Petróleo Brasileiro S.A. - PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e240c77b54aa2727087667b283a4ba3a761280976ab563cec0ca81b201cb2e7
+size 127

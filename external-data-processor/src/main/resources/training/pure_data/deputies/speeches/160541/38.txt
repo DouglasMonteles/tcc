@@ -1,1 +1,3 @@
-Posicionamento contrário do PP ao Requerimento de retirada da pauta da Ordem do Dia da PEC 3 de 1999 (Altera os artigos 27,28,29,44 e 82 da Constituição Federal e introduz disposições transitórias de forma a fazer coincidir os mandatos eletivos que menciona e atribuir novo período de duração).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ec1015b1270ed39c50c8449695c37cb192a2157b0658cf93a7461f95f4e0f9d
+size 303

@@ -1,1 +1,3 @@
-Melhoria dos sistemas públicos de saúde dos pequenos municípios brasileiros. Apresentação de proposta sobre a possibilidade de averbação do município de origem dos pais no ato do registro civil de nascimento. Vantagens da emancipação político-administrativa de municípios. Necessidade de conclusão das votações da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares. Apoio à emenda apresentada pelo Deputado Paulo Pereira da Silva à proposta de reajuste dos proventos dos trabalhadores aposentados. Conveniência de extinção do fator previdenciário. Transcurso do Dia do Trabalho. Saudações aos trabalhadores brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed9cf94d9ec3baafd4f557a617cac1a6315577022857251778fcd1e3745ac91c
+size 725

@@ -1,1 +1,3 @@
-Realização das eleições municipais de Cordeiros, Estado da Bahia. Congratulações ao Prefeito e ao Vice-Prefeito eleitos, respectivamente, Edvar Ribeiro da Silva e Delci Alves Luz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aba0f5f55ac64e03a39f7b331259e7143f4911d722a30134303ba01f9f8463dc
+size 185

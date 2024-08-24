@@ -1,1 +1,3 @@
-Considerações acerca das investigações sobre o uso irregular de cartões corporativos por membros do Governo Federal. Editorial O que interessa ao país, publicado pelo jornal Zero Hora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be3e631843d1efb702849d53860a272f61075f608af53129daee1bb7221ae263
+size 190

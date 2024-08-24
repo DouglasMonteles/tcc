@@ -1,1 +1,3 @@
-Criação, pela Associação Gaúcha dos Detetives Particulares, da Comissão Pró-Aprovação do Projeto de Lei nº 1.211, de 2011, sobre a regulamentação da profissão de detetive particular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9119b9014d1ebb02bbd57d1936d0ed2e86146c792543d4e21254b06e382df91
+size 195

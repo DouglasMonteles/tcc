@@ -1,1 +1,3 @@
-Alcance social da proposta governamental de utilização do chamado Sistema S no processo de reforma e ampliação do ensino profissionalizante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b3b5df231689854b1d0790ee7ae75e6ca520f84127c639c47d032e7cb8f0bc6
+size 144

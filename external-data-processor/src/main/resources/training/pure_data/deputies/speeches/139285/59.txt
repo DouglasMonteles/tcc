@@ -1,1 +1,3 @@
-Relato de reunião da bancada federal do Estado da Bahia com representantes de hospitais privados e filantrópicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ae1bf62639332045cec9d2c73c055a614ec0fae32ceeda64199af0ca2f83e54
+size 115

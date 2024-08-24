@@ -1,1 +1,3 @@
-Agradecimento ao Deputado Juscelino Filho, Relator do projeto da Lei de Diretrizes Orçamentárias - LDO de 2022, pelo acatamento de emenda apresentada pelo orador em prol da área de segurança pública. Retrocesso da retomada do financiamento privado de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd2bcdfdf9f8dfece0b7df428202a698cde57a416bd25eb47dfbd0a4176b98c9
+size 277

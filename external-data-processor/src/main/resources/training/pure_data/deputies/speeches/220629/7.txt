@@ -1,1 +1,3 @@
-Ódio dos oposicionistas ao Presidente Luiz Inácio Lula da Silva. Caráter republicano do Presidente da República. Contrariedade à abertura de CMPI para investigação de atos de vandalismo praticados contra os Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5e3a2cb3b18b0cfd22889295bde28e334d25aaba2b308aecd724cb8c1d8b4fe
+size 236

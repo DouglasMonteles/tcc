@@ -1,1 +1,3 @@
-O Deputado manifestou sua insatisfação com a possibilidade de não haver Ordem do Dia em dias que antecedem um feriado. Destacou a importância de projetos na pauta, como o que institui o pacto nacional pela retomada de obras voltadas à educação e saúde, a medida provisória sobre apostas esportivas e o projeto que estabelece limites para juros de cartões de crédito. Enfatizou a necessidade de votar essas e outras matérias, independentemente da proximidade de feriados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46a7c2b499a538a3fbbac1cbab31014bcdc0194fdd6c2a8039794cbbf38bdc15
+size 482

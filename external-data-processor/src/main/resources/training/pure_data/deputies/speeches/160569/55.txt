@@ -1,1 +1,3 @@
-Transcurso do 22º aniversário de emancipação político-administrativa dos Municípios Mirante, Lagoa Real e Bom Jesus da Serra, Estado da Bahia. Comemoração do aniversário de criação do Município baiano de Brumado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fac6e3efdfd235e17bb080479e3089e844f146344a689c4987d9efd9ba96f425
+size 224

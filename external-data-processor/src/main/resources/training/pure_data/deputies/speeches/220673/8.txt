@@ -1,1 +1,3 @@
-Apelo ao Ministro dos Transportes, Renan Filho, por recuperação da malha rodoviária federal paraense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:444b692711b2a2df519a072d500e8282a91e595a9508877e0dc4713fd05b1e20
+size 104

@@ -1,1 +1,3 @@
-Apoio a movimento grevista de caminhoneiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6766655d1fb2f064571435e6019daad7c0d436517abeb4c7625bc2f5f517eca2
+size 44

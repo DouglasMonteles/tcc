@@ -1,1 +1,3 @@
-Transcurso do terceiro centenário da construção do primeiro balão aerostático por Bartolomeu Lourenço de Gusmão, o Pai da Aeroestação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91b4df65e9d02d10d6c090de0a817b673c4016cd7263f9849c33ba4940ab75d1
+size 143

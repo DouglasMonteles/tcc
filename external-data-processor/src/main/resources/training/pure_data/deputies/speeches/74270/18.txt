@@ -1,1 +1,3 @@
-Leitura de ato da Presidência sobre a criação de Comissão Especial destinada à apreciação do Projeto de Lei nº 6.789, de 2013, que altera a Lei Geral de Telecomunicações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d3afd68e9c49e1953b92ae1099a66aaed1a69b2c39f39cd86b4bdb5797cbd9e
+size 180

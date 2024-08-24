@@ -1,1 +1,3 @@
-Concessão de audiência ao orador pelo Ministro do Esporte, Aldo Rebelo, para a apresentação de reivindicações de Municípios do Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbcd561b2d4f76f039cf641df73a39b806b2628113e019f627e61ccd6249bbbf
+size 153

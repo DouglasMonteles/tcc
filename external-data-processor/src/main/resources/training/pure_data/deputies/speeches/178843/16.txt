@@ -1,1 +1,3 @@
-Expectativa de agravamento da recessão econômica ante a elevação da inflação e retração do Produto Interno Bruto - PIB. Consequências para empresas e cidadãos da política do Governo Federal de elevação das taxas de juros. Proposta de criação de grupo de trabalho com Parlamentares e especialistas para a proposição de medidas para o enfrentamento da crise econômica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f160c4b717bfaee4d441b4892754457b8c59b7754e15363f67eb8222c4881948
+size 384

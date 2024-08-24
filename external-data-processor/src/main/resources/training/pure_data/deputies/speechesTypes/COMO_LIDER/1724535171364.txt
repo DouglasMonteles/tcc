@@ -1,1 +1,3 @@
-Recomposição salarial das forças de segurança pública do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a27b902d89a9a0db9b6d2b130877ef865ccef8ec1c87f0987f12f49621a9fd6
+size 79

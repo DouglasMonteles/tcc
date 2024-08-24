@@ -1,1 +1,3 @@
-Transcurso de aniversário da emancipação político-administrativa do Município de Cornélio Procópio, Estado do Paraná. Potencialidades turísticas da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30caee507687d0582c9fd6136be76995a8421df7ef21ef535adf354157bf85ad
+size 172

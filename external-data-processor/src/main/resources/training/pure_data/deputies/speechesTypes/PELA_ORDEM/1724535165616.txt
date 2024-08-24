@@ -1,1 +1,3 @@
-Crescimento do número de crimes de homicídio e roubo no Estado do Pará. Inércia do Governo paraense na área de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d229590e9101a183fce29fd80b04d5fd1dde79b61d400d6dd5cbad6fe296960
+size 136

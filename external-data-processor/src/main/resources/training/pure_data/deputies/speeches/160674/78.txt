@@ -1,1 +1,3 @@
-Abertura, pelo Ministério do Turismo, de pré-matrícula para o Programa Nacional de Acesso ao Ensino Técnico e Emprego - PRONATEC Copa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:602a06f583c656f4e0819b9a62e088668a69516fb77a489f1a2e08279ee6acbf
+size 138

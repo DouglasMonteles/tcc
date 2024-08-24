@@ -1,1 +1,3 @@
-Necessidade de revisão do sistema penal brasileiro no que diz respeito à avaliação psiquiátrica de condenados. Defesa de realização, pela Casa, de amplo debate e de inclusão na pauta de votações de proposições relativas à reformulação de exames psicotécnicos de condutores de veículos automotores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea6218a7c19f082944ef5e919ed644e45279e8c91f141af20838ace9abdfcd04
+size 314

@@ -1,1 +1,3 @@
-Pedido ao Presidente Rodrigo Maia de retomada das sessões plenárias presenciais. Realização, nas dependências do Palácio do Planalto, de fórum para debate das ações de combate à corrupção promovidas pelo Governo Federal. Reexame do formato de gestão da área de segurança pública no Brasil. Realização do Fórum de Desenvolvimento do Semiárido Brasileiro, no Município de Mossoró, Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:095ca14e57bd49d064c1eef4df25eefcadd18cc1887d7ec8abd1bfd8965414f3
+size 431

@@ -1,1 +1,3 @@
-Protesto contra decisão da Governadora do Estado do Rio Grande do Sul, Yeda Crusius, de ajuizamento de ação direta de inconstitucionalidade da lei do piso salarial nacional para professores. Anúncio de realização de manifestação de educadores gaúchos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5169b6537440aba23c0785fdd42f304476fa2dfe6ee1e34d229676ea2bff380d
+size 260

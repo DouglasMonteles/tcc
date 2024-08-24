@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Comissão nº 116, apresentada à Medida Provisória nº 1.061, de 2021, sobre a instituição do Programa Auxílio Brasil e do Programa Alimenta Brasil. Defesa de votação do Projeto de Lei Complementar nº 32, de 2021, sobre a alteração da Lei Complementar nº 87, de 1996, (Lei Kandir), com vista ao disciplinamento da incidência de ICMS em operações interestaduais envolvendo mercadorias destinadas ao consumidor final não contribuinte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6448004a9615cf66da381b6c588c9ca710d8f9cf5c1834fdc590f19b17fd26f
+size 552

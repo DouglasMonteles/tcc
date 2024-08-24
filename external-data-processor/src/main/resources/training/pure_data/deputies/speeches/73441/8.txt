@@ -1,1 +1,3 @@
-Importância da aprovação, pela Casa, do Projeto de Lei n° 3.981, de 2008, sobre a criação do Conselho Federal de Jornalismo e regulamentação do exercício da profissão de jornalista. Transcurso do 18° aniversário  do Código de Defesa do Consumidor. Existência de novos desafios no plano normativo para o delineamento das relações jurídicas entre consumidores e comerciante e/ou fornecedores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc6a879b8bc7a5ced457958398ed4b7bfc0f47a4913e076af4ba50edf9baf533
+size 407

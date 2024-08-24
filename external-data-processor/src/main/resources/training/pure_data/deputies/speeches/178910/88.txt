@@ -1,1 +1,3 @@
-Inconformismo com a gestão do Departamento Nacional de Infraestrutura de Transportes - DNIT ante o estado de abandono de estradas do Estado do Paraná. Repúdio à tentativa do Governo Federal de aumento da carga tributária sem contrapartida em prol da população.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7badb3c256508787a52c72a25f78a86c3ea4bece3f2c1454ab7c628af41ef517
+size 267

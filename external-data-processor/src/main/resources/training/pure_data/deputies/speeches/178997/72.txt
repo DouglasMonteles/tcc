@@ -1,1 +1,3 @@
-Solicitação aos Parlamentares de votação da proposta de alteração da meta fiscal. Congratulações ao Presidente do Congresso Nacional, Senador Eunício Oliveira, pela atuação em defesa dos interesses da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99a685975cd635a8f52463bb19a85e6f84d625f4aa5cccb21a992888754edc61
+size 229

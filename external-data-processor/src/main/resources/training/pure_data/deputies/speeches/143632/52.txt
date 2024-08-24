@@ -1,1 +1,3 @@
-Convite aos Deputados para participação em eventos promovidos pela Comissão de Desenvolvimento Urbano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:459ef774cba11c5fd307ba028e91ffbf0771f924b59b925738194e4fb860b47f
+size 105

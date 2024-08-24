@@ -1,1 +1,3 @@
-O Deputado expressou sua insatisfação em relação ao decreto do indulto e criticou a exclusão das pessoas envolvidas no episódio de 8 de janeiro desse benefício, contrastando com casos de perdão a outros criminosos. Parabenizou o Senador Marcio Bittar pela apresentação de uma PEC que propõe a anistia às pessoas do referido evento e ao ex-Presidente Bolsonaro, alegando perseguição política. Alertou sobre o Projeto de Lei 2.630, de 2020, conhecido como PL das Fake News, que, segundo ele, representa uma tentativa de censura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb2b9eb05ee81a55435b58877c836a8d7c5b6ccf784026fe9197a9ce8226b5db
+size 541

@@ -1,1 +1,3 @@
-Enaltecimento das qualidades pessoais, políticas e profissionais do Deputado Dr. Pinotti, recentemente falecido. Congratulações ao Deputado Ronaldo Caiado pela apresentação do Projeto de Resolução 197, de 2009, que atribui ao Plenário 7 do Anexo II da Câmara dos Deputados o nome de Deputado Dr. Pinotti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0ab8a70b2fe7781502d6d3a21f072b5ec5c131a25865c7c075a562d78205384
+size 313

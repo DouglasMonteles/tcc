@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 13, apresentada ao Projeto de Lei nº 1.562, de 2020, relativo à alteração da Lei nº 13.979, de 2020, com vista à obrigatoriedade do uso de máscaras para circulação em locais públicos, durante a vigência das medidas de enfrentamento da pandemia de coronavírus. Elogio ao Relator da matéria, Deputado Gil Cutrim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:429306e13cd94e815524ad6e16fd719e776b011f9e13b516a97229d5f7ee80ad
+size 442

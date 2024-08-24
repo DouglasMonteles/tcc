@@ -1,1 +1,3 @@
-Regozijo com a aprovação do Projeto de Lei nº 4.639, de 2016, que autoriza o uso de fosfoetanolamina sintética por pacientes com neoplasia maligna. Empenho do orador com vistas à aprovação da matéria no Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8f3ea995f8894ff477303d31bf146693038c54d646faa0c688756c81725ff9b
+size 226

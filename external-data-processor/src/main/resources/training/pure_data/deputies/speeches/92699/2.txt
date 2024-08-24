@@ -1,1 +1,3 @@
-Sessão solene em homenagem póstuma ao Ex-Deputado Federal Osvaldo Coelho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87106e034fe0467c59623851d4e1424c444cb61994b342d4ad772bd5d497e13b
+size 75

@@ -1,1 +1,3 @@
-Reafirmação da luta contra o racismo ao ensejo do transcurso do Dia da Abolição da Escravatura no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0b904d3e46e899dc8815cf65abefc35ce1b4477cb7251032badfd5359ecb12b
+size 109

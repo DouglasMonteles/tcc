@@ -1,1 +1,3 @@
-Fraude na gestão do plano de saúde dos servidores do Supremo Tribunal Federal. Críticas à atuação dos tribunais desportivos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cf8a44c7b8c49c2adfabbbcedc0360cdecf8dbb4a6a12c66740fb9798b89f1f
+size 142

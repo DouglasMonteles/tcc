@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios. Apelo ao Presidente Arthur Lira de instalação da Comissão Especial destinada ao exame da Proposta de Emenda à Constituição nº 14, de 2022, sobre a redução da alíquota de contribuições sociais das municipalidades brasileiras. Comprometimento do orador com o municipalismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2f8501785fc71343341932a832bcc89664dfe76f02b758f4e4c19e1154640b1
+size 350

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento do encerramento da discussão e do encaminhamento da votação da Medida Provisória nº 1.026, de 2021, sobre as medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e comunicação, comunicação social e publicitária, bem como treinamentos de vacinação, e sobre o Plano Nacional de Vacinação contra a Covid-19. Interesse do Governo Federal na imunização do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55990681b4979177dadcbff84f4925ed1d81b8cfd5f019cb7dd8f571dfae1c6d
+size 509

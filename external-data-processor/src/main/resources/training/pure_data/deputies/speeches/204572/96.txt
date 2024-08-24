@@ -1,1 +1,3 @@
-Importância da prisão de condenados em segunda instância, para não postergação do cumprimento da pena e consequente combate à impunidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86bd62e05b634c9835d96471acf42eafeefa9d4b05e20f6c0b95322a6e710df2
+size 144

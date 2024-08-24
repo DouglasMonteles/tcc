@@ -1,1 +1,3 @@
-Fragilidade das finanças dos Estados e Municípios brasileiros. Apresentação do Projeto de Lei nº 712, de 2021, sobre o parcelamento, pela Fazenda Nacional, de débitos previdenciários dos Estados, do Distrito Federal e dos Municípios. Apelo ao Presidente da Casa, Deputado Arthur Lira, e ao Presidente do Senado Federal, Senador Rodrigo Pacheco, de celeridade na tramitação e aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ad3dce0c03512715097df48913636a04fd6c1638e49b330b74781cdb06199b6
+size 412

@@ -1,1 +1,3 @@
-Posicionamento favorável do PSOL à funcional programática 04722103226700101 do Programa de Trabalho da Unidade 2101 - Presidência da República, constante da Medida Provisória 405 de 2007 (Abre crédito extraordinário em favor da Justiça Eleitoral e de diversos órgãos do Poder Executivo, para os fins que especifica), relativa a recursos para serviços de radiodifusão de programas culturais e educacionais, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d31e23beec6206d8a7b3db7e7419cd608b521bca1ea3b3b9e85d3cd79fd79dc
+size 433

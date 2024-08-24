@@ -1,1 +1,3 @@
-Defesa de votação dos requerimentos de destaques oferecidos ao Projeto de Lei nº 2.337, de 2021, sobre a alteração da legislação do Imposto sobre a Renda e Proventos de Qualquer Natureza de Pessoas Físicas e de Pessoas Jurídicas, e da Contribuição Social sobre o Lucro Líquido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf689bc493ff504d0f36fcf3575cfbed684275af304ad67eff3242a3dda6416a
+size 289

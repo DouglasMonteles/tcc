@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda nº 1, com parecer contrário, apresentada na Comissão Mista da Medida Provisória nº 903, de 2019, sobre a prorrogação, por tempo determinado, de contratos do Ministério da Agricultura, Pecuária e Abastecimento. Pedido aos Deputados governistas de cessação de discursos contra o PT. Atraso do Presidente da República na sanção de projetos de lei destinados à proteção dos trabalhadores em situação vulnerável diante da pandemia do coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fc44d34b6dbd4a36a33d3a6026bb39e6d4b75eee149d6b1653e531aea5dcd29
+size 509

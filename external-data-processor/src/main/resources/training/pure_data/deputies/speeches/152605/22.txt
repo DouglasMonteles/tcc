@@ -1,1 +1,3 @@
-Ações do Governo do Estado do Rio de Janeiro para melhoria das condições de vida dos pequenos produtores rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5698789e134fa02021cbb2e5c8cab01b2a0d5761c698e8fa7013c7194cf5449e
+size 116

@@ -1,1 +1,3 @@
-Insatisfação dos brasileiros com escândalos de corrupção demonstrada em manifestações realizadas em todo o País. Necessidade de contribuição do Parlamento no enfrentamento da corrupção e de recuperação da credibilidade das autoridades públicas com a punição de envolvidos. Contrariedade ao impeachment da Presidenta da República. Defesa da redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2192301636f0b489be7fe6faaad805cc5706fee5732abdaaa5b3a42945703a
+size 388

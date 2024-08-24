@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de adiamento, por uma sessão, da discussão das Emendas do Senado ao Projeto de Lei de Conversão 8 de 2008 (Medida Provisória 410 de 2007) que acrescenta artigo à Lei 5.889 de 1973, criando o contrato de trabalhador rural por pequeno prazo, estabelece normas transitórias sobre aposentadoria do trabalhador rural e prorroga o prazo para contratação de financiamento rurais de que trata o § 6º do art. 1º da Lei 11.534 de 2007.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01a203f8463576e67bbe7261dbc02884a0a7b790e1af93464f7c7bf486d682e9
+size 480

@@ -1,1 +1,3 @@
-Imediata inclusão na pauta da proposta de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de receitas para o sistema público de saúde. Urgente votação da Proposta de Emenda à Constituição nº 300, de 2008, a respeito da criação do piso salarial nacional de policiais e bombeiros militares. Necessidade de transparência na divulgação das arrecadações da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeb846a4f54f70d725b3de44add1a6da55ae1701eff2e0b8efbdc4ca274732a1
+size 407

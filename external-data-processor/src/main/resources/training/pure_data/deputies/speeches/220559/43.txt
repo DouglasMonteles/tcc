@@ -1,1 +1,3 @@
-A Deputada ironizou o suposto amor dos petistas, especialmente das mulheres petistas, pelo ex-Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c132a7229b421d4ea930715a6844038fd58eaf7421e7aa61d1b147768e54514e
+size 120

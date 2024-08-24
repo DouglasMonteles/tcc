@@ -1,1 +1,3 @@
-Semelhança entre a pandemia de coronavírus e a gripe espanhola ocorrida há 100 anos. Transcurso do 294º aniversário de fundação de Fortaleza, Estado do Ceará. Elevado número de óbitos ocorridos na Capital cearense em decorrência da Covid-19.  Encaminhamento da votação do requerimento de destaque para votação em separado do art. 1º do texto original do Projeto de Lei nº 873, de 2020, sobre a alteração da Lei nº 13.982, de 2020, com vista à mudança nas regras do auxílio emergencial; à vedação da suspensão de benefícios previdenciários e assistenciais concedidos aos idosos, às pessoas com deficiência ou com enfermidade grave durante a pandemia da Covid-19, para a sua inclusão no Substitutivo oferecido pelo Relator da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b26ef4aae07eb6e4502a6d68fbe3ce219332923632539e75a9e446b0d9a4d93
+size 769

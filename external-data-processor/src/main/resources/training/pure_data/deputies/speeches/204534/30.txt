@@ -1,1 +1,3 @@
-Insuficiência do auxílio emergencial de 250 reais proposto pelo Governo Federal. Necessidade de inclusão na pauta da medida provisória a respeito do tema. Protesto contra a votação pela Casa de proposições alheias às medidas de combate à crise sanitária. Aproximação da marca de 300 mil mortes no Brasil em decorrência da Covid-19.  Agravamento da epidemia de coronavírus no País. Defesa de retomada do auxílio emergencial de 600 reais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e695f56e5e1eb2144c8e81ca82c9912909f229a949d628bb600b0eecb4510cdb
+size 453

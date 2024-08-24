@@ -1,1 +1,3 @@
-Estabelecimento de parceria entre o Governo do Estado de Pernambuco e o Instituto de Co-Responsabilidade pela Educação para melhoria da qualidade do ensino público de nível médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40f0bd7c083c96fc9b803e31fc54870052751d5ccf84243cf94179173b1ba793
+size 184

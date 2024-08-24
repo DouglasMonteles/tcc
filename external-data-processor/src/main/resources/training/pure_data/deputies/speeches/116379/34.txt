@@ -1,1 +1,3 @@
-Defesa de aprovação da proposta de reforma previdenciária com a inclusão de Estados e Municípios. Apoio à realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:349bf38327c193c7eb2d1d52fb28267fb539ff62d0c91dde0d719e05ddd0506b
+size 148

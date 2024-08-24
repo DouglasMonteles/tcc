@@ -1,1 +1,3 @@
-Lançamento da pedra fundamental do Centro de Excelência do Café no Distrito de Santa Luzia, Estado de Minas Gerais. Inauguração da Estação Digital de Caratinga, no Distrito de Santo Antônio do Manhuaçu, em Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3283140c4bd3b376251e62364a2f0bc4eaecfd37d9bd49b12d13b4b1c362b8d0
+size 228

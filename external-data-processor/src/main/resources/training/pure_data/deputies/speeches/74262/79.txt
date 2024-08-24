@@ -1,1 +1,3 @@
-Posicionamento favorável do PSDB à PEC 207 de 2012 ( Altera o  art. 134 da Constituição Federal para garantir  às Defensorias Públicas da União e do Distrito Federal autonomia funcional e administrativa e a iniciativa  de sua  proposta orçamentária), em votação em primeiro turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d780c2c1d0be8c7d94c489f0f000e0112d017ecea2de2dcc4a427e616201b50
+size 291

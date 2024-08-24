@@ -1,1 +1,3 @@
-O Delegado lamentou a morte do Sargento Gerson Antunes, um policial militar aposentado que foi executado enquanto varria a calçada desarmado. Ele criticou a falta de pronunciamentos por parte de representantes da esquerda e de ministros sobre esse crime. Também expressou sua preocupação com a chamada saidinha de presos em São Paulo, onde cerca de 30 mil detentos são liberados temporariamente. Pediu aos eleitores e cidadãos de bem que pressionem os Senadores a votarem no projeto que põe fim a essa prática, enfatizando que as vítimas e suas famílias também merecem justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdf3ab5a68adbb5d5b66767e1d79a40519699b73ce9830b8b49b808a89236f23
+size 590

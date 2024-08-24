@@ -1,1 +1,3 @@
-Esclarecimento ao Deputado Chico Alencar sobre a inexistência, no bojo do plano de recuperação fiscal do Estado do Rio de Janeiro, de exigência de extinção de universidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ede2c51b51bf15435cce5a2dcc7f16ee9288e749392f6c0f88d6850b5f8712db
+size 179

@@ -1,1 +1,3 @@
-Transcurso do Dia do Bombeiro Militar. Destinação de emenda orçamentária para investimentos na interiorização do Corpo de Bombeiros Militar do Estado do Piauí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a2b1e4f9c40a9250414744b9a2e94e43ed48464cd2f4aedc6405fa9394f8ced
+size 166

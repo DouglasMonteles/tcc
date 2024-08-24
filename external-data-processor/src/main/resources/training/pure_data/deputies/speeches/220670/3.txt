@@ -1,1 +1,3 @@
-Criação, pela Comissão de Saúde, da Subcomissão Especial destinada à discussão de políticas públicas de inclusão dos portadores do Transtorno do Espectro Autista - TEA. Transcurso do Dia das Mães.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8d2bcd0990b9463433aa9ec6960d0734f8dae6e6a4179b3ca6a753109a8a623
+size 207

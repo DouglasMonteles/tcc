@@ -1,1 +1,3 @@
-Questão de ordem sobre a inobservância, por Deputados, do decoro parlamentar em discursos proferidos no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee345b4bceeb7f7e5baa859d719567b1548294d8a3eac7b1d41ef926dc0a45c8
+size 116

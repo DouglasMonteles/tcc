@@ -1,1 +1,3 @@
-Apresentação dos Projetos de Lei de nºs 2.279 e 2.283, de 2023, respectivamente, sobre a inclusão da pedofilia no rol dos crimes hediondos e a majoração da pena imposta ao crime de estupro de vulnerável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:627c7edb058ed47f3849f72ce6d2ed82d69e59aa85a801f0be9092fccc228379
+size 210

@@ -1,1 +1,3 @@
-Transcurso do 124º aniversário da Abolição da Escravatura no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7152c73d8868acb6868abda507eae537e42633e960f60d815b63d16d3686011
+size 71

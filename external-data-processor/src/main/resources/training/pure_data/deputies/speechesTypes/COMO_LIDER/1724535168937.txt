@@ -1,1 +1,3 @@
-Redução da criminalidade e da violência no País. Importância da atuação dos médicos residentes para a melhoria da saúde básica no País. Defesa do reajuste dos salários da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50678f084209d84456033dc53e5b28c0a4e9cd4fe99f10e507c1fbe04389cba7
+size 193

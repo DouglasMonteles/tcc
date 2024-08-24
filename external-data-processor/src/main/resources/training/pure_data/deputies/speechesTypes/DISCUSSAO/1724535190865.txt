@@ -1,1 +1,3 @@
-Discussão do Projeto de Decreto Legislativo nº 746-B, de 2017, acerca da aprovação do texto do Memorando de Entendimento entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha sobre Programa de Férias-Trabalho, assinado em Brasília, em 13 de fevereiro de 2015. Criação da Frente Parlamentar Mista em prol da Luta Contra o Câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a199317df04884f95e4ac28be50fab43bb50bac14fa4d15cafa5c9eadfa8e95f
+size 380

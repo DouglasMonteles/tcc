@@ -1,1 +1,3 @@
-Realização de confraternização dos trabalhadores da limpeza pública em Aracaju, Estado de Sergipe, ao ensejo do transcurso do Dia do Gari.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24ea7eb4cc0596a0d959e709f02f67017381cd3841b63225ec23f7bde9f82f5e
+size 143

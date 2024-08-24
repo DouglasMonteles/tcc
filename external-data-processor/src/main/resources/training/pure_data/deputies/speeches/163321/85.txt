@@ -1,1 +1,3 @@
-Visita, ao gabinete parlamentar do orador, de representantes de organizações não governamentais vinculadas à campanha nacional Banda Larga é um Direito Seu! Elevadas tarifas de telefonia celular praticadas no País. Defesa de instalação de CPI destinada à investigação da cobrança de tarifa de interconexão entre as operadoras da telefonia móvel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:243a0fa1e8a29d8d6bba52398eadc64db186cb96f8f3d62604bc5bb422b84002
+size 359

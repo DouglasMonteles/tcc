@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM ao Projeto de Decreto Legislativo 2.838 de 2010 (Aprova o texto do acordo entre o Governo da República Federativa do Brasil e o Governo de Burkina Faso sobre cooperação cultural, assinado em Brasília em 12 de novembro de 2009).
+version https://git-lfs.github.com/spec/v1
+oid sha256:518da2560bb1773e5981c050e32915a512bfe6b43e9d56e62e47f109f03d9d8a
+size 264

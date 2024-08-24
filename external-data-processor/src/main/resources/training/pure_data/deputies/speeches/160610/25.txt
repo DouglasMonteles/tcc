@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalho. Apoio à política governamental de valorização do salário mínimo. Defesa de aprovação da Proposta de Emenda à Constituição n° 438, de 2001, sobre a expropriação de propriedades rurais no caso de constatação da exploração de trabalho escravo. Apelo ao Governo Dilma Rousseff de recuperação da BR-101, no trecho entre o sul do Estado da Bahia e a divisa com o Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e930d07057c46fbec8086e3d24627d123bdd96fdf268618b64bcecdc70531c3
+size 434

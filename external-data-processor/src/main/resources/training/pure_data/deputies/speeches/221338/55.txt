@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do Projeto de Lei Complementar nº 243, de 2023, que dispõe sobre as despesas voltadas a programa de incentivo à permanência de estudantes no ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:839c66c6b9412bcdc75ad273cee1d4c555b5aafbff66352c337da7891229bc8b
+size 202

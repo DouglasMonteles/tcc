@@ -1,1 +1,3 @@
-Visita ao Congresso Nacional do Presidente do Tribunal de Justiça do Estado de Roraima, Desembargador Jésus Nascimento, acompanhado de magistrados. Concessão, pelo Conselho Nacional de Justiça, de prêmio de excelência à instituição judiciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48e068184da614be6bf04ba075f719942dc050165a83fe66c898fd56df1cdbdb
+size 253

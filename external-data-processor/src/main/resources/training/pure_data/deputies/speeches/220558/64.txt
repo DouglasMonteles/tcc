@@ -1,1 +1,3 @@
-O Deputado criticou discursos de Parlamentares de esquerda, acusando-os de repetir as falas do Presidente Luiz Inácio Lula da Silva. Questionou a legitimidade de Presidente Lula como portador de esperança e destacou questões financeiras, como os gastos com cartão corporativo e a renegociação de dívidas com Cuba. Também criticou o suposto luxo nas viagens do Presidente da República e contrastou isso com as dificuldades enfrentadas pela população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4edd898890e5b7f0d54db1b8ec982547fae994036f6bd829d6cfac02c06bccb0
+size 471

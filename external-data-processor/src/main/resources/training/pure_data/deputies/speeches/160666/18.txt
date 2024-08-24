@@ -1,1 +1,3 @@
-Homenagem póstuma ao arquiteto carioca João da Gama Filgueiras Lima, o Lelé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43e46f3a7f78474b7b3a85f441474d6c664da4a4ca35bf0bdc84dfeb1b1b1e33
+size 79

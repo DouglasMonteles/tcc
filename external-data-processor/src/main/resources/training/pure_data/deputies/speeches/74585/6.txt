@@ -1,1 +1,3 @@
-Êxito do programa de prevenção e combate à AIDS do Brasil. Dados do Relatório do Programa Conjunto das Nações Unidas sobre o HIV. Elaboração de proposta de prevenção e promoção da saúde das populações menos favorecidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94e5e65435c74561de68f7d0fa9b232b65a92e023397284498775d506c400c8c
+size 235

@@ -1,1 +1,3 @@
-Ampliação das instalações da Universidade Federal da Paraíba e da Universidade Estadual da Paraíba. Defesa de aprovação do projeto de lei sobre a fixação da jornada de trabalho dos profissionais da enfermagem em 30 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f33c76e03b26ef826e2218dd99a59ddc228f2552ccc8490a2b147c5e01ec93aa
+size 240

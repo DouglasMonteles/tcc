@@ -1,1 +1,3 @@
-Protesto contra a violação de prerrogativas de mandatos parlamentares nos poderes legislativos. Anúncio da apresentação de proposta de emenda à Constituição sobre a redução de gastos das Forças Armadas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab6b15721f97469f7314b2fcf8544e8160c9cbd81b18ff4be06cbadb83bd6f95
+size 225

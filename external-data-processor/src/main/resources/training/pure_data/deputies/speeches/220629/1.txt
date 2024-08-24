@@ -1,1 +1,3 @@
-Não apresentação, pela bancada bolsonarista, de pauta de interesse da sociedade brasileira. Comparação entre os Governos Luiz Inácio Lula da Silva e Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc5e85ead459236851650481e6f2256fba9474195030ede78fa30c3236179e4d
+size 170

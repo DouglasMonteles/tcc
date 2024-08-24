@@ -1,1 +1,3 @@
-Congratulações ao Senador Irajá pelo parecer apresentado ao Projeto de Lei do Congresso Nacional nº 9, de 2020, sobre as diretrizes para elaboração e execução da Lei Orçamentária de 2021. Agradecimento ao Relator pelo acolhimento da Emenda nº 40.740.001, de autoria do orador. Expectativa de instalação da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização. Pedido à Câmara dos Deputados de votação do Projeto de Lei nº 3.067, de 2020, a respeito da execução da política nacional de turismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d292fff889529c05ee9aaa0a53e8a0899e0140f829bd18906431f7805a2a5a0
+size 527

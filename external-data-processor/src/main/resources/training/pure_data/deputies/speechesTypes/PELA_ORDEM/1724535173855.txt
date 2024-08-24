@@ -1,1 +1,3 @@
-Solicitação aos Deputados da base governista de comparecimento ao plenário para votação da Medida Provisória nº 756, de 2016, sobre alteração dos limites do Parque Nacional do Rio Novo e da Floresta Nacional do Jamanxim e a criação da Área de Proteção Ambiental do Jamanxim. Adequação de tratamento do assunto por meio de medida provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8792bb9c1d7b1a82ba24a92599bb28f6184fefa31afccb2ce476f61adc7d7540
+size 357

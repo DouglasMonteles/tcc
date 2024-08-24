@@ -1,1 +1,3 @@
-Trajetória política do Parlamentar. Compromisso de luta pela construção do Hospital do Amor em Palmas e de moradias no Estado de Tocantins, especialmente no Município de Porto Nacional. Agradecimento aos eleitores tocantinenses pela eleição do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae01ebc740606b692fbb292735df192dd3827f81b1d13b304d82c94b96ab2a84
+size 258

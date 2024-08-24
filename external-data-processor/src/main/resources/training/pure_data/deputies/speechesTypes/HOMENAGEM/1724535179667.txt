@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos 27 anos do Instituto Nacional do Seguro Social - INSS.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38255c8aa36bebebe2d0b6525e406887ae54fade73d634b679166f35e0a517f1
+size 235

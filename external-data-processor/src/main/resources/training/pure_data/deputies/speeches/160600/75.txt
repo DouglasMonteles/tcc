@@ -1,1 +1,3 @@
-Apelo à Presidência dos trabalhos para concessão da palavra aos convidados presentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01a48edaa3e21185a4db77dcf1ba1126c35c6a24114514842e5fa76209be355b
+size 88

@@ -1,1 +1,3 @@
-Liberação de recursos, pelo Governo Federal, para hospitais filantrópicos em dificuldade financeira no Município de Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a85073705db1c976b7a1c0259c1b528c7fd4476860cca885ee515e3d35518980
+size 146

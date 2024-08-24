@@ -1,1 +1,3 @@
-Avaliação de professores pela Secretaria Municipal de Educação de Teresina com vistas a promoções na carreira. Desempenho de escolas piauienses no Exame Nacional de Ensino Médio — ENEM. Artigo Professores farão prova para mudar de nível, publicado no jornal Meio Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf178ab2b3e7759e3c9df057b0a2b8ab8e8bf2c3b99f0ed27c14b084aa4e5799
+size 280

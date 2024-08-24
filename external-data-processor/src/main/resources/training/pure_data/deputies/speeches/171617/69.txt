@@ -1,1 +1,3 @@
-Apoio à nota do Centro de Defesa dos Direitos da Criança e do Adolescente Zumbi dos Palmares- CEDECA de protesto contra o Decreto nº 29.157, de 2013, do Governo do Estado de Alagoas, sobre o remanejamento do Núcleo Estadual de Atendimento Socioeducativo - NEAS da Secretaria de Estado da Promoção da Paz para a Secretaria de Estado da Defesa Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c235d69fadd14a65b6532bd0664d2cbb1413c293b2baa3c12103bcd30e9720e
+size 355

@@ -1,1 +1,3 @@
-Realização da 1ª Feira do Agronegócio no Município de Imperatriz, Estado do Maranhão. Expansão do agronegócio no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e4fb8912a923fb4b4edeef4e6b032b007fbda23093228bc1f9037bd4d9c10c4
+size 128

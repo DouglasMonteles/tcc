@@ -1,1 +1,3 @@
-Redução do número de homicídios no Estado do Ceará, segundo o Índice Nacional de Homicídios. Elogio ao Governador Camilo Santana e ao Secretário de Administração Penitenciária, Mauro Albuquerque.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c5faa8561085a05a697e8843baf8e940d22925a1ea20c27992321c27a07fe6a
+size 206

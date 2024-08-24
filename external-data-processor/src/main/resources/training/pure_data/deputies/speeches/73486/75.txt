@@ -1,1 +1,3 @@
-Conclamação aos Deputados para aprovação das propostas de extensão dos percentuais de reajuste do salário mínimo aos proventos de aposentados e pensionistas e de extinção do fator previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f24a3af33e2192ddc64068b6d335126313fac8eaaea52baee5517e347fd8d6ec
+size 205

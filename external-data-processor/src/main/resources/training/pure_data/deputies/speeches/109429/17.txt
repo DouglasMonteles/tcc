@@ -1,1 +1,3 @@
-Homenagem ao evento Mossoró Cidade Junina e ao espetáculo Chuva de Bala no País de Mossoró.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6870c619edb64210cf86b9539a571340e016807fbb6d5aaffb933d438438b5ed
+size 95

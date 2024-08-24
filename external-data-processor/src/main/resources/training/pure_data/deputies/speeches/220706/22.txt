@@ -1,1 +1,3 @@
-Congratulações ao Deputado Professor Sérgio de Oliveira pela assunção do mandato parlamentar. Não contemplação pela Medida Provisória nº 565, de 2012, dos agricultores não inscritos na dívida ativa até 31 de outubro de 2010. Renegociação de dívidas dos agricultores brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59b0fb17d3a980594654c4e634aa2445ee3efdac13709905cf41f56270c680f2
+size 294

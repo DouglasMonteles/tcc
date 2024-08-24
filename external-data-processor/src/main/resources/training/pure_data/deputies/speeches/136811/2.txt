@@ -1,1 +1,3 @@
-Cortes de recursos orçamentários destinados ao setor agropecuário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a689eb1c85e4c64889a8be55686b5d3d5b7fc04318ba83ea8f9f213800604da
+size 69

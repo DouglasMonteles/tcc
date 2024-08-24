@@ -1,1 +1,3 @@
-Compromisso do orador com o mandato parlamentar em prol do debate sobre temas relevantes para o País. Luta do Parlamentar em busca de soluções para os problemas de mobilidade urbana. Importância do diálogo entre os Deputados para solução dos problemas brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0a33badb409093f82513a3d3785abae5c971163bd5dfba9015da4e944d6cf2d
+size 271

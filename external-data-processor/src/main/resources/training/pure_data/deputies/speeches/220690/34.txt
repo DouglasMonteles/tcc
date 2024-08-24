@@ -1,1 +1,3 @@
-O Deputado celebrou a aprovação do Projeto de Lei nº 1.949, de 2007, que institui a Lei Geral da Polícia Civil no Brasil. Também abordou a preocupante situação de violência na Bahia, destacando que o estado possui 10 dos municípios mais violentos do Brasil. Relatou os alarmantes números de tiroteios e baleados na região e criticou a falta de intervenção federal no estado, pedindo ação imediata do Governo Federal para combater facções criminosas que estão causando terror na Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55e622b169a5f40e9fd4ef6440f97b482077e978c0fe5c36becf0f17ee6ea6d4
+size 502

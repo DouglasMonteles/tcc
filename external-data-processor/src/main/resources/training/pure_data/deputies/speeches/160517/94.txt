@@ -1,1 +1,3 @@
-Realização, pela Agência Nacional de Energia Elétrica - ANEEL, de audiência pública no Município de Colatina, Estado do Espírito Santo, destinada ao debate dos altos valores de tarifas de energia elétrica. Propósito da Presidenta Dilma Rousseff de redução de impostos incidentes sobre o setor. Elevado custo de energia elétrica imposto às indústrias brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10b4cc298da6726de945ce50e29d7149e088ccea79418285238474a025370b26
+size 377

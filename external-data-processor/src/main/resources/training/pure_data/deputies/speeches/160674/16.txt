@@ -1,1 +1,3 @@
-Apresentação, à Comissão de Ciência e Tecnologia, Comunicação e Informática, de requerimento de realização de audiência pública destinada à discussão dos preços e da qualidade dos serviços de telefonia móvel dispensados aos usuários no País. Anúncio da realização de audiência pública no Estado da Paraíba, pela Comissão Especial destinada à elaboração de políticas públicas de combate às drogas. Combate ao tráfico e consumo de drogas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3497f522dcdfc7199fab6b1929ea9236c5e7f4157bdaa42d6746637c5cbd6f9a
+size 478

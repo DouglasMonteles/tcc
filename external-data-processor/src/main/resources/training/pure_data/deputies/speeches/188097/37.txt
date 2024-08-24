@@ -1,1 +1,3 @@
-Razões da comparação do Presidente Jair Bolsonaro com genocidas diante da epidemia de coronavírus. Realização de novas manifestações populares contra o Presidente da República. Importância da exploração de fontes de energia renováveis, a exemplo da solar e eólica. Equívoco da privatização das Centrais Elétricas Brasileiras S/A - ELETROBRAS. Importância da estatal para a diversificação da matriz energética brasileira. Protesto contra a retirada de pauta do Projeto de Lei nº 5.829, de 2019, a respeito da produção e distribuição de energia renovável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2184f99266f87a29df1058ca54ffbac4af9cc78c807746dabf56d72688adad81
+size 581

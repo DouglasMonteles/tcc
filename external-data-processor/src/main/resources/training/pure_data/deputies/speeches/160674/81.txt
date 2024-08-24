@@ -1,1 +1,3 @@
-Congratulações à Presidenta Dilma Rousseff pela suspensão das execuções de dívidas de produtores rurais atingidos pela seca na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4f4eebeee9555badc040f622538ea3b3575b7e1dd9268d2aa456f086e3108b1
+size 151

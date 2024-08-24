@@ -1,1 +1,3 @@
-O Deputado celebrou a decisão, por unanimidade, do Supremo Tribunal Federal - STF que restabeleceu o pacto federativo e a proporcionalidade na representação de cada Estado na Câmara dos Deputados. O STF determinou que, se o Congresso Nacional não aprovar uma lei complementar sobre o tema até junho de 2025, o Tribunal Superior Eleitoral fará a redistribuição com base no Censo de 2022. O orador elogiou o Governador Helder Barbalho por liderar essa iniciativa e destacou que a decisão do STF trará justiça e igualdade de representação para o Pará e outros Estados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bf506e0a892bbafc70c91de83a6226c8cbdc596c4fe267d49aa23955730fbe6
+size 580

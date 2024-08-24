@@ -1,1 +1,3 @@
-Transcurso do 90º aniversário de emancipação político-administrativa do Município de Livramento de Nossa Senhora, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:873590cc1fe27f01ea11e1d3145f959b5b90cd7aa50da6fcf680f7d52ca7618c
+size 136

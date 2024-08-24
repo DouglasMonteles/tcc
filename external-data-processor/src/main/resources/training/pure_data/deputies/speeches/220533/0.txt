@@ -1,1 +1,3 @@
-Compromisso de atuação em defesa da educação pública de qualidade. Defesa de acesso ao serviço público por meio de concurso. Prorrogação do prazo de validade de concurso público para preenchimento de cargos na Polícia Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db2ade5a8ca6f6faf9cf5a1716f45a3537e9c71d834373f2c019a39a17a100e0
+size 237

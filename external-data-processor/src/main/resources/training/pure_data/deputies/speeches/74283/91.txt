@@ -1,1 +1,3 @@
-Razões justificadoras da criação da Contribuição Social para a Saúde - CSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cafd315963204922f6953608bc538aa3223986734beae946a75155c011872e6a
+size 81

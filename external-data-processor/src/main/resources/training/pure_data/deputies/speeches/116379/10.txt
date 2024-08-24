@@ -1,1 +1,3 @@
-Realização de baixos investimentos governamentais na saúde pública. Posicionamento do orador sobre a ampliação do horário de atendimento em Unidades Básicas de Saúde municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28b6cd83cefb5dabfb1d0e0af7f8f18391500fb4b030eaf0398e95ac6aaf7513
+size 186

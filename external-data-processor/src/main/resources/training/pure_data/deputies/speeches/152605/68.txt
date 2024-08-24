@@ -1,1 +1,3 @@
-Apoio ao estabelecimento do regime de partilha para a distribuição de royalties do petróleo da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fca44f4d66d8b5ee845d9d2446492688bd3088aba9971cb780c5afb110f6476
+size 114

@@ -1,1 +1,3 @@
-O Deputado expressou sua alegria pela nomeação do novo Bispo da Diocese de Parnaíba, D. Edivalter Andrade, feita pelo Papa Francisco. Destacou a formação acadêmica e a trajetória religiosa de D. Edivalter, incluindo sua atuação como Bispo Diocesano de Floriano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19c8415f6d3fbeee0c48e656bc3b5dfb492fdc6ad2a88595a700cfe05f2b3238
+size 270

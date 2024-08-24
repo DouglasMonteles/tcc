@@ -1,1 +1,3 @@
-Aumento da população evangélica no País, segundo o censo demográfico de 2010 divulgado pelo IBGE. Expansão da Igreja do Evangelho Quadrangular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f3cbe9de6b9b7e929d95ccbdd1223eb1f145a13dba883149227a69c60a112e6
+size 149

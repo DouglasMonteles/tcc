@@ -1,1 +1,3 @@
-Urgência da reabertura de agência do Banco do Brasil no Município de Zé Doca, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3397b822e6d2dc5f3cc047d0003c023ae9d563c87526276b17a56443e7da7f67
+size 102

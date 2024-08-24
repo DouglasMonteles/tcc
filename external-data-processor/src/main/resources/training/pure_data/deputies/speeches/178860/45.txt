@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da expressão estabelecidos na legislação e regulamentação exclusivamente federal, cujos termos prevalecerão sobre quaisquer regras estaduais e/ou municipais acerca do mesmo tema, constante no art. 27, § 7º, da Lei nº 11.771, de 2008, inserido no art. 4º da Subemenda Substitutiva Global.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f20b45937a8a4f5ec77d0ee6e2a6e23e1e538aa289c62733ce5f0b809c705e4
+size 389

@@ -1,1 +1,3 @@
-Exposição sobre a  crise financeira mundial  e seus efeitos sobre a economia brasileira, em reunião de Comissão Geral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f3b3bd824fe8c77140dc476c8d18791a568b93ab107f2b4d53ea58e6eae6db9
+size 122

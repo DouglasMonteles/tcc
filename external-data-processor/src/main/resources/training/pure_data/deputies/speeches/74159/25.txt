@@ -1,1 +1,3 @@
-Transcurso do 50º aniversário de fundação da Escola Estadual Dr. Joaquim Vilela, no Município de Boa Esperança, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ac91432bcb425fb09125963daf2bee6cf5bfa863ceddeaf023ec2bbeff5705e
+size 141

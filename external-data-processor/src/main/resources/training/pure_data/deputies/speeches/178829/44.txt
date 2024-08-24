@@ -1,1 +1,3 @@
-Conteúdo preconceituoso de artigo do jornalista Eugênio Bucci, publicado na revista Época, sobre o uso da farda da Polícia Militar do Estado de São Paulo pelo orador no exercício da presidência da sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98df2953ab1e4096f951a4fb40e7d1afaa5df8355a3d795a7e488e5e3d067452
+size 212

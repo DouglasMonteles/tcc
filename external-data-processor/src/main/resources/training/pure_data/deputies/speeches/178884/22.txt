@@ -1,1 +1,3 @@
-Resultado positivo de reunião da Comissão de Desenvolvimento Urbano - CDU destinada ao debate da falta de pagamento, pelo Governo Federal, às construtoras responsáveis pelo Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bffc2777705031f4c3009d98f2a42bbbcb1ab45138a5fc7894fa61f18f2732d
+size 209

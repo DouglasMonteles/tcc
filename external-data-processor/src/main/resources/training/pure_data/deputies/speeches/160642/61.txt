@@ -1,1 +1,3 @@
-Realização da Convenção Nacional das Igrejas Evangélicas Assembleia de Deus, em Brasília, Distrito Federal. Relevância dos trabalhos sociais desenvolvidos pela instituição religiosa. Visita do orador e outros Parlamentares a países vizinhos para conhecimento de políticas de combate às drogas, especialmente do crack. Apoio à internação compulsória de dependentes químicos. Realização de trabalhos de recuperação de viciados em drogas pelas Igrejas Evangélica e Católica. Repúdio às zombarias aos evangélicos e à Bíblia Sagrada, em decorrência da eleição de Deputado evangélico para a Presidência da Comissão de Direitos Humanos e Minorias. Tentativa de inviabilização dos trabalhos do órgão por ativistas incentivados por Deputados. Defesa dos direitos humanos pelos seguidores da fé evangélica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22c224ef9507cc5ec6d0437fb5b1f437987beceea654d6d6716ef3024988e770
+size 836

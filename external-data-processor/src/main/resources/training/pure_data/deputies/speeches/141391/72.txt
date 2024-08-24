@@ -1,1 +1,3 @@
-Ponderações sobre a necessidade leitura do parecer à  Medida Provisória 431, de 2008, (Dispõe sobre a reestruturação de planos de cargos e salários de servidores da administração federal, dos militares e das polícias federal e rodoviária federal), mesmo que não haja acordo para votação da matéria na presente sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:359c33ccc330e0ae2e3d875f1a687349339305f3131c30d4cab4126ab2516961
+size 334

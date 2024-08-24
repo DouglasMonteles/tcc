@@ -1,1 +1,3 @@
-Desrespeito do PT para com a Presidência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2605c7261663eea1104524d53e31393819ea48130f56792f88e03de692ded92e
+size 42

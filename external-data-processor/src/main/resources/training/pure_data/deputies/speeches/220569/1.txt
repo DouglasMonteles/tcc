@@ -1,1 +1,3 @@
-Assassinato da Sr. Albynna Freitas pelo ex-marido, no Estado de Goiás. Ampliação das medidas de proteção à mulher brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:032a2c37731ae3daa0514ffbaa59e596492e7222793f10713938345980ee6716
+size 131

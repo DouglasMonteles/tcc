@@ -1,1 +1,3 @@
-Apoio ao projeto anticrime apresentado pelo Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:781a7915ada1a3181fabab2bc6ebf7bcc143380ab25e7fc3ae003fde2f3b97e4
+size 101

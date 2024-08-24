@@ -1,1 +1,3 @@
-Atuação insatisfatória do Ministro do Meio Ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee0d077d01ead1881508a2a9b957ced226b697fd33baaba3e7f67f06d7622f2d
+size 55

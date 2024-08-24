@@ -1,1 +1,3 @@
-Contrariedade à aprovação do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news). Indignação do orador com a declaração do Ministro da Justiça e Segurança Pública, Flávio Dino, sobre a regulamentação das redes sociais por decreto, no caso de rejeição da matéria pela Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ee50f84106489d7afa50212d7bb0f73d40c12606b53b00fd7530a0efcdc5ccf
+size 402

@@ -1,1 +1,3 @@
-Elogio ao Deputado José Augusto Maia pelo empenho na votação do Projeto de Lei Complementar nº 416, de 2008, acerca do procedimento para criação, incorporação, fusão e desmembramento de Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da1692900e5b1f97c571dc9902dab020db7642191e0bb213f453bff4ee1de011
+size 207

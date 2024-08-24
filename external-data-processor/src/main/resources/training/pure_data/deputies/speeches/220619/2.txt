@@ -1,1 +1,3 @@
-Críticas ao governo petista. Retirada da pauta do Projeto de Lei nº 2.630, de 2020, a respeito da instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).&nbsp;Anulação, pela Justiça, de condenações por corrupção e lavagem de dinheiro. Repúdio à decisão judicial favorável à devolução de helicóptero a narcotraficante. Protesto contra a ação realizada pela Polícia Federal na residência do ex-Presidente Jair Bolsonaro em busca do seu certificado de vacinação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c76f3ab030b613b6acddc7cb3674dc281af77d52dbdf99d1c74db1412f2b4f30
+size 550

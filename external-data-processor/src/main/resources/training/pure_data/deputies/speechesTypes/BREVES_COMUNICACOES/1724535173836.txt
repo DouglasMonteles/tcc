@@ -1,1 +1,3 @@
-Instalação, no Município de Crato, do Centro de Ciências Agrárias da Universidade Federal do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd449776c2763774cefee67af0371a1f83161ec51d1615e1b8efed3b2cc58700
+size 105

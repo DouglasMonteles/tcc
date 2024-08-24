@@ -1,1 +1,3 @@
-O Deputado manifestou solidariedade aos familiares das vítimas dos ataques realizados pelo Hamas, especialmente aos de dois brasileiros, no sul de Israel, e também aos familiares das vítimas dos ataques do Governo de extrema-direita de Benjamin Netanyahu. Afirmou que o conflito no Oriente Médio se agravou diante da atitude violenta do Premier israelense contra os palestinos e do descumprimento, por ele, de acordos internacionais. Protestou contra fake news criadas por setores da extrema-direita do Brasil, com objetivos eleitoreiros, sobre a associação entre seu grupo político e o Hamas. Enfatizou que é preciso tratar a questão com seriedade e responsabilidade, assim como garantir uma adequada posição do Governo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:091fc1cdac6a1bd08ebbf589c84ed863ea7922de30f887ed6145aba81b1aad0e
+size 743

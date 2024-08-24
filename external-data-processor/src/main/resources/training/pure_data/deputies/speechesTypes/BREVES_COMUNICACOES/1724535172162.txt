@@ -1,1 +1,3 @@
-Recuperação da BR-174 no Estado de Roraima. Alocação de recursos federais para restauração da BR-210, de ligação entre os Municípios de Bonfim e Normandia, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a8915746de412b275e8f54150676b3a6f29442ca797e5012782a38dfb790f4d
+size 175

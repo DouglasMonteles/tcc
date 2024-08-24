@@ -1,1 +1,3 @@
-Nomeação do Cardeal D. Raymundo Damasceno Assis para a presidência da Conferência Nacional dos Bispos do Brasil - CNBB. Relevância dos trabalhos ecumênicos realizados por D. Geraldo Lyrio Rocha à frente da entidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c7be2e6285e8d246bc32031ef858d1b6d70e26845d45dc376bdcdd5957c4e40
+size 222

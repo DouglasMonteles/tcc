@@ -1,1 +1,3 @@
-Pedido de afastamento do Ministro da Justiça e Segurança Pública, Sérgio Moro, e do Procurador da República, Deltan Dallagnol. Solicitação ao Supremo Tribunal Federal de soltura do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47d975c84c49ae64b27c6df9bb1de0cfdb0144e4eb7ac000614fd625fd55d6ff
+size 229

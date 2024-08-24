@@ -1,1 +1,3 @@
-Celebração do 40º aniversário da revista Veja.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48a8f4267e070b3832c9c82c215c6b5858950375f2af0cbdbc767c3eb08fa228
+size 50

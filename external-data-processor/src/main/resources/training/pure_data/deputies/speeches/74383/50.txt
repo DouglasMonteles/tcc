@@ -1,1 +1,3 @@
-Mudança no perfil das exportações nacionais, com aumento da participação de produtos manufaturados. Sucesso do Estado do Paraná no aumento das exportações em momento de crise no mercado interno. Expectativa de crescimento do comércio exterior em função da desvalorização do real.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ddcb23d4524e2abd7a1568478751858441063a0c53fc7db8bdde084527b1104
+size 292

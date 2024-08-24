@@ -1,1 +1,3 @@
-Apreensão do orador ante a redução da produção e dos estoques de trigo no País. Imediata implementação de plano de incentivo ao setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be879ef3a9822a0d510671216ca692e7222926eb1ef4be9c8326d744f7a38686
+size 142

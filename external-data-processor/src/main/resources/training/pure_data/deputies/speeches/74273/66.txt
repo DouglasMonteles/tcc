@@ -1,1 +1,3 @@
-Necessidade de intensificação do combate à violência no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0c4df4d2f49a448c6969f3d31de30b71a54e53cea31085c2beb294e95678be9
+size 66

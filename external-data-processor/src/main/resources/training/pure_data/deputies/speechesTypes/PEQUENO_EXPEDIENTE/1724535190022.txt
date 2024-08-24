@@ -1,1 +1,3 @@
-Sanção presidencial do projeto de lei, de autoria do orador, sobre a obrigatoriedade de informação prévia aos produtores de leite, pelas empresas de laticínios e cooperativas, dos preços estabelecidos para a compra do produto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bed363a4e30cabe867c2d32a19c0b47bb7d7e6a43dd4bd64f4f3734717b9ba08
+size 233

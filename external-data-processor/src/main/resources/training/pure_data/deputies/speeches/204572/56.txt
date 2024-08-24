@@ -1,1 +1,3 @@
-Repúdio à decisão do Supremo Tribunal Federal contrária à transferência do ex-Presidente Luiz Inácio Lula da Silva para prisão comum. Protesto contra o impedimento pelo Ministro Gilmar Mendes, da Suprema Corte, da abertura de investigação contra o jornalista Glenn Greenwald.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6c1802217cea2233df5a0fbdde655f38a8a93703ddea276d7cd0108550d4ffc
+size 285

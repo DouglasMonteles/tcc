@@ -1,1 +1,3 @@
-Reformulação do parecer à Medida Provisória 529 de 2011 (Altera a Lei   8.212  de 1991, no tocante à contribuição previdenciária do microempreendedor individual). Alterações procedidas no Projeto de Lei de Conversão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eda17133831c19cc6e65f34060cca0c147cf2ace944b82eb890f30326e44cfe
+size 227

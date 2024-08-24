@@ -1,1 +1,3 @@
-Agradecimento a servidores da Casa pela orientação ao orador sobre o funcionamento de sessões plenárias e a tramitação processual. Solicitação ao Ministro de Minas e Energia, Bento  Albuquerque, de esclarecimento sobre as razões da cobrança abusiva de tarifas de energia elétrica no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2ad9f9cc80a75f795a76b5c4e8b4f91b69f7f78446110a91c9ed5c8a9a36291
+size 314

@@ -1,1 +1,3 @@
-Criação da Superintendência do Desenvolvimento Sustentável do Centro-Oeste - SUDECO. Transcurso do 53º aniversário de emancipação político-administrativa de Itaporã, Estado de Mato Grosso do Sul. Atuação parlamentar do orador em favor do Município. Destaque  de Itaporã no Índice de Desenvolvimento Familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f33f3a3395bf414369a402e1652c64cade3549ddb71dbab302b81f3f90a9ec45
+size 323

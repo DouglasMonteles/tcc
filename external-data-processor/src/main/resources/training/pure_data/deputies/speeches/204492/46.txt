@@ -1,1 +1,3 @@
-Pedido à Casa de aprovação do Projeto de Lei nº 5.829, de 2019, a respeito da produção de energia solar. Defesa de acatamento, pelo Relator Lafayette de Andrada, de emenda oferecida à proposição pelo Deputado Delegado Marcelo Freitas. Importância da propositura para a Região Nordeste e a região norte de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d3c405f2d0e535460e85886ce62f7c811adab4f92688f1a3046aafab26c61b4
+size 330

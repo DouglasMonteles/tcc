@@ -1,1 +1,3 @@
-Promoção da Semana Brasileira de Enfermagem. Transcurso do Dia do Enfermeiro e do Dia Nacional do Técnico e Auxiliar de Enfermagem. Imediata inclusão na pauta do Projeto de Lei nº 2.295, de 2000, sobre a fixação da jornada de trabalho dos profissionais da enfermagem em 30 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8266f9e58495bfc6d7a41445cb19b9393b0e08fe5498b1b5391806a7dc08019c
+size 295

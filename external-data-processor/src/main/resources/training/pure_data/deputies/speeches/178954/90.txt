@@ -1,1 +1,3 @@
-Pedido à Presidência de leitura, na próxima terça-feira, da Medida Provisória nº 890, de 2019, sobre a instituição do Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde - SUS e a criação do serviço social autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78fd336814deee43ecb20becdfd453a806e8793bb75d2ec09e78fb72262582e8
+size 354

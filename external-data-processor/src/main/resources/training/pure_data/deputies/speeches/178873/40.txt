@@ -1,1 +1,3 @@
-Reunião da bancada do Espírito Santo para definição como emendas impositivas de bancada as direcionadas à obra do Hospital Geral do Município de Cariacica e à construção de barragens em Municípios atingidos pela seca. Expectativa de delação premiada do ex-Deputado Eduardo Cunha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:152d58daf1f0616b87e38b8d78699151a43a5a3802b5bd9949cdd84617776566
+size 291

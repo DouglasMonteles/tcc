@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do § 1º, art. 12, da Emenda nº 4 do Senado Federal, apresentada ao Projeto de Lei 1.605, de 2019, com vista ao restabelecimento do texto original aprovado pela Câmara dos Deputados. Transcurso do Dia do Comerciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e55900ca5a54124df17daa8dabe2b5f0fdbb01c32a4a842186c9bedcc52d472
+size 301

@@ -1,1 +1,3 @@
-Transcurso do 160º aniversário de fundação do Município de Caratinga, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:126d3ce9dedd1bf02478883089f1248980cfaf345032a047297a57b9b8e17400
+size 98

@@ -1,1 +1,3 @@
-Posicionamento do orador sobre a prisão de ex-Presidente da República. Necessidade de aprovação pela Casa de proposições destinadas à aplicação de penas rígidas contra criminosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ba9de7f046b51c280487c86f8362348c34969c523e531d833a38ff688bd9dbd
+size 189

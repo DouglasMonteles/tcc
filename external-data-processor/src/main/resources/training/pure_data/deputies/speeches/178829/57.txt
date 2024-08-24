@@ -1,1 +1,3 @@
-Crítica a projeto da Secretaria Estadual de Logística e Transportes de São Paulo para duplicação de trecho da Rodovia Raposo Tavares. Solicitação ao Governador Geraldo Alckmin de prioridade para a duplicação do trecho rodoviário entre os Municípios de Ourinhos e Piraju.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0457c37f59bfbf7e5b41c9ffbcce5c918d88c88b26e1cade3215488455040ac7
+size 281

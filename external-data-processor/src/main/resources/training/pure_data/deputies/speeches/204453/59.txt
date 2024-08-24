@@ -1,1 +1,3 @@
-Homenagem póstuma ao presidente do Alecrim Futebol Clube, Ubirajara de Holanda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df4cbac6d071237fabfa708ff6a439c71d21839696c357e6438d2fd8597429c0
+size 80

@@ -1,1 +1,3 @@
-Protesto contra a participação de Deputados em reunião no Supremo Tribunal Federal, em detrimento dos trabalhos da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc2577c047dbf38e071a67ba6f987da1182ca20c2c7d58e216c289077dc2e494
+size 123

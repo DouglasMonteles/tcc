@@ -1,1 +1,3 @@
-Inclusão do Aeroporto Internacional de Tabatinga, Estado do Amazonas, no Programa de Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18c800db89baecc35fbaec18b307b411b59b03fab1db583f87a29d8b8bfd0ad2
+size 120

@@ -1,1 +1,3 @@
-Apresentação de emenda ao Projeto de Lei nº 3, de 2023,&nbsp;sobre a criação do Protocolo Não é Não, de atendimento à mulher vítima de violência sexual ou assédio em discotecas, estabelecimentos noturnos, eventos festivos, bares, restaurantes ou qualquer outro local de grande circulação de pessoas. Relevância da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee1517db517d7871c22c28cb5005d879ba74dfd597c3f1771ce0d77e81f6d561
+size 342

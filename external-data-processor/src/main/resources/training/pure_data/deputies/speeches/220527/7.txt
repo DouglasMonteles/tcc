@@ -1,1 +1,3 @@
-Questão de ordem acerca do desvio por Parlamentar da discussão do Substitutivo do Senado Federal ao Projeto de Lei nº 3.796, de 2004, relativo à Política Nacional de Conscientização e Orientação sobre o LES - Lúpus Eritematoso Sistêmico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b23d696e8f427348d67abbd5c1119c0f5902d2bcbd2eb3d66b7e3cb4c95456b
+size 248

@@ -1,1 +1,3 @@
-Escândalos de corrupção ocorridos no governo petista. Submissão do Brasil a vexame internacional pelo Presidente Luiz Inácio Lula da Silva. Instalação do crime organizado no Palácio do Planalto. Natureza revanchista da cassação do mandato parlamentar do Deputado Deltan Dallagnol pelo Tribunal Superior Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b5832be4b99b54a55dc8ea7fde772116e11a90d6b0422d78f8d0155792f5084
+size 323

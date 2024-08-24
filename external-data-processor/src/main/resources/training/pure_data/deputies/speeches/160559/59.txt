@@ -1,1 +1,3 @@
-Presença do orador na Universidade de Passo Fundo, Rio Grande do Sul, na Agrotecno Leite 2013, para discussão sobre a cadeira produtiva do leite. Participação em debate sobre laudos para demarcação de terra indígena no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8577827073dc9f54f3e4a9b71d07bfa04931a612cd31f0f4a8267de10b3379f
+size 233

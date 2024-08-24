@@ -1,1 +1,3 @@
-Transcurso do 139º aniversário de emancipação político-administrativa do Município de Jacaraci, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49ca107a9a80d356c445da913a95bb3d22d47ab6c105a19b12a03027ea09a18b
+size 121

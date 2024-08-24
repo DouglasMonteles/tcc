@@ -1,1 +1,3 @@
-Prejuízos causados pela prolongada seca à agropecuária no Estado da Bahia. Ações adotadas pelo Governo Federal e pelo Governo Estadual em benefício das comunidades atingidas pela estiagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74b699ee0c22b8e9477faf4109b5125bc03608ea1fd643ece8ac02220ed696f6
+size 194

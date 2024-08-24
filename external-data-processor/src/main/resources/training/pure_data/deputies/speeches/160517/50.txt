@@ -1,1 +1,3 @@
-Realização do XII Congresso Nacional do PSB, em Brasília, Distrito Federal. Universalização do acesso à Internet. Necessidade de revisão da Norma nº 4, de 1995, da Agência Nacional de Telecomunicações - ANATEL. Debate sobre a adoção do voto aberto, em regra, nas deliberações da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:197e141e21fa39f00344a943475f5149e335db3dd12e38f1f21af780058a62fc
+size 299

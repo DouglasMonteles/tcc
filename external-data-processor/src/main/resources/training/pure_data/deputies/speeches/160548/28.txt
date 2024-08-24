@@ -1,1 +1,3 @@
-Registro da presença de convidados à sessão solene em comemoração ao transcurso do Dia do Agente de Viagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b16f6be823d30ea09b6f23e5eedea92e40fcdb4ea15cc325ce5afb1427684266
+size 112

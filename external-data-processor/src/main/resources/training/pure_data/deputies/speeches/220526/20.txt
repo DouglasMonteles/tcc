@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados do Vereador Igor Elson, do Município de Serra; e do Prefeito Tiago Rocha, do Município de São Gabriel da Palha, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89a5aae5469b756216b1a6ad6d4a3473a7bdb987a44ee6cf80a5d541375d10be
+size 176

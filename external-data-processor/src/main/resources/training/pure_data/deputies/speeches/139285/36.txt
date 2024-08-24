@@ -1,1 +1,3 @@
-Elogio à Prefeita Moema Gramacho, do Município de Lauro de Freitas, Estado da Bahia, pelo lançamento da Campanha Toque pela Vida, com o slogan A Cura Está nas suas Mãos. Se Toque.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b7bbf4096a4e056dece93c8bcfce2a04f253fe9c33d25c8583155e218d3e9f9
+size 184

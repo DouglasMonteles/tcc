@@ -1,1 +1,3 @@
-Urgente votação da Proposta de Emenda à Constituição nº 130, de 2007, sobre a extinção do foro privilegiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e42748b9071e2be0b7267f459a7076cbe27e039779ebac37b337932e0bf63b4
+size 116

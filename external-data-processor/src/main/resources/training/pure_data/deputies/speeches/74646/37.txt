@@ -1,1 +1,3 @@
-Apoio do PSDB à aprovação do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira. Apelo aos jovens brasileiros de realização do cadastro eleitoral, com vista às eleições de 2022.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18cb49e21e414d831097bcb508b3eacf2edaaa84e4d69f4d4a6117fb16385036
+size 263

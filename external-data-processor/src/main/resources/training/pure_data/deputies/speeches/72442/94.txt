@@ -1,1 +1,3 @@
-Reconhecimento do Recife como a Cidade do Frevo, Patrimônio Cultural Imaterial da Humanidade. Tramitação do Projeto de Lei nº 2.521, de 2021, sobre a declaração do Município do Recife, Estado de Pernambuco, como a Capital Nacional do Brega. (Proposição de iniciativa do Vereador Marco Aurélio Filho, da Câmara Municipal do Recife).
+version https://git-lfs.github.com/spec/v1
+oid sha256:205b015d3d64e39b08264167ae4bc0aa7f5f8f01e72e0e7964b14a367ced4a16
+size 342

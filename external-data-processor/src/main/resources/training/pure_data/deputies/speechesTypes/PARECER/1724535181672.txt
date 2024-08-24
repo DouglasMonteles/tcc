@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas de Plenário apresentadas ao Projeto de Lei nº 3.179, de 2012, sobre a regulamentação da prática de educação domiciliar no País (homeschooling).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d02ae34ff8637458ff3dfa1f379d8c53d74a261624d0e3527ace36c3bb447302
+size 183

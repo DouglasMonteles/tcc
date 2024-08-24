@@ -1,1 +1,3 @@
-Informação aos participantes sobre o tempo para uso da palavra na Comissão Geral sobre a crise hídrica e energética no Brasil.Agradecimento ao Ministro de Minas e Energia, Carlos Eduardo de Souza Braga, pela participação no debate. Convite ao Ministro para visita aos Estados do Pará e do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de960a5e71d29bd2d89036e43ca6f98ee06f0e4e9b68bdf57144ef921142cf46
+size 306

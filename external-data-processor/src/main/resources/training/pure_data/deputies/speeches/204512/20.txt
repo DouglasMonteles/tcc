@@ -1,1 +1,3 @@
-Congratulações à Presidência pela condução dos trabalhos no plenário. Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 203 da Constituição Federal, na redação dada pelo art. 1º  da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária, na votação da matéria em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:169414a2e2471019d32d3332c685bdc563d343bdf6a304319283df6c61bbafce
+size 372

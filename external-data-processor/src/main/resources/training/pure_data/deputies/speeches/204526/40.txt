@@ -1,1 +1,3 @@
-Desconhecimento do teor da proposta de reforma tributária pela maioria da população brasileira. Críticas à aprovação do Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022 (novo arcabouço fiscal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f54e3c7ad50e651e36fa1a2c23ed3ff8cd6eb05c675b791dbf7042275110e83
+size 453

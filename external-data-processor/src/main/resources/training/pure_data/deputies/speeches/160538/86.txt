@@ -1,1 +1,3 @@
-Apoio ao plano de ação da Empresa Brasileira de Pesquisa Agropecuária para 2012, intitulado Ano EMBRAPA para uma Agricultura Mais Verde. Artigo publicado no site do orador sobre o tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:616074f678e34ed066328debdfde1d7d347252e60983c982492da9a830b3e980
+size 188

@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Decreto Legislativo nº 316, de 2020, para  sustação da Portaria nº 260, de 2020, do Ministério da Economia, relativa ao disciplinamento da proclamação de resultado do julgamento no âmbito do Conselho Administrativo de Recursos Fiscais - CARF, na hipótese de empate na votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1851fdc724d637893e357da8843104f0acd4a352971e6b81c1d2b57be93ebed6
+size 321

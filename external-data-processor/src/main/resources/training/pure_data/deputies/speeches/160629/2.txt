@@ -1,1 +1,3 @@
-Dificuldades enfrentadas pelo Governador Ricardo Coutinho, do Estado da Paraíba, no início do mandato. Adoção, pelo Governo Estadual, de medidas para a adequação da Paraíba aos dispositivos da Lei de Responsabilidade Fiscal. Artigo 5 Estados Gastam Mais do que Podem com Funcionalismo, publicado pelo jornal Folha de S.Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaa3bb88ce7759ab080a3acb33dda4705037711d949300e71947aedee08b5684
+size 332

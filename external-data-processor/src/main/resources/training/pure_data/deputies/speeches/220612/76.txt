@@ -1,1 +1,3 @@
-Presença na Casa de Vereadores da Câmara Municipal de Canavieiras, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92a80395aee25b5ed9248aa5476b8814f9203364f406621ffeeaa1fd503982a8
+size 85

@@ -1,1 +1,3 @@
-Convite a Deputados para recebimento junto ao Senado Federal de documento a respeito da correção de aposentadorias e pensões e da extinção do fator previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57064d4e25db5480a483cf8a5c68686b0ee87ff7889f5fc473a6bedcc8875cbd
+size 169

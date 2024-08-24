@@ -1,1 +1,3 @@
-Anúncio de realização, pela Comissão de Seguridade Social e Família, de audiência pública para discussão do Projeto de Lei nº 1.605, de 2019, sobre a instituição do Estatuto da Pessoa com Câncer. Convite a Parlamentares e telespectadores daTV Câmara  para participação no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac8dbf4b3774ef5395608f4f5a3cb0b6d591531e976fadb27551d27a4e0f86ab
+size 294

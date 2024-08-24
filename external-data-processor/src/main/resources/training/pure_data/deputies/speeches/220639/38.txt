@@ -1,1 +1,3 @@
-Esclarecimento sobre emendas apresentadas pela bancada do PSOL, e acolhidas pelo Relator, à Medida Provisória nº 1.162, de 2023, sobre o Programa Minha Casa, Minha Vida.&nbsp;Expectativa de êxito do Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d7fd8254f61c7f751f8f7558c5fcc843dac96658ed5f47e1faa4325b71a19da
+size 235

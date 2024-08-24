@@ -1,1 +1,3 @@
-Congratulações à Deputada Rose de Freitas, Presidente da sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf2c641a4b15cc5a4ce4d8be11aea60cb5a9e2c6d7589dc374dee3511cf25b6e
+size 68

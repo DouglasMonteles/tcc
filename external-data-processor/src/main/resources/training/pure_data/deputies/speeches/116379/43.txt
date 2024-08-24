@@ -1,1 +1,3 @@
-Protesto contra a decisão dos partidos oposicionistas de obstrução das votações, em segundo turno, da proposta de reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02357b8f1a8871eb1893b4e5f5452bf0721002a1963586ab33229cd17b5d12ee
+size 150

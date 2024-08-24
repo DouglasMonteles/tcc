@@ -1,1 +1,3 @@
-O Deputado criticou a indicação de políticos para a Suprema Corte, citando o Presidente Lula. Alertou para o risco de prejudicar a imparcialidade necessária nesse cargo crucial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2b35963bd47f69d78ba89c98511074abfe507e441d7b5d69fbad94cff836d27
+size 181

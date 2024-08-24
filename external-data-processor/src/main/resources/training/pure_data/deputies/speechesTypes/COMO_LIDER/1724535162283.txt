@@ -1,1 +1,3 @@
-Participação do orador no lançamento da pedra fundamental do projeto de exploração de gás na Bacia do Médio Amazonas, no Município de Silves. Congratulações ao Presidente Jair Bolsonaro, ao Ministro de Minas e Energia, Bento Albuquerque, e ao Governador Wilson Lima pelo apoiamento à exploração sustentável de gás natural no Amazonas. Expectativa quanto ao avanço na venda de ativos da empresa Petróleo Brasileiro S/A - PETROBRAS no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e270146a4953b59dcc4d57125e183406e58e7a94ee3acc667f595deae3ea3cae
+size 457

@@ -1,1 +1,3 @@
-Presença em plenário do Vice-Presidente de Assuntos Legislativos da Ordem dos Advogados do Brasil, Seção Pernambuco, Eduardo Pugliesi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85906fe3261df59483d5be7bc307eb4dd3d6d858bf44007af64746dc4b0d0867
+size 138

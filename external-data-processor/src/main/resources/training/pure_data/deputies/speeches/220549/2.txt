@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Substitutivo oferecido pelo Relator da Comissão de Desenvolvimento Urbano ao Projeto de Decreto Legislativo nº 98, de 2023, para sustação dos efeitos do Decreto nº 11.467, de 2023, a respeito da prestação regionalizada dos serviços públicos de saneamento básico. Congratulações ao Relator da proposição, Deputado Alex Manente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81d15fc4bef111eca4b326ea94679f7c4f887d18b0d76deb1251ab65f36f5acf
+size 380

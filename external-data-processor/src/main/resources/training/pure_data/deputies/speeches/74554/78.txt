@@ -1,1 +1,3 @@
-Falecimento da funcionária Rosemar Rodrigues Machado, da Liderança do PR na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58e52922dfa4b6c665967aaf3df94989f48e7bf865cbae0444427f6210b1b755
+size 83

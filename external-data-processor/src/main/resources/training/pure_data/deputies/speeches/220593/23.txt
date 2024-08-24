@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 50, de 2019, sobre a obrigatoriedade de fixação, em pet shops, clínicas veterinárias e estabelecimentos congêneres, de cartazes de incentivo à adoção de animais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed42ac3579ea353cee58ccf0b5cd8f4c2437049f08e8e6f897bf9abf353dd59e
+size 202

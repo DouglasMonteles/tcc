@@ -1,1 +1,3 @@
-Inconsistência de informação veiculada nas redes sociais sobre o ajuizamento, pela oradora, de ação perante o Supremo Tribunal Federal contra a redução dos preços do Gás Liquefeito de Petróleo - GLP, o gás de cozinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eece689d013085732a1a66cece1d69886a212b5820917402cc1686156d43d2bf
+size 228

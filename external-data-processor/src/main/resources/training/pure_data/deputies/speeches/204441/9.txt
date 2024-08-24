@@ -1,1 +1,3 @@
-Defesa da aprovação, no  processo de reforma previdenciária, de regras especiais para a concessão de aposentadoria aos guardas municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66c5051f6f2c86f7717e30168ec91ef7989c7a1737fcacf510d6de260bf86c5f
+size 142

@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao centenário da Assembleia de Deus no Estado de Roraima.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2ae61d6a37d40aba994892d68efb71cca5e818346040c8822b996e78da02a61
+size 235

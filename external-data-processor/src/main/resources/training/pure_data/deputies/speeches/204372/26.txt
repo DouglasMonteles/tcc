@@ -1,1 +1,3 @@
-Dificuldades das agências reguladoras para cumprimento de suas atribuições, em face da carência de pessoal, de aparelhamento adequado e de novas políticas para o setor.  Inclusão de servidores de antigos departamentos no Plano Especial de Cargos das Agências. Elaboração do Projeto Arca pelo Sindicato Nacional dos Servidores das Agências Reguladoras - SINAGÊNCIAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7faee5b79745d2ffc3261f2879526ae8268a50fdafd55d6db9be750d9a2ce69
+size 376

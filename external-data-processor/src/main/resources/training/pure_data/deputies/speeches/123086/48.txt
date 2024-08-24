@@ -1,1 +1,3 @@
-Apoio à distribuição aos Estados e Municípios de recursos oriundos da exploração de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3c9ef8f81121aa76f803d9a8ddd3da8b22e2608f44a5d3e61b49d1624d2f39f
+size 100

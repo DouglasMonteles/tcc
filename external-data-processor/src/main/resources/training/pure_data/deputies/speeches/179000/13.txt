@@ -1,1 +1,3 @@
-Repúdio à aprovação pela Casa da Proposta de Emenda à Constituição nº 304, de 2016, sobre a utilização de animais em práticas desportivas culturais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0cbd564aae6d06b8a95181e72cea2bcb0b1e30f106f5c74e767ca7214b76d9e
+size 159

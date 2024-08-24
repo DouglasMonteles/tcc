@@ -1,1 +1,3 @@
-Liberação do  DEM  para votação do Requerimento de adiamento, por duas sessões, da votação do Projeto de Lei 5.279 de 2009 (Estabelece normas para as eleições, em 3 de outubro de 2010, de Parlamentares do MERCOSUL).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f44212205b208547aed17ade51caec2cf21b7ce05de24a072b77f864e4fc29af
+size 224

@@ -1,1 +1,3 @@
-Anúncio pelo Ministro da Saúde, Alexandre Padilha, por ocasião de sua visita ao Estado de Minas Gerais, de investimentos públicos na área de saúde de municipalidades mineiras. Garantia de recursos federais para as obras do novo pronto-socorro da Universidade Federal de Uberlândia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:725dd9eacb7c7482e1dac96acfa8231570798dfebd5d407ccd227f90d224a8cd
+size 288

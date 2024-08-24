@@ -1,1 +1,3 @@
-O Deputado orientou a bancada&nbsp; na votação&nbsp;do Projeto de Lei&nbsp;nº 2.228, de 2022, que autoriza os Municípios a aderirem a atas de registro de preços municipais, na forma que especifica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea8031281c94aaa181d2b31209cd5bb179accc115ddf5decd30b588cb7781b62
+size 202

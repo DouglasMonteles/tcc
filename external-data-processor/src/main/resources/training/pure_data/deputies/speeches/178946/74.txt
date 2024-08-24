@@ -1,1 +1,3 @@
-Apresentação de parecer às Emendas do Senado Federal ao Projeto de Lei nº 5.230, de 2013, sobre a regulamentação e a base de tributação do salão-parceiro e do profissional-parceiro. Congratulações aos Deputados envolvidos na aprovação da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a992518cda7a1424d19689c2d24889bb503ace30174b6bac257d8c0175a3bc62
+size 264

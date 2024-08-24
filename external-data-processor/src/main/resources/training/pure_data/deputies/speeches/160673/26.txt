@@ -1,1 +1,3 @@
-Lançamento do projeto Parlamento Zero pela empresa Itaipu Binacional em parceira com a Câmara dos Deputados e o Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b976d8b54f33427b9ad7b3b88b9e2be3988e12d3380c447f6e84479f164d8332
+size 129

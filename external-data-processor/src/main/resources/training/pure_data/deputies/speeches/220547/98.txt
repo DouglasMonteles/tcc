@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação&nbsp;do requerimento de adiamento da votação do Projeto de Lei nº 4.035, de 2023, que institui Agosto como mês de combate às desigualdades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dabf022e604e1b647d43707f4efcaa676e4062cc23003177a57f7d9a42ad4e45
+size 187

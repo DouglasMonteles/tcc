@@ -1,1 +1,3 @@
-Balanço da atuação parlamentar do orador em 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff85e727d75d0b3a9b8e1368f3070e2946379b31971cf770c8c5bbca0d9e9f9d
+size 52

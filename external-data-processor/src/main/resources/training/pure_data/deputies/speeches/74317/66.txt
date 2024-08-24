@@ -1,1 +1,3 @@
-Cobrança de decisão da Presidência sobre o  Recurso 326, de 2009, contra a decisão do Presidente da Comissão Especial destinada ao exame do Projeto de Lei 2.502, de 2007, de prejudicialidade de emenda destacada  apresentada pelo orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adad8d00c78b133deb0bdcff2695b745d013f198445f23b89ec688f7d413ac90
+size 241

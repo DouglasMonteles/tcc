@@ -1,1 +1,3 @@
-Apreensão com a construção de barragem de rejeitos nas proximidades do Município de Guanambi, Estado da Bahia, pela empresa Bahia Mineração - BAMIN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:414abfcd86704dd6c5ae40fb18807c3bb493d2993ffef920a061679f53a4939a
+size 154

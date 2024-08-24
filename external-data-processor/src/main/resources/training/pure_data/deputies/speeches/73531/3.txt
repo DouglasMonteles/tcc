@@ -1,1 +1,3 @@
-Homenagem a D. Pedro Casaldáliga, ao ensejo do transcurso do seu 80° aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:540713e2976a6e78f00db263178af94563645cc940528e52b80a58e8ded9ca3b
+size 95

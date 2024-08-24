@@ -1,1 +1,3 @@
-Manifestação de boas-vindas aos Vereadores Arlindo Repke e Elmar Francisco Thom, do Município de Santa Maria de Jetibá, Estado do Espírito Santo, em visita à Câmara dos Deputados. Saudação ao Prefeito Hilário Roepke Gatinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2314ca3f6f02ceb8a26f9fc204f36aa6aaae934722a2aee93eba79bbd567e09d
+size 234

@@ -1,1 +1,3 @@
-Orientação de bancada sobre o requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 100, de 2011, a respeito do Sistema Nacional de Crédito Cooperativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e0439e8a276f4b5f742a93e9d1563d247b680d63bb46e6383eb6d43362ce35c
+size 188

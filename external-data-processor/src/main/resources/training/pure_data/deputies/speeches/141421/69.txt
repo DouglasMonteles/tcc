@@ -1,1 +1,3 @@
-Leitura de Atos da Presidência sobre a criação de Comissões Especiais destinadas ao exame dos Projetos de Lei de nºs 7.672, de 2010, do Poder Executivo, acerca de alteração do Estatuto da Criança e do Adolescente, e 1.610, de 1996, do Senado Federal, sobre a exploração e o aproveitamento de recursos minerais em terras indígenas, e da Proposta de Emenda à Constituição nº 250-A, de 2008, referente à integração aos quadros efetivos de pessoal de empregados de empresa estatal em fase de liquidação ou processo de extinção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6be0a070a99535758647bc431518e5ca729cb23b9d0e4a734922e4ca225d130
+size 545

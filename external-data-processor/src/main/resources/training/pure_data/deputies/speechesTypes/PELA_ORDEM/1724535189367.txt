@@ -1,1 +1,3 @@
-Defesa da aprovação da Medida Provisória nº 752, de 2016, que dispõe sobre diretrizes gerais para a prorrogação e a relicitação dos contratos de parceria que especifica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1405e58bc02c4d1e10546ca6ee88e8277d08b7657c785fd73c9ec806b3c50044
+size 178

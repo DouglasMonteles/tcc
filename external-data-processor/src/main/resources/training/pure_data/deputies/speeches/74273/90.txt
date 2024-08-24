@@ -1,1 +1,3 @@
-Realização do Seminário de Crescimento Espiritual, no Município de Araçatuba, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d03bf635f560c8dbc53c45707bae73ee15e5215616fab4c78f6ade127748b8e5
+size 104

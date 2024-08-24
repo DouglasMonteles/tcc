@@ -1,1 +1,3 @@
-Eleição da candidata petista Carmen Gandarella para Prefeita Municipal de Madre de Deus, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e3db650722cbdbd6311d237afe13e1829608fbcaad02eca1c609e11f48e270c
+size 107

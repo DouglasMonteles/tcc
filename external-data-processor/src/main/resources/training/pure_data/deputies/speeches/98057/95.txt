@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 2.810, de 2020, relativo à alteração do art. 339 do Decreto-Lei nº 2.848, de 1940 - Código Penal, a respeito do crime de denunciação caluniosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f8b76282e87dff1380c35c342d2058077768c79c8ac9667deb591ce3c8fa956
+size 192

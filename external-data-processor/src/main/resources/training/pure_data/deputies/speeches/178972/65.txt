@@ -1,1 +1,3 @@
-Posição contrária do orador à aprovação, no plenário da Câmara dos Deputados, de anistia para a prática de caixa dois no financiamento de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d95ab27f89f6e7e1a3ba5b8bdacac6665c65b4139bc002a46ee693e23afc1ab
+size 168

@@ -1,1 +1,3 @@
-Transcurso do 251º aniversário de fundação do Município de Porto Alegre, Estado do Rio Grande do Sul. Votos de pronta recuperação da saúde ao Presidente Luiz Inácio Lula da Silva. Saudações aos moradores da Vila Kédi pelo recebimento do certificado de comunidade remanescente de quilombo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:035fd3445ba25f9a799a773a6de264ab7f5b2ed42e653234d2039ced05ee7af4
+size 300

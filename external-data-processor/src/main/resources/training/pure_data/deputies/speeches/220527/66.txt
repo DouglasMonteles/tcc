@@ -1,1 +1,3 @@
-A Deputada destacou a aprovação do Projeto de Lei nº 1.949, de 2007, que institui a Lei Geral da Polícia Civil, de iniciativa do Governo Lula, que contou com intensa articulação política para ser votado. Reconheceu a importância da bancada da Federação Brasil da Esperança em assegurar a inclusão dos inspetores e escrivães no texto, além dos delegados. Elogiou o Governo Federal por sua coragem em apoiar a matéria, apesar do posicionamento contrário da oposição, enfatizando o compromisso com os trabalhadores da segurança pública. Ressaltou que essa conquista não é individual e destacou a importância do diálogo e da institucionalidade. Enfatizou a necessidade de elevar a segurança pública ao patamar da cidadania e parabenizou o Governo Lula, o Ministério da Justiça e Segurança Pública e o Plenário pela votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7facc07135d63d3b465a91d482777de044d1e8875fc2d330b00b2a2696cd7795
+size 864

@@ -1,1 +1,3 @@
-O Deputado agradeceu e anunciou a presença de seu amigo, o Vereador Bruno Leite, da cidade de Monte Mor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20497978a22da720ef3c3dffcd03582862ea0f49134c35e34ddcd2cc7dc62e81
+size 105

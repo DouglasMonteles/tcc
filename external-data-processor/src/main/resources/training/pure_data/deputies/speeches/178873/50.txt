@@ -1,1 +1,3 @@
-Declaração de voto pelo prosseguimento de denúncia do Ministério Público Federal contra o Presidente Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03cea49761f43cb58b1dd699bbc8c29bd2b0d9dc5ed35293dcc6eaf08ba93151
+size 119

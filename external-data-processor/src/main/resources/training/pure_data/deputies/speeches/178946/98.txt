@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Defesa de maior participação feminina na política brasileira, mediante aprovação da Proposta de Emenda à Constituição nº 134, de 2015, que reserva vagas para cada gênero na Câmara dos Deputados, nas Assembleias Legislativas, na Câmara Legislativa do Distrito Federal e nas Câmaras Municipais, nas três legislaturas subsequentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:742b6e36ebca40a867b990a74eb62e705c705aaa06eec0562f620d5623fab640
+size 385

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Agradecimento ao Republicanos pela recepção concedida ao orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eae8f2826d7d144d85f4ccc565c9daf4bd68bfdefc35e4825f7fbeb900e2d950
+size 109

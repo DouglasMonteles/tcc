@@ -1,1 +1,3 @@
-Agradecimento pela eleição do orador para Deputado Federal. Elogio à Presidência pela condução dos trabalhos no plenário. Congratulações ao Líder do Avante na Casa, Deputado Luis Tibé. Saudações aos Deputados Federais. Compromisso de atuação parlamentar em defesa do desenvolvimento do País, especialmente do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b1cd06202bd76c142f326deda2902dc9946aae5114ce186d0ac705ac7255c9e
+size 350

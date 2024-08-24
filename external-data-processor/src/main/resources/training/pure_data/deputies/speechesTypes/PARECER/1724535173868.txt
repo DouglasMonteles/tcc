@@ -1,1 +1,3 @@
-Emissão de parecer às Emenda de Plenário ao Projeto de Lei nº 3.630, de 2021, sobre a alteração da Lei nº 12.764, de 2012, com vista à criação de centros de assistência integral ao paciente com Transtorno do Espectro Autista - TEA, no âmbito do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b16ba8fc60755813d218bcf278c969a9edea1aefe12bc19ddf921905f48a427
+size 288

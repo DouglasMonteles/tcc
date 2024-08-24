@@ -1,1 +1,3 @@
-Atuação do orador como Relator do Projeto de Lei nº 10.354, de 2018, sobre a anistia as multas aplicadas a caminhoneiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32a62b61a58c8615e51f3df60c3b0d8415b0433627779cf4a013b80e02515d6b
+size 124

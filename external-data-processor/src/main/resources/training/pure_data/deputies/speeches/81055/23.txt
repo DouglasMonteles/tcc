@@ -1,1 +1,3 @@
-Artigo Investigação visa proteger a independência do Supremo, de autoria do Governador do Estado do Maranhão, Flávio Dino, publicado pelo jornal Folha de S.Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:414cba6691f111ebbc788b579917f4e32e6efb244434b1e1600efe3d53914510
+size 167

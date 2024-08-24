@@ -1,1 +1,3 @@
-Atividades de membros da Comissão de Segurança Pública e Combate ao Crime Organizado no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:799fcd30331ce80eaf7cb5d8576a91d3765bf7f0692d1dabd3b4c59ee75237af
+size 108

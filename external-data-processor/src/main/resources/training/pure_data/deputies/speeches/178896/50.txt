@@ -1,1 +1,3 @@
-Regozijo pela aprovação da Medida Provisória nº 712, de 2016, na forma do Projeto de Lei de Conversão nº 9, de 2016, sobre a adoção de medidas de vigilância em saúde mediante situação de iminente perigo à saúde pública pela presença do mosquito Aedes aegypti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f1c611fb053cc3adf9df23c8704a5b3d44dea7bdd2eb52c886c477989363544
+size 275

@@ -1,1 +1,3 @@
-Matéria Terreiro do Ilê Axé Jitolú tem nova ialorixá, publicada pelo jornal A Tarde, de Salvador, Estado da Bahia. Associação às manifestações de repúdio contra violência física sofrida pelo jornalista Rodrigo Rangel, da revista Veja. Inconformidade com a linha de atuação da revista Veja.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e4f756d5be04df7120fb7ba9d516381897c46c21e9de634652365e5647ccf8c
+size 304

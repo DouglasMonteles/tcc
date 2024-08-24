@@ -1,1 +1,3 @@
-Eleição do orador para a 2ª Vice-Presidência da Comissão de Defesa do Consumidor. Apresentação de denúncia ao Ministério Público do Distrito Federal e Territórios contra a Faculdade AD1, mantida pelo Instituto Tecnológico de Educação do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93f95d06329807720d1731101c3d0d0d275f85da301e66518eb3277f5c39d05b
+size 268

@@ -1,1 +1,3 @@
-Apresentação de moção de repúdio contra o Governador do Estado de Minas Gerais, Antonio Anastasia, pela tentativa de impedimento de correção do piso salarial nacional dos profissionais do magistério público da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a456377f670457cabc9ec2493bc432df7cd4f157777d7de219afc8d626fc12d
+size 238

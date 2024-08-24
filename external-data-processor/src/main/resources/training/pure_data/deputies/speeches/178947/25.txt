@@ -1,1 +1,3 @@
-Esclarecimento ao Deputado Silvio Costa sobre a utilização de placa contra a recriação da CPMF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0bc0523a9e8295b0d0bb54361409cbf934bc0bf2f674d193fed025f932f396f
+size 99

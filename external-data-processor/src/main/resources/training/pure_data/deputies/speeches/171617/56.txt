@@ -1,1 +1,3 @@
-Promoção, pela Comissão de Segurança Pública e Combate ao Crime Organizado, no Município de Maceió, Estado de Alagoas, do Seminário Os Elevados Índices de Mortalidade por Arma de Fogo no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1bf2a397fa25449151996b33c16e39d3f956906c849b8f7d33b0e6cafec896a
+size 203

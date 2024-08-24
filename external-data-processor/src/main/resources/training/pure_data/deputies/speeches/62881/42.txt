@@ -1,1 +1,3 @@
-Relevância do papel desenvolvido por organizações não governamentais no País. Defesa de identificação e punição de ONGs de fachada. Oportunidade de regulamentação do relacionamento entre organizações não governamentais e o poder público. Necessidade de criação de mecanismos eficientes de fiscalização de convênios celebrados com ONGs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:385edf2bbbb2e198b766fb8677202f627508c0d393e92dab99d563c6be00ba04
+size 355

@@ -1,1 +1,3 @@
-Convocação dos Deputados do PR ao plenário para votação do requerimento de tramitação, em regime de urgência, da proposta de reformulação do Código Florestal Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df2607a6bf91924079c0279438fae031f2472255ba27fa6e6b47cf107bcb4e90
+size 180

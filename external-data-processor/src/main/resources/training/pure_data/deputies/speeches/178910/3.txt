@@ -1,1 +1,3 @@
-Visita do Ministro das Cidades, Gilberto Kassab, ao Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ea66d8cd774cf4c631d9a444dd497acc60978ba8a292baece860a221098c325
+size 68

@@ -1,1 +1,3 @@
-Atividades desenvolvidas pela Comissão Especial destinada ao exame de propostas de combate à violência e à impunidade no campo. Renúncia do Ministro-Chefe da Casa Civil, Antonio Palocci. Inconsistência da atribuição à aprovação do novo Código Florestal brasileiro da responsabilidade pela ocorrência de assassinatos de trabalhadores e líderes camponeses na região amazônica. Necessidade de punição de responsáveis por atos de violência contra líderes rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ccdb25e95d699c5b6a80eedbe18f54dc8001d3a886dbe6527394dd9fbcc2fb2
+size 479

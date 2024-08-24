@@ -1,1 +1,3 @@
-Importância da sanção presidencial da Lei nº 13.363, de 2016, que assegura direitos especiais para advogadas gestantes, lactantes e adotantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:069d7a301bc3796f343011d0722257b18d840f718288e71c7191d06f7928d5af
+size 146

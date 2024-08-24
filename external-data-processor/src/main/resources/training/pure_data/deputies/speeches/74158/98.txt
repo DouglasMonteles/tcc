@@ -1,1 +1,3 @@
-Homenagem póstuma ao farmacêutico e ex-Vice-Prefeito Renato Almeida, do Município de Taiobeiras, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4804826e12c039582dff7cbcb99bd1d2ce2fbbd3fa342dcffccec4d2ae7dc6a
+size 123

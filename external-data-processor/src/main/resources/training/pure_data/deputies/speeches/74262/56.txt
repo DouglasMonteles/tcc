@@ -1,1 +1,3 @@
-Interpela a Presidência sobre a distribuição de avulsos da redação final do Projeto de Lei de Conversão 9 de 2013 da Medida Provisória 595 de 2012 (Dispõe sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários, e dá outras providências), para votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e36e49e32290538b9f7ed4f2685ebb58e6c6b0c7ecb6fa9c1f8423352dc41a2
+size 376

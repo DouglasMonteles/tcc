@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista, quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, à Medida Provisória nº 925, de 2020, a respeito das medidas emergenciais para a aviação civil brasileira, diante da pandemia da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:417773e808050a473a57c0661db3519b5c235aa538ef88301a277a245529a3cf
+size 342

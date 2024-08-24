@@ -1,1 +1,3 @@
-Empenho do orador na convocação de candidatos aprovados em concurso público realizado pela Prefeitura Municipal de Pindaré-Mirim, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f5f654adbc7cbfb65e1f76e2028d8bc78df1d09de3278639e596d2225a8d79f
+size 154

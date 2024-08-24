@@ -1,1 +1,3 @@
-Transcurso do 38º aniversário de criação dos Municípios de Colorado do Oeste, Costa Marques, Espigão d'Oeste, Ouro Preto do Oeste e Presidente Médici, no Estado de Rondônia. Solidariedade à Deputada Flordelis diante do assassinato do seu esposo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd7a8d568c9d1fbbd7dbf17c4282db24325f98840cba8663fa909abed27e9fef
+size 254

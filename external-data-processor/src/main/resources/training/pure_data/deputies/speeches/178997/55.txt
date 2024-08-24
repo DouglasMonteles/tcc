@@ -1,1 +1,3 @@
-Convite a Deputados e Senadores para participação de reunião da Comissão Mista da Medida Provisória nº 755, de 2016, que dispõe sobre o Fundo Penitenciário Nacional - FUNPEN, para debate da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:baca3e4a453de5092928bd2c5157e11e3ac43fc092815e0b2161fcc0db3878f4
+size 207

@@ -1,1 +1,3 @@
-Apelo ao Deputado Anthony Garotinho de retirada do pedido de verificação de votação do Projeto de Decreto Legislativo 474 de 2011 (Aprova o texto do Tratado entre a República Federativa do Brasil e a República Popular da China sobre Auxílio Judicial em Matéria Civil e Comercial, assinado em Pequim, em 19 de maio de 2009)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eff024737194cdf29b7b07a6786dc5ed330d0586a6705f62d127282dace937d
+size 330

@@ -1,1 +1,3 @@
-Presença na Casa de correligionários goianos e da Vereadora Andreia Rodrigues Sousa, conhecida como Andreia ACS, do Município de Novo Gama, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:079f58274c9e239e26a64b1e327718bd23d9168b0323ecd1f139d55bcba29b5a
+size 160

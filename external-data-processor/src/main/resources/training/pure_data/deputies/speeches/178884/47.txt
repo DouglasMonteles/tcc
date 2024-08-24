@@ -1,1 +1,3 @@
-Sessão solene em homenagem homenagem ao Dia do Comissário de Proteção da Infância e da Juventude.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3abf9e903b1bc4190a73e8c886d496b62cca4d126e1abc0a573c7878cc9fb3a
+size 251

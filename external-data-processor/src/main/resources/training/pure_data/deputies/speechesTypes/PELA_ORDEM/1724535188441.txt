@@ -1,1 +1,3 @@
-Transcurso do 78º aniversário de criação da União Nacional dos Estudantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ef3a22f94d10194deed67f0ef867dedb321476101d4cf1f453b7bfbf172b889
+size 79

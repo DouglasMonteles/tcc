@@ -1,1 +1,3 @@
-Comemoração do cinquentenário do grupo Renovação Carismática, da Igreja Católica. Anúncio de realização, pela Comissão de Minas e Energia, de audiência pública para debate da construção, pela empresa Bahia Mineração - BAMIN, de barragem de rejeitos nas proximidades dos Municípios de Guanambi e Pindaí, no Estado da Bahia. Posicionamento do orador contrário à realização da obra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:caade3708fd3c56c6f8afa9866ac090fc25d98199673909cb783b7c3e0989cfa
+size 402

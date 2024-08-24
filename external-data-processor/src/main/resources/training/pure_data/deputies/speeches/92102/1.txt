@@ -1,1 +1,3 @@
-Realização, pela Confederação Nacional dos Municípios, da XXII Marcha a Brasília em Defesa dos Municípios, a favor da criação de novo pacto federativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58db6efc694e9ca91c5cc11095d768bd8d9713ebf734eb308a3165a6c3dfe0b7
+size 160

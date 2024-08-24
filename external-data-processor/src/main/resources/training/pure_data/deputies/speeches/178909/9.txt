@@ -1,1 +1,3 @@
-Inconformismo do orador com o maior preço do quilowatt-hora cobrado pela empresa Centrais Elétricas do Pará S.A. - CELPA, no Estado do Pará, em comparação com os demais Estados da Federação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c2c950b843db5e625a202ea9ac8b286252ca2d4a13620608b115f04a32707b4
+size 198

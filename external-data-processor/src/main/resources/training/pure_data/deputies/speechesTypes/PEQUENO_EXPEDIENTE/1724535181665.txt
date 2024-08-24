@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Combate aos preconceitos e discriminações contra as mulheres no País. Ocupação por mulheres de importantes cargos públicos no Brasil. Aumento gradativo da representatividade feminina na Casa. Saudações às mulheres brasileiras, em nome das mulheres do Estado de Minas Gerais e da Deputada Federal Rosinha da Adefal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:276762ccf6f92273e3d85ad4685f3f18259c750e31160ca8f8d529ceba466278
+size 366

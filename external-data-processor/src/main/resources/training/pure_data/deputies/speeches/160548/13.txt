@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Água. Apresentação de projeto de lei a respeito da criação de campanha permanente de proteção dos recursos hídricos e de incentivo à redução do consumo de água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc14a55478384ec682fa906a93ab935f6ec778a3f62fe9cc6e8ed1f39825f2b3
+size 201

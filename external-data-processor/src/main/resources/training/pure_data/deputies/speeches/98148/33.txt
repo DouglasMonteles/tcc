@@ -1,1 +1,3 @@
-O Deputado destacou a importância da colaboração entre as esferas de Governo para tratar de questões urgentes em Santa Catarina, como as frequentes inundações e chuvas intensas. Fez referência a uma reunião com representantes do Ministério do Desenvolvimento Regional e autoridades catarinenses, incluindo o Governador Jorginho Mello e o Secretário de Defesa Civil, Coronel Armando. O Parlamentar elogiou a grandeza desses líderes, independentemente de afiliação partidária, e enfatizou a necessidade de investimentos constantes em obras de infraestrutura, como barragens de contenção, para proteger a região de desastres naturais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66ff2c0e87946611e9152d81ab2c9d49b971e0f547b8f9326fa324f6270b0585
+size 648

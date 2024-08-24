@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda Aglutinativa nº 2, apresentada à Medida Provisória nº 869, de 2018, sobre a proteção de dados pessoais e a criação da Autoridade Nacional de Proteção de Dados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a62682e7203d5683ed09854c304a57c5fcc577489bc09a9595e26fee2e040df1
+size 207

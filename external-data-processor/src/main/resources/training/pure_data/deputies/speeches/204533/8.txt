@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da expressão em dois anos  constante do § 1º, do art. 20, do Substitutivo adotado pela Comissão Especial à Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a19cba82ed02d9249bc67ff8f65e276c444543bb5f0aecb5f9341985ec45d511
+size 280

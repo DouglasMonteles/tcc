@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Comissão nº 27, oferecida à Medida Provisória nº 926, de 2020, sobre a alteração da Lei nº 13.979, de 2020, com vista ao estabelecimento dos procedimentos para aquisição de bens, serviços e insumos destinados ao enfrentamento da emergência de saúde pública decorrente do coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26143e2b1ffdbd8a435f7d5a602168afb051f41a609acdb3f21b0921edd24d84
+size 403

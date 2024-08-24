@@ -1,1 +1,3 @@
-Congratulações ao Presidente Marco Maia pela condução dos trabalhos da Casa. Importância da aprovação da emenda substitutiva global ao projeto de lei sobre o combate à pirataria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:333af3b157aafa9f4275625202fddcd818fbb0e0671d6914f56219aa3803f82e
+size 186

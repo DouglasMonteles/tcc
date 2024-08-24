@@ -1,1 +1,3 @@
-Congratulação ao Prefeito Paulo Henrique Gomes, do Município de Salinópolis, Estado do Pará, pela inauguração do campus da Universidade Federal do Pará na localidade. Transcurso do 104º aniversário de fundação da igreja evangélica Assembleia de Deus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d42aee0f67ab517ea9ccc453c16c6e1dde739dfffbaee7a6d09eebfebbc0e98
+size 263

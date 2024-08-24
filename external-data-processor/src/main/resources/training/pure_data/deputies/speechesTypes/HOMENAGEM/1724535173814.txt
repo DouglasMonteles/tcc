@@ -1,1 +1,3 @@
-Sessão Solene em homenagem aos cinquenta anos do Hospital do Câncer de Barretos-São Paulo. (As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação).
+version https://git-lfs.github.com/spec/v1
+oid sha256:09b7805bf2611ddaa755934c2e66732187ef33c224008dd1f917644d6d36a7ac
+size 219

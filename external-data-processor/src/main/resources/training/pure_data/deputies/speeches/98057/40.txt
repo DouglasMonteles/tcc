@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 7.596, de 2017, a respeito dos crimes de abuso de autoridade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:055f90bcd487136f134b226f1bd682b028c71847d1ada346a2e86203debbe5db
+size 105

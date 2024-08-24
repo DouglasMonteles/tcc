@@ -1,1 +1,3 @@
-Apoio à proposta do Ministro da Agricultura, Pecuária e Abastecimento, Reinhold Stephanes, de retirada do registro genealógico de cães e gatos da esfera de competência do órgão. Apresentação de proposta de realização de audiência pública para debate sobre as proposições relativas a medidas contra raças de cães consideradas perigosas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fd9f80b712b9d4c8c9cb697322ad9a6ff883b2bf4de27931f2aa70385b828c6
+size 352

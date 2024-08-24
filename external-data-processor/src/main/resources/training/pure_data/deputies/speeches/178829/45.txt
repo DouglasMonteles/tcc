@@ -1,1 +1,3 @@
-Divulgação de sítio eletrônico com o propósito de arrecadação de verba para pagamento de despesas nos Estados Unidos da América para cirurgia de menina com câncer cerebral raro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcb5aee53acd0b9e2e5ad64f1c300c6046263c49ead6c7eb0b1ddd83c9b7a9b3
+size 186

@@ -1,1 +1,3 @@
-Compromisso regimental e posse do Deputado Penna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b968e403abb345007984162655ba58cfa191199f238fd992c6337a862308c184
+size 49

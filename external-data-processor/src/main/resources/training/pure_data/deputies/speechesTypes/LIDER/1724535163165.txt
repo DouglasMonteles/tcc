@@ -1,1 +1,3 @@
-Inviabilidade técnica da proposta de reajuste de benefícios previdenciários, apresentada pelo Líder do Governo na Casa, Deputado Cândido Vaccarezza. Autorização ao Deputado José Genoíno, pelo Líder Cândido Vaccarezza, de leitura do parecer oferecido à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7e26de02aa2df2eac1f5f6dbb81c9d6a51ca708edb4db5bfc336214315da496
+size 273

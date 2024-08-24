@@ -1,1 +1,3 @@
-Corte de verbas orçamentárias das universidades federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eefc1ec6313d2ac61b915b5bd56d9cbde05f0f00e1f8578e3db8b7c9679d8608
+size 59

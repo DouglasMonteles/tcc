@@ -1,1 +1,3 @@
-Transcurso do 40º aniversário da Associação Comercial, Industrial e Agropecuária de Marechal Cândido Rondon - ACIMACAR, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8654368851c736a7d3cebc5d779b7a56197e0785d24af37165cb838c3053aefc
+size 144

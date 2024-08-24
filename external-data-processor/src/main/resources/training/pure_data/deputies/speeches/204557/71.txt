@@ -1,1 +1,3 @@
-Urgente necessidade de adoção, pelo Congresso Nacional, de medidas de combate à miséria e à fome no País. Defesa de ampliação do número de contemplados e do valor do benefício do Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:524e50f3f6becdbdbf69fd0b8339de5c11fb64b15108ac612c38d1666ab07375
+size 213

@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória 524 de 2011 (Altera a Lei 12.337 de 2010, para autorizar a  prorrogação de contratos por tempo determinado firmados com fundamento na alínea h do inciso VI do art. 22º da Lei 8.745 de 1993). Violência no campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e31e4127ed28ae4f8d72a5d95ca2a2ae0fc301c9263691bf51c22413029c6c1d
+size 318

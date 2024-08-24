@@ -1,1 +1,3 @@
-Desempenho do PDT nas eleições municipais de 2008. Prefeitos eleitos pelo partido no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:318d8de710c0937e2ebac7fba9ba98f7fe8b97e56ffd0876470f003be02889c9
+size 115

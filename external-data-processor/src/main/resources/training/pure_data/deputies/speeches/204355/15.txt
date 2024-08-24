@@ -1,1 +1,3 @@
-Queda no número de homicídios no Estado do Espírito Santo. Congratulações aos integrantes da área de segurança pública capixaba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8b938de1f102cb147949e0f04a6b00e762f67ea318ed42d4f8155ec0f7bc84e
+size 136

@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de Lei nº 2.308, de 2023, que dispõe sobre a definição legal de hidrogênio combustível e de hidrogênio verde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4abbc1e301168f1a89896f4c968af39bb3ef240d79e2360efdbce3107eaa2a8
+size 146

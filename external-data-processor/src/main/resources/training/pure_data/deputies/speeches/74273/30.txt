@@ -1,1 +1,3 @@
-Repercussão positiva do Projeto de Lei nº 4.524, de 2008, de autoria do orador, que estabelece limites de intensidade sonora para tocadores pessoais de música em formato digital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f29f092511be217a86eb563ef72aa85bb570905bb119f3114e5970796a139ac
+size 181

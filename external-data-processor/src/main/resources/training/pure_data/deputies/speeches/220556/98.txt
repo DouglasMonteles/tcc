@@ -1,1 +1,3 @@
-A Deputada convidou a todos para a sessão solene em homenagem aos 17 anos da Política Nacional das Práticas Integrativas e Complementares no SUS (PICS). Enfatizou que foi a requerente da sessão, em coautoria com a Deputada Erika Kokay, com o objetivo de celebrar o documento fundamental que expande as opções terapêuticas e promove o bem-estar da população brasileira. Informou que SUS oferece 29 procedimentos de PICS de forma integral e gratuita, como acupuntura, homeopatia e aromaterapia. Anunciou o lançamento da Frente Parlamentar Mista em Defesa dos Saberes Tradicionais e das Práticas Integrativas e Complementares em Saúde no SUS. A oradora destacou a presença generalizada dessas práticas em todo o País, com mais de 8 mil estabelecimentos de saúde em 3.173 municípios brasileiros oferecendo atendimentos em PICS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6c5660159efe2e0bc9e449e59e78011b0755313e268b4e43f6340b108b9b48b
+size 840

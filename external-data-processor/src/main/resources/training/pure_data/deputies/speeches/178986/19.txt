@@ -1,1 +1,3 @@
-Nota de repúdio do Coletivo de Luta pela Água contra a concessão do Prêmio Lúcio Costa pela Comissão de Desenvolvimento Urbano ao Governador do Estado de São Paulo, Geraldo Alckmin, em virtude da gestão no setor de recursos hídricos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6ffcbb6a5fea16a83694214ee03ffda1150e62c5e412091744cb79a60c9f776
+size 242

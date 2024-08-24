@@ -1,1 +1,3 @@
-Discussão da Proposta de Emenda à Constituição nº 391, de 2017, acerca do disciplinamento da distribuição, pela União, de recursos ao Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36be28ed09a1c108a038bf95c8d34fc89698b786d3dfcda4e72d20b525161aa8
+size 188

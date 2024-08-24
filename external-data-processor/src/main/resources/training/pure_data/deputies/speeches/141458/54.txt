@@ -1,1 +1,3 @@
-Inconformismo com a não prorrogação dos trabalhos da CPI do CARF. Entrega pelo orador de relatório inconcluso sobre as investigações realizadas pelo colegiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41b26c186e08fb7f57f6955b8193b60b4b52ba7e23f7a1deaf1e81935197aa31
+size 165

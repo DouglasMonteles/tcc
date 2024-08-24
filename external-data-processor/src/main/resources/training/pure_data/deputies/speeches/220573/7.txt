@@ -1,1 +1,3 @@
-Congratulações à Ministra da Saúde, Nísia Trindade, pela divulgação do número de mortes ocorridas no Brasil pela Covid-19. Mudança de postura da pasta da saúde. Negacionismo do ex-Presidente Jair Bolsonaro com relação à pandemia de coronavírus. Retomada da cobertura vacinal do povo brasileiro. Fortalecimento do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b48b6b71f48a9309b594f4156ea54c8f7a613793426fad5cb84c564192faab66
+size 358

@@ -1,1 +1,3 @@
-Afronta de membros da família Bolsonaro ao povo brasileiro e ao regime democrático.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1da6a7a23b5b95a820c4b5a4cfe150de9f53c904f26b0b79bc59492b305f793b
+size 85

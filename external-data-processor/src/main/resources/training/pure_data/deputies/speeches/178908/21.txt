@@ -1,1 +1,3 @@
-Repúdio a ameaça de dirigente da Confederação Nacional dos Trabalhadores na Agricultura a Deputados da Frente Parlamentar da Segurança Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:061f8fa70a9ba4498b7e7815002db1372f8fa39c19d0e25ab386433f65005753
+size 149

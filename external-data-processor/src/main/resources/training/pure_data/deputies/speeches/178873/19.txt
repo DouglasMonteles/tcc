@@ -1,1 +1,3 @@
-Defesa de investigações de denúncias contra todos os partidos políticos. Inexistência de crime de responsabilidade para o afastamento da Presidente da República, Dilma Rousseff. Realização de manifestações em defesa da democracia e contra a destituição da Chefe do Poder Executivo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:936ac5805e57f17cc7e61e0586149e3bbd3f8f85f46eff669eb1c9cb64d44d44
+size 301

@@ -1,1 +1,3 @@
-Repúdio à discriminação racial praticada contra o jogador de futebol Vinícius Júnior, na Espanha. Combate ao racismo e à xenofobia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15c28bbe7e8340f03f0659eb72c4f6b907c3ba46dffab444f9e8b8e52355f3d9
+size 138

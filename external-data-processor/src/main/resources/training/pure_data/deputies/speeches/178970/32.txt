@@ -1,1 +1,3 @@
-Homenagem à TV Atalaia, do Estado do Sergipe, pelo transcurso do 40º aniversário de suas transmissões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b82c8e21dcb6fe8223eab68934ede7a86d42f84324be99e7867ffb473c2b5753
+size 106

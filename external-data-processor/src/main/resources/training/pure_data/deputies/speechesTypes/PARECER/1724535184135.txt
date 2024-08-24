@@ -1,1 +1,3 @@
-Emissão de parecer à Emenda de Plenário nº 1 apresentada ao Projeto de Lei nº 639, de 2021, relativo à alteração da Lei nº 9.250, de 1995, com vista à prorrogação do prazo de apresentação da Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física referente ao exercício de 2021, ano-calendário de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5cc5c864ed08fe1f90d13a6f269853e4e35dd948c166f608ecc85813d23a24d
+size 334

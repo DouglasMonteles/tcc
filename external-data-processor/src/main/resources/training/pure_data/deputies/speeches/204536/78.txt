@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento para encerramento da discussão e do encaminhamento da votação da Medida Provisória nº 905, de 2019, sobre a instituição do Contrato de Trabalho Verde e Amarelo e a alteração da legislação trabalhista brasileira. Críticas aos partidos oposicionistas pela obstrução das votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:555064794ea9632fdd1c32fb3fc996b5bc50193be035ecd4db3422957fe08a28
+size 337

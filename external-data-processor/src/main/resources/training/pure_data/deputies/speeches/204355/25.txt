@@ -1,1 +1,3 @@
-Orientação de bancada. na votação do requerimento de retirada de pauta do Projeto de Lei nº 1.292, de 1995, sobre a alteração da lei nº 8.666, de 1993, acerca da instituição de normas para licitações e contratos da Administração Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba1ae9dfe03bec815c1ff23450ac682b0e5d7cddca651bb6759caae29f43b1df
+size 252

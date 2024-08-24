@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional de Combate ao Abuso e à  Exploração Sexual de Crianças e Adolescentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2a9d9ec9f62a5de818463cb299fc4280ef5f730c1e45818eaaefff440156eda
+size 101

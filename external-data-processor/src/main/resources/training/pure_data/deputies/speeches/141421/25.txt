@@ -1,1 +1,3 @@
-Redução de tarifas de energia elétrica pela Companhia de Eletricidade de Pernambuco — CELPE. Defesa de instalação da CPI da Conta de Luz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01f76e75ab00d688417db67e18f333737ae20a90f303aa68d056e57cb1bb711a
+size 144

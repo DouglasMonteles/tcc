@@ -1,1 +1,3 @@
-Imediata suspensão, pela Companhia Energética do Maranhão S/A - CEMAR, da instalação de medidores digitais de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11735069c6e92a56ee279624cc55e77b6dedd4bc563c5019a9a6cffad19b0e65
+size 133

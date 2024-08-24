@@ -1,1 +1,3 @@
-Regozijo com a reativação do terminal portuário de Porto Murtinho, Estado de Mato Grosso do Sul. Expectativa de aumento da arrecadação fiscal em decorrência da retomada das atividades portuárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3428c666d6deadf8a6278099bdb09fd614f278e3c771f63ae18f95c6f77f2368
+size 202

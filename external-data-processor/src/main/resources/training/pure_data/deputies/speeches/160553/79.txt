@@ -1,1 +1,3 @@
-Encontro de Parlamentares com representantes do Ministério da Saúde, destinado ao debate da inclusão de Santas Casas de Misericórdia no Programa de Recuperação Fiscal - REFIS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dd0951cb1406d61647e3d1db148c03e4ce0a886961819b0fe86e1eefa1daef2
+size 181

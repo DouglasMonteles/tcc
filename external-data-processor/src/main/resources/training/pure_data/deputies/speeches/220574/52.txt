@@ -1,1 +1,3 @@
-Protesto contra a determinação do Comandante do Exército brasileiro, general Tomás Miguel Miné Ribeiro Paiva, de não celebração nos quartéis do aniversário do movimento militar ocorrido no País em 31 de março de 1964.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9395f727a060b1df300b3d0d3aff2cc1bd934a4295ad39380e3e4e2401354a3e
+size 229

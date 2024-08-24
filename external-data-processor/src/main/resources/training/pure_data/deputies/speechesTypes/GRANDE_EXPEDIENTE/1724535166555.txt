@@ -1,1 +1,3 @@
-Saudação ao Deputado César Halum. Trajetória política do orador. Importância do Poder Legislativo. Papel desenvolvido pela Oposição no Congresso Nacional. Postura política do orador. Fragilidades do processo legislativo. Urgente necessidade de redefinição do pacto federativo. Imediata regulamentação da Emenda Constitucional nº 29, de 2000, sobre destinação de recursos para a saúde pública. Omissão no processo de fiscalização da aplicação de recursos públicos. Urgente necessidade de reformulação do Código Florestal Brasileiro. Defesa de redução da carga tributária. Conveniência de reforma política no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69510bc4822c3c79e98d3bcfa66fcf779100fa4085eb02972c25721af47d6373
+size 645

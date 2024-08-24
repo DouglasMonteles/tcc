@@ -1,1 +1,3 @@
-Crítica a decisão do Superior Tribunal de Justiça sobre o chamado rol taxativo de procedimentos para os planos de saúde. Urgente introdução no País da Metodologia ABA, referente ao tratamento, prevenção e diagnóstico do autismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3dbdff1ad834c22e0a9cda852285d912703d93fdd45381cd7609e5413234583
+size 238

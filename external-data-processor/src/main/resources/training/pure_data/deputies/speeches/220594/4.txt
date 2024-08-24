@@ -1,1 +1,3 @@
-Inexistência, no âmbito do Programa Nacional de Segurança Pública com Cidadania - PRONASCI, de dispositivo destinado ao combate ao crime organizado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:724bef604a98b734fbfb67d2a79298e5f1d53703948c92eb5d9fafa52a92a40c
+size 152

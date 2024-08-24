@@ -1,1 +1,3 @@
-Defesa da retirada de impostos federais incidentes sobre combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:709ffe7f97f25cdad457beb0e1f3761961685e988f3f027545787929137c46eb
+size 71

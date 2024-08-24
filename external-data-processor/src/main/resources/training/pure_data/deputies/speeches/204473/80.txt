@@ -1,1 +1,3 @@
-Inadmissibilidade de atribuição ao Presidente Jair Bolsonaro, pela Oposição, da responsabilidade por danos relativos à Covid-19. Convocação, pela CPI da Covid da Assembleia Legislativa do Estado do Rio Grande do Norte, do Secretário-Executivo do Consórcio Nordeste, Carlos Gabas, para esclarecimento do desvio de recursos federais destinados à compra de respiradores mecânicos. Interferência do Supremo Tribunal Federal em assuntos intestinos do Poder Executivo. Transcurso do Dia do Soldado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09741e9665f1f14750b636ced828ecf80e422d249ad495b3617d84d940aa909e
+size 504

@@ -1,1 +1,3 @@
-Imparcialidade do então Juiz Federal, Sérgio Moro, na condução da Operação Lava-Jato. Desvio de recursos públicos e recebimento de propinas pelo PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca4be6732c337e442e4dc5851bf0062b3f057c2b55ff855acc07e7b55ff987d6
+size 155

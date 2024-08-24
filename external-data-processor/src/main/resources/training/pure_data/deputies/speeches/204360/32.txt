@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 4.287, de 2020, sobre a alteração da Lei nº 13.675, de 2018, para inclusão do Plano Nacional de Prevenção e Enfrentamento à Violência contra a Mulher como instrumento de implementação da Política Nacional de Segurança Pública e Defesa Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffa85e35c9fe1264674f893bdd2170e22ca21c25af6a7048aa8c639567b77e6e
+size 297

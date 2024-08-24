@@ -1,1 +1,3 @@
-Papel exercido pela educação na vida da oradora. Prática de corrupção no âmbito do Ministério da Educação. Descaso de ocupantes da pasta com a educação básica. Retrospecto da atuação parlamentar da oradora na Câmara dos Deputados. Agradecimento aos eleitores do Estado de São Paulo por sua recondução à Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3535d32a3f6721d98a17b097029817f048a4fc6fc6701345a79016afe30fe134
+size 327

@@ -1,1 +1,3 @@
-Necessidade de fortalecimento da infraestrutura aeroportuária amazonense. Empenho do orador no asfaltamento da BR-319. Urgente necessidade de liberação, ao Estado do Amazonas, do acesso aos recursos do Fundo Nacional de Aviação Civil - FNAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d35ffe7d900ecb3b3bd83dddfc47403a83e7ef28bf5848793ae20e6bb6340702
+size 246

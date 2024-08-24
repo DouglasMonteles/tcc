@@ -1,1 +1,3 @@
-Necrológio do ex-Deputado Federal Neiva Moreira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f56daf07f4ca1b432fde0b5d7b16e77de5c8228dc086460677a36c8671b34087
+size 49

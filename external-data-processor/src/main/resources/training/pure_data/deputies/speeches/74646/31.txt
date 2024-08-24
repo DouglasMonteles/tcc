@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado do § 1º, art. 17, da Constituição Federal, alterado pelo art. 3º da redação para o segundo turno da Proposta de Emenda à Constituição nº 125, de 2011, sobre a inserção de dispositivo no Ato das Disposições Constitucionais Transitórias, e a alteração da Constituição Federal para fins de reforma político-eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9126cf2a29b77e119a710c0d1572aaf7ff487f8042b00240070b78d122b6432c
+size 418

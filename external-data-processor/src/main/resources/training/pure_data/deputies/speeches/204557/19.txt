@@ -1,1 +1,3 @@
-Exigência de revisão, pelo Governo Jair Bolsonaro, do corte de recursos destinados à educação pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25c872fa3d98ce51876f845ff8f6795130bca52fbfe160c4b254ddc9bf5ca6f7
+size 108

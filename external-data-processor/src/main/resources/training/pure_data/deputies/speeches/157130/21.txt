@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do § 1º, art. 1º, da Medida Provisória nº 1.077, de 2021, na redação proposta pela Emenda de Comissão nº 17, com vista à substituição do equivalente no texto do Projeto de Lei de Conversão nº 4, de 2022. Declaração de voto do orador no requerimento de retirada da matéria de pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c0007dc7d0156cb3a5c4022121240a63e89da6a98a6bf90c4c8ab42e9f57a16
+size 390

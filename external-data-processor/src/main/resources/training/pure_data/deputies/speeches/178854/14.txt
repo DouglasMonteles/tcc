@@ -1,1 +1,3 @@
-Panorama da educação brasileira. Esclarecimento sobre o contingenciamento de recursos do setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f23955765cd77090b969ba35b1a94b467dcd1756e1c8423d0d4387814b378a1
+size 109

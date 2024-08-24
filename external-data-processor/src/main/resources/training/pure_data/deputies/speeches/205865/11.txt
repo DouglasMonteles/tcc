@@ -1,1 +1,3 @@
-Prejuízos causados ao desenvolvimento do Brasil pela burocracia. Congratulações a membros do Supremo Tribunal Federal pela manutenção de tópicos do Código Florestal Brasileiro. Inexistência de segurança jurídica para a realização das atividades agropecuárias no País. Necessidade de realização das reformas política, tributária e previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cc407c82a11af0080b504ee79391e96ffe330e11e15bc5cb62cec702e9d4979
+size 364

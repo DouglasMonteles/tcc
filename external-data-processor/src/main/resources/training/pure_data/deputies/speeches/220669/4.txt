@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Leite. Congratulações ao Deputado Estadual Dannilo Godoy, de Pernambuco, pela apresentação da proposta ao Governo do Estado de criação do Programa Rota do Leite, destinado à melhoria do escoamento da produção de laticínios no Agreste pernambucano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:203ce64bdd6b1b47a0473290131da8af4514a8d8acf41498d241a6c9b85786ee
+size 286

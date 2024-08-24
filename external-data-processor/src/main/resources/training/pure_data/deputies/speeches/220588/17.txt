@@ -1,1 +1,3 @@
-Pedido à Casa de aprovação do Projeto de Lei nº 2.078, de 2023, de autoria do orador, sobre a criação do Programa Nacional de Recuperação de Áreas Degradadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aef37d69385c3b07f16fdaab714a04b46399bcbe19efd31547bdd1eb11199196
+size 167

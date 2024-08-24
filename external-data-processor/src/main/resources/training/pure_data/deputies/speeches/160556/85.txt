@@ -1,1 +1,3 @@
-Transcurso do 33º aniversário de fundação do PT e dos 10 anos do Governo petista. Alcance social de programas lançados pelos Governos Luiz Inácio Lula da Silva e Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7295ec831830bf4fb6c898b7c38610c43d6ea4b283a535fe6ddde8ce2c736773
+size 183

@@ -1,1 +1,3 @@
-Reclamação contra a manifestação indevida  da Comissão de Trabalho, de Administração e Serviço Público sobre temas relacionados à educação, de competência da Comissão de Educação e Cultura, ao apresentar Substitutivo ao Projeto de Lei Complementar 92 de 2007 (Regulamenta o inciso XIX do art. 37 da Constituição Federal, parte final, para definir as áreas de atuação de fundações instituídas pelo poder público).
+version https://git-lfs.github.com/spec/v1
+oid sha256:66388c4b84dbd082e73f19317dd9b56314b8d6664a98df63c797733f5baa46c5
+size 437

@@ -1,1 +1,3 @@
-Apreensão do orador ante a situação de cidadãos brasileiros residentes no Paraguai, em face da instabilidade política reinante naquele país. Maior cautela do Governo brasileiro no tocante às decisões políticas e comerciais com o país vizinho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25e8389caf8d7c3274eb7f43e7a69a2dfe6fdd01c4b907841135d119cc9a01f1
+size 252

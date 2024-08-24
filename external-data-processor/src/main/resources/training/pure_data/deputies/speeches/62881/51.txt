@@ -1,1 +1,3 @@
-Solidariedade ao ex-Deputado Flávio Dino em consequência do falecimento de seu filho. Necessidade de manifestação da Casa sobre a crise da área de saúde no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6584fe998d6ad33fe64a90ac5d715497633721d301a4376aa1ad49e313d65527
+size 179

@@ -1,1 +1,3 @@
-Transcurso do 122º aniversário de fundação do Município de Jequié, Estado da Bahia. Participação em audiência pública na Câmara Municipal destinada ao debate da situação do distrito industrial da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d105d42d92d51705ca31b4aa6e29c195cae85d4f5d64f6631a7e7890560977f2
+size 224

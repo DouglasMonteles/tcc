@@ -1,1 +1,3 @@
-Posicionamento do orador sobre o teto de gastos de campanha nas eleições municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6209fc5fc8e7db7a016d8159200148f356fcfb702c4b3119ee95dc78b179471a
+size 86

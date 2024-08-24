@@ -1,1 +1,3 @@
-A Deputada proferiu parecer ao Projeto de Lei nº 5.427, de 2023, que aprimora a aplicação de medida protetiva, alterando a Lei nº 11.340, de 7 de agosto de 2006.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d270b82f82539ee87128a113b92ed5a324c4e53bf95b11eae05a44b2ecac41c
+size 165

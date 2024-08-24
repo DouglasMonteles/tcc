@@ -1,1 +1,3 @@
-União da bancada do PSDB pela aprovação do requerimento de tramitação, em regime de urgência, da proposta de reforma do Código Florestal brasileiro. Regozijo com a inclusão de Áreas de Preservação Permanente - APPs no cálculo de reservas legais. Contrariedade à criação de APPs por meio de decreto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2f32a5ea0c6004dae7de6735e9c9e508b2bbe53a1757902b0ae794d3ea7f4e1
+size 313

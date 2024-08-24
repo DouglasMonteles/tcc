@@ -1,1 +1,3 @@
-Questão de ordem sobre o descumprimento por Deputado do&nbsp;§ 3º do Ato da Mesa nº 63, de 1980, acerca da obrigatoriedade do uso de traje passeio completo no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ca6873c65964e558650dddac1832abc2c57dfe5be454afd4d1cc320139ef1e7
+size 173

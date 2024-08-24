@@ -1,1 +1,3 @@
-Anúncio da viagem do Ministro da Justiça e Segurança Pública, Flávio Dino, ao Estado de Santa Catarina para lançamento do Programa Nacional de Segurança com Cidadania - PRONASCI. Liberação, pelo Governo Federal, de recursos para implementação de projetos de segurança em escolas e creches brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0294829fc94c657d58e20fdb7fcc63d68fc3d774cd49e5c3930e1e1bbc36a40e
+size 313

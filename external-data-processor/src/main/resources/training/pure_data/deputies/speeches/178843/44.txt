@@ -1,1 +1,3 @@
-Apresentação de requerimento de indicação ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES para abertura de linha de crédito com juros anuais de 8%, destinada à aquisição de de motocicletas e veículos populares. Apelo ao BNDES de liberação de verbas ao Estado de Alagoas para conclusão das obras de duplicação do BR-101 e do Canal do Sertão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5943079a0c94202721f5161f21acea64b2db2bf81b6eb40f42230502146aa85
+size 372

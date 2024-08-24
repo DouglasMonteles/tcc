@@ -1,1 +1,3 @@
-Reunião com o Ministro da Justiça e Cidadania, Alexandre Moraes, para debate da ação de indígenas e pseudoindígenas contra a população do bairro Parque dos Rios, do Município de Itaju do Colônia, Estado da Bahia. Confiança nas ações do Ministério para solução do problema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c5f84a91f196c81a2355d096fc8d3b8ab9bc01404e53400ff5d505fec8419ad
+size 288

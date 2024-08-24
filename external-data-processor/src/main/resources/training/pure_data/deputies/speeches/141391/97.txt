@@ -1,1 +1,3 @@
-Inexistência de prejuízos ao País com a extinção da Contribuição Provisória sobre Movimentação Financeira - CPMF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3478b3ede0a5ebc590dcdeb250ef246ae36037d33e3e43ca616a29bb8e0c8a3
+size 123

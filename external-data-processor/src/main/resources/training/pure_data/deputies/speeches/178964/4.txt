@@ -1,1 +1,3 @@
-Convite aos Parlamentares para participação na 16ª Expodireto Cotrijal 2014, no Município de Não-Me-Toque, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc9abddfed0f0e5a5a8240669e5c86eacc58fac5ab32582e66cee1eba4b5be9d
+size 140

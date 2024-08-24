@@ -1,1 +1,3 @@
-Necessidade de realização, pelo poder público, de maiores investimentos em programas assistenciais destinados aos dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5875b56750ddb163ab512a8ca5ca053b8abac90beada729f2b8fb68010ef0a3
+size 139

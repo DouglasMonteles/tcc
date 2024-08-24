@@ -1,1 +1,3 @@
-Realização pela Comissão de Assuntos Econômicos do Senado Federal de audiência pública, com a presença de Governadores Estaduais, destinada ao debate da distribuição de royalties de petróleo da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:004900176dabe71c841d15f6beb4a44e34dd0b17c7001fcd84a09476b3391fc1
+size 220

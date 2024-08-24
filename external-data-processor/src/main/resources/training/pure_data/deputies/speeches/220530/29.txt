@@ -1,1 +1,3 @@
-Presença do Deputado Estadual do Espírito Santo, Denninho Silva, na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb7a13029457342adffbd758722e8a5ed81c2f220abbfe52184426e7433bc1b
+size 92

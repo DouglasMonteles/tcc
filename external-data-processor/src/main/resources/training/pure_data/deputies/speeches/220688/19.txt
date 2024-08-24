@@ -1,1 +1,3 @@
-Relançamento, pelo Tribunal de Justiça do Piauí em parceria com o Governo Estadual, do Programa Regularizar destinado à regularização de imóveis residenciais. Participação da Ministra da Saúde, Nísia Verônica Trindade, em audiência pública na Comissão de Fiscalização Financeira e Controle para tratativas de assuntos pertinentes à sua pasta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea171f79c95fd615f99fe8422d41462e082b8ea643cfeddb45f7c3c4eab5e480
+size 360

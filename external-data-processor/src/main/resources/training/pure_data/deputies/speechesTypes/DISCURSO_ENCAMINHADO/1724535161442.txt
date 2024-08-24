@@ -1,1 +1,3 @@
-Elevação do número de famílias em situação de insegurança alimentar e nutricional do País, provocada pela pandemia de coronavírus. Reinclusão do Brasil no Mapa da Fome. Alcance social do Programa Alimenta Brasil, criado pelo Governo Jair Bolsonaro. Concessão do Auxílio Inclusão Produtiva Rural aos agricultores em situação de pobreza e de extrema pobreza. Relevância do Programa Auxílio Brasil. Comprometimento do orador com as ações de combate à fome e à pobreza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d655dcbbae994b4980287f7e0b061ab47e3e4802ff12c6d98ec88c0a92f4376
+size 486

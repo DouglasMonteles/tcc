@@ -1,1 +1,3 @@
-Apelo ao Ministério da Saúde de realização de consulta pública sobre a renovação do certificado de entidade beneficente da Associação Feminina de Educação e Combate ao Câncer - AFECC, mantenedora do Hospital Santa Rita de Cássia, no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee786d8eb84c6573c145b9f2ff8c3f0ea2ea13330e02aca34e7d59b72cef85e6
+size 272

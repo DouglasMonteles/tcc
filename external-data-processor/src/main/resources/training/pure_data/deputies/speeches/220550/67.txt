@@ -1,1 +1,3 @@
-O Deputado&nbsp;acusou o Presidente da República de desprezar a tragédia ocorrida no Rio Grande do Sul ao viajar para a Índia. Também condenou os planos do governo de adquirir um novo avião presidencial avaliado em 400 milhões de reais, sugerindo que se trata de um desperdício. Expressou indignação com a decisão do Supremo Tribunal Federal de restabelecer o imposto sindical. Protestou contra a redução de verbas para a segurança pública no orçamento de 2023 e a imposição de impostos sobre compras da China. O orador finalizou afirmando que o Governo é corrupto e não tem direcionado recursos públicos para segurança, saúde e educação, apenas priorizando gastos supérfluos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ec1cf95cc135d18c5d802307de2cba68dcb1d3f6efa24fc3343267b20d9c49a
+size 701

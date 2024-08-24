@@ -1,1 +1,3 @@
-O Deputado destacou a crise enfrentada pelos produtores rurais brasileiros. Criticou a importação de leite, afirmando que tal prática está prejudicando os produtores locais. O parlamentar também mencionou a queda no preço da arroba do boi e os desafios enfrentados pelos produtores de leite e agricultores de milho e soja, ressaltando que 80% dos produtores rurais no Brasil são pequenos e médios e necessitam de intervenções governamentais. Por fim, fez um apelo ao Presidente Lira para que medidas sejam tomadas em apoio ao setor agropecuário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e35b442f0d755a91701ab44a389b5f8e10061a2c16c4ace9b01a5f41ca5d33e
+size 556

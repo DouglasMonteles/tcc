@@ -1,1 +1,3 @@
-Orientação de bancada na votação, em primeiro turno, do Substitutivo oferecido pelo Relator da Comissão Especial à Proposta de Emenda à Constituição nº 10, de 2020, sobre a instituição de regime extraordinário fiscal, financeiro e de contratações, para enfrentamento da calamidade pública nacional decorrente da pandemia de coronavírus, ressalvados os destaques. Repúdio ao falso moralismo do partido NOVO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:706eb17ba5cae3364c0e45e5078fd4147e40cef7019c1acca3ec73900dbd805e
+size 424

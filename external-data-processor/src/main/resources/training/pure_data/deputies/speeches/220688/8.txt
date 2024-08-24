@@ -1,1 +1,3 @@
-Participação do orador na comitiva do Governador do Estado do Piauí, Rafael Fonteles, em visita ao Município de Floriano. Relançamento do Programa Mais Médicos pelo governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19f08cb127b2c6b8543ad8eb407d9b81d332b07d762600a545089c37767d939d
+size 187

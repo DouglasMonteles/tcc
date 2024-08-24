@@ -1,1 +1,3 @@
-Sessão solene em comemoração aos 65 anos de fundação do Conselho Federal de Medicina - CFM.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ee28bab25b6616174c9fac49fe424a350d4cf6dea963446fade329a5fd7e860
+size 245

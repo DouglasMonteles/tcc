@@ -1,1 +1,3 @@
-Não acatamento pelo orador, Relator da matéria, da Emenda de Plenário nº 10, apresentada ao Projeto de Lei Complementar nº 211, de 2021, sobre o estabelecimento de limites de tributação de bens essenciais, especialmente de energia elétrica, petróleo, telecomunicações e gás natural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6befaee7594a4b5581cf1d57a020632cd4a21ff6c658b850273880293b9b45d
+size 294

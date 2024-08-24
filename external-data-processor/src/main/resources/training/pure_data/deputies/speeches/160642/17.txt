@@ -1,1 +1,3 @@
-Congratulações ao Governador do Estado de Pernambuco, Eduardo Campos, pelo anunciado fornecimento de computadores ao alunato de escolas públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79a4c226b9baff9cd4c7c1d12e6d8e4de30bd06c6662e75e2329e28002765974
+size 148

@@ -1,1 +1,3 @@
-O Deputado criticou a intervenção do Supremo Tribunal Federal em questões legislativas, como a descriminalização das drogas. Enfatizou que a Constituição Federal confere ao Congresso Nacional o poder de criar leis e que o STF não deve decidir sobre o que constitui porte de drogas. O Parlamentar expressou sua indignação com o silêncio de muitos Deputados em relação às decisões do STF, acusando-os de se submeterem à pressão da Suprema Corte e de se venderem por emendas parlamentares. Além disso, condenou a prática de usar emendas para obter votos favoráveis a projetos de interesse do Governo, alegando que isso prejudica áreas essenciais como saúde e educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de4147f1db9cfe059c9cd311c248dd99a9b7dfb70234ac4fc22939c8980d0dff
+size 689

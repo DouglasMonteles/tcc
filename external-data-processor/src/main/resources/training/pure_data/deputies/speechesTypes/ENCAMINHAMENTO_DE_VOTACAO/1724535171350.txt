@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 920, de 2023, sobre a destinação, ao Fundo Nacional de Calamidades Públicas, Proteção e Defesa Civil - FUNCAP, de recursos advindos de multas por crimes e infrações ambientais; de compensações ambientais e de acordos judiciais/extrajudiciais de reparação de danos socioambientais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac1eb3b793f3147a7b2d22981c7b05fb9fe76cfaeab0af66e5957f2043a26181
+size 396

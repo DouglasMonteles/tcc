@@ -1,1 +1,3 @@
-Protesto contra a prisão do ex-Diretor da Polícia Rodoviária Federal, Silvinei Vasques. Condenação judicial do Presidente Luiz Inácio Lula da Silva por prática de corrupção. Perseguição do governo petista ao grupo de Colecionadores, Atiradores e Caçadores - CACs e aos clubes de tiro. Descaso do Presidente da República com o agronegócio brasileiro. Pedido de realização, por órgão da Casa, de audiência pública para discussão de portaria governamental prejudicial aos produtores rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0856ae36f9b67d7b2b870cbeb7e0028f49b29fa98aa2b1ddc3adf8c54ebc0cbf
+size 508

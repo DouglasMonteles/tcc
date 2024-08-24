@@ -1,1 +1,3 @@
-O Deputado criticou a invasão de competência do STF em questões relacionadas ao aborto e condenou o julgamento da ADPF 442, que discute o tema. Argumentou que a vida começa na concepção, citando a ciência como base, e comparou a defesa do aborto à lógica cruel da escravidão, destacando a desumanização em ambos os casos. Classificou o aborto como um assassinato frio e cruel contra seres humanos indefesos e incapazes de se proteger.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f77504f97b28152c3fb744c96ebff1abdcaef3d8e070695c7d95f3276c022cb
+size 446

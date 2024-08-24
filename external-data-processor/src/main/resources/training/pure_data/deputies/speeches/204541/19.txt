@@ -1,1 +1,3 @@
-Linhas norteadoras da atuação parlamentar do orador. Relevância de proposições aprovadas pela Câmara dos Deputados em 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4840b76defe386e6c8140f1315339c8cfc36a7409a5967e0958f88a7adb4abf7
+size 129

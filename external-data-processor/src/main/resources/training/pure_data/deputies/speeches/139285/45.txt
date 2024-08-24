@@ -1,1 +1,3 @@
-Lançamento do livro Falas de sua caridade, em homenagem ao ex-Provedor da Santa Casa de Misericórdia da Bahia, Álvaro Lemos. Artigo Lições da estrada, a respeito do político Magno Burgos, de autoria do jornalista Emiliano José.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5ddfb830597d7ed87e28749a51f3564794625f943cee38af352f4fde7cecc1f
+size 234

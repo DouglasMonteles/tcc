@@ -1,1 +1,3 @@
-Saudações aos Deputados ao ensejo da retomada dos trabalhos legislativos. Expectativa de proficuidade dos trabalhos da Casa em 2014. Relato das emendas orçamentárias apresentadas pelo orador em benefício da população do Estado de Alagoas. Balanço da atuação parlamentar do orador em 2013. Insuficiência dos investimentos dos Governos Federal e Estadual para melhoria dos índices socioeconômicos de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62532fbf1a156c144bfacf0ecd10c5c021adbb9b60a7a8fede1149175f83b94a
+size 419

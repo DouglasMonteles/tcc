@@ -1,1 +1,3 @@
-Registro de presença na Casa do Secretário de Estado da Agricultura do Estado de Sergipe, Esmeraldo Leal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96fb11fddc31835fb522ea399c64d8654f45fb4c6b422e378bd313984238bc3e
+size 107

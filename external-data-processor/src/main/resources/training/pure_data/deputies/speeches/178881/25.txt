@@ -1,1 +1,3 @@
-Acerto da decisão do Tribunal Regional Eleitoral do Estado do Maranhão, a favor da assunção do mandato parlamentar pelos Vereadores Alcobaça, Raimundo do Sindicato e Luís do Igarapé Grande, do Município de Zé Doca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f5dbcae6dd75f1f63a506df31a24b0315b6149dbc94769c429179b58a703272
+size 223

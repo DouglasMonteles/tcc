@@ -1,1 +1,3 @@
-O Deputado prestou homenagem ao ex-Governador Albano Franco, ressaltando sua importância para Sergipe. Expressou preocupação com a situação do País e apelou ao Senado Federal para atuar em prol do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26ddb59716803788b5cf6a0ea70035c5048264462403a307921700e33abe4dd4
+size 210

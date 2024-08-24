@@ -1,1 +1,3 @@
-Criação pela Casa de Comissão Especial destinada ao exame de projeto de lei sobre o estabelecimento de medidas contra a corrupção. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dc1e5fc6fc93c71c8c229b0dde3db82751a80c6c6858180b0b8d989e7a734b8
+size 171

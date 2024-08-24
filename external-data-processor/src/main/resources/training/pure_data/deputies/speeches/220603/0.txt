@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 968, de 2023, sobre o estabelecimento de protocolo único para a realização de exames ginecológicos, partos, ou qualquer procedimento envolvendo o corpo ou sistema reprodutor feminino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42c025acb3262ed0399dc224f9eba07d1a9fd64baff6650304f094808a1add0e
+size 292

@@ -1,1 +1,3 @@
-Desabamento do teto do Hospital Municipal da Criança e do Adolescente, no Município de Guarulhos, Estado de São Paulo. Descaso do Prefeito Municipal com a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36563dcc09e37b66b70bdee958f3c0014542c233126be940b15be0400fe56bae
+size 174

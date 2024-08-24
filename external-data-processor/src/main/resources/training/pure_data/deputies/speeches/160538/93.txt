@@ -1,1 +1,3 @@
-Congratulação ao Líder do Governo na Casa, Deputado Arlindo Chinaglia, pela votação do projeto sobre a Lei Geral da Copa. Razões da não votação do requerimento de tramitação em regime de urgência do projeto de lei sobre a criação de Turmas Recursais de Juizados Especiais Federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b2d721f12704f5019e21d5a09639edec588fb2b7fb9157c4cd927069e3942f0
+size 295

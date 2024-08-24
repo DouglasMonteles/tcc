@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à proposta de revisão da representatividade na Câmara dos Deputados e nas Assembleias Legislativas, apresentada pela Assembleia Legislativa do Estado do Amazonas ao Tribunal Superior Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f59fc256ee1bf261a9de0bf01f78c7465d803621f8498e8615ecfa2c8a785d1
+size 232

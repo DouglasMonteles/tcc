@@ -1,1 +1,3 @@
-Orientação de bancada na votação do recurso à Presidência contra o não recebimento de requerimento de destaque para votação em separado do art. 10 do Projeto de Lei de Conversão nº 33, de 2018. Eleição de candidatas laranjas do PSL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:100b3a28eac97a8dd7a310c49aee24c0367c36f2b4458db20a9a72176f97f1f1
+size 245

@@ -1,1 +1,3 @@
-Ajuizamento, perante a Procuradoria-Geral da República, de Representação contra o Juiz Francisco José Mazza Siqueira, da Comarca de Juazeiro do Norte, Estado do Ceará, por desrespeito e constrangimento imposto a mulheres durante audiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d009f7476065001aa155ed38f734a5da8433698a57ecf9f9ba78f5af333d1ff
+size 245

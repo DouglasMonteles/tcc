@@ -1,1 +1,3 @@
-Contentamento com as medidas saneadoras para a retomada do crescimento do País adotadas pelo Presidente da República, Michel Temer. Cumprimento aos pares pela conduta do debate na Comissão Especial sobre a reforma trabalhista e na relatoria. Solicitação de apoio aos Deputados do PMDB para aprovação da proposição em votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a5037251bcb80e6b17657b516181feb2269e1f1c441147bb9f10f2f0e9b89bc
+size 336

@@ -1,1 +1,3 @@
-Apreensão com perspectiva golpista de conquista da Presidência da República pelo PSDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38146ca3587b3669614431cc5c8db33bfc0525b87c3d5bdc1095b1742c0bee93
+size 89

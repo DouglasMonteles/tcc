@@ -1,1 +1,3 @@
-Repúdio a manifestações de intolerância religiosa ocorridas na 19ª Parada do Orgulho LGBT de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17133d55cd0bbf7a1594976ec7eb2e73ff693e2e17d0eac88149552c58040b4d
+size 131

@@ -1,1 +1,3 @@
-O Deputado homenageou Danilo de Miranda, referência na cultura paulista e brasileira, e expressou solidariedade às famílias que lembrarão seus entes queridos no Dia de Finados. Criticou a privatização do serviço funerário em São Paulo, que resultou em aumento significativo nos custos, e destacou a piora na manutenção dos cemitérios, apelando por uma revisão desse processo para assegurar tratamento digno e respeitoso às pessoas em luto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:083ffa969f8d4f721e90a6420011cb06e3bec3b8ba7b3a13521b5c6c07b64cbf
+size 453

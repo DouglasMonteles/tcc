@@ -1,1 +1,3 @@
-O Deputado ressaltou a importância da desoneração da folha de pagamento para manutenção de empregos no país. Criticou o Governo do Presidente Lula por vetar esse projeto e querer aumentar impostos, citando propostas de taxação sobre serviços e produtos. Denunciou cortes na saúde, na educação e na área de segurança pública. Concluiu exortando os eleitores a cobrarem seus representantes na cidade em caso de não derrubada do veto presidencial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f253fdbf01768f0b304088a71c170a859d1b35284bfbcc9896e445fecc6e3968
+size 460

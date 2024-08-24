@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à prática de vaquejada no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47c4b80b039b5954bc1cda919877206b6ca5a4de2cb3963b1e3764c72265da0a
+size 70

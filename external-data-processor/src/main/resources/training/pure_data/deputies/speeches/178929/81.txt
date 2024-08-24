@@ -1,1 +1,3 @@
-Defesa pela Casa de rejeição do parecer oferecido pelo Relator Vicente Cândido à Proposta de Emenda à Constituição nº 77, de 2003, a respeito da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2212f48c26d88202126788988bf00ab402cf47573715a5519153ab3125acba1a
+size 171

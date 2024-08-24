@@ -1,1 +1,3 @@
-Retratação pelo orador, junto a Deputada, de reclamação sobre o estado de conservação das ruas de Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b7454532ffd38a4808bc17c7470fb5b67fd57f998ec9eaa5104083eae972ba0
+size 130

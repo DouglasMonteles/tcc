@@ -1,1 +1,3 @@
-Lançamento da campanha Sinal Vermelho Contra a Violência Doméstica, pela Secretaria da Mulher da Câmara dos Deputados em conjunto com a bancada feminina. Escalada da violência contra as mulheres no País. Congratulações à Associação dos Magistrados Brasileiros e à Secretaria Nacional de Políticas para as Mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dfa19faa5e88421583a8715d6956c7ce350a091b2e9b1b6871540e0c1187d3f
+size 327

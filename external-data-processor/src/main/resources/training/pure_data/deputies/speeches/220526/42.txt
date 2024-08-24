@@ -1,1 +1,3 @@
-Incompreensão quanto à não inclusão da área da segurança pública no bojo do Projeto de Lei nº 3.394, de 2015, sobre alteração da Lei 12.846, de 2013, e da Lei nº 8.429, de 1992, visando à destinação dos valores recebidos de multas a medidas educativas anticorrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ede049311ac3875c4fb45b256eae26b6e51cee2d09a486d85f771f8a81834c73
+size 282

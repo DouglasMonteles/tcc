@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre a possibilidade de expropriação de propriedade privada pelo Projeto de Lei nº 2.257, de 2023, sobre as obrigações da empresa responsável pela ocorrência ou pelo risco iminente de acidente ou desastre, quanto aos direitos das pessoas e do município atingidos, bem como à destinação final da área impactada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5482700d7e7f9ef5d05e142e6b22bc2dde854f038faabdc1293163fc66743a3
+size 351

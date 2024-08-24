@@ -1,1 +1,3 @@
-Caráter eleitoreiro de ataques da Oposição contra a Ministra-Chefe da Casa Civil, Dilma Rousseff. Reconhecimento, pelo Governo Federal, do acesso às graduações superiores dos membros do quadro de taifeiros da Aeronáutica. Pedido aos Deputados de aprovação do requerimento de urgência para tramitação do Projeto de Lei nº 5.919, de 2009, a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a4ae4834fb59ea6abc89b501f071a28a14dbaaf68151a3f712103a9c290906c
+size 369

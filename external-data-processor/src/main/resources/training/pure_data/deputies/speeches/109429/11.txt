@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento para votação da matéria artigo por artigo, apresentado à Medida Provisória n° 863, de 2018, sobre a abertura do setor aéreo ao capital estrangeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f21c28c51edbefbfd6b625aa6b75814480ce5da2452a4f8650fbc8e09f494951
+size 207

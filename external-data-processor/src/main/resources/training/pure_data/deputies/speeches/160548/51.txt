@@ -1,1 +1,3 @@
-Transcurso do 237º aniversário de fundação do Município de Campinas, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e24f028b1400137685b17c0c1b4a509f8ffa14896b281ccc547f602230b92cfe
+size 95

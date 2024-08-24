@@ -1,1 +1,3 @@
-Críticas à apresentação de destaques, por parte do PT, na apreciação do Projeto de Lei nº 4.850, de 2016, que estabelece medidas contra a corrupção e demais crimes contra o patrimônio público e combate o enriquecimento ilícito de agentes públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:479b33a943195d3dca529a6c65af952a25fc184b2523b52ae10cf707f1035bd8
+size 260

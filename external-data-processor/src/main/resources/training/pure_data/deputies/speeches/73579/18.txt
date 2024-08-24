@@ -1,1 +1,3 @@
-Solicitação do início da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47f244e4d181999c2879cc19c8c4c63ee06570c9620bf6c3285646cdf0672d3c
+size 41

@@ -1,1 +1,3 @@
-Participação do orador na Romaria de Nossa Senhora da Abadia, no distrito de Muquém, Estado de Goiás, em companhia do Governador Ronaldo Caiado e da Primeira-Dama Gracinha Caiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e983b2428bdd3d71877c96511e984ebd8427e99bd0645005c79107d03402c689
+size 183

@@ -1,1 +1,3 @@
-Lançamento, pelo Governo Federal, do programa habitacional Minha casa, minha vida, destinado a famílias de baixa renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6494af52cb8b70d75594f6f3bbbc4e72503271a3e814a8dd83959a5c807de753
+size 121

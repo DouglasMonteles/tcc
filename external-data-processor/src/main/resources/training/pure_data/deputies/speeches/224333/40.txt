@@ -1,1 +1,3 @@
-O Deputado destacou a crise enfrentada pelo setor de produção de leite no Paraná, resultado da importação excessiva de leite no ano passado. Assegurou que o governo atual já revogou as regras de importação do governo anterior e está tomando medidas para ajudar o setor, incluindo a compra de R$ 200 milhões em leite. Destacou reunião de produtores do sudoeste do Paraná em Francisco Beltrão que demandaram o aumento tarifário para o leite importado. Também expressou seu compromisso com a criação de uma política nacional para o setor de laticínios e enfatizou a importância de proteger os produtores de leite brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:713f520aa6f396494ef325648873a31361cef532eb58917e7bb5d171a437f15b
+size 642

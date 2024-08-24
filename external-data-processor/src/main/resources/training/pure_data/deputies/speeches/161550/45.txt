@@ -1,1 +1,3 @@
-Congratulações ao Presidente do Sindicato Rural de Passos, Darlan Esper Kallas; ao Secretário do Meio Ambiente, Agropecuária e Abastecimento, Sebastião Domingos, o Neném da Manoela; aos demais membros da diretoria da entidade e seus colaboradores, pelo sucesso da Feira do Agronegócio de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be23b050fd425fad09c4e5398513674d8467b3c52756b403bb181f263a2dda80
+size 300

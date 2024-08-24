@@ -1,1 +1,3 @@
-Participação em reuniões com o Ministro da Educação, Mendonça Filho, e com o Presidente do Senado Federal, Senador Eunício Oliveira, para debate da implantação de cursos de Medicina em Municípios do Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f48983f48061d6f3cb67077c80bbc766032e0f895fcdc0e03b10ec68f9822538
+size 226

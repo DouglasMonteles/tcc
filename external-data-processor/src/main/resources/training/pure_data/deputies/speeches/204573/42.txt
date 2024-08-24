@@ -1,1 +1,3 @@
-Importância da aprovação do Projeto de Lei nº 5.387, de 2019, a respeito do mercado de câmbio brasileiro, do capital brasileiro no exterior, do capital estrangeiro no País e da prestação de informações ao Banco Central do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:238ef2207b96f00fecab3a71a3f37273563f104ba936619f0d05f633c7c8996d
+size 239

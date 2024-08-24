@@ -1,1 +1,3 @@
-Condução da bancada do PSDB pelo orador. Razões da obstrução das votações relativas à  Medida Provisória dos Portos pelo partido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc179ec4eeb3068614e13cc1b69b0af885c6a181a9b9d348697c3b8f6354c06e
+size 138

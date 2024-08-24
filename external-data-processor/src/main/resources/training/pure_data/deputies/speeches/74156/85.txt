@@ -1,1 +1,3 @@
-Eleição da Sra. Dilma Rousseff para a Presidência da República. Urgente necessidade de realização da reforma política. Agradecimento aos eleitores do Estado de Minas Gerais pela reeleição do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b14fe01d4cb35b9d7740f8a8fadd6a14241090b425707149b31746b03965e6f4
+size 207

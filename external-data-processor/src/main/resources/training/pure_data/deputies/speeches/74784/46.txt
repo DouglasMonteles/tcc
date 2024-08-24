@@ -1,1 +1,3 @@
-Aviso à Presidência sobre o não funcionamento do sistema eletrônico de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fb18c91227ba50a7c1c17404f38d8c9331a1448c722aae7a6b24174b13cd21b
+size 85

@@ -1,1 +1,3 @@
-Relato de reunião da Organização dos Estados Americanos - OEA destinada ao debate sobre o genocídio da juventude negra no Brasil, realizada em Washington, Estados Unidos. Defesa da aprovação do Projeto de Lei nº 4.471, de 2012, que trata da extinção dos chamados autos de resistência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17809667eb8f98e124bcf76126b9a5a239105958dd7b4fbf65f13ccdf50f9753
+size 294

@@ -1,1 +1,3 @@
-Presença no plenário dos Prefeitos Juran Carvalho, de Presidente Dutra, e Valerio, de Governador Arches, ambos Municípios do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:762bd78e12bba05437d19ffad734656c3f1b52c1d5909205e136bb8de00fe797
+size 148

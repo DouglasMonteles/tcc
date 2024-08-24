@@ -1,1 +1,3 @@
-Homenagem aos proprietários da Cairu Indústria de bicicletas, no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5db9ba7ab9b6dfff23d6373dd812733b48fcacca73d72d7ad3aff3f013b17ad1
+size 87

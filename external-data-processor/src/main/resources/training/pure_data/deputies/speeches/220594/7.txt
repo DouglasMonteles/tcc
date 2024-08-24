@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar da Segurança Pública. Inexistência, no âmbito do Governo Luiz Inácio Lula da Silva, de políticas destinadas à melhoria da segurança pública; ao controle das fronteiras brasileiras; ao combate efetivo ao tráfico de drogas e às organizações criminosas; e à valorização das forças nacionais de segurança. Urgente necessidade de revisão do arcabouço penal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06007ba7a37ad0ec680436109ae148728912d22602d1020cda158a22cfdefdcc
+size 417

@@ -1,1 +1,3 @@
-Orientação da respectiva bancada sobre a votação do requerimento de retirada da pauta do Projeto de Lei nº 3.376, de 2015, que altera a Lei nº 8.072, de 25 de julho de 1990, para incluir o crime de posse ou porte ilegal de arma de fogo de uso restrito no rol dos crimes hediondos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:615f3e73996775dd95bcc47a3918c7df2e23322ee34e37e0be4037380a8e0d3d
+size 286

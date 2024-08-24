@@ -1,1 +1,3 @@
-Editorial Refinaria boicotada, publicado pelo jornal Diário do Nordeste, sediado em Fortaleza, Estado do Ceará. Necessidade de apoio do Governo Federal à implantação de projetos de melhoria logística e de interligação dos portos e rodovias no Ceará. Atuação insatisfatória do Departamento Nacional de Infraestrutura de Transportes - DNIT no Estado. Crise no abastecimento de água potável em municipalidades cearenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6a48c5b61ecd6118f80521414aedc119720edfa56a3f9afb8ad1f0514b6c241
+size 431

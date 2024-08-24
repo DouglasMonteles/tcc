@@ -1,1 +1,3 @@
-Apoio ao Projeto de Lei nº 2.295, de 2000, sobre a fixação da jornada de trabalho dos profissionais de enfermagem em 30 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0613512bb29efb3ba2c5cd40c0a3e36cc289b5fddff462efa48b6fc317e9842f
+size 138

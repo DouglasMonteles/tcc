@@ -1,1 +1,3 @@
-Elogio à atuação dos membros da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização. Anúncio de recursos  para as universidades federais mineiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4161d95470683d80d7e0e60851a376e205e3986a02d93886bec5227214d191af
+size 164

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Repúdio à iniciativa do Presidente da República de conclamação ao País para comemoração da revolução de 31 de março de 1964. Sucesso da gestão do Governador do Estado do Maranhão, Flávio Dino, notadamente nas áreas de segurança pública, saúde e educação. Êxito de políticas públicas empreendidas pelo gestor estadual. Relevância do Programa Mais Asfalto implantado pelo Estado em parceria com Prefeituras Municipais. Importância da coalizão partidária promovida pelo Governador Flávio Dino em prol da governabilidade do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4042e0d6ce704f97204265d7a7a34290ea2d70d383c3afdb16e281185d6269ca
+size 601

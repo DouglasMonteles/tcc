@@ -1,1 +1,3 @@
-Propósito da Esquerda de cerceamento da liberdade religiosa por meio do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed2df34198162915e0135be044752b0dec7022e515fdebbf1e94de5971d72ab1
+size 239

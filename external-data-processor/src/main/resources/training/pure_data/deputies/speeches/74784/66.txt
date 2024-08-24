@@ -1,1 +1,3 @@
-Posicionamento da oradora contrário à proposta de reajuste dos subsídios dos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe063e6c264dc78f97144101dba5133ddc1f75f404e58915336c304cbee10339
+size 94

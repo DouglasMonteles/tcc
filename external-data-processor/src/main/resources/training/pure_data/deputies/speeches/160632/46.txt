@@ -1,1 +1,3 @@
-Registro do lançamento do Plano Safra da agricultura familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:493bf6eb2c1bd6a5d725925889076b63380ec37a7b01a7cdfc68ee7130c52aaa
+size 63

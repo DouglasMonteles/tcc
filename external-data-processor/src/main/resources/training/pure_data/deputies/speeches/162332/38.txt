@@ -1,1 +1,3 @@
-Necessidade de adoção pelo Governo Federal de ações de proteção das empresas brasileiras, tendo em vista o avanço das importações de produtos da República Popular da China.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47bfac840d69f19cbf4752ec663cbff2398b971e88c4050ff8a946d4c714eecb
+size 182

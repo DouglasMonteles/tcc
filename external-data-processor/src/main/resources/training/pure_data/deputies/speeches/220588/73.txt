@@ -1,1 +1,3 @@
-O Deputado falou sobre o veto do Presidente Lula ao Projeto de Lei nº 334, de 2023, conhecido como PL da Desoneração, que previa descontos em impostos para setores da economia e prorrogava as desonerações. O veto foi considerado uma vitória do Ministro Haddad, mas o Deputado acredita que será derrubado pelo Congresso. Defendeu a importância da desoneração da folha para a manutenção do emprego. Mencionou que o Ministro Haddad prometeu apresentar uma alternativa após a Conferência das Nações Unidas sobre Mudanças Climáticas. Citou também a Reforma Tributária e Medida Provisória nº 1.185, de 2023, que taxa as subvenções do ICMS. Enfatizou o impacto negativo que a extinção da desoneração da folha teria em empregos e empresas e afirmou que o Congresso não participará dessa decisão que ameaça a economia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61b47925c6ad8dd0d3a80be4e3ec7599f2562c7bf4a5bf4de88b6db50e043e38
+size 841

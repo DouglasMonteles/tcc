@@ -1,1 +1,3 @@
-Encontro de membros da Frente Parlamentar em Defesa da Polícia Rodoviária Federal com o Ministro da Justiça, para debate da contratação de candidatos aprovados em concurso público, os chamados excedentes. Escolha da oradora para a coordenação da bancada feminina na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1cc80f140cee0f4492bc3f7156ef3fe7abe833672afa7f7545641cdc1160520
+size 279

@@ -1,1 +1,3 @@
-Defesa da criação de CPI destinada à investigação da suposta apropriação indébita e roubo de joias praticados pelo ex-Presidente Jair Bolsonaro, segundo indícios apontados pela Polícia Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4b69365ef2398c9c5314649e5cb6015942858cd12a4c158cd1f0e3693b4df0f
+size 203

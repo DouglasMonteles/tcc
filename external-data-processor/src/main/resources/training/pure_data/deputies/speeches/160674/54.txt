@@ -1,1 +1,3 @@
-Imediata adoção de medidas governamentais a favor das populações atingidas pela seca no sertão paraibano. Realização, no Município de Patos, de mobilização de mutuários do Banco do Nordeste do Brasil em prol da renegociação de suas dívidas junto à instituição financeira. Importância da transposição de águas do Rio São Francisco para a região semiárida nordestina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a78dfc4e4a8e2fe854c2ae9a8cdcce12db69c5bd59a5d02d053882510c2da7a
+size 389

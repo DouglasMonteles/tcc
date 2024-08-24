@@ -1,1 +1,3 @@
-Apelo à Presidência e aos Líderes partidários por imediata votação e aprovação do Projeto de Lei 5.638, de 2020, sobre a instituição do Programa Emergencial de Retomada do Setor de Eventos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05595d724943e8d8d0972044cf02920b3bebece4045a292ddd1a3dff07de3a5d
+size 199

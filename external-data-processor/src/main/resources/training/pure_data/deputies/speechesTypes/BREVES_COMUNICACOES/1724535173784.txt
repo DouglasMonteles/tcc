@@ -1,1 +1,3 @@
-Estranheza sobre os critérios adotados pelo Ministro da Secretaria Nacional de Portos, Pedro Brito, para escolha dos  novos dirigentes da Companhia Docas do Estado da Bahia - CODEBA. Renúncia do Sr. Marco Antônio Rocha Medeiros ao comando companhia. Descaso da Secretaria Nacional de Portos com a profissionalização dos dirigentes da CODEBA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ce2c12387d5b3e27725c73fd99c3b9ef11468fa1d05c0288b77e3768fccc8d8
+size 346

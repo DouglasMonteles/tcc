@@ -1,1 +1,3 @@
-Participação em audiência pública das Comissões de Seguridade Social e Família e de Direitos Humanos e Minorias destinada à discussão do transtorno mental. Acompanhamento da política de saúde mental adotada pela Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8977e08ded7a20d178a372ddf2120bbe415a6a61ca1a28499fc5ced5180b6067
+size 248

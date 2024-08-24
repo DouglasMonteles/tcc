@@ -1,1 +1,3 @@
-Protesto contra a interrupção de prova de laço no Estado de Mato Grosso pelo Ministério Público. Necessidade de regulamentação, pelo Congresso Nacional, de tradições da cultura brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a6197af9b12064250e84971f46f7f1e1648b141dd1cbce14796af07b8659f8b
+size 197

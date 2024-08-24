@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de preferência para apreciação em primeiro lugar do Projeto de Lei nº 4.162, de 2019, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff734af5694c841723423e70b998424cb024fce171ed38f892f8a5bcfc6e8902
+size 202

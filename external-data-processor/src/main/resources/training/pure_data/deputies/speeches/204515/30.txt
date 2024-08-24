@@ -1,1 +1,3 @@
-Protesto contra a não votação da Medida Provisória nº 1.000, de 2020, sobre a criação do auxílio emergencial residual de 300 reais, para enfrentamento da emergência de saúde pública decorrente do coronavírus, referida na Lei nº 13.979, de 2020. Anúncio de candidatura do orador à Presidência da Casa, no caso de não inclusão da propositura na pauta de votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c91f0661c5aa8b77d6ce4fcf0973ce2aa0b1d15f7c6cb020c239cf044e8bd12
+size 381

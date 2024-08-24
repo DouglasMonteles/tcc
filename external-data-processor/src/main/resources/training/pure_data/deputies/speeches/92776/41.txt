@@ -1,1 +1,3 @@
-Sessão Solene em homenagem ao Movimento Nacional da Cidadania pela Vida - Brasil sem Aborto. (As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d987c584d2e6af4a4a46c2a50d357d2bcfa370798d04ee1b5ddf65829f57de91
+size 227

@@ -1,1 +1,3 @@
-Criação de novas universidades federais e de novas unidades do Instituto Federal de Educação, Ciência e Tecnologia - IFET no Estado da Bahia. Instalação de campi universitários nos Municípios de Teixeira de Freitas e Porto Seguro. Defesa de criação de universidades federais nos Municípios de Irecê e Vitória da Conquista. Necessidade de criação de campi da Universidade Federal da Bahia nos Municípios de Santa Maria da Vitória, Itamaraju e Eunápolis. Anúncio de instalação, no Distrito Federal, de acampamento de trabalhadores rurais sem terra em defesa da reforma agrária. Necessidade de apoio governamental à agricultura familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c75e027401e1145927ffd43743b0db42471e0dd4465945c2e5a81dac0451749
+size 658

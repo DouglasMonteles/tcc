@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a compensação de débitos tributários a entidade desportiva da modalidade futebol investidora em obras de construção, modernização e reforma de estádios para os jogos da Copa do Mundo de Futebol de 2014. Apelo ao Governador do Estado de São Paulo, José Serra, para manutenção de leitos destinados a transplantes de medula óssea no Instituto do Coração - INCOR em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0568577d1aa6fb77acb60713554ea8a0944860ee755cbc1160c569e2ec0beaa
+size 450

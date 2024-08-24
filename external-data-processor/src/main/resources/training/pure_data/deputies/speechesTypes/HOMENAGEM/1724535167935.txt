@@ -1,1 +1,3 @@
-Transcurso do Dia do Médico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c0928e3e70d2e3089a370afc763e9755071b47ebe6ce0a12ab8c2061ba07676
+size 29

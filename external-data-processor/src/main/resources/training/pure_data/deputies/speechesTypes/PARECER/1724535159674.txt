@@ -1,1 +1,3 @@
-Posicionamento do PROS favorável à aprovação do Projeto de Lei nº 1.304, de 2020, sobre alteração da Lei nº 10.304, de 2001, relativa à transferência de terras da União para o domínio dos Estados de Roraima e do Amapá; e da Lei nº 6.634, de 1979, acerca da faixa de fronteira. Reformulação de parecer oferecido pelo orador às Emendas de Plenário de nºs 1 a 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebb205a184de1b03bee7b169424d0f88f29860066dce58dfee2d47585daffd82
+size 379

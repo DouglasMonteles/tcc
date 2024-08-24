@@ -1,1 +1,3 @@
-Acerto de decisão da Presidência, de acordo com o Regimento da Casa, sobre a perda do direito de apresentação de destaques pelo PSOL diante da redução da bancada para quatro Deputados. Improcedência de ajuizamento pelo partido de Ação Direta de Inconstitucionalidade no Supremo Tribunal Federal - STF contra a referida decisão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:929bec4a12b2089fd0e4ae64c77d9c0e9cab70f334773a09fe6a83b243ae2e54
+size 337

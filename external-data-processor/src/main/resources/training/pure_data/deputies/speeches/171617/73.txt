@@ -1,1 +1,3 @@
-Aprovação pela Casa da Proposta de Emenda à Constituição nº 55, de 2011, sobre a regulamentação da carreira dos agentes públicos responsáveis pelo policiamento de trânsito em âmbito municipal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5afb199a2ccd563801880e47da1b8c606b93a3e5d3897372d2aa0e02c4c7284
+size 204

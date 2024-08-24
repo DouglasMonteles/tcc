@@ -1,1 +1,3 @@
-Manifestação de pesar pelo falecimento de Ronaldo Caiado Filho, filho do Governador do Estado de Goiás, Ronaldo Caiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:567aae91abc118ce2f99e156b2a0f1204db23012871699a1a850570a20953df1
+size 122

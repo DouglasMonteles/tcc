@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, de proposta de criação de entidade para coordenação da Política Nacional de Assistência Técnica e Extensão Rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b3d46194e682a89b4e4fe2606294128c598d2bc6d89268cb69eb93f5210df19
+size 215

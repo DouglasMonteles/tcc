@@ -1,1 +1,3 @@
-A Deputada manifestou descontentamento pela quebra de um acordo referente aos 21 Dias de Ativismo pelo Fim da Violência contra as Mulheres, no qual seu projeto de urgência foi substituído por outro. Ressaltou a importância do cumprimento de compromissos e destacou a relevância do projeto relacionado à alteração da lei sobre o uso de tecnologias em casos de violência contra mulheres e adolescentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7a4a270983a33de9e5e1e989f5f842f73712baa65ff94dbb1b963a68f984208
+size 409

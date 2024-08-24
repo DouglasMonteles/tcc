@@ -1,1 +1,3 @@
-Obstrução das votações em protesto contra o corte de recursos orçamentários destinados às universidades federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad00aff596b6ac45e48d629e698a555fa130b3bbe88673203c9196f55e5c313a
+size 120

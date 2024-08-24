@@ -1,1 +1,3 @@
-Transcurso do 198º aniversário de emancipação político-administrativa de Maceió, Estado de Alagoas. Realização de manifestações de índios, em Brasília, Distrito Federal. Apoio à luta pela demarcação de terras indígenas no País. Descomprometimento do Governo Dilma Rousseff com as demandas das comunidades indígenas. Pauta de reivindicações da classe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77d34467773073eb982700ef07007b31c2c833888cf561afb83d706b95acc946
+size 370

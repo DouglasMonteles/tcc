@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT  ao Projeto de Decreto Legislativo 226 de 2011 (Aprova o texto  do Acordo entre o Governo da República Federativa do Brasil e o Governo da Jamaica sobre o Exercício de Atividade Remunerada por parte de Dependentes do Pessoal Diplomático, Consular, Militar, Administrativo e Técnico, assinado em Kingston , em 1º de dezembro de 2010).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ff9597d053c210efe3b25afc875c37486d8682f4288a3dd88c537f7c19645ef
+size 371

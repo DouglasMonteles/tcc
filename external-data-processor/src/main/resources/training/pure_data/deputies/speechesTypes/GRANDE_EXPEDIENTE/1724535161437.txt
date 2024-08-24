@@ -1,1 +1,3 @@
-Defesa de realização de reforma tributária, com priorização dos Municípios, e de gestão eficiente da Previdência Social, em prol dos trabalhadores. Falência do sistema rodoviário de transporte de carga brasileiro. Defesa de concessão, pelo Governo Federal, de subsídio ao transportador de carga e ao agricultor na aquisição de óleo diesel. Apoio à realização de reforma política, ante a rejeição da sociedade brasileira à classe política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4be204ea632f516bfdaf37a70f528ee7493f36a6dca87176e0ee9083904f5ee4
+size 461

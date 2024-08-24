@@ -1,1 +1,3 @@
-Lentidão das autoridades competentes na despoluição de praias atingidas pelo vazamento de petróleo na Região Nordeste. Orientação de bancada na votação do requerimento de votação, artigo por artigo, do Projeto de Decreto Legislativo nº 523-A, de 2019, a respeito da aprovação do texto do Acordo sobre Salvaguardas Tecnológicas celebrado entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América para utilização do Centro Espacial de Alcântara, assinado em Washington, em 18 de março de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5cd77ad97c01093b2276d018dc86800f3790c15cf88c688b8f843b7ccbb96f2
+size 546

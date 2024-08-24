@@ -1,1 +1,3 @@
-Significado da instituição do Dia Nacional da Consciência Negra. Prática de racismo por Deputado nas dependências da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8ed1fe4e8165bbe2822f9a89c14edd367651924ff0451930c6038aa634e42e2
+size 127

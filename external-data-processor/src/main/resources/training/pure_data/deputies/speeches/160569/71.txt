@@ -1,1 +1,3 @@
-Transcurso do 49º aniversário de emancipação político-administrativa dos Municípios de Candiba, Piripá e Vera Cruz, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39d3b87bfc4cf94a43fef12aff7b885e671a3ec89d479ecfc4c1f285b5b08759
+size 139

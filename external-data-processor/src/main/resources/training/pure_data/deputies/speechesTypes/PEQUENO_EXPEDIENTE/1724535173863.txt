@@ -1,1 +1,3 @@
-Contrariedade à Medida Provisória nº 868, de 2018, e ao Projeto de Lei de Conversão nº 8, de 2019, sobre a instituição do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b4cdafacd8716bad3cee452c7f729a23b70971f103d9a1a724492b8479c95e1
+size 163

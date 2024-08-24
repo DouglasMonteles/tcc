@@ -1,1 +1,3 @@
-Outorga da Medalha Thomé de Souza ao Sr. Marcos Lima, Subchefe de Assuntos Parlamentares da Presidência da República, pela Câmara Municipal de Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cfc621391728779884e01a910b9740768911dda40728f7944998103e867802a
+size 173

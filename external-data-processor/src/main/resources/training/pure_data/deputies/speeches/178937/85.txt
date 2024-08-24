@@ -1,1 +1,3 @@
-Saudações aos Parlamentares presentes no plenário. Questão de ordem sobre a necessidade de cumprimento, pelos Líderes partidários, do acordo celebrado a favor da candidatura do Deputado Sóstenes Cavalcante ao cargo de 2º Vice-Presidente da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11b1f377a370c80938b633803620277d29e925957969f7b37203192327d6c16e
+size 270

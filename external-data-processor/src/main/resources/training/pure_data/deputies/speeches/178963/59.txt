@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 8.456-A, de 2017, sobre o fim da desoneração da folha de pagamentos de setores econômicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bda18452a8664f29fb3439f47eb5b4c71c275625465bad5d00ed9609d128016
+size 126

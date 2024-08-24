@@ -1,1 +1,3 @@
-Participação do orador na Feira da Agrobode, realizada no Município de Pindaí, e nas comemorações do 45º aniversário de emancipação político-administrativa do Município de Sebastião Laranjeiras, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73f3617d15d24415049a81d08e0a7be730d745110ea95973fa98814042149b65
+size 224

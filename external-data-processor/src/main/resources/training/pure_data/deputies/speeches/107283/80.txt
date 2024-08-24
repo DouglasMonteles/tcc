@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do inciso II, do art. 8º, do substitutivo oferecido pelo Senado Federal à Proposta de Emenda à Constituição nº 10, de 2020, referente ao estabelecimento do regime extraordinário fiscal, financeiro e de contratações para enfrentamento da calamidade pública nacional decorrente da pandemia de coronavírus, com vista à sua inclusão no texto original.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd5cfc244b9d9b02de927b7fa4e3d435bf1a15298d1f77dac5a212588cb0e2be
+size 452

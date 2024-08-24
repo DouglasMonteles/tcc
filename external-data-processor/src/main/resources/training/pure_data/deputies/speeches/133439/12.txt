@@ -1,1 +1,3 @@
-Apreensão dos produtores rurais do Estado do Ceará quanto à aprovação do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9c34fed658db6a3b13e646232cccf6daf4188c9f7a8d4a130465888612e8c62
+size 112

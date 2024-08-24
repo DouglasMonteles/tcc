@@ -1,1 +1,3 @@
-Crítica à política econômica neoliberal do Governo Jair Bolsonaro. Utilização de reservas internacionais acumuladas pelo Governo Luiz Inácio Lula da Silva para a superação da crise econômica brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:378dac68bb0838069b20f082993317e707dff795e988ff5257f83fd14e6dc1bc
+size 212

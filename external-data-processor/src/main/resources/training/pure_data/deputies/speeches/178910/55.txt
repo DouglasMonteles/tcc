@@ -1,1 +1,3 @@
-Realização em Belém da procissão Círio de Nazaré, em reverência à imagem de Nossa Senhora de Nazaré, Padroeira do Estado do Pará. Significado cultural e religioso do evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d393a5f1a00c83d5d5ae4fea037ca6a38777a4dd7748136b5a3dd5e8f98685f
+size 183

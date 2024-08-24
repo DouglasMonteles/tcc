@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação, artigo por artigo, do Projeto de Lei nº 3.715, de 2019, acerca da regulamentação da posse de arma de fogo em áreas rurais. Contestação a declarações desrespeitosas contra o Movimento dos Trabalhadores Rurais Sem Terra - MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e348986c11ff14e8b6a77b5d1d93203122c013b219c178e5b878d37983188fd8
+size 299

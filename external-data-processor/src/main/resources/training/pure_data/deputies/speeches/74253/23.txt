@@ -1,1 +1,3 @@
-Registro da visita à Casa da Presidente da Câmara dos Deputados da Itália. Manifestação da Parlamentar acerca da inexistência de financiamento público de campanhas eleitorais para o Parlamento Italiano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aadf6c8aa2f4b0acce8df4ee3eb67c8d17b768210ba0171edfd5fba0b48e831a
+size 209

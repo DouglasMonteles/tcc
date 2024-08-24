@@ -1,1 +1,3 @@
-Regozijo com a inauguração da Ferrovia Norte-Sul. Empenho do ex-Ministro da Infraestrutura e atual Governador do Estado de São Paulo, Tarcísio de Freitas, na conclusão da ferrovia. Importância do transporte ferroviário para o desenvolvimento econômico do País, especialmente para regiões longínquas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11159cd24300b780ad5a220733ee82eff8e99caa6f9fed90bbb5887bd9533fff
+size 310

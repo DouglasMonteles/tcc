@@ -1,1 +1,3 @@
-Transcurso dos 40 anos do assassinato do estudante secundarista Edson Luís de Lima Souto, na cidade do Rio de Janeiro, Estado do Rio de Janeiro. Acontecimentos marcantes no ano de 1968 no Brasil e no mundo. Homenagem aos brasileiros engajados na luta pelas liberdades democráticas durante o regime militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc6bc97fe983d1647f16b29a903a1e42b408abc1583976e2b325cf78ab9cb886
+size 308

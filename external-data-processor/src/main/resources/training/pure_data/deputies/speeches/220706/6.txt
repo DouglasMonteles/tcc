@@ -1,1 +1,3 @@
-Revisão do Tratado de Itaipu, assinado entre os Governos do Brasil e do Paraguai. Denúncia de descumprimento de cláusula do novo tratado, a respeito da regularização fundiária de produtores rurais brasileiros residentes naquele país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da058b98ad384c4b86b3444a6bf63adfe2176e43d71093681b71d23475fb6787
+size 240

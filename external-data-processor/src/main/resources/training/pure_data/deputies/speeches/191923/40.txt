@@ -1,1 +1,3 @@
-Votação pela Casa da Proposta de Emenda à Constituição nº 15, de 2015, acerca da transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica pública. Importância dos fatores inteligência e conhecimento para o desenvolvimento de um país, segundo a teoria econômica. Defesa da realização de investimentos nos laboratórios de pesquisa das universidades brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4afcba6bd88a0c87b36e78327e3e88eb1b14b0e6c34a3ad4500fc6332c4db6a2
+size 523

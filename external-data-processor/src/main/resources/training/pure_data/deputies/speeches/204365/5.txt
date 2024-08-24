@@ -1,1 +1,3 @@
-Inviabilidade de inclusão, em códigos diferentes, do texto do projeto de lei sobre a  tipificação do crime de assédio moral. Posicionamento do orador contrário à aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:660bfc2ded407b17152fbe5dc07edd2ee283aabe7cf845256eeb525cff0bb2d3
+size 196

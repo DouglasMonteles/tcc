@@ -1,1 +1,3 @@
-Saudação ao Vice-Prefeito eleito José Fortunati, de Porto Alegre, Estado do Rio Grande do Sul. Congratulação ao Governador do Estado do Maranhão, Jackson Lago, pelo desempenho de candidatos do PDT a Prefeituras maranhenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35da3161288b9acda8e359c38b1759ccfc9881700a713c48906c5a010d10b620
+size 229

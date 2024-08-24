@@ -1,1 +1,3 @@
-Apresentação pelo orador e outros, no âmbito da Comissão de Educação, de emenda orçamentária destinada ao fortalecimento da infraestrutura da educação básica pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9a94830ef0229fec03ba94a758678e85d21c0f7358e4c028cab0fc47fd9dc93
+size 178

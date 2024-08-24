@@ -1,1 +1,3 @@
-Saudação ao Deputado Ricardo Silva. Apresentação do Projeto de Lei nº 297, de 2020, sobre a alteração da Lei nº 10.671, de 2003 (Estatuto de Defesa do Torcedor), com vista à punição de torcedores envolvidos em confusões motivadas por identificação com torcida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35017dc3c76b74b9de8b604e32fc4e37cd8a51ff74c7f6d0d93d085c1b947ecd
+size 274

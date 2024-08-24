@@ -1,1 +1,3 @@
-Realização do Seminário Nacional sobre a Reforma do Ensino Médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c36f71d271535426cdad1a06d7637ad7f401cafcc4327ab7ab976f48cec77fa6
+size 69

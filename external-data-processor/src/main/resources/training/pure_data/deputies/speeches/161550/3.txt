@@ -1,1 +1,3 @@
-Convite aos Parlamentares para participação no ato de lançamento da Frente Parlamentar das Cirurgias Eletivas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:724edd4df73480b2b60a270ddf3ddd158e442972fb5ac1445a6a47f35ff3d301
+size 113

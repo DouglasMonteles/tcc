@@ -1,1 +1,3 @@
-Congratulações ao Deputado Rubens Bueno, autor do Projeto de Lei nº 639, de 2021, relativo à alteração da Lei nº 9.250, de 1995, com vista à prorrogação do prazo de apresentação da Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física referente ao exercício de 2021, ano-calendário de 2020. Agradecimento aos Parlamentares pela aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d94a47075df9925d53a194365d6c828f10d8719e15c7f5dd91c77e4b212cf66e
+size 387

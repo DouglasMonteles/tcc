@@ -1,1 +1,3 @@
-Realização, por Governadores das Regiões Norte e Nordeste, de encontro destinado à discussão da Carta de Fortaleza, elaborada em reunião preliminar, em Brasília, Distrito Federal. Divulgação da agenda do evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:754b9632a4c96e2c1f8fa2af0a9940f83234213e461cc059115916604d1e7f98
+size 220

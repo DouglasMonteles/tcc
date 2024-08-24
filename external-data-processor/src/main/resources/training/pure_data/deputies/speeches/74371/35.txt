@@ -1,1 +1,3 @@
-Responsabilidade do Governo Federal pelo baixo índice de vacinação contra a Covid-19. Realização de investimentos públicos na geração de emprego e renda no País. Imediata retomada do auxílio emergencial de 600 reais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81b51ebca62ac2326f56b67e9af739725b4b863a36b0ebff7c37dee4c7f53a81
+size 226

@@ -1,1 +1,3 @@
-Imediata votação, pela Casa, do projeto de decreto legislativo, do Senado Federal, a respeito da suspensão da resolução do Tribunal Superior Eleitoral sobre a redefinição do número de Deputados Federais, Estaduais e Distritais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f76f0a82875401a3e93ead481568d7f14a186830462b28687250262d82b9f419
+size 235

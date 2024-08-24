@@ -1,1 +1,3 @@
-Falecimento do professor e ambientalista Jomabá Pinto Torres, do Município de Porto de Moz, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84a4563cae3fc92287be03fa84c53fbe9fabba52744fe360837da2c7b064c3c9
+size 110

@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre a alteração do parecer oferecido à matéria pelo orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:568b3e79d79434104b09055c1b53a37bc8c37dfc299094ede3b7a4a18be6d803
+size 93

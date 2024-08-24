@@ -1,1 +1,3 @@
-Perplexidade ante a pretendida punição de Deputado por discurso proferido no plenário em defesa das mulheres, por ocasião do Dia Internacional da Mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4283883106bfdb4d9ff99a62998e3118015cb29ee6eb9defd6800529fcc72976
+size 157

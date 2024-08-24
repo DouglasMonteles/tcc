@@ -1,1 +1,3 @@
-O Deputado destacou a presença na Casa do Prefeito Aladim, do Município de Mairiporã, Estado de São Paulo. Anunciou visita ao Ministério da Saúde para buscar financiamento para serviços de atenção à saúde na região, que enfrenta carência de assistência. Elogiou à atuação do prefeito Aladim, ressaltando a inauguração de escolas, terminais de ônibus e um hospital municipal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df7a7d6a34fe17ef29e45fb099911ca121de488ccd2fe914f2d57f5b9588541e
+size 394

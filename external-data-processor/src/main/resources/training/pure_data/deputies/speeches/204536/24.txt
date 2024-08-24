@@ -1,1 +1,3 @@
-Contradição entre os discursos de Deputados oposicionistas contra a Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária, e o apoio à matéria por Governadores de Estados sob gestão de partidos da Oposição. Pedido aos Parlamentares da Oposição de apoio à emenda apresentada pelo orador, sobre a exclusão dos Estados governados por partidos oposicionistas da proposta de reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:854fd70b376d66da6808b9b24ad024830bc3c1bcbbe6591c398b90fbb390d6e7
+size 443

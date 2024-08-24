@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a desnecessidade de realização do exame da Ordem dos Advogados do Brasil para pós-graduados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdee101e04ea51afe342caeac3f20e6d03292ce6ca24642db74d1afca7ff1932
+size 134

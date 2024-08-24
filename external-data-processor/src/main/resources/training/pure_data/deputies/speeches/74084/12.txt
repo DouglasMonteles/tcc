@@ -1,1 +1,3 @@
-Transcurso do 128º aniversário de fundação do Município de Abaetetuba, Estado do Pará. Características econômicas e territoriais da municipalidade paraense. Profissões exercidas pelo orador em Abaetetuba. Congratulações à Prefeita Francineti Carvalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc5223e8dfd818e5c8058c52f52bbaf14c23e9896221fa9d2dfa9ea989d2ce5b
+size 263

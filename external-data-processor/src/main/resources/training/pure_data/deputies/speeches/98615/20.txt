@@ -1,1 +1,3 @@
-O Deputado Ismael solicitou ao Ministério da Educação a transferência da data da Olimpíada Brasileira de Matemática, em virtude das cheias em Santa Catarina. Também pediu a reposição imediata de materiais essenciais nas salas de aula das 162 cidades em estado de emergência no estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5215bba130d7a4b241b880d1e460c60afc1b640009e0d01b6a93ea935fbe96c4
+size 294

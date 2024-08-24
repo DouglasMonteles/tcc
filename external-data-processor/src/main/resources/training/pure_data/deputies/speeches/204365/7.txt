@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de votação nominal da Subemenda Substitutiva oferecida ao Projeto de Lei nº 4.742-A, de 2001, sobre a tipificação do crime de assédio moral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aa81855a1572cd2f321a07cdcbf2a97433355b3376b6f5fc4fafc778a66f4a7
+size 190

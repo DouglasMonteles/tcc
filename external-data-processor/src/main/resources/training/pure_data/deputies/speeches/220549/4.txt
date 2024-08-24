@@ -1,1 +1,3 @@
-Indignação com o não acatamento da emenda sobre educação financeira, apresentada pela oradora à Medida Provisória nº 1.164, de 2023, relativa à instituição do Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:494257fe02d6585a96bc52f9fcdf43c3d140b8b5efeac9a5e27d0211533e4043
+size 194

@@ -1,1 +1,3 @@
-O Deputado pediu um minuto de silêncio no plenário da Câmara em homenagem às vítimas de ato terrorista que resultou na morte de dois brasileiros, expressando solidariedade a todas as vítimas do conflito entre Israel e Palestina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a32372c48ab8bf0056ec8d58b40dc595597d4c382b2c59f8fd3ccffb025dfe6
+size 234

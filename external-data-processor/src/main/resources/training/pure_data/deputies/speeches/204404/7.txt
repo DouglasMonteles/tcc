@@ -1,1 +1,3 @@
-Defesa de regulamentação da prática de vaquejada no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a5c0b095a893eb3a98f9969aa6fd4046064b6346f591658ff45360c06555028
+size 61

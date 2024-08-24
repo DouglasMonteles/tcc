@@ -1,1 +1,3 @@
-Importância da transparência na gestão de recursos públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e51f808b22f4ab04e06dfe9adb556a6dc7ee922a1572d8b0d804b544e0ea871d
+size 64

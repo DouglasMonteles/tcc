@@ -1,1 +1,3 @@
-Alerta sobre os danos causados à audição pela exposição contínua a músicas ou ruídos em alto volume.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6f74e9775d678678ce1f6624033f765b111b5368c7fdff5d7b3731befe962c1
+size 108

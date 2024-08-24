@@ -1,1 +1,3 @@
-Protocolização de Ação Direta de Inconstitucionalidade contra o Governo do Estado Paraná em razão da cobrança indevida de IPVA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29003fa8fcddcf460868dc576362fcef17542be07ecb9c6c38a64eb5856ff795
+size 134

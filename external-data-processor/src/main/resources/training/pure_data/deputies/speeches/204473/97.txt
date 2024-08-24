@@ -1,1 +1,3 @@
-Elogio ao Deputado General Peternelli pelo discurso proferido a respeito do setor tecnológico. Participação na comitiva do Presidente Jair Bolsonaro e do Ministro de Desenvolvimento Regional, Rogério Marinho, em visita ao circuito das águas na Região Nordeste. Repúdio às invasões e destruição de propriedades públicas e privadas pelo Movimento dos Trabalhadores Rurais Sem Terra - MST. Lançamento pelo Governo Federal, por ocasião do Dia do Médico, do Programa SOS de Ponta destinado ao fortalecimento das ações do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23ed8296f59e61c9894615c9c477008806ef09bce2b00a835b86ddc68c507b6c
+size 564

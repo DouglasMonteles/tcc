@@ -1,1 +1,3 @@
-O Deputado expressou sua indignação em relação aos benefícios fiscais concedidos à Stellantis, proprietária da Fiat, no contexto da Lei nº 9.440 de 1997. Criticou a prorrogação desses benefícios sem avaliação eficaz de seu impacto positivo para o País, destacando a remessa de lucros da empresa para a Itália e salários mais baixos para os trabalhadores. Argumentou que essa política tem custado bilhões aos pagadores de impostos, prejudicando o Fundo de Participação dos Estados e Municípios. Alertou sobre a inclusão de emendas controversas na reforma tributária e defendeu a revisão desses benefícios em prol do desenvolvimento equitativo e tecnologias sustentáveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56167ec9c817de0c3380775f1bd01bd8c56e9c8aafc9b2551303381d2ffb63ea
+size 695

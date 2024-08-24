@@ -1,1 +1,3 @@
-Participação do orador em reunião destinada ao debate da telefonia no Estado do Pará.  Tramitação na Casa de projeto de lei de autoria do orador sobre a obrigatoriedade da implantação de pontos gratuitos e abertos ao público de acesso à Internet em estações rodoviárias e ferroviárias, portos e aeroportos. Importância do setor de comunicações para o desenvolvimento econômico dos Estados da Região Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d5b04ad4a6913f55c5fe73b1975fe48603d115164a3693f9b00081c7a023606
+size 424

@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda Aglutinativa nº 1, apresentada ao Projeto de Lei nº 11.021, de 2018, sobre a remuneração recebida por funcionário de partido político com recursos do fundo partidário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abe803d76e5e5e6fe1a6a77369f858d01f60178170361bed2940b9bf517db436
+size 221

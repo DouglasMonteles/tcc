@@ -1,1 +1,3 @@
-Participação do orador nas comemorações do 57º aniversário de emancipação político-administrativa do Município de Bom Jesus, no Estado do Rio Grande do Norte. Realizações do Prefeito Municipal Clécio Azevedo. Comemoração do Dia das Mães. Relato da participação do Parlamentar em reunião realizada na sede da Universidade Federal do Rio Grande do Norte. Conveniência de reexame, pelo Governo Federal, do contingenciamento de recursos orçamentários destinados ao setor educacional. Apresentação de projeto de lei sobre a redistribuição de recursos do Fundo Nacional de Segurança Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9c44412e37005e179896c24dcc66de040241a2cf2c1301dc7c5c9e93d9e5996
+size 613

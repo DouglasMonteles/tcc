@@ -1,1 +1,3 @@
-Realização da Convenção Estadual dos Ministros Evangélicos das Assembleias de Deus Ministério de Madureira no Estado de São Paulo - CONEMAD/SP. Congratulações aos líderes da instituição religiosa, na pessoa do Bispo Primaz Mundial Manoel Ferreira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:519f801302d05fd7ad57e347547b5fe30d9b0dac00a7ef315c96688052b4fe3b
+size 259

@@ -1,1 +1,3 @@
-Regozijo com o desempenho do PR nas eleições municipais de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0b3edff26cb3484bd148f097a9498bebc94a8b6400a35121e3b78124caa2dd0
+size 66

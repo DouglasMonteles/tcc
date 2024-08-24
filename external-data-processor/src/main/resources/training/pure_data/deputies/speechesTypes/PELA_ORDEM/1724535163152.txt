@@ -1,1 +1,3 @@
-A Deputada repudiou o aumento da tarifa de energia elétrica em Rondônia pela Energisa. Destacou sua atuação parlamentar contrária ao aumento da tarifa junto à ANEEL, ressaltando que o aumento concedido foi menor que o pleiteado pela empresa concessionária de energia. Por fim, anunciou a elaboração de um projeto de lei para que o Estado produtor de energia elétrica não pague os custos da transmissão de energia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f082b37c3ebc8c21a3e35386959a2fb1ea9c3dd80124cd16b99616e79838594
+size 425

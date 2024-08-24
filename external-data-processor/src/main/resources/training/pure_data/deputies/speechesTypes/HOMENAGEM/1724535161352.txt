@@ -1,1 +1,3 @@
-Sessão Solene em celebração ao centenário de nascimento de Ulysses Guimarães.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2c37a55cc07ec665dd9fa5d43744f143ca775f4f7729338372c5c9b7f9d985b
+size 82

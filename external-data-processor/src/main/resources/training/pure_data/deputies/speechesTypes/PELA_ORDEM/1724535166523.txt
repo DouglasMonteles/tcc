@@ -1,1 +1,3 @@
-Prorrogação do prazo de vigência da Resolução nº 3.966, de 2011, do Ministério da Fazenda, sobre a instituição de linha de crédito para o setor cafeeiro. Apresentação de emenda ao Projeto de Lei nº 1.824, de 2011, destinada à manutenção do Fundo Nacional de Infraestrutura de Transportes - FNIT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f29789ccc5c85b00a33f584a3a48e6f24592d37264c21e961ecfbb02f08479c1
+size 311

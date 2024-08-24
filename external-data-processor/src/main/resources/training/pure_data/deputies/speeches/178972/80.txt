@@ -1,1 +1,3 @@
-Decisão do PPS de permanência na base governista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7edab1e80e2a5237238ffc8a79c739561b35604a1f42e7bbf2cab9a7b972a18d
+size 51

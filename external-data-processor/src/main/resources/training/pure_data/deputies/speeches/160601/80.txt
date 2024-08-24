@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Bíblia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e527fd6a7ce2e60e87cf3c66b355a0ec5f160253ee696030268b9cdf94e90874
+size 43

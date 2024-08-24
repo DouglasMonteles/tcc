@@ -1,1 +1,3 @@
-Congratulações ao Líder André Figueiredo e à Casa pela aprovação do Projeto de Lei nº 6.385, de 2016, sobre a prestação de serviços postais aos órgãos públicos federais da administração direta e indireta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:723b31d98f429b4e25d8cda60ef0297cd0551042518c29b636f37bf11e3b9738
+size 220

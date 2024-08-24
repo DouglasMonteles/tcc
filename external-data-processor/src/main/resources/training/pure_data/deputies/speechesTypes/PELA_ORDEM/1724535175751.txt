@@ -1,1 +1,3 @@
-Matéria sobre a exploração de petróleo na camada pré-sal, de Eugênio Melloni, publicada pela revista Mundo Corporativo. Defesa de aprovação do dispositivo sobre o estabelecimento de novos critérios para a distribuição de recursos oriundos de royalties do petróleo, constante na proposta de reforma tributária
+version https://git-lfs.github.com/spec/v1
+oid sha256:72fcd9bcacbc4f83c50acead16a3f8d2d7753639787992a578d9a5ab2fbf3b43
+size 321

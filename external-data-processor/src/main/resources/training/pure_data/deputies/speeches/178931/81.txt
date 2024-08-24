@@ -1,1 +1,3 @@
-Inauguração de nova Unidade Básica de Saúde para atendimento às famílias da Aldeia Indígena Araçaí, no Município de Piraquara, Estado do Paraná. Ações da Prefeitura Municipal de Piraquara na área da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5f28d178d62779f2f18c35ebe62e04880c2f16e187382d864a65cb19cd5f115
+size 220

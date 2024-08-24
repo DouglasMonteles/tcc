@@ -1,1 +1,3 @@
-Relevância da aprovação da Proposta de Emenda à Constituição nº 293, de 2013, sobre a possibilidade de cumulação de cargo pelos profissionais de saúde das Forças Armadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5135d6a6140472452d698f94b926502d0a13ed9320d1c04943d029a7b5628f20
+size 181

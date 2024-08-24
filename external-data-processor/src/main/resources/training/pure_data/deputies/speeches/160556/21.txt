@@ -1,1 +1,3 @@
-Defesa de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de recursos mínimos à saúde pela União, pelos Estados e Municípios. Apoio à greve dos profissionais da educação no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5795757ef64de19c836735a62da0e716e6534822ae6555ae8359e989f64772f
+size 236

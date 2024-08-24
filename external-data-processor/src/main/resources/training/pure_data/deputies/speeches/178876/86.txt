@@ -1,1 +1,3 @@
-Aprovação, pela respectiva Comissão Especial, de proposição de autoria do orador referente à realização de plebiscito sobre a criação do Estado do Entorno, próximo ao Distrito Federal. Solicitação aos Deputados de apoio à proposta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e9c8aff362eae4dfdf49cdffac2d5693b353ec88addd608e14fbf28003188e5
+size 245

@@ -1,1 +1,3 @@
-O Deputado destacou a presença na Casa do Vereador JK, de Santarém, Pará, elogiando seu compromisso e combate à corrupção em sua cidade. Expressou solidariedade diante das perseguições que o vereador enfrenta em sua luta contra a corrupção e reafirmou seu apoio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02f4aacc98e0b0a89ac8dcf183838929d36190cdb5d2b8273bf4e0fb132c28f0
+size 272

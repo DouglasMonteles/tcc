@@ -1,1 +1,3 @@
-O Deputado recebeu a equipe do Prefeito de Cariacica, Euclério Sampaio. Elogiou o trabalho do Prefeito e destacou a entrega da Nova Orla, que contará com restaurantes panorâmicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd3245408cf7ee23b8e1d8a461a38c135caac37b238465d006de02118375f9d1
+size 182

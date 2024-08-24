@@ -1,1 +1,3 @@
-Crise da educação brasileira. Atuação da oradora e do Deputado Estadual Carlos Giannazi em defesa da realização de Atividades Pedagógicas Diversificadas em local de livre escolha do professorado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:037b68d8be0ab8bb2ae01050eb56ba5302442139fef2a486d5dc7916c9d7a111
+size 202

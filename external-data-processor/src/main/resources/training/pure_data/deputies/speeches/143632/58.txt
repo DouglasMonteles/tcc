@@ -1,1 +1,3 @@
-Levanta questão de ordem sobre o prazo de trinta minutos de espera para complementação de quroum regimental para o início da sessão, previsto no Regimento Comum.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91935d663081b1bbf97244d0a03bbf5cb60f134fb9428dce7f34e970a056f902
+size 166

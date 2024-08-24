@@ -1,1 +1,3 @@
-Resgaste de trabalhadores em situação análoga à escravidão no País. Democratização de canais de acesso à Justiça do Trabalho. Defesa de rejeição da proposta de emenda à Constituição sobre a extinção do Ministério Público do Trabalho e da Justiça do Trabalho. Submissão de trabalhadores ao regime de trabalho escravo pela empresa Volkswagen do Brasil, na Fazenda do Rio Cristalino, no Município de Santana do Araguaia, Estado do Pará. Defesa de indenização às vítimas por dano moral coletivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d73ce1db685fb61af74d36dce340f36469b59b9a0f8d7a6d390d9808debc8602
+size 518

@@ -1,1 +1,3 @@
-Expectativa do SDD de desobstrução da pauta de votações da Casa com a apreciação de matérias objeto de acordo em reunião do Colégio de Líderes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6c2802b277249b215ec8abde7b8212aafd27c0bb9b83da49ef2cc032b949629
+size 153

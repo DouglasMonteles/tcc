@@ -1,1 +1,3 @@
-Contentamento com o alcance de quórum no plenário. Defesa de realização da reforma previdenciária. Apoio à manutenção dos Estados e Municípios no processo de reformulação da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7ebe7a3634841bd44251fbaf3d7f1f7a4787c74d286b5c203c1d25c6b851681
+size 205

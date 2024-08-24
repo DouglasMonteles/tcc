@@ -1,1 +1,3 @@
-Protesto contra as altas taxas de juros praticadas pelo sistema bancário brasileiro. Necessidade de redução da taxa básica de juros, a Taxa SELIC, pelo Banco Central do Brasil. Defesa de lançamento, pelo Governo Federal, de políticas de estímulo a linhas de financiamentos, sobretudo para pequenas empresas e empreendedores individuais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fe6e2fea81c676e0beb2805304fe3a0bfcd1c3e41d4be67742a34e4210ed898
+size 343

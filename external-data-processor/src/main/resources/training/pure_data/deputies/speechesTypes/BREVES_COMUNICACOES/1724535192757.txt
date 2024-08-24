@@ -1,1 +1,3 @@
-Escalada de atos de intolerância e preconceito no Brasil e no mundo. Repúdio às referências preconceituosas proferidas pelo Deputado Jair Bolsonaro contra a cantora Preta Gil, em entrevista concedida ao programa CQC, da TV Bandeirantes. Realização por entidades civis de mobilização a favor da Frente Parlamentar em Defesa da Lei Maria da Penha, no Município de Campo Grande, Estado de Mato Grosso do Sul,
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc9023f1605b4eaee98fadd436ffc59948fc109ccd52cfa3c2070edbcd11b7b7
+size 414

@@ -1,1 +1,3 @@
-Importância do debate sobre reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2125ecc2653abe91f901baa6daa0bb901e7d02fb1970e473a5d4734f293b790b
+size 47

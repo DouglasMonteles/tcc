@@ -1,1 +1,3 @@
-Congratulações à Deputada Professora Marcivania pelos trabalhos realizados na bancada feminina. Despedida do Deputado Zonta da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ef60ef3e61d90bea88a5c68c16b4316acc69076e933c0f7f8135c5015ccb79e
+size 135

@@ -1,1 +1,3 @@
-Crise financeira dos Estados e Municípios brasileiros. Disposição do Congresso Nacional para a realização de debates sobre a reforma tributária e a revisão do pacto federativo. Artigo a respeito do tema, de autoria do Governador do Estado de Minas Gerais, Antonio Augusto Junho Anastasia, publicado pelo jornal Folha de S.Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e25ed6d54380ed9538aaad1c1b70c04c27a7e693a2d9858f0cb436cc07460b8
+size 335

@@ -1,1 +1,3 @@
-Transcurso do bicentenário dos serviços de taquigrafia no Parlamento brasileiro. Saudações aos taquígrafos da Câmara dos Deputados, na pessoa da Diretora do Departamento de Taquigrafia, Juliana Baldoni. Depoimento do ex-Presidente Jair Bolsonaro na Polícia Federal, para esclarecimento da inserção de dados falsos em seu cartão de vacinação. Retomada de programas sociais pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35170603943a6fab7eb0ae89aae394269535a1b2036eb105088fc62de9a4f107
+size 427

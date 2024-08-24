@@ -1,1 +1,3 @@
-Realização, em Municípios do Estado do Rio de Janeiro, de audiências públicas para debate de assuntos de interesse das respectivas comunidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1949ae75097324db3f3198fe7db4d88715fb64869e4868d8a222786be783211
+size 148

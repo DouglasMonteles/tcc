@@ -1,1 +1,3 @@
-Renúncia à Presidência da Câmara dos Deputados do Deputado afastado Eduardo Cunha. Crítica à delonga para apreciação, em segundo turno, da Proposta de Emenda à Constituição nº 1, de 2015, sobre o valor mínimo de aplicação anual pela União em ações e serviços públicos de saúde. Repúdio à intenção do Governo Michel Temer de afastamento de servidores públicos da direção das empresas estatais e dos fundos de pensão, e de alteração da Consolidação das Leis do Trabalho para redução dos direitos dos trabalhadores. Crítica à defesa, pelo Ministro da Saúde, Ricardo Barros, de criação de planos de saúde populares para redução da demanda pelo Sistema Único de Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bd4a08f8f261f22c07d83f78be4d9306a375c6fad215e4bb9a81791a1bd8f60
+size 708

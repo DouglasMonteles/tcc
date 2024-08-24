@@ -1,1 +1,3 @@
-Transcurso do 479º e do 132º aniversários, respectivamente, de fundação e emancipação político-administrativa do Município de Ilhéus, Estado da Bahia. Empenho do orador na inclusão do cacau na política de preços mínimos e no Plano Safra 2013/2014. Apoio à revisão da taxa de importação do cacau e da criação do plano de desenvolvimento sustentável do cacau. Acerto da autorização à empresa Bahia Mineração de construção de terminal de uso privativo na zona norte de Ilhéus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4d4efb1abdf904c51053cbd63ea911cfacc0d19351abd6b2a972e9622bcce59
+size 502

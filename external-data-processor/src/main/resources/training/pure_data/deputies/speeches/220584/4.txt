@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 2.969, de 2022, sobre a transformação de cargos de Analista do Ministério Público da União em cargos de Procurador de Justiça Militar, de Promotor de Justiça Militar e em cargos em comissão especificados, no âmbito do Ministério Público Militar. Presença, na Casa, dos Srs. Antônio Pereira, Procurador-Geral de Justiça Militar; Cícero Coimbra, Chefe de Gabinete; Edmar Jorge, Presidente da Associação Nacional do Ministério Público Militar; e Renato Cantoni, Diretor-Executivo do Sindicato Nacional dos Servidores do Ministério Público da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2e80430749ae517dc27eb1405540c076e701cd90e1341b880b272f7ea27b4fe
+size 609

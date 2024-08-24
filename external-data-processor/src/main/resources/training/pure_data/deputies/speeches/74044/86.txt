@@ -1,1 +1,3 @@
-Apelo ao Deputado Arnaldo Madeira de desistência da votação nominal dos  requerimentos de regime de urgência para os projetos e lei que tratam da regulamentação da exploração de petróleo na camada  pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dab2923293d6ea00327a2922451ce430355d95e471746e1291b113b2e2aeaf9
+size 216

@@ -1,1 +1,3 @@
-Contrariedade à privatização da Companhia Paranaense de Energia Elétrica - COPEL. Realização, pela Assembleia Legislativa do Estado do Paraná, de audiência pública para debate da pretendida venda da empresa energética.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62944d4bde8174df3e62443df313be82cabeaf073e0d8d358c7ab351e6f5f762
+size 228

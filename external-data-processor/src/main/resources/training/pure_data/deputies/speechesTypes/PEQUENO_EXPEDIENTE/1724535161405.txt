@@ -1,1 +1,3 @@
-Apoiamento das redes sociais e de Parlamentares à proposta de revogação da chamada PEC da bengala, apresentada pela oradora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ba1e8209dcf4f11da876c668cc06cbdde17e0adba9589f4a4da82dfc2ed426c
+size 127

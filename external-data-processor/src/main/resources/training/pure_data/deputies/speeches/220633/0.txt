@@ -1,1 +1,3 @@
-Possibilidade de indicação do orador para a Presidência da Comissão de Meio Ambiente e Desenvolvimento Sustentável. Equívoco de ataques à autonomia do Banco Central do Brasil. Medidas necessárias para a redução das taxas de juros vigentes no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3969c1f42520c66bc3ed934f14182ca79cf889b46a42be5bf094db248c4d2772
+size 258

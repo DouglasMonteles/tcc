@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 1.084, de 2023, sobre a alteração da Lei nº 10.891, de 2004, para garantia de direitos às atletas gestantes ou puérperas, no âmbito do Programa Bolsa-Atleta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23a9465630c12ded6de7b05a0556974fc60cd409a7512513797334347a6eba40
+size 205

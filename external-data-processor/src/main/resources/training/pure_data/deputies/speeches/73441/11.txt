@@ -1,1 +1,3 @@
-Vantagens advindas da implantação da TV digital no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b684f65be558d4809a4dbb183465059c14efa0a9b9ddaca38d461156ed9dba5
+size 59

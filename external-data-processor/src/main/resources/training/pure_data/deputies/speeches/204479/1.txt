@@ -1,1 +1,3 @@
-Empenho do orador na realização de concurso público para recomposição dos quadros das Polícias Civil e Militar do Estado de Roraima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4f3fb852d53e3388b28636954860a96dd30b7963f2243d0169517812d7d98c6
+size 138

@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com o crescimento do desemprego no primeiro trimestre de 2023, de acordo com o IBGE, e com informações publicadas pela imprensa de que o lucro da PETROBRAS caiu 47% e de que 400 mil empresas foram fechadas no País no primeiro semestre de 2023. Afirmou que esses dados negativos demonstram que o Governo tem enganado a população. O orador expressou a necessidade de que o Brasil se desenvolva para que gere empregos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25e81cbbde815d53cabaaf97c24233fb0161d2cfc1ae1d6a7bb1df1a730a145a
+size 455

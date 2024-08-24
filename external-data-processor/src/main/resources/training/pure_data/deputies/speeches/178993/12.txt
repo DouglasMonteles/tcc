@@ -1,1 +1,3 @@
-Anúncio de alteração do art. 6º da Proposta de Emenda à Constituição nº 352, de 2013, relativo às eleições para Prefeitos Municipais e Vereadores em 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37b861ab3ac753c5717db293092c91bc6da39e91218e638031f87b4de5d56df5
+size 165

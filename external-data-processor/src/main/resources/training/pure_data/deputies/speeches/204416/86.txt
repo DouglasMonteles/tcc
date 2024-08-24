@@ -1,1 +1,3 @@
-Congratulação à Casa pelo apoio à Medida Provisória nº 1.021, de 2020, sobre a fixação do valor do salário mínimo em 1.100 reais, com vigência a partir de 1º de janeiro de 2021. Elogio ao Relator Newton Cardoso Jr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8264ec71079b9bdda72013f931f6a1dc4c2c3a5f815edd4235705fc167eedd6a
+size 226

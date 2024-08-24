@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à Superintendente da Polícia Rodoviária Federal no Estado do Acre, Liege Vieira, e aos policiais rodoviários federais Inacio Gontijo, Bruna Carvalho e Lucas Chaves, presentes no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1e5935dcd6210c048bd7f79668330c50e83ed617bae2d4472bdca4029e06685
+size 222

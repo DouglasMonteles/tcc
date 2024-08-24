@@ -1,1 +1,3 @@
-Saudação ao Conselheiro Luiz Moreira Gomes Júnior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b4559eb2ee4b600e31a5688f5fb45aaa463d88d6b1b73bc0bb50303e89146f6
+size 53

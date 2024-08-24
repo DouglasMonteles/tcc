@@ -1,1 +1,3 @@
-Posicionamento do orador contrário ao aborto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3841345b37f08928b3fa638da2f63b4bf6d8aca55388ddc3aa7377519e6ca9e
+size 46

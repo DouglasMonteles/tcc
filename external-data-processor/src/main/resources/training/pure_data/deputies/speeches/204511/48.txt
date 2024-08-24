@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de implantação de política pública destinada à inclusão social dos portadores do Transtorno do Espectro Autista. Relevância da Applied Behavior Analysis - ABA, metodologia norte-americana adotada no tratamento do autismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ff11db121fe29918ba112d6e3c7b44d0a750048b2595b3f5548bf1a1edadb33
+size 253

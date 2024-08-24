@@ -1,1 +1,3 @@
-Registro de voto proferido em votação anterior. Presença em plenário de Vereadores do Município de Santana, Estado do Amapá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cd0f14ecfb714a4ddf758156dd0121d8d6f6b6e25ea28e8fa46fd8cf184c952
+size 130

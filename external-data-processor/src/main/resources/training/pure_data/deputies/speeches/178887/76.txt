@@ -1,1 +1,3 @@
-Solicitação à Presidência de reabertura do prazo para apresentação de destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02f60f3b5ff9c62aafce7089507f4b6fb6e282734661e68e0c3dac70742c0443
+size 86

@@ -1,1 +1,3 @@
-Realização do Encontro Regional do PT no Município de Riacho de Santana, Estado da Bahia. Participação do orador no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e756acb167e9d1fc3c23b1034c052dccf6daffb145ec5c5c3d647655133a3dca
+size 128

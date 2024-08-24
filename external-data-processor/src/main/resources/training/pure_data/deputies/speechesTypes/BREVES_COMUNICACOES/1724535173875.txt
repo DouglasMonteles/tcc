@@ -1,1 +1,3 @@
-Agradecimentos ao Diretor Marcelo Zollinger, à médica Márcia Sampaio e à equipe de infectologistas do Hospital da Bahia, em Salvador, pelo diagnóstico e tratamento da malária contraída pelo orador durante atividades políticas no Estado de Rondônia. Considerações sobre a doença. Congratulações à Presidenta Dilma Rousseff e ao Congresso Nacional pela destinação de mais recursos à saúde na peça orçamentária para o ano 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaff3e3606d668ed72bc432e3ccb3e514742a9cda91f71e3be92e105c120d709
+size 446

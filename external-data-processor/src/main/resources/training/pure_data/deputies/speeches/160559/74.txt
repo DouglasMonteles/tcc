@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Constituição, Justiça e Cidadania do Senado Federal, de proposta sobre a isenção da obrigatoriedade do emplacamento de tratores e máquinas agrícolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7accfb484ea498decde1b1ee2490ef16d91a3889261892410af43933d5f4c547
+size 187

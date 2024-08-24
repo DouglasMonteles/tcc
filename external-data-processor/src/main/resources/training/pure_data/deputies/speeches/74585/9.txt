@@ -1,1 +1,3 @@
-Necrológio do ex-Deputado Estadual Agostinho Patrus, de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99099a4cfb955081b438a44a4e00ba7a8c0d54c5b2a3488c54a06e424e5413c1
+size 70

@@ -1,1 +1,3 @@
-Promoção da Semana Mundial do Meio Ambiente. Transcurso do Dia Mundial do Meio Ambiente. Realização do festival Muri Cine Ambiental, no Município de Nova Friburgo, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b925af2bb3635184aa3ddcac3504f750f73fe0545ba337097c5ef0dd64a9e5a
+size 194

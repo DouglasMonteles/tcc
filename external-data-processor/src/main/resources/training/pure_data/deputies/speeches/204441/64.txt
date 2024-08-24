@@ -1,1 +1,3 @@
-Tentativa do PT de aproximação com a comunidade evangélica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:376878c966ca3ed5144bb3f6be6225d23e82364dbf3a29f830a4575e9dca15b4
+size 62

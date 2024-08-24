@@ -1,1 +1,3 @@
-Anúncio de realização de audiência pública em Belém, Estado do Pará, com a Agência Nacional de Energia Elétrica - ANEEL para debate acerca da cobrança pela média ponderada de consumo de energia, pela empresa Equatorial, em prejuízo da população.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30ceaceb5b2ca195b56d7bbd5c441c8f85364d36d7503e003519a8264dfa1c0c
+size 259

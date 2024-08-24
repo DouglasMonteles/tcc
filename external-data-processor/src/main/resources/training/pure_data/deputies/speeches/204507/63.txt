@@ -1,1 +1,3 @@
-A Deputada formulou questão de ordem sobre a necessidade de anulação da votação do Requerimento nº 3.499, de 2023, por não corresponder ao objeto anunciado pela Presidência, qual seja, uma moção de repúdio ao grupo terrorista Hamas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fec43b490bf370ea81853c9a83d3fed616a7158124825b3fe8716e5f2da36807
+size 243

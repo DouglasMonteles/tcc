@@ -1,1 +1,3 @@
-Questionamento sobre os critérios adotados pelo Conselho Administrativo de Defesa Econômica - CADE para a autorização da compra da empresa Vale Fertilizantes pela Mosaic Fertilizantes do Brasil Ltda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb040274f7f2465ef3f53c2a6ffa55b190459b750266cfdd6571307615fe0c80
+size 203

@@ -1,1 +1,3 @@
-Agradecimento à Presidência pela liberação do Presidente Comissão de Direitos Humanos e Minorias para viagem ao Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb74ce4df1e66bce3b4772226827868f3b378963e79c4078a7274b3d77d92431
+size 135

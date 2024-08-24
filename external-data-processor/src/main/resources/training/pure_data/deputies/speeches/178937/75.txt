@@ -1,1 +1,3 @@
-Agenda do Governador Cláudio Castro na Região dos Lagos, Estado do Rio de Janeiro. Crise do petróleo provocada pela guerra Rússia/Ucrânia. Elevação dos preços de combustíveis e do gás de cozinha no País. Não produção de combustíveis no Complexo Petroquímico do Rio de Janeiro - COMPERJ, em face da corrupção no âmbito da empresa Petróleo Brasileiro S/A - PETROBRAS. Anúncio da apresentação de requerimento de visita de Deputados às instalações da COMPERJ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1edcea92d6d9e99a3416d4de8d18f2d951985710e21dec6e3ade196b8702315e
+size 481

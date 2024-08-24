@@ -1,1 +1,3 @@
-A Deputada expressou sua solidariedade à presidente do PL Mulher, Michelle Bolsonaro, por ter coragem de falar sobre sua experiência com a depressão, após ataques da mídia. Condenou veementemente o colunista Ricardo Noblat por ironizar a ex-primeira-dama. Destacou a importância de respeitar as mais de 800 mil famílias afetadas pela depressão e repudiou a disseminação de mensagens negativas que não contribuem para a sociedade. A oradora também prestou solidariedade às pessoas que enfrentam a depressão e defendeu a campanha de apoio à saúde mental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9b3f72dde1f3d179cf57c12c684eea04e97773f9a4ba585a568f17b39c700b7
+size 568

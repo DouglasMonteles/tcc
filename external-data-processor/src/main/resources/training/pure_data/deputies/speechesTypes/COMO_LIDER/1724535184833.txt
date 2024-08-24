@@ -1,1 +1,3 @@
-Solidariedade ao Ministro da Defesa. Transcurso do Dia Internacional da Mulher. Apoio à promulgação da Proposta de Emenda à Constituição nº 20, de 2008, sobre a composição numérica das Câmaras Municipais brasileiras. Descumprimento pelo Banco do Brasil e pelo Ministério da Fazenda da lei referente à renegociação de dívidas dos cafeicultores brasileiros. Expectativa de reexame pelo Tribunal Superior Eleitoral da cassação do mandato do Governador do Estado do Maranhão, Jackson Lago.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9309520d8ade946565df95a8e61ee5fbe49044d996ea294aacefdc35edefd3e1
+size 504

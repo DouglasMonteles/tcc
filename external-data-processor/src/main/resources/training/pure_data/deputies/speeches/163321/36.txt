@@ -1,1 +1,3 @@
-Defesa da aprovação do Projeto de Lei nº 1.033, de 2003, sobre a instituição do salário adicional de periculosidade aos vigilantes e empregados em transporte de valores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60c35ce1b967b24b703d4e5d5c8470829712307e4daa18fb21e3953af464d1c2
+size 175

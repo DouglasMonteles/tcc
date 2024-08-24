@@ -1,1 +1,3 @@
-Participação em reunião do PSD do Município de Urandi, Estado da Bahia. Visita às obras da BA-263, entre os Municípios de Urandi e Licínio de Almeida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c84f307234603f66599066a7f9e973c7bda7919958068a924fc51ea0ebd4ad0
+size 157

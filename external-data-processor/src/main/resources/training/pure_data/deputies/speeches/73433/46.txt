@@ -1,1 +1,3 @@
-Indagação à Liderança do Governo sobre a proposta de acordo de procedimento  apresentada pelas Lideranças do DEM e do PSDB para votação de Medidas Provisórias que sobrestam a pauta da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbcb0891108f3d196c4b9ff693b4f659c14ade18535400a37894e5798ef0ea60
+size 205

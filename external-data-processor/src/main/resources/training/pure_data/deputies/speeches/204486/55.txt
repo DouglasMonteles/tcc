@@ -1,1 +1,3 @@
-Apreensão do orador ante a data de recebimento, pelos Estados e Municípios brasileiros, de recursos oriundos do leilão de petróleo da cessão onerosa da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b56ca16fe01413cf8fa659cf79eeeb057423cc5fd42ba70d917961f38bbef3c
+size 173

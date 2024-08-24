@@ -1,1 +1,3 @@
-O Deputado destacou a importância de um projeto de emenda constitucional proposto pelos Deputados Reinhold Stephanes e Padovani. O projeto visa garantir que o Congresso tenha o direito de votar sobre decisões legislativas tomadas pelo STF, reforçando a prerrogativa do Congresso de legislar. O parlamentar expressou seu apoio à proposta, argumentando que ela é essencial para conter possíveis excessos do STF. Além disso, ressaltou a importância do 7 de Setembro, afirmando que a data representa a independência e soberania do Brasil e pertence a todos os brasileiros, sem associação a partidos, governos ou famílias específicas. Por fim, incentivou a população a se manifestar livremente nesse dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3d571233f738ae65f39299a4d4187fc6b167a13f8f3b2cea1c9dcdbe2056b3f
+size 714

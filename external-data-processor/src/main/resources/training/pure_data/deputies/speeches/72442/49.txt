@@ -1,1 +1,3 @@
-Celebração de acordo para aprovação de requerimento de urgência e debate da questão dos direitos autorais por meio de projeto de lei.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1efb7457d61943442815593cb38a1953110a771a42b69ec7d2660e640de01f25
+size 139

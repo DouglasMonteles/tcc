@@ -1,1 +1,3 @@
-Transcurso do 23º aniversário de promulgação da Constituição Federal. Aprovação pela Casa do Estatuto da Juventude. Escalada de homicídios entre a população jovem brasileira. Comemoração do Dia Nacional do Agente Comunitário de Saúde. Tratamento desrespeitoso da categoria pelo Governo do Distrito Federal. Adesão da Casa ao movimento mundial Outubro Rosa, de combate ao câncer de mama. Retomada do funcionamento do mamógrafo instalado no Departamento Médico da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7452cf4553044d2a86a34a798b7c6420d5c858f9ca6ce5fa5b68aba41efb769
+size 486

@@ -1,1 +1,3 @@
-Apelo às autoridades competentes de pagamento do seguro-defeso aos pescadores artesanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67ad662cdfcedc68b2927921b1de3b4dc23f32c467496d30fef8518e3e24bd72
+size 90

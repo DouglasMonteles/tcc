@@ -1,1 +1,3 @@
-Votos de êxito no exercício do mandato parlamentar em 2016 aos Deputados. Reiteração de compromisso com demandas do povo goiano. Atividades do orador durante o recesso parlamentar. Repúdio à concessão pela Presidenta Dilma de licença ao Ministro da Saúde, Marcelo Castro, para participação na eleição para Líder do PMDB na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82a07d1f925987e24bf3550f10cc70b3de5fa51b9011b8cacfef449bf3ccc6e3
+size 342

@@ -1,1 +1,3 @@
-Escalada da violência no País. Desdobramentos da promulgação da Lei nº 10.826, de 2003, o Estatuto do Desarmamento. Descaso com a manifestação da sociedade brasileira no referendo sobre a utilização de armas de fogo. Ineficácia do desarmamento da população civil para redução da criminalidade. Apoio ao Projeto de Lei nº 3.722, de 2012, que disciplina as normas sobre aquisição, posse, porte e circulação de armas de fogo e munições, cominando penalidades e dando providências correlatas. Expectativa de desarquivamento da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c5549bd9e6c238affa6c55a8d4c3f98e0e6f9587eb7fc625c592209d0a64bab
+size 558

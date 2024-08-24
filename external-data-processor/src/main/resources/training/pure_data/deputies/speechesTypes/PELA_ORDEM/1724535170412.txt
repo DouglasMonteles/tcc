@@ -1,1 +1,3 @@
-Realização, pela Comitiva Solidários de Passos, do Circuito Mineiro da Queima do Alho em prol do Hospital Regional do Câncer de Passos, no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f9907ee46376f18c48f04ce122464f63e0f5e4c5dc768e5cdef58f538789494
+size 166

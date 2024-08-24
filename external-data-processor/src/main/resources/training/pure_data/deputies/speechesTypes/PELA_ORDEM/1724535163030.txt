@@ -1,1 +1,3 @@
-Realização pelo Governo Federal de investimentos no setor de transporte urbano em grandes metrópoles brasileiras. Esclarecimento sobre o financiamento público das obras do Trem de Alta Velocidade, o chamado trem bala, entre os Municípios de Campinas, São Paulo e Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc977f3513763c533898bc24c3bdd480ad5d6fa2fee849d2f46c722ae52006b8
+size 284

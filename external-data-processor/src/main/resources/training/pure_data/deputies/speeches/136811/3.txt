@@ -1,1 +1,3 @@
-Término do embargo imposto pela União Européia às exportações de carne bovina brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f62a3510e07897b490f8f14af3c51d42a6ced602c367b6d1b39396f3a9280076
+size 95

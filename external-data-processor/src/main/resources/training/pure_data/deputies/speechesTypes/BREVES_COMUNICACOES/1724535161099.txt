@@ -1,1 +1,3 @@
-Aprovação de medida provisória proposta pelo Governo sobre a reestruturação dos Ministérios. Recuperação do salário e do emprego em face das medidas econômicas adotadas pelo Presidente Luiz Inácio Lula da Silva. Vitória do advogado Cláudio Cardoso, amigo pessoal do orador, na obtenção de remédio bancado pelo sistema público de saúde para a pequena Heloísa, menina de 9 anos portadora de fibrose cística. Luta das pessoas pobres para a obtenção de medicamentos caros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0571c419c3c2f982e4588169a5212dd7b468de2f269327d9b490f5b898a364e6
+size 490

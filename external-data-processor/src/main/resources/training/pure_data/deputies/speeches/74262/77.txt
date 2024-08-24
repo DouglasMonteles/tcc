@@ -1,1 +1,3 @@
-Maior atenção da Casa para com os reclamos dos participantes nas recentes manifestações ocorridas em capitais brasileiras. Oportunidade de revisão do relacionamento do Parlamento brasileiro com a sociedade brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e5fad554fa2eee5dd4c1efe3473e2e121966f98bbff61e9c052ed4226f8e410
+size 222

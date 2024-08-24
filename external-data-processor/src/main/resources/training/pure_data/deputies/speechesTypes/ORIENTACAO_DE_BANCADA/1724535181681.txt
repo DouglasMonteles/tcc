@@ -1,1 +1,3 @@
-Posicionamento contrário da Minoria ao parecer do Relator à Medida Provisória 421 de 2008 (Dispõe sobre o salário mínimo a partir de 1º de março de 2008), na parte em que manifesta opinião pelo não-atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71fdd734f4ea53c59b9dacffdb3bb15682ff8bc00809ef6cb0c057bbcccd35cc
+size 329

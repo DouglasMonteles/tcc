@@ -1,1 +1,3 @@
-Realização de investimentos governamentais no setor de infraestrutura do Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2deafb4ed9feb183bbb3e20c3f4c59c4c3a7f18a8c6b870606631a83f6dd7840
+size 104

@@ -1,1 +1,3 @@
-Repúdio a exposição realizada pelo Santander Cultural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:829e681dd6db6525fe4a14620ec55874960ce3451509d13ea0be78819689b976
+size 57

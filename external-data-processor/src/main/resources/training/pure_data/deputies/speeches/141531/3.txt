@@ -1,1 +1,3 @@
-Desempenho de escolas sob a jurisdição da Superintendência Regional de Ensino do Município de Ubá no Programa de Avaliação da Alfabetização - PROALFA, da Secretaria da Educação do Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8452e71db816b6b6680ed9d4356bf27b53a91e7f8bcc064cec2a86c77bddca5f
+size 214

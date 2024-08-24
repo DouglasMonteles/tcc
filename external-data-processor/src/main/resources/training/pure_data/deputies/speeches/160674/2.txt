@@ -1,1 +1,3 @@
-Protesto contra a demissão, pelo Governador do Estado da Paraíba, Ricardo Coutinho, de funcionários públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:518c51f7b4adc43737d3b0c3d94e0b59750852022ca1fa7503d4ff94ae629e60
+size 113

@@ -1,1 +1,3 @@
-Natureza preconceituosa de declaração do Prof. Antonio Dantas, da Universidade Federal da Bahia, acerca do desempenho dos alunos do curso de Medicina daquela instituição de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:142ecc7d2a32714e101c192afc81d3c51f793d076b80934e1c16516beef9ba33
+size 184

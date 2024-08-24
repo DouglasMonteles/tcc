@@ -1,1 +1,3 @@
-Saudações aos participantes no 57º Congresso da União Nacional dos Estudantes - UNE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fa3d6204f0c94452695d20c8191931505820bf50b747c8d53105e5052852252
+size 88

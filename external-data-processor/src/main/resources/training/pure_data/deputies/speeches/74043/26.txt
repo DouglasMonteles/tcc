@@ -1,1 +1,3 @@
-Similaridade de requerimentos de destaques do PP, do PL e do Republicanos. Proposta de retirada dos requerimentos do PP e do PL e permanência do requerimento do Republicanos, oferecidos à Proposta de Emenda à Constituição nº 125, de 2011, sobre a inserção de dispositivo no Ato das Disposições Constitucionais Transitórias, e a alteração da Constituição Federal para fins de reforma político-eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10f2ce43d3d680586d03eb56b25cb6f46790152e1e484bc4decb328f1af59600
+size 418

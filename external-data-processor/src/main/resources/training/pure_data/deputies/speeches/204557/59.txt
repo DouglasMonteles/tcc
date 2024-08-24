@@ -1,1 +1,3 @@
-Omissão da Agência Nacional de Telecomunicações - ANATEL, diante da precariedade dos serviços de telefonia móvel e de Internet no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b41348ff49ca8ab6891a6b10f1a916166a29a5f424fb77c4e561728df9d1e83
+size 155

@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Defesa do Consumidor, do Projeto de Lei nº 6.794, de 2017, sobre a obrigatoriedade da identificação prévia da prestadora destinatária de ligação pelas operadoras de telefonia celular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:069e005721e5ce3b678b4da580b3b292409a9838844fcf7a17d09e496dfcc0aa
+size 221

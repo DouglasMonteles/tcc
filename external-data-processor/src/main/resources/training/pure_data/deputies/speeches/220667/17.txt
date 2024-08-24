@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do Projeto de Lei nº3.974, de 2015, que dispõe sobre o direito a dano moral e a concessão de pensão especial a pessoas afetadas por microcefalia ou síndrome de Guillain-Barré causadas pelo vírus zika.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f91a1c59a705d61c866928d6f4ddc7e6f0a36e85bb2330ab9eb06945c9e00abb
+size 250

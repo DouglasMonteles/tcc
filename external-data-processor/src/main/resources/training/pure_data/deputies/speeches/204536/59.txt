@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 6 apresentada à Medida Provisória nº 889, de 2019, sobre a alteração da Lei Complementar nº 26, de 1975, com vista à possibilidade de movimentação das contas do PIS/PASEP, e da Lei nº 8.036, de 1990, para instituição da modalidade de saque-aniversário do Fundo de Garantia do Tempo de Serviço - FGTS, e sobre a devolução de recursos ao Fundo de Amparo ao Trabalhador - FAT; a alteração de disposições relativas às dívidas do Fundo de Compensação de Variações Salariais - FCV, e a extinção da cobrança da contribuição de 10% (dez por cento) devida pelos empregadores em caso de despedida sem justa causa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4875a465a4d62695aef48241edc86b0f8f359beca8cc962ca684aa10d6c92d8b
+size 740

@@ -1,1 +1,3 @@
-Transcurso do Dia do Enfermeiro. Defesa de aprovação do projeto de lei sobre a fixação da jornada de trabalho dos profissionais da enfermagem em 30 horas semanais. Expectativa de aprovação do Projeto Ficha Limpa pelo Senado Federal. Realização da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9242152295df959b2c0d967a136a7ee39355b3a1bb8b51326e3f88a054c26346
+size 273

@@ -1,1 +1,3 @@
-Repúdio à decisão judicial de desapropriação das terras da Comunidade Jarudore, no Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f360984b83dcfb87bf9c5f08a367fb56c459888f6373f79c6757a3a091b3af8e
+size 110

@@ -1,1 +1,3 @@
-Defesa da aprovação do  Projeto de Lei de Conversão da  Medida Provisória 452 de 2008 (Dá nova redação à Lei 11.887 de 2008, que cria o Fundo Soberano do Brasil – FSB, e à Lei 11.314 de 2006, que autoriza o Departamento Nacional de Infraestrutura de Transportes – DNIT a executar obras nas rodovias transferidas a entes da Federação, e dá outras providências), em votação nominal por força de verificação de votação. Pedido aos Deputados do PTB para comparecimento ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf8d2bc4caae7b9522a453a44aa4951e35749518cd8fa4d7f3f09ed42cca3a7e
+size 502

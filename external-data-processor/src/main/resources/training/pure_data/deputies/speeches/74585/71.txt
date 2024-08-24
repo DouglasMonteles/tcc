@@ -1,1 +1,3 @@
-Definição das atribuições e competências das agências reguladoras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5811656fdcfbec4e7f8becfb2d82895759b60641e8333cd27d9b5f599d96bb17
+size 72

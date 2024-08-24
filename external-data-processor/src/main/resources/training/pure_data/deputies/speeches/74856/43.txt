@@ -1,1 +1,3 @@
-Realização da 60ª sessão anual da Comissão das Nações Unidas sobre a Situação das Mulheres, entre 14 e 24 de março, sob a presidência de representante do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:118e7206e0ba10bcf8f83088a046a662ffbd933309263c0cf3a719821b4269b2
+size 172

@@ -1,1 +1,3 @@
-Anúncio da realização de oficina de trabalho em Maceió, Estado de Alagoas, sobre infraestrutura desportiva das escolas públicas da região, com a presença de representantes do Poder Executivo Federal e Municipal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0524e94050bfe5e42f2fb04b87b5ac1ebd6652b3f699a60747b6a0ec6ffbc71e
+size 218

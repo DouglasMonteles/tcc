@@ -1,1 +1,3 @@
-Pautas defendidas pelo orador no exercício do mandato parlamentar. Direito irrevogável dos cidadãos à liberdade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a55dca2a3d3ad19ee3e8f3e9f9a938474b8abdb33b13a6ee199e9763805f8f4
+size 116

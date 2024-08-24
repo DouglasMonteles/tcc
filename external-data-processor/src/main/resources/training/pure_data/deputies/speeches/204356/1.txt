@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado capixaba, ao Republicanos e seu Presidente, Deputado Marcos Pereira, pela reeleição do orador. Compromisso de atuação parlamentar em benefício dos empreendedores, das famílias espírito-santenses, dos produtores rurais e servidores públicos. Destinação pelo Parlamentar de recursos orçamentários ao Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a851a0ab9024b877808a095e62242bdb98380d0b7b68032c047190b2ddaadf7
+size 364

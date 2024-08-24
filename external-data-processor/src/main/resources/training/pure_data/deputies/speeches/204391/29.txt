@@ -1,1 +1,3 @@
-Defesa da aprovação de proposta de reforma previdenciária justa e igualitária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02b27dd08973654e6e32e85547e8d150e6fddc7431ae54997ec4ff17475fe34c
+size 82

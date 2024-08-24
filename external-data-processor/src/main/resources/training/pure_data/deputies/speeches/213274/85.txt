@@ -1,1 +1,3 @@
-Pedido à Assembleia Legislativa do Estado de São Paulo de supressão dos arts. 6º e 7º do Projeto de Lei nº 752, de 2021, prejudiciais aos Oficiais de Justiça. Conveniência de retirada da proposição pelo Tribunal de Justiça do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d082f4f481d930e4aab9a9c2cf773e9e632b7ec09695fb756421e34864b41ba
+size 258

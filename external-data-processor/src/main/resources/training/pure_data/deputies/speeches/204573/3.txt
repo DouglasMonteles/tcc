@@ -1,1 +1,3 @@
-Importância de aprovação, pela Casa, do Projeto de Lei nº 719, de 2019, de autoria do orador, acerca do direito dos consumidores de arrependimento de compras realizadas pela Internet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e88a02689a03e266e4bad39546432e4bb4e47ed73bf8016ec7c805f101c13c17
+size 187

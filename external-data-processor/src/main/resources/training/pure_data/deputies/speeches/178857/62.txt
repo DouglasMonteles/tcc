@@ -1,1 +1,3 @@
-Surpresa com o recebimento pelo Ministro da Educação, Mendonça Filho, de propostas do ator Alexandre Frota para a educação. Intenção do Governo Michel Temer de fim do combate á corrução e de redução de investimentos em programas sociais e na área de saúde e educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72347068b11b3470d27c65b7857c02efb62b086064d1dc0e9bfedfb3e4a51db6
+size 283

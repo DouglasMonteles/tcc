@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM  ao Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória 559 de 2012 (Autoriza a Centrais Elétricas Brasileiras S. A  ELETROBRAS  a adquirir participação na CELG Distribuição S.A - CELG D e dá outras providências). Ponderações sobre a inclusão de diversas matérias estranhas ao objeto da Medida Provisória  no Projeto de Lei de Conversão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4478408448ee1a11a638bb5db6226c621b0c3ec60bc98886f7cf42faa5899069
+size 403

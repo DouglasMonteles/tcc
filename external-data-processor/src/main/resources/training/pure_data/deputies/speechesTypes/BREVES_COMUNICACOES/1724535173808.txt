@@ -1,1 +1,3 @@
-Classificação do Estado do Pará no primeiro lugar do ranking de contas públicas do Ministério da Fazenda. Elogio à atuação do Governador do Estado, Simão Jatene, do PSDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82652f120b6897ecc047a0e2b11d5be024fbaeb4bf1ec49d00b649740cb1615c
+size 179

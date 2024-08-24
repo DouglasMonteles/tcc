@@ -1,1 +1,3 @@
-Posicionamento do DEM favorável à apreciação do Projeto de Lei 3.800 de 2008, relativo à consolidação da legislação relativa à Assistência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bffe1c17879973071a40fe0e9afbf1784f4f905304a389d3e610cb46a003d26
+size 157

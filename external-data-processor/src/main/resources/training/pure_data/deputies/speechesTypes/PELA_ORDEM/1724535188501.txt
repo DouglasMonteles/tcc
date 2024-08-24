@@ -1,1 +1,3 @@
-Viagem da Presidenta Dilma Rousseff ao Estado de Alagoas para lançamento do PAC da Mobilidade Urbana e do PAC Equipamentos. Aumento dos recursos destinados ao Estado de Alagoas durante as gestões federais petistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e6e75138f18bf6da56e0270a724a41c896939b9825e84db72acc2fb0dba7402
+size 216

@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 1.321, de 2019, sobre a autonomia dos partidos políticos, pela Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ee2b77470944b7e22b820761cd2db04b26d1efec6dd580019dd40c9fc62ca20
+size 160

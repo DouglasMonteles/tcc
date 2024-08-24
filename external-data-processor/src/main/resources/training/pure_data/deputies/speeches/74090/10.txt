@@ -1,1 +1,3 @@
-Inauguração de obras públicas nos Municípios de Atalaia do Norte, Benjamim Constant e Tabatinga, Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f56b3c83b4e2aa0f2caccfc412650dc52d359994055d0d4c6b4bad0455e8bddb
+size 120

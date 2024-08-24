@@ -1,1 +1,3 @@
-Orientação de bancada na votação em globo da admissibilidade dos requerimentos de destaques simples, oferecidos à Proposta de Emenda à Constituição nº 6-D, de 2019, acerca da reforma do sistema previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a78ab53686ea41467965059e2174c4773f233282818a2167ac2e8ff5d7df7fd
+size 219

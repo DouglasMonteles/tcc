@@ -1,1 +1,3 @@
-Divulgação, por Deputados do PT, de condenação do ex-Presidente Jair Bolsonaro antes da proclamação do resultado da respectiva decisão judicial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6674ce5d6898fbd506aaed0ffe4707e6d38a00aa14c79838613b8d905e1d77c
+size 151

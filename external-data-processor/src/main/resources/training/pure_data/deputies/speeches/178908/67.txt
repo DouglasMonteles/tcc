@@ -1,1 +1,3 @@
-Crise da segurança pública e solicitação de cumprimento de leis referentes a carreiras policiais no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa38da18122855a53ba75ddb2390fca90684e6b6555c9ad8e009b4696d5a25fb
+size 120

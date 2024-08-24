@@ -1,1 +1,3 @@
-Presença no plenário da ator Carlos Miranda, protagonista do seriado O Vigilante Rodoviário, exibido pela antiga TV  Tupi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2282ddf131d3c5be8cee1efacae2829f8c4966236c32d42c03dddb4aae7fbfdc
+size 125

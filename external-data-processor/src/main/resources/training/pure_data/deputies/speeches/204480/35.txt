@@ -1,1 +1,3 @@
-Solicitação aos  Deputados de comparecimento ao plenário para votação de requerimento de apreciação em regime de urgência de projetos de lei relativos ao meio ambiente, especialmente quanto à proteção às populações atingidas por rompimento de barragens. Congratulações à bancada mineira, especialmente aos Deputados Zé Silva e Júlio Delgado, pelo trabalho realizado na Comissão Externa destinada ao acompanhamento e à fiscalização das barragens existentes no Brasil, em especial ao acompanhamento das investigações relacionadas ao rompimento no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6df286e352f6fa22f0f076a5b2b9f7e25d70eaf9bc35d936cc4f879309c91720
+size 619

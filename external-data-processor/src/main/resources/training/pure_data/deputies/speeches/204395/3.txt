@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à Deputada Estadual do Paraná, Cristina Silvestri, em visita à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ebb77d44c8bad3c21d8bfbea7cce1e15f9abc872af0934be366efa5bb7677b2
+size 118

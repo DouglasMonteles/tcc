@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 879, de 2019, a respeito do sistema elétrico nacional. Apelo à Comissão de Constituição e Justiça e de Cidadania de retirada de pauta da Proposta de Emenda à Constituição nº 187, de 2016, a respeito da permissão às comunidades indígenas da prática de atividades agropecuárias e florestais e da comercialização da produção e gerenciamento da renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ea4f9a2953cff1b243fd10e7f52ab4e15223dfde9fccb9de1d7d65ac9b68254
+size 466

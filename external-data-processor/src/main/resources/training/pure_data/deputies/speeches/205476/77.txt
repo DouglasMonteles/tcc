@@ -1,1 +1,3 @@
-Desastre ocorrido entre ônibus e caminhão na BR-030 entre os Municípios de Guanambi e Caitité, no trecho da Serra dos Brindes, Estado da Bahia. Imediata adoção, pelo Departamento Nacional de Infraestrutura de Transportes - DNIT, de providências a respeito de greves acidentes ocorridos no trecho da Serra dos Brindes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4898b0f5fd2b9a798dd399e68a567c5b7015bc292fcb79133b0037dc7c190ad
+size 324

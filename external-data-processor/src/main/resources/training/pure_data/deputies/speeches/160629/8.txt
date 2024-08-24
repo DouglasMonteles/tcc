@@ -1,1 +1,3 @@
-Apreço do orador ao Presidente Inocêncio Oliveira. Acerto da decisão do Supremo Tribunal Federal pela aplicação da Lei Ficha Limpa a partir das eleições de 2012. Regozijo com a posse do Senador Cássio Cunha Lima, beneficiado com a decisão da Suprema Corte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c12970cfa69c7be0134550429de7cfb0026299f6bfcf585fc56a5d96175f3b2
+size 265

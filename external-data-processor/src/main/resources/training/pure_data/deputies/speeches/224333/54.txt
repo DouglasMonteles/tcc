@@ -1,1 +1,3 @@
-O Deputado compartilhou uma experiência positiva de desenvolvimento sustentável da cidade de Toledo, no Paraná. Destacou a intensa atividade da suinicultura na região, enfrentando restrições ambientais. No entanto, mencionou um projeto inovador que transforma os dejetos de suínos em biometano, utilizado para abastecer caminhões da cooperativa, gerando soluções ambientalmente corretas e proporcionando desenvolvimento, emprego e renda nas pequenas propriedades. Enfatizou a importância de propagar essa tecnologia para todo o Brasil, como uma solução sustentável nos aspectos ambientais, sociais e econômicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28de0631319effbd895ac8dbf6de85c1147f3a956c65c219cc884c194a1b5f6d
+size 626

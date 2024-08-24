@@ -1,1 +1,3 @@
-Prestação de contas à população do Município de Ponta Grossa, Estado do Paraná, sobre o empenho do orador na elaboração de aditivo contratual com a vistas à realização de obras de melhoria da BR-373.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b8ef5d2583cb9b9a0343bc817f41b07470c78ed6e34da8777e00e42bec70547
+size 211

@@ -1,1 +1,3 @@
-Saudação à Deputada Jô Moraes pela condução dos trabalhos da Casa. Luta da bancada feminina em prol da participação de mulheres na Mesa Diretora da Casa. Solicitação à Casa de apoio ao substitutivo apresentado pelo Deputado Ivan Valente ao projeto de lei a respeito das atribuições de farmacêutico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae863caf128aa5eb3aa1cce556d3bc59feca6414b27010cf2f2de85cf026e4bb
+size 312

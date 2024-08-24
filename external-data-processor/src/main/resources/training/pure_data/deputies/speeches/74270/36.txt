@@ -1,1 +1,3 @@
-Registro de presença na Casa da Presidente da União Pan-Africana da Juventude, Francine Muyumba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a207460662b3dcb87eaab0b0059fc4eeaa2ad059c802a698906703e4ef10e04
+size 98

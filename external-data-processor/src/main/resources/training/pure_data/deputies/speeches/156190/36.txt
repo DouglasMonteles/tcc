@@ -1,1 +1,3 @@
-Pontos ressaltados da prisão do ex-Presidente Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa113ecf6ac9b57f4bea0f2ba3e367d6b3d92b82ff223e4884bf27d09a0a0b7f
+size 60

@@ -1,1 +1,3 @@
-Contestação do pronunciamento de Deputado do PT contra o Secretário Nacional de Aquicultura e Pesca, do Ministério da Agricultura, Pecuária e Abastecimento, Jorge Seif Junior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2afc248560ed5feef867453c5def55de1ae983fe4a34afbb39afc40aec47ee77
+size 180

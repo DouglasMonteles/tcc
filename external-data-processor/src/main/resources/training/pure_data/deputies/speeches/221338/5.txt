@@ -1,1 +1,3 @@
-Descumprimento, por Prefeitura Municipais, da legislação pertinente à instituição&nbsp;o piso salarial profissional nacional dos profissionais do magistério público da educação básica. Solicitação aos Deputados de apoio à criação da Frente Parlamentar em Defesa do Piso Salarial do Magistério. Pedido à Presidência de determinação, ao Plenário, de observância de 1 minuto de silêncio em memória do Padre Jaime Crowe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f48c0d415cc0b5dc235460bb33f70646c7e386bdcc16a47d74e4680043dac6be
+size 440

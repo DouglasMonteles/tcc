@@ -1,1 +1,3 @@
-Orientação da bancada do PSC contrária à subemenda substitutiva oferecida pela Relatora da Comissão Especial, Deputado Laura Carneiro, ao Projeto de Lei nº 3.792, de 2015, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a6141ba99ea3e652cd8d374be5edbaf294524b0451d550710c1afe951ecd068
+size 203

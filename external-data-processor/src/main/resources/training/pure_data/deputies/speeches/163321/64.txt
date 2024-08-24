@@ -1,1 +1,3 @@
-Necessidade de cumprimento dos princípios essenciais norteadores da privatização dos serviços públicos de telecomunicações. Insatisfação da população brasileira com a qualidade e os preços dos serviços de telefonia. Omissão do órgão regulador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dda04d6370128b59194ae652173614d7b325babcd0fa802d65c0c7099fed7aae
+size 259

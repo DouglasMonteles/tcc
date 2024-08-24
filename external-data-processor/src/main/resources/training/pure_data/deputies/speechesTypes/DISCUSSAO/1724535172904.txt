@@ -1,1 +1,3 @@
-Discussão, em primeiro turno, da PEC 98  2007 (Acrescenta a alínea e ao inciso VI do art. 150 da Constituição Federal, instituindo imunidade tributária sobre os fonogramas e videofonogramas musicais produzidos no Brasil, contendo obras musicais ou literomusicais de autores brasileiros, bem como os suportes materiais ou arquivos digitais que os contenham - PEC da Música). Defesa da aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1074f715573719992780ed16f2dea5c8e181ac4bfa58b023bb7834fba0eae1fe
+size 414

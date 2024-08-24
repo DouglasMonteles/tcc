@@ -1,1 +1,3 @@
-Defesa dos sindicatos dos trabalhadores rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac670dd649a0e7815dcd2b83d5a7f74bd0ed9347675094398e57ceab74b01394
+size 47

@@ -1,1 +1,3 @@
-Pedido à Presidência de determinação ao Departamento de Taquigrafia de retirada do termo animal de discurso proferido por Deputado no plenário, em referência ao Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19823dd13904c1d8aef1d983549ecbf7098277de0a3618002af647868e1917c6
+size 205

@@ -1,1 +1,3 @@
-Associação ao pronunciamento da Presidência sobre a importância da preservação da caatinga. Protesto contra a não contratação de servidores  concursados no Município Ubaitaba, Estado da Bahia. Solicitação às autoridades competentes de providências sobre o assunto. Saudações ao novo Conselho Nacional da Mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa61a6ae462ea5aea7b63eb45ec71883648e951a87df1ec97ca0dbb2a391adc9
+size 327

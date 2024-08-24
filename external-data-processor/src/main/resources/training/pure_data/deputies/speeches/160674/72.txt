@@ -1,1 +1,3 @@
-Imediata adoção pelo Governador do Estado da Paraíba, Ricardo Coutinho, de providências para a retomada do funcionamento da Unidade de Terapia Intensiva - UTI do Hospital Regional de Patos Deputado Janduhy Carneiro, interditada por determinação do Conselho Federal de Medicina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0b19a347edb987d9fcec1050d1d45f035c3a285c9f3978bf895e2a77b22ca49
+size 283

@@ -1,1 +1,3 @@
-Posicionamento favorável do PMDB ao Projeto de Lei 6.719 de 2009 (Altera o Decreto-Lei 2.848 de 1940 - Código Penal -, com finalidade de modificar as regras relativas à prescrição dos crimes praticados contra crianças e adolescentes).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5708b2f9412a82a7dc14e80f15a7844d981389c9626280054431e9f46e664333
+size 240

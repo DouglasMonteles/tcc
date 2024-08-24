@@ -1,1 +1,3 @@
-Saudação a princesa africana presente na Casa. Agradecimento ao Líder do PT, Deputado Sibá Machado, pela concessão de audiência a representantes da Advocacia-Geral da União no Estado de Sergipe destinada ao debate sobre proposições de interesse da categoria. Congratulações ao Governador Jackson Barreto pelo imediato restabelecimento do abastecimento de água na Grande Aracaju, Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a4df488f4e5dafeecf0b62776152afd6c8ed9857ab89153fe38861cc98d36cb
+size 409

@@ -1,1 +1,3 @@
-Apoio à manifestação de médicos e estudantes de Medicina do Estado da Paraíba contrária à contratação de médicos estrangeiros pelo Governo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7c7f5832423aed0a52d1ff562f1e2627dbed40be0ca4bfbb6fb814e99bcafbb
+size 160

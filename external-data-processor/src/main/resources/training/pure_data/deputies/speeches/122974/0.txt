@@ -1,1 +1,3 @@
-Escolha do orador para o cargo de Líder do PTB na Casa. Apresentação do Projeto de Lei nº 245, de 2019, sobre a criação do Fundo de Desenvolvimento das Comunidades Carentes e Quilombolas de Alcântara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c11cebfe77ff301565ea76d652b15801d2fa911939bb6da0dc8389f12c86c34
+size 207

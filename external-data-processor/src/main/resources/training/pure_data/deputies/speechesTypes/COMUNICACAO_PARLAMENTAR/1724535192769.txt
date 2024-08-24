@@ -1,1 +1,3 @@
-Encaminhamento ao Ministério da Educação da Indicação nº 2.112, de 2008, para a inclusão do Curso de Tecnologia em Citotecnologia no Catálogo Nacional de Cursos Superiores de Tecnologia. Acerto da nomeação do Capitão-de-Mar-e-Guerra Bento Costa Lima Leite de Albuquerque Júnior, da Marinha do Brasil, para o posto de Contra-Almirante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f860d662de004fa6c33a2b95480c63878ae42e819dc39057c5a949e4887ef233
+size 346

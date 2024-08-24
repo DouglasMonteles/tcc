@@ -1,1 +1,3 @@
-Anúncio da apresentação de requerimento de inclusão na pauta da proposta de emenda à Constituição sobre a extinção do foro privilegiado. Compromisso de atuação parlamentar contra a corrupção, pela redução da violência e das desigualdades sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7deead0abb57e8e07bbd651f450f9d2fa98331c72025f006e13504c0bcc072b
+size 262

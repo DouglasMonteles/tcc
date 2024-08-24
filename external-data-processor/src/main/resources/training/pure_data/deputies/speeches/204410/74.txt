@@ -1,1 +1,3 @@
-Transcurso do 35º aniversário da Federação Nacional de Educação e Integração dos Surdos - FENEIS. Relevância dos trabalhos realizados pela entidade. Nota da FENEIS em repúdio ao vídeo produzido pelo humorista Leo Lins, ofensivo aos deficientes auditivos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0cb862a091c3e3d9501b6c7f494ac90e010005c1332dbcca7e0a995f605c55e
+size 265

@@ -1,1 +1,3 @@
-Contrariedade à aprovação da Proposta de Emenda à Constituição nº 10, de 2020, sobre a instituição de regime extraordinário fiscal, financeiro e de contratações para enfrentamento da calamidade pública nacional decorrente da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ab55fec82271b175326152cd2daf76997a901790587f2a466a27bdc3c982997
+size 263

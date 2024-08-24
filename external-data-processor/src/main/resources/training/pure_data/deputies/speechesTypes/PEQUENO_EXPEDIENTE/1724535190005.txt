@@ -1,1 +1,3 @@
-Crítica ao Prefeito de São Paulo, Fernando Haddad, pelo anúncio de regras para a realização de manifestação em prol do impeachment da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41a172f0c480af54f0da23732b1f133687ae611f8a76b486545937a31e9894f6
+size 167

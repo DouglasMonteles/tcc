@@ -1,1 +1,3 @@
-Posicionamento do orador frente às polêmicas acerca da revogação do Estatuto do Desarmamento e sobre a demarcação de terras indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a3919d09390f88a47b97def8d51ffbc069ca6d027b0df48e6e74e77869b5c30
+size 141

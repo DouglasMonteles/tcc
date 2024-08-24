@@ -1,1 +1,3 @@
-Transcurso do 403º aniversário de fundação de São Luís, Estado do Maranhão. Crítica à extinção da data comemorativa Dia da Raça pelo Governador Flávio Dino. Elogio à atuação da ex-Governadora Roseana Sarney.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d426aa5f9ccc43b651c1bf1ce91a096ff9c22deeadb4ab205a13d65b9d9d8eeb
+size 223

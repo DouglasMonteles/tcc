@@ -1,1 +1,3 @@
-Transcurso do 59º aniversário de fundação do jornal O Progresso, com sede no Município de Dourados, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a437d9902bb44f91980d2991f5b0b439f77fefd9f4b5c4f18de2d9848d6ac4b6
+size 134

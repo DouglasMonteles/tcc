@@ -1,1 +1,3 @@
-Elogio ao Deputado Domingos Dutra pela atuação na CPI do Sistema Carcerário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2f71bdcdcb1852fff2114efdb6adc15af2651a612a4a51ef5ffac6a92c847d7
+size 79

@@ -1,1 +1,3 @@
-Propostas de aperfeiçoamento do Código Florestal Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df078900a8c1eec04c06e8a00e6cfa94f510a10028e9cd028eceeb9ff36668fe
+size 62

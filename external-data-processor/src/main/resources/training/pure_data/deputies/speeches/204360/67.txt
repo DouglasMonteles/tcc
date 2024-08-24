@@ -1,1 +1,3 @@
-A Deputada agradeceu à empresa área LATAM por anunciar a retomada de voos e adicionar novas rotas para o Estado de Rondônia. Ressaltou que outras companhias aéreas, como Azul e Gol, no entanto, ainda não atendem adequadamente a demanda da população da Região Norte, especialmente rondoniense. Cobrou mais voos para as cidades de Cacoal, Ji-Paraná e Vilhena. Pediu às outras empresas que sigam o exemplo da LATAM. A oradora, por fim, registrou a presença na Casa da Prefeita Sheila e de vereadores do Município de Chupinguaia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd54bf38e1fe170035f1c03dfb73fe4512941c21eb89211f430ceaa9f3136aa7
+size 537

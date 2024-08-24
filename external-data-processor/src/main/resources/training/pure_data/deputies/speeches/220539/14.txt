@@ -1,1 +1,3 @@
-Defesa de manutenção, no processo de reforma tributária, de benefícios fiscais concedidos às Áreas de Livre Comércio - ALCs de Roraima, Acre, Rondônia e Amapá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1f94328b55f757c0d8d68226589bd9976819c4d82db2167ff9d22fe8781687e
+size 168

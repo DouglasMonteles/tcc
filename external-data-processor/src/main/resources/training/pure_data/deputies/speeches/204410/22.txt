@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Resolução nº 55, de 2020, sobre a denominação de Plenário Anésia Pinheiro Machado do Plenário 11 do Anexo II da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f441cc50a46018af4143304fe0d93f72b67e27885922053001347ebd348064b5
+size 176

@@ -1,1 +1,3 @@
-O Deputado lamentou profundamente o falecimento do Deputado Luiz Alberto, destacando sua importância como Parlamentar e líder do Movimento Negro, além de ser um dos fundadores do PT e da CUT. Ele expressou seu orgulho pelo legado deixado por Luiz Alberto e reconheceu a perda irreparável que sua ausência representa nas lutas diárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c7b306d07d609858b26c9652aa38870c5f2a9b8476965701122356467b2c874
+size 340

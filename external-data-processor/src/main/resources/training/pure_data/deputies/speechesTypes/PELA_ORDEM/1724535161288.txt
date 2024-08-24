@@ -1,1 +1,3 @@
-Esclarecimentos prestados pela Embaixada da Rússia no Brasil sobre os aspectos jurídicos internacionais da adesão dos países bálticos, em especial da Letônia, à União das Repúblicas Socialistas Soviéticas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38e46713d8e9394485fe9f3a4ff14bffa8817e9832c9b379d846a3f1d6ac5004
+size 215

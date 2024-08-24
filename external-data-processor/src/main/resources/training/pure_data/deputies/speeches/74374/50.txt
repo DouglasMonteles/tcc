@@ -1,1 +1,3 @@
-Julgamento, pelo Supremo Tribunal Federal, do recurso extraordinário contra a exigência do diploma de jornalismo como requisito para o exercício da profissão e de ação direta de inconstitucionalidade da Lei da Imprensa. Êxito da campanha de vacinação contra a rubéola implementada pelo Ministro da Saúde, José Gomes Temporão. Artigo de autoria do Prof. Benê Cantelli sobre a Universidade Federal da Grande Dourados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92db7ae4d9c88f78e6d8306cf66c17ee7bdc58de253bf6094091773f1d2c83be
+size 429

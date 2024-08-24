@@ -1,1 +1,3 @@
-Saudação a candidatas do Concurso Miss Brasil presentes no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1135e29711b30ca22bed1bed211d17103d22a94baf86fb7fba86be190d3fc2b
+size 71

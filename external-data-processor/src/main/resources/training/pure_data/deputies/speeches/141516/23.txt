@@ -1,1 +1,3 @@
-Assassinato do ex-Prefeito João Ramos Filho, do Município de Mariana, Estado de Minas Gerais. Apelo às autoridades policiais de providências para a elucidação do crime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a51fa209ce19d88831cd51368078e30d3b0b82fe6c70c689c3197aeeebea8d6d
+size 174

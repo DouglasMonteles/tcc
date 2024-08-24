@@ -1,1 +1,3 @@
-Restrições ao comportamento do Deputado Silvio Costa com relação à apreciação da Medida Provisória 503 de 2010 (Ratifica o Protocolo de Intenções firmado entre a União, o Estado do Rio de Janeiro e o Município do Rio de Janeiro, com a finalidade de constituir consórcio público, denominado Autoridade Pública Olímpica - APO).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3274e071efba30bd9334a5e99132a02e0c6dfb251a6e9f1fd3dd84ab1a0c0775
+size 341

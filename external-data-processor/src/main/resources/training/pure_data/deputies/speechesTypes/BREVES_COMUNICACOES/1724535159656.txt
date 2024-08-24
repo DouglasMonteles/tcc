@@ -1,1 +1,3 @@
-Defesa de rejeição da proposta governamental de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91c47a62097af8d710831a6f7292c29c7c00df45a821de8feb2565f6956c854a
+size 70

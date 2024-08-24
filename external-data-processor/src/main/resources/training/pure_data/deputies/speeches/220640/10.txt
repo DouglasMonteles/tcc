@@ -1,1 +1,3 @@
-Questão de ordem sobre a necessidade de coibição, pela Presidência, de discursos ofensivos a Parlamentares e ao Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:687b112ac02c77e4186a9afc76ffacd10ba1dcef2744b13a1a16c895b4295a1a
+size 141

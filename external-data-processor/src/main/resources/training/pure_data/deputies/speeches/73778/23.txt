@@ -1,1 +1,3 @@
-Apoio à mobilização dos moradores dos Bairros Jardim União da Vitória I, II, III, IV, V e VI e Jardim Jamile Dequech I e II, no Município de Londrina, Estado do Paraná, pela construção de pontilhão na BR-445. Proposta de simplificação do Sistema Tributário Nacional, em especial do Imposto sobre Circulação de Mercadorias e Serviços - ICMS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70822c5529c5566c79583209fc25133e7ca92585f2cae23781a64312cc1ef85a
+size 356

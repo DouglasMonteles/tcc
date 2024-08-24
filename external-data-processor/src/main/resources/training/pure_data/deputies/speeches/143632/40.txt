@@ -1,1 +1,3 @@
-Relevância da aprovação do Estatuto da Juventude. Elogio à Relatora Manuela d'Ávila, ao Presidente Marco Maia, aos membros da Frente Parlamentar da Juventude e à Bancada Evangélica pela aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9090d383a4948301e3ae0af328d47232b1df00411f3b36d06f7b9c3e3768685d
+size 217

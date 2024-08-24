@@ -1,1 +1,3 @@
-Descontentamento com decisão do Supremo Tribunal Federal a respeito do pagamento do piso salarial nacional dos profissionais da enfermagem e da parteira. Garantia, pelo Presidente Luiz Inácio Lula da Silva, de pagamento do piso salarial da categoria. Defesa de redução da jornada de trabalho dos enfermeiros para 30 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51e1d52e46aad73706add195ac909164afd49aca67cddd28959b0ed16e390d8a
+size 335

@@ -1,1 +1,3 @@
-Homenagem prestada pela Associação dos Servidores do Ministério dos Transportes a funcionários do órgão. Implantação do Programa de Qualidade no Serviço Público. Urgente tramitação, no Congresso Nacional, da proposta de valorização do servidor público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f21cecce8a35592a9db402c282c3e121699f45a0bbc55ad0ccbef659fdd480c1
+size 267

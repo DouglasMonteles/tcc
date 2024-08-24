@@ -1,1 +1,3 @@
-Esclarecimento sobre o processo de alteração da Constituição Federal. Aspectos temerários da Proposta de Emenda à Constituição nº 3, de 2021, sobre a alteração dos arts. 14, 27, 53, 102 e 105 da Carta Magna, com vista ao resguardo de prerrogativas parlamentares. Defesa de rejeição do Projeto de Lei nº 558, de 2021, proibitivo ao Relator do inquérito, nos processos de competência originária de Tribunal, de atuação como Relator da instrução do processo. Orientação de bancada na votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição nº 3, de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b3e230b66b4c1d7136af42e36cb9fec083ae8aa6f2e88e0a3544179eef84edb
+size 606

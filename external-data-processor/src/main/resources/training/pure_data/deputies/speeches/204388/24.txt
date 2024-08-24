@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Substitutivo oferecido pela Relatora da Comissão de Defesa dos Direitos da Mulher ao Projeto de Lei nº 8.599-A, de 2017, sobre alteração da Lei Maria da Penha, com vista à garantia da matrícula dos dependentes da mulher vítima de violência doméstica e familiar em instituição de educação básica mais próxima de seu domicílio. Expectativa quanto a decisão da Justiça sobre o pagamento de dívida pelo Município de Caxias do Sul, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3000acc11d64d76d8539c2e1f723ac736958b7dfa2f29fd3fde0a608799ecfc4
+size 515

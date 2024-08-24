@@ -1,1 +1,3 @@
-O Deputado parabenizou o Desembargador Edilson Olímpio Fernandes por derrubar a liminar que suspendia o Grupamento de Ações Rápidas () no sistema socioeducativo de Minas Gerais, visando garantir segurança aos profissionais e adolescentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c7426fe52df0b569af0c30e64dcce8a8a780731f7c593ec5c418aa966bc757a
+size 243

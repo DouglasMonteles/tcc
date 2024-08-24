@@ -1,1 +1,3 @@
-O Deputado reiterou preocupação com a morte de jovens militares durante exercícios físicos. Citou o trágico caso do militar Gabriel Henrique dos Santos, que faleceu após sessão de treinamento no 1º Batalhão de Polícia do Exército do Rio de Janeiro. O orador anunciou a apresentação de requerimento de informações sobre o caso e a realização de reuniões com Ministros de diferentes pastas para entender a extensão do problema e discutir medidas de prevenção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:369b2dbd621292942df40d564f1f9e15a8ce8c5cceb581b285c6dc42f623cb68
+size 478

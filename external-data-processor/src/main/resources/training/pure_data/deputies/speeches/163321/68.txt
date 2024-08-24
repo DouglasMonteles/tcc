@@ -1,1 +1,3 @@
-Importância da Medida Provisória nº 559, de 2012, a respeito do Programa de Estímulo à Reestruturação e ao Fortalecimento das Instituições de Ensino Superior - PROIES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43b54d111a8564ee24427a1c98cf09a49bb8c1679bcfceb1e67e8e540bbf6a9e
+size 176

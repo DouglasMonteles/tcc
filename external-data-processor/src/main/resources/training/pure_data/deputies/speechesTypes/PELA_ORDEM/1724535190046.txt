@@ -1,1 +1,3 @@
-O Deputado criticou as propostas de taxação de offshores e outras medidas econômicas, argumentando que o Brasil está seguindo um modelo falho. Alertou para a queda no valor de mercado da PETROBRAS devido a mudanças no estatuto. Advertiu sobre a implementação de medidas no sistema econômico que poderiam resultar em aumento de despesas, resultando em aumento de juros no futuro. Chamou o Parlamento a rejeitar esse modelo e buscar uma abordagem mais alinhada com o sucesso comprovado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bbee33fb53f37d430fc963d25a9db6858b7c0bb2421fd3d05acbae0571868af
+size 492

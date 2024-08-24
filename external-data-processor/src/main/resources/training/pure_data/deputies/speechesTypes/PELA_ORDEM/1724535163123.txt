@@ -1,1 +1,3 @@
-Congratulações ao Secretário de Segurança Pública do Estado de São Paulo, Guilherme Derrite, pelo êxito da operação realizada pela Polícia Militar na Baixada Santista. Repúdio à manifestação do Ministro da Justiça e Segurança Pública, Flávio Dino, a respeito do assunto. Contrariedade à legalização das drogas no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d6f87aea832125e64de43ec57d6400db69185c1168884a67cd53eeab0f144ed
+size 341

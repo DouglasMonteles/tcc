@@ -1,1 +1,3 @@
-Posicionamento contrário do DEM  ao Projeto de Lei de Conversão da   Medida Provisória 527 de 2011 (Altera a Lei  10.683  de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, cria a Secretaria de Aviação Civil, altera a legislação da Agência Nacional de Aviação Civil - ANAC e da Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO, cria cargo  de Ministro de Estado e cargos em comissão, dispõe sobre a contratação de controladores de tráfego aéreo temporários, cria cargos de Controlador de Tráfego Aéreo).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0c68762edeb6fd91377a9a4b7f490df311e6ccd071215cd2d59a52864ef1852
+size 578

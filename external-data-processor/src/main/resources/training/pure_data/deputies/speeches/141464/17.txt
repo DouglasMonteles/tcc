@@ -1,1 +1,3 @@
-Presença no plenário de familiares do orador e da Sra. Ivoneide Rodrigues de Moura, ex-Primeira-Dama do Município de Pentecoste, Estado do Ceará. Recorde na geração de empregos formais no País, segundo dados do Cadastro Geral de Empregados e Desempregados - CAGED, do Ministério do Trabalho e Emprego. Participação nas comemorações do aniversário de fundação de Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e977aced8c9ea6199f627b080069d5ec6db833f3cf9b3f4777ad63832536c3a8
+size 405

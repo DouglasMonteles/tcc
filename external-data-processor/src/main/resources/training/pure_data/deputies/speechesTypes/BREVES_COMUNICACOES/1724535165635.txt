@@ -1,1 +1,3 @@
-Repúdio à declaração do Presidente Luiz Inácio Lula da Silva sobre a conduta covarde de brasileiros com porte de arma de fogo. Importância do direito ao porte de arma de fogo para a proteção pessoal e da família contra criminosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2230f5d46c70e509fc35d2c36a070002789634d71c3f2f97ada71f92f029d1c6
+size 239

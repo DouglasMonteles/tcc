@@ -1,1 +1,3 @@
-O Deputado tratou da péssima qualidade do transporte público coletivo no Distrito Federal, tecendo críticas ao Governador Ibaneis Rocha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd63edff5d47df5b557908e0a19b73758cbe50d8f3883c9293f2176fb8ea3d4f
+size 139

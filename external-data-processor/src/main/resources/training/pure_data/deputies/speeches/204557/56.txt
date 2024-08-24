@@ -1,1 +1,3 @@
-Defesa da inclusão das famílias inscritas no Cadastro Único - CADÚNICO no programa Bolsa Família e do reajuste no valor do programa de transferência de renda. Pedido à Mesa Diretora de inclusão na pauta de votação da Medida Provisória nº 1.039, de 2021, sobre instituição do Auxílio Emergencial 2021 para o enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19)
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa43db12d3054ee87dbd901befa45a7e2a6ec1e0273d4f1fa7527fa07489e5f7
+size 437

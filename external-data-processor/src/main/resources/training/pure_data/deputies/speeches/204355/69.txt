@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação, artigo por artigo, do Projeto de Lei nº 3.261-A, de 2019, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:902b263562d639ddb2a7769d99d397da35989e5a468a2ccd5b81effeeb7588a5
+size 185

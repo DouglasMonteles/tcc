@@ -1,1 +1,3 @@
-Realização da 2ª Conferência Nacional Eleitoral do Partido Socialismo e Liberdade - PSOL, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:391265d13a821184bb3bb0cffdb4d047e7c78d0a21797b5d7d78af88a1633157
+size 125

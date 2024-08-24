@@ -1,1 +1,3 @@
-Repúdio às acusações do ex-Prefeito de São Paulo, Fernando Haddad, contra o Governador do Estado do Rio de Janeiro, Wilson Witzel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:774ac0f4d4999081cdb8ae90a66524e5a3ccce0cf0e902012bbea2997784c0ea
+size 135

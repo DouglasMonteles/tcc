@@ -1,1 +1,3 @@
-Protesto contra a impossibilidade de registro pelo sistema eletrônico da obstrução da votação pelo orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d36898a4441029c25adf5dc3d81e9ea13e74181fad4ea36c9cc4dcff03e71f0f
+size 111

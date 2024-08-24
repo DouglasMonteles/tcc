@@ -1,1 +1,3 @@
-Apresentação da pauta de reivindicações do Movimento dos Pequenos Agricultores - MPA ao Ministro-Chefe da Secretaria-Geral da Presidência da República, Gilberto Carvalho. Posicionamento da entidade contrário à Emenda nº 183, de 2011, apresentada ao projeto de lei sobre a instituição do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eb3c3b18e735416fd6091a3cd9167d3b695175a38298a43517af271cc9ceaf9
+size 332

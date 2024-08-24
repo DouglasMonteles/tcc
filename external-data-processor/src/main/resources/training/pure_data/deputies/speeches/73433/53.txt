@@ -1,1 +1,3 @@
-Registro da presença de convidados a sessão solene em comemoração ao transcurso dos 28 anos de fundação do Partido dos Trabalhadores — PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3833442bf8f6328cd0d996b8d37569337c5fc4e79117d496e67949fc0be8d3c2
+size 146

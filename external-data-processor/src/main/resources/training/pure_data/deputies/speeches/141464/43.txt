@@ -1,1 +1,3 @@
-Saudação aos novos membros da Mesa Diretora da Casa. Transcurso do Dia do Carteiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba699793f85192f83519750231ca09bcf0f4dc3840f955f353199d5213499353
+size 85

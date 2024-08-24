@@ -1,1 +1,3 @@
-Esforços do orador para solução do problema da insuficiência de aparelhos de tomografia no Município de Sobral, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00c64adcf6e12fa6b57e272d90ebdfd22917fe9a6159aff19616b6d870084ddd
+size 134

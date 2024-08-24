@@ -1,1 +1,3 @@
-Transcurso do 80º aniversário de fundação da Organização Educacional Farias Brito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef3c54652d8dcdd10e765f94f7539b331dd46f0eb39356b8e46b9ad637749f8c
+size 88

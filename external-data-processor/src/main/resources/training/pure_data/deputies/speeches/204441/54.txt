@@ -1,1 +1,3 @@
-Apoio ao posicionamento do Governador do Estado do Rio de Janeiro, Wilson Witzel, sobre a utilização de snipers  na área de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a06bc40bc753843b17edc056219e0458c252986a508046040124244a1795f320
+size 147

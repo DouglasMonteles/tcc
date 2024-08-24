@@ -1,1 +1,3 @@
-Tramitação, na Casa, da Proposta de Emenda à Constituição nº 603, de 1998, sobre exclusão da aplicação da enfiteuse ou aforamento aos terrenos de marinha situados na faixa de segurança, na orla marítima. Importância da inclusão da matéria na pauta de votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4561063a5a48662cab6d70963fa5bb4d0df1a55adfec6106c239e6b97c7304d
+size 276

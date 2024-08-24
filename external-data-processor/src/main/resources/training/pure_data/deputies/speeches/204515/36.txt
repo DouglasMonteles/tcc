@@ -1,1 +1,3 @@
-Corroboração pelo orador de termos atribuídos ao Ministro da Economia, Paulo Guedes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95a42d725165007f188609fd5d0b4e5510b6562ed90bf06677e493c964293e96
+size 87

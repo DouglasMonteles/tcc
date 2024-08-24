@@ -1,1 +1,3 @@
-Sessão solene destinada à promulgação da Emenda Constitucional nº 92, de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8f4e58327ee68f2afc050dce7cbfee62fbc79e79823c2b742149b60ea39a101
+size 83

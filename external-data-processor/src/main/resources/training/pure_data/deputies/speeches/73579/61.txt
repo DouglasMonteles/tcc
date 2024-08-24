@@ -1,1 +1,3 @@
-Encaminhamento à sanção presidencial do projeto de lei sobre a criação do Plano de Cargos e Salários dos Servidores da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1925ead474928ad2b32fa2242478a373ce77f02889f3b62be88911e5e9b41a88
+size 147

@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de adoção de ações emergenciais a favor das populações atingidas pela seca no sertão do Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c24454feaf032ec79fd42e0fac3db431812238f65e074079621c2bc33bf3e8b
+size 141

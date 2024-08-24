@@ -1,1 +1,3 @@
-O Deputado fez um apelo ao Governo para a destinação de 50 milhões de reais no Orçamento para a construção de um aeroporto regional em Olímpia (SP) para impulsionar o turismo na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77159189265210c4ae7bc5e4d00df47b78bf880257806cd82222e97cc1e0829a
+size 193

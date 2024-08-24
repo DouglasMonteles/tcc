@@ -1,1 +1,3 @@
-Sugestão aos cidadãos de acompanhamento, pelo site da Câmara dos Deputados, do registro de Parlamentares presentes na Casa mas ausentes no plenário para a votação de solicitação para o processamento de denúncia contra o Presidente  Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2123723fd19bc2555ce2df3b03bb3aa9959501f233aeaa21016bae7257a7ed1
+size 254

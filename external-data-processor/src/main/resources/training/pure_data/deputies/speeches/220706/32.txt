@@ -1,1 +1,3 @@
-Realização de cerimônia de entrega de veículos blindados Guarani à 15ª Brigada de Infantaria Mecanizada, no Município de Cascavel, Estado do Paraná. Importância do Projeto Guarani para o Exército Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1256d2849e04b31ef29b1d3483206f9e87082aad48e549610e07295e4e39d43c
+size 217

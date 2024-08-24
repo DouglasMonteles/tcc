@@ -1,1 +1,3 @@
-Trechos de editorial do jornal O Estado de S.Paulo, a respeito da denúncia apresentada pelo Procurador-Geral da República, Rodrigo Janot, contra o Presidente Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bee71498b503639f6e9908c6adf55e58127772da96876f2cd3004ac434af33ae
+size 173

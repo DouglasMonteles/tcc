@@ -1,1 +1,3 @@
-Comemoração dos 15 anos de implantação do Plano Real.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47d825a213b94916e33aeeed2669b7845fb742cf82168cc1749b62921de21cc2
+size 57

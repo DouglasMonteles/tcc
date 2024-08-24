@@ -1,1 +1,3 @@
-Disposição do PSDB para votação da proposta de criação do novo Código Florestal Brasileiro. Posicionamento contrário ao Requerimento de retirada da matéria da pauta, apresentado pelo PV.
+version https://git-lfs.github.com/spec/v1
+oid sha256:904d4613423a5e6dc2b70bff23a64932033afdf3646d412cae541f2f84191574
+size 195

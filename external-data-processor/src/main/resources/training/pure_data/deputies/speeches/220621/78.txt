@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 2.148, de 2015, que estabelece redução de tributos para produtos adequados à economia verde de baixo carbono.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66505a69664524c2449266cdd065d1bf162535aced5dc66c1334724abf4ad07e
+size 214

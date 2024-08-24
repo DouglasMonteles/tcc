@@ -1,1 +1,3 @@
-Congratulações ao Ministro da Infraestrutura, Tarcísio Gomes de Freitas, pelo anúncio de concessão da EF-170, conhecida como Ferrogrão, e da Ferrovia de Integração do Centro-Oeste -  FICO, e de conclusão de obras de rodovias federais no Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91741529f41a784bf4e16e9f51b0025d9f6ea9c78b7b20fa0c03a1d7151a501a
+size 268

@@ -1,1 +1,3 @@
-Realização da 11ª Marcha a Brasília em Defesa dos Municípios. Compromisso do orador com o desenvolvimento dos municípios brasileiros. Adoção de plano aeroviário pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1abe360f941128e6e3968b4ee27b8c273a64cee4a160d85a581f623c43d3ec8a
+size 191

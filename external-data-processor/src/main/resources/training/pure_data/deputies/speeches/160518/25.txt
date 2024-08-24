@@ -1,1 +1,3 @@
-Reajuste abusivo nos preços de combustíveis. Sugestão ao Governo Federal para aumento do consumo de álcool combustível. Apresentação, à Agência Nacional de Energia Elétrica - ANEEL, de recurso contra o índice de reajuste de tarifas pela Companhia Energética de Minas Gerais - CEMIG.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f20a6ac65c287b2d629789eef3476add29bf2793036d27181af3774020f0ccb2
+size 294

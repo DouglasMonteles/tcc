@@ -1,1 +1,3 @@
-Realização do Fórum Social das Periferias, em Porto Alegre, Estado do Rio Grande do Sul. Contribuição de movimentos sociais para as políticas públicas destinadas às camadas menos favorecidas. Defesa de investigação do vínculo entre a política armamentista do Governo Jair Bolsonaro e o fortalecimento do crime organizado. Razões da realização, pela Polícia Federa, da operação de busca e apreensão da carteira de vacinação do ex-Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11042c15d551e9049325ea837d383e2ada436dcbdc2109e4371e8b1a8c86afaa
+size 476

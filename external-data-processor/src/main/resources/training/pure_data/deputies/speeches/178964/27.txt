@@ -1,1 +1,3 @@
-Registro do artigo intitulado Anarquia Terceirizada, de autoria do jornalista Flávio Tavares, no jornal Zero Hora. Presença na Câmara dos Deputados de Marcelo Luiz Schreinert, Prefeito Municipal de São Jerônimo, Estado do Rio Grande do Sul. Impacto na economia local do Município de São Jerônimo, Estado do Rio Grande do Sul, da rescisão de contrato de exploração de petróleo entre a PETROBRAS e a empresa IESA Óleo e Gás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc6a58c56c08decb79ff550e145dddec9b892cdc00d5dd06f4ecb509abaf2d60
+size 436

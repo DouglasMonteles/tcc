@@ -1,1 +1,3 @@
-Críticas ao caráter seletivo das divulgações, na mídia, de nomes de políticos envolvidos no recebimento de propina do esquema PETROBRAS. Possível envolvimento do Governador do Estado do Maranhão, Flávio Dino, no esquema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a746daf7dfb140e211da3b27bdd8049676e396df884e504035b4e706c2f58d5
+size 229

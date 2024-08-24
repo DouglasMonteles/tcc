@@ -1,1 +1,3 @@
-Inauguração da 1ª Vara de Violência Doméstica e Familiar Contra a Mulher, em Salvador. Apresentação, pelo Tribunal de Justiça do Estado da Bahia, de anteprojeto à Assembléia Legislativa sobre a criação de outras varas de mesma natureza. Transcurso do Dia Nacional da Consciência Negra. Posse do Prof. José Geraldo de Sousa Júnior no cargo de Reitor da Universidade de Brasília - UnB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:595c46e967d4bc4f2de268bd96e9ce7f726b0536c50929d17711d13ba296fee5
+size 399

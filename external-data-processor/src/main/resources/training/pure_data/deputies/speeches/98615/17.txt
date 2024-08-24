@@ -1,1 +1,3 @@
-O Deputado deu as boas-vindas ao Prefeito Municipal de Blumenau, Mário Hildebrandt, e à comitiva que inclui a rainha e as princesas da 38ª Oktoberfest. Ele destacou a importância desta festa germânica, que é a maior das Américas e engloba aspectos culturais e gastronômicos, refletindo os valores dos pioneiros de Blumenau.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b19a443314ae0be68ed6b50183c87b0d363c857df0f132cda9934ba6557f4ca
+size 331

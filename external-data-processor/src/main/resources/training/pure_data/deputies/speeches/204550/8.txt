@@ -1,1 +1,3 @@
-Emissão de parecer à Medida Provisória nº 926, de 2020, sobre a alteração da Lei nº 13.979, de 2020, com vista ao estabelecimento dos procedimentos para aquisição de bens, serviços e insumos destinados ao enfrentamento da emergência de saúde pública decorrente do coronavírus; e às Emendas de nºs 1 a 126, apresentadas conforme o caput do art. 3º do Ato Conjunto das Mesas da Câmara dos Deputados e do Senado Federal nº 1, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78d67cef1eeb53e5c8e5d5914c93996d0720368f3602c63a6c02aff8e72535a9
+size 450

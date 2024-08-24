@@ -1,1 +1,3 @@
-Congratulações às mulheres comprometidas com ações de combate ao feminicídio. Posicionamento do orador a respeito da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05dad6de492cd40468207ad86c16868458eb7693cc3979a17cefb17590d0285a
+size 147

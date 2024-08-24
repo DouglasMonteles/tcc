@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo ao Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória 447 de 2008 (Altera a Medida Provisória 2.158-35 de 2001, a Lei 10.637 de 2002, a Lei 10.833 de 2003, a Lei 8.383 de 1991, a Lei 11.196 de 2005, a Lei 8.212 de 1991 e a Lei 10.666 de 2003, para alterar o prazo de pagamento dos impostos e contribuições federais que especifica), em votação nominal por força de verificação de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f878a427f318e35c7f3d2364dbc8650add6da10f46d406e8b4629ce7f174f10
+size 455

@@ -1,1 +1,3 @@
-Expectativa de aprovação da proposta de reforma previdenciária pela Comissão de Constituição e Justiça e de Cidadania. Importância da matéria para o combate a privilégios no âmbito da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:beb24246a85e900f6edb9b77f9d7b10d0a0507707f0d853bd2f1d3a7cabcc909
+size 215

@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM à Emenda 10, destacada, ao Projeto de Lei de Conversão da Medida Provisória 528 de 2011 (Altera os valores constantes da tabela do Imposto sobre a Renda da Pessoa Física), que corrige os limites de isenção da tabela pelo INPC mais 1%.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa4dd48c177c11ba10e0c548781e2c8fb0804d084f904f0b1b571fc7068d9674
+size 273

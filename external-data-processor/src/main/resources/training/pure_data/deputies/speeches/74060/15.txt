@@ -1,1 +1,3 @@
-Contrariedade à elevação da taxa básica de juros pelo Comitê de Política Monetária - COPOM, do Banco Central.
+version https://git-lfs.github.com/spec/v1
+oid sha256:968ec313a8a4b39a70b8c0fccaadaf7581f0635c9a61364ae30f7549f2752622
+size 116

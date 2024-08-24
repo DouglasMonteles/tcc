@@ -1,1 +1,3 @@
-Associação às manifestações da Casa em homenagem à mulher. Fortalecimento da Lei Maria da Penha e de outros mecanismos de combate à violência contra as mulheres no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e25337324001b6754e0f080dca7b6a9b419d40d551a2c65047b82bb57b645c1e
+size 178

@@ -1,1 +1,3 @@
-Criação de programas de distribuição de renda pelos governos petistas. Caráter irresponsável do pronunciamento do Presidente Jair Bolsonaro sobre a vinculação entre o isolamento social e a perda do emprego. Efeitos negativos do corte de recursos do Sistema Único de Saúde - SUS e da desestruturação do Programa Mais Médicos. Apelo aos Parlamentares de aprovação da proposta de concessão de 1 (um) salário mínimo aos trabalhadores informais durante a pandemia do coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ab3af289507b9af0afb8d0a2542165e65381ad2eb306d30c64b9d930571f3c0
+size 493

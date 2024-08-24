@@ -1,1 +1,3 @@
-O Deputado exaltou o povo trabalhador da periferia do Distrito Federal, que tem sido negligenciado pelo Poder Público, com destaque para a região administrativa de Sol Nascente. Além disso, criticou a prolongada paralisação da obra de pavimentação e urbanização pela empresa Hytec Construções na chácara 34, trecho 1 da região de Sol Nascente. Por fim, alertou para os graves problemas enfrentados pela população durante a época de chuvas, devido à falta de pavimentação asfáltica, e cobrou providências do Governador Ibaneis Rocha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45216e71d8ee9f28c82f04f8dd22ef02e58ff65c8e9e23160cf2d8eed029867c
+size 553

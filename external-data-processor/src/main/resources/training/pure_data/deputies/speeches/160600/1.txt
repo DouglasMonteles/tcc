@@ -1,1 +1,3 @@
-Obstrução do PMDB à votação do Projeto de Decreto Legislativo 2.912 de 2010 (Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da República Francesa na Área de Submarino, celebrado no Rio de Janeiro em 23 de dezembro de 2008), em votação nominal por força de verificação de votação da Redação Final.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b9c30deef1b273f74ae2e675af0f58db637dea6694c4788698c5a240dbae964
+size 353

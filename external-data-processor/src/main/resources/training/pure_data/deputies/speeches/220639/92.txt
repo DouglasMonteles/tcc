@@ -1,1 +1,3 @@
-O Deputado encaminhou a votação do art. 22 do Substitutivo ao Projeto de Lei nº 1.1247, de 2018, que disciplina o aproveitamento de potencial energético offshore.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6600a4a427e785dc8e7213c7e07822713eb3edd10efa4fbdea6aec1c050f1528
+size 166

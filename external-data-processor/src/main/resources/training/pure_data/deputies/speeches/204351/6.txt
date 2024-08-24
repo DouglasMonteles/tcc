@@ -1,1 +1,3 @@
-Defesa de realização, duas vezes ao ano, do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituições de Ensino Superior Estrangeiras - REVALIDA. Posicionamento contrário à realização do exame da ordem médica por alunos egressos de universidades brasileiras. Questionamento sobre a efetividade do Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dc13c7282b65dfec546c92fe0bc4c1f919a091cb81c573f39cee7db15be5efb
+size 351

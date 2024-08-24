@@ -1,1 +1,3 @@
-A Deputada expressou preocupação com a segurança pública na Bahia, citando estatísticas alarmantes que colocam seis das dez cidades mais violentas do Brasil no estado. Enfatizou que os baianos estão enfrentando altos níveis de violência, afetando o direito à vida. Pediu a atenção do Governador da Bahia e do Presidente da República para a questão da segurança pública no estado, enfatizando a necessidade de políticas públicas eficazes e o combate ao crime organizado para proteger a juventude baiana, as principais vítimas da falta de segurança.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7247c1029b0af6f6bee44a3fd871e5dceaa43d9c9221bff0fb066f3538cd423
+size 566

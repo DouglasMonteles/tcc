@@ -1,1 +1,3 @@
-Julgamento, pelo Supremo Tribunal Federal, de ação sobre a descriminação de drogas no Brasil. Usurpação, pela Suprema Corte, da prerrogativa legiferante do Parlamento brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:724301898b5f3e6a6d576ec71ae3094a3572523e29de0b54c35f1f25bd306e9b
+size 184

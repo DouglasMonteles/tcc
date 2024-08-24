@@ -1,1 +1,3 @@
-Equívoco da elevação da alíquota do IPI incidente sobre a importação de veículos. Anúncio da apresentação de projeto de decreto legislativo para sustação da medida. Ajuizamento perante o Supremo Tribunal Federal, pelo DEM, de ação direta de inconstitucionalidade da iniciativa. Rejeição pela Casa da proposta de criação de novo imposto para custeio da saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2287c106afed57c5f6c48ce84807fa53db78d832679cdc0c5056b3ec33026aac
+size 386

@@ -1,1 +1,3 @@
-Homenagem à memória do ex-Deputado Aluizio Afonso Campos, ao ensejo do transcurso do 96º aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4228a2d2ee014d04a6f61d116c755bd82d1634ae099a513a6ebc024bf163ca70
+size 116

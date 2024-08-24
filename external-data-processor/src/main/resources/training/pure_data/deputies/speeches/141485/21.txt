@@ -1,1 +1,3 @@
-Recondução do Deputado Jovair Arantes à Liderança do PTB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ed41a9d67760c63afd05eb4517828dd1f04edf0a27e74ea458684005d07ecfb
+size 61

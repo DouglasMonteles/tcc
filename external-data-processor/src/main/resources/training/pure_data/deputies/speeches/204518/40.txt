@@ -1,1 +1,3 @@
-O Deputado agradeceu à Casa pela realização, no auditório Nereu Ramos, de seminário sobre o câncer. O evento contou com a participação de palestrantes e autoridades internacionais em políticas públicas para o enfrentamento da doença, a segunda causa de morte no Brasil. O orador parabenizou seus organizadores, os Deputados Weliton Prado e Silvia Cristina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c36615abc293fd7e19efae0cb83dfbeddb9603f510e69fa90b329281a2bb8d9
+size 367

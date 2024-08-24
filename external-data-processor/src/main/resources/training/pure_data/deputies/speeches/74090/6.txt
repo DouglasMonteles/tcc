@@ -1,1 +1,3 @@
-Quebra de acordo firmado entre a bancada parlamentar amazonense e a equipe econômica do Governo Federal, com a edição da Medida Provisória nº 418, de 2008, sobre normas atinentes às Zonas de Processamento de Exportação - ZPEs. Empenho das lideranças políticas e empresariais do Estado do Amazonas na reversão da medida, ante os prejuízos para a Zona Franca de Manaus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:219637ba916ce09cf5454c31d6564e19d45983078c5ed44e53d0a8f5ff6ad6ec
+size 379

@@ -1,1 +1,3 @@
-Defesa de votação pela Casa da proposta de emenda à Constituição sobre o fim do voto secreto nas deliberações das duas Casas do Congresso Nacional. Declaração de voto a favor do relatório pela cassação do mandato parlamentar da Deputada Jaqueline Roriz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fed7217cbacfe938b01e6830eabf78c3d5d042aa93a1e2f1fe2589cdc36bcd50
+size 265

@@ -1,1 +1,3 @@
-Encontro do orador com o Secretário-Executivo do Ministério da Agricultura, Pecuária e Abastecimento, Gerardo Fontelles, para debate sobre a produção de cacau na região sul do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88f8f293443812ad41e7f26fe428424214293293878451f900943e06f24202d6
+size 198

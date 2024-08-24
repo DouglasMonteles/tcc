@@ -1,1 +1,3 @@
-Participação do orador no 22º Festival Nipo-Brasileiro de Maringá, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30519160614cf812fe17f902e2da9f03681303eadc29663515c5e3db42a9ab69
+size 89

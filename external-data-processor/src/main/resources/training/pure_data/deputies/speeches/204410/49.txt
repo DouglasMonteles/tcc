@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 21, de 2020, sobre o estabelecimento de fundamentos, princípios e diretrizes para o desenvolvimento e a aplicação da inteligência artificial no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:831908f7f1f170f50d6b38d986f2440b78487f0196acf13a023818154e0b3339
+size 197

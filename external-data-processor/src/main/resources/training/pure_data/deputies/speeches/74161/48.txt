@@ -1,1 +1,3 @@
-Início dos trabalhos da Comissão Especial destinada ao exame da proposta de reformulação do ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e024e0e7b7a856473eb5f12bd9c062d5c93150a9cbf3e0e487ad3f8dc9200350
+size 110

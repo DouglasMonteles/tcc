@@ -1,1 +1,3 @@
-Apresentação de requerimento para realização de audiência pública na Comissão de Viação e Transportes para debate da Resolução nº 400, de 2016, da Agência Nacional de Aviação Civil - ANAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a4dda14a427ff4900f8b4f334fd9ef6235954d5e4882dbdee62ce696dfd3296
+size 203

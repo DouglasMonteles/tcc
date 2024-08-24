@@ -1,1 +1,3 @@
-Confiança na recuperação da economia nacional pelo Presidente da República interino, Michel Temer, com apoio o Parlamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9902feecf5bdaa3eae1ca2c85f02c05bfd0cafce860a8484f58c8d9b0960cb
+size 126

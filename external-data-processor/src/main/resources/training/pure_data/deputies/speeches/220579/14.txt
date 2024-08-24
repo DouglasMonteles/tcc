@@ -1,1 +1,3 @@
-Transcurso do Dia dos Povos Indígenas. Dever do Estado brasileiro de proteção dos povos originários. Defesa da exploração sustentável de terras indígenas pelo seu próprio povo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbd6ba31676d53634c03773ff1ae776aec79d8af264209de4e4d2bad99cda789
+size 185

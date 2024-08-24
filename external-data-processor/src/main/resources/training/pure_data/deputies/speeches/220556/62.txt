@@ -1,1 +1,3 @@
-Assinatura, pelo Presidente Luiz Inácio Lula da Silva, de decreto sobre o estabelecimento do Compromisso Nacional Criança Alfabetizada. Elevado índice de crianças analfabetas no País, segundo levantamento do Ministério da Educação. Elevação dos índices de evasão escolar após a pandemia de coronavírus. Realização, pelo Governo Federal, de maciços investimentos na educação brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1662940b3abbfc4b5863265d84f5ee1abd3fb231be5e9d86c57be38bc9bd53d
+size 404

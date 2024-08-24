@@ -1,1 +1,3 @@
-Violação de cláusulas pétreas da Constituição Federal, retratada no inquérito instaurado pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes, para investigação de fraude no cartão de vacinação do ex-Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83c9d64de08d9839177c26ce6a7d3e7844f8e3c80447acb17204ff97f4ffb14e
+size 248

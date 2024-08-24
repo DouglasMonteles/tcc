@@ -1,1 +1,3 @@
-Confronto entre policiais e integrantes da Frente de Luta pela Moradia durante ação de reintegração de posse em Capão Redondo, na Capital do Estado de São Paulo. Solicitação ao Governo Federal de inclusão de moradores da região no Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25f47e63b90e8cdeff6b0458f7c60bc79ccdfb5fb5b35a683b7455ec14801fff
+size 273

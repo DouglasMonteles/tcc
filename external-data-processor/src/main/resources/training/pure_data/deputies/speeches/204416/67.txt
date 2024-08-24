@@ -1,1 +1,3 @@
-Clima de terror imposto pelo crime organizado durante assalto a agências bancárias nos Municípios de Criciúma, Estado de Santa Catarina, e Cametá, Estado do Pará. Omissão do Estado brasileiro nas medidas de vigilância e controle das fronteiras do País. Reexame, pelas autoridades competentes, das ações destinadas ao enfrentamento do crime organizado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9b9f00a60c59a2e7e807ca86985145c0f72f217adda1dfb25114519614e4973
+size 362

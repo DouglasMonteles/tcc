@@ -1,1 +1,3 @@
-Protesto contra a revogação do dispositivo constitucional sobre a revisão do valor do Benefício de Prestada Continuada - BPC e a retirada de recursos destinados aos Municípios brasileiros e ao setor de irrigação, pela Proposta de Emenda à Constituição nº 188, de 2019, do Poder Executivo. Extinção do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, pela Proposta de Emenda à Constituição nº 186, de 2019, do Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa1b6a1abbec6a0c43888624e3babf1a5c9d9583447da4ed99041b5f581a3100
+size 516

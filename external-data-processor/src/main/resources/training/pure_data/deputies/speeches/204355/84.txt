@@ -1,1 +1,3 @@
-Protesto contra a exclusão dos Municípios de Sooretama, Jaguaré, São Mateus, Conceição da Barra, Pinheiros e Pedro Canário do trajeto de duplicação da BR-101, no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:570eec0a87efd1c729ff73d1b88ad7409b3a45add123bc6446774bdcfa804401
+size 197

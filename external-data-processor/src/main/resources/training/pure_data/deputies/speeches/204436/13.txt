@@ -1,1 +1,3 @@
-Transcurso do 202º aniversário de emancipação político-administrativa do Estado de Alagoas. Agradecimento a ilustres personalidades alagonas pelo legado histórico, cultural e político deixado para o País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e6ffde413c0f38b6d0f4e935fbe841b561112f15b5e51ddccddc1772eecefbb
+size 212

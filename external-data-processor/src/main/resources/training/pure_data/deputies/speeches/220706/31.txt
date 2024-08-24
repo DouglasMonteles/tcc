@@ -1,1 +1,3 @@
-Repúdio à decisão do Governo Federal de corte de recursos orçamentários destinados ao fortalecimento da segurança pública em região fronteiriça do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f211b4ae4e9d02da5a2129aa81eb66e6e49ca30764b70313f9e5d9425d94d057
+size 174

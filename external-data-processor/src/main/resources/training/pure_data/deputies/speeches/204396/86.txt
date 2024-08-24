@@ -1,1 +1,3 @@
-Regojizo com a aprovação pela Casa do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira. Imediata aprovação pelo Senado Federal do Projeto de Lei nº 442, de 1991, sobre a legalização de jogos de azar. Construção da ponte estaiada no Município de Foz do Iguaçu, Estado do Paraná. Duplicação da Rodovia das Cataratas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6cd52c804b980f38a4fe54073d0978031efb3bd47270d2e6717492f2a116818
+size 408

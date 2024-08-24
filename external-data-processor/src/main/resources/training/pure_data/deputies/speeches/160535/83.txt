@@ -1,1 +1,3 @@
-Repúdio ao posicionamento da Senadora Marina Silva contrário à transposição de águas do Rio São Francisco, divulgado na reportagem Marina faz tour pelo Nordeste para se contrapor à transposição de rio, publicada pelo jornal Folha de S.Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:faa2fe93dd551f2e4989788c4b027c8572bbc575e966a834e9e045dbfc16757e
+size 251

@@ -1,1 +1,3 @@
-Orientação da respectiva bancada. Alerta para o encarecimento de contrato de compra de aeronaves de guerra pelo País, ante a desvalorização do real frente ao dólar americano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d1ea820ca2319a0fced3f2c0fe2b8adf7cffa709f4520d6006b5cd80c9d37a2
+size 180

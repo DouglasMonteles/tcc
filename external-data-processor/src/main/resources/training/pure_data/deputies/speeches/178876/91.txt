@@ -1,1 +1,3 @@
-Comemoração do 72º aniversário de fundação do Município de Itapaci, Estado de Goiás. Excelência da administração do Prefeito Mário José Salles.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b7c26bdb711defe9210e5b8cbeaa9082aedc01679b25f5676602f8bd8ddb475
+size 156

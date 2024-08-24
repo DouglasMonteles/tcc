@@ -1,1 +1,3 @@
-Saudações aos ouvintes da Rádio Câmara, aos telespectadores da TV Câmara, ao povo maranhense e em especial ao ex-Deputado Estadual Giovani Castro. Eleição dos Conselheiros Raimundo Oliveira Filho e Edmar Serra Cutrim, respectivamente, para os cargos de Presidente e Vice-Presidente do Tribunal de Contas do Estado do Maranhão. Oportunidade das alterações efetuadas pelo Senador César Borges na Proposta de Emenda à Constituição n° 333, de 2004, sobre a composição numérica das Câmaras de Vereadores brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f60ec2f577a94c8883c323c0ce06e848993ddfc4ef1cf0340a051852f7913921
+size 530

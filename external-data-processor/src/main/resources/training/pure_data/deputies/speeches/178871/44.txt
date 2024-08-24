@@ -1,1 +1,3 @@
-Realização, nos meses de março e abril, de Assembleias Gerais Ordinárias das cooperativas brasileiras e da Assembleia Geral Nacional da Organização das Cooperativas Brasileiras - OCB. Lançamento, na Câmara dos Deputados, de agenda legislativa e posse da Frente Parlamentar do Cooperativismo. Importância econômica do cooperativismo no Estado do Espírito Santo e no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ca6154d38ae2538d90f5e1ad9f0b172fd752791986b82cb62def5a396a39110
+size 383

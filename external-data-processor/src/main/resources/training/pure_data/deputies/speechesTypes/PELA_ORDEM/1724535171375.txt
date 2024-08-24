@@ -1,1 +1,3 @@
-Denúncia de prática de tortura no âmbito da 90ª Delegacia de Polícia do Estado do Rio de Janeiro, instalada no Município de Barra Mansa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b42accc16da13900db98bcfa47fccc30463d423bb9daa1f8caecb1347bd7f232
+size 142

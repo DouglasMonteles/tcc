@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Luta Contra a AIDS. Congratulações às organizações não governamentais e a todos os envolvidos na luta contra a doença. Importância das campanhas educativas e dos trabalhos de prevenção da AIDS. Referência do Brasil na prevenção à doença e no tratamento aos portadores do vírus HIV. Realização da 14ª Conferência Nacional de Saúde, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca79ba1255bb611d4cdfb363c3d6da53bb4a995a750311711c893f3de64aaf75
+size 412

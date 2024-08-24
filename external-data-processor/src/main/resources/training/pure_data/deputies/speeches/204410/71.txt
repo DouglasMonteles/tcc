@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 3.179, de 2012, sobre a regulamentação da prática de educação domiciliar no País, (homeschooling).
+version https://git-lfs.github.com/spec/v1
+oid sha256:689a6e0bceacc2ac371a1ad9e9694dfe55b3562d42a53b69c31a8251b2a24439
+size 146

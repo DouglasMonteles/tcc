@@ -1,1 +1,3 @@
-Consulta à Presidência sobre a possibilidade do acesso de dirigentes sindicais ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cb02becaf470e7028c29214ebc0ebb5650b03d5543bc37f414260e420e38384
+size 94

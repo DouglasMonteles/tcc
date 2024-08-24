@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Conscientização da Violência Contra a Pessoa Idosa. Implementação de políticas públicas de amparo aos idosos. Criação de fundos estaduais e municipais destinados às pessoas da terceira idade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dba85e66803a3bb1945a499519de8c019de410f765dcc594b9042a1e14f6059
+size 230

@@ -1,1 +1,3 @@
-Defesa da retirada de tópicos do parecer apresentado ao Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022, (novo arcabouço fiscal). Voto da oradora pela rejeição do requerimento de tramitação da matéria em regime de urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1de9b09fa540f7970519eea79e6439c150df13a4ee30bde058798d0e3c10aa14
+size 484

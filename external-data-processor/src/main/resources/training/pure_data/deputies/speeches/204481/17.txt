@@ -1,1 +1,3 @@
-Apresentação de requerimento de realização, por órgão da Casa, de audiência pública destinada ao debate da renovação do Acordo Ortográfico da Língua Portuguesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef587b6e04697eeeb53ec1152c435aded85f55740abed9ac8b2ee193bcd77612
+size 172

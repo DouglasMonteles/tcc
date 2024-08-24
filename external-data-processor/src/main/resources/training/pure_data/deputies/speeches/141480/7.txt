@@ -1,1 +1,3 @@
-Concordância com a proposta de retirada de pauta do Projeto de Lei  678 de 2003 (Reduz a lista das categorias com direito à prisão especial, elimina privilégios da prisão especial e dá outras providências), para aperfeiçoamento do texto da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f641b52cb19f7b16b1fabd33344f0fd183eb7065a04b5db612d3abd3ad9bce1
+size 257

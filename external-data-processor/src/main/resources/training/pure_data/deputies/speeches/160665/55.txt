@@ -1,1 +1,3 @@
-Necessidade de adoção, pela Agência Nacional de Telecomunicações - ANATEL, de providências a respeito de propaganda sobre rapidez da conexão celular via modem 4G.
+version https://git-lfs.github.com/spec/v1
+oid sha256:338e94923fb4d1c142282b251703534bdaa0ca72483c237edfab4cb7fb41f885
+size 169

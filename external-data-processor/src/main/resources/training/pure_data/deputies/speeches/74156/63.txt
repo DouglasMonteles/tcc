@@ -1,1 +1,3 @@
-Transcurso do 21º aniversário de promulgação da Constituição Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27bab799c189e50caeaf9b5d34d8ae1f7dd195c40f1e5ca4b1ade87391b73b6f
+size 75

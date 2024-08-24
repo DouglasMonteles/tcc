@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação, artigo por artigo, do Projeto de Lei nº 2.810, de 2020, relativo à alteração do art. 339 do Decreto-Lei nº 2.848, de 1940 - Código Penal, a respeito do crime de denunciação caluniosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2693bdbd117149f11ad96e616d5f2697d42d95d04e63af9cbd5c601dabaf843
+size 258

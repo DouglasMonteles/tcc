@@ -1,1 +1,3 @@
-Realização de sessão solene pelo transcurso do 25º aniversário da promulgação da Constituição Federal de 1988. Homenagem ao Deputado Constituinte Mário de Oliveira, Presidente Nacional da Igreja do Evangelho Quadrangular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a40edff57248546addf8a5304d98d133ed8720a33bfcf2522073c5f6e82c26f
+size 231

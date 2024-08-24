@@ -1,1 +1,3 @@
-Transcurso do 1º aniversário de recriação da Superintendência do Desenvolvimento do Centro-Oeste - SUDECO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d89250727a0f0a83be5d4c6900c13fff88b929483a38d195f9c592b506b2b936
+size 111

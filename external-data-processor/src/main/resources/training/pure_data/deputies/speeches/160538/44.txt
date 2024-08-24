@@ -1,1 +1,3 @@
-Reunião da bancada federal do PT com o Ministro da Ciência, Tecnologia e Inovação, Aloizio Mercadante. Importância da concessão de incentivos à instalação de empresas estrangeiras no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93932ec8328a65f750065fdfaa4dca72635fb1a0deb8dd65b80a49a31ddb6ace
+size 198

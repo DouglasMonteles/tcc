@@ -1,1 +1,3 @@
-Solicitação à Presidência de providências para melhoria da iluminação do ambiente ocupado por cafeteria na Casa e substituição de porta de banheiro situado nas imediações do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e07329ebe8748d3d81302547d7ad60a3b48de156b3be2d5be5af025f4dd32c37
+size 195

@@ -1,1 +1,3 @@
-Importância do Congresso Nacional para a garantia da governabilidade, diante das crises moral e econômica existentes no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13f9f85a53c7870333db112ed44d68762fd9040f0c646ffc82779c28cd269749
+size 128

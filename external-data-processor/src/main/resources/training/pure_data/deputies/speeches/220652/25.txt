@@ -1,1 +1,3 @@
-Repúdio à Resolução nº 715, de 2023, do Conselho Nacional de Saúde, na parte concernente à transição de sexo e à liberação de drogas e do aborto no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef87c46030797912a31c9851baa5e9232145b9d67212a8324eb7f5c5d499b51b
+size 166

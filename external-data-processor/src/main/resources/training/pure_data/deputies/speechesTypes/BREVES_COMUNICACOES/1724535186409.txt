@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 3.283, de 2012, sobre a regulamentação do uso de jet ski no País. Apelo à Casa de rápida tramitação e aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:109877aa97ed0fb29734f092dc50ccfa7317ccebcc8761a2b9b0d0d792e0e468
+size 170

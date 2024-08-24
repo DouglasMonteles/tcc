@@ -1,1 +1,3 @@
-Manifestação de pesar diante dos atentados terroristas em Paris, França. Clamor da população mundial por combate ao terrorismo e respeito aos direitos humanos. Defesa de colaboração entre os países e realização de acordos de cooperação com vistas ao desenvolvimento de projetos de segurança.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccfaf18d66dbde0486f3dc985c070478b5c731fdbdb010131e0833b5f2416247
+size 304

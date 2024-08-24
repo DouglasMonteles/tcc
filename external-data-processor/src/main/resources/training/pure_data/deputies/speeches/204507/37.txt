@@ -1,1 +1,3 @@
-Contestação ao pronunciamento da Deputada Celina Leão, a respeito da oradora e do Deputado Helio Lopes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7790d17fea191f25c2c05d820ef308289723c730e2a2bd9ad28c71f308488505
+size 106

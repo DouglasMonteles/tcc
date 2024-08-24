@@ -1,1 +1,3 @@
-Críticas à Embaixada do Brasil em Tel Aviv pela supressão da palavra Israel de passaportes emitidos a filhos de imigrantes brasileiros nascidos em Jerusalém.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc8b648193847a7a4a2e5e37a07d6b9f5cda596c63b873649134af2d0bb9377c
+size 161

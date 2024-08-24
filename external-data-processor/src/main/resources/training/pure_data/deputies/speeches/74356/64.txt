@@ -1,1 +1,3 @@
-Inauguração do Gasoduto Coari-Manaus, Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7a6bcf43b2520ff6d9780399cab6d6eba5653f5ceaab015a79eabb5af443d11
+size 59

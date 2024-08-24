@@ -1,1 +1,3 @@
-Contradita ao discurso do Deputado Silvio Costa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aedc3656d894603c9a3bffb3c9200de97fc7bb35562290da0b8213acb9e13021
+size 48

@@ -1,1 +1,3 @@
-Restrições ao  Projeto de Lei 301 de 2007 (Define condutas que constituem crimes de violação do Direito Internacional Humanitário, estabelece normas para a cooperação judiciária com o Tribunal Penal Internacional e dá outras providências), apenso o PL 4.038 de 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:647899d65fcefb4396739ea6fa535747dc51ed8fba471e42489545847b152d6b
+size 276

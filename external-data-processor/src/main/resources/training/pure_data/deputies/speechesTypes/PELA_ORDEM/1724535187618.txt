@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda Substitutiva oferecida pela Relatora da Comissão Mista à Medida Provisória nº 934, de 2020, sobre o estabelecimento de normas excepcionais relativas ao ano letivo da educação básica e do ensino superior, decorrentes das medidas de enfrentamento da situação de emergência de saúde pública constantes na Lei nº 13.979, de 2020, ressalvados os destaques. Acatamento, pela Relatora Luisa Canziani, da Emenda de Plenário nº 15 destinada à inclusão de odontólogos no texto da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ad7dfb3b3d8a08637ee2f1f8408326e90e4d6c57431a4c307e1e6ace79d6db0
+size 548

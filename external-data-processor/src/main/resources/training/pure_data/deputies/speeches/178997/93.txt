@@ -1,1 +1,3 @@
-Assinatura de convênio para pavimentação asfáltica de sete distritos do Município de Viçosa do Ceará, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bae57340c50bf0707ab6bbdeee6462d032fb3ef8a1e4e4b943d79b49fd9f662b
+size 126

@@ -1,1 +1,3 @@
-Apoio à proposta de uso de câmeras corporais por policiais, apresentada pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2901e7fbb9ddc135614fbf1d07438823ae129a625abe6e1ea2f33ebd3bcfe99c
+size 117

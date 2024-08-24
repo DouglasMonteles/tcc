@@ -1,1 +1,3 @@
-Compromisso regimental e posse do Deputado MARCELO AGUIAR (Bloco/DEM, SP).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6559f82635d0b069110446a8a659ecda7781dfbee193c06dd717d77106ffbd8
+size 74

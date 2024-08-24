@@ -1,1 +1,3 @@
-Transcurso do Dia do Estudante. Agradecimento ao Presidente Arthur Lira, aos Líderes partidários e coordenadores de bancada pelo apoio à pauta educacional. Temas relacionados para inclusão na pauta da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80b37db0dc778d489987fec3fe28a17eafe92ee3cb028a96d233dea21e13ee48
+size 227

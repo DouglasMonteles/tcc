@@ -1,1 +1,3 @@
-Solicitação de rejeição do requerimento de destaque para votação em separado do art. 2º apresentado ao Substitutivo do Projeto de Lei Complementar nº 343, de 2017, que institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abc1145b07e6a7d701a456f49ff5302e51751fd6a86d753dbcb2b634c39740f3
+size 252

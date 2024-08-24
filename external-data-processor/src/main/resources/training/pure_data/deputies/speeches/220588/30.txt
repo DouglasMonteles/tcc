@@ -1,1 +1,3 @@
-Crítica à aprovação, pela Casa, da Medida Provisória nº 1.154, de 2023, sobre a organização básica dos órgãos da Presidência da República e dos Ministérios.&nbsp;Investimentos em obras de melhoria na BR-364 e na BR- 317, no Estado do Acre. Repúdio à visita do Presidente da Venezuela, Nicolás Maduro, ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:007b51857c5e2db0b2386ad1f705707a6af79bb6bbc2c97ff42587913c92a83d
+size 328

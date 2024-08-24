@@ -1,1 +1,3 @@
-Reajuste dos valores do Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d1c1f8360c56a3cc782dc9be20c55eade681c0b0c4eb3416d5c699de714ff39
+size 48

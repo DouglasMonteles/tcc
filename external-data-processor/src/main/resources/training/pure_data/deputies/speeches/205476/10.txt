@@ -1,1 +1,3 @@
-Transcurso do 209º aniversário de emancipação político-administrativa do Município de Caetité, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d8216e109539c96ca0d785bd1436771d3278c013d57c946507e08ee74e77cae
+size 121

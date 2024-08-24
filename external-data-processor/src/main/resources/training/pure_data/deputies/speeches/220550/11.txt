@@ -1,1 +1,3 @@
-Tentativa, pelo Presidente Luiz Inácio Lula da Silva, de aliciamento de Parlamentares para a retirada de assinaturas do requerimento de criação da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República. Apoio do orador à instalação do órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb16fbc14370472ae953cd692f1ba6e068abb6778fc9c943babf8cfa8a404a40
+size 306

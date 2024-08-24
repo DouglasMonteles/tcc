@@ -1,1 +1,3 @@
-Discurso proferido pelo orador na sessão solene promovida pela Casa, em homenagem aos policiais e bombeiros militares participantes na missão de resgate e salvamento de vítimas da recente tragédia socioambiental ocorrida no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0cfe4b203aebf031b6acb91cc09baccabdffb6e5e597a2cd4c2d83e5ea9a574
+size 277

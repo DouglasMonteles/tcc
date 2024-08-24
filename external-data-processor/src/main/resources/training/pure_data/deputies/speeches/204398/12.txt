@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do art. 4º do Projeto de Lei de Conversão nº 23, de 2020, da Medida Provisória nº 925, de 2020, sobre as medidas emergenciais para a aviação civil brasileira diante da pandemia de coronavírus. Congratulações aos Deputados Expedito Netto e Paulão eleitos, respectivamente, para os cargos de 3º Secretário e 4º Suplente da Mesa Diretora da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89fce6ab1cbf60bfd354a619ae60a9aed993e582be1c18c79e1ad3d8bdb4ab0f
+size 455

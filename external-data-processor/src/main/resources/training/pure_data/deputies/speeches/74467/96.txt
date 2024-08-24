@@ -1,1 +1,3 @@
-Congratulação ao Presidente Henrique Eduardo Alves. Convocação de bancadas estaduais para participação em sessão da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31a11dbe6543d6de83dcd15fe40c14d627e49ffae3da3a9732002b7e4428d838
+size 128

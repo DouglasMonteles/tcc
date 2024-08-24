@@ -1,1 +1,3 @@
-Transcurso do Dia do Médico e do Dia do Professor. Congratulações aos médicos brasileiros, em especial os do Estado do Tocantins, e aos professores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62ffb0a7bd0078982c5dad4e33de7145ed93a83d2a80e51faacfdae2634df91b
+size 152

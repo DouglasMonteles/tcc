@@ -1,1 +1,3 @@
-Participação em debate na Comissão de Seguridade Social e Família sobre a utilização de substância desenvolvida pela Universidade de São Paulo para tratamento do câncer. Urgência da liberação, pela Agência Nacional de Vigilância Sanitária e pelo Ministério da Saúde, do acesso à substância para os portadores de câncer. Críticas à não liberação da substância por interesses comerciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:509c387b67914fb9c0a09a5d7f5d98eadd02780e91f10e031c94b5c953eedacb
+size 411

@@ -1,1 +1,3 @@
-Parecer, pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, ao  Projeto de Lei   37 de 2013-CN (Abre ao Orçamento Fiscal da União, em favor de Transferências a Estados, Distrito Federal e Municípios, crédito especial no valor de R$ 116.082.503,00, para o fim que especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:507df515c6196cb3eb225f73a961bad47c53e468a42d8513f5991dee95799ff4
+size 301

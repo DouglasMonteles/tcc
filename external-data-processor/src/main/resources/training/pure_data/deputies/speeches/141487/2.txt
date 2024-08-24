@@ -1,1 +1,3 @@
-Comemoração do centenário de nascimento do Presidente Tancredo Neves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03b1e39fb12fd075277cc7f9a3d0650063298f290715a515e52fa81fee32fdf4
+size 72

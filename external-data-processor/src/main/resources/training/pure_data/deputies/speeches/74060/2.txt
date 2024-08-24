@@ -1,1 +1,3 @@
-Apoio às reivindicações de centrais sindicais. Defesa de redução da jornada de trabalho para 40 horas semanais. Anúncio de encaminhamento ao Congresso Nacional, pela Presidência da República, de projetos de ratificação das Convenções nºs 151 e 158 da Organização Internacional do Trabalho - OIT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22a902ca0c257965ce993316efb8375d6d0185a6ec8a4a7949a868a2fb129b3a
+size 310

@@ -1,1 +1,3 @@
-Construção de novo texto da Proposta de Emenda à Constituição nº 3, de 2021, sobre a alteração dos arts. 14, 27, 53, 102 e 105 da Carta Magna, com vista ao resguardo de prerrogativas parlamentares. Pedido à Relatora Margarete Coelho de anexação, à propositura, da Proposta de Emenda à Constituição nº 333, de 2017, relativas à alteração dos arts. 5º, 37, 96, 102, 105, 108 e 125 da Carta Magna, com vista à extinção do foro especial por prerrogativa de função no caso dos crimes comuns, e à revogação do inciso X, art. 29, e o § 1º, art. 53, da Lei Maior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:667d297d71e500a95316bfeaf1c204339e3e0317cef3dbef599302de68cf95b3
+size 585

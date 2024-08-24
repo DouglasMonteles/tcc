@@ -1,1 +1,3 @@
-Associação a pronunciamento da Deputada Flávia Arruda a respeito da violência contra as mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94d2ea99a50cec5eb4908551195991ac9a4edd99b0878136d9250674ba303b3b
+size 101

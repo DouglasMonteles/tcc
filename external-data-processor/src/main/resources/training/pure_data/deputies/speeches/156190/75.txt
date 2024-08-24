@@ -1,1 +1,3 @@
-Esclarecimento sobre a renúncia ao auxílio-mudança ou a doação do benefício por Deputados do partido NOVO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7e4075f6922e66110a1f3b13d579055453cd074d157deffcb91e9d783ba50cd
+size 112

@@ -1,1 +1,3 @@
-Greve da Guarda Civil Municipal de Sobral, Estado do Ceará. Crítica a descaso do Chefe do Executivo Municipal pela ausência de investimentos e de valorização dos profissionais da instituição. Pedido aos Deputados de apoio a proposta de emenda à Constituição sobre a transformação das Guardas Municipais em Polícias Municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e19d44a9a7f57963ba38097053a42fe548ad53226a5168fdce693d6914fae7b
+size 339

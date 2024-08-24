@@ -1,1 +1,3 @@
-Alerta sobre a dificuldade de acesso ao sistema do Fundo de Financiamento ao Estudante do Ensino Superior - FIES para renovação e abertura de novos contratos. Solicitação de providências ao Ministro de Estado da Educação interino, Luiz Cláudio Costa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcf1b2dee510422cfb9f33734d700af9f682bee35555b94fb75e64afd015bc0e
+size 258

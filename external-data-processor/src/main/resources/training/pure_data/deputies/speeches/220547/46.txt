@@ -1,1 +1,3 @@
-Protesto contra a extinção de escolas cívico-militares. Perseguição do governo petista aos clubes de tiro esportivo e ao agronegócio brasileiro. Inconstitucionalidade do decreto presidencial sobre a regulamentação da posse e porte de armas de fogo no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5036eef53c6472b479b0805cda9fd27a5edcbdf6e743e95b593b9b78e2da51b
+size 265

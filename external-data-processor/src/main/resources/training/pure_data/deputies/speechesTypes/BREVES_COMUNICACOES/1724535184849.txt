@@ -1,1 +1,3 @@
-Pedido de apoio aos Parlamentares para a votação da Proposta de Emenda à Constituição nº 1, de 2022, sobre alteração da Emenda Constitucional nº 109, de 2021, para disposição sobre a concessão temporária de auxílio diesel a caminhoneiros autônomos, de subsídio para aquisição de gás liquefeito de petróleo pelas famílias de baixa renda brasileiras e de repasse de recursos da União com vistas à garantia da mobilidade urbana dos idosos, mediante a utilização dos serviços de transporte público coletivo, e autorização à União, aos Estados, ao Distrito Federal e aos Municípios de redução dos tributos sobre os preços de diesel, biodiesel, gás e energia elétrica, bem como outros tributos de caráter extrafiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ccbbb93e95d05d490a6c83381c3427f7890f8a39825665a36d5fa8ebbd97604
+size 749

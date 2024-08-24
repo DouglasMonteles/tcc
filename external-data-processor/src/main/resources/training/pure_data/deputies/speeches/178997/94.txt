@@ -1,1 +1,3 @@
-Empenho do orador na implantação de campus da Universidade Regional do Cariri - URCA, no Município de Campos Sales, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38cf24ec9f36e93754dd728f2f13bdbc987d7803413727c021f8c032ecb94bf4
+size 136

@@ -1,1 +1,3 @@
-Solidariedade à reivindicação dos trabalhadores vigilantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fc99118d65b08f2a8579552b890bf26fb7335d329e8770725b6f85e43b470ed
+size 62

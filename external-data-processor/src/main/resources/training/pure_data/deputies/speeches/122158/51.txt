@@ -1,1 +1,3 @@
-Protesto contra a mudança do Instituto Militar de Engenharia - IME do Município do Rio de Janeiro para o Município de Campinas, Estado de São Paulo. Iminência de aprovação de empréstimo da Caixa Econômica Federal para a Prefeitura do Rio de Janeiro em contrariedade com a Lei de Responsabilidade Fiscal. Apelo ao Presidente da Caixa Econômica Federal de revisão da decisão de fechamento da agência bancária na Favela da Rocinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acd9f63fe5b0fa87de099be0417149d1f20a4adecb1e6bf599dbb1787da8a2d8
+size 442

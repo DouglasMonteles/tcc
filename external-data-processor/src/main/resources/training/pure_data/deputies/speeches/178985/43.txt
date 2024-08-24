@@ -1,1 +1,3 @@
-Transcurso do 157º aniversário de fundação da Banda Lyra D'Oeste no Município de Limeira, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6074bf0333fd5e3bab045cd9e73fdce6aa873914526be65df9f01bbf261f0779
+size 116

@@ -1,1 +1,3 @@
-Posicionamento do orador acerca da Medida Provisória nº 927, de 2020, a respeito das medidas trabalhistas de enfrentamento do estado de calamidade pública decorrente da pandemia de coronavírus (Decreto Legislativo nº 6, de 2020).
+version https://git-lfs.github.com/spec/v1
+oid sha256:da67d4ec3ed52904a1a3937dcc3578dc352f8c45eb767f25ffcbf673b4ba0943
+size 234

@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Beto Albuquerque pelo falecimento de seu filho. Congratulações aos novos membros da Mesa Diretora da Casa. Diplomação e posse de Prefeitos Municipais e Vereadores no Estado de Minas Gerais. Transcurso do 71° aniversário de emancipação político-administrativa do Município de Governador Valadares. Denúncia de irregularidades nas eleições do Sindicato dos Trabalhadores Metalúrgicos de Ipatinga - SINDIPA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d9e8a148694733a63de13751d27861df5b8e829f29c927a10220296ff8972a5
+size 444

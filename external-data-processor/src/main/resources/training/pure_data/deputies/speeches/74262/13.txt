@@ -1,1 +1,3 @@
-Rejeição do relatório apresentado pelo Deputado Odair Cunha na CPMI que investiga denúncias de envolvimento de agentes públicos e privados com o contraventor Carlos Augusto Ramos, o Carlinhos Cachoeira. Elogio ao relatório oferecido pelo Deputado Luiz Pitiman como relator substituto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c97e57b86b5093660fdb94f4dd12533a480b8cc5de2b26208b311247627b86
+size 290

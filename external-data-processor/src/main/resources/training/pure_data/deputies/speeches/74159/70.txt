@@ -1,1 +1,3 @@
-Elogio aos Líderes da base governista pelo empenho na votação da proposta de prorrogação do prazo de vigência da Desvinculação de Receitas da União - DRU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cde6f2551c599f6e055dfbfbd9f604e431675315084669e625dfa8925794d04
+size 163

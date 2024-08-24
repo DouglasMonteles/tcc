@@ -1,1 +1,3 @@
-Indignação com a apreciação da proposição relativa ao fim da exclusividade da PETROBRAS na exploração do pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcbfcf50bdf6bc6a5fd42f34951e05ba00c1a45ba345683878d65cf4064cfb22
+size 122

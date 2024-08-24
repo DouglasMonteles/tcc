@@ -1,1 +1,3 @@
-Natureza tendenciosa da manchete Polícia Federal faz operação para prender quem não recadastrou armas e tem mandado de prisão em aberto. Idoneidade do grupo de Caçadores, Atiradores e Colecionadores - CACs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:562f1218caa51845c93ae7c1cd3b2a38af09ca83cddf231a5ca6c48a6e01294d
+size 212

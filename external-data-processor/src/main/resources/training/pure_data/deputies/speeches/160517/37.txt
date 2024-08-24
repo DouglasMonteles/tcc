@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Deputado Severino Ninho, do PSB de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fb3d7c7170a780ff9975dcd34d65eed1a6ed1c4f6f26b200ea0d543613508fd
+size 79

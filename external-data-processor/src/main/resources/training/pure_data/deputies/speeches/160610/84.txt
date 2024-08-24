@@ -1,1 +1,3 @@
-Transcurso do 5º aniversário de promulgação da Lei Maria da Penha, coibitiva da violência doméstica contra a mulher. Estabelecimento de políticas públicas governamentais para as mulheres. Criação da Secretaria de Políticas para as Mulheres pelo Governador do Estado da Bahia, Jaques Wagner. Contrariedade ao editorial do jornal Folha de S.Paulo acerca do Movimento dos Trabalhadores Rurais Sem Terra - MST. Elevado número de famílias sem terra no País. Aumento do índice de assassinatos de trabalhadores rurais, especialmente da Região Norte. Imediata implantação da reforma agrária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67f7fe931d51f73b6b82ceb7f153a4ce743ca26f35e631221d58d0429474e6dd
+size 602

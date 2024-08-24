@@ -1,1 +1,3 @@
-O Deputado criticou partidos de esquerda por votarem contra o aumento de penas para crimes e os acusou de apoiar bandidos e a legalização da maconha. Elogiou o Prefeito de São José dos Campos, Estado de São Paulo, por proibir à realização de marcha pela maconha. Argumentou que o uso recreativo da maconha financia o crime e alertou sobre o risco de dependência de drogas mais pesadas. O orador, por último, expressou preocupação com reclamações de profissionais da segurança da Casa terceirizados sobre o não pagamento de direitos trabalhistas pelas empresas aos quais estão vinculados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31a806e3ec9db0a5c7df6849bb6361899242c158c2f1339089172005575142c4
+size 604

@@ -1,1 +1,3 @@
-Defesa de aprovação de projeto de lei, de autoria do orador, sobre estabelecimento de valores acima de 1 salário mínimo para os benefícios de aposentadoria previdenciária a trabalhadores rurais, conforme as contribuições do segurado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07ac161a29c9e135367f9139420aaa2a89ffad19b819130f216a78bb9e406eb7
+size 241

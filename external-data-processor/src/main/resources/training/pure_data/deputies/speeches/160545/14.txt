@@ -1,1 +1,3 @@
-Falecimento do Major Sandro Moretti, do 1º Batalhão da Polícia Militar do Estado de São Paulo. Indignação com os baixos soldos e as condições de trabalho de policiais militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c431f3417aae2316caca1d1eaf77df4b898eafa5e2e06815611ba49e5247ce4
+size 185

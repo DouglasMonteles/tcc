@@ -1,1 +1,3 @@
-Apelo à Presidenta Dilma Rousseff de reexame de vetos apostos a dispositivos da Medida Provisória nº 610, de 2013, favoráveis aos pequenos e médios produtores rurais nordestinos atingidos pela seca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:123c6e8801ee5807527d33f1a5e702abdf02fd51917b1a2b48d1046822c9eaf9
+size 203

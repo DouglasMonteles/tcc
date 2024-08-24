@@ -1,1 +1,3 @@
-Parecer, pela Comissão Parlamentar Mista de Inquérito sobre a Expoloração Sexual, à  Emenda Substituitva Global de Plenário ao Projeto de Lei 4.850 de 2005 (Altera dispositivos do Decreto-Lei 2.848 de 1940 - Código Penal, em especial do seu Título VI - para tipificar os Crimes contra a Liberdade e o Desenvolvimento Sexual, Crimes contra o Desenvolvimento Sexual de Vulnerável, Lenocínio, e do Tráfico de Pessoa para o Fim de Exploração Sexual; altera a Lei  8.072 de 1990- Crimes Hediondos).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee5fc25a3477025c37c8852248f593f25cf6551e06edb46db568f2779d8da605
+size 506

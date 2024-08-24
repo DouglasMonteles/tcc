@@ -1,1 +1,3 @@
-Desempenho do Complexo Portuário e Industrial de Suape, no Estado de Pernambuco. Expectativa de continuidade dos investimentos e das obras de ampliação e modernização do Complexo Portuário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cba585dc32861c11fac3b8853ab9542aaa308b50ed71a22246d140f54133641d
+size 195

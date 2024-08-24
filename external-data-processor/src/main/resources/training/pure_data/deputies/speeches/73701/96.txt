@@ -1,1 +1,3 @@
-Estabelecimento de parcerias entres os Governos do Brasil e da França para a construção de submarinos. Relevância do Programa de Desenvolvimento de Submarinos - PROSUB, da Marinha do Brasil. Lançamento pela Presidenta da República do Plano Brasil Maior, destinado à proteção da indústria brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1c5c6d0244d61553edec9d2a36564bbd4268c4746b54be5d8c1b21427204699
+size 309

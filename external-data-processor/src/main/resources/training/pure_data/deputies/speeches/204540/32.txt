@@ -1,1 +1,3 @@
-A Deputada agradeceu à Casa pela aprovação do requerimento de urgência para apreciação de projeto de lei que institui a Política Nacional de Atenção Integral à Pessoa com a Síndrome de Ehlers-Danlos e a Síndrome de Hipermobilidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:512cafad034f56c454e60e99b9517a87314fd11c4f727fb41f28596f255992d2
+size 243

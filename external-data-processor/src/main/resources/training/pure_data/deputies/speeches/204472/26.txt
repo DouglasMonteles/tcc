@@ -1,1 +1,3 @@
-Inexistência de crise entre os Poderes Legislativo e Executivo. Realização do leilão da Ferrovia Norte-Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a925bd52d269510a6f589297a64b1b826a06ac8504f210b000303648697c2625
+size 111

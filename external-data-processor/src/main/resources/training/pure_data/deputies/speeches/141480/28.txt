@@ -1,1 +1,3 @@
-Transcurso do 41º aniversário de fundação do jornal O Progresso, do Município de Imperatriz, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d6f4788876b29486a46cbbb7af16b4fe62635b8e5287285a847789f9c36c495
+size 118

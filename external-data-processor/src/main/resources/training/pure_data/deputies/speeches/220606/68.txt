@@ -1,1 +1,3 @@
-Solidariedade ao Ouvidor-Geral da Polícia do Estado de São Paulo, Claudio Aparecido da Silva, diante do recebimento de ameaças de morte em face da sua manifestação a respeito da operação realizada pela Polícia Militar no Município de Guarujá, na Baixada Fluminense, em represália ao assassinato do policial Patrick Bastos Reis, membro da ROTA - Rondas Ostensivas Tobias de Aguiar. Reexame da política de segurança pública com base na cultura da morte. Escalada da violência policial nos Estados de São Paulo, Rio de Janeiro e Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17aa7e75152984748f5a4db06ff5b00709530cae54dbc58d35c357488fa6a527
+size 548

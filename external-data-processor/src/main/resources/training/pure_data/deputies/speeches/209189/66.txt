@@ -1,1 +1,3 @@
-Elogio aos membros do Supremo Tribunal Federal, pela decisão contrária à prisão do réu após a condenação em segunda instância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc2c3eaad32935ab1e4f2089df52146893075d644185cd10fe7b6621a05fc3bd
+size 135

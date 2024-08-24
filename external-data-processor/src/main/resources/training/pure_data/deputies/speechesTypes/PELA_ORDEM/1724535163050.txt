@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 5º do substitutivo apresentado à Proposta de Emenda à Constituição nº 23, de 2021, sobre a alteração do regime de pagamento de precatórios pela União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e61726e5d985b682aa6187b3df5ff999d3a27d1f014c60baa1e217346dfeacf
+size 260

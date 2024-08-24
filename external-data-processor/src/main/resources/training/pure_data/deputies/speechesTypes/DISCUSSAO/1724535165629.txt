@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de Lei nº 4.459, de 2021, para obrigar a inclusão de informações sobre Transtorno do Déficit de Atenção com Hiperatividade (TDAH), dislexia, doenças raras e visão monocular; e facultar a inclusão de informações sobre animais domésticos nos censos demográficos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29bc765f2b88988fed025f9c24351c17993613a8d60b90d078eeb49093566334
+size 304

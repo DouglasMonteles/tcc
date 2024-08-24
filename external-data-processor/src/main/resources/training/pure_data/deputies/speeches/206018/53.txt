@@ -1,1 +1,3 @@
-A Deputada destacou a urgência de questões relacionadas às mudanças climáticas. Mencionou sua atuação como Sub-Relatora na Comissão que trata da repactuação do acordo sobre Brumadinho e Mariana e a importância de proteger os direitos das comunidades tradicionais afetadas por desastres ambientais. Destacou a relevância dos territórios indígenas na preservação do meio ambiente. Mencionou o Veto nº 30 que trata da tese do Marco Temporal, enfatizando a importância de proteger os direitos dos povos indígenas como parte fundamental da solução para a crise climática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05595879dc7a0bd549054a72fe5e55d46fd8f71fef5577a4dd5e8671148dc92b
+size 588

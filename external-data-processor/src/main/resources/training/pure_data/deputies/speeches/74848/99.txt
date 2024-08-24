@@ -1,1 +1,3 @@
-Sessão em homenagem ao Centenário de nascimento de Luiz Gonzaga, o Rei do Baião. (As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d230993d08aed8117986921c928a696762b193207d72db0882604cfe5886229
+size 209

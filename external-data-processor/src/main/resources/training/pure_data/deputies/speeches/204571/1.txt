@@ -1,1 +1,3 @@
-Presença, na Casa, dos Prefeitos Lourival Pereira Maia e Edivan Fernandes de Almeida, respectivamente, dos Municípios de Filadélfia e Monte Santo, e do Deputado Estadual Laerte Leandro de Araújo Fernandes, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c144515ba6b03cb23bf731728779e61c212493a742767b94a981230a3119aaac
+size 226

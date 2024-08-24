@@ -1,1 +1,3 @@
-Realização da Conferência Ibero-Latino-Americana da Associação Médica Mundial, em São Paulo, Estado de São Paulo, destinada à revisão e elaboração do novo Código Internacional de Ética Médica. Participação do médico sergipano Hesmoney Ramos de Santa Rosa no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42939fe2ec90a04631a92d94a2efc6b8a7a71922b1dfe5b3bfca828f536df14d
+size 283

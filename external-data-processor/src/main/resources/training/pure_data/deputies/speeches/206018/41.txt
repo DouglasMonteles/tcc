@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do requerimento de urgência para apreciação do Projeto de Lei nº 4.968, de 2020, que altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para determinar que as empresas disponibilizem a seus empregados informações sobre campanhas oficiais de vacinação, sobre o papilomavírus humano (HPV) e sobre os cânceres de mama, de colo do útero e de próstata.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7f71223454f348b474fe6e9b1d067fd127a5a28946543e96f5be27a03db552a
+size 464

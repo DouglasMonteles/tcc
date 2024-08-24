@@ -1,1 +1,3 @@
-Apresentação do Requerimento de Indicação nº 22, de 2019, ao Ministério da Justiça e Segurança Pública para investigação do envolvimento de milícias do Estado do Rio de Janeiro com instituições públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6660e3a737cfc19cdd59fd42590f985887d14fb78f287fc73d32314646597d40
+size 218

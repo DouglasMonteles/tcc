@@ -1,1 +1,3 @@
-Contrariedade à pretendida ampliação do Parque Nacional do Viruá e da Estação Ecológica de Maracá, no Estado de Roraima. Conciliação entre a preservação do meio ambiente e o desenvolvimento econômico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d933776ce9aa9a1aecfd894ccdb3f7ce8e65b45721344d40d2027610cd0f5a1b
+size 213

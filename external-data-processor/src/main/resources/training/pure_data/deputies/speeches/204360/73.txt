@@ -1,1 +1,3 @@
-A Deputada homenageou Ji-Paraná, conhecida como Coração de Rondônia, pela comemoração de seu aniversário de 46 anos de fundação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdf9f02c9cbf595598ce9efe80e60dfea847336980c5bca97003ef97ce2fd844
+size 137

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Congratulações à Presidenta da Caixa Econômica Federal, Maria Fernanda Coelho, e à Ministra-Chefe da Casa Civil da Presidência da República, Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bbc62789da05f06bb3e77e55dee214096ec77b453d842c4a2e18218513d6239
+size 206

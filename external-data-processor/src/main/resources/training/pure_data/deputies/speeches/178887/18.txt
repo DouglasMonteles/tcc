@@ -1,1 +1,3 @@
-Resultados econômicos obtidos pela Empresa Maranhense de Administração Portuária - EMAP no primeiro trimestre de 2015..
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f6a3d0d53d750b1177d41515499bdd5e48a133d9652fea47ce722a5c91e2ccc
+size 123

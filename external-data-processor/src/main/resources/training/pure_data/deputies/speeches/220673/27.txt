@@ -1,1 +1,3 @@
-O Deputado anunciou a presença na Casa do Vereador Junior Garra, do Município de Canaã dos Carajás, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d47d6c67517d02ee487e82334417f90afab700b19a53dc68b4e66c586fade97
+size 120

@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 591, de 2021, sobre o marco regulatório, a organização e manutenção do Sistema Nacional de Serviços Postais (privatização dos correios).
+version https://git-lfs.github.com/spec/v1
+oid sha256:28d8c920bedd8a264213e4881c7b7a6a7666df8e7bee382e929188fc3ac92ea9
+size 177

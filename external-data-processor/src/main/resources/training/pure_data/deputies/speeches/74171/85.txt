@@ -1,1 +1,3 @@
-Posicionamento favorável do PSOL ao  Projeto de Lei 7.198 de 2002 (Concede anistia post mortem  a João Cândido Felisberto, líder da chamada  Revolta da Chibata, e aos demais participantes do movimento).
+version https://git-lfs.github.com/spec/v1
+oid sha256:273393a8c828f6c629830b45400df1074b7d7e5bdbcffce431a60204120f22d8
+size 206

@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado pernambucano pela assunção do mandato parlamentar. Agradecimento ao ex-Presidente Jair Bolsonaro. Homenagem às mulheres brasileiras, em especial a familiares do orador, ao ensejo do transcurso do Dia Internacional da Mulher. Ilegalidade da prisão da Sra. Dilma Maria Cardoso. Apoio à instalação da CPMI destinada à investigação dos atos de vandalismo praticados contra as sedes dos Poderes da República. Criação da Frente Parlamentar Mista de Ética Contra a Corrupção. Apresentação de pedido de impeachment do Presidente Luiz Inácio Lula da Silva por prática de crime de responsabilidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:917e2e9df3b5da2d9b367f1d6858d158af47597c1ef277eddcb00270778033e9
+size 636

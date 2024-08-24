@@ -1,1 +1,3 @@
-Denúncia de desvio de recursos públicos pelo Movimento dos Trabalhadores Rurais Sem Terra - MST no Estado de Pernambuco. Defesa de continuidade dos trabalhos da CPI do MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b523cd2e25b617358eb76c4643cb82495b9ac0ad03aa9ee66c6abdb315dfa620
+size 174

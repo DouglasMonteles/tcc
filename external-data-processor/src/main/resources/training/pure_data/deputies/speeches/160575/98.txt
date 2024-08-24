@@ -1,1 +1,3 @@
-Ameaças à manutenção da Capital da República como Patrimônio Cultural da Humanidade. Implantação de sistema de transporte público de qualidade no Distrito Federal. Combate à especulação imobiliária e à grilagem de terras no entorno de Brasília. Razões do posicionamento da oradora contrário à construção do Bairro Noroeste na Capital da República. Apresentação, à Comissão de Direitos Humanos e Minorias, de proposta de realização de diligência no Estado de Mato Grosso do Sul para averiguação do assassinato de indígenas. Apelo ao Ministro da Educação, Fernando Haddad, de reexame da demissão do sindicalista Manoel Antônio Rodrigues.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4ea9b84f03476264461a3fd0be7169572649f9963ce4ff0ef3ba66e48a0fe6e
+size 670

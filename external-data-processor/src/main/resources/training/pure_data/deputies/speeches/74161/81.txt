@@ -1,1 +1,3 @@
-Importância da aprovação da proposta de emenda à Constituição sobre a Defensoria Pública. Registro de voto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21b3cd2dd8e866a84e12e16a69d69934f876959d5ccbcf8a04e72bf77a5c9dde
+size 114

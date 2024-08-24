@@ -1,1 +1,3 @@
-Transcurso do aniversário de emancipação político-administrativa do Município de Santa Rita de Cássia, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ed80209896bb280248cf088a9cbf38d392b923f39a1113fbbf411c057517165
+size 125

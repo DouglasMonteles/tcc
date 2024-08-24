@@ -1,1 +1,3 @@
-Agradecimento pelos votos favoráveis a emenda aglutinativa relativa à implantação de cota para mulheres no Parlamento. Expectativa de aprovação de matéria equivalente pelo Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb7e634ead099eba1f04c268aecc25ce60a395549ec4794358570416eaaf4331
+size 194

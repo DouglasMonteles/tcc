@@ -1,1 +1,3 @@
-Acerto da extinção, pelo Senado Federal, do fator previdenciário adotado na correção de aposentadorias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db22fa7be23c0c7b9250667bf2461311a5d3cfd69efd0aac009411e7b356a920
+size 108

@@ -1,1 +1,3 @@
-Lançamento do livro Mensalão - Diário de um Julgamento, pela Escola de Direito da Fundação Getúlio Vargas do Rio de Janeiro, na cidade, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f182374abeab253c724a6a3c01c94b35b62a8184875089277a3230ed0028a384
+size 167

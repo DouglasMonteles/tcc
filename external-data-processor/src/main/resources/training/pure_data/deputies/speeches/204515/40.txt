@@ -1,1 +1,3 @@
-Esclarecimento à sociedade brasileira sobre a realização de mobilizações pró-bolsonaro no dia 7 de setembro de 2021, e de manifestações do Grito dos Excluídos pelo afastamento do Presidente da República, no dia 12 de setembro de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c01eb5ae99aece2d132d3145968d99124b15fa8f3bffc33a5cb7467658a969b
+size 244

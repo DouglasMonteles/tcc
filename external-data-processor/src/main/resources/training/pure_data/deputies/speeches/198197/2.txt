@@ -1,1 +1,3 @@
-Empenho da bancada do AVANTE na aprovação da Medida Provisória nº 875, de 2019, sobre o Auxílio Emergencial Pecuniário para famílias de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a04bf8b5918ac6ac4743998a7cd195ba4414ca4f23311cd0bd5bf7fe113f619
+size 178

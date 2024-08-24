@@ -1,1 +1,3 @@
-Inconsistência de denúncias apresentadas contra o Senador Delcídio Amaral e o orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c9366274bf39c5bebfb3afa64e5d0b6e4f91858d1194633fdc3582467ff652d
+size 88

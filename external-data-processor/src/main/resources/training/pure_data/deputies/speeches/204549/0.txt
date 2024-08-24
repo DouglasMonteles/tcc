@@ -1,1 +1,3 @@
-Falecimento do ex-Deputado Federal Vicente Arruda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09ee26aef8ef264564fc2dc10c7248360e52b124f69e594ca7cccc1d1bd09e15
+size 50

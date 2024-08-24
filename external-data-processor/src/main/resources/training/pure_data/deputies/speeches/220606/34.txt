@@ -1,1 +1,3 @@
-Presença, na Câmara dos Deputados, da Subsecretária de Inclusão Socioprodutiva da Prefeitura Municipal do Rio de Janeiro e da Presidenta do Conselho Nacional de Assistência Social, Margareth Alves Dallaruvera.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d557394e5f4a5fc23087f849e2a8cc34b51413226d1022dde43820dbbb080f55
+size 214

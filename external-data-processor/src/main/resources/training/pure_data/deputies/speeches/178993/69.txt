@@ -1,1 +1,3 @@
-Expectativa de aprovação da Proposta de Emenda à Constituição nº 443, de 2009, que fixa parâmetros para a remuneração dos advogados públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:687f603f932173b5d624f4194f435ce83ddeed3fae3d3c1b1df84fdc2f2d28d5
+size 151

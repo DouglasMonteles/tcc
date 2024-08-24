@@ -1,1 +1,3 @@
-Desqualificação dos membros da Comissão de Segurança Pública e Combate ao Crime Organizado pelo Ministro da Justiça e Segurança Pública, Flávio Dino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1493b458db0f519dcc930c7a7ca6fa6b8e0a26b38ca58785a71779dee5c1f343
+size 158

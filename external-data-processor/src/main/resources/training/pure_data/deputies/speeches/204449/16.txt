@@ -1,1 +1,3 @@
-Repúdio às inquirições de Deputados da Esquerda ao Ministro da Justiça e Segurança Pública, Sérgio Moro, na Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:475acfccb7697ba5ac7fad7a5de33b260c078e5cd5d9b960a4ddae290e951ea2
+size 170

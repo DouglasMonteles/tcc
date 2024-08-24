@@ -1,1 +1,3 @@
-Transcurso dos aniversários de emancipação político-administrativa dos Municípios de Suzano, Jacareí, Mogi Guaçu, Juquiá e Caçapava, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:459d34544545cd9f9b4ae9bd91b3b55a454f2c101e663f684ff2cfc9c0f96b3a
+size 163

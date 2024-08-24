@@ -1,1 +1,3 @@
-Redução da taxa básica de juros, taxa SELIC, pelo Banco Central. Atribuição da retomada do crescimento econômico às políticas do Governo Federal e à atuação do Parlamento brasileiro. Impactos positivos da aprovação da medida provisória sobre a concessão de rodovias, ferrovias e aeroportos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6349140671dc6af16b5a386bdfd9b67f5787fa972581d207764739f973bf4ed8
+size 305

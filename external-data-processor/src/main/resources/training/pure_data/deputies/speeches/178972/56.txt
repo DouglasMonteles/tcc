@@ -1,1 +1,3 @@
-Orientação da respectiva bancada. Falta de condições para o exercício interino da Presidência da Câmara dos Deputados pelo 1º Vice-Presidente, Waldir Maranhão. Posicionamento do PPS por mudança na Direção da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc51970bb72b75d9fedbf2645f9f668958a372abb07b34016c9553df60e59c0d
+size 225

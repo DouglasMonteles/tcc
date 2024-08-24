@@ -1,1 +1,3 @@
-Lançamento pelo Ministro das Comunicações, Fábio Faria, do edital do leilão da tecnologia 5G, próxima geração da rede de Internet móvel. Encaminhamento, à Pasta, de requerimento de indicação para inclusão das escolas públicas brasileiras no edital. Pedido ao Ministro Fábio Faria de universalização dos serviços de Internet no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab3769e395c6992d83a0acd99fc442482b5e9450d6bc150fdc03ebc755008c5f
+size 351

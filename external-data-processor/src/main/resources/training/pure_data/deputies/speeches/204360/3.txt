@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Requerimento nº 500, de 2019, sobre a instalação de Comissão Temporária Externa destinada ao acompanhamento de casos de violência doméstica contra a mulher e de feminicídios no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeb41d84fd57565fe8abffe8f426657ed859fd76c3d226ac36ecbd387997e725
+size 231

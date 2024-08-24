@@ -1,1 +1,3 @@
-Encerramento da 17ª Conferência Nacional de Saúde, realizada sob o tema Garantir Direitos, defender o SUS, a Vida e a Democracia - Amanhã vai ser outro dia!. Repúdio às ofensas desferidas contra o Presidente Luiz Inácio Lula da Silva. Declínio do nível de debates no plenário da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31568a0af031b501d5ed42980e1054de079c783fc004fa55a6e34f138195331b
+size 311

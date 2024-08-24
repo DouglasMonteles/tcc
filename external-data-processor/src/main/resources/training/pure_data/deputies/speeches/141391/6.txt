@@ -1,1 +1,3 @@
-Questionamento acerca das vantagens para os usuários com a anunciada compra da operadora de telefonia Brasil Telecom pela empresa Oi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a375b4502a1df40f23a4e01bdeb18169e0973a17909d16e3c2a683e181894caa
+size 134

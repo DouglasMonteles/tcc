@@ -1,1 +1,3 @@
-Homenagem póstuma ao Senador e ex-Presidente da República Itamar Franco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbd8f2ce3451421f854e4654054771fac3b0c5c8441cd696889e8e30d90666fd
+size 74

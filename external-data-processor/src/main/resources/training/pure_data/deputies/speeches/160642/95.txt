@@ -1,1 +1,3 @@
-Saudações aos eleitores pernambucanos. Aprovação do orçamento impositivo pela Casa. Relato das emendas orçamentárias apresentadas pelo orador. Expectativa de votação da proposta de regulamentação da emenda constitucional sobre a criação do piso salarial nacional e do plano de carreira dos agentes comunitários de saúde e dos agentes de combate às endemias. Apoio à Proposta de Emenda à Constituição nº 300, de 2008, sobre a instituição do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bad7e46f336ea62445c3e8d13c8fe55c32ab973c9a4dd796e485e925ca37a428
+size 521

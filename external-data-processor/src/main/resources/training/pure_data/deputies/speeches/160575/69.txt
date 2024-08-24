@@ -1,1 +1,3 @@
-Eficácia e transparência da gestão do Presidente do Banco de Brasília - BRB, Edmilson Gama da Silva. Necessidade de investigação de ameaças de morte contra o presidente da instituição bancária e seus familiares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d28c3786b55a6d031d6e7da03fda9eba5ebcc0b02bf1084086b41481144706a
+size 221

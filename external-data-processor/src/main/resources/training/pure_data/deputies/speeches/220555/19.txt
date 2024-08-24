@@ -1,1 +1,3 @@
-A Deputada registrou a visita do Prefeito Genes e do Vice-Prefeito Alberto de Paim Filho, no Rio Grande do Sul, que solicitaram apoio para a criação de um espaço de cuidado para a população idosa da região. Destacou o compromisso da Casa com a responsabilidade política em relação aos idosos, ressaltando a importância de cuidar daqueles que contribuíram para a sociedade. A presença dos representantes municipais simboliza esse compromisso e a valorização da memória e do passado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98a24c9a209e5bf7f2a4bfe6dc6c0389ccc0e6379246757ba6d757819a606d6c
+size 496

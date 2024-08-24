@@ -1,1 +1,3 @@
-Aplausos ao povo brasileiro pela mobilização contra o Projeto de Lei nº 2.630, de 2020, a respeito da instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news). Ineficiência da gestão do Ministro da Justiça e Segurança Pública, Flávio Dino.&nbsp;Descaso do governo petista com as áreas de saúde, segurança pública, educação e geração de empregos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e7b47ea969f13da3cbdaf250d2193ad3f13728c542d05b9099afc088466b010
+size 428

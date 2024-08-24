@@ -1,1 +1,3 @@
-Agradecimento aos Parlamentares, à Consultoria Legislativa e outros pela participação na elaboração do novo texto da Medida Provisória nº 944, de 2020, relativa à instituição do Programa Emergencial de Suporte a Empregos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a905d0f4a36054859b659b6eff6a67647405ed2942a88b4e6e5a598e3f8eabec
+size 231

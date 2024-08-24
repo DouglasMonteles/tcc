@@ -1,1 +1,3 @@
-A Deputada proferiu parecer ao Projeto de Lei nº 2.975, de 2023, que introduz a situação específica da mulher indígena na legislação de enfrentamento da violência e de promoção da saúde e da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0956e894595adcbb9eb40b7ff4dbb08d4a58d38111aeb5175b76cf5c728355ea
+size 213

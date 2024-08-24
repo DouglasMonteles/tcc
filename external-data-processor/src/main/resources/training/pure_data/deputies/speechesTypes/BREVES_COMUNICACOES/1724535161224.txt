@@ -1,1 +1,3 @@
-Visita do orador à Santa Casa de Misericórdia de Valença, no Estado da Bahia. Fortalecimento das instituições filantrópicas no País. Atuação do orador contra a corrupção. Assinatura do requerimento de instauração da CPMI destinada à investigação do envolvimento do contraventor Carlos Augusto Ramos, o Carlinhos Cachoeira, com agentes públicos e privados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce27b57c58fa7615f58770abf38de2fc048a73e9e3be7213413fc2f53ab26aed
+size 372

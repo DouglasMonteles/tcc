@@ -1,1 +1,3 @@
-Liberação da Bancada do PMDB para votação da  Emenda Plenário 2, destacada, à Subemenda Substitutiva Global de Plenário ao Projeto de Lei 4.361 de 2004 (Declara os Centros de Inclusão Digital - CID (Lan Houses), relativa à exigência de cadastro com dados pessoais e endereço de usuários de Lan Houses .
+version https://git-lfs.github.com/spec/v1
+oid sha256:64440fc88e5c26161bd9e5de1ad89eabc88a087c5d95fd26387d8977d1f4f902
+size 314

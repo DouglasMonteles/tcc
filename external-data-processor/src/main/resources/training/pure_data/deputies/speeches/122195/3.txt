@@ -1,1 +1,3 @@
-Desempenho insatisfatório das exportações paraibanas. Conveniência de investimentos federais para realização de obras de manutenção, melhoramento e infraestrutura no Porto de Cabedelo, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d60f8e855b266957da0ef06788132ee29a7dcdeccd586fa24b395bf9cc7dc081
+size 212

@@ -1,1 +1,3 @@
-Participação do orador em audiência concedida pelo Ministro da Defesa, Nelson Jobim, ao Governador do Amazonas, Eduardo Braga, para discussão de medidas emergenciais para melhoria dos aeroportos em cidades do interior do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec5d8eb8801bb3ebf39de95d2e48e4a9bba8dfb92bcfe79956b2a725736da4eb
+size 232

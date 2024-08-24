@@ -1,1 +1,3 @@
-Realização da III Conferência Nacional dos Direitos da Pessoa com Deficiência. Compromisso do Brasil com a defesa dos direitos desse segmento populacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7f322726c44f01c64b1d8b0b57728d97fcc4c2ba28410de1436a3051d20d6b6
+size 159

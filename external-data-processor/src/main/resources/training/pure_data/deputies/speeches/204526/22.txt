@@ -1,1 +1,3 @@
-Apoio à autonomia e independência do Banco Central do Brasil. Esclarecimento da sua missão institucional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f02693e7fa6e83310bd93d47fea2bf673907271162d4d8737e4f7cebf5db064d
+size 108

@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda 43, destacada, ao Projeto de Lei de Conversão da Medida Provisória 528 de 2011 (Altera os valores constantes da tabela do Imposto sobre a Renda da Pessoa Física), que objetiva a dedução das despesas com educação. Defesa da aprovação da emenda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a6ab799b0741f069d3b8a96f62bab3973f031c1dac2e7a1258bbb2009202cb
+size 290

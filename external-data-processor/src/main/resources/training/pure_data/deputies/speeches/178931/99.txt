@@ -1,1 +1,3 @@
-Realização de audiência pública, na Assembleia Legislativa do Estado do Paraná, para debate do Projeto de Lei nº 6.437, de 2016, sobre formação dos agentes comunitários de saúde e dos agentes de combate às endemias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcee1491210c3c62b050ff54a18d3247c15f8cc4b720ccb63a3e33bef188e665
+size 226

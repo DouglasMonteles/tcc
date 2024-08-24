@@ -1,1 +1,3 @@
-Consulta à Presidência sobre a votação da proposta de recolhimento de recursos do Imposto sobre Serviços de Qualquer Natureza - ISS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b7421849c134c2cf270608adbc78c4b58c59d53a5cb0ae63a05e31bbe68a1f6
+size 137

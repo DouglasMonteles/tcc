@@ -1,1 +1,3 @@
-Cobrança ao Ministério dos Transportes de recuperação do trecho da BR-364 entre os Municípios de Ouro Preto do Oeste e Ariquemes, Estado de Roraima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:840ea80045749db8ec315ce155a7b24551a7fae650bcbc8508c32a9e50d360e2
+size 153

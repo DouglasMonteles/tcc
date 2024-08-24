@@ -1,1 +1,3 @@
-Congratulações ao Ministro do Supremo Tribunal Federal, Luís Roberto Barroso, pela promoção de audiência pública destinada ao debate de candidaturas avulsas. Necessidade da contenção de ações de grupo de partidos políticos, em conluio, para fortalecimento próprio e criação de ditadura partidária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d480fe03347fbccabdb5b2c0576e9d10ad2696aa4c5aec7c4e7ba4c4979da1c
+size 313

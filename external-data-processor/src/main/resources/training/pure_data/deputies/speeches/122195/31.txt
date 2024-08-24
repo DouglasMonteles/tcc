@@ -1,1 +1,3 @@
-Congratulações ao cidadão Remígio Querubino Neto, em decorrência do atendimento, pelo Conselho Nacional de Justiça, de seu pleito em favor da designação de juiz de direito para a Comarca de Coremas, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11436046d7b1d6132ba2b4cd410864c2c84990d54279a0c4eb9ed39dbcd8efee
+size 226

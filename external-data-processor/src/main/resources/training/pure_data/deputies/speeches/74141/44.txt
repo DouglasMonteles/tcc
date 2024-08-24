@@ -1,1 +1,3 @@
-Imediata instalação da Universidade Federal do Sul da Bahia nos Municípios de Ilhéus e Itabuna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3df6c8ed56494bb3180f8aed03a7af09df92df17e6129cb23837ded2b88aa14
+size 99

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Homenagem às mulheres brasileiras, especialmente à genitora do orador, Sra. Terezinha Duarte Câmara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2b26fa104ee0adb42d55c0bb31633abff65343e369617eb9b6d55822e7be718
+size 146

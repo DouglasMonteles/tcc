@@ -1,1 +1,3 @@
-Reajuste nos preços de alimentos, combustíveis, energia elétrica e gás de cozinha. Cenário de desemprego reinante no País. Imediata aprovação pela Casa de proposta de inclusão, em programas sociais, das populações em situação de insegurança alimentar. Necessidade de reajuste do benefício do Programa Bolsa Família. Agravamento das desigualdades sociais brasileiras em meio à epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a3d02bc844fc9d1a0448d9178b484c613db256f360f5685b36eea5f2e329547
+size 418

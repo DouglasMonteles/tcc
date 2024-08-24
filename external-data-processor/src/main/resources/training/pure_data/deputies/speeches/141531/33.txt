@@ -1,1 +1,3 @@
-Inauguração do Ginásio Poliesportivo Osni Geraldo Gonçalves, no Município de Mariana, Estado de Minas Gerais. Elogio à Administração do Prefeito Celso Cota, na municipalidade. Cumprimentos ao Vice-Prefeito Duarte Júnior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2079ef115a64e98e76c74b96d1bb2a9575ca9b75ccf0dc3b836b13a0e751818
+size 229

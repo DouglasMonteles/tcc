@@ -1,1 +1,3 @@
-Revogação da decisão do Presidente do Supremo Tribunal Federal, Ministro Dias Toffoli, a respeito da comunicação de crime por parte do Conselho de Controle de Atividades Financeiras  - COAF, atual Unidade de Inteligência Financeira. Defesa de aprovação, pelo Congresso Nacional, de proposta favorável à prisão de condenados em segunda instância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b3ad96789c4d1a8f91f5b88e646d03ae836df16303667d57151d69ce06c0dbb
+size 357

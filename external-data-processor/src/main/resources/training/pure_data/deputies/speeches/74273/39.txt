@@ -1,1 +1,3 @@
-Combate à pirataria no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac811bf914ca37a9c818a6c02774d004f9ea4b0c1bc96c46a31a4fa51c389320
+size 30

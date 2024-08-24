@@ -1,1 +1,3 @@
-Reexame da redução salarial de profissionais da educação pela Prefeitura Municipal de Nova Friburgo, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2af0e1241c6c0bebf297d113af5a73c41548b7f1a6788c6f89a7634b00958453
+size 130

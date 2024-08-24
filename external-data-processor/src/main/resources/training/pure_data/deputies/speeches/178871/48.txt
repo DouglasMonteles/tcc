@@ -1,1 +1,3 @@
-Regozijo pela participação do orador na Comissão de Turismo. Elogio a iniciativas do Ministro do Turismo, Marx Beltrão. Atuação do orador em defesa da exploração do turismo marítimo e do agroturismo no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ed223bc5eba31ecbb7cdafd1bc913c17dc57fd5cb883f88c197dbd22ba2983e
+size 237

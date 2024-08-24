@@ -1,1 +1,3 @@
-Regozijo com a relatoria, pela oradora, do Projeto de Lei nº 5.230, de 2013, que dispõe sobre regulamentação e base de tributação do salão-parceiro e do profissional-parceiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a2a29974119417a22ccdf36ad00051577cebb82ef74d70f5dabd014ef4283ac
+size 182

@@ -1,1 +1,3 @@
-Posicionamento do orador favorável à aprovação do projeto de lei sobre a permissão à empresa Petróleo Brasileiro S/A - PETROBRAS da transferência parcial, a terceiros, de áreas contratadas no regime de cessão onerosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:923636e6ac6be5ca0af2999335e59aaa1ec0d030824b32f2410dadf3dd9bde57
+size 227

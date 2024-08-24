@@ -1,1 +1,3 @@
-O Deputado expressou indignação com os eventos de agressão física na sessão. Exigiu uma resposta firme do Conselho de Ética diante da gravidade da situação, destacando que a falta de ação poderia encorajar uma escalada de violência no Congresso. Enfatizou a importância de uma decisão exemplar para preservar a integridade da Casa e enviar um sinal claro à sociedade sobre a inaceitabilidade de comportamentos violentos no ambiente parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e16e8a236a1b3eec1d8b5cebe3b32a1468305047e852e0db0a0b7a5e5fe92ee6
+size 458

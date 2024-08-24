@@ -1,1 +1,3 @@
-Repúdio à decisão do Tribunal de Contas da União - TCU de paralisação de obras públicas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af8907786c2fe1485a986b1cf4dc3e08422f711d898e01617e4e16c601f5182e
+size 104

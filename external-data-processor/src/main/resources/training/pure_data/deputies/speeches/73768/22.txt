@@ -1,1 +1,3 @@
-Realização dos Jogos Olímpicos e Paraolímpicos de 2016 no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd85e4907507d6e8973bf6118155dc87732b1190a5cf37a5d946888714969a64
+size 103

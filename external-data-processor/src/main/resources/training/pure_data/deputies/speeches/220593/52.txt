@@ -1,1 +1,3 @@
-Regozijo com a aprovação do Projeto de Lei do Congresso Nacional nº 5, de 2023, sobre abertura ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, de crédito especial no valor de R$ 7.300.000.000,00, para assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios para o pagamento do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc09ff9759ed4f8f7f71ada5ccc4ee581f25a5b584c15357f46d90387f6aab12
+size 415

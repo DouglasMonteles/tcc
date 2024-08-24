@@ -1,1 +1,3 @@
-Debate de medidas de combate aos efeitos da seca na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5daf3ff151909951fa03f7bf5e0188ab8b5c2fdf221b76b62efc8a48e8b2bf78
+size 69

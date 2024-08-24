@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de apoio para a aprovação de emenda do orador à Medida Provisória nº 675, de 2015, que eleva a alíquota da Contribuição Social sobre o Lucro Líquido - CSLL por pessoas jurídicas de seguros privados e de capitalização, entre outras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:583bf71de3a10dc203bcb4a76a28e11d3b52d179930382cbe3ccbb38b1c3b2c2
+size 268

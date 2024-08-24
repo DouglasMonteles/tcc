@@ -1,1 +1,3 @@
-Encaminhamento da votação do parecer da Comissão Mista, quanto ao não atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, à Medida Provisória nº 998, de 2020, sobre a alteração de diplomas legais e a transferência, para a União, das ações de titularidade da Comissão Nacional de Energia Nuclear, representativas do capital social das Indústrias Nucleares do Brasil S/A e da Nuclebrás Equipamentos Pesados S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:847841f76351f9d40d37a1772a67c147bec509ae50913fcd76a15e10bf7b9744
+size 495

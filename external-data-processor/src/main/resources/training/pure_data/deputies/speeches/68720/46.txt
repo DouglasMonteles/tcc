@@ -1,1 +1,3 @@
-Apoio à Proposta de Emenda à Constituição nº 372, de 2017, sobre a criação das polícias penais federal, estaduais e distrital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afd1f627ef437d0a6c621ff6ce0ebfb17783eb2c0bbddcd50b00c64d403c5c01
+size 134

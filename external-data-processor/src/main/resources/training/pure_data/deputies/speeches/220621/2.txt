@@ -1,1 +1,3 @@
-Inoportunidade da viagem da Governadora do Estado do Rio Grande do Norte e comitiva à Europa. Repúdio à matéria veiculada pela imprensa potiguar sobre o possível apoio do orador ao Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f01d01a081f8684b7bd1aba05609115d641b2d98df2f32b92e83972ac1ab884b
+size 221

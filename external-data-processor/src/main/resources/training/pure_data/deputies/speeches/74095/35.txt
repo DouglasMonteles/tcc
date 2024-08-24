@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de quebra de interstício para verificação de votação do Requerimento de adiamento, até a sessão ordinária seguinte, da apreciação da Medida Provisória 511 de 2010 (Dispõe sobre medidas para assegurar a sustentabilidade econômico-financeira do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, sobre autorização para garantia do financiamento do Trem de Alta Velocidade - TAV, no trecho entre os Municípios do Rio de Janeiro - RJ e Campinas - SP, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bdff0cc2b7e62e62b55c4d97de4aab3637b3435e0ea6184e1fbe396e7c4f4b5
+size 547

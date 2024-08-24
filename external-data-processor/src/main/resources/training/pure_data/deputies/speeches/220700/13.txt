@@ -1,1 +1,3 @@
-Lançamento do novo Programa de Aceleração do Crescimento - PAC. Inclusão, no PAC, das obras de duplicação das BRs-343 e 316 e da nova Barragem dos Algodões, no Estado do Piauí. Transcurso do 179º aniversário de emancipação político-administrativa do Município de Parnaíba. Retomada das obras de urbanização e drenagem dos Bairros São Vicente de Paula, Joaz Souza e Santa Luzia na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fc71ee7c3a65f882e4d12376fb5dddfd7c9bac5206c86c057831c7fcfc77d46
+size 413

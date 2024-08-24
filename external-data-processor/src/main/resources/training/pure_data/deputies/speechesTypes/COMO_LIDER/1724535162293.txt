@@ -1,1 +1,3 @@
-Convite aos Deputados de participação na Festa do Peão de Barretos, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da967fd68c8f8aa2a14b3e597f9c11989fc22e299b2c06d99b2ba17c3d4689db
+size 92

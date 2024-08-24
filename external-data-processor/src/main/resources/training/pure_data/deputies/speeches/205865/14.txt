@@ -1,1 +1,3 @@
-Contestação ao discurso proferido no plenário a respeito de perseguição à Igreja Católica, por parte da Agência Brasileira de Inteligência - ABIN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8bc4b1ffbd8137567497cb03da89e64070774d92acf5653f6988c072b2094d5
+size 155

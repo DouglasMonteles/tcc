@@ -1,1 +1,3 @@
-O Deputado criticou o Governo do Presidente Lula ao completar 11 meses, citando vários aspectos negativos que ele acredita terem retornado com a gestão atual, como apoio ao MST, aumento de impostos, violência, problemas em eventos governamentais, apoio a ONGs, ditadores, e o impacto negativo nas relações internacionais. Concluiu que o período representa um desgoverno e reforçou o compromisso da oposição política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d273b2952ef43e30e807e05eac2cd9e6eba23211e47dc69842b94af8d08819d
+size 426

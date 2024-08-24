@@ -1,1 +1,3 @@
-Pedido aos Líderes partidários e ao Presidente do Congresso Nacional, Senador Davi Alcolumbre, de inclusão na pauta do Veto Parcial nº 48, de 2020, aposto ao Projeto de Lei nº 1.581, de 2020, sobre o disciplinamento de acordo estabelecido com credores para o pagamento, com desconto, de precatórios federais e de acordo terminativo de litígio contra a Fazenda Pública, e a destinação dos recursos deles oriundos para o combate à Covid-19. Apelo ao Presidente Jair Bolsonaro de revogação da Portaria Interministerial nº 3, de 2020, relativa à alteração dos parâmetros operacionais do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB para o exercício de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a46334d4bc968c109cccaead9f8d101e2e5ac909f35566dbbee5df5c28635b2
+size 749

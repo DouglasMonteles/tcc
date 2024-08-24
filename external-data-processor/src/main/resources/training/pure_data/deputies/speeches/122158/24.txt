@@ -1,1 +1,3 @@
-Defesa de aprovação, pelo Plenário, do Projeto de Lei Complementar nº 343, de 2017, sobre instituição do Regime de Recuperação Fiscal dos Estados e do Distrito Federal, relatado pelo orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14da02ae064c9bbfdddb8273ba43dd9a054df0657538765b7e56f78f51ccefe0
+size 198

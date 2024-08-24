@@ -1,1 +1,3 @@
-Incoerência do Supremo Tribunal Federal demonstrada no impedimento da nomeação, pelo ex-Presidente Jair Bolsonaro, do Delegado Alexandre Ramagem para Diretor-Geral da Polícia Federal, e no apoio à indicação, pelo Presidente Luiz Inácio Lula da Silva, do nome do seu advogado Cristiano Zanin&nbsp;Martins para membro da Suprema Corte. Apresentação pelo orador de ação popular contra a nomeação do causídico para a Suprema Corte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45a86b6a59132edf82b58747dc20808c6444cdbd65aa80dcf85b45e856211372
+size 442

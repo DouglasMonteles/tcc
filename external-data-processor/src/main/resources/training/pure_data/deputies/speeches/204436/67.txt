@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento, por uma sessão, da discussão da Medida Provisória nº 1.031, de 2021, sobre a desestatização da empresa Centrais Elétricas Brasileiras S/A - ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a234c1f7c0b09ca43ba64f3c03f645acbaa02d02ba5e1290f71d24964ec99b9
+size 225

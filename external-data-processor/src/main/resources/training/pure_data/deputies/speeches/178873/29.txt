@@ -1,1 +1,3 @@
-Defesa da cassação do mandato do Deputado afastado Eduardo Cunha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ddea5f16a3fd028104319f7378effb6f349ca559658e27eace48fdda8e70a6f
+size 67

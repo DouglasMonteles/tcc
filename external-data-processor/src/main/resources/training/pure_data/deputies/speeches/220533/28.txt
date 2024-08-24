@@ -1,1 +1,3 @@
-O Deputado parabenizou a Bancada Negra da Câmara pela aprovação do Dia Nacional de Zumbi e da Consciência Negra. Também&nbsp;abordou a proposta de construção do bairro Centro Metropolitano, no Distrito Federal, expressando preocupações com impactos ambientais, problemas de trânsito e falta de investimento no metrô. Ele denunciou a falta de transparência em uma audiência pública sobre o tema promovida pelo Instituto Brasília Ambiental (IBRAM) e reafirmou seu compromisso de fiscalizar o cumprimento da lei, assegurando que a população não aceitará a construção do novo bairro sem a devida conformidade legal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdfa75f231970752fe796e9e7d150ae18c069979f17a39a828ce7cf121b49690
+size 632

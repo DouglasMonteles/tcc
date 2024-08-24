@@ -1,1 +1,3 @@
-Realização de seminário sobre a agricultura familiar, no Município de Anagé, e do Seminário Inclusão Social e Produtiva, no Município de Vitória da Conquista, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb380e7a1d9ecc9312a8a4d7130910ddad4e69e19c3d1b07e4db9e4d76e1fd8b
+size 184

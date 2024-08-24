@@ -1,1 +1,3 @@
-Protesto contra a invasão de instalações da Caixa Econômica Federal em Belém, Estado do Pará, por membros do Movimento dos Trabalhadores Rurais Sem Terra - MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a450ad20697dac41a22353eb150b06f08b898e1fa9863d5804e386e64247438
+size 166

@@ -1,1 +1,3 @@
-Relato sobre emendas orçamentárias apresentadas pela bancada federal do Estado de Tocantins. Balanço da atuação parlamentar do orador. Dinamismo do Presidente Eduardo Cunha na condução dos trabalhos da Casa. Elogios ao Líder da bancada do PMDB, Deputado Leonardo Picciani.
+version https://git-lfs.github.com/spec/v1
+oid sha256:780240321af1325fa1a342e7773510064f48c454ed9654ec3d745f7548439090
+size 280

@@ -1,1 +1,3 @@
-Presença, na Casa, dos Prefeitos dos Municípios de Barreiras e de Luís Eduardo Magalhães, Estado da Bahia. Razões da visita do Ministro dos Transportes, Paulo Sérgio Passos, ao Município de Barreiras. Eleição do novo Presidente da Casa. Pedido à Presidência de criação de Comissão Especial destinada ao exame da proposta de emenda à Constituição a respeito do estabelecimento de medidas em prol do Semiárido nordestino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a35ea4f7325eac29e2d0cad81bd7b69ed05e9535c4b73748f8632096a0cfe06a
+size 437

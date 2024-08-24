@@ -1,1 +1,3 @@
-Transcurso de aniversário do golpe militar de 1964. Defesa do regime democrático de governo. Repúdio à ditadura militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c738da6eea7f73a8d12234bbadc15be17c1ecbfc6ef87eaea9fcf916f9f9b1b
+size 124

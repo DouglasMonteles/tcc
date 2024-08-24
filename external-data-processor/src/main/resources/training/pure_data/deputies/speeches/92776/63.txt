@@ -1,1 +1,3 @@
-Escalada de sequestros-relâmpago no País. Fatores determinantes do recrudescimento da violência e criminalidade. Realização de investimentos governamentais na educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a17293c7d1b74d34b9ff85c63ae19921d3ab09c5527ef23be7443ace075e1116
+size 175

@@ -1,1 +1,3 @@
-A Deputada discutiu o Projeto de Lei Ordinária nº 1.435, de 2023, que dispõe sobre a obrigatoriedade da afixação de cartazes ilustrativos sobre o método pré-hospitalar denominado Manobra de Heimlich nas instituições de ensino e para outros nos estabelecimentos. Compartilhou sua experiência pessoal em que sua neta foi salva graças à Manobra de Heimlich realizada por um soldado do Exército, enfatizando a importância dessa manobra na prevenção de engasgos e paradas cardiorrespiratórias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3272410ed88e39068ab941b684b12b2af599569d5635f33d606f407c85badb5
+size 505

@@ -1,1 +1,3 @@
-Expectativa de apresentação de proposta de emenda à Constituição com vistas à prorrogação dos atuais mandatos de prefeitos e vereadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58b3fdc7a0b062287e1dd2203b90b77818b1ed2cddcafac3165732d9a02ad113
+size 144

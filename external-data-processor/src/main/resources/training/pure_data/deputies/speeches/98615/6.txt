@@ -1,1 +1,3 @@
-Necessidade de promoção de eficiência econômica com justiça social e garantia das liberdades individuais. Transcurso do centenário de fundação do Hospital Misericórdia, localizado no Município de Blumenau, Estado de Santa Catarina. Homenagem ao presidente da instituição, Hellmuth Danker.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9242aa737543678bf70211f528cb93a9360ac6e616931e9f291f78f053b6bc18
+size 300

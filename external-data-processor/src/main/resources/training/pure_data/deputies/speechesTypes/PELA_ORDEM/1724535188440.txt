@@ -1,1 +1,3 @@
-Congratulações aos membros da CPI da Violência contra Jovens Negros e Pobres pela aprovação do relatório final. Agradecimento ao Presidente Eduardo Cunha pela instalação da Comissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eb754f7813c1a80b1915149cbdc4ac622aa06b6f5284a84b2fafe8311aa819d
+size 191

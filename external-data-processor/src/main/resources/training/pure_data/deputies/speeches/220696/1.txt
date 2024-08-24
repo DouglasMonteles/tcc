@@ -1,1 +1,3 @@
-Regozijo com a retomada dos festejos carnavalescos no Estado da Bahia. Elogio ao Governador Jerônimo Rodrigues e ao Vice-Governador Geraldo Júnior pela adoção de medidas de segurança pública. Repúdio às agressões à mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bf186da089b9507f9efbf0e48c330ce17f8921d62756899e66533280130a37a
+size 232

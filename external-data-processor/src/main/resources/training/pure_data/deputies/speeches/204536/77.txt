@@ -1,1 +1,3 @@
-Agradecimento a Líderes partidários e Parlamentares pelo apoio ao Projeto de Lei nº 848, de 2020, sobre alteração da Lei nº 5.991, de 1973, acerca do Controle Sanitário do Comércio de Drogas, Medicamentos, Insumos Farmacêuticos e Correlatos, com vista à validade de receita de fármacos durante surtos epidêmicos. Importância de manutenção do isolamento social para combate à disseminação do coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99aa4c9691f1e39366ad946ba3074ed8cbcdec01256ae5a368a2ec2db78fef4a
+size 422

@@ -1,1 +1,3 @@
-Alerta aos Deputados sobre problemas decorrentes de eventual instalação de Comissão Parlamentar de Inquérito relacionada à PETROBRAS. Elogio à gestão da Sra. Maria das Graças Silva Foster à frente da empresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65974643d941db8ada96f245c93f77a8559a8e83b14302de63fbd4a452e236db
+size 217

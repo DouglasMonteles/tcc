@@ -1,1 +1,3 @@
-Diferença substancial entre as operações realizadas pela Polícia Federal para investigação do desvio de milhões de reais pelos governos petistas, e para busca e apreensão do certificado de vacinação do ex-Presidente Jair Bolsonaro. Descaso do Governo Federal com a situação das BRs-364 e 317, no Estado do Acre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1d51fa537e849cb4d56ef88ed6161efcb162162816001de968182091b9c896a
+size 323

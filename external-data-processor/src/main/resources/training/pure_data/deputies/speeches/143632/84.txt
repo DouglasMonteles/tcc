@@ -1,1 +1,3 @@
-Questão de ordem acerca da possibilidade de encaminhamento de orientação pela obstrução da votação por Vice-Líder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2417c9a61c033d5216ac62a5df0f144c1a03210d38092bd1ea266376e0c4e14f
+size 122

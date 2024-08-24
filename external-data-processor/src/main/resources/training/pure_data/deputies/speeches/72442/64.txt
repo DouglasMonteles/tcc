@@ -1,1 +1,3 @@
-Convite aos Deputados para participação em encontro promovido pelos produtores de eventos, no Hotel Royal Tulip, em Brasília, Distrito Federal. Agradecimento ao Presidente Arthur Lira pela inclusão na pauta do Projeto de Lei nº 5.638, de 2020, sobre a criação do Programa Emergencial de Retomada do Setor de Eventos - PERSE. Apelo à Casa de aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:499136fec32b742a2fc811ed66d2013f07ebdda6bea6daa585db939f0bbfcac0
+size 376

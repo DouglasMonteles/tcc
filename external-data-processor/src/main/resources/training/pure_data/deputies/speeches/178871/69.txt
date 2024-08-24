@@ -1,1 +1,3 @@
-Realização da 26ª Festa do Produtor Rural, no Município de Jaguaré, e do II Festival do Cacau e Chocolate, no Município de Domingos Martins, Estado do Espírito Santo. Aprovação, pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, do Projeto de Lei nº 1.712, de 2015, sobre a obrigatoriedade de adoção de medidas de restrição a importações. Transcurso do Dia de São Pedro, Padroeiro do Município de Cachoeiro de Itapemirim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b236c71074e2bc1e1cb950ee2097074ae6c8d0d11cb3d785995875859a4d04c6
+size 469

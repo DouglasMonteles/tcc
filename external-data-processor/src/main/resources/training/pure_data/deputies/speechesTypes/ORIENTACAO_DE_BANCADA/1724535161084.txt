@@ -1,1 +1,3 @@
-Orientação da Bancada do DEM para obstrução da votação do Requerimento de tramitação em regime de urgência do Projeto de Lei nº 757, de 2011, (Institui o Cultura Viva - Programa Nacional de Cultura, Educação e Cidadania, estabelece normas para seu funcionamento, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5abcf5a2f36fcd6662c0ab86d0cba1a13f00f190cd2e8a52be944f7c3f1a63c
+size 303

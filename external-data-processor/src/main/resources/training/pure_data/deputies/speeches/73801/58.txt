@@ -1,1 +1,3 @@
-Elevado número de óbitos e de casos confirmados de coronavírus no País. Luta empreendida por Governadores e Prefeitos Municipais contra a Covid-19. Votação pela Casa do Projeto de Lei Complementar nº 39, de 2020, do Senado Federal, referente à instituição do Programa Federativo de Enfrentamento ao Coronavírus. Defesa de supressão do art. 8º da propositura, pertinente ao congelamento de despesas obrigatórias e dos salários do funcionalismo público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac3061e869882aff38efac3246adfd1405e9042e4b4bc8fd3e27382e2d0b100e
+size 467

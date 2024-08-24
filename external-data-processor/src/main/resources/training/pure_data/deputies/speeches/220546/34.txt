@@ -1,1 +1,3 @@
-O Deputado expressou indignação com a falta de justiça em casos recentes de violência. Mencionou vítimas de homicídios no Rio de Janeiro e em Mato Grosso do Sul, além da morte de Cleriston Pereira da Cunha, que estava detido na Penitenciária da Papuda por participação nos atos antidemocráticos em Brasília. Criticou o sistema judiciário e a soltura de criminosos em audiências de custódia. Fez um apelo para que o Senado utilize suas prerrogativas e pare com o ativismo judiciário, buscando restaurar a confiança na justiça no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fe251bb0461c42a902ea6da240c5ed365c1561438fce7d1823923dd2967be07
+size 553

@@ -1,1 +1,3 @@
-Envolvimento da revista Veja com organização criminosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52ccb002a386936a36f946707ed8287cbae808afb504d7bdd0ae86e896ba1716
+size 57

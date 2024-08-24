@@ -1,1 +1,3 @@
-Evasão escolar e queda no aprendizado do alunato dos ensinos fundamental e médio, em decorrência da epidemia de coronavírus. Realização de amplo mutirão de recuperação da educação pública brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a300cf0fd445f5febf11389e2aca7c7b65fe34b04a28bb3c91376323ea6979ea
+size 211

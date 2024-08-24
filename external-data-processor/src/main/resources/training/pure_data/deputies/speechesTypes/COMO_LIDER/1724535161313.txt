@@ -1,1 +1,3 @@
-Divulgação, pelo Ministério do Turismo, do roteiro da Copa do Mundo de Futebol de 2014. Apelo ao Ministro Gastão Dias Vieira de inclusão no roteiro turístico da Festa de São João do Município de Caruaru, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3370dee37665a7d19c607ce218731f45ef89d8cdf358b0c1a69ce71d7c84e08
+size 234

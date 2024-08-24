@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado paranaense pela recondução da oradora à Casa. Aplausos ao Conselho Nacional de Educação pela inserção de cuidados paliativos nas diretrizes curriculares do curso de medicina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3277ad8550e9b20a80dca444b458cd1b9fa8f76905dc97b3f814a5f81b79f61c
+size 209

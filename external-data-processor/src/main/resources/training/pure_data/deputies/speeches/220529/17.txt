@@ -1,1 +1,3 @@
-Transcurso do cinquentenário de fundação da Igreja Batista Fonte da Vida, instalada no Bairro Ilha do Príncipe, em Vitória, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12f962c54242840843f069c4fab274e36a4e8fcd46189b5e71e8f629f324092f
+size 155

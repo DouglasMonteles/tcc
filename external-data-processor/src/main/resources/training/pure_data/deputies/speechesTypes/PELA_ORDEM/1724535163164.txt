@@ -1,1 +1,3 @@
-Retirada da candidatura do Sr. Antônio Ernani Pedroso Calhao a membro do Conselho Nacional de Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f2eddadb5469b1650929703b06dba2accca30e28a13a906b25cac0b60e93197
+size 104

@@ -1,1 +1,3 @@
-Fatores determinantes da crise mundial de alimentos. Existência no País de condições para produção de biocombustíveis sem redução das áreas destinadas ao cultivo de alimentos. Desobstrução da pauta de votações da Casa. Defesa de aprovação da Proposta de Emenda à Constituição nº 333, de 2004, sobre a recomposição numérica das Câmaras Municipais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f2257373eb1cc4f69b5f2338ac648acf2f201e9a530cb8cfc0ff86c5aa191a7
+size 382

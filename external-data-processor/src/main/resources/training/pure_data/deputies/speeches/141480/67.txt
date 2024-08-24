@@ -1,1 +1,3 @@
-Presença, na Casa, de Vereadores dos Municípios de Xambioá e Araguatins, Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2010150a8e34c8219e5d66b49a40749cc92b6f32cdc2010c2b82bd49f5be6b66
+size 96

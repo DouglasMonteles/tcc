@@ -1,1 +1,3 @@
-Posicionamento do orador sobre a criação de CPMI para investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República. Necessidade de esclarecimento da tentativa, pelo ex-Presidente Jair Bolsonaro, de apropriação de joias doadas ao Brasil pelo governo saudita.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28764a62dcd2412054ecbebffe54e63fcfd46176fe922187204b2a2393a391c2
+size 294

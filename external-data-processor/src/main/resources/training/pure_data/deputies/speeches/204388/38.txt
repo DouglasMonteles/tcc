@@ -1,1 +1,3 @@
-Exploração do potencial turístico brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7583e23be8f656c0b33e49446dbc5cb085fe7c3101ce1fca83a0ca1a45af4ab8
+size 48

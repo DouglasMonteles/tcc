@@ -1,1 +1,3 @@
-O Deputado criticou a atuação política de Ministros do Supremo Tribunal Federal (STF), desrespeitando o princípio da harmonia entre os Poderes. Repudiou a indicação do Ministro da Justiça Flávio Dino para o STF, reprovando a politização do Poder Judiciário. Afirmou que o indicado não será imparcial e nem defenderá a Constituição como Ministro do STF. Por fim, defendeu a rejeição do indicado pelos Senadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6031251ad0000e5f4b532e41c716a07c3700408374a631e27bd18557ca0ad2b9
+size 428

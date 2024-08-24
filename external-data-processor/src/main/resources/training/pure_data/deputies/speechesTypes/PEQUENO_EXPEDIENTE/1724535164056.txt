@@ -1,1 +1,3 @@
-Solicitação ao Ministério do Meio Ambiente e ao IBAMA do pagamento do benefício do seguro-desemprego aos pescadores do Estado da Paraíba, em face do início do período de defeso do caranguejo. Agradecimento ao eleitorado paraibano pelos votos concedidos ao PDT nas eleições municipais de 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc695791d22b9c012a90717fb271bfd18fa87bea5cedac1ed2051a3458353c07
+size 301

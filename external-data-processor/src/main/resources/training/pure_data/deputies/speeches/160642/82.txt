@@ -1,1 +1,3 @@
-Posicionamento contrário à liberação das drogas no País. Repúdio à atuação de lobistas da indústria de bebidas alcoólicas na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ddb89155308b80b95715abbd01503583e62c83dc6a256558108ea40c62a4394
+size 158

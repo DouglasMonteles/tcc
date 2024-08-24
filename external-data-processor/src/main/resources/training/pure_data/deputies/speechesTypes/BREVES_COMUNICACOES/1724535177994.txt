@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Saudações às mulheres brasileiras em nome de Parlamentares. Participação feminina na política. Ocupação de cargos públicos e privados por mulheres no País. Celebração de missa por ocasião do transcurso dos 71 anos de falecimento do Vigário João Luis Orione, no Santuário Sagrado Coração de Jesus, no Município de Araguaína, Estado do Tocantins. Trajetória da vida e obra do beato Dom Luis Orione. Solidariedade ao povo japonês, diante da ocorrência de desastre natural no país, e à luta da população libanesa contra o regime ditatorial reinante no país. Apresentação do Projeto de Lei nº 2.742, de 2008, a respeito de inserção no currículo escolar da disciplina sobre educação no trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77c8de673693523ef996e00f2413cc4615e1f3ada1d50233f815ea1d9ec6c79d
+size 769

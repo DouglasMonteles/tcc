@@ -1,1 +1,3 @@
-Questão de ordem sobre a condução dos trabalhos da sessão na ausência do Presidente da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1512aa71d3500166f3cf73f4d0644001affc3ae84beb5fda12d64adbaab30a68
+size 97

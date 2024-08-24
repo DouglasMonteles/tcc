@@ -1,1 +1,3 @@
-Regozijo com a aprovação de requerimento de urgência para a votação do Projeto de Lei nº 1.434, de 2011, sobre a instituição do Fundo Nacional de Assistência ao Estudante de Nível Superior - FUNAES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:087f389b7e5480447b1d1484f523697988b43f6bb950195b5e0fe0951cf321ec
+size 208

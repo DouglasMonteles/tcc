@@ -1,1 +1,3 @@
-Corrupção e mentiras como marcas do governo petista. Prática de estelionato eleitoral pelo Presidente Luiz Inácio Lula da Silva. Críticas às políticas ambiental e econômica do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8290845f7d95f872f1fcf545d83775a067b17de590166de9db96707368775e3
+size 200

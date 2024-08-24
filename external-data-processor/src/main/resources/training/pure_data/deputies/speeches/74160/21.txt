@@ -1,1 +1,3 @@
-Relato da visita do orador a municipalidades situadas na Zona da Mata, no Vale do Jequitinhonha e no norte de Minas Gerais. Urgente necessidade de preservação das nascentes e da biodiversidade mineiras. Escassez de água enfrentada pelos habitantes da região do Vale do Jequitinhonha. Imediata adoção, pelos Governos Federal e Estadual, de ações para reversão das graves consequências de agressões ao meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6d26ed924476f97dd0914a0061e829684954cc3f6bc292c3c47836ff2f0b3df
+size 425

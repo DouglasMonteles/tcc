@@ -1,1 +1,3 @@
-Teor de emenda oferecida pelo orador à Medida Provisória nº 998, de 2020, sobre a alteração de diplomas legais e a transferência, para a União, das ações de titularidade da Comissão Nacional de Energia Nuclear, representativas do capital social das Indústrias Nucleares do Brasil S/A e da Nuclebrás Equipamentos Pesados S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a06bb7620bc12572574f6811698a44264e304398d3b5ddc113ef403b3ab860a
+size 336

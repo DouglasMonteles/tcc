@@ -1,1 +1,3 @@
-Homenagem póstuma ao  ex-Presidente da Associação Nacional Pró-Vida e Pró-Família, Humberto Leal Vieira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74f6da58409e35ce969f8926488b5c063e167890a28f3fc8a2260910b8faa8e9
+size 110

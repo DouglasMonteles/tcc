@@ -1,1 +1,3 @@
-Perspectiva de incremento do setor de turismo em decorrência das alterações na malha da companhia Gol Linhas Aéreas no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2123e219139b890a1041a2e94ce5653ae8582f12507eb21c8d0ca0aea05aceb6
+size 143

@@ -1,1 +1,3 @@
-Greve dos servidores do Poder Judiciário do Estado da Bahia, em protesto contra a morosidade da Assembléia Legislativa na votação do projeto de lei sobre a reestruturação de suas carreiras. Solidariedade da oradora às reivindicações da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55bb4e27061c180d69a517876f102c679054efe05494d37d888b1101fe537a95
+size 255

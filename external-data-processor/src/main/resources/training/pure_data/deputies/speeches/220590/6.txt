@@ -1,1 +1,3 @@
-Transcurso do 107º aniversário da Polícia Militar do Estado do Acre. Histórico do processo de criação da corporação militar acriana. Classificação da Polícia Militar do Acre em último lugar no ranking nacional da corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccc2821144badb04f9f9afdbd8a3178126adcd88a7da4b26cd8dbd686a0f6549
+size 237

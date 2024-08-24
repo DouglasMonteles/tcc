@@ -1,1 +1,3 @@
-Importância da reforma da Previdência Social. Defesa de realização de reforma previdenciária pelos Estados e Municípios brasileiros. Apoio às reformas tributária e do sistema financeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:423048e8cbb680034eb6bd0565fd8ef86f4e707fcc94f61d9ab585ecab316cdb
+size 194

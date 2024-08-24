@@ -1,1 +1,3 @@
-Influência do marketing promovido por empresas do setor alimentício sobre o aumento das taxas de obesidade. Importância da prática de alimentação saudável. Expectativa de continuidade das ações positivas de combate à obesidade, promovidas pelo Ministério da Saúde, pelas Secretarias Estaduais e Municipais de Saúde e por organização não governamentais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce1b835740a3184cb7ccf8f36d82df0ff1e620b278cf2ab408e9ae6f54e14d8e
+size 368

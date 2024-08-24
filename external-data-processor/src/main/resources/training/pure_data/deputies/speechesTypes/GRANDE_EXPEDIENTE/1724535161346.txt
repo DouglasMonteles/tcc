@@ -1,1 +1,3 @@
-Balanço da atividade parlamentar do orador no desempenho do mandato eletivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:971b8651ed53d36df10cbb497021ecb4ff94a3e3b76cc42380e648e7f813ad6f
+size 77

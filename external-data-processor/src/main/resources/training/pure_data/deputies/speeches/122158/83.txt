@@ -1,1 +1,3 @@
-Declaração de voto contrário à aprovação do Projeto de Lei Complementar nº 270, de 2016, sobre a alteração da Lei de Responsabilidade Fiscal para vedação da aplicação de sanções a Município por extrapolação do limite de gastos com pessoal, no caso de queda de receita.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78bd74fe5823071ef750b54bbd0b951664033085c84ab31e56513c75c5b41fee
+size 286

@@ -1,1 +1,3 @@
-Aguardo de notificação sobre a anunciada expulsão da oradora dos quadros do PSL. Repúdio às acusações dos Deputados Júnior Bozzella e Nereu Crispim contra a Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45cb06153d0e6bba566316a3fdcfcfbd5a603821d7a3a60322f8ec9fe3b4c98d
+size 177

@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PSB/PCdoB/PMN/PRB  ao Projeto de Lei 4.667 de 2009 (Institui o Ato Olímpico, no âmbito da administração pública federal, com a finalidade de assegurar garantias à candidatura da cidade do  Rio de Janeiro a sede dos Jogos Olímpicos e Paraolímpicos de 2016 e estabelecer regras especiais para a sua realização, condicionada a aplicação desta Lei à confirmação da escolha da referida cidade pelo Comitê Olímpico Internacional).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4328a1385295db281b16d27dda75f61f4bd29bc71df9307b8d34661c998aeca2
+size 476

@@ -1,1 +1,3 @@
-Elevação dos índices de violência no Estado da Bahia durante os governos petistas, notadamente na gestão do ex-Governador Rui Costa. Retrocesso da área educacional na administração do ex-gestor estadual. Protesto contra a indicação da Sra. Aline Peixoto, esposa do Ministro-Chefe da Casa Civil da Presidência da República, Rui Costa, para o cargo de Conselheira do Tribunal de Contas dos Municípios do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18fa2e83ab2e96b7f5c5be5e8b9d3fb33bee347f06deb9519ffec1f6be92115a
+size 431

@@ -1,1 +1,3 @@
-Pedido aos Deputados de aprovação do Projeto de Lei nº 2.998, de 2023, sobre a instituição do Programa Nacional de Cuidados para Pessoas com Fibromialgia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbcbbdf3199ebe804ecbd45ec127df868831b773c8e8d2032fe766c15c063eb8
+size 159

@@ -1,1 +1,3 @@
-Cumprimentos ao Deputado Jovair Arantes pela recondução ao cargo de Líder do PTB na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39098f4c9bd461fbcaec41075e77b3a81c071798db0827ff6a8066e73f95bbcc
+size 109

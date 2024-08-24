@@ -1,1 +1,3 @@
-Solidariedade à Deputada Julia Zanatta diante do assédio sexual praticado por Deputado do PCdoB do Maranhão, durante audiência realizada pela Comissão de Segurança Pública e Combate ao Crime Organizado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5ce40136fa55918504f033d49e6d08cf48b120ad90dcc946fa136b42f0267ef
+size 209

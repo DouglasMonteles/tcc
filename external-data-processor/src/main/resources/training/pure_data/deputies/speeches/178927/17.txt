@@ -1,1 +1,3 @@
-Indignação com as medidas de repressão adotadas pelo Governador do Estado do Paraná, Beto Richa, contra professores da rede estadual de ensino e demais funcionários públicos, mobilizados contra mudanças no sistema previdenciário estadual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73a28d0c6d0751469ca9c9fa9e463dfe03814fadbda6355c6b9be41c75e79f04
+size 246

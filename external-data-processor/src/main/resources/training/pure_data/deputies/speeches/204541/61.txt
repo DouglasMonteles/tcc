@@ -1,1 +1,3 @@
-Solidariedade ao povo do Estado do Acre. Apelo ao Presidente Arthur Lira e aos Líderes partidários de votação, em regime de urgência, do Projeto de Lei nº 457, de 2021, sobre a alteração da Lei nº 13.979, de 2020, relativa às medidas de enfrentamento da emergência de saúde pública decorrente do coronavírus, com vista à utilização temporária, pela população civil, de leitos vagos nos hospitais das Forças Armadas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:290fb7aca23aa2fbc667292f9d0ca5b8a61cc2cc381f803360ac6edb1ece6978
+size 448

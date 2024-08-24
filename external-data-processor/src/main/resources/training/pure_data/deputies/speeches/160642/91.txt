@@ -1,1 +1,3 @@
-Relevância dos trabalhos desenvolvidos pela comunidade evangélica em prol da recuperação de dependentes químicos. Luta do orador pela restrição de propagandas de bebidas alcoólicas nos meios de comunicação. Repúdio às acusações de movimentos dos setores de psiquiatria e psicologia contra a atuação de comunidades terapêuticas. Importância do apoio governamental aos trabalhos sociais promovidos pelas igrejas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fefbcd1c60c1390183a33af40b6a25fea6c4105afa80886a36830f18d4d55398
+size 428

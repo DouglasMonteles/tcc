@@ -1,1 +1,3 @@
-Pesar pela ocorrência de acidente ambiental no Município de em Mariana, Estado de Minas Gerais. Empenho do orador na captação e fornecimento de água às populações atingidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c9314d9eaefaa28df71bc4bf722a8682f3fb3c93e096026d53dcf7a1add6258
+size 181

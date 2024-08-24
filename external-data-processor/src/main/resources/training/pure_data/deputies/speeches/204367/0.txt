@@ -1,1 +1,3 @@
-Saudações à comitiva do Município de Braço do Norte, Estado de Santa Catarina, presente no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a5d08e2bd2e2ccd871a4b5384f9f956e8118f2dbc3ebc6544cb56e0a1ac99c0
+size 106

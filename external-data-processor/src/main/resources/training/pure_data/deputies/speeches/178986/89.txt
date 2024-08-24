@@ -1,1 +1,3 @@
-Eleição do orador para a Presidência da Comissão de Meio Ambiente e Desenvolvimento Sustentável. Agradecimento aos Deputados do PT pela indicação do orador à função.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19b66e731059536752e9e46641e2e92237603ee2632b719f2b0d28c3025ef647
+size 175

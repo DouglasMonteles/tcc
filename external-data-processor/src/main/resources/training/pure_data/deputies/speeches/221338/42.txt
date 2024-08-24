@@ -1,1 +1,3 @@
-Repúdio a desmandos do Secretário da Educação do Estado de São Paulo, Renato Feder. Premência de adoção de providências pelo Ministério Público contra medidas irregulares adotadas pelo Secretário Renato Feder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2e7977840c1be8263e58c04449557366739bc1fa14b2da3f1b2961812e7277d
+size 221

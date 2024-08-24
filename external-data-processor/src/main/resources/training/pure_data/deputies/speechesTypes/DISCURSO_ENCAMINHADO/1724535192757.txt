@@ -1,1 +1,3 @@
-Sanção pela Presidenta Dilma Rousseff de lei sobre a atividade dos permissionários lotéricos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e686343b579b5a0e16813233ca6b693c047eb1398a54643396a8d1bc22d67cf
+size 106

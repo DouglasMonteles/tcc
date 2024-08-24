@@ -1,1 +1,3 @@
-Orientação da respectiva bancada. Manifestação de interesse em votação da Emenda Aglutinativa nº 57 antes da votação da Emenda Aglutinativa nº 58.
+version https://git-lfs.github.com/spec/v1
+oid sha256:549b87f63646110171f7364c3a7359e7c14e03c45ec987d5ba6cd9d046cd949f
+size 156

@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de encerramento da discussão e do encaminhamento da votação do Projeto de Lei nº 7.596, de 2017, a respeito dos crimes de abuso de autoridade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:422d0f8880fd51dd09d4baa5b54b819f80ce2825748d3b078f630a5526e5f27d
+size 190

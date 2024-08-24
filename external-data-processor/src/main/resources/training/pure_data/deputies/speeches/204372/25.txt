@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 897, de 2019, acerca da instituição do Fundo de Aval Fraterno; do patrimônio de afetação de propriedades rurais; da Cédula Imobiliária Rural; da escrituração de títulos de crédito e da concessão de subvenção econômica para empresas cerealistas. Acerto da decisão do Governador do Distrito Federal, Ibaneis Rocha, de cancelamento dos festejos carnavalescos na Esplanada dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67fa9f832b87f04d9a3812bedef065b6c844657f0860a7bf2b567d151abfa476
+size 502

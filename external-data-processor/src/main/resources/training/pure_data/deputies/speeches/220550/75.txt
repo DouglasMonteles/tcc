@@ -1,1 +1,3 @@
-O Deputado expressou indignação em relação aos discursos que tentaram relativizar o ataque terrorista ocorrido em Israel, manifestando repúdio e vergonha. Criticou a tentativa de justificar atos inaceitáveis, como estupros e colocação de crianças em jaulas, comparando essa atitude à retórica utilizada por Hitler durante o Holocausto. Destacou a importância de condenar os atos de terrorismo e repudiou aqueles que minimizam a gravidade do que ocorreu em Israel. Também citou possíveis retaliações de Israel e preocupação com a manipulação da narrativa pela imprensa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ef232e83538168592c534668165a1482718589fa2e4b91ffa10be1c81edffe7
+size 588

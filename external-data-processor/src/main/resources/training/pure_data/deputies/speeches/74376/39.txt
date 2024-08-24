@@ -1,1 +1,3 @@
-Aprovação, pela população brasileira, do desempenho do Presidente Luiz Inácio Lula da Silva e de seu Governo, segundo dados de pesquisa CNT/Sensus. Defesa da escolha da cidade de Campo Grande, Estado de Mato Grosso do Sul, para sede de jogos da Copa do Mundo de Futebol de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40f4e35264e81ff2ba39ee2ca0430c42b02f09ddfa37d564b1d5a576e2814336
+size 283

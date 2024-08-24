@@ -1,1 +1,3 @@
-Orientação de bancada na votação da admissibilidade dos destaques simples apresentados à Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental. Expectativa quanto à realização de manifestações pelo País em defesa da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efe83d29bad812c355d2f603f28c0dde9c6947a5f3bc4f8e3be4ef3e5f2fb21d
+size 302

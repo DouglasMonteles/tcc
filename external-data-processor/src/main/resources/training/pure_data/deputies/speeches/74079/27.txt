@@ -1,1 +1,3 @@
-Saudações aos manifestantes presentes nas galerias do plenário para acompanhamento da votação da proposta de criação de novos Municípios no País. Apelo aos partidos oposicionistas de suspensão da obstrução das votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21a3ec1aa9f0a9d796336401ced09171fc0e4fca8747b82d70179b5d02167e1c
+size 233

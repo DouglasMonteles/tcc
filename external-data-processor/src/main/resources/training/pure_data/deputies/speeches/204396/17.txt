@@ -1,1 +1,3 @@
-Desempenho insatisfatório da Refinaria Presidente Getúlio Vargas, da empresa Petróleo Brasileiro S/A - PETROBRAS, instalada em Curitiba, Estado do Paraná. Defesa de quebra do monopólio exercido pela PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff1ab523feba0c62bddcfb877235879f6873727724ad3fe4f6938d43fd470e64
+size 214

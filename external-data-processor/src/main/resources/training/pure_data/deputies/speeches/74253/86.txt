@@ -1,1 +1,3 @@
-Pedido de demissão do Chefe da Força Nacional de Segurança Pública, Coronel Adilson Moreira. Nota do Coronel com críticas à Presidente da República, Dilma Rousseff. Preocupação com a vacância do cargo diante da iminência do início dos Jogos Olímpicos e Paraolímpicos Rio 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43d6d8ba60aa9ecf0a2496b1d3fad1f0c619dad65311686af4f9c2bcd1afa41e
+size 290

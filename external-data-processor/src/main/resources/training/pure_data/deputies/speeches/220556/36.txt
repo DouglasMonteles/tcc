@@ -1,1 +1,3 @@
-Balanço positivo dos 100 primeiros dias do Governo Luiz Inácio Lula da Silva. Natureza estratégica da viagem oficial do Presidente da República à República Popular da China.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a6d44d8380dce0e9f7ea16587765d6020211e1e3b318f711ff5a38088010f12
+size 179

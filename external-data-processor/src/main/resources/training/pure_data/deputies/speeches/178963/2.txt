@@ -1,1 +1,3 @@
-Falecimento do ex-Vice-Governador do Estado do Rio Grande do Sul, Otávio Germano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2cd971306d61fc37d1dfa4b6396840adc263b2aa850b5a324cc0bd1a8a29fbc
+size 82

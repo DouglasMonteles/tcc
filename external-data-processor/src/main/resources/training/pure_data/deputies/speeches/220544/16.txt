@@ -1,1 +1,3 @@
-Compromisso do orador com a defesa dos interesses da população tocantinense. Atuação do orador como Presidente da Câmara Municipal de Porto Nacional e como Presidente da Assembleia Legislativa do Tocantins. Realizações do Governador Wanderlei Barbosa nos setores de educação, saúde e infraestrutura. Compromisso com a conclusão das obras do Hospital do AmorRelançamento do Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12c988b225a1f315efa33cff574916202747665747d14bc7cc0c65c6293770b5
+size 417

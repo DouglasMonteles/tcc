@@ -1,1 +1,3 @@
-Transcurso do primeiro ano do término dos trabalhos da CPI dos Fundos de Pensão. Consequências dos trabalhos da CPI para a recomposição dos fundos de pensão. Dever do Parlamentar de fiscalização da aplicação de recursos públicos pelo Governo e outras entidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:667804abc7ff56aab97c1ef49b880d256fd83f75a323b68442324c536cf0ad76
+size 272

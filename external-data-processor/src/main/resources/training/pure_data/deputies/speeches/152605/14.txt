@@ -1,1 +1,3 @@
-Ampliação dos cursos oferecidos pela Universidade Federal Fluminense. Instalação de mais um Centro Federal de Educação Tecnológica — CEFET no Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f48cf20ad55eed468976c7e796dbe6135da350b7b18aee83df2d38633c77ab74
+size 176

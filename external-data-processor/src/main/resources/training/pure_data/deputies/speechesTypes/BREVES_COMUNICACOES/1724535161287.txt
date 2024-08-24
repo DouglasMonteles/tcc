@@ -1,1 +1,3 @@
-Posse do Deputado José Pimentel no cargo de Ministro da Previdência Social. Urgente aprovação, pelo Senado Federal, da proposta sobre a limitação das despesas e a composição numérica das Câmaras Municipais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a4c34ae268eed38c0d83a9f72d49520306f20b0f792812fcdb5ac3d93f5074a
+size 228

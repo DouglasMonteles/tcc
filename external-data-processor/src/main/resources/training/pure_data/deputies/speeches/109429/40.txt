@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Governador do Estado do Rio Grande do Norte, Geraldo José da Câmara Ferreira de Melo. Sucesso da sua trajetória política e profissional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b603b1f0045f9f17abc59f0ca3e52ebec3343f751fb56455333baefc3a0f622f
+size 165

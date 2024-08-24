@@ -1,1 +1,3 @@
-Presença no plenário de diretores da Câmara Regional de Optica e Optometria do Espírito Santo. Lançamento da Frente Parlamentar da Optometria. Congratulações aos optometristas brasileiros, especialmente capixabas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ee6e089e8255c8d3feafc237000cb53cc614c315eb087985ee663e8e34a237a
+size 220

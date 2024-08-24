@@ -1,1 +1,3 @@
-Equívoco da política adotada pelo Governo Jair Bolsonaro para gestão da empresa Petróleo Brasileiro S/A - PETROBRAS. Protesto contra a privatização das empresas Petróleo Brasileiro S/A - PETROBRAS e Centrais Elétricas Brasileiras S/A - ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f58add173b93eee18124e0898031e4cf74b4cb38d383d29cab2411701e142899
+size 255

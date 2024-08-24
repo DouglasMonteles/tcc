@@ -1,1 +1,3 @@
-Participação do orador, em Vitória, Estado do Espírito Santo, em ato do Deputado Jair Bolsonaro a favor do impeachment da Presidenta da República, Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b8ad2a360054396c840862c37eb17c38c568bf11b66b9abbf9ec3b0425ccbbc
+size 167

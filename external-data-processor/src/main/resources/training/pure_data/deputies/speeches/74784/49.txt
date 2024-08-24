@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional de Ação pela Saúde da Mulher e do Dia Nacional de Combate à Mortalidade Materna. Descumprimento de lei sobre a garantia do atendimento a gestantes pelo Sistema Único de Saúde - SUS. Concessão do Prêmio Dr. Pinotti - Hospital Amigo da Mulher a entidades da área de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d78ae035ea9ce5d623ca8ad4fba4e6cd7d4ba8a5bed350a102b7904100b6a3f2
+size 312

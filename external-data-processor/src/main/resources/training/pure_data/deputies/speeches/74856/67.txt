@@ -1,1 +1,3 @@
-Defesa da não privatização da Companhia Estadual de Águas e Esgotos do Rio de Janeiro, não obstante a gravidade da situação econômica do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cf0d12e0f02e10134ccfa6b676be26806ac6cae4c4e9a6ef5d118e413036400
+size 152

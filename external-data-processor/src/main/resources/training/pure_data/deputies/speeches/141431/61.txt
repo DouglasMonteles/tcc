@@ -1,1 +1,3 @@
-Relevância dos projetos de lei, do Poder Executivo, a respeito do marco regulatório da exploração de petróleo na camada pré-sal, em especial o Projeto de Lei nº 5.940, de 2009, sobre a instituição do Fundo Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba7fdc1c6d3de6867018072167423882fbe01614b09edeb2ddc6f8c55f2ea00e
+size 222

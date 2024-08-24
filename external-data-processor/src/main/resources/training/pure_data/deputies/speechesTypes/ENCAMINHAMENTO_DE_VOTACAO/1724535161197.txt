@@ -1,1 +1,3 @@
-O Deputado Criticou a falta de previsibilidade, transparência e publicidade nas pautas, destacando a ausência de informações para os eleitores. Questionou a rapidez com que projetos são incluídos em pauta, especialmente quando associados a membros influentes. Lamentou a falta de debate adequado e a subestimação do Congresso, enfatizando a importância de os Parlamentares conhecerem antecipadamente as pautas em votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21cf5d769a4ce38f02b4dd64fc159a4ed6bcb0eecad79487f07c905ac49f3231
+size 432

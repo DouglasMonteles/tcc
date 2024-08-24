@@ -1,1 +1,3 @@
-Apresentação de projetos de lei em prol da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09166aa32075cc28434626bf08cb736d7748414eea13ef977486b92fb8485784
+size 65

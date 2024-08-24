@@ -1,1 +1,3 @@
-Tratamento desarmônico dispensado pela mídia e por Parlamentares, no tocante à divulgação dos assassinatos da Vereadora Marielle Franco e da policial militar Caroline Pletsch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4207a3878272edb4c6b59fabbab2e8d7dc1c64003e8e3deda7030caef3705f81
+size 180

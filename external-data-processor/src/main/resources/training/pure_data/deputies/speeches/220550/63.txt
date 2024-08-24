@@ -1,1 +1,3 @@
-O Deputado fez críticas à possível reintrodução do imposto sindical obrigatório no Brasil. Ele comparou a ação a um roubo indireto, onde o Governo retiraria dinheiro do trabalhador para sustentar o sindicato. O Deputado mencionou casos de corrupção do passado e expressou preocupação com a perspectiva de trabalhadores serem obrigados a contribuir com uma parcela significativa de seus salários para os sindicatos. O Parlamentar argumentou que essa mudança não beneficiaria os trabalhadores e alegou que os sindicatos não têm mais o mesmo poder de influência que tinham anteriormente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:445a380ac5cdb4f28b90a1973cffe1400ce62842eff4901a3d6faa75848f59e9
+size 602

@@ -1,1 +1,3 @@
-Razões da derrota da candidata Marisa Maciel nas eleições para a Prefeitura Municipal de São Thomé das Letras, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44e9f4f8d62398b3226c3267a42c83363868ac70aad81a630ed4f7dfcbb9648f
+size 139

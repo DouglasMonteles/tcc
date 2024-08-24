@@ -1,1 +1,3 @@
-Encaminhamento ao Ministro da Justiça e Segurança Pública, Sérgio Moro, de novo requerimento de abertura de processo investigatório do assassinato da Vereadora Marielle Franco, ocorrido no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a793d4ce4991cd379f0244c3c1b2bd0cf076313763136b9be5ca7e4c841bee2
+size 235

@@ -1,1 +1,3 @@
-Contrariedade à proposta de aumento da carga tributária no País. Exaltação da produtividade agropecuária brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45e3ed028b255a975d8241269c30b62f8bbdbac92bbcd8813f0dab648c373ca7
+size 122

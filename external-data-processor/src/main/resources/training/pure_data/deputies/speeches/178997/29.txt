@@ -1,1 +1,3 @@
-Indignação com a ausência de saneamento básico em bairro do Distrito de Aracatiaçu, Município de Sobral, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed9b2ed761d0efdbbff29e8b2e1ef87f66afb5d4735894c1b9acf07901381251
+size 128

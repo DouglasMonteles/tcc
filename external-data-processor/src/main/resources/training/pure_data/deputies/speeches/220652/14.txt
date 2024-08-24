@@ -1,1 +1,3 @@
-Repúdio à criação do Dia Nacional do Detento. Contrariedade à oferta pelo Ministro da Justiça e Segurança Pública, Flávio Dino, ao Prefeito Municipal Ricardo Nunes de apoio de efetivo da Força Nacional de Segurança Pública para combate à criminalidade no centro de São Paulo. Desconhecimento pelo Ministro Flávio Dino de questões relativas à segurança pública. Sucateamento da Polícia Civil do Estado de São Paulo. Insatisfação com a concessão pelo Governador Tarcísio de Freitas de percentual de reajuste salarial aos policiais civis menor do que o percentual concedido ao policiais militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53f2d14c8d86604b1549e3989f2715371ec3d0bf084031409b343cf1977f41f3
+size 619

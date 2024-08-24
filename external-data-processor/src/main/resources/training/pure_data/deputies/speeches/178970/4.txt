@@ -1,1 +1,3 @@
-Transcurso do 35º aniversário de fundação do Partido dos Trabalhadores. Destaque da contribuição do PT para o desenvolvimento social do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa7b89bc9b73e68aca1b424b54edc65bbe7a485ad33ad7d72dc3326ab679914c
+size 148

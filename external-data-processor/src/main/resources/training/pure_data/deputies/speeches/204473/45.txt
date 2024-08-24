@@ -1,1 +1,3 @@
-Protesto contra a obstrução das votações pelos partidos oposicionistas. Contrariedade à votação, pelo Supremo Tribunal Federal, da Ação Direta de Inconstitucionalidade nº 5.668, acerca da implantação da ideologia de gênero nas escolas brasileiras. Expectativa quanto à extensão, ao Estado do Rio Grande do Norte, da Operação Covidão realizada pela Polícia Federal contra o desvio de recursos do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43400e7ef8e6f7c1ba05e3d2cec570cee29596bf5e60ca7b8faebb7b539ef3de
+size 445

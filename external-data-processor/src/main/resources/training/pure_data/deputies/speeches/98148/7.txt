@@ -1,1 +1,3 @@
-Prioridade dos Parlamentares no debate sobre o resultado das eleições e no discurso de cunho ideológico, em detrimento da discussão de matérias de relevante interesse do País e da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97c3f04837add332295623a4898de2d3ba0cd18c8e4d5e237f4bad9e0220fd66
+size 209

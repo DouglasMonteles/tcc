@@ -1,1 +1,3 @@
-Realização da aula magna de instalação do curso de Medicina da Universidade Federal do Paraná no campus do Município de Toledo, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79b2dfc40b9734695fb80e2c4757225d197cd88666ce931cfbcdfb934176ebd4
+size 152

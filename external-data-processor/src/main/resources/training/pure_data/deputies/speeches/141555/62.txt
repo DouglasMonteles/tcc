@@ -1,1 +1,3 @@
-Esclarecimento sobre os direitos do aluno inadimplente junto ao respectivo estabelecimento de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:566e276e6ca4f431f65ecaacebca242c7a7da7ee89ae9704bfd077c692b1db88
+size 101

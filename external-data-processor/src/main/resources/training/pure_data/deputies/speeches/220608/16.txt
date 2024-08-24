@@ -1,1 +1,3 @@
-A Deputada denunciou os frequentes apagões em Rondônia, especialmente em Porto Velho, destacando perdas de produtos e o prejuízo aos produtores agropecuários. Criticou o pedido de aumento de 16% na tarifa de energia elétrica para Rondônia pela Energisa e agendou reunião com o Presidente da ANEEL para questionar os apagões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62ae398bdf757c382beaf50f349c0bff7052980c37f6d854720975bda80bfbf7
+size 332

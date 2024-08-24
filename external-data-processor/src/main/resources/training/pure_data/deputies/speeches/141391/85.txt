@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Arlindo Chinaglia pela prorrogação do prazo para emendas ao Projeto de Lei 3.674 de 2008 (Cria o Fundo Soberano do Brasil - FSB, dispõe sobre sua estrutura, fontes de recursos e aplicações, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ae5c49b6437454dc50c54285230c72fed705566fae1be770023b6815031b519
+size 251

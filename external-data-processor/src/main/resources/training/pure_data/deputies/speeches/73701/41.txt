@@ -1,1 +1,3 @@
-Saudações aos taquígrafos da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3127c0c455459b4e360305dc0f5667047dd35525744195d06017e2ca20f168c8
+size 37

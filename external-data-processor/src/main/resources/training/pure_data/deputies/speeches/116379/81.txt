@@ -1,1 +1,3 @@
-Apreensão do orador ante a possibilidade de vedação da terceirização de presídios pela Proposta de Emenda à Constituição nº 372, de 2017, sobre a criação das polícias penais federal, estaduais e distrital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00b224c9b43e4c1745f42ac8f71018741d95ad372c2464d12933a51af4918020
+size 218

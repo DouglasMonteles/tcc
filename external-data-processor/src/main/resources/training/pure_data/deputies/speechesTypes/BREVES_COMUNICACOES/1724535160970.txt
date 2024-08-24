@@ -1,1 +1,3 @@
-Solicitação aos Deputados do PP de comparecimento ao plenário para início das votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b9372fcc63898d21d4fb89f820e1cd664d19023e52d1a1da88241410d88c501
+size 93

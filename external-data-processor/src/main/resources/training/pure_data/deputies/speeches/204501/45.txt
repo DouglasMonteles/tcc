@@ -1,1 +1,3 @@
-Repúdio a declaração do Deputado Guilherme Derrite, com relação a integrantes de movimentos populares no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:227b8b9df032ca4b400b90e7c28ca9b0228767c469436a3087a85ea7ace450db
+size 116

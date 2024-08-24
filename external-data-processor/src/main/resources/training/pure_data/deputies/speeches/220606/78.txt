@@ -1,1 +1,3 @@
-O Deputado destacou sua participação no debate da Associação Brasileira de Rádios Comunitárias - Abraço Brasil, onde saudou a iniciativa e cumprimentou os radialistas presentes no evento realizado em Brasília, Distrito Federal. Em tempos de avanço democrático após um período de restrições, o orador ressaltou a importância das rádios comunitárias e elogiou o governo do Presidente Luiz Inácio Lula da Silva por demonstrar abertura para discutir a expansão dessas rádios em todo o país. O Parlamentar encerrou saudando os colegas da Abraço Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e272e51fa8c6c783a9226049b4f5de17371ff0c8440caedccd7eb4ed77f13126
+size 569

@@ -1,1 +1,3 @@
-Posicionamento favorável do PP ao Requerimento de retirada da pauta da Ordem do Dia do  Projeto de  Decreto Legislativo 549 de 2012 (Aprova o texto da Decisão CMC 8/11 Contribuições para o Orçamento do  Instituto Social do Mercosul, aprovada em Assunção, em 28 de junho de 2011).
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd9f9717975e65b95e1e95e050a51eb08626ebe7999e2c109d63ba1fe421537c
+size 286

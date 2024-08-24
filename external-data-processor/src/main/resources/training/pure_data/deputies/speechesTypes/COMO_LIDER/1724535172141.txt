@@ -1,1 +1,3 @@
-Homenagem póstuma ao dramaturgo José Celso Martinez Corrêa. Manifestação de votos de condolências ao seu companheiro Marcelo Drummond, aos seus familiares e amigos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cc041d2f832af0435493bd5aff1430c19335e92497b07c82a6c779165eec8ae
+size 170

@@ -1,1 +1,3 @@
-Considerações sobre a urgência de reforma política e eleitoral no País. Apresentação pelo PMDB de propostas relativas ao tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ddb4b45db662df9723aa071e36350e028880ea8534cc36ded7f28a063b2d8f8
+size 133

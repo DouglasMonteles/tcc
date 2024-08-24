@@ -1,1 +1,3 @@
-Congratulações ao Deputado Ricardo Tripoli pela condução dos trabalhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:448a36b732168190eae379180cfd97a5144ac375d38707a3157662542d8965d5
+size 75

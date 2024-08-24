@@ -1,1 +1,3 @@
-Transcurso do 26º aniversário de emancipação político-administrativa do Município de Maetinga, Estado da Bahia. Retrospectiva do processo de criação da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f46b8f721c9db28d235538cb91b27739344a5e2bba9bfb75d4e6fc77c8e1276d
+size 175

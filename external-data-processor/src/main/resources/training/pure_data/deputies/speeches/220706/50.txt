@@ -1,1 +1,3 @@
-Presença, na Casa, do Deputado Estadual do Paraná, Moacyr Fadel, e do Secretário de Agricultura, Abastecimento e Meio Ambiente do Município de Castro, em busca de recursos para conclusão dos trechos rodoviários Castro/Socavão e Castro/Distrito de Abapã.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54d0bc95049f8b7dc4ff7eab59a272e7345d7c2bfbd1961660dc4f6c69ebe87f
+size 261

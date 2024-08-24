@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 2.457, de 2023, sobre a destinação de vagas ociosas a refugiados pelas instituições federais de ensino; e do Projeto de Lei nº 2.459, de 2023, sobre a obrigatoriedade de afixação de cartazes e de veiculação de mensagem sonora nos portos e aeroportos brasileiros acerca do direito de solicitação de refúgio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92598d3ef4866003b8750e5ca46ea578c8fb66bbb6ba40ed93c9f25f215a1bd9
+size 355

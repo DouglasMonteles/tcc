@@ -1,1 +1,3 @@
-Posicionamento contrário ao Projeto de Lei nº 2.086, de 2011, em tramitação na Casa, sobre proibição de perseguições seguidas de laçadas e derrubadas de bovinos em rodeios ou eventos similares. Defesa das tradições gaúchas de rodeios e vaquejadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0185190272440e7d4b9aa2282977e4e8def5184ac3206e7c8619ec43039d929
+size 259

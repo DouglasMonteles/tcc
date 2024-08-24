@@ -1,1 +1,3 @@
-Presença do ex-Deputado Marcelo Melo no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6f294ac337b7814dfd8b9160ccf3952372432b2d74e564d1b8c95975a69701e
+size 51

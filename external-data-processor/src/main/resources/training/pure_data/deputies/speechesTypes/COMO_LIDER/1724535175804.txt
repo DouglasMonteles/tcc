@@ -1,1 +1,3 @@
-Protesto contra a autorização, pelo Conselho Nacional dos Direitos da Criança e do Adolescente - CONANDA, de visita íntima a menores a partir dos 12 anos de idade, recolhidos em instituições socioeducativas. Extensão do Fundo Geral do Turismo - FUNGETUR às empresas do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b0849c9d765ee9a898d835f6ea250b8ddeecc0711a9719e1fc604a3dbf83648
+size 294

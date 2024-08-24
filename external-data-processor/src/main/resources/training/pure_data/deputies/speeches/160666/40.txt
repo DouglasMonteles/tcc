@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de votação nominal do requerimento de retirada de pauta do Projeto de Lei nº 2.671, de 1989, relativo ao exercício das atividades de Posto Revendedor de Derivados do Petróleo e Álcool Etílico Hidratado Combustível - AEHC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3841ec6bed7a3a2491ae9279e0d47b8d7ca3a2b6337d637e64d9bb4e2906aca5
+size 284

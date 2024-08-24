@@ -1,1 +1,3 @@
-Posicionamento  contrário do PRB   ao Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória 595 de 2012 (Dispõe sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea57c6b0b9b231b84b0c8984105c67046e4b5c8eb6e0151c7b1693b3b8846b61
+size 317

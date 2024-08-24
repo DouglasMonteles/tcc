@@ -1,1 +1,3 @@
-Acerto da decisão do Presidente da Comissão de Constituição e Justiça e de Cidadania, Rodrigo Pacheco, de escolha do Deputado Sergio Zveiter como Relator da Solicitação para Instauração de Processo nº 1, de 2017, a respeito de denúncia apresentada contra o Presidente Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21b77c96d927ef97a772a9aa61b725cc59b1df3670197fd267ae95bd539fd9cc
+size 292

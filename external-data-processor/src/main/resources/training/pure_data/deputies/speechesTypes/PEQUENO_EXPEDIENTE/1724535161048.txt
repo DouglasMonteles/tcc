@@ -1,1 +1,3 @@
-Prisão dos assassinos da Vereadora Marielle Franco, no Rio de Janeiro, Estado do Rio de Janeiro. Necessidade de identificação do mandante do homicídio da Edil. Defesa de afastamento temporário do Senador Flávio Bolsonaro do mandato parlamentar, até a apuração do seu eventual envolvimento com criminosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3ade4e0f33704e30be099165ae6f50baaa6f642ffbc000a06b07f683bd223b1
+size 313

@@ -1,1 +1,3 @@
-Necrológio do sociólogo, pesquisador e professor Carlos Geraldo D'Andrea  Espinheira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87a1d211092ee0dabf2055e1533f216293474cf185183c8c2452da509da65090
+size 87

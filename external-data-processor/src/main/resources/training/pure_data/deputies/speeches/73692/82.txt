@@ -1,1 +1,3 @@
-Prejuízos causados à indústria brasileira, especialmente ao Estado do Rio Grande do Sul, em decorrência da quebra de acordos comercias pela Argentina. Necessidade de adoção pelo Governo brasileiro de medidas cabíveis a respeito do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb11e4e78d97abaaf1529e68f20a77c65cecbee36d96e4b31d69706690db15c4
+size 246

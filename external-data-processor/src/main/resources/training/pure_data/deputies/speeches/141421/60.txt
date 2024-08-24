@@ -1,1 +1,3 @@
-Falecimento do ex-Deputado Federal Léo Simões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:422ddd0fd65f873860ca86accfa9fdbb1200cb9abf75a765eb6c628defc3b11a
+size 48

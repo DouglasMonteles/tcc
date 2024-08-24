@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Círio de Nazaré.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b202f289087828fd39ab2c7818de4d58cbafc89ac41b8cb28a4d3d6fe383958a
+size 198

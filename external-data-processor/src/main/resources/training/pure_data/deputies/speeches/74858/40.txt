@@ -1,1 +1,3 @@
-Crescimento da aprovação do desempenho do Presidente Luiz Inácio Lula da Silva em todos os segmentos sociais, faixas etárias e regiões do País, de acordo com dados publicados pela empresa Quaest Pesquisa e Consultoria. Aprovação maior do que a desaprovação do Presidente da República entre os evangélicos, assinalada pela primeira vez em 2023. Agravamento da situação do ex-Presidente Jair Bolsonaro nas investigações sobre a venda e recompra de joias pertencentes ao patrimônio da União, a partir de declarações à imprensa do advogado do Tenente-Coronel e ex-Ajudante de Ordens da Presidência da República, Mauro Cesar Barbosa Cid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24e26b785f799345c3f267607b15598e9e4a0cbcdc1e534c41a5b5feaf04a15f
+size 655

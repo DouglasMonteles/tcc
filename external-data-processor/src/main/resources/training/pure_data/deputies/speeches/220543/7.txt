@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.292, de 2023, sobre o Marco Legal da Microgeração e Minigeração Distribuída e o Sistema de Compensação de Energia Elétrica - SCEE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cade56c722d12e68546158bf42661cc3c7b7b3c10d3aa2c586494fd40e0b3bf2
+size 254

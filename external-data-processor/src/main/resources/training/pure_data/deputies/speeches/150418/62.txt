@@ -1,1 +1,3 @@
-Realização pelos profissionais da enfermagem de movimento a favor da aprovação do Projeto de Lei n° 2.295, de 2000, acerca da fixação da jornada de trabalho da categoria em 30 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6604409a8411df13ffa366ee663021f4149ccb196631d2d3401c85d4dcbee72c
+size 198

@@ -1,1 +1,3 @@
-O Deputado agradeceu aos presentes pelo lançamento da Frente Parlamentar em Defesa da Universidade Pública e destacou a importância de recompor o orçamento da educação, afetado nos últimos anos. Ressaltou que a universidade pública desempenha um papel fundamental na democratização do ensino. Encerrou expressando otimismo em relação ao futuro da educação no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:817218713ffb125cff1fcbfcafeb1f2d24b09f92f91b7077d031212091a861ca
+size 380

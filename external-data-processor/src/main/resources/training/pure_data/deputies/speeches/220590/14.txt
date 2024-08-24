@@ -1,1 +1,3 @@
-O Deputado prestou solidariedade ao povo gaúcho em face de desastre ocorrido no Estado. Em seguida, anunciou e justificou a apresentação de projeto de lei que visa alterar a Lei nº 14.628, que institui o Programa de Aquisição de Alimentos - PAA, para impedir que participantes do MST, ou de qualquer outro movimento que promova invasão de terras públicas ou privadas, sejam beneficiados ou fornecedores do PAA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad31ce624a73fae086b81e0a65f31f3ffefa9e7a01c043b5b6633ddf2371b019
+size 418

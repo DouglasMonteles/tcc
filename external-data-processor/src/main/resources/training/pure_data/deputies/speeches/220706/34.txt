@@ -1,1 +1,3 @@
-Assinatura de ordem de serviço para construção de terminal no Aeroporto Adalberto Mendes, no Município de Cascavel, Estado do Paraná. Atuação do orador em prol da modernização dos aeroportos de Cascavel e Ponta Grossa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99c7f3575aa786950d1495728cdca3eec11940cb36688dbe75b318f86db6347a
+size 227

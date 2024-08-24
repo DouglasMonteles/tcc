@@ -1,1 +1,3 @@
-Reassunção do mandato parlamentar pelo orador. Apoio à proposta de fixação da jornada de trabalho dos profissionais da enfermagem em 30 horas semanais. Apelo à Presidência de início da Ordem do Dia. Pedido de retirada da pauta da proposta de alteração da sistemática de distribuição de royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c59c73fc8d41a50c5a92ebcb132caaddb840383622bf6a5d4a419de7a76e47c
+size 322

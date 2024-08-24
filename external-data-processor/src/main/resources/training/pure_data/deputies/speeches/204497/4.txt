@@ -1,1 +1,3 @@
-Reajuste abusivo de tarifas e baixa qualidade dos serviços de energia elétrica prestados à população paraense. Apresentação do Projeto de Lei nº 240, de 2019, sobre a compra de energia pelas concessionárias distribuidoras para atendimento ao mercado cativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fdf5c9dae15c103eef1077008ef7e7149705d06645e8d02a0bdf1058f6c9574
+size 266

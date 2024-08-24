@@ -1,1 +1,3 @@
-Apelo à Presidência de prioridade na discussão do Projeto de Lei nº 1.485, de 2020, sobre a alteração do Decreto-Lei nº 2.848, de 1940, com vista à duplicação das penas de crimes contra a administração pública praticados por ocasião de calamidade pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0acd784c77b9744cc26c1d7465ef1160b6b16f8643ade3e98f27f427c04c267
+size 270

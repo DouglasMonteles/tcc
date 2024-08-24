@@ -1,1 +1,3 @@
-Aprovação pela Casa da chamada PEC dos Vereadores e da proposta de revisão dos subsídios do Procurador-Geral da República. Retirada, pelo Presidente da República, da urgência constitucional para a tramitação dos projetos de lei sobre o estabelecimento do marco regulatório da exploração de petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9d5c790e70d9eee945129a6c0530afd920338d304948737f9ed45d0456eb0ab
+size 331

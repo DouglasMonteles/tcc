@@ -1,1 +1,3 @@
-Saudações ao Deputado José Augusto Maia e aos habitantes dos Municípios do Estado da Bahia, ao ensejo da votação do projeto de lei complementar sobre a criação de novos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74d7d9aed7082807d5e71c9c2e72b835a12065ab149fd23f64934b89eeb3a08c
+size 189

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 971, de 2020, sobre a remuneração da Polícia Militar, do Corpo de  Bombeiros Militar e da Polícia Civil do Distrito Federal, bem como da Polícia Militar e do Corpo de Bombeiros Militar dos ex-Territórios Federais; e a alteração das regras de cessão de policiais militares, bombeiros militares e policiais civis do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:589d4e1bf3ff6fdd3e6558d7f039e423040189d7b8d04cf3c80caaea024c9a1b
+size 440

@@ -1,1 +1,3 @@
-Tentativa do Ministro da Justiça e Segurança Pública, Sergio Moro, de transferência do ex-Presidente Luiz Inácio Lula da Silva para presídio comum. Caráter machista do Titular da Pasta revelado na atribuição, às mulheres, da culpabilidade por atos de violência e agressões praticados pelo homem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d93962685f951bb53fac2294eaa45a97bbe3cb259bd31abef7680fb684855752
+size 307

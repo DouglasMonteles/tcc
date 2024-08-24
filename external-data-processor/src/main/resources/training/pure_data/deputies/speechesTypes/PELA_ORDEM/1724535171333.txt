@@ -1,1 +1,3 @@
-Posicionamento contrário às regras preconizadas para a concessão do abono salarial aos trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5356d29bfb00ecb05f2c33b6bfb0971d05322598d32e3381f889f98461e33d44
+size 104

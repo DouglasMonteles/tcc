@@ -1,1 +1,3 @@
-Contradita à intervenção do Deputado João Leão. Redução do Risco Brasil em decorrência do êxito do Plano Real. Continuidade, pela gestão petista, da política econômica e de programas iniciados no Governo do PSDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c56dd9c15412a5c100671f442febf4f803a9732132a05ee5f7e5866cd447427
+size 224

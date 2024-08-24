@@ -1,1 +1,3 @@
-Inauguração do Centro de Prevenção e Diagnóstico de Câncer do Estado de Rondônia. Construção de unidade do Hospital Sarah Kubitschek, na Capital Porto Velho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9cde5adff479c7cf7946c862f73e0200f851203ae10dce63f0be951fe14b5e
+size 166

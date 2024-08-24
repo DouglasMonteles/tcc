@@ -1,1 +1,3 @@
-O Deputado expressou sua satisfação em relação à reformulação da Lei de Cotas para o acesso às universidades públicas, que foi sancionada pelo Presidente Lula. Destacou que essa política é uma forma de justiça social e de igualdade racial, permitindo que estudantes que frequentaram escolas públicas e enfrentaram desafios tenham a oportunidade de competir em igualdade de condições. Compartilhou duas homenagens que recebeu recentemente: uma do Hospital Universitário por seu trabalho em aumentar o teto de custeio da instituição e outra dos pescadores artesanais, em reconhecimento ao seu apoio à inclusão de benefícios para esses trabalhadores no Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36ae170b807cd038248e773f21315408ff917b27ebcfd0eb60a9841d016e8a96
+size 695

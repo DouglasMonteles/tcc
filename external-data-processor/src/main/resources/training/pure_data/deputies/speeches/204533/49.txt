@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da expressão e da relatoria (RP9), constante no § único do art. 3º do Projeto de Lei nº 2.633, de 2021, sobre a repactuação dos termos de compromisso firmado entre os entes federados e o Fundo Nacional de Desenvolvimento da Educação - FNDE, para conclusão de obras de infraestrutura educacional inacabadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:620890b7f05ebed5d213754a1616c754dc275a660a0c03d38eb661bf1e168836
+size 408

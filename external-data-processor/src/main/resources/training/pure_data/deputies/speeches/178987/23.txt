@@ -1,1 +1,3 @@
-Defesa do desempenho da gestão da Presidenta Dilma Rousseff à frente do Ministério de Minas e Energia, da PETROBRAS e da Presidência da República. Desenvolvimento da indústria naval brasileira em decorrência de investimentos na PETROBRAS. Repúdio à atuação do Ministério Público Federal durante o Governo do PSDB. Críticas ao PSDB pela tentativa de privatização do patrimônio brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92cfdd8351ba1c0f6edde0c5caf6818d40cbc7eef8eb7f3fc20b760ed247342d
+size 404

@@ -1,1 +1,3 @@
-Equívoco da decisão do Superior Tribunal de Justiça de nulidade da apreensão de bens do narcotraficante André do Rap. Pedido, à Comissão de Segurança Pública e Combate ao Crime Organizado, de criação de grupo de trabalho para discussão do arcabouço jurídico-criminal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f87887368f89905d5ab3e4b2d735b38854f93f66f3cad77a9526fdf91654f77
+size 292

@@ -1,1 +1,3 @@
-Realização do 5º Caju Nordeste, no Município de Beberibe, Estado do Ceará. Importância da cajuicultura para o desenvolvimento socioeconômico de cidades interioranas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bab8efe60322c000bc7bafb52cb0495ee9c4aea98f824075cc269682cd62dfd
+size 172

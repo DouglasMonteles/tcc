@@ -1,1 +1,3 @@
-Transcurso do 15º aniversário de emancipação político-administrativa do Município de Barrocas, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:036cc58d947328c9c0dd30a11546bf84ec2abbcf2ef25fa0db8565739cd7e667
+size 117

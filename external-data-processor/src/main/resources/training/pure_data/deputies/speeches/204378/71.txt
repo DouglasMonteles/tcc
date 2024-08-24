@@ -1,1 +1,3 @@
-Protesto contra discursos proferidos no plenário a respeito de episódio envolvendo a comitiva presidencial, na Espanha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a6d3ae3c486f38ad040ebdcb8ad19b89f5ee82ee767891862176bf239e97c1d
+size 121

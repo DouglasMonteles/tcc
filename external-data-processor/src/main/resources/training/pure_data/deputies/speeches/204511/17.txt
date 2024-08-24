@@ -1,1 +1,3 @@
-Assassinato da líder do partido Síria do Futuro, engenheira Hevrin Khalaf, na Síria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:422d7a122667ed12cefbf6687f21018d9454df775a409aad36fab3ec8a1d1021
+size 87

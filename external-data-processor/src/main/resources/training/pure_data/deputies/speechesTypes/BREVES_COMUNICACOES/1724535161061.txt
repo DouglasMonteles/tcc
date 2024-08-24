@@ -1,1 +1,3 @@
-Presença do orador e pedido de participação da população em manifestação de protesto contra o Governo no dia 13 de março.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ebb0102f60c6645f69353d6645792067a4eb405dd1f6d2db601ea1ecddc1672
+size 129

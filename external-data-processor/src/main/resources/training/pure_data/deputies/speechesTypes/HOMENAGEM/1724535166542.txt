@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao aniversário de 10 anos da Universidade Tecnológica do Paraná - UFTPR.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:293461029a232c3bce44924337e4350e3af93889b4551e3f1f72f810673ea8cb
+size 252

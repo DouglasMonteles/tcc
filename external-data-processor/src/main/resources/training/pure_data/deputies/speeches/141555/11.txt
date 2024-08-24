@@ -1,1 +1,3 @@
-Criação do Centro Cultural Jerusalém. Manifestação pública em favor da inclusão dos medicamentos bosentana e sildenafil na relação de medicamentos excepcionais, do Ministério da Saúde. Solicitação ao Governador Sérgio Cabral de providências, nos moldes do Estado de São Paulo, no combate à hipertensão arterial pulmonar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bbb9f43c9b72360a134366736669eed75aca49c467449f51302fcaf41f97e0c
+size 338

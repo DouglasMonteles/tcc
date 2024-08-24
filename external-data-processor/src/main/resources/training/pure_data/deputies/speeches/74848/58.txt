@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PSB/PTdoB/PRB/PCdoB  ao Projeto de Lei 3.331 de 2012 (Acresce o art. 135-A ao Decreto-Lei 2.848 de 1940 - Código Penal, para tipificar o crime de condicionar atendimento  médico-hospitalar emergencial a qualquer garantia e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0afdfd706252fac8e83170469f944f5ebe6608b85859d1cbb6e103d2d136340
+size 286

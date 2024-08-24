@@ -1,1 +1,3 @@
-Independência da Polícia Federal em relação ao Ministério da Justiça e Segurança Pública. Repúdio a declaração de vingança do Presidente Luiz Inácio Lula da Silva contra o Senador Sérgio Moro. Articulação, pelo Primeiro Comando da Capital - PCC, de plano para assassinato do Senador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74a67f680c0006b8283ad0704e155898b576594b343a32a21a2e4d7837c2b7f5
+size 299

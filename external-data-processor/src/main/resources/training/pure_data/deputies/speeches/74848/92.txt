@@ -1,1 +1,3 @@
-Ponderações sobre o texto acordado para votação do projeto de lei relativo ao Vale-Cultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b83c6302e24200e25c97309a600d0d43a794cad8af19c0e3e1f813c61ae03339
+size 95

@@ -1,1 +1,3 @@
-Defesa de imediata inclusão na pauta da proposta de regulamentação da Emenda Constitucional nº 29, de 2000, sobre destinação de recursos à área de saúde. Preocupação com a possibilidade de intervenção da Executiva Nacional do PMDB no Diretório Estadual do partido em Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0ccd9569182fa43d66b316bfb6be90448b2473a6a3c684754d33c97c0508118
+size 296

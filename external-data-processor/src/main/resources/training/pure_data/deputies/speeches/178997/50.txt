@@ -1,1 +1,3 @@
-Fechamento de fábrica de cimento no Município de Fronteiras, Estado do Piauí. Solicitação ao Governo do Estado do Ceará de atuação em favor da transferência do empreendimento para o Município cearense de Campos Sales.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4695acaf486f6994905ef8f926dfc80bef7d9c78e4d7d25b9cbb5f0aaf17e01
+size 227

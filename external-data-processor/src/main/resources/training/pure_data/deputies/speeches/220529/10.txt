@@ -1,1 +1,3 @@
-Homenagem às mulheres brasileiras em nome da Presidente do Fundo Nacional de Desenvolvimento da Educação - FNDE, Fernanda Macedo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e104f7466c30928d07361e41b20dac99117b4dc0db80815c4994e67f62c281b
+size 132

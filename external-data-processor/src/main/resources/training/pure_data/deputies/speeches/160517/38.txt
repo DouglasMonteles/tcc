@@ -1,1 +1,3 @@
-Asfaltamento da via de acesso à comunidade denominada Alto Liberdade, no Município de Marilândia, Estado do Espirito Santo. Aplausos à Defensoria Pública pela atuação a favor da liberação de habitações construídas por meio do Programa Minha Casa, Minha Vida, no Município de Colatina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71bfc4c489f3f7d6690c337bb97ef96ac4cad0b256b347a33158ea63b6dce2f7
+size 297

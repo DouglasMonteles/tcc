@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Presidente da Assembleia Legislativa do Estado de Sergipe, Deputado Rosendo Ribeiro Filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7b11b3e2d35c052e9e259519415d03fc703fb6d37c92ee240b18b568a48bb86
+size 115

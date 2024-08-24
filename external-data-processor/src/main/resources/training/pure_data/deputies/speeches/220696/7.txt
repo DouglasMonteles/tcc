@@ -1,1 +1,3 @@
-Concessão de reajuste salarial aos servidores públicos pelo Governador do Estado da Bahia, Jerônimo Rodrigues. Escolha do Estado, pelo Presidente Luiz Inácio Lula da Silva, para lançamento das plenárias estaduais do Plano Plurianual de Investimentos - PPA, o chamado Plano Plurianual Participativo, bem como da Plataforma Brasil Participativo. Assinatura pelo Presidente da República, por ocasião de sua visita à Bahia, do decreto de regulamentação da Lei Complementar nº 195, de 2022, a respeito das ações emergenciais destinadas ao setor cultural (Lei Paulo Gustavo).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7badaa1dafb0793b4876aecadaf822f909a4740e2b7d925bab44e6dd9fe64e90
+size 583

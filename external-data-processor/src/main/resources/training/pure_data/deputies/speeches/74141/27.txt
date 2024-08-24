@@ -1,1 +1,3 @@
-Desempenho do Secretário de Saúde do Estado da Bahia, Jorge Solla. Acerto da política de interiorização do atendimento à saúde no Estado. Declaração do México, resultante do 6º Encontro Continental de Solidariedade a Cuba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:279cca3ab16d330e8c6fc3438192134c347aa2032ee289a61b253de0088e5944
+size 233

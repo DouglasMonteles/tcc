@@ -1,1 +1,3 @@
-Realização do Campeonato Surf na Pororoca no Município de São Domingos do Capim, no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db2d71f2d79eed460d6aa65f25599feded4174dc1b20e4fc90a2a50b8408a8f2
+size 104

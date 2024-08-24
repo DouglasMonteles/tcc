@@ -1,1 +1,3 @@
-Apoio à realização da reforma tributária. Defesa da inclusão de empresas aéreas e de outros modais de transportes no regime especial de tributação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de8afc4b227bb72fc5ea4128d4f0caf5ed01a96ec969f00b07e538da8a25c6d4
+size 155

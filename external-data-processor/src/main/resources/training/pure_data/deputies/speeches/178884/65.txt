@@ -1,1 +1,3 @@
-Violação a direitos humanos pela Política Militar do Estado do Maranhão na morte do cidadão Irinaldo Batalha durante blitz realizada no Município de Vitória do Mearim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0532aff30428820d76bd4d0838a4e67e823a4ca802129679328485a882ab2f9f
+size 174

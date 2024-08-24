@@ -1,1 +1,3 @@
-Necessidade de posicionamento de frentes parlamentares a respeito do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).
+version https://git-lfs.github.com/spec/v1
+oid sha256:640e96a57ac060050a953a20b069b5082763009645db6e6ef07d092c17900baa
+size 235

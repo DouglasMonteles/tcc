@@ -1,1 +1,3 @@
-Aguardo da resposta da Presidência sobre a questão de ordem a respeito do início da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0dd9e34d958225aa43a99faf5913f1d170edd394185e3b051f15e1252e947eb
+size 100

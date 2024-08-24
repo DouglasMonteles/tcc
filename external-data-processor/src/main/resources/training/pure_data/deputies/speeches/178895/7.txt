@@ -1,1 +1,3 @@
-Conveniência da Proposta de Emenda à Constituição nº 445, de 2014, que fixa parâmetros para a remuneração da carreira policial federal e da carreira de Polícia Civil do Distrito Federal. Defesa da inclusão da carreira de policial rodoviário federal na proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0fbf3d370032f773f2ff3bf471515d59a905fd33a7643b5647ecc98d90ac8ab
+size 276

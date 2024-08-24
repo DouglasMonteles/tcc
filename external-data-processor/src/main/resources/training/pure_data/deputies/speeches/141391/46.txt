@@ -1,1 +1,3 @@
-Atuação política do orador em defesa da bioeletricidade. Sustentabilidade econômica, social e ambiental da produção de etanol no País. Criação do Centro de Tecnologia do Bioetanol, no Município de Campinas, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b3d553f5e28b918c392d444f514d699809a259f0e992f7b94cc10d61d82f769
+size 238

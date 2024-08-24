@@ -1,1 +1,3 @@
-Defesa de rejeição do veto presidencial aposto ao Projeto de Lei nº 372, de 2008, do Senado Federal, a respeito da readmissão de servidores públicos demitidos durante o Governo Fernando Collor de Mello. Encaminhamento à Ministra-Chefe da Casa Civil, Gleisi Hoffmann, de indicação para edição de proposição a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52bda2659c4949729efaff6441d7e083f63c8a06ed246d5f5a89c0e51af2474e
+size 337

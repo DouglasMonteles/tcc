@@ -1,1 +1,3 @@
-O Parlamentar expressou sua preocupação com a campanha publicitária do Governo Federal intitulada O Brasil é um só povo. Ele argumentou que o Partido dos Trabalhadores (PT) e o Presidente Lula sempre apostam na divisão dos brasileiros e destacou que a campanha foi lançada durante uma conferência eleitoral do PT, indicando objetivos eleitorais específicos em vez de promover a paz e a reconstrução de laços. Acusou o Ministro da Secretaria de Comunicação Social, Paulo Pimenta, de trabalhar para alinhar a campanha oficial do Governo aos interesses eleitorais do PT, resultando em um conflito de interesses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e36efa47ebf61d089ddc739cd1aea7772ec726e9f5448247a95b2e14bae443f
+size 622

@@ -1,1 +1,3 @@
-Indicação do Deputado Pastor Manoel Ferreira ao Prêmio Nobel da Paz de 2008. Elevação do preço do gás de cozinha no Estado do Paraná, em razão do fechamento temporário da Refinaria Presidente Getúlio Vargas. Indicação da ex-Vice-Reitora da Universidade Estadual de Londrina e ex-Diretora do Teatro Guaíra, de Curitiba, Nitis Jacon, ao Prêmio Cláudia 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86ce397cf9417e725a1b87d51686526cfe0b88752ab9178ac70fe194373ed87d
+size 371

@@ -1,1 +1,3 @@
-Homenagem ao arquiteto e urbanista Fernando Frank, ao ensejo do transcurso do seu aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d823959cc40be5ba0d348dc70f3a5dcfacf6ce59e4d52bc4331628b55b958d9
+size 106

@@ -1,1 +1,3 @@
-Importância da aprovação da proposta de reforma da Previdência Social. Necessidade de realização da reforma tributária e de revisão do pacto federativo e da chamada Lei Kandir.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bba45275fcc3f35fb50e816931653b79167fedd1eabd46bbff426ef2bcef2d97
+size 184

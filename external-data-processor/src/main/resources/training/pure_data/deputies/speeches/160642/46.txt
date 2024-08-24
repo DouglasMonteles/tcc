@@ -1,1 +1,3 @@
-Desrespeito de Deputado representante do segmento homossexual para com a fé evangélica e seus seguidores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0ffda2e242fc2d1c4e7431bad910fcbf611be2c649b6c897653d868012af5a0
+size 107

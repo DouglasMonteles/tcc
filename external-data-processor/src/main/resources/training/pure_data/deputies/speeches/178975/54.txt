@@ -1,1 +1,3 @@
-Orientação da respectiva bancada para votação do substitutivo ao Projeto de Lei nº 5.587, de 2016, que trata do transporte individual remunerado e do transporte motorizado privado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bea8b204d26c64b5db64558f0cc05899eb21a86c338504a3ff20f90166702c8e
+size 185

@@ -1,1 +1,3 @@
-Desvio da finalidade da Lei Rouanet, (lei de incentivo à cultura).  Apoio ao Governo Jair Bolsonaro e ao Ministério da Cultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:183d4fa89fa3621014e381dbe0bc6880ea64bbe8b4acac4859bc13c6f87ad021
+size 129

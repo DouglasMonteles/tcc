@@ -1,1 +1,3 @@
-Realização de mesa-redonda no Estado do Pará para debate acerca da Lei de Incentivo ao Esporte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26201b4292b7ebb4149197dd3a11fad5a1960040dc0e3b65afeb366f6a5f137e
+size 98

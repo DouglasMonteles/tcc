@@ -1,1 +1,3 @@
-Instalação de unidade do Instituto Federal de Educação, Ciência e Tecnologia - IFET no Município de Areia, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d9a4e36e641aa93721b07637a82903b9f36ac5d76a66c88c7ca4509390e8a95
+size 132

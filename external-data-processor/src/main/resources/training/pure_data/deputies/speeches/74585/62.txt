@@ -1,1 +1,3 @@
-Elevação do Brasil à condição de grau de investimento pela agência de classificação de risco Standard & Poor's.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70d0b620f401ac320a79955dae77b97b62ca79d888cdc6ffa2ac5f2d10816687
+size 119

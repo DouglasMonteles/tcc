@@ -1,1 +1,3 @@
-Apresentação, pelo PSDB, de requerimento de destaque à medida provisória sobre a criação da TV pública, destinado à proibição de contratação de funcionários, pela emissora, sem concurso público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:670d75fb0a0c9a12302b53ca9f4eaa1a6babaf3d14b8058c3dd8151ff32b38e0
+size 208

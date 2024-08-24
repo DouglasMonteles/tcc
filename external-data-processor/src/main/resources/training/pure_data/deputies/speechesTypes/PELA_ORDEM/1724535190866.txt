@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global, oferecida pelo Relator da Comissão de Seguridade Social e Família ao Projeto de Lei nº 1.605, de 2019, sobre a instituição do Estatuto da Pessoa com Câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2c20a003a5ff8854492bbb98b6a22349137cb9f48e71cfb8225acf0490229ab
+size 233

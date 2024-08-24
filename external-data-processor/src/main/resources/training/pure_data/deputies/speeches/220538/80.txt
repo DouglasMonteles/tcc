@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Síndrome de Down.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc770dd9137579b4b7e5814d6cbe92a327bf3dfeb94e2bf710b9c0c2c1f28708
+size 53

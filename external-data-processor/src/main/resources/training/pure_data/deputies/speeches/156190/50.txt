@@ -1,1 +1,3 @@
-Protesto contra a alteração do mérito do projeto de lei em votação pela emenda de redação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17ad0caddcac0070c931b76c473acddbc470f044c3150997cf1c6b0181b4e919
+size 97

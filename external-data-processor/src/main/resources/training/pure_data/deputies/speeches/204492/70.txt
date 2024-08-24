@@ -1,1 +1,3 @@
-Repúdio às manifestações antidemocráticas promovidas pelo Presidente Jair Bolsonaro, ao ensejo do transcurso do Dia da Independência do Brasil. Pedido de adoção, pelos Presidentes da Câmara dos Deputados e do Senado Federal, de providências diante das ameaças do Presidente da República ao Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3bb7285041fae18ca95c6ccec159187288b5cb793f1d33768a4d9ddaf09ea3a
+size 327

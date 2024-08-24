@@ -1,1 +1,3 @@
-Registro de alteração de voto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c77304105e551f59a114c741ec554db9f198e07298ce6b96de1c59ed4c6e2a9
+size 32

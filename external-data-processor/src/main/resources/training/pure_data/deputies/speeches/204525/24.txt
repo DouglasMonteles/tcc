@@ -1,1 +1,3 @@
-Manifestação de votos de condolências aos familiares das vítimas da tragédia ocorrida no litoral norte paulista em decorrência de enchentes. Aplausos ao Governador Tarcísio Gomes de Freitas pela adoção de medidas de amparo à população atingida pelo fenômeno climático. Apresentação de projeto de lei sobre alteração do Código Penal, com vista à majoração da pena imposta aos crimes contra o patrimônio em tempos de pandemia ou calamidade pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cfce2b750e65107f1c0366aa66c284e3957bed2540de378913a9817377ba72c
+size 470

@@ -1,1 +1,3 @@
-Transcurso do 10º aniversário de criação da Secretaria de Políticas para as Mulheres da Presidência da República. Elevado índice de violência contra a mulher no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6c601a548c6b1dc2efe39935e9c824c956e86b8b400e056490977b2f2300ec1
+size 176

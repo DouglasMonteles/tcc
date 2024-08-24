@@ -1,1 +1,3 @@
-O Deputado expressou solidariedade às vítimas das cheias em Santa Catarina, destacando as cidades afetadas pelas chuvas. Agradeceu ao Diretor-Geral do DNIT pelo edital lançado para a construção de terceiras faixas na BR-282, entre Palhoça e Alfredo Wagner, visando melhorar a segurança em um trecho propenso a acidentes. Reconheceu a importância dessa medida para evitar perdas de vidas e agradeceu ao Ministro Renan Filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa296f080ba542b048a6f58226b6cae169e785c445a9acf2d6d4b735bac20036
+size 431

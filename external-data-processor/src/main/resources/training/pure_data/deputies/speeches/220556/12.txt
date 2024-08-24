@@ -1,1 +1,3 @@
-Importância do lançamento, pelo Governo Luiz Inácio Lula da Silva, do Movimento Nacional pela Vacinação. Realização de Conferências Municipais de Saúde, preparatórias da 17ª Conferência Nacional de Saúde sob o tema Garantir direitos e defender o SUS, a vida e a democracia. Valorização da vida e da ciência pelo Presidente da República. Anúncio da realização da Conferência Municipal de Saúde de Blumenau, Estado de Santa Catarina. Reiteração do compromisso do Presidente Luiz Inácio Lula da Silva de pagamento do piso salarial nacional dos profissionais da enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dfcb07b296b7a32c2594baf519e4b0beb31847f2a3c755af5dbd959c57478aa
+size 594

@@ -1,1 +1,3 @@
-Preocupação com as consequências negativas decorrentes de possível aumento dos juros para o Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF. Pedido ao Governo Federal de não elevação dos juros cobrados pelo Programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e097259e193ea48ed33e037b0a00695439e4162aa212b772281b54971a471b1
+size 244

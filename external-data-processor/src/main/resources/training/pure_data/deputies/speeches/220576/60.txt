@@ -1,1 +1,3 @@
-O Deputado homenageou a cidade de Maceió pelo seu aniversário de fundação. Mencionou sua atuação parlamentar, por meio de um projeto de lei, para punir empresas responsáveis por desastres ambientais e solicitou providências das autoridades em relação ao desastre acarretado pela atividade de mineração da empresa Braskem, que comprometeu parte considerável de Maceió e deixou muitos habitantes desabrigados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d55442b61fa4bf9f6f7dfb0e7a5d0d464154c1316c9c28c2b3b63be723ea8911
+size 421

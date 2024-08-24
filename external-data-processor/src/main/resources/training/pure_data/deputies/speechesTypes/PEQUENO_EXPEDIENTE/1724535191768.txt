@@ -1,1 +1,3 @@
-Transcurso do 450º aniversário de fundação da cidade do Rio de Janeiro. Anúncio da candidatura avulsa do orador à Presidência da Comissão de Direitos Humanos e Minorias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f488c23bba4510c5e6c3d367e8660a67d19ca2ed5dc7055050c1911d4c1602da
+size 177

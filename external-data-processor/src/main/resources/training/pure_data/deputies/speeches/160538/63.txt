@@ -1,1 +1,3 @@
-Convite aos Deputados para o lançamento da Frente Parlamentar em Defesa da Previdência Social Rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62b5d966eb0b197c82b75f012dcfc6dbe77d96a779378903185d12a9d6c13526
+size 102

@@ -1,1 +1,3 @@
-Apoio aos projetos de interesse dos aposentados em tramitação na Casa. Transcurso do Dia do Advogado. Acerto de decisão do Supremo Tribunal Federal sobre a extradição do coronel uruguaio Manuel Cordero Piacentini para a Argentina. Exame, pela Comissão de Direitos Humanos e Minorias, de denúncias de assassinato do ex-Presidente da República, João Goulart.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd8e3b2d1782e0474ab607f7bce6f27715e6105c18061f74950e2a046652b559
+size 365

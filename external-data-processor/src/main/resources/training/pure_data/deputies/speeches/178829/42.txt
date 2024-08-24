@@ -1,1 +1,3 @@
-Presença no plenário da Prefeita Marli Lourdes Oppermann e dos Vereadores Emir José Kuhn e Paulo Buga, do Município de São Vendelino, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:131ab269dadea7a4e64317017a3749f1c21bae67b872a5c688c2dd50505a2b1c
+size 167

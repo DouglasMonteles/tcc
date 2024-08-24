@@ -1,1 +1,3 @@
-Repúdio à eventual edição de medida provisória pelo Governo Federal destinada à substituição das disciplinas de Sociologia e Filosofia pela disciplina de Educação Moral e Cívica na grade curricular do ensino médio. Solicitação ao Ministério da Educação de revisão da proposta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6be8f84db4a916a095a0cc3eaa8786f4fd8b89e48b2394cd33a5fabd55c07dc7
+size 294

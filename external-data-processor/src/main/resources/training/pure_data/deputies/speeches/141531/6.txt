@@ -1,1 +1,3 @@
-Divulgação do Produto Interno Bruto brasileiro - PIB de 2009. Aumento dos gastos do Governo Federal com o custeio da máquina pública. Razões da paralisação de obras do Programa de Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d71f4ecf4c6534d02ffb44d933f25322ea8977f08cd6b292984eb986b142e35f
+size 221

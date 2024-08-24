@@ -1,1 +1,3 @@
-Apoio à proposta governamental de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:882a3681cbf48aa355a70a11133dccc61bc626ed12c2c073b1b2da18d451207a
+size 55

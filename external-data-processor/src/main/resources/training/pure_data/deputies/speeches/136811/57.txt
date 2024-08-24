@@ -1,1 +1,3 @@
-Saudações aos Prefeitos Municipais presentes em Brasília, em especial aos do Estado do Rio Grande do Sul. Encontro de Parlamentares com Ministros de Estado em busca de recursos para os Municípios atingidos por enchentes na região sul do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b632688ca7f9bb7c62094c91d5ae94a359ce20b66b797bd66b96df126354bf0d
+size 249

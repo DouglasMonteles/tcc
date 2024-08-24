@@ -1,1 +1,3 @@
-Presença no plenário do Prefeito Everardo Moura, do Município de Isaías Coelho, Estado do Piauí. Solicitação à Secretaria da Receita Federal do Brasil de classificação e divisão de depósitos judiciais com Estados e Municípios. Ampliação dos investimentos do BNDES na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bdeb1538fad8939b9a902303e0dee7acd0e4ca1288e52a0f856095f778d05d6
+size 299

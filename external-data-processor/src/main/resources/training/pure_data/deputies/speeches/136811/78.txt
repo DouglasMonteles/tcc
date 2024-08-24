@@ -1,1 +1,3 @@
-Transcurso do 198º e do 197º aniversários de fundação, respectivamente, dos Municípios de Bagé e Pelotas, no Estado do Rio Grande do Sul. Comemoração do 152º aniversário de fundação do Município de Canguçu, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e036ce8978451451a2b1340b1d86103405fd9936fe35c77bceba1ca62e5c1815
+size 232

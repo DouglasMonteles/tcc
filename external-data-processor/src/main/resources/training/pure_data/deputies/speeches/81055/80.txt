@@ -1,1 +1,3 @@
-Realização do 1º Encontro de Evangélicos e Evangélicas do Maranhão, sob o lema Fome e sede de justiça, na Capital São Luís.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1e417fc4e37595984e27dd2e5e3020a9b85516ac925c5c6e248c80dff13c7b1
+size 132

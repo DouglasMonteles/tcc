@@ -1,1 +1,3 @@
-Convergência entre o posicionamento do orador e o do Ministro da Justiça e Segurança Pública, Flávio Dino, a respeito do controle responsável de armas de fogo. Inexistência de vínculo entre a flexibilização do porte e posse de armas e munições e à escalada da criminalidade. Reexame do prazo estabelecido para recadastramento de armas de fogo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bffa7f5f3e6eaeba5fff52123f7ca8cab17c397a1f599490b0cca0481be5749e
+size 356

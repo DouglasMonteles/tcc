@@ -1,1 +1,3 @@
-Posicionamento contrário à intervenção federal na Capital da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26089ee0c824915ae1d73047330b0ea159d361248267aeba2738e5f8098b4bfc
+size 76

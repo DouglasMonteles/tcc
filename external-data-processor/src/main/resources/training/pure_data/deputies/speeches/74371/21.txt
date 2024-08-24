@@ -1,1 +1,3 @@
-Importância de aprovação pela Casa da Proposta de Emenda à Constituição nº 15, de 2015, acerca da transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica pública. Tentativa do Governo Federal de inviabilização da votação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79fd024271ebe56e6f4d1fecca22217180a6017a6ecc579f1b5942e64a7b9afe
+size 399

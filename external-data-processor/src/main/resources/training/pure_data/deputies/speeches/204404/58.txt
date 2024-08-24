@@ -1,1 +1,3 @@
-O Deputado lamentou as recentes enchentes e desastres naturais que afetaram o Estado do Rio Grande do Sul. Destacou a necessidade urgente de ajuda do Governo Federal para auxiliar as comunidades afetadas, que enfrentam perdas significativas. Ressaltou a solidariedade do povo gaúcho e de outros Estados, mas enfatizou que a ajuda do Governo é fundamental neste momento de crise climática. Pediu que a Câmara dos Deputados encaminhe projetos de apoio às regiões atingidas com rapidez para fornecer assistência às famílias afetadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6538238203e43d59ba0cee60feb1fc91a4853be0b6ecea483b704fd96bb243f3
+size 539

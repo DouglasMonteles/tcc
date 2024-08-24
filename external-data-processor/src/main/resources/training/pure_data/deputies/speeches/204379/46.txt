@@ -1,1 +1,3 @@
-Emissão de parecer à Medida Provisória nº 1.010, de 2020, sobre a isenção de consumidores amapaenses abrangidos pelo estado de calamidade pública, do pagamento da fatura de energia elétrica referente aos últimos 30 dias; e sobre a alteração da Lei nº 10.438, de 2002; e às Emendas de nºs 1 a 36, apresentadas conforme o caput  do art. 3º do Ato Conjunto nº 1, de 2020, editado pelas Mesas da Câmara dos Deputados e do Senado Federal. Votos de feliz Natal e próspero Ano Novo aos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:606858ad17ebc35c133b78be26b88e658ada97334332acf29f22374bbaa80fb7
+size 511

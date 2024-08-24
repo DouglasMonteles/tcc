@@ -1,1 +1,3 @@
-Saudação à população do Estado da Bahia. Defesa de realização de reformas estruturantes do País. Linhas da atuação parlamentar do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56c8a44811758fbbcd53c611236babd74d5ddb9cd4493c3407a4805a85495eba
+size 147

@@ -1,1 +1,3 @@
-Protesto contra a aprovação do requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022, (novo arcabouço fiscal). Repúdio ao Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b6be18da4470c2f532dec54e9698f27c66efd238559432f3ad9c7edfd225879
+size 463

@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Combate ao Câncer. Aprovação, pelo Parlamento, de proposta sobre o estabelecimento do prazo de 60 dias para início do tratamento dos pacientes com diagnóstico de câncer. Retrocesso da portaria editada pelo Ministério da Saúde elevando de 40 para 50 anos a obrigatoriedade da realização da mamografia pelo Sistema Único de Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4cb32fecb32383c8894cd9cab32b296020fac1aff0adbb87fd317bee83a400d
+size 369

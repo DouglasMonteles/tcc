@@ -1,1 +1,3 @@
-Homenagem póstuma ao empresário Humberto Silveira Castro, do Município de Caetité, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbf4440f7be2e8473e299239d9ca6aa0ffaf64c8cf31c889c12d514d3acde55d
+size 103

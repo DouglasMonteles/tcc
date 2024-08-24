@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 1.494, de 2021, sobre a tipificação da prática de zoofilia como crime de maus-tratos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d426f55f5064a37255d2ac6f14593c3d713e848b78807ed2c86c234b05d2a94
+size 130

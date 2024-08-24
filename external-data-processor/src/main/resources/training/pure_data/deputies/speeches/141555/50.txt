@@ -1,1 +1,3 @@
-Precariedade do atendimento prestado a idosos pelas agências bancárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e00878c0d57effb522d82a3c6aabf2ebb002e1ca5afbac270b0670d804e7983a
+size 73

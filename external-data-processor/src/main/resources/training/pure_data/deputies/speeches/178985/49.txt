@@ -1,1 +1,3 @@
-Anúncio de divulgação, pelo Ministério da Saúde, do novo edital do Programa Mais Médicos. Urgente necessidade de expansão de cursos e vagas de graduação em Medicina no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:265d1ac71dbf38e2a0705bc20af38f5166167a9edf96fe737fcd2d9c7e7948cd
+size 183

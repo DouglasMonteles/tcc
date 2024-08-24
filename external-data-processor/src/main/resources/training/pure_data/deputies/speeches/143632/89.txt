@@ -1,1 +1,3 @@
-Esclarecimentos sobre declarações do Ministro da Educação, Cid Gomes, consideradas ofensivas a Deputados. Apelo ao Plenário de transformação de requerimento de convocação do Ministro da Educação em convite para comparecimento à Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a9db47e5504e876cae568abcd19c3b8846f2f5054482baea239761d1057e941
+size 245

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional de Combate ao Câncer Infantil. Compromisso de fiscalização dos investimentos públicos na área de saúde. Regozijo com a aprovação do Projeto de Lei nº 5.543, de 2020, sobre a instituição da data de 17 de julho como o Dia Nacional do Cirurgião Oncológico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f691397d46b6701d03566f3eded0af7c5ba3e808ddc679f36e83d10036f09e7
+size 298

@@ -1,1 +1,3 @@
-Congratulação à Casa pela aprovação da Proposta de Emenda à Constituição nº 304, de 2017, sobre a utilização de animais em práticas desportivas culturais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf8c2677cf1f271cffe9de1d65ba2cfa22ea501b23ea6710fa6e1dc4ef9a40ff
+size 166

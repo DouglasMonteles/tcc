@@ -1,1 +1,3 @@
-Expectativa de aprovação, pelo Senado Federal, da Proposta de Emenda à Constituição nº 15, de 2015, acerca da transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica pública. Inadmissibilidade de redução dos ganhos reais dos profissionais do magistério público da educação básica, no processo de atualização do piso salarial nacional da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e7447063a68d2a3f4cd7c9ad912ffdcc83f6cd540ba180aea25229d6481315f
+size 514

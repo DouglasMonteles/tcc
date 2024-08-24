@@ -1,1 +1,3 @@
-O Deputado agradeceu aos Deputados do Rio Grande do Sul pela realização de audiência pública para debate sobre a situação na região sul do Brasil. Ele abordou a controvérsia em torno da CPMI dos Atos de 8 de Janeiro, salientando que membros da extrema direita pediram a criação da comissão, mas agora lamentam seu resultado. Enfatizou que a CPMI investigou a tentativa de golpe e que os indiciados devem arcar com as consequências legais. Reforçou a imprevisibilidade do resultado de CPIs e destacou que o Ministério Público pode avançar com ações legais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9028035d8d7ab708c7653dc9e68f18f397b72f53c4e27b78c462568bc68dab2e
+size 573

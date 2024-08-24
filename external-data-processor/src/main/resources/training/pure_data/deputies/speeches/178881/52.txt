@@ -1,1 +1,3 @@
-Transcurso de aniversário do Município de Araioses, Estado do Maranhão. Excelência da gestão do Prefeito Cristino Gonçalves de Araújo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69cdb45b923edbd102c68a44a92a040f337e1c12ad8d2c425a5acf2a306ab4f8
+size 141

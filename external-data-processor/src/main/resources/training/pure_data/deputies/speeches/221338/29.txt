@@ -1,1 +1,3 @@
-Solidariedade à mobilização das educadoras da primeiríssima infância do Município de Avaré, Estado de São Paulo, pelo enquadramento na carreira do magistério. Aprovação de indicativo de greve geral pelos serviços públicos de São Paulo. Não valorização dos professores e do funcionalismo pelo Prefeito Municipal Ricardo Nunes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bdb58198a383396af13708a2797eecf75151f1e79c80a3f3914d261c64fb916
+size 342

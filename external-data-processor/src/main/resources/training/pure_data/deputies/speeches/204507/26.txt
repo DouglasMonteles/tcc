@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 6.407 de 2013, acerca das medidas de fomento à indústria de gás natural; e da alteração da Lei nº 11.909, de 2009.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e32905ecc004baac100b348e52b5a502f50c87b81c3243d14d61db1833697e16
+size 234

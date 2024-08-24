@@ -1,1 +1,3 @@
-Aplausos ao Ministro da Previdência Social, Carlos Lupi, pelo empenho da redução dos juros incidentes em empréstimos consignados de aposentados e pensionistas. Contrariedade à política de juros altos adotada pelo Banco Central do Brasil. Habilidade política e capacidade técnico-jurídica demonstradas pelo Ministro da Justiça e Segurança Pública, Flávio Dino, durante audiência na Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c88bc7c25844cbf16f49b1babecbea71c38d5c98f8b486ba829b7d289dd3315b
+size 449

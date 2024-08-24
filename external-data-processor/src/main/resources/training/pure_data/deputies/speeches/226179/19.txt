@@ -1,1 +1,3 @@
-A Deputada lamentou o brutal assassinato de mãe e filhas em Sorriso, Mato Grosso. Clamou por ações efetivas contra violência às mulheres e apelou por implementação urgente de medidas preventivas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df5f40c87c53c2210b7a842515b3692c10607e7a4d4baec262ced3b69ff764e1
+size 202

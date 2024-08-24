@@ -1,1 +1,3 @@
-Críticas ao PT pela apresentação de requerimento de não realização de sessão na Casa sem quórum regimental. Sugestão de alteração regimental com vistas à redução do quórum mínimo para abertura de sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f891bc30732d19cd1629aafbaddc78034a7934b0ec9e97ab10a03c236356520
+size 220

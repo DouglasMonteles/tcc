@@ -1,1 +1,3 @@
-Elogio ao Presidente Rodrigo Maia pela condução dos trabalhos da Casa. Críticas ao exercício da Presidência pelo Deputado Boca Aberta, em face do tratamento desrespeitoso dispensado pelo Parlamentar a membros da Câmara dos Deputados. Realização da Marcha das Margaridas, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5382b6e338671bc03c1efa94b7eba4647535cd81c0238f11f8619b12b1fc2258
+size 310

@@ -1,1 +1,3 @@
-Transcurso do Dia do Vereador. Pedido à Casa de aprovação do Projeto de Lei Complementar nº 18, de 2019, sobre a instituição do orçamento impositivo no âmbito das câmaras municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1824f9c47cf0dd7108b150173318d2132ddad73b518e69c39804f20288bf6c53
+size 191

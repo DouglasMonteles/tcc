@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Glauber Braga diante de intimidação política. Agradecimento a Lideranças do PT e à militância do partido, pelo apoio à pré-candidatura do orador à Prefeitura Municipal de São Paulo, Estado de São Paulo. Solidariedade ao povo da Região Nordeste diante de declarações preconceituosas e xenofóbicas proferidas pelo Governador do Estado de Minas Gerais, Romeu Zema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91562f68d719ebb2f1d8c4a344d7204eb97fb9801236934c790a025b51267d60
+size 402

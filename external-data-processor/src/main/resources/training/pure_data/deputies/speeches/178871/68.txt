@@ -1,1 +1,3 @@
-Apelo aos Parlamentares para aprovação da medida provisória relativa à prorrogação do prazo de utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica - RECINE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b77590653895dc0dab1acf30d9dc43cb77608fa507317011c7bc88db003e252d
+size 223

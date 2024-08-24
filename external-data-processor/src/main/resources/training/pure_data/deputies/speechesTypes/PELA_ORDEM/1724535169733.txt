@@ -1,1 +1,3 @@
-Prisão do Líder do Governo no Senado Federal, Senador Delcídio do Amaral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81001aa9605235e5973d03559d5c9fd482f410b33cae18809f62d0469850a338
+size 76

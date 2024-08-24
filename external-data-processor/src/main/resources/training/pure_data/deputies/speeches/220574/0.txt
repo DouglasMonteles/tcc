@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado da Paraíba pela eleição do orador. Apoio da Esquerda à ditadura da toga. Defesa do Estado Democrático de Direito. Desmoralização da Câmara dos Deputados diante de decisões monocráticas de membro do Supremo Tribunal Federal. Soltura, por meio de manobra da Suprema Corte, do Sr. Luiz Inácio Lula da Silva preso por crime de corrupção. Apoio do Presidente do Tribunal Superior Eleitoral, Ministro Alexandre de Moraes, e do Supremo Tribunal Federal à eleição do candidato petista à sucessão presidencial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:641ba65be580f2211e203885c94d5eba9f95b7f87d6522ed83be963c099cdce9
+size 557

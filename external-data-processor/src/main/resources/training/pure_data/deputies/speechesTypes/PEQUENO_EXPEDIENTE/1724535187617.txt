@@ -1,1 +1,3 @@
-Relato sobre atividades parlamentares do orador realizadas nos Municípios de Carmo do Paranaíba, Carmo de Minas e Caxambu, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d64ec27b9df36d313374bb98d1f0a0601015e7fb425f0bfcb530c5d056f5990d
+size 148

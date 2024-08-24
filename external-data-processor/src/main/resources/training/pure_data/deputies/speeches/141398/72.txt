@@ -1,1 +1,3 @@
-Êxito das políticas econômica e externa adotadas pelo Governo Luiz Inácio Lula da Silva. Postura da Oposição no debate sobre as eleições presidenciais. Repúdio à declaração da Vice-Procuradora-Geral Eleitoral, Sandra Cureau, sobre o possível cancelamento do registro de candidatura da ex-Ministra Dilma Rousseff para a Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ff3eadb6a7727bac773126ebbe3e367bffe8a507c2d76ec1f05231bd65aed37
+size 359

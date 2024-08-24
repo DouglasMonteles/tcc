@@ -1,1 +1,3 @@
-Outorga, pelo Conselho Federal de Odontologia, da Comenda de Honra ao Mérito Odontológico Nacional ao orador, ao ensejo da comemoração do cinquentenário da entidade. Repúdio às tentativas da Oposição de enfraquecimento da PETROBRAS. Realização pela Comissão de Minas e Energia de debate sobre a situação da empresa petrolífera. Aprovação de convite ao ex-Diretor da Área Internacional da PETROBRAS Nestor Cerveró para participação em audiência realizada pelo órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ae3e872024df2ac49ff10755b5525804e4d0a8d66e2022f6acb2245cdc0d9dc
+size 489

@@ -1,1 +1,3 @@
-Contrariedade à aprovação do Projeto de Lei nº 948, de 2021, sobre a alteração do art. 2º da Lei nº 14.125, de 2021, com vista ao estabelecimento de regras de aquisição e doação de vacinas por pessoas jurídicas de direito privado. Necessidade da aquisição pelo País de maiores lotes de vacinas, diante da escassez de imunizantes no mercado mundial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bb64b23f16dd099cab4154ad6a61f4b004ef9661f4f8d2e56e0ba0519a50b2e
+size 364

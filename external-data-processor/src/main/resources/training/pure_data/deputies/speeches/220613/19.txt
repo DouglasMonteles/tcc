@@ -1,1 +1,3 @@
-Recitação de texto bíblico dirigido ao Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf890fec706a3d27aa69bacaf2d5f8eaf5df630d98f71f7d734d791213b990e0
+size 80

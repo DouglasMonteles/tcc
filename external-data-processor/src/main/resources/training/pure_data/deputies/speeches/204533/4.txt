@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 64-A do projeto de lei de conversão à Medida Provisória nº 870, de 2019, sobre o estabelecimento da organização básica dos órgãos da Presidência da República e dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16ba0b665415579041897a09ffe0d3fb88cd2a0c80e3fe31e8ebbd89b636bcaf
+size 288

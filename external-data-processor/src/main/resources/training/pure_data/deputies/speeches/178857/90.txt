@@ -1,1 +1,3 @@
-Contrariedade à aprovação de projeto de lei sobre a retirada da obrigatoriedade de exploração de petróleo da camada do pré-sal exclusivamente pela PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0a69188adcb2dbbf6ab36df6014762ab7f48a80cc51ec00423dc765788ad5b3
+size 164

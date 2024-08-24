@@ -1,1 +1,3 @@
-Apropriação, pelo governo petista, da pauta da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República em 8 de janeiro de 2023. Protesto contra a rejeição, pelo órgão, do requerimento de convocação do ex-Ministro-Chefe do Gabinete de Segurança Institucional - SGI da Presidência da República, general Marco Edson Gonçalves Dias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b42364139e4a26f297b2e1ea03132574cdc8935956e21282d2eb1cc4ebf3380a
+size 396

@@ -1,1 +1,3 @@
-Convocação dos Deputados do PMDB ao plenário ao plenário para agilização da votação da PEC 61 de 2011. .
+version https://git-lfs.github.com/spec/v1
+oid sha256:eec06ce24c8eec5a390c01ba5fb391a9cea66e6fb5ea282ff55e5e839cf200ef
+size 112

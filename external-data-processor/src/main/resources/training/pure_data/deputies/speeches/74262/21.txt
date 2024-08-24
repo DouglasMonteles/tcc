@@ -1,1 +1,3 @@
-Referência a acordo na Câmara para votação do    Orçamento da União na presente sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a3e585db4735096269ac4d8aa28bff5d31991691761860303e8a6d7f3f89283
+size 94

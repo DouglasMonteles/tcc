@@ -1,1 +1,3 @@
-Apelo ao Ministério da Integração Nacional de liberação de recursos aos Municípios atingidos por temporais no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c67eaeb94232b8b4c150b241634e8a4682f6b45ef002001c9c28fb3b2c3d994
+size 144

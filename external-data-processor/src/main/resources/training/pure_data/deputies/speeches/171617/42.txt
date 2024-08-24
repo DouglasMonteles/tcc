@@ -1,1 +1,3 @@
-Sessão Solene em homenagem aos 64 anos de fundação da Associação dos Magistrados Brasileiros - AMB.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b65694bf853b04073a50b14acaff5420afba8ba14f4dd8d4b9250821add502e6
+size 253

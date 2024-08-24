@@ -1,1 +1,3 @@
-Defesa de aprovação da Proposta de Emenda à Constituição nº 11, de 2022, acerca da instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eef67b1f4302abc76414579a876ee3a9180bd90c4dec937b02964ac27c91975
+size 175

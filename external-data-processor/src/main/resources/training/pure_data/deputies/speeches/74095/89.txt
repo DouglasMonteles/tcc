@@ -1,1 +1,3 @@
-Posicionamento  contrário do DEM   ao parecer pela admissibilidade da Medida Provisória 526 de 2011 (Constitui fonte de recursos adicional ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, altera o art. 1º da Lei 12.096 de 2009,   dispões sobre medidas de suspensão temporária de   exigências  de regularidade fiscal, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee2017c4cf2b13c78902e42aee055880c8a5a6f60d958931443c1bba55329ba3
+size 369

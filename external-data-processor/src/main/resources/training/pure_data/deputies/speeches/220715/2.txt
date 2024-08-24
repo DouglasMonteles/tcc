@@ -1,1 +1,3 @@
-Moção de pesar pelo falecimento do ex-Governador Amazonino Mendes, do Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:585e16b512b94609b033648c8500c66dff9404288af04b41d04b4d492925dfe0
+size 91

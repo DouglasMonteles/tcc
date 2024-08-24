@@ -1,1 +1,3 @@
-Propostas do Governo Federal relativas às áreas de saúde e educação como forma de atendimento às reivindicações de participantes em manifestações populares no País. Defesa de aproveitamento de médicos brasileiros formados em instituições sul-americanas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d51a239fed3401f1e5e07e44cf891c643518d4691feb7e354e85c006602647a
+size 267

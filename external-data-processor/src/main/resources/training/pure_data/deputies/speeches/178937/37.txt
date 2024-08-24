@@ -1,1 +1,3 @@
-Orientação de bancada para votação do requerimento de votação nominal do requerimento de votação artigo por artigo da Medida Provisória nº 771, de 2017, sobre a transformação da Autoridade Pública Olímpica - APO na Autoridade de Governança do Legado Olímpico - AGLO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b95c926b4603eb2412588c1f03b7c54135fe7cb003b77945ede02756f911459
+size 282

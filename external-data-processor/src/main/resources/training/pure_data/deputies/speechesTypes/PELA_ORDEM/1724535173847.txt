@@ -1,1 +1,3 @@
-Posicionamento de Parlamentares a respeito do assassinato de menor no Rio de Janeiro e do vazamento de petróleo na costa brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9054b2462645fade4988a97c5a9582b0edb3b94376908fd0f557eacd49d62659
+size 133

@@ -1,1 +1,3 @@
-Transcurso do 451º aniversário de fundação da cidade do Rio de Janeiro. Elogio à atuação do Prefeito Municipal, Eduardo Paes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96f949ed8c86a7aba454b388f36cad3437f0c06ccd0868d30a54e256c1d23fae
+size 132

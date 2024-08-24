@@ -1,1 +1,3 @@
-Conclusão das obras de construção do Trevo da Pipoca, no entroncamento das BRs-365 e 354, de acesso ao Município de Patos de Minas. Asfaltamento da BR-352 entre os Municípios de Patos de Minas e Coromandel, Estado de Minas Gerais. Destaque da agropecuária na região do Alto Paranaíba, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:172b2450d538a23c7c42f48c125c921f7388152b3c68bf496647742dde2e1436
+size 303

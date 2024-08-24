@@ -1,1 +1,3 @@
-Relato sobre a participação do orador na 40ª Missão Econômica no Japão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38123b9b087e7f49aebeab760610c261ef4b71ab6093eef7de5ad943714ee5a8
+size 77

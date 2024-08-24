@@ -1,1 +1,3 @@
-Regozijo com a retomada do cargo pelo Governador do Distrito Federal, Ibaneis Rocha. Elogio à Vice-Governadora Celina Leão pela atuação no cargo de Governadora em exercício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1727ffd373caa78cbe64987f9705c41c2775c3cb61eb6de45c3654346f038260
+size 178

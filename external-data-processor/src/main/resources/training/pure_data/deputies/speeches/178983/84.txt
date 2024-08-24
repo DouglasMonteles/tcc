@@ -1,1 +1,3 @@
-Visita do orador e do Deputado Estadual André do Prado à Santa Casa de Misericórdia de Mogi das Cruzes, Estado de São Paulo. Compromisso de alocação de recursos orçamentários para a instituição de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:405f7857659f465022001dc7d2fb42c819a6f8261a2ea5ec3f7671333fe938d5
+size 214

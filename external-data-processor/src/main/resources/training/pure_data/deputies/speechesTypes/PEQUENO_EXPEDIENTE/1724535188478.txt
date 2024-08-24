@@ -1,1 +1,3 @@
-Aprovação pela Comissão de Ciência e Tecnologia, Comunicação e Informática de proposta de emenda orçamentária destinada à Base Espacial de Alcântara, Estado do Maranhão. Apresentação pelo orador de propostas de emendas orçamentárias para a construção de Unidades de Pronto Atendimento - UPAs. Apelo à Casa para votação de proposta de criação de piso salarial de agentes comunitários de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cada39a3211380e09414a9b713185e840eb7bbd9953d14737f0dca4a78ef164
+size 417

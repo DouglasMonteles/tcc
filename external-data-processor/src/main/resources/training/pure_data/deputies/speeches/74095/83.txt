@@ -1,1 +1,3 @@
-Ponderações sobre a Medida Provisória 525 de 2011 (Altera a Lei 8.745 de 1993, no tocante à contratação de professores). Conveniência de realização de concurso público para contratação de professores para o quadro funcional das instituições de ensino público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b75fc1cd4ae800138d403b6f186815f150954763d9464f5a7f7a6540c44f114d
+size 274

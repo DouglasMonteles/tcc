@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Decreto Legislativo nº 160, de 2022, sobre a aprovação do texto do Protocolo sobre Transferência de Pessoas Sujeitas a Regimes Especiais (Complementar ao Acordo sobre Transferência de Pessoas Condenadas entre os Estados Partes do Mercosul, a República da Bolívia e a República do Chile), celebrado em Assunção, em 20 de junho de 2005. Inadmissibilidade de comparação de garimpeiros com criminosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8e052939d9f2b9ec72d70ac87c699e3b3203ed812695d3a1670fdb3502ea184
+size 460

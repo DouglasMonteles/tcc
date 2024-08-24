@@ -1,1 +1,3 @@
-Elogio ao Senador Francisco Dornelles por trabalho relacionado à reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cd3a62b2092f1f337a3478e876ad012366c4172599fb65662b740ed27bf1f80
+size 86

@@ -1,1 +1,3 @@
-Relato da participação do orador nas festas juninas realizadas em Municípios do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05b30ac6ab4a19d6adb806d0222c24bb5c1d9f8473992156ab19d2f94232d917
+size 99

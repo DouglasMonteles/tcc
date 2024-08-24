@@ -1,1 +1,3 @@
-Transcurso do aniversário natalício do Deputado Osmar Serraglio. Liberação de recursos para ampliação e reforma de hospital no Município de Amambai, Estado de Mato Grosso do Sul. Necrológio do ex-Prefeito Luiz Antônio Álvares Gonçalves, do Município de Dourados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39263819ed01feaeed36b875c859ae170441c82d5800e656032ed6ab1d2593b5
+size 274

@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a situação financeira das prefeituras devido à queda nos repasses do Fundo de Participação dos Municípios (FPM) e outros fatores. Destacou que a falta de recursos coloca em risco o funcionamento das prefeituras, levando a um movimento grevista em 16 estados. Pediu medidas emergenciais, como a antecipação do pagamento do ICMS e um adicional no FPM, para aliviar a situação dos municípios. Também instou o governo federal a pagar as emendas parlamentares e a trabalhar para resolver os problemas criados por suas políticas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5df548d8129da08dd7e3b28d0a263fbc47fcb0884b1ee8cafce9e3d3fe4ea5c0
+size 575

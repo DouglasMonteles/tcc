@@ -1,1 +1,3 @@
-Repúdio à narrativa da Esquerda com relação ao discurso proferido pelo Deputado Nikolas Ferreira, a respeito da perda de espaços pelas mulheres diante do transexualismo. Caráter ilibado do Parlamentar. Posicionamento do governo petista contrário à criação de CPMI para investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a82dbe6ab9e746bdfcd7840fd94464d73c551d143092fe16c4ddb7da9cd2ad44
+size 373

@@ -1,1 +1,3 @@
-Congratulações aos Deputados Antonio Carlos Rodrigues e Arnaldo Jardim, novos coordenadores da bancada federal paulista. Exigência de inclusão de obrigações acessórias, multas e simplificação de impostos no processo de reforma tributária. Inadmissibilidade de retrocesso quanto ao voto de qualidade do Conselho Administrativo de Recursos Fiscais - CARF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f91bacd7269de9b83672b25532d814613060ceb98c62eb0c45101bd5cb5581c1
+size 363

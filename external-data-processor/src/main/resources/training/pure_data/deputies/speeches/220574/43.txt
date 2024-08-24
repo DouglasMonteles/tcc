@@ -1,1 +1,3 @@
-Protesto contra a exigência ao Estado da Paraíba, pelo Governo Federal, do pagamento de 80 milhões de reais para a transposição de águas do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a70dde594cd5027339e94ef53a8f5f46cb1eea5cb395aa73c689e23a51728aac
+size 165

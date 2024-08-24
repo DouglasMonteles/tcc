@@ -1,1 +1,3 @@
-Rejeição pelo orador, Relator da matéria, da Emenda de Plenário nº 2 apresentada ao Projeto de Lei Complementar nº 211, de 2021, sobre o estabelecimento de limites de tributação de bens essenciais, especialmente de energia elétrica, petróleo, telecomunicações e gás natural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85001d4db41bcbb81a5cbc1e71311b42655b2c1f3e99b0c206626ef03a8a045c
+size 287

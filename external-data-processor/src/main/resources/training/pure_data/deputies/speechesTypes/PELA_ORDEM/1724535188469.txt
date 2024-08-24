@@ -1,1 +1,3 @@
-Perplexidade ante a cassação do mandato parlamentar do Deputado Deltan Dallagnol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a3560f7220b88b03bdea2eb06cadc1b7da95c50d239db50e4b3230b5eb94944
+size 83

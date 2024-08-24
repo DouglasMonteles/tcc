@@ -1,1 +1,3 @@
-Presença no plenário de estudantes do Estado do Espírito Santo, participantes do Programa Estágio-Visita de Curta Duração da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8a058f1c7d928387d96b5b79b2989e9f217d2815f4df3cb2a5bf898ab3ec0f5
+size 153

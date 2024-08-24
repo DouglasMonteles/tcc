@@ -1,1 +1,3 @@
-Orientação de bancada na votação requerimento de destaque para votação em separado da Emenda nº 20.
+version https://git-lfs.github.com/spec/v1
+oid sha256:119707521eb3c4a6ab2f5669e8068afdc1aba50ec0eabfa386f9c6bcdb15f3c5
+size 106

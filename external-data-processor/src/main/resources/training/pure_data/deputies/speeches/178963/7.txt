@@ -1,1 +1,3 @@
-Declaração de voto favorável à garantia de cota para as mulheres no Parlamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:776fa58e38df93936b49ba66d29550072d0dbce84f23e3d2db5d214176445ee4
+size 83

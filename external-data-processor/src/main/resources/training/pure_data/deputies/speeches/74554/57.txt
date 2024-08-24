@@ -1,1 +1,3 @@
-Transcurso do 72º aniversário de emancipação político-administrativa do Município de Correntina, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2119d0480c53beb510afc98defc80cacfe1186a20ff11f1210ff94e935382ffd
+size 119

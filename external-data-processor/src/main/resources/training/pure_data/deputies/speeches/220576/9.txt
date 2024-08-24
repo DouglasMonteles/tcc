@@ -1,1 +1,3 @@
-Tentativa, pelo Governo Luiz Inácio Lula da Silva, de aliciamento de Parlamentares para retirada de assinaturas do requerimento de criação da CPIMI destinada à investigação de atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6c5f5252dca608860c78d17355740bfab91c3e87cb97e583517d1cabf656903
+size 254

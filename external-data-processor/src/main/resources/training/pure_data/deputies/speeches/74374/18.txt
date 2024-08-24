@@ -1,1 +1,3 @@
-Transcurso do centenário da imigração japonesa ao Brasil. Contribuição da colônia nipônica para o desenvolvimento econômico e cultural do País, em especial do Município de Dourados, Estado de Mato Grosso do Sul. Alocação de recursos para revitalização da Rua Toshinobu Katayama, na municipalidade sul-mato-grossense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43075a1aae36e536612c8a1637af3ade6c1e95c3dcb31b9145834be2aca0a184
+size 330

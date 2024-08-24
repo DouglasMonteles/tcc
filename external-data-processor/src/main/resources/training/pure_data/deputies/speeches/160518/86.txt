@@ -1,1 +1,3 @@
-Colapso no serviço de abastecimento de água na Região Metropolitana de Belo Horizonte e em várias outras localidades do Estado de Minas Gerais. Empenho do orador contra os aumentos abusivos de tarifa solicitados pela Companhia de Saneamento de Minas Gerais - COPASA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5c9167edd621a028ed45139014106306c27756f43d876711f0baddf49642bd2
+size 270

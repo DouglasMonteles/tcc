@@ -1,1 +1,3 @@
-Transcurso do Dia do Idoso e do Dia do Vereador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dff6aaba489adb447ddef792fc8f45bd5c7869658f56699410733771186f79d
+size 48

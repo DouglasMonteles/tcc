@@ -1,1 +1,3 @@
-O Deputado compartilhou a organização da reunião do PARLATINO em Foz do Iguaçu para discutir a ferrovia bioceânica entre Paranaguá e Antofagasta, visando transformar a logística agrícola e reduzir custos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9591de13cbdf0ea4d23fd101832c857c8148577635287c7d85c8be22229e8af
+size 212

@@ -1,1 +1,3 @@
-Preocupação com o desperdício de alimentos no Brasil ante o nível de desnutrição de parte da população brasileira. Defesa de adoção de ações, técnicas, estratégias, práticas e soluções com vista ao combate à fome e à contribuição para a economia e para a sustentabilidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98b908536f871e62a6b76434b86062d4b06b6c5a344ee9159a7a0be10ac06533
+size 293

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional do Cooperativismo. Atuação do orador em defesa do setor. Conveniência de aprovação do Projeto de Lei nº 177, de 2004, sobre a regulamentação do cooperativismo de crédito, e do Projeto de Lei nº 7.009, de 2006, a respeito das cooperativas de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18d1abaea848d5a5091e364f0afca6c6a7fed048e911724ded65e8a77f78e938
+size 292

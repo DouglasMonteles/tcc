@@ -1,1 +1,3 @@
-Anúncio da realização da Festa Nacional do Porco no Rolete no Município de Toledo, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:496ef1cb32571d8839a2a75052241c95ae6a1383f620ff558d2ba6763ebc15ab
+size 105

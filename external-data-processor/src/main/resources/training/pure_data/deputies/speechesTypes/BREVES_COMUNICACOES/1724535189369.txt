@@ -1,1 +1,3 @@
-Comemoração do bicentenário de fundação do Município de Nova Friburgo, no Estado do Rio de Janeiro. Lançamento de livro comemorativo da efeméride.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54202f0b6932813de54469af50586d12a37bb0c817342d67a78483aefc399847
+size 154

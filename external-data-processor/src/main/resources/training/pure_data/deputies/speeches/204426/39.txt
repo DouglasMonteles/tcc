@@ -1,1 +1,3 @@
-Reencontro do orador com o ex-Presidente Luiz Inácio Lula da Silva. Convite ao povo brasileiro para participação no Festival Lula Livre, em Recife, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89ec3c3d602c8c6abafe057f16db2720b215a069ae7fab28ff885d7fa8ae4543
+size 172

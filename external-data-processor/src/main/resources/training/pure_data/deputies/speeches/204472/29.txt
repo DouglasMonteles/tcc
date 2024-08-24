@@ -1,1 +1,3 @@
-Falta de condições morais da Oposição para ataques ao Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:549fd878cc11d2a89ddbc8a97012425ed17597c8cf62d9b6a632f72d855099c9
+size 81

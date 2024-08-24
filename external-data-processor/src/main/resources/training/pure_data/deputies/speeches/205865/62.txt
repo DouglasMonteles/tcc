@@ -1,1 +1,3 @@
-Crescimento da economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23312930a16ac0bf2fec2f5d3b49b5241a3aa010e07010e1c69baf0a39394519
+size 35

@@ -1,1 +1,3 @@
-Falecimento do ex-Vice-Presidente da República José Alencar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:158b33a831918ac41bf8ad4ff216467cad8ee68dfa6b020fc931c966459f7425
+size 62

@@ -1,1 +1,3 @@
-Preocupação do orador com a saúde de crianças e adolescentes no Brasil. Elevado índice de alunos com sintomas de ansiedade e depressão, provocado pelo afastamento do convívio social em decorrência da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:782a5bba481b32cd07999b9b3bd2d5ee0338ac5ed296dbe8f0e409308e014eec
+size 233

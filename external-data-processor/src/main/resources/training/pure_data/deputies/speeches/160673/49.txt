@@ -1,1 +1,3 @@
-Transcurso do Dia do Desafio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff7f47af700f059478ce93b3f0a4f009ce8b2ac633f5134310d4a38af5eea9c8
+size 29

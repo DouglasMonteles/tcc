@@ -1,1 +1,3 @@
-Acerto das medidas adotadas pelo Ministério da Saúde para combate à pandemia da Influenza A (H1N1).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f29d4377b9154aecac7132c774170244a5506179450959f05c4b333f0a9c115
+size 102

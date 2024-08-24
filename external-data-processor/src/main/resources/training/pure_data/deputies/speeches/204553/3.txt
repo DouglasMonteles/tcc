@@ -1,1 +1,3 @@
-Maior atenção para com os profissionais da segurança pública e populações carentes no processo de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bfea2deb3e72d4a8dbfb503520e25dfea01f792fce7d3826ef599cd55555268
+size 128

@@ -1,1 +1,3 @@
-Participação na comitiva oficial do Presidente Jair Bolsonaro em visita ao continente asiático e ao Oriente Médio. Contestação a reportagens da imprensa contra o Presidente da República. Necessidade de reformulação do Código Penal e do Código de Processo Penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e1d1e993ff68bb120a0a533b043c6a1dcf876b0ab0b11314c2db3f322311f7e
+size 272

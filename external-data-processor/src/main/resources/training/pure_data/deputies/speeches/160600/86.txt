@@ -1,1 +1,3 @@
-Solicitação da votação do Requerimento de retirada de pauta da Ordem do Dia do Projeto de Lei nº 1, de 2013-CN (Altera o caput do art. 2° e o Anexo IV.1 da Lei n° 12.708, de 17 de agosto de 2012, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2013, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:229fcc1540107944652e6199d0a81417d1590dbd7172fba5f5ee24a1f5630f20
+size 327

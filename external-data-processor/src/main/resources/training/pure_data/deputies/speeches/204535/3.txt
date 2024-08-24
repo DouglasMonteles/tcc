@@ -1,1 +1,3 @@
-Orientação de bancada na  votação do parecer da Comissão Mista quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária. Desrespeito do PSL para com as mulheres brasileiras, demonstrado no registro de candidaturas femininas laranjas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1582df162cbd31c0a11521b2d6889a366e430e9c041b21d89dd22b6648da2172
+size 312

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo adotado pela Comissão Especial à Proposta de Emenda à Constituição nº 162, de 2019, sobre a alteração do inciso VIII-A, caput  do art. 93 da Carta Magna, com vista à permissão da permuta entre juízes de direito vinculados a diferentes tribunais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ff0b64ccd035a4808ce8a4fc1bc29256dc4ed2eac4e7dd1111c9668c0dd7382
+size 309

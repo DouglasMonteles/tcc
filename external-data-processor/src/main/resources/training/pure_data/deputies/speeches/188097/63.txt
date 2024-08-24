@@ -1,1 +1,3 @@
-Desestruturação do Programa Nacional de Imunizações pelo Governo Jair Bolsonaro. Retomada dos investimentos governamentais na vacinação do povo brasileiro. Valorização da saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c68a766618b057cde62cd10c0cd5a9aa6d4b7b29277b46bd2a1a23df6ee6fb9
+size 195

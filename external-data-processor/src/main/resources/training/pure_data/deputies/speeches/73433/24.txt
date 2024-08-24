@@ -1,1 +1,3 @@
-Esclarecimentos ao Plenário sobre o acordo de procedimento proposto pelo Líder do Governo, Deputado Henrique Fontana, para votação dos destaques ao Projeto de Lei de Conversão da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação – EBC, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a163da442b4b54ed10bb720e4e3b01f367f60527d0921ba14bf9c23884dc859f
+size 494

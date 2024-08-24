@@ -1,1 +1,3 @@
-O Deputado prestou homenagem póstuma ao ex-deputado Eduardo Barbosa, destacando sua longa carreira política e seu compromisso com a Câmara dos Deputados. Lamentou a perda do ex-ministro Francisco Dornelles, descrevendo-o como uma figura notável na política brasileira. O orador relembrou a importância de Dornelles na transição democrática do país e suas realizações como Ministro da Fazenda e em outras pastas. Por fim, enfatizou a qualificação rara de Dornelles, que uniu sua formação econômica à sua experiência política, e expressou a saudade que sente por seu primo e amigo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:702ba3187367b5f2c3eb1279cc99e0aabdb66bede26a2dbfb6d2fce8025a39d0
+size 599

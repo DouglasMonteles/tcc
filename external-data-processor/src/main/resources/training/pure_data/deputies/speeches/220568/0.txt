@@ -1,1 +1,3 @@
-Críticas à ideologia de Esquerda focalizada na violência, corrupção, vandalismo e intolerância. Celebração por presidiários da eleição do Presidente Luiz Inácio Lula da Silva. Apoio da Direita à criação de CPMI para investigação da invasão e vandalismo contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc788723d3ba4bd3e01b7dca3801c7f7571047a54aae66020150edd69e4093e4
+size 313

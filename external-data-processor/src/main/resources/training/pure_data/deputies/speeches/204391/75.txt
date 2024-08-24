@@ -1,1 +1,3 @@
-Conveniência de renovação do convite ao Ministro do Meio Ambiente, Ricardo Salles, de comparecimento à Câmara dos Deputados para debate de assuntos pertinentes à questão ambiental. Inconsistência de pronunciamentos a respeito do posicionamento de Ricardo Salles sobre o desmatamento e os biomas nacionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb240790d70ceddfb3655fd63bf91ba6fa755209f66c06fb36b6f7dc5071baef
+size 313

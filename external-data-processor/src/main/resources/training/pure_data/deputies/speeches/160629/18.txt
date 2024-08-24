@@ -1,1 +1,3 @@
-Defesa de aprovação pela Casa do Proposta de Emenda à Constituição nº 54, de 1999, sobre a inserção de servidores admitidos sem concurso público no quadro temporário em extinção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2d18e621dea3014472ccfa30686730c1ce0ad7b9dfbe5ce5ff93b3ae4d418b9
+size 190

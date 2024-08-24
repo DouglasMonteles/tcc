@@ -1,1 +1,3 @@
-Constitucionalidade da proposta de emenda à Constituição referente à adoção do orçamento impositivo. Possibilidade de definição, pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, do percentual de recursos de emendas orçamentárias destinadas à saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1922e9c3863bb5086e8572b1af73f79dc7e77bb4401dd3860a47a4a382849a3d
+size 284

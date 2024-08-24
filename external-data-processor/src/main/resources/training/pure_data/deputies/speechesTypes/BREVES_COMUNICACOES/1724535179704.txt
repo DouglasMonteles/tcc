@@ -1,1 +1,3 @@
-Ineficácia de operações policiais realizadas em favelas do Rio de Janeiro como medida de segurança pública. Defesa da implantação de escolas técnicas e cursos preparatórios nas comunidades carentes cariocas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27f0ed5259df62aa40c0789f964e844b3a9805df911b5ece101ee5d92c1e62b0
+size 216

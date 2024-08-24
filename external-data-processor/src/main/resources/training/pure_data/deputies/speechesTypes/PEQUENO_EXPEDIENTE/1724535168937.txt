@@ -1,1 +1,3 @@
-Necessidade da adoção de medidas preventivas contra o coronavírus no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55e818a678de2408a88ea5693b798a5df53a8f597c382179ddb27c61febfcce3
+size 78

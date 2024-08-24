@@ -1,1 +1,3 @@
-Congratulação aos novos membros da Mesa, em especial ao Presidente Eduardo Cunha. Contentamento com a atual composição do Parlamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bf9cdcbce92e61c639663f381c8a92c6f028cc65a18d7ad03eee6e7608226e0
+size 137

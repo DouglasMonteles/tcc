@@ -1,1 +1,3 @@
-Desinteresse dos governistas na votação do projeto de lei sobre a criação do plano de cargos e salários dos policiais e bombeiros militares do Distrito Federal. Pedido aos policiais e bombeiros de retirada das galerias do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:609dbc871c5ce342cf74a91c0fb2bf2f317b59c23f311c662545fe441e516c40
+size 237

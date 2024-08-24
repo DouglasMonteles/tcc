@@ -1,1 +1,3 @@
-Contentamento com a eleição do Senador Antonio Anastasia para o Tribunal de Contas da União - TCU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e7ffe22aded62091ab9adf219b6d903e236e701662c616733a804f6f3a3699f
+size 101

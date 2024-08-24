@@ -1,1 +1,3 @@
-Declarações do Presidente Rodrigo Maia favoráveis ao avanço na pauta de votações da Casa. Sugestão à Presidência para votação de matérias de relevante interesse nacional. Urgente necessidade de retomada dos trabalhos da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7af0589678f45843a9a5326f8d034c2c5ff9657078fe9fb75ea8be07f99dd2b1
+size 298

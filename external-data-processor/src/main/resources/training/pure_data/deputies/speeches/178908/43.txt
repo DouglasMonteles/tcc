@@ -1,1 +1,3 @@
-Preocupação com vazamento de caulim e soda cáustica no Município de Barcarena, Estado do Pará, em decorrência do beneficiamento de alumínio pelas empresas Imerys do Brasil Comércio e Extração de Minérios Ltda. e Alumina do Norte do Brasil S. A. - ALUNORTE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec4c1ee9a21a2db5485f5c8e7fc237c771cd3080c7efdceb931cf4da981a16d6
+size 267

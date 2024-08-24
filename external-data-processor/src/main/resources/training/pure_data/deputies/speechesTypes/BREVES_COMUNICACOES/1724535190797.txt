@@ -1,1 +1,3 @@
-Pedido de criação de CPMI para apuração das causas e responsabilidades pelo desastre socioambiental  ocorrido no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07b260cf6aca4c6809d098c18b80ad0075b501648296afe18c9ace8619e48846
+size 166

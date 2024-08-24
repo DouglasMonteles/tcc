@@ -1,1 +1,3 @@
-Transcurso do Dia da Polícia Civil do Estado de São Paulo. Histórico da criação e da atuação do órgão. Homenagem aos policiais civis paulistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17bb4654d32a822e56ed7d7ca44a907d6eec3421d1fda0488fb8c46a27dbd80f
+size 152

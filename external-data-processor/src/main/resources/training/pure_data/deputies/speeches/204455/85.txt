@@ -1,1 +1,3 @@
-Importância da contenção de gastos pelo Estado brasileiro para o equilíbrio das contas públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcadfd949e65986f0397c2e9d6ebef2846d631df4a18feffab17ce6f2a46faac
+size 101

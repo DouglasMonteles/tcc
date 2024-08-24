@@ -1,1 +1,3 @@
-Fracasso da greve geral convocada pelos partidos de Esquerda. Necessidade de discussão e aprovação das reformas tributária e previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:195f92380dc16b19bd989f8e7685587c9d69dc3bd3ad0fc86c17fe937e1214b5
+size 145

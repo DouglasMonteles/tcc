@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição nº 18, de 2020, a respeito do adiamento das eleições municipais de 2020, em decorrência das medidas de enfrentamento da pandemia de coronavírus, declarada pela Organização Mundial da Saúde - OMS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64261842cb14a80498c3b92f5cc3f4b684380edf5fb1cf2646316b94bb6b2c40
+size 317

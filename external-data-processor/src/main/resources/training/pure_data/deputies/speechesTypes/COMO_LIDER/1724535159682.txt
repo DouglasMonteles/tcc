@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de rejeição do Veto Parcial nº 17, de 2021, aposto ao Projeto de Lei de Conversão nº 44, de 2020, (oriundo da Medida Provisória nº 1.010, de 2020), sobre a isenção do pagamento de fatura de energia elétrica aos consumidores de Municípios do Estado do Amapá, abrangidos pelo estado de calamidade pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01ea8a8eddd38252d829844cc6b202813aff653c9bbce4033dcc0f18f59d6437
+size 341

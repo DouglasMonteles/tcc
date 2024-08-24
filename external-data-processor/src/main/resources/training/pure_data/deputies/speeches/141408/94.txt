@@ -1,1 +1,3 @@
-Aprovação em parte, pela Comissão de Constituição e Justiça e de Cidadania do Senado Federal, da Proposta de Emenda à Constituição nº 333, de 2004, sobre a composição numérica das Câmaras Municipais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15850fbf69dfae7953d1dd6fa3af02d6fb0d6724eada80cecdfac05573b9571a
+size 225

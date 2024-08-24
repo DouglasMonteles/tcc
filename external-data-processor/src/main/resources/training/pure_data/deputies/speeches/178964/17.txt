@@ -1,1 +1,3 @@
-Incoerência da Presidenta Dilma Rousseff nos pronunciamentos da campanha política durante as eleições sobre a autonomia do Banco Central. Defesa por Senadores do partido da base governista de proposições a favor da independência do Banco Central.
+version https://git-lfs.github.com/spec/v1
+oid sha256:130ec31395d286f4d716d8f43d60587bc5772dd286c1c3dcdbbc45294b793910
+size 253

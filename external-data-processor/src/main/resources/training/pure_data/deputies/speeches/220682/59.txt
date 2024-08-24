@@ -1,1 +1,3 @@
-O Deputado discutiu o Veto Parcial nº 13, de 2023, aposto ao Projeto de Lei de Conversão nº 6, de 2023 (oriundo da MPV nº 1.150/2022), que Altera a Lei nº 12.651, de 25 de maio de 2012, de forma a regulamentar prazos e condições para a adesão ao Programa de Regularização Ambiental (PRA), e a Lei nº 11.428, de 22 de dezembro de 2006. Além disso, criticou a obstrução do Congresso como uma tentativa inadequada de lidar com questões envolvendo o Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:866e408ad8abc27b6b4d848db38cf406856375d60c669db35849942a7857745a
+size 486

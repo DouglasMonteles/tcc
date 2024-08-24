@@ -1,1 +1,3 @@
-O Deputado homenageou o ex-Presidente Juscelino Kubitschek no que teria sido seu 121º aniversário. Elogiou-o como o maior Presidente da história do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19a3e026ec4870ac9beeabe602d561836f7eee28dcb73c70eeaa81475d9cf2b5
+size 158

@@ -1,1 +1,3 @@
-Solicitação ao Ministro da Justiça, José Eduardo Cardozo, de retorno da Força Nacional para policiamento da região do Entorno do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0212e3391143b71a25c793fefbc666d00846bbbd87170daa336ebac54914f51
+size 152

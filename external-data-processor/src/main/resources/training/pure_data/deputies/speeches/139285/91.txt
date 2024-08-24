@@ -1,1 +1,3 @@
-Transcurso dos 10 anos de falecimento do líder socialista Paulino Vieira, do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58e83a850d77b2db6378916aa624d51d60116e12f25bac3d7d5ba80468fb880f
+size 94

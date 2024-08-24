@@ -1,1 +1,3 @@
-O Deputado expressou solidariedade ao povo gaúcho em meio à calamidade causada por enchentes e abordou o aniversário de 50 anos da ditadura chilena liderada pelo General Pinochet. Destacou a violência da ditadura chilena, que resultou em milhares de mortes, torturas e prisões, além de mencionar o apoio do Brasil a essa ditadura enquanto vivia sob seu próprio regime autoritário. Enfatizou a importância de nunca mais permitir ditaduras, tanto no Brasil quanto em qualquer outro lugar do mundo, e defendeu a democracia como o melhor sistema, mesmo com os desafios das fake news. Também criticou aqueles que falam em democracia apenas superficialmente, sugerindo que alguns desejam uma ditadura sangrenta como a do Chile no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:faca4bed973ace2db7a7958af8dd3f6a800f51de1eefec4df6dca9d938c2ccd2
+size 741

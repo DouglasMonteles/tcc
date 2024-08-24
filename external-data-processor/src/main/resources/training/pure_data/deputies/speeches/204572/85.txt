@@ -1,1 +1,3 @@
-Solicitação à Presidência de votação, em segundo turno, da Proposta de Emenda à Constituição nº 372, de 2017, sobre a criação das polícias penal federal, estaduais e distrital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbf4a11d0d6a6e0a00160ec0add37bad17a5106d1b188fbd17671f0a05e86a93
+size 189

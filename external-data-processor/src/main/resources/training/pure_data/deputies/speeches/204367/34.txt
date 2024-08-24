@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Proposta de Emenda à Constituição nº 10, de 2021, sobre a manutenção de incentivos e benefícios tributários concedidos a empresas de tecnologia da informação e comunicação, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:444c2e319b403efcd8b1cdc491df6a540bee7609b1fda94dfc48fd2eeb2e075d
+size 250

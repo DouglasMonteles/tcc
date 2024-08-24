@@ -1,1 +1,3 @@
-Falecimento do ex-Deputado Constituinte Jacy Miguel Scanagatta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:177c0443e15af389dd2df2cb18891c52dc6dbd76f13ac3135f2b544a14b23313
+size 63

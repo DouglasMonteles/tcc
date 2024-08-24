@@ -1,1 +1,3 @@
-Nota do Sindicato dos Estabelecimentos de Serviços de Saúde do Estado de Alagoas, a respeito da grave crise financeira por que passa o setor, notadamente pelos hospitais conveniados com o Sistema Único de Saúde SUS. Imediato repasse de recursos à rede hospitalar pelo Governador Paulo Dantas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cac1c08ea0d256df82dc1525a4dfbb2a39a2684f461ae146e7892a9bd170c06c
+size 297

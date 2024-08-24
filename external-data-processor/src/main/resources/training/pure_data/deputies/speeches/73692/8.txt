@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a reavaliação do exame psicotécnico aplicado aos postulantes à Carteira Nacional de Habilitação, com vistas à detecção de transtornos de conduta, do déficit de atenção e da hiperatividade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:505c07c902d4133310ec5766feba795e0d55dea4947ad63015c1257a2322751b
+size 239

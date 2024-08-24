@@ -1,1 +1,3 @@
-O Deputado refutou a declaração do Parlamentar, Gustavo Gayer, do Partido dos Trabalhadores (PT), sobre recordes em investimentos estrangeiros, citando dados do Banco Central que indicam uma queda de 40% nos primeiros nove meses deste ano. Atribuiu essa diminuição às ações do atual Governo, liderado, segundo suas palavras, por alguém que não respeita a meta fiscal e conduzirá o País ao buraco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3e3fafa1967d75483cd39874545ca5b5620d8b850fd78aa5917c86755cd38b7
+size 407

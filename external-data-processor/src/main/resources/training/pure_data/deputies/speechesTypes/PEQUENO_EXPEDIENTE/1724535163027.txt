@@ -1,1 +1,3 @@
-Reportagem sobre a democratização das verbas de publicidade do Governo Luiz Inácio Lula da Silva, publicada pelo jornal Folha de S.Paulo. Protesto contra editoriais veiculados pela mídia a respeito do assunto. Atuação da Frente Parlamentar em Apoio e Fortalecimento da Mídia Regional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:233439e0ddf4e4a31d423cf8d6791ada39209d0c5ba5abee92d4b126f926c010
+size 291

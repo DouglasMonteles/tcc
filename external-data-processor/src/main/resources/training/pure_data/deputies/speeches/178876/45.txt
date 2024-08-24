@@ -1,1 +1,3 @@
-Apoio à reivindicação de permissionários lotéricos do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a1326ae6deca907f97696c12f12127980b6493b9be26e8cc96bbcfdebf262c8
+size 65

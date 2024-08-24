@@ -1,1 +1,3 @@
-Repúdio às ofensas racistas sofridas pelo jogador brasileiro Vinícius Júnior em partida do Campeonato Espanhol de Futebol. Revolta mundial contra a discriminação racial a cidadão brasileiro em território espanhol. Adoção de providências pelo Governo brasileiro para reparação do dano moral causado ao jogador Vinícius Júnior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf9b15b5563f8a7449413ac7e5bff84f2195709eb5f7732819416761095ff943
+size 340

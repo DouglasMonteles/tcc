@@ -1,1 +1,3 @@
-Presença em Brasília, Distrito Federal, do Vereador Carlos Macuco, do Município de Muriaé, Estado de Minas Gerais. Transcurso do aniversário de criação da cidade. Elogio ao Prefeito Grego pela gestão do Município.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1812e17eeb3420fc4b49fdba9ad9ba5197c381faf44e35897af9dd5e52c29ae8
+size 222

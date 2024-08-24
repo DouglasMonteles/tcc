@@ -1,1 +1,3 @@
-Expectativa de aprovação, pelo Senado Federal, do Projeto de Lei nº 5.638, de 2020, sobre as ações emergenciais e temporárias destinadas ao setor de eventos, para compensação dos efeitos da epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51bb16149b65e64316085e1859d415fc91381fa9f44489649b2f14581473cc26
+size 223

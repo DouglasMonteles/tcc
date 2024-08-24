@@ -1,1 +1,3 @@
-Apelo aos Deputados de aprovação da Medida Provisória nº 759, de 2016, sobre a regularização fundiária rural e urbana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2082f5c3e50fcb3995bf4d5644742e40120c4272932c62e66513064c32a93e74
+size 125

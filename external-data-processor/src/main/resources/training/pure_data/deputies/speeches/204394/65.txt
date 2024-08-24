@@ -1,1 +1,3 @@
-Defesa de rejeição do Veto Parcial nº 53, de 2019, aposto ao Projeto de Lei de Conversão nº 25, de 2019 (oriundo da MPV nº 890, de 2019), sobre a instituição do Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde (SUS), e a criação do serviço social autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde (ADAPS).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e24f98aecbb184e2fbad14ed07203c6046b34ca47eb9284d1ccabb87c560e37
+size 406

@@ -1,1 +1,3 @@
-Visita aos Estados do Maranhão e do Acre de membros da CPI destinada à investigação das causas, das conseqüências e dos responsáveis pela morte de crianças indígenas por subnutrição de 2005 a 2007. Agradecimento ao Governo Federal pela assistência prestada às populações atingidas por enchentes no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55e7d903e5874fc7feefa0fba1e920d1828e74539909f177562fe43bb37367f7
+size 333

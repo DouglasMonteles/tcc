@@ -1,1 +1,3 @@
-Crítica à baixa qualidade da rede de energia elétrica oferecida às propriedades rurais no Estado do Rio Grande do Sul. Convite para audiência pública na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural sobre as quedas de tensão e a baixa qualidade da energia elétrica fornecida ao meio rural brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57b19e054c7a38c95c931c46b3a8a8c474565be9961e15e70d42bb47abbb354f
+size 337

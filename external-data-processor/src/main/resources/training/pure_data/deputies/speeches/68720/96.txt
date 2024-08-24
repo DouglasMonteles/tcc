@@ -1,1 +1,3 @@
-Reportagem sob o título Fila do Bolsa Família já tem 3,5 milhões de pessoas e pressiona Prefeitos, publicada pelo jornal O Estado de S. Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a86e026927d437837a8869da58b254a62f0d6610dbb6fe17ce0edbb949cd005
+size 146

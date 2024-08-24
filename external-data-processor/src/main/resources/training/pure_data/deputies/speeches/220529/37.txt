@@ -1,1 +1,3 @@
-Presença no plenário do Prefeito Municipal de Viana, Wanderson Bueno, acompanhado da Procuradora-Geral do Município, Thais Prata da Silva, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7b8ffdf75e01d502e301bf0637854047ac716a03188c5f0fa2276bd889cee45
+size 168

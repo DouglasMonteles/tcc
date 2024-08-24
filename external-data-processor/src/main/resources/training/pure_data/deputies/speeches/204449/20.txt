@@ -1,1 +1,3 @@
-Insatisfação do orador com a atual gestão do Instituto Nacional de Colonização e Reforma Agrária - INCRA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fca99ec4191c90a79e8cb1dfb03b4fd8555026289f5202208fbdf3e605213df
+size 111

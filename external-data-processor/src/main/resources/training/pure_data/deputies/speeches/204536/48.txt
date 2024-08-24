@@ -1,1 +1,3 @@
-Encaminhamento da votação da Medida Provisória nº 886, de 2019, sobre a organização básica dos órgãos da Presidência da República e dos Ministérios. Elogio ao Presidente da Comissão de Constituição e Justiça e de Cidadania, Deputado Felipe Francischini, pela inclusão na pauta da Proposta de Emenda à Constituição nº 410, de 2018, sobre a prisão imediata do réu após a condenação judicial em segunda instância. Defesa de aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abb772f766f0f95608b59104cb819c6d602fdb5420378afb15f4a74cb62af321
+size 475

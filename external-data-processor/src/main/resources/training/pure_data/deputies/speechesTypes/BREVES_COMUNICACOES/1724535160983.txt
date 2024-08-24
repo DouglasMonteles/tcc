@@ -1,1 +1,3 @@
-Natureza ideológica da demissão do Sr. Joaquim Levy do cargo de Presidente do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:466ebe8cea3c067689dcb3ed21e0713cb79a48cf2f7ef4334f900071e1ff11f4
+size 142

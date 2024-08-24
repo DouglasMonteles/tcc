@@ -1,1 +1,3 @@
-Razões do posicionamento da Oposição contrário à aprovação da proposta governamental de reforma tributária. Contestação às críticas da Direita ao Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d215da711e2e09ece0aa33d47499611faa2c056fb61d8b7cfae0cbfd6c8e9a39
+size 196

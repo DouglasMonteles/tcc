@@ -1,1 +1,3 @@
-Agradecimento à população do Estado de Sergipe pela eleição do orador. Apelo ao Governo Federal de manutenção da Fábrica de Fertilizantes Nitrogenados - FAFEN no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0acd83be0d6c4df63d07415053b0d6d06490e5751d085f353b3f2b529b4422ff
+size 177

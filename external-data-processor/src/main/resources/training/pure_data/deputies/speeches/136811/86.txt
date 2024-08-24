@@ -1,1 +1,3 @@
-Realização da Exposição Internacional de Animais, no Município de Esteio, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f9e2c0be8d482c531188bcbcb5f793ccc243e3f16249ff0ffc6ce078a53d0db
+size 107

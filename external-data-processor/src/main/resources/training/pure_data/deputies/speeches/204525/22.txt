@@ -1,1 +1,3 @@
-Agradecimentos aos eleitores paulistas pela reeleição da oradora. Pontos de convergência e de divergência da oradora com o Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f7d79306b9b9e040084ea23dc0e0fed9ee35b24a6f14dc8cba0e1ecefe7e91c
+size 162

@@ -1,1 +1,3 @@
-Acerto da iniciativa do Governo Luiz Inácio Lula da Silva de concessão de auxílio financeiro aos municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aff3543ef4b44b3cab081279eb23c3599aedfae76cf95a43d3b916c5d5c860c8
+size 124

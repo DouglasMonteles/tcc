@@ -1,1 +1,3 @@
-Pedido de distribuição de cópias do parecer do Relator ao Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:130a169e0cf227570e0dcc414973fdf988b37c877cd5c0585e7fd156e130f82a
+size 71

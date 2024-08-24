@@ -1,1 +1,3 @@
-Posicionamento do orador sobre a votação dos projetos de lei elaborados em benefício dos atingidos pela tragédia socioambiental ocorrida no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ca6855d058ed8c6a2d609049fd0aab5b5227654ff1b67f8a3a6dd5da1223e64
+size 193

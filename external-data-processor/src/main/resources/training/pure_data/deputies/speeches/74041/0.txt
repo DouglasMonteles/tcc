@@ -1,1 +1,3 @@
-Investigação de irregularidades na utilização de cartões de crédito corporativos. Realização da reforma política. Necessidade de votação, pela Casa, da proposta de emenda à Constituição sobre a recomposição numérica das Câmaras de Vereadores. Realização da reforma tributária. Resgate do papel das Comissões Parlamentares de Inquérito  — CPIs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b20017c70375b888c86fddd6bf811168356b8bf9f82d82188e89e0daea2bb482
+size 368

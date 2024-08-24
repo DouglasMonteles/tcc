@@ -1,1 +1,3 @@
-Leitura de decisão da Presidência sobre a designação de Relator em substituição à Comissão Mista para proferimento de parecer sobre eventuais emendas ao Projeto de Lei nº 6.295, de 2013, sobre a inclusão, entre os princípios e diretrizes do Sistema Único de Saúde  - SUS, do princípio da organização de serviços públicos específicos e especializados para atendimento de mulheres e vítimas de violência doméstica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7b64c7d7e6f52077285f9691c7efd958dcda39f1f249f8e615bec9640a48982
+size 434

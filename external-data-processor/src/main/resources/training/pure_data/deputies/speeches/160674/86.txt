@@ -1,1 +1,3 @@
-Solicitação ao Governador do Estado da Paraíba de retomada das obras das rodovias de acesso aos Municípios de São José de Espinharas, Vista Serrana e Mãe D´Água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19964c6798cdc70e4cd7492d2f94a972eeb7cfbdd9908118c202427a219ae58f
+size 170

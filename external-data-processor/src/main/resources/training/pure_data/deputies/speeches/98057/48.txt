@@ -1,1 +1,3 @@
-Defesa da votação do Substitutivo do Senado Federal ao Projeto de Lei nº 5.029, de 2019, (11.021-B, de 2018, na Câmara dos Deputados), a respeito das regras aplicadas às eleições.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfde8cc141d6ac6d7f3c2427480765ce0d0034cc0e7fdc5ae640bbef74a485bd
+size 186

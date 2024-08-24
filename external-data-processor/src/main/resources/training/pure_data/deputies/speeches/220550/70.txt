@@ -1,1 +1,3 @@
-O Deputado manifestou-se sobre três temas centrais: a proibição de drogas, o aborto e o imposto sindical. Comentou a iniciativa do Presidente do Senado, Rodrigo Pacheco, que protocolou uma PEC deixando clara a proibição de drogas no País. Em relação ao aborto, criticou a Ministra Rosa Weber e mencionou o pedido de plebiscito protocolado por senadores para consultar o povo sobre o tema. Por fim, condenou o imposto sindical, citando o caso em Sorocaba (SP), onde trabalhadores são cobrados em 12%. Finalizou incentivando Rodrigo Pacheco a continuar defendendo o que acredita serem os interesses da população contra decisões do STF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:789992203f5b7dec228b3bfa8ff8ac7a5ed1ab05c066da8f38e83b7e1e82cfe5
+size 645

@@ -1,1 +1,3 @@
-Crise no sistema financeiro internacional. Urgente votação da Proposta de Emenda à Constituição nº 233, de 2008, sobre reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61c435124e3fd562826aa28cd397e40a7be6cfc118aa5343229b713910f6533b
+size 145

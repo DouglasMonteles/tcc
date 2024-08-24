@@ -1,1 +1,3 @@
-Esclarecimentos ao senador Heráclito Fortes  de que o crédito destinada à  BBTUR, Viagens de Turismo Ltda  no Projeto de Lei 73 de 2008- CN trata-se de um remanejamento de recursos, destinados à própria empresa no Orçamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb376bca9ac8251656eec399453ea0ddcadabfed82a47681abd100c99b9993f0
+size 230

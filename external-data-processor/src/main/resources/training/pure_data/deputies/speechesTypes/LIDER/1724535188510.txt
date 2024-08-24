@@ -1,1 +1,3 @@
-Defesa de aprovação da emenda do DEM ao Projeto de Lei 382 de 2011 (Dispõe sobre o valor do salário mínimo em 2011, a sua política de valorização de longo prazo, e disciplina a representação fiscal para fins penais nos casos em que houve parcelamento do crédito tributário), que eleva o valor do salário mínimo para 560 reais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f47bea905371971cf147c629d809514fc78d0eb5921c04ff9bd22f33ca544a23
+size 340

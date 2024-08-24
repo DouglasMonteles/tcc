@@ -1,1 +1,3 @@
-Participação do orador nas comemorações do aniversário da revolução ocorrida no País em 31 de março de 1964.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03867b9507dcb75a451c550b816cfa95d8fd74011914fdd357612a3a01abf9cf
+size 117

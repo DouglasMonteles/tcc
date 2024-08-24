@@ -1,1 +1,3 @@
-Transcurso do 133º aniversário de fundação do Município de São Antônio de Jesus e do 80º aniversário de emancipação político-administrativa do Município de Irecê, Estado da Bahia. Criação da Universidade Federal do Noroeste da Bahia - UFENOBA, com sede no Município de Irecê.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45c0706542893245ce6f653a0d2ee609e9a02fd683eaf19f0578bbdb3a6257c3
+size 293

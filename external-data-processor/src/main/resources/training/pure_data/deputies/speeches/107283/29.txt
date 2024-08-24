@@ -1,1 +1,3 @@
-Transcurso dos 500 dias da prisão do ex-Presidente Luiz Inácio Lula da Silva. Pedido ao Supremo Tribunal Federal de determinação da soltura do ex-Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf20ac2e3318e3f264eb89db48b0e08791c86108ccca1a5318abac63d8eb0611
+size 175

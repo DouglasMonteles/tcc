@@ -1,1 +1,3 @@
-Repúdio à tentativa do Governo Federal de conquista de apoio da bancada federal evangélica para recriação da Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a15bef7b0cd6645813a08c1675ccca9cf738671cb391d766f7a6e5895e6847b0
+size 245

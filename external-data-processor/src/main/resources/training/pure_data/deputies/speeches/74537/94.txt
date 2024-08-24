@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM à Emenda 2, destacada, ao Projeto de Lei 8 de 2009-CN (Abre ao Orçamento Fiscal da União crédito especial em favor de transferências a Estados, Distrito Federal e Municípios, para o fim que especifica), que aumenta para 6 bilhões o valor do crédito especial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b3af0134eaab0080aa4bb7d0d9aca388d0be8c85b63c21e6c385830987ee718
+size 299

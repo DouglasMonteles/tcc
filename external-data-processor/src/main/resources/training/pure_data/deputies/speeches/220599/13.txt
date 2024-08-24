@@ -1,1 +1,3 @@
-Apelo ao Supremo Tribunal Federal, especialmente ao Ministro Alexandre de Moraes, pela liberação da transferência do ex-Deputado Roberto Jefferson para tratamento de saúde em hospital particular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b22667971ae8d2659f6bedec25d2b1e4fce827c399d9a704b7f8a1f277961c6b
+size 199

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 4.629, de 2020, sobre alteração da Lei nº 12.651, de 2012, sobre a proteção da vegetação nativa, e do Decreto-Lei nº 917, de 1969, sobre o emprego da aviação agrícola no País, para inclusão do uso da aviação agrícola nas diretrizes e políticas governamentais de combate a incêndios florestais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d82ed570324f48c3ade6d758d62a562a9b10815fa840c9add6ec5a86c4e08350
+size 425

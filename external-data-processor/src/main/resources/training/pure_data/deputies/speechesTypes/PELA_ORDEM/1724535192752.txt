@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar pela Educação no Campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a7ae2d02e6c7f5b1caa25bddec0c0f8c10da4cf80d2c5be9ad4073f4c66f7c1
+size 59

@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PSB/PCdoB/PMN/PRB às   Emendas do Senado ao Projeto de Lei de Conversão 2, de 2009 (Medida Provisória 449 de 2008), que altera a legislação tributária federal relativa ao parcelamento ordinário de débitos tributários, concede remissão nos casos em que especifica, institui regime tributário de transição, e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75161a3267c1541ed6dd5e9e5c9e5ce3b12ef8e15c61041b4f2b248cdc61029b
+size 380

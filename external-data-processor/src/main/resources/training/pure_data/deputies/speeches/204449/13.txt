@@ -1,1 +1,3 @@
-Contrariedade do orador a projeto apresentado na Assembleia Legislativa do Estado do Mato Grosso prejudicial à aviação agrícola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d85a35046525fa4b35655e9d5afebec5feffd13e893b9b3a931e6b3168ceb1dc
+size 132

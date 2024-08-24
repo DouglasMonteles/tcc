@@ -1,1 +1,3 @@
-Falência da gestão pública no Estado de Alagoas. Não utilização de recursos federais pelo Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58e6a9054d153d6c593901b79fd8b4c211975e4fd07e81925de1e921e68f4f9b
+size 103

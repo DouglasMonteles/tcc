@@ -1,1 +1,3 @@
-Inadmissibilidade de cerceamento à liberdade de expressão do povo brasileiro. Direcionamento do País, a passos largos, ao regime de exceção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a0ea3815f940f8be9e43a26722ce96b0fcbb9a13c2a75980ef5fb419094fc4d
+size 145

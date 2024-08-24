@@ -1,1 +1,3 @@
-Questão de ordem sobre os critérios da Presidência para a contagem de prazo para tramitação de processos na Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abb2d263a662c8ab56e4da4f343c9899fcc4b012eed719fcf22fa76ba75d547c
+size 167

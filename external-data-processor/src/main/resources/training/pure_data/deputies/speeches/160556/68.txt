@@ -1,1 +1,3 @@
-Transcurso do 316º aniversário de fundação do Município de Mariana, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba0a1f4991163f3a2bb053ac02aa6822c36272cbd2c17191e6bf8703fe80f2ca
+size 96

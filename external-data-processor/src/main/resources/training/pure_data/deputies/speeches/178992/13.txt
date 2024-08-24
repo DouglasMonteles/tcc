@@ -1,1 +1,3 @@
-Reconhecimento do trabalho do Deputado Eduardo Barbosa em prol da aprovação de medida provisória relativa à regulamentação de parcerias entre organizações não governamentais e entidades filantrópicas com o poder público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4cc68ca38bf146184ddc9e948dabe03a29828308c4226ecc49c105b91b138c9
+size 231

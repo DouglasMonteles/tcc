@@ -1,1 +1,3 @@
-Realização pela Comissão de Meio Ambiente e Desenvolvimento Sustentável de audiência pública para apresentação do trabalho da Secretaria Especial de Direitos Animais da Prefeitura Municipal de Porto Alegre, Estado do Rio Grande do Sul. Conveniência de extensão da iniciativa gaúcha a todos os Estados da Federação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e9780fff75db4e45dc349b97b53afcbdf091ed277d7ef8de74fbd293cf0351e
+size 327

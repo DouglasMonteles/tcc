@@ -1,1 +1,3 @@
-Documento Carta Aberta aos candidatos e candidatas às Prefeituras e Câmaras Municipais, a respeito do Estatuto da Criança e do Adolescente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9ad961e80a10e8c8a840c597d09b4c1d26981efd8d6f261d8f003f12c5d08eb
+size 142

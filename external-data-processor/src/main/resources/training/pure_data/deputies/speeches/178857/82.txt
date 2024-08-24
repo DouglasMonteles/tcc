@@ -1,1 +1,3 @@
-Elogios à postura da Presidente da República afastada, Dilma Rousseff, durante o processo de impeachment. Defesa da tese de abertura do processo de afastamento da Presidente da República afastada, Dilma Rousseff, para blindagem de políticos contra investigações de atos de corrupção pela Operação Lava-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33c17ecb075e1d7be09ce050d0f19aedb0a069f39e80741fede37bbb3c767cd0
+size 317

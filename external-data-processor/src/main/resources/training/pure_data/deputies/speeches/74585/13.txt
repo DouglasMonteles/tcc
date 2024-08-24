@@ -1,1 +1,3 @@
-Aprovação do projeto de lei sobre a instituição do Programa Bolsa-Formação, pela Comissão de Segurança Pública e Combate ao Crime Organizado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d26a066cc22c953656e6c3be554cf070f9dcd74c59467353221c34c74ca4a2f0
+size 150

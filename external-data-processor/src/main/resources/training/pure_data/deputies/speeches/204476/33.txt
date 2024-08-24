@@ -1,1 +1,3 @@
-Necessidade de adoção, pelo Governo Federal, de medidas em prol das empresas do sistema de transporte coletivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bfd8ed0c87286be4dd69da4931ab7d72a1e16329d0e0ed80a507b62cdc7345b
+size 113

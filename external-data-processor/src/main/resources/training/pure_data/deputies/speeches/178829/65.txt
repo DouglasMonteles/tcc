@@ -1,1 +1,3 @@
-Investigação de Desembargador do Tribunal de Justiça do Estado de São Paulo por concessão de liberdade a traficantes de drogas. Anúncio de apresentação de projeto de lei relativo ao agravamento de penas para crimes funcionais praticados por juízes e desembargadores e à extinção da pena de aposentadoria compulsória no caso de comprovação da prática de desvios de conduta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4f39341794c23e3ac309a031da9dad606f135b77562f3c2dc18d1ec74285688
+size 388

@@ -1,1 +1,3 @@
-Desagravo a Deputados suspensos pelo PSB em face do apoio a reformas de interesse do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a00029d7b19cd7a07cc233d93e744f9059d35fe999647967f25496edda8932dd
+size 92

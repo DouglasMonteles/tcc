@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação em regime de urgência do Projeto de Lei nº 8.889, de 2017, sobre a provisão de conteúdo audiovisual por demanda - CAvD).
+version https://git-lfs.github.com/spec/v1
+oid sha256:baaead7d793c64fd40d4e8bea9fd12d52f3551de887c91bfb3110c488e28bd81
+size 190

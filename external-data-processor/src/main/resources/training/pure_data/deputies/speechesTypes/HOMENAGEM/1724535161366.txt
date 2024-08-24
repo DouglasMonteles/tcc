@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Grito de Liberdade entoado pelos Bombeiros Militares e Policiais Militares do Rio de Janeiro na ocupação do Quartel do Comando-Geral em 3 de junho de 2011, em luta por dignidade salarial da tropa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67d84b6dd754b26c45725723c727a350c4b46ea9067b4008f2b9a8f9346a402b
+size 229

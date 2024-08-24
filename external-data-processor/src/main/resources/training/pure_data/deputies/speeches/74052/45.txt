@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 5, de 2021, sobre alteração da Lei Complementar nº 160, de 2017, com vista à prorrogação, por até 15 anos, de incentivos fiscais relativos ao ICMS, concedidos a empresas comerciais pelos Estados e pelo Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b1b8f12beddd289c1e97303fbd707767958d44541cdf89c7e326ae13b0cbf69
+size 353

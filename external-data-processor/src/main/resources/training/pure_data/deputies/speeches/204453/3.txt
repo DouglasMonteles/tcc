@@ -1,1 +1,3 @@
-Realização, pela Assembleia Legislativa do Estado do Rio Grande do Norte, de audiência pública destinada ao debate  da Medida Provisória nº 871, de 2019, sobre a correção de irregularidades em benefícios previdenciários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e396e475ede5ca91974dc7fdf76e259b05678f6217942b40572c77dd81355435
+size 230

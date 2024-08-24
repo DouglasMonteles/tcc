@@ -1,1 +1,3 @@
-Votação pela Casa da Proposta de Emenda à Constituição nº 22, de 2011, a respeito da remuneração dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias. Pedido ao Senado Federal de celeridade na votação da propositura. Apelo ao Ministro da Saúde, Marcelo Queiroga, de pagamento do reajuste salarial dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias. Imediata votação pela Casa do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8a5a37a0f57d59cdb54d56e9e247072b6b706622ad452de3ee19603b870c158
+size 565

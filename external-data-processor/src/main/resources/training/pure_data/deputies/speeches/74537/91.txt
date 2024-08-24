@@ -1,1 +1,3 @@
-Baixa pontuação alcançada por alunos de escolas públicas no Exame Nacional do Ensino Médio — ENEM. Críticas à postura Governador do Estado da Bahia, Jaques Wagner, por ocasião da Marcha dos Prefeitos Baianos. Defesa da aprovação da medida provisória sobre o parcelamento de dívidas dos municípios junto ao INSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7397ec47dc10c46dba4ddc16049de5af0ee11409f15b8646596426cb48307e60
+size 326

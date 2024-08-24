@@ -1,1 +1,3 @@
-Protesto contra  o uso da  palavra por Parlamentares para discussões fúteis e vazias. Comprometimento do orador com a educação pública de qualidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f24951d8679055446a2d4356f81a4eb44b5264d62394fd12f889d9dc92bcff00
+size 153

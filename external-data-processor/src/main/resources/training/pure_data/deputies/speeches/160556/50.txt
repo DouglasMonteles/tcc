@@ -1,1 +1,3 @@
-Realização de greve nacional por  professores da rede de ensino público. Apoio às reivindicações da categoria. Apelo ao Ministro da Educação, Aloizio Mercadante, de celeridade na elaboração do Plano Decenal de Educação para Todos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ec65d8a012c7874aa493fe9ddf167fe3a853ab04561be726f2ace56f0774a09
+size 242

@@ -1,1 +1,3 @@
-Emissão de pareceres às emendas de Plenário oferecidas ao Projeto de Lei nº 1.530-C, de 2015, dispõe sobre medidas de prevenção e repressão ao contrabando, pelas comissões de Viação e Transportes; de Desenvolvimento Econômico, Indústria, Comércio e Serviços; de Segurança Pública e Combate ao Crime Organizado e de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6078a4a14d7c09a3831349ec2951b444020aaf81698954de4e0933b1ace55a2b
+size 373

@@ -1,1 +1,3 @@
-Ponderações sobre a constitucionalidade da Taxa de Avaliação da Conformidade constante da   Medida Provisória 541 de 2011 (Dispõe sobre o Fundo de Financiamento da Exportação, altera as leis 12.096 de 2009; 11.529 de 2007; 10.683 de 2003;5.966 de 1973; e 9.933 de 1999, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a69f24486575442e6bb88192f515110a49fae747fb9e3699c12ebed1ab27d07
+size 306

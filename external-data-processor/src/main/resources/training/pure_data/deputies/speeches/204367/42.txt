@@ -1,1 +1,3 @@
-Regozijo com a obtenção do número de assinaturas necessárias para tramitação da proposta de emenda à Constituição sobre a submissão, ao crivo da Câmara dos Deputados e do Senado Federal, do financiamento de obras internacionais pelo BNDES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9082c1143501b414feef04e260ead3b04adb4a9fbc17a61b18ff6138e4568531
+size 250

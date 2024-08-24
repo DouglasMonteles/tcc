@@ -1,1 +1,3 @@
-Solicitação ao Presidente Marco Maia de inserção na pauta do projeto de lei sobre a distribuição de royalties de petróleo aos Estados e Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8196091f77b893ccfa5d9fea4806f4f86074b8b23b3c4862f5a72d06e2fb9743
+size 167

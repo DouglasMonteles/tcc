@@ -1,1 +1,3 @@
-Divulgação, pelo site UOL, de denúncia sobre o uso eleiçoeiro do Programa Auxílio Brasil pelo ex-Presidente Jair Bolsonaro. Assinatura, pelo Presidente Luiz Inácio Lula da Silva, de medida provisória sobre a modernização do programa habitacional brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14031e7443311b7f6ecec37623037b720adaec36196b1dfb73665a89c86b7cfd
+size 266

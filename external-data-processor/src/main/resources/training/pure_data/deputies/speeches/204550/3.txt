@@ -1,1 +1,3 @@
-Transcurso do 32º aniversário de emancipação político-administrativa do Município de Eusébio, Estado do Ceará. Congratulações ao Prefeito Acilon Gonçalves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01ecc7b2a693e2b6422def4e7b994b48b9e719b7fba48e9b710f3cae3645dc71
+size 166

@@ -1,1 +1,3 @@
-Realização da exposição A Arte e Cultura de Rondônia, da artista plástica Édina do Nascimento Sales Costa, no Espaço Cultural Ivandro Cunha Lima do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b804e5e460cb60579d0930b2cbcff225d23dcee3da3f30cf6898c2e38d9cc420
+size 171

@@ -1,1 +1,3 @@
-Repúdio à cartilha ideológica norteadora da 17ª Conferência Nacional de Saúde, editada pelo Governo Luiz Inácio Lula da Silva. Pedido de suspensão das conferências municipais de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae8198dc73ddfa7c690cd727f4497c0d8dd72f45783dac7ff0a5f7d8acdcd18c
+size 194

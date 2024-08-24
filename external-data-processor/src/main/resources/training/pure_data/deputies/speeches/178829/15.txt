@@ -1,1 +1,3 @@
-Defesa da aprovação do Projeto de Lei nº 343, de 2015, que estabelece normas para a organização e a manutenção de programas especiais de proteção a vítimas e a testemunhas ameaçadas, institui o Programa Federal de Assistência a Vítimas e a Testemunhas Ameaçadas e dispõe sobre a proteção de acusados ou condenados que tenham voluntariamente prestado efetiva colaboração à investigação policial e ao processo criminal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1c576de4a33e160bf77af8d9132400d42a51ae95a477d93f418d97b1587f1cb
+size 439

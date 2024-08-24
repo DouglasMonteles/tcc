@@ -1,1 +1,3 @@
-A Deputada questionou a forma como a Sessão estava sendo conduzida e as mudanças nos acordos entre os Líderes, tornando difícil para os Deputados entenderem o que estava sendo votado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e73bebcf80911e3c58f715f2215b67cab60908287d13ebf93306462fc94fa700
+size 187

@@ -1,1 +1,3 @@
-Transcurso do 133º aniversário de emancipação político-administrativa do Município de Riacho de Santana, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d87d7e4e41688ed94d8ec122c97f176d85a3c8d41fec37d6223ddf01e2f4603
+size 130

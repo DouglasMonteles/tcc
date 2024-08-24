@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Turismo. Participação do setor turístico no Produto Interno Bruto - PIB brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ece3bc24e561096d871ab62730f8ffade4be646d51d90f23c39e584ee80afd6
+size 115

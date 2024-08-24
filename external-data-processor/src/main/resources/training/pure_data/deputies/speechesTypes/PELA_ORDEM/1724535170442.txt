@@ -1,1 +1,3 @@
-Empenho do Ministro da Agricultura, Pecuária e Abastecimento, Blairo Maggi, na exclusão do leite de acordo firmado pelo Brasil junto ao Mercado Comum do Sul - MERCOSUL, para contenção das importações do produto. Anúncio da realização de debate sobre o tema pela Subcomissão de Política Agrícola e Fundiária e da Reforma Agrária da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db7904691248ffa2c66a5ae1a83daebd1aec680171af340e6636eff5e3bf864d
+size 420

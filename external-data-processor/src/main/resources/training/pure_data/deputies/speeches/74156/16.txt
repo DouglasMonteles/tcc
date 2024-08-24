@@ -1,1 +1,3 @@
-Vitória do estudante Éder Coimbra, do Município de Padre Paraíso, Estado de Minas Gerais, no quadro Soletrando, do programa Caldeirão do Huck, da TV Globo. Relevância dos investimentos em educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99062962d9fdbbf47c4a766302ab7ab9a31ee189201ea13720b39724846afb1f
+size 205

@@ -1,1 +1,3 @@
-Encaminhamento da votação do parecer pela admissibilidade da Medida Provisória 385 de 2007 (Acrescenta parágrafo único ao art. 1º da Lei 11.368 de 2006, para estender ao trabalhador rural enquadrado como contribuinte individual o prazo previsto no art. 143 da Lei 8.213 de 1991- requisição de aposentadoria por idade). Ponderações sobre o abusos na utilização do instituto da Medida Provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce4e0cd56198ad19a23fa6d6856d75e0b829fd883e0b51341d48500a179ee872
+size 407

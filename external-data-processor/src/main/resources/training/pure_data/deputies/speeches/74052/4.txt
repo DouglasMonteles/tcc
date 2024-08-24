@@ -1,1 +1,3 @@
-Pesar da situação de abandono do setor de transporte rodoviário nacional. Histórico da escolha brasileira pelo modal rodoviário. Sugestão à Receita Federal do Brasil de realização de estudo para a redução da incidência de tributos sobre frete e à ANTT de estudo para a redução do preço do óleo diesel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d823bac9e6ccd717a169dce6db9dbae394ec4c32977b97ca33fb997305a50e32
+size 318

@@ -1,1 +1,3 @@
-Natureza separatista e xenofóbica da proposta de criação da Frente Sul-Sudeste em oposição aos Estados das Regiões Norte e Nordeste, apresentada pelo Governador do Estado de Minas Gerais, Romeu Zema, com o apoio do Governador do Estado do Rio Grande do Sul, Eduardo Leite. Refutação às propostas de divisão regional do País. Defesa dos valores democráticos, da construção de sociedade justa e igualitária e da unidade do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abcfbe50f85f61d020f6fdfff8a6854aa642d8f80e2820623e739a14b29d5184
+size 442

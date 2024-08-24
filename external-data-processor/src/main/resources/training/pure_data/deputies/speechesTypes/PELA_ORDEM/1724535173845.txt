@@ -1,1 +1,3 @@
-Equívoco da reação de Parlamentares a respeito do contingenciamento de recursos da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a50eed297784486919cdc11672e2f87a81edbc686f1a1d098a166970fbea8fd0
+size 97

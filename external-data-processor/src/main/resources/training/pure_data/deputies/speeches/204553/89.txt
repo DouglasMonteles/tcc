@@ -1,1 +1,3 @@
-Regozijo com a aprovação pela Casa da Proposta de Emenda à Constituição nº 391, de 2017, sobre o disciplinamento da distribuição de recursos federais ao Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ffce1a4839c7298a36e1a0c0c729f72f72899decbfbeb6211fb068981414831
+size 207

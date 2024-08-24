@@ -1,1 +1,3 @@
-Elogio ao Deputado Leonardo Picciani pela atuação como Líder do PMDB, especialmente em negociações sobre a participação do partido no Governo Federal. Votos de êxito aos Deputados Marcelo Castro e Celso Pansera nos cargos, respectivamente, de Ministros da Saúde e da Ciência, Tecnologia e Inovação. Atuação parlamentar do orador como Senador e Deputado Federal. Responsabilidade dos Parlamentares pela reprovação popular do Congresso Nacional. Entraves ao desenvolvimento agrícola do País causados pelos custos de produção de riquezas. Repúdio à elevação de tarifas de energia elétrica por Governos Estaduais e pelo Governo Federal. Defesa de implementação pelo Ministro de Minas e Energia, Eduardo Braga, de política de redução de custos no setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:668ce2df7ce1fb1554c2f369342c0db3ac1bf7f07102708f223f071e18c83d5c
+size 778

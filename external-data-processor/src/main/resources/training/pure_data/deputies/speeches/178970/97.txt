@@ -1,1 +1,3 @@
-Entrega de unidades habitacionais do Programa Minha Casa, Minha Vida à população de Aracaju, Estado de Sergipe. Congratulação à Presidenta Dilma Rousseff pelos resultados do Programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:684937e8cfc965bdcb16bb39f12e91c942ad6791d08e63475b9e2f463ee90f91
+size 189

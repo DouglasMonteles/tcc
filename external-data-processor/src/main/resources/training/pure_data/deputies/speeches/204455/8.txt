@@ -1,1 +1,3 @@
-Legado desastroso do ex-Presidente da Venezuela, Hugo Chávez. Defesa de realização da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fea9f5f3a42a6de6bfee43fbda8dbb30b82c83c0af600a8bf9aee83a1cbeb249
+size 113

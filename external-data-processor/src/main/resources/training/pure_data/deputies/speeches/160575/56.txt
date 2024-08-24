@@ -1,1 +1,3 @@
-Transcurso do 155º aniversário de criação do Corpo de Bombeiros Militar do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b4128a1ef085119bde7f5caa9f83783700d461a2ebffab2568d529980aa6bab
+size 96

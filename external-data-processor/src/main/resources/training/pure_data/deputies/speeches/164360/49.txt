@@ -1,1 +1,3 @@
-Elogio à Presidência pelo tratamento dispensado aos Parlamentares. Agradecimento à Casa e ao Ministério das Cidades pela revisão da exigência de pavimentação asfáltica das vias de acesso a áreas destinadas à construção de moradias por meio do Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ea576e93143ef9388c7f4cc31ec53259e8168cce535c42e7d6f91ccbf07ab2e
+size 288

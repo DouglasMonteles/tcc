@@ -1,1 +1,3 @@
-Reconhecimento do empenho da Câmara dos Deputados e do Senado Federal na aprovação do Projeto de Lei Complementar nº 11-A, de 2020, relativo à incidência do ICMS sobre combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f83969b4d709c01247616b3375dc90af8becdcb2d6ddd3a58dd1a010f771b7f
+size 188

@@ -1,1 +1,3 @@
-O Deputado abordou a complexidade do conflito entre Israel e Palestina, destacando a condenação do terrorismo, mas também enfatizando o sofrimento do povo palestino e a necessidade de reconhecer todas as vítimas no conflito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14c993a59d5ec50e11378e76cda51d2837021e8c979fd34781c8e166fc5bd453
+size 228

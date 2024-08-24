@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas de Plenário apresentadas conforme o § 1º, art. 3º, do Ato Conjunto nº 1, de 2020, editado pelas Mesas da Câmara dos Deputados e do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2cc97c88d5b772af71b1a925b137716527e3ae5044bceb5f2a1763d8075143b
+size 184

@@ -1,1 +1,3 @@
-Homenagem à memória do cineasta Glauber de Andrade Rocha, ao ensejo do transcurso do 72º aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9396053fc4cfbaaab4cd1948f564e9fd2de5e9c6c814f4b69c6dec3d1b2aba32
+size 116

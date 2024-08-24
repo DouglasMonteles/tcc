@@ -1,1 +1,3 @@
-Legitimidade da reeleição da Presidenta Dilma Rousseff. Distorção pelos grandes veículos de comunicação acerca das incorreções e ressalvas encontradas por técnicos do TSE na prestação de contas da Presidenta da República sobre sua campanha eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:399f895f501a27bf0ebcac825ee3fdb321a7f9478b1d7e241dc421b6ad52ec1b
+size 263

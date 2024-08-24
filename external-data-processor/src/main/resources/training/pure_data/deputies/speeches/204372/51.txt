@@ -1,1 +1,3 @@
-Teor do Decreto nº 40.961, de 2020, editado pelo Governador do Distrito Federal, Ibaneis Rocha, sobre as medidas de enfrentamento da emergência de saúde pública decorrente do novo coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d626146f6dc37071fafc175e261d6da19bfc05ed0ae54d659bf73bba851d76c
+size 197

@@ -1,1 +1,3 @@
-Reconhecimento dos rodeios e vaquejadas como patrimônio cultural imaterial do Brasil. Agradecimento ao Ministro da Cultura pela atenção à demanda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83b30cf241c6b55622e8cd6ab6bef058a5bb78182ab1bb74866009815b06478f
+size 150

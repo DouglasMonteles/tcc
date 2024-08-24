@@ -1,1 +1,3 @@
-Saudação a Deputados espanhóis presentes no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35d0cd0c0f1646785b158919569a2cdc98dd4a1f3ee8c82d149632fb97271a19
+size 57

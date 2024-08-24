@@ -1,1 +1,3 @@
-Regozijo com a aprovação, pela Comissão de Constituição e Justiça e de Cidadania, da Proposta de Emenda à Constituição nº 55, de 2011, acerca da regulamentação profissional da carreira de agentes de trânsito. Solicitação ao Presidente Marco Maia de imediata criação de Comissão Especial destinada ao exame da matéria. Criação, pela Comissão de Ciência e Tecnologia, Comunicação e Informática, de grupo de trabalho destinado à fiscalização da atuação de empresas de telefonia móvel no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d9373b2c41c642e8521cde204ac5699bffbcfb4a4a1027b20bb2b9debab741a
+size 522

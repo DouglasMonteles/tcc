@@ -1,1 +1,3 @@
-Apresentação da Proposta de Emenda à Constituição nº 227, de 2019, sobre alteração do art. 166 da Carta Magna, para garantia da execução de dez por cento das emendas individuais ao financiamento das ações e serviços públicos de manutenção e desenvolvimento do ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b20eadc7054123650adb3913d82959eacf498df309facb135e14f32e897c83f9
+size 283

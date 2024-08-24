@@ -1,1 +1,3 @@
-O Deputado defendeu o Projeto de Lei nº 3.310, de 2023, que objetiva corrigir uma restrição imposta pela Secretaria da Receita Federal aos beneficiários do BPC na compra de veículos com isenção fiscal. O Parlamentar criticou a decisão da Receita, mencionando que o Tribunal Regional Federal da 1ª Região já se posicionou contra essa interpretação. Finalizou conclamando a Casa a revisitar o tema para corrigir a injustiça contra os usuários do BPC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d515c419b95144b6b4cb4bc287a71dccb46668743f55bffc2eac4e05e7bf0b11
+size 463

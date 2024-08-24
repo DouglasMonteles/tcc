@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 6.330, de 2019, relativo à alteração da Lei nº 9.656, de 1998, (Lei dos Planos de Saúde), para ampliação do acesso a tratamentos antineoplásicos domiciliares de uso oral, pelos usuários de planos de assistência à saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:350256e6c4203cba845ae5ea9d5be8b4a0daa165ced99562946c6b21cbea0b26
+size 273

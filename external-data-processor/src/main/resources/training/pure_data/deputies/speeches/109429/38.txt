@@ -1,1 +1,3 @@
-Apelo aos Parlamentares de rejeição do Veto Parcial nº 4, de 2022, aposto ao Projeto de Lei de Conversão nº 28, de 2021, da Medida Provisória nº 1.064, de 2021, acerca da instituição do Programa de Venda em Balcão, destinado ao acesso dos pequenos criadores de animais aos estoques públicos de milho. Publicação, pelo Conselho Monetário Nacional, da Resolução nº 4.987, de 2022, acerca da destinação de crédito emergencial aos produtores rurais atingidos por enchentes. Defesa de inclusão, no texto da Resolução, dos camponeses vitimados pela seca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ee6e1c111d158a24f993acc3d976612c3931c8f01eabecbf552c9bbdc26f5dd
+size 571

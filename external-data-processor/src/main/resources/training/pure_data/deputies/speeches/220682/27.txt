@@ -1,1 +1,3 @@
-Acerto da cassação do mandato parlamentar do Deputado Deltan Dallagnol pelo Tribunal Superior Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b8fda5f814adafd16624612a1b9539090b9e7d45fc2ca541abfc3379838389b
+size 106

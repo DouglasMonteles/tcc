@@ -1,1 +1,3 @@
-O Deputado expressou sua preocupação com a votação no Senado referente à indicação de Flávio Dino para o cargo de Ministro do Supremo Tribunal Federal (STF). Ele destacou a posição comunista declarada de Dino e expressou sua crença de que a nomeação seria prejudicial ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb501ae8038cfa4b5a50eeb6660653f18b97b52a1e931d6800eebe60c10bc013
+size 291

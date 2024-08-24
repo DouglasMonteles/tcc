@@ -1,1 +1,3 @@
-Posicionamento favorável do PP  à Subemenda Substitutiva Global  de Plenário ao Projeto de Lei 2.330 de 2011 (Dispõe sobre as medidas relativas à Copa das Confederações de 2013 e à Copa do Mundo FIFA 2014 que serão realizadas no Brasil -  Lei Geral da Copa).
+version https://git-lfs.github.com/spec/v1
+oid sha256:22e127ec183f4eb94359781ec5e8d23985cf3322aec1748139530ea657dec827
+size 267

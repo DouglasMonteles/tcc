@@ -1,1 +1,3 @@
-Realização do Campeonato Mundial de Clubes de Vôlei de 2013 no Município de Betim, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c60ba64881cb5025eb014abc80661b96da3f8953757907a0eb7a7764827851c
+size 110

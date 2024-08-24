@@ -1,1 +1,3 @@
-Pedido à Presidência de início da Ordem do Dia. Solicitação aos Parlamentares de comparecimento ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfa0c42bef37f0a482cfac6871b8a94e1dbd0a08b968ceb196d4ab4dfbed7eb0
+size 114

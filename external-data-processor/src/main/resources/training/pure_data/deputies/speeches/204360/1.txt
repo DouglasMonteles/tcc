@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta Projeto de Lei Complementar nº 441, de 2017, sobre os cadastros positivos de crédito e a responsabilidade civil do operadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:438eaf355e5a19c771f801ca1edae4e599231d6f8623c486637090d0538ab125
+size 202

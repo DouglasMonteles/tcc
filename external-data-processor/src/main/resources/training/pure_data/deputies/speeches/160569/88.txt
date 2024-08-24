@@ -1,1 +1,3 @@
-Transcurso do 50º aniversário de emancipação político-administrativa do Município de Tanhaçu, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d53a1511a0aacf9766c41b6b8452a81cbd516a77c92e22f92be6189b6f7f5632
+size 120

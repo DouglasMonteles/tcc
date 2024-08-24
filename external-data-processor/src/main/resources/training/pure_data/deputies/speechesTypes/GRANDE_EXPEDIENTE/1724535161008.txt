@@ -1,1 +1,3 @@
-Posicionamento do orador contrário ao projeto sobre a Lei Geral da Copa, aprovado pela Casa, especialmente no tocante a prêmio em dinheiro para jogadores participantes nas Copas do Mundo de Futebol de 1958, 1962 e 1970. Indignação com o processo de votação de matérias pela Casa. Não inclusão na pauta de proposições de relevante interesse do País. Realização da reforma tributária. Necessidade de concessão de reajuste salarial aos agentes do Programa Saúde da Família. Caos do sistema de transporte urbano no Município de Santos, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bc39a758d772620e29bd85cd7a342f2e1bc4e4812a2eecb66b6fd8c8a235ba9
+size 572

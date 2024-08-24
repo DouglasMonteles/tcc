@@ -1,1 +1,3 @@
-Necessidade de maior aporte de recursos para os Municípios atingidos pela estiagem no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e18199df8d0c3041d6f2172ee638dafc9672759e017bb341c33c681d7da73e41
+size 115

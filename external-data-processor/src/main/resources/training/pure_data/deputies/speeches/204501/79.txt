@@ -1,1 +1,3 @@
-Contrariedade à pretendida privatização da Fundação para o Remédio Popular - FURP (laboratório público de produção de medicamentos). Aprovação, pela Assembleia Legislativa do Estado de São Paulo, de projeto de lei a favor dos laboratórios privados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cb8795210360fb473f78e58781c791e5a384bfe031090844ca498e2c1c06949
+size 262

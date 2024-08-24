@@ -1,1 +1,3 @@
-Apoio à greve nacional de caminhoneiros. Defesa de realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8718e6ca8c9067ad02db4f83da34531c5929d81afa49483949111661d8624d46
+size 88

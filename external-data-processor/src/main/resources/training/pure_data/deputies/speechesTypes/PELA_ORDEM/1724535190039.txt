@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Substitutivo do Senado Federal ao Projeto de Lei nº 5.029, de 2019, (11.021-B, de 2018, na Câmara dos Deputados), a respeito das regras aplicadas às eleições.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f23b29236dfb700dc77205479697235de0f061bedff735fe4f2c58409ad8ac30
+size 240

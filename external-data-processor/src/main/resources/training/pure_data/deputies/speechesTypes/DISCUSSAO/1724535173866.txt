@@ -1,1 +1,3 @@
-Constrangimento imposto pelo Presidente da República aos militares das Forças Armadas brasileiras participantes no seu governo, diante do envolvimento do clã Bolsonaro com milicianos. Necessidade de votação pela Casa de projetos de lei destinados ao enfrentamento da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:264656c69e43c27b386e76dc6372c8a9191367bf64cbaaaf63fc03de803a1f06
+size 297

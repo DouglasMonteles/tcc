@@ -1,1 +1,3 @@
-Aplausos à programação de Natal do Município de Padre Bernardo, Estado de Goiás. Confiança no resultado positivo das ações destinadas à recuperação dos atrativos turísticos da Chapada dos Veadeiros, no Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:605bec92ab1c4050ea249faffe378d72993cc2acd32dd75e9980942bc4cd6155
+size 231

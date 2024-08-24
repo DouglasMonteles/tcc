@@ -1,1 +1,3 @@
-Homenagem ao ex-Presidente do Tribunal Superior do Trabalho, Mozart Victor Russomano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:854427a1dc9989ab7d7a6f58be1514d07cae9320e2e9d07249ef6b5d036e3820
+size 85

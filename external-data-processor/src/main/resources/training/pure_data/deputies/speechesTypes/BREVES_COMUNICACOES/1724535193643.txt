@@ -1,1 +1,3 @@
-Apresentação ao Ministro da Integração Nacional, Fernando Bezerra Coelho, de pauta de reivindicações dos Municípios situados no Semiárido baiano, especialmente a construção da Barragem do Rio Pardo, em Vitória da Conquista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5592f8338bb56fbcdad0fb2368d98252e2ca5dbf9dbd04afffba75d56b6c21c
+size 234

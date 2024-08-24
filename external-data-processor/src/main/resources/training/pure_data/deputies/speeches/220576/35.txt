@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 8.035, de 2014, sobre a obrigatoriedade da apresentação de certidão negativa de antecedentes criminais para a contratação de babás e profissionais do ensino infantil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d926c51745e0e6522258e7a2eb85dc9b17101d4d2a63839cac82d4a793232da
+size 286

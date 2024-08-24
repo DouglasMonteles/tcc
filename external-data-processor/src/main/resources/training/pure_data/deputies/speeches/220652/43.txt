@@ -1,1 +1,3 @@
-O Deputado fez um apelo à Câmara para aprovar a Proposta de Emenda à Constituição que inclui a guarda municipal entre os órgão de segurança pública. Ressaltou a importância de fortalecer essas forças para combater a criminalidade e garantir a segurança da população.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23a4a3b186f1eaf07fc45feab91068e4a955627a886a0ae5970c4541a4ff24c0
+size 280

@@ -1,1 +1,3 @@
-Transcurso do 32º aniversário de fundação do PT. Sucesso do Governo petista. Realização da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0075a3ad33d86703063f5d2ca7dc950863aee3a98478ad9230d160f03fe4563
+size 115

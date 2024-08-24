@@ -1,1 +1,3 @@
-Solidariedade ao movimento grevista de professores pelo recebimento do piso salarial nacional dos profissionais do magistério público da educação básica, no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ade10becb93d19eb38168a2c683cff84cf690f7bbdeb34f4119ee37a61adf61
+size 185

@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda do Senado Federal ao Projeto de Lei Complementar nº 232, de 2019, sobre a transposição e transferência de recursos/saldos financeiros, oriundos de repasses federais, dos fundos de saúde dos Estados, do Distrito Federal e dos Municípios. Defesa da flexibilização de gastos pelas Prefeituras Municipais diante da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b85b3b645cb525d92b0373aeb6871cace2482581ca1bd2eb525f6703569151ef
+size 391

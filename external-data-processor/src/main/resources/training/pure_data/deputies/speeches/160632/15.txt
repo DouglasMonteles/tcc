@@ -1,1 +1,3 @@
-Participação de membros do Conselho Nacional de Secretários de Estado de Agricultura - CONSEAGRI, em reunião destinada ao debate de políticas de desenvolvimento rural sustentável, nas dependências da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61b1c40faba41f2a7f7abf303701176273f284813d6e7abcb8a50b7d108a1370
+size 212

@@ -1,1 +1,3 @@
-Repúdio à decisão da Agência Nacional de Energia Elétrica - ANEEL de taxação da produção de energia solar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aae31fa033ce30a12485138e657488eb694c9b2b7f6c3c0d2d6e27d563b4e8d3
+size 115

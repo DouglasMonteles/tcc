@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento  de votação artigo por artigo do Projeto de Lei de Conversão da  Medida Provisória 559 de 2012 (Autoriza a Centrais Elétricas Brasileiras S. A  ELETROBRAS  a adquirir participação na CELG Distribuição S.A - CELG D e dá outras providências). Ponderações sobre a inclusão de matérias estranhas ao objeto da medida provisória no Projeto de Lei de Conversão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d041e1799b6361328b8b4acb06ea7e063015593eba9d56417cd8e192d16fbbe
+size 415

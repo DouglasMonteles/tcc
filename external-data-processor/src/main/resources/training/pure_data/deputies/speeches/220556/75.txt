@@ -1,1 +1,3 @@
-Realização da Marcha das Margaridas. Comemoração do Dia do País. Transcurso do 17º aniversário de criação da Lei Maria da Penha, destinada ao combate à violência doméstica e familiar contra as mulheres. Violência sexual praticada contra mulher em Belo Horizonte, Estado de Minas Gerais. Transcurso do 6º aniversário do impeachment da Presidenta Dilma Rousseff. Violação dos direitos de mulheres e crianças pelo ex-Presidente Jair Bolsonaro. Conquistas alcançadas pelas mulheres no Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bf0d421610cea37486e89ae5b2515ecd43a1ed27296206de9db5b6c7d1ad110
+size 535

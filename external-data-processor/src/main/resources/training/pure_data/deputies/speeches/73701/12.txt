@@ -1,1 +1,3 @@
-Elenco de propostas para discussão com o Presidente dos Estados Unidos da América, Barack Obama, por ocasião de sua visita ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51b67d51d3ec9f268bdf500c6c2bef9411118e2eadf599ed63311a96e9b43516
+size 136

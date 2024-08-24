@@ -1,1 +1,3 @@
-Saudações aos trabalhadores rurais brasileiros, em especial aos do Estado do Amazonas. Apelo à Presidência de votação do Projeto de Lei nº 2.633, de 2020, sobre o estabelecimento de critérios para a regularização fundiária de imóveis da União. Adoção de políticas públicas destinadas ao fortalecimento da terra e ao avanço na instalação de novos assentamentos rurais. Redução, pelo Governo do Estado do Amazonas, de recursos destinados ao fomento do setor agrícola. Necessidade de avanço no zoneamento econômico-ecológico da Calha do Rio Madeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01785543ef20a6e306659503d90690ad51165d77e1fce6a034bbde344bf454ed
+size 572

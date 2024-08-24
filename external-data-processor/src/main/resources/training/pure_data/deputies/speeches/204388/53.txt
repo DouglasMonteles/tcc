@@ -1,1 +1,3 @@
-Repúdio à manifestação de ex-Ministro da Saúde, do PT, a respeito de discurso proferido pelo orador no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebd7377938c4b8fea1c9507a959130d41c67058aaf7fffae71327bed33b10cd0
+size 118

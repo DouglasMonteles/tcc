@@ -1,1 +1,3 @@
-Solicitação aos Deputados do PROS de comparecimento ao plenário. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:826fbf17be1ad150c8b1a1770cca26d289e035c9df1f5980a6539f3a7c77b504
+size 103

@@ -1,1 +1,3 @@
-Indignação do orador com a manipulação da comunidade indígena, pelo jornal Justiça e Conservação, para impedimento da construção do Porto Pontal do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae1963f464b7ffee989c078393833be38a1b43cc11f4dc254081f883ef8f20a9
+size 166

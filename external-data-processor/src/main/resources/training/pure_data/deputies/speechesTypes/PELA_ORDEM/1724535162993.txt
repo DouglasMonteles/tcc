@@ -1,1 +1,3 @@
-Elevados gastos do Governo Federal com o pagamento de indenizações aos anistiados políticos. Apelo aos Parlamentares de assinatura do requerimento de criação da CPI da Comissão Nacional da Verdade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4b36286b6185fe690f6c1cde565c8df638c1c74d79536a8adfcfb108f2efe47
+size 203

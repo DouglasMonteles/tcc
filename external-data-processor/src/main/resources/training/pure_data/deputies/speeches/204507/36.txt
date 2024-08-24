@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para supressão do art. 1º do substitutivo adotado pela Comissão Especial à Proposta de Emenda à Constituição nº 125, de 2011, sobre a inserção de dispositivo no Ato das Disposições Constitucionais Transitórias, e a alteração da Constituição Federal para fins de reforma político-eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7cd3eba0264519781ad99e58195b6415305b4c6e902a98e2c84ccd35f49289d
+size 363

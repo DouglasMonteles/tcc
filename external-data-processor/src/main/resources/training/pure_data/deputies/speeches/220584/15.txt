@@ -1,1 +1,3 @@
-Presença no plenário dos Prefeitos Wenceslau Souza Marques, Cristiano Ferreira Monteiro (Kiko Monteiro), Lúcio Flávio Araújo Costa (Dr. Lúcio) e Robério Lopes Burity, dos Municípios, respectivamente, de Teixeira, Caaporã, Itabaiana e Ingá, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a9a9e7b23f5a68ee11898540757ec0af132f187328eac1844250c675c6b3429
+size 269

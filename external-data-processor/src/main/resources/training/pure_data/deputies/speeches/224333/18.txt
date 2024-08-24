@@ -1,1 +1,3 @@
-Indignação com o ataque racista desferido contra o jogador de futebol Vinícius Júnior, na Espanha. Apoio à apresentação de moção de repúdio ao racismo praticado contra o atleta brasileiro. Equiparação do crime de injúria racial ao crime de racismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:583c02b898b7233a69ff71a388507824e142c5b006aefe6f2a9382ac201fe38e
+size 261

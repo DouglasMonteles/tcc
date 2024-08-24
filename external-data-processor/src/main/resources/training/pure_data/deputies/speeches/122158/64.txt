@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de quebra de interstício para a votação nominal do requerimento de retirada de pauta da Medida Provisória nº 800, de 2017, sobre o estabelecimento de diretrizes para a reprogramação de investimentos em concessões rodoviárias federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba68d550e8bbcb3dafc27c2b5d7948b84ac572f27b4e63362a787477968ee9b9
+size 298

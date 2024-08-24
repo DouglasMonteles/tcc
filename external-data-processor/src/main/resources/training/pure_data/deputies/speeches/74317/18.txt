@@ -1,1 +1,3 @@
-Participação do orador em reunião da Comissão de Finanças e Tributação, com a presença do Secretário do Tesouro Nacional, Arno Hugo Augustin Filho, para a análise da execução orçamentária da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:491e4584c054297d2ce8e8c5564ac9a28126a3215dda73367d938d5031987e0d
+size 212

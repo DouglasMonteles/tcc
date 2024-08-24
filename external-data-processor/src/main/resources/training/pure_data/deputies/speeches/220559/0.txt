@@ -1,1 +1,3 @@
-Agradecimento ao Deputado Eduardo Bolsonaro, a familiares e aos eleitores catarinenses pela eleição da oradora. Defesa da preservação de conquistas do Governo Jair Bolsonaro. Bandeiras defendidas pela Parlamentar no exercício do seu mandato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eaa36cabc0f717c3a81f1ff258a52ebbcc0f1ea4b485426dbec5be11968db84
+size 246

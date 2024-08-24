@@ -1,1 +1,3 @@
-Transcurso do Dia do Gari. Pedido à Deputada Erika Kokay, autora do Projeto de Lei nº 7.687, de 2017, de esclarecimento sobre as sanções previstas no bojo da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2e13cbde0ceb35cfd8316d26d355615eeddb52ed528409a4dd965cc761f6a44
+size 175

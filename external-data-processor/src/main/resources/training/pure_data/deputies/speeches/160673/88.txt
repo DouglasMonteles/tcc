@@ -1,1 +1,3 @@
-Descontentamento diante da apreciação pela Casa de matéria alheia à pauta de votações da Casa. Defesa de realização de reforma administrativa na Casa. Necessidade de resolução dos conflitos decorrentes das disputas de terras entre agricultores e indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41accdc99a5af238689ddc2224ad74c83f188cadc3829e0b10e59d75d29fbcab
+size 267

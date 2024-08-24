@@ -1,1 +1,3 @@
-Desconexão entre a prioridade da Casa na discussão do aumento dos recursos do Fundo Partidário, e as dificuldades estruturais enfrentadas pelas Forças Armadas brasileiras e pela Polícia Federal na chamada Amazônia Oriental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e33d1afa9205dadb288bef91afb8f4b4a95fb2dce40c9ff4902da2ecaf4ce273
+size 229

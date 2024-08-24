@@ -1,1 +1,3 @@
-Transcurso do 71° aniversário de emancipação político-administrativa do Município de Correntina, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b1d07b4b4ea297f187fed4be580af16f4d6a76bf83851c074172679a4821076
+size 119

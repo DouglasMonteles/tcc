@@ -1,1 +1,3 @@
-Descompasso entre o discurso de posse da Presidenta Dilma Rousseff e a prática do Governo Federal, ante o corte de recursos para o Ministério da Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3359afd7b51752c859cfb14528733e158f785dd9a65cd175ececa5065b751dbc
+size 158

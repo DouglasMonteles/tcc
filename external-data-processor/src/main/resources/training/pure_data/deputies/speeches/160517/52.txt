@@ -1,1 +1,3 @@
-Reunião dos Prefeitos Municipais do Estado do Espírito Santo com o Presidente da Agência Nacional de Telecomunicações - ANATEL, João Batista de Rezende, para discussão de medidas de melhoria do sistema de telefonia móvel na região noroeste capixaba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5931abd57b4201827d51fb4fe9959dc3f648713259adbb491bf810c0cca363a5
+size 258

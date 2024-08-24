@@ -1,1 +1,3 @@
-Posicionamento favorável do SDD ao Substitutivo do Projeto de Lei nº 6.397, de 2013 (Altera as Leis nºs 4.737, de 15 de julho de 1965, 9.096, de 19 de setembro de 1995, e 9.504, de 30 de setembro de 1997, para diminuir o custo das campanhas eleitorais, e dá outras providências - Minirreforma eleitoral).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8af5048d62103aae4b879822cd5e22a70e317e3f8e4d6d36616ffe7479710087
+size 309

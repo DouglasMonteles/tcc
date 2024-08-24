@@ -1,1 +1,3 @@
-Apelo ao Ministro Luiz Fux, do Supremo Tribunal Federal, de manutenção da liminar concedida em processo de suspensão de dívidas do Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15fbb5aaa419ebcafc5e980c7fde94897f2178e614fc339880007b185d3e112d
+size 158

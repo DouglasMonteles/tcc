@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento, por duas sessões, da discussão do  Projeto de Lei nº 3.715, de 2019, sobre a regulamentação da posse de arma de fogo em áreas rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56e3c74c4ba7c4360201461722f745f178336eae9926a9b8f303e93bc17de247
+size 206

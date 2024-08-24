@@ -1,1 +1,3 @@
-Manifestação de profissionais da enfermagem no Auditório Nereu Ramos, em prol da fixação da jornada de trabalho da categoria em 30 horas semanais. Reunião da Frente Parlamentar em Defesa dos Profissionais da Saúde, destinada ao debate do piso salarial dos profissionais da saúde. Apelo ao Ministro do Desenvolvimento, Indústria e Comércio Exterior, Fernando Damata Pimentel, de maior atenção aos pleitos do Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdaba1e88a55532ffd0f61c2440c4e21a4ffa3032a685971d05819a7953dfba1
+size 438

@@ -1,1 +1,3 @@
-Solicitação aos Parlamentares de apoio e assinatura ao requerimento de criação de CPI destinada à investigação de denúncias de irregularidades no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46ad5cf17b28e90efd03cb9da07298c4329b15a399f4afc07aa2f77f01b2341a
+size 234

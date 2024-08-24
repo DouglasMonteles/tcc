@@ -1,1 +1,3 @@
-Defesa da aprovação do Projeto de Lei nº 196, de 2015, que regula as ações de polícia administrativa exercida pelos Corpos de Bombeiros Militares dentro das suas atribuições de prevenção e extinção de incêndio, e perícias de incêndios e ações de defesa civil, de busca salvamento, de resgate e atendimento pré-hospitalar e de emergência; e pelas Polícias Militares no exercício de polícia ostensiva e polícia de preservação da ordem pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:591d6dd5b12ae77b68cdabbb8b4d43d91b30e21081cfeb40b26b38082c2fd3e0
+size 467

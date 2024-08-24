@@ -1,1 +1,3 @@
-A Deputada expressou preocupação com a área da segurança pública, destacando o aumento da violência e a falta de ação do governo atual. Ela criticou a oposição ao ex-Presidente Bolsonaro, afirmando que sob seu governo a segurança era mais eficaz. Pediu uma mudança de foco para abordar os problemas de segurança pública, argumentando que a administração atual está priorizando ideologias em detrimento do bem-estar da população. Encerrou com um apelo à responsabilidade do Presidente Lula em relação aos conflitos em curso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09cc614befcaf545757675c43e40bb4b1483dd6f1c5cff50d4b9a15027366b47
+size 545

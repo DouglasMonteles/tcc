@@ -1,1 +1,3 @@
-Transcurso do 180º aniversário de fundação do Município de Barra do Corda, Estado do Maranhão. Transcurso do Dia do Trabalho. Manifestação de pesar pelo falecimento do político Benedito Barros, do Município de Mirinzal, Estado do Maranhão. Críticas às proposições de realização de ajuste fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a016080c5da1d468a265143138f273ec930e870c050f20ec86024d670b4d581a
+size 312

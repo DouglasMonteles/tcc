@@ -1,1 +1,3 @@
-Adoção, pelo Governo Luiz Inácio Lula da Silva, de medidas emergenciais em prol dos atingidos pela estiagem prolongada no Estado do Rio Grande do Sul. Congratulações ao Presidente da República pelos investimentos realizados no setor agropecuário, especialmente na agricultura familiar. Resgate de trabalhadores em situação análoga à escravidão em vinícolas gaúchas. Exigência ao Ministério do Trabalho e Emprego, pelo Conselho de Desenvolvimento da Comunidade Negra do Estado do Rio Grande do Sul, de ajuizamento de ação civil pública contra empresas denunciadas por exploração de mão de obra análoga à escravidão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fe4b670bbab16eb2fd48ba96e63b1dfb328f9f13302e1f3cadce0e17de58d8b
+size 639

@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao tenente-coronel Michel Negreiros Casagrande, da Polícia Militar do Estado do Acre, em visita à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dce069a5f9fb5325cfbcb3a50654852c5db44d26a8ab2610f7aee610913c67d0
+size 152

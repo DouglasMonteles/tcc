@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da expressão estabelecidos na legislação e regulamentação exclusivamente federal, cujos termos prevalecerão sobre quaisquer regras estaduais e/ou municipais acerca do mesmo tema, constante no art. 27, § 7º, da Lei nº 11.771, de 2008, inserido no art. 4º da Subemenda Substitutiva Global. União da bancada do PSL. Apoio do partido à aprovação da proposta de reforma previdenciária e do projeto anticrime elaborado pelo Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb4dab1c7344e0d6a51272945fdd0a9204981ab760e1086aea500dd2738ef0e1
+size 582

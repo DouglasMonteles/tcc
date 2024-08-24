@@ -1,1 +1,3 @@
-Escalada da violência no Estado de Alagoas. Ocorrência com frequência do crime de latrocínio em Maceió. Necessidade de apresentação, pelo Governador Paulo Dantas, de plano estratégico de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d484b5bc86f826520e4eed9f2f7fad98b00bae05b8ceb3b8526064ec3b700b58
+size 215

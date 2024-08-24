@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei Complementar nº 76-B, de 2007, sobre a inclusão de Municípios de Minas Gerais na área de abrangência da SUDENE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:562d7e3639be653c748c052b22059fd9d44d279ea803d1b6bb7f3e6715a99ece
+size 145

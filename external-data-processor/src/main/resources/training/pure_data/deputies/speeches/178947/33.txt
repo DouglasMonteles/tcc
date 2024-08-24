@@ -1,1 +1,3 @@
-Solidariedade ao Líder do PSD ante tratamento desrespeitoso de Vice-Líder do Governo na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4e407b95ddcd3826b17e67d237169d42c5191d6b6c85891343840147b403537
+size 95

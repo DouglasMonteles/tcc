@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Minas e Energia, da Emenda Orçamentária nº 16, 2021, destinada ao incentivo à geração de eletricidade renovável. Defesa de retomada do Programa Luz para Todos no Estado do Amazonas, futuro Programa Mais Luz para a Amazônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3587d4311c1506fb91916423842bf4717a0bde4ad8bbe704d133ffc1af1ca10d
+size 262

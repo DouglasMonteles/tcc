@@ -1,1 +1,3 @@
-O Deputado defendeu a sanção presidencial do Projeto de Lei que trata da desoneração da folha de pagamentos. Lembrou que a proposição beneficia 17 setores da economia e que o seu eventual veto pelo Presidente Lula poderá gerar desemprego.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1735ae2b09c322afdd431d9bdb2a3e6ab92be91e1e67181bc782c104a101129
+size 245

@@ -1,1 +1,3 @@
-Regojizo do orador com a participação na comitiva do Presidente Jair Bolsonaro em visita ao Município de Santa Maria, Estado do Rio Grande do Sul, ao ensejo das comemorações do Dia da Artilharia. Apoio da população local ao Presidente da República e ao Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffde8f71ddc98c2a1f961917c3d4abbd1a44b1e38e4e224a01bf17fa9db0e4a6
+size 318

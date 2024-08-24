@@ -1,1 +1,3 @@
-Perplexidade ante a defesa de corruptos por Parlamentares. Defesa de realização da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52874e8007e236566aa0a9c07a07f86495a6e36f56e03bbea3d2ffa6f57ce2a9
+size 109

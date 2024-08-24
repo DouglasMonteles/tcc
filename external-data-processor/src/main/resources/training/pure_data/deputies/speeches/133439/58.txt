@@ -1,1 +1,3 @@
-Realização do 15º Congresso Nacional da Juventude Socialista do PDT, em Fortaleza, Estado do Ceará. Realização pela Casa de sessão solene em homenagem ao Sindicato Nacional dos Analistas Tributários da Receita Federal do Brasil - SINDIRECEITA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3bf2717025de8b0c1bb65abaf05849381af6669e36264ba13a8989e3ed7ed64
+size 251

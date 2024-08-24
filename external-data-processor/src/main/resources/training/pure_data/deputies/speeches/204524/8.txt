@@ -1,1 +1,3 @@
-Eleição do Senador Antonio Anastasia para Ministro do Tribunal de Contas da União - TCU. Elogio ao novo Senador Alexandre Silveira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83ea64d805066c3643baef45df26797c1968706c055e65660e6bcefa07d2b070
+size 134

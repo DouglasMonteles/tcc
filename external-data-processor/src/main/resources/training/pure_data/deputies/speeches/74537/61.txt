@@ -1,1 +1,3 @@
-Urgência na realização da reforma política. Defesa de unificação das datas das eleições brasileiras. Reeleição da Prefeita Andreia Xavier Cajado Sampaio, do Município de Dias d'Ávila, Estado da Bahia. Eleição de candidatos do DEM no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fd681c8254fff3dc8e21685c9f648c4f73c8870716a30e6ef44a38fb1fbd2dd
+size 254

@@ -1,1 +1,3 @@
-Repúdio à censura prévia imposta pelo Supremo Tribunal Federal a reportagem veiculada pela revista Crusoé  e pelo site O Antagonista.. Necessidade de posicionamento da Casa sobre o assunto. Críticas ao Ministro da Suprema Corte, Ricardo Lewandowski.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bccdc487300daad311a4c4afde4897833e03b83d4a5c85aa077c85338b9ce1a
+size 254

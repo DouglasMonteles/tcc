@@ -1,1 +1,3 @@
-Encaminhamento de votação do requerimento de destaque para votação em separado da Emenda nº 28, de Plenário, apresentada ao Substitutivo do Projeto de Lei nº 6.787, de 2016, que trata da reforma trabalhista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf016c87c464a2c727452cafaf9a018b0596f5e1ced64482d169c38299902cfd
+size 214

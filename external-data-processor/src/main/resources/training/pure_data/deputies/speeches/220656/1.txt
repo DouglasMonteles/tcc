@@ -1,1 +1,3 @@
-Assassinato do advogado Francisco Di Angelis Duarte de Morais, no Estado do Ceará. Manifestação de solidariedade aos seus familiares. Combate à impunidade no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d69aa40aa04e33ac28edeb413a5042777c13465abc0feb9ce342336dfb830ca
+size 168

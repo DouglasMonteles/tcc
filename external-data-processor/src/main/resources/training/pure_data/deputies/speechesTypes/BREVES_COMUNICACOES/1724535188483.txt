@@ -1,1 +1,3 @@
-Necessidade de aprovação da proposta governamental de reforma tributária. Defesa de inserção, no texto da propositura, de dispositivo destinado à criação de fundo nacional de reparação ao povo negro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0ecfece8eef1c21d3d8d3f0fd0eb87803efa584852420c57ae55b7dce246362
+size 209

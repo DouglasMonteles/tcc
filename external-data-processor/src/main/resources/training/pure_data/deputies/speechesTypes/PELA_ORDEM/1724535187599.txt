@@ -1,1 +1,3 @@
-Apresentação de projeto de lei complementar sobre a instituição do Imposto sobre Grandes Fortunas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cf5294686f3a75d760fb4eab50df3b71ab92f9754c0a43401b485d55cc73351
+size 102

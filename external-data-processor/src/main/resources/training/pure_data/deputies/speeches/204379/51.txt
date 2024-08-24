@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas de Plenário de nºs 1, 2, 3 e 4, apresentadas à Medida Provisória nº 1.010, de 2020, sobre a isenção do pagamento da fatura de energia elétrica referente aos últimos 30 dias, aos consumidores dos Municípios do Estado do Amapá abrangidos pelo estado de calamidade pública; e a alteração da Lei nº 10.438, de 2002.
+version https://git-lfs.github.com/spec/v1
+oid sha256:306536487a68189299967e8be92dc09d6bddd02768ad1cd22034cb07c3cbc18d
+size 358

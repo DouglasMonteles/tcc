@@ -1,1 +1,3 @@
-Desestruturação das políticas públicas da área cultural. Ataques do Presidente Jair Bolsonaro à cultura brasileira. Importância de aprovação pela Casa do Projeto de Lei nº 9.474, de 2018, sobre o estabelecimento das diretrizes da política cultural e da garantia dos direitos culturais. (regulamentação do Sistema Nacional da Cultura).
+version https://git-lfs.github.com/spec/v1
+oid sha256:af50dac0f7e4fa71b28d304f123c634ae891790a9a846f95aaa3b3022d4e8d95
+size 347

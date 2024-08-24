@@ -1,1 +1,3 @@
-Lançamento do Programa Água para Todos pela Presidenta Dilma Rousseff. Promoção de ações educativas de convivência com o semiárido brasileiro. Nomeação do Sr. Luiz Gugé Fernandes para Diretor de Desenvolvimento do INCRA. Conveniência de ampliação de políticas públicas destinadas ao desenvolvimento de assentamentos nos projetos de reforma agrária. Necessidade de busca de novas fontes de financiamento para o setor. Imediata votação pela Casa da Proposta de Emenda à Constituição n° 438, de 2001, acerca do confisco de terras em que seja constatada a exploração do trabalho escravo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5ab19c1c86f5f05052847bbc015071adc8de24221ae8e6a336f52e8406e9006
+size 608

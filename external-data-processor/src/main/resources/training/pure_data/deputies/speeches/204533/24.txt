@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 10, apresentada ao Projeto de Lei nº 4.372, de 2020, sobre a regulamentação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB. Contrariedade à destinação de recursos do FUNDEB para o setor privado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57e326b74524ca3dc4ef8f626138bd5ec28bf7abe95e58a9223e541a031e6712
+size 397

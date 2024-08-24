@@ -1,1 +1,3 @@
-Transcurso do 172º aniversário de emancipação político-administrativa do Município de Cachoeira, Estado da Bahia. Anseio do povo baiano pela concessão à municipalidade do título de Patrimônio da Humanidade. Homenagens póstumas ao ex-Vereador Agenor Oliveira, da Câmara Municipal de Salvador, e ao sociólogo baiano Gey Espinheira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9489422a936e89f8c5ad0ec2d82714eca930ca293f090f8672727d6a97fd5e66
+size 342

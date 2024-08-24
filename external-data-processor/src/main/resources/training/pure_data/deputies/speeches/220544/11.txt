@@ -1,1 +1,3 @@
-Congratulações à Casa pela realização de acordo para a votação do projeto de lei acerca da instituição do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:050b1f26e0363b3cd2df1ab86c449588407bb4045095d38317622a8508de0a7f
+size 149

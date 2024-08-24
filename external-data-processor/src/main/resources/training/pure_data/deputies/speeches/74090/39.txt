@@ -1,1 +1,3 @@
-Causas do naufrágio da embarcação Comandante Sales, ocorrido nas proximidades do Município de Manacapuru, Estado do Amazonas. Votos de pesar aos familiares das vítimas da tragédia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66f94b9abcee79f7e5f972303e3c0170c52c470cceb39cfb0ae2a9b83f07a49c
+size 186

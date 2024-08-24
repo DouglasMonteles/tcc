@@ -1,1 +1,3 @@
-Relação de emendas orçamentárias apresentadas pelo orador em prol do setor turístico do Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:954657a55740defec67eabbc5429679898ab9b0bff4a600537e2ef75ee0332f5
+size 114

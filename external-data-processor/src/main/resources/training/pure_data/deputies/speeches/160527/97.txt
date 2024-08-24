@@ -1,1 +1,3 @@
-Agradecimento aos Deputados Gilberto Nascimento e Arnaldo Faria de Sá pela retirada de requerimentos de destaque à Medida Provisória nº 765, de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7aedff17355ef9acf85295e2088eb84ae8916cabd7bc5df1ba930eff36573c1b
+size 153

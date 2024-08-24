@@ -1,1 +1,3 @@
-Indignação com Deputado situacionista pelo uso do nome de Deus em vão. Críticas ao Governo Luiz Inácio Lula da Silva. Importância de instalação da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b43243b89442259543d5a445fe0d9f9558b949988a309eafa7d079ca8e6d9c1c
+size 267

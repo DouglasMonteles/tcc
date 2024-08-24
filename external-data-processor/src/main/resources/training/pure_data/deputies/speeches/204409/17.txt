@@ -1,1 +1,3 @@
-Realização da Feira Nacional do Doce - FENADOCE, no Município de Pelotas, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b25e89e1675299af4ce199db34c43c8487199cc924e36f84966815103240f98
+size 105

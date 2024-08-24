@@ -1,1 +1,3 @@
-Solidariedade ao movimento de bombeiros militares por melhores salários e condições de trabalho, no Estado do Rio de Janeiro. Nota do PCdoB sobre a crise instalada entre a corporação e o Governo Estadual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66ebc230451354bf3deaf25d0011deb8f6a9aa6e7401c38e25168443b7e3be00
+size 209

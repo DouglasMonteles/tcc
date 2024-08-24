@@ -1,1 +1,3 @@
-Importância de inspeção e fiscalização de produtos de origem animal para garantia de oferta de produtos seguros à população. Necessidade de desburocratização de processos de fiscalização e inspeção estaduais. Pedido ao Poder Judiciário de avaliação de ação judicial do Sindicato dos Fiscais do Ministério da Agricultura contra a União, com vistas à anulação de medidas de simplificação da fiscalização sobre alimentos produzidos pela agricultura familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aa8a6589776c0a2b6d845f5fcf53a1f2a006eb03263837cdb72dae8be7859b3
+size 483

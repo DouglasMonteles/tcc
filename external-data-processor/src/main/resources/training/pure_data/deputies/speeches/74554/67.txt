@@ -1,1 +1,3 @@
-Falecimento do ex-Prefeito Leôncio Fagundes de Oliveira, do Município de Igaporã, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc83a066a85b9e99a6449dd707b0fa7a207d7d8f9b48c92a17fa1e470acfb61e
+size 101

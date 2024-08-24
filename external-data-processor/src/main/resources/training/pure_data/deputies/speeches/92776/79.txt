@@ -1,1 +1,3 @@
-Persistência das agressões ao meio ambiente no País. Previsão de escassez mundial de água potável a partir de 2025. Defesa da realização de investimentos e de campanhas em prol da preservação dos recursos naturais. Importância de cumprimento da Política Nacional de Resíduos Sólidos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:544cea3201897162bc7eb56227d1fbc0e7fb7a891a7d8887f00856ac5035d237
+size 297

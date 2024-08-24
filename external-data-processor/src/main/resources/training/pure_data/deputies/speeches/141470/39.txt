@@ -1,1 +1,3 @@
-Manifestação de pesar pelo falecimento do Deputado Mussa Demes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12da8cbd26189e04906146a4fddb464e28f2fb694739965dd4dc4e2d32dd5f4b
+size 65

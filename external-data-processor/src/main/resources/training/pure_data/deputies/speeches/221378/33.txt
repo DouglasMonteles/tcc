@@ -1,1 +1,3 @@
-A Deputada destacou a aprovação do Projeto de Lei nº 4.438, de 2023, que trata da minirreforma eleitoral, e o trabalho desenvolvido para garantir cotas de gênero e raça no texto. Enfatizou as barreiras enfrentadas por mulheres e pessoas negras no sistema político-eleitoral, observando que, apesar de representarem a maioria da população brasileira, ainda não são adequadamente representadas. Ressaltou sua luta para garantir que os fundos de financiamento de campanha sejam proporcionais ao número de candidatas e candidatos, observada a proporção de candidaturas de pessoas negras. Discorreu sobre a necessidade de o Parlamento representar a diversidade de raça e gênero do País. A oradora enfatizou a importância de se corrigir historicamente a exclusão de pessoas negras de espaços de poder e promover uma democracia efetiva e inclusiva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5a852893bcc527806ac8d4aa36adb6646ebf1fd218185570ccccff6a96e8e5d
+size 860

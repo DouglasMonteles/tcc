@@ -1,1 +1,3 @@
-Encontro dos reitores da Universidade Federal da Paraíba e da Universidade Federal de Campina Grande com a bancada federal do Estado para discussão de investimentos no ensino superior. Defesa de aprovação do Projeto de Lei nº 1.496, de 2011, sobre a criação da Universidade Federal do Sertão da Paraíba, com sede no Município de Patos. Instalação de novas unidades do Instituto Federal de Educação, Ciência e Tecnologia - IFET em municipalidades paraibanas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d74cadc4d054095d018965178853151d4df82086c4f1ec46396668017a6aef98
+size 472

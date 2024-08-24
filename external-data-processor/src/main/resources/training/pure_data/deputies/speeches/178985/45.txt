@@ -1,1 +1,3 @@
-Satisfação com a aprovação de projetos de lei relativos aos agentes comunitários de saúde e aos lotéricos. Aprovação, no Senado Federal, do título de Capital Nacional da Joia Folheada para o Município de Limeira, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a9e6dc729760ae36e7ce621535f01bf3b3830764f1ce7e46da6d21e43b4e14c
+size 245

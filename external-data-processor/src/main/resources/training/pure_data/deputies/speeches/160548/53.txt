@@ -1,1 +1,3 @@
-Falecimento do narrador esportivo Walter Abrahão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c86fefa8c5e3fb67bff58dff315858ca95f7c32a0b51b9317764cbfb2cb3dd0
+size 50

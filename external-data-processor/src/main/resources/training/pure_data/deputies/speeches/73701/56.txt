@@ -1,1 +1,3 @@
-Solidariedade aos familiares das vítimas de acidente ocorrido na Unidade Cloro-Soda da empresa Braskem S/A, em Alagoas. Participação da oradora no I Encontro sobre a Atuação da Procuradoria Especial da Mulher, em Maceió, Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be013082247bb01a8bd1c436aaaef9bd2e7e77ae78e65cb4f5e895b28a702fec
+size 245

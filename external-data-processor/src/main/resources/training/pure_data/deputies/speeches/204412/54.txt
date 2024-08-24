@@ -1,1 +1,3 @@
-Abertura da Semana Mundial de Conscientização de Hemangiomas e Anomalias Vasculares. Expectativa de aprovação pelo Senado Federal do Projeto de Lei nº 710, de 2020, de autoria do orador, referente à instituição da Semana de Conscientização sobre Hemangiomas e Anomalias Vasculares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:237b71400ccc5c874aca7594044a05d08c06ead9889b9cbaec3c6145d835018f
+size 291

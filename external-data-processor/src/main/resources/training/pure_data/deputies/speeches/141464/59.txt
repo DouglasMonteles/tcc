@@ -1,1 +1,3 @@
-Consequências do avanço das marés no Município de Icapuí, Estado do Ceará. Imediata adoção pelas autoridades competentes de ações em prol das famílias desalojadas na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ffc75a5bac9a305a818b18a000ecfd7d635ef488fc8596b8bba8281dee2b49e
+size 192

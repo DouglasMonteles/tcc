@@ -1,1 +1,3 @@
-Associação ao discurso proferido pelo Deputado Alexandre Frota. Conveniência de suspensão de acusações mútuas no plenário, em prol da apreciação de pautas de interesse do povo brasileiro, especialmente da reforma previdenciária. Exigência de respeito para com o orador e os demais membros das Forças Armadas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:deefcb0a14600b9ea1c2393358a410089a66d75d033d0ad74021225c3bd55dff
+size 333

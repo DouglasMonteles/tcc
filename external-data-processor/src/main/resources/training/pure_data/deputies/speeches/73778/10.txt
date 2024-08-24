@@ -1,1 +1,3 @@
-Apresentação de proposta de reforma tributária pelo Governo Federal. Proposta de restrição da cobrança do Imposto sobre a Circulação de Mercadorias e Serviços — ICMS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:766efca07dc75be5d7bdb0c1d1032b5dedcc7f24765324de86f5f83f8dce7dda
+size 177

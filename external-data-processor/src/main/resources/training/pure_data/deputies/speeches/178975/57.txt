@@ -1,1 +1,3 @@
-Orientação da respectiva bancada da subemenda substitutiva oferecida pelo Relator da Comissão de Finanças e Tributação ao Projeto de Lei Complementar nº 343, de 2017, que institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2279762a1ee0be195d6574ed9398bcad3cda72dba28f40dd5921ec316ced34ec
+size 254

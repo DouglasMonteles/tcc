@@ -1,1 +1,3 @@
-Ratificação, pelo PSD, de acordo celebrado com partidos oposicionistas com vista à votação, pela Comissão de Constituição e Justiça e de Cidadania, da Proposta de Emenda à Constituição nº 187, de 2016,  sobre permissão às comunidades indígenas da prática de atividades agropecuárias e florestais em suas terras, bem como da comercialização dos seus produtos e gerenciamento da renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:168b0f7bbefcb33e72b17190260aa7a7ba8471012ef8548eef73c2e283278795
+size 403

@@ -1,1 +1,3 @@
-Ações do Governo do Estado do Piauí para enfrentamento das conseqüências das chuvas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0f0abb920852869098b88980f320c609d390967d3c4dd6dddc88bdd9d51062e
+size 89

@@ -1,1 +1,3 @@
-Assinatura, pelo Presidente Jair Bolsonaro, de ordens de serviço para a conclusão das obras da Travessia Urbana, em Tianguá; da Variante Frios, em Umirim, na BR-222, e do Viaduto do Horizonte, por ocasião de sua visita ao Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c8aab4f711c14ff1c216137a8f461ae88678ec718addbc43d4cef35f0fbfffd
+size 243

@@ -1,1 +1,3 @@
-Presença no plenário do Ministro da Agricultura, Pecuária e Abastecimento, Blairo Maggi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2f8baec498f30f0c7ccaecbd5d2056e698dbea43b3d8fffc335fc71dd06f21e
+size 91

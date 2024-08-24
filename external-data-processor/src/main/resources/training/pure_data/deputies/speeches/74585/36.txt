@@ -1,1 +1,3 @@
-Empenho da Comissão de Segurança Pública e Combate ao Crime Organizado no combate à atuação de organizações criminosas no interior de presídios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91aeaebfd2553dda6d7c05c4aaeabed616d077897578813ab12389d7e440ea4b
+size 153

@@ -1,1 +1,3 @@
-Realização da Conferência das Nações Unidas sobre Desenvolvimento Sustentável, a Rio+20, no Rio de Janeiro, Estado do Rio de Janeiro. Dificuldades de consenso na elaboração do documento final resultante do evento. Desafio mundial de combate à pobreza e promoção do desenvolvimento sustentável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94cadbbf42443f983e9c5158e292a0fbc57933f33a918d2baf4e81c83ae2cf07
+size 305

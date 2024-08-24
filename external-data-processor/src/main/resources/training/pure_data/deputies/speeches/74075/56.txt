@@ -1,1 +1,3 @@
-Encaminhamento de requerimento de indicação ao Presidente da República para decretação de intervenção federal na área da segurança pública do Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8aa1cd5f81f43f060839aeb3bbe052a4545cd38e832c6706eb04a628b1c67ab
+size 168

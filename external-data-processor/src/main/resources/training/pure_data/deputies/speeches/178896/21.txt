@@ -1,1 +1,3 @@
-Congratulações à bancada federal feminina pela atuação em favor da participação da mulher na política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30cc1e5f93f0b27f598c46af241f77818f60b3ed85fa2630bc79f9527c338bb5
+size 110

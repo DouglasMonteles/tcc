@@ -1,1 +1,3 @@
-Falecimento do ex-Deputado Federal Constituinte, José Elias Moreira. Congratulação ao Deputado Estadual de São Paulo, Leonardo Siqueira, pelo ajuizamento de ação popular contra a nomeação do sindicalista João Luiz Fukunaga para Presidente da Caixa de Previdência dos Funcionários do Banco do Brasil - PREVI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38b97d83481b6bebdaa481e5d539635807776177127f9795d76adba2f014818d
+size 318

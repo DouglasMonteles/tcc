@@ -1,1 +1,3 @@
-Repúdio ao contingenciamento de emendas parlamentares pela Governadora do Estado do Rio Grande do Norte, Fátima Bezerra, por questões ideológicas. Demissão de servidora do Hospital Regional Tarcísio Maia, do Município de Mossoró, pela tentativa de execução das emendas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e6153c3218e26f5f27f2dd90cec362b423e9451d9ddcb0f15c467daf94eb2d
+size 279

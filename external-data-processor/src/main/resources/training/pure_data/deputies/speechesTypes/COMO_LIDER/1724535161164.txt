@@ -1,1 +1,3 @@
-Empenho do Presidente Rodrigo Maia e dos Líderes partidários na deliberação de matérias destinadas ao enfrentamento da crise gerada pelo coronavírus no País. Discussão da Mensagem nº 93, de 2020, do Poder Executivo sobre o reconhecimento de estado de calamidade pública no País, em decorrência da pandemia de coronavírus
+version https://git-lfs.github.com/spec/v1
+oid sha256:fac69c2c077a2c0dfbb0c9f8f1da30582aaf9d6c55b7ed2b322a10a5928b18ab
+size 333

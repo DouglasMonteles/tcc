@@ -1,1 +1,3 @@
-Concessão, pela revista ISTOÉ, do prêmio Brasileira do Ano à Presidenta Dilma Rousseff e do prêmio Brasileiro do Ano na Política ao Prefeito Gilberto Kassab, de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b27a7cb7b2d7cf274099c507a2524f254b982f04b877f3726f698aea26f2f9a0
+size 200

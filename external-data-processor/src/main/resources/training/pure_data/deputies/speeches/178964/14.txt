@@ -1,1 +1,3 @@
-Risco de falência do setor de tabaco no Estado do Rio Grande do Sul com o crescimento do contrabando de cigarros. Necessidade de revisão da estratégia de defesa da indústria nacional contra o contrabando.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a724e2e71f61f2654671aff2124212639d8287f40152fdb99438fa796ed2ec6
+size 208

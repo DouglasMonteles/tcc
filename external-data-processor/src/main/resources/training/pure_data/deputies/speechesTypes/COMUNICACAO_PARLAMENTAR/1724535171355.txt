@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 2.946, de 2019, sobre alterações na Lei nº 8.036, de 1990, e sobre a permissão da portabilidade dos recursos do Fundo de Garantia do Tempo de Serviço - FGTS para Fundos de Investimento e Fundos de Previdência Complementar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46bbeddadbce7cfd11776e6fb4284ae217a52b90bac57a7000c7883d0d8e3025
+size 265

@@ -1,1 +1,3 @@
-A Deputada denunciou a disseminação de fake news durante a campanha eleitoral, destacando falsas alegações de que o Presidente Lula fecharia templos evangélicos e perseguiria os evangélicos. Lembrou que, durante o governo Lula, foi aprovada a Lei nº 10.825, que garantiu a liberdade religiosa e a organização das igrejas. Também condenou a demolição de igreja evangélica por motivações políticas pelo Prefeito de Camaçari, na Bahia. Ela expressou solidariedade à Pastora Anita e destacou o papel das igrejas na promoção de políticas públicas e cuidados com a população.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f47e068acd3eaf1ff10afc1fd34a0abd8def2b4c78bd247ec030af45c7a98ccf
+size 593

@@ -1,1 +1,3 @@
-O Deputado anunciou que estava se dirigindo para Barreiras, Bahia, a fim de ser homenageado com uma medalha de ouro pela Universidade Federal do Oeste da Bahia (UFOB). Compartilhou a homenagem recebida com os demais parlamentares que contribuíram para o sucesso da referida universidade. Além disso, homenageou o blog Boca de Lata, de Ilhéus, Bahia, pelo seu aniversário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a126ca6f35719438c1673099af06eb4a67052919be32174e8439dc1421f898e
+size 375

@@ -1,1 +1,3 @@
-Posicionamento favorável do  PSB  ao Projeto de Lei de Conversão da Medida Provisória 552 de 2011 (Altera o art. 4º da Lei 10.931 de 2004, e os arts. 1º e 8º da Lei 10.925 de 2004).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9d26454789b170c8a198015779e28d210161273b29154dd87dcdc8f090188e6
+size 187

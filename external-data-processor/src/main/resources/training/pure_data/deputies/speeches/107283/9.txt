@@ -1,1 +1,3 @@
-Balanço negativo dos 100 primeiros dias do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68f2c2cc9690291d6b2516cd7eb9d3fc7e5eef646ca226952be652cab15f70a0
+size 67

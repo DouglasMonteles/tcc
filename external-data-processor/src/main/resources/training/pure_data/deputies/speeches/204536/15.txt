@@ -1,1 +1,3 @@
-Defesa da aprovação da Proposta de Emenda à Constituição nº 2, de 2015, sobre a adoção do orçamento impositivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ecd6468c1dad77f5a50b6afe3348703f6a8ab0d4120f44a00a3d79128d56b70
+size 120

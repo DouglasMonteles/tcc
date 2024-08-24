@@ -1,1 +1,3 @@
-Participação dos Deputados da bancada do Nordeste em reunião com Governadores da região. Apresentação da pauta da reunião.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7981e246f2001d6378e734cf957e15dab8ee15d681711dd725dc658e3c50a0ca
+size 129

@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda de Plenário 1, destacada,  ao Projeto de Decreto Legislativo 860 de 2008 (Aprova o texto do Acordo entre a República Federativa do Brasil e a República Argentina sobre  Localidades Fronteiriças Vinculadas, celebrado em Puerto Iguazu, em 30 de novembro de 2005), que limita o atendimento médico nos serviços públicos de saúde em condição de gratuidade e reciprocidade a casos de emergência. Impedimento legal de emendas a acordo internacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2008cdc42257f019841590978aa083954379b9ae43b46ea736f9cb9bc0c91f45
+size 491

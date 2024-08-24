@@ -1,1 +1,3 @@
-Repúdio às acusações infundadas do Deputado Deltan Dallagnol contra o Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1742b98cc03d80e240c6841e826b3843369d0de0d99170b378e003ee24749e20
+size 112

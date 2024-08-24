@@ -1,1 +1,3 @@
-Apoio ao Projeto de Lei nº 8.833, de 2017, a respeito da tipificação como crime a indução de crianças e adolescentes ao suicídio e à automutilação. Defesa de aprovação do Projeto de Lei nº 3.723, de 2019, sobre o registro, a posse e a comercialização de armas de fogo e munição; o Sistema Nacional de Armas - SINARM e a definição de crimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec1cfa91d64372da98676c1cddda49d940b9e0504c5ab81320a7caa185016f2a
+size 359

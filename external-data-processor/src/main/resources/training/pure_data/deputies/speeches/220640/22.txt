@@ -1,1 +1,3 @@
-Redução dos preços de combustíveis e do gás de cozinha. Retomada, pelo governo petista, do Programa Minha Casa, Minha Vida e do Programa Bolsa Família. Demarcação de terras indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20d3f78edc3b0ad46a33c36558ced6573a30792627f1083bf5ced49e0dbbcd6b
+size 192

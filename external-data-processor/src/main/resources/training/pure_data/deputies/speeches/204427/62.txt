@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar em Defesa da Duplicação da BR-423, trecho São Caetano/Garanhuns, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84e0457f35d07c32e99b9ebf73d85c14dae28191981337d1e1a363f5e55ea228
+size 121

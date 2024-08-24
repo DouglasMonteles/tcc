@@ -1,1 +1,3 @@
-O Deputado alertou sobre a presença do que classifica como uma praga na sociedade: os agoureiros. Esclareceu que são pessoas que profetizam derrota, tragédia e pessimismo constantemente, disseminando o medo e a preocupação. Fez um chamado àqueles que desejam um Brasil melhor, pedindo que não deem ouvidos às previsões negativas. O orador enfatizou a necessidade de focar no crescimento e no avanço do País, em oposição às vozes que constantemente propagam o pessimismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ed6252b16413138d3bf5d861812013dc0560bb3c7a36ae4aba74980bfee25e3
+size 484

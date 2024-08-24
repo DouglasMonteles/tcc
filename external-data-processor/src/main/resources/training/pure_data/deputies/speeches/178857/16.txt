@@ -1,1 +1,3 @@
-Expectativa de votação e rejeição da proposta de redução da maioridade penal no Brasil. Críticas ao PMDB pela perseguição ao PT na condução dos trabalhos da Comissão Parlamentar de Inquérito da PETROBRAS e pelo boicote ao Governo do PT. Defesa de rompimento da aliança entre os dois partidos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c96ce32d57635d87e2d4946d3d8be89c9380b1a0eff5135f0e3e8e7947db705
+size 306

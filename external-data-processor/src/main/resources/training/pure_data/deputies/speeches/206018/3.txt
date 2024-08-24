@@ -1,1 +1,3 @@
-Recriação do Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA. Acompanhamento pela oradora da situação de insegurança alimentar de povos indígenas. Defesa de inclusão dos povos originários nas políticas de uso da terra e combate à fome.
+version https://git-lfs.github.com/spec/v1
+oid sha256:336b8bbb24e17771c82f3ec3019e40cf3c63cb74fae38bbca45787fc6b9dacd7
+size 262

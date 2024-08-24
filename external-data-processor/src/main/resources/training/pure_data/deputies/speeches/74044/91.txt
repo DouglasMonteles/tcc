@@ -1,1 +1,3 @@
-Manobra da Oposição para não votação dos projetos de lei sobre o marco regulatório da exploração de petróleo na camada pré-sal. Defesa, pelas bancadas das Regiões Norte e Nordeste, de distribuição equitativa de royalties de petróleo da camada pré-sal. Convocação dos Deputados da base aliada ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d9dc7cc5d137ab6404d175fd239d914f3093641a3819bc0094d68970d72156a
+size 322

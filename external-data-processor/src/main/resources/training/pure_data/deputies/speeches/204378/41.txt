@@ -1,1 +1,3 @@
-Regularização fundiária do Estado de Rondônia. Protesto contra a destruição de caminhões e equipamentos de produtores e madeireiros, pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA. Anúncio de realização, em Rondônia, de grande audiência pública para discussão de medidas de melhoria da área de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97c57e367203de85bb7ee461ae20c48dee294c8d2e5fc37365f445d09d6905f8
+size 369

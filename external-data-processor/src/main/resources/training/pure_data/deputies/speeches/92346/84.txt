@@ -1,1 +1,3 @@
-Solicitação ao Presidente interino da Câmara dos Deputados, Waldir Maranhão, de cumprimento de acordo para instalação de da CPI da UNE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:808e79dd18aa0bb6a8de92b8ec05f8d8d31aa622c5b04dd7495b92c811745dc0
+size 141

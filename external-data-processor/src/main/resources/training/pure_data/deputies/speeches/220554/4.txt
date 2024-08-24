@@ -1,1 +1,3 @@
-Falta de isenção do presidente do Banco Central. Defesa de redução da taxa de juros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61ab43530760be5a7b8394cfe126aa87c573be873404df9dc2e8d6bf78988ce0
+size 88

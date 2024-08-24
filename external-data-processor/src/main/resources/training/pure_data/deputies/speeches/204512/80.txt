@@ -1,1 +1,3 @@
-Expectativa de votação e aprovação, pela Casa, do Projeto de Lei nº 1.417, de 2021, sobre a concessão, pela União, de auxílio financeiro emergencial às Santas Casas de Misericórdia e hospitais filantrópicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfb4303d63e68f61f401d05f6f1e45f2b3c5a2cbd3259bed0b676e703a85ce64
+size 218

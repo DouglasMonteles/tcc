@@ -1,1 +1,3 @@
-Falecimento do Superintendente da Organização das Cooperativas Brasileiras, Ramon Gamoeda Belisário, e do Presidente da Cooperativa dos Cafeicultores e Citricultores de São Paulo - COOPERCITRUS, Leopoldo Pinto Uchôa. Transcurso do Dia Mundial da Água. Gerenciamento dos recursos hídricos brasileiros. Importância do consumo consciente de água doce. Aprovação, pela Comissão de Meio Ambiente e Desenvolvimento Sustentável, da proposta de realização de seminário sobre a universalização do saneamento básico. Importância do cumprimento do disposto na Declaração Universal dos Direitos da Água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:618401ba2e17210d686253eb92f989d68ac25bc7eb93e695e5b5f47063d48925
+size 614

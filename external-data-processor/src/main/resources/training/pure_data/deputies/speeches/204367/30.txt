@@ -1,1 +1,3 @@
-Acolhimento pelo orador dos Requerimentos de Destaque de nºs 2 e 3, acerca da promoção e progressão de servidores públicos, oferecidos à Proposta de Emenda à Constituição nº 186, de 2019, a chamada PEC Emergencial, sobre a instituição de mecanismos de ajuste fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5af3dd1f2fb3de8b3418f90614dc5c99d34b21bb7ac459989bd30d47004c3c9
+size 278

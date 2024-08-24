@@ -1,1 +1,3 @@
-Congratulações à Deputada Flavia Arruda pela apresentação de requerimento de criação de Comissão Externa destinada ao acompanhamento de casos de violência contra a mulher. Atuação do Centro Especializado de Atendimento à Mulher, instalado no Município de Belford Roxo, Estado do Rio de Janeiro. Importância de ampliação da bancada feminina na Casa, para fortalecimento das ações de combate à violência contra a mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12c22d321bf3ce79c896d9e726b3aae738a775528257a63560c54ec142232fe4
+size 438

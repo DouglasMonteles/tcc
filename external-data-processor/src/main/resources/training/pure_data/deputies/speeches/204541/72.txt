@@ -1,1 +1,3 @@
-Importância do Projeto de Lei nº 976, de 2019, sobre a alteração da Lei nº 11.340, de 2006, (Lei Maria da Penha), com vista ao registro obrigatório nos sistemas de informações das Polícias Civil e Militar, da concessão de medida protetiva de urgência prevista na referida lei. Apelo ao Ministério da Saúde de envio de tomógrafos aos Municípios de São Gonçalo do Amarante e Aracati, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bd771285479807c33058b2ef76779de9a6abb31b81ccd5f34b7fd519ce3e108
+size 416

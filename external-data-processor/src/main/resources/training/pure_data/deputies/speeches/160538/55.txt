@@ -1,1 +1,3 @@
-Presença do Ministro do Desenvolvimento Agrário, Afonso Florence, e do Presidente do INCRA, Celso Lisboa de Lacerda, em encontro da bancada federal do PT, destinado ao debate sobre a importância da agricultura familiar para o desenvolvimento socioeconômico brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3383ed15e6855a2da9ed2e49f5ce2c04c47bb2d962cdc92e02544c5aad90e495
+size 272

@@ -1,1 +1,3 @@
-Indignação do orador com a aprovação da Medida Provisória nº 1.031, de 2021, relativa à desestatização da empresa Centrais Elétricas Brasileiras S/A - ELETROBRAS. Contrariedade à privatização da Companhia Hidrelétrica do São Francisco - CHESF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f417ad0db787da7606fb886b96505147eef763a9a5f08150b5b0c41351595c02
+size 258

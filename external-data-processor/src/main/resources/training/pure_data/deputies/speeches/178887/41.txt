@@ -1,1 +1,3 @@
-Implementação, pelo Governo do Estado do Maranhão, do programa CNH Jovem, destinado à isenção de custos para a obtenção da Carteira Nacional de Habilitação por estudantes de escolas públicas do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe05a16710ab429fb5f563e2c4738f584af325587ef35679443ba624df6763aa
+size 212

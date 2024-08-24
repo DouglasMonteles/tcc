@@ -1,1 +1,3 @@
-Regozijo com a aprovação, pela Comissão de Constituição, Justiça e Cidadania do Senado Federal, do projeto de lei acerca da criação do Estatuto da Juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:757a7932eef456e46c3645c467c518a42d7b56c02c182a3042615cd9e2eaf9d6
+size 165

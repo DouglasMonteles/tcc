@@ -1,1 +1,3 @@
-Elogio ao ex-Líder do PSC, Deputado Gilberto Nascimento. Saudações ao novo Líder do partido, Deputado Paulo Eduardo Martins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b89cbb0410669e8e7972fd8822f9c93689a3537f2ed20fe6b0f4a92cb6c33ec5
+size 128

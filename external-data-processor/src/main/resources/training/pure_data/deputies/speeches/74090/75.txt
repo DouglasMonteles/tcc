@@ -1,1 +1,3 @@
-Aprovação, pelo Senado Federal, da proposta de concessão de empréstimo ao Estado do Amazonas pelo Banco Mundial. Empenho na instalação de Centros Federais de Educação Tecnológica - CEFETs no interior do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:410180a79c615807e75bcf6e6f801d428eb07c6435f86d3345e5138b668cec09
+size 221

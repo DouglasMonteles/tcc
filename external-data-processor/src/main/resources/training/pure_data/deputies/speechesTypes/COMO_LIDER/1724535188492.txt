@@ -1,1 +1,3 @@
-Contrariedade à votação do Projeto de Lei nº 442, de 1991, sobre a legalização de jogos de azar no Brasil. Defesa da discussão de projeto de desenvolvimento nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:152369f48ab26ec3a38d9a4af0b9ae3617c1e495b55e1491b96ce79ecd104213
+size 173

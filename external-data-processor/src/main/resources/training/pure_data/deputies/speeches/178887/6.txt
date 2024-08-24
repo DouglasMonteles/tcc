@@ -1,1 +1,3 @@
-Artigo O Brasil precisa de um ajuste distributivo, de autoria do orador, veiculado no Jornal Pequeno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:106bedc250e8f97cad85e492c3a9e87d20a7d6091e7acd2c195a72f7d38e7fa8
+size 101

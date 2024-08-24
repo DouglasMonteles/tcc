@@ -1,1 +1,3 @@
-Recondução dos Conselheiros Paulo Maracajá Pereira e Francisco de Souza Andrade Netto, respectivamente, aos cargos de Presidente e Vice-Presidente do Tribunal de Contas dos Municípios do Estado da Bahia. Reeleição do Conselheiro José Alfredo Rocha Dias para o cargo de Corregedor da Instituição. Rejeição das contas do ex-Prefeito Municipal de Salvador, João Henrique.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a037a0672d87d4e7a733b393769a810824e3a6ce2779e47e9cbf22b273b335f3
+size 380

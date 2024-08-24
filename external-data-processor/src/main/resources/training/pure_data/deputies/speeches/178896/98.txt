@@ -1,1 +1,3 @@
-Apelo à Casa por solidariedade aos Estados de Minas Gerais e Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6be888927c9f41fb4e858be6138df1c388e5c28747efe77858aebc8e17ccbe1b
+size 78

@@ -1,1 +1,3 @@
-Realização da Marcha dos Estudantes, em defesa da destinação de 10% do Produto Interno Bruto - PIB brasileiro para a educação, na Esplanada dos Ministérios, em Brasília, Distrito Federal. Apoio da Frente Parlamentar da Juventude à reivindicação dos estudantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4326920a35eb7332a8812b60e05e7a9fcfd6bd135dac19c5901a72abcff6664
+size 271

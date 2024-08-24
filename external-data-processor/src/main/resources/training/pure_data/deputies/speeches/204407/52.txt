@@ -1,1 +1,3 @@
-Saudações aos participantes no 57º Congresso da União Nacional dos Estudantes - UNE, realizado em Brasília, Distrito Federal. Continuidade da luta em defesa da educação, da Previdência Social e contra o Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd9159a9566b2cafd60f764586ccc591d9dee579402c54ebfb64f9614e9de189
+size 234

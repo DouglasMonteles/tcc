@@ -1,1 +1,3 @@
-Manifestação da Corrente Afirmação Democrática, do PMDB, a respeito da votação do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79dd6952f46146986d81c35bcb58b2bb7763b3a8f21ae5c9023340a54c976b89
+size 123

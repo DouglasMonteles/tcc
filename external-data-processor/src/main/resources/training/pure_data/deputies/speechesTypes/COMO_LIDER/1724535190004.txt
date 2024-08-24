@@ -1,1 +1,3 @@
-Denúncia de ocorrência de reunião de líderes evangélicos com a Presidenta Dilma Rousseff para tratativas acerca da isenção das igrejas quanto ao pagamento da Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF, em troca de apoio para aprovação da matéria. Indignação do orador com a estratégia política da Presidenta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10f297348d15d05ffadcfdf59486761df16d5ab7b4d916e5f6cb12652d9f516c
+size 410

@@ -1,1 +1,3 @@
-Protesto contra a elevação da taxa básica de juros pelo Comitê de Política Monetária - COPOM, do Banco Central.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3789151acc758be2de0809453666f9fbc824ebaf40b3dedc3bb61271fed6551b
+size 117

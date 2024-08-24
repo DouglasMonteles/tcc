@@ -1,1 +1,3 @@
-Expectativa de aprovação, pela Casa, da Medida Provisória nº 432, de 2008, sobre renegociação de dívidas dos produtores rurais brasileiros. Apoio a projeto de lei, de autoria do Senador Paulo Paim, acerca de extensão de reajustes do salário mínimo aos benefícios de aposentados e pensionistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3afc2c8bd67c45c7dd7b57e39778bd4b4f46a818a97a82caa4536f727419d9e
+size 304

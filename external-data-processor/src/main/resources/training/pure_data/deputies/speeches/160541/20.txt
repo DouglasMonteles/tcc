@@ -1,1 +1,3 @@
-Congratulação à Presidência diante da celebração de acordo para a votação de medidas provisórias e do projeto sobre a Lei de Diretrizes Orçamentárias - LDO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e985eccd24480e1f7ae60d9971682611f778a9f4c2bdf96c73ea65a8c59ca3e5
+size 167

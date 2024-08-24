@@ -1,1 +1,3 @@
-Realização, pela comunidade pomerana do Município de Santa Maria de Jetibá, Estado do Espírito Santo, da 28ª Festa Pomerana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f193c91814a1f01efaceee71238444799cc6959b5ecd0c510f9efedc91427ae
+size 130

@@ -1,1 +1,3 @@
-Críticas à proposta do PT de extinção do auto de resistência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d90e4647c90d4fc2e95b2ad7609a3307ab52d865c356b82179a262469d9727a
+size 66

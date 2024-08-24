@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista, quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, à Medida Provisória nº 1.026, de 2021, sobre as medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e comunicação, comunicação social e publicitária, bem como treinamentos de vacinação, e sobre o Plano Nacional de Vacinação contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6196e4de900c82fe5ade1f52eec6fb09fcca42191ee36b33bccf3b0a527e2e55
+size 528

@@ -1,1 +1,3 @@
-Agradecimento ao povo do Estado do Rio de Janeiro pela eleição do orador para Deputado Federal e de sua filha Gisele Monteiro para Deputada Estadual. Compromisso de atuação parlamentar em defesa do emprego, da alimentação e da prosperidade da população fluminense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b734d1754c5f1aa2163a60ed26579a331158885e3dfbafcc34e549206653bf58
+size 272

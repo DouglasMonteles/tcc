@@ -1,1 +1,3 @@
-Indignação com a permanência do Deputado Eduardo Cunha na Presidência da Casa diante de evidência de seu envolvimento em esquemas de corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c8e827877296e8fc3b0f8ae61aecc56eda7d3a7a5094a0b8173e82bea0111fb
+size 150

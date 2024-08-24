@@ -1,1 +1,3 @@
-Congratulação à Presidência da Casa pela criação da Comissão Especial destinada ao exame do projeto de lei sobre adoção de medidas para o combate à corrupção. Malefícios decorrentes da prática da corrupção no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1988a800cdfce606ad7d4c6991df590591c025e6e0794d66187c6cbd7e233cc3
+size 231

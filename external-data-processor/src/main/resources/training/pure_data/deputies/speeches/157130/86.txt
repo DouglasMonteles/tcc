@@ -1,1 +1,3 @@
-Orientação de bancada na votação, em segundo turno, da Proposta de Emenda à Constituição nº 11, de 2022, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b517aef52bc05a7690d6610fe781b1a19acab386781e440d4b499a6b635bbe4c
+size 207

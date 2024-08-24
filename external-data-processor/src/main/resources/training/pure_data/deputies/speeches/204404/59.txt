@@ -1,1 +1,3 @@
-O Deputado lamentou o veto presidencial ao Projeto de Lei nº 334, de 2023, que trata da desoneração da folha de pagamento, destacando impactos nos setores econômicos e no emprego. Criticou também o texto da Proposta de Emenda à Constituição nº 45, de 2019, que trata da reforma tributária, considerando-o nocivo e prejudicial à população.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01a5de692a898aff409e57ca377320bd983969e5e55bc821bd3f24aae74332b7
+size 351

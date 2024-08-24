@@ -1,1 +1,3 @@
-Realização da Marcha das Margaridas, em Brasília, Distrito Federal, com a participação de mais de 100 mil mulheres de diversas partes do Brasil em homenagem a Margarida Alves, representante das mulheres camponesas, ribeirinhas, urbanas e rurais. Denúncia sobre a conduta inadequada do ex-Presidente Jair Bolsonaro em relação a objetos e joias entregues ao patrimônio da União. Importância da transparência e da responsabilidade por parte dos líderes do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d84715d428158713b47dead2fafdda127c4ae4582028f87c6f70df6edd5d914
+size 472

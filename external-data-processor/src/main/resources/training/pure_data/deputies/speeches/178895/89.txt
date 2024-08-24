@@ -1,1 +1,3 @@
-Clamor por seriedade no combate ao mosquito Aedes aegypti, transmissor do zika vírus, dengue e chikungunya. Reunião da Organização Mundial de Saúde -OMS sobre esforços contra as doenças transmitidas pelo mosquito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fc5212564d8636b713f3850e31d59fa1c6d68d348f8d2dc624efa11b1e28d4d
+size 220

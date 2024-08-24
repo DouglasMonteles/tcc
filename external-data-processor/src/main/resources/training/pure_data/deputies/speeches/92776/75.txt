@@ -1,1 +1,3 @@
-Realização da Copa do Mundo de Futebol de 2014 no País. Expectativa quanto ao legado do evento. Realização de investimentos governamentais no setor de serviços públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9e4dfea4b7b3efd93e09dfbcefce97d505af5ac378799e7de2efb642c783783
+size 176

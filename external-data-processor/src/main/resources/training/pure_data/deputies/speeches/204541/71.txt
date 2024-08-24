@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Deputado Federal e ex-Governador  do Estado do Ceará, José Adauto Bezerra de Menezes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7586d4005a6459eeba282b0cb3be5afe8f48665a80487cc44b00edc8ac3c81f
+size 112

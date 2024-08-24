@@ -1,1 +1,3 @@
-Congratulações aos Deputados pela aprovação do Projeto de Lei nº 3.267, de 2019, sobre a alteração da Lei nº 9.503, de 1997, relativa à instituição do Código de Trânsito Brasileiro. Aquisição e distribuição aos Estados e Municípios, pelo Governo Federal, de equipamentos de proteção individual, máscaras e respiradores pulmonares para enfrentamento da Covid-19. Habilitação, pelo Ministério da Saúde, de novos leitos de Unidades de Terapia Intensiva- UTIs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e0e1725c31b048532f84958bd6fa19f5008a3911625fa2253e15efb1c74aa0e
+size 481

@@ -1,1 +1,3 @@
-O Deputado prestou solidariedade ao jornalista Alexandre Garcia, que enfrenta críticas e investigações de autoridades após comentários sobre possível responsabilidade do Governo do PT na tragédia ambiental que ocorre no Rio Grande do Sul. Criticou a atitude do Advogado-Geral da União, Jorge Messias, e do Ministro da Justiça, Flávio Dino, por determinarem, respetivamente, à Procuradoria Nacional de Defesa da Democracia e à Polícia Federal, de realizarem investigação por suposta desinformação promovida pelo experiente jornalista. Afirmou que Alexandre Garcia é defensor do Estado Democrático de Direito e da independência dos Poderes. Por fim, o orador lamentou que o Poder Legislativo esteja enfraquecido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3ef1201ea23c9ec4885ef828cbd4880279c945115551ca72e6b034017a80d48
+size 730

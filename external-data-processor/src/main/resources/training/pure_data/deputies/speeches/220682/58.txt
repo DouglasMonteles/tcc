@@ -1,1 +1,3 @@
-O Deputado discutiu as Emendas do Senado Federal ao Projeto de Lei nº 4.188, de 2021, que institui o marco legal para o uso de garantias destinadas à obtenção de crédito no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86bda72e64b010bd638ce2244f234c54954ed2596c6ebf055293adf7d8101086
+size 184

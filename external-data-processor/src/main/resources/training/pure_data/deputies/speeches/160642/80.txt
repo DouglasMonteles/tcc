@@ -1,1 +1,3 @@
-Aprovação, pela Casa, da proposta de criação de novos Municípios. Apoio à emancipação de Distritos no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:339ef1a6d9b40e70fb539a73d33f9f0ea6cb8402201e8d6620e53a2f81ab186b
+size 131

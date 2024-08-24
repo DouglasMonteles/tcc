@@ -1,1 +1,3 @@
-Depoimento prestado à CPMI dos Cartões Corporativos pelo ex-Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, Gen. Alberto Mendes Cardoso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b19060cc220e144dbc9d2f1dfefcdcbffd2dd8f39aaa6fd233da67d67bbf269
+size 176

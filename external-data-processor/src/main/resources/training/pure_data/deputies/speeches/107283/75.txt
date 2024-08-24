@@ -1,1 +1,3 @@
-Falecimento do cantor e compositor Aldir Blanc e do ator Flávio Migliaccio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8736d98923337cb408c7ce9944067d71b5a84af2bf01a592f57167c8aa04a71c
+size 76

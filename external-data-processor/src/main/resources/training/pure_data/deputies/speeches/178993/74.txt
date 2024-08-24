@@ -1,1 +1,3 @@
-Repúdio à proibição de circulação de vans em Palmas, Estado do Tocantins, determinada pelo Prefeito da Capital. Apelo ao Governador do Estado pela reabertura do diálogo com os professores em greve por melhoria salarial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa5c6036815ab118564ddfe1b303f886a94b2fd27a0a0d857934a22dfe8f4dd7
+size 226

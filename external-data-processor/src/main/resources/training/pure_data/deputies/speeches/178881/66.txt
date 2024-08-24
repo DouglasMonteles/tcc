@@ -1,1 +1,3 @@
-Orientação de bancada na votação da admissibilidade do requerimento de destaque para votação em separado do art. 2º do Projeto de Decreto Legislativo nº 523-A, de 2019, a respeito da aprovação do texto do Acordo sobre Salvaguardas Tecnológicas celebrado entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América para utilização do Centro Espacial de Alcântara, assinado em Washington, em 18 de março de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39a9ae58cd07ae8d8ccbc9ef2922141b0f98491970edc777a31eab911858e11e
+size 459

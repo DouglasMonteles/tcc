@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Decreto Legislativo nº 292, de 2021, para sustação dos efeitos do art. 38 da Portaria GM/SM nº 1.263, de 2021, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14c7387e7c518c5727ad8893d8f3d3cbd515788c3674b99c439710ff1ea55b0e
+size 191

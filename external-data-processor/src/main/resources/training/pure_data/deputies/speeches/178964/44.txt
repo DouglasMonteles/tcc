@@ -1,1 +1,3 @@
-Presença maciça de Prefeitos em Brasília, Distrito Federal, em manifesto de inconformismo com a deterioração das contas públicas municipais e a redução dos repasses pelo Fundo de Participação dos Municípios. Contrariedade ao anunciado corte de recursos federais destinados à saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07948ed653c54c416001b02993b56a0e814d678520aff7a1c81675d4e3af22cc
+size 303

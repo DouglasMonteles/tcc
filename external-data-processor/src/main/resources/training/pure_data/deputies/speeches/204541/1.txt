@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar Mista em Defesa do Novo Pacto Federativo. Realização das festas carnavalescas no Município de Aracati, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b64e306787818d2f58c4c59a1f6e0f70d7331e59b47da1e2f48cae26258b51a
+size 157

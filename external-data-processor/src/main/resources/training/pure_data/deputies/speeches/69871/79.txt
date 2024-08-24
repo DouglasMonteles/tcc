@@ -1,1 +1,3 @@
-Congratulação ao ex-Deputado Francisco Escórcio pela assunção ao cargo de Assessor Especial da Secretaria de Relações Institucionais da Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f94a6f9881dd8c09cf44f1533889c24afd2f84ef883ba4ae3086a89f592f786
+size 170

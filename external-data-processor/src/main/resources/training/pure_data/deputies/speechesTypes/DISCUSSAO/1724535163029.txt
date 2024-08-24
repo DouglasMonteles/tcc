@@ -1,1 +1,3 @@
-Discussão do Substitutivo do Senado ao Projeto de Lei 1.946 de 1999 (Dispõe sobre a Tarifa Social de Energia Elétrica, altera as Leis 9.991 de 2000, 10.925 de 2004, 10.438 de 2002, e dá outras providências). Defesa da aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d590a87ccf724d2da264e0b923688b6a8260e55a1cb12e06f310227a7fe7127b
+size 247

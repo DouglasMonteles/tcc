@@ -1,1 +1,3 @@
-Manifesto pela Obrigatoriedade da Sociologia no Ensino Médio no Estado de São Paulo. Desinteresse do Governo Federal no combate ao desmatamento na região amazônica. Necessidade de adoção de política destinada ao desenvolvimento sustentável da Amazônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fae6e7167e1f4275d2a218331a9428b64ec4cd18dde2b0a6d02b983140f1af70
+size 261

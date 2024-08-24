@@ -1,1 +1,3 @@
-Presença no plenário de Parlamentares da Comissão de Meio Ambiente e Agricultura da Suécia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a20a767ea2f605a7cf8af9298dbd2696172586f2c553f27264fa736c360a485e
+size 95

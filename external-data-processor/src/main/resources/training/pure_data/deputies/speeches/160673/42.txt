@@ -1,1 +1,3 @@
-Declaração, pela Organização das Nações Unidas - ONU, de 2012 como o Ano Internacional das Cooperativas. Inclusão de cooperativas agropecuárias no BNDES Participações - BNDESPAR.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcea6a2fe61923e176aa2db44357555a9d26523fa89159c31d3dda8924b6c63c
+size 188

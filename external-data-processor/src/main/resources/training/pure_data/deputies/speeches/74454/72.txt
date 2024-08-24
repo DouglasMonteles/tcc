@@ -1,1 +1,3 @@
-Construção de usina siderúrgica no Estado do Ceará. Anúncio pelo Governador Cid Gomes de construção do trecho 5 do chamado Eixão das Águas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b007f1ea3c04573ab6e0721281de9506d13b43e736efe931dfd94937d1834bd
+size 148

@@ -1,1 +1,3 @@
-Participação na comitiva do Ministro da Educação, Fernando Haddad, em visita ao Hospital de Clínicas em Porto Alegre, Estado do Rio Grande do Sul. Defesa de criação da Empresa Brasileira de Serviços Hospitalares S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:791c1e7d5367240034e059f6808c877d2c1668901e3466decdcda0a7f3a5909b
+size 224

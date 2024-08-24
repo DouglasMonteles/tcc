@@ -1,1 +1,3 @@
-Consulta ao Plenário sobre existência de acordo para adiamento da reunião de Líderes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ece38bf13caf20b6bc26f64ac9bd6af26eb871ea40635f72c06db12df513466f
+size 89

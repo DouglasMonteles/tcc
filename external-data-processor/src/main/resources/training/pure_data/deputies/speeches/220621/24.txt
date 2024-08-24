@@ -1,1 +1,3 @@
-Protesto contra a aprovação da Medida Provisória nº 1.154, de 2023, sobre a organização básica dos órgãos da Presidência da República e dos Ministérios. Existência de fortes indícios da participação do ex-Chefe do Gabinete de Segurança Institucional — GSI da Presidência da República, General Marco Edson Gonçalves Dias, na adulteração do certificado de vacina do ex-Presidente Jair Bolsonaro. Denúncia de conhecimento prévio, por parte do Governo Federal, da invasão das sedes dos Poderes da República no dia 8 de janeiro de 2023. Protesto contra a visita, ao País, do ditador venezuelano Nicolás Maduro a convite do Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:343ee2cb4a5cd286764def659131dc2b51d74e3fede4fd4531beaa864aaeae5d
+size 686

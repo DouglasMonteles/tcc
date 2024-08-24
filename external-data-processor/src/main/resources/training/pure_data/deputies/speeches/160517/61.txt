@@ -1,1 +1,3 @@
-Relato da visita do Governador Renato Casagrande a Municípios do Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23d6c959cccea197558ff7c8d55f828c18dec4d5bf271a9f10cfd191b2a2cf56
+size 92

@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para supressão do art. 26 e, por decorrência de mérito, do art. 27 da Medida Provisória nº 927, de 2020, a respeito das medidas trabalhistas de enfrentamento do estado de calamidade pública decorrente da pandemia de coronavírus (Decreto Legislativo nº 6, de 2020).
+version https://git-lfs.github.com/spec/v1
+oid sha256:400814e7182c3df415cd2e621158143f410d649a72111bf72fbfb35cfc9b4f0b
+size 328

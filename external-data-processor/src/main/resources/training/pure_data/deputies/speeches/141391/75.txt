@@ -1,1 +1,3 @@
-Solicitação à Agência Nacional de Telecomunicações - ANATEL de ampliação do prazo de revisão do Plano Geral de Outorgas. Urgente regulamentação do Fundo de Universalização dos Serviços de Telecomunicações - FUST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d6282e608bcd0ce18b5c3f9664aa3a059ac757d7de0754a98d412684effc61f
+size 228

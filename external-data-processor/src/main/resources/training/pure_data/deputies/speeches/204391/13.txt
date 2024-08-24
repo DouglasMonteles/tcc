@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do inciso V, constante do art. 5º da Lei nº 12.414, de 2011, na redação dada pelo art. 2º do substitutivo apresentado ao Projeto de Lei Complementar nº 441-D, de 2017, sobre os cadastros positivos de crédito e a regulamentação da responsabilidade civil dos operadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67d9329f14b784aa3da1d4e209265f4369a940d40b75b0219da638f35246c7b2
+size 369

@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM   à Emenda  de Plenário 2, destacada, à Subemenda Substitutiva Global de Plenário ao Projeto de Lei 4.361 de 2004 (Declara os Centros de Inclusão Digital - CID (Lan Houses), relativa à exigência de cadastro com dados pessoais e endereço de usuários de Lan Houses .
+version https://git-lfs.github.com/spec/v1
+oid sha256:271e0912cebb87c1b5bb6400b8459fd5479e910e13f1d4f37639f1ee6ad43822
+size 306

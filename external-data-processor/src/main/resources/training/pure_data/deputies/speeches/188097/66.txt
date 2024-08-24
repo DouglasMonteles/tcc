@@ -1,1 +1,3 @@
-Transcurso do 42º aniversário de fundação do PT. Realizações do governo petista. Inauguração da Zona de Processamento de Exportação - ZPE do Estado do Piauí. Desenvolvimento econômico piauiense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d34ce0f310264c54a38cbabe593967b8da2fb3b960c31eea01e3f69329c98f86
+size 206

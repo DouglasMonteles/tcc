@@ -1,1 +1,3 @@
-Reexame, pela Agência Nacional de Energia Elétrica - ANEEL, da proposta de taxação de energia solar. Apelo ao Ministro da Economia, Paulo Guedes, a favor da revisão, pelo Banco do Nordeste do Brasil, da política de financiamento de obras de infraestrutura do setor de produção de energia solar e eólica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc8d4c827f57973dff2809829a18584c81e3e3272c6e1569340441f645279e9e
+size 312

@@ -1,1 +1,3 @@
-Solicitação à Superintendência do Banco do Brasil no Estado da Paraíba de reabertura de agência no Município de Paulista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0f28259085f2d43957382ea1235256ab25a44114ada9f9379ebd817ab0f5f4b
+size 128

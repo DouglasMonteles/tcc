@@ -1,1 +1,3 @@
-O Deputado criticou o discurso de outro Parlamentar a respeito da invasão da conta da primeira-dama em uma rede social. Ele apontou a demora para retirar as publicações falsas do ar, ressaltando a repercussão mundial dessas notícias. Questionou como um Deputado da Oposição reagiria se algo semelhante acontecesse com ele, sugerindo uma abordagem diferente na avaliação de situações semelhantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ad0db201dcba15bebbf404b66ba22f9f1f94d4185b23284f8d5ba66ee39f54f
+size 406

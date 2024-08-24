@@ -1,1 +1,3 @@
-Agradecimentos pela aprovação de projeto de lei sobre a regulamentação do salão-parceiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1d33c21189b4916afdb6ac5af6a7e2a3f36f02f6c286e059eb71857de58c99c
+size 94

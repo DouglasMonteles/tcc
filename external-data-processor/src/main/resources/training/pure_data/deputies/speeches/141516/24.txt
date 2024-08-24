@@ -1,1 +1,3 @@
-Imperiosidade da criação de Tribunal Regional Federal com jurisdição exclusiva sobre o Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1335dc96932c5d678d7dd1fe8b43537cd795faba93bc0fb8daed105d6e48256d
+size 114

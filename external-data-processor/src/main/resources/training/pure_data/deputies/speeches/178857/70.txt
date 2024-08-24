@@ -1,1 +1,3 @@
-Críticas à intervenção do Governo Michel Temer na Geap Autogestão em Saúde, plano de saúde de servidores públicos federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c7da46b357b8f37b79144e5aad68371d95f297565764d24c375f4814ab54aed
+size 131

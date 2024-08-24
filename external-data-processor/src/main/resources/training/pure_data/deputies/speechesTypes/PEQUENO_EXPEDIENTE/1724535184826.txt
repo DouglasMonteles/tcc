@@ -1,1 +1,3 @@
-Realização da campanha Crack nem Pensar! pelo Grupo Rede Brasil Sul de Comunicação. Reexame pelo Governo do Estado do Rio Grande do Sul e pela Prefeitura Municipal de Porto Alegre das políticas de tratamento e recuperação de  dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53fb386d40e9ee17232299ff5da06aef387a000eed0ee65a83d58453cf7ef3ba
+size 255

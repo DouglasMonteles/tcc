@@ -1,1 +1,3 @@
-Contestação à alegação, em pronunciamento anterior, de não participação dos Procuradores da República integrantes da força-tarefa da Operação Lava-Jato nos debates acerca de proposição relativa à implantação de medidas de combate à corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:237fe651cd8430e6307d10babe4570721f2d19cf5dafbc000a01b0f42fbd4ee0
+size 262

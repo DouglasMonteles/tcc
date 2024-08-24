@@ -1,1 +1,3 @@
-Discussão do índice de aumento do salário mínimo.  Ponderações sobre acordo firmado pela centrais sindicais com o Governo, visando à  valorização do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef2fe895dc94f3e70b243cfc2cc99c42413bd2c45596c40b7225184715e0b5ab
+size 175

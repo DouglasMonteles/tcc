@@ -1,1 +1,3 @@
-Aplausos à equipe da Delegacia de Homicídios e Proteção à Pessoa - DHPP, pela execução de assassino de policiais militares, em Natal, Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdfc912f246a994da903618bd448ebede9d029c94e1222917fa60c169bd36b91
+size 171

@@ -1,1 +1,3 @@
-Importância do acompanhamento, pelo eleitorado brasileiro, dos votos dos Deputados contra ou a favor da abertura de processo de impeachment contra a Presidente da República, Dilma Rousseff, no Senado Federal. Inexistência de julgamento de mérito na votação, pela Câmara dos Deputados, sobre admissibilidade da abertura do processo no Senado Federal. Expectativa de divulgação de conteúdo de áudios gravados no âmbito da Operação Lava-Jato, da Polícia Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c7388b51a5c3d4b030e0287467b0ab2d1373093b335b063fec0d982436eb543
+size 474

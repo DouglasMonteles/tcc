@@ -1,1 +1,3 @@
-Homenagem ao servidor da Casa Mozart Vianna de Paiva em face de sua despedida do cargo de Secretário-Geral da Mesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f903134757de8aaf63cf195a87611324c97a199f4aac56030953536085bb85ec
+size 116

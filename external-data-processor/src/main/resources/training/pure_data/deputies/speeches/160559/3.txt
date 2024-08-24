@@ -1,1 +1,3 @@
-Indignação do orador com a não apreciação, pelo Congresso Nacional, do veto presidencial aposto à proposta de distribuição aos Estados e Municípios de royalties de petróleo da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a789fd403e538b073045a6013def87b4ce253f80eb4a73196084c7e2f85873f
+size 202

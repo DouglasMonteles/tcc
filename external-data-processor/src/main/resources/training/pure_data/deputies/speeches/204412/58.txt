@@ -1,1 +1,3 @@
-Contrariedade à aprovação do Projeto de Lei nº 1.774, de 2019, acerca da venda, em supermercados e estabelecimentos similares, de medicamentos isentos de receita médica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15307b7465f3bd3d928d6fe5213c0339bb7f35c02f8f2a6442b012480d1a5bff
+size 174

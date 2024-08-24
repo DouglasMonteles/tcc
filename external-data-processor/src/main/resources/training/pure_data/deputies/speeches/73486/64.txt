@@ -1,1 +1,3 @@
-Realização da 25ª edição do Prêmio Direitos Humanos de Jornalismo. Convite aos Parlamentares para participação na cerimônia de abertura da 11ª Conferência Nacional dos Direitos Humanos. Urgente votação do Estatuto das Pessoas com Deficiência. Aprovação, pelo Senado Federal, da Proposta de Emenda à Constituição nº 333, de 2004, sobre o limite de despesas e a composição numérica das Câmaras Municipais. Importância da redução dos gastos realizados pelas Câmaras de Vereadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cabe544526921dbfe2d54639c1367adc96854e34e56b3de942319d12ca36cdb4
+size 505

@@ -1,1 +1,3 @@
-Realização do 11º Congresso da Confederação Nacional dos Trabalhadores na Agricultura - CONTAG, em Brasília, Distrito Federal. Realização, pelo Governo Federal, de investimentos no Estado de Alagoas. Críticas ao Governador Teotônio Vilela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2af6dcaf21dcc243a328d5bba823bf82293036575e3b65fafcd21e47f6cc144a
+size 249

@@ -1,1 +1,3 @@
-Crítica ao parcelamento dos salários de servidores públicos pelo Governo do Estado do Rio Grande do Sul. Compromisso do orador com pauta relativa à superação da crise econômica e política no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ebe3892eae5cbf143c9b879a8b4aeb20b90a779241da2c63af898b9f1d80adf
+size 205

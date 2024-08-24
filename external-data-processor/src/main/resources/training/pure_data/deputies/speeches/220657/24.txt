@@ -1,1 +1,3 @@
-Indignação com deboche do Ministro da Justiça e Segurança Pública, Flávio Dino, por ocasião do seu comparecimento à Comissão de Constituição e Justiça e de Cidadania, diante de questionamentos do orador a respeito da ligação do PT com a facção criminosa Primeiro Comando da Capital - PCC, e das razões do seu imobilismo frente aos atos de vandalismo praticados contra as sedes dos Poderes da República. Posicionamento do Ministro da Justiça contrário à criação de CPMI para investigação do caso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f98f230a0412ff05e5e6745196ab56d398e35163627f2fabe8941273becd7e78
+size 520

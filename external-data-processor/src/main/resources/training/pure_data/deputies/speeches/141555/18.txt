@@ -1,1 +1,3 @@
-Alerta à população do Rio de Janeiro sobre a importância da escolha do Prefeito do município. Estado de abandono da municipalidade, especialmente da Zona Oeste. Desempenho do PTdoB nas eleições municipais de 2008. Omissão do Ministro da Educação, Fernando Haddad, quanto ao pedido de audiência formulado pelo orador. Defesa de inclusão da Citotecnologia no Catálogo Nacional dos Cursos Superiores de Tecnologia do Ministério da Educação. Descumprimento, pelo Governador do Estado do Rio de Janeiro, Sérgio Cabral, de compromisso firmado com Deputados Federais e Estaduais. Solicitação ao candidato à Prefeitura Municipal do Rio de Janeiro Eduardo Paes de assunção de compromisso em favor da população da Zona Oeste da cidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e925e9161aa566082b03b3f00b03e58fa3cfebc79c85ec5b2bfb76b8a105a6b
+size 749

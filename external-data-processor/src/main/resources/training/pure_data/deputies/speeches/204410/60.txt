@@ -1,1 +1,3 @@
-Transcurso do 84º aniversário de emancipação político-administrativa do Município de Cornélio Procópio, no Estado do Paraná. Congratulações à população local. Destinação, pelo Governador Ratinho Junior, de recursos ao Hospital Regional de Cornélio Procópio. Defesa da implantação de curso de Medicina na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d087de89ff5bd34754a8d728194b863681ba4c30add61a87db8a444f7240447f
+size 339

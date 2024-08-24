@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global oferecida pela Relatora da Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços ao Projeto de Lei nº 5.638, de 2020, sobre as ações emergenciais e temporárias destinadas ao setor de eventos, para compensação dos efeitos da epidemia de coronavírus, ressalvados os destaques. Agradecimento à Relatora Renata Abreu pelo acatamento das Emendas de nºs 4 e 13 oferecidas pelo orador à proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c6518ceb7043c438ba5ea9be21beafb6c6bbe9148461d19a4d3c4f715d10ace
+size 494

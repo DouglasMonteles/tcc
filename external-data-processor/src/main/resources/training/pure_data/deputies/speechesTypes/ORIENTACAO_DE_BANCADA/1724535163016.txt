@@ -1,1 +1,3 @@
-Posicionamento favorável do PSDB ao Requerimento de regime de urgência urgentíssima para o Projeto de Lei 2.791 de 2011 ( Concede anistia aos policiais e bombeiros militares dos Estados de Alagoas, da Bahia, do Ceará, do Maranhão, do Mato Grosso, de Minas Gerais, de Pernambuco, do Rio de Janeiro, do Rio Grande do Norte, de Rondônia, de Roraima, de Santa Catarina, de Sergipe, do Tocantins e do Distrito Federal punidos por participar de movimentos reivindicatórios).
+version https://git-lfs.github.com/spec/v1
+oid sha256:840b4b3040f407c0e926657a62d69a7823acba1d806cc47c13a96549997359f0
+size 475

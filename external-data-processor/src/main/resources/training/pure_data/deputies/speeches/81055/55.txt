@@ -1,1 +1,3 @@
-Saudações aos visitantes do Estado do Rio Grande do Sul presentes na Casa. Realização da Marcha das Margaridas e da Marcha Nacional das Mulheres Indígenas, em Brasília, Distrito Federal. Manifestação de boas-vindas à Deputada Estadual licenciada do Maranhão, Ana do Gás, e à Diretora da Casa da Mulher Brasileira no Maranhão, Susan Lucena, presentes na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:329de62e7c934925e590df3d232b45bfe0c71fc4de90efbfd65781b977266706
+size 388

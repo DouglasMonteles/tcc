@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 3º do projeto de lei de conversão, para inclusão no texto da Medida Provisória nº 863, de 2018, sobre a abertura do setor aéreo ao capital estrangeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6f6210ea6904ca9660fff8cfdfce824a3916a1ff0b6106282d89d3dd315f423
+size 257

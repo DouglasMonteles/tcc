@@ -1,1 +1,3 @@
-Expectativa de aprovação do processo de impeachment pelo Plenário da Câmara dos Deputados. Críticas à ex-Senadora Marina Silva pela falta de liderança sobre Parlamentares da Rede em relação à votação do impeachment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f76c36821c1b7684658b937ea6b8443dec1904029e7aba8d816102e744167ff
+size 227

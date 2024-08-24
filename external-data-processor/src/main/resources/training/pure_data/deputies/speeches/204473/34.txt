@@ -1,1 +1,3 @@
-Texto Um novo príncipe maquiavélico, de autoria do orador, a respeito da acusação do Ministro do Supremo Tribunal Federal, Gilmar Mendes, contra as Forças Armadas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d68ff6c7a5f0e7bee61d83eff13610eaa8feb36bae792c057a965a11e086e2a2
+size 180

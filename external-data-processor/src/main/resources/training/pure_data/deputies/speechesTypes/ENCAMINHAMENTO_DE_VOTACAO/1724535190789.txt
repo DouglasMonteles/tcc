@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda 145, destacada, ao Projeto de Lei de Conversão da  Medida Provisória 540 de 2011 (Institui o Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras - Reintegra; dispõe sobre a redução do Imposto sobre Produtos Industrializados - IPI à indústria automotiva; altera a incidência das contribuições previdenciárias devidas pelas empresas que menciona, e dá outras providências), que beneficia  com incentivo  fiscal empresas que se instalarem em  municípios  do norte de Minas na área de atuação da SUDENE .
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1d5eb25b96ef13d04cc568de952d673c6712ba5cf57f1fafb92aaa7c6281676
+size 591

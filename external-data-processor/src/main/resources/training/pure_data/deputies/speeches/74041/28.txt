@@ -1,1 +1,3 @@
-Despropósito de ação ajuizada no Supremo Tribunal Federal, pelos partidos oposicionistas, contra o Programa Territórios da Cidadania. Impertinência das declarações do Ministro Marco Aurélio de Melo a respeito do Programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:262340e26939c06e772ea520efe9bb44d56708938d620a468bf1e2e55711f463
+size 229

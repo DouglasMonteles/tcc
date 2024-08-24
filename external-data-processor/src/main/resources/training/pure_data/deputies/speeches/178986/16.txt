@@ -1,1 +1,3 @@
-Realização de evento na Assembleia Legislativa do Estado de São Paulo com vistas ao debate da crise hídrica no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:343a478f86cfc559d26426418dd73bc8f0e22d47f5a9605fa2f58fd14fd0557e
+size 122

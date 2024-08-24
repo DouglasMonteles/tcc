@@ -1,1 +1,3 @@
-Encaminhamento da votação da expressão vedada a cessão de direitos constante do § 2º do  art. 31 do Projeto de Lei de Conversão da Medida Provisória  451 de 2008 (Altera a legislação tributária federal, e dá outras providências), que trata de reembolso à vítima de despesas médico-hospitalares efetuadas pela rede credenciada ao Sistema  Único de Saúde - SUS, cobertas pelo Seguro Obrigatório de Danos Pessoais causados por veículos automotores de via terrestre -  DPVAT, objeto de  DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c36e3ec96f7364621a3616a95db9da4060c1abdd3eaa88046733145e700887e0
+size 507

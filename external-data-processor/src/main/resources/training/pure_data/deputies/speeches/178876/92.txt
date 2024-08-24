@@ -1,1 +1,3 @@
-Realização de evento religioso no Santuário Jardim da Imaculada, no Município de Cidade Ocidental, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd478b14fd17028d129fbe120ddd320772a8a23073e01864557d3d7e8fbab2e4
+size 120

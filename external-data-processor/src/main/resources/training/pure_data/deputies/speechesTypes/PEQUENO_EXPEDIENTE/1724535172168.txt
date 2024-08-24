@@ -1,1 +1,3 @@
-Apoio ao Presidente Jair Bolsonaro. Agradecimento aos eleitores do Estado do Rio de Janeiro pelos votos recebidos nas eleições para a Câmara dos Deputados. Compromisso de atuação parlamentar em defesa da célula familiar, contra a corrupção e pelo fortalecimento da área de segurança pública. Exigência de identificação do mandante do atentado contra a vida do então candidato à Presidência da República, Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b60ef82a10610cd6ade8ae1f8c358d9db2600ea4f62a6a8f422ee90444f24535
+size 437

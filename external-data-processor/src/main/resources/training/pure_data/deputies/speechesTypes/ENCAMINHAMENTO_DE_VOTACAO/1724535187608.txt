@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque supressivo da expressão por 20% dos recursos financeiros provenientes de compensação da União a Estados e Municípios decorrente da desoneração do imposto referido no inciso II do art. 155, constante no inciso II, art. 212-A, da Constituição Federal, acrescido pelo art. 7º do substitutivo apresentado à Proposta de Emenda à Constituição nº 15, de 2015, sobre a transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica pública, e por decorrência a supressão também do art. 12 do substitutivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97519805e8c5ff4df29f45cec8ee0aded23105fe135a788befedf128b09a3861
+size 716

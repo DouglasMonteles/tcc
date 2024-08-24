@@ -1,1 +1,3 @@
-Realização de festas juninas na Região Nordeste. Transcurso dos aniversários dos Municípios de Água Preta, Joaquim Nabuco, Angelim, Santa Maria da Boa Vista, Palmares, Formoso, Bodocó, Triunfo e Lagoa Grande, no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a365934b6c327d185bfceb5aa858e4a78495c9fea8ace8e433c3d434d1c1c6f9
+size 240

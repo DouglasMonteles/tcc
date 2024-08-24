@@ -1,1 +1,3 @@
-Presença de líderes extrativistas no Distrito Federal para participação no IV Congresso Nacional do Conselho Nacional das Populações Extrativistas - CNS, e em diversas atividades em defesa dos seus territórios e do meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99419e94817f7e8cec22bebb5ef306fb3ae5b498cbcc92a1e2d8598fc0ce6632
+size 236

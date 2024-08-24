@@ -1,1 +1,3 @@
-Necessidade de reconsideração da interpretação da Presidência a respeito do emendamento de acordo internacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d026595d32fbad2e7599505c9de3fe8fcc31b0c03e5766f9ad4ac32a35c79b10
+size 117

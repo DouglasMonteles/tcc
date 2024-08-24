@@ -1,1 +1,3 @@
-Importância da pacificação do PSL e do apoio ao partido ao Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45dc138a8f0145dc081432c6f09478364c0d6ff4022697b1068a679191a5f002
+size 88

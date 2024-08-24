@@ -1,1 +1,3 @@
-Inconstitucionalidade de propostas de emendas à Constituição relativas à redução da idade mínima para o início do trabalho. Solicitação à Comissão de Constituição e Justiça e de Cidadania de inadmissibilidade e arquivamento das matérias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e6ba84a3a550472501bae4233047db596130b7aba8c00c92ffe208ddc5ec232
+size 253

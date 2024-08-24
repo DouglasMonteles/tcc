@@ -1,1 +1,3 @@
-Artigo intitulado Minha Matões querida, de autoria do orador, publicado no Jornal Pequeno, sobre o desenvolvimento do Município de Matões, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64e806aa606054a15e20b374458a14e949df4b605862b35c313b7a74ed93290e
+size 162

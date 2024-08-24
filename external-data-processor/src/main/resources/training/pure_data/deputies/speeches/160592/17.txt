@@ -1,1 +1,3 @@
-Saudações aos professores do Estado de Minas Gerais. Acerto das medidas adotadas pela Presidenta Dilma Rousseff para enfrentamento da crise econômica mundial. Equívoco da disseminação pela mídia de clima de instabilidade econômica no País. Apoio ao Plano Brasil Maior, destinado ao fortalecimento da indústria brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e522f6f0d96688229f369cf79b12f39005dd96d5d0ca1fa33241320add27f505
+size 331

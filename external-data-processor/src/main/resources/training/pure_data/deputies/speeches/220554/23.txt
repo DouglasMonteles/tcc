@@ -1,1 +1,3 @@
-Realização da 52ª Ciranda Cultural de Prendas do Movimento Tradicionalista Gaúcho, no Município de Rio Grande, Estado do Rio Grande do Sul. Saudação à Primeira Prenda Adulta do Rio Grande do Sul, Giovana Martins. Inclusão da Universidade Federal do Rio Grande do Sul - UFRGS; da Universidade Federal de Pelotas - UFPEL; da Universidade Federal de Santa Maria - UFSM; e da Pontifícia Universidade Católica do Rio Grande do Sul - PUC entre as 2 mil universidades melhores do mundo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74ea6e4b01384319aa897925c106218c28716df79ae45e2a3a243c46153253ec
+size 490

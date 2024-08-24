@@ -1,1 +1,3 @@
-Relevância do papel desenvolvido pelos agentes comunitários de saúde e pelos agentes de combate às endemias. Defesa da aprovação de matéria de interesse da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:371b32f480c22a7c30c83d2383e4f1cbfc0682b229d9ab25ce3ae56cab037ef1
+size 173

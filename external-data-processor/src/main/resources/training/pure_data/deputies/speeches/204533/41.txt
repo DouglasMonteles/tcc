@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento, por 1 sessão, da discussão do Projeto de Lei nº 5.595, de 2020, relativo ao reconhecimento da Educação Básica e de Ensino Superior, em formato presencial, como serviços e atividades essenciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba87f45a4f5082737deb63d747c4164edcff87eb88d0b9c0cf50da6924a18ad5
+size 267

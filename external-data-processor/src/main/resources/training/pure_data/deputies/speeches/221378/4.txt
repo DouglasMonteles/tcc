@@ -1,1 +1,3 @@
-Aplausos ao Presidente Luiz Inácio Lula da Silva e à Ministra das Mulheres, Aparecida Gonçalves, pelo lançamento de conjunto de políticas públicas em benefício da classe feminina. Importância de combate à violência de gênero e à desigualdade salarial entre homens e mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4f5d89f8a3b60ca4ebebbb468c2872b648c20c7fca40d42b6610245284fcc37
+size 287

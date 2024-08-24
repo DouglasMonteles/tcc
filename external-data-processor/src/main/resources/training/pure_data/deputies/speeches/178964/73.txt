@@ -1,1 +1,3 @@
-Solicitação ao Governo Federal de apoio á população atingida por tempestades no Estados do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbbe7cfac68a7002dc53a08780d49a500b20b5a760b8cede14ea59c94caabaf7
+size 114

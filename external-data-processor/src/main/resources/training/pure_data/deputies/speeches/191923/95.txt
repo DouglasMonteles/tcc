@@ -1,1 +1,3 @@
-O Deputado ressalta a persistência dos resquícios da escravidão no Brasil, apontando a educação e a saúde como áreas onde a exclusão ainda prevalece. Ele destaca a importância das leis em favor de grupos minoritários, como negros, indígenas e pardos, mas observa que a desigualdade persiste, inclusive em termos de emprego e salários. O Parlamentar aplaude a recente aprovação de um projeto de lei que aprimora o sistema de cotas em universidades introduzido há 10 anos como lei. Ele destaca a necessidade de revisar essa lei a cada década, devido à continuidade das disparidades históricas para com os afrodescendentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c36c40372ad93853447a4a55f877dec1601f739cf0dcdc8c3bea4067e19536f
+size 638

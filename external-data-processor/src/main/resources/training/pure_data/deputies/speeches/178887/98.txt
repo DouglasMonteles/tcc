@@ -1,1 +1,3 @@
-Artigo intitulado O Peso das Coisas, de autoria do orador, publicado no Jornal Pequeno, do Estado do Maranhão, sobre a apresentação de recurso ao Supremo Tribunal Federal contra a supressão do direito de recurso à Comissão de Constituição e Justiça e de Cidadania da Casa relativo a questão de ordem apresentada pela Liderança do DEM sobre a abertura de processo de impeachment da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be50530b977a423d2f249e21b0a116fae7629514d4bc5d6e0a4e190a0d877cd1
+size 418

@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda de Plenário nº 1, com parecer contrário, oferecida ao Projeto de Lei Complementar nº 133, de 2020, a respeito da instituição de transferências obrigatórias da União para os Estados, o Distrito Federal e os Municípios, por prazo ou fato determinado; da regra de cessação contida no § 2º, art. 91, do Ato das Disposições Constitucionais Transitórias; e da alteração da Lei nº 13.885, de 2019. Protesto contra o não encaminhamento aos Parlamentares do Cidadania, pelo Governo do Estado do Espírito Santo, de convite para participação na cerimônia de inauguração de conjunto habitacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c6ff76a627aa237ef91ce8d0099c993bacd1ab4fa48fbf08d9a908985414255
+size 658

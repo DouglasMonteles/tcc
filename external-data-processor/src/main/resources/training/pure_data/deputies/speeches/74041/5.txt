@@ -1,1 +1,3 @@
-Nomeação do Deputado Edson Santos para o cargo de Ministro da Secretaria Especial de Políticas de Promoção da Igualdade Racial. Retorno do ex-Deputado Antônio Carlos Biscaia à Casa. Nota TV pública: uma necessidade democrática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b8b3abe37dd12a211ab31890744d7889bf848c117bea7f177a20905ff273e2e
+size 236

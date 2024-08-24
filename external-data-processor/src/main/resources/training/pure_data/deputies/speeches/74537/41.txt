@@ -1,1 +1,3 @@
-Recrudescimento da violência na região metropolitana de Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94b6ef374f16cac2ac448c882513e3fedf5faefa69a7e5cc72911ae0f91a7c57
+size 84

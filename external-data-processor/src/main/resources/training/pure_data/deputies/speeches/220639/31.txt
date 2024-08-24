@@ -1,1 +1,3 @@
-Retomada do papel da diplomacia brasileira pelo Presidente Luiz Inácio Lula da Silva. Participação do Presidente da República em reunião do chamado G7, grupo formado pela Alemanha, Canadá, Estados Unidos, França, Itália, Japão e Reino Unido. Participação do PSOL na base governista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecdc8a85417c98657c309afa03250aab489d47b2c706dddb2ad39ec14a454c4b
+size 293

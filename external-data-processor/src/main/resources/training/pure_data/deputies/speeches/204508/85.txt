@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 2.505, de 2021, sobre as sanções aplicáveis por prática de atos de improbidade administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ebbcd8224061c3d20d804c9d8efced264e922f8d961433172400e9c55e67e43
+size 194

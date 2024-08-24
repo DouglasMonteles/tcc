@@ -1,1 +1,3 @@
-Divulgação no Jornal da Câmara do Projeto de Lei nº 195, de 2015, que regula as condições de elegibilidade do militar. Esclarecimentos do orador acerca da proposição. Pedido à Presidência de inclusão da proposição na pauta da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a29b32bf8c3c0c1c4581c5568568b51281dd0be4621ea64befb8fb09152ad41
+size 244

@@ -1,1 +1,3 @@
-Posse da nova Diretoria da União Nacional dos Estudantes - UNE. Saudações aos professores do Estado de Minas Gerais presentes nas galerias do plenário. Solidariedade ao movimento grevista da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01b09dd2b094702d5eb75b62fb199e7f1eacfed90e3fdf49bff7a068b469076a
+size 205

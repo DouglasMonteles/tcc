@@ -1,1 +1,3 @@
-Artigo Reforma por convicção e pelo futuro do País, a respeito da reforma previdenciária, de autoria do orador, publicado pelo jornal Zero Hora, de Porto Alegre, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adac1ab40d999e46a4159e2e6b2b316548732f57d7f6679b6b2e93a0c446d2f8
+size 194

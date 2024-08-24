@@ -1,1 +1,3 @@
-Homenagem da Casa ao Dia Internacional da Liberdade da Imprensa, comemorado em 3 de maio. Importância social do jornalismo honesto e independente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f832106f078394f4280e577064a90ab64dac36951350863a9cd04be7a40e1ec
+size 147

@@ -1,1 +1,3 @@
-Apoio à Jornada Nacional de Luta realizada pelo Movimento dos Trabalhadores Rurais Sem Terra - MST. Defesa de criação de CPI destinada à investigação da dívida pública brasileira. Transcurso do Dia Nacional de Luta pela Reforma Agrária e do Dia Internacional de Luta Camponesa. Transcurso dos 12 anos do massacre de trabalhadores rurais sem terra ocorrido no Município de Eldorado dos Carajás, Estado do Pará. Exigência de condenação dos responsáveis pelo crime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaef9b498dd15a94f3f46a279c711804f0a22d013631251f13d9693e3a4d1688
+size 478

@@ -1,1 +1,3 @@
-Tentativa pelo PSDB de realização de acordo para a votação da Medida Provisória 416 de 2008 (Altera a Lei 11.530 de 2007, que institui o Programa Nacional de Segurança Pública com Cidadania - PRONASCI, e dá outras providências).Ponderações sobre a impropriedade do  do § 3º no art. 8º - D do Projeto de Lei de Conversão, que autoriza o Executivo a conceder incentivos financeiros a mulheres e homens socialmente atuantes nas áreas geográficas abrangidas  pelo PRONASCI, para capacitação e exercício de ações de justiça comunitária relacionadas à mediação e à educação para direitos, conforme regulamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afd561e11cd461a623cb691a43690e0e526ad7c8d8e2dea15c5de2922c9c68f9
+size 634

@@ -1,1 +1,3 @@
-Protesto contra a invasão de território equatoriano pela Colômbia. Manifestação realizada pelo Partido Verde — PV, ao ensejo do Dia Internacional da Mulher, pela libertação da ex-Senadora Ingrid Betancourt, seqüestrada pelas Forças Armadas Revolucionárias da Colômbia — FARC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9938341915913efd1e204b23935a45b4d63fb4dd58aac84a47ab91ecdf904cf2
+size 290

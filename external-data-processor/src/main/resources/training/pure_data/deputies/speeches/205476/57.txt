@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Rodrigo Maia e aos participantes na sessão solene realizada pela Casa, ao ensejo do transcurso do centenário de emancipação político-administrativa do Município de Guanambi, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b574ad8d7d93ca0247186eafaa440a1351296d49edd72466385248eb75191a1b
+size 227

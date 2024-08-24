@@ -1,1 +1,3 @@
-Adoção, pela Presidência, de providências contra a redução salarial de trabalhadores terceirizados da Câmara dos Deputados. Encaminhamento de discursos sobre o transcurso do Dia Mundial da Infância e do Dia Internacional da Síndrome de Down.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b31108dd3a24deeb1818bc8a0d2097938ee8098989fae279ba52b5513eb6cae
+size 250

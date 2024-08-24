@@ -1,1 +1,3 @@
-Consolidação do Sistema Único de Assistência Social - SUAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23c828b9002ec3e8c628eeca313a382c37ad5d123cba47f727c607472c046071
+size 63

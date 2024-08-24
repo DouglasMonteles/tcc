@@ -1,1 +1,3 @@
-Elogio ao Ministro da Justiça e Segurança Pública, Flávio Dino, por seu trabalho exemplar nas investigações sobre corrupção ocorrida no governo anterior.Crítica à extrema-direita pela falta de resposta diante do assunto. Denúncias de contrabando internacional de joias envolvendo o ex-Presidente Jair Bolsonaro e seu governo. Menção às operações financeiras suspeitas realizadas pelo Tentente-Coronel Mauro Cid. Investigação realizada pela Polícia Federal sobre a retirada de bens do Brasil durante voos presidenciais e sobre a aquisição de diversos imóveis pela família do ex-Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeea3468d6e6a2b079c8308bcb6421921bd2c5c90f5e8bed783ab2d793a54d6e
+size 626

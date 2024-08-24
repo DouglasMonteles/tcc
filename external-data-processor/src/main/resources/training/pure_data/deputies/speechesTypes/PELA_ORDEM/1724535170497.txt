@@ -1,1 +1,3 @@
-Descaso da gestão do Governador do Estado de Pernambuco, Paulo Câmara, com a manutenção da rodovia de ligação dos Municípios de Águas Belas, Itaíba, Manari, Tupanatinga e Buíque. Apelo à população dos Municípios da região do agreste meridional pernambucano de não manifestação de voto no pré-candidato a Governador apoiado por Paulo Câmara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45b722c9f6a04363096810a7c1a02de790db7521ec8205d0903ee87f3d85c64a
+size 360

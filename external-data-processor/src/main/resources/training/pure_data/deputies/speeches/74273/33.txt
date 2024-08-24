@@ -1,1 +1,3 @@
-Defesa da extinção de discriminações e desigualdades sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b09c607ac99c9374cf401c9e027bb27c24511b8f350550f8a3fa1ba4c31e493a
+size 65

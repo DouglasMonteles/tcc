@@ -1,1 +1,3 @@
-A Deputada destacou a importância das eleições para conselheiros tutelares que ocorrerão em 1º de outubro em todos os municípios brasileiros. Ressaltou que os conselheiros são fundamentais na defesa do Estatuto da Criança e do Adolescente, sendo acionados em situações como falta de vagas em creches, maus-tratos e ameaças à frequência escolar. A Parlamentar enfatizou a relevância do voto, mesmo não sendo obrigatório, e pediu aos deputados que incentivem a participação popular na eleição dos conselheiros, visando escolher representantes comprometidos com a proteção de crianças e adolescentes no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3216ae388e06eb9d3f1e1a5cadb06e7c6c8bea60b3d763b59645097f62cf2b0a
+size 629

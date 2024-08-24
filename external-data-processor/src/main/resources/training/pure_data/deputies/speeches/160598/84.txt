@@ -1,1 +1,3 @@
-Preocupação com o resultado de pesquisa de opinião pública realizada pelo Instituto de Pesquisa Econômica Aplicada - IPEA, conclusiva pela relação existente entre a violência e a veste utilizada pela mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55b7eb0f17a3304ab4fcbae0a2ce06af7bdca695cc138f696aaef59c65195865
+size 215

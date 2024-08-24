@@ -1,1 +1,3 @@
-Desligamento arbitrário do Deputado Messias Donato da CPI do MST. Protesto contra a prisão do ex-Diretor-Geral da Polícia Rodoviária Federal, Silvinei Vasques, em face do seu apoio ao ex-Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbac04cb1aa599e32a6a259cb2c273f6ddaa5e49dffa6b4ff36cb5136468ca16
+size 217

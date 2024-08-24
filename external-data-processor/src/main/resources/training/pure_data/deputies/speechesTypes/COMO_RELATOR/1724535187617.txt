@@ -1,1 +1,3 @@
-Ponderações a respeito da questão de ordem do Deputado Glauber Braga sobre a suspeição do orador para a relatoria da Medida Provisória nº 783, de 2017, sobre a instituição do Programa Especial de Regularização Tributária junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bb0a7ac697ad6af3f916be6d0531985d94f0427276f2615fb05cb55b4519ac7
+size 326

@@ -1,1 +1,3 @@
-Homenagem à União dos Vereadores do Estado do Ceará. Outorga do título de Cidadão de Canindé ao Vice-Governador do Estado do Ceará, Domingos Filho. Participação do orador em audiência pública na Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia destinada ao debate do desenvolvimento do semiárido nordestino e do combate à seca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da80cfa16518d109e494c43915d2ce921b390ab55022235b751a1a7ba8ea23fa
+size 367

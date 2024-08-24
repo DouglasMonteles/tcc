@@ -1,1 +1,3 @@
-Indignação com a situação de caos da segurança pública no Estado do Pará. Despreparo do atual Secretário de Estado de Segurança Pública e Defesa Social. Protesto contra a realização de homenagem póstuma a traficante pela Câmara Municipal de Belém.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0ae8711f65fe2b31b163abfbee8dd95f66bb4dbce052c458e1c975c7cff473d
+size 262

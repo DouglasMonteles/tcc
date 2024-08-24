@@ -1,1 +1,3 @@
-A Deputada elogiou o trabalho realizado em prol do Hospital de Amor, um hospital de câncer em Rondônia, destacando o apoio significativo do setor agrícola. Ela reconheceu o esforço dos agricultores que, apesar das dificuldades enfrentadas, fizeram doações para ajudar aqueles que necessitam de tratamento contra o câncer e expressou sua gratidão aos produtores rurais do Estado de Rondônia por sua contribuição valiosa para essa causa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce452a9249daa5c5918b95e5571238a1da65b0cbcefdb42fecef16b4e2f40c01
+size 446

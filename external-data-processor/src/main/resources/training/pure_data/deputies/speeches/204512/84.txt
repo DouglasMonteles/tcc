@@ -1,1 +1,3 @@
-Posicionamento do PSL contrário a eventual requerimento de destaque apresentado pela Liderança do partido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8447aabdfcd9634da226d8211fca9f690fb4a546ab7a8b0986e1e7ffa28be53c
+size 108

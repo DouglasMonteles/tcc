@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados do Prefeito Olavo de Resende, do Município de Acrelândia, Estado do Acre, acompanhado dos Secretários Municipais da Saúde e do Planejamento, respectivamente, Vitor Martineli e José Aílton.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aa7ec3bfeea38f5d5f7cddb4fd36cbaf9572116148fa913917594026f8767ec
+size 229

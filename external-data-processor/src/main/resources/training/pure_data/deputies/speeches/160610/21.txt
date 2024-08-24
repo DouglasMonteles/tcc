@@ -1,1 +1,3 @@
-Prioridade dada à alfabetização pelo Governador do Estado da Bahia, Jaques Wagner. Destruição de livros do ensino fundamental por gestores municipais no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfbf7517e546816713dbc3a91293c4232d0a445afcb48b1e26a04e28905dd1c3
+size 165

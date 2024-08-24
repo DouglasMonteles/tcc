@@ -1,1 +1,3 @@
-Baixo crescimento do Produto Interno Bruto - PIB brasileiro. Necessidade da adoção de ações governamentais destinadas ao desenvolvimento socioeconômico do País. Contrariedade à aprovação da propalada reforma administrativa e do conjunto de propostas de emendas à Constituição de estímulo ao ajuste fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b2c996980a84c57e9aa2eee8482182ef9040496a15a2ec389389e54a8a34cdb
+size 318

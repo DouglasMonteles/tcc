@@ -1,1 +1,3 @@
-O Deputado discutiu as Emendas do Senado Federal ao Projeto de Lei nº 3.626, de 2023, que regulamenta as apostas esportivas on-line.
+version https://git-lfs.github.com/spec/v1
+oid sha256:024c7ba718421f5da1948fa0347aa95fe8702b910225814477720eab17947cf1
+size 133

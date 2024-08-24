@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre o teor do requerimento de destaque para votação em separado do inciso IV, do art. 2º, da Medida Provisória nº 945, de 2020, relativa às medidas temporárias de enfrentamento da pandemia da Covid-19 no âmbito do setor portuário, com vista à sua prevalência sobre o mesmo dispositivo do Projeto de Lei de Conversão nº 30, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46dc45016c596ff4dbf28440437eafee97d941c45b8e7c03eaafabbea9ffa26f
+size 374

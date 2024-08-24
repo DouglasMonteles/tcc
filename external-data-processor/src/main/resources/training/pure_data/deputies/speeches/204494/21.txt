@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda Aglutinativa nº 8, oferecida à Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7486fa7919954b314e56195f1a17c45d70ff8c59bef58250c85e683e3d62972b
+size 231

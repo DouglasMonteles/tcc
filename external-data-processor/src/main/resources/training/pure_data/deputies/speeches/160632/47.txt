@@ -1,1 +1,3 @@
-Apoio à pauta de reivindicações dos funcionários do INCRA em greve.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88d90bc479397a3f90f93f1381309f65f64c08082e3bfdfa67213d1331af03e5
+size 71

@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados do Vereador Fernando Henrique, da Câmara Municipal de Marabá, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6094e404756d2cc5d1a06127ccc8fea1313ebc7b2e770a6fabd382ff3cfa6ba0
+size 115

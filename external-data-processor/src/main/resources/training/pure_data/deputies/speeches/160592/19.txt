@@ -1,1 +1,3 @@
-Importância da participação do ex-Presidente Luiz Inácio Lula da Silva em ato a favor da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dedc73fb7fdf63894090f2142a28181e51e00003ab0f4cae422e0283ab696e10
+size 111

@@ -1,1 +1,3 @@
-Criação da Universidade Federal do Oeste e da Universidade do Sul e Extremo Sul da Bahia. Instalação de novas unidades do Instituto Federal de Educação, Ciência e Tecnologia - IFET, no Estado. Instalação em municipalidades baianas de campi da Universidade Federal da Bahia e da Universidade Federal do Recôncavo da Bahia. Posse da nova diretoria da União Nacional dos Estudantes - UNE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb646d27e412c9a52f42468fff85ba06d454312a2982dde7e6434f608ec09cdf
+size 396

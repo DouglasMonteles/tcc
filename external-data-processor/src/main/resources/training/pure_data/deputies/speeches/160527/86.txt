@@ -1,1 +1,3 @@
-Orientação de bancada sobre a votação do requerimento de inversão de pauta para votação das Medidas Provisórias de nºs 758 e 756, de 2016, respectivamente, em primeiro e segundo lugares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e594b3e37fdf4aef600528a9a639154daf1a58cc7eb2aa2a962ab297f863980b
+size 195

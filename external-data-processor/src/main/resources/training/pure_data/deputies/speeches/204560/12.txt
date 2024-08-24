@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 442, de 1991, sobre a legalização de jogos de azar no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12ea98214cf2150b5fb8d17754aa50781826d5880a16c5308d2b92c379a81ae8
+size 159

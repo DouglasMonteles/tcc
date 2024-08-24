@@ -1,1 +1,3 @@
-Apoio do MDB ao requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022, (novo arcabouço fiscal). Realização da reforma tributária. Reunião de representantes do Fórum Parlamentar Catarinense com a Secretária de Estado da Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e71fc9d4dec3a0ab24818416ac538a97ec05a3c3186e6a206fe93c04ca2bc064
+size 535

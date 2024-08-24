@@ -1,1 +1,3 @@
-Defesa de aprovação pela Casa de legislação rígida contra a embriaguez no trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fbb35279ca4d319c89244f4c7d9ed79d6f9efa216f60a9e4ae42550e4f66f5e
+size 89

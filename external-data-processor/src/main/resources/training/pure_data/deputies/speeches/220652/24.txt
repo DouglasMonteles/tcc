@@ -1,1 +1,3 @@
-Repúdio à manobra política do Centrão contra a convocação, pela CPI do MST, do Ministro-Chefe da Casa Civil da Presidência da República, Rui Costa. Alinhamento do PL com o Prefeito Municipal de São Paulo, Ricardo Nunes. Precariedade dos serviços de saúde na periferia da Capital paulista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a29a87a81c59a48c2debb5943f3ca1e7e3275742bf27dba27dce85997e65953
+size 299

@@ -1,1 +1,3 @@
-Posicionamento favorável do PR ao Requerimento de encerramento da discussão da Medida Provisória 431, de 2008 (Dispõe sobre a reestruturação de planos de cargos e salários de servidores da administração federal, dos militares e das polícias federal e rodoviária federal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7630c8671d0a77e5ef47d2173a95c7e8e2acea681b82df20d629935f70037548
+size 282

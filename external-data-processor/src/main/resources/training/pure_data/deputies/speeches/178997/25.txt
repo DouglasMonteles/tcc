@@ -1,1 +1,3 @@
-Cumprimentos ao Senador Eunício Oliveira e à população do Município de Lavras da Mangabeira, Estado do Ceará, pela instalação do campus da Universidade Federal do Cariri na municipalidade, com os cursos de Medicina-Veterinária e Agronomia. Pesar pela perda de semestre letivo em decorrência do atraso na instalação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ebd848ac40c5c203ef4f9ce14a3947e9f61c8c4608a6a8019da45f597f5fe4e
+size 327

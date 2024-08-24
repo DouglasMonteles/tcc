@@ -1,1 +1,3 @@
-Composição da Mesa Diretora dos trabalhos da presente sessão solene pelo transcurso do 155º aniversário de criação do Corpo de Bombeiros Militar do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7c88b11d0c9e329a3b2f765e389657bfcebee8627e8f9a75375795daa86403f
+size 172

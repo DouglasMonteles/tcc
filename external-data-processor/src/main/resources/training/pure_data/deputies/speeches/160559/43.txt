@@ -1,1 +1,3 @@
-Problemática dos conflitos por terras indígenas e quilombolas no País. Caráter injusto e arrivista de processos de expropriação de terra para demarcação de reservas indígenas promovidos pela FUNAI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9d7240f6804cbda2f9749f6b0c374e627cb084c526ffd3885b23c8ad2fec207
+size 206

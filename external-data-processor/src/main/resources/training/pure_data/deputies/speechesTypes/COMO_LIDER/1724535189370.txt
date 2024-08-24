@@ -1,1 +1,3 @@
-Déficit financeiro do Município do Rio de Janeiro, Estado do Rio de Janeiro. Ineficiência da gestão do Prefeito Marcelo Crivella.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e593189e76ece96cb7dac7a91366f7289556e2777b728f9d60d2fb92583aa9a1
+size 133

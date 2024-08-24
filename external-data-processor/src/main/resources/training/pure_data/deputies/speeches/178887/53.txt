@@ -1,1 +1,3 @@
-Importância do anúncio, pelo Governador Flávio Dino, do Estado do Maranhão, do aumento dos salários dos agentes comunitários de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5be499c64f742707a314cb4af50b08c888a1bdba347bae216a87f727b1dedd28
+size 141

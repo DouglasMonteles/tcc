@@ -1,1 +1,3 @@
-Excelência do desempenho do setor de agronegócio, a despeito das dificuldades econômico-financeiras reinantes no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be7f1fb62b4977fc7b0da98194eae5994d1a0053d9923391cb48db68b791e795
+size 122

@@ -1,1 +1,3 @@
-Relativização da democracia pelo Presidente Luiz Inácio Lula da Silva. Ilegitimidade do último pleito presidencial realizado na Venezuela. Violação, pelo regime ditatorial de Nicolás Maduro, de direitos individuais e liberdades democráticas. Êxodo provocado pela ditadura venezuelana. Apresentação do Projeto de Lei nº 17, de 2023, sobre a alteração da Lei nº 13.303, de 2016, para garantia do respeito à cláusula democrática e aos direitos humanos, em países contemplados com aportes financeiros de empresas públicas; de sociedades de economia mista e de suas subsidiárias, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bac83439f6fb29428db1014e50a58d8dea3ffd2249280382124ae4ed17029210
+size 669

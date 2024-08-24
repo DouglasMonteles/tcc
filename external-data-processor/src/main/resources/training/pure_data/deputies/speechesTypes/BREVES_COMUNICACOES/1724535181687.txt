@@ -1,1 +1,3 @@
-Transcurso do centenário de fundação do jornal O Norte, do Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af3272faa86f61ab3f50684608c558930cefd8a0853b291a95e5e339a2cf4676
+size 81

@@ -1,1 +1,3 @@
-Encaminhamento de votação do requerimento de destaque para votação em separado do inciso III do artigo 15 da Lei nº 5.010, de 1966, constante do art. 4º do substitutivo do Senado Federal ao Projeto de Lei nº 2.999, de 2019, sobre a antecipação do pagamento dos honorários periciais em ações do Instituto Nacional do Seguro Social - INSS. Críticas às ações do Governo Federal e do Governo do Estado de São Paulo no combate à chamada ideologia de gênero nas instituições de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9801bc4455d3fdc390e1116dbeba6aeda2a3a0ca48f8485580f563301c928466
+size 500

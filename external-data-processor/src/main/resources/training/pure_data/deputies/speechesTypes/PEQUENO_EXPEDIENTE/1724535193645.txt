@@ -1,1 +1,3 @@
-Defesa de criação da Universidade Federal do Sudoeste da Bahia, com sede no Município de Vitória da Conquista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d071a77f63a099839f875c9290f1cf7b67fdad1832db7724e637efc8216c067e
+size 114

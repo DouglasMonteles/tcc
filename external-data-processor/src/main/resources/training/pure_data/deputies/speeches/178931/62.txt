@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei Complementar nº 275, de 2016, que dispõe sobre a participação do poder público na promoção ou no patrocínio de festas, shows e eventos similares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24b8186d50f43c3edc2a75813abfecfe57f95109c5d4eae4000359c4b2ba51a4
+size 186

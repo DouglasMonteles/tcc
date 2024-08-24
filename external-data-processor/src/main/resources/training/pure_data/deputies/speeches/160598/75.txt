@@ -1,1 +1,3 @@
-Outorga à oradora, pelo Sindicato Rural de Caiapônia, Estado de Goiás, da comenda Ordem do Caiapó. Urgente votação da Proposta de Emenda à Constituição nº 368, de 2009, sobre a prorrogação do prazo da obrigatoriedade da aplicação de recursos da União em projetos de irrigação. Expectativa de votação de relatório parcial da CPI destinada à investigação de denúncias de tráfico de pessoas no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdb794c14419a230636d7f09ed5c32031928acbaf3a3bdd9631c2a7990a1a253
+size 423

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 984, de 2019, sobre a alteração da Lei nº 9.985, de 2000, com vista à criação da Estrada-Parque Caminho do Colono, no Parque Nacional do Iguaçu, Estado do Paraná. Iminência de colapso do sistema de saúde do Estado do Mato Grosso do Sul em decorrência da Covid-19. Apelo ao Ministério da Saúde de envio da vacina Janssen ao Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8c314e0effa8a28eb954ff8518971bef34360de35df3323adf80932092c3c8a
+size 457

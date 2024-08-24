@@ -1,1 +1,3 @@
-Apresentação, ao Ministério da Defesa, de requerimento de informações sobre a participação do General-de-Brigada, Alcides Valeriano de Faria Júnior, em missão do exército norte-americano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9ed2531d44d0f1085292baaeeb8569975f7e1ad1ec5fa1ba0c18f5f155b6820
+size 197

@@ -1,1 +1,3 @@
-Lançamento do Programa Minha Casa, Minha Vida, pelo Presidente Luiz Inácio Lula da Silva. Equívoco das críticas da Oposição ao programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e575b757b3b6aad2a377321e4f723b78e29153cf6817eb592b218f9727b45b7e
+size 142

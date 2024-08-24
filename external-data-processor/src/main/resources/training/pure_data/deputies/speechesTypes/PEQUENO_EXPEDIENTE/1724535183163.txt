@@ -1,1 +1,3 @@
-Regozijo com a aprovação, pela Casa, do Projeto de Lei 2.155, de 1999, sobre a publicação anual, pelo Poder Executivo, das atividades sociais relativas à mulher. Importância do relatório sobre o mapeamento da situação da mulher no País. Expectativa de votação da proposta de emenda à Constituição a respeito da participação feminina na Mesa Diretora das Casas do Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b229e0531d85878f70cef4cf6165723933830eed709798d244ca7333daa95ef5
+size 399

@@ -1,1 +1,3 @@
-Assassinato de indígenas no Município de Jenipapo dos Vieiras, Estado do Maranhão. Necessidade de adoção, pelo Governo Federal, de medidas para contenção da violência contra lideranças indígenas nos Municípios de Jenipapo dos Vieiras, Itaipava do Grajaú e Arame, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12adac8ea31f04631aa78815b625ea846fd501ae9f97735971b579742d0bf1ab
+size 285

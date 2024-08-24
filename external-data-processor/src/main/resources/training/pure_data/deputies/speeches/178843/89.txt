@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Arthur Lira pela votação do requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 18, de 2022, sobre a alteração da Lei nº 5.172, de 1966, e da Lei Complementar nº 87, de 1996, com vista à inclusão de combustíveis, energia elétrica, comunicações e transporte coletivo no rol de bens e serviços essenciais. Defesa de votação e aprovação do mérito da propositura. Anúncio de reajuste abusivo nos planos de saúde. Pedido à Comissão de Defesa do Consumidor de realização de audiência pública, com a presença do diretor-geral da Agência Nacional de Saúde Suplementar - ANS, para esclarecimento dos critérios adotados no cálculo de reajustes nos preços de planos de saúde individuais e familiares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eea60eba15b96f98f2bba67b527548c15efd5f2f5cfcc5c12032e1f6f685f17
+size 785

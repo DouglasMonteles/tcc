@@ -1,1 +1,3 @@
-Solicitação de apoio da Casa aos Projetos de Lei nºs 8.920, de 2017, e 8.917, de 2017, de autoria do orador, destinados, respectivamente, a alterações na legislação de inspeção industrial e sanitária dos produtos de origem animal, e à exigência da assinatura do infrator nos autos de infração de trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e27162c4d0f7a32aec508679ff11f0780f3cbd4118bce742749fc96021b4ca5
+size 320

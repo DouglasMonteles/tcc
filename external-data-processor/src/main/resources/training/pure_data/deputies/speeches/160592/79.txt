@@ -1,1 +1,3 @@
-Contrariedade à proposta do Governo Federal de reforma previdenciária. Expectativa de manifestação feminina contra a proposição ao ensejo do transcurso do Dia Internacional da Mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f31720c82504be3511b039b1479d3dda4dca6c0f26f1d5bd4bc0376e42a44d27
+size 189

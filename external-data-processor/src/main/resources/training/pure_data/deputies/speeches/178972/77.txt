@@ -1,1 +1,3 @@
-Orientação da respectiva bancada da subemenda substitutiva oferecida pelo Relator da Comissão Especial do Projeto de Lei nº 6.787, de 2016, que trata da reforma trabalhista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b94115fd8a1dbede1771f1a7e9cdea5826a066c076fb055497928068742693e
+size 177

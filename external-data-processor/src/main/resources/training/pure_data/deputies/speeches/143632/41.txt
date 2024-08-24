@@ -1,1 +1,3 @@
-Pedido à Presidência de concessão de prazo para a conclusão de acordo sobre a votação do projeto de lei acerca da criação do Estatuto da Juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b53cc67ada1daedc2d494f94434cbd660293889a4fb716e6b78cd60ec70b0347
+size 155

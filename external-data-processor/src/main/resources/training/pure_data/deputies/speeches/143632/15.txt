@@ -1,1 +1,3 @@
-Encontro da bancada federal cearense com o Ministro dos Transportes, Alfredo Nascimento, para debate da precariedade da malha rodoviária federal no Estado, especialmente da BR-020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47e03c26fe6e335d23238e0228c8f9fedd5d4da080d5bcbb67686d8ed38597ea
+size 181

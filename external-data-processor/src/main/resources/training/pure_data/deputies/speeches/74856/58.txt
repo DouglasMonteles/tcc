@@ -1,1 +1,3 @@
-Realização dos Jogos Olímpicos e Paraolímpicos Rio 2016. Legado dos eventos para a população da cidade do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03f957bc9fd2ee2526b8abcd1ed9dfbc8719457dc51aad5d3d6028a6d9ab722c
+size 127

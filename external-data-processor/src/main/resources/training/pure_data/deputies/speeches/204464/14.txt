@@ -1,1 +1,3 @@
-Ocupação, pelo Movimento dos Trabalhadores Rurais Sem Terra - MST, de propriedades do médium João de Deus, no Estado de Goiás. Apoio à reforma agrária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc4059b457b68b9df56d88a2ade016c8b8efe2887f13fb1dfb71bb4097275066
+size 158

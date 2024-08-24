@@ -1,1 +1,3 @@
-Defesa da aprovação da Proposta de Emenda à Constituição nº 300, de 2008. Elogio à participação do Secretário Nacional de Saneamento Ambiental do Ministério das Cidades, Paulo Ferreira, em audiência pública realizada pela Comissão de Desenvolvimento Urbano. Participação do orador na audiência pública com questionamentos a respeito do abastecimento de água e tratamento de esgoto em São Luís, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15b3f04e31f1a0943c27972211a49d9d791479994bec7b3c69fc5988896f190a
+size 435

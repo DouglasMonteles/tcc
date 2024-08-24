@@ -1,1 +1,3 @@
-O Deputado protestou contra a política fiscal do Governo Lula. Criticou a retomada do ICMS sobre combustíveis, taxação de compras da China e o retorno do imposto sindical. Abordou a proposta de recriação do DPVAT, extinto devido a fraudes apontadas pelo Tribunal de Contas da União nos governos petistas. Comprometeu-se a divulgar os nomes dos Parlamentares que votarem a favor desse projeto, reforçando sua indignação contra impostos excessivos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cbbec4c05d74a5d7f62d86ef25c29d244cb4d87d1e6c9ad04e809571532d2a2
+size 456

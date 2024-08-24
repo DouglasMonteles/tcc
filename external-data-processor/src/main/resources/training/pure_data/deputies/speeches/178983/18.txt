@@ -1,1 +1,3 @@
-Agradecimentos ao Vereador Juliano Abe, Presidente da Comissão Especial de Vereadores da Água, da Câmara Municipal de Moji das Cruzes, Estado de São Paulo, pelo relatório Aliança em Busca da Compensação pela Produção da Água. Objetivos da Frente Parlamentar Mista dos Municípios Produtores de Água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47d61b6e6a7d6233187f2d2c475af830cbfa020fc2e9f7f4f4d8af3f99fe7d34
+size 311

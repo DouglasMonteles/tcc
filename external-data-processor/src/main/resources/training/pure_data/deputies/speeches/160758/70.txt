@@ -1,1 +1,3 @@
-Razões a obstrução das votações pelos partidos de Oposição.  Luta da Oposição pela regulamentação da Emenda Constituição nº 29, de 2000, a respeito da destinação de percentuais mínimos à saúde pela União, pelos Estados e pelos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51d509a55fcee0ef1c2eddac85570e3e5472283d8d6da77da606341e5bcb7535
+size 259

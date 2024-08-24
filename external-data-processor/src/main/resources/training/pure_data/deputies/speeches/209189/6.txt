@@ -1,1 +1,3 @@
-Contrariedade à desativação de fábricas de fertilizantes da empresa Petróleo Brasileiro S/A - PETROBRAS nos Estados da Bahia e Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:675c0e064bb7268405388c5d8be876aca95ffd33b41c14071e49696ad8a1f54d
+size 140

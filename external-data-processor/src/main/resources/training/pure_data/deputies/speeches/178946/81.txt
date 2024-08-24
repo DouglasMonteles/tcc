@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional de Valorização da Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e44461f1c7a55158fe1b63cbe2f7940d4f887c28e8dd28762c4ffc481a89d931
+size 56

@@ -1,1 +1,3 @@
-Resultados de reunião do orador com o Secretário de Educação Profissional e Tecnológica do Ministério da Educação, Aléssio Trindade de Barros, sobre a implantação de campus do Instituto Federal de Alagoas - IFAL no Bairro Benedito Bentes, em Maceió, Estado de Alagoas. Situação das obras de instalação de unidades do IFAL nos Municípios alagoanos de São Miguel dos Campos e Rio Largo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7b5dd8741e0ddf125bf1398ded52c2ae617d2a1e08e8885c5183616b1e73eff
+size 402

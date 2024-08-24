@@ -1,1 +1,3 @@
-Cumprimentos aos cadeirantes do Hospital Sarah Kubitschek em visitação à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3cf4c678121aabf4f86dcbec0d54588fc49d15ea59784a6864e7c195ffbdd6a
+size 98

@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a venda da Companhia Paranaense de Energia (COPEL) no Estado do Paraná. Destacou que a empresa abriu um Plano de Demissão Voluntária (PDV) com uma adesão significativa de funcionários, o que levanta questões sobre a capacidade da COPEL para operar efetivamente com uma redução substancial em sua força de trabalho. Também questionou a promessa anterior do governador Ratinho Júnior de que a COPEL não seria vendida, pedindo a fiscalização da ANEEL sobre o processo de venda e suas consequências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e674fb4f3844996dd5ce88b7073f47af4b0b8ac21f15a9af18918f1b91e724f6
+size 549

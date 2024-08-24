@@ -1,1 +1,3 @@
-Apresentação, pela Deputada Chris Tonietto, de requerimento de realização pela Casa de sessão solene em prol do ensino domiciliar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f0d8b13af95c4ab6d626ece387dbb9d1f6b0fc1b5d14f33314d31d0423f7c6c
+size 135

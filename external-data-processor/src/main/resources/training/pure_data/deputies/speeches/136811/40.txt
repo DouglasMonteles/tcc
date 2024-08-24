@@ -1,1 +1,3 @@
-Desempenho do Partido Progressista nas eleições municipais de 2008, em especial no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fbc4cc2da1c673afa483f23de6f276aa18dfa583fd9541a9ac324d9c5ac821d
+size 113

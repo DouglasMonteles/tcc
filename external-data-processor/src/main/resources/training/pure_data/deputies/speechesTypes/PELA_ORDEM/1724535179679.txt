@@ -1,1 +1,3 @@
-Congratulação à Deputada Fátima Pelaes, autora do Projeto de Lei 335 de 1995 (Dá nova redação ao art. 89 da Lei de Execução Penal, determinando que as penitenciárias de mulheres sejam dotadas de seção para gestantes e parturientes e de creches para os menores cuja responsável esteja presa), por ocasião da votação e aprovação das emendas do Senado à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cca3a8b663c6632b32522087bc8f51654b80698076474bbd1a276493c6b2920e
+size 379

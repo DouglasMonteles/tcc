@@ -1,1 +1,3 @@
-Congratulações ao povo brasileiro pela não participação em paralisação nacional promovida por partidos políticos de esquerda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:152c08bf765feb5398c9f9f524bd71d34c8aa235d26ed7c1427f32180845b592
+size 133

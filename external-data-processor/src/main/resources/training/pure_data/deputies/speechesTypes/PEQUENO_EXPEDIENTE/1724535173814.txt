@@ -1,1 +1,3 @@
-Importância da desoneração da folha de pagamento e de outras medidas de fortalecimento da indústria brasileira adotadas pela Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0d2d1015632fe87932f3df71cf762098781f1984ff6f80528a60daac664dd50
+size 155

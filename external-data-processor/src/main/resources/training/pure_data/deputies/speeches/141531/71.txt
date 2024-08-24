@@ -1,1 +1,3 @@
-Fracasso da política energética do Governo petista. Consistência do projeto político do Senador Aécio Neves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a16a3dd35804cf812758cf927e36207867ee9e7c914e78fc44f38413670c8dd
+size 113

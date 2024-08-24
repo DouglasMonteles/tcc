@@ -1,1 +1,3 @@
-Sessão Solene em homenagem ao Dia de Nossa Senhora da Conceição Aparecida.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b1ed87585ced1e4fcc3304351e16b7a5f9cbff0a8790f709a5214851ca48b21
+size 226

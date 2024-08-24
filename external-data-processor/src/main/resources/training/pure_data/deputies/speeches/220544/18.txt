@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Participação igualitária da mulher na sociedade. Saudações às Deputadas Federais e Senadoras. Dever dos Parlamentares de combate à violência, à opressão e abusos praticados contra as mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98d32126f1b25d8e7a8eebee10ccef9258294bc1d0c5d9135fbfb0aab1cc7d74
+size 245

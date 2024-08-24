@@ -1,1 +1,3 @@
-Incoerência do discurso da Oposição. Apoio à realização da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7ddd1fe0fb7cc7bba5e10b696d6940ae62fefe04c6b77cae9939487f7ad037e
+size 89

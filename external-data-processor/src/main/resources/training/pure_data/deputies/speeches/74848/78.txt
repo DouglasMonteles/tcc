@@ -1,1 +1,3 @@
-Transcurso do 6º aniversário de vigência da Lei Maria da Penha, coibitiva da violência doméstica contra a mulher. Notórios avanços do diploma legal. Adoção de ações necessárias para a sua efetiva implementação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b161e4091008d35d6bd334a85aacfcb71e3ba63762c74ba3946c1fafd1d4dd2
+size 224

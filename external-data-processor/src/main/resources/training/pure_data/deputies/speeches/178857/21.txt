@@ -1,1 +1,3 @@
-Indignação com a falta de políticas públicas da Prefeitura Municipal de Salvador, Estado da Bahia, para os moradores de rua.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d8ffd43acdaa581f673c51918ad7982b5620b1b77a5ddd5927d8f49ff5e6a2e
+size 128

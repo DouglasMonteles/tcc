@@ -1,1 +1,3 @@
-Classificação de Municípios do Estado do Rio Grande do Sul entre os 100 melhores do País no quesito Responsabilidade Fiscal, Social e de Gestão, segundo avaliação da Confederação Nacional de Municípios. Conveniência da manutenção, pelo Conselho Nacional de Biossegurança, de decisão da Comissão Técnica Nacional de Biossegurança relativamente à liberação do cultivo de milho transgênico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e5f604feacdadde6ad22b49700ed3715cf02c0df57df0c26d06cd1790f7505b
+size 409

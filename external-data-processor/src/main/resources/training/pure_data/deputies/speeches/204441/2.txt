@@ -1,1 +1,3 @@
-Saudações ao líder político e ao empresário do Estado do Rio de Janeiro em visita à Câmara dos Deputados. Declaração do Vice-Presidente da República, Hamilton Mourão, favorável à prática do aborto. Carta aberta do povo cristão ao Vice-Presidente a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:143fd300ab8bc7da7510cd418efb345aaea3b0f66cd86d06eb0d63a53c956678
+size 280

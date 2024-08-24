@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar Mista em Defesa da Produção Cultural e Entretenimento. Realização pela Frente de audiência pública destinada ao debate do direito autoral do Escritório Central de Arrecadação e Distribuição - ECAD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a46391de46d137c16d33672e2643fd96d1397a9a9c2d3325e7bd9f9a69a3216f
+size 242

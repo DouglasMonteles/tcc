@@ -1,1 +1,3 @@
-Congratulações ao Deputado Samuel Moreira pelo parecer oferecido à proposta de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9d4874da1af288518dfec7ca777e867273a8eefe2cadb36e8e89965c7540351
+size 106

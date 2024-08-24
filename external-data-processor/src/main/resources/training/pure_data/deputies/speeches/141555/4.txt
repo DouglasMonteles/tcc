@@ -1,1 +1,3 @@
-Declarações do Presidente Luiz Inácio Lula da Silva sobre o ajuizamento pela Igreja Universal do Reino de Deus de ações contra órgãos da imprensa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cb89cdd55a1d0d63ae3c6bead876f23998248f5289325433446f9984460403d
+size 153

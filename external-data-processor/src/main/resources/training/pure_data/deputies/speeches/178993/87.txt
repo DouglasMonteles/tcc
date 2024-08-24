@@ -1,1 +1,3 @@
-Congratulações à Assembleia Legislativa do Estado de Tocantins pela derrubada de vetos a proposições, do Governo Estadual, relativas a aumento de impostos incidentes sobre energia, transportes e frigoríficos. Solicitação ao Governo Federal de ajuda ao Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dac57ce302c49eb7be78b6ecd05db845dbb643d72a082aedb767fddbaea4b2c
+size 280

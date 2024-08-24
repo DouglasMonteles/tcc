@@ -1,1 +1,3 @@
-Sessão de homenagem ao Dia Nacional da Micro e Pequena Empresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c35b68ec4def7678dac1205189e110f9abb8095debf33b5550355f2fbcb65e3
+size 64

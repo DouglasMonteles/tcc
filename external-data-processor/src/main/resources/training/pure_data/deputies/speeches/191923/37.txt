@@ -1,1 +1,3 @@
-Convite aos Parlamentares para o ato de lançamento do livro de memórias Eu Fui Advogado de JK, de autoria do ex-Governador do Estado do Piauí, Hugo Napoleão, no Salão Nobre do Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7484b9483a6b9d620ec151af976637cac83312b9daff5a203e9f681a3c4622c1
+size 200

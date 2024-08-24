@@ -1,1 +1,3 @@
-Apresentação de recurso de apreciação, pelo Plenário, da proposta de alteração da Lei do Inquilinato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:589b0df7a4856a555a5273e8e631acf4d4f2a67e80f1bddfd77c8fbbb877d1b7
+size 108

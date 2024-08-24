@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Água. Escassez de água potável no planeta. Defesa de políticas públicas destinadas ao gerenciamento adequado dos recursos hídricos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:461cfc0a99fc31ec4a17412370637612501aeafa4fb09a73b17b1474b7d6457e
+size 166

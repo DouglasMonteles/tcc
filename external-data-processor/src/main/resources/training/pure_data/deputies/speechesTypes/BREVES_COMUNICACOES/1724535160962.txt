@@ -1,1 +1,3 @@
-Manifestação de otimismo do orador ante as crises econômica, política e moral no País. Comemorações do Dia da Independência do Brasil, no Município de Alegrete, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63610ed6a8cb42e8ce0d773b476ada3254cd05a9fbaada704c9496d44648d2f8
+size 198

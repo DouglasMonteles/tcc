@@ -1,1 +1,3 @@
-Expectativa quanto à votação da Medida Provisória nº 579, de 2012, sobre a redução das tarifas de energia elétrica, e do veto presidencial aposto ao projeto sobre a redistribuição dos royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed8d3bf14fe4fff29847c39895d1d13c51a1a40785497361bc97c7efe3bd589c
+size 217

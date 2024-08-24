@@ -1,1 +1,3 @@
-Críticas à visita de Governadores da Região Nordeste à Europa em busca de recursos para o desenvolvimento sustentável da caatinga.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4ee2475828163422b6554695809bf5faf70c6dca1021eb6a49cb4e22ea375fa
+size 135

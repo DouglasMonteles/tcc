@@ -1,1 +1,3 @@
-Agradecimento à população baiana pela eleição do orador. Antagonismo entre as promessas de campanha feitas pela Presidenta da República e a adoção de medidas socioeconômicas, pelo seu Governo, prejudiciais aos trabalhadores brasileiros. Necessidade de realização das reformas política e tributária pela Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9048b06390a94335f2bd747caa03661fad6d72195853dac755d0e0f4e548ee76
+size 321

@@ -1,1 +1,3 @@
-Inexistência de motivos para comemoração do Dia Mundial da Imunização no País. Necessidade de vacinação em massa do povo brasileiro contra a Covid-19. Recusa, pelo Presidente Jair Bolsonaro, da compra de vacinas em tempo hábil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:500ca868f8345aefea5331095b4c95fa7b2b8c55a7913297abba8f2720a97aa3
+size 236

@@ -1,1 +1,3 @@
-Falecimento do empresário Edson Cabral, em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2770c49186c9723c7c7f3b85d30ce2ac90f49e541ed8660ab3ba201b6177b3db
+size 70

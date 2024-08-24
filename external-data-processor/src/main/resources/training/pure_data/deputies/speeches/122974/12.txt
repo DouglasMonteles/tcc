@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da expressão ressalvado o parágrafo 1.B do art. III (dispositivos gerais), contida na Emenda de Plenário nº 1, oferecida ao Projeto de Decreto Legislativo nº 523-A, de 2019, a respeito da aprovação do texto do Acordo sobre Salvaguardas Tecnológicas celebrado entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América para utilização do Centro Espacial de Alcântara, assinado em Washington, em 18 de março de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b47744b3b912787c900ff588974af8e0e23a21f0a44c86dfecb1b43bca1ae370
+size 553

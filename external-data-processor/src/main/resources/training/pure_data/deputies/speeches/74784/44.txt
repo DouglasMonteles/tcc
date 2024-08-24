@@ -1,1 +1,3 @@
-Homenagem à Conferência Nacional dos Bispos do Brasil - CNBB e ao Conselho Nacional de Igrejas Cristãs do Brasil - CONIC, pelo lançamento da Campanha da Fraternidade Ecumênica 2010 sob o tema Economia e Vida e com o lema Vocês não podem servir a Deus e ao dinheiro
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d2912576ff2f9ebef374a86fa2d00a890bfc6d3207c7245bf8011cf74bf3660
+size 271

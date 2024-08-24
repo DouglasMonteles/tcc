@@ -1,1 +1,3 @@
-A Delegada defendeu a aprovação do Projeto de Lei nº 9.905, de 2018, que estabelece aumento de pena na lesão corporal cometida no âmbito de violência doméstica ou por razões da condição do sexo feminino, quando praticada na presença física ou virtual de descendente ou de ascendente da vítima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3899c2ecb5b9c9291b81cd0e427b6c245d129b4ab120b5c37bdc9c59562ef5a4
+size 306

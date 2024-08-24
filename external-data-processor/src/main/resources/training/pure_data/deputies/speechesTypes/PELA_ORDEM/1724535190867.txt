@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre o reajuste de planos de saúde e os prazos para procedimentos quimioterápicos, preconizados na Medida Provisória nº 1.067, de 2021, relativa à alteração da Lei nº 9.656, de 1998, com vista à atualização de coberturas no âmbito da saúde suplementar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6cfa3b23ac2dc1ff94b102dd21462252a796b5d0c3320fed92d7b49dcd6b3ec
+size 294

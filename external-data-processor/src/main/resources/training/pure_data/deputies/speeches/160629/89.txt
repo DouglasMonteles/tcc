@@ -1,1 +1,3 @@
-Apelo ao Governo Federal por continuidade da construção da Adutora do Pajeú, obra necessária para a transposição de águas do Rio São Francisco aos Estados da Paraíba e Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9053caf98efb42e56eebb43d8aec2e8df6aa5b452f417729ea2ff4ac7d0fe352
+size 188

@@ -1,1 +1,3 @@
-Encaminhamento, ao Presidente do Tribunal de Justiça do Estado da Paraíba, de requerimento de indicação para reexame do processo de desinstalação de comarcas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32731f421c58b3920639db990f74823ed460b9399d156e5a78c9517128a0c1cd
+size 164

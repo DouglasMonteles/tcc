@@ -1,1 +1,3 @@
-Transcurso do Dia da Mentira. Transcurso do 44º aniversário do golpe militar ocorrido no Brasil. Solidariedade ao movimento grevista dos Advogados da União. Contrariedade ao projeto de transposição de águas do Rio São Francisco. Assassinato do militante sem-terra Eli Dallemole em assentamento rural no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65432d5ed08fab63ae3970533f613a9a7674b7480eec6a81f3a3ad0ccbd6f780
+size 328

@@ -1,1 +1,3 @@
-Contrariedade à aprovação da Medida Provisória nº 1.031, de 2021, sobre a desestatização da empresa Centrais Elétricas Brasileiras S/A - ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b718229f6d0bdfde92c45af7b5f927b83f8d1a2e96fbd531b159e7045077cc0f
+size 156

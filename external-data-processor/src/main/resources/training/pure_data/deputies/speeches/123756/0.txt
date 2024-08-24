@@ -1,1 +1,3 @@
-Caos no sistema de geração, transmissão e distribuição de energia elétrica no Estado do Acre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69ea4fc084979fc5977ed904b5f3dde437d53c23433f59716b84dee57f31bdec
+size 99

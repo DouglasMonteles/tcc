@@ -1,1 +1,3 @@
-Regozijo com a aprovação de projeto de lei sobre terceirização de contratos de trabalho. Expectativa de retomada dos níveis de emprego no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:686e2ff8cdf4a518e0b13e30191e04f905ab5a7c5dac826847a012b20a08f362
+size 150

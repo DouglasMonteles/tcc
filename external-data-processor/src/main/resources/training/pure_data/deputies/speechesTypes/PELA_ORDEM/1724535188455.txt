@@ -1,1 +1,3 @@
-Compromisso de atuação parlamentar em consonância com os anseios do povo do Estado do Rio de Janeiro e do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6507af2330c801d6a414ddeae82b9c7c5a79938114395d21cd228747d947834a
+size 115

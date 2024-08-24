@@ -1,1 +1,3 @@
-Congratulações ao Presidente Marco Maia, autor,  pela aprovação do Projeto de Lei 6.312  de 2009, que  autoriza  a instalação de lojas francas em municípios  da faixa de fronteira cujas sedes se caracterizam como cidades gêmeas de cidades estrangeiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e22879b61e747a9624cf116ae7c4957925cdb532b2491a18c76809cc257051f5
+size 260

@@ -1,1 +1,3 @@
-Defesa da manutenção do monopólio do serviço postal à Empresa Brasileira de Correios e Telégrafos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e3afa7699fc12170e667522bd94dcc42e3aa13472099ec5a1dbc2b0f2d8a69f
+size 104

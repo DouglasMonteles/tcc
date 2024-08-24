@@ -1,1 +1,3 @@
-Defesa de realização da reforma administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2db70eb64f2a27f9e6f2600b4a17730005b463ef6aa972627f9251f757cf8d4
+size 49

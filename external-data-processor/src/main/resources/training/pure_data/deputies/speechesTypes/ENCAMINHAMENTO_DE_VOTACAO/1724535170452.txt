@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de encerramento da discussão da Solicitação de Instauração de Processo nº 1, de 2017, contra o Presidente Michel Temer, diante de denúncia formulada pelo Ministério Público Federal nos autos do Inquérito nº 4.517, do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45f82c02987914e1fe30626721519e0ff0cd0432e0120249bc11168c68ada9dd
+size 297

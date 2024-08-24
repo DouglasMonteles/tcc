@@ -1,1 +1,3 @@
-Apelo ao Supremo Tribunal Federal de julgamento de ação relativa à ilegalidade de cobrança de pedágio em rodovia entre os Municípios de Ourinhos, Estado de São Paulo, e Jacarezinho e Cambará, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df039bdd5bcfb24dfc9453d75d1c588b44424d70f0ffdeae26b8af4ce7d58233
+size 218

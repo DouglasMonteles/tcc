@@ -1,1 +1,3 @@
-Alcance social do Programa Água para Todos, implantado pelo Governado do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41a71bab2f6f95556a082d96f1e0e2d610f99bc05dc3d2b1ef8ff0cc0c797cdc
+size 90

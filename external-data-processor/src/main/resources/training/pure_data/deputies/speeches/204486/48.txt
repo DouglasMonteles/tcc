@@ -1,1 +1,3 @@
-Reassunção do mandato parlamentar pelo orador. Descontrole dos gastos do Governo Federal em face do aumento das despesas com pessoal e a Previdência Social. Realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:789dea412c3c68288b8ececa0677119f0ee6fedf4c44eac279b9a2d4a5bbd629
+size 196

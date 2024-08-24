@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de encerramento da discussão e do encaminhamento da votação do Projeto de Lei nº 3.715, de 2019, sobre a regulamentação da posse de armas de fogo em áreas rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03e125a37f475b004f4e7b167424bc4bed821e48bb8b5b119db5f5ba9989ffaf
+size 222

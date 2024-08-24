@@ -1,1 +1,3 @@
-Transcurso do Dia do Comerciário. Inauguração do Parque Aquático dos Comerciários no Município de Iguatu, Estado do Ceará. Comemoração do 40º aniversário de fundação da Universidade Estadual Vale do Acaraú - UVA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3196cc3553cb50e70a2a50f8bdf106800297f24007ecc2b3ae6347cda1fc2fc8
+size 226

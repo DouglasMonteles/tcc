@@ -1,1 +1,3 @@
-Posicionamento favorável da Minoria  à Emenda 81, destacada, ao Projeto de Lei de Conversão da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação – EBC, e dá outras providências), que altera o prazo de mandato dos membros do Conselho Curador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ac67d42a4b75c3a22d2ef28c155091503c910b5c1e581fd2b2db134120473b9
+size 471

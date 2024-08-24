@@ -1,1 +1,3 @@
-Medidas necessárias para aprimoramento do Sistema Único de Saúde - SUS. Recuperação de santas casas de misericórdia e de hospitais filantrópicos. Apoio às reivindicações de médicos do Município de Sorocaba, Estado de São Paulo. Importância da alimentação saudável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19231c788b93fbb002deadf565df8438ac9d25bc7520463d9916ef8d094a3e03
+size 281

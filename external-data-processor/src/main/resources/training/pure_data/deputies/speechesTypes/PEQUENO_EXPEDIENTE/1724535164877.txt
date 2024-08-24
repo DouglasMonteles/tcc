@@ -1,1 +1,3 @@
-Posse da Desembargadora Lúcia Regina Esteves de Magalhães, no Tribunal de Justiça do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:482634b5a9c9706fe324dee9514a8712a7b4abc268c5695d33158b1c2a6c5596
+size 113

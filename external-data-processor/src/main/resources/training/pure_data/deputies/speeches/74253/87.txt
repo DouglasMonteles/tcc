@@ -1,1 +1,3 @@
-Solicitação à Presidência de providências quanto a manifestação política de servidor da Câmara dos Deputados em horário de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e72c4f5e720065db2bd7070e87dc061f46527397aa689a0f0c48bd88d6754ef
+size 142

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.401, de 2019, acerca da implantação no País do sistema de educação domiciliar (homeschooling).  Posicionamento dos docentes brasileiros contrário à proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8215ff1d1006b2586a6e5fe89a95e6fae862d57088a6ad3f08612e451f228298
+size 284

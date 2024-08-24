@@ -1,1 +1,3 @@
-Recriação da Frente Parlamentar de Apoio às Santas Casas de Misericórdia, Hospitais e Entidades Filantrópicas na Área de Saúde. Eleição da oradora para a 2ª Vice-Presidência da Frente Parlamentar. Empenho da Frente no aperfeiçoamento da legislação da saúde e no acompanhamento da política destinada ao setor. Importância do papel desenvolvido pelas Santas Casas de Misericórdia. Promoção, pela Frente Parlamentar em Defesa da Economia Solidária em conjunto com o Fórum Brasileiro de Economia Solidária, de encontro com Parlamentares para discussão do atual momento da política de economia solidária no Brasil. Consolidação do setor como instrumento de erradicação da pobreza, da miséria e de geração de emprego e renda. Criação da Secretaria Nacional de Economia Solidária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9e963658aae114e2802ba00beea44162da2e136eed8674d46827de5e7aec6cf
+size 809

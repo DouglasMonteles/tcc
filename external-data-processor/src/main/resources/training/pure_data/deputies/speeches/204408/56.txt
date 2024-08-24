@@ -1,1 +1,3 @@
-Agradecimento ao Governo Jair Bolsonaro pela duplicação da Adutora do Piauitinga, no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89b4cd135020a64c4801e84a716ecb027cb328e4f5409afa0b55acf9a5e34c4c
+size 105

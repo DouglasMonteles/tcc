@@ -1,1 +1,3 @@
-Anúncio da realização da mobilização denominada Dia do Basta! pelos Prefeitos Municipais do Estado de Minas Gerais, em protesto contra o descaso do Governo Dilma Rousseff aos Municípios, na Assembleia Legislativa do Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d79665aea5ed0fc0e8265ca8c5aa8c7d694c79ea1e49da57976fd13d40c88c71
+size 245

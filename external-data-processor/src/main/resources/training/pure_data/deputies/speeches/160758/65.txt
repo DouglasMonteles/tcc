@@ -1,1 +1,3 @@
-Imediata suspensão, pelo Governo brasileiro, de importações de leite e derivados da Argentina e do Uruguai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7310fc9ba99a08a1627a747f3eda5d8e3020aa7330f2b3ad1148f010fd92f335
+size 110

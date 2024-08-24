@@ -1,1 +1,3 @@
-Reconhecimento do Estado do Piauí, pelo Ministério da Agricultura, Pecuária e Abastecimento, como zona de risco médio de contaminação pela febre aftosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6282f890ee1e6711c441c33c53d08027750fd9bdd29573f543164d1a9bbfddb
+size 158

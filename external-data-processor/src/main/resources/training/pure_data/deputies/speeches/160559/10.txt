@@ -1,1 +1,3 @@
-Repúdio a discurso proferido no plenário contra o novo Código Florestal brasileiro. Apoio à distribuição de royalties de  petróleo aos Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd1002ded2b002f3d4cef393c713f6cdcd011c8a08311375ee183aaeff99060f
+size 164

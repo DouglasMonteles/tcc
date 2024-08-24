@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 18, de 2007, sobre a obrigatoriedade da adoção de medidas, por parte do Poder Público, com vistas à redução das emissões dos gases responsáveis pelo efeito estufa. Urgente definição da proposta do Governo brasileiro para a Conferência das Nações Unidas sobre Mudanças Climáticas, em Copenhague, Dinamarca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fe279bb6c2137237f86daa93d2bc5d82717a76d8e6e01aadee99383921aa6e4
+size 364

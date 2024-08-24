@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista, quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, à Medida Provisória nº 1.017, de 2020, sobre definição das diretrizes para a quitação e para a renegociação das dívidas relativas às debêntures emitidas por empresas e subscritas pelos fundos de investimentos regionais e para o desinvestimento, a liquidação e a extinção dos fundos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d60e9fe02b6fd25d7bb9ff94eb77fd0d343ffa9dc61bbbf81c782958a7847df
+size 498

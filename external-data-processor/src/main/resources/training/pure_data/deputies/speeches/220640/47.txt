@@ -1,1 +1,3 @@
-A Deputada agradeceu pela aprovação do projeto de lei complementar que prorroga o prazo de execução financeira da Lei Paulo Gustavo, destacando que mais de 5.600 Municípios e mais de 8 mil produtores culturais serão beneficiados. Ela ressaltou a importância do projeto para aqueles que enfrentaram dificuldades durante a pandemia, especialmente os trabalhadores da cultura. Salientou que o público brasileiro também será beneficiado, uma vez que terá acesso a diversas manifestações culturais, como teatro, música, dança e circo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a35d4a89a72663b0c1d640d85f51bbb67543e9292202fabdfd50c385e53449b
+size 544

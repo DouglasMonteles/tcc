@@ -1,1 +1,3 @@
-Questão de ordem sobre a abstenção do registro de comparecimento por Deputados presentes no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57057dd22ec1a3dcba183af18f524390c4aa06f679771b647552bb9658577e57
+size 105

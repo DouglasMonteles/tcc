@@ -1,1 +1,3 @@
-Interpela a Presidência sobre quem tem a  competênica para     desmembrar   projeto de lei em tramitação nas Comissões da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32a18eef6d9499e671749988ebb4ad32480715e3f3debbf9528251bcd20e3548
+size 132

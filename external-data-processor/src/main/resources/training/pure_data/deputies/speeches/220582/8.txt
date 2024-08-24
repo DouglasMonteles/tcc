@@ -1,1 +1,3 @@
-Convite aos Estados e Municípios brasileiros para adesão ao Programa Escola em Tempo Integral, lançado pelo Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad0dd06e1f24d3ba983aaacfd6e0747620af584339f4b39d063971f02f38543a
+size 146

@@ -1,1 +1,3 @@
-Anúncio do ajuizamento de processo por danos morais contra o Deputado Estadual Rogério Correia, do PT de Minas Gerais, pela distribuição da chamada Lista de Furnas. Defesa de instauração da CPI da Corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07e1a79d0088a04167d6ab7bb350aef18534e48b2b3c066418f7f965a2343941
+size 215

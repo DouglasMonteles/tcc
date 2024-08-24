@@ -1,1 +1,3 @@
-Transcurso do 423º aniversário de fundação de João Pessoa, Estado da Paraíba. Desempenho do Governador Cássio Cunha Lima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca8ac9c5aaaa37bc1005d4daf94f2f2b1aa051ba5c1df64048ac40f17ed30327
+size 128

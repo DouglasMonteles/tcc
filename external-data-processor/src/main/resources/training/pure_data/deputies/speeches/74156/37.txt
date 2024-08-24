@@ -1,1 +1,3 @@
-Solicitação à Presidência de prioridade na votação da Proposta de Emenda à Constituição nº 20, de 2008, sobre a recomposição numérica de Câmaras de Vereadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:288aa8f7a7d6c1c3961c532cfbfd04f5b7626a2d8a09ea91c46315454b043a65
+size 173

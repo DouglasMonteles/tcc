@@ -1,1 +1,3 @@
-Contradita a pronunciamento do Deputado Jorge Solla. Reiteração de acusações contra o ex-Governador do Estado da Bahia Jaques Wagner acerca de desvio de recursos públicos nas obras da Arena Fonte Nova.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bb04f6d1879f8a3c887169cefc09ac44f5d621c1a05e487438aa0a45978b088
+size 206

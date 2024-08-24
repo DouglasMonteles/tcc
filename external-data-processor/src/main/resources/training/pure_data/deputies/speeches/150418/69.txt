@@ -1,1 +1,3 @@
-Apresentação, à Comissão de Seguridade Social e Família, de requerimento de convocação de representantes da Agência Nacional de Saúde Suplementar - ANS  e da rede de assistência médica UNIMED, para debate da situação de usuários de planos de saúde. Reativação de postos de saúde no Município de Itabuna, Estado da Bahia. Tratamento da anemia falciforme na municipalidade. Eficiência do Prefeito Municipal Claudevane Leite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc85136e797f0d28e9d7b041254cdfb5a7512cfafb44bd8fae5ee1ad8e084bb7
+size 442

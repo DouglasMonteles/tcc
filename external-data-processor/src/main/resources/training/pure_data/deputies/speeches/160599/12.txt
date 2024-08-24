@@ -1,1 +1,3 @@
-Promulgação da emenda constitucional sobre a ampliação de direitos trabalhistas das empregadas domésticas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57a4a5b49e5d060b2478e6158a0539a9ad184237cf28fbcef16044e7c90e24cc
+size 111

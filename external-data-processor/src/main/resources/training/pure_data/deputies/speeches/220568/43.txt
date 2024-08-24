@@ -1,1 +1,3 @@
-O Deputado criticou o Governo Lula listando problemas econômicos, como pedidos de seguro-desemprego, fechamento de empresas, gastos excessivos do governo e aumento da criminalidade. Mencionou a retirada de pessoas do Bolsa Família e a aprovação de projetos de aumento de impostos. O orador concluiu pedindo ação para evitar danos irreparáveis ao País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2908e9464fb6d8713fce186151bf6fcae7c84267ab53893bd5c52cd72ad96ab4
+size 359

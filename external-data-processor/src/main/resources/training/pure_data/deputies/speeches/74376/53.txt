@@ -1,1 +1,3 @@
-Descumprimento do papel institucional da Agência Nacional de Energia Elétrica - ANEEL. Superfaturamento de tarifas de energia elétrica no País, constatado pelo Tribunal de Contas da União - TCU e pela CPI destinada à investigação de reajustes abusivos em tarifas do setor elétrico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb12779dba49c7afc82c4fd18ef20c435ae78c9dbca828bc545a9c74512fb241
+size 290

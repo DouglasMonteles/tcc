@@ -1,1 +1,3 @@
-Saudações aos participantes na 3ª Conferência Nacional de Aquicultura e Pesca, realizada em Brasília, Distrito Federal. Transcurso do Dia do Vereador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18636fc92cf2422199db25d44e7f00194fe9e6077a7c2b5cf96c775e4e400da4
+size 155

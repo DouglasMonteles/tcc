@@ -1,1 +1,3 @@
-Necessidade da adoção de políticas públicas em prol de menores de rua. Lançamento, pelo Ministério da Educação, do Plano Nacional de Formação dos Professores da Educação Básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45438f484aac4d3573c446e137f5e2fd17598054d8888173decdcbfa5cff0068
+size 190

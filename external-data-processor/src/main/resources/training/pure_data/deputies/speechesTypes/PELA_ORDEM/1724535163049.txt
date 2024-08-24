@@ -1,1 +1,3 @@
-Transcurso dos aniversários natalícios dos Deputados Juscelino Filho e Sargento Fahur.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31d61d9a46481f380d8a081e128318725624eae96a1d4383d764b94ea69ed491
+size 88

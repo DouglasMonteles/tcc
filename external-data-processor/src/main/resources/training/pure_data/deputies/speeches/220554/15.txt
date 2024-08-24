@@ -1,1 +1,3 @@
-Realização do Festival do Mar - Festimar, e do Fórum de Desenvolvimento da Economia Azul, no Município de Rio Grande, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0e89ed5ad55764895587cfbfb1d21929d11c8fc7ffec5d48281df9bdcf5896d
+size 150

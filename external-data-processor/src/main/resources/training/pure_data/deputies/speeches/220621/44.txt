@@ -1,1 +1,3 @@
-Improcedência das tentativas de Deputados esquerdistas de incriminação do ex-Presidente Jair Bolsonaro. Envolvimento do Presidente Luiz Inácio Lula da Silva em esquema de corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab2787a13805e22d17b0e33037a196520f87a2eced6f2cf11f6934f210261393
+size 187

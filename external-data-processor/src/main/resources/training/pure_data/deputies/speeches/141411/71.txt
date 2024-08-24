@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT  ao Requerimento de regime de urgência urgentíssima para o Projeto de Lei 2.944 de 2004 (Institui norma sobre jogos de bingo em todo o território nacional e dá outras providências). Desagravo ao Deputado Paulo Pereira da Silva, em face de discurso do Deputado Fernando Chiarelli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d1f76f9f62cea9843208b8ca867958878b1ed1ab5193d4aeae6526cb479fb67
+size 317

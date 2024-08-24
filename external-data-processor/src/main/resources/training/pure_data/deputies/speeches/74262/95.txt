@@ -1,1 +1,3 @@
-Repúdio às declarações do Deputado Amauri Teixeira, ofensivas ao PSDB e às suas lideranças nacionais, diante da investigação preliminar de denúncias a respeito da formação de cartel em licitações para compra e manutenção de trens e metrôs em São Paulo, Estado de São Paulo. Críticas à atuação política do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38d971067769db8247bbcade02981d3667b9d50c4cd01cdcbd83b433a6ad2b1e
+size 331

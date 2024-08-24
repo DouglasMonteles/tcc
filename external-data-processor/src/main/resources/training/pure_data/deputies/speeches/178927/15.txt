@@ -1,1 +1,3 @@
-Contestação a protesto de Deputado do PSDB contra orientação das Lideranças partidárias pela aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99b5d57b545914a07b0c7039bf3f7bc3830b994936326cb6e205836b1e8e15d6
+size 123

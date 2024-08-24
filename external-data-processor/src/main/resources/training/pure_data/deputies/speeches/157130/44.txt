@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei de Conversão nº 10, de 2022, da Medida Provisória nº 1.099, de 2022, sobre a instituição do Programa Nacional de Prestação de Serviço Civil Voluntário e do Prêmio Portas Abertas, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:744708e44d885da6a96c1cbd472cc93a7da7f15012c23f890d6b877354e822b7
+size 270

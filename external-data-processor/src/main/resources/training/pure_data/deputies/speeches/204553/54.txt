@@ -1,1 +1,3 @@
-Importância de aprovação da Proposta de Emenda à Constituição nº 372, de 2017, sobre a criação das polícias penais federal, estaduais e distrital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a141e6ae2aedb1851fed56d7735cfe4e2586a63ac38819a7a8696ebb618b7a88
+size 156

@@ -1,1 +1,3 @@
-Homenagem à memória do político sergipano José Garcia Neto ao ensejo do transcurso do centenário do seu nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e11bff3f321f8fc012d03652fd321d09c3b440fcad6fc7665a2c6990345991d
+size 120

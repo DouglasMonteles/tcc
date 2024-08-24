@@ -1,1 +1,3 @@
-Preocupação de agricultores mineiros com o texto do novo Código Florestal. Declarações do orador à mídia sobre as causas da demora, na Casa, da aprovação definitiva do Código.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70892b08a90f9665f9bab62845040447679edd895aa342e2e25ebb6981819758
+size 185

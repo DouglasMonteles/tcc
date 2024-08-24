@@ -1,1 +1,3 @@
-Realização da 5ª Feira Regional de Economia Solidária do Vale do Rio Doce, no Município de Governador Valadares, Estado de Minas Gerais. Criação de legislação sobre economia solidária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58495da164a5cc7e820b7d4419c85d602ddf740c02c6ed28c6f875424fdc7ce0
+size 194

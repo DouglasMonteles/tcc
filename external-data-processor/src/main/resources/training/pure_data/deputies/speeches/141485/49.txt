@@ -1,1 +1,3 @@
-Cumprimentos aos Deputados Rogério Rosso e Jovair Arantes, respectivamente, Presidente e Relator da Comissão Especial do Impeachment, pelo trabalho no colegiado. Elogios ao Presidente da Câmara dos Deputados, Eduardo Cunha, pela condução da sessão de votação da admissibilidade do processo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7c832aff9e081e29cefa918a0d0783c126695b1dfd4a3e2e4ec53f6a0dd2848
+size 298

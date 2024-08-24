@@ -1,1 +1,3 @@
-Apelo ao Presidente Luiz Inácio Lula da Silva e ao Ministério da Integração e Desenvolvimento Regional, por meio da Secretaria Nacional de Proteção e Defesa Civil, por adoção de ações imediatas a favor do Município de Ferraz de Vasconcelos atingido por fortes chuvas, no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0f117f66648b6be6d24f18f628ea068eca698d51c484cabd7584b9f3dc184cd
+size 303

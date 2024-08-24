@@ -1,1 +1,3 @@
-Repúdio às críticas da imprensa ao Presidente Jair Bolsonaro, pela não inclusão da visita aos territórios palestinos durante a viagem oficial a Israel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17378e8f356edc779bb3b3cc2e2adf6bbac7fd8bc894077c3b22458211a51bf6
+size 157

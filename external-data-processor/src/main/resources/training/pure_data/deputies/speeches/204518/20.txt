@@ -1,1 +1,3 @@
-Importância, para o enfrentamento oncológico, da aprovação do Projeto de Lei nº 4.171, de 2021, sobre a criação do Programa de Nacional de Navegação de Paciente, destinado às portadoras de neoplasia maligna de mama. Sanção presidencial da Lei nº 14.308, de 2022, sobre a criação da Política Nacional de Atenção à Oncologia Pediátrica, (originária do Projeto de Lei nº 3.921, de 2020).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad35a8247871e208ecf42f0d96ea2708145b408f36e0b23d68b1369ef322f8fc
+size 406

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da expressão o gênero, constante do §2º, e , por conseguinte, da expressão gênero, também constante do §2º do art. 68 da Lei 8.212, de 1991, com a redação dada pelo art. 24 do projeto de lei de conversão apresentado à Medida Provisória nº 871, de 2019, sobre o combate a irregularidades em benefícios previdenciários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad10015cabe613709bb73b4570e875a6ff9086fbe1c81cbe4c9d0d5570900c42
+size 426

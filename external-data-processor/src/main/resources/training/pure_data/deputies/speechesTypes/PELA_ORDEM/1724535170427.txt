@@ -1,1 +1,3 @@
-Consternação com tragédia ocorrida no Distrito de Bento Rodrigues, Município de Mariana, Estado de Minas Gerais. Solicitação à Presidência de votação de proposição relativa à instituição do Marco da Mineração.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4b22060127bc3532635f053a68612a4e439be85372b976bafba11f89f31986f
+size 226

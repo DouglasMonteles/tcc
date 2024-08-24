@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PSB/PCdoB/PMN/PRB  à  PEC 336 de 2009 (Altera a redação do inciso IV do caput do art. 29 da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais), do Senado, em votação em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e02a3e670be2b42af0cc21b9ff7629114d26624cb85a4ac821abb0f1eaf3067b
+size 276

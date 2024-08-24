@@ -1,1 +1,3 @@
-Apoio à aprovação da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares. Agradecimento aos Parlamentares pelo auxílio financeiro concedido à oradora para pagamento de dívida judicial. Defesa de realização da reforma política. Apoio à redução da jornada de trabalho para 40 horas semanais. Responsabilidade do Congresso Nacional pela apreciação de resoluções da 1ª Conferência Nacional de Comunicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:121a586bba8c91faf714e79a49869b804af0ba93e99bb785cca7b5f99bf5dda8
+size 503

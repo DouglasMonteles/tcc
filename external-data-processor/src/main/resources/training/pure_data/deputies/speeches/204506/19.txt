@@ -1,1 +1,3 @@
-Decisão da Presidência sobre a Questão de Ordem nº 21, de 2023, suscitada pelo Deputado Gilson Marques, a respeito da correção dos autógrafos do Projeto de Lei nº 3.453, de 2021, remetidos ao Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad62d4f97fa41fbad54f68c11d5cf8e81b4ed69d597c033a9fb7d729434c2cde
+size 215

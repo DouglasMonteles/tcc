@@ -1,1 +1,3 @@
-Inauguração da Unidade Industrial de Aves da Cooperativa Agropecuária e Industrial - COCARI, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cef80ca212a9d210af5b02f68fcc22976889c7ae5a73e7a3d72ccea2c757f00f
+size 117

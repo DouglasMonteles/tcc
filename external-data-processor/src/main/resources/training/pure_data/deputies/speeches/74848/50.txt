@@ -1,1 +1,3 @@
-Acerto da decisão da Casa de cassação do mandato do Deputado responsável pelo assassinato da ex-Deputada Ceci Cunha. Exigência de julgamento e punição dos responsáveis pelo crime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec6e34edfab9f176b73703a7e508acdf0e6982375123f93b3dfd3bd1853c3700
+size 187

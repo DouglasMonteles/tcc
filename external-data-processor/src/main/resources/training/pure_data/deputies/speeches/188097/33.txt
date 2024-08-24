@@ -1,1 +1,3 @@
-Aprovação pela Casa da Medida Provisória nº 1.021, de 2020, sobre a fixação do valor do salário em mínimo em 1.100 reais, com vigência a partir de 1º de janeiro de 2021. Manutenção da política de arrocho salarial pelo Governo Jair Bolsonaro, não obstante a retomada dos índices inflacionários. Elevação dos índices de desemprego, de pobreza e miséria no País. Reinclusão do Brasil no Mapa da Fome.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb374505de702f33396bab8c8d6da0bad19a885dd2def65d2da76a08e8096577
+size 419

@@ -1,1 +1,3 @@
-A Deputada destacou o Setembro Amarelo como um momento crucial para conscientizar sobre a prevenção do suicídio e promover a saúde mental. Relembrou a origem da campanha, que começou com a tragédia de Mike em 1994 e a distribuição de fitas amarelas com a mensagem Se precisar, peça ajuda. No Brasil, a campanha conta com o apoio de organizações como o CVV, CFM e ABP. A oradora ressaltou a alarmante estatística de 14 mil suicídios por ano no Brasil e a crescente taxa de suicídio entre jovens. Enfatizou a importância de prestar atenção aos sinais de sofrimento mental e a necessidade de políticas públicas eficazes nesta área.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ca44d670c18eabccf61c366ebb778a446a9f15a4f43ed185e4cda0e9274fe6d
+size 648

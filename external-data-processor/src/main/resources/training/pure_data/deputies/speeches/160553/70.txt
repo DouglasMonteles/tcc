@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Combate à Tuberculose. Rapidez na realização de exames para detecção da doença.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80a5ac1351a1bf11db4a2db275a7aac5f39fafdd5a41219f2c27e12796452572
+size 114

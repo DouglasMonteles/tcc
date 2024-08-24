@@ -1,1 +1,3 @@
-Transcurso do Dia do Nascituro e do Dia do Direito à Vida. Necessidade de celeridade na tramitação de projeto de lei sobre o Estatuto do Nascituro na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97a5581f56bb03cf2cba0ed9775a9f641d13c8cc68cbd5da15977c3f001d9211
+size 175

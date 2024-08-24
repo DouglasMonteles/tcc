@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Distrito Federal pelos votos obtidos pelo orador nas eleições de 2014. Compromisso do Parlamentar com o debate sobre a segurança pública no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00cd6a04296f91e8a42f0faf208f9f939759df790461b90c7aaee05491fff3db
+size 181

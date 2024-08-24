@@ -1,1 +1,3 @@
-Prejuízos a agricultores dos Estados de Rondônia e do Espírito Santo de possível liberação da importação de café.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcd958859132c70ae53e1f00e4ad073e6c955c2d2fc13c753a67d28dde3fefc3
+size 122

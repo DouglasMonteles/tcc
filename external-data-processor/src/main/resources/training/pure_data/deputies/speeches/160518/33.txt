@@ -1,1 +1,3 @@
-Redução dos preços de combustíveis no País. Combate à formação de cartel pelo setor de revenda de derivados de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4477f4f8605d5d03c884bd1afed8f73718f1305aebc770c381293eb567f237b
+size 129

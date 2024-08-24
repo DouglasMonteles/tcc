@@ -1,1 +1,3 @@
-Associação ao discurso da Deputada Maria do Rosário a respeito da recente eleição presidencial brasileira. Agradecimento aos eleitores cearenses pela recondução da oradora à Câmara dos Deputados. Denúncia de incêndio ocorrido no Acampanhamento Irmã Dorothy, do Movimento dos Trabalhadores Rurais Sem Terra - MST, no Estado do Ceará. Despreparo do Presidente da República eleito, Jair Bolsonaro, demonstrado na anunciada fusão do Ministério da Agricultura, Pecuária e Abastecimento com o Ministério do Meio Ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a5435a189cf1f96bc22331ce51a451f2b7808922e929db1a9f770b096d606a6
+size 533

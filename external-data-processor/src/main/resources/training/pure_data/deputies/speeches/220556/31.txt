@@ -1,1 +1,3 @@
-Lançamento do livro O que é violência política contra as mulheres?, de Danielle Gruneich e Iara Cordeiro, no Salão Nobre da Câmara dos Deputados. Protesto contra o corte de vagas do Programa Bolsa Estudante, pelo Governador do Estado de Santa Catarina. Defesa da realização de investimentos governamentais no setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e61a913c9b10249b520172a7f5d596483165d20ad015c134515779b5c92257a2
+size 335

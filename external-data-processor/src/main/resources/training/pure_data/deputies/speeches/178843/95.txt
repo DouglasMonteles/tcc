@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Medida Provisória nº 1.100, de 2022, sobre a promoção de ajustes na cobrança da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins, incidentes na cadeia de produção e de comercialização de etanol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f818960d78a326ae776522c70253d4cccb2916f3bffa3bdef599bd9d10722e7
+size 407

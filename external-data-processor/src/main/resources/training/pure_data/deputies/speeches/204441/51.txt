@@ -1,1 +1,3 @@
-Repúdio à abertura, pela Câmara Municipal do Rio de Janeiro, de processo de impeachment  contra o Prefeito Marcelo Crivella.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca5b15c477583506dfe40cae18c348b7d276ac22afd550020b75415803e1052a
+size 127

@@ -1,1 +1,3 @@
-Alocação de mais recursos federais para a realização de obras de infraestrutura de transportes no Estado do Rio Grande do Sul, especialmente para a duplicação das BRs-116 e 392. Otimismo quanto à rejeição do veto presidencial aposto à emenda sobre a distribuição de royalties de petróleo da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94bbe773909795fab9d87da4f37410071c5864aed45813fc7df4dd586e7625f0
+size 320

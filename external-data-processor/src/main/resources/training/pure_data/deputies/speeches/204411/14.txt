@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de encerramento da discussão e do encaminhamento da votação do Projeto de Lei nº 1.321, de 2019, sobre autonomia dos partidos políticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8824d834e118a1c1713b92b53d990704f3f4570fb8c71489a9e68552bef89fb1
+size 194

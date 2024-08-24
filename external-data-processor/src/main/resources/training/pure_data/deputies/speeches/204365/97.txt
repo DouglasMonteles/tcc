@@ -1,1 +1,3 @@
-Defesa de votação da Proposta de Emenda à Constituição nº 199, de 2019, sobre a alteração dos arts. 102 e 105 da Carta Magna, com vista à transformação dos recursos extraordinário e especial em ações revisionais de competência originária do Supremo Tribunal Federal e do Superior Tribunal de Justiça (Prisão de condenados em segunda instância). Protesto contra a votação pela Casa, em benefício de seus membros, da Proposta de Emenda à Constituição nº 3, de 2021, acerca da alteração dos arts. 14, 27, 53, 102 e 105 da Lei Maior, para resguardo de prerrogativas parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45b8c92889bdc84f2338dc864374268ce464065e1679f91f18a657d4654de581
+size 604

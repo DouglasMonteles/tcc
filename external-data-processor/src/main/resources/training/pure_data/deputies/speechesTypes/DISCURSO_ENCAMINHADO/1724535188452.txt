@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial das Doenças Raras. Participação do orador na Frente Parlamentar de Doenças Raras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f048114bdf292515d3b7ab04fafcd4f024171e395493a43d8bd158c40a55dccd
+size 111

@@ -1,1 +1,3 @@
-Visita do Ministro do Desenvolvimento Agrário e Agricultura Familiar, Paulo Teixeira, à Cooperativa Agroindustrial - C. Vale, no Município de Palotina, Estado do Paraná, em solidariedade às vítimas de explosão ocorrida nas dependências da entidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f2c1dff51bf1ea879636f6494d9fd005ea041fd652ae6028da909618e871098
+size 256

@@ -1,1 +1,3 @@
-Conclamação dos Deputados para a assinatura do projeto de decreto legislativo acerca da reversão da decisão do Tribunal de Contas da União em relação aos contratos firmados entre a Caixa Econômica Federal e os permissionários lotéricos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aea47498dd52676f8e9781a4ca89c9fdeb949f0ee29df542f950ad982afc3e7f
+size 246

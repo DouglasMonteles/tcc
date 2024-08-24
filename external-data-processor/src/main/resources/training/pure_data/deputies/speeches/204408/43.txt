@@ -1,1 +1,3 @@
-Razão do posicionamento contrário à instalação da CPI do Senado Federal destinada à apuração das ações e omissões do Governo Federal no enfrentamento da pandemia de coronavírus no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c59c97b95012845f8fae34c27dc6ef84d07ba1bc8f3396387307cc495e8c4131
+size 199

@@ -1,1 +1,3 @@
-Crítica a declaração do Ministro da Economia, Paulo Guedes, sobre a suspensão dos concursos públicos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c03965e18c317e6d1922302340e3caf20ecd6a4dab8cb44949d0b6dafdda593
+size 115

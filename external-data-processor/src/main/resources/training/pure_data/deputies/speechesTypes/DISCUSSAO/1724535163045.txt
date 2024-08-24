@@ -1,1 +1,3 @@
-A Deputada discutiu o Projeto de Resolução da Câmara nº 116, de 2023, que cria a Bancada Negra da Câmara dos Deputados e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35d8c40115e9cbfe7e7539d75ca21dfb843f7c22d47613b7e6abf36e687b1d23
+size 151

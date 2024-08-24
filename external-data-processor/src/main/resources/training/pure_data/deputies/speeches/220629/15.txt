@@ -1,1 +1,3 @@
-Necessidade de redução da taxa básica de juros, a Taxa SELIC, pelo Comitê de Política Monetária - COPOM do Banco Central do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:979ec25dc18f2029e99be3f5481068f6023c3dbe7842aaf54f11365e837b9fdf
+size 137

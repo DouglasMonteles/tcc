@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de retirada da pauta da Ordem do Dia dos Projetos de Decreto Legislativo. Protesto contra o comportamento desrespeitoso da Ministra de Relações Institucionais, Ideli Salvatti,  para com os  partidos de Oposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fd1523605efe63f7b818d832d71c16132137c912ef9da75823b5c11608bc665
+size 259

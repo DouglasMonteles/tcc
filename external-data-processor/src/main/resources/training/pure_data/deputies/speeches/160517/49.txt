@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à Deputada Romanna Remor. Realização do 12º Congresso Nacional do PSB. Defasagem da tabela de procedimentos do Sistema Único de Saúde - SUS. Combate à obesidade entre a população brasileira. Ampliação dos investimentos públicos na educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2228542af51c32b7ee1d86aede8a48bb6e11eff44e03c91855e4d2387e6919e6
+size 284

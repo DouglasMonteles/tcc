@@ -1,1 +1,3 @@
-Realização da 49ª FAPI - Feira Agropecuária e Industrial, no Município de Ourinhos, e da 29ª Festa do Peão, no Município de Americana, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c3fb83abbf4c8e666519c041db176aa3f24d4e7219f1aeca3ff514b85a83f9a
+size 164

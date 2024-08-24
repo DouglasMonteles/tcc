@@ -1,1 +1,3 @@
-Elevado índice de homicídios de cidadãos negros no País em 2019, segundo dados do Fórum Brasileiro de Segurança Pública. Necessidade de enfrentamento do racismo no Brasil. Defesa da construção de cultura de solidariedade e paz na sociedade brasileira, para superação do ódio e preconceito incentivados pelo Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62e91f6a45bea12681d6aef76516a875420cb17316e61454cebf79f8ae8b566b
+size 342

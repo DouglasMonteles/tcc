@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM  ao Requerimento de adiamento, por duas sessões, do Projeto de  Resolução 178 de 2013 (Dispõe sobre a estrutura temporária da Liderança do Partido Social Democrático - PSD, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:be33791a18d7c6b99e8bbecddd0b22668e94fac6fc0f600de3e11222bfe583ef
+size 241

@@ -1,1 +1,3 @@
-Resultados de reunião do orador com o Diretor de Infraestrutura Rodoviária do Departamento Nacional de Infraestrutura de Transportes - DNIT, Luiz Guilherme Rodrigues de Mello, destinada ao debate sobre a recuperação e a duplicação de trechos da BR-135 e a recuperação de trecho da BR-226 no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a216be3c1f4f3486ebf708af3e3d3a0935c43cc9af5ea52233d1aad94456d0a3
+size 319

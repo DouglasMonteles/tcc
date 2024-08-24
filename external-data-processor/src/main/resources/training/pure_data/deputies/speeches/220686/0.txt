@@ -1,1 +1,3 @@
-Encaminhamento da votação da expressão onde couber, mediante utilização preferencialmente dos valores financeiros provenientes de  participações  governamentais obrigatórias, nas modalidades de royalties , participações especiais e compensações financeiras e Fundo de Participação dos Estados, constante do inciso II do art. 2º do Projeto de Lei de Conversão da Medida Provisória 396 de 2007 (Dá nova redação aos arts. 1º e 2º da Lei 10.841 de 2004, que autoriza a União a permutar Certificados Financeiros do Tesouro), que trata da recomposição do fundo previdenciário  pelo Estados, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71df2ebf7beb5579e48e2d59bf050373cd0194a31ece18be6ab76fd7eec6eddf
+size 625

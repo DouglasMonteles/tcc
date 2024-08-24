@@ -1,1 +1,3 @@
-Lançamento do novo Programa Bolsa Família. Inconsistência de críticas à reoneração de combustíveis pelo Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fc77b80a06b2e4e2d6579fb419284d886a30e6de21da39c2f081c58d95d7303
+size 147

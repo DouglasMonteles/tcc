@@ -1,1 +1,3 @@
-Presença no Distrito Federal do Presidente da Câmara Municipal de Maracanaú, Estado do Ceará, acompanhado do Presidente do Democratas, Deputado André Eskinazi, em busca de recursos para a municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6dac9c4ab7a0aaacf62f066f29011fd8499dd563922fc13fbf9841bf3722b34
+size 208

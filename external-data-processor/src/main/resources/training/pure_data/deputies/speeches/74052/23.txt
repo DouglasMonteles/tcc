@@ -1,1 +1,3 @@
-Complexidade da política tributária do setor de combustíveis. Pedido à Casa de aprovação do Projeto de Lei Complementar nº 225, de 2019, de autoria do orador, acerca da regulamentação do regime monofásico e unificado de recolhimento do imposto incidente em operações relativas à circulação de mercadorias e serviços - ICMS sobre combustíveis, no âmbito do Conselho Nacional de Política Fazendária - CONFAZ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:558e431c608f7f85febc31af3f4792e66b4d81288050f8506656bbd3f710f9ea
+size 426

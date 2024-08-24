@@ -1,1 +1,3 @@
-Congratulação ao Presidente Marco Maia pela condução dos trabalhos da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d508d12ef14b7a1a3ae48930f15e0ca6f56afb8c4d4b13ecd61e211858fb56b9
+size 79

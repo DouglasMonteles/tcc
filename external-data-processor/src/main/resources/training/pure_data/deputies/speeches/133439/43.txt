@@ -1,1 +1,3 @@
-Inclusão na pauta do Projeto de Lei nº 1.828, de 2011, sobre a criação de varas na jurisdição do Tribunal Regional do Trabalho da 7ª Região, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95e101ae108b45389de7ab39dee9aa47061e97deffdc32d7f9229c3f3958cfe2
+size 166

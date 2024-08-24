@@ -1,1 +1,3 @@
-Manifestação popular em Aracaju, Estado de Sergipe, em favor das vaquejadas. Elogio ao Presidente da Câmara dos Deputados, Rodrigo Maia, pela condução da votação da Proposta de Emenda à Constituição nº 241, de 2016, sobre o estabelecimento do Novo Regime Fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6de83bcef7aeef6b4b2defa6d4517eb6439656cc9736823822ab7e051554a5f6
+size 273

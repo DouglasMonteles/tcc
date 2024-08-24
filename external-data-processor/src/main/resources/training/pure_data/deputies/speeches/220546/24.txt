@@ -1,1 +1,3 @@
-O Deputado criticou a decisão do BNDES de liberar 600 milhões de dólares para o agronegócio argentino, argumentando que tal ação poderia prejudicar a pecuária e a agricultura nacionais. Além disso, expressou descontentamento com o Supremo Tribunal Federal (STF) por suas recentes decisões, incluindo a que permite a desapropriação de propriedade privada produtiva e a votação sobre o marco temporal de demarcação de terras indígenas. Fez também um apelo ao Presidente do Senado, Rodrigo Pacheco, questionando a ausência daquela Casa de Leis em face das ações do Judiciário e solicitando uma posição clara em defesa do direito de propriedade e do agronegócio. Finalizou enfatizando a importância da segurança jurídica no campo e alertou sobre possíveis conflitos decorrentes das decisões do STF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f4427c8674a7598fda23e77f5a9c40ba5c62a2184c83a83b7fd733d6d884575
+size 823

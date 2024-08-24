@@ -1,1 +1,3 @@
-Endividamento rural brasileiro. Retrospecto do processo de renegociação de dívidas agrícolas no País. Importância da criação, pela Comissão de Agricultura, Pecuária e Abastecimento Rural, de Subcomissão Permanente destinada ao estudo e acompanhamento de medidas sobre o endividamento do setor agropecuário nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e58320842c96f45be383d4c8d59b6b5a2d7776c8db41a69621118bed2858de82
+size 327

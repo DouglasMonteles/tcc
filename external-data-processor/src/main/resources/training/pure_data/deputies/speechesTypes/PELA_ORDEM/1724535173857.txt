@@ -1,1 +1,3 @@
-Falecimento do militante político Delaísio Martins da Cruz, do Município de Santa Maria da Vitória, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cb28021cf3a92683a3ac20fc634b7a908a5f0a2a120ac3a020d2197eb4be913
+size 120

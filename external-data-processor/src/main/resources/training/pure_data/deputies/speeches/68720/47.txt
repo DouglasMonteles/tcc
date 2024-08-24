@@ -1,1 +1,3 @@
-Recebimento de convite da Deputada Estadual Maria Mendonça para participação em debate, na Assembleia Legislativa do Estado de Sergipe, da possível retirada, da Capital Aracaju, da parte administrativa da empresa Petróleo Brasileiro S/A - PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adbe2afb51ed3abb68d0950a0a4a2c913ecca798a82ef3e68856449fbb4163dc
+size 254

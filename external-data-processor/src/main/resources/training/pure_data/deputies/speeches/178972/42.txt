@@ -1,1 +1,3 @@
-Pedido às Lideranças de apoio à celebração de contrato de longo prazo para fornecimento de nafta firmado entre a PETROBRAS e a indústria química e petroquímica do Grande ABC paulista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b292e615686f8dd762f47f525327f2af87281b17e69779f4a2b1af702e8a21d7
+size 191

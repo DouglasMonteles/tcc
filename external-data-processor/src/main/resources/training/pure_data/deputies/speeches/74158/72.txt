@@ -1,1 +1,3 @@
-Pedido ao Presidente da República, Michel Temer, e ao Ministro da Agricultura, Pecuária e Abastecimento, Blairo Maggi, de não importação de café, em face da capacidade produtiva do Brasil para atendimento da demanda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:587ca2f05da6e30d7cca15c5442ce120ebe6a32cd56d0cb3ff1203343956cc11
+size 222

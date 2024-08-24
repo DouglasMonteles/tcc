@@ -1,1 +1,3 @@
-Protesto contra a redução dos recursos destinados à cafeicultura brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1e26f942e2de334d15418f1dfee7869b1fd118b2f82e4b3911319241d9b6ae9
+size 79

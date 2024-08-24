@@ -1,1 +1,3 @@
-Orientação de bancada para votação do requerimento de destaque para votação em separado da Emenda nº 16, apresentada à Medida Provisória nº 782, de 2017, sobre o estabelecimento da organização básica dos órgãos da Presidência da República e dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb09ec0f310edfc521d7443596a105a4f27424424afe9bfc2b4ed282f3f5ce40
+size 275

@@ -1,1 +1,3 @@
-Prisão do ex-Diretor-Geral da Polícia Rodoviária Federal, Silvinei Vasques, pelo uso eleiçoeiro da corporação no pleito de 2022. Críticas ao depoimento prestado pelo ex-Ministro da Justiça e Segurança Pública, Anderson Torres, na CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República. Apresentação de novas denúncias contra o ex-Presidente Jair Bolsonaro. Defesa de prisão do ex-Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc611d2bef94d051499c6cc7fad344663329db93a3a26f500d05fb94dbba7396
+size 476

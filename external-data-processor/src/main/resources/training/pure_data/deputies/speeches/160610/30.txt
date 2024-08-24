@@ -1,1 +1,3 @@
-Transcurso do 11º aniversário de vigência da Lei de Responsabilidade Fiscal. Apresentação do Projeto de Lei Complementar nº 1.270, de 2011, sobre a exclusão das despesas com mão de obra contratada pelo Município, a título de contrapartida, de programas do Governo Federal nas áreas de educação, saúde e assistência social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba68a8e6c3a60e8455bc877379b4dcefbf85d504d333cf898f0287ce1157338a
+size 337

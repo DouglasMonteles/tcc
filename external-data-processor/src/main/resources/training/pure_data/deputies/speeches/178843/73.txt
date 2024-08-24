@@ -1,1 +1,3 @@
-Defesa de votação e aprovação pela Casa da Proposta de Emenda à Constituição nº 23, de 2021, sobre a alteração do regime de pagamento de precatórios pela União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75f3d38ec44c0b29019bffd5a41898ac36a2831aa8d708bc0102516f73d655dc
+size 172

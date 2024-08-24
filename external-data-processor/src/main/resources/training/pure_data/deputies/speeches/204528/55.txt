@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Comissão nº 134, oferecida à Medida Provisória nº 996, de 2020, sobre a instituição do Programa Casa Verde e Amarela, destinado à aquisição da casa própria para famílias residentes nas áreas rural e urbana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f7650b797dd722b1a7fa37ce9693217a517c1da929b4760c300e430ea2cf7be
+size 324

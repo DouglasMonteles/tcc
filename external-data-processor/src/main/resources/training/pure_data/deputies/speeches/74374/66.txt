@@ -1,1 +1,3 @@
-Homenagem póstuma ao Deputado Dr. Pinotti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7cfc8609a1860c9d950bc67e77afda094050fa281adf6904faa850fa3a831cf
+size 43

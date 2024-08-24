@@ -1,1 +1,3 @@
-Transcurso do 156º aniversário da Igreja Presbiteriana no Brasil. Saudação especial aos membros da Igreja Presbiteriana do Bairro do Méier, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bee08988113f747daa4d17f7005563ec49799dadf69058478c8ecc9eeb9671d
+size 199

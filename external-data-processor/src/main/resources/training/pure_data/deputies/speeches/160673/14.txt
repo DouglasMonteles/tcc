@@ -1,1 +1,3 @@
-Prioridade, na Casa, da votação do novo Código Florestal brasileiro, a despeito da urgência da apreciação de medidas provisórias. Anúncio de apresentação, pelo PDT, de requerimento de destaque para votação em separado de dispositivos da Medida Provisória nº 517, de 2010, referentes ao setor de energia nuclear.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abc2495acf35ba220b9c6aa27c5dc015976034f42bfb06f484bba3f8613fecd0
+size 325

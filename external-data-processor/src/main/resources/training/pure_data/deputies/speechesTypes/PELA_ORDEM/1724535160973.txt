@@ -1,1 +1,3 @@
-Apelo aos Deputados de votação da Medida Provisória nº 765, de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97fcc8a0ed472429f4f345a88ee9c8a849f7abe2820073cd603ff4224b7ceb87
+size 72

@@ -1,1 +1,3 @@
-Fechamento de postos de trabalho e queda da massa salarial com o recuo da produção industrial no País. Descaso da política industrial do Governo Federal com a logística e infraestrutura de transportes. Pessimismo dos brasileiros com relação ao desempenho futuro da economia do País. Necessidade de planejamento econômico para garantia do desenvolvimento nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82a2cd826192c805cd4165f191487d5f6b8629d8e4aef4f67d770fe729f1252c
+size 372

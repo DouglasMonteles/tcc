@@ -1,1 +1,3 @@
-Comprovação, por investigação da Polícia Federal, da apropriação ilícita pelo ex-Presidente Jair Bolsonaro, e familiares, de joias pertencentes ao patrimônio da União. Reiteração da importância de instalação de CPI destinada à investigação do tema, denominada CPI das Joias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e0429bfaabcc72224690cafe15038db6a080a756072e98ef949c32b471ec8c8
+size 292

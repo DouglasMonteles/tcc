@@ -1,1 +1,3 @@
-Elogio ao Presidente Arlindo Chinaglia pela condução dos trabalhos da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e23cb982bacba0cf3db347b5e4b8f493e7be70815b1eda0fbc354bc53f7dd147
+size 77

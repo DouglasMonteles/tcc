@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque supressivo da expressão que estejam cadastrados no CadÚnico ou que tenham sido beneficiários do Auxílio Emergencial 2021, contida no inciso II, § 4º, art 5º-A, inserido no art. 7º do Projeto de Lei de Conversão nº 12, de 2022, da  Medida Provisória nº 1.090, de 2021, a respeito do estabelecimento de requisitos e condições para realização de transações resolutivas de litígio, relativas à cobrança de créditos junto ao Fundo de Financiamento Estudantil - FIES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5903d3062991e3c9eda258830552bc8fdabe17d05fc32dc5e9ae96de121c0eef
+size 548

@@ -1,1 +1,3 @@
-Vitórias alcançadas pelo ex-Presidente Luiz Inácio Lula da Silva perante o Supremo Tribunal Federal. Irregularidades de processos condenatórios do líder petista. Ilegalidades praticadas por comandantes da Operação Lava-Jato.   Imediata anulação de processos judiciais movidos contra o ex-Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d074f4396ba73711f83ccc1449852b3f17537a97e607e3ec97275e135d3d7345
+size 322

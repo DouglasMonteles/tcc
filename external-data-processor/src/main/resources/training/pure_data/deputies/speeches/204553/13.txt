@@ -1,1 +1,3 @@
-Urgente adoção, pelo Presidente Jair Bolsonaro, de agenda positiva em prol dos setores de educação e saúde. Luta do orador pela redução dos preços do Gás Liquefeito de Petróleo - GLP, o gás de cozinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:432b8a70dc14e4a77ec53cf23e71443d34bd88d0405085465d7b8e21354cc4cd
+size 212

@@ -1,1 +1,3 @@
-O Deputado comemorou a aprovação do arcabouço fiscal na Câmara dos Deputados, elogiando a capacidade do Presidente Lula de cumprir seu programa de governo em mandatos anteriores. Destacou a retomada do Programa Mais Médicos, do Programa de Telemedicina em andamento no Piauí, de programas habitacionais como o Minha Casa, Minha Vida e o PAC, ressaltando o papel dessas iniciativas na redução das desigualdades regionais. Por fim, criticou o Governador de Minas Gerais por seus pronunciamentos preconceituosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca803b810d9c41adf1d4d8557d857ccf5a09a2dbaa95fe38fab6e1e93ed35e7e
+size 517

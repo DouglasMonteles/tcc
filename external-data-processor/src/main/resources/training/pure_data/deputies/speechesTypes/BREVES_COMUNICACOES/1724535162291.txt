@@ -1,1 +1,3 @@
-Congratulações ao Deputado Subtenente Gonzaga pela realização na Casa do Seminário Internacional de Segurança Pública - Persecução Criminal com o tema Ciclo Completo de Polícia. Admissibilidade pela Comissão de Constituição e Justiça e de Cidadania da Proposta de Emenda à Constituição nº 430, de 2009, que altera a Constituição Federal para dispor sobre a Polícia e Corpos de Bombeiros dos Estados e do Distrito Federal e Territórios, confere atribuições às Guardas Municipais e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e767cbae27dbea7a4950a3285fc0ed5fa08a26f6eb1b3cedd0d3bd1b7760492
+size 530

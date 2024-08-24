@@ -1,1 +1,3 @@
-Protesto contra o encerramento da sessão solene promovida ao ensejo do transcurso do 70º aniversário de promulgação da CLT - Consolidação das Leis do Trabalho, para início da sessão extraordinária destinada à votação de  destaque ao Projeto de Lei de Conversão da Medida Provisória dos Portos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28fb9fca157cdb769b5dce8aa19858c8dfc0994f59feafc785b13b5b869fb747
+size 308

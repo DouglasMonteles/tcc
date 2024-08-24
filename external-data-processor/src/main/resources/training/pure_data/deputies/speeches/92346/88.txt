@@ -1,1 +1,3 @@
-Esclarecimentos acerca do acatamento pelo Supremo Tribunal Federal de denúncia contra o Deputado Jair Bolsonaro por incitação ao crime de estupro. Aparelhamento do Ministério Público Federal com vistas à perseguição de Parlamentares contrários ao PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9f749d5b6423ee4a12dd401393f4f2c38567e42955c4dc39348e6a5063b5150
+size 259

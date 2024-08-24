@@ -1,1 +1,3 @@
-Competência do Ministro da Saúde, Luiz Henrique Mandetta. Defesa da aprovação da Medida Provisória nº 890, de 2019, conhecida como MP do Revalida, sobre a instituição do Programa Médicos pelo Brasil, no âmbito da atenção primária à saúde no Sistema Único de Saúde - SUS, e a criação do serviço social autônomo denominado Agência para o Desenvolvimento da Atenção Primária à Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7379c8823ea72590c829763ca91264a5d0feb2c4577ca36ba7a0d9cd90c27b7c
+size 407

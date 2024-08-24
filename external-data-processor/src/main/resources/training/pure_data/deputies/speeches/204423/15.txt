@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global oferecida pela Relatora da Comissão de Seguridade Social e Família ao Projeto de Lei nº 848, de 2020, sobre alteração da Lei nº 5.991, de 1973, acerca do Controle Sanitário do Comércio de Drogas, Medicamentos, Insumos Farmacêuticos e Correlatos, com vista à validade de receita de fármacos durante surtos epidêmicos, ressalvados os destaques. Importância do isolamento social para prevenção do coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:874b0d7b5f5c9e8861f35783012bc21a2733ad099504b7b650fcb8a965141570
+size 492

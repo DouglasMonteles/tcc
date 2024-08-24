@@ -1,1 +1,3 @@
-Necessidade de investigação e punição dos responsáveis pela aplicação de vacinas vazias contra a Covid-19. Apresentação do Projeto de Lei nº 374, de 2021, sobre a inserção do art. 267-A ao Decreto-Lei n.º 2.848, de 1940, (Código Penal), para criminalização da conduta de simulação da aplicação de vacina. Solicitação aos Líderes partidários de apresentação de conjunto de projetos de lei destinados à criminalização de condutas relacionadas à Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68aed804747256c6ddd1bdca1e2880251cb2b215dd68d7dbe2c7191a98dcb280
+size 482

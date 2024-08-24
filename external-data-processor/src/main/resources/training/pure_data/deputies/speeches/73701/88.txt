@@ -1,1 +1,3 @@
-Congratulações à Presidenta Dilma Rousseff pela sanção da lei sobre a instituição do Sistema Único de Assistência Social - SUAS. Elogio à Ministra do Desenvolvimento Social e Combate à Fome, Tereza Campello, pela coordenação do SUAS e pela implantação e ampliação de programas destinados à proteção de idosos e crianças.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b92c5813682a66e69c5232d58acf97aae96797a842870c662800408563d4ccaa
+size 341

@@ -1,1 +1,3 @@
-O Deputado enfatizou sua atuação parlamentar em defesa do povo brasileiro, especialmente o desempregado, o que passa fome e aquele que não recebe, adequadamente, serviços de segurança, saúde e educação. Parabenizou o Governador Cláudio Castro pelo êxito da gestão do Secretário de Polícia Civil, Fernando Albuquerque, e da Diretora do 4º Departamento de Polícia de Área, Raíssa Maria dos Santos Celles. Por fim, parabenizou todo o efetivo da Polícia Civil do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd4f7415eec8d79af3c0e8210b22fd3f6a3e8e04532b35a14af482f73b59a56c
+size 502

@@ -1,1 +1,3 @@
-Esclarecimento ao Líder do PV sobre o cumprimento, pelos Líderes do PSDB e do DEM, de acordo para a votação da proposta de reajuste do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98b0b030fd1a8acec772a882fa9edeb4dd490e57efc6eb7f464ca6aaf996fab8
+size 156

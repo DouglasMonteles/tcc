@@ -1,1 +1,3 @@
-Encontro da bancada federal amapaense com o Ministro de Minas e Energia, Edison Lobão, para debate da federalização da Companhia de Eletricidade do Amapá - CEA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d1cc757c548407e37b9c0938f419b8e83627203eea95bad8ff6b0a722c39aee
+size 164

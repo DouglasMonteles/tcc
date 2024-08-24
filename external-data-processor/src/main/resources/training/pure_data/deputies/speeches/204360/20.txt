@@ -1,1 +1,3 @@
-Precariedade dos serviços prestados pelas agências do Instituto Nacional do Seguro Social - INSS no Brasil, especialmente no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e9675905b316a55d4107ef5f2ce22f327addf14fde0ae3cc6c78b729ef931c9
+size 147

@@ -1,1 +1,3 @@
-Indignação do orador com a aprovação da proposta de reforma trabalhista pela Comissão de Assuntos Econômicos do Senado Federal. Posicionamento da população brasileira favorável à realização de eleições diretas para a Presidência da República. Lançamento da Frente Parlamentar Mista pelas Diretas Já.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfe25c5c5418226f4754a3b5ead1da38c54088cbfc4200c27e58e990c4e1714d
+size 317

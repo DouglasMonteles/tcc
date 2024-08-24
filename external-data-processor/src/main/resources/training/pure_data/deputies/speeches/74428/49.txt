@@ -1,1 +1,3 @@
-Crise política reinante no País. Exigência, pela sociedade brasileira, de apuração de graves episódios ocorridos no âmbito do Governo Federal. Necessidade de esclarecimento dos fatos pela Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3b376ecd060906ca341573f3e81e2d205f52cac32ed44746f794e6c53102021
+size 221

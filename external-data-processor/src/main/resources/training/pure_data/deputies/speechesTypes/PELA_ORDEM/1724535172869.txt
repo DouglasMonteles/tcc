@@ -1,1 +1,3 @@
-Regozijo com a votação, pela Casa, da Medida Provisória nº 875, de 2019, sobre o Auxílio Emergencial Pecuniário para famílias de Brumadinho, Estado de Minas Gerais. Expectativa de aprovação da matéria pelo Senado Federal e da sanção pelo Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b56937cb7feacd5cf259a2be49190421340581f7a0fe3609c3502b5a1f73455d
+size 275

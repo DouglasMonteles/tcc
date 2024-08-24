@@ -1,1 +1,3 @@
-Conquista pelo jovem Jeremias Reis, do Município de Serra, Estado do Espírito Santo, do título de campeão do programa The Voice Kids, apresentado pela TV Globo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6c2c754a718a8ab652edb9724505270c30c4663ac0ed5bf0d9ce517886127b9
+size 164

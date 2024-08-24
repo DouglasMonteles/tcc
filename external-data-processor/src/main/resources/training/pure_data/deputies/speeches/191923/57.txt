@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 755, de 2022, sobre a responsabilidade civil do poder público por dano causado a proprietário de imóvel lindeiro, em decorrência da construção de viaduto. Crise financeira das Santas Casas de Misericórdia e hospitais filantrópicos, provocada pela defasagem da tabela de procedimentos do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6c9783c09431106285b7812b8f780276062c33ed918d1cc6f9f73df04d2ba84
+size 363

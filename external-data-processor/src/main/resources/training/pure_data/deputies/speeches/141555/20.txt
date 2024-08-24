@@ -1,1 +1,3 @@
-Relevância do trabalho de prevenção de câncer de colo de útero desenvolvido pelo projeto Jornada da Cidadania, no Estado do Rio de Janeiro. Solicitação ao Ministério da Educação de inclusão do curso de Citotecnologia na grade curricular dos cursos tecnológicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4616b2ccc096a32de97fffa94ea06621d1a000a6dab3ca95fbf488b3a063509f
+size 273

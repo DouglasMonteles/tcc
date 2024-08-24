@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas de Plenário de nºs 1 a 6, apresentadas ao Projeto de Lei nº 5.387, de 2019, sobre o mercado de câmbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no País e a prestação de informações ao Banco Central do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7382571b6b4fdd4da144756f39a51c5b639adafe16952126c2f901393980e2d9
+size 275

@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Adoção. Excelência dos trabalhos realizados pelos grupos de apoio à adoção. Revisão do perfil da demanda de adoção no País. Retrocesso da aprovação pela Casa do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5b3835019000782da05f3b52d613fa7bc1853da7b82be1ab6e1dc7788d246f9
+size 237

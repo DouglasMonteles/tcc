@@ -1,1 +1,3 @@
-Realização da 44ª Feira Internacional do Mármore e do Granito - Cachoeiro Stone Fair, no Município de Cachoeiro de Itapemirim, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99b91afc83367eeb50e66173fe01aadc5e8d6e0e3f7c1d2c2d906b6b2b56e405
+size 158

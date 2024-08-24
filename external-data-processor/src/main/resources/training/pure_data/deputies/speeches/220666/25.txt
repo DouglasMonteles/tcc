@@ -1,1 +1,3 @@
-O Deputado comunicou a instalação da Frente Parlamentar Mista de Combate à Corrupção e anunciou os ocupantes dos cargos de coordenação. Conclamou políticos estaduais e municipais com mandatos e toda a sociedade civil organizada para denunciar casos de corrupção à Frente Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1f26e5d755dbf41d0fb7fea68970d796be1e5d48982afd47e6c20b21a99715a
+size 294

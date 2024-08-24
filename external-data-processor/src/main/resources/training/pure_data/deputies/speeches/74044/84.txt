@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo ao  Requerimento de retirada da pauta da Ordem do Dia das  Emendas do Senado ao Projeto de Lei de Conversão 16 de 2009 (Medida Provisória 466 de 2009), que dispõe sobre os serviços de energia elétrica nos Sistemas Isolados e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5be27d5634e99e9c91bd99825543e3582ffbd205a1b31a57d0c8e04b73491eac
+size 292

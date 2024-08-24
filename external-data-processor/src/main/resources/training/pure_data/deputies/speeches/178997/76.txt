@@ -1,1 +1,3 @@
-Anúncio de realização, pela Comissão de Constituição e Justiça e de Cidadania, de audiência pública destinada ao debate do Projeto de Lei nº 3.404, de 2015, de autoria do orador, sobre a inclusão do extintor de incêndio com carga de pó ABC entre os equipamentos obrigatórios dos veículos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d10c7aab3b68ee7e732416a448f6166e033ba3ae1321f89de94f1b8c57d041ab
+size 303

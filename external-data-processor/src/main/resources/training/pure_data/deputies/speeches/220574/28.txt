@@ -1,1 +1,3 @@
-Defesa de identificação dos mandantes do assassinato da Vereadora Marielle Franco. Envolvimento de Ministra de Estado com milicianos do Rio de Janeiro. Indagação ao PT sobre os mandantes do assassinato do Prefeito Municipal de Santo André, Celso Daniel; do Prefeito Municipal de Campinas, Antônio da Costa Santos, o Toninho do PT; e do atentado praticado contra a vida do então presidenciável Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a0dea15e0d43cb1a3bf8470a348d0251588ea14c08208adf92c5f6c7df60964
+size 416

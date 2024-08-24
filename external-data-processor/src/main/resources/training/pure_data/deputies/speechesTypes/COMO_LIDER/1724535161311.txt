@@ -1,1 +1,3 @@
-Atraso na liberação, pela Caixa Econômica Federal, de recursos para a execução de obras de mobilidade urbana nas cidades-sede da Copa do Mundo de Futebol de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39d8267572d237aac33104d38384289bd1851b4b82d3137f97e28c76cb108265
+size 167

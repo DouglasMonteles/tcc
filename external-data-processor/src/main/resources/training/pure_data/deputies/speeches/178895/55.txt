@@ -1,1 +1,3 @@
-Escalada da violência no Estado de Minas Gerais. Elevado índice de desemprego do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be27e43c6ada7d2d8bd0caef2025d41be32b3a09dbc0913619d3610c17194dcf
+size 89

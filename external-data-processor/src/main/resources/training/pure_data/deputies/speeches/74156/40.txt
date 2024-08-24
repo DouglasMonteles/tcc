@@ -1,1 +1,3 @@
-Transcurso do Dia da Educação. Ações do Governo Luiz Inácio Lula da Silva em prol do setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5cc12a107fa9e0085c4dfa7ca2b5c0df4daef229141f244c850f3335efffdba
+size 108

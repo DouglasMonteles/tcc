@@ -1,1 +1,3 @@
-Orientação de bancada na votação da admissibilidade dos requerimentos de destaques simples, apresentados ao Projeto de Lei nº 4.476, de 2020, (nº 6.407-B, de 2013, na Câmara dos Deputados), acerca do estabelecimento do marco regulatório do gás natural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a4df718fc5703d983d40d9cc84ec18bd02a0c2ff70391cdb577e1bdd32a725e
+size 261

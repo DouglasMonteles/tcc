@@ -1,1 +1,3 @@
-Transcurso do 30º aniversário de fundação da Associação Nacional de Jornais - ANJ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49688ad1ae082a8d03b536a4729cde54e0c38dd2f23ac892b29f09c6ee3a7fbb
+size 88

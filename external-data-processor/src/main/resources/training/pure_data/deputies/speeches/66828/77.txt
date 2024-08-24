@@ -1,1 +1,3 @@
-O Deputado expressou sua preocupação em relação à reforma tributária. Ele argumentou que as mudanças propostas pelo Senado podem beneficiar exclusivamente a Fiat no Nordeste, às custas de outros Estados brasileiros, citando um possível fechamento de fábricas. O Deputado também mencionou informações que sugerem que o Partido dos Trabalhadores (PT) estaria apoiando as mudanças no Senado, o que ele considera uma traição à causa dos trabalhadores. Ele enfatizou que a reforma tributária deve ser equilibrada e não prejudicar outras regiões do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56606bcddcfe14eb93036005d721dde47c19d4e22a1ef28dc9fa9d4774814168
+size 570

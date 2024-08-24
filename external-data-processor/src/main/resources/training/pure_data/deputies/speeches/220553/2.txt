@@ -1,1 +1,3 @@
-Resgate de trabalhadores em condições análogas à escravidão, em viniculturas no Município de Bento Gonçalves, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be97f0999953dbfa21cd4868654c92165f37e2a7d4d4a884a65f727d62287d38
+size 145

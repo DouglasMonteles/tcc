@@ -1,1 +1,3 @@
-Retomada dos investimentos na área de turismo no Estado de Pernambuco, com vistas à realização da Copa do Mundo de Futebol de 2014. Importância do setor para o desenvolvimento da Região Nordeste e do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edf8aa722ef42e0d885cb0abd6a400afb4941cf3fb160fdfb16e6dec4edd50eb
+size 212

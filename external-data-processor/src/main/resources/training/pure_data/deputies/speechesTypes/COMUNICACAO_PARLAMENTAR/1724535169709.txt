@@ -1,1 +1,3 @@
-Apresentação de destaque ao projeto de lei de conversão da Medida Provisória nº 398, de 2007, sobre criação da Empresa Brasil de Comunicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba68ed1bca2fe5529fed274a4b0ce932a1dfa12cd693d141c93b7f53887ae4c0
+size 150

@@ -1,1 +1,3 @@
-Realização de debate sobre a reforma política no Auditório Nereu Ramos da Câmara dos Deputados. Apresentação, pelo orador, de proposições de relevante interesse do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ac28ff8a7fae4430ec64c4907ddb4588a707cb1fb2e9475d7ca82fff2be7d58
+size 179

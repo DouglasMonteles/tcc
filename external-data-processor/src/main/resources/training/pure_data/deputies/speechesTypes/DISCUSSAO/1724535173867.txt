@@ -1,1 +1,3 @@
-Congratulações aos Presidentes da Câmara dos Deputados, do Senado Federal e do Tribunal Superior Eleitoral, pela decisão de adiamento da data das eleições municipais de 2020, em face da pandemia de coronavírus. Vinculação entre a não implementação do Comitê de Gestão de Crise da Covid-19 e o número de óbitos ocorridos no País em decorrência da doença. Discussão da admissibilidade da Proposta de Emenda à Constituição nº 18, de 2020, a respeito do adiamento das eleições municipais de 2020, em decorrência das medidas de enfrentamento da pandemia de coronavírus, declarada pela Organização Mundial da Saúde - OMS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:411b8a58eeb66cc2efd9cffca31b2bc89d8468d608500d1293b3b78ffd678959
+size 646

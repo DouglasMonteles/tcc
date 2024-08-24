@@ -1,1 +1,3 @@
-Importância da conciliação entre a produção agrícola e a preservação do meio ambiente no processo de reformulação do Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2340d6edd7255dd840b395a0b3908160cf0a9655065aea60729db13f2f09c7c0
+size 156

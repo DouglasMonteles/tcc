@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de encerramento da discussão e do encaminhamento da votação  da Medida Provisória 432 de 2008 (Institui medidas de estímulo à liquidação ou regularização de dívidas originárias de operações de crédito rural e de crédito fundiário, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2e5e679563b9981e4af1ea0077272a7ce2c5793c1d40d7ff924ca941bbf0aa4
+size 320

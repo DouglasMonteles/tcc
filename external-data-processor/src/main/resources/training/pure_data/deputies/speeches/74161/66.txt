@@ -1,1 +1,3 @@
-Maior atenção do Legislativo brasileiro para com as reivindicações dos participantes em recentes manifestações ocorridas no País. Necessidade de discussão de matérias prioritárias para a sociedade brasileira. Atuação dos órgãos da imprensa na cobertura de movimentos sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88d84095fec057d32a6cefab38fcc95af885016a538439a2c404d56c7c7d9950
+size 289

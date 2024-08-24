@@ -1,1 +1,3 @@
-Congratulações, pela sua 2.000ª edição, ao jornal A Notícia, do Município de Cruzeiro, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b65889cd40776f2247c77a494fc7d93eb959deda0402c0de7d7f9ab238dd323
+size 115

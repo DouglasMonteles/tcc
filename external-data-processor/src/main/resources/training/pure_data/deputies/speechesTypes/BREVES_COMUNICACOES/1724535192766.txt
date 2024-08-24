@@ -1,1 +1,3 @@
-Justificativa da ausência do orador em sessão anterior. Anúncio, pelo Presidente Luiz Inácio Lula da Silva, da liberação de recursos para urbanização de favelas na região do ABC, em São Paulo, Estado de São Paulo. Realização de obras viárias na região. Conclusão das instalações da Universidade Federal do ABC. Alcance social do Programa de Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95389a031ba9ad96f75d10e9f038c1e5acf3befae00c3ad9e15d50a39411d03d
+size 393

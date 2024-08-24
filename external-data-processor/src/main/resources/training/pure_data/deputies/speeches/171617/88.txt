@@ -1,1 +1,3 @@
-Realização do 36º Congresso Nacional de Jornalistas, em Maceió, Estado de Alagoas. Transcurso do Dia do Jornalista. Defesa de proposições legislativas destinadas ao fortalecimento da categoria profissional. Ocorrência de desabamento em fábrica de alimentos do Grupo Motrisa - Moinhos de Trigo Indígena S/A, localizada na capital alagoana. Necessidade de fiscalização preventiva de acidentes em obras de infraestrutura no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:302df0bbb12ce28ee58f903158138bba37ce4027647b58183a6c16b5bbc43d3c
+size 438

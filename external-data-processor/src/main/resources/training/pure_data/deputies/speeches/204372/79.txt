@@ -1,1 +1,3 @@
-Crítica à diferenciação dos portadores de deficiência por classe social adotada pelo Ministério da Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36a9a6e370efbf1385c6da1d93fd4302e3be2bb1bb2d4559843a1a95f1206299
+size 112

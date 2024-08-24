@@ -1,1 +1,3 @@
-O Deputado destacou a crise enfrentada pela Enel em São Paulo, ressaltando a falta de energia e criticando a privatização. Questionou a viabilidade do déficit zero diante de desastres naturais, citando enchentes no Rio Grande do Sul e a seca no Norte do Brasil. Também questionou a possibilidade de aumento do salário mínimo, melhorias em programas sociais e socorro a Estados em dificuldades financeiras em caso de adoção da política de déficit zero. Criticou a priorização do pagamento de juros da dívida em detrimento dos investimentos sociais. Concluiu apoiando a posição do Presidente Lula em favor do povo&nbsp;brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39e60d0b333d7c6975086e7af4ab488ab1d9291b25739ee130641628d5eb953d
+size 644

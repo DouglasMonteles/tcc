@@ -1,1 +1,3 @@
-Pressão de entidades de classe no tocante à votação, pela Casa, de matérias de importância para o País. Reclamação sobre o uso abusivo da tribuna pelos Líderes partidários, em detrimento dos demais Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d3208bd48fbe4c6d32c8589aafd2739b921df7eb6308927d5c1994892ee750b
+size 223

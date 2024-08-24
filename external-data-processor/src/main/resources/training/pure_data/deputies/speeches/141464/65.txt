@@ -1,1 +1,3 @@
-Transcurso do 10º aniversário de criação do Centro Dragão do Mar de Arte e Cultura, no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8301df483fa45f14198dbd48369e2280e205758b9d1e73b8cad6381d8fbb335
+size 109

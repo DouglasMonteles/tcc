@@ -1,1 +1,3 @@
-Protesto contra o anúncio pelo Governo Michel Temer da extinção do Programa Ciência Sem Fronteiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:523424cf02f838bdbab9c237ce93c6138692056e38cfd01ea5becbfa1e37af91
+size 103

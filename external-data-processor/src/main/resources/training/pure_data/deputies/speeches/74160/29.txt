@@ -1,1 +1,3 @@
-Solidariedade aos povos indígenas diante de ataques do Governo Jair Bolsonaro aos seus direitos constitucionais. Retrocesso do Projeto de Lei nº 490, de 2007, sobre a alteração da Lei nº 6.001, de 1973, relativa ao Estatuto do Índio. Contrariedade ao acatamento, pelo Supremo Tribunal Federal, da tese do marco temporal na demarcação de terras indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:189631cf917238104a2c441280b57332124ee4f3ec7df162454d414275784b3b
+size 363

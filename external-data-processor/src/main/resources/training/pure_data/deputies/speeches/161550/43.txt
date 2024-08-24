@@ -1,1 +1,3 @@
-Convite aos Parlamentares para participação da 18ª Exposição Brasileira do Agronegócio do Leite — Megaleite, no Município de Belo Horizonte, Estado de Minas Gerais. Lançamento de revista do Programa Mais Genética durante o evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1903f80cb475d06cc76404e7f74262c84c90cbc95f822345d77c3b799f2eefe
+size 241

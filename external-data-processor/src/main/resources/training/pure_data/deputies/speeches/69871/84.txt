@@ -1,1 +1,3 @@
-Contrariedade à alteração do limite de maioridade penal vigente no País. Elogio ao Senado Federal pela apresentação de proposta que aumenta o período de internação, pelo regime do Estatuto da Criança e do Adolescente, de menores de 18 anos autuados por crimes hediondos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55325581f33e9cbe6e0760eceaf5a552a0f8eaba90f63792431f7e5ebadfebe1
+size 280

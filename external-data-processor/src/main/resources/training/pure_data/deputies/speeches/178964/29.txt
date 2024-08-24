@@ -1,1 +1,3 @@
-Reiteração de pedido ao Ministério do Meio Ambiente de prorrogação do prazo para cadastramento ambiental rural por agricultores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:565e46f92ef9504dbe34b717616aa2d65b054b8810fa2e3a9586892b40652188
+size 133

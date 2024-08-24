@@ -1,1 +1,3 @@
-Assinatura, entre o Ministério das Comunicações e municípios de Minas Gerais, dos Termos de Doação com Encargos para a implantação de telecentros comunitários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d165fe15641bd2374321418466ce72193f5372934f420593afd7fdb22fcd45f
+size 168

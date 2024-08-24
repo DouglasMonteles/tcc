@@ -1,1 +1,3 @@
-Contrariedade à exigência da Caixa Econômica Federal de pavimentação asfáltica de áreas destinadas à edificação de moradias por meio do Programa Minha Casa, Minha Vida para liberação dos recursos referentes à construção das casas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c518d39aeaa6eb7985efdc4962b09352450d0f040574fbf2e3b58e4cbf2d8b86
+size 245

@@ -1,1 +1,3 @@
-Repúdio à anunciada cobrança de bagagem de mão pelas empresas aéreas. Defesa da edição de medida provisória destinada à isenção da cobrança da Taxa de Embarque Internacional - TEI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72f2926680f96e7c3bdd533ade8d57ed5b695c4a5851101d35229eae8ce70a06
+size 192

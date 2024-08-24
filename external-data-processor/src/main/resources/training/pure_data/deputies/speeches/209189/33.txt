@@ -1,1 +1,3 @@
-Crítica ao Presidente Jair Bolsonaro pelo envio, ao Congresso Nacional, de projeto de lei sobre alteração da legislação de trânsito. Favorecimento, pela matéria, ao motorista infrator. Desestruturação do Estado Democrático de Direito pelo Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0e564f03cc6872ca8513abcab0e06390ea7dc281706f5e442cb7318d46da4d6
+size 274

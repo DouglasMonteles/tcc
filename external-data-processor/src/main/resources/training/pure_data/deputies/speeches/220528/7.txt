@@ -1,1 +1,3 @@
-O Deputado saudou o Prefeito de Vila Velha, Arnaldinho Borgo, destacando o trabalho brilhante que ele tem realizado na revitalização e reestruturação da cidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48feacfea4789c70c73a5c511677b45d55e8e65eee0c3a66849723c9d726ade1
+size 164

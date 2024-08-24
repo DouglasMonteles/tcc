@@ -1,1 +1,3 @@
-Repúdio à declaração de diretor da Agência Nacional de Energia Elétrica - ANEEL, a respeito da prática de lobby pelos Deputados nas votações realizadas pela Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:287525701a31f5f90b3d033a204747471384410445a201358a219e70f6e34eca
+size 171

@@ -1,1 +1,3 @@
-Aprovação, por Subcomissão Permanente da Comissão de Educação, de relatório de acompanhamento, monitoramento e avaliação do processo de implementação do conjunto de metas e estratégias do Plano Nacional de Educação - PNE. Resultado de reunião com o Ministro da Educação, Mendonça Filho, destinada ao debate sobre a criação de cursos de Medicina no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f6fe94b2d2fd27999fa0b8ae9433af1b945b58900e2cbb4091bc30bea107d78
+size 375

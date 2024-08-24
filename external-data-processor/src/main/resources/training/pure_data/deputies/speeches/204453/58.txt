@@ -1,1 +1,3 @@
-Responsabilidade do Governo Jair  Bolsonaro pela morte de brasileiros por Covid-19 diante do cancelamento do protocolo de intenção de compra da vacina Coronavac na gestão do então Ministro da Saúde, Eduardo Pazuello. Consternação com a dor das famílias enlutadas, em especial com os familiares do ator Paulo Gustavo. Apresentação à Presidência de requerimento de encaminhamento de informações produzidas pelo mandato da oradora à CPI do Senado Federal destinada à investigação das ações e omissões do Governo Federal no enfrentamento da pandemia de coronavírus (CPI da Pandemia).
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf7eca9ea159023d02b4b6c4cb02b1ba52fac264de9a4c9dc1b25c87be416724
+size 601

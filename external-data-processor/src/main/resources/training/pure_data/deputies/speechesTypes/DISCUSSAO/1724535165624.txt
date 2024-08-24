@@ -1,1 +1,3 @@
-Discussão da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6977b73befdc0a45915216f905749ec9118204443bd482c891ad565839d72e30
+size 99

@@ -1,1 +1,3 @@
-Natureza falaciosa do Programa Mais Médicos, do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbb2bfc08a696ab1be99098ef51773e2ea7448418dab67ec2a74e35f4c903a10
+size 65

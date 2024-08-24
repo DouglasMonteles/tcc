@@ -1,1 +1,3 @@
-Orientação da respectiva bancada para votação do requerimento de retirada de pauta da Medida Provisória nº 752, de 2016, que dispõe sobre diretrizes gerais para a prorrogação e a relicitação dos contratos de parceria que especifica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87872283cc651dad7cd51867fe2f7c9e433a1887f3a22abd29935d4586d6e35b
+size 243

@@ -1,1 +1,3 @@
-Apoio ao manifesto Defender a Petrobrás é defender o Brasil, da Federação Única dos Petroleiros - FUP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5117d4b1fd0d7bd6b1f745c3e6c8dc0db59e9bad29263fc883f10b9531355af7
+size 107

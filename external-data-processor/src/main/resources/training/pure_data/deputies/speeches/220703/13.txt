@@ -1,1 +1,3 @@
-Repúdio às agressões racistas praticadas contra o jogador de futebol Vinicius Júnior, na Espanha. Necessidade de adoção, pelas autoridades espanholas, de providências enérgicas contra os autores de ofensas raciais ao jogador brasileiro. Importância da erradicação do racismo no futebol em escala mundial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e4d101c0dcf34ec2208eaec1b20283ee5d5311b8fc3a2b165689e87490f4eff
+size 315

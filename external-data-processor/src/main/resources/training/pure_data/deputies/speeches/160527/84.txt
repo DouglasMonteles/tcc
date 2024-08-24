@@ -1,1 +1,3 @@
-Informação ao Deputado Carlos Zarattini sobre os termos de acordo de Líderes para votação de requerimento de inversão de pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67ec044340b0e485fefd19633ef4872338bcd71721ca711976dffa2714708dfb
+size 133

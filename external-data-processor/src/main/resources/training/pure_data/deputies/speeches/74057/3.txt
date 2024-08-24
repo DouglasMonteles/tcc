@@ -1,1 +1,3 @@
-Participação da oradora em reunião do Sindicato dos Trabalhadores em Educação do Estado da Bahia. Urgente aprovação da proposta de estabelecimento de piso salarial nacional para a categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2ace234cc6cb774c67643aa1587387b2dd07ce43b8362e945733ecb83d8952e
+size 197

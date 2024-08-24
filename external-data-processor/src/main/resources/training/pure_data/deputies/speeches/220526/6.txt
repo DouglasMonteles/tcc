@@ -1,1 +1,3 @@
-Protesto contra fake news divulgadas pela Deputada Erika Kokay sobre o ex-Presidente Jair Bolsonaro. Necessidade de respeito ao princípio da presunção de inocência dos policiais. Repúdio a decisão do Ministro do Supremo Tribunal Federal, Gilmar Mendes, sobre as reparações devidas pelo Estado brasileiro em caso da morte de vítima de disparo de arma de fogo durante operações policiais ou militares. Impunidade reinante no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88acb5608189963bef85861addd2abf811b7368322d3466fa1547394a6e95888
+size 440

@@ -1,1 +1,3 @@
-Sucesso da gestão do sistema carcerário maranhense. Redução das taxas de homicídios no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7769a18a27f7777f30b6eb9f9517aa7c450f8694fcded6e77ad7ebcdad0ecd9
+size 112

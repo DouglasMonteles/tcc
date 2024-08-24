@@ -1,1 +1,3 @@
-O Deputado destacou a presença na Casa do Embaixador da Ucrânia no Brasil, Andrij Melnyk.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97e4d682dcf8777de04d2402e66589de2dc1c43d6544d6c0803a4cad179a9655
+size 91

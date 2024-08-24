@@ -1,1 +1,3 @@
-Sessão Solene em Homenagem ao Dia Nacional do Garimpeiro. (As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:784f0c413a0acb17fd00ae2b6ecdd50559324a799891e04e965971aca9ee2659
+size 192

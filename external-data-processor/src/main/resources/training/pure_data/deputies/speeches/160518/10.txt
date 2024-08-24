@@ -1,1 +1,3 @@
-Anúncio da apresentação de requerimento de tramitação, em regime de urgência, do projeto de  decreto legislativo sobre a obrigatoriedade de devolução aos consumidores de valores cobrados a maior em tarifas de energia elétrica. Apresentação de projeto de lei acerca da extinção da cobrança de assinatura básica da telefonia fixa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcf0e395150116cb0c934daa285b3c0f520258c11c8c55b133fc1123ab6682a1
+size 343

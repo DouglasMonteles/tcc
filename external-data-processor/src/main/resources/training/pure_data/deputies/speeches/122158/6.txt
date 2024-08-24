@@ -1,1 +1,3 @@
-Orientação de bancada do PMDB favorável ao parecer da Representação nº 17-A, de 2012, (que representa ao Conselho de Ética e Decoro Parlamentar contra o Deputado Carlos Alberto Leréia, PSDB/GO, por procedimento atentatório ao decoro parlamentar, tendo parecer do Conselho de Ética e Decoro Parlamentar pela sua procedência parcial, com aplicação de pena de suspensão do exercício do mandato pelo prazo de noventa dias).
+version https://git-lfs.github.com/spec/v1
+oid sha256:123c0440a41a1eaab1c3d3e50d9375db969ef847db97ba985a1cc99133c5d7ba
+size 434

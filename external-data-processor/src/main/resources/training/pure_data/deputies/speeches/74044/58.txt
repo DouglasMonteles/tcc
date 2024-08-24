@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo ao Requerimento de adiamento, por duas sessões, da votação do   Projeto de Lei 451 de 1995 (Dispõe sobre medidas de prevenção e repressão aos fenômenos de violência por ocasião de competições esportivas e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5b5cc2df0dc270e6ca16cac33389471390905ccbf5ba0bc0258d5ef662a88c1
+size 280

@@ -1,1 +1,3 @@
-Excelência da gestão do Governador do Estado do Espírito Santo, Renato Casagrande. Construção da Ciclovia da Vida e ampliação da Terceira Ponte entre os Municípios de Vitória e Vila Velha. Organização financeiro-orçamentária do governo capixaba. Instalação de Unidades Básica de Saúde - UBS nas municipalidades do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c810d7dc8e862b47a5b77174e4b100a992877ac43587369c47288ad7ccbf7328
+size 347

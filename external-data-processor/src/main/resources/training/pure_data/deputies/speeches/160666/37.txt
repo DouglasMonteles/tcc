@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda nº 109, apresentada à Medida provisória nº 783-A, de 2017, sobre instituição do Programa Especial de Regularização Tributária junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e409ee150e3de9e765cb70a70e5de68de9903672d2e18dd277a3afb51b723c0e
+size 266

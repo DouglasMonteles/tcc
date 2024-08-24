@@ -1,1 +1,3 @@
-Protesto contra o novo cálculo de reajuste do salário mínimo adotado pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91b91b78d0ba7b67f610ce4f5dfe613669e1c165563057256bad023ad91cafde
+size 93

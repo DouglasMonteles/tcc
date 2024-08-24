@@ -1,1 +1,3 @@
-Apoio à proposta de destinação de recursos do Fundo de Universalização dos Serviços de Telecomunicações - FUST para a democratização do acesso à informática nas redes de ensino público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9724c5118036b43e7e9c93f4369c71f62109840ad29bcc6a399b0e4a7dcb958
+size 198

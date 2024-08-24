@@ -1,1 +1,3 @@
-Necessidade de retratação do Ministro da Educação, Abraham Weintraub, com a bancada do Estado do Rio de Janeiro, pela publicação de vídeo calunioso a respeito da reconstrução do Museu Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58939d85f45ce5a378ec9d6890c1abe2fddad797c16ba75ba1d4cc5a1deeb0b9
+size 202

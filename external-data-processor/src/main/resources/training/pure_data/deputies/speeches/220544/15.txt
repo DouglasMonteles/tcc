@@ -1,1 +1,3 @@
-Atuação do orador como Vereador do Município de Porto Nacional e como Presidente da Assembleia Legislativa do Estado do Tocantins. Apoio ao Governador tocantinense Wanderlei Barbosa. Realização de obras nos setores de educação, saúde e infraestrutura do Estado do Tocantins. Relançamento do Programa Minha, Casa Minha Vida. Compromisso do orador com a defesa dos interesses da população tocantinense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e1c733d72b8ba2084918386c6277e022eba1ff3fba349f89c1f873abe6aecd6
+size 411

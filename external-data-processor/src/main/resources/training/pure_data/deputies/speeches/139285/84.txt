@@ -1,1 +1,3 @@
-Transcurso do Dia do Professor. Apelo a Governadores do PSDB de desistência da ação direta de inconstitucionalidade do piso salarial nacional do magistério público da educação básica. Relevância dos investimentos na educação. Avanço da aprovação da proposta de redução da jornada de trabalho dos profissionais da enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61526b701cdd8d030e5f38fa6debbe227c69fd75f7bdf2f1d08788138ea768e2
+size 340

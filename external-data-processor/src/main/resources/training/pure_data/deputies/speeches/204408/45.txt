@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Decreto Legislativo nº 159, de 2021, acerca da aprovação do texto da Emenda ao Acordo entre o Governo da República Federativa do Brasil e o Governo da República de El Salvador sobre Cooperação no Domínio da Defesa, assinada em Brasília, em 24 de outubro de 2017, ressalvados os destaques. Visita do presidente do Hospital de Amor de Barretos, Dr. Henrique Prata, às obras da unidade da instituição no Estado de Sergipe. Alcance social do empreendimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6751d2053e990ab2e7ac5e512d0becc8cba1ae1891153e6f8511471ba6d6343
+size 516

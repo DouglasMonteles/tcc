@@ -1,1 +1,3 @@
-Indignação com pintura de cruzamentos em Fortaleza e Sobral, Estado do Ceará, com as cores do arco-íris , em homenagem ao movimento LGBTQI+.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6acea8b9b05f7600993218348abef99b5bb2b97f4ddd936d0f06c6822e98f6dc
+size 144

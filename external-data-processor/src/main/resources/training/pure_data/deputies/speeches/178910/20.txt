@@ -1,1 +1,3 @@
-Elogio à Deputada Mariana Carvalho. Cumprimentos à Federação das Indústrias do Estado do Pará e ao Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - SEBRAE pela realização da XII Feira da Indústria do Pará - FIPA com o tema Inovação e Sustentabilidade na Indústria. Crítica à atuação de consórcios de empreiteiras na construção de grandes empreendimentos no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6f637ce26a2235b48a25f0453a43dac8dd4399e0f899f17dadb6dcbba3ba55d
+size 405

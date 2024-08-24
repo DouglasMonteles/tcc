@@ -1,1 +1,3 @@
-Posicionamento do orador favorável ao regime de aposentadoria especial dos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3316b544ae368cf9c819ad01932d5d383b96e2a5e1c978efa8b72f920ee620eb
+size 90

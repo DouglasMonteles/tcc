@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalho. Anseio pela aprovação de leis favoráveis à melhoria das condições de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27266196a93afad73f9ce3b52db6baf7ba457458a0bcb5366595de257a35d292
+size 115

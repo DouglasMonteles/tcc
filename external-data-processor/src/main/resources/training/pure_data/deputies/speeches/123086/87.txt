@@ -1,1 +1,3 @@
-Alerta aos Parlamentares sobre a necessidade de debate sobre a alteração do regramento do ensino à distância, tema em  discussão na Comissão de Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f8b8de5a57c3d46bdcc82adbe8e490689788b9d277549769f36297bd4933c26
+size 161

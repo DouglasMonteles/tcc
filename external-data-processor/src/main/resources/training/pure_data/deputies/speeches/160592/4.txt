@@ -1,1 +1,3 @@
-Solidariedade às populações atingidas por enchentes no Estado do Paraná. Regozijo com o desempenho da agropecuária paranaense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db720ba2af3c0aaf6a71a75b894b9eec05a40fe563cd5ad4f4b874082c812457
+size 131

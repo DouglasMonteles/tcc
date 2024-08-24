@@ -1,1 +1,3 @@
-Comissão Geral para debate do tema Revisão das regras para a organização e exploração das atividades de produção e veiculação de conteúdo audiovisual, em vista da convergência tecnológica entre comunicação social eletrônica e telecomunicações, proposto pelo Projeto de Lei nº 29, de 2007, e seus apensados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f03a51243901a5c7c26df7c3373287101ba895f446b966d8f378945cab52f18
+size 325

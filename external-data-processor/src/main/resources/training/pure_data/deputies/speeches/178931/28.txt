@@ -1,1 +1,3 @@
-Reapresentação pelo orador do Projeto de Lei nº 6.621, de 2013, sobre a realização de ações da campanha Outubro Rosa, de prevenção do câncer de mama, em âmbito nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0312c63664f7fc0db9e0040bfc9c367c220d1aa32f39b088872b33ad7a709ab9
+size 180

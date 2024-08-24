@@ -1,1 +1,3 @@
-Natureza eleitoreira da construção do navio petroleiro João Cândido, no Estado de Pernambuco. Repúdio às administrações federais petistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6634d57d8f284ec3d9329de52033d5166461cd9f902752b13805fed72f2b056c
+size 146

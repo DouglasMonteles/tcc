@@ -1,1 +1,3 @@
-Pedido ao Ministro da Saúde, Luiz Henrique Mandetta, de promoção de ações de combate ao agente transmissor da dengue no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aefac3c9dbbb974c6b65837f150c98cd911fd19f6a75842eba081cafc1032aed
+size 131

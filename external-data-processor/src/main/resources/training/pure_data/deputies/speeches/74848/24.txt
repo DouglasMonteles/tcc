@@ -1,1 +1,3 @@
-Encaminhamento da votação do § 3º do art. 8º do Projeto de Lei de Conversão da Medida Provisória 527 de 2011 (Altera a Lei  10.683  de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, cria a Secretaria de Aviação Civil, altera a legislação da Agência Nacional de Aviação Civil - ANAC e da Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO, cria cargo  de Ministro de Estado e cargos em comissão, dispõe sobre a contratação de controladores de tráfego aéreo temporários, cria cargos de Controlador de Tráfego Aéreo), que trata de critérios para obtenção  do custo global de obras e serviços de engenharia, no âmbito do Regime Diferenciado de Contratações Públicas - RDC, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37b5421f6e678cde5f77d2fac0f8ec3d466c1390921d16bb6c3fc0a8147bdbfc
+size 769

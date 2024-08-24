@@ -1,1 +1,3 @@
-Designação da oradora para Relatora do Projeto de Lei nº 988, de 2015, sobre a inserção de dispositivo na Lei nº 8.856, de 1.994, com vista ao estabelecimento do piso salarial dos profissionais fisioterapeutas e terapeutas ocupacionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04b7770c54a531b998a8afe49d7de289f9ad577009dbd696b94bcf41beda8adc
+size 242

@@ -1,1 +1,3 @@
-Repúdio à manifestação do Deputado Eduardo Bolsonaro, favorável à reedição do Ato Institucional nº 5 no caso de radicalização da Esquerda brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19c76749b2a2038cb69de2bbfd009b90694d04b2719fbe749e368f1d3788e13a
+size 160

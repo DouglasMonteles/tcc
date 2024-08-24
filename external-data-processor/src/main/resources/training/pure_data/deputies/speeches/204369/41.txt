@@ -1,1 +1,3 @@
-Congratulações aos Deputados Felipe Carreras e Celina Leão pelo trabalho em prol da modernização da Lei Geral do Esporte e da Lei Pelé. Saudação à comunidade esportiva presente na Casa. Solicitação à Presidência da observância de 1 minuto de silêncio pelo Plenário em razão do falecimento do médico José Vitor Trindade, filho do jornalista José Maria Trindade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd38757bd962f58411d1a2b75b4c900a9fc4b632e80446fc9fbb9e1f997cdc6b
+size 380

@@ -1,1 +1,3 @@
-Apresentação de emenda à Medida Provisória nº 521, de 2010, destinada à prorrogação da Gratificação de Gabinete ou Gratificação Temporária concedida a servidores lotados na Advocacia-Geral da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0778384838bd5d7832fcbb6adfeab11f3cd46fdf34f0e2778f54b732862d044b
+size 212

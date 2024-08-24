@@ -1,1 +1,3 @@
-Presença em plenário do representante da ONG Salve a Si, José Henrique da França, e do Presidente da Confederação Nacional de Comunidades Terapêuticas, Célio Barbosa. Reivindicação de mais aportes financeiros dos Governos Federal e Estaduais em políticas de recuperação de dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47549a4c93dc63a07fc31cde80cedef1935484fd73bd97e677ba5f1fd37e27c7
+size 308

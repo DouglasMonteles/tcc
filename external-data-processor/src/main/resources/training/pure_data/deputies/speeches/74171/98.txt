@@ -1,1 +1,3 @@
-Repúdio à ação ajuizada contra o ex-Deputado Federal João Alfredo, pela Secretaria do Meio Ambiente e Serviços Urbanos da Prefeitura Municipal de Fortaleza, em face da subscrição do artigo SOS Cocó: vitórias e perspectivas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5361c959052baaa118b27e4e392d12065c5831e2d022df61ada17802872dfaf3
+size 233

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Requerimento nº 2.156, de 2020, para apreciação em regime de urgência do Projeto de Lei nº 3.477, de 2020, acerca de medidas de garantia do acesso à internet, com fins educacionais, aos alunos e professores da educação de educação básica pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:031ec7817de2cebeab67f639853068b635c547069c85cbc6a42387154ec0ccfa
+size 298

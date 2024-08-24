@@ -1,1 +1,3 @@
-Discussão da  Medida Provisória 404 de 2007 (Altera o art. 41-A da Lei 8.213 de 1991, modificando a data de pagamento dos benefícios da Previdência Social).Ponderações sobre a obstrução política do PSDB às votações, em protesto contra o uso abusivo e indevido do instituto da Medida Provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9230f9d6ebd0ee3be70f7907995f6ebdf05ce6449bcae2375d2ea865beb9ad34
+size 307

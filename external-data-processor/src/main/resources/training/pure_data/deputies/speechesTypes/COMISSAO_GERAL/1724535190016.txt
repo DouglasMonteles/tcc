@@ -1,1 +1,3 @@
-Falecimento do ex-Prefeito Lairto Antônio de Almeida, do Município de Senador Amaral, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:527d991c7e2243d907cfe315b615cd796c6066f88e37c79effefb0d7ebcc9e88
+size 111

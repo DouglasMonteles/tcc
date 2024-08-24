@@ -1,1 +1,3 @@
-Interpelação ao relator sobre dispositivo do Projeto de Lei de Conversão da  Medida Provisória 413 de 2008 (Dispõe sobre medidas tributárias destinadas a estimular os investimentos e a modernização do setor de turismo, a reforçar o sistema de proteção tarifária brasileiro, a estabelecer a incidência de forma concentrada da contribuição para o PIS/PASEP e da Contribuição para o financiamento da Seguridade Social - COFINS na produção e comercialização de álcool, altera o art. 3º da Lei 7.689 de 1988, e dá outras providências), que que altera a apuração do Imposto Sobre Propriedade Territorial Rural -  ITR .
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca026329447dc94ab802f8b7d834d6e4cf15686caa6723a70a833db82ac10726
+size 639

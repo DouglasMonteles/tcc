@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar do Movimento Junino Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46cb9780d423028fb3398f1065a1c256af1f4c2c9c530de8e103182ddc13b205
+size 63

@@ -1,1 +1,3 @@
-Desempenho da Superintendência Regional da Companhia Nacional de Abastecimento - CONAB em Minas Gerais. Urgente necessidade de estabelecimento, pelo Ministério do Desenvolvimento Social e Combate à Fome, de termo de cooperação técnica com a CONAB com vistas à regularização de projetos das associações de agricultores familiares. Defesa de ampliação do quadro funcional do órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc2a89ac49742e39aaedcd63614d07d52dd58cedd114c239fe0dbe1541c1a565
+size 394

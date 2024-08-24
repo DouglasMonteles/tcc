@@ -1,1 +1,3 @@
-Garantias fundamentais, preceitos, princípios e direitos individuais vilipendiados em atos e decisões decorrentes da invasão das sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83f1ed287feefba57f42dc0553d3371383d62bc33f9091567fb1602f85c9dabd
+size 164

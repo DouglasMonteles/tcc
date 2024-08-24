@@ -1,1 +1,3 @@
-O Deputado destacou a importância da Companhia Nacional de Abastecimento (CONAB) em sua atuação estratégica para regular preços e garantir o abastecimento no Brasil. Celebrando os 33 anos da estatal, o parlamentar ressaltou a retomada de políticas de regulação de preços no mercado, como a compra de milho e parte do leite, em resposta às crises recentes nos setores. O Parlamentar criticou ações passadas que levaram à exportação excessiva de milho e à importação de leite, prejudicando produtores locais. Enfatizou que o atual Governo utiliza a estrutura estatal para implementar políticas públicas afirmativas, colaborando com diversos ministérios, e exaltou a atuação da CONAB na estabilização do mercado agrícola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5642e1fcf554442aaaff36645961dbb69bab7f13962ede8aefbe66019347b825
+size 744

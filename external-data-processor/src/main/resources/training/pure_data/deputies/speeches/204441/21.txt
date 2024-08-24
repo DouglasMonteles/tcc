@@ -1,1 +1,3 @@
-Necessidade de reflexão da Casa a respeito do clamor popular pela redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1683d02d88721368f5b7c2296cf96404ac10dbd1a40fb293e3f283fbfbb2cbbf
+size 97

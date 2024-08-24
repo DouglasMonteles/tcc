@@ -1,1 +1,3 @@
-O Deputado expressou sua preocupação com o falecimento de Cleriston Pereira da Cunha, que estava detido na Penitenciária da Papuda sob acusação de terrorismo. Embora seu advogado tenha alertado sobre sua condição de saúde e pedido sua liberdade provisória, o Supremo Tribunal Federal não despachou a solicitação. O Deputado criticou a postura ditatorial do Ministro Alexandre de Moraes, enfatizando o abuso na aplicação da prisão preventiva, que considera uma violação ao princípio da presunção de inocência. Ele pediu que o Ministro Alexandre de Moraes seja impedido de causar novas tragédias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a82fe7200c2887c6f12fdf07eb5a7ee49e82a259bf85019e657f3e646d3b98cd
+size 616

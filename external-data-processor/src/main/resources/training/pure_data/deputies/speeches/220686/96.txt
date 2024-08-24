@@ -1,1 +1,3 @@
-Polêmica gerada em torno da produção de biocombustíveis pelo Brasil. Responsabilidade de subsídios agrícolas pelo aumento nos preços de alimentos. Posicionamento contrário à proposta de criação da Contribuição Social para a Saúde e ao reajuste da taxa básica de juros, a Taxa SELIC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:133bfec3c7c5e1c316361ab28d14017974347b377f7b55d4e3e31fa7a1d515e8
+size 297

@@ -1,1 +1,3 @@
-Lançamento do livro Piauí: trajetória e transição econômica, de Marcio Pochmann e Alexandre Guerra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68b1881a6bd01847219bd61f40331591adb5b509f4007bc8117cc1157d2cbe9a
+size 105

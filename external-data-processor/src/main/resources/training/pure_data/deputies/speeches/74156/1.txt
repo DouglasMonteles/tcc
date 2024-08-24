@@ -1,1 +1,3 @@
-Repúdio ao atentado contra o Presidente do Timor-Leste, José Ramos-Horta. Conveniência de instituição do Grupo Parlamentar Brasil/Timor-Leste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c225bec99d65ceb91bab36e9ca8af7efd70cc40eb477f73da5441d610f30e65
+size 147

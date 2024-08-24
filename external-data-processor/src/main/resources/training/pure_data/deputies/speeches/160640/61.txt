@@ -1,1 +1,3 @@
-Apresentação de requerimento de moção de aplauso aos bombeiros militares do Estado de Minas Gerais pelo heroísmo no resgate de vítimas de acidente ambiental decorrente de rompimento de barragem de rejeitos minerais nos Distritos de Bento Rodrigues e Paracatu de Baixo, no Município mineiro de Mariana. Presença do Prefeito do Município de Mariana em comitiva da Comissão Mista Permanente sobre Mudanças Climáticas na Conferência das Nações Unidas sobre Mudanças Climáticas, em Paris, França.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb53e749f86f461d78c83a9dc1ee2c5d91835ecb2c0f955980a1ae2a4c0bab74
+size 509

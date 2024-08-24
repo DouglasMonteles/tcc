@@ -1,1 +1,3 @@
-Apresentação de moção de aplausos à policial militar Katiusce Ferreira Rezende, pela reação contra tentativa de assalto em Goiânia, Estado de Goiás. Homenagem às mulheres de destaque na caserna militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bc1233d19a1a29da3e350888cc1aa157d2cedb297e42af2d4e0f6b84aa41a97
+size 212

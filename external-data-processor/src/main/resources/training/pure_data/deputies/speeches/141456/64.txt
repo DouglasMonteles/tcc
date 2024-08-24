@@ -1,1 +1,3 @@
-Esclarecimento sobre a proposta de alteração  de dispositivo da chamada Lei Kandir. Convocação dos Deputados do PT ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f17fd68d2c6a82d5f0a5552f6c56752f2088ae30870fbead9e62774603ad7cec
+size 132

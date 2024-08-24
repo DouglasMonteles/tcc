@@ -1,1 +1,3 @@
-Transcurso de aniversário natalício do Presidente da Câmara Municipal de Fortaleza, Vereador Salmito Filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1e2cf5b41e021be6553b1815a28a69dc529368c8c55abf2c406d58fbf24b115
+size 110

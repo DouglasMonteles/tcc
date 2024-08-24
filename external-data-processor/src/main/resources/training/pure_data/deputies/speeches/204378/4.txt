@@ -1,1 +1,3 @@
-Contestação a pronunciamento sobre a utilização de candidaturas laranjas pelo PSL. Orientação de bancada na votação da admissibilidade dos requerimentos de destaque simples.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4950df600555f957fa591be04031816cd8769e7a116efb632aef9a6d0f947198
+size 181

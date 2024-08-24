@@ -1,1 +1,3 @@
-Anúncio de lançamento, pelo décimo ano consecutivo, da Campanha da Melhoria da Qualidade e Início da Colheita do Café do Espírito Santo, no Município de Pinheiros. Importância da cafeicultura como instrumento de geração de emprego e renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f89ad4c7e471fb426c3b86c8ad166a56af1905e80da2d068d8fa500a64b34a2
+size 249

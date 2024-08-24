@@ -1,1 +1,3 @@
-Aumento da inflação e da inadimplência no País. Anacronismo da política externa adotada pelo Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7797cac17b2a2c79156095baeaf39e73a3dbcd0fca8794c33f3c6139ccd5d5c
+size 133

@@ -1,1 +1,3 @@
-Ação do Governador Flávio Dino para a viabilização de investimentos de empresários chineses no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:536758315cb3770e66d53ba2298fa803b4c9347060a9404275d972cee0cb2134
+size 121

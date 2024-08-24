@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo   à Emenda 15, destacada, ao Projeto de Lei de Conversão da Medida Provisória 544 de 2011 (Estabelece normas especiais para as compras, as contratações de produtos, de sistemas de defesa, e de desenvolvimento de produtos e de sistemas de defesa, e dispõe sobre regras de incentivo à área estratégica de defesa e dá outras providências), que tem como objetivo corrigir os prejuízos a Estados e Municípios decorrentes do uso pelo Governo federal de uma política de incentivos verticais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a80e72f932ec9d04d40d57e020be517c2c80d9819c42dc91bf61f8afe1b86f7
+size 535

@@ -1,1 +1,3 @@
-Congratulações ao povo boliviano pela deposição do presidente do país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0260a3c130610a443c65a2b0ed071534d631f9919014f38808cdbea643c5a554
+size 75

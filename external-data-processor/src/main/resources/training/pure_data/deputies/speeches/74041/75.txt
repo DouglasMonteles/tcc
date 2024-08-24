@@ -1,1 +1,3 @@
-Aprovação de relatório apresentado pelo Deputado Vicentinho Alves pela CPI destinada à investigação das causas de mortes de crianças indígenas. Não-divullgação da matéria pelo Jornal da Câmara. Decisão do Ministro da Previdência Social, Luiz Marinho, e da Ministra do Turismo, Marta Suplicy, de afastamento dos respectivos cargos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c570e9f3d395e86a86323eefc70ad4e2c94b731e23a3dfe3d98c7c2e64cebd9
+size 345

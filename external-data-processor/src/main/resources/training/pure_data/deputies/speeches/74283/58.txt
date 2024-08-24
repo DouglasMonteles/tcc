@@ -1,1 +1,3 @@
-Homenagem póstuma ao Prefeito João Lisboa da Cruz, do Município de Gurupi, Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d82334bdef2507fb6c83077b15e832e2f9792c7818c6903898a2a40d1a56bf9e
+size 98

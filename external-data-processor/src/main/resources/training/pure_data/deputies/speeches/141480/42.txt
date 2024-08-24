@@ -1,1 +1,3 @@
-Apoio à aprovação do Projeto de Lei nº 3.157, de 2012, sobre a criação do Cadastro Nacional de Instrumentos Fixos de Fiscalização Eletrônica de Trânsito - CIFET.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53af57510a1e7dcdb2956bc26695805b1429caeab22288f0400504ec4b88eff5
+size 171

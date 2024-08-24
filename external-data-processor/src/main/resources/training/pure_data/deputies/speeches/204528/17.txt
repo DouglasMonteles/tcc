@@ -1,1 +1,3 @@
-Contestação a pronunciamento da Deputada Soraya Manato sobre a adoção, por Deputados do partido NOVO, de posicionamento demagógico quanto ao financiamento de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89f8b2e4a35e7091534397f313eb2569db7c33ebde15661d2eb6932e65b835d3
+size 184

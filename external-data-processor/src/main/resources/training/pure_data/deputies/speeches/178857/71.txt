@@ -1,1 +1,3 @@
-Denúncia de tentativa de criminalização dos movimentos sociais pelo Governo Michel Temer. Contrariedade à instalação da CPI da União Nacional dos Estudantes. Inconformismo com o fim das manifestações populares em defesa do combate à corrupção no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a27bf357b3e3e6f70e1db4d1ac4206b24d5045996d6d2578cd197ee9c21ffe50
+size 264

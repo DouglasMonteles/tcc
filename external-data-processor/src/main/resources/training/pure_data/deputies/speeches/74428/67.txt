@@ -1,1 +1,3 @@
-Apresentação, à Comissão de Constituição e Justiça e de Cidadania, de recurso contra a decisão da Presidência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa0ebf283f76138275546564bb3b95b5a8e6cae83e819f71be9118d6e4969502
+size 119

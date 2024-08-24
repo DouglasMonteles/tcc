@@ -1,1 +1,3 @@
-Regozijo com a aprovação do Projeto de Lei nº 1.438, de 2019, de autoria do orador, (apensado ao PL 6.579, de 2013), sobre a alteração da Lei nº 7.210, de 1984, (Lei de Execução Penal), com vista à vedação de saídas temporárias de presidiários. Definição de fontes de custeio do piso salarial nacional dos profissionais da enfermagem e da parteira, instituído pelo Projeto de Lei nº 2.564, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:035361cc9d0d304242730f1fabcebb2ab07c7b47ee2b66b3b63f4da04ac3558e
+size 416

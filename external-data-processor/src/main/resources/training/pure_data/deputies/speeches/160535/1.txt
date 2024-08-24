@@ -1,1 +1,3 @@
-Apelo às autoridades governamentais de intensificação das medidas de apoio à população do Município de Sousa, atingida por inundação, no Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6bdb1341101473ea6eac4d1daf099c2f2ce046e885f790e9a14e5a1df49c645
+size 165

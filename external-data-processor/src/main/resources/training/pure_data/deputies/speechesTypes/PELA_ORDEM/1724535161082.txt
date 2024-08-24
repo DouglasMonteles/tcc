@@ -1,1 +1,3 @@
-Apoio do DEM ao mérito do Projeto de Decreto Legislativo 571 de 2012 (Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da Republica Federal da Alemanha sobre Cooperação em Matéria de Defesa, assinado, em Berlim, em 8 de novembro de 2010).   Manutenção do requerimento de retirada da matéria da pauta, em face da falta de parecer da Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f926b8b7093ddc11c27c85607dd075258d0c9ae3cdd491bfa8890855a1891cbe
+size 432

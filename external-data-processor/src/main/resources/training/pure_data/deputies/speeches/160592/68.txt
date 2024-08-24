@@ -1,1 +1,3 @@
-Lançamento  pelo Governo Federal do Plano Safra da Agricultura Familiar 2015/2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbffcc570f40906b5d73764c90e74ffde2fef25debcd2fd8dac7b2cc33d8f4c9
+size 83

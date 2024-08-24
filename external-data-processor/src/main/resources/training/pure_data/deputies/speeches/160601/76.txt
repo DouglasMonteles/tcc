@@ -1,1 +1,3 @@
-Acerto da abertura do processo de impeachment contra a Presidenta Dilma Rousseff. Conclamação do povo brasileiro para mobilização em prol da destituição do Governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:264dfd6b245bdeea55192178b3bbe611988c027ea05d9632038b6887ae44cd60
+size 178

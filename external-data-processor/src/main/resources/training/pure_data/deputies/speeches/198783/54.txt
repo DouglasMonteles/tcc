@@ -1,1 +1,3 @@
-Contestação ao discurso do Deputado Abílio Brunini a respeito da gestão do Prefeito Municipal de Cuiabá, Emanuel Pinheiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68aedafcce0f4f117c6e9c3259451ea0b0fee53c9d5a5535999088885c3a806a
+size 127

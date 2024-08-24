@@ -1,1 +1,3 @@
-Acerto da decisão do Governo Federal de concessão de auxílio financeiro aos municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8471342cfa3b3218e5db5342d48b28ae779b5e898a1dfac11b0a239821e48b4
+size 103

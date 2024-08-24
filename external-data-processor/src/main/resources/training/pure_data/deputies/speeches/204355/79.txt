@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Veto Parcial nº 59, de 2020, aposto ao Projeto de Lei do Congresso Nacional nº 9, de 2020, relativo às diretrizes para elaboração e execução da Lei Orçamentária de 2021. Solidariedade ao povo brasileiro diante da tragédia causada pela epidemia de coronavírus no País. Votos de sucesso ao novo Ministro da Saúde, Marcelo Queiroga. Necessidade de vacinação em massa da população brasileira contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:578e3b105c8f99142f933fd347d3b890f9b4f2906518716db428be832d3ec6a2
+size 463

@@ -1,1 +1,3 @@
-Reclamação contra a permanência indevida no plenário  de Assessores da Casa Civil da Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98e320ade0a0ab902809ace4ec3747ce27ccb67bc489e233bd51b821ad36a1fd
+size 116

@@ -1,1 +1,3 @@
-Prioridade dos Parlamentares na contenda político-ideológica, em detrimento da discussão de matérias de relevante interesse do povo brasileiro e do País. Defesa de exploração da energia solar no Brasil. Importância de incentivo ao uso de carros elétricos. Necessidade de debate pela Casa de propostas de combate à fome e de melhoria do sistema escolar brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9950e4a3958b363cd8a822e2b2c44ea3407c3b910c52ecac9adb5961c4fbc95e
+size 373

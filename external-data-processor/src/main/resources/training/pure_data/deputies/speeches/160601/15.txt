@@ -1,1 +1,3 @@
-Homenagem à memória dos cristãos armênios vítimas de genocídio durante a Primeira Guerra Mundial. Solicitação ao Governo Federal de reconhecimento público do genocídio do povo armênio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a09bea5fc4c4d284fe38f1c7b619c2fd65e4f5db7de7602e6473481d297c8de
+size 195

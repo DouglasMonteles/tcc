@@ -1,1 +1,3 @@
-O Deputado destacou a importância das obras de infraestrutura para o desenvolvimento e competitividade do Brasil. Criticou a longa duração da duplicação da BR-116 no Rio Grande do Sul, iniciada em 2009 e que ainda está em andamento, apesar de quatro governos e presidentes terem passado. Enfatizou a necessidade de contínua mobilização para concluir a obra, pois obras paradas representam prejuízo. Além disso, abordou a questão dos pedágios na região sul do Rio Grande do Sul, onde as tarifas são consideravelmente altas em relação à realidade socioeconômica da região. Por fim, prometeu lutar por um sistema de pedágios mais justo que promova o crescimento, o emprego e a competitividade na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a382647b87d1e3ca20b90e1d9e130dbd734faf888d9bc6cf800ec9bdd000a9f
+size 722

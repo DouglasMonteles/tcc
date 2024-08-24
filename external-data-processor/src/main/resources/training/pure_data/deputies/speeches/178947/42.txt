@@ -1,1 +1,3 @@
-Solidariedade aos moradores dos Municípios de Mariana e Governador Valadares, Estado de Minas Gerais, diante do rompimento de barragem de rejeitos de mineração. Insuficiência das ações do Governo Federal para resolução dos problemas decorrentes da falta de água potável em Governador Valadares. Necessidade de ações destinadas à prevenção de atos terroristas no Brasil. Crise na saúde pública do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30dc4510ef4ec09d2c047714fb0c953ddf94c9526e816f2edfb2683b4bede5ad
+size 438

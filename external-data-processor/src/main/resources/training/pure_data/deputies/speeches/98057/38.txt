@@ -1,1 +1,3 @@
-Repúdio à decisão judicial sobre a transferência do ex-Presidente Luiz Inácio Lula da Silva para a penitenciária de Tremembé, no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9ede2512456f15c5ba388dc21af58b8e9e0348cb3f40e83f63deed3a6e98886
+size 157

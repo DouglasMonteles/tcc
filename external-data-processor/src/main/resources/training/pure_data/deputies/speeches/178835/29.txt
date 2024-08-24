@@ -1,1 +1,3 @@
-Visita do orador a Municípios da fronteira oeste do Estado do Rio Grande do Sul. Preocupação com a condução da política macroeconômica e com as possíveis consequências negativas para a sociedade brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfbb1c1555db3fba57944589f856cd4b4e7affd50e5c6e3e3169e37d4ef85d53
+size 215

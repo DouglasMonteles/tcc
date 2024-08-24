@@ -1,1 +1,3 @@
-Imediata conclusão da Ferrovia do Sertão, em face do adiamento da construção do trecho pernambucano da Ferrovia Transnordestina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3199e1737cab1969d99abb0cf46cfccbd0b22bc58dde65b09b5f895184d941d0
+size 132

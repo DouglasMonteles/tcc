@@ -1,1 +1,3 @@
-Transcurso do 21º aniversário de criação do Código de Defesa e Proteção do Consumidor. Necessidade de avanços e aperfeiçoamento do diploma legal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41d84d6703dea261ddad775687322cea00f41f67e0000714a821e83895c4fa90
+size 154

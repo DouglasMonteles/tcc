@@ -1,1 +1,3 @@
-Aprovação, pela Comissão Especial, do parecer oferecido pelo Relator à proposta de regularização da situação jurídica de Municípios brasileiros. Proficuidade da reunião entre o Governador do Estado do Ceará, Cid Gomes, a Prefeita Municipal de Fortaleza, Luizianne Lins, e a respectiva bancada federal, destinada ao debate da apresentação de emendas ao Orçamento Geral da União de 2009.
+version https://git-lfs.github.com/spec/v1
+oid sha256:089490e02766ffb15d59c93b0feede22430c25c1e59888fbbce34a887a1c50f6
+size 401

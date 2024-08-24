@@ -1,1 +1,3 @@
-Corroboração do compromisso de atuação parlamentar em defesa da saúde pública do Estado de Goiás e do Brasil. Solicitação à Presidência da Casa de promoção da semana da saúde, destinada à votação de proposições relativas ao setor, especialmente às pertinentes ao Sistema Único de Saúde - SUS. Reiteração da luta do orador em defesa da primeira Infância e da classe médica. Defesa de manutenção do veto presidencial aposto ao dispositivo da Medida Provisória nº 890, de 2019, relativo ao Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira - REVALIDA. Agradecimento aos membros da Comissão de Seguridade Social e Família pela indicação do nome do orador ao Prêmio Nobel de Medicina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11ad51a4e6f7c592581d0b08d2825e933032795eb977148d40efd5f69dc779f7
+size 780

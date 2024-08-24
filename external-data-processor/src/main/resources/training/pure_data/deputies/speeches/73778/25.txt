@@ -1,1 +1,3 @@
-Críticas à execução orçamentária de emendas individuais e de bancada ao Orçamento da União de 2007.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3a56bec47d21ae2d1aa37a51c6b3548d743de84a0e623529a20d22cd8699945
+size 107

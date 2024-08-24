@@ -1,1 +1,3 @@
-Imediata votação pela Casa do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:188114f87d11a5c50f16f066ccca10f663aea5fb822e2f58f135e330baa9f2b2
+size 66

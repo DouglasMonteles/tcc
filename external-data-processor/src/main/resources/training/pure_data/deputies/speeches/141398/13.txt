@@ -1,1 +1,3 @@
-Realização de campanha eleitoral pelo Governador do Estado de São Paulo, José Serra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5a76d22de01006955bd5604758fc765e83c2c38660589a77b96481fef0c6d4e
+size 88

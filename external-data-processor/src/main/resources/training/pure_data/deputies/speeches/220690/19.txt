@@ -1,1 +1,3 @@
-Prática de corrupção e outros crimes pelo Governo Luiz Inácio Lula da Silva. Facilitação pelo Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, general Marco Edson Gonçalves Dias, do acesso de vândalos às dependências do Palácio do Planalto. Expectativa quanto ao comparecimento do Ministro-Chefe do GSI à Comissão de Segurança Pública e Combate ao Crime Organizado Imediata instalação da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:956af57945e14dadb46af19cf0822ee6c9de73942d8536d1f426494d6357a4fe
+size 554

@@ -1,1 +1,3 @@
-Encaminhamento, ao Ministério da Infraestrutura e ao Departamento Nacional de Infraestrutura de Transportes - DNIT, de expediente a respeito da conclusão do asfaltamento e recuperação das BRs-230 e 163, no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26a5860606ef6b22c99f9d727318d85415cec7d557c458eccd838f3f28796df0
+size 226

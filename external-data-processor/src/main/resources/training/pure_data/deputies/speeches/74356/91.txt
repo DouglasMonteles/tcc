@@ -1,1 +1,3 @@
-Reajuste dos valores do Programa Bolsa Família. Participação do orador da Comissão de Constituição e Justiça e de Cidadania; na Comissão de Ciência e Tecnologia, Comunicação e Informática e na Frente Parlamentar Evangélica. Desempenho do Governador do Estado do Amazonas, Eduardo Braga.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2653d023fdf9e8a9a34a7966a2ac40edba7575ef0d21b0012d168881882b0d58
+size 299

@@ -1,1 +1,3 @@
-Efeitos socioambientais decorrentes do rompimento de barragem da empresa Samarco Mineração S/A, no Município de Mariana, Estado de Minas Gerais. Importância do Projeto de Lei nº 5.513, de 2106, sobre o agravamento da pena imposta aos responsáveis por crimes ambientais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13792cad44240b14a3b816e1e824e8b77d2422e3426b7a80f6df50e18dece0e9
+size 275

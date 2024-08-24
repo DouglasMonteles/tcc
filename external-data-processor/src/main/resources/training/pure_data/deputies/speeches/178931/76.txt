@@ -1,1 +1,3 @@
-Regozijo com o desempenho do PSB nas eleições municipais de 2016, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee46094ce79884dcf7e42851a05ae5ec8449eb1b7dde3b49cbbb6b4efe6342fd
+size 89

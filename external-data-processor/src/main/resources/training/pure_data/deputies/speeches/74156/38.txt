@@ -1,1 +1,3 @@
-Visita da Ministra-Chefe da Casa Civil, Dilma Rousseff, a Belo Horizonte, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4de8e950de5d5fe99025c0b7af78015b2dd2a3bc501da3b391a3b8e46f96e87
+size 97

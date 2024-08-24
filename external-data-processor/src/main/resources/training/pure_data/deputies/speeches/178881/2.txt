@@ -1,1 +1,3 @@
-Posse da nova diretoria da Federação Nacional dos Policiais Federais - FENAPEF. Presença na Casa dos futuros Presidente e Vice-Presidente do órgão, Luís Antônio Boudens e Flávio Werneck, respectivamente, e do Agente Federal Newton Ishii.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d7fed5ce0319aae2f96a4f7706da68c23353b4111fcedeaba083a7bad4a8fd8
+size 245

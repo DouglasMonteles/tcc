@@ -1,1 +1,3 @@
-Registro da presença de convidados à sessão solene em comemoração ao transcurso dos 173 anos da Revolução Farroupilha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15755e213eea36d0ec22d342682ad50d1b51b578da0c9ca9069c180eab1ed4e9
+size 125

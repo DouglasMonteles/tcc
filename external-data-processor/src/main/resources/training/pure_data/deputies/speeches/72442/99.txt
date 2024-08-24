@@ -1,1 +1,3 @@
-Transcurso do Dia do Profissional de Educação Física. Importância da prática de educação física para a saúde. Defesa da realização de investimentos na área de educação física. Necessidade de melhoria das condições salariais dos profissionais de educação física, e de estabelecimento da carga horária da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9494f820fe63936df791fddd72e05f209f0c55c7fd466fdafec93a29a4018269
+size 334

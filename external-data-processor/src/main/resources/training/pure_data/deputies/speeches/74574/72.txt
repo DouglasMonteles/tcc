@@ -1,1 +1,3 @@
-Congratulações à Justiça Federal por reintegração de posse de áreas invadidas por indígenas no Município de Itaju do Colônia, Estado da Bahia. Anúncio de solicitação de providências ao Ministro da Justiça e Segurança Púbica, Osmar Serraglio, para cumprimento da decisão judicial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3466b5ff3b325953b63ad6d191d367737d4810c81a5a0b4704f6ec55e6a2b65
+size 297

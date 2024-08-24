@@ -1,1 +1,3 @@
-Protesto contra os preços exorbitantes de passagens aéreas de Brasília para o Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a5287caf371fdedf0087173d26840bb96d57346c5e2046fcacbf712c31f5f16
+size 101

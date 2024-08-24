@@ -1,1 +1,3 @@
-Esclarecimentos a respeito do § 3º do art. 3º do Substitutivo apresentado ao Projeto de Lei Complementar nº 343, de 2017, que institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d71aa7234de51185350bab9434e62178671dca327926e3d745d4432ee190646
+size 206

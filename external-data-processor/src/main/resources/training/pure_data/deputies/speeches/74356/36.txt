@@ -1,1 +1,3 @@
-Desempenho dos Prefeitos Municipais de Boca do Acre, Pauini, Canutama e Beruri, Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc00f4427adf91a577870bf3c91cc2b3fbfe8ca855a70452c3f224069b2f7cd4
+size 99

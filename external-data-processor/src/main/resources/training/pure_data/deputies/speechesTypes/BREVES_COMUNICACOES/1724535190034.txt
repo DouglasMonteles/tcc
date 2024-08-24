@@ -1,1 +1,3 @@
-Repúdio aos ataques verbais desferidos por Deputadas da Oposição contra o Presidente da Comissão de Constituição e Justiça e de Cidadania, Deputado Felipe Francischini, durante a  votação do parecer oferecido à Proposta de Emenda à Constituição nº 410, de 2018, sobre a prisão do réu após a condenação judicial em segunda instância. Defesa de aprovação da matéria pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee3080ffa2efee433625a0db71fbd534c9631152d440476893d95f95a3da13e4
+size 414

@@ -1,1 +1,3 @@
-Repúdio à Portaria nº 230, de 2023, do Ministério da Saúde, sobre a instituição do Programa Nacional de Equidade de Gênero, Raça e Valorização das Trabalhadoras no Sistema Único de Saúde — SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cccd8e762318d67ee001b5d75b36ce90068f64dcca4dd9673697d22e0e5f99e5
+size 208

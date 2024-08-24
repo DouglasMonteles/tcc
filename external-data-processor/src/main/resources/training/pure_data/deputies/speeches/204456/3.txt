@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 886, de 2021, sobre alteração da Lei nº 9.277, de 1996, para disposição sobre a cobrança de pedágio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a80a3a0b5092b9f717fef9e5528dcd28b4828e9de84125fba9cf1eb053e5ad6
+size 149

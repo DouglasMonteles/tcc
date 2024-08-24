@@ -1,1 +1,3 @@
-Associação à luta da população contra decisão da Agência Nacional de Telecomunicações - ANATEL de concordância com a imposição de limite de uso de dados para o acesso à Internet pelas operadoras de telefonia. Solicitação à Comissão de Ciência e Tecnologia, Comunicação e Informática e à Comissão de Defesa do Consumidor da Câmara dos Deputados de atenção ao assunto. Defesa da promoção de estudo com vista à modernização do marco legal das telecomunicações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66b7cd3c251d0d04fa9dab1c11c2aaa7687faf1d1858eba10498bed031aa4357
+size 490

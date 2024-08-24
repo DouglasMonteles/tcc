@@ -1,1 +1,3 @@
-Mobilização de policiais e bombeiros militares do Estado de Minas Gerais pela aprovação do piso salarial nacional. Saudação ao Deputado Estadual, Sargento Rodrigues, pelo empenho na luta das corporações por melhores salários e condições de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52cf05393b621cf96e2dadaed9794db5e817bbff61349fd0cc68e2c580837f7b
+size 260

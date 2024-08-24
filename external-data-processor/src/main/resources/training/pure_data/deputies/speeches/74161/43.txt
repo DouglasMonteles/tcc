@@ -1,1 +1,3 @@
-Vigência da Lei de Acesso à Informação Pública. Importância do Diploma Legal para o combate à corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87a071eabdb4c589766d5177356f42b11e562e91ffb6d15b097dba80bc667395
+size 113

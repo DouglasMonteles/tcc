@@ -1,1 +1,3 @@
-Posicionamento favorável do PSC  ao  Recurso contra o parecer da Comissão de Finanças e Tributação  pela inadmissibilidade da Emenda 7 ao  Projeto de Lei 5.798 de 2009 (Institui o Programa de Cultura do Trabalhador, cria o Vale-Cultura e dá outras providências), que concede Vale-Cultura aos  aposentados  no valor de 30 reais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:110120ed697a48beab9a4489aee7482fe3faf25ebcc4b920b7cb1b61a775cb85
+size 334

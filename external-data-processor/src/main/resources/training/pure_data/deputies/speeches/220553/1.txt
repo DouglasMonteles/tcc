@@ -1,1 +1,3 @@
-Importância da recriação do Programa Minha Casa, Minha Vida pelo Presidente Luiz Inácio Lula da Silva. Expectativa de conclusão de obras de unidades residenciais no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85a4cf99ad284ea4e6aa48300e0063c103ad45b3c2502f3e724e22a87a1f9ca3
+size 198

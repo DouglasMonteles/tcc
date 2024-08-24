@@ -1,1 +1,3 @@
-Divulgação de dados do Ministério do Desenvolvimento Social e Combate à Fome sobre os programas de transferência de renda do Governo Federal. Relevância dos programas sociais e do Programa de Aceleração do Crescimento - PAC para a melhoria das condições de vida dos brasileiros, em especial dos nordestinos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df7896c61dfbb353c8b1fbf0cbb9eab2ac02240fce1072a7523984945e6770e
+size 317

@@ -1,1 +1,3 @@
-Protesto contra a dissolução, pelo Ministério da Educação, da diretoria responsável pela ampliação e execução dos colégios cívico-militares. Convocação do Ministro Camilo Santana para esclarecimento do assunto à Câmara dos Deputados. Encaminhamento, à Comissão de Educação, de requerimento de audiência pública para debate do papel desenvolvido pelos colégios cívico-militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1329a2716dadbda150492a5699f5b6b3b125665841920a96bcdbc974a5898ec0
+size 401

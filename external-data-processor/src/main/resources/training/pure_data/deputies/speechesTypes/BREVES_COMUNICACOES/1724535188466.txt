@@ -1,1 +1,3 @@
-Realização do IV Fórum Nacional de Saúde Ocular, no Auditório Petrônio Portella do Senado Federal. Presença no evento do pesquisador e palestrante Jacó Lavinsky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cfbc3898831e17a78ce7db5ea2b9aee99eef701640887dd5b826ee5c1fbf97b
+size 169

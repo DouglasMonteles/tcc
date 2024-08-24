@@ -1,1 +1,3 @@
-Expectativa de continuidade do debate de pontos importantes sobre a proposta de redução da maioridade penal no Brasil. Preocupação com a continuidade do debate sobre reforma eleitoral. Necessidade de aperfeiçoamento do sistema político brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:357850b364ffb0bfa49cc87f3a7e4e2279a5d0f9357b2b5dd3a42c8d103bbb0b
+size 253

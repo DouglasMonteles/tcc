@@ -1,1 +1,3 @@
-Questão de ordem sobre a retirada pelo orador da assinatura aposta à Proposta de Emenda à Constituição nº 171, de 2019,  sobre a alteração da sistemática de atuação sindical no Brasil e a criação do Conselho Nacional de Organização Sindical - CNOS, com participação paritária de trabalhadores e de empregadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2b42fde5f11e686c064d92dc503d81b9f4612e8201ca5c766ea4056d8bd5c93
+size 329

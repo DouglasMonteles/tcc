@@ -1,1 +1,3 @@
-Transcurso do 131º aniversário de sanção da Lei nº 3.353, de 1888, a Lei Áurea, sobre a abolição da escravatura no Brasil. Respeito do orador ao movimento negro brasileiro. Importância da união entre brancos, negros e mestiços em prol do desenvolvimento do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc8c55fd2e717a68cfec7b1669ca4f691547f207d7d91d9b2886c22d2dc9d41e
+size 274

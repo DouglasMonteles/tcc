@@ -1,1 +1,3 @@
-Usurpação da prerrogativa legiferante do Poder Legislativo pelos Poderes Executivo e Judiciário. Importância de matérias constantes na pauta de votações da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:194c644ce217f68b265def32ebcad2368dc771a3c1ff7e687b8c675891df28ed
+size 168

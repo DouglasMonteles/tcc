@@ -1,1 +1,3 @@
-Transcurso do 173º aniversário de criação da Polícia Militar do Estado do Ceará. Ações da instituição em defesa dos direitos da criança e do adolescente. Extensão do programa Ronda do Quarteirão a municípios do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:342006370cd8249ae86a13854fb17278ea510f6131919afe08f0730ec9229b92
+size 232

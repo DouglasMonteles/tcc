@@ -1,1 +1,3 @@
-Realização de amplo debate do Projeto de Lei nº 4.199, de 2020, acerca da instituição do Programa de Estímulo ao Transporte por Cabotagem - BR do Mar; e da alteração das Leis de nºs 5.474, de 1968; 9.432, de 1997; 10.233, de 2001; e 10.893, de 2004. Reiteração do pedido de retirada da urgência para a tramitação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25e5f501438c004a15f62f10201de9698c73cc559bfc38c0968be63aae847f31
+size 342

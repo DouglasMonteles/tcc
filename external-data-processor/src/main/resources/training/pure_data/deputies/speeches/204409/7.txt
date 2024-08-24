@@ -1,1 +1,3 @@
-Transcurso do cinquentenário de fundação da Universidade Federal de Pelotas - UFPEL, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1c81228568396928987ba944900fcd7a1016708c2dabccab926ad20d4660585
+size 119

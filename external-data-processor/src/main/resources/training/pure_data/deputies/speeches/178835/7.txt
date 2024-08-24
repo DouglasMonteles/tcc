@@ -1,1 +1,3 @@
-Preocupação com o processo deliberativo da reforma política e conteúdo do relatório da Comissão Especial. Dúvidas sobre o apoiamento ao ajuste fiscal do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff4520c89ddb75a014ef9eceed0dc232226b903f4b7baf4572450e746c47197e
+size 176

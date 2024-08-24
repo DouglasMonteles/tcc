@@ -1,1 +1,3 @@
-O Deputado convidou os parlamentares paraenses para participarem em reunião da Comissão Especial da Transição Energética e Produção do Hidrogênio que será realizada no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:584162915cc1af9979a24d61f7b91c82f219dde362a30e61edd04d997228d062
+size 193

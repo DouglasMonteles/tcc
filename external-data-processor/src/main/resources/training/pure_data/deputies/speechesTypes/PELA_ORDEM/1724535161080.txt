@@ -1,1 +1,3 @@
-Contrariedade do DEM ao cancelamento da Ordem do Dia. Felicitações ao Deputado Inocêncio Oliveira por sua dedicação à Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd279ebd808fd93bf154346a6830501f05a6bc9b2dd98973399b284360022693
+size 129

@@ -1,1 +1,3 @@
-Preocupação do orador com os reflexos da proposta governamental de reforma tributária sobre os Estados da Região Norte. Exigência de manutenção de incentivos fiscais concedidos às Áreas de Livre Comércio e à Zona Franca de Manaus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03c5a077b5f8f4cf55a4b1ff48c08302e9dfeed2426589a63b120a92ee0dc6ae
+size 241

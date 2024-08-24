@@ -1,1 +1,3 @@
-Realização da 11ª Marcha a Brasília em Defesa dos Municípios. Fatores determinantes da disseminação da dengue no Rio de Janeiro. Apresentação do Projeto de Lei nº 2.808, de 2008, sobre a obrigatoriedade  de divulgação, pelas empresas de transporte coletivo urbano, de mensagens preventivas de doenças epidêmicas ou sexualmente transmissíveis e contra o tabagismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bcefd257106185327eb4e12505b85aa4e1d162832c0b84b9b20cbb9e6c4b9be
+size 378

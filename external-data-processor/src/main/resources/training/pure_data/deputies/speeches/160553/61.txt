@@ -1,1 +1,3 @@
-Presença em reunião com hospitais filantrópicos do Estado de São Paulo para debate sobre a necessidade de reajuste da tabela de procedimentos do Sistema Único de Saúde - SUS. Apoio do Ministério da Saúde a hospitais filantrópicos do Município de Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6922c3546712f9bdbc5138e8d659b09797171bc258325ced03bc97977ef3d1b1
+size 282

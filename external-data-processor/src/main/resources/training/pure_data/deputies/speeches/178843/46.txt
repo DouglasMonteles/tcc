@@ -1,1 +1,3 @@
-Contrariedade à taxação do seguro-desemprego, preconizada na Medida Provisória nº 905, de 2019, sobre a instituição do Contrato de Trabalho Verde e Amarelo e a alteração da  legislação trabalhista brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d59b0fc7c5c462e752dcbdc534c622e5530ba7ec402297ac5f29b75d7cbfc019
+size 219

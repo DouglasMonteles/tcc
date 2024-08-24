@@ -1,1 +1,3 @@
-Orientação de bancada sobre o requerimento de retirada de pauta do Projeto de Lei nº 3.837, de 2015.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd731019d62143dde4005230750356d36d7155d00f6d03cc2350684489f8d992
+size 103

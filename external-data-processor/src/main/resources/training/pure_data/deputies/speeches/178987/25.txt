@@ -1,1 +1,3 @@
-Repúdio ao Projeto de Lei nº 4.330, de 2004, que dispõe sobre o contrato de prestação de serviço a terceiros e as relações de trabalho dele decorrentes. Conclamação aos Deputados de atendimento dos anseios populares contrários ao Projeto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0f1b75889c996f5b6387b65b06c1b4b775ca421b834092d67181fefa9a1b20f
+size 249

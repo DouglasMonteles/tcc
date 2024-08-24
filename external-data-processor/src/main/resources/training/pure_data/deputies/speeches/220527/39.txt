@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalho; do Dia das Mães; do Dia do Gari; do Dia Mundial Contra a Homofobia e Transfobia; e do Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef65b9f6a5bde2c5519abb41b6ff45ebe90c3ec80ce4061f6170680d0329a532
+size 204

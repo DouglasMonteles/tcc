@@ -1,1 +1,3 @@
-Aprovação, pela Câmara dos Deputados, de proposições destinadas ao combate à pandemia de coronavírus. Urgente necessidade de votação pela Casa da Proposta de Emenda à Constituição nº 15, de 2015, sobre a transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação pública básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fa51bf3223defdb7cfe4b3072a81668af35d166e9a55ea719f5571fdbc88bbe
+size 433

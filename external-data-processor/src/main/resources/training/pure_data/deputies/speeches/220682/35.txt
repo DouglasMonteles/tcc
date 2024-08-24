@@ -1,1 +1,3 @@
-Acerto da declaração de inelegibilidade do ex-Presidente Jair Bolsonaro pelo Tribunal Superior Eleitoral. Herança do autoritarismo deixado pelo ex-Presidente da República, demonstrada na agressão física praticada por policial contra o Prof. Gabriel Barbosa Rosi Silva, no Município de Guaíra, Estado do Paraná. Sucesso das gestões do Presidente Luiz Inácio Lula da Silva e da Ministra da Saúde, Nísia Trindade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8b235e87159c930a2ee36a6d3aadf0e82a0d47c6c93dba3cdb3f64a212b439b
+size 423

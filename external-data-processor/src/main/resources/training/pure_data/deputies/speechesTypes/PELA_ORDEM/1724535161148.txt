@@ -1,1 +1,3 @@
-Equívoco da decisão da Presidência sobre o estado incompleto do processo de filiação do orador ao PMDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e05374afb562857dbd3ec037b6ccb5b327d921b8d87d4d165be8b6eee0cd5d7a
+size 108

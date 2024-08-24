@@ -1,1 +1,3 @@
-Congratulações ao Deputado João Paulo Cunha, Relator da Medida Provisória 443 de 2008 (Autoriza o Banco do Brasil S.A e a Caixa Econômica Federal a constituírem subsidiárias e a adquirirem participação em instituições financeiras sediadas no Brasil).
+version https://git-lfs.github.com/spec/v1
+oid sha256:50dd7f1e9339b7c8836efc6ec88cdb79201e576584bed1b6fbbec35a6a1e7202
+size 261

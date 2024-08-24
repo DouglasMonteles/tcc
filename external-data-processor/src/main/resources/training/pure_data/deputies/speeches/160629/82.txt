@@ -1,1 +1,3 @@
-Defesa da instalação de fábrica de automóveis do Grupo Empresarial CAOA no Município de Campina Grande, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e9ffd717fc25b28874473a6f79ee7b77a63506e63f8aec6e2516f09b25fa1af
+size 128

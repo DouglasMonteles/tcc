@@ -1,1 +1,3 @@
-Resultados positivos da política de segurança pública implantada pelo Governador Ronaldo Caiado no Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38bf912c864b1bcf3bcc387006f36eda8a88fbaac451f963f6ba9a076887be68
+size 119

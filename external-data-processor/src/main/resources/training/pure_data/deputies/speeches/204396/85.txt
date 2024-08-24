@@ -1,1 +1,3 @@
-Presença na Casa do Prefeito Luiz Carlos Turatto e do Vice-Prefeito Ney Maria, do Município de Dois Vizinhos, Estado do Paraná, acompanhados de comitiva,
+version https://git-lfs.github.com/spec/v1
+oid sha256:f420dd9572f4f75505417b31a061808b2876940a057a3c9df3f4673f1b492a18
+size 156

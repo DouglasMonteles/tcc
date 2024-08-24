@@ -1,1 +1,3 @@
-Indignação do orador com a decisão do Supremo Tribunal Federal de extinção da exigência de diploma em jornalismo para exercício da profissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1350a73be29acb157deabe6951eda32c244d4863d048ef71c950cd47bdc98d9
+size 149

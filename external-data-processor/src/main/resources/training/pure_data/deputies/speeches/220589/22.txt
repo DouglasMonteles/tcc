@@ -1,1 +1,3 @@
-Dificuldades enfrentadas pela população do Estado do Acre relativos à necessidade de deslocamento para a realização de tratamento contra o câncer. Elogio à aprovação do Projeto de Lei nº 2.952, de 2022, sobre a instituição da Política Nacional de Prevenção e Controle do Câncer no âmbito do Sistema Único de Saúde - SUS. Importância da celeridade na entrega dos resultados de exames para o enfrentamento do câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ab97cb934a809e669cc802774d0460cd5477b761c0c12c3ec5c5e12f89ed91a
+size 435

@@ -1,1 +1,3 @@
-Celebração do transcurso do 67º aniversário de promulgação da Declaração Universal dos Direitos Humanos. Repúdio à atuação do Deputado Eduardo Cunha na condução da Presidência da Casa. Não configuração de crime de responsabilidade da Presidenta Dilma Rousseff ante a antecipação de recursos financeiros para manutenção de projetos sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bfbe3437fd405b1fb9a5c17c86c6b4246bc8ed757eb37bb3e7936f83fdd48f3
+size 361

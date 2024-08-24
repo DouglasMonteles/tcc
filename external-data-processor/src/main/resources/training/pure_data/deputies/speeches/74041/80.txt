@@ -1,1 +1,3 @@
-Matéria Notas do IDEB crescem em todo o País e alcançam meta para 2009, veiculada pela Internet. Transcurso do Dia Mundial de Combate ao Trabalho Infantil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7119bf9a756f39c1296b5de516e85356038769d059551f7004f3bf3d05e1748a
+size 158

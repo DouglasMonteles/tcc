@@ -1,1 +1,3 @@
-Declaração de voto favorável à garantia de representação feminina no Parlamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44790688e1263e178891292b594cbf66a61ce48e44970d6a4d7dcede9e27bfd8
+size 86

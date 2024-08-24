@@ -1,1 +1,3 @@
-Defesa da abertura e aprovação de processo de impeachment contra o Presidente Luiz Inácio Lula da Silva, e de prisão do Ministro da Justiça e Segurança Pública, Flávio Dino, e do ex-Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, general Marco Edson Gonçalves Dias. Protesto contra a ação realizada pela Polícia Federal na residência do ex-Presidente Jair Bolsonaro em busca do seu certificado de vacinação. Honradez do ex-Presidente da República. Contrariedade à vacinação obrigatória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdf67c25bd7c36e0a2bcec73bf912a132aaf2e6737ec06c0bbefd41f27bb5545
+size 544

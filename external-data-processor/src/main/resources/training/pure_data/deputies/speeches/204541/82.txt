@@ -1,1 +1,3 @@
-Alerta sobre as consequências advindas da anunciada fusão da LATAM - Airlines Brasil com a AZUL - Linhas Aéreas Brasileiras. Pedido à Comissão de Turismo de realização de audiência pública para debate do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52fffe1245378fd28608bf2f090606385e5d99d85cd5b8c5505a201fa48025fc
+size 221

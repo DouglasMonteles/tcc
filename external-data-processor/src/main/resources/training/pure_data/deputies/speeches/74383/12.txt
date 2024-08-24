@@ -1,1 +1,3 @@
-Assinatura pelo Presidente Luiz Inácio Lula da Silva do decreto sobre a criação do Regime de Tributação Unificada - RTU na importação, por via terrestre, de mercadorias procedentes do Paraguai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ea251a9608cf3ff86fcc5016ad4fa6fa569e38c28fd61a60856397d012bac26
+size 200

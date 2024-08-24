@@ -1,1 +1,3 @@
-Realização da Romaria Cova do Pedro no Município de Ribeirão do Largo, Estado da Bahia. Anúncio de audiência próxima com o Governador Jaques Wagner com vistas à pavimentação asfáltica da rodovia de  acesso à sede municipal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a49ee16e9e22882f13d0b41c37a74241ca09cd2e4735be0bdfe927a86e552a5
+size 235

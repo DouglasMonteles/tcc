@@ -1,1 +1,3 @@
-O Deputado denunciou a situação dos concursados no Distrito Federal, apontando a falta de nomeações pelo Governo local, prejudicando serviços essenciais e promessas não cumpridas, afetando a população.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c7bf76501a24f9391824fb30fb3275b3b00826162f1aebd6c869a786da017b0
+size 209

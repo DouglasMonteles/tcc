@@ -1,1 +1,3 @@
-Anúncio pelo Ministro Fernando Haddad, da Educação, de alteração do Fundo de Financiamento ao Estudante do Ensino Superior — FIES. Criação do serviço civil para o pagamento de débitos estudantis. Reformulação do Exame Nacional do Ensino Médio — ENEM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:729aa2894734f0e9f1e5cf19c405e77e102f36e6c7c77801d2b2328f718f6625
+size 266

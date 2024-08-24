@@ -1,1 +1,3 @@
-Cobrança ao Governo Federal de esclarecimentos sobre a continuidade de investimentos da PETROBRAS no Complexo Petroquímico do Rio de Janeiro - COMPERJ, no Município de Itaboraí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10f0c2050c0075b8065de7a8dfffd0121670b72c6b7524dd3f057ff179c97a61
+size 181

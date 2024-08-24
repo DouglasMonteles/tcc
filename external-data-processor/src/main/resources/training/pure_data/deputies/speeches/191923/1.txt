@@ -1,1 +1,3 @@
-Pedido à Mesa de inclusão na pauta da Proposta de Emenda à Constituição nº 454, de 2009, sobre o estabelecimento de diretrizes para a organização da Carreira Única de Médico de Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc445833a585ebfaa3067c1ad13794e4907dc29fce594f4d1c4021908653680b
+size 194

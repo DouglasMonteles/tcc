@@ -1,1 +1,3 @@
-Ciência à Câmara dos Deputados da mudança de Deputados e Senadores do PP para a Oposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04a135d260c078daaac1ff583d982c2b7afe82594eb8fbaaf08ec147b8378c3f
+size 95

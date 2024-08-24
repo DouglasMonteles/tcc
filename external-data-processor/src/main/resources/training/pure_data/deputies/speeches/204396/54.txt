@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 12, oferecida ao Projeto de Lei nº 4.162, de 2019, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:847a242982be577d4d5c738553e861d87a577c1ebd1254c224cc4ca4b4266157
+size 217

@@ -1,1 +1,3 @@
-Presença, na Casa, do Prefeito Marcos Costa e do Vice-Prefeito Paulo Barbosa, do Município de Maria Bonita, bem como do Prefeito Arodoaldo Chagas, do Município de Carira, Estado de Sergipe. Contrariedade à proposta de fusão do Banco do Nordeste do Brasil S/A com o  Banco Nacional de Desenvolvimento Econômico e Social - BNDES. Anúncio da apresentação de requerimento de realização, pela Casa, de Comissão Geral para discussão do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a12ca112f1dda06d91ff75e64280508e28b596ad292a0307a0a1ea2e8c0a9b7
+size 451

@@ -1,1 +1,3 @@
-Concessão pela Câmara de Vereadores de Itaparica, Estado da Bahia, do título de Cidadã Itapericana à coordenadora da rede de organizações não governamentais, Rita Fonseca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e8f97e1bd8399a40d18140e6f72bd3a01ecce041523ca2e936951253000d83d
+size 179

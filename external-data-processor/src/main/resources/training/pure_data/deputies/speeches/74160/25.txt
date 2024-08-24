@@ -1,1 +1,3 @@
-Defesa de rejeição da Proposta de Emenda à Constituição nº 32, de 2020, sobre a reforma administrativa, bem como do substitutivo oferecido à matéria. Inconstitucionalidade e retrocesso da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce6b879b61326ad62c1eb132231d5e4246f9a65a42b3f034a9193eb1a6f97f7f
+size 209

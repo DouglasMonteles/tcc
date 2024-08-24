@@ -1,1 +1,3 @@
-Presença, na Casa, de Prefeitos Municipais da região oeste do Estado do Paraná. Saudações ao Prefeito Natal Nunes Maciel, de São Pedro de Iguaçu, e à Prefeita Cleunice Alves Cardoso, de Ouro Verde do Oeste. Exploração de fontes de energia renováveis no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7e7a876cbdd1c116e4dfc0eb1655f441530b86a6c36e083957f4b412f195afc
+size 270

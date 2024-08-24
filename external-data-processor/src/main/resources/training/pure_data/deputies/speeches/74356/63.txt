@@ -1,1 +1,3 @@
-Dificuldades para a regularização fundiária de terras públicas federais no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f911ecec5dff8e46e398536ee8eb0ad50a22379ceb91b38d8672ebbcea63737c
+size 98

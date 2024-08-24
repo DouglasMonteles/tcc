@@ -1,1 +1,3 @@
-Redução dos preços de combustíveis e do gás de cozinha. Aprovação do requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022, (novo arcabouço fiscal). Reconstrução do Brasil pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6fff1abd7d309979848a454450d3321331dcdd5e38c83d44b131f40475914f0
+size 527

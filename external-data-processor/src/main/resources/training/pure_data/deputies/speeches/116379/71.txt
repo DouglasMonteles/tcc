@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 886, de 2019, sobre a organização básica dos órgãos da Presidência da República e dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7301400006a0cbb1cf9cc7b99d6c117c5542aab165d1cf007af9dc21c86ca380
+size 206

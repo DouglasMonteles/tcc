@@ -1,1 +1,3 @@
-Inexistência de plano de aposentadoria para Deputado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb4f9bfb748105c306cc8d46db1b7db5b28ad9126aac0291cc3a5a780d21c15d
+size 54

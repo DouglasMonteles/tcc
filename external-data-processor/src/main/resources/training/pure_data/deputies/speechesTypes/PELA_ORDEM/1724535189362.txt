@@ -1,1 +1,3 @@
-Pedido à Presidência de determinação ao PSOL de desobstrução do espaço no plenário destinado ao DEM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3b4c1017a3c59dcb97d36b506a067bb044570ec2a4caf4a39797eef891351bb
+size 108

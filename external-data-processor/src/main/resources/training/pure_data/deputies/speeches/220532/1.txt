@@ -1,1 +1,3 @@
-Regozijo com a retomada do cargo pelo Governador do Distrito Federal, Ibaneis Rocha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c55d7ea1b25a8e5b123fb9185f23b619626f0b00c5f379b3aa5795de2a1c07a
+size 84

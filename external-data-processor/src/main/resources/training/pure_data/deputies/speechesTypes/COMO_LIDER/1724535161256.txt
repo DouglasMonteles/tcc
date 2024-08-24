@@ -1,1 +1,3 @@
-Posicionamento do PPS sobre anúncio do Governo Federal de exploração de reservas de petróleo na camada pré-sal do mar territorial brasileiro. Sugestão de realização de Comissão Geral no Plenário da Casa para debate da questão do pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06e940acd6904244b5fb371def47be9c7a39d4337bbc3a1d68c2dc0b74d077cb
+size 249

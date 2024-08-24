@@ -1,1 +1,3 @@
-Inconsistência de argumentos em defesa do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c207f0af6a8afe483cd8b1b77e69748e7d644edd277c7c12491c9167bb215600
+size 84

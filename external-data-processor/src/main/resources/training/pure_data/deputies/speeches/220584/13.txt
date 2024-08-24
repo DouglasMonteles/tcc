@@ -1,1 +1,3 @@
-Premiação de projeto da Escola Municipal Padre Galvão, de Pocinhos, Estado da Paraíba, no II Congresso Internacional de Alimentação Escolar e na IV Jornada de Educação Alimentar e Nutricional, promovidos pelo Fundo Nacional de Desenvolvimento da Educação — FNDE. Congratulações à Prefeita Eliane Galdino, à Secretária Municipal de Educação de Pocinhos, Jordana Araújo, e à equipe de nutricionistas da pasta pelo reconhecimento do projeto. Importância de investimentos na educação e na primeira infância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57d9bdeb4269f0372300840e714403b961890b19601cb6e758514f13d08352b4
+size 528

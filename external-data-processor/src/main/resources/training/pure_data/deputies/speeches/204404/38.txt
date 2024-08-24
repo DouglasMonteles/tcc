@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação do Projeto de Lei nº 6.726, de 2016, sobre a regulamentação do limite remuneratório no serviço público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e43c302c25618d1c961e95c81d113c4369fb943cba79934cf24eed90dae0f50
+size 151

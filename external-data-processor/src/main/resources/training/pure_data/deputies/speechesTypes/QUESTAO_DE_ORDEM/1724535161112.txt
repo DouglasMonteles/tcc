@@ -1,1 +1,3 @@
-O Deputado formulou questão de ordem sobre a declaração de nulidade da votação do Requerimento nº 3.458, de 2023, de autoria do Deputado Marcos Pereira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08327797654060342fc81081a72044a5c1cb246f98c780932591ad93b0abf608
+size 158

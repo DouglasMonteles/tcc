@@ -1,1 +1,3 @@
-Êxito das festas de carnaval em Belém, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15090fc226a45eb04031e6beaf7c88b620c1a3d7e9518788f2200bef8023f00e
+size 57

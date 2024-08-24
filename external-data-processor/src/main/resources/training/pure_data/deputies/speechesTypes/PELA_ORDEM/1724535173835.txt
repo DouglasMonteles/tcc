@@ -1,1 +1,3 @@
-Elevação dos índices de popularidade do Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcce78a97cd525646534e6ed8613356022da378e5e1e65ac94d472b1e27db6d3
+size 81

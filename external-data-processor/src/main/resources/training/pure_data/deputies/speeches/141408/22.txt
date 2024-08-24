@@ -1,1 +1,3 @@
-Agradecimento ao Senador Garibaldi Alves Filho, Presidente do Congresso Nacional, pela inclusão na pauta de votação do Congresso Nacional de Vetos Presidenciais. Encontro dos partidos políticos que fazem parte do Bloco Parlamentar, PSB/PDT/PCdoB/PMN/PRB, com a finalidade de discutir a Reforma Política. Atuação do Auditor Fiscal da Receita Federal em benefício da política econômica do país e o merecimento da categora em sua reivindicação no sentido de reajustamento salarial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7c64e3fdb0744d2eaa27390927e4b93a57cc226c94c341fb6d2e79ad8cf233c
+size 491

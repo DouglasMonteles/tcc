@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Embaixador do Chile no Brasil, Álvaro Díaz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3128ad179050bfacdfdb5ea281ea3c96e1f8442d9fbb5e07a922a7a46dcf1206
+size 70

@@ -1,1 +1,3 @@
-Apoio à luta do povo indígena pataxó hã hã hãe pela nulidade de títulos de terra concedidos a fazendeiros ocupantes do seu  território, na região sul do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:866432e12169d999edbcc1d63aaedbca66fb13bdef38c3535e1acf7ec51d37ba
+size 178

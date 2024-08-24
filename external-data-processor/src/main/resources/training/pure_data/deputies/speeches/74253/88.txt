@@ -1,1 +1,3 @@
-Reação da Federação das Indústrias do Estado de São Paulo - FIESP e da Federação das Indústrias do Estado do Rio de Janeiro - FIRJAN diante da crise da indústria brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adc0a7d2baaf74b1e3bbeb39be78b322ce5235cca94b25216f8e712b846bb887
+size 183

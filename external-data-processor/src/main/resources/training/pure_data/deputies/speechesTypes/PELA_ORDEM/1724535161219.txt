@@ -1,1 +1,3 @@
-Elogio ao Presidente Luiz Inácio Lula da Silva pela determinação a Ministros de providências ante o aumento no preço de fertilizantes, conforme matéria publicada pelo jornal Correio Braziliense. Encaminhamento de indicação ao Ministério de Minas e Energia para o fornecimento de relação dos alvarás de pesquisa e lavra de rochas de fosfato e potássio no País e para a verificação, junto à PETROBRAS, da possibilidade de aumento da produção de uréia. Necessidade de quebra do cartel das empresas produtoras de fertilizantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95ba7b83508d7b946152f7f5b16b9b592f4b4a0788fe46f9eb8014382a03cd9a
+size 543

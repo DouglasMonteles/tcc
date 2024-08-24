@@ -1,1 +1,3 @@
-Repúdio aos ataques do Governo Jair Bolsonaro à democracia; ao Parlamento brasileiro; ao Supremo Tribunal Federal e aos direitos dos trabalhadores brasileiros. Protesto contra a venda do patrimônio público brasileiro. Contrariedade ao fechamento da unidade da Empresa de Tecnologia e Informações da Previdência Social - DATAPREV, instalada em Recife, Estado de Pernambuco. Anúncio da realização de movimento popular em defesa da democracia e dos direitos da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0e08176a6ec3b07037d9445885902c50995a8805af58ab4166e389d109e3ffc
+size 491

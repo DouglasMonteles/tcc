@@ -1,1 +1,3 @@
-Importância da aprovação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.246, de 2021, sobre o estabelecimento de reserva obrigatória mínima para participação de mulheres em conselhos de administração de companhias abertas e estatais, de sociedades de economia mista ou outras empresas da União, dos Estados, do Distrito Federal e dos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e08be81ebbf4357588463e78f5174955f19c62d00c94d1806ebe04696a0be9e
+size 388

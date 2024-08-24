@@ -1,1 +1,3 @@
-Falecimento do professor e educador cearense Edgar Linhares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bd2b051eb125448543d34997df2d74e792b77034d5cc69672cc6f3dd2ffb092
+size 60

@@ -1,1 +1,3 @@
-Apoio à implantação no País do sistema de voto denominado distritão. Indignação com Deputados do PL e do PP pelo voto contrário à aprovação da Proposta de Emenda à Constituição nº 135, de 2019, sobre a obrigatoriedade de emissão de cédulas físicas de votação em eleições, plebiscitos e referendos (voto impresso).
+version https://git-lfs.github.com/spec/v1
+oid sha256:786dfc0de33bb667f40d3768aaaccb8e40648b8c31d8521998cd796cf9394bba
+size 335

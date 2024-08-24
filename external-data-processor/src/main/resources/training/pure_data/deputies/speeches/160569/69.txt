@@ -1,1 +1,3 @@
-Desenvolvimento socioeconômico do Estado da Bahia. Incremento do comércio varejista no Estado. Enaltecimento da gestão do Governador Jaques Wagner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:463c4614cbf7fea14178ee6a58a106769aa5520c7a23f7743f2f06f6fc9ead80
+size 150

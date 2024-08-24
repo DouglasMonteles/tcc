@@ -1,1 +1,3 @@
-Falecimento da fundadora do Movimento dos Focolares, Chiara Lubich.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4d1ffd282ccdcea8cf807b8667c01bd795ab789fa366ce1dfea0a79cf4ab1ec
+size 67

@@ -1,1 +1,3 @@
-Existência, no âmbito do Tribunal de Contas da União - TCU, de processo contra o Ministro da Economia por fraude em fundos de pensão. Falta de condições morais do Titular da Pasta para protagonismo da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8e06602cdfbf5fb917baac0c075577391634e7aedf084abb9ebc92451394c3b
+size 231

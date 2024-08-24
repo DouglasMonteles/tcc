@@ -1,1 +1,3 @@
-Orientação de bancada sobre a votação do Requerimento de Destaque nº 3, para votação da Emenda nº 7 apresentada à Medida Provisória nº 767, de 2017.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc153ff18517999bdbf2a7943a062ce93cae0d9085e569635178e72febe8fe1f
+size 159

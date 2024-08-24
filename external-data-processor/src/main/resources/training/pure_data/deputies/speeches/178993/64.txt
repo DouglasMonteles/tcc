@@ -1,1 +1,3 @@
-Pedido aos Vereadores da Câmara Municipal de Palmas, Estado de Tocantins, de aprovação de projeto de lei em benefício dos mototaxistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40a5acc4e701bc208a12ba31f3ca29b60bb6fcb7477bbb1f20a8b43bfd0a69cc
+size 139

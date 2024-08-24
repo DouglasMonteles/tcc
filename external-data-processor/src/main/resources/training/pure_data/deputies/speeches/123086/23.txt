@@ -1,1 +1,3 @@
-Lançamento da TV digital no Estado do Piauí.  Publicação, pelo jornal Folha de S.Paulo, de entrevista de economista norte-americana a respeito da situação do Brasil diante da crise financeira mundial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6729a14f46a20e66036bd1aa783a5c1831d6a498f92a55748910b7d56dd106c5
+size 206

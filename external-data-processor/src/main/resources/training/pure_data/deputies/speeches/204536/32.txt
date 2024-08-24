@@ -1,1 +1,3 @@
-Natureza leviana de acusações contra o Ministro da Justiça e Segurança Pública, Sérgio Moro. Apoio à Operação Lava-Jato e ao Judiciário brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:964020a8750d39cac7154aa9a32c1cd336a8dfed8b020f11daa9d8191c87e720
+size 157

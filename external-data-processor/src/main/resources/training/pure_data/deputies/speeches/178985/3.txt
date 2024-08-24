@@ -1,1 +1,3 @@
-Boas-vindas a estudantes presentes nas galerias do plenário. Relato sobre audiência pública realizada pela Comissão de Seguridade Social e Família destinada ao debate sobre a epidemia de dengue no País e o desenvolvimento de vacina contra a doença. Necessidade de aprofundamento do debate sobre a Proposta de Emenda à Constituição relativa à redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fca5b8f82ed76366293fbf46f8497285d910cb7c1fe2f462d5cd217cd5532b4a
+size 383

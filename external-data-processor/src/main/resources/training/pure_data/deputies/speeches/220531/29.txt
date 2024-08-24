@@ -1,1 +1,3 @@
-Transcurso do 65º aniversário de fundação da Cidade-Satélite de Taguatinga, em Brasília, Distrito Federal. Anúncio da inauguração de túnel de ligação da Estrada Parque Taguatinga à Via Estádio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5aa5dac82d19df78c0d0fdf0f2ae4316f807a05e497f06f7635eebf1d9bba92
+size 207

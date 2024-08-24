@@ -1,1 +1,3 @@
-Emissão de parecer à Medida Provisória nº 1.052, de 2021, relativa à alteração da participação federal e das regras de repasse de recursos da União a fundos de desenvolvimento regionais; e às Emendas de nºs 1 a 97 apresentadas conforme o caput do art. 3º do Ato Conjunto nº 1, de 2020, editado pelas Mesas da Câmara dos Deputados e do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b74ddf0bd79da59dba13316d59c1f402293885c3d1e361e5682c64b0057addb9
+size 365

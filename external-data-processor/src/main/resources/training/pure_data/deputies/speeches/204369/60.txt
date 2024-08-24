@@ -1,1 +1,3 @@
-Protesto contra o fatiamento, pela Esquerda, do Projeto de Lei nº 2.630, de 2020, a respeito da instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).&nbsp;Repúdio à declaração do Ministro da Justiça e Segurança Pública, Flávio Dino, sobre a regulamentação das redes sociais por decreto administrativo ou por via judicial. Prática de crime de responsabilidade pelo Ministro da Justiça, demonstrado no ataque à autonomia e à soberania do Poder Legislativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74bc87661349e6d7c966bec897723780484b831f0920408f9b7b645db3443267
+size 539

@@ -1,1 +1,3 @@
-Retomada do Programa Mais Médicos pelo Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e085f6f47024e7a9507721e0dbad3ed75cd723c3f59150374768e83f41275310
+size 75

@@ -1,1 +1,3 @@
-Leitura de Ato da Presidência sobre a constituição da Comissão Especial destinada à apreciação e ao proferimento de parecer à Proposta de Emenda à Constituição nº 70-A, de 2011, que altera o procedimento de apreciação de medidas provisórias pelo Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:566e973ca5b35a88efc3c44bc39bef562194504345c207333b2865a32120e15c
+size 280

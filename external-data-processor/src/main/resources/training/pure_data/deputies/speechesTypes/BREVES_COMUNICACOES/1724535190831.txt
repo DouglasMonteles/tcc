@@ -1,1 +1,3 @@
-Inconsistência do discurso proferido por Deputado sobre a não manifestação da Esquerda acerca do ataque de cunho homofóbico praticado contra a youtuber bolsonarista Karol Eller, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff325da95a1b6b73b0ab6f864a909d3862941defa1eea94273c12a8acb45cf5b
+size 227

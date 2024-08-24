@@ -1,1 +1,3 @@
-Renúncia, pelo orador, ao direito do benefício de aposentadoria parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dd425d17a6f58cd0e6e1d11d5a4e36aaf4c122c869878fc5d09b78d815ba69f
+size 78

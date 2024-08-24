@@ -1,1 +1,3 @@
-Dia Internacional da Mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:548796ac5434b366e150ae368e82f4d3ebbaa7dbdca665048e983bbf2b36fa06
+size 28

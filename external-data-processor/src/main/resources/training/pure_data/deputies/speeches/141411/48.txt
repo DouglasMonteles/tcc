@@ -1,1 +1,3 @@
-Agradecimento aos convidados e Parlamentares presentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a7e6af9500dcd3ba9a5b1895e408e22006691d5b839d6df65aa2e3cc249892e
+size 55

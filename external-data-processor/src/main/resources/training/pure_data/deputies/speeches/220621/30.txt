@@ -1,1 +1,3 @@
-Contestação ao pronunciamento de Deputado contra o ex-Presidente Jair Bolsonaro e o Governador do Estado de Minas Gerais, Romeu Zema. Indignação do orador com a concessão, pelo Governo do Estado do Rio Grande do Norte, da Medalha do Mérito Policial Luiz Gonzaga à Deputada Natália Bonavides e ao Ministro da Justiça e Segurança Pública, Flávio Dino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4260dad6dc139b4a6b4428572c43cf7b49b6aefcd92a0bfa58da728cd6e2556f
+size 361

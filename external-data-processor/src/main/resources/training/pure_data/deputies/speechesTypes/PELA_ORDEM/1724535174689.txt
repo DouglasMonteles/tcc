@@ -1,1 +1,3 @@
-Aplausos ao Prefeito Eduardo Braide pela vacinação em massa dos habitantes de São Luís, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a318ba03f2c61124cb744de3e03cd270732864358cee65f1ec4d5c857b109797
+size 112

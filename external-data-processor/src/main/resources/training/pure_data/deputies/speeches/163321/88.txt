@@ -1,1 +1,3 @@
-Transcurso do 70º aniversário de fundação da Igreja Evangélica Assembleia de Deus, no Município de Ijuí, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a5f6f4d34d29516fcff6b9aa0d5c6265a68a1ede823f721491cea8e52ffd1a3
+size 140

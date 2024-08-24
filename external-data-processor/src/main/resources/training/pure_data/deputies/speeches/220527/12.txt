@@ -1,1 +1,3 @@
-Retomada do Programa de Aquisição de Alimentos - PAA; do Programa Mais Médicos; e do Programa Bolsa Família. Lançamento, pelo Presidente da República, das diretrizes da política nacional de alfabetização e da plataforma Mãos à Obra, destinada ao mapeamento de obras paralisadas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c58967a809e7b0656899ea532646394caf07030abf4240d913147e9a1eee706
+size 298

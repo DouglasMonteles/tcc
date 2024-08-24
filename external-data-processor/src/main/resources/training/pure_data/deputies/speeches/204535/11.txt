@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global apresentada pelo Relator da Comissão Especial, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53a4cb23d09e75ecaf28cdaa4647eee83c57d1d2513104d19c08e0ead7e690af
+size 143

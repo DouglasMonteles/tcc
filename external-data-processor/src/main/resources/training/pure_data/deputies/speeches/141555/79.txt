@@ -1,1 +1,3 @@
-Excelência da atuação da Marinha do Brasil no atendimento às populações ribeirinhas no Estado do Amazonas. Pedido ao Ministro do Planejamento, Orçamento e Gestão, Paulo Bernardo, de garantia de recursos orçamentários para continuidade dos trabalhos da corporação na Amazônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c0837c96eec5b6fbb5a0f311c30594c61a367fe60fef3eb62eaa7f149f4fdf2
+size 288

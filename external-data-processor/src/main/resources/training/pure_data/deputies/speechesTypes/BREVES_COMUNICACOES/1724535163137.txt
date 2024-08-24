@@ -1,1 +1,3 @@
-A Deputada abordou a questão das demarcações indígenas no país, principalmente no Estado do Mato Grosso, destacando a insegurança e os embargos em áreas contestadas sem estudos técnicos. Ela defendeu uma abordagem justa que leve em consideração a indenização para ambas as partes, incluindo proprietários de terras que receberam títulos há décadas. A Deputada ressaltou a importância de respeitar todos os envolvidos, evitando violência e promovendo um diálogo equitativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa1d74dff05c7bbc003dd1956996f454aa848e62fbec5b1ffa2746a18cc17664
+size 491

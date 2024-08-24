@@ -1,1 +1,3 @@
-Apoio do PSC às demandas da mulher brasileira. Necessidade da adoção de ações efetivas de combate às agressões físicas e sexuais contra as mulheres no País. Pedido aos Deputados de apoio à aprovação do Projeto de Lei nº 2.737, de 2019, sobre alteração da Lei nº 11.340, de 2006, a chamada Lei Maria da Penha, e da Lei nº 13.239, de 2015, sobre a oferta e a realização, no âmbito do Sistema Único de Saúde - SUS, de cirurgia plástica reparadora de sequelas de lesões causadas por atos de violência contra a mulher, com vista ao estabelecimento de prioridade no atendimento social, psicológico e médico a mulheres vítimas de violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5beec76d859c5b523c3995a8b3d443c313bb5fa3c3269aee01e0ad1cf5ea4e99
+size 662

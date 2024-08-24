@@ -1,1 +1,3 @@
-Sessão solene em comemoração aos 30 anos do Tribunal Regional do Trabalho da 15ª Região, Campinas, São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed9ed4684db7636c6af7de02e65fae6faf813b1f89512cc57d495776e11e51c3
+size 115

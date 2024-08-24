@@ -1,1 +1,3 @@
-Despedida do orador dos cargos de Corregedor e de Segundo-Vice-Presidente da Casa. Agradecimento aos membros da Mesa, ao Presidente Marco Maia e aos Parlamentares. Votos de sucesso ao novo Presidente da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bb65cbc2efb44109d3365f7b9f275b6763c8a803dfb003159f9764c8e1a70f5
+size 225

@@ -1,1 +1,3 @@
-Contestação ao discurso do Deputado Laerte Bessa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18cc4052b67ea5870fde40ef8b79a939fcda2b9b08413a2f55f0ce0ec024e517
+size 51

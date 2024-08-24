@@ -1,1 +1,3 @@
-Homenagem Póstuma aos Deputados Adão Pretto, Clodovil Hernandes, Carlos Wilson, João Herrmann e Dr. Pinotti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5991498defd22ab1d5732d940cacade84dc5adc0d0a9216e8817fbbe311c3294
+size 111

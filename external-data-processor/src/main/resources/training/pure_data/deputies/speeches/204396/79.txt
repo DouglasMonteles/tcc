@@ -1,1 +1,3 @@
-Imediata votação e aprovação pela Casa do Projeto de Lei nº 2.058, de 2021, acerca da instituição de regras para o teletrabalho de empregadas gestantes, afastadas do serviço presencial em decorrência da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22c7d97720802fc488611371a66e24d867e212145d09cd69250389377963b194
+size 221

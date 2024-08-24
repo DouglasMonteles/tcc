@@ -1,1 +1,3 @@
-Assassinato do Presidente do Sindicato dos Trabalhadores e Trabalhadores Rurais de Rio Maria, Carlos Cabral Pereira, no Estado do Pará. Histórico de homicídios de líderes rurais no Município de Rio Maria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bab03b915f033c07d6619a46ec17080c69e3506a017efc4343e218db76a44d0
+size 209

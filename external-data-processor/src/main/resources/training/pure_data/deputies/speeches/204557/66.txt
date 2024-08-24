@@ -1,1 +1,3 @@
-Importância da regularização fundiária para combate ao desmatamento e às queimadas na região amazônica. Ampliação do debate sobre a pretendida privatização da  Empresa Brasileira de Correios e Telégrafos - ECT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:952869d5b4105c42b00509e1feb1027bb79a706824131bf09405915ee58eaa9c
+size 222

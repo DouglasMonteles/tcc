@@ -1,1 +1,3 @@
-Apoio às manifestações populares favoráveis ao Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eccf12125fb5b3c835ba077d89919226333c548b895ba94f71dc9b57431a8e8
+size 77

@@ -1,1 +1,3 @@
-Regozijo com a escolha do novo Líder do PSB, Deputado Júlio Delgado. Escassez de investimentos nos setores de turismo e esporte. Crescimento da conectividade aérea no Estado de Pernambuco. Aumento do número de esportistas pernambucanos contemplados com a Bolsa Atleta. Repúdio à proposta de privatização da Companhia Hidro Elétrica do São Francisco - CHESF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05f8b1e3173bf9ed5864763785a0e3ca9a9dad3c64153b09456ec275c382a490
+size 367

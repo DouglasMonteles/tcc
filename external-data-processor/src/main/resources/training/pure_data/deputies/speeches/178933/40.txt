@@ -1,1 +1,3 @@
-Atuação do orador como legislador, fiscalizador e julgador no exercício do mandato parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f16426ba175b14973cab432e182db2487311538818f91dbd46027d108e3f8c6
+size 98

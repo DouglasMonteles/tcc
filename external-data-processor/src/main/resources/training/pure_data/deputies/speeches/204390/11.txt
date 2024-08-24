@@ -1,1 +1,3 @@
-Congratulações ao Presidente Jair Bolsonaro e ao Ministro da Educação, Abraham Weintraub, pelo desbloqueio de recursos das universidades públicas e dos Institutos Federais de Educação, Ciência e Tecnologia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca070cb32f7a3ea91bc1b8fa320d947457944801e3b7464d5adfa58d110808f2
+size 214

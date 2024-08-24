@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei de Conversão nº 26, de 2020, oferecido pela Comissão Mista, à Medida Provisória nº 938, de 2020, relativa à concessão, pela União, de apoio financeiro aos entes federativos contemplados com recursos do Fundo de Participação dos Estados - FPE, e do Fundo de Participação dos Municípios - FPM, para mitigação das dificuldades financeiras decorrentes do estado de calamidade pública, reconhecido pelo Decreto Legislativo nº 6, de 2020, e da emergência de saúde pública provocada pela Covid-19, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a87ef6c58b10e82bbddb1261ec0897674a47c1e3291de6978a6b7196d85548e8
+size 592

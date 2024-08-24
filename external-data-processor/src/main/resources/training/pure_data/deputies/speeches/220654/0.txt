@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à Portaria nº 299, de 2023, do Ministério da Justiça e Segurança Pública, sobre o recadastramento de armas de fogo
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfd66a8cb70ba91f614f3364a8e51fab8755944aedefdf8ae3085ea0da39bc4a
+size 156

@@ -1,1 +1,3 @@
-Realização, pelo funcionalismo público e entidades representativas dos trabalhadores, de manifestação contra a política de privatização do Governador do Estado de São Paulo, José Serra. Repúdio ao tratamento dispensado pelo Governo Estadual aos servidores, especialmente aos da área educacional. Apoio à luta do Movimento dos Trabalhadores Rurais Sem Terra - MST pela desapropriação da Fazenda Itayê, localizada na região de Perus/Cajamar, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45848c02c2a155f47b8518f3b5902f550fb1b362c9e409534945c3e97d634f16
+size 467

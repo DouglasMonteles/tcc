@@ -1,1 +1,3 @@
-Continuidade do movimento grevista deflagrado por agentes do Departamento de Polícia Federal. Desarmonia entre agentes e delegados da instituição. Expectativa de equacionamento da crise na corporação policial pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1029fe436091eed379747daed478719bba81a45b2017679d51b1a7ad37bc71d
+size 235

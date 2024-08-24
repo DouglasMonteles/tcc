@@ -1,1 +1,3 @@
-Concessão do selo da 4ª Edição do Programa Pró-Equidade de Gênero e Raça à Casa, pela Secretaria de Políticas para as Mulheres. Aumento da violência contra a mulher no País. Lançamento, pela Presidenta Dilma Rousseff, do programa Mulher, Viver sem Violência, com ênfase na instalação de centros integrados de serviços especializados, sob a denominação de Casa da Mulher Brasileira, nos Estados brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e61c431702abba07e51f71ef01cbc6bc2048c479f81ea8a0dcf1df7af5d28327
+size 425

@@ -1,1 +1,3 @@
-Encaminhamento, ao Ministério do Desenvolvimento Regional, de requerimento de indicação para abertura de crédito extraordinário a favor do Município do Rio de Janeiro. Apoio ao posicionamento do novo Ministro da Educação, favorável à prisão de aluno por agressão ao professor. Contrariedade à elevação da idade para concessão do benefício de aposentadoria a professores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cda38056d9c7b3c6ed8c9dda3bd35bd739fa084e781ff1601ae41c5f7ce3881
+size 387

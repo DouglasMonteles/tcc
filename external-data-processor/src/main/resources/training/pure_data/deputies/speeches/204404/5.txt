@@ -1,1 +1,3 @@
-Defesa de realização da reforma previdenciária com a inclusão de Estados e Municípios. Congratulações ao Diretor-Geral do Departamento Nacional de Infraestrutura de Transportes - DNIT e ao Ministro da Infraestrutura, Tarcísio Gomes de Freitas, pela elaboração de estudo sobre a viabilidade técnico-econômica e ambiental acerca da extensão da BR-448 até o entroncamento da RS-240, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a732a3154c03d0a385251ed0343c41726ed90d38e0d292786d6b595930f7fbe9
+size 425

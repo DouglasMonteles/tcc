@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.514, de 2021, sobre a obrigatoriedade de fornecimento da terapia por ECMO (oxigenação por membrana extracorpórea) aos pacientes em estado grave, pelos hospitais de campanha para o combate à Covid 19. Pedido ao Governador do Distrito Federal, Ibaneis Rocha, para convocação dos candidatos aprovados em concurso público para a carreira de assistência à educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de07b64115b49cc557eceab6b84eb89b547fc47d158fcd6398c2e617b18d75d7
+size 487

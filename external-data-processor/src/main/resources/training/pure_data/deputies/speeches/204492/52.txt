@@ -1,1 +1,3 @@
-Protesto contra a pretendida privatização da Usina de Biodiesel Darcy Ribeiro, instalada no Município de Montes Claros, Estado de Minas Gerais. Anúncio da realização de greve dos trabalhadores da subsidiária contra a sua desestatização. Repúdio à política privativista adotada pelo Presidente Jair Bolsonaro e pelo Ministro da Economia, Paulo Guedes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbfb48685852593c913e1befa3876fe43c6f92d7bd028d3543172a3c2e44412b
+size 362

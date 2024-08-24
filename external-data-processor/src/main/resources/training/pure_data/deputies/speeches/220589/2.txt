@@ -1,1 +1,3 @@
-Maior atenção do Ministério da Saúde para com a área oncológica no Estado do Acre. Transcurso do Dia Mundial do Turismo. Dificuldades para aquisição de passagens aéreas por meio de programas de milhas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:958c99864f2d2a8505d9dfaaf3e9e866a6361046e1d24be9718cea5c8e0a0879
+size 210

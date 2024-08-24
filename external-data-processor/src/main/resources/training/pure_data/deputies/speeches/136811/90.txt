@@ -1,1 +1,3 @@
-Eleição do ex-Prefeito Pedro Bertolucci, do Município de Gramado, Estado do Rio Grande do Sul, para a Presidência do Partido Progressista. Escolha, pela Comissão de Educação e Cultura, de instituições e profissionais para recebimento do Prêmio Darcy Ribeiro de Educação 2009. Indicação do projeto Tribos nas Trilhas da Cidadania ao prêmio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:580c594102ffde883ed64cc4c629e7f402290565ebb9b3309e1e3bf52701014d
+size 354

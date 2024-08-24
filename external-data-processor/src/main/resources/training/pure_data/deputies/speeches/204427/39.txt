@@ -1,1 +1,3 @@
-Transcurso do 63º aniversário de fundação da Rádio Cultura do Nordeste, instalada no Município de Caruaru, Estado de Pernambuco. Saudações aos locutores e aos demais integrantes da equipe da emissora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88292182a02e95d318be4bacb1eab3a90bcedb43cb0ebc3817e4809c7828e6b8
+size 208

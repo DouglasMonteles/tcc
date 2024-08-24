@@ -1,1 +1,3 @@
-Congratulações à população de Municípios do Estado de Goiás pela participação em manifestações contra o Governo Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4aa079712028e6ca50450a6ec11515c08dc909a7e5d538f7a4cc16777583c135
+size 138

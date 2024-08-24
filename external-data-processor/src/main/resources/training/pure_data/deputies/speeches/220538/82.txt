@@ -1,1 +1,3 @@
-Lançamento do edital sobre a realização de obras do Porto do Rio Grande, Estado do Rio Grande do Sul. Conclusão do trecho da BR-101 entre São José do Norte e Bojuru. Duplicação da BR-392, no trecho Pelotas-Rio Grande, e da BR-116, no trecho Porto Alegre-Pelotas, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:128ae19ca2b1b8323210fd1287d5fdec278fcd3579ff709ffdc6171846fac81b
+size 281

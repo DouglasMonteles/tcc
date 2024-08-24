@@ -1,1 +1,3 @@
-Críticas relativas ao sistema tributário brasileiro. Apresentação de sugestões concernentes à reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc534ec42e9e027d67e9615ee8d0639fe1cdeacf2803da60487242b01d70bcbc
+size 120

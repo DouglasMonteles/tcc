@@ -1,1 +1,3 @@
-Balanço positivo das atividades da Comissão de Seguridade Social e Família. Precariedade do sistema de saúde pública no Estado do Pará, especialmente na Ilha de Marajó.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a1086c5a8a14fe3d6a9258a4cfe457afffb08101e542eca4cb34d15f687eeb6
+size 175

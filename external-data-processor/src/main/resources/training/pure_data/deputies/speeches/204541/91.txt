@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 2, oferecida ao Projeto de Lei nº 21, de 2020, sobre o estabelecimento de fundamentos, princípios e diretrizes para o desenvolvimento e a aplicação da inteligência artificial no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f39b4fc81e02c21ae1efe2de3d3b609bdde7e7ef7decb6b49bf5931dad1c13a
+size 309

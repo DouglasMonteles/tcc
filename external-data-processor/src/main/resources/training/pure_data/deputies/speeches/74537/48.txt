@@ -1,1 +1,3 @@
-Discussão, em primeiro turno,  da  PEC 333 de 2004 (Modifica a redação do art. 29-A e acrescenta art. 29-B à Constituição Federal para dispor sobre o limite de despesas e a composição das Câmaras de Vereadores e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:910bb6977c24094e437b3e7bb3375c649823a2f6e5234ca8e98e36e09a27e7bd
+size 247

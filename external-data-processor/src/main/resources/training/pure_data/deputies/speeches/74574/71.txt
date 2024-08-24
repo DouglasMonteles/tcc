@@ -1,1 +1,3 @@
-Exaltação ao Prefeito de Ilhéus, Mario Alexandre, pela realização de obras importantes no Município. Expectativa de início das obras de reforma do Estádio Mário Pessoa, no Município de Ilhéus, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0efc6f6518bcdf7b03f4c54f02bba57e72248c83e1c9e07784fd15db4a076d40
+size 220

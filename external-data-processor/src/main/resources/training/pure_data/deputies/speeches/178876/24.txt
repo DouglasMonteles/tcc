@@ -1,1 +1,3 @@
-Associação a pronunciamento do Deputado Caio Narcio sobre sua frustração com a reforma política. Crítica à condução da economia pelo Ministro da Fazenda, Joaquim Levy, diante da elevação do custo de vida da população pobre do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e8522fb1f599e54c633763dd89dc72812cedef974dc10618c5030bdca30ee3f
+size 245

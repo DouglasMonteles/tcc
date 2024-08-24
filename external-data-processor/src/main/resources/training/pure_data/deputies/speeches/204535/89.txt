@@ -1,1 +1,3 @@
-Indignação com o corte salarial dos funcionários da Companhia do Metropolitano de São Paulo. Solidariedade à anunciada greve da categoria. Apoio à Paralisação dos trabalhadores de empresas de aplicativos, lotados no setor de entrega de mercadorias, produtos e alimentos, por melhoria da remuneração e das condições de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:786531ef6eabbfd5a0a918053a3c58367b5b0b916ef57e4bfca072047c6ad302
+size 339

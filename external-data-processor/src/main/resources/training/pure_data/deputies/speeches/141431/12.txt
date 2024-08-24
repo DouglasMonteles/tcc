@@ -1,1 +1,3 @@
-Realização, pelo Governo do Estado de Pernambuco e pelo jornal Valor Econômico, do seminário Pernambuco Novo - Cenários e Oportunidades para 2008, em São Paulo, Estado de São Paulo. Encaminhamento de correspondência ao Governador Eduardo Campos a respeito de reivindicações de comunidades interioranas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:969f20199ab25906036dd546d31ff91f61937de2c1e2e81c476c798b546766e4
+size 312

@@ -1,1 +1,3 @@
-Regulamentação da legislação trabalhista dos Agentes Comunitários de Saúde. Aprovação pelo Congresso Nacional de legislação de proteção aos trabalhadores aposentados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4460471885698923a8ac2755c70b0de4ae7e2571404c930e9fce8bb08f887bbe
+size 178

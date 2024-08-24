@@ -1,1 +1,3 @@
-Transcurso do 195º aniversário de emancipação política do Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fef9f5dc263a898cc7f76bb2d95227f9d2b959243354da033bdf579624b7ac9
+size 81

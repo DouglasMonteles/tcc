@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Arthur Lira, ao Relator Marcelo Ramos e ao Deputado Rodrigo Agostinho pela aprovação do Projeto de Lei nº 4.129, de 2021, de autoria da oradora, sobre as diretrizes gerais de elaboração de planos de adaptação às mudanças climáticas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17838fd1e1ae13b04a28921189194cc308e0ed02afa19fef2157ca1f3a970b9f
+size 270

@@ -1,1 +1,3 @@
-A Deputada levantou Questão de Ordem, alegando que o Presidente anterior da Sessão, Arthur Lira, havia anunciado que encerraria a Sessão após a deliberação da última matéria e que isso prejudicou a mobilização da Oposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72aa574b6c053ffe7de8f8b483ff4de7ff1af1eb7aadc2b7caae231b8c40bb41
+size 234

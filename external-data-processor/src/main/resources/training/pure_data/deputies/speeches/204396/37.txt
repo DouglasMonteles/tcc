@@ -1,1 +1,3 @@
-Recorde na visitação ao Parque Nacional do Iguaçu, no Município de Foz do Iguaçu, Estado do Panará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfeefbaa59c8527f10ad7163fa8a4beba530aa74e249ff77a6c5adef5aac6bb6
+size 105

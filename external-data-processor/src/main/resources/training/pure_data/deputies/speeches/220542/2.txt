@@ -1,1 +1,3 @@
-Insatisfação dos pecuaristas e consumidores brasileiros com os preços da carne. Defesa de discussão do tema pela Frente Parlamentar da Agropecuária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:270712f740eed3057ba96b0bdfab9f88bf939223cae8ec2d884ba64f093baf62
+size 153

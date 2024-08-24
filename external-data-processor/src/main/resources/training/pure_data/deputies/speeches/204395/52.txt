@@ -1,1 +1,3 @@
-Insegurança do orador quanto ao levantamento de questões no plenário e nas redes sociais, tendo em vista à censura imposta aos Parlamentares por membros do Supremo Tribunal Federal e do Tribunal Superior Eleitoral, especialmente por parte do Ministro Alexandre de Moraes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc7329aff29194075cab6b345415d31a8c7626bb5681835ce886f045bee2c4ff
+size 275

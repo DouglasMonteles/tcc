@@ -1,1 +1,3 @@
-Expectativa de solução dos problemas de infraestrutura hídrica da região do Baixo São Francisco, no Estado de Alagoas, ante o lançamento do Programa de Revitalização da Bacia Hidrográfica do Rio São Francisco, do Governo Federal. Importância do Programa para o Município alagoano de Piaçabuçu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ef28c71a0a7180211c44344b7fe476354c8b45da5b527c5b654248dd731dfa3
+size 307

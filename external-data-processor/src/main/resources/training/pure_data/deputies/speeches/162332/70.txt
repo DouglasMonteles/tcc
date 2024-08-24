@@ -1,1 +1,3 @@
-Dificuldades enfrentadas por produtores de feijão na região do Vale do Ivaí, Estado do Paraná. Requerimento à Companhia Nacional de Abastecimento - CONAB de urgente realização de leilão do produto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cf26eac4dced6269e91c5471fff82ea9d39ca9685205df0b6e474875f793bcf
+size 205

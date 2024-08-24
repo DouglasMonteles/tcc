@@ -1,1 +1,3 @@
-Contestação às críticas ao Governo Jair Bolsonaro pelo afastamento de profissionais cubanos do Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:232e4190e0d4835594d5458f8bbb860ed7003bf1ecdf17aa4893c97d45daea8f
+size 122

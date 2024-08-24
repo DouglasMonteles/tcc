@@ -1,1 +1,3 @@
-Solicitação ao Presidente Rodrigo Maia de prorrogação ad referendum do prazo de funcionamento da CPI do CARF e da CPI da Máfia do Futebol em caso de impossibilidade de aprovação da matéria no Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:651ca40533c7e7ab82d5aa2608b3d15af7b7507abe224bd71238bf62be50ede8
+size 210

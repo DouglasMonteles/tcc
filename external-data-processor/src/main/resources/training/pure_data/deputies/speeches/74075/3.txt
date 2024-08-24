@@ -1,1 +1,3 @@
-Elogio ao desempenho da Ministra Ellen Gracie na presidência do Supremo Tribunal Federal. Votos de êxito ao novo Presidente da instituição, Ministro Gilmar Mendes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4babc8a86e9b347cd85a4cc2795d8a94f709cc836c4d8e3275e8b871087120b
+size 167

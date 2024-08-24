@@ -1,1 +1,3 @@
-Importância da extinção da escravatura no contexto mundial. Agradecimento à trisavó do orador, a Princesa Isabel, pela assinatura da Lei Áurea sobre a abolição da escravidão no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cec6fc42d809bc6c4aec9435b12e53a42616c3b4e3c7682e103046ce2b6cdaa
+size 193

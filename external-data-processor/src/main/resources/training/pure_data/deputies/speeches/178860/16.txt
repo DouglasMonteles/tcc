@@ -1,1 +1,3 @@
-Transcurso do 468º aniversário de fundação de Salvador, Capital do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bb2ff119cb33433d11382d29203f231c50bcda10f57d79c597833f70ee7a81c
+size 87

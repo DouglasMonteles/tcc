@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Deltan Dallagnol diante da cassação do seu mandato parlamentar. Perplexidade ante a anunciada cassação do mandato parlamentar do Senador Sergio Moro. Lançamento da Frente Parlamentar contra a Sexualização Precoce de Crianças e Adolescentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6069f721eaacd1f7915b0430f00112dfd93916d74e31a237fd77f017e7e8315
+size 274

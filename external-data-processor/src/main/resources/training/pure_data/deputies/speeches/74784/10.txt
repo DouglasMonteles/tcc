@@ -1,1 +1,3 @@
-Apelo à Mesa Diretora de reajuste do valor do auxílio-alimentação dos trabalhadores terceirizados da Casa
+version https://git-lfs.github.com/spec/v1
+oid sha256:540dc2976e21155aff0205af96717138d3b314a093a08e37fc75e264ece4ff34
+size 109

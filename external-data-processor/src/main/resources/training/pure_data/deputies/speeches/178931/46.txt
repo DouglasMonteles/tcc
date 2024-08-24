@@ -1,1 +1,3 @@
-Dificuldades financeiras do Hospital do Trabalhador de Curitiba, Estado do Paraná, em decorrência de atraso do Governo Municipal no cumprimento dos repasses de recursos à instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99f8db9651cd1ec3c94b75f808bee776bebbad2e2c278334baf45f6a02172c2c
+size 188

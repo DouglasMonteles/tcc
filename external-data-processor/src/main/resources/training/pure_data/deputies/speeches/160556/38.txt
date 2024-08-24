@@ -1,1 +1,3 @@
-Agradecimento ao Ministério pelas ações adotadas contra o despejo de famílias da Comunidade Dandara, em Belo Horizonte, Estado de Minas Gerais. Expectativa de abertura de negociações com líderes da comunidade pela Prefeitura Municipal e pelo Governo Estadual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e14699dd19c060a93e9f2a2c992f695f43f4cc3f9d172453d37e51bc6eb21dd1
+size 266

@@ -1,1 +1,3 @@
-Solicitação ao Ministério da Saúde de revisão de decisão sobre a não reposição de vagas do Programa Mais Médicos relativas a Municípios do Estado da Bahia. Importância do programa para assistência da população carente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0096817d362c77dbbc196674bc514facdf8739d3b029a083f160ed782c64fbc0
+size 233

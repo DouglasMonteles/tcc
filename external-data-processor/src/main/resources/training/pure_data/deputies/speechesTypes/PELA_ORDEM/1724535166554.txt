@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação da medida provisória sobre a criação da Autoridade Pública Olímpica - APO. Revisão da Lei de Licitações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46b9d9891b1f6a2740387f04dc9b66a71c1d20fd309b66e48d5942a9e5240d60
+size 154

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei de Conversão nº 28, de 2022, apresentado à Medida Provisória nº 1.132, de 2022, &nbsp;sobre o percentual máximo aplicado para a contratação de operações de crédito com desconto automático em folha de pagamento, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02e29b2dc63d3d66bbb934f1dcce1bd1f39f677045a10659a9ca2aa7f88d1e2b
+size 303

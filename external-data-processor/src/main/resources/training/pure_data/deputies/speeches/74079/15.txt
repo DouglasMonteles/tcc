@@ -1,1 +1,3 @@
-Orientação de bancada sobre o requerimento de destaque para votação em separado da expressão bem como permitir a realização de atividades minerárias, constante do art. 1º do Projeto de Lei de Conversão nº 4, de 2017, da Medida Provisória nº 756, de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b27c5da5c03870660053a6fe80bf3abb416fc1063fc34b409f7ba35cc980af3
+size 267

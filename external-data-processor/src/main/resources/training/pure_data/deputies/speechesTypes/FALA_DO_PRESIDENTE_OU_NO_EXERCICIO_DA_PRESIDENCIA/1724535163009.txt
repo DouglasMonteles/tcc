@@ -1,1 +1,3 @@
-Presença na Casa de alunos do Centro de Ensino Fundamental de Brazlândia, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79f6ba8e47fbb71ed204c3dc2be09607fb782a63484938212e12433dba8ce51b
+size 93

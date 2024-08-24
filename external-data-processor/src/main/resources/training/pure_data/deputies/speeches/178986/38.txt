@@ -1,1 +1,3 @@
-Regozijo com a participação do orador no evento de lançamento da terceira etapa do Programa Minha Casa, Minha Vida, no Palácio do Planalto. Importância do programa para a economia e para a realidade social brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28f593ea16ae9192eaff3d3708cfcde0417319b0441bb97e1c707bdd26025e3e
+size 222

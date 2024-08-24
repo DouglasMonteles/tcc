@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 4.188, de 2021, sobre o serviço de gestão especializada de garantias; o aprimoramento das regras de garantias; o resgate antecipado de Letra Financeira; a transferência de valores de contas únicas e específicas do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB; a exclusão do monopólio da Caixa Econômica Federal em relação aos penhores civis; e a alteração da composição do Conselho Nacional de Seguros Privados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4277f0428faa678c68663c9a7f3dee9cd13e109914f7eb23b6224b0015613af
+size 616

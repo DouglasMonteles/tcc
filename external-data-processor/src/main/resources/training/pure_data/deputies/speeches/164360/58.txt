@@ -1,1 +1,3 @@
-Encaminhamento da votação do  Projeto de Lei 1.749 de 2011 (Autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Serviços Hospitalares S.A. - EBSERH e dá outras  providências). Defesa da aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:465116e782924141edc722e9fbde2683875469dce5ba6f68e62975ca27af03a3
+size 250

@@ -1,1 +1,3 @@
-Presença, na Casa, dos Prefeitos Silvio Zancanaro e Ademar Borges, respectivamente, dos Municípios de Campos Novos e Barra do Sul, Estado de Santa Catarina. Apelo ao Ministro da Economia, Paulo Guedes, de liberação de recursos aos Municípios brasileiros por meio do Financiamento à Infraestrutura e ao Saneamento - FINISA, lançado pela Caixa Econômica Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:723c40efa4fac15e4cf0bef3e3a140a643371ac4807c514bd56bbeb3f1812826
+size 368

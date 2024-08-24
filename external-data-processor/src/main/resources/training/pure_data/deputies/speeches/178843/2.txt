@@ -1,1 +1,3 @@
-Êxito da gestão do Ministro do Turismo, Vinícius Lages. Expectativa de crescimento do setor de turismo no Estado de Alagoas. Solicitação ao Ministro das Comunicações de contratação de carteiros e mudanças na Diretoria da Empresa Brasileira de Correios e Telégrafos em Alagoas. Congratulações ao Município de Coruripe por assinatura de ordem de serviço para construção de novo campus do Instituto Federal de Alagoas e lançamento da pedra fundamental da obra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a2a00cbae33802c3699457385bb3131891c80cbd39e867a60f11621875d2a2f
+size 475

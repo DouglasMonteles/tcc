@@ -1,1 +1,3 @@
-Importância da iniciativa do Governador do Estado do Maranhão, Flávio Dino, de realização das escutas territoriais, para participação da sociedade na elaboração do Plano Plurianual 2016/2019 e do Orçamento Participativo 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed22fd7e8039d5bbf041dac229a738b568ee6c816d34c7b04902866082b571bd
+size 235

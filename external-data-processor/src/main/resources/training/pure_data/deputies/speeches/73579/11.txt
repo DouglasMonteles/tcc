@@ -1,1 +1,3 @@
-Consulta ao Presidente Michel Temer sobre acolhimento de Requerimento de regime de urgência para o projeto de lei relativo à  criação do Plano de Cargos e Salários da Polícia Militar do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b31b9629d35ff93f69cce0a96c1477d7257e9552214d8dccde7e8299adca49ce
+size 209

@@ -1,1 +1,3 @@
-Homenagem póstuma ao Padre Giovanni Lisa, da Diocese de Teófilo Otoni, Estado de Minas Gerais. Relevância dos trabalhos desenvolvidos pelo religioso junto a movimentos sociais e comunitários. Papel exercido pelo Sacerdote na consolidação do PT na região do Vale do Mucuri. Criação, pelo Padre Giovanni Lisa, da Associação Aprender Produzir Juntos; da Associação dos Bairros de Teófilo Otoni; e da Associação de Lavadeiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01d9af25e83d45dc2357d7399492658935e242bb85a06a0ecafc7a1d7c8a88d1
+size 438

@@ -1,1 +1,3 @@
-O Deputado saudou a presença do Secretário Municipal de Saúde de Acrelândia, Vitor Martinelli, na Câmara dos Deputados. Parabenizou a atuação do Prefeito de Acrelândia, Acre, e destacou a importância do agronegócio para a cidade. Por fim, reforçou seu compromisso, como parlamentar, em destinar recursos orçamentários para Acrelândia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cfc33762c2cd4cde50c3bc0116d363c3ea99ff3100a15efdc80cbfc5e985462
+size 348

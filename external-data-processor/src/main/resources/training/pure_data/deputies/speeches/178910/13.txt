@@ -1,1 +1,3 @@
-Precariedade da BR-158 no Estado do Pará. Anúncio da visita de lideranças políticas e empresariais paraenses ao Ministério dos Transportes para o debate do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f18e612b73966f50b3c2683898a88bf96bdc7c30e398d3a9238182b1b2b5309e
+size 166

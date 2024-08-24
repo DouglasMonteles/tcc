@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 3.006, de 2022, sobre a transformação de cargos de Analista e de Técnico do Ministério Público da União em cargos de Subprocurador-Geral do Trabalho, Procurador Regional do Trabalho e em cargos em comissão, código CC-4, no âmbito do Ministério Público do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:360fb2d17b8b69ba0065f94994ff55b394702c95bc6feef295b5036f2f281a21
+size 317

@@ -1,1 +1,3 @@
-A Deputada parabenizou a cidade de Goiânia, capital do estado de Goiás, pelo seu 93º aniversário de fundação. Ela destacou o progresso e desenvolvimento da cidade, que superaram a média de muitas outras cidades do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:921bfb6e5c1d5dffd63e3087e1b6e96175c9fae8deb082324e4b7401213f16d8
+size 227

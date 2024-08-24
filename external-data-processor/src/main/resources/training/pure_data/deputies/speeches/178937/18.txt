@@ -1,1 +1,3 @@
-Pesar pela situação de atraso salarial dos servidores públicos do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6cf8ddff8320848ac5a03134a5b38e6dc38ffafff76c40b1e936ad8f109d1bc
+size 94

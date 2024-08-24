@@ -1,1 +1,3 @@
-Posicionamento contrário à Proposta de Emenda à Constituição nº 241, de 2016, sobre a instituição do Novo Regime Fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcf48d1b0e661632f48627c97604892ad43c725ddf4354b935f6e91fdb718d7b
+size 128

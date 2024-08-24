@@ -1,1 +1,3 @@
-Transcurso do Dia do Índio. Participação do orador em festividade na comunidade indígena pataxó, no Município de Açucena, Estado de Minas Gerais. Combate ao preconceito contra os índios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6db43a224bab4bff053c21334da393b88abd8bc38ea64247bbca8b8805829ea3
+size 194

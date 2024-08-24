@@ -1,1 +1,3 @@
-Atribuição à política econômica implementada pelo Presidente Jair Bolsonaro e pelo Ministro da Economia, Paulo Guedes, da responsabilidade pelo elevado contingente de trabalhadores desempregados e pelo agravamento do quadro de pobreza extrema no País. Queda do Brasil no ranking mundial da economia. Êxito da política socioeconômica adotada pelo ex-Presidente Luiz Inácio Lula da Silva. Confiança no retorno da Oposição ao poder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f942cd05445a98dec3eb4d824879f337f8248c5075b72a55425adc7e44a3526
+size 442

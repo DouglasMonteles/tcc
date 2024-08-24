@@ -1,1 +1,3 @@
-Contradita a questão de ordem do Deputado Ronaldo Caiado sobre a antirregimentalidade de emenda apresentada pelo Relator do Projeto de Decreto Legislativo 1.736 de 2009 (Aprova o texto do Acordo entre a República Federativa do Brasil e a Santa Sé relativo ao Estatuto Jurídico da Igreja Católica no Brasil, assinado na Cidade-Estado do Vaticano, em 13 de novembro de 2008), pela Comissão de Educação e Cultura, Deputado Chico Abreu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fb71627be4eb48da8364c1fc97bc07bee8bbbf90ece22cc7e979c3ed2863acd
+size 440

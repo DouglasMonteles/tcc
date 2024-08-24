@@ -1,1 +1,3 @@
-Posicionamento sobre greve nacional dos caminhoneiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32055345d58d2c5a86e9bca6bf5f65b3394627831c6dcec43dad120b8d67e6c5
+size 54

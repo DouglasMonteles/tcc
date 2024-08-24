@@ -1,1 +1,3 @@
-Expectativa quanto à celebração de acordo de Líderes para a votação das Propostas de Emendas à Constituição de nºs 300, de 2008, e 308, de 2004.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb85300f29eba0fe1ccc69b4a6f9d7d3a272459fdeec21cadd89519987f8fbb7
+size 154

@@ -1,1 +1,3 @@
-Congratulações ao Governador Beto Richa e ao Secretário de Estado da Saúde, Michele Caputo Neto, pelo enfrentamento da epidemia de dengue e negociações para a aquisição de vacina para imunização da população de Municípios paranaenses, especialmente de Paranaguá. Apresentação de requerimento de solicitação ao Governo Federal de liberação de lote emergencial da vacina contra a dengue para Municípios do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d29589a3e1506a25c19bd73b8aba66409dca243c4596702989014ad1e68be750
+size 433

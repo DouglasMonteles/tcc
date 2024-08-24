@@ -1,1 +1,3 @@
-A Deputada denunciou a ADPF 442, uma ação que visa descriminalizar o aborto até 12 semanas de gestação. Argumentou que a ADPF abre um precedente perigoso para questões como eutanásia, suicídio assistido e infanticídio, além de despersonificar o feto no ventre materno. Destacou que a população brasileira é majoritariamente contra o aborto e mencionou o sucesso na coleta de assinaturas para a votação do Estatuto do Nascituro. Afirmou que lutar contra a ADPF 442 é também lutar pelas prerrogativas do Parlamento e pelo respeito mútuo entre os Poderes. Ela conclamou a Casa a defender suas próprias prerrogativas em nome do equilíbrio democrático.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5dcaeea6095c24233152bdcb2f64144041371d8abf5b8574c3cc423732e41e9
+size 668

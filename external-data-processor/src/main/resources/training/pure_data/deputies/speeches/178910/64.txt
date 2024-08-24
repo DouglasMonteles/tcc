@@ -1,1 +1,3 @@
-Tentativa de assalto, com uso de explosivos, de agência do Banco do Brasil no Município de Santana do Araguaia, Estado do Pará. Necessidade de investigação policial do crime. Premência de investimentos em segurança nas agências bancárias e postos de saúde do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bec589a52b62b75e49d4d7ba98f2e1b104b04a5d3f25ca1a0b05f61f45381138
+size 275

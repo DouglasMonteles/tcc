@@ -1,1 +1,3 @@
-Elevação dos índices de desemprego no País. Fracasso da reforma trabalhista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b591e819d8f61955db9d6f0d8ae9dfc649589c6225beca0b17ea1d46a9c9b85e
+size 80

@@ -1,1 +1,3 @@
-Participação no 1º Seminário do Festival de Cinema de Alter do Chão, no Município de Santarém, Estado do Pará. Elaboração da agenda de compromissos pela coordenação do evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe1c64b9fa4cf154dd5ab7de583e0725f776ce3065400e6ff16f69cb86f69f5d
+size 187

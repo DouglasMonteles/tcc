@@ -1,1 +1,3 @@
-O Deputado parabenizou os eleitos para a nova Mesa Diretora do Tribunal de Justiça de Pernambuco (TJPE) para o biênio 2024/2026. Ressaltou a história de seu pai, Guilherme Uchoa,que integrou o Judiciário e foi Presidente da Assembleia Legislativa. Expressou agradecimento ao Presidente do TJPE pela contribuição à sociedade pernambucana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bb539641bcc2a091489e17bda7a8abb40b06fd43744be4b8a4cf3b7bc6d5566
+size 344

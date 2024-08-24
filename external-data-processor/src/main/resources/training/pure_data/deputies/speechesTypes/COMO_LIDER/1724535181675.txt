@@ -1,1 +1,3 @@
-Entrevista concedida pelo Deputado Jofran Frejat ao Jornal da Câmara a respeito do reajuste dos proventos dos aposentados. Defesa de inclusão na pauta de proposta de interesse da classe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19bc8b6b51bb901331b8da972bea2ea3a6dd162e1a464fc83af97480fb556ae2
+size 188

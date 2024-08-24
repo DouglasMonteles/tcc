@@ -1,1 +1,3 @@
-Caráter demagógico do discurso do PT favorável às cotas raciais. Elevação da representatividade feminina e de minorias na Câmara dos Deputados no Governo Jair Bolsonaro. Sucesso da política de inclusão social do ex-Presidente da República. Alcance social do Programa Auxílio Brasil lançado por Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78a1720a60c0a2508baf90dba77ce6cb5729f4b6317e662eae2c157b8445f536
+size 321

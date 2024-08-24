@@ -1,1 +1,3 @@
-Regozijo com a aprovação da Proposta de Emenda à Constituição nº 171, de 1993, que trata da imputabilidade penal do menor de 16 anos. Expectativa de aprovação da matéria pelo Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:623b494a766213fb4e32dada17dde6d7b924eabd6ddf6b46c4a883ee2a515a24
+size 199

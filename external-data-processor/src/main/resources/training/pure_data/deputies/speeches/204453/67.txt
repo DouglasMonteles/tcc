@@ -1,1 +1,3 @@
-Indignação com posicionamentos preconceituosos contra a orientação sexual das pessoas. Repúdio ao discurso de ódio e opressão do Presidente Jair Bolsonaro contra o homossexualismo. Apoio da oradora à luta da comunidade LGBTQIA+. Destinação pela Parlamentar de recursos de emenda orçamentária para o ambulatório destinado ao tratamento da saúde da comunidade LGBTQIA+, da Universidade Estadual do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:259e7cef46ca50a90f0b5627ede50f5aed110f72669c9f3744feff6e7b6be05f
+size 430

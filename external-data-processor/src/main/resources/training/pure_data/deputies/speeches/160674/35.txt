@@ -1,1 +1,3 @@
-Apoio do PMDB à votação do projeto de lei sobre a instituição do Estatuto da Juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5716d81ab751f5f472c8dc669aa070e66205599e74e7e5e42814d7ef55a0575a
+size 92

@@ -1,1 +1,3 @@
-Repúdio a manifestação da Deputada Jandira Feghali no portal UOL sobre o caráter machista da Câmara dos Deputados, em decorrência da rejeição da proposta de cota para representatividade feminina no Parlamento brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfde617bb158a47c0ce56b704957049e97df746a7a9b8b1b45abf7955b7056ce
+size 228

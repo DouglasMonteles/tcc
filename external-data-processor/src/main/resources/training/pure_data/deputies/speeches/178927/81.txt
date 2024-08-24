@@ -1,1 +1,3 @@
-Repúdio à aprovação pelo Senado Federal de proposta de autoria do Senador José Serra relativa à PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe1f573fca167d7a9a7026d27dc37372afaa69d6cb4ce7f4898458e4619d2074
+size 112

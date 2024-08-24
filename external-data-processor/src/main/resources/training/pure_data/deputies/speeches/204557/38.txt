@@ -1,1 +1,3 @@
-Avanço da aprovação pela Casa do Projeto de Lei nº 4.805, de 2019, relativo à alteração da Lei n. 8.248, de 1991, sobre a capacitação e competitividade do setor de informática e automação para estabelecimento de tratamento tributário aplicável às empresas do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8f8683a54f50701a8275667b1f0a68470c18fc3936e1914e1bb2144f9984593
+size 280

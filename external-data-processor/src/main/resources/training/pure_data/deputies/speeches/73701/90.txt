@@ -1,1 +1,3 @@
-Encontro da oradora com o Ministro de Ciência e Tecnologia, Aloizio Mercadante, para debate da formação de novos mestres e doutores. Implantação de política especial para o Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq, destinada ao financiamento da pesquisa. Congratulações ao Ministro Aloizio Mercadante pelos avanços alcançados com o Plano de Ação para Ciência, Tecnologia e Inovação, o PAC da Ciência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48aea8b94fc248ae044ba86a1176f6ad41f1ebfcc98e46aee3592b43b0ec3f1a
+size 446

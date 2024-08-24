@@ -1,1 +1,3 @@
-Questão de ordem sobre a anulação dos atos realizados pela Comissão de Direitos Humanos e Minorias na apreciação do Projeto de Lei nº 81, de 2021, tendo em vista o exercício da Presidência da respectiva sessão pelo Relator da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1f2ec74da627739edeb4c4b4d5ce271f2543e87eb1ded6d49cd0fa2b760cdce
+size 245

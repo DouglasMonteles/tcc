@@ -1,1 +1,3 @@
-Presença de pesquisadores da Organização das Nações Unidas para a Educação, a Ciência e a Cultura - UNESCO no Estado do Ceará para avaliação do projeto Geopark Araripe. Reinauguração do Museu de Paleontologia de Santana do Cariri. Realização simultânea da Conferência Pan-Americana da Geopark nos Municípios de Barbalha, Crato e Juazeiro do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3badf98c6579e861950a2016f9205525e16939714ea490cc918dc5df1f805db
+size 365

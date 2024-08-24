@@ -1,1 +1,3 @@
-Comemoração do Dia do Vereador. Saudações aos Edis brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae0a4ef936a910b5c3fb4bfbdb63f1cc6c4f5eae764a9abe0ee9f9f913df4c8d
+size 67

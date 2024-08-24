@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Combate ao Câncer. Agradecimento à Comissão de Seguridade Social e Família pelo apoio à construção do primeiro centro de prevenção e diagnóstico de câncer do Estado de Rondônia. Defesa de aprovação do Projeto de Lei nº 7.354, de 2017, referente à alteração da Lei nº 11.664, de 2008, acerca da efetivação de ações de saúde destinadas a prevenção, a detecção, ao tratamento e ao seguimento dos cânceres do colo uterino e de mama, no âmbito do Sistema Único de Saúde - SUS, com vista à garantia da realização de ultrassonografia mamária. Importância dos trabalhos e ações de prevenção da doença.
+version https://git-lfs.github.com/spec/v1
+oid sha256:478ac01c7d9b4308ea273e057dd4df4202b971adac88f4a769bb14d1174ee0bc
+size 664

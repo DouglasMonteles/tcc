@@ -1,1 +1,3 @@
-Presença na Casa da Presidente do PL no Estado de Pernambuco, Izabel Urquiza. Preparação de recepção para a Presidente Nacional do PL, Michelle Bolsonaro, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a0d62911a57a0f73b5ef50ed3b61e7979126aae0aa0b4d5338609759ad86737
+size 170

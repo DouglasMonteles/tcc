@@ -1,1 +1,3 @@
-Regozijo com divulgação de pesquisa sobre a importância das emendas parlamentares para o crescimento social do País. Menção à Proposta de Emenda à Constituição nº 2, de 2015, que torna obrigatória a execução da programação orçamentária de emenda de bancada, de autoria do orador. Apoio à aprovação da Proposta de Emenda à Constituição nº 443, de 2009, que fixa parâmetros para a remuneração dos advogados públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc3052a01b5838d50de3edac8bbbb33812c8fec7f60b5593063d85511def797f
+size 443

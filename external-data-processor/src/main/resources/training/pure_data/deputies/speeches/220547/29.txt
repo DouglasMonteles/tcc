@@ -1,1 +1,3 @@
-Descompasso entre a mobilização da Polícia Federal para fiscalização do certificado de vacinação do ex-Presidente Jair Bolsonaro, e a soltura de narcotraficantes e estupradores pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9887755ce0ec16ec2bb8f49bd57a28ad267051b6f712f4d6d4450bf872305395
+size 251

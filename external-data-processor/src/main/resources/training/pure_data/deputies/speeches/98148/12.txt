@@ -1,1 +1,3 @@
-Evolução do setor agropecuário do Estado de Santa Catarina. Realização de investimentos na infraestrutura rural. Debate, junto ao Ministério da Agricultura e Pecuária, do endividamento dos produtores rurais catarinenses provocado pela queda dos preços do milho e da soja.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a6f7fefc874f31f04277b724865f2bd01e6b734840c87991531587897606623
+size 279

@@ -1,1 +1,3 @@
-Perspectiva de continuidade do desenvolvimento socioeconômico da Região Nordeste. Realização de investimentos no Estado da Paraíba na gestão do Governador Ricardo Coutinho. Apelo à Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO de ampliação do Aeroporto Internacional Presidente Castro Pinto, no Município de Bayeux, e do Aeroporto Presidente João Suassuna, no Município de Campina Grande.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c391922d9a0c650ddd2b71179fb16c68d13efeaaf7125ab815254adaae98739c
+size 417

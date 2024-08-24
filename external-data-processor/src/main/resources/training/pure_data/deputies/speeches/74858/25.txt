@@ -1,1 +1,3 @@
-Apelo ao Relator Claudio Cajado de revisão de tópicos do parecer apresentado ao Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País, e da criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022, (novo arcabouço fiscal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:151a9f3a44a2e4b4bbbff15a4c1f82234d853a1099860f4a5748ecf9301dbde9
+size 410

@@ -1,1 +1,3 @@
-Saudação ao Líder do MDB, Deputado Baleia Rossi, pela atuação nas votações da proposta de reforma previdenciária. Protagonismo exercido pelo Presidente Rodrigo Maia na condução do processo de reformulação da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79de44c8eadbbb0ca76e065204c5012e20c32c050ec6efff66af1aed3605e5a0
+size 240

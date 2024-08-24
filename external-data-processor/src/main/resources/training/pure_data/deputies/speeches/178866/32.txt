@@ -1,1 +1,3 @@
-Protesto contra a intervenção do Governo Jair Bolsonaro nas eleições para a reitoria da Universidade Federal do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6040349bdfdd217e98526d86bf7db149a2eade40a338e0c93c70f0bc1823a953
+size 123

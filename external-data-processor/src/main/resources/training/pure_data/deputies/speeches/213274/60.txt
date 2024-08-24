@@ -1,1 +1,3 @@
-Relevância das ações do Parlamento brasileiro para enfrentamento da epidemia de coronavírus. Indignação com a recusa de atendimento ao orador pelo Sr. Carlos Henrique Sobral, assessor do Ministro da Saúde Marcelo Queiroga.  Desrespeito da Pasta ao Parlamento brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88c2fa1ac8b618da2e823bfba44673f974633b6d004002f18449542287d97df0
+size 277

@@ -1,1 +1,3 @@
-Pedido à Presidência de esclarecimento sobre a eventual participação do Deputado Eduardo Bolsonaro em missão oficial ao Catar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bf19e32149c073d73327b9c6135e40ea4728604c2300c626260c8614167ba5c
+size 131

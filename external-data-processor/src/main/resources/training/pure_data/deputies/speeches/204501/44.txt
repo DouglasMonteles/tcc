@@ -1,1 +1,3 @@
-Discussão do  Projeto de Lei nº 2.790, de 2019, sobre a alteração da Lei nº 12.608, de 2012, com vista à prevenção de desastres induzidos por ação humana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bbbe155908b238d762a9e07cffbdcbf125be60f07cd17c4f251ecbb902a3669
+size 164

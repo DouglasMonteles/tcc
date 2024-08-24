@@ -1,1 +1,3 @@
-Repúdio a discursos de Parlamentares da Esquerda em defesa da democracia diante do apoio à recepção, pelo Presidente Luiz Inácio Lula da Silva, do Presidente da Venezuela, Nicolás Maduro, com gestão marcada por violações aos direitos humanos, por acusações de alianças com o narcotráfico e de corrupção e por perseguição aos opositores. Caráter ditatorial do Governo Nicolás Maduro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42636e0e7807bcc113f40883ae37891938f29dc37863034bcf55a7e28bacc3b6
+size 401

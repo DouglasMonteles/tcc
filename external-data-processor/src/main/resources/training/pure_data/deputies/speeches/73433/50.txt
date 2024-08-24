@@ -1,1 +1,3 @@
-Presença no plenário de delegação de representantes das juventudes partidárias do Chile e do Presidente do Instituto Nacional de Juventude do Chile.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7680e65a60f9644a47e1ad353e55f0447ebb8463da2dace636d4635e837f687
+size 153

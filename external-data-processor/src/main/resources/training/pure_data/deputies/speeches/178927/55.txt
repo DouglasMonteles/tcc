@@ -1,1 +1,3 @@
-Alerta à Câmara dos Deputados para a necessidade de discussão de ações propositivas. Comunicado de apresentação de projetos de lei sobre a obrigatoriedade do rastreamento de todos os veículos públicos do País e sobre a proibição do ato de nomeação com efeito retroativo, com o objetivo de remuneração do servidor público anterior à efetiva investidura no cargo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e12b0d628221edc9e033650b965c5583cbd02ff856810a895fb6905ddef3279a
+size 379

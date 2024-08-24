@@ -1,1 +1,3 @@
-Maior atenção do Ministro da Educação, Abraham Weintraub, e do Secretário de Educação Profissional e Tecnológica, Ariosto Antunes Culau, para com o Centro Federal de Educação Tecnológica - CEFET no Estado do Rio de Janeiro. Encontro do orador com o Ministro da Cidadania, Osmar Terra, para debate da Autoridade de Governança do Legado Olímpico - AGLO. Apelo ao Ministro da Economia, Paulo Guedes, por manutenção da infraestrutura do Parque Olímpico  do Rio de Janeiro. Saudações aos visitantes presentes nas galerias do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f323f7e06d8f0132ec717a0725428924e33943c9294869a1aa48c6f3e1143ee7
+size 548

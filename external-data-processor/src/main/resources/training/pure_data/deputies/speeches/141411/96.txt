@@ -1,1 +1,3 @@
-Obstrução da votação pelo PDT. Apoio do partido ao mérito da medida provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54b0239be305233a855473cdaf62b3580d6cf024028bd16365500119f450ec75
+size 85

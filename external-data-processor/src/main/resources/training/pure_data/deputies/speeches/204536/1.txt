@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado de São Paulo pela eleição do orador. Renovação da política brasileira. Defesa de realização da reforma previdenciária. Agradecimento ao Movimento Brasil Livre - MBL por apoio ao Parlamentar.  Transcurso dos 2 anos de falecimento do pai do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:218999c03ac7721730133c3b6e6a779d98ad46afb137a13b5874630985d467c5
+size 293

@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à delegação do Estado de Mato Grosso, em visita à Câmara dos Deputados. Realização de homenagem aos policiais participantes da Operação Canguçu, destinada ao enfrentamento de assaltantes de banco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b34f02d0a9d6e7831900690a4ae76c0ed2c0c481b4479efff8836b11a3cf804c
+size 236

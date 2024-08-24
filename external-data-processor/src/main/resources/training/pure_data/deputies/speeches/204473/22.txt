@@ -1,1 +1,3 @@
-Defesa de desenvolvimento da região amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea3d5c7cc824ee1246448253075057581838ae620fa6d48780a39f16002e2d0e
+size 48

@@ -1,1 +1,3 @@
-Pedido à Presidência de determinação do encerramento dos trabalhos nas Comissões da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69a46e174ed339efbae38f5309c0f1176224bb97da68a19c4918174c6ee395da
+size 94

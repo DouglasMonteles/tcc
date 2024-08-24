@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação de requerimento de inclusão automática na Ordem do Dia do Projeto de Lei nº 2.685, de 2022, que institui o Programa Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil; estabelece normas para facilitação de acesso a crédito e mitigação de riscos de inadimplemento e de superendividamento de pessoas físicas; altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e as Leis nºs 10.406, de 10 de janeiro de 2002 (Código Civil), 10.522, de 19 de julho de 2002 e 12.087, de 11 de novembro de 2009; e revoga dispositivo da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), e a Medida Provisória nº 1.176, de 5 de junho de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b938b618b9fa4c90e9d90d420d728b913943b0c82ac665425270ceb4d3817b9
+size 782

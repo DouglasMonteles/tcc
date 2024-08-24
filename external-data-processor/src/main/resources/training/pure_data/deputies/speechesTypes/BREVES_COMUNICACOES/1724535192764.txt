@@ -1,1 +1,3 @@
-Apoio à ratificação da Convenção nº 151, da Organização Internacional do Trabalho - OIT, sobre a regulamentação da negociação coletiva no serviço público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c532ae130b156f20cc4b29ff162c2b8b74765f7736b67bc520e27b823e7eb1f
+size 168

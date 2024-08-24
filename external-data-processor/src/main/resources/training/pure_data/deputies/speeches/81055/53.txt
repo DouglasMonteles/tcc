@@ -1,1 +1,3 @@
-Realização, pelo Prefeito Edvaldo Holanda Júnior, de conjunto de obras para revitalização da Capital São Luís, Estado do Maranhão. Lançamento, pelo Governador Flávio Dino, do Projeto Nosso Centro, destinado à recuperação do Centro Histórico de São Luís.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aac89875e088e3f46928146b6c88f054e9dbba6d6c425077a30fa182beb6e9b3
+size 269

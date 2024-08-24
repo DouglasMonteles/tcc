@@ -1,1 +1,3 @@
-Tentativa do bloco PSB/PT/PCdoB de desestruturação da segurança pública no Estado de Pernambuco. Apresentação do Projeto de Lei nº 1.264, de 2023, sobre a equiparação salarial entre servidores da segurança pública. Presença de familiares do orador na Câmara dos Deputados. Defesa da extinção de faixas salariais na polícia de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e52f86773db72ac1c14d5b9c1c975ad2af98a7c5f954aa42d64299605b86a0
+size 353

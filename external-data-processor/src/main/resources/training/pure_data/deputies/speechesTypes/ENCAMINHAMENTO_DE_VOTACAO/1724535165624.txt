@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de quebra de interstício de 5 sessões para a votação, em segundo turno, da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56aad28231785d67b571e829fd9104665019a0e59a7674318c3af756e1849c87
+size 208

@@ -1,1 +1,3 @@
-Defesa da criação de regras diferenciadas para à concessão de aposentadoria aos militares das Forças Armadas brasileiras e policiais no âmbito da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1a71ee3d6575922d202ba7c3e793dab451d92a5807aba8237679581df336e4f
+size 176

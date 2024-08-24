@@ -1,1 +1,3 @@
-Avanços da Medida Provisória nº 1.063, de 2021, sobre a venda direta de combustíveis ao revendedor varejista e a incidência do PIS/Pasep e Cofins nas operações de compra e venda. Adoção de política nacional de incentivo às microdestilarias e cooperativas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b975fcbeaf4d645eebbe95a38ceadcba683759ec7d02626e02e4afea2b385ab5
+size 266

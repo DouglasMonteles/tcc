@@ -1,1 +1,3 @@
-Falecimento do Bispo Emérito da Diocese de Caratinga, Estado de Minas Gerais, Dom Hélio Heleno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47207d8d52c816205f9aa82a796f8730e27195c584ea7eab4528c676f1af2f7b
+size 97

@@ -1,1 +1,3 @@
-Descaso do Departamento Nacional de Infraestrutura de Transportes - DNIT com a situação da BR-262, no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28fb306557006418788ef04d704eafc2e0ad617da2c442a39240a4332e6505c6
+size 130

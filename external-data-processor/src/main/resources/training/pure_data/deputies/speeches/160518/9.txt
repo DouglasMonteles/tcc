@@ -1,1 +1,3 @@
-Defasagem salarial do professorado mineiro. Apoio popular ao projeto de lei acerca da unificação do valor do Imposto sobre a Propriedade de Veículos Automotores - IPVA. Anúncio da apresentação de proposta de emenda à Constituição a respeito do tema. Criação de CPI destinada à investigação de irregularidades no pagamento do Seguro Obrigatório de Danos Pessoais Causados por Veículos Automotores de Via Terrestre, ou Por Sua Carga, a Pessoas Transportadas ou Não - Seguro DPVAT. Apresentação de projeto de lei acerca de extinção da cobrança de assinatura básica da telefonia fixa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fae1ff4702c223d6fedca9515541b1de75ad9710b1fe24e4bfd67a4beecdf206
+size 603

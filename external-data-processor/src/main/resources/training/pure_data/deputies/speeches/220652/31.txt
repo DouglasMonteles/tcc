@@ -1,1 +1,3 @@
-O Deputado criticou a sugestão do Presidente Luiz Inácio Lula da Silva sobre tornar secretos os votos dos Ministros do Supremo Tribunal Federal. Questionou a motivação por trás dessa proposta, defendendo a transparência e a necessidade de votos abertos em todos os níveis da vida pública. Ressaltou que a população tem o direito de saber as posições dos representantes e magistrados em temas cruciais. Elogiou também a postura independente do Ministro Zanin e finalizou sua fala acusando Lula de incoerência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0e64254284f53af14394299fc980b0cdea47c939ee8dbe63fa0550adcbe6048
+size 522

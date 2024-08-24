@@ -1,1 +1,3 @@
-Inconveniência da realização de reforma política na presente conjuntura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4608c46cc72b5fef13ab44ef9172aa046eb752948e71bc16065147853cadfccc
+size 76

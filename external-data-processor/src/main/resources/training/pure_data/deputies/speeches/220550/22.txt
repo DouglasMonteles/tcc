@@ -1,1 +1,3 @@
-Alto valor de móveis comprados pelo Presidente Luiz Inácio Lula da Silva para a sua residência no Distrito Federal. Taxação, pelo governo brasileiro, de compras on-line do exterior. Denúncia de oferecimento a Parlamentares, pelo governo petista, de cargos/pecúnia para retirada de assinaturas do requerimento de criação da CPMI destinada à investigação de atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad3ee582c64557be5cddee343c8960dc540486b09c4619962727f2a46442c004
+size 440

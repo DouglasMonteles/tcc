@@ -1,1 +1,3 @@
-Participação na 100ª Conferência Internacional do Trabalho, em Genebra, Suíça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c789e7344d5e91c6e0d722cca80693dcea4f1373de65a6ef993cf66078a122c
+size 84

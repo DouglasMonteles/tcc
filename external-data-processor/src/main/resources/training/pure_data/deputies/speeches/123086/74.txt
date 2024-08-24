@@ -1,1 +1,3 @@
-Sessão solene em homenagem à TV Cidade Verde.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eece03e4ef09108d3c1d7caf017b8c788939f34c18a79038eeb6b9aa4727c0e7
+size 196

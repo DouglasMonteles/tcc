@@ -1,1 +1,3 @@
-Inauguração pelo Governador do Estado da Bahia, Jaques Wagner, de blocos residenciais populares no Bairro de Jardim América, no Município de Itabuna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e997114d6d6fe461e5e63772e71138919236bf5c5724e837fb1a69aaa5df284b
+size 153

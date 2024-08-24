@@ -1,1 +1,3 @@
-Pedido, ao Presidente Rodrigo Maia e aos coordenadores das bancadas nordestina e petista, de articulação diante das declarações do Presidente Jair Bolsonaro contrárias à liberação de recursos à Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb59838025a087bbeb153372db0f0097ee7c8ae1edb9e41194bf4c2f32eb35a
+size 220

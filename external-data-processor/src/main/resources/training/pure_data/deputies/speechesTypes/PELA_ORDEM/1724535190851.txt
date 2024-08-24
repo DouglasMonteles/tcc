@@ -1,1 +1,3 @@
-Visita, à Casa, da Prefeita Nerilda Aparecida Penna e de Vereadores do Município de Arapoti, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71968bbf44a6c60575e2522d8f81a1c67a77b7f5cac40328817e39f04748dc03
+size 113

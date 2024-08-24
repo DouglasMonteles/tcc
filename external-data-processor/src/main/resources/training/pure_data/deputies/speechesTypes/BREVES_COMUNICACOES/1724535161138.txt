@@ -1,1 +1,3 @@
-Contrariedade ao contingenciamento de recursos, pelo Governo Federal, para a área de educação. Indignação com o não cumprimento de contratos entre Ministério da Educação, organizadores e professores do Programa Institucional de Bolsa de Iniciação à Docência - PIBID, com prejuízo às escolas de ensino fundamental no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81768a42c643a0bc909db8f5eb9eac1338d3fcc89677a7bd064636f82ed7d574
+size 337

@@ -1,1 +1,3 @@
-Defesa de realização de eleições presidenciais em 2016. Ausência de legitimidade para a permanência da Presidenta da República, Dilma Rousseff, à frente do Governo Federal. Expectativa de decisão do Supremo Tribunal Federal pelo fim do financiamento empresarial de campanha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b17a57ad32641c28b6850e9e3a231f48d62308d9c6f58d7e012fc93cb83aa59c
+size 283

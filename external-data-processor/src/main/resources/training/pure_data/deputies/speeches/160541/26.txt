@@ -1,1 +1,3 @@
-Parecer, pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, às Emendas ao Projeto de Lei 12 de 2012-CN (Abre ao Orçamento Fiscal da União crédito suplementar em favor dos Ministérios do Planejamento,  Orçamento e Gestão e das Cidades, para reforço de dotações constantes da Lei Orçamentária vigente).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d1e51ff2cd81fd2b706754da97d7291291f1bd983c235180e327195ef892cb8
+size 333

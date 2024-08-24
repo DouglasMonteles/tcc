@@ -1,1 +1,3 @@
-Importância da aprovação do Projeto de Lei nº 1.085, de 2023, do Poder Executivo, sobre o estabelecimento de igualdade salarial e remuneratória entre homens e mulheres no exercício da mesma função; e a alteração da CLT - Consolidação das Leis do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d86db0292e6256a8dfa0ae70cc146b25eb29ff09749561b885408d3f2420a20d
+size 267

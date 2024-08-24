@@ -1,1 +1,3 @@
-Encaminhamento da votação da   Medida Provisória 396 de 2007 (Dá nova redação aos arts. 1º e 2º da Lei 10.841 de 2004, que autoriza a União a permutar Certificados Financeiros do Tesouro).
+version https://git-lfs.github.com/spec/v1
+oid sha256:af79ed47a380b189f9affc2ca3b3ec7f86507dd1ba7e6ce8863971727ba7a5a4
+size 197

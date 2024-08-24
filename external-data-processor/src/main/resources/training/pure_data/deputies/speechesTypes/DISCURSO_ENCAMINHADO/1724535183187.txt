@@ -1,1 +1,3 @@
-Transcurso do 196º aniversário de fundação do Município de Itapira; do 25º aniversário de emancipação político-administrativa do Município de Ilha Comprida; e do 379º aniversário de fundação do Município de Ubatuba, todos do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:519225e5a3ecf0221a62aa1014dc5c34919112edbf28eccbbbda7f7a27cb5432
+size 262

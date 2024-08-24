@@ -1,1 +1,3 @@
-Elogios à atuação do Ministro da Educação, Abraham Weintraub, no exercício do cargo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9b25fc9ff534e3daa3f07136268cbb76920f8cac7306960390a92cc00439bbf
+size 90

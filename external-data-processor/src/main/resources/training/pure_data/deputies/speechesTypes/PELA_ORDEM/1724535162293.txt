@@ -1,1 +1,3 @@
-Aprovação pela Casa, em segundo turno, de proposta de emenda à Constituição relativa à redução da maioridade penal. Expectativa de aprovação da matéria pelo Senado Federal, em consonância com o anseio da maioria da população brasileira. Solicitação ao Supremo Tribunal Federal - STF de julgamento pela improcedência de processo relativo à descriminalização do porte de drogas para consumo pessoal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:664cc1e3b981521443d2a4f91c728ba6ef620b7447f51130f23a71f3d34deef6
+size 417

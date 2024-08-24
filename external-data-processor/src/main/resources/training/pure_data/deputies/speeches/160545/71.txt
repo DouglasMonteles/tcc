@@ -1,1 +1,3 @@
-Adiamento da apreciação do Projeto de decreto legislativo 1.287/2013, que aprova o texto da Convenção que estabelece a Organização Europeia para a Pesquisa Astronômica no Hemisfério Austral, assinado em Brasília, em 29 de dezembro de 2010, e os demais atos internacionais a ela anexados, que especifica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a430dfb8347f756a4b64aeb4d893b7392aa55e3d272b07b9a4483e035299800
+size 312

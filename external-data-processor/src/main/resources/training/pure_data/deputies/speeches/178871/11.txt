@@ -1,1 +1,3 @@
-Importância da cultura do morango para o agronegócio no Brasil. Convite para participação na Festa do Morango no Município de Domingos Martins, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ff084249a24ed19d93c28b4f31560eab93ab5eb229c17e9b78bb0a0a32bc20c
+size 175

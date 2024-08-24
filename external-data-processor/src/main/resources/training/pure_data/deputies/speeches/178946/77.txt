@@ -1,1 +1,3 @@
-Saudações ao Presidente em exercício dos trabalhos, Deputado Rôney Nemer, e aos demais integrantes da Mesa Diretora dos trabalhos. Comemoração do Dia de Nossa Senhora da Conceição Aparecida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd8136ef01e27359a073af5d1bfbdcfd73b909f23e2788d05d5ece63071be6fa
+size 198

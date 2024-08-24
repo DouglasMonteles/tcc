@@ -1,1 +1,3 @@
-Realização da 2ª Conferência de Intelectuais da África e da Diáspora - CIAD, em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20f826c67fcd59d7733f60ead33c180fee62ae5e53f46231b0871052be6942e8
+size 112

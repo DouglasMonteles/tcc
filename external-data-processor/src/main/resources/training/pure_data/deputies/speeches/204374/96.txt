@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 27, apresentada à Medida Provisória nº 925, de 2020, sobre as medidas emergenciais para a aviação civil brasileira diante da pandemia de coronavírus. Remoção de contas ligadas ao PT pelo aplicativo Facebook. Pedido à Casa de rejeição do Projeto de Lei nº 2.630, de 2020, relativo à instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e727382998a97fdfb568cdf9f3930b1d1eec97b93b09c8314c1579d9aedd742
+size 506

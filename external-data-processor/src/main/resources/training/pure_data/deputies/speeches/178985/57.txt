@@ -1,1 +1,3 @@
-Presença, na Casa, da Vereadora Mariana Calsa, da Câmara Municipal de Limeira, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:535c43b299521f3277dc3d06d1d8de777b5e509a451bbd2ff10211cb1964c42d
+size 102

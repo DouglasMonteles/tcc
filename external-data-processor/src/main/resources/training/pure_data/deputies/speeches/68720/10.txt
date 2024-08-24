@@ -1,1 +1,3 @@
-Defesa de inclusão na pauta da Proposta de Emenda à Constituição nº 372, de 2017, sobre a criação das polícias penais federal, estaduais e distrital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4186bfc36da5929580fd5788f45c868970709e53c27e00833739b881a8c70c22
+size 157

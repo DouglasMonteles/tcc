@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Tiago Mitraud sobre a tragédia socioambiental ocorrida no Município de Brumadinho, Estado de Minas Gerais. Integridade do Partido NOVO. Disposição da agremiação partidária para participação em debates em prol do desenvolvimento do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51f38c784bfa96f6f4ea22ebfe3ed63e24b419c1940a26a748b06f7728b04c1f
+size 289

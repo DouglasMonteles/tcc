@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação da expressão período do ano em que o Congresso Nacional analisará as políticas públicas do governo federal a fim de fiscalizar a implementação, consolidação e expansão de políticas públicas sociais em caráter nacional contida do artigo 2º, do Projeto de Lei nº 4.035, de 2023, que institui Agosto como mês de combate às desigualdades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:659a28a0470fe8eae394e278001d255d6c8ba06eb984cd6f93d3cd5e3b25ee2a
+size 394

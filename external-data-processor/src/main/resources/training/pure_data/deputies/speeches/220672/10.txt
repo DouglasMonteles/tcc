@@ -1,1 +1,3 @@
-O Deputado enalteceu a gestão do Governador Helder Barbalho pela inauguração do Centro de Convenções de Santarém Sebastião Tapajós. Esclareceu que o local servirá para atividades culturais e sociais e contribuirá para o desenvolvimento de Santarém e da região oeste do Estado do Pará. O orador convidou a todos para conhecer as belezas de Santarém, conhecida como a Pérola do Tapajós.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89d0c3aa725085faae98081b551a314c16a224f7f8e0931f9873a11b27cf6640
+size 400

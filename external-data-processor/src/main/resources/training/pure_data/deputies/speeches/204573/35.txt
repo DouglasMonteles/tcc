@@ -1,1 +1,3 @@
-Pedido à Presidência de votação dos requerimentos de destaques apresentados ao Projeto de Lei nº 5.387, de 2019, sobre o mercado de câmbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no País e a prestação de informações ao Banco Central do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:652411a39cec21d2efe8d9d41581b17bef4e639c3e9a63bcfa37ea0bad2de462
+size 282

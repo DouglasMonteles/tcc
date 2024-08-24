@@ -1,1 +1,3 @@
-Considerações sobre a conjuntura política brasileira. Defesa de projeto de lei de autoria do orador sobre rastreamento de veículos governamentais. Pedido de apoio aos Parlamentares para aprovação do pleito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2c4d2e91c2a1eaa7ec3b58e11f60ec3175d89e14b59181e1b79fbb3522fb2f
+size 212

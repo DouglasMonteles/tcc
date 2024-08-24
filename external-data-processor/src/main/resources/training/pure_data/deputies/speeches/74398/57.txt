@@ -1,1 +1,3 @@
-Participação na 2ª Conferência Mundial sobre Ensino Superior, realizada em Paris, França. Concessão de prêmio ao Presidente Luiz Inácio Lula da Silva pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura - UNESCO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97d0212726c3361f160116badde00b27b88d03b4fa69ede826d4128a9250b689
+size 248

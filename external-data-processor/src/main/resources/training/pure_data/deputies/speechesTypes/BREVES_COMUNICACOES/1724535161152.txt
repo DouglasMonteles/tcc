@@ -1,1 +1,3 @@
-Repúdio à crítica do Ministro da Economia, Paulo Guedes, à vacina produzida pela China e à expectativa de vida do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2947a415ec5d29edb4db28f61e30ab5a41c6c018f22f256a651deab89f9f30
+size 135

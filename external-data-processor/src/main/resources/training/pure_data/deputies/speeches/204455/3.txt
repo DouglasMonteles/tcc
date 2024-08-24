@@ -1,1 +1,3 @@
-Preferência dos eleitores do Estado do Rio de Janeiro pelo PSL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3251db41c363379cf1585352612dd53df944d3d4cb53cc0d2bbde71cd527f8d
+size 64

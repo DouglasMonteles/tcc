@@ -1,1 +1,3 @@
-Transcurso do 456º aniversário de fundação do Município de Itaquaquecetuba, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d412179a2980cb6f82f2e42ee79ad726566faa855d341672211ef028ae326ca5
+size 102

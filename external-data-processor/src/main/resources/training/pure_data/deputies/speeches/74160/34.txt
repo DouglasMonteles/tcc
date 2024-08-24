@@ -1,1 +1,3 @@
-Queda da desigualdade de renda no Brasil durante o governo petista, segundo o Instituto de Ensino e Pesquisa - INSPER. Relevância do papel desenvolvido pelas políticas sociais. Importância de programas sociais implantados pelo governo do PT, a exemplo do Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b187f7c3929ffd919ccdee78a677c20d72ab3e1fd96e84b19f600c4007bc5d9d
+size 282

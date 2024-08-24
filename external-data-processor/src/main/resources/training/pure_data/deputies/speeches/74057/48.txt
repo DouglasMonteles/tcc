@@ -1,1 +1,3 @@
-Encaminhamento da votação, em segundo turno, da PEC 138 de 2003 (Dispõe sobre a proteção dos direitos econômicos, sociais e culturais da juventude). Defesa da aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28f3af4eb3195b25ed453dd0bc56c39eef0ae809cca0e44dcb9cfbf1991135b5
+size 189

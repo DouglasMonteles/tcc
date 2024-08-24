@@ -1,1 +1,3 @@
-Conveniência de afastamento do Ministro da Justiça e Segurança Pública, Sérgio Moro, diante de diálogos obscuros divulgados pelo site The Intercept Brasil  entre o magistrado e Procuradores da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b88730668f3dd63c8de60a1bce0aefbd2e712b0f4a24a9273d65f466df5e885
+size 210

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 6, oferecida à Medida Provisória nº 853, de 2018, sobre a reabertura do prazo de opção para o regime de previdência complementar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ef8b401266494fc9359e5906a2dbdcc058c82e8452295a485508c5712584bfe
+size 241

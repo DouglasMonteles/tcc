@@ -1,1 +1,3 @@
-Realização da Romaria do Divino Pai Eterno, no Município de Trindade, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8d16fad7c7abeed5f2062b90041313e3c86ee13ca9cd6b10867e3c6ccdee99a
+size 90

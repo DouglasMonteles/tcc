@@ -1,1 +1,3 @@
-Crescimento do desemprego no País no primeiro trimestre de 2019. Posicionamento do orador sobre a Proposta de Emenda à Constituição nº 6, de 2019, relativa à alteração do sistema de Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b121a7de376fbf31c59b13c422165eebcf7557b2bd8f1cf75219892ba42aa09
+size 210

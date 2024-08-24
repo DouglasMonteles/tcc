@@ -1,1 +1,3 @@
-Ilegalidade da cobrança da emissão de boleto bancário imposta aos consumidores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d21ee3c9c6aaad3bb733c834547c803dc1aa42f22f4a2c4ca8b7d054fdeb0e21
+size 82

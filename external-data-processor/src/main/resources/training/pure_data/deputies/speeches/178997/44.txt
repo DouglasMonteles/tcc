@@ -1,1 +1,3 @@
-Congratulações ao Ministro da Integração Nacional pela autorização da abertura de licitação pelo Departamento Nacional de Obras Contra as Secas - DNOCS para a aquisição de perfuratrizes destinadas ao enfrentamento da estiagem na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17e6358e192dfc574277d13eb6f00345e0445a036f4df64666fa24c2751cd119
+size 256

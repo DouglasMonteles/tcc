@@ -1,1 +1,3 @@
-Repúdio à discriminação racial praticada contra o jogador de futebol Vinícius Júnior, na Espanha. Necessidade de ação efetiva das autoridades competentes contra o racismo no futebol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9793cb641cdc03e6accbb29fdfa7bd73d100824b4abdad497d07e3468cfc871e
+size 190

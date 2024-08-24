@@ -1,1 +1,3 @@
-O Deputado ressaltou a importância de emendas impositivas na área da saúde para apoiar o trabalho dos bombeiros militares na assistência pré-hospitalar. Também expressou solidariedade às famílias de São João del Rei, Minas Gerais, que enfrentaram a perda de três crianças saudáveis em um curto período devido a um quadro infeccioso. Ele destacou as investigações em andamento para compreender as causas dessas mortes, apontando para a possibilidade de amidalite. Ele alertou as equipes de saúde em todo o Brasil para ficarem vigilantes e cuidadosas com casos de amidalite, dada a aparente gravidade desses eventos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1805e49d84e13fd64a6ef84c7fbe964a91763f6d7408f56368d3d46d1d817dfc
+size 631

@@ -1,1 +1,3 @@
-Transcurso do Dia do Índio e do Dia de Tiradentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18a7cd387005ab6a4bf841077aab65f5445886943be9cac7abfe45971a8cc3f4
+size 51

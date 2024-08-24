@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao ex-Deputado Eduardo Campos.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e82ad030d52bc9fb96c531aa4636ac27e70ca3aed921b2318b517e1657672b0f
+size 207

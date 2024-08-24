@@ -1,1 +1,3 @@
-Homenagem aos professores do Estado de Sergipe e do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91983496f6440d7cb4cf09156bb4666d4ee9b29504a3e93ebd0f0f47bef65c6d
+size 58

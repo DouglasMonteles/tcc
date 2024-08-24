@@ -1,1 +1,3 @@
-Apoio à garimpagem praticada por pequenos mineradores na calha do Rio Madeira, Estado do Amazonas. Baixo impacto ambiental provocado pela atividade dos pequenos mineradores, em face de suas estruturas rudimentares. Relevância socioeconômica da extração mineral para as municipalidades da região. Apelo ao Ministro do Meio Ambiente e aos organismos policiais de revisão do tratamento dispensado aos pequenos garimpeiros do Rio Madeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc13de97459c31cfce349dca87c49066e4975de390e751496a45bc4acddf403c
+size 441

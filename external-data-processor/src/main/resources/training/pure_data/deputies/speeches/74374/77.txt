@@ -1,1 +1,3 @@
-Desvio por Governadores Estaduais na aplicação de recursos destinados à saúde. Matéria Verba da saúde paga almoço de preso e farda, publicada pelo jornal Folha de S.Paulo. Necessidade de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de receitas ao setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73e67f91ee422d51ba1ff83ae679f28179bcf28d6703dab755a08bbdb0ed7e6c
+size 295

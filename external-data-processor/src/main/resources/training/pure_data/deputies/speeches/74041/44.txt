@@ -1,1 +1,3 @@
-Presença no plenário do pai do Deputado Dr. Talmir, Gabriel Alves Rodrigues.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f4e4ac6986b79306afdfa8e8baa79a147dbb7fa1625633eeef2462f749a6fc2
+size 78

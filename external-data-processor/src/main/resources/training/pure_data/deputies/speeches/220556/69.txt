@@ -1,1 +1,3 @@
-Defesa de pagamento do piso salarial nacional dos profissionais da enfermagem. Promulgação da Lei nº 14.602, de 2023, sobre a alteração da Lei nº 7.498, de 1986, com vista à criação de condições de repouso de enfermeiros durante o horário de trabalho. Importância de valorização da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2334cfaf9736aebf52552da020ff5bc6dacdbf8f19659ad317e6c09e11ec727
+size 307

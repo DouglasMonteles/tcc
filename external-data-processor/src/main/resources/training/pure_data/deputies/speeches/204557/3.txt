@@ -1,1 +1,3 @@
-Empenho da bancada federal amazonense na criação da Universidade da Tríplice Fronteira, com sede na região do Alto Solimões, na divisa do Brasil com a Colômbia e o Peru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e5780772d90761a1c51c08c95ac3c940f0c9fc33ca91b9e05c9213e67f96b31
+size 175

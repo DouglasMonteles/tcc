@@ -1,1 +1,3 @@
-Despreparo dos Estados e Municípios para execução da Lei nº 14.133, de 2021, (Lei de Licitações e Contratos Administrativos). Apresentação do Projeto de Lei nº 1.139, de 2023, sobre a prorrogação da vigência das leis de licitações especificadas. Apelo à Casa de aprovação de requerimento de apreciação da propositura em regime de urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc52337e1292121d1c9f01f89652bb33373791120b3f59c240237aa4a3a2e741
+size 359

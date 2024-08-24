@@ -1,1 +1,3 @@
-Sessão solene em homenagem póstuma ao Ex-Deputado Federal Osvaldo Coelho.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5e803f46603ab0aa7d52d3c52069335441f1944fbca61fe1a9f98f0166c5e95
+size 224

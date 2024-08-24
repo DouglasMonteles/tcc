@@ -1,1 +1,3 @@
-Falecimento dos dirigentes do Movimento dos Pequenos Agricultores - MPA Maria Izabel da Silva e Derli Cassali, em decorrência de acidente automobilístico ocorrido no Município de Seabra, Estado da Bahia. Participação do orador em reunião do Diretório Nacional do PT. Renúncia do Sr. José Eduardo Dutra à presidência do partido por motivo de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c455ab83769efae10a46bcd506ca137bbfeb68b648c171416d666728d8b4008c
+size 359

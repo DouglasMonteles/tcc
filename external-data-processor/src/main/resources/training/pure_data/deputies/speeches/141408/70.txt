@@ -1,1 +1,3 @@
-Apoio à proposta de revogação do fator previdenciário. Inclusão na Ordem do Dia de projeto de lei sobre extensão do índice de reajuste do valor do salário mínimo às aposentadorias e pensões pagas pelo INSS.   Conveniência da aprovação de proposta sobre instituto da desaposentação, com a possibilidade de suspensão de aposentadorias proporcionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:401115a5dd7776fde4b3c1e0e5f146085a54ecf20aaa73b43d5f420d0963de96
+size 364

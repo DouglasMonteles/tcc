@@ -1,1 +1,3 @@
-Lançamento da Campanha da Fraternidade de 2015 pela Confederação Nacional dos Bispos do Brasil - CNBB com o tema Fraternidade: Igreja e Sociedade e o lema Eu vim para servir.  Transcurso do 10º aniversário da catedral do Município de Castanhal, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:441141cbc92809ab7abd5ade356e5df8ea9caad2ef233825c2e92dc9492a0d4d
+size 267

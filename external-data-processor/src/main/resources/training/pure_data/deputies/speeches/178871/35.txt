@@ -1,1 +1,3 @@
-Crítica às ações de combate à febre amarela adotadas pelo Ministério da Saúde nos Estados de Minas Gerais e Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eb936b6102372bb498c266586edf8357f60b71cec9139f8468fb1e2fb122098
+size 131

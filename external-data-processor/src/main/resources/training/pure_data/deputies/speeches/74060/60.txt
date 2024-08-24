@@ -1,1 +1,3 @@
-Encontro de representantes de movimentos sociais com o Presidente Luiz Inácio Lula da Silva, para discussão do estabelecimento de agenda em defesa da economia nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27710c52b107aa0214713bc029e35d6c5ea48c09852ac615a7b3dbd36e8b4161
+size 170

@@ -1,1 +1,3 @@
-A Deputada celebrou a aprovação do projeto de resolução que cria a bancada negra na Câmara dos Deputados, formando a primeira bancada histórica antirracista do Brasil na Casa. Destacou a lição da Constituição Cidadã de 1988 e a influência da Deputada Benedita da Silva. Expressou o compromisso da Casa com a maioria negra, ressaltando a capacidade de contagiar parlamentares não negros na batalha diária contra o racismo. Concluiu defendendo uma verdadeira democracia inclusiva, que reconhece a voz da ancestralidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecf30a62c81329c818824c81465a85bffd235e113358cdd3486afc099f2c3a14
+size 531

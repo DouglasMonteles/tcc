@@ -1,1 +1,3 @@
-Cobrança ao PT e à Presidenta Dilma Rousseff de posicionamento sobre ameaças de integrantes do partido ao Presidente do Supremo Tribunal Federal, Joaquim Barbosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:384152876407aef9829f86ff10dc5c5c898f18527577807286c4a5f3a5dd5fcb
+size 165

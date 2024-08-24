@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3.383, de 2021, sobre a instituição da Política Nacional de Atenção Psicossocial nas Comunidades Escolares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5b22fa257a8e9e074f632024abc4bd4d94152387b763a665d4adc9315f42d59
+size 226

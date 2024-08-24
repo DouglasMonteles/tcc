@@ -1,1 +1,3 @@
-Pesar pelo falecimento do Cardeal D. Paulo Evaristo Arns, Arcebispo Emérito da Arquidiocese da São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a1e30ed8aefdc6e903b287b09aef0a7c2db13887f50d09b62c119decec20ee4
+size 107

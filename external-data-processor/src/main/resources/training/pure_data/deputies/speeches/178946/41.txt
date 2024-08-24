@@ -1,1 +1,3 @@
-Apelo aos Parlamentares de comparecimento ao plenário, para votação do requerimento de tramitação em regime de urgência do projeto de lei a respeito de medidas protetivas estabelecidas na chamada Lei Maria da Penha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb5090ec1dd758ecc856452b2db9275ed4022a77c8d40fb0e696ce00ef724770
+size 221

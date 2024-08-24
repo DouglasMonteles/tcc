@@ -1,1 +1,3 @@
-Anúncio de votação, pela Casa, do projeto de lei sobre o Plano de Cargos e Salários da Polícia Militar e do Corpo de Bombeiros Militar do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bf92b2e2b966842eaebdaa6fd20b9ddc3e55860e43b110e19005d0d11f7d5db
+size 160

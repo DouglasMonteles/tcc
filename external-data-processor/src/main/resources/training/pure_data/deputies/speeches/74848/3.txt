@@ -1,1 +1,3 @@
-Repúdio aos ataques militares contra a Líbia. Acerto do posicionamento da diplomacia brasileira com relação ao assunto. Contradição entre o discurso democrático do Presidente dos Estados Unidos da América, Barack Obama, e a atuação beligerante do governo norte-americano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eb46c4c833faebfbb3a5077c81c9e0757543c9045236fa9331ad5b16d249b73
+size 281

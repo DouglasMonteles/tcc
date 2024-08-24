@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de encerramento da discussão e do encaminhamento da votação do Projeto de Lei nº 7.596, de 2017, a respeito dos crimes de abuso de autoridade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2454892df8138a5022785a7d64da8145aa80694e87bced65d6a52f49f8c7e16
+size 199

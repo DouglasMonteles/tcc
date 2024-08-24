@@ -1,1 +1,3 @@
-Congratulações aos Deputados pela condução dos trabalhos da Casa em favor do Brasil. Acerto da decisão do Governo Federal de reforço da segurança para a manutenção da ordem em Brasília, Distrito Federal. Solicitação aos Líderes partidários e Deputados de realização de acordo para a votação das Medidas Provisórias nºs 765, de 2016, e 766 e 768, de 2017.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e81b92e0afb9241c3fe453a2be5df8bac7a80e95b30e260c971ca0fca1a51c51
+size 374

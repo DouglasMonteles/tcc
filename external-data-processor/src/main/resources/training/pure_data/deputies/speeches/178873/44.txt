@@ -1,1 +1,3 @@
-Indignação com a inclusão na pauta de proposta de reforma trabalhista. Reiteração de convite ao povo brasileiro para participação em greve geral contra as propostas de reformas previdenciária e trabalhista de iniciativas do Governo Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68574a4c3582f0d620d9e4f7679672046204f6632190ed88fcc0b22e8338086a
+size 253

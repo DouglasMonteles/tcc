@@ -1,1 +1,3 @@
-Presença na Casa do ex-Deputado Vieira Reis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfb3950cdf1690bf7ac8a2b7a5a37fbfdc618b4945f5bc2582a92907585038d2
+size 45

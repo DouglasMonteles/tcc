@@ -1,1 +1,3 @@
-Emissão de parecer à Medida Provisória nº 1.151, de 2022, e às Emendas de nºs 1 a 42 apresentadas conforme o caput do art. 3º do Ato Conjunto nº 1, de 2020, editado pelas Mesas da Câmara dos Deputados e do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9898a473095c7fdb9c2e36dc0ad861dabd3de96c4dd182f02fd42e8d4d632a77
+size 230

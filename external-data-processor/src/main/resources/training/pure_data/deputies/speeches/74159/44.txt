@@ -1,1 +1,3 @@
-Repúdio à operação realizada pelo Departamento Nacional de Produção Mineral em conjunto com a Polícia Federal e órgãos ambientais contra a exploração de quartzito no Município de São Tomé das Letras, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f322742e51c740507468eff8b06eacb5a558ce21dc49d66c0c69f4a4ee2a04b
+size 237

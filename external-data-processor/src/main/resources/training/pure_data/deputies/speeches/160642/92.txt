@@ -1,1 +1,3 @@
-Combate a todas as formas de violência praticadas contra crianças. Papel desenvolvido pelas igrejas em prol das crianças brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b746e6cd57906708d26ccab6f05539738d1fda184caf13c2334479bf979d41f
+size 136

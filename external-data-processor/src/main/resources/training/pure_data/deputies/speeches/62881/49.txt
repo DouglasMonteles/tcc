@@ -1,1 +1,3 @@
-Falecimento do ex-Deputado Federal Nelson Trad. Enxugamento da máquina pública para melhoria da gestão da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b9b4411353f6e76a72ada83795c598ba108544f1e6e4af3bbac43a6dabb72e4
+size 135

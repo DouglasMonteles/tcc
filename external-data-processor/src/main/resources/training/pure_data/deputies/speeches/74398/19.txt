@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado de Porto Alegre, Estado do Rio Grande do Sul, pelos votos recebidos nas eleições à Prefeitura Municipal. Afirmação do compromisso de atuação parlamentar em prol do Rio Grande do Sul e do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1b0d1c64f31fe7bfec2f4d0cfccc8b521b7b42e9fc0acf9a38b58500c41f9f9
+size 228

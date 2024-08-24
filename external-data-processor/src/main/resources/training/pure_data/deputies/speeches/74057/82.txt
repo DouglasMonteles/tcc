@@ -1,1 +1,3 @@
-Homenagem à memória da ex-militante comunista Dinaelza Santana Coqueiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bffd85009fe6cc8e41f5fe3b73902164635213561e483694663828d5b6cde79
+size 74

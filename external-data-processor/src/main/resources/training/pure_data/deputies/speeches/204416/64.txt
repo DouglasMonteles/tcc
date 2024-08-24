@@ -1,1 +1,3 @@
-Encaminhamento ao Congresso Nacional pelo Ministro da Economia, Paulo Guedes, da proposta de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc7ce66c067041618f4f7cbbd032c0d9cb5c261c2b700b60685895f2c40b28fb
+size 113

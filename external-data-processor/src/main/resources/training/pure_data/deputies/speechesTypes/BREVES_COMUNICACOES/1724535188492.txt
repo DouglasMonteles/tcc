@@ -1,1 +1,3 @@
-Balanço positivo dos 100 primeiros dias do Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95c1abcf6aa5999b7f43fb153c2898a6782ef14cfd41b051c004a49b744dde8b
+size 79

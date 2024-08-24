@@ -1,1 +1,3 @@
-Pedido à Oposição de desobstrução das votações,  com vistas à votação da Proposta de Emenda à Constituição nº 300, de 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80aa798559334788d5381d2fabb52d19668c58afaea917218109f9f1576f9a5b
+size 137

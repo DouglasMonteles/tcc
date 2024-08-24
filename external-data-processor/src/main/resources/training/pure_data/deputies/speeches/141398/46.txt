@@ -1,1 +1,3 @@
-Transcurso do 45º aniversário de criação do Instituto de Pesquisa Econômica Aplicada - IPEA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79df386f2858eb79deb5f2a6e6fc41b5c69153ff4fa5b72f7d2ad620750dab88
+size 97

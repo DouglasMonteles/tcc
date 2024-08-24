@@ -1,1 +1,3 @@
-Transcurso do 136º aniversário do Município de Palmas, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2ade49e7be75f5be5caade3e9261990a88b0469bcc1c314797b0a222c568ec
+size 76

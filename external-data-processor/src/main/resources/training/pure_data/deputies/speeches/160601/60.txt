@@ -1,1 +1,3 @@
-Veiculação nas redes sociais de vídeo do orador sobre a campanha Outubro Rosa de prevenção ao câncer de mama. Incentivo aos Parlamentares de adesão à causa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6b435cf94df1c0318ecd2f9e1376cab37b09cc0e073cd7c74edfa7faf6119ab
+size 164

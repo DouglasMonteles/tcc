@@ -1,1 +1,3 @@
-O Deputado destacou a importância do Encontro de Artes e Tradição Gaúcha (ENART), o maior evento tradicionalista das culturas gaúchas de dança, ocorrido no final de semana. Destacou a vitória do DTG Poncho Verde e do CTG Querência da Serra no evento, ressaltando a importância da música e da dança na preservação das tradições culturais do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a53af49294a3ecf447059c721a3cdef546e386f9a100209eccb362f5443abae5
+size 373

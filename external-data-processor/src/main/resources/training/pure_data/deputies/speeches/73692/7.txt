@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a reavaliação de exames psicotécnicos aplicados aos postulantes à Carteira Nacional de Habilitação, com vistas à detecção de transtornos de conduta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7611066ff846dab3a5e27a8ab08ace76b9fb1b329250605e6b1b0df24af2435c
+size 196

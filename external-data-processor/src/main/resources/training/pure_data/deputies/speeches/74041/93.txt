@@ -1,1 +1,3 @@
-Irregularidades na execução do Programa de Aquisição de Alimentos no Município de Pombal, Estado da Paraíba. Desempenho do Procurador Regional Eleitoral, José Guilherme Ferraz da Costa, e do Procurador da República Duciran Farena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be1a8aaf055f6cccda78d4ce9e0932b47eab7da392e0b073e17d40b9825b7bb0
+size 238

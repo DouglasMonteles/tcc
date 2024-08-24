@@ -1,1 +1,3 @@
-Presença em plenário de Vereadores do Município de Laranjeiras do Sul, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dd2a46130b157f29d0657d921ebcd4674a890c06c0140c95912fa1085fe09d3
+size 92

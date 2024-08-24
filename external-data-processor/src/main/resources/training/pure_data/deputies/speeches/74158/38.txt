@@ -1,1 +1,3 @@
-Manutenção dos direitos trabalhistas de operadores portuários no processo de apreciação da medida provisória sobre a criação do novo marco regulatório do setor portuário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:087cc8c081c3f691c0d756cef9e13a684cffa1fc6e41ccd5c09db1ebad067c4d
+size 180

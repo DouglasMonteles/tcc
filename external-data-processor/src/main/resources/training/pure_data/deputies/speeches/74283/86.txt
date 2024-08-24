@@ -1,1 +1,3 @@
-Outorga ao ex-Prefeito Gilson Menezes do título de Cidadão Honorário de Diadema, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:991f8f11d5ced63852a214bb800b0ac64bd86bb7efb1a6b335c9da4a80e128d4
+size 105

@@ -1,1 +1,3 @@
-Esclarecimento sobre o decreto presidencial a respeito do reconhecimento de estado de calamidade pública no País, editado com base no art. 65 da Lei Complementar nº 101, de 2000, a Lei de Responsabilidade Fiscal. Expectativa de aprovação pela Casa de projeto de decreto legislativo a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42fcfc6ee934a677815ca8ffb39a989174cd551295a37598a65a6d720ed577bb
+size 306

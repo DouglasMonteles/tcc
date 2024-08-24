@@ -1,1 +1,3 @@
-Alerta ao Parlamento sobre a gravidade de anunciada decisão favorável a ser dada pelo Supremo Tribunal Federal à descriminalização do porte de drogas para uso pessoal, em ação ajuizada pela Defensoria Pública do Estado de São Paulo. Contrariedade da Associação Brasileira de Psiquiatria, da Associação Médica Brasileira e da Federação Médica Brasileira à liberação do consumo de drogas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f99781db35c9aff251f50374f220fcdc0367ccec137089c42fd1d1e70921822a
+size 415

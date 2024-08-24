@@ -1,1 +1,3 @@
-Apoio do Governador do Estado de Pernambuco, Paulo Câmara, ao parecer oferecido pelo Deputado Geninho Zuliani ao Projeto de Lei nº 3.261-A, de 2019, sobre a atualização do marco legal do saneamento básico. Solicitação aos Deputados da bancada pernambucana de aprovação do parecer apresentado à propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0049f361f7061b984dda077a8ae8cd83bd294ea0321e5eea9feec62cf3fc8464
+size 316

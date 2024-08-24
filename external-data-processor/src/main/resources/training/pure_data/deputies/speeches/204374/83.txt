@@ -1,1 +1,3 @@
-Congratulações à médica brasileira Marina Bucar, pelo uso exitoso do medicamento hidroxicloroquina no tratamento de pacientes com Covid-19, na Espanha. Votação pela Casa do Projeto de Lei nº 1.179, de 2020, acerca da instituição de normas de caráter transitório e emergencial para a regulação de relações jurídicas de direito privado, diante da pandemia de coronavírus, e a alteração da Lei nº 13.709, de 2018. Apoio à Medida Provisória nº 966, de 2020, relativa à responsabilização de agentes públicos por ação e omissão em atos relacionados com a pandemia da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cac1c8441b35026b303c7fb138b1754f3f6e00b05cfb2f7e8cc185a55dd5dd1
+size 600

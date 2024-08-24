@@ -1,1 +1,3 @@
-Presença em plenário do Prefeito Luiz Gomes, do Município de Nova União, e dos Vereadores Edilson Vieira, Joaquim Teixeira e Ademilson Procópio, do Município de Ji-Paraná, Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e0079bfa649833d3288b13173d4147cb555de3c264bbe0d9d3106f8e994349a
+size 199

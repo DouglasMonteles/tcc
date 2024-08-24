@@ -1,1 +1,3 @@
-Convocação, como Presidente da Frente Parlamentar em Defesa da Indústria Brasileira de Bebidas, dos Deputados integrantes da Frente para votação favorável ao destaque em apreciação, concernente à inclusão de micro e pequenas fábricas de refrigerantes no SIMPLES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8a44e635bf76029e8947f2decdd9899b948034668e047f7ca3cc95af28c7c4c
+size 273

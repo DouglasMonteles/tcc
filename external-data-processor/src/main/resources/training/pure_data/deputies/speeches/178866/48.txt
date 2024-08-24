@@ -1,1 +1,3 @@
-Vinculação entre a política negacionista do Presidente Jair Bolsonaro e o alcance do patamar de 146 mil mortes no País provocadas pela Covid-19. Alerta ao povo brasileiro, em especial aos candidatos nas eleições municipais de 2020, sobre a importância de cumprimento das medidas sanitárias de prevenção ao coronavírus. Ocorrência de 9 mil mortes no Estado do Ceará provocadas pela Covid-19. Redução pela Medida Provisória nº 1000, de 2020, do valor do auxílio emergencial de 600 reais, e do número de contemplados com o benefício pecuniário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:358722dadfa476b283a0f2ac6ac92e136883f5a077eb0fab2bd3314cb8f7b1e4
+size 562

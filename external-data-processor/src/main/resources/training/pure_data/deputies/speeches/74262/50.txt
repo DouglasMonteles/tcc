@@ -1,1 +1,3 @@
-Apoio do PSDB à manifestação do Deputado Ronaldo Caiado, Líder do DEM,  sobre a  subserviência da Casa ao Executivo, a propósito de sessões consecutivas madrugada adentro para conclusão da votação da Medida Provisória 595 de 2012, na iminência de perda de eficácia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e89d597cd896e38ca5ec1c33cd13a75e525bbeeaa187494ab25462298a7ddfd4
+size 278

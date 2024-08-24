@@ -1,1 +1,3 @@
-Manifestação de solidariedade ao ex-Presidente Luiz Inácio Lula da Silva. Importância do legado social deixado pelo ex-Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:414fb70cc452b41c645a4ceba829561c6a00aa43536762a5867cd6739176f30f
+size 148

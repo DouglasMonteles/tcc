@@ -1,1 +1,3 @@
-Desenvolvimento histórico do turismo no mundo. Potencialidades turísticas do Município de Pato Branco, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d056a18307f682b1dc8c7ac6e8efc26cdd808b7a89fe29ac0af07d8e29ee303f
+size 124

@@ -1,1 +1,3 @@
-Apelo ao Governo do Estado de Minas Gerais e à Prefeitura Municipal de Belo Horizonte de regularização fundiária das áreas denominadas Camilo Torres, Irmã Doroty e Dandara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cff437cc0f6713b9958cf968a0be775bca781f9752bd71caba552a304ffac72
+size 178

@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 3.677, de 2021, sobre alteração das Leis nºs 9.478, de 1997, e 9.847,  de 1999, para concessão de mais transparência à composição de preços dos combustíveis ao consumidor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb05395fd5aa3c32e6fa4555c242e225d8c339552f0a204c162f1f33a50fcdf6
+size 214

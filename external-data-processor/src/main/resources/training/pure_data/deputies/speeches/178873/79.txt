@@ -1,1 +1,3 @@
-Penalização dos trabalhadores brasileiros no caso de aprovação da proposta de reforma previdenciária. Defesa de rejeição da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a63f98fba27c3d7698bea55b73341c1dfd9b451a9e6ce9573da642f5566af5e2
+size 140

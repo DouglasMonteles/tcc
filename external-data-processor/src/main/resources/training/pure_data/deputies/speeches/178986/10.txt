@@ -1,1 +1,3 @@
-Trajetória política do orador. Avanços sociais e econômicos do Brasil nos Governos Luiz Inácio Lula da Silva e Dilma Rousseff. Desafio do País de elaboração de nova estratégia de desenvolvimento diante de crise econômica mundial. Importância da encíclica papal Laudato Si, sobre a gravidade da degradação socioambiental para a humanidade. Protagonismo do Brasil na Conferência das Partes sobre Clima - COP 21 agendada para Paris, França.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cd90b0429d98a0872dda34b53c57e07f390da8d851ff38be06ce30430cf0c2f
+size 453

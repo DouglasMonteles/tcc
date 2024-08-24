@@ -1,1 +1,3 @@
-Realização pelo PT de seminário sobre educação pública nas dependências da Câmara dos Deputados. Compromisso do Governo Luiz Inácio Lula da Silva com o setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8268ef8da5668140bef2157726a6290285ea1bd8cdb1b94cabd992e0d7f8261
+size 179

@@ -1,1 +1,3 @@
-O Deputado anunciou a volta do programa Minha Casa, Minha Vida, com milhares de unidades destinadas a várias cidades. Informou que o Ceará foi contemplado com diversas casas, incluindo o Cariri e Juazeiro do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25f859f67abce05c6d31597c7ff741bc8c9703edae19564802a248ad47e4ce7c
+size 216

@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Rim. Excelência dos trabalhos desenvolvidos pela Fundação Pró-Rim, no Município de Joinville, Estado de Santa Catarina. Papel do chamado terceiro setor no processo de desenvolvimento do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e172a85d48e0d1f8409ca31b3419257433e2d0f55d679ee2f9d51ecae826e7d9
+size 226

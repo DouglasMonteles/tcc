@@ -1,1 +1,3 @@
-Aumento da produção de energia eólica pelo Estado do Piauí. Cumprimentos ao Governador Wellington Dias  e à Presidenta Dilma Rousseff pela gestão competente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4262909fd7fbf13bd1ff896f1c6faa827dda5f57345bff313f820e0eaa710978
+size 163

@@ -1,1 +1,3 @@
-Protesto contra a não concessão de audiência ao orador pelo Ministro da Educação, Ricardo Vélez Rodríguez. Congratulações ao Secretário de Estado de Educação do Distrito Federal, Rafael Parente, pela decisão de produção de livros com vista à complementação das plataformas digitais das escolas públicas. Importância da informatização do ensino para o desenvolvimento social do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2ae4c6d0b3feea997fcde99b51256ebf9760ea0062d6aae93c561174b9fb23d
+size 416

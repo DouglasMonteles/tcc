@@ -1,1 +1,3 @@
-Realização, pela Casa, de sessão solene em homenagem ao transcurso do centenário de fundação do Ceará Sporting Club.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b9503f71900364058270813900b9a25d2c7876d68b47c2c5f62572b5c685a89
+size 123

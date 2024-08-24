@@ -1,1 +1,3 @@
-Sessão Solene em homenagem  à Força Jovem Universal.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc5d35ff0fb2eefaf1b2fba224275762e167bad12acef1998a178709113de83b
+size 204

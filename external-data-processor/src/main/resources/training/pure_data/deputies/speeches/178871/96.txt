@@ -1,1 +1,3 @@
-Realização do II Simpósio de Cafeicultura do Caparaó, no Município de Alegre, Estado do Espírito Santo. Fortalecimento da cadeia produtiva do café pelo campus do Instituto Federal do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5a638de421de0f119671e24111d847e05102acfc5d5c9ce49ac6f3d9f75d51f
+size 206

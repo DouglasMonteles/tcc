@@ -1,1 +1,3 @@
-Reexame do art. 10-A da Medida Provisória nº 844, de 2018, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91f758262ff1396c4ab927a39653635d9c0daee0e0a52ba1228a55c77747a31f
+size 120

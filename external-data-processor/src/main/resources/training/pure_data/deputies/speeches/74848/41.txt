@@ -1,1 +1,3 @@
-Necrológio do ex-Ministro da Saúde Wilson Fadul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aec12bc779d804e369e7418247be066c62042fb8e0dde7d6ff028b25cf2057c9
+size 50

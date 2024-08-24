@@ -1,1 +1,3 @@
-Incoerência de decisões da Presidência acerca da apresentação de emendas a medidas provisórias por Parlamentares e por seus Relatores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3b27e6a70586b949cd3a0f235353eb1752399df7e1c511392e4a490f1b1785e
+size 140

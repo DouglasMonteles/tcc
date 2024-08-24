@@ -1,1 +1,3 @@
-Transcurso do 80º e do 87º aniversários de instalação da Igreja Evangélica Assembleia de Deus, respectivamente, nos Municípios de Caxias do Sul e Porto Alegre, Estado do Rio Grande do Sul. Comemoração do 85º aniversário natalício do Pastor Ruben Johannes Lundgren.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e62c9443cba6288772298b6aad8de7b482e17a83b95b188240f07d326920a08c
+size 276

@@ -1,1 +1,3 @@
-Liderança do Estado de Minas Gerais em área plantada de eucalipto. Elogios à legislação do Estado de Mato Grosso do Sul relativa a licenciamento ambiental, em prol do agronegócio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ef62374240caad3b85d58f56519326ba341bc8628e866001101ca89d7d18d1c
+size 185

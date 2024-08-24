@@ -1,1 +1,3 @@
-Preocupação com a morte de ciclistas no País por atropelamento, especialmente na Região Metropolitana de Belo Horizonte, Estado de Minas Gerais. Solicitação pelo orador, à Comissão de Constituição e Justiça e de Cidadania, de atuação como Relator de projetos de lei sobre alterações no Código de Trânsito Brasileiro — CTB para ampliação de segurança dos ciclistas. Reflexão sobre a inutilidade da cobrança ao Parlamento de ampliação de medidas de segurança e fiscalização no trânsito diante da constante violação do CTB por motoristas inescrupulosos. Necessidade de conscientização do motorista brasileiro sobre sua responsabilidade com a segurança no trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7fc2a0d512af962a64cdc5cb15a8602ebbca5d358d95cf123ad0d87a0469b3d
+size 697

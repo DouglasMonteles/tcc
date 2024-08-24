@@ -1,1 +1,3 @@
-Liberação pelo BNDES de recursos para o Metrô de Fortaleza. Expectativa de repasse de recursos do Programa de Aceleração do Crescimento - PAC para execução de obras no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1468df455eacd49dcdff7fadfed8bedb591b6508fcb9eb2f8c117586f7664f5
+size 192

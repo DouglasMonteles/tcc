@@ -1,1 +1,3 @@
-O Deputado destacou a aprovação da Proposta de Emenda à Constituição nº 8, de 2021, pelo Senado Federal, que limita os poderes e abusos do Supremo Tribunal Federal. Também criticou a postura da jornalista Eliane Cantanhêde após a aprovação da matéria, sugerindo interferência do Governo Federal na mídia. Expressou solidariedade à jornalista Andreza Matais e anunciou a apresentação de uma moção de solidariedade na Comissão de Comunicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30ac02e36231d26d8bfbd355635f542a40389dbd1d2157df39d9386b6607def5
+size 462

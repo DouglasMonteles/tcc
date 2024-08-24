@@ -1,1 +1,3 @@
-Críticas às medidas econômicas adotadas pelo PT. Financiamento de regimes ditatoriais com recursos do BNDES. Defesa da independência do Banco Central do Brasil. Posicionamento do orador contrário à proposta do Ministro da Fazenda, Fernando Haddad, de retirada do Conselho de Controle de Atividades Financeiras - COAF da estrutura do Banco Central.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f38e8fd484cb0faca5ba66c773580083883dd55c7fbfd44d45a87e13db7d93d3
+size 353

@@ -1,1 +1,3 @@
-Votação nominal do parecer da Comissão de Constituição e Justiça e de Cidadania, pelo indeferimento da Solicitação para a Instauração do Processo nº 1, de 2017, a respeito de denúncia do Ministério Público Federal contra o Presidente Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d0553681971a43e3e72a844dd8c8f82b8d8fc946b83739552fa1f2b4fe93d02
+size 261

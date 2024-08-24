@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios. Transformação de imóveis ociosos em moradias populares, implementação da mobilidade verde, tratamento de resíduos sólidos e revitalização de espaços públicos, como condição para melhoria das cidades brasileiras. Contribuição do Estatuto da Cidade, da Secretaria das Periferias do Ministério das Cidades e do novo Programa Minha Casa, Minha Vida para a modernização urbana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b5ee4968b02baadbf61aac6bea6a57b2288612b88a5c1efb84c692be099afab
+size 457

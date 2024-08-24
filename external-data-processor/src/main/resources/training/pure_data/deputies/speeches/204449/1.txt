@@ -1,1 +1,3 @@
-Reafirmação do apoio do orador ao Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:636b404d3e3ab7541a8cc601ab6e05cc5d72b39f030830ac4e762716a620a59e
+size 62

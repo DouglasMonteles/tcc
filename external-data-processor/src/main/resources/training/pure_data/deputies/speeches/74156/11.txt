@@ -1,1 +1,3 @@
-Transformação das CPIs em instrumento político-eleitoreiro pelos partidos oposicionistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9417419bf57ec6ed3a7777e977d486541beb486fa5c5caa0d69066b6dd3a178
+size 92

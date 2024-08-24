@@ -1,1 +1,3 @@
-Transcurso do centenário da imigração japonesa para o Brasil. Aumento da arrecadação de tributos pelo Governo Federal. Necessidade de redução da taxa básica de juros, a Taxa SELIC. Apresentação pelo orador de projeto de lei sobre a criação do Fundo Nacional de Financiamento da Saúde - FUNPROSUS. Transcurso do duodécimo aniversário da indústria nacional e do octogésimo aniversário do Centro das Indústrias do Estado de São Paulo - CIESP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:117844c5406cde22b6cf9c67cf286caf540f4ce3464f02ea5ad1407c6e578303
+size 459

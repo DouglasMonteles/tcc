@@ -1,1 +1,3 @@
-Congratulações ao Governador do Estado da Bahia, Rui Costa, e ao Secretário de Saúde do Estado, Fábio Vilas-Boas, pela construção da Policlínica de Guanambi e da Unidade de Alta Complexidade em Oncologia - UNACON no Município de Caetité. Inauguração da Casa do Empreendedor no Município de Guanambi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd07119a5b4db3ee4ac057e8b1396feaf5212a4967a54db9aafb36d8fb4fedde
+size 312

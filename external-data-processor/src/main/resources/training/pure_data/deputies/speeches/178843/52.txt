@@ -1,1 +1,3 @@
-Caos reinante no âmbito do Instituto Nacional do Seguro Social - INSS, provocado pela carência de servidores. Imediata realização de concurso público para recomposição do quadro funcional do órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b156266a5f9524aa768c288fb5663b31cbcd3a345a450d78e3e653f1ad11527
+size 206

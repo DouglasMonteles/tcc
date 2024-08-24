@@ -1,1 +1,3 @@
-Expectativa quanto à manutenção, pelo Supremo Tribunal Federal, da jurisprudência sobre a execução da pena após condenação em segunda instância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6ea39a0f6881d18f46b9753a8f5542a68d561b4d8b83962c4c6284830f8944d
+size 154

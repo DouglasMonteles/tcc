@@ -1,1 +1,3 @@
-Congratulações ao Ministro da Saúde, Eduardo Pazuello, e sua equipe pelo avanço na vacinação contra da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01a612609c65f83fe1ac1634838a535b1ee1c070e68e24e0d711ec91a39c4207
+size 118

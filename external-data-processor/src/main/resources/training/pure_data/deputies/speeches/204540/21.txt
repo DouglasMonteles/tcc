@@ -1,1 +1,3 @@
-Agradecimento aos Líderes partidários pela aprovação da Medida Provisória nº 1.009, de 2020, sobre a autorização da prorrogação de contratos por tempo determinado no âmbito do Ministério da Educação, do Fundo Nacional de Desenvolvimento da Educação - FNDE, do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP, da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES e da Agência Nacional de Saúde Suplementar - ANS. Agradecimento ao Presidente Arthur Lira pela designação da Parlamentar para Relatora da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afc8c1595c3e8cb11054acc3cc06bfaaee8cf56d8d112e9a107b390f178ed34c
+size 585

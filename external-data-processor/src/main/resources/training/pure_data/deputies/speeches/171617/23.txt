@@ -1,1 +1,3 @@
-Aquisição pelo Governo Federal de equipamentos agrícolas para Municípios do Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8add42f6e6b98465c0be8387467d2399fd160297e021cf27d41889e00593edf9
+size 98

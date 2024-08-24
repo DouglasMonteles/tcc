@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3.754, de 2021, sobre a criação do marco legal das ferrovias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df99c359c0470b1029f68368dfa94b24bada04b174354b9db4ef903918b969ee
+size 168

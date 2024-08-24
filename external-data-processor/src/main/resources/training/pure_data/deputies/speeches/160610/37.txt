@@ -1,1 +1,3 @@
-Comemoração do Dia do Trabalhador da Limpeza Urbana. Transcurso do 123º aniversário de promulgação da Lei Áurea, acerca da abolição da escravatura no Brasil. Avanços da luta contra a discriminação racial no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b41e94eb5014e3ae8166c304426cee8344dcdf30c493fbd83dee60130bb11b6e
+size 225

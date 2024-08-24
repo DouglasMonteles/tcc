@@ -1,1 +1,3 @@
-Incoerência de críticas à gestão do Presidente da República, Michel Temer. Resultados positivos da política econômica do Governo do PMDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a20a7388ad6a9919ba50402659d64baff60911cc4138d1b7037b61023f720015
+size 144

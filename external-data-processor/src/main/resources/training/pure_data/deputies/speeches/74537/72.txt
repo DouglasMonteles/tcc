@@ -1,1 +1,3 @@
-Defesa do acolhimento, pelo Relator,  de Emenda à  Medida Provisória 445 de 2008 (Dispõe sobre a dispensa de recolhimento de parte dos dividendos e juros sobre capital próprio pela Caixa Econômica Federal), relativa à devolução pela CEF de recursos ao Tesouro Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e303b3e4ba12b7ef3b8665d2f43cfc58059b0bbbeac2426ae3ce97ec72050f0e
+size 277

@@ -1,1 +1,3 @@
-Relançamento do Programa Minha Casa, Minha Vida. Inauguração de unidades habitacionais construídas por meio do Programa nos Municípios de Santo Amaro, Lauro de Freitas e Euclides da Cunha, Estado da Bahia. Expectativa de relançamento do Programa Luz para Todos e do Programa Água para Todos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddbdde7c2d475a699650a9f66096dc53e695761a39041f806c6bdab708d01b9e
+size 298

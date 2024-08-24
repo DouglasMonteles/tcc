@@ -1,1 +1,3 @@
-Reunião de Parlamentares com o Presidente do Congresso Nacional, Senador Rodrigo Pacheco, para debate da abertura da CPMI destinada à investigação de atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:272dfe016d749701ff473cd0731bb3c34cbf2abe85e69990041aaa84a6ce7bf0
+size 226

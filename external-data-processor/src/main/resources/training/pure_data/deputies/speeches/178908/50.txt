@@ -1,1 +1,3 @@
-Defesa de apreciação pela Casa de proposições relativas à área de segurança pública. Solidariedade ao Deputado Sabino Castelo Branco em sua proposta de abertura de CPI para investigação das ações do crime organizado no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ece67afd988fabacc29dad15b375a1e4ea94d6d3a1ae0e6d65336bd78aed6d24
+size 238

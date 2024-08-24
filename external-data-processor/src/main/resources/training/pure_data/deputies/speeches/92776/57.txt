@@ -1,1 +1,3 @@
-Criação do Pacto Nacional pela Alfabetização na Idade Certa. Prejuízos causados às crianças por falhas no processo de alfabetização. Temas incluídos na Medida Provisória nº 586, de 2012, a respeito do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:326a198ae8599c0178894344f2d9d36948abeb65016e0310ba4cf7bed8b90ae7
+size 221

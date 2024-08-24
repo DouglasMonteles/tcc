@@ -1,1 +1,3 @@
-Contestação a críticas à visita do ator Alexandre Frota ao Ministro da Educação. Comparações entre o nazismo e comunismo. Expectativa de aprovação da Proposta de Emenda à Constituição nº 180, de 2015, sobre a concessão de independência ao Tribunal de Contas da União, ao Poder Judiciário e às Funções Essenciais à Justiça. Apresentação do Projeto de Lei nº 5.358, de 2016, sobre a criminalização da apologia ao comunismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21fb5f5ab3f36b82a297a7cfe11ff8d339445e77951ddb1b010efd238490f7f6
+size 449

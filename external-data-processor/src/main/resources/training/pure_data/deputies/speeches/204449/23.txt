@@ -1,1 +1,3 @@
-Apoio ao Ministro do Meio Ambiente, Ricardo Salles, e ao Presidente Jair Bolsonaro. Repúdio à atribuição ao Governo brasileiro, pela Esquerda internacional, da responsabilidade pela devastação do meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69c1a1d82153b1f98f3adb16a8e6fd7247b70d9a87940be4e0d96213e8923ecd
+size 216

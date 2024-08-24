@@ -1,1 +1,3 @@
-O Deputado expressou tristeza e indignação pelo brutal assassinato do Vereador Cici Maldonado, em São Gonçalo, Rio de Janeiro. Apontou a crescente violência na cidade e pediu investigação rápida e solução para o crime, ressaltando a necessidade de ação das autoridades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b159cc51adc7d53bb2c5443b32a6ac4b4143322b0fe26051c4ef33de354ba15
+size 281

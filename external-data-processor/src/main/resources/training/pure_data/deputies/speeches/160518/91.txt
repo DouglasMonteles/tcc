@@ -1,1 +1,3 @@
-Regozijo pela aprovação pela Casa de projeto de lei sobre a criação de novas varas do Trabalho no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ebc6750c479e45167301e0f30e47df62dcdff7372068c161f29d1ab5939fa28
+size 125

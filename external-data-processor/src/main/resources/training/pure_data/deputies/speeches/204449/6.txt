@@ -1,1 +1,3 @@
-Necessidade da liberação de recursos para a saúde pública no Estado de Mato Grosso. Saudações aos habitantes do Município de Alto Taquari, ao ensejo do transcurso do Dia de São José, Padroeiro da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9717983c7b219ecc04b6dc55de8013664d2fc684930b5637bf54dcd5faf85718
+size 220

@@ -1,1 +1,3 @@
-Contestação ao discurso do Deputado Lindbergh Farias, contrário à participação do orador na CPMI destinada à investigação de atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cd6ed4ac6e95cfdebd4f63a6e72dad087989a7202a361bfa807ae089dc458f4
+size 206

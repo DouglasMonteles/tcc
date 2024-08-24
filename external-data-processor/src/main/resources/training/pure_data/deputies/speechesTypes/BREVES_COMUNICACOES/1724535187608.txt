@@ -1,1 +1,3 @@
-Celebração pelo Presidente Jair Bolsonaro do aniversário do golpe militar de1964, no dia do registro de 3.700 mortes no País em decorrência da Covid-19. Semelhança entre os acusados por torturas e mortes durante a ditadura militar, e os responsáveis pela falta de oxigênio e leitos de UTIs na rede hospitalar brasileira. Imobilismo do Parlamento brasileiro diante da manutenção do Presidente Jair Bolsonaro no comando do País, e da comemoração do aniversário do golpe militar ocorrido de 1964.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c9241ca6bd237981166ce024714bb0d178aac9526d7a17ef4fc18f8d59450b3
+size 507

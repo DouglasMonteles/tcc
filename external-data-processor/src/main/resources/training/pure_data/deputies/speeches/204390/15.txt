@@ -1,1 +1,3 @@
-Pedido à Presidência de inclusão na pauta do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional do Enfermeiro, do Técnico de Enfermagem, do Auxiliar de Enfermagem e da Parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:099512058a218cf1b7d576dcb99ca23ec3b8eddfc3fe1b268b6a5a6e4a2b3a25
+size 213

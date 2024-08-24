@@ -1,1 +1,3 @@
-Associação à luta da Associação de Moradores da Ilha de Paquetá - MORENA contra o fechamento da agência do Banco Itaú S/A, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b717d4940027ad361a7d8b322ca06b2b7218ce83f560c53ef67d89a93cd260f3
+size 175

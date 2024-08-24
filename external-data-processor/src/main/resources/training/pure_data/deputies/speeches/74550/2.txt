@@ -1,1 +1,3 @@
-Contestação ao pronunciamento do Senador Sérgio Guerra sobre a aprovação, pelo Relator João Leão, do Anexo de Metas ao projeto sobre a Lei de Diretrizes Orçamentárias - LDO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ae9209795a140fdeac24b025bc272b56cc5f7c32bb23aa8c9616f89501e79f3
+size 182

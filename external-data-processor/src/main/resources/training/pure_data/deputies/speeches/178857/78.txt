@@ -1,1 +1,3 @@
-Indignação com a não votação pela Câmara dos Deputados, em segundo turno, da Proposta de Emenda à Constituição nº 1, de 2015, sobre o valor mínimo de aplicação anual pela União em ações e serviços públicos de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ebdd56b484accd6b99bb348856e820274b7499f3d111fe91eabf4660befd089
+size 234

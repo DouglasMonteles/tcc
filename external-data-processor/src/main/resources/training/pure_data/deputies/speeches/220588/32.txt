@@ -1,1 +1,3 @@
-Razões do posicionamento do orador contrário à indicação do advogado do Presidente Luiz Inácio Lula da Silva, Cristiano Zanin Martins, para o cargo de Ministro do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27aab3e84be824183e721bb286d5e9817c63d936894f418f18161d29e4e5e87a
+size 194

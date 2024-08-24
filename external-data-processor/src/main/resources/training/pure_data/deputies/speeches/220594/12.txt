@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 996, de 2015, sobre a alteração do art. 121 do Decreto-Lei nº 2.848, de 1940, (Código Penal), para tipificação do crime de homicídio praticado contra membros do Ministério Público e da magistratura no exercício de suas funções.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8cc70be3e55c046c93fa08e6c23bde792ffc22c5cf8781fc83f5b450df1c675
+size 283

@@ -1,1 +1,3 @@
-Outorga ao orador e a outras personalidades, pela Polícia Militar do Estado do Pará, da Medalha do Mérito Tiradentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:148d7ca5e40206f7ccc80f45fa51a25b0f9f4857e1c4a9cfec8dd3c948991731
+size 120

@@ -1,1 +1,3 @@
-Inauguração, pelo Governador Flávio Dino e pela Presidenta Dilma Rousseff, do Terminal de Grãos do Maranhão no Porto de Itaqui, em São Luís, Estado do Maranhão, obra concluída no Governo Roseana Sarney com recursos integralmente privados. Cobrança à Presidenta Dilma Rousseff de cumprimento da promessa de construção de refinaria da PETROBRAS no Município de Bacabeira, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4420ff4854238fad249fe6e7de6abd9ecff7658c66e696ab5bf6e12c37290fcd
+size 404

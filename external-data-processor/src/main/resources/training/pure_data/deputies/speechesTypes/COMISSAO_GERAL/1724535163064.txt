@@ -1,1 +1,3 @@
-Comissão Geral para debate da Campanha da Fraternidade de 2016 com o tema Casa comum, nossa responsabilidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04e9023a7f13d2fa39bda06408a91b02397ef94abd66b1fa3c1db866fb6defff
+size 110

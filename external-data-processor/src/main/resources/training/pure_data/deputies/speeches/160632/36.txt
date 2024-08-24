@@ -1,1 +1,3 @@
-Aquisição, pelo Ministério do Desenvolvimento Agrário, de retroescavadeiras destinadas aos pequenos Municípios brasileiros, com recursos do PAC 2. Importância de projetos de infraestrutura para o setor agrícola, em especial da manutenção de estradas rurais. Permanência da Escola Família Agrícola Bontempo no Vale do Jequitinhonha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffe50d0995f4dd169db10b41565a1a4cdab028a7f9bca1ade4831a2bbac7577b
+size 343

@@ -1,1 +1,3 @@
-Apoio ao Projeto de Lei nº 5.225, de 2009, sobre a obrigatoriedade do fornecimento anual pelas empresas concessionárias de serviços públicos de quitação de débitos aos consumidores. Transcurso do Dia do Assistente Social e do Dia do Defensor Público. Urgente inserção na pauta da Proposta de Emenda à Constituição nº 487, de 2005, relativa às atribuições e garantias da Defensoria Pública. Transcurso do 56º aniversário de criação do Sindicato dos Jornalistas do Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a45ef857a999d22081151df4090b28dfb2c40ae758a8084c554f054d2d1e58b4
+size 502

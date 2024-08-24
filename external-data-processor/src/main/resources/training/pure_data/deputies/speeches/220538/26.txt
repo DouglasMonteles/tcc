@@ -1,1 +1,3 @@
-Acerto da aprovação pela Casa da proposta coibitiva do uso de bebidas alcoólicas por condutores de veículos automotores. Resultados positivos da aplicação da medida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9cc04a3d06950df5081da37f5ade938d01b46c1d631794720863ffc608298c3
+size 171

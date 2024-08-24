@@ -1,1 +1,3 @@
-Outorga da Medalha Ruy Araújo ao Desembargador Arnaldo Campelo Carpinteiro Péres, pela Assembléia Legislativa do Estado do Amazonas. Irregularidades praticadas por organizações não-governamentais na região amazônica. Urgente adoção pelo Governo Federal de medidas para contenção de irregularidades e abusos cometidos por ONGs atuantes na Amazônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3ae3dc69400322ef0d894fc4beda3e0a0c3bbf7ca868f6580dc0937fd411a72
+size 360

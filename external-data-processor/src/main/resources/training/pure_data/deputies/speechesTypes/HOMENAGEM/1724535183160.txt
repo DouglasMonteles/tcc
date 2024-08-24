@@ -1,1 +1,3 @@
-O Deputado discursou na sessão solene em homenagem aos 200 anos da Assembleia Constituinte de 1823.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd746585b7b73344dc155fa1d097f3b051770904af01f6429e4907d57f875afa
+size 100

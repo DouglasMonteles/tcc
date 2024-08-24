@@ -1,1 +1,3 @@
-Posicionamento contrário do PTB à  Emenda 6, destacada, ao Projeto de Lei de Conversão 12 da   Medida Provisória 605 de 2013 ( Altera a Lei 10.438,  de 2002, na parte em que cria a Conta de Desenvolvimento Energético e estabelece seus objetivos),  que  reduz a zero,  pelo prazo de cinco anos, as alíquotas da Contribuição para o PIS/PASEP  e da Contribuição para o Financiamento da Seguridade Social - COFINS, incidentes sobre a receita decorrente da venda de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02fccba16c4f00baf274b3c36eeb8ded4a297d08fdb1b4ea37638c27ad98885f
+size 489

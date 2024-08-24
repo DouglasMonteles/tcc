@@ -1,1 +1,3 @@
-O Deputado expressou gratidão ao Senado pela aprovação do Projeto de lei nº 4.363, de 2001, que institui a Lei Orgânica das Polícias Militares e dos Corpos de Bombeiros Militares em âmbito nacional. Destacou que essa conquista beneficia a sociedade ao garantir direitos aos profissionais, antes desprovidos de garantias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaa1071b2bb88eebedc66967faf29f4d8116e2d8722c1bbcab2a1dbcd8c7db65
+size 327

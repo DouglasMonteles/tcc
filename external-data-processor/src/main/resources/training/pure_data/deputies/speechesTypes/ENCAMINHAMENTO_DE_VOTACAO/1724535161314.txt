@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de retirada da pauta da Ordem do Dia do Projeto de Decreto Legislativo 471 de 2011 (Aprova o texto da Decisão CMC nº 63 de 2010, Alto Representante-Geral do MERCOSUL, aprovada na XL Reunião Ordinária do Conselho do Mercado Comum, realizada em Foz do Iguaçu, Paraná, em 16 de dezembro de 2010).
+version https://git-lfs.github.com/spec/v1
+oid sha256:59e5b8e91b08dd77395931deafc4de0a1602c546da01c9268c8c976d36d93618
+size 343

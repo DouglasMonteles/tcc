@@ -1,1 +1,3 @@
-Agradecimento ao Deputado Edson Silva pelo apoio ao projeto de lei, de autoria do orador, sobre a extinção da cobrança de taxa de estacionamento em shopping centers. Criação de CPI destinada à investigação de irregularidades concernentes ao Seguro DPVAT. Instalação de Comissão Especial destinada ao exame da proposta de extinção da cobrança da taxa de assinatura básica da telefonia fixa. Solicitação à Agência Nacional de Energia Elétrica - ANEEL de investigação das causas de frequentes blecautes ocorridos no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:619dac6ab4ec927b734348c81c02d6be65b97fd4d1a2c745528aa8d53258ba87
+size 558

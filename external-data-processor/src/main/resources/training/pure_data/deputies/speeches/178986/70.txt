@@ -1,1 +1,3 @@
-Ocupação de escolas, universidades e institutos federais por estudantes em protesto contra a Proposta de Emenda à Constituição nº 241, de 2016, sobre a instituição do Novo Regime Fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2991192848b961bb9a8edbeb19782aef7315a05e4b7f8df28c63be5058ddf92a
+size 194

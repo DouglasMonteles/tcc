@@ -1,1 +1,3 @@
-Criação, pela Comissão de Seguridade Social e Família, de subcomissão destinada à avaliação da crise financeira das Santas Casas de Misericórdia e dos hospitais filantrópicos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad5669037049a417516b41b70143bff94ce988737a7dcd240d696a9210783516
+size 194

@@ -1,1 +1,3 @@
-Realização da 5ª edição dos Jogos Mundiais Militares, no Rio de Janeiro, Estado do Rio de Janeiro. Adesão de atletas brasileiros à campanha UNA-SE pelo fim da violência contra as mulheres, capitaneada pelo Secretário-Geral da Organização das Nações Unidas, Ban Ki-moon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b7eff829897ef9c9bb0f93ed42c34da1bf1bc57f192fa9ffc70bbbd2a5ecb1b
+size 282

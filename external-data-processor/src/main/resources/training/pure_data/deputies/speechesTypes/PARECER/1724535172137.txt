@@ -1,1 +1,3 @@
-Emissão de parecer à Medida Provisória nº 1.025, de 2020, sobre a alteração da Lei nº 13.146, de 2015, (Lei Brasileira de Inclusão da Pessoa com Deficiência) - Estatuto da Pessoa com Deficiência; e às Emendas de ºs 1 a 20, apresentadas conforme o caput do art. 3º do Ato Conjunto nº 1, de 2020, editado pelas Mesas da Câmara dos Deputados e do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef74db1c0c45b37bdf76b3ecaf2464c5b9092de96dacb286c36841e019484c4f
+size 374

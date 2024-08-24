@@ -1,1 +1,3 @@
-Presença na Casa de alunos do Centro Universitário Toledo - UNITOLEDO, do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:235d49dd772916f272693ced7981ef4b42243b2aca5c423c367daaa377f69282
+size 97

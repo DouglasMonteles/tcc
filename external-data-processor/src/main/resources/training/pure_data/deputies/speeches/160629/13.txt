@@ -1,1 +1,3 @@
-Regozijo com  a declaração, pelo Supremo Tribunal Federal, da constitucionalidade do piso salarial nacional do magistério da educação básica. Razões da apresentação de projeto de lei sobre a elevação do piso salarial da categoria para R$2.180,00.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a939c74ce4ced63d4af1d14fa90935704f18e68765cd162314b84e7d8c48a3f5
+size 257

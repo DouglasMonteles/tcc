@@ -1,1 +1,3 @@
-Posicionamento contrário do Bloco PSB/PCdoB/PMN/PRB à Emenda 66, destacada, ao Projeto de Lei de Conversão da Medida Provisória 455 de 2009 (Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica, altera a Lei 10.880 de 2004, e dá outras providências),que determina que a aquisição, o preparo e a distribuição da alimentação escolar deverão ser realizados por ente público, excetuando-se a situação dos índios e dos quilombolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5ce9d4651f165b4024197f515ee8d8ef924f9153f0014a12e26dee30b97b51a
+size 516

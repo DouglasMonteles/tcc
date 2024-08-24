@@ -1,1 +1,3 @@
-Saudações aos participantes na Comissão Geral. Avanço dos trabalhos da Comissão Especial destinada ao exame da Proposta de Emenda à Constituição nº 125, de 2011, com relação à reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b00a4f2cab8a3dbdab677dcb35af1041197c81dcae1a1fb3f7e0657108173e6b
+size 206

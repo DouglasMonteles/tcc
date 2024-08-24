@@ -1,1 +1,3 @@
-Sequestro de receitas de Prefeituras Municipais para pagamento de precatórios. Urgente inserção na pauta da proposta de emenda à Constituição a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90518e4c68dac0a3ca2e43000a218e0527cd0fcbc15e2bdfe9bf971fb8b6d1cd
+size 167

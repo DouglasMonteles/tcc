@@ -1,1 +1,3 @@
-Razões da não participação da bancada do Estado do Rio Grande do Sul em votação nominal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcc956645a327ec3c9c51264a6fc522b0396d4652ca90a7c734ab159f7676806
+size 94

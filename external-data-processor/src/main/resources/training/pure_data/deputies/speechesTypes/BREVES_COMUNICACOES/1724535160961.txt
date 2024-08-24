@@ -1,1 +1,3 @@
-Considerações sobre a proposta orçamentária enviada pela Presidenta Dilma Rousseff ao Congresso Nacional. Efeito positivo da discussão da proposta para os Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df7a5e1cba084ef6f2de65126e3966382e54821ad42857ea8033b8398395fda2
+size 174

@@ -1,1 +1,3 @@
-Luta do PMDB pela regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de percentuais mínimos à saúde pela União, pelos Estados e pelos Municípios. Defesa de aprovação da medida provisória acerca do repasse de recursos para a educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2713b352aa136a20dbe8de6c841fe23fd2c1b150d2ad0ac257f7bb91180dd2a6
+size 272

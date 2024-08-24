@@ -1,1 +1,3 @@
-Posicionamento favorável  do PSOL  ao Substitutivo do Senado ao Projeto de Lei 6.350 de 2002 (Dispõe sobre a guarda compartilhada).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e30a9f0bdbdfed62bf333251f360ba620b8f2cc96e64e3a8b721c1dbb3054a2a
+size 133

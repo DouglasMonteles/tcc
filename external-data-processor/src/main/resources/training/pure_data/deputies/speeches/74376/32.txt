@@ -1,1 +1,3 @@
-Necessidade de cumprimento da Lei nº 11.738, de 2008, sobre a instituição do piso salarial nacional dos profissionais do magistério público. Lançamento da Frente Parlamentar em Defesa do Piso Nacional dos Profissionais da Magistério Público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:148d790120932acbfad067e356c96e4a3ff61ea9bc9c144f647f1614a293322e
+size 249

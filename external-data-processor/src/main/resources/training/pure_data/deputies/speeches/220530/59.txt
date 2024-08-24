@@ -1,1 +1,3 @@
-O Deputado fez um agradecimento e um reconhecimento à cidade de Castelo, no Espírito Santo, e à gestão do Prefeito João Paulo. Destacou a importância de a Câmara Municipal trabalhar em conjunto com a prefeitura para garantir o desenvolvimento e o progresso da cidade. Expressou seu apoio à administração do Prefeito e desejou sucesso à cidade e à sua gestão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d03ee13411991ebd4aae0d812a4160161e8920a97c1d3909b5349ee634b08e3f
+size 371

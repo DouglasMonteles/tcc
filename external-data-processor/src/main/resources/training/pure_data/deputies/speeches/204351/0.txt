@@ -1,1 +1,3 @@
-Agradecimento ao povo do Estado de Mato Grosso do Sul pela eleição do orador para a Câmara dos Deputados. Defesa de extinção do horário de verão. Importância da realização de investimentos na área da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f683bf0bd01dab695a5c2d81d9b9757917da9cda46931ba91589b52289bf3d3b
+size 218

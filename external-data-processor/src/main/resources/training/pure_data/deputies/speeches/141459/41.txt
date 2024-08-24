@@ -1,1 +1,3 @@
-Emissão de parecer às Emendas de Plenário ao Projeto de Lei nº 4.188, de 2021, sobre o serviço de gestão especializada de garantias, o aprimoramento das regras de garantias, o resgate antecipado de letra financeira, a transferência de valores de contas únicas e específicas do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, a exclusão do monopólio da Caixa Econômica Federal em relação aos penhores civis e a alteração da composição do Conselho Nacional de Seguros Privados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9202aad5f697ebbebe6329c438bce2cf557ffe0a63f44139832d3a83419ad1a0
+size 568

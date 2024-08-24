@@ -1,1 +1,3 @@
-Natureza demagógica do posicionamento de Deputados da Esquerda, favorável à manutenção de privilégios parlamentares e contrários à realização da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04196beab01d5dabb54fc340998fdbcb96fbf57a1fc4baec03df4080bf439ee5
+size 179

@@ -1,1 +1,3 @@
-Posicionamento favorável do PT  ao Capítulo I do  Projeto de Lei de Conversão da Medida Provisória 449 de 2008 (Altera a legislação tributária federal relativa ao parcelamento ordinário de débitos tributários, concede remissão nos casos em que especifica, institui regime tributário de transição, e dá outras providências), que trata do parcelamento de dívidas, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa3f7948de8667ad46192dd50f24e3aacf302cf5976b1633ba2fc80db5a1c270
+size 393

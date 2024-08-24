@@ -1,1 +1,3 @@
-Realização em Capitais brasileiras de fóruns para debate da organização da Copa do Mundo de Futebol de 2014. Realização do 3º Fórum Legislativo nas Cidades-Sede da Copa com o tema O Poder Legislativo fazendo parte do Time da Copa de 2014, na Assembleia Legislativa do Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:988dc9aff8afce44ec839fcb024d09c70f1a01724cf03b59fa689645f6c80b5c
+size 305

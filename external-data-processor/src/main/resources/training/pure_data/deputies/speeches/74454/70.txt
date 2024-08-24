@@ -1,1 +1,3 @@
-Proliferação da dengue em Municípios brasileiros, especialmente no Estado do Ceará. Aumento das taxas de desemprego em Fortaleza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dbc419c71e3b78387649f9c7df6fdd3e63772cf640dc6b925ef909ebff70ab9
+size 133

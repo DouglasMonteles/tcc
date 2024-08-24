@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.969, de 2022, sobre a transformação de cargos de Analista do Ministério Público da União em cargos de Procurador de Justiça Militar, de Promotor de Justiça Militar e em cargos em comissão especificados, no âmbito do Ministério Público Militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:455fafe6476c077e829a0ba18e84151f82ac3e340c25f2f4d1da036bafbaadc6
+size 370

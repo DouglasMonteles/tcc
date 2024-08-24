@@ -1,1 +1,3 @@
-Transcurso do Dia dos Povos Indígenas. Violação de direitos dos povos originários no Brasil. Importância da preservação dos indígenas e de suas culturas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e50371e2775e19e1e7513a40e28120c9d899cc13999ef4584555449c92e272e8
+size 161

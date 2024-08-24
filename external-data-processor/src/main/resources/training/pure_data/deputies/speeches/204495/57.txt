@@ -1,1 +1,3 @@
-Inadmissibilidade de extinção do Fundo da Amazônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcb59fc4fda04fd33b2bc3c7a2373c873e101307bc0950cffce6047955fdfdb1
+size 54

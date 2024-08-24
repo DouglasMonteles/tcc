@@ -1,1 +1,3 @@
-Importância da realização de investimentos na educação para combate as desigualdades sociais e redução dos índices de criminalidade no País. Alocação, pelo Ministério da Educação, de recursos orçamentários para a conclusão de obras da área educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f8937745350888232c6edbf5ed66ff6ce6c6e4a5a91ad33d39d7cb858de1256
+size 270

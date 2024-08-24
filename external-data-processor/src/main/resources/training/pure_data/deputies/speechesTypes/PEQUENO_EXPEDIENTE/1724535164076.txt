@@ -1,1 +1,3 @@
-Realização de reformas constitucionais. Regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de recursos à saúde pública. Necessidade de votação, pela Casa, da Proposta de Emenda à Constituição nº 333, de 2004, acerca da composição numérica das Câmaras de Vereadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08b3d0a876371728bea816a1c5edca288e7c11c28e5675b19ffa8b722ef1b2ed
+size 309

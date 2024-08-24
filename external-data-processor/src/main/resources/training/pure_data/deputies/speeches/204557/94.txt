@@ -1,1 +1,3 @@
-Reafirmação do compromisso do orador com o Projeto de Lei nº 2.564, de 2020, sobre o estabelecimento do piso salarial nacional dos profissionais da enfermagem e da parteira. Imediata votação pela Casa da Medida Provisória nº 1.077, de 2021, relativa à instituição do Programa Internet Brasil. Inclusão, no Programa Auxílio Brasil, dos beneficiários inscritos no Cadastro Único para Programas Sociais - CadÚnico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4715b3ba8bafe935ae92363f554c2745dc26703c2bb515d81af5b0126a58374d
+size 426

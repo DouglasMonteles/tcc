@@ -1,1 +1,3 @@
-O Deputado criticou a gestão do Governador de São Paulo no tocante à privatização da Companhia de Saneamento Básico do Estado de São Paulo (SABESP).
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb2e6b9f6eb243f9d88a70c0d538650c5825d0697db05f94dec7e70563b07cf6
+size 155

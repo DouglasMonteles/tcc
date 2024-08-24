@@ -1,1 +1,3 @@
-Inauguração de rodovia entre os Municípios de Licínio de Almeida e Mortugaba, Estado da Bahia. Competência e responsabilidade do Governo Jaques Wagner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e7680b9447630b58a702b0a7fb9c48c1ff03329e52328cd3736c05f46d0426d
+size 156

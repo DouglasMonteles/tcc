@@ -1,1 +1,3 @@
-Relato da atuação do orador como membro titular da Comissão de Constituição e Justiça e de Cidadania da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8361f9710ee7a0dd63a4b477a43fec91fbb714a78929e9e34278229daa58cc1d
+size 115

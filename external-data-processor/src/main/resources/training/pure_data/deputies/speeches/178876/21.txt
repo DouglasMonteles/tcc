@@ -1,1 +1,3 @@
-Informação à Presidência sobre a filiação do orador ao PSDB. Descaso do Governo Federal com o crescimento da criminalidade nos Municípios goianos localizados no Entorno do Distrito Federal. Realização de reunião entre Governadores e os Presidentes da Câmara dos Deputados e do Senado Federal destinada ao debate sobre a revisão do pacto federativo. Congratulações à população do Entorno do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a1b749564ba84a05d19a38c98c8b206c788504cac9fbe2ae3ea1720ded3fb82
+size 424

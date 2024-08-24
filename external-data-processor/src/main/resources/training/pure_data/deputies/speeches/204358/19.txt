@@ -1,1 +1,3 @@
-Contentamento com a aprovação do Projeto de Lei nº 5.829, de 2019, sobre o estabelecimento do marco legal da microgeração e minigeração de energia distribuída no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c6b5394a7b2e0227676dd29d7e6a6c5f72699c9c3814c20225aec89af0be1bb
+size 177

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.010, de 2021, referente à criação do Programa Pró-Leitos durante a emergência da saúde pública decorrente da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68a1181376bfffea34de1055147a219c57832cf97f62a2ca6a2055a02a465a3f
+size 241

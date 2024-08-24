@@ -1,1 +1,3 @@
-Apelo ao Governo Federal por adoção de medidas em prol setor leiteiro nacional. Reunião do orador com o Superintendente Regional do Departamento Nacional de Infraestrutura de Transportes - DNIT no Estado de Santa Catarina, Alysson Rodrigo de Andrade. Elevação dos recursos orçamentários destinados à malha rodoviária federal catarinense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04c16f2126746e926ac1396eb996ee871cbc6667483e776f7e2dbdf9a972e1a0
+size 346

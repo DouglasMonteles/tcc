@@ -1,1 +1,3 @@
-Transcurso do 75º aniversário da tomada de Monte Castelo, na Itália, durante a Segunda Guerra Mundial, com a participação dos pracinhas da Força Expedicionária Brasileira. Crítica à visita do ex-Presidente Luiz Inácio Lula da Silva ao Papa Francisco, na Itália. Subversão do conceito de democracia no Brasil. Apoio às declarações do Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, General Augusto Heleno, diante do impasse com o Congresso Nacional sobre a divisão dos recursos do orçamento impositivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d8f258694489f390dd8ffab0d517feaa0b0b898f09e9af57a575252da0ee50f
+size 556

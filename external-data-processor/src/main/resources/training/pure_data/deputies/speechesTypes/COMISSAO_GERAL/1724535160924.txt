@@ -1,1 +1,3 @@
-Transcurso do 20º aniversário da Comissão de Legislação Participativa. Papel e contribuições do órgão em defesa da democracia participativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a81f00496ae360b5d5cc7c042774fc2b21e1277a16c8c946f2171c8275288d82
+size 149

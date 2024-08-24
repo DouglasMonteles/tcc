@@ -1,1 +1,3 @@
-Apresentação de emendas de autoria do orador à Medida Provisória nº 712, de 2016, que dispõe sobre adoção de medidas de vigilância em saúde quando verificada situação de iminente perigo à saúde pública pela presença do mosquito transmissor da dengue, da chikungunya e do zika vírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a132c2a54b9ba2cebfec45c665d4eea874c9269d2f801e242ddeec163e0dbfce
+size 299

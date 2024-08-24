@@ -1,1 +1,3 @@
-Conquista, pelo estudante paraibano de Medicina, Ítalo Bruno dos Santos Sousa, do primeiro lugar no concurso de residência médica da Universidade Federal de São Paulo. Inauguração do maior teatro do interior da Região Nordeste pela Faculdade de Ciências Sociais Aplicadas de Campina Grande - FACISA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9047bf8c3396580b5e6b7bb75d61ac9f2c7bcbb92c54afa7fb74f807ec0e5c57
+size 307

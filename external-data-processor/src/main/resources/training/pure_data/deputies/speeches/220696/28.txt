@@ -1,1 +1,3 @@
-A Deputada destacou a instalação da maior fabricante mundial de turbinas eólicas em Camaçari, Bahia, anunciando a criação de aproximadamente mil empregos. Ela expressou gratidão ao Governador Jerônimo Rodrigues, ao Secretário Luiz Caetano e ao Presidente Lula pelo esforço em reindustrializar o País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:596896804c52ea69d22c41b9b582b752c4f3f2c3c91a35ebfc381dd16ea7ab2f
+size 311

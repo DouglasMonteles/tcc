@@ -1,1 +1,3 @@
-Posicionamento contrário do PTB  ao Requerimento de preferência para votação da Emenda Substitutiva Global 114 sobre o Substitutivo ao Projeto de Lei 5.939 de 2009 (Autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Administração de Petróleo e Gás Natural S.A . - PETRO-SAL, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:47be9e5b218bcf0d6817e2c82a686c7d4bb837ef4afe21504edc9919aa941579
+size 347

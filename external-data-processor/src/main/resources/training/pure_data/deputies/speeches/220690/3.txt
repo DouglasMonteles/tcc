@@ -1,1 +1,3 @@
-Aspectos negativos da instalação de câmeras nos uniformes de policiais. Necessidade de implementação da Lei nº 13.060, de 2014, sobre o disciplinamento do uso dos instrumentos de menor potencial ofensivo pelos agentes de segurança pública em todo o território nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73819ef4448ba1f74f19387b527d068b24c4e0b27f7df256b2fdcb315ec6ca4e
+size 278

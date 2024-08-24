@@ -1,1 +1,3 @@
-Congratulações ao Tribunal Regional Federal da 2ª Região, no Estado Rio de Janeiro, pela suspensão de decisão judicial sobre a proibição da participação de efetivo da Polícia Rodoviária Federal - PRF em operação conjunta com outras forças de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d20c02533606a54300f47e5c5de16c27ab6c59e5f025ce5e81d6d5745183be9
+size 277

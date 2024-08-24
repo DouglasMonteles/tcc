@@ -1,1 +1,3 @@
-Posicionamento favorável do PSC ao Projeto de Resolução 121 de 2008 (Cria o Grupo Parlamentar Brasil - Colômbia),Congratulações à ex-Deputada Nilmar Ruiz, autora do Projeto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa73dd492aa370001c69e04ecc15cdb347e575678bb397351c4376d8f75c6658
+size 180

@@ -1,1 +1,3 @@
-Homenagem póstuma ao Deputado Federal Luiz Flávio Gomes. Pedido ao Plenário de observância de 1 (um) minuto de silêncio em homenagem ao Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b581ee82517467cd329a7085cf417beb6ae849cf06060ac367f01062fc958f3f
+size 153

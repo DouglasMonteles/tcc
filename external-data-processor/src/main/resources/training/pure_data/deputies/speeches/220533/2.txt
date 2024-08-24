@@ -1,1 +1,3 @@
-Defesa de recomposição salarial e de reestruturação da carreira dos profissionais da educação do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7905a6fb50e2fc2a49d1ce0d6bbed8bbc3280eb569a08de4a1cd380987f4d39
+size 120

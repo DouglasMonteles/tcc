@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda 66, destacada, ao Projeto de Lei de Conversão nº 15, de 2013, à Medida Provisória nº 609, de 2013 (Reduz a zero as alíquotas da Contribuição para o PIS/PASEP, da COFINS, da Contribuição para o PIS/PASEP-Importação e da COFINS-Importação incidentes sobre a receita decorrente da venda no mercado interno e sobre a importação de produtos que compõem a cesta básica, e dá outras providências), que acrescenta os produtos derivados do cacau ao rol de produtos da cesta de alimentos básicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7e3d844f49f30927021e99bbbbf17a4c301438b04e89fb44358d5fb11869668
+size 545

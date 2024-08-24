@@ -1,1 +1,3 @@
-Cobrança ao Deputado Delegado Waldir de retratação por declaração ofensiva contra o Estado da Bahia e seu povo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8be34c13ffedbb2343da0d640df59abf19a6731ddd2be5111233eadd30ed592
+size 116

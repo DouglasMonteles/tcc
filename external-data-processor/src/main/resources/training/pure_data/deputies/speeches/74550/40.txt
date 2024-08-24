@@ -1,1 +1,3 @@
-Reassunção do mandato parlamentar  pelo orador. Saudação à Presidenta Rose de Freitas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bb9d363215d66ea7722a2514a132ab4eb144ca2fb673c2716603ca044255347
+size 91

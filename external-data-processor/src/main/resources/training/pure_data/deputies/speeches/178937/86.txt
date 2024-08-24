@@ -1,1 +1,3 @@
-Congratulações ao Presidente Arthur Lira pela instalação das Comissões Permanentes da Câmara dos Deputados. Exame pela Presidência da abertura de CPI para investigação de inconsistências financeiras no âmbito da Americanas Empresas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b233762fdcb220a64753cd0b7c4ef2d0b22bbb21144aabb00bfa4bc30806088
+size 243

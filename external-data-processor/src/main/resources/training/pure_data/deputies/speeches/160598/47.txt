@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional de Luta da Pessoa com Deficiência. Importância das ações em prol da acessibilidade e da inclusão social dos portadores de necessidades especiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13301d5693e17bce5d92835562c21af4bebc07e5e3dd7f55dad3797ef2d1d7df
+size 177

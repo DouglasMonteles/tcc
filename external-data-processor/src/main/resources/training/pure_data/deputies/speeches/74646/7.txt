@@ -1,1 +1,3 @@
-Esclarecimento sobre emenda de redação apresentada a proposta de emenda à Constituição relativa à alteração do procedimento de apreciação das medidas provisórias pelo Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:094d1a2a863d1a9b261dcec2fe3857cbffb0c9083ddc88fc94c1ab026387a97c
+size 197

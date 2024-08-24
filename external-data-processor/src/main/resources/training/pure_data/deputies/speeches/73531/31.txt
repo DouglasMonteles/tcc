@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalho. Realização por sindicatos de ato público em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:529b35723455a195e29332b201e17f4e7c799a0269200041c54c290fb97dde5f
+size 111

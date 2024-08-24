@@ -1,1 +1,3 @@
-Homenagem póstuma ao Vereador José Barreto Miranda, do Município de Ituiutaba, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2727cf24d9758dee89ef70c9938d0eb9c6e7c63a7007d97089dff1cb27ab3d8
+size 105

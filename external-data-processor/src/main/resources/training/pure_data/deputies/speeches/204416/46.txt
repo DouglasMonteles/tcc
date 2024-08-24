@@ -1,1 +1,3 @@
-Defesa de votação, na presente sessão, da Medida Provisória nº 918, de 2020, relativa à criação de funções de confiança destinadas à Polícia Federal e à extinção de cargos em comissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e6d03e41bab56fb604890504957568820686f4f6a1a4cbe21d2fdf672cd9000
+size 201

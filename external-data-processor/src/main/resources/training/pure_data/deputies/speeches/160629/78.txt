@@ -1,1 +1,3 @@
-Mobilização da bancada  federal nordestina em prol da revitalização do Departamento Nacional de Obras contra as Secas - DNOCS e da restituição da Vantagem Pessoal Nominalmente Identificada - VPNI concedida aos servidores do órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:810ca378c61a5036d084bc17e13053eacf8d271f6db8bd2a8f48cd7e267bab27
+size 238

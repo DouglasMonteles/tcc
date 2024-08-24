@@ -1,1 +1,3 @@
-Congratulações ao jornal A Tarde, do Estado da Bahia, pela publicação de matéria a respeito do resgate de trabalhadores em condições análogas à escravidão. Apelo ao Presidente Arthur Lira de celeridade na apreciação de proposições relativas ao tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b05b98bec4d1f19d97cad5749715cfa7be47a30d0667abf85327f064f930f51
+size 263

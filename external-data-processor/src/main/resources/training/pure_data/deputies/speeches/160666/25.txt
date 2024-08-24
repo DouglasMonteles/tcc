@@ -1,1 +1,3 @@
-Voto de pesar pelo falecimento do ex-Presidente da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba - CODEVASF, Airson Bezerra Lócio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b54ed0cf2030d6117b6a81caf63de39c78bd78118c98bcc449dfe7b71a0f427
+size 157

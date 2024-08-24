@@ -1,1 +1,3 @@
-Cobrança ao poder público de punição a invasões criminosas realizadas no País pelo Movimento Nacional dos Trabalhadores Rurais sem Terra - MST.  Repúdio à destruição de mudas de eucalipto por militantes do MST no centro de pesquisas da FuturaGene Brasil, do Grupo Suzano Papel e Celulose, no Município de Itapetininga, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0eaf47705548309f212780642313711ba8ad22d26784b26172f47a989e44602
+size 351

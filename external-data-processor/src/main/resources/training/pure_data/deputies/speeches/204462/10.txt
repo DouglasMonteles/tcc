@@ -1,1 +1,3 @@
-Questão de ordem sobre a necessidade de observância do princípio da proporcionalidade partidária na composição de Comissões Externas da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18c92413d7ef91c29b52dc3405e01a5d49e6d6a5a72484763f5fb6697304ae12
+size 165

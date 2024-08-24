@@ -1,1 +1,3 @@
-A Deputada expressou preocupação com as mudanças climáticas, mencionando as intensas variações climáticas no Brasil ao longo do ano. Destacou as enchentes em Santa Catarina, onde 161 municípios foram declarados em situação de emergência. Agradeceu ao Presidente Lula por fornecer ajuda humanitária às áreas afetadas e elogiou a coordenação entre os governos federal, estadual e municipais para salvar vidas e proteger as populações atingidas. A oradora também mencionou os planos para a reconstrução das cidades após as enchentes e anunciou medidas, incluindo a liberação do FGTS e crédito para pequenas empresas e microempresários que perderam seus negócios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f87e37b871306e241176b5339024452e5cd2cabf63c69f0f093294db02c4681b
+size 686

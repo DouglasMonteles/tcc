@@ -1,1 +1,3 @@
-Importância de reunião entre a Presidenta Dilma Rousseff e os Governadores da Região Sudeste destinada ao debate sobre investimentos nos seus Estados. Criação do Programa de Proteção ao Emprego pelo Governo Federal. Iniciativas da Presidenta da República para a retomada do crescimento econômico. Repúdio a ataques da Oposição à Presidenta Dilma Rousseff e ao Presidente do Supremo Tribunal Federal - STF, Ministro Ricardo Lewandowski.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0967a66c751462aa0d6a3d73cedf9bee072461069c443f108f041d5587934074
+size 448

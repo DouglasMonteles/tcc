@@ -1,1 +1,3 @@
-Repúdio a matérias publicadas pelo jornal Folha de S.Paulo a respeito de liberação de verbas pelo Governo Federal para aprovação da Medida Provisória nº 595, de 2012, sobre o novo marco regulatório do setor portuário nacional. Defesa de aprovação da medida provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f5c0bb664bc4794bbb8ca2ffd6e3b93cd1e999ebda454b696fe99c49410df79
+size 281

@@ -1,1 +1,3 @@
-Repúdio a invasões e saques de propriedades privadas produtivas realizados pelo Movimento dos Trabalhadores Rurais Sem Terra - MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:167d5c02f082007b45d286207ad69f1206b377bedcc3cdd8d93bc5c4e4a8cc71
+size 133

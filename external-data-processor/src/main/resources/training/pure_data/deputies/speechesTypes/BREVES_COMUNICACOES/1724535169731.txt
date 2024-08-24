@@ -1,1 +1,3 @@
-Inconformismo com a rejeição pela Casa de proposta de emenda à Constituição relativa à redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ad738257e5939ac2fb38e8d45dd1222a932db02bf4c2730d40df64d0842df5b
+size 123

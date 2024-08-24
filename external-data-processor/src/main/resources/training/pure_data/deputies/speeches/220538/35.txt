@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo  ao Requerimento de retirada da pauta da  Medida Provisória 449 de 2008 (Altera a legislação tributária federal relativa ao parcelamento ordinário de débitos tributários, concede remissão nos casos em que especifica, institui regime tributário de transição, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8b6f0ba079e10a1d6036878acd276075f6a1cd6ee142410a81cae2667c6423c
+size 334

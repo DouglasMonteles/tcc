@@ -1,1 +1,3 @@
-Viagem do Governador Cláudio Castro aos Estados Unidos da América, em busca de investimentos e negócios para o Estado do Rio de Janeiro. Reconhecimento do desempenho do gestor estadual fluminense. Prioridade dos Deputados na polarização política, em detrimento da discussão de propostas destinadas às áreas de saúde e segurança pública, bem como à geração de emprego e renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:352249f627295c720cca06408ac6cf4398ccf885606be6d1af9780b1a14083c0
+size 390

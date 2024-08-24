@@ -1,1 +1,3 @@
-Posicionamento favorável do  PT  à Subemenda Substitutiva Global de Plenário ao Projeto de Lei 3.775 de 2008 (Institui  Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b921816185eab801d1edc08f164c5a2711baf06a326bcecfef5711e54b805de3
+size 285

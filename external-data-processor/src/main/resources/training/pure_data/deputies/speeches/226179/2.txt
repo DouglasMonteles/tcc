@@ -1,1 +1,3 @@
-Atuação parlamentar da oradora em defesa da mulher brasileira. Transcurso do 17º aniversário de promulgação da Lei Maria da Penha, coibitiva da violência doméstica contra as mulheres. Desempenho da Patrulha Maria da Penha no Estado do Mato Grosso. Relevância do Programa Ser Mulher implantado no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cfc86462f5b44c58fd8618878bf488853e6142820e17efd4bb74c8c9dd1d4e0
+size 312

@@ -1,1 +1,3 @@
-Apoio ao projeto de lei de conversão apresentado pelo Relator da matéria, Deputado Newton Cardoso Jr, em face da importância para a geração de empregos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ab022f6e5a826ad095c377681117bb88ce65b525329ef001eaeedc04b3fe8d0
+size 166

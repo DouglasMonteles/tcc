@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória 409 de 2007 (Abre crédito extraordinário em favor de diversos órgãos do Poder Executivo para os fins que especifica). Ponderações sobre o comprometimento do processo legislativo em decorrência do uso abusivo e indiscriminado do instituto da Medida Provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db0b92c5c81e1c717427106807ea70ca0796ed253f939cb77fdd28cc7fe36839
+size 370

@@ -1,1 +1,3 @@
-Necessidade de regulamentação do setor de tiro esportivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63d53c278b97a80f78a1d448f1a8401d0c1d2f966b9592b76602b70ff315054a
+size 59

@@ -1,1 +1,3 @@
-Elevado número de homicídios ocorridos no Brasil em 2018, segundo o Anuário Brasileiro de Segurança Pública. Importância do projeto anticrime elaborado pelo Ministro da Justiça e Segurança Pública para combate às ações do narcotráfico no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f931a24767d568d48861f371991d3cf5b379f20a5a7ea144365e5cd95aa7320
+size 257

@@ -1,1 +1,3 @@
-Importância das políticas de estímulo à indústria para a retomada do crescimento do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcef2671110bfea0fdacb5d218d89dee21c9dc349bf4f724c7b3a486056de6e9
+size 95

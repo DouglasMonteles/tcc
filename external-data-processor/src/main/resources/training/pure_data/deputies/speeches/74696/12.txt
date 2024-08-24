@@ -1,1 +1,3 @@
-Transcurso de aniversário do Município de Mongaguá, Estado de São Paulo. Anúncio de realização, pela Subcomissão Permanente de Portos e Vias Navegáveis, de audiência pública destinada à discussão da cadeia produtiva portuária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8a204aba7b0787ebbfe67984e307a6327204b5422510d27eba2262bed30592a
+size 240

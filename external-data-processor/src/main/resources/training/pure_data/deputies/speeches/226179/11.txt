@@ -1,1 +1,3 @@
-A Deputada ressaltou a importância do Outubro Rosa no Brasil, campanha dedicada à conscientização sobre a necessidade de prevenção e do diagnóstico precoce do câncer da mama. Destacou que é o segundo tipo de câncer que mais mata no País, representando mais de 10% dos casos. Instou as autoridades a alertar a população sobre a seriedade do problema e a investir em políticas públicas para a prevenção e enfrentamento da doença. Incentivou as mulheres a realizarem exames preventivos, especialmente a mamografia. Também fez menção especial ao Hospital de Câncer de Mato Grosso (HCanMT), considerado uma referência no tratamento do câncer no Estado, com mais de 4.500 cirurgias e atendimentos realizados em 2023. A oradora conclamou a população a tornar o mês de outubro um período de alerta e prevenção contra o câncer de mama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb3eda93d43cc93e935ad7137c0bb97af390a7ca578f85d3180e9fb85dc60d4a
+size 857

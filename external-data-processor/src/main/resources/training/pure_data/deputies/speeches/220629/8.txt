@@ -1,1 +1,3 @@
-Perpetuação de ataques à educação brasileira. Assassinato da Profa. Elizabeth Tenreiro em escola pública de São Paulo, Estado de São Paulo. Solidariedade ao professorado brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be82fcf4fb259bf08c73de8ffd948985eb0a893c41fe4c405eac94ebbe71f673
+size 189

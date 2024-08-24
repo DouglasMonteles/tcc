@@ -1,1 +1,3 @@
-Realização pela Comissão de Seguridade Social e Família de audiência pública conjunta com as Comissões de Defesa do Consumidor e de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural para debate da gripe influenza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26759101e175c815efef147703d3e3159a1be51e9473613c942a62c789b3e4bc
+size 232

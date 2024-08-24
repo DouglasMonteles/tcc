@@ -1,1 +1,3 @@
-Inquietação das federações da indústria brasileira diante da adoção do novo Imposto sobre Bens e Serviços - IBS, preconizado no bojo das Propostas de Emendas à Constituição de nºs 45 e 110, de 2019, relativas à reformulação do Sistema Tributário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e78680702f324e67219b3e0d656a7bf183e426cdd3f501713959b806c8d9bb16
+size 271

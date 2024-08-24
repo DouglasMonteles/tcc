@@ -1,1 +1,3 @@
-Posicionamento contrário do Bloco PSB/PDT/PCdoB/PMN/PRB à supressão do  art. 31 do Projeto de Lei de Conversão da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação – EBC, e dá outras providências), que cria a Contribuição para o Fomento da Radiodifusão Pública, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfe764ba5da7fb5407ee9b9676d6baa1c671d5ff7048ec4438e6429803d3c0a7
+size 511

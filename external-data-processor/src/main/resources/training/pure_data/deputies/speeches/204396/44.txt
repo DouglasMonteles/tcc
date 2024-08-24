@@ -1,1 +1,3 @@
-Aprovação, pela respectiva Comissão Especial, do parecer oferecido pelo Relator Aécio Neves à Proposta de Emenda à Constituição nº 48, de 2019, sobre autorização da transferência de recursos federais a Estados, ao Distrito Federal e a Municípios, mediante emendas ao projeto de lei orçamentária anual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4ee7e99b9c80aee14b3e2b19a7350d89b843f7bc5e5a15e44b690b0e1da1697
+size 316

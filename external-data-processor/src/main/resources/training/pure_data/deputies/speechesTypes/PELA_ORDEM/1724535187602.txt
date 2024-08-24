@@ -1,1 +1,3 @@
-Solicitação de apoio à aprovação do Destaque nº 4, de autoria do orador, ao Projeto de Lei nº 4.500, de 2001, relativo à progressão do regime de execução da pena privativa de liberdade após cumprimento mínimo de dois quintos ou três quintos da pena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f510412adebc2094acf92e5ddff13ca52de4f924081afbdabee1b7214d88eca
+size 263

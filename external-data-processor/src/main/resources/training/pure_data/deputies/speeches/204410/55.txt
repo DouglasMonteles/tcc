@@ -1,1 +1,3 @@
-Realização da Surdolimpíada Nacional de 2021, no Município de São José dos Campos, Estado de São Paulo.  Congratulações à Presidenta da Confederação Brasileira de Desportos de Surdos - CBDS, Diana Sazano de Souza Kyosen; ao Presidente da Federação Desportiva de Surdos do Paraná, Anderson Santana Júnior; e ao Diretor-Presidente da Associação dos Surdos de Londrina, Bruno José Silva. Concessão do título de empreendedora do ano à Presidenta da Associação Comercial e Industrial de Londrina, Márcia Regina Vieira Mocelin Manfrin. Eleição da Procuradora Marilena Winter para a Presidência da Ordem dos Advogados do Brasil - OAB, Seccional Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f686ffad0c13f07b032660784d0be2661df1f9231c637b98e0c03bd3f84d8393
+size 674

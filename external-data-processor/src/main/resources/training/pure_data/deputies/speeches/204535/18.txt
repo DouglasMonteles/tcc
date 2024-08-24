@@ -1,1 +1,3 @@
-Fechamento da empresa RR Donnelley Editora e Gráfica Ltda., em São Paulo, Estado de São Paulo. Exigência de regularização, pela empresa, de encargos sociais e trabalhistas junto aos seus empregados. Ameaça de não realização do Exame Nacional do Ensino Médio - ENEM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f640c12d5ee5d0a2fee89e8011455cfc23b888ac77bc9c35d3e03a0a4988df9
+size 276

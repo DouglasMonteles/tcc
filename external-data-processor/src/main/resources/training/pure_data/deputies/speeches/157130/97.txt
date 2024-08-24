@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 36, de 2021, acerca da alteração da Lei nº 12.651, de 2012, para disposição sobre a vegetação nativa e sobre o aumento do prazo concedido aos pequenos agricultores para inscrição no CAR e obtenção dos benefícios do PRA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dd1e2f0b1da8a0136fc05c5f81cf25ef8c0307417b8c476722cd32fea48b1ba
+size 345

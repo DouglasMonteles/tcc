@@ -1,1 +1,3 @@
-Contrariedade com decisão proferida pela Ministra Cármen Lúcia, do Supremo Tribunal Federal, pela concessão de liminar em ação contra a alteração da sistemática de distribuição de royalties de petróleo. Dificuldades enfrentadas por Municípios da Região Nordeste atingidos pela estiagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d1c8be016e7344b50d3db749afd0eec68cc0a2acfb4c2974b8d3f9cc82d2886
+size 300

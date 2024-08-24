@@ -1,1 +1,3 @@
-Realização de vigília pela preservação da Amazônia, no plenário do Senado Federal. Efeitos da devastação da Floresta Amazônica para o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6060c713b402d5d2e248bad43388b6cb527c7f0ff02f756bd244df648956d9c4
+size 151

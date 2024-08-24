@@ -1,1 +1,3 @@
-Necessidade de atuação dos Parlamentares em prol da aprovação de matérias de relevante interesse do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:909aaffa6f31ac37ba341a7edea017a7a2e15867739b468b2eca8a5a5f5b24c1
+size 121

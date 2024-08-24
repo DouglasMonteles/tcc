@@ -1,1 +1,3 @@
-Congratulações às mulheres brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3eb86fe9029d702340b6dbe1c83306617ea966d0b5a45c779986be86197a2626
+size 42

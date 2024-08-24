@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda do Senado Federal ao Projeto de Lei nº 827-A, de 2020, sobre o estabelecimento de medidas excepcionais em face da emergência em saúde pública decorrente da Covid-19, com vista à suspensão do cumprimento de medida judicial, extrajudicial ou administrativa resultante na desocupação ou remoção forçada coletiva em imóvel privado ou público urbano; à concessão de liminar em ação de despejo tratada na Lei nº 8.245, de  1991; e o estímulo à celebração de acordos nas relações locatícias, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6e9297d4ed1a260da2489aabf724c91c365fa408a865b748d6b8845c4baa834
+size 582

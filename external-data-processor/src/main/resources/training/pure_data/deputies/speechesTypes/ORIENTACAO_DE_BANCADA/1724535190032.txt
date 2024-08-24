@@ -1,1 +1,3 @@
-Liberação do PSD para votação do Requerimento de retirada da pauta da Ordem do Dia do Projeto de Lei 1992 de 2007 (Institui o regime de previdência complementar para os servidores públicos federais titulares de cargo efetivo, inclusive os membros dos órgãos que menciona, fixa o limite máximo para a concessão de aposentadorias e pensões pelo regime de previdência de que trata o art. 40 da Constituição, autoriza a criação de entidade fechada de previdência complementar denominada Fundação de Previdência Complementar do Servidor Público Federal - FUNPRESP, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b19d7f5885539550b5cabae2c6f15f861e6e49d6bfe2b8ac4c540dd4da752087
+size 609

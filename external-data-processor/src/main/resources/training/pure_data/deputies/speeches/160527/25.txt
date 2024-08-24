@@ -1,1 +1,3 @@
-Congratulações ao Presidente Marco Maia e aos Líderes partidários pela aprovação da proposta de prorrogação do prazo de vigência da Desvinculação de Receitas da União - DRU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:323fd7809b83a946781d625485418292afd8f9f0a0a6a34cdde588cb07297503
+size 185

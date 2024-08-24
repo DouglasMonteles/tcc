@@ -1,1 +1,3 @@
-Desestruturação das áreas de educação, de ciência e de tecnologia pelo Governo Jair Bolsonaro. Inauguração de unidade do Instituto de Educação, Ciência e Tecnologia do Maranhão no Município de Cururupu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ead40d857b987601713efc4f9f373c53a9ff7692acb66b5a4cf235fef808f72
+size 215

@@ -1,1 +1,3 @@
-Solicitação aos Parlamentares de registro de presença em plenário para o início da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe3fdace2f27ca3783f159c2cb9df7746772b8fd54d4bf4d3e4cd0e90958d7a2
+size 101

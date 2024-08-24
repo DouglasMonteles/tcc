@@ -1,1 +1,3 @@
-O Deputado discursou na Sessão Solene para a Conscientização sobre as Distrofias Musculares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c91a0cd864bae38ff0cd86a1ad4afaff25725e3bcc8a35eb1f76362b5a9397e6
+size 95

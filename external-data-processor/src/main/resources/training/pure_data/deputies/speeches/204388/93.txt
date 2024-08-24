@@ -1,1 +1,3 @@
-Críticas ao discurso de Deputada a respeito de ataque homofóbico contra Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a73c67c8325940d7d8caf692104019f0c94a259c4d8fdc6082fbc1f444e4354f
+size 86

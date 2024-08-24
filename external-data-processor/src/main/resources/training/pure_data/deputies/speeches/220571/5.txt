@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo apresentado pela Relatora da Comissão de Defesa dos Direitos da Mulher ao Projeto de Lei nº 3, de 2023, sobre a criação do Protocolo Não é Não de atendimento à mulher vítima de violência sexual ou assédio em discotecas, estabelecimentos noturnos, eventos festivos, bares, restaurantes ou qualquer outro local de grande circulação de pessoas, ressalvados os destaques. Agradecimento à Relatora Renata Abreu pelo acatamento da Emenda de Plenário nº 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b2d0bafe61ec5d89603e6f057850ce9db9a2e2b666cfcb511d796614fc4f949
+size 518

@@ -1,1 +1,3 @@
-Repúdio à expressão máfia branca, em referência aos médicos brasileiros, contida em discurso proferido no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3906bef7268cc9e5dea110db8ade0ebc4bd3e675c485851e3bee1ee45dc30c01
+size 122

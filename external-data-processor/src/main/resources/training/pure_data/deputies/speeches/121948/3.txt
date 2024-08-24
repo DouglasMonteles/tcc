@@ -1,1 +1,3 @@
-Transcurso do 86º aniversário de emancipação político-administrativa de Goiânia, Capital do Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5b79018e24e047ea080bad0c20b47f64d431c86ca8695080df7f59a92cd7714
+size 115

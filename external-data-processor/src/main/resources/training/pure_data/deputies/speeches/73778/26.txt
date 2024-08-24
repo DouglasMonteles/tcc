@@ -1,1 +1,3 @@
-Transcurso do 65º aniversário de instalação do Serviço Nacional de Aprendizagem Industrial - SENAI no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:deaa3e784e549f9772c453b1fa73480350f70c5edb1f32ef3050d50610132b71
+size 125

@@ -1,1 +1,3 @@
-Recrudescimento do conflito entre indígenas e proprietários rurais no Estado de Mato Grosso do Sul. Precariedade do Centro Poliesportivo e Recreativo do Município de Dourados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:695c555045a063584a8789c05a449d8a4b978cb4ef1ff03b08925170ce3ea574
+size 178

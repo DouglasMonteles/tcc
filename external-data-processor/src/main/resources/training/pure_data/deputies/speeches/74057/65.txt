@@ -1,1 +1,3 @@
-Solicitação à Presidência de prioridade na concessão da palavra aos oradores inscritos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4713661005d8f0b247db63754eb46e25c076a71537f07ccdecfb48344b843556
+size 92

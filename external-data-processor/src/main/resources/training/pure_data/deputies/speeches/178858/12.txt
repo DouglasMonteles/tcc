@@ -1,1 +1,3 @@
-Transcurso do 15º aniversário de instalação da Universidade Sete de Setembro - FASETE, no Município de Paulo Afonso, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95b8bf9b77394c6d7ace5095fd8e7a9fb4b6d1ba18d52c95d152e7733f926a5f
+size 138

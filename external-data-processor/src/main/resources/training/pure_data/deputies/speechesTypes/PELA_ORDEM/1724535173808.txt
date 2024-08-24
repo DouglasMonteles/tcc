@@ -1,1 +1,3 @@
-Repúdio à proposta com previsão de redução de direitos dos servidores públicos como condição para a renegociação das dívidas dos Estados com o Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19a79d81159a5a67a28a90646734dbddd02380c09d8968fd13a8c260fdab02fb
+size 170

@@ -1,1 +1,3 @@
-Transcurso do Dia da Liberdade de Imprensa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daac27ace734a707ae664681a968ebf0ce54adaf98aa9998612b7405d175af74
+size 43

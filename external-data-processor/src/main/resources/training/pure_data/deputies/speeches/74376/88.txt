@@ -1,1 +1,3 @@
-Investimentos realizados pelos Governos Luiz Inácio Lula da Silva e Dilma Rousseff no Município de Campo Grande, Estado de Mato Grosso do Sul. Exigência de ética de identificação, pelos gestores públicos, da origem dos recursos aplicados, sem apropriação política dos méritos de outrem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd37ebcf8dd808fcb655a4e31258483ff247bb25ee059ab6c0e964d54e782de4
+size 297

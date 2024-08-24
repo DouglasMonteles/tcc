@@ -1,1 +1,3 @@
-Transcurso do Dia de São José Operário, Padroeiro dos Trabalhadores. Solidariedade à luta dos trabalhadores pela efetivação da Ferrovia de Integração Oeste-Leste - EF-334, ameaçada de interrupção de investimentos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcc4d002c78e251ee53927f8e14b06c7e0bccf36040ddcc0742c21dbeea48e7e
+size 224

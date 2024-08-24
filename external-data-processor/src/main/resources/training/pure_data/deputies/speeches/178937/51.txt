@@ -1,1 +1,3 @@
-Elogio à atuação dos policiais militares e civis do Estado do Rio de Janeiro no combate à criminalidade. Solicitação ao Ministro da Defesa, Raul Jungmann, de apoio à segurança pública do Rio de Janeiro. Inadmissibilidade do domínio territorial de comunidades cariocas por criminosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6e858662f31cf1298b78afaced1f06c12a9232ed62f6df2281ca2184aa27c35
+size 293

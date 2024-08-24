@@ -1,1 +1,3 @@
-Urgente necessidade de repasse aos Estados e Municípios, pelo Tesouro Nacional e pela Receita Federal do Brasil, de receitas retidas de impostos compartilhados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a297ad99fe713d82056803e5db07fbcab2450cb4d247dd997825cf206b9172c4
+size 161

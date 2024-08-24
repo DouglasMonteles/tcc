@@ -1,1 +1,3 @@
-Transcurso do Dia dos Povos Indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:159cb8e610d0764d053179c2ec7af32e010b1e468874f5420dd8b9befeb9a1ba
+size 39

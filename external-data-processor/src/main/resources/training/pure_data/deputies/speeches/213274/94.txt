@@ -1,1 +1,3 @@
-Congratulações à bancada federal paulista pela justa distribuição de recursos de emendas orçamentárias. Destinação de recursos orçamentários ao Hospital das Clínicas, à Santa Casa de Misericórdia e ao Hemocentro de Ribeirão Preto, bem como ao Hospital Beneficência Portuguesa, ao hospital e à Santa Casa de Misericórdia de São Carlos, e à área de saúde dos Municípios de Pirassununga e Itápolis, no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd1104da1ff29b924b0274f8bfd51c8229bfbcfc508bc6aed59acba7505fdbe2
+size 444

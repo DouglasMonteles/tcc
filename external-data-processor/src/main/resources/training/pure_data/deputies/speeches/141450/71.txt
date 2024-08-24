@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Prevenção de Acidentes com Crianças. Manifesto pela Proteção e Respeito à Criança no Trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac70fe4afa024514b40f03124cb1bdb4e10de55c18706176f08cad9fce54a809
+size 132

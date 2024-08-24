@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com os crescentes preços das passagens aéreas no Brasil, que têm afetado a acessibilidade dos brasileiros a viagens de avião. Citou dados da ANAC que mostram que o preço médio das passagens no primeiro trimestre de 2023 foi o mais alto desde o Plano Real e destacou que essa tendência de aumento persiste desde 2019. Questionou as justificativas das companhias aéreas para os aumentos, como a pandemia, a alta do dólar e o suposto aumento do preço do combustível, argumentando que esses fatores não correspondem ao aumento constante dos preços. Também mencionou a isenção de PIS e COFINS concedida às empresas aéreas, pedindo uma atuação do Congresso Nacional e dos demais Poderes para proteger os brasileiros e promover uma concorrência que possa reduzir o custo das passagens aéreas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e15dc2fcf0cf68e097a136a7e3c1ae34612d2953c50099e8068ca0a34083aec5
+size 842

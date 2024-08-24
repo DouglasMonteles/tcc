@@ -1,1 +1,3 @@
-Críticas à adoção das pedagogias marxista e globalista no âmbito do sistema educacional brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df7c47b5169bd9385a5704d730adf455da5490ca15891320222ad9a4b3c0dfc2
+size 104

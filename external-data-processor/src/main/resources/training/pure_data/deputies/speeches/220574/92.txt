@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de assinatura da proposta de emenda à Constituição, de autoria da Deputada Renata Abreu, sobre a atualização dos arts. 53 e 55 da Carta Magna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c0fcf660eb05a070720439f7181ce13b4eed2ce595a4b24b3b8c4d50513bc66
+size 172

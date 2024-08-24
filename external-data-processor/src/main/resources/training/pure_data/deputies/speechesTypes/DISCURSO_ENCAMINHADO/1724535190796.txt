@@ -1,1 +1,3 @@
-A Deputada refletiu sobre as realizações do ano e compartilhou números expressivos de sua atuação parlamentar. Celebrou a sensação de missão cumprida em seu primeiro ano de mandato e encerrou o discurso, prometendo continuar trabalhando pela vida e dignidade do povo baiano e do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ac064c3e4f8238bf1eb75ce8058d10bcadb5d988ca6c89fb90a4956dc54528e
+size 294

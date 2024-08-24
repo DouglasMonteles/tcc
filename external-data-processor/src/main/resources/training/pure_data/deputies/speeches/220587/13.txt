@@ -1,1 +1,3 @@
-Presença no plenário do Secretário de Estado do Governo do Acre, Alysson Bestene Lins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:516b68cce974d8e578216f4a2fc0e43feb683adf431ad75d0a977848ef734ddf
+size 89

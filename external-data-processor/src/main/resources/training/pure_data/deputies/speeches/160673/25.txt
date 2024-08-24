@@ -1,1 +1,3 @@
-Dia Mundial do Meio Ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2436ff7c8555d850e2b8d435e7c908c48a6f209a50f54d90703caf086d3572c4
+size 29

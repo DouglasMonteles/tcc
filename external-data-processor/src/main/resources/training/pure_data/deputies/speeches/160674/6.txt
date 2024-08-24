@@ -1,1 +1,3 @@
-Comemoração do Dia Mundial da Saúde e do Jornalista.  Transcurso do Dia Mundial de Combate ao Câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2961b1d894b32531da212b7d3f492673c9baa76b5666adb735a2c8ade412b228
+size 105

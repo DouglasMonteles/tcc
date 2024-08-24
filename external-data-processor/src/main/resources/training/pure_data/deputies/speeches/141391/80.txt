@@ -1,1 +1,3 @@
-Solicitação à Presidência de ampliação do prazo para apresentação de emendas ao Projeto de Lei nº 3.674, de 2008, sobre a criação do Fundo Soberano do Brasil - FSB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:439b7a14834ac4b8703d4782c9dc514468bf1ec36994959e74039f36c70f1b6c
+size 175

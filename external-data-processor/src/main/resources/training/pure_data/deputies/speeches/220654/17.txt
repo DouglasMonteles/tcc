@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.891, de 2023, que dispõe sobre o estupro na modalidade virtual, alterando o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f1d31e17f98ba6d1cbfbff2aa45d58a50b6cc6a1fb2e50ae096daa1e29711a4
+size 263

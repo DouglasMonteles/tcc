@@ -1,1 +1,3 @@
-O Deputado criticou veementemente a prova do Exame Nacional do Ensino Médio (ENEM), rotulando-a como um teste de quociente de imbecilidade e acusando-a de promover doutrinação e histeria ideológica. Expressou choque com o conteúdo, alertando que o exame ditará a matéria ensinada nas escolas, disseminando ideias como racismo estrutural, desvalorização do trabalho e enaltecimento do socialismo. Anunciou a convocação do Ministro da Educação para esclarecimentos sobre a origem do exame.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d4ab3b7746fe87210495c280887a3d77595679e758bbe12c6a420aa6fcfba31
+size 500

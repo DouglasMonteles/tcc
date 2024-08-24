@@ -1,1 +1,3 @@
-Congratulações ao Governo do Estado do Espírito Santo pela queda do registro de homicídios nos Municípios capixabas em 2019. Elogio à gestão do Governador Renato Casagrande na área de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ad4c198b6111b39a870817ac1be2a388ea40f49b8bb426e6e5f6d415c445cb0
+size 212

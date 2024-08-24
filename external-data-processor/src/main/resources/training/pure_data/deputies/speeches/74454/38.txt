@@ -1,1 +1,3 @@
-Impactos da crise financeira mundial sobre a economia brasileira. Resultados positivos das políticas socioeconômicas do Governo do Estado do Ceará. Apoio de entidades sociais a projetos em tramitação na Casa em defesa da melhoria dos salários dos aposentados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b1c3b5f12508ea90a99581e77bb5e21571a887474804b79d4ffbb2ca5150e0d
+size 265

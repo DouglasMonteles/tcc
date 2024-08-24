@@ -1,1 +1,3 @@
-Rejeição do Presidente Luiz Inácio Lula da Silva pela maioria do povo brasileiro. Falta de credibilidade do governo petista junto ao mercado financeiro. Fracasso das tentativas do Governo Federal de impedimento de criação da CPMI destinada à investigação dos atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0042552b64d7930ad6564fe34a60d60bc109eeaf6201ff78ec1798ae3948c052
+size 339

@@ -1,1 +1,3 @@
-Constatação, pela CPI do MST, da prática de tortura, sequestro, invasão de propriedades, roubo, trabalho escravo, assassinato e cativeiro pelo Movimento dos Trabalhadores Rurais Sem Terra. Manipulação, pelo governo petista, da Direita e do chamado Centrão para esvaziamento da CPI. Vínculo do governo do PT com as facções criminosas Primeiro Comando da Capital - PCC e Comando Vermelho - CV.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbe5064d9204f348baef668543c293375611c4eb5a8d7920f558862ad1059987
+size 401

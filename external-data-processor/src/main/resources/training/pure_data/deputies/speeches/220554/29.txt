@@ -1,1 +1,3 @@
-O Deputado destacou a importância de comemorar o 7 de Setembro, Dia da Independência do Brasil, especialmente após anos de ameaças e tensões nessa data, que culminaram em uma tentativa de golpe em janeiro de 2023. Recordou da posse do Presidente Lula e enfatizou a união e a reconstrução como principais pilares do governo atual. Mencionou a retomada de políticas públicas, como a valorização do salário mínimo e do Bolsa Família, melhorando a qualidade de vida da população. Ressaltou os sinais positivos na economia, além dos investimentos em educação, saúde, ciência e tecnologia. Convidou todos a comemorar a independência do Brasil e a persistir na busca pela redução das desigualdades sociais, destacando que o País está no caminho certo rumo à reconstrução.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f003135ba4f890237f9852378bbec1b565e3813d0fc167bfb6754f817aed85d1
+size 794

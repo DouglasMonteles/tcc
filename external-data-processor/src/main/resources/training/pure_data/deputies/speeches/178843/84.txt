@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei nº 4.576, de 2021, sobre a Associação de Representação de Municípios; e a alteração da Lei nº 13.105, de 2015, (Código de Processo Civil), ressalvados os destaques. Presença no plenário da Presidenta da Associação dos Municípios Alagoanos - AMA, Rosiana Beltrão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70526d296e33a4790c617ad1704857415ee1a146e876c8230527c23c82955d3b
+size 333

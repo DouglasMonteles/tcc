@@ -1,1 +1,3 @@
-Sessão Solene em homenagem ao Jubileu de Prata da Federação Nacional das Empresas de Segurança e Transporte de Valores - FENAVIST.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95f6eccbc5ff8b11ba976a9a238ef52f99d0c983945e2f1b987aeb3282bef9bf
+size 283

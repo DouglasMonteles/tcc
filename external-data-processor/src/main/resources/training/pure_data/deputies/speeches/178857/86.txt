@@ -1,1 +1,3 @@
-Continuidade do combate ao Governo Michel Temer após a cassação do mandato do ex-Deputado Eduardo Cunha. Defesa, pelo Presidente da Federação Brasileira de Bancos - FEBRABAN, da Proposta de Emenda à Constituição nº 241, de 2016, sobre a instituição do Novo Regime Fiscal, em reunião da Comissão Especial destinada ao proferimento de parecer à matéria. Cobrança à Presidência de votação, em segundo turno, da Proposta de Emenda à Constituição nº 1, de 2015, sobre o valor mínimo de aplicação anual pela União em ações e serviços públicos de saúde. Cobrança de posicionamento do PSDB, do PMDB e do PPS sobre a proposta de aumento de recursos para a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7974fb143d13fb4deae53a76508b0f2fbdb19a66daf37f2f9cd41ac80c8b0dcd
+size 697

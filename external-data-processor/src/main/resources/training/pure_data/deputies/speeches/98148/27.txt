@@ -1,1 +1,3 @@
-O Deputado expressou solidariedade ao povo gaúcho devido aos eventos climáticos no Rio Grande do Sul. Destacou a forte conexão pessoal e familiar com o Estado e compartilhou sua preocupação com a situação enfrentada pelo Vale do Taquari. Em seguida, anunciou evento positivo para Santa Catarina: a publicação de edital de licitação pelo DNIT para a duplicação da BR-282, que ligará Lages a São Miguel do Oeste. Enfatizou que a melhoria na infraestrutura rodoviária é fundamental para o desenvolvimento da região, que é responsável por 40% das exportações catarinenses. O orador agradeceu ao Governo Federal, especialmente ao Ministro dos Transportes, Renan Filho, e outras autoridades e técnicos responsáveis pela duplicação da BR-282.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db9a29de86d097ebb59df8ec49cc2ca4407c1748aac269214b2bb7d9aafa99ba
+size 761

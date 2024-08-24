@@ -1,1 +1,3 @@
-Falecimento do Deputado Luiz Flávio Gomes. Solidariedade aos familiares da Sra. Amara Cunha, fundadora da Escola Sindical da CUT-Nordeste. Discussão do Projeto de Lei nº 985, de 2020, sobre as medidas excepcionais adotadas em situação de emergência pública nos termos da Lei nº 13.979, de 2020. Tramitação na Casa do Projeto de Lei nº 966, de 2020, de autoria do orador, sobre a criação de regras tributárias, especialmente de contribuições previdenciárias, específicas para o período de vigência do estado de calamidade pública decretado no País em face da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:965b97d589b2d6984dad08702f4dc42b5ca954f68614c9324411aa657a694bda
+size 605

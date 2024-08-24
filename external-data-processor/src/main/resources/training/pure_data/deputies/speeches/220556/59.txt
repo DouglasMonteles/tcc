@@ -1,1 +1,3 @@
-Ações positivas do Governo Luiz Inácio Lula da Silva, nos primeiros 5 meses de gestão nas áreas de saúde e educação. Regozijo com a aprovação da Medida Provisória n°1.162, de 2023, sobre o Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d95b0371cf157131b321f573227f5658a96c7076323799bc7a288bb9c0111018
+size 233

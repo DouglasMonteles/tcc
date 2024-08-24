@@ -1,1 +1,3 @@
-Adiamento da inauguração do Hospital de Reabilitação de Porto Velho, Estado de Rondônia, em face da necessidade de instalação de equipamentos importados e de treinamento dos funcionários para o atendimento ao público e aos pacientes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e75d93f89322ba36e080552f7788f5945c1c1ed94b8537dddac83b94898bb851
+size 242

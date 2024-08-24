@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado AJ Albuquerque sobre o falecimento do ex-Deputado Federal Vicente Arruda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0509d67fe5c9cbad84a45f73137dbbebf51b1cf4088f18958ffcb92fe11bb93
+size 116

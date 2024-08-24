@@ -1,1 +1,3 @@
-Contrariedade à Resolução nº 2.227, de 2018, do Conselho Federal de Medicina, sobre a definição e disciplinamento da telemedicina como forma de prestação de serviços médicos mediados por tecnologias. Importância da proximidade entre o médico e o paciente e de prioridade no diagnóstico. Defesa do credenciamento de consultórios médicos pelo Sistema Único de Saúde - SUS. Importância da promoção da saúde e prevenção às doenças.
+version https://git-lfs.github.com/spec/v1
+oid sha256:828d0abeb42295671009a93a50355a5682bd5ab4c48c706ec1f058259317b75c
+size 452

@@ -1,1 +1,3 @@
-Destaque do Estado do Amazonas na implantação de políticas ambientais e de desenvolvimento sustentável. Homenagens concedidas ao Governador Eduardo Braga por ações desenvolvidas na área ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a40811da32d17e625a80cc9248f4a10be0bd83b9faeb6413f81807ea31aa259a
+size 203

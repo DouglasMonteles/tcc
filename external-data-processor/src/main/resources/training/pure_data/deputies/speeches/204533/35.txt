@@ -1,1 +1,3 @@
-Homenagem à Presidenta do Sindicato Único dos Trabalhadores em Educação no Estado do Ceará - SINDIUTE, Ana Cristina Guilherme, e ao Presidente do Sindicato dos Servidores Públicos lotados nas Secretarias de Educação e de Cultura do Estado do Ceará e nas Secretarias ou Departamentos de Educação e/ou Cultura dos Municípios do Ceará - APEOC, Anizio Melo. Orientação de bancada na votação do Substitutivo do Senado Federal ao Projeto de Lei nº 4.372, de 2020, sobre a regulamentação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5491158b05ef9e1f21ba08d765f2e18180faf5a53bd2791016d172ebbc99c455
+size 652

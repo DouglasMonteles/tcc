@@ -1,1 +1,3 @@
-Necessidade de o Governo rever a previsão orçamentária para 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf99d9a82f9a0252b35f53de24d12fc6e843d351d59417e1b5888f5857c7c369
+size 68

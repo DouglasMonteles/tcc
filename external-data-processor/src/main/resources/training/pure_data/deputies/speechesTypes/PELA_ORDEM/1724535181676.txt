@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado do Rio Grande do Sul pela recondução do orador ao mandato parlamentar. Resultado de reunião do Deputado com o Superintendente Regional do Departamento Nacional de Infraestrutura de Transportes - DNIT no Estado do Rio Grande do Sul, Hiratan Pinheiro, destinada ao debate sobre a realização das obras das alças de acesso à nova Ponte do Guaíba, em Porto Alegre, e sobre a necessidade do reassentamento de famílias das comunidades ocupantes da área em questão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c71d05242401c52891d23a2f7927a953e0b4f416c4797a962a84efb04268575
+size 506

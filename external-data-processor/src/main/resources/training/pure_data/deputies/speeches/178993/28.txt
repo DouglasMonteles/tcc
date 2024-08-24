@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de liberação de recursos para a área de saúde e segurança pública do Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c4e093107f359d370bd190f00123a31f285df551f4b9b6e19eabef8f9ea9cd6
+size 120

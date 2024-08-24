@@ -1,1 +1,3 @@
-Responsabilidade do Poder Público pela tragédia ocorrida no Estado do Rio de Janeiro em decorrência das chuvas. Desocupação de áreas de risco no Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b4a1b673d543842fd7d297196adddd9a69e00977ed85b18dde871ba1645672c
+size 166

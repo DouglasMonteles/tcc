@@ -1,1 +1,3 @@
-Balanço de investimentos do Programa de Aceleração do Crescimento - PAC no País. Obras de infraestrutura e ações sociais desenvolvidas pelo Governo Federal em Alagoas. Inércia do Governo do PSDB nas áreas da educação e segurança em Alagoas. Destinação de recursos orçamentários pelo orador à área da cultura em Maceió.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ead8ba1ae7d21a49eada4f650f62104f052792ebdc0d801900e0466290a44d0
+size 336

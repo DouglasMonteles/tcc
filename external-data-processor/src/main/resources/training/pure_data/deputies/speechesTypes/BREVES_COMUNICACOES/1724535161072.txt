@@ -1,1 +1,3 @@
-Capacidade técnico-política do Ministro das Cidades, Jader Barbalho Filho. Apresentação ao orador da política habitacional de sua Pasta. Homenagem às Associações de Pais e Amigos dos Excepcionais - APAEs do Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7950cb04d43385a4640edfa17ed362535da0ace6a8b22139c97e58e9dcf634e7
+size 235

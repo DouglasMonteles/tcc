@@ -1,1 +1,3 @@
-Pedido ao Presidente do Senado Federal, Senador Rodrigo Pacheco, pelos Deputados Lindbergh Farias, Gleisi Hoffmann e outros, de demissão do Presidente do Banco Central do Brasil, Roberto Campos Neto. Sucesso da política econômica do governo petista. Inexistência de motivos para manutenção da taxa básica de juros, a Taxa SELIC, em 13,75% ao ano pelo Banco Central.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43e819e476ffec245a4336e8a3cedf37878ed30254a3bedf3038eeb7113b6f1d
+size 372

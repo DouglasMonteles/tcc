@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Comissão nº 98 apresentada à Medida Provisória nº 1.164, 2023, sobre a instituição do Programa Bolsa Família e alteração da organização da Assistência Social, sobre alteração da Lei nº 10.820, de 2003, acerca da autorização para desconto em folha de pagamento, e sobre alteração da Lei nº 10.779, de 2003; e sobre a revogação de dispositivos das Leis nºs 14.284, de 2021, e 14.342, de 2022, e da Medida Provisória nº 1.155, de 2023. Inconsistência entre o discurso de Deputado do PSOL sobre críticas às pessoas ricas e o patrimônio acumulado pelo Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:196440f3794fb4ef19526ab1ac00590f56f4703e1e2a84a96eca29f8f6c2c299
+size 694

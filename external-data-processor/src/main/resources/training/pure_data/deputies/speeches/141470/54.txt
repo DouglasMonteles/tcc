@@ -1,1 +1,3 @@
-Visita do Presidente Luiz Inácio Lula da Silva às obras da Ferrovia Transnordestina nos Estados de Pernambuco e Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d56805033ced66950a9b2d990c1cdcf8986fdd8d4e2c259309b60097dc0ec49d
+size 121

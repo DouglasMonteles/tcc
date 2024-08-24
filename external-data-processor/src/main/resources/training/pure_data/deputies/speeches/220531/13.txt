@@ -1,1 +1,3 @@
-Congratulações à Polícia Militar do Distrito Federal pela retirada de circulação de cadeirante envolvido com o tráfico de drogas, na Cidade-Satélite do Gama. Congratulações ao Comandante-Geral da Polícia Militar do Distrito Federal, coronel Klepter Rosa Gonçalves, e ao Subcomandante coronel Adão Teixeira de Macedo. Transcurso do Dia Nacional de Combate à Hipertensão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:003564ec64ecec762697307c5a90ed9128a3e7aa6d0a69adba15fd0dd4c891e2
+size 384

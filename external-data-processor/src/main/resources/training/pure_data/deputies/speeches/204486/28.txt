@@ -1,1 +1,3 @@
-Importância da redução de incentivos fiscais e da tarifa de importação para o crescimento da economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcfc80571bb630cc5ecaf32159590c40ef7336d6f8aeaffc6d07c90e8f00914a
+size 118

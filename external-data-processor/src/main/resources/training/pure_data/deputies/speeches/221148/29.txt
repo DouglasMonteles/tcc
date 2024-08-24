@@ -1,1 +1,3 @@
-O Deputado destacou uma importante decisão da Ministra da Saúde, Nísia Trindade, em relação à cobertura do Sistema Único de Saúde (SUS) para o medicamento Trikafta, usado no tratamento da fibrose cística. Elogiou a decisão da Ministra e agradeceu ao Governo Lula por essa iniciativa, que beneficiará as famílias que não teriam condições de arcar com o custo elevado do medicamento. Também criticou o Governador do Estado de São Paulo, Tarcísio de Freitas, por se recusar a fornecer o medicamento às famílias necessitadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a94e1adce0b9baecb719a79a3f6342219d1ce6d8774eb7167c01edea1dc7897e
+size 541

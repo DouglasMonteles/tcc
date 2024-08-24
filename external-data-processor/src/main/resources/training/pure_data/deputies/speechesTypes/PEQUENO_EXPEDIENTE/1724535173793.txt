@@ -1,1 +1,3 @@
-Posicionamento contrário da bancada do PT ao Projeto de Lei nº 4.330, de 2004, sobre o contrato de prestação de serviço a terceiros e as relações de trabalho dele decorrentes. Aplauso à Central Única dos Trabalhadores - CUT, pela defesa da classe trabalhadora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:902a99fe922639ad0124be5f54c245ee052790993d2c856470aaa1268620d7a4
+size 269

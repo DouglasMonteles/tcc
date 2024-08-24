@@ -1,1 +1,3 @@
-Votação, pelo Senado Federal, da proposta de criação do novo Código Florestal brasileiro. Expectativa de conciliação entre a produção agrícola e a preservação do meio ambiente no processo de apreciação da matéria. Anúncio da apresentação de emenda supressiva à medida provisória sobre o aumento do PIS/COFINS incidente na cadeia produtiva de alimentos. Apresentação de emenda ao projeto de lei sobre a criação do novo Plano Nacional de Educação - PNE, destinada à aplicação no setor educacional de 10% do Produto Interno Bruto - PIB brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bea5791b6f94b881e2a78e7b22898023b35132ee4f91cd2f9a2822a3bdbf0a4d
+size 573

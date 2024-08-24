@@ -1,1 +1,3 @@
-Balanço do Programa de Aceleração do Crescimento - PAC, ao ensejo do transcurso do primeiro ano do seu lançamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4c65ece77bf738046c87d3301c65704598a4273d9c485a842b32c219304e812
+size 118

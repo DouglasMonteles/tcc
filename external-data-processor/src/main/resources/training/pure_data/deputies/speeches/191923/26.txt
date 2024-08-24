@@ -1,1 +1,3 @@
-Considerações sobre a Medida Provisória nº 889, de 2019, sobre a instituição da modalidade de saque-aniversário no Fundo de Garantia do Tempo de Serviço - FGTS. Crise ambiental reinante no País. Aumento de queimadas na floresta amazônica. Importância da preservação da Amazônia para a Região Nordeste. Necessidade de preservação do bioma caatinga. Considerações sobre a legislação ambiental brasileira. Desertificação do Município de Gilbués e áreas adjacentes, no Estado do Piauí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:824a2af8c08a1401a4ee1d3074ba7cd11ca8e83af2b070087c10accae111e97a
+size 508

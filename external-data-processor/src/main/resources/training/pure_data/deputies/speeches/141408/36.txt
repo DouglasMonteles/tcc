@@ -1,1 +1,3 @@
-Assinatura de convênio entre o Governo do Estado do Maranhão e a Prefeitura Municipal de São Luís para realização de obras de infra-estrutura. Presença do orador nas convenções realizadas pelo PRB nos Municípios maranhenses de Vitorino Freire, Presidente Dutra e Santa Filomena. Desdobramentos dos trabalhos da CPI sobre a investigação das mortes de crianças indígenas por subnutrição, no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d3aa49d1a3a310093a8e3b7a16a19b699178f86953c84cfabb8cb0d617e2751
+size 425

@@ -1,1 +1,3 @@
-Transcurso dos 111 anos da imigração japonesa no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3a502e1163c0672f160786ed4b828bbd36dd3789adb0da4c44dfe91a998d95d
+size 58

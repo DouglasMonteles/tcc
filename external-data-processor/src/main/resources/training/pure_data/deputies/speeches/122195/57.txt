@@ -1,1 +1,3 @@
-Posicionamento favorável do PSC à Emenda 44, destacada, ao Projeto de Lei de Conversão 4 de 2013 da Medida Provisória 589 de 2012 (Dispõe sobre o parcelamento de débitos junto à Fazenda Nacional relativos às contribuições previdenciárias de responsabilidade dos Estados, do Distrito Federal e dos Munícipios), que institui programa de parcelamento de débito previdenciário para as  Santas Casas de Misericórdia, entidades hospitalares sem fins lucrativos, entidade de saúde de reabilitação de pessoas com deficiência, sem fins lucrativos e demais entidades sem fins econômicos da área de saúde, assistência social e educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fec828754c70fae6aa2414fb907a4714f73ccda4f2fc23f2273b4ff0b81c517
+size 650

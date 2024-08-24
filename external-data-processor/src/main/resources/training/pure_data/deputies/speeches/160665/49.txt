@@ -1,1 +1,3 @@
-Expectativa de estabelecimento de acordo para votação da Medida Provisória n° 595, de 2012, sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários. Artigo Suape: a única unanimidade contemporânea de Pernambuco, de autoria do Advogado Cláudio Plácido, publicado pelo jornal Folha de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f592a80737721c2110b9df5699f54b8cc1eebed650057c0c3cb505ec53b9371
+size 402

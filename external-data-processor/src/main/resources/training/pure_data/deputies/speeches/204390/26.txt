@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Líder Comunitário. Relevância dos trabalhos desenvolvidos pela categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b999793c6a09b7073c3ee0cde4b1df219c5ce7fed1fec05805e661955291535e
+size 106

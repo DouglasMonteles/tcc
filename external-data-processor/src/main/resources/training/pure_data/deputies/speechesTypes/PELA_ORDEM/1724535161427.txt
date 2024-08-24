@@ -1,1 +1,3 @@
-Aplausos à Presidenta  Dilma Rousseff pela edição do Decreto 7.468, de 2011,  sobre a manutenção da validade de Restos a Pagar não processados inscritos em exercícios financeiros anteriores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1b85f7bccdd1533dc9fecbdfee615a8766ee9b7df3227db9f76698e6a98db7a
+size 197

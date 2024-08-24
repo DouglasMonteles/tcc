@@ -1,1 +1,3 @@
-Emissão de parecer à Comunicação de Medida Cautelar nº 1, de 2021, do Supremo Tribunal Federal, a respeito da prisão em flagrante do Deputado Daniel Silveira por prática de crime inafiançável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78b7550484a1c21cd11414ce21aab525457b995aecdfbda9a9e48d23ce8087c3
+size 201

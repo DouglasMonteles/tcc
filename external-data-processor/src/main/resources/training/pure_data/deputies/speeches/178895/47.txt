@@ -1,1 +1,3 @@
-Regozijo com a aprovação da Proposta de Emenda à Constituição nº 443, de 2009, que fixa parâmetros para a remuneração dos advogados públicos. Pesar pela classificação do Brasil no ranking de países com relação ao Índice de Retorno de Bem Estar à Sociedade - IRBES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e12e542fdf02258d549a74e518dc4ceda38056414ca2cf6cf109b35295b86b34
+size 281

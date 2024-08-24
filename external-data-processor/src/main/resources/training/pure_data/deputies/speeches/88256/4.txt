@@ -1,1 +1,3 @@
-Importância de votação e aprovação pela Casa do Projeto de Lei nº 1.301, de 2023, sobre o reconhecimento dos portadores da doença falciforme como deficientes para os efeitos legais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:703747226e25d33050d5aac8eb436f62803dcfcc38eda67d9d4c408fa6396bf4
+size 188

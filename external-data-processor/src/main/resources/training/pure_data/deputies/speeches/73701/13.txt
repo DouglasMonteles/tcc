@@ -1,1 +1,3 @@
-Encaminhamento ao Embaixador do Japão no Brasil, Sr. Akira Miwa, de mensagem de solidariedade ao povo japonês e de confiança na recuperação de seu país após a trágica ocorrência de terremoto e tsunami.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28f55aa34d959e5a58b04eef63e40ee18fea33483d22152fe01be1351dc42bf0
+size 210

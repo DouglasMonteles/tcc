@@ -1,1 +1,3 @@
-Presença na Casa do Prefeito Erasmo Guterres Silva, do Município de Alegrete, Estado do Rio Grande do Sul. Pedido à Defesa Civil nacional e gaúcha e ao povo brasileiro de apoio às famílias atingidas por enchentes nos Estados do Rio Grande do Sul e de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:619c0455d4316f2f88f6e6da25ccb244d48e15b6e1272703e6a6f419d0695efb
+size 272

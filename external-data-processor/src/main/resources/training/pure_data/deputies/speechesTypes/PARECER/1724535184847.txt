@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 4.576, de 2021, sobre a Associação de Representação de Municípios; e a alteração da Lei nº 13.105, de 2015, (Código de Processo Civil).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df98c04c304551b435179f698a0c4936eff299012c0db3ffece094b144b7a12
+size 186

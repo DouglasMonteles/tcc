@@ -1,1 +1,3 @@
-Obstrução da votação em protesto contra o não afastamento do Deputado Eduardo Cunha da presidência da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7f25afee650b6430d04d4e3d21529df157da8d985f89cb2bd6b5ff5e295752f
+size 130

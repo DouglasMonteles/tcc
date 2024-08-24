@@ -1,1 +1,3 @@
-Apreensão da oradora ante os constantes ataques, ameaças e afrontas à imunidade parlamentar e às prerrogativas dos congressistas. Inobservância, por Ministros de Estado e membros de Tribunais Superiores, do disposto no art. 53 da Constituição Federal sobre a inviolabilidade dos Parlamentares em suas opiniões, palavras e votos. Conclamação à Casa para manifestação em defesa da imunidade parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f8ce68ffa412825bec7673438728460f0793f872246f46156bb24910408c720
+size 414

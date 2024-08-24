@@ -1,1 +1,3 @@
-Presença, na Casa, de representantes da Associação dos Médicos do Detran do Estado de São Paulo - AMDESP; da Associação dos Médicos e Psicólogos de Trânsito do Brasil AMPETRA; do Sindicato dos Psicólogos e da Ordem dos Advogados do Brasil do Estado de São Paulo, para acompanhamento da tramitação do Projeto de Lei nº 3.267, de 2019, sobre a reformulação do Código de Trânsito Brasileiro. Apresentação de emenda à proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69b6f50831fe46b835bf7fd73e492a5b87f344f730fac4d07e993ffe002fc312
+size 449

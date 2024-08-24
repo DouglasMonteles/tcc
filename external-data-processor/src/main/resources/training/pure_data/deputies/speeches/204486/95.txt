@@ -1,1 +1,3 @@
-Utilização, pelo Governo Federal, de recursos de fundos criados por leis ordinárias ou complementares para o pagamento da dívida pública. Possibilidade de desvinculação de receitas de tais fundos pelo substitutivo oferecido pelo Relator da Proposta de Emenda à Constituição nº 187, de 2019, a chamada PEC dos Fundos Públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abf3c94a8de4a8c6f0e7caee3a1a8b9237e1c5aaff886356ff5b733f05cbfcff
+size 337

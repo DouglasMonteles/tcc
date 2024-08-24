@@ -1,1 +1,3 @@
-O Deputado destacou a realização da manifestação popular denominada Grito dos Excluídos no dia 7 de Setembro, data alusiva à proclamação da independência do Brasil. Conclamou os democratas a celebraram tanto a independência do País quanto essa significativa manifestação organizada por várias entidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb18209eea88fecb4cd9cbde3005c3e70874bf5db505020395b91ef74183a52d
+size 317

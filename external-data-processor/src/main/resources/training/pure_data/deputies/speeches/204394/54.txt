@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei do Congresso Nacional nº 18, de 2019, sobre abertura dos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito suplementar no valor de R$ 3.041.594.744,00, para reforço de dotações constantes da Lei Orçamentária vigente. Retirada de recursos da educação para o pagamento de emendas aos Parlamentares favoráveis à aprovação da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c59f3b69eb2c835d2c5ca253d8a364e8b2c2d053eee0ed026ba6d64e9acc1f3d
+size 543

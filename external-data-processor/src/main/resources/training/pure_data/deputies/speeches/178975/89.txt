@@ -1,1 +1,3 @@
-Solidariedade à Deputada Daniela do Waguinho, vítima de tentativa de homicídio. Solicitação ao Presidente da Casa para acompanhamento das investigações do caso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:093c10f06426cf39d99e656f3dba5050b421ead3b0904c61b3696b875024149e
+size 167

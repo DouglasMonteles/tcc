@@ -1,1 +1,3 @@
-Posicionamento do orador contrário ao modelo de concessão do Aeroporto Internacional do Recife, no Estado de Pernambuco, apresentado pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30efcd937f79453a24977ee1915d0ba749d16457bf803393e5a6e0784de9b548
+size 156

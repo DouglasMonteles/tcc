@@ -1,1 +1,3 @@
-Comemoração dos 130 anos de atividade do Tribunal de Contas da União - TCU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3873bf75ccc6372be6e4ac10743d2c9e7ce931132346b284091bcc985db4137
+size 78

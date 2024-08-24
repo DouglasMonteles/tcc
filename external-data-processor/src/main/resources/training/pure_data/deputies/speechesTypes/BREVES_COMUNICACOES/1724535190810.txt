@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à delegação parlamentar paraibana, presente na Câmara do Deputados, em busca de recursos para a construção de nova maternidade no Município de Campina Grande.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e17e62c575a57702c147dc23fe254e7daeb2a4e171b044003577bf988302ce85
+size 195

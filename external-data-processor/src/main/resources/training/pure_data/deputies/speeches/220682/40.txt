@@ -1,1 +1,3 @@
-Contrariedade à privatização da Companhia Paranaense de Energia - COPEL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:add653b921c2f8cc9d6d10162cb18d9fa60ee6c88f66f64f689b4b7ceb335e3d
+size 75

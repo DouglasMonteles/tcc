@@ -1,1 +1,3 @@
-Congratulações aos representantes dos policiais e bombeiros militares pela celebração de acordo acerca da votação da Proposta de Emenda à Constituição nº 300, de 2008. Possibilidade de realização de acordo para a votação da Proposta de Emenda à Constituição nº 308, de 2004, sobre a criação das polícias penitenciárias federal e estaduais, e da proposta de emenda à Constituição a respeito da desapropriação de terras, no caso da constatação da prática de trabalho escravo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:576312a9df5aa41443e37a6954be37803e4d62d1c5b51eb60ce641ecf29d00c3
+size 503

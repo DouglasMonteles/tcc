@@ -1,1 +1,3 @@
-Despedida do orador da Presidência da Comissão de Turismo e Desporto da Casa. Votos de profícua gestão ao novo Presidente do órgão, Deputado José Rocha. Agradecimento aos membros da Comissão e aos demais Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53ac39059d9ff79ebaae0719f7a81fbe4b2580653d0576d9a3a8359c72bed7fb
+size 226

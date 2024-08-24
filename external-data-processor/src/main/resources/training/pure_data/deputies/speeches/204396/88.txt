@@ -1,1 +1,3 @@
-Receio do setor produtivo brasileiro, especialmente do Estado do Paraná, quanto à troca de Governo no País. Compromisso do orador com a defesa das pautas progressistas, do setor produtivo, do agronegócio e dos setores da indústria, do comércio e dos serviços.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b2d11513a747a1d197e76bb8ead7f460f850ca11ad401169e3436b2ace048d3
+size 266

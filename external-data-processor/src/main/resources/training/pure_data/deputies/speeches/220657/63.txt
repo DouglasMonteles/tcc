@@ -1,1 +1,3 @@
-O Deputado orientou a sua bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3.050, de 2023, que altera a Lei nº 14.254, de 2021, que dispõe sobre o acompanhamento integral para educandos com dislexia ou Transtorno do Déficit de Atenção com Hiperatividade (TDAH) ou outro transtorno de aprendizagem, para assegurar a inclusão do Transtorno Opositivo Desafiador (TOD) nos parâmetros da lei.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a917e7e457f741ba02dad0e0f604bb7d689b9209695cffd281942190242e2109
+size 443

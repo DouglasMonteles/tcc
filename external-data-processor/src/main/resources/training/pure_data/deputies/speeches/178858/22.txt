@@ -1,1 +1,3 @@
-Expectativa quanto à celebração de acordo a respeito da repartição, entre os entes federados, de recursos provenientes do leilão da chamada cessão onerosa da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:474b2ab7ba843096741e02a7131e60cda497c6736288d7ab3ebf33f61105b56a
+size 181

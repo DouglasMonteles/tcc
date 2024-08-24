@@ -1,1 +1,3 @@
-Outorga do Certificado ISO 9001:2000 à Prefeitura Municipal de Gramado, Estado do Rio Grande do Sul. Competência administrativa do Prefeito Pedro Henrique Bertolucci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a007de881e198ce512920ba23f80b34cfdb5a29a00ec273c512b904e28eeaf41
+size 168

@@ -1,1 +1,3 @@
-Empenho do Presidente Rodrigo Maia na cessão de imóvel à Prefeitura Municipal de São Gonçalo pela empresa Petróleo Brasileiro S/A - PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:340aa60ee2a0952211ebd3a6488337b31ada4e8ecdcd14252fc5f7802b0a120e
+size 148

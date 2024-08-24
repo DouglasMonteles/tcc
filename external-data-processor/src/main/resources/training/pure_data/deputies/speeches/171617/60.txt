@@ -1,1 +1,3 @@
-Realização, no Município de Maceió, da 6ª Bienal Internacional do Livro de Alagoas. Lançamento do livro Delmiro Gouveia e a Educação na Pedra, de autoria do Prof. Edvaldo Francisco do Nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8321b774a8aff23eaf30c6648cdb25dd3d1be5c24e813781576bf7f007f9d6e0
+size 203

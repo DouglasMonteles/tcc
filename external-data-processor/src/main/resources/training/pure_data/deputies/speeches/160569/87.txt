@@ -1,1 +1,3 @@
-Encaminhamento da Indicação nº 1.657, de 2011, ao Ministério da Educação para a instalação de núcleo avançado do Instituto Federal de Educação, Ciência e Tecnologia - IFET no Município de Macaúbas, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81d513a752ded820cbdeb452f62c3b6ea6e11a4077a000bf2be8e1ef5d613fb0
+size 229

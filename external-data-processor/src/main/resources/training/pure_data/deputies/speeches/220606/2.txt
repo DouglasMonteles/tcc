@@ -1,1 +1,3 @@
-Apequenamento da atividade política em face dos ataques orquestrados contra o PT ao ensejo das comemorações dos 43 anos do partido. Relançamento do Programa Minha Casa, Minha Vida. Expectativa quanto à publicação, pelo Governo Federal, de projetos de relevante interesse nacional, como o limite de isenção do Imposto de Renda, a política de aumento do salário mínimo e a questão dos CPFs negativados. Mudança dos rumos do Brasil com o início do Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26cb24b6bc4c91e209e024aa91e5fd4b327ccfb053c2ee1dd05d9768df6e9ab7
+size 495

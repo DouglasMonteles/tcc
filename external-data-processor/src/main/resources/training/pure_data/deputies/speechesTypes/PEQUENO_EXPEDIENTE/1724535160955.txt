@@ -1,1 +1,3 @@
-Realização da Expodireto Cotrijal 2015, no Município de Não-Me-Toque, Estado do Rio Grande do Sul. Participação no evento da Ministra da Agricultura, Pecuária e Abastecimento, Kátia Abreu. Inconveniência da alteração da taxa de juros para o financiamento da agricultura como medida de rigor fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b95ef5480f5f2f1f34b1ac04a6dd76d60368fe962411c7778eeb1dc11cc28d98
+size 309

@@ -1,1 +1,3 @@
-Posicionamento contrário do  PP   à Emenda de Plenário 1, destacada, à Subemenda Substitutiva Global  de Plenário ao Projeto de Lei 2.330 de 2011 (Dispõe sobre as medidas relativas à Copa das Confederações de 2013 e à Copa do Mundo FIFA 2014 que serão realizadas no Brasil -  Lei Geral da Copa), que veda a comercialização, o consumo e o porte de bebidas alcoólicas no interior dos estádios que sediarão partidas das competições.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26c098a15a43499fd6b19ac5f4e734f7559afb9f0f9130e058c6e369eab2aa6a
+size 447

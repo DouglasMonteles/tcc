@@ -1,1 +1,3 @@
-Efeitos da precarização das relações de trabalho imposta pela reforma trabalhista. Paralisação nacional de trabalhadores em empresas de aplicativos, pela garantia de seus direitos, da melhoria da remuneração e das condições de trabalho. Pedido à Presidência de votação de projetos de lei apresentados pelo orador em benefício da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d21015fe030f6cc06d002e15467919075f21116a20a5551613430c87dbdbdc15
+size 354

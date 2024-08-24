@@ -1,1 +1,3 @@
-Apoio do PP à proposta de  votação do projeto de lei referente ao Código Brasileiro de Aeronáutica na sessão extraordinária convocada para a próxima terça-feira, às 11 horas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6aef63318219cfc3d3a1566c938cc739d3ebd6a3339ba980326bde0610008d9
+size 184

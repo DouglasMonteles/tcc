@@ -1,1 +1,3 @@
-Agradecimento ao povo gaúcho, em especial aos porto-alegrenses, pelo comparecimento à abertura da Casa da Mandata, na Capital Porto Alegre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4027ada8d66b8d18ceb6c7b7dea0d094eb6f929e2388f9c844347de8b5a7ce97
+size 141

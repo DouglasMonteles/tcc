@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de convocação de candidatos aprovados em concurso público para preenchimento de vagas no Instituto Nacional de Colonização e Reforma Agrária - INCRA. Apresentação do Projeto de Lei nº 277, de 2011, e da Proposta de Emenda à Constituição nº 44, de 2011, acerca do aproveitamento de candidatos aprovados em concursos públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64101cba8977c14c8ff365ad31c9bb9bf632f8b98a2ea3765001cd510057ef08
+size 363

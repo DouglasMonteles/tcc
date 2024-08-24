@@ -1,1 +1,3 @@
-Apoio ao movimento grevista dos servidores das universidades estaduais do Paraná. Sucateamento do ensino superior paranaense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8adac47d687e8e0305fbdb1c4199f8a965d0dbe9affaddba131be9b44572f0e1
+size 126

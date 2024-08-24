@@ -1,1 +1,3 @@
-Apoio à votação, na presente sessão, da Proposta de Emenda à Constituição nº 443, de 2009, que fixa parâmetros para a remuneração dos advogados públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b759ab485233992a2381614f39d82cf5c9da4ea54dfbda33b433b91aafbf41c
+size 165

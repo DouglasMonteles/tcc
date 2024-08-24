@@ -1,1 +1,3 @@
-Transcurso do 46º aniversário de emancipação político-administrativa do Município de Buritizeiro, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df10742598b6cd1f47024c703d67316f353b8cfe539b82024e5cad44c3fcead0
+size 127

@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM ao Projeto de Lei 1.831 de 2011(Dispõe sobre a criação  de Varas do Trabalho na jurisdição do Tribunal  Regional do Trabalho da 1ª região,    define jurisdição e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:02c7d5edcdebf681ba50b099bd9ddf071cb8157c27e988db34782bd8c0db2fde
+size 230

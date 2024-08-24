@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalhador Rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7076651d4dfa4ea4b80ef47a15b7b21a6daf331ca133c030887601c0378d59e4
+size 39

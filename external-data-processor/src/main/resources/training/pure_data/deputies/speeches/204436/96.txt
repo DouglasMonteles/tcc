@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do art. 1º do substitutivo apresentado ao Projeto de Lei nº 2.336, de 2021, sobre a alteração da Lei nº 9.615, de 1998, relativa às normas gerais do desporto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0951c2bfa9b4b3d45f4ae0ea36acd70fa48c177b221da304ecbc224c4f087b02
+size 245

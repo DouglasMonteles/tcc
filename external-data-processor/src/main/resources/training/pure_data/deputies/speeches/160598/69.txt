@@ -1,1 +1,3 @@
-Transcurso do Dia do Administrador. Emissão, pela oradora, de parecer a favor da aprovação e projeto de lei acerca da criação do piso salarial nacional da categoria, em tramitação na Comissão de Trabalho, de Administração e Serviço Público. Reunião da Comissão Especial destinada ao exame da proposta de emenda à Constituição relativa à destinação, pela União, de percentuais mínimos de recursos para o setor de irrigação nas Regiões Centro-Oeste e Nordeste. Imediata votação da proposta de regulamentação do piso salarial dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d0c308076e4a565f084c3896ebc11d4263af6283751e645ea72b8c07d647980
+size 626

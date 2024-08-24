@@ -1,1 +1,3 @@
-Transcurso do 123º aniversário de fundação da Santa Casa de Misericórdia de Belo Horizonte, Estado de Minas Gerais. Excelência dos serviços prestados à sociedade belo-horizontina pela instituição de saúde. Importância da alocação de recursos financeiros para instituições filantrópicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:973e837af81c1aa3b3af23f84dae520f3cc7ae7d5b24bfee974c93579d36773e
+size 303

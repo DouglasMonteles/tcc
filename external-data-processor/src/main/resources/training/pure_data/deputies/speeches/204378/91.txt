@@ -1,1 +1,3 @@
-Protesto contra declarações inconsistentes a respeito da região amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:301e9fe3ab014acc455d97896d92ed70832961eae23c1f865a7b716bf55a6347
+size 78

@@ -1,1 +1,3 @@
-Contrariedade à proposta de alteração das regras de reajuste salarial de professores, em estudo pelo Governo Federal. Defesa de rejeição do Veto Parcial nº 48, de 2020, aposto ao Projeto de Lei nº 1.581, de 2020, sobre o disciplinamento do acordo com credores para pagamento com desconto de precatórios federais e do acordo terminativo de litígio contra a Fazenda Pública; bem como da destinação dos recursos deles oriundos para o combate à Covid-19, durante a vigência do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 2020; e da alteração das Leis de nºs 7.689, de 1988, e 8.212, de 1991.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71400ac3aae2a38af22df680910f32b2ec7de6c9beff49c8493b37c1b16cc005
+size 637

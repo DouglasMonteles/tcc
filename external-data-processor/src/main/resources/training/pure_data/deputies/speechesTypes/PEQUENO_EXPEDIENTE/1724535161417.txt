@@ -1,1 +1,3 @@
-Efeitos positivos da viagem oficial do Presidente Jair Bolsonaro aos Estados Unidos da América. Participação do Brasil na Organização para a Cooperação e Desenvolvimento Econômico -  OCDE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2813ecaeafca6bd6309d28b285d1bef6981d8421243f34648852b1e493760111
+size 196

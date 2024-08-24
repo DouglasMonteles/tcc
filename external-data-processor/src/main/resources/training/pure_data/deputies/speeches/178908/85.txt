@@ -1,1 +1,3 @@
-Defesa de condenação judicial do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bddc803a2fb2b073b4b300e51dccc5057074377e77c06197091e099eccade57
+size 76

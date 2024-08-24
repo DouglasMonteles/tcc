@@ -1,1 +1,3 @@
-Razões das dificuldades enfrentadas pela indústria de máquinas agrícolas e por frigoríficos para a exportação de seus produtos, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:628921978f4bafd38e15fd59628b1d5b273883a3bfd89cefe89777a28e6e3505
+size 166

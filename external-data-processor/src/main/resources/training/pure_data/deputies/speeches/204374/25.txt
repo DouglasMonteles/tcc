@@ -1,1 +1,3 @@
-Apelo aos Parlamentares para a retirada da obstrução das votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebded91cfeade34568712597cf1824917262e3b92d0c50df8356aa3b311b3cd3
+size 70

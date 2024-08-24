@@ -1,1 +1,3 @@
-Relato da participação do orador, na condição de representante da Casa, no Seminário Internacional sobre Migrações e Mundo do Trabalho, realizado em Lisboa, Portugal. Necessidade de ratificação da convenção das Organizações das Nações Unidas - ONU a respeito dos trabalhadores migrantes e suas famílias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:183dec77626efee3b34cc6e57790abb50316390f1f16d99b5254b3d8e53347fd
+size 319

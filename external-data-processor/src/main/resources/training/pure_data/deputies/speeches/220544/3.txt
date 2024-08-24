@@ -1,1 +1,3 @@
-Registro da presença de convidados à presente sessão solene em comemoração ao transcurso do centenário de fundação da Escola Estadual Afonso Arinos, do Município de Paracatu, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b2d495f9d8819818292fa3538cce85caf33fcd99619c958568849946859dded
+size 207

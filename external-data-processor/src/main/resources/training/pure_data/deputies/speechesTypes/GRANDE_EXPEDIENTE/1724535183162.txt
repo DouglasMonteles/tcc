@@ -1,1 +1,3 @@
-Conveniência de ampliação das ações do Congresso Nacional em defesa da democratização dos meios de comunicação social. Necessidade de atualização do Código Brasileiro de Telecomunicações. Defesa de fortalecimento do Conselho Consultivo da Agência Nacional de Telecomunicações - ANATEL, e do Conselho de Comunicação Social. Sugestão ao Poder Executivo para realização da Conferência Nacional de Comunicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15df91fbf5787dce5ffb05514f06b1e7bd02f9732d068cde74ca77b6f003611b
+size 431

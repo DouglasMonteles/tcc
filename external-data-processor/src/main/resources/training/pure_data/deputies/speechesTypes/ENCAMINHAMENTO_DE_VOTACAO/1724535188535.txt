@@ -1,1 +1,3 @@
-O Deputado encaminhou a votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 6.256, de 2019, que institui a Política Nacional de Linguagem Simples nos órgãos e entidades da administração pública direta e indireta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4831817f0859a9055978b43b355a6d03fe61d509dc8350c6d26418e6f2a9adef
+size 253

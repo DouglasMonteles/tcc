@@ -1,1 +1,3 @@
-Fracasso da política neoliberal adotada pelo Governo Jair Bolsonaro. Necessidade da realização de investimentos públicos para a retomada do desenvolvimento socioeconômico brasileiro. Defesa da revogação da Emenda Constitucional nº 95, de 2016, sobre a instituição do novo regime fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d89d49a43de6cef8841d79bd875909e7933fcf66da6885c30f2545ff75ca4c06
+size 296

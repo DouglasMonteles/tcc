@@ -1,1 +1,3 @@
-Reeleição do Prefeito Fioravante Ballin, do Município de Ijuí, Estado do Rio Grande do Sul. Idoneidade do gestor municipal ijuiense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51422915b7b1e132958a0cbe78e034fcbdb4345e37f6bebd1e8b00e5f55130f9
+size 136

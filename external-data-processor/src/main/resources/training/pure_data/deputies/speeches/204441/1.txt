@@ -1,1 +1,3 @@
-Agradecimento aos eleitores fluminenses pela eleição do orador. Risco de ocorrência de desastre ambiental no Município de Volta Redonda, Estado do Rio de Janeiro. Agradecimento ao Governador Wilson Witzel e ao Comandante-Geral do Corpo e Bombeiros Militar, Cel. Roberto Robadey, pela participação da corporação nas operações de resgate de vítimas de tragédia socioambiental ocorrida no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e261e1dfb84d260a5183a6e3e60b9116e4f576147469e5ebcb247e71ec990ff7
+size 447

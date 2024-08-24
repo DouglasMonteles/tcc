@@ -1,1 +1,3 @@
-Importância da instalação da CPI destinada à investigação dos valores arrecadados com as tarifas de interconexão e valores investidos na infraestrutura da telefonia móvel no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abf8dbef27772d82368a722f2c8812d3b285e238f498d7719b2649cac91ee4f4
+size 188

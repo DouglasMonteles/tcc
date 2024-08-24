@@ -1,1 +1,3 @@
-Importância da manutenção do equilíbrio entre a atividade agrícola e a preservação do meio ambiente. Excelência da atuação da Ministra do Meio Ambiente, Marina Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7546819c3f25e895b211bd78c5d03c52ebb8bc205991a1966e0227c8dac9571
+size 176

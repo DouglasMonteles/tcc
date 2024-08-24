@@ -1,1 +1,3 @@
-Congratulações à Conferência Nacional dos Bispos do Brasil - CNBB, pelo lançamento da Campanha da Fraternidade de 2019 sob o tema Fraternidade e Políticas Públicas. Saudações ao Coordenador da Diocese de Caetité, Dom José Roberto Carvalho, e aos Padres João Silva Sá Teles, Eutrópio Aécio e Paulo Henrique Neves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7db11c3d95946debf2fa4ff118428587149860923d9b48ea4ded6e0f61af020
+size 327

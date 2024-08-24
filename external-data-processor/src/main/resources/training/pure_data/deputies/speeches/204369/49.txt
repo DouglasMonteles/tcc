@@ -1,1 +1,3 @@
-Falta de credibilidade do Governo Luiz Inácio Lula da Silva entre os investidores financeiros. Críticas à política econômica do governo petista. Impactos negativos da desvalorização do agronegócio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eefeb0c69abb5a3338ec67f2fa8358d13a62c11c5163d0cfdcbf6e4ef209b7c8
+size 205

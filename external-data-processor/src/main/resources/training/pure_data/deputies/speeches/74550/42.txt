@@ -1,1 +1,3 @@
-Solicitação à Presidenta Dilma Rousseff de destinação de recursos do PAC 2 para o desenvolvimento de projetos na região semiárida do São Francisco, Estado da Bahia. Apelo à Presidência de inclusão na pauta da Proposta de Emenda à Constituição nº 57-A, de 1999, sobre a instituição do Fundo Nacional de Desenvolvimento do Semiárido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a84b23713978a97b6e0d94cc54c34a4aa1c108317d6f95e908f3ea631861437d
+size 349

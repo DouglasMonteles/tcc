@@ -1,1 +1,3 @@
-Congratulação à jornalista Rachel Sheherazade pelo lançamento do livro O Brasil Tem Cura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6e846fa7721ce93786eec83e4f83ef83771be85e0335c654b8694247e0a4927
+size 93

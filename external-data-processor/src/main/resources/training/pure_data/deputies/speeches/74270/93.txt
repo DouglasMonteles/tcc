@@ -1,1 +1,3 @@
-Presença na Casa de alunos do Colégio I. L. Peretz, de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93bff6897132f126eb23a4170db3005917d85951700af35a602b57c08ecccac
+size 68

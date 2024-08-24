@@ -1,1 +1,3 @@
-O Deputado encaminhou a votação do Substitutivo do Senado ao Projeto de Lei nº 2.721, de 2023, que dispõe sobre a prestação de serviços postais aos órgãos públicos federais da administração direta e indireta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:496c03ce3bd16f6db3c403c06df559351703b61145def0c1bced54b9ca100bb1
+size 220

@@ -1,1 +1,3 @@
-Comprometimento do orador com a educação e o turismo. Participação do setor turístico na formação do Produto Interno Bruto - PIB brasileiro e na geração de novos empregos. Apresentação do Projeto de Lei nº 1.679, de 2020, sobre a suspensão do pagamento de tributos pelos prestadores de serviços turísticos diante da epidemia de coronavírus. Encaminhamento, ao Poder Executivo, de requerimento de indicação para a criação do Selo Destino Seguro. Transcurso do Dia do Secretário Escolar. Apresentação do Projeto de Lei nº 3.817, de 2020, sobre a instituição do piso salarial nacional do Secretário Escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1ff355617dbc37f45be804a3edc5aecfdce3d5c21d97a3d2a544e84986ed765
+size 631

@@ -1,1 +1,3 @@
-Consequências do novo pacote tributário sobre a classe média brasileira. Disposição do orador para debate de novo modelo econômico com os Parlamentares e o Ministro da Fazenda, Fernando Haddad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0a32ec5216f40ec49feab36cd8471ec361d826d9fd82dc1cfcec0160e71025f
+size 199

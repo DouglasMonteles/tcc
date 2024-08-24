@@ -1,1 +1,3 @@
-Reflexões acerca da manifestação da sociedade brasileira contra a corrupção no Brasil. Papel do Parlamento na busca do fim da corrupção e da impunidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61b86dacb618e2eacc4c261169dfb7073465265c06cf3a1f4c80f2e60218cc2b
+size 159

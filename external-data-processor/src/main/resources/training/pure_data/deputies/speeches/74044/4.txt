@@ -1,1 +1,3 @@
-Proposta de acordo para votação de mais uma Medida Provisória  na presente sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:397e304c32ccf5ff7938210cbff563cea6650c6406004dc9fe009dda25a5dc8b
+size 86

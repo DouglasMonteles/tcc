@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do § 1º do art. 21 da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária, na votação da matéria em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e597184ed52106677d9255fd4e073c0353c627f0edb1e3e7e7a489c27ca2e411
+size 244

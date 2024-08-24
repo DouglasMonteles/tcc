@@ -1,1 +1,3 @@
-Necrológio do criminalista Raimundo Evaldo Ponte. Excelência do programa nacional de transplante de órgãos disponibilizado pelo Sistema Único de Saúde - SUS. Transcurso do cinqüentenário da realização do primeiro transplante de coração no País. Pioneirismo do médico paulista Euryclides de Jesus Zerbini nesse tipo de cirurgia. Liderança do Estado do Ceará em transplantes de órgãos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9db381a51216b7e11baf0f3092538d74abf49aa013b6e3186c8bb77272c913ee
+size 401

@@ -1,1 +1,3 @@
-Agradecimento ao povo do Estado de Minas Gerais pela eleição do orador para a Câmara dos Deputados. Defesa de aprovação pela Casa do projeto de lei sobre a promoção de ações de combate à criminalidade, encaminhado à Casa pelo Ministro da Justiça e Segurança Pública, Sérgio Moro, bem como das medidas anticorrupção defendidas pela Transparência Internacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ce15423a473eaae430da958d9da90f1776134e7b6269905979a8c6082ca1dc5
+size 377

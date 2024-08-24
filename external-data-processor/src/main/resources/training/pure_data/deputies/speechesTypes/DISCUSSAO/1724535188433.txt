@@ -1,1 +1,3 @@
-Discussão do Projeto de Decreto Legislativo nº 1 de 2010 - CN (Autoriza o aumento do efetivo do contingente brasileiro para a Missão de Estabilização das Nações Unidas no Haiti-Minustah).
+version https://git-lfs.github.com/spec/v1
+oid sha256:65b659977912289717f451d6ff0f793f12cfa55ff84796682e6ef943b51bed99
+size 194

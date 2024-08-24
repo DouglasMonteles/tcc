@@ -1,1 +1,3 @@
-Homenagem póstuma ao  ex-Juiz do Tribunal Regional Eleitoral do Piauí e ex-Presidente da Academia Piauiense de Letras, Prof. Manoel Paulo Nunes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f10bcb66f26847f2716712358e39be6f179297a71659cc92f2f90d4b9475ca8
+size 146

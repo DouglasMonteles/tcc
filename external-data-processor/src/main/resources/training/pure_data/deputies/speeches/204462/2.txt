@@ -1,1 +1,3 @@
-Contestação aos pronunciamentos contra o Ministro da Educação, Ricardo Vélez Rodríguez. Desestruturação do sistema educacional brasileiro pelos Governos Luiz Inácio Lula da Silva e Dilma Rousseff. Orientação de bancada na votação do requerimento de encerramento da discussão e do encaminhamento da votação do Projeto de Decreto Legislativo nº 379-B, de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9053afac7bb670c73d7959834aa33930270c4e5a1b249d1051463238eeac254
+size 375

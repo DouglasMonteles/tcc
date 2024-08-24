@@ -1,1 +1,3 @@
-Realização do 12º Acampamento Terra Livre em Brasília, Distrito Federal. Defesa do Estado Democrático de Direito pela Articulação dos Povos Indígenas do Brasil - APIB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67f7c66eb4533d0935dbdfacc95325748d4839d8ea83daed6b9f9fd1e7ebf146
+size 175

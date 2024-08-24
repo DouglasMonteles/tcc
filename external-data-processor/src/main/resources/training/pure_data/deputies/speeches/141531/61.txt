@@ -1,1 +1,3 @@
-Uso de violência, por manifestantes populares, durante ação de bloqueio de trecho da Rodovia Fernão Dias, em protesto contra a morte de adolescente por policial militar. Solicitação do Governo do Estado de São Paulo ao Governo Federal de planejamento de ações integradas da polícia estadual com a Polícia Rodoviária Federal, para garantia da segurança nas estradas federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6ccd12bf6aaae499133bc0e911e3e6a182dbcb55aaf42ee2d126a789c7e2411
+size 387

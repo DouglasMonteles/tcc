@@ -1,1 +1,3 @@
-Convite aos Parlamentares para participação em encontro no Conselho Federal de Enfermagem em Brasília, Distrito Federal, destinado a debate sobre ensino a distância na área da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea1467dea7b95b7d5afabc1c1235525e536198c2e71553657a1201da1df27b1a
+size 188

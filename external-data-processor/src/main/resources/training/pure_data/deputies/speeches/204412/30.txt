@@ -1,1 +1,3 @@
-Falecimento da cantora Marília Mendonça em decorrência de acidente aéreo. Homenagem póstuma ao ex-Governador do Estado de Goiás, Iris Rezende de Machado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:134d3a7d3b0f5c8c718ffbc2e725e87d0b90b486f25649fdaa1e40a186f485ce
+size 159

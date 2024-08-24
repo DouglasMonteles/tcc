@@ -1,1 +1,3 @@
-Posicionamento do orador favorável à proibição de publicidade de bebidas alcoólicas no País. Benefícios alcançados com a vedação às propagandas de tabaco. Defesa da ampliação do debate na Casa sobre o projeto de lei proibitivo da aplicação pelos pais de castigos físicos na educação dos filhos, a chamada Lei da Palmada. Críticas ao posicionamento da Ministra-Chefe da Secretaria de Políticas para as Mulheres, Eleonora Menicucci de Oliveira, a respeito do aborto. Pedido de desculpas do Ministro-Chefe da Secretaria-Geral da Presidência da República, Gilberto Carvalho, à bancada evangélica em virtude de declaração feita no Fórum Social Mundial, em Porto Alegre, Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c762268c11a5233c39d2edee53eeab60f80b881e2a444d0c76f50af588c239c9
+size 710

@@ -1,1 +1,3 @@
-Expansão e melhoria do atendimento prestado aos correntistas pela agência do Banco do Brasil, no Município de Patos, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d79583488b8dca8eb92989d3cd0a883dc3644c241b692e2195161876c48fe17e
+size 139

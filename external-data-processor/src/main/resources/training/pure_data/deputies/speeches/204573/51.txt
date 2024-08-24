@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 31, apresentada ao Projeto de Lei nº 5.829, de 2019, sobre o estabelecimento do marco legal da microgeração e minigeração de energia distribuída no Brasil. Posicionamento do orador contrário à Proposta de Emenda à Constituição nº 32, de 2020, sobre a reforma administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef55e510e3a4c733b592de8902b696a28ecc7c68275d9abe6dd95847748002b3
+size 396

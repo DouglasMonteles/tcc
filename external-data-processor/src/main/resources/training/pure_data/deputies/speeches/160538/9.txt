@@ -1,1 +1,3 @@
-Anúncio pelo Governador Tarso Genro, do Estado do Rio Grande do Sul, da criação de comitê gestor do Plano Safra Anual da Agricultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:255f4f47ec996a92899dadde710062b2955c58428026c8dc9848d54274fa3170
+size 137

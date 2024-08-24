@@ -1,1 +1,3 @@
-Protesto contra a não intervenção, pelo Ministério Público do Estado de Pernambuco, na realização da chamada Marcha da Maconha em Recife.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26a2e46f7b8a587712c3bf274cf48a78393de6663c787929700a3bb0e66a20ea
+size 144

@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 68, apresentada ao Projeto de Lei Complementar nº 112, de 2021, acerca das normas eleitorais e das normas processuais eleitorais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e13051102b5ad284344bc92956b267ec2c43596ff24164e96677f2ed85813150
+size 252

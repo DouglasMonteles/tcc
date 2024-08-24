@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 55 do projeto de lei de conversão da Medida Provisória nº 897, de 2019, acerca da instituição do Fundo de Aval Fraterno; do patrimônio de afetação de propriedades rurais; da Célula Imobiliária Rural; da escrituração de títulos de crédito e da concessão de subvenção econômica para empresas cerealistas, com vista à sua supressão. Votos de pronto restabelecimento da saúde ao Ministro da Ciência, Tecnologia, Inovações e Comunicações, Marcos Pontes. Convite aos Parlamentares para o ato de lançamento da Frente Parlamentar em Defesa do Programa Espacial Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e47d1ea2ad840297362d41155dcf129bf1f8d8c00428e7fce4fb119511ad328
+size 691

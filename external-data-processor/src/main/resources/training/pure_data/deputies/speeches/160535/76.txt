@@ -1,1 +1,3 @@
-Consulta à Presidência sobre a adoção da votação nominal para o Requerimento de Moção 6.508 de 2010 (Manifesta posição contrária ao bloqueio de Cuba pelos Estados Unidos da América e apoio e solidariedade a prisioneiros políticos), apresentado pelos Deputados Vanessa Grazziotin, Ivan Valente e outros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:128c2714c3c94ad352216337de10561a71bfc1ae697aac81ee7528e51431d863
+size 315

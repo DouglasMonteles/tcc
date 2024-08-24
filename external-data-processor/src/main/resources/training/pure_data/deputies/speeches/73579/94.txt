@@ -1,1 +1,3 @@
-Avaliação do início da gestão do Governo do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29c4a3bfd2491270a23b3f79e8c1940e8cbb87e1e929574e4dcbe922832c3da5
+size 65

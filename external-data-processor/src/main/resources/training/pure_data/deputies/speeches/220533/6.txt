@@ -1,1 +1,3 @@
-Imediata revogação do novo ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4504c27a5d79fd12b770593a5d10868ca712ea9261bc7de9ee5f296b62cee2ca
+size 43

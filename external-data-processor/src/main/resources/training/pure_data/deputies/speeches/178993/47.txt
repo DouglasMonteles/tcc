@@ -1,1 +1,3 @@
-Críticas à desatualização da tabela do Sistema Único de Saúde - SUS, em prejuízo da saúde pública de Municípios e do Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcff7d9c0698788b1458cd1f56167671eb17ece65a38d409469939a0c38df262
+size 147

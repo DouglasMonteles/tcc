@@ -1,1 +1,3 @@
-Aplausos à Presidenta Dilma Rousseff pela sanção do projeto de lei de conversão a respeito de alteração da chamada Lei Pelé e criação da Bolsa-Atleta de Base e da Bolsa-Atleta Pódio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b6948edff98fdc411f95087e3e32dc27b52ffc73e6a2dc50cc215c42e29e6a5
+size 192

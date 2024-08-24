@@ -1,1 +1,3 @@
-A Deputada destacou a importância dos territórios indígenas na luta contra a crise climática e fez um apelo aos parlamentares para que votem a favor dos povos indígenas na votação sobre os vetos presidenciais relacionados à demarcação de terras indígenas, enfatizando que essa questão é essencial para o futuro do planeta. Ela também mencionou a coragem dos povos indígenas na defesa de seus direitos e a carta recebida de parlamentares estrangeiros em apoio aos povos indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe74c90396d9b813d948a9f16b3520215f42fea9b35cd1fe43759d2820803de9
+size 495

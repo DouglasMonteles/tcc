@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque supressivo da expressão de execução, de conclusão e de entrega, constante no § único, art. 4º-H, da Lei nº 13.979, de 2020, e no art. 1º do Substitutivo apresentado ao Projeto de Lei nº 2.500, de 2020, sobre a alteração da Lei nº 13.979, de 2020, com vista ao ajuste de contratos administrativos atingidos pelas medidas de enfrentamento da emergência de saúde pública decorrente do coronavírus. Elogio ao Presidente Jair Bolsonaro pelo veto aposto ao art. 16 do Projeto de Lei nº 4.162, de 2019, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94d0c958b0e9df02c7ecaf2b429197dea781fa78460211b07b155faab4d5c7d8
+size 638

@@ -1,1 +1,3 @@
-Tristeza e indignação da oradora devido a recente caso de feminicídio ocorrido no Município de Cuiabá, Estado de Mato Grosso, tendo como vítima a advogada de 48 anos, Cristiane Castrillon, brutalmente assassinada após violência sexual, asfixia e enforcamento. Dados alarmantes do Observatório Nacional de Segurança Pública sobre a violência verbal ou física contra mulheres no Brasil. Convocação da sociedade para a luta contra o machismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d83350d196b0356cb382909ee35c02caaa76d839268111f7d21dadf9ef81d76
+size 454

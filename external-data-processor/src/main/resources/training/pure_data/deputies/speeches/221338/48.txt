@@ -1,1 +1,3 @@
-A Deputada destacou a importância da educação para jovens, adultos e idosos, reiterando que é um direito fundamental. Celebrou o aumento histórico de 25% no financiamento da educação para esse grupo, graças à valorização promovida pelo FNDE. Parabenizou o Ministro Camilo Santana, o Presidente Lula e a Secretária Zara Figueiredo pelo compromisso com a causa. Além disso, enfatizou o empenho em abrir mais turmas de Educação de Jovens e Adultos (EJA) em todo o país e ressaltou a luta pela aprovação do Projeto de Lei nº 2.012 de 2023, que institui a Bolsa Auxílio Permanência para estudantes da modalidade de EJA da rede pública de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e321aa187b1fcde87cc237203dd91c7ba5de69f3f2b132aca7aae8d7c911197a
+size 662

@@ -1,1 +1,3 @@
-Transcurso do 50º aniversário de fundação da Universidade Estadual de Campinas - UNICAMP. Participação da Faculdade de Ciências Aplicadas do campus da UNICAMP do Município de Limeira, Estado de São Paulo, nas festividades. Homenagem ao casal Nelson Ometto e Nelise Maria Marques Ferreira Ometto em cerimônia de celebração dos 50 anos da instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d7265ce8a38f32cc5869d43debdada7f0507167379ed79da98c40dcede1396b
+size 363

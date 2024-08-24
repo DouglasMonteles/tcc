@@ -1,1 +1,3 @@
-Realização, pelo Senado Federal, de sessão solene ao ensejo do transcurso do Dia da Amazônia. Necessidade de implementação de políticas eficazes para o desenvolvimento sustentável da região amazônica. Baixo índice de desenvolvimento humano na região. Realização da Conferência da ONU sobre Mudanças Climáticas, em Copenhague, Dinamarca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:113dcdbba07d82f77f899181895140c867fb8a73baac5d6dbc5944c3bb6b296d
+size 353

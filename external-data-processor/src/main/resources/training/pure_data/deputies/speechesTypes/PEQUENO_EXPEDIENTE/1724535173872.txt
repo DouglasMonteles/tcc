@@ -1,1 +1,3 @@
-Acerto da nomeação do Sr. Paulo Sérgio Passos para o cargo de Ministro dos Transportes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6106120c998db90915e9599174fdfa226120bd1a20750f9d3a1ac97e24e29b6e
+size 90

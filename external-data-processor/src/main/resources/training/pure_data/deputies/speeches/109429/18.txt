@@ -1,1 +1,3 @@
-Preocupação do setor da construção civil do Estado do Rio Grande do Norte em relação ao Programa Minha Casa, Minha Vida. Orientação de bancada na votação do requerimento de destaque para votação em separado dos artigos 1º, 3º, 4º, 5º e 7º do Substitutivo do Senado Federal apresentado ao Projeto de Lei nº 2.999, de 2019, sobre a antecipação do pagamento dos honorários periciais em ações do Instituto Nacional do Seguro Social - INSS, com parecer pela aprovação, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11eda43040849e4c914f52c94d57634721c0b628d64886e81610348755b257ff
+size 514

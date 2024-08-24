@@ -1,1 +1,3 @@
-Necessidade de adoção, pelo Governo do Estado de Mato Grosso, de medidas preventivas contra o coronavírus. Sugestão ao Congresso Nacional de liberação de recursos orçamentários para combate à doença.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2bebb97d58a740b77ceb88858a2cb8a944625f94e53412f762ff5f0c2aa0633
+size 209

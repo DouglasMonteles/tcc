@@ -1,1 +1,3 @@
-Apoio à extinção do plano de aposentadoria especial dos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d975e5acaed77b0a6ce867587a8804f22bde7f0e14ffbd9bc4c3188a6fd80fb
+size 73

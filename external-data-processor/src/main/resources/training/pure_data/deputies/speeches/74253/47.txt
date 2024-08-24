@@ -1,1 +1,3 @@
-Resultados de audiência pública realizada pela Comissão de Desenvolvimento Urbano da Casa destinada ao debate sobre as formas de implementação de faixas e corredores exclusivos para ônibus urbanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc25990268cb79e6ca41e2469a4b7c37a9edcc75f8de64fbeeff6b0658fd92dc
+size 203

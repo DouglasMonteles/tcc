@@ -1,1 +1,3 @@
-Informação ao Deputado Amauri Teixeira sobre a responsabilidade da Universidade Federal do Espírito Santo pelo lançamento de teste rápido e prático de detecção da AIDS. Apreensão dos pequenos produtores rurais brasileiros, ante a votação da proposta de criação do novo Código Florestal brasileiro, especialmente no tocante à criação de Áreas de Preservação Permanente - APPs e de reservas legais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b645944c9aa43b5e6b3376d5162c2f02d897b69fb87effdabf02567e7c349dd5
+size 416

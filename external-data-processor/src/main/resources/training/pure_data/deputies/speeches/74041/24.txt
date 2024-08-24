@@ -1,1 +1,3 @@
-Críticas aos movimentos contrários à execução do Projeto de Transposição de Águas do Rio São Francisco. Manifestação realizada por integrantes do Comitê de Defesa do Projeto de Integração de Bacias, no Município de Monteiro, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09fcf14c759740a855eeb71c9207a8d3b9a6df5eacc6f7e34db2ae9fd5e973ac
+size 259

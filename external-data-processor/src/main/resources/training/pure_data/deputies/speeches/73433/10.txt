@@ -1,1 +1,3 @@
-Resposta ao questionamento do Deputado Arnaldo Faria de Sá sobre a validade de decisões tomadas por Comissões Permanentes, neste início de sessão legislativa, antes da eleição dos novos Presidentes e Vice-Presidentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0431700e8f7773a1d0b9c267b966b4f45d0a90f35b27982b0def0111b89a201
+size 224

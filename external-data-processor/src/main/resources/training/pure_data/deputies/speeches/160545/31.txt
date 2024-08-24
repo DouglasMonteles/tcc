@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de discussão artigo por artigo da Medida Provisória 567 de 2012 (Altera o art. 12 da Lei 8.177 de 1991, que estabelece regras para a desindexação da economia, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:035714b614ad73a99de98d9bde826031cecd35c7b85fea51f5c955f972f15281
+size 235

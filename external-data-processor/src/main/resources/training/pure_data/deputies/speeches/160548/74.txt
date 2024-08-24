@@ -1,1 +1,3 @@
-Agradecimento à Sociedade Brasileira de Pesquisa e Assistência para Reabilitação Crânio-Facial - SOBRAPAR por homenagem prestada ao orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f69331830a033e70b02b386bd3d4835f55a9cc4fb2afba15314d0c9dd8de1bd1
+size 144

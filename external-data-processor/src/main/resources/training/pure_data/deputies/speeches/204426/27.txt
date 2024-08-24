@@ -1,1 +1,3 @@
-Regozijo com ação do Parlamento brasileiro e com decisão da Supremo Tribunal Federal, em defesa dos direitos do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab9c09b40a070f20147b69129156b5092841befcb979e5ee6cb49ebc98a3b9d3
+size 156

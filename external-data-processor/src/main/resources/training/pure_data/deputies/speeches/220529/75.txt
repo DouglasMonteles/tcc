@@ -1,1 +1,3 @@
-Presença no plenário do Vereador Igor Elson, da Câmara Municipal de Serra, e do Presidente da Federação Hípica do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e390eb06607e82dd6ec0b9684d799620a470e7c9d05ca3d0ed50888ad669bac2
+size 136

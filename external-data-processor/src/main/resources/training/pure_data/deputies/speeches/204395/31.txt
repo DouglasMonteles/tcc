@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado do art. 47 do projeto de lei de conversão da Medida Provisória nº 897, de 2019, sobre a instituição do Fundo de Aval Fraterno; do patrimônio de afetação de propriedades rurais; da Cédula Imobiliária Rural; da escrituração de títulos de crédito e da concessão de subvenção econômica para empresas cerealistas, com vista à sua supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dab285b6f7fa5a4998e207e3ccb26d2f69c0532afcbf79cc08d39163a74055b
+size 438

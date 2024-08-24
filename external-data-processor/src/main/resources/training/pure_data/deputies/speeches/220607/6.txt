@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial das Doenças Raras. Criação, pelo Ministério da Saúde, da Política Nacional de Atenção Integral às Pessoas com Doenças Raras; das Diretrizes para Atenção Integral às Pessoas com Doenças Raras no âmbito do Sistema Único de Saúde — SUS; e de incentivos financeiros de custeio. Instituição pelo orador do Centro de Doenças Genéticas Raras, na condição de Prefeito Municipal de Queimados, no Estado do Rio de Janeiro. Divulgação de lista de nomes de doenças raras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4e35e326544e86e8620dca6cc3ea53056fbdfd2ed9083c4a6a63329ec500b3e
+size 513

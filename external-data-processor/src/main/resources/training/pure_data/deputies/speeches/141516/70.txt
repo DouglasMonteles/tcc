@@ -1,1 +1,3 @@
-Ingerência do Governo Federal na gestão da empresa Vale. Inocuidade do projeto em votação para enfrentamento da criminalidade do País. Defesa de modernização das legislações criminal e penal brasileiras. Agilidade do Poder Judiciário no exame de execuções penais. Revitalização de carreiras policiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:415fa0262edd4aca6ef0f240f961230c25cb7344d841aab38da9ddce179e9380
+size 315

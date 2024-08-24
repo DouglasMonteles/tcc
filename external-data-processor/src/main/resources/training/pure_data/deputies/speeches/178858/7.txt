@@ -1,1 +1,3 @@
-Defesa do programa Bolsa Família do Governo Federal. Importância do benefício para a população do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71dea88a8a6f9db1a49211ab98397d462d2dea78a15a71f81cc0162849dad337
+size 119

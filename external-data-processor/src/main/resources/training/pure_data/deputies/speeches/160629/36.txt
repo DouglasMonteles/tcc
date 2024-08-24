@@ -1,1 +1,3 @@
-Saudações aos profissionais do setor de comunicação da Casa. Greve dos funcionários da Empresa Brasileira de Correios e Telégrafos - ECT. Apelo ao Governo Federal de abertura de negociações com os trabalhadores da ECT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3448318c85720e7387fef9c2759180955663cdb44998ebc0d5d229ef6b31a3c
+size 226

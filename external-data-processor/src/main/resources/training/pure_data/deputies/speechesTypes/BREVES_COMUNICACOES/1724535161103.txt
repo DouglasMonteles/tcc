@@ -1,1 +1,3 @@
-O Deputado criticou a retórica de alguns Parlamentares que, segundo ele, estão tentando distorcer as declarações de líderes políticos para criar polêmica. Argumentou que é importante debater de maneira construtiva e não tentar enganar o público com informações distorcidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e553195f2ab1b27f5f7e0ae600748e8e20fbb65d13e50df474dde35fe4a032c3
+size 285

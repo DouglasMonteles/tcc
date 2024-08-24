@@ -1,1 +1,3 @@
-Apelo à Presidência de instalação da CPI destinada à investigação dos preços de passagens aéreas no mercado brasileiro, e da possível formação de cartel no setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a17e95e1ea8ea1189e4083fbcbc79ffcf9456035182d9cbf95e9de3ec2c017a5
+size 174

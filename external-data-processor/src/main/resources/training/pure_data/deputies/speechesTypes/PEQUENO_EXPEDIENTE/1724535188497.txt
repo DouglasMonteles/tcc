@@ -1,1 +1,3 @@
-Apreciação pela Casa do projeto de lei sobre a criação do novo Plano Nacional de Educação - PNE. Desinteresse da Presidenta Dilma Rousseff e do Ministro da Educação, Fernando Haddad, na elaboração do PNE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2d5526be8e2ea2b9496754869a55fda628324194677117e11289602ff666c30
+size 214

@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados do Prefeito Paulo Cola e comitiva, do Município de Piúma, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ac92477129c0cb212089a3aa0a98ca66d3c2cc5d13346fe8e71d2489b70d3cc
+size 121

@@ -1,1 +1,3 @@
-O Deputado mencionou o caso do amigo Pastor Osiel Gomes, cujo ministério está sendo acusado de injúria racial, de racismo, de intolerância religiosa. O Parlamentar questionou o Poder Judiciário sobre sua postura em relação a representações polêmicas de Cristo em eventos públicos, indicando uma possível inconsistência nas decisões judiciais sobre intolerância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32d1fa3e002050056d70634b5a867be835ff4344ca9f953d72da3305e676e19b
+size 376

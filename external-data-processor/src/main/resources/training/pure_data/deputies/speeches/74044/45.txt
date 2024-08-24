@@ -1,1 +1,3 @@
-Necessidade de redução dos preços de combustíveis no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:176004002b92d39be6bf4269545b8c4e9beb87c019ae624cba2b56a843a6593a
+size 63

@@ -1,1 +1,3 @@
-Anúncio de realização, pela Comissão de Defesa dos Direitos das Pessoas com Deficiência, de audiência pública para debate da ação direta de inconstitucionalidade referente à proposta de legalização do aborto em caso de contaminação da gestante pelo zika vírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2de8438e95a876570f35ba8c8f8e1c00c1060973cfe94eda4b7cbae69d7af99c
+size 275

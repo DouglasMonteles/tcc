@@ -1,1 +1,3 @@
-Realização de encontro de Vereadores e Parlamentares do PSB com o Governador Eduardo Campos, em Recife, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fd3b07368fa685937cf5ec1bf9d1f56ab40213ddaa871ebaf1f4690beff094e
+size 127

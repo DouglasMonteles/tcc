@@ -1,1 +1,3 @@
-Agradecimentos ao povo do Estado de Tocantins e ao Governador Marcelo Miranda. Plataforma de atuação parlamentar do orador. Congratulações à Ministra da Agricultura, Pecuária e Abastecimento, Kátia Abreu, pela revogação da Portaria nº 294, de 2014, relativa à desapropriação de terras no Estado de Tocantins e de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d506abe26e9865c3c799d84eb28dcdf5de367110c481d2de728b11b6b64f9d4
+size 338

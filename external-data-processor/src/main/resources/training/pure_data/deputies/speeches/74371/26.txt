@@ -1,1 +1,3 @@
-Matéria publicada pelo jornal O Estado de S. Paulo  a respeito da destinação, pelo Governo Jair Bolsonaro, de maiores recursos orçamentários para os militares em relação ao setor educacional. Inadmissibilidade de redução das verbas orçamentárias da educação pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88a34211bc4f15b76f3db2252bf640f63461a6407c4add61fe089302147068cf
+size 280

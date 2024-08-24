@@ -1,1 +1,3 @@
-Regozijo com o recebimento do título de Cidadão Honorário do Município de Japeri, Estado do Rio de Janeiro. Transcurso do 25º aniversário de emancipação político-administrativa da municipalidade. Preocupação com a escassez de policiamento no trajeto entre aquele Município e a Zona Oeste da cidade do Rio de Janeiro. Recebimento de denúncia de domínio dos traficantes de drogas no Bairro carioca da Ilha do Governador. Pedido ao Presidente da República interino, Michel Temer, e ao Governador em exercício, Francisco Dornelles, de providências para a melhoria da segurança pública fluminense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cae6bd0c7d032ff0c310e76cd8255679572f3784926a07ce5ede5de16287115
+size 611

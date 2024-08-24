@@ -1,1 +1,3 @@
-Agradecimento à população do Estado do Paraná pela eleição do orador. Apoio ao substitutivo oferecido pelo Deputado Aldo Rebelo à proposta de reformulação do Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ea26ef1a58e1c116c72ed020bdf288f681cb60dfc6a4523de3534240c4a9bbe
+size 196

@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a extinção de sacolas plásticas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68bdcc53eef082dba53c3bc7f6130eaa381b48822eb2de18fe96c22f4f68659d
+size 83

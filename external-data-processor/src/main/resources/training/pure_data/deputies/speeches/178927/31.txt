@@ -1,1 +1,3 @@
-Tramitação na Casa de projeto de lei de autoria do Poder Executivo sobre punição a servidores públicos por atos de corrupção e desvio de dinheiro. Expectativa de punição de responsáveis pelo desvio de recursos da Prefeitura do Município de Ponta Grossa, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e17a6443abf513308e527ac318d115aba7d974d052b7e639c4d5758d9318ad5
+size 283

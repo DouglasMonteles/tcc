@@ -1,1 +1,3 @@
-Queda de investimentos no Brasil, inclusive estrangeiros, em razão da incompetência da gestão do Ministro da Fazenda, Fernando Haddad. Crítica à recriação do Programa de Aceleração do Crescimento - PAC pelo Governo Luiz Inácio Lula da Silva Extrapolação dos gastos pelo PAC com a construção da Refinaria Abreu e Lima, no Estado de Pernambuco, e baixa produção de barris de petróleo/dia comparada a refinaria da Coreia do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92a76e37fed95143f20105b0b3f72bbe3ccfaeed44b39493d18dc1520faf1cc8
+size 442

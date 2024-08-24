@@ -1,1 +1,3 @@
-Pesar pela ausência, no Programa de Investimentos em Logística, de obras de infraestrutura de transportes no Estado da Bahia. Inconformismo com a inversão, pela empresa pública Engenharia, Construções e Ferrovias S. A. - VALEC, da destinação de recursos das obras da Ferrovia de Integração Oeste-Leste para pagamento de trilhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bb5679a9e514eecba464324c07da22af0f09709cc97feee74656bf726c7f9e2
+size 338

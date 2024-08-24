@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda 78, destacada, ao Substitutivo ao Projeto de Lei 5.941 de 2009 (Autoriza a União a ceder onerosamente à Petróleo Brasileiro S.A - PETROBRAS o exercício das atividades de pesquisa e lavra de petróleo, de gás natural e de outros hidrocarbonetos fluidos de que trata o inciso I do art. 177 da Constituição, e dá outras providências), que trata do pagamento de participação especial aos Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2d3b20786a909a2204c5c7d7f39c8069d7852337c9e0e298c9eb851a284ada6
+size 455

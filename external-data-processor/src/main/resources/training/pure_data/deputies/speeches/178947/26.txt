@@ -1,1 +1,3 @@
-Repúdio à tentativa de reinstituição da Contribuição Provisória sobre Movimentação Financeira - CPMF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7c98a5fd4ec090030c33bec146fa63cd1393ed11a2fab40a1b7e52e6d9d7208
+size 110

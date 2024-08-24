@@ -1,1 +1,3 @@
-Alcance social dos Centros Comunitários da Paz - Compaz, instalados em Recife, Estado de Pernambuco. Pedido ao Presidente da República e ao Ministro da Justiça e Segurança Pública de expansão dos referidos centros comunitários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d598ecf0107b48dc1b4510d57550dc804cd23f9c807bb39ecaad625699db474c
+size 234

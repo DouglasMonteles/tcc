@@ -1,1 +1,3 @@
-Congratulações à Igreja Católica pelo lançamento da Campanha da Fraternidade 2008, sobre o tema Fraternidade e Defesa da Vida. Alerta à Casa sobre a importância da aprovação de proposições em favor da preservação da vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de8cb7f0dbae189ea2ce5273ffd04c76d38e3d28f240a11343e1ad419b81ce29
+size 234

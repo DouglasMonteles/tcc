@@ -1,1 +1,3 @@
-Solicitação à Polícia Civil do Estado da Bahia de celeridade nas investigações da autoria da tentativa de assassinato contra o Secretário de Comunicação do Partido dos Trabalhadores do Município de Ribeira do Pombal, Francisco Jeandro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:240c255d05116224e934eeaa3e327955fe9d5805363ddf894a6314dca57720fc
+size 245

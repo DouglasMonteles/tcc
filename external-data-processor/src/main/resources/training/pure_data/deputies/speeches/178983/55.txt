@@ -1,1 +1,3 @@
-Transcurso dos aniversários de fundação dos Municípios de Itatiba, Lorena, Santana de Parnaíba e Águas de Lindoia, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57d40fc501bc7d54833537947ddeb959bed48ac277877ef54b81b291af10630a
+size 142

@@ -1,1 +1,3 @@
-Participação do orador em comitiva da Comissão de Saúde destinada à fiscalização de hospitais federais no Estado do Rio de Janeiro. Pedido ao Presidente da República de reexame do discurso de ódio em prol do País e do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcc698c38fa18a0018e8479bef98e0c805e9d68d373c0675fa8ed59c0a1ebdf4
+size 244

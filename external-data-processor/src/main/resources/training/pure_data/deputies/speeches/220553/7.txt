@@ -1,1 +1,3 @@
-A Deputada expressou solidariedade ao povo gaúcho afetado pelas enchentes, destacando o apoio de voluntários e entidades públicas, incluindo o Governo Lula, na prestação de auxílio. Ressaltou a importância de um esforço conjunto para reconstruir o Rio Grande do Sul e mencionou a necessidade de rever as flexibilizações no Código Florestal que contribuíram para os problemas climáticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f21f6ff41c74980765615ac481e72d53f47ad9680aff84be35216d82987e33bc
+size 399

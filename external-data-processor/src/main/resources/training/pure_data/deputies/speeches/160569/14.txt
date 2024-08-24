@@ -1,1 +1,3 @@
-Transcurso do 67º aniversário de emancipação político-administrativa do Município de Macarani; do 49º de Planalto e Anagé; do 22º de Matina e do 201º de Caetité, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35fd63ae69b93015673d2688c3d4f12a6762bcab367c4658a153c24cde13f1c9
+size 189

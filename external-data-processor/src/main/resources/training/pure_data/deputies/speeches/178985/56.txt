@@ -1,1 +1,3 @@
-Publicação da Carta-Circular 2020 pelo Presidente-Geral da Sociedade de São Vicente de Paulo - SSVP, confrade Renato Lima de Oliveira, dirigida à comunidade vicentina mundial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65ac6080defb3fd0558d765241f57c7502e100002c3d7c11b387fa7766d3cbf6
+size 179

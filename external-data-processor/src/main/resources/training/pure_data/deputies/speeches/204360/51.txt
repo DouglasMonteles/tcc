@@ -1,1 +1,3 @@
-Anúncio da inauguração do Centro de Reabilitação do Hospital de Amor, no interior do Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b16fbdae176e0e8ce01c96429b31e35b7b86776307aa50f0f0f333b1a022cb1
+size 110

@@ -1,1 +1,3 @@
-Congratulações à Presidência e aos Relatores José Eduardo Cardozo e Índio da Costa pelo empenho na aprovação do Projeto Ficha Limpa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dad2b6cd9179cda72c1dac2073c025104aba7bab87ab002f2ed7977e06924b35
+size 140

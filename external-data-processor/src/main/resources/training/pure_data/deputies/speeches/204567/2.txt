@@ -1,1 +1,3 @@
-Apelo ao Governador do Estado da Bahia, Rui Costa, de exame da necessidade de revitalização da Ponte do Funil, de ligação da Ilha de Itaparica ao continente por meio da BA-001.
+version https://git-lfs.github.com/spec/v1
+oid sha256:183d65a641c55fc1435949a11745a771eb346cdcd3ff894c8102bf511e538093
+size 180

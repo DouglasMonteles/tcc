@@ -1,1 +1,3 @@
-Elogio à atuação do Presidente Eduardo Cunha. Regozijo com a aprovação pela Casa da proposta de adoção do orçamento impositivo. Prejuízos causados pela PETROBRAS a Municípios brasileiros ante o cancelamento de projetos da estatal no País. Defesa da implantação da nova CPI da PETROBRAS para a apuração das denúncias de corrupção na empresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f50088d5501b75d7ffb0cc0e7eab029c831a65fb65818b77c194ebc857212ef
+size 358

@@ -1,1 +1,3 @@
-Regozijo com a liberação de recursos às Santas Casas de Misericórdia no Estado de Minas Gerais, por meio do acordo pecuniário celebrado entre o Governo Romeu Zema, a Assembleia Legislativa, o Ministério Público e a empresa Vale, para compensação de danos materiais, ambientais e humanos decorrentes do rompimento de barragem de rejeitos no Município de Brumadinho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27cb5a112f327f71f675b89f3273dd56dda14442457c502819a8197c487ab9ab
+size 374

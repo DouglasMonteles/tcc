@@ -1,1 +1,3 @@
-Protesto contra a exclusão de Estados brasileiros de programa de amparo financeiro, gerado pela Secretaria do Tesouro Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d60ea1faad9953e2a9c6f6a972b3298a3bf99db1710bdd03a0914f3f67eaa946
+size 128

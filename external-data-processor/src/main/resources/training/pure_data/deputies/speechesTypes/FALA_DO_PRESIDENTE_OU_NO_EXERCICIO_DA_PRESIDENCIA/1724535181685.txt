@@ -1,1 +1,3 @@
-Importância de projeto de lei nº 2.824, de 2008, proibitivo do exercício da profissão de zootecnista por engenheiros agrônomos e médicos veterinários, apresentado pelo Deputado Zequinha Marinho. Elogio ao Presidente Luiz Inácio Lula da Silva pela nomeação do Deputado Edson Santos para o cargo de Ministro da Secretaria Especial de Políticas de Promoção da Igualdade Racial. Assunção do mandato parlamentar pelo Deputado Antônio Carlos Biscaia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f51f5cb2620580251f739db1884f8381746bcee4c011b2670b07af2fe0b0bf41
+size 460

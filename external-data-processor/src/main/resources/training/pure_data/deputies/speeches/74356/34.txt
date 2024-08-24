@@ -1,1 +1,3 @@
-Protesto contra o impedimento, por delegado do Ministério do Trabalho e Emprego, do pagamento do seguro-defeso a pescadores no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86410b7ae7fbd9dcd57767ca5a345634e595d7edcc18dd06156e606b101b67bf
+size 147

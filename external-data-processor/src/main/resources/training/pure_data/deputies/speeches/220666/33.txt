@@ -1,1 +1,3 @@
-O Deputado criticou o STF por manter preso o policial rodoviário federal Silvinei Vasques, ignorando seu estado precário de saúde. Lamentou ainda a morte recente do patriota Clezão em condições semelhantes. Por fim, censurou a pena de morte imposta pelo STF e apelou pela liberdade do policial rodoviário federal doente, preso indevidamente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcac1f98045f8ceec83546827413939ac17b14717b7883a0a677469650cce136
+size 348

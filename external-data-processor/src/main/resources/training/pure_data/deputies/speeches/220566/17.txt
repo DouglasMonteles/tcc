@@ -1,1 +1,3 @@
-A Deputada agradeceu à Câmara dos Deputados, à Procuradoria-Geral da República (PGR), à Advocacia-Geral da União (AGU) e ao Supremo Tribunal Federal (STF) por reconhecerem o direito das candidatas aprovadas no concurso do Corpo de Bombeiros Militar do Estado de Goiás a superarem a política de cotas que limitava a participação das mulheres. Ela destacou o trabalho conjunto para combater a discriminação contra as mulheres que desejam ingressar na segurança pública em todo o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e40bfc0c470c7a60ce81e8f65e2dff3dc542df5853fbc73b78ec2cd8b5354aa
+size 498

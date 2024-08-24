@@ -1,1 +1,3 @@
-Empenho do Governo do Estado da Bahia e do Ministro da Justiça, José Eduardo Cardozo, na solução de conflitos agrários entre indígenas e fazendeiros nos Municípios de Itaju do Colônia, Pau Brasil e Camacan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:113b56d4cc835e95abea48fa956de236969206e4bc1cd542b340446665102589
+size 214

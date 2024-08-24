@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de busca de solução para o endividamento de estudantes atendidos pelo Programa de Financiamento Estudantil — FIES. Expectativa de formação de grupo de trabalho para exame do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2cf6b8fb0c88bb13f5e1eab970bb882995567a065c39b3810469febc2596885
+size 210

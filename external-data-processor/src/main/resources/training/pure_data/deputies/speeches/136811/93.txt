@@ -1,1 +1,3 @@
-Reeleição do Presidente da Federação da Agricultura do Rio Grande do Sul - FARSUL, Carlos Rivaci Sperotto. Realização da 97ª EXPOFEIRA de Bagé - Feira da Indústria, Comércio  e Serviços.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f81f8760a5aee00ea0a052c2756eb0f6e625ad6d91dc0c8c6c0f3e5c782c039
+size 197

@@ -1,1 +1,3 @@
-O Deputado expressou sua solidariedade às famílias das nove vítimas do trágico incêndio ocorrido em assentamento do MST, em Parauapebas, Pará, destacando a rápida resposta do Governo Federal, Estadual e Municipal no auxílio às famílias afetadas. Ressaltou a importância da reforma agrária e da regularização fundiária, mencionando os desafios enfrentados nas regiões Sul e Sudeste do Pará devido a conflitos agrários históricos. Ademais, fez ponderações sobre o Decreto 13.688, de 2023, que trata de normas de regularização fundiária e de destinação de terras públicas, receando seu impacto negativo sobre o desenvolvimento econômico de áreas antropizadas com economias consolidadas. Por fim, reforçou a necessidade de encontrar uma solução definitiva para os conflitos fundiários no Brasil a fim de evitar tragédias semelhantes à de Parauapebas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:335a5fe1648a258797879e3d4395f8242d6b1348620f4437167479b43449d8fa
+size 881

@@ -1,1 +1,3 @@
-Prisão do tesoureiro do PT, João Vaccari Neto. Expectativa quanto à publicação do balanço da PETROBRAS. Apoio popular ao impeachment da Presidenta Dilma Rousseff diante de escândalos de corrupção e da má gestão da economia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16786c036be3a33ded88b4a805b63e92023a2a99cfda5abd051cde1eba38b89c
+size 234

@@ -1,1 +1,3 @@
-O Deputado criticou a deterioração da malha aérea brasileira e a decisão de algumas companhias aéreas de cobrar passagens para crianças de 2 a 12 anos. Na ocasião, destacou apresentação do Projeto de Lei nº 4.739/2023, de sua autoria, impedindo que pessoas com até 12 anos de idade incompletos paguem preço integral da passagem aérea. O Parlamentar pediu ainda a intervenção da ANAC e da Comissão de Viação e Transportes para fiscalizar e garantir a qualidade dos serviços aéreos, defendendo uma regulação mais eficaz no setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8661ab4414f378bf73ead2c6429c08c5939d5064b1182eee260342513ee85b3e
+size 549

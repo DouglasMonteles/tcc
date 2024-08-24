@@ -1,1 +1,3 @@
-Transcurso do 133º aniversário de emancipação político-administrativa do Município de Caxias do Sul, Estado do Rio Grande do Sul. Presença no plenário do Presidente do Legislativo caxiense, Vereador Zé Dambrós.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae9ce30f0e39f9c179dd78084c9442c4b040753edcc7e48280837c9a71cb61b7
+size 220

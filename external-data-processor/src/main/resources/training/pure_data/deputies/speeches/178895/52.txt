@@ -1,1 +1,3 @@
-Necessidade de extensão do direito ao Fundo de Garantia do Tempo de Serviço - FGTS e do seguro-desemprego aos Secretários Parlamentares da Câmara dos Deputados. Aprovação da correção escalonada do saldo das contas do FGTS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62e2c9399889149c18c8a6ef25682c28c699f32699a123f633bd43a32fb8b1f9
+size 230

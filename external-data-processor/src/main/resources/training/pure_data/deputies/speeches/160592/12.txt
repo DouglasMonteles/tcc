@@ -1,1 +1,3 @@
-Indicação da Senadora Gleisi Hoffmann como nova Ministra-Chefe da Casa Civil da Presidência da República. Lançamento do Plano Brasil Sem Miséria pela Presidenta Dilma Rousseff. Ampliação da política governamental de aquisição de alimentos. Expectativa dos pequenos agricultores paranaenses com os investimentos governamentais no Estado, através do Ministério do Desenvolvimento Agrário, para regularização fundiária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bd5fdd20b3929c516835e360ace531eeb820d1bdf4f895da2e29d169fa0336e
+size 433

@@ -1,1 +1,3 @@
-Cumprimentos à Polícia Federal pela realização de operação contra desvios de recursos públicos no âmbito da Secretaria da Receita Federal do Brasil. Defesa da regulamentação da legislação sobre o pagamento de adicional de fronteira a policiais federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b56f6447bdcbefac4f1b77f829189c843056f7e592603199b44156d7998d83f8
+size 265

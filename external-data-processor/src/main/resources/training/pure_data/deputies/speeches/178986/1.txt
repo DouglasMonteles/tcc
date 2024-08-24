@@ -1,1 +1,3 @@
-Artigo Os índios e o Golpe na Constituição, de autoria da jornalista Eliana Brum, publicado no jornal El País, sobre a inconstitucionalidade da Proposta de Emenda à Constituição nº 215, de 2000, sobre a transferência para o Congresso Nacional da competência para a demarcação e homologação de reservas indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75f3d08d8c6da3f1a5e651744d58413c63661e15ed1de2650341c4afe5a908c8
+size 327

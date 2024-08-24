@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de apoiamento ao Município de Costa Marques, no Estado de Rondônia, diante da imigração de grande número de famílias atingidas por incêndio na cidade de Buena Vista, na Bolívia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6539fb1002f564bcf675c80f89c26a41c49cf43b9aa4fc46335bf9803559abce
+size 210

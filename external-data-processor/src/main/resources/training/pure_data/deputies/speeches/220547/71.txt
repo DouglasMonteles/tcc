@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação da Emenda de Plenário nº 3, apresentada ao Projeto de Lei nº 2.757, de 2022, que altera a Lei nº 11.952, de 25 de junho de 2009, para determinar a extinção das cláusulas resolutivas constantes de títulos de domínio expedidos anteriormente a 10 de outubro de 1997.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70d47544d968eaec476bed6ed3e8361dd14514096550eda9da2a325ed668f1e9
+size 315

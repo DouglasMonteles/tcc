@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para manutenção do art. 13 do Substitutivo do Senado Federal apresentado ao Projeto de Lei nº 4.401, de 2021, sobre a inclusão de prestadoras de serviços de ativos virtuais no rol de instituições sujeitas às suas disposições.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b286e1892715365a4bcc9d4ee6ccd1ef17c69992fbc62844ffb404b456ac420e
+size 291

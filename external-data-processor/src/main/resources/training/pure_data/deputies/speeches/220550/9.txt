@@ -1,1 +1,3 @@
-Ameaça do Presidente Luiz Inácio Lula da Silva de não liberação de recursos de emendas orçamentárias, apresentadas pelos Deputados subscritores da CMPI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República. Imediata instalação do órgão investigativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b79213079d694ef73efd9fc1d20d4792398ab61efb5328f562a15de992e6eb18
+size 314

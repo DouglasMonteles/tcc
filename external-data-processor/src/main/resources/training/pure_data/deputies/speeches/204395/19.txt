@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 3.723-A, de 2019, acerca da alteração da Lei nº 10.826, de 2003, sobre o registro, a posse e a comercialização de armas de fogo e munição no País; o Sistema Nacional de Armas - SINARM e a definição de crimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc0cb7e537b7b6d90420df6f10e66e5f4f0392cd3026af9d61147db0c010b595
+size 262

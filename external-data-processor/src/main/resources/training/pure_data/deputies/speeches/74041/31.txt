@@ -1,1 +1,3 @@
-Improbabilidade de obtenção de quorum para a realização da Ordem do Dia. Compromisso do País de combate contínuo ao racismo e à tortura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df3536691120430ec321d6ba2d67d3ebcaeeac361ba63c302076c58eeacf398f
+size 143

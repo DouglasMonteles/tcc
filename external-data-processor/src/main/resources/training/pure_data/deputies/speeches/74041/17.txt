@@ -1,1 +1,3 @@
-Lançamento do Programa Territórios da Cidadania no Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:496b89b1df9de1f1bb58ecf6322e3ea37cbf963fa96908f537cdea8ca0cb66aa
+size 72

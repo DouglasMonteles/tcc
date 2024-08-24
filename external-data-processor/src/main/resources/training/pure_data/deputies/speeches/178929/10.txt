@@ -1,1 +1,3 @@
-Reportagem veiculada no programa Fantástico, da TV Globo, sobre resultado de pesquisa com vistas à investigação das ideias e aspirações dos jovens brasileiros sobre o conceito de família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daf845d006a8406e76c1d141ed1f08104d21f73aaf2c7f7f4c0202ab4b415676
+size 194

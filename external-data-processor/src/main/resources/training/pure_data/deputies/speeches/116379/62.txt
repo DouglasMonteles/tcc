@@ -1,1 +1,3 @@
-Elogio à Presidência pelo posicionamento contrário ao aumento dos recursos do Fundo Partidário. Declaração de voto pela rejeição da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97ad809350397ca79399c0f5fd466cb3b861f029277682856d5a67417b2a6690
+size 149

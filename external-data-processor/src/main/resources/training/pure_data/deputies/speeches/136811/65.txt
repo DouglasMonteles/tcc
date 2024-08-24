@@ -1,1 +1,3 @@
-Acompanhamento do orador, na qualidade de Presidente da Comissão de Turismo e Desporto da Câmara dos Deputados, de visita de integrantes do Comitê Olímpico Internacional ao Rio de Janeiro, cidade candidata a sede dos Jogos Olímpicos e dos Jogos Paraolímpicos de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76505341307cffcbe62a28590910f077374c3904360d9b31b860dd58e9b16604
+size 273

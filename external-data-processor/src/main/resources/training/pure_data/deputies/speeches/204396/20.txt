@@ -1,1 +1,3 @@
-Defesa de conclusão das votações da proposta de reforma previdenciária na semana vindoura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa3283c24634db08a80aa0ce5fc167f1ea639e01a3969c8cd6bd5c388b492b0d
+size 94

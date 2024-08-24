@@ -1,1 +1,3 @@
-Prejuízos causados aos trabalhadores brasileiros pela aprovação do Projeto de Lei nº 6.787, de 2016, sobre a reforma trabalhista; da Proposta de Emenda à Constituição nº 6, de 2019, acerca da reformulação da Previdência Social e da Medida Provisória nº 881, de 2019, sobre a Declaração de Direitos de Liberdade Econômica, o estabelecimento de garantias de livre comércio e a análise de impacto regulatório. Repúdio à agenda neoliberal adotada pelo Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ea6c940cca4aee02697be3da224ece9ed287c242ce6552818557e64b81399c6
+size 492

@@ -1,1 +1,3 @@
-O Deputado expressou seu repúdio à agressão física cometida pelo Vice-Presidente do PT, Deputado Washington Quaquá. Destacou a gravidade da situação e condenou a postura do Deputado petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdbb4d998a172c26a990b5100d078ddadeaa5a074ea2ace92165b71b58e18017
+size 197

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 1.099, de 2022, sobre a instituição do Programa Nacional de Prestação de Serviço Civil Voluntário e do Prêmio Portas Abertas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeb410c9b43ae3a256093afb0532be96afc6488130eb08e320bdc5f8fb275841
+size 232

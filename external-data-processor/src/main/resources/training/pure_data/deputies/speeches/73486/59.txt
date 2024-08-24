@@ -1,1 +1,3 @@
-Necrológio do presidente do Sport Club Internacional, Arthur Dallegrave. Reafirmação do posicionamento do PDT em favor do piso salarial nacional dos profissionais da educação básica. Equívoco da decisão da Governadora do Estado do  Rio Grande do Sul, Yeda Crusius, de ajuizamento de Ação Direta de Inconstitucionalidade da lei relativa à instituição do piso. Solidariedade aos professores grevistas da rede estadual de ensino público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b618dc8b802cb437d527a9009313fcba6fd9042a2ea3eecfc9e3c0571adc57c
+size 448

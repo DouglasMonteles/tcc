@@ -1,1 +1,3 @@
-Dificuldades da população do Estado do Amazonas para acesso aos serviços de Internet, principalmente nas regiões interioranas. Reiteração do pedido à Direção da Agência Nacional de Telecomunicações - ANATEL, de visita ao Estado para verificação da qualidade dos serviços de Internet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c756f285323021d0380c091616e401a5587f57e4fdaaca40d4fde0b8e36a71c
+size 298

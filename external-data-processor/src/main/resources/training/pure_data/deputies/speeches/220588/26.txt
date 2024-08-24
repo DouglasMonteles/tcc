@@ -1,1 +1,3 @@
-Não participação do Presidente Luiz Inácio Lula da Silva em encontro com o Presidente da Ucrânia, Volodymyr Zelensky, durante reunião de Cúpula do G-7, em face da ligação do governo brasileiro com o ditador russo Vladimir Vladimirovitch Putin.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43d3a7698906a48d939b4845e81fdb371621a47ce80616db6b56a94ebeadc04d
+size 252

@@ -1,1 +1,3 @@
-Redução dos preços de combustíveis e do gás de cozinha. Descontentamento com a privatização da ELETROBRAS e da Refinaria Landulpho Alves. Revisão da desestatização de empresas estratégicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30fd317ed736f7e2ffd18391ad811743cbc6f7e928d6b8167712658c1e50b1e5
+size 200

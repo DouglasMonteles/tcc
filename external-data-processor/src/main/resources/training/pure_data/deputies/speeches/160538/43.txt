@@ -1,1 +1,3 @@
-Desempenho da Empresa de Assistência Técnica e Extensão Rural no Estado do Rio Grande do Sul - EMATER/RS. Ações do Governo Tarso Genro em defesa da agricultura familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2a2dee1e2527ed64df780b067cdf0ae424a94cc0d78a728f88cc3f0ccb7e131
+size 174

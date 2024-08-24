@@ -1,1 +1,3 @@
-Necessidade da reestruturação do INCRA para o consolidação da reforma agrária no Brasil. Posicionamento contrário à redução da maioridade penal no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b08905547931112ca2278b70619d468f233ea41224c90e62320ad1141c7e82be
+size 162

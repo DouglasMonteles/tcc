@@ -1,1 +1,3 @@
-Posicionamento contrário do PT à Emenda 15, destacada, ao Projeto de Lei de Conversão da Medida Provisória 544 de 2011 (Estabelece normas especiais para as compras, as contratações de produtos, de sistemas de defesa, e de desenvolvimento de produtos e de sistemas de defesa, e dispõe sobre regras de incentivo à área estratégica de defesa e dá outras providências), que tem como objetivo corrigir os prejuízos a Estados e Municípios decorrentes do uso pelo Governo federal de uma política de incentivos verticais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:863efb8edaf86ac5cc4265b367c1954c6c429d1829fbb7cd9558e5d22eb8ed38
+size 528

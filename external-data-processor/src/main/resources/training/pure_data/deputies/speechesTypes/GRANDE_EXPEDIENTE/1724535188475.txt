@@ -1,1 +1,3 @@
-Dificuldades para acesso a alimentos sem agrotóxicos no País. Liderança da agricultura brasileira na aplicação de defensivos agrícolas. Necessidade de avanço no Programa de Análise de Resíduos de Agrotóxicos da Agência Nacional de Vigilância Sanitária - ANVISA, responsável pelo rastreamento de produtos contaminados. Riscos à saúde humana decorrentes do consumo de alimentos com agrotóxicos. Apoio ao financiamento público de campanhas eleitorais. Criação da Política Nacional de Agroecologia e Produção Orgânica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca0a8acc9290c2734a5ec52d9bd2e43fae61db6e86d5661037e5d9abfdc6c229
+size 538

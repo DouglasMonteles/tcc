@@ -1,1 +1,3 @@
-Ponderações sobre as manifestações de parlamentares relativas a proposições sobre acesso à informação, a propósito de discussão sobre a questão da revogação da Lei de Imprensa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e347e3e0fdf11c2be64d3949af7d747f7d428622ff25927ff393da48548472c
+size 190

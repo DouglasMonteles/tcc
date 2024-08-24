@@ -1,1 +1,3 @@
-Apelo à Liderança do Governo por votação das matérias constantes na pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88bffed676b2ecc86e4866aeb76dc41b9f2f9ff3922e450b696c4e68a48087dc
+size 79

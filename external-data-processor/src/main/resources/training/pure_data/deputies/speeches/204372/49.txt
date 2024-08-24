@@ -1,1 +1,3 @@
-Associação à nota de repúdio do Deputado Silas Câmara, à perseguição praticada contra a Igreja Universal do Reino de Deus na República de Angola. Apelo ao Presidente da República e ao Ministro das Relações Exteriores, Ernesto Araújo, por adoção de providências junto ao governo angolano em prol da instituição religiosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca57bec73b23698cb882a1023045d2b31d10c4a8f718b5b180ebc6a696df6f66
+size 338

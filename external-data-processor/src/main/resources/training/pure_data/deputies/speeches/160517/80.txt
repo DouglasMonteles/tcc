@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 3.828, de 2012, sobre  a aplicação dos recursos do Fundo de Universalização dos Serviços de Telecomunicações em programas, projetos e atividades com vistas à universalização dos serviços de internet e telefonia móvel. Licitação da faixa de 450 mega-hertz para disponibilização à telefonia e Internet rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e212958d53cfe965b663ad2cd4b13f93311635ce6c8ea453bb8c52a9e5b0976c
+size 361

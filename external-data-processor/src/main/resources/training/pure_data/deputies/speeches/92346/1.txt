@@ -1,1 +1,3 @@
-Repúdio à decisão do Superior Tribunal de Justiça denegatória do direito de porte de arma ao policial aposentado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1db04eeb7cbdb3e9cb821757707a9977e08dd3e4003f24e5a01e75db6445d88
+size 118

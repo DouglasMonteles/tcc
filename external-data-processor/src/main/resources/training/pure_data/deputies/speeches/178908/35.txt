@@ -1,1 +1,3 @@
-Crítica ao Presidente em exercício da Câmara dos Deputados, Deputado Waldir Maranhão, em face de não colocação em pauta do requerimento para prorrogação da CPI do Conselho Administrativo de Recursos Fiscais - CARF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ccdb6a4b5c81590e05b9f879285304cc5662f4482626ba56d09dcf59a3ca558
+size 223

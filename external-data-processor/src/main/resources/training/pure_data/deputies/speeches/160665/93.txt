@@ -1,1 +1,3 @@
-Orientação de bancada do SDD favorável ao requerimento de preferência para a votação da Medida Provisória nº 630, de 2013, que institui o Regime Diferenciado de Contratações Públicas e dá outras providências, em relação ao Projeto de lei de conversão nº 1, de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:781bccc10f749855e4fda77e56386f3e3d723c96286bada4f787a56b8ac7cd53
+size 282

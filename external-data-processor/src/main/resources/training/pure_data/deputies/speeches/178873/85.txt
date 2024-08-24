@@ -1,1 +1,3 @@
-Participação do orador em reunião do Conselho Nacional de Direitos Humanos. Eleição do Parlamentar para membro da Mesa Diretora do órgão. Presença no plenário do Vereador Mário Baldotto Sarnáglia, do Município de Itaguaçu, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3922824de8ac7be600621f5c69d083474bc84aa003ac544024ac2cafcfdbe45d
+size 262

@@ -1,1 +1,3 @@
-Aplausos ao Governador do Estado de Santa Catarina, Jorginho Mello, pela instituição do Programa Universidade Gratuita. Importância da educação como instrumento de redução das desigualdades socioeconômicas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0de86fb8626ba4560e12872b8531400d6b7032081ebe7e706f16780dcefe12dc
+size 226

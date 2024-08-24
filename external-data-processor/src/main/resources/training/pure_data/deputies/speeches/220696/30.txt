@@ -1,1 +1,3 @@
-A Deputada anunciou a visita da ex-Prefeita Tânia Portugal, de São Sebastião do Passé, na Bahia. Destacou a reorganização da cidade e a parceria com o Governo da Bahia e o Presidente Lula.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b76e7e325b963269c4f408b1bac210b0a62a755f850faf1effe6a1a49d96f8a
+size 194

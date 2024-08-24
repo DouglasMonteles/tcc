@@ -1,1 +1,3 @@
-Questionamento sobre a não reivindicação pelos Líderes oposicionistas da privatização de estatais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5bfaf7e995c5b5b3a148d857f6358c0b53c234065d7e9c235fb544f86ca9ad9
+size 104

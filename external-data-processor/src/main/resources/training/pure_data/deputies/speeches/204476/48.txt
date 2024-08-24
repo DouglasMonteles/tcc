@@ -1,1 +1,3 @@
-O Deputado registrou a presença na Casa de comitiva do Município de Natividade, do Estado do Rio de Janeiro, composta por seu amigo Joel, o Vice-Prefeito e os Vereadores Marcos Antônio da Cunha, Mayco Faria de Almeida e Lucas Merson Silva Fonseca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8250028d7b1244d035987663e1a87788bc39b5398bcac44c155d642fa56d60f9
+size 250

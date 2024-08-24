@@ -1,1 +1,3 @@
-Congratulações aos responsáveis pela realização da Semana de Oração pela Unidade Cristã, com temática central em torno do combate ao racismo
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad43590cadbe3ae55ecd6bc479fa5ec32e4d2f64fbf53137fd6cc761f7ece3f0
+size 149

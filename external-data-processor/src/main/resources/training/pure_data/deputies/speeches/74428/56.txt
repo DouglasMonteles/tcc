@@ -1,1 +1,3 @@
-Posicionamento favorável do PSDB ao Projeto de Decreto Legislativo 443 de 2001(Autoriza o envio de um Navio da Marinha do Brasil para compor a Força-Tarefa Marítima da Força Interina das Nações tinidas no Líbano (UNIFIL).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d262275b779177bb7e85e1bcbb7bf6578348fb4e5e930464e9dd315be6599de0
+size 228

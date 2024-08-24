@@ -1,1 +1,3 @@
-Atraso proposital no início da Ordem do Dia para a aprovação, pela Comissão de Constituição e Justiça e de Cidadania, do Projeto de Lei nº 490, de 2007, sobre a alteração da Lei nº 6.001, de 1973, relativa ao Estatuto do Índio. Alcance do patamar de 500 mil óbitos no País pela Covid-19. Possibilidade da ocorrência de apagão de energia elétrica no Brasil, no segundo semestre de 2021. Boicote, pelo Presidente Jair Bolsonaro, às medidas sanitárias de combate à epidemia de coronavírus. Denúncia de corrupção na compra da vacina Covaxin pelo Ministério da Saúde. Não abertura, pela Casa, de processo para investigação de responsabilidades pela tragédia causada pela Covid-19 no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d37362581f9fa98a575ec3fcdc17f9e19e6f12b2162be8d0e47877fbdf4a95b
+size 714

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei nº 9.236, de 2017, sobre a alteração do § 11 e a inserção dos §§ 12, 13, 14 e 15 no art. 20 da Lei nº 8.742, de 1993,  com vista ao estabelecimento dos parâmetros adicionais de caracterização da situação de vulnerabilidade social, para fins de elegibilidade ao Benefício de Prestação Continuada, pela pessoa com deficiência ou idosa. Elogio ao autor da proposição, Deputado Eduardo Barbosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08f982a0770fb53e831f8a9c3c62a88c27abfa3862c22d417322e0f5d3be2b62
+size 465

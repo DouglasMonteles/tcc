@@ -1,1 +1,3 @@
-Transcurso do 457º aniversário de fundação do Município de Mogi das Cruzes, Estado de São Paulo. Empenho do orador na destinação de recursos orçamentários à municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:312a5289a47bd766de83a2c29007f4f562200e7c83d77aae58d719d1495b63f4
+size 183

@@ -1,1 +1,3 @@
-Defesa da escolha da cidade de Campo Grande, Estado de Mato Grosso do Sul, para subsede da Copa do Mundo de Futebol de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d730ae58f99e03b927fd47682202e34c0d135fa6c6c2bf0cb1062debb55ef5f6
+size 124

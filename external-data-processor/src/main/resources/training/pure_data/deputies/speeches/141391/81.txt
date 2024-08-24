@@ -1,1 +1,3 @@
-Revisão do Plano Geral de Outorgas pela Agência Nacional de Telecomunicações - ANATEL. Balanço da atuação parlamentar do orador no primeiro semestre de 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:697fc59b0bfb859645182e62c4bd918c1ec91bbfa53cb9485bb842c1eaf6e752
+size 164

@@ -1,1 +1,3 @@
-Congratulações aos Deputados integrantes da Frente Parlamentar em Apoio à Duplicação da BR-251. Necessidade de recuperação da malha rodoviária do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ad99af36e02567798c3a04624af6a7d4ac41ec677ac71d93125ee0e50177d23
+size 161

@@ -1,1 +1,3 @@
-Regozijo com a aprovação, pelo Relator do projeto sobre a Lei de Diretrizes Orçamentárias - LDO, Senador Tião Viana, de emenda de autoria do orador destinada à maior transparência na arrecadação tributária pelo Governo Federal, especialmente no tocante aos impostos compartilhados arrecadados por meio de depósitos judiciais e dos REFIS I, II, III e IV. Discriminação praticada pelo Ministério da Integração Nacional quanto à distribuição, aos Estados brasileiros, de recursos para combate aos efeitos de desastres naturais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa69655eea83b8717fe3c707e5bd6591b0ea41dbb08df29e9dd3422b12266bf3
+size 543

@@ -1,1 +1,3 @@
-Participação do orador na Comissão Especial destinada ao debate do novo marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e83964838f8b83d8c6e8ab3307e985fcdf999c9f85fb4a8402da27a6ad48367a
+size 109

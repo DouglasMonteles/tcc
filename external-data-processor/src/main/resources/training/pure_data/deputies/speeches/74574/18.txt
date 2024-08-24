@@ -1,1 +1,3 @@
-Cumprimento pelo Presidente Marco Maia de compromissos assumidos com o PSD. Indicação de membros do partido para a Comissão Especial destinada ao exame do projeto de lei sobre a distribuição de royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43518ea9a1a69d49423359a614f3f6a6158409714687424c08d7d8c28631cc91
+size 222

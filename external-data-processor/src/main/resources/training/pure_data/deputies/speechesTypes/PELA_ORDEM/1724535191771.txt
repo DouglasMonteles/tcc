@@ -1,1 +1,3 @@
-Associação ao discurso do Deputado Ronaldo Fonseca. Defesa de respeito à separação dos Poderes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2af120ecd6aa0fab023478bf9c02139a7f3e538da71049639497a23ee1a983dd
+size 100

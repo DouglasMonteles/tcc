@@ -1,1 +1,3 @@
-O Deputado expressou gratidão pela aprovação do regime de urgência para o Projeto de Lei sobre consentimento presumido para doação de órgãos. O Parlamentar enfatizou o potencial de salvar vidas, citando os 65 mil indivíduos na fila de transplantes e a eficácia do modelo em outros países. Devido à sua importância, espera a aprovação do projeto na próxima semana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:351d371777675d89296ecf12f360378b66d468edd3f8cd4575a56ac4033ea04d
+size 379

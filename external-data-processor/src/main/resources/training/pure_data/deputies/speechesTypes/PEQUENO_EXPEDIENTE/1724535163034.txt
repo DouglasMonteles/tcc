@@ -1,1 +1,3 @@
-Elogio à Casa pela aprovação da Medida Provisória nº 514, de 2010, sobre o Programa Minha Casa, Minha Vida. Acerto da decisão do Supremo Tribunal Federal a favor da posse de suplentes de coligações partidárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:977f4fd8de6f5dd72b73544e3d5bfc6fbd377be3c0041dd07a2381b8c6b856ec
+size 219

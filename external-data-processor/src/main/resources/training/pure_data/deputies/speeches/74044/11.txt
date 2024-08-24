@@ -1,1 +1,3 @@
-Homenagem à memória do Senador Humberto Lucena, ao ensejo do transcurso dos 10 anos do seu falecimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:827af76b29cd0324a1195efff04720341589de6f68f437d38c5cd531f5e5f04a
+size 105

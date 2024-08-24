@@ -1,1 +1,3 @@
-Dificuldades financeiras enfrentadas pelos municípios no País. Insuficiência dos recursos destinados às municipalidades brasileiras pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e69aad69aecc9f0a896351e155340e7e5727f4e1a8bc1f5dfa0783972aef4a83
+size 157

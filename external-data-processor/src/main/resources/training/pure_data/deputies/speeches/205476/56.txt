@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 3.884, de 2019, a respeito da adaptação de academias de ginástica com vagas gratuitas para idosos e deficientes de baixa renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e8e8b9bccf33a234f4a5d857f64906513747241a92fb64d1c9080626f969c42
+size 167

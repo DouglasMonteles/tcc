@@ -1,1 +1,3 @@
-Homenagem ao funcionalismo público, ao ensejo do transcurso do Dia do Servidor Público. Apoio à rejeição do veto presidencial a proposição sobre reajuste salarial dos servidores do Poder Judiciário Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df940889a8721d68d18920ef3931370301a272f088daf1a596277590044850b5
+size 214

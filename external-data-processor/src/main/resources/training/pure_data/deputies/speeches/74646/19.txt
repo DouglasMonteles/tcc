@@ -1,1 +1,3 @@
-Importância da aprovação, em primeiro turno, da Proposta de Emenda à Constituição nº 48, de 2019, sobre a transferência de recursos federais a Estados, ao Distrito Federal e a Municípios mediante emendas ao projeto de lei do orçamento anual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b359d9467827c882539901d357691506c65dc9bd3632b1d841cdd67cc6ebc4e
+size 251

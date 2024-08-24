@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da alínea b, inciso VI, art. 3º, da Lei nº 13.979, de 2020, constante do art. 1º do Projeto de Lei de Conversão nº 25, de 2020, apresentado à Medida Provisória  nº 926, de 2020, sobre a alteração da Lei nº 13.979, de 2020, com vista ao estabelecimento dos procedimentos para aquisição de bens, serviços e insumos destinados ao enfrentamento da emergência de saúde pública decorrente do coronavírus.  Apelo à Presidência de inclusão na pauta do Projeto de Lei º 2.824, de 2020, sobre a adoção de medidas emergenciais para o setor esportivo durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de  2020; e a alteração das Leis de nºs 9.615, de 1998, e 13.756, de 2018.
+version https://git-lfs.github.com/spec/v1
+oid sha256:281012a1c6e9169ee713f711d91c08c5a82513784cd6fb3033a5e55c17c0e1b4
+size 817

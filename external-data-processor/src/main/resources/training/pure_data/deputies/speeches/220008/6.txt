@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Decreto Legislativo nº 485, de 2021, sobre aprovação do texto do Acordo entre o Governo da República Federativa do Brasil e o Governo do Estado de Israel sobre Proteção de Informação Classificada e Materiais, assinado em Tel Aviv, em 24 de novembro de 2010; e do texto de sua Emenda, firmada em Tel Aviv e Brasília em 6 de junho de 2018, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a189bd754af4e930fc8c5262ce5eb43739ef81ec9dfb0924276ee5bc3eb4c26b
+size 423

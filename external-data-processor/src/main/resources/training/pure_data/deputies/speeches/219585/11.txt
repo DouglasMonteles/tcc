@@ -1,1 +1,3 @@
-O Deputado expressou satisfação em receber o Deputado Estadual Batatinha na Câmara dos Deputados. Elogiou Batatinha por seu trabalho na mídia e na Assembleia Legislativa, especialmente em benefício da população de Cascavel (PR).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad4e3571256fbd0b13ed4b21c8328347bc185033102c39baacc9f592a912451b
+size 235

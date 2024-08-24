@@ -1,1 +1,3 @@
-Despedida do orador do mandato parlamentar, em face de assunção ao cargo de Prefeito do Município de Canoas, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71c38e2c878838b92d27b467e98d0dc3a0a0358c2e0fb6243ab158e412c195a5
+size 140

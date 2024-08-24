@@ -1,1 +1,3 @@
-Reajuste das tarifas de energia elétrica da empresa AES Eletropaulo. Impacto dos aumentos autorizados pela Agência Nacional de Energia Elétrica - ANEEL na escalada da inflação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc78db8c840f1ea2d30c391dff967bea919d9f97ca6a814d719907b51e75c39a
+size 181

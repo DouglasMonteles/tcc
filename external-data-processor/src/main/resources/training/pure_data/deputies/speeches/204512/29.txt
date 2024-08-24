@@ -1,1 +1,3 @@
-Esclarecimento sobre a limitação dos gastos de campanha nas eleições municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:707c13c08052fd19f972683704b6929e872d59a461c0c5d3a4f9dae9d5041427
+size 84

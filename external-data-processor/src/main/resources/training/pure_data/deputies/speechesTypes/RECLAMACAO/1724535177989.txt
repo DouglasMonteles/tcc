@@ -1,1 +1,3 @@
-Reclamação sobre a necessidade de posicionamento da Câmara dos Deputados quanto à invasão de propriedade da família da Deputada Tereza Cristina por integrantes da Confederação Nacional dos Trabalhadores na Agricultura - CONTAG em face do apoio da Parlamentar à admissibilidade do impeachment da Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:037d1f361fab596e070aec6fbf78f16889f559b5a5d16371895ed6968bba8c91
+size 329

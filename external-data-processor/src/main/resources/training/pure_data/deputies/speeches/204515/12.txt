@@ -1,1 +1,3 @@
-Retificação do parecer oferecido pelo orador ao Projeto de Lei nº 2.787, de 2019, sobre a tipificação do crime de ecocídio e a conduta delitiva do responsável por desastre relativo a rompimento de barragem, com relação ao art. 54-A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa8bd399d934897aef86b7959405994deffb46d6c0b1e91c1fa466edb92178a7
+size 241

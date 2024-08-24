@@ -1,1 +1,3 @@
-Constatação da insatisfação do povo brasileiro com os políticos em face da quantidade de votos nulos e brancos e de abstenções nas eleições municipais de 2016. Importância para a recuperação econômica do Brasil da Proposta de Emenda à Constituição nº  241, de 2016, sobre a instituição do Novo Regime Fiscal. Premência de ampliação da reforma política. Congratulação ao Supremo Tribunal Federal - STF pela decisão sobre a constitucionalidade do cumprimento da pena de prisão a partir da condenação em segunda instância. Apresentação pelo orador do Projeto de Lei nº 5.303, de 2016, sobre a possibilidade da execução provisória de acordão penal condenatório proferido em grau de apelação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34e8b762a1b5decb5ac3f21e278d7d60a668f8f507e7370e67e08308f4c63d83
+size 727

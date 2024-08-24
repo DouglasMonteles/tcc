@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos quinze anos do Centro de Debates Estratégicos da Câmara dos Deputados - CEDES.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38e82704638c5fbe62afdde02589939a20d1da63d35fc2e407667470d7b95cb6
+size 261

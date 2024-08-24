@@ -1,1 +1,3 @@
-Apoio à aprovação de projeto de lei sobre o combate ao terrorismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28da2d058162faebc1e2b6c466c12ce24f7ef6fe05deba5e9a16c679835a0809
+size 69

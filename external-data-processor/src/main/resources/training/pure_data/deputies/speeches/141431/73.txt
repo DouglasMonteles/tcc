@@ -1,1 +1,3 @@
-Realização de audiência pública no Município de Petrolina, Estado de Pernambuco, destinada à discussão do novo Código Florestal Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:029bf2be1c19b789bc8a80f47cde76eb4223c3e3e6a501355b23426f863a913b
+size 147

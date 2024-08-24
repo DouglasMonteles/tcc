@@ -1,1 +1,3 @@
-Posse do magistrado maranhense Reinaldo Fonseca Soares no cargo de Ministro do Superior Tribunal de Justiça - STJ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f0b6db3cd9e755fb78b9db158711d09ff8045754ee904a63d1624fc059d6c7d
+size 115

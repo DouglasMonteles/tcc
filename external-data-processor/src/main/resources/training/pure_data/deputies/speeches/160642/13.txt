@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado de Pernambuco pela assunção do mandato parlamentar. Compromisso de atuação parlamentar em defesa da preservação família e da integridade moral dos cidadãos. Equívoco das decisões do Supremo Tribunal Federal a favor da união estável entre pessoas do mesmo sexo e da realização da chamada Marcha da Maconha no País. Reexame de propagandas de bebidas alcoólicas. Elogio à Presidenta Dilma Rousseff pela determinação de arquivamento do chamado kit anti-homofobia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c81a8091bb5804ee2a80e5fe1c8a8423b4a4ebfbb867bbbcce5e2b98a34712c
+size 516

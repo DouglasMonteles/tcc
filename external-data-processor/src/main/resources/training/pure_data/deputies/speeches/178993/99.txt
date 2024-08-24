@@ -1,1 +1,3 @@
-Atividades políticas do orador nos Municípios de Arauanã, Xambioá e Waderlândia, Estado de Tocantins. Contrariedade à manifestação do Presidente do PMDB tocantinense, Derval de Paiva, em defesa da renúncia da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c4c51507a8e2ed4ceebee0c2cb6b0c67a6e365487cf0b51e404f83659128db7
+size 244

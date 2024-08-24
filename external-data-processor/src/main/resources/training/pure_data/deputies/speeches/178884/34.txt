@@ -1,1 +1,3 @@
-Anseio pela aprovação do Projeto de Lei nº 4.330, de 2004, que dispõe sobre o contrato de prestação de serviço a terceiros e as relações de trabalho dele decorrentes. Natureza falaciosa das informações supostamente divulgadas pelo PT e pela CUT sobre o fim dos concursos públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0326aacddab863a47e658f2e33e2d3c70e7afc70b80c64e179f4dd355d33688e
+size 292

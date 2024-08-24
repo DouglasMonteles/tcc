@@ -1,1 +1,3 @@
-Pedido à Presidência de criação e instalação da CPI destinada à investigação de crimes ambientais atribuídos à empresa norueguesa Hydro Alunorte, no Município de Barcarena, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed3383fa935a80b838bf4b3e657a1e95b39de8b43897dca2861d62765638a678
+size 201

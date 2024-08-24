@@ -1,1 +1,3 @@
-Eventuais prejuízos ao setor de agronegócio com a edição do Decreto nº 6.514, de 2008, sobre infrações contra o meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:695e0f36976fc0f34a5d290a422c1c7234e7fb8ff2ec9435a26b98fb12a2767c
+size 133

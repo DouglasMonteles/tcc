@@ -1,1 +1,3 @@
-Realização, pela Casa, de sessão solene ao ensejo do transcurso do Dia Mundial de Combate ao Câncer. Imediata implantação de políticas públicas de combate à doença. Sucesso da Marcha a Brasília em Defesa dos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65af458cf95e085dd73ac90dcdc0242e94365d99271a7a88811244fbb1c9261b
+size 231

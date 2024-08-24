@@ -1,1 +1,3 @@
-Pedido à Presidência de inclusão na pauta do requerimento de apreciação em regime de urgência do projeto de lei anticrime, encaminhado à Casa pelo Ministério da Justiça e Segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e32c4b5c2e2e36fa82de61bb7653027d823945647ad4dee8c290c95f70eb0453
+size 200

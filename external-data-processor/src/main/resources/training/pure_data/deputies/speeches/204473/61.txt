@@ -1,1 +1,3 @@
-Transcurso do 57º aniversário da Revolução de 1964. Orgulho do orador pela participação nos governos militares. Apoio das Forças Armadas brasileiras à Marcha da Família com Deus pela Liberdade, contra a tomada do poder para  implantação de regime de exceção no Brasil. Não instalação, pelo Governo do Estado do Rio Grande do Norte, de hospitais de campanha para atendimento aos contaminados pela Covid-19, não obstante à liberação de recursos pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d41f49cc7c3ed2d63d6f7dc9a236b422bc801c3568b92c41919d565fdc227872
+size 484

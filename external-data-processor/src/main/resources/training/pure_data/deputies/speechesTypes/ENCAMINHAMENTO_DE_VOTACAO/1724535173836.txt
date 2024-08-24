@@ -1,1 +1,3 @@
-Encaminhamento da votação do Projeto de Lei 1 de 2008-CN (Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2009 e dá outras providências - LDO).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d197b38e86ff811a1182a5dd4fa5c6ac69d97e35355f328e9e9de5bfd400257d
+size 185

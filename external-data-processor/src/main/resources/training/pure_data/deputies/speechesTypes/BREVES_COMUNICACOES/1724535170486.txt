@@ -1,1 +1,3 @@
-Relato da visita do orador a Municípios do Estado de Pernambuco. Realização das eleições municipais de 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4b44a9ab7c2b57135a212bb8a4dae32025c5aad270128fb59f72ce85afba149
+size 113

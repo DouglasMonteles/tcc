@@ -1,1 +1,3 @@
-Posicionamento contrário do PSDB ao  inciso I do art. 2º da Lei 11.368 de 2006, alterado pelo art. 1º do Projeto de Lei de Conversão da Medida Provisória 385 de 2007 (Acrescenta parágrafo único ao art. 1º da Lei 11.368 de 2006, para estender ao trabalhador rural enquadrado como contribuinte individual o prazo previsto no art. 143 da Lei 8.213 de 1991- requisição de aposentadoria por idade), que trata da contagem de tempo para efeito de carência para concessão de aposentadoria por idade do empregado rural, em valor equivalente ao salário mínimo, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eca9370dc4c218b9a764892b30f9e08259e6bfbb46691e8e8a255022f1b1d277
+size 579

@@ -1,1 +1,3 @@
-Realização da 60ª Exposição Agropecuária e Industrial de Londrina - Expolondrina, no Estado do Paraná. Reconhecimento dos trabalhos desenvolvidos pela comunidade rural paranaense. Criação do Polo de Inovação Agropecuária de Londrina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1a43a2c5ba0d4f1173cc816417a6bdd732e9b1d2e35480e059c81dfe2809921
+size 245

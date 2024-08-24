@@ -1,1 +1,3 @@
-Posicionamento do orador contrário ao estabelecimento de nova sistemática de utilização da cota de passagens aéreas pelos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a2aa02bbc4bb5b112777275a1dae972fcb5877b7122edbf5fbc158e0d320c37
+size 137

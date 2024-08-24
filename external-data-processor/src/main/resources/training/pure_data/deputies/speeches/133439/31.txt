@@ -1,1 +1,3 @@
-Artigo Pobres tempos de migalhas na política, sobre a prioridade dada pela grande imprensa às denúncias contra autoridades públicas, de Luiz Henrique Campos, publicado pelo jornal O Povo, de Fortaleza, Estado do Ceará. Protesto contra o prejulgamento de Ministros de Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:024ab31094130e4526c5df63947e930bd109a440e5e0305c2763e1d0c5292223
+size 279

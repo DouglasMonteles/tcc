@@ -1,1 +1,3 @@
-Morosidade do Governo Federal na edição de medida provisória destinada ao pagamento do piso salarial nacional dos profissionais da enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cc3a05a91819b7c930b6e7c25ce39c71c7fb2c5507b127bd6c61dbc25b676df
+size 145

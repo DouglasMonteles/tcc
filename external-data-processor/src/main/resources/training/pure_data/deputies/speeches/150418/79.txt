@@ -1,1 +1,3 @@
-Falecimento do advogado e político Ruy Schimmelpfeng Sampaio, Cornélio Procópio, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00166771763b9a11aadb0c911226a1420de039d0465cd4ef970fdb1d3ebaf048
+size 102

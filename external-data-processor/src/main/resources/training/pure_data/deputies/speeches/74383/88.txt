@@ -1,1 +1,3 @@
-Esclarecimento sobre o número de Deputados presentes à sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bef7bf91cda89cecea44720f0f7a081d39e39c48a1830f7c562d4e86a690006
+size 65

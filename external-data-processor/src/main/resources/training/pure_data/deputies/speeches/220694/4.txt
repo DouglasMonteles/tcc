@@ -1,1 +1,3 @@
-Transcurso do 38º aniversário de emancipação político-administrativa do Município de Heliópolis, no Estado da Bahia. Saudações a Prefeitos Municipais da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b630886e5afe3d644b53818957fc8293d413ec594fc258d092b49723bd177335
+size 168

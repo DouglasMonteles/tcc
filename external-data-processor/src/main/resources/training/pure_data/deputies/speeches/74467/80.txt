@@ -1,1 +1,3 @@
-Considerações sobre a seca na Região Nordeste. Transcurso do Dia Mundial da Saúde e do Dia Mundial de Combate ao Câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e778ffdcb6e24ab313ca9f43be54f4c1c71c4ea3d2c43138f6ea8d24c0c0900
+size 125

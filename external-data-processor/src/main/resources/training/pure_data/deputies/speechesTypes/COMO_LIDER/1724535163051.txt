@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 2.401, de 2019, (apensado ao Projeto de Lei nº 3.179, de 2012), acerca da implantação no País do sistema de educação domiciliar (homeschooling).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1afbb449fc6bbae803db7368d207ef6d7569b217643ad358497173b300b7cdc2
+size 194

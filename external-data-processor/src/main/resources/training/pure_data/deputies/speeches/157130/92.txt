@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei nº 4.606, de 2019, proibitivo de alteração do texto da Bíblia Sagrada. Apoio à implementação do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:817b185ffa39d7a2369e7ad8ec0d70d67513ae84444dd2a3078bb565c184df52
+size 227

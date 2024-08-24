@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 16, apresentada ao Projeto de Lei Complementar nº 19, de 2019, sobre a definição dos objetivos do Banco Central do Brasil, a sua autonomia, a nomeação e exoneração do Presidente e Diretores da instituição. Saudação ao ex-Deputado Federal e atual Prefeito Municipal de Recife, João Campos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2bb2972ed577615f88889175485c636042b315b42c73b838be93a6283dbc761
+size 419

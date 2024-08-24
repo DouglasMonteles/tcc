@@ -1,1 +1,3 @@
-Posicionamento favorável do PTB à Emenda do Senado ao Projeto de Lei nº 3.482, de 2004 (Institui o Dia Nacional da Matemática).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca07427aa5913e96767abb1a97c8c94c93922bb728cb7da9f7b3e4e97d3b3371
+size 131

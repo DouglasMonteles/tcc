@@ -1,1 +1,3 @@
-Repúdio à decisão do Governador do Espírito Santo, Renato Casagrande, de instalação de câmeras nos uniformes dos policiais penais e militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ef8674f632b24ea1eec0d4008ae8bfd952c136e3610df8a707a547d53a9403e
+size 149

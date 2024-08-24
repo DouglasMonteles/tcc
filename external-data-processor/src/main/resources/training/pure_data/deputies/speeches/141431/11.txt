@@ -1,1 +1,3 @@
-Êxito da 11ª Marcha a Brasília em Defesa dos Municípios. Adoção de pacto federativo no País. Sensibilidade demonstrada pelo Presidente Luiz Inácio Lula da Silva no tratamento de demandas municipais. Congratulações aos Prefeitos Municipais brasileiros, em especial aos do sertão pernambucano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fc4eadd53ef4f14da24a291106a6c4d386cf6f80b3797a194132c8f38e02a54
+size 302

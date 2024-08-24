@@ -1,1 +1,3 @@
-Regozijo com a garantia, pelo Ministério da Economia, de manutenção da Lei nº 8.248, de 1991, a chamada Lei da Informática, bem como de benefício concedido à ciência e à inovação tecnológica até 2029.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d384947dd8c33dbb8f69cf137806885ab4f8c88fe1b9cb21f8681735cc5f0232
+size 213

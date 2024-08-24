@@ -1,1 +1,3 @@
-Crise do sistema prisional do Estado do Rio Grande do Sul. Recusa, pelo Juiz Paulo Augusto Oliveira Irion, da 4ª Vara Criminal de Canoas, da prisão de quadrilha acusada de furto de veículos. Diagnóstico da CPI do Sistema Carcerário sobre as prisões gaúchas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e04783151b6dd9c7ef2f8ee2f5738e3bc2e1102b3db3129fe6be5ef1fc244dce
+size 264

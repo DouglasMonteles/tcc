@@ -1,1 +1,3 @@
-Apelo aos partidos oposicionistas de desobstrução das votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b32f101f251e64a270848abc0c4d1da66c4e5425b27cce27a0c3bd892fc2dc16
+size 67

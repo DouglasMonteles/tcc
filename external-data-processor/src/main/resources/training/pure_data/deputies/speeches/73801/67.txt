@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 3, apresentada à  Medida Provisória nº 919, de 2020, acerca da fixação do valor do salário mínimo em R$ 1.045,00 (mil e quarenta e cinco reais), a partir de 1º de fevereiro de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e749b553af8af96ff64505de1459d2479318c33be009d643828e91ebdfd94fe0
+size 308

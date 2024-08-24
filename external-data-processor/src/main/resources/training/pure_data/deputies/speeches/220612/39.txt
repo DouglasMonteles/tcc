@@ -1,1 +1,3 @@
-Falta de planejamento governamental para o desenvolvimento socioeconômico da região cacaueira. Solicitação ao Governo Federal e ao Governo do Estado da Bahia de continuidade de construção de ponte no Município de Ilhéus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d372e58c76ba0af75620dd1d8ea1c57437063eb5f34ecaa78cfe153949de341
+size 228

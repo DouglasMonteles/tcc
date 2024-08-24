@@ -1,1 +1,3 @@
-Inexistência, no âmbito estadual e municipal, de instrumentos preventivos dos efeitos de desastres naturais. Apresentação do Projeto de Lei nº 920, de 2023, sobre a destinação de recursos ao Fundo Nacional para Calamidades Públicas, Proteção e Defesa Civil – FUNCAP.&nbsp;Criação da Frente Parlamentar de Gestão de Riscos e Desastres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17a701cb1c918b6b4f37bea6df91c7b71643776b3cf8ca899c95497d94d16da6
+size 349

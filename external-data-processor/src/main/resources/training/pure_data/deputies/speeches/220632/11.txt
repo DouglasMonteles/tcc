@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Luta contra a LGBTfobia. Elevado índice de violência contra a população LGBTQIA+ no País. Aprovação de legislação de enfrentamento à homofobia, conhecida como Lei Rosa, no Município de Juiz de Fora, Estado de Minas Gerais. Instalação da CPI do MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fd2cda408e834d1d5471fda4f23d1ecc7c3fce6211d6b897f27bbf4ea4563d4
+size 296

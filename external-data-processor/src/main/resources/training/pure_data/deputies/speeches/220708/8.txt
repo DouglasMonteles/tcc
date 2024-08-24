@@ -1,1 +1,3 @@
-Congratulações ao Ministério Público do Estado da Bahia pelo encaminhamento, ao Tribunal Regional Eleitoral, de pedido de afastamento e prisão do Prefeito Luciano Pinheiro Damasceno Santos, do Município de Euclides da Cunha, por envolvimento em atos de corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddd61390ec5c2d2157e02f2ab3c53ccdbaedd205e701b02444b61e2aa8c1f438
+size 271

@@ -1,1 +1,3 @@
-Concessão do título de Cidadão Honorário de Jaboatão dos Gurararapes ao Presidente da Igreja Evangélica Assembleia de Deus no Estado de Pernambuco, Pastor Ailton José Alves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df2af7213ea1973c61fa1389902514a328f095469bf3927c5e602410c7059554
+size 180

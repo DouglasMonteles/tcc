@@ -1,1 +1,3 @@
-O Deputado agradeceu e parabenizou os professores e alunos do curso de Direito da UniGuairacá, de Guarapuava, por sua visita ao Congresso Nacional. Ele destacou a importância de conhecer as instituições públicas e o processo legislativo do País. Enfatizou que a visita contribuirá significativamente para a formação acadêmica dos visitantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d8cfacc10dcce3fecf4c58019db743f5ef3822cd2f8c7528d9fb57bc1bfaa83
+size 351

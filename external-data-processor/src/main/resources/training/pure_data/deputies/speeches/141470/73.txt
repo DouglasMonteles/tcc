@@ -1,1 +1,3 @@
-Assinatura, pelo Governador do Ceará, por Prefeitos Municipais cearenses e pelo Superintendente Estadual da Caixa Econômica Federal, de termo de adesão para Implementação do Programa Minha Casa, Minha Vida no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70a233ee0b9a17b68a3bcf4f4591a4281fc483d027e33c2acc266fc48400f03f
+size 221

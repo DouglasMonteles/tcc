@@ -1,1 +1,3 @@
-Anúncio de votação, pela Comissão de Educação e Cultura, de projeto de lei sobre a concessão ao sistema de ensino de autonomia para implantação do ensino fundamental com duração de 9 anos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de3d301c875c7e81ce99d6ea11c44114e99afb52bb5243fac496a4483f7257b3
+size 199

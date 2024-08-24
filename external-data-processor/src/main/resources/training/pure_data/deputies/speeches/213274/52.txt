@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 38, apresentada à Medida Provisória nº 1.016, de 2020, sobre alteração da Lei nº 7.827, de 1989, para disposição sobre a renegociação extraordinária de débitos no âmbito do Fundo Constitucional de Financiamento do Norte (FNO), do Fundo Constitucional de Financiamento do Nordeste (FNE) e do Fundo Constitucional de Financiamento do Centro-Oeste (FCO). Pedido ao Ministério da Saúde de apuração de aplicação de vacinas vencidas da AstraZeneca nos Municípios de Ribeirão Preto e Bebedouro, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca90cf2f0b7dae35b2746f5374df372e8d607a212d69c55b24730f990e65b04e
+size 649

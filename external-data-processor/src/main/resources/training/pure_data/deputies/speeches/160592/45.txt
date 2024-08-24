@@ -1,1 +1,3 @@
-Aquisição pelo Governo Federal de retroescavadeiras para o Município de Francisco Beltrão, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:762cc90bb1e9176a007a2fe9788d1492677ac9d90466a10f3b26018172dac28e
+size 113

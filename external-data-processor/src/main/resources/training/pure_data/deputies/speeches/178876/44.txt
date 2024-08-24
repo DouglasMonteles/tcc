@@ -1,1 +1,3 @@
-Repúdio à tentativa da Presidenta Dilma Rousseff de criação de novos impostos. Declaração de posição favorável ao impeachment da Presidenta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ed714263fce76f0308dcfe6e348dcd3238b2386072c6537a16bbe0506ed59c1
+size 149

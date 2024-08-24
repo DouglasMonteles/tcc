@@ -1,1 +1,3 @@
-Críticas a dispositivos do Projeto de Lei nº 7.596, de 2017, sobre os crimes de abuso de autoridade, aprovado pela Casa. Conveniência de esclarecimento, pelo Presidente Jair Bolsonaro, das razões do veto aposto ao Projeto de Lei nº 2.121, de 2019, do Senado Federal, sobre o estabelecimento de prazo para o julgamento de mérito de ação, pelo Supremo Tribunal Federal, após a concessão de liminar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:998127d55f19b80582a6e8782961c2682db98d72a66d369c4dd54e4b5697dbc6
+size 406

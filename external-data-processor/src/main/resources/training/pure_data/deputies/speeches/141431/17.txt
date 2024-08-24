@@ -1,1 +1,3 @@
-Edição de medida provisória sobre a renegociação de dívidas do setor agrícola. Reajuste mundial nos preços dos alimentos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:433346182bfd8bc78d3e99a41013a0c79061348511969109c8e2f0e6ec69c648
+size 129

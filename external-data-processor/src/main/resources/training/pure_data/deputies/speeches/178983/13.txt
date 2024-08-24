@@ -1,1 +1,3 @@
-Transcurso dos aniversários de emancipação político-administrativa dos Municípios de São Lourenço da Serra e São Sebastião, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeb680dbd8a33976b99e473be6d525d9446e8ec6514f600a1fccb35ae09168fb
+size 154

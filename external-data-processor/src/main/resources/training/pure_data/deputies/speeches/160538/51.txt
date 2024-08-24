@@ -1,1 +1,3 @@
-Importância de aprovação pela Casa do projeto de lei sobre a criação do Estatuto da Juventude. Realização, pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, de audiência pública destinada ao debate da integração entre a pesquisa agropecuária e a extensão rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea8bd7c16709e8b003bf2200cb0054e3082e126914ed5184046847952f4e3ee2
+size 305

@@ -1,1 +1,3 @@
-Folheto de cordel intitulado Diga não à Reforma da Previdência, de autoria de Abaeté do Cordel e Marciano Medeiros, do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78a3c824bad5fdf75cb463da343d35772c8b1c1b50cdd7a0360578f5ec06fc31
+size 143

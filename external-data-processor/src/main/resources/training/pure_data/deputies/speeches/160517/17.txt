@@ -1,1 +1,3 @@
-Solicitação ao Superintendente Regional do Departamento Nacional de Infraestrutura de Transportes - DNIT no Estado do Espírito Santo, Halpher Luiggi Mônico Rosa, de realização de audiência pública no Município de Colatina destinada à discussão sobre o atraso na conclusão das  obras da BR-259.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f1100372ae8a7f3a1d15d243922f90417d9a24a676de809c853c495d1a8be58
+size 305

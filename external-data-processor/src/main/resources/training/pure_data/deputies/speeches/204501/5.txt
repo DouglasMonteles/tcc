@@ -1,1 +1,3 @@
-Pedido aos Deputados de apoio ao projeto de lei sobre a participação obrigatória de candidatos majoritários em debates durante o período eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64014354369ae45652732f24e4fc09d81d29978493be9ffbc9d4d0c0113d66bd
+size 152

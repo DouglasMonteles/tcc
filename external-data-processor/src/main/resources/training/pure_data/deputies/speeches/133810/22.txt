@@ -1,1 +1,3 @@
-Presença no Congresso Nacional do Prefeito Gilson Adriano Becker e dos Vereadores Marcelo de Carvalho, Gilson Reni Iser e Paulo Oliveira, do Município de Vera Cruz, Estado do Rio Grande do Sul. Destinação pelo orador de recursos de emendas orçamentárias à municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0596c914eefa02170651b95652cb1ddfa13497b969e89cf5302cd0c9171e7494
+size 278

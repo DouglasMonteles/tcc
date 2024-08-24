@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido pelo Relator da Comissão de Finanças e Tributação ao Projeto de Lei Complementar nº 11, de 2020, relativo à alteração da sistemática de cobrança do ICMS incidente sobre combustíveis, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e245c00e88a58ede00aef3d2ffa7e09cc8809f1d1464f05063e7ecce1efb050
+size 282

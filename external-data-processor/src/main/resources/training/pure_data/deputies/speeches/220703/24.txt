@@ -1,1 +1,3 @@
-O Deputado destacou a importância do Projeto de Lei do Congresso Nacional nº 40, de 2023, sobre a recomposição do FPM, crucial para os Municípios enfrentarem dificuldades financeiras. Apelou à sensibilidade da Casa e do Senado Federal para a aprovação, visando beneficiar não apenas a Bahia, mas todo o Brasil. Expressou a satisfação pela aprovação do projeto de lei que institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista, ressaltando a necessidade de rápida votação no Senado para efetivar essas importantes medidas em todo o País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d33eca006ba39558d575b6365d660376df9db379f4f75bd4d2e526a465fe35c
+size 600

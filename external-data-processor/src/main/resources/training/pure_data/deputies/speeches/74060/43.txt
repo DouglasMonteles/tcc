@@ -1,1 +1,3 @@
-Defesa da retomada do Programa Luz para Todos no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9469104a1d865932dba9e3d0ce6971cf68e92d9deabee618bfae026ab7355ef
+size 65

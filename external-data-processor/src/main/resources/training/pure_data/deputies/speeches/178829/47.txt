@@ -1,1 +1,3 @@
-Repúdio à decisão do Secretário de Segurança Pública do Estado de São Paulo, Alexandre de Moraes, pela prisão de policial militar pelo exercício do dever de ofício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57be938a948bda7cf95d1c4f92fc935faba718178b61bec7d7bb75a5f4392a3c
+size 174

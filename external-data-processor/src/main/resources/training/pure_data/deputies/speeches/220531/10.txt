@@ -1,1 +1,3 @@
-Solidariedade aos familiares da Profa. Elizabeth Tenreiro, assassinada por aluno de 13 anos de idade na Escola Estadual Thomazia Montoro, no Bairro Vila Sônia, em São Paulo, Estado de São Paulo. Fortalecimento dos mecanismos de segurança nas escolas brasileiras. Necessidade de promoção, pelo Governo Federal, de ações de valorização do professorado brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:118336441539466d1df87a5970ce4e92117d2f1bcd571bf305a22653094badf3
+size 371

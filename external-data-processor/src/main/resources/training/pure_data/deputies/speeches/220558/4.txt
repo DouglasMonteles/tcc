@@ -1,1 +1,3 @@
-Empenho do orador na aprovação de proposição i sobre a ampliação do teto de faturamento das empresas para enquadramento no regime de tributação especial SIMPLES Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdd41c100482cc7a4d4d9afcaac93ca347df4a746c874d31f0eadf565435484b
+size 178

@@ -1,1 +1,3 @@
-Defesa da aprovação de projetos que tratam do fator previdenciário e do reajuste das aposentadorias. Referências ao PL nº 7.579, de 2006, de autoria do orador, que dá aos aposentados reajustes iguais ao do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbe5a78a09e4ad1ebb0c6e939e7fb0d3a2e682fa16d00991bb62c07da4e82c6a
+size 229

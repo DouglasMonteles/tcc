@@ -1,1 +1,3 @@
-Leitura do conteúdo de placa de menção honrosa ao Sr. Akira Yamada pelos relevantes serviços prestados em prol da relação bilateral e diplomática entre o Brasil e o Japão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f9bf8bfe743b3b16b344d7f86daa23ef180cfcee0dd73442c7e327dcb3d8bf0
+size 179

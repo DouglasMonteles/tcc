@@ -1,1 +1,3 @@
-Criação, pela Comissão de Seguridade Social e Família, de subcomissão destinada à avaliação da situação das Santas Casas de Misericórdia e de hospitais filantrópicos. Defesa da alocação de recursos na Lei de Diretrizes Orçamentárias - LDO em benefício das instituições.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16a5dba738a338bceced92a4f03fa757682ee18568812364cd49fbf98dfbe3c0
+size 288

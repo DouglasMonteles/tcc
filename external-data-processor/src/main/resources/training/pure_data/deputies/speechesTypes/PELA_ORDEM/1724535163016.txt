@@ -1,1 +1,3 @@
-Ponderações sobre a moção de repúdio ao Governo dos Estados Unidos em razão das atividades de espionagem da National Security Agency - NSA no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd69cb3bb4d575bef3815b17894fe9ef496d242155acc362e66323d052862d23
+size 155

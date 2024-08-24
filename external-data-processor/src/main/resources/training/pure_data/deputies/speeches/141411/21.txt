@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT ao Substitutivo  ao Projeto de Lei 5.939 de 2009 (Autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Administração de Petróleo e Gás Natural S.A . - PETRO-SAL, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a78a98839a8ffb9cdaa13837aaaa7fdc9134e9044eb63448319399e81c3e566d
+size 261

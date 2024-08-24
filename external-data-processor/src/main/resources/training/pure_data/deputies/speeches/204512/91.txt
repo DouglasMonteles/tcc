@@ -1,1 +1,3 @@
-Importância da aprovação pela Casa do Projeto de Lei nº 1.424, de 2021, acerca da alteração do art. 136 e parágrafos, do Decreto-Lei nº 2.848, de 1940, (Código Penal), com vista à transformação, em crime hediondo, dos crimes de maus-tratos e assassinatos praticados contra crianças e adolescentes abaixo de 14 anos de idade (Lei Henry Borel).
+version https://git-lfs.github.com/spec/v1
+oid sha256:01d3acb145d09c5db529911341a63729f807bdfe933198681fc0b805803814cf
+size 355

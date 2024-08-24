@@ -1,1 +1,3 @@
-Protesto contra a nova condenação judicial imposta ao ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad22ef487cb2fd546cd1cd9201bc7f9db0a2e884a7dbf6ca8ae5f66ae9acaf88
+size 97

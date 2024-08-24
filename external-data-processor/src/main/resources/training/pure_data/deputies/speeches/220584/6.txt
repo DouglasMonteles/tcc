@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios. Revisão do pacto federativo e realização da reforma tributária em benefício das municipalidades brasileiras. Queda das receitas municipais. Saudações aos Prefeitos Municipais do Estado da Paraíba presentes no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b2f7f65ac7427c539f47f39db0e577a3e457e410ce85af5076ee4d24e29381f
+size 301

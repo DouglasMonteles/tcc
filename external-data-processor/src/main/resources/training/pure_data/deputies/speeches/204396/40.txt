@@ -1,1 +1,3 @@
-Inclusão da Usina Hidrelétrica de Itaipu e do sistema de transporte público de Curitiba, Estado do Paraná, entre os dez melhores projetos governamentais no contexto mundial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:307bcb4b57caadd0d44512b4a2b18b7b387c3f7d4d5f081396e4f9b6cc6b23e1
+size 177

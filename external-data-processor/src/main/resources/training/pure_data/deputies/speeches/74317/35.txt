@@ -1,1 +1,3 @@
-Apresentação de voto em separado para inclusão da Bacia do Rio Parnaíba na Proposta de Emenda à Constituição nº 524, de 2002, sobre a criação do Fundo de Revitalização Hidroambiental e o Desenvolvimento Sustentável da Bacia do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fcf00c9edf6468e9005ed49323f25581619bf4e275984d8e751cd9030e89953
+size 259

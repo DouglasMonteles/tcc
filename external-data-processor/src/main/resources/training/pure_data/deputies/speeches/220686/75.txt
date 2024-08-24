@@ -1,1 +1,3 @@
-Demissão do jornalista Luiz Lobo da TV Brasil. Ingerência do Governo Federal nos trabalhos da emissora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da833cee712747650d3d28e6da0c4fe6353c84c85cba679f55ae93218a73a5c6
+size 105

@@ -1,1 +1,3 @@
-Apelo ao Governador do Estado de Sergipe por recuperação da malha rodoviária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de67e80c97ac0ef363f7e608419e61c95863ae836ccc8aa6c1017c1c76b258b2
+size 80

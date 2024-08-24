@@ -1,1 +1,3 @@
-Denúncia de crimes e escândalos financeiros supostamente praticados por pré-candidato ao cargo de Prefeito Municipal de Timbaúba, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f27442086d148f09b8c4616694527a67d5350393105d35bb95761c35e5ffaac
+size 155

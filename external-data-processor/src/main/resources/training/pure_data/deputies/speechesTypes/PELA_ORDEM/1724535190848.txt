@@ -1,1 +1,3 @@
-Solicitação à Presidência de cumprimento da pauta, com a apreciação de itens referentes a recursos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5caf05a6e084b823f9fa5c516212fc22b8cab5ab9d6fec9d87c5a308baddb036
+size 105

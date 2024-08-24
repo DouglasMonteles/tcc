@@ -1,1 +1,3 @@
-O eputado discursou na Câmara sobre a recente polêmica envolvendo a empresa 123 Milhas, que suspendeu unilateralmente os pacotes da linha Promo. Em vez de reembolso imediato, a empresa ofereceu aos clientes vouchers parcelados com correção de 150% do CDI. O Parlamentar evidenciou a preocupação com os consumidores que, ao comprar esses pacotes, fizeram outras reservas relacionadas, como hotéis e passeios. Lembrou de situações semelhantes, como o caso da empresa Hotel Urbano, e reforçou que a situação viola o Código de Defesa do Consumidor. Pedro Aihara destacou que o tema será investigado pela CPI das Pirâmides Financeiras e enfatizou o direito constitucional ao lazer dos cidadãos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6a8f91fd0baf2cacb0087cf9663856ee0e839476adcf49de08a3bef98b085b3
+size 717

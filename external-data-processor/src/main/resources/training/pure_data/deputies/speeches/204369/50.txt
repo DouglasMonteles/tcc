@@ -1,1 +1,3 @@
-Indignação da oradora com o encaminhamento ao Supremo Tribunal Federal pelo Ministro da Justiça e Segurança Pública, Flávio Dino, de notícia-crime contra Parlamentares por questionamentos a respeito de sua visita, sem escolta armada, ao Complexo da Maré, reduto de facções criminosas, no Rio de Janeiro, Estado do Rio de Janeiro. Imobilismo do Ministro da Justiça diante das ações do crime organizado no Estado do Rio Grande do Norte. Defesa de sua convocação pela Câmara dos Deputados. Falta de transparência do Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42e70c9d36b1d98f3bd0129b2c5486d0a1319f74126a687b18c78db4c2b273fa
+size 565

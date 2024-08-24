@@ -1,1 +1,3 @@
-Solicitação ao Ministério da Educação de providências para a reversão da crise financeira do Hospital Universitário Clementino Fraga Filho, vinculado à Universidade Federal do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cd2ed7f788a9629c3730f3d5d030b3d053517b7d5c628915fd85b135da885d1
+size 200

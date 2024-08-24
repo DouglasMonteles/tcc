@@ -1,1 +1,3 @@
-Homenagem póstuma ao Monsenhor Jonas Abib, fundador da comunidade católica Canção Nova. Pedido à Presidência de determinação ao Plenário de observância de 1 (um) minuto de silêncio em homenagem ao religioso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:faa39b2abf3bcf6cb1517d7c2ea2f15b2a70ddf299630010a30ffb4a6f7f43cd
+size 218

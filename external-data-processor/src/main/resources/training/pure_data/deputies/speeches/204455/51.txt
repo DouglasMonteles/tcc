@@ -1,1 +1,3 @@
-Discussão do Substitutivo do Senado Federal ao Projeto de Lei nº 510-A, de 2019, sobre alteração da Lei nº 11.340, de 2006, (Lei Maria da Penha), com vista à atribuição aos Juizados de Violência Doméstica e Familiar contra a Mulher da competência para julgamento de ações de divórcio e de dissolução de união estável, a pedido da ofendida, bem como da Lei nº 13.105, de 2015 (Código de Processo Civil).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4162726f89d07008fcdc1b1b419a416b59b144f3bb09eac415cec9efc96247c
+size 422

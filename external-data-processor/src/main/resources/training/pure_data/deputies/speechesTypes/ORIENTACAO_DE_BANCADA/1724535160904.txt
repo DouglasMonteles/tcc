@@ -1,1 +1,3 @@
-Orientação de bancada na  votação do requerimento de destaque para votação em separado da Emenda nº 41.300.010, apresentada ao Projeto de Lei do Congresso Nacional nº 9, de 2020, as diretrizes para a elaboração e a execução da Lei Orçamentária de 2021. Protesto contra a não instalação da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7df85bcae712f0fbbce31a802e4d31a8fe539854248f9ee835244bcd2fba17f5
+size 372

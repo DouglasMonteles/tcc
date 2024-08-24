@@ -1,1 +1,3 @@
-Natureza leviana da iniciativa da Esquerda de apresentação de ações contra o Ministro do Meio Ambiente, Ricardo Salles. Atribuição ao governo da Venezuela e seus cúmplices brasileiros da responsabilidade pelo vazamento de petróleo cru no litoral da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91c3518d63472918a4092f1a3f2578cf7df00178fa74bedcc181d292b1a712c8
+size 274

@@ -1,1 +1,3 @@
-Acerto da determinação judicial de devolução, ao alunato da 8ª Série,  de cartilhas recolhidas pelo Governo do Estado de São Paulo. Apreço dos membros da família Bolsonaro aos regimes ditatoriais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f63b1df1d8e088201b9c6781cd7d6c5cd30cd1ba04bdfb823005a78b0c0086f9
+size 205

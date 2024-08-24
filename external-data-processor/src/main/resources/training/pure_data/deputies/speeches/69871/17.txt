@@ -1,1 +1,3 @@
-Ponderações sobre a Emenda 3 do Senado ao Projeto de Lei de Conversão 16 de 2009 (Medida Provisória 466 de 2009), que dispõe sobre os serviços de energia elétrica nos Sistemas Isolados e dá outras providências, que altera de 12 para 24 meses o prazo para compensação aos Estados e Municípios que vierem a ter redução na arrecadação do ICMS, ocorrida nos vinte e quatro meses subsequentes à interligação dos respectivos Sistemas Isolados ao Sistema Interligado Nacional, a propósito de críticas do Deputado José Carlos Aleluia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5a9f08b61bb59210d18069acc1307777883958cf65d70239a9d9f24503b0a86
+size 548

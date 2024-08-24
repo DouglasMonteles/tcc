@@ -1,1 +1,3 @@
-Anúncio de realização, pela Câmara dos Deputados, de sessão solene em homenagem aos povos indígenas brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aceebecb2dd8d63e780910eed529ecb05a9abfdd18c45168098371868093442a
+size 118

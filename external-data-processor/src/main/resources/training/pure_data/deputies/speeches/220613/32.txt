@@ -1,1 +1,3 @@
-Discrepância entre os eventos Marcha para Jesus e Parada do Orgulho LGBT+, realizados em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:501005c5ed9014d4fb369bda789550789e34bc09c41b8cebc0cdd4549fb255ad
+size 123

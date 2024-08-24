@@ -1,1 +1,3 @@
-Saudação ao Deputado B. Sá, prefeito eleito do Município de Oeiras, Estado do Piauí. Transcurso do 20º aniversário de promulgação da Constituição Federal. Diretrizes do setor de educação contidas na Carta Constitucional. Universalização do acesso ao ensino fundamental no País. Persistência de taxas elevadas de analfabetismo e de reduzido acesso ao ensino médio. Expansão da educação especial no Brasil. Expectativa de melhoramento do ensino técnico profissionalizante. Considerações sobre a reforma universitária. Valorização do magistério. Garantia constitucional de recursos para o setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74a97d626286b19cf2bb3c5dc08461ed15f9b426854cba32f74fa881dc8a1994
+size 632

@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Meio Ambiente. Declaração de 2010 como o Ano Internacional da Biodiversidade, pela Organização das Nações Unidas - ONU. Preservação da biodiversidade no País e no mundo. Importância de aprovação, pelo Parlamento brasileiro, de proposições destinadas à preservação do meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4ae0e06dde58339eb9f44423bca83ebe58ed559e05f41155d58f9e5a3ccee4d
+size 327

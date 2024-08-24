@@ -1,1 +1,3 @@
-Falta de norte ético e programático dos partidos do Centro. Adesão de partido do Centro à base governista. Tentativa de implantação do modelo comunista chinês no Chile. Compra de votos de Parlamentares pelo governo petista. Alerta sobre a implantação de governo totalitário no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fe1ea57a0a719572deea40e69ae5550bfa921a732912e9fa31b995864bada15
+size 294

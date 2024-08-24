@@ -1,1 +1,3 @@
-Cassação do mandato do Prefeito Municipal de Campinas, Estado de São Paulo. Luta de Vereadores e da imprensa locais pelo resgate da moralidade no setor público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:674a4e37deb3b155e3a43db2ed1259322f8571502e48728125ab6cd1a60c763e
+size 164

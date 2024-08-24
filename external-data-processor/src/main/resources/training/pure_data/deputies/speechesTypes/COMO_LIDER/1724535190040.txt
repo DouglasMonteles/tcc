@@ -1,1 +1,3 @@
-Indignação do orador com a postura do Presidente Jair Bolsonaro diante da pandemia de coronavírus. Classificação do Brasil em primeiro lugar no ranking   mundial de contaminação por coronavírus. Descaso do Presidente da República com o desespero e sofrimento do povo brasileiro, diante do colapso dos sistemas de saúde e funerário provocado pela Covid-19. Atraso pelo Ministro da Economia, Paulo Guedes, na execução de medidas de combate à crise gerada pelo coronavírus, aprovadas pelo Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeb9614062e4eba06ebf52d37398ba21f3392b848c292612e32dc2aa50f1225a
+size 520

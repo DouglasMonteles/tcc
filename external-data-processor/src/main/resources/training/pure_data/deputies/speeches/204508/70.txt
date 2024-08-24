@@ -1,1 +1,3 @@
-Importância da aprovação pela Casa do Projeto de Lei nº 1.605, de 2019, acerca da instituição do Estatuto da Pessoa com Câncer. Alcance social do Projeto de Lei nº 6.330, de 2019, relativo à alteração da Lei nº 9.656, de 1998, (Lei dos Planos de Saúde), para ampliação do acesso a tratamentos antineoplásicos domiciliares de uso oral, pelos usuários de planos de assistência à saúde, ressalvado o destaque.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58e109d4da27979f8d5e82a81e158784fca1a59fe8cc376758c1100a84f2e9a1
+size 426

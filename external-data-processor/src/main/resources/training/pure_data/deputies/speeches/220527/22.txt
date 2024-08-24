@@ -1,1 +1,3 @@
-Visita do Ministro da Educação, Camilo Santana, ao Estado do Espírito Santo. Aplausos ao Governador Renato Casagrande pelo reforço da assistência social e contratação de psicólogos para as escolas públicas. Construção da cultura da paz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7be22befdbfbdaabe3d6750b4959cc9cc27d94ba258c01728ccd7569ac543b6f
+size 247

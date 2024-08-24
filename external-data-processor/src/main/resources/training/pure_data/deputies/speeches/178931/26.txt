@@ -1,1 +1,3 @@
-Responsabilidade do Governo Federal pela situação da saúde no Estado do Paraná. Conclamação dos Deputados da bancada paranaense à apresentação ao Ministério da Saúde de reivindicações frutos de consenso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3b7038f343f151028ebf1fe352cfa36aa2ff83b96ad39fa93919147819e78dc
+size 216

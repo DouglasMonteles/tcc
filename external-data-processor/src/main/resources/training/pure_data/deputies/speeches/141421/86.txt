@@ -1,1 +1,3 @@
-Congratulação à Presidenta Dilma Rousseff pelo lançamento de plano para a redução de tarifas de energia elétrica. Encaminhamento de expediente à Presidência da República a respeito do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89592c24eab8693d3c6dbb5a02dfc7358a6c69e7f71d4ab4aa42a1a00566f63a
+size 202

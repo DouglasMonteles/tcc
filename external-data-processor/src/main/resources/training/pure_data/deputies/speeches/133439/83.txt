@@ -1,1 +1,3 @@
-Concordância do PDT com a proposta de procedimento do Líder do Governo, Deputado Arlindo Chinaglia para votação da Medida Provisória 582 de 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee0719849c2df86c3ac7f6813355b74f11aae165f1b2904ff1c42841e9f826a9
+size 150

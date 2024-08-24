@@ -1,1 +1,3 @@
-Ponderações sobre a conveniência do encerramento da presente sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa8d32fa88284c903d550d1af321ee13205205d76523187c9897c25538c613e0
+size 72

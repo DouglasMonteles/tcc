@@ -1,1 +1,3 @@
-Contradição entre o discurso da Deputada Sâmia Bomfim em defesa da democracia e o seu apoiamento à ditadura venezuelana. Falta de condições da Esquerda para pronunciamento em defesa do regime democrático. Defesa, pela Direita, da imunidade material e da Constituição Federal. Repúdio à censura imposta a Parlamentares por membro do Tribunal Superior Eleitoral. Natureza arbitrária da determinação, por Ministro do Supremo Tribunal Federal, do afastamento de Prefeito Municipal por suposta participação em atos antidemocráticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a0ea650d75c87c69428ca9ab0de4c07498af69ae698b8ec16808d7f445b51e1
+size 544

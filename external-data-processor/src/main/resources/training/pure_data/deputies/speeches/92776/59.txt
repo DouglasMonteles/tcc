@@ -1,1 +1,3 @@
-Relevância da erradicação do analfabetismo no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14cb1f6a015028eadc0a98f12558223d8b17785960ce87e585624b49139f7f0f
+size 55

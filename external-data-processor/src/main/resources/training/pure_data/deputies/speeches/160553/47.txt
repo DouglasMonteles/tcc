@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Seguridade Social e Família, do relatório final da Subcomissão Especial destinada ao exame da situação das santas casas de misericórdia, hospitais e entidades filantrópicas na área da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82376b6694999bdf7a76b04bee6af04bca5e34bc3bae2f2cea96ed5a1a4418f2
+size 230

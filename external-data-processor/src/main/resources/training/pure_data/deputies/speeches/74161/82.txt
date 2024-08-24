@@ -1,1 +1,3 @@
-Eleição da Mesa Diretora da Comissão Especial destinada à apresentação de propostas sobre a reforma do Ensino Médio. Pedido à Presidência de votação do projeto acerca da regulamentação da profissão de tecnólogo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:796df77de9b1ada11427a7098b43190cc6f5b504519d365c78eee925bbafef8b
+size 226

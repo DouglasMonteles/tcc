@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a alteração do art. 2º da Lei nº 11.705, de 2008, referente à regulamentação da venda de bebidas alcoólicas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b79944fa0b0e2206c8d6a08d8d09838fad72b0c7c6b40e6be2a1b7986ae902d
+size 164

@@ -1,1 +1,3 @@
-Instalação da Frente Parlamentar em Defesa da Juventude. Expectativa de criação da Comissão Especial destinada à elaboração de propostas de enfrentamento do crack. Divulgação, pelo Ministério da Justiça, do Mapa da Violência no Brasil. Aumento dos casos de gravidez na adolescência, segundo dados do IBGE. Apoio ao Programa Nacional de Inclusão de Jovens - PROJOVEM Urbano. Lançamento, pela Presidenta Dilma Rousseff, do Programa Nacional de Acesso ao Ensino Técnico - PRONATEC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22c4d4c2e470d2afa60074faf4a050d37cca81a06467da3b3596648db117f93a
+size 495

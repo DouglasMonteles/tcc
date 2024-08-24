@@ -1,1 +1,3 @@
-O Deputado abordou a grave situação enfrentada pelos moradores de São Paulo devido às fortes chuvas. Criticou a falta de energia elétrica em muitas áreas da capital, destacando que as pessoas estão sofrendo prejuízos sem receberem compensações adequadas. Responsabilizou a empresa Enel, privatizada pelo Governo Estadual, pelos problemas no fornecimento de energia, enfatizando os altos custos e a precariedade na manutenção. Questionou a postura dos defensores do Estado mínimo diante dessas situações e mencionou a possível privatização da SABESP, CPTM e partes do metrô. Expressou indignação com a má prestação de serviços pelas empresas concessionárias, como a ViaMobilidade nos trens.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cb5e8a286dcf48e5beb7de7cb33a71d3218f2af2b67d09f52fab6de51b5f224
+size 715

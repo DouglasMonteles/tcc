@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Cesar Colnago a respeito do recolhimento do ICMS incidente sobre importações e da distribuição de royalties de petróleo. Necessidade de manifestação do Governo Federal a respeito do tema. Recorde na safra de café no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3b6902e5ccd417474cd2c1887626b62832e3c6b3eef3ff5ec159ce1f0c3d569
+size 293

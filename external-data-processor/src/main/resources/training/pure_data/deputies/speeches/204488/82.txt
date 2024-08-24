@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 1.473, de 2022, acerca da alteração da Lei nº 14.133, de 2021, sobre licitações e contratos administrativos. Defesa da imposição de restrições ao pagamento de cachês milionários a artistas em eventos culturais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64eaf0f8441d0f378732068ec3d99d4503f5b020cb51803aa7337626c0f02852
+size 258

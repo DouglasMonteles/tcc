@@ -1,1 +1,3 @@
-Necrológio do ex-Deputado Federal Mário Lima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d23c57809ab2c029795001387d3472a5cfe055b63e98261b0dfcaad48c64bfb2
+size 47

@@ -1,1 +1,3 @@
-Contestação a pronunciamento do Deputado Darcísio Perondi sobre ocorrência de abusos da Polícia Legislativa na contenção a manifestantes no recinto de reunião da Comissão Especial da Redução da Maioridade, contrários à proposta analisada pelo colegiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9426883fb3ed63469eff219108e1c45eb93ca5ecf578b4d515cbb75dea60ace
+size 266

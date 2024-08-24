@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Substitutivo adotado pela Comissão Especial à Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário,  em primeiro turno, ressalvados os destaques. Apoio à realização da reforma tributária, à revisão do pacto federativo e à desburocratização do arcabouço jurídico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c6addd42ff5f52fad6f20e135233eb919d506ea63f9c0bb80d6400f4a258f90
+size 358

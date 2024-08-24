@@ -1,1 +1,3 @@
-Falecimento dos Profs. Ruy Pires Berger e Antonio Ferreira da Silva, no Estado do Piauí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f25b0e015c26d9eeeb4c786b741dd3cad140b69b87cf7903e2333304bcebb316
+size 89

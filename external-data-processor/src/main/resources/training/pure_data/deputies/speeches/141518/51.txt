@@ -1,1 +1,3 @@
-Esclarecimento acerca de apoio de centrais sindicais ao Projeto de Lei nº 4.246/12. Apoio do Solidariedade à aprovação da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:739f764c53b510ecc123a709aea5193c4f0292e6b34d6dfed34d5b6e96dea10f
+size 139

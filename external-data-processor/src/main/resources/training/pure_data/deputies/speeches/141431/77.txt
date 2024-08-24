@@ -1,1 +1,3 @@
-Geração de novos empregos formais no País. Desafio dos governantes e da iniciativa privada de realização de amplo programa capaz de compatibilização entre planejamento e investimentos, em conformidade com a crescente demanda por insumos e matérias-primas diversificados. Carência de infraestrutura de produção e logística no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:166b6c2f763b890a864df0263e020bf927ed1be0ca584ff1d5199e2806be9bbc
+size 343

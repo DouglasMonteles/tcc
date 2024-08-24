@@ -1,1 +1,3 @@
-Repúdio à atuação da bancada oposicionista na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2040822ee1ff3c44a66ad795f21157afb8218b555de55f42fa7fc4841c13d5a
+size 72

@@ -1,1 +1,3 @@
-Aprovação pela Casa da Medida Provisória nº 996, de 2020, sobre a instituição do Programa Casa Verde e Amarela, destinado à aquisição da casa própria para famílias residentes nas áreas rural e urbana. Estabelecimento de diálogo com o Governo Federal para incrementação do Programa Bolsa Família. Necessidade de inclusão digital dos trabalhadores brasileiros, com vista ao novo mercado de trabalho pós-pandemia. Elogio ao Governo do Estado de São Paulo pela iniciativa de vacinação da população contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb2955a9a36af9b2a905e5418cfe4997978044294fdae73b29519d720416f3df
+size 535

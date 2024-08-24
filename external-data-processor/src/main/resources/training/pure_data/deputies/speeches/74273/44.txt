@@ -1,1 +1,3 @@
-Saúde como direito de todos e dever do Estado. Conveniência de concessão do certificado ISO de qualidade a unidades hospitalares no País. Contribuição das entidades filantrópicas para o sistema de saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:681a0caec727d922c248553cb65d6536354fbdb22e9a83bc179b7ccc0b1a457e
+size 220

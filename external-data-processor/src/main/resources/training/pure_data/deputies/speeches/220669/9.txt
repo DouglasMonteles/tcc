@@ -1,1 +1,3 @@
-O Deputado discursou na Comissão Geral reunida para debater os cuidados paliativos no âmbito do sistema brasileiro de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a492f2434fe515ae88e74327b0026ffbfb02834833500e7b5606a0c2df10d793
+size 127

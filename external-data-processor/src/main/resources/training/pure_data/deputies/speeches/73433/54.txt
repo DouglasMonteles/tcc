@@ -1,1 +1,3 @@
-Leitura de mensagem do Presidente da República a respeito dos 28 anos de fundação do Partido dos Trabalhadores — PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3dd4a51672a48685b336813a7909174ca1bec3482104292fae03bc45d4f594d
+size 121

@@ -1,1 +1,3 @@
-O Deputado manifestou alívio com a ausência de chuvas no Rio Grande do Sul, que sofreu desastres ambientais recentes. Ressaltou o apoio do Governo Federal ao Estado, no entanto, enfatizou a importância de se fortalecer, com planejamento articulado, a Defesa Civil e, ao mesmo tempo, agir na recuperação das matas ciliares. O orador afirmou que esses fenômenos resultam da degradação do meio ambiente em todo o País e instou os entes federados prevenirem tragédias e preservarem os recursos naturais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:083bf012e3ede2e76fca8d794ff28149f5d5780861b9d380feee6a69e73e840b
+size 509

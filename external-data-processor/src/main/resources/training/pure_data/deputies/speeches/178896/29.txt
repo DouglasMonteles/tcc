@@ -1,1 +1,3 @@
-Defesa de aprovação de projeto de lei relativo à autorização de compra de terras brasileiras por grupos estrangeiros. Agenda em Brasília, Distrito Federal, do Prefeito Antonio André Guimarães, do Município de São Gonçalo do Pará, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ce276f8dcee889ef3fcefe71cd455e74e8d35f488d2d97976617d4ba7300492
+size 265

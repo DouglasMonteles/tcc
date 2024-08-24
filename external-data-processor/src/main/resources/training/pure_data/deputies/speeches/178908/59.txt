@@ -1,1 +1,3 @@
-Repúdio a exposições de arte com teor sexual e nudez. Desacordo com ideologia de gênero na sociedade brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da0456582591943bf0ba4b1a50548aff59026a445f8bae4866b97950f1e249fd
+size 116

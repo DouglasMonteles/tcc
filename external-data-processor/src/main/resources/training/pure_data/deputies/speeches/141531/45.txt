@@ -1,1 +1,3 @@
-Preocupação diante da previsão, em estudo realizado pelo INPE, de grande elevação da temperatura no próximo século. Necessidade de realização pelo Governo Federal de investimentos no setor de produção de energia eólica. Demonstração pela Presidenta Dilma Rousseff de incapacidade na gestão do setor energético nacional e de descaso com a preservação ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f934cd08e6683df385a2b77ab4f5bfc1ba521544106b9672129d0e920acbb477
+size 378

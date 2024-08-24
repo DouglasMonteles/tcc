@@ -1,1 +1,3 @@
-Elevados gastos de dinheiro público pelo Presidente Luiz Inácio Lula da Silva em viagens internacionais. Inconsistência do discurso do Presidente da República em defesa da população de baixa renda. Perplexidade ante a declaração do Chefe da Nação sobre a vigência do regime democrático na Venezuela. Repúdio à declaração Aqui no Brasil, nós enfrentamos o discurso do costume, o discurso da família, o discurso do patriotismo, ou seja, aqui nós enfrentamos o discurso de tudo aquilo que a gente aprendeu historicamente a combater, proferida pelo Presidente da República por ocasião da abertura do Foro de São Paulo, organização de partidos políticos de esquerda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2cb1babf14fba6f6bc633e4c3b68d86881f5e8aedf46588c6e5f018d95ca5a2
+size 686

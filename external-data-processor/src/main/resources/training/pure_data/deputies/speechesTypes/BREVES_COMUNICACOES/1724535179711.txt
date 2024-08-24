@@ -1,1 +1,3 @@
-Solicitação à Presidência de início da discussão da matéria em pauta imediatamente após o atingimento do quórum necessário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be638d33a5fb0701dbc808e869abcfe3b28b00b982b622e8cce3d0d04739cce6
+size 133

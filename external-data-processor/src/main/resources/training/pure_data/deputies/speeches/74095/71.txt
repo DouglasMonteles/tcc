@@ -1,1 +1,3 @@
-Defesa de votação da proposta de criação do novo Código Florestal brasileiro. Posicionamento do orador contrário às Áreas de Preservação Permanentes - APPs nas margens dos rios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72274ffb278e3f1325074bfa2c5113a614c439e4974c022cf0020d6a2380e3f8
+size 187

@@ -1,1 +1,3 @@
-Apelo aos Ministros do Supremo Tribunal Federal de rejeição da Arguição de Descumprimento de Preceito Fundamental - ADPF nº 442, acerca da interrupção voluntária da gravidez até a 12ª semana de gestação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17b20d315fd74f3d594e0cc7799bf85f56c0b4b513ec26a94e66076bc849d27e
+size 215

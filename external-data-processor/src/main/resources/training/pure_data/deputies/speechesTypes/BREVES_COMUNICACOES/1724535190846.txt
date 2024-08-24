@@ -1,1 +1,3 @@
-O Deputado expressou sua gratidão por representar sua região, a Região Bragantina e o Circuito das Águas, no Parlamento. Agradeceu à sua família, especialmente à sua esposa, destacando seu papel fundamental em sua jornada política. Lembrou de seu pai, em memória. Agradeceu às filhas e mencionou a importância de estar próximo delas, mesmo com as responsabilidades parlamentares. Agradeceu ao seu partido, o PSD, e às lideranças políticas e comunitárias que o apoiaram, incluindo prefeitos e vereadores de várias cidades. Destacou seu compromisso em dar continuidade ao legado do ex-Deputado Roberto Santiago, a quem considera um grande mestre e amigo. O orador fez agradecimentos finais à população de Atibaia por tê-lo projetado na política e permitido representar a chamada Capital Nacional do Morango.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45c10d1448ceb2069d878af2a219ebb50a2b27a5d8df429f588abb62b0b1c76b
+size 827

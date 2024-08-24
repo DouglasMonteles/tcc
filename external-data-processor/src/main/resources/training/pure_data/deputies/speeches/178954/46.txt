@@ -1,1 +1,3 @@
-Congratulações aos Parlamentares pela aprovação da Medida Provisória nº 759, de 2016, sobre a regularização fundiária rural e urbana, não obstante a obstrução das votações pelos partidos oposicionistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ab772a8a252fd21839f16179de9d26fa41207976f30a7eefedceb5141bdc0b8
+size 216

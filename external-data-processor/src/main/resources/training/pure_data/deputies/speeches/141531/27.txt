@@ -1,1 +1,3 @@
-Homenagem ao médico sanitarista e ambientalista Apolo Heringer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63f9ecec4ef1f7d4c0e3e1cf0ecb4386ca63ddff98aed48b54c260b1aaf78c38
+size 64

@@ -1,1 +1,3 @@
-Combate ao racismo no País e no mundo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:889114bd493e41856d57911f66c41e326158179260f747168eb54a704e151176
+size 39

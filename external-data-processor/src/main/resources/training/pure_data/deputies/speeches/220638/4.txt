@@ -1,1 +1,3 @@
-Eleição do Deputado André do Prado para a Presidência da Mesa Diretora da Assembleia Legislativa do Estado de São Paulo. Posse dos novos Deputados Estaduais de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a175535384a2d5adf4d025857ce993884b8cc4d897ac4d1fdf324f95a0afe87e
+size 176

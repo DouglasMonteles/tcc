@@ -1,1 +1,3 @@
-Presença na Casa de alunos do Colégio São Luís, da cidade de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:070ba0102e60654e6aebe3d1804f1558004ca17193d01bade4f31adf62959ef7
+size 76

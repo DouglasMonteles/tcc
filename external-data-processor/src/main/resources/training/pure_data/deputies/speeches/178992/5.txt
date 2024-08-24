@@ -1,1 +1,3 @@
-Homenagens do orador ao Município de Piedade, maior produtor de hortaliças do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccc1988657e0edd53431cfd48c82c645139da12743f7c16c86cc0f56d89b22f0
+size 101

@@ -1,1 +1,3 @@
-Encontro do orador com o Secretário Nacional de Defesa Civil, Alexandre Lucas, para discussão de demandas dos Municípios de Formosa de Serra Negra, Bacurituba e Boa Vista do Gurupi, Estado do Maranhão. Urgente necessidade de suplementação orçamentária da Defesa Civil Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0f6da1c9321bbcd4ee8187893d570d574eb50925d6451c649959da40a0d6824
+size 285

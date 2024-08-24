@@ -1,1 +1,3 @@
-Conclusão da composição da chapa do Deputado Geddel Vieira Lima ao Governo do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ba483c0e8d2b082d21f16ae8c55ac20b0d858a2d8c3b1754441a368a9a344a5
+size 97

@@ -1,1 +1,3 @@
-Relato de projetos demonstrativos de uso consciente dos recursos hídricos, por ocasião do transcurso do Dia Mundial da Água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ca7e55158346a74a5cdb21efe9f49c1133aec87cb7c467c50e4ca6752f6633b
+size 127

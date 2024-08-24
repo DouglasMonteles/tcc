@@ -1,1 +1,3 @@
-Pedido à Presidência de votação da Medida Provisória nº 759, de 2016, acerca da regularização fundiária rural e urbana. Solicitação aos Deputados de comparecimento ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65a4df668ffd0acb5a707d0e9e60aaacb69e8c96e8db14dc6148891372e5cfff
+size 188

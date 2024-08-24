@@ -1,1 +1,3 @@
-Inadmissibilidade de cerceamento às críticas dos Parlamentares ao Supremo Tribunal Federal. Contrariedade à eventual legalização, pela Suprema Corte, do consumo de drogas no País. Necessidade de manifestação do Presidente Arthur Lira em defesa da prerrogativa legiferante do Parlamento brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:537ce0149a9ccf45ce0199c7f51ffcd5c9ce0f2a4598f35eebb82a9bf1ec5b03
+size 305

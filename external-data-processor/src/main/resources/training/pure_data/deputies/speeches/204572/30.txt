@@ -1,1 +1,3 @@
-Convite à população brasileira de participação em manifestações em defesa da aprovação de medidas de interesse do País pelo Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55c924c5b38d3a9d54ec8debeed37aa8162851c9dad6426d5a4095673ca03d8e
+size 153

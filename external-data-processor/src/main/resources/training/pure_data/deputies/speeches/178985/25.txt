@@ -1,1 +1,3 @@
-Expectativa de êxito do Programa Criança Feliz, do Governo Federal, como meio de aperfeiçoamento do programa Bolsa Família. Importância da adesão dos Municípios ao programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70183a7f443ecfdc68e514d0d0868eae4deebcb9d80643c292117d4ed6681a0e
+size 180

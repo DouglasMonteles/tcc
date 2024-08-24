@@ -1,1 +1,3 @@
-Indignação do orador com a determinação do Presidente Luiz Inácio Lula da Silva de desintrusão da Terra Indígena Alto Rio Guamá, no Município de Nova Esperança do Piriá, Estado do Pará. Defesa de prisão do Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b01b80c70b29ed4ff9da633ac48a1d0fc175fad7d947ff914de9cd2ad05d47d1
+size 244

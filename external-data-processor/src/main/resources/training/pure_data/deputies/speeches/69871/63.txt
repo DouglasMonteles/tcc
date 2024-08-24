@@ -1,1 +1,3 @@
-Contentamento com a rejeição do chamado voto distritão. Inconveniência da votação da reforma política. Anseio popular por saúde, educação e equilíbrio econômico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91d49a0d75997f6d73bb958675c950a3c806e66423fc6740d02cda0a6a5bd22d
+size 173

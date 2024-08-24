@@ -1,1 +1,3 @@
-A Deputada revelou que a BYD produzirá carros híbridos e elétricos em Camaçari (BA), em 2025, e agradeceu ao Governador Jerônimo Rodrigues e ao Presidente Lula, enfatizando a retomada da credibilidade e geração de empregos no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75a3218d2b9ca5b9dee53c5665c776d92768b1a31ea0a05ac9c6e9c62fd8f855
+size 240

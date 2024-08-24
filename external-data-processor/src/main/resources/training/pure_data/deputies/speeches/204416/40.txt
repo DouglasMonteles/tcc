@@ -1,1 +1,3 @@
-Discussão do Projeto de Decreto Legislativo nº 273-B, de 2019, sobre a aprovação do texto do Acordo acerca dos Serviços Aéreos entre o Governo da República Federativa do Brasil e o Governo da República da Turquia, assinado em Colombo, em 5 de dezembro de 2017.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceb17f43f10d2106ac1e2451563b92c63fe8124876898490027fcbe3535c3be1
+size 268

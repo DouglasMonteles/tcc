@@ -1,1 +1,3 @@
-Anúncio de votação, pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, de medida provisória que abre crédito extraordinário em favor dos Ministérios dos Transportes e da Integração Nacional, para atendimento das necessidades das populações atingidas por enchentes na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acbc4ea5bbb7cdc07d8d9a7270e4929b8fddc020c471d1972b975369746ee47b
+size 316

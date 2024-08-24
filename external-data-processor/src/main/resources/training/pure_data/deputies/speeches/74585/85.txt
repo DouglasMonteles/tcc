@@ -1,1 +1,3 @@
-Saudação ao Deputado Marcio Marinho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49d0765f6421f04996b718667a809f9545629b4b0f73c845246103995d09856c
+size 38

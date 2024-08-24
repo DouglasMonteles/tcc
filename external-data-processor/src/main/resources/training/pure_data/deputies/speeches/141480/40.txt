@@ -1,1 +1,3 @@
-Transcurso do 23º aniversário de criação dos Estados do Tocantins, Amapá e Roraima. Compromisso de atuação parlamentar em defesa do desenvolvimento do Tocantins. Realização pela Casa de exposição sobre o povo tocantinense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eb34656f7b2998ee132acecfc7cd305f056f2fe43ec0cc280d47ea8fa752476
+size 233

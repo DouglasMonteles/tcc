@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei Complementar nº 416, de 2008, sobre os procedimentos para a criação, incorporação, fusão e desmembramento de Municípios. Aprovação, pela Assembleia Legislativa do Estado do Ceará, de proposta acerca da emancipação de Municípios. Anúncio de reunião com o Presidente Marco Maia para debate do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6952eab9db058508df7f3457e38612db6acb3761d331999f3c50eb20871e0dab
+size 351

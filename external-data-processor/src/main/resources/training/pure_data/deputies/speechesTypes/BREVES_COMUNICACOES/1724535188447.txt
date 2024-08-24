@@ -1,1 +1,3 @@
-Solidariedade ao discurso proferido pelo Deputado Chico Alencar acerca de ameaças de morte contra o Deputado Estadual Marcelo Freixo, do Estado do Rio de Janeiro. Enfrentamento ao crime organizado no País. Conveniência de averiguação, pelo Conselho Nacional de Justiça, das medidas tomadas pelo Presidente do Tribunal de Justiça do Estado do Rio de Janeiro para a segurança da Juíza Patrícia Lourival Acioli, vitimada em atentado na cidade fluminense de Niterói.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d0e4ba9af459479db1c715bd4c9abfc5f35bcd08885ed19d3a0bea2235c9ff2
+size 473

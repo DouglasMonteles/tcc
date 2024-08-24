@@ -1,1 +1,3 @@
-Relato de viagem oficial do orador à República de Belarus, para participação em debates sobre assuntos econômicos e culturais de interesse do país e do Brasil, e à Rússia, para participação no IV Fórum Parlamentar Internacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7519393913c86dcc03a0cfa65bd516598de581d681cd23c522d6f52e33e8d9d2
+size 239

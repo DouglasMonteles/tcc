@@ -1,1 +1,3 @@
-Questiona  forma inusitada da apensação do Projeto de Lei  4.284 de 2008 (Altera dispositivos do Decreto-Lei 3.689 de 1941 - Código de Processo Penal, relativos à investigação criminal, e dá outras providências), ao Projeto de Lei 4.209 de 2001, já com  a discussão encerrada na Comissão de Segurança Pública e Combate ao Crime Organizado, pronto para ser votado naquela Comissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf2b7caf7f42027620c5f8f7e43e7a9edb15a2d605f4077aa21eaad31e044936
+size 394

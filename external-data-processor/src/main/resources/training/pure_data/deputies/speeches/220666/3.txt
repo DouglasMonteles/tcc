@@ -1,1 +1,3 @@
-Confirmação pelo Ministro da Defesa, José Múcio Monteiro, do início das obras de instalação da Escola de Sargentos do Exército, no Campo de Instrução Marechal Newton Cavalcanti, no Município de Araçoiaba, Estado de Pernambuco. Comemoração pelo orador do Dia das Mães ao lado da sua genitora e da sua sogra, respectivamente, Terezinha Jesus da Silva Meira e Zenaide Andrade Lima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cab0e91359589b6fae0eb777ea1ce9b049d1ba83de17ee25134c393fe4b16981
+size 393

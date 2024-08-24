@@ -1,1 +1,3 @@
-Defesa da regulamentação do processo de criação de novas municipalidades ante a experiência exitosa dos Distritos emancipados e atuais Municípios de Limeira do Oeste, Carneirinho e União de Minas, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:124cc4f87cfcfa064a116a984b976c9897f3ae3115cff38f5b207c60dc350455
+size 227

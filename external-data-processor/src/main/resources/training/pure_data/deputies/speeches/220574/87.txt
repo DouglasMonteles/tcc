@@ -1,1 +1,3 @@
-Apelo aos partidos políticos de indicação dos membros da CPMI destinada à investigação de atos de vandalismo praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca0a38105161828f3ade7e3377bc67cfc13af5c537892aa14e5089e77faa9100
+size 168

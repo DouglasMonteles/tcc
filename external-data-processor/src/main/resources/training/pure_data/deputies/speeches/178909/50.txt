@@ -1,1 +1,3 @@
-Apoio à aprovação da Proposta de Emenda à Constituição nº 443, de 2009, que fixa parâmetros para a remuneração dos advogados públicos. Importância da inauguração da Escola de Ensino Fundamental do Serviço Social do Comércio - SESC no Município de Castanhal, Estado do Pará. Participação do orador na 88ª edição do Círio de Santa Isabel do Macapazinho, no Município de Castanhal. Regozijo com pesquisa sobre a importância das emendas parlamentares para o crescimento do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed23d4666b11185c79e4c03f9eea16ddc38066e1f4157675b4b0248c5914d2ae
+size 502

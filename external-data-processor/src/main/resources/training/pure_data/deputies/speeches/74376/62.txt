@@ -1,1 +1,3 @@
-Artigo El Último Encuentro con Lula, subscrito pelo ex-Presidente de Cuba, Fidel Castro, veiculado pelo site do Partido dos Trabalhadores - PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbb29753bbf451abc68cd028aaf55e824d817c9b031361db8b1dd3fafada96de
+size 144

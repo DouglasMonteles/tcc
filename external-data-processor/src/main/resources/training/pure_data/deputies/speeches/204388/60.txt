@@ -1,1 +1,3 @@
-Razão do apoio do orador ao corte de recursos orçamentários destinados à educação pública. Repúdio à gestão educacional petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe833eac1cf2a7ee5dd83be3584972a77ee24e89227a68870b9c3cd320e86d91
+size 138

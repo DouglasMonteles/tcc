@@ -1,1 +1,3 @@
-Dados sobre a atividade agropecuária e a legislação ambiental no País. Medidas necessárias para incremento do agronegócio brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2917aa48075be37e08ed733a318ca408fbd8670064f117f39378be38747681ea
+size 139

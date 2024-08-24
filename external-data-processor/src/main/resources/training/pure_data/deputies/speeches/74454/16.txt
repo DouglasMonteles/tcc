@@ -1,1 +1,3 @@
-Necrológio do diretor-presidente do Grupo de Comunicação O Povo, Demócrito Rocha Dummar. Avanço da dengue no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53016662a722e80f35cfdb6f8ed7efcc8a4fce92be80e9de8ea1961e0557d2c8
+size 120

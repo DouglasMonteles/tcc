@@ -1,1 +1,3 @@
-Repúdio às críticas da imprensa e da Oposição ao Ministro da Educação, Ricardo Vélez Rodríguez.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f052462810b90635f5724c8db42c0539abded41f0701d29de7c47ece131a370c
+size 104

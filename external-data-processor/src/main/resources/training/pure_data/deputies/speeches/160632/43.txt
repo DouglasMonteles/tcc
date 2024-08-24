@@ -1,1 +1,3 @@
-Apoio a reivindicações dos funcionários da Empresa de Assistência Técnica e Extensão Rural do Estado de Minas Gerais - EMATER/MG. Realização da assembleia-geral da Associação Brasileira de Assistência Técnica e Extensão Rural - ASBRAER, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f99c3c248ec38ca9922f8a57455ad850bdd21e69818cd4fd80cae977f822cbc3
+size 281

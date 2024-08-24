@@ -1,1 +1,3 @@
-Importância do apoio aos artistas plásticos brasileiros. Desenvolvimento de técnica de entalhe em azulejo pelo artista plástico gaúcho Fernando Zancanella.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f36d709e94fccf8bf176023069df5521600203f8b6a92de8bf5e115ce360cb72
+size 160

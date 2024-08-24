@@ -1,1 +1,3 @@
-O Parlamentar concordou com as críticas do Deputado Otoni de Paula à gestão do ensino público municipal do Rio de Janeiro e mostrou dados que comprovariam abandono e exclusão dos profissionais de apoio à educação especial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65091669515839f609345f73b18110e8e7354d1f11c4670e1941478bcaa64746
+size 230

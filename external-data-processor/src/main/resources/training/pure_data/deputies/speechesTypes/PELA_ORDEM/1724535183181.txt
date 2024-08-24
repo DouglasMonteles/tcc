@@ -1,1 +1,3 @@
-O Deputado esclareceu que era contra a moção de repúdio ao Estado de Israel e solicitou à Presidência que revisasse a votação desse requerimento. Em seguida, solicitou à Presidência a instalação de Comissão Especial para análise da Proposta de Emenda à Constituição n º 5, de 2023, que acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90f37be27a3c2590b40e5ed3281f4dfe073410f561e7b1305790ca7ebf7f34dd
+size 466

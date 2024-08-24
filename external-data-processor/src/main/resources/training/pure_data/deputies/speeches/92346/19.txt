@@ -1,1 +1,3 @@
-Solicitação à Presidência de divulgação, nos órgãos de comunicação da Casa, de pronunciamento anterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77607a90466778b225a09ab25e0ec2f79cf6cc49dac9a85aa87fd90eead0a42c
+size 113

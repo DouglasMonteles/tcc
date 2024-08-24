@@ -1,1 +1,3 @@
-Concordância do DEM com a leitura do parecer à Medida Provisória  521  de 2010 (Altera a Lei   6.932 de 1981, que dispõe sobre as atividades do médico-residente e prorroga o prazo de pagamento da Gratificação de Representação de Gabinete e da Gratificação Temporária para os servidores ou empregados requisitados pela Advocacia-Geral da União) na presente sessão e o adiamento da discussão da matéria para possibilitar negociações a respeito de  dispositivos introduzidos no Projeto de Lei de Conversão, pela Relatora, que tratam do Regime Diferenciado de Contratações - RDC, que flexibiliza a Lei de Licitações para obras referentes às Olimpíadas, Paraolimpíadas, Copa das Confederações e Copa do Mundo de futebol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3b40088433f269329074367e9908466fd8fe7aafc346d1500a54f78a8781559
+size 743

@@ -1,1 +1,3 @@
-Transcurso dos aniversários de criação das Cidades-Satélites do Riacho Fundo I, do Varjão e Águas Claras, no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:657b84a26272f890888ba878ecb3f8aaddb7222a720f04636107278d2d296089
+size 132

@@ -1,1 +1,3 @@
-Ressalvas à gestão do Ministro da Educação. Inconsistência de pronunciamentos da Oposição, especialmente do PT, sobre o corte de recursos orçamentários da área educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9af0f5cf36ee45f385f909d3e5b42ab832f0916228b549da3ca0b3feac16e9b
+size 182

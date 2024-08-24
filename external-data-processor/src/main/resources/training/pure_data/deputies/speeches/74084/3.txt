@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3.453, de 2021, sobre a alteração de dispositivo da Lei nº 8.038, de 1990, relativa à instituição de normas procedimentais para os processos especificados, perante o Superior Tribunal de Justiça e o Supremo Tribunal Federal; bem como a alteração do Código de Processo Penal para deliberação sobre o resultado de julgamento em órgãos colegiados e a concessão de habeas corpus de ofício. Transcurso do 98º aniversário natalício do Pastor Firmino Gouveia, da Igreja Evangélica Assembleia de Deus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3b9aee458fb7fc2f54eb984899ff826de048a1ca970703ec6ed9b93d05dca61
+size 627

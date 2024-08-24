@@ -1,1 +1,3 @@
-Solicitação ao Governo Federal de liberação de recursos ao Estado da Paraíba para atendimento às populações atingidas pelas chuvas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b18c64c6879c88481a349ae27dd41f29f20bcf361cf110abb21d3fbb84c6c84
+size 139

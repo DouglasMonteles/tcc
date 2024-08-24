@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Decreto Legislativo nº 859-B, de 2017, sobre a aprovação do texto do Protocolo Adicional ao Tratado de Amizade, Cooperação e Consulta entre a República Federativa do Brasil e a República Portuguesa, acerca da criação do Prêmio Monteiro Lobato de Literatura para a Infância e a Juventude, assinado em Salvador, Estado da Bahia. Participação do orador na comitiva do Ministro da Infraestrutura, Tarcísio Gomes de Freitas, em visita às obras da BR-447 e na inauguração do contorno rodoviário do Município de Iconha, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c076b18aa2033a865651721f93a23ce5f1895c3b80fd71b63c8e52d243fe2a5
+size 609

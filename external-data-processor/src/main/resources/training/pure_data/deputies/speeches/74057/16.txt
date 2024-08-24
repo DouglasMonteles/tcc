@@ -1,1 +1,3 @@
-Pedido ao Ministro do Planejamento, Orçamento e Gestão, Paulo Bernardo, de correção da medida provisória acerca da concessão de reajustes salariais aos servidores públicos, na parte relativa aos policiais rodoviários federais, para ajustá-la ao acordo celebrado entre o Governo e a categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9955c9aceb5ebb1b92739c17ff2f19873a4c803ba2830bb2162697cf4dcfab7
+size 301

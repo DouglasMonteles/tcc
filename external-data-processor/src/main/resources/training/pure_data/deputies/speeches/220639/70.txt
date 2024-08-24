@@ -1,1 +1,3 @@
-O Deputado relembrou o golpe militar de 1973 no Chile, quando as Forças Armadas, com apoio dos EUA, derrubaram o governo eleito de Salvador Allende. Destacou a brutalidade da ditadura chilena, mencionando o Estádio Nacional transformado em campo de concentração e a resistência de Allende. Compartilhou as últimas palavras do líder chileno e destacou a importância de memória e reparação. Concluiu reforçando a necessidade de não permitir novas ditaduras tanto no Chile quanto no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:729275ac698f1d04802a186790ac8d311810bde1eaa8a9b7d4737d7030814a9b
+size 500

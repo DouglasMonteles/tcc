@@ -1,1 +1,3 @@
-Desempenho do PCdoB nas eleições municipais no Estado da Bahia. Apoio à candidatura de Walter Pinheiro, na disputa eleitoral em segundo turno para a Prefeitura Municipal de Salvador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b2c0e005d6c33996b3145f68b1e108c1ce8cc3e42df200c65d4d140048a78c7
+size 185

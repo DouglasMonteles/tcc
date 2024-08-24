@@ -1,1 +1,3 @@
-Compromisso de votação de segmento do Partido Progressista em favor da aprovação do impeachment da Presidente da República, Dilma Rousseff. Divulgação pelo do Tribunal de Contas da União - TCU de irregularidades no programa de reforma agrária do Instituto Nacional de Colonização e Reforma Agrária - INCRA. Irregularidade no pagamento do Programa Bolsa Família. Críticas às intervenções, por parte do Governo, no setor elétrico e na PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79037ff2a42e9dcce665eeb2e137793d19bb5229ab1f95175108b8fd2db4f281
+size 461

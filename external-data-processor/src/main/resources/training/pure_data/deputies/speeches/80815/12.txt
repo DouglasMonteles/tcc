@@ -1,1 +1,3 @@
-Agradecimento ao Deputado Marangoni, Relator da Medida Provisória nº 1.162, de 2023, relativa ao restabelecimento do Programa Minha Casa, Minha Vida, pelo acatamento das emendas de autoria do orador sobre a inclusão digital dos conjuntos residenciais construídos por meio do Programa Minha Casa, Minha Vida; e sobre a inclusão de pequenas municipalidades com até 50 mil habitantes no bojo da Medida Provisória nº 1.162, de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca3d40f02d55e638d87753b253aedd529ae1d05819a0754089eafa7073de886f
+size 436

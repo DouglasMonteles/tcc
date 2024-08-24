@@ -1,1 +1,3 @@
-Defesa da aprovação da Emenda de Plenário nº 14 apresentada ao Projeto de Lei Complementar nº 17, de 2022, sobre o estabelecimento de normas gerais relativas a direitos, garantias e deveres do contribuinte, principalmente quanto a sua interação perante a Fazenda Pública e sobre a disposição de critérios para a responsabilidade tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e66e467220a10a9f047b3ffea1518fc3b6289493adc349427f2907cec2ef5b7
+size 352

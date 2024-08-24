@@ -1,1 +1,3 @@
-Necessidade de adoção de medidas governamentais contra o aumento da inflação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be718f604eeda37b6fe42e858617637e7ebad8bcc4c6a722885e23fb9d2b3d6c
+size 81

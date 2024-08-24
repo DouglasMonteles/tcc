@@ -1,1 +1,3 @@
-Considerações sobre os modelos de Zonas de Processamento de Exportação - ZPEs existentes na República Popular da China e nos Estados Unidos da América, a propósito da votação da Medida Provisória 418 de 2008 (Altera as Leis 11.508 de 2007, que dispõe sobre o Regime Tributário, Cambial e Administrativo das Zonas de Processamento  de Exportação - ZPEs e 8.256 de 1991, que cria Áreas de Livre Comércio nos Municípios de Pacaraima e Bonfim, no Estado de Roraima e dá outras providências). Conveniência de adoção pelo Brasil dos referidos modelos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10dc5a30384714796c65286fe68f97acd44813bed6bdc603b12358db2c1f5db5
+size 567

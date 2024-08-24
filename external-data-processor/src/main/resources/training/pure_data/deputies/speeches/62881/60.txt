@@ -1,1 +1,3 @@
-Transcurso do 286º aniversário de fundação de Fortaleza, Estado do Ceará. Dificuldades enfrentadas pela Capital cearense, especialmente nas áreas de educação, saúde e segurança pública. Urbanização do Rio Maranguapinho com recursos do Programa de Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a5fd696fb3cedc7f92b178f6d7361eeeac72f7c221f2b3dc1ac22a21cbe6701
+size 294

@@ -1,1 +1,3 @@
-Defesa da aprovação da Proposta de Emenda à Constituição nº 443, de 2009, que fixa parâmetros para a remuneração de advogados públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:097380d305b56363c59d3991a039a3707871b954fb477e7de473e0bd5a2022ae
+size 145

@@ -1,1 +1,3 @@
-Apoio à libertação de pessoas presas injustamente pelos atos de vandalismo ocorridos nas sedes do Poderes da República no dia 8 de janeiro de 2023. Pedido aos Parlamentares de apoio para a criação de CPMI destinada à investigação das responsabilidades pelos atos ocorridos na Praça dos Três Poderes. Protesto contra o sigilo imposto sobre as imagens captadas pelas câmaras do Palácio do Planalto durante o ocorrido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73b8784f6725822dfb0441083630be3db70e02ec2770bf38f06e3f25c070bb8f
+size 428

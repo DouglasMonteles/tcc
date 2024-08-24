@@ -1,1 +1,3 @@
-Transcurso do Dia do Radialista. Saudação à categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ed50519d7911b67aeaea7fa01b3bfe390bf3b47e8f5addb86ce9f8588dc5f6a
+size 57

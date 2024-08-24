@@ -1,1 +1,3 @@
-Exigência a Deputados de respeito à honra do ex-Presidente Jair Bolsonaro. Apresentação de requerimento de apreciação em regime de urgência do Projeto de Lei nº 490, de 2007, sobre a alteração da Lei nº 6.001, de 1973, acerca do Estatuto do Índio. Tentativa da Esquerda de ampliação de conflitos entre indígenas e produtores rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:749a6a1d005bd74165a558019fecc4c4e9ea839743e9c7bd126064e348d066db
+size 347

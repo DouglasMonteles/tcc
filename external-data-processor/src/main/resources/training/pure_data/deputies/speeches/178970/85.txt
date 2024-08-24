@@ -1,1 +1,3 @@
-Nota da CUT contra a redução da maioridade penal. Artigo intitulado Brasil reduz 37% do trabalho infantil e 64% da evasão escolar, publicado no Portal Brasil, sobre o relatório do Fundo das Nações Unidas para a Infância - UNICEF, ao ensejo do transcurso do 25º aniversário de promulgação do Estatuto da Criança e do Adolescente. Congratulação ao Governo do Estado de Sergipe pela abertura da Formação Continuada de Educadores da terceira edição do Programa PROJOVEM Campo - Saberes da Terra. Lançamento na Assembleia Legislativa do Estado de Sergipe da Frente Parlamentar Mista pela Educação no Campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6a4f1f07e6acc4a52b8c5221e73c831d76b8639159b41bbc0cb7fa039841bd4
+size 622

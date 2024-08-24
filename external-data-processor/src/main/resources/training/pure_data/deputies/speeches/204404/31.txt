@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 28, apresentada ao Projeto de Lei Complementar nº 101, de 2020, acerca da instituição do Programa de Acompanhamento e Transparência Fiscal; do Plano de Promoção do Equilíbrio Fiscal, e da alteração de diplomas legais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0699675e059f15c1a1d1650ccce764487c03bbac48e03896bda5a02fb82213b7
+size 345

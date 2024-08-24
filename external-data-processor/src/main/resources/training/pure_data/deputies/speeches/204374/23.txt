@@ -1,1 +1,3 @@
-Homenagem à memória da Princesa Isabel, patrona da abolição da escravatura no Brasil. Importância de extinção das desigualdades raciais e de gênero no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5be29983f9768400da80f536c901353a3a5d2ff920bcbe2dd67029115f6abe3
+size 165

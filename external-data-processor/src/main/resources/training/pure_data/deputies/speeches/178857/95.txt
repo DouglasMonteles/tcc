@@ -1,1 +1,3 @@
-Ocupação pelo movimento estudantil de escolas, universidades e institutos federais, em protesto contra a Proposta de Emenda à Constituição nº 241, de 2016, sobre a instituição do Novo Regime Fiscal. Indignação com a redução dos gastos públicos com políticas sociais em caso de aprovação da proposta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd2db72d74355f449fac1456f8b483b2566014bcfd2e0970ca2a05fd94c423f4
+size 315

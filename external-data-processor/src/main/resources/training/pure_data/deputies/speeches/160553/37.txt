@@ -1,1 +1,3 @@
-Instalação da Frente Parlamentar pela Luta contra a Tuberculose.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f38f1c05a9be240fb9cdc5c17b7302d085db974c9bed30ce056ddcc5f8b14c19
+size 66

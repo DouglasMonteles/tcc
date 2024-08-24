@@ -1,1 +1,3 @@
-Votos de boa gestão no Ministério da Pesca e Aquicultura ao Senador Marcelo Crivella.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b9392a5b4436a241827b079b95d857a9ac34694d304c0a16687eab9f905996e
+size 87

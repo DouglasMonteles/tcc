@@ -1,1 +1,3 @@
-Rejeição pela Casa da Proposta de Emenda à Constituição nº 135, de 2019, sobre a obrigatoriedade de emissão de cédulas físicas de votação em eleições, plebiscitos e referendos (voto impresso).
+version https://git-lfs.github.com/spec/v1
+oid sha256:007bd6b1600874cf5305ddf56a5f09219ac03af66d5cbeca48b54224cce2eb62
+size 205

@@ -1,1 +1,3 @@
-Congratulações ao Deputado Fernando Francischini pelo ajuizamento de ação popular contra a Presidente da República, o Ministro da Justiça e a União, para manutenção da cadeia de comando na Polícia Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7382c9f698dd0eb6665dddf53dda79ac82da562026096a4fdd77d7e311fb30e9
+size 215

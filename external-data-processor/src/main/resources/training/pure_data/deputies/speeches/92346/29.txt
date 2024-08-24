@@ -1,1 +1,3 @@
-Matéria do jornal O Globo sobre mensagens de Whatsapp de Deputados petistas. Elogios ao Diretor-Geral da Polícia Federal, Leandro Daiello, pela condução das investigações na Operação Lava-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8d82567c5cbb40b38dc7b58b4e1e2845fb7ca0cc1e18393e7499a7368913239
+size 201

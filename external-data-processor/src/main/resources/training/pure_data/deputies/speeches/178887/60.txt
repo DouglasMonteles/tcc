@@ -1,1 +1,3 @@
-Participação em reunião no Ministério da Ciência, Tecnologia e Inovação sobre a construção de rede de Internet a cabo para a Região Metropolitana de São Luís, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a66e5e43d8666f173b2ec134545ee5cb817298d81cf0364eda32593b5cf8a4a
+size 191

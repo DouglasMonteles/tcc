@@ -1,1 +1,3 @@
-Saudações aos professores do Estado de Minas Gerais, presentes nas galerias do plenário. Apelo ao Governador Antonio Anastasia de abertura de negociações com representantes da categoria em greve.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5670ec576bbfa6d404fad619d24f571138dc692089dafe861951c60a0da365af
+size 200

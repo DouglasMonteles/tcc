@@ -1,1 +1,3 @@
-Transcurso do centenário da instalação da Igreja Evangélica Assembleia de Deus no Estado da Bahia. Saudações aos pastores, evangelistas, missionários e seus familiares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01dee3b30f63730e7acdab9cedf47c8262f6b8d189f55e2abdc5cc4d53dad310
+size 175

@@ -1,1 +1,3 @@
-Apoio a posicionamento da Confederação Nacional dos Bispos do Brasil - CNBB contra a redução da maioridade penal. Saudação ao Papa Francisco pela publicação da Encíclica Louvado Seja, sobre a necessidade de mudanças na relação da humanidade com o meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0310f3ebc2cd0ff1410956302c05028e4423b4b375f0087be96bd8ca64ca9efb
+size 273

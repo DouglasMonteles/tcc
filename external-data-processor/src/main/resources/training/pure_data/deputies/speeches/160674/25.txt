@@ -1,1 +1,3 @@
-Repúdio à atuação da entidade Cruz Vermelha como gestora do Hospital de Emergência e Trauma Senador Humberto Lucena, sediado em João Pessoa, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77fe8a02c278af68106f59971d700a2bf1687c43df42098871b9722213d69163
+size 166

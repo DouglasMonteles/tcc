@@ -1,1 +1,3 @@
-Apelo aos Ministérios das Cidades e da Integração Nacional e à Secretária Nacional de Proteção e Defesa Civil, por adoção de providências acerca de danos causados pela ressaca no mar em Municípios do Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:832935425adc0f42d5bf58badb0d44746c70e8e52ba051321649f2d2c283c5d1
+size 237

@@ -1,1 +1,3 @@
-Defesa de punição severa de responsáveis por desvio de recursos públicos destinados às ações de combate ao coronavírus. Pedido à Presidência de inclusão na pauta do projeto de lei referente à duplicação de penas para os crimes de corrupção praticados durante a pandemia da Covid-19. Gravidade das crises política, sanitária e econômica reinantes no País. Defesa de redução de supersalários e dos subsídios dos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2104e9b9e29bdf6edc99c214d650a7eb0d77fcb874e3a0bb3fecb0219f96429d
+size 448

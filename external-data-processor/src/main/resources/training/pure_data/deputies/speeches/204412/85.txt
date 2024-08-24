@@ -1,1 +1,3 @@
-O Deputado celebrou o Dia da Infância e enfatizou a importância da primeira infância no desenvolvimento humano. Compartilhou sua recente participação em curso de imersão sobre esse assunto, realizado na Universidade de Harvard (EUA). Mencionou estudos científicos que demonstram os benefícios de investir nessa fase, incluindo retornos econômicos e sociais significativos, como melhor desempenho escolar e profissional, saúde e redução da criminalidade. Como Presidente da Frente Parlamentar Mista da Primeira Infância, ressaltou seu compromisso com o tema e participou da entrega do Prêmio Medalha Amigo da Primeira Infância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:485729a461421d99fd4e557b2a8909740d71a7bb2b93f522111ff4cd779ef33f
+size 641

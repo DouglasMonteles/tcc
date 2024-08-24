@@ -1,1 +1,3 @@
-Cumprimento à Presidenta da República reeleita, Dilma Rousseff, e ao candidato Aécio Neves pelo desempenho no certame eleitoral. Conveniência da instituição de mecanismos de controle e de transparência na gestão do Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad9265a74be847c81bce07781752566ab6beeb11a8c0a6164adc7fda414f68d7
+size 247

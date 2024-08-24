@@ -1,1 +1,3 @@
-Epidemia de dengue no Estado do Rio de Janeiro. Escalada da violência no Estado. Envolvimento de Deputados Estaduais em fraude no pagamento de auxílio-educação a servidores comissionados da Assembléia Legislativa fluminense. Probidade do Deputado Estadual Marcelo Freixo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31fd896246530876a17bdded4789be693c4cd8d8416311cc169d0a7da264c24e
+size 276

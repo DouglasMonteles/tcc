@@ -1,1 +1,3 @@
-Indignação   com a tramitação em regime de urgência da Medida Provisória  517, de 2010. Protesto contra a inclusão no bojo da proposição de dispositivo a respeito da instituição do Regime Especial de Incentivos para o Desenvolvimento de Usinas Nucleares - RENUCLEAR, aprovada pela Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:418821d840f4fb66ec5489ea406984fa3d433341b4a4a35fb3def7e834d22834
+size 297

@@ -1,1 +1,3 @@
-Importância da  Declaração Universal dos Direitos Humanos. Transcurso do Dia Internacional da Mulher. Necessidade de combate às desigualdades de gênero. Contribuição feminina para o desenvolvimento da sociedade contemporânea.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b729b5b6758ff48441945b56e69001d8a7af5a7e71689f4bd8ce730616ea7196
+size 233

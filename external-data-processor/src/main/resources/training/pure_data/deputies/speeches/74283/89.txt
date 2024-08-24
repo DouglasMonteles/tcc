@@ -1,1 +1,3 @@
-Resultados de pesquisa sobre abrangência da isenção da Contribuição Social para a Saúde entre os trabalhadores brasileiros, em especial os do ABC paulista. Defesa da universalização dos serviços de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cff25b01fa05259ae11187844add3ea1f431abccd0d6cab8e6436635ceb0e22
+size 214

@@ -1,1 +1,3 @@
-Apoio às demandas da direção do Hospital São Vicente de Paulo, sediado no Município de Passo Fundo, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0e521c5e8a92c902a77c1eba0259b06643677abcf44695cc4bf5eef42c7e171
+size 133

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Atuação do orador em defesa de lutas das mulheres brasileiras. Regozijo com a criação, pelo Prefeito Alexandre Kalil, da Secretaria Municipal das Mulheres de Belo Horizonte, Estado de Minas Gerais, em virtude de incorporação de proposta do orador durante campanha à Prefeitura da Capital mineira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26a0915c3716d966e17a2757866d120b868d2edca4e255cfffe3f417984d6d09
+size 346

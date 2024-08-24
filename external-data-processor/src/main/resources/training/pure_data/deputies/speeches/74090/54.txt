@@ -1,1 +1,3 @@
-Inauguração de ginásio coberto no Município de Barreirinha, Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af06212a7aeeacc3fe5e371ceaa2af8a35aa84aea33082aab9cf0abd9e692e62
+size 83

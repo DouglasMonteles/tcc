@@ -1,1 +1,3 @@
-Descumprimento de acordo para aprovação de proposta  sobre  procedimento para a criação, a incorporação, a fusão e o desmembramento de Municípios. Críticas à manutenção do  Veto Total nº 47, de 2013, aposto ao Projeto de Lei Complementar nº 416, de 2008 (Dispõe sobre o procedimento para a criação, a incorporação, a fusão e o desmembramento de Municípios). Agradecimento ao Presidente da Câmara dos Deputados, Henrique Alves, pela cessão de espaço para a realização pela Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia de cerimônia de entrega do Prêmio Cindra de Desenvolvimento Regional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b8dc5004cc57905e79817278057c6bdcc83107249a3e7b6374742a91d5a9575
+size 645

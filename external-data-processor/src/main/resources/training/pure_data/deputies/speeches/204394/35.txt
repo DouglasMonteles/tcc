@@ -1,1 +1,3 @@
-Orientação de bancada na votação da consulta sobre a votação, por partes, da Proposta de Emenda à Constituição nº 6-D, de 2019, acerca da reforma do sistema previdenciário. Apelo ao Líder do PSB, Deputado Tadeu Alencar, por imediata substituição dos membros do partido nas Comissões Temáticas, favoráveis à aprovação da proposta de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b84724e0110a235f52cf16b69aac6e9a2a3bc9575a55555af573c754261f49ed
+size 376

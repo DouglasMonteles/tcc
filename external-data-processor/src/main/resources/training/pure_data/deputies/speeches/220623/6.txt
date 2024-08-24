@@ -1,1 +1,3 @@
-A Deputada anunciou a presença do Vereador Marcelo Monteiro na Casa. Destacou a importância da educação profissional e técnica em Lagoa Santa, enfatizando a necessidade de qualificar os jovens do município, que muitas vezes precisam se deslocar para Belo Horizonte para estudar. Por fim, mencionou agenda com o Ministro da Educação para discutir o assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d95c887b32cb556eceb7838cc321f7b6dbb007de04680b62382ad577efa8535
+size 364

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Substitutivo do Senado Federal ao Projeto de Lei nº nº 5.029-C, de 2019 (11.021, de 2018, na Câmara dos Deputados) sobre as regras aplicadas às eleições. Repúdio ao discurso de Deputado sobre o apoio do PSOL ao aumento dos recursos do Fundo Partidário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92f300399ad6fc5f4dcede277c8006ca5eea0592288b4e5906e8bda0b837524e
+size 337

@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação da proposta de criação da Empresa Simples de Crédito. Defesa da votação do projeto de lei sobre a instituição dos cadastros positivos de crédito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b95c1277897e5381976e11bc65bc0db537656fbc27852809d81e5943988a38d4
+size 195

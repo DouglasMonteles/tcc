@@ -1,1 +1,3 @@
-A Deputada Bonavides destacou iniciativa do Governo do Rio Grande do Norte que permitirá a todos os hospitais estaduais comprar diretamente da agricultura familiar. O programa, que envolve 11 cooperativas e associações rurais, fornecerá alimentos orgânicos para servidores e pacientes, fortalecendo a agricultura local. A Parlamentar também mencionou evento da Vereadora Brisa, de Natal, que celebra os mil dias de seu mandato. Ressaltou ainda a realização de audiência pública na Câmara Municipal de Natal, proposta pelo Vereador Daniel Valença, que discutirá projeto que enfraquece a educação pública ao retirar garantias de concurso público quando houver grande número de cargos não preenchidos de professores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:710cae7ecab91414d55510aad96e8d44a39b453b9bc9d37480510d42e63106a7
+size 732

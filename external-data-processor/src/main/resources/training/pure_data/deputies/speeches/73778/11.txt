@@ -1,1 +1,3 @@
-Aumento da arrecadação de tributos pelo Governo Federal no mês de janeiro de 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba4dbce2db95007a9e1146723bdfe30a69bbc79c5df5d14e233bb8722f013d75
+size 85

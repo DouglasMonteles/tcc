@@ -1,1 +1,3 @@
-Importância das ações do Governo Federal para combate à Covid-19. Discussão da Medida Provisória nº 945, de 2020, sobre a adoção de medidas temporárias no âmbito do setor portuário diante da pandemia de coronavírus; e a cessão de pátios sob a administração militar. Inauguração, pelo Presidente Jair Bolsonaro, de trecho das obras de transposição e águas do Rio São Francisco, no Estado do Ceará. Melhoria da infraestrutura brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b58bfc3b18c5034655c051d1dd237fd27219e771b1b7072277db16f9948a3cbb
+size 459

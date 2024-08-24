@@ -1,1 +1,3 @@
-Emissão de parecer à Emenda de Plenário nº 1, oferecida ao Projeto de Lei nº 10.119, de 2018, sobre a instituição da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf96cf1ca7fafb11d2d2b3e667728dd46217c338671cee318a70a7169256ff8f
+size 197

@@ -1,1 +1,3 @@
-Razões da retirada da Emenda 15, destacada, ao Projeto de Lei de Conversão da Medida Provisória 530 de 2011 (Institui no âmbito do Ministério da Educação, o Plano Especial de Recuperação da Rede Física Escolar Pública, com a finalidade de prestar assistência financeira para recuperação das redes físicas das escolas públicas estaduais, do Distrito Federal e Municipais afetadas por desastres), que trata de prestação de contas semestral ao Congresso Nacional das transferências efetuadas entre o FNDE  aos Estados, ao Distrito Federal e aos Municípios, referentes ao Plano Especial de Recuperação da Rede Física Escolar Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8546a5de44834b4a667c918aec0b3a35999ee9949a1cbd3c9fb8c1086145edf6
+size 653

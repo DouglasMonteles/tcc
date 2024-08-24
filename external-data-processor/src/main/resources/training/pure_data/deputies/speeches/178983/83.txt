@@ -1,1 +1,3 @@
-Filiação do líder político Laerte Sonsin aos quadros do PR, no Município de Salto, Estado de São Paulo. Relato da visita do orador à municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17b6390e56899dc04375534177a54579ed1bada51d34d8ed8e18ba7173cf469b
+size 155

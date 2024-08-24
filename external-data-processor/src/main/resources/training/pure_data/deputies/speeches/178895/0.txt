@@ -1,1 +1,3 @@
-Agradecimento ao povo mineiro pela eleição do orador. Contrariedade ao discurso ambientalista radical fundado em razões ideológicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3ec015eeee084b6498ac23f5513de9d7f6efacd65938cba8629fd3eef4d8200
+size 136

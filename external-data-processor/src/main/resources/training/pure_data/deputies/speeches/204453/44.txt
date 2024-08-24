@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 1.444, de 2020, sobre a alteração das Leis de nºs 13.979 e 13.982, de 2020, com vista ao estabelecimento de medidas excepcionais de proteção à mulher e seus dependentes, em situação de violência doméstica e familiar, durante a emergência de saúde pública decorrente da pandemia de coronavírus. Agradecimento à bancada feminina pelo apoio à proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e03968d4eb1628847ddbc3f5058dc3f542e00a054b31bc5eedd94db430012e5f
+size 411

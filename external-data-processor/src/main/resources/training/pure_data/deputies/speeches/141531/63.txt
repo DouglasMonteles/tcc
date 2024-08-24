@@ -1,1 +1,3 @@
-Não cumprimento, pela Presidenta Dilma Rousseff, dos compromissos assumidos com a Nação. Baixo índice de execução das obras do Programa de Aceleração do Crescimento - PAC. Descaso do Governo Federal com os produtores nacionais de café, especialmente com relação ao estabelecimento de política de preços mínimos e a renegociação de dívidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0048d3a71aa6b82f3206e29d0a210b9651a2a715d7d34f08297286cd0f062d4
+size 356

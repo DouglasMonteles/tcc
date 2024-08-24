@@ -1,1 +1,3 @@
-Crescimento do Produto Interno Bruto - PIB brasileiro no primeiro trimestre de 2010. Avanços socioeconômicos do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6da817b24c9c7630e6df29021f5fe48719eefc73551a62c0765f677e5647639f
+size 121

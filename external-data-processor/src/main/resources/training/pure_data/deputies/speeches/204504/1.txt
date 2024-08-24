@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Luta Contra o Câncer. Não efetivação de políticas públicas destinadas ao combate à doença no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e691917ac6015c60a24626975fa332e5f288d1df2232cb6bb78a185cd06e7fa
+size 136

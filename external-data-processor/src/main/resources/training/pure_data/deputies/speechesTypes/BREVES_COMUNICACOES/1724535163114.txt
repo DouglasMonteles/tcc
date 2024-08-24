@@ -1,1 +1,3 @@
-Conclusão das votações da Medida Provisória nº 431, de 2008, acerca da concessão de reajuste salarial a servidores do Poder Executivo. Aprovação de emenda oferecida à matéria para garantia da paridade salarial entre funcionários ativos e aposentados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2084569ca66ed64754ee288c252b81270fdfa2199283c7b2b623ac0fef1bfb3
+size 261

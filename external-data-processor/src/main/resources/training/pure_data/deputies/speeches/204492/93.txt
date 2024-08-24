@@ -1,1 +1,3 @@
-Questão de ordem sobre a retirada das notas taquigráficas de termos ofensivos ao Presidente Luiz Inácio Lula da Silva, contidos em discurso proferido por Deputado no plenário. Defesa de aprovação da proposta governamental de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8e4a7476624fb85784227a7da4c4672ea153d00a959c2c2e79aafacf2146024
+size 251

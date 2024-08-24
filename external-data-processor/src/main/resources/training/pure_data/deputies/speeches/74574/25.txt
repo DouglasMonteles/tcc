@@ -1,1 +1,3 @@
-Protesto contra a derrubada de barracas na orla do Município de Porto Seguro, Estado da Bahia, determinada por juiz federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f99023607561f88bb07de90df6a84a4c8c7a4dfe5c17d10d0bce0239cbe429de
+size 125

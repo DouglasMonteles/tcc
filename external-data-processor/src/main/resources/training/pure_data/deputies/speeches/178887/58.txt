@@ -1,1 +1,3 @@
-Presença da Presidenta Dilma Rousseff no Município de São Luís, Estado do Maranhão, por ocasião dos eventos de entrega de unidades habitacionais do Programa Minha Casa, Minha Vida e de inauguração do Terminal de Grãos do Maranhão, do Porto do Itaqui, no Município de São Luís, Estado do Maranhão. Apoio do PCdoB à conduta política da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0512a5cb4dc058fdf541007ad104339cb25de2103fa546e604e97fe305de9668
+size 376

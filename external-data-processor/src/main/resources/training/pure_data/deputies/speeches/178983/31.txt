@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar Mista de Infraestrutura Viária e Mobilidade Urbana, em dependência da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d47b7a70ad46ee232bb524d22e1c7416e64f6b2a171632bc9474ff55aff230c
+size 128

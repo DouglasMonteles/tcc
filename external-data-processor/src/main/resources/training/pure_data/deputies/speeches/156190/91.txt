@@ -1,1 +1,3 @@
-Reafirmação do discurso proferido pelo orador sobre o recebimento de aposentadoria privilegiada pelo Deputado Ivan Valente. Utilização de recursos públicos na campanha eleitoral do Deputado Ivan Valente em detrimento da área social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a54a6a346aaf8e1b7cf2063f4525a6c424ae26eb3debe001af36188ebd6a605d
+size 238

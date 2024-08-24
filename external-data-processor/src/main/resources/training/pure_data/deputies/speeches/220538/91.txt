@@ -1,1 +1,3 @@
-Lançamento da campanha Crack, nem pensar! pelo Grupo RBS - Rede Brasil Sul de Comunicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6482da1db71bab597dca0f2407197034c60f0a034b5bf84106502c767867973a
+size 93

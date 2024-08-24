@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM  à  admissibilidade da Medida Provisória  518  de 2010 ( Disciplina a formação e consulta a bancos de dados com informações de adimplemento, de pessoas naturais ou de pessoas jurídicas, para formação de histórico de crédito).
+version https://git-lfs.github.com/spec/v1
+oid sha256:aca995ef46df55420ad62882a5f367aa8ac53e693cc449097033f9671101cce2
+size 269

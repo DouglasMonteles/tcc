@@ -1,1 +1,3 @@
-Visita do Governador do Estado de São Paulo, Geraldo Alckmin, às obras de duplicação da Rodovia Maurílio Biage entre os Municípios de Sertãozinho e Pontal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6434efaa8913a8eb9ff095d8dc9e4f9af0b601705a2169bd3106c8e7fc30ccdf
+size 162

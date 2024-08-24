@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição nº 2, de 2015, sobre a adoção do orçamento impositivo. Perplexidade do orador diante de acusação contra Deputada Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ef1a5d6921adeb156dd632eb1bd0322c7694ee35c40ccbcb137d02b224ba19e
+size 241

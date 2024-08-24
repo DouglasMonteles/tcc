@@ -1,1 +1,3 @@
-Necessidade de apoio do INCRA aos produtores rurais assentados no Estado do Amazonas, particularmente na região da calha do Rio Madeira. Apelo à presidência do órgão de providências para recuperação de  estradas vicinais. Transcurso do Dia do Trabalho. Exploração da mão-de-obra infantil no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f74e687d92c2cf3ab790ae20f17db12bc7326bb221f16da06df76999290a84e
+size 308

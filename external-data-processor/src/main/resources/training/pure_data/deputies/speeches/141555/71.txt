@@ -1,1 +1,3 @@
-Defesa da concessão de atendimento preferencial aos idosos em estabelecimentos comerciais e de prestação de serviços.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5170091f9a15a5ebf80034fde817b6401d82253707eb8104753b61d83e0cfe8d
+size 121

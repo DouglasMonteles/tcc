@@ -1,1 +1,3 @@
-Publicação pelo jornal Valor Econômico de matéria a respeito da construção de grandes estádios no País, com vistas à realização da Copa do Mundo de Futebol de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:657f5484a7759f90c424750911e10c7ba00ec9f4a69f2cff8d9a64da56478363
+size 175

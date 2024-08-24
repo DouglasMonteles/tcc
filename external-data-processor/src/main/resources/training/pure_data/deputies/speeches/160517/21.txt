@@ -1,1 +1,3 @@
-Luta inglória do Delegado Fabiano Contarato pela redução de mortes no trânsito no Estado do Espírito Santo. Celebração de missa no Convento da Penha em prol das vítimas de acidentes de trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:178aa15dae0b4f72bdd613416319545854f06e232682bf489dd2d4cfe67b4579
+size 203

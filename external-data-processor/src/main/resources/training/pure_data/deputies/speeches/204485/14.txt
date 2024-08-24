@@ -1,1 +1,3 @@
-Celebração do Dia do Trabalho. Realização, pela Federação dos Comerciários do Estado de São Paulo - FECOMERCIÁRIOS, de evento na Estância Turística de Avaré ao ensejo da efeméride. Discussão na Casa do Projeto de Lei nº 1.085, de 2023, sobre o estabelecimento de igualdade salarial e remuneratória entre mulheres e homens no exercício de mesma função; e a alteração da CLT - Consolidação das Leis do Trabalho. &nbsp;
+version https://git-lfs.github.com/spec/v1
+oid sha256:105b881f3781e8d760af66c85df53fae2c1101f47a0431481d577cc36d15333e
+size 439

@@ -1,1 +1,3 @@
-O Deputado expressou sua preocupação em relação ao projeto de reforma do ensino médio, destacando que o debate sobre o tema deveria ser mais amplo e incluir a participação efetiva das entidades representativas da educação. Argumentou que, se o substitutivo for votado da maneira como está, pode piorar a situação já desfavorável. O Deputado também se posicionou contra a tramitação em regime de urgência, enfatizando que o debate deve ocorrer dentro de um tempo adequado. Além disso, abordou a questão do déficit zero, sugerindo cortes em outras áreas em vez de prejudicar as universidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2c99d9b8b904a23e8a604cb3dc70606f5b8c65cd7d5de55bd4da91da6aa5255
+size 612

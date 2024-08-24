@@ -1,1 +1,3 @@
-Resultados positivos da implantação do Programa Segurança Presente no Município de Nova Iguaçu, Estado do Rio de Janeiro. Atuação parlamentar do orador em prol dos moradores de Nova Iguaçu e da Baixada Fluminense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaccfb61d4e98e3b07d72de559bc6ea4c2c9b4615827b0e33080e60ac08f2b2c
+size 221

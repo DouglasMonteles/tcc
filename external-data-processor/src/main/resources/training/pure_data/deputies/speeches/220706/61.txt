@@ -1,1 +1,3 @@
-Morte de trabalhadores em decorrência de explosão ocorrida nas dependências da Cooperativa Agroindustrial - C. Vale, no Município de Palotina, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49614e31a31698fa7dda244ed2eb46912756dab9dbd589a7a5ca8b3113360bc1
+size 165

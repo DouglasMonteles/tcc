@@ -1,1 +1,3 @@
-Apoio à criação de CPMI para investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República. Redução do número de assassinatos no Brasil em 2022, segundo dados do Fórum Brasileiro de Segurança Pública. Contrariedade ao desarmamento dos cidadãos de bem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12f9f2646bfc9c5079b15e9789664439a70ee90907e78cae4f737976202f7d4c
+size 293

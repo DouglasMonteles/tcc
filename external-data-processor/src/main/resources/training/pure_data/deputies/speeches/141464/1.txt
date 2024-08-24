@@ -1,1 +1,3 @@
-Discussão da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação - EBC, e dá outras providências). Defesa da aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2ecf1d7e99a1dd11e433f69ff773a33d532edb6f52921321639a886538ad3d0
+size 357

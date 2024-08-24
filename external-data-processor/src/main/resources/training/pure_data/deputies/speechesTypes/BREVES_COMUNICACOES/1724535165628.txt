@@ -1,1 +1,3 @@
-Destinação, pelo orador, de recursos ao setor de saúde dos Municípios mineiros de Montes Claros, Taiobeiras e Rio Pardo de Minas. Elogio à atuação do Governo Federal e do Governo do Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f9afc55af50887a7d951d01d48bcc3bcc16cf58259d0c83a936e4d530f7cb3a
+size 212

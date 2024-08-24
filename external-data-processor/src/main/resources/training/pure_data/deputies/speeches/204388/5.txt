@@ -1,1 +1,3 @@
-Críticas à atuação do Banco Nacional de Desenvolvimento Econômico e Social - BNDES durante os governos petistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:715995d3e496fce65281fcea66794129b0d33ec7e723bb7917aebd2be85bcd1b
+size 117

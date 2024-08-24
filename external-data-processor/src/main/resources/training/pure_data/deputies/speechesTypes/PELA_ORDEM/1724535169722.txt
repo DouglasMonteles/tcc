@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência o Projeto de Lei nº 1.088, de 2020, sobre a suspensão retroativa e o impedimento de novas inscrições nos cadastros de empresas de análises e informações para decisões de crédito, durante o estado de calamidade pública decretado em decorrência da pandemia de coronavírus.  Apresentação do Projeto de Lei nº 1.014, de 2020, proibitivo da incidência de juros remuneratórios, moratórios, multa e quaisquer outros encargos bancários sobre o valor utilizado do cheque especial e do saldo devedor da fatura de cartão de crédito concedidos por instituições financeiras, até 60 (sessenta) dias após o encerramento do estado de calamidade pública decretado em decorrência da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:388fe2255aa6d22e5ab281672e398386f30aa421ea4552b48c28eed9895aa01d
+size 793

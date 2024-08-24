@@ -1,1 +1,3 @@
-Celebração de acordo com partidos oposicionistas com vista à votação, pela Comissão de Constituição e Justiça e de Cidadania, da Proposta de Emenda à Constituição nº 187, de 2016,  sobre permissão às comunidades indígenas da prática de atividades agropecuárias e florestais em suas terras, bem como da comercialização dos seus produtos e gerenciamento da renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1e00f924c6003eccfd891f75d1709eff955d6f0f06922087aeb74bd917d6235
+size 381

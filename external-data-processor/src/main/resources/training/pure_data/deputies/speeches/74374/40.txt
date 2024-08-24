@@ -1,1 +1,3 @@
-Demissão de trabalhadores brasileiros no Japão. Efeitos da crise financeira mundial sobre a economia brasileira. Importância do apoio dos Parlamentares às propostas de combate à crise apresentadas pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4db3bfa1456d3564bf6971115c83395beaf2f5ef853e9029a07111835ebbbe70
+size 223

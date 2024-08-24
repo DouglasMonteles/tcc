@@ -1,1 +1,3 @@
-Celebração da chegada dos primeiros japoneses ao Brasil ao ensejo do transcurso do Dia da Imigração Japonesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a06c855e3c9cb6312d66f7e2e2e52773f00ed5471bfa01cb2e84ff3999a06c4a
+size 113

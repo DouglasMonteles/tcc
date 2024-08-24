@@ -1,1 +1,3 @@
-Realização pela Comissão de Desenvolvimento Econômico, Indústria e Comércio de seminários sobre o desenvolvimento do interior brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb563ca95a0ae782004a3da90a661a26e276ee8e0a2c05d6f6ac007c5ccbf39
+size 144

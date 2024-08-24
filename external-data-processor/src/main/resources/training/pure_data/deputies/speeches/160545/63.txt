@@ -1,1 +1,3 @@
-Razões da concordância do DEM com a votação somente dos itens 3 e 4 da pauta da Ordem o Dia, relativos a Requerimentos de regime de urgência de proposições sem impacto financeiro e orçamentário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55d32dd9c464a4416bb7c9ab662d1225aef70fae3f0fe8d406369ded60426e56
+size 203

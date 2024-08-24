@@ -1,1 +1,3 @@
-Conveniência de restrição do debate no plenário tão-somente na reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbeb9db4ed276ab6d23c25297274f37de741c1505173f65a4097b91ae6796884
+size 99

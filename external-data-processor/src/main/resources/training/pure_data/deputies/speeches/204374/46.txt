@@ -1,1 +1,3 @@
-Contestação ao discurso proferido no plenário sobre o alinhamento do PSB com a população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88b390e7d44df7268e406bf889a0b90e542ba9d5cca47dd5392e38d2ca706575
+size 105

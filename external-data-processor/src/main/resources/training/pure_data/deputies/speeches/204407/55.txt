@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de quebra de interstício de 5 sessões para a votação, em segundo turno, da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dea592cba5b38008d96d0fe14b08df984d0ad02a827282c02161b1bf93ec697
+size 217

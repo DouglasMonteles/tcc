@@ -1,1 +1,3 @@
-Apresentação ao Ministério do Desenvolvimento Agrário de proposta de criação do Programa de Aquisição de Sementes e Mudas Nativas, em prol da agricultura e das populações tradicionais do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:892692a77cd64a744dca7b96fba116fa646263beab7cb6c214702f6acf8f0866
+size 203

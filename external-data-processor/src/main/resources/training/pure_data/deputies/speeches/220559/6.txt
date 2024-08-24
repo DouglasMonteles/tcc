@@ -1,1 +1,3 @@
-Realização de obras da BR-470 no Estado de Santa Catarina pelo ex-Presidente Jair Bolsonaro. Lembrete à Deputada Ana Paula Lima sobre a derrota do ex-Deputado Décio Lima na disputa pelo Governo do Estado de Santa Catarina com o candidato Jorginho Mello.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bb15e1f0a3e20f01f85a0dbca8d7b0cf2c63374035573bc450c88f00f831325
+size 257

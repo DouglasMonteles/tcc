@@ -1,1 +1,3 @@
-Manifestação de pesar pelo falecimento do ex-Prefeito Municipal de Lobato, Estado do Paraná, Antônio Carlos Rodrigues, e sua esposa, Presidenta da Terceira Idade do Grupo Renascer, Rosa Costa Rodrigues.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30ba86e5d02cab54e341bacc2de2d3691c66c6b32498175a9cf07c0df0a5d49b
+size 206

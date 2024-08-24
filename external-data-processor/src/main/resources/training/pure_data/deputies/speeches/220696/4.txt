@@ -1,1 +1,3 @@
-Saudações aos Prefeitos Municipais participantes na 24ª Marcha a Brasília em Defesa dos Municípios. Importância, para as municipalidades brasileiras, da retomada do Programa Minha Casa, Minha Vida e do Programa Bolsa Família. Relançamento do Programa Mais Médicos. Congratulações à União dos Prefeitos da Bahia - UPB e gestores municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6345fde3f2b45c481f298568d925f1c89ea660a31ab392b146b9657006b4f5c4
+size 352

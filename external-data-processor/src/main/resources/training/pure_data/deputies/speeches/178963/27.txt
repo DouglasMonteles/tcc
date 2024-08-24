@@ -1,1 +1,3 @@
-Manifestação de apoio aos policiais militares do Estado do Rio Grande do Sul. Apoio a campanha nacional de valorização da vida dos policiais militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10360e22f8f6fcc1e2d85e8e57dcf4d68ec394ddadb3a06d8a0106e9e88673da
+size 155

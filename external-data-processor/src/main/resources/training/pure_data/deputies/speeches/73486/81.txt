@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 7.579, de 2006, sobre a extensão de reajustes do salário mínimo aos proventos de aposentados e pensionistas. Defesa de extinção do fator previdenciário. Sanção presidencial de lei referente ao recadastramento do registro de armas de fogo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e86cd4fc6cdc5ba19cf744a112323caff6ec5937e87391172757a06662a5c20c
+size 283

@@ -1,1 +1,3 @@
-Imobilismo dos Presidentes da Câmara dos Deputados e do Senado Federal diante da invasão, pelo Supremo Tribunal Federal, da prerrogativa legiferante do Parlamento brasileiro. Defesa da criação de corte constitucional no País (tramitação na Casa da Proposta de Emenda à Constituição nº 275, de 2013, a respeito do tema).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e51e0b93351410f0955793a48aed94809aff5f646ee7b361075d0856e4756f01
+size 330

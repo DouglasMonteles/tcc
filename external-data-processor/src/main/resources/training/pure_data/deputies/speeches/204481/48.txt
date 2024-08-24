@@ -1,1 +1,3 @@
-Matéria intitulada Governo repete erros de Dilma, altera política de preços e afeta ações da Petrobras. Mudança pode desvalorizar ações, prejudicando inclusive o próprio governo, publicada por órgão da imprensa. Natureza eleiçoeira e enganosa da redução dos preços de combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91c5bbc6f22a0263557b648a4220c65c478457d1dfca23cb3f0767d52bbe1be7
+size 297

@@ -1,1 +1,3 @@
-Sugestão à Presidência para a apreciação de matérias da pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc4673383995662675f15173a1a6cf0db26bfc6fec5ad231c8714172f2205949
+size 68

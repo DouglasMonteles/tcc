@@ -1,1 +1,3 @@
-Homenagem à memória do sertanista José Apoena Soares Meireles
+version https://git-lfs.github.com/spec/v1
+oid sha256:6acd33f440a38fae7ceb98c902d054620a27e23bfce1e7998bdf09fe1095187c
+size 64

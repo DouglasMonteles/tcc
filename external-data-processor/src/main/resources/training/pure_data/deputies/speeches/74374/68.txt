@@ -1,1 +1,3 @@
-Visita do orador às obras da Escola Indígena Guateka  e da Vila Olímpica Indígena, no Município de Dourados, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08b35f794286e5423120c60c1a977d009d9282cde72b11ad4cb68acb45bd52fc
+size 143

@@ -1,1 +1,3 @@
-Ponderações sobre o projeto de Lei nº 6.727, de 2013, que dispõe sobre a prorrogação de prazo dos benefícios concedidos pela Lei nº 8.248, de 23 de outubro de 1991, e suas alterações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fd3a53611da3a056b8453e4a2219eedd30c43d8e753732131cce0333364154f
+size 193

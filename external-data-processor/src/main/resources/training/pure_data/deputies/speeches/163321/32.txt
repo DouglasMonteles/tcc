@@ -1,1 +1,3 @@
-Visita de sargentos da Aeronáutica a gabinetes parlamentares. Necessidade de reestruturação da gestão pública, com a definição das carreiras típicas de Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:776137950691d82a9c88cefa13fdbf787bb1ec5f2019746e211e85339fd49f74
+size 167

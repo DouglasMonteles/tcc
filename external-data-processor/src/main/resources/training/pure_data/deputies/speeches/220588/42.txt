@@ -1,1 +1,3 @@
-Natureza abusiva da prisão do ex-Diretor-Geral da Polícia Rodoviária Federal, Silvinei Vasques, determinada pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c60c8162b3747f62fa9b310e1e43a1626513bd67b6b2ad4cdb7a233ed25742e8
+size 174

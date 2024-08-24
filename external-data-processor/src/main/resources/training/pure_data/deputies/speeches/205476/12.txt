@@ -1,1 +1,3 @@
-Frustração dos participantes na 22ª Marcha a Brasília em Defesa dos Municípios, com o discurso proferido pelo Presidente Jair Bolsonaro por ocasião da abertura do evento. Transcurso dos aniversários de emancipação político-administrativa dos Municípios de Malhada, Pindaí e Sebastião Laranjeiras, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:177ce27abf3ce6518adcee11aece4929d28110400c50be318c15edd3253b0f93
+size 329

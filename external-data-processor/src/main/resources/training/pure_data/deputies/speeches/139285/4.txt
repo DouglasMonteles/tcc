@@ -1,1 +1,3 @@
-Transcurso do 3º aniversário de criação, pela Prefeitura Municipal de Salvador, Estado da Bahia, do Serviço Municipal de Intermediação de Mão-de-obra - SIMM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a271439641ca558a00664156a6ac776090bb4e581f31764fb30ecc058c154d
+size 165

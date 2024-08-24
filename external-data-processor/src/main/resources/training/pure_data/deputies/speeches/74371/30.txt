@@ -1,1 +1,3 @@
-Imediata votação e rejeição da Medida Provisória nº 1.000, de 2020, para a retomada do pagamento do auxílio emergencial de 600 reais, concedido a trabalhadores e famílias carentes diante da crise gerada pelo coronavírus. Agravamento da crise sanitária em face do descaso do Presidente Jair Bolsonaro, da omissão do Ministério da Saúde e da incompetência do Ministério da Economia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:042fe6130e045f1790223816639e37684aafa99747e5fb019dee1f78fd9418dc
+size 395

@@ -1,1 +1,3 @@
-Defesa de rejeição do veto presidencial aposto à proposta de extensão do Programa de Recuperação Fiscal - REFIS às pequenas e microempresas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2723f9128627efa964f3fe38739a8d11287baba685a805266afbb99d61ff72c4
+size 147

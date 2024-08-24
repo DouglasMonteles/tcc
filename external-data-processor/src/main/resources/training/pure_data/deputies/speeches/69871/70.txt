@@ -1,1 +1,3 @@
-Necessidade de cumprimento do Plano Nacional de Educação - PNE. Solicitação aos Líderes partidários de indicação de membros para a Comissão Especial destinada à análise do Projeto de Lei nº 7.420, de 2006, que dispõe sobre a qualidade da educação básica e a responsabilidade dos gestores públicos na sua promoção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d25984606ddfcd75c7bfc3212c0099d620747daf55ff39204c675801f46b49b7
+size 332

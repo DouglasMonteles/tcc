@@ -1,1 +1,3 @@
-Outorga, pela Assembleia Legislativa do Estado do Ceará, da Medalha do Mérito Parlamentar Plenário 13 de Maio ao chanceler Airton Queiroz. Interferência do Poder Executivo em atividades precípuas do Poder Legislativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88e97b7c5397557b046487e708124b1d7ae9348560e120723e759a9016c25574
+size 222

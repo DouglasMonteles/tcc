@@ -1,1 +1,3 @@
-Transcurso do Dia do Enfermeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2ed80159d4ca79be7163e4033c0b80ca8f9835ca295e8c171675ddb0c76d60a
+size 32

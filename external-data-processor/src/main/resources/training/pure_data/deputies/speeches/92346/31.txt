@@ -1,1 +1,3 @@
-Saudação a policiais rodoviários federais presentes na Casa. Defesa de votação da Proposta de Emenda à Constituição nº 339, de 2009, sobre o pagamento de adicional noturno aos policiais militares, bombeiros militares e aos integrantes dos órgãos de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e319397e10027fa57524ee9c40c5e321af6294e5b9b4bcacc1ff5709fd8d28ab
+size 280

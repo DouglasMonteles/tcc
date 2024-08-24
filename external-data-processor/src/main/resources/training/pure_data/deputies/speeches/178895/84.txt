@@ -1,1 +1,3 @@
-Crescimento da produção agrícola brasileira, especialmente de soja. Importância da contribuição da agricultura nacional para a superação da crise econômica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e967a3a7ee02c957701058a8f2284bd61627ce481eee6355fbc5d24fe1407c0a
+size 165

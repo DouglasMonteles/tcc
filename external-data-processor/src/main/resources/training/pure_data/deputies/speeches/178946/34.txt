@@ -1,1 +1,3 @@
-Agradecimento aos membros da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, pela alocação de recursos para a realização das Olimpíadas do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ffadbf34c9fb8aabcdd5cc69d33ec00098e9dde058652ef1b1ff78707a3415a
+size 178

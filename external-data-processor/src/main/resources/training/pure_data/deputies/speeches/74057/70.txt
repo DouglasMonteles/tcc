@@ -1,1 +1,3 @@
-Repúdio ao conjunto de projetos sobre a reforma política, encaminhados à Casa pelo Poder Executivo. Protesto contra a pretendida extinção de pequenos partidos políticos, especialmente do PCdoB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef877e6cc1648342040d3bd0159090e83daef8748f01f48b308b3d130cc7a090
+size 199

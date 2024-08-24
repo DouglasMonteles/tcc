@@ -1,1 +1,3 @@
-Expectativa quanto à votação, pela Casa, da proposta de reajuste salarial de servidores públicos federais. Importância da isonomia entre os vencimentos de funcionários ativos e inativos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:971b9552ac6395dadcb5899700f3ec932cccc45d1d28a864f761db46fa1b4864
+size 192

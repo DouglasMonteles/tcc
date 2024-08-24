@@ -1,1 +1,3 @@
-Falta de condições morais do Deputado Lindbergh Farias para pronunciamento contra o ex-Presidente Jair Bolsonaro, tendo em vista o seu envolvimento em prática de corrupção. Aquisição de vacinas contra a Covid-19 pelo ex-Presidente da República. Condenação do Presidente Luiz Inácio Lula da Silva, pelo Supremo Tribunal Federal, por escândalo de corrupção. Repúdio às acusações contra Jair Bolsonaro por suposta fraude do certificado de vacinação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8852073d80c054fd717d20785b4f70665b474c73229fb59ecb7a31a16911122
+size 466

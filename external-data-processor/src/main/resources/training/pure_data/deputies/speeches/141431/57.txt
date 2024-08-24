@@ -1,1 +1,3 @@
-Concessão do prêmio Melhor Atacadista Distribuidor do Estado de Pernambuco à empresa Compare Distribuidora, pela Associação Brasileira dos Atacadistas e Distribuidores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a528d2990affa2499595925e7a8524111138de6922bafe7cfd40106f4173af1c
+size 173

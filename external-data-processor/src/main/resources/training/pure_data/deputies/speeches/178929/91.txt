@@ -1,1 +1,3 @@
-Posicionamento contrário à criação de fundo para financiamento público de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee14697a668e59b2aa9594d87915f52666e2e9f842ef35717fc5784a671a833f
+size 100

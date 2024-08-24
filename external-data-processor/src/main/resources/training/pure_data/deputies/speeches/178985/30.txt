@@ -1,1 +1,3 @@
-Destinação de recursos oriundos de emenda parlamentar, de autoria do orador, para a Sociedade São Vicente de Paulo. Cumprimentos ao Presidente-Geral Internacional da instituição, Renato Lima de Oliveira, ao ensejo do início da gestão administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07d05f454842da0ee56657fbfd7db8334bd7f3d84b59b01fbabf6b45f984c0b4
+size 256

@@ -1,1 +1,3 @@
-Importância da aprovação do Projeto de Lei nº 1.826, de 2020, acerca de pagamento, pela União, de compensação financeira aos profissionais da saúde contaminados por coronavírus no atendimento direto a pacientes, extensiva ao cônjuge/companheiro, aos dependentes e herdeiros, em caso de óbito; e da alteração da Lei nº 605, de 1949. Denúncia de desvio na aplicação pelo Prefeito Municipal de Ribeirão Preto, Estado de São Paulo, de recursos destinados ao combate à Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35abedbc031cec462c4216369a55e3ca6607638de77864705acf6e5338e92f04
+size 493

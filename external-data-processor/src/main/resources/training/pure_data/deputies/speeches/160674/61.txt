@@ -1,1 +1,3 @@
-Nomeação do Padre Eraldo Bispo da Silva para Bispo da Diocese de Patos, no Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70b01162b2a23a072227928d0adfbbf54f5c21137f510f97cb5260d5954eb6a8
+size 96

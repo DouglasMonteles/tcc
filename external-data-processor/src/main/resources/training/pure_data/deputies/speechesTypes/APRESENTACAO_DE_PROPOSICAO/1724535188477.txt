@@ -1,1 +1,3 @@
-Presença na Casa do Vereador Algério Antônio, da Câmara Municipal de Olinda, Estado de Pernambuco. Agradecimento à Presidenta Dilma Rousseff por atendimento a pleito da bancada evangélica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad60f813e20b92bf1f1484dc68773b04415bbb4a50db1f7b50b4b0d5bdde1c53
+size 194

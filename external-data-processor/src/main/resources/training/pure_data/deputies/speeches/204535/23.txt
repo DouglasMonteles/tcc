@@ -1,1 +1,3 @@
-Orientação de bancada na votação de requerimento de retirada de pauta da Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental. Repúdio ao pedido do Advogado-Geral da União ao Supremo Tribunal Federal de autorização do ingresso da Polícia Militar nos campi  das Universidades Federais, para suposta identificação de doutrinação ideológica. Conclamação à população brasileira de participação em manifestações contra o corte de recursos orçamentários destinados à educação básica e ao ensino superior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f11d14b6a6d142a0c325073249e14f9271f40b8e608c5579f3e41d36e899ecc7
+size 592

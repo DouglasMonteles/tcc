@@ -1,1 +1,3 @@
-Participação de membros da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural na Feira Internacional da Tecnologia Agrícola em Ação - AGRISHOW, no Município de Ribeirão Preto, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0903df1f5a66cc85090a56f693cbf4a71112ef7bd0e489e033499e47f630257
+size 228

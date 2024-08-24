@@ -1,1 +1,3 @@
-O Deputado celebrou a vitória contra a proposta de aumento de impostos no Rio Grande do Sul. Ele destacou a mobilização do Partido Liberal, juntamente com a sociedade civil organizada, para barrar a iniciativa do Governo Estadual. O Parlamentar ressaltou que a união de esforços resultou na retirada do projeto de pauta, indicando uma vitória para todos os gaúchos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a9b99f8f49e0f9cafc5ccde594413d3932146a3b8e877eecbb8201ef91a2834
+size 372

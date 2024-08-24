@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento, por duas sessões, da discussão do Projeto de Lei Complementar nº 55, de 2019, sobre alteração da Lei Complementar nº 160, de 2017, com vista à prorrogação, por até 15 anos, das isenções, dos incentivos e dos benefícios fiscais ou financeiros-fiscais vinculados ao ICMS e destinados a templos de qualquer culto e a entidades beneficentes de assistência social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bce22774301d129d6ccee5a3ea9e4d526bd5444bd84f9a93bc9fac0ce501621b
+size 440

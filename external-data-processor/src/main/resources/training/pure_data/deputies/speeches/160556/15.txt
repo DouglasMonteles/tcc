@@ -1,1 +1,3 @@
-Elogio ao Deputado Inocêncio Oliveira pela condução dos trabalhos da Casa. Atuação do orador na Comissão de Seguridade Social e Família e na Comissão de Minas e Energia. Controle da imprensa do Estado de Minas Gerais pelo ex-Governador Aécio Neves. Necessidade de esclarecimento, por parte do ex-Governador, sobre a evolução do patrimônio da Rádio Arco-Íris, de propriedade de sua irmã Andréa Neves. Excessiva edição de leis delegadas pelo Governo Aécio Neves e pelo atual Governador Antonio Anastasia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be9de8786361ce78ca4476fc436f9a6705075df90fe7fc52205592c94be05eb6
+size 521

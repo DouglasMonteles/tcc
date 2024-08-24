@@ -1,1 +1,3 @@
-Homenagem à memória da Princesa Isabel, patrona da abolição da escravatura no Brasil. Inadmissibilidade de qualificação dos governistas, pela Esquerda, de fascistas e racistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:573cf849fad7d3d39d98dbd05e2a35d3a650677acc3e1c2d9a3e36b5353937fb
+size 182

@@ -1,1 +1,3 @@
-Associação às manifestações sobre o transcurso do 20º aniversário de criação do Estatuto da Criança e do Adolescente. Congratulações aos membros dos Conselhos Tutelares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79881602c8d7df5b34058f1e3d5ae21bfbba939addce0bc48a0f4db94c989f6c
+size 181

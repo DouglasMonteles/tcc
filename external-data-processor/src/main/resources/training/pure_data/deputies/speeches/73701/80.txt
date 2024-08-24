@@ -1,1 +1,3 @@
-Apresentação do relatório da 100ª Conferência Internacional do Trabalho, realizada em Genebra, Suíça. Realização pela Subcomissão Permanente em Defesa do Emprego e da Previdência Social, da Comissão de Assuntos Sociais, do Senado Federal, de audiência pública sob o tema Trabalho decente e saúde dos trabalhadores ferroviários. Apelo ao Ministro do Trabalho e Emprego, Carlos Lupi, e ao Ministro dos Transportes, Alfredo Nascimento, de concessão de audiência a representantes da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d404f8bcd6df5f662fea479b5e749b8308f044f6072cb294a3ee980fe106936
+size 507

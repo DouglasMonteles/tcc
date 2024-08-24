@@ -1,1 +1,3 @@
-Inauguração, nas dependências da Casa, da exposição Nas Trilhas da Cabanagem, em alusão à revolta popular ocorrida no século XIX no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cce23debb8be14bf397b426c9e9cc12391ed3f69405d15424aef9ac74bc0795
+size 156

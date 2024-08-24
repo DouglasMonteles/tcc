@@ -1,1 +1,3 @@
-Entraves para o crescimento da economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc084c617713f849dd6d8e5df75794fa2ffe9569b34e006777741528052154f8
+size 51

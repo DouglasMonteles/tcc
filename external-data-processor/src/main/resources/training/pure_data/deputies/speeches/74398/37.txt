@@ -1,1 +1,3 @@
-Garantia, pela Universidade Federal do Rio Grande do Sul, da efetuação de matrícula de Geovan de Souza Araújo, aprovado em exame vestibular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84c358c8ae6c270c9efa8d10afd7ce3c4a791d1fc6778664e57e162d10d6948a
+size 144

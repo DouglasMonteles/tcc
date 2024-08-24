@@ -1,1 +1,3 @@
-Sessão Solene em homenagem ao Dia do Professor.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a2ce2193857cb0f31a55fe0c8ed3bbf99e84989d33c20e5414eb5665f8083bb
+size 197

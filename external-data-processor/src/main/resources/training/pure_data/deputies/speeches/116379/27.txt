@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Deputado Estadual catarinense João Amin e ao ex-Prefeito Genésio Moisés Spillere, do Município de Nova Veneza, Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c899fe9a1fabfa14a24561eb1cd953db6e93f1f1825efe478f93908e89acefef
+size 173

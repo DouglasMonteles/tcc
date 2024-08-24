@@ -1,1 +1,3 @@
-Posse dos Reitores da Universidade Federal do Oeste da Bahia - UFOB e da Universidade Federal do Sul da Bahia - UFSBA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b77dd9555744544ae8d00ce6ad2aa48e2aac2e77ce13ce4291af8069fa355425
+size 118

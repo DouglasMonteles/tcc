@@ -1,1 +1,3 @@
-Apoio do orador à prática de rodeio. Relevância do papel desenvolvido pela agricultura familiar e pela indústria no País. Aplausos ao Deputado Vicentinho pelo discurso proferido no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f5440a6495a2c92ce8979baaebc0c3add0051a45f914f6c5bb5b3aedf7adee3
+size 196

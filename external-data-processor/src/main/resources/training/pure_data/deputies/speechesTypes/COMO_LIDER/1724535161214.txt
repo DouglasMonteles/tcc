@@ -1,1 +1,3 @@
-Apelo ao Presidente Arthur Lira de votação das Emendas de nºs 17 e 18, respectivamente, sobre a transformação do Auxílio Brasil em benefício de caráter permanente, e a ampliação do alcance dos inscritos no Cadastro Único - CadiÚnico ao Auxílio Brasil, apresentadas pelo orador à Medida Provisória nº 1.076, de 2021, sobre a instituição do Benefício Extraordinário destinado às famílias beneficiárias do Programa Auxílio Brasil, constante na Medida Provisória nº 1.061, de 2021. Pedido aos Parlamentares de aprovação das referidas emendas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e383e92d8e5b15708d145613588a8ebd2d3f49bbd3b72013e7678089b8e1d5a
+size 566

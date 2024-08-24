@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Avanços e conquistas das mulheres no País e no mundo. Necessidade de combate às discriminações e à violência contra a mulher brasileira. Defesa de participação feminina na Mesa Diretora da Câmara dos Deputados. Apoio ao projeto de lei sobre a ampliação do período da licença maternidade para 180 dias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b62513b3927c20a1a5c7fdc677b42ce3409e3c8a076a6a79b217b7d44e792bf
+size 358

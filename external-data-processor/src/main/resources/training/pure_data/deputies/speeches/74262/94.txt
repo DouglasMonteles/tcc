@@ -1,1 +1,3 @@
-Contestação ao pronunciamento do Líder do Governo na Casa, Deputado Arlindo Chinaglia em defesa da aprovação do  Substitutivo do Senado  ao  Projeto de Lei 323 de 2007, que trata da distribuição de royalties de petróleo para os setores de educação e saúde. Defesa do restabelecimento do texto aprovado pela Câmara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e815ccf435b8618b87dcce328817e267aafc608f8ec060048896339932f41202
+size 326

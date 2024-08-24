@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalho. Efeitos negativos da reforma trabalhista. Realização, pelo governo petista, de investimentos nas pequenas e microempresas e na área de infraestrutura. Lançamento da Frente Parlamentar em Defesa da Indústria Naval Brasileira. Perspectiva de contratação de novos navios pela TRANSPETRO - Petrobrás Transportes S/A; e de construção de novas plataformas e barcos pela PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abc3e40a06f738884c09074e18fcfb08e5fdb672db35311cfc5e02ab6bb52182
+size 415

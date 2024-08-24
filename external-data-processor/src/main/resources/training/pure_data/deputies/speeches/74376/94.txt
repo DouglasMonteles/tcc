@@ -1,1 +1,3 @@
-Combate às drogas pelo poder público em conjunto com a sociedade civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d017dffdc78b57eb00587b1611eb8846b9efc64387cea1427ca62d78cef470bf
+size 73

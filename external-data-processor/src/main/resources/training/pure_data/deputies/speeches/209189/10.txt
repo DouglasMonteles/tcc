@@ -1,1 +1,3 @@
-Críticas à Medida Provisória 868, de 2018, sobre a atualização do marco legal do saneamento básico. Realização, por Comissões da Casa, de audiência pública para debate do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef460968f263ad59e4a4bfe51401f6df6b5d014c977dcc5c6803ed4e042e623b
+size 187

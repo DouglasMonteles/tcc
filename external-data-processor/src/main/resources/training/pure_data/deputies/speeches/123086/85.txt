@@ -1,1 +1,3 @@
-Transcurso do 106º aniversário de fundação da cidade de Piripiri, Estado do Piauí. Anúncio de participação do orador em debate com o Ministro da Educação sobre a política da Pasta no Governo Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bec42000f985334265cd2ec07f569157dd71a83059571fdd046d97b66209c98
+size 215

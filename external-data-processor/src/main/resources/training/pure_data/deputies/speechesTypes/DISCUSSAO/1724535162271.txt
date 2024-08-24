@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Apelo aos Presidente das Câmara dos Deputados e do Senado Federal de intermediação junto ao Supremo Tribunal Federal, com vista à soltura de mulheres presas por suposta participação em atos de vandalismo na Praça dos Três Poderes. Natureza arbitrária de suas prisões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8da8f029e342abab07000515204fe4921aeee57eb0c328e60e0ec3b87362318
+size 320

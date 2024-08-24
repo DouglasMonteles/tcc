@@ -1,1 +1,3 @@
-Apelo em favor dos Estados nordestinos afetados pelas enchentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46a8b901662430c6c940901dfd5d6e3236aff259ecb8dbe48a1b2bf6bd82c5af
+size 64

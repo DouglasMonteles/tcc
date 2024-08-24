@@ -1,1 +1,3 @@
-Avanços decorrentes da aprovação, no Senado Federal, da Proposta de Emenda à Constituição nº 66, de 2012, sobre a equiparação de direitos trabalhistas entre os empregados domésticos e os demais trabalhadores urbanos e rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4363981be1ff90dff7fa00e8b01543eefe8fb1b2bab30da09121e472f3ccde2
+size 235

@@ -1,1 +1,3 @@
-Transcurso dos 5 anos do assassinato da Vereadora Marielle Franco e do seu motorista, Anderson Pedro Gomes, no Rio de Janeiro, Estado do Rio de Janeiro. Necessidade de elucidação do crime. Instituição do Dia Nacional Marielle Franco de Enfrentamento da Violência Política de Gênero e Raça. Defesa de criação da CPI das joias ilegais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37416837cd9ab0dfbb1db378055ce1dec091684088c1d081bb833a6922190a88
+size 343

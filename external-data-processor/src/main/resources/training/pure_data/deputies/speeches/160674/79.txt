@@ -1,1 +1,3 @@
-Solicitação aos Deputados do PMDB de comparecimento ao plenário para registro de presença.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6287857ebc15bfa69bf60e3c8df581feaad1439616f4ea6d43c3cbe7003c1c32
+size 94

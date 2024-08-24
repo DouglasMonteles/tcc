@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de adiamento, por duas sessões, da discussão do Projeto de Lei nº 3.715, de 2019, acerca da regulamentação da posse de arma de fogo em áreas rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4417df28ac300434c6f875a90e0a8507f3912863938068d5a284bcd38b38fe1c
+size 198

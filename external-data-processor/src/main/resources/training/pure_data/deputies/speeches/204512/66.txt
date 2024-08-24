@@ -1,1 +1,3 @@
-Reunião do Governador do Estado de Minas Gerais, Romeu Zema, com a respectiva bancada federal para apresentação do portfólio de projetos de obras públicas. Atenção especial do gestor estadual à região norte mineira. Anúncio da presença do orador nas manifestações de apoio ao Presidente Jair Bolsonaro, programadas para o dia da Independência do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d68b2aac177bdca0af31ccd78d3c331f21540a2549494254da1cb42236f7239
+size 367

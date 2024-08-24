@@ -1,1 +1,3 @@
-Realização, em Brasília, Distrito Federal, do III Encontro dos Municípios com o Desenvolvimento Sustentável, promovido pela Frente Nacional dos Prefeitos em parceria com o Serviço de Apoio às Micro e Pequenas Empresas - SEBRAE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6689675bb2683b7c7172854799876a9ad801bf03e6ba8dbbe8584222372ef34b
+size 234

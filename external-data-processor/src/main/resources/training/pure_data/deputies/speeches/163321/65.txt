@@ -1,1 +1,3 @@
-Posição do Governo do Rio Grande do Sul pela urgente reestruturação da dívida pública dos Estados com a União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17f2c6664f12daca17fdb46d9a7efbcfed7daefd21ac710f6e336a19d8d9373a
+size 117

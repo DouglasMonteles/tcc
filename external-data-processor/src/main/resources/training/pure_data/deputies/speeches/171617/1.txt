@@ -1,1 +1,3 @@
-Anúncio, pelo Governo Federal, da elevação do benefício mínimo mensalper capita pago a famílias inscritas no Programa Bolsa Família. Êxito dos programas sociais implantados pelos Governos Dilma Rousseff e Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5bc71b5777d660c840fdf7355503f055dde0b2ec06c79fde220bef7ebcd4228
+size 240

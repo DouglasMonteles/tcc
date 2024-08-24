@@ -1,1 +1,3 @@
-Votação, pela Comissão da Amazônia, Integração Nacional e de Desenvolvimento Regional, de projeto de lei sobre a extensão das ações da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba - CODEVASF à região do semiárido mineiro, em especial do Vale do Mucuri.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2b289452d8cfa5109c76fc44945713e8c323b49365caaa22dd1646ffdbfd1be
+size 291

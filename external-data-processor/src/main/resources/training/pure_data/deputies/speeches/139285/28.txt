@@ -1,1 +1,3 @@
-Escalada da violência no País. Empenho do Governador do Estado da Bahia, Jaques Wagner, na redução dos índices de criminalidade. Defesa da aprovação, pela Assembléia Legislativa, de projeto de lei sobre a reestruturação da Polícia Militar. Aumento do número de homicídios em Salvador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:711dfa7d1329df39757b563ad63c7655733dc8684ebfa21d83a6de678b1a1c7a
+size 297

@@ -1,1 +1,3 @@
-O Deputado parabenizou a Deputada Adriana Ventura pela sua corajosa atuação parlamentar. Manifestou perplexidade com a omissão da Casa em relação à decisão do Supremo Tribunal Federal, por maioria dos Ministros, de suprimir regra que impede magistrados de julgarem causas em que parentes atuem como advogados. O orador também cobrou manifestação da Ordem dos Advogados do Brasil - OAB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e987856f8356014cfb4126a6d4dc9020c535427174086223fd26dd78209c2225
+size 395

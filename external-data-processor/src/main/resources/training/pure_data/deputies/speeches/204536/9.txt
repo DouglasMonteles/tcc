@@ -1,1 +1,3 @@
-Disposição do orador para debate de variados temas com Parlamentares oposicionistas. Falta de embasamento do discurso de Deputada da Oposição sobre o elevado índice de prisões registrado no País. Realização pela nova Câmara dos Deputados de debate sério a respeito do setor de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:799992aacf42e4f636b5f910a037dd5302d912484d35198c4b504b4ce252d4dd
+size 308

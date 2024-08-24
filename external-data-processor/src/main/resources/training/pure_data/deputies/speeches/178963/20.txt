@@ -1,1 +1,3 @@
-Publicação pela imprensa de conversa do ex-Presidente da República Luiz Inácio Lula da Silva com o Ministro da Fazenda prejudicial ao Estado do Rio Grande do Sul. Apoio ao impeachment e à renúncia da Presidenta da República Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fb65a9100a767d0842345d74122a7d341be8e9bb8435a4c478cbb2013e81912
+size 246

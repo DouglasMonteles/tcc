@@ -1,1 +1,3 @@
-Retrocesso da decisão da Agência Nacional de Energia Elétrica - ANEEL de tributação da energia fotovoltaica. Transcurso do Dia do Produtor de Tabaco. Saudações aos fumicultores do Estado do Rio Grande do Sul e do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6934aec5c0928cf5f0ac67ef887a8cb0dd21921ed463390907f144f06aa6ea8
+size 226

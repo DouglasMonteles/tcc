@@ -1,1 +1,3 @@
-Retomada dos leilões de carvão mineral destinado ao abastecimento de usinas termoelétricas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2608fb5325621e63ff20f4effaf3191ad457ce11a832a393e10fce9146573264
+size 94

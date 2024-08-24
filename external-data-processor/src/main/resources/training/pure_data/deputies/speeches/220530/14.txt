@@ -1,1 +1,3 @@
-Realização da 3ª Marcha Down sob o tema Faça conosco, não por nós, no Município de Cariacica, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83a100b01fcc4965a0eec52bc54eef4a9e1c1d3c5750903119ce471b5e354286
+size 127

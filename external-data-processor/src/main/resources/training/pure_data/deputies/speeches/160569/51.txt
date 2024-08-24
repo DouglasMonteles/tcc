@@ -1,1 +1,3 @@
-Inauguração do Uroday Hospital, no Município de Vitória da Conquista, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59b042c70f1ed7f6887638bd31b9583920feadf129d069cfbab85e2580746cd9
+size 90

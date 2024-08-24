@@ -1,1 +1,3 @@
-O Deputado expressou sua alegria ao assumir a liderança do Patriota. Agradeceu aos colegas de partido pela confiança, mencionando alguns deles, e reconheceu o trabalho do Deputado Fred Costa, licenciado, que cedeu espaço para a nova liderança. Parabenizou o Deputado Felipe Saliba por sua posse, destacando-o como um grande líder político em Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:172cfcdbdec21daacaec79d24f21916b15e4ae7283f68b80dec17ff1056123f2
+size 361

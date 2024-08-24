@@ -1,1 +1,3 @@
-Posicionamento  contrário do PSC ao Requerimento de quebra de interstício para verificação de votação do Requerimento de  discussão por grupo de artigos da Medida Provisória 465 de 2009 (Autoriza a concessão de subvenção econômica ao Banco Nacional de Desenvolvimento Econômico e Social  - BNDES, em operações de financiamento destinadas à aquisição e produção de bens de capital e à inovação tecnológica, altera as Leis 10.928 de 2004 e 11.948 de 2009 e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9d64b532e2aeba5e8bc72f44c14c52c377a4d35e84d08aa3159e7d53c62b465
+size 505

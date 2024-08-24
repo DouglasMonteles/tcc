@@ -1,1 +1,3 @@
-Referências elogiosas ao Deputado Paulo Renato Souza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcc79fae191ef4e2201958b64b78b9d06a983367cf636abb7c980c3eeed1d439
+size 54

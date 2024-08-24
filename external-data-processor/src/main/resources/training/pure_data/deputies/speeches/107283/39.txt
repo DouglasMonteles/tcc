@@ -1,1 +1,3 @@
-Abdicação, pelo ex-Presidente Luiz Inácio Lula da Silva, do direito à liberdade condicionada e ao regime de progressão de pena. Defesa de soltura do ex-Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cafe2aa79f3296777a2c72f2c0155f11157e23560641e8da833a329c6669f055
+size 182

@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao 25º aniversário de Palmas, Capital do Tocantins.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f5b2251ce0dbf159e59ac028333b5d0e4f969e4bf2562319880bdc07a14e9e8
+size 230

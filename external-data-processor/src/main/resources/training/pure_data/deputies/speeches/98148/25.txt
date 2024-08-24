@@ -1,1 +1,3 @@
-O Deputado destacou matéria publicada pelo portal G1 intitulada Educação infantil: arma contra a desigualdade, que apresenta denúncia da organização Todos pela Educação sobre as precárias condições de infraestrutura das escolas públicas de educação infantil no Brasil. Ressaltou que a prosperidade de um país está diretamente ligada à qualidade da educação oferecida. Enfatizou a importância de investimentos na infraestrutura das escolas para o futuro da nação, confiante na ideia de que ambientes adequados melhoram o desempenho dos estudantes e a motivação dos professores. O orador instou o Ministério da Educação a prestar atenção a essa realidade, especialmente nas escolas localizadas em áreas remotas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a82e7e2456a167d8ff8d4701b8102fa8fb07a8ee9702927fcd6f4ab5550f985c
+size 739

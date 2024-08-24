@@ -1,1 +1,3 @@
-Contestação à proposta do Deputado Gonzaga Patriota de divisão territorial do Estado da Bahia. Relato da visita do orador ao Município de Guajeru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:936467cebfed76b034421301b2ec96bcb1a842ed700f166592471c8e0016b445
+size 151

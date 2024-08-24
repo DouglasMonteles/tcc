@@ -1,1 +1,3 @@
-Presença na Casa dos pastores Elias Moura de Carvalho, Eliezer Correia de Souza e Getúlio Vargas. Doação de exemplar do livro Da Suécia ao Brasil, uma História Missionária à Presidência pelos religiosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f798bcc7e429aa03fcabd6d8d2097a828e391fa603ca2703a679639318c1f6c
+size 212

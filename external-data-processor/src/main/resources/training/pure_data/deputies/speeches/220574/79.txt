@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global, oferecida pela Relatora da Comissão de Administração e Serviço Público ao Projeto de Lei nº 2.342, de 2022, sobre a criação de funções no Quadro de Pessoal do Conselho Nacional de Justiça. Declaração de voto contrário à aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbdb491e63af75743f2f2720bae5df143ad5de1da230015acf97e40c1d5da837
+size 333

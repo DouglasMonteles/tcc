@@ -1,1 +1,3 @@
-Homenagem à memória do líder negro norte-americano Martin Luther King, ao ensejo do transcurso dos 40 anos do seu assassinato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a265400e2afe3051728104f03a5ee25f9275a17bd94866f6ce71a22bfc3b2c20
+size 129

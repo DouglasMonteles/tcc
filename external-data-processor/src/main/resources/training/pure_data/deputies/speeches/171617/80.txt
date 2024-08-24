@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar em Defesa das Empresas Distribuidoras de Energia. Preocupação com a privatização das empresas do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0c42ae9501596f29367524156dfbff95ca16932abaabd24aa3351c39a8fa4b1
+size 141

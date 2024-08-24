@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para supressão do inciso V, art. 2º, do substitutivo oferecido à Proposta de Emenda à Constituição nº 39, de 2011, sobre a extinção do instituto do terreno de marinha e seus acrescidos, e a definição da propriedade desses imóveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06f17092cccc902644440b97378c0d4fa4cc1b0ef6ff715dae418499d2854909
+size 298

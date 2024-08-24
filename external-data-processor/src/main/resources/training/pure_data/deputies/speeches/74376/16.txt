@@ -1,1 +1,3 @@
-Transcurso do 84º aniversário de fundação do Rádio Clube, de Campo Grande, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:153e7463992b527248e205fcddc7f040f9685f155cc7991235bfc4749f59347c
+size 109

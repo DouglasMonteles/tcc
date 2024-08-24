@@ -1,1 +1,3 @@
-Fracasso do golpe de Estado na Venezuela. Repúdio à gestão do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48c6027077dbbed98ce334e2d5f058248683045af484ecafdf7a836e7368f3a2
+size 91

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento, por duas sessões, da discussão da Medida Provisória nº 996, de 2020, sobre a instituição do Programa Casa Verde e Amarela, destinado à aquisição da casa própria para famílias residentes nas áreas rural e urbana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a84803572b2c4a732c9c1e961baaad3582ce5465be29226ea19080f2d99c65b
+size 290

@@ -1,1 +1,3 @@
-Elogio ao Governador do Estado do Ceará, Cid Gomes, pela redução da alíquota do ICMS incidente na comercialização do óleo diesel utilizado nos ônibus. Redução das tarifas do transporte público em Fortaleza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89671397b942cbb132d0247e4694cfef8d5fafc06ab15cebf0b2436af9a42a68
+size 217

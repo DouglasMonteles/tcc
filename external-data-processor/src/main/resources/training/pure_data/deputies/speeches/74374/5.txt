@@ -1,1 +1,3 @@
-Visita do Presidente Luiz Inácio Lula da Silva a Campo Grande, Estado de Mato Grosso do Sul, para lançamento de obras com recursos do Programa de Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfa67ff96f052780b098321a9fb3523287d55552e731190c0bb7000edc0960fd
+size 182

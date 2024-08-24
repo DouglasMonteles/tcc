@@ -1,1 +1,3 @@
-Apresentação de requerimento de inclusão na pauta da Proposta de Emenda à Constituição nº 333, de 2017, sobre a extinção do foro especial por prerrogativa de função no caso de crimes comuns.
+version https://git-lfs.github.com/spec/v1
+oid sha256:005cc695ccbcc6d95261f831abf0845509de50804f5111c0de9eb101d95694cc
+size 201

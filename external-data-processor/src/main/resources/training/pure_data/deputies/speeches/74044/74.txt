@@ -1,1 +1,3 @@
-Posicionamento favorável do Governo   à  PEC 336 de 2009 (Altera a redação do inciso IV do caput do art. 29 da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais), do Senado, em votação em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04412b336f0c300e26b651bc0993e8107b78e96655986221c092d4ed48f6510f
+size 261

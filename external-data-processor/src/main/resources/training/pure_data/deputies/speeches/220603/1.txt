@@ -1,1 +1,3 @@
-Apoio ao adiamento da votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 968, de 2023, sobre o estabelecimento de protocolo único para a realização de exames ginecológicos, partos, ou qualquer procedimento envolvendo o corpo ou sistema reprodutor feminino. Pedido de designação do Deputado Dr. Frederico para Relator da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d9462ec59d9a5eb0826fff12460ea194a62ebd2946e534b1aa36e17b07c883f
+size 375

@@ -1,1 +1,3 @@
-Declaração de voto contrário à aprovação da proposta de reforma previdenciária. Lista de grandes devedores da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e78ade675ba1c86759be027f930a89c979e8d7a5fe0ce59ee6e90fadd53c4bb5
+size 137

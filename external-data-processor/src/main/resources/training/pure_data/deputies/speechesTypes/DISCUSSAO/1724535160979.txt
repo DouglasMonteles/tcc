@@ -1,1 +1,3 @@
-Críticas à atuação dos partidos situacionistas na Casa. Necessidade de adoção de medidas de combate ao surto de sarampo e malária em municípios paraenses. Contrariedade à proposta de extinção de superintendências do Instituto Nacional de Colonização e Reforma Agrária - INCRA, no Estado do Pará, e do Banco da Amazônia S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:590074adfc47745f74dae7bd278c45aef85a6fbbceb9c14f4252a310e1787c53
+size 340

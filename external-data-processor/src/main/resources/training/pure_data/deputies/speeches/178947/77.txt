@@ -1,1 +1,3 @@
-Cumprimento de agenda parlamentar em Municípios do Estado do Rio de Janeiro. Regozijo com o recebimento do título de Cidadão Honorário do Município fluminense de Nova Friburgo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a97981e898aeceeb8593ebf63046bf88082e5159988f348653f4b3a6c8787a9
+size 181

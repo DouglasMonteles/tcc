@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Consumidor. Importância do Código de Defesa do Consumidor. Anúncio, pelo Ministério da Justiça, de regulamentação das normas para operação de centrais telefônicas de atendimento aos usuários. Cobrança excessiva de taxas de serviços pelos bancos brasileiros. Fundação, na Bahia, da Central dos Trabalhadores e Trabalhadoras do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e0368675abf16c6b5df5524ddac17bf6ab110cb398d7a76bd48e39a7831a7ab
+size 377

@@ -1,1 +1,3 @@
-Apresentação de requerimento de informações ao Governo do Estado de Minas Gerais sobre as medidas adotadas para combate à violência doméstica contra as mulheres. Solicitação ao Ministério da Justiça e Segurança Pública de criação de rubrica orçamentária específica para expansão da rede de atendimento às mulheres vítimas de violência e para o retorno dos investimentos no Projeto Mulheres da Paz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77801bb3eae1fbc75542a260c940142f189cce4bcb42942dd3e1d9209a7639fa
+size 419

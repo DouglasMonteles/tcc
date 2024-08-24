@@ -1,1 +1,3 @@
-Repúdio ao uso da violência por grupos de Esquerda para impedimento da exibição, nas dependências da Universidade Estadual de Londrina, Estado do Paraná, do documentário 1964: O Brasil entre armas e livros . Anúncio de apresentação de projeto de lei sobre a permissão da entrada da Polícia Militar em campi   universitários. Protesto contra o cerceamento da liberdade de expressão e da pluralidade de ideias no ambiente universitário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac661c3ee8c1620008c7abf2dfc633b3796a68b6a5cf3882f4543ad1963ff345
+size 449

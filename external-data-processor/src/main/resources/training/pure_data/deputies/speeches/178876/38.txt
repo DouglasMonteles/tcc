@@ -1,1 +1,3 @@
-Solicitação ao Governo Federal do reenvio das tropas da Força Nacional de Segurança Pública para o Entorno do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1339f6374ec78e7b3a70e9bc2e2f0d8bea87582ce0ba78eb6ed39dbfd8a274e1
+size 132

@@ -1,1 +1,3 @@
-Solicitação aos Governos Federal e do Estado da Bahia de adoção de providências diante da invasão de propriedades por índios no Município de Itaju do Colônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fd17e54b6cd4e06cbdee5d239e84d57cfb71b1f6f6504ebdc861d638e40b1d1
+size 167

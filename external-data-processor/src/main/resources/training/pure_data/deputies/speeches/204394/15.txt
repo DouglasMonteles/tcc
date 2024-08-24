@@ -1,1 +1,3 @@
-Decisão do Governo Jair Bolsonaro de extinção de conselhos sociais e da política de valorização do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3129629dc6dcc67496d53196f6978d704ff83dbced218818530769e95a7f9d6e
+size 122

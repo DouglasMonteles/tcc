@@ -1,1 +1,3 @@
-Contestação a discurso de Deputado da Esquerda sobre a maior aprovação do Presidente Luiz Inácio Lula da Silva entre os evangélicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6677893274535d6cfc15a1ba72be498ba3948b34a8c9ea1657063bfbed5d8294
+size 138

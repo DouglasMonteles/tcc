@@ -1,1 +1,3 @@
-Realização de encontro regional do PSDB, no Município de Maringá, Estado do Paraná. Anúncio pelo Governador Beto Richa de construção de novos centros de detenção no Estado. Preocupação do orador com a segurança pública no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9a654292eb4b2d9fb1753aa7ecd89b525e4170d65b331f04ea68fe948328420
+size 242

@@ -1,1 +1,3 @@
-Contrariedade à alteração de regra adotada pela Câmara dos Deputados, na votação do Projeto de Lei Complementar nº 112, de 2021, acerca das normas eleitorais e das normas processuais eleitorais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8582bd805348ead42d9e5dab7bbd23a28ceca24ab6d087800c9c4fda5fd4ac9f
+size 213

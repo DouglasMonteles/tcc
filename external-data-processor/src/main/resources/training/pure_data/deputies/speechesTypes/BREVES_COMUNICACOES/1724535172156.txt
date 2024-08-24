@@ -1,1 +1,3 @@
-Contrariedade à extinção ou perda de funções do Ministério do Desenvolvimento Agrário. Importância da Pasta para o desenvolvimento da agricultura familiar no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d76eaa74eb95bb43531e1fc4795da39502b3f69939a5091917cfe5cf310ed64
+size 172

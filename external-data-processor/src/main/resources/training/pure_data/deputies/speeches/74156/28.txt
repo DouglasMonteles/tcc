@@ -1,1 +1,3 @@
-Diplomação, pela Justiça Eleitoral, de Prefeitos Municipais e Vereadores eleitos no Estado de Minas Gerais. Votos de boa gestão aos diplomados mineiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e7b59f5ab6d1b323b649d752d346c6cfc92bd2a92bce3de7a731f48bf2fd22d
+size 156

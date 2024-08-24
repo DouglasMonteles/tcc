@@ -1,1 +1,3 @@
-Resposta às colocações de Parlamentar da Casa acerca de suposto impedimento de uso da palavra do Deputado Jair Bolsonaro em caminhão de som alocado na manifestação do dia 15 de março, na Cidade do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c449b694836ab6423c093d198a1ee4c5299523ede8249e4f87ac57e3a2a2b83
+size 219

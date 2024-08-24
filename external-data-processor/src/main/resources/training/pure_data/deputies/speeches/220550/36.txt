@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à extinção da política de Preço de Paridade de Importação - PPI pela PETROBRAS. Desestruturação financeira da estatal pelo governo petista. Repúdio à decisão monocrática de membro do Supremo Tribunal Federa a respeito da Lei das Estatais. Queda do valor de mercado da PETROBRAS no governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f64b9636b8a2a7422e019d74f0ff057fae7db492de6ed7adaef775dc3687e39d
+size 346

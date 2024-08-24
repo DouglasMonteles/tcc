@@ -1,1 +1,3 @@
-Transcurso do 125º aniversário da abolição da escravatura no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d1b2cc8d8d3612f4eb9bea7d93d52f69287c899ae7da0e0642169586154b82b
+size 82

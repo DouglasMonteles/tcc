@@ -1,1 +1,3 @@
-Negociatas do Presidente Luiz Inácio Lula da Silva com emendas parlamentares para aprovação de matérias de interesse do Governo petista pela Casa. Incorruptibilidade do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4abdb0f3289757b4ceb588dfdf24a208e5aed457965d34b714bb33b651d8affb
+size 180

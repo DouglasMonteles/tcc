@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 2.569, de 2023, sobre alteração do Decreto nº 7.983, de 2013, para inclusão do custo amazônico na verificação da Tabela SINAPI (Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil).&nbsp;Solicitação à Casa de celeridade na tramitação da matéria. Anúncio do lançamento da Frente Parlamentar em Defesa dos Municípios da Amazônia Legal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a2c1be55ba2ea80589c2debf0eb3c8457422901f6f8ab6775b6f06fbee9b043
+size 407

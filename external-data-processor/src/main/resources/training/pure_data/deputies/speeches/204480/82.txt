@@ -1,1 +1,3 @@
-Fracasso do projeto socioeconômico dos Governos da Direita. Insucesso da política econômica adotada pelo Ministro da Economia, Paulo Guedes. Repúdio à proposta governamental de congelamento do salário mínimo. Empenho do orador na preservação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB. Descaso do Governo Federal com a educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d42e808cb1fc36c90d04cb81e450a8777d9dfddb962f51c3e16d98b72a8dac00
+size 421

@@ -1,1 +1,3 @@
-Encaminhamento, à Assembleia Legislativa do Estado de Roraima, de Representação contra o Deputado Jalser Renier, com vista à cassação do seu mandato. Pedido, ao Presidente da Casa Legislativa, de rejeição do requerimento de retirada da Deputada Catarina Guerra da Comissão de Ética Parlamentar. Pedido aos membros da Assembleia Legislativa de cassação do mandato do Deputado Jalser Renier.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6913eaf00badee485752329284794fa096179b30ca369435c0a6ad7a50234785
+size 401

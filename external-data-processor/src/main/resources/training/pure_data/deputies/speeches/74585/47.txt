@@ -1,1 +1,3 @@
-Posicionamento do orador com relação à Medida Provisória nº 415, de 2008, sobre a proibição da venda de bebidas alcoólicas às margens de rodovias federais. Urgente implementação da proposta proibitiva da veiculação de propaganda de cerveja pelos órgãos de comunicação. Fortalecimento de campanhas de educação no trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa45a190853143e42e1eca31df8ee29636508b19c41e132a625957b3286e23c4
+size 341

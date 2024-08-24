@@ -1,1 +1,3 @@
-Repercussão sobre as finanças das Prefeituras Municipais do Estado do Espírito Santo da unificação das alíquotas do ICMS incidente sobre as operações interestaduais com bens e mercadorias importados do exterior. Renovação do apelo ao Governo Federal de realização de investimentos na área de infraestrutura do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35fc6f183e8d37b3387dc66205f8239b82c882d7897f28973693593112f35102
+size 330

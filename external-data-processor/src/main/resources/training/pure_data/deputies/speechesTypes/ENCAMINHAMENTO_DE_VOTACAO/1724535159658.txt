@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de retirada de pauta do Projeto de Lei nº 2.384, de 2023, sobre o disciplinamento da proclamação de resultados de julgamentos, na hipótese de empate na votação no âmbito do Conselho Administrativo de Recursos Fiscais - CARF; a disposição da conformidade tributária no âmbito da Secretaria Especial da Receita Federal do Brasil do Ministério da Fazenda; e o contencioso administrativo fiscal de baixa complexidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85a0521954eeb7d5db39ea7d39df6999ab991c7c76337c37962f07319b878003
+size 469

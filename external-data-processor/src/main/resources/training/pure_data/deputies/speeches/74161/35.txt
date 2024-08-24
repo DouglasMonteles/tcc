@@ -1,1 +1,3 @@
-Impressões da visita do orador à Cracolândia, em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:769ea60ce572ee636edeb2dbb36279cb4c85f526dc85873ed91f6567da340632
+size 85

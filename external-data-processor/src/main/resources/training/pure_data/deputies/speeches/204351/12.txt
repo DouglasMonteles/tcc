@@ -1,1 +1,3 @@
-Transcurso dos 502 anos da Reforma Protestante. Comemoração do Dia da Dona de Casa. Apoio à proposta de taxação de energia solar, defendida pela Agência Nacional de Energia Elétrica - ANEEL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb1465eb117eaeea46540acf8f5316aebe8e33f2a5783e4a2b8360a30e635046
+size 197

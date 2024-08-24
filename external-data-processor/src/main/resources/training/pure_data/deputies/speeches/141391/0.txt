@@ -1,1 +1,3 @@
-Declarações do Presidente do Senado Federal, Senador Garibaldi Alves Filho, em defesa da instituição. Inoperância da Comissão Representativa do Congresso Nacional durante o recesso parlamentar. Encaminhamento ao Ministério de Minas e Energia de requerimento de informações sobre a divulgação das atas do Comitê de Monitoramento do Setor Elétrico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93a798f60830f8b7c430a8a4eed5252e69965ccd47849fae46f86c20e90d1c57
+size 359

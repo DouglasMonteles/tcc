@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Hugo Motta diante de ofensas proferidas por Parlamentar. Acerto da representação contra o ofensor ao Conselho de Ética e Decoro Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:818eaeae31ec489beb31661201a24dfef93cb107035e0d646923381615ffee14
+size 169

@@ -1,1 +1,3 @@
-Transcurso do 30º aniversário de promulgação da Lei da Anistia Política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2400e94b57c18d81e4813778bba27aca055cb5f78f1963f7f0d118400140f9e
+size 77

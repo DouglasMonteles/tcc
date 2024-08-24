@@ -1,1 +1,3 @@
-Indeferimento, pelo Tribunal de Justiça de Minas Gerais, de recurso do ex-Governador Aécio Neves para sustação de ação civil por suposta prática de improbidade administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4aadb24569603be1032957a74d504cefb69d5863669b028f7e8f2ad48c363cda
+size 182

@@ -1,1 +1,3 @@
-Apoio à aprovação do projeto de lei em votação. Denúncia de fraude praticada pela empresa GCT - Gerenciamento e Controle de Trânsito S/A, com relação à pesagem de veículos de cargas na BR-259, no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59abf04104bba2f6bc69e281d0cccdf3d7c353c9789c007f4fd92e9dd93ad504
+size 233

@@ -1,1 +1,3 @@
-Críticas ao lançamento do PAC 2 pelo Governo Federal antes da conclusão de obras previstas na primeira edição do programa. Precariedade das BRs-381 e 040 no Estado de Minas Gerais. Escalada dos homicídios no Brasil. Ameaça à ordem pública pelo Movimento dos Trabalhadores Rurais Sem Terra - MST. Tentativas de desestabilização da ordem pública no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab1dd4b857fa5c9a6cea21e70b433ece887eed9a71ce9ea86b77e0eb3d828604
+size 380

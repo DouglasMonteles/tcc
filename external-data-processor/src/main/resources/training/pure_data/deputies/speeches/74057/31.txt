@@ -1,1 +1,3 @@
-Realização, pelo Conselho Nacional de Cultura, de reunião extraordinária para debate do tombamento da capoeira como patrimônio imaterial da Nação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb086301caf23a21d98277d8f91faca5e458aa0b0181911f25a0a50aaa0f7051
+size 153

@@ -1,1 +1,3 @@
-Defesa da utilização de reservas cambiais do País para estímulo à economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dc38bb3cb4b4360d9031885ec87ff0b3681aa1b515aa5dae4ac7390b578a9be
+size 91

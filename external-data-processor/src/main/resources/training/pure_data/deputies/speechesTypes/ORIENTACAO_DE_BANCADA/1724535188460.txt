@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque  para votação em separado da emenda destinada à redução do valor do Fundo Especial de Financiamento de Campanha - Fundo Eleitoral, para o mínimo obrigatório determinado pela legislação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0027d22905dfda57cb9312e907d5ab5489f49680db67aac817f1710e7a8d4b03
+size 259

@@ -1,1 +1,3 @@
-Concessão, pela Justiça cearense, de liminar em ação popular destinada à suspensão dos efeitos do Ato nº 62, de 2019, do Ministério da Agricultura, Pecuária e Abastecimento, sobre a liberação de novos agrotóxicos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66fcfa0ddb9b27419160fdc27cc5de098f4667aeb1d45176f73d61dc436e0d08
+size 234

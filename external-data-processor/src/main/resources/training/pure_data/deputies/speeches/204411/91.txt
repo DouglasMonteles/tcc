@@ -1,1 +1,3 @@
-Decretação, pelo governo petista, de sigilo das imagens da invasão das sedes dos Poderes da República e da cerimônia da posse presidencial. Descumprimento de promessas da campanha eleitoral pelo Presidente Luiz Inácio Lula da Silva. Ataques do Presidente da República ao Banco Central. Protesto contra a destinação, pelo governo brasileiro, de recursos do BNDES para realização de obras na Argentina. Incoerência de discursos de Deputados petistas sobre os gastos do Governo Jair Bolsonaro com o cartão corporativo. Oposição do orador ao Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bc53f05dc6887fc365b8137d6c0b6ac8273fd3087a0ecfa41cd23e4878bfd8e
+size 588

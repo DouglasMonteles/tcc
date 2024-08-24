@@ -1,1 +1,3 @@
-Orientação de bancada na votação, em primeiro turno, do Substitutivo oferecido pelo Relator da Comissão Especial à Proposta de Emenda à Constituição nº 10, de 2020, sobre a instituição de regime extraordinário fiscal, financeiro e de contratações, para enfrentamento da calamidade pública nacional decorrente da pandemia de coronavírus, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:748608eb4ea4a18bbf125c6ded8fe7148874fc811adc071b307af0be5d8d8a20
+size 379

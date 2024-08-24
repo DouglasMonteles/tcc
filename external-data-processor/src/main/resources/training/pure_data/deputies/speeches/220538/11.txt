@@ -1,1 +1,3 @@
-Lançamento da política de desenvolvimento produtivo pelo Governo Federal. Enaltecimento da gestão de Luciano Coutinho à frente do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:273e3136a85c4976c4366520595afc72b3474edd151bbc0dc5fce54ef21adf24
+size 196

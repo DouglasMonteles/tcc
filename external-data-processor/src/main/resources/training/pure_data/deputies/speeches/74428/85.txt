@@ -1,1 +1,3 @@
-Necrológio do empresário e pecuarista pernambucano Luiz Felipe de Almeida Brennand.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecbd240f613dcb565c12f2204b68e5f121a65e8cb0c05fe2f4b893a5a4465d3a
+size 85

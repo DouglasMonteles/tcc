@@ -1,1 +1,3 @@
-Obstrução das votações pela Oposição em protesto contra cortes de recursos orçamentários destinados à área da educação. Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 863, de 2018, sobre a abertura do setor aéreo ao capital estrangeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f19f001f280e46016af4ae84ffd6cd78038c38f11ff4fe7eb900131f977e607
+size 302

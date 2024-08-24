@@ -1,1 +1,3 @@
-Inauguração de calçamento na comunidade rural de Três Barras, pelo Prefeito Marcos Luiz Jauhar, Município de Guaçuí, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1156bf1569919e8c0658c11541369edcd89a6612baaa4790c69169ae5391dc81
+size 150

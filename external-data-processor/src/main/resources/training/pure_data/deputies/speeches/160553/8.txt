@@ -1,1 +1,3 @@
-Participação do orador nas comemorações do aniversário natalício do ex-Presidente da República Getúlio Vargas, no Município de São Borja, Estado do Rio Grande do Sul. Fortalecimento do PTB no Estado da Bahia e no Brasil. Votos de feliz Páscoa ao Presidente Inocêncio Oliveira, a seus familiares e aos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b49f7e6dba70cdbaba2871fff87eb65056d12444332c72c8c2d3bed06664702
+size 327

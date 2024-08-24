@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 35, apresentada ao Projeto de Lei Complementar nº 149, de 2019, (Plano Mansueto), sobre a criação do Programa de Acompanhamento e Transparência Fiscal, do Plano de Promoção do Equilíbrio Fiscal, e alteração das Leis Complementares de nºs 101, de 2000, e 156, de 2016; das Leis de nºs 12.348, de 2010, e 12.649, de 2012, e da Medida Provisória nº 2.185-35, de 2001.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e0269239ec514f185b2b64d001c592537309cc6bb394a80b5392601e55a485d
+size 483

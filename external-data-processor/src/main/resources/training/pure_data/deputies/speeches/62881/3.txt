@@ -1,1 +1,3 @@
-Congratulação ao Deputado Wilson Filho pelo discurso proferido a respeito da disseminação do crack no País. Visita do Ministro da Saúde, Alexandre Padilha, ao Estado do Ceará para debate de diretrizes de combate à dengue. Importância de construção da Barragem do Ipu para o abastecimento de água no Município de Itapajé. Construção de hospitais nos Municípios de Juazeiro do Norte e Sobral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a1982ea697260284b02611a7cef50116f53eb2a79de33fa18f3504ee0b8712a
+size 407

@@ -1,1 +1,3 @@
-Envolvimento de autoridades do Governo do Estado do Tocantins em denúncias de corrupção. Repúdio às declarações da Secretária-Chefe da Casa Civil, Mary Marques de Lima, ofensivas ao padre Martin Keveny, do Município de Colinas do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:833e07572a1a85f80b6f1f401ab00dd9aa24bcbf0ad7602abdf44ca6064877c4
+size 249

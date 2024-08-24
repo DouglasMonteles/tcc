@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda de Plenário 27, destacada, ao  Substitutivo ao  Projeto de Lei 1.209 de 2011 (Institui o Programa Nacional de Acesso ao Ensino Técnico   e  Emprego  - PRONATEC; Altera as Leis 7.998 de 1990, que regula o Programa do Seguro-Desemprego, o Abono Salarial e institui o Fundo de Amparo ao Trabalhador - FAT; 8.212 de 1991, que dispõe sobre a Organização da Seguridade Social e institui Plano de Custeio; e 10.260 de 2001, que dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior; e dá outras providências),  que inclui  o curso de qualificação profissional relacionados pelo Ministério do Trabalho e Emprego entre as modalidades de educação profissional e tecnológica considerados para os fins do PRONATEC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04014e8aa788fb1a4b3fbabecff16426c0477c79990caebe82553eda70f5c12e
+size 770

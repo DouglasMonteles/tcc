@@ -1,1 +1,3 @@
-Defesa de criação de Comissão Externa para acompanhamento de investigações relacionadas à violência contra a mulher e ao feminicídio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e384f0a4a07f96d1f4422bb8ed375b456bbc22038466b0c6a0b08cb7a056e53c
+size 141

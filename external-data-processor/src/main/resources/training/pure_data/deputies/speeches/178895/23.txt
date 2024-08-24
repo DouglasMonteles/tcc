@@ -1,1 +1,3 @@
-Apoio à redução da maioridade penal no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b68a8bc2ba7750cfa9c0fff00cd3e45626d1d00f9b4b7fec972f3ce85ae9cb8
+size 49

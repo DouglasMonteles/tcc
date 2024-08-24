@@ -1,1 +1,3 @@
-Escalada das queimadas no interior do Estado da Bahia. Transcurso do 40º aniversário de fundação da Empresa de Turismo da Bahia S.A. - BAHIATURSA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c709f4e2d0c78cbfd40a354fa2a7cd8c3e383b1656a192c934b47f19741cdffd
+size 150

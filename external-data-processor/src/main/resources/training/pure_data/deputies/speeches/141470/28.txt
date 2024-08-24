@@ -1,1 +1,3 @@
-Acerto da política socioeconômica do Governo Federal, particularmente quanto à distribuição de renda. Considerações sobre os investimentos previstos no Programa de Aceleração do Crescimento - PAC para a Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27a216b27e41c4137503f648d762c6fa7fbf9827bcf56407464154ac7ec09999
+size 229

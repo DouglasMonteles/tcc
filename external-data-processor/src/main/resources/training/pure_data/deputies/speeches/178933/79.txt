@@ -1,1 +1,3 @@
-Apelo aos Deputados para aprovação da Medida Provisória nº 793, de 2017, sobre a instituição do Programa de Regularização Tributária Rural junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76506439fa787fa8d9e82c194cb9852dbe0d1478b695820dfb93c0f1fd6c02cd
+size 241

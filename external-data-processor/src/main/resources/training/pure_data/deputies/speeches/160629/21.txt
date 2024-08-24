@@ -1,1 +1,3 @@
-Razões da apresentação de projeto de lei sobre a obrigatoriedade da publicação, pelas instâncias gestoras do Sistema Único de Saúde - SUS, da relação dos medicamentos de uso contínuo disponíveis nos Centros Especializados de Dispensação de Medicamentos Excepcionais - CEDMEX.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76a6d75674a4d0ab6f1a83f9aa1eae8f889e84cc30519187758dccb3fb9aa310
+size 289

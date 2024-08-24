@@ -1,1 +1,3 @@
-Questão de ordem sobre acerto da decisão da Presidência de não encerramento da sessão durante votação de matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1afdf1bab1780b7748be0c2253be667c8196272152d9f69cbf6f33def6ccb55e
+size 121

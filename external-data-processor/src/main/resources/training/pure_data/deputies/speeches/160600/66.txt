@@ -1,1 +1,3 @@
-Elogio ao Presidente Henrique Eduardo Alves pelo esforço em prol da votação da Medida Provisória dos Portos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f90469b22f6a51e15227efb631927fd3483745ea880247cb50706f0a0b61981b
+size 112

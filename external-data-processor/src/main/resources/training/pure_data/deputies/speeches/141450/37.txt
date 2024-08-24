@@ -1,1 +1,3 @@
-Transcurso do 70º aniversário do Município de Três Rios e do 21º aniversário dos Municípios de São José do Vale do Rio Preto e Paty do Alferes, no Estado do Rio de Janeiro. Potencialidades econômicas e turísticas das municipalidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85689817d4380bd714c4849025d9699b3688f93f429e9906cda02c2a0b141c93
+size 244

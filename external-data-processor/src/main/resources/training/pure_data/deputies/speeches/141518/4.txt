@@ -1,1 +1,3 @@
-Retirada dos destaques do Bloco PSB/PDT/PcoB/PMN/PRB  ao Projeto de Lei de Conversão da Medida Provisória 410 de 2007 (Acrescenta artigo à Lei 5.889 de 1973, criando o contrato de trabalhador rural por pequeno prazo, estabelece normas transitórias sobre  aposentadoria do trabalhador rural e prorroga o prazo para contratação de financiamento  rurais de que trata o § 6º do art. 1º da Lei 11.534 de 2007), visando à agilização da votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da47d097f8831e192f310453139ff3e8be05ed961286549bb349f362b73fc6f1
+size 464

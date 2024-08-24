@@ -1,1 +1,3 @@
-Apoio do PSC à complementação da votação dos destaques  à PEC  446 de 2009 (Institui o piso salarial para os servidores policiais), do Senado, apensa a PEC 300 de 2008, aprovada em primeiro turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daad18ce0858524ce6853f679ea8ab5243561c4ca170dd73b901494ea64141dc
+size 202

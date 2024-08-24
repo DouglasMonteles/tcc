@@ -1,1 +1,3 @@
-Perplexidade ante a iniciativa do Presidente Michel Temer de arguição de suspeição do Procurador-Geral da República, Rodrigo Janot. Acompanhamento da atuação da futura Procuradora-Geral da República, Raquel Dodge.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3d4c931e0184eb5489c81d1ab618688e112e0b50a5ea4a55183b6031803cdda
+size 221

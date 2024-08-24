@@ -1,1 +1,3 @@
-Contrariedade à anunciada liberação do acesso de cruzeiros marítimos ao arquipélado de Fernando de Noronha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54196910ef24c4836b122a02750867aabb4d6c8eaf11c99e33c70d42e3c836ea
+size 112

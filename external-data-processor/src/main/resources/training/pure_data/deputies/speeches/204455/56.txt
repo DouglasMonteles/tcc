@@ -1,1 +1,3 @@
-Críticas à Igreja Católica pelo apoio aos Governos esquerdistas da América do Sul. Compromisso de atuação em defesa da liberdade e da democracia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f617f881492dac87ee4398199051851f66ddccdbd3dae80255217599cefab086
+size 151

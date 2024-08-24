@@ -1,1 +1,3 @@
-Votos de plena recuperação da saúde ao ex-Presidente Luiz Inácio Lula da Silva. Regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação à saúde de percentuais da União, Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de27cad7a1f9353939d21ddf5a9354b9360ecda9e43f3ea6802f41e695cb9dcd
+size 222

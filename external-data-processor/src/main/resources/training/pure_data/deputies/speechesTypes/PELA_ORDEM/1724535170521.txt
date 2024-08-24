@@ -1,1 +1,3 @@
-Posicionamento do governo petista e do PT favorável à criação de CPMI para investigação dos atos de vandalismo praticados contra as sedes dos Poderes da República.&nbsp;Importância do Projeto de Lei do Congresso Nacional nº 5, de 2023, a respeito da alocação de recursos para o pagamento do piso salarial nacional dos profissionais da enfermagem e da parteira. Instalação de posto avançado da Justiça Federal no Município de Piripiri, Estado do Piauí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fb6a93011afadba3fa1954055a2ec94ab62e7a81063af7839ff4cde3bd9a051
+size 468

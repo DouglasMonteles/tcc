@@ -1,1 +1,3 @@
-Anúncio de realização da 12ª Mostra Empresarial do Leste Mineiro, no Município de Governador Valadares. Transcurso do 70º aniversário da Associação Comercial de Governador Valadares. Êxito da gestão da Prefeita Municipal Elisa Maria Costa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db4af69e4f71c4b09f8380b4c4c52c861ce9a4786c522405a5d7d131cddc8c99
+size 250

@@ -1,1 +1,3 @@
-Maior cautela dos Parlamentares no exame do parecer oferecido pelo Relator Beto Pereira ao Projeto de Lei nº 2.384, de 2023, sobre o disciplinamento da proclamação de resultados de julgamentos, na hipótese de empate na votação no âmbito do Conselho Administrativo de Recursos Fiscais - CARF; a conformidade tributária no âmbito da Secretaria Especial da Receita Federal do Brasil do Ministério da Fazenda; e o contencioso administrativo fiscal de baixa complexidade. Posicionamento da Frente Parlamentar Mista do Empreendedorismo contrário ao voto de qualidade no Conselho Administrativo de Recursos Fiscais - CARF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83a70b1b7819c7be5e8275dbc61a113f6e811c2e2a76745b9ac900035a1f0659
+size 626

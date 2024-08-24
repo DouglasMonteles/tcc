@@ -1,1 +1,3 @@
-Proposta à Presidência de realização, pela Casa, de homenagem ao arquiteto Oscar Niemeyer por ocasião do transcurso do seu aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bebf496fbdbd6c84820450e4df884187b38f8547b48c9ac69e2b7d146f15dfd
+size 152

@@ -1,1 +1,3 @@
-Votos de condolências à Deputada Flordelis, em nome do orador e do PRB, diante do assassinato do seu esposo, Pastor Anderson do Carmo de Souza. Apelo ao Governador do Estado do Rio de Janeiro, Wilson Witzel, de apuração e punição dos responsáveis pelo crime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c926093b06b76bb49d0c37b16bacd96798df5e31358395e7db5f115cee9c4ef3
+size 265

@@ -1,1 +1,3 @@
-Emissão de parecer à Emenda de Plenário nº 3, apresentada ao Projeto de Lei nº 3.006, de 2022, sobre a transformação de cargos de Analista e de Técnico do Ministério Público da União em cargos de Subprocurador-Geral do Trabalho, Procurador Regional do Trabalho e em cargos em comissão, código CC-4, no âmbito do Ministério Público do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62965f5473760d4142c863315271bdc8491c674caa1a19ee137ce1898143957d
+size 359

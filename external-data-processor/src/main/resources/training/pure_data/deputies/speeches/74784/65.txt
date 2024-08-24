@@ -1,1 +1,3 @@
-Realização do Seminário Internacional sobre Comissões da Verdade, pela Comissão de Direitos Humanos e Minorias em parceria com a Secretaria Especial dos Direitos Humanos. Apreciação pela Casa do Projeto de Lei nº 7.376, de 2010, sobre a criação da Comissão Nacional da Verdade, destinada à apuração de casos de tortura, sequestros, desaparecimentos e violações de direitos humanos durante a ditadura militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a03f7161f8272e73bee64b02404b2c44a889bb7d64646c2a4519442d85088806
+size 424

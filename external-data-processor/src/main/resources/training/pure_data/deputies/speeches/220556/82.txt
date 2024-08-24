@@ -1,1 +1,3 @@
-Declaração prestada à CPMI da invasão das sedes dos Poderes da República, pelo hacker Walter Delgatti Neto, sobre o pagamento ao declarante, pela Deputada Carla Zambelli, para invasão de urnas eletrônicas. Realização pela Polícia Federal da operação Festa da Selma, destinada à prisão de suspeitos de envolvimento nos atos antidemocráticos ocorridos em 8 de janeiro de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ad1f3c4c5034530b485f8dfcff0144b517f919f1bf2662e9147af9ca0d35a39
+size 389

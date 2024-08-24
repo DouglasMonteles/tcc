@@ -1,1 +1,3 @@
-Questão de ordem sobre a improcedência das acusações do Deputado Fernando Ferro contra oposicionistas. Episódio de agressão, no plenário da Casa, entre os Deputados Devanir Ribeiro e Onyx Lorenzoni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0caf1d2a4375a88e62cd0ac19916e0862211aafbff36e81f16017631cf3a2d8d
+size 205

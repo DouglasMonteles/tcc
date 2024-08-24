@@ -1,1 +1,3 @@
-Histórico das negociações entre o Sindicato dos Servidores das Agências Nacionais de Regulação - SINAGÊNCIAS e o Governo Federal, em defesa da reestruturação das carreiras das agências reguladoras. Correspondêcias encaminhados pelo SINAGÊNCIAS ao Presidente Luiz Inácio Lula da Silva; ao Ministro do Planejamento, Orçamento e Gestão, Paulo Bernardo; e ao Presidente da Casa, Arlindo Chinaglia. Apoio às reivindicações do Sindicato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a5c68d758470675e3f424753dbf9f554cc8f440f6bf433032b0b82b392cba38
+size 449

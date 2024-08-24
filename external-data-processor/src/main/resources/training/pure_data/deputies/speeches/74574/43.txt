@@ -1,1 +1,3 @@
-Transcurso do 86º aniversário natalício do Senador Antônio Carlos Magalhães.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d08d2e4dc3adb3471abc7f02b7580b76d416b7b138607924adcfc1cdb4967a36
+size 81

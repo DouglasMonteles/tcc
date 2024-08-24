@@ -1,1 +1,3 @@
-Crítica a alterações da Câmara dos Deputados na proposição relativa à implantação de medidas de combate à corrupção, especialmente quanto à previsão da responsabilidade criminal de membros do Poder Judiciário e Ministério Público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:becd5d7c36b16c396cb5e8c022dba54bcb91b4f58dc6830b2ddf6ce6c06883dd
+size 247

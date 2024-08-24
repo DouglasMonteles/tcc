@@ -1,1 +1,3 @@
-Tendência de redução da pobreza e da desigualdade social no País, conforme estudos divulgados pela Fundação Getúlio Vargas e pelo Instituto de Pesquisa Econômica Aplicada - IPEA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1e4595fcb148482b7fc9ac208b89b2581361bca2445e65d78b8b63d3768e8ba
+size 186

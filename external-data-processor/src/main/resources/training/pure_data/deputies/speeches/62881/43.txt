@@ -1,1 +1,3 @@
-Falecimento do engenheiro e político José Maria Félix e do ex-Deputado Federal Themístocles de Castro e Silva, do Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37fe94ca446ba8945a6ddc4cba5eee126acb05e70cfc74d7b2fe372e8566c852
+size 135

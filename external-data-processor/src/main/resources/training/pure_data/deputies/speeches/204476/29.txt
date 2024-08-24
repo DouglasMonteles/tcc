@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei de Conversão nº 8, de 2020, adotado pela Comissão Mista, à Medida Provisória nº 915, de 2019, a respeito do aprimoramento dos procedimentos de gestão e alienação dos imóveis da União, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2971f032013e10ec1b0c42c68d9c07de828094cc1b4c9b4c324da63ea0d78e2c
+size 275

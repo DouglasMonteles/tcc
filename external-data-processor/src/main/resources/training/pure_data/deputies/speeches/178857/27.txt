@@ -1,1 +1,3 @@
-Transcurso do 25º aniversário de promulgação da Lei Orgânica da Saúde. Baixa aplicação de recursos no Sistema Único de Saúde. Proposta de regulamentação da taxação sobre grandes fortunas para incremento dos recursos destinados à saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51577808a7b90d8fa033f96fbf6b029c370233aacde9c26e8c116b97de33d80f
+size 251

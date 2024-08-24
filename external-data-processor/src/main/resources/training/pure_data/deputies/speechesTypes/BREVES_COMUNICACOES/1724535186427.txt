@@ -1,1 +1,3 @@
-Presença no plenário do Prefeito Jorge Luiz Gomes da Costa, do Município de Volta Grande, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3105efd59677551a7a8ccce3337c060b71efeaf5de4c883c5669d7a3176b782
+size 116

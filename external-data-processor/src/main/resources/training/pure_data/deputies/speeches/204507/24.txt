@@ -1,1 +1,3 @@
-Contestação ao discurso da Esquerda a respeito da convocação, pelo Governo Federal, de manifestação popular para fechamento do Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b44bc31afc6fcfff92fa7a9877b8215415d45b8340ae18fb7c21c06d100ccec
+size 152

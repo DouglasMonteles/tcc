@@ -1,1 +1,3 @@
-Satisfação com o retorno do Deputado Takayama à Casa. Expectativa de aprovação de proposta de emenda à Constituição relativa à redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b430be58d6e023d616b20dfcf3ddb2d8806f56c6c94297893f353ae91dad903
+size 166

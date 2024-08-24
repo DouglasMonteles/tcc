@@ -1,1 +1,3 @@
-Transcurso do 10º aniversário de criação do Haras Brejo das Flores, no Município de Garanhuns, Estado de Pernambuco. Saudação ao autor do empreendimento, empresário Erlan Bezerra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70424ee426bbd09d3ba9742c14fce559b6a1be106c7b7defb57c422de96764aa
+size 187

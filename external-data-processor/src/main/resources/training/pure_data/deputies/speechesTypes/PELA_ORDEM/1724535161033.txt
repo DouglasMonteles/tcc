@@ -1,1 +1,3 @@
-Prejuízos causados aos trabalhadores rurais por equívocos de políticas públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bae03c8995ad75872a1ae2fafc0fa249a284f8d6db763a79cb805d4d491b74f5
+size 84

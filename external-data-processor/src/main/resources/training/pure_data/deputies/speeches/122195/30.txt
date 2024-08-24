@@ -1,1 +1,3 @@
-Indiferença do eleitorado brasileiro em relação à campanha do pleito municipal de 2012. Imediata realização da reforma política. Apoio ao financiamento público de campanhas eleitorais e à adoção de lista fechada nas eleições proporcionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32da6c89ce41a096cab233fa4a897e4f7e63ec3afe305151d7d9abe337643c50
+size 252

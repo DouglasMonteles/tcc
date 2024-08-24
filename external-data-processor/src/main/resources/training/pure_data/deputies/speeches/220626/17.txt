@@ -1,1 +1,3 @@
-O Deputado convidou os Parlamentares para a festa de Nossa Senhora da Conceição em Conceição dos Ouros, em Minas Gerais. Destacou a organização do evento pelo Pároco e festeiros, enfatizando a hospitalidade da cidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0d7854939592d33bee435a9e57f3567c9605205f3afa842962296ad26db1e86
+size 224

@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação da Subemenda Substitutiva Global oferecida ao Projeto de Lei nº 5.497, de 2019, que altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, sobre o estabelecimento dos princípios gerais da Política Nacional do Cinema, para prorrogar o prazo de obrigatoriedade de exibição comercial de obras cinematográficas brasileiras, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43075b55f44d5a968f472712aa70b4ef9c339d5737146fa109822920d6c55c15
+size 406

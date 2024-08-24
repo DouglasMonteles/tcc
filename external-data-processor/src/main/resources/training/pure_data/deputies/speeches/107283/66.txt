@@ -1,1 +1,3 @@
-Consulta à Presidência sobre o encaminhamento à Casa, pelo Poder Executivo, de medida provisória acerca da concessão de crédito às empresas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:608f01b1405f84ca3d78bfda38420587432edd6bc53bad2126827909aafad373
+size 159

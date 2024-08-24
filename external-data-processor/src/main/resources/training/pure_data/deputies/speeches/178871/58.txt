@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Café. Aprovação pela Casa de projeto de lei, de autoria do orador, sobre a criação da Política Nacional de Incentivo à Produção de Café de Qualidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ceae3747b38dd07f528bb05747ecd867c4e5901dc342af67c8e94935daee6f9
+size 189

@@ -1,1 +1,3 @@
-Conveniência de utilização de portaria do Ministério da Saúde para a exclusão/inclusão, no Projeto de Lei nº 668, de 2020, de produtos médicos, hospitalares e de higiene essenciais no combate à epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2e1b13265a3882e8b0350913fb002065e7ccdd9fd49ee70c531a2b923bac6f1
+size 229

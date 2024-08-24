@@ -1,1 +1,3 @@
-Congratulações ao Prefeito João Gonçalves Jr., do Município de Jaru, Estado de Rondônia, por inauguração de reforma do hospital municipal. Alocação de recursos de emenda parlamentar do orador para aquisição de equipamentos médico-hospitalares para a instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c07bb8773c7bfd2e0f369bc7695c2cc83849a7dc1069f495c16599b2c3daa75
+size 277

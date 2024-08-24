@@ -1,1 +1,3 @@
-Solidariedade ao Governador do Estado do Rio de Janeiro, Luiz Fernando Pezão, em face de afastamento do cargo para tratamento de câncer. Solicitação ao Governador em exercício do Rio de Janeiro, Francisco Dornelles, de pagamento de salário a terceirizados, servidores e aposentados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:692d69150dea12b6d31fc537224cdc275c4af8a0eeb9d73927dd20ebc6530a88
+size 288

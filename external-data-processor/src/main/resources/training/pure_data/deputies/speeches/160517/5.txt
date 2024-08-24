@@ -1,1 +1,3 @@
-Críticas à atuação do Departamento Nacional de Infraestrutura de Transportes - DNIT. Apelo ao Ministério da Saúde para recredenciamento das Santas Casas de Misericórdia do País como entidades filantrópicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f51bc757caf60e9dae43e8b894c4364d46780b7ada708f744d7d5e5a8d7d7405
+size 215

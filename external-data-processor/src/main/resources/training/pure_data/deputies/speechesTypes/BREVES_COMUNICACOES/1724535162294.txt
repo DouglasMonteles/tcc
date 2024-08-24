@@ -1,1 +1,3 @@
-Presença na Casa do Secretário de Cultura do Município de Ourinhos, Estado de São Paulo, Fernando Cavezale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb2527e7e1df0b16e6eab62c0f3cfb89539919b5e283c7cb14ea2f4cf4b416b3
+size 111

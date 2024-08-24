@@ -1,1 +1,3 @@
-Classificação do Brasil em 5º lugar no ranking mundial de acidentes de trânsito com vítimas fatais. Ausência de representantes do País em encontro para discussão de acidentes de trânsito realizado pela Organização das Nações Unidas - ONU, em Moscou, Rússia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b704072dd81f2dc55011aefc85952b8f89cf7dc2adc2db465dec06da24917747
+size 271

@@ -1,1 +1,3 @@
-Início das obras de esgotamento sanitário em Fortaleza, Estado do Ceará, com recursos do Programa de Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9ab33dcd20bca309f1026f5ccca2d63f5ca0a96ca475220c796d572ba5f9b0e
+size 138

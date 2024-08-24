@@ -1,1 +1,3 @@
-Apoio à aprovação da Proposta de Emenda à Constituição nº 410, de 2018, sobre consideração da inculpabilidade até a confirmação de sentença penal condenatória em grau de recurso. Importância de extinção da impunidade no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ba52108e298d9541340423d373816f60649fcb440ea90ccf2e7a0dfb7862409
+size 244

@@ -1,1 +1,3 @@
-Resultado insatisfatório da intervenção federal na área da segurança pública do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5642a87b7431b61d3d92da871254e6601af0fbe77ce4ff1b963c53aee94535f
+size 111

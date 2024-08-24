@@ -1,1 +1,3 @@
-Transcurso do primeiro ano de vigência da Lei 11.705, de 2008, a chamada Lei Seca, coibitiva da ingestão de bebidas alcoólicas por condutores de veículos automotores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d7248709cc6935466f1c8521022085741e6504ab083a8ae8a7b93f2222f8f8b
+size 170

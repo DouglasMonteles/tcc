@@ -1,1 +1,3 @@
-Encaminhamento de requerimentos de informações ao Ministro da Educação, Cid Gomes, sobre ocorrência de atrasos nos repasses do Programa de Financiamento Estudantil - FIES e do Programa Nacional de Acesso ao Ensino Técnico e Emprego. Institucional - PRONATEC, com prejuízos a alunos e instituições de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14667621f7f8f93518ee39e97d05e26007de97c19e1580626e2e197e2a72580f
+size 316

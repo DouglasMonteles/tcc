@@ -1,1 +1,3 @@
-Presença no plenário do Deputado Estadual do Paraná, Ney Leprevost. Reajuste da tabela de procedimentos do Sistema Único de Saúde - SUS com relação a partos, no Estado do Paraná. Alerta ao Ministério da Saúde sobre os riscos de descredenciamento de maternidades paranaenses do SUS. Urgente necessidade de realinhamento da tabela de procedimentos do SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:116d5f6dcdf4a3ea3ca47016f9032029d0a5f914feb123ed2c2f824c48f51d68
+size 363

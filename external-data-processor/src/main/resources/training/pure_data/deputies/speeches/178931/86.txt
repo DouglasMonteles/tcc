@@ -1,1 +1,3 @@
-Anúncio, pelo Ministro da Saúde, Ricardo Barros, de destinação de recursos federais para a rede pública de saúde do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f89be582236630492ad12fede55130bd1b9561fefef1d9e16367f494a6333fea
+size 140

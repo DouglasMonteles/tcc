@@ -1,1 +1,3 @@
-Contestação ao pronunciamento do Deputado Jorge Solla sobre a desativação dos serviços de tratamento de câncer do Hospital São Rafael, no Município de Salvador, Estado da Bahia. Natureza ambígua do discurso de Deputados contrários à criação dos cadastros positivos de crédito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19ffe2e46dd1cb748f7fc0bafc6fdcdb751905e0fece407e6f64ec2a7182bb40
+size 290

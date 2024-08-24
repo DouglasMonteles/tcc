@@ -1,1 +1,3 @@
-Responsabilidade do Governador José Serra e do Prefeito Municipal Gilberto Kassab pelas consequências das enchentes em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec92bfd44c01dab824f4aaca4f08d01d19de85132923480f3936f1749ed44db8
+size 154

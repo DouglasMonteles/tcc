@@ -1,1 +1,3 @@
-Transcurso do 161º aniversário de emancipação político-administrativa do Município de Caratinga, Estado de Minas Gerais. Realização da 40ª Exposição Agropecuária de Governador Valadares. Plano de Safra 2009/2010. Apoio à atualização do Código Florestal Brasileiro
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e484ecef61057fd5e1938c2680af8863d4e4c16a13ca7139d8fff7d38d957ef
+size 279

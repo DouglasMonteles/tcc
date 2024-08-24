@@ -1,1 +1,3 @@
-Apoio ao Programa Territórios da Cidadania, destinado à promoção do desenvolvimento regional e à inclusão social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45055eadb2ff756270de8317d95a9875c391162955723914d257fcbb91183ec0
+size 119

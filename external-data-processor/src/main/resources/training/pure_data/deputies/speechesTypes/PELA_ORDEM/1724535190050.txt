@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do Título III - Da Propaganda Partidária,  constante no Livro XVI - Da Propaganda Política, da Subemenda Substitutiva Global apresentada ao Projeto de Lei Complementar nº 112, de 2021, acerca das normas eleitorais e das normas processuais eleitorais brasileiras. Presença, na Casa, do Prefeito Fábio Graton e do Vice-Prefeito João Carlos, do Município de Sales Oliveira, Estado de São Paulo, acompanhados dos Vereadores Thiago, Tatá e Alan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c61ff0e123f43af36fc1302e0d4affdcd498a4f3652a67f9ee323fc5212a7223
+size 531

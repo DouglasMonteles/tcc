@@ -1,1 +1,3 @@
-Implantação do programa Não à Miséria pela Prefeitura Municipal de Aracati, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d273607820a97afaa48f4e73d059b3011f00653871b31264cd86ca1fccb874b3
+size 98

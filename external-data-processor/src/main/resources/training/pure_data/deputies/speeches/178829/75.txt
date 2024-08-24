@@ -1,1 +1,3 @@
-Pedido aos Deputados de apoio ao requerimento de urgência para apreciação de proposta sobre o fim da prisão disciplinar administrativa para os policiais e bombeiros militares. Contrariedade à Proposta de Emenda à Constituição nº 172, de 2012, sobre o estabelecimento de critérios para a transferência de encargos aos Estados, em face de sua natureza conflitante com a Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2037564db297e8a1b2ce3e034beedd31b0217bff7a4092a55909a91fc84c40fa
+size 513

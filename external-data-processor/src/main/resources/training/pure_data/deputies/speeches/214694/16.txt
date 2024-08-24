@@ -1,1 +1,3 @@
-O Deputado homenageou o Prefeito de Blumenau, além da rainha e das princesas da Oktoberfest. Convidou os parlamentares e o público em geral para participarem do evento, destacando que é a maior festa alemã fora de Munique e que celebra a cultura e a força do povo blumenauense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:412a25cf188be78aa19e3e2de57400f9070c0f7c174da93f0b5ea8282b1ca98c
+size 282

@@ -1,1 +1,3 @@
-Realização no País de manifestações públicas em prol da educação. Avanços no setor educacional nos governos do PT. Matéria intitulada Bolsonaro e as universidades públicas, de autoria do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d44cae17cb35b0de7dd7236d530b1b80f4c51dd26ab70dd83229c84f30b72d38
+size 205

@@ -1,1 +1,3 @@
-Defesa do Congresso Nacional de aprovação de matérias em prol dos trabalhadores aposentados, especialmente das propostas de extinção do fator previdenciário e de extensão à categoria de reajustes concedidos ao salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b7e295c9fc707a0edd273032ccb0a7bb687dd9c65699f335414b610da760e66
+size 235

@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Prefeito Pedro Pimentel Ribeiro, do Município de Itiruçu, Estado da Bahia. Transcurso do aniversário natalício do ex-Prefeito Geraldo Pereira da Costa, o Piau, do Município de Carinhanha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:886db04a8c33f0309fdd776db78d72202a5913889d817a3e925962f59f5cb691
+size 217

@@ -1,1 +1,3 @@
-Leitura de trecho da Bíblia Sagrada. Apoio à aprovação da Proposta de Emenda à Constituição nº 372, de 2017, sobre a criação das polícias penais federal, estaduais e distrital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f9f08ea353aa0fe200b424f30e128c69dd6611060936d6d50a2ce46a37eee69
+size 187

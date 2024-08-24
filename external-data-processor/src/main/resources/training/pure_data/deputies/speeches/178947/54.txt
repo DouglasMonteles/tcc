@@ -1,1 +1,3 @@
-Preocupação com as consequências das chuvas em cidades do Leste Fluminense, no Estado do Rio de Janeiro. Crítica ao comportamento do Prefeito Washington Quaquá, do Município de Maricá, em relação a alagamento de condomínio de residências do Programa Minha Casa, Minha Vida. Necessidade de apuração de responsabilidades quanto à escolha e à aquisição do terreno do empreendimento. Apelo às autoridades por apoio às vítimas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93d9ca2f682a2f75f3d23a18a75838720f9003d4187a06d7e7d91990f2a3c15c
+size 442

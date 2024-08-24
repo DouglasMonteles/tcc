@@ -1,1 +1,3 @@
-Transcurso do Dia da Abolição da Escravatura (13 de maio).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b8472b085514385ea34c9cba0da29e10c13e55a8cb4a3e8653a7e1bbd1d5924
+size 60

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento para apreciação em regime de urgência do Projeto de Decreto Legislativo nº 614, de 2019, sobre a sustação dos efeitos da Portaria nº 547, 2019, editada pela Secretaria Especial de Comércio Exterior e Assuntos Internacionais do Ministério da Economia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23c76b5e102d884681c724ed0172a1b7bf8cf8a4787e650968d46040e63b1948
+size 312

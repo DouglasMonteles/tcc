@@ -1,1 +1,3 @@
-Razões da visita do Presidente Luiz Inácio Lula da Silva e de Ministros de Estado ao Município de Montes Claros, Estado de Minas Gerais. Homenagem prestada na municipalidade ao Vice-Presidente da República, José Alencar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6ed61970532f4b67a12408757383dc0c200ceb3f2c9c6d1caeb0b409d7a276f
+size 225

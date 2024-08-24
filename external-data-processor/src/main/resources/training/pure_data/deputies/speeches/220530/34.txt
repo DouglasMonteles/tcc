@@ -1,1 +1,3 @@
-Transcurso dos 133 anos do Município de Cariacica, Estado do Espírito Santo. Elogio à atuação do Prefeito da municipalidade, Euclerio Sampaio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:617dd18dfa393e5ed74e0e5a329fb6eaf8d47fbaa921c92f5dbc56313f42d78a
+size 147

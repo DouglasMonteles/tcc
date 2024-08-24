@@ -1,1 +1,3 @@
-Questão de ordem sobre a impossibilidade de concessão da palavra ao Deputado Guilherme Boulos pela Liderança do PSOL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8b4b01c4ebc76da3bbe939285786b04da2102111403a62f848672e512ce0b03
+size 120

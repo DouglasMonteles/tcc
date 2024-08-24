@@ -1,1 +1,3 @@
-Desobstrução da pauta de votações mediante acordo entre a Oposição e a base governista.Congratulações à Presidência da Casa e aos demais membros da Mesa Diretora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b73a5a09e41ce3859ca1ada9b75d3bc09497bd6affdec807ebb57cc59e93f404
+size 172

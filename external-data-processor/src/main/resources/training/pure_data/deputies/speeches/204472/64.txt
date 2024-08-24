@@ -1,1 +1,3 @@
-Protesto contra a não liberação, pela Secretaria da Receita Federal do Brasil, de voo entre Santa Cruz de la Sierra, na Bolívia, e Cuiabá, no Estado de Mato Grosso. Pedido ao Presidente Jair Bolsonaro de substituição do Secretário da Receita Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b9715d87092fb20ed8866cfc7a35305699835cbb8dc8f70098d0c4d628d2eb6
+size 258

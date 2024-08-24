@@ -1,1 +1,3 @@
-Presença no plenário do Presidente da Escola do Teatro Bolshoi no Brasil, Valdir Steglich.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9489db8c6e406ee30c6414ec258b5db47c9e4e0e526eeb4078730964a95f04f4
+size 92

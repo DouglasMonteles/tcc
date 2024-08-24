@@ -1,1 +1,3 @@
-Esclarecimento sobre a decisão da bancada do PSOL de voto contrário ao Projeto de Lei Complementar nº 93, de 2023, sobre a instituição de regime fiscal sustentável para a garantia da estabilidade macroeconômica do País e para a criação das condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda à Constituição nº 126, de 21 de dezembro de 2022 (novo arcabouço fiscal). Manutenção do apoio ao Governo Luiz Inácio Lula da Silva pela agremiação partidária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b057bedc2f555bc01924fcf08f77dadb42358becfcb1e450a2f9785b110b05c9
+size 518

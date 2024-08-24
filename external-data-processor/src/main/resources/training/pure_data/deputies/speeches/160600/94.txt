@@ -1,1 +1,3 @@
-Condicionamento, pelo Partido Solidariedade, da retirada do pedido de abertura de novo painel de votação no plenário à retirada da pauta do Projeto de Decreto Legislativo nº 1.055, de 2013, a respeito da realização de acordo entre o Brasil e a França acerca de combate ao garimpo ilegal em região entre o Estado do Amapá e a Guiana Francesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:151cb2fe23a693918ad435877c516bcfcea827e49469aa5e8c6ef235f99ec218
+size 351

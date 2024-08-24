@@ -1,1 +1,3 @@
-Agradecimento à Presidência, aos Líderes partidários, à Relatora Luisa Canziani e à Juíza Federal Caroline Tauk, pela aprovação do Projeto de Lei nº 21, de 2020, sobre o estabelecimento de fundamentos, princípios e diretrizes para o desenvolvimento e a aplicação da inteligência artificial no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edfd56887907c9d941f68914f587d16a0098cff6174be4076f9d7b37cb09c91a
+size 314

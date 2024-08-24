@@ -1,1 +1,3 @@
-Saudações aos novos membros da nova Mesa Diretora da Casa. Maior divulgação dos trabalhos realizados pelos Parlamentares em seus respectivos Estados. Votos de condolências aos familiares do Deputado Beto Albuquerque em face do falecimento de seu filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bca9090bd8c6ef5dbef3ef0e5eec45d8ac1ef44f508601b1c9adafe1877a345
+size 257

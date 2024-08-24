@@ -1,1 +1,3 @@
-Queda da credibilidade de partidos oposicionistas pela sustentação do Deputado Eduardo Cunha na Presidência da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1b1f8deea58e8628f4820aaa731f49b9465e016bdf9893b6703b1a97cbcf12f
+size 136

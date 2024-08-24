@@ -1,1 +1,3 @@
-Lançamento de programa habitacional pelo Governo Luiz Inácio Lula da Silva. Apresentação de projeto de lei sobre a isenção do IPI na aquisição de máquinas, equipamentos, veículos e implementos agrícolas pelas Prefeituras Municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8921126b48c3d08e9cf92e433e39b5897a165144d669db161aa56dbe847e3838
+size 243

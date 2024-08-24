@@ -1,1 +1,3 @@
-Estabelecimento de acordo contra a elevação das dotações orçamentárias do Fundo Especial de Financiamento de Campanha - Fundo Eleitoral, e do  Fundo Especial de Assistência Financeira aos Partidos Políticos - Fundo Partidário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f55ff31a21aaebbf78589dab676b14ba435ef755789a02b3f92a0948054913c
+size 235

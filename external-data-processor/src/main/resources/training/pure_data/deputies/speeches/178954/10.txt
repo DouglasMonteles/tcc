@@ -1,1 +1,3 @@
-Justificativa do voto do orador na proposição sobre a redução da maioridade penal. Iniciativa do orador para o extermínio da síndrome da morte súbita do capim braquiária nos Estados de Rondônia, Mato Grosso, Acre e Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30b49071f6185a3a2ef15ed6de558b99f6ef4d535a8f53fc982a2aee69512dc6
+size 230

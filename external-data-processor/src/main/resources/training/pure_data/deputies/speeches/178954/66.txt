@@ -1,1 +1,3 @@
-Repasse de recursos pelo Ministério dos Transportes, Portos e Aviação Civil ao Governo do Estado de Rondônia para a construção de aeroporto no Município de Ariquemes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ce884b019df44064677fe92ed4989dfffe6e99b570a7b85255921a2f792df11
+size 173

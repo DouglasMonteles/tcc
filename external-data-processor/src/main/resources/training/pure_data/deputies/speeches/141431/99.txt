@@ -1,1 +1,3 @@
-Importância da aprovação do Projeto Ficha Limpa. Realização da reforma do sistema político-eleitoral brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f46b2b9d14edbf1b88be7f708e1b9cd35226707d53141fb953b3dcd59ff5a62e
+size 118

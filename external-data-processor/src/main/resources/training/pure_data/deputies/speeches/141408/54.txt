@@ -1,1 +1,3 @@
-Aprovação da Proposta de Emenda à Constituição nº 333, de 2004, sobre o limite de despesas e a composição das Câmaras de Vereadores.  Redução do orçamento da Câmara Municipal de São Luís, Estado do Maranhão. Aprovação de medida provisória sobre a contratação de trabalhadores rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0185268a0e2f3aa11e3b50868c2d7a7bfef6a38937f570f4cbb038915e05bd08
+size 304

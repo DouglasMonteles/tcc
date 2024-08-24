@@ -1,1 +1,3 @@
-Conveniência de aprovação, pela Casa, das propostas referentes à extinção do fator previdenciário e à extensão do índice de reajuste do salário mínimo às aposentadorias e pensões mantidas pelo INSS. Regozijo com a aprovação das emendas do Senado Federal à Medida Provisória nº 410, de 2007, sobre a contratação temporária de trabalhadores rurais e o estabelecimento de normas para a aposentadoria de agricultores. Apresentação de proposta de emenda à Constituição sobre a criação do Fundo Especial de Desenvolvimento da Agricultura - FUNAGRI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4bd8bdf83a932df90b5d5550d4329b4b363769ba1b38bcc2b835472e5368267
+size 571

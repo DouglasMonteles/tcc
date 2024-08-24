@@ -1,1 +1,3 @@
-Declaração de voto favorável à Proposta de Emenda à Constituição nº 270, de 2008, sobre a garantia do recebimento de proventos integrais com paridade pelo servidor público aposentado por invalidez permanente, aprovada em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c01a41eca3daa35b08c4b507fce05d33b6e4d664f0234aaa82b36146550aea9
+size 244

@@ -1,1 +1,3 @@
-Realização de eleições indiretas para Governador do Distrito Federal. Inadmissibilidade de prejulgamento do orador em face de sua participação no Governo José Roberto Arruda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:feda1b4f800fc1eb64805bed7a8e6c1ca18464ce548d4f272ac63a850923f36e
+size 181

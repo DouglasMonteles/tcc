@@ -1,1 +1,3 @@
-Transcurso do 127º aniversário da assinatura da Lei Áurea. Relevância da abolição da escravatura para o Brasil. Transcurso do 10º aniversário da campanha Reaja ou Será Morta, Reaja ou Será Morto, criada no Estado da Bahia, para estímulo à denúncia de crimes contra negros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:868ea65dc03f7fbf732b85ce7e05c94db02abd6aa267f6ec4834407d0870f96e
+size 285

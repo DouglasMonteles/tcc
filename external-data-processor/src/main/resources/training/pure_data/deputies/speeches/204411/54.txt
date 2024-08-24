@@ -1,1 +1,3 @@
-Transcurso do Dia do Nascituro. Atividades promovidas pela Câmara Municipal de Londrina ao ensejo da efeméride. Importância da reflexão sobre o direito do nascituro à vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d7976b9442c4c68bc7447de82222ae3134321de49570b351e7eb19e84d61160
+size 177

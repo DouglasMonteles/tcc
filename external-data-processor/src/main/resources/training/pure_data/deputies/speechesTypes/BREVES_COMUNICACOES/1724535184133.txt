@@ -1,1 +1,3 @@
-Transcurso do 10º aniversário de criação da Faculdade de Ciências Sociais Aplicadas - FACISA, no Município de Campina Grande, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e398df1d3182c19b9e584c785ebf0b7a5f7a3fc72404d104c6d3520b000738ab
+size 151

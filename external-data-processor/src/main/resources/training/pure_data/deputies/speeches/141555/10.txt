@@ -1,1 +1,3 @@
-Sessão solene em comemoração ao transcurso do bicentenário de fundação da Polícia Civil no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49f48428cc48cd3d14649f314eb31f45d500717d1f60fdf3fb5dbb1e465eb0bc
+size 105

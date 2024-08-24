@@ -1,1 +1,3 @@
-Anúncio do encaminhamento de Representação ao Conselho de Ética e Decoro Parlamentar contra o Deputado Abílio Brunini, por ofensa ao orador e à Presidenta Nacional do PT, Deputada Gleisi Hoffmann.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b5a7e0c9b30052e8548d282d280393f7ac68def23b0855896b31effdc682f86
+size 202

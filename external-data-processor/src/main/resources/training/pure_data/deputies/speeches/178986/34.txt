@@ -1,1 +1,3 @@
-Realização do Seminário Alternativas de Financiamento para o Transporte Público, na Assembleia Legislativa do Estado de São Paulo, com foco na criação de Contribuição de Intervenção no Domínio Econômico - CIDE em âmbito municipal, incidente sobre o transporte individual, para a melhoria e a redução do custo do transporte coletivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceb89c89754454d03084971395675d44855c483d200309488d37008a8e0de23c
+size 348

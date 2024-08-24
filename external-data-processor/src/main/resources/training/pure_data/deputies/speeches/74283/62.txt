@@ -1,1 +1,3 @@
-Presença no plenário do Vice-Presidente do Sindicato dos Trabalhadores em Indústrias de Bebidas, de São Paulo. Transcurso do 30º aniversário da realização da primeira greve dos trabalhadores da indústria de caminhões Scania, no Município de São Bernardo do Campo. Expectativa quanto à aprovação de projeto de lei sobre a redução da jornada de trabalho para 40 horas semanais. Eleição do Sr. Sérgio Nobre para a Presidência do Sindicato dos Metalúrgicos do ABC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7996303f2da7e2bc1392fe51623c08709b83b8c3a850ae94dfb0718fda27ab04
+size 482

@@ -1,1 +1,3 @@
-Agravamento das crises humanitária, social, ambiental e econômica reinantes no País. Protesto contra a anunciada extinção e redução, para 300 reais, do valor do auxílio emergencial concedido a famílias carentes, trabalhadores autônomos e informais diante da pandemia de coronavírus. Necessidade de elevação dos investimentos públicos; de concessão de incentivos à iniciativa privada e de realização da reforma tributária para a retomada do desenvolvimento econômico brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3934755d39ca43a6e4e03e7cf1ab89e594c61b23d11847217cc7296055be6f4a
+size 497

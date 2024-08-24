@@ -1,1 +1,3 @@
-Preocupação do orador com protestos e episódios de violência decorrentes de cumprimento de ordem de reintegração de posse de área invadida no Bairro Irineu Serra, em Rio Branco, Estado do Acre. Premência de ação do Governo Federal no sentido de garantia de habitação às famílias carentes da capital acriana. Insuficiência de investimentos do Programa Minha Casa Minha Vida anunciados pelo Ministério das Cidades para o Estado do Acre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bae43372e9fdc85f0008b94ac10272e73e70379dbc117522e726e501c67c0cb4
+size 450

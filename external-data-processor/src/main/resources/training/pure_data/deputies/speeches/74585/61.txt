@@ -1,1 +1,3 @@
-Sugestões para a melhora da qualidade dos produtos e serviços de comunicações, tendo em vista a convergência tecnológica entre os serviços de comunicação, informática e telecomunicações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d3c2007429be06ae1bfa5772aa3a7e476bfe5bc98f87b31d98d0af99065ebf5
+size 198

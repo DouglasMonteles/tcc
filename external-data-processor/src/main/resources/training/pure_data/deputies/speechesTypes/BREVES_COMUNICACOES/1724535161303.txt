@@ -1,1 +1,3 @@
-Necessidade de discussão sobre o crescimento da oferta do ensino a distância no Brasil. Solicitação de audiência pública na Comissão de Educação para debate do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d36f0f847c246429a715deffce2e640cda50c2fbea367d5d77892f671e54c3f0
+size 174

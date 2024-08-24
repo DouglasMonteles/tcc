@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado amapaense pela expressiva votação alcançada pelo orador. Apoio à reforma tributária. Compromisso de atuação em defesa do desenvolvimento econômico do Estado do Amapá, com ênfase na geração de emprego e renda. Trajetória profissional do orador. Transcurso do 265º aniversário de criação da Capital Macapá. Contribuição do comércio e dos setores empresarial e turístico para o crescimento da economia amapaense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c657b368605f9b251493eaa2929cdeca188b6a48a7c76df89d1018e009b7de8
+size 459

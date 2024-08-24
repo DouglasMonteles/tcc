@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Fisioterapeuta e do Terapeuta Ocupacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e86223d86897f2fa265fd6b806c999ba190557c731c70e6c2e40e2a4e9d51b18
+size 72

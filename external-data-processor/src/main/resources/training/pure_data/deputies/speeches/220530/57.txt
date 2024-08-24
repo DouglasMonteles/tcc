@@ -1,1 +1,3 @@
-O Deputado criticou o Governo Lula por falhas na segurança pública e sua atuação no Conselho de Segurança da ONU, citando problemas de segurança em estados como Bahia, Pará e Rio de Janeiro. Mencionou cortes em áreas como educação e saúde, concluindo que o Governo não mostrou resultados positivos nos primeiros meses de gestão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:868b9d5435d329daca6cef861d2c9107b04e9d5cbb1140d8a6d4aabc6fa4d20c
+size 341

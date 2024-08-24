@@ -1,1 +1,3 @@
-Repúdio ao reajuste do preço da gasolina e do óleo diesel pela PETROBRAS, resultado de política de preço dos combustíveis equivocada adotada pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4367f62918bc215599d06c2c7e03888f24a4ec578cca186b367c6f7974740f54
+size 168

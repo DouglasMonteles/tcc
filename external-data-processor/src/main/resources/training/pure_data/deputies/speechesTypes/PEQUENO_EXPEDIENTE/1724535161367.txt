@@ -1,1 +1,3 @@
-Transcurso do 54º aniversário de emancipação político-administrativa do Município de Barra do Rocha, Estado da Bahia. Realização da procissão da Boa Morte no Município de Maragojipe, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:178fbf2b24c398972c7fc0a2b1e29f22bdbf3983349d89184c8e067d18ccc621
+size 209

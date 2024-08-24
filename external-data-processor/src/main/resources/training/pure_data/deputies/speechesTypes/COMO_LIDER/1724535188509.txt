@@ -1,1 +1,3 @@
-Homenagem póstuma do Deputado Júlio Redecker, ao ensejo do transcurso de 1º ano do seu falecimento. Situação dos aeroportos brasileiros. Apelo aos Parlamentares de votação de propostas destinadas ao resgate do papel institucional da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:060838cb6a99f3fc9d01b522aa12f1321676f3965355fe5de77be887c1449af6
+size 262

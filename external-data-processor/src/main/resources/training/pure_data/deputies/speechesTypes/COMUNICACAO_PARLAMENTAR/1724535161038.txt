@@ -1,1 +1,3 @@
-Conveniência de realização de debate sobre o chamado Estado necessário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dba5eea5d9d21de33d1d615c18bc36a8358fb35c0df09d10daa11900584510b
+size 75

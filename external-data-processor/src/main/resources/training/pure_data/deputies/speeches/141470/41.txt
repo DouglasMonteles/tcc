@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Consciência Negra. Importância da criação da Secretaria Especial de Políticas de Promoção da Igualdade Racial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:888b71e0ca0d824fb005f718e932c4c3bed7b2bce3af678838420428df1dba88
+size 147

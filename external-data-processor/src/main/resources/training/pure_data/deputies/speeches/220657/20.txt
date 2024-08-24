@@ -1,1 +1,3 @@
-Leitura do poema O amor venceu, de autoria do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06dad40608aebf7675b2a06ef2a4736c22dc1f19afef3dbd9cccab7536496e1a
+size 53

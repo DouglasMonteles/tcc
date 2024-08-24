@@ -1,1 +1,3 @@
-Apresentação de proposta de emenda orçamentária destinada à construção de Clínicas da Mulher nos Municípios do Estado de Tocantins. Crítica à administração estadual posterior à gestão do orador como Governador tocantinense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dcb1d9729f8c7d4a2ac0432cf9728ed39f8cdc483d50e0deba8a74cb27ddabf
+size 238

@@ -1,1 +1,3 @@
-Protesto contra a Portaria nº 299, de 2023, publicada pelo Ministério da Justiça e Segurança Pública, sobre o cadastramento de armas no Sistema Nacional de Armas – SINARM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6c1f123e431becf4361a8d403aa76a0ce2e0b81a2694c01080dc4ea8849ee84
+size 178

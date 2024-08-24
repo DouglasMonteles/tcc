@@ -1,1 +1,3 @@
-Comissão Geral para debate da crise do setor sucroalcooleiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d931c90bbc73f78909b6cd4252d1d6b4274452b33f48689b4fe9cf95c4bba743
+size 62

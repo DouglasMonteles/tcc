@@ -1,1 +1,3 @@
-Exigência de rigorosa investigação sobre o atropelamento e morte do ex-Vereador do PT no Município de Cidade Ocidental, Estado de Goiás, Manoel Vitor Neto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e63a5c011f6d03509ab47ffccf03093bb9c996dc0d28001ce71b509e726c96e
+size 160

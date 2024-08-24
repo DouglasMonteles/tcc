@@ -1,1 +1,3 @@
-A Deputada discorreu sobre duas campanhas importantes em curso: Setembro Verde, para a conscientização sobre a inclusão de pessoas com deficiência; Setembro Amarelo, sobre a saúde mental, especialmente para prevenção ao suicídio. Enfatizou que os números sobre a saúde mental são alarmantes, com aumento significativo da depressão e de suicídios na população brasileira. Destacou que o número de suicídios no País cresceu 43% na última década. Quanto ao Setembro Verde, enfatizou que dedica sua vida pública à causa da inclusão. A Oradora apresentou o Projeto de Lei nº 468, de 2023, para ampliar direitos às pessoas com enfermidades que são condutores de veículos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32bfd72219f9f57441e8564ab0b4ac9e0ea035f0284ad3155e84be76ce7c97e7
+size 692

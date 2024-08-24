@@ -1,1 +1,3 @@
-Apoio à decisão do Presidente Jair Bolsonaro de reformulação da Lei de Incentivo à Cultura, a chamada Lei Rouanet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:926f05e701fb0f37d275eb825e72910f748b641f949e1d8884097f229720a46c
+size 119

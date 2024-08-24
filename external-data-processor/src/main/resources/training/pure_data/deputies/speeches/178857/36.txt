@@ -1,1 +1,3 @@
-Preocupação com a possibilidade de redução de recursos orçamentários para o programa Farmácia Popular do Brasil. Solicitação ao Governador do Estado da Bahia, Rui Costa, de reabertura de unidades da Farmácia Popular do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25d76544dbcb79a3f42b3568d649fbf6a73fe6c5266f6907cddb1333768e494c
+size 236

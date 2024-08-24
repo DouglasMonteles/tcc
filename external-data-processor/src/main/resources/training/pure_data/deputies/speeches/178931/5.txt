@@ -1,1 +1,3 @@
-Inauguração de novos leitos de Unidade de Terapia Intensiva no Hospital Regional João de Freitas, Município de Arapongas, Estado Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b00fcebbb9497ce0a63e9dfaa0eede5682c9b77ed559a5f2c7cec93dcef8bb25
+size 141

@@ -1,1 +1,3 @@
-O Deputado proferiu parecer ao Projeto de Lei nº 11.247, de 2018, que dispõe sobre a ampliação das atribuições institucionais relacionadas à Política Energética Nacional com o objetivo de promover o desenvolvimento da geração de energia elétrica a partir de fonte eólica localizada nas águas interiores, no mar territorial e na zona econômica exclusiva e da geração de energia elétrica a partir de fonte solar fotovoltaica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:559be9f1dbe530a6c129d30c5d145a5b9872d575ba23a7922219be419b17a453
+size 441

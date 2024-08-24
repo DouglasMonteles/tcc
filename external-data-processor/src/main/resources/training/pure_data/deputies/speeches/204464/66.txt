@@ -1,1 +1,3 @@
-Repúdio à instauração, pelo Ministério da Educação, de procedimento administrativo-disciplinar contra docentes da Universidade Federal Fluminense - UFF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:336dd554ca5c3a123d85e874cc14cecb265678dc82a90e291b792a1fa1e6a31f
+size 159

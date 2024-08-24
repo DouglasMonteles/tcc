@@ -1,1 +1,3 @@
-Orientação da respectiva bancada. Indignação com o corte, pela Secretaria Nacional de Políticas sobre Drogas, do Ministério da Justiça, de investimentos em comunidades terapêuticas para recuperação de dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1fdd983e941e92856b4e22070feb68c33cb141227c660adca292eae856e7134
+size 233

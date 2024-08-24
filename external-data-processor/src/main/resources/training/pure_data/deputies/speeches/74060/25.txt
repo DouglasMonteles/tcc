@@ -1,1 +1,3 @@
-Transcurso do aniversário de emancipação política do Município de Senhor do Bonfim, Bahia. Promoção de atividades por centrais sindicais ao ensejo do transcurso do Dia Nacional de Mobilização em Defesa da Redução da Jornada de Trabalho sem Redução de Salário. Imediata ratificação das Convenções de nºs 151 e 158 da Organização Internacional do Trabalho - OIT. Urgente aprovação pela Casa da Proposta de Emenda à Constituição nº 393, de 2001, sobre a redução da jornada de trabalho para 40 horas semanais. Posicionamento do presidente do Instituto de Pesquisa Econômica Aplicada - IPEA, Marcio Pochmann, favorável à proposta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be13da5e3d52f524ef82707b2231f160be77f36fccccf9674c62e08dec687ceb
+size 657

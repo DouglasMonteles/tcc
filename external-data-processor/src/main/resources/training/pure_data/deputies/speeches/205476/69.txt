@@ -1,1 +1,3 @@
-Transcurso do 10º aniversário de criação do Programa Minha Casa, Minha vida. Importância do Programa para redução do déficit habitacional; estímulo ao setor da construção civil e geração de emprego e renda. Maior atenção do Ministro do Desenvolvimento Regional, Gustavo Canuto, com o Programa Minha Casa, Minha Vida. Participação do orador em audiência pública na Comissão de Direitos Humanos e Minorias, para debate do corte de recursos orçamentários destinados ao Programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:244913c55fa13c8617846d08226b2afb23e6a0274f6cd1dbfc15cbbbc4c646bb
+size 497

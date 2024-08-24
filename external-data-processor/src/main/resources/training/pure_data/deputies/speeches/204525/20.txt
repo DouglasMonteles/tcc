@@ -1,1 +1,3 @@
-Reexame, pela Agência Nacional de Vigilância Sanitária - ANVISA, da decisão proibitiva do atracamento de navios turísticos nos terminais marítimos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ec251f166b716fd6bd30170b80a1874b1cfa7dae5f5662e87bd02378c90aec3
+size 165

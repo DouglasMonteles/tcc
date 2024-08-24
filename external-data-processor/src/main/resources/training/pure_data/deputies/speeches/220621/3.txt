@@ -1,1 +1,3 @@
-Solidariedade aos familiares da universitária Stephanie Silvério Soares, assassinada por assaltantes em Natal, Estado do Rio Grande do Norte. Prioridade das forças de segurança pública na investigação do crime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e925461c5247ed5084b90461d4a35a361baa07048b272aa1bb87c92ef208acd7
+size 217

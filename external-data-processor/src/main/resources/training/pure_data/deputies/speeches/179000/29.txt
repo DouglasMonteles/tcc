@@ -1,1 +1,3 @@
-Transcurso do 50º aniversário de fundação da Igreja Cristã Maranata.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b18f811970ac67186bafa5b1a4d7ec993ca8f5439c0d339aabcba8d6f9a097a
+size 73

@@ -1,1 +1,3 @@
-Votos de profícua gestão ao novo Ministro da Educação, Carlos Alberto Decotelli da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:888ce367ac611e11cc8d0a22fe3b682ced7418bd6170cb18a5a4bfd247fb2c7b
+size 93

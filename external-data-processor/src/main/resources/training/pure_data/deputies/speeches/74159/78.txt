@@ -1,1 +1,3 @@
-Defesa de votação da proposta de emenda à Constituição sobre a criação de novos Tribunais Regionais Federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2e46ff8f7b4ebe72624c0f4ca3ead813de676f2c7663e32ec83ab4dad9ce43b
+size 116

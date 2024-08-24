@@ -1,1 +1,3 @@
-Protesto contra a aprovação, no Senado Federal, da proposta de redução do ICMS incidente em operações interestaduais com bens e mercadorias importados do exterior. Defesa de manutenção do Fundo de Desenvolvimento das Atividades Portuárias - FUNDAP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47a7f0eefa1c6a36f134585793b1d14415543ec127eab80f95572039cabfac8c
+size 257

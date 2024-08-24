@@ -1,1 +1,3 @@
-Solicitação ao Presidente Rodrigo Maia de inclusão na pauta de votações do requerimento de prorrogação da CPI do CARF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a1bf2fe9a632fbecd56afa533120e6a299efcc34adb37bae2801ced8cdbbe36
+size 125

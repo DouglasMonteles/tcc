@@ -1,1 +1,3 @@
-Publicação pela revista Veja de matéria sobre a elevação, pela agência de risco americana Standard &amp; Poor's, da sua perspectiva para a nota de crédito do Brasil de estável para positiva. Importância de realização da reforma previdenciária e de proposições aprovadas pelo Parlamento brasileiro. Crescimento da economia brasileira. Defesa de aprovação da Proposta de Emenda à Constituição nº 391, de 2017, sobre o disciplinamento da distribuição de recursos federais ao Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e34a4f2b10b3a8b9d170012f736d365311db271a655c7c9226ac5b5bad3e1805
+size 540

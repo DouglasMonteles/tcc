@@ -1,1 +1,3 @@
-Indignação do orador com os danos causados ao Morro do Pão de Açúcar&nbsp;em face da construção de tirolesas, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3151a8f9584a03c0af62bdda60e55bc30194ae2568578b91b46d7a879dfc8556
+size 161

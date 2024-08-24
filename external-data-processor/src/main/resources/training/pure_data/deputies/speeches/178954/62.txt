@@ -1,1 +1,3 @@
-Pedido aos partidos da Oposição de votação da Medida Provisória nº 793, de 2017, que institui o Programa de Regularização Tributária Rural junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3787dc7c2ec45b21fbe5d275f2d879d31ff5f1a0d7fc3ad5f8ff60e4808e2c7c
+size 241

@@ -1,1 +1,3 @@
-Solicitação aos Deputados do PR de comparecimento ao plenário. Falecimento do advogado Omar Montenegro Cerqueira de Oliveira, do Município de Caetité, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5bdd5dabbae2c8f40750ce61920ba16fa8bad62012370b478fb86783b36cbe2
+size 172

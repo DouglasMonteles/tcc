@@ -1,1 +1,3 @@
-Protesto contra a discussão do Projeto de Lei nº 442, de 1991, sobre a legalização dos jogos cassinos no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:971f69337e06a31c4f059abd7a1ee64c67be38639c3d0ce97da5aa1d8dfe47a7
+size 116

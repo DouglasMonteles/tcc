@@ -1,1 +1,3 @@
-Crítica ao Ministério da Educação pela inclusão, na Base Nacional Comum Curricular, de matéria relativa à ideologia de gênero. Intenção de convocação do Ministro da Educação à Câmara dos Deputados para explicações acerca do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f5833be4238e276edf9184a702743631e633c76bca86abd8cc591e67770d38e
+size 250

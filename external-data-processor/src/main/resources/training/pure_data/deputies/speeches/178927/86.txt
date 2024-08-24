@@ -1,1 +1,3 @@
-Regozijo com destinação de emenda orçamentária para construção de maternidade pública no Município de Ponta Grossa, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b33046a268d28c9679ec0f1bbca8ab82323111026b77e9fd9d73164322217a44
+size 142

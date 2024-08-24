@@ -1,1 +1,3 @@
-Pedido ao Presidente Arthur Lira de abertura da CPI destinada à investigação de irregularidades contábeis/financeiras no âmbito da Americanas S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff70048cd3892755ea40be717be6d6e7dbdb6f165c8c6130d8568990a4188d04
+size 151

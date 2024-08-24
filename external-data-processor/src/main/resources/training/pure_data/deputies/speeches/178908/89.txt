@@ -1,1 +1,3 @@
-Esclarecimento sobre o massacre de trabalhadores rurais sem-terra no Município de Eldorado do Carajás, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:326a181b6b541c901e780d00af121cb16d04eaefa09241a54afcb4e6bcba846a
+size 121

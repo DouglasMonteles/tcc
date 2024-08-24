@@ -1,1 +1,3 @@
-Criação pelo Governador Flávio Dino do primeiro Plano Agrícola e Pecuário do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:794cba8c0e725d65bb8106fc72ccc350b9006504d0bbbbad77ead919e253e7e3
+size 102

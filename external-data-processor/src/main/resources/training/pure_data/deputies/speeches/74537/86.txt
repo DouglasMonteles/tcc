@@ -1,1 +1,3 @@
-Diplomação e posse da Prefeita Mariângela Borges, do Município de Lajedo do Tabocal, Estado da Bahia. Queda no repasse de recursos do Fundo de Participação dos Municípios - FPM. Parcelamento de dívidas municipais junto ao INSS. Necessidade de adoção pelo Governo Federal, especialmente pelo Ministério da Integração Nacional, de providências a respeito da queda no nível de águas da Barragem de Mirorós, na região de Irecê, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:799512f9b8db53df78d8198c9a732277fd2f1fb7a71c2c122a7375fb97ce031e
+size 459

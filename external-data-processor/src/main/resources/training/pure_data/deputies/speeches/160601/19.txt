@@ -1,1 +1,3 @@
-Perplexidade do povo brasileiro diante de denúncias de envolvimento do ex-Presidente Luiz Inácio Lula da Silva em esquema de corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68201ba4d55cfd36f6b49b543fcaeed1decaf890ec755036270c7ab768e02710
+size 139

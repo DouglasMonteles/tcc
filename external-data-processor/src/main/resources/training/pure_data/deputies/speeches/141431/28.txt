@@ -1,1 +1,3 @@
-Destinação de recursos da PETROBRAS para construção da Refinaria Abreu e Lima no Complexo Industrial Portuário de Suape, Estado de Pernambuco. Possibilidade de parceria entre a PETROBRAS e a companhia indiana Reliance para investimentos na indústria petroquímica pernambucana. Anúncio, pela Companhia Siderúrgica Nacional, da construção de usina de aço no Estado. Instalação de filial da indústria alimentícia Sadia S.A no Município de Vitória de Santo Antão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06b9b81b9a78e6d239fa6a3a6a25e1ed396a6d20c7adf9aa7e019f362e831dff
+size 478

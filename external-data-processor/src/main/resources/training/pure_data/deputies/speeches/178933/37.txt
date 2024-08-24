@@ -1,1 +1,3 @@
-Registro da presença do orador na Câmara no dia anterior e na sessão em curso. Expectativa de leitura e aprovação, na semana seguinte, do relatório da CPI dos Fundos de Pensão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bee7b97876434a174aaa28ca2c2ac40f3b7dcd6456e614b96070054bfa09e471
+size 183

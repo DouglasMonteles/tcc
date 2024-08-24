@@ -1,1 +1,3 @@
-Realização de recentes manifestações populares no País, em protesto contra a situação da saúde pública brasileira. Acerto da conduta da Polícia Militar diante das recentes manifestações populares em Maceió, Estado de Alagoas. Discrepância entre os dados oficiais a respeito do Programa Brasil Mais Seguro e o quadro de violência reinante no Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe4ec4ee4d16d0b706c423676a78a4f2c9115e372526cdfc9480a7a19be0856c
+size 374

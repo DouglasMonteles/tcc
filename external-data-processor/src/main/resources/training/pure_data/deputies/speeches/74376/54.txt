@@ -1,1 +1,3 @@
-Exigência de apuração do desaparecimento dos professores Olindo Verá e Genivaldo Verá, no Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0296f749da58c2b089088c4b4b1dbccf7361caa3336c7ef155638d3904b024a3
+size 124

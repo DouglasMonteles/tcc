@@ -1,1 +1,3 @@
-Presença no plenário do Prefeito João Paganini, do Município de Iconha, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32e95fb10ea226c8875a3974f787d7315d4f07bff25c8f56fbe6ed4f30527bd2
+size 102

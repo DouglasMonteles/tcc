@@ -1,1 +1,3 @@
-Apoio a destaque do Deputado Arnaldo Faria de Sá relativo a alterações no fator previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fddec5fe1d5b76659a71bfb626dc45d35ff7e5f71cdc54e4b2dbd454bb056454
+size 99

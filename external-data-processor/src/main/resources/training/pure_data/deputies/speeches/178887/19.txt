@@ -1,1 +1,3 @@
-Artigo de autoria do orador publicado no Jornal Pequeno sobre impetração de mandado de segurança no Supremo Tribunal Federal contra a Proposta de Emenda à Constituição nº 171, de 1993, que trata da redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c6e72a0b578c4165cc7544b43d641aff2fa86bfd366720e7985d2d6ecd127b7
+size 235

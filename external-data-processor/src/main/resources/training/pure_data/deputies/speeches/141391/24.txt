@@ -1,1 +1,3 @@
-Possibilidade de fusão entre as companhias telefônicas Brasil Telecom e Oi. Alteração do Plano Geral de Outorgas e da Lei Geral de Telecomunicações. Apresentação de requerimento de convocação do Presidente da Agência Nacional de Telecomunicações - ANATEL, Ronaldo Sardenberg, para prestação de esclarecimentos à Casa sobre o assunto.  Apresentação de emendas à Medida Provisória nº 414, de 2008, sobre a criação de fonte de recursos adicional para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bc9109b012e78232b989489171eed5e6b440116b320b266c08ca503044ba6ca
+size 572

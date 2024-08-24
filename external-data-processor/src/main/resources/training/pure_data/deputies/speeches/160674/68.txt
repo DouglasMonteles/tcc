@@ -1,1 +1,3 @@
-Regozijo com a rejeição do veto presidencial aposto ao projeto de lei sobre a distribuição de royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0bde680ab804f3835e0bdaad53bfd86acdc28637c9de932e3b31e664ab6d208
+size 121

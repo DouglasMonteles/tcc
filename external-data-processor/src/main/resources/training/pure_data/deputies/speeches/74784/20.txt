@@ -1,1 +1,3 @@
-Determinação pela Presidência de registro dos pronunciamentos dos Deputados Pedro Wilson e Luiz Carlos Hauly. Anúncio de concessão da palavra aos participantes da Mesa Diretora dos trabalhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3eb25bc9d2526cb4c3784bd37f9305605f5780c719b45abf5b8339c825ff44c
+size 196

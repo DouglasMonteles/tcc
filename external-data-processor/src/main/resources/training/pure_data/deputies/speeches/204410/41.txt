@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo adotado pela Comissão de Educação ao Projeto de Lei nº 2.228, de 2020, a respeito do levantamento e divulgação da demanda por vagas na educação infantil de crianças de zero a três anos de idade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12e2695a59e1d0b4f19ad8dc195f878c6a780026c57bb5d406c8580505df3be0
+size 257

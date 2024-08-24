@@ -1,1 +1,3 @@
-Formação profissional do orador. Atuação do Parlamentar na Assembleia Legislativa do Estado do Rio Grande do Sul. Comprometimento do orador com o cooperativismo. Anúncio da apresentação de projetos de lei em benefício do cooperativismo e de outros setores. Escolha de 2012, pela Organização das Nações Unidas - ONU, como o Ano Internacional da Cooperação. Sugestão à Presidência para convite à Sra. Elinor Ostrom,  Prêmio Nobel de Economia em 2009 por trabalho sobre cooperação, para visita ao Brasil. Apoio à realização da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b6837d4f4aa44c9c07b1caa1884a7a056ee7c5abfb8b8717aff3b02f8323ee0
+size 566

@@ -1,1 +1,3 @@
-Anúncio de representação, junto à Corregedoria do Tribunal Regional Eleitoral do Estado do Maranhão, e ao Conselho Nacional de Justiça - CNJ, contra a juíza Leoneide Delfina Barros Amorim, ante a recusa da magistrada na concessão de posse a vereadores do Município maranhense de Zé Doca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c5e559652ee04e301a4b8715248b4940428968e9d4403d03a0f9add5be2eea5
+size 297

@@ -1,1 +1,3 @@
-Saudações aos Delegados de Polícia presentes na Casa. Afastamento do Prof. Paulo Lima da Presidência da Fundação Gregório de Mattos, em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e34497650ac720c1abbf722df6cc8c7f1e949bd0685c79594ea7cc566b9499f8
+size 169

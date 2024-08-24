@@ -1,1 +1,3 @@
-Solidariedade da bancada do PT ao Deputado Chico Alencar pelo falecimento de sua mãe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:159d85dc85eaa3c8ae6e96ff28f545a61cdd96e40654617584a5d0eb217a8be5
+size 86

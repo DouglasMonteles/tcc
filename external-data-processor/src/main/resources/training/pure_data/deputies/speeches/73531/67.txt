@@ -1,1 +1,3 @@
-Contrariedade à proibição da distribuição de panfletos e outros materiais partidários em Municípios do Estado de São Paulo. Artigo sobre os votos recebidos pelo PSOL em eleições anteriores, publicado pelo jornal Folha de S.Paulo Críticas à bipartidarização das eleições municipais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9662426456029e227857ee9ed1ab0bbf03e33df6c13861bb51c36f4cae776ed
+size 309

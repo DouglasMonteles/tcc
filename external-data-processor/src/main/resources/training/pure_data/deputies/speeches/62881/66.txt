@@ -1,1 +1,3 @@
-Fatores importantes para o desenvolvimento socioeconômico brasileiro. Medidas do Governo Federal para o combate aos efeitos da crise econômica internacional, em especial o lançamento do Plano Brasil Maior. Necessidade de apoio do Governo petista à indústria brasileira. Aperfeiçoamento da Medida Provisória nº 564, de 2012, acerca do pacote de estímulos à indústria brasileira, especialmente no fortalecimento do Banco do Nordeste do Brasil - BNB e na utilização de recursos do Fundo de Desenvolvimento do Nordeste - FDNE e do Fundo de Desenvolvimento da Amazônia - FDA. Importância das parcerias público-privadas. Renegociação de dívidas dos Estados com a União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7528533d87ed4bd9347462143f2912fc92033b74c2a0fef9f1bc99d157c91fbe
+size 683

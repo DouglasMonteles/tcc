@@ -1,1 +1,3 @@
-Carta encaminhada ao Governador do Estado da Paraíba pelo Padre Djacy Brasileiro, do Município de Santa Cruz, a respeito do clima de violência reinante no sertão paraibano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55bc1071bdb36bb6d421e9cebe595f40225522cca3ff771bbd04707e0bc5cc8c
+size 176

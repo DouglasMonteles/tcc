@@ -1,1 +1,3 @@
-Encaminhamento da votação do art. 31 do Projeto de Lei de Conversão da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação – EBC, e dá outras providências), que cria a Contribuição para o Fomento da Radiodifusão Pública, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30d01f011086eaf1375aad389a7379e874c6c30fc92e9b24cbdb5e2787b70683
+size 467

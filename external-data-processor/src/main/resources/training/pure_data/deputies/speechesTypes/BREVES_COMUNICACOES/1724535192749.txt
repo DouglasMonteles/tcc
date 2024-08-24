@@ -1,1 +1,3 @@
-Falecimento de militantes do Movimento dos Trabalhadores Rurais Sem Terra - MST em decorrência de acidente de trânsito ocorrido na BR-101, no Estado da Bahia. Urgente necessidade de recuperação de trechos da rodovia atualmente em estado precário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:406a1d2b3bda0dce89cd41582dc376668a576c3edc3422c764971dc2f2aff99d
+size 251

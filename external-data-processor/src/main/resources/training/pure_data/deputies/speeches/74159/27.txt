@@ -1,1 +1,3 @@
-Regozijo pela aprovação do Orçamento da União para o exercício financeiro de 2011. Congratulações a todos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2221551955ef1f0a8a80f02f2d54ff5f78f7616ba93be354065447d975d94c7
+size 113

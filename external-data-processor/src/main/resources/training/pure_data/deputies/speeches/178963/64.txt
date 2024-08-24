@@ -1,1 +1,3 @@
-Solicitação à Presidência de prazo para revisão em plenário do texto acordado para votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b123721f7088d35d6369bfe85b202e6dd2c7eacce07f0af4cd82016873a4caee
+size 99

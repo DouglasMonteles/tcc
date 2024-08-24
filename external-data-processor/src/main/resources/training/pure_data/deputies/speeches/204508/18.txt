@@ -1,1 +1,3 @@
-Comemoração do 20º aniversário de reconhecimento do Município de Diamantina como Patrimônio Cultural da Humanidade, no Estado de Minas Gerais. Empenho na criação de frente parlamentar em defesa das municipalidades com arrecadação inferior a 10% de suas receitas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0920af5ba78f3de7c798e88d1fe64d01f58d9e6ed209a0aaaa0f8e8c77e42783
+size 272

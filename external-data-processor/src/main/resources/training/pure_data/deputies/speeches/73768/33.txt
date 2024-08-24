@@ -1,1 +1,3 @@
-Contribuição do agronegócio para o superávit da balança comercial brasileira. Maior atenção governamental para com o setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f5f1ef05b2fe28e059c6ffe484e76437a09b10cc3d6bdb7bd096e89e99d0864
+size 130

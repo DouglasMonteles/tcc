@@ -1,1 +1,3 @@
-Protesto contra a prioridade da Casa na discussão da imunidade parlamentar, em detrimento da apreciação das propostas de retomada do auxílio pecuniário emergencial e da cobertura vacinal do povo brasileiro contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab94a1e4c79b7008612f61e22c1bd9abb16fac653589f7114dd5ecc0e73631f1
+size 229

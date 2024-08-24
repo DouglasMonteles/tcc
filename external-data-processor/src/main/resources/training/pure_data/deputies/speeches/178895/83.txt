@@ -1,1 +1,3 @@
-Decretação de estado de calamidade pública, pelo Município de Governador Valadares, Estado de Minas Gerais, ante o desabastecimento de água da municipalidade, em decorrência da contaminação do Rio Doce por rejeitos minerais de barragem da empresa Samarco Mineração S. A., no Município mineiro de Mariana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72ceed1cae7e9885bd04acf0b06c96e48fe5c8e8d2be6a938dda718cbf82c374
+size 315

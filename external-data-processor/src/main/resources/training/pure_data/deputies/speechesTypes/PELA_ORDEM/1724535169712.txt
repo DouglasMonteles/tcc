@@ -1,1 +1,3 @@
-Indagação à Presidência sobre as razões da inversão da pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e44f9066fe6d3b2f82ed44a76232916b764d994ac615a27bf5fdae31b7e633b2
+size 67

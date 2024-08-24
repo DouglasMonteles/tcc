@@ -1,1 +1,3 @@
-O Deputado prestou solidariedade ao militante histórico do PT Orlando Guilhon em face de ameaças recebidas de bolsonaristas pelas redes sociais e de agressão, inclusive física, sofrida durante plenária da Deputada Estadual Marina do MST realizada no Distrito de Lumiar, Município de Nova Friburgo, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2d8cb10b4282930cbd90adacbc7eeb740b2604d6423be206b429e011e704043
+size 329

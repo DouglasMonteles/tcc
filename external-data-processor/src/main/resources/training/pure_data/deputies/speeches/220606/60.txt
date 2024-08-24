@@ -1,1 +1,3 @@
-Assassinato da Sra. Severina da Silva Nunes, na Comunidade do Morro do Turano, Bairro da Tijuca, Rio de Janeiro, Estado do Rio de Janeiro. Manifestação de votos de condolências aos seus familiares. Realização da 236ª edição da Romaria do Bom Jesus de Matozinhos, no Município de Conceição do Mato Dentro, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0de13f57d351665564fe7e4636e4addabca600efe1993a18e51e8f4286bcad6
+size 339

@@ -1,1 +1,3 @@
-Transcurso do 397º aniversário de fundação do Município de São Nicolau, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69db615744061906e5829bbb1d7e526875eaf85a99c40824398751b1e8ec04ad
+size 109

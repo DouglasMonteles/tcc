@@ -1,1 +1,3 @@
-Anúncio de encaminhamento à Casa, pelo Poder Executivo, de projeto de lei a respeito da condição de perito oficial dos papiloscopistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed6f1764e3c2d4b27ca66dc3d50b0122164c081509f4c4b14e815bc19c158366
+size 139

@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Samba. Saudações aos sambistas brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:642fa5091bd3fe86501e54c1fb755d0c68e7fe227a16f5c2d7f1c45571f2d71b
+size 75

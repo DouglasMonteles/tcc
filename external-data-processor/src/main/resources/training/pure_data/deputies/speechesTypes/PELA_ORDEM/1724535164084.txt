@@ -1,1 +1,3 @@
-Participação do orador em encontro organizado pelos Grupos Parlamentares de Amizade Panamá-Cuba e Brasil-Cuba, na cidade do Panamá. Êxito da experiência socialista em Cuba. Apoio às mobilizações pela libertação de prisioneiros cubanos nos Estados Unidos da América. Transcurso do 20º aniversário de fundação da União dos Negros pela Igualdade  -  UNEGRO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cdaebd73cf3d0e14fed0366cd5c4de8b4454665a9aa2b7e20f230fbe05f32ff
+size 371

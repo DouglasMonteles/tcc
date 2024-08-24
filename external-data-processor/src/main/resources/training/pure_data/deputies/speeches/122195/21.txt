@@ -1,1 +1,3 @@
-Prejuízos causados pela estiagem prolongada na Região Nordeste. Ações do Governo Federal a favor dos agricultores e das populações atingidas pela estiagem. Elogio ao Governo petista pela execução do Projeto de Transposição de Águas do Rio São Francisco. Esclarecimento sobre o voto favorável do orador ao dispositivo da proposta de reforma do Código Florestal brasileiro, referente à definição pelos Estados da recomposição de faixa de matas ciliares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45d384f0261c892ea6b0f5421859cb639dd52a249415be4d569b80558635d57c
+size 470

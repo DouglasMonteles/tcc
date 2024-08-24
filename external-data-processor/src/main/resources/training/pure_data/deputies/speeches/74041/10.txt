@@ -1,1 +1,3 @@
-Posse da direção do PT no Município de Pombal, Estado da Paraíba. Protesto contra o tratamento dispensado a funcionários da municipalidade. Realização de atos públicos em homenagem ao ex-Prefeito Jairo Feitosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f0ed08e7676b92217f0a2a4be0f73a51db9ad86af594236720431dfc4b88fcb
+size 218

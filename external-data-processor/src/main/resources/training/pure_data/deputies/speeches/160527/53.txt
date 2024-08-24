@@ -1,1 +1,3 @@
-Satisfação com a construção de consenso para a votação da matéria com a retirada de dispositivo pelo Relator, Deputado Esperidião Amin.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a649004fa9c67e1eb46d7c625539311ef5c5a75698c010b485cd7d377488a5a3
+size 143

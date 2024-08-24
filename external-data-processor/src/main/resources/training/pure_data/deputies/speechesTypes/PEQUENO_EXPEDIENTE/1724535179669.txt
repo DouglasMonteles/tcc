@@ -1,1 +1,3 @@
-Inauguração, pelo Ministro do Desenvolvimento Social e Combate à Fome, Patrus Ananias, de restaurante popular no Município de Governador Valadares, Estado de Minas Gerais. Relevância do Programa Restaurante Popular e outras iniciativas associadas ao Programa Fome Zero.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ace2cf0896a0ddb1521f78af35692ad632cb4a3fcaa247ccd0a463652dc4ff27
+size 274

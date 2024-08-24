@@ -1,1 +1,3 @@
-Apoio à extinção do voto secreto nas deliberações da Câmara dos Deputados, do Senado Federal, das Assembleias Legislativas e das Câmaras Municipais. Justificativa da ausência de Deputados do PP na sessão destinada à votação do processo de cassação do mandato do Deputado Natan Donadon. Aprovação pela respectiva Comissão Mista do texto da Medida Provisória nº 615, de 2013. Solidariedade ao Deputado Beto Albuquerque.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0029bbc9ceaf4ec9dada437d72036109360e65186d49946d869f3ac652e248ca
+size 436

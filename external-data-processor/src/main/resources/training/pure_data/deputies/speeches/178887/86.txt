@@ -1,1 +1,3 @@
-Ações do Governo do Estado do Maranhão em prol da educação escolar indígena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaf3ed6f284ba741ecf3c715f803a4eaea078c25df82623da35bf265a253ef42
+size 82

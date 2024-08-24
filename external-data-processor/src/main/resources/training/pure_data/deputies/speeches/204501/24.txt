@@ -1,1 +1,3 @@
-Repúdio à violência policial praticada contra alunos da Escola Estadual Professor Frederico Brotero, no Município de Guarulhos, Estado de São Paulo. Indignação com o assassinato de trabalhador por forças policiais, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6f8ffd4fcc084a86567cd6f5f0c4940347fc931554b9e8bedffe25cb4fadc88
+size 267

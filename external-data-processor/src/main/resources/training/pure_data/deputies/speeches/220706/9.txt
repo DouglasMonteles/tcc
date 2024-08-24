@@ -1,1 +1,3 @@
-Congratulações  ao município de Cascavel pelo número de medalhas obtidos por desportistas em em competição esportiva na cidade de Toledo, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22694dbaedd40d4b011e441d50fe639d8839d565c33439015e80026811411bbb
+size 162

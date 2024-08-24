@@ -1,1 +1,3 @@
-Dados do 13º Anuário Brasileiro de Segurança Pública. Necessidade da adoção de providências a respeito do elevado número de mortes violentas no Estado do Amapá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:139a0966ebb05178cea916298a5496a81babf4992906017511ec12ab7dee6d52
+size 169

@@ -1,1 +1,3 @@
-Realização do Encontro Regional do PT no Município de Condeúba, Estado da Bahia. Comemoração do 8º aniversário de fundação do partido na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca0e3462cf1d67355c30e2fc91664cf721d6156e80f994849f4a4ec7a86b8090
+size 162

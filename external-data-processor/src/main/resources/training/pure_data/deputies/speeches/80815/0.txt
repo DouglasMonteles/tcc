@@ -1,1 +1,3 @@
-Agradecimento ao ex-Prefeito Municipal de Salvador, Antônio Carlos Magalhães Neto, pela ingresso do orador na vida pública. Compromisso de atuação parlamentar pela melhoria dos serviços públicos em comunidades carentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2403d3fb4698a38b5723ad6a047d5d7e61c758a3ddb23e083b6b4544299c81ca
+size 226

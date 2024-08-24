@@ -1,1 +1,3 @@
-A Deputada destacou a aprovação do Programa Emergencial de renegociação de dívidas de pessoas físicas e inadimplentes, conhecido como Desenrola Brasil. Ressaltou que o programa visa beneficiar cerca de 70 milhões de brasileiros, principalmente aqueles com pequenas dívidas e renda de até dois salários mínimos. Até o momento, mais de 10 milhões de pessoas com dívidas de até cem reais foram desnegativadas, e mais de 1 milhão de pessoas com renda de até 20 mil reais começaram a renegociar débitos em bancos. A oradora também destacou o prazo para empresas credoras aderirem ao programa e enfatizou a redução da inadimplência em Santa Catarina, atribuída ao Desenrola Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7be30243f56d657bdd55f5800fbc9cf58415246e677551dc89d92d7bef67aad
+size 699

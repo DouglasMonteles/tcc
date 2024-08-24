@@ -1,1 +1,3 @@
-Regozijo com o desempenho dos atletas brasileiros nos recentes Jogos Pan-Americanos realizados em Lima, Peru. Defesa de retomada dos incentivos governamentais ao esporte nacional. Razões da derrota do Presidente da Argentina, Mauricio Macri, nas eleições primárias à sucessão presidencial. Conveniência de utilização, pelo Governo Jair Bolsonaro, de reservas cambiais na geração em massa de novos empregos. Defesa de ampliação e melhoria do Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f1b1bd5f443c795ec0d545c7c93e6e671806fd6de8e5e37522b88967d00166
+size 486

@@ -1,1 +1,3 @@
-Preocupação com a proposta de desestatização de empresas nacionais, em face dos resultados negativos da privatização do setor de telecomunicações no Brasil. Pedido de recuperação judicial pela empresa de telefonia Oi S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87fe43ad263e59ad93dd35e7731c3bf02f02b2c7de1476a757ccee730fb89954
+size 231

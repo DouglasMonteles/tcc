@@ -1,1 +1,3 @@
-Questiona o indeferimento, pela Comissão de Fiscalização Financeira e Controle, de requerimento de convocação do Presidente do Banco Central do Brasil, sob a alegação de que não teria cargo equivalente ao de Ministro. Faz referência à lei que deu prerrogativas de ministro de estado ao Presidente do BACEN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:268b19e47d042f8513c725d2774006d69eaea63d072dda6de032c08e7a7ef0c7
+size 316

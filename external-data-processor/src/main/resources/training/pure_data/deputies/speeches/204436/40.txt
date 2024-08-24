@@ -1,1 +1,3 @@
-Questão de ordem sobre o cumprimento do acordo acerca de candidaturas apresentadas para ocupação de cargos na Mesa Diretora da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eadceff2fa865770432e3c5aa6c381a5ff21bd519a3ce45fa390314a982efa43
+size 152

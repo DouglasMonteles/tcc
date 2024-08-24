@@ -1,1 +1,3 @@
-O Deputado esclareceu ao Plenário sobre o teor do Projeto de Lei nº 4.035, de 2023, de sua autoria, que institui Agosto como mês de combate às desigualdades. Ressaltou que não há, no escopo da matéria, qualquer menção à ideologia de gênero.
+version https://git-lfs.github.com/spec/v1
+oid sha256:913c73447d4f11fd5899e1001a5c77d6fdcad1898fe56a13ecc3e0f18e07ab13
+size 251

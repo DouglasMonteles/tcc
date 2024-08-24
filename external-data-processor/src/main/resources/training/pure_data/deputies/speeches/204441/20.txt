@@ -1,1 +1,3 @@
-Esclarecimento ao Presidente do Supremo Tribunal Federal, Ministro Dias Toffoli, sobre a inexistência de conspiração internacional contra a instituição. Decepção do povo brasileiro com a atuação de membros da Suprema Corte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b5194a8987f937cb6bc415bbbde5ff1cef78e72034936f113508b655ff8c173
+size 232

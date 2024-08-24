@@ -1,1 +1,3 @@
-Importância de divulgação do cordão de girassol, símbolo nacional de identificação de pessoas com deficiências invisíveis, tais como o Transtorno do Espectro Autista - TEA; o transtorno de ansiedade; o déficit de atenção; e a hiperatividade entre outros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87b7cf0fb6ba80e5012870fe317b5280750b3477cc027ead7508cacce00d43f3
+size 266

@@ -1,1 +1,3 @@
-Anúncio da visita do orador aos Municípios de Macuco e de São Sebastião do Alto, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0693105239722ea7e3fb428ebf50e36e7ca453a5aec53bd2240e3b833ec53c00
+size 110

@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 1.084, de 2023, sobre a alteração da Lei nº 10.891, de 2004, para garantia de direitos às atletas gestantes ou puérperas, no âmbito do Programa Bolsa-Atleta. Apoio ao Projeto de Lei nº 2.630, de 2020, a respeito da instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd98baf3e94a511199fae5522f6df55144c57e04a073e1347bf0fe05744b5978
+size 378

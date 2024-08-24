@@ -1,1 +1,3 @@
-Questão de ordem sobre a determinação, pela Presidência de encerramento de reunião da CPI destinada à investigação de práticas ilícitas no âmbito do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06a1164ea4fbdbb5b3a91be04ccc0a566e499b3430d525797010e6e621c22519
+size 222

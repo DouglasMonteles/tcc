@@ -1,1 +1,3 @@
-O Deputado compartilhou uma visita que fez ao Presidente do Banco do Nordeste, Paulo Câmara, em Fortaleza. Durante a visita, ele e o Deputado Júlio Cesar solicitaram mais crédito para irrigantes em Parnaíba e Guadalupe, no Piauí, apoio para Santas Casas de Misericórdia e hospitais filantrópicos, e a implantação do Centro Cultural Banco do Nordeste em Parnaíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92951eeb5ee05c3f26be9dd4e1baaa6dc1e12a0c93373ceee1d182d5612ed908
+size 372

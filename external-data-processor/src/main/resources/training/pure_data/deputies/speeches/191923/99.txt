@@ -1,1 +1,3 @@
-O Deputado manifestou-se contrário à proposta de homenagear o Coronel Erasmo Dias, ex-Secretário de Segurança de São Paulo, lembrando ações controversas durante sua gestão, como a invasão à PUC. O Parlamentar criticou as homenagens a figuras históricas controversas, citando como exemplo Fernão Dias Paes, um bandeirante que passou a história toda como um homem desbravador, mas foi assassino de indígenas, de escravos. Criticou também  a proposta de nomear o Dia do Patriota e a perpetuação do crime, por meio de homenagens, de nomes de ruas, de bustos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2734e5fed9cdc6f04ae102ca573676c9bb48912c07a31b2673acb5737fe3fa4b
+size 571

@@ -1,1 +1,3 @@
-Regozijo com a aprovação, pelo Tribunal de Contas da União -TCU, da renovação antecipada da concessão da Malha Ferroviária Paulista, operada pela Rumo Logística. Importância de inclusão da Baixada Cuiabana no traçado da ferrovia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0875c07027a38f4ec1e6630e771f1909353e04a2dffb8dbdc927ebd738e15132
+size 240

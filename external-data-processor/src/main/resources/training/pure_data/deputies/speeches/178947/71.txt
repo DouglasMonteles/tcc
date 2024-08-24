@@ -1,1 +1,3 @@
-Indignação com decisão do Presidente interino da Câmara dos Deputados, Waldir Maranhão, de anulação da sessão de votação do processo de impeachment. Expectativa de término do Governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24787711788e0a99a699751d081dbfdd152f8110dee50b74cdaf4e9338688e40
+size 202

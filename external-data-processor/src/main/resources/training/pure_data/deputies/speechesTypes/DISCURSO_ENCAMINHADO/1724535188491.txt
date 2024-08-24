@@ -1,1 +1,3 @@
-Transcurso do 18º aniversário de criação do Programa Bolsa Família. Responsabilidade do programa pela retirada do Brasil do Mapa da Fome. Inconformismo com o fim do Bolsa Família. Caráter eleiçoeiro do Programa Auxílio Brasil, lançado pelo Governo Federal. Quadro de fome, miséria, inflação e desemprego reinante no Brasil. Artigo A destruição das políticas sociais e a volta da miséria e da fome, de autoria do orador, publicado pelo jornal Folha de S.Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaf7826f50dd74fed8d92ef919f907424c93a1bd65a2f285acc08332d919469d
+size 476

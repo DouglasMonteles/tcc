@@ -1,1 +1,3 @@
-Solidariedade ao General Eduardo Villas Bôas diante de ofensas verbais veiculadas pela mídia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30ff0e3ca322da7e5b1cf87a0cf0cc3565871ec4a6a892919f85b82b8f9f930a
+size 95

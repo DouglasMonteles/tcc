@@ -1,1 +1,3 @@
-Homenagem à memória do educador e filósofo Paulo Freire, ao ensejo do transcurso do 90º aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13d78b5cdbf9ddf7bd7f1efa4097d489218547e9a843093c446e67498283db7a
+size 116

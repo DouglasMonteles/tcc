@@ -1,1 +1,3 @@
-Agradecimento aos participantes na sessão solene. Entrega à Diretora da Escola Estadual Afonso Arinos, Ercir Pimentel Magalhães, de placa comemorativa do centenário da instituição de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4a6b58b0c9bfb67e2db529a03c5778c89c08d2bac893cc95c8b83f30f82c598
+size 196

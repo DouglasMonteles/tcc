@@ -1,1 +1,3 @@
-O Deputado prestou homenagem a Serjão, ativista e fundador do PT, que faleceu recentemente, destacando seu legado de luta, e expressou condolências à sua família. O Parlamentar enfatizou que, apesar da perda, a história e o impacto de Serjão permanecem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a71e042a07968b38c8a3d973e43eaccefc73d2b13178c241e335918aa50117c
+size 259

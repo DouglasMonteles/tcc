@@ -1,1 +1,3 @@
-Apoio ao Movimento Sem Asfalto, Sem Petróleo, de moradores do povoado Pedreiras, no Município de São Cristóvão, Estado de Sergipe, pela pavimentação asfáltica das vias de tráfego de veículos da PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e08e7e07664fe5c89d0e128b29061f5f520a6482200d76b36422a0175df3697b
+size 214

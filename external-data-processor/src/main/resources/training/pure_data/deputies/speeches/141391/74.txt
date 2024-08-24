@@ -1,1 +1,3 @@
-Realização de encontro da Frente Parlamentar em Defesa da Infra-estrutura Nacional. Realização do seminário III Brasil nos Trilhos pela Associação Nacional dos Transportadores Ferroviários, em Brasília, Distrito Federal. Conveniência de ampliação dos investimentos governamentais na estrutura ferroviária, com vistas ao fomento da integração intermodal de transportes. Atuação parlamentar do orador em defesa do fortalecimento do setor ferroviário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3469f776a678f8541ac2d0da974347ff4747ba9528c552e385720981c357b92
+size 466

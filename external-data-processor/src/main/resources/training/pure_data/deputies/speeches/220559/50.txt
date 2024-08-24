@@ -1,1 +1,3 @@
-A Deputada expressou preocupação com um tweet da jornalista Eliane Cantanhêde, referente a um suposto conflito entre Ministros do Supremo e líderes políticos, sugerindo uma possível interferência indevida no cenário político.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb61f0784a35717bc99023c95d8376540c08d6f83a6dee703205a9b183cdcf16
+size 234

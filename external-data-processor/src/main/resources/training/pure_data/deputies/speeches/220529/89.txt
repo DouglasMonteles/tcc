@@ -1,1 +1,3 @@
-Transcurso do 132º aniversário de emancipação político-administrativa do Município de Muniz Freire, Estado do Espírito Santo. Pedido ao Ministério da Educação de instalação, na municipalidade, de unidade do Instituto Federal de Educação, Ciência e Tecnologia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c3c362166ecd47505c68d06aa4dcad441e474953f7327e5b4786c78e3a4c842
+size 274

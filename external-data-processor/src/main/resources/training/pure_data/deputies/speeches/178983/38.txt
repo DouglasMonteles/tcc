@@ -1,1 +1,3 @@
-Transcurso do aniversário de emancipação político-administrativa dos Municípios de Ribeirão Preto, Jacupiranga, Atibaia, Joanópolis, Mirandópolis, Lavrinhas, Morungaba e Guarujá, no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7288425b8fef8a8805b7f4f87a96007719e8d3faf88e454633d16b9f8fcfb26b
+size 212

@@ -1,1 +1,3 @@
-Apreensão do orador ante o aporte de recursos e a remoção de moradores e comerciantes da região da Rua Santa Ifigênia, em São Paulo, para a execução do projeto Nova Luz. Julgamento, pelo Supremo Tribunal Federal, da ação direta de inconstitucionalidade de lei de concessão urbanística do Município de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef16a2a6a8beea75ccbc5f26d63a28bb99741077153d52db53a7c3e60f17295b
+size 347

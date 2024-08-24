@@ -1,1 +1,3 @@
-Pedido à Presidência de votação de requerimento a respeito da legalização pelo Governo boliviano de veículos contrabandeados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:631f167e12f1ba10582df29a54b9584db378c2164cb7038271d410c5e87838af
+size 132

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 863, de 2018, sobre a abertura do setor aéreo ao capital estrangeiro. Anúncio da realização de manifestações de rua em apoio ao Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe33691be6e04a55b09e11cfb3b7f9f28dbeb311b988dffe8217bfe19cb350d2
+size 260

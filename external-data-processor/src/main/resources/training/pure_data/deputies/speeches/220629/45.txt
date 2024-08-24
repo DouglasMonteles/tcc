@@ -1,1 +1,3 @@
-A Deputada comemorou a queda da taxa de desemprego para 7,7%, destacando a eficácia das políticas de emprego e renda do Governo Lula. Celebrou a aprovação da Lei de Cotas no Senado, enfatizando as mudanças estruturais que introduziu como relatora do texto na Câmara. As alterações incluem a prioridade dos cotistas para bolsas de assistência estudantil, cota quilombola obrigatória, ações afirmativas na pós-graduação e mudanças na lógica de renda. A Parlamentar expressou sua satisfação pelo impacto positivo das cotas na educação e agradeceu aos envolvidos no processo legislativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:141401c84ebbe978a730c6ddd79596bd7d7e6c734e48feb0f46aafe5f995e779
+size 604

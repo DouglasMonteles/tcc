@@ -1,1 +1,3 @@
-Invasão de página do Governo do Estado do Maranhão na Internet para divulgação de notícia falsa sobre a morte do orador em acidente aéreo. Repúdio aos crimes cibernéticos e às chamadas fake news.  Conclamação à Casa de prioridade no debate e apreciação de propostas de combate aos crimes cibernéticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:883b1550bc7c43c8e5875e61700d311aa0d185c9af1416e38fb0ebe4af333684
+size 317

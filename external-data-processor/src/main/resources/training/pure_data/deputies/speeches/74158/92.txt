@@ -1,1 +1,3 @@
-Congratulações aos autores da proposta de realização, pela Casa, de sessão solene em homenagem ao Estado de Minas Gerais. Defesa de aprovação da Proposta de Emenda à Constituição Estadual nº 49, de 2018, sobre o estabelecimento de piso salarial de docentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57ec61fbbce05749b640e98d67efded3453f730df5851784608e91f274b9566a
+size 268

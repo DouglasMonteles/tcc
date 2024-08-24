@@ -1,1 +1,3 @@
-Fechamento de estabelecimentos de venda de drogas em Amsterdã, Holanda, ante o aumento da violência. Caráter prejudicial de eventual descriminalização de drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e374d2191877de65777ec5ed2c6d7cde39a6b695dc50a68e2611a3fa33384dd
+size 166

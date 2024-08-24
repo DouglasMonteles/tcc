@@ -1,1 +1,3 @@
-Questão de ordem sobre a tentativa do Deputado José Medeiros de intimidação Deputada Gleisi Hoffmann e sobre a agressão física praticada pelo Parlamentar contra o orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18c79dd93e5b0194c7d39ac0607f91d4450cb25f53071cab2ef19a3285b06ba7
+size 176

@@ -1,1 +1,3 @@
-Repúdio a prisão de policial militar do Estado de São Paulo, em decorrência de acusação, por meliante, de tortura e abuso de autoridade no cumprimento do dever. Esclarecimentos quanto ao chamado ciclo completo da polícia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:266495e5d104777b1b3c6da68921a8f70aa8e6c266bcdf6692d9a68abe58d75e
+size 228

@@ -1,1 +1,3 @@
-Pedido aos Deputados do Bloco do PP de comparecimento ao plenário para votação. Orientação da respectiva bancada. Presença em Brasília de Vereadores do Município de Harmonia, Estado do Rio Grande do Sul, em busca de recursos para a área de segurança da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6842593af1aa805e95c20ba62e35a78afcf9e847691f45c952c580e3b2148f6
+size 278

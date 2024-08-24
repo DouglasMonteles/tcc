@@ -1,1 +1,3 @@
-Fracasso de viagem oficial do Presidente Luiz Inácio Lula da Silva à República Popular da China. Declaração do líder do Movimento dos Trabalhadores Rurais Sem Terra - MST sobre a continuidade das invasões de terras produtivas no País. Reação do Deputado Eduardo Bolsonaro diante de ataque de Deputado da Esquerda ao seu pai Jair Bolsonaro. Defesa da prisão do Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, general Marco Edson Gonçalves Dias, em face do seu envolvimento nos atos antidemocráticos praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18cde875b8247749349b3faf64f9451e58bbac20d64ef44c0dc2935a600ebb66
+size 602

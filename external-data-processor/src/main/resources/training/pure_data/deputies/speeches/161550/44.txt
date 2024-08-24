@@ -1,1 +1,3 @@
-Transcurso do 73º aniversário natalício do Sr. José Abílio. Realização da 18ª Exposição Brasileira do Agronegócio do Leite - MEGALEITE, em Belo Horizonte, Estado de Minas Gerais. Prejuízos causados aos pequenos produtores pelas importações brasileiras de leite. Regozijo com a anunciada conclusão das obras de trecho da BR-265, em Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1076d750c81cda8a64fa61b9d18fac1f55dc915a148399244fd993c5dab6c57b
+size 359

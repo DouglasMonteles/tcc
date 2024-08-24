@@ -1,1 +1,3 @@
-Preocupação do orador com os efeitos, sobre a classe trabalhadora, da aprovação do Projeto de Lei nº 4.330, de 2004, que dispõe sobre o contrato de prestação de serviço a terceiros e as relações de trabalho dele decorrentes. Expectativa de crescimento da demanda pelo seguro-desemprego em decorrência do aumento da rotatividade no trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52ddc386aa9cdb303eeee668cd0d654470e9175399c2f2fd0e88b33fc91a9280
+size 352

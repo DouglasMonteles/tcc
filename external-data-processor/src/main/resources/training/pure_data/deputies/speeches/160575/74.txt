@@ -1,1 +1,3 @@
-Instalação da Comissão Especial destinada ao exame do Projeto de Lei nº 7.672, de 2010, coibitivo da submissão de crianças e adolescentes a castigos corporais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74d14e7342952232ab4221e14b0293335f7721b801ebe1e8c472cdeeef69ddb9
+size 165

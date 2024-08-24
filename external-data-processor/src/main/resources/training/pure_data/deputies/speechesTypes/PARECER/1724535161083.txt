@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Constituição e Justiça e de Cidadania, às Emendas de Plenário ao Projeto de Lei 2.592 de 2007 (Dispõe sobre infração administrativa, crimes de trânsito e normas processuais a estes aplicáveis).
+version https://git-lfs.github.com/spec/v1
+oid sha256:66b793a9ac69146bcc6c39d2f55d81dcba60cf438af36ec936995dfdf81fa542
+size 230

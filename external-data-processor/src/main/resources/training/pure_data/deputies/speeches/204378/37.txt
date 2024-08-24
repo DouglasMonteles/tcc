@@ -1,1 +1,3 @@
-Compromisso do Ministro da Saúde, Luiz Henrique Mandetta, de atendimento a reivindicações de Prefeitos Municipais do Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:132c5e1245f96e5bc701744e4cb66d62e82edb4540ae017d3d6a881dad717add
+size 140

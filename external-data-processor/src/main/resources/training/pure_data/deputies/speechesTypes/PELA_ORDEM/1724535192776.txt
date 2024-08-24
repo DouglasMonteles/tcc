@@ -1,1 +1,3 @@
-Transcurso de aniversário do Município de Iperó, Estado de São Paulo. Agradecimento ao Governador Geraldo Alckmin pela construção do Hospital Regional de Sorocaba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d14a6a59b681638d6ede0a1415a34f4e76670569ee2a42e9e89ee74587cd4fb4
+size 169

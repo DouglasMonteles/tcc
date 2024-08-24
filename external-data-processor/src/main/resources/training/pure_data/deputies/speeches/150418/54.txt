@@ -1,1 +1,3 @@
-Presença do Ministro da Pesca e Aquicultura, Marcelo Crivella, e do Governador do Estado da Bahia, Jaques Wagner, na inauguração de terminais pesqueiros em Salvador e em Ilhéus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c594b3e51634f2980e7a6a172aed7fb502d6e5774c800a5f5e843c5a3d93d0d
+size 181

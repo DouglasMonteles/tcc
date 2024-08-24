@@ -1,1 +1,3 @@
-Congratulações à Presidenta Rose de Freitas pela realização de acordo acerca da votação do projeto de lei referente à reforma Código Florestal brasileiro. Realização no Município de Caetité, Estado da Bahia, de mobilizações contra o armazenamento de material radioativo na região. Necessidade de esclarecimento sobre a natureza do material armazenado pelo Ministério da Ciência e Tecnologia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eae09361dd35ccb1291b83161ddf0cd33d38eba6de4476d4f6a738602ec8c90a
+size 409

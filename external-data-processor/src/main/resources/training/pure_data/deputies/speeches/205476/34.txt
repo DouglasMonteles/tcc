@@ -1,1 +1,3 @@
-Anúncio da realização de manifestação contra a construção de barragem de rejeitos pela empresa Bahia Mineração no Município de Guanambi, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52691e0704661b888c90e64e6f8fc3afc5cbef0a3519c472477a7a47c54e1b8a
+size 170

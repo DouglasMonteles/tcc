@@ -1,1 +1,3 @@
-Obstrução do PSOL à votação do Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória 411 de 2007 (Dispõe sobre o Programa Nacional de Inclusão de Jovens - Projovem, instituído pela Lei 11.129 de 2005, altera a Lei 10.836 de 2004 e dá outras providências), em votação nominal por força de verificação de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dd710c897d627038fb4cb0034b644ba3aa4e235694a3d1763b41b025ea30b1e
+size 346

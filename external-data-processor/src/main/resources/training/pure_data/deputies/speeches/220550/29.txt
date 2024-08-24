@@ -1,1 +1,3 @@
-Protesto contra a concessão de empréstimo à Argentina pelo Governo Luiz Inácio Lula da Silva. Queda do índice da atividade industrial brasileira. Adiamento da votação do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news). Liberação, pelo governo petista, de 10 bilhões de reais a Parlamentares para votação a favor da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da6bfca3c99e9b9c9471347ee1c301bda7ddc4c89cee683b17d7232513751e6a
+size 457

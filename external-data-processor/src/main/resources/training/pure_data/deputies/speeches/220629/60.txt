@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 2.767, de 2023, que regulamenta os programas de milhagem das companhias aéreas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0241c140377697f819d4b3d515588a3f65c358d25393d55bc3766f536f6ed029
+size 174

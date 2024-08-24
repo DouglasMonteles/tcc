@@ -1,1 +1,3 @@
-Repúdio à visita oficial ao Brasil do Presidente da Venezuela, Nicolás Maduro. Elevação do ICMS sobre os combustíveis por determinação do Presidente Luiz Inácio Lula da Silva e do Ministro da Fazenda, Fernando Haddad. Projeção, pelo Instituto Fiscal Independente do Senado Federal, de déficit primário e de evolução da dívida pública em 2024, em contraposição à projeção do Governo Federal. Atuação parlamentar contra o Governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e75213f218ebb6c82ebc28e8e998cc1c833f112756c9352ebde268bbfa2c3e98
+size 460

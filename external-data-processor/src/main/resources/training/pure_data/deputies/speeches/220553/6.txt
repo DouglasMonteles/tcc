@@ -1,1 +1,3 @@
-Luta da oradora pela instalação de universidade federal na região da Serra Gaúcha, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53879504efdbf6e277e865a7d01af54c38ea8ee743535db394723e3e8ee2b930
+size 115

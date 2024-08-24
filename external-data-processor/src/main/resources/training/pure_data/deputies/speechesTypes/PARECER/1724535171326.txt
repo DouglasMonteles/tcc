@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Seguridade Social e Família,  ao Projeto de Lei 1.167 de 2007 (Acrescenta inciso IV ao § 1º e § 3º ao art. 241 da Lei 8.069, de 1990 - Estatuto da Criança e do Adolescente, para criminalizar a aquisição de material pornográfico ou que contenha cenas de sexo explícito envolvendo criança ou adolescente), apensos os Projetos de Lei 3.773 de 2008 e 4.056 de 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaac04a4d1086138f1a767218abb6a5aa622c5b4e487ffa48cb8f52a44eecf70
+size 399

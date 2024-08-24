@@ -1,1 +1,3 @@
-Ações iniciais do Governo Luiz Inácio Lula da Silva destinadas à retomada do crescimento econômico do País com justiça social e distribuição de renda. Necessidade de redução da taxa de juros SELIC pelo Banco Central para implementação da pauta econômica e social do governo petista. Reiteração de importância da participação da Casa na luta em defesa da redução dos juros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3086746a523eda7706afaa2c9d970cd0d5afd924e9be675b3a18e06e22b1569d
+size 393

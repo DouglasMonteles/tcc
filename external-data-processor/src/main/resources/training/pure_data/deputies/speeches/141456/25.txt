@@ -1,1 +1,3 @@
-Defesa da aprovação do  Requerimento de regime de urgência urgentíssima para o Projeto de lei 5.334 de 2009 (Autoriza o Poder Executivo a contratar  a PETROBRAS S.A para realizar todas as atividades necessárias ao pleno dimensionamento das jazidas de petróleo nas áreas não concedidas do pré-sal). Convocação dos Deputados do PT ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f491184c8cf19f8fae599124104ff47799bdb9544513116b15e65261d11b491f
+size 353

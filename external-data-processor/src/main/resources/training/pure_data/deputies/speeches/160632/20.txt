@@ -1,1 +1,3 @@
-Agradecimento aos membros da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, pela aprovação de emenda destinada ao setor de assistência técnica e extensão rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a49254b511b24fa53949a326ebc5dd78fe34e8100e6b232e1490075f7eb05ed9
+size 194

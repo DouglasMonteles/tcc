@@ -1,1 +1,3 @@
-Presença, na Casa, da Prefeita Paula Schild Mascarenhas, do Município de Pelotas, Estado do Rio Grande do Sul. Participação da gestora municipal na Jornada Nacional de Segurança Pública e Defesa Social. Caráter inovador do projeto Pacto Pelotas pela Paz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be359cf659ef63de8fc164f1c10ab8cec0489876f0d358cf51ad4ce38ab93960
+size 261

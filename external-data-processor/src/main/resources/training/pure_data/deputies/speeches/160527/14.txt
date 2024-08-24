@@ -1,1 +1,3 @@
-Solidariedade do PP ao Presidente Marco Maia. Gestão transparente e democrática do Presidente da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f83f6265da8225d0ba115909e91b5af5ac8c887da0aa92c056f54c2b5de0bfcb
+size 104

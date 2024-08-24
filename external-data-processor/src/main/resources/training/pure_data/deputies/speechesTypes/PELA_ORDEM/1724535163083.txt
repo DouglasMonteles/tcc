@@ -1,1 +1,3 @@
-Facilidade do acesso a sites  de pornografia na Internet. Apresentação pelo orador do Projeto de Lei nº 5.191, de 2019, sobre a obrigatoriedade de disponibilização, pelos provedores de conteúdos de cunho pornográfico na Internet, de mecanismo de controle do acesso a tais conteúdos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62f3971acaf1b9ca006a2ee791bcd09f97bd051c608f7eab0472178989ba7446
+size 290

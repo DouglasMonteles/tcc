@@ -1,1 +1,3 @@
-Compromisso de atuação parlamentar em prol da retomada do desenvolvimento econômico do País, especialmente do Estado do Rio Grande do Sul. Necessidade de debate das propostas sobre o estabelecimento de regras para a compensação financeira das perdas dos Estados decorrentes de perdas da chamada Lei Kandir; a repactuação das dívidas dos Estados com a União e a revisão do pacto federativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a020a247fec05b80c73ed37de02dc467904f10ffa2d3b7cd742e498a7a34f270
+size 400

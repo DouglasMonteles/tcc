@@ -1,1 +1,3 @@
-Congratulações à Deputada Eliziane Gama pelo desempenho na Comissão Externa destinada ao acompanhamento dos trabalhos da PETROBRAS nos Estados do Ceará e Maranhão. Requerimento ao Ministério Público Federal para acompanhamento do processo acerca das Refinarias Premium I e II.
+version https://git-lfs.github.com/spec/v1
+oid sha256:631285c7a9cb7cdefae028fb9b6bf3e270043d24c93d61561564250cf93a33f9
+size 284

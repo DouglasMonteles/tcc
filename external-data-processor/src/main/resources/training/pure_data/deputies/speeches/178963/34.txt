@@ -1,1 +1,3 @@
-Concordância do PP com acordo sobre votação de proposição relativa ao sistema tributário Super-SIMPLES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44a3102c0dd36a95b525e2f8b3c1c24a752b118d8dd6a9fac4160a621e06448e
+size 109

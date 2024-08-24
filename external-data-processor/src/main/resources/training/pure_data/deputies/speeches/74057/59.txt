@@ -1,1 +1,3 @@
-Exigência de retirada da pauta do Projeto de Lei nº 341, de 2003, sobre o estabelecimento de regras para a relação entre escola particular e aluno, em caso de inadimplência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97b4c483b58e44ca2114a157da78051ca53aa93f6957fcd703a872ce53356229
+size 178

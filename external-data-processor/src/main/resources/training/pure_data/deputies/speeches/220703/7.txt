@@ -1,1 +1,3 @@
-Urgente necessidade de retomada dos padrões fitossanitários de proteção da cacauicultura brasileira. Pedido à Casa de aprovação do Projeto de Decreto Legislativo nº 330, de 2022, para sustação da Instrução Normativa nº 125, de 2021, da Secretaria de Defesa Agropecuária, do Ministério da Agricultura, Pecuária e Abastecimento, revogatória da exigência fitossanitária nas importações de amêndoas de cacau da Costa do Marfim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:134ce50742c75eae4aa0e3892e72e34ac19bf0436cbc3217d0a3c83a3044438d
+size 445

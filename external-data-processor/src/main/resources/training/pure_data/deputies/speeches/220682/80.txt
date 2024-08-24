@@ -1,1 +1,3 @@
-O Deputado informou a aprovação de Flávio Dino para o cargo de Ministro do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a13c377356c2bff579e7c017bcd8bf71bfd8fb77d2c546c95863a5526925a7ce
+size 103

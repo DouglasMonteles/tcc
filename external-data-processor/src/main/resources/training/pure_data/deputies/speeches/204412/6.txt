@@ -1,1 +1,3 @@
-Manifesto público assinado pela Sociedade Brasileira de Pediatria em conjunto com a Associação Brasileira de Medicina e a Organização Não Governamental Criança Segura Brasil, contrário ao projeto de lei sobre a não penalização de motorista pela não utilização de cadeirinha no transporte de crianças.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91f756ff3d1df678536ba86626e4ffa9c9cbcaaef1a9bdad30eeeb8ebfa2e1e3
+size 315

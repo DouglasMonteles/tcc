@@ -1,1 +1,3 @@
-Preocupação do orador com pesquisa publicada pela organização não governamental OXFAM sobre a situação de insegurança alimentar de parte da população brasileira. Causas do avanço da fome no País no período do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5b53816baa1caff7434d7a1e3ad0a19488382b8ae3415cfa007f7a02b888f8b
+size 245

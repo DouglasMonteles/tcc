@@ -1,1 +1,3 @@
-União da bancada federal do PSB. Solicitação à Agência Nacional de Energia Elétrica - ANEEL de esclarecimento sobre a cobrança de tarifas de energia diferenciadas. Defesa de votação racional, pelo Senado Federal, de proposta destinada à extinção da chamada guerra fiscal entre os Estados brasileiros. Responsabilidade da empresa norte-americana Chevron e da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP pelo vazamento de óleo na Bacia de Campos, no Rio de Janeiro, Estado do Rio de Janeiro. Defesa da manutenção de contratos celebrados a respeito da distribuição de royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6d8197eebad39e6d00f72ea8e1edac2b93f0f1acb3afe66468666bfc6d26bef
+size 631

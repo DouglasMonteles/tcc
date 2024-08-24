@@ -1,1 +1,3 @@
-Relato da visita da oradora à Escola Municipal Tasso da Silveira, no Bairro de Realengo, no Rio de Janeiro, após o massacre de alunos ocorrido no estabelecimento de ensino. Anúncio pela Secretária Municipal de Educação, Cláudia Costin, de fortalecimento da segurança nas escolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73e4e53d4229accfcfa6090aeb503783a86eed7ac97a2fa935b03fcfcbc5a66d
+size 287

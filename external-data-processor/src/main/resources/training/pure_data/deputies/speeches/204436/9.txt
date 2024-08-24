@@ -1,1 +1,3 @@
-Avanços da área da segurança pública no Estado de Alagoas. Comprometimento do Poder Público com o bem-estar da população alagoana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d79d44a65531b5f961b761cc6f64115f0ad832c557b9aa0d7eebfae55917137d
+size 137

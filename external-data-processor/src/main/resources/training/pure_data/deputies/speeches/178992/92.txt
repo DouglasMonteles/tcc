@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 10.887, de 2018, relativo à alteração da Lei n° 8.429, de 1992, acerca da improbidade administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:610352a832bbd7abff72cff25af12908c989ac9a4b015c052dd470bee2d4cc1e
+size 149

@@ -1,1 +1,3 @@
-Agradecimento ao povo do Estado de Minas Gerais pela reeleição do orador. Saudações aos novos Deputados da Casa. Compromisso parlamentar do orador em defesa dos agricultores e extensionistas rurais. Conquistas e demandas da população rural no País, em especial no Estado de Minas Gerais. Empenho pela conclusão das obras da Barragem de Berizal e das BRs 251 e 367, em Minas Gerais. Defesa de adoção de moderno cartão digital trabalhista, em substituição à antiga Carteira de Trabalho. Reiteração do compromisso pela implantação de políticas públicas de modernização do campo brasileiro. Importância da Agência Nacional de Assistência Técnica e Extensão Rural - ANATER. Solicitação à Presidenta Dilma Rousseff de imediata nomeação da diretoria da Agência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:211246c0b012006035efbf3c0c583dee4affcb3c646ce7b3450086b065af0536
+size 787

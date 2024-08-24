@@ -1,1 +1,3 @@
-Debate de propostas acerca da partilha de recursos públicos e respectivas obrigações da União, dos Estados, dos Municípios e do Distrito Federal - Pacto Federativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db4aa18754e4994a8eb2dc42f117f97ed651a9054b7c51c3b0547e26056aee79
+size 169

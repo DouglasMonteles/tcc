@@ -1,1 +1,3 @@
-Posição brasileira diante da geração de energia elétrica e das mudanças climáticas no planeta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a5c24e1683df4e22af47b136e589a314ed3ed6b27a88d9bfcec92f39d03b77f
+size 101

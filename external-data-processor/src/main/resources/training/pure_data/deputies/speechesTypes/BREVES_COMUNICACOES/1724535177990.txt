@@ -1,1 +1,3 @@
-Solicitação à Presidência de criação de Comissão Especial destinada à análise de propostas para a atualização da legislação eleitoral. Descontentamento com a campanha das eleições municipais de 2016 na cidade do Rio de Janeiro. Saudação a Vereadores eleitos do PMDB e PDT da capital fluminense. Posse do Deputado Marx Beltrão no cargo de Ministro do Turismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5cd0045e4c4519ddd52729f9834b9fba7999861624b555ef315942e9e11a595
+size 376

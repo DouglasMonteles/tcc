@@ -1,1 +1,3 @@
-Questionamento das razões da declaração de inelegibilidade do ex-Presidente Jair Bolsonaro. Apresentação de pedido de impeachment do Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9841a00c67e84230c5a9ae3fc92a313a9d79e1738347e8ab384b69115d1c97a
+size 176

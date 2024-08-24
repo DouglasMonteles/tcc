@@ -1,1 +1,3 @@
-Regozijo com a indicação, pela Presidente Dilma Rousseff, do jurista paranaense Luiz Edson Fachin para o cargo de Ministro do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbbeb1a2fee75658f046dbb71c9480e6439f7974567d11fecdc295e97776b540
+size 153

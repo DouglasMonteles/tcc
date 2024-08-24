@@ -1,1 +1,3 @@
-Posicionamento contrário à proposta de acordo para continuidade da discussão, adiamento da votação de requerimentos de votação nominal e de requerimentos de destaque apresentados ao Projeto de Lei Complementar nº 19, de 2019, sobre a definição dos objetivos do Banco Central do Brasil, a sua autonomia, a nomeação e exoneração do Presidente e Diretores da instituição. Existência de vício de origem no texto do Projeto de Lei Complementar nº 19, de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a77e88a1b422abfaa61e0c53650dec10b03e29e935177236cd9cdba9371ff65a
+size 473

@@ -1,1 +1,3 @@
-Protesto contra medidas na área de educação adotadas pelo Governador Romeu Zema no Município de Ituiutaba, Estado de Minas Gerais. Agradecimento aos Deputados Estaduais pela ajuda na solução do problema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7db667a2f939d905c1cadf8a143f1d69797046b244b942459e4f8ecdf2ee098
+size 209

@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei 60 de 1999 (Dispõe sobre o atendimento às vítimas de violência  sexual). Defesa da aprovação da  matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6228f745c44d852cc74883e71b60ceb25f07c37adbda3d42dde199b8443f7a72
+size 141

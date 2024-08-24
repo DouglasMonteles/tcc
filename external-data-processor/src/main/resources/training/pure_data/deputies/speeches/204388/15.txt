@@ -1,1 +1,3 @@
-Importância do canto do Hino Nacional pelo alunato e pelos cidadãos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1405604164cbcf6b3d14c5463b282324a64e1709673168bdc84225ee2de13260
+size 82

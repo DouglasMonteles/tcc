@@ -1,1 +1,3 @@
-Importância da realização das reformas previdenciária, trabalhista, tributária, política e educacional para modernização e desenvolvimento do Brasil. Excelência do agronegócio brasileiro. Necessidade de revisão do pacto federativo, com o aumento da distribuição de recursos para os Municípios. Agradecimento ao Governo japonês pela excelência da parceria com o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9da7cdf8a0aafd224d5425ad2d7b8f93b531d1dc597d470bf89ed93a29dbe835
+size 384

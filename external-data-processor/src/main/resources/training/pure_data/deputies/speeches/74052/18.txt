@@ -1,1 +1,3 @@
-Homenagem póstuma ao Governador do Estado de Sergipe, Marcelo Déda. Defesa de ampliação do prazo de carência para o pagamento de mensalidades  junto ao Fundo de Financiamento Estudantil - FIES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84cf916a19f6bdae2cf4f228f928e6c8127a477532a7a0bfaeaad3d5e4116290
+size 198

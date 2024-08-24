@@ -1,1 +1,3 @@
-Contestação aos pronunciamentos em apoio à denúncia divulgada pelo portal The Intercept.  Brasil contra o Ministro da Justiça e Segurança Pública, Sergio Moro.  Atuação do Ministros Sergio Moro e Paulo Guedes a defesa dos  interesses do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77a586cf088e49fdcb1ef797a31cef24ada31356dc393d8b00ce736c4d2b2a16
+size 253

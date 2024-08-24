@@ -1,1 +1,3 @@
-Solidariedade ao Governador do Estado do Rio de Janeiro, Sérgio Cabral, e aos familiares das vítimas de acidente de helicóptero ocorrido no Município de Porto Seguro, Estado da Bahia. Implantação de UPP - Unidade de Polícia Pacificadora na comunidade da Mangueira, no Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca9544110368b7e779e0104d0e0dfa6712e7419596879a28846586d93037eddf
+size 290

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 5, apresentada ao Projeto de Lei Complementar nº 11, de 2020, relativo à alteração da sistemática de cobrança do ICMS incidente sobre combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f70da0baebe85747c296895f60069a6cd3f1426dcb5648d0243a722aa730445d
+size 273

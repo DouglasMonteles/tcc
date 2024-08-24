@@ -1,1 +1,3 @@
-Defesa do impeachment da Presidenta da República, Dilma Rousseff, ante a contrariedade pelo não cumprimento de promessas da campanha eleitoral de 2014. Existência de motivos para o afastamento da Chefe do Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f993bdeff61df6d123a76b2e452db9e4a2997163a127cf95c76d403bbe4d6688
+size 224

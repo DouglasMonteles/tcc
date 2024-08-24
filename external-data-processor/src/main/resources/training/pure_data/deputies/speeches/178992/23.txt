@@ -1,1 +1,3 @@
-Comissão Geral para debater o tema da situação do setor de ciência e tecnologia no Brasil, diante dos recentes cortes orçamentários, bem como sua relevância para o desenvolvimento do País - Marcha pela Ciência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c57a29834234cab80f4f7123538149b73fd3664ae8c029bc18b5cfc9c13ad03
+size 219

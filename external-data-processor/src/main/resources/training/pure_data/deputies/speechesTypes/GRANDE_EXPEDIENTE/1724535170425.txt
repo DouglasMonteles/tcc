@@ -1,1 +1,3 @@
-Saudação ao povo brasileiro e às populações de municipalidades mineiras, em especial às comunidades Canção Nova e Mundo Novo e ao Movimento da Renovação Carismática Católica. Agradecimento ao eleitorado mineiro por sua eleição para a Câmara dos Deputados. Trajetória política do orador. Compromisso de atuação parlamentar em defesa da vida, da criança e de combate à prática do aborto. Anúncio de instalação da Frente Parlamentar Mista em Defesa das Comunidades Terapêuticas. Apoio às entidades vocacionadas para o tratamento e acolhimento de dependentes químicos. Importância do trabalho desenvolvido pela Associação de Proteção e Assistência ao Condenado - APAC, sistema alternativo de cumprimento de pena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b67a5164270e7ab0f2cd4716194780b8762ce1c7ba1ea252c9bdbd12ef55064a
+size 742

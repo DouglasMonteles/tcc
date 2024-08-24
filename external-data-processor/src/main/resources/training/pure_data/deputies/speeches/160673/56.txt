@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT  ao Substitutivo do Senado ao Projeto de Lei 4. 622 de 2004 (Dispõe sobre a organização e o funcionamento das Cooperativas de Trabalho; Institui o Programa Nacional de Fomento às Cooperativas de Trabalho - PRONACOOP; e revoga o parágrafo único do art. 442 da Consolidação das leis do Trabalho - CLT, aprovada pelo Decreto-Lei 5.452 de 1943).
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbcfe91c7a687a1967a7ed71ced3c74457476d0a40f779baa75ada5a6cd6293b
+size 382

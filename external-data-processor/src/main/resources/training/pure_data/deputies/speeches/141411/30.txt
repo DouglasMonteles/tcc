@@ -1,1 +1,3 @@
-Posicionamento  favorável do PDT   ao § 3º do art. 17 da Subemenda Substitutiva Global  de Plenário ao Projeto de Lei  Complementar 12 de 2003 (Fixa normas para a cooperação entre a União, os Estados, o Distrito Federal e os Municípios, no que se refere às competências comuns previstas nos incisos VI e VII do art. 23 da Constituição Federal), que restringe ao órgão que detenha a atribuição de licenciamento ambiental ou autorização de empreendimento ou atividade , a lavratura do auto de infração,  objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5f856ea8c91e5d1a5fad1cb7ded16a970e7162a61186b7ccd42d40789839f27
+size 536

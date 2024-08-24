@@ -1,1 +1,3 @@
-Defesa da punição rigorosa de responsáveis por fraudes no auxílio pecuniário emergencial, concedido a famílias carentes, trabalhadores informais e autônomos para enfrentamento da crise gerada pelo coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cfba96b7e81c014c7837a7271ef9bba2ee81b60ea588e24a319389ba1079d9c
+size 217

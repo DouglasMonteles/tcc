@@ -1,1 +1,3 @@
-Realização da 8ª Conferência Nacional de Assistência Social, em Brasília, Distrito Federal. Transcurso do 18º aniversário de vigência da Lei Orgânica da Assistência Social - LOAS. Apresentação pelo orador do parecer da Subcomissão Especial destinada a acompanhar e discutir o Sistema Único de Assistência Social - SUAS na Comissão de Seguridade Social e Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5f9cb26e81e391d9f1002c04b876af8d6050550d33967b4bb6657e285e1283b
+size 380

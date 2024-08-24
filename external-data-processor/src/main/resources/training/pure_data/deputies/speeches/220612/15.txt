@@ -1,1 +1,3 @@
-Debate sobre assuntos relativos ao Ministério das Comunicações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f4a8d7d0ba00dd05d81f788238af943b8a672c859a267ebc07d113f4fc9a42f
+size 66

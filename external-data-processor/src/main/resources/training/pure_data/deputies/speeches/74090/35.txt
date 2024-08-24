@@ -1,1 +1,3 @@
-Concessão do prêmio Sevilha Nodo ao Governador do Estado do Amazonas, Eduardo Braga. Audiência concedida pelo Ministro de Minas e Energia, Edson Lobão, à bancada federal amazonense para debate da implantação do Programa Luz para Todos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29bf38e476ca4c48aa4976c0f8c69b2fabd9d46d986231d6c7c31530992734c8
+size 242

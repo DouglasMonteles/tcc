@@ -1,1 +1,3 @@
-Contrariedade à exclusão, do Orçamento Geral da União, de proposta de reajuste dos proventos de aposentados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8a777aa24020e3be9c581203d1068893f10f600b7fc3fe7c2a39beb67ddf1ab
+size 112

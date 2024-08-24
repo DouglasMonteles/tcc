@@ -1,1 +1,3 @@
-Instalação da Comissão Especial destinada à apreciação do Projeto de Lei n° 3.960, de 2008, sobre a criação do Ministério da Pesca e da Aqüicultura. Produção de sardinha no Município de Cascavel, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d349ec0312257b6ca7a18ec76f86bf7f819e5d90f8552cae3f2bbf9cf12a15a3
+size 227

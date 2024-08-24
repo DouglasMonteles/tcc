@@ -1,1 +1,3 @@
-Criação, Comissão de Minas e Energia, de Subcomissão para o Desenvolvimento de Energias Alternativas. Defesa de incentivo à produção de etanol pela agricultura familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5efd4fe40133cc60f11d09d6004acf3645703f7eed64b142b120a676b0fb53df
+size 176

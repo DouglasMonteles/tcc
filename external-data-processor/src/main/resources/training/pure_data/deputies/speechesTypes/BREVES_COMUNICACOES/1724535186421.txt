@@ -1,1 +1,3 @@
-Solidariedade ao Papa Francisco diante do fechamento da Embaixada do Vaticano na Nicarágua, determinado pelo ditador Daniel Ortega. Inadmissibilidade de avanço do comunismo no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dddaffe2daaa72e0b7de8b10912878d1f06c6fdf14f54b82446d9668e1fa2dd
+size 185

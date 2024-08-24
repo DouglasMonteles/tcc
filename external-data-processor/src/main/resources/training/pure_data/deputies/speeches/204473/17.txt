@@ -1,1 +1,3 @@
-Defesa de realização pela Casa de sessões às sextas-feiras e às segundas-feiras. Repúdio à anunciada greve geral. Necessidade de retomada do desenvolvimento socioeconômico brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9a809c6c2ccd7d472fdfb3651e1796659c309d5dff1aac4a3788e95cbd7f92c
+size 191

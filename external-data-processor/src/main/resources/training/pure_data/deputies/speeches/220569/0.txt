@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado de Goiás pela assunção do mandato parlamentar. Atenção especial da Casa para com as pautas femininas, especialmente quanto ao enfrentamento à violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86766df064ad1ce7e544eb791cd6bdfe5b646db00f3e53921a1a32b8a5fb97fa
+size 197

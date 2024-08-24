@@ -1,1 +1,3 @@
-Estudo da Cooperativa de Transportes de Cargas do Estado de Santa Catarina — COOPERCARGA acerca das consequências dos preços de óleo diesel vigentes no País. Rejeição pela Comissão de Minas e Energia do Projeto de Lei nº 427, de 2007, de autoria do orador, sobre a criação do óleo diesel econômico. Defesa da concessão de tratamento diferenciado para o óleo diesel no âmbito da política de preços de combustíveis adotada no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a600315d7c5613ada00716ec0fd71139931a83e8149dc1481701feca53928f3
+size 450

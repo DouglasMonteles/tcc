@@ -1,1 +1,3 @@
-Apreensão ante os cortes de recursos orçamentários destinados à cultura brasileira e à censura a cartazes de filmes brasileiros imposta pela Agência Nacional do Cinema - ANCINE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e6a7e8b0b98a48dc20e54152608e0191e64ee96b0b54812f23960dbc4ac6d0d
+size 183

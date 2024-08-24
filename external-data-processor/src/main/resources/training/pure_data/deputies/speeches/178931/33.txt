@@ -1,1 +1,3 @@
-Aprovação, pela Executiva Nacional do PSB, de resolução sobre o posicionamento do partido em relação ao agravamento da crise política e econômica do País. Críticas à gestão da Presidenta Dilma Rousseff. Participação do partido com candidaturas próprias nas eleições municipais de 2016 e para a Presidência da República em 2018.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38fa376e9fa3d2113d92d93e2bf229d8364178e94eec51aae6eb7da5eb462a6d
+size 346

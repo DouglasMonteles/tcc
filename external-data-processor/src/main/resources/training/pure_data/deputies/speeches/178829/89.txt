@@ -1,1 +1,3 @@
-Repúdio a declaração a órgão da imprensa pelo Ouvidor da Polícia Militar do Estado de São Paulo, Julio Cesar Fernandes Neves, sobre a existência de grupo de extermínio na corporação. Anúncio de encaminhamento de ofício ao Governo do Estado de São Paulo com solicitação da exoneração do ocupante do cargo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1e7e558fd8c451543c9a884f77f294fb811b0b399aca303b36cf7e579041a88
+size 322

@@ -1,1 +1,3 @@
-Congratulações ao Presidente Jair Bolsonaro e ao Ministro da Economia, Paulo Guedes, por medidas adotadas contra o monopólio no mercado do Gás Liquefeito de Petróleo - GLP, o gás de cozinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dee2495406a832e31e4fd8e11f5719fc2a196fced81753a1914880a360e9d21
+size 196

@@ -1,1 +1,3 @@
-Defesa de fortalecimento do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc0753ba62ab725543a8e72fae8d9eaf030bb4a047fd9d58acbaf368eeb464f3
+size 150

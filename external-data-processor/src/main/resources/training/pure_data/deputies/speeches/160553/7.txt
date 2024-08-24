@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Saúde. Defesa de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de recursos para a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d146825dd1f4cceb7a6042ba16041120c6131192f44b46da97809cf86190efba
+size 162

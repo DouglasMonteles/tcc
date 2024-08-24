@@ -1,1 +1,3 @@
-O Deputado esclareceu que o objetivo do Projeto de Lei nº 6.256, de 2019, não é reformar a língua portuguesa, mas sim objetivar a comunicação do poder público. Ressaltou que o foco é tornar a linguagem legislativa mais acessível à população, facilitando a compreensão dos direitos e deveres. Destacou a importância de garantir que as ações do Legislativo, Executivo e Judiciário sejam compreendidas pelo público, sem se tratar de questões poéticas ou literárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53003538f234cbf3d819d7bb78119b461ea1d2dc8a4f34dba9951c82da67f2de
+size 483

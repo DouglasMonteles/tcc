@@ -1,1 +1,3 @@
-Solidariedade ao Vereador Edvaldo Lima, do Município de Feira de Santana, Estado da Bahia, diante de ameaças por sua atuação em defesa da família tradicional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e65f868262091a8f748b819a2e5566effc301d0d24c1082e2ad59b8a996f776e
+size 163

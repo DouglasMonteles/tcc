@@ -1,1 +1,3 @@
-Direito constitucional do povo brasileiro de acesso aos serviços de saúde. Necessidade de regulamentação da Emenda Constitucional nº 29, de 2000, a respeito da destinação de receitas públicas ao setor. Transcurso do Dia Mundial de Combate ao Câncer. Importância da realização de exames preventivos da doença.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8143dfe1b5ab5a31f528aac7384934d616daad7a61d515fe9d0a65ae9f55c6b3
+size 321

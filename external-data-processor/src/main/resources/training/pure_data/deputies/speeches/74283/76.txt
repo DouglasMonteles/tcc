@@ -1,1 +1,3 @@
-Exoneração do Ministro da Previdência Social, Luiz Marinho, tendo em vista a sua candidatura à Prefeitura Municipal de São Bernardo do Campo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7d29efe2be26b151add74bbc74229db452878af2b0d148b8971950d70a32ba8
+size 168

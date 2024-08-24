@@ -1,1 +1,3 @@
-Questão de ordem sobre apresentação de parecer e reformulação de emenda de Plenário pelo Relator da proposição em pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a04005b1e7cfee1d0dd67688c36770c7420e934b26636e253f7410ef0d00716a
+size 128

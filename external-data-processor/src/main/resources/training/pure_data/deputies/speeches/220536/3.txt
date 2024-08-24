@@ -1,1 +1,3 @@
-Repúdio à recepção, com pompas de Chefe de Estado, concedida pelo Governo brasileiro ao ditador venezuelano Nicolás Maduro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9900c40ccb1881e4e1038595c75a8b48ba835a19b951463aa825dd45c8aa3b71
+size 128

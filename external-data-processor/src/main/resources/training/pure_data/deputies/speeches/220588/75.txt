@@ -1,1 +1,3 @@
-O Deputado criticou o arcabouço fiscal proposto pelo Ministro da Fazenda, Fernando Haddad, especialmente em relação aos pisos para saúde e educação. Alertou que a intenção do Governo é reduzir significativamente os gastos nessas áreas, prejudicando o desenvolvimento do País. Destacou a importância de buscar maneiras de alocar mais recursos para saúde e educação, cortando gastos desnecessários em outras áreas. Além disso, censurou a criação de ministérios sem funções claras durante o Governo Lula.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de6b9ea79fcec52cdbe813b999eca036357a8b3eabdb5e0a796f8d37a88705b0
+size 524

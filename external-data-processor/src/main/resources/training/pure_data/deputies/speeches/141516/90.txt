@@ -1,1 +1,3 @@
-Posicionamento favorável da Minoria ao Requerimento de regime de urgência para o Projeto de Resolução 1 de 2011-CN (Define a Representação Brasileira no Parlamento do Mercosul - Parlasul).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8a4653d54c0ea5c34bf24fbea9e90773ca7443096c67f2aa8a24288c63f0b31
+size 194

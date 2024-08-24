@@ -1,1 +1,3 @@
-Apresentação de emenda ao Projeto de Lei nº 7.371, de 2014, sobre a criação do Fundo Nacional de Enfrentamento à Violência Contra as Mulheres. Discrepância entre o discurso e a prática da proteção aos direitos das mulheres na Câmara dos Deputados, em razão da demissão de trabalhadoras após gozo do período de licença-maternidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a45bf54374d4fa4cc632fb05cf1bc79e94763aa079ceb1182e172bad98e183c
+size 347

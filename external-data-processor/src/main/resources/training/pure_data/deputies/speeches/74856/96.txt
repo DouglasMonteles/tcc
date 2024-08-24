@@ -1,1 +1,3 @@
-Apresentação da Proposta de Fiscalização e Controle nº 79, de 2016, para a realização, pelo Tribunal de Contas da União - TCU, de apuração das causas do desabastecimento de teste tuberculínico no sistema de saúde nacional e das medidas do Governo para garantia da detecção de casos de tuberculose latente na população.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6601b89d2cc2483ec6f45413d94bbb42a476e083840bc69c9842c272b9e3447f
+size 334

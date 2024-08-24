@@ -1,1 +1,3 @@
-Repúdio à Portaria nº 230, de 2023, do Ministério da Saúde, sobre a instituição do Programa Nacional de Equidade de Gênero, Raça e Valorização das Trabalhadoras no Sistema Único de Saúde - SUS. Utilização pela Esquerda de pastas ministeriais como palco eleitoral. Defesa de instalação da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República.&nbsp;Homenagem à memória da Profa. Heley Abreu Batista, do Município de Janaúba, Estado de Minas Gerais.&nbsp;
+version https://git-lfs.github.com/spec/v1
+oid sha256:05ebc99dcd6549acf17a7302bfd672cc4904af24d625e841ac95b6ba4e3310a2
+size 532

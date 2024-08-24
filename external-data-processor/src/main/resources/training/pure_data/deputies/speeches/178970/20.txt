@@ -1,1 +1,3 @@
-Posicionamento contrário do orador à proposta de redução da maioridade penal. Apresentação de dados estatísticos da Secretaria de Direitos Humanos da Presidência da República acerca do perfil do adolescente em privação de liberdade no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:918e2dc0c66110b89baf236921804b4c6ce8a6b999a5b838bacbf34f98fa971e
+size 252

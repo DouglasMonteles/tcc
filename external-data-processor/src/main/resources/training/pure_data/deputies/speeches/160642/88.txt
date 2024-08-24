@@ -1,1 +1,3 @@
-Elogio ao Presidente em exercício dos trabalhos, Deputado Amauri Teixeira. Apelo ao Tribunal de Justiça do Estado do Rio de Janeiro de reexame da situação carcerária do Pastor Marcos Pereira, da Igreja Evangélica Assembleia de Deus dos Últimos Dias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb2860df8e9c2a537023ac09c33adf40293d3af473d43d382eca25581e06539a
+size 256

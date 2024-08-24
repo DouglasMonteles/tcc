@@ -1,1 +1,3 @@
-Alerta sobre a importância da segurança patrimonial no período de férias. Importância da inclusão social no combate à violência no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b5091b3fe3235cbbe04094808708875e432767305be7403ce88995a94487651
+size 145

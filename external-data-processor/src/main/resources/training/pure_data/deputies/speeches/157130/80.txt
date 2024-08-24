@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque supressivo da expressão durante 5 (cinco) meses, contida no inciso I, art. 5º, do substitutivo apresentado à Proposta de Emenda à Constituição nº 15, de 2022.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a8c8f77f6c04393992e003111f9921b53e779d3aa16aa7764132ab22d0caea8
+size 230

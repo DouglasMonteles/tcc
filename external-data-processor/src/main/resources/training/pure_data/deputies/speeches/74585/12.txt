@@ -1,1 +1,3 @@
-Necessidade de alteração do Código de Trânsito Brasileiro, com vistas à ampliação de penas aplicadas a motoristas infratores. Apoio à medida provisória proibitiva de venda de bebidas alcoólicas às margens de rodovias federais. Adoção de nova política de segurança no trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e869d997a17e91b39fdff90cc98a153cb76b4b3345afb7ff9f5d2c85c242eff8
+size 292

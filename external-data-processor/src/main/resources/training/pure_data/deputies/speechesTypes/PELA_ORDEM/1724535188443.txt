@@ -1,1 +1,3 @@
-Imediata regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de recursos para a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90016a1cc2adb4d1ece33b53d37b8b2912be3fd658cff90d2545777356353c80
+size 124

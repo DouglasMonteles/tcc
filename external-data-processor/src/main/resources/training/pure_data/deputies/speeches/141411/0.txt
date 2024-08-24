@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PSB/PDT/PCdoB/PMN/PRB ao parecer pela admissibilidade da  Medida Provisória 402 de 2007 (Abre crédito extraordinário em favor de diversos órgãos do Poder Executivo, para os fins que especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ede692862f81563ce4e924792effb371e0db75f78cbc314679b0181403f2baf5
+size 234

@@ -1,1 +1,3 @@
-Pedido ao Deputados de apoiamento ao Projeto de Lei nº 3.186, de 2019, sobre alteração da Lei nº 7.418, de 1985 (Lei do Vale-Transporte).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cd9fcdeea239d681d620d63ae49d6661669b161fa7ab599a5396628ec32fea0
+size 141

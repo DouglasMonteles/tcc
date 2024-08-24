@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 4.805, de 2019, sobre a capacitação e competitividade do setor de informática e automação, e o tratamento tributário aplicável às empresas do setor. Críticas ao discurso da Esquerda a respeito do mandante do assassinato da Vereadora Marielle Franco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce1b1f2feb0aa3207ffeed8f2c0c8c9724d7beb72625cdd40a9c20987ff06577
+size 372

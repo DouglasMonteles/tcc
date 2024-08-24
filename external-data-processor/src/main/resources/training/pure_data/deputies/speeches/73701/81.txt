@@ -1,1 +1,3 @@
-Realização do Fórum Mundial da Criatividade de 2012, no Rio de Janeiro, Estado do Rio de Janeiro. Necessidade de estabelecimento de política para a indústria têxtil e de confecção no País. Defesa de redução da carga tributária incidente sobre o setor. Anúncio de realização do 1º Seminário de Moda e Criação da Câmara Setorial de Moda do Rio de Janeiro. Criação da Frente Parlamentar Mista José Alencar pelo Desenvolvimento da Indústria Têxtil e de Confecção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b35fed229a8976d12c86464e0a4109f673af95b6cbb43cc855d1854a70e01a
+size 486

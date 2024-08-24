@@ -1,1 +1,3 @@
-Orientação de bancada do PR contrário  à votação do Recurso nº 323, de 2014, contra o indeferimento, pelo Presidente da Casa, do Requerimento nº 10.102, de 2014, que solicita a apensação da Proposta de Emenda à Constituição nº 397, de 2014, à Proposta de Emenda à Constituição nº 197, de 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:079317792e16c4b1ede72630b2c64d2a5ea5419fd4cd76c595b42dceedb7c77d
+size 312

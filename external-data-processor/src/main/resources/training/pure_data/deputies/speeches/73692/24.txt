@@ -1,1 +1,3 @@
-Congratulações à nova diretoria da Frente Parlamentar da Saúde, especialmente ao Deputado Darcísio Perondi. Convite aos Parlamentares para comparecimento à solenidade de lançamento da Frente Parlamentar em Defesa da Primeira Infância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:744f23379f012fdefed4b8ef24befec192b3fb6dc73195cdf2fe9f8c46e8fd2a
+size 242

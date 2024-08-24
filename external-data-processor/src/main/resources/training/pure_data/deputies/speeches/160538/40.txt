@@ -1,1 +1,3 @@
-Implantação pelo Governo petista de projeto de desenvolvimento econômico com distribuição de renda no País. Realização do 4º Congresso Nacional do Partido dos Trabalhadores, em Brasília, Distrito Federal. Participação da mulher em todas as instâncias do PT. Posicionamento do partido favorável à democratização dos meios de comunicação. Estabelecimento do marco regulatório da imprensa nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:711ac4c8e89aa8f7760f22a024eb0ce86ec4e9584d60523830606edb13a7cec1
+size 415

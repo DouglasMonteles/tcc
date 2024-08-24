@@ -1,1 +1,3 @@
-Pedido aos Deputados de apoio ao Projeto de Lei nº 1.002, de 2019, de autoria do orador, sobre a criminalização do uso de telefone celular no interior de presídios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f7e3c43adc7ade81c5f951dcc26e0d7d0ff988a1ab395abaff251ebc0619639
+size 168

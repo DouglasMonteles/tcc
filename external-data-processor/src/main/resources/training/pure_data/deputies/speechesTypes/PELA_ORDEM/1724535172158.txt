@@ -1,1 +1,3 @@
-Congratulações ao Instituto Federal do Espírito Santo pelo desempenho no Exame Nacional do Ensino Médio - ENEM. Importância de investimento em educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaaeb5f34029d7396f9f96ab4872460a589ee8626cff433d9a927ec2e8a3fd3d
+size 159

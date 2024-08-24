@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.861, de 2023, sobre a instituição do direito ao brincar, do brincar livre e da parentalidade positiva, como estratégias intersetoriais de prevenção à violência contra crianças e a alteração da Lei nº 14.334, de 2022.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcabc8177006168b8cb93414b7379a77ef5ea71dbf5e76c00e782972330cadf1
+size 343

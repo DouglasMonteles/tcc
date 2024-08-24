@@ -1,1 +1,3 @@
-Saudação ao Deputado Renildo Calheiros, Prefeito eleito do Município de Olinda, Estado de Pernambuco. Expectativa quanto à apreciação, pelo Supremo Tribunal Federal, de ação direta de inconstitucionalidade a respeito do piso salarial nacional dos profissionais da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43d329f83e48449d633067a581fdea2f51d024e048ecd27bb98ca59e91989fe2
+size 291

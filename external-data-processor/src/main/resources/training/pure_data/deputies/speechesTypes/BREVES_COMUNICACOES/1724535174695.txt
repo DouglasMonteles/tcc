@@ -1,1 +1,3 @@
-A Deputada expressou solidariedade à família do Clezão e criticou a situação judicial do Brasil, apontando o tratamento desigual entre criminosos e a falta de direitos humanos. Abordou a ausência de apoio do Governo Lula às enchentes em Santa Catarina, enfatizando a postura partidária do governo e a ineficiência na questão da segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a578a1b54e5bf5fa5d135d88d92a4e6154fed9e38dce82b98787cc96ff14f6b8
+size 358

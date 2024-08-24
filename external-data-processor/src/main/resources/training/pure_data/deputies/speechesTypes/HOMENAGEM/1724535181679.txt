@@ -1,1 +1,3 @@
-Lançamento da Campanha da Fraternidade de 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e7f5d8e78959b7fb6e54a5ec57b3136827c75d825681d944eeda9b26c9f12bf
+size 48

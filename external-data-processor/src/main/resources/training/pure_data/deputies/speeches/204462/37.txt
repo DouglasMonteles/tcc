@@ -1,1 +1,3 @@
-Pedido de 1 minuto de silêncio pela realização de aborto por menina de 11 anos de idade em gestação avançada. Pedido de afastamento da Procuradora do Ministério Público Federal, Daniele Escobar, por decisão recomendativa da interrupção da gravidez da referida criança. Defesa de instalação da CPI do Aborto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b17825af20bc00b8e867d47b71b47ba2b2334a2bd9b476b3e5e0805f0b92d21
+size 321

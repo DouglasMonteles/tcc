@@ -1,1 +1,3 @@
-Manifesto da Corrente Afirmação Democrática do PMDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4ce64fe099916db7d08b7e645c7c7fb8ed05f52161d49d90150078416bf3ff0
+size 55

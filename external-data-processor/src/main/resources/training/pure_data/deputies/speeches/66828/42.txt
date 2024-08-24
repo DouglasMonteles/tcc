@@ -1,1 +1,3 @@
-Protesto contra a falta de quórum na sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0386281b4ac22ec0a677246d44a643c124bbcc85d4697c1ecba7e90115622cb4
+size 46

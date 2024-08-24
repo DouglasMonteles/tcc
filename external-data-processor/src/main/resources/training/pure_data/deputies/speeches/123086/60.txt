@@ -1,1 +1,3 @@
-Homenagens póstumas ao Padre Lotário Weber e ao empresário Jaime Tomás de Aquino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:578b2d69a37621299bad7ddd392cadc62f7a515c3ee4de162022e5e843c26311
+size 85

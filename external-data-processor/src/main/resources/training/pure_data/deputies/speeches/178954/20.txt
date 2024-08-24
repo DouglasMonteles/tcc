@@ -1,1 +1,3 @@
-Solicitação ao Ministério dos Transportes de pavimentação da BR-364 e de retomada das obras da BR-319 no Estado de Rondônia. Solicitação ao Ministério da Educação de implantação de campus do Instituto Federal de Educação, Ciência e Tecnologia de Rondônia no Município de Jaru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86fe08f425831d61660b0fc1bba2943889b9c2efc34bacb2631ab90ec9201d63
+size 294

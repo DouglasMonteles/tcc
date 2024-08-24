@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre o texto oferecido pelo orador à Medida Provisória nº 1.031, de 2021, acerca da privatização das Centrais Elétricas Brasileiras S/A - ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f0d49505b26c8060ac8809f7eccf4f49a0cf12f15ee02c030624ba76cd4a11b
+size 184

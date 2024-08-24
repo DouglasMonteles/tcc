@@ -1,1 +1,3 @@
-Comemoração do 61º aniversário natalício do Pastor Valmir Rosa Dias, da Igreja Evangélica Assembleia de Deus Madureira, no Município de Xinguara, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93309b9a5741b4a25b96c5492a11298ce1b2d195f22f4c4396e2a4c27e84d9c
+size 169

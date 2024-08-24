@@ -1,1 +1,3 @@
-Realização de audiência pública conjunta pelas Comissões de Viação e Transportes, de Defesa do Consumidor e de Turismo destinada ao debate dos preços das passagens aéreas no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5313a4d2d62e780f958caf6859d3bfdbc028c409a2bfa82cc6eb2803b0743d23
+size 190

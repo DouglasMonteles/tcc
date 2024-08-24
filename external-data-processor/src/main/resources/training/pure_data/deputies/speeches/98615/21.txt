@@ -1,1 +1,3 @@
-O Deputado celebrou os 506 anos da Reforma Protestante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0186bd684b0eab1a1f33b155c5ea5e736ac6b9e22b78b3ea0a31e5d6de39686b
+size 55

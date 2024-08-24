@@ -1,1 +1,3 @@
-Correção do discurso proferido pelo orador com relação à abertura do painel eletrônico para registro de presença.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47973f451b1c327b5cc1cbf28275c7bf18584e35fac99fff35b6c5343c772c40
+size 120

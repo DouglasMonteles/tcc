@@ -1,1 +1,3 @@
-Anúncio de obstrução das votações pelo DEM até o esclarecimento, por parte do Ministério da Educação, da distribuição de livro de orientação sexual nas escolas públicas brasileiras, e à deliberação pela Casa sobre a votação do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7db493491afde39420fefd024f578f3b01a1c1cda0e3c91abd10f207bc48a87e
+size 280

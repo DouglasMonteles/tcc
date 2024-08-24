@@ -1,1 +1,3 @@
-Criação de frente parlamentar em defesa dos profissionais da educação. Valorização dos docentes brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f509e6daea8070329504366dba8c9b23805cfd33525f534ecb50b8a128b0cf0
+size 114

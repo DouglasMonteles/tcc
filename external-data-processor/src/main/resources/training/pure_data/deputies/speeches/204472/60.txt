@@ -1,1 +1,3 @@
-Conclamação aos partidos oposicionistas para promoção de debate equilibrado acerca da questão ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17d0713bf226512cd4d3a2c18df0973ef7c6ff723e8ab0cb15a99d7f2d32325e
+size 109

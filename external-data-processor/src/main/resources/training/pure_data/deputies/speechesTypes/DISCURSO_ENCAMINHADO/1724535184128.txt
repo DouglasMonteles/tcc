@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Consciência Negra. Relevância das políticas públicas destinadas ao combate à discriminação racial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb91a63af628dad972fbcb7688dbb416ae4c615e3d10caeaa25b319a38b49303
+size 135

@@ -1,1 +1,3 @@
-Matéria Desmatamento e poluição deixam leito do Rio São Francisco assoreado, publicada pelo jornal Estado de Minas. Necessidade de empenho do Governo Federal e de Governos Estaduais e Municipais na preservação e revitalização do Rio São Francisco. Participação do orador em celebração pelo transcurso do Dia Nacional do Povo Cigano realizada pelo Ministério da Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a495a2fe0095b4933a67b5a44f86bd896f21c5a87d5f72a732c51f2ebe620b9
+size 386

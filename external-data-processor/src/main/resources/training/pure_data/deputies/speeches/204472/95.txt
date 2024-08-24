@@ -1,1 +1,3 @@
-Pedido à Presidência de esclarecimento sobre a exposição de obra de cartunista antissemita nas dependências da Casa. Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3.047, de 2019, sobre a instituição do Dia Nacional de Luta contra a Endometriose e da Semana Nacional de Educação Preventiva e Enfrentamento à Endometriose.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4979eaa577d27ed3af24598aaeee416d577c792b52543d5c890b887cce36ccd
+size 398

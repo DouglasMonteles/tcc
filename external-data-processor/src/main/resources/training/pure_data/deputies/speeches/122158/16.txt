@@ -1,1 +1,3 @@
-Repúdio à invasão do plenário da Câmara dos Deputados por manifestantes. Crítica à realização de manifestações na cidade do Rio de Janeiro contra medidas governamentais. Imediata apreciação pela Casa do Projeto de Lei nº 5.587, de 2016, relativo à regulamentação do transporte individual remunerado e do transporte motorizado privado. Defesa da proibição, em âmbito nacional, do serviço de transporte de passageiros por meio do aplicativo digital Uber.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef95f1a8ed2d373613974e4939d57b26a8908570bd507f289733f04fc75bd621
+size 473

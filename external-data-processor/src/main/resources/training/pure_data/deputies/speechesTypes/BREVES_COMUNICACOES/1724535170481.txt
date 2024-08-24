@@ -1,1 +1,3 @@
-Apoio à concessão pela Casa de homenagem ao youtuber   Felipe Neto. Aquisição pelo youtuber  de 14 mil exemplares do gibi Vingadores: A Cruzada das Crianças, em protesto contra a decisão do Prefeito do Rio de Janeiro, Marcelo Crivella, de recolhimento da publicação na Bienal do Livro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7851ec278e6976c72142faf506ca3affa1adfa74352e7cfd0995a37c7ee684b3
+size 293

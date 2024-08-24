@@ -1,1 +1,3 @@
-Impropriedade das críticas do Ministro Gilmar Mendes, do Supremo Tribunal Federal, à Operação Lava-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43d60c2953b33f3adeedb0097a61bc95bf9fbd15114080f426864f5fac60a31d
+size 108

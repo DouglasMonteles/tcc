@@ -1,1 +1,3 @@
-Transcurso do Dia do Soldado. Repúdio ao ato criminoso praticado contra a estátua de Borba Gato, em São Paulo, Estado de São Paulo. Congratulações à Polícia Federal e à Controladoria-Geral da União, pela investigação de denúncias de desvio de recursos pela Secretaria de Saúde Pública do Governo do Estado do Rio Grande do Norte. Defesa de acatamento, pelo Supremo Tribunal Federal, da tese do marco temporal na demarcação de terras indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:734c729091750369483e1d60761722fe92562e88b34fff5aa657c983f23c78bb
+size 461

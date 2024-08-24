@@ -1,1 +1,3 @@
-Mobilização de profissionais da educação a favor da destinação de 10% do Produto Interno Bruto - PIB brasileiro para investimentos no setor. Importância do conhecimento, pelos Parlamentares, do Dossiê da Educação em Minas Gerais, sobre a má gestão do Governo Estadual na área educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4f3769db69323dc00be21903dbd6d72e7d2dd6fe48859ff07edfa91e67f53c7
+size 301

@@ -1,1 +1,3 @@
-Emissão de parecer à Medida Provisória nº 918, de 2020, a respeito da criação de funções de confiança destinadas à Polícia Federal e da extinção de cargos em comissão, e às Emendas de nºs 1 a 36, apresentadas conforme o caput do art. 3º do Ato Conjunto das Mesas da Câmara dos Deputados e do Senado Federal nº 1, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52f1d232868b4c7bb5503ecb4357d99faf696251bfc3d8a73b6578570dcc8f80
+size 340

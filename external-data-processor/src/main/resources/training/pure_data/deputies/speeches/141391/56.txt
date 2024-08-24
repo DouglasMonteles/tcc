@@ -1,1 +1,3 @@
-Participação no 5º Congresso Brasileiro de Eficiência Energética e Cogeração de Energia, realizado em São Paulo, Estado de São Paulo. Apresentação de proposta de implantação dos chamados Municípios Energoeficientes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:293fc5d5d44a815c62fb21ec1ab12500089f4d49ef926f4a561f25581fc2e41c
+size 229

@@ -1,1 +1,3 @@
-O Deputado proferiu parecer ao Projeto de Lei nº 4.540, de 2023, que altera a Lei nº 12.764, de 27 de dezembro de 2012, para incentivar a realização da investigação diagnóstica do transtorno do espectro autista em pessoas adultas e idosas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df75bc7780cc46bab3305333ba6316fd92d55366e4a8296afa8e68dfa899ff95
+size 246

@@ -1,1 +1,3 @@
-Defesa de inclusão do Implante Transcateter de Valva Aórtica - ITVA no rol de procedimentos realizados pelo Sistema Único de Saúde - SUS. Artigo Um passo importante para o acesso dos idosos ao tratamento com novas tecnologias no Brasil, de Marcelo Queiroga.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e45b541345a0704ef801d84c966742b574d4999d888f42982da35545cdfba905
+size 261

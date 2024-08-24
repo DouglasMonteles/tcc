@@ -1,1 +1,3 @@
-Aplausos à Casa pela aprovação do Projeto de Lei nº 1.374, de 2021, sobre a instituição do auxílio gás social. Vinculação entre os sucessivos reajustes nos preços de combustíveis e a política de dolarização adotada pela empresa Petróleo Brasileiro S/A - PETROBRAS. Tentativa do Governo Federal de aprovação do Projeto de Lei Complementar nº 11, de 2020,  a respeito da definição da alíquota do ICMS incidente sobre combustíveis. Defesa da criação de fundo de estabilização para o setor de combustíveis e de nova política de tributação das exportações de petróleo cru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23b54afe2be6a553d8b01cfa2ed359b35813af0d90a20bd0d26a75efe9d16004
+size 601

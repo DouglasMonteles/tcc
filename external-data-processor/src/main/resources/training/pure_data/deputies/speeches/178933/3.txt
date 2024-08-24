@@ -1,1 +1,3 @@
-Relato acerca do início dos trabalhos da Câmara Itinerante, no Estado do Paraná. Reunião da Comissão Especial de Reforma Política. Congratulações ao Presidente Eduardo Cunha pela condução dos trabalhos na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e06c1796c9e3699c0998b323fc43c055867290a137ba6e8c79da585d83143d7b
+size 220

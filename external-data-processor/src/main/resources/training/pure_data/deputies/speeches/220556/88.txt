@@ -1,1 +1,3 @@
-A Deputada presta homenagem a Blumenau, que celebra seu 173º aniversário. Destacando a cidade como um polo de desenvolvimento econômico, ressalta a importância de enfrentar desafios de crescimento urbano. A parlamentar menciona conquistas, como investimentos na saúde e cultura, além da criação de uma nova universidade federal. Sublinha o compromisso do Presidente Lula com a região e encerra com votos de união, solidariedade e respeito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d7ee7c40a9c6bfd479eb9b44f7549ff23e420a98408497ee24aaa569aa1cad3
+size 449

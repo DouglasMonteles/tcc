@@ -1,1 +1,3 @@
-Duplicação de trecho da MS-156 entre os Municípios de Dourados e Itaporã, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0713586e725e6cedcb214bc8934c2c6d0b92f65a9ffbd2e774e290ce48fe45e9
+size 107

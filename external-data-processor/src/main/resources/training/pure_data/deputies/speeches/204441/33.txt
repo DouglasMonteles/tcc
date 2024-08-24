@@ -1,1 +1,3 @@
-Eleição do Deputado Silas Câmara para a presidência da Frente Parlamentar Evangélica. Princípios norteadores da atuação da Frente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3d2383dcbd65746afb9c2998bddc7dea71c610ce2aeacfdb27ec611bd00b5ab
+size 138

@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PPS/PV ao Projeto de Decreto Legislativo 2.547 de 2010 (Aprova o texto do Convênio Constitutivo do Fundo Multilateral de Investimentos II (FUMIN II), assinado na cidade de Okinawa, no Japão, em  9 de abril de 2005).
+version https://git-lfs.github.com/spec/v1
+oid sha256:72e601b9e52d32a5f6099a92f8fa6e9a16f055979c6d203f12fc25be5f82ed7f
+size 252

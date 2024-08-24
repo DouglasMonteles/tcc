@@ -1,1 +1,3 @@
-Demora na conclusão dos estudos ambientais para a restauração da BR-319, rodovia de integração dos Estados de Rondônia e Amazonas. Importância da rodovia para a economia da região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d4bc8dea5115805d34f043b4958ccc4b37564a926587ae3e63a519a23a4a31c
+size 188

@@ -1,1 +1,3 @@
-Empenho da oradora na alocação de recursos orçamentários para duplicação da BR-365, no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc372df74890559013533a81c54e01eee74553615304b1e9d86da63178cbcba2
+size 116

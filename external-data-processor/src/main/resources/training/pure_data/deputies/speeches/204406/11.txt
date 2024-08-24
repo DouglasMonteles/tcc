@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 668, de 2020, relativo à  proibição de exportações de produtos médicos, hospitalares e de higiene essenciais no combate à epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fd314a0860f3d15f72ee319f40f3fb436ad3541c0738d4ec819c1104e9d64d8
+size 196

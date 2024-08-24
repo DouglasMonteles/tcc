@@ -1,1 +1,3 @@
-Concessão, pela Organização das Nações Unidas - ONU, do prêmio de Excelência em Gestão Pública ao Município de Jaboatão dos Guararapes, Estado de Pernambuco. Congratulações ao Prefeito Municipal Anderson Ferreira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f25834411ae04d85f22a9e879bd5e40eee5b8cdd8bc4f33c397a25637687b9d9
+size 226

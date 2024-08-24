@@ -1,1 +1,3 @@
-Reinclusão do Brasil no Mapa da Fome. Quadro de fome, carestia e insegurança alimentar reinante no País. Fortalecimento da agricultura familiar. Abandono, pelo Presidente da República, das instituições brasileiras de pesquisa. Fortalecimento das universidades públicas e dos órgãos de fomento à difusão de tecnologia. Reativação do Programa de Aquisição de Alimentos e do Programa Nacional de Alimentação Escolar. Retomada da Companhia Nacional de Abastecimento - CONAB. Desenvolvimento de pesquisas voltadas à produção de alimentos, pela Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA. Implementação da Lei nº 14.275, de 2021, (Lei Assis Carvalho II), sobre as medidas emergenciais de amparo à agricultura familiar, para mitigação dos impactos socioeconômicos decorrentes da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39ccffdb7f8dba8fd87591c88e2ba11ff1a927e977179f11bf81d88274cba713
+size 820

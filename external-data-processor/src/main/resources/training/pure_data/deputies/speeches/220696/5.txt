@@ -1,1 +1,3 @@
-Encerramento do mês dedicado às mulheres. Indignação da oradora com a comemoração do retorno do ex-Presidente Jair Bolsonaro ao Brasil. Responsabilidade do ex-Presidente da República por milhares de óbitos ocorridos no País pela Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8211fa3ca628a9846ee560329702dae31fab76913f54345512c9ee064696712f
+size 247

@@ -1,1 +1,3 @@
-Questão de ordem sobre a necessidade de adoção, pela Casa, de providências a respeito do mandado de busca e apreensão expedido por juíza de primeira instância contra a Deputada Professora Rosa Neide.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f82e96933e52c397746ca1120dab89a01fed6b7ac1fb0e1f9a7781602229c223
+size 206

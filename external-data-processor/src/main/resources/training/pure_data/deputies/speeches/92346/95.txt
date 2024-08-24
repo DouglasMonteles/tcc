@@ -1,1 +1,3 @@
-Acolhimento de requerimento, na condição de Presidente da Comissão de Defesa dos Direitos das Pessoas com Deficiência, de realização de audiência pública destinada ao debate sobre decisão do Supremo Tribunal Federal - STF acerca da descriminalização do aborto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a4f3e8066a0857566968567ee38178c4877c93896e5dd80c18c5a8066a0cf41
+size 271

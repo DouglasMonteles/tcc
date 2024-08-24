@@ -1,1 +1,3 @@
-Solidariedade às famílias atingidas por enchentes na Região Norte, especialmente no Estado do Acre. Aplausos à Patrulha Maria da Penha pela redução dos índices de violência contra as mulheres acrianas. Manifestação de boas-vindas ao Prefeito Municipal e Vereadores de Sena Madureira presentes no plenário. Solidariedade aos familiares da Profa. Elizabeth Terneiro, assassinada por aluno em escola pública de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b89fec0733762c7421366ff59ef2791d30725c6c8635f8aacdb70d649aaf251
+size 453

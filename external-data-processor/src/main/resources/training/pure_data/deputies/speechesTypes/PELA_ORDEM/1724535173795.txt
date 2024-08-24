@@ -1,1 +1,3 @@
-Carta aberta do Sindicato dos Trabalhadores de Pesquisa e Desenvolvimento Agropecuário - SINPAF, Seção Sindical CODEVASF de Juazeiro, Estado da Bahia, aos Deputados Federais, Senadores e Ministros em defesa da implementação do plano de cargos e salários dos funcionários da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba - CODEVASF. Apoio do orador à reivindicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f79f872619a26543701af964dd8922d8596749a7be8a089ca2bdfb9febca692
+size 400

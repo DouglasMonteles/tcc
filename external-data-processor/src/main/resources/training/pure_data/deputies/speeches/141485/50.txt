@@ -1,1 +1,3 @@
-Recuo da posição do Brasil em estudo sobre a competitividade dos países. Acerto da luta pelo impeachment da Presidenta da República, Dilma Rousseff, para a recuperação do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:588b979989b4df8bd28de2f455624a22407f564bea434458537d2d2dd8b682ef
+size 183

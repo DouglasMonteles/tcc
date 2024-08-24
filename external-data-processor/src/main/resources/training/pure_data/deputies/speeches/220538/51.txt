@@ -1,1 +1,3 @@
-Transcurso do 13º aniversário da Fundação Thiago de Moraes Gonzaga, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:130cfb5f6b25f758ba63bec4eb166383b0fa839ff388f0c7c0895d9f49cb4caa
+size 103

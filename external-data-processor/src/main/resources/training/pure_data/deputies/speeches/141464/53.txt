@@ -1,1 +1,3 @@
-Lançamento do Guia Municipal de 2009, pela Assembléia Legislativa do Estado do Ceará. Outorga da Medalha da Abolição ao Presidente do Superior Tribunal de Justiça, Ministro Francisco Cesar Asfor Rocha, e ao cantor e compositor Raimundo Fagner Cândido Lopes. Aprovação, pela Comissão Especial, do Projeto de Lei nº 3.960, de 2008, sobre a transformação da Secretaria Especial de Aquicultura e Pesca no Ministério da Pesca e Aquicultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:596233e91b7c52ee07ca9bbc33e3b12aac635f905f761eb93ce1d7cb6addad23
+size 449

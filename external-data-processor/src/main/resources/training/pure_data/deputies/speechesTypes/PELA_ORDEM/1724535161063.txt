@@ -1,1 +1,3 @@
-Saudação ao Prefeito eleito do Município de Mauá, Estado de São Paulo, Átila Jacomussi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e491a7e6f988dc06bd301fc1b7d51a9b8914e8ef0c65c1211cb06b431c2d538d
+size 93

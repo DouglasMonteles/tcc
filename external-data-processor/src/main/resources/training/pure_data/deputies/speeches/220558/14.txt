@@ -1,1 +1,3 @@
-Encaminhamento de requerimento de informações ao Ministro da Pesca e Aquicultura, André de Paula, sobre as razões da proibição da pesca de tainha no Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daf15d5f623f226d10c1386c1daf1bf96dda8c7d5b0f2f0c989c98bfc1ad0595
+size 180

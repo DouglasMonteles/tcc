@@ -1,1 +1,3 @@
-Urgente necessidade de cessação do processo de desestruturação do Centro de Pesquisas de Energia Elétrica - CEPEL. Necessidade de busca de novo modelo de sustentação financeira do órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a7b82695116e2782a6ae60692d426f16aef85faeca9c9fba487b8f0c18d75f7
+size 195

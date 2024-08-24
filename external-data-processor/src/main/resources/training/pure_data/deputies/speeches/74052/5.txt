@@ -1,1 +1,3 @@
-Levantamento histórico sobre o projeto de transposição de águas do Rio São Francisco. Providências e investimentos do Governo Michel Temer para a conclusão das obras e para a revitalização do Rio São Francisco. Presença no plenário do Vereador eleito Thalles Costa, do Município de Moita Bonita, Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fea2d094ed9827c0b6ca184cc2c53cbd73fac99f57606eade3abee3a3ad0b9b
+size 327

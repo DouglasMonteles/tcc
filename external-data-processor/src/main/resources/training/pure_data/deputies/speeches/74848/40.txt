@@ -1,1 +1,3 @@
-Assinatura, por Deputadas, de manifesto em solidariedade à Corregedora Nacional do Conselho Nacional de Justiça, Ministra Eliana Calmon, diante de ataques à sua declaração sobre a existência de bandidos de toga no âmbito do Poder Judiciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:833aeb96d332e097e0a000aa485e7cf5db7abb3c7d114ff298d317f25d94878b
+size 249

@@ -1,1 +1,3 @@
-Homenagem póstuma ao pastor Joel Holder, da Igreja Evangélica Assembleia de Deus da Missão, no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58a8b45d7dc52109460ad02bab13944418e2b12c737238fa0801e6c22d830fbf
+size 118

@@ -1,1 +1,3 @@
-Expectativa de votação pela Casa de projeto de lei de interesse do Tribunal Regional do Trabalho do Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d83dcf5e62494ea2f718a4556e30fd880a0833ccd85f76ded6394a12d3f9944
+size 121

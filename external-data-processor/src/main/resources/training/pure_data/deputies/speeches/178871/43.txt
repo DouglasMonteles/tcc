@@ -1,1 +1,3 @@
-Críticas à atuação do Ministério da Saúde e da Secretaria da Saúde do Estado do Espírito Santo relativamente a surto de febre amarela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:889ad9db8c7550cf02c854f988908411ff92f400c3855a869fb532d584b592ec
+size 142

@@ -1,1 +1,3 @@
-Sessão solene em homenagem póstuma ao Deputado Rômulo Gouveia.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:212a0d15e57042ecdf6e860b05fa3e074934451da337c90f139c211efa22fd67
+size 214

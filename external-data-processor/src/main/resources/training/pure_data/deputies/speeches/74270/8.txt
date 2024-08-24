@@ -1,1 +1,3 @@
-Presença na Casa do ex-Deputado Federal Vieira Reis, do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25e3be6e23ee4258dcc4bd536a5f582a3d55759b1c9dc69065debb607aa3330d
+size 72

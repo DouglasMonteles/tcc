@@ -1,1 +1,3 @@
-Contradita a  questão de ordem do Deputado Eduardo Cunha sobre a  prejudicialidade de requerimentos de convocação do  Ministro-Chefe da Casa Civil, Antonio Palocci, para explicar a vultosa evolução patrimonial de seus bens, em tramitação nas Comissões, na hipótese de rejeição de requerimento sobre o mesmo teor pelo Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc16dbaa3c171c695e8633c9be85b1096d5220b05e7296c6efd6a1c81bce0336
+size 338

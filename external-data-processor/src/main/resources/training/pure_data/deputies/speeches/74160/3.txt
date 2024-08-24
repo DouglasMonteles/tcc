@@ -1,1 +1,3 @@
-Sessão solene em homenagem à Campanha da Fraternidade do ano de 2016, promovida pela Conferência Nacional dos Bispos do Brasil (CNBB).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a7a8759ad0504db0c498f8b6594b7926205e7dbd03199ff1486c127defe80f6
+size 137

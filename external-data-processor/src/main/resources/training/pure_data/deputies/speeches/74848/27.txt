@@ -1,1 +1,3 @@
-Relevância da Medida Provisória nº 529, de 2011, sobre a alteração da Lei nº 8.212, de 1991, no tocante à contribuição previdenciária do microempreendedor individual. Conveniência de urgente aprovação, pelo Congresso Nacional, de projeto de lei sobre a instituição do Sistema Especial de Inclusão Previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85dfc76d1385cbd009677131a4320aac8fe0d69a459c4796200f5513a957e5ba
+size 329

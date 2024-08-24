@@ -1,1 +1,3 @@
-Escalada da violência contra idosos no País. Transcurso do Dia Mundial de Conscientização da Violência Contra a Pessoa Idosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27aa266d011dcaec22e4bfc3ebcd7c2c19d988b4cd60023525e9db1350ed0cb5
+size 130

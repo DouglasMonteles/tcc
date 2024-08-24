@@ -1,1 +1,3 @@
-Necessidade de instalação de Centros de Referência da Assistência Social - CRAS em Estados brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:817512e1578b33e1c131b17923a1bbf616fc807f023dee846e13d11836db8091
+size 107

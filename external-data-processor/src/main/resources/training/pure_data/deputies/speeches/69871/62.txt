@@ -1,1 +1,3 @@
-Repúdio à autorização do Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN, do Estado da Bahia, para demolição de casarões tombados pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura - UNESCO, localizados na Ladeira da Montanha, na Capital baiana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08ae2877eb5cce6fa9e549d212babcb823ff65a3dbc296c6c1af976f929e6f08
+size 300

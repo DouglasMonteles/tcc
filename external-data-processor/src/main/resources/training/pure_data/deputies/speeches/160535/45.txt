@@ -1,1 +1,3 @@
-Inauguração do Centro Calon de Desenvolvimento Integral, destinado ao resgate e à preservação das tradições ciganas, no Município de Sousa, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57427ab1cd43f6e71243f1d49a4c5d22103b2fa7a3f7daa5729b0dfec6831ca3
+size 167

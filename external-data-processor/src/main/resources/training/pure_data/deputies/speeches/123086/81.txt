@@ -1,1 +1,3 @@
-Requerimento de realização de audiência pública na Comissão de Educação com vistas ao debate da expansão de cursos superiores a distância, mormente para os cursos de Engenharia e Enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00b9d275a2bc2eb1f63752180c3f1f7908a3916bb5541365f1c3cfa4f982818e
+size 199

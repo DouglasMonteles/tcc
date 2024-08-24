@@ -1,1 +1,3 @@
-Urgência na votação, pela Casa, das Propostas de Emendas à Constituição de n°s 333, de 2004, sobre a composição numérica das Câmaras Municipais brasileiras, e 138, de 2003, a respeito da proteção de direitos da juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85b658ea9316ccf334eec812b84e7fc873689a964216a04156f4bd9f149b1627
+size 234

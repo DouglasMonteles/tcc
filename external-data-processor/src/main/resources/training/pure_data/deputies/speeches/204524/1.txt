@@ -1,1 +1,3 @@
-Congratulação ao Ministro da Saúde, Luiz Henrique Mandetta, pela implementação do Programa Saúde na Hora, destinado à ampliação do horário de funcionamento de unidades de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45db06351f9fa656dcd403c64b1f8d40ae59ff7562c16c1ebd9c6f850ce75824
+size 188

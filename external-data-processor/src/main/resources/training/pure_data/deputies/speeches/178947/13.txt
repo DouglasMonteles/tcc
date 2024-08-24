@@ -1,1 +1,3 @@
-Pedido aos visitantes presentes nas galerias do plenário de respeito à Deputada Keiko Ota.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae6ab4bd5a31b0aa2dff19e7f0cbe7a5105a5307c375eeee0fcb846ae58bf23c
+size 92

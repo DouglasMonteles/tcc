@@ -1,1 +1,3 @@
-Desestruturação de programas sociais pelo Governo Jair Bolsonaro. Protesto contra os constantes reajustes nos preços de combustíveis e do gás de cozinha. Indignação do orador com a indexação dos preços de combustíveis à moeda norte-americana. Repúdio à proposta do Ministro da Economia, Paulo Guedes, de privatização da empresa Petróleo Brasileiro S/A - PETROBRAS. Defesa da abertura e aprovação, pela Casa, de processo de impeachment  contra o Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d996db7b17f84fdfccf59905353a01a4e75da4d17296d3d796fe9eb583d556c
+size 490

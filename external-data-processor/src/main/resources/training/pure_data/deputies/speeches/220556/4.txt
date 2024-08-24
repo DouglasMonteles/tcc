@@ -1,1 +1,3 @@
-Expressiva votação alcançada pela oradora no Estado de Santa Catarina. Improcedência de discursos sobre a decretação, pelo governo petista, de sigilo das imagens de manifestação ocorrida em Brasília, Distrito Federal. Apoio ao Presidente Luiz Inácio Lula da Silva. Ilegalidade da cassação do mandato da Vereadora Maria Tereza Capra, da Câmara Municipal de São Miguel do Oeste. Compromisso de atuação contra atos antidemocráticos e a violência política e de gênero.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25dd0ee19e4a935a9f66ba7e1b29d7c92500edfdb6fa901e5275a22c5bf3a093
+size 484

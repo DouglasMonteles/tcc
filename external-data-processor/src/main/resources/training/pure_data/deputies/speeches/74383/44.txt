@@ -1,1 +1,3 @@
-Importância da constituição de comitiva para realização de visita oficial à Polônia com vistas à ampliação do relacionamento entre os Parlamentos e à cooperação e ao fortalecimento dos vínculos de amizade entre os povos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a2e5da78320756b66224456b8f6123416e0cccad0b2a866d7a50f95819a86db
+size 234

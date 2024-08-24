@@ -1,1 +1,3 @@
-Balanço positivo dos 6 primeiros meses do Governo Luiz Inácio Lula da Siva. Defesa de realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6735f0ceaa5114581d169c120503b4c057222b77d510f0ba2bb7ac585fec128
+size 124

@@ -1,1 +1,3 @@
-Transcurso do aniversário de fundação de Porto Alegre, Estado do Rio Grande do Sul. Repúdio à repressão praticada contra os servidores públicos municipais da Capital porto-alegrense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:554012a431be2443e495a3d476e79d83bc08fb65f3d96df0cb73d4cc9e04e9c0
+size 189

@@ -1,1 +1,3 @@
-Apoio à luta dos servidores da Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA por melhores salários e contra a extinção de direitos, por ocasião do acordo coletivo de trabalho. Pedido ao Governo Federal de atendimento do pleito da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12a6750eb3b97320101db96246087ffe07af198f942ca9352e67c79950de7d14
+size 254

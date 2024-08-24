@@ -1,1 +1,3 @@
-Manifestação de boas-vindas à Deputada Flavinha. Protesto contra a recepção pomposa concedida pelo Presidente Luiz Inácio Lula da Silva ao Presidente da Venezuela, Nicolás Maduro, durante visita ao Brasil. Dívida bilionária do Governo venezuelano com o País. Apresentação de proposta de emenda à Constituição sobre regras para a concessão de empréstimos no exterior pelo BNDES. Encaminhamento de petição a respeito da prisão preventiva de Nicolás Maduro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35cc589f532a23654a80da1bfc9edd2f8316a4fd449205b36cf1b603f808317e
+size 475

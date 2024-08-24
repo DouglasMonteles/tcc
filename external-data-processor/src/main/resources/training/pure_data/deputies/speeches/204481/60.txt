@@ -1,1 +1,3 @@
-O Deputado anunciou que um projeto de sua autoria, que trata das diretrizes para a atenção à saúde de pessoas com transtorno do espectro autista e transtorno de déficit de atenção com hiperatividade, foi aprovado na Comissão de Saúde. Ele destacou a importância desse projeto, especialmente considerando a falta de dados oficiais sobre esses transtornos no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00c10fe57ddd60d8e79f6ec8c8fd41b8d58b2c80f54c12cf30817740f57557a3
+size 374

@@ -1,1 +1,3 @@
-Presença no plenário do Ministro da Ciência, Tecnologia, Inovações e Comunicações, Marcos Pontes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbe813d1b06cc4427dd05cd6b78bbbbf5b9809b4952a4fa2d047e1750ce26f44
+size 104

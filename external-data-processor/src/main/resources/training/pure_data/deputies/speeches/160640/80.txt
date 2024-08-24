@@ -1,1 +1,3 @@
-Transcurso do Dia do Médico Veterinário Militar. Realização pela Câmara dos Deputados de sessão solene em homenagem ao transcurso do Dia Mundial de Conscientização da Violência contra a Pessoa Idosa. Importância do médico veterinário para a sociedade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49a3fd27ea0ac80383aa72da9e69af3062de3a8be32d77fcc809557fd992938e
+size 263

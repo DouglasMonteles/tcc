@@ -1,1 +1,3 @@
-Perfil da população brasileira, segundo dados do censo demográfico do IBGE. Adoção de política de inclusão social pelo Governador do Estado da Bahia, Jaques Wagner. Inauguração do Centro Especializado de Odontologia - CEO, no Município de Camaçari. Dinamismo da administração do Prefeito Municipal Luiz Carlos Caetano. Apoio à extensa pauta de lutas dos participantes no 8º Acampamento Terra Livre 2011, em Brasília, Distrito Federal. Denúncia de violência praticada contra lideranças indígenas na região sul do Estado da Bahia. Apoio ao voto do Ministro Carlos Ayres Britto, do Supremo Tribunal Federal, a favor da união estável entre pessoas do mesmo sexo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e746f99848d591bf9917de238b82e35cdf5b151a65d3ae05a5953209624d3e48
+size 681

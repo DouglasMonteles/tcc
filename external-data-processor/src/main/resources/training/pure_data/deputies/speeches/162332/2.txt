@@ -1,1 +1,3 @@
-Eleição da nova diretoria do Sindicato dos Contabilistas de Maringá - SINDCONTÁBIL, no Estado do Paraná. Recondução do Sr. Orlando Chiqueto Rodrigues à presidência da entidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:707c2238aff72c3866c63bf770c978a0d86ca41b23f98e9463bc645e86cc02b0
+size 185

@@ -1,1 +1,3 @@
-Transcurso do 65º aniversário de fundação da Rádio Paiquerê, no Município de Londrina, Estado do Paraná. Invasão da Igreja Nossa Senhora do Rosário dos Pretos durante a celebração de ato litúrgico, na Capital Curitiba. Repúdio à intolerância religiosa. Dificuldades enfrentadas pelos portadores de visão monocular para obtenção de benefícios junto ao Instituto Nacional do Seguro Social - INSS. Descumprimento da Lei Amália Barros sobre a classificação da visão monocular como deficiência visual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:901f0c8a0f2df3ed9a1f64313a0ff7628b2b4630d00321de5afdeb785696760a
+size 521

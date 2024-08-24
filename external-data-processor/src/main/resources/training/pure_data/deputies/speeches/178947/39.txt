@@ -1,1 +1,3 @@
-Transcurso do Dia do Professor. Importância dos professores das escolas sabatinas e dominicais das igrejas evangélicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed70dc06eb0c5314d988f356c830aa6108e619224592e929ced4c0b92a2bab27
+size 121

@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do Substitutivo ao Projeto de Resolução da Câmara dos Deputados nº 116, de 2023, que cria a Bancada Negra da Câmara dos Deputados e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9440becb23a5be365ef9b1eee4d4ea44694ac64f55c1e745d8aecb1e5f5e71b4
+size 205

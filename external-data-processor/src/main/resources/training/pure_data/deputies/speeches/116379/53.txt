@@ -1,1 +1,3 @@
-Exploração política e ideológica da questão das queimadas na Amazônia. Defesa de preservação da floresta amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:579e3fe92ac6630e6f64f414fc12ce9af2adabdffeeead18f63baa82b0798165
+size 124

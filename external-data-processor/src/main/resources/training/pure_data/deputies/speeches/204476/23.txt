@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda Aglutinativa nº 1, oferecida à Medida Provisória nº 881, de 2019, sobre a instituição da Declaração de Direitos de Liberdade Econômica, o estabelecimento de garantias de livre mercado e a análise de impacto regulatório.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dd473920be3b665d36e5f6fae6b03a896a3e739840ac4e3a34cf9b1f59b42ab
+size 277

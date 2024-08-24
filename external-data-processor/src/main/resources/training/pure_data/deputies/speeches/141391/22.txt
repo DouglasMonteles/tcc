@@ -1,1 +1,3 @@
-Lançamento do livro Memórias do Brasil Grande, de autoria do empresário Wilson Quintella.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dfcdc48a1e957b483f4b4e257cb1cea101ce15443737108c53583b59db2d3fb
+size 92

@@ -1,1 +1,3 @@
-Repúdio ao projeto de lei sobre a imposição de penas a homossexuais, em tramitação do Poder Legislativo de Uganda. Necessidade de manifestação do Governo brasileiro a respeito do assunto. Apoio à decisão do Superior Tribunal de Justiça favorável à adoção de crianças por casais homossexuais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74196f0e89c0ea6b885e9ee9a2bcae172bc7fe89bab72ecdc1bdb6ad26603536
+size 306

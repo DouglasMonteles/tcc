@@ -1,1 +1,3 @@
-Audiência no Ministério da Agricultura sobre inclusão do Pará entre os Estados brasileiros exportadores de carne para os Estados Unidos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77dd86eb44d2b47974863b83c565eac781a1f1a4141d96281e3b02f97b991ee3
+size 140

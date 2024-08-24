@@ -1,1 +1,3 @@
-Anúncio da realização da Exposição Agropecuária - EXPOAGRO Vidas e da Exposição Internacional da Raça Nelore - EXPOINEL de Aracruz, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d87acfd9c5d305f4739de7398e1ef0f7e29c9cda4db72868e4311e1625144b79
+size 167

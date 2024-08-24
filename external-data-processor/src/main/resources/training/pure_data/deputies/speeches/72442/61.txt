@@ -1,1 +1,3 @@
-Apoio à criação de frente parlamentar em defesa do setor de entretenimento e eventos. Elaboração pelo orador de projeto de lei destinado à proteção do segmento. Pedido aos Governadores Estaduais e aos Prefeitos Municipais de apoiamento às demandas dos produtores de eventos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1804372a579107c31eedef4cb28a9467fe8347fe510f65e7430ec9d99859ba54
+size 283

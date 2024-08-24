@@ -1,1 +1,3 @@
-Posicionamento sobre tópicos de proposição infraconstitucional relativa à reforma política oriunda do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bffcac4133581c6e28a63401cdfb80d3cfb117d41ee8050dfe3369a387a148f2
+size 122

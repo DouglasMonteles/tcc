@@ -1,1 +1,3 @@
-Repúdio a invasão do Congresso Nacional por manifestantes em defesa do retorno dos militares ao poder. Elogios à ação da Polícia Legislativa na evacuação do plenário da Câmara dos Deputados. Defesa de punição dos manifestantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:570575f961062d06048efe067163d751a4ad49be1a305214397fade18be4cf11
+size 239

@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados de servidores públicos do Estado do Pará e do Deputado Estadual paraense Coronel Neil, com vistas à manifestação de repúdio ao Projeto de Lei Complementar nº 257, de 2016, que estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09615fb51bcb7026153c1d8bf66f38e3c6a2808c1fa6fefd765ea15981f404b0
+size 330

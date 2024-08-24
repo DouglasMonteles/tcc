@@ -1,1 +1,3 @@
-Extemporaneidade da solicitação encaminhada aos membros do Congresso Nacional pelo jornalista Raniel Bragon, da Folha de S.Paulo, acerca da divulgação de cópias das notas fiscais de gastos dos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e25d8eacbb486abc66b8820884734ec278d6603bad4509e42569792e52639d2
+size 212

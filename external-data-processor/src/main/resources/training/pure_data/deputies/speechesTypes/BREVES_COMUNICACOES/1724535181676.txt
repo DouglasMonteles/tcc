@@ -1,1 +1,3 @@
-O Deputado expressou sua preocupação com a série de desastres que afetaram o Rio Grande do Sul nos últimos anos. Ele destacou a estiagem que atingiu a maioria dos municípios do estado, seguida por um ciclone extratropical que causou mortes e danos significativos. Agora, o Rio Grande do Sul enfrenta outra tragédia, com inundações e seis mortes. O orador pediu ajuda imediata, incluindo resgates com helicópteros e recursos financeiros para reconstrução e prevenção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd8d21c43709aa913e14afe645f9acb77b3b56b079ca18fcb3455b4ac06bb5c1
+size 479

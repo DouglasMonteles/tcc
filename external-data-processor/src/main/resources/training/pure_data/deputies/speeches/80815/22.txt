@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.245, de 2023, sobre a instituição da Política Nacional de Trabalho Digno e Cidadania para População em Situação de Rua - PNTC PopRua.
+version https://git-lfs.github.com/spec/v1
+oid sha256:460a8e3ba99e14df4b308e14452b9d1f68143eecc9a31400264ba6319ddcffee
+size 256

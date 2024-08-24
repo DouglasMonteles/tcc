@@ -1,1 +1,3 @@
-Importância da campanha de multivacinação lançada pelo Ministério da Saúde. Transcurso do cinquentenário do Programa Nacional de Imunizações. Repúdio à disseminação de fake news contra a Ministra Nísia Verônica Trindade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0428f25387733caadfd285943d70a4350c2e90fe37573cf41c6cffa37a52a733
+size 235

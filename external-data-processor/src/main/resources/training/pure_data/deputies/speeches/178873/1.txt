@@ -1,1 +1,3 @@
-Realização da Festa da Penha e do Carnaval de Congo de Máscaras, respectivamente nos Municípios de Vila Velha e Cariacica, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d96f55f7959a8bca7c9374fd1184164db04c8bdf21db989cd762de81ecec5e8b
+size 153

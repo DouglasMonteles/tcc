@@ -1,1 +1,3 @@
-Transcurso do 167º aniversário de emancipação político-administrativa do Município de Estância, Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77aa18d267c105fa441268130b83826cff93236d175aed6cb2215bf193777b43
+size 121

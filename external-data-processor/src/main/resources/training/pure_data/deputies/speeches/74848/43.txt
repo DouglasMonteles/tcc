@@ -1,1 +1,3 @@
-Precariedade dos serviços de saúde pública no Estado do Rio de Janeiro. Realização de movimento com o slogan Médicos em defesa do SUS. Necessidade da realização de maiores investimentos no setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a6dfb37a935c8712c7750027b861f71022ed944c57a0d7c1982a91c17659bbf
+size 203

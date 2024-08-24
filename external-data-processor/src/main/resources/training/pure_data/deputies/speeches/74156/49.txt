@@ -1,1 +1,3 @@
-Instalação do Centro de Excelência do Café no Município de Caratinga e de estação digital no Distrito de Santo Antônio do Manhuaçu, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e8c3027923124aa635439b7f07a235cfd90a408096e3fdfd33a3ed56f625d42
+size 164

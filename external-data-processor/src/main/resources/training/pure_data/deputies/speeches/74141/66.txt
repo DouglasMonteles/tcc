@@ -1,1 +1,3 @@
-Assassinato do militante petista José Carlos Bezerra Carvalho, o Dr. Zé Carlos, no Município de Paripiranga, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0786140f14c0a5a2e62e5e52e9b09301f7bba7b85c848eb156cf6e42dfb9a6d
+size 128

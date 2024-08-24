@@ -1,1 +1,3 @@
-Razões de ataques de Deputados da Esquerda ao Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff71aafb6c26e6ae1347802a1965f64ed2b40f79883c2c4662efa6c18ed6b3ca
+size 73

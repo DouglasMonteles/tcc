@@ -1,1 +1,3 @@
-Defesa de valorização do funcionalismo público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:931377d298b8f21d8de9c3516778a360deb698e927844ed88c1c3495b2da32e1
+size 50

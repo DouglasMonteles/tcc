@@ -1,1 +1,3 @@
-O Deputado apresentou um projeto de lei que propõe o endurecimento das penas para crimes contra motoristas de táxi e aplicativos, destacando a vulnerabilidade desses profissionais devido ao aumento da violência no Brasil, especialmente no Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:949ea99d9dfc1b1997764e9760673767d86840911c7dc83eb9d786060e8eb837
+size 249

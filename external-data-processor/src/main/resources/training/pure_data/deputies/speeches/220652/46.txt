@@ -1,1 +1,3 @@
-O Deputado expressou sua indignação em relação aos rumores de veto do Presidente Lula à Lei Orgânica Nacional das Polícias Civis. Destacou que o Projeto de Lei, negociado com o PT, passou por ambas as casas legislativas e agora aguarda a decisão presidencial. Ressaltou a importância do cumprimento dos acordos firmados e alertou que um eventual veto seria interpretado como desapreço às forças de segurança. Enfatizou as condições desumanas de trabalho dos policiais civis, mencionando jornadas exaustivas sem direito a hora extra. Defendeu a justiça do projeto e expressou esperança de que o veto não seja efetivado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:481a568dbdb4d5f30519af6debd71d01ab293351d03feecb53740f9cb1b98e7a
+size 636

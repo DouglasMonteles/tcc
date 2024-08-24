@@ -1,1 +1,3 @@
-Expectativa de aumento do número de casos de dengue no Estado de Minas Gerais, em decorrência do início do período das chuvas. Necessidade de incremento dos investimentos públicos para combate da doença. Regozijo com o agraciamento, pela Assembleia Legislativa mineira, com a Medalha da Ordem do Mérito Legislativo, em reconhecimento à atuação legislativa do orador em defesa da saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23d0408845a99abc4a83b9bcdf8a3168efba4af18119b6f95db371ad9cdaf4b0
+size 405

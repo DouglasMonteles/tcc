@@ -1,1 +1,3 @@
-Discussão do índice do reajuste do salário mínimo. Críticas ao comportamento dos partidos de Oposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d513c892a757a29667b2459534cbb07e8040c83f11fd01c7e5d57c3f031ae731
+size 109

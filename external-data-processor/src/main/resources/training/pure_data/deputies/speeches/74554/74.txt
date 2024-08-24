@@ -1,1 +1,3 @@
-Desrespeito de funcionários da companhia Avianca Linhas Aéreas para com o orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:501a9ba9414af296f1fb6adf1dbae4ee626c1493d127dfa88d93b3d428115b75
+size 83

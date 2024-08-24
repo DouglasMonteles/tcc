@@ -1,1 +1,3 @@
-Agradecimento às Deputadas Silvia Cristina e Maria do Rosário. Orientação de bancada na votação da Subemenda Substitutiva Global, apresentada pelo Relator da Comissão de Saúde ao Projeto de Lei nº 2.952, de 2022,&nbsp;sobre a instituição da Política Nacional de Prevenção e Controle do Câncer no âmbito do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a07867da167ec5b6352d8b81f81e3a406d70f09ebf21f52a40f8b882e4287c22
+size 353

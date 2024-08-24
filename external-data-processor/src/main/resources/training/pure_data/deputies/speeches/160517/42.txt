@@ -1,1 +1,3 @@
-Convocação da população capixaba para ato público em Vitória, Estado do Espírito Santo, em defesa da manutenção da atual sistemática de distribuição de royalties de petróleo em relação aos contratos já firmados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:915e9574f5f1e24a2f6cc3e9af5ce8ff884cb823c0726eb44a405084df928a28
+size 227

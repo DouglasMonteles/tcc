@@ -1,1 +1,3 @@
-Insatisfação da oradora com o baixo índice de redução das tarifas de energia elétrica no Estado de Rondônia, determinado pela Agência Nacional de Energia Elétrica - ANEEL. Solicitação ao Tribunal de Contas da União - TCU de realização de auditoria na empresa Eletrobrás Distribuição Rondônia - Centrais Elétricas de Rondônia S/A - CERON.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c8db2dec12a3890536fb96702d72a5fdb9c715571e0256e1751cdaa39d1813c
+size 357

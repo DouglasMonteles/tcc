@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de retirada de pauta do Projeto de Lei Complementar nº 76-B, de 2007, sobre a inclusão de Municípios de Minas Gerais na área de abrangência da SUDENE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d062f4f678fedbb984959c382bd1bc43cf107587accbaa4831041e4ddbf5460
+size 210

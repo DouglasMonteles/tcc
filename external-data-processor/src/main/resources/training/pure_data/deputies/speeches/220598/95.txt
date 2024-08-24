@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 4050/2023, que dispõe sobre a oferta de profissionais de apoio escolar especializados nas salas de aula para atendimento aos alunos com deficiência, e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91b04f048362cd51ebee554023074f9d2232c57f5b91acf3dce51555426d9dc4
+size 298

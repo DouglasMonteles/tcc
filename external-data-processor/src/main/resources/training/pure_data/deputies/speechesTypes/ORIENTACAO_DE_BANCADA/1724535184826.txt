@@ -1,1 +1,3 @@
-Posicionamento favorável do PT  ao Substitutivo ao Projeto de Lei 1.627 de 2007 (Dispõe sobre os sistemas de atendimento socioeducativo, regulamenta a execução das medidas destinadas ao adolescente, em razão de ato infracional, altera dispositivos da Lei 8.069 de 1990 , que dispõe sobre o Estatuto da Criança e do Adolescente, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1865938b0d2b90fe0a8a929f2e118c302dff32b4a02c230163176ece1e1eb364
+size 363

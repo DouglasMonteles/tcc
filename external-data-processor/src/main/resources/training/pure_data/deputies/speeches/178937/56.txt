@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado do Rio de Janeiro pela reeleição do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1e040e62317c904410f14ad9666c7c0868daf1e91c1227dea60bf241726a0a6
+size 83

@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Combate à Tuberculose. Imediata regulamentação da Emenda Constitucional nº 29, de 2000, acerca da alocação de recursos para a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c76a5f5082c79209d41ff896ee0bd4663510a98ba4d0a4b99a8d5017a80c0fb
+size 177

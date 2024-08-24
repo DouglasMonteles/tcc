@@ -1,1 +1,3 @@
-Falecimento do cineasta Gustavo Dahl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fe301828701790a79896a2d81dede312095a7487f486dddc8ac97f1da1b4a0c
+size 37

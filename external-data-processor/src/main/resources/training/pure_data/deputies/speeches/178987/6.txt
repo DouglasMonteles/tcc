@@ -1,1 +1,3 @@
-Solicitação à Presidência de comunicação aos Deputados sobre a necessidade de apoiamento de proposições relativas à reforma política com a finalidade de apreciação pela Comissão Especial destinada ao oferecimento de parecer ao tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73180e2653a1ed78a8e44993b4f7eed9be0ce7235f83c0e580689a3132eeefb2
+size 245

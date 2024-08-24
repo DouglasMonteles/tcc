@@ -1,1 +1,3 @@
-Necessidade de acesso, por parte dos Deputados, a informações sobre propostas analisadas na Câmara dos Deputados para melhor contextualização das matérias junto aos cidadãos. Gravidade do atual momento econômico, com piora da inflação e aumento do desemprego. Desejo de atuação conjunta dos Deputados no alcance de justiça social e econômica no ano de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:352ecc6241589231f44d81408de5f3f32f60727652f0af34d9c2087114487cb3
+size 371

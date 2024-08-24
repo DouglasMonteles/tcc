@@ -1,1 +1,3 @@
-Convite aos interessados para participação no I Congresso Brasileiro de Pecuária Bovina, no VIII Congresso Capixaba de Pecuária Bovina, no I Fórum do Agronegócio e no I Encontro de Alunos e ex-Alunos de Ciências Agrárias, no Município de Vila Velha, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a2b4acc64910f6cdedcc2c040663f4a644efca7badbc4ad8c3f27e6ee885cb7
+size 285

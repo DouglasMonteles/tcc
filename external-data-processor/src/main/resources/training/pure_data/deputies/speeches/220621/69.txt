@@ -1,1 +1,3 @@
-O Deputado denunciou alegada instrumentalização ideológica do ENEM pelo Governo, criticando a organização e a inclusão de questões tendenciosas contra o agronegócio. Destacou o impacto negativo nos quase 4 milhões de candidatos e exigiu respeito ao setor agropecuário, solicitando explicações do Ministro da Educação à Comissão de Educação. Repudiou a suposta sabotagem ao agronegócio, vital para a economia do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:428db6f7025010ff59bafd824e8f6876c2fc3fc22809ba2ad8fcc2d3e8e5076f
+size 436

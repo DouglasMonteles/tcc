@@ -1,1 +1,3 @@
-Conveniência de remoção de índios acampados na Esplanada dos Ministérios, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a598c2c3b28a967c95ebb7be49684ebb85e5fa2c251c4c692273558c3c69a1d
+size 110

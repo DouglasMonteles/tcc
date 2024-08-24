@@ -1,1 +1,3 @@
-Declaração de voto a respeito do reajuste dos benefícios dos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82ac33e7e79910c97fe367b68d7ae5de767cb7b686898df24eb91454857b9ca5
+size 78

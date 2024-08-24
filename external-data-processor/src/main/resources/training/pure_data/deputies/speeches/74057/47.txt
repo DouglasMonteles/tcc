@@ -1,1 +1,3 @@
-Visita, à Casa, do Prefeito eleito Antônio de Anízio, do Município de Itacaré, Estado da Bahia. Atuação da oradora na Frente Parlamentar em Defesa do Piso Salarial Nacional do Professor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2fefc15e17ef3500388d4180cf811cce0d3b86cb50fb47bd11f4e6bab072afb
+size 193

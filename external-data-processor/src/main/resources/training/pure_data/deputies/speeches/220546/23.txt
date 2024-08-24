@@ -1,1 +1,3 @@
-O Deputado protestou contra a inclusão na pauta do Supremo Tribunal Federal de ação relativa à descriminalização do aborto, configurando nova usurpação da competência do Parlamento pela Corte. Enfatizou que a liberação da prática representará o assassinato de crianças de até 12 semanas no ventre mãe. O orador afirmou que defende a vida e conclamou o Congresso Nacional a ser a voz contra quem prega a morte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3350d33aba8c22f57e3c4489e759b5a559dc1adbb9e7d7e136b19d67e35c1bcc
+size 425

@@ -1,1 +1,3 @@
-Adoção, pelo Presidente Luiz Inácio Lula da Silva, da política venezuelana para gestão da PETROBRAS. Repúdio à criação, pelo PSB, de faixa salarial para a segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b3d230b171c234451ee229c5666637f5aa96e440ccd60fe4f7b68fabe787f43
+size 184

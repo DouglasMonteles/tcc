@@ -1,1 +1,3 @@
-Questionamento sobre as razões da realização, pelo ex-Presidente Jair Bolsonaro, de inúmeras viagens à Arábia Saudita. Defesa de prisão do ex-Presidente da República por crimes praticados contra o povo brasileiro. Determinação ao Deputado Nikolas Ferreira, pelo Tribunal Superior Eleitoral, do pagamento de multa de 30 mil reais por divulgação de fake news a respeito do Presidente Luiz Inácio Lula da Silva. Reconstrução do País pelo governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfc2ba6016848223a80584ad845fe3c5408ae347c6121c240437408f55ce3c8d
+size 467

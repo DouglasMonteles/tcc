@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Requerimento nº 9.281, de 2018, para apreciação em regime de urgência do Projeto de Resolução nº 331, de 2018, sobre a instituição, no âmbito da Câmara dos Deputados, do Prêmio Nise da Silveira  de Boas Práticas e Inclusão em Saúde Mental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2787e8633f25c996a848c977dd352059d4539bccda176e0aa49590c8e831cfa
+size 294

@@ -1,1 +1,3 @@
-Ataque de membro da Casa às mulheres transexuais. Ajuizamento de ação contra o Vereador Fernando Holiday, da Câmara Municipal de São Paulo, por ofensas à oradora e aos servidores públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60079585f725bb9aff3ec147479d85a5eb999e9e570bd202d74b4d4f358a7d77
+size 195

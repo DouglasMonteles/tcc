@@ -1,1 +1,3 @@
-Transcurso do 1º aniversário da prisão do ex-Presidente Luiz Inácio Lula da Silva. Trechos da carta ao povo brasileiro, assinada pelo ex-Presidente da República. Repúdio à gestão do Presidente Jair Bolsonaro. Vinculação entre assassinatos ocorridos no País e o projeto anticrime encaminhado à Casa pelo Ministro da Justiça e Segurança Pública, Sérgio Moro. Incompetência do Ministro da Educação e do seu antecessor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abda3020c9e615dc695ae302d60c475ce4df0e4136771a8da25e5a1b9b806f7b
+size 434

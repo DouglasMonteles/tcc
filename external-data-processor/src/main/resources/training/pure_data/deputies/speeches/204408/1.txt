@@ -1,1 +1,3 @@
-Congratulações ao Deputado Felipe Rigoni pelo discurso proferido sobre a história de sua vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a70c6ff68033e0e68db8faf7f44b46bb9bf8a0f1b4c38c9e3cb6462594500df4
+size 97

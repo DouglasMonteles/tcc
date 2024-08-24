@@ -1,1 +1,3 @@
-Anúncio de lançamento da Frente Parlamentar Mista em Defesa das Organizações da Sociedade Civil. Protocolização, na Casa, pela organização Greenpeace, do chamado Projeto de Lei do Desmatamento Zero. Crítica ao viés político da decisão do Tribunal de Contas da União no julgamento pela rejeição das contas de 2014 da Presidenta Dilma Rousseff, ante práticas semelhantes pelo ex-Presidente Fernando Henrique Cardoso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4ed2db9ca8b35baf635bf2a348203fcb452a7d56f74a3aeafb380d5adea086d
+size 430

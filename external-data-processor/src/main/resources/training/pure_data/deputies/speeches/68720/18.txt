@@ -1,1 +1,3 @@
-Defesa de rejeição do veto presidencial à proposta de isenção da cobrança de bagagens em voos domésticos, preconizada na medida provisória sobre a abertura do setor aéreo ao capital estrangeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e33b195f9fc8a78263ccdff9d359f5f798f00da7da31e5a5e65d301d1a39b20
+size 203

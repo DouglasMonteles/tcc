@@ -1,1 +1,3 @@
-Informação aos consumidores brasileiros sobre os procedimentos adotados no caso de furto ou roubo de cartão de crédito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51339ffff353bb3f8e0c168995f8b8e522914bcbe1d81197a2700996a228cd80
+size 123

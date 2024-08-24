@@ -1,1 +1,3 @@
-Regozijo com a vitória da chapa de centro-esquerda nas recentes eleições presidenciais da Argentina. Derrocada do neoliberalismo na América Latina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:411f8daf567bbce30974e36bb09150a7ce3431cb00c281ff27e650d4d8ee378a
+size 151

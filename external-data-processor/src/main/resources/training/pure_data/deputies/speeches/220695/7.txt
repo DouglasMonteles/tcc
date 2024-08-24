@@ -1,1 +1,3 @@
-Elevado índice de violência e violação dos direitos de crianças e adolescentes no Brasil, segundo o Painel de Dados da Ouvidoria Nacional de Direitos Humanos. Dever da família, da sociedade e do Estado brasileiro de garantia, às crianças e adolescentes, de direitos consagrados no texto constitucional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d713b635ac616b765992b2d6d8cdab213caf9ba25be4bd6f3176f353aa218194
+size 310

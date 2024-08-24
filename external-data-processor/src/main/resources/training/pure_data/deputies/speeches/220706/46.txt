@@ -1,1 +1,3 @@
-Transcurso do 70º aniversário de fundação do jornal Folha de Londrina, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bda4fa204ea9902063ae517f245d6418deab7ac3fb64a4ff84629429aa9edb54
+size 96

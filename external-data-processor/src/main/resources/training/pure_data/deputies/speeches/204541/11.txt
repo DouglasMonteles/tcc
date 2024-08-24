@@ -1,1 +1,3 @@
-Solidariedade aos familiares das vítimas do desabamento do edifício residencial Andrea, em Fortaleza, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87b343dec426ed7825c7fce225b5916c9776d1aef301336c700448da04008c6f
+size 121

@@ -1,1 +1,3 @@
-Realização de acordo para retirada de pauta da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76d64472e3a7d31efeb8c3e51c2bc8e5636228964a0fee459f56cd3b81c16a65
+size 58

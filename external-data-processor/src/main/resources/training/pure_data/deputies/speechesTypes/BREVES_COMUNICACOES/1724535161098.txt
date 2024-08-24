@@ -1,1 +1,3 @@
-Perplexidade ante pronunciamentos comemorativos do golpe militar de 1964. Retorno do ex-Presidente Jair Bolsonaro ao País à véspera da efeméride. Importância da retomada do Programa Minha Casa, Minha Vida; e do Programa Mais Médicos. Relevância do Programa Universidade para Todos - PROUNI e do Fundo de Financiamento Estudantil - FIES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18101a338206cde47444e3456778dc19ffdc4f26465b088957aaf75e8aa9e846
+size 343

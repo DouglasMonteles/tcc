@@ -1,1 +1,3 @@
-Realização da 39ª Feira Agropecuária, Industrial e Comercial de Maringá - EXPOINGÁ, no Estado do Paraná. Convite aos Parlamentares para participação em reunião da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:204495bea3a10a1f85f2e4772b4bba59d256f9e7703f29829dbe68b9bf650550
+size 248

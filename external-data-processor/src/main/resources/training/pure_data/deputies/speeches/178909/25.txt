@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei Complementar nº 78, de 2015, que altera a Lei Complementar nº 79, de 7 de janeiro de 1994, que cria o Fundo Penitenciário Nacional  - FUNPEN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05153166d827bc3c2333f225fe17874f93e9abc6074034463c5418000156b693
+size 177

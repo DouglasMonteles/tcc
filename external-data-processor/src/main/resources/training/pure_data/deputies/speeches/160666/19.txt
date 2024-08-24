@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional do Cacau. Situação brasileira no cenário mundial de produção e comercialização do produto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd0844762a7a2c3179d9535ffe769b1bf22dde8f12d0136b03cce41156de6798
+size 129

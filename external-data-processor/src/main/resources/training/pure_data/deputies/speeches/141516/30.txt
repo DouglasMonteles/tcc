@@ -1,1 +1,3 @@
-Homenagem aos 80 anos do jornal Estado de Minas e aos 200 anos do jornal Correio Braziliense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10914376ac3b774c9a199c2515cc940643cbd5b1f6d66c5fc339f95653302150
+size 93

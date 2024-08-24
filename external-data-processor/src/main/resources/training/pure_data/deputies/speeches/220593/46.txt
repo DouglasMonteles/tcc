@@ -1,1 +1,3 @@
-Perplexidade ante a apresentação, pela Deputada Jandira Feghali, de pedido de investigação da Deputada Julia Zanatta por prática de fake news. Defesa de esclarecimento do episódio de assédio sexual envolvendo à Deputada Julia Zanatta e Deputado do PCdoB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1906d8182e206fb7901de0bff924e14840a3cf8bedf37a2ec7b171b852a52695
+size 262

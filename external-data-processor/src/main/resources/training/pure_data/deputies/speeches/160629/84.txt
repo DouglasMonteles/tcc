@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado paraibano pela eleição do orador. Expressiva votação alcançada pelo Parlamentar no Município de Campina Grande. Compromisso de atuação em benefício d Estado da Paraíba e do País. Necessidade de debate sobre a revitalização do Rio São Francisco. Defesa da destinação de recursos à saúde municipal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6fdc058b4ff802367c41e7098a38553ba850a6428c530f4a002c152d92708a2
+size 342

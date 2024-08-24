@@ -1,1 +1,3 @@
-A Deputada destacou o 5º Encontro Estadual de Parques Tecnológicos, realizado em Guarapuava, Paraná. Mencionou a presença de representantes de mais de cem cidades e os investimentos anunciados pelo Governo do Estado na área de inovação. Parabenizou a cidade de Guarapuava, o Prefeito Celso Góes, o ex-Ministro da Ciência e Tecnologia, Paulo Alvim, e outros envolvidos por promoverem o encontro e pelo compromisso com o desenvolvimento tecnológico no Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6d2763badab38faf00d36b1833dc4857b2bf304d2a4f0921a3d00a44ee4fba5
+size 468

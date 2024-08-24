@@ -1,1 +1,3 @@
-Notícia publicada no portal da Empresa Brasil de Comunicação - EBC, na Internet, sobre acatamento pela Justiça de denúncia contra executivos das empresas Alstom e CAF por participação em cartel na Companhia Paulista de Trens Metropolitanos - CPTM. Elogios à gestão de transportes públicos pelo Prefeito de São Paulo, Fernando Haddad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a59335c6ac69acbaf13ffe193f6f02acbfa4e816cf973ea465f01222cf81fd2
+size 344

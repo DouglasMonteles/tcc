@@ -1,1 +1,3 @@
-Apelo aos Parlamentares de rejeição do Veto Parcial nº 59, de 2021, aposto ao Projeto de Lei nº 4.968, de 2019, relativo à instituição do Programa de Proteção e Promoção da Saúde Menstrual, e à alteração da Lei nº 11.346, de 2006.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9536b39388303320c1c0e69560a97ea67207f39667230bd0cf596eb55bfc405
+size 246

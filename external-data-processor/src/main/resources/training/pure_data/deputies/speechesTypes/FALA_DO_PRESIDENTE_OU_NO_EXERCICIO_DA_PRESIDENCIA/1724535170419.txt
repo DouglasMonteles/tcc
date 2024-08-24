@@ -1,1 +1,3 @@
-Agradecimento aos participantes na sessão solene. Anúncio da apresentação de proposições em benefício dos portadores da Síndrome de Down.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16358caedb1224a19ef43c10d5fc6cc2d0627d3753ff2e653875ce7f134bb751
+size 145

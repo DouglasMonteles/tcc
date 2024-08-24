@@ -1,1 +1,3 @@
-Participação da delegação brasileira em reuniões de trabalho com a Delegação do Parlamento Europeu para as Relações com os Países do Mercado Comum do Sul - MERCOSUL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57a2173b1a30dfac1090b91fd5ab81d0bec426c0b110055aeacfc330eacc01b3
+size 175

@@ -1,1 +1,3 @@
-Contestação de discurso proferido por Parlamentar da Casa sobre ataques a dispositivos da Lei de Diretrizes e Bases da Educação Nacional - LDB referentes aos gastos com educação. Compromisso de atuação na Comissão de Educação em defesa da destinação de recursos públicos para o ensino público. Pedido à Casa de apoio para aprovação de proposta de emenda à Constituição de autoria da oradora sobre revogação de artigo da reforma previdenciária relativo ao confisco de aposentadorias e pensões inferiores ao teto do INSS. Solidariedade à luta de professores do Município de Carapicuíba, Estado de São Paulo, em defesa da implementação do piso salarial nacional do magistério.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10be9477b4d2c88247e96f24272edb4f65a8797e1c1077ab15c5f794da70f81d
+size 705

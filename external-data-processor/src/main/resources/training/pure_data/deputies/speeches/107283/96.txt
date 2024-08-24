@@ -1,1 +1,3 @@
-Não aquisição de vacinas contra a Covid-19 pelo Governador do Estado do Paraná, Ratinho Junior. Defesa da aquisição de imunizantes pelo Consórcio Paraná Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1139248bf4d27bd77c7f2f69edc34d73875f0a698c7c142f53d3705b63743b8
+size 168

@@ -1,1 +1,3 @@
-Considerações sobre a importância da representação brasileira no Parlamento do Mercosul.Dia Nacional da Adoção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af555496ddbcb37d82a47cd7f3bdae303e060b93bc483648d5412bbe8d2647db
+size 118

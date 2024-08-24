@@ -1,1 +1,3 @@
-Importância de aprovação do Projeto de Lei nº 1.183, de 2011, sobre a vedação do comparecimento de aposentados e pensionistas às agências da Previdência Social para fins de recadastramento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c942f068db45b4d216cf1c03ecd03dbdf9be74ea27b34f71def4d885226ce2c
+size 198

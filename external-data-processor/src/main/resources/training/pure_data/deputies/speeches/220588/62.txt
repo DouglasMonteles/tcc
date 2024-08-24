@@ -1,1 +1,3 @@
-O Deputado abordou a fragilidade da economia brasileira sob a gestão do Ministro Fernando Haddad, especialmente em um cenário internacional de potencial guerra no Oriente Médio. Alertou que o Ministério da Fazenda não tem garantias de receitas suficientes para zerar o déficit em 2024. Criticou a meta de R$ 168,5 bilhões em receitas extras como praticamente inviável e disse que as estimativas atuais estão inflando os números da receita, causando incertezas fiscais e afetando a curva de juros. Segundo o Parlamentar, o Governo Lula aposta em populismo desregrado e não demonstra comprometimento com o resultado primário, o que torna o novo arcabouço fiscal ineficaz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:897b20ddeb6e90a7437ec39ac6085b31fa2e00c91820583e87eb6842a166ad8d
+size 682

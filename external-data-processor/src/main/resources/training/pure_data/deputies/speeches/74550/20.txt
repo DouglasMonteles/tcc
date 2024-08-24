@@ -1,1 +1,3 @@
-Resposta à interpelação do Deputado Duarte Nogueira sobre dispositivo do Projeto de Lei de Conversão da Medida Provisória  451 de 2008 (Altera a legislação tributária federal, e dá outras providências), relativo a  prazo para negociação de debêntures de empresas tomadoras de recursos no FINOR e no FINAM incluída no projeto de lei de conversão da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f2c8859d908f3d046be76260f1c3f4f436e833e50c164f5a2985883a5aefaf5
+size 372

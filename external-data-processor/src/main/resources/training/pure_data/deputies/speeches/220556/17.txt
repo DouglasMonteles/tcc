@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Descaso do governo anterior com as mulheres. Expectativa de prisão do ex-Presidente Jair Bolsonaro por crimes praticados contra a humanidade. Necessidade de esclarecimento de denúncias contra o ex-Presidente da República. Instituição do dia contra a violência de gênero, em homenagem póstuma à Vereadora Marielle Franco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04b8162624d599f414488a3ba079d251a7dfade92ace2288abfca01d11abbef6
+size 372

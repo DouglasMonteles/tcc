@@ -1,1 +1,3 @@
-Apoio ao Projeto de Lei Complementar nº 104, de 2007, acerca da inclusão dos serviços advocatícios no Regime Especial Unificado de Arrecadação de Tributos e Contribuições - SIMPLES Nacional ou Super-SIMPLES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c600de938794dd619bfa39d31e49cc8cb0ff364878b79e17e034803b30d9318
+size 215

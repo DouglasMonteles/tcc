@@ -1,1 +1,3 @@
-O Deputado expressou indignação em relação à obrigatoriedade da vacina contra a COVID-19 para crianças de 6 meses a 5 anos. Ele considera essa medida um desrespeito à liberdade dos pais e à autonomia de decisão sobre a saúde de seus filhos. Argumentou que as vacinas contra a COVID-19 não foram suficientemente testadas devido ao curto período de desenvolvimento e destacou preocupações sobre possíveis efeitos colaterais. Além disso, criticou a possibilidade de corte nos programas sociais para quem não vacinar os filhos, considerando essa medida coercitiva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dba2de1eaf2b214402133b5358727cb6bb40e7796dd0aa85af8ee240caca84e
+size 577

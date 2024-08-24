@@ -1,1 +1,3 @@
-Reiteração do apoio ao posicionamento dos Deputados Duarte Nogueira e Antonio Carlos Magalhães Neto, a respeito de acordo celebrado para a votação do projeto de lei sobre o reajuste do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:924de13826c8d3b3b27b26ec33d9bffbd1a1961ded6cf4641a05b82aca369418
+size 207

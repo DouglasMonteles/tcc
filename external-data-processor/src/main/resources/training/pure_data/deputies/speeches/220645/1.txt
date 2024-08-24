@@ -1,1 +1,3 @@
-Saudações aos indígenas reunidos no Acampamento Terra Livre, no Distrito Federal. Desprezo às minorias pelo Governo Jair Bolsonaro. Descaso do Governador do Estado de São Paulo, Tarcísio Gomes de Freitas, e do Prefeito Municipal de São Paulo, Ricardo Nunes, com as populações vulneráveis. Liberação pelo gestor municipal de recursos para a Virada Cultural, em detrimento da área de segurança pública e das populações em situação de rua na Capital paulista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90eb55e096fd9f66c1c5ded67b58814f87080eb9d3d5bed3fe37f125fdbf0a7c
+size 475

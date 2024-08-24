@@ -1,1 +1,3 @@
-Repúdio à incitação à pedofilia por ator na realização de performance nu no Museu de Arte Moderna de São Paulo. Anúncio de convocação do ator pela Comissão de Seguridade Social e Família e pela Comissão de Cultura para esclarecimentos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d52c064d9d4e9dcecc7551a46b8ed46dd2c4bce4507a58d37e5bbc1bc3d26d08
+size 249

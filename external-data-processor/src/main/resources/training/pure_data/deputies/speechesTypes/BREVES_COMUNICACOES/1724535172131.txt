@@ -1,1 +1,3 @@
-Mensagem do ex-Presidente Luiz Inácio Lula da Silva ao Presidente da Casa e Líderes partidários, em agradecimento pela participação em ato a seu favor no Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb88885dbf99c97aaf966d0f795917be8ef68fb411d32f0d7ac96235adce2e11
+size 184

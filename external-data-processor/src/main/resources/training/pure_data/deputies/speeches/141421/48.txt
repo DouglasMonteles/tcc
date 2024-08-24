@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação da Proposta de Emenda à Constituição nº 300, de 2008, sobre piso salarial nacional para as categorias de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f66cc4915afc8c5e2a2865e6694139c30ee6416b4e1aa5ca896275685a2e372b
+size 183

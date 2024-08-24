@@ -1,1 +1,3 @@
-A Deputada enfatizou a importância de respeitar o tempo necessário para análise e debate adequados antes da votação de projetos importantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f614493323bf5a8809f21708d5c710101cb99a37ea70085ba0211ff00d43b509
+size 145

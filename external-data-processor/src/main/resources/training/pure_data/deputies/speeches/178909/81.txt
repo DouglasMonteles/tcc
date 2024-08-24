@@ -1,1 +1,3 @@
-Reivindicação à Empresa Brasileira de Correios e Telégrafos de instalação de banco postal no Município de Castanhal, no Estado do Pará. Responsabilidade da Câmara dos Deputados para com a superação da crise econômica no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f02cd18b1875cdf570944184ebeeb0fe24d2fe4d51a6a98ed644a4782433dc3a
+size 239

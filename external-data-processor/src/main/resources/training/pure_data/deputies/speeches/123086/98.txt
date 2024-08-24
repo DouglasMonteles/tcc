@@ -1,1 +1,3 @@
-Preocupação com o encerramento das atividades da fábrica de cimento Nassau no Estado do Piauí em decorrência da crise econômica. Solicitação ao Governo Federal de apoio à recuperação financeira de empresas nacionais por meio do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7c1f6eed26a004aa4b6531c450691e91815b331cea04e0e8e4adf70a4943b89
+size 301

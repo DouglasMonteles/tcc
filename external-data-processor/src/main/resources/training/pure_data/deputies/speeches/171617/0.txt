@@ -1,1 +1,3 @@
-Associação aos pronunciamentos das Deputadas Erika Kokay e Janete Rocha Pietá. Sucesso do lançamento do Programa do Governo Federal PAC Equipamentos no Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a50950b3de43312fe2020e4d4fd40aef55f69a11bfbac8fb5e38eb164843b01
+size 174

@@ -1,1 +1,3 @@
-Congratulações à Presidência pela realização de votação nominal para emenda relativa à redução da incidência do PIS e COFINS no óleo diesel, em favorecimento dos caminhoneiros do País. Solicitação aos Deputados do PMDB de voto favorável à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f23e1901d0ec7c781b252ac8f641908c26dd7470226226deafbcf13c4a21f5e
+size 266

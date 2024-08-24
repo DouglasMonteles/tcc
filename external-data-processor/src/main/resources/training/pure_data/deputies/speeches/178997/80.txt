@@ -1,1 +1,3 @@
-Convite aos membros da Comissão Mista da Medida Provisória nº 785, de 2017, sobre alteração do modelo de gestão do Fundo de Financiamento Estudantil - FIES, para participação em reunião da Comissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:832ecebcb91e4a0f9fef9d13f91d7ec619b23178d21575d51ad17884a4ef1d69
+size 208

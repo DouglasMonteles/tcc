@@ -1,1 +1,3 @@
-Transcurso do Dia do Geógrafo e do Dia do Geólogo. Votos de sucesso ao Ministro do Meio Ambiente Carlos Minc.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff6f96e390677f47d5fe6a6ec04772dfbbe56771f3f2841aa8c9bbdd868e4cb6
+size 111

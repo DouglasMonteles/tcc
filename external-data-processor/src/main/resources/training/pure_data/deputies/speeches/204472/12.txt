@@ -1,1 +1,3 @@
-Presença dos Ministros da Agricultura, Pecuária e Abastecimento e do Meio Ambiente nas comemorações da colheita agrícola dos índios Parecis, no Município de Campo Novo do Parecis, Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7914174f4ee000a9627697fd488ccec725d5c33b0c06511258e0a03f7e2bf72d
+size 209

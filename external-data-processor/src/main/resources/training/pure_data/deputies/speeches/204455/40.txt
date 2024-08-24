@@ -1,1 +1,3 @@
-Competência da ex-Secretária de Desenvolvimento Social e Direitos Humanos do Estado do Rio de Janeiro, Fabiana Bentes. Pedido ao Governador Wilson Witzel de cumprimento da promessa da campanha eleitoral de observância da tecnicidade na escolha do seu secretariado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31d43d2ad4136628f07d71af0a0ccb94e30069a1b8044bf70fed532dbbc059be
+size 267

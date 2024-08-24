@@ -1,1 +1,3 @@
-Perplexidade ante a realização, pelo Hospital das Clínicas da Universidade de São Paulo - USP, de cirurgias de mudança de sexo de crianças e adolescentes. Pré-lançamento da Frente Parlamentar Contra a Sexualização Precoce de Crianças e Adolescentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1db9716ea8759f8ce16a01def4b4a85f0507975540b882a46d737626beff42c0
+size 260

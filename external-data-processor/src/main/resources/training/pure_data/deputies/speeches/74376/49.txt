@@ -1,1 +1,3 @@
-Repúdio às pichações ofensivas aos servidores públicos no Município de Campo Grande, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7de4f3371ae2ebdf92f0833ac96a4ab49c53b30847632272b7540c3f1f76ce0a
+size 120

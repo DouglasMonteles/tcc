@@ -1,1 +1,3 @@
-Instalação da Frente Parlamentar em Defesa do Sistema Único de Assistência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc91eeb4025a82612a352d0da1b0a2053dac01923811f455e822b2e87672a751
+size 86

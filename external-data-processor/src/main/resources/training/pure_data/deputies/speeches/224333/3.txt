@@ -1,1 +1,3 @@
-Contrariedade à política de juros altos praticada pelo Banco Central do Brasil. Equívoco da concessão de autonomia à instituição bancária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:428a4db015a646b0f8e7f9c7d56216cf416c5373f8717069a16ec1e7909edc7a
+size 146

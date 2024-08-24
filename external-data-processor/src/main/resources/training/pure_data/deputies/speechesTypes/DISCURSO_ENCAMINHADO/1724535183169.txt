@@ -1,1 +1,3 @@
-Texto da jornalista Mônica Bergamo a respeito da oferta do curso Licenciamento Ambiental no âmbito do Iphan, pelo Superintendente do Instituto do Patrimônio Histórico e Artístico Nacional, Cândido Henrique de Aguiar Bezerra, divulgado no portal da Folha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6411ba83561aa07b70a51d579ac735d91324c2e8a9dc48186748733284c6a609
+size 260

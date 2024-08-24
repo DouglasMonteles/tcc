@@ -1,1 +1,3 @@
-Necessidade de regulamentação do porte de armas de fogo por policiais em aeronaves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a96215e28b5213291e404cc406ab1d04a07ee41322021cd7207e70d26325c015
+size 85

@@ -1,1 +1,3 @@
-Conveniência de convocação de sessão extraordinária logo após a presente sessão para dar continuidade à discussão da  Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação - EBC, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1109e7a4644ca7f089d47884d196d9da68b8a5aeb7b98e97c6ebfe116fabe2c8
+size 435

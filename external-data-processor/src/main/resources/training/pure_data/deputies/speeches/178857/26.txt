@@ -1,1 +1,3 @@
-Contrariedade à votação de requerimento de apreciação em regime de urgência de proposição relativa a sustação de normas de trabalho sem a criação anterior de Comissão Especial para o oferecimento de parecer à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e6535f6d7f1e68348e66d0014ff944e9447a16bdb61629c9dcd94ca38c0d372
+size 232

@@ -1,1 +1,3 @@
-Transcurso do 105º aniversário de emancipação político-administrativa do Município de Foz do Iguaçu, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:486d20a86ffa040ba7e5a05be4d1681204932c34d02118ae6ce1545155389fba
+size 126

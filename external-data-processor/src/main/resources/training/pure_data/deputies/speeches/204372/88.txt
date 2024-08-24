@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à aprovação do parecer oferecido ao Projeto de Lei nº 399, de 2015, relativo à alteração do art. 2º da Lei nº 11.343, de 2006, para a comercialização de medicamentos com extratos, substratos ou partes da planta cannabis sativa em sua formulação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d55b798ae54c8f4ad97a13c833915cbb1ce428df8652afb7b988b9374f1af00
+size 294

@@ -1,1 +1,3 @@
-Realização de investimentos no setor de turismo pelo Prefeito Wanderson Abraão Benfica, do Município de Bocaina de Minas, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a467bcd8986933719b9769deb23a18e6f2a9349318f32225010648c0db44e8b5
+size 149

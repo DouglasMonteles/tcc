@@ -1,1 +1,3 @@
-Acerto da decisão do Prefeito do Município de Vitória da Conquista, Estado da Bahia, Herzem Gusmão, de retirada de moradores de área de preservação ambiental na Serra do Piripiri. Necessidade de liberação de recursos pelo Ministério das Cidades para construção de moradias para a população afetada pela desocupação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11e9541ed052517171c4fe63d1eb7f366905b34b976d2567de14fccc97000a89
+size 331

@@ -1,1 +1,3 @@
-Imediata adoção pelo Governo Federal de ações para combate aos efeitos da seca na Região Nordeste, especialmente no Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9f158697ab7e85e5e0c0e022027d11a32daa4dbeff64b42d66cb405c2433f20
+size 140

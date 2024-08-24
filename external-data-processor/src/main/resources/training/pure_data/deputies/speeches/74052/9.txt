@@ -1,1 +1,3 @@
-Transcurso de aniversário do Município de Moita Bonita, no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2ec128b1c8e395906c6c3bd364c0bf4f82529fbe5633093cace659cc212305a
+size 79

@@ -1,1 +1,3 @@
-Congratulações aos Deputados Pinto Itamaraty e Professor Sétimo. Aprovação, pela Comissão de Constituição e Justiça e de Cidadania, do projeto de instituição do piso salarial nacional dos professores. Defesa de extensão do percentual do reajuste do salário mínimo às aposentadorias e pensões. Urgente necessidade de realização da reforma urbana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf8085aaec39699fce88add2a870da328f7e819e3691a4c5b9b68f0e52e936e4
+size 363

@@ -1,1 +1,3 @@
-Votos de condolências aos familiares de diretores do Sindicato Único dos Trabalhadores em Educação de Minas Gerais - Sind- UTE/MG falecidos em decorrência de acidente automobilístico. Sucesso do IX Congresso do Sind-UTE/MG.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b408cc4c23745311664a8d8e0a79c35e90c2b0a27284b0aa726ec9650fb453d7
+size 229

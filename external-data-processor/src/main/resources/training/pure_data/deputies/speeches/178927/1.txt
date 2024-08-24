@@ -1,1 +1,3 @@
-Mobilização de professores e servidores públicos do Estado do Paraná contra o Governo Beto Richa. Posicionamento pela ampla investigação, no âmbito da CPI da PETROBRAS, de casos de corrupção na estatal, a partir do Governo Fernando Henrique Cardoso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a70a893c8827a2cc051a1767bb83fa8618484e6e71b4732151aaedd7ec5559d1
+size 258

@@ -1,1 +1,3 @@
-O Deputado discursou na sessão solene em homenagem ao Dia do Servidor Público e ao aniversário de 35 anos do Sindicato dos Servidores do Poder Legislativo Federal e Tribunal de Contas da União — SINDILEGIS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c76bdad7e834a716b931573d43161a47a0b1f9f4b584cb35e3ea88693be5eb7
+size 212

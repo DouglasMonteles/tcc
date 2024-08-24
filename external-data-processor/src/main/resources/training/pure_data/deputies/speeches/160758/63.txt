@@ -1,1 +1,3 @@
-Desinteresse do Governo Federal no combate à corrupção. Protesto contra o adiamento da regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de percentual de recursos à saúde pela União, Estados de Municípios. Pedido de apoio ao projeto de lei sobre a colocação, à disposição do Ministério Público, dos sigilos bancário, fiscal e patrimonial dos detentores de mandato eletivo e de cargos de livre nomeação. Defesa de apuração de denúncias de irregularidades no âmbito do Ministério dos Transportes e do Departamento Nacional de Infraestrutura de Transportes - DNIT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7727dc8fb689508092efe9b7bb6d156c64c73ac767297b6762085e9acd6d5be
+size 613

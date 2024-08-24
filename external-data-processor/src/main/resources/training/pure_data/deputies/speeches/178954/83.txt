@@ -1,1 +1,3 @@
-Aposentadoria do Juiz de Direito, Elci Antônio Dalla Riva, da Comarca de Jaru, Estado de Rondônia. Integridade do magistrado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d01d6776d3fcbedaf9a1701b3cd9c5cd6382243c3b1781b052ec67768dea6f08
+size 127

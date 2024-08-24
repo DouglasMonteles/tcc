@@ -1,1 +1,3 @@
-Apoio a acordos internacionais assinados pelo Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb62c7b5c89a1f0712df4a70dda355f8b5ca1d8b13c60b9000d70e849bdd1737
+size 72

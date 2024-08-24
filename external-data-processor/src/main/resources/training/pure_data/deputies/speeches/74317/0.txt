@@ -1,1 +1,3 @@
-Reunião da Comissão de Finanças e Tributação com o Secretário da Receita Federal do Brasil, Jorge Rachid, para debate das receitas e despesas do Governo Federal no primeiro bimestre de 2008. Urgência no repasse de recursos para os Fundos Constitucionais de Financiamento do Norte, Nordeste e Centro-Oeste e para os Fundos de Participação dos Estados e Municípios. Reunião da bancada da Região Nordeste com o Secretário de Desenvolvimento Econômico do Ministério da Fazenda para debate da reforma tributária. Contrariedade a proposta de extinção do Fundo Constitucional de Financiamento do Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fdd2299f1dae80dc4a873795981356aad91549fadc6c6feb6e94c25206bab9b
+size 616

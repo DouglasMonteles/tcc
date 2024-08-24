@@ -1,1 +1,3 @@
-Carta do Movimento Nacional de Direitos Humanos do Rio Grande do Sul, favorável à ocupação da Presidência da Comissão de Direitos Humanos e Minorias pelo Partido dos Trabalhadores. Matéria Bancos e Polícia Federal traçam Mapa de Risco, de Henriqueta Santiago, publicada pelo jornal Correio da Paraíba. Expectativa de cumprimento de mandados de prisão contra agressores de trabalhadores rurais paraibanos. Indignação diante da impossibilidade de registro, pela vítima do crime, da ocorrência de estupro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e56c334e141e7759692886494df69687fb0037ad6e30b7b74d389794b43857af
+size 517

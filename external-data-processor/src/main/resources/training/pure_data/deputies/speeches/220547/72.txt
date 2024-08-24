@@ -1,1 +1,3 @@
-O Deputado expressou frustração em relação a medidas que impedem o funcionamento de empresas relacionadas ao comércio de armas e clubes de tiro. Argumentou contra a justificativa dessas medidas e criticou a falta de ação em relação ao instrumento que poderia resolver a situação, segundo ele, o Projeto de Lei nº 3.723, de 2019, que altera a Lei nº 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - Sinarm e define crimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39b9729c2a0031d6b11c076e4d93339af667fec3e1219a76250ff9d42097b42f
+size 540

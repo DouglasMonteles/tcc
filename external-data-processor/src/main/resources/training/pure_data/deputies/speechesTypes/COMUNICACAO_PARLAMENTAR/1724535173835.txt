@@ -1,1 +1,3 @@
-Homenagem póstuma ao Reitor da Universidade Federal do Ceará, Ícaro Moreira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93f7df16e48f86b4adcb7dc29f9779f31926b8e5f8713cd760205bbb3eba686
+size 79

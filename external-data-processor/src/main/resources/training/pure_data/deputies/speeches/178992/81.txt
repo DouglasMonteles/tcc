@@ -1,1 +1,3 @@
-Regozijo com a aprovação pelo Senado Federal do Projeto de Lei nº 4.253, de 2020, (Substitutivo da Câmara dos Deputados ao Projeto de Lei nº 559, de 2013, do Senado Fedeal), sobre o estabelecimento de normas gerais de licitação e contratação para as administrações públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios; e a alteração de diplomas legais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cffb94fa9a19deb190a32c6922c4d5ea90a9bde303244efe7f6a951c7cd5301
+size 421

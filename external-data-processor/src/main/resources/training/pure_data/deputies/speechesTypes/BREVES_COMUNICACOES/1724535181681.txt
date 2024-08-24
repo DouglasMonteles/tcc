@@ -1,1 +1,3 @@
-Atuação do Senador Álvaro Dias no Parlamento brasileiro como membro da Oposição. Contrariedade à recriação da Contribuição Provisória sobre Movimentação Financeira - CPMF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aba74635bf4fbd89ba0697bd224d422aa69085139950d2fb69dcf4c3f6087831
+size 184

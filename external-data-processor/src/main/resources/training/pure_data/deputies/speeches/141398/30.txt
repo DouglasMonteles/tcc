@@ -1,1 +1,3 @@
-Posicionamento do PT favorável ao requerimento para tramitação do  Acordo entre a República Federativa do Brasil e a Santa Sé relativo ao Estatuto Jurídico da Igreja Católica no Brasil, assinado na Cidade-Estado do Vaticano, em 13 de novembro de 2008, em regime de urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:882f66f734599b79d966c90ab467aa8086b7636f7a85d9c88bfb0361e3756d2a
+size 282

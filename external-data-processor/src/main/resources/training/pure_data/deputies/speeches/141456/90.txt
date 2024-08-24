@@ -1,1 +1,3 @@
-Realização do II Congresso das Direções Zonais do PT de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfaa10f83939556e357ee5458f5486028e10d6eb41365db062f60e51853c5a33
+size 71

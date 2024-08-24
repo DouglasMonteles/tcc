@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a instituição de área de interesse turístico na região da Usina Hidrelétrica de Chavantes e entorno, nos Estados de São Paulo e Paraná. Inadequação do processo de repovoamento dos peixes nos rios da região pela empresa Duke Energy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf9ac5a61cff7c85e6468eee05190bc9bd98e33cf7911cbce1b8f70d6e52a3f9
+size 281

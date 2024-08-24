@@ -1,1 +1,3 @@
-Questão de ordem sobre a manutenção da Ordem do Dia e a realização de sessão pelo Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:840b5dc2f77008dd84037eea0a8190fd50a610bef91a99ace9e86822c24fff5b
+size 107

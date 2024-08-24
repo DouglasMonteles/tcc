@@ -1,1 +1,3 @@
-Homenagem póstuma aos cidadãos do Município de Guararema, Estado do Paraná, Waldemar Cecin e Waldemar Cecin Filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d5b0aba36c992695892d1acd15eecf35d5ee347cdd45795fcd60c7f376ab79f
+size 118

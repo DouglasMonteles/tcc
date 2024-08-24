@@ -1,1 +1,3 @@
-Coerência do relatório apresentado pelo Deputado Assis do Couto à Medida Provisória nº 410, de 2007.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7503b7403249fbfd115ea835bfdac41064e048f1557ee76b39c6edfd389339f0
+size 105

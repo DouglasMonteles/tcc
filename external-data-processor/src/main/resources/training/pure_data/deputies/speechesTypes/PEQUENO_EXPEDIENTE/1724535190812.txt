@@ -1,1 +1,3 @@
-Solicitação ao Governo Federal de imediato exame de processos de decretação de estado de emergência em Municípios do Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd8d035a6894062fb7968973eba099167625c328f9971bf4466a4daed2f2497a
+size 151

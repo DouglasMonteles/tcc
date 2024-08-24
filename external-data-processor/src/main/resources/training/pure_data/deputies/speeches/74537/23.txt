@@ -1,1 +1,3 @@
-Usurpação, pelo Poder Executivo, da prerrogativa legiferante do Poder Legislativo com a excessiva edição de medidas provisórias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b8429fa2278be37f93abfe4ca39324584c80289a418027265e5ac9f0cd97b2f
+size 133

@@ -1,1 +1,3 @@
-Realização de investimentos empresariais na região noroeste do Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75bd56b42a0761615e3c8c5b448e92f14ee53bb00ce746de1d603e9b3ec78499
+size 83

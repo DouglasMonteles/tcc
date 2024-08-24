@@ -1,1 +1,3 @@
-Realização, pela Comissão de Defesa do Consumidor, de audiências públicas destinadas à discussão da situação do transporte aéreo civil e da implementação do Plano Nacional de Banda Larga.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac894b2b9d37c77e26bfb84f46a8e19f6ff4cf9cb72caed051fa08387002d943
+size 199

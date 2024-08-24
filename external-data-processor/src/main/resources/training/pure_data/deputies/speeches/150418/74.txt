@@ -1,1 +1,3 @@
-Posicionamento contrário do PRB ao Requerimento de discussão artigo por artigo   do Projeto de Lei 7.663 de 2010 (Acrescenta e altera dispositivos à Lei   11.343,   de 2006, para tratar do Sistema Nacional de Políticas sobre Drogas, dispor sobre a obrigatoriedade da classificação das drogas, introduzir circunstâncias qualificadoras dos crimes previstos nos arts. 33 a 37, definir as condições de atenção aos usuários ou dependentes de drogas e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bd82587945d2b77c261048797cda2c40c383f76ebcf928685ee5f3aef57b136
+size 484

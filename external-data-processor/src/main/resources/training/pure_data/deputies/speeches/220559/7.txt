@@ -1,1 +1,3 @@
-Críticas à gestão do Governo Luiz Inácio Lula da Silva. Transcurso do centenário de falecimento do jurista e escritor Rui Barbosa, o Águia de Haia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:489b10dc2eb7a53b9c64eb33a72c1068668d26d5363bfe941e07cb4361b627dd
+size 153

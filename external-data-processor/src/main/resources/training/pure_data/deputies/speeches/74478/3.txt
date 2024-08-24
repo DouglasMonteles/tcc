@@ -1,1 +1,3 @@
-Tramitação na Casa do Projeto de Lei nº 8.918, de 2017, de autoria do orador, sobre a proibição do bloqueio liminar de conta bancária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3194802e42419c2d98e1f6b4fe9133daa278a89052ab1dc999a211758ad215e7
+size 140

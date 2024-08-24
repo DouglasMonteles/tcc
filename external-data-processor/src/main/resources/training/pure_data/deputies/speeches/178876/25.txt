@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-jogador de futebol Fernando Lúcio da Costa, o Fernandão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f03bad7672084b60445e4b3f6590049179843c26ec0a15d4cfec87e6f0b360a0
+size 83

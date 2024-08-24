@@ -1,1 +1,3 @@
-Não manifestação do Ministério das Relações Exteriores sobre a expulsão de freiras brasileiras da Nicarágua pelo Presidente Daniel Ortega. Aliança do Presidente Luiz Inácio Lula da Silva com ditadores da América Latina. Apoio da Esquerda ao aborto e à descriminação das drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6ff065038c1809df3b22368cf9b188a92b4df2f77919f010608883897d3ed6f
+size 291

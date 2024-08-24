@@ -1,1 +1,3 @@
-Importância do contínuo debate no Congresso Nacional sobre a prevenção de desastres naturais. Números alarmantes sobre a ocorrência de desastres nos municípios brasileiros, como tempestades, inundações, ciclones, entre outros, resultando em danos a 2,2 milhões de moradias, com mais de 107.000 completamente destruídas. Necessidade de alocação de recursos para prevenção nos orçamentos. Relevância do Projeto de Lei nº 920, de 2023, sobre alteração das Leis nºs 12.340, de 2010, e 9.605, de 1998, para destinação de parcela das arrecadações de recursos financeiros advindos do pagamento de multas por crimes e infrações ambientais e de acordos judiciais e extrajudiciais de reparação de danos socioambientais para o Fundo Nacional para Calamidades Públicas, Proteção e Defesa Civil (Funcap).
+version https://git-lfs.github.com/spec/v1
+oid sha256:63f6b5dd91f33820e6341f79ec54118b4d67e0a053a3e3708e3fea2b1c061c97
+size 823

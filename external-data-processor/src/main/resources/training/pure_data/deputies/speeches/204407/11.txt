@@ -1,1 +1,3 @@
-Envolvimento de membros do PSL e do Governo Jair Bolsonaro em atos de corrupção. Orientação de bancada na votação do requerimento de destaque para votação em separado do § 7º do art. 12 da Lei nº 12.414, de 2011, contido art. 2º do Projeto de Lei Complementar nº 441, de 2017, sobre os cadastros positivos de crédito e a regulação da responsabilidade civil dos operadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce6d931294c8e49abcb4f52dea811b9f16db122ace38a6ca17175c7e77bca3fa
+size 388

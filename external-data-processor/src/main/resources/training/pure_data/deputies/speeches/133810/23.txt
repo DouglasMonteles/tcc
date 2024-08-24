@@ -1,1 +1,3 @@
-Contrariedade à aprovação da Proposta de Emenda à Constituição nº 45, de 2019, sobre a reformulação do Sistema Tributário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76c0e06ae2f175af98b30186cc065abfc1eeeebd24f7860bd563aac706e7c8e7
+size 141

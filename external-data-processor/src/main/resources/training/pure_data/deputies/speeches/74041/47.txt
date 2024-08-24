@@ -1,1 +1,3 @@
-Vigência da Portaria nº 1.220, de 2007, do Ministério da Justiça, acerca da classificação indicativa da programação das emissoras de televisão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a4e338062bc9c8e82b71f2e00f1401b7cb798a743456824170e4de1f235fefd
+size 152

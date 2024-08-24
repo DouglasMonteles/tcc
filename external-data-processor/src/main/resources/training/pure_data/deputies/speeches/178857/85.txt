@@ -1,1 +1,3 @@
-Importância da pressão popular para a cassação do mandato do então Deputado afastado Eduardo Cunha. Convocação da população brasileira para atuação contra a entrega da exploração de petróleo na camada pré-sal para empresas multinacionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d3259281bc3f8ab6296f08115c379e088d529ad790ce38aa94dfd8fda59df8f
+size 253

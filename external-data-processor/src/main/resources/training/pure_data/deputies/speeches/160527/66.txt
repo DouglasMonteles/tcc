@@ -1,1 +1,3 @@
-Orientação de bancada do PP favorável ao substitutivo da Comissão Especial da Projeto de Lei nº 4.850-A, de 2016, que estabelece medidas contra a corrupção e demais crimes contra o patrimônio público e combate o enriquecimento ilícito de agentes públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fc5d6f1315df3f105c93e82ce939da05cef000aa263c72b4eb6e7557db828ee
+size 266

@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM ao  Requerimento de retirada da pauta da Ordem do Dia da  Medida Provisória 465 de 2009 (Autoriza a concessão de subvenção econômica ao Banco Nacional de Desenvolvimento Econômico e Social  - BNDES, em operações de financiamento destinadas à aquisição e produção de bens de capital e à inovação tecnológica, altera as Leis 10.928 de 2004 e 11.948 de 2009 e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec0c92c2dd625df55278742d0c9c7b45d393bcf7eb5d5a43f1ecdaa3434ff9d4
+size 433

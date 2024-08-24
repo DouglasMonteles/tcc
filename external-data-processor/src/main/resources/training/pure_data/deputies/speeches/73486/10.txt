@@ -1,1 +1,3 @@
-Artigo do Prof. Carlos Roberto Siqueira Castro, da Universidade do Rio de Janeiro, acerca da probidade da acumulação dos cargos de Presidente do PDT e de Ministro do Trabalho e Emprego pelo Sr. Carlos Lupi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f2db78d2c5a930aa29b4d744e76f9ee8571afd7a3dc4f6b8e1f496985a7558f
+size 208

@@ -1,1 +1,3 @@
-Sessão solene de homenagem ao 45º aniversário do Instituto Agronômico do Paraná - IAPAR.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70bda8af25cef4c56319f7780186f5a0aaf2ddfa70626765837fdeb0367216d7
+size 242

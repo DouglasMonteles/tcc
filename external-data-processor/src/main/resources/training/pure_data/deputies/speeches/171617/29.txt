@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional de Apoio às Vítimas de Tortura. Crescimento da violência contra jovens em Alagoas. Necessidade de ação conjunta do Governo Federal e do Governo do Estado para enfrentamento do problema. Associação ao Deputado Rubens Bueno na homenagem ao ex-Presidente da África do Sul Nelson Mandela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27ea2c6dd019832f706b2cd54910c256c8688b980dfe4019ae89b552e25d3e79
+size 324

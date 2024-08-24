@@ -1,1 +1,3 @@
-O Deputado denunciou a morte de Cleriston Pereira no sistema prisional brasileiro, ressaltando-a como uma grave violação de direitos humanos. Destacou que, de 2017 a 2021, 112 mil pessoas morreram em circunstâncias similares, apontando as condições desumanas e o estado inconstitucional do sistema prisional. Criticou a incoerência da extrema direita ao chamar atenção para casos isolados sem buscar melhorias abrangentes. Defendeu a proteção dos direitos de todas as pessoas, independentemente de sua condição, e destacou a desigualdade no tratamento aos apenados. Concluiu reafirmando a importância de garantir direitos no sistema prisional e a valorização de todas as vidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbdeeb75bf67bfa3719d79129cd89dace52ca07ad67b1d0e52d26e321fbfbcb0
+size 692

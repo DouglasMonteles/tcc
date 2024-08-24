@@ -1,1 +1,3 @@
-Importância do fortalecimento da Defensoria Pública para a universalização do acesso à Justiça. Urgente aprovação pela Casa da Proposta de Emenda à Constituição nº 487, de 2005, sobre a competência e atribuições da Defensoria Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0e349a04e2c983ab473c4912391d9edbff5d241e7096286911c6441c5b749c0
+size 250

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista, quanto ao não atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, à Medida Provisória nº 925, de 2020, a respeito das medidas emergenciais para a aviação civil brasileira, diante da pandemia da Covid-19. Votos de plena recuperação da saúde ao Presidente Jair Bolsonaro, infectado pelo coronavírus. Repúdio ao artigo Por que torço para que Bolsonaro morra, publicado pelo jornal Folha de S.Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10afcfcf63c33177a9bf3c3fb911b6ce18161963a5ea26c83f2c2c2ab21447ce
+size 545

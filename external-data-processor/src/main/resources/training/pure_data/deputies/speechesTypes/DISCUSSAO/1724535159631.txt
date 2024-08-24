@@ -1,1 +1,3 @@
-Importância da discussão de pautas de interesse das mulheres. Criação pela Esquerda de guerra de gênero no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7e82a8467817eb4d5a44d7fbd85c3728889b97a830b46a0f887573c9bc4f36c
+size 122

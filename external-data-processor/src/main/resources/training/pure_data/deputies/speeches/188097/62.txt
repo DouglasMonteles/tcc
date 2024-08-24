@@ -1,1 +1,3 @@
-Destaque do Estado do Piauí na produção de energia eólica e solar. Organização financeiro-institucional do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cd399ea4a9dec9d5a81156eeda06047d7cfe407923c2dafba63a2b772d42ac1
+size 120

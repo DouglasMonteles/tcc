@@ -1,1 +1,3 @@
-Não eleição do orador para o cargo de Prefeito Municipal de Várzea Grande, Estado do Mato Grosso. Congratulações ao Prefeito eleito, Kalil Baracat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:169d68be338a791ac4b5c09208c6e43c2f64d40c210e1d13325a939502b27ea0
+size 153

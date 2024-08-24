@@ -1,1 +1,3 @@
-Avaliação positiva da Medida Provisória 535 de 2011 (Institui o Programa de Apoio à Conservação Ambiental e o Programa de Fomento às Atividades Produtivas Rurais; altera a Lei 10.836 de 2004, e dá outras providências). Congratulações à Presidenta Dilma Rousseff e ao Relator Assis do Couto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75da45e082aa49b0601a494e162c7c978d0f6eb81aea4961b14afada291f9b8a
+size 302

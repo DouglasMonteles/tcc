@@ -1,1 +1,3 @@
-Luta do orador pela redução do índice de reajuste de tarifa pela Companhia Energética de Minas Gerais - CEMIG.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5859ce67f91ae82572ce1ddfb261f6253e4c4376e8c4d5603af00d29bf6d39e
+size 114

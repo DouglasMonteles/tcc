@@ -1,1 +1,3 @@
-Perplexidade diante da conduta de Juíza de Direito contrária à realização de aborto legal por menina de 11 anos vítima de estupro no Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:147246981aeb6f971fffecffc1a9b618a04be837e50ff8e9c7436e0dda22cc1c
+size 164

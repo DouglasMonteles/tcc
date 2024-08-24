@@ -1,1 +1,3 @@
-Saudações aos netos do orador e dos Parlamentares. Homenagem póstuma ao ex-Deputado Federal, Walter de Castro; ao Tenente-Coronel da Aeronáutica, Rubens Marques, e ao médico José Roberto Condeli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc11be8628db4c876185ccffb6e6d0b4cc21ec87a40fa320cd7d8250732593fe
+size 201

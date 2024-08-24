@@ -1,1 +1,3 @@
-Agradecimento aos Parlamentares e ao povo alagoano pelas mensagens de solidariedade recebidas em face do falecimento do pai do orador, Sr. Isnaldo Bulhões, Prefeito Municipal de Santana do Ipanema, Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d6a831c563e35790ca40c30def60b0dcf56265a7cb00028d0adfee8963ca095
+size 217

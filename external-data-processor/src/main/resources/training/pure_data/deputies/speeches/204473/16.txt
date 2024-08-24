@@ -1,1 +1,3 @@
-Acompanhamento pelo orador de investigações sobre irregularidades na licitação de contrato de publicidade pela Fundação Norte Rio-Grandense de Pesquisa e Cultura - FUNPEC, vinculada à Universidade Federal do Rio Grande do Norte. Acerto do contingenciamento de gastos públicos pelo Governo Jair Bolsonaro. Esclarecimento sobre o contingenciamento de recursos destinados às universidades federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d93fa2c1abf47249dabad988c9044fddb68c78391eda3cc88b787faa026cc8c4
+size 404

@@ -1,1 +1,3 @@
-Precariedade da malha rodoviária brasileira. Falta de aparelhamento dos órgãos responsáveis pelo policiamento e fiscalização das rodovias no País. Necessidade de implantação, pelo Governo Federal, de programa de renovação da frota caminhões utilizados por trabalhadores autônomos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef54700e9b94eb28a35e5c41e0b0678d567254f69427bcbfd68488fb84864d94
+size 293

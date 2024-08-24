@@ -1,1 +1,3 @@
-Defesa de aprovação do novo texto da proposta de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96cee03e4621590903e5fdef619cb56c0d0f132720cfcc4be50c667f01bf8519
+size 75

@@ -1,1 +1,3 @@
-Necessidade de instalação de CPMI destinada à investigação dos atos antidemocráticos ocorridos no dia 8 de janeiro de 2023 em Brasília, Distrito Federal. Inadmissibilidade do caráter político das prisões de manifestantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d4fc2e3abfb9d60e95df379d65a1f2ed69e7bb97e2d5e9e11b3e6ea42f8ca7b
+size 231

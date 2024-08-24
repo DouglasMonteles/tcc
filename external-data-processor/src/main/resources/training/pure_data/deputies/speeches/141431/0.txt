@@ -1,1 +1,3 @@
-Crescimento econômico do País. Realização de acordo entre governistas e a Oposição para a abertura da CPMI destinada à investigação de denúncias de irregularidades na utilização de cartões corporativos por membros do Governo Federal. Imediata votação de medidas provisórias constantes na pauta da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d9f04381806d2f48428312d051fe64630d3ecab1683f3ae8c94aa518f1b5df6
+size 318

@@ -1,1 +1,3 @@
-Realização pela Comissão de Turismo e Desporto do II Fórum Legislativo das Cidades-Sede da Copa do Mundo de Futebol de 2014 em Recife, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84c48419c8558de218fa6c09d0288ce4d73fae1453c04251e1795904e225cc85
+size 160

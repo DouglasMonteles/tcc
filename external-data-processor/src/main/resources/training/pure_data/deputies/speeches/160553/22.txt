@@ -1,1 +1,3 @@
-Assinatura de tratado de irmandade entre as cidades de Salvador, no Estado da Bahia, e Boké, na Guiné Conakry. Transcurso do Dia Nacional de Zumbi e da Consciência Negra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c68860bd1611ed6c1046412cde999bfa68da5aa84a43d2031d639e8c1728a0bd
+size 173

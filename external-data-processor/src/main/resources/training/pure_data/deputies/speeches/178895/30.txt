@@ -1,1 +1,3 @@
-Escalada da violência no País. Posicionamento favorável à revogação do Estatuto do Desarmamento. Urgência de reforma do sistema prisional brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83e540de20c3cfc35732f4faf50348eac7ef4c38dbf5aedb2bb525a9fbbe321e
+size 156

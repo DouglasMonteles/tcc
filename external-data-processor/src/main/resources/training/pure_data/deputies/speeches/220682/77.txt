@@ -1,1 +1,3 @@
-O Deputado mencionou a delação de um empresário, firmada com o Ministério Público do Paraná, envolvendo propina ao Deputado Estadual Ademar Traiano, Presidente da Assembleia Legislativa do Paraná. No episódio, a imprensa teria sido proibida, por determinação de uma juíza, de divulgar as informações sob a justificativa de sigilo. O Parlamentar criticou a censura, enfatizou a garantia constitucional da liberdade de imprensa e a necessidade de informações de interesse público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:289154077f4b0271de3e5e39e10b3a6175b449000f64fcfba6c18bf9f433d671
+size 494

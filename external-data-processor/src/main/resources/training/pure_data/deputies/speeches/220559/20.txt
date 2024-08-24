@@ -1,1 +1,3 @@
-Desrespeito ao voto popular e à democracia revelado na cassação do mandato parlamentar do Deputado Deltan Dallagnol pelo Tribunal Superior Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f76150463ec9474dd417f381aa937c10e834978c1e1fd08ffb14ed8186ed18c4
+size 152

@@ -1,1 +1,3 @@
-Aplausos ao Governador do Estado do Rio de Janeiro, Wilson Witzel, pela extinção da chamada máfia dos reboques, esquema de corrupção montado por policiais militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59b2ae63740ef03e1c8eed8d44124464c626d69883417ab0d8bb8f562e83c2ab
+size 170

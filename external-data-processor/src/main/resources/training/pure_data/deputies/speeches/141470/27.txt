@@ -1,1 +1,3 @@
-Ação das autoridades competentes contra a usurpação da marca Rapadura pela empresa alemã Rapunzel Inc. Encaminhamento, pela Comissão de Cultura da Ordem dos Advogados do Brasil - Seção Ceará, de correspondência ao Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN para registro da rapadura como patrimônio imaterial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8831824ec2a39227828b47188ff29acfdbaa22048a36a5b91931f6e060cc3cb
+size 343

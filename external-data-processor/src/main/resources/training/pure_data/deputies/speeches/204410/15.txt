@@ -1,1 +1,3 @@
-Emissão de parecer à Medida Provisória nº 934, de 2020, sobre o estabelecimento de normas excepcionais relativas ao ano letivo da educação básica e do ensino superior, decorrentes das medidas de enfrentamento da situação de emergência de saúde pública constantes na Lei nº 13.979, de 2020, e às Emendas de nºs 1 a 229, apresentadas conforme o caput do art. 3º do Ato Conjunto das Mesas da Câmara dos Deputados e do Senado Federal nº 1, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3c89efa720cda103a6c9bf064d321feea48d6dd16394e21c99dd40e4f21bcfc
+size 462

@@ -1,1 +1,3 @@
-Realização da Festa da Leitoa no Tacho ao ensejo do transcurso do 55º aniversário de criação do Município de Lobato, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1c255b2301d4c150d1fa51583d8a77c42c68e0207f261bbfd7bc10250cad43a
+size 142

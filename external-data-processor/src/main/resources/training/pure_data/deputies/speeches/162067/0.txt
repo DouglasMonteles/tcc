@@ -1,1 +1,3 @@
-Compromisso de atuação em defesa do Estado brasileiro e do Governo Luiz Inácio Lula da Silva. Solidariedade às populações atingidas por enchentes em São Paulo e sua Região Metropolitana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65a78b416894867a9cddd3b4bde0074610020fac747d40a8cd399ebfbbf5ff1a
+size 194

@@ -1,1 +1,3 @@
-Concessão de audiência ao orador pela Ministra da Agricultura, Pecuária e Abastecimento. Convite à Titular da Pasta para visita ao evento Rondônia Rural Show.  Empenho do Parlamentar na regularização de terras dos pequenos produtores rurais rondonienses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1b63619f8465b10e24d0c91d1f0c093e1a79c83c6d65b8e4c853631e699ba83
+size 261

@@ -1,1 +1,3 @@
-Promoção, pelo Governo Luiz Inácio Lula da Silva, de ações destinadas à inclusão social e combate à fome.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba9b6b651227e0105fc95a1a887eeb16bfeb6ae4d2d8466f31676be333f6f4b6
+size 113

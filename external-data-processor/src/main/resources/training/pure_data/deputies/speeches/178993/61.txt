@@ -1,1 +1,3 @@
-Empenho do orador na redução da tarifa de energia elétrica no Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86f426c99d559883ef076753a1ad3ced37141aedf23b6eb935e87a2339740195
+size 85

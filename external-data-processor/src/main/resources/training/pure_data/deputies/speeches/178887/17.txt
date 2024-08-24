@@ -1,1 +1,3 @@
-Impetração de mandado de segurança junto ao Supremo Tribunal Federal para sustação do trâmite da Proposta de Emenda à Constituição nº 171, de 1993, sobre a imputabilidade penal do maior de dezesseis anos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e42da73b08344b9bc7ad5d0d5bd6292c771fbe6abea8fd0d74923f1e9369f702
+size 214

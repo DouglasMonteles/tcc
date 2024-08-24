@@ -1,1 +1,3 @@
-Encaminhamento, ao Ministério da Economia, de requerimento de informações a respeito do montante de recursos economizados com a reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d32d2ee1350450cd6a103f5b6747e7283535d58a622d0ed649fdb0732d631a7e
+size 162

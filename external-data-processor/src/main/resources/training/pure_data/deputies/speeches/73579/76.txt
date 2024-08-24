@@ -1,1 +1,3 @@
-Requer a adoção, pela Procuradoria Parlamentar, de providências acerca da divulgação em  blog de matéria intitulada A Casa da Mãe Joana, ofensiva à Câmara dos Deputados e aos parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e5dae0b1a49d429e6709d6c65b17a8c7483826184a559b192e861778b6b76b9
+size 198

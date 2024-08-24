@@ -1,1 +1,3 @@
-Anseio do povo brasileiro pela realização de eleições diretas já. Fracasso do Governo Michel Temer. Imediata apreciação pela Casa de pedidos de impeachment do Presidente da República. Oposição do orador à pauta da base governista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6baebbeab0ac29f0b6f9764d297a74627713bdce8a59cb2c59fe884ac8465c0c
+size 241

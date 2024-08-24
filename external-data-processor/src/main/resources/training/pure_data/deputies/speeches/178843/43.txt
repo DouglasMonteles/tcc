@@ -1,1 +1,3 @@
-Omissão do Ministro do Meio Ambiente, Ricardo Salles, sobre o vazamento de petróleo cru no litoral da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33f3c93281e6d48d59e9d7a511e13cdb7044ead14bfdf0fb4e717184d408d107
+size 121

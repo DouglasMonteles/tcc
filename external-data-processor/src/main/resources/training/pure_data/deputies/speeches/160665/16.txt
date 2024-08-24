@@ -1,1 +1,3 @@
-Apresentação de projeto de lei acerca da definição de responsabilidades pela realização de vistorias periciais e de manutenções periódicas nas edificações autônomas, públicas ou privadas, no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:027d315128fe53fd8fa09cd7328e08cb729876b615193c02d8bad1e16e6b5ec0
+size 210

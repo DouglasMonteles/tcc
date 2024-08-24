@@ -1,1 +1,3 @@
-Posicionamento da Frente Parlamentar Mista da Agricultura Familiar contrário à extinção do Ministério do Desenvolvimento Agrário. Pedido aos Parlamentares de apoio ao trabalho do Ministério do Desenvolvimento Agrário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6180733202ef7cd423a808452dcb39bcec5e3bfa373434630c97489ecb05e628
+size 225

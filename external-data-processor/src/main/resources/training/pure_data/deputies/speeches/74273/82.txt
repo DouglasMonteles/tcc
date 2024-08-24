@@ -1,1 +1,3 @@
-Aplausos ao Governo do Estado de São Paulo pela restrição à prática de tabagismo em locais fechados de uso coletivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28b7fa563c7b245fb41e6bbe60d2180b213850b7db0ce99afc39b73c12d3643f
+size 121

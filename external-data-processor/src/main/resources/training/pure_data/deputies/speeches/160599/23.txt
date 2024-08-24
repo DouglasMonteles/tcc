@@ -1,1 +1,3 @@
-Conclamação aos Deputados para o exercício da moderação na apreciação de propostas em tramitação na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ec1b66952e2c44257574bd0a7e771209f423401740603e3939301b5bcd38db9
+size 114

@@ -1,1 +1,3 @@
-A Deputada declarou que a Minoria e a Frente Parlamentar da Agropecuária estavam em obstrução. Na ocasião, reforçou as críticas ao Supremo Tribunal Federal por interferir em competências legislativas e defendeu a propriedade produtiva privada. A Parlamentar também mencionou incidente de invasão à propriedade da família do Deputado Pedro Lupion.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d019cf4e162f5a7900c8088fa1ce763697845ecd8e77428e81ab82f8646cdeb7
+size 357

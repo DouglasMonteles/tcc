@@ -1,1 +1,3 @@
-Êxito de ações contra a tentativa de golpe de Estado ocorrida em Brasília, Distrito Federal, no dia 8 de janeiro de 2023. Investigação pelo Poder Judiciário dos patrocinadores políticos e econômicos dos atos terroristas ocorridos na referida data. Posicionamento em defesa da democracia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14c0d5c380afdaf25cd2d1de52cf4b94e64fcf464d61756af4c500604bce9226
+size 307

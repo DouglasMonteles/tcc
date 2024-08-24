@@ -1,1 +1,3 @@
-Transcurso do 270º aniversário de fundação do Município de Luziânia, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55f717545508d750232e8dfc756e3e75c3dcb50d59c654bc3a68d59390914e9a
+size 92

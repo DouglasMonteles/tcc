@@ -1,1 +1,3 @@
-Apreensão do orador ante a apresentação, por meio de vídeos, por Durval Barbosa, ex-Secretário de Relações Institucionais do Distrito Federal, de novas denúncias de corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f174486cc95aa315b8e009bad62ed297f1a5221bf58b193843e9448ba6fd383e
+size 185

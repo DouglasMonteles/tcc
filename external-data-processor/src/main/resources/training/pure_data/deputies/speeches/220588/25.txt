@@ -1,1 +1,3 @@
-Protesto contra a invasão de propriedades rurais produtivas pelo Movimento dos Trabalhadores Rurais Sem Terra - MST. Criação da CPI do MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52e79d08b882c294dd3c14a1853df325dbaf31d9f923c1b5f12bc2034f5724db
+size 142

@@ -1,1 +1,3 @@
-Urgente necessidade de adoção pelo Governo Federal, em conjunto com o Governo do Estado do Maranhão e a Secretaria Nacional de Defesa Civil, de ações efetivas em prol das municipalidades atingidas por enchentes. Contentamento com a publicação, pelo Supremo Tribunal Federal, da certidão de trânsito em julgado de recurso rejeitado pela Egrégia Corte, interposto pela ex-Prefeita Maria Deusdete de Lima, do Município de Centro do Guilherme, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:272014816689fbeba3bb1c7f1ede1f7b4b0db8ddc4c735ffaec83d2f727eb260
+size 471

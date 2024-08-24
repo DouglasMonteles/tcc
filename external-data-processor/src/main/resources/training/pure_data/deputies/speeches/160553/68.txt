@@ -1,1 +1,3 @@
-Realização, por representantes das Santas Casas de Misericórdia e hospitais filantrópicos, de reunião destinada ao debate do reajuste da tabela de procedimentos do Sistema Único de Saúde - SUS, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99e969126cd70c632c18d345b9a922e2ff8588e67e2f0a5074d9d5cc19c544eb
+size 232

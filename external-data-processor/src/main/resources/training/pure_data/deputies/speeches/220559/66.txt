@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do Caput do art. 30-A, da Medida Provisória nº 1.187, de 2023, que cria o Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:836623b47196fbf2c933d418c17f535acc2679b87e2a2b7dbfd44b446e66ceb0
+size 198

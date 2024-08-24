@@ -1,1 +1,3 @@
-Congratulações à Deputada Luiza Erundina pela iniciativa de ampliação da participação feminina na política. Elogio à condução dos trabalhos da Casa pelo Presidente Eduardo Cunha. Valorização da bancada feminina do PMDB sob a Liderança do Deputado Leonardo Picciani.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79236e596261acffc4d68ee9528e3a743b6199462a6a31a0d18887e5713291cb
+size 279

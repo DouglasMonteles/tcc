@@ -1,1 +1,3 @@
-Realização da V Bienal do Livro de Itabaiana, no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9467031ed887c944163f3bdd3a9dacd061c542f467d519c19afc16ec14c0ba70
+size 69

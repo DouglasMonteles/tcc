@@ -1,1 +1,3 @@
-O Deputado parabenizou o 192º aniversário de emancipação político-administrativa do Município de São José do Norte (RS). Destacou a importância da agricultura familiar, do setor pesqueiro e do Estaleiro do Brasil na região. Expressou apoio à retomada do desenvolvimento econômico e social na área, elogiando a determinação e contribuição do povo nortense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ea8107df5eb512eeac7ead14bc430e993c7f5d135b7a4b051aa94cf41b8b858
+size 372

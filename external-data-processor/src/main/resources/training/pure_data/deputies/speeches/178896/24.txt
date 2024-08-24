@@ -1,1 +1,3 @@
-Presença na Casa da ex-Deputada Maria Lúcia Cardoso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6a6fe6903abaecf34de76e6d327b8667e73b86b653d09504c84ce8d85a6d306
+size 54

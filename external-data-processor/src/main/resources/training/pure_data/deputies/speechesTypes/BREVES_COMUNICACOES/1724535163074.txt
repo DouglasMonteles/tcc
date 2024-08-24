@@ -1,1 +1,3 @@
-Transcurso do 15º aniversário de implantação do Plano Real no País. Contribuição do Plano para a estabilização e o crescimento da economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0df65fc189fcb9e2060f17adae148282ddd69bcbbf89af445d0d4eac779b8423
+size 159

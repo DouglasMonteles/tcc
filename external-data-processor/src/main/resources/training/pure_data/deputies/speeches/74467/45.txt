@@ -1,1 +1,3 @@
-Regozijo com a posse do Senador Cássio Cunha Lima, em decorrência de decisão do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8211c76e29d07bc241f19713fdbbb14c443991473118daf4a153949121cdb78f
+size 108

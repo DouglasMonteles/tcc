@@ -1,1 +1,3 @@
-O Deputado anunciou a aprovação do Requerimento nº 140, de 2023, na Comissão de Minas e Energia, de autoria do Deputado Benes Leocádio, que ele coassinou. O requerimento propõe uma audiência pública para discutir a distribuição de energia solar fotovoltaica no Brasil, especialmente no sistema integrado. O orador ressaltou as queixas dos consumidores, em particular no Estado do Pará, sobre as dificuldades de acesso à conexão desse sistema limpo e já regulamentado pelo Congresso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:886d83b48f1317573d37b34c444653dc39939896600546764bb2fd1ab9c8f63f
+size 496

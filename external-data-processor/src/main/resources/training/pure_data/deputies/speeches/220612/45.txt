@@ -1,1 +1,3 @@
-Anúncio de realização do VII Festival Internacional do Chocolate e Cacau da Bahia, no Município baiano de Ilhéus. Oportunidade de associação de produtores, industriais e pesquisadores para debate da verticalização da atividade industrial, de importância para a economia da região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79f424331bf6c78485c1a6d4d24fb7f34a89b7c5c933dd394e9b98862643da76
+size 291

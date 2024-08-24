@@ -1,1 +1,3 @@
-Constrangimento de Deputados apoiadores do impeachment da ex-Presidente da República, Dilma Rousseff, quanto ao apoio à cassação do mandato do Deputado afastado, Eduardo Cunha. Proteção do Parlamentar pelo Presidente da República, Michel Temer. Defesa da reestruturação do Plano Especial de Cargos do Ministério da Fazenda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aad32ab84b407c8872b99d66d804201f91b24f5d68b20e3237dd352216514ca
+size 333

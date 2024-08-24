@@ -1,1 +1,3 @@
-Congratulações ao Governador do Estado do Maranhão, Flávio Dino, pelo lançamento do Pacto Estadual pela Aprendizagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:173267f356d36c234d1d59cf811ce074af54001e806b66f7d13230e6146fcf0c
+size 122

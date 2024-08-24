@@ -1,1 +1,3 @@
-Diversidade racial e cultural em manifestações em defesa da Constituição Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d89bc620ec2b43a7b1e736487e6080d0c80f1d506d819555f119da71f60fbf11
+size 85

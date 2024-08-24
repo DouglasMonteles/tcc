@@ -1,1 +1,3 @@
-O Deputado elogiou o Governador Cláudio Castro por reforçar a segurança no Rio de Janeiro com a entrega de 218 viaturas semiblindadas. Destacou o compromisso do Governador com os profissionais fardados e a população, ressaltando sua reeleição no primeiro turno. Reconheceu, ainda, a atuação do Deputado Federal Capitão Guilherme Derrite como Secretário de Segurança do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8f48f0fcb0ffb09fc07fdfd22152c72db2d8eb9cd21825d65d6d8e971fa1d6b
+size 402

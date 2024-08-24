@@ -1,1 +1,3 @@
-Pedido ao Ministro da Fazenda, Fernando Haddad, de prorrogação do prazo de custeio de financiamento concedido aos produtores brasileiros de leite. Defesa de realização, pelo Governo Federal, de compra pública de leite para reversão da crise por que passa o setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d985d4a2e533f64ad53c5bda174ad61addf4ba4a96989ce3bc341491fffaea7
+size 269

@@ -1,1 +1,3 @@
-Discussão do Projeto de Decreto Legislativo 431-B, de 2016, sobre a aprovação do texto do Acordo de Previdência Social entre o Governo da República Federativa do Brasil e a Confederação Suíça, assinado em Brasília, em 3 de abril de 2014. Repúdio às acusações de Deputado petista contra correligionário do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04961e2c6dec5d8f4cd026b0c1798e80563ae91ba676534e296711d5bc511d94
+size 327

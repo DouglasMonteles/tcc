@@ -1,1 +1,3 @@
-Vista, à Casa, do cirurgião cardiovascular Vismário Camargo de Freitas, Diretor do Conselho de Administração do Hospital Regional do Sul de Minas, no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6d34ec8e1872a465264083ec90cb0ee82fe1f46f231d4567a1ecfafb4e1818f
+size 178

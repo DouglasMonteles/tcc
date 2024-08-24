@@ -1,1 +1,3 @@
-Defesa, pelo partido Novo, da aquisição de vacinas contra a Covid-19 pela iniciativa privada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7622f259155ef9d322f4f2740d90100cdbd2580c607e2ad7c5202ab5a9319eee
+size 95

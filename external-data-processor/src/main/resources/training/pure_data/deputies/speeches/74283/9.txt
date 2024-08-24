@@ -1,1 +1,3 @@
-Posicionamento favorável do PT ao parecer pela admissibilidade da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação – EBC, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c29b93c504f5d13cdcdce3f23d7bfe4f167421eaa9c057efc29787baeafe8d9
+size 377

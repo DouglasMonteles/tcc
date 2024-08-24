@@ -1,1 +1,3 @@
-Exigência de investigação do desaparecimento dos professores indígenas Olindo Verá e Genivaldo Verá, do Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:503ce692b56dee742459834bdf1e435b481fa79b75c85c4523e44d9b1f71de87
+size 139

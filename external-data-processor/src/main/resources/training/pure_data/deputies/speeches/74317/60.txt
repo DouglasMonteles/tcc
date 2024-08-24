@@ -1,1 +1,3 @@
-Realização, pela Secretaria do Tesouro Nacional, de depósito de créditos especiais nas contas de Prefeituras Municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ec3d2055b85bed89098c8e43e63fbe10c1f9fbbd887264663ff4b5f3136298a
+size 124

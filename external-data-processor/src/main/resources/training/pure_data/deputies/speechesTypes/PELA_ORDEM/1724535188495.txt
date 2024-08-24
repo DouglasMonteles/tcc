@@ -1,1 +1,3 @@
-Reparos à manifestação do Deputado Miro Teixeira com relação à  Emenda Plenário 2, destacada, à Subemenda Substitutiva Global de Plenário ao Projeto de Lei 4.361 de 2004 (Declara os Centros de Inclusão Digital - CID (Lan Houses), relativa à exigência de cadastro com dados pessoais e endereço de usuários de Lan Houses .
+version https://git-lfs.github.com/spec/v1
+oid sha256:40e2e4621711968e5bd0b1d0b12d092eaaf214d0b3a1d8d7e4563df23e6e8e7f
+size 334

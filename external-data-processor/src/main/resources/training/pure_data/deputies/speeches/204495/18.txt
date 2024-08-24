@@ -1,1 +1,3 @@
-Desistência de médicos brasileiros de ocupação de vagas no Programa Mais Médicos. Pedido à Presidência de adoção de providências a respeito da omissão, pelo Ministro da Saúde, na resposta ao requerimento de informações do orador sobre a situação do Programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e0be3b95ffa252c43d08022746796421917bb4e0ded972bcf4ac08673036338
+size 274

@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional do Vigilante. Expectativa de aprovação pelo Senado Federal do Projeto de Lei nº 4.238, de 2012, sobre alteração da art. 19 da Lei nº 7.102, de 1983, para disposição sobre o piso nacional de salário dos empregados em empresas particulares de serviços de vigilância e transporte de valores (Estatuto da Segurança Privada). Apoio a proposições legislativas de interesse da categoria dos vigilantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:357576e1245f01a2d1f9b54d0a6da0bd3665918b65e135960fe7019d531f48a3
+size 436

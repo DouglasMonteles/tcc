@@ -1,1 +1,3 @@
-Contingenciamento de recursos orçamentários da educação brasileira. Falta de condições morais da Esquerda para debate de questões pertinentes ao setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:764420c6afcad07f4684ac985a1163c73286780131cae058002de265f5d4eecd
+size 170

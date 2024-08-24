@@ -1,1 +1,3 @@
-Transcurso do 163º aniversário de emancipação político-administrativa do Município de Rio Verde, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d76077d16762388eecb2dd0a94a42e11e5527843866562eb834bd9074f2ea413
+size 120

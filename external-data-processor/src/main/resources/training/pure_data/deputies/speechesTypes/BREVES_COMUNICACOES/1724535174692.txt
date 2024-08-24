@@ -1,1 +1,3 @@
-O Deputado parabenizou os colegas do Maranhão que assumiram recentemente seus mandatos na Câmara dos Deputados. Destacou o Programa Maranhão Zero Catarata, que busca devolver a visão à população, especialmente aos idosos. O Deputado enfatizou a importância de garantir o direito de todos a uma visão saudável e mencionou também um mutirão de ortopedia para atender a população na fila de espera por procedimentos cirúrgicos. Ele expressou seu comprometimento em cuidar do povo do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8a8a8d4fee1e6b1ad51bbf79e00360383f54728f9542e73d9eb805a4592c79e
+size 505

@@ -1,1 +1,3 @@
-Homenagem ao campeão olímpico de vôlei de praia, Emanuel Rego. Perplexidade ante a sua exoneração do cargo de Secretário Nacional de Esportes. Apelo ao Presidente Rodrigo Maia de inclusão na pauta do Projeto de Lei nº 2.824, de 2020, sobre as ações emergenciais destinadas ao setor esportivo, durante as medidas de isolamento social estabelecidas de acordo com a Lei nº 13.979, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:892699563e88af5b1670329063090cce672c87d1907b9ad1458e5b0503ef0c13
+size 397

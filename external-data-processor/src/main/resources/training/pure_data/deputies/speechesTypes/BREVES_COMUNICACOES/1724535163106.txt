@@ -1,1 +1,3 @@
-Avaliação crítica dos cortes procedidos pelo Relator do Orçamento da União para 2008, Deputado José Pimentel, em decorrência da rejeição da prorrogação da CPMF. Impropriedade da destinação de recursos no Orçamento para obras com indícios de graves irregularidades constatados pelo TCU. Ponderações sobre usurpação pelo Executivo de prerrogativa do Congresso Nacional na edição de Medidas Provisória relativas à abertura de créditos extraordinários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e082a1c252d764d7ad91858b0df3ccd6e1a94f9d8e9085cfe8ff90b0344fe8f1
+size 473

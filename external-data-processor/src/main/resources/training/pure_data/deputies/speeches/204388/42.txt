@@ -1,1 +1,3 @@
-Realização, pela Comissão de Ciência e Tecnologia, Comunicação e Informática, de audiência pública para debate de tecnologias de reconhecimento facial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:166a0afcc8a3162cee3bc24c7a700dc9bd299f74859586c1c43e8c19047acc14
+size 160

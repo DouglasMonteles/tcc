@@ -1,1 +1,3 @@
-Precariedade do Hospital Monsenhor de Carvalho Daltro, sediado no Município de Lagarto, Estado de Sergipe. Não funcionamento do Hospital Nossa Senhora da Conceição, instalado na municipalidade. Apelo ao Ministério da Saúde e à Empresa Brasileira de Serviços Hospitalares - EBSERH, de providências a respeito da carência de serviços médico-hospitalares na região centro-sul sergipana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3dbc0e36dc93ed7fff3661e0f6a74eab21d9cf800a3180567a6743685f15ac8
+size 396

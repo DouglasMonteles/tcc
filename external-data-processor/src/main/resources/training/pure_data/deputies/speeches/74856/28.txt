@@ -1,1 +1,3 @@
-Transcurso do 349º aniversário de fundação do Município de Paraty, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31a4b8f2c4196f114acf334a1e2b1bffaa24987eb071c16b2231f77d0ffe082b
+size 97

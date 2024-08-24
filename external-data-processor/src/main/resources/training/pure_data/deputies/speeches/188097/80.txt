@@ -1,1 +1,3 @@
-Contrariedade à privatização da empresa Petróleo Brasileiro S/A - PETROBRAS e das Centrais Elétricas Brasileiras S/A - ELETROBRAS. Importância das empresas estatais para o desenvolvimento de fontes alternativas de energia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a31e8a2404ab5fc550ce25b17dedfa3187e509fe7ff5bcd718605aa72b602c7
+size 228

@@ -1,1 +1,3 @@
-Empenho na disponibilização de vacina contra a febre amarela para toda a população capixaba. Publicação pelo Diário Oficial da União de contratação de empresa para elaboração dos projetos básico e executivo das obras de implementação e pavimentação da complementação do contorno da BR-482 no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2c03b083be2bb0e132eee2902226c596b54668c50c98516431eefa32de9dc2c
+size 376

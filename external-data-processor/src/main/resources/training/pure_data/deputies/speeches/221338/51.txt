@@ -1,1 +1,3 @@
-A Deputada manifestou solidariedade à ONG Preservar e à ambientalista Adriana Abelhão após um atentado com incêndio criminoso em sua sede. Condenou a violência contra defensores dos direitos humanos e anunciou medidas para acionar autoridades estaduais e federais em busca de uma investigação rigorosa do incidente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33390c80e84afed3ce7c311294d8f175392afee40033c31593ab3a0761a02eb9
+size 323

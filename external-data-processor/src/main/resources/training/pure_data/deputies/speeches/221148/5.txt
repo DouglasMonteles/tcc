@@ -1,1 +1,3 @@
-Protesto contra os sucessivos ataques desferidos por Deputados oposicionistas contra o PT e o Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f02c2ea89a8877dba1887fee503aa7f11451a853295d0394a72c504f71c510a1
+size 132

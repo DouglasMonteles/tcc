@@ -1,1 +1,3 @@
-Adoção do modelo brasileiro de voto eletrônico por outros países da América Latina. Oportunidade de aprovação da proposta do Deputado Jair Bolsonaro de relativa à impressão do voto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:684e0622cc9a329a0b266cec1e5f51bad606a51aee23af29a9e17d85a66e5bad
+size 190

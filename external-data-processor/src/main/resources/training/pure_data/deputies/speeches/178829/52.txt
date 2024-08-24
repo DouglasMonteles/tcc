@@ -1,1 +1,3 @@
-Estatística de mortes por violência no País. Expectativa da população brasileira de aprovação pela Casa de proposta de emenda à Constituição que dispõe sobre a redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ea37425ace95ac5e455a179e11e9a500176a923842badd28310128cf47a32b7
+size 201

@@ -1,1 +1,3 @@
-Razões de pronunciamentos do orador a respeito das gestões do Prefeito Municipal de São Paulo, Ricardo Nunes, e do Governador do Estado de São Paulo, Tarcísio Gomes de Freitas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e5a041f4cc7404525da7750723a77241922a38542402224503a793c9664ec09
+size 181

@@ -1,29 +1,3 @@
-{
-  "dados" : [ {
-    "dataHoraInicio" : "2023-09-13T16:16",
-    "dataHoraFim" : null,
-    "uriEvento" : "",
-    "faseEvento" : {
-      "titulo" : "Breves Comunicações",
-      "dataHoraInicio" : null,
-      "dataHoraFim" : null
-    },
-    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
-    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F9%2F2023&txPagina=79&txSuplemento=&enviar=Pesquisar",
-    "urlAudio" : null,
-    "urlVideo" : null,
-    "keywords" : "Recessão econômica,Desemprego,avaliação negativa,preocupação,Psicologia comportamental",
-    "sumario" : "O Deputado alertou sobre a presença do que classifica como uma praga na sociedade: os agoureiros. Esclareceu que são pessoas que profetizam derrota, tragédia e pessimismo constantemente, disseminando o medo e a preocupação. Fez um chamado àqueles que desejam um Brasil melhor, pedindo que não deem ouvidos às previsões negativas. O orador enfatizou a necessidade de focar no crescimento e no avanço do País, em oposição às vozes que constantemente propagam o pessimismo.",
-    "transcricao" : "O SR. FÁBIO TERUEL (Bloco/MDB - SP. Sem revisão do orador.) - Obrigado, Sr. Presidente. Eu serei breve. Eu uso este microfone com responsabilidade para alertá-los sobre uma praga que invadiu a nossa sociedade, a qual precisamos combater com seriedade. Nós vemos essa praga em todos os cantos e lugares. Nós vemos essa praga atacando as pessoas em todos os momentos. Essa é uma praga que traz pânico, medo, e espalha preocupação. É uma praga chamada agoureiro. O agoureiro é aquele que abre a boca para profetizar derrota, tragédia e apenas pessimismo. É aquela pessoa que vive espalhando: \"O Brasil vai quebrar\", \"Vamos entrar em recessão\", \"O desemprego vai aumentar\", \"Não existe chance mais para o Brasil\". Então, nós que somos pessoas do bem, que lutamos por um Brasil que quer crescer e avançar, por um Brasil melhor, precisamos ficar alertas em relação aos agoureiros, fechando os ouvidos para essas pessoas, que são profetas do apocalipse. Gente do bem, este é o convite que eu faço. Gente do bem, gente que preserva, gente que luta por um Brasil melhor, por um Brasil sempre avançando, vamos combater não apenas fake news, mas também a fake zunzunzum. Cuidado com os agoureiros de plantão! Obrigado, Presidente."
-  } ],
-  "links" : [ {
-    "rel" : "self",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220653/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
-  }, {
-    "rel" : "first",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220653/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  }, {
-    "rel" : "last",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220653/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  } ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:faf585f60e10d5342fe411153ce63219c853a11dd97bd9b9ea25b22a1cb9de98
+size 2932

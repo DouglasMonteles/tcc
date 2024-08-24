@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Visão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b01ec54cb2a469120b73eeed522c58fd53bd225ca7898bb0a1c587cc2ce1a793
+size 36

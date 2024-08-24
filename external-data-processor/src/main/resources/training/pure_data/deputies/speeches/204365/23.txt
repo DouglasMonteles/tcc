@@ -1,1 +1,3 @@
-Orientação de bancada na votação de requerimento de destaque para votação em separado do art. 20 da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma previdenciária, com vista à sua supressão, na votação da matéria em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a8419253e862cb9cbca8e8e3521e0d2a4cd2a1ff287fbe697d6763e69660f4c
+size 263

@@ -1,1 +1,3 @@
-Competência administrativa do engenheiro Sergio Gaudenzi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd138b58b8f299324fc36eb90115e603776033d30c2141e9f83f75504a5a798c
+size 58

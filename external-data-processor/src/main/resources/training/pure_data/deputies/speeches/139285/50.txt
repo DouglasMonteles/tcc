@@ -1,1 +1,3 @@
-Instituição pelo Governador do Estado da Bahia, Jaques Wagner, de grupo de trabalho destinado à localização e abertura de arquivos da ditadura militar. Necrológio do teatrólogo Augusto Boal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e096082b8c49d3de56c2cb8ec899a5fe294c415027ab71838cd04acac4d0ac3
+size 197

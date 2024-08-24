@@ -1,1 +1,3 @@
-A Deputada leu o parecer elaborado pela Deputada Iza Arruda ao Projeto de Lei nº 3.436, de 2021, que altera a Lei nº 9.797, de 6 de maio de 1999, para incluir a garantia de assistência fisioterapêutica aos pacientes submetidos a cirurgia de mastectomia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b415af2a6385aaacb65547e0785de03e895f6b49e3f29802ac486ae9e1a2417
+size 257

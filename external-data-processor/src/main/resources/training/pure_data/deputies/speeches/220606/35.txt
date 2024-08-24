@@ -1,1 +1,3 @@
-Transcurso do Dia do Gari. Defesa de aprovação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 7.687, de 2017, sobre o estabelecimento de sanções à discriminação contra profissionais de limpeza pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:295d17e1dbe01c2b15ed2481ca3a9970e929b1914edfe589c6bed383a0ddd077
+size 239

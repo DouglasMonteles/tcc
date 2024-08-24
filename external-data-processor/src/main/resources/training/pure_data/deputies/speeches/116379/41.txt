@@ -1,1 +1,3 @@
-Convite aos Deputados para o ato de lançamento da Frente Parlamentar Mista em Defesa dos Bombeiros Voluntários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16ee02f9123ab1744f9158e922f962d4ce9c853c4d4f2c4ef35985a5b421efd9
+size 113

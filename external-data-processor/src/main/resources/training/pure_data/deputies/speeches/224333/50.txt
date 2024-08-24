@@ -1,1 +1,3 @@
-O Deputado compartilhou dados relevantes sobre o Auxílio-Gás, um programa que ajuda famílias em situação de vulnerabilidade no Brasil. Enfatizou a importância das políticas sociais implementadas pelo governo para combater a fome e a miséria, ressaltando o retorno do país ao cenário global com protagonismo na paz e na luta contra a pobreza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68ff82a03ec97b9690ee8918c7ea1499a76b898022c603197ff52fa47a6ca575
+size 351

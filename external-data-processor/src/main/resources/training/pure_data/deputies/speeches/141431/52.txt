@@ -1,1 +1,3 @@
-Solidariedade às populações dos municípios das Regiões Norte e Nordeste atingidos por enchentes. Realização pela Casa de amplo debate de medidas preventivas contra os efeitos das cheias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e1eb2655a3285ee5ba0442db2d6eaefa0481dab04c319bc4c6942235a07d435
+size 193

@@ -1,1 +1,3 @@
-O Presidente informou à Deputada Adriana Ventura que o inciso XIII do artigo 117 do Regimento Interno da Câmara dos Deputados, que ela citou em sua Questão de Ordem, foi revogado pela Resolução nº 21, de 2021. Portanto, seu requerimento não pôde ser atendido com base nesse inciso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44f21918c25a39c81f163aad182ebbd26d8dc461e9bd733ab858ef33e3db778d
+size 289

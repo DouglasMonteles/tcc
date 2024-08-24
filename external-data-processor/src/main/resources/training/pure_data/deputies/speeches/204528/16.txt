@@ -1,1 +1,3 @@
-Protesto contra a votação e aprovação em regime de urgência do Projeto de Lei nº 7.596, de 2017, a respeito dos crimes de abuso de autoridade. Solicitação ao  Presidente Jair Bolsonaro de aposição de veto à propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c125709638d5cbdd075f3bd895972e7959a16327430bf0791c7ab78bb8b589c
+size 230

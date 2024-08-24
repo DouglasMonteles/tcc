@@ -1,1 +1,3 @@
-Empenho do orador na implantação do Veículo Leve sobre Trilhos - VLT, no Município de Cuiabá, Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4981e7242e6d2d974cd32c76c370d37752fe54a845925fa79d58bcef24bac13b
+size 121

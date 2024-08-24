@@ -1,1 +1,3 @@
-Visita do Presidente Jair Bolsonaro e comitiva às obras da Barragem de Oiticica, no Estado do Rio Grande do Norte. Autorização, pelo Presidente da República, do início do projeto do Ramal do Apodi e assinatura de ordem de serviço para a construção da Barragem Poço de Varas, no Estado. Anúncio pelo Ministro de Minas e Energia, Bento Albuquerque, de instalação de transformadores na estação de João Pessoa, para recebimento de energia eólica e solar oriunda dos Estados do Rio Grande do Norte e Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:005487d827bb28dc0606f28894b68028abf3878976361108841f75e30a0774c3
+size 520

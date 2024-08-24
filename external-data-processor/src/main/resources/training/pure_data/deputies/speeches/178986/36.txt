@@ -1,1 +1,3 @@
-Congratulação à Presidenta da República, Dilma Rousseff, e ao Ministro das Cidades, Gilberto Kassab, pelo lançamento da terceira fase do programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:605548c9ca92eafab9d1f6052eea2e3bcd9014e8900b966202ee6469f9c99312
+size 174

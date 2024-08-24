@@ -1,1 +1,3 @@
-Ponderações   sobre as matérias acordadas para  inclusão na pauta da Ordem do Dia. Ponderações sobre a PEC 300 de 2008, relativa a piso salarial de policial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37eebab06d0afad1521be5f3fba9d6b197e9589e78613f5b2dcc7960cbbd3feb
+size 163

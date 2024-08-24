@@ -1,1 +1,3 @@
-Orientação da bancada do SDD favorável à Emenda Aglutinativa de Plenário nº 7 ao Projeto de Lei nº 6025, de 2005, que altera o art 666 da Leinº 5.869, de 11 de janeiro de 1973 - Código do Processo Civil, para vedar a penhora ou o bloqueio do dinheiro, de aplicação financeira, ou de outros ativos financeiros no âmbito da tutela antecipada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:726e77639403fd8af89be086b291f3011ed9d6ecfe8713ba5fab510aebc7f3a2
+size 352

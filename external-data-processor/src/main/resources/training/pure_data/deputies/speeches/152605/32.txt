@@ -1,1 +1,3 @@
-Realização do 51º Congresso da União Nacional dos Estudantes, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e912f74a6832eb3aa403e2e8a75ab5853caf9f1a43dbdb8ec49e82801ed2c64b
+size 97

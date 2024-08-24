@@ -1,1 +1,3 @@
-Discussão da Proposta de Emenda à Constituição nº 34, de 2019, sobre a obrigatoriedade da execução da programação orçamentária proveniente de emendas de bancada de Parlamentares de Estado ou do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae6984484da004065e984a16a57de709328f104c8206fe84606ab6b03a2c3afb
+size 222

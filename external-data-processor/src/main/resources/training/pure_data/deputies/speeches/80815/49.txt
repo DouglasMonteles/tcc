@@ -1,1 +1,3 @@
-O Deputado expressou solidariedade aos Deputados Sâmia Bomfim e Glauber Braga em um momento de dor. Em seguida, abordou a situação preocupante das chuvas em Santa Catarina e no Paraná. Destacou a necessidade urgente de estabelecer um sistema nacional de enfrentamento de calamidades e intempéries climáticas, com a finalidade de proteger as pessoas, especialmente as mais vulneráveis. Também mencionou sua experiência em Salvador, onde implementou um apoio financeiro para famílias afetadas pelas chuvas. Pediu ao Presidente interino da Casa, Deputado Marcos Pereira, que instalasse a Comissão Especial destinada à criação de sistema nacional para lidar com calamidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:810dc7f621003e62813624f4ef457670e027530c734216ca84fc92f1bd4e50c8
+size 684

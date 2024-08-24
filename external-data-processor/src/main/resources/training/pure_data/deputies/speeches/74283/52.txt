@@ -1,1 +1,3 @@
-Encontro do Presidente Luiz Inácio Lula da Silva com prefeitos que participam da  XI Marcha a Brasília em Defesa dos Municípios. Aniversário de fundação do município de Acari, Estado do Rio  Grande do Norte. Congratulações ao Presidente do Congresso Nacional, Senador Garibaldi Alves Filho. Dia Mundial do Desenhista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2f8d3e5af62369421179de2d26cc9fa867891b88f175e3d62b4febd4777ba94
+size 326

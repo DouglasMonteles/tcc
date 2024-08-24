@@ -1,1 +1,3 @@
-Defesa de revogação do dispositivo constante no bojo da reforma previdenciária, a respeito da cobrança de contribuição previdenciária de aposentados e pensionistas com proventos acima do salário mínimo. Pedido à Casa de apoio à proposta de emenda à Constituição relativa ao tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fbb9a7b4859b9c8bc1f332f21055cab9078ab8e0fd44330690350c8a3ccd689
+size 293

@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado de São Paulo pela recondução da oradora ao cargo de Deputada Federal. Urgente realização de reforma política no País. Descontentamento com a não reeleição do Deputado Marcelo Ortiz e de outros líderes políticos da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d6cc30b7c3f855c75887ad299c67d8f75a2c356615dc85675fe5938e7993f6b
+size 269

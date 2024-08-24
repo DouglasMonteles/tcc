@@ -1,1 +1,3 @@
-Satisfação com a assinatura pelo Presidente Luiz Inácio Lula da Silva do Decreto nº 6.814, de 2009, sobre a regulamentação da Lei no 11.508, de 2007, a respeito do regime tributário, cambial e administrativo das Zonas de Processamento de Exportação — ZPEs. Expectativa de instalação da ZPE do Município de Araguaína, Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e98c4b37f30fa8ac2196b02e8d4d4c8405ea047a698510316229f9831e1749b8
+size 352

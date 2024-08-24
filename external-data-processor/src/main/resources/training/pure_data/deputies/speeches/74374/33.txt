@@ -1,1 +1,3 @@
-Necrológio da Profa. Ercília de Oliveira Pompeu, do Município de Dourados, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f49e21884d79f191d25a58804bcb592c95a7753f384bb4008bf893644383ed69
+size 107

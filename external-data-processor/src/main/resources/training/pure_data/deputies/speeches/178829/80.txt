@@ -1,1 +1,3 @@
-Falecimento em serviço do soldado da Polícia Militar do Estado de São Paulo Gustavo Antonio da Silveira, no Município de Óleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25cb0c2931171344957fc3e87dea249e34317fbd48fa11b50b2e4c339b93dc1f
+size 131

@@ -1,1 +1,3 @@
-Defesa de construção do Ramal Piancó, destinado à transposição de águas do Rio São Francisco para o Sistema Coremas-Mãe d'Água, no Estado da Paraíba. Importância da obra para as populações das microrregiões do Vale do Piancó e de Bonito de Santa Fé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:986b09fa89f86a620d294bc359a2e2460180adf5f6af022d90dfa09bb706823c
+size 266

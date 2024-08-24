@@ -1,1 +1,3 @@
-Aplausos à Cooperativa de Produtores de Café do Vale do Juruá - COOPERCAFÉ e à Prefeitura Municipal de Mâncio Lima, pelo apoio ao projeto de desenvolvimento da cafeicultura na região, Estado do Acre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccf9f4a5dded093a996000e90c8983d2228f0dfceb9561178b9e2c713d93d42d
+size 206

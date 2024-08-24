@@ -1,1 +1,3 @@
-Respostas às acusações feitas por Parlamentares e pela mídia brasileira ao relatório do Estatuto da Família aprovado em Comissão Especial destinada à apreciação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:526c97262a50bca6bd845876249b685dd8f1a08ab0949d449e9b10d7e32054b7
+size 183

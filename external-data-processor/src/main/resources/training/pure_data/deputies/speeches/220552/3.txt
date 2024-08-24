@@ -1,1 +1,3 @@
-Congratulação à Casa pela aprovação do Projeto de Lei nº 5.543, de 2020, sobre a instituição da data de 17 de julho como o Dia Nacional do Cirurgião Oncológico.&nbsp;Aprovação, pela Assembleia Legislativa do Estado do Rio Grande do Sul, de proposta de autoria do orador acerca da conscientização sobre o câncer infantojuvenil. Apresentação do Projeto de Lei nº 18, de 2023, sobre a instituição do Cadastro Nacional de Pesquisa em Drogas Experimentais para o Tratamento do Câncer – Banco Nacional de Combate ao Câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c6e2664e5aa9a1e5cbda5b3a16aab4effec80922637da6bba8ede1d5c801e86
+size 541

@@ -1,1 +1,3 @@
-Importância do engajamento da sociedade brasileira na luta em defesa da causa indígena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5c8b457adbab1216f2844266a39fe698c9f8e860fb901fd7b84a81c17a5b4d6
+size 89

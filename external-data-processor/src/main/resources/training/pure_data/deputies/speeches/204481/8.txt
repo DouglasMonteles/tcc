@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar em Defesa do Homeschooling. Exemplos consubstanciadores da eficiência do ensino domiciliar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9057f4d27775fc10322f6a27f65d488cca19d5a6f3af861cbabd96697648e11
+size 126

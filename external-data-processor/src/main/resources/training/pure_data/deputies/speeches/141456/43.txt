@@ -1,1 +1,3 @@
-Solicitação à Presidência de inclusão na Ordem do Dia do Projeto de Lei nº 1.481, de 2007, sobre o acesso a redes digitais de informação em estabelecimentos de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bba08540ee094139777df70c29a33d8562e7a1135ae4cc465969a059e42a916
+size 175

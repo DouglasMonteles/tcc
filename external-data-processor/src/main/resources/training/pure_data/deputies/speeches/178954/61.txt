@@ -1,1 +1,3 @@
-Convocação dos Deputados ao plenário para votação de medida provisória em prol dos agricultores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d8a112013458fc70b907aa7adf34d3478012338231c8739cd93919c7f53ef31
+size 102

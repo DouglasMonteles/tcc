@@ -1,1 +1,3 @@
-Presença no plenário do advogado Carlos Alberto Madella e da Vereadora Renata Flório, do Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4285991980d6f2ad40df5666928ddec65c42415651c8e1e84dbe85c4dc01f53
+size 157

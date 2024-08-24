@@ -1,1 +1,3 @@
-Repúdio à cobrança de impostos extorsivos pela Prefeitura Municipal de Palmas, Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:016df7711a5d8a337f1a6924230c155d32fd7e9614d4212737e7222a314fd4a1
+size 102

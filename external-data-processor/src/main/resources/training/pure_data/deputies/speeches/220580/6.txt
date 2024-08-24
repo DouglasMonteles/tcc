@@ -1,1 +1,3 @@
-&nbsp;A Deputada abordou a necessidade de recompor as aprendizagens dos estudantes após os desafios enfrentados na educação durante a pandemia. Destacou avanços na legislação educacional, incluindo a Base Nacional Comum Curricular e a constitucionalização do FUNDEB, mas ressaltou que os alunos e professores ainda enfrentam desafios educacionais significativos. Anunciou a criação da&nbsp;Subcomissão Especial da Comissão de Educação para acompanhar a Recomposição das Aprendizagens no Pós-Pandemia, enfatizando a urgência e importância do tema. Citou um estudo do Banco Mundial sobre os impactos da pandemia na educação, ressaltando a necessidade de políticas públicas para superar as perdas na aprendizagem. A oradora mencionou outros parlamentares comprometidos com a pauta e expressou apoio à causa da recomposição da aprendizagem dos estudantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd32815e93d2fab29663e1c6cdfab95b83a8179def4eed97367fb33ac200545b
+size 877

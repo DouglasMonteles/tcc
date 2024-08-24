@@ -1,1 +1,3 @@
-Agradecimento aos Deputados pela aprovação do Projeto de Lei nº 920, de 2023, sobre alterações das Leis nºs 12.340, de 2010, e 9.605, de 1998, para destinação de parcela das arrecadações de recursos financeiros advindos do pagamento de multas por crimes e infrações ambientais e de acordos judiciais e extrajudiciais de reparação de danos socioambientais para o Fundo Nacional para Calamidades Públicas, Proteção e Defesa Civil – FUNCAP. Importância da matéria para o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:970397781a9e2e2b32d5ad96dfcfb840d883f6d3ce51732493401bd62dfd403e
+size 496

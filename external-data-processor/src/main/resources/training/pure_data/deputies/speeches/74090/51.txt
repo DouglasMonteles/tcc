@@ -1,1 +1,3 @@
-Afronta à soberania nacional demonstrada em manifestações a favor da internacionalização da Amazônia. Manifestação do Presidente Luiz Inácio Lula da Silva a respeito do assunto. Necessidade de ações governamentais para desenvolvimento da região amazônica. Realização do Fórum de Governadores da Amazônia Legal, em Belém, Estado do Pará. Debate do Programa Amazônia Sustentável durante o evento. Presença em Manaus, Estado do Amazonas, do Relator, do Vice-Presidente e do Presidente da Comissão Especial instituída para exame da proposta de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc7450c73f1c32c743f39421e8ae45e214f4816611a5ea9aeebeab51a16504a8
+size 584

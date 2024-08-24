@@ -1,1 +1,3 @@
-Indignação com o não comparecimento de representantes do Ministério da Cidadania e da Secretaria Nacional de Esporte, à audiência pública realizada por órgão da Casa para debate da Lei de Incentivo ao Esporte. Imediato encaminhamento pelo Ministro da Cidadania, Osmar Terra, de projetos de lei a respeito da concessão de incentivos ao esporte nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be84c1f4e5f99d0ad47338834db934380cd75b1921b0d9c59fbf357416e71745
+size 362

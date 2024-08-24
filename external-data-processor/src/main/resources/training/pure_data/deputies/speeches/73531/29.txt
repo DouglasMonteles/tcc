@@ -1,1 +1,3 @@
-Artigos sobre denúncias de irregularidades praticadas pelo Reitor da Fundação Santo André, Odair Bermelho, publicados pelo jornal Diário do Grande ABC. Conveniência do seu afastamento da Fundação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96bfd0c5a9c0e98fe3b7ab7bea8023ce1f4345ec752dbc8e2dfc88e445b94c36
+size 204

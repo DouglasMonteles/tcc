@@ -1,1 +1,3 @@
-Expectativa de apresentação do relatório da Comissão Especial do Desarmamento. Repúdio à exclusão, do relatório, do direito ao porte de arma por policiais inativos. Pedido aos Parlamentares de apoio à inclusão da proposta no texto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1ad11be75bea834bdb21cf8de6fdc99e09b2f634ead470c83e311ac2891b8a4
+size 241

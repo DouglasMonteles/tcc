@@ -1,1 +1,3 @@
-Encaminhamento da votação de requerimento de inversão da pauta. Importância da aprovação pela Casa da proposta de criação do Prêmio Monteiro Lobato de Literatura para a Infância e a Juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b45eac47f6e7dd38de22c97cb7de24b2e3b8365d9c52ad32181b1bb716dfb6c3
+size 202

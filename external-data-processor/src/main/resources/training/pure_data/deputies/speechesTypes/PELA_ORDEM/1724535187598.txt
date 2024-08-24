@@ -1,1 +1,3 @@
-Apresentação de emenda orçamentária destinada a realização de estudo de viabilidade da duplicação da BR-222, entre Fortaleza e o Município de Sobral, Estado do Ceará. Solicitação às bancadas federais dos Estados do Ceará, Piauí, Maranhão e Pará de apoio à duplicação da rodovia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90dee5acf28ef4146f559ce2715587558d5b8b06c0dbe0ccc4ac04e9c5572b2a
+size 298

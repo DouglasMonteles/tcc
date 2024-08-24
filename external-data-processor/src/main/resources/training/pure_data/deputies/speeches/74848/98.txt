@@ -1,1 +1,3 @@
-Apoio ao posicionamento do Presidente Marco Maia em defesa da  prerrogativa do Poder Legislativo quanto à apreciação de processo sobre perda de mandato Parlamentar. Intempestividade das declarações do Presidente do Supremo Tribunal Federal, Ministro Joaquim Barbosa, relativas a depoimento  de condenado do chamado Escândalo do Mensalão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4f7441f8304c44d013723e62fd09f312797fd4f235dd0f4262c81790b484d2e
+size 344

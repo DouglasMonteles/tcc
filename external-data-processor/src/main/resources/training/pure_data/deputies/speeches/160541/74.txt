@@ -1,1 +1,3 @@
-Posicionamento do orador favorável à votação de requerimentos de moção. Apelo ao Deputado Anthony Garotinho de realização de acordo para votação do texto original da Medida Provisória nº 615, de 2013, e de emendas oferecidas à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a11fd861dfcbb9ba5ddfbcd78e547c1651aa6d2e3d293e1263f6407eb8c5edf
+size 249

@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Araucária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8e148492733c6e7b7216f4bc93b107d9c6eac0bf795f59868cdbebec8f6aecc
+size 41

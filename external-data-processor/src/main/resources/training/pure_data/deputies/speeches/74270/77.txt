@@ -1,1 +1,3 @@
-Presença na Casa do Sr. Roberto Penteado e do Prefeito João Fattori, do Município de Itatiba, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0f5c7a5d97bda797e793079a012661f0d6b50efc768297a6f66ec6c51d31597
+size 118

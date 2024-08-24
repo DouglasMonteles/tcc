@@ -1,1 +1,3 @@
-A Deputada abordou tragédia em São Paulo, onde uma adolescente foi assassinada por outro adolescente em uma escola estadual. Expressou condolências à família da vítima e destacou a importância das escolas integrais, desde que sejam implementadas adequadamente. Enfatizou a necessidade de políticas públicas para regiões vulneráveis e encerrou pedindo que o Congresso discuta a violência nas escolas em colaboração com os Governos Federal, Estadual e Municipal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b18881359c776e59639248921094326ed274551c7fe2f0962171a579b6d1ea18
+size 474

@@ -1,1 +1,3 @@
-Anúncio de convocação do Ministro da Justiça e Segurança Pública, Flávio Dino, pela Comissão de Segurança Pública e Combate ao Crime Organizado, para esclarecimento da sua presença sem escolta policial no Complexo da Maré, reduto de facções criminosas, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:919f8a150f54fb4fb65deef38b845d551f0c5170bbed882b18c2573711ab5b3b
+size 311
