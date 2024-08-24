@@ -1,0 +1,429 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2023-02-07T21:23",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Encerramento",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "DISCURSO ENCAMINHADO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F2%2F2023&txPagina=158&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Reforma tributária,Geração de emprego,Crescimento econômico,Amapá\r\nMacapá (AP),Aniversário de fundação,Homenagem,Turismo\r\nDeputado federal,Eleição,Eleitor,Amapá,agradecimento,Atuação parlamentar",
+    "sumario" : "Agradecimento ao eleitorado amapaense pela expressiva votação alcançada pelo orador. Apoio à reforma tributária. Compromisso de atuação em defesa do desenvolvimento econômico do Estado do Amapá, com ênfase na geração de emprego e renda. Trajetória profissional do orador. Transcurso do 265º aniversário de criação da Capital Macapá. Contribuição do comércio e dos setores empresarial e turístico para o crescimento da economia amapaense.",
+    "transcricao" : "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO JOSENILDO. Sr. Presidente, Sras. e Srs. Parlamentares, primeiramente, requeiro que o discurso que passo a proferir seja inserido nos Anais desta Casa, bem como que a ele seja dada ampla divulgação nos meios de comunicação e, ainda, no programa A Voz do Brasil. Sr. Presidente, quero iniciar o meu pronunciamento agradecendo aos 27.112 eleitores que me concederam seu voto no último pleito, em outubro, quando conseguimos expressiva votação para a vaga de Deputado Federal. Essa expressiva votação, confesso, muito me surpreendeu pela confiança depositada no meu nome. O povo do Amapá acreditou na minha experiência como gestor, com mais de 30 anos de serviço público. A bancada do Amapá é pequena. Por isso, temos que trabalhar de forma unida. Nesta Casa do Parlamento, pretendo defender a reforma tributária, proposta que já tramita no Congresso Nacional e é extremamente importante. Como meta para este mandato, temos como objetivo a boa relação com nossas Prefeituras Municipais, com o Governador Clécio Luís, trabalhando sempre de forma coordenada e integrada com o Governo do Estado e com as Prefeituras. Neste primeiro ano, especificamente, pretendemos trabalhar com pautas que ensejam o desenvolvimento econômico do Estado, com foco na geração de emprego e renda. Sou natural da cidade de Serra do Navio, no interior do Estado do Amapá, e comecei minha carreira na Secretaria da Fazendo do Amapá, a SEFAZ, tendo sido, naquela oportunidade, o mais jovem selecionado. Assumi a Secretária de Fazenda do Município de Santana e depois, por quase 8 anos, fui Secretário de Fazenda do Estado do Amapá. Fui ainda, por dois mandatos, Vice-Presidente do Comitê Nacional de Secretários de Fazenda, Finanças, Economia ou Tributação dos Estados e do Distrito Federal  COMSEFAZ. Por fim, quero registrar que Macapá, a Capital do meu Estado, completou no último dia 2 de fevereiro seu 265º aniversário. O comércio é uma das maiores fontes de renda para o Amapá, setor responsável por quase metade da receita, mas o serviço público é o setor que mais cresceu durante as últimas décadas e o que mais tem contribuído para o crescimento e o desenvolvimento econômico do Amapá. As empresas privadas são responsáveis por, aproximadamente, 70% dos postos de trabalho. No ano de 2006, surgiram mais de mil empresas, e o emprego no segmento industrial cresceu 33%, número superior à média nacional, que é de 23%. O turismo também é de grande importância para a economia local. Entre os principais destinos turísticos do Estado, podemos destacar: a capital e as cidades de Serra do Navio, Mazagão, Oiapoque, Amapá, Ferreira Gomes e Porto Grande. Parabéns, Macapá, pelos seus 265 anos! Era este o registro que eu gostaria de fazer. Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-03-01T18:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F3%2F2023&txPagina=97&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Ex-presidente da República,Exoneração tributária,Combustível,Tributação,Imposto,Crítica\r\nGoverno,reoneração,Exoneração tributária,Tributação,Imposto,Gasolina,Etanol,ausência,Gás Liquefeito de Petróleo (GLP),Óleo diesel",
+    "sumario" : "Natureza eleiçoeira da desoneração de combustíveis pelo ex-Presidente Jair Bolsonaro. Acerto de decisão do Governo Luiz Inácio Lula da Silva de reoneração de derivados de petróleo. Atuação democrática do governo petista.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Boa tarde, Presidente. Boa tarde, Srs. Deputados, Sras. Deputadas. Hoje é o dia em que completamos 1 mês de mandato. É um momento oportuno para reafirmarmos nosso compromisso com os brasileiros e também com a verdade. Por isso aproveito este momento, nesta tribuna, para esclarecer os fatos sobre a questão dos combustíveis. A desoneração dos combustíveis foi uma medida eleitoreira do Governo Bolsonaro. Durante 3 anos, o ex-Presidente não agiu sobre o aumento desenfreado dos combustíveis. Somente no último ano do seu Governo, de maneira demagógica, o Governo anterior lançou medidas que comprometeram muito a sustentabilidade fiscal do Brasil para o exercício de 2023. O Governo Lula, pelo contrário, já se comprometeu e já está trabalhando, desde o seu primeiro dia, para reduzir o valor dos combustíveis, combater a pressão dos preços sobre a população e recompor a receita perdida. Quem hoje critica a reoneração poderia contribuir trazendo uma solução para compensar as perdas que os Estados e Municípios tiveram com essa medida durante o Governo Bolsonaro. A oportunidade de rever tudo isso é agora, caros Deputados e Deputadas. O Ministro Fernando Haddad está certo. É bom que fique claro como será feita essa medida. A gasolina terá reoneração final de 34 centavos. Ela vai restabelecer a competitividade do nosso biocombustível, o etanol, estimulando a sustentabilidade ambiental e social. O óleo diesel não sofrerá qualquer impacto até o fim do ano, ou seja, não haverá custo extra para a cadeia de produção e distribuição de mercadorias e alimentos. O gás de cozinha, que é o item mais sensível para as famílias brasileiras, não sofrerá nenhum tipo de reajuste. Os lares brasileiros também serão poupados. Por fim, o querosene de aviação também não será reonerado. O Governo Lula, Deputados e Deputadas, faz o dever de casa com essa medida. Está focado na contenção de gastos, agindo com responsabilidade fiscal. É importante deixar claro que os tempos mudaram, que todos saibam que voltamos a ter um Governo democrático, em que políticas são discutidas e pensadas para beneficiar a população. A época em que o mercado mandava e tinha sempre razão acabou. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-03-08T21:35",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Encerramento",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "DISCURSO ENCAMINHADO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F3%2F2023&txPagina=188&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Mulher,Dia Internacional da Mulher,Lei Maria da Penha,Homenagem,Machismo,Discriminação de gênero,Desigualdade entre os sexos,Violência doméstica",
+    "sumario" : "Transcurso do Dia Internacional da Mulher. Luta das mulheres contra o machismo, a violência doméstica e pela igualdade de direitos. Combate às discriminações contra a mulher no País. Apoio do orador à causa feminina.",
+    "transcricao" : "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO JOSENILDO. Sr. Presidente, Sras. e Srs. Parlamentares, primeiramente, requeiro que o discurso que passo a proferir seja inserido nos Anais desta Casa, bem como que a ele seja dada ampla divulgação nos meios de comunicação da Casa e, ainda, no programa A Voz do Brasil. Hoje é um dia muito especial, um dia dedicado às mulheres, e é com muito orgulho que ocupo este honroso espaço na tribuna para dirigir-me a minha mãe e assim a todas as mulheres, para prestar minhas homenagens neste dia 8 de março, Dia Internacional da Mulher. Esta é uma data simbólica, que se reveste de importância para traduzir o que as mulheres representam todos os dias; é uma data de luta por direitos iguais para todas as mulheres. A conquista dos direitos das mulheres tem o protagonismo das mulheres, um protagonismo de uma história de luta, mas também de conquistas para garantir cada vez mais espaço na sociedade. As reivindicações, com o passar dos anos, ganharam mais bandeiras, como a luta contra o machismo, a luta por igualdade de direitos, a luta contra a violência doméstica e a luta pelo direito à vida com dignidade. Neste momento, nós homens devemos ser aliados, devemos respeitá-las. As mulheres merecem o nosso mais profundo respeito, a nossa solidariedade. As mulheres recebem salários diferenciados, são vítimas de assédio sexual e de violência doméstica. As mulheres são vítimas da discriminação em todos os sentidos. Portanto, recebam o nosso respeito, o nosso carinho, a nossa homenagem e a nossa solidariedade. As mulheres ainda terão de travar diversos enfrentamentos, mas nesta Casa, como também na vida, as mulheres podem contar com meu apoio. Em apenas 1 mês de mandato já protocolamos dois projetos de lei com foco exclusivo nas mulheres: um proíbe a nomeação para cargos públicos daqueles que já foram condenados pela Lei Maria da Penha; o outro garante o direito de escolha de laqueadura em casos de parto cesariano na rede pública. Sigamos trabalhando juntos para que as mulheres deixem de serem vítimas de toda e qualquer forma de violência, preconceito e discriminação. Lutemos por respeito e dignidade para todas as mulheres brasileiras. A todas o meu honroso abraço. E contem sempre comigo.  "
+  }, {
+    "dataHoraInicio" : "2023-03-23T11:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F3%2F2023&txPagina=64&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Deputado federal,Pronunciamento parlamentar,desrespeito,Ofensa,Presidência da Câmara dos Deputados,Presidente da República",
+    "sumario" : "Indignação com discursos agressivos e desrespeitosos proferidos no plenário da Câmara dos Deputados.",
+    "transcricao" : "O SR. JOSENILDO (PDT - AP. Sem revisão do orador.) - Sr. Presidente, pela Vice-Liderança do Governo aqui na Câmara, eu gostaria de cumprimentar V.Exa., cumprimentar os Srs. Deputados e Sras. Deputadas e dizer que quero me juntar aos pronunciamentos da Deputada Juliana e da Deputada Jack. E quero dizer que só não exercem a democracia, só não respeitam o direito democrático e a Constituição aqueles que não querem debater em alto nível, aqueles que não têm conteúdo para vir a esta Casa e debater em alto nível. Aí, eles agem com desrespeito, com agressão, com falas que, inclusive, desrespeitam o art. 17. Um Deputado aqui desrespeitou V.Exa., que estava no exercício da Presidência. Isso nós não podemos admitir. Nós viemos aqui representar o povo brasileiro, mas representar o povo brasileiro com respeito, com dignidade, e nós estamos sendo agredidos. A figura do Presidente Lula está sendo agredida. Isso nós não podemos permitir, Sr. Presidente. Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-03-23T12:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PARECER",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F3%2F2023&txPagina=97&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Parecer do relator,Projeto de lei ordinária,Plano de Contingência de Proteção e Defesa Civil",
+    "sumario" : "Emissão de parecer ao Projeto de Lei nº 636, de 2023,&nbsp;sobre a alteração da Lei nº 12.340, de 2010, para garantia de maior efetividade ao Plano de Contingência de Proteção e Defesa Civil.",
+    "transcricao" : "O SR. JOSENILDO (PDT - AP. Para proferir parecer. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, muito me honra ser Relator deste projeto do Deputado André Figueiredo, Deputado em quarto mandato, Líder da bancada do PDT e Presidente Nacional do nosso partido. \"I - Relatório O Projeto de Lei nº 636, de 2023, de autoria do ilustre Deputado André Figueiredo, assegura maior efetividade ao Plano de Contingência de Proteção e Defesa Civil. De acordo com a proposta, os Municípios deverão apresentar plano de contingência contendo descrição dos investimentos em infraestrutura hídrica, combate a enchentes e prevenção e plano de contenção de construções irregulares em áreas de risco, com definição de alternativas habitacionais seguras. São dois essenciais pontos para tratar as causas dos problemas decorrentes das enxurradas. Na justificação, o Parlamentar argumenta que, entre as várias falhas detectadas no sistema de proteção e defesa civil, é possível mencionar o baixo investimento público em prevenção de desastres naturais, construções irregulares, bem como ineficiência do sistema de alarme à população no momento das chuvas. Ademais, aduz que o projeto caminha com o objetivo de evitar que falhas, como as que aconteceram no Litoral Norte de São Paulo nos dias 18 e 19 de janeiro deste ano, venham a ocorrer novamente. Foi aprovado o Requerimento de Urgência nº 836, de 2023, estando a matéria pronta para apreciação em Plenário. É o relatório. II - Voto do Relator A proposição sob exame atende a todos os requisitos constitucionais formais para tramitação, cuidando de matéria que disciplina sobre defesa civil, estando, portanto, inserida na competência legislativa concorrente da União (art. 22, XXVIII, CF). A iniciativa legislativa do Parlamentar é legítima, uma vez que não se trata de matéria cuja iniciativa seja reservada a outro Poder (art. 61, CF). Quanto ao seu conteúdo, nada verificamos que possa macular os princípios e as regras que informam a Constituição vigente. No que tange à juridicidade, o projeto examinado inova o ordenamento jurídico e respeita os princípios gerais do direito, não se revelando injurídico. No que se refere à técnica legislativa, nada há a objetar, estando o projeto de acordo com a Lei Complementar nº 95, de 1998. Com efeito, a medida é fundamental para evitar que falhas aconteçam, pois a matéria prevê que seja demonstrada a capacidade preventiva de todos os itens constantes do plano, por meio de relatório anual. A obrigatoriedade de demonstração desses elementos aos órgãos de controle tem como foco um direcionamento mais efetivo das ações realizadas pelos Municípios em situação de risco. No mérito, a iniciativa do projeto de lei é digna de respeito, pois, como se vê, a proposição caminha ao encontro das diretrizes fundamentais que regem o tema, prestando valioso serviço, bem como demonstra preocupação com a população brasileira. Por fim, observa-se que a iniciativa é uma medida imprescindível, pois a matéria propõe que os elementos do plano de contingência sejam obrigatoriamente apresentados e que não sejam apenas elementos a serem considerados, como prevê a lei atual. III - Conclusão Ante o exposto, pela Comissão de Integração Nacional e Desenvolvimento Regional, somos pela aprovação do texto em sua redação original e, pela Comissão de Constituição e Justiça e de Cidadania, somos pela constitucionalidade, juridicidade e técnica legislativa da matéria, nos termos do Projeto de Lei nº 636, de 2023. Sala das Sessões, em 23 de março de 2023.\" É o voto, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-03-23T12:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F3%2F2023&txPagina=102&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Presidente da República,Supremo Tribunal Federal (STF),Absolvição,gestão,Defesa",
+    "sumario" : "Esclarecimento à Deputada Bia Kicis sobre a absolvição do Presidente Luiz Inácio Lula da Silva pelo Supremo Tribunal Federal.",
+    "transcricao" : "O SR. JOSENILDO (PDT - AP. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Quero dizer que respeito a posição e o pronunciamento de todos os Deputados, mas eu quero restabelecer a verdade. A Deputada Bia Kicis há pouco disse que o Presidente Lula é \"descondenado\". Na verdade, ele não é \"descondenado\". O Presidente Lula tem sua ficha limpa. Ele foi absolvido pelo Supremo Tribunal Federal, a mais alta Corte de Justiça do nosso País, em todos os processos em que foi acusado  em muitos, foi condenado injustamente. Então, eu quero apenas restabelecer a verdade. Lula está fazendo, sim, um belo trabalho como Presidente da República, está reconstruindo o nosso País de Norte a Sul. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-05-10T16:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ENCAMINHAMENTO DE VOTAÇÃO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F5%2F2023&txPagina=85&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Encaminhamento de votação,Requerimento de urgência,Projeto de lei ordinária,favorável",
+    "sumario" : "Encaminhamento da votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3.630, de 2021, sobre a alteração da Lei nº 12.764, de 2012, com vista à criação, no âmbito do Sistema Único de Saúde - SUS, de centros de assistência integral ao paciente com Transtorno do Espectro Autista - TEA.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Presidente, queremos solicitar o apoio dos Deputados e Deputadas para a aprovação desse requerimento, que é de extrema importância para que possamos criar esses centros que tanto vão trabalhar no diagnóstico quanto no acompanhamento das pessoas com autismo. Sabemos que os índices de pessoas que estão nascendo com autismo e os índices de pessoas que têm autismo, e que ainda não conseguiram sequer receber o laudo, são muito grandes. Por isso se faz necessária a aprovação deste requerimento por esta Casa."
+  }, {
+    "dataHoraInicio" : "2023-05-17T18:20",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PARECER",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F5%2F2023&txPagina=125&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Projeto de lei ordinária,Lei Berenice Piana,Centro de Assistência Integral à Pessoa com Transtorno do Espectro Autista,Transtorno do Espectro Autista (TEA),Pessoa com transtorno do espectro autista,Sistema Único de Saúde (SUS),Pressuposto constitucional,Relatório (processo legislativo),Leitura",
+    "sumario" : "Emissão de parecer ao Projeto de Lei nº 3.630, de 2021, sobre a alteração da Lei nº 12.764, de 2012, com vista à criação de centros de assistência integral ao paciente com Transtorno do Espectro Autista - TEA, no âmbito do Sistema Único de Saúde - SUS.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Para proferir parecer. Sem revisão do orador.) - Sr. Presidente, passo a fazer a leitura do parecer. \"I -Relatório O Projeto de Lei nº 3.630, de 2021, de autoria da Comissão de Direitos Humanos e Legislação Participativa do Senado Federal, propõe alterar a Lei nº 12.764, de 27 de dezembro de 2012, para tornar obrigatória a criação de centros de assistência integral ao paciente com transtorno do espectro autista no Sistema Único de Saúde  SUS. Tramitam apensadas as seguintes proposições: PL 3.933/19, PL 5.056/19, PL 4.228/21, PL 1.672/22, PL 2.603/22, PL 333/23, PL 1.571/23, PL 2.458/23, PL 2.469/23, PL 1.826/23, PL 2.008/23 e PL 2.531/23. A matéria foi distribuída às Comissões de Defesa dos Direitos das Pessoas com Deficiência, de Finanças e Tributação e de Constituição e Justiça e de Cidadania. Em dezembro de 2022, a matéria foi aprovada pela CPD, na forma do substitutivo. Em 10 de maio de 2023, foi aprovado o requerimento de urgência, estando a matéria pronta para apreciação em Plenário. É o relatório. II. Voto do Relator Observamos inexistir qualquer objeto quanto aos pressupostos de constitucionalidade do Projeto de Lei nº 3.630, de 2021, e de seus apensados, cuidando de matéria que disciplina sobre proteção e integração social das pessoas portadoras de deficiência, estando, portanto, inserida na competência legislativa concorrente da União. A iniciativa legislativa do Parlamentar é legítima, uma vez que não se trata de matéria cuja iniciativa seja reservada a outro Poder. Quanto ao seu conteúdo, nada verificamos que afronte os princípios e regras da Constituição vigente. Com relação à juridicidade, os projetos revelam-se adequados e respeitam os princípios gerais do direito. No que se refere à técnica legislativa, as proposições se adaptam aos preceitos da Lei Complementar nº 95, de 1998, que dispõe sobre a elaboração, alteração e consolidação das leis. No que diz respeito ao impacto orçamentário e financeiro, as proposições não possuem qualquer impacto. No mérito, a iniciativa do projeto de lei é digna de respeito e uma medida imprescindível, pois, como se vê, a matéria presta valioso serviço, bem como preocupação com as pessoas com transtorno de espectro autista e suas famílias. Diante do exposto pela Comissão de Finanças e Tributação, nosso voto é pela adequação orçamentária e financeira do Projeto de Lei nº 3.630, de 2021, de seus apensados e do substitutivo da Comissão de Defesa dos Direitos das Pessoas com Deficiência. E, pela Comissão de Constituição e Justiça e de Cidadania, nosso voto é pela constitucionalidade, juridicidade e boa técnica legislativa da proposição principal, de seus apensados e do substitutivo da Comissão de Defesa dos Direitos das Pessoas com Deficiência.\" Lido o meu voto, Presidente."
+  }, {
+    "dataHoraInicio" : "2023-05-17T18:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PARECER",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F5%2F2023&txPagina=126&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Emenda,Projeto de lei ordinária,Lei Berenice Piana,Centro de Assistência Integral à Pessoa com Transtorno do Espectro Autista,Transtorno do Espectro Autista (TEA),Pessoa com transtorno do espectro autista,Sistema Único de Saúde (SUS),Pressuposto constitucional,Relatório (processo legislativo),Leitura",
+    "sumario" : "Emissão de parecer às Emenda de Plenário ao Projeto de Lei nº 3.630, de 2021, sobre a alteração da Lei nº 12.764, de 2012, com vista à criação de centros de assistência integral ao paciente com Transtorno do Espectro Autista - TEA, no âmbito do Sistema Único de Saúde - SUS.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Para proferir parecer. Sem revisão do orador.) - Presidente, passo à leitura do voto. \"Observamos inexistir qualquer objeto quanto aos pressupostos de constitucionalidade do Projeto de Lei nº 3.630, de 2021, e de seus apensados, cuidando de matéria que disciplina sobre proteção e integração social das pessoas portadoras de deficiência, estando, portanto, inserida na competência legislativa concorrente da União. A iniciativa legislativa do Parlamentar é legítima, uma vez que não se trata de matéria cuja iniciativa seja reservada a outro Poder.\" Presidente, desculpe-me. Eu estava lendo o voto anterior. Eu vou começar a ler o voto sobre as emendas. \"I - Voto do Relator Durante a discussão da matéria, foram apresentadas cinco emendas de Plenário, e com apoiamento regimental. A Emenda nº 1, da Deputada Silvye Alves, determina que as vagas excedentes dos centros de atendimento multiprofissional para cuidado da pessoa com transtorno do espectro autista poderão ser destinadas ao atendimento de pessoas sem transtorno do espectro autista no âmbito do Sistema Único de Saúde. A Emenda nº 2, da Deputada Silvye Alves, determina que a assistência à pessoa com transtorno do espectro autista de que trata o parágrafo anterior será prestada por meio de atendimento multiprofissional, mediante a oferta, no mínimo, dos seguintes serviços: neuropediatria, psiquiatria infantil, psicologia, fonoaudiologia, terapia ocupacional, psicopedagogia e assistência social. A Emenda nº 3, da Deputada Silvye Alves, determina que as unidades do SUS poderão firmar parcerias ou convênios com a rede privada de saúde, no intuito de garantir efetiva oferta de atendimento multiprofissional de que trata este artigo. A Emenda nº 4, da Deputada Maria Rosas, determina que as mães que se dedicam integralmente ao cuidado de filhos com transtorno do espectro autista deverão receber prioridade para atendimento psicossocial no âmbito do Sistema Único de Saúde. A Emenda nº 5, do Deputado André Figueiredo, determina a criação dos Centros Especializados de Reabilitação integrantes da Rede de Cuidados da Pessoa com Deficiência  RCPD, que atuarão como serviços de referência regional para casos em que, por qualquer motivo, haja necessidade de atenção especializada. A Emenda nº 6, da Deputada Maria Rosas, determina que as mães que se dedicam integralmente ao cuidado de filhos com transtorno do espectro autista deverão receber prioridade para atendimento psicossocial no âmbito do Sistema Único de Saúde. Inicialmente, agradeço aos nobres autores de todos os projetos de lei e das emendas por suas iniciativas. As medidas propostas efetivamente reduzirão barreiras importantes que hoje dificultam os direitos reservados às pessoas com transtorno do espectro autista. Dessa forma, enalteço também os vários outros Parlamentares que defendem a causa. No âmbito do SUS, o Ministério da Saúde já vem desenvolvendo ações que envolvem os cuidados à saúde das pessoas com deficiência, a partir da instituição da Rede de Cuidados à Pessoa com Deficiência (RCPD) em 2012, atualmente consolidada na Portaria de Consolidação GM/MS nº 03, de 28/09/2017, Anexo VI, Capítulo I. A RCPD está organizada a partir dos componentes da Atenção Primária à Saúde; da Atenção Especializada; e Atenção Hospitalar e de Urgência e Emergência, e devem estar articulados entre si, conforme também preconizado na Linha de Cuidado do TEA na criança, de forma a garantir a integralidade do cuidado e o acesso regulado a cada ponto de atenção, bem como aos serviços de proteção social, de educação, trabalho e cultura, de forma intersetorial. Dentre as ações desenvolvidas pelo Ministério da Saúde, por meio da RCPD, encontra-se a implementação de Centros Especializados em Reabilitação (CER). Ante o exposto, no âmbito da Comissão de Defesa dos Direitos das Pessoas com Deficiência, somos pela aprovação da Emenda de Plenário nº 5 na forma da subemenda substitutiva em anexo e pela rejeição das Emendas nº 1, nº 2, nº 3, nº 4 e nº 6. Pela Comissão de Finanças e Tributação, nosso voto é pela adequação orçamentária e financeira das Emendas nº 1, nº 2, nº 3, nº 4, nº 5 e nº 6, e da subemenda substitutiva da Comissão de Defesa dos Direitos das Pessoas com Deficiência. Pela Comissão de Constituição e Justiça e de Cidadania, nosso voto é pela constitucionalidade, juridicidade e boa técnica legislativa das Emendas nº 1, nº 2, nº 3, nº 4, nº 5 e nº 6 e da subemenda substitutiva da Comissão de Defesa dos Direitos das Pessoas com Deficiência.\" Está lido o voto, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-05-17T18:52",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F5%2F2023&txPagina=136&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Projeto de lei ordinária,Centro de Assistência Integral à Pessoa com Transtorno do Espectro Autista,Pessoa com transtorno do espectro autista,Sistema Único de Saúde (SUS),Aprovação,agradecimento",
+    "sumario" : "Agradecimento aos Parlamentares pela aprovação do Projeto de Lei nº 3.630, de 2021, sobre a alteração da Lei nº 12.764, de 2012, com vista à criação de centros de assistência integral ao paciente com Transtorno do Espectro Autista - TEA, no âmbito do Sistema Único de Saúde - SUS.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero só agradecer aos Deputados e às Deputadas desta Casa, que hoje deram uma valorosa contribuição à causa do autismo, porque, por meio deste projeto, que vai retornar ao Senado, e com certeza o Senado vai dizer \"sim\" às alterações propostas nesta Casa, os autistas terão, a partir do diagnóstico, acompanhamento com mais celeridade e mais qualidade e melhor assistência à sua saúde. Muito obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-08-08T16:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F8%2F2023&txPagina=81&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Repúdio,declaração,Governador,Minas Gerais,Rio Grande do Sul,Separatismo,Discriminação,Região Nordeste,Região Norte",
+    "sumario" : "Natureza separatista e xenofóbica da proposta de criação da Frente Sul-Sudeste em oposição aos Estados das Regiões Norte e Nordeste, apresentada pelo Governador do Estado de Minas Gerais, Romeu Zema, com o apoio do Governador do Estado do Rio Grande do Sul, Eduardo Leite. Refutação às propostas de divisão regional do País. Defesa dos valores democráticos, da construção de sociedade justa e igualitária e da unidade do País.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Obrigado, Presidente. Hoje venho a esta tribuna para expressar meu profundo repúdio às recentes declarações do Governador do Estado de Minas Gerais  e estas declarações foram apoiadas pelo Governador do Rio Grande do Sul, Eduardo Leite , que propôs a criação de uma frente dos Estados do Sudeste e do Sul. Segundo a declaração, querem defender os interesses dos dois Estados, mas, na verdade, querem manter os seus privilégios e o domínio sobre a pauta nacional. Colegas Deputados e Deputadas, para eles, não interessa que os Estados do Norte e Nordeste tenham protagonismo. É preocupante que surja essa proposta que menospreza as Regiões Norte e Nordeste. É uma iniciativa separatista e xenófoba, a mais nova face do bolsonarismo. Só querem aumentar a polarização e o extremismo. Estão querendo jogar brasileiros contra brasileiros. Mas não vamos permitir isso. São falas que violam o pacto federativo e buscam manter e até mesmo aumentar as desigualdades regionais. Tais palavras vão contra os valores fundamentais da nossa Nação e da nossa democracia. Devemos rejeitar veementemente essa ideia de que divisões regionais nos levarão a um futuro melhor. Pelo contrário, isso reforça os preconceitos e demonstra claramente que, para eles, trabalhar pelo Sul e Sudeste passa necessariamente por atacar o Norte e o Nordeste. Por outro lado, a união do Norte e Nordeste tem como objetivo reduzir as desigualdades do Brasil, e não aprofundá-las. A proposta sempre foi de justiça social e inclusão, para que todos os cidadãos brasileiros tenham as mesmas oportunidades, independentemente de onde moram. A força do Brasil reside na unidade de nossos Estados e regiões. Não podemos aceitar falas preconceituosas e discriminatórias contra qualquer que seja a região. Chega de conflitos internos. O País já cansou disso. Aos dois Governadores, fica o convite para irem ao Norte e ao Nordeste conhecer os seus Estados, o seu povo, a sua história, os seus potenciais e a sua força, pois certamente os Srs. Romeu Zema e Eduardo Leite não conhecem esse rico pedaço do Brasil. Por fim, reafirmo aqui o meu compromisso em defesa dos valores democráticos, da unidade do nosso País e da busca incansável por uma sociedade mais justa, igualitária. É isso que o Brasil quer, é disso que ele precisa, e é por isso que a maioria dos brasileiros elegeu um governo que aposta na união, e não na separação. Vamos juntos superar os obstáculos e construir um futuro brilhante para todos nós, irmãos brasileiros. Presidente, peço a divulgação da minha fala nos canais de comunicação da Casa."
+  }, {
+    "dataHoraInicio" : "2023-08-08T20:08",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F8%2F2023&txPagina=149&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Mulher,Vítima,Audiência (processo penal),Constrangimento,desrespeito,Juiz estadual,Comarca,Juazeiro do Norte (CE),desqualificação,Indenização,Procuradoria-Geral da República (PGR),Representação criminal",
+    "sumario" : "Ajuizamento, perante a Procuradoria-Geral da República, de Representação contra o Juiz Francisco José Mazza Siqueira, da Comarca de Juazeiro do Norte, Estado do Ceará, por desrespeito e constrangimento imposto a mulheres durante audiência.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero só registrar que hoje nós entramos com uma representação na Procuradoria-Geral da República contra o Juiz Francisco José Mazza Siqueira, da Comarca de Juazeiro do Norte, no Ceará, por constranger e desrespeitar mulheres que participavam de uma audiência em que pediam indenização por crimes sexuais. Quando o juiz fez comentários sobre o comportamento das mulheres na audiência, ele estava claramente desfavorecendo as vítimas, sugerindo uma justificativa para os abusos e colocando as vítimas como culpadas. Isso é um comportamento inadmissível e uma clara violação da sua prorrogativa como juiz. Nossa representação pede que o Procurador-Geral da República instaure um procedimento administrativo disciplinar e tome todas as medidas cabíveis para o caso. Muito obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-08-15T14:24",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F8%2F2023&txPagina=39&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Segurança pública,Amapá,Vítima,aumento,Homicídio,Dados,Governo estadual,Investimento público,Política de segurança pública,Criminalidade,Política social",
+    "sumario" : "Escalada da violência no Estado do Amapá, especialmente no tocante ao número de homicídios.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Saúdo a Mesa Diretora, na pessoa do Presidente Gilberto Nascimento. Cumprimento também as Sras. Deputadas e os Srs. Deputados. Marcione Souza dos Santos, Paulo Barbosa Souza, Luiz Felipe Lobato dos Reis, esses são os nomes de três vítimas assassinadas, nos últimos 3 dias, no Amapá  em 3 dias, três mortes. O número de assassinatos no Amapá subiu 87% no primeiro trimestre de 2023 em comparação com o mesmo período do ano passado. Foi a maior alta do País, conforme destacado no relatório do Monitor da Violência, feito em parceria com o G1, portal da Globo, a USP e o Fórum Brasileiro de Segurança Pública. Esse aumento impressionante é, sem dúvida, motivo de profunda preocupação e reflexão. Cada estatística representa não apenas um número, mas também uma vida perdida. Ao longo dos anos, o Amapá realizou um investimento inédito em suas forças de segurança, tecnologia e infraestrutura, para criar um ambiente mais seguro para seus cidadãos, dentro do Programa Estado Forte, Povo Seguro. Para se ter uma ideia, segundo dados do Anuário Brasileiro de Segurança Pública, o Amapá foi o Estado que realizou o maior investimento per capita do Brasil em segurança pública no ano de 2022. Nenhum Governo investiu tanto em segurança quanto o Governo de que tive a honra de fazer parte. Esses esforços geraram resultados ao final de 2022. O Amapá teve a maior redução no número de mortes no Brasil, uma queda de 31,73% em comparação ao ano anterior. Como mostram os dados do mesmo Monitor da Violência, o recente aumento da criminalidade serve como lembrete contundente de que a batalha pela segurança é contínua e requer dedicação e apoios constantes. Precisamos reafirmar nosso compromisso com a segurança de nossos cidadãos. Não podemos permitir que essas estatísticas alarmantes minem o progresso que fizemos e os avanços que alcançamos em direção a um Amapá mais seguro. Devemos permanecer unidos contra o crime, a violência e a falta de lei. No entanto, igualmente importante é não esquecer o papel que os fatores sociais desempenham nessa equação. Emprego, educação e desenvolvimento são fatores importantes. Devemos focar também nessas questões que contribuem para solucionar o problema. Nossas comunidades prosperam quando trabalhamos juntos, quando apoiamos iniciativas que fortalecem os vulneráveis e quando nos envolvemos em diálogo aberto para encontrar soluções. O Amapá seguro e protegido não é apenas um direito, mas é também uma necessidade para a prosperidade do nosso Estado e para... (Desligamento do microfone.) O SR. JOSENILDO (Bloco/PDT - AP) - Presidente, peço a V.Exa. que divulgue, nos meios de comunicação desta Casa, o meu pronunciamento."
+  }, {
+    "dataHoraInicio" : "2023-08-16T17:32",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F8%2F2023&txPagina=100&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Projeto de lei ordinária,Crime contra a liberdade sexual,Indenização,Vítima,Violência sexual",
+    "sumario" : "Escalada dos crimes de estupro e assédio sexual no Brasil. Apresentação do Projeto de Lei nº 3.777, de 2023, sobre o pagamento de indenização às vítimas de crimes contra a liberdade sexual. Defesa de votação da propositura em caráter de urgência.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Sra. Presidente, Srs. e Sras. Parlamentares, hoje trago a atenção para uma situação inquietante e que exige uma ação imediata e decisiva de todos nós: o desenfreado crescimento da violência sexual no Brasil. Os anos de um Governo machista, misógino, homofóbico e que diariamente fazia apologia à violência hoje estão cobrando a sua conta. O número de estupros atingiu o maior patamar da história em 2022. Foram mais de 74 mil vítimas, um crescimento de 8% em relação ao ano de 2021. De 2011 a 2022, esse número quase dobrou, Deputadas e Deputados. Quando falamos dessas estatísticas, estão incluídos os estupros de vulneráveis. Outro dado: as ocorrências de crime de assédio sexual no trabalho aumentaram 49,7% de 2021 para 2022. Além do aumento de criminalidade, as vítimas também não têm sentido segurança para denunciar os casos de assédio. Esses números, por si só, representam um grito de socorro que não pode ser ignorado. Como Parlamentares responsáveis por zelar pelo bem-estar e pelos direitos de todos os cidadãos, temos a obrigação de enfrentar essa questão com seriedade e empenho. Com este intuito, na semana passada, protocolei nesta Casa o Projeto de Lei nº 3.777, de 2023, para garantir que, além da condenação penal, aquele que cometer crime sexual também esteja sujeito ao pagamento de uma indenização à vítima. É mais uma punição para todos aqueles que violam a integridade das pessoas e a própria essência da nossa sociedade. O nosso projeto de lei quer amparar as vítimas que sofrem sequelas físicas e psicológicas deixadas pelos crimes sexuais, principalmente se levarmos em conta o fato de que 75,8% das vítimas são crianças ou adolescentes. A indenização quer endurecer as sanções a quem comete esse tipo de crime, reduzir esses índices e garantir às vítimas mais proteção, fortalecendo os princípios de dignidade e direitos humanos. Para concluir, Sra. Presidente, peço aos meus colegas Parlamentares que se juntem a mim nesse projeto de grande importância social. Vamos votar com urgência o PL 3.777/23. Cada um de nós tem esse papel a desempenhar. Cada um de nós pode contribuir para punir esses criminosos e amparar as vítimas. Presidente, peço que o meu pronunciamento seja divulgado nos meios de comunicação da Casa."
+  }, {
+    "dataHoraInicio" : "2023-08-17T10:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F8%2F2023&txPagina=51&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Marcha das Margaridas,Brasília (DF),Trabalhador rural,Mulher\r\nProjeto de lei ordinária,proibição,inscrição,Nomeação,Concurso público,Cargo público,Condenação,Violência contra a mulher\r\nProjeto de lei ordinária,Programa Mãe Coruja,Atividade acadêmica,Desempenho profissional,Período noturno\r\nProjeto de lei ordinária,Jornada de trabalho,Pai,Mãe,Responsável legal,Criança,Transtorno do Espectro Autista (TEA)\r\nProjeto de lei ordinária,Lei do Planejamento Familiar",
+    "sumario" : "Realização da Marcha das Margaridas, em Brasília, Distrito Federal. Apresentação dos Projetos de Lei de nºs 291, de 2023, acerca de estabelecimento, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, de restrições aplicáveis aos atos de nomeação para cargos em comissão e de designação para funções de confiança, bem como para inscrições em concursos destinados ao provimento de cargos públicos (restrições à contratação de condenados por atos de violência contra a mulher); 1.463, de 2023, relativo à instituição do Programa Mãe Coruja, destinado à oferta de creches às trabalhadoras em horário noturno; 444, de 2023, sobre a alteração do § 2º, art. 9º, da Lei nº 9.263, de 1996, com vista à determinação do prazo de oferta de métodos e técnicas contraceptivas e ao disciplinamento de condições para a esterilização no âmbito do planejamento familiar; e 3.121, de 2023, pertinente à redução da jornada de trabalho dos responsáveis legais por crianças com o Transtorno do Espectro Autista - TEA.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Sr. Presidente Pompeo de Mattos, ontem, aqui em Brasília, realizou-se a tradicional Marcha das Margaridas. Mais de 100 mil mulheres de todo o País vieram defender os seus direitos, a reconstrução do País, terra para quem precisa, com um discurso firme de mais oportunidade, mais igualdade e menos violência. Temos que reverenciar essas trabalhadoras do campo, das florestas e das águas. O Congresso Nacional já recebeu a pauta das Margaridas do campo e das cidades. Agora é hora de avançarmos, juntos, por melhorias e oportunidades, por vidas dignas para essas mulheres e seus filhos. O nosso mandato está atento e já trabalhando pelas causas da Marcha das Margaridas. Quanto ao combate à violência, apresentamos um projeto de lei, o PL 291/23, que proíbe a contratação pela administração pública federal, estadual, distrital e municipal de pessoas que foram condenadas por violência contra a mulher, com base na Lei Maria da Penha. Para apoio às mães, propusemos a criação do Programa Mãe Coruja, para oferecer creches no horário noturno e, assim, atender às mulheres que trabalham ou estudam à noite. Também já protocolamos um projeto de lei que propõe a redução da jornada de trabalho para mães e responsáveis de crianças com diagnóstico de transtorno do espectro autista. Somos autores do Projeto de Lei nº 444, de 2023, que determina prazo para oferecimento de métodos e técnicas contraceptivas e que disciplina condições para esterilização no âmbito do planejamento familiar. Apoiar as causas da Marcha das Margaridas contribui para a construção de uma sociedade mais justa, igualitária e inclusiva, em que as mulheres têm suas vozes ouvidas e seus direitos respeitados. Contem sempre com o nosso mandato. Obrigado, Presidente."
+  }, {
+    "dataHoraInicio" : "2023-08-23T18:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F8%2F2023&txPagina=148&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Passagem aérea,Preço,Malha aérea,Região Norte,Região Nordeste,redução,Ministro de Estado,Porto,Aeroporto",
+    "sumario" : "O Deputado protestou contra a persistência dos altos preços das passagens aéreas no Brasil. Enfatizou que o transporte aéreo é uma necessidade em um país de dimensões continentais, mas que os preços abusivos praticados por um pequeno grupo de empresas prejudicam os brasileiros. Além disso, o Parlamentar expressou preocupação com a diminuição da malha aérea, especialmente nas Regiões Norte e Nordeste, o que resulta em passagens caras e pouca oferta de voos. Pediu o apoio do Ministro de Portos e Aeroportos, Márcio França, para resolver esse problema e convocou os colegas Deputados das Comissões de Defesa do Consumidor e Viação e Transportes a se unirem na investigação dessa questão. O orador também anunciou a aprovação de um requerimento para uma audiência pública sobre o tema em setembro.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Sr. Presidente, colegas Deputados e Deputadas, quero começar me dirigindo a todos com uma sincera pergunta: até quando vamos aturar o abuso no preço das passagens aéreas no nosso Brasil? Temos um país com dimensões continentais, por isso, o transporte aéreo é uma necessidade. Não podemos deixar que um grupo de apenas três empresas prejudique o direito de ir e vir de milhares de brasileiros, com preços extorsivos nas passagens aéreas. Uma passagem de Macapá, no Amapá, para o Rio de Janeiro, no mês de setembro, está custando quase 5 mil reais. De Macapá para o Recife, a passagem custa mais de 4 mil reais; para Brasília, 3.750 reais. Esses preços abusivos são um crime contra o consumidor brasileiro. Passagens com valores absurdos prejudicam o turismo, prejudicam os negócios e atrapalham o desenvolvimento do Brasil. As empresas, obviamente, têm que ter lucro, mas ter lucro cobrando preços abusivos, não. Não, Deputados! Temos que questionar essa conduta. Outro problema é a diminuição da malha aérea, principalmente nas Regiões Norte e Nordeste. Isso resulta em passagens caras e pouca oferta de voos. Peço, então, que o Ministro de Portos e Aeroportos, o Sr. Márcio França, nos ajude a resolver essa questão, fazendo com que as empresas aéreas cobrem um preço justo. Colegas Deputados e Deputadas de Comissões como a de Defesa do Consumidor e a de Viação e Transportes, vamos nos unir. Essa não é uma questão relativa só ao consumidor; é também uma questão social e econômica. Temos que investigar isso, olhar nos olhos dos Presidentes dessas empresas de aviação e saber a razão de termos um valor tão alto no preço das passagens e serviços que não condizem com essa cobrança. A Câmara de Deputados tem que estar vigilante quanto a esse serviço tão essencial para o Brasil. Somos representantes do povo, somos sua voz e não podemos tolerar essa conduta abusiva contra o povo brasileiro. Diante disso, Sr. Presidente, Sras. e Srs. Deputados, eu apresentei hoje, e foi aprovado, na Comissão de Fiscalização Financeira e Controle, um requerimento para que, no dia 21 do mês de setembro, possamos fazer uma audiência pública para discutir esse tema. Muito obrigado, Presidente."
+  }, {
+    "dataHoraInicio" : "2023-08-24T09:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F8%2F2023&txPagina=30&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Campanha de vacinação,Sarampo,Rubéola,Coqueluche,Doença,Controle sanitário,Política de saúde,Medicina,Governo federal,Partido dos Trabalhadores (PT),Investimento\r\nVacina,Ciência,Negacionismo,Ex-presidente da República,Partido Liberal (PL)",
+    "sumario" : "O Deputado defendeu a Campanha Nacional de Multivacinação do Governo Federal, para imunização de jovens com até 15 anos de idade para prevenir doenças como sarampo, rubéola, caxumba, difteria, tétano, coqueluche, dentre outras. Elogiou o investimento de mais de 150 milhões de reais para apoiar Estados e Municípios na elevação dos índices de imunização e expressou sua preocupação com a baixa taxa de vacinação, atribuindo-a em grande parte às ações do governo anterior.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Obrigado, Sr. Presidente Pompeo de Mattos. Muito me honra ter V.Exa. presidindo esta sessão, companheiro de partido, o PDT, já no sexto mandato como Deputado Federal pelo Rio Grande do Sul. Isso é prova de reconhecimento do trabalho de V.Exa. ao longo desses seis mandatos em que tem feito muito pelo Brasil e, especialmente, pelo Rio Grande do Sul. Colegas Deputados e Deputadas, estamos aqui para destacar a importância da Campanha Nacional de Multivacinação, uma iniciativa do Governo Federal que tem como objetivo garantir a imunização adequada de nossos jovens com até 15 anos de idade. Para promover e realizar essa iniciativa vital, o Governo Federal destinou mais de 150 milhões de reais para que Estados e Municípios possam elevar os índices de imunização. Esse investimento é inédito no País e reflete o compromisso em corrigir o problema de baixa vacinação, que, em grande parte, é uma consequência direta do Governo Bolsonaro, ao desacreditar as vacinas e ir na contramão da ciência. A vacinação é uma das conquistas mais significativas da medicina moderna. Ela não apenas previne doenças graves e muitas vezes fatais, mas também contribui para a erradicação e o controle de diversas enfermidades que já assolaram o País em décadas passadas. Nesse contexto, a Campanha Nacional de Multivacinação desempenha um papel crucial: assegurar que todas as crianças e adolescentes de até 15 anos recebam as vacinas necessárias para prevenir sarampo, rubéola, caxumba, difteria, tétano, coqueluche, dentre outras. Faço, então, um apelo a todas as famílias, escolas, profissionais de saúde e à sociedade como um todo para apoiarem ativamente a Campanha Nacional de Multivacinação. Vamos unir esforços para garantir que nossas crianças e nossos adolescentes estejam protegidos, que a conscientização sobre a importância da vacinação continue a se espalhar e que todos nós possamos contribuir para a construção de uma Nação mais feliz e saudável. Muito obrigado, Presidente."
+  }, {
+    "dataHoraInicio" : "2023-08-29T17:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F8%2F2023&txPagina=95&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Projeto de lei ordinária,Programa Minha Primeira Empresa (PROMPE),Política pública,incentivo,Empreendedorismo,Juventude,Amapá\r\nJuventude,Estudo,Trabalho,Política pública",
+    "sumario" : "O Deputado alertou para a grande proporção de jovens \"nem-nem\" no Brasil, com 36% dos jovens entre 18 e 24 anos que não estudam nem trabalham. Enfatizou a importância de políticas públicas urgentes para evitar que essa geração se torne perdida. Mencionou o sucesso do Programa Minha Primeira Empresa no Amapá, destinado a jovens, mulheres e participantes de programas sociais, e propôs sua expansão nacional por meio do Projeto de Lei nº 635, de 2023.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, um recente relatório divulgado pela OCDE, que é a Organização para a Cooperação e o Desenvolvimento Econômico, trouxe um dado preocupante: O Brasil é o segundo País de um total de 37 nações analisadas com maior proporção de jovens com idades entre 18 e 24 anos que não estudam nem trabalham. São os chamados nem-nem. Hoje, 36% dos jovens brasileiros não estudam e estão sem trabalho. Esse é um problema enorme para o futuro do Brasil. O mundo está em transformação. A tecnologia e a chegada definitiva da inteligência artificial estão mudando os empregos. Tudo isso potencializa o risco de que esses jovens se tornem uma geração perdida. Os mais pobres são os mais afetados. A situação socioeconômica tem relação direta com o desemprego e com a falta de estudos. As jovens mulheres são particularmente as mais afetadas, já que se veem obrigadas a exercer tarefas domésticas, como cuidar dos irmãos, criar filhos e dar apoio aos idosos. O Brasil precisa melhorar as suas políticas públicas e agir com urgência. No Amapá, em 2020, em meio ao cenário pandêmico, criamos o Programa Minha Primeira Empresa, para dar capacitação empreendedora, acesso ao crédito e acompanhamento aos participantes, que vai desde a elaboração do diagnóstico do perfil empreendedor até os 2 primeiros anos da implantação da empresa. O foco do programa, Deputadas e Deputados, é justamente jovens, mulheres, universitários e participantes de programas sociais. No Amapá, os resultados foram animadores, provando que o poder público pode e deve ser um aliado dessa parcela da população. Agora, queremos trazer essa iniciativa para o âmbito nacional. Por isso, propus, logo no início do ano, o projeto que cria o Programa Minha Primeira Empresa Nacional em todo o Brasil, o PL 635/23, cujo parecer foi aprovado neste mês na Comissão de Indústria, Comércio e Serviços da Câmara dos Deputados. E conto com os nobres colegas para seguirmos avançando com a matéria, a fim de darmos esse suporte o mais rápido possível a esses milhões de jovens da \"geração nem-nem, do contrário, vamos ficar amargurando números como este de 36% dos jovens sem perspectiva e esperança. O futuro da nossa Nação está em jogo, e podemos dar uma grande ajuda nesse sentido, pelo desenvolvimento do Amapá e pela reconstrução do Brasil. Obrigado, Presidente."
+  }, {
+    "dataHoraInicio" : "2023-09-04T22:24",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2023&txPagina=135&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Orientação de bancada,Substitutivo,Projeto de lei ordinária,Governo,Base de apoio político,Voto favorável",
+    "sumario" : "O Deputado orientou a bancada na votação do substitutivo oferecido pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado ao Projeto de Lei nº 1.949, de 2007, que institui a Lei Geral da Polícia Civil.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Governo orienta \"sim\", pela efetividade da segurança pública. Eu quero lembrar, para fazer justiça, que este projeto entrou aqui em 2007, na gestão do Presidente Luiz Inácio Lula da Silva. Então, o Governo orienta \"sim\", Presidente."
+  }, {
+    "dataHoraInicio" : "2023-09-05T16:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F9%2F2023&txPagina=93&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Administração federal,Assédio sexual,Demissão,Presidente da República,Advogado-Geral da União,Saudação\r\ncombate,Assédio sexual,Mercado de trabalho,Mulher,Princípio da isonomia",
+    "sumario" : "O Deputado saudou o Presidente Lula, o Advogado-Geral da União - AGU, Ministro Jorge Messias, pelo parecer que determina que o assédio sexual resultará em demissão em toda a Administração Pública Federal. Elogiou o compromisso do Governo com a igualdade de gênero e com os direitos das mulheres. Enfatizou a importância do combate ao assédio sexual para a igualdade no mercado de trabalho e para a melhoria da vida das mulheres. O orador aplaudiu a luta das mulheres brasileiras.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Sr. Presidente, colegas Deputados e colegas Deputadas, venho hoje a esta tribuna saudar o Presidente Lula, o Advogado-Geral da União, Ministro Jorge Messias, e principalmente todas as mulheres do nosso Brasil. Ontem, a AGU emitiu um parecer, respaldando que a prática do assédio sexual, em toda a esfera da Administração Pública Federal, ensejará demissão. O Presidente Lula, a Ministra das Mulheres, Aparecida Gonçalves, e a Ministra da Gestão e da Inovação em Serviços Públicos, Esther Dueck, estiveram juntos na assinatura e na aprovação desse parecer. Esse é um grande avanço na luta contra o assédio e mais uma prova de que agora o Brasil tem um Governo comprometido com a vida, com a segurança e com os direitos das mulheres. Não foi à toa que a maioria das mulheres brasileiras elegeu Lula como o Presidente do Brasil. O enfrentamento do assédio sexual é fundamental na busca pela igualdade, para o aumento do número e permanência das mulheres no mercado de trabalho, para a construção de suas carreiras e, principalmente... (Desligamento do microfone.) O SR. PRESIDENTE (Gilberto Nascimento. Bloco/PSD - SP) - Desculpe-me, Deputado. Eu não estou conseguindo ver a tribuna, tendo em vista há um Deputado aqui na frente. O SR. JOSENILDO (Bloco/PDT - AP) - V.Exa. pode restabelecer o meu tempo? O SR. PRESIDENTE (Gilberto Nascimento. Bloco/PSD - SP) - Claro! Deputado Josenildo, V.Exa. já havia falado por um tempo? O SR. JOSENILDO (Bloco/PDT - AP) - Não. O SR. PRESIDENTE (Gilberto Nascimento. Bloco/PSD - SP) - Desculpe-me. É que alguns Deputados ficaram aqui na frente, e eu não consegui observar a tribuna. Vamos restabelecer o tempo do Deputado Josenildo, do Amapá. Eu peço desculpas a V.Exa., Deputado. O SR. JOSENILDO (Bloco/PDT - AP) - Obrigado, Presidente. Colegas Deputados e Deputadas, eu venho hoje a esta tribuna saudar o Presidente Lula, o Advogado-Geral da União, Ministro Jorge Messias, e principalmente todas as mulheres do Brasil. Ontem, a AGU emitiu um parecer, respaldando que a prática do assédio sexual, em toda a esfera da Administração Pública Federal, ensejará demissão. O Presidente Lula, a Ministra das Mulheres, Aparecida Gonçalves, e a Ministra da Gestão e da Inovação em Serviços Públicos, Esther Dweck, estiveram juntos na assinatura e na aprovação desse parecer. Esse é um grande avanço na luta contra o assédio e mais uma prova de que agora o Brasil tem um Governo comprometido com a vida, com a segurança e com os direitos das mulheres. Não foi à toa que o Brasil e as mulheres elegeram o Lula como nosso Presidente. O enfrentamento do assédio sexual é fundamental na busca pela igualdade, para o aumento do número e permanência das mulheres no mercado de trabalho, para a construção de suas carreiras e, principalmente, para a melhoria da vida delas. Parabéns ao Ministro da AGU, Jorge Messias, às Ministras Aparecida Gonçalves e Esther Dweck e ao Presidente Luiz Inácio Lula da Silva por essa grande vitória! Viva o Governo comprometido com as mulheres! Viva a luta das mulheres brasileiras! Presidente, peço a V.Exa. que o meu pronunciamento seja registrado no programa A Voz do Brasil. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-09-05T19:52",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "DISCUSSÃO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F9%2F2023&txPagina=176&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Discussão,Projeto de lei ordinária,favorável",
+    "sumario" : "O Deputado discutiu o Projeto de Lei nº 4.172, de 2023, que institui o Pacto Nacional pela Retomada de Obras e de Serviços de Engenharia Destinados à Educação Básica e Profissionalizante e à Saúde; e altera a Lei nº 10.260, de 12 de julho de 2001. O orador parabenizou a Relatora da matéria, Deputada Flávia Morais, por atender solicitação da bancada do PDT e incluir no seu parecer o refinanciamento das dívidas do FIES.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Obrigado, Presidente. Quero parabenizar o Presidente Luiz Inácio Lula da Silva por ter enviado para cá este projeto extremamente importante, que trata das obras inacabadas da educação. Quero parabenizar a Relatora, Deputada Flávia Morais, do PDT, o meu partido, por ter tido a sensibilidade de incluir nesse projeto que trata das obras inacabadas também as obras da saúde, o que é importante para que nós possamos fazer uma saúde pública de qualidade. Esse projeto é extremamente importante, porque vai permitir a retomada dessas obras e vai permitir que o povo brasileiro tenha mais qualidade de vida. Quero parabenizar novamente a Relatora, Deputada Flávia Morais, por sua sensibilidade, pois S.Exa. atendeu uma solicitação da bancada do Partido Democrático Trabalhista, o PDT, e incluiu em seu relatório o refinanciamento das dívidas do FIES. Isso é extremamente importante, porque vai atender milhares de brasileiros e brasileiras que hoje estão inadimplentes com o FIES e que vão poder, a partir desse refinanciamento, ter o seu nome limpo. Esse refinanciamento permite uma redução de juros que varia de 77% a 99% do valor da dívida e permite o parcelamento da dívida em até 150 vezes. As condições são muito favoráveis para que estudantes e muitas pessoas que até já se formaram e que são profissionais que estão no mercado possam quitar suas dívidas. Parabenizo o Presidente Lula pela iniciativa do projeto. Parabenizo pelo excelente relatório a Deputada Flávia Morais. Muito obrigado, Presidente. O Brasil voltou!"
+  }, {
+    "dataHoraInicio" : "2023-09-20T17:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F9%2F2023&txPagina=101&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Vereador,Jucás (CE),declaração,Autismo,Partido Democrático Trabalhista (PDT),atuação",
+    "sumario" : "O Deputado condenou a declaração do Vereador Eúde Lucas, de Jucás (CE), que afirmou que \"autismo se cura na peia e na chibata\". Classificando a fala como ignorante e preconceituosa, o Parlamentar e o Deputado Leo Prates, ao descobrirem que Eúde Lucas é do PDT, anunciaram a intenção de pedir sua expulsão do partido.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Obrigado, Sr. Presidente. Quero externar o meu repúdio e a minha indignação, Sr. Presidente  e acho que esta Casa não pode se calar , com a fala de um Vereador do Município de Jucás, no Estado do Ceará, o Vereador Eúde Lucas, Presidente da Câmara Municipal de Jucás, que afirmou que \"autismo se cura na peia e na chibata\". Veja bem, Sr. Presidente: isso é uma fala de ignorância, preconceito e falta de respeito, e nós não podemos admitir isso. Nós ficamos sabendo agora há pouco, eu e o Deputado Leo Prates, que esse ignorante é das fileiras do PDT e já vamos solicitar que ainda hoje o PDT expulse esse elemento, esse ignorante do nosso partido."
+  }, {
+    "dataHoraInicio" : "2023-09-20T18:08",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ENCAMINHAMENTO DE VOTAÇÃO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F9%2F2023&txPagina=129&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Encaminhamento de votação,Requerimento de urgência,Projeto de lei ordinária,favorável",
+    "sumario" : "O Deputado encaminhou a votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3.777, de 2023, que dispõe sobre indenização às vítimas de crimes contra a liberdade sexual.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Presidente, primeiro, quero agradecer-lhe a sensibilidade por ter atendido nosso pedido e colocado este importante requerimento de urgência na pauta de hoje, para que esta Casa possa aprová-lo. Quero pedir aos Deputados e às Deputadas desta Casa sensibilidade para que aprovemos este requerimento, o que vai permitir que aprovemos um projeto de lei importante, que trata da defesa da mulher. Nós sabemos que, a cada dia, os crimes praticados contra as mulheres aumentam mais. Só neste ano, 2023, para termos ideia, já foram cometidos 75 mil estupros. Este projeto vai permitir que, no caso de violência contra as mulheres, quer por importunação sexual, quer por assédio sexual, quer por crime de estupro, além de o indivíduo que cometeu este tipo de crime ter sua condenação na tipificação do Código de Processo Penal, o juiz possa arbitrar uma indenização a estas vítimas, para que elas tenham recursos para buscarem atendimento psicológico. Nós sabemos que a mulher, quando sofre uma violência como esta, fica psicologicamente muito abalada e, muitas vezes, não tem condições, não tem renda, para arcar com o tratamento psicológico e, assim, se recuperar. Este projeto vem para corrigir isso. O infrator, além de ser condenado a cumprir pena pelo crime cometido, terá que indenizar a vítima de forma proporcional ao crime cometido. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-10-18T17:08",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F10%2F2023&txPagina=83&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Crise climática,Enchente,Inundação,Governo federal,Ministro de Estado,Ministério da Integração e do Desenvolvimento Regional,atuação,Assistência humanitária,recursos",
+    "sumario" : "O Deputado expressou sua preocupação com os extremos climáticos que tem ocorrido no Brasil e destacou positivamente a resposta do Governo Federal. Elogiou a atuação do Ministro da Integração e do Desenvolvimento Regional, Waldez Góes, que agiu de forma eficiente para auxiliar as regiões afetadas por enchentes no sul e seca no norte do País. Ressaltou o esforço do Ministro em fornecer ajuda humanitária, reconhecer estados de calamidade pública e liberar recursos para ações de recuperação.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Obrigado, Presidente. Sras. e Srs. Deputados, o Brasil vem sofrendo uma sucessão inédita de intensos eventos climáticos neste ano: chuvas no sudeste, enchentes e ciclones no sul e, mais recentemente, seca histórica no norte do País. Neste momento tão delicado, em que a união e o espírito coletivo são tão importantes, o Governo Federal vem agindo de forma exemplar, atendendo com rapidez, eficiência, em parceria com Governadores e Prefeitos, independentemente do partido, para cuidar do povo brasileiro. Nesse contexto, quero destacar a atuação do Ministro da Integração e do Desenvolvimento Regional, Waldez Góes, que ontem esteve aqui nesta Casa em audiência pública sobre as enchentes no Rio Grande do Sul. O trabalho do Ministro Waldez tem sido fundamental aos Municípios atingidos, seja no envio da ajuda humanitária, seja na agilidade do reconhecimento do estado de calamidade pública, seja na liberação do crédito extraordinário de 360 milhões de reais para ações no Estado, entre várias outras ações. Na Amazônia, também não tem sido diferente com as ações emergenciais para combater os efeitos da seca, levando alimentos, água e combustível para cerca de 500 mil pessoas afetadas. A Defesa Civil, que faz parte do Ministério da Integração e do Desenvolvimento Regional, está viabilizando o transporte desses insumos, junto com as Forças Armadas, para os Municípios atingidos. A atuação do Ministro Waldez Góes e de toda a sua equipe é um exemplo para todos os agentes públicos que, assim como eu, querem um Brasil onde todos os cidadãos possam contar com o Governo no amparo, reconstrução e desenvolvimento do nosso País. Presidente, peço a V.Exa. que este pronunciamento seja registrado nos meios de comunicação da Casa."
+  }, {
+    "dataHoraInicio" : "2023-11-07T16:08",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F11%2F2023&txPagina=75&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Empresa de transporte aéreo,Passagem aérea,Lucro,Consumidor,Voo comercial,Aviação,Preço abusivo",
+    "sumario" : "O Deputado discorreu sobre os lucros expressivos da LATAM, ressaltando que a companhia aérea obteve um lucro líquido superior a 232 milhões de dólares no terceiro trimestre do ano, equivalente a mais de 1 bilhão de reais. Ademais, sustentou a necessidade de equilibrar a busca por lucro com a oferta de um serviço acessível e de qualidade para a população. Além disso, criticou os altos preços das passagens aéreas e a disparidade entre os lucros das empresas aéreas e os custos para os consumidores. Adicionalmente, ressaltou que as condições atuais, como a estabilização do preço do combustível e do dólar, são favoráveis para redução das tarifas. Por fim, expressou o compromisso de lutar por tarifas mais acessíveis e por um setor de aviação mais justo e sustentável, pedindo o apoio dos colegas parlamentares nessa iniciativa.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Sem revisão do orador.) - Sr. Presidente, Exmos. colegas da Câmara dos Deputados, hoje quero trazer uma matéria que me chamou a atenção na última semana: a LATAM teve um lucro líquido superior a 232 milhões de dólares no terceiro trimestre deste ano, isso dá mais de 1 bilhão de reais de lucro em apenas 3 meses. Senhoras e senhores, no segundo trimestre, a LATAM também teve lucro, dessa vez de mais de 700 milhões de reais. É bom lembrar que a LATAM Brasil é a principal operação do Grupo LATAM, que também está no Chile, na Colômbia, no Equador e no Peru. Outro dado interessante. As operações da LATAM no Brasil cresceram 107,3% em relação a 2019, que é o período pré-pandemia. O Presidente da LATAM já disse à imprensa que espera um lucro recorde em 2023. Obviamente, as empresas têm que ter lucro. Não estamos questionando isso, mas é preciso que haja um equilíbrio entre a busca por lucro e a oferta de um serviço acessível e de qualidade para a população. As grandes companhias aéreas estão comemorando lucros milionários, enquanto brasileiros estão pagando preços exorbitantes nas passagens. É nosso dever zelar para que essas empresas cumpram não apenas com as suas obrigações financeiras, mas também com o compromisso social de proporcionar um serviço que promova a mobilidade e não crie obstáculos para que as pessoas viajem a negócios ou a lazer pelo País. No mês passado, realizamos uma audiência pública sobre o alto preço das passagens aéreas e os prejuízos para o Brasil. Vamos agora levar esses novos dados para a discussão e avançar na luta por uma tarifa mais barata. A estabilização do preço do combustível e do dólar também são um cenário favorável para as passagens mais baratas. As companhias aéreas precisam aprender a crescer sem gerar sacrifício financeiro aos passageiros. Queremos assegurar que os interesses dos cidadãos estejam sendo devidamente protegidos. Não podemos permitir que o lucro exorbitante das companhias aéreas continue a prejudicar a mobilidade e o desenvolvimento do nosso País. Conto com o apoio de todos os presentes nesta Casa, para que juntos possamos trabalhar em prol de um setor de aviação mais justo, acessível e sustentável para o povo brasileiro. Muito obrigado, Presidente. Solicito que o meu discurso seja proferido pelos canais de comunicação da Casa."
+  }, {
+    "dataHoraInicio" : "2023-12-15T18:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F12%2F2023&txPagina=&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Orientação de bancada,Destaque para votação em separado,Dispositivo constitucional,Dispositivo legal,Substitutivo,Senado Federal,Proposta de Emenda à Constituição",
+    "sumario" : "O Deputado orientou a bancada na votação do Destaque nº 15, para votação em separado do § 18 do artigo 37 da Constituição, acrescido pelo artigo 3º do Substitutivo do Senado Federal, apresentado à Proposta de Emenda à Constituição nº 45, de 2019, que altera o Sistema Tributário Nacional.",
+    "transcricao" : "O SR. JOSENILDO (Bloco/PDT - AP. Pela ordem. Sem revisão do orador.) - O PDT orienta \"sim\" à inclusão desse dispositivo no texto. O SR. PRESIDENTE (Arthur Lira. Bloco/PP - AL) - V.Exa. está orientando pelo bloco ou pelo partido? Uma coisa é orientar pelo bloco. Depois V.Exa. orienta pelo partido. O SR. JOSENILDO (Bloco/PDT - AP) - O bloco libera. O PDT orienta \"sim\", pela inclusão desse dispositivo no texto, Presidente, em virtude da importância do reconhecimento da carreira fiscal. Eu sou servidor de carreira do Fisco, e isso é extremamente importante. São os auditores fiscais de tributos, de todos os Estados, Municípios e do Governo Federal, que arrecadam recursos para que políticas públicas, como educação, saúde e assistência, possam ter investimento. Então, pedimos a sensibilidade dos Deputados e das Deputadas para votar \"sim\", pela inclusão desse dispositivo no texto."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220578/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220578/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220578/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

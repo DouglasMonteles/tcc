@@ -5,15 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4467710-b66a-4c7b-bf15-5ed7e72708ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/entities/DeputySpeech.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/RouterManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/utils/ResourceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-data-processor/src/main/resources/deputados/discursos/73579.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-data-processor/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-data-processor/src/main/resources/logback.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/entities/Depute.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/entities/Deputy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/enums/OpenDataEndpoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/enums/OpenDataEndpoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/entities/DeputySpeech.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/entities/DeputySpeech.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/DeputeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/DeputyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/impl/DeputeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/impl/DeputyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/DeputyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/DeputyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/impl/DeputyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/impl/DeputyServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/resources/deputados/deputados.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/resources/deputados/discursos/204374.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/resources/deputados/discursos/62881.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trained-lstm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trained-lstm/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,11 +68,13 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/douglas/Documentos/www/politics-agents/external-data-processor/src/main/resources/deputados"
+    "last_opened_file_path": "/home/douglas/Documentos/www/politics-agents/external-data-processor/src/main/resources"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/external-data-processor/src/main/resources" />
+      <recent name="$PROJECT_DIR$/external-data-processor/src/main/resources/deputados/discursos" />
       <recent name="$PROJECT_DIR$/external-data-processor/src/main/resources/deputados" />
       <recent name="$PROJECT_DIR$/trained-lstm/src/main/java/org/fga/tcc/news" />
       <recent name="$PROJECT_DIR$" />
@@ -176,37 +186,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/impl/DeputyServiceImpl.java</url>
-          <line>22</line>
+          <line>25</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java</url>
-          <line>64</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java</url>
-          <line>104</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/impl/DeputyServiceImpl.java</url>
-          <line>21</line>
+          <line>24</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>

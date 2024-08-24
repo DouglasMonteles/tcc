@@ -1,0 +1,29 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2023-11-07T19:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "DISCUSSÃO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F11%2F2023&txPagina=134&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Discussão,Projeto de lei ordinária,favorável\r\nProjeto de lei ordinária,Profissional da educação,formação,Pessoa com transtorno do espectro autista,Profissional de apoio escolar,Educação inclusiva\r\nProjeto de lei ordinária,Profissional de apoio escolar,Pessoa com transtorno do espectro autista",
+    "sumario" : "A Deputada discutiu o Projeto de Lei nº 1.874, de 2015, que altera a redação do parágrafo único do art. 3º e os artigos 5º e 7º da Lei nº 12.764, de 27 de dezembro de 2012, que institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista. Destacou a importância do ambiente escolar inclusivo, ressaltando o direito legítimo desses estudantes a um ensino acolhedor. Referindo-se aos Projetos de Lei nº 2.673, de 2023 e nº 2.571, de 2023, explicou que buscam formar profissionais da educação e garantir educação inclusiva para os autistas em todos os níveis, respectivamente.",
+    "transcricao" : "A SRA. ANDREIA SIQUEIRA (Bloco/MDB - PA. Sem revisão da oradora.) - Prezados colegas, nobre Presidente, querida Relatora Helena Lima, é com imensa gratidão e alegria que me encontro aqui para falar desse projeto tão significativo. Ver mais um projeto de minha autoria dedicado à causa do transtorno do espectro autista sendo votado neste plenário é motivo de orgulho e de esperança para todos nós. O ambiente escolar é fundamental para qualquer pessoa, e para os autistas não é diferente. Hoje, a minha defesa é pelo ensino inclusivo para todos nas nossas escolas. Os autistas têm o direito legítimo de estudar com acolhimento e o suporte necessário. O meu Projeto de Lei nº 2.673, de 2023, propõe a formação dos profissionais da educação que atuam nas instituições voltadas ao público infantil, incluindo tópico sobre a detecção precoce do TEA na primeira infância. E o meu Projeto de Lei nº 2.571, de 2023, prevê que esses estudantes tenham direito à educação inclusiva em todos os níveis e modalidades de ensino, com oferta de profissionais de apoio escolar qualificados, proibindo qualquer cobrança adicional de valores por parte das escolas. No meu Estado, o Pará, convivi com muitas famílias com pessoas com Transtorno do Espectro Autista. A vida dessas pessoas é um grande desafio, e um desafio diário. Elas enfrentam preconceito, burocracia e falta de acesso a informação. É por isso que precisamos mudar as nossas leis, ter uma legislação mais justa, igual e com garantias para que os direitos dos autistas e de suas famílias sejam cumpridos e respeitados pelo Estado e pela sociedade. A descoberta precoce do TEA na primeira infância é essencial para o desenvolvimento dessas crianças. É com o apoio adequado que elas poderão desenvolver habilidades para alcançar a independência ao longo da vida. Os profissionais de apoio escolar são os elos essenciais entre os estudantes com deficiência e o sistema educacional. O Estado deve estar atento a esses profissionais, que precisam de formação adequada e apoio para que possam cumprir a sua missão e proporcionar um ambiente verdadeiramente inclusivo. Colegas, que o voto de cada um aqui seja guiado pela empatia, pela responsabilidade e pela necessidade desses grupos de pessoas, suas famílias e seus responsáveis. Esses projetos de lei, sendo aprovados, serão uma vitória não apenas minha ou da Relatora, mas também uma vitória desta Casa, a Casa do Povo. Nós enfrentamos uma jornada desafiadora, mas também uma jornada de esperança. Quero dizer a todas as mães e a todos os pais que têm filhos autistas que nós estamos aqui nesta Casa lutando por essa causa e defendendo vocês e os seus filhos. A educação é o nosso lema! Muito obrigada a todos."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220676/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220676/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220676/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

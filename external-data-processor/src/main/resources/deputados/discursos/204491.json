@@ -1,0 +1,285 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2019-03-20T18:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=195&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 2724/2015, PROJETO DE LEI ORDINÁRIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVORÁVEL.",
+    "sumario" : "Orientação de bancada na votação da Subemenda Substitutiva Global apresentada pelo Relator da Comissão Especial, ressalvados os destaques.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revisão do orador.) - Presidente, entendemos que, pela aprovação do Projeto de Lei nº 2.724, de 2015, nós vamos incentivar a disputa entre as empresas, que vão patrocinar uma passagem com menor custo-benefício para o consumidor. Com isso, nós estaremos incentivando a competitividade.\r\nPor isso, o nosso posicionamento, a nossa orientação, é \"sim\"."
+  }, {
+    "dataHoraInicio" : "2019-03-20T21:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=360&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTAÇÃO EM SEPARADO, EMP 15/2019, EMENDA DE PLENÁRIO, PL 2724/2015, PROJETO DE LEI ORDINÁRIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVORÁVEL.",
+    "sumario" : "Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 15, apresentada ao Projeto de Lei nº 2.724, de 2015, sobre a elevação da participação do capital estrangeiro com direito a voto nas empresas de transporte aéreo.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, se nós queremos um conforto, um espaço a mais, nós temos que pagar. Se nós queremos um lanche, hoje nós temos que pagar. Para despachar a bagagem, nós temos que pagar. Enfim, tudo nós pagamos. Então, nada mais justo do que sermos favoráveis a essa emenda.\r\nPor isso, o PRB encaminha \"sim\"."
+  }, {
+    "dataHoraInicio" : "2019-03-26T16:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=109&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, REQUERIMENTO DE URGÊNCIA, PL 888/2019, PROJETO DE LEI ORDINÁRIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVORÁVEL.",
+    "sumario" : "Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 888, de 2019, sobre a alteração do Regime Especial de Tributação - RET nos contratos de incorporações e construções de interesse social, com relação aos projetos do Programa Minha Casa, Minha Vida.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o PRB encaminha o voto \"sim\", porque entende que o empresário não pode ser penalizado, uma vez que a entrega das casas pode ser atrasada por diversos fatores. Entendemos a importância de o programa continuar recebendo os benefícios até a entrega.\r\nPor isso, o PRB encaminha o voto \"sim\"."
+  }, {
+    "dataHoraInicio" : "2019-03-26T19:20",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=224&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTAÇÃO EM SEPARADO, EMENDA DE PLENÁRIO, EMP 20/2019, PL 2724/2015, PROJETO DE LEI ORDINÁRIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO CONTRÁRIO.",
+    "sumario" : "Orientação de bancada na votação requerimento de destaque para votação em separado da Emenda nº 20.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o PRB encaminha \"não\".\r\nNão estou generalizando, mas entendemos que é possível que, de repente, um policial ou um soldado possa ter um surto. Este surto pode ter consequências. Fico tranquilo em dizer isso, porque sou filho de militar, mas compreendemos que o ambiente não é propício para que se venha a carregar arma.\r\nPor isso, o PRB entende que temos que votar \"não\"."
+  }, {
+    "dataHoraInicio" : "2019-04-02T17:16",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F4%2F2019&txPagina=113&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSIÇÃO DA ORDEM DO DIA, PL 1321/2019, PROJETO DE LEI ORDINÁRIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO CONTRÁRIO.",
+    "sumario" : "Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 1.321-A, de 2019, sobre a autonomia dos partidos políticos.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o PRB entende que nós devemos dar continuidade a este trabalho. O projeto tem que ser votado. Não podemos retirá-lo de pauta, até porque ele já foi amplamente discutido nesta Casa. \r\nEntão, o nosso encaminhamento é \"não\"."
+  }, {
+    "dataHoraInicio" : "2019-04-03T16:32",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Grande Expediente",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2019&txPagina=96&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "MINISTÉRIO PÚBLICO, POLÍCIA FEDERAL, INVESTIGAÇÃO, PRISÃO, BRASILEIRO, FRAUDE, CIDADANIA, ITÁLIA.",
+    "sumario" : "Prisão de cidadãos brasileiros pela polícia italiana acusados de fraude. Pedido ao Ministério Público e à Polícia Federal de investigação da veracidade dos fatos.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revisão do orador.) - Presidente Geovania, no final de março, houve uma operação da polícia italiana na qual sete brasileiros foram presos acusados de fraude, por facilitarem a aquisição da cidadania italiana. Entre esses que foram acusados, há - supostamente, os favorecidos - juízes, promotores, inclusive o próprio Governador de Minas Gerais, Romeu Zema.\r\nEntão, nós estamos solicitando ao Ministério Público e à Polícia Federal que venham verificar a veracidade dos fatos, porque, como são autoridades, nós temos que tomar providências para a comprovação dos fatos."
+  }, {
+    "dataHoraInicio" : "2019-04-03T20:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2019&txPagina=227&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PL 1354/2019, PROJETO DE LEI ORDINÁRIA, REQUERIMENTO DE DESTAQUE, RETIRADA.",
+    "sumario" : "Retirada de requerimento de destaque.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revisão do orador.) - Sra. Presidente, a emenda que apresentamos diz o seguinte: \r\nOs estabelecimentos públicos e privados mencionados nesta Lei deverão identificar a prioridade devida às pessoas com Transtorno do Espectro Autista por meio do uso de sinal que mostre a fita colorida, símbolo mundial referente a essa condição. \r\nEssa seria a nossa emenda. Mas, como bem...\r\nO SR. CAPITÃO WAGNER (Bloco/PROS - CE) - Quero registrar, Deputado Gilberto Abramo, que o parecer é favorável, pela constitucionalidade. Quanto ao mérito, rejeitamos, justamente para que na próxima semana...\r\nO SR. GILBERTO ABRAMO (PRB - MG) - Por isso eu agradeço pela compreensão ao nosso amigo e retiro o destaque.\r\nA SRA. PRESIDENTE (Geovania de Sá. PSDB - SC) - Deputado Gilberto Abramo, o destaque está retirado?\r\nO SR. GILBERTO ABRAMO (PRB - MG) - Está retirado."
+  }, {
+    "dataHoraInicio" : "2019-04-03T20:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2019&txPagina=228&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DA BANCADA, PL 1354/2019, PROJETO DE LEI ORDINÁRIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVORÁVEL.",
+    "sumario" : "Orientação da bancada na votação do Projeto de Lei nº 1.354, de 2019, sobre a prioridade na tramitação de processos de interesse da pessoa autista.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revisão do orador.) - Sra. Presidente, o PRB encaminha o voto \"sim\". A pessoa com deficiência já sofre muito em nosso País. Nada mais justo do que incluirmos a pessoa com Transtorno do Espectro Autista, a fim de que ela possa ter tratamento digno, como qualquer outra pessoa."
+  }, {
+    "dataHoraInicio" : "2019-05-08T17:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=149&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSSÃO, PLP 55/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO CONTRÁRIO.",
+    "sumario" : "Orientação de bancada na votação do requerimento de adiamento, por duas sessões, da discussão do Projeto de Lei Complementar nº 55, de 2019, sobre alteração da Lei Complementar nº 160, de 2017, com vista à prorrogação, por até 15 anos, das isenções, dos incentivos e dos benefícios fiscais ou financeiros-fiscais vinculados ao ICMS e destinados a templos de qualquer culto e a entidades beneficentes de assistência social.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revisão do orador.) - Sra. Presidente, o PRB orienta o voto \"não\".\r\nEu gostaria de deixar bem claro que nós não estamos beneficiando as igrejas. Há uma confusão muito grande. Nós estamos beneficiando as entidades que oferecem assistência social. Assim, automaticamente, estamos atendendo, por exemplo, aos espíritas, que desenvolvem excelentes trabalhos sociais.\r\nNós estamos atendendo aos católicos. Enfim, isso alcança todas as religiões, os templos religiosos.\r\nEu gostaria que ficasse bem claro que não estamos prestigiando igrejas evangélicas, e sim templos religiosos, de modo geral, que prestam serviços sociais."
+  }, {
+    "dataHoraInicio" : "2019-06-25T18:24",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "COMO LÍDER",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=143&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "COMISSÃO EXTERNA, DESASTRE AMBIENTAL, BRUMADINHO (MG), DEBATE, PL 2787/2019, PROJETO DE LEI ORDINÁRIA, TIPICIDADE PENAL, ECOCÍDIO, DEFESA, APROVAÇÃO.",
+    "sumario" : "Defesa de votação do Projeto de Lei nº 2.787, de 2019, sobre a tipificação do crime de ecocídio e a conduta delitiva do responsável por desastre relativo a rompimento de barragem.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (PRB - MG. Como Líder. Sem revisão do orador.) - Presidente, este projeto foi amplamente discutido na Comissão Externa das Barragens. Não foi de maneira alguma discutido em prol dos fatos que ocorreram em Minas Gerais, não se pensou nisso. Apenas - é lógico! - entendemos que o fato ocorrido incentivou a discussão de como deveríamos ampliar o projeto que envolve o crime ambiental e que envolve a exploração em todos os seus aspectos.\r\nPor isso não adianta aqui nós polarizarmos dizendo que Minas Gerais está discutindo algo que depende somente do Estado e está esquecendo o restante do País. Não, de maneira alguma. Estamos pensando no País. Há barragens em vários Estados, e nós não queremos de maneira alguma que ocorra em outros Estados o que ocorreu em Minas Gerais.\r\nPor isso, o marco regulatório foi discutido na Comissão Externa das Barragens, ali estiveram especialistas e outros Deputados. Então, tivemos tempo suficiente para discutir.\r\nOra, se alguém hoje não está de acordo, deveria se fazer presente na Comissão e apresentar suas argumentações, e isso não aconteceu. Então, não é justo que o Relator chegue aqui, apresente as suas argumentações, jogando por terra um projeto que foi elaborado à base de suor - eu digo suor porque foram dias e noites em que o Relator se empenhou -, e aqui não venhamos a prosperar.\r\nEntão, o nosso posicionamento é este, Presidente."
+  }, {
+    "dataHoraInicio" : "2023-03-02T11:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F3%2F2023&txPagina=75&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Projeto de lei ordinária,Crédito,Microempresa,Mulher,Empreendedor\r\nEstratégia Nacional de Empreendedorismo Feminino (Brasil para Elas),Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae),Empreendedorismo",
+    "sumario" : "Inocuidade do Projeto de Lei nº 1.883, de 2021, sobre a prioridade das instituições financeiras na concessão de condições especiais de financiamento a microempresas e empresas de pequeno porte dirigidas por mulheres.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (Bloco/REPUBLICANOS - MG. Pela ordem. Sem revisão do orador.) - Presidente, eu gostaria de seguir na mesma linha da Deputada Bia Kicis. De maneira alguma, nós estamos aqui para dizer que, nessa questão de cota, nós somos contra os negros. Não. Não é esse o nosso objetivo. Eu queria deixar bem claro que, a partir do momento que nós criamos uma cota, estamos restringindo um determinado valor. Se essa cota não for alcançada, o dinheiro ficará retido. Se houver mulheres brancas, indígenas, independentemente da classe, que desejarem ter acesso a esse recurso, não poderão ter, porque o dinheiro está retido, já que não se alcançou a cota. Esse é um ponto que nós estamos discutindo. Outro ponto: nós estamos avaliando um projeto que, na verdade, já existe. Ano passado, o Governo lançou a Estratégia Nacional de Empreendedorismo Feminino. Dentro desse empreendedorismo existe o programa Brasil para Elas, que é justamente para desenvolver o empreendedorismo entre as mulheres. Dentro desse programa, o SEBRAE fechou um acordo com a Caixa, uma linha de crédito de 1 bilhão de reais para o empreendedorismo. Então, eu acredito que, ainda que venhamos a aprovar esse projeto, ele se tornará inócuo, uma vez que já existe. E nós poderíamos aperfeiçoar o já existente."
+  }, {
+    "dataHoraInicio" : "2023-03-07T18:32",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F3%2F2023&txPagina=114&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "esclarecimento,Parecer,Substitutivo,Projeto de lei ordinária,Acompanhante de paciente,Mulher,Saúde,Cirurgia,Consulta médica,Exame médico,Centro cirúrgico,Unidade de Terapia Intensiva (UTI),Profissional de saúde",
+    "sumario" : "Pedido à Relatora Bia Kicis de esclarecimento de dispositivo incluído no parecer apresentado ao Projeto de Lei nº 81, de 2022, sobre o direito da mulher a acompanhante em consultas e exames médicos.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (Bloco/REPUBLICANOS - MG. Pela ordem. Sem revisão do orador.) - Presidente, é o seguinte: há 15 minutos nós tínhamos um parecer. Agora nós temos outro dispositivo dentro do parecer. Eu não consegui ainda entender esse dispositivo, que diz assim: \"No caso de atendimentos realizados em centros cirúrgicos e centros de terapia intensiva que possuam restrições relacionadas com a segurança e a saúde dos pacientes, devidamente justificadas pelo corpo clínico da unidade de saúde, somente será admitido acompanhante que seja profissional de saúde\". Muito bem. Nem todos têm um acompanhante que seja um profissional de saúde. Não havendo um profissional, entendo que a unidade hospitalar terá que disponibilizar uma pessoa. Ou não terá que disponibilizar? A SRA. BIA KICIS (Bloco/PL - DF. Sem revisão da oradora.) - Não, não terá. Ficou decidido que o acompanhante é de escolha do paciente. Mas, num centro cirúrgico, se houver algum impedimento para que uma pessoa que não seja profissional de saúde entre, ainda assim o paciente poderá escolher alguém que seja profissional de saúde. Ele terá a entrada franqueada. Mas, se não for profissional de saúde, por motivo justificado, não terá acesso. Mas não há nenhuma obrigatoriedade de o hospital, o Município ou o Estado fornecerem um acompanhante. Eu gostaria de explicar que, nesta última versão que subiu, ficaram faltando os pontinhos após o §1°, antes do §3º, porque o §2º não foi revogado. Isso é só um ajuste material. Então, após o §1° há uns pontinhos, é mantido o §2° e entra aqui o §3°. Está esclarecido, Deputado? Muito obrigada."
+  }, {
+    "dataHoraInicio" : "2023-05-03T20:32",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F5%2F2023&txPagina=156&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Orientação de bancada,Substitutivo,Projeto de decreto legislativo,Bloco parlamentar,Movimento Democrático Brasileiro (MDB),liberação,Bancada parlamentar",
+    "sumario" : "Orientação de bancada na votação do Substitutivo oferecido pelo Relator da Comissão de Desenvolvimento Urbano ao Projeto de Decreto Legislativo nº 98, de 2023, para sustação dos efeitos do Decreto nº 11.467, de 2023, a respeito da prestação regionalizada dos serviços públicos de saneamento básico.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (Bloco/REPUBLICANOS - MG. Pela ordem. Sem revisão do orador.) - Presidente, vários pontos foram revogados pelo Governo da Lei do Saneamento. A partir do momento em que o Governo os revogou, criou-se uma instabilidade jurídica. Nessa instabilidade, nós estamos, infelizmente, sendo sacrificados, porque não há interesse em investimento do setor privado. Por isso, nós, o MDB, o PSD e o Republicanos, somos favoráveis, mas liberamos a bancada, porque o Podemos tem um posicionamento contrário ao dos demais partidos."
+  }, {
+    "dataHoraInicio" : "2023-05-04T12:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F5%2F2023&txPagina=84&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Projeto de lei ordinária,Equiparação salarial,Homem,Mulher,Consolidação das Leis do Trabalho (CLT),Requerimento de urgência,Colégio de líderes,acordo",
+    "sumario" : "Orientação de bancada na votação da Subemenda Substitutiva Global oferecida pela Relatora da Comissão de Defesa dos Direitos da Mulher ao Projeto de Lei nº 1.085, de 2023, do Poder Executivo, sobre o estabelecimento de igualdade salarial e remuneratória entre homens e mulheres no exercício da mesma função; e a alteração da CLT - Consolidação das Leis do Trabalho. Protesto contra a quebra de acordo de Líderes na votação do parecer oferecido à proposição.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (Bloco/REPUBLICANOS - MG. Pela ordem. Sem revisão do orador.) - Faço um esclarecimento. Orientamos \"sim\", mas eu quero deixar bem claro ao PT e ao Plenário que o parecer que nós acordamos diz em seu dispositivo: \"Dispõe sobre a igualdade salarial e remuneratória entre mulheres e homens para o exercício da mesma função e altera a consolidação das leis\". A princípio, nós havíamos concordado que essa palavra seria retirada do texto e apenas permaneceria no artigo 5º, inciso II. Foi o que nós acertamos no Colégio de Líderes. Para nossa surpresa, entendemos que houve uma alteração nesse acordo. Logicamente, não mudará o texto na sua conjuntura, mas houve uma quebra de acordo. Apenas esclareço, porque, em uma próxima situação, dificilmente retiraremos o requerimento de urgência, a não ser em plenário."
+  }, {
+    "dataHoraInicio" : "2023-06-20T18:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ENCAMINHAMENTO DE VOTAÇÃO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F6%2F2023&txPagina=81&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Encaminhamento de votação,Requerimento de urgência,Projeto de lei ordinária,favorável",
+    "sumario" : "Encaminhamento da votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3, de 2023, sobre a criação do Protocolo Não é Não, destinado ao atendimento à mulher vítima de violência sexual ou assédio em discotecas, estabelecimentos noturnos, eventos festivos, bares, restaurantes ou qualquer outro local de grande circulação de pessoas.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (Bloco/REPUBLICANOS - MG. Sem revisão do orador.) - Se me permite, Presidente, nós apresentamos requerimento para que a votação desse requerimento de urgência fosse nominal. Entendemos que o projeto é meritório, mas existem alguns pontos de divergência. Entre eles, temos uma mudança na apresentação do substitutivo. No próprio caput, retira-se a expressão \"importunação sexual\" e se troca por \"constrangimento\". Ora, no esclarecimento das definições, deixa-se bem claro aqui: \"Constrangimento: situação de embaraço, aborrecimento\". Quer dizer, então, que, se uma mulher se sentir aborrecida porque o garçom não lhe serviu um drinque de forma adequada, ela pode acionar a polícia, acionar as autoridades, e assim sucessivamente? A SRA. DANDARA (Bloco/PT - MG) - Sr. Presidente, questão de ordem. Não é disso que trata o projeto, não é sobre o atendimento do garçom. O SR. PRESIDENTE (Arthur Lira. Bloco/PP - AL) - Deputada Dandara, por favor, a senhora não pode interferir na fala de quem está orientando contra o requerimento, por favor. Restitua-se o tempo do Deputado Gilberto Abramo. O SR. GILBERTO ABRAMO (Bloco/REPUBLICANOS - MG) - Obrigado, Sr. Presidente. Mas, conversando com a Deputada Laura Carneiro, queremos que, pelo menos no caput, se deixe bem claro \"importunação sexual\" ao invés de \"constrangimento\". Sabendo que o projeto será votado apenas em agosto, estou solicitando a retirada do requerimento de votação, o requerimento que nós apresentamos, para que possamos votar favoravelmente ao requerimento de urgência, mas também liberando o bloco, porque não existe um acordo. Faço isso entendendo que o mérito só será votado em agosto, com a palavra, o incentivo e o apoio da Deputada Laura Carneiro."
+  }, {
+    "dataHoraInicio" : "2023-09-05T18:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ENCAMINHAMENTO DE VOTAÇÃO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F9%2F2023&txPagina=134&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Encaminhamento de votação,Requerimento de destaque de votação em separado,Emenda de plenário,Projeto de lei ordinária,favorável",
+    "sumario" : "O Deputado encaminhou a votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 4 apresentada ao Projeto de Lei nº 2.685, de 2022, que institui o Programa Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil; estabelece normas para facilitação de acesso a crédito e mitigação de riscos de inadimplemento e de superendividamento de pessoas físicas; altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e as Leis nºs 10.406, de 10 de janeiro de 2002 (Código Civil), 10.522, de 19 de julho de 2002 e 12.087, de 11 de novembro de 2009; e revoga dispositivo da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), e a Medida Provisória nº 1.176, de 5 de junho de 2023.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (Bloco/REPUBLICANOS - MG. Sem revisão do orador.) - Primeiramente, quero agradecer ao Deputado Alencar por ter acatado as nossas duas emendas parcialmente. O objetivo dessa emenda, Presidente, é nada mais, nada menos do que dar liberdade ao consumidor a permitir a escolha da opção mais vantajosa, e não mais ser forçado pela ação mais cara e demorada para o registro de suas operações. Nós não estamos mexendo nas taxas cartoriais, apenas nós estamos favorecendo o consumidor."
+  }, {
+    "dataHoraInicio" : "2023-10-10T16:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F10%2F2023&txPagina=96&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Homenagem póstuma,Brasileiro,Vítima,Terrorismo,Guerra,Israel,Palestina",
+    "sumario" : "O Deputado pediu um minuto de silêncio no plenário da Câmara em homenagem às vítimas de ato terrorista que resultou na morte de dois brasileiros, expressando solidariedade a todas as vítimas do conflito entre Israel e Palestina.",
+    "transcricao" : "O SR. GILBERTO ABRAMO (Bloco/REPUBLICANOS - MG. Pela ordem. Sem revisão do orador.) - Presidente, nós tivemos hoje a confirmação de dois brasileiros mortos nesse ato terrorista. Vidas, infelizmente, estão sendo ceifadas. Eu gostaria de solicitar a V.Exa., diante de tanta mortandade, que a Casa fizesse 1 minuto de silêncio em solidariedade a essas vítimas. O SR. PRESIDENTE (Marcos Pereira. Bloco/REPUBLICANOS - SP) - Façamos 1 minuto de silêncio, atendendo ao pedido do Deputado Gilberto Abramo, em respeito às vítimas da guerra de ambos os lados, tanto de palestinos, quanto de israelenses, que faleceram. Ninguém aqui, penso eu, independentemente das ideologias, quer a morte de seres humanos de forma tão violenta, como foi e como tem sido nesses acontecimentos. (O Plenário presta a homenagem solicitada.)"
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/204491/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/204491/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/204491/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

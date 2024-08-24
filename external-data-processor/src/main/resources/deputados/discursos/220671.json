@@ -1,0 +1,29 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2023-06-01T00:51",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Encerramento",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "DISCURSO ENCAMINHADO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F6%2F2023&txPagina=&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Pesca artesanal,Pará (Estado),Medida provisória,Bolsa Família,Seguro-defeso",
+    "sumario" : "Agradecimento à Casa pela aprovação de dispositivo da Medida Provisória nº 1.164, de 2023, destinado ao pagamento dos benefícios do Bolsa Família e do seguro-defeso aos pescadores artesanais.",
+    "transcricao" : "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA DILVANDA FARO. Sr. Presidente, colegas Deputadas e Deputados, venho a esta tribuna hoje agradecer e reconhecer uma reparação de uma injustiça que vinha sendo cometida com um importante setor do meu Estado do Pará e de outros Estados também. A pesca artesanal no Brasil é responsável pelo sustento de centenas de milhares de famílias, em especial na Amazônia. No entanto, a realidade dessa população tornou-se mais desafiadora quando, a partir de 2022, houve a suspensão de um benefício que muito ajudava essa classe, na ocasião da publicação de portaria do Ministério da Cidadania regulamentando a Lei nº 14.284, de 2021. A portaria, em seu inciso III do art. 23, determinava a suspensão dos benefícios do Programa Auxílio Brasil no caso de recebimento do seguro-defeso. Caros colegas, o seguro-defeso é uma renda recebida pelo pescador durante o período em que está impedido de realizar a pesca, no período de reprodução dos peixes, portanto, é uma compensação financeira durante um curto período. Acontece que muitas famílias acabavam sendo privadas tanto do Auxílio Brasil como do seguro-defeso, por inúmeros motivos. Podemos citar como exemplo o fato de acontecerem algumas separações de casais. Com isso, a esposa ficava desassistida enquanto não regularizasse o estado civil, perdendo o poder financeiro. Na transição, foi articulada pelo Governo eleito uma PEC, conhecida como PEC da Transição, que garantiu recursos orçamentários para uma série de ações do Governo eleito, em especial a continuidade do valor de 600 reais para o Bolsa Família/Auxílio Brasil. No dia 2 de março, o Governo Lula editou a MP 1.164/23, que reestruturou todo o programa, recriando o Bolsa Família, as condicionalidades, e retomou o papel do CadÚnico e da rede de assistência social. Ela estabeleceu o piso permanente de 600 reais por família, acrescidos dos benefícios para crianças de 0 a 6 anos de idade, crianças e adolescentes dos 7 aos 18 anos de idade, gestantes e lactantes. O texto original dessa medida provisória mantinha a impossibilidade de acumular os benefícios do Seguro-Defeso e do Bolsa Família. Mas, graças à sensibilidade do Relator, o companheiro Deputado Dr. Francisco, que atendeu a um pedido meu e do Senador Beto Faro, foi incluído no relatório aprovado na Comissão Mista da MP 1.164/23, em 10 de maio de 2023, a revogação dos §§ 8º, 9º e 10 do art. 2º da Lei nº 10.779, de 25 de novembro de 2003, Lei do Seguro-Defeso, que determinava a suspensão do Bolsa Família pelo mesmo período de recebimento do Seguro-Defeso. Contudo, a revogação será realizada somente a partir de 1º de janeiro, por razões operacionais do MDS. Nesta terça-feira, esta MP foi aprovada aqui na Casa, e aproveito para agradecer a todos os colegas. Agora nos resta aguardar a votação no Senado, para que possamos enfim comemorar a reparação dessa injustiça com os pescadores artesanais de todo o País e, a partir de 1º de janeiro de 2024, o Bolsa Família e o Seguro-Defeso sejam pagos ao mesmo tempo para as famílias, não havendo suspensão."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220671/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220671/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220671/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

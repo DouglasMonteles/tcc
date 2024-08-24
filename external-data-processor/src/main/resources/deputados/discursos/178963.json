@@ -1,0 +1,1085 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2015-03-25T17:10",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/38331",
+    "faseEvento" : {
+      "titulo" : "Grande Expediente",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F3%2F2015&txPagina=108&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "CAMINHONEIRO, CATEGORIA PROFISSIONAL, MOBILIZAÇÃO, TEMA, COMISSÃO EXTERNA, COVATTI FILHO, DEPUTADO FEDERAL, ORADOR, PARTICIPAÇÃO.\r\nCAMINHONEIRO, CATEGORIA PROFISSIONAL, GOVERNO FEDERAL, NEGOCIAÇÃO, EXPECTATIVA.",
+    "sumario" : "Participação do orador em reunião da Comissão Externa da Casa constituída para acompanhar o protesto dos caminhoneiros, em mobilização nacional. Expectativa quanto ao resultado do encontro entre representantes da categoria e autoridades do Governo Federal.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero dizer a todos os Parlamentares que estivemos agora há pouco reunidos na Comissão Externa que acompanha a greve, o protesto dos caminhoneiros, e que nós estamos ansiosos com a reunião que vai acontecer amanhã, entre o Governo Dilma e representantes de toda a classe, para tratar de assuntos da pauta dos caminhoneiros. \r\nEsperamos que o Governo entenda e olhe para algumas das grandes reivindicações dos caminhoneiros, como a existência de uma tabela com preço mínimo de frete e também a questão do custo do óleo diesel.\r\n\tQuero deixar claro ao Governo que desde o dia 10 de março há uma paralisação na greve, mas que não acabou a greve. Os motoristas e os caminhoneiros ainda estão mobilizados e prontos para voltar a campo nesse final de semana, mesmo que se tenha de fazer uma pausa amanhã, principalmente para que haja a contemplação de suas reivindicações.\r\n\tMuito obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2015-03-26T14:15",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/38357",
+    "faseEvento" : {
+      "titulo" : "Pequeno Expediente",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PEQUENO EXPEDIENTE",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2015&txPagina=208&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PL 846/2015, PROJETO DE LEI ORDINÁRIA, HOMICÍDIO, CONTRA, POLICIAL, PENA, AUMENTO, APROVAÇÃO, ELOGIO.",
+    "sumario" : "Congratulações à Casa pela aprovação de proposição relativa à tipificação de crime hediondo para o homicídio qualificado contra policial.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, quero agradecer a oportunidade de dizer à população brasileira que hoje nos assiste através da TV Câmara que tenho que parabenizar este Plenário pela aprovação da PEC que transforma homicídio qualificado contra o policial militar em crime hediondo.\r\n\tLá no Rio Grande do Sul recebi um forte apelo do Grupo PróPM, que tem uma grande e qualificada parceria conosco.\r\n\tMuito obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2015-03-30T18:46",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/38389",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F3%2F2015&txPagina=115&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "OTÁVIO GERMANO, EX-VICE-GOVERNADOR, RIO GRANDE DO SUL, FALECIMENTO, PÊSAMES.",
+    "sumario" : "Falecimento do ex-Vice-Governador do Estado do Rio Grande do Sul, Otávio Germano.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu só queria dizer à Casa que ontem faleceu o ex-Vice-Governador do Rio Grande do Sul, Dr. Otávio Germano, que foi Deputado Federal nesta Casa e era pai do nosso colega Deputado José Otávio Germano. \r\n\tEntão, queremos prestar as nossas condolências, em nome da bancada do Partido Progressista, a toda a família.\r\n\tO SR. PRESIDENTE (Eduardo Cunha) - Esta Presidência associa-se aos sentimentos manifestados por V.Exa. à família do ex-Governador Otávio Germano."
+  }, {
+    "dataHoraInicio" : "2015-03-31T14:26",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/38416",
+    "faseEvento" : {
+      "titulo" : "Pequeno Expediente",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PEQUENO EXPEDIENTE",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2015&txPagina=75&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PEC 171/1993, PROPOSTA DE EMENDA À CONSTITUIÇÃO, MAIORIDADE PENAL, REDUÇÃO, COMISSÃO DE CONSTITUIÇÃO E JUSTIÇA E DE CIDADANIA (CCJC), ADMISSIBILIDADE, APROVAÇÃO, ELOGIO.",
+    "sumario" : "Aprovação, pela Comissão de Constituição e Justiça e de Cidadania, da admissibilidade da proposta sobre a redução da maioridade penal.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, cumprimento V.Exa. e todos os Parlamentares.\r\n\t Hoje, na CCJC, aprovamos a admissibilidade da proposta de redução da maioridade penal para 16 anos. Quero dizer a todos que mais de 80% da população brasileira está feliz com esses Parlamentares que hoje aprovaram a admissibilidade. Lá eu vi estudantes levando cartazes pedindo mais educação e menos cadeia. Esses estudantes não devem jogar fora esses cartazes e levá-los para o MEC, para o FNDE e lá reivindicar os recursos do FIES e do PROUNI. Acho que nós - jovem Parlamentar que sou - precisamos que esta Casa enxergue também esse lado.\r\n\tQuero também dizer aos colegas de todos os partidos que nós estamos indo ao encontro de muitos países da América do Sul, como Cuba, Argentina e Chile, onde a maioridade penal se dá aos 16 anos.\r\n\tMuito obrigado, Sr. Presidente, pelo espaço."
+  }, {
+    "dataHoraInicio" : "2015-04-23T11:06",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/38744",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F4%2F2015&txPagina=46&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "APOIO POLÍTICO, REINÍCIO, GREVE, CAMINHONEIRO, DESCUMPRIMENTO, ACORDO, GOVERNO FEDERAL, REVISÃO, TABELA, FRETE,",
+    "sumario" : "Reinício da greve dos caminhoneiros em face da resistência do Governo Federal à implantação da tabela impositiva do frete mínimo. Compromisso de atuação parlamentar em defesa dos caminhoneiros.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, colegas Deputados e Deputadas, hoje venho a esta tribuna para falar da greve dos caminhoneiros, que começou nesta madrugada.\r\n\tA greve começou em virtude do resultado de uma reunião ontem com o Ministro da Secretaria-Geral do Governo, com o Ministro dos Transportes e com Diretores da Agência Nacional de Transportes Terrestres - ANTT. Houve resposta negativa à grande reivindicação dos caminhoneiros: a tabela impositiva do frete mínimo.\r\n\tEles fizeram um grande movimento no início de março que causou um grande prejuízo econômico para o Brasil. E hoje, por incompetência do Governo Federal, que não dá voz a essa classe, que nunca foi ouvida, nós estamos vendo o início de mais uma manifestação, que já está ocorrendo em nove cidades do Rio Grande do Sul e em mais de cinco Estados.\r\n\tAqui nesta Câmara nós temos muitos Parlamentares envolvidos com essa classe. Muitas pessoas ligadas ao Governo tentaram desestimular os Parlamentares que estão aqui e também os caminhoneiros, dizendo que aqui havia Parlamentares interessados em ganhar benefícios dessa classe. Mas não! Aqui há Parlamentares envolvidos com as reivindicações, principalmente da tabela do preço mínimo e da questão do óleo diesel, Deputado Mauro Pereira, do Rio Grande do Sul.\r\n\tNós estamos aqui nos comprometendo mais uma vez com uma classe que nunca foi unida, mas que hoje está sendo unida, está sendo parceira e está lutando por uma reivindicação que entendemos ser constitucional, que merece ser aclamada pelo nosso Parlamento e pelo Governo.\r\n\tEntão, Sr. Presidente, é o meu recado, de um Deputado que está envolvido com essa classe e que deseja que a Câmara dos Deputados dê grande atenção a essa causa.\r\n\tMuito obrigado."
+  }, {
+    "dataHoraInicio" : "2015-05-27T22:10",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/39379",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F5%2F2015&txPagina=390&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ART 3º, ARTIGO (TEXTO LEGISLATIVO), FIM, REELEIÇÃO, SUBSTITUTIVO, PEC 182/2007, PROPOSTA DE EMENDA À CONSTITUIÇÃO, REFORMA POLÍTICA, APROVAÇÃO, ELOGIO.",
+    "sumario" : "Regozijo da Juventude Progressista pela aprovação do fim da reeleição para cargos do Poder Executivo.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Deputado Pompeo de Mattos, que preside esta sessão, eu me sinto muito feliz, como jovem Parlamentar, por estar passando por um momento como este. Hoje, nós acabamos com a reeleição. Isso só tem a beneficiar a juventude política. \r\n\tQuero dizer à Juventude Progressista, que me vem acompanhando desde terça-feira pelas mídias sociais, que hoje nós comemoramos o fim da reeleição. Hoje, comemoramos essa reforma política pela qual estamos trabalhando para justamente renovar. Os integrantes da Juventude Progressista também estão comemorando o fim da reeleição. Alguns avanços poderiam ser muito melhores, mas esses jovens estão comemorando os avanços que nós da Câmara dos Deputados estamos fazendo aqui.\r\n\tUm grande abraço."
+  }, {
+    "dataHoraInicio" : "2015-06-11T11:16",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/39570",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F6%2F2015&txPagina=108&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ART 10, ARTIGO (TEXTO LEGISLATIVO), SUBSTITUTIVO, IDADE MÍNIMA, ELEGIBILIDADE, PEC 182/2007, PROPOSTA DE EMENDA À CONSTITUIÇÃO, REFORMA POLÍTICA, APROVAÇÃO, CAMARA DOS DEPUTADOS, CONGRATULAÇÃO.\r\nCAMPANHA, PP, INCENTIVO, JOVEM, FILIAÇÃO PARTIDÁRIA, COMUNICADO.",
+    "sumario" : "Realização pela juventude progressista gaúcha de campanha de filiação ao PP. Regozijo com a votação pela Casa de proposição relativa à redução da idade mínima para candidatura a cargos eletivos.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, neste momento, em que a juventude progressista do Rio Grande do Sul está fazendo o lançamento de uma campanha de filiação para que os jovens possam entrar na vida pública, esses jovens Parlamentares estão aí em cima, ao lado da nossa Mesa Diretora. Temos orgulho de dizer que a juventude está, sim, presente e sendo representada no Congresso Nacional. E com muito orgulho estamos, sim, tentando honrar todos os brasileiros.\r\n\tCom essa vitória que hoje estamos proporcionando a esses jovens, que podem concorrer a Vereador e a Prefeito, agora sim: esses jovens que aqui estão postulando uma vida pública melhor vão poder concorrer a Governador e a Senador. Parabéns! (Palmas.)"
+  }, {
+    "dataHoraInicio" : "2015-06-16T17:22",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/39651",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F6%2F2015&txPagina=142&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PROPOSTA, COTA, REPRESENTAÇÃO, MULHER, PODER LEGISLATIVO, DECLARAÇÃO DE VOTO, FAVORÁVEL.",
+    "sumario" : "Declaração de voto favorável à garantia de cota para as mulheres no Parlamento.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, em homenagem às minhas colegas Conceição Sampaio e Iracema Portella, que estão aí, eu declarei e declaro o meu voto, principalmente ao Rio Grande do Sul.\r\nO Rio Grande do Sul quebra paradigmas: a partir do ano que vem, vai ter a primeira mulher da história da sua Assembleia Legislativa assumindo a Presidência; além disso, uma mulher, a Senadora Ana Amélia, nos representa e orgulha a bancada feminina no Congresso Nacional. \r\n\tEu voto \"sim\" e peço a todos os colegas Parlamentares que me acompanhem nesse voto. \r\n\tObrigado."
+  }, {
+    "dataHoraInicio" : "2015-06-17T09:10",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Homenagem",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "HOMENAGEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2015&txPagina=85&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : null,
+    "sumario" : "Sessão solene de homenagem póstuma ao ex-Deputado e ex-Ministro Mendes Ribeiro Filho.\r\n\r\nAs notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.",
+    "transcricao" : "Ata da 160ª (centésima sexagésima) Sessão da Câmara dos Deputados, Não Deliberativa Solene, matutina, da 1ª Sessão Legislativa Ordinária, da 55ª Legislatura, em 17 de junho de 2015.  Às 9h13, o Sr. Eduardo Cunha, Presidência, declarou aberta a sessão e deu por dispensada a leitura da ata da sessão anterior. O Sr. Presidente informou que a sessão destinou-se à homenagem Póstuma ao ex-Deputado e ex-Ministro Mendes Ribeiro Filho; prestou as devidas homenagens; e convidou para compor a Mesa os Srs. Pablo Mendes Ribeiro, filho e Vereador da Câmara Municipal de Porto Alegre-RS; Fernanda Lima Nuñez Mendes Ribeiro, ex-esposa do homenageado; os Srs. Alceu Moreira, Darcísio Perondi, José Fogaça, Mauro Pereira e Osmar Terra, Deputados Federais; Eliseu Padilha, Ministro da Secretaria da Aviação Civil da Presidência da República; e José Paulo Cairoli, Vice-Governador do Rio Grande do Sul. O Sr. Presidente convidou todos a ouvir o Hino Nacional e proferiu discurso de sua autoria. Nos termos do § 2º do artigo 18 do Regimento Interno, assumiu a Presidência o Sr. Osmar Terra e concedeu a palavra ao Sr. Alceu Moreira, autor do requerimento. Nos termos do § 2º do artigo 18 do Regimento Interno, assumiu a Presidência o Sr. José Fogaça e concedeu a palavra ao Sr. Mauro Pereira, autor do requerimento. O Sr. Presidente leu carta do Sr. José Ivo Sartori, Governador do Rio Grande do Sul, alusiva à memória do homenageado. Nos termos do § 2º do artigo 18 do Regimento Interno, assumiu a Presidência o Sr. Alceu Moreira e concedeu a palavra aos Srs. José Fogaça, autor do requerimento; e Luis Carlos Heinze, pelo PP. Reassumiu a Presidência o Sr. José Fogaça e concedeu a palavra aos Srs. Celso Maldaner, pelo PMDB; Afonso Motta, pelo PDT; Marcon, pelo PT; Luiz Carlos Hauly, pelo PSDB; Heitor Schuch, pelo PSB; Onyx Lorenzoni, pelo Democratas; Luiz Carlos Busato, pelo PTB; Rubens Bueno, pelo PPS; e Pablo Mendes Ribeiro, componente da Mesa. Usaram da palavra pela ordem os Srs. José Guimarães, Valdir Colatto, Sergio Souza e Covatti Filho. O Sr. Presidente registrou a presença de convidados, reiterou as homenagens prestadas, agradeceu a presença de todos e, às 10h40,  encerrou a sessão.\r\n\r\nCarlos Manato\r\nPresidente\r\n\r\nMisael Varella\r\nSecretário\r\n\r\nAs notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ."
+  }, {
+    "dataHoraInicio" : "2015-06-17T21:40",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/39686",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2015&txPagina=359&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "RETIRADA, DESTAQUE PARA VOTAÇÃO EM SEPARADO, EMC 74/2015, EMENDA DE COMISSÃO, ISENÇÃO, INCIDÊNCIA, IMPOSTO DE RENDA, BOLSA DE PESQUISA, RESIDÊNCIA MÉDICA, MPV 670/2015, MEDIDA PROVISÓRIA, REAJUSTE, VALOR, TABELA PROGRESSIVA MENSAL, PESSOA FÍSICA.",
+    "sumario" : "Retirada do destaque.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, esse destaque eu que fiz da Emenda nº 74...\r\n\tO SR. ARNALDO JORDY - Sr. Presidente, apenas um alerta.\r\n\tO SR. PRESIDENTE (Eduardo Cunha) - A palavra está com o Deputado Covatti Filho.\r\n\tO SR. COVATTI FILHO - É uma emenda de redação, principalmente para se esclarecer uma divergência que ocorre lá no Rio Grande do Sul, onde a Receita Federal tem interpretado as atividades acadêmicas dos professores com prestação de serviços médicos, quando somente estas ocorrem dentro de hospital público universitário. \r\nEntão, construindo junto com o Líder do PT, Deputado Sibá Machado, com o Líder do Governo, Deputado José Guimarães, para contemplarmos principalmente o Hospital de Clínicas de Porto Alegre e a Fundação Médica, eu retiro esse meu destaque, Sr. Presidente, e aí vamos construir. \r\nObrigado.\r\n\tO SR. PRESIDENTE (Eduardo Cunha) - Retirado o destaque."
+  }, {
+    "dataHoraInicio" : "2015-06-17T21:40",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/39686",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2015&txPagina=366&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "EMC 16/2015, EMENDA, DESONERAÇÃO TRIBUTÁRIA, PROGRAMA DE INTEGRAÇÃO SOCIAL (PIS), COFINS, COMBUSTÍVEL, ÓLEO DIESEL, MPV 670/2015, MEDIDA PROVISÓRIA, REAJUSTE, VALOR, TABELA PROGRESSIVA MENSAL, IMPOSTO DE RENDA, PESSOA FÍSICA, VOTAÇÃO NOMINAL, ELOGIO, VOTO FAVORAVEL, DEPUTADO, PMDB, DEFESA.",
+    "sumario" : "Congratulações à Presidência pela realização de votação nominal para emenda relativa à redução da incidência do PIS e COFINS no óleo diesel, em favorecimento dos caminhoneiros do País. Solicitação aos Deputados do PMDB de voto favorável à matéria.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, como Presidente da Frente Parlamentar Mista de Logística de Transportes e Armazenagem, que tratou da situação dos caminhoneiros, quero agradecer a V.Exa. por ter atendido o clamor do Plenário pela votação nominal. Nós da bancada do Partido Progressista agradecemos a V.Exas. Estamos comprometidos com esse setor que é tão importante. \r\n\tEsclareço a todos que estão nos ouvindo que essa redução de PIS e COFINS vai gerar 22 centavos de economia no óleo diesel. Por isso, ela só tem a favorecer os caminhoneiros, que percorrem todos os cantos do nosso Estado, o Rio Grande do Sul, todos os pontos do Brasil."
+  }, {
+    "dataHoraInicio" : "2015-06-24T20:10",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/39779",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2015&txPagina=459&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ANTONIO AUGUSTO DA SILVA FAGUNDES, ARTISTA, HOMENAGEM PÓSTUMA.",
+    "sumario" : "Homenagem póstuma ao artista gaúcho Antonio Augusto da Silva Fagundes, o Nico Fagundes.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu só queria fazer uma homenagem a Nico Fagundes, grande tradicionalista, que sempre defendeu as nossas culturas gaúchas, e que faleceu hoje à noite.\r\n\tE, para fazer esta homenagem, eu quero citar um trecho, rapidamente, de uma música que ele compôs, Canto Alegretense:\r\n\t\"E nos olhos vou levar o encantamento\r\n\tDesta terra que eu amei com devoção\r\n\tCada verso que eu componho é um pagamento\r\n\tDe uma dívida de amor e gratidão.\"\r\nObrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2015-07-01T17:06",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/39895",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2015&txPagina=117&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "BRASIL, EDUCAÇÃO, INVESTIMENTO, CORTE, GOVERNO FEDERAL, GESTÃO, CRÍTICA.\r\nBRASIL, MAIORIDADE PENAL, REDUÇÃO, FAVORÁVEL, VOTO, REGISTRO.",
+    "sumario" : "Perplexidade com cortes do Governo Federal para a área da educação. Apoio à redução da maioridade penal.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, quero deixar meu depoimento sobre o que aconteceu ontem.\r\n\tOntem, enquanto eu via este plenário cheio, com a participação dos Parlamentares, do meu lado esquerdo eu via a família de mãos dadas, rezando para que ocorresse a aprovação da redução da maioridade penal, e do meu lado direito eu via estudantes que se diziam representantes dos jovens brasileiros, fazendo o sinal que foi caracterizado pelos mensaleiros, quando foram presos.\r\n\tIsso me deixou bravo, isso me deixou indignado, isso me deixou pasmo. Quando o Governo Federal anuncia corte na educação, os Parlamentares vêm aqui discursar que, quando se abre uma escola, se fecha uma prisão. Nós ficamos perplexos quando há corte de um orçamento que poderia ser investido em educação.\r\n\tNós, jovens no Parlamento, hoje vamos ter a obrigatoriedade de mudar o que aconteceu ontem e votar a favor da redução da maioridade penal."
+  }, {
+    "dataHoraInicio" : "2015-07-01T17:54",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/39895",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2015&txPagina=156&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "COMISSÃO ESPECIAL, PLP 25/2007, PROJETO DE LEI COMPLEMENTAR, SISTEMA INTEGRADO DE PAGAMENTO DE IMPOSTOS E CONTRIBUIÇÕES DAS MICROEMPRESAS E DAS EMPRESAS DE PEQUENO PORTE (SIMPLES), SIMPLES NACIONAL, PRORROGAÇÃO, PRAZO, PARCELAMENTO, DÉBITO TRIBUTÁRIO, RELATÓRIO, APROVAÇÃO.",
+    "sumario" : "Aprovação, por unanimidade, do parecer apresentado à Comissão Especial relativa a alterações na tributação de micro e pequenas empresas, o Super-SIMPLES. Congratulações ao Presidente Eduardo Cunha pela condução dos trabalhos.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Presidente, gostaria fazer um comunicado aos nossos colegas. Hoje, a Comissão Especial nº 25, de 2007, que trata do Super-SIMPLES, aprovou o seu relatório por unanimidade. E eu quero dar os parabéns ao Presidente Jorginho Mello, ao nosso Relator, o Deputado João Arruda, e principalmente a mim e ao Deputado Afonso Hamm, Deputados gaúchos que lutamos pela inclusão das microcervejarias e dos vinhos nessa questão do SIMPLES Nacional. \r\n\tMuito obrigado, Presidente. E parabenizo V.Exa. pela condução dos trabalhos!"
+  }, {
+    "dataHoraInicio" : "2015-07-09T15:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/40039",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2015&txPagina=248&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "SUBEMENDA SUBSTITUTIVA, PL 2177/2011, PROJETO DE LEI ORDINÁRIA, CRIAÇÃO, CÓDIGO NACIONAL DE CIÊNCIA TECNOLOGIA E INOVAÇÃO, ORIENTAÇÃO DE BANCADA, PP, VOTO FAVORÁVEL, AGRADECIMENTO, SIBÁ MACHADO, DEPUTADO FEDERAL, RELATOR, EDUARDO CUNHA, PRESIDENTE DA CÂMARA DOS DEPUTADOS, APRECIAÇÃO.",
+    "sumario" : "",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Pelo PP, Sr. Presidente, eu só quero agradecer ao nosso Sibá Machado, Relator desta matéria, que acatou uma emenda de minha autoria, que vem beneficiar principalmente o Rio Grande do Sul, o Hospital de Clínicas, a Fundação Médica e a Faculdade de Medicina.\r\nAqui quero dar os parabéns a V.Exa., que está colocando em votação e, principalmente, resgatando o acordo que foi feito com o Deputado Sibá numa medida provisória. Eu apresentei a mesma emenda, e S.Exa. me fez retirar essa emenda para justamente aceitar neste PL.\r\nO PP orienta \"sim\". Obrigado, Presidente."
+  }, {
+    "dataHoraInicio" : "2015-08-06T11:40",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/40295",
+    "faseEvento" : {
+      "titulo" : "Comissão Geral",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "COMISSÃO GERAL",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2015&txPagina=208&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "COMISSÃO GERAL, EDINHO ARAÚJO, MINISTRO-CHEFE, SECRETARIA DE PORTOS DA PRESIDÊNCIA DA REPÚBLICA, ATUAÇÃO.\r\nPORTO, RIO GRANDE (RS), INFRAESTRUTURA, MELHORIA, NECESSIDADE.",
+    "sumario" : "Comissão Geral com a presença do Ministro-Chefe da Secretaria de Portos da Presidência da República, Edinho Araújo, para esclarecimentos sobre assuntos relacionados a sua Pasta.",
+    "transcricao" : "O SR. DEPUTADO COVATTI FILHO - Sr. Presidente Nelson Marquezelli, Ministro Edinho Araújo, eu vim aqui fazer uma explanação sobre o Porto de Rio Grande, no Rio Grande do Sul.\r\n\tNo início deste ano, houve uma manifestação muito grande dos caminhoneiros de todo o Brasil, principalmente no Rio Grande do Sul, onde uma das bandeiras levantadas foi a da infraestrutura no Porto de Rio Grande. \r\n\tNós não temos que olhar para todos os portos, para todas as logísticas, porque vamos ter, se não me engano, mais quatro terminais no Porto de Rio Grande, mas temos que olhar - e aqui peço a atenção do Sr. Ministro - principalmente para a parte de infraestrutura. Refiro-me à entrada no porto e à logística para atender aos caminhoneiros e às pessoas que passam dias e dias viajando para chegar ao seu destino e escoar a nossa produção agrícola e industrial.\r\n\tAcompanho, através de notícias em sites da Internet e de entrevistas em revistas, a precariedade da estrutura do Porto do Rio Grande. Na chegada, há buracos, falta infraestrutura em relação a banheiros, a hospedagem. Muitas vezes, esses caminhoneiros ficam 3, 4 dias, até semanas, na fila para tentar escoar a produção.\r\n\tMinistro, acho que V.Exa. e este Governo estão fazendo um trabalho muito interessante na área dos portos, mas deveríamos, principalmente no Porto do Rio Grande, que é um dos maiores e mais importantes portos do Brasil, dar um pouquinho mais de atenção à parte de infraestrutura, a fim de atender bem aos nossos caminhoneiros e às pessoas que levam o nosso produto para todo o País e para o mundo. Inclusive, eu tenho procurado agendar uma reunião com V.Exa. para falar um pouco sobre esse assunto. \r\nSr. Ministro, aproveito esta oportunidade para pedir um pouco mais de atenção ao Porto do Rio Grande, na parte de infraestrutura. É muito interessante para o nosso Estado, o Rio Grande do Sul, principalmente para atender aos caminhoneiros e a todos os brasileiros.\r\n\tMuito obrigado."
+  }, {
+    "dataHoraInicio" : "2015-09-02T17:42",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/40834",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F9%2F2015&txPagina=142&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "DESTAQUE PARA VOTAÇÃO EM SEPARADO, EXPRESSÃO VOCABULAR, SUBEMENDA SUBSTITUTIVA, PLP 25/2007, PROJETO DE LEI COMPLEMENTAR, EMPRESA, ADESÃO, TRIBUTAÇÃO, SISTEMA INTEGRADO DE PAGAMENTO DE IMPOSTOS E CONTRIBUIÇÕES DAS MICROEMPRESAS E DAS EMPRESAS DE PEQUENO PORTE (SIMPLES), PARTIDO PROGRESSISTA (PP) (2003), REJEIÇÃO, VOTAÇÃO DIVERGENTE, BLOCO PARLAMENTAR.",
+    "sumario" : "Solicitação aos Deputados do PP de comparecimento ao plenário. Orientação da respectiva bancada.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero chamar os meus colegas do Partido Progressista a virem a plenário, para votar. Divergindo um pouco do Bloco, o PP orienta \"não\" e pede a liberação do Bloco, principalmente para o Partido Progressista orientar o voto \"não\".\r\n\tMuito obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2015-09-16T09:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/41110",
+    "faseEvento" : {
+      "titulo" : "Homenagem",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "HOMENAGEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F9%2F2015&txPagina=20&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : null,
+    "sumario" : "Sessão solene em homenagem aos 180 Anos da Revolução Farroupilha.\r\nAs notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.",
+    "transcricao" : "Ata da 268ª (ducentésima sexagésima oitava) Sessão da Câmara dos Deputados, Não Deliberativa Solene, matutina, da 1ª Sessão Legislativa Ordinária, da 55ª Legislatura, em 16 de setembro de 2015. Às 9h30, o Sr. Alceu Moreira, nos termos do § 2º do artigo 18 do Regimento Interno, no exercício da Presidência, declarou aberta a sessão e deu por dispensada a leitura da ata da sessão anterior. O Sr. Presidente informou que a sessão destinou-se à homenagem aos 180 Anos da Revolução Farroupilha; prestou as devidas homenagens; e convidou para compor a Mesa os Srs. Carlos Eduardo Vieira da Cunha, Secretário de Educação do Estado do Rio Grande do Sul, representando o Sr. José Ivo Sartori, Governador do Rio Grande do Sul; Loiva Lopes Calderan, Presidente do Movimento Tradicionalista Gaúcho do Planalto Central; e Otaviano Fonseca, Chefe do Escritório da Representação do Governo do Estado do Rio Grande do Sul em Brasília-DF. O Sr. Presidente convidou todos a ouvir o Hino Nacional. Após a exibição do vídeo institucional, o Sr. Presidente proferiu discurso do Sr. Eduardo Cunha, Presidente da Câmara dos Deputados. Nos termos do § 2º do artigo 18 do Regimento Interno, assumiu a Presidência o Sr. Valdir Colatto e concedeu a palavra aos Srs. Alceu Moreira, autor do requerimento; e Carlos Eduardo Vieira da Cunha, componente da Mesa. Reassumiu a Presidência o Sr. Alceu Moreira e concedeu a palavra aos Srs. Celso Maldaner, pelo PMDB; Marco Maia, pelo PT; Luis Carlos Heinze, pelo PP; Afonso Motta, pelo Democratas; Ronaldo Nogueira, pelo PTB; Giovani Cherini, pelo Solidariedade; Nelson Marchezan Junior, pelo PSDB; Pompeo de Mattos, pelo PDT; e Loiva Lopes Calderan, componente da Mesa. Usaram da palavra os Srs. Carlos Marun, Valdir Colatto, Afonso Hamm, André Figueiredo, Covatti Filho e Ronaldo Benedet. Após a apresentação do Hino Rio-Grandense, pelo cantor Gérson Almeida, o Sr. Presidente registrou a presença de convidados, reiterou as homenagens prestadas, agradeceu a presença de todos e, às 11h28, encerrou a sessão.\r\n\r\nCarlos Manato\r\nPresidente\r\n\r\nLeonardo Monteiro\r\nSecretário\r\n\r\nAs notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ."
+  }, {
+    "dataHoraInicio" : "2015-09-22T16:10",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/41200",
+    "faseEvento" : {
+      "titulo" : "Grande Expediente",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F9%2F2015&txPagina=65&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "RESPONSABILIDADE, GESTÃO PÚBLICA, PARTIDO DOS TRABALHADORES (PT), CRISE, FINANÇAS PÚBLICAS, RIO GRANDE DO SUL.",
+    "sumario" : "Reponsabilidade da gestão anterior do PT pela atual crise financeira do Governo do Estado do Rio Grande do Sul.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, eu hoje venho aqui falar principalmente sobre o que está acontecendo no Rio Grande do Sul. O Estado está sendo palco de uma série de ações de movimentos sindicais que estão tentando denegrir algumas ações do Governo. \r\n\tHoje, eu não estou aqui defendendo aumento de imposto, porque está sendo votado agora o aumento do ICMS; estou aqui defendendo as políticas de atuação. E quero dizer a esses sindicalistas que o lugar onde eles deveriam estar acampados era na porta do ex-governador. Hoje, se nós não temos segurança, se nós não temos professores, se nós temos um Estado falido, com falência declarada, é por culpa do seu mandato, que só aumentou cargos de confiança, não fez investimentos e inchou a máquina pública.\r\n\tEu peço a todos e a todas que nos liguemos, prestemos atenção ao que está acontecendo. O Rio Grande do Sul, que todos acham ser um Estado rico, um Estado de virtudes, que comemorou neste último 20 de setembro a nossa Revolução Farroupilha, quando lutamos por ideais, está envergonhado, porque o Partido dos Trabalhadores, ao deixar em 4 anos de administração o Estado falido, em menos de 7 meses nos fez parcelar os salários.\r\n\tNão digo que a culpa é deste Governo, e não o estou defendendo. Estou culpando as pessoas que merecem ser culpadas.\r\n\tMuito obrigado, Presidente.\r\n\tO SR. PRESIDENTE (Alberto Fraga) - Muito obrigado, Deputado."
+  }, {
+    "dataHoraInicio" : "2016-03-09T11:42",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/43089",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F3%2F2016&txPagina=74&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "REQUERIMENTO DE ADIAMENTO DA VOTAÇÃO, PDC 315/2016, PROJETO DE DECRETO LEGISLATIVO, SUSTAÇÃO, DISPOSITIVO LEGAL, DECRETO FEDERAL, CONCESSÃO, UNIÃO, DESCONTO, SALDO DEVEDOR, CONTRATO, ENTE FEDERADO, UTILIZAÇÃO, VARIAÇÃO, TAXA, SISTEMA ESPECIAL DE LIQUIDAÇÃO E DE CUSTÓDIA (SELIC), CONTRARIO.",
+    "sumario" : "",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, colegas Parlamentares, para mim, isso está mais enrolado do que namoro de cobra, de jararaca.\r\n\tO Governo Federal, desde o ano passado, disse que, no final do ano de 2015, iria renegociar as dívidas. Já estamos no mês 3 de 2016 e nada; está só enrolando, enrolando, enrolando. O meu Estado do Rio Grande do Sul precisa, necessita dessa renegociação.\r\n\tOs filhos estão desamparados do Governo Federal. Nós precisamos desse olhar do Governo Federal para os seus filhos. E nada melhor do que convocar os Deputados gaúchos a virem aqui para prestar solidariedade ao seu Estado, prestar compromisso com o Rio Grande do Sul e dizer que nós estamos fechados com o Rio Grande do Sul, com o nosso Estado e, principalmente, fechados para renegociar essa dívida.\r\n\tObrigado."
+  }, {
+    "dataHoraInicio" : "2016-03-17T11:54",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/43172",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F3%2F2016&txPagina=43&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "BRASIL, SÃO PAULO (ESTADO), RIO GRANDE DO SUL, CORRELAÇÃO, LUIZ INÁCIO LULA DA SILVA, EX-PRESIDENTE DA REPÚBLICA, DIÁLOGO POLÍTICO, IMPRENSA, DIVULGAÇÃO, REGISTRO.\r\nBRASIL, DILMA ROUSSEFF, PRESIDENTE DA REPÚBLICA, RENÚNCIA, IMPEACHMENT, EXPECTATIVA.",
+    "sumario" : "Publicação pela imprensa de conversa do ex-Presidente da República Luiz Inácio Lula da Silva com o Ministro da Fazenda prejudicial ao Estado do Rio Grande do Sul. Apoio ao impeachment e à renúncia da Presidenta da República Dilma Rousseff.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, deixou-me abismado agora a notícia do blog do jornalista Polibio Braga, lá do Rio Grande do Sul, de que, em uma ligação interceptada, Lula pede para o Ministro da Fazenda ajudar primeiro os Estados dos amigos dele e deixar Rio Grande do Sul e São Paulo de fora.\r\n\tO Rio Grande do Sul já conviveu por 4 anos com a incompetência do Governo petista lá. Infelizmente, assassinaram as finanças do nosso Estado, e, agora, o novo Ministro da Casa Civil, que está suspenso, vai lá e esnoba na cara dos gaúchos, dizendo que, em primeiro lugar, tem que defender a companheirada deles.\r\n\tIsto é esnobar na cara dos gaúchos, esnobar na cara de todos os cidadãos que um dia acreditaram no Governo deles. Nós queremos convocar aqui a bancada do Rio Grande do Sul para enfrentar essa demagogia petista. \r\n\tA favor do impeachment e da renúncia já!\r\n\tO SR. PRESIDENTE (Carlos Manato) - Obrigado."
+  }, {
+    "dataHoraInicio" : "2016-03-22T15:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/43201",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F3%2F2016&txPagina=237&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ANÚNCIO, VISITA, GABINETE PARLAMENTAR, AUTORIDADE, QUINZE DE NOVEMBRO (RS), BUSCA, RECURSOS ORÇAMENTÁRIOS. \r\nCRÍTICA, FALHA, PACTO FEDERATIVO, CRIAÇÃO, DEPENDÊNCIA, MUNICÍPIO, EMENDA AO PROJETO DE LEI ORÇAMENTÁRIA.",
+    "sumario" : "Presença, na Casa, do Vice-Prefeito Antonio Roque Feldmann, do Vereador Gilmar Galera e do assessor de imprensa Deiner Maurer, do Município de Quinze de Novembro, Estado do Rio Grande do Sul. Compromisso do orador com a municipalidade.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, estou recebendo a vista, que agradeço, do nosso Vice-Prefeito da Cidade de Quinze de Novembro, no Rio Grande do Sul; do nosso Vereador Gilmar Galera; e do assessor de imprensa Deputado do Município, Sr. Deiner. Esse Município sempre procura o nosso gabinete em busca de recursos e está sempre passando o chapeuzinho.\r\n\tInfelizmente, os Municípios gaúchos estão lutando pelo Pacto Federativo no Rio Grande do Sul, mas não têm tido sucesso, e eles ficam dependendo das emendas parlamentares.\r\n\tRessalto o compromisso do Deputado Covatti Filho com Quinze de Novembro e a região.\r\n\tMuito obrigado.\r\n\tO SR. PRESIDENTE (Arnaldo Jordy) - Obrigado, Deputado."
+  }, {
+    "dataHoraInicio" : "2016-03-30T17:10",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/43285",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F3%2F2016&txPagina=111&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "MARCEL VAN HATTEM, DEPUTADO ESTADUAL, PRESENÇA, REGISTRO.\r\nBRASIL, DILMA ROUSSEFF, PRESIDENTE DA REPÚBLICA, IMPEACHMENT, FAVORÁVEL, REGISTRO.",
+    "sumario" : "Presença no plenário do Deputado Estadual Marcel van Hattem, do Rio Grande do Sul. Participação do Parlamentar em reunião do PP.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, orgulha-nos muito hoje a presença em plenário do Deputado Estadual Marcel van Hattem, da bancada gaúcha, do Partido Progressista, ex-Presidente da Juventude Progressista, que eu também presidi.\r\n\tHoje S.Exa. vem nos prestigiar aqui em Brasília e participar de uma reunião do Partido Progressista, trazendo a manifestação da bancada dos Deputados Estaduais do Partido Progressista do Rio Grande do Sul -manifestação a favor do impeachment da Presidenta Dilma e manifestação a favor do Partido Progressista.\r\n\tEsse jovem nos orgulha muito ao liderar os movimentos no Rio Grande do Sul para conseguir êxito no impeachment da Presidenta Dilma.\r\n\tEste Deputado, junto com a Juventude Progressista, representada pelo Deputado Estadual Marcel van Hattem, é a favor do impeachment da Presidente Dilma. Se Deus quiser, juntos nessa luta, vamos ter êxito!"
+  }, {
+    "dataHoraInicio" : "2016-03-31T12:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/43290",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2016&txPagina=35&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "BRASIL, DILMA ROUSSEFF, PRESIDENTE DA REPÚBLICA, IMPEACHMENT, FAVORÁVEL, GABRIEL FOGAÇA, VICE-PRESIDENTE, JUVENTUDE PROGRESSISTA GAÚCHA, VISITA, COVATTI FILHO, DEPUTADO FEDERAL, ORADOR, AGRADECIMENTO.",
+    "sumario" : "Agradecimento ao Vice-Presidente da Juventude Progressista Gaúcha, Gabriel Fogaça, pela visita ao orador. Apoio da agremiação ao impeachment da Presidenta da República, Dilma Rousseff.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador) - Sr. Presidente, colegas Deputados, estou aqui para agradecer ao Gabriel Fogaça, Vice-Presidente da Juventude Progressista Gaúcha, a visita ao meu gabinete para me parabenizar pelo trabalho que venho desempenhando. Na oportunidade, agradeci-lhe o esforço que a Juventude Progressista está fazendo em prol do impeachment da Dilma. No Rio Grande do Sul, há uma movimentação muito forte nesse sentido.\r\nSe Deus quiser, daqui a uns dias Gabriel Fogaça assumirá a Presidência da Juventude Progressista Gaúcha, que está fazendo um grande trabalho, a maior juventude partidária do Rio Grande do Sul.\r\n\tMuito obrigado.\r\n\tO SR. PRESIDENTE (Carlos Manato) - Parabéns a V.Exa. e ao nobre jovem.\r\n\tA SRA. ALICE PORTUGAL - Sr. Presidente, peço a palavra por 1 minuto."
+  }, {
+    "dataHoraInicio" : "2016-04-13T17:46",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/43378",
+    "faseEvento" : {
+      "titulo" : "Grande Expediente",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F4%2F2016&txPagina=79&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "SÉRGIO TURRA, DEPUTADO ESTADUAL, RIO GRANDE DO SUL, PRESENÇA, CÂMARA DOS DEPUTADOS, REGISTRO.\r\nPARTIDO PROGRESSISTA (PP) (2003), ÂMBITO ESTADUAL, NACIONAL, UNIFORMIDADE, POSIÇÃO, FAVORÁVEL, APROVAÇÃO, DCR 1/2015, DENÚNCIA POR CRIME DE RESPONSABILIDADE, DILMA ROUSSEFF, PRESIDENTE DA REPÚBLICA, IMPEACHMENT, APOIO.",
+    "sumario" : "Presença na Casa do Deputado Estadual Sérgio Turra, do Rio Grande do Sul. Consonância entre o posicionamento do PP favorável ao impeachment da Presidente da República, Dilma Rousseff, e a atuação da bancada do partido na Assembleia Legislativa do Estado do Rio Grande do Sul.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, eu quero fazer o registro da participação do Deputado Estadual Sérgio Turra, Líder partidário da bancada do Partido Progressista na Assembleia Legislativa do Rio Grande do Sul. S.Exa. está aqui, dando os parabéns à bancada federal do Partido Progressista, porque ontem nosso Governador Esperidião Amin tomou a sábia decisão de apoiar o impeachment da Presidente Dilma.\r\n\tNós da bancada do Rio Grande do Sul sempre lutamos, desde o início desta Legislatura, para que o Partido Progressista fosse firme nas suas atuações. E quero agradecer à nossa bancada do Partido Progressista na Assembleia Legislativa, que sempre fez pronunciamentos pedindo a saída do PP nacional do Governo - ou desgoverno - da Presidente Dilma Rousseff.\r\n\tEstamos aqui comemorando essa conquista do Partido Progressista, em âmbito nacional, e principalmente mandando um abraço à nossa bancada do Partido Progressista da Assembleia Legislativa do Rio Grande do Sul.\r\n\tObrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2016-04-15T14:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/43389",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "COMO LÍDER",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F4%2F2016&txPagina=120&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "DCR 1/2015, DENÚNCIA POR CRIME DE RESPONSABILIDADE, DILMA ROUSSEFF, PRESIDENTE DA REPÚBLICA, IMPEACHMENT, COMISSÃO ESPECIAL, PARECER, ADMISSIBILIDADE, APROVAÇÃO.\r\nPARTIDO PROGRESSISTA (PP) (2003), IMPEACHMENT, DILMA ROUSSEFF, PRESIDENTE DA REPÚBLICA, APOIO.",
+    "sumario" : "",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Como Líder. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, hoje é um momento histórico para a minha vida pessoal e para a minha vida familiar, que sempre contribuiu para a política do Rio Grande do Sul e para a política brasileira.\r\n\tEu hoje estou com a consciência tranquila, com a alma lavada, sentindo-me orgulhoso. Em primeiro lugar, sinto-me orgulhoso do meu Partido Progressista, que neste momento está reunido para fechar questão em favor do impeachment da Presidenta Dilma. O meu partido vai proibir os demais Parlamentares de votar contra essa definição - e inclusive poderá haver punição para esses colegas Deputados.\r\n\tEstou orgulhoso de estar aqui representando o Rio Grande do Sul, que tem um povo de muita história, um povo que sempre lutou pelas suas ideologias, independentemente de maragatos e chimangos. E lá atrás, na Guerra Farroupilha, um dos grandes motivos foi a alta de impostos promovida pelo Governo imperialista, a corrupção existente no Governo imperialista.\r\n\tToda aquela nossa revolta, toda aquela postura gaúcha de hombridade, de sempre levar no seu peito a bandeira do Rio Grande do Sul, de muitas vezes proclamar a República rio-grandense, nos dá força para hoje assumir o papel do Rio Grande do Sul por motivo de orgulho.\r\n\tE hoje, graças a Deus, com essa bandeira brasileira que está aqui na minha frente, eu estou aqui levando o verde, o amarelo e o azul, mas principalmente levando uma das estrelas que está nessa bandeira, que é a estrela do Rio Grande do Sul. Isso me dá orgulho e incentivo para ir em frente.\r\n\tEu digo, olhando a manifestação de alguns Deputados que defendem o impeachment, que defender ou discutir com esses colegas é a mesma coisa, Deputado Mauro, que jogar xadrez com um pombo. O pombo vai lá e esculhamba o tabuleiro; vai lá e derruba as peças; vai lá e é capaz de fazer as necessidades em cima do tabuleiro; e ainda sai de peito estufado achando que ganhou o jogo. Por isso nós temos para ir para o enfrentamento.\r\n\tAgora, quero encerrar com um poema do Rio Grande do Sul, maragato, assim como eu sou:\r\n\t\"Velho tropeiro Vicente,\r\n\tque amas tuas origens...\r\n\tfibra de velhas raízes, \r\n\tem solo duro e ingrato. \r\n\tTeimoso remanescente \r\n\tduma raça em extinção...\r\n\tÉs caudilho maragato \r\n\tsem armas nem munição, \r\n\tpeleando valentemente \r\n\tna defesa deste chão!\"\r\n\tPor isso, o Rio Grande do Sul e eu votamos \"sim\" ao impeachment. (Palmas.)\r\n\tOuviremos agora o nobre Deputado Simão Sessim."
+  }, {
+    "dataHoraInicio" : "2016-04-17T14:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/43397",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "REGISTRO DE VOTO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F4%2F2016&txPagina=58&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "DCR 1/2015, DENÚNCIA POR CRIME DE RESPONSABILIDADE, DILMA ROUSSEFF, PRESIDENTE DA REPÚBLICA, IMPEACHMENT, COMISSÃO ESPECIAL, PARECER, ADMISSIBILIDADE, VOTO FAVORÁVEL.",
+    "sumario" : "Registro de voto do parecer da Comissão Especial sobre a denúncia contra a Presidenta Dilma Rousseff por crime de responsabilidade - Impeachment.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS.) - O meu sangue farroupilha é motivo de orgulho, orgulho porque o nosso Estado defendeu suas ideologias e por elas sempre lutou. Como diz o hino rio-grandense, \"um povo sem virtude acaba por ser escravo\". Honrando esse Rio Grande do Sul, eu voto \"sim\" ao impeachment, Presidente. (Palmas.)\r\nO SR. BETO MANSUR - Deputado Covatti Filho, do PP do Rio Grande do Sul: voto \"sim\". Total: 12."
+  }, {
+    "dataHoraInicio" : "2016-04-26T17:10",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/43398",
+    "faseEvento" : {
+      "titulo" : "Grande Expediente",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F4%2F2016&txPagina=60&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "APOIO, OPERAÇÃO POLICIAL, POLÍCIA MILITAR, RIO GRANDE DO SUL, ELIMINAÇÃO, CRIMINOSO.",
+    "sumario" : "Manifestação de apoio aos policiais militares do Estado do Rio Grande do Sul. Apoio a campanha nacional de valorização da vida dos policiais militares.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Deputado Mauro Pereira, parabéns por estar presidindo esta sessão.\r\n\tEu não poderia deixar de manifestar o meu apoio aos policiais militares do Rio Grande do Sul, principalmente pela brava atuação em frente ao Hospital Cristo Redentor, onde mataram alguns bandidos e, graças a Deus, conseguiram salvar algumas vidas.\r\n\tHá uma campanha de apoio à Polícia Militar, não só no Rio Grande do Sul, mas em todo o Brasil. Por isso estou aqui manifestando o nosso apoio e garanto que toda a Câmara dos Deputados e V.Exa., na qualidade de Presidente, Deputado Mauro Pereira, do PMDB do Rio Grande do Sul, também apoia essa iniciativa.\r\n\tEstamos fazendo a divulgação da campanha #avidadopolicialimporta.\r\n\tEstá havendo uma grande manifestação de lideranças de todo o País, e nós, numa brava luta, como agentes políticos, defendemos essa causa e, principalmente, queremos a valorização maior da Polícia Militar de todo o Brasil.\r\n\tDeputado Mauro Pereira, agradeço a V.Exa. pelo espaço, bem como ao Deputado Valdir Colatto.\r\n\tA Câmara dos Deputados tem que fazer esse enfrentamento. Temos que chamar uma pauta positiva para a segurança pública, para a valorização dos nossos policiais.\r\n\tO SR. PRESIDENTE (Mauro Pereira) - Muito obrigado, Deputado Covatti Filho."
+  }, {
+    "dataHoraInicio" : "2016-05-24T00:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=25%2F5%2F2016&txPagina=155&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "VETO PARCIAL, PL 2177/2011, PROJETO DE LEI ORDINÁRIA, CRIAÇÃO, CÓDIGO NACIONAL DE CIÊNCIA TECNOLOGIA E INOVAÇÃO, ORIENTAÇÃO DE BANCADA, VOTO CONTRARIO, PARTIDO PROGRESSISTA (PP) (2003).",
+    "sumario" : "",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP - RS. Sem revisão do orador.) - Presidente, colegas Parlamentares, gostaria de destacar que esse Marco Legal de Ciência e Tecnologia foi muito trabalhado aqui nesta Casa, onde passou por unanimidade. Também passou lá no Senado. Nós tivemos um grande apoio, principalmente com esse projeto focado ao nosso Hospital de Clínicas e principalmente à Fundação Médica. \r\nE, por isso, o Bloco do Partido Progressista e dos demais partidos que o compõem vão votar \"não\"."
+  }, {
+    "dataHoraInicio" : "2016-06-15T16:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/44208",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F6%2F2016&txPagina=140&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "REGISTRO, VOTO. \r\nEXPECTATIVA, APROVAÇÃO, SENADO FEDERAL, PROJETO DE LEI COMPLEMENTAR, REVISÃO, REGIME ESPECIAL UNIFICADO DE ARRECADAÇÃO DE TRIBUTOS E CONTRIBUIÇÕES DEVIDOS PELAS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE (SIMPLES NACIONAL)",
+    "sumario" : "Registro de voto do orador. Iminência da aprovação pelo Senado Federal do projeto de lei de revisão do SIMPLES Nacional. Solicitação à Presidência de colocação da matéria na pauta de votação logo após o seu retorno à Câmara dos Deputados.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, registro que, na votação anterior, votei com o Partido Progressista.\r\n\tTambém quero dizer que, na sessão do Senado que está prestes a acontecer, será votado um projeto de lei de revisão do SIMPLES Nacional que já passou aqui pela Câmara dos Deputados. Naquela Casa, esse projeto tem como Relatora a Senadora Marta Suplicy, que acolherá uma das emendas pela qual nós da Frente Parlamentar Mista da Micro e Pequena Empresa lutamos, possibilitando que as microcervejarias de todo o Brasil sejam incluídas no SIMPLES Nacional.\r\n\tEsse projeto será votado no Senado Federal por meio de um amplo acordo e, se Deus quiser, por consenso. Logo depois ele vai voltar para esta Casa, onde vamos ter o compromisso de votá-lo.\r\n\tPor isso, gostaria que V.Exa., nesta Presidência, colocasse em pauta esse projeto tão logo ele chegue à Casa, já que é uma matéria consensual.\r\n\tAgradeço, Sr. Presidente.\r\n\tO SR. PRESIDENTE (Giacobo) - Parabéns, Deputado!."
+  }, {
+    "dataHoraInicio" : "2016-07-12T19:18",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/44630",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F7%2F2016&txPagina=125&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "REQUERIMENTO DE URGÊNCIA, PLP 257/2016, PROJETO DE LEI COMPLEMENTAR, REFORMA FISCAL, CRITÉRIO, UNIÃO, REFINANCIAMENTO, DÍVIDA PÚBLICA, ESTADO-MEMBRO, DISTRITO FEDERAL (BRASIL), AUMENTO, PRAZO, PAGAMENTO, DÍVIDA, DEFESA.",
+    "sumario" : "",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, relembrar nunca é demais: quando houve o escândalo da Lava-Jato e apareceram aqueles grampos do Governo Federal, principalmente da Presidente Dilma com o Lula e até da Liderança do Governo, o ex-Presidente Lula reclamou e disse que a renegociação das dívidas deveria ser com os Estados parceiros da União e dos partidos que apoiavam a Presidente Dilma Rousseff. Agora nós vemos a orientação de alguns partidos contra a justiça para os Estados brasileiros. \r\n\tNós do Rio Grande do Sul necessitamos da aprovação desse regime de urgência. Por isso, peço o apoio dos demais colegas. Vamos acabar com essa história de no discurso defender os Estados e falar que querem ajudar se, na hora de votar, assumem posição contrária. \r\n\tAgradeço, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2016-08-09T20:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/44824",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F8%2F2016&txPagina=876&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ELOGIO, MICHEL TEMER, VICE-PRESIDENTE NO EXERCÍCIO DA PRESIDÊNCIA DA REPÚBLICA, RENEGOCIAÇÃO, DÍVIDA PÚBLICA, ESTADO-MEMBRO.\r\nAGRADECIMENTO, ATUAÇÃO, ESPERIDIÃO AMIN, DEPUTADO FEDERAL, PARTIDO PROGRESSISTA (PP) (2003), RELATOR,  PLP 257/2016, PROJETO DE LEI COMPLEMENTAR.",
+    "sumario" : "",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, recordar é viver. Os 4 anos de Governo Tarso lá no Rio Grande do Sul, quando pegou o Estado praticamente bem em relação a dívidas e a finanças, prejudicaram o Rio Grande do Sul. Na campanha eleitoral em que o Partido Progressista tinha uma candidata ao Governo do Estado, a nossa Senadora Ana Amélia, sempre houve a discussão de que o Governo do PT, usando essa máquina nacional do Governo Dilma, iria fazer a renegociação das dívidas. Acabou o período eleitoral, iniciou-se o mandato da Presidente Dilma, mas nunca houve essa renegociação. Então, quero dar parabéns ao Presidente Temer.\r\n\tMas aqui, como membro do Partido Progressista, eu não poderia deixar de fazer um agradecimento especial ao Deputado Esperidião Amin. Eu, como um Deputado novo, de primeiro mandato, vejo que o diálogo proporcionado pelo meu colega Deputado Esperidião Amin levou muito progresso a esse projeto. Então, nós do Partido Progressista agradecemos a Esperidião Amin por tê-lo nos nossos quadros.\r\n\tObrigado, Presidente."
+  }, {
+    "dataHoraInicio" : "2016-08-23T00:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=25%2F8%2F2016&txPagina=93&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PEDRO AMÉRICO LEAL, EX DEPUTADO ESTADUAL, RIO GRANDE DO SUL, FALECIMENTO, PESAMES.",
+    "sumario" : "",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP - RS. Sem revisão do orador.) - Sr. Presidente, só para fazer um comunicado aos nobres colegas, principalmente do nosso Partido Progressista lá de Porto Alegre. Ontem, infelizmente, faleceu o Coronel Pedro Américo Leal. Ele foi Deputado Estadual, Vereador da capital, foi Primeiro Comandante da Guarda, Chefe de Polícia, Diretor da Escola de Polícia, Presidente da Cruz Vermelha. Deixou a esposa, Carmen Maria, e seus filhos Maria Inês, João Pedro, João Paulo, Cristina, Ângela, Martha e a Vereadora do Partido Progressista Mônica Leal. Então, o Partido Progressista do Rio Grande do Sul lamenta o seu falecimento. \r\nObrigado."
+  }, {
+    "dataHoraInicio" : "2016-09-13T12:34",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/45114",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F9%2F2016&txPagina=88&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PLV 18/2016, PROJETO DE LEI DE CONVERSÃO, MPV 728/2016, MEDIDA PROVISÓRIA, RECRIAÇÃO, MINISTÉRIO DA CULTURA, SECRETARIA ESPECIAL DOS DIREITOS DA PESSOA COM DEFICIÊNCIA, CRIAÇÃO, SECRETARIA ESPECIAL DE PROMOÇÃO E DEFESA DOS DIREITOS DA PESSOA IDOSA, VINCULAÇÃO, MINISTÉRIO DA JUSTIÇA E CIDADANIA, COMPETÊNCIA, MINISTÉRIO DA CIÊNCIA TECNOLOGIA INOVAÇÃO E COMUNICAÇÕES, ORIENTAÇÃO DE BANCADA, PARTIDO PROGRESSISTA (PP) (2003), VOTO FAVORÁVEL.",
+    "sumario" : "",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - O Partido Progressista e o Bloco parabenizam o Governo Federal do nosso Presidente Michel Temer pela atitude de recriar os Ministérios, principalmente valorizando a mulher. Acho que não vamos ter nenhuma perda significativa com a extinção de alguns Ministérios. \r\n\tParabenizamos o Governo e orientamos o voto \"sim\"."
+  }, {
+    "dataHoraInicio" : "2016-09-13T14:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/45126",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F9%2F2016&txPagina=171&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "COMPROMISSO, LIDERANÇA PARTIDÁRIA, PARTIDO PROGRESSISTA (PP) (2003), PRIORIZAÇÃO, ORDEM DO DIA DO PLENÁRIO, SUBSTITUTIVO, SENADO FEDERAL, PLP 25/2007, PROJETO DE LEI COMPLEMENTAR, ALTERAÇÃO, LEI DO SIMPLES, REORGANIZAÇÃO, SIMPLIFICAÇÃO, REGIME ESPECIAL UNIFICADO DE ARRECADAÇÃO DE TRIBUTOS E CONTRIBUIÇÕES DEVIDOS PELAS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE (SIMPLES NACIONAL).",
+    "sumario" : "Concordância do PP com acordo sobre votação de proposição relativa ao sistema tributário Super-SIMPLES.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Partido Progressista também compactua com o acordo, principalmente o Deputado Afonso Hamm e eu, que fizemos uma emenda ao texto do SIMPLES Nacional, que beneficia as microcervejarias e as empresas de vinhos e cachaças, que estão também muito interessadas nisso.\r\n\tO Partido Progressista compactua com o acordo e espera votar essa matéria o mais rápido possível."
+  }, {
+    "dataHoraInicio" : "2016-10-04T17:50",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/45248",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F10%2F2016&txPagina=173&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "QUESTIONAMENTO, RODRIGO MAIA, PRESIDENTE DA CÂMARA DOS DEPUTADOS, POSSIBILIDADE, LEITURA, RELATÓRIO, PLP 25/2007, PROJETO DE LEI COMPLEMENTAR, PRORROGAÇÃO, PRAZO, PARCELAMENTO, DÉBITO TRIBUTÁRIO, EMPRESA, SISTEMA INTEGRADO DE PAGAMENTO DE IMPOSTOS E CONTRIBUIÇÕES DAS MICROEMPRESAS E DAS EMPRESAS DE PEQUENO PORTE (SIMPLES).",
+    "sumario" : "Sugestão à Presidência de realização de leitura do parecer ao projeto sobre o regime de tributação para pequenas e microempresas, o Super-SIMPLES.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, para ganharmos tempo, poderíamos chamar o Deputado Carlos Melles para ler o relatório do projeto do Super-SIMPLES.\r\n\tO SR. PRESIDENTE (Rodrigo Maia) - Não podemos, porque teríamos que inverter a pauta. E, para invertermos a pauta, é preciso que haja quórum para votação do requerimento.\r\n\tÉ importante que os Deputados fiquem no plenário, porque o projeto do Super-SIMPLES é um projeto de lei complementar.\r\nO SR. COVATTI FILHO - Então, peço aos colegas do Partido Progressista e do Bloco Parlamentar PP/PTB/PSC para virem ao plenário registrar sua presença."
+  }, {
+    "dataHoraInicio" : "2016-10-04T18:34",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/45248",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "COMO LÍDER",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F10%2F2016&txPagina=214&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "COVATTI FILHO, VICE-PRESIDENTE, FRENTE PARLAMENTAR MISTA DA MICRO E PEQUENA EMPRESA, ATUAÇÃO, APROVAÇÃO, PLP 25/2007, PROJETO DE LEI COMPLEMENTAR, ALTERAÇÃO, ESTATUTO NACIONAL DA MICROEMPRESA E DA EMPRESA DE PEQUENO PORTE, EMPRESA, ADESÃO, TRIBUTAÇÃO, REGIME ESPECIAL UNIFICADO DE ARRECADAÇÃO DE TRIBUTOS E CONTRIBUIÇÕES DEVIDOS PELAS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE (SIMPLES NACIONAL), INCLUSÃO, EMENDA, BENEFÍCIO, PRODUTOR RURAL, CERVEJA, RIO GRANDE DO SUL, BEBIDA ALCOÓLICA,  AGRADECIMENTO, APOIO.",
+    "sumario" : "",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Como Líder. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, hoje estou muito feliz porque há 1 ano e 8 meses estou aqui exercendo o mandato de Deputado Federal. Logo que assumi a cadeira, uma das grandes prioridades do meu mandato foi justamente a de defender as pequenas e microempresas. E vou fazer alguns relatos. \r\n\tEstou feliz também por ser Vice-Presidente da Frente Parlamentar Mista da Micro e Pequena Empresa na Câmara dos Deputados. Conseguimos fazer uma audiência pública em Porto Alegre, junto com o nosso então Ministro Guilherme Afif Domingos, justamente para a explanação da grande mudança no SIMPLES Nacional. Lá me encontrei com muitos microcervejeiros que têm o grande desafio de fazer essa produção no Rio Grande do Sul. Naquele dia, na FECOMÉRCIO, recebi um pedido deles: justamente a inclusão das microcervejarias no SIMPLES Nacional. \r\n\tO Deputado Otavio Leite, um dos grandes batalhadores por esta causa no Rio de Janeiro, foi um dos grandes incentivadores. Lá atrás, junto com o Ministro Afif Domingos e com a Frente Parlamentar, nós lutamos. E fico feliz por ver aprovada, em 1 ano e 8 meses de mandato, a emenda que visa justamente dar fomento a essa produção que está em crescimento no Brasil, principalmente no Rio Grande do Sul. \r\n\tNós microcervejeiros temos um grande incentivo: justamente o de gerar empregos e de oferecer mais qualidade ao produto. Não visamos ao lucro, mas, sim, à criação de uma cultura, da qual o Rio Grande do Sul está sendo o grande precursor em todo o Brasil.\r\n\tQuero agradecer aos microcervejeiros pelo empenho, pela palavra dada e pela grande força. \r\n\tCom o Deputado Afonso Hamm - e depois vou lhe ceder um pouco do tempo da Liderança -, conseguimos aprovar a matéria que trata dos vinhos, das cachaças, enfim, de todas as bebidas artesanais. Essa grande vitória, principalmente em relação a todas as mudanças do SIMPLES Nacional, é no sentido de fomentar o microempreendedor e o pequeno empreendedor. Essa grande demanda da pequena e microempresa é uma das poucas demandas que não têm gerado desemprego. Ela tem, isto sim, fomentado contratação cada vez maior, tem propiciado a continuidade do desenvolvimento da economia brasileira. \r\n\tÉ muito importante essa pauta positiva da Câmara dos Deputados hoje. Esse é um gesto para todos os microempresários e pequenos empresários do Brasil que visam dar essa força.\r\n\tÉ muito fácil para nós Parlamentares estar aqui defendendo os grandes empresários. Mas, quando olhamos para o pequeno empresário, lembramos que todos os grandes começaram como pequenos empresários.\r\n\tParabenizo o nosso ex-Ministro Guilherme Afif, hoje na Presidência do SEBRAE; parabenizo Bruno Quick, que é do SEBRAE; parabenizo o nosso Relator; parabenizo o Deputado Jorginho Mello, o Presidente da Frente Parlamentar Mista da Micro e Pequena Empresa; e parabenizo todos os Deputados que fizeram essa batalha pelo fomento da pequena e da microempresa.\r\n\tNo Senado, também alcançamos esse grande desafio. \r\n\tTenho que agradecer a todos os companheiros por terem acolhido essa demanda da pequena e da microcervejaria. A matéria está há muito tempo em tramitação aqui no Congresso Nacional. Muitas vezes isso foi registrado - não é, Deputado Esperidião Amin? Em Santa Catarina há grandes, pequenos e microcervejeiros. Há muito tempo temos essa demanda. Conheço a história de luta de muitos anos dos microcervejeiros aqui na Câmara dos Deputados. Hoje estamos chegando ao fim de uma grande luta que tivemos em Caxias do Sul, Deputado Mauro Pereira. Falo justamente da microempresa e da pequena empresa. Está chegando ao fim a grande luta dos microcervejeiros e dos produtores de todas as bebidas artesanais. Foi uma vitória.\r\n\tParabenizo os microcervejeiros, os produtores de bebidas artesanais que, a partir do ano que vem, estarão no SIMPLES nacional, que visa dar a eles incentivo para fazerem crescer essa produção que é muito bem-vinda, que está crescendo muito no nosso Estado. \r\n\tGostaria que o Deputado Afonso Hamm usasse a palavra, Presidente."
+  }, {
+    "dataHoraInicio" : "2016-10-11T12:06",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/45350",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F10%2F2016&txPagina=57&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, DESTAQUE DE EMENDA, EMC 68/2016, EMENDA DE COMISSÃO, MPV 735/2016, MEDIDA PROVISÓRIA, PARTIDO PROGRESSISTA (PP) (2003), BLOCO PARLAMENTAR, VOTO CONTRÁRIO.",
+    "sumario" : "",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, pelo acordo a respeito da Medida Provisória. Agradecemos principalmente ao Relator, que contemplou as cooperativas.\r\n\tEm especial, agradeço ao pessoal lá do Rio Grande do Sul, Jânio Stefanello, da Cooperativa de Geração de Energia e Desenvolvimento - COPREL, de Ibirubá, e o Sr. José Benemídio, da Cooperativa de Eletrificação Rural Centro Jacuí - CELETRO, de Cachoeira do Sul.\r\n\tO PP e o Bloco orientam \"não\"."
+  }, {
+    "dataHoraInicio" : "2016-10-11T12:06",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/45350",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F10%2F2016&txPagina=75&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSIÇÃO, PAUTA (PROCESSO LEGISLATIVO), PL 2617/2015, PROJETO DE LEI ORDINÁRIA, PARTIDO POPULAR (PP) (1980), BLOCO PARLAMENTAR, VOTO CONTRARIO.",
+    "sumario" : "",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Bloco do PP parabeniza V.Exa. por sua interferência, justamente para completar os Estados. Eu, que sou do Rio Grande do Sul, achei fantástica essa articulação da Casa, principalmente por parte de V.Exa.\r\n\tE cumprimento o Relator, o Deputado Alexandre Baldy, por acolher essa questão, beneficiando os Estados.\r\n\tO Bloco do PP vota \"não\"."
+  }, {
+    "dataHoraInicio" : "2017-03-08T17:46",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/46401",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F3%2F2017&txPagina=97&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "DIA INTERNACIONAL DA MULHER, HOMENAGEM.",
+    "sumario" : "Homenagem às mulheres ao ensejo do transcurso do Dia Internacional da Mulher. Agradecimento à Presidência por retirada de pauta de matérias sem consenso para votação.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Deputada Mariana Carvalho, eu parabenizo todas as colegas que hoje estão aí pelo Dia Internacional da Mulher e espero que, como aconteceu lá no Rio Grande do Sul, onde minha mãe quebrou um paradigma - depois de 80 anos, a Assembleia Legislativa teve uma Presidente mulher -, aqui na Câmara dos Deputados possa acontecer o mesmo com algumas de V.Exas.\r\n\tSra. Presidente, como V.Exa. já atendeu ao apelo do Partido Progressista, agradeço, porque algumas matérias não tinham o consenso da Casa e, agora, como ficou acordado na reunião de Líderes, só vamos discutir as matérias nas quais haja consenso.\r\n\tObrigado."
+  }, {
+    "dataHoraInicio" : "2017-03-21T16:10",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/46554",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F3%2F2017&txPagina=54&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "DESASTRE AMBIENTAL, SÃO FRANCISCO DE PAULA (RS), RECONSTRUÇÃO, ELOGIO.",
+    "sumario" : "Empenho do Prefeito e da população do Município de São Francisco de Paula, Estado do Rio Grande do Sul, na reconstrução de locais destruídos por intempérie e na ajuda a desabrigados na cidade.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, estou aqui acompanhado de Gabriel Fogaça, um amigo pessoal lá de São Francisco de Paula, cidade que, há menos de 1 semana, sofreu uma grande tragédia climática. Foram destruídas 400 casas, e mais de 1.200 pessoas estão desabrigadas.\r\n\tEu tenho que reconhecer o orgulho e a força de vontade da gente de São Francisco de Paula na reconstrução da cidade. Fico feliz por terem essa reação.\r\n\tTenho que mandar um abraço para o Prefeito Marquinhos, que nos está orgulhando com o trabalho de reconstrução da sua cidade. Ele já está conseguindo muitas coisas para que a cidade se reerga.\r\n\tA propósito, estou destinando uma emenda parlamentar para justamente aumentar essa força de vontade.\r\n\tNada melhor do que reconhecermos - nós somos representantes do povo brasileiro - esse orgulho que cada brasileiro tem pela sua terra, principalmente no caso da cidade de São Francisco de Paula.\r\n\tO SR. PRESIDENTE (Capitão Augusto) - Obrigado, Deputado."
+  }, {
+    "dataHoraInicio" : "2017-03-29T15:34",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/46709",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F3%2F2017&txPagina=132&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, PEC 395/2014, PROPOSTA DE EMENDA À CONSTITUIÇÃO, SEGUNDO TURNO, BLOCO PARLAMENTAR,  PARTIDO PROGRESSISTA (PP) (2003), VOTO FAVORÁVEL. \r\nVEREADOR, HARMONIA (RS), PRESENÇA, BRASÍLIA (DF), DEBATE, SEGURANÇA PÚBLICA.",
+    "sumario" : "Pedido aos Deputados do Bloco do PP de comparecimento ao plenário para votação. Orientação da respectiva bancada. Presença em Brasília de Vereadores do Município de Harmonia, Estado do Rio Grande do Sul, em busca de recursos para a área de segurança da municipalidade.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu quero pedir, em nome do Bloco do Partido Progressista, aos meus colegas que estejam no gabinete que venham votar, já que o nosso partido e Bloco orientaram \"sim\".\r\n\tE queria agradecer a visita aos Vereadores Joel e Zé Enfermeiro, do Município de Harmonia, que vieram com uma grande preocupação, não só do Rio Grande do Sul, mas de todos os Municípios brasileiros, com a questão da segurança.\r\n\tNós, através do nosso mandato, através da parceria que firmamos com Harmonia, com o Vereador Joel e com o Vereador Zé, nós estamos fazendo uma indicação de 290 mil reais para a aquisição de câmeras de videomonitoramento para melhorar a segurança daquela cidade.\r\n\tPor isso, eu faço esse agradecimento, Presidente."
+  }, {
+    "dataHoraInicio" : "2017-04-26T14:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/47128",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F4%2F2017&txPagina=141&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ELOGIO, REVOGAÇÃO, PORTARIA, MINISTÉRIO DA SAÚDE, PRAZO, ABERTURA, UNIDADE DE PRONTO ATENDIMENTO (UPA), URUGUAIANA (RS).",
+    "sumario" : "Registro de voto em sessão anterior. Regozijo pela revogação de norma do Ministério da Saúde sobre o funcionamento de Unidade de Pronto Atendimento - UPA no Município de Uruguaiana, Estado do Rio Grande do Sul.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, eu queria que V.Exa. autorizasse o registro do meu voto, na última votação nominal, de acordo com a orientação do Partido Progressista.\r\n\tEu estava no Ministério da Saúde em uma audiência com o Ministro Ricardo Barros, na qual comemoramos a revogação de uma portaria que estabelecia o prazo de abertura da Unidade de Pronto Atendimento - UPA para o Município de Uruguaiana até o mês de agosto.\r\n\tQuero agradecer publicamente pela parceria que o Ministro tem com Uruguaiana, por honrar o Partido Progressista lá no Ministério.\r\n\tEra o que eu tinha a dizer.\r\n\tObrigado."
+  }, {
+    "dataHoraInicio" : "2017-05-30T18:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/47684",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F5%2F2017&txPagina=200&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "CONTESTAÇÃO, DECLARAÇÃO, PREFEITO, MUNICÍPIO, FREDERICO WESTPHALEN (RS), RESPONSABILIDADE, AUSÊNCIA, UNIDADE DE PRONTO ATENDIMENTO (UPA), GESTÃO, ANTERIORIDADE.",
+    "sumario" : "Contrariedade a declaração do atual Prefeito do Município de Frederico Westphalen, Estado do Rio Grande do Sul, sobre a responsabilidade da gestão anterior pela não abertura de Unidade de Pronto Atendimento - UPA.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, venho me manifestar, feliz da vida, porque um jornal do Rio Grande do Sul divulgou matéria sobre a abertura de Unidades de Pronto Atendimento - UPA em três Municípios gaúchos. Só que, lendo a matéria, fiquei triste com declaração do Prefeito de Frederico Westphalen, de que até agora a UPA não foi aberta devido à má administração anterior, à má gestão anterior.\r\n\tEu não posso deixar de lembrar aos colegas e aos cidadãos daquela cidade que, em 2012, na época da sua gestão, a UPA foi inaugurada, e não havia nem reboco, nem equipamentos. Graças ao Governo Federal, nós conseguimos os equipamentos e conseguimos fazer toda a organização para que a UPA fosse aberta.\r\n\tTambém tenho que lembrar que, hoje, a administração do Ministro Ricardo Barros flexibilizou as normas para abertura de UPAs, o que possibilitou que as UPAs fossem abertas lá no Rio Grande do Sul. Isso se deve ao Partido Progressista, que também está no comando do Ministério das Cidades.\r\n\tO SR. PRESIDENTE (Carlos Manato) - Obrigado, Deputado."
+  }, {
+    "dataHoraInicio" : "2017-06-07T17:10",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/47803",
+    "faseEvento" : {
+      "titulo" : "Grande Expediente",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F6%2F2017&txPagina=125&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "SATISFAÇÃO, APROVAÇÃO, PARECER DO RELATOR, COMISSÃO DE CONSTITUIÇÃO E JUSTIÇA E DE CIDADANIA (CCJC), PL 3553/2015, PROJETO DE LEI ORDINÁRIA, REQUISITO, EXERCÍCIO PROFISSIONAL, ATIVIDADE PROFISSIONAL, MOTORISTA, AMBULÂNCIA.",
+    "sumario" : "Aprovação, pela Comissão de Constituição e Justiça e de Cidadania, do parecer oferecido pelo orador ao projeto de lei sobre a regulamentação da profissão de condutor de ambulância.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, hoje estamos nesta tribuna da Câmara dos Deputados comemorando um feito que ocorreu na Comissão de Constituição e Justiça e de Cidadania, onde relatei o projeto que regulamenta a profissão dos condutores de ambulância, que enfrentam muitos perigos em estradas brasileiras. Foi votado hoje esse projeto, apresentado pelo Deputado Valdir Colatto, foi aprovado meu relatório na CCJ. Estabelecemos jus a essa profissão, que é importantíssima para os Municípios e, principalmente, para a população.\r\n\tNo Rio Grande do Sul, essa é uma das grandes demandas. Estamos dando oportunidade para que seja agregado valor a essa profissão. Esses profissionais encaram muitos desafios no dia a dia em estradas perigosas, por falta de manutenção, por questões climáticas, muitas vezes até por falta de asfalto no Município, e o condutor de ambulância tem que levar a pessoa que está precisando de atendimento aos centros maiores. Tem que percorrer, muitas vezes, 60, 70, 80 quilômetros de estrada de chão.\r\n\tIsso é difícil para o passageiro, ou melhor, para o paciente que está precisando desse auxílio, mas é difícil principalmente para esse condutor, que leva, com muita categoria, esse doente para os grandes centros, em busca da saúde que não é encontrada no seu Município.\r\n\tEu não posso deixar de mencionar que esse projeto abre portas para uma possível inclusão de piso salarial, jornada de trabalho tranquila, adicionais, grau máximo de insalubridade, aposentadorias especiais e outros benefícios.\r\n\t Eu tenho que mandar um abraço para o pessoal da Associação Brasileira dos Condutores de Ambulância, por intermédio do seu Presidente, o Alex, e principalmente para o pessoal do Rio Grande do Sul, onde sou muito identificado com a defesa da saúde e a defesa desses condutores de ambulância. Representam uma das bandeiras do meu mandato.\r\n\tEu fico muito feliz quando esta Casa dá a oportunidade de chegarem à base, às pessoas necessitadas projetos que valorizam sim o seu dia a dia.\r\n\tSolicito ao Presidente da República, independentemente de ser Temer ou outro, que não vete esse projeto, porque ele já passou muitas vezes nesta Casa e acabou sendo vetado.\r\n\tEu agradeço a atenção.\r\n\tSr. Presidente, peço que este pronunciamento seja divulgado no programa A Voz do Brasil.\r\n\tO SR. PRESIDENTE (JHC) - Agradeço ao Deputado Covatti Filho."
+  }, {
+    "dataHoraInicio" : "2017-10-25T16:50",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/49870",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "REGISTRO DE VOTO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F10%2F2017&txPagina=231&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PARECER CONTRÁRIO, COMISSÃO DE CONSTITUIÇÃO E JUSTIÇA E DE CIDADANIA (CCJC), SIP 2/2017, SOLICITAÇÃO PARA INSTAURAÇÃO DE PROCESSO, AUTORIZAÇÃO, INVESTIGAÇÃO, SUPREMO TRIBUNAL FEDERAL (STF), DENÚNCIA, MINISTÉRIO PÚBLICO FEDERAL (MPF), MICHEL TEMER, PRESIDENTE DA REPÚBLICA, ELISEU LEMOS PADILHA, WELLINGTON MOREIRA FRANCO, MINISTRO DE ESTADO, VOTO FAVORÁVEL.",
+    "sumario" : "Votação nominal do parecer da Comissão de Constituição e Justiça e de Cidadania com conclusão pela inadmissibilidade da denúncia da Procuradoria-Geral da República e pelo indeferimento da solicitação de autorização para a instauração do Processo nº 2, de 2017, pelo Supremo Tribunal Federal, referente à denúncia formulada pelo Ministério Público Federal em desfavor do Presidente Michel Temer e dos Ministros de Estado, Eliseu Lemos Padilha e Wellington Moreira Franco.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS.) - \"Sim\".\r\n\tO SR. GIACOBO - O Deputado Carlos Gomes votou \"sim\".\r\nDeputado Covatti Filho: voto \"sim\". Total: 11 votos."
+  }, {
+    "dataHoraInicio" : "2018-03-06T18:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50788",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PARECER",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F3%2F2018&txPagina=164&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PL 1530/2015, PROJETO DE LEI ORDINÁRIA, ALTERAÇÃO, CÓDIGO DE TRÂNSITO BRASILEIRO, MOTORISTA, CONTRABANDO, TEMA, PARECER, APRESENTAÇÃO, SUBEMENDA SUBSTITUTIVA GLOBAL.",
+    "sumario" : "Emissão de pareceres às emendas de Plenário oferecidas ao Projeto de Lei nº 1.530-C, de 2015, dispõe sobre medidas de prevenção e repressão ao contrabando, pelas comissões de Viação e Transportes; de Desenvolvimento Econômico, Indústria, Comércio e Serviços; de Segurança Pública e Combate ao Crime Organizado e de Constituição e Justiça e de Cidadania.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Para emitir parecer. Sem revisão do orador.) - Sr. Presidente, pelas Comissões, eu dou parecer pela aprovação do mérito.\r\nPela CCJC, eu dou parecer pela constitucionalidade, juridicidade e boa técnica legislativa.\r\nQuanto às Emendas nºs 1 e 3, nós rejeitamos o mérito.\r\nQuanto à Emenda nº 2, nós a acatamos parcialmente, apresentando a redação na forma da Subemenda Substitutiva Global\t:\r\n\t\tO CONGRESSO NACIONAL decreta:\r\n\t\tArt. 1º Esta lei dispõe sobre medidas de prevenção e repressão ao contrabando, ao descaminho, ao furto, ao roubo e à receptação, e dá outras providências.\r\n\t\tArt. 2º A Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), passa a vigorar acrescida do seguinte artigo:\r\n\t\t\"Art. 278-A. O condutor que se utilize de veículo para a prática de crime de furto, roubo, receptação, descaminho, contrabando, sendo por ele condenado por decisão judicial transitada em julgado, terá cassado o seu documento de habilitação ou proibido de obter habilitação para dirigir veículo automotor pelo prazo de 5 anos.\r\n\t\t§ 1º O condutor condenado poderá requerer a sua reabilitação, submetendo-se a todos os exames necessários à habilitação, na forma deste Código.\r\n\t\t§ 2º No caso do condutor preso em flagrante na prática de crimes de que trata o caput, poderá o juiz, em qualquer fase da investigação ou ação penal, havendo necessidade para a garantia da ordem pública, como medida cautelar, de ofício ou a requerimento do Ministério Público, ou ainda mediante a representação de autoridade policial, decretar, em decisão motivada, a suspensão da permissão ou da habilitação de dirigir veículo automotor ou a proibição da sua obtenção.\r\n\t\tArt. 3º Na parte interna dos locais em que se vendem cigarros e bebidas alcoólicas deverá ser afixada advertência escrita de forma legível e ostensiva, com os seguintes dizeres: 'É crime vender cigarros e bebidas contrabandeados. Denuncie!'\r\n\t\tArt. 4º A Lei nº 6.437, de 20 de agosto de 1977, passa a vigorar na seguinte alteração:\r\nArt. 10...........................................................\r\nInciso...\r\n(...) Deixar de afixar advertência escrita, de forma legível e ostensiva, de que é crime vender cigarros e bebidas contrabandeadas. Pena: advertência, interdição, cancelamento de autorização de funcionamento e multa.\r\n\t\tArt. 5º A pessoa jurídica que transportar, distribuir, armazenar ou comercializar produtos de contrabando, descaminho, furto ou roubo ou falsificados poderá, após processo administrativo, em que sejam garantidos o contraditório e ampla defesa, ter baixa de sua inscrição no Cadastro Nacional de Pessoa Jurídica.\r\n\t\tParágrafo único. Fica vedada a concessão de novo registro de Cadastro Nacional de Pessoa Jurídica, no prazo de 1 a 5 anos, à pessoa jurídica que tenha sócios ou administradores em comum com aquelas cujo CNPJ foram baixados na forma do caput.\r\n\t\tArt. 6º Aos produtos decorrentes de roubo ou furto apreendidos cuja propriedade não puder ser determinada ou não forem reclamadas pelo prazo de 1 ano será aplicada ainda a pena de perdimento de bens, devendo ser incorporados ao patrimônio público, conforme a legislação em vigor.\r\n\t\tArt. 7º Esta lei entra em vigor na data da sua publicação, exceto os arts. 3º e 4º, que entram em vigor 120 dias após a data da publicação."
+  }, {
+    "dataHoraInicio" : "2018-03-06T20:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50808",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F3%2F2018&txPagina=244&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PL 1530/2015, PROJETO DE LEI ORDINÁRIA, MOTORISTA, CONTRABANDO, SUSPENSÃO, CASSAÇÃO, CARTEIRA NACIONAL DE HABILITAÇÃO (CNH), PERMISSÃO PARA DIRIGIR, APROVAÇÃO, ELOGIO.",
+    "sumario" : "Importância da aprovação do Projeto de Lei nº 1.530, de 2015, sobre medidas de prevenção e repressão ao contrabando.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Eu também quero agradecer a V.Exa., Deputado Efraim Filho, autor do projeto.\r\n\tTrata-se de um projeto de suma importância, principalmente para o Rio Grande do Sul, onde há muito contrabando de cigarro, o que causa um prejuízo de quase 10 bilhões de reais para a economia brasileira. Este projeto é muito importante.\r\n\tAgradeço ao autor do projeto a possibilidade de relatar essa matéria. Também agradeço aos partidos, porque conseguimos construir esse acordo. Com uma pequena discussão - não a ampla discussão que poderia \r\nocorrer -, conseguimos aprovar esse projeto por unanimidade.\r\n\tSabemos que é de suma importância para o Brasil haver uma punibilidade maior para o contrabando, para o descaminho. Tenho certeza absoluta de que isso vai trazer um grande resultado para a nossa economia.\r\n\tObrigado."
+  }, {
+    "dataHoraInicio" : "2018-03-06T20:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50808",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F3%2F2018&txPagina=217&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PL 1530/2015, PROJETO DE LEI ORDINÁRIA, ALTERAÇÃO, CÓDIGO DE TRÂNSITO BRASILEIRO, MOTORISTA, CONTRABANDO, TEMA, REQUERIMENTO DE DESTAQUE, RETIRADA, REDE SUSTENTABILIDADE (REDE), PEDIDO.",
+    "sumario" : "Solicitação à REDE de retirada de requerimentos de destaques oferecidos ao Projeto de Lei nº 1.530-C, de 2015, sobre medidas de prevenção e repressão ao contrabando.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, estamos tentando fechar um acordo. Eu queria pedir à REDE - que acho nem está representada aqui - para retirar os destaques, pois estamos fechando um acordo sobre o texto. \r\n\tO SR. PRESIDENTE (JHC) - Outra opção é votar o requerimento e rejeitá-lo, da forma mais breve possível.\r\n\tO SR. COVATTI FILHO - Eu acho que ninguém se opõe a rejeitar esse destaque da REDE, que, antes, não estava presente para fazer acordo. Podemos rejeitar esse destaque?\r\n\tO SR. PRESIDENTE (JHC) - É só o requerimento.\r\n\tO SR. COVATTI FILHO - Acho bom ter votação. Vamos rejeitá-lo, Sr. Presidente, já que a REDE não está aqui para retirar o destaque."
+  }, {
+    "dataHoraInicio" : "2018-03-06T20:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50808",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "COMO RELATOR",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F3%2F2018&txPagina=234&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "REQUERIMENTO DE DESTAQUE DE VOTAÇÃO EM SEPARADO, ARTIGO (TEXTO LEGISLATIVO), SUBEMENDA SUBSTITUTIVA GLOBAL, PL 1530/2015, PROJETO DE LEI ORDINÁRIA, CONTRÁRIO.",
+    "sumario" : "Ponderações a respeito do requerimento de destaque para votação em separado do art. 1º da subemenda substitutiva global apresentada ao Projeto de Lei nº 1.530, de 2015, sobre medidas de prevenção e repressão ao contrabando.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, em relação a este destaque do PT, nós tentamos e conseguimos fechar um acordo para retirar do texto a palavra \"furto\".\r\n\tEu acho que este destaque não teria que ser apresentado, principalmente pelo acordo que fizemos, atendendo a várias demandas da bancada do Partido dos Trabalhadores e dos partidos de esquerda.\r\n\tPeço a rejeição do destaque, porque o art. 1º é essencial ao projeto, pois trata de todas as medidas de prevenção e de repressão no que diz respeito a penalidades que incidem na carteira de motorista.\r\n\tAssim, eu peço a rejeição do destaque."
+  }, {
+    "dataHoraInicio" : "2018-03-07T16:52",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50810",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F3%2F2018&txPagina=148&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, COMISSÃO DE CONSTITUIÇÃO E JUSTIÇA E DE CIDADANIA (CCJC), PL 5452/2016, PROJETO DE LEI ORDINÁRIA, BLOCO PARLAMENTAR, VOTO FAVORÁVEL.",
+    "sumario" : "Orientação de bancada para votação da subemenda substitutiva global oferecida pela Comissão de Constituição e Justiça e de Cidadania ao Projeto de Lei nº 5.452, de 2016, sobre a tipificação do crime de divulgação de cena de estupro e a previsão da causa de aumento de pena para o crime de estupro cometido por duas ou mais pessoas.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sra. Presidente, pelo Bloco do PMDB, nós queremos parabenizar todos os partidos do bloco, principalmente nesta semana importantíssima, e parabenizar a atitude das colegas Deputadas, muitas são colegas nossas de partido e dos partidos do bloco. Então, nós orientamos o voto \"sim\", entendendo que é uma matéria de suma importância para a proteção das mulheres, mas, principalmente, de suma importância para o Brasil."
+  }, {
+    "dataHoraInicio" : "2018-03-20T20:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50915",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2018&txPagina=220&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "CONGRATULAÇÃO, EFRAIM FILHO, DEPUTADO FEDERAL, AUTOR, PL 8677/2017, PROJETO DE LEI ORDINÁRIA, COMERCIALIZAÇÃO INTERESTADUAL, PRODUTO ALIMENTÍCIO, PRODUTO DE ORIGEM ANIMAL, PRODUTO ARTESANAL, SIMPLIFICAÇÃO, INSPEÇÃO SANITÁRIA.",
+    "sumario" : "Congratulação ao Deputado Efraim Filho pela apresentação de projeto de lei em prol dos pequenos agricultores rurais.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, tenho que dar os parabéns ao Deputado Efraim Filho justamente por causa desse projeto, que é de suma importância, principalmente para a agroindústria familiar do Rio Grande do Sul, que tem atuação muito firme e forte. Nada melhor do que um Município ver a qualidade de seu produto e ver desburocratizada essa questão, que é um dos grandes pilares da agroindústria, principalmente da agricultura familiar do Rio Grande do Sul. Tenho que registrar os parabéns e demonstrar que esta Casa está, sim, preocupada com os pequenos agricultores e com o que move a agricultura no Brasil."
+  }, {
+    "dataHoraInicio" : "2018-03-20T20:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50915",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2018&txPagina=231&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ESCLARECIMENTO, ACORDO DE LIDERANÇAS, PAUTA (PROCESSO LEGISLATIVO), VOTAÇÃO, PROPOSIÇÃO LEGISLATIVA.",
+    "sumario" : "Pedido à Presidência de votação do item 3 da pauta.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, se possível, peço que votemos também o item 3 da pauta. Há acordo nesse projeto, é lá do Rio Grande do Sul. \r\n\tO SR. PRESIDENTE (Rodrigo Maia) - Há acordo nesse projeto das universidades.\r\n\tO SR. COVATTI FILHO - Isso.\r\n\tO SR. PRESIDENTE (Rodrigo Maia) - Também há acordo para os projetos do TRE do Rio Grande do Sul, para o dos queijos, para este aqui e para o Projeto de Lei nº 5.000, de 2016. Acho que conseguimos avançar rapidamente em todos eles. \r\n\tO SR. COVATTI FILHO - Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2018-03-26T18:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50947",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2018&txPagina=45&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ANA AMÉLIA, SENADOR, ATUAÇÃO PARLAMENTAR, AVALIAÇÃO POSITIVA.",
+    "sumario" : "Êxito da atuação parlamentar da Senadora Ana Amélia.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente Carlos Manato, colegas Deputados, eu ouvi os discursos dos colegas e não posso deixar de registrar que estamos falando da melhor Parlamentar do Congresso Nacional: a Senadora Ana Amélia. Não estamos falando de um condenado em segunda instância, que agora está recorrendo.\r\n\tEu acho que está havendo dois pesos e duas medidas aqui. Todos têm que respeitar a opinião dos outros. A Presidente do Partido dos Trabalhadores fez uma declaração, na tribuna do Senado, que não podemos esquecer. Ela disse que \"para prender Lula, teriam que matar gente\".\r\n\tNós não estamos incentivando a violência de maneira nenhuma; estamos incentivando a economia. Garanto que o comércio de ovos do sul do Brasil aumentou bastante nesses últimos dias.\r\n\tEstamos orgulhosos do posicionamento dos nossos Parlamentares do Rio Grande do Sul, principalmente da Senadora Ana Amélia.\r\n\tO SR. PRESIDENTE (Carlos Manato) - Muito obrigado.\r\n\tO SR. JOÃO DANIEL - Sr. Presidente, só uma questão.\r\n\tA Presidenta...\r\n\tO SR. PRESIDENTE (Carlos Manato) - Não, Deputado! Ele não citou o nome de ninguém.\r\n\tO SR. COVATTI FILHO - Eu não citei o nome de ninguém, Sr. Presidente.\r\n\tO SR. JOÃO DANIEL - V.Exa. não citou?\r\n\tO SR. COVATTI FILHO - Eu não citei o nome de ninguém, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2018-04-03T00:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F4%2F2018&txPagina=76&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, VETO 8/2018, VETO PARCIAL, PL 9206/2017, PROJETO DE LEI ORDINÁRIA, PARTIDO PROGRESSISTA (PP) (2003), VOTO CONTRÁRIO.",
+    "sumario" : "",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP - RS. Para encaminhar. Sem revisão do orador.) - Presidente, o Partido Progressista e o Bloco, sabendo a importância deste veto, pela orientação do nosso Líder Arthur Lira, dos Partidos que estão juntos no Bloco e, principalmente, dando um respaldo importantíssimo para os agricultores que estão em grande mobilização - uma mobilização que fizemos desde o ano passado sobre essa questão do Funrural -, junto com a Frente Parlamentar da Agropecuária e os nossos colegas do Partido Progressista, está aqui do meu lado o Deputado Afonso Hamm, nós orientamos \"não\", pela derrubada do veto."
+  }, {
+    "dataHoraInicio" : "2018-04-18T17:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/51207",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F4%2F2018&txPagina=226&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PREOCUPAÇÃO, PREJUÍZO, ECONOMIA, CONTRABANDO, TABACO, CIGARRO. \r\nDEFESA, PREVISÃO, RECURSOS ORÇAMENTÁRIOS, COMBATE, CRIME ORGANIZAÇÃO, INVESTIMENTO, SEGURANÇA PÚBLICA.",
+    "sumario" : "Prejuízos causados à economia brasileira pelo contrabando.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu gostaria de tratar de um assunto muito importante, o contrabando. Inclusive aprovamos na Casa projeto de lei, do qual fui Relator, para que se faça a fiscalização do contrabando de tabaco. Isso prejudica muito a arrecadação brasileira. Quase 10 bilhões de reais deixam de ser arrecadados em tributos, o que corresponde a 88% do orçamento do Ministério da Defesa. Sem contar que mais de 164 mil famílias no Brasil são produtoras de tabaco e dependem muito dessa cadeia de suma importância para nós.\r\n\tEu queria dar como lido o meu pronunciamento e que fosse divulgado pelo programa A Voz do Brasil.\r\n\tObrigado.\r\n\r\nPRONUNCIAMENTO ENCAMINHADO PELO ORADOR\r\n\tSr. Presidente, Sras. e Srs. Deputados, o País que os brasileiros merecem é aquele onde há respeito à dignidade das pessoas, com defesa da vida, do bem-estar das famílias e de um ambiente propício para empreender e gerar emprego e renda.\r\n\tContrapõe-se a tudo isso o crime e a insegurança, que afetam o direito de ir e vir das pessoas e o direito à competição justa entre as empresas do setor produtivo.\r\n\tPrecisamos lutar de forma contundente e permanente contra todas as formas de transgressão que afetam a segurança do nosso País e restringem o seu desenvolvimento econômico e social, em especial aquelas que alimentam o mercado ilegal e servem de fomento para a expansão do crime organizado.\r\n\tA criminalidade se tornou sistêmica e merece uma solução à altura de sua dimensão. O volume de recursos gerado pelo mercado ilegal financia as organizações criminosas, que se fortalecem cada vez mais, atuando nas fronteiras, estradas e cidades, ocupando espaços, afrontando o poder do Estado e aumentando a violência nos nossos Municípios.\r\n\tAlém de municiar as facções criminosas, o mercado ilegal se entrelaça com corrupção, roubo de cargas, tráfico de drogas e de armas e lavagem de dinheiro. A segurança é afetada e os investimentos são reduzidos, em um círculo vicioso que afeta a geração de emprego e renda, impedindo o crescimento sustentável do País.\r\n\tOs fatos que vêm ocorrendo no Rio de Janeiro, nas fronteiras - especialmente com o Paraguai - e nos presídios demonstram que é urgente articular ações permanentes. O setor produtivo tem reconhecido as iniciativas governamentais e também a sociedade, quando são adotadas práticas efetivas contra o crime organizado.\r\n\tÉ fundamental o compromisso em defesa dos interesses nacionais e na luta contra toda forma de ilegalidade. Esse é um fundamento da democracia. E compromissos para assegurar direitos básicos e combater desvios de conduta inaceitáveis no País são fundamentais, protegendo este grande patrimônio que é o povo brasileiro e o seu setor produtivo.\r\n\tNesse sentido, três iniciativas são fundamentais para o aumento do combate à criminalidade: 1) que seja previsto na Lei Orçamentária Anual recursos suficientes e mínimos destinados exclusivamente ao combate à criminalidade, incluindo contrabando e roubo de cargas, com aumento de efetivo das forças policiais federais - Polícia Federal e Polícia Rodoviária Federal - e forças de defesa de fronteiras - Forças Armadas -, destinados a esse fim, e recursos para ações coordenadas de aplicação da lei; 2) que haja aumento dos recursos destinados à segurança pública e que não haja contingenciamento das despesas destinadas na Lei Orçamentária Anual destinadas ao fim indicado acima; 3) que seja executado o Programa de Proteção Integrada de Fronteiras, de modo a que produtos contrabandeados, drogas e armas não sejam introduzidos no território nacional.\r\n\tDito isso, eu me atento ao mercado brasileiro de tabaco: o Brasil é o maior exportador de tabaco do mundo; 538.600 mil toneladas de tabaco foram produzidas no Brasil na safra 2015/2016, sendo 483 mil toneladas exportadas em 2016; 164.200 mil famílias produzem tabaco; R$ 5,2 bilhões é o Valor Bruto de Produção - UBP; R$ 19 mil é a receita dos produtos por hectare; 500 mil varejos comercializam cigarros no Brasil.\r\n\tNo Brasil, senhoras e senhoras, a carga tributária representa 71% da produção. Enquanto no Paraguai representa apenas 17%. Como podemos competir? Os mercados ilegais estão presentes em 47% dos varejos. Como podemos competir? Por outro lado, o Governo arrecada cerca de R$ 13,1 bilhões de reais. Com o mercado ilegal, deixa de arrecadar cerca de R$ 9,7 bilhões em tributos.\r\n\tPortanto, senhoras e senhores, precisamos garantir proteção ao mercado nacional, além de conscientizar a população sobre o grave problema do contrabando.\r\n\tMuito obrigado."
+  }, {
+    "dataHoraInicio" : "2018-05-08T17:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/51468",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2018&txPagina=117&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSIÇÃO DA ORDEM DO DIA, MPV 810/2017, MEDIDA PROVISÓRIA, BLOCO PARLAMENTAR, PARTIDO PROGRESSISTA (PP) (2003), PODEMOS (PODE) (2016), AVANTE, PARTIDO ECOLÓGICO NACIONAL (PEN), VOTO CONTRÁRIO.",
+    "sumario" : "Orientação de bancada para votação de requerimento de retirada de pauta da Medida Provisória nº 810, de 2017, sobre a alteração da Lei nº 8.248, de 1991, e da Lei nº 8.387, de 1991, com vistas a dinamizar e fortalecer as atividades de pesquisa e desenvolvimento no setor produtivo de tecnologia da informação e comunicação.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Presidente, peço a palavra para orientar pelo Partido Progressista e pelo Bloco. Nós vemos que a Oposição é cada vez mais tendenciosa ao não crescimento brasileiro. Essa medida provisória dá um incentivo às empresas de TI - Tecnologia da Informação, o que é de suma importância para o setor.\r\n\tO partido e o Bloco entendem que nós devemos ir contra essa obstrução encaminhada pela Oposição. Por isso, encaminhamos \"não\"."
+  }, {
+    "dataHoraInicio" : "2018-05-09T19:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/51523",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F5%2F2018&txPagina=269&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PAINEL ELETRÔNICO, PEDIDO.\r\nORIENTAÇÃO DE BANCADA, REQUERIMENTO DE URGÊNCIA, PDC 920/2018, PROJETO DE DECRETO LEGISLATIVO, BLOCO PARLAMENTAR, PARTIDO PROGRESSISTA (PP) (2003), VOTO FAVORÁVEL.",
+    "sumario" : "Pedido ao Presidente para inclusão, no painel eletrônico de votações, da informação relativa à orientação das bancadas partidárias. Orientação de bancada para votação de requerimento de apreciação em regime de urgência do Projeto de Decreto Legislativo nº 920, de 2018, sobre a sustação da Portaria Interministerial MDIC-MMC nº 78, de 29 de dezembro de 2017, acerca do estabelecimento de normas, critérios, padrões e medidas de ordenamento pesqueiro em águas continentais na região hidrográfica do Atlântico Nordeste Oriental.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu só queria fazer um apelo, antes da manifestação do Deputado Wadih Damous.\r\nComo Deputados estão vindo para cá votar, seria bom que fosse mostrada no painel a orientação dos partidos, a fim de que os colegas recebam indicação de como votar.\r\nA orientação do Bloco do PP é \"sim\"."
+  }, {
+    "dataHoraInicio" : "2018-05-23T18:32",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/52773",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2018&txPagina=219&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "IMPOSTO SOBRE SERVIÇO DE QUALQUER NATUREZA (ISS).",
+    "sumario" : "Consulta à Presidência sobre a votação da proposta de recolhimento de recursos do Imposto sobre Serviços de Qualquer Natureza - ISS.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, só um esclarecimento: nós vamos votar a matéria sobre o ISS hoje?\r\n\tO SR. JOSÉ GUIMARÃES - Peço a palavra pela Liderança da Oposição, para ganhar tempo.\r\n\tO SR. PRESIDENTE (Rodrigo Maia) - Não, não. Vou encerrar a sessão e vou abrir outra.\r\n\tO SR. COVATTI FILHO - O ISS nós vamos votar, Sr. Presidente? Ou não?\r\n\tO SR. PRESIDENTE (Rodrigo Maia) - Não, vamos votar a reoneração."
+  }, {
+    "dataHoraInicio" : "2018-05-23T19:24",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/52781",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "DISCUSSÃO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2018&txPagina=314&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "DISCUSSÃO, PL 8456/2017, PROJETO DE LEI ORDINÁRIA, FAVORÁVEL.",
+    "sumario" : "Discussão do Projeto de Lei nº 8.456-A, de 2017, sobre o fim da desoneração da folha de pagamentos de setores econômicos.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, temos que dar os parabéns ao Deputado Orlando Silva, que acolheu várias das nossas indicações, principalmente da Frente Parlamentar Mista da Agropecuária. Nós estamos tirando algumas coisas em favor do setor de frangos e do setor de suínos.\r\n\tVim aqui também para dar um depoimento sobre a questão dos caminhoneiros, que nos preocupa muito. Nós e os caminhoneiros, 3 anos atrás, tivemos várias reuniões com o Governo Dilma, e, infelizmente, aquele Governo virou as costas para uma classe que comprovou, naquela época, que já paralisava o Brasil. Hoje estamos vivendo esse caos político e econômico, principalmente no que se refere a essa questão dos caminhoneiros.\r\n\tAqui na Câmara, hoje, nós votamos medidas provisórias, Deputado Balestra, por meio das quais criamos cargos e encargos para vários Estados da Federação. Aqui, nesta noite, votamos medida provisória por meio da qual até liberamos recursos para igreja na Palestina. Mas aqui, nesta noite, não vamos solucionar o problema dos caminhoneiros.\r\n\tAqui, nesta noite, estamos votando este projeto sobre reoneração, que talvez possa diminuir alguns custos referentes a combustível. Não, Presidente, não, Deputado Nilson Leitão, o caminhoneiro está preocupado é com o ICMS, o caminhoneiro está preocupado é com o valor baixo do frete.\r\n\tHoje nós não vamos suspender a paralisação no Brasil. Hoje nós não vamos conseguir dar o resultado que aqueles manifestantes, certíssimos, lá na beira das estradas, estão pleiteando: a valorização da categoria, que precisa ser olhada com carinho pelo Executivo.\r\n\tHoje não estamos aqui solucionando esse problema, talvez o estejamos adiando. Eu fico triste, fico decepcionado quando a PETROBRAS olha para uma classe que move o Brasil, e que pode paralisar o País, e só lhe oferece respeito por 15 dias, por meio de uma redução de 10% no preço do combustível.\r\n\tÉ isso que os caminhoneiros fazem pelo Brasil? É isso que os caminhoneiros valem para a PETROBRAS? Não! Nós temos que encarar esse problema com responsabilidade.\r\n\tPor isso, eu peço para criarmos outras oportunidades e, claro, darmos os parabéns aos que promovem toda essa articulação que estamos fazendo sim. Desse jeito nós podemos reduzir o PIS, a COFINS, a CIDE, que pode também - vamos ressaltar isto - causar malefícios aos Municípios, porque recursos da CIDE também vão para os Municípios brasileiros.\r\n\tNós vamos sanar algum problema com a categoria. Mas o PIS e a COFINS são importantíssimos. Espero que durem bastante tempo. Vamos, no entanto, principalmente os nossos Estados, olhar com carinho o ICMS.\r\n\tObrigado."
+  }, {
+    "dataHoraInicio" : "2018-05-29T17:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/52846",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2018&txPagina=150&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PETRÓLEO BRASILEIRO (PETROBRAS), MOTORISTA DE CAMINHÃO, CATEGORIA PROFISSIONAL, COMBUSTÍVEL, REAJUSTE DE PREÇOS, CONTRA, PARALISAÇÃO DO TRABALHO, APOIO.\r\nREFORMA TRIBUTÁRIA, NECESSIDADE.",
+    "sumario" : "Apoio à greve nacional de caminhoneiros. Defesa de realização da reforma tributária.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, estou falando de uma geração de jovens que hoje estão com 30 anos de idade, assim como eu, que lá atrás, quando crianças, sonhavam ser caminhoneiros, sonhavam ser bombeiros, sonhavam ter várias profissões que hoje estão em descrédito.\r\n\tSó que aqueles sonhadores que hoje estão em busca de realizar aquele sonho de criança de dirigir seu caminhão, de ter a sua profissão, de sair andando pelas estradas do Brasil e conhecer essa terra maravilhosa, de levar a riqueza do nosso País para qualquer canto e até fora dele, esses profissionais hoje estão tristes com o Executivo, tristes com a classe política que virou as costas a essa classe que já demonstrou inúmeras e inúmeras vezes que vai parar o Brasil, e, hoje, está parando.\r\n\tEm 2015, quando eu assumi esse posto como Deputado Federal, uma das grandes questões foi acompanhar aquela briga, que teve, sim, vários desdobramentos, mas o Executivo virou as costas.\r\n\tEssa classe, nessa semana de manifestações, conseguiu inúmeras vitórias, como o estabelecimento do frete mínimo, que é uma espécie de salário mínimo para esses viajantes, para essas pessoas que transportam a nossa riqueza.\r\n\tEssa classe conquistou a vitória da redução do seu combustível, que é a principal demanda e o principal custo do seu trabalho, que estamos conseguindo e agora está em votação no Senado Federal. Mas essa classe precisa, sim, ter um olhar diferente do Legislativo. Por isso que ela contou com a união da população, que foi às ruas também, para pedir que o Legislativo, o Executivo e o Judiciário olhem para tudo que está acontecendo no Brasil, para essa crise financeira, a fim de reduzir o custo de uma máquina que é muito pesada para se carregar nos ombros de qualquer brasileiro.\r\n\tAquele sonhador também sonha com o Estado mínimo; aquele sonhador também sonha com que, logo depois dessa manifestação, esta Casa, sim, faça o enfrentamento de uma reforma tributária, mas também faça o enfrentamento dos privilégios que hoje o Judiciário tem, que hoje o Legislativo tem e que o Executivo tem.\r\n\tVamos ouvir as ruas. As ruas vão agora demonstrar que, sim, pode haver...\r\n\t(Desligamento automático do microfone.)\r\n\tO SR. PRESIDENTE (Carlos Manato) - Muito obrigado, Deputado Covatti Filho."
+  }, {
+    "dataHoraInicio" : "2018-06-20T11:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/53179",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F6%2F2018&txPagina=83&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PL 1428/1999, PROJETO DE LEI ORDINÁRIA, CÓDIGO DE TRÂNSITO BRASILEIRO, ALTERAÇÃO, DISPOSITIVO LEGAL, TABELA, FRETE, PREÇO MÍNIMO, ESCLARECIMENTO, PEDIDO.",
+    "sumario" : "Pedido de esclarecimento acerca do art. 19 do parecer do Relator do Projeto de Lei nº 1.428-C, de 1999, acerca da alteração de dispositivos do Código de Trânsito Brasileiro.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu gostaria de esclarecer um ponto em relação ao art. 19, que é de suma importância e que ontem foi mérito de várias reuniões com caminhoneiros autônomos.\r\n\tO SR. PRESIDENTE (Rodrigo Maia) - É o que trata da anistia?\r\n\tO SR. COVATTI FILHO - Não tem nada a ver com anistia. É sobre a preocupação de isso interferir no preço mínimo do frete.\r\n\tOs caminhoneiros autônomos estavam falando que a concordância com os sindicatos poderia interferir na tabela de preço mínimo do frete, que está sendo discutida na medida provisória. Nós fizemos um acordo para mudar o art. 19.\r\n\tEu gostaria que o Relator lesse o art. 19, só para saber se o acordo está sendo cumprido agora.\r\n\tO SR. NELSON MARQUEZELLI - Tudo bem.\r\n\tO SR. DELEGADO EDSON MOREIRA - Vale mais a pena um bom acordo do que uma obstrução em cima da outra.\r\n\tO SR. COVATTI FILHO - Quero saber como ficou o art. 19, porque eu não tive acesso ao texto."
+  }, {
+    "dataHoraInicio" : "2018-06-20T11:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/53179",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F6%2F2018&txPagina=93&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "MOTORISTA DE CAMINHÃO, ACESSO, GALERIA, PLENÁRIO, AUTORIZAÇÃO, PEDIDO.",
+    "sumario" : "Solicitação à Presidência de liberação do acesso às galerias do plenário aos trabalhadores caminhoneiros.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu só quero pedir um favor a V.Exa. Os caminhoneiros estão acompanhando desde a semana passada. Peço uma autorização. Eles estão bem pacíficos, e há consenso. É só para eles ficarem aqui nas galerias para comemorar...\r\n\tO SR. PRESIDENTE (Carlos Manato) - Quantos são?\r\n\tO SR. COVATTI FILHO - São por volta de 10 caminhoneiros.\r\n\tO SR. PRESIDENTE (Carlos Manato) - Podem subir.\r\n\tO SR. COVATTI FILHO - Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2018-06-20T11:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/53179",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F6%2F2018&txPagina=61&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "SOLICITAÇÃO, RODRIGO MAIA, PRESIDENTE DA CÂMARA DOS DEPUTADOS, PROVIDÊNCIA, PRESENÇA, EXPLOSIVO, PLENÁRIO DA COMISSÃO.",
+    "sumario" : "Pedido à Presidência de adoção de providências a respeito do anúncio da existência de artefato supostamente explosivo nas dependências da Casa.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, estávamos na Comissão que discute os defensivos agrícolas, e a Presidente Tereza Cristina fez o anúncio de que foi achada uma simulação de artefato que poderia ser explosivo. Foi a segurança da Casa que informou a ela.\r\n\tPeço a V.Exa. que tome providências e depois informe aos Deputados. Com isso temos que ficar preocupados.\r\n\tO SR. PRESIDENTE (Rodrigo Maia) - É claro. Eu não tinha essa informação. Eu vou me informar melhor.\r\n\tObrigado.\r\nConcedo a palavra ao Deputado Valdir Colatto."
+  }, {
+    "dataHoraInicio" : "2018-06-20T11:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/53179",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F6%2F2018&txPagina=90&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PL 1428/1999, PROJETO DE LEI ORDINÁRIA, CÓDIGO DE TRÂNSITO BRASILEIRO, ALTERAÇÃO, PEDIDO, PRAZO, AVALIAÇÃO, PARECER, RELATOR.",
+    "sumario" : "Solicitação à Presidência de prazo para revisão em plenário do texto acordado para votação.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, enquanto o Deputado Henrique Fontana se dirige à tribuna, queria pedir a V.Exa. que, quando fosse disponibilizado o texto em que o Deputado Nelson Marquezelli fez as alterações, desse-nos 5 minutos ou 10 minutos para reunirmos a Assessoria e vermos se está tudo em ordem, conforme o acordado. Por favor.\r\n\tO SR. PRESIDENTE (Carlos Manato) - Se V.Exa. abrir mão do tempo para falar e encaminhar, eu darei os 3 minutos depois. V.Exa. abre mão?\r\n\tO SR. COVATTI FILHO - É claro.\r\n\tO SR. PRESIDENTE (Carlos Manato) - Aí V.Exa. fica com 3 minutos de crédito.\r\n\tO SR. COVATTI FILHO - Está tranquilo, está combinado.\r\n\tO SR. PRESIDENTE (Carlos Manato) - Está bom assim? Vamos negociar? (Pausa.) Então, está fechado.\r\nTem a palavra o Deputado Henrique Fontana."
+  }, {
+    "dataHoraInicio" : "2018-07-11T11:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/53420",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2018&txPagina=118&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "TRANSPORTE RODOVIÁRIO, FRETE, TEMA, APROVAÇÃO, AVALIAÇÃO POSITIVA.\r\nMOTORISTA DE CAMINHÃO, CATEGORIA PROFISSIONAL, ASSOCIAÇÃO, CRIAÇÃO.",
+    "sumario" : "Regozijo com a aprovação da medida provisória sobre a criação da política de preços de mínimos do transporte rodoviário de cargas. Criação de associação dos caminhoneiros autônomos.",
+    "transcricao" : "V\tO SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, estou muito feliz por termos aprovado a medida provisória do frete mínimo, uma luta que vem desde 2015. Graças a Deus, conseguimos dar a resposta que os caminhoneiros de todo o Brasil pediram quando foram às ruas, uma forma de valorizar a categoria. O frete mínimo será uma espécie de salário mínimo para os caminhoneiros.\r\n\tAproveito para registrar o recebimento, na segunda-feira, de um abaixo-assinado de mais de 5 mil famílias que estão criando uma associação dos caminhoneiros autônomos e de seus familiares, das mulheres dos caminhoneiros autônomos de todo o Brasil.\r\n\tEste abaixo-assinado, de mais de 5 mil famílias, demonstra a importância do movimento que aconteceu neste ano, bem como a importância das famílias dos caminhoneiros, que merecem e lutam pela valorização da categoria. Pais de família e esposos saem para trabalhar e agora, com a aprovação desta medida provisória, estão voltando com esta grande valorização do Congresso Nacional."
+  }, {
+    "dataHoraInicio" : "2018-07-11T11:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/53420",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2018&txPagina=131&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTAÇÃO EM SEPARADO, ARTIGO (TEXTO LEGISLATIVO), PLV 20/2018, PROJETO DE LEI DE CONVERSÃO, MPV 832/2018, MEDIDA PROVISÓRIA, PARTIDO PROGRESSISTA (PP) (2003), VOTO FAVORÁVEL.",
+    "sumario" : "Orientação de bancada para votação de requerimento de destaque para votação em separado do art. 9º do Projeto de Lei de Conversão nº 20, de 2018, oferecido à Medida Provisória nº 832, de 2018, sobre a instituição da Política de Preços Mínimos do Transporte Rodoviário de Cargas.",
+    "transcricao" : "O SR. COVATTI FILHO (Bloco/PP-RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, colegas Deputados, pelo acordo, orientamos \"sim\".\r\n\tNovamente, queremos agradecer a todos os colegas Deputados envolvidos. Agradecemos também à Frente Parlamentar da Agropecuária a compreensão, que foi importantíssima na elaboração deste acordo. Nós conseguimos - e é claro que isto depende da visão de cada um - ajustar da melhor maneira.\r\n\tQuero dar os parabéns principalmente aos caminhoneiros pela luta. Sem ganhar nenhum dinheiro, pois estão aqui às próprias custas, vieram para reivindicar, sim, o que a categoria quer e aquilo por que sempre lutou. Portanto, este mérito é de todos os caminhoneiros autônomos e de todas as empresas. Dou os parabéns pela grande mobilização, porque muita gente falava que essa categoria não é unida. Hoje, com esta vitória, a categoria está mostrando a união que sempre teve.\r\n\tObrigado."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/178963/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/178963/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/178963/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

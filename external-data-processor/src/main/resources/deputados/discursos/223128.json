@@ -1,0 +1,45 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2023-09-19T16:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "OUTROS",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F9%2F2023&txPagina=88&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Embaixador,Ucrânia,Presença,Câmara dos Deputados",
+    "sumario" : "O Deputado destacou a presença na Casa do Embaixador da Ucrânia no Brasil, Andrij Melnyk.",
+    "transcricao" : "O SR. RODRIGO ESTACHO (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Boa tarde, Sr. Presidente e demais Parlamentares desta Casa. Quero apenas fazer uma fala agradecendo a visita do nosso querido Andrij Melnyk, Embaixador da Ucrânia no Brasil, que nos honra com a presença dele nesta Casa. É a primeira vez que ele está visitando o Congresso Nacional, e será sempre bem-vindo. Welcome to the National Congress of Brazil, Andrij!"
+  }, {
+    "dataHoraInicio" : "2023-09-27T16:24",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F9%2F2023&txPagina=80&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Direito (ciência),Guarapuava (PR),Professor,Aluno,Câmara dos Deputados,Saudação",
+    "sumario" : "O Deputado agradeceu e parabenizou os professores e alunos do curso de Direito da UniGuairacá, de Guarapuava, por sua visita ao Congresso Nacional. Ele destacou a importância de conhecer as instituições públicas e o processo legislativo do País. Enfatizou que a visita contribuirá significativamente para a formação acadêmica dos visitantes.",
+    "transcricao" : "O SR. RODRIGO ESTACHO (Bloco/PSD - PR. Sem revisão do orador.) - Boa tarde, Sra. Presidente e demais Deputados e Deputadas desta Casa. Quero apenas agradecer a visita dos professores e dos alunos do curso de Direito da UniGuairacá, da nossa querida cidade de Guarapuava, que muito nos honram. Quero não só agradecer-lhes a visita, mas também parabenizá-los pela iniciativa de vir até a nossa Capital Federal conhecer as instituições públicas, conhecer o nosso Congresso Nacional, onde são escritas, discutidas e votadas as leis do nosso País. Esta visita, com certeza, será de grande importância para a sua formação acadêmica. Muito obrigado. Sejam sempre bem-vindos à Casa do Povo!"
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/223128/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/223128/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/223128/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

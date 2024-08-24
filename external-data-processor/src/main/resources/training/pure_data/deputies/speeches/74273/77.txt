@@ -1,0 +1,1 @@
+Dados da Polícia Rodoviária Federal sobre aumento do número de acidentes nas estradas brasileiras. Implementação de medidas para maior segurança no trânsito.

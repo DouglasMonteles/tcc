@@ -1,0 +1,493 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2011-12-06T10:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/27996",
+    "faseEvento" : {
+      "titulo" : "Homenagem",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "HOMENAGEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F12%2F2011&txPagina=&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PRÊMIO TRANSPARENCIA E FISCALIZAÇÃO PUBLICA, CRIAÇÃO, COMISSÃO DE FISCALIZAÇAO FINANCEIRA E CONTROLE, CÂMARA DOS DEPUTADOS, CONCESSÃO HONORÍFICA, MEMBROS, ADMINISTRAÇÃO PÚBLICA, SOCIEDADE CIVIL, ATUAÇÃO, BENEFÍCIO, TRANSPARÊNCIA ADMINISTRATIVA, PREMIAÇÃO.",
+    "sumario" : "Concessão do Prêmio Transparência e Fiscalização Pública.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Sem revisão do orador.) - Sr. Presidente, Srs. Senadores, Srs. Deputados, senhores agraciados, senhores convidados que aqui se fazem presentes, Sr. Governador do Estado do Paraná, Beto Richa, Sr. Presidente do TCU, Benjamin Zymler, senhoras e senhores, imprensa aqui presente, é uma honra muito grande participar desta cerimônia e poder grifar, de maneira bastante enfática, a importância deste evento para todos nós que fazemos parte do Poder Legislativo do Brasil, particularmente da Câmara dos Deputados. \r\n\tÉ uma alegria e uma honra, de maneira muito especial, termos instituído, no âmbito da Comissão de Fiscalização e Controle desta Casa - que é uma Comissão diferenciada, com função específica, caráter fiscalizador -, ainda em 2003, o Prêmio Transparência e Fiscalização Pública no âmbito da Câmara dos Deputados.\r\n\tÉ claro que, nas atividades múltiplas de um Parlamentar, inclui-se estar atento a todos os flancos, ângulos, a todos os aspectos da sociedade, o que faz com que o Parlamentar acabe sendo, numa linguagem mais popular, uma espécie de clínico geral. Porque é muito difícil, diante de uma sociedade com tantos caminhos e descaminhos no seu dia a dia, o Parlamentar restringir sua atividade a uma ação específica, seja ela voltada para o aspecto da educação, da saúde, da fiscalização, do esporte, enfim, de todos os ângulos que afligem a vida do cidadão brasileiro. Então, o político, o Parlamentar acaba tendo essa atividade múltipla. \r\n\tAcho que hoje o Parlamento brasileiro, nesta sessão, destaca, de maneira muito importante, um sentimento que não se pode perder de vista, que é exatamente o de Sessão solene para a entrega do Prêmio Transparência e Fiscalização Pública.\r\nestar em sintonia com a sociedade e de poder grifar, através de um evento, de uma solenidade como esta, entidades, figuras públicas que merecem o reconhecimento e a grandeza deste Parlamento. \r\n\tPortanto, repito, é com muita honra e alegria que, depois de alguns anos - eu fui Presidente da Comissão de Fiscalização Financeira e Controle anos atrás -, podemos realizar esta sessão solene de reconhecimento e de entrega desse prêmio, que foi consolidado no âmbito da Câmara dos Deputados. \r\nParticularmente, durante o período em que estive na Presidência da Comissão de Fiscalização Financeira e Controle, tive a honra de ver aprovada na Comissão, iniciativa nossa e de outros Parlamentares, a premiação a duas entidades que reputo da maior importância, em termos de transparência, de conduta social, de controle e de contribuição para a democracia brasileira. \r\n\tUma delas é a CNBB, que tenho a honra de grifar, como propositor deste prêmio. É com alegria que vejo nesta sessão D. Leonardo Steiner. É uma alegria muito grande vê-lo aqui representando a CNBB. Eu, que venho de um Estado que é palco da maior manifestação católica do Brasil - e digo, com muito orgulho, que talvez seja a maior do mundo e retrata o tamanho da fé do nosso Estado -, o Círio de Nossa Senhora de Nazaré, tenho a honra de participar desta sessão em homenagem à CNBB, levando em consideração o seu papel político, social, histórico e de transparência. \r\n\tE a outra entidade é a Transparência Brasil, neste ato representada pelo Sr. Antônio Augusto de Miranda e Souza. \r\n\tÉ uma alegria muito grande e uma honra enorme participar desta sessão e ver que esse prêmio virou uma realidade, sinal de que o Poder Legislativo, de que a Câmara dos Deputados está atenta a todos que contribuem para esta que deveria ser sinônimo de democracia no nosso dicionário: a transparência de todos os atos públicos e de todos os atos da vida de qualquer cidadão. \r\n\tMuito obrigado pela oportunidade, Sr. Presidente, que parabenizo pela iniciativa de propor a realização desta sessão. \r\n\tQue todos os agraciados neste reconhecimento - um pequeno gesto, um pequeno ato do Poder Legislativo, mas que adquire grandeza - não percam o norte da responsabilidade que temos todos nós com o Parlamento brasileiro. \r\n\tMuito obrigado. (Palmas.) \r\n\tO SR. PRESIDENTE (Filipe Pereira) - Muito obrigado, Deputado José Priante, o precursor da oportunidade que estamos tendo aqui hoje."
+  }, {
+    "dataHoraInicio" : "2013-04-09T10:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/31391",
+    "faseEvento" : {
+      "titulo" : "Homenagem",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "HOMENAGEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2013&txPagina=8935&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : null,
+    "sumario" : "Sessão Solene em homenagem aos 79 anos do Departamento Nacional de Produção Mineral - DNPM.\r\n(As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).",
+    "transcricao" : "Ata da 59ª (quinquagésima nona) Sessão da Câmara dos Deputados, Não Deliberativa Solene, Matutina, da 3ª Sessão Legislativa Ordinária, da 54ª Legislatura, em 9 de abril de 2013. Às 10h28, o Sr. André Vargas, 1º Vice-Presidente, no exercício da Presidência, declarou aberta a sessão e deu por dispensada a leitura da ata da sessão anterior. O Sr. Presidente informou que a sessão destinou-se à homenagem aos 79 anos do Departamento Nacional de Produção Mineral - DNPM; saudou convidados presentes; prestou as devidas homenagens; e convidou para compor a Mesa os Srs. Antônio Andrade, Ministro da Agricultura Pecuária e Abastecimento; Garibaldi Alves, Ministro da Previdência Social; Agnaldo Ribeiro, Ministro das Cidades; Carlos Nogueira da Costa Junior, Secretário de Geologia, Mineração e Transformação de Minério do Ministério de Minas e Energia, representando o Sr. Edison Lobão, Ministro de Minas e Energia; Sérgio Dâmaso, Diretor-Geral do Departamento Nacional de Produção Mineral - DNPM; e Marcelo Ribeiro Tunes, representando os ex-Diretores Gerais do Departamento Nacional de Produção Mineral - DNPM. O Sr. Presidente convidou a todos a ouvirem o Hino Nacional, executado pelo Quinteto da Banda de Música Militar do Corpo de Bombeiros Militar do Distrito Federal, regida pelo Subtenente Augusto. Assumiu a direção dos trabalhos o Sr. Henrique Eduardo Alves, Presidente, e proferiu seu discurso. O Sr. Presidente concedeu a palavra aos Srs. André Vargas, autor do requerimento; e Gabriel Guimarães, pelo PT. Reassumiu a Presidência o Sr. André Vargas e concedeu a palavra aos Srs. Leonardo Quintão, pelo PMDB; e Luiz Fernando Machado, pelo PSDB. Assumiu a Presidência o Sr. Simão Sessim, 2º Secretário, e concedeu a palavra aos Srs. Bernardo Santana de Vasconcellos, pelo PR; Vitor Penido, pelo Democratas; Jô Moraes, pelo PCdoB; e Domingos Sávio, pela Minoria. Usaram da palavra pela ordem os Srs. José Priante, Vander Loubet, Fabio Trad, Taumaturgo Lima e Vanderlei Siraque. Reassumiu a Presidência o Sr. André Vargas. Usaram da palavra os Srs. componentes da Mesa Marcelo Ribeiro Tunes e Sérgio Dâmaso. O Sr. Presidente registrou a presença de convidados, reiterou as homenagens prestadas, agradeceu a presença de todos e, às 12h37, encerrou a sessão.\r\n\r\nBenedita da Silva\r\nPresidenta\r\n\r\nPaulo Feijó\r\nSecretário\r\n\r\n\r\nAs notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ."
+  }, {
+    "dataHoraInicio" : "2013-04-09T11:50",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Homenagem",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "HOMENAGEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2013&txPagina=&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : null,
+    "sumario" : "Sessão solene em homenagem aos 79 anos do Departamento Nacional de Produção Mineral - DNPM.\r\n NÃO LIBERAR PARA PÁGINA DO ORADOR.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Sem revisão do orador.) - Muito obrigado, Sr. Presidente Simão Sessim, pela referência ao meu Estado. Mas, se Minas falou por 5 minutos, por que o Pará tem que falar 3 minutos? Estou brincando. (Risos.)\r\n\tEu vou economizar aqui nas considerações às autoridades presentes para exatamente aproveitar os 3 minutos que o Pará teve direito nesta sessão. Mas, tirando as brincadeiras, quero registrar a imensa alegria de participar desta sessão como representante do Estado do Pará e parabenizar todo o DNPM pelos 79, quase 80 anos, de existência, e, mais do que isso, cumprimentar o esforço de todos os Superintendentes, todos os funcionários, e dizer que a mineração brasileira, com certeza, pesa e muito na economia deste País e caminha hoje festejando, com o setor produtivo da agricultura, como os grandes fatores que impulsionam a economia brasileira.\r\n\tO meu Estado, seguramente, e aqui peço desculpa aos mineiros pela vaidade de paraense, é a maior província mineral do planeta. E, evidentemente, essa pauta mineral nos remete a uma reflexão profunda, que aqui já foi destacada pelos diversos oradores. Não vejo como o setor mineral crescer, desenvolver, aumentar a nossa produção, aumentar a contribuição da balança comercial, se não for acompanhada de uma política de logística pesada neste País.\r\n\tNo meu entendimento, no entendimento de um Parlamentar que acompanha o desenvolvimento mineral neste País com o maior entusiasmo, por ser o Pará um dos principais braços da mineração brasileira, a logística brasileira precisa e deve acelerar seus passos. E, nesta oportunidade, esta sessão que festeja os quase 80 anos do DNPM, uma pauta toma destaque, que é exatamente a criação da Agência Nacional de Mineração e a questão relativa ao novo Código Mineral. \r\nComo Parlamentar, eu destaco e pontuo que é preciso debatermos profundamente o marco regulatório deste País, não através de medida provisória. A medida provisória irá cercear de certa forma a participação congressual nesse debate. \r\n\tO Brasil é constituído de duas Casas legislativas. Nós vivemos o sistema bicameral. Dessa forma, haveremos de aperfeiçoar esse debate e aprofundá-lo com a sociedade e com setores importantes da economia. \r\n\tEntão, parabenizo o DNPM. Esta Casa homenageia o grande avanço e a grande importância do setor mineral nesta sessão. Evidentemente o Pará toma com muito orgulho este debate através da minha palavra como representante do nosso Estado, na perspectiva de que os brasileiros de todo o Brasil não vejam o ciclo mineral apenas como observadores. Mas a favor do Brasil, otimizando os Municípios, os Estados e a economia brasileira. \r\n\tUm grande abraço e parabéns a todos os que fazem o DNPM. (Palmas.)\r\n\tO SR. PRESIDENTE (Simão Sessim) -  Obrigado, Deputado."
+  }, {
+    "dataHoraInicio" : "2013-11-06T18:50",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/34421",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2013&txPagina=52544&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PDC 1361/2013, PROJETO DE DECRETO LEGISLATIVO, SUSTAÇÃO, RESOLUÇÃO, TRIBUNAL SUPERIOR ELEITORAL, TSE, DEFINIÇÃO, QUANTIDADE, MEMBROS, CÂMARA DOS DEPUTADOS, ASSEMBLÉIA LEGISLATIVA, ESTADOS, CÂMARA LEGISLATIVA DO DISTRITO FEDERAL, CLDF, ELEIÇÕES, REQUERIMENTO, REGIME DE URGÊNCIA, VOTAÇÃO, VOTO CONTRÁRIO.",
+    "sumario" : "Posicionamento contrário ao Requerimento de regime de urgência para tramitação do Projeto de Decreto Legislativo nº 1.361, de 2013 (Susta os efeitos da Resolução nº 23.389, de 9 de abril de 2013, expedida pelo Tribunal Superior Eleitoral, que dispõe sobre o número de membros da Câmara dos Deputados e das Assembleias e Câmara Legislativa para as eleições de 2014).",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Pela ordem. Sem revisão do orador.) - Gostaria de fazer um registro como Deputado Federal do PMDB do Estado do Pará.\r\n\tSegundo todos os oradores que estão defendendo este projeto de decreto legislativo, o propósito é fazer justiça - justiça democrática. Agora, eu me permito me liberar desta votação para votar \"não\", porque o Estado vizinho, nossos queridos irmãos do Maranhão, tem 1 milhão de eleitores a menos que o Pará e tem mais Deputados do que o Estado do Pará.\r\n\tEntão, se este projeto de decreto legislativo tem o propósito de ser justo e democrático, deveria ter atentado para corrigir essa distorção federativa. Eu quero fazer este registro.\r\n\tTodos aqueles do PMDB que entendem, como eu, que este projeto de decreto legislativo não corrige que me acompanhem, votando \"não\"."
+  }, {
+    "dataHoraInicio" : "2014-12-16T16:30",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/37832",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2014&txPagina=180&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PEC 358/2013, PROPOSTA DE EMENDA À CONSTITUIÇÃO, OBRIGATORIEDADE, EXECUÇÃO ORÇAMENTARIA, EMENDA INDIVIDUAL,  ALTERAÇÃO, TEXTO, SENADO FEDERAL, SUBSTITUTIVO, APRECIAÇÃO, PRIMEIRO TURNO, ARTIGO, REQUERIMENTO DE DESTAQUE DE VOTAÇÃO EM SEPARADO, APLICAÇÃO DE RECURSOS, SAÚDE PUBLICA, ORIENTAÇÃO DE BANCADA, VOTO FAVORAVEL, PMDB.",
+    "sumario" : "Orientação de bancada do PMDB favorável ao requerimento de destaque para votação em separado do texto proposto ao art. 198 da Constituição Federal constante o art. 1º e, por decorrência, dos seguintes dispositivos: § 10 do art. 166 - também do art. 1º - e arts. 2º, 3º e 4º, todos do substitutivo da Comissão Especial, da Proposta de Emenda à Constituição nº 358, de 2013, (Altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica).",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Pela ordem. Sem revisão do orador.) - O PMDB vota \"sim\", Sr. Presidente, ressaltando que esta é uma matéria objeto de uma das bandeiras de V.Exa., como Presidente desta Casa, e, portanto, com o apoio irrestrito do Poder Legislativo, uma matéria que vem do Senado, que foi amplamente debatida, e que chega...\r\n\tO SR. PRESIDENTE (Henrique Eduardo Alves) - E aprovada por unanimidade - todos os partidos a favor. Todos!\r\n\tO SR. JOSÉ PRIANTE - Aprovada por unanimidade e que chega ao final deste período legislativo com uma situação extremamente interessante: por um estranho descaminho, a luta da bancada da saúde acaba se confrontando com uma das bandeiras desta Casa.\r\n\tSe tomássemos outro caminho nesta hora, estaríamos, com certeza, não atendendo nem a bancada da saúde - respeitamos profundamente a bandeira da saúde -, muito menos essa bandeira de luta que V.Exa. levantou durante sua eleição, durante sua gestão.\r\n\tPortanto, o PMDB acompanha a decisão unânime do Senado, acompanha a posição que V.Exa. defendeu durante todo este tempo como Presidente da Casa."
+  }, {
+    "dataHoraInicio" : "2015-03-04T11:24",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/38030",
+    "faseEvento" : {
+      "titulo" : "Comissão Geral",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F3%2F2015&txPagina=29&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "COMISSÃO GERAL, CRISE, RECURSOS HÍDRICOS, ÁGUA, ESCASSEZ, ENERGIA ELÉTRICA, TRABALHO, ORGANIZAÇÃO.\r\nESTUDANTE, ESCOLA ESPAÇO CRIATIVO, GOIÂNIA, GOIÁS, PLENÁRIO, PRESENÇA.",
+    "sumario" : "Esclarecimento sobre o tempo dos oradores e a ordem de uso da palavra na Comissão Geral sobre a crise hídrica e energética no Brasil.",
+    "transcricao" : "O SR. PRESIDENTE (Deputado José Priante) - Eu gostaria de anunciar o roteiro subsequente. Como Presidente, tenho também a obrigação de mediar uma circunstância que se impõe. \r\nNós temos aqui diversos convidados, que terão a oportunidade de se manifestar, diversas Lideranças partidárias e algumas dezenas de Deputados inscritos. Impõe-nos visualizar o futuro breve, porque às 14 horas nós temos que abrir a sessão ordinária da Câmara dos Deputados. \r\nRecai sobre nós a tomada de uma decisão, e eu gostaria de ter a solidariedade de todas as Lideranças, até mesmo porque o nosso convidado tem que responder aos questionamentos das diversas pessoas que haverão de se pronunciar.\r\n\tVamos estabelecer um prazo de 3 minutos para os convidados, de 3 minutos para as Lideranças e de 3 minutos para os Deputados. Após a fala dos convidados, passarei a palavra aos Líderes partidários, depois devolverei a palavra ao Ministro, para que S.Exa. possa responder aos questionamentos feitos até então. Posteriormente, por uma questão de economia, passaremos a palavra aos Deputados, que certamente não haverão de incidir nos mesmos questionamentos.\r\n\tPassarei a palavra ao primeiro convidado. Por acordo, chamaremos agora o Dr. Carlos Afonso Nobre, Diretor do Centro Nacional de Monitoramento e Alertas de Desastres Naturais, que terá a palavra por 3 minutos na nossa tribuna de honra. Antes, porém, quero registrar a presença da Escola Espaço Criativo, de Goiânia, que abrilhanta esta sessão especial da Câmara dos Deputados.\r\n\tSintam-se em casa nesta sessão!"
+  }, {
+    "dataHoraInicio" : "2015-03-04T13:30",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/38030",
+    "faseEvento" : {
+      "titulo" : "Comissão Geral",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F3%2F2015&txPagina=48&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "COMISSÃO GERAL, CRISE, RECURSOS HÍDRICOS, ÁGUA, ESCASSEZ, ENERGIA ELÉTRICA, USO DA PALAVRA, ESCLARECIMENTO, AGRADECIMENTO, PARTICIPAÇÃO, EDUARDO BRAGA, MINISTRO DE ESTADO, MINISTERIO DAS MINAS E ENERGIA, CONVITE, VISITA, PARA.",
+    "sumario" : "Informação aos participantes sobre o tempo para uso da palavra na Comissão Geral sobre a crise hídrica e energética no Brasil.Agradecimento ao Ministro de Minas e Energia, Carlos Eduardo de Souza Braga, pela participação no debate. Convite ao Ministro para visita aos Estados do Pará e do Amazonas.",
+    "transcricao" : "O SR. PRESIDENTE (Deputado José Priante) - Sr. Ministro, evidentemente nós estamos chegando ao final desta sessão. Nós temos aqui alguns Deputados inscritos, e, temos, infelizmente, o prazo inexorável para encerrar - às 14 horas se instala a sessão ordinária da Câmara. \r\n\tEu gostaria, Sr. Ministro, de estender um pouco mais esta nossa reunião e de dar oportunidade aos Deputados que ainda estão presentes, e muitos deles já se retiraram, de se manifestar. Proponho um novo acordo ao Plenário, isto é, diminuir o prazo das intervenções, tendo em vista o número de Parlamentares inscritos. Então, cada orador terá 2 minutos para fazer sua abordagem.\r\n\tEu, particularmente, como Deputado do Estado do Pará, a maior reserva hidrológica de energia deste País, desde já trago minha palavra de agradecimento ao Ministro, pela sua presença, e convido S.Exa. a visitar o Pará, onde estão pautadas, pelo Governo e pelo Brasil, algumas das principais fontes de energia deste País: Belo Monte, Bacia do Tapajós, além da hidrelétrica do Tucuruí. Quero convidá-lo a visitar o Pará e o vizinho Amazonas, para, contando com a presença emocional de V.Exa., diante desse desafio de implantar grandes projetos no Amazonas, o Pará seja de alguma forma também compensado pela exportação da energia para todo o Brasil."
+  }, {
+    "dataHoraInicio" : "2015-03-04T13:54",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/38030",
+    "faseEvento" : {
+      "titulo" : "Comissão Geral",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F3%2F2015&txPagina=52&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "CARLOS EDUARDO DE SOUZA BRAGA, MINISTRO DE ESTADO, MINISTÉRIO DE MINAS E ENERGIA, USO DA PALAVRA, RECURSOS HÍDRICOS, ÁGUA, ESCASSEZ, ENERGIA ELÉTRICA, CRISE, TEMA, COMISSÃO GERAL, PRESIDÊNCIA DE COMISSÃO, REGISTRO.",
+    "sumario" : "Agradecimento aos participantes na Comissão Geral sobre a crise hídrica e energética no Brasil.",
+    "transcricao" : "O SR. PRESIDENTE (Deputado José Priante) - Encerrada lista de inscritos, passo a palavra ao Ministro - evidentemente que por um tempo também completamente limitado -, para as considerações finais.\r\n\tAgradeço a todos os convidados, a todos os que participaram desta reunião, que foi extremamente concorrida.\r\n\tDou por encerrada a reunião, concedendo a palavra ao Ministro Eduardo Braga, a quem agradeço pela presença. S.Exa. foi o primeiro Ministro a participar da Comissão Geral desta Casa.\r\n\tMuito obrigado a todos."
+  }, {
+    "dataHoraInicio" : "2015-11-11T09:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/42186",
+    "faseEvento" : {
+      "titulo" : "Homenagem",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "HOMENAGEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F11%2F2015&txPagina=20&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : null,
+    "sumario" : "Sessão solene em homenagem ao Círio de Nossa Senhora de Nazaré.\r\nAs notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.",
+    "transcricao" : "Ata da 347ª (tricentésima quadragésima sétima) Sessão da Câmara dos Deputados, Não Deliberativa Solene, matutina, da 1ª Sessão Legislativa Ordinária, da 55ª Legislatura, em 11 de novembro de 2015.  Às 10h09, o Sr. Joaquim Passarinho, no exercício da Presidência, nos termos do § 2º do artigo 18 do Regimento Interno, declarou aberta a sessão e deu por dispensada a leitura da ata da sessão anterior. O Sr. Presidente informou que a sessão destinou-se à homenagem ao Círio de Nossa Senhora de Nazaré; prestou as devidas homenagens; e convidou para compor a Mesa os Srs. Givaldo Carimbão, Luiz Carlos Hauly e Diego Garcia, representando a Frente Parlamentar Católica; Padre Francisco Assis Felintro de Oliveira, Reitor da Basílica Santuário de Nazaré e Presidente da Festa de Nazaré em Belém do Pará; Jorge Xerfan Neto, Coordenador do Círio de Nazaré 2015; e Professor Daniel Seidel, Assessor Político da Conferência Nacional dos Bispos do Brasil - CNBB. O Sr. Presidente convidou todos a ouvir o Hino Nacional. Durante a exibição do vídeo institucional, a imagem de Nossa Senhora de Nazaré foi trazida ao Plenário. O Sr. Presidente proferiu discurso do Sr. Eduardo Cunha, Presidente da Câmara dos Deputados. Nos termos do § 2º do artigo 18 do Regimento Interno, assumiu a Presidência o Sr. Diego Garcia e concedeu a palavra ao Sr. Joaquim Passarinho, autor do requerimento. Reassumiu a Presidência o Sr. Joaquim Passarinho e concedeu a palavra à Sra. Simone Morgado, pelo PMDB; e aos Srs. Edmilson Rodrigues, pelo PSOL; Delegado Éder Mauro, pelo PSD; Hélio Leite, pelo Democratas; Raquel Muniz, pelo PSC; Eros Biondini, pelo PTB; e aos Srs. Diego Garcia, Francisco Assis Felintro de Oliveira, Daniel Seidel, Givaldo Carimbão e Luiz Carlos Hauly, componentes da Mesa. O Sr. Presidente convidou todos a ouvir a apresentação dos músicos Gerson Araújo e Lucinha Bastos, apresentando as músicas \"Ave Maria\" e \"Círios\". Assumiram, sucessivamente, a Presidência os Srs. Givaldo Carimbão e Joaquim Passarinho, nos termos do § 2º do artigo 18 do Regimento Interno. Usaram da palavra pela ordem a Sra. Elcione Barbalho, Átila Lins, Jorginho Mello, José Priante, Carlos Melles, Goulart, Marcos Montes, Heráclito Fortes e Arnaldo Jordy. Usou ainda da palavra o Sr. Vitor Cunha, Vereador de Belém do Pará. Durante a reexibição do vídeo institucional, a imagem de Nossa Senhora de Nazaré foi retirada do Plenário. O Sr. Presidente registrou a presença de convidados, reiterou as homenagens prestadas, agradeceu a presença de todos e, às 12h36, encerrou a sessão.\r\n\r\n\r\nCarlos Manato\r\nPresidente\r\n\r\nAs notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ."
+  }, {
+    "dataHoraInicio" : "2015-11-11T11:40",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Homenagem",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "HOMENAGEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F11%2F2015&txPagina=&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "SESSÃO SOLENE, HOMENAGEM, NOSSA SENHORA DE NAZARÉ, IGREJA CATÓLICA, CÍRIO DE NAZARÉ, FESTA RELIGIOSA.",
+    "sumario" : "Sessão solene em homenagem à Nossa Senhora de Nazaré.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (Bloco/PMDB-PA. Sem revisão do orador.) - Eu quero registrar a minha alegria de participar desta sessão solene, cumprimentar todos os presentes, de maneira especial o Deputado Joaquim Passarinho pela iniciativa de promover esta oportunidade a todos nós, à Câmara Federal, ao Brasil.\r\n\tCumprimento o Deputado Federal Carimbão, também presente, Coordenador da Frente Parlamentar Mista Católica Apostólica Romana; o Padre Francisco Assis, Reitor da Basílica Santuário de Nossa Senhora de Nazaré; o amigo Jorge Xerfan Neto, Coordenador do Círio de Nossa Senhora de Nazaré 2015, cuja presença neste evento muito me alegra; o Prof. Daniel Seidel, representante da CNBB.\r\n\tEnfim, este é um momento muito sublime para todos nós aqui na Câmara dos Deputados. É uma oportunidade que temos de reverenciar aqui Nossa Senhora de Nazaré, falar um pouco do paraensismo, daquilo que representa para todos nós paraenses essa manifestação de fé que entorna todo esse processo do Círio de Nossa Senhora de Nazaré, da atmosfera que se constrói na nossa cidade de Belém do Pará, em todo o Estado, uma mobilização com características amazônicas completamente apaixonantes e diferenciadas.\r\n\tO Círio, para nós, paraenses, não é apenas uma manifestação religiosa, é uma manifestação popular, é um momento de congraçamento, é um conjunto de emoções que resulta em algo indescritível, essa é a grande verdade. Mas para todos nós esta é uma oportunidade muito importante de fazermos esta sessão na Câmara dos Deputados. Neste momento em que o Brasil vive uma turbulência política muito grave, trazermos a este plenário - palco de tantas contradições, de tantas posições divergentes, muitas vezes exacerbadas - um momento de reflexão espiritual, um momento para que o Brasil todo possa passar por uma observação de que lá no rincão distante do Brasil sul, do Brasil sudeste existe uma manifestação de fé quase que incomparável neste País de extensão continental, com certeza, sem dúvida nenhuma, a maior manifestação religiosa deste País - não temos dúvida em fazer essa afirmação. Eu acho que tem toda essa contextualização esta sessão solene, Deputado Joaquim Passarinho.\r\n\tE que as bênçãos de Nossa Senhora de Nazaré possam adentrar nesta tribuna, nesta Casa, na mente de todos os representantes do povo brasileiro que aqui buscam fazer a sua representatividade popular.\r\n\tEnfim, que Nossa Senhora de Nazaré possa abençoar todo o povo brasileiro. \r\n\tSó tenho a me congratular com todos pela manifestação. E fazer o lançamento de uma observação, Deputado Joaquim Passarinho: vamos fazer no próximo ano de 2016 uma sessão em Belém do Pará. Vamos levar todos os Deputados e Deputadas para conhecer e entender o que é o Círio de Nossa Senhora de Nazaré, não apenas vivenciar a imagem televisiva, mas viver todas as emoções do evento. O Círio precisa ser vivido para ser entendido.\r\n\tMuito obrigado e parabéns pela iniciativa. E viva Nossa Senhora de Nazaré! (Palmas.)\r\n\tO SR. PRESIDENTE (Joaquim Passarinho) - Muito obrigado, Deputado e amigo José Priante."
+  }, {
+    "dataHoraInicio" : "2016-03-17T13:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/43172",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F3%2F2016&txPagina=78&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "JOSÉ PRIANTE, DEPUTADO FEDERAL, MEMBRO, INDICAÇÃO, PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO (PMDB), CHAPA ELEITORAL, COMISSÃO ESPECIAL, ANÁLISE, PARECER, DENÚNCIA , CRIME DE RESPONSABILIDADE, IMPEACHMENT, DILMA ROUSSEFF, PRESIDENTE DA REPÚBLICA, SUBSTITUIÇÃO, SOLICITAÇÃO.",
+    "sumario" : "Solicitação à Presidência de substituição do orador como membro da Comissão Especial do Impeachment",
+    "transcricao" : "O SR. JOSÉ PRIANTE (Bloco/PMDB-PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu gostaria de fazer uma ponderação a V.Exa.\r\n\tO meu nome está indicado pelo meu partido, o PMDB, para compor a Comissão do Impeachment. Eu estou, neste momento, declinando da minha participação, por uma decisão pessoal. Eu não quero participar, neste momento, da Comissão do Impeachment. \r\n\tPortanto, requeiro a V.Exa. a substituição do meu nome pelo meu partido por outro colega nessa relação do PMDB."
+  }, {
+    "dataHoraInicio" : "2016-04-17T14:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/43397",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "REGISTRO DE VOTO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F4%2F2016&txPagina=64&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "DCR 1/2015, DENÚNCIA POR CRIME DE RESPONSABILIDADE, DILMA ROUSSEFF, PRESIDENTE DA REPÚBLICA, IMPEACHMENT, COMISSÃO ESPECIAL, PARECER, ADMISSIBILIDADE, VOTO FAVORÁVEL.",
+    "sumario" : "Registro de voto do parecer da Comissão Especial sobre a denúncia contra a Presidenta Dilma Rousseff por crime de responsabilidade - Impeachment.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (Bloco/PMDB-PA.) - Sr. Presidente, o sentimento majoritário que preside em cada brasileiro que acompanha esta sessão histórica que se realiza hoje aqui na Câmara dos Deputados é o sentimento da esperança.\r\n\tPortanto, vou acompanhar a opinião majoritária do povo do meu Estado do Pará. Eu voto \"sim\". (Manifestação no plenário.)\r\n\tO SR. BETO MANSUR - Deputado José Priante, do PMDB do Pará: voto \"sim\". Total: 53 votos."
+  }, {
+    "dataHoraInicio" : "2017-02-02T12:06",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/46251",
+    "faseEvento" : {
+      "titulo" : "Abertura",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F2%2F2017&txPagina=52&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "SESSÃO PREPARATÓRIA, ELEIÇÃO, MESA DIRETORA DA CÂMARA DOS DEPUTADOS.\r\nAPOIO, CANDIDATURA, APOIO, CANDIDATURA,  PRIMEIRA-VICE-PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS, LUCIO VIEIRA LIMA, DEPUTADO FEDERAL, PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO (PMDB).",
+    "sumario" : "Apoio à candidatura do Deputado Lucio Vieira Lima, pelo PMDB, ao cargo de 1º Vice-Presidente da Casa.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (Bloco/PMDB-PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, este é mais um momento da maior importância para esta Casa. É a hora em que nos encontramos mais uma vez para deliberar sobre a Mesa que vai conduzir os trabalhos nos próximos 2 anos.\r\n\tEu quero aqui, neste pouco tempo que me resta do horário da Liderança, dirigir uma palavra especial ao meu partido, o PMDB. Em primeiro lugar, uma palavra a todos aqueles que me acompanharam na democrática luta interna que travamos pela definição de quem seria o nosso representante, indicado pelo partido, para compor a Mesa no cargo de 1º Vice-Presidente desta Casa, na qual já convivo, graças ao povo do meu querido Estado do Pará, por cinco mandatos. Portanto, tenho uma experiência de marujo de longo curso. \r\n\tQuero aqui dizer que, atendendo ao apelo do Presidente do Brasil, do Presidente do meu partido, amigo Michel Temer, pela unidade do PMDB, declaro aqui e conclamo todos os colegas a acompanharem a candidatura do valoroso amigo e carismático companheiro Lucio Vieira Lima para 1º Vice-Presidente desta Casa. (Palmas.) \r\nCurvo-me, já que o perfil do Lucio é o da alegria, a um fato que traz uma alegria muito grande nesta hora. Curvo-me, Lucio, à sua idade. \r\nComo bom velhinho, V.Exa. será o futuro Vice-Presidente da Câmara dos Deputados.\r\n\tMuito obrigado. (Palmas.)"
+  }, {
+    "dataHoraInicio" : "2017-05-16T18:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/47440",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F5%2F2017&txPagina=153&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "SOLICITAÇÃO, DEPUTADO FEDERAL, COMPARECIMENTO, PLENÁRIO DA CÂMARA DOS DEPUTADOS, VOTAÇÃO, REJEIÇÃO, REQUERIMENTO DE RETIRADA DE PROPOSIÇÃO DA ORDEM DO DIA, MPV 756/2016, MEDIDA PROVISÓRIA.",
+    "sumario" : "Solicitação aos Deputados da base governista de comparecimento ao plenário para votação da Medida Provisória nº 756, de 2016, sobre alteração dos limites do Parque Nacional do Rio Novo e da Floresta Nacional do Jamanxim e a criação da Área de Proteção Ambiental do Jamanxim. Adequação de tratamento do assunto por meio de medida provisória.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu solicito a todos os Deputados da base do Governo que compareçam ao plenário, para que possamos terminar, o mais rápido possível, esta votação, a fim de darmos seguimento às demais medidas provisórias.\r\n\tAproveito a oportunidade para esclarecer que não é a primeira vez que se trata desse assunto por medida provisória. Em 2011, foi editada a Medida Provisória 542, em 2012, a Medida Provisória 558, ambas versando sobre unidades de conservação no Brasil. Portanto, é uma falácia dizer que se está inaugurando neste momento o tratamento desse assunto por meio de medida provisória.\r\n\tSolicito a todos que compareçam ao plenário para que possamos deliberar, imediatamente, sobre esta matéria."
+  }, {
+    "dataHoraInicio" : "2017-05-16T18:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/47440",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "DISCUSSÃO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F5%2F2017&txPagina=136&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "DISCUSSÃO, MPV 756/2016, MEDIDA PROVISÓRIA.",
+    "sumario" : "Discussão da Medida Provisória nº 756, de 2016, sobre a alteração dos limites do Parque Nacional do Rio Novo, da Floresta Nacional do Jamanxim e criação da Área de Proteção Ambiental do Jamanxim.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, coube a mim a missão de relatar a Medida Provisória nº 756, de 2016, que versa sobre criação de áreas de preservação ambiental no Estado do Pará.\r\n\tHoje, seguramente, Sr. Presidente, a audiência da TV Câmara bate recorde pelo menos em um lugar deste País, no Município de Novo Progresso, no extremo Pará, na divisa com o Estado de Mato Grosso.\r\n\tNós estamos aqui, reunidos, tratando da vida dos brasileiros que moram em Novo Progresso, um Município rico, por onde passa a rodovia BR-163, a famosa Cuiabá-Santarém. Por lá passam, diariamente, milhares de carretas levando os grãos produzidos em Mato Grosso ao Porto de Itaituba, na região de Miritituba, para ganharem o mundo, serem exportados e fazerem com que o Brasil possa ser superavitário na balança comercial.\r\n\tEu faço essas considerações para citar geograficamente a área de que trata a MP 756. Ela versa exclusivamente sobre o território do Estado do Pará.\r\n\tJá me considero um marujo de longo curso nesta Casa. Estou no meu quinto mandato. E uma das principais preocupações que tenho, como um Deputado amazônida - e recomendo isso aos menos experientes que eu, especialmente aos da Amazônia -, é cumprir o papel pedagógico de explicar o que é a Amazônia.\r\n\tCheguei a brincar, em determinado momento, num debate, dizendo que, para conhecer a Amazônia, talvez seja preciso que a pessoa tenha pelo menos um caso de malária na sua história. Aqueles brasileiros, como colocou aqui o Deputado Joaquim Passarinho, foram chamados para ocupar a região.\r\n\tE aqui ouvi discursos diversos. Eu quero dizer uma palavra aos Deputados da Oposição: em consideração a um Estado membro da Federação, que é o Estado do Pará, por favor, apartem o que é a oposição ao atual Governo do que é o debate, do que está sendo discutido.\r\n\tO que nós estamos discutindo aqui são categorizações das diversas condições que a legislação ambiental brasileira nos impõe para preservarmos toda a região. Para V.Exas. terem uma ideia, com a medida provisória e o meu relatório...\r\n\t(Desligamento automático do microfone.)\r\n\tO SR. PRESIDENTE (Carlos Manato) - Muito obrigado, Deputado.\r\n\tO SR. JOSÉ PRIANTE - Peço um minuto para concluir, Presidente.\r\n\tO SR. PRESIDENTE (Carlos Manato) - Peço que conclua, Deputado.\r\n\tO SR. JOSÉ PRIANTE - Em um único território de uma unidade federativa em que não há progresso, 74% do território está preservado ambientalmente. \r\n\tNós estamos aproveitando a medida provisória para arbitrar conflitos, para evitar que o Pará seja, mais uma vez, notícia nas páginas policiais brasileiras em virtude de mortes, conflitos agrários e conflitos que acontecem diariamente, a exemplo do assassinato de um Prefeito que aconteceu hoje no nosso querido Estado do Pará.\r\n\tPortanto, a discussão está começando. Estou aberto para prestar esclarecimentos aos colegas, a fim de que tenham um melhor entendimento não só sobre a Amazônia, mas também, especificamente, sobre a MP 756.\r\n\tE fico certo de que hoje, Sr. Presidente, o Congresso Nacional - a Câmara dos Deputados - votará e dará a resposta a uma região esquecida pelo Brasil. Muitos brasileiros do Rio Grande do Sul, do Paraná, de São Paulo e de todos os cantos foram para lá fazer a sua vida."
+  }, {
+    "dataHoraInicio" : "2017-05-16T18:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/47440",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F5%2F2017&txPagina=296&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, DESTAQUE DE EXPRESSÃO, ART. 1º, ARTIGO (TEXTO LEGISLATIVO), PLV 4/2017, PROJETO DE LEI DE CONVERSÃO, MPV 756/2016, MEDIDA PROVISÓRIA, PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO (PMDB), VOTO CONTRÁRIO.",
+    "sumario" : "Orientação de bancada sobre o requerimento de destaque para votação em separado da expressão \"bem como permitir a realização de atividades minerárias\", constante do art. 1º do Projeto de Lei de Conversão nº 4, de 2017, da Medida Provisória nº 756, de 2016.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o PMDB encaminha o voto pela manutenção do texto, esclarecendo a todos aqueles que estão preocupados com a atividade garimpeira numa área de floresta que o decreto que criou a área do Jamanxim, em 2006, já trazia essa permissão. Esse decreto foi feito pelo Presidente Lula.\r\n\tPortanto, nós estamos apenas, neste momento, garantindo o direito, já concedido àqueles que já estão lá com suas atividades - seja de manejo florestal, seja de garimpo -, de que lá permaneçam com as suas atividades. Esse projeto veio facilitar exatamente a arbitragem dos problemas que existem naquela área, Novo Progresso.\r\nE vale ressaltar um dado. Aqueles Deputados que estão preocupados com a devastação, fazendo o discurso de que ela está sendo ampliada, e a preservação diminuída, eu desafio a apresentar um Município que tenha pelo menos 50% do seu território como área de preservação ambiental. Pois bem, o Município de Novo Progresso, a partir da votação deste relatório, terá 75% de todo o seu território garantido como área de preservação, quer como parque nacional, quer como florestal nacional, quer como área de preservação ambiental. Portanto, Sr. Presidente, Novo Progresso será o Município brasileiro com maior área de preservação ambiental do País.\r\n\tEntão, o PMDB encaminha pela manutenção do texto."
+  }, {
+    "dataHoraInicio" : "2017-05-16T18:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/47440",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F5%2F2017&txPagina=149&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSIÇÃO DA ORDEM DO DIA, MPV 756/2016, MEDIDA PROVISÓRIA, PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO (PMDB).",
+    "sumario" : "Orientação de bancada sobre o requerimento de retirada de pauta da Medida Provisória nº 756, de 2016, sobre a alteração dos limites do Parque Nacional do Rio Novo, da Floresta Nacional do Jamanxim e criação da Área de Proteção Ambiental do Jamanxim.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o PMDB orienta \"não\" e pede que todos os Deputados do partido e da base do Governo possam comparecer ao Plenário, para que nós possamos deliberar imediatamente sobre a Medida Provisória nº 756, porque, na verdade, às vezes as palavras servem para confundir e não para esclarecer.\r\n\tUma medida provisória que tem o propósito de transformar 80% de um território de um único Município no Estado do Pará em área de preservação ambiental não tem o propósito de criar a criminalidade, a confusão, o conflito, a grilagem. Muito pelo contrário, é uma medida provisória que cria, em quase toda a extensão territorial de um único Município, Novo Progresso, em todo o seu território, categorizando diversas modalidades de preservação ambiental, que vão da mais rigorosa...\r\n\t(Desligamento automático do microfone.)\r\n\tO SR. PRESIDENTE (JHC) - Conclua, Deputado.\r\n\tO SR. JOSÉ PRIANTE - ...o Parque Nacional, a Floresta Nacional e a Área de Proteção Ambiental.\r\n\tPortanto, nós estamos procurando ajustar e querendo fazer com que o Brasil e parte da representatividade deste País entenda o que é a realidade daquele quinhão brasileiro, para que nós possamos, de uma vez por todas, através desta medida provisória, acabar com o conflito, acabar com as disputas, regularizando e ajustando a situação daqueles brasileiros que ali vivem.\r\n\tEsse é o propósito da medida provisória, e não criminalizar, como alguns, que querem confundir, dizem na tribuna, fazendo uma confusão terrível, legislando contra brasileiros que ali vivem e foram chamados para trabalhar por este País."
+  }, {
+    "dataHoraInicio" : "2017-05-16T19:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/47446",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F5%2F2017&txPagina=395&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, DESTAQUE PARA VOTAÇÃO EM SEPARADO, ART. 5º,  ARTIGO (TEXTO LEGISLATIVO), PLV 4/2017, PROJETO DE LEI DE CONVERSÃO, MPV 756/2016, MEDIDA PROVISÓRIA, PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO (PMDB).",
+    "sumario" : "Orientação de bancanca sobre o requerimento de destaque para votação em separado do art. 5º do projeto de lei de conversão da Medida Provisória nº 756, de 2016, sobre a alteração dos limites do Parque Nacional do Rio Novo, da Floresta Nacional do Jamanxim e a criação da Área de Proteção Ambiental do Jamanxim.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, nós vamos votar pela manutenção do texto, porque, na verdade, essa proposta de destaque vem como uma bomba para matar todo o texto e desconfigurar a medida provisória.\r\n\tPortanto, nós votamos pela manutenção do texto e pedimos a todos da base do Governo que acompanhem essa posição."
+  }, {
+    "dataHoraInicio" : "2017-05-16T19:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/47446",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F5%2F2017&txPagina=364&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSIÇÃO, MPV 756/2016, MEDIDA PROVISÓRIA, PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO (PMDB), VOTO CONTRÁRIO.",
+    "sumario" : "Orientação de bancada sobre a votação do requerimento de retirada da Medida Provisória nº 756, de 2016, sobre a alteração dos limites do Parque Nacional do Rio Novo, da Floresta Nacional do Jamanxim e a criação da Área de Proteção Ambiental do Jamanxim.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Pela ordem. Sem revisão do orador.) - O PMDB vota \"não\", Sr. Presidente.\r\n\tTrata-se de uma medida protelatória para tentar evitar a votação, não só desta medida provisória, mas das outras que estão na fila, aguardando o encerramento da votação da MP 756. Claramente é essa a posição daqueles que são contra a medida provisória."
+  }, {
+    "dataHoraInicio" : "2017-08-02T14:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/48444",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "REGISTRO DE VOTO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F8%2F2017&txPagina=250&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PARECER CONTRÁRIO, COMISSÃO DE CONSTITUIÇÃO E JUSTIÇA E DE CIDADANIA (CCJC), SIP 1/2017, SOLICITAÇÃO PARA INSTAURAÇÃO DE PROCESSO, AUTORIZAÇÃO, INVESTIGAÇÃO, SUPREMO TRIBUNAL FEDERAL (STF), DENÚNCIA, MINISTÉRIO PÚBLICO FEDERAL (MPF), MICHEL TEMER, PRESIDENTE DA REPÚBLICA, VOTO FAVORÁVEL.",
+    "sumario" : "Votação nominal do parecer da Comissão de Constituição e Justiça e de Cidadania, pelo indeferimento da Solicitação para a Instauração do Processo nº 1, de 2017, a respeito de denúncia do Ministério Público Federal contra o Presidente Michel Temer.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA.) - Sr. Presidente, o Presidente Michel Temer terá a oportunidade de apresentar a sua defesa e de se defender no momento oportuno. Contra os sobressaltos...\r\n\t(Desligamento automático do microfone.)\r\n\tO SR. PRESIDENTE (Rodrigo Maia) - Como vota V.Exa., Deputado?\r\n\tO SR. JOSÉ PRIANTE (PMDB-PA.) - Eu acompanho o parecer da Comissão de Constituição e Justiça e de Cidadania.\r\n\tO SR. GIACOBO - Deputado José Priante: voto \"sim\". Total: 38 votos."
+  }, {
+    "dataHoraInicio" : "2017-08-30T00:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "COMO LÍDER",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=31%2F8%2F2017&txPagina=262&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "VETO 16/2017, VETO TOTAL, PLV 4/2017, PROJETO DE LEI DE CONVERSÃO, MPV 756/2016, MEDIDA PROVISÓRIA, ALTERAÇÃO, LIMITE, PARQUE NACIONAL DO RIO NOVO, FLORESTA NACIONAL DO JAMANXIM, CRIAÇÃO, ÁREA DE PROTEÇÃO AMBIENTAL DE JAMANXIM, PARÁ, PARQUE NACIONAL DE SÃO JOAQUIM, PARQUE NACIONAL DA SERRA CATARINENSE, SANTA CATARINA, DERRUBADA DE VETO, DEFESA.",
+    "sumario" : "",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB - PA. Como Líder. Sem revisão do orador.) - Sr. Presidente, Srªs e Srs. Senadores...\r\nO SR. PEDRO UCZAI (PT - SC) - Sr. Presidente.\r\nO SR. JOSÉ PRIANTE (PMDB - PA) - ... Srs. Deputados, Srªs Deputadas, na verdade, estamos aqui fazendo um novo encontro do Congresso Nacional para deliberar sobre uma matéria que teve um amplo apoio da Câmara dos Deputados, um esmagador apoio do Senado Federal deste País.\r\nUma matéria que versa... Se tivéssemos que adjetivar essa matéria, eu poderia dizer, na condição de representante do Estado do Pará, que nada mais estamos votando do que fazer justiça a uma região, a um povo trabalhador, e em momento algum estamos diminuindo área de proteção ambiental.\r\nO SR. PEDRO UCZAI (PT - SC) - Sr. Presidente.\r\nO SR. JOSÉ PRIANTE (PMDB - PA) - É uma matéria que versa exclusivamente sobre o Município do Pará e o Estado de Santa Catarina.\r\nNo que diz respeito ao Estado do Pará, talvez não exista, neste imenso País, um Município, a exemplo do Município de Novo Progresso, que diz respeito exatamente à Floresta do Jamanxim, onde 75% do território de um único Município neste Brasil estão preservados com parques, com reserva biológica, com APAs, enfim, totalmente preservado o meio ambiente, em harmonia com o desenvolvimento e com a integração daquele povo que ali habita.\r\nBrasileiros foram chamados para lá, conterrâneos do Rio Grande do Sul, de gaúchos, de catarinenses, de paranaenses, de paulistas, para habitar aquela região, e estão lá. O que estamos votando, minha gente, é a recategorização de uma área, estamos administrando conflitos e acabando com conflitos que perduram há mais de três décadas, nessa região do Pará.\r\nÉ por isso que lá se vê enxame, o Ibama presente, é porque o conflito não cessa, o conflito só cessará se nós deliberarmos hoje dizendo \"não\" e dizendo \"sim\" à paz, à tranquilidade e à estabilidade daquele povo que habita essa região do nosso imenso Estado do Pará.\r\nEu conclamo a todos, num ato de responsabilidade, para apartarmos o proselitismo daqueles que querem surfar facilmente, discutindo a Amazônia sem sequer ter pisado naquela região; aqueles que querem fazer charme para a comunidade internacional sem levar em consideração os homens, as mulheres que habitam aquela região; pessoas que sequer têm consciência do que é trabalhar em uma floresta, do que é estar exposto à malária e a toda sorte de doenças.\r\nEssas pessoas que querem e usam muitas das vezes esses momentos para fazer o seu proselitismo... Faço um apelo às cabeças conscientes desta Casa: que nós possamos permanecer com a opinião altiva da Câmara dos Deputados e do Senado Federal.\r\nDizer \"não\" é dizer \"sim\" à paz e à tranquilidade; é dizer \"sim\" à estabilidade de uma região; é dizer \"sim\" à preservação de 75% de um único Município neste Pará, neste Brasil.\r\nE talvez não exista, por este País afora, uma unidade, um Município que tenha o tamanho da preservação ambiental que esta Casa, que o Senado Federal, que a Câmara dos Deputados desenharam como área de reserva ambiental para o Município de Novo Progresso para esta região.\r\nÀqueles que não sabem como fica essa região, esse Município, ele fica às margens da BR-163, por onde trafegam milhares de caminhões de grãos, passando pelo Pará, para levar a soja para o Porto de Miritituba, para que essa soja possa partir para o mundo, fazendo com que o Pará, o Mato Grosso e toda essa região possam contribuir com a balança comercial brasileira, para que o País seja superavitário.\r\nSão esses os argumentos, meus caros colegas Deputados e Deputadas, Senadores e Senadoras, que eu faço nesta reunião do Congresso Nacional para que vocês digam \"não\" a esse veto e digam \"sim\" ao sonho de uma região que quer ver a paz, que quer ver a estabilidade, que quer preservar o meio ambiente, que quer...\r\n(Interrupção do som.)\r\nO SR. JOSÉ PRIANTE (PMDB - PA) - ... muito obrigado.\r\nUm abraço a todos"
+  }, {
+    "dataHoraInicio" : "2017-10-10T12:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/49597",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F10%2F2017&txPagina=100&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "APRESENTAÇÃO, PROJETO DE LEI ORDINÁRIA, INCLUSÃO, TRECHO RODOVIÁRIO, PLANO NACIONAL DE VIAÇÃO (PNV), RODOVIA FEDERAL, PARÁ.",
+    "sumario" : "Solicitação de apoio a projeto de lei de autoria do orador, sobre a inclusão, no Plano Nacional de Viação, de trecho rodoviário denominado TransCarajás, do Município de Parauapebas, Estado do Pará, até o Município de Araguaína, Estado de Tocantins.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Sem revisão do orador.) - Sr. Presidente, registro que estou apresentando hoje nesta Casa um projeto de lei de minha autoria, incluindo no Plano Nacional de Viação um trecho rodoviário. Ou seja, estamos federalizando um trecho, que se chamará TransCarajás, rodovia que sai do Município de Parauapebas, na direção de Canaã de Carajás, traçando pelo Município de Xinguara, no Estado do Pará, até a fronteira com o Estado de Tocantins, na comunidade de São Geraldo de Araguaia, o famoso Pontão, seguindo pelo Estado de Tocantins, até o Município de Araguaína.\r\n\tEntão, estamos apresentando esse projeto de lei, tendo em vista que essa região é a maior produtora de ferro de todo este imenso País. É onde está sendo instalado o maior projeto minerário do mundo, do planeta, S11D, em Canaã dos Carajás. Portanto, é um traçado rodoviário para fazer com que essa região possa ter uma maior infraestrutura, fazendo interligações com outras rodovias federais.\r\n\tO SR. PRESIDENTE (Carlos Manato) - Muito bem, Deputado. \r\n\tO pronunciamento de V.Exa. será divulgado no programa A Voz do Brasil."
+  }, {
+    "dataHoraInicio" : "2017-10-25T16:50",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/49870",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "REGISTRO DE VOTO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F10%2F2017&txPagina=238&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PARECER CONTRÁRIO, COMISSÃO DE CONSTITUIÇÃO E JUSTIÇA E DE CIDADANIA (CCJC), SIP 2/2017, SOLICITAÇÃO PARA INSTAURAÇÃO DE PROCESSO, AUTORIZAÇÃO, INVESTIGAÇÃO, SUPREMO TRIBUNAL FEDERAL (STF), DENÚNCIA, MINISTÉRIO PÚBLICO FEDERAL (MPF), MICHEL TEMER, PRESIDENTE DA REPÚBLICA, ELISEU LEMOS PADILHA, WELLINGTON MOREIRA FRANCO, MINISTRO DE ESTADO, VOTO FAVORÁVEL.",
+    "sumario" : "Votação nominal do parecer da Comissão de Constituição e Justiça e de Cidadania com conclusão pela inadmissibilidade da denúncia da Procuradoria-Geral da República e pelo indeferimento da solicitação de autorização para a instauração do Processo nº 2, de 2017, pelo Supremo Tribunal Federal, referente à denúncia formulada pelo Ministério Público Federal em desfavor do Presidente Michel Temer e dos Ministros de Estado, Eliseu Lemos Padilha e Wellington Moreira Franco.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA.) - Sr. Presidente, eu acompanho o parecer da Comissão de Constituição e Justiça, e de Cidadania. Eu voto \"sim\".\r\n\tO SR. GIACOBO - Deputado José Priante: voto \"sim\". Total: 35 votos."
+  }, {
+    "dataHoraInicio" : "2017-11-07T13:22",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50032",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F11%2F2017&txPagina=42&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PL 9017/2017, PROJETO DE LEI ORDINÁRIA, ALTERAÇÃO, LEI DOS CRIMES AMBIENTAIS, CRITÉRIO, PENALIDADE ADMINISTRATIVA, DESTRUIÇÃO, EQUIPAMENTO, PRODUTOS, INFRAÇÃO ADMINISTRATIVA AMBIENTAL, JOSÉ PRIANTE, DEPUTADO FEDERAL, APRESENTAÇÃO.",
+    "sumario" : "Apresentação de projeto de lei sobre a destinação de instrumentos utilizados para a prática de infrações ambientais.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Sem revisão do orador.) - Sr. Presidente, quero agradecer o pronto atendimento a V.Exa. e a paciência ao Deputado Celso Pansera.\r\n\tGostaria de fazer um breve encaminhamento, Sr. Presidente. Apresentei projeto de lei que versa sobre um tema que tem inquietado profundamente o meu Estado do Pará, particularmente a classe dos garimpeiros e dos produtores rurais. Refiro-me à abordagem violenta que servidores de órgãos de controle ambiental tem utilizado em ações para conter cometimento ilícito.\r\n\t(Desligamento automático do microfone.) \r\n\tO SR. PRESIDENTE (Vitor Valim) - Parabéns, Deputado Priante, pela defesa dos garimpeiros. Eu vou dar 10 segundos a V.Exa. para concluir o discurso.\r\n\tO SR. JOSÉ PRIANTE - Eu vou concluir, Sr. Presidente. Tenho certeza de que o Deputado Celso Pansera não se aborrecerá.\r\n\tEntão, o projeto de lei que apresentei pretende emendar a Lei de Crimes Ambientais, para estabelecer como crime a destruição de ativos. Destruir equipamentos, destruir máquinas, destruir madeiras, destruir tratores, destruir carros, no meu entendimento, é crime. Esses ativos utilizados de maneira errada podem ser convertidos para a sociedade, em hasta pública, para os cofres da União, para utilização pelos Municípios, para entidades sem fins lucrativos. Isso tudo pode ocorrer, menos a destruição.\r\n\tEntão, o projeto de lei vai exatamente no caminho inverso, ou seja, o de criminalizar quem destruir patrimônio que pode ser convertido para a sociedade brasileira.\r\n\tO SR. PRESIDENTE (Vitor Valim) - Parabenizo V.Exa."
+  }, {
+    "dataHoraInicio" : "2017-11-21T16:46",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50225",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ORIENTAÇÃO DE BANCADA",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F11%2F2017&txPagina=135&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, PARECER FAVORÁVEL, COMISSÃO MISTA, MPV 786/2017, MEDIDA PROVISÓRIA,PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO (PMDB), VOTO FAVORÁVEL.",
+    "sumario" : "Orientação de bancada para votação do parecer da Comissão Mista quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e da adequação financeira e orçamentária da Medida Provisória nº 786, de 2017, relativa à participação da União em fundo de apoio à estruturação e ao desenvolvimento de projetos de concessões e parcerias público-privadas e a alteração da Lei nº 11.578, e 2007, sobre a transferência obrigatória de recursos financeiros para a execução pelos Estados, Distrito Federal e Municípios de ações do Programa de Aceleração do Crescimento - PAC, e da Lei nº 12.712, de 2012, sobre a criação da Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Pela ordem. Sem revisão do orador.) - O PMDB encaminha voto \"sim\" e pede para que todos os membros da bancada compareçam o mais rápido possível ao plenário para que possamos deliberar sobre esta medida provisória e passemos a votar a MP 789, que todos da plateia estão aguardando ansiosamente. (Palmas.)"
+  }, {
+    "dataHoraInicio" : "2017-11-21T16:46",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50225",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F11%2F2017&txPagina=173&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "VOTAÇÃO, DESTAQUE, MPV 786/2017, MEDIDA PROVISORIA, APRECIAÇÃO, MPV 789/2017, DEFESA.",
+    "sumario" : "Imediata votação dos destaques da Medida Provisória nº 786, de 2017,relativa à participação da União em fundo de apoio à estruturação e ao desenvolvimento de projetos de concessões e parcerias público-privadas e a alteração da Lei nº 11.578, e 2007, sobre a transferência obrigatória de recursos financeiros para a execução pelos Estados, Distrito Federal e Municípios de ações do Programa de Aceleração do Crescimento - PAC, e da Lei nº 12.712, de 2012, sobre a criação da Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF, com vista à apreciação da Medida Provisória nº 789, de 2017.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, existe ainda uma série de destaques apresentados na MP 786/17. Solicito a todos que querem que passemos imediatamente à votação da MP 789/17 a colaboração para que enfrentemos os destaques e imediatamente votemos essa matéria que trata dos 4% da CFEM. \r\n\tEra só esse alerta que gostaria de fazer. (Manifestação nas galerias.)"
+  }, {
+    "dataHoraInicio" : "2017-11-21T19:10",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50248",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "COMO LÍDER",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F11%2F2017&txPagina=327&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "MPV 789/2017, MEDIDA PROVISÓRIA, ALTERAÇÃO, COMPENSAÇÃO FINANCEIRA PELA EXPLORAÇÃO DE RECURSOS MINERAIS (CFEM),  AUMENTO, PERCENTUAL, DESTINAÇÃO, MUNICIPIO, MARCUS PESTANA, RELATOR, APOIO, PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO (PMDB).",
+    "sumario" : "Premência de votação de medida provisória de interesse dos Estados produtores de minérios. Apoio do PMDB ao parecer do Relator da Medida Provisória nº 789, de 2017, sobre a Compensação Financeira pela Exploração de Recursos Minerais.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Como Líder. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, esta é uma luta antiga. Nós estamos aqui hoje fazendo um debate já na prorrogação do prazo dessa votação. Já são quase 22 horas, estamos estrangulados pelo tempo e precisamos deliberar sobre esta matéria nesta noite. \r\n\tDelegações vieram do Estado de Minas Gerais e do meu querido Estado do Pará. Elas estão aqui presentes para acompanhar esta votação. Talvez a audiência da TV Câmara, neste momento, no meu Estado, esteja alcançando índices enormes, picos de audiência.\r\n\tEsta é a Casa da composição, é a Casa da política. Quisera eu poder definir particularmente qual seria a alíquota da CFEM para atender ao meu Estado. Com certeza, eu iria me balizar naquilo que é feito no mundo, tomando como referência o país que tem percentual de alíquota mais alto, que chega a 14%. \r\n\tPorém, esta é a Casa do acordo. Quero pronunciar algumas palavras pelo PMDB. Nós vamos acompanhar a proposta apresentada pelo Presidente Rodrigo Maia, desde que o Democratas retire a proposta de 3% que está sendo apresentada aqui por meio de destaque. \r\n\tÉ evidente que nós vamos fazer isso para chegarmos ao tamanho possível, a fim de que possamos votar imediatamente e definir a questão de uma vez por todas na sessão de hoje. \r\n\tEu fui criado em um lugar em que eu ouvia desde criança o chavão de que o nosso Estado era um Estado rico de um povo pobre. E por quê? Fomos profundamente injustiçados não só por conta de uma alíquota baixa diante do potencial do Estado, que é exatamente o potencial minerário, mas também por conta da famigerada Lei Kandir, que tirou do Pará a capacidade de tributar o seu principal imposto, que é o ICMS. Isso foi internalizado às mineradoras! Isso não foi compensado ao Estado do Pará!\r\n\tPortanto, está-se fazendo justiça aos Estados mineradores, ao Estado do Pará, ao Estado de Minas Gerais, aos Municípios mineradores. (Palmas nas galerias.) \r\n\tNós não podemos perder a oportunidade de votar na sessão de hoje esta matéria!\r\n\tPortanto, o PMDB acompanha o Relator, acompanha o acordo que foi definido na última reunião de 15% para os Municípios atingidos - uma luta da Deputada Soraya Santos, dos Deputados do nosso partido, do Deputado Hildo Rocha e de todos os que defenderam isso - e acompanha o acordo relativo à defesa feita pela Deputada Laura Carneiro, de estipular 1% na questão do ouro. \r\n\tVamos de uma vez por todas virar essa página, fazendo justiça aos Estados mineradores, com a novidade de atender aos Estados alcançados pela mineração, Municípios do Maranhão, do Espírito Santo, do Rio de Janeiro e de Minas Gerais.\r\n\tVamos ao voto. O PMDB encaminha pelo acordo, votando nesta noite e definindo os royalties da mineração."
+  }, {
+    "dataHoraInicio" : "2018-05-16T15:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/51605",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F5%2F2018&txPagina=134&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "PLP 137/2015, PROJETO DE LEI COMPLEMENTAR, CRIAÇÃO, INCORPORAÇÃO, FUSÃO, DESMEMBRAMENTO, MUNICÍPIO.",
+    "sumario" : "Saudações aos manifestantes presentes nas galerias do plenário para acompanhamento da votação da proposta de criação de novos Municípios no País. Apelo aos partidos oposicionistas de suspensão da obstrução das votações.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (PMDB-PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, em primeiro lugar, quero cumprimentar todas a delegações que vieram acompanhar a sessão. Esta Casa se engrandece com a participação das galerias cheias, lotadas de observadores. Cumprimento todos das delegações do Pará, como de Moraes de Almeida, de Castelo dos Sonhos, dos distritos de Belém Icoaraci e Mosqueiro, e de Casa de Tábua, no sul do Estado. \r\n\tQuero fazer um apelo à Oposição, que já marcou sua posição ontem. Ficamos até 2 horas da manhã aqui, e a sessão foi obstruída. Na verdade, hoje, se permanecermos nesse compasso, só uma turma estará prejudicada: a daqueles que vieram de tão longe acompanhar a sessão. Uma hora nós vamos votar neste plenário. \r\nSr. Presidente, que fique bem claro que, se a Oposição está obstruindo, na realidade ela está obstruindo a vida das pessoas que vieram de tão longe, antes de mais nada."
+  }, {
+    "dataHoraInicio" : "2019-09-25T15:52",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F9%2F2019&txPagina=97&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "CONGRATULAÇÃO, VINICIUS CARVALHO, DEPUTADO FEDERAL, RELATOR, MEMBRO, COMISSÃO ESPECIAL, PL 1645/2019, PROJETO DE LEI ORDINÁRIA, REFORMA PREVIDENCIÁRIA (2019), MILITAR.\r\nDATA, APRESENTAÇÃO, RELATÓRIO, PL 1645/2019, PROJETO DE LEI ORDINÁRIA, REFORMA PREVIDENCIÁRIA (2019), MILITAR.",
+    "sumario" : "Elogio ao Deputado Vinicius Carvalho pela atuação no cargo de Relator do Projeto de Lei nº 1.645, de 2019, do Poder Executivo, sobre alteração das Leis de nºs 6.880, de 1980, acerca do Estatuto dos Militares; 3.765, de 1960, relativa às pensões militares; 4.375, de 1964, referente ao serviço militar; 5.821, de 1972, sobre as promoções dos Oficiais da ativa das Forças Armadas brasileiras, e 12.705, de 2012, concernente aos requisitos para ingresso nos cursos de formação de militares de carreira do Exército brasileiro (Reformulação do sistema previdenciário dos militares). Congratulações aos membros da Comissão Especial destinada ao exame da proposição, pelo atendimento ao pleito da Polícia Militar e do Corpo de Bombeiros Militar. Convocação pelo órgão de reunião para apresentação do parecer/substitutivo oferecido à matéria.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (Bloco/MDB - PA. Sem revisão do orador.) - Muito obrigado, Deputado Vinicius.\r\nEu quero fazer apenas um registro neste momento parabenizando V.Exa. pelo grande trabalho que tem feito à frente da Relatoria dessa matéria que versa sobre o sistema de proteção social dos militares das Forças Armadas. Mais do que isso, parabenizo V.Exa. e a nossa Comissão pela sensibilidade política de atender o apelo das Polícias Militares do Brasil e dos Corpos de Bombeiros, para que nós pudéssemos, nessa matéria, sem prejuízo, evidentemente, aos militares das Forças Armadas, atender aquilo que tem o condão de retratar o dispositivo constitucional que versa que as Polícias Militares são forças auxiliares das Forças Armadas.\r\nEntão, quero parabenizá-lo antecipadamente e dizer que já convoquei a reunião para apresentação do seu relatório, ou substitutivo, para o dia 2 de outubro, a próxima quarta-feira, quando, com certeza, haverão de ser revelados todos os detalhes, todas as nuances desse trabalho que vem sendo feito já há algum tempo. Portanto, parabenizo V.Exa. e todos os membros da Comissão. Estaremos atentos para que nós possamos, o mais rápido possível, entregar ao Senado essa matéria, tendo em vista que a Comissão tem caráter terminativo, por estar a matéria tramitando em regime prioritário. \r\nParabéns, Deputado Vinicius!"
+  }, {
+    "dataHoraInicio" : "2022-05-25T22:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F5%2F2022&txPagina=188&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "ORIENTAÇÃO DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTAÇÃO EM SEPARADO, EMENDA DE PLENARIO, PLP 211/2021, PROJETO DE LEI COMPLEMENTAR, MOVIMENTO DEMOCRÁTICO BRASILEIRO (MDB), VOTO FAVORÁVEL.",
+    "sumario" : "Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 13, apresentada ao Projeto de Lei Complementar nº 211, de 2021, sobre o estabelecimento de limites de tributação de bens essenciais, especialmente de energia elétrica, petróleo, telecomunicações e gás natural.",
+    "transcricao" : "O SR. JOSÉ PRIANTE (MDB - PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, este dispositivo verdadeiramente homenageia aqueles que não fizeram o dever de casa e pune aqueles que conseguiram fazê-lo. É algo profundamente injusto, é algo restritivo, porque joga na vala dezenas de Estados da Federação. E o MDB tenta, através de uma redação, colocar no eixo, no leito, aqueles Estados que possam ter efetivamente um caminho para alcançar minimamente o equilíbrio, se assim podemos chamar, com este dispositivo.\r\nPortanto, o MDB pede aos pares, aos partidos e a todos aqueles que têm nos seus Estados, em suas pátrias, o exemplo do meu Estado do Pará, que votem \"sim\" a esta emenda apresentada."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/74079/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/74079/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/74079/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

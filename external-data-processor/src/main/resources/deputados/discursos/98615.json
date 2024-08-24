@@ -1,0 +1,461 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2015-11-03T12:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/42004",
+    "faseEvento" : {
+      "titulo" : "Comissão Geral",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "COMISSÃO GERAL",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F11%2F2015&txPagina=34&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "COMISSÃO GERAL, DEBATE, POLÍTICA PÚBLICA, JUVENTUDE.",
+    "sumario" : "Comissão Geral para debate do tema Políticas Públicas para a Juventude.",
+    "transcricao" : "O SR. ISMAEL SOUZA JÚNIOR - Cumprimento todos. Boa tarde, Deputada Mariana Carvalho, Deputado Domingos Neto, que já não se encontra mais no recinto, Deputado Felipe Bornier e outros. Boa tarde, juventude do nosso País.\r\n\tÉ triste a situação do jovem no País. Nunca antes aqui se clamou por mudanças. Nunca antes se ansiou tanto para que o jovem estivesse participando, para que as situações degradantes que fogem à ética e à moral, dentro da sociedade e, acima de tudo, no Parlamento, fossem mudadas. Mas, para que isso aconteça, é necessário educação. É necessário que o jovem tenha insumo e conhecimento, para debater e agir frente aos movimentos antiéticos com os quais nos deparamos na sociedade hoje. É vergonhoso tratar o jovem como um ser à parte da sociedade, um ser marginalizado e esquecido.\r\n\tColoco-me aqui muito além da Juventude do PSDB. Coloco-me aqui como jovem, um jovem que se sente negligenciado por parte do Estado. O Estado não tem a preocupação de me capacitar, de capacitar o jovem para atuar na política. Nós somos o futuro desta Nação e necessitamos ter conhecimento para um dia ocupar o Parlamento. É vergonhoso até hoje não haver o ensino de ciências políticas dentro das escolas. É vergonhoso ver, no ensino fundamental, uma criança falar que tem vergonha dos Parlamentares que hoje se encontram aqui nesta Casa - aqui não, perdão; aqui, eu acredito que todos têm boa índole. É vergonhoso um jovem falar que não quer saber de política porque ela está num ambiente sujo. Eu acredito numa política em que existam pessoas de caráter, de moral. Essas pessoas estão sentadas à frente de milhares de televisores, alimentando-se de lixo hoje, porque nossas escolas não fornecem insumo para que possam debater a política criticamente. \r\n\tHá outro ponto a levantar. É de grande interesse social que nós trabalhemos as políticas sociais de inserção do jovem, como é o caso do Fundo de Financiamento Estudantil. Mas não podemos negligenciar os fatores críticos e morais. Hoje, o jovem negro tem 2,5 vezes a mais de chance de ser morto do que o jovem branco. Isso é inaceitável numa sociedade em que se prega que homens e mulheres são iguais perante a lei.\r\n\tA Constituição, que deveria ser a Carta Magna de uma sociedade e, por fim, ser cumprida, hoje é ignorada. Falar em FIES é uma ótima política, sim. Vamos ofertar estudo para os jovens. Tudo bem, mas é o resto? Hoje o FIES, salvo engano, encontra-se com recursos limitados, com verba restrita. Como se quer que um jovem tenha um futuro se se restringe a educação? E, acima de tudo, restringe-se no seu processo inicial de formação, ou seja, no ensino fundamental, no ensino médio, a um conhecimento político crítico. Hoje, o jovem não encontra emprego. Hoje, o jovem se sente à margem. A verdade é que o Estado não tem políticas para os jovens.\r\n\tTanto se fala em mudanças. Tanto se fala em Brasil livre, em Brasil fora de corrupção, mas o que vemos é um Estado que não fornece insumo para jovens. O jovem está desempregado. O jovem não tem educação. O jovem está cada vez mais adentrando a marginalidade, o mundo do crime.\r\n\tIsso é o que eu não gostaria de ver com a minha juventude. As pessoas que me representam dentro deste País são V.Exas., Srs. Parlamentares. E eu clamo no sentido de que criem políticas para evitar que jovens adentrem o mundo do crime. \r\n\tHoje, os negros são os que mais morrem. Hoje, os negros são aqueles que mais estão participando do crime. Isso só pode ser corrigido com uma educação básica de qualidade, com uma educação que pode capacitar, transformar e preparar o jovem para assumir o mercado de trabalho.\r\n\tEu sou o futuro! Nós somos o futuro! Mas nós temos que pensar no presente, em fazer políticas para o presente e, acima de tudo, pensar na política, pois daqui sairá a mudança do mundo.\r\n\tEu acredito, sim, que é possível mudar o mundo. Apenas mudem a nossa educação, mudem o nosso sistema legislativo, para que venha atender ao jovem que hoje se encontra negligenciado.\r\n\tObrigado, Srs. Parlamentares. (Palmas.)\r\n\tA SRA. PRESIDENTA (Deputada Mariana Carvalho) - Obrigada."
+  }, {
+    "dataHoraInicio" : "2017-02-06T10:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Homenagem",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "HOMENAGEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2017&txPagina=5&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : null,
+    "sumario" : "Sessão solene em homenagem aos Cinquenta Anos da Igreja Metodista Wesleyana.\r\nAs notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.",
+    "transcricao" : "Ata da 1ª (primeira) Sessão da Câmara dos Deputados, Não Deliberativa Solene, matutina, da 3ª Sessão Legislativa Ordinária, da 55ª Legislatura, em 06 de fevereiro de 2017. Às 10h36, o Sr. George Hilton, no exercício da Presidência, nos termos do § 2º do artigo 18 do Regimento Interno, declarou aberta a sessão e deu por dispensada a leitura da ata da sessão anterior. O Sr. Presidente informou que a sessão destinou-se à Homenagem aos Cinquenta Anos da Igreja Metodista Wesleyana; prestou as devidas homenagens; e convidou para compor a Mesa os Srs. Bispo Elisiário Alves dos Santos, Presidente da Igreja Wesleyana de Belo Horizonte - MG; Carlos Fernandes, Pastor da Igreja Wesleyana de Belo Horizonte - MG; Angelo Ismael, Pastor da Igreja Wesleyana de Sto. Antônio do Descoberto - GO; e William Ribeiro, Pastor da Igreja Wesleyana de Taguatinga - DF. O Sr. Presidente convidou todos a ouvir o Hino Nacional. Após a exibição do vídeo institucional, o Sr. Presidente proferiu discurso do Sr. Rodrigo Maia, Presidente da Câmara dos Deputados. Assumiu a Presidência, nos termos do § 2º do artigo 18 do Regimento Interno, o Sr. Hildo Rocha e concedeu a palavra ao Sr. George Hilton, autor do requerimento. Reassumiu a Presidência o Sr. George Hilton e concedeu a palavra ao Sr. Angelo Ismael, componente da Mesa. Após a apresentação de Luciana Gizele dos Santos Gomes e Dhionata da Conceição Oliveira, acompanhadas por Marlon Henrique Castro Silva, no sax, e Pr. Jefferson Rodrigues Silva, ao violão, interpretando a música \"Quão grande é o meu Deus\", o Sr. Presidente concedeu a palavra ao Sr. Elisiário Alves dos Santos, componente da Mesa. Após a apresentação de Luciana Gizele dos Santos Gomes e Dhionata da Conceição Oliveira, acompanhadas por Marlon Henrique Castro Silva, no sax, e Pr. Jefferson Rodrigues Silva, ao violão, interpretando as músicas \"Grande é o Senhor\" e \"Por tudo que tens feito\", o Sr. Presidente entregou ao Sr. Elisiário Alves dos Santos placa em homenagem à Igreja Metodista Wesleyana, pelo seu Jubileu de Ouro. O Sr. Presidente registrou a presença de convidados, reiterou as homenagens prestadas, agradeceu a presença de todos e, às 11h33, encerrou a sessão.\r\n\r\n\r\n\t\t\t\t\tCarlos Manato\r\nPresidente\r\n\r\nGonzaga Patriota\r\nSecretário\r\n\r\nAs notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ."
+  }, {
+    "dataHoraInicio" : "2017-11-10T15:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/50146",
+    "faseEvento" : {
+      "titulo" : "Homenagem",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "HOMENAGEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F11%2F2017&txPagina=132&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : null,
+    "sumario" : "Sessão solene em homenagem aos Trinta Anos do Sindicato dos Servidores Públicos Federais do Distrito Federal - SINDSEP-DF.\r\nAs notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.",
+    "transcricao" : "Ata da 344ª (tricentésima quadragésima quarta) Sessão da Câmara dos Deputados, Não Deliberativa Solene, vespertina, da 3ª Sessão Legislativa Ordinária, da 55ª Legislatura, em 10 de novembro de 2017. Às 15h35, a Sra. Erika Kokay, no exercício da Presidência, nos termos do § 2º do artigo 18 do Regimento Interno, declarou aberta a sessão e deu por dispensada a leitura da ata da sessão anterior. O Sr. Presidente informou que a sessão se destinou à homenagem os Trinta Anos do Sindicato dos Servidores Públicos Federais do Distrito Federal - SINDSEP-DF; prestou as devidas homenagens; e convidou para compor a Mesa os Srs. Oton Pereira Neves, Secretário-Geral do Sindicato dos Servidores Públicos Federais do Distrito Federal - SINDSEP-DF; Rodrigo Brito, Presidente da Central Única dos Trabalhadores - CUT-DF; Sérgio Ronaldo, Secretário-Geral da Confederação dos Trabalhadores no Serviço Público Federal - CONDSEF - e Federação Nacional dos Trabalhadores no Serviço Público Federal - FENADSEF; Ismael José César, Diretor da CUT Nacional e Ex-Secretário-Geral do SINDSEP-DF; e Jaci Afonso, fundador do SINDSEP-DF. A Sra. Presidente convidou todos a ouvir o Hino Nacional. Após a exibição do vídeo institucional, a Sra. Presidente, autora do requerimento, deu como lido discurso do Sr. Rodrigo Maia, Presidente da Câmara dos Deputados, e fez pronunciamento de sua autoria. A Sra. Presidente concedeu a palavra aos Srs. Jaci Afonso, Ismael José César, Sérgio Ronaldo, Rodrigo Brito e Oton Pereira Neves, componentes da Mesa. Usou ainda da palavra o Sr. Ulisses Borges de Resende, Advogado do SINDSEP-DF. A Sra. Presidente registrou a presença de convidados, reiterou as homenagens prestadas, agradeceu a presença de todos e, às 16h52, encerrou a sessão.\r\n\r\nIzalci Lucas\r\nPresidente\r\n\r\nJoaquim Passarinho\r\nSecretário\r\nAs notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ."
+  }, {
+    "dataHoraInicio" : "2021-08-10T10:52",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Comissão Geral",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "COMISSÃO GERAL",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=19&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "COMISSÃO GERAL, SAÚDE PÚBLICA, BRASIL, SISTEMA ÚNICO DE SAÚDE (SUS), PANDEMIA, CORONAVÍRUS, FINANCIAMENTO PÚBLICO, VACINAÇÃO, DESNUTRIÇÃO, CRIANÇA, CIRURGIA ELETIVA, MORTALIDADE INFANTIL, DOENÇA DO SISTEMA CIRCULATÓRIO, CÂNCER, ATENÇÃO PRIMÁRIA À SAÚDE, PRONTUÁRIO ELETRÔNICO DO PACIENTE, LEITO DE UNIDADE DE TRATAMENTO INTENSIVO _ UTI, ORÇAMENTO PÚBLICO, SECRETÁRIO ESTADUAL.",
+    "sumario" : "Debate da situação da saúde no Brasil.",
+    "transcricao" : "O SR. ISMAEL ALEXANDRINO JÚNIOR - Cumprimento o Presidente desta sessão. Agradeço as palavras gentis do Deputado Glaustin Fokus, do Estado de Goiás. Cumprimento todos os meus colegas que estão presentes nesta reunião. Cumprimento os meus colegas Secretários do Conselho Nacional de Secretarias de Estado da Saúde, o qual estou representando neste momento, como Vice-Presidente, bem como o Presidente do Conselho Nacional de Secretarias Municipais de Saúde, Wilames Freire.\r\nPrimeiro ponto. Eu gostaria de ressaltar a importância que esta pandemia escancarou e o gigantismo do nosso Sistema Único de Saúde. O SUS, costumo dizer, é a conquista democrática estruturada maior que nós tivemos nos últimos 35 anos. Ficou muito clara a dependência do Brasil do Sistema Único de Saúde durante a pandemia.\r\nAgora, para cumprir os seus princípios da equidade, da universalidade e da integralidade, nós precisamos de alguns pilares. Um deles é a questão do desfinanciamento, que já foi mencionada por alguns colegas. Nós temos, em várias frentes, tabelas de 2006 e tabelas de 2010 que simplesmente não fecham a conta.\r\nE não se resume somente a isso. Nós precisamos adotar medidas que são conjunturais e medidas que são estruturais. Medidas conjunturais neste momento, naquilo que a pandemia agravou, e, em relação a ela, temos que avançar na questão da vacinação, que é uma medida civilizatória. Ela determina e mostra o grau de civilização de um país.\r\nSó que a pandemia também agravou alguns problemas crônicos que nós já tínhamos e que foram agudizados, como, por exemplo, o acúmulo das cirurgias eletivas, e a desassistência, muitas vezes nutricional, de crianças que estão em estado de vulnerabilidade, que poderá impactar a mortalidade infantil.\r\nAlgo que muito me preocupa do ponto de vista estruturante é que nossa população está envelhecendo e as doenças oncológicas e cardiovasculares, nos próximos 30, 50 anos, serão a principal causa de mortalidade e nós não temos estruturas para tratamento adequado de doenças oncológicas e de doenças cardiovasculares a contento nessa estrutura.\r\nReforço a importância da atenção primária como ordenadora do cuidado do Sistema Único de Saúde como base estruturante, atenção primária que seja resolutiva, uma atenção primária que tenha conexão com uma atenção secundária que faça o diagnóstico e que tenha especialidades que sejam resolutivas, para que o paciente não possa chegar simplesmente à atenção terciária, que é magra, mas que é cara, já descompensado e muitas vezes fora de possibilidade terapêutica.\r\nEntão, nós precisamos, mais do que nunca, estruturar essa rede, esse tripé de atenção primária, secundária e terciária. Precisamos entender a importância da discussão tripartite do SUS, Municípios, Estados, Ministério da Saúde, e de não somente uma frente dessas. Precisamos de dados fidedignos dos sistemas de vigilância e de dados integrados dos sistemas de prontuário eletrônico, seja do privado, seja do público, seja do filantrópico. Sem dados é impossível fazer gestão e sem gestão é impossível cumprirmos os princípios do SUS de equidade, integralidade e de universalidade.\r\nEntão, aqui eu chamo a atenção, para este momento, para aquilo que eu já falei ser estrutural para o momento, conjuntural: a necessidade de mantermos aquela estrutura terciária que se expandiu, de unidades de terapia intensiva durante a pandemia, para mais de 10 mil leitos no Brasil e que esses leitos sejam mantidos. Precisamos, nobres Deputados que se fazem presentes nesta Casa, de financiamento para esses leitos, não só de medida provisória, mas que ele seja integralizado a um orçamento estruturado em 2022. E aqui eu trago este sentimento dos Secretários de Estado e dos Secretários Municipais. Sem financiamento é impossível, mas que o façamos de forma estruturada, de forma integrada e respeitando sobretudo os pilares do SUS.\r\nEu agradeço pela oportunidade de representar todos os Secretários de Estado do Brasil e me coloco à disposição do Brasil para discutir o nosso gigante Sistema Único de Saúde.\r\nMuito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-02-03T12:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F2%2F2023&txPagina=46&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Conselho Nacional de Saúde (CNS),extinção,Comunidade terapêutica,contrário\r\nEmenda,Medida provisória,Alcoolismo,Reinserção social,Dependente químico",
+    "sumario" : "Contrariedade à extinção de comunidades terapêuticas. Apresentação, à Medida Provisória nº 1.154, de 2023, de emendas a respeito da reinserção social de dependentes químicos e da Política de Redução da Demanda por Álcool e outras drogas.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Deputada que dirige os trabalhos da Casa, parabéns pela condução! Sra. Deputada, Srs. Deputados, pedi a palavra apenas para registrar uma nota de repúdio. Eu acabo de receber do Conselho Nacional de Saúde, encaminhada ao Ministério do Desenvolvimento Social e da Família, uma proposta de abolição das comunidades terapêuticas no Brasil, comunidades que por mais de meio século vêm fazendo um trabalho extraordinário de acolhimento aos dependentes químicos. Por isso, Sra. Presidente, esta manhã protocolei nesta Casa duas emendas propositivas. Uma diz respeito à Política Nacional de Redução da Demanda por Álcool e outras drogas, extra-hospitalar. A segunda diz respeito à reinserção social de dependentes químicos neste País. Não é possível que, em um país que tem o flagelo de mais de 20 milhões de dependentes químicos em drogas pesadas, nós tenhamos por parte do Conselho Nacional de Saúde um manifesto contrário a essas comunidades, que fazem um trabalho fantástico neste País. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-02-07T20:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F2%2F2023&txPagina=136&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "agradecimento,Eleições,Eleitor,Santa Catarina,Deputado federal,Mandato parlamentar,Blumenau (SC),Atuação parlamentar,Tratamento de saúde,Dependente químico,Entorpecente,reabilitação,Política pública,Saúde pública",
+    "sumario" : "Agradecimento a familiares e ao eleitorado catarinense pela eleição do orador. Compromisso de atuação em prol das áreas de saúde, educação e segurança pública. Defesa da liberdade de expressão. Sucesso do Programa Reviver destinado ao acolhimento e recuperação de dependentes químicos no Estado de Santa Catarina.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, é a primeira vez que chego a esta tribuna, depois de 12 anos como Vereador na cidade de Blumenau e 12 anos como Deputado Estadual no Estado de Santa Catarina. Venho da cidade de Blumenau. E vejo a Deputada Ana Paula Lima no plenário, que também representa Santa Catarina. Srs. Deputados, Sras. Deputadas, é uma satisfação poder agradecer, porque agradecer faz bem ao coração. Agradeço a Deus a oportunidade de chegar a este Parlamento. Agradeço à família. Agradeço aos 110.531 eleitores de Santa Catarina que me trouxeram até aqui. Santa Catarina é um Estado pequeno, é verdade, em relação a tantos outros Estados da Federação. Somos apenas 1% do território do Brasil, mas, Deputada Ana Paula, representamos a sexta economia deste País. E é preciso que o velho refrão se faça valer: menos Brasília e mais Brasil. Nós estamos aqui para ser voz, para ser ação, para pautar a nossa caminhada com as grandes temáticas que envolvem o País, como saúde, educação, segurança pública, liberdade de expressão. Há algo a que nos dedicamos muito nos últimos 12 anos, que é a questão da drogadição no Estado de Santa Catarina, e agora queremos fazer isso em relação ao Brasil. Nós tivemos a oportunidade, há cerca de 7 anos, de elaborar um projeto, o REVIVER, para acolher dependentes químicos no Estado de Santa Catarina, e tem sido um sucesso, uma referência para o Brasil. Hoje nós temos mais de 820 vagas subsidiadas pelo Governo do Estado. Nesses 7 anos, acolhemos 25 mil pessoas. Segundo pesquisas da própria FAPESC  Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina, temos conseguido índice de reabilitação de até 53%. E é nessa perspectiva que nós queremos avançar, não só no Estado de Santa Catarina, mas em todo o Brasil, por um país sem drogas. Obrigado, Sr. Presidente, pelo espaço. Srs. Deputados e Sras. Deputadas, aqui estaremos, fazendo mais e melhor por Santa Catarina."
+  }, {
+    "dataHoraInicio" : "2023-02-15T14:40",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F2%2F2023&txPagina=143&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Economia,Crescimento econômico,Justiça social,Liberdade de expressão,Garantias individuais\r\nSanta Catarina,Crescimento econômico,Economia\r\nHospital,Blumenau (SC),centenário,Aniversário de fundação,Homenagem",
+    "sumario" : "Necessidade de promoção de eficiência econômica com justiça social e garantia das liberdades individuais. Transcurso do centenário de fundação do Hospital Misericórdia, localizado no Município de Blumenau, Estado de Santa Catarina. Homenagem ao presidente da instituição, Hellmuth Danker.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Pela ordem. Sem revisão do orador.) - Boa tarde, Sr. Presidente, Sras. e Srs. Deputados que ainda comparecem a esta sessão. Esta é a minha segunda oportunidade de estar nesta tribuna. Ao ouvir os debates, Deputado Zé Trovão, nós, é claro, sempre pensamos no Brasil que temos e no Brasil que queremos. Eu quero aqui citar um político britânico conhecido, economista, John Keynes, macroeconômico, que dizia que a eficiência de um país depende de três pilares: eficiência econômica, justiça social e liberdades individuais. Deputado Silas Câmara, com quem tenho uma antiga amizade, é disso o que o Brasil precisa. O Brasil precisa urgentemente de eficiência econômica. E eu quero citar aqui o nosso pequeno Estado de Santa Catarina, 1% do território do País, mas somos a sexta economia em exportação, graças a sua mão de obra. Espero que esse modelo se reproduza Brasil afora. Precisamos de justiça social, diminuindo a distância entre os mais ricos e os menos favorecidos, mas precisamos, acima de tudo, de garantia das nossas liberdades individuais, sem isso não conseguiremos prosperar. E falo de liberdades individuais  quer na perspectiva das redes sociais, quer na perspectiva, Pastor Silas, do culto, da religião, das ideias, do contraditório , porque é isso o que fará de nós uma nação moderna, forte e justa. Sr. Presidente, eu concluo fazendo uma homenagem ao Hospital Misericórdia, em Vila Itoupava, na minha cidade natal, em Blumenau. No dia 22, completa seu centenário. São 100 anos de atendimento à população especial da periferia da cidade de Blumenau. Homenageio também um dos seus fundadores, o Sr. Hellmuth, que, com 96 anos, continua à frente do hospital como Presidente. Há 57 anos ele é o Presidente do Hospital Misericórdia, que completa o seu centenário. Meus parabéns aos médicos, aos funcionários e a toda a comunidade que faz do Hospital Misericórdia algo de orgulho para todos nós catarinenses! Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-03-01T20:40",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F3%2F2023&txPagina=153&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Projeto de lei ordinária,Lei de Isenção do IPI para Compra de Automóveis,Pessoa com deficiência,Conselho Nacional de Política Fazendária (CONFAZ),aumento,isenção",
+    "sumario" : "Apelo aos Secretários Estaduais de Fazenda de aumento do teto de isenção do ICMS na aquisição de automóveis por pessoas com deficiência.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente Deputado Pompeo. Srs. Deputados e Sras. Deputadas que ainda estão na Casa e aqueles que nos acompanham pelas redes sociais e pela TV Câmara, o Brasil está hoje com 45 milhões de deficientes físicos, os quais, segundo o IBGE, representam 23,92% da população. Em Santa Catarina, onde tive a oportunidade de exercer três mandatos como Deputado Estadual, travamos uma grande guerra com a Secretaria da Fazenda  e eu sei que isso está se repetindo e se reproduzindo em vários Estados do Brasil  sobre a questão da isenção do ICMS na aquisição de veículos para PCD. Aqui nesta Casa foi aprovado  e eu quero inclusive parabenizar o Deputado Ricardo Silva, que trouxe esse assunto à tona  o teto de 200 mil reais para isenção do IPI. Mas o que está acontecendo? Por exemplo, Santa Catarina limitou o teto em 70 mil reais para isenção do ICMS. Ora, com 70 mil reais você não compra um veículo para um cadeirante. Você precisa de no mínimo 120 mil, 130 mil, 150 mil reais. Por que eu estou trazendo esse assunto à tona, Presidente? Porque no próximo dia 31 de março vai acontecer a reunião do CONFAZ  Conselho Nacional de Política Fazendária, o conselho dos Secretários de Fazenda. Eu faço um apelo para que, efetivamente, haja essa liberação nos Estados, haja essa isenção do ICMS e que se faça um padrão para o País, a fim de que haja o mínimo de condições de justiça e de dignidade a esses nossos irmãos brasileiros que precisam, que dependem desses veículos  na sua maioria são cadeirantes  e que estão, infelizmente, limitados por decisões monocráticas de Secretários de Fazenda. Então, aqui fica esse meu apelo aos Secretários de Fazenda, que vão se reunir no próximo dia 31 de março, para que vejam com carinho o aumento desse teto de isenção do ICMS de 70 mil reais para no mínimo 150 mil reais. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-03-16T09:08",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F3%2F2023&txPagina=26&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Aniversário de fundação,Igreja evangélica,Assembleia de Deus,Santa Catarina,Homenagem",
+    "sumario" : "Transcurso do 92º aniversário de fundação da Igreja Evangélica Assembleia de Deus no Estado de Santa Catarina. Homenagem à memória do Pastor André Bernardino da Silva.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Obrigado, Sr. Presidente. Queria apenas registrar que, ontem, dia 15 de março, foi uma data importante para nós \"assembleianos\", quando comemoramos os 92 anos da igreja evangélica Assembleia de Deus em Santa Catarina. Eu quero fazer uma homenagem toda especial ao pioneiro André Bernardino. Em nome dos 300 mil membros da Assembleia de Deus em Santa Catarina, quero parabenizar a igreja por essa trajetória vitoriosa de 92 anos. Obrigado. (Palmas.)"
+  }, {
+    "dataHoraInicio" : "2023-03-22T15:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F3%2F2023&txPagina=60&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Maçã,Produtor agrícola,Comércio exterior,China,Mercado internacional,abertura,Crítica",
+    "sumario" : "Contrariedade à abertura do mercado brasileiro às exportações chinesas de maçã. Encontro do orador com o Ministro da Agricultura e Pecuária, Carlos Fávaro, para debate de medidas protetivas do setor macieiro nacional.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Presidente Gilberto, Srs. Deputados, Sras. Deputadas, é notável que eu tenho em mão uma maçã. Mas essa não é uma maçã qualquer, Deputada Ana Paula. Essa é uma maçã brasileira, essa é uma maçã de Santa Catarina, essa é uma maçã de São Joaquim, a Capital Nacional da Maçã, essa é uma maçã gala. Reunidos com a Associação dos Produtores de Maçã, descobrimos que no Brasil hoje os produtores têm mais de 32 mil hectares. São 200 mil brasileiros ligados diariamente à plantação de maçã. Nós produzimos 1 tonelada de maçãs e somos o 11º produtor de maçã do mundo. Mas, Sr. Presidente, acendeu-se uma luz amarela. Na próxima semana, o Presidente Lula vai à China. E qual é o desafio? A China tem 49% do mercado de maçã, isto é, de cada duas maçãs produzidas no mundo, uma é chinesa. E qual é o desafio para a produção brasileira? Primeiro, há uma questão de saúde pública. A EMBRAPA diz que a maçã chinesa traz associadas consigo 357 pragas  eu vou repetir, 357 pragas. E, mais do que isso, se o mercado brasileiro for aberto para essa potência da produção chinesa, isso vai acabar com o setor macieiro do Brasil, de Santa Catarina, Deputado Zé Trovão, Deputada Ana Paula. Nós não podemos permitir isso. Eu estive com os técnicos do Ministério da Fazenda, que levantaram esses dados. E, na próxima sexta-feira, eu terei uma audiência com o Ministro da Agricultura, que deve fazer parte da comitiva do Presidente Lula à China, exatamente para que evitemos esse desastre, porque, se abrirmos o mercado para a produção da China no Brasil, nós vamos acabar com o setor macieiro no País, em especial na nossa querida Santa Catarina. Por isso, Sr. Presidente, Srs. Deputados, fica aqui o nosso apelo para que haja bom senso por parte dessa comitiva que vai à China. Não podemos abrir esse mercado, sob pena de acabarmos com o setor de maçã no País. Não é uma questão de protecionismo, é uma questão de sobrevivência de 200 mil empregos no Brasil. Muito obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-04-11T20:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F4%2F2023&txPagina=156&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Atentado,Escola,Homicídio,Criança,Blumenau (SC),Violência",
+    "sumario" : "Indignação com o assassinato de crianças no Centro de Educação Infantil - CEI Cantinho do Bom Pastor, no Município de Blumenau, Estado de Santa Catarina. Insuficiência dos recursos federais destinados ao enfrentamento à violência nas escolas brasileiras. Necessidade da adoção de ações rápidas, enérgicas e estratégicas para retomada da paz no ambiente escolar.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, eis a bandeira de Santa Catarina. (Exibe bandeira.) Literalmente, estamos, de forma oficial, em luto por 30 dias. Aqui nesta Casa, já foram feitos alguns pronunciamentos, mas eu preciso, como blumenauense que sou, nascido em Blumenau, chorar com os que choram pelo ato de violência cometido na última quarta-feira. Deputado Cobalchini, eu cheguei ao local, ao CEI Bom Pastor, 40 minutos depois. Abracei as famílias. No dia seguinte, estive no velório das quatro crianças. A cidade e o Estado estão profundamente feridos, e certamente levará muito tempo para essa ferida cicatrizar. Tudo em decorrência de um criminoso cruel, impiedoso, que tirou a vida de quatro crianças. Pasmem os senhores, a informação que tenho é que esse monstro passou a noite toda cheirando cocaína, cheirando cocaína. E ainda há quem, neste plenário, defenda a liberação das drogas. E aí, em 30 segundos, pula o muro da creche e, em 30 segundos, destrói a vida de quatro crianças, ou melhor, de quatro famílias. Nós não podemos nos acostumar com esse horror. Isso não pode ser normalizado. É preciso uma reação enérgica da sociedade brasileira. Amanhã, estará aqui nesta Casa  falo como membro titular da Comissão de Educação  o Sr. Ministro da Educação. Aliás, deveria ter estado em Blumenau para levar solidariedade àquelas famílias. E nós vamos cobrar isso amanhã do Sr. Ministro. É ridículo dizer que o Governo Federal levantou 150 milhões de reais para um ato de enfrentamento dessa questão. Isso é ridículo! Isso é inadmissível! O que precisamos é de ações rápidas, enérgicas e estratégicas, pois hoje, em Santa Catarina, boa parte das escolas está fechada, inclusive em Blumenau. Precisamos sim de ações que tragam paz para as famílias brasileiras e segurança para as nossas escolas. Fica aqui registrada, Sr. Presidente, Srs. Deputados, a nossa solidariedade a essas famílias e a toda a comunidade escolar do CEI Bom Pastor. Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-05-23T19:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2023&txPagina=129&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Supremo Tribunal Federal (STF),descriminalização,Entorpecente,contrário\r\nDependência química,Blumenau (SC),tratamento",
+    "sumario" : "Instituição do Centro Terapêutico Vida - CTV e do Programa Reviver destinados ao tratamento de dependentes químicos, no Município de Blumenau, Estado de Santa Catarina. Posicionamento do orador contrário à descriminação das drogas no País.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Obrigado, Sr. Presidente. Quero cumprimentar o Deputado Gilberto e, na pessoa dele, toda a Mesa Diretora. Srs. Deputados e Sras. Deputadas, há 30 anos eu venho trabalhando com dependência química no Estado de Santa Catarina. Fundamos uma comunidade, o Centro Terapêutico Vida  CTV, em Blumenau, por onde já passaram mais de 3 mil jovens. Tivemos a oportunidade  vejo aqui o Deputado Cobalchini, que foi companheiro de bancada no Parlamento catarinense  de gestar o Programa Reviver, um programa que tem hoje 800 vagas gratuitas em todo o Estado de Santa Catarina para quem quer superar a dependência química. Nesta semana, escutamos que o STF deve pautar mais uma vez a questão da descriminalização das drogas ou a liberação das drogas, como queiram dizer. Alguém pode dizer que esse é um debate ideológico. Pois bem, deixem-me, então, falar de ciência. O psiquiatra Valentim Gentil Filho, professor titular da Faculdade de Medicina da USP, afirma que, se o Brasil seguir a tendência de outros países e oficializar, por exemplo, a indústria da maconha, nós teremos, segundo ele, abre aspas, \"uma fábrica de esquizofrênicos\". Para esse psiquiatra, considerado um dos mais influentes do País, a sociedade tem sido conivente e omissa em relação às drogas e aos riscos provocados por ela. Ele comenta, por exemplo, que a maconha aumenta em 310%  eu disse 310%  o risco de esquizofrenia quando consumida uma vez por semana na adolescência. Diz ele: \"Trata-se de uma doença incurável. O esquizofrênico pode ter uma vida praticamente normal, mas sempre haverá uma sequela\". Esse psiquiatra sugeriu que, assim como pais permitem que seus filhos consumam álcool em festas, isso vai também se disseminar para a maconha em casa. Mas me deixem retomar aqui rapidamente a questão do STF. O Ministro Luís Roberto Barroso defendeu recentemente a legalização da maconha como forma de aliviar a crise do sistema penitenciário brasileiro. Segundo ele, a medida desmontaria o tráfico de drogas, e, com isso, o número de condenados diminuiria. O Ministro afirmou ainda que, se a experiência desse certo com a maconha, seria o caso de legalizar também a cocaína. São inacreditáveis a superficialidade e a rasura dessa afirmação! Legaliza-se o crime, e está tudo resolvido. O Ministro Barroso, infelizmente, não se dá conta do peso da toga nem do alcance de suas opiniões. Os últimos 20 anos têm sido caracterizados por um País que infelizmente tem alimentado ainda mais o vício em drogas. E o nosso recado hoje não é outro senão de que estamos do lado da vida. Por isso, Sr. Presidente, Sras. e Srs. Deputados, \"sim\" à vida e \"não\" às drogas. Somos contrários a essa pauta do STF. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-05-31T15:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F6%2F2023&txPagina=146&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Medida provisória,Poder Executivo,Organização administrativa,Ministério da Pesca e Aquicultura,Ministério do Meio Ambiente e Mudança do Clima,função administrativa,incompatibilidade,Crítica",
+    "sumario" : "Votação, pela Casa, da Medida Provisória nº 1.154, de 2023, sobre a organização básica dos órgãos da Presidência da República e dos Ministérios. Defesa de supressão, do corpo da proposição, de dispositivo a respeito da gestão compartilhada entre os Ministérios da Pesca e Aquicultura e do Meio Ambiente e Mudança do Clima, tendo em vista a incompatibilidade de suas funções.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Sra. Presidente. Sras. e Srs. Deputados, nós vamos votar hoje  pelo menos está na pauta  a Medida Provisória nº 1.154, de 2023. Pois bem, eu sou de Santa Catarina, o segundo Estado maior exportador de peixes do País. Eu quero iniciar esta rápida intervenção contando uma pequena notícia, lastimável, que ocorreu, nessa semana, no meu pequeno Estado de Santa Catarina. Na cidade de Porto Belo, há uma localidade chamada Araçá. Ali, infelizmente, ocorre o seguinte: vem o pescador, humilde, com seus peixes  na verdade, com 1 tonelada de tainha , e no meio foram pescados cinco peixes diferentes, como cinco cações. O que ocorre? Vai lá o IMA, o Instituto do Meio Ambiente de Santa Catarina, e aplica um multa de 600 mil reais, por causa de cinco peixes que não deveriam estar naquele barco. Por que eu faço esse preâmbulo? Para dizer que há um problema sério na MP 1.154/23. Eu trago aqui um documento do SINDIPI, o Sindicato dos Armadores e das Indústrias da Pesca de Itajaí e Região, que é o segundo maior sindicato de pesca do Brasil, com o qual eu estive em contato. O SINDIPI é da cidade de Itajaí. E qual é o problema? O problema da MP 1.154/23, que iremos vamos votar  ou um desses problemas  , é a possibilidade da gestão compartilhada entre o Ministério da Pesca e Aquicultura e o Ministério do Meio Ambiente. Essas funções são excludentes, incompatíveis. Cabe aqui ressaltar essa incompatibilidade de funções, porque, enquanto o Ministério da Pesca e Aquicultura tem a responsabilidade de formular e de normatizar a política nacional da agricultura e da pesca, além de promover o desenvolvimento sustentável da cadeia produtiva de alimentos, o Ministério do Meio Ambiente e Mudança do Clima  como hoje é denominado  se dedica à promoção da política de preservação, conservação e fiscalização ambiental. Esses são temas, de fato, distintos. Logo, essas atividades administrativas precisam ser desempenhadas de forma divorciada, cumprindo a legislação e dando autonomia ao nosso Ministério da Pesca. Eu quero aqui fazer o apelo a esta Casa que estejamos atentos a isso. Há uma confusão aqui de ações administrativas: uma do Ministério da Pesca e Aquicultura e outra do Ministério do Meio Ambiente. Não dá para termos uma gestão compartilhada. Era isso. Obrigado, Sra. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-08-01T22:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F8%2F2023&txPagina=111&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Deputado federal,Santa Catarina,Saudação",
+    "sumario" : "Manifestação de boas-vindas ao Deputado Darci de Matos.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. É uma satisfação para mim poder receber esta noite o meu amigo Deputado Darci de Matos, que foi Vereador em Joinville e foi Deputado Estadual junto comigo. Aliás, eu fui seu suplente lá em Santa Catarina. Quero agradecer ao Deputado Antonio Brito, que liderou essa estratégia juntamente com a Deputada Julia Zanatta, e agradecer ao Governador Jorginho. Deputado Darci, seja bem-vindo a esta Casa! Affonso Romano de Sant'Anna, grande poeta brasileiro, dizia que o viajante é a soma de suas viagens. Deputado Darci, é a soma de suas viagens políticas que o faz chegar, mais uma vez, à Câmara Federal, para representar a todos os catarinenses e fazer mais e melhor por Santa Catarina. Seja bem-vindo!"
+  }, {
+    "dataHoraInicio" : "2023-08-16T15:32",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F8%2F2023&txPagina=66&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Rodovia federal,Santa Catarina,precariedade",
+    "sumario" : "Apelo ao Superintendente Regional do Departamento Nacional de Infraestrutura de Transportes – DNIT do Estado de Santa Catarina por sinalização das obras de duplicação da BR-470.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Obrigado, Presidente. Hoje eu faço aqui uma tarde de protestos em relação à BR-470, em Santa Catarina. São 10 anos para tentar duplicar 74 quilômetros. Porém, não é isso que me chama a esta tribuna. O que me chama aqui, infelizmente, são as mortes por falta de sinalização, mortes que poderiam ser evitadas. Vou repetir: mortes por falta de sinalização nas obras. Há cerca de 2 semanas, foram 4 óbitos, por falta de sinalização nas obras. Eu desafio o Presidente do DNIT de Santa Catarina a me acompanhar até a BR-470. Eu moro às margens desta BR, em Blumenau. Eu o convido a ir comigo lá, principalmente à noite. Eu circulo 4 ou 5 vezes por semana naquela BR. Vamos ver se ele tem condições de transitar na BR-470. É preciso evitar essas mortes! Por esta BR, são transportados 40% da economia catarinense. São 4 mil contêineres, 120 mil veículos que trafegam ali. Sr. Presidente, eu faço este desafio ao Presidente do DNIT. Por favor, sinalizem as obras da duplicação dos 74 quilômetros entre a Navegantes e a Indaial, para que evitemos esse morticínio que está acontecendo na BR-470! Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-08-30T15:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F8%2F2023&txPagina=61&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Homenagem,Aniversário de emancipação política,Blumenau (SC)",
+    "sumario" : "O Deputado parabenizou a cidade de Blumenau, Estado de Santa Catarina, pelo transcurso dos seus 173 anos.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Obrigado, Sr. Presidente. Faço uso desta tribuna para parabenizar a cidade de Blumenau, que, no próximo sábado, completa 173 anos. Blumenau é a cidade onde nasci e onde nasceram meus filhos e meus netos. A cidade foi colonizada pelo Dr. Blumenau, que, juntamente com mais 17 imigrantes luteranos, fundou a cidade. E hoje, em cada rua, em cada morro de Blumenau, em cada curva do rio, nasce a beleza e o progresso de uma cidade que orgulha todos nós catarinenses. Por isso, parabéns, Blumenau, por seus 173 anos! Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-09-19T14:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F9%2F2023&txPagina=55&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Crítica,julgamento,Supremo Tribunal Federal (STF),descriminalização,Aborto,Defesa,Direitos humanos,Direito à vida,Saúde pública",
+    "sumario" : "O Deputado protestou contra a possibilidade do julgamento pelo Supremo Tribunal Federal de ação relativa à descriminalização do aborto. Mostrou que a Constituição e o Código Civil garantem a inviolabilidade da vida e os direitos, desde a concepção, do nascituro. Contestou argumentos em favor do aborto defendidos por ativistas e afirmou que o STF poderá promover a indústria do aborto no Brasil. Afirmou que a prática é uma questão de saúde pública e informou que cerca de 1.500 crianças são assassinadas todos os dias no ventre de suas mães no País. O orador fez um apelo em defesa da vida.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, nesta tarde, trago manchete estampada nos principais jornais do Brasil na última semana: Ministra Rosa Weber libera para julgamento ação sobre descriminalização do aborto. Eu tenho em mão nossa Constituição, que fala, de modo muito claro, sobre a inviolabilidade do direito à vida. O art. 5º desta Constituição é muito claro: o direito à vida é inviolável. É um direito constitucional. Se isso não bastasse, o art. 2° do Código Civil diz: \"A personalidade civil da pessoa começa do nascimento com vida; mas a lei põe a salvo, desde a concepção, os direitos do nascituro\". Eu quero aqui apelar para dois pressupostos nessa questão do aborto. Primeiro, o pressuposto científico. A vida humana começa no primeiro instante da fecundação. Logo, todos possuem dignidade desde a sua concepção. Mas poderíamos também apelar para o pressuposto psicológico. O aborto não é a solução para nenhum problema pessoal, mas agrava ainda mais a situação da mulher, quer no aspecto emocional, quer no aspecto físico. É claro que os ativistas do aborto dizem, em especial às mulheres: \"Meu corpo, meus direitos\". Mas isso é uma falácia: a mulher é uma pessoa e o feto é outra. O feto possui um código genético único. Toda mulher tem o direito de gerar filho, mas não tem o direito de matá-lo. O que teremos no Brasil  certamente, o STF vai promover  é a indústria do aborto; nos Estados Unidos, a quarta economia, ela hoje está na mão do crime organizado. O aborto é, sim, uma questão de saúde pública. Talvez mais de 1.500 crianças sejam assassinadas todos os dias no ventre de suas mães em solo brasileiro. Eu diria, Sr. Presidente, que salvar a vida humana é salvar o mundo, é atender o compromisso que recebemos de Deus para gerar a vida, e não a morte! Então, o nosso apelo, o nosso brado nesta tarde não é outro: senhores ativistas do aborto, não manchem a nossa bandeira com sangue, não façam com que a vida humana, o ser humano se transforme em lixo hospitalar. Não ao aborto! Sim à vida! Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-09-26T14:52",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F9%2F2023&txPagina=55&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Prefeito,Blumenau (SC),Presença,Câmara dos Deputados,Evento,Cultura (ciências sociais)",
+    "sumario" : "O Deputado deu as boas-vindas ao Prefeito Municipal de Blumenau, Mário Hildebrandt, e à comitiva que inclui a rainha e as princesas da 38ª Oktoberfest. Ele destacou a importância desta festa germânica, que é a maior das Américas e engloba aspectos culturais e gastronômicos, refletindo os valores dos pioneiros de Blumenau.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Sr. Presidente, obrigado pela deferência. É uma satisfação receber no plenário o nosso Prefeito Municipal de Blumenau, o Mário Hildebrandt  o nome já diz tudo, não é? Bem germânico , a rainha e as princesas da 38ª Oktoberfest. Como bem V.Exa. já declinou, a abertura será no próximo dia 4 e a festa vai até o dia 22 de outubro. É a maior festa germânica das Américas, que tem toda uma questão cultural, gastronômica, enfim, dos valores daqueles que foram os pioneiros da cidade de Blumenau. Por isso, nós queremos dar boas-vindas à comitiva e, em especial, ao nosso Prefeito, à rainha e às princesas. Obrigado pela deferência, Presidente."
+  }, {
+    "dataHoraInicio" : "2023-09-27T14:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F9%2F2023&txPagina=51&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Chuva,Rio Grande do Sul\r\nVereador,Florianópolis (SC),Saudação",
+    "sumario" : "O Deputado expressou solidariedade ao povo do Rio Grande diante das enchentes, relembrando de experiências passadas no Vale do Itajaí. Mencionou também a presença em plenário do Vereador Bericó, de Florianópolis.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Sr. Presidente, também quero me solidarizar com o povo do Rio Grande. Nós somos Santa Catarina, e nossa região, o Vale do Itajaí, em Blumenau, tem toda esta cultura, digamos, das enchentes. Nós sabemos o que é isso. Em 1984, eu passei de barco por cima da casa onde eu morava. Nós temos tentado nos organizar com várias equipes já presentes no Rio Grande do Sul, para levar nosso abraço fraterno e nossa solidariedade neste momento por que passa o Rio Grande do Sul. Faço, neste momento, o registro da presença do Vereador de Floripa, nosso colega Bericó, o popular Bericó, que está prestigiando a sessão nesta tarde. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-10-10T14:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F10%2F2023&txPagina=54&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Terrorismo,Agressão,Israel,Guerra,Palestina,Faixa de Gaza\r\nEnchente,Inundação,Santa Catarina,Mudança climática,Situação de emergência",
+    "sumario" : "O Deputado discorreu sobre o histórico conflito entre Israel e palestinos e considerou inadmissível o recente atentado promovido pelo Hamas. Destacou a necessidade de o Governo brasileiro reconhecer oficialmente o ataque como um ato terrorista, mostrando de que lado o País se posiciona. Além disso, mencionou a situação de enchentes em Santa Catarina e discutiu esforços conjuntos para fornecer ajuda humanitária e soluções a longo prazo para as áreas afetadas. Em seguida, relatou a situação de emergência em Santa Catarina devido às enchentes, com 130 cidades afetadas. Mencionou a coordenação com autoridades locais e o Ministério da Integração e do Desenvolvimento Regional para fornecer ajuda humanitária imediata e buscar soluções a longo prazo. O orador enfatizou a preocupação com a possibilidade de uma terceira onda de enchentes e o compromisso do Ministro Waldez Góes de visitar a região para avaliar a situação e oferecer suporte aos municípios catarinenses afetados pelo fenômeno climático.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Obrigado, Presidente, pela deferência. Deputado Otoni de Paula, eu estive, há 30 anos, em Israel. De lá para cá, venho estudando muito e escrevi vários livros, um dos quais inclusive se tornou bem conhecido no Brasil, o livro chamado Bilhete no Muro. E nós vimos acompanhando esse conflito entre Israel e palestinos. É bem verdade que Israel foi muito mais sábio, já que, a partir da decisão da assembleia presidida pelo nosso Oswaldo Aranha, teve a capacidade de formar um Estado. Foi dada aos palestinos a mesma garantia para formarem também o seu Estado. Mas, infelizmente, há toda uma celeuma interna entre os palestinos, e eles não conseguiram implementar o seu Estado. Agora, queiramos ou não, não podemos admitir, em hipótese alguma, o que ocorreu no último sábado. Nós estamos inclusive requerendo do Governo do Brasil uma declaração oficial de reconhecimento de que esse atentado do Hamas foi, de fato, um atentado terrorista. É isso o que nós precisamos fazer. O País precisa saber disso, e o mundo precisa saber de que lado o Brasil está. Isso é o mínimo que se espera das relações exteriores do nosso País. Sr. Presidente, eu preciso aqui fazer menção ao seguinte: hoje pela manhã, eu e meu amigo Deputado Cobalchini estivemos no Ministério da Integração e do Desenvolvimento Regional com o Ministro Waldez Góes e também com o Secretário Nacional de Proteção e Defesa Civil, Wolnei Wolff, para falar sobre a questão que hoje se abate Santa Catarina. Os Deputados têm acompanhado que 130 cidades de Santa Catarina estão debaixo d'água ou foram, de alguma forma, atingidas pelas intempéries das últimas chuvas. Nós temos, em Santa Catarina, 27 bacias hidrográficas, das quais a mais comprometedora está onde eu resido, no Vale do Itajaí. Eu sou da cidade de Blumenau. Nós temos uma preocupação enorme ali, porque tivemos a primeira e a segunda ondas no último fim de semana, e está prevista para quarta ou quinta-feira uma terceira onda, que pode chegar a até 12 metros, o que vai comprometer seriamente o Vale do Itajaí. Por isso, eu, o Deputado Cobalchini, junto com a Frente Parlamentar Catarinense e mais de 130 Prefeitos, estivemos em debate por videoconferência. E, agora à tarde, estivemos em reunião com os técnicos da Defesa Civil dos Municípios, para, de forma emergencial, levarmos uma resposta humanitária e, a médio e a longo prazo, termos soluções para trazer de volta a normalidade a esses Municípios e para que o Governo Federal possa efetivamente estar presente ali. O Ministro da Integração prometeu estar amanhã em Santa Catarina. Nós vamos acompanhar esse roteiro, sobretudo no Vale do Itajaí, para levar esse alento e essa resposta aos Municípios catarinenses. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-10-25T15:32",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F10%2F2023&txPagina=64&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Ministério da Educação,Olimpíada Brasileira de Matemática de Escolas Públicas (OBMEP),reprogramação",
+    "sumario" : "O Deputado Ismael solicitou ao Ministério da Educação a transferência da data da Olimpíada Brasileira de Matemática, em virtude das cheias em Santa Catarina. Também pediu a reposição imediata de materiais essenciais nas salas de aula das 162 cidades em estado de emergência no estado.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Obrigado, Sr. Presidente. Sobre as cheias de Santa Catarina  e o Estado de V.Exa., o Rio Grande do Sul, também enfrentou as cheias , eu faço um apelo aqui do plenário ao nosso Ministro da Educação. Não é possível o que aconteceu em Santa Catarina no dia da segunda maior prova para os nossos alunos, depois do ENEM, que é a Olimpíada Brasileira de Matemática, quando as escolas estavam fechadas, sem acesso, e o Ministério está sendo insensível em transferir essa data, para que não sejam prejudicados os nossos alunos do ensino fundamental. Faço também um apelo, Sr. Presidente, para que o Ministério da Educação possa ser sensível a repor as salas de aula, os quadros, os computadores, os livros. Os nossos alunos estão chegando. São 162 cidades em situação de emergência. Eles estão voltando à sala de aula e não têm a cadeira para se sentarem, não têm a carteira para deixarem o material didático. Então, fica aqui o nosso apelo ao Ministério da Educação. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-10-31T15:08",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F11%2F2023&txPagina=60&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Homenagem,Aniversário,Reforma Protestante (1517)",
+    "sumario" : "O Deputado celebrou os 506 anos da Reforma Protestante.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, em 31 de outubro de 1517, há exatos 506 anos, o monge alemão Martinho Lutero afixava na porta da Abadia de Wittenberg as famosas 95 teses. Quinhentos e seis anos depois, nós vivemos os efeitos e as consequências positivas desse protesto chamado Reforma Protestante. Deputado Zé Trovão, houve efeitos na política, quando, já naquele tempo, surgiram os Estados nacionais. Houve efeitos na economia, quando os líderes seculares deixaram de pagar impostos a Roma, e surgiu, então, um comércio florescente em toda a Europa. Houve efeitos também, Deputado Cobalchini, na área cultural. Foi com a Reforma Protestante que, felizmente, surgiu o ensino universal. Foi com a Reforma Protestante que surgiram os grandes músicos, por exemplo, o próprio Martinho Lutero e Johann Sebastian Bach, o pai da música. Foi com a Reforma Protestante que houve o desenvolvimento científico, que nos deu, por exemplo, o grande Isaac Newton, matemático, físico, teólogo. Mas houve também, é claro, um grande efeito religioso, como não poderia deixar de ser, com Martinho Lutero e os seus princípios teológicos nas Cinco Solas. Ele apregoava, com base nas Escrituras, que o justo viria pela fé. E dizia também que os pilares da reforma eram somente as Escrituras, somente o Cristo, somente a Graça  isto é, a salvação não é pelas obras, mas pela fé  e, finalmente, ele enfatizava: \"Somente a Deus toda a glória\". Por tudo o que a Reforma Protestante significou para a Europa, para o mundo ocidental e para o mundo todo, os nossos aplausos! E que Deus nos ilumine para que surjam novos Luteros para promover uma nova reforma. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-11-06T18:20",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2023&txPagina=28&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Exame Nacional do Ensino Médio (Enem),Ideologia política,Agronegócio,Prejuízo,Desinformação,anulação,Defesa",
+    "sumario" : "O Deputado expressou seu repúdio em relação às questões do Exame Nacional do Ensino Médio (ENEM), de 2023, alegando que prejudicam o agronegócio brasileiro ao apresentar informações ideológicas sem base científica. Citou exemplos específicos de questões que, segundo ele, difamam o setor, e destacou a importância do agronegócio para a economia do País, repudiando a desinformação presente na prova. Propôs a anulação de determinadas questões e expressou o desejo de colaborar na formulação de futuras provas, enfatizando sua qualificação acadêmica.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Obrigado, Sr. Presidente, Srs. Deputados, Sras. Deputadas que já estão na Casa. Hoje é uma tarde, Sr. Presidente, Srs. Deputados, de protesto. Hoje é uma tarde em que eu preciso registrar meu repúdio, como membro da Frente Parlamentar da Agropecuária  FPA, como membro titular da Comissão de Educação desta Casa. Faço questão deixar registrado aqui o meu repúdio. Eu recebi hoje a nota oficial da FPA, e o que me traz aqui é que no último domingo  todos nós acompanhamos  foi realizado o Exame Nacional do Ensino Médio  ENEM. Quatro milhões de brasileiros, nossos filhos, nossos netos, Sr. Presidente Charles, foram às escolas. E o que vimos lá? Eu tenho aqui parte das provas do ENEM. O que temos lá? Questões de cunho ideológico, o que já deveria estar ultrapassado; questões sem critérios científicos; questões de avaliação absolutamente subjetiva, isto é, depende do avaliador, se vai acatar ou não a resposta do aluno. E qual é a nossa revolta, o nosso protesto? É que o ENEM 2023 prestou um grande desserviço à economia brasileira, em especial, ao homem do campo, ao agronegócio, com sua desinformação para prejudicar o agronegócio brasileiro. Eu cito, por exemplo, aqui a questão de número 70 do ENEM 2023. Ela diz que o que gera o desmatamento no Brasil são os pecuaristas. Qual é a base científica disso? A questão 71 eu vou passar por cima. A questão 89 do ENEM, desse último domingo, vejam só o que diz: \"No Cerrado  e lembrem os senhores brasileiros que nos acompanham que o Cerrado ocupa 25% do território nacional , o conhecimento local está sendo cada vez mais subordinado à lógica do agronegócio\". Aí vem a pegadinha. Vejam só o que diz a proposta da questão: a mecanização é sinônimo de guerra no campo. Ora, senhores, nós precisamos de tecnologia. Diz mais a prova que o agro é responsável, e abro aspas, não sou eu que estou dizendo, está na prova, pelas \"chuvas de veneno e a violência\". Vejam só! O agronegócio no Brasil é responsável pelas chuvas de veneno, confundindo aqui, Sr. Presidente, o agrotóxico com o defensivo agrícola: o agro é responsável pelas chuvas de veneno e pela violência contra o cidadão comum! Nada disso, senhores! O agro faz parte da cadeia produtiva deste País. É responsável por 24,4% do PIB, da riqueza brasileira. Quase 30 milhões de brasileiros estão empregados no agro, isto é, de cada dez brasileiros, três estão envolvidos com o agro. O agro brasileiro é orgulho para todos nós. Eu não falo só do grande produtor, do médio, eu falo do pequeno, por exemplo, no Estado de Santa Catarina, composto de pequenos produtores. De cada três pratos de alimentação ofertada no mundo, um é brasileiro, o prato é brasileiro. Sr. Presidente, eu concordo aqui com a proposta e a nota de repúdio da Frente Parlamentar da Agropecuária, quando pede, primeiro, a anulação dessas questões, principalmente a 70, a 71 e a 89; segundo, a presença, nesta Casa, do nosso Ministro da Educação. Eu vou dar mais um alô aqui. Permita-me, Presidente, ser um pouco sarcástico. Alô, alô, alô, pessoal do INEP; alô, alô, técnicos do INEP, o Instituto Nacional de Estudos e Pesquisas Educacionais, responsável pelo ENEM, vocês estão com escassez de formuladores de prova? Está faltando gente gabaritada para a banca que organiza o ENEM, a prova mais importante hoje do sistema educacional brasileiro? Se está faltando gente importante, eu vou aqui, com muita modéstia, fazer uma proposta: 2024 vem aí, podem me convocar. Eu trabalho de graça. \"Mas quem é você, Deputado Ismael?\" Eu tenho mestrado, tenho um doutorado em literatura por uma das melhores universidades deste País, a UFSC, Universidade Federal de Santa Catarina. Eu trabalho de graça para vocês, e eu aposto que em 2024, se vocês me convocarem, não vai passar uma única questão de cunho ideológico. O agro, Sr. Presidente, eu concluo, é sinônimo de segurança alimentar. O agronegócio neste País  e falo da minha querida Santa Catarina  é sinônimo de riqueza, de renda e de emprego. Nosso repúdio aos técnicos que formataram a prova do ENEM 2023! Viva o agronegócio brasileiro! Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-11-06T18:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2023&txPagina=35&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Pomerode (SC),Prêmio,Queijo,Congratulação",
+    "sumario" : "O Deputado parabenizou o Município de Pomerode, em Santa Catarina, pelo prêmio de melhor queijo na América Latina no World Cheese 2023, na Noruega.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero apenas registrar, com muita satisfação, Deputada Ana Paula, que a nossa querida Pomerode, que fica a 20 quilômetros de Blumenau, conquistou um grande prêmio. A cidade de Pomerode, a cidade mais alemã do Brasil, foi premiada como tendo o melhor queijo da América Latina, segundo o World Cheese 2023, concurso realizado na cidade de Trondheim, na Noruega. Parabéns à nossa cidade de Pomerode, em Santa Catarina! Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-11-21T15:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F11%2F2023&txPagina=70&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Santa Catarina,Enchente,Inundação,Governo federal,Departamento Nacional de Infraestrutura de Transportes (DNIT),Recursos orçamentários,Rodovia federal,devolução",
+    "sumario" : "O Deputado alertou para a situação crítica em Santa Catarina devido a seis enchentes recentes. Pediu a atenção do Governo Federal, destacando projetos aprovados, através do DNIT, e recursos disponíveis para os Municípios. Nesse sentido, fez um apelo ao Presidente Lula para a devolução de 465 milhões de reais investidos pelo Estado de Santa Catarina em rodovias federais, visando ajudar mais de 180 Municípios em calamidade.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Santa Catarina vive um momento dramático. Nesses últimos 2 meses, foram seis enchentes. Falo de enxurradas, de alagamentos, de deslizamentos, como a minha cidade Blumenau com mais de 200 ruas alagadas. Eu falo do Alto Vale, como a pequena cidade de Rio do Oeste, que está há 40 dias debaixo d'água. Eu falo do meio oeste, que neste fim de semana teve temporais nunca antes vistos na história, como na cidade de Concórdia. Boa parte das pontes do interior foram levadas. Neste momento de crise, nós fazemos o nosso apelo ao Governo Federal. Nós temos estado em contato com o Ministério do Interior. O Ministro Góes, que nos tem recebido, já sinalizou que existem 70 projetos aprovados através do DNIT para os Municípios, dos quais 60 estão empenhados e 24 já foram pagos. Outros 80 estão em análise. Inclusive, eu peço agilidade dos técnicos. Mas isso é muito pouco. O meu clamor nesta tarde é o mesmo que fiz em conversar com o Governador Jorginho no último sábado. Eu sei que o Presidente Lula parece estar sem condições de visitar Santa Catarina, convalesce de uma cirurgia. Mas mais importante do que sobrevoar o Estado de Santa Catarina é efetivamente um olhar criterioso, especial. Eu quero aqui fazer um pedido, quero me juntar ao coro do Governador Jorginho Mello. Santa Catarina investiu nas estradas federais, na BR-470, na BR-280, na BR-163. Não precisaria, mas, para acelerar, o Governo de Santa Catarina investiu 465 milhões de reais nessas rodovias federais. Então, agora é hora, neste momento dramático, de o Governo fazer a sua parte. Nós não estamos pedindo uma esmola, nós não estamos pedindo um favor, nós estamos simplesmente pedindo que nos devolvam aquilo que foi emprestado, 465 milhões de reais. Nós vamos conseguir dar um fôlego para os mais de 180 Municípios em calamidade, para os 11 Municípios em calamidade pública. Houve 11 óbitos, houve grande prejuízo para pequenos, médios e grandes empresários, para o agronegócio. Então, com todo o respeito a S.Exa., o Presidente Lula, a solução está na sua caneta. Assine o cheque e devolva aos catarinenses os 465 milhões de reais que nos são de direito. Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-11-29T15:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F11%2F2023&txPagina=64&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Enchente,Inundação,Santa Catarina,liberação,recursos,Fundo de Garantia do Tempo de Serviço (FGTS),Situação de emergência,Calamidade pública",
+    "sumario" : "O Deputado alertou sobre a situação dramática de Santa Catarina após repetidas enchentes. Fez apelo ao Governo Federal pela liberação total do FGTS em Municípios em situação de emergência e calamidade pública, visando recuperar a economia afetada.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Obrigado, Sr. Presidente. Santa Catarina, Sras. e Srs. Deputados, continua numa situação dramática. Ontem, em menos de 2 meses, o Alto Vale sofreu a sétima enchente. Venho nesta tarde dizer que 180 Municípios de Santa Catarina estão em situação de emergência e 11, em situação de calamidade pública. Quando se fala em calamidade pública, fala-se em óbitos, fala-se em estruturas públicas completamente comprometidas, como pontes, estradas. Fala-se também em empresas e comércios que foram invadidos pela água. Fala-se no patrimônio dos moradores, em especial os do Alto Vale. Eu venho aqui, Sr. Presidente, fazer um apelo ao Governo Federal. Foi liberado o FGTS para as cidades, para os Municípios em situação de emergência, mas apenas para os munícipes que tiveram suas casas invadidas pela chuva. O nosso apelo é para que as cidades em situação de calamidade pública, que são apenas 11, possam ter a liberação de 100% do FGTS. Por quê? Os moradores, os empregados, os trabalhadores, mesmo aqueles que não tiveram suas casas invadidas, não puderam acessar o trabalho e tiveram desconto no salário. É preciso, nesta hora, que o Governo Federal tenha um olhar carinhoso para com Santa Catarina. Quero fazer um apelo aqui ao Presidente em exercício, o Sr. Alckmin. Basta uma medida provisória para injetar recursos na economia desses 11 Municípios. Hoje, está ocorrendo um grande êxodo. Eu falava disso com o Prefeito de Rio do Sul. Boa parte dos imigrantes nordestinos, 20%, já deixaram a cidade. Isso vai causar um apagão de mão de obra. Nós precisamos imediatamente fazer essa injeção de recursos através do Fundo de Garantia do Tempo de Serviço, que é um recurso do trabalhador. Portanto, faço este apelo ao Governo Federal. Basta uma medida provisória para que os Municípios do Alto Vale do Itajaí possam ter o mínimo de segurança econômica. É o meu pedido nesta tarde, Sr. Presidente. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-12-05T15:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F12%2F2023&txPagina=62&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Derrubada de veto,Veto presidencial,Projeto de lei ordinária,Exoneração tributária,Folha de pagamento,Indústria têxtil",
+    "sumario" : "O Deputado defendeu a derrubada do veto presidencial ao Projeto de Lei nº 334, de 2023, para reduzir a alíquota da contribuição previdenciária sobre a folha devida por Municípios. Enfatizou a importância da desoneração para manter empregos e estimular a economia, especialmente em setores-chave como a indústria têxtil.",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Obrigado, Sr. Presidente, Srs. Deputados. Quero pautar nesta tarde a minha preocupação, que também é de boa parte dos Srs. Deputados, em relação ao possível veto que está em debate nas próximas horas do Presidente, do Governo Federal sobre a desoneração da folha de pagamento de 17 setores, que deveria valer até dezembro de 2027. Ora, Srs. Deputados, Sras. Deputadas, a desoneração acontece desde 2011, portanto uma longa data, e tem sido fundamental para a manutenção de empregos. Ela tem sido fundamental para que setores chaves da nossa economia continuem aquecidos. Falo, por exemplo, da indústria têxtil, minha cidade de Blumenau, berço têxtil que tem sido referência para o Brasil e depende muito da questão da desoneração da folha de pagamento para que esse mercado se mantenha aquecido. É claro que eu compreendo a necessidade do equilíbrio fiscal. No entanto, é preciso considerar que a manutenção de empregos e o estímulo à atividade econômica geram receitas, geram segurança, recolhimento de impostos. São 9 milhões de empregos garantidos hoje no Brasil nesses 17 setores, Deputado Jorge Goetten  9 milhões de empregos! Por isso, o nosso voto certamente será pela derrubada do veto do Governo Federal, para evitar um cenário iminente de demissões em massa no País; e também respeitar a vontade do Congresso Nacional, tanto da Câmara quanto do Senado, que, por ampla maioria, propôs a prorrogação da desoneração da folha de pagamento até 2027. Srs. Deputados, Sras. Deputadas, o que produz riqueza num País não é o setor público. O que produz riqueza no País é a indústria, é o comércio, é o terceiro setor. Por isso, a nossa posição de derrubar o veto, que esperamos ter sucesso nesta Casa. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-12-12T15:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F12%2F2023&txPagina=61&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Educação,Plano Nacional de Educação (PNE),Conservadorismo,Ideologia de gênero,Ideologia política",
+    "sumario" : "O Deputado expressou preocupação com o documento referência do Plano Nacional de Educação para 2024/2034, destacando a Proposta 640 que inicia com um preâmbulo questionável sobre grupos conservadores. Ele manifestou discordância com a abordagem do documento, mencionando a frequência de termos como \"diversidade de gênero\" e \"orientação sexual\". Argumentou que o foco deveria estar na qualidade da educação, com ênfase em aspectos como adaptação do docente, infraestrutura e tecnologia, ao invés de uma abordagem ideológica. Citou Lenin para alertar sobre o perigo da liberalização sexual na juventude. Enfatizou a necessidade de um plano pedagógico em vez de uma \"cartilha ideológica\".",
+    "transcricao" : "O SR. ISMAEL (Bloco/PSD - SC. Sem revisão do orador.) - Obrigado, Sr. Presidente. Srs. Deputados e Sras. Deputadas, eu tenho em mãos o documento referência da construção do Plano Nacional de Educação, que vai valer para o próximo decênio, a próxima década, 2024/2034. Isto é, aquilo que os nossos filhos e os nossos netos vão aprender depende desse documento de 177 páginas, que envolve os profissionais da educação, os atores sociais, que envolve os estudantes e também, é claro, esta Casa, o Congresso Nacional. Mas me preocupo, Sr. Presidente, quando eu vejo, já na abertura, a Proposta 640: \"No atual contexto histórico e político, o Congresso Nacional, as Assembleias Legislativas e as Câmaras de Vereadores estão tomadas por parcelas significativas de grupos conservadores e suas pautas fundamentalistas\". Eu não sei o porquê deste preâmbulo. Se ser fundamentalista é ser contra o aborto, é ser contra drogas, é ser contra a ideologia de gênero, pois bem, eu sou fundamentalista. É claro que nós queremos uma educação de qualidade. Educação de qualidade pública, é claro, tem que ser gratuita, laica, inclusiva, mas não embasada em um documento como este, encharcado de uma proposta, eu diria, sexista, como eu vou provar. Este documento está dividido em sete eixos. Conforme o primeiro, na Proposta 94, qual é a proposta do documento? \"Criar condições para promover a diversidade de gênero e a orientação sexual\". Essa é a proposta de um documento sério como esse. Eu tive a oportunidade de fazer duas leituras das 177 páginas. Deixe-me apenas citar aqui alguns verbetes que constam deste documento referência. Por exemplo, a palavra \"alfabetização\" aparece 41 vezes; a palavra \"gênero\", 38 vezes; \"LGBT+\", 24 vezes; \"sexo\", 15 vezes; \"orientação sexual\", 18 vezes; e a palavra \"matemática\", que deveria ser fundamental, aparece apenas 4 vezes, Sr. Presidente. O Vladimir Lenin, que todos vocês conhecem, figura central da revolução comunista russa, dizia: \"Se você quiser dominar uma Nação, dê liberdade sexual à sua juventude\". Está aí a proposta. O caminho não é este. Se queremos uma educação de qualidade, precisamos, sim, ter a adaptação do docente, o aluno como foco, a infraestrutura, a tecnologia, o planejamento educacional, o envolvimento comunitário escolar. Srs. Deputados e Sras. Deputadas, nós não queremos uma cartilha ideológica! Nós queremos, sim, um plano pedagógico. Se os senhores do Fórum Nacional de Educação quiserem guerra, teremos guerra. Obrigado."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/98615/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/98615/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/98615/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

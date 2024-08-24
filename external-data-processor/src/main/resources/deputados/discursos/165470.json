@@ -1,0 +1,349 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2014-09-02T16:06",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/37002",
+    "faseEvento" : {
+      "titulo" : "Homenagem",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "HOMENAGEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F9%2F2014&txPagina=&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "SESSÃO SOLENE, HOMENAGEM PÓSTUMA, EDUARDO CAMPOS, CANDIDATO, PRESIDÊNCIA DA REPÚBLICA, PEDRO VALADARES, DEPUTADO FEDERAL, AGRADECIMENTO.",
+    "sumario" : "Sessão Solene em homenagem póstuma ao Deputado Eduardo Campos e ao Deputado Pedro Valadares.",
+    "transcricao" : "O SR. RODRIGO SANTANA VALADARES - Exmo. Sr. Presidente da Câmara dos Deputados, Deputado Henrique Eduardo Alves; Sra. Ministra Ana Arraes, do TCU; Renata Campos; em nome dos quais eu estendo o cumprimento aos diversos membros da Mesa, às Sras. e aos Srs. Deputados, às Sras. e aos Srs. Senadores, ao Governador João Lyra aqui presente. Gostaria de falar estas breves palavras sobre meu pai e sobre Eduardo Campos. Não programei nada, não pensei nada de antemão.\r\n\tGostaria de iniciar dizendo que não deveria ser assim que deveria acabar. Não acredito que tenha acabado. Vamos continuar, como disse Eduardo Campos: \"Não desistiremos do Brasil\". (Palmas.) \r\n\tFalar de meu pai é falar de Pedro Valadares. Muitos aqui, que o conhecem, me cumprimentaram, e eu tive o prazer de conhecer também. Era um pai muito alegre. Rígido quando precisava, é claro, mas muito brincalhão. A gente não conseguia ter uma conversa séria. Ele era muito brincalhão, os filhos de Eduardo mesmo sabem disso.\r\n\tA parceria e a amizade com Eduardo Campos já vinham de 20 anos e foram intensificadas agora com esta campanha. Ele estava muito feliz, estava radiante. Ele acreditava que iriam fazer um Brasil diferente, que iriam fazer um Brasil melhor. Esse sonho não morreu com eles, permanece conosco.\r\n\tDeixa-me profundo pesar ele não ter podido realizar aquilo em que tanto acreditava junto com Eduardo. Era uma amizade muito bonita de se ver. Sinto bastante por meu pai, de uma maneira que vocês talvez não consigam imaginar. Também sinto muito por nosso Governador Eduardo Campos, pessoa que aprendi a respeitar, a ser amigo, e que tanto ajudou meu pai e tantos brasileiros.\r\n\tMuito obrigado. (Palmas prolongadas.)"
+  }, {
+    "dataHoraInicio" : "2023-02-08T16:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F2%2F2023&txPagina=66&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Governo federal,gestão,Economia,Crítica\r\nBanco Central do Brasil (Bacen),autonomia,Defesa,independência",
+    "sumario" : "Importância da autonomia do Banco Central do Brasil para controle das taxas de juros. Apreensão do Presidente Luiz Inácio Lula da Silva diante da expectativa de baixo crescimento econômico do País.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, primeiro, quero declarar nesta Casa toda honra e toda glória ao Senhor. Em segundo lugar, quero cumprimentar o Presidente, que foi colega do meu pai, Pedrinho Valadares. Agora, após 20 anos, estou nesta Casa ocupando a tribuna que por muitas vezes o meu pai ocupou. Venho neste momento me somar ao discurso do Deputado Cabo Gilberto Silva, meu conterrâneo nordestino, da Paraíba, onde estamos vendo ataques descabidos à autonomia do Banco Central. Eu quero debater e destacar os dois motivos por que isso pode estar acontecendo. Primeiro, o ex-condenado Lula pode realmente acreditar que, metendo a mão na taxa de juros, poderá ajudar o País. Talvez ele tenha se esquecido de que da última vez que isso aconteceu, em 2016, com a Presidente Dilma, que, ignorando sinais de inflação, meteu a mão nos juros, baixando-os de qualquer jeito, nós entramos na maior crise econômica da história recente. Os juros nada mais são, Deputado Eduardo Bolsonaro, que o preço do dinheiro. Quem aqui se esqueceu da época do Sarney, que quis meter a mão no preço de gêneros alimentícios e de outros produtos, e nós tivemos hiperinflação? Eu acho que dificilmente o Governo pode realmente acreditar que isso é possível. Eu acho que ele está indo muito mais pelo outro lado, que é buscar um culpado, porque sabe que o Brasil não vai crescer. Sabe que o descontrole econômico, o descalabro econômico que o Brasil vive vai levar o nosso País para uma recessão muito forte, talvez pior do que a que vimos em 2016, e já busca um culpado, que foi eleito o melhor Presidente de Banco Central da América Latina e o melhor Presidente de Banco Central do mundo. E agora vem esse Governo e a Presidente Gleisi Hoffmann dizerem que é preciso mexer na autonomia do Banco Central. Quero dizer que Campos Neto é um economista respeitado. O seu avô Roberto Campos foi um dos maiores economistas do mundo. Nós não admitiremos que mexam na autonomia do Banco Central, porque isso se reflete na inflação. E quem sofre com a inflação é o povo pobre do nosso País, é o povo pobre do nosso Nordeste, é o povo pobre do nosso Estado de Sergipe. Vamos lutar para que o Banco Central mantenha sua autonomia e que a economia brasileira seja resguardada. Obrigado, Sr. Presidente. Obrigado, colegas Deputados."
+  }, {
+    "dataHoraInicio" : "2023-02-14T21:16",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2023&txPagina=163&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Presidente,Partido dos Trabalhadores (PT),Despesa pública,Governo federal,gestão,Crítica",
+    "sumario" : "Protesto contra fala da Presidente do PT, Deputada Gleisi Hoffmann, sobre a inexistência de espaço para corte de gastos no Governo. Crítica à alocação de recursos públicos para imóveis de luxo, países socialistas aliados e financiamento de artistas militantes.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, primeiro quero declarar toda a honra e toda a glória ao Senhor. Presidente, o que me traz à tribuna no dia de hoje é uma fala da Presidente do PT, Gleisi Hoffmann, que disse que não havia onde cortar gastos neste Governo descompensado do PT. Vejam que, para algumas coisas, o PT arrumou muito dinheiro. Vamos só ver para que o PT arrumou dinheiro: 37 Ministérios, 14 Ministérios a mais do que os do Presidente Bolsonaro; 1 bilhão de reais para a Lei Rouanet, mamata de artistas militantes; reforma do Palácio do Planalto no valor de 1,4 milhão de reais, até porque o marajá Luiz Inácio Lula da Silva precisa de um palácio suntuoso para morar; 216 mil reais para um luxuoso hotel em que Lula ficou hospedado, porque o palácio não estava de acordo com o que ele queria; 400 mil reais com móveis de luxo para este mesmo palácio; defesa de Lula a empréstimos do BNDES a países que deram 5,2 bilhões de reais de calote em nosso País; viagem à COP 27, onde ele fez um discurso numa salinha alternativa, nada oficial, com gasto de 158 mil reais; e orçamento recorde para a cultura, que é cultura militante, de 10 bilhões de reais. Vejam que as prioridades do PT são imóveis de luxo, países socialistas aliados, dinheiro para mamata de artistas militantes. Agora, para o povo pobre do meu Nordeste, falta dinheiro. Vamos, aqui nesta Casa, combater, com força, com resiliência e principalmente com a benção de Deus, esses descalabros do Governo do PT. Muito obrigado, Sr. Presidente. O SR. PRESIDENTE (Pompeo de Mattos. Bloco/PDT - RS) - Muito obrigado, Deputado Rodrigo Valadares. Na sequência, tem a palavra o Deputado Padovani, do Paraná, que, aliás, sucede a seu pai na Casa, que também foi Deputado Federal conosco. Convivi com ele, fez excelentes mandatos aqui. Agora seu filho, que tem pedigree, dá sequência ao trabalho do pai. Muito bonito! (Pausa.) O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE) - Sr. Presidente, peço licença rapidamente ao Deputado Padovani, meu vizinho de gabinete. Solicito que, se possível, seja divulgada no programa A Voz do Brasil esta minha fala. O SR. PRESIDENTE (Pompeo de Mattos. Bloco/PDT - RS) - Perfeito. Determino à Casa que, através dos meios de comunicação, dê divulgação ao pronunciamento de V.Exa. O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE) - Obrigado, Sr. Presidente e Deputado Padovani."
+  }, {
+    "dataHoraInicio" : "2023-02-15T13:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F2%2F2023&txPagina=128&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Direita política,Esquerda política,investigação,manifestação,Vandalismo,Edifício público,Apoio político,Comissão Parlamentar Mista de Inquérito (CPMI)",
+    "sumario" : "Pedido de apoio aos Parlamentares da Esquerda para a criação de CPMI destinada à apuração dos atos de vandalismo ocorridos na Praça dos Três Poderes no dia 8 de janeiro de 2023.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Quero apenas contribuir com a fala do Deputado Nikolas Ferreira. Eu acho que neste momento o interesse da Esquerda converge com o nosso, da Direita, que é a apuração do que verdadeiramente aconteceu no trágico episódio do 8 de janeiro, que não há quem o apoie. Não há, nesta Casa e entre as pessoas de bem do nosso País, quem apoie aquele quebra-quebra que aconteceu no 8 de janeiro. Convidamos a Esquerda a assinar a CPMI. O nosso time, o Deputado André Fernandes está montando, é para investigar os atos do 8 de janeiro. Precisamos entender como, em 2021, havia milhões de pessoas nessa Esplanada e um forte aparato policial e nada aconteceu. No entanto, no dia 8 de janeiro, houve uma facilidade extrema para que possíveis infiltrados pudessem fazer esse vandalismo, esse trágico episódio. Eu acho que a CPMI dos atos do 8 de janeiro é fundamental para investigarmos os verdadeiros culpados por esse trágico episódio da nossa democracia."
+  }, {
+    "dataHoraInicio" : "2023-02-28T19:40",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F3%2F2023&txPagina=130&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Ex-presidente da República,Partido Liberal (PL),gestão\r\nGoverno federal,aumento,Combustível,Crítica",
+    "sumario" : "Reajuste dos preços de combustíveis pelo Governo Luiz Inácio Lula da Silva.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Sem revisão do orador.) - Toda a honra e toda a glória ao Senhor! Sr. Presidente, Sras. e Srs. Deputados, eu venho a esta tribuna no dia de hoje para dizer que o amor venceu, que a democracia venceu. E esse amor que o Presidente Lula está espalhando já começa a reverter as barbaridades feitas pelo genocida Bolsonaro. Vejam que barbaridade fez Bolsonaro: baixou o preço dos combustíveis. É um absurdo querer que o trabalhador brasileiro pague mais barato pelo combustível! E cometeu outra atrocidade: enquanto o mundo tinha uma inflação galopante, devido à pandemia, colocou o Brasil em deflação, ou seja, diminuição dos preços. Mas Lula já disse que isso não vai ficar assim. O preço do seu combustível vai aumentar. O amor precisa ser compartilhado. E não adianta você dizer: \"Eu não tenho carro, eu não tenho moto, eu não vou sofrer com isso\". A carne que você compra, o arroz que você compra, o feijão que você compra sofre influência do preço dos combustíveis. A passagem de ônibus que você utiliza para trabalhar ou para ir para a praia sofre influência dos combustíveis. Nós sabemos, brincadeiras à parte, Sr. Presidente, por que o Presidente Lula está fazendo essa malvadeza com o povo brasileiro. O PT loteou o nosso País, o PT loteou o cofre do Brasil. A conta é cara, e alguém precisa pagar. E quem Lula escolheu para pagar essa conta foi o trabalhador brasileiro. Muito obrigado, Sr. Presidente, Sras. e Srs. Deputados."
+  }, {
+    "dataHoraInicio" : "2023-03-08T17:24",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F3%2F2023&txPagina=88&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Dia Internacional da Mulher,Homenagem\r\nDeputado federal,Partido Liberal (PL),Pronunciamento,Atuação parlamentar,solidariedade\r\nMinistro de Estado das Relações Exteriores,Requerimento de informação a Ministro de Estado,Organização das Nações Unidas (ONU),Direitos humanos,Nicarágua,Assinatura,Brasil",
+    "sumario" : "Saudações às mulheres brasileiras ao ensejo do transcurso do Dia Internacional da Mulher. Solidariedade ao Deputado Nikolas Ferreira, diante de reações contrárias a discurso proferido em plenário. Encaminhamento ao Ministro das Relações Exteriores, Mauro Vieira, de requerimento de informações sobre a não assinatura, pelo governo brasileiro, de documento do Conselho de Direitos Humanos da Organização das Nações Unidas - ONU contra o regime ditatorial implantado na Nicarágua.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Sem revisão do orador.) - Sras. Deputadas, Srs. Deputados, eu quero começar esta minha fala parabenizando todas as mulheres pelo seu dia, na pessoa da minha esposa, Moana; da minha mãe, D. Simone; da minha filha, Luísa; da minha avó, D. Laura; da minha bisavó, D. Caçula, desejando que este dia tão especial seja cada vez mais valorizado. Eu quero manifestar minha solidariedade ao Deputado Nikolas. Deputado Nikolas, conte comigo, conte com a bancada do bem para defender o seu direito de fala. (Palmas.) O Deputado Nikolas é um Deputado. E, pelo que eu saiba, a Constituição de 1988 ainda está válida. A bancada do bem, Deputado Nikolas, vai garantir que V.Exa. possa falar sem ameaças ao seu mandato, sem ameaças a sua integridade física e sem ameaças ao seu direito de exercer o mandato parlamentar. Conte com o Deputado Rodrigo Valadares e com toda a bancada do bem desta Casa. Srs. Deputados, eu trago a esta tribuna, no dia de hoje, um requerimento de informações que nós fizemos ao Ministro das Relações Exteriores, o Sr. Mauro Vieira, para que ele explique por que o Brasil não assinou o documento da ONU que condena os abusos aos direitos humanos cometidos na ditadura da Nicarágua. Durante a campanha eleitoral, eu e diversos Deputados fomos proibidos de fazer a ligação do Presidente Lula com o Presidente ditador da Nicarágua. E, hoje, por incrível que pareça, o Brasil não assina esse importante documento. O Ministro das Relações Exteriores precisa se explicar. Isso é uma vergonha para o nosso País. Na Nicarágua, as pessoas estão sendo presas, as pessoas estão sendo mortas, existe perseguição religiosa, perseguição ao direito de liberdade de expressão, perseguição política. Um bispo foi condenado à morte. Uma brasileira foi morta pela polícia ditatorial comunista da Nicarágua. E o Brasil está em silêncio. Então, deixamos o nosso repúdio e mandamos este requerimento para que o Ministro das Relações Exteriores dê as explicações ao povo brasileiro. Para finalizar, Sra. Presidente, eu faço aqui um apelo. O Deputado Nikolas está sendo reiteradamente atacado e citado. Por favor, conceda o direito de defesa ao Deputado Nikolas. Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-03-21T15:16",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F3%2F2023&txPagina=51&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Ex-presidente da República,Aniversário de nascimento,Congratulação\r\nTributação,Compra,Internet,País estrangeiro\r\nMinistro de Estado da Justiça e Segurança Pública,Processo judicial,Deputado federal,Imunidade material,convocação,Defesa",
+    "sumario" : "Transcurso do aniversário natalício do ex-Presidente Jair Bolsonaro. Contrariedade à tributação de produtos comercializados pela Internet. Solidariedade aos Parlamentares denunciados pelo Ministro da Justiça e Segurança Pública, Flávio Dino. Defesa de sua convocação pela Câmara dos Deputados.",
+    "transcricao" : "O SR. RODRIGO VALADARES (UNIÃO - SE. Sem revisão do orador.) - Sr. Presidente, Deputado Gilberto Nascimento, é uma honra estar aqui falando com V.Exa. na Presidência. Primeiro quero declarar toda a honra e toda a glória ao Senhor. Quero registrar aqui no dia de hoje o aniversário, os nossos parabéns, a nossa congratulação ao maior líder político da história do Brasil, ao maior líder popular que já pisou nestas terras: Jair Messias Bolsonaro. Que Deus possa, meu eterno Presidente, meu capitão, abençoar o senhor, iluminá-lo nesses dias e que o senhor volte pronto e mais forte para, em 2026, vencermos essa batalha. Sr. Presidente, o que me traz à tribuna no dia de hoje é um fato corriqueiro que acontece em todo o nosso País. Eu quero que os senhores imaginem uma jovem da periferia do meu Nordeste, seja de Aracaju, seja de Nossa Senhora do Socorro, vendo em um filme um vestido perfeito, que a sua atriz favorita usa. E aquela jovem muito pobre da periferia deseja ter aquele vestido. Ela vai ao shopping, e na Riachuelo, na Renner, na Zara, aquele vestido está muito caro. As coisas estão muito caras no Brasil. Só que no telefone dela aparece uma promoção da Shein ou da Shopee daquele mesmo vestido, com um preço que agora ela pode pagar. Ela vai lá e compra, ela tem acesso àquele bem de consumo, àquele desejo dela, com essa facilidade. Pois bem. O Governo Lula está de olho nisso. O Governo Lula quer taxar a sua compra na Shein, a sua compra na Shopee e, mais grave ainda: está chamando você de contrabandista digital. É muito triste, Sr. Presidente, nós vermos que este Governo não está preocupado com as classes C e D, não está preocupado com os mais humildes; está preocupado, sim, em pagar a conta cara que foi a eleição do Presidente Lula. Nós, do União Brasil, vamos reafirmar mais uma vez que a chance de votarmos aumento de imposto é zero. Eu peço solidariedade aos nossos companheiros aqui na Câmara dos Deputados, que possamos olhar com carinho para esta situação e não impedir que aquela jovem da classe C e D possa adquirir o seu bem de consumo. Que essas pequenas compras não sejam taxadas e que o Governo tire a mão do bolso do consumidor. Para finalizar, eu quero me solidarizar com oito Deputados e alguns Senadores que foram denunciados pelo Ministro da Justiça, Flávio Dino, pelo livre exercício do seu mandato. Eu acho que o art. 53 da Constituição Federal merece ser reescrito pela Esquerda, porque diz que é inviolável o Deputado por suas palavras, ações e votos. Só que vão ter que abrir um parêntese e dizer que só é válido se a pessoa for de esquerda. É um absurdo o que o Ministro Flávio Dino está fazendo com esses Parlamentares. Sou a favor da convocação desse Ministro para vir a esta Casa explicar por que está indo de encontro às prerrogativas estabelecidas na nossa Constituição sobre a atividade parlamentar e o livre desempenho neste Parlamento. Muito obrigado, Sr. Presidente, colegas Deputados e Deputadas."
+  }, {
+    "dataHoraInicio" : "2023-03-29T17:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F3%2F2023&txPagina=92&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Deputado federal,Ofensa,Homofobia,Deputada federal,Notícia falsa (fake news)\r\nEx-presidente da República,retorno,Brasil",
+    "sumario" : "Repúdio ao ataque homofóbico do Deputado André Janones contra o Deputado Nikolas Ferreira. Desrespeito da Deputada Carol Dartora para com os Deputados Filipe Barros e Nikolas Ferreira. Retorno do ex-Presidente Jair Bolsonaro ao Brasil.",
+    "transcricao" : "O SR. RODRIGO VALADARES (UNIÃO - SE. Sem revisão do orador.) - Sr. Presidente, agradeço a V.Exa. e ao Deputado Kim Kataguiri. Toda honra e toda glória ao Senhor. Sr. Presidente, eu vou ser muito breve na minha fala. O que me traz à tribuna no dia de hoje é uma situação que está me deixando profundamente incomodado, profundamente chateado. Incomodado como Deputado, como cristão e como ser humano. Refiro-me ao que estão fazendo com o Deputado Federal mais votado do Brasil, queira a Esquerda ou não, goste a Esquerda ou não, o Deputado Nikolas Ferreira. É inadmissível, Sr. Presidente, vermos Deputados irrelevantes nacionalmente e nesta Casa, utilizarem um homem de Deus, uma pessoa correta, um homem com caráter ilibado como o Deputado Nikolas Ferreira para servir de trampolim para like de Deputado que não tem competência nesta Casa, que não apresenta um projeto, que não vai a uma Comissão, que não vai ao plenário, que só faz baderna nesta Casa. E vou citar nominalmente o Deputado André Janones, que merece ser enquadrado pela Câmara dos Deputados, por essa Presidência, porque é inadmissível ele se utilizar de palavrão, de fake news, de declarações homofóbicas. Cadê a bancada LGBTQIAP+ que não se revolta contra isso? Eu estou me sentindo profundamente incomodado. O Deputado Nikolas Ferreira foi à Comissão de Comunicação e mais uma vez foi desrespeitado pela Deputada Carol. O Deputado Filipe Barros foi vítima de fake news dessa mesma Deputada, que há 3 minutos estava falando em democracia, em ouvir as duas partes, dizendo que éramos antidemocráticos. O Deputado Nikolas Ferreira merece respeito, e eu estarei aqui para defendê-lo como colega Deputado e também como irmão na fé de um grande homem. Aceite ou não, Esquerda, ele é o Deputado Federal mais bem votado do País. E amanhã o nosso líder, o maior líder da democracia brasileira, um dos maiores líderes mundiais, o nosso Presidente Bolsonaro estará chegando. Vamos recebê-lo com todo carinho e amor. Ele vem liderar a Oposição para, em 2026, tirarmos essa corja de ladrões, de condenados, que usurparam nosso Poder. Grande abraço. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-04-12T17:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F4%2F2023&txPagina=88&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Escola pública,Farias Brito (CE),Violência,Atentado,Aluno,Frente Parlamentar Evangélica,Câmara dos Deputados,atuação\r\nProjeto de lei ordinária,Vigilância armada,Escola\r\nProjeto de lei ordinária,Cerca elétrica,Detector de metal,Escola",
+    "sumario" : "Ocorrência de atentado contra escola na zona rural do Estado do Ceará. Subscrição pelo orador do Projeto de Lei nº 1.672, de 2023, sobre a instalação de detectores de metais e cercas elétricas nas creches e escolas da rede pública e privada de ensino; e do Projeto de Lei nº 1.449, de 2023, a respeito da permanência obrigatória de segurança armada nas escolas da rede pública e privada da educação básica de ensino. Necessidade de adoção, pelo Parlamento brasileiro, de providências a respeito da violência no ambiente escolar.",
+    "transcricao" : "O SR. RODRIGO VALADARES (UNIÃO - SE. Sem revisão do orador.) - Sr. Presidente, eu agradeço a concessão da palavra. Eu quero cumprimentá-lo, meu irmão em Cristo Gilberto Nascimento, e cumprimentar todos os que estão aqui no plenário. Nós vemos mais esse ataque com muita tristeza, agora a uma escola municipal do interior, da zona rural do Ceará. E é justamente esse, Presidente, o motivo da minha vinda aqui à tribuna no dia de hoje. Eu acho que todos nós que somos pais, todos nós que somos brasileiros e, sobretudo, todos nós que somos humanos estamos preocupados, chocados e estarrecidos com essa onda de violência que está tomando as escolas, as creches, os hospitais. E o alvo  meu Deus!  são crianças. O alvo é aquele bem que nós devemos mais proteger, e estão sendo vítimas de uma monstruosidade para a qual não há palavras. Isso são coisas, Presidente, que nós apenas víamos em noticiários internacionais, que aconteciam nos Estados Unidos, na Inglaterra, nesses países do Primeiro Mundo. Infelizmente, essa maldade chegou ao Brasil. E nós, Presidente, que somos irmãos em Cristo, não podemos ver de outra maneira que não seja além da nossa atuação parlamentar. Essa é uma batalha espiritual. Eu fiz essa fala ontem na Frente Parlamentar Evangélica e quero aqui agradecer ao nosso Presidente Eli Borges, que nos deu todo o apoio. Nós, como Frente Parlamentar Evangélica, também atuaremos no campo espiritual, na guerra espiritual que existe sobre esses atentados, porque isso é inadmissível. Ninguém em sã consciência, ninguém sem uma forte opressão maligna e influência maligna vai cometer uma atrocidade de entrar numa escola, num hospital, numa creche para assassinar, a sangue-frio, crianças. Vamos lutar a nossa batalha espiritual, mas também temos que lutar a nossa batalha aqui no Parlamento. Eu quero cumprimentar a minha colega de partido, a Deputada Silvye, que tem um projeto importante dos detectores de metais nas escolas. Eu estava conversando com ela há pouco. Nós queremos subscrever esse projeto como coautores. Temos também o projeto Deputado Paulo Bilynskyj, que é importante, que garante seguranças armados nas escolas. Nós temos que fazer de tudo para proteger o nosso bem mais precioso, que são as crianças. Então, Presidente, é necessário trazer essa fala. Eu quero pedir aqui o apoio dos colegas, dos Deputados, para que nós, independentemente de ideologia, de lado político ou religioso, possamos, como Parlamento, como Casa do Povo, enfrentar esse problema tão sério que está acontecendo em nossa sociedade. Vamos proteger as nossas crianças. Toda a honra e toda a glória ao Senhor dos Exércitos. Eu tenho certeza, declaro e decreto que o nosso Deus, Senhor dos Exércitos, irá com sua mão poderosa agir e salvar a nossa Nação. Presidente, eu peço a divulgação deste nosso pronunciamento no programa A Voz do Brasil e nas redes sociais da Câmara dos Deputados. Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-04-19T16:32",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F4%2F2023&txPagina=74&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "solidariedade,Oposição política,Filho,Ex-presidente da República,Vítima,Agressão,Deputado federal,Partido dos Trabalhadores (PT),Conselho de Ética e Decoro Parlamentar\r\nMídia,divulgação,Imagem,Ministro-Chefe,Gabinete de Segurança Institucional da Presidência da República (GSI-PR),atuação,manifestação,Ato antidemocrático,Prisão,Impeachment,Presidente da República,Comissão Parlamentar Mista de Inquérito (CPMI)",
+    "sumario" : "Solidariedade ao Deputado Eduardo Bolsonaro diante de ataque de Deputado da Esquerda ao seu pai Jair Bolsonaro. Facilitação pelo Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, general Marco Edson Gonçalves Dias, do acesso de vândalos às dependências do Palácio do Planalto. Razões do receio do governo petista à abertura da CPMI destinada à investigação de atos de vandalismo praticados contra as sedes dos Poderes da República. Defesa da prisão do Ministro-Chefe do GSI. Apoio à abertura de processo de impeachment contra o Presidente Luiz Inácio Lula da Silva.",
+    "transcricao" : "O SR. RODRIGO VALADARES (UNIÃO - SE. Sem revisão do orador.) - Obrigado, Sr. Presidente. Toda honra e toda glória ao Senhor dos Exércitos! Sr. Presidente, o que me traz à tribuna no dia de hoje é esse episódio lamentável que nós vimos acontecer com o nosso querido colega Deputado Eduardo Bolsonaro. Eu encontrei o Deputado há pouco, manifestei minha solidariedade e disse que viria a esta tribuna para me manifestar sobre esse episódio. Há cerca de 8 anos, eu perdi meu pai num acidente que, para muitos, ainda é inexplicável. Meu pai estava naquele avião que vitimou nosso eterno Governador Eduardo Campos. Eu confesso a V.Exa., Sr. Presidente, que, se alguém tivesse feito uma piada semelhante em relação ao meu pai, o Conselho de Ética ficaria pequeno para mim e para esse Deputado. A reação do Deputado Eduardo Bolsonaro foi muito menor do que a reação que teriam 90% dos presentes aqui, em face da agressão que ele sofreu. Ele quase perdeu o pai! Só quem já perdeu o pai sabe a dor que é. Só que já teve um familiar em uma cama de hospital sabe a agonia que é para tentar tirá-lo de lá. Quero dizer aqui, Sr. Presidente, que esse tipo de agressão do PT, esse tipo de agressão da Esquerda, Deputado Icaro de Valmir, Deputado André Fufuca, tem que parar, tem que acabar. A reação do Deputado Eduardo Bolsonaro, volto a dizer, foi muito menor do que a reação que a maioria dos presentes aqui teria. Temos que nos solidarizar com o nosso colega. Que o Conselho de Ética aja, sim, para evitar que Deputados irresponsáveis, como esse do PT, façam tamanhas acusações! Sr. Presidente, como segundo tema, eu quero falar desses vídeos que a CNN divulgou do Ministro do GSI conduzindo os golpistas, os infiltrados, os baderneiros do 8 de janeiro. Agora estamos vendo por que o Governo tem tanto medo da CPMI, por que o Governo está apavorado com a CPMI. Eu quero dar só um recado, Sr. Presidente: para o Ministro do GSI, é prisão; para o Presidente Lula, é impeachment! Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-08-03T12:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F8%2F2023&txPagina=86&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Supremo Tribunal Federal (STF),descriminalização,Entorpecente,uso pessoal,Usurpação de competência,Poder Legislativo",
+    "sumario" : "Protesto contra o julgamento, pelo Supremo Tribunal Federal, de processo sobre a descriminação do consumo de drogas no País. Usurpação, pela Suprema Corte, da prerrogativa legiferante do Parlamento brasileiro. Danos causados às famílias e à sociedade pelo consumo de drogas.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, boa tarde. Toda honra e toda glória ao Senhor dos Exércitos! Eu quero fazer uma pergunta a você que está assistindo a este meu pronunciamento. Você, mãe de família, pai de família, quer que a droga seja liberada aqui no nosso País? Você quer que o seu filho possa comprar maconha na esquina? Você quer que o seu filho possa se viciar no crack e na cocaína? Pois é, o Brasil está se encaminhando para a legalização das drogas à revelia de um debate na Câmara dos Deputados e no Senado Federal e, principalmente, à revelia de um debate com a sociedade. O Supremo Tribunal Federal se encaminha para formar maioria e descriminalizar a maconha no Brasil. Isso acontece no mesmo período em que o Executivo, por meio do Ministério da Saúde, coloca como política prioritária a legalização das drogas  Executivo e Judiciário, juntos. Aí você me pergunta: \"Não são os Deputados e os Senadores que resolvem, que decidem se a droga vai ser liberada ou não no Brasil?\" Pois é, aqui é que deve ser feito o debate, no Congresso Nacional. Essa é uma função nossa. Sr. Presidente, eu quero saber se a Presidência, se os Deputados vão permitir que a nossa competência seja usurpada, que a nossa competência seja vilipendiada, como está sendo. Isso aqui vai ter que fechar. Para que serve um Deputado Federal? Para que serve um Senador da República? Hoje, o Deputado Federal serve para três coisas: a) lacrar em rede social; b) ser administrador de emenda parlamentar; c) ser babá de Prefeito, levando em Ministério A e Ministério B, em órgão A e órgão B. Eu acho que esta Casa merece resistir, repudiar o que o Supremo Tribunal vem fazendo ao avançar sobre uma prerrogativa que é do Congresso Nacional. Esse debate deverá ser feito no Congresso Nacional e, principalmente, com a sociedade, com o pai de família, a mãe de família. Só quem tem um filho envolvido no mundo das drogas, só quem tem um filho viciado, que acaba com tudo em casa, sabe a dor que a droga traz. Era essa a nossa fala, Presidente. Espero que o Congresso possa resistir e ser magnânimo nesse debate. Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-08-23T15:16",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "QUESTÃO DE ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F8%2F2023&txPagina=79&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Questão de ordem,Reunião deliberativa,Comissão de Direitos Humanos e Minorias (CDHM),Presidente de Comissão\r\nNicarágua,Taiwan,Caribe",
+    "sumario" : "O Deputado fez duas questões de ordem durante sua fala. A primeira questão envolveu a convocação de uma reunião extraordinária deliberativa na Comissão de Direitos Humanos, Minorias e Igualdade Racial, que, segundo ele, desrespeitou as normas estabelecidas para a convocação de reuniões e inclusão de matérias na pauta das Comissões. Em sua segunda questão de ordem, o Parlamentar apontou que durante reunião da mesma comissão, foram aprovados requerimentos de autoria da deputada Erika Kokay, enquanto ela estava presidindo a reunião devido à ausência da presidente titular, a Deputada Luizianne Lins. Argumentou que isso viola o Regimento Interno da Casa e pediu que essas deliberações fossem consideradas nulas em face de vício regimental. Além disso, expressou repúdio à Nicarágua por solicitar a retirada de Taiwan do Parlamento do Caribe, considerando isso uma afronta à soberania de Taiwan.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Para uma questão de ordem. Sem revisão do orador.) - Obrigado, querido Presidente Gilberto Nascimento, meu irmão em Cristo. Deputado Boulos, parabéns pelo discurso. Cito Maxmilhas, Hotel Urbano. É um absurdo o que vêm fazendo com a população brasileira. Sr. Presidente, apresento duas questões de ordem sobre a Comissão de Direitos Humanos. Nos termos do Ato do Presidente desta Casa, o Deputado Arthur Lira, do dia 14 de abril de 2021, que regulamentou o art. 4º, § 1º, da Resolução nº 14, de 2020, para dispor sobre a convocação de reuniões das Comissões e divulgação das respectivas pautas, venho fazer a seguinte questão de ordem. A Presidente da Comissão de Direitos Humanos, Minorias e Igualdade Racial, a Deputada Luizianne Lins, convocou no dia 16 de agosto de 2023, às 15h58min, conforme o Infoleg Comunica, reunião extraordinária deliberativa para o dia seguinte, 17 de agosto de 2023, às 9 horas, no Plenário 9, no Anexo II, em desacordo com a regulamentação do art. 4º, § 1º, da Resolução nº 14, de 2020, que estabeleceu o regramento para convocação das reuniões e inclusão de matérias na pauta das Comissões, conforme se observa no Ato da Presidência nº 14, de abril de 2021: \"Art. 1º. As reuniões das Comissões deverão ser convocadas e as respectivas pautas divulgadas com antecedência mínima de 24 (vinte e quatro) horas, não podendo haver, sob pena de nulidade, qualquer alteração na pauta em prazo inferior a esse período, ressalvadas as matérias incluídas extrapauta, nos termos regimentais\". Ademais, foi aprovado pelos membros da Comissão, em consonância com o art. 51 do Regimento Interno, acordo de procedimentos para a presente sessão legislativa, no qual prevê em seu Capítulo I, art. 2º, que \"a pauta da semana será divulgada por meio eletrônico e na página da Comissão na Internet até a sexta-feira da semana anterior às reuniões\". Sendo notório que a convocação da respectiva reunião se deu em prazo inferior a 24 horas, em afronta ao ato da Presidência e ao próprio acordo de procedimentos aprovado pela Comissão, solicito que a respectiva reunião e os atos decorrentes dela sejam considerados nulos. Essa é a primeira questão de ordem, Sr. Presidente. Nós temos uma segunda questão de ordem. Tentarei ser o mais breve possível, para respeitar o tempo do nosso colega Deputado Bebeto, o próximo orador. Com base nos arts. 41, 43 e 51 do Regimento Interno desta Casa, faço a seguinte questão de ordem. No dia 28 de junho do corrente ano, durante reunião extraordinária deliberativa da Comissão de Direitos Humanos, Minorias e Igualdade Racial, foram aprovados, dentre o conjunto de proposições votadas em globo, os Requerimentos nºs 122, 126, 132, 133, de autoria da Deputada Erika Kokay. A reunião foi presidida pela Deputada Erika Kokay, que o fez no exercício da Presidência, devido à ausência da titular, a Deputada Luizianne Lins. Ainda que a Comissão tenha aprovado o acordo de procedimentos para a presente sessão legislativa, que prevê a votação em bloco dos itens da pauta, isso não afasta os impedimentos impostos pelo art. 43 do Regimento Interno, que diz: \"Nenhum Deputado poderá presidir reunião de Comissão quando se debater ou votar matéria da qual seja Autor ou Relator\". Assim, não há no Regimento Interno lastro que possa permitir ao Presidente da Comissão votar proposições das quais seja ele mesmo autor quando no exercício da função de presidir as reuniões. Quando o legislador previu a impossibilidade de autor de proposição presidir a reunião nesse caso, ele o fez para preservar a igualdade de condições entre os membros da Comissão. Dessa forma, constato o vício regimental que levou à aprovação dos requerimentos citados. Reitero que sejam consideradas nulas tais deliberações, inclusive os atos delas decorrentes, para posterior apreciação pelo colegiado, caso assim deseje a autora dos requerimentos. Tenho que agradecer, Sr. Presidente. Faço agora o registro do nosso repúdio à Nicarágua, que solicitou a retirada de Taiwan do Parlamento do Caribe. Isso é uma afronta à soberania daquela nação. Deixamos aqui registrado o repúdio a essa perseguição a Taiwan. Infelizmente vemos que essa nação, que é respeitada, está sendo perseguida em todas... (Desligamento do microfone.)"
+  }, {
+    "dataHoraInicio" : "2023-08-31T11:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F9%2F2023&txPagina=60&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Esquerda política,Grupo étnico,divisão\r\nMulta,Deputado federal,Juiz",
+    "sumario" : "O Parlamentar parabenizou o Deputado Prof. Paulo Fernando pelo discurso sobre a tentativa de divisão étnica do País pela Esquerda. Em seguida, fez referência a uma publicação em rede social da Presidenta Nacional do PT, Deputada Gleisi Hoffmann, em defesa do Deputado Glauber Braga, com ataques a uma decisão de magistrado, insurgindo-se contra o Poder Judiciário. O orador questionou a possibilidade de punição dos Deputados da Esquerda tal como tem sido punido o campo ideológico oponente por suas manifestações.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Sem revisão do orador.) - Obrigado, Sr. Presidente, querido amigo, nosso conterrâneo nordestino. O trabalho de V.Exa. é uma inspiração, Presidente Cabo Gilberto, para o meu trabalho aqui na Casa. Meu querido amigo, Deputado Prof. Paulo Fernando, parabéns pela sua fala! Todos nós brasileiros somos 100% miscigenados, 100% latino-americanos. Nada de divisão de etnia, porque isso é um absurdo. A Esquerda quer nos dividir. Sr. Presidente, Sras. e Srs. Deputados, nós estamos vendo muitos ataques ao Poder Judiciário. Nesta semana, infelizmente, vimos mais um ataque de um Deputado desta Casa que saiu em defesa de outro Deputado que tomou uma multa milionária. Esse primeiro Deputado fez um ataque ao Judiciário. Eu vou ler para V.Exas. \"Absurda a decisão do Juiz Sergio Louzada de aplicar multa impagável e retirar cada real da conta do Deputado (...)\"  fulano de tal. \"Agora só faltava esta: se criticar o Judiciário, olhe no que pode dar. Isso é abuso de poder. Força, Deputado (...)\"  fulano de tal. Com certeza, Sr. Presidente, quem proferiu esse tuíte é alguém da extrema direita, é um fascista, é um negacionista, é alguém que ataca as instituições. Quem será que proferiu esse brilhante tuíte? Olhe só, foi a Presidenta do PT, Gleisi Hoffmann, em defesa do seu companheiro Deputado Glauber, também da Esquerda, atacando o Judiciário, atacando uma decisão de um magistrado, insurgindo-se contra um Poder. Fica o questionamento, Sr. Presidente: será que vai ser aberto algum inquérito no STF? Será que eles vão ter suas redes sociais censuradas? Será que eles terão suas falas cerceadas? Será que eles serão presos? Fica o questionamento. Será que o pau que dá em chico não dá em Francisco? Francisco está rindo à toa, porque a Justiça e a lei parecem servir apenas a um lado do campo ideológico, enquanto o outro permanece impune. Muito obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-09-04T20:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2023&txPagina=96&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Bíblia\r\nItabaiana (SE),Correligionário,Câmara dos Deputados,Presença\r\nAcidente aéreo,Pai,Deputado federal,União Brasil,Sergipe,Homenagem póstuma",
+    "sumario" : "O Deputado iniciou o discurso com a citação de uma passagem bíblica do livro de Salmos, manifestando confiança em Deus. Registrou, em seguida, a presença do amigo Wagner Mendonça, da cidade de Itabaiana, Estado de Sergipe. Como tema principal, o orador homenageou a memória do seu pai, ex-Deputado Pedro Valadares, que completaria 58 anos de idade no dia 4 de setembro de 2023. Recordou que ele faleceu em acidente aéreo junto com o ex-Governador de Pernambuco, Eduardo Campos, no decorrer da campanha presidencial de 2014.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Sem revisão do orador.) - Obrigado, meu querido amigo e irmão em Cristo, Presidente Gilberto Nascimento. Sras. e Srs. Deputados, \"uns confiam em carros e outros em cavalos, mas nós confiamos no nome do Senhor, o nosso Deus\", Salmos 20:7. Sr. Presidente, primeiramente, eu gostaria de registrar a presença do meu querido amigo Wagner Mendonça, da cidade de Itabaiana, em Sergipe, que está aqui conosco fazendo uma visita a esta Casa. Ele que é irmão da Vereadora Paulinha da Saúde veio aqui conhecer um pouco do nosso Parlamento, buscar recursos para a sua cidade Itabaiana e também investimentos para a sua empresa Mundo do Real. Wagner, um grande abraço! Obrigado por estar aqui conosco. Sr. Presidente, eu confesso que, para o discurso de hoje, eu tinha programado um assunto: falar da minha cidade. Mas não posso deixar de registrar este 4 de setembro. No dia de hoje, meu pai, o ex-Deputado Pedro Valadares, completaria 58 anos. Meu pai, que foi Deputado de 1990 até o ano de 2002, travou diversos embates aqui nesta Casa, fez diversos discursos em prol do nosso povo, do povo de Sergipe, e utilizou diversas vezes esta tribuna em que estou. Eu cresci vendo seus discursos, acompanhando sua carreira. Infelizmente, naquele ano de 2014, meu pai veio a falecer no fatídico acidente com o ex-Governador e também ex-Deputado Eduardo Campos. Pai, eu sei que o senhor não está aqui, mas espero poder continuar a sua história e o seu legado e representar suas ideias aqui nesta Casa. Pedrinho Valadares vive! Toda honra e toda glória ao Senhor. Obrigado, meu Deus, por me permitir estar aqui no local que meu pai tão honrosamente ocupou para defender o povo de Sergipe e do Brasil. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-09-20T21:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F9%2F2023&txPagina=183&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Homenagem,Dia do Gaúcho\r\nCrítica,Supremo Tribunal Federal (STF),Ministra do Supremo Tribunal Federal,julgamento,legalização,descriminalização,Aborto,Usurpação de competência,Competência legislativa,Congresso Nacional,Apoio político,Manifestação pública,Defesa,Direito à vida,Nascituro,Aracaju (SE)\r\nCrítica,Pastor evangélico",
+    "sumario" : "O Deputado saudou a população do Estado do Rio Grande do Sul pelo transcurso do Dia do Gaúcho. Em seguida, afirmou que o STF perdeu o respeito pelo povo brasileiro ao pautar temas relativos às drogas e ao aborto. Com indignação, criticou a Ministra Rosa Weber por agendar o julgamento de ação sobre a descriminalização do aborto. Afirmou que a grande maioria da população do País é contra o procedimento de interromper a gravidez e que a Corte avança sobre prerrogativas do Congresso Nacional. Convidou os brasileiros a participarem da Marcha da Família Cristã, no dia 12 de outubro, para fazer a defesa das crianças e se posicionar contra o aborto. Informou sobre o local e o horário da Marcha em Aracaju, Estado de Sergipe. O orador enfatizou que o evento mostrará, nas ruas, o repúdio do povo contra a legalização do aborto.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Toda honra e toda glória ao Senhor dos Exércitos! Ao cumprimentar V.Exa., Sr. Presidente Pompeo de Mattos, eu cumprimento todo o povo gaúcho pelo seu dia, o Dia do Gaúcho. Viva o povo gaúcho, que tem tantas raízes e tradições junto ao povo brasileiro e merece o nosso respeito e a nossa reverência. Quero cumprimentar também o meu amigo Deputado Benes Leocádio, que também está à mesa, querido amigo e companheiro do nosso União Brasil e meu conterrâneo do Nordeste. Sr. Presidente, há alguns anos, eu estava numa localidade participando de uma Mesa em que um pastor muito conhecido estava, de maneira aberta, desimpedida, livre de qualquer tipo de represália, dizendo que tinha várias namoradinhas. Fiquei muito chocado com aquilo. Eu, como um servo do Senhor, fiquei muito chocado ao ver um pastor falar, de maneira tão desenfreada, sobre a sua promíscua vida amorosa. Fui perguntar ao meu bispo como pode um homem de Deus, uma pessoa que conhece a Palavra do Senhor, falar daquela maneira. Meu bispo me disse algo que ficou no meu coração: \"Rodrigo, esse pastor, provavelmente, cauterizou-se. Ele perdeu o temor, ele perdeu o respeito a Deus\". Faço agora uma analogia disso com o que vemos em nosso País. O STF cauterizou-se em relação ao povo brasileiro, perdeu totalmente o respeito, perdeu totalmente o temor. O que o STF quer levar para o nosso povo, o que o STF acha que o nosso povo precisa é de drogas e aborto. Isso nos causa revolta e indignação. A Ministra Rosa Weber, que está a um passo de se aposentar, pauta para esta sexta-feira a descriminalização do aborto, o que se traduz em assassinato em massa de crianças no ventre da mãe, um dos maiores pecados que um ser humano pode cometer. Essa descriminalização fere o povo brasileiro, os valores do povo brasileiro, que, na sua grande maioria, é contra o aborto. Ela fere inclusive as prerrogativas do Congresso Nacional, desta Casa, que, na sua grande maioria, é contra o aborto e já decidiu isso. Mas o STF cauterizou-se, perdeu o respeito e o temor e está legislando e governando o nosso País. Estaremos lutando contra esse absurdo aqui na Câmara e também nas ruas. Por isso, eu quero fazer um convite a todo o povo brasileiro. No dia 12 de outubro, Dia das Crianças, a Marcha da Família Cristã estará nas ruas em todo o Brasil. Faremos a marcha da família em defesa das nossas crianças e contra o aborto. No meu Estado, na minha cidade, Aracaju, será a partir das 9h30min, com concentração no Parque da Sementeira. O organizador é o meu querido amigo Lúcio Flávio. V.Exas. podem procurá-lo para saber mais detalhes. Vamos às ruas mostrar a indignação do povo brasileiro contra a legalização do aborto. Lembro que essa marcha, conforme disse a organização, não é partidária, não é intervencionista, não é nenhum ataque a qualquer instituição, principalmente o STF. Trataremos com respeito a instituição. Porém, mostraremos a nossa indignação, o nosso repúdio à legalização do aborto. Sr. Presidente, peço que esta fala ecoe no programa A Voz do Brasil e em todos os canais de comunicação da Câmara dos Deputados. Eu agradeço."
+  }, {
+    "dataHoraInicio" : "2023-09-26T14:40",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F9%2F2023&txPagina=51&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Escola privada,Aracaju (SE),Evento,Casamento homoafetivo,Transexual,Transexualidade,Proselitismo\r\nProjeto de lei ordinária,Proselitismo,Escola,direitos,Pais",
+    "sumario" : "O Deputado fez um alerta sobre doutrinação ideológica nas escolas, mencionando uma escola particular de Sergipe que promoveu encenações relacionadas à transexualidade. Enfatizou que não recuará diante de críticas e ataques de militantes de esquerda e anunciou que irá apresentar um projeto de lei defendendo o direito dos pais de retirarem seus filhos de escolas com doutrinação ideológica.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Sem revisão do orador.) - Toda honra e toda glória ao Senhor dos Exércitos! Muitos confiam em carros, outros, em cavalos, mas nós confiamos no nome do Senhor, o nosso Deus. Sr. Presidente, nós fizemos um vídeo e o lançamos em nossas redes sociais, com fotos públicas de uma escola particular do Estado de Sergipe, uma das mais caras de Aracaju. Num evento da escola, foram feitas encenações de casamento de transexuais e também de transexualidade. Nós lançamos esse vídeo no dia de ontem e o retiramos por um único motivo, a nossa função não é expor ninguém, muito menos os estudantes, mas, sim, fazer um alerta aos pais sobre aquilo que acontece no ambiente escolar. Veja, era uma escola particular. Imagine o que acontece nas escolas públicas, onde muitos pais, infelizmente, não têm voz. Acontece que essa nossa postagem mexeu na ferida de muita gente, de muito militante que defende a ideologia de gênero, que defende o aborto, que defende as drogas. Mexeu no vespeiro da Esquerda. Eu quero deixar um recado muito direto a você que nos está atacando. Não vai ser por militonto de esquerda, aborteiro, nem drogado, nem defensor de maconha ou de transexualidade que nós iremos recuar. Iremos fazer, sim, o debate sobre doutrinação ideológica nas escolas. Queriam dizer que estava fora do contexto, que era apenas uma homenagem a um artista. Mal sabem que o gramscismo cultural prega justamente isso, a revolução através da cultura, implantar nas nossas crianças e nos nossos jovens valores deturpados por meio da música, do teatro e das artes. E era exatamente isso o que acontecia nessa escola particular de nome CCPA. Não iremos nos curvar a dono de escola particular nem à militância LGBT. Iremos fazer, sim, esse debate. É por isso que vamos apresentar, nesta semana, aqui na Câmara, um projeto de lei para que os pais possam ter o direito de retirar o seu filho desse tipo de escola onde houver doutrinação ideológica e que vai de encontro aos valores dos pais, sem prejuízo ao aluno. Se está achando que Rodrigo Valadares vai fugir desse tema, eu quero dizer a você, militonto, que está muito enganado. Nós vamos enfrentá-lo, e os pais irão saber o que acontece nas escolas dos filhos. Toda honra e toda glória ao Senhor dos Exércitos! Sr. Presidente, peço que o meu discurso repercuta nas redes sociais e também no programa A Voz do Brasil. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-10-18T18:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F10%2F2023&txPagina=110&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Orientação de bancada,Projeto de decreto legislativo,Minoria parlamentar,Voto favorável\r\nEsquerda política,Defesa,Organização terrorista,Terrorismo,Palestina",
+    "sumario" : "O Deputado orientou a bancada na votação do Projeto de Decreto Legislativo nº 554, de 2021, que aprova o texto do acordo entre o Governo da República Federativa do Brasil e o Governo do Estado de Israel para cooperação em segurança pública, prevenção e combate ao crime organizado, firmado em Jerusalém, em 31 de março de 2019. Também expressou preocupação com a defesa do Hamas pela esquerda radical, destacando a importância de distinguir entre apoiar o povo palestino e endossar o terrorismo.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a Minoria orienta \"sim\". Nós queremos deixar aqui uma reflexão, porque essa Esquerda mais radical, e não é toda a Esquerda, tem uma autocrítica que está ficando cada dia mais feia a defesa velada ao Hamas, está ficando cada dia mais feia essa postura antissemita contra os judeus, contra o povo israelense. Eu falava hoje, pela manhã, com uma amiga minha palestina mostrando a nossa solidariedade. Defender o povo palestino, defender o povo judeu não é defender o terrorismo, não é defender o Hamas. Até a Esquerda normal, racional, está contra esse tipo de terrorismo, mas a Esquerda radical precisa fazer essa avaliação, porque está ficando feio e estão provocando nas redes sociais posicionamentos nos seus eleitores, antissemitas, inclusive, citando Adolf Hitler. Muito obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-11-22T16:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F11%2F2023&txPagina=106&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Ex-governador,Sergipe,Elogio\r\nSenado Federal,Atuação parlamentar,comprometimento",
+    "sumario" : "O Deputado prestou homenagem ao ex-Governador Albano Franco, ressaltando sua importância para Sergipe. Expressou preocupação com a situação do País e apelou ao Senado Federal para atuar em prol do Brasil.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Sem revisão do orador.) - Obrigado, Presidente. Obrigado, Deputado Bibo Nunes. Presidente, eu quero dizer que essa cadeira combinou muito com V.Exa. Parabéns! Eu quero render homenagens ao nosso eterno Governador Albano Franco. Inclusive, parabenizo o Deputado Icaro de Valmir pelo discurso que fez. Albano é um patrimônio de Sergipe. Quando chegamos a alguma cidade fora do nosso Estado e dizemos que somos de Sergipe, as pessoas logo perguntam: \"Cadê o Dr. Albano?\" Viva a memória e viva a vida do Dr. Albano, um baluarte do nosso Estado! Sra. Presidente, nós estamos acostumados a ver a estátua da Justiça com aquela venda nos olhos, mas aquela venda já foi arrancada há muito tempo. O que existe na Justiça brasileira é sangue nas mãos. Nós estamos nos expondo aqui. Colegas patriotas de direita, como os Deputados Nikolas, Gayer, Marcel van Hattem, estão se expondo, botando a cabeça de fora. Muitos já estão na lista negra e podem ser cassados a qualquer momento. Presidente, nós sabemos que, nesta Casa, não existem mecanismos para barrar os avanços do Supremo. Nesta Casa, os Deputados Federais têm mecanismos para barrar avanços da Presidência da República. Quem tem mecanismos para barrar os avanços do Supremo é o Senado Federal, é a Casa ao lado. Nós fazemos um apelo e estamos desesperados aqui porque vemos o desespero do povo brasileiro: Senado Federal, faça a sua parte e salve o Brasil! Muito obrigado, Sra. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-11-23T11:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F11%2F2023&txPagina=56&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Deputado federal,Sergipe,Prefeito,Aracaju (SE),Governo,Esquerda política,Direita política,Político",
+    "sumario" : "O Deputado parabenizou o Parlamentar sergipano Icaro de Valmir pela condução da sessão. Além disso, criticou o Governo da Esquerda em Aracaju, lamentando o atraso da capital de Sergipe em relação a cidades como Maceió, Salvador e Recife. Por fim, exaltou o político Valmir de Francisquinho e a Direita sergipana.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Sr. Presidente, quero primeiro parabenizá-lo pela condução dos trabalhos. V.Exa., que é do querido Estado de Sergipe e o Deputado mais novo do Congresso, vem orgulhando muito tanto o nosso Estado quanto a nossa querida Itabaiana. Eu venho conversando, Deputado Icaro, que preside esta sessão, com o seu pai, Valmir de Francisquinho, um dos maiores líderes da história de Sergipe, justamente sobre a necessidade de nós darmos um novo rumo à cidade de Aracaju. A cidade de Aracaju, que vem sendo há anos oprimida pelo mesmo grupo de esquerda, hoje figura, infelizmente, entre as mais atrasadas do Nordeste. Nós vemos Maceió se desenvolvendo, Salvador se desenvolvendo, Recife se desenvolvendo, e Aracaju, infelizmente, está parada no tempo. Porém, eu tenho certeza de que o nosso Deus irá usar homens de bem daquela terra, para que nós possamos libertar o nosso povo. Parabéns, Deputado Icaro, pela condução da sessão. Um grande abraço a Valmir de Francisquinho. Eu tenho certeza de que a Direita de Sergipe está viva e vai dar uma grande resposta a essa Esquerda que vem oprimindo e escravizando o nosso povo. Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-11-23T12:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F11%2F2023&txPagina=69&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Proposta de Emenda à Constituição,Senado Federal,Abuso de poder,Supremo Tribunal Federal (STF),Usurpação de competência,Decisão monocrática\r\nJornalista,Participação política,interferência,Governo federal,Imprensa\r\nJornalista,Perseguição política,Liberdade de expressão,Moção de solidariedade,Comissão de Comunicação (CCOM)",
+    "sumario" : "O Deputado destacou a aprovação da Proposta de Emenda à Constituição nº 8, de 2021, pelo Senado Federal, que limita os poderes e abusos do Supremo Tribunal Federal. Também criticou a postura da jornalista Eliane Cantanhêde após a aprovação da matéria, sugerindo interferência do Governo Federal na mídia. Expressou solidariedade à jornalista Andreza Matais e anunciou a apresentação de uma moção de solidariedade na Comissão de Comunicação.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Sem revisão do orador.) - Sr. Presidente, toda a honra e toda a glória ao Senhor dos Exércitos! Quero parabenizar nosso Estado de Sergipe, que está se fazendo presente nesta Mesa, nesta sessão. Nós estávamos aqui o Deputado Gustinho Ribeiro, o Deputado Icaro de Valmir e eu. Não nos deem muita ousadia, não! Somos de um Estado pequeno, mas, se derem ousadia a um sergipano, ele vai longe. Venho a esta tribuna para falar do tema de que o Brasil está falando: os avanços e os abusos do Supremo Tribunal Federal. Ontem foi aprovada, no Senado Federal, a PEC 8/21. Quero parabenizar o Senado Federal por ter aprovado esta PEC, que limita os poderes em decisões monocráticas e os abusos do Supremo. Esta PEC foi votada por Deputados de diferentes partidos, de diferentes linhas ideológicas, de diferentes segmentos da sociedade, o que mostra que esta não é uma pauta da Direita ou da Esquerda, do Governo ou da Oposição: é uma pauta do Brasil. O Brasil não pode mais viver sob esse desequilíbrio entre os Poderes, como vimos observando. Que pena que foi preciso chegar ao extremo! Um patriota morreu na segunda-feira, justamente pela ineficiência do nosso Estado. Em meio ao alívio que esta PEC representa para a sociedade brasileira, nós vemos mais um episódio de ataque aos Senadores que votaram a favor dela. Hoje o surrealismo brasileiro, na sua maestria, apresenta mais um episódio. A jornalista Eliane Cantanhêde mostrou que esta pauta que foi aprovada não interessava ao Governo. Aliás, um Senador do PT foi recriminado por ter votado a favor da matéria. Parece que Eliane Cantanhêde está se comportando como imprensa oficial, como alguém da Secretaria de Comunicação Social  SECOM. Este episódio faz parecer que a independência dos Poderes está rompida, e a grande mídia, muitas vezes, é utilizada como SECOM para este Governo. Quando uma pessoa, seja um influenciador, seja um Deputado, seja um Ministro, ousa criticar este Governo ou a Esquerda, essa pessoa é atacada de forma vil. Quero aqui manifestar a nossa solidariedade à jornalista do Estadão, Andreza Matais, que está sofrendo ataques vis por parte dessa Esquerda, por ter tido a ousadia de denunciar a dama do tráfico. Nós somos autores do impeachment do Ministro Silva Almeida, que pagou as passagens da dama do tráfico. Parabéns, Senado Federal! Iremos lutar pela independência da nossa comunicação. Sr. Presidente, para finalizar, ainda sobre a Andreza, vamos apresentar, na Comissão de Comunicação, na próxima semana, uma moção de solidariedade a essa jornalista corajosa. Que ela continue denunciando os desmandos desse Governo. Muito obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-12-13T17:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F12%2F2023&txPagina=154&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Vereador,Simão Dias (SE),Atuação parlamentar",
+    "sumario" : "O Deputado registrou a presença do Vereador Geraldo Macêdo de Simão Dias, elogiando seu trabalho como comunicador e destacando sua atuação parlamentar.",
+    "transcricao" : "O SR. RODRIGO VALADARES (Bloco/UNIÃO - SE. Sem revisão do orador.) - Presidente, queria aqui neste momento registrar a presença do nosso Vereador Geraldo Macêdo, de Simão Dias, a cidade da nossa família, que tanto orgulha a população simão-diense com seu belo trabalho. Ele é comunicador, é um grande radialista, e agora está dando show no Parlamento municipal. Ele está aqui fazendo o intercâmbio legislativo, por sugestão do nosso partido, o União Brasil. Tenho certeza de que levará na bagagem muitas e muitas novidades para o nosso povo querido de Simão Dias. Geraldo, é um prazer, meu irmão, estar com você aqui em Brasília nesta semana. Muito obrigado, Sr. Presidente."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/165470/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/165470/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/165470/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

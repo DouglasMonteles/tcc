@@ -1,0 +1,29 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2023-03-29T15:16",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F3%2F2023&txPagina=53&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Vereador,Presidente,Diretório municipal,Partido dos Trabalhadores (PT),Pará (Estado),Saudação\r\nDeputado federal,Atuação parlamentar,Emenda ao projeto de lei orçamentária,Recursos orçamentários,Saúde,São Miguel do Guamá (PA),Jacundá (PA)",
+    "sumario" : "Presença no plenário do Vereador Paulão e da esposa do orador, Andréa Dantas, Presidente do Diretório Municipal do PT. Destinação pelo Parlamentar de recursos para as áreas de saúde dos Municípios de São Miguel do Guamá e Jacundá, no Estado do Pará.",
+    "transcricao" : "O SR. ANTÔNIO DOIDO (Bloco/MDB - PA. Sem revisão do orador.) - Boa tarde, Sr. Presidente. Quero aqui, primeiramente, cumprimentar os meus amigos, que vieram lá do Pará, o nosso Vereador Paulão, que está aqui presente, a nossa Presidente do Diretório Municipal do PT e também a primeira Secretária da Mulher, a minha esposa Andréa Dantas. Eu queria também registrar este momento e mandar um abraço especial para São Miguel do Guamá, de onde fui Prefeito até 2020. É uma cidade a que eu destinei recentemente 4,5 milhões de reais para custeio da saúde, o que vai, com certeza, melhorar a qualidade de vida e a saúde do nosso Município. Eu também destinei mais de 3 milhões para Jacundá, para a infraestrutura e saúde. É assim que vimos conduzindo este mandato, trabalhando por todo o Estado do Pará, pelos Municípios e cuidando das pessoas. E eu vejo, Sr. Presidente, que temos de estar presentes aqui, para podermos melhorar e retomar o nosso Brasil."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220675/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220675/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220675/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

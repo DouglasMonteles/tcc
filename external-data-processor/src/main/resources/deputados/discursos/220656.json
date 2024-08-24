@@ -1,0 +1,157 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2023-03-28T19:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F3%2F2023&txPagina=130&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Requerimento (proposição legislativa),Comissão externa,Calamidade pública,Ceará,Município,Chuva,Inundação,Defesa civil,Enchente",
+    "sumario" : "Saudação à Presidenta em exercício dos trabalhos, Deputada Maria do Rosário. Pedido de criação pela Casa de Comissão Externa, para acompanhamento das ações de enfrentamento dos efeitos das chuvas em municipalidades cearenses.",
+    "transcricao" : "A SRA. FERNANDA PESSOA (UNIÃO - CE. Pela ordem. Sem revisão da oradora.) - Quero cumprimentar, neste momento em que preside a sessão, a Deputada Maria do Rosário. Quero dizer que dei entrada hoje em um requerimento para a criação de uma Comissão Externa da Câmara dos Deputados objetivando acompanhar as ações de enfrentamento ao estado de calamidade pública em Municípios do Estado do Ceará, para garantir medidas mitigadoras eficazes diante de chuvas com fortes consequências na vida social da população. Há mais de 15 Municípios passando por essa dificuldade. Era essa a solicitação do nosso requerimento. Obrigada, Deputada Maria do Rosário."
+  }, {
+    "dataHoraInicio" : "2023-05-10T14:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F5%2F2023&txPagina=33&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Advogado,Ceará,Vítima,Homicídio,Pêsames",
+    "sumario" : "Assassinato do advogado Francisco Di Angelis Duarte de Morais, no Estado do Ceará. Manifestação de solidariedade aos seus familiares. Combate à impunidade no País.",
+    "transcricao" : "A SRA. FERNANDA PESSOA (Bloco/UNIÃO - CE. Sem revisão da oradora.) - Boa tarde a todos. Gostaria de cumprimentar o nosso Presidente e os colegas Deputados. Venho a esta tribuna hoje, Sr. Presidente, para registrar, com muita tristeza, o falecimento do Dr. Francisco Di Angelis Duarte de Morais, um advogado de 41 que foi brutalmente assassinado ao chegar a sua casa. É o segundo advogado falecido nos últimos 2 meses no Ceará. Ele fazia parte do portal CN7, do grupo de comunicação do jornalista Donizete Arruda, um grande comunicador do meio político cearense. Neste momento, gostaria de externar minha solidariedade aos seus familiares, sua esposa, seus filhos e seus amigos de trabalho. É importante, neste momento, apesar de a Polícia estar investigando, não deixarmos que esse crime vá para o ranking da impunidade. São inúmeros crimes. Por isso, precisamos de políticas mais eficazes para combater esse tipo de crime. O Advogado Morais, como era conhecido, deixa um legado de muito trabalho e de muita dedicação. Era isso, Sr. Presidente. Eu gostaria que este pronunciamento fosse publicado nos Anais da Casa e também divulgado no programa A Voz do Brasil. Muito obrigada."
+  }, {
+    "dataHoraInicio" : "2023-05-16T14:52",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F5%2F2023&txPagina=42&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Ex-governador,Ceará,Aniversário de nascimento,Congratulação",
+    "sumario" : "Transcurso do 80º aniversário natalício do ex-Governador do Estado do Ceará, Lúcio Alcântara.",
+    "transcricao" : "A SRA. FERNANDA PESSOA (Bloco/UNIÃO - CE. Sem revisão da oradora.) - Sr. Presidente, cumprimento V.Exa., os demais Parlamentares e todos os presentes. Gostaria de registrar que no dia de hoje, 16 de maio, o ex-Governador do Estado do Ceará, Dr. Lúcio Alcântara, completa 80 anos de idade. O Dr. Lúcio também é médico, dedicou sua vida não só à medicina, como também à política. Homem público, de conduta ilibada, Dr. Lúcio passou pela Prefeitura de Fortaleza, foi Vice-Governador, Senador da República, entre os anos de 2003 a 2007, foi o maior líder político do Ceará enquanto Governador do Estado. Hoje, o Dr. Lúcio dedica-se ao Instituto do Câncer do Ceará  ICC, na condição de Presidente. O ICC é uma das maiores referências de tratamento de câncer do País. Eu deixo aqui os parabéns, em nome de todo o nosso grupo político, liderado pelo Prefeito Roberto Pessoa, e as minhas felicitações pessoais. O Dr. Lúcio foi e é uma inspiração para todos nós que fazemos a política acontecer. Sr. Presidente, peço a V.Exa. que a minha fala seja divulgada no programa A Voz do Brasil. Muito obrigada."
+  }, {
+    "dataHoraInicio" : "2023-06-14T17:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F6%2F2023&txPagina=87&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Festa junina,Maracanaú (CE)",
+    "sumario" : "Realização das festas juninas no Município de Maracanaú, Estado do Ceará. Convite aos Parlamentares para participação no evento.",
+    "transcricao" : "A SRA. FERNANDA PESSOA (Bloco/UNIÃO - CE. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, é com muita alegria que eu subo a esta tribuna para fazer um convite a todo o País, principalmente ao Nordeste. Quem é do Nordeste, quem é do Ceará sabe da alegria contagiante do mês de junho para o Estado, principalmente para o Município de Maracanaú, que comemora o seu décimo ano consecutivo de festejos juninos. O Município de Maracanaú é reconhecida como a Capital Junina do Estado do Ceará. Essa é a maior festa junina. Aliás, não se trata apenas de festejos, mas principalmente do aumento da renda do cidadão maracanauense. Neste ano, haverá 40 dias de festejos, com festivais de quadrilhas, cidade cenográfica, tudo que inspira cultura. Eu faço o convite a todos para participarem desse grande momento de alegria do nosso Estado, principalmente do nosso querido Município de Maracanaú. Sr. Presidente, peço que autorize a divulgação do meu pronunciamento no programa A Voz do Brasil. Muito obrigada."
+  }, {
+    "dataHoraInicio" : "2023-07-05T18:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F7%2F2023&txPagina=96&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Ex-ministro de Estado,Ministério da Agricultura (1930-1990),Falecimento,Homenagem póstuma",
+    "sumario" : "Homenagem póstuma ao ex-Ministro da Agricultura, Alysson Paulinelli.",
+    "transcricao" : "A SRA. FERNANDA PESSOA (Bloco/UNIÃO - CE. Sem revisão da oradora.) - Hoje subo à tribuna para me solidarizar com o Brasil. Faleceu, no dia 29 de junho, o ex-Ministro da Agricultura Alysson Paulinelli, em Minas Gerais. O ex-Ministro foi um dos criadores da Empresa Brasileira de Pesquisa Agropecuária  EMBRAPA e um dos responsáveis pela revolução do agronegócio do País. Além de fazer parte da Frente Parlamentar da Agropecuária, conheço de perto a importância do agronegócio para o desenvolvimento do Brasil e principalmente do Nordeste. Alysson Paulinelli foi um expoente da política nacional tão forte e reconhecido que foi indicado ao Nobel da Paz, uma das mais altas honrarias mundiais, concedida a quem propaga e trabalha em prol do bem comum. Externo aos familiares do ex-Ministro meus sinceros sentimentos, desejando que saibam que o legado deixado pelo ex-Ministro será eterno. Muito obrigada, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-08-08T20:16",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F8%2F2023&txPagina=151&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Agosto Lilás,Violência contra a mulher,Feminicídio,Ceará,Beatificação,Mulher,Artigo de periódico,Leitura",
+    "sumario" : "Realização da campanha Agosto Lilás, destinada ao enfrentamento à violência contra a mulher. Artigo No Santuário da Beata Benigna, de autoria do jornalista Barros Alves.",
+    "transcricao" : "A SRA. FERNANDA PESSOA (Bloco/UNIÃO - CE. Pela ordem. Sem revisão da oradora.) - Eu agradeço ao nobre Presidente pela gentileza. Quero dar meu cordial boa-noite a todos. Não poderia deixar, Deputada Adriana, de vir a esta tribuna falar da abertura do Agosto Lilás. Há pouco estivemos no Salão Nobre e acendemos as luzes do Congresso na coloração lilás. Isso mostra que nós, mesmo no século XXI, temos que diminuir a violência contra a mulher, que é tão grande. No meu Estado do Ceará, através da coragem de uma mulher, a Maria da Penha, é que hoje nós temos leis mais fortes em favor das nossas mulheres. O que me traz a esta tribuna também é um artigo sobre o Santuário da Menina Benigna, que foi a primeira beata do Estado do Ceará. Ela também foi vítima de um feminicídio. Diz o artigo: A vez primeira em que tomei conhecimento da existência da menina Benigna, alvo de devoção por sertanejos do Cariri cearense e adjacências, foi por intermédio de um livreto escrito pelo Padre Neri Feitosa, escritor de nomeada e profundo conhecedor da região caririense, que foi titular da paróquia de Santana do Cariri durante quatro anos. Quando ali chegou para cuidar do rebanho, sob as bênçãos da Senhora Santa Ana, padroeira da igreja local, o Padre Neri já encontrou uma devoção que teria se iniciado logo depois da morte da menina, vitimada pela lascívia doentia de um jovem de 17 anos, em 1941, quando Benigna Cardoso da Silva contava com apenas treze anos de idade. Em um momento posterior, quando já se havia iniciado o processo de beatificação da jovem, tive a grata oportunidade de ler uma biografia de autoria do professor Raimundo Sandro Cidrão, subordinada ao título Resgatando uma História de Fé: Benigna, edição de 2014. A obra me foi presenteada pelo preclaro amigo, historiador Armando Rafael, estudioso e pesquisador de temas religiosos. Trata-se de um livro com informações seguras e consistentes, porque fruto de meticulosa pesquisa e trabalho ingente do autor, que desde 1994, quando publicou trabalho resgatando a memória histórica de Santana do Cariri, se dedica ao resgate dessa personagem escolhida por Deus para a glória dos altares. Com efeito, a primeira etapa exigida pela burocracia vaticana, sob a responsabilidade da Congregação para a Causa dos Santos, rigorosa nos procedimentos canônicos para a definição de santidade de uma pessoa, foi concluída com a beatificação de Benigna, ocorrida no ano passado. Sr. Presidente, eu gostaria que ficasse registrado nos Anais da Casa esse artigo, escrito por Barros Alves, jornalista, poeta e assessor parlamentar. Era isso, Sr. Presidente. Muito obrigada."
+  }, {
+    "dataHoraInicio" : "2023-08-30T17:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F8%2F2023&txPagina=102&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Agosto Laranja,Agosto Lilás,Doença rara,Atrofia Muscular Espinhal (AME),Esclerose múltipla,Lei Maria da Penha,Violência contra a mulher,combate,Maracanaú (CE),Lavras da Mangabeira (CE),Mulher,Defesa,Campanha educativa,Campanha de saúde",
+    "sumario" : "A Deputadas destacou a importância do mês de agosto como um período de conscientização das doenças raras, como a AME e a esclerose múltipla, além de ser marcado pelo aniversário da Lei Maria da Penha. Ela enfatizou a necessidade de expandir os esforços de combate à violência contra a mulher para o interior do estado do Ceará, apontando exemplos positivos em municípios como Maracanaú e Lavras da Mangabeira.",
+    "transcricao" : "A SRA. FERNANDA PESSOA (Bloco/UNIÃO - CE. Sem revisão da oradora.) - Quero cumprimentar o nobre Presidente. Estamos finalizando, Sr. Presidente, o mês de agosto, o mês de conscientização das doenças raras como a AME e a esclerose múltipla. Agosto é conhecido como Agosto Laranja, mas também como Agosto Lilás. Câmara e Senado comemoram juntos 17 anos da Lei Maria da Penha, essa cearense que serviu de inspiração para que tanto os poderes públicos quanto a sociedade civil busquem políticas públicas mais eficazes na proteção da mulher vítima de violência. Mas, hoje, venho aqui alertar sobre a importância em se dar mais capilaridade no interior do Estado no combate à violência contra a mulher, seja através de criação de uma Secretaria da Mulher ou Procuradoria da Mulher. Alguns Municípios têm feito seu dever de casa, como o Município de Maracanaú, que foi o primeiro Município do Ceará a ter uma Secretaria totalmente voltada aos interesses da mulher. Destaco aqui também o Município de Lavras da Mangabeira, que na última sexta-feira inaugurou a Procuradoria da Mulher no Poder Legislativo. Mando aqui o meu abraço à Vereadora Jadna, que tem feito belíssimo trabalho em defesa da mulher. Não adianta, Sr. Presidente, haver nas capitais um trabalho de acolhimento, se as mulheres no interior do Estado ficam desamparadas. Muitas mulheres se calam pela falta de compromisso do poder público municipal em abraçá-las e acolhê-las. Muito obrigada."
+  }, {
+    "dataHoraInicio" : "2023-09-19T20:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F9%2F2023&txPagina=175&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Setembro Verde,Inclusão social,Pessoa com deficiência,Setembro Amarelo,Saúde mental,Suicídio,Organização Mundial da Saúde (OMS),quantitativo\r\nProjeto de lei ordinária,Pessoa com mobilidade reduzida,Pessoa com doença,Informação,Carteira Nacional de Habilitação (CNH)",
+    "sumario" : "A Deputada discorreu sobre duas campanhas importantes em curso: Setembro Verde, para a conscientização sobre a inclusão de pessoas com deficiência; Setembro Amarelo, sobre a saúde mental, especialmente para prevenção ao suicídio. Enfatizou que os números sobre a saúde mental são alarmantes, com aumento significativo da depressão e de suicídios na população brasileira. Destacou que o número de suicídios no País cresceu 43% na última década. Quanto ao Setembro Verde, enfatizou que dedica sua vida pública à causa da inclusão. A Oradora apresentou o Projeto de Lei nº 468, de 2023, para ampliar direitos às pessoas com enfermidades que são condutores de veículos.",
+    "transcricao" : "A SRA. FERNANDA PESSOA (Bloco/UNIÃO - CE. Pela ordem. Sem revisão da oradora.) - Boa noite ao nosso Presidente e a todos os Deputados aqui presentes. Estamos no mês de setembro, mês de comemorar a Independência do Brasil. Paralelamente às comemorações, o verde e o amarelo característicos brasileiros são as cores de campanhas que precisam de uma atenção toda especial de todos nós: o Setembro Verde, que destaca a conscientização da inclusão de pessoas com deficiência na sociedade, e o Setembro Amarelo, que traz a bandeira da saúde mental. Estamos colhendo, nesse exato momento, os frutos de uma pandemia que assolou todo o mundo: além de milhares de perdas devido ao vírus, o aumento significativo de pessoas que precisam de ajuda para cuidar da saúde mental  muitas delas, às vezes sem condições, entram no ranking mais triste de uma sociedade, o ranking do suicídio. Todos os números sobre a saúde mental são alarmantes, mas um chama atenção: o aumento gigantesco de idosos, crianças e jovens que são diagnosticados com depressão, e muitos deles cometem, posteriormente, o suicídio. Isso serve de alerta aos pais, familiares, educadores e profissionais de saúde. Atualmente, mais de 700 mil pessoas cometem suicídio por ano, segundo a OMS. Já aqui no nosso País a taxa do suicídio cresceu 43% na última década. Números que chocam, mas são a realidade. Também em setembro, a campanha Setembro Verde tem como objetivo conscientizar a população, dando visibilidade às pessoas com deficiência. Desde que iniciei na vida pública, dedico meu tempo à causa da inclusão. Aqui na Câmara Federal, entramos com o Projeto de Lei nº 468, de 2023, para dar mais direitos aos condutores com enfermidade, para que algumas doenças raras e crônicas possam ser identificadas na CNH e os portadores tenham o direito a usar vagas de deficiente em todo o território nacional. Setembro é verde, setembro é amarelo, e precisamos, mais do que de avanço, de uma ação, de políticas públicas voltadas ao bem maior, que é o bem-estar da população cearense, nordestina e brasileira. Muito obrigada."
+  }, {
+    "dataHoraInicio" : "2023-11-21T16:16",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F11%2F2023&txPagina=76&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Maracanaú (CE),Prefeito,Gestão fiscal,Câmara Municipal,Transparência pública,Educação",
+    "sumario" : "A Deputada celebrou as recentes conquistas de Maracanaú, no Ceará, destacando a melhoria na gestão fiscal, a excelência dos estudantes na Olimpíada de Raciocínio Lógico, a finalização no Prêmio Band Cidades Excelentes e a obtenção do Selo Ouro de transparência para a Câmara Municipal. Atribuiu os sucessos ao comprometimento fiscal do Prefeito Roberto Pessoa, parabenizando a cidade por suas realizações.",
+    "transcricao" : "A SRA. FERNANDA PESSOA (Bloco/UNIÃO - CE. Sem revisão da oradora.) - Cumprimento o nosso Presidente. Venho a esta tribuna com muita alegria, para dar boas notícias sobre o Município de Maracanaú, notícias que o Município vem protagonizando nos últimos meses. Já começo dizendo que Maracanaú tem a melhor gestão fiscal do Ceará. O Município saiu da 31ª posição estadual, no ano de 2020, para a 1º no ranking em 2023, durante a atual gestão municipal. Segundo os dados do Índice FIRJAN de Gestão Fiscal, Maracanaú é 1º lugar na gestão fiscal entre os 184 Municípios do Estado do Ceará. Trata-se do mais respeitado e complexo estudo sobre a gestão fiscal das cidades brasileiras, que existe desde 1990 e que analisou, nesta edição, 5.240 Municípios brasileiros. O IFGF/2023 se baseia em dados fiscais oficiais declarados pelas Prefeituras à Secretaria do Tesouro Nacional  STN do Governo Federal, tendo como base o ano de 2022. Outros destaques, Sr. Presidente, vêm da educação. Os estudantes da rede municipal de ensino do Município de Maracanaú conquistaram 172 medalhas na Olimpíada Brasileira de Raciocínio Lógico  OBRL. Foram 17 medalhas de ouro, 51 de prata e 104 de bronze. Nossos estudantes têm a consciência de que a educação é o melhor caminho. Maracanaú é destaque na educação, desenvolvimento socioeconômico e ordem pública, governança, eficiência fiscal e transparência no Prêmio Band Cidades Excelentes. Maracanaú foi finalista no Prêmio Band Cidades Excelentes na etapa estadual em cidades acima de 100 mil habitantes. O Município foi destaque nas categorias educação, desenvolvimento socioeconômico e ordem pública, governança, eficiência fiscal e transparência no Prêmio Band Cidades Excelentes. O objetivo é reconhecer, fomentar, incentivar a prática da gestão pública para melhorar a realidade dos 5.570 Municípios brasileiros. Por último e não menos importante, a Câmara Municipal de Maracanaú também conquistou o Selo Ouro no índice de transparência do Programa Nacional de Transparência Pública, da Associação dos Membros dos Tribunais de Contas do Brasil. Todas essas conquistas foram sob a gestão do Prefeito Roberto Pessoa, a quem eu parabenizo por seu compromisso fiscal com a saúde, educação e, melhor, com todo o povo maracanauense. Parabéns, Maracanaú! Muito obrigado, Sr. Presidente, pela tolerância. Eu gostaria que meu pronunciamento fosse divulgado no programa A Voz do Brasil. Muito obrigada."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220656/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220656/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220656/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

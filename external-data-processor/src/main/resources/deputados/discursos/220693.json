@@ -1,0 +1,29 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2023-05-03T16:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F5%2F2023&txPagina=77&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Projeto de lei ordinária,transparência,Rede social digital,Notícia falsa (fake news),Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet,Liberdade de expressão,Censura",
+    "sumario" : "Contrariedade à aprovação do Projeto de Lei nº 2.630, de 2020, a respeito da instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).",
+    "transcricao" : "A SRA. ROBERTA ROMA (PL - BA. Sem revisão da oradora.) - Sr. Presidente e demais colegas Parlamentares, recebam a minha respeitosa saudação. Existe uma qualidade que carrego comigo e que eu admiro quem a tem: a coragem. E é preciso muita coragem para peitar os absurdos que estamos vendo acontecer com frequência no nosso País. Um exemplo disso é a censura que querem imprimir ao nosso povo, tolhendo aquilo que temos de mais precioso, que é um direito constitucionalmente garantido: a liberdade de expressão. Eu falo aqui sobre o PL da censura, para o qual precisamos estar vigilantes. Imaginem que, há 3 anos, estão tentando passar esse projeto que coloca o poder nas mãos do Governo Federal de decidir o que deve ou não deve ser dito nas redes sociais, ferindo assim aquilo que nós brasileiros lutamos para conquistar, com o suor e o sangue de muitos. Vivemos em uma democracia e seus princípios são valores inegociáveis. Não podemos deixar que esses nobres valores sejam despudoradamente violados em nome de algo que pode ser uma ameaça para o Estado Democrático de Direito. É urgente e necessário aprofundar o debate e, juntos, encontrarmos um caminho possível que não seja o da censura e do cerceamento de direitos. Eu disse \"não\" ao Projeto de Lei nº 2.630, de 2020. Eu digo \"não\" à censura! Se chegamos até aqui, trilhando o virtuoso caminho de uma sociedade regida pela soberania popular, não podemos agora retroceder nessa jornada. E aqui, nobres senhores, eu não falo só por mim, eu falo por quem pisou neste Congresso Nacional, a Casa do Povo, antes de nós. Eu falo pelos baianos, os quais represento com muito amor e orgulho. Eu falo pelos brasileiros e, sobretudo, pelas nossas futuras gerações. Censurar a liberdade de expressão é punir a sociedade, condicionando-a a um único viés ideológico, é manipular os brasileiros e brasileiras, é monopolizar a informação, é tolher a nossa liberdade e assumir o controle da opinião pública. E isso não cabe em uma democracia. Portanto, como representante desta Casa, legitimada pelo povo, eu assumo o compromisso de lutar e me opor, de forma firme, coesa e responsável, a qualquer propósito de depor a garantia da livre expressão da nossa gente. Respeito não é um favor ou uma prerrogativa. Respeito é um direito conquistado e abonado ao cidadão brasileiro. E é, com essa coragem, que assumi um compromisso com os baianos, e, com a verdade que trago como alicerce em minha atuação parlamentar, que subo a esta tribuna hoje para defender a legitimidade desse respeito à nossa liberdade. Para encerrar este pronunciamento, cito Voltaire: \"Posso não concordar com o que você diz, mas defenderei até a morte o seu direito de dizê-lo\". Muito obrigada a todos."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220693/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220693/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220693/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

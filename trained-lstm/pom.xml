@@ -67,7 +67,6 @@
             <artifactId>deeplearning4j-core</artifactId>
             <version>${dl4j-master.version}</version>
         </dependency>
-        <!-- OK até aqui -->
 
         <dependency>
             <groupId>org.deeplearning4j</groupId>
@@ -87,7 +86,6 @@
             <!--      </exclusions>-->
         </dependency>
 
-
         <dependency>
             <groupId>org.deeplearning4j</groupId>
             <artifactId>deeplearning4j-zoo</artifactId>
@@ -100,23 +98,27 @@
             <artifactId>deeplearning4j-parallel-wrapper</artifactId>
             <version>${dl4j-master.version}</version>
         </dependency>
+
         <!-- Used in the feedforward/classification/MLP* and feedforward/regression/RegressionMathFunctions example -->
         <dependency>
             <groupId>jfree</groupId>
             <artifactId>jfreechart</artifactId>
             <version>${jfreechart.version}</version>
         </dependency>
+
         <dependency>
             <groupId>org.jfree</groupId>
             <artifactId>jcommon</artifactId>
             <version>${jcommon.version}</version>
         </dependency>
+
         <!-- Used for downloading data in some of the examples -->
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
             <version>4.3.5</version>
         </dependency>
+
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>

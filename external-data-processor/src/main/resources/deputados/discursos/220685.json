@@ -1,0 +1,77 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2023-03-29T20:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F3%2F2023&txPagina=160&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Saudação,Prefeito,Dois Vizinhos (PR),Marcha a Brasília em Defesa dos Municípios,Aeroporto,Cruzeiro do Iguaçu (PR),Deputado federal,Cooperação política,Atuação parlamentar",
+    "sumario" : "Presença no plenário do Prefeito Luis Carlos Turatto, do Município de Dois Vizinhos, Estado do Paraná.",
+    "transcricao" : "O SR. PAULO LITRO (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Quero apenas fazer o registro da presença do Prefeito do Município de Dois Vizinhos, a minha cidade. É um Município com 50 mil habitantes, conhecido como a capital nacional do frango. Ele veio até para participar da Marcha dos Prefeitos. Tivemos algumas audiências em Ministérios, inclusive tratando sobre a reativação do aeroporto do Município de Cruzeiro do Iguaçu, na Secretaria de Aviação Civil. Está aqui para trazer as demandas do Município de Dois Vizinhos e também traz um abraço carinhoso do Município a este Congresso Nacional. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-08-22T14:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F8%2F2023&txPagina=60&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Itaipu Binacional,Foz do Iguaçu (PR),Caixa Econômica Federal (CEF),Contrato,Paraná,Mato Grosso do Sul,Saneamento ambiental,Fonte alternativa de energia,Manejo ecológico,recursos",
+    "sumario" : "O Deputado fez um registro sobre sua participação no evento Itaipu Mais que Energia, ocorrido em Foz do Iguaçu, Estado do Paraná. O evento reuniu líderes dos do Paraná e Mato Grosso do Sul, momento em que se formalizou contrato entre a empresa Itaipu Binacional e a Caixa Econômica Federal. O contrato destinará cerca de R$ 1 bilhão para 399 municípios do Paraná e 35 municípios do Mato Grosso do Sul. O valor será usado para realizar obras sociais, comunitárias e de infraestrutura, com destaque para saneamento ambiental, energia renovável e manejo de água e solo. O Deputado também destacou o patrocínio da Itaipu Binacional à realização da feira Expovizinhos em Dois Vizinhos, Estado do Paraná. Litro agradeceu aos diretores da empresa pelo empenho nas ações direcionadas aos municípios agraciados com recursos.",
+    "transcricao" : "O SR. PAULO LITRO (Bloco/PSD - PR. Sem revisão do orador.) - Presidente, apenas quero registrar que, na última sexta-feira, eu estive no Município de Foz do Iguaçu, participando do grandioso evento Itaipu Mais que Energia, que foi feito com inúmeras lideranças do Estado do Paraná e de Mato Grosso do Sul. Lá foi formalizado o contrato da Itaipu com a Caixa Econômica Federal, que vai repassar quase 1 bilhão de reais para 399 Municípios do Estado do Paraná e mais 35 Municípios do Mato Grosso do Sul. Trata-se de obras sociais, comunitárias e de infraestrutura, que serão feitas para saneamento ambiental, energia renovável, manejo de água e solo. Na oportunidade, nós tivemos a confirmação do patrocínio da Itaipu no valor de 100 mil reais para a Expovizinhos, uma grande feira que é realizada no Município de Dois Vizinhos, uma das maiores do sudoeste do Paraná. Eu quero agradecer, de forma especial, o Diretor-Geral Enio Verri, os Diretores Iggor, Delazari, André Pepitone e Carboni, que tem relação com os Municípios. Era o que tinha a dizer, Presidente. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-10-31T17:52",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F11%2F2023&txPagina=109&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Enchente,Inundação,Paraná,Chuva",
+    "sumario" : "O Deputado abordou as recentes chuvas no Paraná, afetando 57 municípios e mais de 36 mil pessoas. Elogiou a atuação da Defesa Civil do Estado. Fez especial menção ao seu próprio município, Dois Vizinhos, que enfrentou a pior enchente de sua história, deixando famílias desabrigadas. Agradeceu o compromisso do Governador Ratinho Júnior e ressaltou que obteve o comprometimento do Ministro de Estado do Desenvolvimento Social e do Secretário Nacional de Defesa Civil, em fornecer ajuda humanitária e apoio na reconstrução para os Municípios atingidos no Paraná.",
+    "transcricao" : "O SR. PAULO LITRO (Bloco/PSD - PR. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, o que me traz à tribuna na tarde de hoje são as chuvas frequentes que o Paraná tem enfrentado nos últimos dias, causando alagamentos e danificações em diversos imóveis dos Municípios paranaenses. Cinquenta e sete Municípios foram atingidos, com mais de 36 mil pessoas afetadas diretamente. As regiões mais afetadas no nosso Estado foram as regiões do sudoeste do Paraná, a região central do Estado e as regiões dos Campos Gerais e Norte Pioneiro, essas duas últimas com chuva de granizo e até mesmo com tornado no Município de São José da Boa Vista. Quero aqui destacar e parabenizar o trabalho da Defesa Civil do Estado do Paraná, que esteve e está presente em todos os Municípios afetados por essas fortes chuvas, com auxílio humanitário, kit de limpeza, kit de higiene, cestas básicas etc. Aqui faço destaque ao Município do qual faço parte, onde cresci, o Município de Dois Vizinhos, que teve a pior enchente da sua história, que afetou diversos imóveis. Famílias ficaram desabrigadas, dormindo em ginásios em função de suas casas ficarem inviáveis para uso. E a Prefeitura Municipal realiza um excelente trabalho, juntamente com o Governo do Estado. O Governador Ratinho Júnior esteve em Dois Vizinhos na tarde de ontem para fazer as verificações e se comprometeu a ajudar o nosso Município e todos os Municípios afetados por essa catástrofe. Também quero destacar aqui que hoje estivemos no Ministério do Desenvolvimento Regional. Falamos com o Ministro Waldez Góes, com o Secretário Nacional de Defesa Civil, o Sr. Wolnei, e eles também se comprometem a ajudar os Municípios afetados no Estado do Paraná com ajuda humanitária e também na sua restruturação. Diversos Municípios perderam pontes, bueiros, galerias, e necessitam de atenção e apoio do Governo Federal e do Governo do Estado para a sua restruturação. Obrigado, Presidente."
+  }, {
+    "dataHoraInicio" : "2023-12-12T15:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F12%2F2023&txPagina=72&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Pediatria,Hospital,construção,Curitiba (PR),Investimento,Governo estadual,Bancada estadual,Itaipu Binacional,Assembleia Legislativa,Paraná",
+    "sumario" : "O Deputado mencionou investimentos para a construção do novo Hospital Pequeno Príncipe Norte em Curitiba, com participação da bancada federal paranaense, da Itaipu Binacional, do Governo Estadual e da Assembleia Legislativa. O Hospital foi eleito um dos melhores hospitais pediátricos do mundo pela revista americana Newsweek. O Deputado destacou a importância do investimento para a melhoria dos serviços de saúde no Estado e a relevância do Hospital em seu compromisso com a excelência no atendimento pediátrico.",
+    "transcricao" : "O SR. PAULO LITRO (Bloco/PSD - PR. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu quero registrar que, na manhã de ontem, nós participamos no Palácio Iguaçu de um evento com o Governador Ratinho Junior, que confirma o investimento de 70 milhões de reais para a construção do novo Hospital Pequeno Príncipe Norte, no Bairro Bacacheri, no Município de Curitiba. Desses 70 milhões de reais, 15 milhões de reais estão vindo da bancada federal paranaense, 15 milhões de reais da Itaipu Binacional, 20 milhões de reais do Governo do Estado e 20 milhões de reais da Assembleia Legislativa. O Hospital Pequeno Príncipe foi eleito em 2023 um dos melhores hospitais pediátricos do mundo pelo ranking da revista americana Newsweek, uma importante conquista para o nosso Estado. Obrigado, Presidente."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220685/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220685/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220685/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

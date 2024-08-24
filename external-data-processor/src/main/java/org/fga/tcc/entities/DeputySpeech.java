@@ -29,6 +29,9 @@ public class DeputySpeech {
     @JsonProperty("urlTexto")
     private String textUrl;
 
+    @JsonProperty("sumario")
+    private String summary;
+
     @JsonProperty("transcricao")
     private String transcription;
 

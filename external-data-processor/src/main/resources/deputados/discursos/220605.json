@@ -1,0 +1,93 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2014-04-02T12:09",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/35655",
+    "faseEvento" : {
+      "titulo" : "Comissão Geral",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "EXPOSIÇÃO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F4%2F2014&txPagina=39&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "COMISSÃO GERAL, DEBATE, PROGRAMA DE FORTALECIMENTO DOS ESPORTES OLÍMPICOS (PROFORTE),  AVALIAÇÃO, INVESTIMENTO, ESPORTE OLÍMPICO, DEFESA.",
+    "sumario" : "Debate do Programa de Fortalecimento dos Esportes Olímpicos no Brasil - PROFORTE.",
+    "transcricao" : "O SR. EDUARDO CARVALHO BANDEIRA DE MELLO - Bom dia a todos!\r\nSr. Presidente, Sras. e Srs. Deputados, presidentes e dirigentes de clubes aqui presentes, faço uma especial saudação ao Presidente Márcio Braga, que está nesta briga pela moralização e reestruturação do futebol brasileiro, já há algumas décadas. Embora ele esteja aqui presente até em condições precárias de saúde, tenho certeza de que, quando ganharmos essa briga, será uma vitória dele também.\r\n\tEu gostaria de dizer aos senhores que estou muito feliz de estar aqui hoje participando de um processo que vai nos levar à criação de um instrumento de moralização do futebol brasileiro para um novo padrão de governança. É um instrumento também de recuperação financeira dos clubes brasileiros e talvez um principal instrumento que vai permitir a recuperação de crédito da Fazenda Nacional, que vem tendo dificuldade de se recuperar ao longo de muitos anos. Eu tenho experiência de estar do outro lado do balcão, passei mais de 3 décadas trabalhando numa empresa pública e sei exatamente da responsabilidade do gestor público na hora de aprovar um instrumento como este.\r\n\tTenho participado dessas discussões desde o início, desde quando começaram a ser colocadas. Eu já participei de algumas audiências da Comissão de Esporte da Câmara dos Deputados. Com muita honra, faço parte da Comissão Especial dos Clubes de Futebol Brasileiros, que tem a liderança do Wilson, para tentar definir qual seria o formato desse instrumento.\r\n\tÉ com muita satisfação que estou vendo que hoje estamos chegando a um formato de projeto de lei que consagra exatamente o que eu estava imaginando desde o início. Então, é um projeto simples, foca em alguns pontos limitados, porém extremamente importantes. E é inevitável a comparação do projeto, que se chamava PROFORTE e que agora certamente vai ter outro nome mais focado na questão da responsabilidade, com a Lei de Responsabilidade Fiscal, que daqui a 1 mês vai completar 14 anos, que acho foi um marco no processo de reestruturação das finanças públicas do País.\r\n\tDesde que o projeto foi apresentado como um projeto de reestruturação, eu entendi que o ponto principal dele era a mudança do padrão de governança, era a moralização do futebol brasileiro, o compromisso e a ideia de assegurar que, daqui para frente, os clubes não mais atrasariam impostos, não mais atrasariam seus compromissos a serviço da dívida, nem atrasariam seus compromissos com os jogadores e com seus funcionários. Esse para mim é o ponto fundamental do projeto.\r\n\tPara que os clubes possam se adequar a essa realidade é que está sendo proposto o parcelamento da dívida. A Lei de Responsabilidade Fiscal, quando foi criada, no ano de 2000, também veio acompanhada de um processo de reestruturação da dívida dos Municípios brasileiros, dos entes da Federação de uma maneira geral, mas principalmente dos Municípios, e de um programa de modernização de financiamentos da administração tributária da gestão dos setores sociais básicos do BNDES.\r\n\tEntão, até os Municípios, quando foram, talvez, \"penalizados\", entre aspas, cobrados a um novo padrão de governança, pela Lei de Responsabilidade Fiscal, também eles tiveram, acompanhando todo esse processo, um refinanciamento de dívida e um programa especial para a modernização de suas estruturas. Então, nada mais justo que isso aconteça também nesse caso aqui dos clubes brasileiros.\r\n\tNão vou me alongar. Gostaria só de registrar o excelente trabalho que o Deputado Otavio Leite está fazendo, no sentido de simplificar o projeto e focar esse instrumento exatamente naquilo que ele deve ser.\r\n\tMuito obrigado.\r\n\tO SR. PRESIDENTE (Deputado Jovair Arantes) - Quero agradecer a fala ao Presidente do Clube de Regatas do Flamengo."
+  }, {
+    "dataHoraInicio" : "2018-05-29T11:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/52845",
+    "faseEvento" : {
+      "titulo" : "Comissão Geral",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "COMISSÃO GERAL",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2018&txPagina=29&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "COMISSÃO GERAL, DEBATE, PREÇO, COMBUSTÍVEL, BRASIL.",
+    "sumario" : "Comissão Geral para debate dos preços de combustíveis no Brasil.",
+    "transcricao" : "O SR. SÉRGIO BANDEIRA DE MELLO - Bom dia a todos. Cumprimento a todos, na pessoa do Presidente Rodrigo Maia. Agradeço a oportunidade de estar aqui representando os distribuidores de gás liquefeito de petróleo, o conhecido gás de botijão.\r\n\tQueria primeiro salientar que nós temos hoje no Brasil uma distribuição que alcança 100% dos Municípios. São 35 milhões de botijões distribuídos mensalmente, numa logística de cerca de 12 a 14 botijões entregues por segundo porta a porta no Brasil.\r\n\tCom relação à crise que nós vivemos, eu queria primeiro ressaltar os pontos que o Sindicato Nacional das Empresas Distribuidoras de Gás Liquefeito de Petróleo - SINDIGÁS acredita que nós devemos evitar. Devemos evitar soluções simples e rápidas e apontar culpados - não existem culpados. Na verdade, existe um problema de preço internacional e de variação do dólar que foge ao nosso controle. Também devemos evitar o congelamento de preços ou qualquer outro mecanismo de controle, o que já tanto distorceu nossa economia no passado.\r\n\tPrecisamos colocar um pouco mais de crença na atividade da ANP e do CADE, no que diz respeito à fiscalização do comportamento da cadeia de distribuição e de revenda. Somos 22 distribuidores de GLP no Brasil e 70 mil postos revendedores espalhados em todo o território nacional.\r\n\tCom relação à questão de preço, eu queria fazer coro com Décio Oddone, Diretor-Geral da Agência Nacional de Petróleo. No caso do GLP, na nossa visão, diferentemente do caso dos outros combustíveis que estamos aqui discutindo, é necessário focarmos em incentivo de uso às famílias menos favorecidas. É antipático dizer, mas o preço do botijão de 13 quilos a 65 reais, 68 reais, em média, segundo pesquisa de monitoramento de preço da ANP, não está caro - está caro, sim, para as classes sociais menos favorecidas.\r\nSe nós estendemos de forma generalizada um subsídio ao GLP, nós vamos desperdiçar recursos públicos, quando, na verdade, poderíamos fazer um trabalho focalizado através da inserção de alguma verba adicional ao sistema do Bolsa Família e chegar aos menos favorecidos.\r\n\tIsso é o que eu gostaria de colocar aqui hoje. Quero deixar claro que nós estamos atentos à situação de greve, estamos atentos à situação pela qual estamos passando. Estamos recebendo apoio do Ministério de Minas e Energia, da ANP, das forças militares e dos próprios grevistas, que estão colaborando com a passagem desse produto tão essencial.\r\n\tVamos trabalhar arduamente em prol de uma solução e vamos superar esse problema em breve. Espero sinceramente construirmos uma agenda de favorecimento aos que efetivamente necessitam, não com subsídios, mas com incentivos aos menos favorecidos. \r\n\tMuito obrigado, Sr. Presidente.\r\n\tO SR. PRESIDENTE (Deputado Rodrigo Maia) - Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-03-22T18:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PARECER",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F3%2F2023&txPagina=129&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Parecer do relator,Emenda,Senado Federal,Projeto de lei ordinária,Consumo sustentável,Água",
+    "sumario" : "Emissão de parecer às Emendas de nºs 1 e 2 do Senado Federal ao Projeto de Lei nº 2.419, de 2021, sobre a instituição da Semana Nacional do Uso Consciente da Água.",
+    "transcricao" : "O SR. BANDEIRA DE MELLO (PSB - RJ. Para proferir parecer. Sem revisão do orador.) - Obrigado, Sr. Presidente. Vou ler rapidamente o parecer e passar ao voto. \"I - Relatório O Projeto de Lei nº 2.419, de 2021, de autoria do Sr. Deputado Luciano Ducci, meu colega do PSB, foi aprovado pela Câmara dos Deputados e enviado à revisão do Senado Federal. Naquela Casa, recebeu duas emendas de mérito. A Emenda nº 1 acrescenta o parágrafo único ao art. 2º do projeto para dispor sobre a atenção especial durante a Semana Nacional do Uso Consciente da Água para a realização de debates públicos dedicados ao estímulo, à criação e à divulgação de políticas públicas que busquem promover o uso racional da água. A Emenda nº 2 suprime o art. 3º do projeto de lei, para eliminar a inclusão da Semana Nacional do Uso Consciente da Água do calendário escolar anual de escolas públicas e privadas. Em 2 de julho de 2021, a proposição retornou à apreciação desta Casa, que deverá se manifestar exclusivamente sobre as emendas aprovadas. Em 6 de julho 2021, a Mesa Diretora determinou a distribuição da matéria às Comissões de Educação; de Meio Ambiente e Desenvolvimento Sustentável; e de Constituição e Justiça e de Cidadania. Na Comissão de Educação, designado Relator o Deputado Luiz Lima, foi aprovado parecer pela aprovação das Emendas nºs 1 e 2 do Senado Federal. A Comissão de Meio Ambiente e Desenvolvimento Sustentável aprovou parecer da Relatora Deputada Carla Zambelli, que acolheu as duas emendas do Senado Federal. A matéria tramita em regime de urgência, estando pronta para a apreciação do Plenário, pendente de parecer da competente Comissão de Constituição e Justiça e de Cidadania. É o relatório. II  Voto do Relator Inicialmente, importante ressaltar que o Projeto de Lei nº 2.419, de 2021, ora em análise, chega ao Plenário desta Casa no mesmo dia em que comemoramos o Dia Mundial da Água, instituído pela Organização das Nações Unidas durante a Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento, realizada no Rio de Janeiro em 22 de março de 1992. O objetivo é celebrar anualmente a importância do uso sustentável e conhecer mais sobre a problemática desse recurso crucial para alcançar objetivos sociais, econômicos e ambientais de todos os países, notadamente no contexto de crise global de água e saneamento. As emendas do Senado Federal promovem aperfeiçoamento relevante para priorizar debates públicos que gerem alternativas factíveis de serem implementadas e executadas em todos os âmbitos de governo, por meio de políticas públicas efetivas. Observa-se que a intenção de assegurar a disponibilidade e a gestão sustentável da água e do saneamento para todas e todos está contemplada entre os Objetivos de Desenvolvimento Sustentável  ODS, da Agenda 2030 das Nações Unidas para o Desenvolvimento Sustentável, e trata-se de compromisso assumido pelo Brasil, que, a despeito de ser provido com a maior quantidade de água doce do mundo, sofre com a falta de água em grande parte do seu território. A instituição da Semana Nacional do Uso Consciente da Água é medida relevantíssima e premente diante dos alertas de que o Brasil já se encontra em situação de crise hídrica. Entre março e maio de 2021, registrou-se no centro-sul  região mais populosa do País  uma redução de 267 quilômetros cúbicos no volume total de água existente em rios, lagos, solo e aquíferos em relação à média dos últimos 20 anos. Por essa razão, é louvável a iniciativa do nobre Deputado Luciano Ducci, companheiro na bancada do PSB, a quem cumprimento pela sensibilidade de se dedicar à aprovação desta matéria, que se insere no rol dos grandes desafios nacionais a serem enfrentados pelos poderes públicos. Dito isso, cumpre-nos emitir parecer pela competente Comissão de Constituição e Justiça e de Cidadania, acerca da constitucionalidade, juridicidade e técnica legislativa das Emendas nºs 1 e 2 do Senado Federal, nos termos em que estabelece o art. 54 do Regimento Interno da Câmara dos Deputados. A respeito disso, verificamos que as emendas do Senado Federal não apresentam vícios constitucionais que possam obstar a regular tramitação da proposição. Pelo contrário, guardam consonância com a competência da União de proteger o meio ambiente e legislar sobre matérias que versem sobre educação, incluídas as medidas de conscientização que possam fomentar o estímulo à aquisição e à disseminação de conhecimento pelos cidadãos. O pressuposto da juridicidade encontra-se preenchido, não se vislumbrando qualquer violação aos princípios do ordenamento jurídico pátrio. Quanto à técnica legislativa, entendemos que ambas as emendas guardam consonância com os comandos da Lei Complementar nº 95, de 1998, que dispõe sobre a elaboração, redação, alteração e consolidação das leis. III  Conclusão Diante do exposto, pela Comissão de Constituição e Justiça e de Cidadania, votamos pela constitucionalidade, juridicidade e boa técnica legislativa das Emendas nºs 1 e 2 do Senado Federal.\""
+  }, {
+    "dataHoraInicio" : "2023-05-23T20:48",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2023&txPagina=163&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Jogador de futebol,Brasileiro,Racismo,Espanha,Torcida,Moção de repúdio",
+    "sumario" : "Orientação de bancada na votação de requerimento de moção de repúdio aos atos racistas praticados contra o jogador de futebol Vinícius Júnior na Espanha.",
+    "transcricao" : "O SR. BANDEIRA DE MELLO (Bloco/PSB - RJ. Pela ordem. Sem revisão do orador.) - Presidente, eu gostaria de elogiar essas manifestações e de me associar a todas elas. Cito o discurso do Deputado Danilo Forte. Hoje de manhã, na Subcomissão da Modernização do Futebol, presidida pelo meu amigo Deputado Renildo Calheiros, nós fizemos uma homenagem também ao Vinicius Júnior. E eu tive o privilégio de lê-la, até porque conheço esse menino desde os 12 anos de idade. Quando eu cheguei à Presidência do Flamengo, em 2013, ele tinha 12 anos de idade. Era esse mesmo menino alegre, com esse sorriso que exibe a cada vez que faz um gol decisivo na Champions League, na La Liga, no Mundial de Clubes, na Copa do Mundo. Então, quando ouvi aquela manifestação vergonhosa no fim de semana, eu senti muita tristeza, mas senti muito orgulho também de ver a atitude daquele menino diante das injustiças. Ele está se posicionando como um herói do povo brasileiro. Muito obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-08-24T12:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "ENCAMINHAMENTO DE VOTAÇÃO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F8%2F2023&txPagina=91&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Encaminhamento de votação,Requerimento de urgência,Projeto de lei ordinária,favorável",
+    "sumario" : "O Deputado encaminhou favoravelmente à votação do Requerimento de Urgência nº 2.111, de 2023, para votação do Projeto de Lei nº 3.163, de 2023, que altera o inciso IV do Artigo 60 da Lei nº 14.597, de 14 de junho de 2023, para determinar, nos processos eleitorais das organizações esportivas, sistema de recolhimento de votos imunes a fraude, assegurada a votação não presencial. O Parlamentar destacou uma correção no texto, enfatizando que essa votação poderá ocorrer de várias formas, conforme definido pelas organizações.",
+    "transcricao" : "O SR. BANDEIRA DE MELLO (Bloco/PSB - RJ. Sem revisão do orador.) - Presidente, esse projeto de lei visa aumentar a isonomia e assegurar a igualdade de condições nos processos seletivos dos clubes e associações. A Lei Geral do Esporte saiu, a meu ver, com um erro quando diz ser admitida a votação não presencial. Você não precisa de lei para admitir nada! Então, estamos trocando a expressão por \"assegurada a votação não presencial\", a qual pode se dar por diversas formas  por carta, por e-mail, por mecanismos de urnas eletrônicas , o que vai ser definido pelas organizações. Então, o encaminhamento é \"sim\". Obrigado, Sr. Presidente."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220605/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220605/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220605/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

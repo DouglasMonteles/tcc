@@ -1,0 +1,29 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2023-02-08T15:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F2%2F2023&txPagina=58&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Deputado federal,Liderança parlamentar,agradecimento,Republicanos (partido político)",
+    "sumario" : "Congratulações ao Republicanos e ao seu Presidente, Deputado Marcos Pereira",
+    "transcricao" : "O SR. LUIS CARLOS GOMES (Bloco/REPUBLICANOS - RJ. Sem revisão do orador.) - Não preciso de muito tempo, Presidente Marcos Pereira. Eu quero agradecer à sua Liderança e ao Republicanos, que tem feito um trabalho consistente em todo o País. Hoje nós fazemos parte desse partido bem sólido, que vai ajudar muito o Brasil neste mandato. Obrigado, Presidente Marcos, mais uma vez."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/222429/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/222429/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/222429/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}

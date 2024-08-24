@@ -11,4 +11,6 @@ public interface DeputyService {
 
     List<DeputySpeech> getDeputySpeech(Integer deputeId);
 
+    void savePureData();
+
 }

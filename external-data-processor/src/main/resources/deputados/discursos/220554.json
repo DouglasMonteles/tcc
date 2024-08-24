@@ -1,0 +1,605 @@
+{
+  "dados" : [ {
+    "dataHoraInicio" : "2023-02-07T17:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F2%2F2023&txPagina=68&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Deputado federal,Atuação parlamentar pregressa,Atuação parlamentar,Defesa,Democracia,População,Rio Grande do Sul,Apoio político,Presidente da República",
+    "sumario" : "Compromisso do orador com a realização de um mandato democrático e participativo, em defesa dos interesses nacionais e do povo gaúcho.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, em meu primeiro pronunciamento nesta Casa Legislativa, quero manifestar a honra de estar aqui representando o povo do Estado do Rio Grande do Sul, especialmente o da metade sul do Estado e do Município de Rio Grande, onde nasci, constitui família e atuei como advogado. Além disso, tive a satisfação de ter sido Vereador e Prefeito do Município de Rio Grande e Deputado Estadual na Assembleia Legislativa gaúcha. Foram mandatos pautados no interesse coletivo e no cuidado com a população trabalhadora, que mais necessita das políticas públicas. Nesta Casa, defenderei os princípios republicanos e democráticos que orientaram a minha vida pública e que estão presentes nos compromissos que firmei com a população gaúcha nas eleições de 2022. Realizarei um mandato democrático e participativo, em que os gaúchos e as gaúchas se sintam ouvidos e tenham em nosso mandato uma voz ativa no Congresso Nacional, um mandato que promova a escuta ativa e o diálogo transparente como métodos de trabalho, incluindo e respeitando as pessoas. Estaremos ao lado do Presidente Lula na tarefa de unificar e reconstruir a Nação. É preciso deixar para trás o passado recente de destruição das políticas públicas e de ataque aos direitos humanos e resgatar os princípios que orientam a Carta Constitucional de 1988. Nosso mandato defenderá a geração de empregos e o crescimento da renda das famílias, o fortalecimento da indústria naval, a reindustrialização do País, a atualização e a ampliação dos direitos trabalhistas e será um mandato que atuará firme no combate à fome, a maior chaga da Nação. Queremos desenvolvimento econômico sustentável que combine a geração de emprego e renda com a preservação dos nossos biomas e a proteção dos povos indígenas. Nosso mandato defenderá ainda a educação, a saúde e a cultura, as reformas urbana e rural, o direito à moradia e ao saneamento ambiental, a promoção e proteção dos direitos humanos e o fim das violências que desumanizam comunidades inteiras e ceifam vidas. Nosso mandato defenderá a democracia e a liberdade, uma democracia substantiva, capaz de garantir os direitos fundamentais da cidadania, alicerces de uma vida verdadeiramente plena e livre. Peço o registro do meu pronunciamento no programa A Voz do Brasil. Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-02-07T18:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F2%2F2023&txPagina=104&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Orientação de bancada,Projeto de decreto legislativo,Partido dos Trabalhadores (PT),Voto favorável\r\nPopulação indígena,Rondônia,Genocídio\r\nCartão de Pagamento do Governo Federal (CPGF),Ex-presidente da República,Partido Liberal (PL)",
+    "sumario" : "Orientação de bancada na votação do Projeto de Decreto Legislativo nº 776, de 2021, acerca da aprovação do texto do Tratado entre a República Federativa do Brasil e a Romênia sobre Auxílio Jurídico Mútuo em Matéria Penal, assinado em Brasília, em 13 de junho de 2017. Ocorrência de escândalos de corrupção no Governo Jair Bolsonaro. Inexistência de pendências judiciais contra o Presidente Luiz Inácio Lula da Silva.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Orientamos pela aprovação do projeto. Ao mesmo tempo, aproveito para dizer que escândalo é o conluio entre setores do Judiciário e Ministério Público que nós vimos; escândalo é o cartão corporativo ser usado da forma como foi pelo Governo passado; escândalo é o genocídio dos ianomâmis em Rondônia da forma como ocorre hoje. Hoje não existe qualquer demanda tramitando contra o Presidente Lula. Ele está absolvido pela Justiça brasileira. Então, não concordamos com as manifestações e orientamos pela aprovação."
+  }, {
+    "dataHoraInicio" : "2023-02-07T19:04",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "DISCUSSÃO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F2%2F2023&txPagina=110&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Discussão,Projeto de decreto legislativo,favorável\r\nPresidente da República,Política pública,combate,Fome,Investimento,Construção naval",
+    "sumario" : "Discussão do Projeto de Decreto Legislativo nº 930, de 2021, sobre aprovação do texto do Acordo entre a República Federativa do Brasil e a República do Peru para Facilitação do Trânsito de Veículos de uso Particular, assinado em Lima, em 11 de dezembro de 2009. Retomada de políticas públicas pelo Governo Luiz Inácio Lula da Silva, especialmente às destinadas à geração de emprego e renda e ao combate à fome. Anúncio pelo Governo Federal da retomada de investimentos o setor naval",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, nós vamos na mesma linha da aprovação do projeto pelo fato de que, independentemente do momento da história em que foi apresentado, o seu conteúdo, do nosso ponto de vista, merece a aprovação. Trata-se da relação entre Brasil e Peru, um regramento que é de interesse dos nossos povos. Agora, aproveito esta oportunidade para dizer que nós temos um Presidente eleito pela vontade da maioria do povo brasileiro. Nós temos um Presidente que vai, através da retomada de políticas públicas, reverter o cenário de fome, de miséria, de desemprego e de desesperança que o povo brasileiro viveu ao longo dos últimos 4 anos. E o povo deu esse recado nas urnas, muito embora o Governo passado tenha feito uso da máquina pública no processo eleitoral como jamais se viu na história da República brasileira. Esse é o recado que nós damos. Dizemos \"sim\" ao projeto. Vamos reconstruir este País através do Governo Lula, com a retomada de políticas públicas. Em primeiro lugar, vamos combater a fome. Em segundo lugar, trabalharemos muito pela geração de trabalho e renda. Em terceiro lugar, combateremos a criminalidade, dando maior segurança ao nosso povo. E quero, Sr. Presidente, fazer referência à retomada do setor naval, que está sendo anunciada pelo Governo Lula. O setor naval gera empregos, valoriza a tecnologia nacional, investe na geração de tecnologias nacionais, gera impostos, fortalece o setor com fornecedores de bens e assim por diante. O setor naval já teve mais de 80 mil trabalhadores diretos, mais de 400 mil empregos indiretos, mas hoje, em detrimento do povo brasileiro, está sendo exportado para a Ásia. Por isso tudo, quero reiterar que votamos favoravelmente ao projeto que está sendo apresentado. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-02-07T19:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "DISCUSSÃO",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F2%2F2023&txPagina=122&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Política externa,Partido dos Trabalhadores (PT),Elogio,Relações internacionais\r\nDiscussão,Projeto de decreto legislativo,favorável",
+    "sumario" : "Retomada pelo Brasil do protagonismo na diplomacia internacional e na defesa do meio ambiente. Discussão do Projeto de Decreto Legislativo nº 1.101, de 2021, sobre a aprovação do texto do Acordo-Quadro entre o Governo da República Federativa do Brasil e o Governo do Reino de Marrocos Sobre Cooperação em Matéria de Defesa, celebrado em Brasília, em 13 de junho de 2019.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, já nos manifestamos, de início, favoravelmente a este acordo de cooperação. Quero aproveitar também esta oportunidade para aqui enfatizar que o nosso País volta a ser uma referência internacional. E isso nós vemos a partir do momento em que delegações internacionais passam a visitar o Brasil, a partir do momento em que o Presidente Luiz Inácio Lula da Silva volta à Presidência. O Brasil volta a ser protagonista na defesa do meio ambiente. O Brasil volta a dialogar com países dos mais variados cantos do mundo, ao contrário do que nós vimos nos últimos 4 anos, quando o nosso País ficou efetivamente no isolamento. Não tenho dúvida nenhuma, Sr. Presidente, de que nós estamos num novo momento, quando o povo brasileiro, na simbologia da posse do Presidente Lula, passa a ser sim o nosso significado maior, um Governo que volta a enxergar o seu povo dizendo \"não\" à fome, dizendo \"não\" ao desemprego, dizendo \"sim\" a políticas públicas que venham a gerar habitação, saúde de qualidade, oportunidades para a nossa gente. Sabemos que os desafios são grandes, que a destruição foi grande, mas estou esperançoso de que nós, juntos também neste Parlamento, poderemos fazer o bom debate e aprovar projetos que venham ao encontro dos interesses do bem comum e dos interesses maiores do povo brasileiro. É dessa forma, Sr. Presidente, que eu me manifesto favoravelmente a esse acordo. Ao mesmo tempo digo que, se nós adentrarmos em investigações, teremos que ver a questão dos cartões corporativos. Quem pagou as contas das padarias? Foi a troco de quê? Dizem que aqueles que receberam hoje têm zero de dinheiro, mas vivem em Miami. Quem é que paga essas contas? Certamente nós teremos que mudar essa história, e essa história está sendo modificada a partir do Governo Lula. Nós vamos recuperar o Brasil de pleno emprego, de oportunidades e de valorização do povo brasileiro. Muito obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-02-14T15:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2023&txPagina=61&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Banco Central do Brasil (Bacen),autonomia,independência,Inflação,Taxa de juros,Política monetária,Presidente,esclarecimento",
+    "sumario" : "Falta de isenção do presidente do Banco Central. Defesa de redução da taxa de juros.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente Pompeo de Mattos, Sras. e Srs. Deputados, eu quero aproveitar este espaço nesta tribuna para dialogar principalmente com aqueles que nos assistem através da TV Câmara. Essa narrativa referente o Banco Central não trata de uma disputa ou de uma guerra de campos ideológicos, mas sim de fatos que temos de trazer ao conhecimento da população em geral, para que entenda o que está acontecendo no Brasil. Fala-se que o Banco Central tem que ter autonomia, que o seu Presidente tem que ter autonomia, mas vemos esse Presidente do Banco Central nas redes sociais de Ministros bolsonaristas. Eu quero compartilhar com a comunidade alguns dados que julgo importantes: no Brasil, os juros praticados hoje estão na casa dos 13,75%, e o índice de inflação é de 6,47%. É dito que esse cidadão é o melhor Presidente de Banco Central do mundo. Vejamos, por exemplo, o caso da Turquia, com juros de 9% e inflação de 84,39%; da Rússia, com juros de 7,5% e inflação de 12,6%; da África do Sul, com juros de 7% e inflação de 7,6%; da Índia, com juros de 6,25% e inflação de 6,77%; dos Estados Unidos, com juros de 4% e inflação de 7,7%; da China, com juros de 3,65% e inflação de 2,1%; da União Europeia com juros de 2% e inflação de 10%; do Japão com menos 0,1% de juros e inflação de 3,7%. Será que é o Brasil, com essa gestão do Banco Central, que está certo ou são os demais que estão no caminho certo? Será que essa recessão que se está querendo impor ao nosso País, ao nosso povo é justa? Nós estamos querendo valorizar o emprego e a renda ou os rentistas? Nós temos que reverter esse cenário. Por isso, eu me somo àqueles que querem chamar o Presidente do Banco Central para prestar esclarecimentos. Ele precisa ter isenção, e isenção é o que ele demonstrou não ter, não só na questão de manter os juros de 13,75%, mas também de estar nas redes bolsonaristas, no grupo dos Ministros do Bolsonaro no WhatsApp. Queremos menor taxa de juros."
+  }, {
+    "dataHoraInicio" : "2023-02-14T16:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2023&txPagina=68&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Mudança climática,Frente parlamentar,criação,Agricultura,Defesa\r\nSeca,Rio Grande do Sul",
+    "sumario" : "Apoio à criação da Frente Parlamentar Mista em Defesa da Transição Climática Justa. Solidariedade à população do Estado do Rio Grande do Sul afetada pela estiagem. Adoção de plano emergencial pelo Governo Federal para assistência aos gaúchos prejudicados pelo fenômeno climático.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu quero apoiar a criação da Frente Parlamentar Mista em Defesa da Transição Climática Justa. Ao mesmo tempo, quero me solidarizar com o povo gaúcho que, como disse a nossa Deputada Maria do Rosário, tem passado pelo terceiro ano consecutivo por uma estiagem. Isso agrava a vida do povo, da agricultura familiar, da agricultura extensivista. O povo gaúcho tem passado fome. Quando eu digo que apoio essa iniciativa, quero dizer que o Governo Federal já está tratando com os Ministérios afins para que nós possamos dar uma resposta ao povo gaúcho, com um plano emergencial. Mais do que isso, quero dizer que essa frente parlamentar que está sendo proposta serve também para nós repensarmos a queima da Amazônia, que vem impactando toda a questão do meio ambiente em nosso País."
+  }, {
+    "dataHoraInicio" : "2023-02-15T10:20",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F2%2F2023&txPagina=55&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Rio Grande (RS),Aniversário de fundação,Homenagem",
+    "sumario" : "Transcurso do 286º aniversário de fundação do Município de Rio Grande, Estado do Rio Grande do Sul.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, quero utilizar esta tribuna no dia de hoje para homenagear a cidade de Rio Grande, onde nasci, fui Vereador e Prefeito, pela comemoração, no próximo dia 19 de fevereiro, de 286 anos de existência. A cidade de Rio Grande deu nome ao Estado do Rio Grande do Sul e é a primeira cidade portuguesa no Estado. Hoje nós podemos utilizar esta tribuna para resgatar um pouco da história dessa cidade. Rio Grande foi berço da indústria do Rio Grande do Sul, da luta de trabalhadoras e trabalhadores por melhores condições de trabalho e contra o trabalho infantil, da luta por respeito aos direitos das trabalhadoras mulheres gaúchas, direitos que serviram de base para a formação também da Consolidação das Leis do Trabalho contra o trabalho insalubre. Isso tudo faz parte da história do Município de Rio Grande. Podemos também enfatizar a existência ali de três grandes clubes centenários, entre os quais o Sport Club Rio Grande, vovô do futebol brasileiro, e a existência também de uma grande universidade, a Fundação Universidade Federal do Rio Grande, com mais com mais 20 mil alunos, e de um instituto federal. A cidade tem um comércio pujante, um polo logístico estratégico com o porto marítimo do Rio Grande do Sul, um dos maiores portos do Brasil, e mais do que isso, tem o 5° Distrito Naval e setores agrícola e pesqueiro que merecem considerações também nesta tribuna. Além disso, há ali um polo logístico e a primeira refinaria de petróleo do Brasil, antes Refinaria Ipiranga, agora Refinaria Riograndense. Enfim, Rio Grande é uma cidade da qual nós devemos nos orgulhar, uma das grandes economias do Rio Grande do Sul, cidade que, ao longo dos anos, principalmente nos Governos Lula e Dilma, juntamente com a da metade sul do Estado, tem recebido investimentos importantes que precisam ser retomados, para conclusão da BR-116 e da BR-392, entre outras obras. A região possui também políticas de energias renováveis com parques eólicos. Aproveito a oportunidade de estar nesta tribuna para saudar o povo da cidade de Rio Grande pela sua luta, pela sua determinação e pela forma acolhedora como sempre desenvolveu atividades ao longo dos 286 anos da existência da cidade de Rio Grande. Parabéns, povo de Rio Grande! Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-03-01T17:08",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F3%2F2023&txPagina=84&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Advocacia,Patrono,Jurista,Diplomata,Aniversário de morte,Homenagem póstuma",
+    "sumario" : "Transcurso do centenário de falecimento do escritor e jurista Rui Barbosa, o Águia de Haia.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, hoje nós estamos comemorando 100 anos de falecimento de Rui Barbosa, jurista, advogado e diplomata. Ele é o patrono da advocacia, do Tribunal de Contas da União e do Senado Federal. Sem dúvida, marcou época, principalmente, pelo fato de que defendia os direitos humanos, lutava pelas causas sociais e foi decisivo na Constituição de 1891. Na época dele, já fazia a defesa dos direitos das mulheres, da igualdade salarial entre mulheres e homens, dos direitos dos negros e dos índios. Esse foi Rui Barbosa, considerado ainda referência internacional, pois, quando participou de evento em Haia, fez a defesa da igualdade entre as nações. Nós, ao comemorarmos esse centenário, temos que resgatar a memória de uma pessoa que fez a defesa da democracia, da República, da independência entre os Poderes, e, acima de tudo, que houvesse no Parlamento o diálogo, a construção do debate, mas do debate qualificado. Foram 32 anos como Senador, além de Deputado Federal, pela Bahia. Naquela época, já fazia referência também, em texto  se não me engano, em O reino da mentira , às mentiras que desconstituíam a imagem das pessoas, a figura pública delas. Mais de 10 anos depois, nós vemos algo similar, em relação aos ataques à democracia, aos ataques às instituições, aos ataques ao Supremo Tribunal Federal, ao próprio Poder Executivo e ao Poder Legislativo. Neste momento, o que nos cabe é, sim, resgatar e enaltecer esse advogado, que é uma referência por toda sua trajetória de vida, trabalhando pelas pessoas mais pobres. Mais de 100 anos depois, traz à luz o quão presentes as causas que defendia ainda o são nos dias atuais. Por isso, Sr. Presidente, encerrando, quero aqui dar um grande viva a Rui Barbosa, e que nós possamos, nos dias atuais, valorizar e fortalecer as instituições, dentro dos exemplos e do legado que Rui Barbosa nos deixou na sua trajetória de vida. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-03-02T10:36",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F3%2F2023&txPagina=47&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Comemoração,lançamento,Bolsa Família,Mapa da Fome,Política social,Insegurança alimentar e nutricional,Crítica,Governo,Ex-presidente da República,Elogio,Governo federal,Presidente da República",
+    "sumario" : "Relançamento do Programa Bolsa Família pelo Governo Luiz Inácio Lula da Silva.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sra. Presidenta, Srs. Deputados, Sras. Deputadas, eu quero ocupar esta tribuna hoje para comemorar o lançamento do novo Bolsa Família. Nos últimos anos, a realidade no País foi o crescimento da fome, somado ao desemprego e à desesperança. Ao mesmo tempo, mais de 33 milhões de brasileiros e brasileiras não conseguiram sequer fazer uma refeição por dia. Mais de 50% da população brasileira têm alguma forma de insegurança alimentar. Esse é o legado deixado nos últimos anos pelo desgoverno neste País. O que nós temos como maior desafio, de todos no novo Governo Lula, é, sim, erradicar a fome, como já foi feito no passado, quando, somando-se ao pleno emprego, o povo brasileiro tinha o direito de tomar café, almoçar e jantar. Essa foi a realidade que vivemos. Em pouco mais de 2 meses de Governo Lula, já vimos um conjunto de iniciativas, como a retomada da política do Minha Casa, Minha Vida, a retomada de obras paralisadas, ao mesmo tempo a valorização de bolsas da CAPES, valorizando a ciência e o fortalecimento das políticas na área de saúde, com a vacinação pública. Agora, entre outras tantas iniciativas, no dia de hoje vemos o lançamento de novo Bolsa Família, que foi referência no mundo, e agora voltou. Eu tenho a convicção de que agora no nosso País as pessoas voltarão a ter comida no prato, a ter renda. Com políticas articuladas, veremos as crianças dentro da escola, o combate ao trabalho infantil. Enfim, com uma soma de esforços, logo adiante veremos o Brasil voltará a ter oportunidade de ver o seu povo resgatando a dignidade de poder se alimentar, de poder ter segurança alimentar. Por isso comemoramos este dia; comemoramos o novo Governo Lula, que vai recolocar este País não só como referência internacional, mas também a serviço do povo brasileiro, principalmente das pessoas mais necessitadas, que foram excluídas nos últimos Governos, que gerou o desemprego e a volta da fome. Vamos trabalhar junto com o Governo Lula para, mais uma vez, erradicarmos a fome. Dignidade para o povo brasileiro! Sra. Presidenta, peço que o meu pronunciamento conste no programa A Voz do Brasil. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-03-14T16:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F3%2F2023&txPagina=75&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Vereadora,Partido Socialismo e Liberdade (PSOL),Rio de Janeiro (RJ),Homicídio,investigação,Autor intelectual\r\nTrabalho escravo,Vinicultura,Bento Gonçalves (RS),Uruguaiana (RS)\r\nConcentração de renda,Desemprego\r\nDireito do trabalho,Consolidação das Leis do Trabalho (CLT),Aniversário,Direitos do trabalhador",
+    "sumario" : "Necessidade de identificação e punição dos mandantes do assassinato da Vereadora Marielle Franco, ocorrido no Rio de Janeiro, Estado do Rio de Janeiro. Resgaste de trabalhadores em situação análoga à escravidão nos Municípios de Bento Gonçalves e Uruguaiana, Estado do Rio Grande do Sul. Queda da renda dos trabalhadores brasileiros. Fortalecimento de medidas protetivas do trabalhador.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, quero iniciar minha fala me somando àqueles que querem saber quem mandou matar Marielle. E também trago aqui outro tema que foi recorrente nas últimas semanas: o trabalho escravo descoberto tanto no Município de Bento Gonçalves quanto no Município de Uruguaiana, ambos no Estado do Rio Grande do Sul. Quero dizer que não vejo acaso nesse cenário do escravagismo ressurgindo no nosso País. Quero ressaltar o trabalho do Ministério Público do Trabalho, do Ministério do Trabalho, da Polícia Federal e dos sindicatos que ajudaram a desbaratar essa realidade tão triste que nós estamos vivendo em alguns lugares, agora especialmente no Rio Grande do Sul, mas não vejo acaso nesse cenário. Nós completaremos, no próximo dia 1º de maio, 80 anos da Consolidação das Leis de Trabalho, fruto da luta das trabalhadoras e dos trabalhadores brasileiros. Essa luta resultou na Consolidação das Lei do Trabalho, que estabeleceu um conjunto de normas protetivas dos trabalhadores e das trabalhadoras. No entanto, vimos, nos últimos anos, sobretudo na \"deforma\" trabalhista, serem retirados direitos de forma gradativa, fragilizando as relações entre o capital e o trabalho, criando o trabalho intermitente, proporcionando a precarização das relações trabalhistas, com o trabalho terceirizado, quarteirizado e assim por diante. Quando se diz que os índices de desemprego caíram, na verdade, o que nós vimos foram os trabalhadores e as trabalhadoras que conseguiram algum tipo de renda serem colocados nessa estatística. O fato é que a renda dos trabalhadores e das trabalhadoras, nos últimos anos, caiu, e houve maior concentração de renda na mão de poucos. Nós precisamos reverter esse cenário. É por isso a minha expectativa de que, juntos, neste novo Governo, no Governo Lula, possamos reconstruir legislações protetivas que venham ao encontro do que almeja a ampla maioria da população brasileira, que está ficando alijada do mercado de trabalho e sem direitos. Nós precisamos reconstruir sindicatos fortes e legislação forte para a proteção do nosso povo trabalhador. Chega de trabalho precarizado! Chega de trabalho intermitente! Nós precisamos de leis que garantam os direitos dos trabalhadores e das trabalhadoras. Eu peço que a minha fala seja reproduzida nos canais de comunicação da Câmara Federal. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-03-15T16:24",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F3%2F2023&txPagina=64&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Surdo,Política pública,Ministério da Educação,Partido dos Trabalhadores (PT),Governo federal",
+    "sumario" : "Não extinção, pelo Governo Luiz Inácio Lula da Silva, da política pública destinada à comunidade surda.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Obrigado, Sr. Presidente. Eu queria aproveitar este espaço de aparte para fazer um esclarecimento. O filho do ex-Presidente disse aqui que houve o término da política focada na comunidade surda. Eu quero dizer que estive recentemente no Ministério da Educação, na Secretaria de Educação Continuada, Alfabetização, Diversidade e Inclusão  SECADI, e tive a oportunidade de conversar com o setor, com o órgão dentro do Ministério que trata das questões relacionadas à comunidade surda. Só para esclarecer, não houve essa extinção. Estou resgatando a verdade dos fatos. O Governo Lula preserva e valoriza as pautas da comunidade surda."
+  }, {
+    "dataHoraInicio" : "2023-03-16T10:32",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F3%2F2023&txPagina=52&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Governo federal,Rodovia federal,Rio Grande do Sul,Bolsa Família,Educação,Programa Minha Casa, Minha Vida (PMCMV),Programa Nacional de Segurança Pública com Cidadania (Pronasci),Imposto,Combustível,Recursos orçamentários,Agricultura,Saúde,Infraestrutura,Cirurgia eletiva,Bolsa de estudo",
+    "sumario" : "Associação ao pronunciamento do Deputado Jorge Solla a respeito do governo anterior. Liberação de recursos para continuidade das obras de duplicação da BR-116 no Estado do Rio Grande do Sul. Retirada de impostos federais incidentes sobre os combustíveis e o gás de cozinha. Lançamento do novo Programa Bolsa Família. Aumento dos recursos destinados à merenda escolar. Elevação das dotações orçamentárias dos setores de educação, agricultura, saúde e infraestrutura. Concessão de reajuste salarial aos professores brasileiros. Atendimento pelo Governo Federal às demandas e necessidades do povo ianomâmi. Destinação de recursos aos Estados e Municípios para realização de cirurgias eletivas. Reajuste dos valores de bolsas de estudo. Retomada do Programa Minha Casa, Minha Vida. Concessão de aumento real ao salário mínimo. Concessão de reajuste salarial aos servidores públicos. Lançamento do Programa Nacional de Segurança Pública com Cidadania - PRONASCI. Compensação aos Estados por perdas de receitas em decorrência da redução da alíquota do ICMS incidente sobre combustíveis.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Cumprimento o Sr. Presidente Marcelo Crivella, as Sras. Deputadas e os Srs. Deputados. Quero mencionar a manifestação do Deputado Jorge Solla, quando ele fazia referência a um período não de apagão, mas de destruição que o nosso Brasil teve nos últimos anos. Ao mesmo tempo, aproveito esta oportunidade para enaltecer e explicitar para o nosso Brasil algumas ações que foram realizadas pelo Governo Federal, pelo Governo Lula, neste início de Governo, que, no meu ponto de vista, são de relevante importância para a melhoria da vida da nossa gente. Faço referência aqui a algumas informações que julgo importantes. Entre as quais, no transcorrer desta semana, destaco a liberação de 234 milhões de reais para a continuidade da duplicação da BR-116, no Rio Grande do Sul, que é estratégica não só para a questão econômica, mas também para salvar vidas. É uma obra que está sendo realizada, e esse valor é tão significativo que representa mais do que foi aplicado nos últimos anos pelo Governo que antecedeu o Governo Lula. Quero também fazer referência às questões relacionadas ao diesel e ao gás, com impostos federais zerados por 1 ano; o novo Programa Bolsa Família, com 600 reais, 150 reais para cada criança de até 6 anos, mais 50 reais por cada dependente entre 7 a 18 anos e para gestantes como membro da família; educação com 25 bilhões a mais do que em 2022  não é pouca coisa, merecemos enfatizar , saúde com 23 bilhões a mais do que em relação ao ano de 2022; infraestrutura com 11 bilhões a mais em relação a 2022, tendo sido um total de 25 bilhões de investimento; agricultura com 1 bilhão a mais do que em 2022; aumento de 15% nos salários dos professores, indo de 3.845 reais para 4.420 reais. Cito também o socorro aos indígenas ianomâmis, com 5 mil atendimentos, 100 profissionais da área da saúde, 5.500 cestas básicas e a instalação do Hospital da Aeronáutica; o envio de 600 milhões de reais para Estados e Municípios reduzirem filas de cirurgias eletivas; o reajuste nas bolsas estudantis de graduação, mestrado e doutorado, algo que não era feito há mais de 10 anos; a volta do Minha Casa, Minha Vida, com 9,5 bilhões de reais no orçamento, valor oito vezes maior do que o apresentado em 2022, e meta de entregar, até o fim do Governo, mais 2 milhões de unidades para as pessoas de baixa renda. Menciono, ainda, o aumento de 9% no salário mínimo, 3% acima da inflação; o PRONASCI, que foi lançado no dia de ontem; o reajuste dos servidores federais, que há 7 anos não tinham reajuste; a compensação pactuada com os Estados da ordem de 26,9 bilhões de reais, referentes às perdas com a redução de alíquota do ICMS sobre os combustíveis; e os mais de 430 milhões de reais para combater a seca no Rio Grande do Sul. Não são poucas ações. Por isso, comemora o Governo Lula, que está reconstruindo o Brasil, depois de um tempo de destruição. Peço que a minha palavra seja registrada nos canais de comunicação da Câmara Federal. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-03-21T16:56",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F3%2F2023&txPagina=7&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Governo federal,Programa Mais Médicos,Bolsa Família,Marco regulatório,Saneamento\r\nCompanhia Riograndense de Saneamento (CORSAN),Leilão (licitação),Crítica,Privatização",
+    "sumario" : "Balanço positivo do Governo Luiz Inácio Lula da Silva. Relançamento do Programa Bolsa Família e do Programa Mais Médicos. Revisão do marco legal do saneamento básico. Defesa de nulidade do processo de privatização da Companhia Riograndense de Saneamento - CORSAN.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Sra. Presidenta, Srs. Deputados, Sras. Deputadas, quero, aqui nesta Casa, no dia de hoje, fazer referência ao novo momento que estamos vivendo, após um período de apagão e de destruição que nós vivemos neste País. Nesses 80 dias de Governo Lula, houve a construção de um conjunto de políticas públicas que foram destruídas e estão sendo reconstruídas. Faço referência, por exemplo, ao lançamento, no dia de ontem, do novo Mais Médicos; faço referência ao novo Bolsa Família. Esse conjunto de políticas públicas nos coloca em um novo patamar: de uma política propositiva, de uma política de diálogo; não de uma política de ódio e de desconstrução deste País. Quero fazer referência, Sra. Presidenta, à importância, neste Governo, de uma nova pactuação de um novo marco regulatório na área do saneamento. Nos últimos anos, praticamente proibiram as companhias públicas estaduais de trabalharem em prol do saneamento, de receberem recursos para o saneamento. Dessa forma, nós queremos aqui fazer referência à Companhia Riograndense de Saneamento  CORSAN, do Rio Grande do Sul, que está sob ameaça, que foi leiloada. Hoje, esse negócio ainda não se concretizou por conta de decisões judiciais. Quero fazer referência à importância de nós revermos essa questão do marco regulatório, pela importância que tem a água pública, pela garantia universal do serviço de saneamento e de água para as nossas populações. Nós vemos uma tendência em vários países do mundo, Sra. Presidenta: na Alemanha, 348 Municípios reestatizaram o serviço de água; no Reino Unido, 65 Municípios; na França, 152 Municípios; na Espanha, 56 Municípios; nos Estados Unidos, 67 Municípios. Isso demonstra que é uma política que não deu certo. No Rio Grande do Sul, Sra. Presidenta, as empresas responsáveis pela avaliação da CORSAN foram contratadas diretamente pela companhia, com dispensa de licitação, contrariando as legislações estaduais e federais, que exigem a realização de licitação para este fim. Houve subavaliação. Não tem como prosperar o leilão da CORSAN, no Rio Grande do Sul. Isso é uma lesão ao povo gaúcho. O edital foi omisso quanto à existência de inúmeros contratos de financiamento, principalmente na Caixa Econômica Federal. Mesmo com a transferência da venda de julho para dezembro, não foi refeita a avaliação da companhia... (Desligamento automático do microfone.) A SRA. PRESIDENTE (Maria do Rosário. Bloco/PT - RS) - Deputado, eu tenho que lhe pedir que conclua, porque a prorrogação já superou 30 segundos. O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS) - Vou concluir. Diante da sua relação contratual com a CORSAN, a única participante vencedora do leilão não poderia sequer ter participado, por deter informações privilegiadas que legalmente a impediam. Precisamos rever esse leilão da CORSAN, que é um dano ao povo gaúcho!"
+  }, {
+    "dataHoraInicio" : "2023-03-22T20:40",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F3%2F2023&txPagina=165&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Governo federal,Programa de Aquisição de Alimentos (PAA),Agricultura familiar,Comemoração\r\nFrente parlamentar,nacionalização,Centrais Elétricas Brasileiras (Eletrobras),Estatização\r\nDia Mundial da Água,Governo federal,Marco regulatório,revisão,Recursos orçamentários,Saneamento,Rio de Janeiro (Estado),São Paulo (Estado),Privatização,Companhia Riograndense de Saneamento (CORSAN)",
+    "sumario" : "Relançamento do Programa de Aquisição de Alimentos - PAA. Criação da Frente Parlamentar Mista pela Reestatização da Eletrobras. Transcurso do Dia Mundial da Água. Reexame da Lei nº 14.026, de 2020, sobre a criação do marco legal do saneamento básico. Revisão judicial da privatização da Companhia Riograndense de Saneamento - CORSAN, no Estado do Rio Grande do Sul.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, eu quero aproveitar esta oportunidade inicialmente para comemorar, no dia de hoje, o ressurgimento do Programa de Aquisição de Alimentos, importante para a população brasileira, para a agricultura familiar, para a economia dos nossos Estados e para a qualidade da alimentação que é ofertada ao nosso povo. Quero também comemorar, Sr. Presidente, o lançamento da Frente Parlamentar Mista pela Reestatização da ELETROBRAS. Por outro lado, saliento que hoje se comemora o Dia Mundial da Água. Quando falo em relação à água, faço referência ao pleito de que haja, por parte do Governo Lula, uma revisão no marco regulatório que foi firmado recentemente, no ano de 2021, e que, com as suas alterações, inviabilizou a participação das companhias estaduais em termos de captação e recebimento de recursos federais para investirem em saneamento, praticamente empurrando para o setor privado as aquisições e compras de companhias estaduais, como foi mencionado aqui em relação ao Estado do Rio de Janeiro e aos efeitos que aconteceram no Município de São Gonçalo. Agora isso acontece também no Rio Grande do Sul, onde o Governo do Estado tenta a privatização da companhia estadual que atende, há 57 anos, Municípios gaúchos  hoje, 317 Municípios, 7 milhões de pessoas. E mais do que isso: essa companhia detinha 21% em termos de esgoto em 2007 e, até 2029, ocupará 70% de cobertura na questão do saneamento estadual. E ela está sendo entregue para o setor privado através de um leilão, que está sob discussão judicial, por uma bagatela de 4 bilhões e 100 milhões de reais. Entretanto, o faturamento, a renda líquida da CORSAN é de 3,95 bilhões de reais por ano; o lucro é de 794 milhões de reais por ano; e o patrimônio, em termos de ativos, é de 8 bilhões e 490 milhões de reais. Essa entrega, essa venda, esse leilão que foi feito no Rio Grande do Sul merece ser revisto. É um dano ao povo gaúcho. Nós temos hoje uma empresa vendida que, na verdade, com as compensações fiscais, representará uma compra de 2,5 bilhões de reais, quando vale, ao longo do seu tempo de contrato, algo em torno de 200 bilhões de reais. Então, precisamos que haja uma reversão desse cenário na justiça estadual. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-03-27T21:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2023&txPagina=106&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Escola,São Paulo (SP),Atentado,Homicídio,Professora,Aluno,Rede social digital,Discurso de ódio,Racismo\r\nPartido dos Trabalhadores (PT),comprometimento,Organização criminosa,Tentativa (crime),Homicídio,Senador,Ex-juiz,Livro,Ex-presidente da República,interferência,Polícia federal,transferência,Preso,Líder\r\nVereador,Rio Grande do Sul,Saudação",
+    "sumario" : "Saudação ao Vereador Rovam Castro, da Câmara Municipal de Rio Grande, Estado do Rio Grande do Sul. Sucateamento de estruturas públicas pelo governo anterior. Vinculação entre o discurso de ódio bolsonarista e a tragédia ocorrida em escola no Município de São Paulo, Estado de São Paulo. Inconsistência de tentativas de ligação do PT com a facção criminosa Primeiro Comando da Capital - PCC.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados e Sras. Deputadas, inicialmente, quero saudar o Vereador Rovam Castro, de Rio Grande, minha cidade. Quero aproveitar esta oportunidade, Sr. Presidente, para fazer referência às várias falas que me antecederam; algumas falando sobre a escassez de peritos médicos; outras falando sobre filas de espera por atendimentos médicos na área de especialidades; e ainda outras falando sobre o sucateamento das estruturas relacionadas aos museus nacionais  a que fizeram referência há pouco. Enfim, em várias áreas vemos um cenário de desmantelamento das estruturas e serviços públicos prestados em nosso País. Isso não é fruto do acaso, mas de escolhas políticas que fizeram seguindo a lógica de um Estado Mínimo, sem concurso público, sem fortalecimento das estruturas públicas que prestam serviços às nossas comunidades. Quero também, Sr. Presidente, fazer referência a algo que para mim é de suma importância, pois é o maior dano que o Governo anterior deixou, para além das fake news. Refiro-me a esse discurso de ódio que acaba ensejando situações como essa que vimos hoje no Estado de São Paulo: uma agressão com faca, mas que poderia ter sido com arma de fogo, vitimando ainda mais pessoas. E o que se viu na investigação preliminar foi que nas redes sociais do menino já se trabalhava a questão do ódio, do racismo e de outras situações que ensejaram essa prática. E também vimos que as estruturas escolares não mais têm acompanhamento psicológico. Sobre as falas que, por vezes, tentam fazer ligação entre o PCC e o Partido dos Trabalhadores e sobre a vitimização em relação ao atual Senador Sergio Moro, faço referência ao livro escrito por ele. No livro ele diz que Bolsonaro titubeou em 2019 em relação a transferir líderes do PCC. Mais do que isso, áudios de 2019  e tentaram atribuí-los como recentes  já diziam que, por interferência de Bolsonaro na Polícia Federal, Moro se colocava contra. OU seja, já havia ali outras relações que não são essas que estão tentando hoje, por ilações, estabelecer relações do PCC com o Partido dos Trabalhadores. A bem da verdade, nós temos que construir outro momento da história. O Presidente Lula tem um conjunto de políticas públicas que estão resgatando o Brasil para a vida: trabalho, renda, dignidade para o nosso povo, sendo reconhecido internacionalmente e valorizando a vida do povo brasileiro. Sr. Presidente, peço que o meu pronunciamento conste no programa A Voz do Brasil. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-03-29T20:08",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F3%2F2023&txPagina=153&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Rio Grande (RS),Festa,Fórum,Economia,Oceano,Desenvolvimento sustentável",
+    "sumario" : "Realização do Festival do Mar - Festimar, e do Fórum de Desenvolvimento da Economia Azul, no Município de Rio Grande, Estado do Rio Grande do Sul.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Presidente, é uma satisfação estar aqui. Sras. e Srs. Deputados, eu quero aproveitar esta oportunidade para compartilhar com V.Exas., com nosso País e com aqueles que nos acompanham que a cidade de Rio Grande, da qual fui Prefeito durante 8 anos, a cidade mais antiga do Estado do Rio Grande do Sul, iniciará, a partir do próximo dia 2, o Festival do Mar  Festimar. Ao mesmo tempo que é um espaço de lazer, de cultura, de esporte e de convívio da comunidade do Rio Grande e de toda a região, também dentro desta proposta, a partir do dia 3, acontecerá o Fórum de Desenvolvimento da Economia Azul. Em termos de desenvolvimento econômico, a economia azul tem o potencial de gerar cerca de 3 trilhões de reais, o que não é pouca coisa. Ao tempo em que nós temos esta oportunidade, considerando o Brasil pela sua dimensão, tanto pelas águas marítimas como pelos rios e lagoas, nós vemos que esta economia tem que ser desenvolvida através de atividades sob o olhar da sustentabilidade e sob o olhar econômico, social e ambiental. Neste contexto, eu comemoro esta iniciativa, que é coordenada pela CDL do Rio Grande e da cidade de São José do Norte. Este Fórum de Desenvolvimento da Economia Azul traz temas importantes para nosso País. Como não se trata de uma questão especifica de região, o fórum vai debater temas relacionados ao planejamento espacial marinho, à política marítima nacional e à economia azul. Outros temas que serão debatidos no fórum estão relacionados à energia eólica, ao hidrogênio verde na transição energética, à hidrovia binacional Uruguai-Brasil e ao futuro das hidrovias não apenas na Região Sul, mas também em todo o nosso País. Outros temas que também serão debatidos estão relacionados ao turismo, ao lazer e aos esportes náuticos, ao caso de sucesso da Noruega sobre a economia azul, ao futuro da construção naval brasileira, com a geração de trabalho e renda e a agregação de tecnologia nacional, aos distritos industriais e portos, à economia azul sob o olhar da inovação, à pesca e à aquicultura. Portanto, Sr. Presidente, eu comemoro este evento por ser um momento de oportunidades, de debates e de construção de políticas públicas que fortaleçam as atividades voltadas para a economia azul. É uma grande oportunidade para nosso País, para nossas regiões e para o desenvolvimento sustentável, econômico e social da nossa gente. Sr. Presidente, peço a V.Exa. que meu pronunciamento seja divulgado pelo programa A Voz do Brasil. Muito obrigado. Um abraço."
+  }, {
+    "dataHoraInicio" : "2023-03-30T13:12",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F3%2F2023&txPagina=&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Presidente da República,Partido dos Trabalhadores (PT),Governo federal,Fundo Nacional de Desenvolvimento da Educação (FNDE),Programa Minha Casa, Minha Vida (PMCMV),Política pública,Política monetária,Geração de emprego,Taxa de juros,Banco Central do Brasil (Bacen)\r\nDiscurso de ódio,manifestação,Ato antidemocrático,Brasília (DF)",
+    "sumario" : "Reestruturação de políticas públicas pelo Governo Luiz Inácio Lula da Silva. Transparência no repasse de recursos do Fundo Nacional de Desenvolvimento da Educação - FNDE às gestões municipais. Vinculação entre discursos de ódio e os atos de vandalismo praticados contra as sedes dos Poderes da República. Inexistência de justificativa para a manutenção, pelo Banco Central do Brasil, da taxa básica de juros, a Taxa SELIC, em 13,75% ao ano.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, quero aproveitar esta oportunidade para me dirigir a todas as pessoas que nos assistem através da TV Câmara e fazer referência aos momentos que vivemos nesta Casa, onde, por vezes, o discurso de ódio e as fake news são reproduzidos na tribuna desta Casa. Eu quero dizer que nós estamos vivendo nesses 3 meses de Governo Lula um processo de reconstrução de um conjunto de políticas públicas que foram destruídas nos últimos anos. Quando se faz referência ao Minha Casa, Minha Vida, quando se faz referência à construção de escolas e de unidades básicas de saúde, que ao longo desses últimos anos ficaram paralisadas, eu posso me dirigir a todos os Prefeitos deste País onde as obras pararam porque deixaram de ser prioridade. Os recursos do FNDE passaram a ter critérios não transparentes em relação a investimentos nos Municípios brasileiros para que essas obras pudessem chegar ao fim, seja em unidades básicas de saúde, seja, principalmente, na área da educação, quando me reporto ao FNDE. E não foi diferente em outras áreas. O discurso do ódio, o discurso do não diálogo, \"não\" à democracia é que culmina com ações como a que vivenciamos no dia 8 de janeiro aqui na cidade de Brasília. Ficam incentivando as pessoas a destruírem os pilares da democracia e, depois, ficam falando: \"Ah, estão presos na papuda\". Incentivaram, incitaram as pessoas, e agora ficam num sentimento de remorso, disso e daquilo, fazendo referência, preocupados com as pessoas. Agora, quero aqui dizer que nesses meses de reconstrução nós temos que superar um grande desafio, que é a questão de o Banco Central manter a taxa de juros a 13,75%. Sr. Presidente, não se trata de uma fala de atentado à autonomia do Banco Central. Quero dizer que não há justificativa para que o Brasil seja o único País no mundo que tem um Banco Central que entende que pode ter a maior taxa de juros do mundo e que é o único Banco Central que está certo. Na contramão, o que ele faz? Está engessando a economia brasileira, gerando um aumento no valor do crédito para que as pessoas e as empresas não possam investir na aquisição de equipamentos, em planejamento, em novas contratações. Nós temos que reverter esse cenário. Quem está lá hoje está fazendo o discurso político, está fazendo a pauta da política, porque se esqueceu da autonomia e tomou partido, vestiu camisa da Seleção Brasileira, fazia parte do grupo de Ministros de WhatsApp do então Governo Federal. Diante disso, que nós superemos essa questão da taxa de juros e que o Brasil volte a investir na produção, no seu povo, na sua gente, gerando trabalho e renda. Peço que a minha manifestação fique registrada no programa A Voz do Brasil. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-04-11T20:44",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F4%2F2023&txPagina=159&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Governo,Presidente da República,Balanço,gestão,avaliação positiva,Programa Minha Casa, Minha Vida (PMCMV),Programa Mais Médicos,Bolsa Família\r\nReforma tributária,Arcabouço fiscal",
+    "sumario" : "Reconstrução de políticas públicas pelo Governo Luiz Inácio Lula da Silva. Relançamento do Programa Minha Casa, Minha Vida; do Programa Mais Médicos; do Programa Nacional de Alimentação Escolar - PNAE; e do Programa Bolsa Família. Importância de realização da reforma tributária e de aprovação do novo arcabouço fiscal. Recolocação do Brasil no caminho virtuoso do desenvolvimento socioeconômico.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados e Sras. Deputadas, eu quero aproveitar essa oportunidade para enfatizar que o Brasil voltou. E ele voltou de forma efetiva, na reconstrução de políticas públicas que geraram oportunidades de trabalho para o nosso povo, políticas públicas que construíram moradias, que construíram investimentos na área de saneamento, na área da construção civil, na pavimentação de vias, na construção de escolas e de unidades básicas de saúde. Enfim, um conjunto de ações são retomadas através do novo Minha Casa, Minha Vida, através de liberações de recursos que são superiores àqueles valores liberados nos últimos 4 anos em termos de investimentos e que ultrapassam 20 bilhões de reais previstos para o ano de 2023. Na área da moradia, são mais de 10 bilhões de reais. Há investimentos também na valorização dos profissionais e servidores públicos, com reajustes que, há mais de 7 anos, não ocorriam no nosso País. Ao mesmo tempo, há a retomada, com força, do Mais Médicos, para que nós possamos ter médicos nos mais variados recantos do nosso Brasil. Há investimentos na agricultura familiar da ordem de mais de 5,5 bilhões de reais, através da renovação do Programa Nacional de Alimentação Escolar  PNAE. Quero mencionar ainda que, só nesse período de 3 meses, houve um aumento de mais 15 bilhões de reais nas reservas internacionais do País. Foi proposto um novo arcabouço fiscal. Uma reforma tributária será apresentada a esta Casa, e por certo retornará o investimento ao Brasil, colocando o povo mais pobre no orçamento. Houve aumento na faixa de isenção do Imposto de Renda. Ao mesmo tempo, houve a valorização do Bolsa Família, com o acréscimo de 150 reais por criança. Mais de 600 milhões de reais foram investidos para que as filas do SUS nas cirurgias eletivas das diversas especialidades possam avançar. Sr. Presidente, um conjunto de ações melhorarão o Brasil. Não é num estalar de dedos que tudo se resolverá, mas em 3 meses estamos começando a recolocar o Brasil num momento virtuoso de desenvolvimento social e econômico, dizendo não ao ódio, dizendo não à cisão do nosso povo, dizendo que vamos reconstruir o Brasil com união, que o Brasil voltou. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-04-12T21:16",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F4%2F2023&txPagina=&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Governador,Rio Grande do Sul,Privatização,Companhia Riograndense de Saneamento (CORSAN),alteração,Lei de Saneamento Básico,Recursos financeiros,Financiamento,Obra pública,Saneamento básico,Valor,Venda,eficiência,Sociedade de economia mista",
+    "sumario" : "Transcurso dos 100 primeiros dias do Governo Luiz Inácio Lula da Silva. Reconstrução do País pelo governo petista. Pedido ao Governador do Estado do Rio Grande do Sul, Eduardo Leite, de reexame da privatização da Companhia Riograndense de Saneamento - CORSAN.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, público a que nos assiste, eu quero dizer que vivemos sim momentos extremamente complexos no nosso País, mas não tenho dúvida nenhuma de dizer que, nesses 100 dias, nós começamos a ver um processo de reconstrução do nosso País e, ao mesmo tempo, uma reversão do discurso de ódio que foi construído ao longo dos últimos anos. Ao mesmo tempo em que digo isso, quero me dirigir também ao Governador Eduardo Leite, Governador do Estado do Rio Grande do Sul, pedindo-lhe que reconsidere a venda da Companhia Riograndense de Saneamento  CORSAN, considerando principalmente o fato de que há uma reversão na questão do marco regulatório do saneamento. O anterior previa a impossibilidade de as companhias estaduais terem acesso a recursos para financiar as obras de saneamento. Faço referência a isso, em relação ao Sr. Governador, considerando alguns fatores. A venda que foi feita da CORSAN, que ainda não está consolidada  ela está sendo avaliada pelo Ministério Público de Contas, pelo Tribunal de Contas, pela Justiça Estadual , foi feita por um valor de aproximadamente 4 bilhões de reais. A renda líquida da CORSAN é de 3,95 bilhões de reais e o lucro anual, de 794 milhões de reais. Apenas em ativos, a CORSAN tem 8,5 bilhões de reais em termos de ativos. A avaliação foi de mais de 8 bilhões de reais, em termos de mercado hoje. Foi vendida por mais de 4 bilhões de reais, mas tem um crédito para receber que ultrapassa 1,6 bilhão de reais. Ou seja, está sendo vendida, entregue por pouco mais de 2,5 bilhões de reais. Para aqueles que dizem que companhia pública não tem eficiência, eu quero trazer alguns números. Com as obras que estão em curso pela CORSAN, até 2029, 70% do saneamento do Estado do Rio Grande do Sul estará implantado. E, cumprindo as metas, a companhia tem condições de garantir 90% do saneamento até 2023. Peço, Sr. Governador, que reverta essa decisão indecente de venda do patrimônio público a preço vil. O povo gaúcho clama pela reversão da entrega desse patrimônio público para uma empresa que tem um capital de apenas 6 mil reais. É inadmissível a continuidade desse processo. Queremos dizer \"não\" à privatização e \"sim\" à CORSAN pública. Sr. Presidente, peço que este pronunciamento conste dos Anais e da órgãos de comunicação da Casa, inclusive do programa A Voz do Brasil. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-04-27T09:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F4%2F2023&txPagina=30&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Dia do Trabalho,Reforma trabalhista,Precarização do trabalho,Geração de emprego,Direitos do trabalhador\r\nGoverno,Investimento,Infraestrutura,Pequena empresa,Microempresa,Desenvolvimento econômico\r\nFrente parlamentar,Indústria naval,Geração de emprego,Petrobras Transporte (Transpetro),Petróleo Brasileiro (Petrobras)",
+    "sumario" : "Transcurso do Dia do Trabalho. Efeitos negativos da reforma trabalhista. Realização, pelo governo petista, de investimentos nas pequenas e microempresas e na área de infraestrutura. Lançamento da Frente Parlamentar em Defesa da Indústria Naval Brasileira. Perspectiva de contratação de novos navios pela TRANSPETRO - Petrobrás Transportes S/A; e de construção de novas plataformas e barcos pela PETROBRAS.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados e todos os que assistem à nossa sessão, eu quero aproveitar esta oportunidade, primeiro, para desejar a todos um belo Dia do Trabalhador, que se comemorará no dia 1º de maio, principalmente com a certeza de que nós estamos vivendo um novo tempo, um novo momento, em que vamos fortalecer a geração de trabalho, de renda e de oportunidades no nosso Brasil. Nós vamos ter mais investimentos na nossa economia e, por consequência, estaremos fazendo um grande debate para reconquistar direitos dos trabalhadores e das trabalhadoras. Nós vimos que, com a reforma trabalhista que ocorreu nos últimos anos, o impacto gerado na vida das pessoas foi extremamente significativo dada a precarização do trabalho, com o trabalho intermitente, com a terceirização. Falou-se que era para gerar emprego e renda, mas o que nós vimos foi o aumento da concentração de renda na mão de poucos, a diminuição da renda na mão de milhões e milhões de brasileiros e um cenário de desemprego. Quero aproveitar este momento de retomada do Governo Lula para dizer que o investimento voltou. Nós temos somente na área da infraestrutura para este ano mais de 24 bilhões de reais em investimentos. Ao mesmo tempo, nós vimos anúncio do BNDES de mais de 21 bilhões de reais para investimento nas pequenas e microempresas, ou seja, investimento para reaquecimento da economia com crédito a juros baixos. Aproveito também esta oportunidade para enfatizar o lançamento da Frente Parlamentar em Defesa da Indústria Naval Brasileira. O setor naval gera milhares de postos de emprego em nosso País, tanto no estaleiro quanto na cadeia de fornecedores de bens. É uma grande oportunidade de geração de trabalho e de renda para o fortalecimento da economia brasileira. É a TRANSPETRO, com a perspectiva de contratar novos navios aqui no Brasil; é a PETROBRAS, com a construção de plataformas e de barcos de apoio, com investimentos para a geração de trabalho e renda, olhando para o nosso País e dialogando, sim, com a contratação fora do País, mas aumentando o conteúdo nacional, gerando mais emprego por ser uma economia forte, como é o setor naval. E essa frente de Parlamentares dos mais variados matizes políticos vem exatamente no sentido de prognóstico, diagnóstico e, ao mesmo tempo, propostas articuladas entre o campo do trabalho, trabalhadores e trabalhadoras, e o setor empresarial, para que nós consigamos retomar, com força, essa indústria, que é geradora de trabalho e renda para a nossa gente. Então, eu estou feliz por essa oportunidade. Em breve, nós estaremos fazendo o ato de lançamento da frente parlamentar, que já está encaminhada para a análise da Presidência. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-05-04T10:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F5%2F2023&txPagina=46&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Saneamento básico,Esgoto sanitário,Água,Privatização,Companhia Riograndense de Saneamento (CORSAN),contrário,Empresa estatal",
+    "sumario" : "Defesa de manutenção do caráter público das empresas estaduais de saneamento. Contrariedade à privatização da Companhia Riograndense de Saneamento - CORSAN.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Minha saudação, Sr. Presidente, Sras. Deputadas, Srs. Deputados, aqueles que nos assistem. Quero aqui trazer, hoje, um tema que tem sido recorrente nos últimos dias nesta Casa: a questão da água pública, a questão do marco regulatório referente à água. E uma das falas que se tem feito é a de que todos estão preocupados com as pessoas mais pobres, as que não têm acesso ao saneamento, à água e assim por diante. Quero resgatar à memória que, durante muito tempo, eu não vi iniciativa nenhuma de tratamento de água e de esgoto no nosso País. E essa retomada dos investimentos na área do saneamento se deu a partir do ano de 2003, com o Presidente Lula e depois, na sequência, com a Presidenta Dilma. O que nós vimos nesses últimos anos, dentro daquilo que defino como uma destruição do Estado brasileiro, foi também a aprovação nesta Casa de um novo marco regulatório que trabalha na exclusão das companhias públicas, na lógica de entregar para o privado um bem público, a gestão de um bem público, que é o saneamento e a água. E é dessa forma que eu externo aqui a minha preocupação, preocupação essa baseada nessa legislação que foi aprovada há 2 anos nesta Casa, em que houve privatizações, mas muitas licitações se deram desertas, porque o setor privado não investe onde não tem lucro, não tem como pauta prioritária o interesse público. E querem ver a água privatizada. Ao mesmo tempo, eu me reporto àquilo que vemos em outros países, em outros Municípios, em outras regiões, fora do Brasil, onde houve a privatização e que, com o tempo, agora, nós vemos a reestatização, porque a privatização não deu certo. Eu menciono aqui o exemplo da companhia estadual de saneamento do Rio Grande do Sul, a CORSAN  Companhia Riograndense de Saneamento, que o Governo do Estado tenta privatizar de todas as maneiras. Mas ele tem sofrido derrotas no Tribunal de Contas e na Justiça. Eu e a Deputada Reginete Bispo estivemos no Ministério Público de Contas, que acabou de dar um parecer contrário a essa privatização, dizendo que estava subprecificada a avaliação da companhia. Ela estava sendo vendida por 4 bilhões de reais, mas, no mínimo, valia 8 bilhões de reais. Querem fazer um esforço para entregá-la para o setor privado, esquecendo-se dos pequenos Municípios, esquecendo-se das comunidades quilombolas, das comunidades de periferia, onde o setor privado não vai investir. A Companhia Riograndense de Saneamento  estou encerrando, Sr. Presidente  é superavitária. Caso essa empresa seja mantida pública, o saneamento no nosso Estado, até 2027, chegará a 70% e, até 2033, chegará a mais de 90%. Ela cumprirá, assim, o seu papel. Então, nós estamos aqui na defesa da água pública, na defesa do direito das companhias estaduais de receberem recursos públicos para continuar cumprindo o seu papel. Sr. Presidente, se possível, peço a divulgação no programa A Voz do Brasil da minha fala. Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-05-16T21:20",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F5%2F2023&txPagina=150&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Elogio,Governo federal,Presidente da República,extinção,Preços de Paridade de Importação (PPI),Petróleo Brasileiro (Petrobras),Combustível,Gás Liquefeito de Petróleo (GLP),redução,Inflação,Apoio político",
+    "sumario" : "Redução dos preços de combustíveis, do gás de cozinha e de alimentos, com a extinção da política de Preço de Paridade de Importação - PPI adotada pela PETROBRAS.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Minha saudação, Sr. Presidente, Srs. Deputados e Sras. Deputadas. Quero dizer isto nesta data: que baita governo o Presidente Lula está fazendo! Nós todos sabemos que não será, e não seria, de uma hora para outra, num estalar de dedos, que vamos reverter todo o desmantelamento que foi feito no nosso País nos últimos anos. Agora, vejam a decisão que está sendo tomada hoje pela PETROBRAS, no sentido de desconstituir a paridade de preços de importação relativamente ao preço do barril de petróleo. A empresa está retomando todo aquele período anterior ao Governo Temer, período em que se tornou uma gigante petroleira mundial que nunca trabalhou com a questão da paridade, a não ser após 2016. Ao voltarmos àquele padrão anterior, nós estaremos olhando para o consumo interno, para o povo brasileiro. Não tem por que a PETROBRAS estabelecer preços de paridade de importação quando o seu custo de produção é outro. Com isso, nós estaremos trazendo o preço do gás, da gasolina e do diesel para patamares mais justos, menores em relação àqueles que foram praticados nos últimos anos e que espoliaram principalmente a ampla maioria do brasileiro, que compra o gás, que compra combustível. E onde isso tudo se refletia? Na prateleira do supermercado, no preço do frete, aumentando o custo de vida da população brasileira, aumentando também o custo da própria produção no nosso País. Eu não tenho dúvida nenhuma, portanto, de que estamos num momento extraordinário, um momento ímpar, voltando à prática da política de preços que havia no passado. Consequentemente, vai haver redução da inflação, redução dos preços, e não só da gasolina, não só do gás, não só do diesel. Vamos diminuir inclusive o preço daquilo que a população compra em supermercados, restaurantes, bares, feiras, porque, diminuindo-se o frete, também se diminui o preço pago no dia a dia pelo povo brasileiro. Estou muito feliz pela oportunidade de estar aqui comemorando essa decisão, que se soma a outras tantas e que nos faz dizer: o Brasil voltou, a PETROBRAS voltou! Parabéns, Presidente Lula! Parabéns, Jean Paul Prates! Parabéns, também, Federação Única dos Petroleiros, que sempre esteve nessa luta em defesa da PETROBRAS e da reversão dessa paridade de preços de importação. Viva o Brasil! Viva o Presidente Lula!"
+  }, {
+    "dataHoraInicio" : "2023-05-18T10:24",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F5%2F2023&txPagina=43&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Salário mínimo,reajuste,Preços de Paridade de Importação (PPI),Combustível,Fim,Pré-contrato,redução,Petróleo Brasileiro (Petrobras),Inflação\r\nTaxa de juros,Banco Central do Brasil (Bacen),redução,Defesa",
+    "sumario" : "Reajuste do valor do salário mínimo. Redução dos preços de combustíveis em decorrência da revogação da política de Preço de Paridade de Importação - PPI praticada pela PETROBRAS. Necessidade de redução da taxa básica de juros, a Taxa SELIC, pelo Banco Central do Brasil. Queda dos índices inflacionários.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, aqueles que nos assistem pela TV Câmara e pelos meios de comunicação da nossa Casa Legislativa, quero aqui enfatizar que nós tivemos avanços significativos neste ano. Um deles é a majoração do salário mínimo em mais de 6%, ao contrário do que aconteceu no Governo passado, quando o nosso País se colocou como um dos países em que o salário mínimo menos cresceu ou diminuiu, pois houve diminuição de valor de compra. Ao mesmo tempo, eu quero fazer referência ao fato de que nós tivemos, também nesta semana, notícias relevantes, como a redução do preço dos combustíveis por parte da PETROBRAS, quebrando a paridade internacional. Isso vai se refletir, sim, na economia nacional, pois haverá diminuição do preço nas prateleiras, do custo de frete, do preço para as pessoas abastecerem os seus veículos. Isso tudo é reflexo positivo. Mas nós temos um desafio, que é a redução da taxa de juros no nosso País, que ainda está extremamente elevada, em 13,75%, dificultando o desenvolvimento da economia brasileira. Trago como referência algumas questões para que as pessoas que nos assistem compreendam. Com o aumento da taxa SELIC para o patamar em que está, o gasto do Governo com juros desde 2021 duplicou. Então, nos últimos 12 meses, foram pagos 617 bilhões de reais em juros, por conta dessa taxa absurda. Ao mesmo tempo, esse valor é 1,8 vezes o gasto total com o funcionalismo da União  ativos e inativos, civis e militares  de todos os Poderes; é 1,7 vezes o gasto total com transferências a Estados, Municípios e Distrito Federal; é quase seis vezes o gasto total com o programa Bolsa Família. Isso significa, Sr. Presidente, que essa taxa de juros abusiva de 13,75% precisa ser reduzida. Quero ainda enfatizar alguns dados relevantes. A questão do IPCA do mês de abril, que foi divulgada nesta semana, apontou para 0,61% de inflação no mês, abaixo de 0,71% de março e do... (Desligamento do microfone.) O SR. PRESIDENTE (Cabo Gilberto Silva. PL - PB) - Peço-lhe que conclua, Sr. Deputado. Antes de V.Exa. concluir, comandante, quero agradecer a visita do 3º ano do ensino fundamental do Colégio Iesgo, de Formosa, em Goiás. Agradeço a presença de todos. É muito importante que as nossas crianças e os nossos adolescentes aprendam e visitem a Câmara dos Deputados, o Congresso Nacional, para terem conhecimento da nossa legislação. Peço ao Plenário uma salva de palmas para o 3º ano do ensino fundamental do Colégio Iesgo, de Formosa, em Goiás. (O Plenário presta a homenagem solicitada.) O SR. PRESIDENTE (Cabo Gilberto Silva. PL - PB) - Tem a palavra o Deputado Alexandre Lindenmeyer, para concluir. O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS) - Sr. Presidente, concluindo, nós temos uma inflação de 0,61%, que já é abaixo de 0,71% de março e de 1,06% de abril de 2022, ou seja, a inflação acumulada continua em queda, e a inflação acumulada dos alimentos também está em queda. Essas são boas notícias. Salve o Governo Lula! O Brasil... (Desligamento do microfone.) O SR. PRESIDENTE (Cabo Gilberto Silva. PL - PB) - Peço-lhe que conclua, Deputado. O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS) - Peço que seja registrada no programa A Voz do Brasil a minha manifestação. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-05-18T10:40",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F5%2F2023&txPagina=&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Rio Grande (RS),Centro de Tradições Gaúchas (CTG),Cultura (ciências sociais)\r\nUniversidade,Rio Grande do Sul,ranking",
+    "sumario" : "Realização da 52ª Ciranda Cultural de Prendas do Movimento Tradicionalista Gaúcho, no Município de Rio Grande, Estado do Rio Grande do Sul. Saudação à Primeira Prenda Adulta do Rio Grande do Sul, Giovana Martins. Inclusão da Universidade Federal do Rio Grande do Sul - UFRGS; da Universidade Federal de Pelotas - UFPEL; da Universidade Federal de Santa Maria - UFSM; e da Pontifícia Universidade Católica do Rio Grande do Sul - PUC entre as 2 mil universidades melhores do mundo.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Eu quero aproveitar esta oportunidade para enfatizar que, na minha cidade, Rio Grande, no Estado do Rio Grande do Sul, está se iniciando hoje a 52ª Ciranda Cultural de Prendas do Movimento Tradicionalista Gaúcho e vai até o dia 20. Quero aproveitar também para parabenizar a Primeira Prenda Adulta do Rio Grande do Sul, a Giovana Martins, da minha cidade. Quero parabenizá-la pela brilhante gestão que teve. Ao mesmo tempo, desejo boa sorte a todas as candidatas e candidatos da ciranda cultura deste ano, na pessoa da Tássia e da Fernanda, que representam a 6ª Região Tradicionalista. Por fim, Sr. Presidente, quero parabenizar 5 universidades do Rio Grande do Sul: UFRGS, UFPEL, Universidade Federal do Rio Grande do Sul, Universidade Federal de Santa Maria e a PUC do Rio Grande do Sul, por estarem entre as 2 mil universidades consideradas as melhores no mundo. Parabéns à educação superior do povo gaúcho! Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-06-14T16:52",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F6%2F2023&txPagina=83&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Governo,Partido dos Trabalhadores (PT),Petróleo Brasileiro (Petrobras),Rio Grande (RS),Elogio,Crescimento econômico\r\nMedida provisória,Programa Minha Casa, Minha Vida (PMCMV)\r\nGoverno,Programa Farmácia Popular do Brasil,Política social",
+    "sumario" : "Aprovação pelo Senado Federal da Medida Provisória nº 1.162, de 2023, sobre o restabelecimento do Programa Minha Casa, Minha Vida. Retomada do Programa Farmácia Popular. Sinais de recuperação da economia brasileira. Reflexos socioeconômicos da retomada da construção naval pela empresa Transpetro, subsidiária de transportes e logística da PETROBRAS. Resgate de políticas públicas destinadas à melhoria da qualidade de vida do povo brasileiro.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sra. Presidenta, Srs. Deputados, Sras. Deputadas, é uma satisfação estarmos, nesta tarde, nesta Casa, neste Parlamento brasileiro, para fazer referência a um novo momento que o Brasil está vivenciando em várias áreas. Como foi dito há pouco pela Deputada Any Ortiz, nós tivemos a aprovação, no Senado, do novo Minha Casa, Minha Vida. Tivemos recentemente também o lançamento do novo programa da Farmácia Popular. Ao mesmo tempo, vemos os indicadores do nosso País: a queda do dólar e o aumento do Produto Interno Bruto brasileiro, na faixa de 1,9%, ou seja, o quarto maior crescimento de PIB no mundo. Isso tudo é significativo para dizermos que a nossa economia está no caminho certo. O Brasil está gerando mais renda, mais trabalho, mais emprego, e isso tem nome: novo Governo, novos tempos, trabalho de reconstrução, trabalho de unidade. Eu quero fazer referência, Sra. Presidenta, ao fato de que, na minha cidade Rio Grande, a primeira cidade do Estado do Rio Grande do Sul, uma cidade portuguesa, tivemos recentemente a visita do Presidente da PETROBRAS, Jean Paul Prates, e também do Presidente da Transpetro. A notícia vai ao encontro daquilo que a população de Rio Grande, a população de São José do Norte e a população das cidades onde há estaleiros no nosso País esperavam: a PETROBRAS vai aumentar o volume de compras realizado no nosso País. Isso vai gerar a defesa do conteúdo nacional, vai gerar emprego no País, vai agregar tecnologia e inovação nacional. E quem ganha com isso? Quem ganha com isso é a indústria brasileira; quem ganha com isso é uma política de geração de trabalho e renda; quem ganha com isso é a soberania nacional, pela força, pela defesa da indústria brasileira existente na construção naval, que é estratégica não só para a PETROBRAS e para a Transpetro, mas também para a Marinha do Brasil e para a Marinha Mercante Brasileira. Nós estamos vendo, Sra. Presidenta, essa transformação nesses últimos meses, poucos meses, mas que já estão fazendo muita diferença na vida do povo brasileiro. É um conjunto de políticas públicas que foram resgatadas e que estão melhorando a vida do povo brasileiro. O Brasil voltou e volta com força, com reunificação do país e com muita unidade. Então, estou feliz por esse momento. Viva o povo brasileiro! Viva o Brasil! Sra. Presidenta, peço que a minha fala conste do programa A Voz do Brasil. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-07-03T19:20",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F7%2F2023&txPagina=45&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Plano Safra,Plano Safra da Agricultura Familiar,Recursos financeiros,Agricultura\r\nPresidente da República,Rio Grande do Norte,Programa Minha Casa, Minha Vida (PMCMV),Habitação de interesse social,Política habitacional,Visita oficial,Hospital,Porto Alegre (RS)\r\nSupremo Tribunal Federal (STF),Decisão judicial,Constitucionalidade,Lei estadual,Rio Grande do Sul,proibição,Pesca de arrasto,Pesca artesanal",
+    "sumario" : "Lançamento do Plano Safra de 2023/2024 e do Plano Safra da Agricultura Familiar de 2023/2024. Presença do Presidente Luiz Inácio Lula da Silva no Estado do Rio Grande do Sul para inauguração de unidades residenciais construídas por meio do Programa Minha Casa, Minha Vida. Visita do Presidente da República ao Hospital de Clínicas em Porto Alegre. Acerto da declaração, pelo Supremo Tribunal Federal, de constitucionalidade da lei estadual proibitiva da pesca de arrasto no Rio Grande do Sul.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu quero aproveitar esta oportunidade para fazer referência à semana que passou, que foi extraordinária. Na terça-feira, houve o lançamento do maior Plano Safra no Brasil para as médias e grandes empresas do campo. Foram mais de 364 bilhões de reais em investimentos nesse setor. Na quarta-feira, houve o lançamento do Plano Safra da Agricultura Familiar. Foram 71 bilhões de reais, chegando a 77 bilhões de reais no pacote, em termos de investimentos na agricultura familiar. Na sexta-feira, o Presidente Lula foi ao Estado do Rio Grande do Sul, Estado onde nasci, entregar 446 casas do Programa Minha Casa, Minha Vida  Entidades, com a retomada da construção da habitação popular no nosso País. No mesmo dia, ele foi também ao Hospital de Clínicas de Porto Alegre, o maior hospital, em termos de alta complexidade em áreas específicas, localizado no Rio Grande do Sul, com investimentos que ao todo, feitos ainda no período da Presidenta Dilma, somam o montante de 555 milhões de reais, que mais do que triplicaram a área do hospital. Agora há mais um investimento na inauguração de todo um setor que serve ao Brasil, também na casa de 165 milhões de reais. E para fechar a semana de forma muito feliz, houve a decisão do Supremo Tribunal Federal que julgou constitucional a lei estadual do Rio Grande do Sul proibindo a pesca de arrasto dentro das 12 milhas, preservando as espécies, preservando os alimentos para o nosso peixe e, ao mesmo tempo, permitindo que haja o repovoamento, o controle de estoques, sem falar da questão especial de preservação do meio ambiente, da pesca artesanal, da pesca industrial com sustentabilidade, reconhecendo a competência e a legitimidade do Estado do Rio Grande do Sul para legislar sobre a área em questões atinentes à sua costa. Foi uma vitória de 9 a 1, dada pelo Supremo Tribunal Federal, e quem ganha com isso é o povo do Rio Grande do Sul, quem ganha com isso é o meio ambiente. Por fim, Sr. Presidente, peço que a minha manifestação conste dos Anais e também dos registros da imprensa da Casa. Muito obrigado e até a próxima oportunidade."
+  }, {
+    "dataHoraInicio" : "2023-08-08T20:52",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F8%2F2023&txPagina=161&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Governo federal,Infraestrutura,Inflação,combate,Fome,Emprego,Política pública,Defesa\r\nCâmara dos Deputados,Proposição legislativa,Aprovação",
+    "sumario" : "Relevância de proposições aprovadas pela Câmara dos Deputados. Gestão exitosa do Presidente Luiz Inácio Lula da Silva. Reconstrução do País pelo governo petista.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados e Sras. Deputadas, utilizo esta tribuna para fazer uma fala de comemoração de tudo aquilo que temos construído dentro do Parlamento, em termos de projetos. Projetos já foram aprovados nesta Casa, projetos estão tramitando e, do nosso ponto de vista, serão aprovados e irão ao encontro de um país melhor. Os arautos do caos afirmam que o Brasil não vai dar certo, que os juros vão disparar, que o dólar vai subir. Essa era a narrativa quando o Presidente Lula ganhou a eleição, quando o Ministro Fernando Haddad assumiu. O que temos visto nos últimos tempos é a queda dos juros, é a queda do dólar, é a queda da inflação, é a queda dos preços dos alimentos e, ao mesmo tempo, o Brasil voltar a ter investimentos significativos em infraestrutura, coisa que nos últimos anos nós não vimos. Para aqueles que nos assistem quero que fique claro que o que o Brasil está investindo em infraestrutura neste ano é o equivalente a mais do que o que foi investido nos últimos 4 anos que antecederam o Governo Lula. Isso é diminuição de custo, é investimento em logística e infraestrutura, isso torna o País mais competitivo. Não é diferente no que diz respeito à geração de emprego e renda para a nossa gente. Ao mesmo tempo, nós vemos, através de políticas já aprovadas nesta Casa, de políticas encaminhadas pelo Presidente Lula, a queda no número de pessoas que não têm acesso à alimentação. Dos 33 milhões de brasileiros que não conseguiam fazer pelo menos uma refeição por dia, hoje são pouco mais de 22 milhões de brasileiros. Ainda há muito a ser feito, porque o estrago feito nos últimos anos foi muito grande, mas nós temos certeza de que o Brasil vai voltar a erradicar a fome, de que o Brasil vai voltar a ter pleno emprego. O Brasil volta a ser reconhecido internacionalmente, como um país soberano e que merece ser respeitado. Mas, principalmente, Sr. Presidente, quem ganha com isso? É o povo brasileiro. Nós temos que trabalhar muito pela reconstrução deste País, porque a destruição foi grande. Acima de tudo, temos que trabalhar também um processo de união, porque o povo brasileiro está acima das diferenças que são colocadas aqui por aqueles que não querem que dê certo. Nós acreditamos no Brasil, nós queremos o melhor para o povo brasileiro, e isso é representado pelas políticas que são feitas pelo Governo Lula. Peço que conste nas redes sociais da Casa e também no programa A Voz do Brasil a nossa fala. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-08-10T13:24",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2023&txPagina=103&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Apoio político,Câmara dos Deputados,Aprovação,Projeto de lei ordinária,Lei de Cotas de Ingresso nas Universidades,Sistema de cotas raciais,Ação afirmativa,caráter permanente,Assembleia Legislativa,Rio Grande do Sul,Deputado estadual,Negros\r\nCrítica,Oposição política,Discurso de ódio,Radicalismo político\r\nsolidariedade,Deputada federal,Atuação parlamentar,Conselho de Ética e Decoro Parlamentar,Representação (processo legislativo)",
+    "sumario" : "Regozijo com a aprovação do Projeto de Lei nº 5.384, de 2020, sobre a alteração Lei nº 12.711, de 2012, com vista à transformação, em caráter permanente, da reserva de vagas nas universidades federais e nas instituições federais de ensino técnico de nível médio.&nbsp;Construção de projeto de união do País. Incoerência de discursos em defesa da família e a favor das armas e de chacinas.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Srs. Deputados, Sras. Deputadas, quero aqui comemorar a aprovação ontem, nesta Casa, de matéria relativa a cotas. Para aqueles que contestam, que são contra as políticas afirmativas, a um colega Deputado que se pronunciou contra essa política que foi aprovada eu fiz referência ao Estado do Rio Grande do Sul, onde fui Deputado na 53ª Legislatura  ou seja, mais de 200 anos. Nesse período, apenas dois Deputados negros ocuparam aquele espaço no Parlamento gaúcho. Isso é fruto do acaso? Não! Isso é fruto da inexistência de políticas ao longo de vários anos que pudessem reparar aquilo que foi feito com a população negra. Não foi diferente em relação aos indígenas. Não é por acaso que, neste Plenário, nós tenhamos ampla maioria de pessoas brancas, não pardos, negros, indígenas, muito embora o retrato do País seja extremamente plural em termos de várias etnias. Então, quero comemorar a aprovação que houve no dia de ontem. Com relação à questão da democracia, nós temos que ser afirmativos. O Brasil está sendo reconstruído e baseado principalmente na construção de um projeto de união do País, bem diferente daquilo que nós vivenciamos no ano passado e nos últimos anos, quando o discurso era de ódio, de cisão: \"Ou tu concorda comigo ou tu é meu inimigo\". Não há espaço para isso. Aqueles que vêm à tribuna falar em defesa disso ou daquilo, em defesa da família, são a favor das armas, defendem o ódio, defendem a chacina, defendem esse tipo de situação. Quero também me solidarizar com a Deputada Juliana Cardoso e as demais Deputadas deste Parlamento que estiveram na tribuna, na linha de defesa, exercendo o mandato como Deputadas, externando suas posições, e estão hoje respondendo a processos no Conselho de Ética, diferentemente daquilo que vemos em relação a outros Deputados, que proferiram arbitrariedades, falas absurdas, mas nem por isso chegam ao Conselho de Ética. Deixo minha solidariedade a essas Deputadas, porque efetivamente é uma injustiça. Por fim, Sr. Presidente, peço que a minha fala conste do programa A Voz do Brasil. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-08-17T11:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F8%2F2023&txPagina=52&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Programa de Aceleração do Crescimento (Novo PAC),lançamento,Setor estratégico,Indústria,Construção naval,Petrobras Transporte (Transpetro),Petróleo Brasileiro (Petrobras),Construção civil,Política habitacional,Presidente da República,Partido dos Trabalhadores (PT),Governo federal,avaliação positiva,Opinião pública,Pesquisa de opinião",
+    "sumario" : "Lançamento do novo Programa de Aceleração do Crescimento - PAC 3. Relevância dos investimentos realizados pelo PAC em setores estratégicos da indústria e na construção naval. Aprovação popular do Governo Luiz Inácio Lula da Silva.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Srs. Deputados, Sras. Deputadas, aqueles que nos assistem, quero aproveitar este momento nesta tribuna para fazer referência ao grande ato do qual participamos na última sexta-feira no Rio de Janeiro, onde foi lançado pelo Presidente Lula o Programa de Aceleração do Crescimento 3, o PAC 3, com 1 trilhão e 700 bilhões de reais de investimentos no nosso País nas mais variadas áreas. São investimentos na área da educação, em construção de escolas, em conclusão de escolas inacabadas; na área da saúde, em unidades básicas de saúde, policlínicas; na área da infraestrutura logística do nosso País, em ferrovias, em hidrovias, em obras importantes nas rodovias, em melhoria de portos e aeroportos. Isso tudo vem dentro do PAC. Além disso, temos como referência investimentos em setores estratégicos da indústria e na construção naval. Faço referência neste momento ao anúncio da construção de pelo menos 25 navios, 25 embarcações, pela TRANSPETRO e PETROBRAS. Ao mesmo tempo, pela Marinha do Brasil, são quatro fragatas e 12 navios-patrulha, que são relevantes para a defesa do nosso País, para o controle das águas. Há investimentos da PETROBRAS que ampliam sua capacidade de contratação de novos equipamentos que ocuparão estaleiros brasileiros, criando postos de trabalho, gerando impostos, fortalecendo a economia nacional, utilizando principalmente as tecnologias nacionais, agregando renda, fortalecendo o desenvolvimento do nosso País. Nos anos recentes, vimos ser destruída a indústria nacional. Agora ela começa a ressurgir com força também na área da construção civil, com investimentos estimados em mais de 15 bilhões, através da política de construção habitacional para o povo de renda mais baixa. Eu quero comemorar, Sr. Presidente, porque, no primeiro semestre, reconstruímos nesta Casa inúmeras políticas públicas que foram destruídas ao longo dos últimos anos. O Governo Lula traz de volta políticas importantes. Daqui para frente, o Governo Lula, através do PAC 3, fará relevantes investimentos para melhorar a vida do povo brasileiro, com mais renda, mais trabalho, mais oportunidades. Por isso, comemoro. O Brasil está voltando. O reflexo disso é a manifestação popular nas pesquisas, dizendo que aprova o Governo Lula. Sr. Presidente, peço que esta manifestação seja divulgada pelas redes de comunicação desta Casa. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-09-04T20:20",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2023&txPagina=86&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Dia da Independência do Brasil,Golpe de Estado (crime),Tentativa (crime),Brasília (DF)\r\nPresidente da República,Partido dos Trabalhadores (PT),Posse,Política social,Política pública,Política econômica,Salário mínimo,valorização,Bolsa Família,Educação,Saúde,Ciência e tecnologia,avaliação positiva",
+    "sumario" : "O Deputado destacou a importância de comemorar o 7 de Setembro, Dia da Independência do Brasil, especialmente após anos de ameaças e tensões nessa data, que culminaram em uma tentativa de golpe em janeiro de 2023. Recordou da posse do Presidente Lula e enfatizou a união e a reconstrução como principais pilares do governo atual. Mencionou a retomada de políticas públicas, como a valorização do salário mínimo e do Bolsa Família, melhorando a qualidade de vida da população. Ressaltou os sinais positivos na economia, além dos investimentos em educação, saúde, ciência e tecnologia. Convidou todos a comemorar a independência do Brasil e a persistir na busca pela redução das desigualdades sociais, destacando que o País está no caminho certo rumo à reconstrução.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados e Sras. Deputadas, quero aproveitar esta oportunidade para enfatizar a necessidade e a importância de comemorarmos este 7 de Setembro, o Dia da Independência do Brasil, principalmente após termos visto, por anos, ameaças reiteradas no 7 de Setembro, que culminaram inclusive com uma tentativa de golpe no dia 8 de janeiro. Eu quero resgatar um momento histórico, a posse do Presidente Lula, representada por aquilo que eu considero como o maior patrimônio do País, que é o seu povo, na sua diversidade. De lá para cá, após a posse e após a tentativa de golpe frustrada que houve neste País, o que nós temos visto é que aquela defesa de união e reconstrução tem sido, sim, o mote principal deste Governo, do Governo do Presidente Lula, e tem dado certo. Nós reconstruímos, com a participação desta Casa Legislativa, um conjunto de políticas públicas que foram destruídas ao longo dos últimos anos, políticas essas que foram reconstruídas e, de forma gradativa, estão dando sinais importantes de melhorias para o povo brasileiro. Eu me refiro à valorização do salário mínimo, à valorização do Bolsa Família, à melhoria da capacidade de aquisição de alimentos por parte do povo, à empregabilidade, que melhora, à inflação, que diminui, ao preço dos alimentos, que diminui, enfim, aos investimentos, focados principalmente na economia, mas também na educação brasileira, na saúde, na ciência e na tecnologia. Ao mesmo tempo, Sr. Presidente, o Brasil está voltando a respirar ares que dialogam com a ideia de que a Bandeira Nacional não é exclusiva de setores, é de todos nós. Por isso digo que nós temos que comemorar, sim, o dia 7 de Setembro, o Dia da Independência do Brasil, dizendo de forma efetiva que hoje o Brasil volta a ser representado e respeitado internacionalmente como um país soberano que dialoga com todos os continentes, que respeita acima de tudo a independência e a soberania nacionais. Dessa forma, eu os convido a continuar com o foco na busca pela dissipação das desigualdades sociais que nos desafiam nos dias de hoje, sabendo que nós estamos no caminho certo. Não devemos, em momento algum, nos furtar de ir às ruas no dia 7 para comemorar a Independência e também para fortalecer o grito dos excluídos, porque as pautas são justas. A destruição foi grande, mas, com unidade, a reconstrução está sendo feita. Sr. Presidente, peço que a minha manifestação conste do programa A Voz do Brasil. Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-09-14T09:16",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F9%2F2023&txPagina=&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Ciclone,Enchente,Chuva,Rio Grande do Sul,Apoio político,Governo federal,Cooperação política,Governo estadual,Defesa civil,Política ambiental,recuperação,Vegetação,Meio ambiente,Preservação ambiental,prevenção,Desastre ambiental,Catástrofe natural",
+    "sumario" : "O Deputado manifestou alívio com a ausência de chuvas no Rio Grande do Sul, que sofreu desastres ambientais recentes. Ressaltou o apoio do Governo Federal ao Estado, no entanto, enfatizou a importância de se fortalecer, com planejamento articulado, a Defesa Civil e, ao mesmo tempo, agir na recuperação das matas ciliares. O orador afirmou que esses fenômenos resultam da degradação do meio ambiente em todo o País e instou os entes federados prevenirem tragédias e preservarem os recursos naturais.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, eu quero aproveitar este espaço para comemorar o fato de que, no dia de hoje, no Rio Grande do Sul, não há chuva. Nós temos vivido um impacto de fenômenos ambientais de forma sucessiva nos últimos 120 dias. Foram vários ciclones, cheias, e, agora, pelo menos até o último final de semana, houve uma trégua. Agora, mais do que nunca, nós precisamos enxergar este momento. Muito embora tenhamos o apoio do Governo Federal, com mais de 741 milhões de reais; articulação com o Governo do Estado; 1 bilhão do BNDES, sem juros; 1.500 casas pelo Minha Casa, Minha Vida, nós precisamos estabelecer com o Estado do Rio Grande do Sul um planejamento no sentido de fortalecermos a Defesa Civil e, ao mesmo tempo, trabalharmos na recuperação das matas ciliares, porque esses fenômenos não são fruto do acaso: são frutos da devastação, do estrago que está sendo feito no País como um todo no meio ambiente. Então, aqui fica o nosso chamamento não só para que não venhamos a ter, de forma recorrente, fenômenos como esses, mas também para que nós possamos ter um planejamento prévio, articulado, entre Estado, Município e União, a fim de trabalharmos principalmente na prevenção e também na preservação do meio ambiente. Obrigado, Sr. Presidente."
+  }, {
+    "dataHoraInicio" : "2023-09-20T19:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Ordem do Dia",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F9%2F2023&txPagina=148&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Orientação de bancada,Projeto de decreto legislativo,Base de apoio político,Governo,Voto favorável",
+    "sumario" : "O Deputado orientou a bancada na votação do Projeto de Decreto Legislativo nº 321, de 2023, que reconhece, para os fins do art. 65, § 1º, da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), a ocorrência do estado de calamidade pública no Estado do Rio Grande do Sul em decorrência dos eventos climáticos de chuvas intensas.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - O Governo orienta \"sim\", Presidente, ressaltando que os efeitos climáticos que têm ocorrido no Rio Grande do Sul não terminaram, eles estão em curso ainda. O cenário de calamidade vai se expandindo a partir do momento em que nós temos novas chuvas, chuvas de granizo. E, ao mesmo tempo, o nível da Lagoa dos Patos está praticamente aumentando, bem como em todas as áreas ribeirinhas a ela. Desde o norte do Estado, o centro de Porto Alegre, até à boca da Barra, tem havido sérios problemas de alagamento. O Governo Federal tem agido de forma articulada com o Governo do Estado, através da presença da Defesa Civil de forma permanente no Estado do Rio Grande do Sul, e com a presença do Presidente em exercício, o Vice-Presidente Alckmin, juntamente com mais oito Ministros no Rio Grande do Sul na semana passada. Para a semana que vem, já está prevista mais uma visita do Presidente em exercício, juntamente com Ministros. No dia de hoje, foi anunciada a liberação de 300 e poucos milhões de reais, além de outros recursos já garantidos para darmos continuidade ao apoio ao povo gaúcho. Quero também mencionar que foi destinado 1 bilhão de reais, sem juros, através do BNDES, para auxiliar na reconstrução do nosso Estado, e também recursos do FGTS. Agora, mais do que qualquer outra coisa, eu quero parabenizar o povo gaúcho, que tem sido solidário na sua reconstrução, e também o povo brasileiro, que tem se irmanado neste momento tão difícil que o nosso Estado está vivendo. Mais do que nós ficarmos aqui trabalhando com narrativas, nós precisamos de ações concretas e de manifestações sinceras de apoio ao povo gaúcho. Obrigado, Sr. Presidente. O Governo define pelo \"sim\"."
+  }, {
+    "dataHoraInicio" : "2023-09-26T20:20",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F9%2F2023&txPagina=150&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "solidariedade,Povo,Rio Grande do Sul,Ciclone,Desastre ambiental,Catástrofe natural,Chuva,Inundação,Mudança climática,Elogio,Cooperação política,Governo federal,Governo estadual,Defesa civil,Investimento",
+    "sumario" : "O Deputado expressou sua solidariedade ao povo gaúcho, que enfrenta uma série de desastres naturais, incluindo ciclones, chuvas intensas e enchentes que causaram perdas significativas, incluindo vidas e propriedades. Mencionou que essa situação não é isolada e afeta várias regiões do Rio Grande do Sul. Destacou a importância de continuar a cooperação entre o Governo Federal, a Defesa Civil Nacional e o Governo Estadual para enfrentar esses desafios, com investimentos consideráveis para superar essa crise.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sra. Presidenta, Srs. Deputados, Sras. Deputadas, eu quero ocupar o espaço desta tribuna para externar minha solidariedade a todo o povo gaúcho. Ao mesmo tempo, agradeço todas as manifestações de brasileiros e brasileiras que têm da mesma forma externado solidariedade ao povo gaúcho, que há mais de 120 dias está passando por situações sucessivas de ciclones, chuvas, chuvas de granizo, consequentemente com cheias nos rios, nas lagoas, na Lagoa dos Patos, com um número significativo de mortes. Pessoas perderam suas casas, suas economias. As chuvas causaram impacto na lavoura e na pesca. Isso tudo não é uma situação pontual, aqui ou acolá. Nós temos visto isso tanto no Vale do Taquari quanto na Região Metropolitana e na zona litoral, e, no dia de hoje, também em Tramandaí, nas áreas ribeirinhas da Lagoa dos Patos, na Barra do Ribeiro, Arambaré, Tapes, chegando até o estuário, até o final da Lagoa dos Patos. Na minha cidade de Rio Grande, onde fui Prefeito, todas as áreas marginais e áreas centrais estão ocupadas por águas. Ao mesmo tempo, a Ilha da Torotama e a Ilha dos Marinheiros estão praticamente cobertas pelas águas, não só em Rio Grande, mas também na cidade de Pelotas, principalmente na região da Z3. Ao mesmo tempo, ocorrem chuvas de granizo em Bagé, em Hulha Negra e Candiota. Naquela região, mais de 10 mil casas foram atingidas. Enfim, o Rio Grande do Sul tem sido impactado de forma sucessiva pelos efeitos climáticos. Mas, ao mesmo tempo, quero enaltecer aqui a articulação, de forma direta, do Governo Federal com a Defesa Civil Nacional, com vários Ministérios e com o Governo do Estado do Rio Grande do Sul, que agora, na próxima quinta, com a presença de mais Ministros e do Estado brasileiro, poderão minimizar os impactos desses efeitos climáticos, contando ainda com investimentos do Governo Federal da ordem de mais de 2 bilhões e 600 milhões, que estão chegando ao Rio Grande do Sul de formas variadas. Isso vai requerer, sim, continuidade, de forma articulada, para que nós possamos estar acompanhando o Estado do Rio Grande do Sul e o povo gaúcho e superando essa situação tão dramática que tem impactado aquele povo do sul. Então, deixo aqui o nosso registro e o nosso agradecimento por toda solidariedade que o povo gaúcho tem recebido e também pelas ações do Governo Federal, que tem alcançado soluções de forma continuada. Peço que a minha manifestação conste do programa A Voz do Brasil, Sra. Presidenta. Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-10-24T16:00",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F10%2F2023&txPagina=68&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "São José do Norte (RS),Aniversário de fundação,Agricultura familiar,Estaleiro,Emprego",
+    "sumario" : "O Deputado parabenizou o Município de São José do Norte, no Rio Grande do Sul, pelo seu 192º aniversário. Destacou a hospitalidade e a contribuição do povo local, mencionando a importância da agricultura familiar, do polo pesqueiro e do polo de biomassa na economia do Município. O orador mencionou a implantação de um estaleiro pela empresa Estaleiros do Brasil, que gera postos de trabalho na região.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Obrigado, Sra. Presidenta. É uma satisfação tê-la na Presidência. Quero aproveitar esta oportunidade para parabenizar o Município de São José do Norte, no interior do Rio Grande do Sul, um dos mais antigos do nosso Estado, que amanhã completa 192 anos de existência. O Município tem como maior patrimônio seu povo, um povo extremamente acolhedor. Além da agricultura familiar, o Município dispõe de um grande polo pesqueiro e um grande polo de biomassa. Agora, inicia a implantação de um estaleiro, por meio da empresa Estaleiros do Brasil, que vem produzindo e contribuindo muito para a indústria naval brasileira na construção de módulos, gerando, em todas estas atividades, muitos postos de trabalho. Portanto, toda a nossa atenção e todo o nosso respeito ao Município de São José do Norte. Parabéns, São José do Norte, pelos 192 anos de existência! Parabéns, principalmente, povo nortense! Obrigado, Sra. Presidenta."
+  }, {
+    "dataHoraInicio" : "2023-10-24T16:08",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F10%2F2023&txPagina=70&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Copa América,Taekwondo,Atleta,Rio Grande do Sul,Congratulação",
+    "sumario" : "O Deputado celebrou as conquistas de três gaúchos na Copa América de Taekwondo: Mestre Roger Marasciulo, na categoria Master 2, e seus alunos Gabriel Botelho e Artêmios Patron, campeões nas categorias faixa preta juvenil e vice-campeão faixa colorida juvenil, respectivamente. O orador parabeniza os atletas pelo reconhecimento alcançado no campeonato, destacando suas vitórias no âmbito da América Latina e do Brasil.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Obrigado, Presidenta. Eu quero compartilhar uma boa notícia com todos aqueles que nos ouvem. Nós tivemos a Copa América de Taekwondo, em que três conterrâneos meus receberam titulações. Um deles, o Mestre Roger Marasciulo, 5º DAN, sagrou-se campeão americano na categoria Master 2, e seus alunos Gabriel Botelho, a quem parabenizamos, 3º DAN, e Artêmios Patron, faixa vermelha, sagraram-se, respectivamente, campeões americanos nas categorias faixa preta juvenil e vice-campeão americano faixa colorida juvenil. Fica, portanto, este registro aos meus conterrâneos, que foram reconhecidos, através deste campeonato no âmbito da América Latina e do Brasil, campeões na área do taekwondo. Muito obrigado."
+  }, {
+    "dataHoraInicio" : "2023-10-24T19:28",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "PELA ORDEM",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F10%2F2023&txPagina=130&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "São José do Norte (RS),Aniversário de fundação,Homenagem",
+    "sumario" : "O Deputado parabenizou o 192º aniversário de emancipação político-administrativa do Município de São José do Norte (RS). Destacou a importância da agricultura familiar, do setor pesqueiro e do Estaleiro do Brasil na região. Expressou apoio à retomada do desenvolvimento econômico e social na área, elogiando a determinação e contribuição do povo nortense.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, é uma satisfação ocupar esta tribuna no dia de hoje para comemorarmos a vida de um povo, comemorarmos a vida do Município de São José do Norte, no Estado do Rio Grande do Sul, que no dia de amanhã completará 192 anos de existência. É um Município com agricultura familiar pujante, com o setor pesqueiro que merece todo o nosso respeito por toda sua tradição e história. O Município produz biomassa, ao mesmo tempo em que possui uma natureza exuberante, belíssima, e, principalmente, um povo acolhedor. Também se encontra nessa estrutura um grande estaleiro brasileiro, o Estaleiro do Brasil, que foi consolidado na Região Sul e hoje produz pelo menos 8 módulos, gerando mais de 3.300 postos de trabalho, seguindo a política que foi desenvolvida pelos Governos Lula e Dilma, que nós queremos ver retomada. Nós queremos, Sr. Presidente, mais do que qualquer outra coisa, valorizar a história desse Município, que é de suma importância para todo o litoral sul do Estado do Rio Grande do Sul e também para a área lindeira, para o Município de Rio Grande, onde nasci e fui Prefeito. Quero aproveitar esta oportunidade para, mais do que nunca, parabenizar o povo nortense por toda sua determinação ao longo desses 192 anos de existência, construindo este grande Município, São José do Norte, com a certeza de que estamos, sim, num caminho importante e virtuoso de retomada do desenvolvimento econômico, principalmente do desenvolvimento social, com a volta de políticas para a área da agricultura, com a retomada da política industrial brasileira, com a retomada da política industrial naval, com o fortalecimento das políticas de energias renováveis  os parques eólicos e o hidrogênio verde , que têm muito a ver com o Município de São José do Norte. É desta maneira, Sr. Presidente, que eu incluo: viva São José do Norte! Viva o povo nortense! Um forte abraço a todos e a todas! Parabéns pelos 192 anos de existência! Obrigado."
+  }, {
+    "dataHoraInicio" : "2023-10-26T10:32",
+    "dataHoraFim" : null,
+    "uriEvento" : "",
+    "faseEvento" : {
+      "titulo" : "Breves Comunicações",
+      "dataHoraInicio" : null,
+      "dataHoraFim" : null
+    },
+    "tipoDiscurso" : "BREVES COMUNICAÇÕES",
+    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F10%2F2023&txPagina=41&txSuplemento=&enviar=Pesquisar",
+    "urlAudio" : null,
+    "urlVideo" : null,
+    "keywords" : "Defesa,Ex-governador,Rio de Janeiro (Estado)\r\nPresença,Advogado,Rio Grande do Sul",
+    "sumario" : "O Deputado se associou a discurso em defesa do ex-Governador Leonel Brizola, destacando sua importância na história do Brasil. Também registrou a presença, na Casa, do advogado e Deputado do Estado do Rio Grande do Sul, Halley Lino de Souza.",
+    "transcricao" : "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Minha saudação, Presidente. Saudação a todos os colegas Deputados e Deputadas. Primeiro, faço coro às suas palavras ao se reportar a Leonel de Moura Brizola. Poderemos falar sobre muitos momentos da vida dele, mas aqui fica uma sugestão: procurem conhecer mais a luta pela legalidade, em 1961, e o quanto Brizola foi importante também naquele momento da história do Brasil. Sr. Presidente, quero registrar a presença da figura extraordinária que está ao meu lado, o Halley Lino de Souza, um grande ator social, pessoa com grande humanidade, advogado e também Deputado Estadual pelo Rio Grande do Sul, 1º Suplente do Partido dos Trabalhadores, que visita, neste momento, esta Casa. Muito obrigado pela oportunidade. Fica esse registo."
+  } ],
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220554/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
+  }, {
+    "rel" : "first",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220554/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  }, {
+    "rel" : "last",
+    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220554/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
+  } ]
+}
