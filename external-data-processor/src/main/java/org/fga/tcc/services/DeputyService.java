@@ -13,4 +13,5 @@ public interface DeputyService {
 
     void savePureData();
 
+    void saveDeputiesSpeechesByType();
 }

@@ -18,7 +18,7 @@ public class DeputyServiceImpl implements DeputyService {
 
     public static void main(String[] args) {
         DeputyService deputeService = new DeputyServiceImpl();
-        System.out.println(deputeService.getDeputes());
+//        System.out.println(deputeService.getDeputes());
 
 //        int x = 0;
 //
@@ -30,7 +30,7 @@ public class DeputyServiceImpl implements DeputyService {
 //        }
 //        System.out.println("x="+x);
 
-        deputeService.savePureData();
+        deputeService.saveDeputiesSpeechesByType();
     }
 
     @Override
@@ -82,4 +82,43 @@ public class DeputyServiceImpl implements DeputyService {
             }
         }
     }
+
+    @Override
+    public void saveDeputiesSpeechesByType() {
+        for (Deputy deputy : getDeputes()) {
+            List<DeputySpeech> deputySpeeches = getDeputySpeech(deputy.getId());
+
+            for (DeputySpeech deputySpeech : deputySpeeches) {
+                String speechType = deputySpeech.getSpeechType();
+
+                if (speechType != null && !speechType.isEmpty()) {
+                    String path = getNormalizedSpeechType(deputySpeech);
+                    File file = FileUtils.createFile(path);
+
+                    FileUtils.saveTxtFile(file.getAbsolutePath(), deputySpeech.getSummary());
+                }
+            }
+        }
+    }
+
+    private String getNormalizedSpeechType(DeputySpeech deputySpeech) {
+        /*
+        * If we use a cont variable, it's possible that the two or more
+        * speeches (different deputies) has the same cont. Then, in this case,
+        * the timestamp will be used instead.
+        * */
+        long timestamp = System.currentTimeMillis();
+
+        String normalizedSpeechType = deputySpeech.getSpeechType()
+                .replaceAll(" ", "_")
+                .replaceAll("Í", "I")
+                .replaceAll("Ã", "A")
+                .replaceAll("Ç", "C")
+                .replaceAll("Õ", "O")
+                .replaceAll("Ê", "E")
+                .trim();
+
+        return ResourceUtils.RESOURCE_TRAINING_PURE_DATA_PATH + "/" + "deputies/speechesTypes/" + normalizedSpeechType + "/" + timestamp + ".txt";
+    }
+
 }
