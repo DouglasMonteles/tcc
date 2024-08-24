@@ -7,8 +7,8 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.fga.tcc.entities.OpenDataBaseResponse;
-import org.fga.tcc.utils.ResourceInfo;
 import org.fga.tcc.utils.FileUtils;
+import org.fga.tcc.utils.ResourceUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -82,7 +82,7 @@ public class FetchJson<T> {
     }
 
     private String getFilePath(UriParams uriParams) {
-        String resourcesPath = ResourceInfo.RESOURCE_PATH;
+        String resourcesPath = ResourceUtils.RESOURCE_PATH;
         String filePath;
 
         if (uriParams.splitUri.length == 1) {

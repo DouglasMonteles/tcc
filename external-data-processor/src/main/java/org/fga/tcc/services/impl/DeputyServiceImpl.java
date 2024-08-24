@@ -8,8 +8,8 @@ import org.fga.tcc.enums.OpenDataEndpoints;
 import org.fga.tcc.json.FetchJson;
 import org.fga.tcc.json.RouterManager;
 import org.fga.tcc.services.DeputyService;
-import org.fga.tcc.utils.ResourceInfo;
 import org.fga.tcc.utils.FileUtils;
+import org.fga.tcc.utils.ResourceUtils;
 
 import java.io.File;
 import java.util.List;
@@ -18,7 +18,7 @@ public class DeputyServiceImpl implements DeputyService {
 
     public static void main(String[] args) {
         DeputyService deputeService = new DeputyServiceImpl();
-//        System.out.println(deputeService.getDeputes());
+        System.out.println(deputeService.getDeputes());
 
 //        int x = 0;
 //
@@ -74,7 +74,7 @@ public class DeputyServiceImpl implements DeputyService {
             List<DeputySpeech> deputySpeeches = getDeputySpeech(deputy.getId());
 
             for (DeputySpeech deputySpeech : deputySpeeches) {
-                String path = ResourceInfo.RESOURCE_DEPUTY_SPEECH_DATA_PATH + "/" + deputy.getId() + "/" + speechCont + ".txt";
+                String path = ResourceUtils.RESOURCE_TRAINING_PURE_DATA_PATH + "/" + "deputies/speeches/" + deputy.getId() + "/" + speechCont + ".txt";
                 File file = FileUtils.createFile(path);
 
                 FileUtils.saveTxtFile(file.getAbsolutePath(), deputySpeech.getSummary());

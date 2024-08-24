@@ -1,6 +1,6 @@
 package org.fga.tcc.utils;
 
-public class ResourceInfo {
+public class ResourceUtils {
 
     public static final String RESOURCE_PATH = "external-data-processor/src/main/resources";
 
