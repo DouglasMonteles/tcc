@@ -1,1 +1,3 @@
-Apropriação, pela Esquerda, da pauta da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República. Protesto contra a prisão, de forma injustiçada, de participantes na manifestação política realizada no dia 8 de janeiro de 2023. Honradez da Polícia Rodoviária Federal. Tentativa, pelo crime organizado, de intimidação de eleitores bolsonaristas nas eleições presidenciais realizadas no Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1aeac23f16bf32ce6ef66879d5e4e8f25f076bf90b20dae859ebd97eaa57176
+size 482

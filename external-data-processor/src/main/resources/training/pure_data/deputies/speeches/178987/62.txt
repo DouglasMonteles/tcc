@@ -1,1 +1,3 @@
-Atividades da CPI destinada à investigação da violência contra jovens negros e pobres em São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a29f7adda63e90c92bc4d35a4048d434d97be23b3a2250db802093151881ce9d
+size 104

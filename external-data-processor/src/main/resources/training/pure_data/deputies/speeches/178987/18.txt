@@ -1,1 +1,3 @@
-Improcedência dos discursos com críticas à execução do Fundo de Financiamento Estudantil - FIES. Acerto das políticas socioeconômicas do Governo petista. Legitimidade do segundo mandato da Presidenta Dilma Rousseff. Conclamação aos Deputados para apoio ao pacote de medidas econômicas do Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18761e7380ba73be5383355c3b61ce8204e0f6951b2a1f10960f34cc3af92ccc
+size 314

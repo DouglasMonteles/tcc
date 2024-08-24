@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados da Prefeita Regina Dubay, do Município de Campo Mourão, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ffef7f5834a5c2fd1e0fa2def657a5cbf9a96aaf3adf98b17bca1f31e379eab
+size 111

@@ -1,1 +1,3 @@
-Protesto contra o aumento no preço das passagens de ônibus da região do Entorno de Brasília.&nbsp;Apresentação, em conjunto com o Deputado José Nelto, de projeto de resolução para cancelamento do aumento autorizado pela Agência Nacional de Transportes Terrestres - ANTT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d044e5999788a51b93eab500da5119e27de6441243cb7fa5750f17e3ed0f798
+size 280

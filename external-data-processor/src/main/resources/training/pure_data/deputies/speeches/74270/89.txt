@@ -1,1 +1,3 @@
-Suspensão da sessão com vistas à realização de sessões solenes. Manutenção da abertura do painel para registro de presença parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c4c92f1fdf1ca790bfec9c786f800a5e2a8c0b16e530593155cd613c1a91a5c
+size 144

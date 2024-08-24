@@ -1,1 +1,3 @@
-O Deputado expressou sua solidariedade às vítimas do conflito em Israel e pediu ao Itamaraty que tomasse medidas para repatriar os brasileiros afetados, incluindo 36 tocantinenses que aguardam orientações para retornar ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3f7e7846e8711f2f1fe950a633d18a8912923206caf538d6a95703da1f9c823
+size 233

@@ -1,1 +1,3 @@
-Realização da Marcha das Margaridas, em Brasília, Distrito Federal. Fortalecimento do ensino técnico profissionalizante pela Presidenta Dilma Rousseff. Apresentação de requerimento de inclusão na pauta de projeto de lei sobre a criação do piso salarial mínimo para os profissionais do ensino técnico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ded1929419d738d39c802fd81afd0d497105cb9d5a443275e6f99dafe0edd071
+size 311

@@ -1,1 +1,3 @@
-Anúncio de realização, no Distrito Federal, de mobilização de agentes comunitários de saúde e de agentes de combate às endemias pela criação do plano de carreira e do piso salarial nacional da categoria. Empenho do orador no atendimento ao pleito dos agentes de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54a987487a24c1da0d654f32c38cf59a64bd88467c7e9bd8c57542848041b6b8
+size 279

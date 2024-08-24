@@ -1,1 +1,3 @@
-Elevados gastos de dinheiro público pelo Presidente Luiz Inácio Lula da Silva e sua comitiva na viagem à República Popular da China e aos Emirados Árabes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eb8bb4cd76cff8d7f6e6c9d006993b8ac43a6c1639746eda35f2676ab8848da
+size 159

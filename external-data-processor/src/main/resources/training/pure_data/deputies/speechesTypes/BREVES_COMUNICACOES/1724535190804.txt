@@ -1,1 +1,3 @@
-Imobilismo do Governo Jair Bolsonaro diante das queimadas na Amazônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:929f36c761662df5053d305fbb707e8ac2419f4037acc3c7e2abc7f9909032c0
+size 71

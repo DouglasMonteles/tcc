@@ -1,1 +1,3 @@
-Transcurso do Dia do Estudante. Congratulação à Deputada Tabata Amaral pela votação de proposta da área educacional. Protesto contra a retirada da pauta do projeto de lei sobre a obrigatoriedade da inclusão da língua espanhola no currículo do ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80aa31f7fb60cf726d97878f7cc8c3e6af805c94ab506f549eb3a551dbe2659c
+size 266

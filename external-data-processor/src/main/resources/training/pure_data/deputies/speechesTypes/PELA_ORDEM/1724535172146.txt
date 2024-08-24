@@ -1,1 +1,3 @@
-O Deputado indagou à Presidência se a Casa havia aprovado, por engano, uma moção de repúdio ao Estado de Israel. O orador lembrou que Israel estava sendo vítima de ataques terroristas pelo Hamas e enfatizou que a Esquerda organizava manifestação de apoio ao grupo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f9d48767e151a4d87f03b7e959a1e398ef88431692d8a1ca1a969e6b80c9d2e
+size 272

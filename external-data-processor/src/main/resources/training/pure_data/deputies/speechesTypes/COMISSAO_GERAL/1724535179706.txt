@@ -1,1 +1,3 @@
-Comissão Geral para debate do processo de regularização fundiária agrária e rural e das alterações propostas pela Medida Provisória nº 759, de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d91eb8579138507105ab747d1cdb2bc63897f1d51a57dd4cd45a364c5c02ea8
+size 157

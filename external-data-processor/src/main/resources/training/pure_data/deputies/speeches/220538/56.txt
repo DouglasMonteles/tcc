@@ -1,1 +1,3 @@
-Transcurso do primeiro ano de vigência da chamada Lei Seca, coibitiva do uso de bebida alcoólica por condutores de veículos automotores. Ineficiência dos serviços de fiscalização do trânsito para o efetivo cumprimento do diploma legal. Defesa de instituição de plano nacional de redução de mortes no trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f79f3a4bde992166c0c2a16bfde9b681dbddd12228e01bf838f6f4f7751f4fde
+size 322

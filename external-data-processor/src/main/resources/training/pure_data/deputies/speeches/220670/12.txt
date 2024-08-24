@@ -1,1 +1,3 @@
-A Deputada emitiu parecer ao Projeto de Le nº 309, de 2023, que dispõe sobre a capacitação das equipes de saúde em procedimentos humanizados e qualificados de atenção a mulheres vítimas de violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65ec8853e65f771f048a23a68971cf6d717ae643b15a8f3b75917681d671a3a8
+size 208

@@ -1,1 +1,3 @@
-Transcurso do 10º aniversário de criação da Diocese de Castanhal, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bebe0bdcc76ddaf8fd78c142542387f62dde298f05fc3864859a804e286f1f0f
+size 86

@@ -1,1 +1,3 @@
-Criação do Centro Integrado de Defesa dos Direitos da Criança e do Adolescente em Belo Horizonte, Estado de Minas Gerais, destinado ao acompanhamento psicológico e social de vítimas de violência e ao julgamento célere de agressores. Necessidade de aprimoramento no País de políticas públicas de tratamento, prevenção e responsabilização de agressores de crianças e adolescentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a18508f3c716ab382ab91444d7c5e5839661102fb883b6be1c89a4675e9a503e
+size 393

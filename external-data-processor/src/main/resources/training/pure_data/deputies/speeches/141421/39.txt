@@ -1,1 +1,3 @@
-Contestação  à afirmativa do Deputado Odair Cunha  acerca da colaboração da Agência Nacional de Energia Elétrica - ANEEL com os trabalhos da CPI destinada à investigação de reajustes de tarifas de energia elétrica. Ponderações sobre o descumprimento pelo Presidente da Agência, Nelson Hubner, de compromisso de  encaminhamento à Comissão de dados relativos a débitos das distribuidoras  com os consumidores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0faac38df101bfa9e717d8d3268591a87ad9bfbc5651024280388954ecafd4f
+size 424

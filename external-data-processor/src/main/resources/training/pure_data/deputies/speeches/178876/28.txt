@@ -1,1 +1,3 @@
-Congratulação ao Deputado Daniel Vilela pela condução dos trabalhos da Casa. Anúncio da inauguração do Hospital de Urgências Governador Otávio Lage de Siqueira, na cidade de Goiânia, Estado de Goiás. Críticas ao Ministro da Fazenda, Joaquim Levy, pelo momento econômico do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cf9417e6b9a22d5b51dd3484a577391cad8d97889d7311d2e0a47625fa12a93
+size 292

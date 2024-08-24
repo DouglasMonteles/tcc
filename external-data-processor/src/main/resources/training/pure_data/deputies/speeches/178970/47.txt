@@ -1,1 +1,3 @@
-Início das votações pela Casa de proposta de reforma política. Apoio do PT à participação popular no debate sobre o tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:399d58fa570d9ecd09c3fe724f2eba4be3902118f523d60cce01ff84e1b5f231
+size 128

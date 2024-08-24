@@ -1,1 +1,3 @@
-Repúdio às ações de órgãos públicos prejudiciais ao desenvolvimento do Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab9a637f95e7ebb39ed198e8cc2001c781d432d58714b81fcf17755badae1bac
+size 100

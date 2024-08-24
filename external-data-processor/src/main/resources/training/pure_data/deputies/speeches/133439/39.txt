@@ -1,1 +1,3 @@
-Elogio ao Deputado Cândido Vaccarezza pela condução dos trabalhos da Liderança do Governo na Casa. Saudação ao novo Líder do Governo, Deputado Arlindo Chinaglia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2018c3717591e9918c8bdbf1fe6d31ac45066a7ce614904584672eebc84e19a2
+size 168

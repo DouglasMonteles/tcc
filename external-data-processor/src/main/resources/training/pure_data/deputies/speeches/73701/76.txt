@@ -1,1 +1,3 @@
-Transcurso do Dia da Liberdade de Imprensa. Apoio à Proposta de Emenda à Constituição nº 386, de 2009, sobre a exigência de diploma em jornalismo para o exercício da profissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd6b797bfad368ac1b150684380815bb06217edcd73986280a2a7c1685753725
+size 184

@@ -1,1 +1,3 @@
-Solidariedade aos familiares das vítimas da tragédia ocorrida no litoral norte do Estado de São Paulo em decorrência das enchentes. Congratulações ao Governador Tarcísio Gomes de Freitas pelas ações adotadas em prol dos atingidos pelas chuvas intensas. Posse do Sr. Guilherme Piai Silva Filizzola no cargo de Diretor-Executivo do Instituto de Terras do Estado de São Paulo - ITESP. Aperfeiçoamento do Projeto de Lei nº 1.883, de 2021, sobre a concessão de crédito a microempreendedoras individuais, bem com a microempresas e empresas de pequeno porte dirigidas por mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a78de85d65e2cc2bb40b654691ef402e635293c86db686c41c162c47ebf5f482
+size 588

@@ -1,1 +1,3 @@
-Presença no plenário do Vice-Governador do Estado da Paraíba, Rômulo Gouveia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:221e805fe65fa8b582811526df4b11bc3d94d55692b45c029c87d5def02b6885
+size 81

@@ -1,1 +1,3 @@
-Congratulações à Polícia Rodoviária Federal pela apreensão de grande quantidade de cocaína no Estado de Mato Grosso do Sul. Contrassenso entre o baixo reajuste do salário mínimo e a retomada da tributação de combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce94a2e43e2cf3c9135a78447a6f80f359815ce73099454802743b2ca003cabc
+size 233

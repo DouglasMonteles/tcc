@@ -1,1 +1,3 @@
-Protesto contra decisão da Ministra do Supremo Tribunal Federal - STF Rosa Weber de fechamento de mina de amianto no Município de Minaçu, Estado de Goiás. Empenho do Governador Ronaldo Caiado na adoção de medidas a favor da população de Minaçu, em face do desemprego causado pela decisão da Ministra do STF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d27b23e39966e808a3775bdf4763ba6ae15f040ca1d1e1ddde3909745a916a25
+size 317

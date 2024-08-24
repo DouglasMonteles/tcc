@@ -1,1 +1,3 @@
-Agradecimento aos gestores do Departamento Nacional de Infraestrutura de Transportes - DNIT, pelo recapeamento e realização de outras melhorias na BR-251 no trecho entre o Município de Montes Claros e a BR-116, Estado de Minas Gerais. Apelo ao Ministério dos Transportes de duplicação do trecho rodoviário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b81226393b5d877a4f4baf2b074a5abc0129346130e9f7313d50d169d729847
+size 313

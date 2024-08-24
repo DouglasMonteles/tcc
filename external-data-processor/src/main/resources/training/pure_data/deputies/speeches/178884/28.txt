@@ -1,1 +1,3 @@
-Congratulações ao Presidente Eduardo Cunha pela condução dos trabalhos da Casa. Transcurso do 95º aniversário de emancipação político-administrativa do Município de Coroatá, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4c9eac8cff9984d3b919ecf8d90f2898c03ad5020b55a2e113ddb6aaa4045e4
+size 205

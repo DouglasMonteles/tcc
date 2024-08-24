@@ -1,1 +1,3 @@
-Indignação do orador ante a insensibilidade de Parlamentares diante de atentado e de declaração do jornalista Paulo Henrique Amorim contra a vida do Presidente Jair Bolsonaro.    Solidariedade à Deputada Flordelis diante do assassinato do seu esposo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b02c07e1002cdd94e4cbdfdb54bee5be987cdc0d1059fa7ed0bd5156bd371fb
+size 255

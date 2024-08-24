@@ -1,1 +1,3 @@
-Realização, pela Frente Parlamentar em Defesa do Setor de Serviços, de reunião para debate da reforma tributária. Imediata desoneração da folha de pagamento empresarial. Consolidação da Frente Parlamentar em Defesa da Desoneração da Folha de Pagamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12e057d67762fa978eddd9b6e6d6aa19cea3645531694781b38967d46e3c8e6d
+size 263

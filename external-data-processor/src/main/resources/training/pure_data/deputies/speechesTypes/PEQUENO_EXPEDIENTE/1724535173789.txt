@@ -1,1 +1,3 @@
-Apelo à equipe econômica do Governo Federal de reexame da alteração das regras de financiamento do Banco do Nordeste do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69e2fe078cd1a3c645d374ed5cfbf13edd40baf4392c76ca7d1077bb37b03fe0
+size 131

@@ -1,1 +1,3 @@
-Apoio à proposta de redução da maioridade penal no Brasil como meio de salvaguarda da família, célula básica da sociedade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f7633689f34faca51aaa965357291a48998d86400e8f96e7b28fbc872a9223
+size 128

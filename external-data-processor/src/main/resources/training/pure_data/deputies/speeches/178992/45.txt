@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 15, apresentada à Medida Provisória nº 843, de 2018, sobre o estabelecimento de requisitos obrigatórios para a comercialização de veículos no Brasil; a instituição do Programa Rota 2030 - Mobilidade e Logística e o regime tributário de autopeças não produzidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dd5f2488789e20515549cf68595afce179316c28e8468d7017651d268b6c0a9
+size 380

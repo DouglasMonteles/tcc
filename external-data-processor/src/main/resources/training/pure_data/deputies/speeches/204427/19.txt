@@ -1,1 +1,3 @@
-Investigação de irregularidades na aquisição pela Prefeitura Municipal de Recife, Estado de Pernambuco, de respiradores pulmonares testados em suínos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ad0a8e19b7263cab7eb36ccb975093cb9c703e30db0ecd3e2b99c2733a97f5f
+size 155

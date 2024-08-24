@@ -1,1 +1,3 @@
-Contestação ao discurso proferido por Deputado a respeito da formação médica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0ea42664763567ee550006942a6ca25d90ddf4231262313f7ad51ec588c0610
+size 82

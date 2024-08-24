@@ -1,1 +1,3 @@
-Defesa da conclusão da  votação do requerimento de retirada da PEC 61 de 2011 da Ordem do Dia antes do encerramento da sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc85d1e8cc00d25dc7e82a916916a91e6cea362746fb67bebaa77e4c5c4f6910
+size 130

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 8 apresentada ao Projeto de Lei nº 11.021, de 2018, sobre a remuneração recebida por funcionário de partido político com recursos do fundo partidário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45cdaa86d0bef1ef9ba719e30f581527231e04cd57de4010a4852113b979f7c0
+size 262

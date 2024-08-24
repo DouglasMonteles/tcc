@@ -1,1 +1,3 @@
-Saudações aos profissionais da enfermagem. Defesa de aprovação pela Casa de proposições em benefício da categoria. Descumprimento, pelo Presidente Jair Bolsonaro, do dever constitucional de proteção à saúde dos cidadãos brasileiros. Discussão da  Medida Provisória nº 909, de 2019, sobre a extinção do fundo formado pelas reservas monetárias constante no art. 12 da  Lei nº 5.143, de 1966, bem como a destinação dos recursos remanescentes e a revogação do dispositivo mencionado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16c43c86011236b1e3587edcfddc22a1c2effd3592960c857613a1abb63a7546
+size 502

@@ -1,1 +1,3 @@
-Protesto contra a previsão do Governo Federal de extinção do programa Aqui Tem Farmácia Popular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6f3461f64834cf4d8d427a678ab02d3b0a45fa1f14ad7978e8c7c2f95a7ce9a
+size 100

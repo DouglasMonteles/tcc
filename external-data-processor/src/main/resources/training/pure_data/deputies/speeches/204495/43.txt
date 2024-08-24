@@ -1,1 +1,3 @@
-Protesto contra o cancelamento pela Fundação Nacional de Saúde - FUNASA de convênios com Prefeituras Municipais do Estado do Pará, em prejuízo ao abastecimento de água e à melhoria das condições sanitárias domiciliares de populações de baixa renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f65edd6318aa56cf2f666ef963c62d948e268d220d6716ef3632471477b3d07e
+size 261

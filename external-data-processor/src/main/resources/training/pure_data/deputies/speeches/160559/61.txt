@@ -1,1 +1,3 @@
-Urgente revisão dos critérios governamentais para a demarcação e homologação de terras indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:354587c6b29ae19e707fe3972017d474c5b6930ac7acdb87ebbaccebcd7b8de4
+size 104

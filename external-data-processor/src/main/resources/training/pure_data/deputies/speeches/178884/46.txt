@@ -1,1 +1,3 @@
-Transcurso do 33° aniversário de emancipação político-administrativa do Município de Estreito, Estado do Maranhão. Comentários sobre a reportagem da jornalista Marcela Fernandes, do jornal Correio Braziliense, sobre a meta de conclusão do Plano Estadual de Educação pelo referido Estado. Interesse do orador no posicionamento dos Parlamentares sobre a votação da Medida Provisória nº 664, de 2014, que estabelece novas regras para concessão do auxílio-doença e pensão por morte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fd53c0a871dd3d6714f48815c4ccade4ae5f4d9229f535b057eda30707d7abb
+size 497

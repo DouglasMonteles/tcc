@@ -1,1 +1,3 @@
-O Deputado recebeu a visita de parlamentares pernambucanos em seu gabinete na Câmara dos Deputados. Anunciou que o ex-Ministro Gilson Machado Neto será o candidato do PL à prefeitura do Recife. Expressou confiança na vitória, destacando o apoio do ex-presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1f8b7a6166e495cdc3fd0256a745ef4971e167cf8ed3fc3a6dd984467b7506e
+size 282

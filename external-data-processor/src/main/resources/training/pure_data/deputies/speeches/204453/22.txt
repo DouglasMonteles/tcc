@@ -1,1 +1,3 @@
-Questão de ordem sobre a impossibilidade de acatamento da retificação do parecer oferecido pelo Relator ao Projeto de Lei nº 3.723, de 2019, sobre a alteração da Lei nº 10.826, de 2003, acerca do registro, da posse, da comercialização de armas de fogo e munição; do Sistema Nacional de Armas - SINARM e da definição de crimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46cf3842a7369e0e00ad63f47c30c06d9bed6a75ffbc7c27b170911e089c79b6
+size 339

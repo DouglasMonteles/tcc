@@ -1,1 +1,3 @@
-Inconformismo com a decisão do Ministro do Supremo Tribunal Federal, Edson Fachin, de anulação de condenações impostas ao ex-Presidente Luiz Inácio Lula da Silva no âmbito da Operação Lava-Jato. Prática de corrupção pelos governos petistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4933ccb89775755d8a0bd4cbcc547095a17a103dee850cde361e9231e2bff428
+size 252

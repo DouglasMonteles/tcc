@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para supressão dos  §§ 1º e 2º, art. 16, do Projeto de Lei de Conversão nº 26, de 2021, da Medida Provisória nº 1.061, de 2021, sobre a instituição do Programa Auxílio Brasil e do Programa Alimenta Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8cdd53e285b91da3fde750cabafb8eb79e7af6a8c010715bdbfd428b4e38b94
+size 273

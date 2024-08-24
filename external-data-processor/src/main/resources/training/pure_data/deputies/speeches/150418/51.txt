@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Dia Nacional do Conselheiro Tutelar. (As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1442a28508810fedf8b93ba63d0d52b264e64e430ecb600b39379d3dd2b4efcd
+size 201

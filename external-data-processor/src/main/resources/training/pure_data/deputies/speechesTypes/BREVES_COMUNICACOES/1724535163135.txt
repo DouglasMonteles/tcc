@@ -1,1 +1,3 @@
-Repúdio à declaração de Ministro de Estado favorável à descriminação das drogas para esvaziamento de penitenciárias. Transcurso do Dia Internacional da Mulher. Defesa da destinação de recursos federas às instituições de recuperação de dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:152c5874b21bbd5c9edac08b9c63a26299126e06b2a9bc1c65ececb17d221c89
+size 273

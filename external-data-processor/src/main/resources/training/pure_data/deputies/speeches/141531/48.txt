@@ -1,1 +1,3 @@
-Homenagem à Drogaria Araújo, instalada em Belo Horizonte e sua Região Metropolitana, Estado de Minas Gerais. Estabelecimento pela Drogaria de parceria com o Sistema Voluntário Assistência Social - SERVAS no Programa Valores de Minas, lançado pelo Governador Aécio Neves. Fracasso do modelo de concessões de rodovias, adotado pelo Governo Dilma Rousseff. Inexistência de empresas interessadas no leilão de concessão do trecho rodoviário de João Monlevade até a divisa do Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de73fd444bb8303f81b2a23ac15717ad529401f1dcd64e886c23c7fd7b533e44
+size 510

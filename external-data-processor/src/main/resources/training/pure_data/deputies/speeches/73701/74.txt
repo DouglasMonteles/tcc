@@ -1,1 +1,3 @@
-Realização da primeira etapa da campanha nacional de vacinação contra a poliomielite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b203713ac29e06c8fbea2e6c8f272816dd5c27c1c8d37ac329fb870865e6ffd5
+size 89

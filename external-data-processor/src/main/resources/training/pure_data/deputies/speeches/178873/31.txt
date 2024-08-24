@@ -1,1 +1,3 @@
-Preocupação com os efeitos nocivos à agricultura familiar do Estado do Espírito Santo em decorrência da estiagem. Expectativa de votação de proposição sobre o sistema tributário Super-SIMPLES, após as eleições de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41ef263339e4ed4958dac8da00df1f38f35a9ab12e6069d2bbf12f5919a772f9
+size 231

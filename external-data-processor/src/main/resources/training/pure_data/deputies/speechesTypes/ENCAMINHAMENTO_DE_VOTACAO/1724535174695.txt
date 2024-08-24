@@ -1,1 +1,3 @@
-A Deputada expressou preocupações em relação à pauta verde e ao que chama de internalização do globalismo. Argumentou que o Brasil, com sua extensão territorial e rica biodiversidade, estaria sendo pressionado a seguir diretrizes internacionais, comprometendo a soberania nacional. Criticou a adaptação da indústria a demandas globais e lamentou a falta de debate democrático na Câmara sobre essas questões. Destacou a fala da Ministra do Meio Ambiente, Marina Silva, sobre a participação do Brasil na Conferências das Nações Unidas sobre Mudanças Climáticas para cobrar e não para ser cobrado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b62f4c59a8381caa8b8534f0c4d140f758e3edd0b17c11aa970cf7e53331e2b
+size 616

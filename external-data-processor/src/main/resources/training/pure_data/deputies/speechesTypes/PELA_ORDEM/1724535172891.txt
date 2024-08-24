@@ -1,1 +1,3 @@
-Manifestação de boas-vindas às participantes no Congresso Internacional das Mulheres Policiais, realizado em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99eef4bb4318dc76390ed8160d11999265b35976a2495bc7946151dddadd435d
+size 140

@@ -1,1 +1,3 @@
-Posse do orador na presidência da Frente Parlamentar Municipalista. Posicionamento do orador contrário à emenda apresentada por Senadores ao projeto de lei sobre a distribuição de royalties de petróleo da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b5854aa92836472b80567288abf42e9a69763bbee032b5ea28f560389952996
+size 227

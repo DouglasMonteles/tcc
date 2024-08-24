@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios. Apoio à pauta municipalista. Defesa de pavimentação de estradas vicinais. Conveniência de implantação, pelo Governo Federal, de amplo programa de duplicação de rodovias federais por meio de concessão à iniciativa privada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:039e48cad3a9c45f862e2bf7b4f1748a8aefc256143e017d29ab0c003203f298
+size 298

@@ -1,1 +1,3 @@
-Criação do Programa Nacional de Produção e Uso do Biodiesel pelo Governo petista. Apoio do PT à realização de investimentos na exploração de fontes renováveis de energia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86ab4e6ce24a1a6545c3eeceb8644da634b4e6e7900456beead171eead056650
+size 180

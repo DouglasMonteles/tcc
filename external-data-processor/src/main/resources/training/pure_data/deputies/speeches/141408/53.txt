@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação da proposta de recomposição numérica das Câmaras Municipais brasileiras e do projeto de decreto legislativo acerca da ratificação da Convenção da Organização das Nações Unidas sobre os Direitos das Pessoas com Deficiência. Desempenho do Promotor Ronald Pereira dos Santos, da 11ª Promotoria de Justiça Especializada na Defesa dos Direitos da Pessoa com Deficiência do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5382d9ec6731fa81993adcbcf3829fb8093ef6704346f7175819da5d178093a1
+size 446

@@ -1,1 +1,3 @@
-Homenagem à memória do ex-Deputado Federal Pedro Eugênio. Relevância dos trabalhos realizados pela Frente Parlamentar Mista da Micro e Pequena Empresa. Importância da aprovação do Projeto de Lei Complementar nº 420-C, de 2014, acerca do crédito correspondente da substituição tributária para o Microempreendedor Individual - MEI ou o contribuinte optante do Simples Nacional. Defesa de retomada da votação de pontos suprimidos da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09d28129d788d104caca0095a54737d6e1aa974c4f998fd8cca3769496f3a9d4
+size 457

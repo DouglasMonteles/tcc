@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar pela Reforma Política com Participação Popular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9604c270ca09134e76001b5129d87284b5f691c63f20d1f7cf67ed7cae1b5ae7
+size 82

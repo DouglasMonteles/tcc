@@ -1,1 +1,3 @@
-Sessão de homenagem à memória  do Senador Eliseu Resende.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4c1eecdd1540b436b6dbb6e56fde2c3fd5139e4ceec9dfad3549b3c23a5e404
+size 60

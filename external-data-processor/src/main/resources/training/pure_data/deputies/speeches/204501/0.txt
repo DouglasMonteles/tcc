@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado de São Paulo pela eleição do orador. Posicionamento do Parlamentar contrário à reforma da Previdência Social. Resistência contra eventuais medidas autoritárias do Presidente Jair Bolsonaro e do Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8236f8136a9b2d31deddfec61219d6bc351acd4b3e75dfb3e22beb7f0227c1f6
+size 297

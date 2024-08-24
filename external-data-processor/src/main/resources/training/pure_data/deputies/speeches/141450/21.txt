@@ -1,1 +1,3 @@
-Ponderações sobre o  Projeto de Lei 798 de 2007 (Altera a Lei 9.503 de 1997, que institui o Código de Trânsito Brasileiro, para estabelecer penas alternativas aplicáveis aos crimes de trânsito), de sua autoria, ora em apreciação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c2729ace770f4eea192e4af0cb08a190a34cdd642104028282c5b38bdfbb17
+size 237

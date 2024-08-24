@@ -1,1 +1,3 @@
-Gravidade da falta de prevenção de acidentes e desastres ambientais no País em face da predominância de interesses econômicos e empresariais sobre a segurança da população. Perplexidade com o rompimento de barragem de resíduos de mineração no Município de Mariana, Estado de Minas Gerais. Contrariedade ao arquivamento pela Casa de projeto de lei de autoria da oradora relativo ao pagamento de seguro a famílias desabrigadas por tragédias ambientais. Expectativa de aprovação do Projeto de Lei nº 2.020, de 2007, sobre normas gerais de segurança em casas de espetáculos e similares. Apresentação de projeto de lei sobre a obrigatoriedade do pagamento de indenizações e contratação de seguro no caso de rompimento de barragens.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f14e7d2e41caa2a72807de18b7c5ea189b55708d09070f0f6dd21f15deab8aa4
+size 751

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 2 apresentada à Medida Provisória nº 1.077, de 2021, sobre a instituição do Programa Internet Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db2afc0a4c2b69c929da0062324295718a5e777ec1a3c91dbdda57da6b43cbeb
+size 225

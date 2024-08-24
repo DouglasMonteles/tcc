@@ -1,1 +1,3 @@
-A Deputada expressou sua motivação para a defesa do Projeto de lei nº 2.144, de 2023, apensado ao Projeto de Lei nº 4.319, de 2020, que altera dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente - ECA, e da Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal, para aumentar as penas impostas aos crimes de estupro, estupro de vulnerável e pedofilia virtual, altera critérios da progressão de regime e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffa9b8635681fc01582ab4e9aca1384208d768a97f5afde216eb0cfe3bd635ec
+size 555

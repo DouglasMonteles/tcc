@@ -1,1 +1,3 @@
-Transcurso do centenário de criação da Rede Federal de Educação Profissional e Tecnológica no Brasil e do Dia Nacional dos Profissionais de Nível Técnico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffbb66dcf187a940da8c03284b22036edf77ce31827b1c09d3a9daf3d4c82360
+size 162

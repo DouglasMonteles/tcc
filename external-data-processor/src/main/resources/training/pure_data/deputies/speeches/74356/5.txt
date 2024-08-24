@@ -1,1 +1,3 @@
-Benefícios proporcionados pela Zona Franca de Manaus  para o desenvolvimento dos Estados da Amazônia Ocidental e da Área de Livre Comércio de Macapá-Santana, no Estado do Amapá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fac00f1352b9bb2168b178096bd45a70ac60302a6cf43ef9348466679a165264
+size 183

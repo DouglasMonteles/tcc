@@ -1,1 +1,3 @@
-Posicionamento do Patriota favorável ao encerramento da discussão do Projeto de Lei nº 10.431, de 2018, sobre o cumprimento de sanções impostas por resoluções do Conselho de Segurança das Nações Unidas, incluída a indisponibilidade de ativos de pessoas naturais e jurídicas e de entidades, e a designação nacional de pessoas investigadas ou acusadas de terrorismo, de seu financiamento ou de atos a ele correlacionados; e a revogação da Lei nº 13.170, de 2015.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c6d5322c23f488708f4f82035ff2e3983a2c62c7fbdb0936730062634fc3a48
+size 477

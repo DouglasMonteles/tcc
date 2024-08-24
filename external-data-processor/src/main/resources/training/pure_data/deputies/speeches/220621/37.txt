@@ -1,1 +1,3 @@
-Crise da saúde pública no Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e27c917cb84f037d834a3b32c8881aca54a8840b305501bb4c7e63e77070a0c
+size 58

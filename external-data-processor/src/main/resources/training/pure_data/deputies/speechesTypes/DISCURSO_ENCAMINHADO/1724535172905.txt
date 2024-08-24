@@ -1,1 +1,3 @@
-Participação em audiência pública promovida pela Comissão Nacional da Verdade na sede da Ordem dos Advogados do Brasil - OAB, Seção Rio de Janeiro. Presença da oradora em sessão pública da Caravana da Anistia na Pontifícia Universidade Católica - PUC, na cidade do Rio de Janeiro. Defesa de abertura completa dos arquivos da ditadura militar. Desapropriação pela Prefeitura Municipal de Petrópolis da chamada Casa da Morte, local utilizado pelo Centro de Informações do Exército - CIE durante o regime militar. Oportunidade de novas investigações acerca das circunstâncias da morte do consagrado educador Anísio Teixeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8abbc2fe251decf6414396b96c5f5939622b713710c7226fa56ec58b2112ad08
+size 643

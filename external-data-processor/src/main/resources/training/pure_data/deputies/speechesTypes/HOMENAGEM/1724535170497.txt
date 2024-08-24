@@ -1,1 +1,3 @@
-Promulgação da Emenda Constitucional nº 114, de 2021, sobre o estabelecimento do novo regime de pagamento de precatórios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d42d3a24cfee3ec63880c3bfc0f79ce5f03867dc0da23a5b896f1e6516949a4d
+size 125

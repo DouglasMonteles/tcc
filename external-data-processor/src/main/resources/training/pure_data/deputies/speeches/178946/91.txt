@@ -1,1 +1,3 @@
-Sessão solene de entrega do Diploma Mulher-Cidadã Carlota Pereira de Queirós.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:515bdb100e95a93164fd774e367962876ffdbe5ebd16be7543b31171aa1aaeb0
+size 229

@@ -1,1 +1,3 @@
-Protesto contra a instalação de unidade da Fundação Centro de Atendimento Socioeducativo ao Adolescente (Fundação CASA), no Bairro Jardim Paulista, Município de Ribeirão Preto, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27b019284e2bc7d3cd5f465263fe13d483da0f2a6d3116b68228690b0973c1c4
+size 206

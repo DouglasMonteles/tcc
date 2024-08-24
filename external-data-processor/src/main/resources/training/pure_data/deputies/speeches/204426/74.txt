@@ -1,1 +1,3 @@
-Não liberação, pelo Governo Jair Bolsonaro, de recursos aos trabalhadores de baixa renda e às pequenas e microempresas para enfrentamento da crise gerada pelo coronavírus. Inadmissibilidade de extinção da negociação coletiva de trabalho. Demissão e redução salarial dos trabalhadores brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48778794a6bcd21395ade2fd34813916f3de2a512bb382e11acaf56e82c89d2f
+size 308

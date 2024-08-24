@@ -1,1 +1,3 @@
-Perseguição praticada contra o orador pelo Promotor de Justiça Evandro Ventura, da Comarca de Governador Valadares, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14f2f7ec6f9982eb0c30955020934cd78ee9a8cce66b6c3930f4dcafde873d09
+size 142

@@ -1,1 +1,3 @@
-Crise da saúde pública brasileira. Acerto da aprovação pela Casa do projeto de lei sobre a destinação ao setor de percentual de recursos de oriundos de royalties de petróleo, bem como da regulamentação da Emenda Constitucional nº 29, de 2000, acerca da garantia de recursos mínimos para o financiamento de ações e serviços públicos de saúde. Proposta do jornalista Vittorio Medioli de criação do cartão de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b361e79336bfdc572c6e1f9a9bbcfc98a168c54b86127e55de9918a42e9f242
+size 432

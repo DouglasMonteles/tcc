@@ -1,1 +1,3 @@
-Incompetência do Governo Jair Bolsonaro no tocante à gestão de medidas de enfrentamento à epidemia de coronavírus. Contrariedade à aprovação da Proposta de Emenda à Constituição nº 186, de 2019, a chamada PEC Emergencial, sobre a criação de mecanismos de ajuste fiscal. Importância da realização de investimentos públicos para superação da crise econômica. Redução, pela PEC Emergencial, dos recursos destinados ao auxílio emergencial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f71a153472987f6c72e5a10062385ad96ab8297173f1ce0ea3eb8d97d98d02d
+size 459

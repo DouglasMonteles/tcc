@@ -1,1 +1,3 @@
-Congratulações ao Deputado André Fufuca pelo exercício da Presidência da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:798f3a2630b36d929589b54b3bf0838dd4ca7366e3ac407d0e884cadaedc1b01
+size 83

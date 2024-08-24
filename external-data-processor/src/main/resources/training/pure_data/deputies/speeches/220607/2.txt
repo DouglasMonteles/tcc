@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 733, de 2023, a respeito das emendas parlamentares individuais e de bancada, em natureza de custeio e investimento na prestação de auxílio financeiro pelo Fundo Nacional de Saúde - FNS às Santas Casas de Misericórdia e hospitais filantrópicos, sem fins lucrativos, participantes de forma complementar do Sistema Único de Saúde - SUS. Papel desenvolvido pela rede hospitalar filantrópica no sistema de saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8796f73253453f70ee281dd68d31f8ccf28cdf15b7f4229636aef4814165b03d
+size 464

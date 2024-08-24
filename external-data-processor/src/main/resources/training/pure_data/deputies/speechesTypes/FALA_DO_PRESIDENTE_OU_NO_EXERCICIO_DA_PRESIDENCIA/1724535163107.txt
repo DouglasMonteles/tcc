@@ -1,1 +1,3 @@
-Associação da Presidência à candidatura do Deputado Ricardo Barros ao Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:725ec29577636bf77e739ca98ae939ff184a0f9d5d8fcedd823c5a171410348c
+size 89

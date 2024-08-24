@@ -1,1 +1,3 @@
-Esclarecimento a Deputado da Esquerda sobre o direito da oradora à perseguição armada e à voz de prisão a qualquer cidadão em flagrante delito. Saudação ao Deputado Federal eleito, Zé Trovão. Apoio às manifestações populares pela intervenção das Forças Armadas brasileiras no País. Protesto contra a censura imposta às redes sociais da oradora pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b95250bd887008175b885efd3bbed2e4a06c73107a4ff17017b698bcd5227a1f
+size 425

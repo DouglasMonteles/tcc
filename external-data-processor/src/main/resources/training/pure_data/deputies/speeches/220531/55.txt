@@ -1,1 +1,3 @@
-O Deputado registrou a realização da licitação de Unidades Básicas de Saúde (UBS) para as regiões administrativas de Santa Maria e Gama. Elogiou a iniciativa do Governo do Distrito Federal em proporcionar serviços de saúde de qualidade para a população, mencionando que as UBS serão equipadas como verdadeiros hospitais. Parabenizou a Secretária de Saúde, Dra. Lucilene, e o Governador Ibaneis Rocha pela ação, enfatizando o compromisso em trabalhar para melhorar a qualidade de vida dos cidadãos locais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd33084d1deaf1fd3cf3034f7c52eae19816f26e8d649773b8ae8d2e5f8bbeb8
+size 521

@@ -1,1 +1,3 @@
-Congratulações ao Ministro da Educação, Camilo Santana, e ao Governador do Estado da Paraíba, João Azevêdo, pelo lançamento do Pacto Estadual pela Alfabetização na Idade Certa - Programa Alfabetiza Mais Paraíba. Indicação do nome do Governador João Azevêdo para recebimento da Medalha Amigo da Primeira Infância, instituída pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86259a9479c89312c74d03f8df34d88b08b746a4325955009dda091ee4cb394f
+size 368

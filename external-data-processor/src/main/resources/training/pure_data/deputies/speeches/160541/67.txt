@@ -1,1 +1,3 @@
-Defesa de aprovação da Medida Provisória 613 de 2013.  Realização de acordo para adiamento da votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ea850f4591755d6790d1eaa57b962e0225111c7f5be32f0ead2aad5a0f8b597
+size 121

@@ -1,1 +1,3 @@
-Anúncio da participação do orador em encontro com a Ministra da Cultura, Marta Suplicy, destinado à apresentação de reivindicações para a área no Estado de Alagoas. Pedido ao Ministro da Agricultura, Pecuária e Abastecimento de correção do projeto de lei sobre o plano de cargos e carreira dos fiscais federais agropecuários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e49bdfaa791d4cb01885677a7e1e9b676453bab53e8be21a450aaf5e31e54b5e
+size 338

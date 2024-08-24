@@ -1,1 +1,3 @@
-Debate de ações preventivas de enfrentamento da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46c0729cab966394d9c9dc35ccf22017369d166a6d474e82db03e32400ab6ec4
+size 75

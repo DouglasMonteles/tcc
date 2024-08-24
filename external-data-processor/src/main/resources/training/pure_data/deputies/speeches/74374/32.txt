@@ -1,1 +1,3 @@
-Construção da Vila Olímpica Indígena na Reserva de Dourados, Estado de Mato Grosso do Sul. Formulação de políticas destinadas à população indígena brasileira. Empenho na construção de moradias populares em aldeias de Mato Grosso do Sul. Construção da Escola Guateka Marçal de Souza com recursos do Fundo Nacional de Desenvolvimento da Educação, na Reserva Indígena de Dourados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e7a3816e3906c10b24fc38a30ee140e4b1b67dca0df7d35ce8c0a5cf0a4501
+size 396

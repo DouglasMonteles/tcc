@@ -1,1 +1,3 @@
-Apelo à Casa de aprovação do Projeto de Decreto Legislativo nº 76, de 2023, para sustação dos efeitos da Instrução Normativa PRES/INSS nº 144, de 2023, sobre o estabelecimento de critérios e procedimentos operacionais relativos à consignação de descontos para pagamento de crédito consignado contraídos nos benefícios pagos pelo INSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ede7e77ae051dde92890b6f637349c75d1d918f2082ae29c1d753bec35994ea2
+size 350

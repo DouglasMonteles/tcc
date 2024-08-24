@@ -1,1 +1,3 @@
-Presença na Casa de liderança política do Município de Porto Nacional, Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4c49bf28a94f47f5a5bcb4022c475fc83f76af674db881a4dcc0b02151e6d33
+size 95

@@ -1,1 +1,3 @@
-Solidariedade aos familiares das vítimas de enchentes ocorridas no litoral norte do Estado de São Paulo. Liberação, pelo Governo Luiz Inácio Lula da Silva, de recursos às municipalidades atingidas pelo fenômeno climático. Sugestão à bancada federal paulista de apresentação de emendas orçamentárias a programa permanente de obras preventivas de desastres ambientais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd6e7e8128403f7f0625a97aa78caac3cb62a3fb60fc7ac5f248c8208a98dda0
+size 380

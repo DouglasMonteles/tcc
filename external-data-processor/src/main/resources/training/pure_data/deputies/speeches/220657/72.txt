@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do substitutivo oferecido ao Projeto de Lei nº 309, de 2023, que dispõe sobre a capacitação das equipes de saúde em procedimentos humanizados e qualificados de atenção a mulheres vítimas de violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f85e6b34299503a4fdbe6c7bd8bcb0fc679973e07b1353f2d75a12a088237827
+size 252

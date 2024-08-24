@@ -1,1 +1,3 @@
-Posicionamento de membros do PMDB, favorável à aprovação do projeto de lei sobre a criação do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17d400fb541be85fcce4ddd6317db994cce0b24906117be3750a52691411ff8e
+size 134

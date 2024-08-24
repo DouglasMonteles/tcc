@@ -1,1 +1,3 @@
-Solicitação à Presidenta Dilma Rousseff de envio ao Congresso Nacional de proposta de reajuste salarial aos servidores do Poder Judiciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a98121bc84be18f89bf4477ff33a30f7fe4c61f06b38e2cd52583dbd37f9d4ab
+size 143

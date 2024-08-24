@@ -1,1 +1,3 @@
-Defesa de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de recursos para a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95132c1f2f70aa3e41ed57de743045c70f99b8707987eb866b54048f7b8e8537
+size 125

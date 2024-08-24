@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 3.723, de 2019, sobre o registro, a posse e a comercialização de armas de fogo e munição, o Sistema Nacional de Armas - SINARM e a definição de crimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:459357ccfb38cd662448fbd650eb5056eabbce95d32711bd03acecd23321920d
+size 253

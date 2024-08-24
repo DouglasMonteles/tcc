@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.389, de 2020, sobre a transposição e a transferência de saldos financeiros constantes dos Fundos de Assistência Social dos Estados, do Distrito Federal e dos Municípios, provenientes de repasses federais, apurados até dezembro de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f76d1c3ae2d4d08b826333b5e002eb0dd1591caafe8b8e6a4179443756911a2
+size 357

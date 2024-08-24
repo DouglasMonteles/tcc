@@ -1,1 +1,3 @@
-Visita do Ministro da Secretaria Especial de Políticas de Promoção da Igualdade Racial, Edson Santos de Sousa, e do Subsecretário de Promoção e Defesa dos Direitos Humanos da Secretaria Especial dos Direitos Humanos, Perly Cipriano, ao Estado da Paraíba para inauguração de obras e  participação no 1º Encontro Estadual de Políticas para os Ciganos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42c2f0a650cf311b7110046a6587f1a4663a875396df591a333afc641f40a9e7
+size 362

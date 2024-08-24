@@ -1,1 +1,3 @@
-Pedido ao Ministro da Justiça e Segurança Pública, Sérgio Moro, de adoção de providências contra a criminalidade ao longo da rodovia entre os Municípios de Buritis e Nova Mamoré, no Estado de Rondônia. Necessidade de fiscalização da área de extração de minérios no Estado. Importância do apoio do Congresso Nacional à CPI destinada à investigação de operações realizadas pelo Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1d102f07adc668fd5c5a1affc32c0b799c714f2e9de62ec2f847e3855f2db1f
+size 461

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.361, de 2015, sobre a definição de deficiência auditiva e o estabelecimento de valor referencial da limitação auditiva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9f6e5b0168a405a0add1c1c4e64f4e9ee24a3c189c9b389069220f375c03703
+size 240

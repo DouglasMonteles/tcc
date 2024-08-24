@@ -1,1 +1,3 @@
-Agradecimentos aos Deputados e partidos pela aprovação da proposição sobre a instituição do Regime de Recuperação Fiscal dos Estados e do Distrito Federal. Expectativa de aprovação da matéria pelo Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b28e1497e0c77e1bae539ad48ff700fc4e73818b1cf62ff6063cb5578301fed
+size 223

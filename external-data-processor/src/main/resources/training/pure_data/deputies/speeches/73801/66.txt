@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 4, oferecida à Medida Provisória nº 919, de 2020, acerca da fixação do valor do salário mínimo em R$ 1.045,00 (mil e quarenta e cinco reais), a partir de 1º de fevereiro de 2020. Apelo ao Relator Coronel Armando de inclusão do pagamento de abono salarial aos trabalhadores no texto da proposição. Anúncio de pedido de votação nominal da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea7d67af204d331e560c831f6f389f337dc46ce1f011565820cf6cb5f6cd7c77
+size 479

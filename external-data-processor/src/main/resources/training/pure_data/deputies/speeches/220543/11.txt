@@ -1,1 +1,3 @@
-Contestação ao pronunciamento do Deputado Bibo Nunes, a respeito da contratação de médicos brasileiros formados no exterior para preenchimento de vagas no Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aee2b5173ee4d303ecc7273f111d82e97bcc4ffd6f64e38d931924042e9c47a
+size 183

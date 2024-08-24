@@ -1,1 +1,3 @@
-Defesa da concessão do porte e posse de arma de fogo aos Oficiais de Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43827c5e25694b1592e9c5c4d926713996d12bb872401a315078419de31eb95e
+size 79

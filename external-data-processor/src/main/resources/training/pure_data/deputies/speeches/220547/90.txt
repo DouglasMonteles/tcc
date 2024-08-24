@@ -1,1 +1,3 @@
-O Deputado encaminhou a votação do requerimento de retirada de pauta do Projeto de Lei nº 4.035, de 2023, que institui Agosto como mês de combate às desigualdades. Também expressou indignação diante da morte injusta de um homem sob custódia estatal e criticou o Ministro Barroso por alegar que o Judiciário não administra presídios, embora tenha contribuído para encarceramentos injustos. No contexto da instabilidade política, lamentou a votação de um projeto sobre o mês da desigualdade de gênero em meio a problemas mais urgentes, como desemprego e fome. Destacou a aprovação de uma proposta de emenda à Constituição pelo Senado para limitar os poderes do Supremo Tribunal Federal, defendendo a transformação dessa corte em uma instituição exclusivamente constitucional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1655c149cc2d1358aaeed809c38da68d57323471dc11f9c1c842f04acc2c5487
+size 800

@@ -1,1 +1,3 @@
-Malefícios físicos, emocionais e psicológicos causados a usuários assíduos de computadores, com destaque para usuários da Internet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:522e7d4a0e9460024e6348ea2ee9debc49e05904c717c373cafb0f02a0a371f6
+size 137

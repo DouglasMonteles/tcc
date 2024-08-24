@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 3.148, de 2023, sobre a autonomia das escolas indígenas, quilombolas e do campo para nomeação de instituições públicas de ensino em seus territórios. Aprovação, pelo Conselho Nacional de Justiça, da reserva de cotas para indígenas em concursos públicos do Poder Judiciário. Encaminhamento, ao Tribunal Superior Eleitoral, de parecer favorável a respeito de candidaturas indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bb12334622762990116ea19bda2037a92a90060ec2963cf3e6065bd5af2cd0c
+size 432

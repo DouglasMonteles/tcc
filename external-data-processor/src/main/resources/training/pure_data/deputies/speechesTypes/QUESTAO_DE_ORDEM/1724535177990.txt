@@ -1,1 +1,3 @@
-Questão de ordem sobre a matéria em votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf324385a522676380e7e5bf604327f834e44b0e7c10e20afd65e4ff973c08c4
+size 48

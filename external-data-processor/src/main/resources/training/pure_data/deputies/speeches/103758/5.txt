@@ -1,1 +1,3 @@
-Falecimento do ex-Deputado Federal Augusto Trein.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23eb6dcef75c65867a8f199789d071677ffd3bc5e8129764f8882f394dcd9b1a
+size 49

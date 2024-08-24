@@ -1,1 +1,3 @@
-O Deputado expressou orgulho por seus 7 meses de mandato parlamentar e destacou seu compromisso com o Estado do Paraná. Anunciou a destinação de recursos para mais de 40 municípios paranaenses, incluindo sua cidade natal, Londrina. Também enfatizou a importância da união no País diante das dificuldades enfrentadas por vários setores produtivos. Manifestou a necessidade de superação do radicalismo na política, destacando que Congresso deve representar adequadamente a população e promover políticas eficazes em benefício do País. O orador mencionou a importância da campanha Setembro Amarelo, destinada à prevenção do suicídio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44d11a1efd861dc21db5f66d6d9de1c96c855c6364f8cbc399b9256f01126f83
+size 652

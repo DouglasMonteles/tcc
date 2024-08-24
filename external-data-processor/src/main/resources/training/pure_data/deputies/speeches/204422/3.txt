@@ -1,1 +1,3 @@
-Saudação à Presidenta em exercício dos trabalhos, Deputada Rosângela Gomes. Saudação ao povo nordestino, especialmente aos pernambucanos. Apoio à campanha Junho Violeta, destinada ao combate à violência contra a pessoa idosa. Maior atenção da Casa para com os idosos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff43b4ca6a7639b5d56404aabdbd43da043cb6a0584c1214dd8e06b5fbfc8d17
+size 291

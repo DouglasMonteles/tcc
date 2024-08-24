@@ -1,1 +1,3 @@
-Posicionamento contrário do PCdoB ao Requerimento de retirada da pauta da Ordem do Dia do Projeto de Lei 5.403 de 2001, apenso o Projeto de Lei 2.126 de 2011 (Estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil - Marco Civil da Internet).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9e3ab1af2165e781dcb5c4de82cd8983506da9890c219030fec9e62ffa369f0
+size 274

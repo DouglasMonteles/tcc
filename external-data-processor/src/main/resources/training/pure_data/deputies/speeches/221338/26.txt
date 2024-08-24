@@ -1,1 +1,3 @@
-Solidariedade ao movimento grevista por reajuste salarial, deflagrado pelos funcionários da Fundação Centro de Atendimento Socioeducativo ao Adolescente - Fundação Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1bf68e01b2cbd6f32db6b961a5edcad3164705e5b237a0cfa10b58890e1b600
+size 174

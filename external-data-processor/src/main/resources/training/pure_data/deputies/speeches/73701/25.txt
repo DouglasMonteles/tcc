@@ -1,1 +1,3 @@
-Participação no Encontro Euro-Afro-Brasileiro, em Paris, França. Necessidade de avanço nas políticas de combate à discriminação, ao preconceito e à xenofobia no País. Relevância da aprovação da Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial, pela Organização das Nações Unidas - ONU. Importância da realização da Conferência Mundial contra o Racismo, Discriminação Racial, Xenofobia e Formas Conexas de Intolerância, em Durban, África do Sul. Avanço da criação da Secretaria de Políticas de Promoção da Igualdade Racial - SEPPIR e do Estatuto da Igualdade Racial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bb59adf3695533e5a24db0264286b027496a0b2f4c01e521a96dfea6a3e4fc0
+size 625

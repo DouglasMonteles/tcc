@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda 35, destacada, ao Substitutivo ao Projeto de Lei 5.186 de 2005 (Altera a Lei 9.615 de 1998, que institui normas gerais sobre desporto e dá outras providências - Lei Pelé), que visa a permitir o contrato especial de aprendizagem a partir dos 14 anos para os atletas em formação. Ponderações sobre a impropriedade da Emenda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7626b04425dce23d3b7fa19c9f4dff441a3066eb98d8152c4cc32267d670458
+size 367

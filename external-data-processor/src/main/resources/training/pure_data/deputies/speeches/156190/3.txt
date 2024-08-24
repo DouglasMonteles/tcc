@@ -1,1 +1,3 @@
-Solicitação à Presidência de divulgação do discurso do orador no programa A Voz do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33a1c3cbe0029c2ababf6d2d7a351e3f2a78edb1e83d4f9b82efcbad191f55bc
+size 96

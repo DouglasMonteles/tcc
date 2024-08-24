@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de inclusão automática na Ordem do Dia do Projeto de Lei nº 3.292, de 2020, sobre a alteração da Lei nº 11.947, de 2009, com vista ao estabelecimento de percentual mínimo para a aquisição de leite sob a forma fluida, com recursos do Programa Nacional de Alimentação Escolar - PNAE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74e0b8ab97b769cb4055b40bc718e4d5ce0f01b0562642c16d780cbbb021973f
+size 345

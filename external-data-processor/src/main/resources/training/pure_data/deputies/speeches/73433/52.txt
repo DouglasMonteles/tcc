@@ -1,1 +1,3 @@
-Transcurso dos 28 anos de fundação do Partido dos Trabalhadores — PT. Saudações aos convidados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3dc95b23e84ff8e19f07ab86e9dae680d6a9138e5ed3a979853dde6c018ddf5
+size 101

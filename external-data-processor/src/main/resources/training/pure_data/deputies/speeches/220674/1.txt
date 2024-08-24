@@ -1,1 +1,3 @@
-Realização de reunião da Cúpula da Amazônia e dos Diálogos Amazônicos, em Belém, Estado do Pará. Eficiência da gestão do Governador Helder Barbalho. Conciliação entre a produção agrícola e a preservação do meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3ac91c3a53369dcb1b3f7778b2e9a9971c52115d09f994269cef1f6d1c7b4cb
+size 238

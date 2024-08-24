@@ -1,1 +1,3 @@
-Discussão do Projeto de Decreto Legislativo nº 161, de 2022, sobre aprovação do texto da Convenção entre a República Federativa do Brasil e a República Oriental do Uruguai para Eliminar a Dupla Tributação em Relação aos Tributos sobre a Renda e sobre o Capital e Prevenir a Evasão e a Elisão Fiscais, assinado em Brasília, em 7 de junho de 2019. Necessidade de criação da Comissão Externa destinada ao acompanhamento da crise humanitária do povo indígena ianomâmi de responsabilidade do Governo Jair Bolsonaro. Crítica à atuação do PL contra a criação do colegiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2900211654e000c2e7604b1a0a2d675f8d34cd4fd16b423dbfeb2b3bf2ba791f
+size 592

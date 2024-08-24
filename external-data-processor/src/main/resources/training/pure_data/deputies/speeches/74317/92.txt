@@ -1,1 +1,3 @@
-Cobrança abusiva de tarifas de energia elétrica no Município de Guadalupe, Estado do Piauí. Apelo à empresa Centrais Elétricas Brasileiras - ELETROBRAS de imediata suspensão de cortes no fornecimento de energia elétrica na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfdae249b183c07dcdd4ddd272dffd173a4838452a8bd9fac545735a93ccb7db
+size 246

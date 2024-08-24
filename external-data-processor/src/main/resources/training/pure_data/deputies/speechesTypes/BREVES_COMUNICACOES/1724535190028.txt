@@ -1,1 +1,3 @@
-Agradecimento aos portugueses e aos espanhóis pela receptividade concedida ao Presidente Luiz Inácio Lula da Silva, por ocasião da sua visita àqueles países. Apoio à CPMI destinada à investigação dos atos de vandalismo praticados contra as sedes dos Poderes da República. Relevância do papel desenvolvido pela PETROBRAS. Apoio ao movimento realizado pelos trabalhadores da PETROBRAS; da ELETROBRAS; do Instituto Nuclear do Brasil - INB; e da Nuclebrás Equipamentos Pesados - NUCLEP. Importância da empresa Eletrobras Eletronuclear.
+version https://git-lfs.github.com/spec/v1
+oid sha256:384411c208d0ce6e27379945327b341384bdb4f6a124d7fce92f71e18172c257
+size 544

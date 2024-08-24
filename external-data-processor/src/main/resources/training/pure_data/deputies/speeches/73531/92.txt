@@ -1,1 +1,3 @@
-Inversão de valores nas investigações de possíveis irregularidades na Operação Satiagraha, deflagrada pela Política Federal. Protesto contra a venda das empresas de biotecnologia Alellyx e CanaVialis, do Grupo Votorantim, à multinacional Monsanto. Anúncio da apresentação de projeto de lei sobre a proibição da venda ao capital estrangeiro de empresas nacionais beneficiadas com verbas públicas para pesquisas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0045348e038b02c28aa579576d7298466d8339b239f9d91f78952cffd5b8cf52
+size 424

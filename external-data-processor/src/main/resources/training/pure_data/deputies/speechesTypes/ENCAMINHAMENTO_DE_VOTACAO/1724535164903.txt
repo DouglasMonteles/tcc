@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.569, de 2021, sobre a instituição do Dia Nacional de Luta e Combate ao Estupro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbfdd1e5cde68e3b20c060ac152c8279313ee3c9dbae0e9126ea095d293b315a
+size 188

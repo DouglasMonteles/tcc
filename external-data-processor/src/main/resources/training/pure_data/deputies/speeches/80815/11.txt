@@ -1,1 +1,3 @@
-Importância dos mecanismos digitais para a educação, principalmente para o cidadão mais pobre. Encaminhamento de requerimento ao Ministro da Fazenda, Fernando Haddad, para criação de programa de venda de tablets e de celulares mais baratos para a população carente. Apresentação de emenda ao projeto referente ao Programa Minha Casa, Minha Vida, para inclusão de wi-fi gratuito nas habitações populares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eb3211c9e0abc9636847eb1b8cd8ed6b4996309079e76f2d442c9dee8219dfe
+size 416

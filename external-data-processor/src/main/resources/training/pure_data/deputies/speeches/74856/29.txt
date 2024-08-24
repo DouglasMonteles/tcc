@@ -1,1 +1,3 @@
-Defesa de ampliação das políticas públicas de inclusão social de jovens com vistas à redução da violência no Brasil. Elogios aos programas de inclusão social Plano Juventude Viva e PROJOVEM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bb0584a9e96201f0f6164082ac0cf1b05c9659d97180097f09f77adf9189faf
+size 200

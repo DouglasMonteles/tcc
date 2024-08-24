@@ -1,1 +1,3 @@
-Contrariedade à pretendida regulamentação, pelo governo petista, dos serviços prestados por trabalhadores autônomos de aplicativos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b450184dea66e675980d72d0f5e315551890a4d9443578b6272feb80edd66edf
+size 136

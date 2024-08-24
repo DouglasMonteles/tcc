@@ -1,1 +1,3 @@
-Ampliação na oferta de cursos pela unidade do Centro Federal de Educação Tecnologia do Município de Nova Friburgo, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bccde49ea6c368c9e03e87da0badfa4b66a571224c45c3d138f5ad4a819d0f8
+size 145

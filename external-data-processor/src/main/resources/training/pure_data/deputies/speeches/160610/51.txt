@@ -1,1 +1,3 @@
-Transcurso do 120º aniversário de emancipação político-administrativa do Município de Barreiras, Estado da Bahia. Vocação da municipalidade para a agropecuária. Empenho do orador pela ampliação do Aeroporto de Barreiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9676abcbbdc8233bf438a629c39470ed350be211db83547b504a264eb297654a
+size 231

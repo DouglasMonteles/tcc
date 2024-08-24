@@ -1,1 +1,3 @@
-Indignação do orador ante a omissão dos governantes sobre a disseminação de cracolândias no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3342288550eab2a22045a1e1dedd2187d12c594c579ca543672316a570e458d
+size 104

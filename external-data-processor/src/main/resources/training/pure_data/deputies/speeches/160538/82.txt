@@ -1,1 +1,3 @@
-Aplausos à Agência Nacional de Vigilância Sanitária - ANVISA pela proibição da adição de aromatizantes na produção de derivados do tabaco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b3b2e6d29739773358977ab48bdd33b2475864a9a35648161c3641dbf8eeadd
+size 148

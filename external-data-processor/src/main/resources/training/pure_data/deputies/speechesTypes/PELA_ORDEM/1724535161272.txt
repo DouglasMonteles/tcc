@@ -1,1 +1,3 @@
-Apoio do PMDB à proposta do Deputado Jilmar Tatto de retirada dos projetos de decretos legislativos da pauta da Ordem do Dia, tendo em vista a inexistência de clima político para votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8901aadf81dd37f452abb7ea73081ae7deb735dd2aa40ff6b3d354e4ee757a8
+size 192

@@ -1,1 +1,3 @@
-Debate de ações e soluções para os reiterados casos de racismo ocorridos na Espanha contra o jogador do Real Madrid Vinicius Júnior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7f9fa9615f38e6d4b3b2f71ffb9a19c27970c5cb3312f2e79efe2c2ad5452a2
+size 137

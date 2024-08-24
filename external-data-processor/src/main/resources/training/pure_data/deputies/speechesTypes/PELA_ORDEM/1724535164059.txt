@@ -1,1 +1,3 @@
-Agravamento do estado de saúde do humorista Francisco Josenilton Veloso, conhecido por Shaolin, vítima de acidente automobilístico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29b3407738626878a8d63df1676ec6a82727abb7a5339bbe44183871fe8b2fed
+size 134

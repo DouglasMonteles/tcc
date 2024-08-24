@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 4.438, de 2023, que altera a Lei nº 4.737, de julho de 1965 (Código Eleitoral), a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos) e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), com o fim de promover reforma no ordenamento político-eleitoral&nbsp;(Minirreforma Eleitoral de 2023).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c6bf806fdb318cbe0f186ef081285de10ae7df13a8805e8207be64e2f762d33
+size 445

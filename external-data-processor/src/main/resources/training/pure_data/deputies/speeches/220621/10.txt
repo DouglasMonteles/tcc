@@ -1,1 +1,3 @@
-Relevância da obra A Verdade Sufocada - A história que a esquerda não contou, de autoria do saudoso coronel do Exército brasileiro, Carlos Alberto Brilhante Ustra. Solidariedade ao Deputado Nikolas Ferreira diante de agressão homofóbica desferida pelo Deputado André Janones, e ao Deputado André Fernandes em face de atitude desrespeitosa do Ministro da Justiça e Segurança Pública, Flávio Dino. Defesa de criação da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República. Retorno do ex-Presidente Jair Bolsonaro ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fd0d3bc06d3c5b84309454e3335eb1cc794a97d9751f356d3411a19c6443557
+size 594

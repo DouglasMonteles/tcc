@@ -1,1 +1,3 @@
-Presença na Casa de comitiva liderada pelo Presidente do PSB do Município de Casa Nova, Estado da Bahia, para tratativas sobre assuntos de interesse da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6d7732e079fc89d759379506fd939fb963b97f45ab5e26d74672db5155a4046
+size 169

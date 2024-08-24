@@ -1,1 +1,3 @@
-Regozijo com a aprovação do Projeto de Lei nº 10.592, de 2018, sobre a alteração da Lei nº 8.213, de 1991, para inclusão da neuromielite óptica e do espectro da neuromielite óptica entre as doenças passivas de concessão, sem período de carência, de auxílio-doença e de aposentadoria por invalidez.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2b00a463fda8be39c77e44f2ee30eea5165266577a8b884c00c0809942cd5ab
+size 312

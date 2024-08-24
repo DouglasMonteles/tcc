@@ -1,1 +1,3 @@
-Voto do orador favorável à aprovação do parecer pela admissibilidade do processo de impeachment da Presidente da República Dilma Rousseff. Fechamento do comércio do Município de Curitiba, Estado do Paraná, em mobilização em prol do impeachment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5490be271114ff005f4c121d04a8e0ec3b44c08a8ac4f96820ac316863d5503b
+size 254

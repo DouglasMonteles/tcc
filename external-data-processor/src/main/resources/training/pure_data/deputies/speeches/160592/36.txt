@@ -1,1 +1,3 @@
-Doação pelo Governo Federal de retroescavadeiras e motoniveladoras a municipalidades paranaenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:663f1fdc46f378e415d888d4fc35b66c061c9caca7e56609d1fcc81838df01a2
+size 99

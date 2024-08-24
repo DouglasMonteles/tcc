@@ -1,1 +1,3 @@
-Agradecimentos ao aparte do Deputado Marcel van Hattem. Esclarecimentos sobre o texto e sobre destaques apresentados à Medida Provisória nº 1.162, de 2023, sobre o Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d463a5d702db599f3df31ca2c37a1701ad0b48397fa271389c0fc5295c039665
+size 199

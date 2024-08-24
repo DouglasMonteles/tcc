@@ -1,1 +1,3 @@
-Discurso proferido por ocasião de sessão solene destinada à instalação da 2ª Sessão Legislativa Ordinária da 53ª Legislatura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21a7a6957ae982e3dafa0b3924fcf718aa03a66d9461a9301814afca0a0386bc
+size 134

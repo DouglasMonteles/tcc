@@ -1,1 +1,3 @@
-Defesa de afastamento do Presidente Luiz Inácio Lula da Silva. Vitória do Presidente Jair Bolsonaro nas eleições realizadas no Estado do Espírito Santo em 2022. Omissão do Ministro da Justiça, Flávio Dino, sobre o movimento de bolsonaristas culminante na invasão das sedes dos Poderes da República. Assinatura do requerimento de criação de CPMI para investigação do caso. Contrariedade à prisão do ex-Secretário de Segurança Pública do Distrito Federal, Anderson Torres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f64bb53239f04b825f0a80032cbc13284f81439df000b9916d03503ee001fab6
+size 489

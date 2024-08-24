@@ -1,1 +1,3 @@
-Orientação da bancada do PMDB favorável ao requerimento de encerramento de discussão do Projeto de Lei nº 6.568, de 2016, que altera a Lei nº 13.254, de 13 de janeiro de 2016, que dispõe sobre o Regime Especial de Regularização Cambial e Tributária (RERCT) de recursos, bens ou direitos de origem lícita, não declarados ou declarados incorretamente, remetidos, mantidos no exterior ou repatriados por residentes ou domiciliados no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c85bbb57ac0eae7cbf7115a29e3cfeca846d2adc5c4f76011f6ceb05480c99b9
+size 449

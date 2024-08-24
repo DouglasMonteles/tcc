@@ -1,1 +1,3 @@
-Repúdio à recepção dada pelo Presidente Luiz Inácio Lula da Silva ao ditador da Venezuela, Nicolás Maduro. Situação de penúria do povo venezuelano. Protesto contra agressão física praticada contra jornalista brasileira por agentes de segurança de Nicolás Maduro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33a402dad58fa3d6aec702852a850e9a5b7efa2a62e05c873ef9843657d008b0
+size 275

@@ -1,1 +1,3 @@
-Posicionamento favorável do PT à  Emenda 7, destacada,  ao Substitutivo ao Projeto de Lei 5.798 de 2009 (Institui o Programa de Cultura do Trabalhador, cria o Vale-Cultura e dá outras providências), que concede Vale-Cultura aos  aposentados  no valor de 30 reais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54c27dc9eee0afafa2d73369785a63a03d727f88be001df84e2406e90aacfd8f
+size 267

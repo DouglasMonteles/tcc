@@ -1,1 +1,3 @@
-Acerto da decisão da Ministra-Chefe da Casa Civil, Dilma Rousseff, de inclusão de projeto da FERROESTE — Estrada de Ferro Paraná Oeste S/A  no Programa de Aceleração do Crescimento — PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:957e5260ee8f502cf2e4621250dc228b7912a105ba2cfab4f89208ce31e75819
+size 196

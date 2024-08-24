@@ -1,1 +1,3 @@
-Liberação de recursos de emenda orçamentária do orador, destinada à construção de hospital oncológico no âmbito da Universidade Estadual de Campinas - UNICAMP, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b94176cc3a5df846d645ad312d61b4b7236eec8b8ec64f32b6c6456ec19f850
+size 190

@@ -1,1 +1,3 @@
-Outorga, pela Assembléia Legislativa do Estado do Amazonas, da Medalha do Mérito Ruy Araújo ao ex-Deputado Euler Ribeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4365528b7f08721217308ae8ebd9ecc27a6f03e12158e33b9a9dcabf60953c94
+size 124

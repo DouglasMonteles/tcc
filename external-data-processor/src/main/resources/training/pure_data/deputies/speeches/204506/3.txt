@@ -1,1 +1,3 @@
-Comemoração do Dia Nacional da Imigração Judaica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46ef5de3f72cb91620cf0ddcfd183c1b87dac75cad448e11d3876f04ef4bba22
+size 53

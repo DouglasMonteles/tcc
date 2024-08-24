@@ -1,1 +1,3 @@
-Competência demonstrada pela Justiça Eleitoral na condução das eleições municipais no País. Desempenho de candidatos do PMDB nos pleitos municipais, com destaque para Municípios do Estado do Ceará. Crise no abastecimento de água no interior do Estado, em razão de estiagem prolongada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1f48b8464ca0baae07575fe931c6bd06180f0e71aece4701436bc7ce5c6feaf
+size 295

@@ -1,1 +1,3 @@
-Razões da obstrução das votações pelo partido NOVO. Constitucionalidade da Proposta de Emenda à Constituição nº 410, de 2018, sobre a inculpabilidade do réu até a confirmação de sentença penal condenatória em grau de recurso. Apresentação do Projeto de Lei nº 5.932, de 2019, sobre a alteração do art. 283 do Código Processo Penal, com vista à execução provisória da pena de prisão aos réus com condenação criminal confirmada por órgão colegiado em julgamento de segundo grau.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58a5f2feea72b3943716dc53ef16ef544f7994fbc8dba9a5b1c6d9f14e16ab9a
+size 507

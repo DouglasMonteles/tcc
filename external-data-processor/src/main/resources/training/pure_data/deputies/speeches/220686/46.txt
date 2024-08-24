@@ -1,1 +1,3 @@
-Encaminhamento da votação da funcional programática 04722103226700101 do Programa de Trabalho da Unidade 2101 - Presidência da República, constante da Medida Provisória 405 de 2007 (Abre crédito extraordinário em favor da Justiça Eleitoral e de diversos órgãos do Poder Executivo, para os fins que especifica), relativa a recursos para serviços de radiodifusão de programas culturais e educacionais, objeto de DVS. Obstrução política dos partidos de Oposição às votações. Protesto contra o uso abusivo e indiscriminado do instituto da Medida Provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:712b9de9b44310c1ea4f3c0b5d2e57088ba07786c3b0e767459f48ca15288e75
+size 575

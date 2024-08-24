@@ -1,1 +1,3 @@
-Crítica a medidas do Governo da Paraíba concernentes a atribuições dos procuradores de Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e91d3c4bcb7e918c97703990dfebf1efe307bc58841f65e09231addd71ae0437
+size 98

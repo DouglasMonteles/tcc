@@ -1,1 +1,3 @@
-Regozijo do orador com o avanço das obras de construção do Hospital do Amor, no Município de Lagarto, Estado de Sergipe, futuro polo de tratamento contra o câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc56c872cbcb97814c1dd77ea685bb5008cbd4e7c0109054bbbcdd9f19082cb8
+size 168

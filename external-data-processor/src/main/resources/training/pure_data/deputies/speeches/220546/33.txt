@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de adiamento da discussão do Projeto de Lei n°2.721, de 2023, que dispõe sobre a prestação de serviços postais aos órgãos públicos federais da administração direta e indireta. Ademais, protestou contra evento realizado na Comissão de Direitos Humanos, que considerou de caráter antissemita. Além disso, informou sobre reunião com o Embaixador de Israel, em que os parlamentares assistiram às cenas de violência e de terrorismo praticadas pelo Hamas. Por fim, manifestou-se favoravelmente à Israel e repudiou aqueles que defendem Hamas, MST, PCC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a786d1c78f6d0792f63cf774defbe0f00fbb7aa002edef57f8c88f23fbf709d2
+size 622

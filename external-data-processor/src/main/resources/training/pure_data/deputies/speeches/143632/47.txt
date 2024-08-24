@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 1.667, de 2011, sobre a obrigatoriedade da contratação de jovens na faixa etária entre 16 a 24 anos por pessoas jurídicas beneficiadas com incentivos fiscais ao ensejo da realização no País da Copa do Mundo em 2014 e a Copa das Confederações em 2013.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66ee5329d38d3666f58d33cc749b8098f4528d39c4a87cde2c259b954d5d3503
+size 296

@@ -1,1 +1,3 @@
-Equívoco cometido pela população brasileira na eleição da Sra. Dilma Rousseff para a Presidência da República. Propósito do Governo Federal de recriação da Contribuição Provisória sobre Movimentação Financeira - CPMF. Desempenho do DEM nas eleições de 2010. Conveniência de demissão do Ministro da Educação, Fernando Haddad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4be9e06082bf168dffe96ddd2f8977c571511df9948b3b58b70c03cf5f24ca76
+size 345

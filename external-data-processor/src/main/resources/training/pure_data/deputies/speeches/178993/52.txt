@@ -1,1 +1,3 @@
-Indignação com a retirada de placas de inauguração de obras determinada pelo Prefeito Municipal de Palmas, Estado de Tocantins. Empenho do orador para criação de faculdade de Medicina na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15fe656187a12c489367e919d021a27b9246802e6ae4b0a299e4b3ce5526da89
+size 208

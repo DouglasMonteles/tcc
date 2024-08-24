@@ -1,1 +1,3 @@
-Esgotamento do sistema de governo presidencialista de coalizão no Brasil. Importância de avanços na reforma política para aprimoramento do sistema de governo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:099134f163b76e30e4acefd71224cd67b4b2df8af7d87f7c1d2c90a7314b7ff7
+size 173

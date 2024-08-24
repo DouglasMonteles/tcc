@@ -1,1 +1,3 @@
-Distorção do conceito de soberania nacional pelo Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e79cccb53f5fc7dc488acb4193c3e76cbd455a217b2ba615099b962a2a90540
+size 74

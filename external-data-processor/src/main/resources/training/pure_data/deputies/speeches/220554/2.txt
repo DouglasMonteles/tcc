@@ -1,1 +1,3 @@
-Discussão do Projeto de Decreto Legislativo nº 930, de 2021, sobre aprovação do texto do Acordo entre a República Federativa do Brasil e a República do Peru para Facilitação do Trânsito de Veículos de uso Particular, assinado em Lima, em 11 de dezembro de 2009. Retomada de políticas públicas pelo Governo Luiz Inácio Lula da Silva, especialmente às destinadas à geração de emprego e renda e ao combate à fome. Anúncio pelo Governo Federal da retomada de investimentos o setor naval
+version https://git-lfs.github.com/spec/v1
+oid sha256:da3a91b8fe362dd17b7c734ba1d9579eb05db8c4932c03e215460c8f0d777fea
+size 501

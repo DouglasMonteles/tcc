@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Requerimento nº 593, de 2019, para apreciação em regime de urgência do Projeto de Lei nº 17, de 2019, acerca de alteração da Lei Maria da Penha, destinada ao combate à violência doméstica contra a mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fac49b4a7f2b1b261d25984b7f612d24fff765aaefdc4b1a94830f6558a1b411
+size 254

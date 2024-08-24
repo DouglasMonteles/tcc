@@ -1,1 +1,3 @@
-Missão da Minoria parlamentar na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9670fa1f8ab1514843639b0bb04c3fa7d97fe7fcbd77a049f1edc0b9fec26912
+size 56

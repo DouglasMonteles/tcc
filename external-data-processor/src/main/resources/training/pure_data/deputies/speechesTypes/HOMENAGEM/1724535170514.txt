@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Dia Nacional da Micro e Pequena Empresa.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82f8408cadfd6af0ee37424f05d43ebfd80bf33d614eef335c71918a67aa70be
+size 220

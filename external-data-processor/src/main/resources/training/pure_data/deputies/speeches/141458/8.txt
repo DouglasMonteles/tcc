@@ -1,1 +1,3 @@
-Prejuízos socioeconômicos causados pela estiagem a Municípios do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d476f82bf3386a696776156d7bcbc83cb866381db100978661c8972e7d2ab61
+size 84

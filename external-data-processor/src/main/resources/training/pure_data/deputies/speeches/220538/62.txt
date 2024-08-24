@@ -1,1 +1,3 @@
-Homenagem à Federação Rio-Grandense de Associações Comunitárias e de Moradores de Bairros - FRACAB, ao ensejo do transcurso do 50º aniversário de sua fundação. Transcurso do Dia Nacional do Idoso. Expectativa de aprovação, pelo Senado Federal, do Projeto de Lei da Câmara dos Deputados nº 161, de 2008, de autoria do orador, relativo à criação do Fundo Nacional do Idoso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c88daed9c8fc9bd13350d0d7a986c0e8168ca29268c02cf80313af1955689e8
+size 388

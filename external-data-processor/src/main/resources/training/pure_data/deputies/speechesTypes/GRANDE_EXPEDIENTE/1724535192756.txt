@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado do Estado de Mato Grosso do Sul pela reeleição do orador. Eleição da Sra. Dilma Rousseff para a Presidência da República. Confiança na implantação de projeto de construção de um novo Brasil. Atuação do Partido dos Trabalhadores em defesa das legítimas causas da sociedade brasileira. Apoio ao programa de governo da futura Presidenta do País. Desempenho no PT nas eleições 2010. Acerto da política socioeconômica do Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da566c4283a4c9ce68b66d0d13f1a8a0f833836c11ec6fd7cc84e2aaa7e3eb5d
+size 498

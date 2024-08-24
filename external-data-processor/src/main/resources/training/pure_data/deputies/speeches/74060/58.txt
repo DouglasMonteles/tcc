@@ -1,1 +1,3 @@
-Expectativa de concessão de anistia a trabalhadores petroleiros. Relevância da atuação da Comissão Especial destinada ao acompanhamento dos processos relativos à aplicação das leis de anistia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:762d928790368f5308a39c3cbdd2412e41c3de1cd6416c050a0372c3f8e104d6
+size 200

@@ -1,1 +1,3 @@
-Defesa da impossibilidade constitucional de nova apreciação de matéria vencida, por emenda aglutinativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13336b2916a0be259ef6d2c88a0a826552a1b0b77491cc23e7ffd860037f6113
+size 107

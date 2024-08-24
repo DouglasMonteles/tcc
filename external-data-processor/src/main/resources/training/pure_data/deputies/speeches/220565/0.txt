@@ -1,1 +1,3 @@
-Principais realizações do Governo Luiz Inácio Lula da Silva nos primeiros dias de gestão. Regozijo com a retomada do Programa Minha Casa, Minha Vida. Reunião da bancada federal do Estado de Goiás para debate sobre o tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b67d6ef2c1b8795e3eff119307cb1a2161ae8bafd20efda98d4ed9be1fe9f93f
+size 227

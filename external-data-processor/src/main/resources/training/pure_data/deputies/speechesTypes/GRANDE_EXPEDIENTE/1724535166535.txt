@@ -1,1 +1,3 @@
-Balanço da atuação parlamentar do orador no primeiro ano do mandato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58fc8057ea2d449dcc08aa532adc874646cdac4af0cb50803e583669b69c6262
+size 71

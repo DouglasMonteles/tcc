@@ -1,1 +1,3 @@
-Protesto contra manifestações de Parlamentares de esquerda sobre exclusão de direitos no Estatuto da Família, no âmbito da respectiva Comissão Especial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:933321a1ec295aa209a89f9c2721025348fbe80c5d48e8383fac3ec138cd8597
+size 158

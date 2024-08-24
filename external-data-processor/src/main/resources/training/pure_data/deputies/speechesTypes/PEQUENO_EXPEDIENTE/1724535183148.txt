@@ -1,1 +1,3 @@
-Pedido à bancada do PSL para não apresentação de requerimento de destaque ao parecer oferecido pelo Relator da Comissão Especial da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41e0bd3bae21924bbfa8576a12dfe2cbf26f685fa7ec997f55792bb10d6bd331
+size 161

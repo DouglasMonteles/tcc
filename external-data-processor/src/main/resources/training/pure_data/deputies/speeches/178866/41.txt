@@ -1,1 +1,3 @@
-Solidariedade aos familiares das vítimas da Covid-19. Remoção, pelo Facebook, de contas falsas ligadas ao clã Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:317bdec8bdbb365e0ac1bee23c29975aec5a18ef12688036de8e41e4137c3229
+size 124

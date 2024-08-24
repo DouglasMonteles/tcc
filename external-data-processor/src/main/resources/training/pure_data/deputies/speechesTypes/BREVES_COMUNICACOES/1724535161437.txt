@@ -1,1 +1,3 @@
-Preocupação com o não pagamento aos produtores de milho do Estado de Sergipe do seguro relativo ao Programa de Garantia da Atividade Agropecuária - PROAGRO por perdas na safra decorrentes da estiagem. Necessidade de adoção de medidas pelas autoridades públicas para a recuperação do sistema rodoviário de cargas do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c46d9bc8d6c4fd02e0c78d2c09380c80dc6feb0a55afaa2f7698a38c547bdfb
+size 331

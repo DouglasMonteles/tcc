@@ -1,1 +1,3 @@
-Inoportunidade do encaminhamento à Casa, pelo Poder Executivo, de nova proposta de reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7254f9113b03ec5acc5aaf1f934b63612c3a78b2065732fa8b49fd728386fda
+size 102

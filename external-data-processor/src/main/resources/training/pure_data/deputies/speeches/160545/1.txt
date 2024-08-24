@@ -1,1 +1,3 @@
-Visita do Governador do Estado de São Paulo, Geraldo Alckmin, à região de M'Boi Mirim para participação na campanha Eu Apoio: Arma não é Brinquedo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93cb100c2e6cae1244527a1aaea2f8954a9926f3970df4cd3cdbb96d96a96ed8
+size 154

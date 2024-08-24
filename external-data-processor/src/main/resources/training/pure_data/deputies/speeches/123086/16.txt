@@ -1,1 +1,3 @@
-Pedido ao Ministro da Educação de reexame de portaria normativa relativa ao Fundo de Financiamento ao Estudante do Ensino Superior - FIES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d65336c70fd86120712c6ee07ae7449e3bdec0accd176dcc72133bcfd626d6ca
+size 140

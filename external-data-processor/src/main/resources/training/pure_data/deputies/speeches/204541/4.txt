@@ -1,1 +1,3 @@
-Repúdio a pronunciamento de Deputado sobre a atuação parlamentar do orador no Município de Aracati, Estado do Ceará. Aprovação popular do Prefeito Municipal de Aracati.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2149f8518cef5854c9f94d94a81d1aeb5f566a27d57dbfd7cfe91f1bcf822723
+size 175

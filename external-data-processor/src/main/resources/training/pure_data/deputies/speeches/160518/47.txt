@@ -1,1 +1,3 @@
-Apoio à greve de professores no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e2b82c6206a1d8a278cbfa911cdfb88bc390787582d356c1e7048450878886d
+size 56

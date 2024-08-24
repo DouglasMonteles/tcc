@@ -1,1 +1,3 @@
-Transcurso do 470º aniversário de fundação de Salvador, Estado da Bahia. Solicitação ao Ministério do Desenvolvimento Regional de liberação de recursos financeiros ao Estado, para atendimento aos Municípios atingidos por enchentes. Maior atenção governamental para com os trabalhadores, as populações carentes e os portadores de deficiência na apreciação da proposta de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43e8167d9e771e68bebabd508f1e6cb590dc3693d4f2ce794e8c7908ff818b85
+size 411

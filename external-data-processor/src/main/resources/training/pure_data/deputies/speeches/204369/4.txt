@@ -1,1 +1,3 @@
-Solidariedade ao apresentador do programa Terça Livre,  Allan Santos, e à repórter Fernanda Salles, ameaçados de morte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc62cae5d253841509f5583f1187b0de95d97975a7315bec07d100d408c7a1cf
+size 123

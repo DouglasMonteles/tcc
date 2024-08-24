@@ -1,1 +1,3 @@
-Protesto contra veto presidencial aposto à proposta de exclusão dos veículos utilizados na agricultura da obrigatoriedade do emplacamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfee05deee8c9ca7f4b531c5977566523664187fc1b0e21dd2c8b8942f307a30
+size 141

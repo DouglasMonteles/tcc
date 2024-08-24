@@ -1,1 +1,3 @@
-Realização de audiência pública em Salvador, Estado da Bahia, pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização. Propostas apresentadas pelo orador durante o evento. Inauguração de unidades habitacionais no Município de Vitória da Conquista, Estado da Bahia, construídas por meio do Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf8bc1da171808a26d473e07a80d06479789b08c4f2207cd27bf26e793ae863c
+size 345

@@ -1,1 +1,3 @@
-Razões do voto favorável do orador ao impeachment da Presidenta da República, Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06e47ccc367caae3a3ef62c82c1bbd1ba1184f4a826d2006b3a33a4dddf19435
+size 96

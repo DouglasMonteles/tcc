@@ -1,1 +1,3 @@
-Preocupação com queda na credibilidade da PETROBRAS. Desolação com os prejuízos causados aos pequenos investidores da estatal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38f3762f65ed177c349df61887caf9b4760023bc3b3d2ad76797b1dbd704d01d
+size 131

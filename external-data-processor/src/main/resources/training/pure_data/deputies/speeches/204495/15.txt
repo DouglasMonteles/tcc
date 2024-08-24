@@ -1,1 +1,3 @@
-Encaminhamento, ao Ministério da Educação, de requerimento de indicação para realização do Exame Nacional do Ensino Médio - ENEM no Município de Placas, Estado do Pará. Prisão do mandante dos assassinatos da coordenadora do Movimento dos Atingidos por Barragens - MAB, Dilma Ferreira Silva; do seu esposo Claudionor Costa da Silva e do trabalhador assentado, Hilton Lopes, no Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88099edae7d9bacebbae7b57cb27b916264c0716bb91339eb0079981fc22c152
+size 393

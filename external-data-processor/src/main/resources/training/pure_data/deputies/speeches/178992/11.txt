@@ -1,1 +1,3 @@
-Solidariedade ao povo gaúcho e ao Governador do Estado do Rio Grande do Sul, Ivo Sartori, ante a crise financeira estadual. Pesar pelo falecimento do psiquiatra, educador e escritor, Dr. Içami Tiba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c7b5eb3742c8c38202cbcef34fbcdcd79ffe036ee3217ff0a8ece798cc111b7
+size 200

@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Nikolas Ferreira sobre a perda de espaços pelas mulheres diante do transexualismo. Não manifestação de Deputadas da Esquerda, a respeito da prisão de mulheres acusadas de participação em atos de vandalismo contra as sedes dos Poderes da República. Defesa de instituição das penas de prisão perpétua e castração química para estupradores. Repúdio ao discurso do PT e do PSOL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43168faefc241906a5b30322400cb9f19d0469e980a18565ba9aa1502a9aef4c
+size 433

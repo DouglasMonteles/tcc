@@ -1,1 +1,3 @@
-Encaminhamento de expedientes ao Ministro da Saúde, Luiz Henrique Mandetta, sobre as providências adotadas quanto aos surtos de malária na Aldeia Mapuera, no Município de Oriximiná, e de sarampo no Município de Prainha, no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa74c66d7ea53bb4456b9658d17a98213b0fb2996c424a7d0bd7eac676fc0e44
+size 245

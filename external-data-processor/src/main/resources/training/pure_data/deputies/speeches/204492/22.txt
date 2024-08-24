@@ -1,1 +1,3 @@
-Contestação ao discurso proferido por Deputado no plenário, a respeito da soltura do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92a2a499e0941b38cdbdc51374d6a59e9f12214c61ba6dcbb604df5c58aafc42
+size 129

@@ -1,1 +1,3 @@
-Necessidade de adoção, pelo Governo do Estado do Ceará, de providências contra a matança de animais abandonados em Fortaleza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8857f574e6a25b592238358f06fabbdacd817ed333337e253d0c5547751a904d
+size 130

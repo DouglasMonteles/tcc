@@ -1,1 +1,3 @@
-Regozijo da sociedade cearense com a aprovação, pela Câmara dos Deputados, do Projeto de Lei nº 4.409, de 2008, sobre a criação de Varas do Trabalho e de cargos de Juiz do Trabalho, no âmbito do Tribunal Regional do Trabalho da 7ª Região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a848846cfdcd1201d89c09d72b36414e1f2d77318fcc8fd7ca19904d409c0fbe
+size 247

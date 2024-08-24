@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 9, oferecida ao Projeto de Lei nº 1.581, de 2020, a respeito do disciplinamento do acordo com credores para o pagamento com desconto de precatórios federais; do acordo terminativo de litígio contra a Fazenda Pública; da destinação dos recursos oriundos para o combate à Covid-19 durante a vigência do estado de calamidade pública, reconhecido pelo Decreto Legislativo nº 6,  de 2020; e da alteração das Leis de nºs 7.689, de 1988, e 8.212, de 1991. Anúncio de encaminhamento, ao Conselho de Ética e Decoro Parlamentar, de representação contra o Deputado Jorge Solla em face de acusações levianas e caluniosas proferidas contra o Presidente Jair Bolsonaro e seus aliados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cebc22853759d0e9d56c4f442a2d64bbb5a5203adcd4526531a1bba63bc1636a
+size 808

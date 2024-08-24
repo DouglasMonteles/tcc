@@ -1,1 +1,3 @@
-Presença do plenário do Sr. Gleidson Oliveira, Secretário de Planejamento do Município de Nossa Senhora do Socorro, Estado de Sergipe. Reexame da decisão de fechamento de agência do Banco do Brasil na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d9b5f2fa26887fe1e4014221aa672801c08d6dfb44afc831c6ab5b210ce0159
+size 222

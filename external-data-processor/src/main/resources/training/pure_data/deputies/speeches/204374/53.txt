@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 5.082, de 2016, sobre a criação da via societária e o estabelecimento de procedimentos de governança e de natureza tributária para modernização do futebol. Congratulação ao Governo Jair Bolsonaro pela edição da Medida Provisória nº 905, de 2019, sobre a instituição do Contrato de Trabalho Verde e Amarelo, e a alteração da legislação trabalhista brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e01f926f4555aeb21b502a823e17731e245b5b87450755d626da141de8bd885f
+size 491

@@ -1,1 +1,3 @@
-Razões das dificuldades da Esquerda de atuação em defesa do Governo Luiz Inácio Lula da Silva. Tentativa do Governo Federal de compra de Parlamentares para retirada de assinaturas ao requerimento de criação da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d65027f157f46ec2b643a5f6755db9aefc789941d3e516250dea3a9acdda6724
+size 328

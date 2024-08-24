@@ -1,1 +1,3 @@
-Transcurso do 20º aniversário do movimento paredista dos petroleiros em defesa da não privatização da PETROBRAS. Congratulação aos trabalhadores participantes da paralisação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aec4974e072c90f4c81f54a785519fabaaa8327f306d61badffa3f87d71b1844
+size 183

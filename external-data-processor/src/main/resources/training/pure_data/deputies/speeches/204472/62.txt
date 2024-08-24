@@ -1,1 +1,3 @@
-Celebração de convênio entre o Governo Federal e os Governos dos Estados de Mato e Grosso e Goiás para recuperação ambiental da Bacia do Rio Araguaia. Apresentação de projeto sobre a doação, pelo Governo brasileiro, de sementes a governos estrangeiros para reflorestamento de seus respectivos países.
+version https://git-lfs.github.com/spec/v1
+oid sha256:410827fd7de6c64c749928de2558bb2550905d10566227950cc6baddcdf19c8c
+size 311

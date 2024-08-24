@@ -1,1 +1,3 @@
-Participação do orador em reunião no Ministério da Saúde e na Empresa Brasileira de Serviços Hospitalares -  EBSERH, para debate do aumento do teto de recursos do Hospital Universitário da Universidade Federal do Piauí - HU-UPFI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0f4264870458ea35af19b3fb415a891bee073d4c27e8501db348c7c58c07f82
+size 237

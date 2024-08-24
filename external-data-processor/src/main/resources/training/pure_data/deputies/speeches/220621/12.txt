@@ -1,1 +1,3 @@
-Assassinato do Prefeito Joseilson Borges da Costa, conhecido como Neném Borges, do Município de São José do Campestre, Estado do Rio Grande do Norte. Descaso do Governo Estadual com a segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92c6c875e2f235210a06aaedb3ddc69409c53e1de35046b73915646c5d746bac
+size 208

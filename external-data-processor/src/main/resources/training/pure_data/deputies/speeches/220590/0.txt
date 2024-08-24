@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado acriano pela assunção do mandato parlamentar. Compromisso de atuação em defesa das demandas das Prefeituras Municipais, da área de segurança pública e do Estado do Acre. Importância de fiscalização e controle das fronteiras brasileiras. Discussão das reformas administrativa e tributária e do papel do Estado brasileiro na economia. Importância do combate à fome e às drogas no País. Reequilíbrio dos Poderes da República. Intrafegabilidade da BR-364 no Estado do Acre. Captação de recursos orçamentários para o desenvolvimento socioeconômico acriano
+version https://git-lfs.github.com/spec/v1
+oid sha256:204b7d1a6e28471faa47e7c5a01a110e56e9918925205d825d89a5925c399633
+size 601

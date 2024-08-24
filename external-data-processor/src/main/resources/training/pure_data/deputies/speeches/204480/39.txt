@@ -1,1 +1,3 @@
-Inexistência de plano de gestão pelo Governo Jair Bolsonaro. Anúncio da realização de greve geral pelos trabalhadores brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f973f63fd345d558259836a029a191d25c74e6849a7bded33e64c43f11418b81
+size 135

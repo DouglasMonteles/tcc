@@ -1,1 +1,3 @@
-Participação em audiência pública da Comissão Externa criada pela Câmara dos Deputados para acompanhamento e monitoramento de obras públicas inacabadas no País. Crise financeira de pequenas e médias empresas construtoras provocada pela suspensão do repasse de recursos federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:986e8736502ced3dae3d6d7565171b61b499c0ec6f144aaee4fb8ec4e6535aa3
+size 288

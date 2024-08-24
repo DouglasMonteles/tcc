@@ -1,1 +1,3 @@
-Solidariedade ao povo amazonense, diante do colapso do sistema de saúde decorrente do coronavírus. Orientação  de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 20, apresentada ao Projeto de Lei nº 1.079, de 2020, sobre a suspensão das obrigações de beneficiários do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade pública
+version https://git-lfs.github.com/spec/v1
+oid sha256:592bb7fdea8851f4f8f898387ad20865e85c96ad071ebd8c780546d9a71cefa1
+size 398

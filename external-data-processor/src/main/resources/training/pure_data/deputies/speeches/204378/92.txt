@@ -1,1 +1,3 @@
-Saudações aos visitantes presentes nas galerias do plenário. Atuação do orador em prol do Estado de Rondônia, na condição de membro da Comissão Especial destinada à apreciação do Projeto de Lei nº 3.261, de 2019, sobre a atualização do marco legal do setor de saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d63e6bb6cf203f4a97b2331c1923dde4c59de6b4ed4d4a7aaca8e64b6d33ea1d
+size 294

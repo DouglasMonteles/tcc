@@ -1,1 +1,3 @@
-Pedido ao Ministério do Planejamento, Desenvolvimento e Gestão de liberação de recursos para combate aos efeitos da seca no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df21a04f803dc9cbd4f9eb9ac38c116d83e956790c31f6ab1f296f6eb070a7e8
+size 145

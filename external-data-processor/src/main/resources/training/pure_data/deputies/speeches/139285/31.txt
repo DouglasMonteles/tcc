@@ -1,1 +1,3 @@
-Presença do Governador do Estado da Bahia, Jaques Wagner, no 15º Workshop da CVC Turismo, realizado em São Paulo, Estado de São Paulo. Inclusão do carnaval do Município de Maragogipe no patrimônio imaterial da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceb8b0fe94bca5429dfbc59b595f181bbbfb73d358dd24f15c47862dc70122eb
+size 223

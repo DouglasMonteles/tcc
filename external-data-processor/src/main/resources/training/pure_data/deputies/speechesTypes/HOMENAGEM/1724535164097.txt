@@ -1,1 +1,3 @@
-O Deputado discursou na sessão solene em homenagem aos profissionais de educação física e aos 25 anos do Conselho Federal de Educação Física — CONFEF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f073707be9b032dd4c85e490705709b1ea57672c81ded3b1775549d63653553d
+size 159

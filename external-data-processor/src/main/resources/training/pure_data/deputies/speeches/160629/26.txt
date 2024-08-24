@@ -1,1 +1,3 @@
-Realização da Festa de São João no Município de Campina Grande, Estado da Paraíba. Sucesso do Forró Fest realizado no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc12a8ac977d6e229b9672bd9d820969b2ecdc2105ac04eff825e4158852d21b
+size 132

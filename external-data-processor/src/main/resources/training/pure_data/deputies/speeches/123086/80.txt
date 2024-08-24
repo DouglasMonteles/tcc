@@ -1,1 +1,3 @@
-Apresentação de requerimento de audiência pública na Comissão de Educação da Casa para tratar de expansão do ensino a distância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:229048e41942d36ef410e0552343a44f004e616c564fed0b29338ce6d89b1ca0
+size 137

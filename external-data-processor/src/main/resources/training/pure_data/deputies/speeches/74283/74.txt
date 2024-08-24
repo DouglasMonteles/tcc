@@ -1,1 +1,3 @@
-Comissão Geral para debate do tema Jornada de Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:742472dbc6abb78d380e4ee45dd41d51a617e8935fdc2f9279ecc429f636df03
+size 56

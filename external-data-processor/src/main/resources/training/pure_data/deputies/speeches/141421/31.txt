@@ -1,1 +1,3 @@
-Apoio à Proposta de Emenda à Constituição nº 300, de 2009, concessiva de isonomia salarial aos policiais militares. Desempenho da CPI destinada à investigação de reajustes de tarifas de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:267fba5516615f64765eb418621522b0a7d428954dc0cba67f011f9a4234c512
+size 212

@@ -1,1 +1,3 @@
-Manutenção do pedido de pedido de retirada de pauta dos  itens  1 e 2 , Projeto de Decreto Legislativo 1.351 de 2008 e Projeto de Decreto Legislativo 2.841 de 2010.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76a227d2f5c520608db18ff91028931f411084d742fbeb2e4deecffe76deb65c
+size 166

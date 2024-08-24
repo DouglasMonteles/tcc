@@ -1,1 +1,3 @@
-Presença do Ministro do Trabalho e Emprego, Luiz Marinho, no Estado do Espírito Santo para assinatura do protocolo de intenções de boas práticas trabalhistas na cafeicultura. Inclusão de trabalhadores rurais no Programa Bolsa Família, após a safra cafeeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fe21e0a8d21918a8e68ef5818b09a1cf2242a2fc1088e6a7b80fead19bd2637
+size 265

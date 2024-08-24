@@ -1,1 +1,3 @@
-Apoio à eleição do advogado Edvaldo Nilo de Almeida para o Conselho Nacional do Ministério Público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6ae995dcf95ca402cfb8d761ac4f78203ffce09cb679d388288c7ca165333e7
+size 104

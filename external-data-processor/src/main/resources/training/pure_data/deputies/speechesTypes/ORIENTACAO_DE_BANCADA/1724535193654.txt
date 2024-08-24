@@ -1,1 +1,3 @@
-Orientação de bancada na votação do dispositivo 6 do Veto Parcial nº 44, de 2021, aposto ao Projeto de Lei do Congresso Nacional nº 3, de 2021, sobre as diretrizes de elaboração e execução da Lei Orçamentária de 2022. (recomposição orçamentária do Fundo Especial de Financiamento de Campanha).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4714f2c565bc43e8d2b22fbcf7adfc7edac733d4e5d3ca508bfb2b19f4d1549c
+size 309

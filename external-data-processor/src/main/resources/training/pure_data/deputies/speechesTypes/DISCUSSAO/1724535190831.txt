@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 1.161, de 2020, sobre a suspensão de obrigações e a concessão de auxílio financeiro emergencial aos Estados, ao Distrito Federal e aos Municípios, para reforço dos respectivos fundos de participação diante dos efeitos financeiros provocados pela pandemia de coronavírus. Repúdio ao estímulo do Presidente Jair Bolsonaro ao fim do isolamento social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a4fd318ec9c98491e3690ebcda8a9a8c7bdddba6cfb9ebcd70170a543e1f1b9
+size 393

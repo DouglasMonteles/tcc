@@ -1,1 +1,3 @@
-Orientação de bancada na votação de requerimento de destaque para votação em separado, com vistas à supressão, do art. 60-A do projeto de lei de conversão apresentado à Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental. Anúncio da realização de manifestações de rua no País em defesa da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bb13572da9e9b47e6595216f1bd72b937ff1639f681d4ea6727a1b4c6ef7133
+size 382

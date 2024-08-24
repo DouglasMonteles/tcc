@@ -1,1 +1,3 @@
-O Deputado ressaltou a visita a Brasília dos vereadores da cidade de Bom Jesus do Norte. O Parlamentar relembrou sua colaboração enquanto Secretário de Economia e Planejamento, em que atuou junto com os vereadores para alocar recursos na pavimentação de ruas na cidade. Os vereadores, incluindo Tiquinho, Presidente da Câmara, Charles Diniz, Rodrigo Sobral, Zelau e Izaías, têm sido ativos na busca de melhorias para Bom Jesus. Gilson Daniel reiterou seu comprometimento, destacando que o município pode contar com seu mandato para seguir avançando em políticas públicas e melhorar a qualidade de vida de seus habitantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dfe7c1ac33398ef5d963d3b9ee47bb36dd74ab8999d9cdfd4a50755044b9b60
+size 634

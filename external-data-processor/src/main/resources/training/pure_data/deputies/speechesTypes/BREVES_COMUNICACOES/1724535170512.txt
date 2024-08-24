@@ -1,1 +1,3 @@
-Transcurso do Dia do Assistente Social. Aprovação, na Comissão de Seguridade Social e Família, de projeto de lei sobre o fortalecimento dos fundos nacional, estaduais e municipais em prol dos idosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c0222c579a2be16f3756e396b7ffdb4821d68f85fc19b8457db19ce150f69c4
+size 203

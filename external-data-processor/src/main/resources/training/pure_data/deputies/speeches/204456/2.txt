@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 795 de 2020, sobre a suspensão de pagamentos das participações financeiras mensais das famílias beneficiárias do Programa Minha Casa, Minha Vida - Faixa 1, em face da emergência de saúde pública decorrente da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55ae2e2db4d8209ba115a075244520955b1983cb762630832bc2fb62852d8ead
+size 268

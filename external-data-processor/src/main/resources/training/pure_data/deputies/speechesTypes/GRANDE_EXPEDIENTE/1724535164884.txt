@@ -1,1 +1,3 @@
-Palestra proferida pelo ex-Presidente dos Estados Unidos da América, Bill Clinton, durante debate promovido pela Fundação Edson Queiroz, na Universidade de Fortaleza - UNIFOR. Panorama socioeconômico do Brasil e da Região Nordeste. Desafios impostos à industrialização nordestina. Papel das universidades no combate às desigualdades regionais. Acerto da política econômica do Governo Dilma Rousseff. Aplausos ao Governador Cid Gomes pela construção de escolas profissionalizantes. Fortalecimento de instituições nordestinas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47d99c6ab0aedeaa8636ac076708b3f9bdc22fbe1e7a25ae68022f91c87e2e7f
+size 539

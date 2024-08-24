@@ -1,1 +1,3 @@
-Instalação de delegacias rurais nos Municípios de Passos, Alfenas, Guaxupé e Poços de Caldas, no Estado de Minas Gerais. Sucesso da Operação Trattore, da Polícia Civil de Passos, destinada à desarticulação de quadrilha de roubo de máquinas e suplementos agrícolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a422c3f626a448404ae07f2dff61a10e36420523392d3fac98a2600007493cc
+size 277

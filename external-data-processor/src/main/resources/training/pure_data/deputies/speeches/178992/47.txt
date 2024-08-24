@@ -1,1 +1,3 @@
-Apoio à Medida Provisória nº 843, de 2018, sobre o estabelecimento de requisitos obrigatórios para a comercialização de veículos no Brasil, instituição do Programa Rota 2030 - Mobilidade e Logística e sobre o regime tributário de autopeças não produzidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c013ae1e19a24126713c2d9f5ea9b62feac8ad342cc65ad558735631f8e94d4
+size 268

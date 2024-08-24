@@ -1,1 +1,3 @@
-Realização de acordo com a Liderança do Governo para votação do mérito do item V da pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a741ee90ce6a8095ff254a4e015d3841ab7db1fe10ce7e15bc469a0898b0b598
+size 96

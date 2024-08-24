@@ -1,1 +1,3 @@
-Dificuldades financeiras enfrentadas pela população brasileira. Retirada de direitos dos trabalhadores pela Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma da Previdência Social. Repúdio à atuação do Presidente da República. Apresentação, pelo PT, do Plano Emergencial de Emprego e Renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7311b693aa867a5b1cd9721acb05667955634e44b76cbac9d7195bc3d29ee05a
+size 319

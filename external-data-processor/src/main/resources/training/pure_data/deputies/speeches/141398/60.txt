@@ -1,1 +1,3 @@
-Solicitação aos Deputados do PT de comparecimento ao plenário para votação das matérias constantes na pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67b0c42ef574e1520796a2c4d832bca320e33effb1ca85da9070c2bac4b75c65
+size 114

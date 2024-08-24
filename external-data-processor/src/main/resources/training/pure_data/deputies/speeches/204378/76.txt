@@ -1,1 +1,3 @@
-Realização, pela Comissão de Minas e Energia, de audiência pública para debate da exploração, comércio e exportação do nióbio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c0e9e212799551d75d0412b92f80538cf45e8b5e25f4dd8f4957a6a85b027d5
+size 137

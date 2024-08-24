@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Deputado Márcio Correa. Elogio à Deputada Érika Kokay pela participação em audiência na Comissão de Defesa dos Direitos da Mulher. Aprovação, pelo órgão, do Projeto de Lei nº 1.568, de 2019, sobre a alteração do Decreto-Lei nº 2.848, de 1940, (Código Penal), e da Lei nº 8.072, de 1990, (Lei dos Crimes Hediondos), com vista ao agravamento da pena imposta ao crime de feminicídio. Participação em debate de normas de enfrentamento à violência contra a mulher, promovido pelo Instituto Nós por Elas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9916ee52a441030cc2e474aa567bf5318be0ef6e8f410211f522a78cfe50ea41
+size 554

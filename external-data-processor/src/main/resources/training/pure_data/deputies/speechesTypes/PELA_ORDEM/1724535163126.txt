@@ -1,1 +1,3 @@
-O Deputado defendeu a manutenção do Veto nº 46 ao Projeto de Lei nº 2.462, de 1991, que acrescenta o Título XII na Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), relativo aos crimes contra o Estado Democrático de Direito; e revoga a Lei nº 7.170, de 14 de dezembro de 1983 (Lei de Segurança Nacional), e dispositivo do Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais). Destacou que o veto é essencial para garantir a liberdade de expressão e proteger a atividade policial militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73a2ab5c31de038e1b2eb07ad107a5c96962c9729fe2df2e014590c2846e0d79
+size 557

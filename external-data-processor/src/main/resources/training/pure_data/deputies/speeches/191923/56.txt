@@ -1,1 +1,3 @@
-Anúncio da apresentação de projeto de lei sobre a obrigatoriedade de inserção, em publicidades de venda de veículos automotores, de texto visível ou gravação sonora sobre os limites de velocidade vigentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d242a260997fb802dc1c6688fa10c546dd6dbee2a2e79e687a37849498d3ebe8
+size 214

@@ -1,1 +1,3 @@
-Apoio à instalação de CPMI para investigação de irregularidades na utilização dos cartões corporativos do Governo Federal. Apresentação, pelo PSOL, de requerimentos de informações a respeito do assunto. Apoio ao requerimento apresentado pelo Deputado Ivan Valente para a instalação de CPI destinada à investigação das grandes corporações financeiras transnacionais instaladas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f5beebe64af9b9c1ced25b796c6311bce887833facc831b4ba5b260c9a36bf3
+size 404

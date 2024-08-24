@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 3.688, de 2000, sobre a inclusão de Assistência Social no quadro dos profissionais da educação em cada escola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4faa030a8b731aeee12b4c2beb5467c272f53e9f8c37c5b7aa91ec58335dfa7
+size 158

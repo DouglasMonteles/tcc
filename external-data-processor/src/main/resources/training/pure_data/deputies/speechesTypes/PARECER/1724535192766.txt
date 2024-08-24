@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Trabalho, de Administração e Serviço Público,  à Emenda Substitutiva Global de Plenário ao Projeto de Lei 3.491 de 1993 (Dispõe sobre o exercício da profissão de oceanógrafo e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b320507d803c832f24d36835ac1c230a286b6101c83403b281fd68d8aa395252
+size 239

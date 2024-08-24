@@ -1,1 +1,3 @@
-Irrelevância para o País da apreciação, pela Casa, de matéria sobre a concessão de segurança federal à blogueira cubana Yoani Sánchez.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b05bf42e81272de0f70623750e82b30b159b2241a71090715cdad42d99b4c09
+size 143

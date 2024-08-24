@@ -1,1 +1,3 @@
-Congratulações à Polícia Civil do Distrito Federal pela elucidação do assassinato de ex-Ministro do Tribunal Superior Eleitoral. Conveniência de rejeição da proposta de emenda à Constituição sobre a destinação aos Municípios do Estado de Goiás situados na região do Entorno de Brasília de parte de recursos do Fundo de Organização e Manutenção das Polícias Civil e Militar e do Corpo de Bombeiros Militar do Distrito Federal. Apoio à Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be8592d9c07ece5de6b94b364e616c12d4055bf6ac2054cc89c3212f10ffd350
+size 592

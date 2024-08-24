@@ -1,1 +1,3 @@
-Precariedade das estradas no Estado do Tocantins. Solicitação de providências aos Federal  e Estadual com vista à recuperação de rodovias, especialmente na região sudeste e na área conhecida como Bico do Papagaio, danificadas no recente período de intensas chuvas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b80f122074adbf7b7bcbb2455efb44ef1c4eb24a8f0527ec3c9c21dbf70fe31
+size 273

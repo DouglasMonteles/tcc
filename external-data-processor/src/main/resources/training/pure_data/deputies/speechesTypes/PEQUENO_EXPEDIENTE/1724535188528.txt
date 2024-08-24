@@ -1,1 +1,3 @@
-Excelência da atuação do Ministro da Defesa, Nelson Jobim. Apoio à sua permanência à frente da Pasta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2ebfc21453bd992a231d6de46a61f77920a84e56c405977eb7460ef883146d2
+size 107

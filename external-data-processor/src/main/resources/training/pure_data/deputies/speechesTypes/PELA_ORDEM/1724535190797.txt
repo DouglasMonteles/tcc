@@ -1,1 +1,3 @@
-Repúdio à proposta de reforma previdenciária defendida pelo Ministro da Economia, Paulo Guedes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d4d1a6b95661cab9e2dbac06a1a292e13bfcc36ccf327e0b6a93482368607ca
+size 98

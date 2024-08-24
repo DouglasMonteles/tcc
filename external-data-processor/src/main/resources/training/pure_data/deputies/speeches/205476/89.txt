@@ -1,1 +1,3 @@
-Concessão de audiência ao orador pelo Presidente da Agência Nacional de Aviação Civil - ANAC, José Ricardo Botelho, para debate da certificação do Aeroporto Regional de Guanambi, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68bfb7a6a3d3ef9fd4e13c44f1c94113625bf7f45402b3b0207b3f352e1426c6
+size 206

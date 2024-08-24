@@ -1,1 +1,3 @@
-Repúdio ao impasse do Governo Federal para a votação de proposições destinadas ao enfrentamento da violência contra a mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ffd788640f652c07732fee238cbded05c1b21e29131c8772ce1b216a1bcf48f
+size 131

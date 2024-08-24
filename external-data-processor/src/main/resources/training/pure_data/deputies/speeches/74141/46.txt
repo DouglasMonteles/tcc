@@ -1,1 +1,3 @@
-Anúncio, pela Presidenta Dilma Rousseff, por ocasião de sua visita ao Estado de Pernambuco, de inclusão, no Programa de Aceleração do Crescimento - PAC, das obras do Arco Metropolitano de Recife e de duplicação da BR-423, de ligação entre os Municípios de São Caetano e Garanhuns. Entrega, pela Presidenta da República, de retroescavadeiras, motoniveladoras e caminhões-caçamba a Prefeituras Municipais com mais de 50 mil habitantes situadas no Semiárido, e inauguração do primeiro trecho do Sistema Adutor do Pajeú, no Município de Serra Talhada. Crescimento socioeconômico do País. Convocação, pela Presidenta Dilma Rousseff, de Governadores para discussão de propostas de mitigação das consequências da seca na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c52ef6e2e13e6141e387a26e6965faf78af92289a0a3939f540f11d92578757
+size 758

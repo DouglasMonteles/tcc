@@ -1,1 +1,3 @@
-Preocupação com a fusão de empresas no Brasil e com o decorrente monopólio de setores econômicos. Pedido ao Conselho Administrativo de Defesa Econômica - CADE de acompanhamento do processo de fusão das empresas de insumos agrícolas Syngenta Seeds Ltda. e Monsanto do Brasil Ltda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ca025c9596f5c4f67dbd35eb78d26fa9494ba03936e5268ac42e675864d246f
+size 287

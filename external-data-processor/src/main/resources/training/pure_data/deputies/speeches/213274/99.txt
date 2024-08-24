@@ -1,1 +1,3 @@
-Comemoração do 136º aniversário de emancipação político-administrativa do Município de Taiaçu, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26fc1578b3f2a9d729aa6320f8e0d5d1a0133112556f26a2ee091a1bb9b869a4
+size 125

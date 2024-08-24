@@ -1,1 +1,3 @@
-Homenagem ao indígena Marçal de Souza, o Marçal Guarani, ao ensejo do transcurso dos 25 anos do seu falecimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12274f5ef7272a4ccac66babf2b7e0d0df05fe760748602b20d54e5435c3d6fe
+size 115

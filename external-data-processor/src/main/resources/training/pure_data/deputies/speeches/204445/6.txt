@@ -1,1 +1,3 @@
-Existência no País de elevado número de órfãos do regime autoritário. Defesa de ampliação do leque de discussão da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:051190008dbf87c09328f8306e29fe7f12c47cb444c00641b64bca5ddc7a8318
+size 144

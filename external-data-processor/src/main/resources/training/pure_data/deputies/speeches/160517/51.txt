@@ -1,1 +1,3 @@
-Lançamento pelo Governador do Estado do Espírito Santo, Renato Casagrande, de programa para melhoria na qualidade de vida do homem do campo. Necessidade da intermediação, pelo Governo Federal, no conflito entre a comunidade quilombola e produtores rurais do Município de São Mateus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bb4a2b234c8138ca2907a5357147214e01aec250f92ae2622064f0c6bfac391
+size 288

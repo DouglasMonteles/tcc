@@ -1,1 +1,3 @@
-Protesto contra a votação do Projeto de Lei 4.357 de 2012 (Altera a Lei 10.771 de 2003, na parte que dispõe sobre a criação de Procuradorias da República em Municípios no âmbito do Ministério Público Federal Federal) na presente sessão, em descumprimento a acordo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d56db053dee2686fe131d58dde8a9012c3e706fc51c6474ddb1b2b3fed33000a
+size 275

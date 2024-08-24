@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para supressão do inciso II, art. 167-A, da Carta Magna e, por decorrência, do § 5º do mesmo art., na redação dada pelo art. 1º da Proposta de Emenda à Constituição nº 186, de 2019, a chamada PEC Emergencial, sobre a criação de mecanismos de ajuste fiscal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeb549d9cbd081269873d3d3a83e4063034fb19d37be93c2d6149b37a644ff62
+size 325

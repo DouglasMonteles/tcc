@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27f27a516fb774f0aa0ec37d98b354bdb451a9167dd532240607344b2219a028
+size 195

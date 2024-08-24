@@ -1,1 +1,3 @@
-A Deputada apresentou o projeto de lei que propõe instituir o dia 23 de setembro como o Dia Nacional da Saúde Indígena. A escolha da data é simbólica, marcando a sanção da Lei Arouca em 1999, que criou o Subsistema de Atenção à Saúde Indígena (SasiSUS). O projeto destaca os avanços na saúde indígena desde a criação do SasiSUS, reconhecendo a importância da Secretaria Especial de Saúde Indígena (SESAI) e ressaltando a diversidade étnica e cultural das 305 etnias indígenas no Brasil. A iniciativa visa fortalecer o reconhecimento e a promoção da saúde dessa população.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3592dd7ebe1004b7a2520a89d4777cd70d6cf30107268b7652f75a907786ec9c
+size 598

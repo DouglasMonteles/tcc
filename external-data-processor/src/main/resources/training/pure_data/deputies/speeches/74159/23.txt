@@ -1,1 +1,3 @@
-Encaminhamento, pelo Presidente em exercício dos trabalhos, de indicação ao Poder Executivo para criação de delegacia da Secretaria da Receita Federal do Brasil no Município de Pouso Alegre, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f1d108c606c2a2613daf10870b638c56d410281373d40402efbfed6613a5b5e
+size 220

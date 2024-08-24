@@ -1,1 +1,3 @@
-Relato da viagem do orador a Moçambique, em missão do Programa de Cooperação Triangular para o Desenvolvimento da Agricultura nas Savanas Tropicais em Moçambique - PROSAVANA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d17ee05f887a127d417324b3fd4f59cb5895ff747c2b33e823a61f31c36350c
+size 179

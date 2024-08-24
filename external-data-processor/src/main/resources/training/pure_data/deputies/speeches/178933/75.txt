@@ -1,1 +1,3 @@
-Relato sobre as investigações da CPI dos Fundos de Pensão. Apelo à Presidência para inclusão na pauta do Projeto de Lei Complementar nº 274, de 2016, sobre o Regime de Previdência Complementar. Protocolização do Projeto de Lei nº 8.821, de 2017, de autoria do orador, sobre não incidência de Imposto de Renda no pagamento de adicional acima de 12% previsto em lei para a previdência complementar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:488124b73e6e609cb5a4138a28981135093313c15b66362a41204106190a0c80
+size 410

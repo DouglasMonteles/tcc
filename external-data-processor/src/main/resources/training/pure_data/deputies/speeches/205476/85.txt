@@ -1,1 +1,3 @@
-Falecimento do Sr. Iracy Pereira Santos, Presidente do Rotary Club de Guanambi, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aac90b67962fb1a1b8f4d97161836515e258ece1d4054ae997facf08c4f3b36
+size 99

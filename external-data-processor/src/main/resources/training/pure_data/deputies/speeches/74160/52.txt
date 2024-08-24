@@ -1,1 +1,3 @@
-Solicitação ao Presidente Arthur Lira e aos Deputados de empenho na votação do Projeto de Lei Complementar nº 25, de 2019, sobre a instituição do Sistema Nacional de Educação - SNE, com a fixação de normas para a cooperação entre a União, os Estados, o Distrito Federal e os Municípios nas políticas, programas e ações educacionais, em regime de colaboração, nos termos do inciso V do caput e do parágrafo único do art. 23, do art. 211 e do art. 214 da Constituição Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07a569b2dc0325d2afc20058fe057508d0f4f4b393c87b8bdcf4ad00563cf99e
+size 498

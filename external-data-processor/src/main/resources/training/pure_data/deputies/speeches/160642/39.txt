@@ -1,1 +1,3 @@
-Adoção de programas e campanhas de educação no trânsito para a redução do elevado número de óbitos e lesões provocadas por acidentes envolvendo motocicletas no País. Elevados gastos dos cofres públicos com as vítimas de acidentes com motos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e9063e48a0bb6c68ed88b58d30573bc09323c832bc59d7a6fd7b5cd985bd6cf
+size 253

@@ -1,1 +1,3 @@
-Solicitação ao Ministério da Justiça, pelo Prefeito Edinaldo Martins dos Santos, do Município de Itaju do Colônia, Estado da Bahia, de incorporação de parte de área indígena à municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ddb7168d5e41f3bd552471a67067ee11b68d2c2a08135d8e3d4516a2a27ef9f
+size 202

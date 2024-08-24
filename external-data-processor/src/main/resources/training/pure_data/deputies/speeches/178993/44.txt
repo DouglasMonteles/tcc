@@ -1,1 +1,3 @@
-Convite aos Deputados para participação em audiência pública na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural destinada ao debate sobre a implementação de políticas para o desenvolvimento econômico da Região do MATOPIBA, referente aos Estados do Maranhão, Tocantins, Piauí e Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2b39d069d05af20c2d03c1eea62321a89c574fecefe693bb572567db969a8c0
+size 321

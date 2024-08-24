@@ -1,1 +1,3 @@
-Falecimento do jornalista Paulo Henrique Amorim e do sociólogo Francisco de Oliveira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60243746978a697c97d797d7587a5bd46ee6004e5bb4f75290804de91c6ed0eb
+size 86

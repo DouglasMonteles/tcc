@@ -1,1 +1,3 @@
-Saudações aos Prefeitos do Estado do Pará, participantes na Marcha a Brasília em Defesa dos Municípios. Criação de CPMI destinada à investigação da violência contra a mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61ad94883727e807d95996602700df4d96831807b4d699cb3523fbb5e44a6bdf
+size 185

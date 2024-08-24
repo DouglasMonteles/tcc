@@ -1,1 +1,3 @@
-Saudação à 1ª Vice-Presidente da Casa, Deputada Rose de Freitas, e aos demais membros da Mesa Diretora. Expectativa de realização das reformas política e tributária. Apresentação de projeto de lei acerca da realização de referendo popular sobre o reajuste dos subsídios do Presidente da República e dos membros do Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f98fc5345e2d92b795effdd92e901bfef3c405006c34f8b98095a81fb239b33
+size 347

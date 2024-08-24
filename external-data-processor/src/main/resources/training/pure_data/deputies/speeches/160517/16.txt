@@ -1,1 +1,3 @@
-Lançamento, pelo Governo do Estado do Espírito Santo, do Programa Capixaba de Combate à Pobreza, o chamado Programa Incluir. Implantação do Programa Banda Larga nas Escolas, no Estado. Criação de programa de telefonia móvel rural pelo Governo Estadual em parceria com a operadora Oi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37e5c716f7f73c6893932f7cc6d35f93518bce9b92c015c22a49e9aa7a2b0b91
+size 291

@@ -1,1 +1,3 @@
-Realização pela Casa de sessão solene, por ocasião do transcurso do Dia Nacional de Mobilização em Defesa dos Atingidos por Barragens. Indignação com a impunidade dos responsáveis pelas tragédias ocorridas nos Municípios de Brumadinho e Mariana, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9979dae20513135db61a0cbe8d4599c06b82d60539407aad3355eaf04f616967
+size 280

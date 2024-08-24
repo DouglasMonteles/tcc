@@ -1,1 +1,3 @@
-Congratulações à Deputada Caroline de Toni e ao Senador Jorginho de Mello, respectivamente, relatora e autor do Projeto de Lei Complementar nº 147, de 2019, sobre a alteração da Lei Complementar n° 123, de 2006, (Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte), para modificação da composição e do funcionamento do Comitê Gestor do Simples Nacional, e ampliação do âmbito de aplicação do seu regime tributário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0eb16bd1a09deb2a4a3574baaf31c719f6e5546ce0e5e44c9063641e38e51cb
+size 445

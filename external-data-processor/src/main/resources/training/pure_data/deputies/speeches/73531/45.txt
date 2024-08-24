@@ -1,1 +1,3 @@
-Solicitação ao Tribunal de Contas do Estado de São Paulo de fornecimento de documentação comprobatória do envolvimento da empresa Alstom do Brasil em irregularidades. Encaminhamento de requerimento de informações ao Ministério da Justiça sobre investigações realizadas pela Polícia Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be95640285c89c0dc744ea1f9a824412388653f0d01a1165a4efc1a47ceed26a
+size 303

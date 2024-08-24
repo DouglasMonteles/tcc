@@ -1,1 +1,3 @@
-Acerto da indicação do Sr. Fernando Haddad para Ministro da Economia. Preocupação do futuro Presidente do País com as classes menos favorecidas. Defesa de recomposição da peça orçamentária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4de530e2ef30e6a6ec30d485d95ab71bc7acc81f309dc3fffb0a9c6dbe6c9ef6
+size 199

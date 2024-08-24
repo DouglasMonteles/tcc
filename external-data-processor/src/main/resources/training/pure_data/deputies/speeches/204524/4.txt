@@ -1,1 +1,3 @@
-Conclamação aos Deputados para votação e aprovação dos projetos de lei apresentados pela Comissão Externa destinada ao exame das causas e responsabilidades pelo desastre socioambiental ocorrido no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a57e2488516d212a8a5eefc796cf64c2e50ff5631ab0932970714ed2604e68b0
+size 253

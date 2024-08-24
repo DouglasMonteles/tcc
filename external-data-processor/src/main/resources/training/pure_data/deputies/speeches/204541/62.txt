@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência da Mensagem 369, de 2019, do Poder Executivo, a respeito da submissão ao Congresso Nacional do Texto do Sexagésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica nº 35, (ACE-35), e sua incorporação ao Acordo de Livre Comércio (ALC) entre o Brasil e o Chile, assinado em Santiago, em 21 de novembro de 2018.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8cbe27daafe21c354fc16666d8690842de903442bda0097e2886dd16b7b8554
+size 425

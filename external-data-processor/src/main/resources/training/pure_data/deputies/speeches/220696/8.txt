@@ -1,1 +1,3 @@
-Realização pela Câmara Municipal de Camaçari, Estado da Bahia, de audiência pública para debate da revisão do Plano Diretor de Desenvolvimento Urbano - PDDU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a09525f933a9a58ea1cbbf13f0b731dac17430dce081f8687816eec21882055
+size 164

@@ -1,1 +1,3 @@
-O Deputado emitiu parecer ao Projeto de Lei nº 1.949, de 2007, que institui a Lei Geral da Polícia Civil e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98e7ba7ba54af5f991d125acaa8a1480ce8ddac07f267b4c168f20244a2bfb6e
+size 134

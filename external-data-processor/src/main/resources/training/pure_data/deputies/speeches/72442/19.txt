@@ -1,1 +1,3 @@
-Indignação do orador com punições do PSB a Deputados da bancada, em razão de voto favorável à reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0023f9c5672c75b9d345d2bab5b2d9a644d208dc5f03cbfc1885eaca11c24ea
+size 132

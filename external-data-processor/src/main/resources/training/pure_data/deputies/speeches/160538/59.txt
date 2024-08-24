@@ -1,1 +1,3 @@
-Renegociação de dívidas de agricultores familiares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91e51153824a2231a8231306bf3a6bb4b9be20d68013e54d9a5274ebf6b5999b
+size 54

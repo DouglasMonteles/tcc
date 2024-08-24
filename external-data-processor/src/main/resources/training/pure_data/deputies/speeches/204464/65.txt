@@ -1,1 +1,3 @@
-Solidariedade aos trabalhadores grevistas da empresa Petróleo Brasileiro S/A - PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7795761b91e94978313879c2513da17ee5dcf20e4e6994fa620b12b8c649cb9f
+size 90

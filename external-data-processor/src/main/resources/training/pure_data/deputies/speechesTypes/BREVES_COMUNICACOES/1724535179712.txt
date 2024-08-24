@@ -1,1 +1,3 @@
-Apoio à intervenção federal no Estado do Rio de Janeiro. Necessidade de maior presença das Forças Armadas na fronteira entre o Estado de Rondônia e a Bolívia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:113d6dfa2e2b1a52f90426f6139e9dafe8a94d79e34379a9f4979aa471d16cbe
+size 165

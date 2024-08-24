@@ -1,1 +1,3 @@
-Presença nas galerias do plenário de alunos do Colégio La Salle, da Cidade-Satélite de Águas Claras, no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47dd667c9f2260221038e24df250ecefbd4ee49210249c60b04eab64ac254f89
+size 126

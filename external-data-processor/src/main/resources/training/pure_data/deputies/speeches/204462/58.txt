@@ -1,1 +1,3 @@
-Apelo a Relatores por imediata publicação de pareceres oferecidos a proposições constantes na pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36ed049909a8c500b4d4354d3dbed63869e71646ed505a292f72ab149aa28aae
+size 104

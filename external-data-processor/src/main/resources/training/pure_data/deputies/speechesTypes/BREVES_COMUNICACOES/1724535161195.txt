@@ -1,1 +1,3 @@
-Inconsistência do discurso proferido por Deputada petista a respeito de manifestação do Governador do Estado de Minas Gerais, Romeu Zema, contra o povo nordestino. Incoerência e contradições do Presidente Luiz Inácio Lula da Silva. Repúdio à Resolução nº 715, de 2023, do Conselho Nacional de Saúde, na parte concernente à transição de gênero, à legalização do aborto e das drogas. Descumprimento, pelo Presidente da República, de promessa da campanha eleitoral pactuada com os evangélicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d98b8b096aa91dfef8a8e97b9038e3b5d0b6eb66858cafd1083daf296495983f
+size 512

@@ -1,1 +1,3 @@
-O Deputado expressou sua insatisfação com a pauta e o pouco tempo para entender e debater os projetos. Em seguida, manifestou sua preocupação com o episódio ocorrido no Plenário, onde o Deputado Messias Donato foi agredido fisicamente. Questionou como a Presidência da Casa iria lidar com essa situação, enfatizando que, se não houvesse uma resposta adequada, isso poderia abrir um precedente para futuras agressões no Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:402383db16a6c773d2e490558a6df2e08b2d5e2e043c532caee020cd9e6c1f0d
+size 440

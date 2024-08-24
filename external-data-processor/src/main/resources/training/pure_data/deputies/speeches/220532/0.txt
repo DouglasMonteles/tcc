@@ -1,1 +1,3 @@
-Encaminhamento à União pela Governadora em exercício do Distrito Federal, Celina Leão, de proposta de reajuste salarial dos profissionais da área de segurança pública. Apelo ao Supremo Tribunal Federal de reexame da decisão de afastamento do Governador Ibaneis Rocha do cargo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa802c961f945dd46e5ca8fcfa4a7e1adec0564a75db6be8ce8b790be413b09
+size 284

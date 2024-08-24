@@ -1,1 +1,3 @@
-Transcurso do 19º aniversário de emancipação político-administrativa do Município de Rio Bonito do Iguaçu, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9df935ecb55c35f6585e27448ca8c9db4c2a7d4d7cd9867026fff34d5d213ad
+size 132

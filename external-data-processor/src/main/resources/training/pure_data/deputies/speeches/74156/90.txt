@@ -1,1 +1,3 @@
-Transcurso do 73º aniversário do Município de Governador Valadares, Estado de Minas Gerais. Potencialidades naturais da municipalidade. Desenvolvimento industrial e econômico de Governador Valadares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08a0d42921d4ca149ad2d0fbc2ded2a18330829fe835b9a09c6c2e7fe9557fbf
+size 203

@@ -1,1 +1,3 @@
-Atuação democrática da Oposição no Congresso Nacional. Consolidação da democracia brasileira. Desempenho do Senador oposicionista Álvaro Dias. Inadmissibilidade de recriação da Contribuição Provisória sobre Movimentação Financeira -CPMF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9c4b28fa228a2757caae4ab7a83090f743f28dee72543e8055c593f6f5b2a52
+size 252

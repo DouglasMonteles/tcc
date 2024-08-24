@@ -1,1 +1,3 @@
-Expectativas do orador quanto ao desempenho no mandato parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7b81d0456275be92ea131cc0f0bbef9c345c2821b7abb9ea3d96f99ac634e32
+size 67

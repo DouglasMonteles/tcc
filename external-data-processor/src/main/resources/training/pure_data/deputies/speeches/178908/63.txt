@@ -1,1 +1,3 @@
-Críticas a declarações de Deputado sobre o uso de drogas ilícitas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5258789f315f33d5fb1f452500056a1be7784082b76a04a75a9b2d1168b2ee2a
+size 70

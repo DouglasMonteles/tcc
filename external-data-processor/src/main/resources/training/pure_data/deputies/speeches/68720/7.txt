@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Turismo, de requerimento de convocação de diretores da Agência Nacional da Aviação Civil - ANAC, para esclarecimento das razões dos elevados preços de passagens aéreas praticados no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6807f10c84eb597fe0ea3a71eeaef2702cc39cb9503fbc36048486cf62ce8046
+size 227

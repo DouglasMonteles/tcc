@@ -1,1 +1,3 @@
-Carências e necessidades da região da Baixada Fluminense, no Rio de Janeiro, Estado do Rio de Janeiro. Importância da política como instrumento de transformação social. Trajetória profissional e política do orador. Legado deixado pelo Parlamentar no exercício do mandato de Deputado Estadual e no cargo de Secretário de Estado de Infraestrutura e Obras do Rio de Janeiro
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e70e9bfb59de24af699911944694a09bea4c0ea34c5bd4233fb2ccb26b9e946
+size 380

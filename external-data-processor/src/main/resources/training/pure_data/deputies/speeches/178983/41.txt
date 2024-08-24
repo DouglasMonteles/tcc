@@ -1,1 +1,3 @@
-Concessão, pela Câmara Municipal de Itaquaquecetuba, Estado de São Paulo, do título de Cidadão Itaquaquecetubense ao advogado João Capeloa de Maia Tarento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc7a371f0302dcb3d9962865e2c6900d1fc74da97ad1e4d8a836d3720437f1f1
+size 161

@@ -1,1 +1,3 @@
-Decretação, pelo governo petista, de sigilo da lista de convidados da posse do Presidente Luiz Inácio Lula da Silva e de imagens da invasão e vandalismo das sedes dos Poderes da República. Necessidade de investigação dos fatos pelo Parlamento brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5258f078d24b43396328b8ed13aed11c7320e26f7bddf22a27b0ce3bdd85394c
+size 261

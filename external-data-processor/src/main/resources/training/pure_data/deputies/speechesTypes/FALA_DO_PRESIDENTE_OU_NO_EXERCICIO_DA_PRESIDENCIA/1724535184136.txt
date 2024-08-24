@@ -1,1 +1,3 @@
-Decisão da Presidência sobre a questão de ordem suscitada pelo Deputado Enio Verri a respeito do acolhimento, pelo Relator Aluisio Mendes, de emendas acerca da concessão de indenizações e da transferência, para sindicato, da responsabilidade pelo pagamento salarial de liberados, oferecidas à Medida Provisória nº 918, de 2020, relativa à criação de funções de confiança destinadas à Polícia Federal e à extinção de cargos em comissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dbe171e5e5c4500a8cf3cc21e1d7362e1fc96b3ef966c705efd49aa394c3e50
+size 457

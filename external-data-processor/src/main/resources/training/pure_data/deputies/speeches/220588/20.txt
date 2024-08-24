@@ -1,1 +1,3 @@
-Urgente necessidade de adoção, pelo Ministério dos Transportes e pelo Departamento Nacional de Infraestrutura de Transportes - DNIT, de providências para restauração da BR-364 no Estado do Acre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8265e55ea7c5f16cfa17dd000f8f6f4ef83e9ed31349ac8af8558154a840b219
+size 200

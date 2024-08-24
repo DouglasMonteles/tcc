@@ -1,1 +1,3 @@
-Encaminhamento da votação da PEC 138 de 2003 (Dispõe sobre a proteção dos direitos econômicos, sociais e culturais da juventude), em votação em primeiro turno. Defesa da aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6463d61c86e640610798eee6bf9ec4666ae6b5f04e6937c5b5d2863e7c2ffe29
+size 202

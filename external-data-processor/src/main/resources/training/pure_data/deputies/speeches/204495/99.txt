@@ -1,1 +1,3 @@
-Realização da Conferência das Nações Unidas sobre Mudanças Climáticas - COP 25, em Madri, Espanha. Depredação do meio ambiente pelo Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27ba736a038bc76bf962ee132a16d2113d5a6ac820fdba0e538572abc0e3ac28
+size 167

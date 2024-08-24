@@ -1,1 +1,3 @@
-Instalação da Universidade Federal da Integração Luso-Afro-Brasileira - UNILAB, no Município de Redenção, Estado do Ceará. Apresentação de emenda ao projeto de lei sobre a reserva de vagas nas universidades para estudantes oriundos de escolas públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:844f68842cee8d7823d0a54f5a042c7716a5c6506f7f620465deefb75846fc56
+size 263

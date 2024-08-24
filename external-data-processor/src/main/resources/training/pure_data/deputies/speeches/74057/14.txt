@@ -1,1 +1,3 @@
-Aprovação em caráter terminativo, pela Comissão de Constituição e Justiça e de Cidadania, da proposta de estabelecimento do piso salarial nacional para o magistério. Tramitação na  Casa de medida provisória sobre a criação de planos de cargos e salários de servidores públicos. Situação salarial de militares e auditores fiscais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52af84432a772656c0d29785537182d9a95a1d324ac00a86a9c77c178bc3b068
+size 346

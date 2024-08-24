@@ -1,1 +1,3 @@
-Questão de ordem a respeito da não observância regimental, pela Casa, quanto à exigência de maioria absoluta de votos para eleição, em primeiro turno, de Suplentes da Mesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6164fd64e9a44cf6ae79919e8b8ef10f8e3d7837cc56e23ba033caca131b9a5
+size 179

@@ -1,1 +1,3 @@
-Regularização fundiária de assentamentos rurais no Estado da Bahia. Compromisso do Governo Estadual com a agricultura familiar. Concessão do título de Cidadão Baiano ao Governador Jaques Wagner. Promessa do Governo da Bahia de resolução do passivo ambiental de assentamentos rurais. Resultados positivos da aliança estabelecida entre o Governo Estadual e o Governo Federal. Relevância do Programa Estadual de Adequação e Regularização do Imóveis Rurais. Importância dos investimentos governamentais na produção agrícola. Posse do Sr. Elionaldo de Faro Teles na presidência da Empresa Baiana de Desenvolvimento Agrícola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a25757833ab320136ffda25399b0d4603d743aebe39a9a23c16f0eb5a110d487
+size 640

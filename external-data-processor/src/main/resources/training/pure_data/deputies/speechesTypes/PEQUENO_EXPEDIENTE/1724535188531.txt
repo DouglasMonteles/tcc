@@ -1,1 +1,3 @@
-Êxito da gestão do Presidente do Fundo Nacional de Desenvolvimento da Educação - FNDE, Sílvio Pinheiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b417f4afb1aa7478e35aaf5ce8dd4531f1f2ba0af19dd2d00480cfc9dd3076f1
+size 108

@@ -1,1 +1,3 @@
-Importância do Projeto de Lei Complementar 177 de 2004 (Dispõe sobre o Sistema Nacional de Crédito Cooperativo). Convocação dos Parlamentares do PPS  ao plenário para votação da matéria.  Elogio ao Deputado Zonta pela condução da Frente Parlamentar em Defesa do Cooperativismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7137174f962914d017b020afa453f2618db0c2155caf9d5815d553e5f01269d
+size 288

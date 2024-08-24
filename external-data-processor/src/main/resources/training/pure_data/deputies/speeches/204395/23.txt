@@ -1,1 +1,3 @@
-Existência de amparo regimental para votação em globo dos projetos de lei do Congresso Nacional constantes na pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:110153da4d8927f1cfe51e1b057196de6e26473f9aaff489c9a84bcf40e9792a
+size 119

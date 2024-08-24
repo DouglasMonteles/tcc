@@ -1,1 +1,3 @@
-Iniciativa da Casa de discussão da reforma tributária. Proposta do Poder Executivo de implementação da proposta por temas e por etapas. Resultados do Primeiro Ciclo de Conferências realizado pela Subcomissão Especial da Reforma Tributária, da Comissão de Finanças e Tributação, da Casa. Problemática da guerra fiscal no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97c64167459e4478d354ed335d54c8f135614451a1fa221506015f639b011a3a
+size 338

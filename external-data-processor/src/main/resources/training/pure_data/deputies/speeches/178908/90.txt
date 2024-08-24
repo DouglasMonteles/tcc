@@ -1,1 +1,3 @@
-Contestação a discursos de políticos de esquerda a respeito da condenação do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b53e9719086081d904abc1a772d1c1be8bf8d531dcf6f643a79fb76a358c0f88
+size 123

@@ -1,1 +1,3 @@
-Realizações do Prefeito Geraldo Julio, do Município de Recife, Estado de Pernambuco. Apoio à candidatura do Sr. João Campos à Prefeitura Municipal da Capital pernambucana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee89c6597cfe45d0737475e47686610fa3e648f7af19b27211de85dc73e955c4
+size 177

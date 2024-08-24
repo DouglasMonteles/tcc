@@ -1,1 +1,3 @@
-Esclarecimento à Presidência sobre a existência de acordo para a votação nominal do texto base do projeto de lei relativo aos partidos políticos e de requerimento de destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd4d2a7dbb8de84f79ede2671209bedd13fc23cfcd54934d2a3c7120e5fb7b67
+size 182

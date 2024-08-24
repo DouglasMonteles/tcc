@@ -1,1 +1,3 @@
-Discussão da Medida Provisória nº 1.148, de 2022,&nbsp;sobre a alteração da Lei nº 12.973, de 2014, para ampliação do prazo de vigência do crédito presumido e do regime de consolidação. Defesa de realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a3bbea88adb2ac23232575a2c6c46f57b1cf707041fade409ff46beb16a42d2
+size 244

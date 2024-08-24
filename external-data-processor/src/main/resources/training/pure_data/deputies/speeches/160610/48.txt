@@ -1,1 +1,3 @@
-Beatificação da Irmã Dulce. Instituição do Dia da Bem Aventurada Dulce dos Pobres - 13 de agosto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0bc6043e27b1a201acd2ed77f769794a626bb4d89617ab25b392204e27681dc
+size 102

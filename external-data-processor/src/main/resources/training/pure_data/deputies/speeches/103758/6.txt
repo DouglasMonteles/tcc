@@ -1,1 +1,3 @@
-Visita, à Casa, dos Vereadores Sargento Trindade e Indiomar dos Santos, da Câmara Municipal de Passo Fundo, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5bebb250318c088bd7bb09d3e00db24bb361bddf6c5b893b7dd64c93f64ef49
+size 138

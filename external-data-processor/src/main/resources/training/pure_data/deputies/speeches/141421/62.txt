@@ -1,1 +1,3 @@
-Presença, nas galerias do plenário, os alunos do 1º ano do ensino médio da Escola Comunitária de Campinas, São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:463693b2fea16a532fabb9d4a05ab4704c871744fbf2d44ec495f30f8e29c4de
+size 123

@@ -1,1 +1,3 @@
-Anúncio da cassação, de modo liminar, de ato administrativo do Governador do Estado de São Paulo, Tarcísio de Freitas, sobre a retirada do direito dos estudantes de acesso ao Programa Nacional do Livro e do Material Didático.
+version https://git-lfs.github.com/spec/v1
+oid sha256:301acf851dd162c7bd4132f1ced638557e09430add8a5277367283ceecbb697c
+size 231

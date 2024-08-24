@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional para a Eliminação da Violência contra as Mulheres. Ocorrência de casos de violência contra mulheres no Brasil. Elogio às políticas do Governo Dilma Rousseff voltadas à redução da violência de gênero. Eficácia da Lei Maria da Penha, relativa à coibição da violência doméstica contra as mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a01821a3516af8efd66bb9cdda50a2039b759606b945626d140c16739fe8346
+size 344

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento, por duas sessões, da discussão do Projeto de Lei nº 4.476, de 2020, (nº 6.407-B, de 2013, na Câmara dos Deputados), acerca do estabelecimento do marco regulatório do gás natural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aec3586d447cae13999a2d1fe70601c3adeadfa2126ce118bc6fc8165a04f169
+size 252

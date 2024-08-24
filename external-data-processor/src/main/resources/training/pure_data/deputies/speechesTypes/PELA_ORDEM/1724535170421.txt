@@ -1,1 +1,3 @@
-Saudações à nova diretora da União Nacional dos Estudantes - UNE. Iniciativas do Governo Federal a favor da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca85093b68971999a06426425f69ea1c157e64978224e9aae45668a2bb3cb66c
+size 123

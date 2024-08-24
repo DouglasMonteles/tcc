@@ -1,1 +1,3 @@
-Urgente necessidade de reajuste da tabela de procedimentos do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d212a8ad0471967a3f29a5d51f672a7b98ed3ac535d93e4f200c03114742174
+size 93

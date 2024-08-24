@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 1.077, de 2021, sobre o estabelecimento de regras temporárias para o fornecimento prioritário de oxigênio à rede hospitalar durante a epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9911dc6413886c6a5ef80eb306a1685c0f8fbbc24e233569b7a2102cf2fe5e72
+size 205

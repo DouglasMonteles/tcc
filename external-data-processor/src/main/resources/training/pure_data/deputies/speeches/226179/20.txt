@@ -1,1 +1,3 @@
-A Deputada denunciou a má gestão do Prefeito de Cuiabá, destacando a reprovação das contas pelo Tribunal de Contas do Estado, clamando pela responsabilidade dos vereadores na votação das contas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f439d514e501af6d14ce10ab395864cd88a4175ee60c4852843348a8f869c626
+size 201

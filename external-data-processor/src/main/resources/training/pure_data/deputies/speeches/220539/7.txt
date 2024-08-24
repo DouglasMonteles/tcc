@@ -1,1 +1,3 @@
-Crise energética reinante no Estado de Roraima. Pedido ao Presidente Luiz Inácio Lula da Silva de destinação de recursos para as obras de interligação de Roraima ao chamado Linhão de Tucuruí. Imediata operacionalização da Usina Termelétrica Jaguatirica II.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b92f1fa875c40f28a1529f588b267442380fb68ff34240dbf45b0c02aedc3d99
+size 267

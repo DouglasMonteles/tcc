@@ -1,1 +1,3 @@
-Participação da oradora na Frente Parlamentar Mista da Educação. Lançamento pela Ministra do Supremo Tribunal Federal, Rosa Weber, da primeira Constituição traduzida para a língua indígena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84409f95005d4a7979b6f73666f90b6ff998f37566db2d7bd7a9bd80acacff71
+size 198

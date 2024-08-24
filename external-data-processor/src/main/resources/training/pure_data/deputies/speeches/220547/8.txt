@@ -1,1 +1,3 @@
-Ódio ideológico do Ministro da Justiça e Segurança Pública, Flávio Dino, contra o grupo de Caçadores, Atiradores e Colecionadores - CACs. Pedido aos Deputados de apoio ao requerimento de apreciação em regime de urgência do Projeto de Decreto Legislativo nº 3, de 2023, de autoria do Deputado Sanderson, para sustação dos efeitos do Decreto nº 11.366, de 2023, acerca do registro e aquisição de armas de fogos. (suspensão de novos registros para clubes, escolas de tiro, caçadores, atiradores e colecionadores).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fa6a2c7a4d4c6cbdcf000906b3b90b0366a9fe564f20184e18bd6e8c07ee509
+size 528

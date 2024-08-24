@@ -1,1 +1,3 @@
-Falecimento do ex-Deputado Federal Nelson Trad. Lançamento do Plano Nacional de Combate ao Crack pela Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80b2dccb874f17f0a733de595a4c85684c501f1567f5de0e0d09d525b5526620
+size 129

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei do Congresso Nacional nº 1, de 2020, relativo à alteração da Lei de Diretrizes Orçamentárias - LDO 2020, com vista à recomposição salarial das carreiras custeadas pelo Fundo Constitucional do Distrito Federal. Apelo ao Presidente Rodrigo Maia e aos Líderes partidários de votação do Projeto de Lei nº 5.919, de 2019, a respeito da criação do Tribunal Federal Regional da 6ª Região, com sede em Belo Horizonte, Estado de Minas Gerais. Solidariedade aos policiais militares de Minas Gerais. Apelo à Agência Nacional de Vigilância Sanitária - ANVISA, de agilidade na aprovação do projeto de fabricação de respiradores pulmonares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e4d184b9351c4944809280eb08f6e6fbade43c5fa8a4c3d8f21efabc7847ff2
+size 707

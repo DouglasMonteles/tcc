@@ -1,1 +1,3 @@
-Prejuízos causados por atos de vandalismo em propriedades agrícolas no Município de Correntina, Estado da Bahia. Apoio ao Governador Rui Costa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:665b0d5fe8deeb8c2922f61eba98f9139aaac0ad90d26f670e9941ada7c88c39
+size 146

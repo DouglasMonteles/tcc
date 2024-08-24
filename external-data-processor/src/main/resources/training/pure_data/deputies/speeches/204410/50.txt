@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei nº 21, de 2020, sobre o estabelecimento de fundamentos, princípios e diretrizes para o desenvolvimento e a aplicação da inteligência artificial no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df17997f6fb2921654077cbaf2f96eab4f94625b0b73170491964182074f776e
+size 199

@@ -1,1 +1,3 @@
-Agradecimento ao povo do Estado de Sergipe pela eleição do orador. Renovação da representatividade na Câmara dos Deputados.  Manifestação de boas-vindas aos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04cf2c1cec94059bba1f7544dd079b1d2f209a86e89b6ca734cf6f0077aabb13
+size 178

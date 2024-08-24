@@ -1,1 +1,3 @@
-Agradecimento ao Líder do DEM, Deputado Antonio Carlos Magalhães Neto, pela viabilização da votação dos destaques à   Medida Provisória 530 de 2011 (Institui no âmbito do Ministério da Educação, o Plano Especial de Recuperação da Rede Física Escolar Pública, com a finalidade de prestar assistência financeira para recuperação das redes físicas das escolas públicas estaduais, do Distrito Federal e Municipais afetadas por desastres).
+version https://git-lfs.github.com/spec/v1
+oid sha256:bff9fcc30df8297d999ae882a37a92a7c3a6954ab876b41389b924c101de9fe9
+size 455

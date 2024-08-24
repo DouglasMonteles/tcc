@@ -1,1 +1,3 @@
-Urgente necessidade de melhoria das condições de trabalho dos funcionários do Departamento Nacional de Produção Mineral - DNPM no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e84b57bab629aa6418f726db05f6b6b84c461b9877d0ed34b1a9e39848b37fbe
+size 158

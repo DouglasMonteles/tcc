@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados de estudantes do Colégio Iavne, de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e42e281fa32456a07a4974ac2096b319e19c551a61daa8db68f5a5e28894d73
+size 104

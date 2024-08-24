@@ -1,1 +1,3 @@
-Excelência da gestão administrativa do Prefeito Bismarck Maia, do Município de Aracati, Estado do Ceará. Recebimento pela municipalidade do Selo A, da Secretaria do Tesouro Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a7bb08f4bf892b200543ed526fe24d16df379597b464a4f30e956a39efd302e
+size 186

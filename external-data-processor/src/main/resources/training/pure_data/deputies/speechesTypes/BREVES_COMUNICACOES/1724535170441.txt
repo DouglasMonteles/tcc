@@ -1,1 +1,3 @@
-Participação nas festas juninas no Distrito de São João de Viçosa, Município de Venda Nova do Imigrante, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:375c7e11b6aad19340f3e99eff276ed8bbf227a5ec6dad19774f23c7b8730374
+size 137

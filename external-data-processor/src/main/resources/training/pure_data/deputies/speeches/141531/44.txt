@@ -1,1 +1,3 @@
-Importância de aprovação do Projeto de Lei de Conversão da Medida Provisória nº 620, de 2013, para o resgate do profissionalismo do esporte brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f79e099365668f5eac2222523f065620e06565671cd7b3fe1acd40ca05f39bea
+size 157

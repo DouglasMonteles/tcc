@@ -1,1 +1,3 @@
-Posicionamento do PSDB e do DEM contrário a iniciativas governamentais em favor dos menos favorecidos. Elogio à Presidenta Dilma Rousseff pelo encaminhamento à Casa de projeto de lei em benefício das pequenas e microempresas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91550fd1b69b1796dc185cbb18ca261125d280b8b8a64858554244cb9146e0e6
+size 229

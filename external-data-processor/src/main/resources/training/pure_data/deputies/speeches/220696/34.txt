@@ -1,1 +1,3 @@
-A Deputada deu as boas-vindas aos Vereadores da Bahia, Mateus de São Gabriel e Vaval de Lafaiete Coutinho, que estão participando de um intercâmbio legislativo para fortalecer a aproximação entre a Câmara dos Deputados e as Casas Legislativas Estaduais e Municipais. Ela expressou seu desejo de sucesso para ambos os Vereadores e agradeceu pela oportunidade de compartilhar essa experiência legislativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ee37701170aa42e0e1f1f90b7bd95d03cd14c3e13b0516140b3eba9a4468522
+size 410

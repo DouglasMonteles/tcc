@@ -1,1 +1,3 @@
-Obstrução das votações pelo PSOL. Tentativa do Governo Federal de desestruturação da Previdência Social. Repúdio ao corte de recursos destinados à educação pública. Contrariedade à aprovação do conjunto de projetos anticrime, encaminhados à Casa pelo Ministério da Justiça e Segurança Pública. Posicionamento contrário à flexibilização do porte e posse de armas de fogo no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43a3f1176b1eed82ce732f29701d9069d261e59bc8d707ad3fc600562f275975
+size 403

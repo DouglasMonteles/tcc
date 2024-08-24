@@ -1,1 +1,3 @@
-Transcurso do 407º aniversário do Município de Itu, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e8c3c8c15b42e06c777805de91a01dce5faa16f877e4906bac3804af7da6775
+size 76

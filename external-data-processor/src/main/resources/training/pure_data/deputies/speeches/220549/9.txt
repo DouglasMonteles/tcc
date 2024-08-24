@@ -1,1 +1,3 @@
-A Deputada abordou a possível orientação do Ministro Haddad para que o Presidente Lula vete o projeto de prorrogação da desoneração da folha de pagamentos, alegando inconstitucionalidade. Destacou que a medida beneficiaria setores que já possuíam esse modelo antes da votação da reforma da Previdência e que, segundo o ex-Ministro Ricardo Lewandowski, é constitucional. Salientou que o projeto não incluiu novos setores e visa manter empregos em áreas cruciais para o Brasil. Alertou para o risco de milhares de empregos serem comprometidos se o projeto for vetado, responsabilizando o Governo do PT. Concluiu enfatizando a importância da desoneração para o desenvolvimento econômico do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff56c9f6466e9f7de948efae3ed282f77ed81b2a056f8c5610d37db8e3cf995e
+size 712

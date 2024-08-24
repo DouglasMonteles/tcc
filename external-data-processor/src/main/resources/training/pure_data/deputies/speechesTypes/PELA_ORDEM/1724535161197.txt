@@ -1,1 +1,3 @@
-O Deputado criticou a gestão do residente Lula, alegando promessas não cumpridas e hipocrisia no atual governo. Questionou a indicação de Flávio Dino ao STF, destacando incidentes controversos ligados ao Ministro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0d55fb8a63bdb6c178df471b23a98b02a7dd044f2f8729716f8bdb50bdda120
+size 218

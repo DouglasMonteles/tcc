@@ -1,1 +1,3 @@
-Encaminhamento da votação de requerimento de quebra de interstício de 1 hora para verificação da votação do Destaque nº 3, apresentado ao projeto de lei de conversão à Medida Provisória nº 870, de 2019, sobre o estabelecimento da organização básica dos órgãos da Presidência da República e dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92028e8949bc1c16ac8d8635e9281b1aa737dcfa9e4c276a28b3f9503151af8e
+size 326

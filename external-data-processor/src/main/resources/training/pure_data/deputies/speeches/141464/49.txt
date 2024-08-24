@@ -1,1 +1,3 @@
-Apresentação, à Comissão de Ciência e Tecnologia, Comunicação e Informática, de requerimento de realização de audiência pública para debate do funcionamento da TV Diário. Comemoração do centenário de nascimento do poeta popular Antônio Gonçalves da Silva, o Patativa do Assaré, no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d2628a87ca0f7c97499fbea6ec8a3bab0582d248caf0bb7ab46316ca0289e7e
+size 317

@@ -1,1 +1,3 @@
-Homenagem póstuma aos integrantes da delegação da Associação Chapecoense de Futebol vítimas de acidente aéreo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:264df1528de71d60cef3bb1cfb94e7b5be80f6aec858af579170f1831861b1a8
+size 117

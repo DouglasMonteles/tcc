@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei 552 de 2007 (Dispõe sobre a criação de cargos de provimento efetivo e funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 5ª Região).
+version https://git-lfs.github.com/spec/v1
+oid sha256:27e2cf0b0c424c015ffa09b14d38a563c3a91a0ae7992f20c27d70ac3c14eebf
+size 210

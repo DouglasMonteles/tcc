@@ -1,1 +1,3 @@
-Homenagem aos profissionais de enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3504c9fffc3f717cf6cbae200b026ea36ffb277c12cf11d4a0e56fb59b547a27
+size 42

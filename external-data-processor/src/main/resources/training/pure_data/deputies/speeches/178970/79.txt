@@ -1,1 +1,3 @@
-Registro de presença na Casa do Secretário do Meio Ambiente e dos Recursos Hídricos do Estado de Sergipe, Olivier Chagas. Pedido ao Governo Federal de atendimento de reivindicações dos servidores públicos federais em Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a59042b6f23b1c15838af5c4d212c6b27a315b72e76fd586380d0a43cb3753f4
+size 231

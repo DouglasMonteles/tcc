@@ -1,1 +1,3 @@
-Utilização satisfatória de medicamento para tratamento de câncer pelo jornalista Gilberto Amaral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6183ea2feadc64c531ef2f7d601a9a05f3e9c4745be267814489e89ffb62f959
+size 101

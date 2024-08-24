@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Combate ao Câncer. Avanço da criação da Lei º 12.732, de 2012, sobre o primeiro tratamento de paciente com neoplasia maligna comprovada e estabelecimento de prazo para seu início. Realização de ação conjunta entre o portal e-Democracia e a CPI destinada a investigação do tráfico de seres humanos
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1af10a95305be4f2d37bf2d4b472ad31acec5223d217167e0da4628d1212685
+size 338

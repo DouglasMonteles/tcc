@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a segurança pública, elogiando o trabalho da Comissão de Segurança Pública e Combate ao Crime Organizado. Destacou a Proposta de Emenda à Constituição (PEC) para conferir previdência aos agentes municipais e transformar os Guardas Municipais em polícias municipais. Apelou à união dos Deputados para apoiar essa iniciativa crucial para fortalecer a segurança no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe36293dedbd7aa547f26a2efeb22971afd827928a4ef1621359d23c7caefc73
+size 421

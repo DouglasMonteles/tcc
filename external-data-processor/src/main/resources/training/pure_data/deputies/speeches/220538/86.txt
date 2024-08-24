@@ -1,1 +1,3 @@
-Informação ao Deputado Arnaldo Faria de Sá sobre a alteração técnica do índice de reajuste de benefícios previdenciários constante no texto da respectiva medida provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94b85e7efd7eb72fbb8431b556397525d1efb25a96e45bd84b355dd71223d72c
+size 182

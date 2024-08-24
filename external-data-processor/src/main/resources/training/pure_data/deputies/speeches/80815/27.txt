@@ -1,1 +1,3 @@
-Defesa de votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.482, de 2023, sobre o estabelecimento das diretrizes de instituição do Programa Nacional de Promoção da Cultura da Paz nas Escolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7942073ed2b854580e5c8793c4e369a96139e198ca3e3d8a8eb4c470e9b5089f
+size 234

@@ -1,1 +1,3 @@
-Manifestação do orador em defesa da regularização das terras e do bem-estar do homem do campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4143de8fb7fd36f6d3317981dde5a24c291fc4f232599d83f11bc403ab0ed90f
+size 98

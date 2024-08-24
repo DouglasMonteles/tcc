@@ -1,1 +1,3 @@
-Votos de boas-vindas ao Deputado Luiz Carlos Hauly. Homenagem ao Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ded346a82957b50506a9b7c7cc05bcc7ddc869669b499175b61217461e6f425
+size 77

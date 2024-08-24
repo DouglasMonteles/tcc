@@ -1,1 +1,3 @@
-Atuação da CPI destinada à investigação do desaparecimento de crianças e adolescentes no Brasil. Apoio à proposta de criação de Cadastro Nacional de Crianças Desaparecidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8e2127d939f1a9568e1461246cd968064442afa2695a32df08c557c8c69137f
+size 182

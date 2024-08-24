@@ -1,1 +1,3 @@
-Responsabilidade do Governo do Estado do Amazonas pela crise da saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a303ad286b933b1ac2124315a8979984ff40a98d5a6fb8567ede5b104ee3523
+size 80

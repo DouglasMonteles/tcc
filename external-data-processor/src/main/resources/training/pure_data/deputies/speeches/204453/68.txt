@@ -1,1 +1,3 @@
-Transcurso de aniversário do golpe militar de 1964. Semelhança entre fatos ocorridos durante o regime de exceção e práticas autoritárias e criminosas do Governo Jair Bolsonaro. Tentativa de censura à manifestação de artistas contra o Presidente da República, durante festival de música realizado em São Paulo. Arquivamento de processo judicial instaurado contra a ex-Presidenta Dilma Rousseff, por suposta prática de pedaladas fiscais. Homenagem do Presidente da República a torturador da ditadura militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ac372f090412a661d69cc649b2c10498963367717bd8314819978e24c928ae0
+size 520

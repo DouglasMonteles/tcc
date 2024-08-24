@@ -1,1 +1,3 @@
-Orientação de bancada do PMDB de votação favorável a Emenda Aglutinativa nº 2, apresentada ao Projeto de Lei de Conversão nº 34, de 2016, decorrente da Medida Provisória nº 746/2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c34232a093d5e2ff40ee8427425f0466b209142f48d963fbdcf9c40a93ebc05
+size 192

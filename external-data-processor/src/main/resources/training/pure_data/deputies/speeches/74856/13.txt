@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional de Combate à Violência contra a Mulher. Inconformismo com a classificação do Brasil no ranking mundial de feminicídio. Repúdio ao modelo patriarcal da sociedade brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1d023df05784bb9ce22fa8e402ebb06d702aa6b13e701f63465ab5a2508298e
+size 210

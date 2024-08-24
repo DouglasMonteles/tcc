@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 205, de 2021, referente à desoneração da folha de pagamento da área de saúde. Apoio ao pagamento do piso salarial nacional dos profissionais da enfermagem e da parteira. Pedido ao Presidente do Senado Federal, Senador Rodrigo Pacheco, de celeridade na tramitação da Proposta de Emenda à Constituição nº 11, de 2022, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fca624b5c8ce42a46f80bf8700bbf87819b06d462529af196d46c01becd9d5e
+size 548

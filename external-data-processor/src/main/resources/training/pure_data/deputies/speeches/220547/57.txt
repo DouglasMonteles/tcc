@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 1.177, de 2023, que abre crédito extraordinário em favor do Ministério da Agricultura e Pecuária, no valor de R$ 200.000.000,00 (duzentos milhões de reais), para o fim que especifica. Na ocasião, o orador defendeu que o Parlamento não tem sido omisso em relação ao aborto, citando leis e acordos internacionais que já abordam o tema, contestando uma publicação da Gazeta do Povo que sugere que o STF está tomando decisões que o legislativo evita.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f380d1a7bb0f1d51e6f30af3e39596bd3899bbfe8585ba1458edfc87bfc7a610
+size 566

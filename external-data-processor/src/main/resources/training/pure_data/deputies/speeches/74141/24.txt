@@ -1,1 +1,3 @@
-Matéria Brasil amplia liderança em superávit do campo, publicada pelo jornal Valor Econômico. Acerto das políticas adotadas pelo Governo Luiz Inácio Lula da Silva e pelo Governo Dilma Rousseff em prol da agropecuária nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bd922040dcb0f9420e9472a4a8d5639c865c7ed6b01bdbf29d6b929e4caf9f6
+size 233

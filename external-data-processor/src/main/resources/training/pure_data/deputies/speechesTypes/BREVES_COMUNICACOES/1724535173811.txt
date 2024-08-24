@@ -1,1 +1,3 @@
-Transcurso do 70º aniversário de criação da Pontifícia Universidade Católica de Campinas - PUC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e094e322b38b7884495ffbb4919cc6c1fc7e63f405a984e1929f06b2cb48ab4
+size 101

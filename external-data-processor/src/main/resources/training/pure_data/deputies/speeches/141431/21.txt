@@ -1,1 +1,3 @@
-Transcurso dos aniversários de emancipação político-administrativa dos Municípios de Bodocó e Triunfo, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:393807e293a9ec5fe3b4fae6f482ff8f6ad58f7ad847ac8a8fb2fb9049a4939a
+size 130

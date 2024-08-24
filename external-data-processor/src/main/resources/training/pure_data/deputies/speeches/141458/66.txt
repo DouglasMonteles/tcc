@@ -1,1 +1,3 @@
-Informação à Presidência sobre a realização de acordo com Governadores das Regiões Norte e Nordeste para a votação de projeto de lei originário do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b16d4d358bdd29a5d73256b5bfd5bf0752ad499dac6f7a54012b8464b8a8e729
+size 172

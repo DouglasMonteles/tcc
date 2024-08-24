@@ -1,1 +1,3 @@
-Realização no Rio de Janeiro de reunião da Subcomissão destinada ao acompanhamento das doenças relacionadas à pobreza. Revisão da Lei nº 12.101, de 2009, acerca da certificação de entidades beneficentes de assistência social. Sanção da proposta de extensão do Programa de Recuperação Fiscal - REFIS às entidades de assistência social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28df5479b2580c9896de73ab65f271b7f1bd35a02af162cfc2da99ecdfdcbf46
+size 352

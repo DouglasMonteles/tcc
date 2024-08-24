@@ -1,1 +1,3 @@
-Transcurso do 322º aniversário do Município de Curitiba, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:607cc7d0f00bfc87c89c0b7b7d4b2402f46045b1400ad3d6a8b7e223f887a410
+size 78

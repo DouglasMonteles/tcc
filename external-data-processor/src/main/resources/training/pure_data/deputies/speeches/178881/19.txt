@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de votação nominal do requerimento de retirada da pauta da Proposta de Emenda à Constituição nº 77-C, de 2003, a respeito do fim da reeleição majoritária, da simultaneidade de pleitos eleitorais e a duração de mandatos para os cargos eletivos nas esferas federal, estadual e municipal, nos Poderes Executivo e Legislativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e0dcef76b06aa492b0766f0d6a45a790f48f79a605693162f7b34623ce7e127
+size 388

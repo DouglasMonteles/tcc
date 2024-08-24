@@ -1,29 +1,3 @@
-{
-  "dados" : [ {
-    "dataHoraInicio" : "2013-03-19T14:48",
-    "dataHoraFim" : null,
-    "uriEvento" : "https://dadosabertos.camara.leg.br/api/v2/eventos/31121",
-    "faseEvento" : {
-      "titulo" : "Comissão Geral",
-      "dataHoraInicio" : null,
-      "dataHoraFim" : null
-    },
-    "tipoDiscurso" : "EXPOSIÇÃO",
-    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F3%2F2013&txPagina=5357&txSuplemento=&enviar=Pesquisar",
-    "urlAudio" : null,
-    "urlVideo" : null,
-    "keywords" : "SEGURANÇA PÚBLICA, COMISSÃO GERAL, DEBATE. \r\nEDUARDO CARDOZO, MINISTRO DE ESTADO, MINISTÉRIO DA JUSTIÇA, AUSÊNCIA, RECONHECIMENTO, PROBLEMA, SEGURANÇA PÚBLICA, AUSÊNCIA, INVESTIMENTO, CRÍTICA. \r\nPROPOSIÇÃO, CRIAÇÃO, FUNDO NACIONAL DE SEGURANÇA PÚBLICA, DEFESA. \r\nPEC 300/2008, PROPOSTA, EMENDA CONSTITUCIONAL, PISO SALARIAL, POLÍCIA MILITAR, BOMBEIRO MILITAR, INCLUSÃO, PAUTA, VOTAÇÃO, SEGUNDO TURNO, DEFESA",
-    "sumario" : "Debate sobre segurança pública e violência no trânsito.",
-    "transcricao" : "O SR. CAPITÃO SAMUEL BARRETO - Saúdo o meu conterrâneo, Deputado Otavio Leite. Por sorte, de agora em diante são 3 minutos.\r\n\tEu acho que vários companheiros da Polícia Militar e da Polícia Civil, peritos e companheiros do DETRAN deram diversas ideias sobre como melhorar a segurança pública.\r\n\tFiquei meio triste quando o Ministro veio aqui e deu também algumas ideias sobre segurança pública. Eu esperei o Ministro desta Nação chegar aqui e falar desse problema do País de forma global; chegar aqui e assumir que o problema da segurança pública é a falta de investimento; chegar aqui e apoiar uma política em que todos os Estados estejam incluídos, independentemente das categorias, e não dizer que vai resolver apenas o problema da fronteira.\r\n\tNós temos uma PEC nesta Casa. Temos uma no Senado, a PEC 24, que cria o Fundo Nacional de Segurança Pública. Ninguém, nenhuma categoria, vai avançar sem ter dinheiro, sem ter esse fundo. Ninguém vai conseguir avançar em tecnologia sem ter dinheiro.\r\n\tDe 2003 a 2010, em todos os anos se aumentava o investimento em segurança pública. Não sei por que no primeiro ano da Presidenta Dilma, 2011, foi reduzido em 21% o investimento na segurança pública, em ordem inversamente proporcional ao crime, que avançou.\r\n\tEu sou do menor Estado da Federação, Sergipe. O Governo lá tentou fazer o que pôde para melhorar o salário de seus policiais. Fomos até exemplo nacional de mobilização. Porém, hoje, as condições financeiras do Estado...\r\n\tO Governador está lutando para tentar fazer concurso público. Eu ouvi o perito aqui falando. Lá realmente são 14 peritos para um Estado com 2 milhões de habitantes.\r\n\tEntão, eu acho que está na hora de o Governo Federal abraçar de uma vez por todas a causa da segurança pública, que é um problema nacional. E abraçar com investimentos, porque os investimentos que vêm aqui para o Governo Federal são tirados do suor do povo sergipano, do meu pequeno Estado; são tirados lá do amazonense também. E nós queremos segurança pública também. Não adianta.\r\n\tE há mais: o Governo Federal diz como deve ser tratado o profissional da segurança pública. Os policias federais são bem remunerados, relativamente aos estaduais. Quando o Governo Federal pega os policiais militares e civis para trazer para a Força Nacional remunera da mesma forma - em forma de diária, mas remunera bem. E depois os devolvem para passar fome.\r\n\tE o Governo não quer discutir a PEC 300, não quer discutir o Fundo Nacional, quer fazer ações paliativas. Eu acho que já está passando da hora de o Governo Federal assumir um plano nacional de segurança pública e investir nisso, porque a população está morrendo todos os dias, contando com a proteção divina e com alguns abnegados que fazem a segurança pública deste País.\r\n\tMuito obrigado, Sr. Presidente. (Palmas.)\r\n\tO SR. PRESIDENTE (Deputado Otavio Leite) - Muito obrigado, Deputado Capitão Samuel Barreto, do glorioso Estado de Sergipe."
-  } ],
-  "links" : [ {
-    "rel" : "self",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/229069/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
-  }, {
-    "rel" : "first",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/229069/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  }, {
-    "rel" : "last",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/229069/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  } ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:161456e66993d0ea9575b7b5df273754e9fc20ab4505ee2d1744e17a77b7bf04
+size 4693

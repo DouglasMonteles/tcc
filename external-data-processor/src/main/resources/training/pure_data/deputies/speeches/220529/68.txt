@@ -1,1 +1,3 @@
-Realização, pela Comissão de Fiscalização Financeira e Controle, do Seminário sobre Fiscalização de Compras Governamentais, no Estado do Espírito Santo. Anúncio de vigência, a partir de 2024, da Lei nº 14.133, de 2021, (Lei de Licitações e Contratos Administrativos). Tramitação na Casa do Projeto de Lei Complementar nº 98, de 2023, de autoria do orador, (apensado ao PLP 14, de 2019), sobre a alteração da Lei Complementar 101, de 2000, relativa ao estabelecimento de normas de finanças públicas voltadas para a responsabilidade na gestão fiscal. Lançamento de consórcio estadual de compras governamentais, no Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6392ca2bb163a7daa875d5a0302a50e9fd0105ee9064547af77d40003d596953
+size 652

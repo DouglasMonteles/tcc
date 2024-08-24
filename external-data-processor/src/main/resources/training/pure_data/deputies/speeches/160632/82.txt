@@ -1,1 +1,3 @@
-Necessidade de inclusão na proposta orçamentária de 2015 de recursos destinados à implantação e manutenção de campi da Universidade Federal dos Vales do Jequitinhonha e Mucuri nos Municípios de Almenara, Araçuaí e Capelinha, Estado de Minas Gerais. Anúncio de realização de audiência pública na Comissão de Educação para debate do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7cbc93f80cf4ed2e58eca97b82e4fb73a09d3e5d068a08275dee9f216901c19
+size 358

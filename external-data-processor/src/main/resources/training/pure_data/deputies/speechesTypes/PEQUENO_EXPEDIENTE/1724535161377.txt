@@ -1,1 +1,3 @@
-Apoio ao ex-Presidente Luiz Inácio Lula da Silva na condição de articulador político. Repúdio às tentativas de desestabilização do Governo Dilma Rousseff. Participação na cerimônia de lançamento do Programa Caminho da Escola, no Palácio do Planalto. Assunção pela oradora da Presidência da Subcomissão Especial destinada ao acompanhamento do Sistema Único de Assistência Social - SUAS. Apoio à manifestação do Líder do PT, Deputado Paulo Teixeira, a respeito da necessidade de esclarecimento por parte da Oposição sobre a quebra do sigilo fiscal de empresa de consultoria pertencente ao Ministro-Chefe da Casa Civil, Antonio Palocci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af5fe440fe9d4d538b195a000257ada441653f25a8c1a44f81f0b1f1c5afbce8
+size 658

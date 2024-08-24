@@ -1,1 +1,3 @@
-Necessidade de aprovação de medidas destinadas à geração de emprego e renda no País. Abertura de novos postos de trabalho no Município de Foz do Iguaçu, Estado do Paraná. Estagnação da economia brasileira. Necessidade de reativação do setor de construção civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4e84f968a4c42ba01949afd123a9881dd57475bc14c3ad6511675a96ba679ee
+size 276

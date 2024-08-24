@@ -1,1 +1,3 @@
-Apelo à EMBRAPA, ao Governo Federal e ao Governo do Estado do Espírito Santo de medidas de combate à mosca da palha na pecuária capixaba, notadamente no Município de São Gabriel da Palha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66a20d0488f66bf65346e42ba0960ab6a8c0a0067a81d2db289c090b4277c634
+size 193

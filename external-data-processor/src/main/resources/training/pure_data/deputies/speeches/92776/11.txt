@@ -1,1 +1,3 @@
-Urgente necessidade de duplicação da BR-381, trecho Belo Horizonte-João Monlevade, Estado de Minas Gerais. Falecimento do filho e netos do Pastor Messias, de Itabira, em decorrência de acidente automobilístico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15a88c3554e982d4644fb364edd843f68e0d6486daccb3186cf197bfebcf5cfe
+size 215

@@ -1,1 +1,3 @@
-Imediato encaminhamento à Casa pelo Poder Executivo de proposta de novo marco regulatório para o setor de mineração.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65bb45eb80e77729d4ca38586f4c30723d87f5549a46ac5f6be3b4c0b2907638
+size 120

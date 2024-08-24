@@ -1,1 +1,3 @@
-Apelo aos membros da Comissão Especial destinada ao exame da proposta de criação do Estatuto da Juventude de aprovação do parecer oferecido à matéria pela Deputada Manuela d'Ávila.
+version https://git-lfs.github.com/spec/v1
+oid sha256:532179ceae8e9ec3ad723960349cfbb1424b2ccde74dbe2b15ddca26b4643df0
+size 188

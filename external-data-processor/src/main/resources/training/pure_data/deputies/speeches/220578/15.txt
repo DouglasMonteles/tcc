@@ -1,1 +1,3 @@
-O Deputado protestou contra a persistência dos altos preços das passagens aéreas no Brasil. Enfatizou que o transporte aéreo é uma necessidade em um país de dimensões continentais, mas que os preços abusivos praticados por um pequeno grupo de empresas prejudicam os brasileiros. Além disso, o Parlamentar expressou preocupação com a diminuição da malha aérea, especialmente nas Regiões Norte e Nordeste, o que resulta em passagens caras e pouca oferta de voos. Pediu o apoio do Ministro de Portos e Aeroportos, Márcio França, para resolver esse problema e convocou os colegas Deputados das Comissões de Defesa do Consumidor e Viação e Transportes a se unirem na investigação dessa questão. O orador também anunciou a aprovação de um requerimento para uma audiência pública sobre o tema em setembro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f091bb297b5f3c44abc560d6e4a1a0f8a44ba8f239681708cf7665c3e29b3666
+size 826

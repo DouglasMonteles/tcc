@@ -1,1 +1,3 @@
-Retirada da Emenda de Redação nº 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1200ec5aec36dc2c79981b96f90d6910573b8075f9108947e78922b2e884e0bf
+size 38

@@ -1,1 +1,3 @@
-Apelo à Oposição e à Presidência de votação do Projeto de Lei nº 7.687, de 2017, sobre o estabelecimento de sanções à discriminação contra profissionais de limpeza pública. Transcurso do Dia do Gari.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3efa66f24bbdd6530da7e1061ebdabece2334f352904b9fd8a9419c6fcd65ed1
+size 213

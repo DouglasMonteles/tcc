@@ -1,1 +1,3 @@
-Intimação do ex-Presidente Jair Bolsonaro, pela Polícia Federal, para esclarecimento do episódio das joias sauditas destinadas ao acervo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0f23fc098cbb927e4607df3baa646dba0afcb95fe89d9dd28c1dff7f5e9ae84
+size 152

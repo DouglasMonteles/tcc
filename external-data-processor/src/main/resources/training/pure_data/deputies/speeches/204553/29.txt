@@ -1,1 +1,3 @@
-Orientação de bancada na votação da admissibilidade dos destaques simples apresentados à Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental. Repúdio a ofensas proferidas pelo filósofo Olavo de Carvalho contra profissionais da imprensa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a51dc9f593f2dec2c381fec12e01484d44d4a7705a1ebc6d5a1f0e7b89243031
+size 309

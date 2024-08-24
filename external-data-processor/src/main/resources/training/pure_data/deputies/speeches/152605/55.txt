@@ -1,1 +1,3 @@
-Expectativa de aprovação, pela Comissão de Segurança Pública e Combate ao Crime Organizado, do Projeto de  Lei nº 4.575, de 2009, sobre instituição do Programa de Proteção aos Defensores dos Direitos Humanos. Apoio ao projeto de lei concessivo de reajuste salarial a aposentados e pensionistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3616652245de082d88b9c15ad05152f5585de73d8999a299207c41ccb2cb4884
+size 304

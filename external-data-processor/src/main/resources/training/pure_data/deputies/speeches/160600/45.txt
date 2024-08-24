@@ -1,1 +1,3 @@
-Apelo às autoridades competentes para conclusão das obras da Adutora do Algodão, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:349f3d9dd887c85939fb88fe1681903c0e1ddcc0d0e1c1da5c4b449289c6ed07
+size 103

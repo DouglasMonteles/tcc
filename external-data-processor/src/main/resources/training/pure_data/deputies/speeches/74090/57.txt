@@ -1,1 +1,3 @@
-Aprovação pela Casa do projeto de lei sobre a criação de colônias de pescadores artesanais e o estabelecimento de seus direitos. Expectativa de sanção da matéria pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:125c670ae029c492cf89282faf00477da970e7222bb5a6ac25ec28af60041d67
+size 213

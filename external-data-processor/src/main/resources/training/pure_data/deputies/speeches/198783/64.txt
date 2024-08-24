@@ -1,1 +1,3 @@
-Medidas adotadas pelo Governo Luiz Inácio Lula da Silva para consolidação do crescimento econômico brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:762c6e013663c2b1a8e6438d12f3a163d33812ef845ffff5392baa3a3aec555d
+size 114

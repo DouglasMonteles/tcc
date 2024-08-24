@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado do Estado do Amazonas pela eleição do orador. Urgente necessidade de conclusão de obras da BR-319. Sugestões para aperfeiçoamento da proposta de melhoria da área de segurança pública, encaminhada à Câmara dos Deputados. Revisão do pacto federativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e26a37591b1a8b31393b26efeab4d88ea07a18af76d62bfc7a6f400ab0a8094f
+size 287

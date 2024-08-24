@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de preferência para votação do texto original do Projeto de Lei nº 4.491, de 2021, com relação aos demais textos. Presença no plenário do advogado Sandro Lúcio Gonçalves, defensor da causa de aposentados e pensionistas. Aumento em 5% da margem consignável da  classe. Antecipação do pagamento do 13º salário dos trabalhadores aposentados. Defesa de aprovação do Projeto de Lei nº 4.367, de 2020, sobre a criação do 14º salário dos aposentados e pensionistas mantidos pelo Regime Geral de Previdência Social,
+version https://git-lfs.github.com/spec/v1
+oid sha256:e260f80c40364de7634111dbfce4bc8800d852e093ad452798ca100580ae8e7c
+size 583

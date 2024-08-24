@@ -1,1 +1,3 @@
-Origem indígena do orador. Importância do apoio aos índios brasileiros.  Apresentação do Projeto de Lei nº 810, de 2019, sobre a reserva de 20% das vagas oferecidas em concursos públicos para provimento de cargos efetivos e empregos públicos no âmbito da União aos Reservistas das Forças Armadas, nos 5 anos subsequentes ao fim do seu respectivo serviço militar obrigatório.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4532d365f8756e20fbda3e1450d8377321c221a79ba9ee2f25f461605fcccf3
+size 387

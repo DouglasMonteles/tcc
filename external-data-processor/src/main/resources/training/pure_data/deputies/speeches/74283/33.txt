@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de retirada da pauta da Ordem do Dia das Emendas do Senado ao o Projeto de Lei 1.990 de 2007 (Dispõe sobre o reconhecimento formal das centrais sindicais para os fins que especifica, altera a Consolidação das Leis do Trabalho - CLT e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d084b5df555682f2063c934db55909013c6ca45cfc971de1294aff5d30d37207
+size 307

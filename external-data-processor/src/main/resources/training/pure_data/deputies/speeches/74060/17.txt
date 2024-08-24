@@ -1,1 +1,3 @@
-Realização pelo Banco do Nordeste de elevados investimentos no Estado da Bahia, em especial no setor agrícola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98beb24ab8780d38b2907369c0cd37e59117c0a1e0d9e9d30d6cb4ab55e79cfe
+size 113

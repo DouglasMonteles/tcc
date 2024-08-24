@@ -1,1 +1,3 @@
-Encaminhamento da votação do parecer pela admissibilidade da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação – EBC, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6345f6945964ef0fd30f7d82526ec6d7288ee4365feb57006c2701982b7b7d8d
+size 373

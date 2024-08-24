@@ -1,1 +1,3 @@
-Realização do 23º Festival Nipo-Brasileiro pela Associação Cultural e Esportiva de Maringá - ACEMA, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2663ee5cf5398cb02251e969b8bcfe6c792799ef31a8eb8c29a2c3b4f64578a
+size 127

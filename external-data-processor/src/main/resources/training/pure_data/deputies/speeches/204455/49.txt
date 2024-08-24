@@ -1,1 +1,3 @@
-Apoio ao Governo Jair Bolsonaro e ao discurso proferido pelo Presidente da República na Assembleia Geral da Organização das Nações Unidas - ONU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a073c9e62ce7e3705656548e162cca894998eb15bdda89dbd46a3c79a830a72
+size 149

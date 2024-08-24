@@ -1,1 +1,3 @@
-Declaração de vingança do Presidente Luiz Inácio Lula da Silva contra o Senador Sérgio Moro. Envolvimento do governo petista com a facção criminosa Primeiro Comando da Capital - PCC. Questionamento sobre a visita do Ministro da Justiça e Segurança Pública, Flávio Dino, sem escolta armada, ao Complexo da Maré, reduto do narcotráfico e do crime organizado, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36d45ba115b711db7364a785a02855e9efb094ce4a9fa078c9e8c42140cac634
+size 414

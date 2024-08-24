@@ -1,1 +1,3 @@
-Apelo aos Parlamentares por aprovação do projeto de lei sobre a inserção, na Lei Maria da Penha, de dispositivo destinado à divulgação, pelos meios de comunicação, da fotografia de agressores à mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db580c31828f890f4608e78c23b0bc4c2d25f03320ca21de7c9c4d9e40d09500
+size 211

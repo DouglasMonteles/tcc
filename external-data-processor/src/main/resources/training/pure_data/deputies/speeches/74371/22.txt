@@ -1,1 +1,3 @@
-Crise socioeconômica reinante no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41232a00c562225e05d99551ddb50d459d731e8e16ea0577d470af9c739feffb
+size 40

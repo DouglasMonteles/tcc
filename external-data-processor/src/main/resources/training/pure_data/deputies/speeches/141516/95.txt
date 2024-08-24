@@ -1,1 +1,3 @@
-Natureza ufanista do discurso oficial do Governo Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:938c78d92459cd590bcda997aabdc818dbdaa77b00d88b69ca3a12ef43bcaca9
+size 64

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 2.336, de 2021, sobre a alteração da Lei nº 9.615, de 1998, relativa às normas gerais do desporto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8b84045a77215c381e0feaeddd69aed5ae2ff1f19c0c7ce2482afd354b3e45a
+size 198

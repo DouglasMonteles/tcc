@@ -1,1 +1,3 @@
-Apoio às mobilizações da Frente Contra a Prorrogação dos Contratos de Pedágios no Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1360331551df6b72ad0da6730e8c4dbbaebedb1640232e37ef6a7e0f72849dc
+size 106

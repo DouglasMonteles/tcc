@@ -1,1 +1,3 @@
-Contradita à questão de ordem do Deputado Tadeu Veneri sobre a inobservância do decoro parlamentar por membros da Câmara dos Deputados. Prática de corrupção pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01a3400126fbc48e073d200e2e501c8f7ac8054720a456bc670578628ce689b7
+size 207

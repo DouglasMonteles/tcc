@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 2.112, de 2021, sobre a alteração da Lei nº 14.124, de 2021, para inclusão, em grupo prioritário de vacinação da Covid-19, de gestantes, puérperas e lactantes, bem como de crianças e adolescentes com deficiência permanente, comorbidades ou privados de liberdade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a19774a8298f922397e4a8c24ec85e12957268c49a365b9a4d9e585bc5784bf2
+size 314

@@ -1,1 +1,3 @@
-Comemoração do 68º aniversário de criação do Departamento de Polícia Federal. Transcurso do Dia Nacional de Mobilização em Defesa das Fronteiras do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b1904fdb0ec8836ed1ec74f034312232deac44ae75bd2945ea085742e2cbbf5
+size 164

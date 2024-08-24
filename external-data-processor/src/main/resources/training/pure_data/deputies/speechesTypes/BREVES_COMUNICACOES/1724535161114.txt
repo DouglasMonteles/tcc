@@ -1,1 +1,3 @@
-O Deputado enfatizou a necessidade de enfrentar o crime organizado de forma mais eficaz no Brasil, pedindo a instalação de uma CPI para abordar o problema. Destacou que as organizações criminosas estão ganhando poder e defendeu medidas mais rigorosas, incluindo a extradição de criminosos para países com prisões mais severas. Enfatizou a urgência da situação e fez um apelo à Presidência da Câmara para agir contra o crime organizado no país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05ca65c815f650fdf39e1d28eddfcd591772956a8fbcac193fd8ead438457f7d
+size 459

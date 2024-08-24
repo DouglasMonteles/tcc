@@ -1,1 +1,3 @@
-Transcurso do 21º aniversário de implantação do Plano Real. Relevância do setor agropecuário para a economia do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f51cc0029aea5a9c3da956398a08eb2b1c9d4a7f522d638d9fb75a14e242cff
+size 124

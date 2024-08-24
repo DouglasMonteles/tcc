@@ -1,1 +1,3 @@
-Esclarecimento sobre a criação da Região Administrativa do Sol Nascente, no Distrito Federal. Urbanização e inauguração de Restaurante Comunitário na localidade. Concessão de reajuste salarial aos servidores públicos pelo governo brasiliense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f4115632fafac9e6d01a9505f3f4666ff06ca6687a39988e1a478f368cba298
+size 252

@@ -1,1 +1,3 @@
-Elogio à organização da Festa do Peão de Barretos, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dace816cae984bb98483b4545846e4142ad1042c8f5a73554ce7b04d4ebd0e8b
+size 76

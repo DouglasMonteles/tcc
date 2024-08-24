@@ -1,1 +1,3 @@
-Apresentação de moção de repúdio ao Governador do Estado de Minas Gerais, Antônio Augusto Anastasia, pela articulação de movimento contrário ao reajuste do piso salarial nacional do magistério público aprovado pelo Supremo Tribunal Federal e referendado pelo Ministério da Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9562d6053829a0c0e3c7bcc65379978637c7969d44685e72c4d044b532a460d5
+size 296

@@ -1,1 +1,3 @@
-Falecimento do Arcebispo de Belém, Estado do Pará, D. Vicente Joaquim Zico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8188148a03861c84ef1c6b59bfde67e7b2c7b892f8a9856cd778444101d2929e
+size 77

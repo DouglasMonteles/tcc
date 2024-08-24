@@ -1,1 +1,3 @@
-Aviso ao Plenário sobre a convocação de sessão conjunta para votação da proposta orçamentária de 2008 na próxima semana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfec0ef11dfccc0cb3bd146206ddc2426c7585ba8a03beacd55cbe103c675fc0
+size 129

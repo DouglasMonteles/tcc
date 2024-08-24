@@ -1,1 +1,3 @@
-Apelo à Presidência da Câmara dos Deputados de inclusão na pauta do projeto de lei sobre a extinção da taxa de assinatura básica da telefonia fixa. Precariedade dos serviços de energia elétrica no País. Defesa de aprovação do projeto de decreto legislativo acerca de devolução aos consumidores de valores cobrados a maior em tarifas de energia elétrica. Aprovação, pela Comissão de Defesa do Consumidor, de proposta de fiscalização e controle de operadoras de cartão de crédito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35017aece727771a973d4a1d3479146aabe6c0a73a236777084296896639119e
+size 500

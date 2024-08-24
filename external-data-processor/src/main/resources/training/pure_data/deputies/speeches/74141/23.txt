@@ -1,1 +1,3 @@
-Conclamação aos Deputados do Estado da Bahia para assinatura de emenda orçamentária destinada ao asfaltamento da BR-020, trecho Campo Alegre de Lourdes-Santa Rita de Cássia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c66bc41c9785909f0a6b0a275ddcbbb797d4c80ebf0e6fb07099b6ac56028df
+size 178

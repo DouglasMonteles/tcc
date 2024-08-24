@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 1.482, de 2023, sobre a instituição da Política Nacional de Promoção da Cultura de Paz nas Escolas. Votos de boas-vindas ao Deputado Renan Ferreirinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75964a90d45722553ade0de37bc912f2a5f63065efe84b68cb620857a71d76a6
+size 189

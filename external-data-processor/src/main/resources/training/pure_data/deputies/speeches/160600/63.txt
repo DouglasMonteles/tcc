@@ -1,1 +1,3 @@
-Defesa da aprovação do  Recurso 163 de 2012 contra a apreciação conclusiva das Comissões sobre o  Projeto de Lei 1.023 de 2011, que altera a Lei 9.277 de 1996, para dispor sobre a cobrança de pedágio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac8e7ffbf39e0f59b0b19089f5afeb9e190c740fa0d1dd9e6b6e4ace8e33d009
+size 207

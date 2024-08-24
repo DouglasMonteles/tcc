@@ -1,1 +1,3 @@
-Inauguração de usina de energia solar no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65da1b1f5df378cf9bbbfb2278cbfc54c4202974bdf8d3f659139be67469591f
+size 60

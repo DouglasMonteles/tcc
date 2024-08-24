@@ -1,1 +1,3 @@
-Recolhimento pelo Prefeito Salomão Gurgel, do Município de Janduís, Estado do Rio Grande do Norte, de doações para aquisição de pneus de viatura da Polícia Militar. Escalada da violência no Estado. Não execução da emenda da bancada federal potiguar destinada à aquisição de armamentos, viaturas e equipamentos para a área de segurança pública. Risco de perda de recursos do Programa Pró-Moradia, executado pelo gestor estadual por meio da Companhia Estadual de Habitação e Desenvolvimento Urbano do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3928a1650ba6e04bd866dae5ed1746d1c85787c5bd9b073f4934b22da674e00
+size 540

@@ -1,1 +1,3 @@
-Críticas à gestão administrativa do Prefeito de Curitiba, Estado do Paraná, ante a situação de abandono da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02c369dda236241b3a01e2ec2dbdd7c96d22f6afadbff61e01392d3becbe21a7
+size 128

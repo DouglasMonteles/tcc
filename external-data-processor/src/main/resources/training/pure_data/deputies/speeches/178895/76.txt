@@ -1,1 +1,3 @@
-Imediata apreciação pela respectiva Comissão Especial do Projeto de Lei nº 3.722, de 2012, relativo à revogação do Estatuto do Desarmamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b92779b6cafaa07d60dd0399432b169d4703220d054c077c401541fb5907f7ad
+size 147

@@ -1,1 +1,3 @@
-Relevância econômica da descoberta de jazidas de petróleo na camada pré-sal. Apoio à proposta de criação de frente nacional de Vereadores e entidades em defesa da camada pré-sal, apresentada pelo Vereador Airto Ferronato, da Câmara Municipal de Porto Alegre, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94d833c076a49983c42d7df9e44480d4e72ee2a526cf6839b5eb11d6464d43f1
+size 296

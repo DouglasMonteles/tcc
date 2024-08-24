@@ -1,1 +1,3 @@
-Repúdio ao Governo Dilma Rousseff em face das denúncias de prática de corrupção. Solicitação ao Supremo Tribunal Federal - STF de isonomia em julgamento do ex-Presidente da República Luiz Inácio Lula da Silva no caso de aquisição de foro de prerrogativa com a nomeação para o cargo de Ministro de Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:def0dd112d811bc93a7903ec6e32ba0d7cf72bd4345537f83614a507291499e8
+size 317

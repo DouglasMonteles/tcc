@@ -1,1 +1,3 @@
-Vinculação entre a disseminação do ódio e da intolerância pelo bolsonarismo e o quadro de violência reinante no ambiente escolar. Criação, pelo governo petista, de grupo interministerial de combate à violência nas escolas. Realização de movimento articulado entre governantes e a sociedade contra a intolerância e a violência e pela extinção de células nazistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59bb31ca0cf9a0ad5d9db9171d4a06b69d920a0b5dbeb2cbcb977c834468e037
+size 380

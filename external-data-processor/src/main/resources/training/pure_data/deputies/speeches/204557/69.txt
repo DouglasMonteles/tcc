@@ -1,1 +1,3 @@
-Julgamento, pelo Superior Tribunal de Justiça, de processo instaurado pela Procuradoria-Geral da República contra o Governador do Estado do Amazonas, Wilson Lima, por superfaturamento na compra de respiradores mecânicos para o tratamento de contaminados pelo coronavírus. Constatação pelo Ministro do STJ, Francisco Falcão, da participação direta do gestor estadual na aquisição irregular de respiradores e no comando de organização criminosa. Defesa de celeridade no julgamento do processo judicial e de afastamento do Governador Wilson Lima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:705fb3551ed3f3975847f0e96ab76ecc910135b6279131112b5173a418c77cde
+size 556

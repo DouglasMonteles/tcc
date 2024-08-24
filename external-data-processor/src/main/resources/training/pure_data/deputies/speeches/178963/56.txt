@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de retirada de pauta da Medida Provisória nº 810, de 2017, sobre a alteração da Lei nº 8.248, de 1991, e da Lei nº 8.387, de 1991, com vistas a dinamizar e fortalecer as atividades de pesquisa e desenvolvimento no setor produtivo de tecnologia da informação e comunicação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d0eba2559e062a2abdc87a3d09961a310b861da89680dd4f5fa660c974fc92a
+size 337

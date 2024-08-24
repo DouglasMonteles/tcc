@@ -1,1 +1,3 @@
-Apoio do PT à greve dos trabalhadores da empresa Petróleo Brasileiro S/A - PETROBRAS. Necessidade de observância, pelo Governo Jair Bolsonaro, da necessidade de autorização do Congresso Nacional para privatização da estatal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7e13e71db09de39e740301869564710c4842ea923b4a63a591d17f2ee5d9a10
+size 231

@@ -1,1 +1,3 @@
-Posicionamento do PHS contrário à proposta de reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d04be859e5ae4e47d5dc4b81534f4045bb02764040c8e738c2b70385ab74204e
+size 66

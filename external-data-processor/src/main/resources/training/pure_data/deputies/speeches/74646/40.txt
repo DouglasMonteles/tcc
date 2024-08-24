@@ -1,1 +1,3 @@
-Homenagem ao ex-Presidente José Sarney, ao ensejo do transcurso do 93º aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bb3c227e9f51c263880ebcd37a62eab42410933323b7f68f1772bb5ab9fabd6
+size 97

@@ -1,1 +1,3 @@
-Apresentação de requerimento de informações ao Ministro da Educação, Fernando Haddad, sobre o credenciamento de centros universitários. Assunção do cargo de Governador do Estado do Piauí, pelo Vice-Governador Wilson Martins. Investimentos do Governo Estadual nas áreas de saúde, educação e assistência social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fff8a789460ff6ec78b39599180df2835ddb6359c057a6468250c0883aa5d45
+size 324

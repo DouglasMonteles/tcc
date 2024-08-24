@@ -1,1 +1,3 @@
-Dificuldades enfrentadas pelo setor de entretenimento diante da epidemia de coronavírus. Apelo à Casa de votação do Projeto de Lei nº 5.638, de 2020, acerca da criação do Programa Emergencial de Retomada do Setor de Eventos - PERSE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ee4cf354f4bbb38fb23fd1cc8d62d77d0b719a1caf865040fbea035c3a5abb8
+size 239

@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalho. Ações do Governo Luiz Inácio Lula da Silva em prol dos trabalhadores brasileiros. Enfrentamento da crise econômica mundial pelo Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17202a0b064fd6374d84023624cf2ebc4959d93c9ef95bab1eef5bb724053859
+size 170

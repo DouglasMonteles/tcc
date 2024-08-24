@@ -1,1 +1,3 @@
-Não conhecimento prévio, pelos Parlamentares, de matérias incluídas na Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69b5a14017b4450aa86eba3279b40b81a927425ef8bc91a6483e92cc57518bad
+size 88

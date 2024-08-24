@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a grave situação da violência no Ceará, destacando o aumento de homicídios e a ineficiência dos governos estaduais em lidar com a segurança.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d4d101c34a52156638f0ca95b4aed0cb8dda14862a116995f6ba999ced3b38a
+size 186

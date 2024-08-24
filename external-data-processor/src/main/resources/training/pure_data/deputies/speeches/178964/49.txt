@@ -1,1 +1,3 @@
-Transcurso da Semana Nacional do Meio Ambiente e do Dia Mundial do Meio Ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bda943c646f74f1b37827814f77be0d434228c1382f8155da0465e82afd867d
+size 81

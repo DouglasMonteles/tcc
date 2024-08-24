@@ -1,1 +1,3 @@
-Aprovação pela Comissão de Defesa do Consumidor de requerimentos sobre a realização de audiência pública destinada ao debate de irregularidades no pagamento do seguro DPVAT e sobre a convocação do Ministro das Comunicações para discussão do Plano Nacional de Banda Larga. Apresentação de requerimento de tramitação em regime de urgência do projeto de decreto legislativo acerca da devolução aos consumidores de valores cobrados a maior em tarifas de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83e2dd17eda7f95c2dc4bb4e92b7e2fe6b7dbdaa26e77ab070d7643a5fbb0372
+size 487

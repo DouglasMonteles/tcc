@@ -1,1 +1,3 @@
-Solidariedade ao Presidente da Fundação Nacional do Índio - FUNAI, Marcelo Augusto Xavier da Silva, diante do discurso de Parlamentares da Esquerda contra a nomeação de evangélico para os quadros do órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b714a6ab1ae3512d7da7f13e3378bd29c428b6814e54b14caf79e43ecafc32a
+size 213

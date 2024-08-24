@@ -1,1 +1,3 @@
-Solicitação ao Prefeito João Alves Filho de auxílio a famílias despejadas de prédio abandonado no centro de Aracaju, Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0731ca86ffafaa883d41f4843eee99f655280cc7c9234ae9cd593310d3c75c28
+size 141

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do recurso para consulta ao Plenário sobre o requerimento de discussão, artigo por artigo, do Projeto de Lei nº 3.715, de 2019, acerca da regulamentação da posse de arma de fogo em áreas rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c1f5d71063aed1ac5849c574518e2497ce92f46fd8de70c0832f73b0ffcbc77
+size 237

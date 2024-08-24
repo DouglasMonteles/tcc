@@ -1,1 +1,3 @@
-Lançamento, pelo Governo Federal, Plano Nacional de Enfrentamento contra Crack, Álcool e Outras Drogas. Importância do engajamento da Câmara dos Deputados na luta contra o uso e tráfico de entorpecentes. Diretrizes norteadoras da Pauta Brasil de Combate às Drogas, elaborada por especialistas do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5840528c5fc0df4918e79a993a888bb9f7d1ea92c07f39c36d06d475e9d098e
+size 308

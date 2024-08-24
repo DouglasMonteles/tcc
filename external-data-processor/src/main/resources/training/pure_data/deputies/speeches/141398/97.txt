@@ -1,1 +1,3 @@
-Insatisfação da sociedade paulista com os serviços prestados pelas empresas AES ELETROPAULO e Telefônica S/A. Necessidade de fiscalização da atuação das companhias pela Agência Nacional de Energia Elétrica - ANEEL e pela Agência Nacional de Telecomunicações - ANATEL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:755c0275097ee22490149d3bc3b25d6fa03815d3b25eda4266c83a78619a8949
+size 280

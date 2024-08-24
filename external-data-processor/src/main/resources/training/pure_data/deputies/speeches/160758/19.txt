@@ -1,1 +1,3 @@
-Empenho na construção de hospital regional no Município de Divinópolis, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0db3372322f25783756753647dd701843cf42d4fe7408ee927099959a50b3eef
+size 99

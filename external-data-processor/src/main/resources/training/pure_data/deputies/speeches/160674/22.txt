@@ -1,1 +1,3 @@
-Empenho do PMDB na regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de percentuais mínimos à saúde pela União, Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32da1d09f840ab95014d0cb4c0b2c727b782958a21bd0aa44220f5bfba6961e0
+size 168

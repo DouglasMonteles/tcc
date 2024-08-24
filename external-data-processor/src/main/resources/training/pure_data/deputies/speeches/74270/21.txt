@@ -1,1 +1,3 @@
-Presença na Casa do ex-Deputado Antônio Soares Dias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9811227f4451fb9001a05666f084d28a51b3564680d4d8b526d43c6aabbcd4d4
+size 54

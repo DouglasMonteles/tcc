@@ -1,1 +1,3 @@
-Superação da marca de 517 mil mulheres vítimas de violência doméstica no País entre 2018 e 2019. Tramitação na Casa do Projeto de Lei nº 5.872, de 2019, de autoria do orador, a respeito da obrigatoriedade de notificação prévia e pessoal da ofendida acerca dos atos processuais relativos ao agressor, notadamente àqueles relativos à saída da prisão, ao cumprimento ou à extinção da pena, ou à concessão de qualquer benefício ou progressão de regime de cumprimento de pena privativa de liberdade, nos casos de prática de violência doméstica e familiar contra a mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b26606c1c26549f741704aaeaa1aba6d4035791f7f68115d1a241b2f4f9e3a3d
+size 592

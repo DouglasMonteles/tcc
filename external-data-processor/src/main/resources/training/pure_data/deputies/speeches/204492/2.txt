@@ -1,1 +1,3 @@
-Avaliação negativa dos 100 primeiros dias do Governo Jair Bolsonaro. Contrariedade à aprovação da proposta de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3373e7cd96ab13584e52536d54089f8dde4d96571c468f9f8421b1b320b2b6f4
+size 139

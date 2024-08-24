@@ -1,1 +1,3 @@
-O Deputado agradeceu aos produtores rurais de Minas Gerais e de todo o País, ressaltando sua importância para a economia e para a solidariedade. Destacou eventos beneficentes, como leilões e festas, que arrecadaram fundos para o Hospital Regional do Câncer de Passos e outros projetos sociais na região. Enfatizou a contribuição essencial dos produtores rurais, que não apenas geram riqueza, mas também apoiam diversas Associações de Pais e Amigos dos Excepcionais (Apae) e instituições de caridade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f7c4bb91f837f58e8b539d2fb363d1a3618588fdac29438469b59ee4dbe2bb7
+size 512

@@ -1,1 +1,3 @@
-Participação da oradora na Festa do Divino Espírito Santo do Município de Andaraí, Estado da Bahia. Realização do Encontro de Cúpula Brasil-Venezuela, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:818aa72bb2ff972ac540956e5fcf94ce877e4487959e781ff7a613117a1ac4a5
+size 169

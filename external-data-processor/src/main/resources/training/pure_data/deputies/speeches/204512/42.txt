@@ -1,1 +1,3 @@
-Necessidade de realização de investimentos maciços em ações de combate aos efeitos da seca no norte do Estado de  Minas Gerais e no Nordeste brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5481732022905476bbc8b055227ccd20dbfa53bc5e7c49ed3b41c95d5849b156
+size 157

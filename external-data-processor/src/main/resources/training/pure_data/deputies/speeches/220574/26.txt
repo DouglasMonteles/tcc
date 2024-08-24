@@ -1,1 +1,3 @@
-Presença no plenário do Tenente João Luiz, da Polícia Militar do Estado da Paraíba. Apelo aos Deputados Estaduais de rejeição dos vetos apostos pelo Governador João Azevêdo à proposta de reajuste salarial dos policiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:569296f38f20d312b5ba57949aa288d98dcc7bc266e20eb3672ba8a2b4d1e250
+size 229

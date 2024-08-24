@@ -1,1 +1,3 @@
-Presença no Distrito Federal do Prefeito Milton Dimas Tadeu Urban, em busca de recursos para a reconstrução do Município de Pirassununga, Estado de São Paulo, atingido por fortes temporais. Expectativa quanto às ações da Secretaria Nacional de Defesa Civil em prol da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08a249969e79655204fbb7e6d16c6162c2289bf0e4c27dfae7b584809064d0e1
+size 291

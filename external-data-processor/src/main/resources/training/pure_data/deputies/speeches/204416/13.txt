@@ -1,1 +1,3 @@
-Protesto contra a imposição de censura a blogueiros e usuários de redes sociais pelo Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c912de604d094d120dd5ae586362773f79eb393ec51e9a5e38afd3a68524084
+size 113

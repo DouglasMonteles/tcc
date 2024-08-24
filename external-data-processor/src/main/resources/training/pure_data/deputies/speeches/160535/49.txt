@@ -1,1 +1,3 @@
-Perplexidade ante a demissão de servidores da Receita Federal do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41fefb5e6e9af8d7d7eeb55764f685af7c7ea73a909665ea28cf55160a253346
+size 73

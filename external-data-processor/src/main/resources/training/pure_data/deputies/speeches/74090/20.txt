@@ -1,1 +1,3 @@
-Acerto da decisão do Tribunal Superior Eleitoral sobre a possibilidade de apresentação de recurso judicial por Parlamentares denunciados por prática de infidelidade partidária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1809cad5c04d1986728e202b632e55124d8545139ed4cf30328f146b4e7d724b
+size 181

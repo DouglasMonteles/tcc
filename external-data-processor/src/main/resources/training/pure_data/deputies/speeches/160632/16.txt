@@ -1,1 +1,3 @@
-Promoção, pela Casa, da 8ª edição do Parlamento Jovem Brasileiro. Aprovação do projeto de lei, de autoria do Parlamentar Jovem Victor Augusto de Oliveira, acerca da concessão de desconto na aquisição de livros literários pelos estudantes da rede de ensino público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab3030115dc7f4feafc7ac6c7d0a697e26de322f0a4bd639134787913f956c39
+size 276

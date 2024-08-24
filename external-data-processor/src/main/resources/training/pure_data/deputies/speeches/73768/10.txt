@@ -1,1 +1,3 @@
-Participação do orador no encontro Meio Ambiente: Novos Padrões de Fiscalização e Mudanças na Legislação Ambiental, realizado no Município de Cascavel, Estado do Paraná. Apoio do Ministro da Agricultura, Pecuária e Abastecimento, Reinhold Stephanes, aos agricultores brasileiros. Defesa da aprovação de novo Código Florestal Brasileiro. Reivindicações da Federação da Agricultura do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc6edce8711769d0cd032382749876fe120a5d3a55dea3742b5817e2a593d512
+size 419

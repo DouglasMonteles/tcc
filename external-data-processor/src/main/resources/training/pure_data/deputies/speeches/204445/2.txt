@@ -1,1 +1,3 @@
-Reinclusão do Brasil no Mapa da Fome como legado do Governo Jair Bolsonaro. Reinstalação do Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA. Ações do Governo Luiz Inácio Lula da Silva para combate à insegurança alimentar e promoção do desenvolvimento
+version https://git-lfs.github.com/spec/v1
+oid sha256:95861022d32bdb8bbe93302dee2bc12bbdb9c0d98b21cd2e94c2d4fc21c92dc6
+size 277

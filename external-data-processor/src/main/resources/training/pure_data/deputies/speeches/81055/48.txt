@@ -1,1 +1,3 @@
-Necessidade de observância de pontos fundamentais na celebração do acordo de salvaguardas tecnológicas entre o Brasil e os Estados Unidos da América, a respeito da utilização do Centro de Lançamento de Alcântara, no Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70acf96d585a1c91718acfed68dc9cb865c311232f7880309d49f090f2503d8a
+size 245

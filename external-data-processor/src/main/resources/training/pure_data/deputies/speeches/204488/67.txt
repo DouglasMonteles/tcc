@@ -1,1 +1,3 @@
-Importância da aprovação do Projeto de Lei nº 1.826, de 2020, sobre o pagamento, pela União, de compensação financeira aos profissionais da saúde incapacitados permanentemente para o trabalho, em face da contaminação por coronavírus durante as ações de combate à doença, bem como aos seus cônjuges ou companheiros, aos seus dependentes e herdeiros, em caso de óbito; e sobre a alteração da  Lei nº 605, de 1949.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8401254a9bca79b69bb084d647a6cc6503e7214f6f2121cb58d3fd056be4048f
+size 431

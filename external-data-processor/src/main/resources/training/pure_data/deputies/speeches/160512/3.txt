@@ -1,1 +1,3 @@
-Agradecimento aos membros de Comissão Especial pela aprovação da Medida Provisória nº 876, de 2019, sobre o registro público de empresas mercantis e atividades afins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:803be8f432dd62e5461dad6528e2e6317be02457f76fc2850d2e89b3a57eb98a
+size 172

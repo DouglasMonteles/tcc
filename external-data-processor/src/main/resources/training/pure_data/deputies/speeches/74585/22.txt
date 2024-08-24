@@ -1,1 +1,3 @@
-Apreciação, pela Comissão de Segurança Pública e Combate ao Crime Organizado, de propostas sobre a alteração do tratamento processual penal dos crimes praticados por grupos organizados e sobre estabelecimento de normas para o funcionamento de casas de espetáculos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad3a1ecd5e007460a3d7cbf4e73068691d75dbd0fd780032944c863a20cb07a4
+size 272

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.633, de 2021, sobre a repactuação dos termos de compromisso firmado entre os entes federados e o Fundo Nacional de Desenvolvimento da Educação - FNDE, para conclusão de obras de infraestrutura educacional inacabadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:168c09b1046e20914396d5344cf23991059c19b34765b9951126dd863e5f5c3c
+size 337

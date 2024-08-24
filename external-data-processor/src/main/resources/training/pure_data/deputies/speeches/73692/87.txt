@@ -1,1 +1,3 @@
-Manifesto assinado por membros da bancada federal do PMDB contra o tratamento concedido ao partido pela estrutura governamental. Concessão de privilégios à bancada federal petista em detrimento dos demais partidos da base aliada. Posicionamento contrário de Deputados peemedebistas ao substitutivo do Senado Federal ao projeto do novo Código Florestal brasileiro aprovado pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:484956501bb0cfc8913b707a6cfac85a94bba54f8312c04b6a6e72453661d46e
+size 404

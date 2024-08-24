@@ -1,1 +1,3 @@
-Pedido aos Deputados de aprovação do Projeto de Lei nº 1.552, de 2020, acerca das medidas de proteção das mulheres em situação de violência, durante o estado de calamidade pública com efeitos até 31 de dezembro de 2020, ou na vigência das medidas de quarentena e restrições de atividades no contexto da pandemia do novo coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:897200d69b982495a6e6019ebd38abbf9326978fc039bf8fcf533cf413d4edf2
+size 346

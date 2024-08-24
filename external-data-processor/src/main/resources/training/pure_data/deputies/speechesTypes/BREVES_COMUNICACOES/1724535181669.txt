@@ -1,1 +1,3 @@
-Defesa de votação pela Casa do Projeto de Lei nº 1.615, de 2019, sobre a classificação da visão monocular como deficiência sensorial do tipo visual. Reconhecimento dos esforços empreendidos pela jornalista Amália Barros em prol da aprovação da matéria.  Apresentação pelo Líder do PTB, Deputado Pedro Lucas Fernandes, de requerimento de apreciação da propositura em regime de urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff29c64b70eb673624737c728f28107334f7ebb76c339685930a317d16c16536
+size 403

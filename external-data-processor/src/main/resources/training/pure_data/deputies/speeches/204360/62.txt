@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 4.558, de 2019, sobre a declaração dos direitos das pessoas portadoras de sequelas graves advindas de queimaduras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f268550b785502a61b63d4efd1700f88f9998ed31eebd10ccb1b8c88735b6695
+size 158

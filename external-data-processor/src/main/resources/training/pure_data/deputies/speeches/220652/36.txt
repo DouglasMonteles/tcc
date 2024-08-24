@@ -1,1 +1,3 @@
-O Deputado expressou sua oposição à decisão do Supremo Tribunal Federal sobre a descriminalização do aborto nos primeiros meses de gestação. Argumentou que a Constituição Federal é clara ao proibir a pena de morte, salvo em casos de guerra declarada, e que o STF não tem o direito de legislar sobre o assunto. Criticou a omissão do Congresso Nacional e a falta de coragem de alguns representantes do povo em defender seus princípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65836d5d0833381b94a394c35d27c7ebc4454be5ab39305b67087d61ccd1d590
+size 447

@@ -1,1 +1,3 @@
-Presença em plenário da Sra. Maria Miguel de Oliveira, agraciada com o Diploma Mulher Cidadã Carlota Pereira de Queiroz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2be11c5cb7a5a52d75120984c2efa08d35d95b4c26888f607d02d4e5fb5e149f
+size 123

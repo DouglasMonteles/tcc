@@ -1,1 +1,3 @@
-Aprovação pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural de requerimento de realização de audiência pública destinada ao debate sobre o cardápio da merenda escolar no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f8a323c91744307974f7cd931f5d15a63037c2087b59d3ecb2803316f9147d3
+size 213

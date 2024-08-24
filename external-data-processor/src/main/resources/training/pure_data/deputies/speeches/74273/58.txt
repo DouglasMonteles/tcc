@@ -1,1 +1,3 @@
-Importância da preservação da arte e da cultura. Relevância dos trabalhos desenvolvidos pelo Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5025413c9d10142aa7081a61fc21ae717fdff589aaac4254ac52e590d36cd89
+size 163

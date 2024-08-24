@@ -1,1 +1,3 @@
-Solidariedade à luta das educadoras infantis do Município de Avaré, Estado de São Paulo, pelo enquadramento da categoria na carreira do magistério. Apoio às educadoras e aos servidores públicos do Município de Embu das Artes, Estado de São Paulo, em greve por melhorias salariais, e aos profissionais de educação do Município de Campina Grande, Estado da Paraíba, em luta pelo pagamento do piso salarial nacional do magistério. Saudações aos profissionais da educação do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:942c5cb4797a48dc1ab093e76548244bd7d37a3adb3acd66c93dfd3cfff29162
+size 514

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional dos Direitos Humanos. Importância de cumprimento do disposto na Declaração Universal dos Direitos Humanos. Violação dos direitos humanos no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a32a62f76060c0b31482632b3ae6b1baac541ffcac828971a1239797f3d653a
+size 184

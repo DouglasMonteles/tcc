@@ -1,1 +1,3 @@
-Anúncio de propositura pela oradora do Projeto de Lei nº 5.945, de 2016, para especificação de gênero no inquérito policial, processo penal e estatísticas correspondentes, ante a falta de dados sobre violência de gênero no Brasil; do Projeto de Lei nº 5.724, de 2016, de aumento de prazo para a progressão de regime dos condenados por crime de estupro; e do Projeto de Lei nº 5.465, de 2016, de regularização da divulgação do serviço telefônico de denúncias a respeito de violência contra a mulher. Necessidade de repressão e prevenção da violência decorrente de gênero.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0154fd1ad8fefe4ce0e70d67380fe1af0c675883032f44fe000da8cc8243820
+size 595

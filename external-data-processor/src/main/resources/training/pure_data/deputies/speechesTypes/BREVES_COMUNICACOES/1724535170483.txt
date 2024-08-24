@@ -1,1 +1,3 @@
-A Deputada celebrou as recentes conquistas de Maracanaú, no Ceará, destacando a melhoria na gestão fiscal, a excelência dos estudantes na Olimpíada de Raciocínio Lógico, a finalização no Prêmio Band Cidades Excelentes e a obtenção do Selo Ouro de transparência para a Câmara Municipal. Atribuiu os sucessos ao comprometimento fiscal do Prefeito Roberto Pessoa, parabenizando a cidade por suas realizações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac487fbc9a397ec42cabeb4372b3a5f9f80a289d14f9f98d0e2b217cf27cc6d8
+size 421

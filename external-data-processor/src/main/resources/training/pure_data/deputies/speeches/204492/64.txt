@@ -1,1 +1,3 @@
-Resistência de instituições democráticas a tentativas de golpe do Presidente Jair Bolsonaro. Incômodo causado ao Presidente da República pela candidatura do ex-Presidente Luiz Inácio Lula da Silva. Fracasso do Governo Jair Bolsonaro. Elevação dos preços de combustíveis, de alimentos e  medicamentos, bem como dos índices de desemprego no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c93e992d64f898c18538b6f69a6f3de51e68ee5f7272da49e4efb1f448414a7
+size 357

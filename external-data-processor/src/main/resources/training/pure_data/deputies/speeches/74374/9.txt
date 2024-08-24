@@ -1,1 +1,3 @@
-Reação de países industrializados contra a produção de biocombustíveis pelo Brasil. Desenvolvimento da indústria sucroalcooleira no Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7280096b4b44bda55562d5445eba2e5407cd58848a06ff83d09a93083093b36
+size 168

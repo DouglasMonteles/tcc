@@ -1,1 +1,3 @@
-O Deputado destacou a violência que assola o Brasil, ilustrando com eventos recentes como o ataque a um helicóptero e o assassinato de quatro médicos no Rio de Janeiro, além da extorsão de comerciantes na Região Nordeste. Comparou a situação nacional a situações ocorridas no Oriente Médio e no México, evidenciando o fortalecimento de facções criminosas e a impunidade que perpetua a violência. O orador enfatizou a necessidade urgente de ações coordenadas entre o Legislativo, Executivo e Judiciário para combater a impunidade, que seria a única maneira de reverter o atual quadro de insegurança no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7185ac829464cbac1e13d2d81d2f36d52c33a8a549e9e0aefb4055e61b9979a
+size 627

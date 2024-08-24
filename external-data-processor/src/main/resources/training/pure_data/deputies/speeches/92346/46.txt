@@ -1,1 +1,3 @@
-Participação do orador em debate sobre a necessidade de mudanças no Estatuto do Desarmamento, no Município de Votuporanga, Estado de São Paulo. Repercussão dos arrastões nas praias da cidade do Rio de Janeiro, Estado do Rio de Janeiro. Legitimidade da pronta repressão policial a menores infratores em flagrante delito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:749664e8b44335541ca1a8bfd51330349fbad8a1af5d32e74d309f08d4c349c8
+size 327

@@ -1,1 +1,3 @@
-Transcurso do centenário da imigração japonesa para o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcf96bf0e1b357cb0b0eee5cf098ec8309a431fc1847cdc10fc676a3c0e88eb5
+size 64

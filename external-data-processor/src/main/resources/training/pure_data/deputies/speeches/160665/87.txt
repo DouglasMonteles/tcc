@@ -1,1 +1,3 @@
-Descumprimento, pelo Governo Dilma Rousseff, do compromisso assumido com a bancada parlamentar pernambucana de autonomia do Estado sobre o Porto de Suape.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db14184d760ad2f7f3c85067af931eeef3e7a582d9a673f570a5419d39777ff6
+size 154

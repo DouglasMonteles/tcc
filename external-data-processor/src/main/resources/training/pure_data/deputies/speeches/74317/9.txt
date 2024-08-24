@@ -1,1 +1,3 @@
-Morosidade no repasse ao Fundo de Participação dos Estados e ao Fundo de Participação dos Municípios de receitas decorrentes de arrecadações de depósitos pela Procuradoria-Geral da Fazenda Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9489f91343a919eabc6b523e11ac5e9f1c7ce7b90a8ce6fd8170510762601b8e
+size 206

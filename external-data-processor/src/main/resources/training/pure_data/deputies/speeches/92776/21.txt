@@ -1,1 +1,3 @@
-Transcurso do 123º aniversário de promulgação da Lei Áurea sobre a abolição da escravatura no Brasil. Retrospecto do processo abolicionista no País. Persistência das desigualdades raciais e sociais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac823005a0cd21e391b509f369ecb7619a1bc94c1152725473adfe214067e73f
+size 219

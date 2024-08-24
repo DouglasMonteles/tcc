@@ -1,1 +1,3 @@
-Condenação da empresa Monsanto do Brasil, pela 4ª Turma do Tribunal Regional Federal da 4ª Região, ao pagamento de indenização pecuniária por danos morais causados aos consumidores. Criação da Política Nacional de Agroecologia e Produção Orgânica. Realização do Encontro Unitário dos Trabalhadores, Trabalhadoras, Povos do Campo, das Águas e das Florestas, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf1a1fe695d427e8f88a3cc9861c3230347278420ee50b2f23549f260717a810
+size 406

@@ -1,1 +1,3 @@
-Agravamento das desigualdades de renda no Brasil, segundo pesquisa da empresa Tendências Consultoria Integrada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65ea9450cd0d1b94ec2541afaf7dd65a284d735401150df37480a46f03a33e1e
+size 112

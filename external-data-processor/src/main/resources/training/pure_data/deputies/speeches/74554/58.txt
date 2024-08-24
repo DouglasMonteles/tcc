@@ -1,1 +1,3 @@
-Participação nas comemorações de aniversário da emancipação político-administrativa do Município de Sebastião Laranjeiras, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00b0b19ab80b8e4b4c00edf689b0779fea0ca325a01b8ba5553a19d9fdfe7c6c
+size 149

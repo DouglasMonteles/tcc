@@ -1,1 +1,3 @@
-Violação do Estado de Direito e da separação entre os Poderes republicanos no Brasil. Solicitação à Casa de apreciação de proposta de reforma do Poder Judiciário. Necessidade de fortalecimento da Oposição no Congresso Nacional para defesa do Estado de Direito, da cidadania e da soberania do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f68fb423f7b4e2469c38781128257b7c69750b863d505afaef45eec861a9dd2
+size 310

@@ -1,1 +1,3 @@
-Necessidade de julgamento e condenação dos participantes e financiadores de atos atentatórios à democracia brasileira. Democratização do acesso ao ensino no País pelas politicas de cotas sociais e raciais. Atuação da oradora na implementação de ações de combate ao racismo estrutural e na garantia do acesso ao ensino superior como medida de redução das desigualdades sociais e raciais. Indignação com proposta de resolução normativa da Universidade Federal de Santa Maria - UFSM, Estado do Rio Grande do Sul, contrária ao Sistema de Seleção Unificada - SISU. Solicitação ao Conselho Universitário e à Reitoria da UFSM de revisão da proposta e de garantia da reserva de vagas nos cursos de graduação às populações indígenas e quilombolas pelo SISU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a91f81f5f861217a0701ae0442a669fd67b9b25b682784f3a2dbc6284336c7ca
+size 781

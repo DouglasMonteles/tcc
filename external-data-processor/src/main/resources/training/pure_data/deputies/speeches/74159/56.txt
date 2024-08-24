@@ -1,1 +1,3 @@
-Implantação dos serviços de saneamento básico no Município de Luminárias, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1e1d57106092abde3884a5877aa9aff959553f6bd5bcc8aa3d9242f8ed5b32c
+size 103

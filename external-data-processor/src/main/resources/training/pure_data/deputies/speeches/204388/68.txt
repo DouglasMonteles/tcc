@@ -1,1 +1,3 @@
-Esclarecimento sobre o contingenciamento de recursos da educação pública. Críticas aos governos do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:660c7945ae11584fd10d5b576a48417464c283775cceb519c14098312057bd52
+size 106

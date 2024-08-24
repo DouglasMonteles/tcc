@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de aprovação do Projeto de Lei nº 4.251, de 2021, sobre a instituição do Programa Nacional de Proteção a Apoio à Mulher - PROMULHER.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3e4b92cf72a6bf8cd319681afd0d4594f8abf45547fa4b0d9f46fd90cd491e5
+size 165

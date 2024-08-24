@@ -1,1 +1,3 @@
-Associação à fala de Deputado em defesa dos cafeicultores mineiros. Repúdio à apologia da tortura do pai da Alta Comissária das Nações Unidas para os Direitos Humanos e ex-Presidenta do Chile, Michelle Bachelet, pelo Presidente Jair Bolsonaro. Lançamento do Movimento SOS Brasil Soberano, em oposição ao Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2db935ed86f378fba6d6f69c2e4ef531a9790b738e82b6e8063e327d326604c9
+size 338

@@ -1,1 +1,3 @@
-Prisão do ex-Presidente Michel Temer. Necessidade de votação pela Casa de projeto de lei acerca da extinção de direito de políticos e magistrados ao foro privilegiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56d2761b4b42fb4592c505d5d60b252b0bfefa2c5fe47418d56205bfc389fa6c
+size 173

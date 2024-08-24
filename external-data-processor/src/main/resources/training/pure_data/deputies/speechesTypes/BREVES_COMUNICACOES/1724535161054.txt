@@ -1,1 +1,3 @@
-Protesto contra a repressão policial contra professores e servidores públicos, durante manifestação realizada na Assembleia Legislativa do Estado de São Paulo ao ensejo da votação da proposta de reforma previdenciária. Incompetência e autoritarismo do Presidente Jair Bolsonaro. Necessidade de reação do Congresso Nacional aos ataques do Presidente da República às instituições democráticas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:690e7afff30ad1e9229bfc49ac1eea43de2822d3994d3263a6f416b560c9a50e
+size 407

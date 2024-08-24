@@ -1,1 +1,3 @@
-Tentativa, por militantes do Movimento dos Trabalhadores Rurais Sem Terra - MST, de invasão da sede do Supremo Tribunal Federal em 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b991f7183a2e08a122b7ce5716779445cf95dc52423c588b17522888e008d51
+size 137

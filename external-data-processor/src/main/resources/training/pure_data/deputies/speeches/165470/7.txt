@@ -1,1 +1,3 @@
-Repúdio ao ataque homofóbico do Deputado André Janones contra o Deputado Nikolas Ferreira. Desrespeito da Deputada Carol Dartora para com os Deputados Filipe Barros e Nikolas Ferreira. Retorno do ex-Presidente Jair Bolsonaro ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6259c67ff5cf17dc244fc215ce5c2d4088b37cae19de66240fc3bc1bb5b9bd0
+size 238

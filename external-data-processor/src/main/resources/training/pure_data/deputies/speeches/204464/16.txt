@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento, por duas sessões, da votação da Medida Provisória nº 861, de 2018, sobre a transferência, da União para o Distrito Federal, da Junta Comercial do Distrito Federal e das atividades de registro público de empresas mercantis e atividades afins no Distrito Federal, e a alteração da Lei nº 8.934, de 1994, acerca do Registro Público de Empresas Mercantis e Atividades Afins. Protesto contra o contingenciamento de recursos orçamentários destinados à educação pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec5c75f0f5848da57fb3822fcf0de9bf6516507e70f60af9690e73885db9e1c7
+size 548

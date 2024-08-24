@@ -1,1 +1,3 @@
-Solicitação aos Deputados da base governista de comparecimento ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd63ac5dc010b6535fd25d67e816005e6464f51bb1f5bb6131a6e7493cd1fc30
+size 78

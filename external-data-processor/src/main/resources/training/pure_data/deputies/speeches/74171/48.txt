@@ -1,1 +1,3 @@
-Necessidade de o governo além de limitar o número de Medidas Provisórias,   se ater a um único tema por Medida Provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9fe39f31c8de7853d419bd3198cde1c0f0df19c098cf0c25974871902b1ef51
+size 127

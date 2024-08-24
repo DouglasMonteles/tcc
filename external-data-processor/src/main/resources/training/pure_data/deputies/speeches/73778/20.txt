@@ -1,1 +1,3 @@
-Pedido ao Líder  do Governo, Deputado Henrique Fontana,  de manutenção no  texto do Projeto de Lei de Conversão da Medida Provisória 403 de 2007 (Dispõe sobre o exercício da atividade de franquia postal e dá outras providências)  do prazo de 36 meses para que a ECT  conclua os contratos de franquia postal nos moldes estabelecidos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a11ac8cc12c9d9d462bfec862011e8bbbe430f7df772493e5a593cfa66e205f
+size 341

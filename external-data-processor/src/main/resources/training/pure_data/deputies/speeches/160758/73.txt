@@ -1,1 +1,3 @@
-Prorrogação do prazo de renegociação de dívidas dos cafeicultores. Prejuízos causados a pecuaristas brasileiros pela importação de leite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:662bee90f0bb1f221911e5b337c83df62f9ed45e81849227bbd4ee265995e45d
+size 145

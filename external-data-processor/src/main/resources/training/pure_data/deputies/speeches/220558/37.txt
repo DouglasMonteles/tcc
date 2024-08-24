@@ -1,1 +1,3 @@
-Importância e aprovação da Medida Provisória nº 1.153, de 2022, sobre a alteração da Lei nº 9.503, de 1997, relativa ao Código de Trânsito Brasileiro, (prorrogação da exigência do exame toxicológico periódico); bem como das Leis de nºs 11.442 e 11.539, de 2007, respectivamente, sobre o seguro de cargas e às cessões de Analistas de Infraestrutura e Especialistas em Infraestrutura Sênior. Defesa de criação da CPI do MST. Contrariedade à aprovação do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).
+version https://git-lfs.github.com/spec/v1
+oid sha256:693c62ba639778a92e6ee51470a29d7b32a0af875e3a1d927c7eab4361be51fa
+size 642

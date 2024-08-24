@@ -1,1 +1,3 @@
-Registro de voto favorável à chamada PEC da Música, aprovada em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:486688e283487686af8a91adc965a46adb944e81b8f7217171dafe6e386c24ba
+size 81

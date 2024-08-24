@@ -1,1 +1,3 @@
-Presença no Distrito Federal do Prefeito Moacir Andreolla, do Município de Novo Itacolomi, Estado do Paraná. Agradecimento aos membros da Comissão de Constituição e Justiça e de Cidadania pela aprovação do Projeto de Lei nº 940, de 2021, de autoria da oradora, sobre a instituição do Dia Nacional da Pessoa com Visão Monocular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:303c9ff8fc3a3b07790edb7de8131c835ff1ff1fd920ea9a60819d3365da2e8d
+size 340

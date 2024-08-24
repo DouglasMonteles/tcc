@@ -1,1 +1,3 @@
-Ponderações sobre o modelo de transporte coletivo estudado na Comissão Especial destinada a proferir parecer à PEC 90, de 2011 (Dá nova redação ao art. 6º da Constituição Federal, para introduzir o transporte como direito social), em apreciação em primeiro turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ac937c778dc30a4a74e98509a11913968710e8dd5b9f655c3fbb197f4a513a3
+size 275

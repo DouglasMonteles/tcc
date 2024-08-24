@@ -1,1 +1,3 @@
-Necessidade de realização da reforma administrativa. Percepção de altos salários pela elite do funcionalismo público. Importância da redução de gastos públicos para o efetivo combate às desigualdades sociais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ddc8f46b6db6c5b5d84c64e8069126f9e38d226eb1335ada6c4748b2300889c
+size 231

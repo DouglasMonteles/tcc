@@ -1,1 +1,3 @@
-Congratulação ao Presidente Henrique Eduardo Alves pela aprovação das propostas sobre a ampliação da atuação da Defensoria Pública e instituição do novo Código de Processo Civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e47994358ea64bb37e3eb8e2be98ece2b781dcbc099f7f68b18dbc92df16955
+size 190

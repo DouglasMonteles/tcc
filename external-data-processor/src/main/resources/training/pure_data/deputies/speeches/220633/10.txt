@@ -1,1 +1,3 @@
-Condições impostas pela Oposição para discussão de eventual aprovação da proposta governamental de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e786172e5ccd7a4192a4d495eb2c98f0aa47f744a2c12c7b6750ebc60315c80
+size 126

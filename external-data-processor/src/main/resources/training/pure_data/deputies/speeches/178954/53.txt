@@ -1,1 +1,3 @@
-Defesa do papel das igrejas no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f214df5f2a943430ee03312be536e611339fd45496717ed25bd8dbc0c19138ea
+size 38

@@ -1,1 +1,3 @@
-Caráter histórico da assinatura, pela Princesa Isabel, da Lei Áurea sobre a abolição da escravatura no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c021e017d9f62f4c1f2e598a7b2d624cd4e12b946430d96277125f9bb48430a
+size 115

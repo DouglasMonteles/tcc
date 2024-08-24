@@ -1,1 +1,3 @@
-Debate de assunto de interesse do País entre os Senadores José Serra e José Pimentel. Apelo aos Parlamentares de rejeição do Veto nº 38, em benefício do setor de confecções.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3436ead74df564c071befef6b1a425fd2fb1d174d47647e9c48a9e74e239b61a
+size 182

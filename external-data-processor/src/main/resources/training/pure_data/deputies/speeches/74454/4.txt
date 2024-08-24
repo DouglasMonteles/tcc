@@ -1,1 +1,3 @@
-Papel da Superintendência de Desenvolvimento do Nordeste - SUDENE e do Banco do Nordeste do Brasil no processo de crescimento socioeconômico da região. Importância do Programa de Microcrédito Produtivo Orientado do Banco do Nordeste, o Crediamigo, e do Programa Nacional de Fortalecimento da Agricultura Familiar no combate aos bolsões da pobreza no Nordeste brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a689183f4f20b9ebb3cfbd1595b468de5dad8d245a9da520e6e478df11b9647
+size 376

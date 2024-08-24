@@ -1,1 +1,3 @@
-Reclamação contra fatos ocorridos na Comissão de Direitos Humanos e Minorias. Agradecimento à Presidência pela decisão adotada acerca do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22471cdd96b28ca8b5638ad47503920d4edbd01efe751ef014bf7f839004843c
+size 151

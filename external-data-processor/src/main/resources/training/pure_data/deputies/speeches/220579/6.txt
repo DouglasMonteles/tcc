@@ -1,1 +1,3 @@
-Participação da oradora nas Comissões de Segurança Pública e Combate ao Crime Organizado; e da Amazônia, dos Povos Originários e Tradicionais.&nbsp;Apresentação do Projeto de Lei nº 1.183, de 2023, sobre a obrigatoriedade do uso do Fundo Amazônia em ações de prevenção, controle, monitoramento e fiscalização de fronteiras e combate ao desmatamento. Realização de investimentos na área de segurança pública para intensificação do combate à criminalidade nas regiões fronteiriças do País
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b39aab88891b844683c59c5925fe22598a47babbae3f06ef6e5aed1019f86c6
+size 514

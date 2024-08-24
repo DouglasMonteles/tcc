@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do § 4º do art. 19 do texto do Relator à Proposta de Emenda à Constituição nº 45, de 2019, apensada, apresentado a Proposta de Emenda à Constituição nº 293, de 2004, que altera o Sistema Tributário Nacional. Ressaltou que o artigo em questão beneficia a Baterias Moura, uma empresa nacional que gera empregos e concorre com multinacionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afe871e623baff8ea41660ec370f46d626dc2036fa57add8c683e92686114cc0
+size 395

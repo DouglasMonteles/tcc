@@ -1,1 +1,3 @@
-Instalação da Comissão Especial destinada ao exame do Projeto de Lei nº 7.663, de 2010, de autoria do orador, a respeito do Sistema Nacional de Políticas sobre Drogas. Apoio ao projeto de lei, relatado pela Deputada Teresa Surita, proibitivo da aplicação pelos pais de castigos físicos na educação de seus filhos, a chamada Lei da Palmada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5aec434a0b329dc41fe38d685c956166e1714fcff97949282460ec2a6151ea6e
+size 349

@@ -1,1 +1,3 @@
-Apoio ao Projeto de Decreto Legislativo nº 214, de 2011, sobre a sustação da aplicação de dispositivos da Resolução nº 3.954, de 2011, do Conselho Monetário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea2215cdc0127a97a7425f3a433284d4a8c9d060ac914ca782f5b972e5f5b70b
+size 175

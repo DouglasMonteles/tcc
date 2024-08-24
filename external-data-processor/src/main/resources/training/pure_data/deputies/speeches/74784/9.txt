@@ -1,1 +1,3 @@
-Comemoração do centenário da Arquidiocese de São Paulo, Estado de São Paulo. Relevância dos trabalhos desenvolvidos por D. Paulo Evaristo Arns. Saudação ao Cardeal de São Paulo, D. Odilo Scherer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb39a7cbe9907310dca3c46c576ce611e2488a9b6700d03d454f711c810eb779
+size 204

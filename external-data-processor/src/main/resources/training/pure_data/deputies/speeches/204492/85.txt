@@ -1,1 +1,3 @@
-Responsabilidade do Governo Jair Bolsonaro pelo avanço da fome no Brasil. Incapacidade do Chefe do Poder Executivo Federal de adoção de medida para a redução do preço dos combustíveis e do gás de cozinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d5f503e11d66d88b2b9af76ff8ab1dcdb2fde4c4a0fa203fe501dc7fd44c288
+size 212

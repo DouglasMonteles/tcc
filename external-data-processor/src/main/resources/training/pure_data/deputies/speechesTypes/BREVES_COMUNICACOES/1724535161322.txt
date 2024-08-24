@@ -1,1 +1,3 @@
-O Deputado manifestou sua alegria pela criação da Subcomissão Permanente do Paradesporto, da Comissão de Esporte, e sua eleição para Presidente do colegiado. Enfatizou que o Brasil desponta como um dos melhores do mundo e manifestou confiança na conquista do maior quadro de medalhas em uma futura Paralimpíadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b11fc23a2fccb77bfc1c2ac21affe9d5b2a5f3276d02670f0f3117a515116ab
+size 320

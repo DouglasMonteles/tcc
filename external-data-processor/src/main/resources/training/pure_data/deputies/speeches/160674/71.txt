@@ -1,1 +1,3 @@
-Ajuizamento pelo Congresso Nacional de recurso perante o Supremo Tribunal Federal para manutenção de decisão da Casa a respeito da redistribuição de royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb149684ed77ec19309a258f017e9db919ecfc61a86b54e6c770ff1d3505cd79
+size 177

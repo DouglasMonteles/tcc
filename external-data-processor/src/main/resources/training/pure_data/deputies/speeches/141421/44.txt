@@ -1,1 +1,3 @@
-Redução das tarifas de energia elétrica no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:738bdb1a94cfec98ed3c9f83efa7f255e243c0e6701bfaaa7328479f9715ea5f
+size 67

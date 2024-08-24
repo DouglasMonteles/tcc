@@ -1,1 +1,3 @@
-Repúdio à matéria veiculada pelo portal G1 sobre a compra de Deputados oposicionistas pelo Governo Luiz Inácio Lula da Silva. Divulgação pelo site O Antagonista de matéria acerca da liberação, pelo governo petista, de recursos de emendas orçamentárias à sua base aliada na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6420b39774d5bc8aa1ada5fb27f5ec998af10e9a1321ae03d5a396f70162a49b
+size 307

@@ -1,1 +1,3 @@
-Proposta de alteração da sistemática de distribuição de recursos arrecadados pelas empresas do chamado Sistema S. Defesa de manutenção das empresas componentes do Sistema S.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11c6371f4f3f72b04686c2320aaded4ab4e7480e811d035486946e9eb1d5ed78
+size 180

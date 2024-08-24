@@ -1,1 +1,3 @@
-Eficiência e dinamismo do Governador do Estado de Minas Gerais, Aécio Neves, segundo pesquisa realizada pelo instituto Datafolha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a06b8d9ad79913620cf7bc70a9affe81c128eec9e8a36b15ec4a93579a653d78
+size 131

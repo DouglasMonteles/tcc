@@ -1,1 +1,3 @@
-Transcurso do 2º aniversário de criação do sítio eletrônico Subúrbio News, Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b548f3844d85ddb91fd6929288d8e00069c657d5986d457bdfa8beea1068ebc
+size 108

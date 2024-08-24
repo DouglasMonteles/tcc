@@ -1,1 +1,3 @@
-Inadmissibilidade de submissão de agências e autarquias, sobretudo do Banco Central do Brasil, aos interesses corporativistas do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e75d2401b63f183a0211d29f8e1523eeb709beaaf40611f98884f0f3e9ea3a22
+size 147

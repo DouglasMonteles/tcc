@@ -1,1 +1,3 @@
-Acerto de decisão da Câmara dos Deputados sobre o compartilhamento de receitas entre Municípios. Prioridade do Governo Federal na garantia dos lucros das instituições financeiras, em detrimento do atendimento às camadas menos favorecidas. Contestação ao discurso do Deputado Darcísio Perondi a respeito do acesso ao Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:389bbdab8ed8e71babc0432d18ccdd6ac1910e4d3324385352a6ae2bec0a3adc
+size 349

@@ -1,1 +1,3 @@
-Necessidade de aprimoramento do funcionamento do sistema prisional e do objetivo de ressocialização do sentenciado para o êxito do enfrentamento da criminalidade no Brasil. Constatação pelo orador, em visita às principais unidades prisionais do Estado de Pernambuco, da necessidade de ampliação do número de policiais penais por meio de concurso público. Conclamação ao Ministério da Justiça e Segurança Pública para o fortalecimento da Polícia Penal e de políticas de ressocialização.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9fff77c2e19434ccbce49b6e50bf3eb4584c3699c61a6c7b4c1471695cb672c
+size 505

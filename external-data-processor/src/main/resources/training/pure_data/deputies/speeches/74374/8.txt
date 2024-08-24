@@ -1,1 +1,3 @@
-Urgência na aprovação, pela Casa, de projeto de lei complementar sobre a regulamentação da Emenda Constitucional nº 29, de 2000, acerca da destinação de receitas à saúde pública. Realização da 11ª Marcha a Brasília em Defesa dos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:279db7d37019e9a008fa709b46f222a6a21ae5f04ad6b7d691fc0bbb84b421ed
+size 256

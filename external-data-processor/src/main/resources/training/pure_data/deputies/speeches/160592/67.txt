@@ -1,1 +1,3 @@
-Regozijo com o recebimento do título de Cidadão Honorário do Município de Alto Paraíso, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efa4c29a55111602c8fe655861c2f8136c452a5f4ca1648c8ce6e3c739960c71
+size 111

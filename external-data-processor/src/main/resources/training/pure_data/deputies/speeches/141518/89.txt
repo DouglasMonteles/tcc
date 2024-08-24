@@ -1,1 +1,3 @@
-Reformulação do parecer oferecido às Emendas de Plenário ao Projeto de Lei nº 1.321, de 2019, sobre a autonomia dos partidos políticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37f93ab4ec0c924905de49fd3946f43d37d77946f06850c9d80ecafab807e478
+size 141

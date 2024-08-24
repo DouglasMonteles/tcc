@@ -1,1 +1,3 @@
-Repúdio à anunciada privatização de aeroportos pelo Governo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe4905ca18c9b14f3efb82583c24a204943a61b3dd95e77569e28dd8cb43e8e0
+size 75

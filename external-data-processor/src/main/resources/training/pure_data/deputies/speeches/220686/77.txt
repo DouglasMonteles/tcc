@@ -1,1 +1,3 @@
-Discussão da Medida Provisória  414 de 2008 (Constitui fonte de recursos adicional para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômico e Social - BNDES). Ponderações sobre a inconstitucionalidade da autorização dada ao Ministro da Fazenda para  regulamentar o crédito a ser concedido pelo BNDES a partir desses recursos, por se tratar de matéria de competência do Senado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84f69b45c2607165a45ed1dc629c9f34ac4f7140a0312a15b058c1a3917e5fb7
+size 417

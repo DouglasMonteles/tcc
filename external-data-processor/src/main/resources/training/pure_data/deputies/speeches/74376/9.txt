@@ -1,1 +1,3 @@
-Recadastramento de trabalhadores rurais assentados em projetos fundiários do INCRA. Visita do Presidente Lula e de Ministros a Mato Grosso do Sul para anúncio de obras de saneamento básico e de urbanização previstas no Programa de Aceleração do Crescimento - PAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61811c4d909a5e2cbe8d132f8731f731925958ca77ce31d2a60699e94dc86699
+size 270

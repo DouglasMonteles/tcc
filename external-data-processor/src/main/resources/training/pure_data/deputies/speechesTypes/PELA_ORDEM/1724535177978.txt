@@ -1,1 +1,3 @@
-Contestação aos discursos proferidos pelos Deputados Alexandre Padilha e Gleisi Hoffmann contra o orador. Desrespeito dos Parlamentares do PSOL à nova configuração do plenário. Anúncio da apresentação de questão de ordem/reclamação contra o desvio da discussão de matéria por Parlamentar do PT. Disposição do Parlamentar para debate da reforma previdenciária com o Deputado Henrique Fontana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32729a0ccbfaf5bd3635464afeef2b8bc5584206e10824f2a49734caba1507cc
+size 408

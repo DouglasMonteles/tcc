@@ -1,1 +1,3 @@
-A Deputada agradeceu a presença de colegas do Estado de São Paulo que visitaram Brasília. Mencionou a presença do Presidente da Câmara Legislativa de Holambra e de integrantes do Partido dos Trabalhadores (PT) de Jundiaí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acf53e6bbc00082a2a371672b853d05baa6ebc1df8c7d41dccf12259e29de471
+size 227

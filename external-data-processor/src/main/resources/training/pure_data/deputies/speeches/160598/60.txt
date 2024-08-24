@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Adoção. Importância do combate ao tráfico de seres humanos e à adoção clandestina de crianças. Suspeita de adoção irregular de crianças pela organização não governamental Limiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:048b08fa67d4f3ad8aaf9c8cd19115c0b64e2bcf28772306072332e03fa51e72
+size 222

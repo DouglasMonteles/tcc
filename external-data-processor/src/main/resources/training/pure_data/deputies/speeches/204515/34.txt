@@ -1,1 +1,3 @@
-Protesto contra a votação pela Casa da Proposta de Emenda à Constituição nº 3, de 2021, sobre a alteração dos arts. 14, 27, 53, 102 e 105 da Carta Magna, com vista ao resguardo de prerrogativas parlamentares, em detrimento da apreciação das propostas de retomada do auxílio emergencial e de vacinação contra a Covid-19, bem como de outros temas de relevante interesse nacional. Repúdio à proposta do Ministro da Economia, Paulo Guedes, de vinculação do pagamento do auxílio emergencial à desvinculação de recursos orçamentários das áreas de educação e saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50ad505579c74d0eca88a9ce089dc639e079598d47ed433f9ef9b5cca3558b3e
+size 585

@@ -1,1 +1,3 @@
-Transcurso da Semana Nacional do Meio Ambiente e do Dia Mundial do Meio Ambiente. Conciliação entre o desenvolvimento econômico e tecnológico e a preservação ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:216ad2aeda9a06e6ae489e2bce4f8cfbf584caac703f83da1bbf92064bf8b6a6
+size 174

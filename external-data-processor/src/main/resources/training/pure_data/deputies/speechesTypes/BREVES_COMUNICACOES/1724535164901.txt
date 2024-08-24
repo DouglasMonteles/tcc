@@ -1,1 +1,3 @@
-O Deputado expressou sua honra em participar da aprovação da Lei de Diretrizes Orçamentárias (LDO) no Congresso. Destacou a felicidade em ver uma emenda de sua autoria, que trata da possibilidade de Municípios endividados receberem recursos federais, ser aprovada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ece1e0cfaa3dcb32ec572b249c69f41cbea2e2525ed29613f5dd7dbb9b4cbd0
+size 269

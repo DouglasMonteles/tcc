@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei nº 1.075, de 2020, acerca das ações emergenciais para o setor cultural, adotadas durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87a65fe9b6c8838fd864f0e16b7921caf4765bd495b270f533703f24a971b289
+size 231

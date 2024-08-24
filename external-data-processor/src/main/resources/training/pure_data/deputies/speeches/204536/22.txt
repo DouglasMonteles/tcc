@@ -1,1 +1,3 @@
-Elaboração pelo orador de parecer à proposta de criação da nova  Lei Geral de Licenciamento Ambiental. Necessidade de aprovação da matéria pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:035e6798d1ea43dc86b748548361d1b2bb6fbce38f04f74125336f8c58c26e5a
+size 174

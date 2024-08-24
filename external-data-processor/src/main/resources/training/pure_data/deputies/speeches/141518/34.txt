@@ -1,1 +1,3 @@
-Encaminhamento da votação do art. 3º e, por consequência, do art. 4º do Projeto de Lei de Conversão da  Medida Provisória 578 de 2012 (Permite a depreciação acelerada dos veículos automóveis para  transportes de  mercadorias dos vagões, locomotivas, locotratores e tênderes que  menciona, previstos na Tabela de Incidência do Imposto sobre Produtos Industrializados  - TIPI), que cria o Fundo de Investimento do FAT - FI-FAT, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26c4bdc8a8e6e3912bd2063c2b46a4e50c07d7558bca037c5b78195cf263c456
+size 454

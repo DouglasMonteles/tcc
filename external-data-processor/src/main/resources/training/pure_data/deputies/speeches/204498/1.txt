@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de encerramento da discussão e do encaminhamento da votação da Medida Provisória nº 870, de 2019, sobre a organização da Presidência da República e dos Ministérios. Escalada da violência no Estado do Pará. Empenho do Governo paraense no combate à criminalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14797b07fc99b5bc709d91b544191e6ed73d869aff201e1b18000959a839f027
+size 327

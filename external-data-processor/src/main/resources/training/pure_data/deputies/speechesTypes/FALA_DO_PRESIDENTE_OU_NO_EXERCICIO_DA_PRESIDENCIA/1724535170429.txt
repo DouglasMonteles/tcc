@@ -1,1 +1,3 @@
-Suspensão da sessão para realização da sessão solene em homenagem ao Círio de Nossa Senhora de Nazaré.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3e65fcae2a02492dc8783a77d57b8c2ab186f08fc0fae9fe9febfb94eab6bc9
+size 109

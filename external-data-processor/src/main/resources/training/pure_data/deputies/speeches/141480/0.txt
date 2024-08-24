@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a inclusão da disciplina Educação para o Trânsito no currículo escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dae1a0d77c9976296fe393d5e2c7647411a1f5231be8ba599e456ed0f8125ad
+size 115

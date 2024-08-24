@@ -1,1 +1,3 @@
-Inauguração pelo Ministro da Saúde, Alexandre Padilha, de unidades básicas de saúde e de outras obras em municipalidades paranaenses. Criação do curso de Medicina no Centro Universitário de Maringá - CESUMAR.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e29d8b59723dbcf797f02d83f472d9f1eca8c7f7a7dbfa33b7749e669f5c15f2
+size 217

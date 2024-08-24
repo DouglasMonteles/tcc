@@ -1,1 +1,3 @@
-Excelência da Escola SESC de Ensino Médio no bairro da Barra da Tijuca, na cidade do Rio de Janeiro. Transcrição de trecho da reportagem Uma aula para a carreira, de autoria do jornalista Daniel Barros e publicada pela revista Exame, sobre as experiências inovadoras da escola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dda61de3f2ab14410138e4ad693c0b2ff34a9104f298fa3cc902b7da03fada2
+size 282

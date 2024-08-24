@@ -1,1 +1,3 @@
-Greve dos professores do Instituto Federal de Educação, Ciência e Tecnologia do Estado do Espírito Santo - IFES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7cea222b769820a072df322c005254460e9ee79f1ad3dd4786aee25d3c5a790
+size 116

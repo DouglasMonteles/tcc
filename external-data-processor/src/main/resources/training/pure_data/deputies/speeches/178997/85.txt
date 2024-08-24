@@ -1,1 +1,3 @@
-Defesa da Medida Provisória nº 785, de 2017, sobre reformulação do Fundo de Financiamento Estudantil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a4aaff94ccf060fe8134a155eb6c6a2c29ca3813f8bca949b04d990dfd63a71
+size 105

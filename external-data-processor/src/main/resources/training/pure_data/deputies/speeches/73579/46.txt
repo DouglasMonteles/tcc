@@ -1,1 +1,3 @@
-Posicionamento do orador com relação às eleições indiretas para Governador de Brasília, Distrito Federal. Apoio à gestão do Governador Wilson Lima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:181261a82844ee06ccc428b912c03887bdaaf2a096ef8fa0ad7021d805d2fc0f
+size 155

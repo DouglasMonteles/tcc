@@ -1,1 +1,3 @@
-Apelo à Presidência de votação de matéria de interesse das pequenas e mcroempresas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3255233cab3c62e8caac0158f1e8101a7cfd4beae746711a6dc935bf5596ad4a
+size 88

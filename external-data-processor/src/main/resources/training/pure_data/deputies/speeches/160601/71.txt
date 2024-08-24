@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Constituição e Justiça e de Cidadania, de pedido de realização de audiência pública, e, pela Casa, de pedido realização de Comissão Geral, destinadas ao debate sobre o uso da fosfoetanolamina produzida pela Universidade de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8abb12835b1c74d6fbfe28d98897a0a36782fead4776ffdf785e8fb5e5f4b0b6
+size 275

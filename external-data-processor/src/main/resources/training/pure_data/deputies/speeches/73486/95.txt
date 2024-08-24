@@ -1,1 +1,3 @@
-Urgente votação pela Casa de projetos de lei sobre a extinção do fator previdenciário e a recomposição de perdas de aposentados e pensionistas mantidos pelo INSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5407b4fb89e7b421a39c03a52a6be612e8e77bfdbe878c76033cc6acbe898592
+size 169

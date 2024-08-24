@@ -1,1 +1,3 @@
-Conveniência do adiamento da votação do  Projeto de Decreto Legislativo  2.373 de 2006 (Aprova o texto do Acordo Básico de Cooperação Técnica entre o Governo da República Federativa doBrasil e o Governo do Burquina Faso, assinado em Brasília, em 30 de agosto de 2005).
+version https://git-lfs.github.com/spec/v1
+oid sha256:32f88ccf5738e75509cbf413292f3443041f420470aa9b5e80763f4c550e9cf9
+size 277

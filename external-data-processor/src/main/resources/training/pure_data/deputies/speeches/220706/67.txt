@@ -1,1 +1,3 @@
-O Deputado anunciou, como Presidente da Comissão de Integração Nacional e Desenvolvimento Regional, que irá ao Estado do Rio Grande do Sul para prestar solidariedade à população afetada pelas enchentes e prestar apoio às famílias das vítimas. Destacou que a Comissão encaminhará recursos do Orçamento para auxiliar na reconstrução do Estado e trabalhará em conjunto com a Defesa Civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0e3d97ba7f4f79d0a3396ab59f0433550029a2ad82068186b2e4cddda889c66
+size 401

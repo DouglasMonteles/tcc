@@ -1,1 +1,3 @@
-Associação ao pronunciamento de Parlamentar em homenagem póstuma ao ex-Senador Marco Maciel. Regozijo com a aprovação do requerimento de apreciação, em regime de urgência, do Projeto de Lei nº 4.384, de 2020, sobre a alteração da Lei nº 14.061, de 2020, com vista à extensão, às organizações sociais de saúde, da suspensão da obrigatoriedade de manutenção das metas quantitativas e qualitativas contratualizadas pelos prestadores de serviço de saúde, no âmbito do Sistema Único de Saúde - SUS, estabelecida na Lei nº 13.992, de 2020. Expectativa quanto à aprovação do mérito da proposição pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46a1ff924011d182e2d77b7b199ad0128caabbb8cb7192f7b9d83ea073cfe582
+size 649

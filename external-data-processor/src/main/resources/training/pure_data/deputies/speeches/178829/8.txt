@@ -1,1 +1,3 @@
-Cumprimentos ao Presidente Eduardo Cunha pela condução dos trabalhos da Casa. Propostas sobre segurança pública apreciadas pelos Deputados. Expectativa de votação em segundo turno da Proposta de Emenda à Constituição nº 300, de 2008, que estabelece que a remuneração dos Policiais Militares dos Estados não poderá ser inferior à da Polícia Militar do Distrito Federal, aplicando-se também aos integrantes do Corpo de Bombeiros Militar e aos inativos. Apresentação de proposição de autoria do orador em defesa da manutenção dos direitos políticos pelos policiais militares. Revisão do Regimento Interno da Câmara dos Deputados com vistas à propositura de aprimoramentos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95430d5264a20527100bc5908200ef799cf647f6d9459af64cc4316d71d980ca
+size 696

@@ -1,1 +1,3 @@
-Contrariedade a proposições relativas a alterações no Estatuto do Desarmamento. Expectativa de alteração da matéria pelo Plenário. Transcurso do Dia do Servidor Público. Congratulações ao Prefeito Eduardo Paes, da cidade do Rio de Janeiro, pela garantia de reajustes salarias aos servidores públicos municipais. Perplexidade com debates ofensivos ocorridos na Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:453dd611eeeb358b3d59ca996d22fa2e24be849415e76e295b840d3973c8f1e2
+size 377

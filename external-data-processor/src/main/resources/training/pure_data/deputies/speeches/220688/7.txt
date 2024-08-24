@@ -1,1 +1,3 @@
-Relançamento do Programa de Aquisição de Alimentos - PAA pelo Presidente Luiz Inácio Lula da Silva. Criação do Programa de Alimentação Saudável - PAS pelo ex-Governador do Estado do Piauí, Wellington Dias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73c6134b5f89b8c6dfac6820db5e6b3fa042fee828dfc812dacbf939f577d347
+size 215

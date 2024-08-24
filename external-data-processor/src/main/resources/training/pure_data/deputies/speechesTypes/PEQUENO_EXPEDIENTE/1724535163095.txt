@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre alteração da sistemática de premiação da Mega-Sena, modalidade lotérica mantida pela Caixa Econômica Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d67ffc454c834ef5a1ac485bebb9b9cad450872d47fb4d4e1eadf604cd55f22d
+size 155

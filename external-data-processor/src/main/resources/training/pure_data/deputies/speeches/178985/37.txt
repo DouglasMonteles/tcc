@@ -1,1 +1,3 @@
-Comemoração do 20º aniversário da beatificação do Confrade Antônio Frederico Ozanam, pelo Papa João Paulo II.
+version https://git-lfs.github.com/spec/v1
+oid sha256:958b4829832f5cedeb90111bf7bd458f783ac7d251f038f79dbba726c9a33ad1
+size 117

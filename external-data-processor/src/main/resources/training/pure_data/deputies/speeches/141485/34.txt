@@ -1,1 +1,3 @@
-Homenagem aos Deputados Henrique Fontana e José Guimarães. Votos de profícua legislatura aos Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43b10b1274fdfe940b79538594407d0c92d7151b654a7fef54737a6196cdff25
+size 110

@@ -1,1 +1,3 @@
-Inauguração de agência do Banco do Brasil no Município de Governador Valadares, Estado de Minas Gerais. Saudação ao novo presidente da Fundação Nacional de Saúde - FUNASA, Gilson de Carvalho Queiroz Filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efcc208f36ed23af67c3ded970f9e71d4b291229df1e74eade503039c083614b
+size 214

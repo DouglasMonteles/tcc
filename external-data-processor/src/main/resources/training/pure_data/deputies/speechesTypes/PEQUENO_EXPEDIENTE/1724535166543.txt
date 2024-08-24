@@ -1,1 +1,3 @@
-Regozijo com a inclusão do Município de Toledo, Estado do Paraná, na rota operacional da empresa Azul Linhas Aéreas Brasileiras S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b082932306884bb462f6b50024e52ce527f53234bda3193ffc586ecfc03cb91
+size 136

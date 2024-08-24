@@ -1,1 +1,3 @@
-Moção do Conselho Federal de Medicina - CFM, de repúdio ao tratamento dispensado por membros da CPI da Covid a depoentes médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2de1fc3aeccedbfdd7cce14f3bc81ca58f8fd2295bf8bbb57d42007b1aaccf7f
+size 133

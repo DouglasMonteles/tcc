@@ -1,1 +1,3 @@
-Prisão do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3117dd5624757730211833b3f1b62801c135d4099830c5c32f08aa2bd18ecac3
+size 52

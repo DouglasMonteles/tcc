@@ -1,1 +1,3 @@
-Manifestação de boas-vindas aos Deputados recém-empossados. Agradecimento aos eleitores do Estado do Rio de Janeiro pela reeleição da oradora. Desafios impostos aos novos legisladores. Empenho da Parlamentar na reinstalação da Frente Parlamentar Contra o Aborto e em Defesa da Vida. Descontentamento com a revogação da portaria do Ministério da Saúde de combate à impunidade de estupradores. Ameaças aos princípios basilares da família brasileira. Oposição da oradora ao governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed79453f45c18d688a1a8e3c509604e4ea124574cdda184a604dea00b4a1c08a
+size 504

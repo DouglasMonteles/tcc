@@ -1,1 +1,3 @@
-O Deputado criticou as declarações do Presidente Lula sobre a política fiscal, destacando a preocupação dos técnicos do Ministério da Fazenda em conter o déficit e a dívida do Governo, e a postura do Congresso em aprovar aumentos de impostos para alcançar superávit nas contas. Expressou preocupação com as declarações de Lula, que, segundo ele, demonstram desconhecimento do problema fiscal e podem ter impactos negativos na economia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a53ba5350f53944fc834f1e28a049e147d3cc5a095a41bbe4be230be04eb74f2
+size 450

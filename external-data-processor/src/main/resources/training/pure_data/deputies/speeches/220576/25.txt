@@ -1,1 +1,3 @@
-Prática de corrupção pelo Presidente da Assembleia Legislativa e pelo Governador do Estado de Alagoas. Reflexos do desvio de recursos públicos sobre a área de saúde e o funcionalismo alagoanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c422fb4583a493e8a12578a67fa87d08dafb27e9e89e670d95140c483422bf5
+size 199

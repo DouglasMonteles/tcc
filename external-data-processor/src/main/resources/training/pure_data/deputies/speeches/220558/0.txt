@@ -1,1 +1,3 @@
-Homenagem póstuma ao cidadão catarinense José Florentino Veiga
+version https://git-lfs.github.com/spec/v1
+oid sha256:5137157a0673162290e596524a6221096adf8f8860d7f412ed90da32f4355731
+size 65

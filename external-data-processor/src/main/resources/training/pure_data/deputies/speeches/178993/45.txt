@@ -1,1 +1,3 @@
-Necessidade de regulamentação da política de preços das passagens aéreas no País. Anúncio de realização de audiências públicas em Comissões da Casa para debate do tema. Transcurso do aniversário de Municípios do Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b10129e44d0b6e1ca19236352e2eb568fda9500f83d91fb989685b6d5abb176c
+size 246

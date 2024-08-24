@@ -1,1 +1,3 @@
-Agradecimentos pela eleição do orador. Prioridade da atuação parlamentar do Deputado em defesa do aprimoramento da segurança pública e do maior rigor da aplicação de penas a criminosos, especialmente reincidentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18615025a438d86e67d261db10d9f2455f392fc9b0c34a8739a052d805b53699
+size 221

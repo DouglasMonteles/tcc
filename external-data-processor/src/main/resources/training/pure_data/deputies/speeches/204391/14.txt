@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do § 7º do art. 12 da Lei nº 12.414, de 2011, contido art. 2º do Projeto de Lei Complementar nº 441, de 2017, sobre os cadastros positivos de crédito e a regulação da responsabilidade civil dos operadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e28d8cb9201dec1944bd096d588bf6d96c50d71ba052c325e3f8c13f6ddadf63
+size 305

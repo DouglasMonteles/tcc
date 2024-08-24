@@ -1,1 +1,3 @@
-Elogio ao Departamento Nacional de Infraestrutura de Transportes -  DNIT pelas obras de ampliação e construção de rodovias no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfbb186da49bcc97e07bd1387f38909df0fe3e04b26923b28f6ef444edaaa4d3
+size 148

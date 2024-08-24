@@ -1,1 +1,3 @@
-O Deputado celebrou a inauguração do hub de inovação do Instituto Aliança Empresarial (Hub Aliança) em Passo Fundo, Rio Grande o Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abd334275c64d7003456ad8d31dc7c72ae4a58d7f4013566f13c4ec41078dc90
+size 139

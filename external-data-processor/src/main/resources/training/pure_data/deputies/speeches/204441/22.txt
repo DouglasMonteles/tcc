@@ -1,1 +1,3 @@
-Vinculação entre tragédias de comoção nacional, a exemplo do assassinato de alunos e professores em escola no Município de Suzano, e a omissão dos pais no ensinamento aos filhos  de princípios cristãos e da obediência e do temor a Deus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87c0cf99a47490fa11b4f54b2032e32fb4d19acbc8abdc79276121673dc7134b
+size 246

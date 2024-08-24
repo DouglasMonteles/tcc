@@ -1,1 +1,3 @@
-Apreciação da Medida Provisória nº 983, de 2020, sobre as assinaturas eletrônicas em comunicações com entes públicos e em questões de saúde, e sobre as licenças de softwares  por eles desenvolvidos. Protesto contra a não discussão da Medida Provisória nº 952, de 2020, relativa à prorrogação do prazo de pagamento de tributos incidentes sobre a prestação de serviços de telecomunicações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c4bff24005fa47d0a5d86d3116c9ec4904c6fa4fe489437fde424beb6c2bccc
+size 410

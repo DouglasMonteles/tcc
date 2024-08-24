@@ -1,1 +1,3 @@
-O Deputado homenageou o Sargento Elbert Camilo da Silva, o Cabo Murilo de Farias Silva e o Soldado Gabriel Magalhães de Lima por terem alvejado, durante confronto armado, um criminoso que ameaçava a população e os agentes de saúde de Três Lagoas, Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fce112c684390b8a8f9695aa2aff32858c862eed592d67880e434a86400d7bbb
+size 272

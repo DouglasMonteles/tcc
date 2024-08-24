@@ -1,1 +1,3 @@
-Celebração do centenário da Semana da Arte Moderna e do bicentenário da Independência do Brasil. Discurso em homenagem à Semana da Arte Moderna, proferido pelo orador na Câmara Municipal de Belo Horizonte, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b380838aa8b17a3721a6a5634edc552dd5eb4ed1e92f345af5ec17a6b669f77
+size 236

@@ -1,1 +1,3 @@
-Perseguição política empreendida pelo Prefeito reeleito Nilo Coelho, do Município de Guanambi, Estado da Bahia, contra o candidato do PCdoB à Prefeitura Municipal, Paulo Costa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:425ee2621c67db44060c078b089615403367a320bc316eab582e25b7e776e0ea
+size 181

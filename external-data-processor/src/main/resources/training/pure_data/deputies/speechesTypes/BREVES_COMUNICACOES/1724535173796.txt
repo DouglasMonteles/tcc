@@ -1,1 +1,3 @@
-Lançamento pela Presidenta Dilma Rousseff do Plano Safra da Agricultura Familiar 2015/16.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60eee5ffb30fdedd33ffb552dddaaa60f6a8d48df6e0588df9d3849977bd9da2
+size 90

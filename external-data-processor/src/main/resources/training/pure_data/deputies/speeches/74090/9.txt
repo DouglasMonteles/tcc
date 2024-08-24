@@ -1,1 +1,3 @@
-Anúncio, pelo Ministro das Comunicações, Hélio Costa, da instalação de telecentros comunitários em Municípios do Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:135769ab4ef2b1688189b2720e35cb7a7be8481b697cf92331bee5e359d64990
+size 140

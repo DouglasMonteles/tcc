@@ -1,1 +1,3 @@
-Denúncia de Vereadores do Município de Salgueiro, Estado de Pernambuco, sobre o estoque de alimentos da merenda escolar com data de validade vencida. Descaso da administração municipal com a educação. Recusa do atual gestor ao rateio de precatórios entre os professores da rede pública de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f80ff21028a89c443f0dbc34c2c25854ec04f0328e1df1e9338618596065fee3
+size 304

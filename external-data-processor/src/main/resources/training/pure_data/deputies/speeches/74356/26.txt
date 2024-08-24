@@ -1,1 +1,3 @@
-Posicionamento favorável do PSC ao Substitutivo do Senado ao Projeto de Lei Complementar 184 de 2004 (Institui,  na forma do art. 43 da Consstituição, a Superintendência do Desenvolvimento Sustentável do Centro-Oeste - SUDECO, estabelece sua composição, natureza jurídica, objetivos, área de competência, instrumento de ação e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:10ea2ff878bab36dbe5dd3b07ec67b9637c7b49b5b0eafe722f41ca30b8c6ccb
+size 365

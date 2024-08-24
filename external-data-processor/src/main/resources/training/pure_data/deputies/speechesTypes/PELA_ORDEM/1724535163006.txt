@@ -1,1 +1,3 @@
-Negligência do Prefeito de Palmas, Estado do Tocantins, para com a saúde pública municipal. Inconveniência do gasto com a realização, pelo gestor municipal, da primeira edição dos Jogos Mundiais dos Povos Indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8b9fdd1ea7b6fd948fde34f7469f69b19724a3340c3ab5d4d8c0a06d941aa41
+size 224

@@ -1,1 +1,3 @@
-Preocupação com os rumos da reforma política, em discussão na Casa. Imperiosidade de proibição de financiamento privado de campanhas eleitorais. Expectativa da população brasileira por dispositivos que combatam a corrupção na política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbb52e954c5fbc5b70aa353baee4be9ac10c86a707b958830670aa93a382563f
+size 246

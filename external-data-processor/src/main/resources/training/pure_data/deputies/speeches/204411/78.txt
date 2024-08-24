@@ -1,1 +1,3 @@
-Contestação ao pronunciamento do Deputado Orlando Silva sobre o cometimento de crime pelo orador na evocação do art. 142 da Constituição Federal, relativo às atribuições das Forças Armadas brasileiras. Violação pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes, de preceitos constitucionais e de prerrogativas do Ministério Público e dos Poderes Legislativo e Executivo. Defesa da liberdade de expressão e da imunidade material.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49dfcd3a7e5de32bc2d3e846932e20f94d923d878f543c223195d17026ddd141
+size 456

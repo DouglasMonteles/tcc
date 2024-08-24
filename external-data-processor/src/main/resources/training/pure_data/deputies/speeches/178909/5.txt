@@ -1,1 +1,3 @@
-Apresentação da Proposta de Emenda à Constituição nº 2, de 2015, que altera o art. 166 da Constituição Federal para tornar obrigatória a execução da programação orçamentária de emendas de bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0348c7023f5523d036037723ab5451ba3118fd79d7a4784931a5c382628e0c67
+size 211

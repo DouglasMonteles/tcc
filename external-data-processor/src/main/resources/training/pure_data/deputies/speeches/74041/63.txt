@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Constituição e Justiça e de Cidadania, do Projeto de Lei nº 7.431, de 2006, referente à instituição do piso salarial profissional nacional para os profissionais da educação pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43f284d50e02939f8b132312c8eda7951d74678c543de158436e53e3788187e7
+size 222

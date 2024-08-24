@@ -1,1 +1,3 @@
-Solicitação à Presidência de tramitação de projeto de lei sobre a regulamentação da vaquejada como atividade desportiva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87078be4558627fcb6fea92711c9b622427b99c545023366986c69de413e7cee
+size 128

@@ -1,1 +1,3 @@
-Solicitação à Presidência de esclarecimentos sobre termos do acordo para votação do Projeto de Decreto Legislativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c577694ed00d382f22495efc9273d0b28b13d988b011c4d02ed829918649208
+size 121

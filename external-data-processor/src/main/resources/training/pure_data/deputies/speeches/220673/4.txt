@@ -1,1 +1,3 @@
-Protesto contra a reoneração de combustíveis. Críticas à Primeira-Dama do Brasil, Rosângela Lula da Silva, pela postura adotada diante da tragédia provocada por enchentes no litoral norte paulista.&nbsp;Defesa de demissão do Ministro das Comunicações, em face da utilização indevida de aeronave da Força Aérea Brasileira - FAB. Recorde no desmatamento na Amazônia. Repúdio ao governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b97800e1b76bdf213dedd958d5d4682b4755e48a7d3e71e622148836881455eb
+size 408

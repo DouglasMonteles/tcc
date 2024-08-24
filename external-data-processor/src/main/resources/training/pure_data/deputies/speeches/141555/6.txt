@@ -1,1 +1,3 @@
-Realização da Jornada da Cidadania no Município de Angra dos Reis, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acfc8690515047aa925b94fc92927f64de307e3518115f1547026379eba6227b
+size 95

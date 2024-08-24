@@ -1,1 +1,3 @@
-Desempenho do coordenador do Fórum Sindical dos Trabalhadores, José Augusto da Silva Filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41eb0df8ad4721ce9388a90116740affbb05891ba44d1b3d1da6c77086f6c948
+size 93

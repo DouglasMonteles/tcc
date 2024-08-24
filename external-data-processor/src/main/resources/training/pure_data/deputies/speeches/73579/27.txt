@@ -1,1 +1,3 @@
-Empenho do Deputado José Genoíno na votação do projeto de lei de interesse dos policiais militares e dos bombeiros militares do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e543ebeb5d3989591540d8fbe89b9782017b50adf49c224e9f71135972a927e
+size 149

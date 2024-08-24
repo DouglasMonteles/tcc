@@ -1,1 +1,3 @@
-Defesa de aprovação pela Casa do projeto de lei sobre a criação de plano de cargos e salários dos policiais e bombeiros militares do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8e953d104594f13e74368d649f8602f95b477d3d6481511357227b6a8e43fb8
+size 155

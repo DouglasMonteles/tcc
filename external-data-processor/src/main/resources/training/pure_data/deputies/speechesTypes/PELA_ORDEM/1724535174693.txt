@@ -1,1 +1,3 @@
-Preocupação da oradora com a inexistência de representantes da Região Sul do Brasil no grupo de trabalho destinado à discussão da proposta de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:475d42a365f59afcba773e55ceba372b2ccf1bc09f66e0f75155d62c837d3730
+size 168

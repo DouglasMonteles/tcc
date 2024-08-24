@@ -1,1 +1,3 @@
-Importância da votação do projeto de lei sobre a criação do Estatuto da Juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe12f9066765ff66d3af8f1e342afe9dd130465216cb2aaa1bc1e08a5c88b3a2
+size 87

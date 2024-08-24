@@ -1,1 +1,3 @@
-Solicitação ao Plenário de salva de palmas ao Presidente Eduardo Cunha em face do transcurso do seu aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9271de63403797cdea198c5ea9d01c348bd6b0d8e3e10fe05d8aa7d74d13148d
+size 127

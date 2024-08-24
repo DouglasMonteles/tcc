@@ -1,1 +1,3 @@
-Transcurso do 153º aniversário de criação da Vila de Sant'Ana do Paranaíba, no Município de Paranaíba, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e693a99209e6911ab64ffdc00711e30bee7c19eaa00d65ddeb96892a34db7e1
+size 139

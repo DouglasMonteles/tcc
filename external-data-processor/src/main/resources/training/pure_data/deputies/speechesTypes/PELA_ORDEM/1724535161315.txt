@@ -1,1 +1,3 @@
-Realização, pela Orquestra Criança Cidadã, de Recife, de apresentação em Kassel, Alemanha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39e9894b4ab17a927fa4d29297edbde153a1bacca0d9a7ecf67f22a20535783e
+size 96

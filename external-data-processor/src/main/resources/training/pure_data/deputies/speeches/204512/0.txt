@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado de Minas Gerais pela expressiva votação alcançada nas eleições para a Câmara dos Deputados. Maior atenção das autoridades competentes para com a região norte mineira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3a88ae556d0a39a446a8a5414b86991aefa4387ff5b4de4528ebf54abd61232
+size 213

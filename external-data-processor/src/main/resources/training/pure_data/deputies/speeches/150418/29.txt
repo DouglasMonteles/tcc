@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional de Luta pela Eliminação da Discriminação Racial (51º aniversário do massacre de civis negros no distrito de Shaperville, em Joanesburgo, África do Sul). Homenagem a Nelson Mandela e a Martin Luther King, expoentes na luta contra o racismo. Avanço de políticas públicas e ações afirmativas pela erradicação da intolerância racial no Brasil. Compromisso parlamentar do orador contra o preconceito e a intolerância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59882506a1ef6c87dee41adf74511acc6ab9674502589d89b8c8ca0ae48b48ec
+size 460

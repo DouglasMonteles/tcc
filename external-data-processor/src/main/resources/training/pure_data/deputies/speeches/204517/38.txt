@@ -1,1 +1,3 @@
-O Relator explicou aspectos do Projeto de Lei nº 11.247, de 2018, que disciplina o aproveitamento de potencial energético offshore e dá outras providências. Esclareceu que o projeto em discussão não trata de subsídios ou novas iniciativas relacionadas ao carvão. Enfatizou que a proposição está focada na promoção da energia eólica offshore como uma oportunidade para o Brasil avançar no setor energético e mencionou disposições para reduzir a obrigação de adquirir energia de termelétricas a gás, promovendo assim fontes de energia renovável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b77d6b0af3ad54e038268e361236dd4bb0fc4f6cb6c3edcca6d604f7b1bb5b5
+size 566

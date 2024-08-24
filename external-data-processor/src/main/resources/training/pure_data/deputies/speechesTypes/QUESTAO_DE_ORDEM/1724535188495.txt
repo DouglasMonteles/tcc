@@ -1,1 +1,3 @@
-Requer, nos termos regimentais, verificação de votação do Requerimento  de discussão emenda por emenda à Medida Provisória 511 de 2010 (Dispõe sobre medidas para assegurar a sustentabilidade econômico-financeira do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, sobre autorização para garantia do financiamento do Trem de Alta Velocidade - TAV, no trecho entre os Municípios do Rio de Janeiro - RJ e Campinas - SP, e dá outras providências), tendo em vista a existência de dúvida quanto ao resultado da votação proclamado pela Presidência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a04dd36517507b9727857a1dfb88d38fc458903089ffe1cd4f7bfcbf67b693d4
+size 574

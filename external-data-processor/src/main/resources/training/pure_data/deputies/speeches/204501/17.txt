@@ -1,1 +1,3 @@
-Discussão do Projeto de Decreto Legislativo nº 746-B, de 2017, acerca da aprovação do texto do Memorando de Entendimento entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha sobre Programa de Férias-Trabalho, assinado em Brasília, em 13 de fevereiro de 2015. Ocorrência de massacre em escola no Município de Suzano, Estado de São Paulo. Propagação da cultura do ódio no País. Transcurso do 1º aniversário do assassinado da Vereadora Marielle Franco. Exigência de identificação dos mandantes do crime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18eb982416f3347dcf54e75c114948edb6b5803236154239e686bc5861bf0b25
+size 562

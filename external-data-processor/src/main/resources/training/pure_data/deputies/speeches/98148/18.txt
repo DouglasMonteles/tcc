@@ -1,1 +1,3 @@
-Visita do Ministro dos Transportes, Renan Filho, a obras rodoviárias nos Municípios de Florianópolis, Blumenau e Jaraguá do Sul, Estado de Santa Catarina. Implementação do Programa Minha Casa, Minha Vida. Desempenho dos Ministérios dos Transportes e das Cidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:534832d9f717d4c0d18a155f6d6457ed0237dfa60853c9ae3390eb576f29c3b2
+size 269

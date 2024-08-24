@@ -1,1 +1,3 @@
-Elogio ao Ministro da Saúde, José Gomes Temporão, pela decisão concernente a efetivo oferecimento, em municípios situados em regiões fronteiriças, de atendimento médico e odontológico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84873d8d2b686e1c55a430db131a431a0e3a3db15bb42727343f4aad1acc845d
+size 193

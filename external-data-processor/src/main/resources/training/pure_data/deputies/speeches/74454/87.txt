@@ -1,1 +1,3 @@
-Sessão Solene em homenagem aos 80 anos da Ordem dos Advogados do Brasil - Secção Ceará.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6c58ea021e2d7a214e4ae115e08f7ac9f444e7288dbaa5f8fb9b4000a23dba1
+size 240

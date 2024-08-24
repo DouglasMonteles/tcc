@@ -1,1 +1,3 @@
-O Deputado homenageou os empresários Branco e Marlon Amaral, fundadores da rede Atacadão Dia a Dia; e Sued da Costa e Aeid Yusuf Hasan Ali Mustafa, da empresa Star Móveis, atuantes no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75389e6d9b56348a62495e6c3c504c8229ef5cb6feae4be70d27145cab6b5c8e
+size 204

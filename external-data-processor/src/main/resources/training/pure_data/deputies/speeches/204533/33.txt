@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário no 20, apresentada ao  Projeto de Lei nº 4.372, de 2020, sobre a regulamentação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b7eef58376032870639ac506837501cb9a0b4ad5a7fd2f631903f4a0d05bc88
+size 323

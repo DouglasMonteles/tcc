@@ -1,1 +1,3 @@
-Realização da Festa de Nossa Senhora do Rosário, no Município de Pombal, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:422bee10161eb5db0a62d9f4cb3a06dcd162481e0bca04769704f2761f2c1323
+size 96

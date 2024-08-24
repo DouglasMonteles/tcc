@@ -1,1 +1,3 @@
-Compromisso do orador com atuação responsável na Comissão Especial do Impeachment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecd6c92f68811d035cdf64132d384954b4fe0193bfa107ab07abd58885565353
+size 86

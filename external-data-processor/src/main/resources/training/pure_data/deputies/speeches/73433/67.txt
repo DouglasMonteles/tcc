@@ -1,1 +1,3 @@
-Indagação ao Líder  do Governo, Deputado Henrique Fontana,  sobre a existência de acordo para votação de matéria incluída na pauta da Ordem do Dia, para dar prosseguimento à presente sessão extraordinária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71f6c1a7d1175c6c87facb9c3d3025f5af379b253d17a0bd194f08a50c092d2f
+size 216

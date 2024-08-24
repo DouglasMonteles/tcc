@@ -1,1 +1,3 @@
-Apresentação pelo programa Fantástico, da Rede Globo de Televisão, de reportagens sob o título Meninas do Brasil, a respeito da exploração sexual de menores. Trabalhos desenvolvidos pela Comissão Parlamentar Mista de Inquérito da Exploração Sexual e pela Frente Parlamentar em Defesa dos Direitos da Criança e do Adolescente. Expectativa de aprovação do Projeto de Lei nº 253, de 2004, do Senado Federal, sobre a alteração de dispositivo no Código Penal acerca do crime de violência sexual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:332067760111c73c19215073ec88167b05486f6264f7526db932f2558c51d93c
+size 509

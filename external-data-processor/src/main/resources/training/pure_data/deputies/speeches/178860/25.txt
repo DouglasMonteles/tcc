@@ -1,1 +1,3 @@
-Preocupação de políticos petistas com a possível candidatura do Prefeito de Salvador, Antônio Carlos Magalhães Neto, ao Governo do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b84c25135b8ff43d2b5ae6729b56df98ec4b9ba37151a960a618d7a9bf8cf702
+size 153

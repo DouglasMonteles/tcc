@@ -1,1 +1,3 @@
-Encaminhamento da votação do Projeto de Lei 10 de 2008-CN (Abre  aos Orçamentos Fiscal da União, crédito especial em favor do Senado Federal, da Justiça Eleitoral, e do Ministério Público da União, para  os fins que especifica, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:abcabe4afc44eb18e31c2b6634c0ba890a5b1079c197189a8ad286b026a026d5
+size 265

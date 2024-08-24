@@ -1,1 +1,3 @@
-Falecimento do Senador Jefferson Péres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a18036e4e23de3b64e6e584dd5c8fba4d489262b968daef222de8ce95bab7a0f
+size 40

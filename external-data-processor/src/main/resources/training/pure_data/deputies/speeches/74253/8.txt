@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos quarenta anos da Associação Brasileira das Administradoras de Imóveis - ABADI.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b281b48a91a1a4847aedc1801e41854d8c354e58fd327cb6750d546e4b34217a
+size 262

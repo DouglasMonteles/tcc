@@ -1,1 +1,3 @@
-Saudação ao povo paraibano em nome do Deputado bolsonarista, Cabo Gilberto Silva. Gestão desastrosa do Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82d51f3d4cce4d05ab6cb44df1befafa9b8066b6eae6a1300f4cd5af7ec53a1d
+size 144

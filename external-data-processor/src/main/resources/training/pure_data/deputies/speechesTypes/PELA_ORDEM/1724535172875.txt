@@ -1,1 +1,3 @@
-Manifestação de boas-vindas ao Deputado Darci de Matos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77c62a9447c020bb9cc95aa19251f5bcbfe43cad2977bf476d6901890aeedf62
+size 57

@@ -1,1 +1,3 @@
-Defesa de proposta de reforma tributária com revisão da incidência do ICMS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6db55b6df6cdb6534e09bfa4b6d72a6e5abf400143169e97a304e5470c2ab82
+size 78

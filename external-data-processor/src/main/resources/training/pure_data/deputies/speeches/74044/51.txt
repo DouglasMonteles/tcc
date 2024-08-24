@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo à expressão  a concessão de crédito a pessoa jurídica, na forma prevista no caput do art. 6º fica condicionada à existência de cláusula contratual de não demissão de  empregados, constante da Emenda 8 à Medida Provisória  451 de 2008 (Altera a legislação tributária federal, e dá outras providências), objeto de DVS, para inclusão no  art. 6º do Projeto de Lei de Conversão, que afasta a exigência de regularidade fiscal nas operações de crédito realizadas com instituições financeiras públicas, pelo prazo de seis meses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b2b05562349f99adb1091c3dd6e44d700491a1421f41e9eae495796c0416bc8
+size 586

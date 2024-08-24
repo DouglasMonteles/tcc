@@ -1,1 +1,3 @@
-Apoio a proposição relativa à isenção de tributo para a aquisição de arma de fogo a profissionais de segurança pública dos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea5a6afb8efaac3e5d30e156c8cfd8cad2d1aa2538a829700469462df0b3aed0
+size 144

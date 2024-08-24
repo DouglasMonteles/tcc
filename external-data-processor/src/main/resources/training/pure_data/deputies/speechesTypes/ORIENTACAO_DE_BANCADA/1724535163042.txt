@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PV/PPS    ao   Projeto de Decreto Legislativo 2.996 de 2010 (Aprova o texto do Acordo de Cooperação Cultural entre o Governo da República Federativa do Brasil e o Gabinete de Ministros da Ucrânia, assinado em Kiev, em 2 de dezembro de 2009).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1592d2db57e7298076cd4f72b4cd94aac1952efd52ada43cf06cf62eb19aceca
+size 280

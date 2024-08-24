@@ -1,1 +1,3 @@
-Discussão da  Medida Provisória 512 de 2010 (Altera a Lei 9.440 de 1997, que estabelece incentivos fiscais para o desenvolvimento regional e da indústria automotiva).
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfbf2e63fcff1d7482c264ddeb3100f88d2c800941f216a3f4a0d054561dd7c7
+size 169

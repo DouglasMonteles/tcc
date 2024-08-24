@@ -1,1 +1,3 @@
-Ponderações sobre o não atendimento pelo Governo de reivindicação dos agentes penitenciários na reestruturação  do Plano de Cargos e Salários inscrita na Medida Provisória 441 de 2008 ( Dispõe sobre a estruturação e reestruturação de planos de cargos e planos de carreiras e a reorganização e simplificação  das estruturas remuneratórias no âmbito da Administração Pública Federal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bfe52e6904bb2e6d0a586e148b6a30c68f936485eb07fb881801427b2483f15
+size 406

@@ -1,1 +1,3 @@
-Contestação à declaração do Presidente do Senado Federal sobre o posicionamento do PSDB acerca da votação do Orçamento Geral da União. Defesa de imediata convocação de sessão conjunta para apreciação de vetos presidenciais e subsequente votação da lei orçamentária. Anúncio de ajuizamento de mandado de segurança perante o Superior Tribunal de Justiça para obtenção de informações sobre investimentos realizados pela PETROBRAS. Solicitação à Presidência de uso da palavra pelo orador no tempo destinado ao Líder da Minoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcf5081aa4d63f0e73db867fbf83109a41305b23250d66f388c7967881a72c7b
+size 553

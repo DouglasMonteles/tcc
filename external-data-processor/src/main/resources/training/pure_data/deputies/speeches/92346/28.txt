@@ -1,1 +1,3 @@
-Descaso do Governo Dilma Rousseff com a morte acidental de atleta brasileiro participante de prova de ciclismo nos Jogos Mundiais de Policiais e Bombeiros nos Estados Unidos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ddf491aeaa6f38c34bbd11e3b4ff128d67ebb7ffbd10c61d2a7222b98dacfa9
+size 174

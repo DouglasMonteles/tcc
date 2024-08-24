@@ -1,1 +1,3 @@
-Falecimento do editor da revista Caros Amigos, jornalista Sérgio de Souza. Mensagem sob o título Parar a Roda Bloqueando Seus Raios, de autoria do Bispo Emérito de São Félix do Araguaia, D. Pedro Casaldáliga.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbd3a1305aad6f8923a4f0b9b8a270b68a6e4ded0794e17532475bf5a7263315
+size 214

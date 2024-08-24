@@ -1,1 +1,3 @@
-Publicação, pela empresa VALEC - Engenharia, Construções e Ferrovias S.A., da licitação para as obras da Ferrovia Norte-Sul e da Ferrovia da Integração do Sul S.A. - FERROSUL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d983e7b3c9db505697e18e6d37a31fe72a4d840822330542a4663fa06ba3eb95
+size 183

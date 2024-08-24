@@ -1,1 +1,3 @@
-Interpelação ao Relator da Medida Provisória 445 de 2008 (Dispõe sobre a dispensa de recolhimento de parte dos dividendos e juros sobre capital próprio pela Caixa Econômica Federal), sobre o prazo de devolução ao Tesouro Nacional dos recursos disponibilizados para a CEF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d57eaf7e2ce24917a1d1ac8744041ba0f0f3394085b965acfc4da85d8a3b020b
+size 279

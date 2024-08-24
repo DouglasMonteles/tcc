@@ -1,1 +1,3 @@
-Escalada da violência no Brasil. Expectativa quanto à redução das desigualdades sociais no mundo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82b9046fd9b3ffdd2c3101e99d05894bff91d8f9bc0aeb807ba75ad5dee414a5
+size 101

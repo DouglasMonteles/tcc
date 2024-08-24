@@ -1,1 +1,3 @@
-Transcurso do Dia da Extensão Rural. Realização de encontro de entidades representativas do setor na cidade de Belo Horizonte, Estado de Minas Gerais. Criação da Agência Nacional de Assistência Técnica e Extensão Rural - ANATER.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab48138dded1bbcd8b9d5f8d01a5aaa20883316b5370cb5aa84e4a3ec91f4d7a
+size 237

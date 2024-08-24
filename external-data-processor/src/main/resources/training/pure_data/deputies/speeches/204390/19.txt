@@ -1,1 +1,3 @@
-Indignação com pronunciamentos de Deputados da Esquerda contra o Governo Jair Bolsonaro. Inconsistência de denúncias de corrupção no âmbito do Ministério da Educação. Probidade do ex-Ministro Milton Ribeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8cde91aa9765924448b33303c770c745eed1afbde65eb009e7c79056c9e39ad
+size 217

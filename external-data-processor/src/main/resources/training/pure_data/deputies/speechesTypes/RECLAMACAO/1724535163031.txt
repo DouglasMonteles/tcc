@@ -1,1 +1,3 @@
-Reclamação contra o descumprimento  de normas regimentais relativas à  indicação, pelas Lideranças partidárias, dos membros da Comissão Especial destinada ao exame do Projeto de Lei nº 6.826, de 2010, sobre a responsabilidade administrativa e civil de pessoas jurídicas pela prática de atos contra a administração pública nacional e estrangeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cba5fffcf491abbdf93ab9015c9d3297c568ca8f92431804a706c3b6b000e762
+size 359

@@ -1,1 +1,3 @@
-Sugestão à Presidência de realização de leitura do parecer ao projeto sobre o regime de tributação para pequenas e microempresas, o Super-SIMPLES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:437dcad59759b6a78c9643958015fbe78bb5f725c2377c6e087de88ea4f4aa8d
+size 153

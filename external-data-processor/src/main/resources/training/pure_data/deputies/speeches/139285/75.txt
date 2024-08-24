@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PSB/PCdoB/PMN/PRB à Emenda 6, do Senado, destacada, ao Projeto de Lei de Conversão 13 de 2009 (Medida Provisória 462 de 2009 ), que dispõe sobre a prestação de apoio financeiro pela União a entes federados que recebem recursos do Fundo de Participação dos Municípios - FPM, no exercício de 2009, com o objetivo de superar dificuldades financeiras emergenciais, e dá outras providências,que inclue o Porto Sul localizado em Ilhéus, no Estado da Bahia, na Relação Discritiva dos Portos Marítimos, Fluviais e Lacustres do Plano Nacional de Viação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e2195e37315ed28f20694524bd2aef6965037b5988cb4ab7cc0989e6b4439da
+size 598

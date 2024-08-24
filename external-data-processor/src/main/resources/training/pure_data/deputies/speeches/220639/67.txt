@@ -1,1 +1,3 @@
-O Deputado apoiou a medida provisória enviada pelo governo do Presidente Lula para tributar fundos de capital próprio, offshores e fundos no exterior, destacando sua importância para combater a injustiça tributária. Ressaltou que a medida não afeta pessoas comuns, mas sim os super-ricos, que agora serão obrigados a contribuir. Elogiou a iniciativa e pediu que os deputados a aprovem como um passo para um sistema tributário mais justo. Também enfatizou a necessidade de aprovar a reforma da renda e concluiu com um apelo para taxar os bilionários do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b8a380f484bee18ba3f64484d9716fa154fe19c1aa56092327ca186da2229ff
+size 569

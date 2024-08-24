@@ -1,1 +1,3 @@
-Ataques de Deputados bolsonaristas ao Presidente Luiz Inácio Lula da Silva. Inconsistência de questionamentos sobre a visita do Ministro da Justiça e Segurança Pública, Flávio Dino, ao Complexo da Maré, no Rio de Janeiro, Estado do Rio de Janeiro. Contrariedade à intervenção federal na área de segurança pública do Estado do Rio Grande do Norte. Posicionamento contrário à criação de CPMI para investigação de atos de vandalismo praticados contra as sedes dos Poderes da República. Tentativa de bolsonaristas de promoção de golpe de Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87105bd171454cf79c55bd5eb2f925bcbddb26d4195d7d43576ecd4f22b4fd34
+size 563

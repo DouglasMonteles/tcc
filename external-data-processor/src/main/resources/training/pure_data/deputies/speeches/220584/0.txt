@@ -1,1 +1,3 @@
-Presença no plenário do Presidente da Assembleia Legislativa do Estado da Paraíba, Deputado Adriano Cezar Galdino de Araújo, irmão do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:faed05b7cc589d05336b67e74d04aa210677544f17d3ebede102b8ca8d7a08ea
+size 146

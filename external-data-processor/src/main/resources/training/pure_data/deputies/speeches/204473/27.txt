@@ -1,1 +1,3 @@
-Transcurso do Dia do Marinheiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da85a79422d1432c07ff3c629814ada528f2eb57a740dd8e6d46c35683f697a9
+size 32

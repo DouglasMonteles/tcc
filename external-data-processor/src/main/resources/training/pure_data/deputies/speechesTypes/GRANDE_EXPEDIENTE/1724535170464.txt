@@ -1,1 +1,3 @@
-Transcurso do Dia do Cacau. Retrospectiva do processo de exploração do cacau no Estado da Bahia  e no País. Importância do Comissão Executiva do Plano da Lavoura Cacaueira - CEPLAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d0e8cdd0a611252869d0162371686c69d1ce0095ad1626c3cf48aa545c82d45
+size 186

@@ -1,1 +1,3 @@
-Participação do orador em comitiva do Governador Jaques Wagner em inauguração de creche-escola no Município de Cabaceiras do Paraguaçu, Estado da Bahia. Pavimentação da BR-101 e inauguração de obra rodoviária na localidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fdc03fe8e180114de4eef8bc63588e41c3ef9e00b7e3a0609d327c83044c979
+size 234

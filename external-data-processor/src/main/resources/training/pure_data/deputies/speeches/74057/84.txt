@@ -1,1 +1,3 @@
-Apoio do Governador Jaques Wagner às demandas das Prefeituras Municipais do Estado da Bahia. Conveniência de redução da taxa básica de juros e das metas do superávit primário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bee5a215032002ed8dfc74323c3d7a692b38b696d9df03b9bd68c5a6799db83
+size 182

@@ -1,1 +1,3 @@
-Prejuízo à população do Estado do Paraná com o fim do Programa Aqui tem Farmácia Popular, do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8ba4e4af6a50030b8f1c629ef9f1cba5823a1cd0453d253229df676c1642fbd
+size 115

@@ -1,1 +1,3 @@
-Aprovação, pela Assembleia Legislativa do Estado do Paraná, do Projeto de Lei nº 182, de 2021, sobre a criação das normas gerais de funcionamento de ambiente regulatório experimental, denominado de sandbox regulatório. Condições exigidas para a renovação da concessão do Parque Nacional do Iguaçu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af6d79a3fe8fdba6fe4d62f38ab2c8868f4f9b8db08c0e5d0972c800ebd20980
+size 311

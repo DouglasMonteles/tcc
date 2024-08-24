@@ -1,1 +1,3 @@
-Realização em Salvador, Estado da Bahia, de reunião destinada ao debate da transferência para as Santas Casas de Misericórdia e hospitais filantrópicos, de recursos anunciados pelo Ministro da Saúde, Alexandre Padilha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1efd54e4934270a56306c076d9371151416aa34ff7ed814d494dbccec6cec6ca
+size 225

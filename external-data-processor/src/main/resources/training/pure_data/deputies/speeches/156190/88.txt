@@ -1,1 +1,3 @@
-Necessidade de investigação da interceptação criminosa de informações da Operação Lava-Jato, patrocinada por site  da Esquerda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:596203d57fdf7cb829cd86e286b55920f1312b7d913a76b8f575c3abe2f69229
+size 135

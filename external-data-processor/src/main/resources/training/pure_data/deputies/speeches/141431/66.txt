@@ -1,1 +1,3 @@
-Visita do Presidente Luiz Inácio Lula da Silva e comitiva às obras de transposição de águas do Rio São Francisco. Transcurso dos 506 anos da descoberta do Rio São Francisco. Realização, pela Superintendência Regional da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba - CODEVASF em Petrolina, de atividades ao ensejo da efeméride. Revitalização da Bacia Hidrográfica do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:996fcd2530fef5e47919d513d47c695c01b52967b2198bf010d2232a454a5471
+size 427

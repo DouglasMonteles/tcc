@@ -1,1 +1,3 @@
-Repúdio à censura imposta a Parlamentares e civis conservadores por membros do Supremo Tribunal Federal. Apelo ao Senado Federal por apreciação de pedidos de impeachment contra membros da Suprema Corte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e958641293b4204ff560002f50e6920fb9c5d01511793a8ee8442fab9ee9edaf
+size 206

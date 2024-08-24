@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos 79 anos do Departamento Nacional de Produção Mineral - DNPM. NÃO LIBERAR PARA PÁGINA DO ORADOR.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b8c215ab6f20029a170eb28859bea071900df6245f448f15e2c5e6fa6079d7c
+size 131

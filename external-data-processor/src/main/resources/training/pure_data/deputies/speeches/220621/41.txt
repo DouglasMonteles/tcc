@@ -1,1 +1,3 @@
-Critica à postura de oradora anterior apoiadora do Presidente Luiz Inácio Lula da Silva em favor de ações prejudiciais ao país. Recentes acontecimentos negativos, como apagões em 17 Estados brasileiros, aumentos nos preços dos combustíveis e queda contínua no IBOVESPA. Período de caos econômico vivido no país.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24c9c52f8b860105a6b282b3da22e6a36afcf8bd1745b58c3a7a1bc3993d0ab3
+size 323

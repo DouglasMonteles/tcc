@@ -1,1 +1,3 @@
-Apoio à Campanha Nacional de Combate à Obesidade, especialmente em relação às escolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7cebb4203147c2a912646ddc0f815beffb6973bf89c708691f62204ac55369d
+size 91

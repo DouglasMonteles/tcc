@@ -1,1 +1,3 @@
-Invasão de propriedades rurais produtivas pelo Movimento dos Trabalhadores Rurais Sem Terra - MST. Ações do Presidente Luiz Inácio Lula da Silva contra o agronegócio e os produtores rurais brasileiros. Participação do Líder do MST, João Pedro Stédile, na comitiva do Presidente da República em visita à República Popular da China.
+version https://git-lfs.github.com/spec/v1
+oid sha256:197dbeab80409b9328b2a67e267e83eb103f8693440aa8382b438089348dbd4c
+size 343

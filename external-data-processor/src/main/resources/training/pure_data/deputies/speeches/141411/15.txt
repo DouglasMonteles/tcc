@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT  ao  Requerimento de encerramento da discussão das Emendas do Senado ao Projeto de Lei de Conversão 13 de 2009 (Medida Provisória 462 de 2009 ), que dispõe sobre a prestação de apoio financeiro pela União a entes federados que recebem recursos do Fundo de Participação dos Municípios - FPM, no exercício de 2009, com o objetivo de superar dificuldades financeiras emergenciais, e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9873acb80a1ea96817d521262574150f563d4821833293f3904d9bfc1984aa87
+size 449

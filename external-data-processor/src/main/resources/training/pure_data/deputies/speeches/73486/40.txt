@@ -1,1 +1,3 @@
-Incoerência entre o pedido de imediato início da Ordem do Dia e a obstrução às votações pelo DEM. Necrológio do Cel. Celso Souza Soares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cdbd90b1c3615713ceeba908697de0f32ceb3c30b8188fb33a432597f3c37cc
+size 144

@@ -1,1 +1,3 @@
-Transcurso do Dia do Atleta Profissional - 10 de fevereiro. Importância da Lei Agnelo/Piva e da instituição do Bolsa-Atleta como estímulo aos atletas brasileiros de alto rendimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f45507bf219fdbf50c3206c8083fb0fec1288783038cede91c8c9ea6bf21f5d
+size 185

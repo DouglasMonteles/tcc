@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 25, de 2019, sobre a instituição do Sistema Nacional de Educação - SNE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dae342d907efda186567372a67df3ec2ec9b4e90b0435eaddf53fed7a3a66e88
+size 202

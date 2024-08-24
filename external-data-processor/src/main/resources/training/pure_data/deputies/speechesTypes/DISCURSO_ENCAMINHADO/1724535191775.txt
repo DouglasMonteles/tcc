@@ -1,1 +1,3 @@
-Responsabilidade do poder público e da sociedade brasileira com a sustentabilidade e preservação ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02edde8ae5a03a63ad69f56c4efcdc51d435a85a14157834d3670dcec97732c4
+size 110

@@ -1,1 +1,3 @@
-Congratulações aos Parlamentares pela aprovação do Projeto de Lei nº 4.402, de 2016, sobre a alteração da Lei nº 13.146, de 2015, acerca da instituição da Lei Brasileira de Inclusão da Pessoa com Deficiência, (Estatuto da Pessoa com Deficiência), com vista à validade de laudos médicos exigidos para participação de pessoas com deficiência em concursos públicos e processos seletivos. Apoio ao Projeto de Lei nº 214, de 2023, a respeito do prazo de validade do laudo médico pericial do Transtorno do Espectro Autista - TEA no âmbito nacional. Leitura de mensagem do menor autista de 8 anos de idade, Davi Lucas Silva Evangelista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95d7f2c67458c638f3aef82ce9fd2b62fe79e2773d41e9cad0fcacd3a67046da
+size 651

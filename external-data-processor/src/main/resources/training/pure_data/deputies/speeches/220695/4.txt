@@ -1,1 +1,3 @@
-Denúncia de violência praticada contra crianças e adolescentes no País. Adoção de políticas públicas de amparo ao menor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80702fa81086b60a823877f95d9fea9fd71efe1d6a981c00629fafb4d614ad81
+size 128

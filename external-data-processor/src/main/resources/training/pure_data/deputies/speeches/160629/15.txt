@@ -1,1 +1,3 @@
-Conveniência de realização, pelos governantes e pelos departamentos de trânsito no País, de amplas campanhas educativas destinadas aos condutores de ciclomotores de baixa cilindrada, como mononetas e mobiletes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2557dc1846b5822a45a5856e2a6dc407402565a0d17f730a4c90106a97cc8142
+size 215

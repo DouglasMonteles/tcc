@@ -1,1 +1,3 @@
-Pedido à Presidência de inclusão na pauta da Medida Provisória nº 1.039, de 2021, sobre a instituição do auxílio emergencial de 2021. Defesa de fixação do valor do auxílio emergencial em  500 reais, e sua prorrogação até o mês de dezembro de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:febf478b3d45c894ce259fa83b011ac0a01fe5ba5e939985297930748f1434b2
+size 262

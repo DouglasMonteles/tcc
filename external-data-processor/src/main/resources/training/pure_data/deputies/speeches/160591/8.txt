@@ -1,1 +1,3 @@
-Agradecimentos aos Deputados pelo apoio à aprovação do texto na íntegra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2c8b45fb79cf1e176dad80bf8941f00eb19ad79da12d209e73120a708c9a79f
+size 76

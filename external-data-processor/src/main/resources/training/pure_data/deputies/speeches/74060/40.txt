@@ -1,1 +1,3 @@
-Transcurso do 111º aniversário de emancipação político-administrativa do Município de Mairi, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48cb2e879074c0892afa307ae1cf08df1c87e9a08163c6429ef1d7fa39fe85aa
+size 115

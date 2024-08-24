@@ -1,1 +1,3 @@
-Apoio à prisão de condenados em segunda instância. Congratulações ao povo boliviano pela deposição do ditador Evo Morales.
+version https://git-lfs.github.com/spec/v1
+oid sha256:102063f6203ae7c2008f26d8d5e2a2cbe860ed283d030d75d5efa8fb1b1bf20e
+size 129

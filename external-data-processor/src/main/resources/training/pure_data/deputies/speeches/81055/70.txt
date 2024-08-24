@@ -1,1 +1,3 @@
-Repúdio a decreto presidencial sobre a extinção de funções do Conselho Nacional dos Direitos da Criança e do Adolescente e sobre a retirada de prerrogativas do órgão. Defesa de sustação dos efeitos do decreto pela Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dfe4eb6dda7b56a0c93137290d69476e798ca036ed4f605deb045e095582a50
+size 229

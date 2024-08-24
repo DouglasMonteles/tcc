@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 1º do texto original do Projeto de Lei nº 873, de 2020, sobre a alteração da Lei nº 13.982, de 2020, com vista à mudança nas regras do auxílio emergencial; à vedação da suspensão de benefícios previdenciários e assistenciais concedidos aos idosos, às pessoas com deficiência ou com enfermidade grave durante a pandemia da Covid-19, para a sua inclusão no Substitutivo oferecido pelo Relator da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad85350263fb2a974c7c48406ad3003bd3269d003a345ab95a15eebdce45cccd
+size 524

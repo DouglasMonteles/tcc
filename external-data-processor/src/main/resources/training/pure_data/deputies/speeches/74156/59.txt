@@ -1,1 +1,3 @@
-Inclusão dos Municípios de Caratinga e Governador Valadares no Programa Saneamento para Todos - Abastecimento de Água e Esgotamento Sanitário. Avaliação do Programa do Empreendedor Individual, lançado pelo Governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98f343fa15278e12a26c2c3b76e3681d39b443c17e81441d95da17f9b158b7af
+size 229

@@ -1,1 +1,3 @@
-Falecimento do ex-Senador Garibaldi Alves. Solidariedade aos  seus familiares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46efaa0142cc02f3ae8be8157dde28e36cd8703d6a3948ad337c1d9bcd2e708b
+size 78

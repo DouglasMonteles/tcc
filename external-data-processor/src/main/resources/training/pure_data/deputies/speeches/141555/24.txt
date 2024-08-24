@@ -1,1 +1,3 @@
-Transcurso do 18º aniversário de vigência do Código de Defesa do Consumidor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f487d58cc7bd933b22fb19f8dc613691380c826c260f8ed1c8e9e4f31c911747
+size 80

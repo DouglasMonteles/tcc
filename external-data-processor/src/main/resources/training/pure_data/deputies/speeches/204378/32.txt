@@ -1,1 +1,3 @@
-Equívoco do conceito da sociedade a respeito dos trabalhos parlamentares. Importância da discussão, pela Casa, de temas de relevante interesse da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81b5b913c14e66eb803ede3f8dba0f823574ec886eff12f68ae74159186e2ef3
+size 172

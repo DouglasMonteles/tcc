@@ -1,1 +1,3 @@
-Congratulações ao Governador do Distrito Federal, Ibaneis Rocha, pela nomeação de monitores, agentes administrativos e secretários escolares. Urgente necessidade de recomposição da carreira de servidores da área educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:054bf88c529fe30b077e7556be53fc397357458a1b181f4fb2963101eb3965d2
+size 232

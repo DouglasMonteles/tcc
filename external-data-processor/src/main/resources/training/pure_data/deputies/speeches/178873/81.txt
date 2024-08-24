@@ -1,1 +1,3 @@
-Defesa de aprovação do requerimento de destaque apresentado em prol do professorado brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8037a303008815b58fffa8cac7f3e13c7ce3580c49b3983a7afb60b00cff700
+size 97

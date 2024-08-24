@@ -1,1 +1,3 @@
-Fracasso do megaleilão de campos de petróleo da camada pré-sal da empresa Petróleo Brasileiro S/A - PETROBRAS. Reexame da política de privatização do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aa6d2d63ad6fb5f0212cc3fa9768593dd9cb4c9d3c482627ba5dc9400b0cbb2
+size 173

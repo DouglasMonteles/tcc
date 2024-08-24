@@ -1,1 +1,3 @@
-Pedido à Presidência de inclusão na pauta do Projeto de Lei nº 1.328, de 2020, sobre a suspensão, por 120 dias, do pagamento de empréstimos consignados em remunerações, salários, proventos, pensões e benefícios previdenciários de servidores públicos, ativos e inativos, empregados públicos e privados, bem como de pensionistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b947ac167be3f7bbc930a4ded1b37a790eacb4c352bdc7d8207b4a2915bb3c6f
+size 341

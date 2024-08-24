@@ -1,1 +1,3 @@
-Protesto contra a declaração do Ministro Dias Toffoli sobre o exercício do papel de poder moderador pelo Supremo Tribunal Federal. Omissão da Câmara dos Deputados e do Congresso Nacional sobre a usurpação da competência do Poder Legislativo pela Suprema Corte. Defesa de estabelecimento do tempo de mandato dos membros do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b8cbcb2b4a046fda6e61b5fc55b8ca9ba6bd67b730db84b131303c306ce937a
+size 355

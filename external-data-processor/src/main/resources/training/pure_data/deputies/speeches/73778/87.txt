@@ -1,1 +1,3 @@
-Transcurso do cinqüentenário de criação do Iate Clube de Londrina, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e16d13a22e1e0da02876811822d6cfb655caa30ed6f792607bf1e4d3329c43e
+size 89

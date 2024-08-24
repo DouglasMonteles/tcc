@@ -1,1 +1,3 @@
-Explosão de caixas automáticos de bancos por criminosos em Municípios de pequeno porte do Estado de Minas Gerais. Necessidade de maiores investimentos em segurança pública no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42f25b5ef259db7aa5054ebed7f683bbf1b504936a48e113fd157ba92f131cb2
+size 186

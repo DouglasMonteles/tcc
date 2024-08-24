@@ -1,1 +1,3 @@
-Elogio ao Presidente Rodrigo Maia pela condução dos trabalhos legislativos diante da pandemia de coronavírus. Aplausos ao Deputado Marco Bertaiolli pela apresentação do Projeto de Lei Complementar nº 9, de 2020, a respeito da adesão de empresas enquadradas no regime SIMPLES Nacional à transação tributária tratada em Lei Federal. Agradecimento ao Relator Gustinho Ribeiro pelo acatamento de emenda de autoria do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:040e6e2f54d1169b725e38d5bd492ca388cfd3baae4c8db403ceedad961693e6
+size 431

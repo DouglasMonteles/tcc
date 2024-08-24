@@ -1,1 +1,3 @@
-Participação de Parlamentares e gestores brasileiros em programa sobre a primeira infância, na Universidade Harvard, nos Estados Unidos da América. Necessidade da implementação de políticas públicas para a primeira infância. Iniciativas do Governo Federal relacionadas ao tema. Importância do conhecimento científico na definição de políticas públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f23ee7ffc7322a1f87daf1d5ff1b4b38b59abb7087905f285b6eb2e08c15ad6
+size 367

@@ -1,1 +1,3 @@
-Defesa da  continuação da votação  de projetos de lei relativos à abertura de crédisos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16649c634591c55eed629b6bed044047c08925161b45523edec5a3871f4c0342
+size 93

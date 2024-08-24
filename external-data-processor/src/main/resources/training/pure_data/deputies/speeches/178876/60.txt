@@ -1,1 +1,3 @@
-Regozijo com o sucesso das manifestações populares contra o Governo Federal no Brasil. Protagonismo do Estado de Goiás nos atos públicos em repúdio à corrupção praticada no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a7548a833d60bab470a5a1e7ce325ec450609d5c37c272c7c1eb16b3cebcdcf
+size 187

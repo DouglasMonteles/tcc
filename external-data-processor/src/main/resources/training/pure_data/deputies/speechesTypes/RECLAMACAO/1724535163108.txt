@@ -1,1 +1,3 @@
-Reclamação contra a inobservância pela Presidência do disposto no art. 2º do Ato nº 66 de 2005, da Mesa Diretora, a respeito do encaminhamento de discursos dados como lidos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4391cad08c07d079bd6b3fe3f9b06fc8e6277606526968e8188944c0f53a6fa4
+size 179

@@ -1,1 +1,3 @@
-O Deputado celebrou o aniversário de 40 anos da Central Única dos Trabalhadores (CUT) e a eleição de sua nova diretoria, destacando a importância de o povo brasileiro reconhecer as verdadeiras intenções dos políticos. Criticou a postura de colegas que, apesar de prometerem defender os pobres, agem de maneira contrária quando no poder. Defendeu a recente taxação sobre grandes fortunas como uma medida de justiça fiscal, argumentando que não é justo que trabalhadores de baixa renda paguem mais impostos proporcionalmente do que bilionários que contribuem pouco ou nada para o erário. Ao final, contrastou a alegria simples do povo com a insatisfação dos ricos, focados em suas riquezas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bb4a47ef3f27a711cdee69df5e55d1cd3064f555125a2d34edbae989114cbeb
+size 706

@@ -1,1 +1,3 @@
-O Deputado expressou sua indignação em relação aos vetos feitos pelo Governo do PT à Lei Orgânica das Polícias e Bombeiros Militares do Brasil, destacando que esses vetos retiraram direitos importantes dos profissionais da segurança pública. Ele pediu que o Congresso Nacional rejeite esses vetos e também os vetos à Lei Orgânica da Polícia Civil, que, segundo ele, foram feitos de forma revanchista pelo Governo do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0d9501cbb0c5a6500f66474da4dab61a9c8bd95ad5b771af597a32d1455daf4
+size 432

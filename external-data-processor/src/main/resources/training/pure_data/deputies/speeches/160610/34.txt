@@ -1,1 +1,3 @@
-Inconsistência da matéria A Herança do MST na Bahia, publicada pela revista Veja.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f2c2d74ddd8f3ee5ccaa2e275aeed517653f59dec96f25d6b232fb80a076dd7
+size 84

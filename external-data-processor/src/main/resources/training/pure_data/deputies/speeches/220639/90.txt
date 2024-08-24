@@ -1,1 +1,3 @@
-O Deputado expressou surpresa com a oposição ao Projeto de Lei nº 4.035, de 2023, que institui Agosto como mês de combate às desigualdades, que propunha discutir políticas públicas em agosto. Criticou a falta de critérios ao associar o mês à eleição, comparando com outros eventos no calendário. Alertou para a verdadeira disputa de concepções de País, apontando uma extrema direita que preserva desigualdades e estruturas injustas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1047b1e3aa212f5b80353992ca4cbd104716508c130a11156000c9d0eafd404a
+size 448

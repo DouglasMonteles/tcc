@@ -1,1 +1,3 @@
-Regozijo com a aprovação, pela Casa, do Projeto de Lei nº 5.478, de 2019, sobre o estabelecimento de critérios de distribuição dos valores arrecadados com os leilões dos volumes excedentes ao limite constante no § 2º do art. 1º da Lei nº 12.276, de 2010, a chamada cessão onerosa. Esclarecimento sobre a distribuição de recursos da exploração de petróleo na camada pré-sal aos Estados e Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:745edbf0ee4fc2af2ef98be6a26ba6cdf49a54373a82aecdab7b88644f59f728
+size 429

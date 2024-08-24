@@ -1,1 +1,3 @@
-Reunião da bancada federal nordestina com o Vice-Presidente da República, Geraldo Alckmin, o Ministro das Relações Institucionais, Alexandre Padilha, e o Líder do Governo na Casa, Deputado José Guimarães. Realização de investimentos federais no País, especialmente nas Regiões Norte e Nordeste. Missão do Presidente Luiz Inácio Lula da Silva de pacificação do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aef8bfb30ac0d7d53f4c927d283ec705ad5a23df04a6f03df08fdae606c7c089
+size 382

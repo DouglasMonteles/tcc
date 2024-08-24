@@ -1,1 +1,3 @@
-Participação do orador em festividades relativas ao transcurso do 166º aniversário de emancipação político-administrativa do Município de Nazaré, Estado da Bahia. Anúncio pelo Governador baiano, Rui Costa, de construção da Ponte Ilhéus-Pontal e do Hospital Regional da Costa do Cacau no Município de Ilhéus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b27cf4a9e3abdec102046820c0c90dc87c329f5053a6f76fd55276aa77e1bb6a
+size 322

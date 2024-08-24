@@ -1,1 +1,3 @@
-Pedido à Presidência de votação da Proposta de Emenda à Constituição nº 391, de 2017, sobre o disciplinamento da distribuição de recursos federais ao Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3268b4bd045ee587a56989d7cad01e2ca4286dabb5d9c68388105711bf26561b
+size 206

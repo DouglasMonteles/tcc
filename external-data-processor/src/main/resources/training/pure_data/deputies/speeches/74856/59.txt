@@ -1,1 +1,3 @@
-Contentamento com a criação, na Câmara dos Deputados, das Comissões Permanentes de Defesa dos Direitos da Mulher e de Defesa dos Direitos da Pessoa Idosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:531f0303c8bba777ef64707c2cc23fdeed7c92099c1778ee7e698f5182cc7b49
+size 158

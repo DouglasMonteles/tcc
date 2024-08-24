@@ -1,1 +1,3 @@
-Desagravo ao Presidente da Comissão de Constituição e Justiça e de Cidadania, Deputado Felipe Francischini, diante de ataques de Parlamentares. Orientação de bancada na votação do Projeto de Lei de Conversão nº 24, de 2019, adotado pela Comissão Mista, à Medida Provisória nº 886, de 2019, sobre a organização básica dos órgãos da Presidência da República e dos Ministérios, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eb2889ab8679d8ce9c4fd1fc34d5cdc9492040f4c24aab707e7695b04978723
+size 422

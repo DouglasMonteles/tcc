@@ -1,1 +1,3 @@
-Regozijo com o anúncio, pela Ministra da Saúde, Nísia Trindade Lima, de descentralização para os Estados da habilitação para o tratamento de doenças de alta complexidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65dc85dca683dac8b79a68dca069a64160d52df23d70679a020335de0847afc5
+size 178

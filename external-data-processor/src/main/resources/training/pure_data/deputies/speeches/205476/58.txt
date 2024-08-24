@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 3.795, de 2019, sobre a realização de inspeção anual do estado geral de saúde dos alunos do ensino básico matriculados em escolas públicas. Defesa de celeridade na tramitação e aprovação da matéria pela Câmara dos Deputados. Falecimento do ex-Vereador Estácio Neves Freitas, fundador da Loja Maçônica no Município de Guanambi, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e186dd710da6f7efdf4d99f5629cc1690f013cfa7f5382e950b38ab9490b0e20
+size 397

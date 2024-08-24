@@ -1,1 +1,3 @@
-A Deputada registrou a presença no plenário dos vereadores Naldo do Ordo e Maciel do Fama, do Município de Buri, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e0fa3532b82d968931585193aa5cc3182153a4700262bf2f12f72ac5dff3c37
+size 137

@@ -1,1 +1,3 @@
-Desmandos praticados pela gestão petista com relação aos hospitais Walfredo Gurgel e Tarcísio Maia, no Estado do Rio Grande do Norte. Contestação aos pronunciamentos de Deputados acerca da extinção do Ministério Extraordinário da Segurança Pública pelo Governo Jair Bolsonaro. Relevância de medidas de combate à criminalidade apresentadas pelo Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0567f5f66c0c8ff188bd81d82371c58195264a7119cc5e267bf1e2afd2d79513
+size 415

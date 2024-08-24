@@ -1,1 +1,3 @@
-Relevância dos trabalhos desenvolvidos pela Associação dos Engenheiros e Arquitetos de Sorocaba, Estado de São Paulo. Artigo Formação de Engenheiros, de autoria do presidente da instituição, Jair Sanches Molina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b48b3c816ca4a0c8c9d1e8fdb273ec6a6f77c0815b87ba874ef030931430cfb
+size 219

@@ -1,1 +1,3 @@
-Solidariedade à população de Salvador diante dos efeitos das chuvas torrenciais. Convite à bancada feminina para reunião com a Ministra da Secretaria Especial de Políticas para as Mulheres, Nilcéa Freire, e para eleição da nova Coordenadora da Bancada Feminina e indicação de integrantes da Procuradoria Especial da Mulher da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a5d26e6b7b4a2a84c73efb437c62bef529866b2523fe2f4ad8fc23c01a4fbe9
+size 359

@@ -1,1 +1,3 @@
-A Deputada agradeceu à Casa pela aprovação do Projeto de Lei nº 309, de 2023, que dispõe sobre a capacitação das equipes de saúde em procedimentos humanizados e qualificados de atenção a mulheres vítimas de violência, agradecendo à Relatora Iza Arruda pelo excelente trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7264be0b4bdf47b35c8379130af2b3ca3f194988930de5a7587e64a333280951
+size 289

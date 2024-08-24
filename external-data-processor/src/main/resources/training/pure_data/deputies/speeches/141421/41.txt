@@ -1,1 +1,3 @@
-Elogio ao Presidente Michel Temer pela inclusão na pauta da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5292e9af31b70fd5cdf9fbc5076defd355d1430ca012a8d2cc89af818d2de6d2
+size 195

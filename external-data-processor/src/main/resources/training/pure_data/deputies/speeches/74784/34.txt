@@ -1,1 +1,3 @@
-Mobilização da sociedade brasileira em prol da reforma política. Iniciativa da Frente Parlamentar pela Reforma Política com Participação Popular de apresentação de proposta de iniciativa popular a respeito do tema. Resultado de pesquisa do Instituto de Estudos Socioeconômicos - INESC e do Departamento Intersindical de Assessoria Parlamentar - DIAP, entre Congressistas, sobre a reformulação do sistema político-eleitoral brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb998148ad34c1950eff59d68df0f19f0050b2524fa0be5a8db7b7abdd6eeedf
+size 446

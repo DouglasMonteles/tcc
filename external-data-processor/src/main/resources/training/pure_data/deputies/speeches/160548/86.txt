@@ -1,1 +1,3 @@
-Falecimento do Vereador Gilberto Celestino Brasio Biléo Soares, do Município de Campinas, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73f41d1a94bfbaf4f9c07b0977c0e5f6d77cda61df8b64b4dff7a2b00da6acd1
+size 113

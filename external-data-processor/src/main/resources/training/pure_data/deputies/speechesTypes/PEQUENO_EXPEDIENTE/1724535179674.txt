@@ -1,1 +1,3 @@
-Falecimento do ex-Deputado Federal Walmor de Luca, do Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68ced129ea3e48952210898ef9240c9ea738f32be742de4875dbeddf34536310
+size 79

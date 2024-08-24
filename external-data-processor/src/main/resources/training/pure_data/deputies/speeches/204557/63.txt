@@ -1,1 +1,3 @@
-Responsabilidade do Governador Wilson Miranda Lima pelo caos da saúde pública no Estado do Amazonas, especialmente no tocante à epidemia de coronavírus. Necessidade de intervenção do Ministério da Saúde no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cf54dc07f9396c1fdb0c9bc07e8e9199461387b74ff7bce133c6f9458f3a2da
+size 221

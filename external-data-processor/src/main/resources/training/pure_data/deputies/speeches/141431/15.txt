@@ -1,1 +1,3 @@
-Transcurso do 108° aniversário de emancipação político-administrativa do Município de Quipapá, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:908d41542873bc916db448419a27eedfffd0357d9fecd00491d824dea9dc8c81
+size 123

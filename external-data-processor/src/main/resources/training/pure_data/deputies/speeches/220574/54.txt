@@ -1,1 +1,3 @@
-Pedido à Presidência de consolidação das votações ocorridas no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa6c9c44fd2620b76eee50400c97f47fc8c5d1dcde907f90a4061e814a5d4ee1
+size 79

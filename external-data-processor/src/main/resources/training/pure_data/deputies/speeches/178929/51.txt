@@ -1,1 +1,3 @@
-Regozijo em face de expectativa de apreciação, pelo Plenário da Câmara dos Deputados, do Projeto de Lei nº 3.170, de 2015, de autoria do orador, para estabelecimento de garantia ao direito de acompanhamento e orientação à mãe com relação à amamentação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55fedf2d1341d60f1ee669fbd4c98278653cca520bc961cba39983a23394147b
+size 266

@@ -1,1 +1,3 @@
-Alocação de recursos de emendas de bancada para realização das obras das BRs-262, 447 e do Contorno do Mestre Álvaro, no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6afe9422de09c6147b34cbd8b7bd67e9631a96000b20e19737277cde49f943d3
+size 152

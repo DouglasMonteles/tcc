@@ -1,1 +1,3 @@
-Congratulações à Presidenta Rose de Freitas pela condução dos trabalhos da Casa. Contestação a pronunciamentos contrários à obstrução das votações pelos partidos da Oposição, em defesa da regulamentação da Emenda Constitucional nº 29, de 2000, sobre a alocação de recursos para a saúde pública, e da votação da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares. Encontro do Ministro da Agricultura, Pecuária e Abastecimento, Mendes Ribeiro Filho, com membros da Subcomissão permanente destinada à apresentação de propostas para a cadeia produtiva de leite no mercado nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7474baec63dfcad49342c3f00235541fdbb75717488f54034a335fe352f7e7ae
+size 689

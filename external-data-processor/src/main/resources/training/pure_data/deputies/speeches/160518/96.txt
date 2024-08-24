@@ -1,1 +1,3 @@
-Inexistência de rede de coleta de esgotos no Município de Contagem, localizado na Região Metropolitana de Belo Horizonte, Estado de Minas Gerais. Precariedade dos serviços prestados à população pela Companhia de Saneamento de Minas Gerais - COPASA. Anúncio da apresentação de recurso judicial contra o reajuste de tarifas anunciado pela empresa. Baixa qualidade dos serviços de telefonia prestados no País, em dissonância com os altos preços impostos aos consumidores. Conclamação à Casa para a aprovação do Projeto de Lei nº 2.295, de 2000, sobre a fixação da jornada de trabalho dos profissionais da enfermagem em 30 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dbe0d709f7b36b8874df621658bda089abc481ce08d88027ec62c5dcfb70ece
+size 656

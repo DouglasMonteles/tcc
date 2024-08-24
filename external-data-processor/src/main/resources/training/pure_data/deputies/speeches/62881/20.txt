@@ -1,1 +1,3 @@
-Concessão ao orador do título de Cidadão Honorário de Sobral, no Estado do Ceará. Transcurso do 238º aniversário de fundação da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1ae40ef3cbd02c411e34005ffd385bf8c55a463ee0ffe7ba66310420a2d4d0d
+size 152

@@ -1,1 +1,3 @@
-Realização de caminhada de Prefeitos Municipais contra as sucessivas quedas no repasse de recursos ao Fundo de Participação dos Municípios - FPM, em Teresina, Estado do Piauí. Retenção de depósitos judiciais arrecadados pela Secretaria da Receita Federal. Defesa de partilha de royalties de petróleo com os Estados e Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0865e56dbbb6388e26d6cddc343795a6f5eae9a522edff7b0091edf5e1879a1c
+size 351

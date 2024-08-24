@@ -1,1 +1,3 @@
-Saudações às Deputadas e às mulheres brasileiras, em especial às do Estado do Piauí, ao ensejo do transcurso do Dia Internacional da Mulher. Elevação do número de mortes por coronavírus, agravamento do desemprego e reajuste nos preços de alimentos de combustíveis no País. Repúdio à proposta de criação do novo auxílio emergencial no valor de 250 reais, apresentada pelo Presidente Jair Bolsonaro. Compromisso prioritário do Presidente da República com o sistema bancário, em detrimento do atendimento às necessidades e anseios da população brasileira. Defesa de retomada do auxílio emergencial de 600 reais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5965e8017ca8810503987c81573a0b4ce62ab559d6d5e291a093c20935f4aaf
+size 633

@@ -1,1 +1,3 @@
-Orientação da respectiva bancada para votação do requerimento de encerramento de discussão, em primeiro turno, da Proposta de Emenda à Constituição nº 77, de 2003, a respeito da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:540ce1648a0b12931c626bd33f72cef9fdf6718cca87a7e249cf594bb8f22e35
+size 205

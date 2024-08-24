@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de votação, artigo por artigo, da Medida Provisória nº 879, de 2019, a respeito do reembolso de despesas de distribuidoras de energia elétrica. Posicionamento da oradora sobre o projeto de lei relativo à flexibilização da posse e porte de armas de fogo no País. Responsabilidade do Governo Jair Bolsonaro pelo agravamento das crises política e econômica vigentes do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04570860ebe86b223a10619eba5f3faf0a07a8c883d4674c22611816ad49098a
+size 428

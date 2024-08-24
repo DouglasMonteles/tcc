@@ -1,1 +1,3 @@
-Realização da 17ª Edição do Festival de Inverno de Pedro II, no Estado do Piauí. Relevância da edição da Portaria nº 635, de 2023, do Ministério da Saúde, sobre a instituição das equipes Multiprofissionais na Atenção Primária à Saúde (e-Multi).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3f569137781750735a0f9f8a768a93c41164557e8f93fa644be17708889f5df
+size 263

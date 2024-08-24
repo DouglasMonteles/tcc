@@ -1,1 +1,3 @@
-Metas e compromissos da candidata à Presidência da República, Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53a62e2fe4a023c0774b2ee04a2f2c9898cdad6bb9942410898b713845d9c7d5
+size 80

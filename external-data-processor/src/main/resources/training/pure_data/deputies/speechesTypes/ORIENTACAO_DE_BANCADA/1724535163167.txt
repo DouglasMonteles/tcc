@@ -1,1 +1,3 @@
-Orientação da respectiva bancada de votação do requerimento de destaque para votação em separado do art. 11 do Substitutivo apresentado ao Projeto de Lei Complementar nº 343, de 2017, que institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2649f5d58b31832ecda1f4d0a57a99b958356b844fb6a5638f3ae980ac00839b
+size 271

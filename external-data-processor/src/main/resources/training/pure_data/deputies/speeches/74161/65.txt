@@ -1,1 +1,3 @@
-Aprovação pela Comissão de Educação, da Casa, do parecer oferecido à proposta de criação do Instituto Nacional de Supervisão e Avaliação da Educação Superior - INSAES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91d55af5b47f64eb56b44c9b380c6ff9528979c40a090c870ea3e8f54213cef3
+size 180

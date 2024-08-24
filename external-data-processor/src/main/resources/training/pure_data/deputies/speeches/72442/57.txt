@@ -1,1 +1,3 @@
-Eleição do Deputado João H. Campos para o cargo de Prefeito Municipal de Recife, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f71f6efbbb00cd6f07fe57b1d3d3cb47b85e41a0605e5a5c4f70ef5e7ed8d409
+size 105

@@ -1,1 +1,3 @@
-Críticas à postura da Casa nos debates acerca da redução da maioridade penal. Aprovação, pelo Conselho Nacional de Justiça, da instituição de cotas para negros no Poder Judiciário. Tramitação na Casa do Projeto de Lei nº 1.714, de 2015, de autoria do orador, que dispõe sobre a reserva de vagas oferecidas em concurso público. Contrariedade à redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8413efd10078337d44e1fec553c0516fb1accb5fd575afe17c898744ac3f5728
+size 389

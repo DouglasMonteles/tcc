@@ -1,1 +1,3 @@
-Importância, para o desenvolvimento da economia brasileira e a geração de novos empregos no País, de proposições aprovadas pela Câmara dos Deputados e das privatizações e concessões promovidas pelo Governo Jair Bolsonaro. Reformulação do Sistema Tributário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3d703ca69d2954ea529a3c414f6b909675fd88c40276e3b7ca6f80f61a26864
+size 279

@@ -1,1 +1,3 @@
-Coordenação, pelo orador, do programa econômico do ex-candidato à Presidência da República, Ciro Gomes. Expectativa de aumento do déficit primário brasileiro no ano de 2019. Alto custo para o contribuinte brasileiro das operações compromissadas realizadas pelo Banco Central do Brasil. Considerações sobre a proposta de independência da instituição bancária. Defesa de taxação de lucros e dividendos. Necessidade de extinção da chamada pejotização no Sistema Tributário Brasileiro. Inexistência de políticas contra a concentração de renda no País. Protesto contra a não concessão de aumento real ao salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54523e76fbe3d0f6e2c79bba8c5a33e349e24f9cdc281b85b96e1ce9c553fb79
+size 646

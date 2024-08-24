@@ -1,1 +1,3 @@
-Orientação de bancada para votação do requerimento de destaque para votação em separado da Emenda nº 31, oferecida à Medida Provisória nº 796, de 2017, sobre a prorrogação do prazo para a utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica, instituído pela Lei nº 12.599, de 2012. Repúdio à proposta do Prefeito de Belém, Capital do Estado do Pará, de aumento da alíquota do Imposto Predial e Territorial Urbano - IPTU. Apelo aos Vereadores da Capital paraense para rejeição da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50877c5c32dff1284ca1499821ec877c8c9d62e3c5a4a874b8c8c681f89a30fc
+size 569

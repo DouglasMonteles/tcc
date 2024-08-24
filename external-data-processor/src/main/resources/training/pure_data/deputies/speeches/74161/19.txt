@@ -1,1 +1,3 @@
-Aprovação pela Casa de proposições em prol do setor educacional. Apoio à realização, pela Confederação Nacional dos Trabalhadores em Educação - CNTE, de ato público pela implementação do piso salarial nacional do magistério da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:416eb7e24e5799323b8be9c7d0539d0b467a54708eaff9059f0346113195b453
+size 261

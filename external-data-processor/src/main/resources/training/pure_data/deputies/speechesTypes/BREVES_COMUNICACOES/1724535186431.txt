@@ -1,1 +1,3 @@
-Regozijo com o empenho de todas as emendas parlamentares destinadas pelo orador a investimentos na área social, especialmente para as Obras Unidas da Sociedade de São Vicente de Paulo, as Associações de Pais e Amigos dos Excepcionais APAEs e lares de pessoas idosas de Municípios do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6baae5c93641081aa9bbd76b27d278a42c250b82c2d22765c8a2e3a8eb336849
+size 309

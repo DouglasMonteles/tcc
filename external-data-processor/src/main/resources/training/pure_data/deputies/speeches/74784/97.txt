@@ -1,1 +1,3 @@
-Instalação da Comissão Nacional da Verdade, destinada à investigação de abusos e violações de direitos humanos durante a ditadura militar. Atuação da Comissão Parlamentar Memória, Verdade e Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4eaa0988c446fd6348a5be36bb27eb603ad86eba19cf9a98491313dcf976fbd
+size 211

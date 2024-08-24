@@ -1,1 +1,3 @@
-Realização da 38ª Exposição Agropecuária de Ariquemes - EXPOARI, no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:303b6a3c51acf17089e7f7f45139b240537ba0da271b51f4e3d02f323c36a533
+size 94

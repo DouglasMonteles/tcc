@@ -1,1 +1,3 @@
-Transcurso do 50º aniversário de criação do Movimento da Legalidade, contra a tentativa de golpe militar e pela posse do Presidente João Goulart. Realização pela Casa do Seminário Nacional da Juventude Rural, com o tema A permanência do jovem no campo e a continuidade da agricultura familiar no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:684e25b60e72a2f22ec95bd72e3a1410eb26cdc43fa766e24cd7e5acbc23a178
+size 312

@@ -1,1 +1,3 @@
-Saudações aos membros da Mesa Diretora dos trabalhos. Comemoração do 70º e do 470º aniversários de fundação, respectivamente, do grupo Afoxé Filhos de Gandhy e de Salvador, Capital do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:934c516bbac88782b9a9f3cedb9742a84ff3d33c9dfa6921a4a3bf70b8eb76ad
+size 210

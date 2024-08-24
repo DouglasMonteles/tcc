@@ -1,1 +1,3 @@
-Registro da 72ª morte ocorrida no Estado da Bahia em decorrência da meningite. Imediata realização de campanha de vacinação em massa da população baiana contra a doença.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe15dff27ada1e62fecf92a3bd4021d999f50e35120f0f5c8d36b65e90c7d13e
+size 178

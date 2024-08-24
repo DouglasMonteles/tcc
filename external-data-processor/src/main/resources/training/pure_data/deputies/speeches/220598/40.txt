@@ -1,1 +1,3 @@
-Aspectos da proposta governamental de reforma tributária. Reexame de dispositivos da proposição, relativos à redução de impostos incidentes na comercialização de agrotóxicos e à tributação do sistema bancário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a5a3183f3ba99801e00492c20aed1a4a28dc76047896a628e8484bb53aa4ee1
+size 222

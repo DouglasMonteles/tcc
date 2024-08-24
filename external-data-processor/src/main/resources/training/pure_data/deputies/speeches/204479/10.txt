@@ -1,1 +1,3 @@
-Improcedência do vídeo divulgado pelo Deputado Kim Kataguiri sobre a alocação pelo Ministro da Justiça e Segurança Pública, Anderson Torres, de recursos do Fundo Nacional de Segurança Pública para o Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7afccc85ba1b13ec91657dfdeef808aeb8dc849b36168335f0fb8a5aa13f8a8f
+size 225

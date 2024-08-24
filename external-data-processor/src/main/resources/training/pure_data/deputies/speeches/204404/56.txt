@@ -1,1 +1,3 @@
-O Deputado informou sobre sua participação em audiência pública realizada pela Comissão de Assuntos Municipais da Assembleia Legislativa do Estado do Rio Grande do Sul destinada ao debate sobre a ampliação da BR-448 de Sapucaia a Portão. Enfatizou a importância da obra rodoviária como rota alternativa para desafogar o tráfego pela BR-116. O orador informou que o projeto está em análise pelo DNIT e manifestou expectativa de inclusão da ampliação da BR-448 no Programa de Aceleração do Crescimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12d9e8048bcc6ed835f8fdbe6d8cfe8e875275bfd8efdc105588e891df7ddd49
+size 518

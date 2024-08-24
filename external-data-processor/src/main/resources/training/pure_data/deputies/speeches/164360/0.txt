@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado de Santa Catarina, especialmente aos do Município de Lages, pelos votos recebidos pela oradora. Compromisso de atuação parlamentar em benefício da área de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f259bdb97a6211447f287bf1ae5f27fa86c2ec44068f6a8021bfe07852c5127c
+size 205

@@ -1,1 +1,3 @@
-Alerta sobre a concessão, somente no exercício de 2019, de 13º salário aos beneficiários do Programa Bolsa-Família conforme preconizado no bojo da respectiva medida provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:351edbf8449748d389c13ab27cb6f561633ed66e3cf1cfe039a456b90cd8c53d
+size 183

@@ -1,1 +1,3 @@
-Reclamação contra o pronunciamento do Deputado Ricardo Tripoli, por inexatidão na referência a declaração do orador sobre o posicionamento de trabalhadores metalúrgicos da região do ABC, Estado de São Paulo, ante a proposta de criação da Contribuição Social para a Saúde - CSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06d69cce3d308cc3fd046d8fc02eb4d65e74f7baadebef7d5ca08f7b8f2ddfb0
+size 291

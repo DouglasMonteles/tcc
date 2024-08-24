@@ -1,1 +1,3 @@
-O Deputado lamentou a morte de Cleriston Pereira da Cunha, na penitenciária da Papuda. Criticou a inação do Ministro do Supremo Tribunal Federal, Alexandre de Moraes, responsável pela prisão do patriota, e acusou o Presidente do Senado Federal de ser cúmplice desse trágico desfecho. Expressou solidariedade à família de Cleriston e condenou a situação, considerando-a um grave erro judicial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:741cd6458ac49f12c448e44ffa2839d9029bcb31e46b87c248a3370991667ca5
+size 403

@@ -1,1 +1,3 @@
-Abertura do mercado econômico brasileiro. Papel desenvolvido pelas empresas no processo de geração de emprego e renda. Preservação de direitos dos trabalhadores brasileiros. Importância do Programa Bolsa Família como instrumento de combate à fome. Relevância do Fundo Nacional de Desenvolvimento da Educação - FNDE. Liberação de recursos federais à cultura espírito-santense. Assassinato de professora em escola pública de São Paulo, Estado de São Paulo. Estabelecimento de pacto em defesa da saúde mental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ed55f946cfeafe1bc8c202c59a50c79f5cfe7777023814878ea0ae4b379e510
+size 525

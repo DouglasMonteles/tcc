@@ -1,1 +1,3 @@
-Estruturação de equipes multidisciplinares; realização de investimentos na educação digital; e monitoramento das redes sociais, como medidas necessárias para combate à violência nas escolas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ceae0f02bbb31aaf0158ec161e5993ee914c6e8988e4e336f9ece338e1a7f96
+size 211

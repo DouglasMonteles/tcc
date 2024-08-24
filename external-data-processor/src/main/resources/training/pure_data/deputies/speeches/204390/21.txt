@@ -1,1 +1,3 @@
-Comemoração do centenário da emancipação político-administrativa do Município de Aparecida de Goiânia, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a955f85e03a8dd9de0a4b609f0bd77cc3a7bd4499c66a7650824d41d5919879e
+size 128

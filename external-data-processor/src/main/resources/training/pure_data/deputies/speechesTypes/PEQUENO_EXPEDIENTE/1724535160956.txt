@@ -1,1 +1,3 @@
-Presença do orador no Palácio do Planalto, na solenidade de lançamento do Programa de Investimentos em Logística, do Governo Federal. Descontentamento com os recursos previstos para obras de infraestrutura no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4400c9969ef1f2dbfea6c17820141e3688dc9a657819025ca4709fc0dded127
+size 241

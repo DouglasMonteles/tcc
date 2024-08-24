@@ -1,1 +1,3 @@
-Sessão Solene em homenagem ao Centenário do Município de Bom Jesus - RS.As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:779444a00acac33a31d744e4bf23abebbf4a181eb0916f6e5c7cc44a4dfc3a24
+size 206

@@ -1,1 +1,3 @@
-Esclarecimentos sobre os direitos e os deveres dos inquilinos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6480a02aa08f9ebd7de36dde1dcb25c017854b2a1b1b26aeb475e34723976e39
+size 62

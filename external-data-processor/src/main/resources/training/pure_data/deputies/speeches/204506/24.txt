@@ -1,1 +1,3 @@
-O Deputado agradeceu ao Deputado Rogério Correia e reforçou a importância da conquista da criação do SINDILEGIS, ressaltando a valorosa contribuição dos servidores para o bom funcionamento da Câmara e do Senado. Ele expressou seu apoio contínuo aos servidores no exercício da Vice-Presidência da Câmara e do Congresso Nacional e finalizou agradecendo ao Deputado Sóstenes Cavalcante pela condução da sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ffd5bbb6e78f9a0f4fadebe3f1d6b9010bd2a45be3d81928cf9d6205e9e0801
+size 423

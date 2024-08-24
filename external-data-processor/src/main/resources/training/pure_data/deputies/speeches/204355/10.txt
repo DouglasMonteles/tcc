@@ -1,1 +1,3 @@
-Encaminhamento ao Ministro da Infraestrutura, Tarcísio Gomes de Freitas, de requerimento de indicação para apuração de irregularidades praticadas por concessionária da BR-259, no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b12cf4e58281745ae70adb98dec1b4a7da549237b7dcfd2bef1cc0c09b47311
+size 211

@@ -1,1 +1,3 @@
-Defesa do impeachment da Presidente da República, Dilma Rousseff. Preocupação do empresariado do Município de Luziânia, Estado de Goiás, com a crise econômica brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11eb6b7139fe45e60b05c4f1971e8fd32cbd515b1fbe5dc33016756e6c185579
+size 177

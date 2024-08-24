@@ -1,1 +1,3 @@
-Pedido de registro da presença de oradores com uso da palavra na sessão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cf2b5ecd60c3924949ff09de4cec632bab4b3fb95cd40d9efc70ee9b0f5c4f0
+size 74

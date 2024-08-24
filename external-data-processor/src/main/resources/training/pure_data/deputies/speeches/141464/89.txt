@@ -1,1 +1,3 @@
-Sepultamento cerimonioso dos restos mortais do estudante Bergson Gurjão Farias, morto em 1972 no episódio da Guerrilha do Araguaia, em Fortaleza, Estado do Ceará. Homenagem à memória do jurista Clóvis Beliváqua, ao ensejo do transcurso do 150º aniversário de seu nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a448101d2206cec2e765322e256d9f19f1be3dbabd14dfd0855f2bc2a8e75595
+size 283

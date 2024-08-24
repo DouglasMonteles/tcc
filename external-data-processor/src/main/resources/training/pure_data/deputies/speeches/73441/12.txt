@@ -1,1 +1,3 @@
-Apelo à Casa de votação do Projeto de Lei nº 5.476, de 2001, sobre a extinção da cobrança da assinatura básica da telefonia fixa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cda4930513b39646571a9ea1f6adf08f1582dc48a01a03893fd23d37c55aabc
+size 137

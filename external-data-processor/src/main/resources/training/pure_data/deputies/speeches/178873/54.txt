@@ -1,1 +1,3 @@
-Premiação do cacau produzido no Município de Linhares, Estado do Espírito Santo, no Salão do Chocolate de Paris, França. Apresentação do Projeto de Decreto Legislativo nº 830, de 2017, sobre sustação de efeitos do Decreto nº 9.188, de 2017, sobre estabelecimento de regras de governança, transparência e boas práticas de mercado para a adoção de regime especial de desinvestimento de ativos pelas sociedades de economia mista federais. Repúdio à privatização de estatais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95e9ee3777a6450fe821ce465665eb23135ba5c67c3a65f6b67600095570c102
+size 492

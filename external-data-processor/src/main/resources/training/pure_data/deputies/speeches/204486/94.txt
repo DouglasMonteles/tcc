@@ -1,1 +1,3 @@
-Desconhecimento, pelo Congresso Nacional, dos valores de subsídios creditícios concedidos pelo Governo Federal, bem como dos seus reflexos sobre a dívida pública brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35fe277a31685abf7b06b328dc7c3acc394cbcf11661945626512c5fe2fcafed
+size 177

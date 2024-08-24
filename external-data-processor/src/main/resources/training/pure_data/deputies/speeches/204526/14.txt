@@ -1,1 +1,3 @@
-Discussão da Medida Provisória nº 1.072, de 2021, sobre a alteração da forma de cálculo da taxa de fiscalização dos mercados de títulos e valores mobiliários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4fd03b03edaf4f3b65c165f1da6c8c1b31fce4efcb0c765bbf05c342eddc683
+size 168

@@ -1,1 +1,3 @@
-Indignação com manifestações de intolerância religiosa e de desrespeito à família brasileira ocorridas na 19ª Parada do Orgulho LGBT de São Paulo, Estado de São Paulo. Contestação a pronunciamento do Deputado Roberto Freire sobre a impertinência de realização de reza por Deputados no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91915a380f3d2dccf8bae8a4d7c943805d7bc4463830c66c90c6f0f8c475d72f
+size 310

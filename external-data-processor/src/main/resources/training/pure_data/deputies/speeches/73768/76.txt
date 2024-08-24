@@ -1,1 +1,3 @@
-O Deputado destacou dificuldades enfrentadas pelo agronegócio no Brasil, especificamente nos setores do leite e da psicultura. Mencionou que as mudanças regulatórias e a possibilidade de importação de tilápia do Vietnã estão causando preocupações, especialmente para os pequenos e médios agricultores. Pediu ao Governo e ao Ministro da Agricultura que considerem a importância de proteger esses setores e tomar medidas para apoiar os produtores de leite e evitar a importação de tilápia, a fim de preservar o agronegócio brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f360ae2035c6892b550c351409033a13557e7e1c9269d5bf007caa8ab37eecd
+size 548

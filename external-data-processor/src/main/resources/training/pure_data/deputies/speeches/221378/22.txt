@@ -1,1 +1,3 @@
-Solidariedade às populações atingidas por ciclone extratropical no Estado do Rio Grande do Sul. Aplausos ao Presidente Luiz Inácio Lula da Silva pelas providências adotadas em prol do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da949c503b90fa3d410fae7417a817405bf15eb0891ea9dd6589ecdede32634c
+size 196

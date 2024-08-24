@@ -1,1 +1,3 @@
-Prejuízos causados ao setor agropecuário de Tocantins pela inclusão do Estado na área de abrangência do bioma da Amazônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fabd537daf87dc11202cd2fc4442a99a38c33b486694ae1f3fc83ea5f141163a
+size 128

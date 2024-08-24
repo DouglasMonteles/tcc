@@ -1,1 +1,3 @@
-Necessidade de adoção, pelas autoridades competentes, de medidas efetivas de coibição à violência nas escolas brasileiras, especialmente nas escolas públicas. Solidariedade aos familiares da Profa. Elisabeth Tenreiro, assassinada por aluno de 13 anos de idade em escola pública de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f181fa87d7a19b41238a7b10499a60c4855e94b167e72c26442eeb6e73d61f2
+size 322

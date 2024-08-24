@@ -1,1 +1,3 @@
-Precariedade do sistema de saúde pública no Estado da Paraíba. Má classificação do Município de Sousa no Índice de Desempenho do Sistema Único de Saúde - IDSUS 2011. Compromisso de atuação parlamentar em defesa da saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9751245a6cd5e767b9b4532906ec3adcf2481cc823836f347ac8b79472cbac3b
+size 242

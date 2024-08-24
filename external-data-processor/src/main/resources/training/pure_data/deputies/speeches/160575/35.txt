@@ -1,1 +1,3 @@
-Propósito do ex-Presidente Luiz Inácio Lula da Silva de participação em debates a respeito da reforma política. Baixa presença feminina nas instâncias de poder político no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4102621af3269d8edd335a0c4d35432b94fdc473fbad8966ca194ba25685d53
+size 187

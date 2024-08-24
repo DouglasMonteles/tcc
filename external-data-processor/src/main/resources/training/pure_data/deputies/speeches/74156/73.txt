@@ -1,1 +1,3 @@
-Transcurso do 30º aniversário de fundação do Partido dos Trabalhadores - PT. Congratulações ao Presidente do partido, Deputado Ricardo Berzoini.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ead898a7415c7f192261ed487810f549af6e37efde76e8d684999a1e467356d5
+size 150

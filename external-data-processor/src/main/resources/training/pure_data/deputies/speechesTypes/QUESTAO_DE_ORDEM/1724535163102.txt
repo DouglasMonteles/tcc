@@ -1,1 +1,3 @@
-Questão de ordem sobre a não participação do PL no grupo de trabalho da reforma tributária. Associação à questão de ordem suscitada pela Deputada Adriana Ventura a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ccd9a3a75e9c62bd75af2fd44e3958f2eea954383b253d63d9668c272bfdc15
+size 190

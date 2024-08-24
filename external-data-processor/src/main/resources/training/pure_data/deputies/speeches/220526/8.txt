@@ -1,1 +1,3 @@
-Indignação com o posicionamento da jornalista Miriam Leitão, em defesa do reajuste dos preços de combustíveis. Expectativa quanto ao retorno do ex-Presidente Jair Bolsonaro ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eb1cd102f4b8c8429b1b547f3bb80527b55812db4cc61672b3ad21cdfe85697
+size 188

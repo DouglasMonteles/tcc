@@ -1,1 +1,3 @@
-Prioridade do mandato parlamentar do orador na implantação dos serviços de Internet e telefonia móvel nos Municípios, Distritos e comunidades do Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d03cc712f6840259cee2d2e0fefb47a0ed815b62ca42022ffda87bd827f2a87
+size 176

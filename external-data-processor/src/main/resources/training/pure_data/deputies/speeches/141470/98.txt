@@ -1,1 +1,3 @@
-Ações do Governo Luiz Inácio Lula da Silva para o desenvolvimento econômico da Região Nordeste. Utilização de recursos oriundos da exploração do petróleo na camada do pré-sal para atendimento a demandas sociais e regionais, especialmente do Nordeste brasileiro. Importâncias das obras da Ferrovia Transnordestina e de integração do Rio São Francisco com as bacias hidrográficas do Nordeste Setentrional para reforço da infraestrutura e desenvolvimento socioeconômico dos Estados nordestinos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93db6d5fb1751f6bee16eb57ecc7071dfc8707c59b1f66b10c52e2cafe1ce927
+size 509

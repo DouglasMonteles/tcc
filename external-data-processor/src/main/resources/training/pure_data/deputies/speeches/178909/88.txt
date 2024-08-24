@@ -1,1 +1,3 @@
-Presença, em plenário, da Vereadora Luciana Castanheira, do Município de Castanhal, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f236c4f30315bad40e0cac913cabb55d61e55a2a27c7b9e2694a9c019a354b6
+size 103

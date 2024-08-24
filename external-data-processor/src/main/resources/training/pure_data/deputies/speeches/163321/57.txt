@@ -1,1 +1,3 @@
-Realização, pela Comissão de Ciência e Tecnologia, Comunicação e Informática, de audiência pública destinada ao debate das deficiências do setor de telefonia no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb9645d8829f289832f584da72a3e5ac1cecd5af17629f67ef25122fb8e60d5e
+size 178

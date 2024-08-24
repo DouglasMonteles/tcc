@@ -1,1 +1,3 @@
-Temas debatidos pela Ministra Maria do Rosário, da Secretaria de Direitos Humanos da Presidência da República, na Comissão de Direitos Humanos e Minorias da Casa. Apoio à instalação da Comissão da Verdade, destinada à investigação de crimes e abusos praticados durante o regime militar. Defesa da abertura de processos contra Deputados por quebra de decoro parlamentar, em face de declarações de natureza racista e homofóbica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f57d4a0787fb2ecf109db8de023ca4e014d6d6d726c1503b2592def368eef21e
+size 440

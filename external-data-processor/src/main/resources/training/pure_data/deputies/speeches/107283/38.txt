@@ -1,1 +1,3 @@
-Crise socioeconômica reinante no País após o impeachment  da ex-Presidenta Dilma Rousseff. Endividamento das famílias brasileiras. Apresentação do Projeto de Lei nº 5.205, de 2019, acerca do estabelecimento de regras de recolhimento compulsório sobre recursos de instituições do Sistema Financeiro Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23922a448df5ec22801e91a3a969b82b3cdc9c2026a06a24daeb56d72b341712
+size 317

@@ -1,1 +1,3 @@
-Importância de realização pela Casa do Seminário Bioma Cerrado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dc4b1aedfdf4c7caa7a06565560058ee537dd6faa12baf34725beb2b4a9c1a2
+size 67

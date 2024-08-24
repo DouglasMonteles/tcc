@@ -1,1 +1,3 @@
-Apresentação, na Comissão de Desenvolvimento Urbano, de requerimento de convocação do Ministro das Cidades, Bruno Araújo, para esclarecimentos sobre a revogação de portarias no âmbito do Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3230f1753bb2bbf148133022b5f1296b13c0d09d1edc7b7cf8da32950816b12
+size 228

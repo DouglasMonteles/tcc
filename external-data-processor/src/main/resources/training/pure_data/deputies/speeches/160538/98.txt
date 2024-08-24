@@ -1,1 +1,3 @@
-Anúncio, pela Presidenta Dilma Rousseff, de construção de moradias populares em Municípios com menos de 50 mil habitantes, por meio do Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:624dc209d97e756e6a059b81105b949421cb2d92193ca888ef83777bb6147eb5
+size 171

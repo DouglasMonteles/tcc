@@ -1,1 +1,3 @@
-Aplausos ao Presidente Rodrigo Maia pela manutenção do funcionamento da Casa durante a pandemia do coronavírus. Necessidade de adoção, por parte do Governo Federal, de ações em prol das camadas menos privilegiadas diante da crise gerada pela Covid-19. Defesa da criação de mecanismos de proteção das médias, pequenas e microempresas. Atenção especial do Governo Jair Bolsonaro com as indústrias envolvidas na produção de insumos e equipamentos médicos destinados ao combate à pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2772dbe1f1f1bb49247a6379d69ca91cc9bd69be81b62fa826d725b82a8937b
+size 520

@@ -1,1 +1,3 @@
-Defesa da aprovação do Projeto de Decreto Legislativo nº 1.491/2014, que susta a aplicação do Decreto nº 8.243, de 2014, que institui a Política Nacional de Participação Social - PNPS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:348187b05bbf8d885c4962ac1c107e56fe6fe36ad067a3937fe1f33180ffc4ed
+size 193

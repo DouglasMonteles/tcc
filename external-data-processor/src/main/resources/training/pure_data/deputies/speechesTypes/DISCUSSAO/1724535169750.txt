@@ -1,1 +1,3 @@
-Debate do Projeto de Lei nº 2.295, de 2000, que dispõe sobre a jornada de trabalho dos enfermeiros, técnicos e auxiliares de enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4707af5cd829ff8ea8cc9be28b4602b7b5f20a95f235bba719adcc07eb694d6d
+size 139

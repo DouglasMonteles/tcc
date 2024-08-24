@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 1.292, de 1995, sobre a alteração da Lei nº 8.666, de 1993, acerca das normas de licitações e contratos da administração pública. Protesto contra a ordem de recolhimento de material LGBT exposto na XIX Bienal Internacional do Livro, no Rio de Janeiro, Estado do Rio de Janeiro. Apoio à atitude do youtuber   Felipe Neto, em relação ao episódio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c200e137fb45fa9cffaf1fbaf2a515506366043d71aaad1e233ede91ec67417d
+size 452

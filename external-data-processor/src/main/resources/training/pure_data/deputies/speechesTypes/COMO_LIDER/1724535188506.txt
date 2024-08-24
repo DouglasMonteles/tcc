@@ -1,1 +1,3 @@
-Considerações acerca do relatório apresentado pelo Deputado Rogério Marinho ao Projeto de Lei nº 6.787, de 2016. Importância de prazo para discussão da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e16da819cde490d1ed959a3e06e548b0233037f910ad5aca3f9736b6a76465d
+size 168

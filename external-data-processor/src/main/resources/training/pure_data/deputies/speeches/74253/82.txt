@@ -1,1 +1,3 @@
-Expectativa de votação, em abril, da admissibilidade do processo de impeachment da Presidente da República, Dilma Rousseff. Repúdio à afirmação do jornalista Ricardo Boechat sobre conduta ética de Parlamentares. Responsabilidade da imprensa e do Congresso Nacional pela crise política no Brasil. Regozijo com atuação da tropa de choque do Estado de São Paulo diante da população em protesto contra o Governo de Dilma Rousseff e contra a nomeação de ex-Presidente da República Luiz Inácio Lula da Silva para o cargo de Ministro-Chefe da Casa Civil da Presidência da República. Satisfação com mobilização popular com reivindicações para mudanças no Brasil. Reconhecimento da trajetória política do ex-Presidente Lula e decepção com sua complacência com posturas antiéticas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:868d23b6639932c1a145256338a361f6aeb62eaa83af2407ec81ff8ab6d269b5
+size 804

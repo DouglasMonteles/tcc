@@ -1,1 +1,3 @@
-Aplausos ao Governador do Estado do Rio de Janeiro, Wilson Witsel, pela extinção da chamada máfia dos reboques. Apelo ao gestor estadual de prestação de atendimento psicológico a policiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fb3f3c8b6e2dfd670e2fd992c23dff6b9969db418cb54f82988d063d5be6aac
+size 195

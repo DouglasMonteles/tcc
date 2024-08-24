@@ -1,1 +1,3 @@
-Posicionamento favorável do PR ao  Projeto de Lei 6.543 de 2006 (Altera a lei 9.882 de 1999, para legitimar para a propositura de arguição de descumprimento  de preceito fundamental, as pessoas lesadas ou ameaçadas de lesão por ato do Poder Público e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:17d548208ee925570dcd9b040d44a127e1d66c9c0fc669695b40f7d31d494c42
+size 283

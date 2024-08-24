@@ -1,1 +1,3 @@
-Inauguração de fábrica de fécula de mandioca no Município de Vitória da Conquista, Estado da Bahia, com base nos princípios da economia solidária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f14f5182fd7806447dc1e4b7f097d9c800c04ea87d655dd318543bae387aab16
+size 154

@@ -1,1 +1,3 @@
-Pedido ao Governo do Estado de Tocantins de abertura de negociações com servidores públicos em greve.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5311842be35c86c34420618546da035449d183e475276f0a5a2154495193f95c
+size 104

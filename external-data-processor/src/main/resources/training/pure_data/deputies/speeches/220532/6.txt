@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 1.987, de 2023, sobre a criação de funções comissionadas no Quadro de Pessoal do Tribunal de Justiça do Distrito Federal e Territórios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fead87a9d0661bc0b54ca9a2c78e7952066709348eb862a236e81d6ff45259f4
+size 183

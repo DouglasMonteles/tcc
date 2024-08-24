@@ -1,1 +1,3 @@
-Imediata aprovação da Proposta de Emenda à Constituição nº 549, de 2006, de interesse dos delegados de polícia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10cec3358f803a6410f188b2ab4a8e29e957878eb53ae075d54cb22dfd4f991c
+size 118

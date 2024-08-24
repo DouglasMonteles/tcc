@@ -1,1 +1,3 @@
-Artigo intitulado Um governo a serviço de quem precisa, de autoria do orador, publicado em o Jornal Pequeno, sobre os primeiros 100 dias de gestão do Governador Flávio Dino, do Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dbfa9022074973933246d7a23777687aea9e4fc9210c0f5c1e50c865c5a607e
+size 200

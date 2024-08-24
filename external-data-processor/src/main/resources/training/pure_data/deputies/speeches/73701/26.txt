@@ -1,1 +1,3 @@
-Relançamento da Frente Parlamentar Mista de Defesa dos Direitos da Pessoa com Deficiência. Assinatura, pelas Presidências do Senado Federal e da Câmara dos Deputados, do termo de adesão à campanha de acessibilidade promovida pelo Conselho Nacional dos Direitos da Pessoa Portadora de Deficiência - CONADE. Desafios do País de inclusão social de portadores de deficiência. Homenagem à artista plástica Eva Leite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1165cc4793fb28bbb26485bb6ae16fa0f581b5f262a6f65033d230a7925fb46c
+size 423

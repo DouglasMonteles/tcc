@@ -1,1 +1,3 @@
-Presença no plenário do Deputado Estadual Marcel van Hattem, do Rio Grande do Sul. Participação do Parlamentar em reunião do PP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daf1921714deaa2a450eb23638753458970a9d5bc5df0d517258510c89430788
+size 133

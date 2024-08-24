@@ -1,1 +1,3 @@
-Crise da saúde pública brasileira. Urgente necessidade de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a alocação de recursos para o setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2d9c114ba28ea7fa5f0ad01a2c5765c197445093493dfaa09f671d091ee535b
+size 163

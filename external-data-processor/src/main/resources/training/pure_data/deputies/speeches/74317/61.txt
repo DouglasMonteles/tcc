@@ -1,1 +1,3 @@
-Avaliação crítica da  questão da distribuição de royalties e participação especial  provenientes da exploração de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:461472238a61039fac8cf899a7871e85e3832ffe679016362e87776af024470a
+size 134

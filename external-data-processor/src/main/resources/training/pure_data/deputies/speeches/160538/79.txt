@@ -1,1 +1,3 @@
-Propósito da Prefeitura Municipal de São Luiz Gonzaga, Estado do Rio Grande do Sul, de privatização dos serviços de abastecimento de água. Necessidade de revisão pela Casa do modelo de concessão dos serviços públicos, para exclusão dos de abastecimento de água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5cdf1e1fc2a00e0843945c4690c46a087383bbc4395600a39a7480b3cc98574
+size 273

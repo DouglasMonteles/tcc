@@ -1,1 +1,3 @@
-Necessidade de realização da reforma tributária e da flexibilização da legislação trabalhista para o fortalecimento do desenvolvimento econômico e social do País. Conveniência de mudanças no sistema eleitoral brasileiro. Desafios nacionais nas áreas de educação, saúde, infraestrutura e logística. Defesa de maiores incentivos à indústria e à agricultura. Balanço da atuação parlamentar do orador em 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b440068ccc6620faa6079d44fd8066e766c34c4d5de8931093e7677bc6a1343
+size 427

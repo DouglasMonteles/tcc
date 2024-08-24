@@ -1,1 +1,3 @@
-Solicitação ao Governador do Estado do Maranhão, Jackson Lago, de ações em prol das populações dos Municípios de Trizidela do Vale e Pedreiras atingidas pelas cheias do Rio Mearim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dec4e13087972114f141b1a4edcf109adf114a6a1639b57c5f6af7abd1f4d866
+size 188

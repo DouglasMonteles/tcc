@@ -1,1 +1,3 @@
-O Deputado encaminhou a votação do requerimento de urgência ao Projeto de Lei nº 2583, de 2020, que institui a Estratégia Nacional de Saúde objetivando estabelecer uma estratégia nacional para incentivo às indústrias nacionais que produzam itens essenciais ao sistema de saúde nacional, bem como a pesquisa e desenvolvimento de produtos, insumos, medicamentos e materiais, com vistas a dar autonomia ao nosso país quanto produção destes itens.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28cab2f88f94c8569d134b45a10cb73e4a10fe1b07e4b2700b0f0bc7800290be
+size 456

@@ -1,1 +1,3 @@
-Apoio à pauta de reivindicações de gestores municipais presentes em Brasília, Distrito Federal. Saudação ao Prefeito Vladimir Azevedo, do Município de Divinópolis, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afa7383a80bc95c2146db86caa982bdb0ea11b91a564399b9ffd987debb3d5ae
+size 195

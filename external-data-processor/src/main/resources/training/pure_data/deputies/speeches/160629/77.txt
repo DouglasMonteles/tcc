@@ -1,1 +1,3 @@
-Promoção da Semana Nacional da Enfermagem. Apoio à fixação da jornada de trabalho dos profissionais da enfermagem em 30 horas semanais e à criação do piso salarial da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30f0c0a1a5b7c31c388b0a4f0fc8f0c107a78cad9f3bc72b31b9ce44af902671
+size 185

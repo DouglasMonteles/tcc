@@ -1,1 +1,3 @@
-Dificuldades dos usuários do sistema de transporte aéreo para aquisição de passagens por meio de milhas. Apresentação pelo orador do Projeto de Lei nº 2.582, de 2022, sobre a alteração da Lei nº 7.565, de 1986, com vista à determinação do percentual máximo de multa, no caso de remarcação de bilhete aéreo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a6d49b3343895ad3fb38bab695dca40eca3ceeca1c0586faff62c99b39f2355
+size 323

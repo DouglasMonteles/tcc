@@ -1,1 +1,3 @@
-Adoção do voto aberto nas deliberações da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ae4b94d57ccc4d2a584753c7412341451ccc748138ba588a6d2c800636b9fde
+size 68

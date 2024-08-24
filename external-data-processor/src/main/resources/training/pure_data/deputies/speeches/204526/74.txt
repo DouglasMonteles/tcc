@@ -1,1 +1,3 @@
-O Deputado discutiu a resistência ao Projeto de Lei nº 3.780, de 2023, que propõe aumento de penas para vários crimes, incluindo o latrocínio. Sugeriu que, além de preocupações legítimas, alguns Parlamentares contrários à proposição podem estar influenciados por conexões com o crime organizado. Criticou a falta de ação efetiva do Parlamento e do Governo contra o crime organizado, enfatizando a importância de políticas mais rigorosas, como o aumento de penas, para combater a criminalidade e o financiamento ilícito de partidos e políticas públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51ba98a16cad2f3b7f4f639de5876665ad56f564dd35f0bfc428ccca227de847
+size 573

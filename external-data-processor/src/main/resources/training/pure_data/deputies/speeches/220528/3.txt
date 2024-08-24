@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de apoio ao Projeto de Lei nº 1.684, de 2023, sobre a definição dos crimes de atentado violento e terrorismo no âmbito escolar. Apresentação de requerimento de apreciação da propositura em regime de urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63ca077b771752eceeae5dc28a982baf951e1629fe5620dbb0a57deb42781825
+size 242

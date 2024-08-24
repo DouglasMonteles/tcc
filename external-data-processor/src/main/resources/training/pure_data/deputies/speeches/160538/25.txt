@@ -1,1 +1,3 @@
-Lançamento, pela Presidenta Dilma Rousseff, de programa de construção de quadras esportivas escolares e de creches, bem como de doação de bicicletas para o transporte escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:392a1c11db72a8f25ce4dc4a45cff83eea45c75678c031d4f1f7809c97dfbbf7
+size 180

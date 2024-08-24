@@ -1,1 +1,3 @@
-O Deputado parabenizou a Casa pela votação do novo arcabouço fiscal (Projeto de Lei Complementar nº 93, de 2023) e enfatizou a aprovação da matéria com a exclusão do Fundo Constitucional do Distrito Federal e do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB. O orador afirmou que, com a garantia de recursos para o Distrito Federal, o Governador Ibaneis Rocha deixou de ter justificativas para não atender pleitos dos servidores públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a2f7e14150cbf193469e0d4f3b906e6f85c8a37e38b87a3192abbff96ef2da7
+size 524

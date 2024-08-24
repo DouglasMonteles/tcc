@@ -1,1 +1,3 @@
-Concessão do Prêmio Selo Cidade Cidadã à Prefeitura Municipal de Natal, Estado do Rio Grande do Norte. Realização de obras de infraestrutura viária no Estado. Empenho do Partido da República na alocação de recursos federais para o Município de Natal, com vistas à realização de jogos da Copa do Mundo de Futebol de 2014 na municipalidade. Defesa da construção de sistema ferroviário de ligação de Natal ao Município de Mossoró. Agilização das obras do Aeroporto de São Gonçalo do Amarante. Realização pelo Partido da República de reunião para debate acerca da proposta governamental de exploração de petróleo na camada pré-sal. Defesa de recomposição da representatividade nas Câmaras Municipais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc7f30c5d301ff6036876ffc1e4058eb222050467857f714334fe7876e8d2c6
+size 744

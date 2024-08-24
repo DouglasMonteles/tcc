@@ -1,1 +1,3 @@
-Relatório do orador, pela aprovação do Projeto de Lei nº 3.402, de 2015, com emenda limitadora das taxas de juros anuais cobradas em operações de crédito a percentual não superior a duas vezes a meta da taxa SELIC ao ano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12893c518189a37e3026f40e03205db6ae93bd2b686bf4884cd017fddfd9490f
+size 229

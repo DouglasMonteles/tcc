@@ -1,1 +1,3 @@
-Aplausos aos Presidente Luiz Inácio Lula da Silva pela suspensão da política de privatização de empresas estatais. Contrariedade à desestatização da Companhia de Saneamento Básico do Estado de São Paulo - SABESP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67f7d51c7f8adb030df2417c0facad4800e942a495ebc24064a973033ac989b6
+size 222

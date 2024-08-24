@@ -1,1 +1,3 @@
-Realização da 15ª Conferência Nacional de Saúde e de marcha em defesa do Sistema Único de Saúde - SUS em Brasília, Distrito Federal. Apoio à ampliação de recursos orçamentários ao SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc40e767a5ccea4f646807be2e0e14449893e54e29386e28f613cf1dddb9b2cb
+size 197

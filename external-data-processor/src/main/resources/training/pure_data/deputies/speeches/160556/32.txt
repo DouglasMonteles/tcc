@@ -1,1 +1,3 @@
-Suspensão da greve de professores no Estado de Minas Gerais. Expectativa de implantação, pelo Estado mineiro, do piso salarial previsto para a categoria. Imperiosidade do repasse aos Estados da Federação de recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef07b46d5221d772f9e098739ad9dbb69bf69afe3e96201d11215f6f55c66d80
+size 346

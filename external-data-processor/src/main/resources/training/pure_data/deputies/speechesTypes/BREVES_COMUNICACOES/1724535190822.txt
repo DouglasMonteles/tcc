@@ -1,1 +1,3 @@
-Defesa de imunização do povo brasileiro contra a Covid-19. Postura criminosa do Presidente Jair Bolsonaro no tocante à epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d2edcc025692c0fd189a320458fae03b3b9ac2f40db9dea369b8eba483fb5cf
+size 147

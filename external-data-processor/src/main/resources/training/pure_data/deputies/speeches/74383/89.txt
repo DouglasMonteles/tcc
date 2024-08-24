@@ -1,1 +1,3 @@
-Consolidação da presença da Deputada Erika Kokay em face de solicitação, pela Deputada, de leitura de ata da sessão anterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2b8db2afa7270ca6bfbee3b49a7b807e1196441312cc51104f18824a18a4855
+size 131

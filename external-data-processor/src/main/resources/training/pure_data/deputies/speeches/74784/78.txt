@@ -1,1 +1,3 @@
-Eleição da Deputada Ana Arraes para Ministra do Tribunal de Contas da União - TCU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:499bf90c9af8a7f46184463f1f3c13d5c7114362636d1357581d4757406bfb30
+size 85

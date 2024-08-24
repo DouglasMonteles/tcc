@@ -1,1 +1,3 @@
-Aplausos ao Ministro do Esporte, Aldo Rebelo, pela reação contra as declarações desrespeitosas do Secretário-Geral da Federação Internacional de Futebol - FIFA, Jérôme Valcke, a respeito da organização da Copa do Mundo de Futebol de 2014. Anúncio de votação do parecer oferecido ao projeto sobre a Lei Geral da Copa. Posicionamento do orador contrário à liberação do consumo de bebidas alcoólicas em estádios durante o evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92cb8fb62602fb6df13e31da1cf59a66f8b7d873d0693d715c354649ad43fae2
+size 446

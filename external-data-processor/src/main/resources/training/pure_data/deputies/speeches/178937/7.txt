@@ -1,1 +1,3 @@
-Agradecimento ao Diretor Executivo do Departamento Nacional de Infraestrutura de Transportes - DNIT, Gustavo Adolfo Andrade de Sá, pela visita às obras de duplicação da BR-493 no Município de Itaboraí, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f795b516869fba969df6ef1238d923a610c61542f20ac6e53ce5932d4c0868e
+size 233

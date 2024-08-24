@@ -1,1 +1,3 @@
-Realização pela bancada federal do Estado da Bahia de encontro para debate da crise da área de saúde. Integração do Hospital da Bahia e do Hospital Salvador à rede pública de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbf80954b39be276ce652c9faf5f033108f58bcf9e98b171120e222c400c8ec6
+size 190

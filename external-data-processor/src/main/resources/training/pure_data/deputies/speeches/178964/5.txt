@@ -1,1 +1,3 @@
-Solidariedade aos caminhoneiros em greve contra os preços do óleo diesel e dos pedágios nas estradas. Descontentamento com a paralisação das obras do Polo Naval do Estado do Rio Grande do Sul.  Solicitação ao Governo Federal de adoção de providências para a continuidade do projeto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90260117695668fe2c5e7c6393937062f0de140edebb01716e21a1e83b7ea713
+size 292

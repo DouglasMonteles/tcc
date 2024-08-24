@@ -1,1 +1,3 @@
-Regozijo com a transformação do Hospital Regional de Toledo, no Estado do Paraná, em hospital universitário e posterior transferência de sua gestão para a Empresa Brasileira de Serviços Hospitalares - EBSERH.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b12fd13482cde94e2295dd80f507100442d565ea7a93b739c7439516ccf8fef4
+size 215

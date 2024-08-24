@@ -1,1 +1,3 @@
-Presença na Casa do Deputado eleito Flavinho, do Estado de São Paulo. Participação na 7ª Marcha Nacional da Cidadania pela Vida contra o Aborto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a87580b2d768673e68e625a65c75912ad4540bb51e3d253cee72c6d4c7716976
+size 149

@@ -1,1 +1,3 @@
-Apoio da bancada do PT à greve dos técnicos de enfermagem do Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01b91fd9e49586acff1a163db26e27255ea016350787cb886a73d32ab8a5645d
+size 84

@@ -1,1 +1,3 @@
-Perseguição do Ministro da Justiça e Segurança Pública, Flávio Dino, ao grupo de Colecionadores, Atiradores e Caçadores - CACs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45bf5911bbf4eb8d4fd3014af336359bb70563ad12a603d4530e63a25bff820e
+size 134

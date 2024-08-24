@@ -1,1 +1,3 @@
-Caráter preconceituoso de discurso proferido por Deputado contra a comunidade LGBT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db74777dc21c71caebd05d3ba8473859e036fb58d8cd923dca915c9ef5fd62ca
+size 84

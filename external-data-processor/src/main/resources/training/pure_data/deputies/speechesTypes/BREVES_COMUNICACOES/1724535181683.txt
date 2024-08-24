@@ -1,1 +1,3 @@
-Transcurso do Dia do Comerciário. Realização do 27º Congresso Sindical Comerciário com o tema Sindicalismo Reorganizado, no Município de Avaré, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c9e5ef655fa676ec0e040b32b102ebcf901b7323dbe497096c03c3dd8b461e0
+size 172

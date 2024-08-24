@@ -1,1 +1,3 @@
-Necessidade da adoção de ações conjuntas entre governantes, organismos policiais e os Poderes da República para o efetivo combate ao tráfico de drogas e de armas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f3db81f472c2327aca27ccd5da5584a1c73e1ac01c74fca41584a771d7b5b8a
+size 177

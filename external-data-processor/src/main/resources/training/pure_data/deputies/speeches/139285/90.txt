@@ -1,1 +1,3 @@
-Concessão do Prêmio Nacional Top Prefeitos 2009 aos Prefeitos Wilson Paes Cardoso e João Hipólito, respectivamente dos Municípios de Andaraí e Abaíra, Estado da Bahia. Apoio ao tombamento das instalações do Colégio Marista em Salvador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:767ed4fb7051c90b21bddcc7d5c87ceb4f30c62a5600b1ad1dea9c63f4f9e8ea
+size 245

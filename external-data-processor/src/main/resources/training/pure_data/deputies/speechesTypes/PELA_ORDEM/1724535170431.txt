@@ -1,1 +1,3 @@
-Assunção pelo orador da Liderança do PSC na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32e37226b342570a6c9431c516ddefe369a27731f196b50b24e377d16357f47b
+size 69

@@ -1,1 +1,3 @@
-Pedido à Presidência de inclusão do nome do orador no sorteio para uso da palavra no horário do Grande Expediente. Propósito de manifestação sobre concessão do título de Cidadão Baiano ao orador pela Assembléia Legislativa do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7110c43ab7a870728fe4607a9a1c1900bc708d5a02c4f5fa40d84fd4c4865564
+size 253

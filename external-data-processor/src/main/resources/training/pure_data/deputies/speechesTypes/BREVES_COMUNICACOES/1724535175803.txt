@@ -1,1 +1,3 @@
-Congratulações ao Governador do Distrito Federal, Ibaneis Rocha, pela decisão de reabertura de salões de beleza e academias. Apelo aos Prefeitos Municipais da região do Entorno de Brasília, por reabertura de igrejas e templos religiosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:135e2c3a92734fc2997c9247e0996bec6517392047158f8657d754c746e40132
+size 243

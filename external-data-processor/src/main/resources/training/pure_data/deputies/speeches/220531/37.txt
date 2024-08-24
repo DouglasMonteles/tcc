@@ -1,1 +1,3 @@
-Aplausos ao Governo Ibaneis Rocha e ao Administrador Artur Nogueira pela realização de obras de recapeamento asfáltico, e pela construção de hospital e Unidade de Pronto Atendimento - UPA na Cidade-Satélite do Guará, no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be25e9ceb165d84531b0e8b876409e76352fe9219f389c6df60c8b05be3794d5
+size 244

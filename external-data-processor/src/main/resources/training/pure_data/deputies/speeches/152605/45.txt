@@ -1,1 +1,3 @@
-Participação popular no processo de elaboração de emendas ao Orçamento Geral da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:201f0f4b1c694af71caa9fbce56025eb1ab4ffa1766ecb2a42e0f0a8267b505e
+size 92

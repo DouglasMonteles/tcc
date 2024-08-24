@@ -1,1 +1,3 @@
-Posicionamento favorável do PP  ao Requerimento de prorrogação da CPI destinada  à investigação dos reajustes de tarifas de energia elétrica (CPI da ANEEL).
+version https://git-lfs.github.com/spec/v1
+oid sha256:05df4a418aa7c4e7fcfd73c4c0de2b79335b72eb225c1886c0d28cf98ed65d5b
+size 163

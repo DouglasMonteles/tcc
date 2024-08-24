@@ -1,1 +1,3 @@
-Agradecimento aos eleitores piauienses pelos votos concedidos ao orador, pela eleição do candidato ao Governo do Estado do Piauí, Rafael Fonteles, e do Senador Wellington Dias. Expressiva votação alcançada pelo presidenciável Luiz Inácio Lula da Silva no Estado. Realizações do ex-Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e72c50298145673004a2bbb8764e0856615384d5c92875388f4e35d109ec625
+size 316

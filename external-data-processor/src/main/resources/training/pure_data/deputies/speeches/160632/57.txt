@@ -1,1 +1,3 @@
-Presença no Congresso Nacional dos extensionistas da EMATER/Minas eleitos Prefeitos Municipais: Antonio Rodrigues, de Bandeira; Wendel Pereira, de Juramento; Maria da Glória dos Reis, de Guimarânia; e Juliano Diogo, de Claraval, Estado de Minas Gerais. Realização pela Casa de sessão solene em homenagem à Extensão Rural brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a3f0effa10349955347e0a37850bcd78297261ad687f68d94ece307bf0008f8
+size 340

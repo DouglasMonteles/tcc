@@ -1,1 +1,3 @@
-Inconveniência da realização de julgamento prévio do Colégio Christus, em Fortaleza, Estado do Ceará, diante de denúncias de vazamento de questões do Exame Nacional do Ensino Médio - ENEM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21cf4f2e1f0f94be99a1abf010bc97371b43b9d8c0cf4dee41f41f51dd30c1f3
+size 197

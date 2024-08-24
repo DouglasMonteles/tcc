@@ -1,1 +1,3 @@
-Debate da situação das universidades públicas, dos Institutos Federais de Educação, Ciência e Tecnologia e do Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09e338309ea6916ffd6e963ad05fad6db225d42d7fb81bfffdd2a4128096b3a5
+size 187

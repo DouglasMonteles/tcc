@@ -1,1 +1,3 @@
-Transcurso do 442º aniversário do Município de Niterói, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e05b489e4ad81acc01a4467a55e00feda43c85acc9db852baab4421e939c1b1
+size 85

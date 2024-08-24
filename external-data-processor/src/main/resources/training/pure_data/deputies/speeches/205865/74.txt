@@ -1,1 +1,3 @@
-Incoerência do posicionamento de Deputados do PT em defesa da greve dos petroleiros e da empresa Petróleo Brasileiro S/A - PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45adbadb6904308fe5df7be45fd9a35a0a591f403816ef817eaf9edd68a6000c
+size 135

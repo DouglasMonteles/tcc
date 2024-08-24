@@ -1,1 +1,3 @@
-Defesa de rejeição da medida provisória.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25694a7497b28d8fa4f49bfbf308709ffa46fb9149d65cb0ee01e4822127b2ff
+size 43

@@ -1,1 +1,3 @@
-Orientação de bancada na votação de requerimento de retirada de pauta da Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental. Questionamento ao Senador Flávio Bolsonaro sobre nova solicitação ao Poder Judiciário de impedimento da quebra do seu sigilo bancário. Conclamação à população brasileira de participação em manifestações de rua no dia 30 de maio de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0037dcedf6b1186cca47b27cc305a94501d2fb69a7115e152bb905a01d8dcee
+size 446

@@ -1,1 +1,3 @@
-Participação nas manifestações contra o Governo Federal do dia 16 de agosto, no Estado do Ceará. Agradecimentos ao povo cearense pela boa recepção prestada ao orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17dd58c856cff824b97cd3f7d84dd949a87ebb5f28b0424386cfab9bf65d4d3f
+size 173

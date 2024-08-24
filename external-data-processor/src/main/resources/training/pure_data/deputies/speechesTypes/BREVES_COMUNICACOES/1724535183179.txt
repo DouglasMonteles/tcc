@@ -1,1 +1,3 @@
-Transcurso do 162º aniversário de criação do Bairro do Barreiro, em Belo Horizonte, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50ab6d21290e9c279d1546d44432134e8882313927b317e75d9f0bd614cfd014
+size 111

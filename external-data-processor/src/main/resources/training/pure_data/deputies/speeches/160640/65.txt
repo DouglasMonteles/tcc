@@ -1,1 +1,3 @@
-Perplexidade com o assassinato do Diretor-Presidente da Editora Vozes e apresentador da TV Canção Nova, Frei Antônio Moser. Premência de coibição da violência no Brasil. Condolências à família de Frei Antônio Moser.
+version https://git-lfs.github.com/spec/v1
+oid sha256:720d734ee25fb16a92bbb60d7ed8b19c1fc1a90ad594b254b32bd844d660bc63
+size 226

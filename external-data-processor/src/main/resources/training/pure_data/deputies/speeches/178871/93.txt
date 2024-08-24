@@ -1,1 +1,3 @@
-Realização da 3ª Feira de Negócios do Município de Iúna, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f057b01089b9ae9035ccaa7eb612f42814787e9942e2fa2b8532cc76fecfc296
+size 89

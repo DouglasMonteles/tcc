@@ -1,1 +1,3 @@
-Importância da aprovação do Projeto de Lei do Congresso Nacional nº 1, de 2020, relativo à alteração da Lei de Diretrizes Orçamentárias - LDO 2020, com vista à recomposição salarial das carreiras custeadas pelo Fundo Constitucional do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0893f58a818e6b0d0469b74ba0ae71a72adb16bd2d4f1fb16063a6dbc42ae80d
+size 264

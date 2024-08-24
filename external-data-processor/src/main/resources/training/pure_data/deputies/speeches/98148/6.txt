@@ -1,1 +1,3 @@
-Competência do Ministro dos Transportes, Renan Filho. Retomada de obras de infraestrutura rodoviária no Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6be9c04c0f90f72d4b5b585cbc4afd163a94a20a745286733c44bd9061455739
+size 131

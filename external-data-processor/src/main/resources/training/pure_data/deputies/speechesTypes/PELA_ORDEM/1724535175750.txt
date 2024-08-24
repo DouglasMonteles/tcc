@@ -1,1 +1,3 @@
-Anúncio da liberação, pela Secretaria da Receita Federal do Brasil, de recursos arrecadados por meio de ações judiciais interpostas pela Procuradoria-Geral da Fazenda Nacional. Finalização dos cálculos para o pagamento a Estados e Municípios de valores relativos ao aumento em 1% do Fundo de Participação dos Municípios - FPM e do Fundo de Participação dos Estados - FPE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:461e8a62675370bc2e0bd8e0557eee77e848126dc6c71ca2689b0fd8634d71f0
+size 385

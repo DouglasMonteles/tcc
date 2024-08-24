@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de aprovação do Projeto de Lei nº 5.890, de 2019, sobre a obrigatoriedade de fornecimento gratuito, pelo poder público, de medicamentos especiais às pessoas carentes em quadros irreversíveis decorrentes de doenças crônicas, acidentes e outros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a20924bb2594322fe159eb778949450a6624b9e552a230dfe95e40409e5ea2d9
+size 276

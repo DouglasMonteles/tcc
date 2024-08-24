@@ -1,1 +1,3 @@
-Balanço dos trabalhos realizados pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara dos Deputados em 2017. Pedido à Presidência de votação do Projeto de Resolução nº 105, de 2012, para denominação da Sala da Presidência da Comissão como Sala Deputado Moacir Micheletto em homenagem à atuação do Parlamentar em prol do desenvolvimento do setor agropecuário
+version https://git-lfs.github.com/spec/v1
+oid sha256:e559d39bfa15e6bd7701391d772097918e5e633e9bb4e2b43b78dc686d4b0222
+size 411

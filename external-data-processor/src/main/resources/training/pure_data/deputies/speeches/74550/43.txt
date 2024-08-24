@@ -1,1 +1,3 @@
-Apresentação de requerimento de inclusão na pauta da Proposta de Emenda à Constituição nº 57, de 1999, acerca da instituição do Fundo Nacional de Desenvolvimento do Semiárido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:166358b77e74abad3e60b7d78dbd2f382fbc618682743ba699a91e259c05257c
+size 185

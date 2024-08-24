@@ -1,1 +1,3 @@
-Pesquisa sobre violência doméstica e familiar contra a mulher do DataSenado. Realização da V Marcha das Margaridas em Brasília, Distrito Federal. Saudação a trabalhadoras rurais cearenses presentes no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c1fb5e13beedc49375f5bb1da278894a3fcc5916fbe5983f72bd0949cb9ccd7
+size 215

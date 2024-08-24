@@ -1,1 +1,3 @@
-Empenho do orador pelo respeito aos direitos trabalhistas de funcionários não concursados da Casa, em especial os Secretários Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6002ee671e9aa0902b456ac01628ba357e48901cc2e83ac4aa78c25078993ad7
+size 143

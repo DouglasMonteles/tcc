@@ -1,1 +1,3 @@
-Posicionamento favorável do  DEM  ao  Projeto de Decreto Legislativo 354 de 2011 ( Aprova o texto do acordo entre o Governo da República Federativa do Brasil e o Governo da República da Turquia sobre o Trabalho Remunerado de Dependentes de Membros de Missões Diplomática e Repartições Consulares , assinado em Ancara, em 21 de outubro de 2010 ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f296a2491e2dbc16369bee4738e60b97cb7b82da425c75059e3e8f633c97c02e
+size 352

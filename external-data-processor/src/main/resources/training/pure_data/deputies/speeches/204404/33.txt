@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 2.474, de 2020, referente à cessão de créditos obtidos em sistema de compensação de energia elétrica, durante a emergência de saúde pública decorrente da epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f0b14eae884a7a318a52f4220874a407810d7e6af54d8cfad4ec3d4e2264ead
+size 221

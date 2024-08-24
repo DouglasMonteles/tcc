@@ -1,1 +1,3 @@
-Reconhecimento pelo Fundo Monetário Internacional - FMI da importância do Programa Bolsa Família para a retirada de pessoas da situação de extrema pobreza. Congratulações aos Ministros do Desenvolvimento Agrário, Patrus Ananias, e da Educação, Renato Janine, pelo debate do tema sobre a educação no campo. Regulamentação do Canal da Educação pelos Ministros das Comunicações, Ricardo Berzoini, e da Educação, Renato Janine.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f109c256216339741236317545768bd638277e29dc9c7c3af9a4e732f9f39cab
+size 443

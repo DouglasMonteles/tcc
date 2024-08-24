@@ -1,1 +1,3 @@
-Congratulações ao Ministro da Fazenda, Fernando Haddad, pela contenção de gastos públicos no âmbito do novo regime fiscal. Defesa de retirada, do teto de gastos públicos, da Defensoria Pública e da assistência judiciária gratuita. Apoio à liberdade de expressão e de pensamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f2b124ef940e76119e3aed6c7525cb23b17e86bd172bec9abf39b210e78568e
+size 290

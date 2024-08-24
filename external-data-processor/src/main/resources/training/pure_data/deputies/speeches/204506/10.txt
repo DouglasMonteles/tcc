@@ -1,1 +1,3 @@
-Posicionamento da Presidência a respeito da questão levantada pelo Deputado Afonso Florence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edfbc6059dd53bcbf253f75e29bb314da8fea9cc5449c70f9c29ff5ddf17e524
+size 94

@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar de Acompanhamento da Ferrovia Oeste-Leste e Porto Sul. Imediata concessão, pelo IBAMA, de licença ambiental para a construção do Porto Sul, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5733a09558a916cb6c9b25f65a34882c1451e28c2931eff3f78a6c9ad9248e33
+size 197

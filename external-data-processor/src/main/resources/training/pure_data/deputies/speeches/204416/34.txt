@@ -1,1 +1,3 @@
-Importância de aprovação pela Casa do Projeto de Lei nº 4.805-A, de 2019, sobre a política industrial para os setores de tecnologia da informação e comunicação e de semicondutores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25e0d3074f6d5d33a7a90bc59442a12475617da635b0a7cc80479a68b6b8eebe
+size 189

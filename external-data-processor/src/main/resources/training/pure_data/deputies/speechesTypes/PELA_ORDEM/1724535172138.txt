@@ -1,1 +1,3 @@
-Pedido de aprovação do Projeto de Lei nº 1.302, de 2023, sobre a prorrogação, por 24 meses, da administração do Aeroporto Carlos Prates pela Empresa Brasileira de Infraestrutura Aeroportuária – INFRAERO, em Belo Horizonte, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5f1dd410c99c40668489a9ca4766ba8d90fdbd3c827eae27047f159e999c658
+size 256

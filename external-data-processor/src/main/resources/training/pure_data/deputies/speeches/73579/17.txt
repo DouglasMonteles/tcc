@@ -1,1 +1,3 @@
-Sugestão à Presidência para início da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0975cd747cd696d2001e4d4e4d3d5aa6ac433880be5904af6a7c325cdf10146e
+size 55

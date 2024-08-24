@@ -1,1 +1,3 @@
-Realização das festas juninas no Município de Maracanaú, Estado do Ceará. Convite aos Parlamentares para participação no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:472fe1565447303d760da92994c7d281d63769bfb8fdfea10b4848907fc1f964
+size 135

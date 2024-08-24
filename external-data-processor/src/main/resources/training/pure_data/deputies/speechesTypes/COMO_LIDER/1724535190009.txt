@@ -1,1 +1,3 @@
-Atribuição à empresa Enel da responsabilidade pela crise no fornecimento de energia elétrica no Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c65e9859cec8ef43a070a725be5c92e2772f2a0b40cb58fcf6f1a96c81529d7
+size 117

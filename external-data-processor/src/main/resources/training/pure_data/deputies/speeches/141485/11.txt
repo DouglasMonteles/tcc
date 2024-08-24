@@ -1,1 +1,3 @@
-Posicionamento favorável do PTB  ao Projeto de Lei 4.667 de 2009 (Institui o Ato Olímpico, no âmbito da administração pública federal, com a finalidade de assegurar garantias à candidatura da cidade do  Rio de Janeiro a sede dos Jogos Olímpicos e Paraolímpicos de 2016 e estabelecer regras especiais para a sua realização, condicionada a aplicação desta Lei à confirmação da escolha da referida cidade pelo Comitê Olímpico Internacional).
+version https://git-lfs.github.com/spec/v1
+oid sha256:132088dbd4a2dbef512a9272aaf1cabb88eb073d518d4419e3cb3df24563f26d
+size 456

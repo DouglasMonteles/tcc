@@ -1,1 +1,3 @@
-Relato da visita do orador aos Municípios de Corinto, Diamantina, São Francisco e Brasília de Minas. Comprometimento com as demandas das municipalidades do norte de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd1e66e09b7eaa1451d962307c1c51cf864f7f395d0bb8c18490abf026533fc6
+size 181

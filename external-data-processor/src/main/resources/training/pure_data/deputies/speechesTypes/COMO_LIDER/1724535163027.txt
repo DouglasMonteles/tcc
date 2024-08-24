@@ -1,1 +1,3 @@
-Recuperação da economia brasileira ante os efeitos da crise financeira mundial. Adoção, pelo Presidente Luiz Inácio Lula da Silva, de medidas destinadas ao fortalecimento do mercado interno. Relevância de medidas de desoneração tributária adotadas pelo Governo Federal. Atribuição ao orador da relatoria de projeto de lei sobre a desoneração do transporte urbano. Expectativa de redução de tarifas do transporte coletivo urbano, mediante a desoneração do setor e a redução do preço do óleo diesel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b91613b21dbf073f0917ef7d300f4962860efcc417c0b86cc12ac0e203cb50ad
+size 518

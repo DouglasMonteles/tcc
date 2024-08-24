@@ -1,1 +1,3 @@
-Prejuízos causados aos usuários pela privatização da Companhia Energética de Goiás - CELG.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddb2ff8289698f8fe1d3c7a4504531418bcd1f99925b76f99199056e06492cfc
+size 96

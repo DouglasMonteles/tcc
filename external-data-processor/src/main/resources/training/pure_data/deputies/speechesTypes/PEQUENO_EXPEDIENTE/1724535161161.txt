@@ -1,1 +1,3 @@
-Urgente necessidade de adoção, pelo Governo Federal e pelo Governo do Estado do Maranhão, de ações em prol do Município de Boa Vista do Gurupi atingido por enchentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3f6eb522283740a861d7d0204625789a01ee2e723ee79af34c680fd0a04bf6c
+size 172

@@ -1,1 +1,3 @@
-Referência à mudança de voto ao Recurso 90 de 2007 contra a apreciação conclusiva da Comissão de Constituição e Justiça e de Cidadania sobre o Projeto de Lei 836 de 2003 (Disciplina o funcionamento de bancos de dados e serviços de proteção ao crédito e congêneres e dá outras providências),em votação nominal por força de verificação de votação, diante do acordo em andamento para a aprovação do Recurso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85fa517650003653734b0f0839cde69d5f39e84cccd53882a0a40562bb945485
+size 429

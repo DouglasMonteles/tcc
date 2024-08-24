@@ -1,1 +1,3 @@
-Apoio à proposta do Deputado Arlindo Chinaglia de aprovação, pela Casa, de moção de repúdio ao governo norte-americano por prática de espionagem contra a Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d2e5ff0e7a0796c0ee104f9e03eaf3c3ee9ee16d3aea96674b5718d3cffd965
+size 187

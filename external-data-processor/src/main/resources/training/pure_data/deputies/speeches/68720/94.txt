@@ -1,1 +1,3 @@
-Solidariedade à greve dos petroleiros. Apelo à direção da empresa Petróleo Brasileiro S/A - PETROBRAS de abertura de negociações com a categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b22545f3a82a0d040648f3448eaf857b20e2028acd78ae10872ab391676f6971
+size 152

@@ -1,1 +1,3 @@
-Agradecimentos à Vereadora Cida Juliã pela iniciativa de outorga à oradora do Título de Cidadã do Município de São João do Sabugi, Estado do Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19765ffbd3bc7de19c9c2a82ad97bdac50226fcc883cce11afed9f0480db8c8f
+size 169

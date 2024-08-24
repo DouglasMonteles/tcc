@@ -1,1 +1,3 @@
-Importância do seguro agrícola para a produção de uva no Brasil. Incompatibilidade do cronograma de liberação de recursos com o cronograma do plano agrícola e pecuário anual. Sugestão ao Poder Executivo de edição de medida provisória para liberação de recursos suplementares do ano de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75beab05e47ef2efa4f3c31ff2bae7297e1977ea8d361180c0458f4e99e68052
+size 304

@@ -1,1 +1,3 @@
-Transcurso do 46º aniversário de criação do Bairro do Pirambu, em Fortaleza, Estado do Ceará. Carência de serviços públicos essenciais no bairro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7ee86fda34392070ab70d99ca8dcb0418ff4e9bf40d7afb7844f13f3de3bf50
+size 153

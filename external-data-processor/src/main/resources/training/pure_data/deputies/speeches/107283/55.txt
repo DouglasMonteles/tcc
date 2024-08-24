@@ -1,1 +1,3 @@
-Saudação ao movimento grevista dos petroleiros da empresa Petróleo Brasileiro S/A - PETROBRAS. Êxito da luta da categoria com a suspensão das demissões de funcionários da Fábrica de Fertilizantes Nitrogenados - FAFEN pelo Tribunal Regional do Trabalho do Estado do Paraná. Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 897, de 2019, sobre a instituição do Fundo de Aval Fraterno e sobre o patrimônio de afetação de propriedades rurais, a Cédula Imobiliária Rural, a escrituração de títulos de crédito e a concessão de subvenção econômica para empresas cerealistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59f5047248b0bc081ad5a4cd8fb078fe7d7273a394f7fe4f1c7238afea66d350
+size 642

@@ -1,1 +1,3 @@
-Baixos salários pagos a professores e servidores da rede pública de ensino no Estado de Minas Gerais. Solidariedade a servidores públicos estaduais em greve e ao ex-Presidente da República Luiz Inácio Lula da Silva, em tratamento contra câncer. Lançamento, pela Presidenta Dilma Rousseff, do Plano Nacional dos Direitos da Pessoa com Deficiência - Viver Sem Limite. Desempenho do Ministro da Saúde, Alexandre Padilha. Anúncio de investimentos da Pasta da Saúde na região do Triângulo Mineiro, especialmente no Município de Uberlândia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:917fb69139a901da943469623bd78ce43ba59abbce37b4a4f7b172def23fab77
+size 549

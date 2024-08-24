@@ -1,1 +1,3 @@
-Aprovação pela Casa de relevantes proposições de interesse do País. Revisão do pacto federativo em prol dos Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0917c4768546053941a1997100912d2c622076f7136de710b650b23535e30393
+size 136

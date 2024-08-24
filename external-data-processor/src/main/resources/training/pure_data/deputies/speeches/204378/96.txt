@@ -1,1 +1,3 @@
-Visita do orador à Base Aérea de Porto Velho, Estado de Rondônia, para acompanhamento da operação de combate aos focos de incêndio na região amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da3dd70b90429c7d170694b039ae6979db4bb7637a9dc9708ada5ec53a5d4ec2
+size 159

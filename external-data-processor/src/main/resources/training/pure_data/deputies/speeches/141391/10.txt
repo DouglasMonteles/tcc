@@ -1,1 +1,3 @@
-Importância estratégica da bioeletricidade como matriz energética.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30236641f4a9e1fef812e27bad620a89474d535784f444758a10ecaeffc8ad1a
+size 69

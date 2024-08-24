@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT  à Subemenda Substitutiva Global de Plenário ao Projeto de Lei 6.381 de 2005 (Dispõe sobre a Política Nacional de Irrigação e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3429fb7f32ca4daa379510b1dda8635b24667f3197989a0a3e24444f8181b039
+size 191

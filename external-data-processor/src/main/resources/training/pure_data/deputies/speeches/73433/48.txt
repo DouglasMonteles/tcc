@@ -1,1 +1,3 @@
-Concessão da palavra ao Relator da Medida Provisória 399 de 2007 (Abre crédito extraordinário em favor da Presidência da República e dos Ministério das Relações Exteriores, dos Transportes, do Meio Ambiente e da Integração Nacional, para os fins que especifica), para esclarecimento ao Plenário sobre dúvida levantada pelo Deputado Paulo Bornhausen sobre parecer à matéria .
+version https://git-lfs.github.com/spec/v1
+oid sha256:8db61553b3cf60ec7c6bc56fa9b49c7ba73c8a2e10ad38ab771eebf0cf292dbc
+size 389

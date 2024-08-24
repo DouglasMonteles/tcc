@@ -1,1 +1,3 @@
-Comissão Geral para debate acerca do assassinato de policiais militares e demais agentes públicos de segurança no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:478b0b5b3a7ccfcc93e9104b653229256595e3827ee740c325bbc081c8a643f7
+size 124

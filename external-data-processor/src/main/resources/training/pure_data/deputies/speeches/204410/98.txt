@@ -1,1 +1,3 @@
-A Deputada realizou a abertura dos trabalhos da Comissão Geral para debater os cuidados paliativos no âmbito do sistema brasileiro de saúde. Foram convidados para compor a mesa, a Doutora Mariana Borges Dias, que representou o Ministério da Saúde, e outros especialistas, incluindo médicos, acadêmicos e pacientes que passaram por cuidados paliativos. Foi lida a mensagem do Presidente da Câmara dos Deputados, Arthur Lira, que destacou a importância do tema e a necessidade de discutir a situação dos cuidados paliativos no Sistema Único de Saúde (SUS). A Deputada destacou a aprovação na Comissão de Constituição e Justiça e de Cidadania, do Projeto de Lei nº 2460, de 2022, que institui o Programa Nacional de Cuidados Paliativos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75bea607231080032fa201ad18151e2faf1ab0ae4b754841d2fefa411032076e
+size 753

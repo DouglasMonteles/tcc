@@ -1,1 +1,3 @@
-Esclarecimentos relativos à Secretaria de Políticas para as Mulheres, da Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cae92f2456a05675b50250ca20e65d1c5ea9b339cfaa19b9b259eb9668f62a6b
+size 102

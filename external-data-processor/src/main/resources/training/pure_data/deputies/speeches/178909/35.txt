@@ -1,1 +1,3 @@
-Realização de reunião da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural para debate sobre merenda escolar no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a49c9a00aef62dc6b1881a2bf100bc0a8145487ea836f11586fe3e5d72beebe
+size 147

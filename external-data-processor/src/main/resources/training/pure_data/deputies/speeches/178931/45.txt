@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a criação do Conselho de Proteção ao Idoso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bfff93e99bbbe3e285c75c74d2566573706ceeee8cca6b4762bd69fc402125e
+size 86

@@ -1,1 +1,3 @@
-Incentivo do governo anterior ao armamentismo, ao ódio e à violência. Assassinato de alunos nas dependências do Colégio Estadual Professora Helena Kolody, no Município de Cambé, Estado do Paraná. Exploração política da tragédia pelo Governador Estadual. Tragédia provocada por aluno da Polícia Militar no Município de Araucária. Discussão de medidas de combate à violência no ambiente escolar e no âmbito da sociedade brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4212f5cdedcf004d1be976d0d44b09a38c8dad16a26ec60f6cbbf285714e617b
+size 449

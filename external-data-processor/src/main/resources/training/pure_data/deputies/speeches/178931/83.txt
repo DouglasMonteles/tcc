@@ -1,1 +1,3 @@
-Anúncio de realização, pelo Governo do Estado do Paraná e pelo SEBRAE paranaense, do Encontro das Prefeitas e Prefeitos Eleitos - Gestão 2017/2020, como parte do Programa de Estudos Avançados para Líderes Públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fe4163216dd9ba692cee61ac3e5ca9c74d603be63201e452a8eea2c0267a09a
+size 222

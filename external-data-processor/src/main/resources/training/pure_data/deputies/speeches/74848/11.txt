@@ -1,1 +1,3 @@
-Continuação da leitura do parecer, pela Comissão Mista, à Medida Provisória  521  de 2010 (Altera a Lei   6.932 de 1981, que dispõe sobre as atividades do médico-residente e prorroga o prazo de pagamento da Gratificação de Representação de Gabinete e da Gratificação Temporária para os servidores ou empregados requisitados pela Advocacia-Geral da União).
+version https://git-lfs.github.com/spec/v1
+oid sha256:39fee7d2e94abd0bcea770d21becc0c2c4ff01c405840bd398a0c702748d71e2
+size 370

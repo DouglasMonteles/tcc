@@ -1,1 +1,3 @@
-Realização do Seminário Internacional sobre  Desenvolvimento, pelo Conselho de Desenvolvimento Econômico e Social. Congratulação à Presidência da Casa pela criação de Comissões Especiais destinadas à avaliação do impacto da crise econômica mundial no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1619e85d51cad77362180b7c6d97e5451da033d3453b06959ec03412383cc3e2
+size 273

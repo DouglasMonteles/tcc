@@ -1,1 +1,3 @@
-Importância dos recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais de Educação - FUNDEB para o desenvolvimento do Piauí. Discrepância entre a baixa classificação do Estado junto ao Índice de Desenvolvimento Humano - IDH e o desempenho educacional piauiense. Relevância do papel desenvolvido pelo FUNDEB na redução das desigualdades regionais e no desenvolvimento educacional brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6b2719f42ad0658b9b9c42ababe86e7f5e546439e5227c19b4da2d8e07b7cbd
+size 457

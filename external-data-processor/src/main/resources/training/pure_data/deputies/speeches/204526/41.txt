@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 85, apresentada ao Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022 (novo arcabouço fiscal).&nbsp;
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fed1e15baa4dee9ec1cb7dd25bda18dcb433be89dcd122247c7f3fbcccdb818
+size 461

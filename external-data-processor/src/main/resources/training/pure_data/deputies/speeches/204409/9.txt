@@ -1,1 +1,3 @@
-Presença no plenário do ex-Deputado Federal Lélio Miguel Antunes de Souza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b861f0a598e35580e6fb3aef072410b918964df0cf43139032a79037fc588896
+size 77

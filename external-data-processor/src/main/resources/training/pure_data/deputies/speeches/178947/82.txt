@@ -1,1 +1,3 @@
-Pedido ao Governador interino do Estado do Rio de Janeiro, Francisco Dornelles, de atenção à situação da segurança pública no Município fluminense de São João de Meriti. Congratulação ao Vereador Rony Ferraz, da municipalidade, pela atuação em prol da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f62cd2d89809f3cf1160d18a4f9b3afdf23818751900e586e2383e6f49021fe3
+size 275

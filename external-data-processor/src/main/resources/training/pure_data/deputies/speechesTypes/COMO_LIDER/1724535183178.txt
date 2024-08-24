@@ -1,1 +1,3 @@
-Falta de condições do Deputado Ivan Valente para participação em debate em defesa das classes menos favorecidas no processo de reforma previdenciária, tendo em vista à sua inscrição no Plano de Previdência Social dos Congressistas e consequente recebimento de aposentadoria especial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47d4120a97611979e5022ccfb0c8806a4516f807f52506595f9d9323b24419cc
+size 292

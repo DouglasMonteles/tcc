@@ -1,1 +1,3 @@
-Presença  nas galerias do plenários de alunos da Faculdade Raízes, do Município de Anápolis, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a4afa7504f38e609f623f46eeff524f8ea7899efdc2945fd2b4bbabd7ddc779
+size 115

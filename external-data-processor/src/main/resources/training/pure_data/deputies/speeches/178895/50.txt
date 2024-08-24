@@ -1,1 +1,3 @@
-Prisão de traficantes, pelo Batalhão de Operações Especiais - BOPE da Polícia Militar do Estado do Rio de Janeiro, na posse de armas de uso restrito. Apresentação de proposta de alteração do Estatuto do Desarmamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:807131cefbe8287b42329b99ed7c712f1c3b80ab36fda4a477d60fe5e2d11ca1
+size 225

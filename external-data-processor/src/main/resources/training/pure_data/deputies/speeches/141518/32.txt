@@ -1,1 +1,3 @@
-Luta histórica do PDT pela extinção do fator previdenciário. Conveniência do levantamento da obstrução para votação do projeto de lei que cria Varas Federais no Estado do Amapá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28fe0d234f1cb5781bc34853670a179d981db9ffd1de14036b1086914d9b7ecd
+size 187

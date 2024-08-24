@@ -1,1 +1,3 @@
-Apresentação de requerimento de informações sobre medidas de combate à violência contra a mulher no Vale do Jequitinhonha, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56a417819f17d6de4324f34bcc8d1cfafd34b69dd291c7eb53c44d4a3dcb7826
+size 152

@@ -1,1 +1,3 @@
-Necessidade de adoção, pelo Governo Federal, de medidas contra movimento externo prejudicial ao desenvolvimento do agricultura brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48214d6306d04e53f97d4edc5b4534a28bd3161e71275702c439c218cd8dfad4
+size 140

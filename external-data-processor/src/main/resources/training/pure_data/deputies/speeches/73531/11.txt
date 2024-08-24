@@ -1,1 +1,3 @@
-Contrariedade à pretendida desestatização da Companhia Energética de São Paulo S/A - CESP. Conseqüências negativas da privatização do Rodoanel Metropolitano de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08113bf77084cb26e5497034796a95afa7fa7a92f87f5a997142c6b14d6de150
+size 180

@@ -1,1 +1,3 @@
-Apresentação de requerimento de inclusão na Ordem do Dia a votação da Proposta de Emenda à Constituição nº 11, de 2022,  sobre a instituição do piso salarial nacional do enfermeiro, do técnico de enfermagem, do auxiliar de enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89b966cc0df92ca6d526617cc380ef7d99e50e9541dead0c32ee559cea22c1bb
+size 260

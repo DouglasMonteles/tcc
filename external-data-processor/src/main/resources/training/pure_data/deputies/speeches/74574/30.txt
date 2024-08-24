@@ -1,1 +1,3 @@
-Expediente encaminhado pelo Sindicato Rural Patronal de Vitória da Conquista à Federação da Agricultura e Pecuária do Estado da Bahia - FAEB, acerca da renegociação de dívidas dos agricultores junto ao sistema bancário.  Desigualdade no tratamento concedido a produtores das Regiões Sul e Nordeste atingidos por estiagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63ff842f3fa091c706a0fdabb0d630fca457b2e66df1e544373ee519f94b18b7
+size 331

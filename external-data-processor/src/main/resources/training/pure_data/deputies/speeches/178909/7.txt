@@ -1,1 +1,3 @@
-Inconformismo do orador com a falta de energia elétrica para os moradores das cercanias da Usina Hidrelétrica de Tucuruí, no Estado do Pará. Apelo às concessionárias do Estado e ao Governo Federal pela resolução da distorção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c34798673adf7ad7f0dfdd31b0057edbc623b2d9de618bb9c1409c62cef4f9a
+size 235

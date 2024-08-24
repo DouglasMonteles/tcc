@@ -1,1 +1,3 @@
-Avanço da epidemia de coronavírus no Estado de Minas Gerais. Doação, pela Federação das Indústrias do Estado de Minas Gerais - FIEMG, de respiradores mecânicos a municipalidades situadas na região norte. Apelo ao Ministro da Saúde, Eduardo Pazuello, por habilitação de novos leitos de UTI e fornecimento de vacinas ao Estado. Poema Quem foi temperar o choro e acabou salgando o pranto?, de Leandro Gomes de Barros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43f164de1a2d659219270feff21ba4090599d76a9f5e5bb19b44cf5c8c95fcd7
+size 426

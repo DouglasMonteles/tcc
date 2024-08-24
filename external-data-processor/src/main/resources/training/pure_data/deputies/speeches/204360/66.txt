@@ -1,1 +1,3 @@
-A Deputada expressou preocupação com a situação da pecuária no Brasil, especialmente em Rondônia. Destacou que, nos últimos dois anos, o preço da arroba do boi caiu significativamente, com prejuízos graves aos pecuaristas. Ressaltou que muitos produtores financiaram projetos e agora enfrentam dificuldades para pagar devido à drástica queda de preços. Fez apelo ao Ministério da Agricultura e Pecuária, ao Ministério da Fazenda e às instituições bancárias para prorrogarem o prazo de pagamento de dívidas do setor, afirmando que a pecuária desempenha papel vital na economia. A orador afirmou que continuará sua luta em defesa da pecuária rondoniense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb2c8afe276ca9db4e5e8195906556056954579bf33b54a745c7991bdbc84826
+size 675

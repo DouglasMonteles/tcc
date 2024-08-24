@@ -1,1 +1,3 @@
-Agradecimento à bancada federal amapaense e aos Líderes partidários pelo apoio à Medida Provisória nº 1.010, de 2020, sobre a isenção do pagamento da fatura de energia elétrica referente aos últimos 30 dias, aos consumidores dos Municípios do Estado do Amapá abrangidos pelo estado de calamidade pública; e a alteração da Lei nº 10.438, de 2002.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4340aabf08a268027ccfd505de7d408660d6eac4b6028eb12ffc852b48ed2ae2
+size 361

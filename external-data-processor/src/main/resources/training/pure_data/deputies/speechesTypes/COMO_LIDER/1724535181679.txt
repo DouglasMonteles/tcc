@@ -1,1 +1,3 @@
-Expectativa de consideração das desigualdades regionais na elaboração do Orçamento Geral da União. Resultados positivos da aplicação da Lei Geral das Micro e Pequenas Empresas, conforme matéria publicada pelo jornal Valor Econômico. Iminência da apreciação do Projeto de Lei Complementar n° 126, de 2007, sobre a alteração do diploma legal. Importância de realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b6a47216bfa8a30e5502cb304a4d84febeb39e714ddbc6a355867d712f29cd0
+size 409

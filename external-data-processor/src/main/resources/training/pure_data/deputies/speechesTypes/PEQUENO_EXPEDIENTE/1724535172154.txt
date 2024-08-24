@@ -1,1 +1,3 @@
-Empenho do orador na realização de obras de infraestrutura e duplicação da rodovia RS-287, na região dos vales do Rio Pardo e Taquari, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac91b3d7b251d9b71977284e71023ad149541a96117b5e63ffadbb6bce588882
+size 168

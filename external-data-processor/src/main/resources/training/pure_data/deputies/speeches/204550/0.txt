@@ -1,1 +1,3 @@
-Transcurso do 32º aniversário de emancipação político-administrativa do Município de Quiterianópolis, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0319ae581c593cb597e3e2b34eefbc736dbeb4bb72377f9aa2aeeaaf536c9d8
+size 126

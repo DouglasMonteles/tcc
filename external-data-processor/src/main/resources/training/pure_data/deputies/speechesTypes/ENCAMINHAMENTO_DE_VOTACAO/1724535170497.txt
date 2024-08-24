@@ -1,1 +1,3 @@
-Encaminhamento da votação da Proposta de Emenda à Constituição nº 46, de 2021, sobre o estabelecimento do novo regime de pagamento de precatórios, a modificação das normas relativas ao novo regime fiscal e o parcelamento de débitos previdenciários das municipalidades brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39ef1dc5514d50e9ecbeddc102469c0fa597091a77cfc2d76bdbe2d9cf7c6305
+size 291

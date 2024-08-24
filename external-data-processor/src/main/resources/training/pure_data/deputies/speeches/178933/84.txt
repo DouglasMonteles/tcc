@@ -1,1 +1,3 @@
-Cumprimentos ao Prefeito Maicol, do Município de Pitanga, Estado do Paraná, em visita a Brasília para audiência em Ministérios, com vista à obtenção de recursos para obras na cidade. Constitucionalidade do texto do Código Florestal aprovado no Congresso Nacional, em face de julgamento no Supremo Tribunal Federal de ação direta de inconstitucionalidade relativa à legislação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16bf565b1032463547d8cf9f5fc704f67392ebac935978c0bfe3827a36f0a701
+size 390

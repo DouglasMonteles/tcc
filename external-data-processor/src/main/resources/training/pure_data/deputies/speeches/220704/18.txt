@@ -1,1 +1,3 @@
-A Deputada parabenizou os eleitos para o Conselho Tutelar no dia 1º de outubro, destacando a importância desse órgão na proteção das crianças e adolescentes, conforme orienta o ECA, destacando que em Curitiba (PR) foram eleitos 50 novos conselheiros para o período de 2024 a 2027. A Parlamentar celebrou especialmente a eleição de conselheiros progressistas ressaltando o compromisso desses profissionais com uma sociedade inclusiva e plural, e sua atuação contra discriminações e violências. Além disso, comemorou os 35 anos da Constituição Federal, a Constituição Cidadã, reforçando a necessidade de efetivação de seus preceitos para consolidar os direitos fundamentais dos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc4c4bcc08ac9dd183d9b8a9313e5fee6b6dcb78cc6d7a098ba07497f8e1b1f5
+size 712

@@ -1,1 +1,3 @@
-Realização de movimento de educadores em defesa da destinação, ao ensino público, de 10% do Produto Interno Bruto - PIB brasileiro, em Brasília, Distrito Federal. Apelo à Comissão de Educação e Cultura de instalação da Subcomissão destinada ao acompanhamento da implantação, nos Estados brasileiros, do piso nacional salarial dos profissionais do magistério público da educação básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adbc3108994224c9fc7c0bab82f3ba3c44439483b150c54da2df1006bfa22f41
+size 405

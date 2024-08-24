@@ -1,1 +1,3 @@
-Vocação da Região Nordeste para a produção de energia eólica. Defesa de realização, pelo Governo Federal, de investimentos em fontes renováveis de energia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4574198266165f60c9713649ad5f62edbb71458dd92c988b07f3f03a9cb2f502
+size 164

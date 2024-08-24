@@ -1,1 +1,3 @@
-Adaptação do gabinete parlamentar do orador ao padrão carbono zero. Urgente implantação de metodologias destinadas ao alcance dos Objetivos de Desenvolvimento Sustentável da Organização das Nações Unidas - ONU. Plantio de árvores nativas da Mata Atlântica no Estado de Santa Catarina. Conquista, pelo piloto catarinense Lucas Moraes Dunka, do título de Campeão Brasileiro de Motocross de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a57ef00c8450499ba7d7ce2e9c6020f137af71d7d172aac21b7db2c3075fbfc1
+size 407

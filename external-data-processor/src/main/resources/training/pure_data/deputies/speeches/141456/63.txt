@@ -1,1 +1,3 @@
-Defesa da aprovação de projetos de lei relativos à exploração de petróleo na camada pré-sal. Importância da criação de fundo social com recursos oriundos da exploração de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:811811920bcfb2f7f313799cfe7718a31b1a1f54878607495b36a902345336af
+size 193

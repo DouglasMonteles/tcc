@@ -1,1 +1,3 @@
-Retrospectiva da atuação profissional e política do orador. Defesa de reformulação do sistema político brasileiro. Incompetência do Presidente Jair Bolsonaro. Despreparo de membros da sua equipe ministerial. Ilegalidade do pedido do Ministro da Educação de leitura nas escolas do slogan  da campanha eleitoral do Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e271414d3233e8860e8e12b743a8a4a0e785e0723651670164be2c1c8f92c5b
+size 347

@@ -1,1 +1,3 @@
-Anúncio de realização do Fórum Nacional pelas 30 Horas Já dos profissionais de enfermagem em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b35fcf44396443d31667188d4a5c91bdeb52624f0046b63d22b00c50683a8f4a
+size 126

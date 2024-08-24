@@ -1,1 +1,3 @@
-Regozijo com a aprovação, pela Câmara dos Deputados, da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e30248f1e4b217d32f5981569639bc3eb9afb9886ad8094407f925768b459906
+size 151

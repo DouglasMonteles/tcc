@@ -1,1 +1,3 @@
-Expectativa de convocação, pela Presidenta Dilma Rousseff, de representantes do Estado da Bahia para pastas ministeriais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ea3edc9105892c76cf5ed888c3507796470cceea8b83131192136eb498174d5
+size 123

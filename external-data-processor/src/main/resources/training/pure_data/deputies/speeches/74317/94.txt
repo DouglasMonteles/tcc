@@ -1,1 +1,3 @@
-Compromisso do orador com a causa municipalista. Proficuidade da gestão do Prefeito Alcione Viana, do Município de Lagoinha do Piauí, no Estado do Piauí. Inclusão da municipalidade no Índice de Responsabilidade Fiscal, Social e Gestão, instituído pela Confederação Nacional de Municípios - CNM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:628b9acf3a0095c5972a5f532569733b8e0b06ce49fb86e6750b69e9ca7f576f
+size 305

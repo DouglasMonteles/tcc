@@ -1,1 +1,3 @@
-Defesa de aprovação, pela Casa, da emenda oferecida pelo Deputado Ibsen Pinheiro ao projeto de lei sobre a distribuição de royalties de petróleo da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d53381c5e0bf850afe3f70bd04f58e76696bd9322167def1b0602f088cdcca6
+size 169

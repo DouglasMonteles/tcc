@@ -1,1 +1,3 @@
-Contradita a questão de ordem do Deputado Sibá Machado    sobre a legalidade de reunião de Comissão Mista simultaneamente com a Ordem do Dia de sessão extraordinária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c45eaa13ebd9262340d9e54206df7724fba8b548666d1fc1acfcc8baece9017
+size 172

@@ -1,1 +1,3 @@
-Protesto contra a majoração de pedágio pela concessionária CCR ViaLagos, no Estado do Rio de Janeiro. Empenho na criação da CPI das concessionárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8be42ff982f36b99d445db184e0e3399e393cf95675b448f24cc797b619070e3
+size 155

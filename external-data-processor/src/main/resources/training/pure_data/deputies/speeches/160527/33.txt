@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d2c836c07e767c9d5fe6c79b5d0f5d0f9fa9bb4cc58de19b0f12577defbeab3
+size 78

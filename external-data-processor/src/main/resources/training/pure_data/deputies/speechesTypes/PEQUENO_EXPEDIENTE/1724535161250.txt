@@ -1,1 +1,3 @@
-Aumento da safra agrícola brasileira. Realização da Festa do Morango na cidade-satélite de Brazlândia, Distrito Federal. Contribuição da EMBRAPA para a expansão sustentável da produção e da fronteira agrícolas no País. Acerto da liberação, pelo Conselho Nacional de Biossegurança, do plantio de variedades transgênicas de milho. Relevância da dissertação de mestrado Organismos Geneticamente Modificados (OGM): Obstáculos à Obtenção e Uso no Brasil, defendida pela acadêmica Elza Angela Battaggia Brito da Cunha na Universidade de Brasília.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3834d4535fddaad195e0a2e627b62c6bdb085d907c8d07d757d6ea3a0fe900da
+size 566

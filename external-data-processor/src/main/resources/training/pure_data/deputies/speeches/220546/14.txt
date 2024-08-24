@@ -1,1 +1,3 @@
-Inevitável agravamento da crise financeira do agronegócio brasileiro, no caso de aprovação da proposta governamental de reforma tributária. Defesa de rejeição da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbf2640772c0daa95a6dcfcea2719eb0e3a051874dc0712feb0dc697ed72d516
+size 181

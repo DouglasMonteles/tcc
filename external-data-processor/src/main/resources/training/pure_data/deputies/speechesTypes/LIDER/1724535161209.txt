@@ -1,1 +1,3 @@
-Acerto da nomeação do Secretário-Geral do PDT, Manoel Dias, para o cargo de Ministro do Trabalho e Emprego. Integridade e independência política do partido. Realização da Convenção Nacional do PDT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7246ac6f2dfdd45141b0945410552e161793d000000e8085c70b1a1718f735c6
+size 206

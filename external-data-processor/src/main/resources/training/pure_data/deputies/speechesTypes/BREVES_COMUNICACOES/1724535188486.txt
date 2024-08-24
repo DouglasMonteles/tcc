@@ -1,1 +1,3 @@
-Posicionamento do orador contra a liberação das armas de fogo privativas das Forças Armadas para uso de civis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a85ff8de81fa41e33b8ed2288e5f945887e3a7feca31d38e5793bbc40792671a
+size 113

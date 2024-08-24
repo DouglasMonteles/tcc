@@ -1,1 +1,3 @@
-O Deputado registrou a presença da Prefeita Ceci Rocha e do Procurador Nicolas Theotonio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6302e2feccd24a8cd52a0779d0aed0805cfd32f0db949f6223c21e4580fcfc23
+size 90

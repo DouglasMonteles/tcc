@@ -1,1 +1,3 @@
-Apoio à criação da Frente Parlamentar Mista em Defesa da Transição Climática Justa. Solidariedade à população do Estado do Rio Grande do Sul afetada pela estiagem. Adoção de plano emergencial pelo Governo Federal para assistência aos gaúchos prejudicados pelo fenômeno climático.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e5f4c4aa8f448fbbb90bb6aa0e418bfbff3227d12fce35232d0ae786c7660ea
+size 294

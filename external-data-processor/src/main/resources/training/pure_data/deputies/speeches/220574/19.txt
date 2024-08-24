@@ -1,1 +1,3 @@
-Reeleição do Governador do Estado da Paraíba, João Azevêdo. Atraso nas obras da BR-230. Necessidade de melhoria no Porto de Cabedelo. Apelo ao Governador Estadual por concessão de reajuste salarial aos profissionais da área de segurança pública e aos demais servidores públicos. Escalada da criminalidade no Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de5790e4eee1dfa1a008e9594da98db3c773f9a8988f20e2192c4605768d82d0
+size 337

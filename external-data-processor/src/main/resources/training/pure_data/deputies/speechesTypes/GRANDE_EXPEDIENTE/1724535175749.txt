@@ -1,1 +1,3 @@
-Persistência das desigualdades regionais brasileiras. Insuficiência dos recursos destinados ao Sistema Único de Saúde - SUS na Região Nordeste. Não realização pelas instituições bancárias de investimentos no Estado do Piauí. Apresentação de proposta de alteração dos critérios adotados para distribuição de royalties dos setores de energia elétrica e mineração. Apresentação de estudo sobre o perfil socioeconômico dos Estados brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:888d38209a72bab15243b22b4de9700d8c31d1c55de6032d8d13842157ee0a8a
+size 464

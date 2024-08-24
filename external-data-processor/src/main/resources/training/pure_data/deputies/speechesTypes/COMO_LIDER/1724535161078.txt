@@ -1,1 +1,3 @@
-Apresentação pelo orador de parecer contrário ao projeto de lei sobre a concessão do porte de arma de fogo a conselheiros tutelares, em tramitação na Comissão de Segurança Pública e Combate ao Crime Organizado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fac22738e5751199a1eb4657af485ee9694b8b5d1001353f281bbc95ad8168ac
+size 219

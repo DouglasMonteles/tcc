@@ -1,1 +1,3 @@
-Pedido à Casa de aprovação de emenda apresentada à proposta de reforma eleitoral, destinada à ampliação da participação da mulher na política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6f4751917c2b2d37b7960c98150a081db3a2b941436b3ad90465f1c025a1740
+size 152

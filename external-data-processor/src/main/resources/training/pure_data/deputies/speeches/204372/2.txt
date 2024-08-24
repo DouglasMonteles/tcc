@@ -1,1 +1,3 @@
-Agradecimento ao Governador de Brasília, Ibaneis Rocha, pela concessão de reajuste salarial à Polícia Civil. Pedido ao Governador de reajuste dos soldos da Polícia Militar e do Corpo de Bombeiros Militar. Revisão, pela Agência Nacional de Transportes Terrestres - ANTT, do reajuste de tarifas do transporte coletivo urbano da região do Entorno de Brasília.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1312d0114ec04c703eab955c2f6ccd43b9becbed56979ebe13dc703af8238c93
+size 365

@@ -1,1 +1,3 @@
-Posicionamento favorável do Bloco PSB/PDT/PCdoB/PMN/PRB  à  PEC 138 de 2003 (Dispõe sobre a proteção dos direitos econômicos, sociais e culturais da juventude), em  votação em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:400913cbb729d006c0a8dfb4366e248bdb8ce68e8a06ec49157e11d9a71edeb3
+size 198

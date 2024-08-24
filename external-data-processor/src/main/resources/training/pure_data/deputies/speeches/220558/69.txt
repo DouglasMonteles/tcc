@@ -1,1 +1,3 @@
-O Deputado criticou a imposição da vacinação, defendendo a autonomia dos pais sobre a saúde das crianças. Criticou o Ministro da Justiça por usar a palavra democracia ao impor medidas que, segundo o Deputado, atacam a liberdade individual. Expressou preocupação com a perda de liberdade e autonomia das famílias em decisões de saúde e educação. Afirmou que as crianças estão sendo alvo de intervenção excessiva do Estado e argumentou que as escolas estão influenciando negativamente os alunos.&nbsp;Além disso, criticou o Governo, acusando-o de destruir o País economicamente e atacar o agronegócio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e750cd24aae704fa1e639d68772cacd594a636344c0cbf3bb78a9dfb0758cd1f
+size 621

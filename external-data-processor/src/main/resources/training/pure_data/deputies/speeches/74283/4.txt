@@ -1,1 +1,3 @@
-Posicionamento favorável do PT ao parecer pela admissibilidade da Medida Provisória 397 de 2007  (Revoga a Medida Provisória 385 de 2007 (Acrescenta parágrafo único ao art. 1º da Lei 11.368 de 2006, para estender ao trabalhador rural enquadrado como contribuinte individual o prazo previsto no art. 143 da Lei 8.213 de 1991- requisição de aposentadoria por idade).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b23a4d3c6119823a597064542d38399149acbe665202d220078eae3439013290
+size 372

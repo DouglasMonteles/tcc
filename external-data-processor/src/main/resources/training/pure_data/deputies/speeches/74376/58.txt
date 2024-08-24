@@ -1,1 +1,3 @@
-Posicionamento do Presidente da República favorável à imediata realização da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00088133095a145d3bb8009e7fe183c69a686d88d75410cd92bc97b7369b375e
+size 100

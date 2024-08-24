@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 859, de 2018, sobre a utilização de recursos do Fundo de Garantia do Tempo de Serviço - FGTS para financiamento de entidades hospitalares filantrópicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:033debb93773c014adb9a8bd1f2a3554dc16c14e65667827201f69a363468d7f
+size 256

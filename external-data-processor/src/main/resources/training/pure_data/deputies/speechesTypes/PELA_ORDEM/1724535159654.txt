@@ -1,1 +1,3 @@
-Reclamação contra o atraso no voo Cuiabá-Brasília. Pedido à empresa Azul Linhas Aéreas Brasileiras e à LATAM Airlines Brasil de cumprimento da programação dos seus voos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dba51eb153867563906ccc610d7eba2467a8527da85fba8b79069a4a0de6062
+size 178

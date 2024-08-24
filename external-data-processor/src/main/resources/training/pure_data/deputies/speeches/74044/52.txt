@@ -1,1 +1,3 @@
-Posicionamento contrário do  Governo ao Requerimento de retirada da pauta da Ordem do Dia da  Medida Provisória  451 de 2008 (Altera a legislação tributária federal, e dá outras providências). Possibilidade de acordo de procedimento  votação da matéria na presente sessão. Solicitação aos Deputados da base governista de comparecimento ao Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1e03908bb739a0e6eb8f5b05a56a7e9edbef5c50c39882cbb093741a15adec0
+size 362

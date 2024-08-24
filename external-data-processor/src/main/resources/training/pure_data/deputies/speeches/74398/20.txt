@@ -1,1 +1,3 @@
-Realização, nas dependências da Casa, de reunião da Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama - FEMAMA, para debate de questões relativas ao câncer de mama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e90e8b1951abfc30b1495f0bdc8fa28b1e74696b96887db7415cc41844697fa6
+size 203

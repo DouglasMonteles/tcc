@@ -1,1 +1,3 @@
-Cumprimentos ao Prefeito do Município de Palmas, Estado de Tocantins, pela realização do Carnaval da Paz. Compromisso do orador com a defesa dos interesses dos servidores públicos das áreas administrativa, de segurança, educação e saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd2c5539286fb5a8acafb6cd3a1e9d6142d7256519590c73248e2394e785d44d
+size 246

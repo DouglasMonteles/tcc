@@ -1,1 +1,3 @@
-Avaliação de resultado de auditoria realizada pelo Tribunal de Contas da União - TCU na Superintendência da Zona Franca de Manaus - SUFRAMA, Estado do Amazonas. Reiteração do pedido do TCU ao Ministério Público Federal de apuração de denúncias de irregularidades ocorridas na SUFRAMA. Compromisso do Superintendente do órgão, Coronel Alfredo Meneses, de superação de equívocos e distorções de responsabilidade de gestões anteriores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4ea9ba6a3bb1ad56f3defbdf6f733307c4e2cc9933648b1cf9dc004d2cd14d0
+size 451

@@ -1,1 +1,3 @@
-Discussão no  Fórum dos Governadores, realizado em Brasília, do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB; de medidas provisórias e da questão tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daad5689510d8938fd12e4c106d73ec31a67b26decf9eaf67e2c3df3f3d02705
+size 240

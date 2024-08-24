@@ -1,1 +1,3 @@
-Transcurso do 56º aniversário de emancipação político-administrativa do Município de Formoso, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08e138f2379d6fed44dae4f75a33bc48b25f4b20141b96b1d02c704cb39df29a
+size 117

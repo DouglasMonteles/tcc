@@ -1,1 +1,3 @@
-Transcurso do 136º aniversário de emancipação político-administrativa do Município de Cachoeira Paulista, Estado de São Paulo. Compromisso de luta pela restauração da Estação Ferroviária de Cachoeira Paulista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e421f714f9da0ca4340d9bb1682f2caee1527c2e36189be040fa8ce789e870d2
+size 221

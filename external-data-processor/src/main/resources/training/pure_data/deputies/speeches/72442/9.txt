@@ -1,1 +1,3 @@
-Agradecimento a Deus e ao eleitorado pernambucano pela reeleição do orador. Atuação do PSB em sintonia com os anseios do povo brasileiro, especialmente com os menos favorecidos. Inadmissibilidade de privatização do Aeroporto Internacional do Recife/Guararapes - Gilberto Freyre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a22eceaff44a7577d112e97641974d597e4fe79d3f13dd03522627c49b7bd694
+size 284

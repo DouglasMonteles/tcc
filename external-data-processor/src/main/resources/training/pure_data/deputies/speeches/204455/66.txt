@@ -1,1 +1,3 @@
-Crise da saúde pública do Município do Rio de Janeiro, Estado do Rio de Janeiro. Críticas à gestão do Prefeito Marcelo Crivella.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ea99ac030020fd8e68e935771beacefa3ab047e7439d174e2dd838933f3d03e
+size 134

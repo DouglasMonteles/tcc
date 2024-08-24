@@ -1,1 +1,3 @@
-Transcurso de aniversário da manifestação realizada por estudantes a favor da cassação do mandato do Senador Antonio Carlos Magalhães, em Salvador, Estado da Bahia. Natureza democrática do Governo Jaques Wagner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dfd8f2449f1103259827ef47131b863bfc6b0cbdcca52ef100b3176b08b10fb
+size 218

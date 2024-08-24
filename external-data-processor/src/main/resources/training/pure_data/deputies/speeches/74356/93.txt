@@ -1,1 +1,3 @@
-Reunião do Ministro da Saúde, Alexandre Padilha, com membros da Frente Parlamentar em Defesa da Família e da Frente Parlamentar Evangélica, destinada ao debate de medidas de combate à dengue e de prevenção da AIDS. Agravamento da exploração sexual de crianças e adolescentes no Brasil. Importância da educação e de programas governamentais de proteção à infância e à juventude como mecanismos de prevenção à exploração sexual. Alcance social do Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fb7be875bf3e9392ab4b6b7fb73f2401a702e11fdb97e07bc5a075c2a51cac6
+size 492

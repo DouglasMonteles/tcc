@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Dia do Contabilista. As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71933c9d620b52062ba06af551b1bf07b3404fa9f1e8e9cfbfa61b5d3994c295
+size 183

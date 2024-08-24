@@ -1,1 +1,3 @@
-Falecimento da Sra. Célia Maria de Mello, genitora do Deputado Jorginho Mello. Elogio ao desempenho do Presidente da República, Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:feb29258f0b0f32a1714f9a8861a99d3aa6f944945e9c86ff818ce02cb39d369
+size 143

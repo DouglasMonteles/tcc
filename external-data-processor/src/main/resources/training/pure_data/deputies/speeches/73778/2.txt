@@ -1,1 +1,3 @@
-Matéria publicada pelo jornal Gazeta do Povo sobre declaração do Presidente do Banco Central do Brasil, Henrique Meirelles, acerca da necessidade de realização de reformas constitucionais no País. Críticas ao sistema presidencialista brasileiro. Importância da investigação detalhada sobre o furto de documentos secretos da PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92049f0064e90e7e23a58420fca1a52dd733b77d7bd3f2fec3a8bdd18ae0f57f
+size 344

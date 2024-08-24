@@ -1,1 +1,3 @@
-Realização por cafeicultores de encontro para debate dos efeitos da crise financeira mundial sobre o setor, no Município de Varginha, Estado de Minas Gerais. Necessidade de apoio do Governo Federal à produção cafeeira nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e0bed4f37ff2e7ad17d7719b1cda710c3fff27c3b1f63a40aed6f9afbc12ab4
+size 233

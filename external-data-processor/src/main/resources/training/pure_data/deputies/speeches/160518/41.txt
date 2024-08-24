@@ -1,1 +1,3 @@
-Doação pelo Exército brasileiro de área para construção de unidades habitacionais do Programa Minha Casa, Minha Vida, no Município de Uberlândia, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac8b2664f59829e7e38ed4325f26ac63d55111608594c6753bc9e36f11096531
+size 177

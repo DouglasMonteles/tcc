@@ -1,1 +1,3 @@
-Posicionamento do orador sobre a proposta de reforma previdenciária. Necessidade de debate da matéria pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93224be8d6fb39ce22d611d5588bf8b6aad1dab369b6cbe9866c60a8d85a53c6
+size 131

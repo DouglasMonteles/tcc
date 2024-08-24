@@ -1,1 +1,3 @@
-Insistência do orador na votação do Projeto de Lei Complementar nº 137, de 2015, acerca da criação de novos Municípios no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5510cfe60c1beca0c5f7dc92475a1bef2fc09edab0ffd1f95a3972fa7cb426b9
+size 136

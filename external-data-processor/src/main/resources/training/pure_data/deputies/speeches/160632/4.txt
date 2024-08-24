@@ -1,1 +1,3 @@
-Valor cultural e econômico do queijo de minas artesanal.  Reexame da legislação brasileira referente à produção artesanal. Criação de políticas públicas destinadas aos produtores artesanais. Votos de feliz Páscoa ao povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94a7edc85a8c2b00a25e864434dcb3900551138f6660a4e6857ce74be79a5182
+size 243

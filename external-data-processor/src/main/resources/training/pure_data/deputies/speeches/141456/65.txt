@@ -1,1 +1,3 @@
-Escolha do Deputado Marco Maia como candidato do PT na próxima eleição para a Presidência da Câmara dos Deputados. Observância do princípio da proporcionalidade na composição da Mesa Diretora da Casa. Saudação ao novo Líder do PT, Deputado Paulo Teixeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a6b61d29c996bb1996ef8a870c09a7c11d330e875d192e205fd80666c8ef77d
+size 267

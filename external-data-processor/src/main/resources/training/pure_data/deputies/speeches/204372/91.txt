@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 10.887, de 2018, relativo à alteração da Lei n° 8.429, de 1992, acerca da improbidade administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd07aea2580aed381cdceae1901d843473d1edd3247cd87849ac7a2bfe61cb13
+size 201

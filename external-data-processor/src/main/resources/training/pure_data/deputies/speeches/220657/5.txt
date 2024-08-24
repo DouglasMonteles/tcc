@@ -1,1 +1,3 @@
-Pedido à Presidência de informações acerca da tramitação na Casa do Requerimento nº 138, de 2023, de autoria do orador, sobre a criação de comissão externa para fiscalização e acompanhamento in loco das obras de transposição do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e14de6f3d67b0119e387ce8d43cc9d91730777c860cab02ee60e5bac6b8d3834
+size 261

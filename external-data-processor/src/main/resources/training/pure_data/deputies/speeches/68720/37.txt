@@ -1,1 +1,3 @@
-Necessidade de regularização, pelo Governo Federal, do pagamento aos empresários responsáveis pelas obras do Programa Minha Casa, Minha Vida, no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e765589a98f1e7cfb2282a62e192410a21043c1376d8c00dd5e0ce234f53e713
+size 167

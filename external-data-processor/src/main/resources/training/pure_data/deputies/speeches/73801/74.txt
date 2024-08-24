@@ -1,1 +1,3 @@
-Apoio do PCdoB à eleição do Deputado Expedito Netto para o cargo de 3º Secretário da Mesa Diretora da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13c74b34d53f9f46b47894b4bcc59e528c9795976661b409c8fff50af46f230e
+size 129

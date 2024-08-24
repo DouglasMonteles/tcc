@@ -1,1 +1,3 @@
-Caos da gestão do Governador do Estado do Rio de Janeiro, Cláudio Castro. Descaso das autoridades públicas diante da luta de inativos e pensionistas do Estado do Rio de Janeiro para recebimento de paridade salarial e integralidade em relação aos profissionais da ativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1543f373a89ac257fb78aaf51babd8a88b3f876fde1aac6720f68ae393d9ace3
+size 274

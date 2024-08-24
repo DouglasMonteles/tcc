@@ -1,1 +1,3 @@
-Histórico brasileiro de manobras para impedimento do término de mandatos de Presidentes. Atuação da Rede Globo de Televisão para aprovação do impeachment da Presidente da República Dilma Rousseff. Negociação da Oposição e do Vice-Presidente da República Michel Temer para rejeição da cassação do Deputado Eduardo Cunha no Conselho de Ética e Decoro Parlamentar ante atuação do Deputado para aprovação do afastamento de Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e25766d9d0aaf76e0dbb888eaa39c37d476856961ec61794fe6b3f01675661f
+size 456

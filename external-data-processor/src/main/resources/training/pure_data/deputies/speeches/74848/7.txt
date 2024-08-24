@@ -1,1 +1,3 @@
-Congratulações à Deputada Rose de Freitas pela assunção da Presidência da Casa em caráter interino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d4fb964471659d550c15602e6823022266a41ddbcf453db98a4b896522d2138
+size 106

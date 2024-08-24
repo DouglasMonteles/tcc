@@ -1,1 +1,3 @@
-Indagação à Presidência sobre o registro de presença dos Parlamentares no painel eletrônico de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aafe65b418dc2a079d33802d261b46225e5693ed4b82ad7edbb75fc80d9fdc3a
+size 111

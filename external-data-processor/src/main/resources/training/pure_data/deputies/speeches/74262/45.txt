@@ -1,1 +1,3 @@
-Defesa da aprovação de emenda de autoria do  Deputado Antonio Carlos Mendes Thame, destacada, ao  Projeto de Lei de Conversão 9 de 2013 da  Medida Provisória nº 512, de 2012, sobre a modernização dos portos brasileiros, relativa à   prestação de contas anual pelo Poder Executivo ao Congresso Nacional da implementação das iniciativas tomadas com base nesta Lei. Solicitação ao Líder do Governo na Casa, Deputado Arlindo Chinaglia, e ao Líder do PT de apoiamento à emenda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fee40ed5225a1b2ade634ffa31502860e5e0d7f2f1edd6048849c241586d826
+size 489

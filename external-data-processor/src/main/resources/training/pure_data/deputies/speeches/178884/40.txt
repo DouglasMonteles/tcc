@@ -1,1 +1,3 @@
-Apoio a decisão da bancada federal do PMDB sobre tópico da reforma política. Participação do orador no programa Câmara Itinerante nos Estados de Mato Grosso e Mato Grosso do Sul. Congratulações ao Presidente Eduardo Cunha pela criação do programa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05b520139194ff87e36af20bb665a7ef97384c7d2008bf6741f6f01146db0375
+size 257

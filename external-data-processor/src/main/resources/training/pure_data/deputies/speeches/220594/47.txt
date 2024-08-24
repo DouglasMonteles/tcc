@@ -1,1 +1,3 @@
-O Deputado expressou grande preocupação com a epidemia de criminalidade e violência que assola o Brasil, destacando o avanço das organizações criminosas em todo o país. Alertou para a insegurança generalizada, mencionando casos de planos para assassinar parlamentares e ataques a cidades e estados inteiros. Atribuiu a atual situação à impunidade e enfatizou que todos os poderes constituídos, Legislativo, Executivo e Judiciário, têm responsabilidade na luta contra a criminalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a56b9ac5d280a3f2a3e331e4f3a759d6938b7d214826f67b021706178d3064f9
+size 497

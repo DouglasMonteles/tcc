@@ -1,1 +1,3 @@
-Pedido aos Deputados de apoio ao requerimento de apreciação em regime de urgência da proposta de prorrogação do prazo de isenção do Imposto sobre Circulação de Mercadorias e Serviços - ICMS concedido a entidades filantrópicas e templos religiosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9735dfd24f51e83ad91497e663354b512c5badf948d333b482aa581819a06ef9
+size 258

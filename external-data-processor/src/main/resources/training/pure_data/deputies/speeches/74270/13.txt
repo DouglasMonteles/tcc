@@ -1,1 +1,3 @@
-Presença na Casa do Prefeito do Município de Caxias do Sul, Estado do Rio Grande do Sul, Alceu Barbosa Velho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcb6bf4fc31a70a3f08dc03e5923e4d794151b54c636a0d562dc358e44830057
+size 111

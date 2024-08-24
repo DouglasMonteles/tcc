@@ -1,1 +1,3 @@
-Contrariedade à pretendida taxação da energia solar pela Agência Nacional de Energia Elétrica - ANEEL. Realização, pela Comissão de Minas e Energia, de audiência pública para discussão do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96d0d362ed97b19dad26cd9b1a42723b7f22e85a65045702a358a3e6eec64ff4
+size 204

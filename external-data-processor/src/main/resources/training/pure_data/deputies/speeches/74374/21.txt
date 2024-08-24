@@ -1,1 +1,3 @@
-Realização de obras públicas no Município de Dourados, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17256046e62c3fbdf2ea27ef1d4f0cb2b4de116746e102b4a5b00d927c4f1000
+size 88

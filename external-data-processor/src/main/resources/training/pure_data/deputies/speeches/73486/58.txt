@@ -1,1 +1,3 @@
-Perfil da comunidade bahá'í no Brasil e no mundo. Repúdio da Comissão de Direitos Humanos e Minorias, da Casa, aos atos de violência praticados pelo Governo do Irã contra seguidores da fé bahá'í.
+version https://git-lfs.github.com/spec/v1
+oid sha256:759757548aeff0cff7bb6f914f63a4c2106cad08ba26d957f7127706980fb5a4
+size 204

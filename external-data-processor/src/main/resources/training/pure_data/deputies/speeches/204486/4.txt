@@ -1,1 +1,3 @@
-Apresentação de projeto de lei de complementar proibitivo da recriação do Programa de Recuperação Fiscal - REFIS, por 5 anos, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eced664cf99b47d3bd710c22d40b19117c40f207df261768a9e72b0b085a83be
+size 205

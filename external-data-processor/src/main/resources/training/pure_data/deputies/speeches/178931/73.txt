@@ -1,1 +1,3 @@
-Realização pelo Governo do Estado do Paraná da quinta edição da campanha Agosto Azul - o mês da saúde do homem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:961aae494cf71125f0f233a89afe62c1d2e0ab3d39607b534fdd28993f67f886
+size 118

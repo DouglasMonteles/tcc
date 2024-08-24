@@ -1,1 +1,3 @@
-Reiteração das acusações contra o Deputado Chico Alencar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:064e1f0f87131eb4ee1ed2b08818e8731a49b8aafe1aee420676a07c26903f6f
+size 61

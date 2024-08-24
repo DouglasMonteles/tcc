@@ -1,1 +1,3 @@
-Regozijo com a aprovação pela Casa do Projeto Ficha Limpa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72a655d475f6d3bc7f43d988eb46af7ae1b15b69eebe67d4570a50cd0ef8e3bf
+size 60

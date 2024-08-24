@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar em Defesa dos Aposentados e Pensionistas. Conveniência de aprovação, pela Casa, de propostas sobre extinção do fator previdenciário e sobre extensão do índice de reajuste do salário mínimo às aposentadorias e pensões mantidas pelo INSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e8cd268c3a29063027b0450d1398c050b6e2c8b2acbfa2128d86204458ea5f2
+size 280

@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, de proposta de fiscalização dos assentamentos rurais promovidos pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA e pelo Ministério do Desenvolvimento Agrário. Solicitação ao Governador do Estado de Tocantins de regularização dos repasses aos Municípios de recursos destinados às áreas de saúde e educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60b513db7cdbb00353c1f6408b1239cc3f65fcc3cd10653436ea20b0103204e2
+size 432

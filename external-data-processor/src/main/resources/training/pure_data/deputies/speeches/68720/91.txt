@@ -1,1 +1,3 @@
-Apelo aos Governadores Estaduais de adesão à proposta de renúncia ao recolhimento do ICMS incidente sobre combustíveis, apresentada pelo Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc555f676f0d17243154d5f4e1969ab68d270ad0dd1415ec502863fd17b850a7
+size 167

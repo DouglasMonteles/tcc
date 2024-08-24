@@ -1,1 +1,3 @@
-Acerto das iniciativas do Governo Federal para mitigação dos efeitos da crise no sistema financeiro mundial. Adoção, pelo Governador Jaques Wagner, de ações em prol do desenvolvimento socioeconômico do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac816b6f854845bc5c97a5d50cb4ccffe64357c0f8f38f3daa28ddb460790454
+size 225

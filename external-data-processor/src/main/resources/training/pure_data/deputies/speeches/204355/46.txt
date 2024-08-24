@@ -1,1 +1,3 @@
-Transcurso do 27º aniversário de fundação do Sindicato de Comércio de Exportação e Importação do Espírito Santo - SINDIEX. Participação do Vice-Presidente da República, Hamilton Mourão, nas comemorações alusivas à data. Atuação da bancada federal capixaba junto ao Governo Federal para a retomada de investimentos necessários ao desenvolvimento do País, especialmente do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53ea1b9c6778d6ace8f956acabe29a7d7f8b2506ee048af2ba0d30c7559747e1
+size 399

@@ -1,1 +1,3 @@
-O Deputado celebrou duas conquistas em menos de um ano de mandato: um reajuste salarial de 18% para agentes de segurança pública do Distrito Federal e a criação de 5 mil vagas em instituições federais de ensino. Destacou seu parecer no Projeto de Lei do Congresso Nacional nº 12, de 2023, que ampliou o número de profissionais da educação de 10.773 para 15.773. Prometeu continuar trabalhando para suprir déficits e regularizar salários na área educacional, saúde e segurança pública. Agradeceu à Vice-Governadora Celina Leão e ao Governador Ibaneis pelo apoio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b936dd2ab838c418dca4034ced3f1b59c539393a60ec183f4f8b84506b8dde89
+size 579

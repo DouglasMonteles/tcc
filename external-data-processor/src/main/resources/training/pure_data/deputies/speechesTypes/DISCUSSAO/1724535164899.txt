@@ -1,1 +1,3 @@
-Pedido aos Deputados de apoio à proposta de emenda à Constituição, de autoria da oradora, sobre os direitos da pessoa idosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c5d9d1143ff4c7c3c14b7f3af432263ef5a4a729f1e2be36798c0fbf8cc22d3
+size 128

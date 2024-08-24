@@ -1,1 +1,3 @@
-Apelo ao Relator Moses Rodrigues de revisão do dispositivo pertinente à Zona Franca de Manaus, constante no Projeto de Lei de Conversão nº 12, de 2021, da Medida Provisória nº 1.034, de 2021, a respeito da majoração tributária da Contribuição Social sobre o Lucro Líquido - CSLL do setor financeiro; da alteração da isenção do Imposto sobre Produtos Industrializados - IPI na compra de automóveis por pessoa com deficiência; da revogação da tributação de produtos destinados a centrais petroquímicas até 31/12/2021; e da dedução do crédito presumido relativo à contribuição para o PIS/PASEP de pessoa jurídica fabricante de produtos utilizados em hospitais, clínicas, consultórios médicos e campanhas de vacinação até 31/12/2025.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2da846c7d7163afbd11d283efd09618c1ecfe8a6a90167eb0481502d40419fcd
+size 766

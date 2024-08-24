@@ -1,1 +1,3 @@
-Solidariedade à população do Município de Abaetetuba, Estado do Pará, atingido por erosão fluvial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64cba81372163b27facfbf1285ed66ed78b8e961172c1238ab982058981b8e38
+size 104

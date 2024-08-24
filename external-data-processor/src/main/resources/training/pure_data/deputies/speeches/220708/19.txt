@@ -1,1 +1,3 @@
-O Deputado expressou preocupações sobre os resultados do Censo do IBGE, que indicou queda populacional em quase 800 municípios. Ressaltou que, durante uma audiência com o IBGE e a Confederação Nacional de Municípios, muitas questões permaneceram sem resposta. O Parlamentar defende a união da bancada municipalista para fortalecer os municípios diante dos impactos negativos do Censo que, na sua avaliação, foi malfeito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c07c1e3f0531a5ec96054951ba93b51308ef73e75e8d1e4f470d04e6c92cb95f
+size 432

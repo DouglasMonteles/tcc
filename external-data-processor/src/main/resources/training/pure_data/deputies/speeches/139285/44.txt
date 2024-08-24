@@ -1,1 +1,3 @@
-Realização do X Congresso Brasileiro da Atividade Turística — CBRATUR para debate da realização da Copa do Mundo de Futebol de 2014 no País. Encaminhamento do resultado do evento à Casa. Alerta à bancada federal nordestina sobre a necessidade de descontingenciamento de recursos de emendas da Comissão de Turismo e Desporto, com vistas à realização das festas juninas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c472dd654567acebb1b8c55a798bb535619bde3b8321b843f6e958a8ec211089
+size 382

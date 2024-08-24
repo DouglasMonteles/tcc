@@ -1,1 +1,3 @@
-Defesa da importância do defensor público para a garantia dos direitos da população menos favorecida. Cumprimento aos professores e políticos conterrâneos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45fea51d394dae6a8fee283ca18f8e6a0a6f2de5e5f973a4285cce9941a4cabd
+size 161

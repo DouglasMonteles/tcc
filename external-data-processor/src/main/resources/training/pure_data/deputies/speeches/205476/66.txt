@@ -1,1 +1,3 @@
-Defesa de regulamentação do transporte alternativo de passageiros. Repúdio à atuação da  Agência Nacional de Transportes Terrestres - ANTT e da Agência Estadual de Regulação de Serviços Públicos de Energia, Transportes e Comunicações da Bahia - AGERBA. Sucateamento da Viação Novo Horizonte e da Empresa Gontijo de Transportes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e884b4c11eb1b2182a99a308b9597b8803711899ddd2cfaf4d82de4615ce7ce
+size 343

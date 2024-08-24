@@ -1,1 +1,3 @@
-Contentamento da oradora com a aprovação, pela Casa, do Projeto de Lei nº 7.376, de 2010, sobre a criação da Comissão Nacional da Verdade, destinada à investigação da violação de direitos humanos no País entre 1946 e 1988.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f68896bed5647690608c9d357936e9531c698e271dcb7afbe7c489fa6fccf2ca
+size 234

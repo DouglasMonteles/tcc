@@ -1,1 +1,3 @@
-O Deputado chamou a atenção para a relevância do tema denominado Custo Brasil e convidou os parlamentares e cidadãos a acompanharem audiência pública que discutiria a regulamentação do serviço de praticagem e o impacto dessa manobra aquaviária na economia do País. Defendeu regular e equilibrar esses serviços em relação ao mercado globalizado, destacando que o Brasil é o único país sem regulamentação da praticagem. Mencionou que a falta de regulação afeta negativamente diversos setores, como agricultura, turismo e produção de alumínio. O orador expressou o desejo de encontrar um consenso para reduzir o custo logístico dos produtos nos portos brasileiros e acabar com a situação única da praticagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db227e88a837b21761ac8129f45176a6fcdb75a2e25408c962480f49dae232c6
+size 733

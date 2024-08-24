@@ -1,1 +1,3 @@
-Congratulações à Casa e às mulheres brasileiras pela aprovação do Projeto de Lei nº 1.852, de 2023, sobre a alteração da Lei nº 8.906, de 1994, (Estatuto da Advocacia), com vista à inclusão do assédio moral, do assédio sexual e da discriminação entre as infrações ético-disciplinares, no âmbito da Ordem dos Advogados do Brasil - OAB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8d1b7652df240efa0b31ae402076d4ea4a871fe99851be5782bafcbb46b46d1
+size 354

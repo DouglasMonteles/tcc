@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 2.725, de 2022, sobre da Lei de Diretrizes e Bases da Educação Nacional e da Lei nº 10.973, de 2004, para estabelecimento de requisitos mínimos de transparência pública e controle social em matéria educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f52ef899672626c1367dda3b325ccd176056323f32c3343438f4f615f2c59968
+size 259

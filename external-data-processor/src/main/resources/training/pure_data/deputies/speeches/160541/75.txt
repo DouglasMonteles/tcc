@@ -1,1 +1,3 @@
-Apelo ao Deputado Anthony Garotinho de realização de acordo para votação do texto original da Medida Provisória nº 615, de 2013, e   emendas pertinentes à  matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f724bdcd45b8e371935206210f90168c1dd9189681bc6770376afee49cb656ad
+size 172

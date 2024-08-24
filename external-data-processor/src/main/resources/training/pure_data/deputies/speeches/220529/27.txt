@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios. Apelo ao Presidente Luiz Inácio Lula da Silva por edição de medida provisória sobre a prorrogação, por 1 ano, do prazo de vigência da Lei nº 14.133, de 2021, (Lei de Licitações e Contratos Administrativos). Apresentação do Projeto de Lei nº 1.139, de 2023, a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bb2102595bc66097b6472f75701916966529d5d01ed8955d82a789810cc0eeb
+size 356

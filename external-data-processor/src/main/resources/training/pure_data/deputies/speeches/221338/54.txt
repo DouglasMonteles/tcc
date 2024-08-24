@@ -1,1 +1,3 @@
-A Deputada destacou a importância do dia em defesa dos servidores públicos. Mencionou que estava acompanhando o julgamento das ADIs relacionadas à inconstitucionalidade do confisco aplicado sobre aposentados e pensionistas. A deputada recebeu uma delegação de professoras que se opõem ao confisco contra os aposentados e pensionistas e mencionou as professoras presentes, bem como o Vereador Celso Giannazi. Ela também compartilhou uma vitória na CCJ, onde seu relatório para encerrar o congelamento dos quinquênios e sextas-partes foi aprovado. Agradeceu às professoras por sua dedicação à educação e à escola pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90073dd497da5e5befbb0392a1bc95443c26b83f58e2398a2613ba673bdc0d77
+size 637

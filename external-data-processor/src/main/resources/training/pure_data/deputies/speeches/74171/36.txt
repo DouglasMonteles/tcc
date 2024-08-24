@@ -1,1 +1,3 @@
-Posicionamento favorável do PSOL à Emenda 04, destacada, ao Projeto de Lei de Conversão da Medida Provisória 385 de 2007 (Acrescenta parágrafo único ao art. 1º da Lei 11.368 de 2006, para estender ao trabalhador rural enquadrado como contribuinte individual o prazo previsto no art. 143 da Lei 8.213 de 1991- requisição de aposentadoria por idade), que permite o saque da conta do Fundo de Garantia por Tempo de Serviço - FGTS aos aposentados que continuem a trabalhar na mesma empresa, ainda que com novo contrato de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c3e3f8f88e6fc90638c1b81776f850a6ddf772037eea8b97c996f946dd0babc
+size 537

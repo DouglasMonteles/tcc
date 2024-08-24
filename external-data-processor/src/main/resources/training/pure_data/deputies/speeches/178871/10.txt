@@ -1,1 +1,3 @@
-Solicitação de providências aos Ministros da Educação e da Ciência, Tecnologia, Inovações e Comunicações em face de ausência de repasse de recursos para prestação de serviços de Internet de alta velocidade no âmbito da Rede Nacional de Ensino e Pesquisa, com prejuízos para instituições de ensino e centros de pesquisas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7a74c7f98a2a45d835539ab75ea9189e46ec17d0046a3fe2638f619a772b3eb
+size 338

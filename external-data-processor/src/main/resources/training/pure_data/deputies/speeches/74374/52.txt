@@ -1,1 +1,3 @@
-Participação do orador na inauguração da primeira fase da revitalização da Rua Coronel Pilad de Rebuá, no Município de Bonito, Estado de Mato Grosso do Sul. Congratulações a lideranças políticas, comunitárias e empresariais da municipalidade. Investimentos em infra-estrutura realizados na região. Visita da Caravana em Defesa do SUS ao Município de Campo Grande, como parte da agenda política do Conselho Nacional de Saúde. Inauguração de voo da companhia TRIP Linhas Aéreas S/A ao Município de Bonito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f41ad5a556da01ce2b46cc483de5bac828dbeace6b4647e18b1af765c27b6df
+size 524

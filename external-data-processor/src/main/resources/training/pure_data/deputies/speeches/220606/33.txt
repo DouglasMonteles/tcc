@@ -1,1 +1,3 @@
-Aprovação pela Comissão de Trabalho de requerimento de convite ao advogado Rodrigo Tacla Duran, para esclarecimento ao órgão de acusação contra Procuradores da Operação Lava-Jato. Participação do orador em discussão sobre direitos humanos, especialmente em relação aos moradores de rua. Falecimento do ex-Deputado David Miranda. Realização, pelo Conselho Nacional de Direitos Humanos, de reunião para debate dos direitos humanos no ambiente de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:442a27b603f3781ca3c71354f86f4961d76c2f896b2238133cd40383305a59c1
+size 470

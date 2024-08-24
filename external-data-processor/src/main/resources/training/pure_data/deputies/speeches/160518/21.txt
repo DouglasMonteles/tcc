@@ -1,1 +1,3 @@
-Importância da votação pela Casa das proposições a respeito das lan houses e do Programa Minha Casa, Minha Vida. Apresentação, à Agência Nacional de Energia Elétrica - ANEEL, de recurso contra o índice de reajuste de tarifas estabelecido para a Companhia Energética de Minas Gerais - CEMIG.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc11792e58ec33976f1cd920efaee0f990fc64bba35eb7d382bcc87ec6fd38aa
+size 302

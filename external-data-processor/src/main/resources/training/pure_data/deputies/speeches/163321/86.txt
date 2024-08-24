@@ -1,1 +1,3 @@
-Lançamento do livro Terra Abençoada, de autoria do Prof. Lio Guerra Bocorny. Desenvolvimento do Município de Carazinho, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f25577df576df36777af1db03f5d21fef03dbfe54a788b6e94cdab10d611371c
+size 151

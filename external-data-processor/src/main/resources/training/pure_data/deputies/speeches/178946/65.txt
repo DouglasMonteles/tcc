@@ -1,1 +1,3 @@
-Apelo aos Parlamentares de apoio ao veto aposto ao dispositivo da Lei nº 5.070, de 2013, relativo à obrigatoriedade ao motorista de circulação com faróis acesos durante o dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6ad3476f1e24c9fbbbc9749563cde464572c2eebb057fa07a214a1a5f72b68e
+size 180

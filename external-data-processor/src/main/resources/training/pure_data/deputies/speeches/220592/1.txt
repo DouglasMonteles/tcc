@@ -1,1 +1,3 @@
-Discriminação das empresas aéreas com as populações da Região Norte. Exorbitância dos preços de passagens aéreas para o norte do País, especialmente para o Estado do Acre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ba9ad57a776745d93df36c92f9cd882f90989acc1c83c9e4b5c9167391f7611
+size 181

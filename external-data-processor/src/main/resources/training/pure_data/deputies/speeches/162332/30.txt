@@ -1,1 +1,3 @@
-Realização do Concurso Rainha da Uva 2011, como parte da Festa da Uva Fina, no Município de Marialva, Estado do Paraná. Presença do orador na 15ª Festa das Nações, no Município de Munhoz de Mello, no Estado, em comemoração aos 56 anos de sua fundação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39dd7328f674872f9f773fa88ae5a1fc12fd3ff22572e574c6f4ea7567e96af2
+size 264

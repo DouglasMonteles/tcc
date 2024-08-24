@@ -1,1 +1,3 @@
-Congratulações à Polícia Federal pelo impedimento da execução de atentado contra servidores dos Poderes Executivo e Judiciário. Necessidade de esclarecimento à Casa, pela Agência Nacional de Aviação Civil - ANAC, do processo de concessão de aeroportos brasileiros, notadamente do Aeroporto São Paulo/Congonhas. Apreensão ante a possibilidade de desestruturação da Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f365dbd38d6d8e93cff9aa27209a1f4d083eff66e476617ef22562372d717690
+size 443

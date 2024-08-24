@@ -1,1 +1,3 @@
-Assinatura de acordo entre o Serviço Nacional de Aprendizagem Rural - SENAR e o Ministério da Pesca e Aquicultura, com vistas à ampliação da capacitação e da assistência técnica para o cultivo de pescado em propriedades rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dc5bb615627170ba05178e3bcaf74c42936da5c9055ace9173c29b0bdf97558
+size 236

@@ -1,1 +1,3 @@
-Contrariedade à aprovação de requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news). Posicionamento do orador contrário à aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d90542e83a2d18e9892a0a6d86f17c3bfafef9bd01952f3f2204247ad4246339
+size 320

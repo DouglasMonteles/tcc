@@ -1,1 +1,3 @@
-Empenho do orador e do Deputado Estadual André do Prado na execução de obras viárias nos Municípios de Jacareí, Arujá e Guararema, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1513ad49529a16d36ab9feb0f7f33aa7493164e5dfa4144df1d62c18097504f3
+size 159

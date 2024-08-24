@@ -1,1 +1,3 @@
-Participação em solenidade de abertura da colheita de trigo, no Município de Lavras do Sul, Estado do Rio Grande do Sul. Necessidade de medidas de incentivo à triticultura gaúcha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d33b20b1ae036b1fd1b75537d655cf25ba2753fc3d169e7833112f682a606c72
+size 184

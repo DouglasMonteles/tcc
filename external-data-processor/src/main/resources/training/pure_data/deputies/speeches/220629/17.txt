@@ -1,1 +1,3 @@
-Importância do combate ao racismo no País. Tentativa por Senador da República de desqualificação da luta do movimento negro. Relato de reuniões da oradora com o Ministério das Relações Exteriores, e com os Embaixadores da Espanha e da União Europeia no Brasil, para debate de medidas antirracistas. Defesa de aprovação de moção de solidariedade ao jogador de futebol Vinícius Júnior, vítima de ataques racistas na Espanha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b891acc6c326fb6591be73a46e97721413c4dfc6fd22b8a3063f649318de150
+size 439

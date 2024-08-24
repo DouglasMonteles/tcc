@@ -1,1 +1,3 @@
-Solicitação ao Supremo Tribunal Federal - STF de decisão acerca do rito do impeachment.  Transcurso do Dia Internacional da Mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e4c96795b4fa0d3af2b0b1f5d20b5f3b1daa9964e14748317803db3bb4e84cc
+size 134

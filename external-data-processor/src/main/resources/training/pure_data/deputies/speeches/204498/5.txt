@@ -1,1 +1,3 @@
-Comprometimento do Governador do Estado do Pará, Helder Barbalho, com a preservação ambiental. Relevância do Plano Estadual Amazônia Agora e do Programa Territórios Sustentáveis. Papel exercido pela bioeconomia no processo de desenvolvimento sustentável da Amazônia. Anúncio de realização da 30ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima - COP 30, em Belém, Estado do Pará. União do Governo Estadual com a Igreja Evangélica Assembleia de Deus na promoção de agenda climática eficiente e sustentável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5343008505d689d78eccfc5370f69c1d0a7f33a4f16c78fa3909b3a2570de2a2
+size 568

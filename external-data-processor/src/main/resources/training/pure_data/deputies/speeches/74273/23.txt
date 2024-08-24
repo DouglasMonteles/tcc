@@ -1,1 +1,3 @@
-Expectativa de votação pela Casa de matérias de relevante interesse do País. Reforma ortográfica da língua portuguesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4821832df22d06fcbb9a58949ea7d39b1782e562b35ca40012c4012ab758532
+size 124

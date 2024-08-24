@@ -1,1 +1,3 @@
-Realização do 5º Encontro Nacional de Tuberculose e do 2º Fórum da Parceira Brasileira Contra a Tuberculose, em Brasília, Distrito Federal. Levantamento, pela Frente Parlamentar de Luta Contra a Tuberculose, do número anual de casos da doença no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:288653969a42c0f3d551db1fd4079c467281ebfaa4fa7705a9f824f814889a14
+size 261

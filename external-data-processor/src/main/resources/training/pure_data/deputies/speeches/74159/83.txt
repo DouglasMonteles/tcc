@@ -1,1 +1,3 @@
-Promoção, por Comissão Especial, de debates sobre a tramitação das medidas provisórias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28f8a859bdb0b324c99548c60405441c82e962ba22bf83f3a0266cb4a49b0f21
+size 93

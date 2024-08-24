@@ -1,1 +1,3 @@
-Defesa do afastamento do Deputado Eduardo Cunha da Presidência da Casa, em face de acolhimento de denúncia contra o Parlamentar pelo Supremo Tribunal Federal - STF. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27cb9bbd32e188538d01d7e35ab0c5e55581d9492def4d803e53ce8558795052
+size 202

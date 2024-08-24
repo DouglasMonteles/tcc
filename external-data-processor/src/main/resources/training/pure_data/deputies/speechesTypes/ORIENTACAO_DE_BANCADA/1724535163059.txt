@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação dos&nbsp;dispositivos 1 a 20, 23 a 40, 44, 46 e 47 do Veto nº 30, de 2023, parcial, aposto ao ao Projeto de Lei nº 490, de 2007, da Câmara dos Deputados (Projeto de Lei nº 2.903, de 2023, do Senado Federal), que dispõe sobre o reconhecimento, a demarcação, o uso e a gestão de terras indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e9f6fa0d3a809e18f8dd0b4c80325866ed1047b4db8a8431948268620c2798a
+size 346

@@ -1,1 +1,3 @@
-Transcurso do aniversário natalício do ex-Presidente Jair Bolsonaro. Congratulações ao ex-Presidente da República pelo alcance da paz no campo em seu governo. Invasão, pelo Movimento dos Trabalhadores Rurais Sem Terra - MST, da sede do Instituto de Terras do Pará - ITERPA e de outros órgãos públicos. Imobilismo do Governo Estadual e do Ministro da Justiça e Segurança Pública diante de invasões promovidas pelo MST. Aplausos ao Deputado Estadual do Pará, Delegado Toni Cunha, pelo empenho na criação da CPI do MST. Congratulações à Casa pela apresentação do requerimento de instauração de CPI sobre o tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24297b3b334d91370eea01b3c9a9f6a1b7093f6d9d03cb8009a57a572670e733
+size 632

@@ -1,1 +1,3 @@
-Posicionamento contrário do PSDB  à  expressão ou em área pertencente à União, suas autarquias e fundações, constante do inciso IV do art. 11 da  Subemenda Substitutiva Global de Plenário ao Projeto de Lei Complementar 416 de 2008 (Dispõe sobre o procedimento para a criação, a  incorporação, a fusão e o desmembramento de Municípios, para regulamentar o § 4º do art. 18, da Constituição Federal),  objeto de DVS, para possibilitar a aprovação de Estudo de Viabilidade Municipal  para criação de Municípios em área pertencente à União, suas autarquias e fundações .
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f522b7e4f3807dfc9944a77d21b756693168b1f9c4ad7eba2d78dc9cfe08df8
+size 595

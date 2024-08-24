@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Cultura. Ações dos Poderes Legislativo e Executivo em prol da cultura brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3281701f046ff543c874dc18b26267eec6105565b5fa9c26731dd5a9ccf4de86
+size 113

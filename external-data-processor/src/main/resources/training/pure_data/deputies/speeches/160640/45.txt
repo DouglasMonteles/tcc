@@ -1,1 +1,3 @@
-Sessão solene em homenagem à Campanha da Fraternidade de 2015.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4a926124f5d433c9f474a5920004a9e25d23d47afcb0524a11b9e41cf285e8a
+size 64

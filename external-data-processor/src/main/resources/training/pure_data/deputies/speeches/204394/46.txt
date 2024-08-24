@@ -1,1 +1,3 @@
-Omissão do Presidente Jair Bolsonaro sobre o alastramento de queimadas na Amazônia. Realização de reunião por Deputados de partidos oposicionistas destinada à reivindicação ao Presidente Rodrigo Maia de realização de debate sobre a importância da região amazônica. Anúncio da participação do orador em ato público denominado SOS Transposição - Grito do Nordeste, em defesa da transposição de águas do Rio São Francisco, no Município de Monteiro, Estado de Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef045c513b05eeac49468c79353827d7c35ee0a8b450da5c2d18a7cea146cc89
+size 489

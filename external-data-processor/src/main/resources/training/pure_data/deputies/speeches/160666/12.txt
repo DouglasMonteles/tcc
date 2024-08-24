@@ -1,1 +1,3 @@
-Dificuldades enfrentadas pelo setor empresarial brasileiro em decorrência da excessiva burocracia estatal. Apresentação de sugestões para o processo de desburocratização.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cfd72735984ba8ecf394bf87fe9d875f5861b78029082f630c0c3ef0d1d4d8c
+size 176

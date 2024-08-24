@@ -1,1 +1,3 @@
-Não cumprimento de promessas da campanha eleitoral pelo Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae0a6375fb0d71363475982bfdbf66641884c51c412aee81ecba7a30da66156e
+size 95

@@ -1,1 +1,3 @@
-Convite aos brasileiros para os festejos de São João na Região Nordeste, particularmente no Estado de Alagoas. Reflexos das festividades juninas sobre a economia da região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f90bef8ace801901f64f044bba2441422c82bcde30007360efc2026cdefd3670
+size 176

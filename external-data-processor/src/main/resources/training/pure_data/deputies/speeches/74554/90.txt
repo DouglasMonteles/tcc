@@ -1,1 +1,3 @@
-Inauguração de ginásio de esportes no Município de Tanque Novo, Estado da Bahia, construído com recursos de emendas orçamentárias do orador. Realização da Festa de Maio no Município de Serra Dourada. Excelência da gestão do Prefeito Enilson Fagundes Camêlo, da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d25aecd318e86711070a65f8c063b9dedb4c133afbe5632fd8b15e8a21bded9
+size 289

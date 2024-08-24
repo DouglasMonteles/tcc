@@ -1,1 +1,3 @@
-Necessidade de ações governamentais para combate à violência no campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f64767f2a1e5d52ca5cbc98c069aff149ff887763b81859435af813c56663be9
+size 74

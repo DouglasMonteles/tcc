@@ -1,1 +1,3 @@
-Comemoração do centenário do Município de Guanambi, no Estado da Bahia. Instalação de parque eólico na municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b27e268a6d82ea846ad34916bbcf384ae6319a171b4d0ed1815ca39729fc6a9a
+size 125

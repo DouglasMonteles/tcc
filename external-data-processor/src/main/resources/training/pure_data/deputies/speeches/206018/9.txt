@@ -1,1 +1,3 @@
-Transcurso do Dia dos Povos Indígenas. Preservação das florestas e biomas brasileiros. Criação do Ministério dos Povos Indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a697157bd2b38008710b68f8ce8ddf597fd89a6538f235ad0449769b6c7b893
+size 136

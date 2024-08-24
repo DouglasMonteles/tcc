@@ -1,1 +1,3 @@
-Relevância do lançamento, pela Presidenta Dilma Rousseff, do Programa Rede Cegonha, destinado ao atendimento humanizado à gestante e ao filho até os 2 anos de vida. Posicionamento da bancada católica contrário à prática do aborto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63dba27e12c1854ebb6723e00ada40c6d867e4b1ed10eb400cb1a6170ec32737
+size 238

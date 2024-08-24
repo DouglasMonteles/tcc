@@ -1,1 +1,3 @@
-Visita do orador aos Municípios de Maraã, Fonte Boa e Manaquiri, no Estado do Amazonas. Prejuízos causados à Zona Franca de Manaus pela greve dos Auditores-Fiscais da Receita Federal do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e40d9194e8c8a6a2e3db857bcbaa2d4f8e5d2d7e80b687664a9a4c179c51663
+size 197

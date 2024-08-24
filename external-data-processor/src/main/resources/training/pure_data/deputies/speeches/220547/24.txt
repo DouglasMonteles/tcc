@@ -1,1 +1,3 @@
-Elogio ao Deputado Estadual de Mato Grosso do Sul, João Henrique Catan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43434b065d95e724e0e937580a1d2ad85321e4c280c697aeac4d46783cddb807
+size 72

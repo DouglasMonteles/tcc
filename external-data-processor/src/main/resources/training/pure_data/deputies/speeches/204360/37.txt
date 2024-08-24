@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque supressivo do § 12 do art. 15-E da Lei nº 7.827, de 1989, proposto pelo art. 2º do projeto de lei de conversão oferecido à Medida Provisória nº 1.016, de 2020, sobre alteração da Lei nº 7.827, de 1989, para a disposição sobre a renegociação extraordinária de débitos no âmbito do Fundo Constitucional de Financiamento do Norte - FNO, do Fundo Constitucional de Financiamento do Nordeste - FNE e do Fundo Constitucional de Financiamento do Centro-Oeste FCO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31e517762ae385d49d07d27efd08efed67b63a2fcecc731c2fdd8805bbc89bdb
+size 538

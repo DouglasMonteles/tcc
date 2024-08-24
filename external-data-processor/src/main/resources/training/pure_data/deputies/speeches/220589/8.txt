@@ -1,1 +1,3 @@
-Apelo ao Governo Federal por retomada do pagamento de benefícios previdenciários a segurados do INSS. Encaminhamento, ao Ministério da Previdência Social, de requerimento de informações a respeito do prazo de regularização de cadastros de beneficiários junto ao órgão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdcdca7d506e202cb55eb23543981307835b5d10af12f6740dd71665d79de472
+size 279

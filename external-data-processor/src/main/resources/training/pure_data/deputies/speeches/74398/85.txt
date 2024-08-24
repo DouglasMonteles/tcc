@@ -1,1 +1,3 @@
-Avanços do País especialmente na área educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58fb9eb021b0919d9e6feb01c15fde00882a7597ea2f83898fb65c432f824c6c
+size 53

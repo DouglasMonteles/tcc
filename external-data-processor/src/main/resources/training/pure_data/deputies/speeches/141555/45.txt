@@ -1,1 +1,3 @@
-Realização, pela Comissão de Defesa do Consumidor, de audiência pública para debate da eficácia de medicamentos similares. Esclarecimentos acerca dos direitos dos consumidores quanto a prazos de entrega e compras pela Internet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:135ec0a2d0c7add4ad86ac3ebe43bd4b983dfddd82cdf180d1de5be3046fbdef
+size 233

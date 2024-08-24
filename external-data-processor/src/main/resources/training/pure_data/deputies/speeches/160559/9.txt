@@ -1,1 +1,3 @@
-Inconsistência de críticas à emenda substitutiva global apresentada pelo Deputado Aldo Rebelo à proposta de reformulação do Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc3f7e81a888d187f83d08bc1d39577130ab21a45b04e5797e2fa9098e4a0416
+size 159

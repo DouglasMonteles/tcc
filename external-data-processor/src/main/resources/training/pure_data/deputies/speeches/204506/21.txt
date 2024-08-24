@@ -1,1 +1,3 @@
-O Presidente em exercício Marcos Pereira respondeu o requerimento do Deputado Marcel van Hattem, que invocou o art. 30 do Regimento Comum, que diz que uma vez aberta a sessão, o 1º Secretário procederá à leitura do expediente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89f2579d23e56efd6675e23acdac0e108fd246753f4de7d53fae0175cb101fb9
+size 232

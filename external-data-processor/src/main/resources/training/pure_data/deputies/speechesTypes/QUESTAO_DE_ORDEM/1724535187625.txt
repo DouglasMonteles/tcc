@@ -1,1 +1,3 @@
-Questão de ordem sobre a inconstitucionalidade, a ilegalidade e a antirregimentalidade de aprovação, pela CPI da FUNAI e do INCRA, de requerimento de instalação de inquéritos policiais com base em relatório não conhecido pelo colegiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36f5dd071f259ed8a571ffd819187522ee331ebeffcfceb6191fa661bc23cee3
+size 244

@@ -1,1 +1,3 @@
-Encaminhamento à Presidência de moção de congratulação à população do Município de Poções, Estado da Bahia, pelo transcurso do 131º aniversário de emancipação político-administrativa da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0606f8347d6e0c1efc86dab801307af553e93399ddfb17296248f9c0bec9903
+size 218

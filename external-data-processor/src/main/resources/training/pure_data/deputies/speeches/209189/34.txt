@@ -1,1 +1,3 @@
-Necessidade de investigação de diálogo mantido entre o então Juiz Federal, Sérgio Moro, e o Procurador da República, Deltan Dallagnol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5de418becb03745318d627b862c5782ab7736baf6d19f5d85cc7bc8f6af61ec
+size 140

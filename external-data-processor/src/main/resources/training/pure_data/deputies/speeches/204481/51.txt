@@ -1,1 +1,3 @@
-O Deputado manifestou sua preocupação em relação à possível volta do imposto sindical obrigatório, que havia sido revogado na reforma trabalhista durante o Governo Michel Temer. Criticou a tentativa de reintroduzir o imposto, agora com um valor mais elevado, considerando-o prejudicial aos trabalhadores. O Parlamentar argumentou que a liberdade de escolha deve ser mantida, permitindo que os trabalhadores contribuam voluntariamente para os sindicatos de sua escolha. Expressou sua indignação com as mudanças propostas e instou seus colegas a impedirem a aprovação do projeto referente ao assunto quando este chegar à Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88b0ba722bf683671412e13de5619ddd1a957c99dd4a12ee5b8651209748f4e0
+size 637

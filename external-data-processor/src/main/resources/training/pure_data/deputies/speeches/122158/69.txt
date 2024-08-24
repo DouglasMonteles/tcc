@@ -1,1 +1,3 @@
-Apoio à proposta de criação do cadastro positivo de crédito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc1aa7c4173739e0bf5e46f6ee033c9adde6306fdc3a53cf022dfea17e7a6abc
+size 64

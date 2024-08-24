@@ -1,1 +1,3 @@
-Expectativa de inclusão na pauta das Emendas do Senado ao  projeto de lei sobre a criação do Vale-Cultura. Realização de acordo para votação de proposta de emenda à Constituição sobre a criação do Sistema Nacional de Cultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aac5c3231dd9dac324181da2d1f00ee39e3759955f773b79e807155de514bc65
+size 237

@@ -1,1 +1,3 @@
-O Deputado protestou contra diversos pontos tratados pela proposta de minirreforma eleitoral, com destaque para questões relacionadas às vagas de vereadores, cotas femininas, verbas para candidaturas e caixa 2. Criticou o descumprimento da legislação eleitoral no Brasil e considerou inadmissível o Parlamento tentar flexibilizar o crime de caixa 2 de campanha. O orador, com indignação, também mencionou outros casos de descumprimento de normas no País, como a Lei de Acesso à Informação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02aef94a1caa1f0a82d56ae63eda115b82bfad15b27880d6f74efa51d8ca50df
+size 501

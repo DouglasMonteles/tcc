@@ -1,1 +1,3 @@
-O Deputado destacou a 61ª Festa do Boi, realizada no Rio Grande do Norte, como um evento significativo para o setor agropecuário do Estado e do Brasil. Elogiou os organizadores, incluindo a Associação Norte-Rio-Grandense de Criadores (ANORC) e outras instituições parceiras como SEBRAE e Governo do Estado. Enfatizou que a festa é uma vitrine para o agro potiguar e citou que, apesar das dificuldades como secas e falta de crédito, o setor tem mostrado resiliência. O Parlamentar disse ainda que planeja discutir a criação de um programa de genética para melhorar a qualidade do rebanho no Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8d1474bae4d3307a0aab42a63186c7042a9a578f78ba4feed9b9146bd6780e1
+size 622

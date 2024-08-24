@@ -1,1 +1,3 @@
-Visita da Presidenta Dilma Rousseff à Paraíba. Anúncio de investimentos federais para a conclusão de obras de infraestrutura nos Municípios de João Pessoa e Campina Grande, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65add747aa40d201dfd3c2938b35a6ba1462cb00b1f201c61850416aeb1a60d0
+size 198

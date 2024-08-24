@@ -1,1 +1,3 @@
-Realização do Fórum Mundial da Educação com o tema Educação, Economia Solidária e Ética Planetária, no Município de Santa Maria, Estado do Rio Grande do Sul. Trechos da Carta de Santa Maria extraída do evento. Apoio à economia solidária, às cooperativas de produção e às associações de interesse comuns voltadas à exploração racional e coletiva de recursos naturais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f3b404d9219ea14270685a0d038d8e9c79d3d3b6fc383075e03220cfd53009b
+size 389

@@ -1,1 +1,3 @@
-Manifestação de solidariedade aos caminhoneiros em greve. Repúdio a medida provisória de caráter discriminatório aos movimentos populares contrários ao Governo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:438d36f65e4d166864c8dd61b7ec1f0b3c6163a9858bf1075cddb1f772712b7d
+size 167

@@ -1,1 +1,3 @@
-Desoneração dos produtos da cesta básica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84e0043760158918938dee542735d3f50e937f4ca6653101a097cf6b3805346c
+size 44

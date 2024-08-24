@@ -1,1 +1,3 @@
-Congratulações ao Ministro Carlos Ayres Britto, do Supremo Tribunal Federal, pela apresentação de voto favorável ao sistema de bolsa de estudos em universidades privadas, previsto pelo Programa Universidade para Todos - ProUni. Transcurso do Dia Nacional do Jornalista. Apoio a manifesto da Federação Nacional dos Jornalistas - FENAJ, sobre a regulamentação da profissão de jornalista e sobre a criação do Conselho Federal de Jornalismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdec10055352bde346e0a4f1e0736575a3d49855a1e8bec9b2b605692eafcce9
+size 449

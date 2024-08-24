@@ -1,1 +1,3 @@
-Solidariedade à Deputada Estadual de São Paulo, Érica Maluguinho, diante de ofensas verbais desferidas por Deputado do PSOL, em face de sua orientação sexual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:644e842ea62a40c542e99a8cbd848e79f45eb0668e3cd1edcea23fa16246308a
+size 163

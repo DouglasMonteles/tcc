@@ -1,1 +1,3 @@
-Declaração de voto pela inclusão da Venezuela no Mercado Comum do Sul - MERCOSUL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48601ea59d6e628352e1bdd8957c4fd5bd626419ee41c48a7025ca311c3c1510
+size 84

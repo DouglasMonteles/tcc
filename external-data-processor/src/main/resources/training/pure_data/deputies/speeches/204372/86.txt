@@ -1,1 +1,3 @@
-Pedido ao Governador do Distrito Federal, Ibaneis Rocha, de liberação de eventos de pequeno porte na Capital do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9e7db99ac075e69e25229561bb0cf8436ee0a53a0c5d381b7d9bdad998a7351
+size 120

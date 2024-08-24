@@ -1,1 +1,3 @@
-Transcurso do 459° aniversário de fundação de Salvador, Estado da Bahia. Críticas ao plano diretor elaborado pela Prefeitura Municipal. Apresentação pelo PCdoB de novo modelo de desenvolvimento de Salvador. Transcurso do 70° e do 8º aniversários de emancipação político-administrativa, respectivamente, dos Municípios de Correntina e Luiz Eduardo Magalhães.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cd20ed339b7d85a554ecf316f972af45bea387a5d81c90071e77acb21ba95ad
+size 372

@@ -1,1 +1,3 @@
-Cobrança ao Governo Federal de liberação de recursos orçamentários oriundos de emendas  parlamentares e da bancada do Estado de Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a747b4c7e7bed934779364da74b0f8c1aa355131dafa1110556ad07e671e9825
+size 143

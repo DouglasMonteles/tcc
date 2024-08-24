@@ -1,1 +1,3 @@
-Registro da participação do orador e de  outros parlamentares em  manifestação de moradores dos bairros Jardim Romano e Jardim Pantanal, na Zona Leste da cidade de São Paulo, inundados pelas últimas chuvas. Defesa da manutenção do veto do Presidente da República a dispositivos do Orçamento Geral da União  para 2010 que incluem na lista de obras com indícios de irregularidade graves, quatro empreendimentos da PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06bf9bab4626e0f8601a7023f43626a1d3226bd25fe89fae06f394db60b393b0
+size 434

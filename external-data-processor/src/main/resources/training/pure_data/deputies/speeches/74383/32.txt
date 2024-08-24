@@ -1,1 +1,3 @@
-Apresentação de requerimento de criação de CPI para investigação da legalidade do acordo de cooperação técnica celebrado entre o Tribunal Superior Eleitoral e a Centralização de Serviços dos Bancos S.A. - SERASA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5526267e2098305a96b0c686405ef9794916a760f1003bac4ab14ed030a13baf
+size 224

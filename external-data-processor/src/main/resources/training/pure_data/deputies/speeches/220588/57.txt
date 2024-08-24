@@ -1,1 +1,3 @@
-O Deputado discursou sobre o Imposto Sindical no Governo Lula. Recentemente, o Sindicato dos Empregados de Agentes Autônomos do Comércio (Seaac) de Sorocaba, São Paulo, começou a cobrar uma contribuição assistencial de 12% dos salários dos autônomos, com uma taxa de R$ 150 para aqueles que se recusam a pagar. Isso ocorreu antes da decisão do STF que permitiu a cobrança compulsória, desde que definida em assembleia e com direito à oposição. No entanto, autônomos relatam dificuldades para exercer esse direito de oposição, enfrentando longas filas e a necessidade de uma carta manuscrita. O orador enfatiza a necessidade de revisão dessa situação e a proteção dos trabalhadores contra práticas abusivas dos sindicatos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46a039a5d339042ee7de13d3caa0943b9fdcd2a38ba3c00062f8f062da646be7
+size 744

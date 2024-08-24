@@ -1,1 +1,3 @@
-Regozijo com a sanção presidencial ao Projeto de Lei nº 2.826, de 2015, sobre o exercício da atividade e a remuneração do permissionário lotérico, de autoria do Deputado Goulart.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c94f31e78bc95cc894bda651395ab8bce1e06907457aaf0c91a989a4405159e
+size 186

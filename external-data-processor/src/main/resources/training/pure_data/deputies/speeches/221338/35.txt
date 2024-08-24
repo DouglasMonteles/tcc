@@ -1,1 +1,3 @@
-Defesa de retirada pelo Senado Federal, do bojo do parecer oferecido ao Projeto de Lei Complementar nº 93, de 2023 (novo arcabouço fiscal), do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação&nbsp;— FUNDEB, dos pisos salariais nacionais do magistério público e da enfermagem, bem como de gatilhos contra os servidores públicos. Lançamento da plataforma Educação Fora do Teto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a80b217d2f68f64740fc6ca35eb566b71398c3918aea1f69244ad64490d5306
+size 449

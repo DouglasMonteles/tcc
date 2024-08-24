@@ -1,1 +1,3 @@
-Agradecimentos pela eleição do orador. Regozijo com a eleição de Flávio Dino para o cargo de Governador do Estado do Maranhão. Anúncio de apresentação de proposta de emenda à Constituição sobre a convocação de Assembleia Nacional Constituinte para a realização das reformas políticas e tributária. Urgente regulamentação de dispositivo da Lei nº 9.504, de 1997, que fixa os limites dos gastos de campanha eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:490bf3f6823d953b89b6f0bc7b706dab6ec441d5995775a9ecc9b5b0d1098a0a
+size 436

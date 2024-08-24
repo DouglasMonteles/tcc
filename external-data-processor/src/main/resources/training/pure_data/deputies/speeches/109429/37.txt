@@ -1,1 +1,3 @@
-Apresentação do Requerimento nº 312, de 2022, de voto de pesar pelo falecimento do ex-Governador do Estado do Rio Grande do Norte, Geraldo Melo. Relevância de sua atuação em prol do Estado e da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f42e4bd4e08d300f5eaf860fef6d836aa9da0aee65af7490e1e277c31db0fe3
+size 217

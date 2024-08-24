@@ -1,1 +1,3 @@
-Não divulgação da greve dos petroleiros pela imprensa. Posicionamento contrário à privatização da empresa Petróleo Brasileiro S/A - PETROBRAS. Luta do orador pela redução dos preços de combustíveis e do Gás Liquefeito de Petróleo - GLP, o gás de cozinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f2a013c3d9214be2d7ffb6c5764b2b9370d351ebeaea26edf7d64a9c6ce3715
+size 269

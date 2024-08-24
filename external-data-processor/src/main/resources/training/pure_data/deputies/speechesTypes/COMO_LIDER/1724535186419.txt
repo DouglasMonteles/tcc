@@ -1,1 +1,3 @@
-Sanção pela Governadora do Estado do Piauí, Regina Sousa, da lei de regulamentação da alíquota do ICMS incidente sobre combustíveis, gás de cozinha, energia elétrica, comunicação e transportes. Perda de receitas do Estado e dos Municípios piauienses em decorrência da medida. Questionamento sobre a redução dos preços de derivados de petróleo para os consumidores brasileiros. Importância de fiscalização, pela sociedade piauiense, da redução dos preços de combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e109a5e9f8fe4e07fce6d4e3df43ca31da8b061d9a48c067e909c69c5459230
+size 494

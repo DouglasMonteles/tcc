@@ -1,1 +1,3 @@
-Indignação com a manifestação de Deputados a favor dos protestos nas ruas. Necessidade de aprovação de reformas para a retomada do desenvolvimento do País. Presença, na Casa, do Vereador Denilson Cabide, do Município de Natividade, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8985fe72ec365cbdc10d00a39c0e10edf2d1b1413dd918b5225d6cc7fd9ef7d
+size 266

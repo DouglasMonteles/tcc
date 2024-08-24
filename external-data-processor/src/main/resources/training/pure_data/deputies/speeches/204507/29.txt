@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 11, apresentada ao Projeto de Lei nº 6.407, de 2013, acerca das medidas de fomento à indústria de gás natural; e da alteração da Lei nº 11.909, de 2009.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0442df955d6005e798b294751628899109b13767a7db9492507545fb16c0a522
+size 278

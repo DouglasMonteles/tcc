@@ -1,1 +1,3 @@
-Orientação de bancada na  votação do parecer da Comissão Mista quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85aa6642f29421a35ed027f986395ae9ef92f338202fc144ff41c1934f59efd8
+size 199

@@ -1,1 +1,3 @@
-Orientação de bancada para votação do requerimento de destaque para votação em separado da expressão e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua, constante no § 1º do art. 17 da Constituição Federal, na redação do art. 1º do substitutivo da Proposta de Emenda à Constituição nº 282, de 2016, relativa à vedação das coligações nas eleições proporcionais, ao disciplinamento da autonomia dos partidos políticos e ao estabelecimento de normas sobre fidelidade partidária e funcionamento de partidos políticos, em segundo turno de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:752c7c7d9a4b86f88bae5f7176573d2eefccf07d8cd8ba539dc2f03c23faa2bd
+size 636

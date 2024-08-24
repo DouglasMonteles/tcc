@@ -1,1 +1,3 @@
-Situação caótica de frigoríficos no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:450059342a4d7e418fa06d81626d11d6fc8a61647248cf90fa7bc54b55fab285
+size 58

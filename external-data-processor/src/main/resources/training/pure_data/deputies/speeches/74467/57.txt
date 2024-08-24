@@ -1,1 +1,3 @@
-Contentamento com a inclusão na pauta da proposta de regulamentação da Emenda Constitucional nº 29, de 2000, sobre destinação de recursos para a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d5e9a0223700a0f139422cb68627b48e224158a4b99c93a018de30f1d218772
+size 167

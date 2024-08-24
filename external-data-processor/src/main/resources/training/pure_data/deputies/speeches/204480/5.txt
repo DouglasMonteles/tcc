@@ -1,1 +1,3 @@
-Inadmissibilidade de criminalização de movimentos sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90bc173152fedde00abc6d8aba89ba5de4d7fb406f6a3dd62df38caa95a79e51
+size 60

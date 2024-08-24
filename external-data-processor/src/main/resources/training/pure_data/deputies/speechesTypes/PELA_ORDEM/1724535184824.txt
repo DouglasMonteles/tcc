@@ -1,1 +1,3 @@
-Transcurso do 236º aniversário de fundação de Porto Alegre, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:061cc3ac05803bc892e837354eb0626f7bbd1f625992c4312461df847121c50d
+size 92

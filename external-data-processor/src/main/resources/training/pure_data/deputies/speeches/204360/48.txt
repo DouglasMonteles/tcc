@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado de Rondônia pela reeleição da oradora. Atuação da Parlamentar em prol da construção do Centro de Prevenção e Diagnóstico de Câncer e do Centro de Referência em Reabilitação de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ca0e2eb169be5e2da669796fdebefe673cc65a68a327d614584fe5a534874a1
+size 238

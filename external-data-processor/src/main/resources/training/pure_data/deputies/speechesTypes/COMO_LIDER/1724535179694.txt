@@ -1,1 +1,3 @@
-Repercussão da sede de vingança do Presidente Luiz Inácio Lula da Silva contra o Senador Sérgio Moro, demonstrada em entrevista a importante veículo de comunicação. Inversão de valores pelo Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1afa7978150f0bf1610c2a2fd33318e614941c1385cc149ef86ba09d7a94639a
+size 223

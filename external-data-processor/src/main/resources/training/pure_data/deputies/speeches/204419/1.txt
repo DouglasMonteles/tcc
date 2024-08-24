@@ -1,1 +1,3 @@
-Debate da situação da saúde no Brasil. Elogio ao Secretário de Saúde do Estado de Goiás, Ismael Alexandrino Júnior, pelas ações de combate à epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:269ffe0e88ef878ba54a268d6933bbfece62f51f308ad20bc2e45ec518e8fa25
+size 176

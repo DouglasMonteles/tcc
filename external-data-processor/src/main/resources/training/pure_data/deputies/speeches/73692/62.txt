@@ -1,1 +1,3 @@
-Relevância do papel desenvolvido pela Secretaria de Assuntos Estratégicos da Presidência da República, sob o comando do Ministro-Chefe Moreira Franco. Demissão de trabalhadores pela indústria de máquinas John Deere Brasil, do Município de Horizontina, Estado do Rio Grande do Sul. Necessidade de adoção, pelo Governo brasileiro, de providências a respeito do embargo imposto pela Argentina e pela Rússia, respectivamente, às exportações de máquinas agrícolas e de carne suína brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba9a4224617097654247d6259373b5b6ea57e6741db062eee0d945eba5968170
+size 506

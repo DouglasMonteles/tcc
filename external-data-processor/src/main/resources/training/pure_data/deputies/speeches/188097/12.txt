@@ -1,1 +1,3 @@
-Alcance da marca de 160 mil mortes no País em decorrência da Covid-19. Elevado contingente de brasileiros subempregados e desempregados. Imediata votação pela Casa da Medida Provisória nº 1.000, de 2020, para a retomada do pagamento do auxílio emergencial concedido a trabalhadores e famílias carentes diante da crise gerada pelo coronavírus. Defesa de vacinação em massa da população brasileira contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a8f50f8c07ca6d154672f463f6f34da224396be7db34e2b314cd913562f89ec
+size 427

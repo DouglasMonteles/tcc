@@ -1,1 +1,3 @@
-Inconsistência de matéria veiculada pelo WhatsApp sobre a majoração dos componentes da cesta básica, no caso de aprovação da Proposta de Emenda à Constituição nº 45, de 2019, relativa à reformulação do Sistema Tributário Nacional. Defesa de aprovação da propositura pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6704e8becf1fc047fad93b592d975c11d6aa944057d3ae6db4de0054e38cb68f
+size 310

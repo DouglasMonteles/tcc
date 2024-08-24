@@ -1,1 +1,3 @@
-Crise do setor pesqueiro no Estado do Ceará, especialmente da carcinicultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e2105bd4042a7f8bf3add15ac246c81e8d01afadfa705b76bda3bfe3642c5a1
+size 78

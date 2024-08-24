@@ -1,1 +1,3 @@
-Estabelecimento de parceria entre a Secretaria de Direitos Humanos, a Secretaria de Assistência Social e a área de segurança pública do Município de Niterói, Estado do Rio de Janeiro, para redução do contingente de moradores de rua e dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:260131677384db363f58e718bd92fc6b741f94337322908ab30a62fdc8ae29b9
+size 264

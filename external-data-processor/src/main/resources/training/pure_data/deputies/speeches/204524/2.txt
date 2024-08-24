@@ -1,1 +1,3 @@
-Regozijo com a aprovação pela respectiva Comissão Especial da proposta de elevação do índice de repasse, pela União, de recursos ao Fundo de Participação de Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4941236cad793d44d28af54cc7dfd4a9e3fb4647cd5294943278a236a102e326
+size 184

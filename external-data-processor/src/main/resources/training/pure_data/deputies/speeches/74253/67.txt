@@ -1,1 +1,3 @@
-Regozijo com a vitória da Chapa 2, relativa à eleição de membros da Comissão Especial do impeachment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d254f2e769da06473f3105f48f29de737ad1fd2e9c781fc322cf626e95bad48
+size 106

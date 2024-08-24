@@ -1,1 +1,3 @@
-Interrupção no fornecimento de energia elétrica pela Companhia Energética de Minas Gerais S/A - CEMIG. Devolução aos consumidores brasileiros de valores cobrados a maior em tarifas de energia elétrica. Posicionamento do orador contrário ao reajuste de tarifas anunciado pela Agência Nacional de Energia Elétrica - ANEEL. Conveniência de extinção da taxa de assinatura básica da telefonia fixa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:724fdb4ae59bd4c375c3e7fea3ffcc9ce5eb2d9d3b7b382b0359714ca8d48e44
+size 407

@@ -1,1 +1,3 @@
-Posicionamento contrário do PSDB ao Requerimento de constituição de Comissão Externa para acompanhar a reintegração de posse de propriedades rurais, em Campo Grande, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c24bacfe9e29bb4ecf2d91d29f994f6cfcc4cf4f49895b952bceccfd0e5c85d9
+size 201

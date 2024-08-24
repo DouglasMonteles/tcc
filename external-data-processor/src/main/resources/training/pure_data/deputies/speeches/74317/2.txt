@@ -1,1 +1,3 @@
-Realização da XI Marcha a Brasília em Defesa dos Municípios. Participação do orador em marchas anteriores. Defesa da repartição das receitas do Imposto sobre Produtos Industrializados - IPI entre Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f793ae1dfdb7e5813589d058e85b530d8017300e65e4fcc49c65ceb17a8be59
+size 226

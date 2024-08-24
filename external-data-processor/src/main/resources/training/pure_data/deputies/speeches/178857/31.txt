@@ -1,1 +1,3 @@
-Apoio à greve dos petroleiros no País. Denúncia de prisão do Coordenador do Sindicato dos Petroleiros, em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c917070092ecea10a017784cc497d41c84bd3c0cac1c04b5226114bd6f9e7c3
+size 136

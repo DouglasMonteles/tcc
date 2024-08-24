@@ -1,1 +1,3 @@
-Abertura da Semana Nacional da Pessoa com Deficiência Intelectual e Múltipla, no Auditório Nereu Ramos da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dd7db8d81d519e266c5a452904c3c196b536662eee0cfb2c37462b8a328ce3e
+size 131

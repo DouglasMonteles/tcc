@@ -1,1 +1,3 @@
-Protesto contra a obstrução das votações pelos partidos oposicionistas. Natureza vexaminosa e imoral da ocultação, por Senador da República, de dinheiro vivo em seus trajes íntimos. Indignação do orador com a utilização da imunidade parlamentar para a prática de crimes nas esferas penal e civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6753053c1ba347793553774d9f7ab38860707a75d1ba3330fb2e115b8998dab
+size 309

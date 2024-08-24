@@ -1,1 +1,3 @@
-Importância da transposição de águas do Rio São Francisco para suprimento da região semiárida do Nordeste brasileiro.  Retrospecto das razões motivadoras do retardamento do início das obras. Conveniência de imediata realização de estudo de viabilidade de obras de transposição das bacias hidrográficas existentes no País para regiões com escassez de água.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63861f799d8507f5ae3b1936c0025bd46dcb20c18079fe145fb15723314236c4
+size 373

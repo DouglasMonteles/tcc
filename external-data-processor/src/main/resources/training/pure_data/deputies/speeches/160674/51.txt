@@ -1,1 +1,3 @@
-Lançamento, pela Presidente Dilma Rousseff, de pacote de medidas para combate aos efeitos da seca na Região Nordeste. Retomada, pela Companhia Nacional de Abastecimento - CONAB, da venda de milho em balcão aos pequenos produtores do Estado da Paraíba. Defesa da realização de obras estruturantes para a convivência dos agricultores nordestinos com a estiagem. Consequências da redução das dotações orçamentárias do Departamento Nacional de Obras Contra as Secas - DNOCS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7ae8bbb14042403230587b8ed961e11c460e037348ff411b1f08517c096d32b
+size 484

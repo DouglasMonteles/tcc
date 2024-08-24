@@ -1,1 +1,3 @@
-Trajetória acadêmica da Profa. aposentada Maria Victoria Benevides, da Faculdade de Educação da Universidade de São Paulo - USP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8823d0bdb78237577fd904b3dc6f9a59b85cfc9ec2021348863cca836aa2f517
+size 133

@@ -1,1 +1,3 @@
-Necessidade de reação da Casa contra a cassação do mandato parlamentar do Deputado Deltan Dallagnol pelo Tribunal Superior Eleitoral. Apoio à criação da CPI do Abuso de Autoridade do Supremo Tribunal Federal e do Tribunal Superior Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0214ff46a5cdcb0295fb657bdbc6ec4466210da86f10a13f660a75209df974b3
+size 248

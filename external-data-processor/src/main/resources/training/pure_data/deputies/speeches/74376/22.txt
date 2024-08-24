@@ -1,1 +1,3 @@
-Realização da 11ª Conferência Estadual dos Advogados de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d7fdb707d7c7242439e9182934d196fe7a9b2e5258c7191691fa9be1351fafc
+size 79

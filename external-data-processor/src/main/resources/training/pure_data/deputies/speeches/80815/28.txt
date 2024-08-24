@@ -1,1 +1,3 @@
-O Deputado protestou contra os altos preços das passagens de avião e a drástica redução da malha aérea, que afetam não apenas a população, mas também os Parlamentares. Criticou os subsídios concedidos às companhias aéreas, que não são convertidos em preços acessíveis para os consumidores. Além disso, enfatizou a necessidade de abrir o mercado para outras empresas, a fim de melhorar a acessibilidade e eficiência da aviação no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2df9a4ac17d638ad8fdd8f6aaeea73767d347adbb58db6fdece95df7d12065b1
+size 457

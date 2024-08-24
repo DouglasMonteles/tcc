@@ -1,1 +1,3 @@
-Imediata votação, em segundo turno, da proposta de reforma previdenciária. Equívoco da Presidência na atribuição ao chamado Centrão do mérito pela aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53a27ae81d67aeb9b2a5f6b2370f81c282e956077a4d0d86129449c1f5e11fd6
+size 180

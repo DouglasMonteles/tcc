@@ -1,1 +1,3 @@
-Impunidade dos responsáveis pela tragédia socioambiental ocorrida há 3 anos no Município de Brumadinho, Estado de Minas Gerais. Risco de rompimento de barragens em municipalidades mineiras. Mortes, desabrigo e desalojamento de famílias no Estado em decorrência de enchentes. Contribuição do desmatamento, da devastação do meio ambiente e do modelo capitalista de desenvolvimento para o desequilíbrio da natureza e consequente ocorrência de desastres e catástrofes. Extinção, pelo novo Código de Mineração, dos mecanismos de fiscalização e controle das atividades garimpeira e mineradora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:feb5d1b2821a9ee284f29757fddc74cb2b307fe697f8062f395e503a0baa4e52
+size 607

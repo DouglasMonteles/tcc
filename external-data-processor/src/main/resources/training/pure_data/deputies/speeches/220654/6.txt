@@ -1,1 +1,3 @@
-Perplexidade ante a visita do Ministro da Justiça e Segurança Pública, Flávio Dino, sem escolta policial, ao Complexo da Maré, dominado por facções criminosas, no Rio de Janeiro, Estado do Rio de Janeiro. Apresentação, à Comissão de Segurança Pública e Combate ao Crime Organizado, de requerimento de convocação do Ministro Flávio Dino para esclarecimento de sua ligação com o crime organizado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73ab678c47f5ec4fbfbbf0dcd60089625a3dd68a1921e0c98985c7405f808cd9
+size 412

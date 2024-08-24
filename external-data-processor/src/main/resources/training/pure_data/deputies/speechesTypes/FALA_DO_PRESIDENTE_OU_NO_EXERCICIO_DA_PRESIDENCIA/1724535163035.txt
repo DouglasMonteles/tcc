@@ -1,1 +1,3 @@
-Registro da presença de convidados à sessão solene em homenagem aos profissionais de enfermagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55387daac814db09848ecf026f72d24ae0d02eb807b27781d3c2464f6dec23dd
+size 99

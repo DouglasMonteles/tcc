@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do Projeto de Lei Complementar nº 243, de 2023, que dispõe sobre as despesas voltadas a programa de incentivo à permanência de estudantes no ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81123dc8798abea6a320d480744e05f945ea91ecad0745101dbf1ab6e959aa8d
+size 202

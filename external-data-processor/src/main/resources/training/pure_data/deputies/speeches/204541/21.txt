@@ -1,1 +1,3 @@
-Caos administrativo reinante no Município de Pacajus, Estado do Ceará. Apelo ao Presidente do Supremo Tribunal Federal, Ministro Dias Toffoli, por imediata suspensão da liminar concedida na ação de recondução do Sr. Flanky José Amaral Chaves ao cargo de Prefeito Municipal de Pacajus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20a1a8ad16add3ef4e16cb7597cf4c17de884d4f9bd5a19abe1ba2c36ae6e8d6
+size 292

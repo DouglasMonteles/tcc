@@ -1,1 +1,3 @@
-Congratulação ao Presidente Jair Bolsonaro pela proibição da destruição de máquinas apreendidas em operações de fiscalização do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA no Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98e626c6b9de08fd5c8235675c4e944bc9f768a22f5dcf72ea3cb2ac2fe3c5dc
+size 246

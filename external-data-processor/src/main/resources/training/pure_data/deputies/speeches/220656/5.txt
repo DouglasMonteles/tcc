@@ -1,1 +1,3 @@
-Realização da campanha Agosto Lilás, destinada ao enfrentamento à violência contra a mulher. Artigo No Santuário da Beata Benigna, de autoria do jornalista Barros Alves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2a28975c8de43306adee82f25953347df926e78d9014056dda017ad79c1e49
+size 175

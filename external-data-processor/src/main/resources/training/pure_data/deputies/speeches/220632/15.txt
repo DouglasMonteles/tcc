@@ -1,1 +1,3 @@
-Defesa da aprovação da Medida Provisória nº 1.154, de 2023, sobre o estabelecimento da organização básica dos órgãos da Presidência da República e dos Ministérios. Solicitação à Casa de aprovação do texto original da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ae0bbf2f82c8d6ccd0b2bee2e8e06a69e974cddd86cce333ae4b9a5702e18dd
+size 243

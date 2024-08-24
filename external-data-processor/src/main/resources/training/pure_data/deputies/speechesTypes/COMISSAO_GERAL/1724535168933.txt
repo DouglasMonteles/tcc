@@ -1,1 +1,3 @@
-Expectativa quanto à gestão do Ministro da Educação, Abraham Weintraub. Congratulação à Pasta pela implantação da Política Nacional de Alfabetização - PNA. Importância da  transparência nos investimentos do setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eac1613ca73dc6c8f43d58231461b49cee65cde14f20825b37bdaaef9fe40a3
+size 239

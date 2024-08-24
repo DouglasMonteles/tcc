@@ -1,1 +1,3 @@
-Retrospectiva da incorporação das regiões de floresta dos Estados de Minas Gerais e Espírito Santo, conhecidas no início do século XIX como Sertão do Rio Doce ou Sertões do Leste, ao domínio português. Exploração dos recursos naturais em cotejo com a atual situação reinante na área. Exigência de apresentação, pelo Governo brasileiro, de formal pedido de desculpa aos índios botocudos pelo genocídio contra eles praticado. Necessidade da adoção de políticas públicas para o desenvolvimento econômico, social e cultural do Vale do Rio Doce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6a7fbb30c884fd5c72fb1f037c5392dca52827b8b39dcfb8321b1fdcd6f32db
+size 565

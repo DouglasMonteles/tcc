@@ -1,1 +1,3 @@
-Divulgação pelo Diário Oficial da União das propostas selecionadas no âmbito do Programa de Infraestrutura de Transporte e da Mobilidade Urbana, o Programa Pró-Transporte. Investimentos do Governo Federal na ampliação da mobilidade urbana em municipalidades do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:895de2032b3ba72365d93dce79ec83e83ea3c98ffd340e103243f614b3d202a3
+size 287

@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Beto Albuquerque pelo falecimento de seu filho, Pietro de Albuquerque. Saudações ao Presidente Michel Temer e aos demais membros da Mesa Diretora da Casa. Defesa de aprovação da Proposta de Emenda à Constituição n° 590, de 2006, a respeito da participação feminina nas Mesas Diretoras da Câmara dos Deputados, do Senado Federal e das Comissões. Anúncio de realização da 1ª Conferência Nacional de Comunicação Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbcb002329ee8ab1f570d9a62c6cce371ec5a72616d607d145f228329871e6ce
+size 461

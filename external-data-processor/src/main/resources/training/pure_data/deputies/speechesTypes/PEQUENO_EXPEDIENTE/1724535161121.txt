@@ -1,1 +1,3 @@
-Realização, por trabalhadores portuários, de manifesto em prol do Instituto de Seguridade Social Portus, nas dependências do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75071b2a375d37ec3bcf67031c081c064ebf960c89c502e54752327da1a76351
+size 144

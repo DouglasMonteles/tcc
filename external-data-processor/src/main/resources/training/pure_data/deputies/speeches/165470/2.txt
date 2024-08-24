@@ -1,1 +1,3 @@
-Protesto contra fala da Presidente do PT, Deputada Gleisi Hoffmann, sobre a inexistência de espaço para corte de gastos no Governo. Crítica à alocação de recursos públicos para imóveis de luxo, países socialistas aliados e financiamento de artistas militantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81b00488e106fb4fe98d4a4578d3ba0260a867be42257c40717f85ac643f058e
+size 269

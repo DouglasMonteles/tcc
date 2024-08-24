@@ -1,1 +1,3 @@
-Solicitação à Presidência de votação da Medida Provisória nº 789, de 2017, relativa à Compensação Financeira pela Exploração de Recursos Minerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8178281bc837429cb53da9684a486a35f481615e4ce47e7ead6530858d67cc04
+size 159

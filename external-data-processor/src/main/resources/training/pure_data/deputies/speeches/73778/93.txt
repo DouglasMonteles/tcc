@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei Complementar 177 de 2004(Dispõe sobre o Sistema Nacional de Crédito Cooperativo), apenso o PLP 312 de 2002. Defesa da aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbaffcc0b10fd9e5880265c76bd01a442317c173b7e6dedb4a544ade1edc0254
+size 173

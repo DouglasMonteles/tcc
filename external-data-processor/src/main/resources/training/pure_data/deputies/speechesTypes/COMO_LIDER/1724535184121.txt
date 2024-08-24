@@ -1,1 +1,3 @@
-Indignação do orador com a aprovação pela Casa, em segundo turno, da proposta governamental de reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be079f7e9405f62cfda8fe293eac1d0a4e83e69c343feafe39147ab95e9ceb37
+size 123

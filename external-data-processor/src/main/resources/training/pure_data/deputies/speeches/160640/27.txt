@@ -1,1 +1,3 @@
-Necessidade de mobilização dos Parlamentares em prol do não acatamento, pelo Supremo Tribunal Federal, da ação favorável à descriminação do aborto de fetos anencefálicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:499216d623e74b7e2883ce52e0d99e13f20fd6b7768cf53677bd54fa93a0ed01
+size 180

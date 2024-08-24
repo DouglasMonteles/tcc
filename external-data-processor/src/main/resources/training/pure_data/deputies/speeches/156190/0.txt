@@ -1,1 +1,3 @@
-Candidatura do orador para o cargo de Presidente da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3dc6c4a8573e8f86b6e57b4e13b24e65978bf3921419a05c94b756397ee9c39
+size 74

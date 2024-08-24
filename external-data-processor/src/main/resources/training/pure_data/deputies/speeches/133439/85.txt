@@ -1,1 +1,3 @@
-Apoio do PDT à extinção do 14º e do 15º salários dos Parlamentares. Congratulações à Presidência da Casa pela inclusão da matéria na pauta. Apreciação de vetos presidenciais pelo Congresso Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a20e9bed81347442974510d1e683a50a0b3b8a5c3d24209aa8cff44be48bcba3
+size 212

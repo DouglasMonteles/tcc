@@ -1,1 +1,3 @@
-Reiteração dos agradecimentos aos convidados presentes. Congratulações aos autores do requerimento da sessão solene.
+version https://git-lfs.github.com/spec/v1
+oid sha256:943fea2574651c91b19d98fbeb3dc9e9d153105f8b3e6dcbcb47132c9bcd786c
+size 121

@@ -1,1 +1,3 @@
-Regozijo com a criação do Fundo Soberano Social do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cffdd99c699accef2b777de2ef434c5fd46cb7948c1a90fe0a835a81d55e1d2
+size 60

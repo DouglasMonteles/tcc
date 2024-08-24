@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista, quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, à Medida Provisória nº 1.047, de 2021, relativa às medidas excepcionais para aquisição de bens e insumos e contratação de serviços, inclusive de engenharia, destinados ao enfrentamento da epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bad5ad65d0f20099de559bc1247e79fa1398cac9d22d1bd1cb98e7c537f07c86
+size 422

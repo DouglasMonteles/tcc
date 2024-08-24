@@ -1,1 +1,3 @@
-Realização, pela Comissão de Turismo e Desporto, do Seminário Nacional Educação Física e Esporte Escolar: da formação à competição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28336f7eaa9c91e9df8c2be4c062061022296bf91131eb11a1eb6d08e292fd21
+size 143

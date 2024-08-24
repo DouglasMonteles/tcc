@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial das Doenças Raras. Importância da Portaria nº 199, de 2014, do Ministério da Saúde, de instituição da Política Nacional de Atenção Integral às Pessoas com Doenças Raras, aprovação das Diretrizes para Atenção Integral às Pessoas com Doenças Raras no âmbito do Sistema Único de Saúde e instituição de incentivos financeiros de custeio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3eff263fab241483d111cb6f44ed9dd69dc382155e510a6fc707d49281a7d219
+size 382

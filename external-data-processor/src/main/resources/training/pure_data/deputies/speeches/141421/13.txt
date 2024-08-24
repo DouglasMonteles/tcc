@@ -1,1 +1,3 @@
-Comportamento arrogante do Diretor-Geral da Agência Nacional de Energia Elétrica - ANEEL, Jerson Kelman, em audiência pública realizada pela Comissão de Minas e Energia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1a7792f2951ddcfe4a953b69113c14aeaace5cc90f8553fdb78bb8107ef56f4
+size 174

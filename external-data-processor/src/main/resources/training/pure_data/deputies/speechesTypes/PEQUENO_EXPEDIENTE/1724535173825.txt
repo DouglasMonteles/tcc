@@ -1,1 +1,3 @@
-Transcurso do 24º aniversário de emancipação político-administrativa do Município de Icapuí, Estado do Ceará. Comemoração do 28º aniversário de criação do Partido dos Trabalhadores - PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cf4bd428f670c530a3b28d77e12d966f3daa29a537875ed070a7fe290828b01
+size 200

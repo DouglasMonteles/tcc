@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da expressão Fica o Poder Executivo autorizado a suspender por 6 meses a cobrança das parcelas de amortização das dívidas provenientes do programa FIES, no período de restrição à locomoção, emergência e/ou calamidade provocados pela pandemia da Covid-19, contida na Emenda nº 5, apresentada ao Projeto de Lei nº 1.079, de 2020, sobre a suspensão das obrigações de beneficiários do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05488445adbdd46bf0f3c79e5c64ed6ebf470aabd7f29158e25e182cba8856e0
+size 571

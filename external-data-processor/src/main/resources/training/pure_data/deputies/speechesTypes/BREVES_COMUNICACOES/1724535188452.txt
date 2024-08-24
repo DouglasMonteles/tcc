@@ -1,1 +1,3 @@
-Apelo ao Governador do Estado do Rio de Janeiro, Wilson Witizel, por adoção de medidas em benefício dos policiais civis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d611a83ec2eb22981f192d0073b951d2b178656a1b94d0b4de2c577ed2b6a9ec
+size 123

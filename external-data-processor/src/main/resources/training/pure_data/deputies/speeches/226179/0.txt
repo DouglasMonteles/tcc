@@ -1,1 +1,3 @@
-Agradecimento aos familiares e ao povo mato-grossense pela eleição da oradora. Compromisso de atuação parlamentar em defesa da população negra, das mulheres, do serviço público e dos consumidores brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2addfae38d37a1d2026be199f1965ab240f0a1643dc3cffe66ba73435fec3f3
+size 216

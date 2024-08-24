@@ -1,1 +1,3 @@
-Críticas às acusações de racismo endereçadas ao orador. Elevação, por iniciativa do orador, de percentual de vagas para afrodescendentes nos concursos para provimento de cargos na administração pública. Regozijo com a aprovação, na Comissão de Seguridade Social e Família, de parecer favorável ao Projeto nº 8.051, de 2014, de autoria do orador, sobre prioridade de tramitação aos processos de adoção com adotandos irmãos, negros ou acima de quatro anos de idade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ed517e5b283c82622f35040ba879ce24b1175c2597565d4e469caeb9bfb57d7
+size 484

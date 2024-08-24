@@ -1,1 +1,3 @@
-Questão de ordem sobre a exigência de retratação, por parte de Deputada do PT, da acusação contra o orador por prática de racismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bea19eed4e9d8197a954da3170b792cdb6f1eb714ab23089765da33fce5697c6
+size 137

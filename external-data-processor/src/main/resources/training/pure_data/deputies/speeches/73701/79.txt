@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial de Luta pela Educação sem Discriminação. Excelência do projeto Por uma Educação Não - Sexista, implantado em escolas do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb868326ce7ddd1b73c5e878aa13c1fbba01d5ea627bc2023d613b9bfc80abf3
+size 179

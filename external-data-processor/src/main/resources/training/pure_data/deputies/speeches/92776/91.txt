@@ -1,1 +1,3 @@
-Dificuldades enfrentadas pela área de aviação executiva brasileira. Conveniência de realização, pela Comissão de Viação e Transportes, de audiência pública destinada ao debate do assunto. Relevância do setor. Críticas à atuação da Agência Nacional de Aviação Civil - ANAC, especialmente pela excessiva burocracia. Transcurso do 7º aniversário de falecimento das vítimas da tragédia do voo GOL 1907.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c049b52df6d909443a50796805b71319076d1f0e7eaffa8b15ee909807fde62
+size 421

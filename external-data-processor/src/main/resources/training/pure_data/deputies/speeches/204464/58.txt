@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação nominal do requerimento de adiamento, por duas sessões, da votação da Medida Provisória nº 886, de 2019, sobre a organização básica dos órgãos da Presidência da República e dos Ministérios. Denúncia de condução autoritária dos trabalhos na Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b252ef04a1db2a0c72ba1aec389e5fd1b754f0a735082a8fe44fcffe3c3c138f
+size 377

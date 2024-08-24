@@ -1,1 +1,3 @@
-Homenagem póstuma ao jornalista Paulo Henrique Amorim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75c928feadf62f9117ac236f6d1cd0b240864c1860a79062667a735d86d5c741
+size 55

@@ -1,1 +1,3 @@
-Apoio às campanhas realizadas pelos meios de comunicação contra o uso de crack no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efb8f67c2cd251ac7f7624c43f3bb7808c518e6b8ac82ad0a0f0f92e326c6a0e
+size 113

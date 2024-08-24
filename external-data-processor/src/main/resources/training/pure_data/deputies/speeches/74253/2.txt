@@ -1,1 +1,3 @@
-Necessidade de votação de proposta relativa à chamada Lei dos Caminhoneiros. Convite aos Parlamentares fluminenses para participação em homenagem, na Cidade do Rio de Janeiro, ao movimento em apoio à reeleição do Governador Luiz Fernando Pezão e à candidatura do Senador Aécio Neves à Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b367f95493cdb08703a5d2c40285c267760706480e51738adf14fa35007b69d
+size 324

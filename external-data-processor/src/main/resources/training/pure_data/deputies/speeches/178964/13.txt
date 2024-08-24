@@ -1,1 +1,3 @@
-Defesa de manutenção da assistência técnica da EMATER/RS-ASCAR como serviço de extensão rural de natureza socioassistencial com direito a imunidades tributárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fd88068ef222e4db9ad00942e1ce6b6260b2f9464feef2cccf2a843010e1115
+size 168

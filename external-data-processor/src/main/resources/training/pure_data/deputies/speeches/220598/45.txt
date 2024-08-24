@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque supressivo do art. 150, constante no art. 1º da Emenda Aglutinativa nº 1, de 2023, apresentada à Proposta de Emenda à Constituição nº 45, de 2019, sobre a reformulação do Sistema Tributário Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f0fc921752fecde5ed3a18b4eefb1e8995e6cc0407684be3ea1e0f0c05df082
+size 265

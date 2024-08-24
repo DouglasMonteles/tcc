@@ -1,1 +1,3 @@
-Caráter revanchista do Governo Luiz Inácio Lula da Silva. Instalação das CPIs da Manipulação de Resultado em Partidas de Futebol; das Lojas Americanas; e do MST. Posicionamento contrário à aprovação do Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022, (novo arcabouço fiscal). Resultado positivo da pressão popular contra o Projeto de Lei nº 2.630, de 2020, sobre a instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d47c2593af60bab147f8eafe563d9727cdd5aee2f756b05fd29c121b1b44d01
+size 754

@@ -1,1 +1,3 @@
-O Deputado proferiu parecer ao Projeto de Lei nº 1.565, de 2019, que altera a Lei nº 9.537, de 1997, que dispõe sobre a segurança do tráfego aquaviário em águas sob jurisdição nacional e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3251bea86b8e7f1036ff273ae7e00ae3d4e83f8926833c40331bfe34d1f257c
+size 221

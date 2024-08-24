@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 99, apresentada ao Projeto de Lei nº 1.292, de 1995, sobre a alteração da Lei nº 8.666, de 1993, acerca da instituição de normas de licitações e contratos da administração pública. Encaminhamento de Representação à Procuradoria- Geral da República contra o Presidente Jair Bolsonaro e o Ministro do Meio Ambiente, Ricardo Salles, por prática de crimes ambientais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9152db7312547f688ecc5259b0bfb375ac67a0aa973f40fd6cc2bcf537ea4aa8
+size 485

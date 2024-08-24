@@ -1,1 +1,3 @@
-Manifestação de pesar pelo falecimento do engenheiro civil Manuel Segura Martinez, diretor-executivo da Construtora Segura, Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9138deb9c3d6d78a4704857ccd839d4d2e5e6d25acf01b9a69dab963bbbb961f
+size 152

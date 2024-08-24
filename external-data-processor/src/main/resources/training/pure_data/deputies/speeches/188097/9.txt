@@ -1,1 +1,3 @@
-Regozijo com a promulgação da Emenda Constitucional nº 108, de 2020, sobre a transformação do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em instrumento permanente de financiamento da educação básica pública. Importância dos investimentos governamentais no setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b23b36cc932fd844a0a9ed35d888ae7ff0a2e9d00ce10a4fb416ef0bf34cc7e3
+size 364

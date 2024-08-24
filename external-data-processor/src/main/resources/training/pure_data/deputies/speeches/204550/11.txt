@@ -1,1 +1,3 @@
-O Deputado parabenizou a cidade cearense de Reriutaba pelos seus 100 anos de emancipação política. Elogiou o prefeito, a primeira-dama, o vice-prefeito e a equipe da cultura por promoverem grande show com Wesley Safadão e Taty Girl no Município.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a65874249b4e0be8c21ecbe98864e86601e4fca8915d562193bd7d5e39c7dbfd
+size 250

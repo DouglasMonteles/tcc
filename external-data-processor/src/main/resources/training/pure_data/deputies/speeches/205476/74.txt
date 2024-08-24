@@ -1,1 +1,3 @@
-Agradecimento ao Governador do Estado da Bahia, Rui Costa, pela autorização das obras de pavimentação da BA-263 entre os Municípios de Licínio de Almeida e Urandi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6852eac3233c152102bff7ed832db9a321b0fbc0d13708998883619789410e1e
+size 169

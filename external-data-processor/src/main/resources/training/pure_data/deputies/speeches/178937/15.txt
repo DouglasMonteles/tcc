@@ -1,1 +1,3 @@
-Solicitação à TV Globo de concessão de direito de resposta a mulher vítima de eventual ofensa pelo ator José de Abreu em restaurante na cidade de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eecdf3f5903ba66dfe47f8b03f4d36b79174a531d394f55adf0a8399f486afdf
+size 163

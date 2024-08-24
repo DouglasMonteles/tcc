@@ -1,1 +1,3 @@
-Realização do primeiro leilão de energia eólica pelo Governo Federal. Solicitação, à Empresa de Pesquisa Energética - EPE, de esclarecimento sobre as razões de exclusão do Estado do Piauí do leilão de energia eólica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80bbcf2920ae4936dd73c11e028739520220e9fa6e16b729ed0ba79a04ecdf56
+size 229

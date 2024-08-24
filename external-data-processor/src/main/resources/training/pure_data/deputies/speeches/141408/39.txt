@@ -1,1 +1,3 @@
-Urgente inclusão na pauta das propostas sobre a extinção do fator previdenciário e sobre a extensão do índice de reajuste do salário mínimo às aposentadorias e pensões mantidas pelo INSS. Apoio à proposta de indexação de proventos ao salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef5ce70481236d95c5c71d2112b173b4add7f4a9711e5affc5865370d4df123b
+size 264

@@ -1,1 +1,3 @@
-Preocupação com as alterações propostas pelo Relator na Medida Provisória nº 653, de 2014, que dispõe sobre o exercício e a fiscalização das atividades farmacêuticas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adeecaef5ab706adb1fa230e26b86ddef74c1bd0cfcd7a43b073c7c81d2c5eee
+size 177

@@ -1,1 +1,3 @@
-Repúdio a matéria veiculada por revista de circulação semanal contra a Universidade de Brasília - UnB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:519f689a9c10241ca03646306e9555b1e1f078b0349391d86ed3bf61d84a68e8
+size 107

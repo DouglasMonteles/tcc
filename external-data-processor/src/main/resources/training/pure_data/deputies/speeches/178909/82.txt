@@ -1,1 +1,3 @@
-Regozijo pelo compromisso do Governo do Estado do Pará com a área da educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa5a40eac4bf7146beb5bbf2317bbf2833122200d343e249ddcdd055303a39e9
+size 82

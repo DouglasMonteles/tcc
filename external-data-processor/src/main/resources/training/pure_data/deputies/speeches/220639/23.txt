@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei do Congresso Nacional nº 5, de 2023, sobre a abertura ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, de crédito especial no valor de R$ 7.300.000.000,00, para assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios, com vista ao pagamento do piso salarial nacional dos profissionais da enfermagem e da parteira; bem como do Projeto de Lei do Congresso Nacional nº 2, de 2023, acerca da concessão de reajuste salarial aos servidores públicos federais. Defesa da alocação de recursos para as áreas de ciência e tecnologia. Expectativa quanto aos resultados da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb902ed4434e1056c3e4b824b3b9bf533deda8d496882e9653d5f10556e9b7ea
+size 785

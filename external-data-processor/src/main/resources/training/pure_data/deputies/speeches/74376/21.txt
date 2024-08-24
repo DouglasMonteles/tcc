@@ -1,1 +1,3 @@
-Relatório da organização não governamental Anistia Internacional sobre a exploração de trabalho escravo no setor sucroalcooleiro do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d058c055d4b2d482fc2e7180ff03d53524fb319f8711f7b0e66412c3a26274ad
+size 144

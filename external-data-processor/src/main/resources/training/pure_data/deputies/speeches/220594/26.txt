@@ -1,1 +1,3 @@
-O Deputado abordou a recente onda de ataques criminosos no Estado do Rio de Janeiro e destacou que essa questão é um desafio nacional. Expressou preocupação com a impunidade e a falta de medidas eficazes para enfrentar organizações criminosas em todo o País. Também repudiou a ausência do Ministro da Justiça e Segurança Pública, Flávio Dino, em uma convocação da Comissão de Segurança Pública e destacou a necessidade de indiciá-lo por crime de responsabilidade, conforme previsto na Constituição Federal. Por fim, saudou a visita de uma amiga de Várzea Grande à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b699c563be42a1e73864fd35b911e2c28ae07eda8e861d90b8b632bdc2a0ad4f
+size 609

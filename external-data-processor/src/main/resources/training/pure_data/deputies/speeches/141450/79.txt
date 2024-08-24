@@ -1,1 +1,3 @@
-Veiculação, pelo Programa Fantástico, da TV Globo, e pelo jornal O Dia, de matérias sobre os desdobramentos da chamada Lei Seca, coibitiva da ingestão de bebidas alcoólicas por condutores de veículos automotores. Apresentação do Projeto de Lei nº 5.607, de 2009, acerca da instituição de penalidades aos condutores de veículos com sinais evidentes de embriaguez. Resultados de estudo das Profas. Maria Helena de Mello e M. Sumie Koizumi, da Universidade de São Paulo - USP, sobre a redução de acidentes de trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff05e7e116b2bf5f92ca15d90e9ab2b0ec32f487b30d2b4530578299d1e0baed
+size 532

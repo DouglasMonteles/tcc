@@ -1,1 +1,3 @@
-Urgente necessidade de aprovação pela Casa do Projeto de Lei nº 3.773, de 2008, sobre a inclusão no Estatuto da Criança e do Adolescente de dispositivos destinados ao combate à pedofilia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10e35025e55c24da51041e513e9f788a5db0e9fff49dd23dc04018ad38319356
+size 193

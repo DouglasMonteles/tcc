@@ -1,1 +1,3 @@
-Homenagem póstuma ao professor e médico Camilo Martins Vianna, do Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3eebc05beabc7ace35d11d07527c8c734240f1d2ce254ca44f4853cd52fca91
+size 84

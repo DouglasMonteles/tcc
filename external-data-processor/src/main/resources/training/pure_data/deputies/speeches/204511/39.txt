@@ -1,1 +1,3 @@
-Solidariedade ao Estado de Israel diante de ataques bélicos da  Palestina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b105d612205791415dfccb42e8126fc9384a392704b0c7401a29e585ea4f0145
+size 75

@@ -1,1 +1,3 @@
-Vinculação entre agressões ao meio ambiente e tragédias naturais ocorridas no País e no mundo. Aplausos ao Governo Federal pela liberação de recursos do FGTS aos trabalhadores atingidos pelas enchentes no Estado de Santa Catarina. Defesa da liberação de recursos do Programa de Integração Social — PIS e de concessão de benefícios previdenciários aos trabalhadores vítimas de tragédias naturais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2495c6b8e3a8f69eae52730d3b4e84fde892a3dff5d1f917a0d1f674ed7aaadc
+size 413

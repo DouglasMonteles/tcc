@@ -1,1 +1,3 @@
-Contestação do discurso do Deputado Helder Salomão sobre o êxito do governo do PT. Contrariedade ao envio de recursos federais para países estrangeiros. Críticas à destinação de verbas milionárias para a Lei Rouanet. Passagem de autoridades do Governo Luiz Inácio Lula da Silva pela prisão. Alerta ao povo do Município de Cariacica, Estado do Espírito Santo, para a natureza falaciosa dos discursos petistas. Confiança no retorno do ex-Presidente Jair Bolsonaro ao poder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56b32de4956677a8d15e913d508a0d021008cfce381f31e21cb67411473a9fd5
+size 486

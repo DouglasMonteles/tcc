@@ -1,1 +1,3 @@
-Realização da exposição Digital Day, sobre as aplicações do padrão de tecnologia de quinta geração para redes móveis e de banda larga 5G no Salão Negro do Congresso Nacional. Apresentação de projeto de resolução, para criação, no âmbito da Câmara dos Deputados, de estrutura de discussão da normatização das novas tecnologias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a208b8c2cd15ad4a7555fc2a546a881cb680e74ba16fe3d9dfda24fee5d4aa4
+size 348

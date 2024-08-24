@@ -1,1 +1,3 @@
-O Deputado levantou questão de ordem com base no artigo nº 67 do Regimento Interno da Câmara dos Deputados e no artigo 4º da Resolução nº 14 da Câmara, argumentou que a sessão extraordinária deve ser aberta apenas com a divulgação prévia da pauta, com um prazo de 24 horas de antecedência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e438cf1e0744fd875a209b2e587d548f2e4d14396babaf65148834e7909cfb55
+size 303

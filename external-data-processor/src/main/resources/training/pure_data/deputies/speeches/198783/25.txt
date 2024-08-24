@@ -1,1 +1,3 @@
-Apoio à proposta de fixação da alíquota do ICMS incidente sobre combustíveis nos Estados brasileiros, anunciada pelo Presidente Jair Bolsonaro.  Protesto contra os elevados preços de combustíveis praticados no Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93fb59f83f03df78a8ff4d4bda27da756cece4b938c0149b5a7af45a8526383c
+size 239

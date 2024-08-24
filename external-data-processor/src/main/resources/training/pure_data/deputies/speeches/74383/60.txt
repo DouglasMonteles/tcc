@@ -1,1 +1,3 @@
-Compromisso regimental e posse do Deputado DAVI ALVES SILVA JÚNIOR (PR, MA).
+version https://git-lfs.github.com/spec/v1
+oid sha256:073628775f90224ca6dc486afa8090ae15b85a76abfbe79fb6ac895d7a5e8eb1
+size 77

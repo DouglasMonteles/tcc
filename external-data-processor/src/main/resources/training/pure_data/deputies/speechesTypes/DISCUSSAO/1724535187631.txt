@@ -1,1 +1,3 @@
-Discussão da Medida Provisória nº 758, de 2016, sobre a alteração dos limites do Parque Nacional de Jamanxim e da Área de Proteção Ambiental do Tapajós.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42c41d8675f33af2c2e1d36da6aacd2f2d26a062fc3c256bf3f2c2f28f63fd90
+size 161

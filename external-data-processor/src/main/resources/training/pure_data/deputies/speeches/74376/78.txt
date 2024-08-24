@@ -1,1 +1,3 @@
-Avanço da indústria sucroalcooleira. Defesa de aprovação do Projeto de Lei nº 6.077, de 2009, sobre as diretrizes para o zoneamento agroecológico e o cultivo sustentável da cana-de-açúcar destinada à produção de açúcar, etanol e biocombustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d04812695455881323c8b59ea1839d9e16ebe257611f4952187f00c0dd05423
+size 260

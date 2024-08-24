@@ -1,1 +1,3 @@
-O Deputado condenou a declaração do Vereador Eúde Lucas, de Jucás (CE), que afirmou que autismo se cura na peia e na chibata. Classificando a fala como ignorante e preconceituosa, o Parlamentar e o Deputado Leo Prates, ao descobrirem que Eúde Lucas é do PDT, anunciaram a intenção de pedir sua expulsão do partido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3cc610972ea1d4c9b6c8ff342c646f0a35995bf7e6f6ff8259138a465f80b26
+size 323

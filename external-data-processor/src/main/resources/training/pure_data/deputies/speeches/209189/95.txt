@@ -1,1 +1,3 @@
-Natureza criminosa da aprovação, pelo Senado Federal, do Projeto de Lei nº 4.162, de 2019, a respeito da atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b19d1ecdfa16dc299bae55ad439983dcec4cd626a89bb505488142bdd5a4121f
+size 159

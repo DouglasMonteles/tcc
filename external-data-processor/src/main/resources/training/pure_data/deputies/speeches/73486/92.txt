@@ -1,1 +1,3 @@
-Urgente votação ao Projeto de Lei nº 1, de 2007, a respeito da política de valorização do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91e8ae2dce8684d8423261696da9b8f5c0fde6cb80a17f6018afc4acfc82c538
+size 113

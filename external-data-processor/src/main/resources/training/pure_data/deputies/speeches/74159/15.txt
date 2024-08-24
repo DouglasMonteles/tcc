@@ -1,1 +1,3 @@
-Comemoração do centésimo quadragésimo quarto aniversário da Batalha Naval do Riachuelo - data magna da Marinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21c2529ffb9a0425dfa71aeaec8b240bd7f5a0b6e026e998c7d2e8c01c9c5432
+size 116

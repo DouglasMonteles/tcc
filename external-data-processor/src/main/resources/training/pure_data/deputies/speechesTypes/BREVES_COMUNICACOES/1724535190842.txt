@@ -1,1 +1,3 @@
-Solidariedade ao ex-Diretor-Geral da Polícia Rodoviária Federal, Silvinei Vasques, e outros membros da corporação diante da operação de busca e apreensão realizada em suas residências, determinada pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes. Repúdio à interferência do membro da Suprema Corte no processo eleitoral de 2022. Assassinato do candidato à Presidência do Equador, Fernando Villavicencio. Financiamento, pelo narcotráfico e pelo crime organizado, de crimes contra políticos da Direita na América. Latina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2a67f77719bb9e11dbfc160f4c8af76936fd6c91a9d4ac4689904dc1cd49a58
+size 549

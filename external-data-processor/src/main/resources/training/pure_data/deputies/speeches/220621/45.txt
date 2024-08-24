@@ -1,1 +1,3 @@
-O Deputado expressou críticas à esquerda em seu discurso e fez uma denúncia relacionada às condições das estradas no Estado do Rio Grande do Norte. Ele citou um estudo da CNT que indicou que 64% das estradas do Estado possuem problemas, principalmente buracos. Ele destacou a falta de manutenção e fez um apelo à Governadora Fátima Bezerra para dar atenção especial à infraestrutura rodoviária. O Deputado enfatizou a importância de resolver essa situação, uma vez que ela afeta a segurança e o transporte de mercadorias em todo o Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3166885870f18b0a99b1809b2c643e093d128535c4ded8841f358b0a9f83cf5a
+size 556

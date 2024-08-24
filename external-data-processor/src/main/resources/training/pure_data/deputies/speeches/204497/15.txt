@@ -1,1 +1,3 @@
-Realização do Show Agro Coopernorte no Município de Paragominas, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22187eaef3b7a0012743d7257a7bf1516df34b196de57b8ff17af99b7180f8e2
+size 84

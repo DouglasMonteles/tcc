@@ -1,1 +1,3 @@
-Votos de plena recuperação da saúde ao Presidente Jair Bolsonaro. Manifestação de profícua gestão ao Governador do Estado do Paraná, Ratinho Junior. Legado de miséria, desemprego e corrupção deixado pela Esquerda no País. Defesa de realização das reformas previdenciária e tributária. Votos de sucesso ao Parlamento brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f199d644c51dbc49b5ff8de848b76903a3b372579942aad59bb269514cc6669
+size 343

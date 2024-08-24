@@ -1,1 +1,3 @@
-Avanços socioeconômicos do Brasil durante os governos petistas. Críticas ao Presidente Jair Bolsonaro. Defesa de soltura do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a522ac2c2e39269aa25714cf9305f781b5594857b8e3da79be9d5f2df664288
+size 168

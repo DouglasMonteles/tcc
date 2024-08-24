@@ -1,1 +1,3 @@
-Inexistência de garantia de lisura no processo eleitoral brasileiro em face do uso de urnas eletrônicas ultrapassadas. Necessidade de investigação sobre a possibilidade de fraude no segundo turno das eleições presidenciais de 2022, de acordo com petição protocolada pelo PL junto ao Tribunal Superior Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fca5f04043cae5afc41de31c968186920695e9ad263136790195867af9d7bfe
+size 319

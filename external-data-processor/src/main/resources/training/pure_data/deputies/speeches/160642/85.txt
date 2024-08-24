@@ -1,1 +1,3 @@
-Posicionamento favorável do PSB ao Requerimento de retirada de tramitação do Projeto de Decreto Legislativo nº 234, de 2011 (Susta a aplicação do parágrafo único do art. 3º e o art. 4º, da Resolução do Conselho Federal de Psicologia nº 1/99 de 23 de Março de 1999, que estabelece normas de atuação para os psicólogos em relação à questão da orientação sexual).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a42c590fb8a5647342b9994c2662d8b258db93316f6f9ba13c95e3fababccf09
+size 383

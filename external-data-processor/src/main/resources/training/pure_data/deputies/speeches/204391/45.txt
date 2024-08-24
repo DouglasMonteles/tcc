@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do art. 64-A do projeto de lei de conversão à Medida Provisória nº 870, de 2019, sobre o estabelecimento da organização básica dos órgãos da Presidência da República e dos Ministérios. Posicionamento sobre a atuação do Auditor da Receita Federal do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89f3bc491032570ce763b4bb82bfae442156f5dca442b51edcada8236972bc8c
+size 362

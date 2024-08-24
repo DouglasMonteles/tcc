@@ -1,1 +1,3 @@
-Destinação pelo orador de recursos de emenda orçamentária para a Santa Casa de Misericórdia e Maternidade de Rondonópolis, Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb43d02f43d8b98eda355ab12b18dd74e89ac202c64cdbf271f646c0b1adf65
+size 151

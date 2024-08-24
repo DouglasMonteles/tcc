@@ -1,1 +1,3 @@
-Apoio ao parecer do Senador Renan Calheiros à Medida Provisória nº 579, de 2012, sobre as concessões de geração, transmissão e distribuição de energia elétrica e a redução dos encargos setoriais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5683f61bde2ceecbbd58cc8707e80c08ed53f6bcaa1999b1f208bfc163efad3d
+size 207

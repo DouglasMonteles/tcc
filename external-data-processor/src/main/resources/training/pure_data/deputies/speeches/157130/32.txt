@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Decreto Legislativo nº 94, de 2022, para sustação dos efeitos da Resolução Homologatória nº 3.026, de 2022, com relação à Enel Distribuição Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab79e9320be6ab9a8e7b2dc05b26355e5c43c636128b2976f6fc4e8d78fd91bf
+size 265

@@ -1,1 +1,3 @@
-Evolução tecnológica dos veículos de comunicação social. Desafio de regulação do mercado pela Agência Nacional de Telecomunicações - ANATEL. Responsabilidade do Congresso Nacional no regramento do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a1f8a70297d58913cab08b0476f3864cc8341ed75b15d6e8d55bfd7a6882f64
+size 214

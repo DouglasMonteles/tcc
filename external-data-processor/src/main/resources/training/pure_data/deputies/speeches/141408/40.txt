@@ -1,1 +1,3 @@
-Presença de representantes da Associação dos Garimpeiros de Serra Pelada na sessão solene realizada pela Casa por ocasião do transcurso do Dia do Trabalho. Anúncio da apresentação de projeto de lei sobre extensão da aposentadoria especial aos garimpeiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e90fc0dba15037055f64a84e842bf1386051dfc1c4fae9f7970ca21d21cb512
+size 264

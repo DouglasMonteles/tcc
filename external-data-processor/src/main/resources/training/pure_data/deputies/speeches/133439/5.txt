@@ -1,1 +1,3 @@
-Repúdio aos ataques da grande imprensa  e de setores organizados contra o PDT. Excelência da atuação do Ministro do Trabalho e Emprego Carlos Lupi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c26577f74cea787c4b0826a9a20e2391123e645ffd171c334afac777c24b53
+size 151

@@ -1,1 +1,3 @@
-Posicionamento do PSL contrário à exigência de cumprimento, pelos militares, de quarentena para candidatura a cargo eletivo. Esclarecimento sobre a demissão do então Ministro da Justiça e Segurança Pública, Sérgio Moro. Perplexidade ante a reação da Esquerda contra a Carta à Nação, assinada pelo Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aff4784a91b58f6d5782ed32e1329057827e165dadf540071325029db3b232e2
+size 337

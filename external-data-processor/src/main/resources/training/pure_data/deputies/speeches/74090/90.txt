@@ -1,1 +1,3 @@
-Disposição do Ministro do Meio Ambiente, Carlos Minc, de suspensão de ações da Polícia Federal e do IBAMA contra pecuaristas no Município de Boca do Acre, Estado do Amazonas,. Estabelecimento, pelo Supremo Tribunal Federal, de prazo para aprovação de projeto de lei sobre regulamentação da criação, fusão e incorporação de Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf0ed41c0fe44a39b0d8dbaed1c46385b63d9f5a589ebdb17a25e5cec992f397
+size 351

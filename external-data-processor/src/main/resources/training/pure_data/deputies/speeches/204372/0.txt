@@ -1,1 +1,3 @@
-Alcance de expressiva votação pelo orador nas eleições para a Câmara dos Deputados. Apresentação de requerimento de criação da Frente Parlamentar do Esporte. Posicionamento do orador e da bancada do PRB de Brasília, contrário à proposta governamental de pagamento de parte do passe estudantil pelos alunos de escolas particulares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b994586516f661e7cf9d5decc790506b58562a95b446c98fd4ac14ca95d1d235
+size 342

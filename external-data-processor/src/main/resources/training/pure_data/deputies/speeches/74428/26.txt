@@ -1,1 +1,3 @@
-Defesa da concessão de tempo à Oposição para avaliação do teor de emenda de redação apresentada pelo Relator ao Projeto de Lei de Conversão da Medida Provisória 527 de 2011.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0796bb3b3afffc66733a7fdd9afcd9b3d09e3c8e0688540858cfdf833a95ec18
+size 183

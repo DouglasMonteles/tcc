@@ -1,1 +1,3 @@
-Congratulação ao Deputado André Figueiredo pela aprovação do projeto de lei sobre a  destinação de recursos dos royalties de petróleo da camada pré-sal ao setor educacional e de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99b11fa9d88f8d38de4d3be8447b302e642de88144088c3f5579fe91528bef15
+size 194

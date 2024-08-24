@@ -1,1 +1,3 @@
-Reunião com o Ministro da Integração Nacional, Helder Barbalho, sobre medidas para fortalecimento do Departamento Nacional de Obras Contras as Secas - DNOCS em face de ocorrência de crise hídrica no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed0bfef491bf841c9703c4c54188929854fe77f0660cc6802a90f1efffa8c9aa
+size 221

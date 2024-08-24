@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de adiamento, por uma sessão, da  votação da Medida Provisória nº 1.031, de 2021, relativa à privatização da empresa Centrais Elétricas Brasileiras S/A - ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3935536a9db4a0621ffe25d169633399ed271e6105c957d31e9f762388393755
+size 227

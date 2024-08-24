@@ -1,1 +1,3 @@
-Congratulações ao Presidente pela condução dos trabalhos da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04f52eade45bd540a02b2a372634f5a4ee8d2e965a525d2d7352622c206721e7
+size 69

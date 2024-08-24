@@ -1,1 +1,3 @@
-Início das obras do Hospital Geral de Cariacica, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9cb222e75ed2491cec1cc692704fd31990817818c855617d25d7289da937271
+size 76

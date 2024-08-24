@@ -1,1 +1,3 @@
-Instalação da TV Educativa - TVE, no Município de Guanambi, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7213be3fe58b7ce9d3b20c7bc334c66939a4a91dad14a6e12fab60d5a6dac329
+size 79

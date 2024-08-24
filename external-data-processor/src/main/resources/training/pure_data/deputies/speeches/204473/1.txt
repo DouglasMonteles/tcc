@@ -1,1 +1,3 @@
-Recuperação de barragens no Estado do Rio Grande do Norte. Esclarecimento sobre a reforma previdenciária. Defesa de aprovação, pelo Congresso Nacional, de legislação de apoio aos policiais brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eb54e5f209be4fbca937df23e677861a290d089b547102f5e17c1f44ee98aff
+size 208

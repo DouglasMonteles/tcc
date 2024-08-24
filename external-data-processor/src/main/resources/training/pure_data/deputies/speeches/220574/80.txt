@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei nº 1.987, de 2023, sobre a criação de funções comissionadas no Quadro de Pessoal do Tribunal de Justiça do Distrito Federal e Territórios. Declaração de voto do orador contrário à aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62a83f0e771d7ffc2283a4bf8ba71212309fd0fade44dc6e25af5689717f9150
+size 273

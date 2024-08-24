@@ -1,1 +1,3 @@
-Apelo à Presidência de inclusão na pauta da Proposta de Emenda à Constituição nº 544, de 2002, sobre a criação dos Tribunais Regionais Federais da 6ª, 7ª, 8ª e 9ª Regiões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16920c43e0bfc23d92b1ebd0fd61553e6f5548be375ccd19dcdb9dd010ae1cac
+size 185

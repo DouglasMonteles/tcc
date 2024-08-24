@@ -1,1 +1,3 @@
-Questão de ordem sobre o encerramento dos trabalhos nas Comissões em face do início da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bff343fb3bc4e19bd9b0ab8d7dbf9f8a9035e42d9dff85f3178b553008885c1
+size 103

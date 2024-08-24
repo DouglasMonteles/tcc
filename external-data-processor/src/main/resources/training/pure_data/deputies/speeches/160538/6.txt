@@ -1,1 +1,3 @@
-Importância de prorrogação do Decreto nº 7.029, de 2009, a respeito do prazo fixado para a averbação de reserva legal, com vistas à realização de amplo debate sobre as emendas oferecidas ao substitutivo apresentado pelo Deputado Aldo Rebelo à proposta de reformulação do Código Florestal Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48ca9fad9a4a6c61cf7af6f514dc71626ea156cf3cd229adb01f67bb674a3f7b
+size 312

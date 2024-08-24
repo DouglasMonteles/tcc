@@ -1,1 +1,3 @@
-Conveniência de adoção de ações diplomáticas em prol da comunidade nipo-brasileira no Japão, em dificuldades por causa da crise econômica e financeira mundial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de2dc27115cb4b5a2b78028f8a95cf56021ddd490341c00437c6e47fb8ad9498
+size 167

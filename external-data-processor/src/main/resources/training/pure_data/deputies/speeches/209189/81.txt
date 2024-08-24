@@ -1,1 +1,3 @@
-Defesa de rejeição do Projeto de Lei nº 3.261, de 2019, sobre a atualização do marco legal do saneamento básico, com vista à sua supressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:713595662f286b5772ccee95c4ca4aa03d357bbed6295a9e942d4f7c7379f70b
+size 147

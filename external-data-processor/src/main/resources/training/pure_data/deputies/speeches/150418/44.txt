@@ -1,1 +1,3 @@
-Acerto da decisão do Supremo Tribunal Federal pela constitucionalidade da reserva de cotas raciais para acesso a universidades públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1af69d1faa54f6fd1f262af54b24ac13adbb876875008ef8c5a76a12d2f93fae
+size 138

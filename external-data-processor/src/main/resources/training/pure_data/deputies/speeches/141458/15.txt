@@ -1,1 +1,3 @@
-Solicitação à Presidência de concessão de prazo para emissão de parecer às Emendas do Senado ao Projeto de Lei de Conversão 16 de 2009 (Medida Provisória 466 de 2009), que dispõe sobre os serviços de energia elétrica nos Sistemas Isolados e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6de44f90e1b40af2c47a44bff0d6c2c0ad76c8f58f55870ca39f8398a0067a26
+size 278

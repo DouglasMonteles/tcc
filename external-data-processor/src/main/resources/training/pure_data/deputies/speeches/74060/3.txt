@@ -1,1 +1,3 @@
-Posse da Desembargadora Sílvia Zarif na Presidência do Tribunal de Justiça do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:185e93ba66a604c6390c9ae7f3c4a2869211f4c2b43f475e0711d2dad7d66815
+size 97

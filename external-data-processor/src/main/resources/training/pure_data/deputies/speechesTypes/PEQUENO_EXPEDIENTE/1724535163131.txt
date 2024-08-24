@@ -1,1 +1,3 @@
-Presença de crianças nas galerias do plenário. Prioridade do Governo Jair Bolsonaro na educação básica. Contribuição do Presidente do Tribunal de Justiça do Estado de Rondônia, Desembargador Walter Waltenberg, e do Promotor Samuel Gonçalves com o grupo de trabalho da Casa destinado ao exame das medidas de combate à criminalidade, apresentadas pelo Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f90652425438855a5de2a61ed8d3b5e66a3a78f6ffabbfab9a9ce87f6f62aa2
+size 419

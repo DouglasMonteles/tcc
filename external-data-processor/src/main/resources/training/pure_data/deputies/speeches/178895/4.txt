@@ -1,1 +1,3 @@
-Imperiosa necessidade de alteração do Estatuto do Desarmamento, antes os elevados índices de criminalidade no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:558dbcf14d6eedd3563788c841763d14fa82e1d606f76ede815909156d8157c4
+size 119

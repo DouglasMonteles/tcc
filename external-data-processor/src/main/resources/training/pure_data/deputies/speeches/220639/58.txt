@@ -1,1 +1,3 @@
-Expectativa de redução da taxa básica de juros, a Taxa SELIC, pelo Comitê de Política Monetária - COPOM do Banco Central do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c188469a45034e19e7d98237616549939018714ff0ca020a24fca083465cd635
+size 137

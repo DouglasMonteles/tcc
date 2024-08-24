@@ -1,1 +1,3 @@
-Alerta à comunidade cristã sobre as consequências da eventual aprovação do Projeto de Lei nº 2.630, de 2020, acerca da instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b606761eecd35b449cf2591bdc069e6c867e54756805fe7c1f92d6eda675596c
+size 248

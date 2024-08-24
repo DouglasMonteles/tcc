@@ -1,1 +1,3 @@
-Apresentação de projeto de lei acerca do estabelecimento de critérios para o cálculo dos dias de férias do trabalhador doméstico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0647bdeb00853ee349e402c1dafa04cde922a7a4ab01c4a3c996fc0c19cbfaaa
+size 135

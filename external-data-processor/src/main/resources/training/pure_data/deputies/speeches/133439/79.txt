@@ -1,1 +1,3 @@
-Agradecimento aos partidos e Deputados pelo posicionamento a favor da aprovação da Emenda 72, destacada, ao Projeto de Lei de Conversão 30 de 2012 da Medida Provisória 579 de 2012 (Dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica, sobre a redução dos encargos setoriais, sobre a modicidade tarifária, e dá outras providências), que prevê a submissão das empresas cujas concessões forem renovadas a padrões de saúde e segurança no trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cefcdee9dfa43106ce747ddf27acac19ca20153c1bbb0e689be3554fc72251e
+size 499

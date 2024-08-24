@@ -1,1 +1,3 @@
-Ajuste do § 1º, art. 10, do Projeto de Lei de Conversão nº 18, de 2021, da Medida Provisória nº 1.042, de 2021, sobre a simplificação da gestão de cargos em comissão e de funções de confiança no âmbito do Poder Executivo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a367c6e62b1f189391236696d1d8451ea3957055510c713237d46f55b5ccc29d
+size 243

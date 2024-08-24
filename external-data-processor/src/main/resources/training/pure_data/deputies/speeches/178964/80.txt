@@ -1,1 +1,3 @@
-Apoio à aprovação do projeto de lei sobre  alteração do índice de reajuste do Fundo de Garantia do Tempo de Serviço - FGTS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:068aa57d5b3a4508e3cc4dd92b5b8ba2ebae26231f74098783463adb92bd2038
+size 130

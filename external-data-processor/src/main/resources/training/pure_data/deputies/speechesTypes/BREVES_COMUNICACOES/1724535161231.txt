@@ -1,1 +1,3 @@
-Defesa de rejeição da Proposta de Emenda à Constituição nº 316, de 2017, sobre atribuição à Justiça do Trabalho da competência para julgamento de ações previdenciárias decorrentes de relações trabalhistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6886da5e0702a97ed56cf4e5c2f4e49d06c0c53158cc99a9bbdf6eb12da176b1
+size 221

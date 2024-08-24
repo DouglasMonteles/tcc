@@ -1,1 +1,3 @@
-Protesto contra a decisão do Senado Federal a respeito do rito de tramitação de medidas provisórias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b5a86cff308790c9d7c26696b463e28bda9b1055b9b5519f3a4e8b5e40619dc
+size 104

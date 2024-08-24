@@ -1,1 +1,3 @@
-Transcurso do 46º e do 47º aniversários de emancipação político-administrativa, respectivamente, dos Municípios de Sebastião Laranjeiras e Boquira, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:137b83d60b18c045f5e31566be229bb07041f26b7a37901789acb6bd355fd3d0
+size 172

@@ -1,1 +1,3 @@
-Sessão Solene em homenagem ao Dia Nacional da Defensoria PúblicaAs notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:308fd346f049a5af8f9fc63b9f01ada1a0759d28d91bf65c5cd618efc4be885c
+size 215

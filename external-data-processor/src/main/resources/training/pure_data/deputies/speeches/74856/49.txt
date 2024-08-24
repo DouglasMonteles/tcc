@@ -1,1 +1,3 @@
-Realização da 60º Sessão Anual da Comissão das Nações Unidas sobre a Situação das Mulheres, em Nova Iorque, Estados Unidos da América, sob a presidência do Embaixador Antonio Patriota.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebdbfd21236e455b9e2dc3fbd1ac742339c89c18b9ac4cef39d3036b75f02f0c
+size 195

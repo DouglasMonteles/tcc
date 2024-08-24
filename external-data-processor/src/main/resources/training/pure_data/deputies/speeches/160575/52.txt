@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Direitos Humanos e Minorias, de requerimentos de realização de audiência pública e de diligências no Estado de Goiás para acompanhamento das investigações de ações de grupos de extermínio. Exigência pela bancada feminina de inclusão, no parecer da Comissão Especial destinada à elaboração de proposta de reforma política, de dispositivo para garantia da alternância de gênero na representação política nas esferas do Parlamento brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d69192c7f91bb60e5273eb3b178a67f82410aae91f726109640df97c05f25f7a
+size 493

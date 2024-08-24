@@ -1,1 +1,3 @@
-A Deputada celebrou a recente decisão unânime do STF que reafirmou a constitucionalidade da lei que garante o pagamento do piso nacional do magistério, estabelecendo um valor mínimo de R$ 4.420,55 para professores. Enfatizou que é essencial para a democracia e o desenvolvimento do País investir adequadamente nos profissionais da educação. Destacou que prefeitos e governadores que não cumpriram essa lei em 2022 e 2023 serão obrigados a fazê-lo. Ressaltou a importância de se lutar pelo pagamento integral do piso e anunciou a realização de audiências públicas em diversos estados para defender essa causa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccfffb93d11299d1f97c9540194c40df0a8c913483004faccdd1bbe78230c38e
+size 624

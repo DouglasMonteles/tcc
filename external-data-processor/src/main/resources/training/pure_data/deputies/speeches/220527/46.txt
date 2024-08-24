@@ -1,1 +1,3 @@
-Presença no plenário do correligionário Pedro Roque, do Estado do Espírito Santo, e do Sr. Sérgio Sessim, filho do saudoso Deputado Federal Simão Sessim, do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d725ad55b2563e67fc0ff90cd1f5297227ad35748af46ccd4cbb72719bbfa1c2
+size 188

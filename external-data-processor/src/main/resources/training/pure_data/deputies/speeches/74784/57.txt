@@ -1,1 +1,3 @@
-Solicitação à Presidência de cumprimento de acordo firmado com a bancada feminina, a respeito da inclusão na pauta da proposta de emenda à Constituição referente à participação feminina na composição da Mesa Diretora da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32086d4cce26eaacb0252c1a79595a111dd5dbd61035c51b897d37828bd46ca8
+size 238

@@ -1,1 +1,3 @@
-Inconsistência da denúncia da Esquerda sobre a liberação de verbas a pastores evangélicos pelo Ministro da Educação, Milton Ribeiro. Probidade do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e34e689b09e3f1d7bdf1cbba2536b0999f0f134128505a3afc80d6d442261aba
+size 176

@@ -1,1 +1,3 @@
-Transcurso do 37º aniversário da Fundação Centro Tecnológico de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:032944419694d14930cf196d80d730efac32f866e1433fd6fa5d8af180329224
+size 82

@@ -1,1 +1,3 @@
-Realização da Exposição Agropecuária e Industrial de Londrina, Estado do Paraná. Defesa de criminalização do Movimento dos Trabalhadores Rurais Sem Terra - MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b920480bc9ac6a65a0bb3605ab2318dd9128ff67e42edd71fd065f13a34860d
+size 168

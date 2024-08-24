@@ -1,1 +1,3 @@
-Posicionamento contrário do PSOL  ao  parecer pela admissibilidade da  Medida Provisória 420 de 2008 (Abre crédito extraordinário em favor de Encargos Financeiros da União, para o fim que especifica). Críticas à atuação do BNDES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d90a58177560b469a3aa357d3f84ccfd0c749b28a7ed2ca9cb01f1d8e706eb8d
+size 238

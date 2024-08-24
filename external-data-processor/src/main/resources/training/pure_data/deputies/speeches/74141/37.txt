@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Heleno Silva. Prejuízos causados para o Estado da Bahia com as repetidas interrupções nas obras de construção da Ferrovia Oeste-Leste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f90c224c0f600e6908857e9f153a64fb55872c71ce4ec22bfe4f5111bd3fd51a
+size 182

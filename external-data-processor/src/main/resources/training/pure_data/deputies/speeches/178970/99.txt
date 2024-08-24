@@ -1,1 +1,3 @@
-Audiência com o Presidente do Fundo Nacional de Desenvolvimento da Educação - FNDE, Antonio Idilvan de Lima Alencar, para debate de questões relacionadas à educação básica no Estado de Sergipe. Apresentação do Programa de Ações Articuladas - PAR, do FNDE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d79de65877bc76bae993c639c24fb9bfc63ff1aab5fd5f647d0ce8ae5b60f386
+size 267

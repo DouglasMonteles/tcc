@@ -1,1 +1,3 @@
-Assassinato da Profa. Elizabeth Tenreiro por aluno de 13 anos de idade, em escola municipal de São Paulo, Estado de São Paulo. Manifestação de votos de condolências aos seus familiares. Proposta de criação, pela Casa, de Subcomissão Especial para debate da redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a078d8d48cb55707b33b6d2a61a5019b529de911f89f65bfdcf9a18b0df3860
+size 295

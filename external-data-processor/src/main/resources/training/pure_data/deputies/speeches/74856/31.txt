@@ -1,1 +1,3 @@
-Ineficiência da rede pública de saúde nos serviços prestados aos cidadãos. Uso incompleto, pelo Ministério da Saúde, dos recursos orçamentários da Pasta. Prejuízo do setor em decorrência de atos de corrupção ou de incompetência gerencial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d589dff4674f15a5f7179765a55a7173aab6528075fc5f6b888dd9d04d3d78df
+size 252

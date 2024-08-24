@@ -1,1 +1,3 @@
-Posse do orador na diretoria da Frente Parlamentar do Cooperativismo, como Coordenador da Região Sul. Relevância do papel desenvolvido pelo sistema cooperativista no setor agrícola catarinense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d3bd17ef9fed99675eec367aaf50186731cf791da2c1cfc77b7f77e5049c3f1
+size 196

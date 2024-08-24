@@ -1,1 +1,3 @@
-Decisão do Tribunal Superior Eleitoral de manutenção da representatividade na Câmara dos Deputados e nas Assembleias Legislativas. Decisão do Supremo Tribunal Federal pela inconstitucionalidade do art. 2º da Lei Complementar nº 62, de 1989, sobre o disciplinamento dos coeficientes do Fundo do Participação dos Estados. Defesa da aprovação da emenda apresentada pelos Deputados Ibsen Pinheiro e Humberto Souto ao projeto de lei sobre a distribuição de royalties de petróleo da camada pré-sal. Participação em marcha de Prefeitos Municipais a Brasília.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14e35387481302ce46cafb2779b98461b20d64a9c29884482e73219c80d23695
+size 569

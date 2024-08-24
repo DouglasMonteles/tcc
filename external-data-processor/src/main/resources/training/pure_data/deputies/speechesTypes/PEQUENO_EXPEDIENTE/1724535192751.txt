@@ -1,1 +1,3 @@
-Entrevista concedida ao jornal A Tarde pelo Prefeito Municipal de Vitória da Conquista, Guilherme Menezes, a respeito do Projeto Cidade da Ciência. Realização de movimento da Via Campesina, em Brasília, Distrito Federal. Necessidade de implantação da reforma agrária no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b621fba97e38fe6de2f1fc17b35c0cba4888437e0ed9da39a8aaf13f7c772e33
+size 284

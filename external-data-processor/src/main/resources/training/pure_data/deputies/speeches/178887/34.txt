@@ -1,1 +1,3 @@
-Elogio à gestão do Governador do Estado do Maranhão, Flávio Dino, na área de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9ec35e75cf2ae8b3b48134252ea2afc62e34062474e40b1e4525cd3b7186cf9
+size 102

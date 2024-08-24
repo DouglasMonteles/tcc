@@ -1,1 +1,3 @@
-Solidariedade às populações dos Municípios situados na região da Serra do Caparaó, especialmente à de Iúna, atingidos por chuvas torrenciais, no Estado do Espírito Santo. Criação da Frente Parlamentar de Gestão de Riscos e Desastres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0edae679e7b35d753b5b5c396b4507812bb4ddc8bc111477a9900066a91be8ad
+size 245

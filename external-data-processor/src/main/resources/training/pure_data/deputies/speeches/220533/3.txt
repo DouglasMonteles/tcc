@@ -1,1 +1,3 @@
-Atuação parlamentar em defesa da valorização da educação pública e dos profissionais da área. Regozijo com a aprovação de estudantes de escolas públicas do Distrito Federal para ingresso em cursos oferecidos pela Universidade de Brasília.
+version https://git-lfs.github.com/spec/v1
+oid sha256:203fbf2ac369b62634929e2796088015d05f2d5f838b97faa89c52657b380fae
+size 250

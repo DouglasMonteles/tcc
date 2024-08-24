@@ -1,1 +1,3 @@
-Solicitação à Presidência de votação do Projeto de Lei nº 2.332, de 2015, de autoria da oradora, sobre regulamentação da profissão de esteticista, cosmetólogo e técnico em estética.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e92a81d28cd3489961e2dbffaca7d2356f6ae1993a4c3b44494ad4af3977a51b
+size 194

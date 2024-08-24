@@ -1,1 +1,3 @@
-A Deputada fez críticas a outros parlamentares, acusando-os de apoio a grupos terroristas e de não terem coragem para condenar o Hamas. Trouxe exemplos pessoais, citando familiares em Israel expostos a bombardeios e casos de brasileiros com voos cancelados para o Brasil devido a conflitos na região. Também denunciou ter sido atacada por oito homens, defendendo seu direito de portar uma arma para sua segurança. Finalizou seu discurso reiterando que é alvo de ataques por ser uma mulher de direita e pediu respeito antes de ser criticada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59a5d09f78a2794b7ab1b52d19106bc032c7cefaa6c673dd99c316be07519137
+size 546

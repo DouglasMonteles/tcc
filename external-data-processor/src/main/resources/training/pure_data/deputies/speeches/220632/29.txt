@@ -1,1 +1,3 @@
-A Deputada encaminhou a votação do requerimento de adiamento da votação por uma sessão do Projeto de Lei nº 7.082, de 2017, que dispõe sobre a pesquisa clínica com seres humanos e institui o Sistema Nacional de Ética em Pesquisa Clínica com Seres Humanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3bd4a216143e7f06a5a93fc928f6236aee86ff96544b2d8ddd172b3a7eb2d82
+size 265

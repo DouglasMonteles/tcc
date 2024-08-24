@@ -1,1 +1,3 @@
-Atuação do orador em defesa de hospitais filantrópicos e de Santas Casas de Belo Horizonte, Minas Gerais. Reivindicação ao Governo Federal de apoio às comunidades terapêuticas atuantes na recuperação dependentes químicos ao ensejo do transcurso da Semana de Combate às Drogas e do Dia Internacional de Combate às Drogas. Presença do Presidente da Transparência Internacional, José Carlos Ugaz, em reunião da Frente Parlamentar Mista de Combate à Corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a49b3f1522d1ab5fa3df65237a33edf86b457bb8e0b5941c5167a8727e010c4c
+size 475

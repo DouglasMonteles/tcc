@@ -1,1 +1,3 @@
-Ocorrência de sucessivas reduções dos direitos dos trabalhadores brasileiros. Apresentação do Projeto de Lei nº 5.069, de 2019, sobre a relação de emprego entre empresas e trabalhadores de aplicativos do transporte terrestre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77a58dcda7f6ad728002842e6ea1fcffdcaa0e2d9d6ab3f15e1f4dc8442de04b
+size 233

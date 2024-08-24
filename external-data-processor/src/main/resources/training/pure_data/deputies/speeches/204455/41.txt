@@ -1,1 +1,3 @@
-Perplexidade ante a decisão da 30ª Vara Federal do Rio de Janeiro de demolição da guarderia de windsurfe na Praia do Pepê, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a4db6d947f19607e936a7462a6cff4ff46fba84a3ea56894362108bac504b4c
+size 153

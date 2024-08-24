@@ -1,1 +1,3 @@
-Pedido aos partidos oposicionistas de desistência da obstrução das votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02a9c98a540e9201725167fd69f71d20d03626ac1dceeba44b13193988ff2f7a
+size 81

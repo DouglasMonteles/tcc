@@ -1,1 +1,3 @@
-Transcurso dos 40 anos do assassinato do estudante Edson Luís de Lima Souto pelas forças repressivas do regime militar, no Rio de Janeiro, Estado do Rio de Janeiro. Inauguração, pela Secretaria Especial dos Direitos Humanos da Presidência da República, de estátua em homenagem a sua memória. Criação de campus da Universidade Federal de Campina Grande no Município de Sumé, Estado da Paraíba. Greve de policiais civis pela implantação de plano de cargos, carreiras e salários, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eed311eee1fe294ba7c81314171dcbdc056689b53a00ba19e360aac6e6c033d6
+size 503

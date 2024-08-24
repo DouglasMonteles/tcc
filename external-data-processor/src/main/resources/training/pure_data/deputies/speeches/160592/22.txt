@@ -1,1 +1,3 @@
-Transparência do processo de seleção de Municípios contemplados com o PAC da FUNASA, realizado pelo Ministério da Saúde. Benefícios decorrentes dos investimentos em obras de saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcdc363a03d9f6b567ee676f0c49d5f4ab95e0ad6ecaa0863573cfc3e642dcfd
+size 200

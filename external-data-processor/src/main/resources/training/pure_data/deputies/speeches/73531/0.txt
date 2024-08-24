@@ -1,1 +1,3 @@
-Apoio do PSOL à criação de CPI para a investigação de irregularidades na utilização de cartões de crédito corporativos. Necessidade de criação de CPI destinada à investigação do pagamento dos juros da dívida pública brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:571b0ba1e6435cb5e8a879181d97f6e1ad9fcf0831cc1302f4def9821576209b
+size 243

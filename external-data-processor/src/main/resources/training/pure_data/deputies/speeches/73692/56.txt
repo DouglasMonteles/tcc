@@ -1,1 +1,3 @@
-Decisão da Corrente Afirmação Democrática do PMDB de obstrução das votações na Casa após a votação do projeto de lei sobre a criação do Programa Nacional de Acesso ao Ensino Técnico e Emprego - PRONATEC, até à inclusão na pauta da proposta de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de percentuais mínimos à saúde pela União, Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aac06ae1b15413e6aafa4f1a95b2e14b0af12778b946ade10d9b4735d32e168
+size 409

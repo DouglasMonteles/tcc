@@ -1,1 +1,3 @@
-Aprovação, pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, de requerimento de convite ao Ministro do Planejamento, Orçamento e Gestão para a prestação de esclarecimentos sobre contingenciamento de recursos do Orçamento Geral da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e6a36f9e0685653e89e241af29ac2bc31ea0be0d3da306c13b97129523e2422
+size 266

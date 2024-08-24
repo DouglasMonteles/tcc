@@ -1,1 +1,3 @@
-Convite aos Deputados para participação na 13ª Conferência Nacional das Cidades, realizada em concomitância com o Congresso Brasileiro de Gestão Pública Municipal, promovida pela Comissão de Desenvolvimento Urbano em conjunto com a Comissão de Trabalho, de Administração e Serviço Público e a Frente Parlamentar Mista de Fortalecimento da Gestão Pública, no Centro de Convenções Ulysses Guimarães, em Brasília, Distrito Federal. Prioridade no debate do tema mobilidade urbana durante o evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79326441cb81dde14e6a9ade642c06d72e44c1598d5e7cc65ac22c3e16e45576
+size 512

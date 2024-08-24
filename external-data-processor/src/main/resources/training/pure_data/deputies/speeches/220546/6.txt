@@ -1,1 +1,3 @@
-Apresentação, à Procuradoria-Geral da República, de denúncia contra o professor de Direito da Universidade Federal da Grande Dourados - UFGD, por prática de crime de intolerância religiosa, no Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2ef853b1763a7bf81f29e802681bab20615c5b174c67951d7c6a25ff412287a
+size 229

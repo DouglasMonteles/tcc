@@ -1,1 +1,3 @@
-Importância da adoção de políticas ambientais para enfrentamento das alterações climáticas do planeta. Influência do Brasil no processo de aquecimento global.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9897cde6784de7ed8380a2e8158ce59702d395bb07014aab273e64e6306ae0d4
+size 166

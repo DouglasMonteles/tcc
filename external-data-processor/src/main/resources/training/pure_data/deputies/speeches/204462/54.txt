@@ -1,1 +1,3 @@
-Gestão desastrosa do Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b9c843c9d042ad374a13135e87442bd0f75b4cdf127c6c5736f0c11251722f4
+size 57

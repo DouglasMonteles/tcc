@@ -1,1 +1,3 @@
-Esclarecimento pelo Presidente do IBAMA, Curt Trennepohl, sobre o suposto transporte de lixo atômico para  Caetité, Estado da Bahia. Anúncio da apresentação, à Comissão de Minas e Energia, de requerimento para realização de audiência pública destinada ao debate da exploração de urânio no Município.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69f1e3fcea04488535a33ce8835dbf766979e4adc5ae717dc6069a30fd969474
+size 314

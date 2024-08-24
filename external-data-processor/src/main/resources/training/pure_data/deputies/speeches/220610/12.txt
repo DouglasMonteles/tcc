@@ -1,1 +1,3 @@
-O Deputado destacou a importância das eleições para o Conselho Tutelar no dia 1º de outubro. Ressaltou que os conselheiros tutelares são responsáveis por garantir os direitos das crianças e adolescentes, incluindo saúde, educação e convívio familiar. Pediu que os parlamentares e a população divulgassem a eleição e escolhessem candidatos comprometidos com esses princípios. Também elogiou o desenvolvimento de Rondônia, mencionando recordes na produção de grãos, baixo desemprego e sucesso na exportação de produtos como o tambaqui e carne de qualidade. Expressou gratidão ao Governador Coronel Marcos Rocha pelo apoio e reconheceu seu trabalho em prol do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fc169915c6ea333f7d9004d11badfc91195e6c801a938d6d164d1f4a687b775
+size 688

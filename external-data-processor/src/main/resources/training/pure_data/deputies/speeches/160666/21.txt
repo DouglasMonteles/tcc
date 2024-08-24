@@ -1,1 +1,3 @@
-Defesa de imediata declaração da inidoneidade das empresas envolvidas em crime de corrupção na PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a64b059f184eb68283d2f84daba11d3816203446d4ff483da777d29f86ccf37c
+size 109

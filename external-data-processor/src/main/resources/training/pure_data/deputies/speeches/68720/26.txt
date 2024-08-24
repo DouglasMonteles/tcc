@@ -1,1 +1,3 @@
-Escalada dos homicídios no País, segundo dados do Atlas da Violência divulgado pelo Instituto de Pesquisa Econômica Aplicada - IPEA. Inclusão da cidade de Nossa Senhora do Socorro, Estado de Sergipe, no ranking nacional da violência. Apelo às autoridades competentes por adoção de medidas efetivas de combate à criminalidade em Sergipe, especialmente no Município de Nossa Senhora do Socorro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09592eafe43241da78ad62204bfe777143cab4f6b11309194a3d13a13deee986
+size 403

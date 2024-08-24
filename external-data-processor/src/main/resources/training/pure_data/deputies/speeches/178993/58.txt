@@ -1,1 +1,3 @@
-Pedido à Presidência de fornecimento de senhas aos Deputados para procedimento relativo à apresentação das emendas parlamentares ao Orçamento da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba41887b0de1fb67416b381deed88f0947e3642a9a484acdaa4270326f48cd98
+size 158

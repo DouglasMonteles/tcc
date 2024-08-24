@@ -1,1 +1,3 @@
-Encaminhamento da votação do parecer da Comissão Mista quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, oferecido à Medida Provisória nº 881, de 2019, sobre a instituição da Declaração de Direitos de Liberdade Econômica, o estabelecimento de garantias de livre mercado e a análise de impacto regulatório.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb350700cc2fd5c2feaf882b4712fcf738021309dac1cc68dc317c1abceb7f29
+size 400

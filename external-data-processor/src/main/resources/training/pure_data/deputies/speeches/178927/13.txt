@@ -1,1 +1,3 @@
-Protesto contra a aprovação pela Casa de proposição contrária aos princípios e garantias dos trabalhadores brasileiros. Posicionamento do PCdoB pela rejeição do projeto de lei relativo à regulamentação da terceirização do contrato de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d86b3a8719bb45f5b2ad677e48d880be6e7c0b8745fab458d7720e4741b48f8a
+size 256

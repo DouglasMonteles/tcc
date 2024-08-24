@@ -1,1 +1,3 @@
-Pedido ao Ministério dos Transportes de urgente manutenção e reparo da BR-158, no sul do Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f67e75b3c9d88d5d32223c3b674ad778aace81dfe60ed7243851243c6af75245
+size 108

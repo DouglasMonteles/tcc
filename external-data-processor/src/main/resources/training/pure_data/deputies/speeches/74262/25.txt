@@ -1,1 +1,3 @@
-Matérias veiculadas na imprensa sobre viagens do ex-Presidente Luiz Inácio Lula da Silva ao exterior custeadas por empreiteiras.Conveniência da reestatização da PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:918d1a0cfef7041712208603f988faf5a114c6f9b67054e78a33d4af34459c35
+size 176

@@ -1,1 +1,3 @@
-Anúncio pelo Ministro da Integração Nacional, Geddel Vieira Lima, da realização de obras de combate aos efeitos da estiagem no Ceará por ocasião de sua visita ao Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4624f5918ebeae870d8681d26c03b476c0a20062625fa8775fc0526799b243f4
+size 176

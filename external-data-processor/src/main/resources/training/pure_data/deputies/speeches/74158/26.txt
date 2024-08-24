@@ -1,1 +1,3 @@
-Posicionamento favorável do PDT  à  expressão citopatológicos contida no  inciso VIII do art. 4º do Substitutivo ao Projeto de Lei 7.703 de 2006 (Define a área de atuação, as atividades privativas e os cargos privativos de Médico resguardadas as competências próprias das diversas profissões ligadas à área de saúde - Ato Médico), objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70f9d242503f983f9acc09b07275034148b43abe6cdd25d1af6867349e13decc
+size 361

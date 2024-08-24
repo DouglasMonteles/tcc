@@ -1,1 +1,3 @@
-Relato da atuação da oradora na presente legislatura. Comprometimento da Parlamentar com o desenvolvimento do turismo e do terceiro setor. Necessidade de realização de maiores investimentos no Porto de Santos. Funcionamento de aeroporto na Base Aérea de Santos, no Município de Guarujá. Defesa de aprovação do projeto de lei sobre a proibição do porte de arma pelo agressor à mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa30d7c249cd40a4c03a6665350f994377a0452ecdef41f28473ca7bc0d058ed
+size 395

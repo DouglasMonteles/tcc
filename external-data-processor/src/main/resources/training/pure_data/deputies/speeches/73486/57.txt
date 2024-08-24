@@ -1,1 +1,3 @@
-Lançamento da TV digital no Estado do Rio Grande do Sul. Elogio ao Ministro das Comunicações, Hélio Costa, pela implementação do programa de inclusão digital. Apoio da Associação Paulista do Ministério Público - APMP ao Projeto de Lei n° 3.715, de 2008, de autoria do orador, acerca da redução dos índices de alcoolemia de condutores de veículos automotores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e47cfb6e77543fb32e1626c73f2120e0822a4df53304157d47cfa6124c13365e
+size 374

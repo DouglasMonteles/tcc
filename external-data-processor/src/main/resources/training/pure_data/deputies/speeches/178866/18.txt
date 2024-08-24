@@ -1,1 +1,3 @@
-Sessão solene em homenagem à Tradição das Raízes de Matrizes Africanas e às Nações do Candomblé.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29d86b639a91560c2b96bab24f9f1725075e3c1d3c7fa65e10319c25f7f002c6
+size 254

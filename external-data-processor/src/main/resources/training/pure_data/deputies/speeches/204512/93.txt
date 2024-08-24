@@ -1,1 +1,3 @@
-Natureza eleiçoeira da invasão, pelo Movimento dos Trabalhadores Sem Teto - MTST, de propriedade privada no Município de Montes Claros, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9690810a500aa8b52e3e93d87d4bc71521078dd0d4abf872af95c9e8cfb45acf
+size 162

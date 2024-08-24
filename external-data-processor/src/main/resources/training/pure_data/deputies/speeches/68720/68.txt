@@ -1,1 +1,3 @@
-Congratulações ao Prefeito Edvaldo Nogueira pela assinatura de contrato de empréstimo junto ao Banco Interamericano de Desenvolvimento - BID, para realização de obras de infraestrutura na Capital Aracaju, Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a2b6b2ea4d1663774dc003436d3fc04180f27e96cd29e8d20a3706d087393be
+size 228

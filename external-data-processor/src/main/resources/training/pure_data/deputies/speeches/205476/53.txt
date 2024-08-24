@@ -1,1 +1,3 @@
-Preocupação com os efeitos da Lei nº 13.855, de 2019, sobre a extinção do transporte alternativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:279228000b122aa91357eb46f71e03cbe37ecca751fa96db46f281376612a64b
+size 102

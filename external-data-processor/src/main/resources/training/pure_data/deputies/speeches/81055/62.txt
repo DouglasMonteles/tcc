@@ -1,1 +1,3 @@
-Esclarecimento do pronunciamento do orador a respeito do exercício da presidência no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f06505d10b6d842b6da87f75650128592a2399462582e36ef5be4d64a8da82c
+size 97

@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Morte da irmã do Deputado Yury do Paredão vítima de feminicídio. Apresentação do Projeto de Lei nº 869, de 2023, sobre a alteração da Lei nº 11.340, de 2006, (Lei Maria da Penha), com vista à aplicação de medidas protetivas de urgência por prazo indeterminado. Compromisso de atuação em prol da igualdade de gênero e p redução da violência contra a mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:591d90e19eb6ce010e48699e44d9462bc9156ab2e589913c16fec4c5533faa98
+size 419

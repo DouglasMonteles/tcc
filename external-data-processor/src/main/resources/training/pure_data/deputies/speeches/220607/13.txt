@@ -1,1 +1,3 @@
-Lançamento da campanha Agosto Lilás, de conscientização da sociedade pelo fim da violência contra a mulher. Recorde do crime de feminicídio no Brasil em 2022, segundo dados do Anuário Brasileiro de Segurança Pública. Apresentação do Projeto de Lei nº 3.874, de 2023, proibitivo da aquisição, posse e porte de armas de fogo e munições por acusado de agressão à mulher em inquérito ou processo judicial. Pedido aos Deputados de apoio à proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fd78515a3eed64e00d3d92874ed8fac333d20be72b97b02db3f01d20bd057ad
+size 467

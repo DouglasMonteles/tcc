@@ -1,1 +1,3 @@
-Saudações a líderes sindicais presentes nas galerias do plenário. Defesa da aprovação do projeto de lei sobre o reconhecimento formal de centrais sindicais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80af1c3a5d989400d7da507236b87064d0c6fda8a908e9a39febb4c27a6e56bb
+size 162

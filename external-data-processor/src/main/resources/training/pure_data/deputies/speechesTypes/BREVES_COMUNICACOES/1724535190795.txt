@@ -1,1 +1,3 @@
-Encerramento da campanha Maio Laranja, destinada à prevenção e ao combate à exploração sexual infantojuvenil.&nbsp;Defesa de realização, pelo Governo Federal, de investimentos em políticas públicas de enfrentamento à violência e exploração sexual de crianças e adolescentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79fe84108608c6b6ea12d329918603a425c1754e071023d36aaec44dc35805b8
+size 289

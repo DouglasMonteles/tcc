@@ -1,1 +1,3 @@
-Desempenho de candidatos do PSB nas eleições municipais no Estado do Piauí. Defesa da redução da taxa básica de juros pelo Banco Central.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcf6825e72f81e37c2baaebb47e5deb12b22e8e21d59046fcd6995d55f23503c
+size 143

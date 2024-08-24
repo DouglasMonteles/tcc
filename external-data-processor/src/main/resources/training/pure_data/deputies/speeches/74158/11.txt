@@ -1,1 +1,3 @@
-Saudações aos novos membros da Mesa Diretora da Casa. Defesa de promulgação da proposta de emenda à Constituição sobre o limite de despesas e a composição numérica das Câmaras de Vereadores do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba3c0737fdcf220d2d4972935521cda6e724b54aa9f4f9176c0e3cb12adb7c75
+size 210

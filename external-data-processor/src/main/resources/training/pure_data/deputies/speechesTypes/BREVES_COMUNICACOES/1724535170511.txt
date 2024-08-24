@@ -1,1 +1,3 @@
-Transcurso do 65º aniversário da Declaração Universal dos Direitos Humanos. Realização do Fórum Mundial de Direitos Humanos, em Brasília, Distrito Federal. Apresentação, pela CPI destinada à investigação do tráfico de pessoas no País, de proposta sobre a revisão da legislação brasileira sobre o assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76b2c15bf9edcb9f943d79ebc372acf3b4763b27b047debde16e70e124ddf149
+size 322

@@ -1,1 +1,3 @@
-Congratulações aos organizadores do Festival do Café, no Município de Guaxupé e do Circuito Mineiro da Queima do Alho nos Municípios de São João Batista do Glória, Juruaia, Nova Resende, Pratinha e Itamogi, Estado de Minas Gerais.  Realização de eventos festivos nos Municípios mineiros de Pratápolis e São João Batista do Glória. Convite aos brasileiros de participação na 4ª Feira de Móveis Rústicos de Passos, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:034a8f9a3c619575b558aac1a85c610f20fabbc443542e5fd0c44ada336e0e0f
+size 457

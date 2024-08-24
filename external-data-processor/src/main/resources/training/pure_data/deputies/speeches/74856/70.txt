@@ -1,1 +1,3 @@
-Inconformismo com a rejeição pela Câmara dos Deputados de requerimento de apreciação em regime de urgência de proposição relativa à renegociação de dívidas dos Estados com a União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76fac2361a0f97e4d5b54c2e8bfb53883284f527cd0cde7d5997feb59e56288f
+size 193

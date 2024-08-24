@@ -1,1 +1,3 @@
-Teor da mensagem encaminhada pelo Governador Cid Gomes à Assembleia Legislativa do Estado do Ceará, por ocasião da abertura dos trabalhos legislativos de 2010. Assinatura de contrato entre o Governo Estadual e o Banco Mundial para financiamento de projetos na Região Metropolitana do Cariri.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3cad35c9436b235778830eb8c309a042ce3d13453a299956d633e88ee1c4d7e
+size 295

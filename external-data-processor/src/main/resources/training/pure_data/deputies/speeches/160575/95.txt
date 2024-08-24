@@ -1,1 +1,3 @@
-Associação à luta da Comissão de Combate à Intolerância Religiosa do Rio de Janeiro e da Secretaria de Políticas de Promoção da Igualdade Racial, pela reconstrução e tombamento do terreiro Zélio de Moraes, no Município de São Gonçalo, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02b9a310b7fc7aec162743f0fb5fea35f4484fd14cef65f4711d462cd0464bfb
+size 275

@@ -1,1 +1,3 @@
-Indignação do povo pernambucano com a decretação de lockdown  pelo Governador Paulo Câmara. Incompetência do Governador na condução das ações de combate à crise provocada pela epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f83df8069f37dc9c27be130d60206409e383a47ec1e5e5fd8f094c7b6f86110
+size 212

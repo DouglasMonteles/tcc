@@ -1,1 +1,3 @@
-Difusão do papel desenvolvido pelo setor agropecuário na economia brasileira. Liderança mundial do País na exportação de alimentos. Importância de proteção e concessão de incentivos ao homem do campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19b337a24e35806676b706819419bd1d0e7a71a2f852702f748db7341ddc8c49
+size 210

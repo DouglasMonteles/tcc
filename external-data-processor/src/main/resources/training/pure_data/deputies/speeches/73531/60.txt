@@ -1,1 +1,3 @@
-Caráter ditatorial do relatório elaborado pelos Promotores Luciano de Faria Brasil e Fábio Roque Sbardelotto, do Ministério Público do Estado do Rio Grande do Sul, a respeito de ações promovidas pelo Movimento dos Trabalhadores Rurais Sem Terra - MST. Apoio à campanha pela reintegração do Sr. Dirceu Travesso aos quadros do Banco Nossa Caixa S/A. Aprovação, pela Comissão de Desenvolvimento Econômico, Indústria e Comércio, de requerimento de realização de audiência pública para discussão de denúncias de corrupção contra a empresa multinacional Alston.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56027b8e2ab71f5c713193c0182056e234729ce955eb7a3e80b12e4208af10dd
+size 579

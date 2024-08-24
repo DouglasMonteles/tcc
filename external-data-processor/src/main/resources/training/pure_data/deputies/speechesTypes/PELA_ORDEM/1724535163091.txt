@@ -1,1 +1,3 @@
-Visita do orador à Reitoria da Universidade de Brasília, ocupada por estudantes da instituição. Solidariedade às reivindicações dos ocupantes da Reitoria. Acompanhamento do caso pela Comissão de Direitos Humanos e Minorias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92d069a4f1372b7678951adf748556ac715d1c13206e3cd49e67bfbba56ef88c
+size 231

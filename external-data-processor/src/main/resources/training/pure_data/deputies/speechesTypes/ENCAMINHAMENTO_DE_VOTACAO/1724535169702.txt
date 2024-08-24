@@ -1,1 +1,3 @@
-Encaminhamento da votação da Proposta de Emenda à Constituição nº 517, de 2010, referente à quebra do monopólio estatal da produção de radioisótopos e radiofármacos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca416ad9bee050a92c1f94920a5ad76222a3685d93142f7cb7efafee1131533f
+size 177

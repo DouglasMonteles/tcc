@@ -1,1 +1,3 @@
-Emissão de parecer às emendas de Plenário ao Projeto de Lei nº 130, de 2019, sobre a alteração do § 4º, art. 8º, da Lei 8.069, de 1990, com vista à ampliação da assistência à gestante e à mãe nos períodos pré e pós-natal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b0541ce2c7e34c5b43cb4acf50b4bfe64a2401fe85d3c550b1b89ac215a76e1
+size 240

@@ -1,1 +1,3 @@
-Homenagem às mulheres por ocasião do Dia Internacional da Mulher. Iniciativa do orador na Assembleia Legislativa do Estado do Rio de Janeiro em prol da instituição do Dia Estadual das Mulheres que Vencem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58e412eda540c0546c8286f021dab47d3e0c521fae3f632f3e421a153a1999f2
+size 208

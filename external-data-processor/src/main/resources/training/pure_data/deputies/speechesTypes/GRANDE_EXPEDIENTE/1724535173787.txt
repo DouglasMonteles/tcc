@@ -1,1 +1,3 @@
-Importância do agronegócio para a balança comercial do País. Excelência do trabalho da Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA no desenvolvimento e inovação tecnológica do campo. Cumprimentos ao Ministério da Agricultura pela criação do Plano de Desenvolvimento Agropecuário do MATOPIBA, região correspondente a áreas dos Estados do Maranhão, Tocantins, Piauí e Bahia. Inadmissibilidade de contingenciamento de recursos do Seguro Rural pelo Governo Federal. Defesa da proibição da chamada reciprocidade ou venda casada nos financiamentos realizados pelo sistema financeiro nacional. Apelo ao Governo Federal de resolução definitiva da questão do endividamento rural por agropecuaristas da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e5cfb66e51c9e5a69ce5fc6cb0cb297bbfbf38645b60ee6d3ffd0dba7e14783
+size 742

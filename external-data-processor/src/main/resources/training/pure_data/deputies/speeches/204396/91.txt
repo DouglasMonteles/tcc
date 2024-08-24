@@ -1,1 +1,3 @@
-Homenagem ao ex-Ministro do Trabalho e Previdência Social, ex-Deputado Federal e atual Secretário de Estado de Gestão Pública do Paraná, Reinhold Stephanes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:525b3ba33a9b60d14d3163be41492116ea96fb0ebcad9a2b3035dc1049112d56
+size 161

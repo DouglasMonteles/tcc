@@ -1,1 +1,3 @@
-Transcurso do 25º aniversário de criação do Plano Real no Brasil. Apoio à realização da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de2f8d5641727f8cba8fbe4605d29396ef700af0b2e4cfde2dec00b46a297c5a
+size 119

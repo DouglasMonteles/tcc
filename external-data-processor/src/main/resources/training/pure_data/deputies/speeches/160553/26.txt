@@ -1,1 +1,3 @@
-Realização da 14ª Conferência Nacional de Saúde, em Brasília, Distrito Federal. Solidariedade aos portadores do vírus HIV. Defesa da continuidade de políticas públicas de combate à AIDS e à tuberculose.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d3e4ef1b1003878f94e2296201814473777b72e0490f3f8802a30bc7b641614
+size 213

@@ -1,1 +1,3 @@
-Transcurso do aniversário natalício do Deputado Osmar Serraglio. Transcurso do Dia de Corpus Christi. Necrológio do músico Darcy Fernandes Monteiro, o Darcy da Mangueira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:777eebe34023825f5e6d80b8679fe019568d8988031552b62d595f88eb595461
+size 174

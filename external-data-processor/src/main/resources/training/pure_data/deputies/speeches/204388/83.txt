@@ -1,1 +1,3 @@
-Esclarecimento sobre projeto de lei encaminhado ao Congresso Nacional pelo Presidente Jair Bolsonaro, relativo a alterações na legislação de trânsito. Defesa da proposta de reforma da Previdência Social, denominada Nova Previdência. Pedido aos Deputados de apoio à matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07b0c43e01a412a651f463986d357cc8e3b4aaa000e5851178e4fdaa9a489639
+size 282

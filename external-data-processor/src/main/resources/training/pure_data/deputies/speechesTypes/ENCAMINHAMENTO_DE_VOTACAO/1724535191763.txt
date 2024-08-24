@@ -1,1 +1,3 @@
-Defesa de discussão pela Casa das propostas de criação da Comissão da Mulher e da Comissão do Idoso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d69c8ea1cbd5c80691fa91df8fe8dfe70fff48edca55eefbc191bbc0883bb40
+size 105

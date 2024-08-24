@@ -1,1 +1,3 @@
-O Deputado afirmou que o 7 de Setembro não deve comemorado com ufanismo, mas como um dia de luta para que a independência do Brasil se torne plena. O orador enfatizou que na data também ocorre, em várias capitais brasileiras, a manifestação popular denominada Grito dos Excluídos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ac8b369daf4ce58a8f699462ee121b914bb8e045417062f2199e42c732a1a02
+size 287

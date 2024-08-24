@@ -1,1 +1,3 @@
-Compromisso de atuação parlamentar em prol da reforma agrária e da igualdade racial e social. Relevância da atuação do Deputado Adão Pretto a favor da reforma agrária e da implantação de política agrícola para os trabalhadores rurais assentados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d9c5502b13840f82cbbd652850b0699ac343222e0f8833b4ca898a9552569e7
+size 257

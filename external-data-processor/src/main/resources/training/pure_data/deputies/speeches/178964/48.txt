@@ -1,1 +1,3 @@
-Posicionamento contrário às medidas de ajuste fiscal adotadas pelo Governo Federal. Inconformismo com o volume  de recursos públicos utilizados para pagamento da dívida externa. Solidariedade aos agricultores familiares do País ao ensejo do transcurso do Dia Mundial do Meio Ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0511ded9b05bb7664e90c030cb6bd7816b981ec543614fcc83c777c4f5eae40d
+size 289

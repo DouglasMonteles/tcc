@@ -1,1 +1,3 @@
-redução da taxa básica de juros, a Taxa Selic, pelo Comitê de Política Monetária do Banco Central - COPOM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6779ae340b7d4d3045afba6749819e8b05d1e4643721241dbb2a236faabd6267
+size 112

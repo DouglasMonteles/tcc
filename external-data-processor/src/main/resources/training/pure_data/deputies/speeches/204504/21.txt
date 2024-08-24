@@ -1,1 +1,3 @@
-O Deputado homenageou o centenário de Ossian de Alencar Araripe, figura política importante para o Ceará e para o Brasil. Destacou sua trajetória política invicta, sua influência em Crato, e o legado que continua através de seu neto, Dr. Rafael Carneiro. O Parlamentar expressou seu carinho e agradecimento à família de Araripe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6724503744ed9d00913e71aeea8776675b648000761609b1ed48ab77e5a1edb
+size 337

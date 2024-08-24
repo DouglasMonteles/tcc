@@ -1,1 +1,3 @@
-Conveniência de esclarecimento pelo Ministro da Fazenda, Guido Mantega, sobre a arrecadação da Contribuição Provisória sobre Movimentação Financeira - CPMF, ao ensejo da Comissão Geral destinada ao debate da regulamentação da Emenda Constitucional nº 29, de 2000, sobre a alocação de recursos para a saúde pública,
+version https://git-lfs.github.com/spec/v1
+oid sha256:39eb893f196bc75a86a182a381de18410e3c30170d3e5a830575731ba3a1c0c9
+size 330

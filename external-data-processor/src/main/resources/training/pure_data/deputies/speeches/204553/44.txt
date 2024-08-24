@@ -1,1 +1,3 @@
-Defesa de rejeição do Projeto de Lei nº 3.369, de 2015, sobre a instituição do Estatuto da Família do Século XXI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50cbd5acbcdce568c083b225f30eac2cbb05916aa95ad3a31b5fb9c49bd8db72
+size 120

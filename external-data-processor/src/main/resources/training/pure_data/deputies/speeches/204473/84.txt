@@ -1,1 +1,3 @@
-Debate do funcionamento de usinas termoelétricas; dos preços de combustíveis e de outros temas relacionados à empresa Petróleo Brasileiro S/A - PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34b9a390232e2bf9ec0936b6c686ff9727ddac56ef1e968038b7a3275527bfab
+size 159

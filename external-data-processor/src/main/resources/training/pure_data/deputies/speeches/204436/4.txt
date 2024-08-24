@@ -1,1 +1,3 @@
-Questão de ordem sobre a indicação/nomeação dos membros da Comissão Especial destinada ao exame da Proposta de Emenda à Constituição nº 391, de 2017, sobre o disciplinamento da distribuição de recursos ao Fundo de Participação dos Municípios - FPM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:847edc18417d035d4f7a650d0d31c29de42f8a7e0043accb1f31b1b111edc0e1
+size 263

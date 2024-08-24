@@ -1,1 +1,3 @@
-O Deputado expressou preocupação em relação à suposta invasão de competência do Judiciário e à falta de liberdade de expressão no Brasil. Argumentou que no Brasil, quem denuncia crimes é preso, e destacou a falta de devido processo legal, contraditório e ampla defesa. Ao final, questionou como alguém ousa pretender um País melhor em um ambiente supostamente marcado pela corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb16f3ba027bf4b43ee243c0666a521e4773816b2f211c11f9378f3ad0b0d44b
+size 399

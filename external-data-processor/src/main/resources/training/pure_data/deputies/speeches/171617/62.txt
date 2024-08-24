@@ -1,1 +1,3 @@
-Transcurso do 89º aniversário de emancipação político-administrativa do Município de Arapiraca, Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7273da466eb8e3bd988b143dd6d2e3486cff3bedec3673389cd538762e56edf3
+size 120

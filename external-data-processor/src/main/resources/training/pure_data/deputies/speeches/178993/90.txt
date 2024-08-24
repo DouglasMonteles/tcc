@@ -1,1 +1,3 @@
-Necessidade de retomada do Projeto de Irrigação São João, localizado no Município de Porto Nacional, Estado do Tocantins. Solicitação ao Governo do Estado de adoção das providências cabíveis diante da determinação, pelo Tribunal de Contas da União, de devolução de recursos destinados ao Projeto Sampaio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22e5a933fff2cd740f45121e3d80816c7434a84d59f8795661b8d0f986d5db17
+size 320

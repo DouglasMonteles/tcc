@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 696, de 2020, sobre o uso da telemedicina durante a crise causada pelo coronavírus (SARS-CoV-2).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a11dd18f3bdf84407d06776b83f1e7db425ea7687b558034160f0d43079e1c1
+size 139

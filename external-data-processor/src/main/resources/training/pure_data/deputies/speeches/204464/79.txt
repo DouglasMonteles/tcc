@@ -1,1 +1,3 @@
-Alcance da marca de 240 mil mortes no Brasil em decorrência da Covid-19. Gravidade das crises sanitária e social brasileiras. Repúdio ao conjunto de ações antidemocráticas praticadas no País. Defesa, pelo PSOL, de manutenção do Deputado Daniel Silveira na prisão e de cassação do seu mandato parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bf890bc897bf8ffc42a1de0648b9b7abb87fbb1528adfb6589616e1e83e0de5
+size 316

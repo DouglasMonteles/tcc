@@ -1,1 +1,3 @@
-Inconformismo com possível descontinuidade de funcionamento do Instituto de Desenvolvimento do Trabalho - IDT em decorrência da implementação de ajuste fiscal pelo Governo do Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c15d8a02187d070d76c1b019628dec8976e9b0c008f2e17f4b41dff3b2ccd4d
+size 196

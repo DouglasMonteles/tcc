@@ -1,1 +1,3 @@
-Aprovação, pela Comissão Especial, do parecer oferecido ao projeto de lei sobre a criação do Fundo Social com recursos oriundos da exploração de petróleo na camada pré-sal. Anúncio da apresentação de emendas à proposição a respeito da distribuição de royalties de petróleo
+version https://git-lfs.github.com/spec/v1
+oid sha256:188e29179bbeb3bbb7e76582e0788afaca97d697addb1f880349155560467d67
+size 290

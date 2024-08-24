@@ -1,1 +1,3 @@
-Transcurso do cinquentenário de criação do Banco Regional de Desenvolvimento do Extremo Sul - BRDE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1e4fd1779465d93e676c0fc0ca2747388144d130ee34cf88fb0223fce2bfc3a
+size 102

@@ -1,1 +1,3 @@
-Agradecimentos ao Deputado José Guimarães pela citação do orador em pronunciamento. Pedido ao Governador do Estado do Rio de Janeiro, Luiz Fernando Pezão, de liberação da base do PMDB fluminense para votação. Importância de resolução da questão de pagamento de salários dos servidores públicos do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:202c462c4837d51d57e9cfcb3ae9f9032ce2b9fd9d90175699e2ad90168ce01e
+size 337

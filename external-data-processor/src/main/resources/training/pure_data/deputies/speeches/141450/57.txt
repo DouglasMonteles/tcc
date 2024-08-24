@@ -1,1 +1,3 @@
-Votação pela Casa de proposições de relevante interesse do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b5329d21c15653912bcd05e121a081645697e627c4d26da5eeebf332aa4ecd2
+size 69

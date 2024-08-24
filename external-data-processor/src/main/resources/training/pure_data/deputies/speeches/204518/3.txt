@@ -1,1 +1,3 @@
-Não interferência de assuntos de cunho político e ideológico na elaboração de políticas de saúde mental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70a2517060ceb0e16cd494886f3cfb88268646c8bb6685d6cc79963971351562
+size 112

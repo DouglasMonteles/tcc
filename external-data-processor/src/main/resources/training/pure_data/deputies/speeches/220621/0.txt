@@ -1,1 +1,3 @@
-Vocação do orador para combate à bandidagem. Incoerência, desonestidade e mentira como marcas do governo petista. Posicionamento do Presidente da República contrário à criação de CPI para investigação de atos antidemocráticos ocorridos no Distrito Federal em 8 de janeiro de 2023. Decretação. pelo Presidente Luiz Inácio Lula da Silva, de sigilo sobre as imagens da invasão do Palácio do Planalto. Suspeita de envolvimento de Ministra de Estado com milicianos. Investigação, pelo Conselho de Controle de Atividades Financeiras - COAF, do Secretário Especial de Assuntos Federativos da Presidência da República, André Ceciliano. Oposição do orador ao Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f544f61148b19a12e673dc8f09ae7b20394459d716b3ef7d6330b195464ba80
+size 710

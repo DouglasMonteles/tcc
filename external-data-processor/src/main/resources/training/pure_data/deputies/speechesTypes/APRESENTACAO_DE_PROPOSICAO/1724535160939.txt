@@ -1,1 +1,3 @@
-Transcurso do 44° aniversário de emancipação político-administrativa do Município de Jacutinga, Estado do Rio Grande do Sul. Realização da 6ª Exposição do Comércio, Indústria, Agropecuária e Artes de Jacutinga - EXPOCIJA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05d9104902358c1d0d4714ab9ed43e386f936303f12c24c721c0ff3489adf385
+size 235

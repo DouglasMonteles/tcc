@@ -1,1 +1,3 @@
-Contrariedade à campanha mundial de adesão ao veganismo durante a Quaresma. Importância do setor pecuário para a economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0668164e19542cb6648cc9a9432d6cc2deb527862d3cc7aa89b0e5a878b8003f
+size 137

@@ -1,1 +1,3 @@
-Elogio ao Deputado Nazareno Fonteles pelo discurso proferido a respeito de segurança alimentar. Transcurso do Dia Internacional da Mulher. Posse do Ministro Carlos Alberto Reis de Paula na Presidência do Tribunal Superior do Trabalho. Implantação do Programa Luz para Todos no Estado de Minas Gerais. Reajuste de tarifas de energia elétrica no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f21fba8930e035a13783a558e3c59fc660e16c1087ab0821300d1fd1ccb5e90
+size 356

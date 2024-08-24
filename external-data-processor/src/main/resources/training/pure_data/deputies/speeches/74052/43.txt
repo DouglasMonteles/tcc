@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido pelo Relator da Comissão Especial ao Projeto de Lei nº 5.829, de 2019, sobre o estabelecimento do marco legal da microgeração e minigeração de energia distribuída no Brasil, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd50b05a333abed96396b0df3c146160b04e7113ca92f105123be14bae4879a6
+size 269

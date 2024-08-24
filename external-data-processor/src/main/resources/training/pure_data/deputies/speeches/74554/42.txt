@@ -1,1 +1,3 @@
-Transcurso do 60º aniversário da Proclamação da República Popular da China e dos 35 anos do restabelecimento das relações diplomáticas entre o Brasil e a China.
+version https://git-lfs.github.com/spec/v1
+oid sha256:582f9ac2ca474098829da95739c86d8cb079f4d84fd05043dd966622be5cdbf4
+size 168

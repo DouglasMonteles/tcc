@@ -1,1 +1,3 @@
-Atuação desastrosa do clã Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9de0b72b8ebae7ddde4979cdaa2cec7c55e94df56fa9860fb2d082e0e781ffb9
+size 44

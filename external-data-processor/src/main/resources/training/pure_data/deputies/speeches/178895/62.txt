@@ -1,1 +1,3 @@
-Equívoco da política fiscal praticada no País. Necessidade de redução dos gastos públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aac29358ac6b098353a33892b7ebcc13fbf859be32a48c541852fabd46baa418
+size 96

@@ -1,1 +1,3 @@
-O Deputado expressou sua indignação com o veto do Presidente Lula à Lei Orgânica Nacional das Polícias Civis, alegando que isso resultou na retirada de direitos dos trabalhadores policiais civis, como insalubridade e periculosidade. Criticou o Presidente por não cumprir um acordo feito na Câmara dos Deputados e pediu o apoio de todos os parlamentares, incluindo aqueles do PT, para derrubar o veto e garantir os direitos dos policiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:accd4076799b43edb97d0e2a193a10d554224b0b55e0ef155aa4159775c42cac
+size 444

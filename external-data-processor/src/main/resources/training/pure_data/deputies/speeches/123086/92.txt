@@ -1,1 +1,3 @@
-Solicitação à Presidência e aos Parlamentares de priorização de proposições de interesse do Ministério da Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8931d69ac6ab84bf5919e316c86c6dcd147a178e8d473b692c2bede5df57302d
+size 126

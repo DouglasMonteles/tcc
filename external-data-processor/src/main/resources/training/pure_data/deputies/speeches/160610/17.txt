@@ -1,1 +1,3 @@
-Denúncia de tentativa de homicídio contra o índio pataxó Jefferson de Souza Santos, Município de Pau Brasil, Estado da Bahia. Ocorrência de conflitos históricos pela posse da terra entre indígenas e fazendeiros na municipalidade. Necessidade de ações da FUNAI e da Polícia Federal em proteção do povo pataxó. Apresentação de projeto de lei a respeito da revisão dos índices de produtividade no campo a cada 5 anos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb5a3800022f4234928516042aeb0f2290508e78468cab0600094a7e323e0866
+size 432

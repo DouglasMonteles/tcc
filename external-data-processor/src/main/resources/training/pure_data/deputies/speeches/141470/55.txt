@@ -1,1 +1,3 @@
-Defesa da realização de ampla reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ae40db927fc71fe9eb7ce12b3d06467c4d5bb0320442ef547654b6d1fdcdb55
+size 50

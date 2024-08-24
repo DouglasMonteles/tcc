@@ -1,1 +1,3 @@
-O Deputado criticou o silêncio da esquerda em relação a um vídeo que mostrava traficantes armados treinando no Complexo da Maré, no Rio de Janeiro. Acusou a oposição de hipocrisia por não se manifestar contra a presença de criminosos armados perto de escolas. Também mencionou que a esquerda votou contra um projeto que visava tornar hediondo o crime de matar crianças, aumentando a pena de 20 para 30 anos. O Parlamentar questionou a coerência dos partidos de esquerda, acusando-os de defenderem criminosos, o aborto, e de serem hipócritas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a52d2ea2800ca9bb3042148d669a6cef8d0d0f16e3bec16df14d959e2b2945d2
+size 554

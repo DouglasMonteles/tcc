@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Substitutivo oferecido pelo Relator da Comissão de Defesa dos Direitos da Mulher ao Projeto de Lei nº 2.721, de 2019, sobre a instituição do Biênio da Primeira Infância do Brasil no período de 2020-2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9180f9efaab538135ec4a1928fcd41823e35149b4dea53dad62bd3cee126f632
+size 250

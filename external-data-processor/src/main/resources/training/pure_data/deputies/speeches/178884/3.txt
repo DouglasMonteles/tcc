@@ -1,1 +1,3 @@
-Insatisfação com o anúncio de suspensão dos investimentos da PETROBRAS na construção das refinarias Premium I e II na Região Nordeste. Vocação do Estado do Maranhão para o acolhimento da petrolaria. Aspectos relevantes da manutenção do projeto para a indução do desenvolvimento socioeconômico do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09f58ad3318b50fe0cb77f0f01b73323841f1266fd22f85e662c3214f7507788
+size 318

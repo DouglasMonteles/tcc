@@ -1,1 +1,3 @@
-Artigo Passos errados na reforma política, de autoria do orador, publicado pelo Jornal Pequeno de São Luís, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b324ccc5f9c378fe43ec3d2bb3245b25a789c50649b5c7dd21cab78d06497d19
+size 131

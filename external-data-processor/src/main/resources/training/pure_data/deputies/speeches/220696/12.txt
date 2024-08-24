@@ -1,1 +1,3 @@
-Incompetência do Prefeito Municipal de Camaçari, Estado da Bahia. Apoio à greve dos professores e funcionários públicos da municipalidade por reajuste salarial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cc6ddc5806ad384f3b5f2bf2391ecd99eef3cf68a32f75c82f8069247759907
+size 165

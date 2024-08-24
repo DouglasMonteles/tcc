@@ -1,1 +1,3 @@
-Discussão da Medida Provisória 428, de 2008  (Altera a legislação tributária federal e dá outras providências). Críticas à política econômica do Governo Federal. Ineficácia das medidas de política industrial propostas na medida provisória em debate.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce5d8466986aa00f0dd96e677e03a30261c9d6ba338bb6981389c01331b00746
+size 263

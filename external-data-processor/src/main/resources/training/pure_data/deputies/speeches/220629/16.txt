@@ -1,1 +1,3 @@
-Elevação das taxas de inadimplência bancária no País. Necessidade de redução da taxa básica de juros, a Taxa SELIC, pelo Comitê de Política Monetária - COPOM do Banco Central do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d52d8ae1d7a5e88295578e66123b48ebbb698ea518ad02c56dea69fd10f0216
+size 196

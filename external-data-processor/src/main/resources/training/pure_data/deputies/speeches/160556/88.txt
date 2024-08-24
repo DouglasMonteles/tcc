@@ -1,1 +1,3 @@
-Apelo ao Presidente do Tribunal de Justiça de Minas Gerais de atendimento às reivindicações do movimento grevista de servidores da instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65f26c03944f47297c2d7be31a11fa4e4c42f113093d80e62853ccfb1e423ce4
+size 149

@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional de Combate ao Câncer Infantil. Congratulações à Fundação Sara Albuquerque Costa, no Estado de Minas Gerais, pelo acolhimento de crianças carentes com câncer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4fef731baeb636f72f006f28131ff5e9a605769d620f041b1f662e3b961c571
+size 192

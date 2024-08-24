@@ -1,1 +1,3 @@
-Apoio à chamada PEC dos Vereadores. Falecimento da Sra. Iani Fernandes Donato, do Município de Guanambi, Estado da Bahia. Pronunciamento do orador sobre a visita de delegação da Casa ao Município de Tiriós, Estado do Pará, para acompanhamento das atividades desenvolvidas pela Comissão de Aeroportos da Região Amazônica - COMARA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05b15189c769a14ebc3cc9337d76d9286b81ce5ae692013ffed789cdce2b783d
+size 339

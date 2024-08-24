@@ -1,1 +1,3 @@
-Alocação, na Lei de Diretrizes Orçamentárias - LDO, de recursos para recuperação da BR-267 entre os Municípios de Nova Alvorada do Sul e Bataguassu, Estado de Mato Grosso do Sul. Obras de ampliação e restauração da malha viária no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0234457bf6b336da310ba6bb336c389bdfaac528b949aca7b60f9ebcd6729df7
+size 250

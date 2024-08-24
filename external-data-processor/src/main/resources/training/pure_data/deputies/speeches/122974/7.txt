@@ -1,1 +1,3 @@
-Apresentação, pelo PTB, de requerimento para apreciação em regime de urgência de proposição relativa ao Acordo de Salvaguardas Tecnológicas - AST sobre o Centro de Lançamento de Alcântara, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47013fbc5a62532a70776eefec441f023aefde0eece3afc8914a079b1c2c5550
+size 219

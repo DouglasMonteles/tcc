@@ -1,1 +1,3 @@
-Realização da 4ª Marcha das Margaridas, em Brasília, Distrito Federal. Reivindicações das trabalhadoras rurais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82e6591dd576713f591767481349222e040b5599396455b48411848e8b73511a
+size 129

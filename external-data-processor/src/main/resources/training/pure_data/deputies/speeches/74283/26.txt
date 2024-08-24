@@ -1,1 +1,3 @@
-Pedido à Presidência de determinação de encerramento dos trabalhos das Comissões. Solicitação aos Deputados de comparecimento ao plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7ee7693d043ee9e5e2845b4075380d33965fd77735de7a5533a2efe8f966fc9
+size 146

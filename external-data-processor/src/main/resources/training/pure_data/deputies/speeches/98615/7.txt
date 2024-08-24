@@ -1,1 +1,3 @@
-Apelo aos Secretários Estaduais de Fazenda de aumento do teto de isenção do ICMS na aquisição de automóveis por pessoas com deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d006c4a8f7d74611e1cb790c1b9981ee6b3cd974e1fac3dec6144648ca6e1413
+size 143

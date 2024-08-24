@@ -1,1 +1,3 @@
-Transcurso do 24º aniversário de criação do Bairro Parque Residencial Tarcísio de Miranda Burity, conhecido por Mangabeira, em João Pessoa, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3bc23d86766f310f6f5a7c8db1b6e9577cbba43d77d76d11922d8781ea1fa2a
+size 165

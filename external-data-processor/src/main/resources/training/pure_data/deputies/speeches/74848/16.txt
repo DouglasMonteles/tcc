@@ -1,1 +1,3 @@
-Necrológio do ex-Senador Abdias Nascimento, precursor do movimento negro no Brasil. Nota pública da União de Negros pela Igualdade - UNEGRO, a respeito do falecimento de Abdias Nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8cd4ec0efa8c079d1d4df2db385d08ba284070f72866760d0866627880832c7
+size 191

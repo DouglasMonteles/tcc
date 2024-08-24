@@ -1,1 +1,3 @@
-O Deputado registrou a presença em plenário do Embaixador da Namíbia, Sr. Mbapeua Muvangua, e do Adido de Defesa da Namíbia, Efraim Shivanda, destacando a realização de reunião do grupo de amizade entre Brasil e Namíbia na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:218edae201fbcab2e2f3721c76af727edec039f79d3c8ea05e190f255171ad55
+size 253

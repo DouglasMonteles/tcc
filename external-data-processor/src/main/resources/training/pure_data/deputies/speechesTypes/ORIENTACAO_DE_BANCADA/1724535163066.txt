@@ -1,1 +1,3 @@
-Orientação de bancada para votação do Requerimento de urgência do Projeto de Lei Complementar nº 459, de 2017, sobre cessão de direitos creditórios originados de créditos tributários e não tributários dos entes da Federação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7852a571365dfdfd3e604c7d2a39b31905036b333b755cb46a445ebb2d3af25
+size 238

@@ -1,1 +1,3 @@
-Protesto contra a manutenção, pelo Comitê de Política Monetária - COPOM do Banco Central do Brasil, da taxa básica de juros, a Taxa SELIC, em 13,75% ao ano. Defesa de comparecimento do Presidente da instituição bancária, Roberto Campos Neto, à Comissão de Finanças e Tributação para debate do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecc5ea0a04eabbc3c0ec797d5b261139483a540fdb72fa90da6dd54208986ee4
+size 315

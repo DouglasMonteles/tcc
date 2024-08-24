@@ -1,1 +1,3 @@
-Presença na Casa de alunos do curso de Direito do Instituto Toledo de Ensino, do Município de Bauru, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:226d6031de3b4ad3c669d85d0667b94113c943fb9e08276aa23c69fe010fb9c0
+size 124

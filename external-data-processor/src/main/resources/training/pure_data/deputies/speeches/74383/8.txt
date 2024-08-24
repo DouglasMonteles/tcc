@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Finanças e Tributação, às Emendas do Senado ao  Projeto de Lei 2.105 de 2007 (Institui o Regime de Tributação Unificada - RTU - na importação por via terrestre de mercadorias procedentes do Paraguai - Projeto do Sacoleiro).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5403753a2f15722e92f1f63264ab3ca5d0d3ceb911330a44533fa348b2fff89e
+size 258

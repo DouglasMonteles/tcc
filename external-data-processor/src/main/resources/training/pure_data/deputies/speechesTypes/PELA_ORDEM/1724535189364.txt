@@ -1,1 +1,3 @@
-Preocupação dos Líderes oposicionistas com a Emenda nº 2, apresentada pelo Senador Angelo Coronel à Medida Provisória nº 1.029, de 2021, sobre a alteração da Lei nº 13.475, de 2017, relativa ao exercício da profissão de tripulante de aeronave. Defesa de retirada de requerimentos de destaques e votação do parecer oferecido à propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:590f4a83fee0a97d2c08d0d68697a4b6ee5f630339c3e2c3bbebcdcde8cc11ea
+size 353

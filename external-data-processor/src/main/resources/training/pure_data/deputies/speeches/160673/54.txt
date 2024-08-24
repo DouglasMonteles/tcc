@@ -1,1 +1,3 @@
-Construção da BR-290, trecho Eldorado do Sul-Pelotas, Estado do Rio Grande do Sul. Duplicação da Ponte do Guaíba, na região de Porto Alegre. Duplicação da BR-386, trecho Lajeado-Iraí, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:642758bf46ff5072025441dfd97e00d1e9a4907408ae87c14a75306bdbc8be39
+size 203

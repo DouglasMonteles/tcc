@@ -1,1 +1,3 @@
-Congratulações aos agentes comunitários de saúde e aos agentes de combate às endemias, em especial aos do Estado de Pernambuco. Expectativa de votação, pela Casa, da proposta de regulamentação da emenda constitucional sobre a criação do piso salarial nacional e do plano de carreira da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91dbf4bc4dfd1917a870ed8caa06cfd01a36f62ac82822b95beef531874c26ff
+size 307

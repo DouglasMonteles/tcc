@@ -1,1 +1,3 @@
-Saudações aos Vereadores do Estado do Paraná presentes nas galerias do plenário. Defesa de recomposição numérica das Câmaras Municipais brasileiras. Conveniência de aprovação da proposta de extinção do fator previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c0300110c479cf74c6c9b6a335b2f255b2d914cbaa4ef29ef4f0c90cc9e0cb9
+size 237

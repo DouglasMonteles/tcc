@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a inclusão do comércio de medicamentos falsificados no rol de crimes hediondos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:deaf0e6c034098824e73583fe36965120eb1029b0bbe545ace69bb4e49a3437c
+size 120

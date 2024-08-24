@@ -1,1 +1,3 @@
-Apelo ao Governador do Estado do Espírito Santo, Renato Casagrande, por adoção de medidas de proteção de alunos e professores diante de atentados ocorridos em estabelecimentos escolares. Defesa de redução da maioridade penal; de extinção da progressão de regime; de agravamento de punições a criminosos; e da presença de vigilantes armados nas escolas. Apresentação do Projeto de Lei nº 1.652, de 2023, sobre a obrigatoriedade da instalação de detector de metais e da presença de vigilância armada nas instituições públicas/privadas de ensino médio, infantil e fundamental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a40365a49aefbc14bd1ff13683e9cefb149f529607e3aa259d96a227c8335c99
+size 597

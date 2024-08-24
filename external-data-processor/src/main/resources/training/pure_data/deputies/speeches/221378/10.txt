@@ -1,1 +1,3 @@
-Reconstrução do País pelo Governo Luiz Inácio Lula da Silva. Lançamento pelo Ministro da Justiça e Segurança Pública, Flávio Dino, do Programa Nacional de Segurança Pública com Cidadania - PRONASCI, no Estado do Rio Grande do Sul. Posse da Operadora de Máquinas, Elisandra Antunes de Almeida, na Presidência do Sindicato dos Metalúrgicos de Passo Fundo, Marau e Tapejara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0af7b315c1a076660934d4160f67b9b8d65b32dcab79a00ed639f28e9343fc9
+size 385

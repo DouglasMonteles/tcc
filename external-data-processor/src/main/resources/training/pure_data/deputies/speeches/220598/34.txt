@@ -1,1 +1,3 @@
-Presença estrutural do machismo e do racismo na sociedade brasileira. Baixa representatividade de mulheres e negros no Parlamento brasileiro. Defesa de rejeição da Proposta de Emenda à Constituição nº 9, de 2023, sobre a concessão de anistia a partidos políticos (não cumprimento de cotas e da distribuição de recursos para mulheres e negros nas últimas eleições).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3851d1f192be786707b8723a24d377b868308898cb5e25650bbaf5fdb0a60ffa
+size 379

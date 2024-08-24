@@ -1,1 +1,3 @@
-Apoio à chamada PEC da Música. Conveniência de adiamento para o próximo exercício da votação do projeto de lei sobre a criação do novo Código Florestal brasileiro. Participação do orador na inauguração do SENAI no Município de Nova Serrana, Estado de Minas Gerais. Importância do ensino profissionalizante. Apresentação pela bancada federal mineira de emenda orçamentária destinada à implantação do ensino a distância pela Universidade Estadual de Minas Gerais - UEMG. Posse do Prof. José Murilo Resende na Presidência da Fundação de Educação para o Trabalho de Minas Gerais - UTRAMIG.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c01f5c00c18a46c23acf18376a38b30fab3343cca0db1f607890698e2005e94
+size 615

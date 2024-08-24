@@ -1,1 +1,3 @@
-Reunião dos Prefeitos do Estado do Ceará com o Ministro da Integração Nacional, Hélder Barbalho, para debate sobre a crise hídrica no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae2194779eff26d5e47b189475b581bf7806a665aca5692237567967925fb92a
+size 147

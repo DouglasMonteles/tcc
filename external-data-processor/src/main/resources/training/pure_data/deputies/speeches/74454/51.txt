@@ -1,1 +1,3 @@
-Regozijo com a escolha de Fortaleza para subsede da Copa do Mundo de Futebol de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac2bf7733e40d0aea79331ba4046ca5c2245403f3b563a86c8fa7acecbd7d8f1
+size 85

@@ -1,1 +1,3 @@
-Posicionamento contrário do Governo  ao  Requerimento de retirada da pauta da Ordem do Dia da PEC 61 de 2011 (Altera o art.  76 do Ato das  Disposições Constitucionais Transitórias, para prorrogar   a vigência da Desvinculação de Receitas da União -  DRU até 31 de dezembro de 2015).
+version https://git-lfs.github.com/spec/v1
+oid sha256:de4528b6d4d77720df4c5df4125ffdb2f049fab89b8fab60aab2a34f0b9374d7
+size 292

@@ -1,1 +1,3 @@
-Relevância do Programa Brasil Profissionalizado, lançado pelo Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d58c158945124c5a5d4486d0b0b00d95ca74bb73a6291e7aa7b6bd7ee668bcb2
+size 99

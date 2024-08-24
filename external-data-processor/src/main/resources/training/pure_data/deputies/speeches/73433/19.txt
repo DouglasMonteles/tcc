@@ -1,1 +1,3 @@
-Manifestação de pesar pelo falecimento do ex-Deputado Federal Chico Pinto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ac42410c32435b23e97361688af3c0307c3318ca35d7e210dc5b9dbcbcb071d
+size 76

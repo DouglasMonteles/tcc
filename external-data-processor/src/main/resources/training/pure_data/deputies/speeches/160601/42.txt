@@ -1,1 +1,3 @@
-Congratulações à Casa e ao Presidente Eduardo Cunha pela aprovação de proposição de interesse da população.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3ce321f76142640dfb2b23ffcc86cad83f28331a59571479aca288e9b725093
+size 116

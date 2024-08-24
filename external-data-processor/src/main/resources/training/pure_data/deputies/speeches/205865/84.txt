@@ -1,1 +1,3 @@
-Apoio à aprovação do Projeto de Lei Complementar nº 19, de 2019, sobre a definição dos objetivos do Banco Central do Brasil, a sua autonomia, a nomeação e exoneração do Presidente e Diretores da instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b08342cefc2293c3de316d2b2ff1e81e144e607a04b10c63fd5a10f50ac78540
+size 219

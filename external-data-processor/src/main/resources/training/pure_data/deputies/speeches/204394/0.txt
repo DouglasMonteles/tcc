@@ -1,1 +1,3 @@
-Preocupação do orador com a flexibilização da posse de armas de fogo no País e com as alterações no Código Penal brasileiro. Defesa da realização de investimento na educação e na inclusão social para redução da violência. Sucesso da implantação do Projeto de Inclusão Social por meio da Música e das Artes - Prima, no Estado da Paraíba. Necessidade de revisão do pacto federativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8745ca25e5344f3a30e96af16f810c0793258b232f75449de47a5dbe73c1b4e0
+size 402

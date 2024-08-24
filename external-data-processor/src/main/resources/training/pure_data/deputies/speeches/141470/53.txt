@@ -1,1 +1,3 @@
-Convocação dos Deputados do PT ao plenário para registro de presença. Visita do Presidente Luiz Inácio Lula da Silva aos Estados do Ceará e de Pernambuco para acompanhamento das obras da Ferrovia Transnordestina. Assinatura, pelo Governador Cid Gomes, da ordem de serviço para construção de hospital no Município de Juazeiro do Norte, Estado do Ceará. Relevância da obra para a região do Cariri.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed10e4572912af45c9b05b1236e695d8f4bceb4278a92111a84aa13f319043e6
+size 408

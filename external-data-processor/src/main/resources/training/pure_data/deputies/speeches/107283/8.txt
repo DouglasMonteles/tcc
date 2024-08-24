@@ -1,1 +1,3 @@
-Contestação ao discurso de Deputado a respeito da oradora e da Deputada Benedita da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74249fd5b84aef10a912c8e3346fae3b2ecadd73a87af4e3b2a04231770b9a00
+size 92

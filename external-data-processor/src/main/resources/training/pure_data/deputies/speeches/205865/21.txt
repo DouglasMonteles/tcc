@@ -1,1 +1,3 @@
-Falecimento do Grão-Duque Jean, de Luxemburgo. Necessidade de realização da reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27ad4790dca8335af8e2969a9a4c159a5d030f4941a9d88dc9d6ea6f1a2f0951
+size 110

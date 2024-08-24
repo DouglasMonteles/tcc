@@ -1,1 +1,3 @@
-Fortalecimento e reconhecimento do trabalho voluntariado no mundo. Contribuição do voluntariado brasileiro para a melhoria das condições sociais do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a61386f89b22db154c92eee0707887fe21a5a1e79cab0c4522eea76954915ded
+size 158

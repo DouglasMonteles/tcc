@@ -1,1 +1,3 @@
-Libertação da ex-Senadora Ingrid Betancourt, seqüestrada pelas Forças Armadas Revolucionárias  da Colômbia - FARC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:882cd261581ee3c9434e6ef39e2d79cd8e3cd4367d0320cab3a306caa621731b
+size 120

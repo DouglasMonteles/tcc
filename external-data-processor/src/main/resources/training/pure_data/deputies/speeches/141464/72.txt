@@ -1,1 +1,3 @@
-Importância da aprovação das Emendas do Senado ao Projeto de Lei de Conversão 10 de 2009 (Medida Provisória 457 de 2009), sobre o parcelamento de débitos previdenciários de Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fde49800365cea954297faf868996213ca838bf732cb026bbcabb651ab82bfe6
+size 192

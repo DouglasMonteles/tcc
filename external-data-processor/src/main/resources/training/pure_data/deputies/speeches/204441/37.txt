@@ -1,1 +1,3 @@
-Eleição do Deputado Silas Câmara para a Presidência da Frente Parlamentar Evangélica. Não indicação de membros da Frente para ocupação de cargos no Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e5469545c0d0e694cb739815d12a76b685452ca37ee3c439f7aecf854c0b329
+size 181

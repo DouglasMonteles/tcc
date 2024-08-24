@@ -1,1 +1,3 @@
-Vinculação entre as gestões de governadores petistas e os índices de violência registrados no Estada da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98b0172d408ce8fc65b47f41de9c65206a2fa2cb4619434f8fcad0712492c3cf
+size 115

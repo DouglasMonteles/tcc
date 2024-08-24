@@ -1,1 +1,3 @@
-Acerto da edição da Medida Provisória nº 894, de 2019, sobre a instituição da pensão especial aos portadores de microcefalia. Defesa de manutenção, pela medida provisória, do Benefício de Prestação Continuada - BPC concedido às famílias das crianças atingidas pela malformação congênita.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18d1125cb20378a8373514ef2f3eb4125203880b3c18809895fc8fd80ad6f7f0
+size 306

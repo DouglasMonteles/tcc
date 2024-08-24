@@ -1,1 +1,3 @@
-Transcurso do Dia da Vitória, em comemoração à derrocada nazista na Europa. Enaltecimento da participação da Força Expedicionária Brasileira na 2º Guerra Mundial. Transcurso do Dia de Nossa Senhora de Fátima e do Dia da Redentora. Regozijo do orador com a aprovação do Projeto de Lei nº 3.729, de 2004, sobre o licenciamento ambiental; regulamentação do inciso IV do § 1º do art. 225 da Constituição Federal; alteração das Leis nºs 9.605, de 1998, e 9.985, de 2000; e revogação de dispositivo da Lei nº 7.661, de 1988. Elogio à atuação do Ministro da Infraestrutura, Tarcísio de Freitas. Visita do Presidente Bolsonaro ao Estado de Alagoas. Contestação dos dados apresentados pelo Instituto Datafolha sobre a popularidade do Presidente da República. Defesa da eficácia do tratamento preventivo contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93c0bf3d96b66f1d9c7e9940ac7a82ee5cd300cd01b6c0b2b73291c26a1d4614
+size 845

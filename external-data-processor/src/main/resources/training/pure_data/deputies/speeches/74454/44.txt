@@ -1,1 +1,3 @@
-Decretação de estado de emergência em Municípios atingidos pelas enchentes no Estado do Ceará. Garantia de abastecimento de água a comunidades cearenses com o transbordamento de açudes, especialmente do Castanhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a385f519d6cb580d558061c4e03d1073773f66636d6596790141244ba51c6dc
+size 221

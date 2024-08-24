@@ -1,1 +1,3 @@
-Razões do apoio do PSL à proposta de reforma previdenciária. Excelência da atuação do Líder do Governo na Casa .
+version https://git-lfs.github.com/spec/v1
+oid sha256:d81c206e5aa9290cae1f0df493edace7bde1661091dcc2a035cc9fc8c4d626cc
+size 119

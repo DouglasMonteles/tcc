@@ -1,1 +1,3 @@
-Necessidade de realização da reforma política e de reformulação do Regimento Interno da Casa. Apelo ao Governo Ibaneis Rocha de digitalização e racionalização dos gastos da Junta Comercial do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8f778609d6452dd7f7dbcf62ccaf4bd310cbdce8778d36ea7aeaa898dba0e1e
+size 218

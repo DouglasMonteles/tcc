@@ -1,1 +1,3 @@
-Recusa pelo  Ministro da Economia, Paulo Guedes, de participação em debate técnico sobre a reforma previdenciária. Manutenção da aposentadoria dos Parlamentares no processo de reformulação da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cd5b7f4aa1fdf1046f9bba47db7e55a6c001507971d4f16aad858b4787be21f
+size 220

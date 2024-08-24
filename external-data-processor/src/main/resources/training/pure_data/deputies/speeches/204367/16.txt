@@ -1,1 +1,3 @@
-Presença, na Casa, do otorrinolaringologista Rafael Búrigo Locks, em busca de apoio à habilitação da Audiosul Clínica Auditiva, no Município de Criciúma, Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbd6259b492908e542a529f0436ffef380de253fc50afd722bea8e341db1c8e5
+size 187

@@ -1,1 +1,3 @@
-Pedido de apoio a proposição de autoria do orador com vista à padronização do local de informação do prazo de validade de produtos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ecf94d65563cf2ef5cad10f322818bf5247a250fd9ff3bd5a86824d7b6a7fed
+size 138

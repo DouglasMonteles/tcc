@@ -1,1 +1,3 @@
-Repúdio às acusações generalizadas dos Parlamentares da Oposição contra o Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f47878a5d48e9f7b00c9eeb645313fa504118e95e465b0fdeeb235baa7f097a
+size 106

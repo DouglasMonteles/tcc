@@ -1,1 +1,3 @@
-Conveniência de ratificação, pela Casa, de acordo celebrado entre o Governo brasileiro e a Santa Sé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abb38488d48a24647e23120a5a4b6b71fb7c346f020f79693529102d39234629
+size 104

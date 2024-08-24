@@ -1,1 +1,3 @@
-Agradecimento à Presidência pelo atendimento de demandas da bancada feminina. Importância da votação do Tratado de Marraqueche. Solicitação aos Deputados de aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e1065c8793538df5243a038649d9e93a60a8ed70daf09a3bef80b1f5c4c2f9e
+size 188

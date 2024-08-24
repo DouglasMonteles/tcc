@@ -1,1 +1,3 @@
-Redução dos preços de combustíveis e dos componentes da cesta básica. Efetivação do primeiro carregamento de lítio verde no Estado do Espírito Santo. Defesa de redução da taxa básica de juros, a Taxa SELIC, pelo Banco Central do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dff2bec870eeee28c89919c062220a50b6721825983dc659f41b17ee0179770
+size 248

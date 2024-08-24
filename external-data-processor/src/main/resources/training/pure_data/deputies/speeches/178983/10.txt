@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Homenagem às mulheres brasileiras, especialmente à genitora do orador e ex-Prefeita do Município de Guararema, Estado de São Paulo, Conceição Apparecida Alvino de Souza. Avanços da luta pela igualde de gênero no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42196bb01970895da682934400f707be6215dd471e538d5a9473c4d3bd578d71
+size 270

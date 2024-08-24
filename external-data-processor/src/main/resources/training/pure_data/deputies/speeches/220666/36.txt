@@ -1,1 +1,3 @@
-O Deputado agradeceu a presença do ex-Ministro do Turismo, Dr. Carlos Brito, e do ex-Presidente da EMBRATUR, Silvio Nascimento. Anunciou o lançamento da candidatura do ex-Ministro Gilson Machado Neto a prefeito do Recife.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d9717f2469878257a1fb683ca42194ffbea0961110a7bd4c78ff974e5131cb5
+size 223

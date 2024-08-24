@@ -1,1 +1,3 @@
-Orientação de bancada na votação das Emendas de Plenário de nºs 1, 4, 5 e 11, com parecer contrário, apresentadas à Medida Provisória nº 927, de 2020, acerca de medidas trabalhistas destinadas ao enfrentamento do estado de calamidade pública decorrente da pandemia de coronavírus (Decreto Legislativo nº 6, de 2020), ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ad4c75ba14a3517abc394413491178362abd8c1b5f3db2d9705cb46f4210906
+size 355

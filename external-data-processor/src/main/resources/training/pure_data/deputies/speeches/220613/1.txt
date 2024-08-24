@@ -1,1 +1,3 @@
-Aplausos à gestão do Governador do Estado do Rio de Janeiro, Cláudio Castro. Congratulação ao Deputado Estadual Bacellar pela eleição para o cargo de presidente da Assembleia Legislativa do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee307517649fb127a821db8f53adca88b53b0e79bba490a4e2341f1db6fc8cd5
+size 222

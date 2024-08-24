@@ -1,1 +1,3 @@
-Regozijo com a aprovação do Projeto de Lei nº 8.920, de 2017, sobre a inspeção industrial e sanitária dos produtos de origem animal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e83eb37abe17dcd4954745b1f6b189cf947e21fbba0a1ff046a345b97af81e39
+size 138

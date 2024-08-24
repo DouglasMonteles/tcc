@@ -1,1 +1,3 @@
-Reunião do Presidente Luiz Inácio Lula da Silva com Governadores dos Estados da Região Nordeste, para definição dos recursos destinados ao atendimento das populações atingidas pelas inundações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd50de62ed2c0080edd36fe7cf2cb2af5cf9e1cee4f093918f10391932c0aa7f
+size 202

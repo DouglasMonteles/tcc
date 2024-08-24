@@ -1,1 +1,3 @@
-Destaque do Colégio de Aplicação, da Universidade Federal de Viçosa, Estado de Minas Gerais, no Exame Nacional do Ensino Médio - ENEM. Excelência da qualidade de ensino da instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0d7d694d5db36d0bf9ea8b528ba4e0d4fa70502956362714b2f71bd7e15bf7a
+size 192

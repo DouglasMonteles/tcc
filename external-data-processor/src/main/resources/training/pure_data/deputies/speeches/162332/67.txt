@@ -1,1 +1,3 @@
-Realização do XXIV Festival Nipo-Brasileiro pela Associação Cultural e Esportiva de Maringá - ACEMA, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7943c3a1f3532cc1b4bc9a4ab0e16f52107bd44d6cb2832a2defa565f44c494a
+size 124

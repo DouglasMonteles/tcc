@@ -1,1 +1,3 @@
-Solidariedade ao Reitor da Universidade Estadual de Montes Claros - UNIMONTES, Padre Antônio Alvimar, diante de ataques desferidos por professores sindicalistas durante reunião do Conselho Universitário  - CONSU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb2e9aa62eec4fe17256dc7acebe90f66a3d3eead1826164d4bc2ea35af21096
+size 215

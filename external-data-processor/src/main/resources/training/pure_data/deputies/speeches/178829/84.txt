@@ -1,1 +1,3 @@
-Crítica à manifestação do Prefeito Municipal de São Mateus do Sul, Estado do Paraná, contra decisão do Corpo de Bombeiros de indeferimento de realização de evento festivo em face da não adoção de medidas de segurança exigidas por lei. Defesa da autonomia das Polícias Civil e Militar e do Corpo de Bombeiros Militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73f264cedc66f91095c0c679fb4b05e91c3c8e9f1843fce0842af01be5b0a16b
+size 330

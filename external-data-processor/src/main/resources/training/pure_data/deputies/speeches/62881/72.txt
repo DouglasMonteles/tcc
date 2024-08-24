@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a inscrição dos nomes dos Srs. Bárbara Pereira de Alencar, Líder da Confederação do Equador, e Francisco José do Nascimento, conhecido como o Dragão do Mar, no Livro dos Heróis da Pátria. Convocação dos Deputados ao Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57fec612f20123b4246a5ab609451272db38a1f6204200394b3cfac7defc29fe
+size 277

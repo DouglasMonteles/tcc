@@ -1,1 +1,3 @@
-Congratulações ao Governador do Estado de Santa Catarina, Jorginho Mello, e a Secretária de Estado da Saúde, Carmem Zanotto, pela implementação do Programa Estadual de Cirurgias Eletivas. Liberação pelo Ministro dos Transpores, Renan Calheiros Filho, de recursos para conclusão das obras de duplicação da BR-470, no Estado. Transcurso dos 8 anos de falecimento do ex-Governador Luiz Henrique da Silveira. Participação no lançamento de documentário do saudoso Senador Nelson Carneiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9baf70d4e0a7f39167dc9ad605b1749ea2cd38b00f7eccea1d5222ab333b6e91
+size 498

@@ -1,1 +1,3 @@
-Posicionamento da Presidenta Dilma Rousseff no tocante à distribuição de royalties de petróleo a Estados e Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0445e4906cb8bd7317af0f13bcbf443f973facdb69792dd933be126cd3229b1f
+size 135

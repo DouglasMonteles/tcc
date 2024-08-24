@@ -1,1 +1,3 @@
-Posse do ex-Deputado Enio Verri no cargo de Diretor-Geral da empresa Itaipu Binacional. Bandeiras defendidas pelo orador no exercício do mandato parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3141d0f34a10a6ad6d0a3ba34bf0da42a04dab85247830ac5015a5058eef40b7
+size 158

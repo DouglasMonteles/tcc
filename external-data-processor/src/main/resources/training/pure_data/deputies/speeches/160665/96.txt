@@ -1,1 +1,3 @@
-Indignação com atraso de obras da Copa do Mundo de Futebol de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76382690cb7a6a6e7ab43fc85e22db58523b5d645f0af0448378b495bee79225
+size 69

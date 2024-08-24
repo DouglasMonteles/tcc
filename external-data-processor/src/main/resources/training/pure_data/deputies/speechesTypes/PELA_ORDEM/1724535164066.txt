@@ -1,1 +1,3 @@
-Inconstitucionalidade de projeto aprovado pela Câmara Municipal de Uberlândia, Estado de Minas Gerais, sobre a proibição das discussões de gênero nas escolas. Importância do debate sobre o feminicídio, a violência doméstica e o abuso sexual de crianças em seus próprios lares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4f523c23a0fc5dc761de7bf60f913468b63edd82a681227b453815e5b645947
+size 288

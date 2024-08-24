@@ -1,1 +1,3 @@
-Presença na Casa do Deputado Estadual do Estado do Pará, Coronel Neil. Contrariedade ao Projeto de Lei Complementar nº 257, de 2016, que estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal. Repúdio a declaração de dirigente da Confederação Nacional dos Trabalhadores na Agricultura - CONTAG de conteúdo ameaçador a Parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b266ae8227b73a21b419a59dab59fd2b116039b1524ceb5a1a98f40c32fea028
+size 399

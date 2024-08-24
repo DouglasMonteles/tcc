@@ -1,1 +1,3 @@
-Congratulações ao Presidente Michel Temer e ao 2º Secretário da Mesa Diretora, Deputado Inocêncio Oliveira. Elogio aos Deputados Ciro Nogueira e Aldo Rebelo pela conduta nas eleições da Mesa Diretora. Solidariedade ao Deputado Beto Albuquerque pelo falecimento de seu filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34a2710ac15566fceeb089cc1c97c57a60847cf70578bf44b438513d53efb412
+size 281

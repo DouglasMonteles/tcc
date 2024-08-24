@@ -1,1 +1,3 @@
-Presença na Casa da Prefeita Adelita Parmezan de Moraes, do Município de Quatigá, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ab90bab0167c750f5158f2d6cbb906be58e6fc04ce30c07e4c0ebf6cbe80b63
+size 103

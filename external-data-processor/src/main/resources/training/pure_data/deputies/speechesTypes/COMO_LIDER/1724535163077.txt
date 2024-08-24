@@ -1,1 +1,3 @@
-Comemoração do 90º aniversário de fundação da Igreja Evangélica Assembleia de Deus, do Ministério de Madureira. Relevância dos serviços sociais prestados pela instituição religiosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c86dc9157cd0af787709abbb72c9501d610678bc1b68479cebf1ba756fae170
+size 193

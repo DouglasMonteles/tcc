@@ -1,1 +1,3 @@
-Registro de voto. Apelo ao Governo e ao Relator da matéria para supressão de expressão do texto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2827365a75af474649c6eb4a44e0a4165d3eb4b58fec77e39d8ecfc3b61a7ed4
+size 99

@@ -1,1 +1,3 @@
-A Deputada discutiu o Projeto de Lei nº 5.497, de 2019, que altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, sobre o estabelecimento dos princípios gerais da Política Nacional do Cinema, para prorrogar o prazo de obrigatoriedade de exibição comercial de obras cinematográficas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89de1dd85d864a1885a8d5111c3fdddfd9ee37790f6ce45cac270d4165f4ea34
+size 313

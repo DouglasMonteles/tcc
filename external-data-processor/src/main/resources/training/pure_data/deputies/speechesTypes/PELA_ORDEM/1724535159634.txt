@@ -1,1 +1,3 @@
-Protesto contra o não pagamento do piso salarial nacional dos profissionais da enfermagem. Exigência de concessão, pelo Presidente Luiz Inácio Lula da Silva, de tratamento isonômico entre a categoria e o meio cultural. Indagação sobre o vínculo da Ministra do Turismo, Daniela Carneiro, com milicianos do Rio de Janeiro. Solicitação ao PT de informações a respeito dos mandantes do assassinato do Prefeito de Santo André, Celso Daniel; do acidente aéreo ocorrido com o Ministro do Supremo Tribunal Federal, Teori Zavascki; e dos mandantes do atentado praticado contra a vida do então presidenciável Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dd42b3d0f33a17eac6d44fc0588827d75e19bcb0b5a032619fa9be46cc6657e
+size 630

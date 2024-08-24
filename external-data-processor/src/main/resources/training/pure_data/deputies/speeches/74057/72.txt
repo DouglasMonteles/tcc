@@ -1,1 +1,3 @@
-Visita de Deputados italianos à Casa. Apoio à decisão do Ministro da Justiça, Tarso Genro, de concessão de visto a perseguido político italiano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1efdb23aba4b99726a899132e82c8d840cbed26447c59a62fe3f27da42cdf758
+size 150

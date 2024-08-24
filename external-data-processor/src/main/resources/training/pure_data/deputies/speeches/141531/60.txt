@@ -1,1 +1,3 @@
-Descaso do Governo Federal com a cafeicultura brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ac52d307bf55f983ecda820a786cf53becb2e26faf57638c53b570035bd9840
+size 57

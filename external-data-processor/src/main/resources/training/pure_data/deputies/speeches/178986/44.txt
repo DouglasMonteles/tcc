@@ -1,1 +1,3 @@
-Constrangimento a representante da Confederação Nacional dos Trabalhadores na Agricultura - CONTAG por Deputados da bancada ruralista em sessão da CPI da FUNAI e INCRA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d9211c9832f371b07deb278d28cb72f9ac81e8ff07519a1857f4350ce23704e
+size 171

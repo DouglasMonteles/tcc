@@ -1,1 +1,3 @@
-Solidariedade à manifestação de indignação do Padre Luiz Marques Ferreira, da Paróquia do Município de Afogados da Ingazeira, Estado de Pernambuco, diante da falta de ações efetivas do Governo Federal para combate aos efeitos da estiagem na Região Nordeste. Relação das municipalidades pernambucanas em situação de emergência em razão da seca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78da44f2041df90d11f7f0df17ca9d1c8114d1564f1c92e04314f40651fe227d
+size 359

@@ -1,1 +1,3 @@
-Acerto da suspensão de importações de café pelo Ministério da Agricultura, Pecuária e Abastecimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80c46a0c86bb2f36a7efdd0184ef3734d0ee584b97efe487fc52f6b3d842f5d4
+size 106

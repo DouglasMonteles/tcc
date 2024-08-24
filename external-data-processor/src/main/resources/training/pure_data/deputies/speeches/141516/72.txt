@@ -1,1 +1,3 @@
-Repúdio à tentativa do Governo Federal de intervenção na empresa Vale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b11fa7436a4ed3232dc3695f5e6a891f2c5f567eedc8f5b542974cafc1bdd4e3
+size 74

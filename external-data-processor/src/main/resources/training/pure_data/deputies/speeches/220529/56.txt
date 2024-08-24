@@ -1,1 +1,3 @@
-Realizações do Prefeito Paulo Cola, do Município de Piúma, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:985097c1121a3fc58113e09bc95a5ea36cca4415ed8583c52ff30cf215df1eca
+size 89

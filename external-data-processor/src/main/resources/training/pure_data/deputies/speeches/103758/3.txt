@@ -1,1 +1,3 @@
-Inauguração da loja número mil da rede de Farmácias São João, sediada no Município de Passo Fundo, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b841940b36c6894b6f3f648d1f6c8742e909bd916ffc14dc39fcecf9eb88019b
+size 134

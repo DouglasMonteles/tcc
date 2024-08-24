@@ -1,1 +1,3 @@
-Obstrução dos trabalhos até a votação da proposta de extinção do fator previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:238c7e7727b25df79b291eebd43b0dd5dbd5530af638b46fbe1c6c0973f4ed79
+size 94

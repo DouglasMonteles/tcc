@@ -1,1 +1,3 @@
-Transcurso do 7º aniversário de promulgação da Lei nº 11.340, de 2006, a chamada Lei Maria da Penha, coibitiva da violência doméstica contra as mulheres. Conclusões da CPMI destinada à investigação de denúncias de crimes contra as mulheres. Conveniência de aperfeiçoamento do arcabouço legal destinado à redução da violência de gênero.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eb716ae3ecf19afa4f1aaabec99a1e8846037056b097ae7c8010c04a684fbde
+size 355

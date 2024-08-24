@@ -1,1 +1,3 @@
-Congratulações ao Cascavel Futsal Clube, do Estado do Paraná, pela conquista do bicampeonato da CONMEBOL Libertadores de Futsal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8179d7d3ab4394a193e298124c524c1344cf824b9c63bc3eb51dbcbd36feff5c
+size 131

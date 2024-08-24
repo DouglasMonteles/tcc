@@ -1,1 +1,3 @@
-Desrespeito do Ministro a Educação para com os Deputados. Equívoco da nomeação do Sr. Abraham Weintraub para a Pasta da Educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b077faefb032b5473e03589ed68472683d4bde4b214b09c7beaff0edb310adc0
+size 136

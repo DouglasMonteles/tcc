@@ -1,1 +1,3 @@
-Congratulações ao Presidente Jair Bolsonaro pela adoção de medida para o barateamento do preço dos combustíveis. Atuação do Governo Federal para a mitigação dos efeitos da pandemia de coronavírus sobre a vida da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:404a1e80d332a723e3ed8a290c1b9002edbd1526cd7fc90108a84d45a4980c3c
+size 246

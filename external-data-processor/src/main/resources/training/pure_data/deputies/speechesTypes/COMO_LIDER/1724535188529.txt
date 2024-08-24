@@ -1,1 +1,3 @@
-Relevância das ações desenvolvidas pela Fundação Bradesco em prol da educação e da inclusão social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a4396c8622dcbd5e146c2efedc18c0e65ae20ffc4e97e6ceb6e1ce188be5c92
+size 107

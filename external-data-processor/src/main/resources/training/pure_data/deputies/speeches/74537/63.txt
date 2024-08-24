@@ -1,1 +1,3 @@
-Visita do Presidente da Coréia do Sul, Lee Myung-bak, ao País. Ampliação de negócios bilaterais entre o Brasil e a Coréia do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cb00c212461311ced7511d26489154958f62e6f49ec7acc88865d52097ad86c
+size 135

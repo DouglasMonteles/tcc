@@ -1,1 +1,3 @@
-Importância cultural e econômica das festas juninas realizadas na Região Nordeste. Participação do orador nas festividades juninas realizadas no Município de São Francisco do Conde, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2ee524317f6568819316e3a0687c1441b7983d41904fea75b18542b0bebe54c
+size 205

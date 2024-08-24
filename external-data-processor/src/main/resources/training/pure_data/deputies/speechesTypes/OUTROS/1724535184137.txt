@@ -1,1 +1,3 @@
-O Deputado no exercício da Presidência indeferiu questão de ordem formulada pela Deputada Laura Carneiro com base no art. 155 do Regimento Interno, alegando que não há decisão monocrática do Presidente, mas sim submissão das decisões ao Plenário. Concedeu a palavra ao Deputado Márcio Jerry para encaminhar a votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 4.396, de 2023, que altera os artigos 1º, 2º, 3º e 4º da Lei nº 14.583, de 2023, incluindo as pessoas com deficiência nas políticas de difusão dos direitos fundamentais e dos direitos humanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12cfa791130f5c7b972d5688f312569e1f49a1809cfad43f3f861644c28f36fb
+size 607

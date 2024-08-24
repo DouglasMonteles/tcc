@@ -1,1 +1,3 @@
-Promoção, pela Federação das Santas Casas e Hospitais Beneficentes do Estado de São Paulo - FEHOSP, do 22º Congresso de Presidentes, Provedores, Diretores e Administradores Hospitalares de Santas Casas e Hospitais Beneficentes do Estado de São Paulo. Anúncio, pelo Ministério da Saúde, de criação de grupo de trabalho para exame da crise das Santas Casas de Misericórdia. Realização de encontro de Prefeitos Municipais para debate da situação financeira das instituições de saúde, no Município de Valença, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d751895c8459970b8585ee4f813c8bb7d10b40d5db65ab3a0da6b8ba048b9d98
+size 544

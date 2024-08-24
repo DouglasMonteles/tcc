@@ -1,1 +1,3 @@
-Êxito da participação de agricultores familiares na 38ª EXPOINTER, destinada à promoção da tecnologia agropecuária e agroindustrial, no Município de Esteio, Estado do Rio Grande do Sul. Importância da agricultura familiar para o desenvolvimento do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88efafcc4f9e65ed156bf68924cb7f03d2b15cc1b29cf827d6f0eaecfd928490
+size 264

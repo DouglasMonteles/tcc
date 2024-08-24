@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda de Comissão nº 10 apresentada à Medida Provisória nº 1.128, de 2022, sobre o tratamento tributário aplicável às perdas incorridas no recebimento de créditos decorrentes das atividades das instituições financeiras e das demais instituições autorizadas a funcionamento pelo Banco Central do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12f648a840b53a0749cde506d9107eab21378e934b11321c46384ae4bd47d2ab
+size 402

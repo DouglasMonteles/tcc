@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre a verdadeira história da Revolução de 31 março de 1964. Aliança do Governo Luiz Inácio Lula da Silva com regimes ditatoriais. Submissão do Comandante do Exército brasileiro, general Tomás Miguel Miné Ribeiro Paiva, ao governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:358087eb98d70fee8b379892c54d9aac4a5daa52a24509cc949fa8ef13d46cab
+size 278

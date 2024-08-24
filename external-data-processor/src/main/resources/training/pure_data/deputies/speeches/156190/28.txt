@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Decreto Legislativo nº 514-B, de 2016, sobre a aprovação do texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da Jamaica para o intercâmbio de informações sobre Matéria Tributária, assinado em Kingston, em 13 de fevereiro de 2014. Solidariedade ao povo venezuelano diante de medidas adotadas pelo regime ditatorial de Nicolás Maduro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88fb9ab257fc6afe7a5e0c4ba3135e4322377d56ac54c1fb337c48174be1d14d
+size 422

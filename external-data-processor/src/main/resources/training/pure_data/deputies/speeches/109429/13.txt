@@ -1,1 +1,3 @@
-Solidariedade à Deputada Flordelis pelo assassinato do seu esposo, Pastor Anderson do Carmo de Souza. Celeridade na tramitação do Projeto de Lei nº 2.763, de 2019, sobre o estabelecimento de nova fonte de recursos para o Fundo Nacional de Segurança Pública e a transferência direta para Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2915e351b630d656c552874437b913eec1428decee80d3cdf37584b63c956b1
+size 306

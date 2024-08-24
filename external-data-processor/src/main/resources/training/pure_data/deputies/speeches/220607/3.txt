@@ -1,1 +1,3 @@
-Visita da Presidente-Executiva do Instituto Trata Brasil, Luana Pretto, ao gabinete parlamentar do orador. Universalização dos serviços públicos de saneamento básico. Encaminhamento de indicação ao Poder Executivo para divulgação de dados do censo demográfico de 2022 relativos ao setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f01c741bef437351287fe117906cba571d4542beae92d22afbf2ee1e44f91ba
+size 297

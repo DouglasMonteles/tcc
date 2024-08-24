@@ -1,1 +1,3 @@
-Pedido à Casa de apoio para aprovação do Projeto de Lei nº 1.703, de 2022, de autoria do orador, sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfac3bacde2a7eb67eb390d9ecd494085f467adae4a6eb8115d0c053101ab8c5
+size 203

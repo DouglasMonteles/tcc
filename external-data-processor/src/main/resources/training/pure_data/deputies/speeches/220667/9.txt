@@ -1,1 +1,3 @@
-O Deputado destacou a importância da audiência pública sobre o movimento brega na Câmara dos Deputados. Enfatizou o valor emocional e cultural do brega, ressaltando histórias de artistas que encontraram sucesso e superaram dificuldades. Defendeu a criação do Dia Nacional do Brega em homenagem a cantor popular, Reginaldo Rossi. Mencionou a música Espelho do Poder do cantor Conde, destacando o desejo de influenciar decisões políticas a favor da educação, combate à fome, saúde e redução da pobreza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19c0a87f6109c62db44bf5651df7f55ad35db81ca6b4161f7794af41cb8b70d2
+size 516

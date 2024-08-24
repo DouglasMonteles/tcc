@@ -1,1 +1,3 @@
-O Deputado apresentou emenda à Medida Provisória nº 1.198, de 2023, que institui poupança de incentivo à permanência e conclusão escolar para estudantes do ensino médio. Explicou que o objetivo é contribuir para o desenvolvimento do País, valorizando não apenas a formação acadêmica tradicional, mas também reconhecendo a relevância das habilidades práticas no campo profissional para o sucesso dos estudantes em suas carreiras e na sociedade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38b6edb7db8ee8eedf52ea78900655d60c67cb8ed7d22ecced6cfb490c022c47
+size 460

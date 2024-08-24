@@ -1,1 +1,3 @@
-Realização, nas dependências da Casa, do seminário Petrobras: Patrimônio do Povo Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef0398b784a9db1e8a0c7bc05c12323fad66ba69ccfeb888a41f00fe5d993dad
+size 97

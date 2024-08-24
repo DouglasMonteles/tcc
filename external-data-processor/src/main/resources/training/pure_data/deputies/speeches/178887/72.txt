@@ -1,1 +1,3 @@
-Artigo Participação, planejamento e gestão, de autoria do orador, veiculado no Jornal Pequeno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1e35a364328334d4c8d2dfa31c276b4723e62282820f08809011b07965db179
+size 97

@@ -1,1 +1,3 @@
-Agradecimento aos Parlamentares pela aprovação do Projeto de Lei nº 3.630, de 2021, sobre a alteração da Lei nº 12.764, de 2012, com vista à criação de centros de assistência integral ao paciente com Transtorno do Espectro Autista - TEA, no âmbito do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7a0683977c3804f2d7d7ecaca5ec55fc32df0b8b754b5a0cf31e791a16d6e61
+size 293

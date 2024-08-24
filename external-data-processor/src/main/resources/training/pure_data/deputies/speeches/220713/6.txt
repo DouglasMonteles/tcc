@@ -1,1 +1,3 @@
-O Deputado rebateu críticas do economista Alexandre Schwartsman sobre a Zona Franca de Manaus. Explicou que esse modelo de desenvolvimento regional foi criado para desenvolver o Estado do Amazonas e preservar a Floresta Amazônica. Destacou a importância da Zona Franca de Manaus, que faturou 98 bilhões de reais nos últimos 7 meses, empregando mais de 500 mil amazonenses e contribuindo para a preservação de mais de 90% da floresta. Enfatizou o direito dos mais de 4 milhões de habitantes do Amazonas de terem oportunidades de trabalho, renda e cidadania respeitados. Além disso, parabenizou a cidade de Manaus pelo seu aniversário de 354 anos e o time Amazonas Futebol Clube por conquistar o título da Série C do Campeonato Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf18e3b268b245c542146f2ada5f48f1ba136dd1d0fed7c4afae5a6ef5074e96
+size 749

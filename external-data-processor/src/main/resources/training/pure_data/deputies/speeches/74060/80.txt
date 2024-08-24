@@ -1,1 +1,3 @@
-Acerto da escolha do Deputado Walter Pinheiro para a Secretaria de Planejamento do Governo do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f725d5f964994dce411770c19d9a52c3152f8eefcf7e0cf4dc40832099ff5508
+size 110

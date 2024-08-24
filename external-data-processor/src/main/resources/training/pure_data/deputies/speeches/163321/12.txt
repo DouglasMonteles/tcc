@@ -1,1 +1,3 @@
-Realização, pela Assembleia Legislativa do Estado do Rio Grande do Sul e pela Casa, de sessões solenes ao ensejo do transcurso do centenário de fundação da Igreja Assembleia de Deus no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ea1a9f5d83fd04fa2cb009cd1a27fc12c6ac8946442457c031ee25da06956f0
+size 198

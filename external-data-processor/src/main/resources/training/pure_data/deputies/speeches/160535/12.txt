@@ -1,1 +1,3 @@
-Reclamação sobre a omissão da Presidência quanto ao pedido de criação de Comissão Especial para acompanhamento das obras de transposição de águas do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e95c066c3d394938d346c2c6ef2eadfc9050fa33a464eea672593c673337bad6
+size 178

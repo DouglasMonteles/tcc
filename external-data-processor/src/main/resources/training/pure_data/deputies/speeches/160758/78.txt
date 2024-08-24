@@ -1,1 +1,3 @@
-Suspensão da greve de professores no Estado de Minas Gerais. Atuação do Governador Antonio Anastasia a favor da categoria. Greve de professores dos Institutos Federais de Educação, Ciência e Tecnologia - IFETs no País. Valorização dos docentes brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8a4b279a164115645ff9faec65e2dd1f730c4ef2b2743ecb4fe75cec7b9ca5d
+size 265

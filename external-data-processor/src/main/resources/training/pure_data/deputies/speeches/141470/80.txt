@@ -1,1 +1,3 @@
-Relevância do Programa Minha Casa, Minha Vida para as famílias de baixa renda do Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e839e9d8cd944939d3016e30d160f0e8dfd0291641fa585c9f75a2d04350507
+size 100

@@ -1,1 +1,3 @@
-Transcurso do Dia do Professor. Defesa da valorização dos docentes no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ff16c0c568772172753ad7a690fb12dbbc5cd356d19d131046e0ff35d342146
+size 79

@@ -1,1 +1,3 @@
-Inconsistência das argumentações do Deputado Alexandre Padilha, do PT, contra o Projeto de Lei nº 1.674, de 2021, sobre a instituição do Certificado de Imunização e Segurança Sanitária - CSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:613f0be9f34e712b54a09e4e500a4266642eb5ba59a07e8608c3d90c02370a53
+size 201

@@ -1,1 +1,3 @@
-Discussão do Projeto de Decreto Legislativo nº 824-B, de 2017, sobre a aprovação do texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da  República de Belarus de Cooperação Educacional, assinado em São Paulo, em 13 de agosto de 2015.  Indignação com discursos em defesa do regime ditatorial de Nicolás Maduro. Contestação de críticas ao Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f613c6f47a3db8051fd45616ee68dc4b7ed0e66ed6fb5eafdf6542c64ee44e8
+size 403

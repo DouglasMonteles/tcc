@@ -1,1 +1,3 @@
-Realização, por Comissões da Casa, de seminário sobre os desafios da aviação civil brasileira. Expectativa de redução, pelo Governo do Estado de Alagoas, da alíquota do ICMS incidente sobre o querosene de aviação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68a520a230f1a687ca6e88b07e8b47ee53c415a152e7253b15658684dd903eb0
+size 224

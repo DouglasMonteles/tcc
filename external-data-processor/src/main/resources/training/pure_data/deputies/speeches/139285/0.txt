@@ -1,1 +1,3 @@
-Manifestação de pesar pelo falecimento do ex-Deputado Federal Francisco Pinto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce414608da93dc572b4bc85645cd38ae164b33bd09ce3bbd2098b1d1e99298ab
+size 80

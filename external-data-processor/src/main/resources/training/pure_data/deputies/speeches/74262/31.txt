@@ -1,1 +1,3 @@
-Posicionamento do PSDB no tocante à criação de partidos políticos. Oportunismo político-eleitoral do Governo petista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3518ee3bd0f591e220da7ec2e4fab84401929f362658b00ae72b4949bc095dec
+size 122

@@ -1,1 +1,3 @@
-Discussão do veto total ao  Projeto de Lei Complementar nº 200, de 2012, sobre a extinção da cobrança da multa de 10% do Fundo de Garantia do Tempo de Serviço - FGTS, em caso de demissão imotivada. Defesa da manutenção do veto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7ee58240f8f129528f8e4ab9eeab784d54d1bc8a2e51188bc874c8e3454ed7d
+size 236

@@ -1,1 +1,3 @@
-Subversão do procedimento de delação premiada no âmbito da Operação Lava-Jato, com tentativa de incriminação do PT e do ex-Presidente da República Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9421bbaf43d70c6cd4ea537db74722b159481c3b233d20c51975d63860c3a12e
+size 183

@@ -1,1 +1,3 @@
-Incoerência do PT no tocante ao processo de desestatização. Acerto da privatização de aeroportos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6221c3f9edb4866a32d1bb40abbd0ae3281cc2194f16b8b81b2408918b1beae5
+size 114

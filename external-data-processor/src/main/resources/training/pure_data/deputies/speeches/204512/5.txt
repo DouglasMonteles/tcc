@@ -1,1 +1,3 @@
-Cobrança de pedágios rodoviários abusivos no País, notadamente na BR-135, trecho Montes Claros-Belo Horizonte. Solicitação ao Governador do Estado de Minas Gerais de adoção de providências a respeito do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8367fbf22c3782e648833d02aa66d56315ab1070b0e74669689be6a87c318e4
+size 220

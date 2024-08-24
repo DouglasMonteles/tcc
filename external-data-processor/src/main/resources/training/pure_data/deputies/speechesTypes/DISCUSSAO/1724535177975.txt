@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 3.006, de 2022, sobre a transformação de cargos de Analista e de Técnico do Ministério Público da União em cargos de Subprocurador-Geral do Trabalho, Procurador Regional do Trabalho e em cargos em comissão, código CC-4, no âmbito do Ministério Público do Trabalho. Contestação ao discurso bolsonarista a respeito da visita do Ministro da Justiça e Segurança Pública, Flávio Dino, a comunidade na periferia do Rio de Janeiro, Estado do Rio de Janeiro. Sucesso do Programa Mais Médicos. Proposta aos Deputados oposicionistas de discussão de matérias de interesse da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ac53076af5557c822125b7131ae15419929f3de2f28ad427f8f321ec289af01
+size 640

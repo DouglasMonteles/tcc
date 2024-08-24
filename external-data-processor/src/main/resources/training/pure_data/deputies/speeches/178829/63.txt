@@ -1,1 +1,3 @@
-Convite aos Deputados para participação em festividade tradicional no Município de Barretos, Estado de São Paulo. Lançamento da Frente Parlamentar dos Rodeios. Defesa do reconhecimento de rodeios e vaquejadas como patrimônio cultural e imaterial do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ba937999a3feff5c736465f3bda4eaf5e1d3466c364977f4b4c949c956cfeff
+size 262

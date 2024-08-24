@@ -1,1 +1,3 @@
-Defesa da escolha do Município de São Lourenço da Mata, no Estado de Pernambuco, para subsede da Copa do Mundo de Futebol de 2014. Lançamento da Frente Parlamentar de Combate às Drogas. Eleição do Deputado Givaldo Carimbão para a presidência da Frente. Participação do orador nos Projetos Sara Vida e Recuperando Vidas com Jesus, destinados à recuperação de dependentes químicos. Enaltecimento da atuação do Presidente da Confederação Brasileira de Futebol - CBF, Ricardo Teixeira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ea669ba523b26920aff6df5c6d09829a6ed8f73a5cd7003370b03b8679b2f9e
+size 500

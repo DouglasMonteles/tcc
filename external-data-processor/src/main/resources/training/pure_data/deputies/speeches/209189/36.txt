@@ -1,1 +1,3 @@
-Legalidade das informações publicadas pelo portal The Intercept Brasil  sobre a combinação de procedimentos pelo então Juiz Federal, Sérgio Moro, e o Ministério Público Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43a9200d63f27aa1809a989140e8926002668a4e9af3f4d1f3d0144986b09e62
+size 185

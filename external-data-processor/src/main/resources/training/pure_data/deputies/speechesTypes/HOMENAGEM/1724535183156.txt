@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos 120 anos do Tratado de Amizade e Relações Diplomáticas entre o Brasil e o Japão.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5da4f03747104d1f0387899c07d7e05c671dbbc6a2cc2aff6884d92487797ef0
+size 265

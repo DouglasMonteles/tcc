@@ -1,1 +1,3 @@
-Realização, pela Polícia Federal, da Operação Camaro, destinada à desestruturação de quadrilha envolvida em atos de corrupção junto a Prefeituras Municipais no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d36b76ccae1518a7ca4916354194d59a0cb37f064617e57f32db554fde25ab1a
+size 196

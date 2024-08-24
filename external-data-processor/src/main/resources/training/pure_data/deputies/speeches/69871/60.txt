@@ -1,1 +1,3 @@
-Defesa da legalização dos jogos de azar no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36f1cbaef49355e86d13727a724060864ca77bfd7648c99a46183058f08a5f5d
+size 52

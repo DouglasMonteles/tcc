@@ -1,1 +1,3 @@
-Orientação de bancada do PMDB. Congratulações à Casa pela aprovação de matéria de interesse da Justiça do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b3abfa5f6922ebf4f2f5682a55b178638be77fe862255a0771b217ab4c331a2
+size 124

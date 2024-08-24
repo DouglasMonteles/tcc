@@ -1,1 +1,3 @@
-Sugestão ao Presidente de República de pedido de sabedoria a Deus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84ec0650dbb7167c699dddb8a8d33710a9cb5ee3560f2007c384fa2268396225
+size 68

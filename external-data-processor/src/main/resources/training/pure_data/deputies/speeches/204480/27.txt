@@ -1,1 +1,3 @@
-Criação pela Casa de CPI destinada à investigação da responsabilidade da empresa Vale pela tragédia socioambiental ocorrida no Município de Brumadinho, Estado de Minas Gerais, em decorrência do rompimento de barragem de rejeitos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:574de119eca15e169d3d06eda5ba0998aada48c9e2d71b915435aa7ba3c94460
+size 237

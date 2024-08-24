@@ -1,1 +1,3 @@
-Realização da II Conferência Municipal de Cultura, em Sebastião Laranjeiras, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cfb50646130579da8c1bfc662aab3729727dd91b8e294089acbb5bea35fb68d
+size 97

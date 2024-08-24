@@ -1,1 +1,3 @@
-Anúncio da apresentação, pela Frente Parlamentar pela Reforma Política com Participação Popular, do resultado de pesquisa a respeito do posicionamento dos Deputados e Senadores acerca do adiamento da apreciação da proposta de reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aad7262445ee9a40b596b2499c670c946eda95ef29f95776561bfc62af642e10
+size 252

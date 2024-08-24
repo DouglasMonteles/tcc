@@ -1,1 +1,3 @@
-Responsabilização dos Governos do PT pela inflação no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ca34ddf6b618996b86ce5f4dde8c4ce8052bd47b2ffaedd71c718a2dcbd4bd8
+size 65

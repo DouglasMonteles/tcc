@@ -1,1 +1,3 @@
-Acerto da suspensão, pelo Governador do Estado do Maranhão, Flávio Dino, do contrato de prestação de serviço da empresa FDL Serviços de Cadastro Ltda. com o Departamento de Trânsito do Maranhão - DETRAN-MA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0be66c6996c727d0a4e971b5a0c9840a63e00b5cbf7b2b43b8e7c51ed057f0f
+size 215

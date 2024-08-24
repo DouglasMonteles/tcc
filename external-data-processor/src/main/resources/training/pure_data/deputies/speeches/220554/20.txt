@@ -1,1 +1,3 @@
-Defesa de manutenção do caráter público das empresas estaduais de saneamento. Contrariedade à privatização da Companhia Riograndense de Saneamento - CORSAN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e88134b83659e3239130f7a8f88df8bc3e6667f5778b7cd40d479a464aee38f
+size 163

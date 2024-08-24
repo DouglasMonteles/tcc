@@ -1,1 +1,3 @@
-Comprometimento das atividades da Universidade Federal do Piauí e do Instituto Federal de Educação, Ciência e Tecnologia diante de cortes de recursos orçamentários pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7a45ab0448b7a9a44612169ac9961167ec1faa27228d7895969dcc05e56bd93
+size 191

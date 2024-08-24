@@ -1,1 +1,3 @@
-Votação do projeto sobre a Lei de Diretrizes Orçamentárias - LDO de 2010. Importância da realização de investimentos internos no País. Acerto das medidas adotadas pelo Presidente Luiz Inácio Lula da Silva para enfrentamento dos efeitos da crise financeira internacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:893e896eacd4b68c5a44fc311cbcb7ab0e80101a241b5da20250753c500f8513
+size 279

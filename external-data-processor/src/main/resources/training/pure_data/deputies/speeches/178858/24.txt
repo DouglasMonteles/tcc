@@ -1,1 +1,3 @@
-Canonização da Irmã Dulce. Apresentação do Projeto de Lei nº 5.528, de 2019, sobre a instituição do Dia Nacional da Santa Dulce dos Pobres. Pedido ao Presidente Rodrigo Maia e aos Líderes partidários de votação da propositura em regime de urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0841e718b0727116e53e339eb76a29c293bf253d0cbca1f0c0c0ddefd5d372c
+size 261

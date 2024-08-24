@@ -1,1 +1,3 @@
-Massacre de trabalhadores rurais na região da tríplice fronteira, entre os Estados do Acre, Amazonas e Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42afb0323761114c07f535c9b7515ec29679050696a8085346904190d5254fc5
+size 115

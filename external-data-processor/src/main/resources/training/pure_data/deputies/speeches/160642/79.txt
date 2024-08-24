@@ -1,1 +1,3 @@
-Realização, pela Comissão de Direitos Humanos e Minorias, da Casa, de audiência pública destinada ao debate de questões referentes à família, especialmente do combate à violência sexual contra crianças.
+version https://git-lfs.github.com/spec/v1
+oid sha256:372643f74c223d570ea73401970baa47dc6420e83153428da1a99be5eca7b0a5
+size 213

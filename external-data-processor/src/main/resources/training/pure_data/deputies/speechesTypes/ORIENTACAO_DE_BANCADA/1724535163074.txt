@@ -1,1 +1,3 @@
-Posicionamento contrário do PP à Emenda 3, do Senado, destacada, ao Projeto de Lei de Conversão 12 de 2009 (Medida Provisória 460 de 2009) que dá nova redação aos arts. 4º e 8º da Lei 10.931 de 2004, que tratam de patrimônio de afetação de incorporações imobiliárias, dispõe sobre o tratamento tributário a ser dado às receitas mensais auferidas pelas empresas construtoras no contratos de construção de moradias firmados dentro do Programa Minha Casa, Minha Vida - PMCMV, atribui à Agência Nacional de Telecomunicações - ANATEL as atribuições de apurar, constituir , fiscalizar e arrecadar a Contribuição para o Fomento da Radiodifusão Pública, e dá outras providências, que permite a diferenciação de preços nos pagamentos à vista em  relação aos pagamentos com cartão de crédito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2724b9a5ceda4116ed40004f0cf6d7e3d04ea3445b8f0dd41632d5ac5d31665
+size 822

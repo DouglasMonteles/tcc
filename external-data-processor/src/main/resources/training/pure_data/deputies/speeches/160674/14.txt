@@ -1,1 +1,3 @@
-Contribuição do Sistema Itatiunga de Comunicação para o desenvolvimento do Município de Patos e de todo o sertão do Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84d7f9e73e9bbd2473ec379211b4c5bbbd20273bf4bf4cf262b58fa4f1ebd58a
+size 141

@@ -1,1 +1,3 @@
-O Deputado homenageou os 40 anos de criação do jornal Folha de Boa Vista, do Estado de Roraima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44b350c6ce0f3ddbf3479dbcb95abe551d6348e463800d37c769fe4548689f21
+size 97

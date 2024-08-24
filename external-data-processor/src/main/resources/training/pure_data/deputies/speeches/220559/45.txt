@@ -1,1 +1,3 @@
-A Deputada apresentou questão de ordem referente às críticas injustas e ao tratamento hostil dispensados ao Deputado Federal Abilio Brunini.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcd08df83c302e5c27dae37a713059c1735337ff154fd6ce98e959c7b0c73ba2
+size 143

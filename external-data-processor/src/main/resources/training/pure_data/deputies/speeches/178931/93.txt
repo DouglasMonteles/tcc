@@ -1,1 +1,3 @@
-Realização da 11ª Feira de Móveis do Estado do Paraná - MOVELPAR. Importância do evento para o setor moveleiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39307e2ea7f029975e8f2fc93ac87c56eafb8dbd99ec1f5b6ced2ad916943c2f
+size 117

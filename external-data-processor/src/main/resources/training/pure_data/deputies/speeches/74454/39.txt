@@ -1,1 +1,3 @@
-Efeitos positivos das chuvas no Estado do Ceará. Recuperação da indústria  e do comércio cearenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af2670d178ceecaff34060a3cffd41ac5d8cd0e4eb70da1d4b2a3843471945dd
+size 104

@@ -1,1 +1,3 @@
-Utilização de tornozeleiras eletrônicas por presidiários incluídos nos regimes aberto e semiaberto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02aee34c620b66b38072908338ee766fa0400a65fbe3fe85d5068df6079f93ea
+size 104

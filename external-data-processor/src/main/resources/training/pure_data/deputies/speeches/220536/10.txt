@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com o desabastecimento do medicamento risanquizumabe para psoríase no SUS, cobrando ação imediata do Governo Federal para garantir o acesso à saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f61178392dc72a016e27d1233cad71c21afa8115a231cda55c97b47ee790de4
+size 188

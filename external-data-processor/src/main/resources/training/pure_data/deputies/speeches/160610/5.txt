@@ -1,1 +1,3 @@
-Empenho no atendimento às reivindicações do Movimento de Mulheres Camponesas, sobretudo no tocante à Previdência Social. Anúncio pela Presidenta Dilma Rousseff de reajuste do Programa Bolsa Família, por ocasião de sua visita ao Município de Irecê, Estado da Bahia. Prioridade do Governo Federal à redução das desigualdades sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c013ba802f833e1cc928e66a9ec2fbd506005d86a986ad471e3e83a5ea5dac0e
+size 344

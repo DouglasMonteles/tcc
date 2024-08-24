@@ -1,1 +1,3 @@
-Necessidade de encaminhamento contrário ao requerimento de encerramento da discussão da Medida Provisória 418 de 2008 (Altera as Leis 11.508 de 2007, que dispõe sobre o Regime Tributário, Cambial e Administrativo das Zonas de Processamento  de Exportação - ZPEs e 8.256 de 1991, que cria Áreas de Livre Comércio nos Municípios de Pacaraima e Bonfim, no Estado de Roraima e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5c72e50b6fc4071a32bea45640f778b273b0094e9d74131212a74d9d661ce3b
+size 409

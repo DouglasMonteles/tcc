@@ -1,1 +1,3 @@
-Defesa da apreciação de proposição sobre as medidas de combate à corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50ac04d94490cab135a5f23ae4d6599f06332a34595e07da4a4f355f2c656f8d
+size 82

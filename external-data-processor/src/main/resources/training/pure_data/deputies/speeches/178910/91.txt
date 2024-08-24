@@ -1,1 +1,3 @@
-Outorga ao orador do título de cidadão altamirense pela Câmara Municipal de Altamira, Estado do Pará.  Solicitação dos munícipes de atuação do orador junto à Secretaria de Aviação  Civil da Presidência da República e à Agência Nacional de Aviação Civil - ANAC para manutenção de voos comerciais regulares para Altamira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81bab40a900efecc17d4a751f4eb28574fe1ca2a3016dd52f6808dbdb8542414
+size 339

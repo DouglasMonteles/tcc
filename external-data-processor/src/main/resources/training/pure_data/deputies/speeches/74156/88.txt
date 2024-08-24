@@ -1,1 +1,3 @@
-Realização da Festa da Manga, no Município de Itaobim, Estado de Minas Gerais. Homenagem à memória de Zumbi dos Palmares. Importância da aprovação do Estatuto da Igualdade Racial. Congratulações ao Senador Paulo Paim pela luta empreendida contra a discriminação racial e à Secretaria Especial de Políticas de Promoção da Igualdade Racial, na pessoa do Ministro-Chefe Eloi Ferreira de Araújo, pela valorização da etnia negra. Aplausos às Prefeituras Municipais pela transformação do Dia da Consciência Negra em feriado. Relevância do Orçamento Participativo Jovem - OP Jovem. Acerto da promulgação da Lei nº 11.946, de 2009, sobre a escolha de 2010 com o Ano Nacional Joaquim Nabuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:137cc2e9574ac30457d5d707f9e42eb0f3619d306ad70bf8720281576bdab5fb
+size 710

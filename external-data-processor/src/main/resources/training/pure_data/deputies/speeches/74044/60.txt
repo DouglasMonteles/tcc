@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional da Defensoria Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c39867fc6402cb8eeabdb0dc6ada4afdf620cd9674106e7c653e9b0b5bfb123
+size 50

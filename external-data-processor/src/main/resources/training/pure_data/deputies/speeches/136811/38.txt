@@ -1,1 +1,3 @@
-Realização da 31ª Exposição Internacional de Animais - EXPOINTER no Município de Esteio, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8799f7d248d64720dc6285861c4f030bf2b4662f6bcf25b0c53462007ffabb60
+size 123

@@ -1,1 +1,3 @@
-Ataques do Governo Luiz Inácio Lula da Silva ao Banco Central do Brasil. Razões da manutenção pela instituição bancária da taxa básica de juros, a Taxa SELIC, em 13,75% ao ano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f86418251e1fdf11fde8b74e270b7e634411a73aa9808ad21e9a00fc7dbb04a6
+size 184

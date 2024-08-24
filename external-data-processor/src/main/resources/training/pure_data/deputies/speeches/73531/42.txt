@@ -1,1 +1,3 @@
-Situação política da Bolívia. Pedido ao Governo brasileiro de atuação contra o movimento separatista do Departamento de Santa Fé, naquele país. Expectativa de não-interferência do Governo dos Estados Unidos da América da América no assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de452147adec0cfa47a2a75ee3be3de499decae89202686251dd7a0d7855ea82
+size 252

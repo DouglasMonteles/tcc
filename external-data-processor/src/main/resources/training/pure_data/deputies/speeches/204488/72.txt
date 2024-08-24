@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de aprovação do texto original do Projeto de Lei nº 4.206, de 2020, sobre a alteração da Lei nº 9.605, de 1998, relativa às sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, com vista à proibição de tatuagens e piercings em cães e gatos com fins estéticos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce9ff22acb3d9eddeb38a007104b0861314dbd74eb19e61ad2386fcbe27b0502
+size 339

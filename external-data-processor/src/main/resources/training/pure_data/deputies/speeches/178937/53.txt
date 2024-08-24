@@ -1,1 +1,3 @@
-Críticas a decisão do Conselho Administrativo de Recursos Fiscais sobre o Banco Itaú.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74b320fb251e4eea492395709d2964d58c950e7fedee5a4ed262a72352468c96
+size 88

@@ -1,1 +1,3 @@
-Reconhecimento do registro sindical de colônias de pescadores do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:201dd5fe133d6b2edbb144f42dd613d3ed7697c4da151b200fcf69443e028ff6
+size 73

@@ -1,1 +1,3 @@
-Relato da trajetória de vida do orador. Agradecimento aos eleitores paraenses pelos votos recebidos nas eleições para a Câmara dos Deputados. Matéria veiculada pelo jornal espanhol El País , sucursal do Brasil, sobre a extinção do Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d29ea554aab51dea3a67e883f5ba0da16311f82b949764b839df07999eadf06f
+size 262

@@ -1,1 +1,3 @@
-Repúdio às decisões do Senado Federal e da Comissão de Constituição e Justiça e de Cidadania da Câmara dos Deputados favoráveis, respectivamente, ao Senador Aécio Neves e ao Presidente Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bb520a976cd7dd2dda1d976c43c739e38160285b75b6d24173a5fb7a1b92e6b
+size 208

@@ -1,1 +1,3 @@
-Esclarecimento sobre as diferenças entre o Cadastro Geral de Empregados e Desempregados - CAGED e a Pesquisa Nacional por Amostra de Domicílios Contínua - PNAD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7990f31b13becbb2f055224ca3b770cd3cccd5a151151a28ffeedafffbc0512
+size 163

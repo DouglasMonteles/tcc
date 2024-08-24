@@ -1,1 +1,3 @@
-Saudações aos alunos do curso de Ciências Contábeis, do Município de Araguari, Estado de Minas Gerais, em vista à Câmara dos Deputados. Apresentação do Projeto de Lei nº 2.272, de 2019, acerca da isenção de impostos incidentes sobre materiais escolares. Apoio às demandas da região sul do Estado de Santa Catarina, notadamente com relação às obras do Aeroporto Regional Sul Humberto Ghizzo Bortoluzzi - Jaguaruna e à duplicação da BR-101.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3df053662e4611b865331f8cfcdfc353af59a10917cc8be2e2c526a88e2d1d73
+size 458

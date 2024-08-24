@@ -1,1 +1,3 @@
-Depoimento do ex-Presidente Jair Bolsonaro na Polícia Federal, a respeito da suposta falsificação do seu certificado de vacinação. Expectativa quanto à quebra do sigilo bancário do ex-ajudante de ordens de Jair Bolsonaro, tenente-coronel Mauro Cesar Barbosa Cid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dfc9625b6fb8b88d31a2b4a9777d8f47e4b531cc6cf4a15d252f7686cc37667
+size 269

@@ -1,1 +1,3 @@
-Contraponto ao pronunciamento do Deputado José Ricardo sobre os Governos Luiz Inácio Lula da Silva e Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdc8b4bc8d99dd31f6bb8124c6e8b996b010cd719bd2c51d72d78d2f49a3171b
+size 118

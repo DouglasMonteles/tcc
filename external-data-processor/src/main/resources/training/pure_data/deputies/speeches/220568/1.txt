@@ -1,1 +1,3 @@
-Ilegalidades praticadas contra manifestantes presos em decorrência das invasões ocorridas no Distrito Federal em 8 de janeiro de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1370e530a8c41e399e39315bb8f53bf2662f3371a08fef7f74bdac23cec74077
+size 136

@@ -1,1 +1,3 @@
-Ocorrência de assalto contra agência bancária instalada no Município de Aguanil, Estado de Minas Gerais. Apresentação de projeto de lei sobre o estabelecimento de competência à Polícia Federal para investigação de assaltos a bancos e outros crimes praticados contra instituições financeiras públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1564ce8696b5bd89a9568189539c8560880cf34221e67fedeea9401b6f59556a
+size 314

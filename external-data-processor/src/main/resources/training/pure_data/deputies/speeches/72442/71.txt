@@ -1,1 +1,3 @@
-Solidariedade aos profissionais de saúde engajados na luta contra a epidemia de coronavírus. Relevância dos trabalhos desenvolvidos pelos profissionais de educação física. Reconhecimento, pela Organização Mundial da Saúde - OMS, da importância da prática da educação física para a prevenção de doenças e redução de mortalidades. Valorização dos profissionais de educação física.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f7d2c1596a4b34229893e9008102c7d06df03ba7919a3e635e2de95dec38480
+size 402

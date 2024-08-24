@@ -1,1 +1,3 @@
-Responsabilidade do PT pela crise socioeconômica vigente no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80436b8f7563d63702eb59b6f62fd5c3d3fd719246d0d60ac3bb8e990f13745b
+size 67

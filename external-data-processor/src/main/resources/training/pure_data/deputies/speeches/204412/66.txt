@@ -1,1 +1,3 @@
-Falta de medicamentos nas farmácias do Estado de Goiás e do País. Contrariedade à venda de fármacos em supermercados e estabelecimentos congêneres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24587edf0b044e873c2f36ad639948313863f68f247a04d15ffb00a71675bbea
+size 153

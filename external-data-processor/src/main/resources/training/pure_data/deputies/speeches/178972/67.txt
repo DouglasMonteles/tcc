@@ -1,1 +1,3 @@
-Defesa de retirada de item 2 da pauta, do Projeto de Decreto Legislativo nº 8, de 2015, que aprova o texto do Protocolo Adicional ao Tratado Constitutivo da UNASUL sobre compromisso com a democracia, assinado em 26 de dezembro de 2010,  em face da inexistência de acordo para a votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:038ed8d9a72eac5b31825a5856c6640420c5d2848d3842beb843537947ed446a
+size 290

@@ -1,1 +1,3 @@
-Necessidade de estabelecimento de negociações entre o Governo Federal e representantes de caminhoneiros, com vistas ao cumprimento da Lei nº 12.619, de 2012, sobre a regulamentação e o disciplinamento da jornada de trabalho do motorista profissional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12dfa987a23016ba8c0bdba0344a4386d51aeaae367cb4257eecd3ad40908084
+size 255

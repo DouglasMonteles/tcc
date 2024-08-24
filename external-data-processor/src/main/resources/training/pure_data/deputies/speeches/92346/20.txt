@@ -1,1 +1,3 @@
-Compromisso do orador com a defesa da revogação do Estatuto do Desarmamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:025ea6a4b1914b7acc6a0a8cc368eb8bc007c76f437caebe2e19924848372423
+size 78

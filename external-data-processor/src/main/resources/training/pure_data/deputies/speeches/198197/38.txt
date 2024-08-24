@@ -1,1 +1,3 @@
-Congratulações ao Deputado Arthur Lira por sua eleição à Presidência da Casa. Importância da retomada do crescimento econômico do País e da vacinação contra a Covid-19. Homenagem à memória do literato Oscar Dias Corrêa, ao ensejo do transcurso do centenário do seu nascimento. Relevância do legado do escritor. Congratulações ao Presidente da Caixa Econômica Federal, Pedro Guimarães, pela abertura de novas agências da instituição financeira no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0915cea75156d4ea73a73725ff851bc5774efe699b5853bb45e3c4d7b968306b
+size 475

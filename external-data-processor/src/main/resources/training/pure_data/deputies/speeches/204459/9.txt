@@ -1,1 +1,3 @@
-Agradecimento à Casa pela aprovação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3.047, de 2019, sobre a instituição do Dia Nacional de Luta contra a Endometriose e da Semana Nacional de Educação Preventiva e Enfrentamento à Endometriose. Expectativa de aprovação da  propositura pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71baf83aad81b08e2d01716d61a0e94bf737084b94b986ae5eaa4025807478bf
+size 349

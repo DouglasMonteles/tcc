@@ -1,1 +1,3 @@
-Transcurso do 52º aniversário de criação da Cidade-Satélite de Ceilândia, no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f18c5f600b7b470179e5042f16ee4c52b72bc673fba6440cb10504fd6181921
+size 100

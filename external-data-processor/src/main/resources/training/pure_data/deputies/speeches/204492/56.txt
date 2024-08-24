@@ -1,1 +1,3 @@
-Solidariedade ao movimento grevista dos funcionários das Centrais Elétricas Brasileiras S/A - ELETROBRA contra a aprovação, pelo Senado Federal, da Medida Provisória nº 1.031, de 2021, relativa à desestatização da empresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e4dd758ce589223b5a855eb2d809b2bb40d377de6ce21f35a9a54750d4896bd
+size 231

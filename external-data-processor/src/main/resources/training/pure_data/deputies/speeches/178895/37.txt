@@ -1,1 +1,3 @@
-Defesa da revisão do Estatuto do Desarmamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:778142bfadba9fb6cfcf4d739c239863997db0d00115be0f88d657597fe5fd83
+size 47

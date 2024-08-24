@@ -1,1 +1,3 @@
-Contrariedade a declaração do atual Prefeito do Município de Frederico Westphalen, Estado do Rio Grande do Sul, sobre a responsabilidade da gestão anterior pela não abertura de Unidade de Pronto Atendimento - UPA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36326fd60804e0476437fe2263f4432e731d1366eddbb72b49c843ea6414e17b
+size 218

@@ -1,1 +1,3 @@
-Saudações aos alunos do Colégio Delta, de Goiânia, Estado de Goiás, presentes nas galerias do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:617b8544ff08c1d03335a1baf6c206293b6f43b37a32b770b176deb3cdd587d9
+size 109

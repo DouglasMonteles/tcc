@@ -1,1 +1,3 @@
-Transcurso do 17º aniversário de promulgação da Lei nº 11.340, de 2006, (Lei Maria da Penha), coibitiva da violência doméstica e familiar contra a mulher. Dados do Fórum Brasileiro de Segurança Pública sobre a ocorrência do crime de feminicídio no País. Elevação dos índices de violência contra a mulher no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b405726b81ec0df12cd2f55e1b722b77326405631f8deed03193297beae2cdd
+size 340

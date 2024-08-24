@@ -1,1 +1,3 @@
-Críticas à restrição ao acesso de agricultores inadimplentes a créditos previstos pelo Plano Safra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e1bba3ad65f072c99539900b34a05652178448e754d3438fe164d11861bec51
+size 104

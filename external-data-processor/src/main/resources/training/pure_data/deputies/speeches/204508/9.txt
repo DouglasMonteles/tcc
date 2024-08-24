@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de encerramento da discussão da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário. Importância de realização das reformas previdenciária e tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e79a21ac8708ae720641213542baaa51c90f26514587902eb146fbb53c000d9
+size 255

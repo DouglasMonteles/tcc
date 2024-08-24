@@ -1,1 +1,3 @@
-Compromisso do orador de atuação com independência e ética. Defesa da criação da carreira médica e de medidas para promoção do crescimento de Estados e Municípios. Busca de recursos financeiros para o Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c816e1f059d309405bb7f103bb1ed7e7460cf64a3a6f2ff220743c8d3793a30
+size 229

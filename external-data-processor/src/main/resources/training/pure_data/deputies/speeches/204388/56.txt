@@ -1,1 +1,3 @@
-Apelo ao Supremo Tribunal Federal por não concessão do benefício de aposentadoria a magistrado envolvido em ações criminosas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6232e589398cfbbd0fbd3637fe5f18045e48ff1ed1e395699cff1425055803c
+size 130

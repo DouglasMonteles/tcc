@@ -1,1 +1,3 @@
-Importância de debate da criação do Sistema Único de Mobilidade. Repúdio à sistemática adotada pela Câmara de Vereadores na revisão do plano diretor da cidade de São Paulo, Estado de São Paulo. Esvaziamento do Fundo de Desenvolvimento Urbano – FUNDURB. Denúncia de cobrança de propina de construtora por Edil da base de apoio ao Prefeito Municipal de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:157d70bd32dcdccdb4ef26d527bce4aa68829b295e83d36cb84dfc20b44ccdcc
+size 377

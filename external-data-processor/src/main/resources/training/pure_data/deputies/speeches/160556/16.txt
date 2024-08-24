@@ -1,1 +1,3 @@
-Greve de policiais militares e civis e de profissionais da educação no Estado de Minas Gerais. Edição excessiva de leis delegadas pelo ex-Governador Aécio Neves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd9d1db4c15fa04911101abd8fc33e47ce510071fa8b4cbafc384d8b478657a1
+size 166

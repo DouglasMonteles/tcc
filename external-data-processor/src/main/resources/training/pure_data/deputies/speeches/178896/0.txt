@@ -1,1 +1,3 @@
-Reiteração de apoio do PMDB a proposição relativa à manutenção do pagamento de horas extras aos caminhoneiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91de33bb311a23968e20d2e776b99bd4a5917858c598111a592e8919ce8bd279
+size 117

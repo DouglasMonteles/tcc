@@ -1,1 +1,3 @@
-Concordância do DEM com a questão de ordem suscitada pelo Deputado Eduardo Cunha em que requer o encerramento da sessão  tendo em vista a expiração do  prazo  regimental.  Enentendimento  de que a orientação de votação  não faz  parte do processo de votação, caso em que a sessão é prorrogada automaticamente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f491e6c67903b04e8fd4778ecb00031d9f8a7260b2208ace1d2de00e27c9f46a
+size 323

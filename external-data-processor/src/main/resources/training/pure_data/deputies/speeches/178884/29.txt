@@ -1,1 +1,3 @@
-Divulgação de pesquisa on-line realizada pelo orador com vistas ao conhecimento da expectativa do cidadão brasileiro quanto ao posicionamento do orador frente à questão da reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a15eac6fc00282025783b0254f64fb81bd453dbda4cdb5b2e4e3133efd5862
+size 195

@@ -1,1 +1,3 @@
-Vantagens para a economia brasileira de decisão da Comissão Européia sobre a suspensão dos subsídios concedidos na produção do etanol. Congratulações ao Presidente Arlindo Chinaglia pela adoção de medidas de ampliação dos debates sobre o biodiesel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a006ff40d6acd12d023d53746eac486fa1382695583b99b9a767c2280e88b7cc
+size 261

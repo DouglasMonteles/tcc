@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM ao Requerimento de votação uma a uma das Emendas à Medida Provisória 559 de 2012 (Autoriza a Centrais Elétricas Brasileiras S. A  ELETROBRAS  a adquirir participação na CELG Distribuição S.A - CELG D e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:98abf056a030030c6920b7ad1e426421ac652bd1dcf9c3a049517bbd35c1d957
+size 270

@@ -1,1 +1,3 @@
-Encaminhamento da votação do Veto Total nº 51, de 2019, aposto ao Projeto de Lei nº 572, de 2015, do Senado Federal, (nº 4.767, de 2016, na Câmara dos Deputados), a respeito da condenação de responsáveis por lesões corporais leves e culposas contra menores de 18 (dezoito) anos ou incapazes no ambiente familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e94d5926cf07da58a9bacc034675b4b512b0277b3e19c1e340621e1edc7f256b
+size 322

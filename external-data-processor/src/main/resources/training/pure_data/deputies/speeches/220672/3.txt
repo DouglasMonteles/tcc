@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação da Medida Provisória nº 1.162, de 2023, sobre o Programa Minha Casa, Minha Vida.&nbsp;Elogio ao trabalho do Deputado Marangoni e do Senador Eduardo Braga, respectivamente Relator e Presidente da Comissão Mista da medida provisória. Saudação ao Ministro das Cidades, Jader Barbalho Filho, pela atuação na remodelagem do Programa Minha Casa, Minha Vida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ebc317b05b1b59ed8bc89b28e0801dc4f773b46c91a1c08f6c865c4b18604ed
+size 401

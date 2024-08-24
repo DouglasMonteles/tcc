@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Viação e Transportes, ao Projeto de Lei 4.322 de 2008 (Denomina Otto Lara Resende e Fernando Sabino os viadutos que compõem o complexo do anel rodoviário de Belo Horizonte, localizados no KM 312,8 da BR-262).
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c73212e4f001901ee2f91c3ba936d6418fc96cbb2eef0d1c3526724c5930fdd
+size 239

@@ -1,1 +1,3 @@
-Acesso de produtores rurais indígenas a financiamentos bancários, no Município de Campo Novo do Parecis, Estado do Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f400783a234aa1de799e56e57332e4c66fcdbfffed20f83158c2f3ef2cd3bece
+size 130

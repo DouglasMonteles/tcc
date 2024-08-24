@@ -1,1 +1,3 @@
-Importância da realização do Encontro Nacional de Novos Prefeitos e Prefeitas, em Brasília, Distrito Federal. Elogio ao Governo Federal pelas medidas adotadas em prol dos municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c87c57235aaca08f18cb15f711c38e40c627b6579ac74d4e6921e390eef807c
+size 199

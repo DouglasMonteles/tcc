@@ -1,1 +1,3 @@
-Violência praticada contra passageiro por agente de segurança do Metrô da cidade do Rio de Janeiro. Ocorrência de fortes chuvas no Estado fluminense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a8de664267f80c85c861a2f34cf5666803501b703f2e32a9fb40300e8fa2279
+size 153

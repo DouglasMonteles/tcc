@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM  à PEC 153 de 2003 (Altera o art. 132 da Constituição Federal,  para organizar a  carreira de Procurador Municipal), em votação em primeiro turno .
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dc8c459ce3da8b5c9f83bab518916dd31b686687dbbd4ed1c98f186a67ebe5a
+size 185

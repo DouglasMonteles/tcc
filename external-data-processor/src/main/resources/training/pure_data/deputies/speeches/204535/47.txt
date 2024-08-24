@@ -1,1 +1,3 @@
-Não participação do PSOL em acordo para a inclusão na pauta de proposições de interesse do Governo Federal. Críticas ao Líder do Governo na Casa por  impasse na votação de matérias de proteção à mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8189bb80bae74f220d5d4a8b637bb4afc4ee80e3f5fe1dc53ec442a2a34237ff
+size 216

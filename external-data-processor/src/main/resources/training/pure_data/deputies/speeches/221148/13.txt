@@ -1,1 +1,3 @@
-Falta de rumo da Oposição. Repúdio ao discurso oposicionista sobre a radicalização do Governo Luiz Inácio Lula da Silva. Apoio à proposta do Deputado Pompeo de Mattos de criação do Programa Mais Dentistas. Participação em encontro de ex-trabalhadores da montadora de automóveis Ford Motor Company.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b6a8f8857abdda4bd07a3db431fea90af9ab1d408c9be24ede3d7fa8b7d27f8
+size 309

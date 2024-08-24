@@ -1,1 +1,3 @@
-Pedido à Comissão de Viação e Transportes de realização, em caráter emergencial, de audiência pública para debate da desestatização dos portos brasileiros. Apelo ao Ministro da Infraestrutura, Tarcísio Gomes de Freitas, de discussão com a Casa do processo de privatização do Porto de Santos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d3bb0c4e3fa5db4cd0b6811124f952dbe1eb7a363601f8f3648e3731921c1bc
+size 306

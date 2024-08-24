@@ -1,1 +1,3 @@
-Ampliação dos recursos orçamentários destinados ao Programa Nacional de Alimentação Escolar - PNAE. Promoção, pelo Governo Luiz Inácio Lula da Silva, de ações destinadas ao desenvolvimento econômico e à melhoria da qualidade de vida do povo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e30032f500e443f19dbbc5abeede315af656ec4eb5469e286e6266b790bdefa
+size 265

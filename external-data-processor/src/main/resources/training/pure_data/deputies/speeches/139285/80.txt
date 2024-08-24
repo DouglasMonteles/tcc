@@ -1,1 +1,3 @@
-Realização do 14º Congresso Nacional do Partido Comunista Brasileiro - PCB, no Rio Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6f995dcc3a3b11da6382b08b973ceab2ff0bc6484f425b19c3e0b2c5a2c94da
+size 120

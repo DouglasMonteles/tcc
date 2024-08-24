@@ -1,1 +1,3 @@
-Responsabilidade do Prefeito Marcelo Crivella por danos causados pelas chuvas no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6500cf5f6aeaf4cdd79b09ed86b38f673f0fbe00213ea8bdb10014ee9d4efd54
+size 122

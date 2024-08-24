@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar Mista em Apoio às Defensorias Públicas dos Estados e da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd9fecf9eec640360ddcbaa09eb0275439dc6b1450554cfca5ebaefe7cf8326a
+size 99

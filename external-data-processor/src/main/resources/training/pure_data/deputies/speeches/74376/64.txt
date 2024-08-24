@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a6a8328edac3d359a97da494c8a036e35aed7149bb4ba4b63e1f944ed3fb272
+size 39

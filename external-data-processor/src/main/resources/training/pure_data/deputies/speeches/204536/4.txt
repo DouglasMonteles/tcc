@@ -1,1 +1,3 @@
-Apoio ao conjunto de medidas anticrimes apresentadas pelo Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:891e054aca40d659fb186cb4050621cb770d383a6edded8ad349291ef763f5be
+size 115

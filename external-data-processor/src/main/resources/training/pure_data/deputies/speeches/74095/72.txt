@@ -1,1 +1,3 @@
-Reexame da decisão do Tribunal de Justiça do Estado do Amazonas de desativação de comarcas interioranas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81d250671a98303cf729e9da3319253ea9c9dbdbc420602723b96ee970661e8f
+size 108

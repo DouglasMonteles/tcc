@@ -1,1 +1,3 @@
-Registro de voto do orador. Iminência da aprovação pelo Senado Federal do projeto de lei de revisão do SIMPLES Nacional. Solicitação à Presidência de colocação da matéria na pauta de votação logo após o seu retorno à Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad2e2426e714d4e19836b3bf57858bb2f2f9452564933a883ccf172de04acff0
+size 254

@@ -1,1 +1,3 @@
-Expectativa de aprovação, em segundo turno, da proposta sobre a redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdda91f22a71c5b7ac97afe0abc2e5bdd9896b28558fba55430c14d2d0c2140e
+size 96

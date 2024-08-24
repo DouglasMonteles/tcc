@@ -1,1 +1,3 @@
-A Deputada celebrou o programa Ruas Visíveis lançado pelo Presidente Lula para atender a população de rua, destacando a importância de políticas sociais e a atenção aos mais vulneráveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c0a97abc396dd7a9a5e9194e77d2b4266f03d7e3a17984d461a929deaa47318
+size 195

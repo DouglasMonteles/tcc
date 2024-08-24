@@ -1,1 +1,3 @@
-Empenho do orador para a liberação de recursos federais para a execução de obras nos aeroportos dos Municípios de  Ariquemes, Vilhena, Ji-Paraná e Cacoal, Estado de Rondônia. Cobrança a orgãos de fiscalização de tratamento  respeitoso aos produtores do Município de Buritis, Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6b91fba0e56ad46fca438d4d06a112ba67e4216cfd0b9c3edf397474b0be8c1
+size 307

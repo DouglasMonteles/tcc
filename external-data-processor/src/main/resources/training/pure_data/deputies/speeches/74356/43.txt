@@ -1,1 +1,3 @@
-Visita do Presidente Luiz Inácio Lula da Silva ao Estado do Amazonas. Fornecimento, pelo Governador Eduardo Braga, de cartões de crédito à população ribeirinha atingida por enchentes no Município de Borba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a2dbf324c2f0cefbcc43d4f8750e5b170d5ca0e28097c018f2fee486cb949cd
+size 212

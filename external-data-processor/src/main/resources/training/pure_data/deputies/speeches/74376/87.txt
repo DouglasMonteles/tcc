@@ -1,1 +1,3 @@
-Elogio à Presidenta Dilma Rousseff pelo discurso proferido por ocasião d transcurso do Dia do Trabalho e pela redução das taxas de juros bancários. Acerto da política econômica dos Governos Luiz Inácio Lula da Silva e Dilma Rousseff. Ações do Governo Federal em prol do Município de Campo Grande, Estado de Mato Grosso do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6cc113b691970e48802b868f53ec3881e7db5541145ed52ec668315f8735dd9
+size 337

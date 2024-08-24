@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Defesa dos Direitos da Mulher, do Projeto de Lei nº 872, de 2023, sobre a criminalização da misoginia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21e8e1acd2db72e80799fbc4989b6f6d5dc4fc635995ed9877d165f711480b39
+size 136

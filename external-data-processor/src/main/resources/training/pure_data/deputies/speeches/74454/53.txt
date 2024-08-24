@@ -1,1 +1,3 @@
-Realização da Feira do Artesanato Mundial - FAM, em Fortaleza, Estado do Ceará. Importância econômica e cultural do artesanato cearense. Relato da visita da Ministra-Chefe da Casa Civil, Dilma Rousseff, ao Estado. Realização da 2ª Conferência Internacional sobre Clima, Sustentabilidade e Desenvolvimento em Regiões Semiáridas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:675056b635e45460170ceef99873c63542aeb67d2e60f706a7a126a3654d9f13
+size 338

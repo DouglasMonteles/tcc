@@ -1,1 +1,3 @@
-Congratulações ao Presidente Jair Bolsonaro pela adoção de medidas destinadas ao combate às drogas, ao tratamento e reinserção social de dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0145215823131102c404ca9bfd1d884da610513cd09c3be1e843bdd2dd605467
+size 166

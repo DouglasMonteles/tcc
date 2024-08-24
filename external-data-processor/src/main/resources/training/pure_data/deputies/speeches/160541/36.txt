@@ -1,1 +1,3 @@
-Prejuízos causados ao setor rural pela estiagem na Região Nordeste. Apelo ao Líder do Governo na Casa, Deputado Arlindo Chinaglia, de retirada do requerimento de destaque para votação em separado do artigo 8º do Projeto de Lei de Conversão da Medida Provisória 587 de 2021, que autoriza a União a conceder subvenção extraordinária aos produtores fornecedores independentes de cana-de-açúcar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:183f9e8514e1c9f65ad1da9f1145a21567c6943829c2901b2546210be2bd6d7a
+size 405

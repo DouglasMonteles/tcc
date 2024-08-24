@@ -1,1 +1,3 @@
-Justificativa do voto favorável do orador à proposta sobre a redução da maioridade penal. Descaso do Governador do Estado do Maranhão, Flávio Dino, com o assassinato do jovem Irialdo Batalha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:991a8f98208a37ac5d86736d8a6a8cc483c5be71f0680c3507b1144dc0e8e8a8
+size 197

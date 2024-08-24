@@ -1,1 +1,3 @@
-Instalação da Comissão Mista destinada ao exame da Medida Provisória nº 783, de 2017, sobre a instituição do Programa Especial de Regularização Tributária junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional. Importância da matéria para a recuperação da economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05d70c3d03ca1927fd0d56a71a34471b9baa488de8583a94750bdaf077f886f0
+size 328

@@ -1,1 +1,3 @@
-Orientação da bancada do PP. Papel dos Parlamentares na Câmara dos Deputados como representantes dos anseios da sociedade brasileira. Importância do desempenho do mandato parlamentar, de acordo com os compromissos com a população. Crítica ao caráter assistencialista do Governo do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb4f1ec49d62f78c4c3f034bf97ae839639c26763b1da061b7d3707ddf2b60fe
+size 292

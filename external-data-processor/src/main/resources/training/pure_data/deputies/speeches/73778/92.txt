@@ -1,1 +1,3 @@
-Transcurso do 60° aniversário da Sociedade Árabe Brasileira Beneficente, do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53c48d3f464037afaa77278d275142734d2648b5f34224c72bd672a1b7441376
+size 97

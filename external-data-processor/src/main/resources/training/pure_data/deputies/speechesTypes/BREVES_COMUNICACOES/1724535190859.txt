@@ -1,1 +1,3 @@
-Contribuição de pequenas e microempresas para a geração de novos empregos. Importância da criação da Lei Geral das Micro e Pequenas Empresas. Defesa da concessão de novos benefícios fiscais ao segmento empresarial. Protesto contra a forma de apresentação do comportamento do povo evangélico nas novelas e minisséries da Rede Globo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7deeb65c992cdc321c3b26476765de205f5e42a2c9e966fb4d6112893406e347
+size 344

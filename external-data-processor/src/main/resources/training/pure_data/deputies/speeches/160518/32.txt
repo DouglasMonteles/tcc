@@ -1,1 +1,3 @@
-Anúncio da apresentação de requerimento para tramitação, em regime de urgência, do projeto de decreto legislativo acerca da devolução aos consumidores brasileiros de valores cobrados a maior em tarifas de energia elétrica. Determinação pela Presidenta Dilma Rousseff de redução nos preços de combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f1ce70de904506c22f75ab7fd5acedc6ddc79bf8f9505b68f937bb5a94275bd
+size 320

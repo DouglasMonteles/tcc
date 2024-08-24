@@ -1,1 +1,3 @@
-Orientação de bancada para votação do requerimento de votação por capítulos da Medida Provisória nº 783, de 2017, sobre a instituição do Programa Especial de Regularização Tributária junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75d9941e7de7fd15e492ee45bed5c9cf3746b17253380a0fa5bd77c0d3d2fdd7
+size 290

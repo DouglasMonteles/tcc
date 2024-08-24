@@ -1,1 +1,3 @@
-Obrigatoriedade dos Governos Federal, Estadual e Municipal de empenho na viabilização do hospital de urgência de Palmas, Estado do Tocantins. Protesto contra a carga tributária estadual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71317b36c655ad7d220f294edd5a5f58686b3826e6deaec4d189cc289a980854
+size 190

@@ -1,1 +1,3 @@
-Solicitação ao Relator Luis Miranda de acolhimento parcial da Emenda nº 7 apresentada ao Projeto de Lei nº 985, de 2020, acerca das medidas excepcionais adotadas em situação de emergência pública nos termos da Lei nº 13.979, de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1182b4512f82367563c9805329d807ff9fb45aff3a58e7b6d6c40ec67e77a48c
+size 242

@@ -1,1 +1,3 @@
-Posicionamento do orador sobre tópicos da proposta de reforma política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11cf22e6deb96f4e43ba85417ca3d312d751154b74963dec97dcb015b75791fb
+size 73

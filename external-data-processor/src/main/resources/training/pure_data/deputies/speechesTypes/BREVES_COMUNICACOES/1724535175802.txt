@@ -1,1 +1,3 @@
-Aplausos ao Governador do Distrito Federal, Ibaneis Rocha, pela implantação do Wi-Fi Social e pela substituição da frota por carros elétricos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:953a95286a5b357c6266a2d6ebf52ac0ac75277e069ed265a72a53abb0d70dcf
+size 147

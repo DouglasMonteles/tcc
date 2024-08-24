@@ -1,1 +1,3 @@
-Encaminhamento da votação do Veto Parcial nº 31, de 2019, aposto ao Projeto de Lei do Senado Federal nº 85, de 2017, (nº 7.596, 2017, na Câmara dos Deputados),  sobre os crimes de abuso de autoridade. Desmandos praticados pelo então Juiz Federal, Sérgio Moro, e pelo Procurador da República, Deltan Dallagnol, na condução da Operação Lava-Jato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87824b53a62728106bc06f9ad8b2b92fe674aa5d0c96b2a58f1098c22d75a360
+size 357

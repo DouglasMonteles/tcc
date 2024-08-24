@@ -1,1 +1,3 @@
-Realização da última aula nas instalações do Grupo Escolar Vidal Ramos, o Colégio Rosa, no Município de Lages, Estado de Santa Catarina. Transformação das instalações do estabelecimento de ensino em centro cultural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f5461fcda17e297776c68c0fda3d587482eff0aaf7159f7fde056610d38cb61
+size 226

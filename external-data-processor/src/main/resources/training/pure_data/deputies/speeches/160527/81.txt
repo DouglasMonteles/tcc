@@ -1,1 +1,3 @@
-Apelo aos Deputados de comparecimento ao plenário para conclusão das votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68f9351cb3e16359983a36589f364fd5e937116263313e9680de5c6962c4ceed
+size 82

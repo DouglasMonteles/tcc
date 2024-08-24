@@ -1,1 +1,3 @@
-Desligamento do PHS da base governista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be17b904817171c8bf0bd78451a2be4dba55af768bba6af6508308121ab31816
+size 39

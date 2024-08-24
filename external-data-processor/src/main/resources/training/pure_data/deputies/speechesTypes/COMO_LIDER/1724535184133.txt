@@ -1,1 +1,3 @@
-Necrológio do ex-Deputado Federal Vital do Rego.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fba1bc95ca2c2770ddbf907d51566b3f81752dad6024526c0bbaf832afca7a27
+size 49

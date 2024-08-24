@@ -1,1 +1,3 @@
-Orientação de bancada para votação do requerimento de destaque para a votação em separado do art. 2º da proposição original da Proposta de Emenda à Constituição nº 282, de 2016, sobre a reforma política, com vista à sua reinclusão em novo texto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e4cfc6e82e3724ff2c6e2c09fa424216a4f0ad32af728a56a61a105385fe342
+size 261

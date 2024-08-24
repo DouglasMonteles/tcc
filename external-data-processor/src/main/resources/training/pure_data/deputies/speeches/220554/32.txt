@@ -1,1 +1,3 @@
-O Deputado expressou sua solidariedade ao povo gaúcho, que enfrenta uma série de desastres naturais, incluindo ciclones, chuvas intensas e enchentes que causaram perdas significativas, incluindo vidas e propriedades. Mencionou que essa situação não é isolada e afeta várias regiões do Rio Grande do Sul. Destacou a importância de continuar a cooperação entre o Governo Federal, a Defesa Civil Nacional e o Governo Estadual para enfrentar esses desafios, com investimentos consideráveis para superar essa crise.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa97344ecc006298a81345b4f24e0a3f6022bc2ecfb485ad0ecb8e73614ef8cf
+size 522

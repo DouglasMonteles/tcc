@@ -1,1 +1,3 @@
-Empenho do orador na implantação de aeroporto regional no Município de Limeira, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd22823e242182142528f7c0a8105a203c097f17fe3762ac43f7be996c211595
+size 104

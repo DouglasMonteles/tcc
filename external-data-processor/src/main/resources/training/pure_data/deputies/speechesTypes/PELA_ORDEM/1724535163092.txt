@@ -1,1 +1,3 @@
-Postura adotada pelo Senador Agripino Maia durante depoimento prestado no Senado Federal pela Ministra-Chefe da Casa Civil, Dilma Rousseff. Realização, pela Comissão de Direitos Humanos e Minorias, de audiência pública para debate do clima de insegurança reinante nas escolas públicas do Rio de Janeiro. Carta de professores das escolas públicas da Vila Cruzeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31dd40c50cfd19e64e996ed0a009de36a8b404ab741aa1bd33a54e51fcbc3659
+size 371

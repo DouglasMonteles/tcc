@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 3.526, de 2008, sobre a concessão de passe livre às pessoas portadoras de deficiência e aos seus acompanhantes no transporte coletivo interestadual, e do Projeto de Lei nº 3.525, de 2008, sobre a concessão de passe livre aos maiores de 60 anos de idade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf806c5a76897dd20d99d56c3467d9d4aed9c019dca6f051fc6e0af3db2accb4
+size 295

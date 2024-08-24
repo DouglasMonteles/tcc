@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do requerimento de adiamento, por uma sessão, da votação do Projeto de Lei nº 4.188, de 2021, que institui o marco legal para o uso de garantias destinadas à obtenção de crédito no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32073a755004560f42e22b794c9ab0fb225381aa01dc880c73482afe3ec88ff4
+size 238

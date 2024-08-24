@@ -1,1 +1,3 @@
-Escalada da violência no País. Urgente necessidade de realização de ampla reforma do sistema nacional de segurança pública. Imediata aprovação pelo Congresso Nacional de propostas relativas ao setor. Sugestões para melhoria da segurança pública no País. União dos governantes no combate à violência e à criminalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2eb20b7a5133e7f61779f06987b86ca4662cb476e576e5a66f8e9368e4e1c44
+size 333

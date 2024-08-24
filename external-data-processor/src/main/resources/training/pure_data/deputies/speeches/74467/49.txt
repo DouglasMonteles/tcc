@@ -1,1 +1,3 @@
-Transcurso do 85º aniversário de fundação do jornal O Imparcial, sediado em São Luís, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b90c99c8137f023e2025f40994ebcb9430db5b9855e053b474f776a2bb13bfe9
+size 112

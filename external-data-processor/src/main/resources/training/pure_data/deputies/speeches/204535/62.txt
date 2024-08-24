@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 7, oferecida ao Projeto de Lei nº 3.261, de 2019, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4e65f5a4bc191fa4cc86c124c5282ecf1d73e20ba2228670cf7564b279f733d
+size 216

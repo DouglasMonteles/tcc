@@ -1,1 +1,3 @@
-Comemoração do 50º e do 53º aniversários de criação, respectivamente, da primeira Liga Camponesa do Estado da Paraíba e da primeira Liga Camponesa da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:687cb16af497c4256b101d42cd1bf1cb0d1ed70182a36a0e78229b74558d4d63
+size 175

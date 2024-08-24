@@ -1,1 +1,3 @@
-Discurso proferido pelo Presidente dos Estados Unidos da América, Barack Obama, no Theatro Municipal do Rio de Janeiro. Transcurso do Dia Internacional pela Eliminação da Discriminação Racial. Divulgação do mapa da violência no País pelo Ministério da Justiça. Revisão de políticas públicas destinadas às populações negra e indígena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71eb1ce2929364df6b6d0b3501723d24e772032c5d231a1699d397501fa3938e
+size 351

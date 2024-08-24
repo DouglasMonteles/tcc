@@ -1,1 +1,3 @@
-Preocupação com os desdobramentos negativos para o Estado da Bahia da falta de repasse de recursos financeiros da PETROBRAS às organizações parceiras. Equívoco da realização de procedimento licitatório para contratação de empresa estrangeira fabricante de equipamentos navais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5017faf35e691e26134315a57d583f978659ab3f0a1ca9b2b7949df4fc721e08
+size 287

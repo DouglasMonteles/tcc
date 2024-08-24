@@ -1,1 +1,3 @@
-Assassinato do adolescente Marcos Paulo Costa da Silva Gonçalves na Unidade de Internação Masculina - UIM em Maceió, Estado de Alagoas. Quadro caótico da instituição de ressocialização de menores infratores. Solicitação à Ministra-Chefe da Secretaria de Direitos Humanos da Presidência da República, Ideli Salvatti, e ao Conselho de Defesa dos Direitos da Pessoa Humana de instalação de Comissão Especial destinada à investigação da situação de violência homicida contra jovens, do funcionamento dos órgãos de segurança encarregados da punição dos criminosos e da implantação de políticas de prevenção à violência contra jovens em Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:402398b064883bce3dfc86e35690ce8012a0e724e75f060a76c2e60cbdd5c23e
+size 674

@@ -1,1 +1,3 @@
-Homenagem à memória do empresário Edson Queiroz, fundador do Sistema Verde Mares de Comunicação, no Estado do Ceará. Inauguração da TV Verdes Mares Cariri, no Município de Juazeiro do Norte, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd7d66b6f600b550c3a812f1042ff8158932d68796ef068accf447b25e0412af
+size 210

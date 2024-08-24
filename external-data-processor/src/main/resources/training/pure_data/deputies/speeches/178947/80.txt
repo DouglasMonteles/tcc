@@ -1,1 +1,3 @@
-Preocupação com a situação da segurança pública no Município de São João de Meriti, Estado do Rio de Janeiro. Pedido ao Governador do Estado de reforço nos quadros do Batalhão da Polícia Militar responsável pela segurança da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8774b9726f97911c84764466cfe1211a1e50117cf8882653be64ab3c45295753
+size 254

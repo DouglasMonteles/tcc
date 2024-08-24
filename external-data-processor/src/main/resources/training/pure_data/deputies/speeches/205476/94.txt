@@ -1,1 +1,3 @@
-Apelo ao Governo Federal por imediato repasse de recursos do Serviço de Convivência e Fortalecimento de Vínculos aos Municípios brasileiros, especialmente aos da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:690cbff724c3fa304a723e24947d4b083861f266765ee0f7c6bc901a5cd9c7a0
+size 183

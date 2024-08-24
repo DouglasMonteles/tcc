@@ -1,1 +1,3 @@
-Repúdio à perseguição promovida pelo Governador Ratinho Júnior a diretores e diretoras de escolas públicas do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b564a2cac9f6c78f1c1b825f9d31b3c34f0aa17e9fd1481ebbaac0057907384
+size 134

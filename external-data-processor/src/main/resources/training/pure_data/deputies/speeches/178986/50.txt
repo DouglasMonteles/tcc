@@ -1,1 +1,3 @@
-Solidariedade aos estudantes acampados na Assembleia Legislativa do Estado de São Paulo por reivindicação de criação de CPI estadual sobre desvios de recursos na compra de merenda escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8699306a46a1fdaf885817f33353ed5eb2ed454b4303de57a1f8c0db1081a08f
+size 193

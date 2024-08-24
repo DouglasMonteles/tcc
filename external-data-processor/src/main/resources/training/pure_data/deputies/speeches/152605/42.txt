@@ -1,1 +1,3 @@
-Acerto da proposta governamental sobre a participação do Estado brasileiro na exploração de petróleo na camada pré-sal. Defesa de convergência de interesses dos Estados no tocante à distribuição de royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05400422364730c5ad4b12564075b42539dab0d6961da071f4e9dd7b7b0e97f5
+size 231

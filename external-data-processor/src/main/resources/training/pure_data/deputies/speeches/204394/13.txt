@@ -1,1 +1,3 @@
-Insatisfação com o não comparecimento do Ministro da Economia, Paulo Guedes, à Câmara dos Deputados para discussão da proposta de reforma previdenciária. Expectativa quanto ao comparecimento do Ministro à Casa na semana vindoura. Indignação com a determinação do Presidente Jair Bolsonaro de comemoração do aniversário do golpe militar de 1964.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4f51ad5f99cdf336aa89cd9acfe91d9a547e381bef17e0ce7d837727e325461
+size 359

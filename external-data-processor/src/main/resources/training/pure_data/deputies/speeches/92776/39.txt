@@ -1,1 +1,3 @@
-Apoio aos projetos de lei acerca da doação de sangue em tramitação na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a17cfc89adc02335db545d1731133feb39c91836dd424e886e2e1d1493947d2
+size 96

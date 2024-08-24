@@ -1,1 +1,3 @@
-Promoção da 6ª Semana Tecnológica do Agronegócio pela Cooperativa Agropecuária Centro-Serrana - COOPEAVI, no Município de Santa Teresa. Realização do 2º Simpósio da Cacauicultura Capixaba, no Município de Linhares, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcbd31dc450a5d6a35458e4820eabf75d8e16dd91e5de7b9181bfb50ed632d18
+size 253

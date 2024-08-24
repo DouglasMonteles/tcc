@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação nominal do requerimento de retirada de pauta da Medida Provisória nº 879, de 2019, a respeito do reembolso de despesas de distribuidoras de energia elétrica. Crise política e econômica reinante no País. Retrocesso da política ambiental brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f859f21f63265c1d3f235c3ba7d1d463067681d6bcc01bd76c228eb4fc234ab
+size 320

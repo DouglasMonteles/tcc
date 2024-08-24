@@ -1,1 +1,3 @@
-Inauguração do Programa Câmara Itinerante, em Curitiba, Estado do Paraná, com a presença do Presidente Eduardo Cunha e de autoridades locais. Lançamento oficial de cartilha elaborada pela 2ª Secretaria da Mesa Diretora da Casa acerca da importância da conscientização sobre o autismo. Iluminação da fachada do Congresso Nacional na cor azul, na semana do Dia Mundial de Conscientização sobre o Autismo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2075d9922221817d7ddba36235b1f7d87a901f18df117c1bc7531ab5b0904902
+size 416

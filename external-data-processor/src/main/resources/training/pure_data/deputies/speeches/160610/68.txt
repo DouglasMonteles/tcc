@@ -1,1 +1,3 @@
-Outorga do título de Cidadão Baiano ao Governador Jaques Wagner pela Assembleia Legislativa do Estado da Bahia.  Ações do Governador em prol da área social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f8c1f45af6f1d951387b9963d3840f7c65d863aa75cbae8dcc957bf0ef9b9c1
+size 161

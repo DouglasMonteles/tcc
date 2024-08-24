@@ -1,1 +1,3 @@
-Repúdio à atuação do Escritório Central de Arrecadação e Distribuição - ECAD. Apresentação do Projeto de Lei nº 1.107, de 2019, sobre a isenção da cobrança de direitos autorais no âmbito de cultos, cerimônias ou eventos realizados por organizações religiosas sem cunho lucrativo, e das unidades individuais de uso exclusivo do usuário nos empreendimentos destinados a serviços de hospedagem ou transporte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3dff4d0f9a378ccea78ecd6b37cc5fb5515ea7b8b9e2c0ce5637f0006581e97
+size 426

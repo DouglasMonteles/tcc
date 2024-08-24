@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 2.999, de 2019, sobre a antecipação do pagamento dos honorários periciais nas ações do Instituto Nacional do Seguro Social - INSS. Realização, na Casa, de reunião de reitores de universidades públicas destinada ao debate sobre questões relativas à educação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d5e956563e9c25985ee344925da8465730023752ed1559d402ad1aec278cdfa
+size 366

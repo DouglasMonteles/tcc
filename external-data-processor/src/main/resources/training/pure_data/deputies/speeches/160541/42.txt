@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Eduardo Cunha. Relato de atividades de comissão destinada ao acompanhamento de medidas de combate à seca na Região Nordeste. Crise enfrentada pelos produtores de leite no Estado de Alagoas. Elogio ao Presidente Henrique Eduardo Alves pela condução dos trabalhos da Casa. Solicitação à Presidência de apuração de denúncia de envolvimento de Parlamentares no episódio de invasão do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de0cab9c586294019bfc7faaab2f08162e6c1422052c91116f236204d335ef3f
+size 447

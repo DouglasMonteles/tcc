@@ -1,1 +1,3 @@
-Oposição do orador ao Governo Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99434388a67b908a1291f1d2681fa541d60675ebee8f6e6cc882f1189a3a0424
+size 59

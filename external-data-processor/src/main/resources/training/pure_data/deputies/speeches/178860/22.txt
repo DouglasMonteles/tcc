@@ -1,1 +1,3 @@
-Associação a pleito do Deputado Nelson Pellegrino concernente à abertura de agências do Banco do Brasil nos Municípios de Olindina e Sátiro Dias, Estado da Bahia. Inclusão da Bahia pelo Anuário Brasileiro de Segurança Pública 2017 como o Estado com o maior número de mortes violentas e pessoas assassinadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c4deb101e80eb19586a1bf377eb00eed291906625625ceba17804d51f0ca49f
+size 318

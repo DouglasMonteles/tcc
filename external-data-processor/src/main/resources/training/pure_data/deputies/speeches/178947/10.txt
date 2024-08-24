@@ -1,1 +1,3 @@
-Vinculação entre desemprego e violência. Sugestão de medidas para o aumento da oferta de trabalho nas periferias dos centros urbanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46af5fdd6234ad713537a2319f9b110102ab2d5493a79d172ca5a7adf6660042
+size 137

@@ -1,1 +1,3 @@
-Agradecimento à Casa pela aprovação do Projeto de Lei nº 2.920, de 2023, sobre a instituição do Programa de Aquisição de Alimentos - PAA, e a alteração das Leis de nºs 12.512, de 2011, e 14.133, de 2021. Alcance social da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:230c157ba68366b7c960cbc5ec5ced06ed94f7a725319fafc6f8828112d02ba0
+size 246

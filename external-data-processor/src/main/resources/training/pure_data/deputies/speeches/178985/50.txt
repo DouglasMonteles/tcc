@@ -1,1 +1,3 @@
-Transcurso do 30º aniversário de criação do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d61903aacee1d0de9be56a26e413a26aac8e00e81120a665cba72316d2ceaefb
+size 79

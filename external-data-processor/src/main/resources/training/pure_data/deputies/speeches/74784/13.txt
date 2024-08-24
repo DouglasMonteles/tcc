@@ -1,1 +1,3 @@
-Realização da 1ª Conferência Estadual de Comunicação Social da Bahia, em Salvador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68d96a682153295a439206b212ff86713e065e0acb91fac5253125afa3122328
+size 88

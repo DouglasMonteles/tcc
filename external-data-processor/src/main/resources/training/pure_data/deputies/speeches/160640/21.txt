@@ -1,1 +1,3 @@
-Solidariedade aos médicos e demais profissionais de saúde do Sistema Único de Saúde - SUS em suas mobilizações por melhores salários e condições de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd8fb1dbc7f77be96c60a2538a67313819a438c46dd9a006df8a65465e96ceaa
+size 166

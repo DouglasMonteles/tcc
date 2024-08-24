@@ -1,1 +1,3 @@
-Saudações aos estudantes presentes nas galerias do plenário. Realização, pelos partidos da Oposição, do seminário Repensando a Economia Brasileira: Retomar o Crescimento e a Geração de Empregos. Apresentação pelo PT de plano emergencial de geração de emprego e renda. Necessidade de redirecionamento da política econômica vigente no País. Inexistência de projeto de desenvolvimento socioeconômico no âmbito do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22074bd4fb99e6fcfdcb9f553319edfa4be066c8535962e9d0f890b0a53dbe2a
+size 453

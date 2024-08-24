@@ -1,1 +1,3 @@
-Agradecimento aos Senadores pela aprovação da Medida Provisória nº 971, de 2020, sobre o reajuste salarial da Polícia Militar, do Corpo de Bombeiros Militar e da Polícia Civil do Distrito Federal; bem como da Polícia Militar e do Corpo de Bombeiros Militar dos ex-Territórios Federais, e a alteração das regras de cessão de policiais militares, bombeiros militares e policiais civis do Distrito Federal.  Empenho do Senador Izalci Lucas e do Governador do Distrito Federal, Ibaneis Rocha, na aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:826292775b75cc719e84efce3ee898a798611056be6f64eb66d69fbcf97b4226
+size 527

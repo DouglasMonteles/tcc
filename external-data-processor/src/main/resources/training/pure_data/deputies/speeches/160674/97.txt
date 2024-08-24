@@ -1,1 +1,3 @@
-Solicitação aos Deputados de comparecimento ao plenário para conclusão da votação da PEC 368, de 2009 (Dá nova redação ao art. 42 do Ato das Disposições Constitucionais Transitórias, ampliando o prazo em que a União deverá destinar às regiões Centro-Oeste e Nordeste percentuais mínimos dos recursos destinados à irrigação), em apreciação em segundo turno. Pedido aos Parlamentares do PMDB de permanência em plenário para apreciação da Proposta de Emenda à Constituição nº 55, de 2011.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1301132ad96d2cf00886769f5462bb01b6bc96f150c569b1c3856ba795c099d6
+size 515

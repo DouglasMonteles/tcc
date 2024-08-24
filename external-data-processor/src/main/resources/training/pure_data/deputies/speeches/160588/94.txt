@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 1, apresentada à Medida Provisória nº 998, de 2020, acerca da alteração de diplomas legais e da transferência, para a União, das ações de titularidade da Comissão Nacional de Energia Nuclear, representativas do capital social das Indústrias Nucleares do Brasil S/A e da Nuclebrás Equipamentos Pesados S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49c7ed33aae758ea00bdbd1f039131ed6b5dab4790bbaadbf2c037a635df2238
+size 436

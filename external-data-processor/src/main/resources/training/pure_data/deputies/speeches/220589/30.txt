@@ -1,1 +1,3 @@
-O Deputado destacou a importância dos profissionais da saúde e da segurança pública que estiveram na linha de frente durante a pandemia da COVID-19. Ele pediu o apoio da Casa para a aprovação do Projeto de Lei Complementar nº 221, de 2023, de sua autoria, que propõe a contagem em dobro do tempo de serviço desses profissionais que atuaram durante a pandemia. Ressaltou a relevância de homenagear esses trabalhadores no Dia do Médico e expressou gratidão a todos que estiveram combatendo a COVID-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6f4947e2d24f68f92517b493a5dee774018f858902caaf171f242d19863ae1f
+size 511

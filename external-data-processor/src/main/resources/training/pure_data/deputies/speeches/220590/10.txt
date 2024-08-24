@@ -1,1 +1,3 @@
-Congratulações ao Governador do Estado de São Paulo, Tarcísio Gomes de Freitas, e ao Secretário de Segurança Pública, Guilherme Muraro Derrite, pelo êxito da operação realizada após o assassinato de policial militar pelo crime organizado. Fatores determinantes da redução de homicídios no governo anterior. Conivência do Ministro da Justiça e Segurança Pública, Flávio Dino, com ações do crime organizado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82c04d90bdbac12566b111365ec042329338ad7b5c0e78ae097cf68730331925
+size 426

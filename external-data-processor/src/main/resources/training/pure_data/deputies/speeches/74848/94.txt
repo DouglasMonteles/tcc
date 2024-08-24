@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Não Violência contra a Mulher. Maior empenho do poder público na exigência do cumprimento da Lei Maria da Penha nacionalmente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e87217949f08d2b709ab0e9fe0faee59ce65b4136576c629dd3fa0d92efc1c9
+size 165

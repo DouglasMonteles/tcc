@@ -1,1 +1,3 @@
-Congratulações ao Governador do Estado de Pernambuco, Paulo Câmara, pela vacinação dos habitantes da Ilha de Fernando de Noronha. Instalação pela Casa da Comissão Especial destinada à atualização da Lei nº 9.615, de 1998, a chamada Lei Pelé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34c93e247fb5176c44593ca550d2fee0d141981f3d4765105d690b634ebbae4e
+size 254

@@ -1,1 +1,3 @@
-O Deputado destacou as celebrações do Dia do Gaúcho, exaltando a cultura e tradições do Rio Grande do Sul. Expressou gratidão aos brasileiros que auxiliaram o Estado após recentes tragédias que resultaram em cerca de 50 mortes e milhares de desabrigados. Ressaltou a união de todo o Brasil com os gaúchos durante esse período difícil e agradeceu o Parlamento pelas medidas aprovadas, especialmente um projeto do qual é Relator, que visa aprimorar instrumentos de prevenção e recuperação de áreas atingidas, monitoramento de riscos e produção de alertas antecipados. O Parlamentar enfatizou a importância de planos nacionais, estaduais e de contingência de proteção e defesa civil. Finalizou homenageando os gaúchos pela união e fraternidade demonstradas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee4110c4924f009652b07555d9355d040f156e6ec6a67a88ed12c5a1b7b63562
+size 780

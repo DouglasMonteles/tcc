@@ -1,1 +1,3 @@
-Compromisso do Presidente Michel Temer de votação da proposta de extinção do fator previdenciário e de outras proposições relativas aos benefícios de aposentados e pensionistas, apresentadas pela Senador Paulo Paim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8ce39517f5a933eae793c40119b7ff6d56dfa7b90c4f7a2847d81b20624656e
+size 223

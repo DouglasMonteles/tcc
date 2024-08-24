@@ -1,1 +1,3 @@
-Corte de verbas orçamentárias destinadas à educação pública brasileira. Despreparo do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21434f3ca995bb0f9337ead463063eceb27e827c7d6032004da4d892ddc01c2b
+size 118

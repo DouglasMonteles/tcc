@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Decreto Legislativo nº 860-A, de 2017, sobre a aprovação dos textos do Protocolo referente ao Acordo de Madri relativo ao Registro Internacional de Marcas, adotado em Madri, em 27 de junho de 1989, e do respectivo Regulamento Comum do Acordo de Madri relativo ao Registro Internacional de Marcas e do Protocolo concernente a esse Acordo, bem como a formulação de declarações e notificações. Transcurso do aniversário natalício do Deputado Marcos Pereira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:642572765afb166d8d08b4203923d2f1a4ab7c1a7d76d538cb79b2b83b03d4a8
+size 516

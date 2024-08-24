@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 4.837, de 2019, sobre a alteração do Estatuto da Criança e do Adolescente, com vistas à tipificação da conduta de venda, fornecimento, ainda que gratuitamente, ou entrega, de qualquer forma, a criança ou adolescente de substância ou produto nocivo à saúde, assim especificado em lei ou relacionado em listas atualizadas periodicamente pelo Poder Executivo da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd06800040acd3e3b1960a71bdf6974151f8b1ec971cd490f1a85d60afe7b5f2
+size 413

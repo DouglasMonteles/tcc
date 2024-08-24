@@ -1,1 +1,3 @@
-Descumprimento pela Esquerda de acordo para votação do Projeto de Lei nº 3.723, de 2019, sobre o registro, posse e comercialização de armas de fogo e munição; o Sistema Nacional de Armas - SINARM e a definição de crimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a99dd4d858486cafb8f54f87c320196b7887f825e2954107b278003fbed3ba8b
+size 229

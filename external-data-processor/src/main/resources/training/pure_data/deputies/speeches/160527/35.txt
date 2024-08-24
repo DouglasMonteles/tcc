@@ -1,1 +1,3 @@
-Reiteração de pedido de adiamento da votação do Projeto de Decreto Legislativo nº 315, de 2016, sobre a sustação de dispositivo legal acerca de metodologia de cálculo de descontos sobre os saldos devedores dos contratos de refinanciamento de dívidas celebradas entre a União, os Estados, o Distrito Federal e os Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d29b74776d0b7684e3dd36162d74086bfc62665f884e013fc59e8d2e697bf5ad
+size 334

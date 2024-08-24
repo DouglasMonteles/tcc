@@ -1,1 +1,3 @@
-Defesa, pelo PMDB, de votação de medida provisória sobre a instituição do novo Programa de Recuperação Fiscal - REFIS e da Medida Provisória nº 765, de 2016, relativa a remuneração de servidores de ex-Territórios Federais e de servidores públicos federais; à reorganização de cargos e carreiras e ao estabelecimento de regras de incorporação de gratificação de desempenho a aposentadorias e pensões. Solicitação aos Deputados de votação das medidas provisórias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd4636b5c9e5b13571761c0d49a1ecff68cd8e35177c2d8e4d7ce645fff2fb30
+size 487

@@ -1,1 +1,3 @@
-Imediata punição dos acusados pelos atos de violência praticados contra o agricultor José Luiz da Silva e sua família, na Fazenda Quirino, Município de Juarez Távora, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:400407e65ab4949b6e6720b9fda7988ba81b200f7213ac7b955dddfd25a26344
+size 193

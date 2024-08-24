@@ -1,1 +1,3 @@
-Perplexidade ante o posicionamento do PT e do PSOL, contrário à aprovação da Medida Provisória nº 918, de 2020, relativa à criação de funções de confiança destinadas à Polícia Federal e à extinção de cargos em comissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:914967a16305800bfa6d615d35015a166944c85fcd1055eab1045fb3a777b507
+size 237

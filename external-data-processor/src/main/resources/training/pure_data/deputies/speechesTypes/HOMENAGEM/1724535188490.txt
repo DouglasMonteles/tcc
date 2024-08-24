@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao aniversário da Batalha Naval do Riachuelo, Data Magna da Marinha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf6dab9982db158987593ec5899ef1ac778f9908c9b01e4febe69351cf71df70
+size 97

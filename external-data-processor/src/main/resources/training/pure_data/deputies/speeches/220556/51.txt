@@ -1,1 +1,3 @@
-Culpabilidade do ex-Presidente Jair Bolsonaro pelo elevado número de óbitos registrados no País em decorrência da Covid-19. Regozijo com a edição do decreto presidencial sobre a regulamentação da Lei Complementar nº 195, de 2022, (Lei Paulo Gustavo), sobre o apoio financeiro da União aos Estados, ao Distrito Federal e aos Municípios para garantia de ações emergenciais ao setor cultural. Realização, pelo governo petista, de investimentos na cultura brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2df55e502895f385269d76bf7bbacab246adb61bf72f7af2aa96c6d4d93ba548
+size 478

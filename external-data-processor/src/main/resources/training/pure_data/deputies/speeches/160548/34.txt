@@ -1,1 +1,3 @@
-Apoio ao projeto de lei sobre a presunção da verdade, no caso de recusa da realização do teste de bafômetro por condutor de veículo automotor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cccf2fec5441cc04137ebbb27ac7716c390cc46034cb5ed4407e5063e938714
+size 148

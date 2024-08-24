@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei do Congresso Nacional nº 2, de 2020, sobre alteração da Lei nº 13.898, de 2019, acerca das diretrizes de elaboração e execução da Lei Orçamentária de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65438cad2fcc168ffd2838b9492f8f7b0793f335689fe6d50fc2c48b608c2a2c
+size 220

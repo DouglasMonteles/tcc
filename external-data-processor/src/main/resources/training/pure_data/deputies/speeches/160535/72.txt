@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Deputado Freitas Nobre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68dfd4f5097761457e2710fb8ac19ce07316a0515a3a896d49b5312993b50371
+size 48

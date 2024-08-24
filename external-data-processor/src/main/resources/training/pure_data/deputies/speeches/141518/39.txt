@@ -1,1 +1,3 @@
-Contestação ao discurso proferido pelo Deputado Alceu Moreira sobre os direitos do trabalhador portuário na Medida Provisória nº 595, de 2012, acerca o novo marco regulatório do setor portuário nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5020f4850a939fd9fe38c4e76215f4da80cf2830fb95f67e0af6b82b0b48226f
+size 210

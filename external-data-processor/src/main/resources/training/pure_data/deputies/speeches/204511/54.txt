@@ -1,1 +1,3 @@
-Defesa da utilização das reservas internacionais do Brasil em projetos de infraestrutura.  Sugestão ao Governo Federal de apoio à produção de lavouras comunitárias no País, com base na experiência japonesa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9af6b4256e3fe6c0e7994de2db2faae37dbf86d5598cb9637f439983bd2b3a62
+size 215

@@ -1,1 +1,3 @@
-Regozijo com projeções da produção agrícola cearense em 2009 e com projetos governamentais destinados ao desenvolvimento socioeconômico do interior do Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e7bb0913020716e231edef0093f87e95e5fbf8e02d73522924cdad9fad48dc8
+size 174

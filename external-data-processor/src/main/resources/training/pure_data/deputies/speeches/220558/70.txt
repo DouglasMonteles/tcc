@@ -1,1 +1,3 @@
-O Deputado expressou indignação ao assistir a vídeos que retratavam a morte de crianças recém-nascidas, perpetrada por bandidos. Ele relacionou esse evento à presença, na Câmara dos Deputados, de indivíduos que defendem criminosos palestinos. O Deputado também criticou o governo brasileiro por seguir um caminho de destruição e desordem, destacando a inação diante dos ataques criminosos no Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61c28025f8e4c56c7923e41db2000d2a910b25f42c6195760c32b77804c96d70
+size 421

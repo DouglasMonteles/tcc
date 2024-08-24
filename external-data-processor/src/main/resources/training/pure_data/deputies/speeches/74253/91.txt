@@ -1,1 +1,3 @@
-Pesar pelos índices da educação nacional ante dados do Censo Escolar da Educação Básica do Brasil de 2015. Descaso do Governo Federal com a educação no País. Defesa do impeachment da Presidente da República, Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4718dac6c4f33850e4dfd71f1eb32d1f69e20c37ff48e8230a28ba0591800827
+size 233

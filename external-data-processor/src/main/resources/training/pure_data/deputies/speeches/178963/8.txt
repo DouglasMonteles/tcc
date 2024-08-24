@@ -1,1 +1,3 @@
-Sessão solene de homenagem póstuma ao ex-Deputado e ex-Ministro Mendes Ribeiro Filho.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e5efecd448f3c5fa46132bfc9ecb2c774301c92af0e962c7d65428b2e35057f
+size 236

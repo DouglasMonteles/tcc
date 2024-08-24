@@ -1,1 +1,3 @@
-Encaminhamento de indicação ao Ministro da Educação, Mendonça Filho, com pedido de alteração em decreto sobre regulação e supervisão de instituições de ensino superior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6099a5fbc17fd36aa242699f14219f548a562b08be96e3f0a234f7232625e928
+size 180

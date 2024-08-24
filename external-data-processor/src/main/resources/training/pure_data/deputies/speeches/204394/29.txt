@@ -1,1 +1,3 @@
-Falta de condições para a permanência do Sr. Sérgio Moro no cargo de Ministro da Justiça e Segurança Pública, diante de denúncia veiculada pelo site  The Intercept Brasil. Defesa de nulidade de processos instaurados contra o ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17df4352199386642310632697d53044d18fdaa55597666bdd5751dd82559c40
+size 274

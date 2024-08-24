@@ -1,1 +1,3 @@
-Pedido aos Deputados de apoio para intercessão junto ao Poder Executivo com vistas ao estabelecimento de medidas para a manutenção das prerrogativas do Brasil como membro da ICCAT - International Commission for the Conservation of Atlantic Tunas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bded366aa3b319b156bd6f41f2b0f04023d0c41dd13c3cb114885b987a217022
+size 249

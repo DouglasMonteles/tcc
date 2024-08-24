@@ -1,1 +1,3 @@
-Denúncia de discriminação racista praticada contra o Deputado Estadual Renato Freitas e à pesquisadora da FIOCRUZ, Samantha Vitena, em voos domésticos. Pedido à Polícia Federal, ao Ministério da Justiça e Segurança Pública e ao Ministério Público de investigação do crime de racismo nos aeroportos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a16029a9c2812194006742f88f1b13b3363afc83165578775d135e8b5b3dad10
+size 325

@@ -1,1 +1,3 @@
-Defesa de adoção de medidas para redução do número de feminicídios no País. Apoio ao Projeto de Lei nº 4.734, de 2019, sobre o serviço prestado pelas Delegacias Especializadas de Atendimento à Mulher - (DEAMs).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a81f51711d4211487925890bc6aef3c22486f6a3341ce23b1692b3ce4bde2c00
+size 220

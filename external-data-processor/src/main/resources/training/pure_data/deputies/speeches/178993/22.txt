@@ -1,1 +1,3 @@
-Encaminhamento de indicação ao Ministro da Educação para a abertura de editais de criação de curso de Medicina para faculdades particulares nas capitais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1418513e07d8f98c6279b844bf055449c052b01186f02c2560bde1ee90aca29e
+size 171

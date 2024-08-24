@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão da alínea c, inciso XXIII, art. 21, da Proposta de Emenda à Constituição nº 517, de 2010, sobre a quebra do monopólio estatal da produção de radioisótopos e radiofármacos. Protesto contra a condenação de passageiro por interpelação a Deputado em aeronave. Repúdio às críticas ao Deputado Eduardo Bolsonaro por postagem em rede social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6315f2c6e53995fdf82bc3e6791ea9b7fe1e34f78cb452c59c41d39d14bdc4a5
+size 432

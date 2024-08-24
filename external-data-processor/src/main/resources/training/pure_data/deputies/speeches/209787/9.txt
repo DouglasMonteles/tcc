@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Ocupação de espaços das mulheres por transexuais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2deed227c0bce3d705371b65f3fa931eb16a216c3152cdb9dff0c7bff323b1b
+size 95

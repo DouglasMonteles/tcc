@@ -1,1 +1,3 @@
-Imediata solução do impasse na duplicação da BR-101, no trecho da Reserva Biológica de Sooterama, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:516c0f78a91024123a2ccb7e4f563d9e975a3825dcb8eea331ca0b8aaece66d7
+size 129

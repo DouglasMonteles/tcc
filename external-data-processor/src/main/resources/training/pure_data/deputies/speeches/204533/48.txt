@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei nº 2.633, de 2021, sobre a repactuação dos termos de compromisso firmado entre os entes federados e o Fundo Nacional de Desenvolvimento da Educação - FNDE, para conclusão de obras de infraestrutura educacional inacabadas, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e6488352c16a4e694bc8ad91742907a316422383b17ebcf2766fd622b2ced69
+size 308

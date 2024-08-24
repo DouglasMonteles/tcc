@@ -1,1 +1,3 @@
-Convite aos Parlamentares para participação em reunião da Frente Parlamentar de Apoio às Santas Casas de Misericórdia, Hospitais e Entidades Filantrópicas na Área de Saúde, destinada ao debate da restruturação, do financiamento e da modernização do setor. Realização do movimento Tabela SUS, Reajuste Já, em prol da atualização da tabela de procedimentos do Sistema Único de Saúde - SUS, em São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cc17b4bcddec152a11e8c26acbf196b298228fc7bb09fe4f89545c77d38a25b
+size 443

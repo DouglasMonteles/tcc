@@ -1,1 +1,3 @@
-Saudação ao Deputado Federal Mainha, pela posse na Casa. Visita do orador aos Municípios de São Raimundo das Mangabeiras e Loreto, no Estado do Maranhão. Imediata aprovação pela Casa das propostas de extensão dos percentuais de reajustes do salário mínimo aos proventos de aposentados e pensionistas; paridade nos índices de reajustes salariais concedidos à classe; extinção do fator previdenciário e suspensão dos efeitos de aposentadorias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b520597467f00fa47c91c8e8913323504e509179bc6bbfee103f788a200c3b51
+size 457

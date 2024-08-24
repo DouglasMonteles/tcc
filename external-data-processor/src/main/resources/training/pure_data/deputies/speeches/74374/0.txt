@@ -1,1 +1,3 @@
-Desafio do Poder Legislativo de redução da edição de medidas provisórias. Urgente definição do Orçamento Geral da União de 2008. Elogio a membros da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização. Importância da garantia de recursos orçamentários para o setor de saúde pública. Oportunidade de apuração, pelo Congresso Nacional, de denúncias de irregularidades na utilização de cartões corporativos por membros do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3999dc414936d788aba55183bae890bb78085d79d4a59ecdabfe76c790a5f75a
+size 469

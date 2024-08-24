@@ -1,1 +1,3 @@
-Apresentação de projeto de lei para denominação da passagem subterrânea de pedestres na BR-468 de Túnel Marcos Roberto Ostwald Walthier.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31fb1653d5334657d377e99425d46a0abdf6555a5b2be83af8fd9283bc5e3561
+size 142

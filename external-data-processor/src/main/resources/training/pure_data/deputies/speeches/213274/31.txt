@@ -1,1 +1,3 @@
-Presença, na Casa, do Prefeito eleito Luiz Antonio Noli, do Município de Santa Lúcia, Estado de São Paulo, e do representante do Consórcio de Municípios da Alta Mogiana. Edson Avallos. Repúdio ao projeto de lei sobre a transferência das atribuições de Oficiais de Justiça para os cartórios extrajudiciais, encaminhado à Assembleia Legislativa pelo Tribunal de Justiça do Estado de Rondônia. Tramitação na Casa do Projeto de Lei nº 4.755, de 2020, de autoria do orador, sobre a alteração dos arts.154, 481, 482, 483 e 484 da Lei nº 13.105, de 2015 (Código de Processo Civil), com vista à adequação das atribuições do Oficial de Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ad1243b444ab85cf7be9d010bb591e64e2ed3cd55718162e7abd1abd935b69a
+size 663

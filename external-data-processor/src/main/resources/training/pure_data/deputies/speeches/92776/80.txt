@@ -1,1 +1,3 @@
-Prejuízos decorrentes da morosidade das obras da barragem de Berizal, no Estado de Minas Gerais. Apresentação à Comissão de Meio Ambiente e Desenvolvimento Sustentável de requerimento de realização de audiência pública para discussão do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:206d37d0562b12087c80245fbe3240d366b1737be1fc928b22a07fbebbd237ff
+size 256

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei Complementar nº 9, de 2021, sobre a alteração da Lei Complementar nº 64, de 1990, para disciplinamento da inelegibilidade decorrente da rejeição de contas relativas ao exercício de cargos ou funções públicas, por irregularidade insanável configuradora de ato doloso de improbidade administrativa, e por decisão irrecorrível do órgão competente, salvo no caso de condenação exclusiva à pena de multa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ea237ef228b65772a489865ce15fab3bbb42db4fced3dfb46604fbfe79bcd5f
+size 509

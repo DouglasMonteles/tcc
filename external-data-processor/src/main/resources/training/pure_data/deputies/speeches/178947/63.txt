@@ -1,1 +1,3 @@
-Repúdio à demissão de zelador do condomínio de apartamentos Solaris, no Município de Guarujá, Estado de São Paulo, em retaliação a depoimento do trabalhador à Promotoria de Justiça do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8d92e85eb99281d237465dc71379abdd6aacb2d2fece82fe48e163ed90f07f2
+size 216

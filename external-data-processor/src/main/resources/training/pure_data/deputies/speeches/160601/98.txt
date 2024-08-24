@@ -1,1 +1,3 @@
-Reiteração de conclamação ao povo brasileiro e da comunidade internacional de língua portuguesa de participação em manifestações de rua no País, nos Estados Unidos e na Europa contra o Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:338ecb8dc8f84b3ab37cd4f4d6fd7c812ab57619e2b0b348ee1193d5caccf486
+size 211

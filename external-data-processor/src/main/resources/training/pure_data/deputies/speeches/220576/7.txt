@@ -1,1 +1,3 @@
-Pedido à Casa de apoiamento à proposta de emenda à Constituição sobre a escolha do Procurador-Geral da República em lista tríplice indicada pelo Ministério Público Federal. Conveniência de proibição, pelo Conselho Nacional de Justiça, do financiamento de viagens de Ministros de Tribunais Superiores para participação em eventos de interesse de corporações privadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c22d7b54611af67d9103252a82a16402f90310a3f2d76a3edd8d54603eebc51
+size 383

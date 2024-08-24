@@ -1,1 +1,3 @@
-Transcurso do 68º aniversário de emancipação político-administrativa do Município de Suzano, Estado de São Paulo. Saudações a lideranças políticas do Município. Atuação parlamentar do orador em prol da população suzanense. Elogios à administração do Prefeito Municipal de Suzano, Rodrigo Ashiuchi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15832798d5f589fd8b675a9c6a42fef25cf5819ae06cc969066ba96b19de26e9
+size 316

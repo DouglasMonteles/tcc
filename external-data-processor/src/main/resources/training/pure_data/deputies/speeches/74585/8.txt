@@ -1,1 +1,3 @@
-Apoio à Emenda n° 21 apresentada à Medida Provisória n° 398, de 2007, sobre a instalação da sede da TV pública em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e51473e2cb359ea93ce937f02aef8a27b5d21663005d901282fa3bd97991b9c6
+size 150

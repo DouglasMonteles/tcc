@@ -1,1 +1,3 @@
-Transcurso do aniversário de fundação do Município de Paraíso do Norte, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ab74259013353515b0dc5349907a04709cc80a90cfda5c2dd4f8f0a9a2c1866
+size 95

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento para votação, artigo por artigo, do Projeto de Lei nº 5.595, de 2020, sobre o reconhecimento da educação básica e do ensino superior, em formato presencial, como serviços e atividades essenciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:996eb66561803de7289df7fc35273bf394f3bd49402d8af5a2909ea1428678e0
+size 255

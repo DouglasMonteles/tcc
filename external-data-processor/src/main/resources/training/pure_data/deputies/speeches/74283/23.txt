@@ -1,1 +1,3 @@
-Discussão da Medida Provisória 401 de 2007 (Altera as Leis 11.134 de 2005 e 11 361 de 2006, que dispõe sobre a remuneração devida aos militares da Polícia Militar e do Corpo de Bombeiros Militar do Distrito Federal e sobre os subsídios das carreiras de Delegado de Polícia do Distrito Federal e de Polícia Civil do Distrito Federal). Defesa da aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:487d0209a81e9854d88b851c3f706b912066dd4c185b3777d6a6d9286e1e3759
+size 377

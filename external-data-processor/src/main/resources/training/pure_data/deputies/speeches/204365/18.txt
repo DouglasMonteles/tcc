@@ -1,1 +1,3 @@
-Defesa de aprovação da proposta de reforma previdenciária com a inclusão dos Estados e Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:911f7dae5a1cd1dd5157efd172b5fff431ee30bb79d5b9ffbf3828dacb1e02a3
+size 103

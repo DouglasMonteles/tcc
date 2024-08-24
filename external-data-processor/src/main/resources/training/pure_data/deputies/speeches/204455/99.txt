@@ -1,1 +1,3 @@
-Presença do Ministro da Defesa, general Walter Braga Netto, na Comissão de Fiscalização Financeira e Controle. Postura democrática do Presidente Jair Bolsonaro. Repúdio à atuação dos Ministros do Supremo Tribunal Federal, Alexandre de Moraes e Luís Roberto Barroso. Posicionamento do Deputado Aécio Neves a respeito do voto impresso. Responsabilidade do Presidente dos Estados Unidos da América, Joe Biden, pela crise humanitária vigente no Afeganistão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb0d71975dd729a274d780b238e17e2f9d32c9a574bd3bfba479764736f5653b
+size 467

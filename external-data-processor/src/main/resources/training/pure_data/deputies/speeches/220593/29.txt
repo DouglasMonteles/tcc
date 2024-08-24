@@ -1,1 +1,3 @@
-Questão de ordem sobre a suspensão da Ordem do Dia, tendo em vista a não divulgação prévia da pauta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bfa5e72ea34c7a02712a8fdf3154977efca521c499cfdcebd311e4495e5b165
+size 106

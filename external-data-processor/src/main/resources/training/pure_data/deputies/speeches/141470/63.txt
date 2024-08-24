@@ -1,1 +1,3 @@
-Enaltecimento de programas do Governo Luiz Inácio Lula da Silva voltados para a educação profissional e tecnológica, com destaque para o Programa Brasil Profissionalizado. Iniciativas do Governo do Estado do Ceará em prol do ensino profissionalizante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38b4bcc535de7ba1b0eaab366b2b9958e27e7aea9d5e6c046f9d3b9473f6cf4a
+size 256

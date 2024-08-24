@@ -1,1 +1,3 @@
-O Deputado expressou seu repúdio à agressão ocorrida no Plenário da Câmara e pediu uma punição rigorosa ao agressor para manter a dignidade e o respeito no ambiente parlamentar. Ele solicitou que o Presidente da Mesa e o Conselho de Ética tomem medidas disciplinares para garantir a ordem no Plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b6fdb527858bbe243b338ade44fbd9e16f39a63d230626fe50788bdf648c5a3
+size 310

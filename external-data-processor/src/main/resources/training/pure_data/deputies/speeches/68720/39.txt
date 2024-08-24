@@ -1,1 +1,3 @@
-Outorga do título de Cidadão Aracajuano ao Delegado de Polícia Federal José Rita Martins Lara, no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:828d59ca7cadb470133b2ea3af0c2ce49ff09c180785a94ca0a83619f205d4b3
+size 120

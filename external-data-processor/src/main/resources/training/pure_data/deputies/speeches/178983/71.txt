@@ -1,1 +1,3 @@
-Comemoração do 53º aniversário de criação do Município de Biritiba Mirim, no Estado de São Paulo. Atuação parlamentar do orador em defesa dos interesses da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfefafd8772cb6777b60609c2a3f6f48c8847cc8c72f7c0e7a886578b5d1f5d9
+size 181

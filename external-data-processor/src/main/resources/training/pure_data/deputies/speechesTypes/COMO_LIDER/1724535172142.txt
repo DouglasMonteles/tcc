@@ -1,1 +1,3 @@
-O Deputado denunciou a crise de energia em São Paulo, afetando milhares de pessoas. Criticou a Enel, a concessionária de energia, e o Prefeito, por sua inércia diante do problema, propondo uma taxa injusta à população. Convocou uma audiência pública para responsabilizar as autoridades e a concessionária pela crise.
+version https://git-lfs.github.com/spec/v1
+oid sha256:625cbeab23fbad5afcab3f0be3f1cb981a779bfa51db5be67fc2f69b4df6945e
+size 325

@@ -1,1 +1,3 @@
-Manipulação de pesquisas eleitorais no Distrito Federal. Necessidade de adoção pela Casa de providências acerca da atuação de institutos de pesquisa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5579e3e3057a3ca020f425206771392803f6a0a808ad941ff217d1e21e013cc0
+size 156

@@ -1,1 +1,3 @@
-Debate das circunstâncias e responsabilidades pelo rompimento da barragem da Mina do Córrego do Feijão, da empresa Vale, no Município de Brumadinho, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3699ea10a5647d79e85c75b60b8fca3725f3b6c99998fb874d4713dcb3aebaa0
+size 176

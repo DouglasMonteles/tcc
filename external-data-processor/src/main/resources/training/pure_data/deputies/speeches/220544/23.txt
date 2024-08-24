@@ -1,1 +1,3 @@
-Presença, na Câmara dos Deputados, do Secretário de Segurança Pública do Estado do Tocantins, Wlademir Costa Motta; do Secretário Extraordinário de Representação do Tocantins em Brasília, Carlos Mazini, e do Assessor de Representação, Mozart Felix.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2f8b6a1a735a5694d260460a3d5f4fc5e6fc389fb3cbc5cde50de0d3c506aaf
+size 260

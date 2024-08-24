@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 2, apresentada ao Projeto de Lei nº 4.121, de 2019, sobre o estabelecimento de limite de gastos de campanha nas eleições municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7980f87ad9a1e63d614e7e26a2f7fd8ba14db233269e4ce6ec5919217e13d298
+size 241

@@ -1,1 +1,3 @@
-Realização do IV Congresso Nacional do Partido dos Trabalhadores, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:435f5fdd453a284f20c7dbcdfc9a226c7485370170302e5c7da49adb0949f2b3
+size 99

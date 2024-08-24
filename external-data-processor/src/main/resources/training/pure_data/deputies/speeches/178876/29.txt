@@ -1,1 +1,3 @@
-Falecimento do cantor Cristiano Araújo em acidente em rodovia no Estado do Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce159a59d03c5aa3813575eee24517b32dc73f785f4ee168b74179bed530eba9
+size 83

@@ -1,1 +1,3 @@
-Conclamação dos Deputados da Situação e da Oposição à luta por um novo Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7aa5c877eef1c7630bb296290fa01c6add2c15dd51815dc46d013fc74e6a3abc
+size 85

@@ -1,1 +1,3 @@
-Resultados positivos da atuação do orador e do Deputado Caio Narcio em prol da juventude. Acerto da aprovação pela Casa da proposta de redução da idade mínima para apresentação de candidaturas aos cargos de Deputado, Senador e Governador. Justificativa da ausência do orador em votação anterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5f6b236527d4a40730771020ba2f6c5ca69bad0843f6684847adb51809346fc
+size 307

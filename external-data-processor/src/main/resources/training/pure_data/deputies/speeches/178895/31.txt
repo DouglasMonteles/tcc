@@ -1,1 +1,3 @@
-Homenagem ao lavrador, poeta e neto de escravos João Paulino Barbosa, do Município de Desterro do Melo, Estado de Minas Gerais, pelo depósito de rosas no túmulo da Princesa Isabel, na Catedral de Petrópolis, Estado do Rio de Janeiro, ao ensejo do transcurso dos 127 anos da abolição da escravatura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3fc0715e9ead06ff34deaaa764ef917c59c76aa43dd7fbb86f513e789b0c1bd
+size 305

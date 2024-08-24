@@ -1,1 +1,3 @@
-Indignação do orador com a solicitação à Vara de Execuções Penais, pela Defensoria Pública do Distrito Federal, por medidas de garantia da integridade física e da vida do assassino e estuprador Lázaro Barbosa de Sousa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24834c30ccb66c4489d21e58cce8440b5836056819bbf47bea5781645e04f8f1
+size 228

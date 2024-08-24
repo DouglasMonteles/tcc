@@ -1,1 +1,3 @@
-Orientação de bancada na votação de requerimento de retirada de pauta da Medida Provisória nº 867, de 2018, sobre a extensão do prazo para adesão ao Programa de Regularização Ambiental. Apoio da bancada do SOLIDARIEDADE ao Congresso Nacional diante de ataques de governistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be3537f87a18613d25809287a04fb562f62dc86526409659fa64b4f3bccef62c
+size 285

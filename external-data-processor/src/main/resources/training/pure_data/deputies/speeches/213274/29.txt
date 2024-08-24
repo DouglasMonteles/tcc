@@ -1,1 +1,3 @@
-Discussão da Medida Provisória nº 996, de 2020, sobre a instituição do Programa Casa Verde e Amarela, destinado à aquisição da casa própria para famílias residentes nas áreas rural e urbana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b31eb4aa2ce1ae2b3b1648340fc54520d0f0d5ba8a50ffda9dfab7530aecec4
+size 201

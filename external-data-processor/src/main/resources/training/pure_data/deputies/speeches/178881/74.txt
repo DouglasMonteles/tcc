@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 7.354, de 2017, referente à alteração da Lei nº 11.664, de 2008, acerca da efetivação de ações de saúde destinadas a prevenção, a detecção, ao tratamento e ao seguimento dos cânceres do colo uterino e de mama, no âmbito do Sistema Único de Saúde - SUS, para garantia da realização de ultrassonografia mamária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cec14088e49df7a0ada51a9f884c5a0ebbd094df48c0a6c3baccbb8561b71c14
+size 443

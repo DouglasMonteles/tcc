@@ -1,1 +1,3 @@
-O Deputado celebrou a emissão de uma ordem de serviço para a urbanização do Mirante do Quilombo Mimbó, um quilombo com mais de 200 anos de história no Piauí. Destacou as políticas públicas que têm beneficiado a comunidade, incluindo acesso à internet e regularização fundiária. A urbanização do mirante proporcionará uma infraestrutura melhor para a promoção do empreendedorismo local e a preservação da cultura quilombola, contribuindo para o desenvolvimento da região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:881c4b26c8075abaa896e8585353dfe19ba823c8ed1aa6104b5f9c2fd0b222b3
+size 492

@@ -1,1 +1,3 @@
-Congratulação ao Conselho Nacional de Previdência Social - CNPS, pela redução das taxas de juros incidentes em empréstimos consignados de aposentados do INSS. Protesto contra a não adesão do Banco do Brasil e da Caixa Econômica Federal à decisão do CNPS. Inexistência de justificativa para a manutenção, pelo Comitê de Política Monetária - COPOM do Banco Central, da taxa básica de juros, a Taxa SELIC, em 13,75% ao ano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55c55c7a7d9ec0e9d6daea9ff915d49652df2ef727729586353881846e4b9308
+size 438

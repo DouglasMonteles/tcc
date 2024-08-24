@@ -1,1 +1,3 @@
-Envolvimento do Banco Matone S/A e de Prefeitos Municipais em fraudes no processo de concessão de empréstimos consignados. Ajuizamento pelo Ministério Público de ação civil pública contra tal prática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:835d320addfa0398f08f54710a543c429b9028d3d0a4ac00dc519217d4e4abbf
+size 208

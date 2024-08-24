@@ -1,1 +1,3 @@
-Inadmissibilidade de despejo dos moradores do Conjunto Habitacional Vila Nova Claudete, no Município de Cabo de Santo Agostinho, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6a78d505178e074fb1a01076f6c4cd27ab4bb55c2fc2763cdceae743999bd6a
+size 151

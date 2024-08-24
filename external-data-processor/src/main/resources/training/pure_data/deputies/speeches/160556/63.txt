@@ -1,1 +1,3 @@
-Saudações à Presidenta eleita da Central Única dos Trabalhadores - CUT no Estado de Minas Gerais, Beatriz Cerqueira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9c46ac3a1c0a1991fa4e1dfe9d718ea818c94e39b6d72dc8dab02bd54bec8ee
+size 120

@@ -1,1 +1,3 @@
-Pedido ao Presidente da Agência Nacional de Telecomunicações - ANATEL de adoção de providências em relação à operadora de telecomunicações Claro, ante a interrupção do serviço de telefonia celular nos Municípios maranhenses de Carutapera, Turiaçu e Luís Domingues. Convocação de representantes da empresa para comparecimento à Câmara dos Deputados com vistas à prestação de esclarecimentos sobre o fato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e7de3c673a3d91508b4147cf24a571f15a3fe722bd522542eb3e374cc5b2ec6
+size 427

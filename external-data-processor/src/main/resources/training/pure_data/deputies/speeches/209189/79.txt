@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de votação em globo da admissibilidade dos destaques simples, oferecidos ao Projeto de Lei nº 4.162, de 2019, sobre a atualização do marco legal do saneamento básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:131951b20ac1e7ace88fba694f41c8023f385f3a09d8aee18afe9b137dff9d6a
+size 216

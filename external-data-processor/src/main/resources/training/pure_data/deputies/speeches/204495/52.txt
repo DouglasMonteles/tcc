@@ -1,1 +1,3 @@
-Solidariedade ao Deputado Ivan Valente. Desestruturação do Governo Jair Bolsonaro. Defesa de demissão do Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f71c2f706fd07920b8e5b4ab846c929234cdab2082c366fa980ea8fde351dc67
+size 165

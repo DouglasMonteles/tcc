@@ -1,1 +1,3 @@
-Comemoração do 129º aniversário do Município de Simão Dias, no Estado de Sergipe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efda2358b741898c898438ceaf743a3a1367dac5e775b9e795fe762f42252d2c
+size 87

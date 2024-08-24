@@ -1,1 +1,3 @@
-Acerto da concessão, pela Câmara de Comércio Brasil-Estados Unidos, do Prêmio Person of the Year à empresária cearense Yolanda Vidal Queiroz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d174b7089a2a0aea39cdec625e63bf80e23ab065f8db18ac377c04d12d3c5ad2
+size 147

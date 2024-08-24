@@ -1,1 +1,3 @@
-Alteração do § 7º  art. 3º do Projeto de Lei de Conversão da Medida Provisória 452 de 2008 (Dá nova redação à Lei 11.887 de 2008, que cria o Fundo Soberano do Brasil – FSB, e à Lei 11.314 de 2006, que autoriza o Departamento Nacional de Infraestrutura de Transportes – DNIT a executar obras nas rodovias transferidas a a entes da Federação, e dá outras providências),  relativo a     licenciamento ambiental para obra em rodovias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bf300803adb4d8f1449fa0e2a36774476608c6886610f4676a3b6f1fc95d88d
+size 450

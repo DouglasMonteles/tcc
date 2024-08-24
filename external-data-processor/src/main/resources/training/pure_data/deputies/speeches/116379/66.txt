@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista, quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, à Medida Provisória nº 885, de 2019, a respeito da venda de bens apreendidos de traficantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5235b255f7942abf27ed880078a088bd1286998102e6f2cf2107477662d05453
+size 295

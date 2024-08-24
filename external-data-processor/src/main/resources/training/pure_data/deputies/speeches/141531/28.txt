@@ -1,1 +1,3 @@
-Adesão de Municípios ao Programa Mineiro de Empreendedorismo e Gestão para Resultados Municipais. Anúncio, pelo Governador do Estado de Minas Gerais, Antonio Anastasia, de lançamento de programa de financiamento em benefício das municipalidades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebc07d4e41b91b9b5510be6f321a509533ded7b3ef5370665670fd93ee49ac6b
+size 251

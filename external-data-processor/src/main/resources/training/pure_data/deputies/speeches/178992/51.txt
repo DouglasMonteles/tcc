@@ -1,1 +1,3 @@
-Necessidade de aprovação da proposta de reforma tributária. Excelência da atuação do Deputado Luiz  Carlos Hauly, Relator da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2507065f880b610b353e3a678174b5ab09c43b33e03eb24b698ca9e33652b0d9
+size 140

@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar em Defesa das Comunidades Tradicionais de Terreiros. Escolha, pela Organização das Nações Unidas - ONU, de 2011 como o Ano da População Afrodescendente. Concessão de tratamento isonômico entre as casas religiosas de matrizes africanas e religiões tradicionais. Compromisso do Ministro da Integração Nacional, Fernando Bezerra Coelho, de realização de estudos acerca da construção da Barragem do Rio Pardo, na região do Município de Vitória da Conquista, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ae47f77b4f248389f08a258c3113d3d51a295af3767a0a278a26d662c3e88f1
+size 522

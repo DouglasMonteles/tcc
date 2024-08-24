@@ -1,1 +1,3 @@
-Solicitação ao Relator da Medida Provisória 559 de 2012, Deputado Pedro Uczai, de esclarecimento sobre a anunciada alteração do dispositivo do Projeto de Lei de Conversão que trata   do Regime Diferenciado de Contratações Públicas - RDC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b6adcd120f3a03c1265fcdb60e061a89637728264de7412d93a5f0f9f73440f
+size 246

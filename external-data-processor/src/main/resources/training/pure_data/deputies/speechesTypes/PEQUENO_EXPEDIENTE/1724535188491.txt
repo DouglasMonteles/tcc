@@ -1,1 +1,3 @@
-Desmonte, pelo Governo Federal, dos direitos sociais e de políticas públicas destinadas aos pobres e às classes trabalhadoras. Submissão do Governo brasileiro aos interesses do mercado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a59e2bb5e56008eb381d32ddf3c32f2d3f3407ea0768e639b3d214d31971f847
+size 189

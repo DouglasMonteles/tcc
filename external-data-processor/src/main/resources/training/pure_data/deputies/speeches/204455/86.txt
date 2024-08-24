@@ -1,1 +1,3 @@
-Repúdio aos discursos e declarações sobre a comparação do Presidente Jair Bolsonaro com genocidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61f500cb1b77838cfb03d1f4974559ee8bfc1730fd2cd853de53d0fd753832ec
+size 103

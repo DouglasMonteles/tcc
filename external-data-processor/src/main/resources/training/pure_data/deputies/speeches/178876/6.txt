@@ -1,1 +1,3 @@
-Penalização da população brasileira com o elevado índice de impostos e tributos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20b251a3b3af83eb2694dd4c0dcb789476be1def6de77bf4a3d601b8a2944eba
+size 85

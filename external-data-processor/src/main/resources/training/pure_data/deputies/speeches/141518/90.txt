@@ -1,1 +1,3 @@
-Sugestão aos Líderes partidários para aprovação de emenda de redação oferecida em substituição ao § 5º do art. 32, da Lei nº 9.096, de 1995, incluído pelo art. 1º do Substitutivo oferecido ao Projeto de Lei nº 1.321, de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:034f799155a5d9201f9f1c6baeeb64c8dd5b6b2abaa85f09da95a684fb5b14c2
+size 240

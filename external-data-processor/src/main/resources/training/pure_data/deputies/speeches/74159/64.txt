@@ -1,1 +1,3 @@
-Encaminhamento da votação do  caput do art. 76 do Ato das Disposições Constitucionais Transitórias, com  a redação dada pela PEC  61 de 2011 (Altera o art.  76 do Ato das  Disposições Constitucionais Transitórias, para prorrogar   a vigência da Desvinculação de Receitas da União -  DRU até 31 de dezembro de 2015), objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:213c9c7599da2e10e74eee292d4278874e922a036c6fab3d68ffaa8fec78579d
+size 345

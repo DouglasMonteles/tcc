@@ -1,1 +1,3 @@
-Congratulações à Deputada Jusmari Oliveira e ao Tribunal Superior Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08f3547f37b1eaba62dae918378c17a3b3191c9dfbe35cdd10a0cd457dcd9455
+size 79

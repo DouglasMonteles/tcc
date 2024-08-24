@@ -1,1 +1,3 @@
-Manobras de Deputados oposicionistas para impedimento da tramitação da proposta de reforma previdenciária na Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88040c9fe280326275096f33e4e5a51bd08d01c7763e58a66e8548530685c9d7
+size 166

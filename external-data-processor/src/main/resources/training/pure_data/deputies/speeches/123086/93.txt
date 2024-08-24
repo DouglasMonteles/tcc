@@ -1,1 +1,3 @@
-Transcurso do aniversário do Estado do Piauí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f574481264f6ea5267d22af8d2a7ce1e1dcfdda38644b0637b053d65873c842
+size 47

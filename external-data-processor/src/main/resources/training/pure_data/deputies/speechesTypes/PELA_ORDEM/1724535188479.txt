@@ -1,1 +1,3 @@
-Saudações aos pastores da Igreja Evangélica Assembleia de Deus presentes no Distrito Federal. Presença no plenário da suplente em exercício no cargo de Deputada Estadual do Ceará, Dra. Silvana, do seu esposo e outros acompanhantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6313c6c8244592555071a0699bacb63d5258307d6c627712733a2f752522ef49
+size 238

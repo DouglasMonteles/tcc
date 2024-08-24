@@ -1,1 +1,3 @@
-Posicionamento favorável do PPS  ao  § 3º do art. 35 do Substitutivo ao Projeto de Lei 3.118 de 2008 (Dispõe sobre a Política Nacional de Turismo, define as atribuições do Governo Federal no planejamento, desenvolvimento e estímulo ao setor turístico e dá outras providências), que prevê multa de até três milhões para os prestadores de serviços turísticos pela não-observância do disposto nesta Lei, objeto de DVS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cb6b15b401addd7bf567b83b3818ff30ad7c4822008491d1a9545a8fd952a89
+size 434

@@ -1,1 +1,3 @@
-Posicionamento contrário à aprovação da proposta de elevação dos recursos do Fundo Partidário, com vista à realização de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f3c2b7457a7cb219fd96fde3411d5dcf02a62ecd979ba4abd8f052204bf8cb9
+size 152

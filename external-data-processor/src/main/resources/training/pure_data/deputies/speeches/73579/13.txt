@@ -1,1 +1,3 @@
-Protesto contra o impedimento, pelos Deputados Ivan Valente e Arnaldo Madeira, da votação do requerimento para tramitação em regime de urgência do projeto de lei sobre Plano de Cargos eSalários dos policiais militares e bombeiros militares do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c8c147847f8420253d0f952069ec58340f11b37afb271cadf6774a980d282de
+size 266

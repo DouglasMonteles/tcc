@@ -1,1 +1,3 @@
-Urgente melhoria da qualidade do serviço de abastecimento de água prestado pela Companhia Pernambucana de Saneamento - COMPESA, no Município de Petrolina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77e6531fcb691441cf403a6fc3eddf2a284098937b737ba6acc62127173a39b5
+size 157

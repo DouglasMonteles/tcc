@@ -1,1 +1,3 @@
-Publicação pelo jornal Folha de S. Paulo de artigo sobre o desmatamento da Mata Atlântica. Preocupação do orador com o desmatamento da caatinga, um dos principais biomas da Região Nordeste. Defesa da educação ambiental para conscientização da população nordestina com relação à importância da preservação da caatinga.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a335e89a1d609e881bdfa77c541b4b134e3517eecb38f44894394cee9ffacc6
+size 335

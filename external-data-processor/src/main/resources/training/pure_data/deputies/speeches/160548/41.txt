@@ -1,1 +1,3 @@
-Repúdio à decisão do Banco Central de transferência para a população da responsabilidade pelo recebimento de cédulas com manchas subtraídas de caixas eletrônicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a470bb70da11caa8f6509b0fc673210e50cfb073222d214e4bde8573d3ed491
+size 171

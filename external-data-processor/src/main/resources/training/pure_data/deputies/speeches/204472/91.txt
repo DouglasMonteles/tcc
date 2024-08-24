@@ -1,1 +1,3 @@
-Posicionamento dos Deputados dos partidos da ala do ex-Presidente Luiz Inácio Lula da Silva, contrário à prisão de condenados em segunda instância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a352c04293595693c17b8e55d43c8cfd4a034b771ec35b050b63fcdc4faac400
+size 152

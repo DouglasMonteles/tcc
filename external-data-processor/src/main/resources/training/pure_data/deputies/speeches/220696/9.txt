@@ -1,1 +1,3 @@
-Redução dos preços de combustíveis e do gás de cozinha. Sinais de recuperação da economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db765c1f0c944f8430688b05b3fafc49008250861b767715c7818f40770e1242
+size 108

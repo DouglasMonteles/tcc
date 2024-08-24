@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação em globo da admissibilidade dos requerimentos de destaques simples. Encaminhamento ao Ministro da Economia, Paulo Guedes, e ao Ministro da Infraestrutura, Tarcísio Gomes de Freitas, de requerimentos de informações sobre a destinação dos recursos provenientes da privatização do Aeroporto Internacional do Recife-Guararapes, no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94f4c2aa1046c67708cb8f19af1995969e41faea4d2f95dcc735bb273b7086ca
+size 421

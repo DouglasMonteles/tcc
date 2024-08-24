@@ -1,1 +1,3 @@
-Realização da 1ª Conferência Nacional de Assistência Técnica e Extensão Rural na Agricultura Familiar e na Reforma Agrária, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd993ae3f2f0a542e1bbfa5042cde1ce327b237bebb44b5c2c9409831ca45df9
+size 163

@@ -1,1 +1,3 @@
-Realização pela Casa de sessão solene, ao ensejo do transcurso do aniversário de assinatura da Lei Áurea (Lei da Abolição da Escravatura no Brasil). Libertação de escravos no Município de Redenção, Estado do Ceará, anteriormente ao advento da Lei Áurea.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4212a947dae13099cb0ac701860975ca35cdcd1bdf42531b8e4a94924ea63fd1
+size 267

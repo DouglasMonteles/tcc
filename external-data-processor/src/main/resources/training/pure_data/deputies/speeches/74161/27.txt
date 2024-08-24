@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei 219 de 2003 (Regulamenta o inciso XXXIII do art. 5º da Constituição Federal, dispondo sobre prestação de informações devidas pelos órgãos da Administração Pública), apensos os PLs 1.019/07, 1.924/07 e 5.228/09. Ponderações sobre o alcance da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3271902a226cf84cde844c6c0fad27375bc52d4ffbe65ffcedfdba7fec7bb938
+size 294

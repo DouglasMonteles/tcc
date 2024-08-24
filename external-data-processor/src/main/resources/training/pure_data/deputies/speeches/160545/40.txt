@@ -1,1 +1,3 @@
-Requer o imediato início da Ordem Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bd5d9a541c202913a00bab8e5ca3d4b71eaead3a05e38c861dc99e86ffd19c1
+size 39

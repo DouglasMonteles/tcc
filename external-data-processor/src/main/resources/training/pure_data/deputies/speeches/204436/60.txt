@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do § 2º do art. 5º do substitutivo oferecido ao Projeto de Lei nº 1.295, de 2021, sobre as medidas excepcionais relativas à dispensa de licitação para a aquisição de insumos e medicamentos de eficácia comprovada, bem como de bens e serviços, inclusive de engenharia, utilizados no tratamento de saúde em regime hospitalar de pacientes infectados pelo coronavírus responsável pela Covid-19 (Sars-CoV-2).
+version https://git-lfs.github.com/spec/v1
+oid sha256:febb438f44aa5eb7ce5282af705e373d334a50bcba1217c1fe92e29373f29296
+size 508

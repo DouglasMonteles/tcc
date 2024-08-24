@@ -1,1 +1,3 @@
-Repúdio à escolha do novo Presidente da PETROBRAS. Defesa de debate pela Casa de abertura de processo de impeachment da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cef2680eb552e33036cb55d8b41fe8840eb13a36db5df6f07e0c7d09d1915903
+size 148

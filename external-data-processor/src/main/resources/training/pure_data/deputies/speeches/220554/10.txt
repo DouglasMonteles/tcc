@@ -1,1 +1,3 @@
-Não extinção, pelo Governo Luiz Inácio Lula da Silva, da política pública destinada à comunidade surda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00ee6d976e386ea6fa40731bf27aab49a30313040ad649963f8cf6fbdb161f41
+size 110

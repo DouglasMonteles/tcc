@@ -1,1 +1,3 @@
-Regozijo com a recuperação da saúde do Presidente do Congresso Nacional. Orientação de bancada na votação do Projeto de Lei de Congresso Nacional nº 7, de 2020, acerca da abertura ao Orçamento Fiscal da União, em favor do Ministério da Justiça e Segurança Pública, de crédito suplementar no valor de R$ 806.765.236,00, para reforço de dotações constantes da Lei Orçamentária vigente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80977319138e8645b24993326cdd31c20968190df2ab0624a7b2598c288196f3
+size 403

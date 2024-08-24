@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 1.481-A, de 2007, sobre a fixação de prazo para o acesso de escolas aos serviços de Internet, e a destinação de 75% dos recursos do Fundo de Universalização dos Serviços de Telecomunicações   (FUST) para a instalação de redes digitais de informação em estabelecimentos de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d62624fb5be62521e3e84e893fba7dd78c4b994e324e01adebcc6be709c219ee
+size 389

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo apresentado ao Projeto de Lei nº 4.438, de 2021, sobre alterações do Estatuto da Pessoa Idosa e do Estatuto da Pessoa com Deficiência, para aprimoramento da defesa dos direitos humanos e para o estabelecimento de medidas protetivas de urgência para as pessoas idosas e pessoas com deficiência vítimas de violência ou sob ameaça de violência.&nbsp;Congratulações à Deputada Amália Barros pela luta em defesa das pessoas com deficiência e dos idosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9ae1f97b2a6cc25e4980ff1b246a1e7a10702e11a653f0ffd0dfddd83d9059b
+size 516

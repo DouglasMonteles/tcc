@@ -1,1 +1,3 @@
-Contrariedade à decisão do Governador do Estado de São Paulo, Tarcísio Gomes de Freitas, de abolição de livros didáticos e adoção de plataformas digitais de ensino; bem como da fiscalização de professores pelos diretores dos respectivos estabelecimentos educacionais. Equívoco da cassação de mandatos de diretores escolares eleitos, e da criação de novas escolas cívico-militares pelo Governo do Estado do Paraná. Apoio à instalação de câmeras de vídeo nos uniformes de policiais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8620d28ec59e7701542aafb8df206f36f9debdb11f38c0c3fe1b4fa29dbd7231
+size 503

@@ -1,1 +1,3 @@
-Elevação dos índices de desemprego no País. Agravamento da crise econômica brasileira. Importância do estímulo governamental às atividades econômicas para  a geração de emprego e renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e45e36365c9d609a738d3154c6f5fe0b72a74ed836c7d2ea85915e65bedf33ea
+size 196

@@ -1,1 +1,3 @@
-Apoio à regulamentação do porte rural de armas de fogo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd3397c81f35960de69fbf5ec4e4b567904dcf592a96111c76e6d4781438e274
+size 58

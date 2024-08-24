@@ -1,1 +1,3 @@
-Início das obras de construção da Rodovia SE-100. Homenagem ao Governador do Estado de Sergipe, Jackson Barreto, ao ensejo do transcurso do seu 71º aniversário natalício.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d01304daa42c7568adce88eefebaa74d93cc0b235abc6bfa659207dc8cfa275e
+size 176

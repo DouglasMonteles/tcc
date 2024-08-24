@@ -1,1 +1,3 @@
-Solidariedade ao povo pernambucano diante da tragédia causada por enchentes e deslizamentos de terra. Decretação de situação de emergência em municipalidades e elevado número de famílias desabrigadas em decorrência das chuvas intensas. Pedido ao Governo Federal de intensificação das ações de apoio às populações atingidas por enchentes no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38b14d457f527996d93352737f8c800efb3988aa0d2ea763e6683244163b0179
+size 377

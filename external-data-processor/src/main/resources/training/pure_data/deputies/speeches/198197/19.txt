@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para supressão do inciso II, art. 7º, do texto do 2º turno da Proposta de Emenda à Constituição nº 10, de 2020, sobre a instituição do Regime Extraordinário Fiscal, Financeiro e de Contratações para o enfrentamento de calamidade pública nacional decorrente de pandemia de coronavírus. Registro de voto da oradora. Transcurso do Dia da Visão Monocular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c56b4be3c306e9b4ad66f0e0a56589491fb08b4c492833c5a76278fcf95d53
+size 431

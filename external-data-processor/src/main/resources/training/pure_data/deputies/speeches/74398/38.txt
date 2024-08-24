@@ -1,1 +1,3 @@
-Contestação ao pronunciamento do Deputado Paulo Renato Souza a respeito de declarações do Presidente Luiz Inácio Lula da Silva por ocasião do encontro com Prefeitos Municipais em Brasília, Distrito Federal. Prioridade dada pelo Governo petista a investimentos no setor de educação. Polêmica em torno dos índices de analfabetismo no Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73becbe403055155ec4b567fad2d114dbb107b2e10affa7a55b4b4e8cd95e77d
+size 364

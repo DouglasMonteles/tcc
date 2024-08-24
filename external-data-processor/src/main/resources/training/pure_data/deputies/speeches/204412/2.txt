@@ -1,1 +1,3 @@
-Importância de atuação da Casa em prol das pessoas portadoras de doenças raras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b38b683f3dbbf375629fd686ff5775fe8f8c09e2942b5cb94d67d7fda8b30374
+size 83

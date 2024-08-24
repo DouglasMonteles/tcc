@@ -1,1 +1,3 @@
-Apelo ao Governador do Estado de São Paulo, João Dória, de reexame da decretação de falência da Fundação para o Remédio Popular - FURP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8be091818397d9272b14ce50d74c8ee0561ce6e2a41e55c4b1987fffdaf8a671
+size 144

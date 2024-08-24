@@ -1,1 +1,3 @@
-Lançamento da Agenda Legislativa da Indústria de 2023.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adb7358efb27f4ca9793b5c57d0586898fabbfbf6247d66c3e5bc6fb96351f67
+size 56

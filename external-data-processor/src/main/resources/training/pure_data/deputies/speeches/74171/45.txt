@@ -1,1 +1,3 @@
-Transcurso dos 40 anos do assassinato do estudante Edson Luís de Lima Souto, durante repressão da Polícia Militar do antigo Estado da Guanabara. Carta encaminhada pelo orador a amigo de infância em 21 de janeiro de 1967.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef816d5a2377e935ddc1575c5a953c4a73736fc7d273b3560f1705e58502d503
+size 224

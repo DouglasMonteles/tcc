@@ -1,1 +1,3 @@
-Transcurso do Dia Nacional das Santas Casas de Misericórdia. Atuação do orador e do Deputado Estadual André do Prado em defesa das instituições de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f403064e4c8a7689c645637348f9d7ec09de8b7abef931da1d855ebc36f32b2
+size 160

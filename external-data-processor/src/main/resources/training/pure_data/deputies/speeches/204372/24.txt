@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Ciência e Tecnologia, Comunicação e Informática, de requerimento de convocação de representante do canal Netflix para esclarecimento do filme A Primeira Tentação de Cristo, obra da produtora de vídeos Porta dos Fundos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3d3e28329eb336d59ffeec5b71b7c6eed67c37bc880239eb87d5d50bc9427bf
+size 258

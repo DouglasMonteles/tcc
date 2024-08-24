@@ -1,1 +1,3 @@
-Apoio do PMDB à proposição relativa à autorização para produção, comercialização e consumo de inibidores de apetite no País. Congratulações á Câmara dos Deputados pela aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71c6338afee992756a3e26cf625f6dd2cfe31ff6e4c8f4742a7b87316c1225db
+size 207

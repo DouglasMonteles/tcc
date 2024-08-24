@@ -1,1 +1,3 @@
-O Deputado registrou a presença na Casa do Secretário Municipal de Desenvolvimento e Economia Criativa de Goiânia, Estado de Goiás, Diogo Franco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dcc7f737e9ae1ba314a7906bbd354b43986f39b6d6f9b22e59faa6689c4e7fe
+size 149

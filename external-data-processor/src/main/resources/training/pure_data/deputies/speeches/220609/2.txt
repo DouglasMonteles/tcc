@@ -1,1 +1,3 @@
-Manifestação de boas-vindas aos participantes em fórum de oftalmologia presentes na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:061c1f7364e0856ef9dbcacea73df8908b6213cc64e5c0bc5ba9ded7f520a6dc
+size 109

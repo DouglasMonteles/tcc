@@ -1,1 +1,3 @@
-Elogio ao Governador Jaques Wagner pela instalação de unidade da empresa de automóveis JAC Motors Brasil, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1289147924c2c673974727627f9a4ff75cf3c08985c5aec4eeb9434e2224d010
+size 128

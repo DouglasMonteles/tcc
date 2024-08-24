@@ -1,1 +1,3 @@
-Transcurso do 120º aniversário de criação da Companhia Têxtil São Joanense, sediada no Município São João del Rei, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e047c544d6373887a66b8afcb8769b868fdd1377395c1056bf8ecd6afc790fe5
+size 147

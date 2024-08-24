@@ -1,1 +1,3 @@
-Realização da 34ª Romaria da Terra e das Águas sob o tema Mudar o sistema, não o clima!, no Município de Bom Jesus da Lapa, Estado da Bahia. Repúdio às constantes agressões de caráter homofóbicas e racistas ocorridas no Estado de São Paulo
+version https://git-lfs.github.com/spec/v1
+oid sha256:827741adc578fc2192379cbc7fa1925b287e4800d183b7583557b064803a9ac4
+size 251

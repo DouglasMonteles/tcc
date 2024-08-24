@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global oferecida ao Projeto de Lei nº 1.481-A, de 2007, ressalvados os destaques. Agradecimento ao Relator da matéria, Deputado Vinicius Poit, pelo acolhimento de sugestões do PSDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f98248b68166d4f707f691f16de26a4bc81b4f2673250411c70f5c4dbf11100
+size 247

@@ -1,1 +1,3 @@
-Falecimento do ex-Vereador Pedro Alex Dias Jerônimo, do Município de Patos, Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5401b07943db35f1f1e44485bab6ba8d483381f04b9b50dc5462bfdfbda026d0
+size 97

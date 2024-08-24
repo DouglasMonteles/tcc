@@ -1,1 +1,3 @@
-Transcurso do 178º aniversário de fundação do Município de Estância Turística de Salesópolis, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:295ce5f1e93bcd232934991aa8e1629b5f226ee14e9a374d171a61d0ccbece4e
+size 123

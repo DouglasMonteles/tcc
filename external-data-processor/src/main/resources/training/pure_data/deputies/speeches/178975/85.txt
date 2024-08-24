@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de apreciação em regime de urgência do Projeto de Lei nº 10.316, de 2018, sobre a comercialização de etanol hidratado combustível.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ae3b5bd8d59f60fe20690871aac2fe97f2737796bdb5da1c6e9413020413d0f
+size 192

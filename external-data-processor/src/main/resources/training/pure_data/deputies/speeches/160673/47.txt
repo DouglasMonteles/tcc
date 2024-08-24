@@ -1,1 +1,3 @@
-Repúdio à atuação do fiscal Heitor Peretti com relação às exportações de pedras preciosas, no Município de Soledade, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbe229d5b250685def3f137fbed91ad2e16f302a813ce1b2a44f9b80ffaa95f4
+size 155

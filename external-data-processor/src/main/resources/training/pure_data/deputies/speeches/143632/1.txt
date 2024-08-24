@@ -1,1 +1,3 @@
-Apreensão ante os efeitos de blecautes na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3374ed75b3b412a2599c03508196675d06e6c7633f4220e2c41916587c3063a9
+size 60

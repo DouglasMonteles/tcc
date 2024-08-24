@@ -1,1 +1,3 @@
-A Deputada refutou a disseminação de fake news e discursos de ódio, enfatizando a recepção positiva do Presidente Lula em fóruns internacionais. Comemorou os 33 anos do Sistema Único de Saúde (SUS) e ressaltou a importância de investimentos e valorização dos profissionais de saúde. Também convidou para a sessão solene em comemoração aos 17 anos da política nacional das Práticas Integrativas e Complementares no SUS e o lançamento da Frente Parlamentar em Defesa dos Saberes Tradicionais e das Práticas Integrativas e Complementares em Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2090a08d5fbde8ef7346eeb828d1e197c247eaf6f0a4fff80489a554f826d129
+size 565

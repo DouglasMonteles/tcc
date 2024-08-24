@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Rodrigo Maia e ao Líderes partidários pela celebração de acordo sobre a utilização, pelos Estados e Municípios, de recursos oriundos dos leilões da cessão onerosa da camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d80bd3471c675374bdb228a3562cda1e3058e7a0af86f3b27e794a74abd82c0
+size 219

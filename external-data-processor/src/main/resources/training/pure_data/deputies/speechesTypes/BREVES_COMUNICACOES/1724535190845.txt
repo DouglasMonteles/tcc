@@ -1,1 +1,3 @@
-O Deputado agradeceu ao Governador do Rio de Janeiro pelas ações recentes na região do Itanhangá, Rio das Pedras, Muzema, Tijuquinha e Morro do Banco. Defendeu a continuidade das operações e a libertação da área. Agradeceu à Polícia Militar e solicitou apoio contínuo. Apelou à união de autoridades e comunidade para resolver a crise, destacando a importância de garantir direitos e apoio aos agentes de segurança. Comprometeu-se a permanecer presente na região até a resolução da situação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e0cea931a069b445ee54f74e8dc630988c5edd7140cbe0afce2c1f595436eb2
+size 512

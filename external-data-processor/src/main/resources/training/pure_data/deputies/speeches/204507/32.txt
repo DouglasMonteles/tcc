@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de encerramento da discussão e do encaminhamento da votação do Projeto de Lei nº 3.729, de 2004, sobre o disciplinamento do processo de licenciamento ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15ba860901ec906bfe5f248c917ecf37ef4993e6556f812c626d346d49ec6c69
+size 217

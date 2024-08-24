@@ -1,1 +1,3 @@
-Regozijo com a aprovação do Projeto de Lei nº 4.330, de 2004, que dispõe sobre o contrato de prestação de serviço a terceiros e as relações de trabalho dele decorrentes. Avanços para o setor produtivo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:645dcf7e85889c24d1b99b0682204c2faa5e3f6ac222ce653c127569ace11b64
+size 222

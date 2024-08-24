@@ -1,1 +1,3 @@
-Sucesso dos programas de distribuição de renda desenvolvidos pelo Ministério do Desenvolvimento Social e Combate à Fome, especialmente no Estado do Ceará. Resumo de Transferência de Renda, Assistência Social e Segurança Alimentar do Ministério do Desenvolvimento Social e Combate à Fome (MDS) para o Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc87e53825987f5aec5a5b732bdef61160cb62ab3a9e41da14a8b11953ef938
+size 327

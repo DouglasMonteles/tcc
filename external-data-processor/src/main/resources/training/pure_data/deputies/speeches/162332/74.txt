@@ -1,1 +1,3 @@
-Preocupação com a violência no trânsito, em especial no Estado do Paraná e no Município de Maringá. Sugestão de aumento do número de servidores nos DETRANs e na Polícia Rodoviária Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13a1c8dce6e5dba28baae950032971e31b2cae047e6e67223e6e619d8a643c84
+size 199

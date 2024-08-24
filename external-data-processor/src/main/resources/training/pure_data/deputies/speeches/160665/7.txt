@@ -1,1 +1,3 @@
-Concessão de audiência à bancada federal do Estado de Pernambuco pelo Ministro-Chefe da Secretaria-Geral da Presidência da República, Sr. Gilberto Carvalho, destinada ao debate de medidas em prol das populações atingidas pelas na Zona da Mata pernambucana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50883a9fe2bd4311bb2f372c294692f507bcd6c25fb33e190143ad4441376cde
+size 263

@@ -1,1 +1,3 @@
-Envolvimento do ex-Ministro da Casa Civil José Dirceu, do Governo do Presidente Luiz Inácio Lula da Silva, no esquema de corrupção na chamada Operação Lava-Jato publicado pelos jornais do País. Alerta ao Plenário sobre a necessidade de combate à corrupção e a impunidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4491d568a17249b2781fd50169c17eb6b29bd87f343cb9e371c5078c6b4c3d3
+size 282

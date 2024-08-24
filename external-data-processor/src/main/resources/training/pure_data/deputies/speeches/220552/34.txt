@@ -1,1 +1,3 @@
-O Deputado criticou a incoerência da Esquerda por defender a luta contra a pobreza ao mesmo tempo em que ignora a morte de um patriota, com problemas de saúde, na prisão. Afirmou ainda que a luta pela igualdade promovida pela Esquerda tem viés político-ideológico ao ignorar prisões indevidas de cidadãos de Direita.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c35bb6157294d73899a531aa93c5a8982a57fc5a6bf602cfd6aaa1f95426a9cb
+size 324

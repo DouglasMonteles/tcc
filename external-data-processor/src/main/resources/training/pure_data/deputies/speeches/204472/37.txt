@@ -1,1 +1,3 @@
-Contestação aos pronunciamentos de Deputados oposicionistas sobre cortes nos recursos orçamentários destinados à educação. Esclarecimento sobre o contingenciamento de recursos orçamentários pelo Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c4f9ef3757c4cdc982bb0ba7e325bdf0acaf3140dce14ffaaf4c739842e80e8
+size 227

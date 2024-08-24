@@ -1,1 +1,3 @@
-Apoio ao pronunciamento do Deputado Edson Santos sobre ações afirmativas. Encontro do orador com o Ministro de Minas e Energia, Edison Lobão, para debate da continuidade do Programa Luz para Todos no Estado de Alagoas e de perdas salariais de eletricitários decorrentes do Plano Bresser. Associação ao pronunciamento do Deputado Maurício Quintella Lessa a respeito do Semiárido brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6563724cf5194e8e9a1c69c0e2789e0338739d6c98c2d36543f6f324fc2e2209
+size 397

@@ -1,1 +1,3 @@
-Discussão da Medida Provisória 420 de 2008 (Abre crédito extraordinário em favor de Encargos Financeiros da União, para o fim que especifica). Ponderações sobre a necessidade  de fiscalização do BNDES pelo Congresso Nacional. Reparos ao comportamento do Presidente Luiz Inácio Lula da Silva de utilizar o Programa de Aceleração do Crescimento - PAC  para fins eleitoreiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df22591559a69aeef91a7288f1acf39759a13adb83a79350529402bd9d9ce59f
+size 385

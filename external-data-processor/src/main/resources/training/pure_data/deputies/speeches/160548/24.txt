@@ -1,1 +1,3 @@
-Anúncio de realização por empresários da República Popular da China de investimentos na região do Município de Campinas, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe66d9afbb5ac3219a2c633e8e46b0ffc1f1ea91ec7ae033c32c75aa901eb39d
+size 149

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Decreto Legislativo nº 28, de 2019, sobre a exclusão da área urbana da sede do Município de Pacaraima da Área Indígena São Marcos, no Estado de Roraima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afe29e43c144ecbf010c9920de347699e4888b2d5ce2c3703ab42dea3d1f8da5
+size 265

@@ -1,1 +1,3 @@
-Regozijo com o êxito do Brasil na realização dos Jogos Olímpicos Rio 2016. Reconhecimento do mérito de diversas autoridades políticas envolvidas no evento. Expectativa de normalização da economia em prol dos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ab921137cdbcaf69e92e2a75b9558f7e1b62dd6540262952e35b7362157f328
+size 228

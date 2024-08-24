@@ -1,1 +1,3 @@
-A Deputada proferiu parecer ao Projeto de Lei nº 4.186, de 2021, que altera o art. 206 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para o fim de fixar em 20 anos o prazo prescricional da pretensão de reparação civil das vítimas de crimes contra a dignidade sexual de crianças e adolescentes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90d0c8f35947ec5dbb41d1dedcb51d9a5363034e7518e6409783a08804b4036e
+size 314

@@ -1,1 +1,3 @@
-Transcurso do Dia da Empregada Doméstica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d54807e899601be0cf5d5f3b4bfc35a4130fbd74cba6710350e430af2f207b50
+size 42

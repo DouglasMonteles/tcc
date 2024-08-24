@@ -1,1 +1,3 @@
-Registro de ofício recebido dos Deputados Décio Lima, desta Casa, do  Estado de Santa Catarina, e da Deputada Estadual Ana Paula Lima, em que reforçam as lutas da enfermagem brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b5be1b1bf7bb7d5824caeabba74d0f75419c69f1c6b7d63577555fbdfcaab9d
+size 188

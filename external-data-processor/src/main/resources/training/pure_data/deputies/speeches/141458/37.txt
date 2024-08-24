@@ -1,1 +1,3 @@
-Registro sobre a presença do orador na sessão matutina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97e4e21f08454c4db32ab21ff24a2baa607631413d51eb0fd1ca8aedc932e8a2
+size 57

@@ -1,1 +1,3 @@
-Crítica ao apoio do Deputado Roberto Freire às manifestações das galerias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9440e2557a2a6261c155746fbbad318f74628ea1827d2fdc59ae180eca2048b6
+size 78

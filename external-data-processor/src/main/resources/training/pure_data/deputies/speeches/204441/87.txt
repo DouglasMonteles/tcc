@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Emenda nº 4, do Senado Federal, com parecer favorável, ao Projeto de Lei nº 1.321-B, de 2019, sobre a autonomia dos partidos políticos, ressalvados os destaques. Assassinato do Capitão Anderson Azevedo Galvão, da Polícia Militar do Estado do Rio de Janeiro. Solidariedade aos seus familiares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b4a415323f2c11288dcc5aac262d4230a242e11463472fcdefeb57b357bbd40
+size 339

@@ -1,1 +1,3 @@
-Solicitação à Deputada Gleisi Hoffmann de esclarecimento de diálogos entre o PT e a facção criminosa Primeiro Comando da Capital - PCC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a496dffe3a9ac718851e1b7083183fe23b6d1c678ed40c14df7d722dd0c0ef29
+size 141

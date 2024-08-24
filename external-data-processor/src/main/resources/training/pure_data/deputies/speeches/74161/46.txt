@@ -1,1 +1,3 @@
-Importância da Lei de Acesso à Informação Pública. Divulgação dos salários dos servidores públicos. Estabelecimento do roteiro de trabalho da Comissão Especial destinada à elaboração de proposta de reformulação do ensino médio brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fa2e5b514124c9d68f41644d4184ed1f365a6fcff9cf4a8d65631640707b831
+size 254

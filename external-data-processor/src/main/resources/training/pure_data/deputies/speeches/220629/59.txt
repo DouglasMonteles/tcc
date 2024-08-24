@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 2.374, de 2023, que assegura que haja a inclusão das escolas comunitárias e o repasse direto dos recursos do Programa Nacional de Alimentação Escolar (PNAE) e do Programa Dinheiro Direto na Escola (PDDE).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e202dadb37a9c21eb4d48736411a7e51f56706376e263d4b07c9d938676cac68
+size 302

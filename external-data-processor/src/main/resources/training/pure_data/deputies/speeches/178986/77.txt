@@ -1,1 +1,3 @@
-Solidariedade à população do Município de Chapecó, Estado de Santa Catarina, ante o falecimento de atletas da Associação Chapecoense de Futebol em decorrência de acidente aéreo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bee6cf7e8d33989d88d5b9a64f496536ec8c864838c9fb18dbdc4386a9c64337
+size 186

@@ -1,1 +1,3 @@
-Regozijo com a concessão de nota máxima à Faculdade de Medicina de Petrópolis - FASE, pela Comissão Avaliadora do Ministério da Educação. Transcurso de aniversário natalício do Bispo Diocesano de Petrópolis, D. Filippo Santoro. Natureza retrógrada da iniciativa do Senado Federal de apreciação do Projeto de Lei nº 6.302, de 2002, a respeito da regulamentação da atividade de mototaxista. Repúdio ao veto presidencial aposto ao Projeto de Lei nº 2.660, de 1996, sobre o estabelecimento do tempo ininterrupto de direção dos motoristas profissionais do transporte de cargas e de passageiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2bc1b890a56cb4020b41663da7cfd12f4ba2c5d5b52d20ab03dd71b614e0cad
+size 610

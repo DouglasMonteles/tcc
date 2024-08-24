@@ -1,1 +1,3 @@
-Realização, pela Comissão de Seguridade Social e Família, de estudos sobre a atualização da tabela de procedimentos do Sistema Único de Saúde - SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad6c8bcb51e8d310da4f4fc6244bfb89eccad1daf98ca4f8a49d564e11e36722
+size 156

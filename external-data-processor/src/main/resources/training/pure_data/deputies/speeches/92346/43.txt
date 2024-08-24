@@ -1,1 +1,3 @@
-Expectativa de revisão, pela Presidência da República, dos termos do Decreto nº 8.515, de 3 de setembro de 2015, sobre delegação ao Ministro da Defesa da competência para a edição de atos relativos a pessoal militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a226674900bfad80d317716decc1e26330fc22b3f985d1e8b58b7579a2979d3
+size 225

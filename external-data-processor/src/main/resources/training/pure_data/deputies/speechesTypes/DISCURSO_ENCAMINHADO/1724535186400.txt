@@ -1,1 +1,3 @@
-Encontro do orador com a Presidente-Executiva do Instituto Trata Brasil, Luana Pretto, atuante na área de saneamento básico. Urgente necessidade de conclusão, pelo Instituto Brasileiro de Geografia e Estatística - IBGE, dos dados do censo demográfico de 2022 relativos ao setor de saneamento. Encaminhamento ao Poder Executivo de requerimento de indicação a respeito do tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46d868b4e74def7871c687e7dc16d59041d73a1338baa01b850c66b000509d96
+size 382

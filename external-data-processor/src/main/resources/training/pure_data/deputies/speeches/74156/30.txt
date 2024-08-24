@@ -1,1 +1,3 @@
-Transcurso do 71º aniversário de emancipação político-administrativa do Município de Tarumirim, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5601c4bd65ef43b3ae3b2d5c35eb3f628e573b48e36c8da58d3f880afc8297fb
+size 125

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei nº 2.342, de 2022, sobre a criação de funções no Quadro de Pessoal do Conselho Nacional de Justiça. Declaração de voto contrário à aprovação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcb58a5268fe83eb7f3be89ccdcf825cfa1aed86ccea633c83315a93d10eed52
+size 260

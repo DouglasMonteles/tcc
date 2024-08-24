@@ -1,1 +1,3 @@
-Cumprimento ao Líder do Governo por realização de acordo no Colégio de Líderes para votação de requerimentos de apreciação em regime de urgência de projetos referentes aos servidores públicos federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3976c4e53c40073ad1ed080154a3370dbf3221d12e99747d9f6a733326e07c27
+size 212

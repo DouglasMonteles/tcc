@@ -1,1 +1,3 @@
-Situação dramática reinante na Região Nordeste em decorrência da seca. Anúncio de apresentação, pela bancada federal paraibana, de projeto de lei sobre a concessão de benefícios a Estados e Municípios nordestinos em períodos de estiagem prolongada. Imediata conclusão das obras de transposição de águas do Rio São Francisco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7644f27a7212b6c0ea273de7142739e26a82ac9dab53ce735c689ffe0af9c3a
+size 341

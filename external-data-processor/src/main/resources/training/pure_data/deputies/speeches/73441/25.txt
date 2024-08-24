@@ -1,1 +1,3 @@
-Substituição de combustíveis fósseis por energias renováveis no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8a0b78a89d5754d4d5d5e5977e4846cc11a338e66db39fbe20ffbdc6073c03f
+size 76

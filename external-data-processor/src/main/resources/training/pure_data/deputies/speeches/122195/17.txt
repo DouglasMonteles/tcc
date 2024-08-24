@@ -1,1 +1,3 @@
-Acerto da edição da Lei nº 12.599, de 2012, relativa à renegociação de dívidas dos agricultores nordestinos no sistema bancário. Realização, pela bancada federal, de audiência pública sobre o tema. Ações do Governo petista a favor do setor agropecuário prejudicado pela estiagem prolongada na Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1073cb1e7dad2909a9a4b38c1214da3b0abad2709bde20f800c70e5d13e0f3b6
+size 325

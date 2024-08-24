@@ -1,1 +1,3 @@
-Defesa do corte de gastos públicos como forma de enfrentamento da crise econômica no País, sem prejuízo para a sociedade brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11728c06a5ccc7776f1a90e95ffe1f7fff34557b882a205084178c6036842ca9
+size 136

@@ -1,1 +1,3 @@
-Presença no plenário dos Vereadores Leonardo David Alexandrino de Carvalho; Roberto Luiz Chaves; e Elias Cândido da Silveira, da Câmara Municipal de Ibatiba, Estado do Espírito Santo. Saudação à Vereadora Karla Coser.
+version https://git-lfs.github.com/spec/v1
+oid sha256:755db57a8ac336f23eeb12ff12f0d66689600db2da2dedf72846cc3e18ed95db
+size 225

@@ -1,29 +1,3 @@
-{
-  "dados" : [ {
-    "dataHoraInicio" : "2021-08-10T10:52",
-    "dataHoraFim" : null,
-    "uriEvento" : "",
-    "faseEvento" : {
-      "titulo" : "Comissão Geral",
-      "dataHoraInicio" : null,
-      "dataHoraFim" : null
-    },
-    "tipoDiscurso" : "COMISSÃO GERAL",
-    "urlTexto" : "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=19&txSuplemento=&enviar=Pesquisar",
-    "urlAudio" : null,
-    "urlVideo" : null,
-    "keywords" : "COMISSÃO GERAL, SAÚDE PÚBLICA, BRASIL, SISTEMA ÚNICO DE SAÚDE (SUS), PANDEMIA, CORONAVÍRUS, FINANCIAMENTO PÚBLICO, VACINAÇÃO, DESNUTRIÇÃO, CRIANÇA, CIRURGIA ELETIVA, MORTALIDADE INFANTIL, DOENÇA DO SISTEMA CIRCULATÓRIO, CÂNCER, ATENÇÃO PRIMÁRIA À SAÚDE, PRONTUÁRIO ELETRÔNICO DO PACIENTE, LEITO DE UNIDADE DE TRATAMENTO INTENSIVO _ UTI, ORÇAMENTO PÚBLICO, SECRETÁRIO ESTADUAL.",
-    "sumario" : "Debate da situação da saúde no Brasil.",
-    "transcricao" : "O SR. ISMAEL ALEXANDRINO JÚNIOR - Cumprimento o Presidente desta sessão. Agradeço as palavras gentis do Deputado Glaustin Fokus, do Estado de Goiás. Cumprimento todos os meus colegas que estão presentes nesta reunião. Cumprimento os meus colegas Secretários do Conselho Nacional de Secretarias de Estado da Saúde, o qual estou representando neste momento, como Vice-Presidente, bem como o Presidente do Conselho Nacional de Secretarias Municipais de Saúde, Wilames Freire.\r\nPrimeiro ponto. Eu gostaria de ressaltar a importância que esta pandemia escancarou e o gigantismo do nosso Sistema Único de Saúde. O SUS, costumo dizer, é a conquista democrática estruturada maior que nós tivemos nos últimos 35 anos. Ficou muito clara a dependência do Brasil do Sistema Único de Saúde durante a pandemia.\r\nAgora, para cumprir os seus princípios da equidade, da universalidade e da integralidade, nós precisamos de alguns pilares. Um deles é a questão do desfinanciamento, que já foi mencionada por alguns colegas. Nós temos, em várias frentes, tabelas de 2006 e tabelas de 2010 que simplesmente não fecham a conta.\r\nE não se resume somente a isso. Nós precisamos adotar medidas que são conjunturais e medidas que são estruturais. Medidas conjunturais neste momento, naquilo que a pandemia agravou, e, em relação a ela, temos que avançar na questão da vacinação, que é uma medida civilizatória. Ela determina e mostra o grau de civilização de um país.\r\nSó que a pandemia também agravou alguns problemas crônicos que nós já tínhamos e que foram agudizados, como, por exemplo, o acúmulo das cirurgias eletivas, e a desassistência, muitas vezes nutricional, de crianças que estão em estado de vulnerabilidade, que poderá impactar a mortalidade infantil.\r\nAlgo que muito me preocupa do ponto de vista estruturante é que nossa população está envelhecendo e as doenças oncológicas e cardiovasculares, nos próximos 30, 50 anos, serão a principal causa de mortalidade e nós não temos estruturas para tratamento adequado de doenças oncológicas e de doenças cardiovasculares a contento nessa estrutura.\r\nReforço a importância da atenção primária como ordenadora do cuidado do Sistema Único de Saúde como base estruturante, atenção primária que seja resolutiva, uma atenção primária que tenha conexão com uma atenção secundária que faça o diagnóstico e que tenha especialidades que sejam resolutivas, para que o paciente não possa chegar simplesmente à atenção terciária, que é magra, mas que é cara, já descompensado e muitas vezes fora de possibilidade terapêutica.\r\nEntão, nós precisamos, mais do que nunca, estruturar essa rede, esse tripé de atenção primária, secundária e terciária. Precisamos entender a importância da discussão tripartite do SUS, Municípios, Estados, Ministério da Saúde, e de não somente uma frente dessas. Precisamos de dados fidedignos dos sistemas de vigilância e de dados integrados dos sistemas de prontuário eletrônico, seja do privado, seja do público, seja do filantrópico. Sem dados é impossível fazer gestão e sem gestão é impossível cumprirmos os princípios do SUS de equidade, integralidade e de universalidade.\r\nEntão, aqui eu chamo a atenção, para este momento, para aquilo que eu já falei ser estrutural para o momento, conjuntural: a necessidade de mantermos aquela estrutura terciária que se expandiu, de unidades de terapia intensiva durante a pandemia, para mais de 10 mil leitos no Brasil e que esses leitos sejam mantidos. Precisamos, nobres Deputados que se fazem presentes nesta Casa, de financiamento para esses leitos, não só de medida provisória, mas que ele seja integralizado a um orçamento estruturado em 2022. E aqui eu trago este sentimento dos Secretários de Estado e dos Secretários Municipais. Sem financiamento é impossível, mas que o façamos de forma estruturada, de forma integrada e respeitando sobretudo os pilares do SUS.\r\nEu agradeço pela oportunidade de representar todos os Secretários de Estado do Brasil e me coloco à disposição do Brasil para discutir o nosso gigante Sistema Único de Saúde.\r\nMuito obrigado."
-  } ],
-  "links" : [ {
-    "rel" : "self",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220570/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&itens=1000000"
-  }, {
-    "rel" : "first",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220570/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  }, {
-    "rel" : "last",
-    "href" : "https://dadosabertos.camara.leg.br/api/v2/deputados/220570/discursos?dataInicio=2008-01-01&dataFim=2023-12-31&pagina=1&itens=100"
-  } ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:821245896b6f9814a42cd5f9da53e66c2703862d328e3f9fa2fe35bb17c52c13
+size 5753

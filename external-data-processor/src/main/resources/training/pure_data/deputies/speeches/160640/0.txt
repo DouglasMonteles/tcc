@@ -1,1 +1,3 @@
-Congratulação à Presidenta em exercício dos trabalhos pela participação na Mesa Diretora da Casa. Agradecimento ao Deputado Inocêncio Oliveira pela atenção dispensada ao orador. Diretrizes da atuação parlamentar do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:808b06e928338056be0bccdc9fcf89c9509cd165cdc5c5bc682926fa39efc9dc
+size 233

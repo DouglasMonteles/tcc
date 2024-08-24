@@ -1,1 +1,3 @@
-Oportunidade da união de esforços entre a sociedade civil e governantes com vistas à promoção da paz no trânsito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53a833fc65c7b050fff086a95165b8244e12b25b9c4f269736147136079c3256
+size 119

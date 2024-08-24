@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Constituição e Justiça e de Cidadania, do parecer oferecido pelo orador ao projeto de lei sobre a regulamentação da profissão de condutor de ambulância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86c69a60d87f5d91eff2f5195c8e2c75df817bc389f8fd140d4d942231a38566
+size 190

@@ -1,1 +1,3 @@
-Reiteração da consulta à Presidência sobre o prazo estabelecido para o alcance de quorum no plenário. Considerações sobre o pronunciamento do Deputado Tadeu Filippelli a respeito das eleições indiretas para Governador e Vice-Governador de Brasília.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d92d3509269510b4f9e1636dfc2337c9ed31733629a329e7316be4154bab0d8
+size 258

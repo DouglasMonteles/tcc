@@ -1,1 +1,3 @@
-Considerações sobre acordo firmado entre a Santa Sé e o Governo brasileiro. Transcurso do Dia da Mães.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20e24ad259dd4b28252e0a61f28eb3b793a9cd3d9c3ec87fb7224b0850630ced
+size 106

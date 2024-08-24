@@ -1,1 +1,3 @@
-Sanção pelo Presidente Jair Bolsonaro do Projeto de Lei nº 3.715, de 2019, sobre a regulamentação da posse de arma de fogo na área rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4253e06ce1fb7c75e57972beb1f53d36fb3a19677ee63c305fad050076eeb150
+size 143

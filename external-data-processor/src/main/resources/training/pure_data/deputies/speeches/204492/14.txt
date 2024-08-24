@@ -1,1 +1,3 @@
-Transcurso dos 500 dias da prisão do ex-Presidente Luiz Inácio Lula da Silva. Críticas ao Presidente Jair Bolsonaro. Confiança na atuação do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:584b0aedf5af0e02626b9e4f4e27a6a36f00b8d249d17730b6cf71f9503952bc
+size 172

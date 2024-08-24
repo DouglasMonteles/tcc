@@ -1,1 +1,3 @@
-Prioridade dos Deputados na discussão de contendas políticas, em detrimento do debate de propostas de melhoria das áreas de segurança pública e saúde, bem como de combate à fome e geração de emprego e renda. Reiteração do compromisso de fiscalização da área de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07b26376baf9f483750a1001c85cbf1be08b2d093d515d1629d2c3df7839d7e1
+size 282

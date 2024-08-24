@@ -1,1 +1,3 @@
-Proposta de entendimento para votação de medidas provisórias devolvidas pelo Senado, enquanto se articula um consenso para votação do Projeto de Lei que cria o Fundo Soberano do Brasil - FSB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47b1725a380fd61bf0fe56e981f8a70401382401446bc4190131fa42dd1883d5
+size 196

@@ -1,1 +1,3 @@
-Transcurso do 93º aniversário de fundação da Igreja Evangélica Assembleia de Deus no Estado de Pernambuco. Realização pela Igreja de importantes serviços em prol da sociedade pernambucana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30e4695d3aa6d32757bb8d0398a15e7dcd9ab033cf3780ebbf24abfc86bccf19
+size 196

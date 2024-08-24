@@ -1,1 +1,3 @@
-Realização das festas carnavalescas no Estado da Bahia. Garantia da segurança dos foliões pelo Governador Jaques Wagner. Ações da Prefeitura Municipal de Salvador em conjunto com o Juizado de Menores, o Ministério Público e a Defensoria Pública para a proteção de crianças e adolescentes durante o carnaval.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7864d9eed8ba09c718c9a3ffae4a9fb39fe3dcc7541204355dc40ea28477d843
+size 319

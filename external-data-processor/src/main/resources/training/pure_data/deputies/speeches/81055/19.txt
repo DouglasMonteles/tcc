@@ -1,1 +1,3 @@
-Presença no plenário do Deputado Estadual do Maranhão, Yglésio Moyses. Transformação do Instituto Federal de Educação, Ciência e Tecnologia  em campus avançado, no Município de Colinas, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42d1199bd80e33178cbde8e319b6f18b14b8428a25421bb58ec7fabe5096e7f0
+size 217

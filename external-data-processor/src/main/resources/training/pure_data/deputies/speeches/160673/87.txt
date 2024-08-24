@@ -1,1 +1,3 @@
-Apresentação de projeto de lei destinado à proteção das reservas nacionais de nióbio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:735c6d207845868c89071ea3e068b6a0edbaa89ad24fdc974058bd341f64e1b5
+size 91

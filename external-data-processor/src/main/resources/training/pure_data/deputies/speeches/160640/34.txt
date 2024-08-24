@@ -1,1 +1,3 @@
-Homenagem póstuma ao ex-Deputado Miguel Martini.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85f2fd8e8550f346376880969958cbce326ee7d7ac7a5a59b9aeee0b5acc9936
+size 49

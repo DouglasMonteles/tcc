@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre o dispositivo a respeito da restrição ao direito de greve durante a epidemia da Covid-19, constante no texto da  da Medida Provisória nº 945, de 2020, acerca das medidas temporárias de enfrentamento da pandemia da Covid-19 no âmbito do setor portuário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb9f75740fc0b1b5edad83accfa65361964c09b1c8c85b75d539fcb4fdc5e2e6
+size 293

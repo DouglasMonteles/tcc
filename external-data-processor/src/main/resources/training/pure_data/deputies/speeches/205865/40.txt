@@ -1,1 +1,3 @@
-Apoio à Operação Lava-Jato e ao Ministro da Justiça e Segurança Pública, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac7e41861198c64bce62519128924c885e01fe7150dfaa6b1d6cac101b62a14f
+size 92

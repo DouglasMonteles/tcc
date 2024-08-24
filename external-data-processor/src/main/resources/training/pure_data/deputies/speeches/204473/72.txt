@@ -1,1 +1,3 @@
-Omissão do Tribunal Superior Eleitoral sobre a ocorrência de fraudes em urnas eletrônicas nas eleições de 2018. Defesa da abertura de processo de impeachment   contra o Presidente da Corte Eleitoral, Ministro Luís Roberto Barroso, e Ministros do Supremo Tribunal Federal por prática do crime de prevaricação. Defesa da privatização da Empresa Brasileira de Correios e Telégrafos - ECT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b951afd028a24b424c407c66b77ccc37f0ac828d7bd0647cdac585d43223366
+size 397

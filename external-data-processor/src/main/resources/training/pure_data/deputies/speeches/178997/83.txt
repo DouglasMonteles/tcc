@@ -1,1 +1,3 @@
-Defesa de votação da Medida Provisória nº 785, de 2017, sobre a reformulação do Fundo de Financiamento Estudantil - FIES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:881ca9c9755081998d4ca743b8ffd88bd1521200b40a8c64e11a2c99119a3571
+size 127

@@ -1,1 +1,3 @@
-Protesto contra a decisão do Presidente Luiz Inácio Lula da Silva de manutenção do regime de urgência constitucional para a tramitação dos projetos de lei sobre o estabelecimento do marco regulatório da exploração de petróleo na camada pré-sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3812d5b4cc751b503473c22e3045658ea4a3e17e0db25384bcc80ed52491711b
+size 256

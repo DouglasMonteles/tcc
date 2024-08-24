@@ -1,1 +1,3 @@
-Anulação das eleições municipais de Benedito Leite, Estado do Maranhão. Visita do Governador Jackson Lago à municipalidade. Cumprimento ao Deputado Sebastião Madeira pela eleição para o cargo de Prefeito Municipal de Imperatriz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68626f350a35a097800d422a644c713e16c15daa7cdf20266857254774809206
+size 237

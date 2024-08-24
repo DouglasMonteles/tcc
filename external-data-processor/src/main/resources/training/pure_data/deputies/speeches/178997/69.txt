@@ -1,1 +1,3 @@
-Aumento da violência no Estado do Ceará, sobretudo no Município de Sobral. Oferecimento de contestação ao Ministério Público relativa a aprovação de lei a respeito de convocação da Guarda Municipal de Sobral para realização de serviços de segurança pessoal em favor de ex-gestores municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a2beea5418e63a8316e9b737f31956213f37a79ec5cc770aadfec0cb3a363b9
+size 307

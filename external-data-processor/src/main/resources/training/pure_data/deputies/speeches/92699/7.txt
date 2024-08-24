@@ -1,1 +1,3 @@
-Agradecimento ao Presidente Rodrigo Maia pela construção de acordo para aprovação do Projeto de Lei nº 3.261-A, de 2019, sobre a atualização do marco legal do saneamento básico. Elogio ao Deputado Geninho Zuliani, Relator da matéria. Solicitação aos Deputados da bancada nordestina de comparecimento ao plenário para votação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a01838ad581ed04e4c8285aded290628e0b1db501ad3a4c23fc18457b126b026
+size 354

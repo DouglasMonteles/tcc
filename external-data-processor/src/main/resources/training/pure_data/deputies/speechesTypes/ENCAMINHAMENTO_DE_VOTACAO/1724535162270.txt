@@ -1,1 +1,3 @@
-Encaminhamento da votação do Projeto de Decreto Legislativo nº 168, de 2022, acerca da aprovação do texto do acordo sobre mecanismo de cooperação entre os Estados Partes do Mercosul e Estados Associados, firmado em Santa Fé, República Argentina, em 16 de junho de 2019.&nbsp;Contrariedade do orador à adoção de moeda única para a América do Sul. Protesto contra empréstimos concedidos pelo BNDES para a execução de obras de infraestrutura em países sul-americanos. Insegurança jurídica provocada pelo Supremo Tribunal Federal no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40ec3350ab2689ee398c8608967254c524a89d62f7e8d49339fe7a435dde1b0f
+size 555

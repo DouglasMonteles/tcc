@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Constituição, Justiça e Cidadania do Senado Federal, da indicação do Desembargador Cláudio Mascarenhas Brandão para Ministro do Tribunal Superior do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41f3ef56dc0a43525a87ac87f03094565b119fd8adb3792409b98add4f670e61
+size 196

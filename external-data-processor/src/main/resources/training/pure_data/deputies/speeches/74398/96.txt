@@ -1,1 +1,3 @@
-Indagação à Presidência sobre a votação de projetos de lei de interesse da mulher brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e875159bbe032b345eb03df297da47a1f79885ac6623be52e209e5aa4a6e353c
+size 99

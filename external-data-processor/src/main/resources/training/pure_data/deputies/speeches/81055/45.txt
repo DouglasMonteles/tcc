@@ -1,1 +1,3 @@
-Necessidade de comparecimento do Ministro da Justiça e Segurança Pública, Sérgio Moro, à Câmara dos Deputados para esclarecimento de denúncias veiculadas pelo site The Intercept Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7aa0ebfb84dde78cf3255e3c1cf979c2cdc70ced5ca576b9caf409918b791e8
+size 192

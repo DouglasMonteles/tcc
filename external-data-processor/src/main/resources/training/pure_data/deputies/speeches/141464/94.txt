@@ -1,1 +1,3 @@
-Tramitação na Casa do Projeto de Lei nº 6.111, de 2009, sobre a instituição do piso salarial nacional dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias. Instalação da Comissão Especial destinada ao exame da Proposta de Emenda à Constituição nº 391, de 2009, referente ao tema. Urgente aprovação da Proposta de Emenda à Constituição nº 231, de 1995, sobre a redução da jornada de trabalho para 40 horas semanais. Apoio à luta da Confederação Nacional dos Trabalhadores no Comércio e Serviços - CONTRACS, em defesa da regulamentação da profissão de comerciário. Transcurso do 250º aniversário de fundação do Município de Caucaia, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5de03f4ccb06a431bb10ed8fdd8b72dfbb1cd5ee1502355e4a13a2cfd8fed49e
+size 703

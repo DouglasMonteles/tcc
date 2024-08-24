@@ -1,1 +1,3 @@
-Apelo à Casa pelo estabelecimento da separação e da harmonia entre os Poderes da República. Crítica à intromissão do Poder Legislativo em prerrogativas do Poder Executivo, como a demarcação de terras indígenas e a organização ministerial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55e058a2c6eb86d6ea31d1d6ba5f53717f73c86bd6f8105ed524d44c135e660f
+size 250

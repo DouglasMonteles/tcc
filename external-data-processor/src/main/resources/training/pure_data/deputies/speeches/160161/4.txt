@@ -1,1 +1,3 @@
-Lesões e mortes de aninais silvestres provocadas pela falta de manutenção das redes elétricas da concessionária Light S/A, no Rio de Janeiro, Estado do Rio de Janeiro. Apresentação do Projeto de Lei nº 564, de 2023, sobre a instituição da Política de Prevenção de Acidentes Elétricos com Animais Silvestres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d8449c8a55caa3666ae0263e89174b8ff41cd849364ca3a2b7f8fa1dfb9cd5c
+size 321

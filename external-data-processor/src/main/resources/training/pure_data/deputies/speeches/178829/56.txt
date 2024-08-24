@@ -1,1 +1,3 @@
-Relançamento da Frente Parlamentar em Defesa da Polícia Rodoviária Federal. Apoio à questão salarial da categoria. Pesar pelo homicídio do Cabo Estevam no Município de Piracicaba, Estado de São Paulo. Defesa de inclusão dos policiais militares dentre as categorias contempladas na Proposta de Emenda à Constituição nº 443, de 2009, que fixa parâmetros para a remuneração dos advogados públicos. Necessidade de colocação na pauta da Casa da Proposta de Emenda à Constituição nº 300, de 2008, que estabelece que a remuneração dos Policiais Militares dos Estados não poderá ser inferior à da Polícia Militar do Distrito Federal, aplicando-se também aos integrantes do Corpo de Bombeiros Militar e aos inativos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da7b8423885dec18fd30e95002c5272f36fba99e02e6900efdcc70bd675e731f
+size 737

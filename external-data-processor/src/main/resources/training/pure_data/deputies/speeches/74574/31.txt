@@ -1,1 +1,3 @@
-Defesa da concessão de compensação financeira ao Estado da Bahia, em face da redução do Imposto sobre Produtos Industrializados - IPI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6629235cca8d6e427a367e770bbf01bc2e520cc4b94a551546557a5b74fe7eb2
+size 139

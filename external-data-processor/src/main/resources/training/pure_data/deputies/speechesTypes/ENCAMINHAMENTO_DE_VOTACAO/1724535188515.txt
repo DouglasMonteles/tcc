@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado do art. 3º do projeto de lei de conversão, para inclusão no texto da Medida Provisória nº 863, de 2018, sobre a abertura do setor aéreo ao capital estrangeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3571ee7ebfbee9722a24d9bfbe8c8f68cd9e43743125a8150e056c0c1ddbc6e
+size 248

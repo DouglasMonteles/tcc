@@ -1,1 +1,3 @@
-A Deputada agradeceu à Casa pela aprovação do projeto de lei que introduz a situação específica da mulher indígena na legislação de enfrentamento da violência e de promoção da saúde e da educação. Destacou a representação política tardia das mulheres indígenas e a importância histórica do projeto, que visa garantir a segurança das vidas indígenas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bae0483c20314ab85564e27f891ee33ba020ed7dd05b1ebf6cf87e0e6150d1c2
+size 372

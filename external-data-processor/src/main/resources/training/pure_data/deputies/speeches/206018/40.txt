@@ -1,1 +1,3 @@
-A Deputada orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 715, de 2.019, que estabelece a prioridade de atendimento no serviço de assistência psicológica e social e a preferência no atendimento para a realização de cirurgia plástica reparadora, no âmbito do Sistema Único de Saúde (SUS), para a mulher vítima de agressão da qual resulte dano à sua integridade física ou estética. Elogiou a Presidenta Benedita da Silva, destacando sua experiência e a importância ética de sua liderança e enfatizou a seriedade da pauta de proposições que abordam questões críticas enfrentadas pelas mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2831faf5d4e8bf738afcb1ffa6e01ceea87d385359644aaf329a74d008a4bcc
+size 650

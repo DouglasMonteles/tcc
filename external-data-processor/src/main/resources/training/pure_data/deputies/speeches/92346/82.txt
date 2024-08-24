@@ -1,1 +1,3 @@
-Saudações aos Parlamentares e convidados presentes. Relato da visita do orador a Israel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6773bf2ea51ad3beec6f1dd04d8f792dde46bf4d9bf87b500c735468716361f
+size 90

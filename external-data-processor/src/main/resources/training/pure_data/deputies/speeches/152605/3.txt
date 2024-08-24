@@ -1,1 +1,3 @@
-Repúdio às manifestações de caráter racista, desferidas por parte do ex-Secretário de Serviços Públicos do Município de Nova Friburgo, Marcello Jaccoud. Manifesto contra o racismo em Nova Friburgo, de autoria da Associação de Lideranças Femininas - ANASTÁCIA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b438e5c16e4429ea81dc40b3e4bee46ad26dc0eb4dece33f83ef515c803f7f2
+size 272

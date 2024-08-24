@@ -1,1 +1,3 @@
-Posicionamento contrário do PSOL  à   Emenda 21, destacada, ao Projeto de Lei de Conversão da Medida Provisória 398 de 2007 (Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação - EBC, e dá outras providências), que transfere para a cidade de Brasília a sede e o foro da Empresa Brasil de Comunicação - EBC, em votação nominal por força de verificação de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8efdc472b65414ceef5194d9a358ae8c8c6e76ab6637f3d5217b93566b3bd36d
+size 567

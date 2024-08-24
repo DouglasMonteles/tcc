@@ -1,1 +1,3 @@
-Encaminhamento, ao Ministério da Educação, de requerimento de indicação para adoção de programa de apoio aos sistemas de ensino de gestão compartilhada de escolas com as corporações militares estaduais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d25e773ca736d1f65dd891116bfe7bc28a948c287f358eadda326e9bfcf0c51
+size 212

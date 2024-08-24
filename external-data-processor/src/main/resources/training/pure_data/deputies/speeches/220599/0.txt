@@ -1,1 +1,3 @@
-Transcurso do 61º aniversário de criação do Estado de Israel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:879fc8eb7676c74f119a892cc200b52b8dfdaff33be5a2a5f0353745ad09dfc8
+size 65

@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM ao Requerimento de retirada da pauta da Ordem do Dia da Medida Provisória 445 de 2008 (Dispõe sobre a dispensa de recolhimento de parte dos dividendos e juros sobre capital próprio pela Caixa Econômica Federal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:df70921c1ec6b679034110b00a0b7987d3c37122dd723c58406020c1e23affc4
+size 248

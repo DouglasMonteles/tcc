@@ -1,1 +1,3 @@
-Realização no Gabinete do Presidente Marco Maia de reunião para debate da votação do projeto de reformulação do Código Florestal Brasileiro. Posicionamento do PT contrário à votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d949ed5ec36915e1e9d3529c61f1a2885ed806807a52842985b7fb87be2e3a0
+size 206

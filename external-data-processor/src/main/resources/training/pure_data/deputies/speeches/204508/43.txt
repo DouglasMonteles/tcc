@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Subemenda Substitutiva Global, oferecida pelo Relator da Comissão de Seguridade Social e Família ao Projeto de Lei nº 1.011, de 2020, sobre a alteração da Lei nº 6.259, de 2020, para garantia do acesso de caminhoneiros e profissionais do transporte de cargas à vacinação durante a epidemia de coronavírus, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fa7accf00e417fdddbbe1728a2cb70ffc5702c4ab1a19037f40b916a70cae52
+size 381

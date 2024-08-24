@@ -1,1 +1,3 @@
-Excesso de gastos públicos pelo Governo Luiz Inácio Lula da Silva. Irresponsabilidade fiscal do governo petista. Apresentação do Projeto de Lei nº 1.062, de 2023, sobre a atualização automática da tabela do Imposto de Renda da pessoa física.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b52c546abcd2021e913d338bc74373e4a4538ab41202cdc3a6db42bd02b0f83
+size 250

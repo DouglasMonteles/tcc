@@ -1,1 +1,3 @@
-Necessidade da revisão da Lei de Execução Penal, no tocante à concessão de saídas temporárias a detentos acusados pela prática de crimes hediondos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5020e0acfa0f6843bc2b309e2568fd754b8bb89401fe288cf2e7b78b5824cf04
+size 155

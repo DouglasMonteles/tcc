@@ -1,1 +1,3 @@
-Realização de protesto pelos motoristas do transporte alternativo, no Estado da Paraíba. Anúncio de debate, pelo Colégio de Líderes, de medidas em prol do setor. Pedido à Presidência de celeridade na tramitação do Projeto de Lei nº 4.190, de 2019, de autoria do Deputado Gonzaga Patriota, sobre a alteração da Lei nº 9.503, de 1997, a respeito da instituição do Código de Trânsito Brasileiro, em prol do transporte escolar e do transporte remunerado não licenciado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32b68af67cf0b2cd223fc3914680729592b19c7e7c977f672b7adb8ddf5316f3
+size 484

@@ -1,1 +1,3 @@
-Regozijo com o êxito dos Jogos Olímpicos Rio 2016. Congratulações ao povo brasileiro e a autoridades municipais, estaduais e federais pela realização do evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4928b25914c8ee6742f3d0d97105fb08d832681231ab7cb8c161bb2c30245f7b
+size 166

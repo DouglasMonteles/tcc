@@ -1,1 +1,3 @@
-Apoio à questão de ordem do Deputado Jovair Arantes sobre a votação do Requerimento de regime de urgência urgentíssima para o projeto de lei relativo aos Conselhos Tutelares da Criança e do Adolescente no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11dcad90b6c09e508733c1e2685824e10e9ceadab302a1c21e06aa4486afc24b
+size 218

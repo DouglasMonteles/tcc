@@ -1,1 +1,3 @@
-Concordância com a votação do texto original do Projeto de Lei 75 de 2008-CN (Abre ao Orçamento Fiscal da União crédito suplementar em favor dos Ministérios da Agricultura, Pecuária e Abastecimento e do Desenvolvimento Agrário, para reforço de dotações constantes da Lei Orçamentária vigente), conforme Parecer dado em plenário, diante da ausência do Relator da matéria na Comissão Mista de Planos, Orçamentos Públicos e Fiscalização para defender a votação do Substitutivo acordado na Comissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d20d697c53c25d78dd05e1831993851dbd4593b312ef6953162b08a05c3b534
+size 520

@@ -1,1 +1,3 @@
-Transcurso do 55º aniversário de fundação do Sindicato dos Jornalistas Profissionais do Estado do Ceará. Anúncio de realização do 7º Congresso dos Jornalistas do Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f24061701a8c5c74d7d3b76885202aa8c3ada92aa4113564fb560ef4ea3bb76
+size 188

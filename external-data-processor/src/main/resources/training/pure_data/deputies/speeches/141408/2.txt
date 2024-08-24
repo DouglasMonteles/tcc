@@ -1,1 +1,3 @@
-Apoio à iniciativa dos Presidentes da Câmara dos Deputados e do Senado Federal de alteração da sistemática de tramitação de medidas provisórias. Elogio ao trabalho desenvolvido pela Rádio Câmara e pela TV Câmara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4d971144ca95d41eced2595c693f4e8b4c186bda08cb10cbc0651ba27fde6a5
+size 223

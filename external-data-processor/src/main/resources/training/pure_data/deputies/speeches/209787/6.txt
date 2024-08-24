@@ -1,1 +1,3 @@
-Encaminhamento de representação contra o Ministro das Comunicações, Juscelino Filho, por prática de improbidade administrativa. Inconsistência do discurso petista de combate à corrupção. Protesto contra o reajuste nos preços de combustíveis e o baixo índice de reajuste do salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ca4e1e197b410d8d23bce69876a151a772b54f3b90905f2ab6657d4cad38978
+size 302

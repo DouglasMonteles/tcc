@@ -1,1 +1,3 @@
-Esclarecimento sobre o objetivo do Projeto de Lei nº 5.595, de 2020, relativo ao reconhecimento da Educação Básica e de Ensino Superior, em formato presencial, como serviços e atividades essenciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cb76a466dbd09bef6761822f7970b5aca91001b3875f31aac8c162a81710b65
+size 203

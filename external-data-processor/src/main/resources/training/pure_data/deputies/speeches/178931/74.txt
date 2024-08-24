@@ -1,1 +1,3 @@
-Inauguração, no Município de Campo Largo, Estado do Paraná, de ambulatório do Hospital do Rocio, com a presença da Diretora-Geral da Organização Mundial de Saúde - OMS, Margaret Chan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c837b9a676cdbdab0a82634e8569bb44f3dc2f8a292632fc53904d692fbea089
+size 192

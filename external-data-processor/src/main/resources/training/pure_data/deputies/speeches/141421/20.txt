@@ -1,1 +1,3 @@
-Importância da redução do preço da gasolina e do diesel comercializados no País para a superação dos efeitos no Brasil da atual crise mundial e para o desenvolvimento nacional. Realização de audiência pública na Comissão de Defesa do Consumidor e na de Minas e Energia, com a presença de autoridades governamentais, para discussão do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bea4a544de91e6552bbe4f2edf19613b63cfe529ca096c3fa14bdb8e8c070bed
+size 356

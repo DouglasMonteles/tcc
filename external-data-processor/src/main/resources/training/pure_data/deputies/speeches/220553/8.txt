@@ -1,1 +1,3 @@
-A Deputada destacou a abertura das inscrições para o PAC Seleções, elogiando a oportunidade para Municípios e Estados brasileiros inscreverem projetos em diversas áreas. Ela também saudou o Dia das Crianças.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1a3461244d106b8b632a305b7a336f6be53c8f274e1b187d9ddaceb59fe59c8
+size 215

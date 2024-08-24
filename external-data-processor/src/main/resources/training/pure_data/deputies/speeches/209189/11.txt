@@ -1,1 +1,3 @@
-Repúdio à gestão do Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f4e6597dfd3a00472df345ecea011d34bbd71fa9c666de0908c2bc1d60bf8b6
+size 48

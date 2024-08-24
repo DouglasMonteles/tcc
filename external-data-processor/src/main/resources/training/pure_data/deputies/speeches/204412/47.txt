@@ -1,1 +1,3 @@
-Ajuizamento, pelo Ministério Público Federal de Goiás, de ação civil pública para suspensão de cursos de Medicina a distância. Mercantilização da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cab6f2451a422c0a6a449da68af011407625f1274c78e3087001a8a1af2f44b0
+size 163

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do inciso II do art. 9º do Projeto de Lei de Conversão nº 27, de 2018, adotado pela Comissão Mista, à Medida Provisória nº 843, de 2018, sobre o estabelecimento de requisitos obrigatórios para a comercialização de veículos no Brasil; a instituição do Programa Rota 2030 - Mobilidade e Logística e o regime tributário de autopeças não produzidas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1587203fea7e74b3a14d1fcbb5eab66629acfaa49676af356934965370c104b
+size 454

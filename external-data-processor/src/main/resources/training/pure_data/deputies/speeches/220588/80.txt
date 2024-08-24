@@ -1,1 +1,3 @@
-O Deputado demonstrou preocupação com a situação da dívida pública brasileira. Citou dados da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) que projetam que a dívida pública brasileira está em trajetória de alta, podendo atingir 90% do Produto Interno Bruto (PIB) em 2047. Destacou a avaliação da OCDE de que, sem consolidação fiscal, a dívida pública brasileira pode tornar-se insustentável. Enfatizou a importância de limitar gastos supérfluos do Governo Lula para evitar uma espiral de endividamento prejudicial à economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f8e3d44ce1fecb7dfb56f5a51af1103bf1ba328dd85e537d5577c09be1252f4
+size 581

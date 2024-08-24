@@ -1,1 +1,3 @@
-Posicionamento contrário à criação da TV pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e32ba3ad3cae79dc12057c0c9bbdcb34a3cda5258a05e8f1acd5e965415dc6a
+size 54

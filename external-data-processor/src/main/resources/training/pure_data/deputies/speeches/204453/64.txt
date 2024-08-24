@@ -1,1 +1,3 @@
-Indicação do filmeSideral  à Palma de Ouro no Festival de Cannes, na França (produção potiguar financiada pela Lei Aldir Blanc). Defesa de aprovação pela Casa do Projeto de Lei Complementar nº 73, de 2021, do Senado Federal, batizado de Lei Paulo Gustavo, sobre a destinação de vultosos recursos ao setor cultural/audiovisual. Anúncio da realização de movimento nacional contra o Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bffc0242be4ead98a2e1de094a91d670af7b9d7c6a8cbd8c1f3c3e463a13d530
+size 417

@@ -1,1 +1,3 @@
-Protesto contra a liberação de novos agrotóxicos pelo Governo Jair Bolsonaro. Apresentação de requerimento de informações ao Ministério da Saúde sobre o impacto da utilização de agrotóxicos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8006bcf62c156fe666e1ef5f5765f6b918154c21d4ff88e5f57e33e4b9413263
+size 211

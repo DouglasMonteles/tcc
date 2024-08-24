@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional pela Eliminação da Discriminação Racial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:201588bc0947eb73c09dcee839b45765c8ef308ff91f17b10319ae9c332c0e5a
+size 76

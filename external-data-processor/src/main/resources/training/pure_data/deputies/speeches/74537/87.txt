@@ -1,1 +1,3 @@
-Reclamação contra a inobservância pela Presidência de disposição do  Ato da Mesa nº 66, de 2005, referente ao encaminhamento de discursos dados como lidos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd28ea5710b108e13064baf330750c411337b3ff9a409cb255498182c1f95443
+size 162

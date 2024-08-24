@@ -1,1 +1,3 @@
-Urgente necessidade de renegociação, pelas autoridades competentes, de débitos dos produtores de cacau do Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d88b68b26b0c2272b50021786b5e1c57d7c5790d4e0d1e08c92abe7ea306a7e6
+size 125

@@ -1,1 +1,3 @@
-Proposta de autoria do orador sobre a criação de plano complementar de qualificação profissional para os beneficiários do Programa Bolsa-Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33815686f2b92f9f2a2edb7d5bb56030742797fbd1fc03ea2bed8669ce9667a0
+size 151

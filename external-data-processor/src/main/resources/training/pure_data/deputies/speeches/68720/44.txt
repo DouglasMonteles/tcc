@@ -1,1 +1,3 @@
-Posicionamento do orador e do PDT contrário à privatização da Empresa Brasileira de Correios e Telégrafos - ECT. Solidariedade ao movimento grevista aos funcionários dos Correios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56fc418855ff18258f9fcf1a665bc474da9cd9fd149f34cc174acdad79f7c50f
+size 185

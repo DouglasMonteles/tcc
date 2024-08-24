@@ -1,1 +1,3 @@
-Conveniência de acompanhamento pela Casa da reunião de Governadores destinada ao debate da situação fiscal dos Estados brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:756241ab5aefae382e812f1dd4a0790653a2dfe90157ed39304c983f43aba604
+size 135

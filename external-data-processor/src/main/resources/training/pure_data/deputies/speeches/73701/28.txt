@@ -1,1 +1,3 @@
-Visita a estudantes vítimas da ação de assassino ocorrida em escola municipal no Bairro de Realengo, no Rio de Janeiro, Estado do Rio de Janeiro. Apoio à realização de campanha de desarmamento da população civil. Encontro do Ministro da Saúde, Alexandre Padilha, com a bancada federal feminina para discussão de programas governamentais destinados à saúde da mulher.PRESIDENTE (Inocêncio Oliveira) - Solidariedade da Presidência aos familiares dos alunos assassinados em escola municipal, no Bairro de Realengo, no Rio de Janeiro, Estado do Rio de Janeiro. Adesão do Presidente em exercício dos trabalhos à campanha de desarmamento da população civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:658cd332468fc0c2ae14c8bca32665f04f53db3ed023b457fbb38b57873eb335
+size 670

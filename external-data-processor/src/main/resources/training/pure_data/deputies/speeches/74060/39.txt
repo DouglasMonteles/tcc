@@ -1,1 +1,3 @@
-Realização, pela Comissão de Comissão de Minas e Energia, de audiência pública para debate sobre o Programa Luz para Todos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5671dd674b04330e81f44191ff156b514648c236b484b6484639f81e0eda2f08
+size 129

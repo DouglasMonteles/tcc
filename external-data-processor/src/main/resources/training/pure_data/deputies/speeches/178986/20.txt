@@ -1,1 +1,3 @@
-Repúdio à Proposta de Emenda à Constituição nº 215, de 2000, que inclui dentre as competências exclusivas do Congresso Nacional a aprovação de demarcação das terras tradicionalmente ocupadas pelos índios e a ratificação das demarcações já homologadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22cd82fc5bfbfb8e27b82d7956858e2e712ab4cfee06f234cba1576d728e546e
+size 268

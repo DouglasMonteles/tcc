@@ -1,1 +1,3 @@
-Aprovação de matérias pela Câmara dos Deputados. Presença no plenário do ex-Prefeito Pedro Filho, do Município de Conceição do Lago-Açu, Estado do Maranhão, e do Presidente da Câmara Municipal de Bom Lugar, Vereador Araújo. Realização, pelo PRB, de convenção eleitoral em Conceição do Lago-Açu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb72cb1b441a6ffac2bba2dd225ce6ce0464bc23858ea7ff87fee3af2aafb70
+size 314

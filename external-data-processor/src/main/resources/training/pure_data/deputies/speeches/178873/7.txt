@@ -1,1 +1,3 @@
-Contrariedade à proposta em tramitação na Casa sobre o financiamento empresarial de campanhas eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1245faa21a302e3b3354b8a01e7b20132c9c47331c01ae8acb00d495ac1d62fa
+size 108

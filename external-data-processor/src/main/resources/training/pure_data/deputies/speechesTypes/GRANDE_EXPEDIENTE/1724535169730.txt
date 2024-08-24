@@ -1,1 +1,3 @@
-Participação do orador em manifestação popular contra a gestão petista do País. Comparação dos movimentos populares atuais com os do período de repressão política no Brasil. Relato histórico da evolução socioeconômica do País. Anúncio de apresentação de proposição pelo Deputado Jair Bolsonaro sobre solicitação da abertura de processo de impeachment contra a Presidenta Dilma Rousseff. Conclamação ao Plenário de participação no movimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07bb3b2beb0926bd7f228062a710746d8afb074804f4f2a7d7da460a66f654a7
+size 468

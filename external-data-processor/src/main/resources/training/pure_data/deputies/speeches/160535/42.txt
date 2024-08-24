@@ -1,1 +1,3 @@
-Realização do II Festival Brasileiro de Cinema em Frankfurt, Alemanha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04e7570cb820a02fdc9bc9f49642b9fda96249c0209cce7f5680763b2893096d
+size 72

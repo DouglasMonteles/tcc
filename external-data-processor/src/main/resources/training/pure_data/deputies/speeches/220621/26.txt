@@ -1,1 +1,3 @@
-Contrariedade à eventual declaração de inelegibilidade do ex-Presidente Jair Bolsonaro pelo Tribunal Superior Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bf9f210cbc4584d869348eb04ab60f83bd36ef675b7be5a314200a051b2b35f
+size 123

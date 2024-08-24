@@ -1,1 +1,3 @@
-Apelo à Casa de imediata votação dos requerimentos de destaques oferecidos à Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma da Previdência Social, e do requerimento de quebra de interstício par a votação da matéria em segundo turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcff3689492860882c78d7f292c2335967c0c22b3effc39117e424a45423cd1a
+size 263

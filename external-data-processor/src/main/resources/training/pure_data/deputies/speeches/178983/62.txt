@@ -1,1 +1,3 @@
-Destinação de recursos de emenda parlamentar à comunidade do Município de Lins, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a11b0b8d973f7b69db5af4009bb34c7407a12912cc84fcc330b93037a106da28
+size 105

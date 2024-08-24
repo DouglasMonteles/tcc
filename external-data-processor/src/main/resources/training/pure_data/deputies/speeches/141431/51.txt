@@ -1,1 +1,3 @@
-Adoção pelo Governo Federal de medidas para fortalecimento da fruticultura nacional. Êxito de acordos bilaterais implementados pelo Governo do Chile. Dificuldades de produtores de uva e manga da região do Vale do Rio São Francisco na manutenção de mercados consumidores e ampliação das exportações. Encaminhamento de indicações a Ministérios para celebração de acordos bilaterais relativos ao comércio de frutas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b9b6a3230ba0db8a54886d094ab951ae34c6315e6396058a9d83317ede0583d
+size 429

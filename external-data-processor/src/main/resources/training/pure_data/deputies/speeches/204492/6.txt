@@ -1,1 +1,3 @@
-Defesa de afastamento do Ministro da Justiça e Segurança Pública, Sérgio Moro, e do Procurador da República, Deltan Dallagnol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77db98543927b2165d21d385da253e7a4104e0020deb890457d022ca7d720fc2
+size 131

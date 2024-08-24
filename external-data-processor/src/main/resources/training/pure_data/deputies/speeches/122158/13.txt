@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado fluminense pela reeleição do orador. Regozijo com a eleição do candidato Luiz Fernando de Souza, conhecido como Pezão, ao Governo do Estado do Rio de Janeiro e com a reeleição da Presidenta Dilma Rousseff. Expectativa de realização de reformas e de aprimoramento da gestão pública pela Presidenta reeleita. Apresentação da pauta prioritária do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c571aec74c338f7846499d18aca4b0c6de172d0bab9b6351247fe7549b2840e4
+size 393

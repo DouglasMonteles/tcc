@@ -1,1 +1,3 @@
-Estabelecimento de novo marco regulatório dos meios de comunicação no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e15a7775a95970c2affb95fefa6c64e93c8886bc13674d0dd1c8a683f78ac49b
+size 79

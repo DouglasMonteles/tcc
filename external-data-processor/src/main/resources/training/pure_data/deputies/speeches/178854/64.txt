@@ -1,1 +1,3 @@
-O Deputado propôs acordo para evitar a obstrução da Oposição, invertendo a ordem da pauta a fim de votar Projeto de Lei consensual, de autoria da Senadora Tereza Cristina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9aae09625a2d81aaac3370cb3f02b913c7d8b3988e27ace1d0ec0cc1d294640
+size 176

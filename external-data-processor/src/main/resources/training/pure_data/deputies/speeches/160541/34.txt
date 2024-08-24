@@ -1,1 +1,3 @@
-Defesa da manutenção do art. 8º do Projeto de Lei de Conversão 3 de 2013 da Medida Provisória 587 de 2012,    que trata  da concessão de subvenção extraordinária aos produtores e fornecedores independentes de cana-de-açúcar na região Nordeste, afetados pela estiagem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d599e40a6097bb245de5f9d4e425dda258b68e14373fe1ff140cc40a80cc7879
+size 279

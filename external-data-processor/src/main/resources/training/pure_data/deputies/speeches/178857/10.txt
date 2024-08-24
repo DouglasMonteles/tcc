@@ -1,1 +1,3 @@
-Artigo intitulado Para acabar com a corrupção, de autoria do jornalista Ronaldo Lemos, publicado no jornal Folha de S.Paulo, com referência à obra do Prof. Lawrence Lessig, da Universidade de Harvard, intitulada República Perdida: como o dinheiro corrompe o Congresso, sobre a corrupção no Congresso dos Estados Unidos da América.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db5d31fb38266132b862749c932e963149fa57d997ff2961be35d748b1d1c0f6
+size 338

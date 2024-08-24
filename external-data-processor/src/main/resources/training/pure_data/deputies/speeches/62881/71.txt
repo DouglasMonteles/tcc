@@ -1,1 +1,3 @@
-Interdição de trecho da BR-222 pela comunidade do Moreira entre Itapajé e Umirim, Estado do Ceará, em protesto contra o estado de precariedade da rodovia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:741cf76677e7ae9cddde4b1e31375247521e2cf3dcb199dac1ffc505f2317d53
+size 158

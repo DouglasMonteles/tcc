@@ -1,1 +1,3 @@
-Realização da Campanha 16 Dias de Ativismo pelo Fim da Violência Contra as Mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e50baa50c03a0c9e07d4e5581ddc4677f36d18c3844ff0dfe9f390176e316be0
+size 87

@@ -1,1 +1,3 @@
-Imediata realização da reforma política. Caráter retórico da defesa, pelo PSDB, da desoneração tributária de produtos da cesta básico de alimentos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd08566dc4e3a8791b5e556febc8d2698aaa744a6e55099b8cb40cfa59034962
+size 156

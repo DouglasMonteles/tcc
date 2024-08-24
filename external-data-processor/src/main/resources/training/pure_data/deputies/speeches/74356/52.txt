@@ -1,1 +1,3 @@
-Participação do orador na comitiva do Governador do Estado do Amazonas, Eduardo Braga, em visita a Municípios interioranos. Intensificação pelo Governo Federal das ações de segurança nas regiões de fronteira da Amazônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ade91e22e1362c240ee9d6ef02580cdf2f3f650858ded90268b3a75bb81798c4
+size 230

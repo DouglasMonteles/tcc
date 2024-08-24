@@ -1,1 +1,3 @@
-Saudaçãos aos policiais presentes nas galerias do plenário. Constatação da presença de toxinas transgênicas em mulheres grávidas em pesquisa realizada no Canadá. Convite aos Deputados para participação em audiência publica na Subcomissão Especial sobre Agrotóxicos instituída pela Comissão de Seguridade Social e Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78c170ddfe23b68c12b75bdbc19e4b8dd3986ff1ce7b048457948678841a6549
+size 338

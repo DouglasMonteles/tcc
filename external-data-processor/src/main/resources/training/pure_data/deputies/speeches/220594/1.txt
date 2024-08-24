@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Congratulação à Mesa Diretora da Casa pelo estabelecimento da pauta feminina. Sucesso do Programa Patrulha Maria da Penha, implementado pelo orador na condição de Comandante-Geral da Polícia Militar do Estado de Mato Grosso. Vinculação entre a circulação ilegal de armas de fogo e crimes de feminicídio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5228ef5ec52b84d9342bb97f7a2c8968a4fe0b9cb21609cb0b8a1c55b9b13947
+size 357

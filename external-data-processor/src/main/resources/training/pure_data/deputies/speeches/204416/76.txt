@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido pela Comissão de Seguridade Social e Família ao Projeto de Lei nº 1.077, de 2021, sobre o estabelecimento de regras temporárias para o fornecimento prioritário de oxigênio à rede hospitalar durante a epidemia de coronavírus, ressalvados os destaques. Contestação às críticas do Deputado Alexis Fonteyne à propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb3b95b8fcb0f695239af14eae43f192bc0d1c86b24f9114f159bfe13015c612
+size 393

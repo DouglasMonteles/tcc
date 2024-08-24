@@ -1,1 +1,3 @@
-Transcurso do 87º aniversário de criação da Associação Comercial e Industrial de Londrina - ACIL. Relato da visita do Ministro da Saúde, Marcelo Queiroga, ao Município de Londrina, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6d7e115c60941e872c6d572aa97f91b83faa1f4b5e345080e48d4aad135d771
+size 207

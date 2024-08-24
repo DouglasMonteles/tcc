@@ -1,1 +1,3 @@
-Defesa de revogação do Decreto nº 10.502, de 2020, editado pela Presidência da República, sobre a instituição da Política Nacional de Educação Especial: Equitativa, Inclusiva e com Aprendizado ao Longo da Vida. Promoção do ensino inclusivo de qualidade, por meio da capacitação de professores e da melhoria da infraestrutura das escolas regulares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf2fc20944e115f0e39abe8188229b3d2baaf10553a296251bf0bb9c83369217
+size 361

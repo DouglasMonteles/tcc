@@ -1,1 +1,3 @@
-Transcurso do 75º aniversário de fundação da Liga Bahiana Contra o Câncer. Participação do orador no processo de reorganização do Partido dos Trabalhadores no Município de Mirangaba, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:962dd168a4a23a46a214d05d990cf91263aab2a198447e122f08c459f131f0a2
+size 209

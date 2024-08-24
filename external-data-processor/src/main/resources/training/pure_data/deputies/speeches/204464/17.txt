@@ -1,1 +1,3 @@
-Repúdio à atuação do Presidente da República. Veto do Governo Federal à expressão violência obstétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5780e37d5e21503511f8b27441f5d938ddd6d2f03c7e56a68df82d9834aaf1bb
+size 112

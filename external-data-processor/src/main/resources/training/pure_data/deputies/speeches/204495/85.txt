@@ -1,1 +1,3 @@
-Vitória da Esquerda nas eleições presidenciais realizadas na América Latina. Prejuízos causados ao Estado e ao povo brasileiro pela retirada do PT da governança do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcaa94654af300258b78604b5fe976641fa7c99718e73d32ac66a7592164cd44
+size 176

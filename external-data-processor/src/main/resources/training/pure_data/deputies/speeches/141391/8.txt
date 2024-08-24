@@ -1,1 +1,3 @@
-Participação do orador em audiência pública realizada pela Agência Nacional de Energia Elétrica - ANEEL, acerca de subsídios e informações sobre a proposta de classificação para instalações de conexão compartilhadas por novas centrais de geração de energia, com destaque para a eletricidade produzida a partir de biomassa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f3db879d6ced4939b41a3999a2388210b5e812c11eae2f6b8db32a5ea52e086
+size 338

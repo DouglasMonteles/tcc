@@ -1,1 +1,3 @@
-Previsão de recessão econômica no Brasil até 2019, conforme Boletim Focus do Banco Central. Contrariedade à recriação da Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF e de cortes de recursos nas áreas da saúde, educação e segurança. Necessidade de aumento da atividade industrial para recuperação da economia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aea22c49f683cb89f3deb0ee73a063b5940383286464adc6eff171021b56608c
+size 419

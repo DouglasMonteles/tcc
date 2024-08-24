@@ -1,1 +1,3 @@
-Congratulações aos membros da Comissão Especial destinada ao exame da proposta de reforma previdenciária. Expectativa de aprovação da matéria pela Casa. Necessidade de realização da reforma tributária e de privatização de empresas públicas para a retomada do crescimento econômico do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b763b876d2ff3462bbee1e03d066ce38cf04be836f409ba9a6633b8b8a492c7d
+size 305

@@ -1,1 +1,3 @@
-Pedido à população brasileira de envolvimento na Campanha Novembro Azul, de conscientização e prevenção do câncer de próstata, ao ensejo do término da Campanha Outubro Rosa, de conscientização e prevenção do câncer de mama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:917515cb44b2f3cc7a0a52b8e61312b7ff87fd287b8d6fb24a55de4a36a56448
+size 238

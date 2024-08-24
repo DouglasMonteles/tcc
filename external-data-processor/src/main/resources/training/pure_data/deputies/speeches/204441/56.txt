@@ -1,1 +1,3 @@
-Repúdio aos ataques do PT, em especial do Deputado Zeca Dirceu, ao Ministro da Economia, Paulo Guedes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad3c1938d5e65b1485f6e1d5fce1689bf96b2b48b8975043d56cb694f0d8b133
+size 103

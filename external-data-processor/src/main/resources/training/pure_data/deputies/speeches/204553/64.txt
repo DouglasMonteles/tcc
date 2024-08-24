@@ -1,1 +1,3 @@
-Danos ambientais ocorridos no litoral da Região Nordeste. Inadmissibilidade de demissão de cobradores do sistema de transporte coletivo de passageiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0529b16ea5921ac1d11f68ac46c1348eb55aaf3502ff83bb7cf2a3d028f4d822
+size 153

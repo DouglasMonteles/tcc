@@ -1,1 +1,3 @@
-Cumprimentos ao Governador do Estado de Minas Gerais, Fernando Pimentel, pelo sucesso das negociações com os professores da rede pública de ensino. Importância da votação do Projeto de Lei nº 2.245, de 2007, que regulamenta a profissão de tecnólogo, de autoria do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc863df3616cb0587ec84d009fcc977a8eeea4fe24dc5c2d239be498dae1dcae
+size 280

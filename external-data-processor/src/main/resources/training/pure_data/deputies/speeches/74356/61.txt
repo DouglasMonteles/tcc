@@ -1,1 +1,3 @@
-Necessidade de efetiva implementação, no Estado do Amazonas, do Programa Terra Legal destinado à regularização fundiária de terras públicas federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99a32ff57ba12f5ef3fe9bac937f43eeaacbbb9ff2f1b5a5dea0e3300f24ddbd
+size 156

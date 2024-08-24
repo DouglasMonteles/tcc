@@ -1,1 +1,3 @@
-Apelo aos Deputados de comparecimento ao plenário para votação da proposta de fixação da jornada de trabalho dos profissionais da enfermagem em 30 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d52f13e38607ae68fcd7f0e15d8e507e6c28f53b7162a2088c4ad9c133d894f5
+size 167

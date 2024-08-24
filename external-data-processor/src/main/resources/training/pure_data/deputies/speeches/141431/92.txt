@@ -1,1 +1,3 @@
-Necessidade de intensificação das ações de combate ao uso de drogas no País, especialmente do crack.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d06eab65fd5bad323124f124cdd8aa93fe033c6f6c4ec3846299c9a037b50c09
+size 105

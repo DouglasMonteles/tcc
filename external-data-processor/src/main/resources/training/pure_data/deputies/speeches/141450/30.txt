@@ -1,1 +1,3 @@
-Contentamento com a aprovação das  Emendas do Senado ao Projeto de Lei de Conversão 27 de 2008 (Medida Provisória 440 de 2008), sobre reajustes para carreiras do funcionalismo público Defesa de aprovação de emenda à Medida Provisória nº 445, de 2008, destinada à criação do Programa de Subsídio Habitacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc88744b48a8c837741aa616bfe387493e8c63e0e4ce24610184c7a95579a747
+size 322

@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 996, de 2015,&nbsp;sobre a alteração do art. 121 do Decreto-Lei nº 2.848, de 1940, (Código Penal), com vista à qualificação do homicídio praticado contra membros do Ministério Público e magistrados no exercício de suas funções.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cbf15edfda5930436378848e5f2538b4537f3903eb714b16c0ad682d5480f0a
+size 273

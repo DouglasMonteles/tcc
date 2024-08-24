@@ -1,1 +1,3 @@
-Pedido aos Deputados do PMDB de presença em plenário para votação nominal da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:174c66f75d7df853aad65783d80d557c3f8bf3fac95290035582036580ca8870
+size 90

@@ -1,1 +1,3 @@
-O Deputado defendeu o Projeto de Lei nº 2.133, de 2023, de sua autoria, que visa tornar o Sistema Único de Saúde (SUS) mais eficiente. Afirmou que a proposição cria um dispositivo de compras públicas, que permitiria ao Estado brasileiro realizar aquisições mais organizadas e eficientes por meio de um marketplace. Sustentou que o referido mecanismo simplificaria as compras de medicamentos e de outros produtos de saúde, reduzindo a quantidade de processos licitatórios. Por fim, enfatizou que a medida poderia economizar até 6,2 bilhões de reais e pediu o apoio dos Deputados para a aprovação da proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb6851aacb066c560286293fd3062a22238eb9f338abe264ecdfa6dc25d32569
+size 625

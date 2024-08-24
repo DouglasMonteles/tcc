@@ -1,1 +1,3 @@
-Imediata suspensão, pelo Ministério do Meio Ambiente e Mudança do Clima, de embargos impostos a propriedades rurais e à atividade madeireira, no Estado do Acre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44e14c93a74ed33e39809e1cc4df24f11bf21b54b7a32963489447279e549433
+size 164

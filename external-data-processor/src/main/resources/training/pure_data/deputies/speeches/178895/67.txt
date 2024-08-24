@@ -1,1 +1,3 @@
-Pedido aos Parlamentares de apoio à rejeição do veto presidencial a proposição sobre reajuste salarial dos servidores do Poder Judiciário Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:051661d9a7616627068300a711582c0ccb152716055dc125b0814aef7830faf5
+size 152

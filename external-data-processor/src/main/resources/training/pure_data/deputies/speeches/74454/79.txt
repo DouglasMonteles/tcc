@@ -1,1 +1,3 @@
-Liderança do Estado do Ceará na produção de rosas e flores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:190f2bf5479b1730ff23a2a0871013d92765e8d32ca70c6dd0da07f574eacc0f
+size 63

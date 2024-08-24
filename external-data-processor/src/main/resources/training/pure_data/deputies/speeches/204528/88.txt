@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 3, apresentada ao Projeto de Lei do Congresso Nacional nº 2, de 2021, sobre alteração da Lei nº 14.116, de 2020, acerca das diretrizes para a elaboração e a execução da Lei Orçamentária de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bff977c4d9abab81120d9542cd4e1a64a293462242514b515ae0fe1f49f107d
+size 310

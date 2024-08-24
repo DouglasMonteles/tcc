@@ -1,1 +1,3 @@
-Apelo ao Prefeito Municipal de São Paulo, Bruno Covas, de atendimento às reivindicações dos representantes da Terra Indígena Jaraguá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a07405412694216764a20c659da9199b2c27fab2d545965980489f9100348a9
+size 139

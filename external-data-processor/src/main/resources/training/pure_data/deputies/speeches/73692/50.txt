@@ -1,1 +1,3 @@
-Transcurso do bicentenário de fundação do Município de Bagé, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d819c3041252eb6920a0beadfec07074598f28a7b0041b2a0e46263c7d363ebf
+size 94

@@ -1,1 +1,3 @@
-Prorrogação do prazo de recadastramento de armas de fogo no País. Urgente necessidade de retomada das atividades de clubes de tiro e lojas de revenda de armas e munições.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f14466098a65c288e6050677b6841c49c9747139adbd485c2a3c9e5aec443d57
+size 175

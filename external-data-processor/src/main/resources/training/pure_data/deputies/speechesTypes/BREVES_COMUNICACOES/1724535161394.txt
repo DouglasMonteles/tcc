@@ -1,1 +1,3 @@
-Importância do debate, pelo Congresso Nacional, da proposta governamental de reforma administrativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af3a8fc3ca8ad7ec4b212f0a3a2d84c2c7cf09990d9e38c41d8fe274f441f54f
+size 101

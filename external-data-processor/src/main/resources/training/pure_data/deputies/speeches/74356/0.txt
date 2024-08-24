@@ -1,1 +1,3 @@
-Concessão ao Distrito Industrial de Manaus, Estado do Amazonas, de exclusividade na produção de conversores para a TV digital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47ed8e28f8ff35de52d43e74dbd6456ad652fddcbbc88aab3137700798055a2e
+size 129

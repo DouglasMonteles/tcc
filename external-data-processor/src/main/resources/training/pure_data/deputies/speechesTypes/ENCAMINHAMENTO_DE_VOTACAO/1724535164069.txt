@@ -1,1 +1,3 @@
-A Deputada encaminhou a votação do Projeto de Lei nº 3.268, de 2021, que declara feriado nacional o Dia Nacional de Zumbi e da Consciência Negra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a46b1b563cd7363b09b7cbbb3fa9d6f1d1053547801be503a339fed4a8feb3e
+size 149

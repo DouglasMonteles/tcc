@@ -1,1 +1,3 @@
-Repasse de recursos da Câmara dos Deputados para o Ministério da Educação. Instalação da CPI da Dívida Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4951fccfd73b5fe14943c8dc8e6a733d449e4adc39ae1df60d90ac9d75bb2ac8
+size 119

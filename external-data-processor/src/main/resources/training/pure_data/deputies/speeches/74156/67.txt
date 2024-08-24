@@ -1,1 +1,3 @@
-Expansão do grupo empresarial Coelho Diniz, fundado no Município de Governador Valadares, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57569b179518c8d5c4f4198acb48d1c9f65da3bd81c386072a3c95ddc5928e8f
+size 115

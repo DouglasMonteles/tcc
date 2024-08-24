@@ -1,1 +1,3 @@
-Indignação com iniciativa da empresa Nestlé de venda da marca do chocolate Serenata de Amor com vistas à resolução de conflito no Conselho Administrativo de Defesa Econômica -CADE, do Ministério da Justiça, após fusão com a empresa Garoto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df0cb96cabf92a99f3a0963edfd5ffa3f7ba39a35e02585a26ca4220792a6d85
+size 250

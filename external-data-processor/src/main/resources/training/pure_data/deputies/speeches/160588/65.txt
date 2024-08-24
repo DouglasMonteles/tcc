@@ -1,1 +1,3 @@
-Competência e espírito de liderança do Deputado Antonio Brito.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dd01b746c51af000657c6740cfe34b95b692f2b9db9125fd8602edc4e39e0f8
+size 65

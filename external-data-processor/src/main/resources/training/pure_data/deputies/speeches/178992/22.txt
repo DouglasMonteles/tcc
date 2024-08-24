@@ -1,1 +1,3 @@
-Importância da aprovação da proposta de reforma trabalhista apresentada pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:164d2fb7455e2b6d7e98b6a7954f367963659350ac2b3b48e963e5ff6e95ef5a
+size 96

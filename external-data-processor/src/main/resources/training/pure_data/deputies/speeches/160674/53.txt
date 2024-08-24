@@ -1,1 +1,3 @@
-Lançamento da programação oficial do Festival de Folclore Junino de Patos - São João 2012. Votos de sucesso ao novo Ministro do Trabalho e Emprego, Deputado Brizola Neto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e0446165b2afcf92dd77f1f7015d10f42a8986038c3b0a8b0c803e47d003a4d
+size 175

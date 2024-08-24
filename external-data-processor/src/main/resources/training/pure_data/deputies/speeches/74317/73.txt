@@ -1,1 +1,3 @@
-Posicionamento contrário à alteração da representatividade dos Estados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:274661afd723897edf8e6e6833cada6d3a54a7337d3ade07fe3b9c4d38517859
+size 75

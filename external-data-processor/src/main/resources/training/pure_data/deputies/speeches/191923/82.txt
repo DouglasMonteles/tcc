@@ -1,1 +1,3 @@
-Atuação do Presidente do Banco Central em dissonância com o programa de governo do Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f72be361827ab9c1b2b25407e68ad10ce4fba447aba9cb8d3597c29aad6214c
+size 111

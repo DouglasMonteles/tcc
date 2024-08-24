@@ -1,1 +1,3 @@
-Caos do trânsito nas grandes cidades brasileiras. Descompasso entre a grande frota de veículos e os investimentos em obras de infraestrutura viária em Salvador, Estado da Bahia. Necessidade de melhoria do sistema de transporte público do País. Acerto da política macroeconômica adotada pelo Governo Dilma Rousseff. Papel desenvolvido pelo BNDES no processo de geração de emprego e renda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:179dfa85527da6dc690c076f98f709964a43b1c556e1053c02fb31087557d6a1
+size 396

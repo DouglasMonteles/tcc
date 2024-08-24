@@ -1,1 +1,3 @@
-Relato da visita de delegação de Parlamentares à França para estabelecimento de contatos nas áreas política, industrial e militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aef7f05017807498e4ea062dcb0c256bf9e8ba35228833b77784eda8adb53d8
+size 136

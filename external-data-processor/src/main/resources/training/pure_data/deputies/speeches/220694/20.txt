@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a falta de chuva em várias regiões da Bahia, afetando agricultores e a economia. Ele pediu ações propositivas, como abastecer a CONAB com milho para pequenos agricultores, perfuração de poços e distribuição de kits de irrigação. Também destacou a necessidade de recursos para a Operação Carro-Pipa e um processo mais ágil de reconhecimento do estado de emergência municipal. O Deputado enfatizou a importância dessas discussões na Câmara dos Deputados para enfrentar os impactos da seca na Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fd81e8dcba4d0a2a7e6f874514c0604c03b71a0a8042c2f5e923e04cb711b94
+size 554

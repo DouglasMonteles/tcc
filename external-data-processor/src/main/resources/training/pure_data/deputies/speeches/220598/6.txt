@@ -1,1 +1,3 @@
-Falecimento do soldado do Exército brasileiro, Gabriel Henrique dos Santos, em decorrência do treinamento militar, no Rio de Janeiro, Estado do Rio de Janeiro. Conveniência de extinção do serviço militar obrigatório.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48fc754c68cf85013f08db0ee474390143858050a021cc15ad94a859d9ec0b2a
+size 223

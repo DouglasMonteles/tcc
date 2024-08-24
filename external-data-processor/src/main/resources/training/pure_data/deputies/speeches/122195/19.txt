@@ -1,1 +1,3 @@
-Concessão do Selo OAB de 2011 ao curso de Direito do Campus de Sousa da Universidade Federal de Campina Grande - UFCG.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01227e703783f712fd8fb5f5b45850bc3a71e923b48a8bfb0475a6749e8ef330
+size 119

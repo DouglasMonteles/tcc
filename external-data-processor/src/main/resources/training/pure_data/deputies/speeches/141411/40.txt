@@ -1,1 +1,3 @@
-Celebração de acordo sobre o reajuste de aposentadorias e pensões.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9de7f5fdfc33af285314ffcc1c549351152eb54ff1caca32f9b9bfd6f6e176ee
+size 69

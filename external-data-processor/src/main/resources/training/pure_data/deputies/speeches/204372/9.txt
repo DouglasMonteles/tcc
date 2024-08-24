@@ -1,1 +1,3 @@
-Contribuição do PRB para a reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8878cbfda3a25d29111bc660c07599ea2df0eba4722a2abc7ad986b3494d057c
+size 60

@@ -1,1 +1,3 @@
-Cumprimento aos Ministros do Tribunal de Contas da União. Reconhecimento, pelo Senador Delcídio do Amaral, do PT, do aspecto técnico da decisão da Corte de Contas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29eb8f1ed1938f2958e93afc1af2aeb7e426f1cef36ef9087e79a406039a21c7
+size 167

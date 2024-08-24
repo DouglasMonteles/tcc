@@ -1,1 +1,3 @@
-Esclarecimento sobre a destinação de recursos de emendas orçamentárias apresentadas pelos Deputados. Necessidade de atuação da Casa em favor dos passageiros de aeronaves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afce3a3b3d2dbd4eb15c539ada31c17f26e802cb6070c5779c7841ac212f2214
+size 176

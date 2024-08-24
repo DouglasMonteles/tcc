@@ -1,1 +1,3 @@
-Encaminhamento da votação do Requerimento de prazo até a  sessão ordinária seguinte para apreciação da Medida Provisória 533 de 2011 (Autoriza a União a transferir recursos financeiros aos Municípios e ao Distrito Federal, com a finalidade de prestar apoio financeiro à manutenção de novos estabelecimentos públicos de educação   infantil, e  dá outras providências), em razão da apresentação de projeto de lei de conversão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e08adb4424d121aa30f6bd816314a94d8c40bcb12ce8b82d729a4c6fe74bc38d
+size 446

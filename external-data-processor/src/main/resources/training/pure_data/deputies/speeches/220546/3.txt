@@ -1,1 +1,3 @@
-Participação de proprietários da empresa JBS, denunciados pelo recebimento irregular de elevados recursos do BNDES, na viagem oficial do Presidente Luiz Inácio Lula da Silva à República Popular da China. Denúncia de alinhamento de preços pelo cartel de frigoríficos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d665de6cf0e03efdf8cbd1ffd2a8128924316641f4c0a119d1a65429a6881dd
+size 275

@@ -1,1 +1,3 @@
-Presença, na Casa, do Prof. José Ferreira Costa, o Zé Costa, referência do setor educacional no Estado do Maranhão. Administração desastrosa do Município de Zé Doca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31123b8a1cb3096f74dd131bcbc2810a6c955f333cc34111badef98f458a1d17
+size 174

@@ -1,1 +1,3 @@
-Apelo ao Governo Federal de renegociação de dívidas do setor de fruticultura. Resultados positivos da implementação do Programa de Erradicação da Cydia Pomonella.
+version https://git-lfs.github.com/spec/v1
+oid sha256:321486a68c7f62e1a19926d11e599552dec4f3763cc5763117da8af1d2b62a8a
+size 169

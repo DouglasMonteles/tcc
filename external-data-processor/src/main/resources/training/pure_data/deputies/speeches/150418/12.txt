@@ -1,1 +1,3 @@
-Realização da 1ª Audiência Pública da Pesca, em Salvador, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42e30b2f355a3651cfa1e7ceb632fd11d6b0c98722f72aac354e98a802f4026b
+size 79

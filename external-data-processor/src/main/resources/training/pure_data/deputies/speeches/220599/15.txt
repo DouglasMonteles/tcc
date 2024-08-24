@@ -1,1 +1,3 @@
-O Deputado se associou aos pronunciamentos de repúdio aos ataques do grupo Hamas. Também fez um apelo para que fosse instaurada a Comissão Especial destinada ao exame da Proposta de Emenda à Constituição nº 5, de 2023, que trata da concessão de imunidade tributária a organizações religiosas. Destacou que a propositura tem como objetivo beneficiar igrejas católicas, espíritas e evangélicas. Expressou gratidão ao Deputado Estadual André Ceciliano, do Rio de Janeiro, e ao Ministro das Relações Institucionais, Alexandre Padilha, por seu apoio à PEC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0c52dc3fac456ede90e8de9a56bc728fb381fb6de91b20709133cdb8ec2e2bb
+size 570

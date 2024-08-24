@@ -1,1 +1,3 @@
-Apresentação pelo orador no exercício do cargo de Vereador de Cascavel, Estado do Paraná, de projeto de lei a respeito da criação da guarda patrimonial para a segurança nas escolas municipais. Apresentação do Projeto de Lei nº 1.690, de 2023, sobre a criação do Programa Nacional de Segurança nas Escolas Municipais e nos Centros Municipais de Educação Infantil, em conjunto com as Guardas Municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23bea50fef5c9f9ee43b473ffb97f64e133d34d28958f0f721ec85d074a09c75
+size 416

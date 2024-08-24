@@ -1,1 +1,3 @@
-Inconsistência do relatório divulgado pelo Presidente Jair Bolsonaro, com o timbre do Tribunal de Contas da União - TCU, a respeito do número de óbitos provocados pela Covid-19 no País. Tentativa do Presidente da República de envolvimento do TCU com fake news. Desrespeito de Jair Bolsonaro para com os profissionais da saúde e os familiares das vítimas do coronavírus. Reinclusão do Brasil no Mapa da Fome. Omissão da Câmara dos Deputados diante de crimes praticados pelo Presidente da República. Defesa de restabelecimento do auxílio emergencial de 600 reais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d719101c46be2b2b333e03bad2192916f3be9f33fe223c1c8c20ce93b7520616
+size 576

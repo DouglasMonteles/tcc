@@ -1,1 +1,3 @@
-Lançamento da segunda edição da obra Apontamentos para a História da Imprensa da Bahia, ao ensejo da comemoração dos 200 anos da criação da impressão régia no Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a96a13e8647688a6525e1fb03b3608560e45a5591016ef4092e5eb9b035cb14a
+size 184

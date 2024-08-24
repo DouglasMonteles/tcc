@@ -1,1 +1,3 @@
-Apresentação à Medida Provisória nº 1.162, de 2023, da Emenda nº 19, de 2023, destinada à inclusão, nos grupos prioritários de beneficiários do Programa Minha Casa, Minha Vida, de mulheres vítimas de violência doméstica e mães solo cadastradas no Cadastro Único do Governo Federal - CadÚnico, bem como de portadores de doenças raras e pessoas com descendentes portadores de transtorno do espectro autista severo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a5e0e06c66bb3408d080cbf6df5066aec2a005596d2839eb80cd960df36a343
+size 429

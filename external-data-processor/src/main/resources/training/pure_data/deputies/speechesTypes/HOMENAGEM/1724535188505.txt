@@ -1,1 +1,3 @@
-Sessão Solene em homenagem ao Dia dos Comerciários.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51c0243cef67d228a8de8693702165a4e3d9a6a19660dfd9901cab2a19eb9840
+size 202

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 64, apresentada ao Projeto de Lei nº 873, de 2020, sobre a alteração da Lei nº 13.982, de 2020, com vista à mudança nas regras do auxílio emergencial; à vedação da suspensão de benefícios previdenciários e assistenciais concedidos aos idosos, às pessoas com deficiência ou com enfermidade grave, durante a pandemia da Covid-19. Agradecimento ao Relator da matéria, Deputado Cezinha de Madureira, pelo acatamento da Emenda nº 6, destinada à inclusão de novas categorias à proposição. Indignação do orador com ataques do Presidente Jair Bolsonaro contra o Congresso Nacional e o Presidente Rodrigo Maia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8bd36e180d9ea09615259a3f2bf0aae4a5346ee2d57acc283bceda8c48984eb
+size 731

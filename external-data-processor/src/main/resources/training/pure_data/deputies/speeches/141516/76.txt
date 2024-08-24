@@ -1,1 +1,3 @@
-Contestação ao discurso proferido pelo Líder do Governo na Casa. Responsabilidade do Governo Fernando Henrique Cardoso pela estabilidade econômica do País. Contradição entre a propaganda oficial do Governo petista e a situação socioeconômica brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cd1a2872da3790cceaeef03655dc5988d9be5adff44e495ab4ce099a810a447
+size 263

@@ -1,1 +1,3 @@
-Atuação parlamentar do orador como Senador da República na área de segurança pública. Questionamento sobre a aplicabilidade do Estatuto da Criança e do Adolescente - ECA à realidade atual. Apresentação do Projeto de Lei nº 4.744, de 2012, sobre a inclusão de novas disciplinas obrigatórias nos currículos dos ensinos fundamental e médio, e do Projeto de Lei do Senado nº 190, de 2012, sobre a alteração do ECA para aplicação de pena prevista no Código Penal ao adolescente infrator, no caso de reincidência na prática de infração grave.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14429566ef0d307d30de63063de517e1980213a197306aeec8d252369d65253a
+size 561

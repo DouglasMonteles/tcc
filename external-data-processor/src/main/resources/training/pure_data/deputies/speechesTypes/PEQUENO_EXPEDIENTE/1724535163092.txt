@@ -1,1 +1,3 @@
-Exoneração da Ministra do Meio Ambiente, Marina Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5d10f2e830b72072e2667ef350c305c6e7d7528c8dc72a404eff5c1973ed8a2
+size 56

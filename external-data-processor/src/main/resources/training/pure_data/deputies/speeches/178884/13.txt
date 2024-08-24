@@ -1,1 +1,3 @@
-Consideração do Ministro-Chefe da Secretaria de Aviação Civil da Presidência da República, Eliseu Padilha, pelo Parlamento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24d448e3a5c99d703d47aa18fd19e3be814ab7eb0535f955d328ab70d6512dd1
+size 129

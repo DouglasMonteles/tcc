@@ -1,1 +1,3 @@
-Adoção de medidas de proteção ao emprego pelo Governo Federal e pelo empresariado brasileiro. Apresentação à Comissão de Ciência e Tecnologia, Comunicação e Informática de requerimento para realização de audiência pública destinada ao debate da situação do sistema de telefonia e dos serviços de Internet na região amazônica, especialmente no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50e55bf9940b9534ecfa6750ad72acf8fe82e9ba2480ff3f5d90ded557cc5c36
+size 383

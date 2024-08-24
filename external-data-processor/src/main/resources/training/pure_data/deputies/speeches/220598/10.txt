@@ -1,1 +1,3 @@
-Assassinato da Profa. Elizabeth Tenreiro por aluno de 13 anos de idade na Escola Estadual Thomazia Montoro, no Bairro de Vila Sônia, em São Paulo, Estado de São Paulo. Escalada da violência nas escolas brasileiras. Enfrentamento do racismo, do machismo e da GLBTfobia no País. Valorização dos professores da rede pública de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfcd96e3a57dffb99ea89cd09ae9ced2b96a1f6af33eb65ab0a4aad17fcf0fc0
+size 339

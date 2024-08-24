@@ -1,1 +1,3 @@
-Congratulações ao Presidente Luiz Inácio Lula da Silva pelo relançamento do Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd054726b17fd038b4ef63b4dcfddcb0821f8266e144501cc1059151023aca96
+size 103

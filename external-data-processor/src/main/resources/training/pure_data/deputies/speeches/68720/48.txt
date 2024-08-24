@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Segurança Pública e Combate ao Crime Organizado, de requerimento de indicação ao Ministério da Justiça e Segurança Pública para inclusão do Município de Nossa Senhora do Socorro, Estado de Sergipe, no Programa Nacional de Enfrentamento à Criminalidade Violenta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:960dbdadd04797a60a74db45256662941d90cbc029bb69a43d2cc614153f1c8f
+size 303

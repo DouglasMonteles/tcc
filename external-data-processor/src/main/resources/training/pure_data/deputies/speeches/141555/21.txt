@@ -1,1 +1,3 @@
-Pedido ao Ministro Fernando Haddad para inclusão da disciplina Defesa do Consumidor na grade curricular do ensino médio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19f560ea2e99227e60e43ddde61b1016646d400acbde35f1f7697e3ee44dd476
+size 122

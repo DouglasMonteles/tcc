@@ -1,1 +1,3 @@
-O Deputado expressou sua indignação após ser agredido fisicamente por um colega no plenário. Destacou sua defesa da vida, família, valores cristãos e liberdade. Relatou que estava tomando providências legais quando soube que o agressor admitiu a agressão em entrevista. Expressou seu abalo emocional diante da ameaça de mais agressões e pediu que o comportamento do agressor não seja replicado na sociedade. Por fim, agradeceu à solidariedade de colegas e destacou seu compromisso com valores que não podem ser comprometidos por atitudes agressivas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:960c52e64e00baf84da4ea31dbf322a738a64a8ec53dd151d6507d84dec31a4b
+size 562

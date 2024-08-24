@@ -1,1 +1,3 @@
-Quebra de patentes de vacinas contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a546ee8879ad3bfc2796dda72f22d99bdbf35728b395c27d0d26cc46d4668dc
+size 48

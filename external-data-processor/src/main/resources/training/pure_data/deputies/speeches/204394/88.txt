@@ -1,1 +1,3 @@
-Homenagem póstuma ao Senador José Maranhão, falecido em decorrência da Covid-19. Realizações do ex-Governador do Estado da Paraíba. Solidariedade aos familiares das vítimas do coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:902ca12bef512f86011886c77c11f805b6bcceb14153bcbeb42b3c8025899724
+size 197

@@ -1,1 +1,3 @@
-Realização de processo licitatório para a compra de trilhos concernentes ao trecho da Ferrovia de Integração Oeste-Leste entre os Municípios de Barreiras e Ilhéus, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ed8b4de3e56493d57c50f285b09c05f04cbe5c5416b74d419685a291ca22bce
+size 190

@@ -1,1 +1,3 @@
-Luta do orador pela duplicação da BR-116, no trecho compreendido entre os Municípios de Guaíba e Pelotas, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0603e61d854db27d72741fbd2dd5107c4084b0f504af80ce368d19f96416887
+size 141

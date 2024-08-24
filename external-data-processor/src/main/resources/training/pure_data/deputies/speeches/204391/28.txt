@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Consumidor. Relevância do Código de Defesa do Consumidor. Principal prioridade da Comissão de Defesa do Consumidor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f168e5285a4491789a5f46153e57b760b8df12b9c5e978e40d525d37c8fa876
+size 147

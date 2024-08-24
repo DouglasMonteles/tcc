@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 863, de 2018, sobre a abertura do setor aéreo ao capital estrangeiro. Gravidade da situação política do País em face de cortes de recursos orçamentários destinados à área da educação e ao autoritarismo do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:280347ab8c1f59cb1c8e0f8fe799604b04479ec2e74ddcf75790d971144f2774
+size 342

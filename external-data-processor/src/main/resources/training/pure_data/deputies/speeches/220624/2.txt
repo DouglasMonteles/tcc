@@ -1,1 +1,3 @@
-Retrocesso do Projeto de Lei nº 2.630, de 2020, a respeito da instituição da Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (projeto de lei das fake news). Defesa de rejeição da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb5c5795e9ca759e4b1544e4a037298b087e4e759029e90ed21f3a02092a000e
+size 223

@@ -1,1 +1,3 @@
-Urgente realização da reforma urbana, especialmente da Capital São Luís, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:576fd7c00a1b62cc4822ab11b01281d0bb8a808265964212ada62732d148bd4c
+size 97

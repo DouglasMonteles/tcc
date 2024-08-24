@@ -1,1 +1,3 @@
-Queda na arrecadação de ICMS pelo Estado do Rio Grande do Sul decorrente do contrabando de mercadorias da Argentina, Uruguai e Paraguai.  Necessidade de combate ao contrabando pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:135717de86cb4dd17fe9e04628347dbee5d9cdb826f523193b49dd35729a97d1
+size 199

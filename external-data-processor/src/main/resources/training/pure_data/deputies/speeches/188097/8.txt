@@ -1,1 +1,3 @@
-Omissão do Governo Federal sobre o desastre socioambiental provocado pelo derramamento de petróleo cru no litoral da Região Nordeste. Imediata execução, pelos governantes, de plano de mitigação dos efeitos danosos decorrentes do vazamento de petróleo na costa brasileira,.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dc7bf1171d58c152f2ccea79c996f30e0371721c5b3899398615083e80ff5e9
+size 280

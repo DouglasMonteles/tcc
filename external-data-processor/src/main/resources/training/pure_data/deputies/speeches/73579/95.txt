@@ -1,1 +1,3 @@
-Convite aos Deputados de participação no lançamento da Frente Parlamentar da Segurança Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cec81de20f465822fecfda5bc29c3814752cd9c5b3acce1cd984b53d9b5ff32
+size 100

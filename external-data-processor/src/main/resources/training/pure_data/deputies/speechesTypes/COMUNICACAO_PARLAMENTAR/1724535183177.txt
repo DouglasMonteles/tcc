@@ -1,1 +1,3 @@
-Defesa da aprovação da proposta de emenda à Constituição relativa à alteração do sistema previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4610a4ffcc1b22f22c571d560a92dd4ec2a53753d537bc87ba30ecc13ee82ce8
+size 113

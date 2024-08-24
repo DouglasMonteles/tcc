@@ -1,1 +1,3 @@
-O Deputado expressou sua frustração com a falta de organização e compromisso na Câmara dos Deputados, onde obstruções e indecisões prejudicam o trabalho legislativo. Lamentou a situação, destacando a importância do compromisso parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e8a0488c6eba93f3dbcdb15664a50b03b962c66871ade452fba0a47fc3be334
+size 250

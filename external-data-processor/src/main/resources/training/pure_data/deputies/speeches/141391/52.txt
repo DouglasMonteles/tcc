@@ -1,1 +1,3 @@
-Posicionamento favorável do PPS  ao Requerimento de inversão da pauta a Ordem do Dia. Protesto contra a tentativa do Governo de criação de tributo nos moldes da extinta Contribuição Provisória sobre Movimentação Financeira - CPMF, na  proposta de regulamentação da Emenda Constitucional nº 29, de 2000, sobre o financiamento da saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a5452d06ed626f7f395ca982382729c08d16439fdcd105b7a5b6e370018cbe0
+size 356

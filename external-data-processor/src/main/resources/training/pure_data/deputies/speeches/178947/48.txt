@@ -1,1 +1,3 @@
-Cenário econômico mundial e nacional no ano de 2015.  Votos de boas festas de Natal e Ano-Novo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bca5b5d4853d80bf76e1e0b471ece25fcb4b03ec79c4cfa881395b3d1a7c3a9d
+size 97

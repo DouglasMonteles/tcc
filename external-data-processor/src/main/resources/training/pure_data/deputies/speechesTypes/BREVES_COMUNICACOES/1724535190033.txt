@@ -1,1 +1,3 @@
-Necessidade de realização da reforma previdenciária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec6bd42fd36779946c622141dafc90b3ff97abc5add95e6c2ca64c8981a8a1f3
+size 55

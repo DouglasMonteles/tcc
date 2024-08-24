@@ -1,1 +1,3 @@
-Presença, na Casa, de líderes sindicais do Estado de Santa Catarina. Realização da Marcha das Margaridas em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d062492515217a5a3cb1cae09477d947dc636af28bd0e5f9102ff03f332ecf6c
+size 140

@@ -1,1 +1,3 @@
-Realização, pela Fundação Getúlio Vargas, de evento destinado à discussão do impacto da Lei de Responsabilidade Fiscal sobre as contas públicas dos Estados brasileiros. Apoio ao Presidente Rodrigo Maia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e3560a40a39b3e49f8804ebc9fa899dc972ef7de86c6898a97f80ae07c4927e
+size 210

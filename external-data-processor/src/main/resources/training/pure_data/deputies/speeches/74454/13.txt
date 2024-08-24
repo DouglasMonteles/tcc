@@ -1,1 +1,3 @@
-Liberação, pelo Governo Federal, de recursos para os Estados atingidos por enchentes na Região Nordeste e de recursos do Programa Garantia-Safra para os agricultores atingidos pelo excesso de chuvas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63da432126028ef2d7ae37e6c2b20c19ac4cb9e35194d7a979f64d26259e96b6
+size 202

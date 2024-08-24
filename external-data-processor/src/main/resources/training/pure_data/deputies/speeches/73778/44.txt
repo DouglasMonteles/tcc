@@ -1,1 +1,3 @@
-Protesto contra a elevação da taxa básica de juros pelo Comitê de Política Monetária - COPOM do Banco Central. Desinteresse do Governo Federal na regulamentação da Emenda Constitucional n° 29, de 2000, sobre a destinação de recursos à área da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd5b945ddc2774a323777850d00fbec7cf65e4182d8115b818c115d6516259f7
+size 263

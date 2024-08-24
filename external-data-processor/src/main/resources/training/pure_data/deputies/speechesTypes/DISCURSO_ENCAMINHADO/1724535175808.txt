@@ -1,1 +1,3 @@
-Repúdio a ato do Pró-Reitor Substituto José Fernando Schlosser, da Universidade Federal Santa Maria, Estado do Rio Grande do Sul, de discriminação e intolerância a professores e alunos israelenses vinculados à instituição. Necessidade de apuração pela Casa de motivação antissemita na medida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77822bf82b5affb14c711275df39c49d52c8da9bf037addf730ce221301ab678
+size 305

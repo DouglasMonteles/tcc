@@ -1,1 +1,3 @@
-Posicionamento do PT favorável à votação da proposta de reformulação do Código Florestal brasileiro. Defesa de conciliação entre a produção agrícola e a preservação ambiental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49dcb1cbbd3ee38a4fa07259b989112b08527780a0abbc5b3e59083868f18461
+size 189

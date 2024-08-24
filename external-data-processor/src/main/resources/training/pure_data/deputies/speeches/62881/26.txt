@@ -1,1 +1,3 @@
-Realização da 9ª Caminhada com Maria, em Fortaleza, Estado do Ceará. Defesa de aprovação do Projeto de Lei nº 1.794, de 2011, sobre a inclusão do evento no Calendário Turístico Nacional. Saudação aos idealizadores da Caminhada com Maria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2942bc1f3971f44b4661a92f18dd3416bb703dfe8575efd0934425d44e8060e7
+size 249

@@ -1,1 +1,3 @@
-Saudações ao Vice-Prefeito de Ribeirão Preto, Daniel Gobbi; ao Prefeito do Município de Taquaral, Paulo Sérgio de Oliveira; aos Vereadores José Aparecido Machado, Erondi Marcos Antônio, Sérgio Alexandre da Silva, Celso Antônio Ferreira, e ao Chefe de Gabinete, Edelcio Moraes. Apelo ao Presidente Arthur Lira de inclusão na pauta do Projeto de Lei nº 4.728, de 2020, acerca dos mecanismos de regularização fiscal e ampliação da possibilidade do estabelecimento de acordos entre a Fazenda Pública e os contribuintes, por meio da reabertura do prazo de adesão ao Programa Especial de Regularização Tributária  - PERT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bba7bafe5ae4700de222a818c3b9408c730351a1533116e44ea76d9764577a5
+size 635

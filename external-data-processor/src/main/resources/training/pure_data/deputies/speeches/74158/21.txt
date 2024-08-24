@@ -1,1 +1,3 @@
-Ingerência do Poder Judiciário em decisões internas do Poder Legislativo. Improcedência da ação direta de inconstitucionalidade da proposta de emenda à Constituição referente à recomposição numéricas das Câmaras Municipais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a04fa857a26e50f70d2f97e19eb57b1064a0a09573eb852d9e3c830d9b1bc046
+size 249

@@ -1,1 +1,3 @@
-Agradecimento ao Plenário pela aprovação do Projeto de Lei nº 1.085, de 2023, do Poder Executivo, sobre o estabelecimento de igualdade salarial e remuneratória entre homens e mulheres no exercício da mesma função; e a alteração da CLT - Consolidação das Leis do Trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a17908e0632628ce425dbe417a7b064ebf0957cac3d4dc6928e288326a5c7b88
+size 283

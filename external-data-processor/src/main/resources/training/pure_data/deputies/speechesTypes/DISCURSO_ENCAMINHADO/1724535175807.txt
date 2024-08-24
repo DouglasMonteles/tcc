@@ -1,1 +1,3 @@
-Discurso do Senador Francisco Dornelles com alerta à PETROBRAS acerca dos prejuízos provocados ao Estado do Rio de Janeiro, em razão da não conclusão de procedimento licitatório promovido pela empresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22a40644c3b4262ec184f59fbbac8020bc5ed24f37a35427ffe6c6bdc2379452
+size 207

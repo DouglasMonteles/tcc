@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista quanto ao não atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária à Medida Provisória nº 1.009, de 2020, sobre a prorrogação, no âmbito do Ministério da Educação, de contratos do Fundo Nacional de Desenvolvimento da Educação - FNDE; do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP; da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES; e da Agência Nacional de Saúde Suplementar - ANS. Pedido ao Ministério da Saúde de envio de tomógrafos ao Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e46fd3b5a3f130c9819c7da833570b88c3824cd23d670d3c980885fa5c46270
+size 668

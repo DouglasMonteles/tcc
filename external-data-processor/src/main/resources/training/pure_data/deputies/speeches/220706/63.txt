@@ -1,1 +1,3 @@
-Homenagem póstuma à Sra. Zizette Balbino de Carvalho Ferreira, filha do ex-Governador do Estado da Bahia, Antônio Balbino de Carvalho Filho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f7660a1a174b8ff5aa7d00b8abc8575103c31e149a8a4a2061b4a817bba7d83
+size 143

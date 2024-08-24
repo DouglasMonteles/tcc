@@ -1,1 +1,3 @@
-Congratulações à Presidência pela aprovação da Proposta de Emenda à Constituição nº 457, de 2005, que trata da aposentadoria compulsória aos 75 anos de Ministros do Supremo Tribunal Federal, dos demais Tribunais Superiores e do Tribunal de Contas da União. Defesa pelo ex-Presidente Luiz Inácio Lula da Silva, em pronunciamento televisivo, de rejeição das Medidas Provisórias nºs 664 e 665, de 2014, em razão da retirada de direitos trabalhistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9b6cf28b270266a881dfae80575410ce00612f89910265c850373e24bb202f7
+size 464

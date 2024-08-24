@@ -1,1 +1,3 @@
-Transcurso do 58º aniversário do Esquadrão de Demonstração Aérea - EDA (Esquadrilha da Fumaça).
+version https://git-lfs.github.com/spec/v1
+oid sha256:be65c0efc5a12de04bf8a6ece61a9de89724a8abb8384f1512325f6d1a319c67
+size 102

@@ -1,1 +1,3 @@
-Transcurso do 60º aniversário de fundação da Santa Casa do Município de Paranavaí, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dabc873dc1ea45ed781d9d77521024a4686e4867eece7cac6479898defb74d2
+size 107

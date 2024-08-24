@@ -1,1 +1,3 @@
-Resposta às críticas lançadas pelo grupo político vinculado ao ex-Senador José Sarney contra o atual Governador do Estado do Maranhão, Flávio Dino, do PCdoB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d13c6e3d8324253d9fb199569a7ab4fb5cfd6f62ed4ace00a07327ce8d810586
+size 164

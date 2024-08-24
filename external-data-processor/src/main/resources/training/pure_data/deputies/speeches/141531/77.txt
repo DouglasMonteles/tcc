@@ -1,1 +1,3 @@
-Desincompatibilização do Sr. Antonio Anastasia do cargo de Governador do Estado de Minas Gerais. Votos de êxito administrativo a seu sucessor, Alberto Pinto Coelho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c0e2e7ec83e48a646af7e6021b1a75ace2267ed37c0ed2c445ee40d323823fc
+size 167

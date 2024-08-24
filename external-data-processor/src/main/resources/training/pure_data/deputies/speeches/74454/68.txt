@@ -1,1 +1,3 @@
-Expressiva geração de novos empregos formais no Estado do Ceará. Empenho do Governador Cid Gomes na garantia do desenvolvimento sustentável do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2fbb7d0c0d428e553ad21789368eea2a0900cbf0a4d8adf605feea893baeb33
+size 154

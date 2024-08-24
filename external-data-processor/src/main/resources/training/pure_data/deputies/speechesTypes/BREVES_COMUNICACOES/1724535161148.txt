@@ -1,1 +1,3 @@
-Felicitação aos trabalhadores brasileiros em razão do transcurso do Dia do Trabalho. Congratulação ao Deputado Hugo Motta pelo desempenho à frente da CPI da PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a60874f9eeb45075bb95a6116be9179d955afbab7d0a8ee6ef1c1e0d4ed9506
+size 173

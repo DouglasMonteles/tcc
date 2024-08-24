@@ -1,1 +1,3 @@
-Desenvolvimento de novo diagnóstico de câncer pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. Retirada, pelo Governo Jair Bolsonaro, de verbas da educação para o pagamento de emendas orçamentárias aos Deputados favoráveis à aprovação da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma da Previdência Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f0c7bd69e99f9254c2ec7cd180cde2a183811866b9ff222c09ab6cfe56e9e31
+size 375

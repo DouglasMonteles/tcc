@@ -1,1 +1,3 @@
-Reunião da Comissão Especial de Combate à Pirataria com o Presidente Michel Temer para debate da urgência da votação do Projeto de Lei nº 333, de 1999, relativo ao tema. Apresentação de projeto de lei sobre alteração do art. 530 do Código de Processo Penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4b3f87ac46ce4a03480644e92cfc1e2eb2271ecbb32e6a56c72bedde62f4f31
+size 269

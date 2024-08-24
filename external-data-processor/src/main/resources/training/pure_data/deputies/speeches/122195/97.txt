@@ -1,1 +1,3 @@
-Decisão do Tribunal de Justiça do Estado da Paraíba, a favor da elevação das Comarcas de Sousa e Guarabira à condição de 3ª Entrância. Celeridade da Assembleia Legislativa na ratificação da decisão do Tribunal de Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9027869fd1d0ff714fe6b7a8f33baf02eb142d4eed82826082c889f15042522
+size 235

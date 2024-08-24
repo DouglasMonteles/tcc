@@ -1,1 +1,3 @@
-Acerto da política do Governo Federal de desoneração da folha de pagamento. Efeitos positivos da medida. Artigo Desoneração da folha de pagamento e câmbio aliviam Custo Brasil, publicado pelo jornal O Estado de S.Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4bd6f88136acdbd97e5e46094076addd62fa53dc3db21c347f08ef21348b4f2
+size 225

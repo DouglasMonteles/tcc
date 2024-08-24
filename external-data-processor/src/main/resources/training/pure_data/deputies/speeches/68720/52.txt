@@ -1,1 +1,3 @@
-Transcurso do 8º aniversário da inauguração do Shopping Prêmio, no Município de Nossa Senhora do Socorro, Estado de Sergipe. Urgente necessidade de liberação, pelo Governo Federal, de recursos para duplicação da BR-101 no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e51848ebab8c82dbf1384bbb8ff1617917b2681abbfb74c5557d41fe1c649d73
+size 239

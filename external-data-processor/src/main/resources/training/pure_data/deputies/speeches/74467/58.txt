@@ -1,1 +1,3 @@
-Razões da candidatura do orador ao cargo de  Ministro do Tribunal de Contas da União - TCU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da1fd0440aa8539a4ff00ac89b02d68c39ceb4a51b7eb5cecbfa7f8fac8058ef
+size 93

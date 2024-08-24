@@ -1,1 +1,3 @@
-Trajetória política da oradora. Principais plataformas defendidas no exercício do seu mandato parlamentar. Pobreza e mortes como marcas do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:441279abbe2b61b1df11148b20daeaeb365b33feaf36032d09d3844eb16ff64c
+size 165

@@ -1,1 +1,3 @@
-Transcurso do 202º aniversário de nascimento do italiano Giuseppe Garibaldi, o herói de 2 mundos. Desempenho do Instituto Anita Garibaldi, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c33850c2d83ce8abb74fe9547d977a08a30a04db566a5b52d129bd8534eabeb2
+size 173

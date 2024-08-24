@@ -1,1 +1,3 @@
-Discussão do Veto Parcial nº 48, de 2020, aposto ao Projeto de Lei nº 1.581, de 2020, a respeito do disciplinamento das regras para o pagamento com desconto de precatórios federais, e do acordo de litígio terminativo contra a Fazenda Pública durante a epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1fd41ad1a5ced68a1a8c3322c7084cb3c4d353f4a2e706c018cddc482e5a5d8
+size 283

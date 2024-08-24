@@ -1,1 +1,3 @@
-Transcurso do 15º aniversário de instalação do Assentamento Oziel Alves Pereira, no Município de Governador Valadares, Estado de Minas Gerais. Ações do Governo Luiz Inácio Lula da Silva em prol da reforma agrária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:329b04ae0970130baef1a91222284d666a45f25985875720bcf705db0db91e72
+size 222

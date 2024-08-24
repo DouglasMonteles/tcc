@@ -1,1 +1,3 @@
-Contingenciamento pelo Governo Federal de recursos de obras de infraestrutura rodoviária do Programa de Aceleração do Crescimento - PAC no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf68d6d8e8ff5107a50615817abbbc7acb66901bca8f22d636160e9aa5fd39a6
+size 160

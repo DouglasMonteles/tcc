@@ -1,1 +1,3 @@
-Consequências da polarização política no Brasil. Indignação em face de agressões sofridas por Parlamentares em decorrência de posição política no processo de abertura de impeachment da Presidente da República Dilma Rousseff. Declaração de respeito ao Vice-Presidente da República e Presidente do PMDB, Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d78285e6204dd412fd44233017ea3307904c8bf19de219d793e4cd30f35965d3
+size 330

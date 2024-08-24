@@ -1,1 +1,3 @@
-Agradecimento ao Ministro dos Transportes e à Presidenta Dilma Rousseff pela anunciada abertura do processo licitatório das obras de reformulação do Anel Rodoviário de Belo Horizonte, de duplicação da BR-381 e de restauração da BR-040, no Estado de Minas Gerais. Solidariedade aos professores em greve por reajuste salarial, no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7a17b7bde946c0f93a0ad721cbaf63c1b7bbcc31401e507e4d3751553da3e28
+size 344

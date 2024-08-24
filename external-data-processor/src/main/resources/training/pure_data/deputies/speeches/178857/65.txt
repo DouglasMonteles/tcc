@@ -1,1 +1,3 @@
-Realização de ato em defesa da democracia e do Sistema Único de Saúde - SUS em dependência da Câmara dos Deputados. Preocupação de segmentos da sociedade com ameaças de cortes de investimentos no SUS pelo Ministro da Saúde. Indignação com o abandono por Deputados da defesa da aprovação da Proposta de Emenda à Constituição nº 1, de 2015, sobre o valor mínimo de aplicação anual pela União em ações e serviços públicos de saúde. Apelo a partidos da base aliada governista de votação da matéria. Anúncio de realização de atos públicos em Salvador e no Município de Vitória da Conquista, Estado da Bahia, em defesa da democracia e do SUS e contra o Presidente da República interino, Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c2c555d766499a7e54d8846089387b2295a4833888fb085b3fa976e02ba0b20
+size 731

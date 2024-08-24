@@ -1,1 +1,3 @@
-Realização de eventos em defesa da aprovação do Projeto de Lei nº 2.295, de 2000, sobre a fixação da jornada de trabalho dos profissionais da enfermagem em 30 horas semanais. Defesa de aprovação do Projeto de Lei nº 2.573, de 2011, referente à criação do piso salarial nacional da categoria. Votos de feliz Páscoa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6ff65de555d5730a810f39af31d063b287311ed72c721cde68cd4be2b492558
+size 328

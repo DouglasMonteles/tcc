@@ -1,1 +1,3 @@
-Conveniência de debate equilibrado sobre a região amazônica com busca do desenvolvimento econômico e da sustentação da floresta e de sua biodiversidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ac3fd9881c23315f8e0ae793b49c77f80cee0585b01535db25dc04445715756
+size 158

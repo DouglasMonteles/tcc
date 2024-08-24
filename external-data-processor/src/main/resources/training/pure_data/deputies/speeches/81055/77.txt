@@ -1,1 +1,3 @@
-Participação do orador em audiência pública realizada pelo Banco do Nordeste do Brasil. Manifestação de boas-vindas aos Prefeitos Municipais presentes no Distrito Federal, especialmente aos do Estado do Maranhão. Apoio à pauta de reivindicações dos gestores municipais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35fcacace39e5542a72a99e336e4f5afc0853659c60e0b23654b460418d24b14
+size 279

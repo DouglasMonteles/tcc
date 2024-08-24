@@ -1,1 +1,3 @@
-Legitimidade do pedido de impeachment da Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a00cff2a220d2a2784a312800275ac100e284fa88a397641ad126d1efe7dbf9
+size 66

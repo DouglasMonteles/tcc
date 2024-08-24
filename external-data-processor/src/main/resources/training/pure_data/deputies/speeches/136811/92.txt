@@ -1,1 +1,3 @@
-Eleição do Rio de Janeiro para sede dos Jogos Olímpicos de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c6326587b6a4ea404a444061565943235519f990bbcb25d5a6ac6044cfe5e36
+size 67

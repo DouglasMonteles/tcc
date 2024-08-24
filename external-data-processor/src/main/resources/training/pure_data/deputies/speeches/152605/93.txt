@@ -1,1 +1,3 @@
-Correspondência de autoria da Sra. Sandra Maria dos Santos Pinheiro a respeito da atuação heroica de bombeiros militares, por ocasião de desastre natural ocorrido na região serrana do Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a453038a89856a3d5ba1f747bb66435deda57d26176edbd42eed20d0d2b15ace
+size 214

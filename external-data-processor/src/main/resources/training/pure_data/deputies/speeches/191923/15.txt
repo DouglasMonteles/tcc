@@ -1,1 +1,3 @@
-Saudação ao novo Deputado Joseildo Ramos. Preocupação com os rumos da política externa brasileira e suas consequências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cb62b0ef5d5bde316a61efcc1b8247b01fe43e62b80189d3cc44196ec879b65
+size 125

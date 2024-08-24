@@ -1,1 +1,3 @@
-Solicitação ao Deputado José Guimarães de observância de acordo para votação de projeto de decreto legislativo relativo à Medida Provisória nº 685, de 2015. Defesa do impeachment da Presidente da República, Dilma Rousseff. Crítica à nomeação do ex-Presidente da República Luiz Inácio Lula da Silva para o cargo de Ministro de Estado. Indignação com a tentativa de compra do silêncio do Senador Delcídio do Amaral, em delação premiada, pelo Ministro da Educação, Aloizio Mercadante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d01fb8ecc1d21cae56ca3ef3c393562e372331060785f8f0decb451cf6763511
+size 506

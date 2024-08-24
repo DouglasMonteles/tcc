@@ -1,1 +1,3 @@
-Presença, na Câmara dos Deputados, de comitiva de povoados do Estado do Maranhão, para acompanhamento de reunião da Comissão Especial destinada ao exame da proposta de criação de Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d447504448428552164b0c5437f18a273de9077af5476404ae8833baa9ceb2eb
+size 198

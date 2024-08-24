@@ -1,1 +1,3 @@
-Assinatura do Segundo Pacto Republicano de Estado pelos Presidentes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f17395329a7a79567cefde53634eb1a3f3f1378a60c02623225ecc913daecd8d
+size 94

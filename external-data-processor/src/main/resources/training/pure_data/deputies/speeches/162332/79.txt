@@ -1,1 +1,3 @@
-Defesa de ampliação de medidas governamentais de apoio à exportação de produtos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76b204325fe6ce03188878f37b8128dbb89f3eb71674831f4c834d76d391f038
+size 97

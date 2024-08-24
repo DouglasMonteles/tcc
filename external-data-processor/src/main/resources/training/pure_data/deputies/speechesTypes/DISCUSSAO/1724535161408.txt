@@ -1,1 +1,3 @@
-Aplausos ao Presidente Jair Bolsonaro pelo discurso proferido na abertura da Assembleia Geral da Organização nas Nações Unidas - ONU, em Nova Iorque, Estados Unidos da América.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f594f6aa43bf7625fd689bac8aae955470ba7851978482640d0a87d054a91ae
+size 181

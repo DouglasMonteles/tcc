@@ -1,1 +1,3 @@
-Solicitação à Presidência de esclarecimento sobre as razões de retirada de pauta da proposta de emenda à Constituição acerca da concessão de autonomia funcional e administrativa às Defensorias Públicas da União e do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99fdec74130d0b3da7b3aa65f5569c52eda1bd7029dccffc70bc3b856241b005
+size 245

@@ -1,1 +1,3 @@
-Solidariedade aos professores do Estado de Minas Gerais, diante da resistência do Governo Estadual quanto ao pagamento do piso salarial nacional dos profissionais do magistério público da educação básica, determinado pelo Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46ab99228ef7ddebb9c6c6ef8de5bd019ce409c5aa03ce3552958c26d5ed1f37
+size 253

@@ -1,1 +1,3 @@
-Fusão do Banco Itaú  S/A com o UNIBANCO - União de Bancos Brasileiros  S/A.  Transcurso do Dia do Radialista. Transcurso do 20° aniversário de promulgação da Constituição Federal. Relevância dos direitos dos trabalhadores brasileiros assegurados na Carta Magna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bca9ae616925360b0937920e62d31945f8ea0ed3145bee234e52a18f382c63cf
+size 271

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão Mista, quanto ao não atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, à Medida Provisória nº 1.042, de 2021, sobre a simplificação da gestão de cargos em comissão e de funções de confiança no âmbito do Poder Executivo Federal. Importância da construção de acordos para a aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d21dd3dbf27c6e2f09492d0bca4cb0b79078f376aaee0c3e71cc4960e4057db1
+size 444

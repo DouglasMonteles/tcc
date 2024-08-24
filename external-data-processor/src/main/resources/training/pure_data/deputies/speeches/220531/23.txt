@@ -1,1 +1,3 @@
-Transcurso do Dia do Gari. Saudações aos garis do Distrito Federal e do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fca26b96359a69d8b84309eb787b9079a8cd44132c492a2b38dfd25247dd16f5
+size 81

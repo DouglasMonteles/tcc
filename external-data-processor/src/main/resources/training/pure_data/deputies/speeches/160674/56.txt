@@ -1,1 +1,3 @@
-Parecer, pela Comissão Mista, à Medida Provisória 561 de 2012 (Altera as Leis 12.409 de 2011, 11.578 de 2007, 11.977 de 2009 e 10.188 de 2001)
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb98cba6470cadf3788a99fc8915a55bd2041be694f5f29d9245be3daf00f2bf
+size 145

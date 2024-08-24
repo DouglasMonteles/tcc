@@ -1,1 +1,3 @@
-Presença de autoridades do setor educacional na Comissão Especial destinada à elaboração de proposta de reformulação do ensino médio. Congratulações ao Ministério da Educação pelo sucesso do Exame Nacional do Ensino Médio - ENEM de 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:388d13923f3ac1ef18f18de8b89b654724c0d57710c7f0e9e12cad64c150e0be
+size 251

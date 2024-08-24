@@ -1,1 +1,3 @@
-Congratulação aos Deputados pela cassação do mandato do ex-Deputado Eduardo Cunha. Agradecimento ao Ministro da Saúde, Ricardo Barros, pelas realizações na área de saúde do País. Satisfação pela assinatura de credenciamentos de entidades filantrópicas em Municípios do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd357a6a4a382cf628a9a0e1de8b663ac5783de505dfb900b98de7f9e1a7bc87
+size 304

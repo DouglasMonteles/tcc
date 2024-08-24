@@ -1,1 +1,3 @@
-Apelo ao Ministro das Relações Exteriores, Ernesto Araújo, de ampliação do auxílio humanitário a Moçambique.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3937a816de12b93eb52a42943a0e50f3c54137f9385bb4520320663c4994101
+size 116

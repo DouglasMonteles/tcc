@@ -1,1 +1,3 @@
-Beatificação da Irmã Dulce. Relato da visita do orador aos Municípios de Mortugaba e Encruzilhada, no Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46fc92b19abe621453868ccd8e874721009df60c70aa308015fb2332ed43caa0
+size 122

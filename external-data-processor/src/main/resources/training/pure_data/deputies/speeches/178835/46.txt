@@ -1,1 +1,3 @@
-Natureza democrática dos processos políticos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3615d2f4260e08634a9d683983f2636e5d2a1aff9ebe477383748be7e633503d
+size 59

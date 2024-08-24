@@ -1,1 +1,3 @@
-Acerto das medidas adotadas pelo Presidente dos Estados Unidos da América, Barack Obama, para enfrentamento da crise no sistema financeiro mundial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6f11fc6f1d492c07cb6a280f5d97635c0e7836d193fc0c0dffb024f720c0c3b
+size 148

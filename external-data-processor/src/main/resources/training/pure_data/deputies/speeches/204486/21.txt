@@ -1,1 +1,3 @@
-Possibilidade de criação de novo Regime de Recuperação Fiscal para os Estados brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f45d6abf96b1ce11453c4142c219737ae4697618ffee48515d6f50b3977cb3d7
+size 94

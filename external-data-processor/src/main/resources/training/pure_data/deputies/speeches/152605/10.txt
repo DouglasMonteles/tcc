@@ -1,1 +1,3 @@
-Considerações sobre ofensiva de forças israelenses no território palestino na Faixa de Gaza. Condicionamento da aprovação do Acordo de Livre Comércio entre o Mercado Comum do Sul — MERCOSUL e Israel à inclusão de cláusula sobre a observância, pelo governo israelense, de resoluções da Organização das Nações Unidas. Críticas à participação de fornecedores de material bélico para Israel na feira Latin America Aerospace and Defence — LAAD 2009.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1bfb29efa6bf3259bc57291e0d1649215ee3c538cd4098745cf393e81b10690
+size 470

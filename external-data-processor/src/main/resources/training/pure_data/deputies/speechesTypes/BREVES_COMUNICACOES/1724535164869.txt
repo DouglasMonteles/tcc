@@ -1,1 +1,3 @@
-Transcurso do Dia da Doceira. Realização da 27ª Feira Nacional do Doce - FENADOCE, no Município de Pelotas, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c44ab1bad8738abd151988cb28b24a2b7eb347c9cf10dea9f61c181c5be699d
+size 140

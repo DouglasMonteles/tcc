@@ -1,1 +1,3 @@
-Presença na Casa do Adjunto Adido da Força Nacional de Defesa e do representante de assuntos de agricultura da Embaixada da África do Sul, respectivamente, Major Lindile Isaac Hani e Andile Maxwell Hawes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a202f22d4f6ae203d8fc39cb2f287f8ce9c02b8ca02f5212e2eb4e0c9c51b87
+size 207

@@ -1,1 +1,3 @@
-Atribuição ao desvio/equívoco na aplicação de recursos como a principal causa do agravamento das desigualdades sociais, e do aumento do contingente humano situado abaixo da linha de pobreza, no Estado do Amazonas. Responsabilidade do Governador Wilson Lima pela desestruturação das áreas de educação e saúde. Aplicação de recursos oriundos do faturamento da Zona Franca de Manaus, em projetos destinados à geração de emprego e renda e à melhoria da qualidade de vida do povo amazonense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10ba88e01bafa44ce92af975055909acf8bd7416b584ad6ac4950ec4c2ed5086
+size 503

@@ -1,1 +1,3 @@
-Congratulações à Presidência e aos Deputados pela aprovação da reforma da Previdência Social em primeiro turno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:080acb3c15715d9d56fef5b33dac5dbf7b47c21187162a7e7863ae16228af150
+size 118

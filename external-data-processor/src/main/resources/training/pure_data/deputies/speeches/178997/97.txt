@@ -1,1 +1,3 @@
-Necessidade de implementação das três modalidades do Novo Fundo de Financiamento Estudantil - FIES para liberação de crédito a estudantes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75ecd4e0315d2feec12c679764b58316a2a78651e7807e93a8bec6b405df2618
+size 144

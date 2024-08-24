@@ -1,1 +1,3 @@
-Leitura de decisões da Presidência sobre o indeferimento liminar de emendas apresentadas às Medidas Provisórias de nºs 472, 475 e 476, de 2009.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e46ad24f4fa9a24fdaf6a4a1ad2ce02ed0982ef5c3dcb077f4b570cbf3e08b2
+size 148

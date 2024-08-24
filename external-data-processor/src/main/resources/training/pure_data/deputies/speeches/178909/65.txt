@@ -1,1 +1,3 @@
-Prejuízo ao rebanho do Estado do Pará pela perda de cabeças de gado em naufrágio de embarcação no Porto de Vila do Conde, Município de Barcarena. Solicitação da presença do Ministério da Agricultura, Pecuária e Abastecimento e da Vigilância Sanitária no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f600a549560a8e92628bc30812bebf4cc48c82ba2a698792aca404e86306acaf
+size 275

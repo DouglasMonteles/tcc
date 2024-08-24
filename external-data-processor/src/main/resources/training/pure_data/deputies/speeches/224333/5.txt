@@ -1,1 +1,3 @@
-Eleição da ex-Presidente Dilma Rousseff para a presidência do Novo Banco de Desenvolvimento - NBD, Banco do BRICS, grupo de países emergentes formado pelo Brasil, Rússia, Índia, China e África do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05adc4741a37064ce54eaaa26c3c5ac21131b4b854708a40ea3df768dabfac44
+size 207

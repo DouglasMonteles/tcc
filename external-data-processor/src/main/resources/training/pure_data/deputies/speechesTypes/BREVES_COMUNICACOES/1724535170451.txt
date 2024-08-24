@@ -1,1 +1,3 @@
-Transcurso do 76º aniversário do Município de Fernandópolis, Estado de São Paulo. Expectativas do eleitor brasileiro sobre a reforma política. Críticas ao chamado distritão. Importância da reflexão dos Parlamentares com vistas ao atendimento dos anseios da sociedade sobre o tema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a22e47dd5a322f7136d0a15b83fa65cb7e0036ba3611b58594b8df893a3d490d
+size 290

@@ -1,1 +1,3 @@
-O Deputado celebrou o aniversário de 188 anos da Revolução Farroupilha no Rio Grande do Sul. Ele compartilhou suas experiências e carinho pelo Estado, destacando a beleza de lugares como Porto Alegre e a hospitalidade do povo gaúcho. Também defendeu o Vice-Presidente de futebol do Clube de Regatas do Flamengo, Marcos Braz, após um incidente de agressão em um shopping. Por fim, ele abordou a situação crítica do Hospital Federal da Lagoa no Rio de Janeiro, destacando a sua intervenção com vista à urgente resolução dos problemas de refrigeração para garantir o conforto dos pacientes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13d9e7dde0c64e7b637bf3c12f2b415f9f65252a95c79ad804f169a90eb124a7
+size 605

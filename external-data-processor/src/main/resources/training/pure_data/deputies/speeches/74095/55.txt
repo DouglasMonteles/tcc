@@ -1,1 +1,3 @@
-Apelo ao Relator do Projeto de Lei 4.361 de 2004 (Modifica a Lei   8.069, de 1990, que  dispõe sobre o Estatuto da Criança e do Adolescente, estabelecendo limites ao funcionamento de casas de jogos de computadores),  objeto de Subemenda Substitutiva Global de Plenário (Declara os Centros de Inclusão Digital - CID (Lan Houses) como entidade multipropósito de especial interesse para fins de inclusão digital  e dá outras providências),  de acolhimento de sugestão relativa ao inciso I do art. 3º como emenda de redação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ae7fce2a677e7d799938ca0afb96aaae3ac6577a66560417befa4c33e13f915
+size 532

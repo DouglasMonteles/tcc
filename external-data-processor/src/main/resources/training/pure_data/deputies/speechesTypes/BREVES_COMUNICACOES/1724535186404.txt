@@ -1,1 +1,3 @@
-Transcurso do 5º aniversário de lançamento da revista Algo Mais, no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa4db1bc4817e68d2c808d0c309e64d775cea31006445d3a4d83168dc2c292b9
+size 92

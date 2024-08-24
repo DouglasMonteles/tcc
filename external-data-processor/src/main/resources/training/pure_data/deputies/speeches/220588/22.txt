@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 2.078, de 2023, sobre a instituição do Programa Nacional de Recuperação de Áreas Degradadas - PRADE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d9a39884301aceabd78b3090922d7fb714a46a8ec65f976681f9f2ae3747990
+size 142

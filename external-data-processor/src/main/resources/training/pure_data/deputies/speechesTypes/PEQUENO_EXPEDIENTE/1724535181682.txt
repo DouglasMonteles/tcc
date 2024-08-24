@@ -1,1 +1,3 @@
-Transcurso do 70º aniversário de criação da Primeira Igreja Presbiteriana Independente de Londrina, Estado do Paraná. Eleição da cidadã italiana Maria Voce para a coordenação do Movimento dos Focolares. Agradecimento ao Instituto do Coração de Brasília, ao Hospital do Coração de São Paulo e ao Instituto do Coração de São Paulo pelos atendimentos médicos prestados ao Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b0be1748c93a7b20e285500a5b3d25414df4bb659b5065a17bd88d25dcc53f4
+size 401

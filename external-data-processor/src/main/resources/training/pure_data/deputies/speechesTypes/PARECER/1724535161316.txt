@@ -1,1 +1,3 @@
-Parecer, pela Comissão de Defesa do Consumidor,  ao Projeto de Lei 3.546 de 2012 (Altera a Lei nº 12.587, de 3 de janeiro de 2012, para garantir acesso público a dados e informações empregados em análise de revisão de tarifa de remuneração de serviço de transporte público coletivo).
+version https://git-lfs.github.com/spec/v1
+oid sha256:45d69dfb5d085cf0e0f8380f2ea466969abff46eefedcda72690840717be6b09
+size 294

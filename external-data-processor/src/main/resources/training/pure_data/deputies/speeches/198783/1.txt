@@ -1,1 +1,3 @@
-Apelo ao Presidente Rodrigo Maia de inclusão na pauta da proposta de revisão da Lei Kandir. Pedido à Procuradora-Geral da República, Raquel Dodge, de adoção das providências cabíveis para continuidade do pagamento, até o final do exercício de  2019, de indenização aos Estados brasileiros por perdas de receitas decorrentes da Lei Kandir.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2951ede44d6151ac2845771cf06b0b598534fa3b2aea9915c5ed4632cbc0304
+size 350

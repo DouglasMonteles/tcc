@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Água. Importância da preservação do meio ambiente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67bc2feaa435698a36c7b001b886b2896371e3ea058728579f42f1ef46b064dd
+size 83

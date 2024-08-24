@@ -1,1 +1,3 @@
-A Deputada manifestou sua alegria com a aprovação, pelo Senado Federal, de projeto de lei, de sua autoria, que certifica as empresas apoiadoras das trabalhadoras lactantes. A oradora enfatizou a importância do aleitamento materno e afirmou que a amamentação colabora para os Objetivos de Desenvolvimento Sustentável - ODS de saúde, bem-estar e erradicação da fome.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a3336659f5e1f9f440434f777c6bd5ca6390145f9d8ac63d77348b705719851
+size 373

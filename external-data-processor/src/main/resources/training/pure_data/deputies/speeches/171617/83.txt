@@ -1,1 +1,3 @@
-Homenagem póstuma ao político Abdias do Nascimento, ícone do movimento negro brasileiro, ao ensejo do transcurso do centenário do seu nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cee4ed67b4fada7d1ca5048d3521a0838609b19c3e10e5cb5b8ab02379bfc3d
+size 149

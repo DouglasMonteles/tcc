@@ -1,1 +1,3 @@
-A Deputada expressou preocupação com a obrigatoriedade da vacinação de crianças contra a COVID-19, principalmente para os mais pobres, alegando que o Governo ameaça cortar o Bolsa Família de famílias não vacinadas. Defendeu a autonomia dos pais na decisão sobre a vacinação de seus filhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cc48aa5aea5c25eaa3c9ef6d6ef8fb1c1165d18f589e2eb741c85c884f0d685
+size 301

@@ -1,1 +1,3 @@
-Apoio do PMDB à reeleição de Gilberto Kassab à Prefeitura Municipal de São Paulo. Esvaziamento do debate político-ideológico no quadro sucessório da Capital paulista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2143e536eae26793c57419e84c40324f353132b291a346d0227be5467aa3c9dc
+size 174

@@ -1,1 +1,3 @@
-Divulgação, pelo Instituto de Pesquisa Econômica Aplicada - IPEA, de estudo a respeito da vinculação entre o desenvolvimento econômico e os investimentos na área social. Publicação pelo jornal A Tarde de artigo a respeito do tema, de autoria do Prefeito Guilherme Menezes, do Município de Vitória da Conquista, Estado da Bahia. Realização pela Presidenta Dilma Rousseff de investimentos em programas sociais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:898b55079450326ffdc9f299aafebeea527b4df65bf1ac6c9f0c2a124bdd5b59
+size 421

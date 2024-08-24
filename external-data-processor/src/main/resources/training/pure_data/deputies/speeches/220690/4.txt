@@ -1,1 +1,3 @@
-Improcedência dos argumentos do Movimento dos Trabalhadores Rurais Sem Terra - MST, para justificativa da invasão de propriedades rurais no Estado da Bahia. Regularização fundiária e redução das invasões de terras no Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f31cb4ab036fbe824fe3bb31e4654ddf84613e22fca6e6043f17e3dae5fb50a0
+size 248

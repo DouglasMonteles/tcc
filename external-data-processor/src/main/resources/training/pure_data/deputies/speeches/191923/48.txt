@@ -1,1 +1,3 @@
-Defesa da aprovação de crédito adicional à peça orçamentária, para a realização do censo demográfico de 2022. Importância dos dados do censo para o repasse de recursos ao Fundo de Participação dos Municípios - FPM, e para outras transferências monetárias da União aos Estados e Municípios brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:693a2fea9157b8e74b90f56b1cf8da1443d82c2ef24059828718e56c90413ebf
+size 319

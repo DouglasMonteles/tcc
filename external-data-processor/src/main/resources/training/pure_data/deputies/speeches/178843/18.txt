@@ -1,1 +1,3 @@
-Compromisso de atuação com vista ao atendimento de reivindicações dos produtores rurais da Região Nordeste do Brasil. Importância da aprovação da Medida Provisória nº 707, de 2015, sobre a suspensão temporária da cobrança de dívidas provenientes de operação de crédito rural. Apresentação de emenda à medida provisória para extensão do alcance do benefício de renegociação de débitos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed4a48ea0b614b1119f7d2ae4c7fe07133866bf4534492ed47bafef6750d2b5c
+size 410

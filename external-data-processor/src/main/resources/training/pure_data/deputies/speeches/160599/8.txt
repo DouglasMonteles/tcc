@@ -1,1 +1,3 @@
-Transcurso do 55º aniversário de criação da empresa ELETROBRAS Furnas. Outorga da Medalha John Cotrim ao pai do orador, Dimas  Fabiano Toledo, pelos 30 anos de serviços prestados à empresa. Diversificação das fontes de geração de energia elétrica pela ELETROBRAS Furnas. Construção de usinas eólicas nas Regiões Norte e Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fd33d3b6c703779eda1b9f894e1aeb3f525065d4f079a3c78cdd55012641642
+size 344

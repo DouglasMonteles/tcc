@@ -1,1 +1,3 @@
-O Deputado denunciou a situação caótica na distribuição de energia no Estado do Rio de Janeiro pelas empresas Enel e Light. Destacou que dezenas de cidades sofreram interrupções no fornecimento de energia nos últimos dias devido ao péssimo serviço prestado por essas empresas. Mencionou que protocolou um pedido de Comissão Parlamentar de Inquérito (CPI) contra a Enel e a Light e está coletando assinaturas para investigação. Enfatizou a importância de resolver esse problema para o desenvolvimento do Estado e para garantir o bem-estar da população.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db9e0649cae0cc721ef8b029181ae9f57c6424997fc3307e4c9ba8b9f67c2792
+size 569

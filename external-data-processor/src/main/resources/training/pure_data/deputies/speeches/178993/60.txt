@@ -1,1 +1,3 @@
-Realização de audiência pública pelas Comissões de Defesa do Consumidor, de Viação e Transportes e de Turismo para debate sobre preço de passagens aéreas no Brasil. Expectativa de realização de novo encontro para esclarecimento quanto à majoração dos preços.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2160e7741ef0ffe7e4cde9b8fa5903852295f02e489d616b4f84224d0c5196ca
+size 273

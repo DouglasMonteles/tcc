@@ -1,1 +1,3 @@
-Presença na Casa dos Vereadores Nicinha e Elker, da Câmara Municipal de Iraí de Minas, Estado de Minas Gerais. Relevância do projeto de revitalização do Rio Bagagem. Elogios à atuação do Presidente da EMATER de Minas Gerais no exercício do cargo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b79ebffc0ddac12916ef5dd5d60b9229c55abd6b6441b735e27fdbb60796f31
+size 256

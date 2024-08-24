@@ -1,1 +1,3 @@
-Presença na Câmara dos Deputados do Vereador Rafael Garrancho, do Município de Jacundá, Estado do Pará, em busca de solução para imbróguio entre o Assentamento Bela Vista e o Instituto Nacional de Colonização e Reforma Agrária - INCRA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48d2312d2e19015d075837fa3e38b1eeca6ebf4360c779257450ecf52177990a
+size 246

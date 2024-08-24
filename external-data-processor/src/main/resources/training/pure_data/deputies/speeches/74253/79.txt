@@ -1,1 +1,3 @@
-Crítica ao ex-Presidente da República Luiz Inácio Lula da Silva pela assunção ao cargo de Ministro-Chefe da Casa Civil da Presidência da República. Expectativa de mobilização popular contra a nomeação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f44becf8bb0939ed2de77843ded4bf9d3cfe938647ee8b71fa6d908daf62b5a7
+size 212

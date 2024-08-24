@@ -1,1 +1,3 @@
-O Deputado manifestou sua indignação em relação à situação política no Senado Federal, mencionando a sabatina do Ministro Flávio Dino para o Supremo Tribunal Federal (STF). Ele criticou a postura do Senador Hamilton Mourão por, segundo o Deputado, ter demonstrado apoio ao Ministro Flávio Dino, apesar de suas declarações polêmicas. O Deputado também expressou descontentamento com o que percebeu como falta de combatividade por parte de alguns Senadores em questionar o Ministro durante a sabatina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bf4ac556abbadd4b4bcc7b45c909ad44e88d96def9f88bd036601cc33e4f18a
+size 514

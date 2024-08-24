@@ -1,1 +1,3 @@
-Defesa de afastamento de Ministro de Estado e de membro do Ministério Público, para investigação de conluio denunciado pela mídia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f3f96cb4b78e6e84626cbc65c84be3ff00306970f5a04502c70b241417320a9
+size 135

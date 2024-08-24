@@ -1,1 +1,3 @@
-Reivindicação ao Secretário Nacional de Segurança Pública, Ricardo Balestreri, de ampliação do número de Corpos de Bombeiros Militares no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7144f4571457d5fd6742304895041fd5ee9e08eda447d29fca4c8df17cfee7aa
+size 152

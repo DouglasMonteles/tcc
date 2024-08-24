@@ -1,1 +1,3 @@
-Incertezas quanto à conclusão da Ferrovia Oeste-Leste no Estado da Bahia. Solidariedade a trabalhadores da obra demitidos pela empresa VALEC - Engenharia, Construções e Ferrovias S.A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8233c7f355437d5bd74106e6069b4557626baa37b9a90f5338890b8094dba931
+size 187

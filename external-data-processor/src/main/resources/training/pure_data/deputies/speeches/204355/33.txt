@@ -1,1 +1,3 @@
-Conquista, pela estudante Emily dos Santos Ferreira, do Município de Guarapari, Estado do Espírito Santo, do 3º lugar no Campeonato Mundial de Luta Olímpica realizado na Hungria. Relevância dos trabalhos de combate à corrupção realizados pelo então Juiz Federal, Sérgio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0654bf12b1dbb7d0455c55ef29e6cefcdeea68371261ec9529305b9588727ce3
+size 285

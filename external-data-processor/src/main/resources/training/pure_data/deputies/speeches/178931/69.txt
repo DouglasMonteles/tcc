@@ -1,1 +1,3 @@
-Defesa de votação, em regime de urgência, da Proposta de Emenda à Constituição nº 454, de 2009, que estabelece diretrizes para a organização da carreira única de Médico de Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e068d74e42235364add5d4336fcc4448658f5863fe79d012791989e21ee3148b
+size 190

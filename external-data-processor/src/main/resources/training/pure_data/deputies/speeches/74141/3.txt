@@ -1,1 +1,3 @@
-Razões da elevação dos preços mundiais dos alimentos em 2011. Necessidade de ampliação dos debates, pela Casa, acerca da aquisição de terras no País por estrangeiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b008b780221026112263f41d3aa9783fd85e58816b1274be484101e241dd5be
+size 175

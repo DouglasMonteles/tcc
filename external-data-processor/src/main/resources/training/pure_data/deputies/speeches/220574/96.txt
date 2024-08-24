@@ -1,1 +1,3 @@
-Alerta ao Governador do Estado da Paraíba, João Azevêdo, sobre a iminência de fechamento de unidades da Companhia de Tecidos Norte de Minas - COTEMINAS, nos Municípios de João Pessoa e Campina Grande, e consequente aumento do desemprego.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5ca2fd1c26b2979d248ffccdf3203925472624798de43a5c77136234fba4a5c
+size 243

@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a destinação de instrumentos utilizados para a prática de infrações ambientais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a582b6598b9f731df5230012ef495bed958e04576edbb408a000365424fda42
+size 123

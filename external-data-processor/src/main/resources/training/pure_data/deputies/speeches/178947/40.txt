@@ -1,1 +1,3 @@
-Apelo à Presidenta Dilma Rousseff de intervenção junto à Receita Federal para a prorrogação do prazo de recolhimento do tributo previsto no eSocial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d104b267af67ef98030b96a83e2415afe4467f7d02e7429f10f5f4e81306e1c
+size 154

@@ -1,1 +1,3 @@
-Relato da visita do orador em missão oficial a Taiwan, República Popular da China. Abordagem acerca do desenvolvimento econômico e do modelo institucional daquele país. Importância da consolidação das relações comerciais entre Taiwan e o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41eaf1959a12b497ea4275e63fdf65a330ba17dddcdda7688972b81a4d8fa810
+size 254

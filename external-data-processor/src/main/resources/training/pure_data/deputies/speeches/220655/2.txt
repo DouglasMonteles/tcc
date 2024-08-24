@@ -1,1 +1,3 @@
-Inobservância, pelo Governo Federal, da instrução normativa na edição de decreto sobre a alocação de recursos para a cultura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6da09e6f59fb8913b2b8771838fc3360d18398a3aff529a57ab910b5af451f92
+size 132

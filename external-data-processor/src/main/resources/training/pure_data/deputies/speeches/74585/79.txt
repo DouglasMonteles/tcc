@@ -1,1 +1,3 @@
-Realização de Encontro Regional do Partido da República no Município de Uberaba, Estado de Minas Gerais. Crescimento do PR no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58308a26853d5e5967fcc4c9853ed885c04a3a8bd336d58f3f392b6a935c48d7
+size 137

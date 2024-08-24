@@ -1,1 +1,3 @@
-Contestação a discurso de Deputado sobre o posicionamento de partido político a respeito da Constituição Federal de 1988.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7702b2889befe50cce88128aa29a8781fdd5ff14b44fbd21bc1d6e805d5f335f
+size 126

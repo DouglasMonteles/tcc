@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a regulamentação do horário de realização de jogos de futebol no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f99777f55536fc1fe8c302b0b4d2061735550b54fe60edffffd6e5c44beb59e
+size 115

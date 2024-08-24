@@ -1,1 +1,3 @@
-Defesa da tese de ilegitimidade do processo de impeachment da Presidente da República afastada Dilma Rousseff em face de inexistência de crime de responsabilidade. Avanço nas políticas públicas de inclusão social nos Governos do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63f06c8c7f93e1a11b225908a3e52b11c976490f92fdaac6707fe05ecd602b53
+size 238

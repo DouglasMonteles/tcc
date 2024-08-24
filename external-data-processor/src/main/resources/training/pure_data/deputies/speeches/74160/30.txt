@@ -1,1 +1,3 @@
-Participação do orador em audiência pública na Comissão do Meio Ambiente e Desenvolvimento Sustentável, da Assembleia Legislativa do Estado de Minas Gerais, destinada ao debate da instalação, na região norte mineira, do complexo minerário denominado Bloco B, da empresa Sul América de Metais S/A. Impactos socioambientais decorrentes do megaempreendimento. Importância da conciliação entre o desenvolvimento econômico e a preservação de recursos naturais. Dados da Comissão Pastoral da Terra sobre os conflitos pela água na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d011e7dd4e2315c76c9cce7ec0a3b74a776981255bc07540f125f772f85e8fa1
+size 551

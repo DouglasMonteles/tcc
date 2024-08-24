@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque supressivo do art. 6º da Proposta de Emenda à Constituição nº 32, de 2022, sobre a alteração do Ato das Disposições Constitucionais Transitórias, com vista à implementação do Programa Bolsa Família e à definição das regras de transição da Presidência da República aplicáveis à Lei Orçamentária de 2023. (Requerimento de destaque apresentado à PEC nº 24, de 2019).
+version https://git-lfs.github.com/spec/v1
+oid sha256:601d4eadc527e907c8e620880cda92bc9ec4e9fc18cde633ce6974cb51a36b57
+size 455

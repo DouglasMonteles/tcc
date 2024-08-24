@@ -1,1 +1,3 @@
-Participação do orador em reunião da Frente Parlamentar da Agropecuária. Lançamento de nova semente de soja pela empresa Monsanto e cooperativismo, entre os assuntos de destaque na reunião.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0c924efa656a1d559c7eb8b6af40d194fd2c43ec4151a73be45ea97c54a61ba
+size 195

@@ -1,1 +1,3 @@
-O Deputado enalteceu a política econômica do Governo Lula, destacando a redução do desemprego e a previsão de crescimento da economia para o próximo ano. Ademais, elogiou a aprovação da Medida Provisória nº 1.172, de 2023, que trata da política de valorização permanente do salário mínimo. Por fim, celebrou a melhora da qualidade de vida da população, a redução dos preços dos alimentos, os investimentos na área social como conquistas do Governo Lula.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f67ba4307bb0d5ee864e21bd8cbbffffb7dc789bdda31c9241799fd3194f97f9
+size 474

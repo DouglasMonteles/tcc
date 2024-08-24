@@ -1,1 +1,3 @@
-O Deputado abordou o falecimento de Cleriston da Cunha, o Clezão, vítima de um sistema que utiliza a defesa da democracia como pretexto para ações ditatoriais. Ressaltou a importância do respeito aos direitos individuais e ao devido processo legal, criticando a atuação do Estado na repressão a manifestantes. Ele denunciou casos de detenções arbitrárias, morte de inocentes, medidas de confisco de bens e desarmamento, apontando para um regime à margem da ditadura. Além disso, destacou a necessidade de ação do Senado Federal para o restabelecimento da ordem democrática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fe14901e51b2d388aa005d230c5f59032576eebc2f8aac386cabe2f9a89a4fc
+size 589

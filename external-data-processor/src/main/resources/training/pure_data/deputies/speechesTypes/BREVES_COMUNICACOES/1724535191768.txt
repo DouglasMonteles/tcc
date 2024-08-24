@@ -1,1 +1,3 @@
-Regozijo com a redução do pedágio na Ponte Rio-Niterói. Necessidade de revisão do preço dos pedágios da Linha Amarela e da rodovia Rio-Magé. Homenagem à comunidade evangélica pela realização da Marcha para Jesus, no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14a2fb0625c80ec88db03440eb55d489068d15123ad8c79fbb5f75cbb78e47c3
+size 269

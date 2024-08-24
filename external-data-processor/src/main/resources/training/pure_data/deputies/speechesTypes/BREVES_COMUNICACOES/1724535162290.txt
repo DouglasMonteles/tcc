@@ -1,1 +1,3 @@
-Natureza tendenciosa da pesquisa promovida pelo Senado Federal sobre a desmilitarização das polícias no Brasil. Relevância da Polícia Militar para a democracia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebd825a50320592b346989dfe8ae904f7c14cbf256dd96022b4a87d866b312a4
+size 176

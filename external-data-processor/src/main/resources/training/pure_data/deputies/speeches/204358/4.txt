@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido ao Projeto de Lei nº 312, de 2015, sobre a Política Nacional de Pagamento por Serviços Ambientais, o Fundo Federal de Pagamento por Serviços Ambientais e o Cadastro Nacional de Pagamento por Serviços Ambientais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:375532b46da67aea7259609a2cac989507c0b738472f01154fe6f45417d062af
+size 279

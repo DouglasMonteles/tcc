@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de inversão da pauta para apreciação em primeiro lugar do Projeto de Lei nº 1.776, de 2015, sobre a inclusão da pedofilia no rol de crimes hediondos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60357edcb1c451682e08b8732208d22dbf94dc00db4ed0a6b15bf9c23e29f512
+size 207

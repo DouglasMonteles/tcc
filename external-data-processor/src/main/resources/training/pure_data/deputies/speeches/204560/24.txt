@@ -1,1 +1,3 @@
-O Deputado solicitou que a Presidência determinasse ao Plenário a obediência de 1 minuto de silêncio em homenagem póstuma ao ex-Deputado Eduardo Barbosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91a6ab47814e189d679534b45546613abd15ee4fff8012c9a86b2992e71293d9
+size 158

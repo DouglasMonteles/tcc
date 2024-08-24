@@ -1,1 +1,3 @@
-A Deputada elogiou a Reitora da Universidade Federal de São Paulo e abordou a implantação da Universidade Federal em Embu das Artes. Pediu maior apoio financeiro ao Governo Federal para a concretização do projeto educacional na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83892956cc15ae9f8308707a8748f7048164c352a25830e7eb7e1d209c0326f2
+size 241

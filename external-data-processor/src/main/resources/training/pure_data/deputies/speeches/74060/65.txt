@@ -1,1 +1,3 @@
-Transcurso do 60° aniversário de promulgação da Declaração Universal dos Direitos Humanos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9250db99c0086f75d8e3fc59145ebdca7dd633bf147d24c6a56d267102bc3fc
+size 96

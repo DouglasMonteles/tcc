@@ -1,1 +1,3 @@
-Reconhecimento pelo Estado do Paraná dos resultados positivos da atuação do Ministro dos Transportes, Antônio Carlos Rodrigues. Anúncio de participação do orador em reunião com representantes dos transportes rodoviários, em Curitiba, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:481bef01751a8aacee27c584dfdbf6675d475607fda526ab0789d0a5d285e5ea
+size 261

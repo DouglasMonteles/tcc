@@ -1,1 +1,3 @@
-Apoio à pauta de reivindicações dos servidores da Fundação Centro de Atendimento Socioeducativo ao Adolescente - Fundação Casa, mobilizados em frente à Assembleia Legislativa do Estado de São Paulo. Não abertura de negociações com os servidores pelo Governador Tarcísio Gomes de Freitas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:007bb42392340264012631b9fb019893a317b3f22e9efc720425eaea67378312
+size 300

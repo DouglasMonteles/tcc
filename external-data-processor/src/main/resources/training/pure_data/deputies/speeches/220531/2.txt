@@ -1,1 +1,3 @@
-Papel exercido pela tecnologia na vida das pessoas. Vantagens advindas da utilização da eletromobilidade, da energia solar e da Internet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f39039154c9f121cae5e81d62ecf16e8d3d835fc91629084b04fdf4ff9356b1e
+size 139

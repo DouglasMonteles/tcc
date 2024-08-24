@@ -1,1 +1,3 @@
-Contrariedade à proposta governamental de reajuste do salário mínimo. Defesa de elevação do salário mínimo para 600 reais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f2fc9802f590a836730d4bcf9504c803af8b25e27dd716c99b3741094ed6f61
+size 129

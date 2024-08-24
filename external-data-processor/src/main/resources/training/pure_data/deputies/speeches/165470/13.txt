@@ -1,1 +1,3 @@
-O Deputado iniciou o discurso com a citação de uma passagem bíblica do livro de Salmos, manifestando confiança em Deus. Registrou, em seguida, a presença do amigo Wagner Mendonça, da cidade de Itabaiana, Estado de Sergipe. Como tema principal, o orador homenageou a memória do seu pai, ex-Deputado Pedro Valadares, que completaria 58 anos de idade no dia 4 de setembro de 2023. Recordou que ele faleceu em acidente aéreo junto com o ex-Governador de Pernambuco, Eduardo Campos, no decorrer da campanha presidencial de 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4a17c27b208a81e9fbe1f9988e78c5acdd6e0b06cb33c9882a3371ff252dfff
+size 531

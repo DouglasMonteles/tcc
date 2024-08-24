@@ -1,1 +1,3 @@
-Transcurso do Dia do Nordestino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e763219c7c69d6e15734ba058c3f73445d214dc84c503949097d8e1a7dc3977
+size 32

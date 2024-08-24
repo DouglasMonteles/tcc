@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 1, apresentada à Medida Provisória nº 1.031, de 2021, acerca da privatização das Centrais Elétricas Brasileiras S/A - ELETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f111ec5b3efd7584ce63e9187bbd7b61f75b613aa36a94a1a5dd43409eef57d
+size 245

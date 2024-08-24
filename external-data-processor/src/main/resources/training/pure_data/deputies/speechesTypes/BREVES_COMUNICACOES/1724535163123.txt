@@ -1,1 +1,3 @@
-O Deputado registrou a presença na Casa das magistradas do Estado de Mato Grosso Lilian Bianchini e Sabrina. O orador destacou o trabalho da segunda magistrada no auxílio à recuperação de prisioneiros dependentes químicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55ebd44291acbd9e32a5946f18618c781e1f82bd4412535d3d0a769f8f21ec1f
+size 228

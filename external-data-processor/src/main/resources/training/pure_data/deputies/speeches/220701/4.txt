@@ -1,1 +1,3 @@
-Inconformismo com o descumprimento, pela maioria das Prefeituras Municipais do Estado do Paraná, do dever legal de promoção de ações destinadas ao bem-estar dos animais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a011a31c64d7957b97797869bbd7ce3e7dd4b51284fed2dbc5757f697092df8
+size 174

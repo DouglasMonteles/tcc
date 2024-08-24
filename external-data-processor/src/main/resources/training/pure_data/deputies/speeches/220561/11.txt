@@ -1,1 +1,3 @@
-A Deputada celebrou o programa Opera Sergipe, destacando sua eficiência na realização de milhares de cirurgias eletivas, enaltecendo os hospitais participantes e destinando emendas para sua continuidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de40236cebe9aa90f4e36f0fe622554e12dfc2cabdefc333774b92b124cc6189
+size 206

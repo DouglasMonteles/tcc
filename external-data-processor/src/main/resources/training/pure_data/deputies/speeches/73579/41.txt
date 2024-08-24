@@ -1,1 +1,3 @@
-Posicionamento do orador com relação à Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ce94cbc23a211a2752a774dc265cc60358557c3848d1fda11f78d2ec46e7ad2
+size 176

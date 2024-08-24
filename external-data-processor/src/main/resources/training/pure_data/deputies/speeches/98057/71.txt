@@ -1,1 +1,3 @@
-Apelo à Liderança do Governo na Casa de votação do Projeto de Lei nº 550, de 2019, a respeito do controle e segurança de barragens e do agravamento de penas para os crimes ambientais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3819bccf4a7b35fedc981a6f9e8471b941e5a5597949727c81127789919cbe40
+size 189

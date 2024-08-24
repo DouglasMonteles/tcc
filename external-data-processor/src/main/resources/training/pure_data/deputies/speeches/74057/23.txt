@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar em Defesa da Assistência Farmacêutica. Importância da atividade profissional dos farmacêuticos. Apoio ao projeto de lei de autoria do Deputado Ivan Valente sobre requalificação da Farmácia brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab99bf4cf648000fdb95ebc52ce5b465c39edcfc9b47ecfcdfd63ce8cda47fc5
+size 241

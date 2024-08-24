@@ -1,1 +1,3 @@
-Responsabilidade do ex-Presidente Luiz Inácio da Silva pela sua própria prisão. Avaliação dos 100 primeiros dias da gestão do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7d499a4b1544dcf4ba35f30a2bcd68cad7bf6f24d86a8006d9124d7f7b576b2
+size 158

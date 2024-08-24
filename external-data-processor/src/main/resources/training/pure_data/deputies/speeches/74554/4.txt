@@ -1,1 +1,3 @@
-Falecimento do Vice-Prefeito Valdívio Oliveira Aguiar, do Município de Tanhaçu, Estado da Bahia. Transcurso do 70º aniversário de emancipação político-administrativa do Município de Correntina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dde8e5b8859ae9e98429caf228e36ca2e769a4fa595c13cde58de08e4f70ded
+size 202

@@ -1,1 +1,3 @@
-Seminário Nordeste: sem ele não há solução para o Brasil, sobre a importância econômica da Região para o País. Audiência entre representantes da Caixa Econômica Federal, do Ministério das Cidades e dos movimentos sociais para debate do acesso à moradia e apresentação de reivindicações nesse sentido. Transcurso do 8º aniversário de fundação do Movimento Organizado dos Trabalhadores Urbanos - MOTU. Participação do orador em reunião no povoado de Lagoa Redonda, Município de Porto da Folha, Estado de Sergipe, para debate sobre as demandas da localidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f017bf5687f9452b2ebe69bed2d6457a116848d95a0e86d6d72f0148814bf7b6
+size 580

@@ -1,1 +1,3 @@
-Congratulações à Deputada Ana Arraes, nova Ministra do Tribunal de Contas da União - TCU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72bfd4fe3191e738921701a1d12a6bbfe82fa408ae867b118c9a047d5ebee7dd
+size 93

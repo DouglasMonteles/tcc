@@ -1,1 +1,3 @@
-Elaboração, pelo Governo Federal, de plano nacional de acolhimento da população em situação de rua.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1895a7459fd7640e5ee9d7e6c2ec75de4e4c213437db2f5d32cb8af96f6a100
+size 105

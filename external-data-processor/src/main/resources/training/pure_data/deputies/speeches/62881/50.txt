@@ -1,1 +1,3 @@
-Falência do sistema de segurança pública no País. Posicionamento de Governadores Estaduais contrário à aprovação da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares. Necessidade da efetiva ação da Casa contra a criminalidade e a violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13743f5dac7a812b8d625dfff658436f388b4b30ae19d38901ced2101405416b
+size 335

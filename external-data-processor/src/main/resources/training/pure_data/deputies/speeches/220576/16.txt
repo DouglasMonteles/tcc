@@ -1,1 +1,3 @@
-Indignação do orador com a decisão do Superior Tribunal de Justiça, de anulação de provas de processo contra o líder da facção criminosa Primeiro Comando da Capital - PCC, André Oliveira Macedo, conhecido como André do Rap, condenado por tráfico internacional de drogas. Determinação da Justiça de devolução de lancha, helicóptero e mansão ao narcotraficante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c8541293f4171aaf2c56c0cd6ad2a15346cd7cea6ac6194ef767454880788fe
+size 378

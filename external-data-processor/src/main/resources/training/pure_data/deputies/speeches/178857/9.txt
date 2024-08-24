@@ -1,1 +1,3 @@
-Defesa de realização, pela Casa, do debate acerca da instituição do imposto sobre grandes fortunas, previsto na Constituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88110f5cf4b473f0179a06eb4ad08076128b3824ce27748887110839db597502
+size 131

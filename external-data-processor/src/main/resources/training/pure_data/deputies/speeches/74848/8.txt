@@ -1,1 +1,3 @@
-Votos de feliz Páscoa aos Deputados e aos servidores da Casa. Irregularidades na gestão do Maestro Roberto Minczuk à frente da Fundação Orquestra Sinfônica Brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ce52e20b308de1a94da9bba457811f4b8fd9805de902088c15fee17831f1a7b
+size 173

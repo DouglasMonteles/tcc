@@ -1,1 +1,3 @@
-Apresentação de proposições sobre estabelecimento de critérios para registro de nascimento, garantia do direito à vida de índios e valorização de professores. Elaboração de proposta de emenda à Constituição acerca da concessão do direito à Ordem dos Advogados do Brasil de apresentação de projetos de lei em sua área de competência. Homenagem à Confederação Nacional dos Transportes - CNT. Relevância da atuação do Serviço Social do Transporte - SEST, e do Serviço Nacional de Aprendizagem do Transporte - SENAT, no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b3b1911706d2ba43cca150edcbbe705b6c18ef6abbf5598ad49a6229d23b1e6
+size 572

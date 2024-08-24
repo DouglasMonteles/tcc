@@ -1,1 +1,3 @@
-Defesa da plataforma política do orador a serviço da Ordem dos Advogados do Brasil - OAB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f47974009bac924ef6416d34fd463c7634f920527022a9153f5e6fc2b07176d7
+size 91

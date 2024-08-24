@@ -1,1 +1,3 @@
-Discussão da Medida Provisória nº 830, de 2018, referente à extinção do Fundo Soberano do Brasil e do Conselho Deliberativo do Fundo Soberano do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:797fe59bfe636bf0a7ce1e268aedf25dfd0bbaf18920d604f0440e5a18a7cdef
+size 158

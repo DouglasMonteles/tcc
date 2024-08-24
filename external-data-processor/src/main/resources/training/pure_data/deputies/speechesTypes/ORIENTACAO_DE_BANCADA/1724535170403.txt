@@ -1,1 +1,3 @@
-Encaminhamento da votação do Veto Total nº 26, de 2015, aposto ao Projeto de Lei nº 7.920, de 2014, sobre a alteração do dispositivo da Lei nº 11.416, de 2006, relativa ao Plano de Carreira dos Servidores do Poder Judiciário da União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:467fffbddd8e5ef7074fdcf5bb293605721692d6d7faac98df92434d1e775544
+size 243

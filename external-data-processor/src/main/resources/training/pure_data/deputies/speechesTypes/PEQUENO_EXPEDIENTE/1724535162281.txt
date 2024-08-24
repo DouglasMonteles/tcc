@@ -1,1 +1,3 @@
-Apoio à decisão do Presidente Jair Bolsonaro de liberação do porte e posse de armas de fogo no País. Realização de investimentos nos organismos policiais para o combate efetivo à criminalidade. Repúdio ao discurso da Esquerda a respeito do armamento dos cidadãos brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:582d8db9b9ab4d6884e7f5fa7a0887034d68648a6b5c6bc817fb0a4a63d47b25
+size 285

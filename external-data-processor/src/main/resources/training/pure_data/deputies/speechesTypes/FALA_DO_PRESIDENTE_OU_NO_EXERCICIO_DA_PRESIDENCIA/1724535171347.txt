@@ -1,1 +1,3 @@
-Presença no plenário do Secretário de Logística e Transportes do Estado de São Paulo, Duarte Nogueira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:720652cbec3fec10b5f02bc6a1ab2f0858931485d3d4811b86f601608bd29e78
+size 107

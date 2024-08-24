@@ -1,1 +1,3 @@
-Referências eleogiosas ao Deputado Jovair Arantes, relator das emendas do Senado Federal ao Projeto de Lei nº 4.246-B, de 2012, que dispõe sobre o exercício da profissão de motorista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56130728b89537599f141db509357b764935e83aa6127921982f58c8fd127ed6
+size 188

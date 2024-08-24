@@ -1,1 +1,3 @@
-O Deputado criticou a proposta do Governo Lula de tornar obrigatória a vacina contra a COVID para crianças de 6 meses a 5 anos. Embora reconheça os benefícios, questionou a necessidade da imposição, defendendo a escolha voluntária dos pais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95e7773291a0cc93688d7db37a24326be235ddfef4ceb07b7e90ba773448ad5d
+size 247

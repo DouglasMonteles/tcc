@@ -1,1 +1,3 @@
-Inadiável nomeação e posse do coronel reformado Alfredo Menezes no cargo de Superintendente da Zona Franca de Manaus, no Estado do Amazonas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e30fd2342352700480d93340503ab33f624b1e449833138675795885b305f19d
+size 143

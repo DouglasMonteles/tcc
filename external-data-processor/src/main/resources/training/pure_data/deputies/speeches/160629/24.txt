@@ -1,1 +1,3 @@
-Apresentação de projeto de lei sobre a obrigatoriedade de contratação de candidatos aprovados em concursos públicos por órgãos e entidades públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:496d1ec6519a27583706bcca366bee3f9f130fb03c96ed9238d68b48e718c466
+size 156

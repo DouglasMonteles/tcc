@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do Projeto de Lei nº 4.287, de 2023, que dispõe sobre a autorregularização incentivada de tributos administrados pela Secretaria Especial da Receita Federal do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfd1eca73e0726b88bb7416468be06a830883b1b875b58e927dd7686b609c4a1
+size 214

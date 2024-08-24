@@ -1,1 +1,3 @@
-Realização da Conferência Nacional da Educação Básica, em Brasília, Distrito Federal. Expectativa de aprovação do piso salarial nacional dos professores do ensino básico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05d9c323ca47451ecfba1d7066853e3c6bd33af30f343aa16ac354b87eef0e62
+size 180

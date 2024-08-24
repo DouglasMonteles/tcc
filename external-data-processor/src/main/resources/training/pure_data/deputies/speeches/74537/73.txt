@@ -1,1 +1,3 @@
-Proposta ao Relator da Medida Provisória 445 de 2008 (Dispõe sobre a dispensa de recolhimento de parte dos dividendos e juros sobre capital próprio pela Caixa Econômica Federal), de acolhimento da Emenda 5 relativa à constituição de fundo de aval.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd9bb2e0a1fbcc0990bda0cf3673b2ec2259b0d70ae32c1d6aecaf0f6c885476
+size 254

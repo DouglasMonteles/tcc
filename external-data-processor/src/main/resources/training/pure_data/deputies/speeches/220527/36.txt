@@ -1,1 +1,3 @@
-Congratulações ao Deputado Gilson Daniel, autor do Projeto de Lei nº 920, de 2023, sobre a destinação, ao Fundo Nacional de Calamidades Públicas, Proteção e Defesa Civil - FUNCAP, de recursos advindos de multas por crimes e infrações ambientais; de compensações ambientais e de acordos judiciais/extrajudiciais de reparação de danos socioambientais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9eb85f4b661aa408c0d275200c4db2c4fae9d2a1d9c04e46e351d8023ec19215
+size 363

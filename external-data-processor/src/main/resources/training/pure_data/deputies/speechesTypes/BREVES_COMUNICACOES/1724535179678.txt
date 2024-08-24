@@ -1,1 +1,3 @@
-Reinauguração do Museu de Ciência e Tecnologia da Universidade Estadual da Bahia - UNEB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36d9be38abd95d9d226fb9edaab8c3644d47fa0b2dd08e823e51876c7ca85f5f
+size 91

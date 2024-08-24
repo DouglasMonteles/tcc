@@ -1,1 +1,3 @@
-Defesa de erradicação do racismo no contexto mundial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4bd9a098fec31ef55c1b5569ba6066096f5fc4f017217c0b72a4feac59cbac3
+size 55

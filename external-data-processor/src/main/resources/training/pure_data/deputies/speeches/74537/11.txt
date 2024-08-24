@@ -1,1 +1,3 @@
-Reconhecimento pela Justiça Eleitoral da legitimidade da eleição da Prefeita Andréia Xavier, do Município de Dias d'Ávila, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a10cbc3740aff88afe385893ebd731e15961170801d43429e48e2d6cf6533e3
+size 145

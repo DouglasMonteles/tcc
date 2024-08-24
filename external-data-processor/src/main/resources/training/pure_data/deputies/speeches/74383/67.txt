@@ -1,1 +1,3 @@
-Esclarecimentos à Deputada Moema Gramacho quanto à disposição regimental sobre o encaminhamento da votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b146e024725a306f89053f93fb5e4c8770e9d48a4ac4b51ae2a99b49fdd5f778
+size 113

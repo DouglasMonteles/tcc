@@ -1,1 +1,3 @@
-Protesto contra a não participação de policiais no processo de elaboração do Programa Nacional de Segurança Pública com Cidadania - PRONASCI II, lançado pelo Governo Federal. Inexistência, no bojo do programa, de ações de amparo aos agentes de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a36519a6412fe0bfa9e20f8607776deb9b07fd33fcd1e4a241cb3d6b805ea6dc
+size 275

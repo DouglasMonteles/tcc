@@ -1,1 +1,3 @@
-Sessão solene destinada ao lançamento da campanha do Tribunal Superior Eleitoral Mulher na Política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af487d80363b14b0cb3ecb5f5cd076966fd86d2b632b7fdee13ab7e696e5a6ad
+size 103

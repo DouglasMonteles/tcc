@@ -1,1 +1,3 @@
-Solicitação ao Governo Federal de adoção de medidas para melhoria das condições de vida dos moradores da Vila de Serra Pelada, próxima ao Município de Curionópolis, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4db6e99ef87cb3e062e1d0128833a0771318f9ceca2443118038ea18d8563a6
+size 190

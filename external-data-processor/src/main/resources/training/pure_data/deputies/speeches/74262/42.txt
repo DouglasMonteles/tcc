@@ -1,1 +1,3 @@
-Posicionamento contrário do PSDB  ao parecer pela admissibilidade da   Medida Provisória 595 de 2012 (Dispõe sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários, e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2314ab7e0cf37832f73cbbbd67f4f31e92fee6294cac45e8e923e136f51876b6
+size 297

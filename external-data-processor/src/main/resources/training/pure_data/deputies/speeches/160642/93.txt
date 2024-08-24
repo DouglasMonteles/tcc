@@ -1,1 +1,3 @@
-Lista de municipalidades pernambucanas contempladas com emendas orçamentárias do orador. Apresentação de emendas em prol da área de saúde. Empenho na adoção do orçamento impositivo. Elogio ao Presidente em exercício dos trabalhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:893ffed6c3722f5925f4905756e8c4a2e2bca64915c7fd926d41166397d87523
+size 240

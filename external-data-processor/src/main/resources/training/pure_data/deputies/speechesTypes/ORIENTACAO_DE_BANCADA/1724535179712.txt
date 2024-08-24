@@ -1,1 +1,3 @@
-Orientação de bancada para votação do parecer da Comissão Mista quanto ao não atendimento dos pressupostos constitucionais de relevância e urgência e de adequação financeira e orçamentária da Medida Provisória nº 813, de 2017, sobre a possibilidade de movimentação da conta do Programa de Integração Social - PIS e do Programa de Formação do Patrimônio do Servidor Público - PASEP. Pedido à Presidência de votação da Medida Provisória nº 817, de 2018, acerca das tabelas remuneratórias dos servidores de ex-Territórios Federais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27ca7c085e9847dd9f4eb2ac3dd450b46505d90de200a30ee076a234b409da8d
+size 558

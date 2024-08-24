@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário sobre as razões do não acolhimento da Emenda de Plenário nº 2, oferecida ao Projeto de Lei nº  12, de 2021, sobre a alteração da Lei nº 9.279, de 1996, com vista a concessão de licença compulsória de patentes, nos casos de declaração de emergência nacional ou internacional, de interesse público ou de reconhecimento de estado de calamidade pública de âmbito nacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff519160dd6bc3eeb577e766766bf7c53656d991d09faea75aa20ef1294263e7
+size 413

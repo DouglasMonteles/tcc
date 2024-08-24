@@ -1,1 +1,3 @@
-Protesto contra a obstrução das votações no plenário da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36f0ebdba2d7008fc76ab304139e9837ea4a0550c4c99226b19695b3abef2dcf
+size 66

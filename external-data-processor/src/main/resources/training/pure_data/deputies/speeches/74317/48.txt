@@ -1,1 +1,3 @@
-Apelo para que seja rapidamente distribuído entre os entes federados o resultado de retenções indevidas feitas pela União. Pesar pela morte do ex-Senador e Deputado Federal Alberto Silva, ocorrida anteontem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f8c9be3c103e500f379156e8ce9bf8c88ed8169e3177ce4772d6199222918b9
+size 211

@@ -1,1 +1,3 @@
-Anúncio da Ministra-Chefe da Casa Civil da Presidência da República, Dilma Rousseff, de participação do Governo Federal nos planos de expansão do metrô da cidade de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93f4bfb4d8b38630de5827bf01abab8d842647c4a25d1971d2ca08c4126c6ce4
+size 183

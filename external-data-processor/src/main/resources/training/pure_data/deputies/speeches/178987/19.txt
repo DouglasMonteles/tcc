@@ -1,1 +1,3 @@
-Anúncio da presença do orador na cerimônia de posse de Edinho Silva no cargo de Ministro-Chefe da Secretaria de Comunicação Social da Presidência da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e04c624a075cfaafb6b27710e60faf4bd044d6516952834dffb06bdbd04a74c
+size 166

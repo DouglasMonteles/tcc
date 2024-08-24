@@ -1,1 +1,3 @@
-O Deputado encaminhou a votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2749/2023, que altera a Lei nº 13.105, de 16 de março de 2015, que institui o Código de Processo Civil, para garantir a prioridade de tramitação dos processos que configure como parte ou interessada pessoa com deficiência – programa PRIORIDADE EFICIENTE E INCLUSIVA e dá outras providências.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8686713a42acc11ad3f8a6a6c892b717c749535429b695650b2730e9ec461597
+size 412

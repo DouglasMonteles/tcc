@@ -1,1 +1,3 @@
-Ameaça, pelo Deputado afastado Eduardo Cunha, de realização de denúncia contra políticos em caso de cassação de seu mandato. Necessidade de investigação de Deputados favoráveis à Eduardo Cunha na votação para cassação do seu mandato.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f99caf7394e58970ef6e6bc2c3c6299433e0a0dc6359b7ea3740088f1540710d
+size 248

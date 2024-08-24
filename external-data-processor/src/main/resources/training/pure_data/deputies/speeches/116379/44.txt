@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de votação em globo da admissibilidade dos requerimentos de destaques simples apresentados à Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma da Previdência Social, em segundo turno de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3797e3da0ac50d09710dbb1eacab43ab9903ee6078f4bcadd833967490e8091d
+size 272

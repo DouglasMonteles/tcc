@@ -1,1 +1,3 @@
-Posicionamento  favorável do PT ao Requerimento de encerramento da discussão e do encaminhamento da votação da Medida Provisória 404 de 2007 (Altera o art. 41-A da Lei 8.213 de 1991, modificando a data de pagamento dos benefícios da Previdência Social).
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb495658548a03fb8e908e9af1d53074b0aacbb5fe882796ace062cd1c723c9a
+size 260

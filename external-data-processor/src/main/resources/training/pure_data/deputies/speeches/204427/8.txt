@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 176, oferecida à Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39383f1b0d6c2f255e81174a22db537e888edda47ee63f3d6d94000cb665d882
+size 220

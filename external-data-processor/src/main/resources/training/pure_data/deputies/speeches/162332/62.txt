@@ -1,1 +1,3 @@
-Consequências da estimativa da produção de cereais pela Companhia Nacional de Abastecimento - CONAB. Perdas agrícolas decorrentes de fenômenos climáticos no Estado do Paraná. Necessidade de adoção, pelo Governo Federal, de providências a favor dos produtores rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b4cf02847869f604a9565d7711f67fbf26f77b845db79895e07c567f5bfa960
+size 276

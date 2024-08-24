@@ -1,1 +1,3 @@
-Importância de aprovação da Medida Provisória nº 559, de 2012, sobre a transformação de dívidas tributárias de universidades em bolsas de estudo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fd30541c6f204e6e78ef6f054843406abdf784946dc85f4bcb842e9bfdc293b
+size 154

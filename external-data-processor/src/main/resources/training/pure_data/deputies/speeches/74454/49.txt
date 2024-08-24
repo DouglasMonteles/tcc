@@ -1,1 +1,3 @@
-Realização de concorrência pública para execução de obras de grande porte no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:715dfed2fa4b8106494f303a9157523b9ca99a5fee97d2b96a896ca57b63a9fa
+size 100

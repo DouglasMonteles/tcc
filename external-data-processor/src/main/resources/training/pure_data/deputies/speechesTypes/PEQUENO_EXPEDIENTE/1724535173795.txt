@@ -1,1 +1,3 @@
-Matéria Terceirização transforma trabalhador em objeto, afirma Rodrigo Janot, sobre proposta de regulamentação do contrato de trabalho terceirizado, veiculada pelo Portal Rede Brasil Atual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4635042c95bb067fdb4bdc8f8a6933c2fa9b5151007575e4d31272abd9b094fd
+size 194

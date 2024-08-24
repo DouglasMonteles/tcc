@@ -1,1 +1,3 @@
-Protesto contra violência  praticada por policiais militares do Estado de São Paulo contra moradores de favelas. Críticas às administrações do Governador do Estado de São Paulo, José Serra, e do Prefeito Municipal de São Paulo, Gilberto Kassab.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d572e5fc9c9c35e90f1d02928ba14f63cac78bb5328d9756bd17ac5701bc6e7
+size 253

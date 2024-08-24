@@ -1,1 +1,3 @@
-Conveniência da complementação da  votação do projeto de resolução sobre a criação de cargos na Liderança do PSD e de adiamento da votação do requerimento de urgência para o Projeto de Lei 4.470 de 2012.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adcd81a483ce147764116268dde374a723559c5fbc62b07e444daa6d816d0d28
+size 216

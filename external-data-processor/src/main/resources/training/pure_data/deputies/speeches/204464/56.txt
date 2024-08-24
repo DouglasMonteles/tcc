@@ -1,1 +1,3 @@
-Solidariedade aos familiares das crianças vítimas da violência policial na periferia do Rio de Janeiro, Estado do Rio de Janeiro, especialmente aos da menor Ágatha Vitória Sales Félix.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04412ba04107a1ddf8dfba282aaf481fd83edac6d1f30467dd87f25b1eecaa2c
+size 190

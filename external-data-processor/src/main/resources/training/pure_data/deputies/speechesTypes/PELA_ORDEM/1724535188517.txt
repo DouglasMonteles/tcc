@@ -1,1 +1,3 @@
-Transcurso do 83º aniversário de fundação da Rede Gazeta de Comunicações, no Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34fa577608ac82321fb16840c5e80aa2dfe2b14d4fdd33259560dbc7fc4ce7b1
+size 109

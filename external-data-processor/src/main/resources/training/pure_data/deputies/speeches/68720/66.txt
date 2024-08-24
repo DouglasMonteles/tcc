@@ -1,1 +1,3 @@
-Repúdio à proposta de taxação da energia solar, defendida pela Agência Nacional de Energia Elétrica - ANEEL. Apelo ao Governador do Estado de Sergipe, Belivaldo Chagas, por manutenção do Centro Obstétrico Dra. Leonor Barreto Franco, no Município de Capela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a641cf33f8a395d085a199b4eae2904a96bae72816a47de003a80388b5ea3656
+size 266

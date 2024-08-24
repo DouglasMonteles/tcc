@@ -1,1 +1,3 @@
-Protesto contra acusações mútuas entre Parlamentares da base governista e da Oposição no plenário, em detrimento da discussão de temas de relevante interesse da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41c815f2b6b51c2b538c4b1dc30a9251e061965fd6fef3a48adb2d37d30e090a
+size 191

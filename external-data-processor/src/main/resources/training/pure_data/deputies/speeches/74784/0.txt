@@ -1,1 +1,3 @@
-Eleição da Deputada Sandra Rosado para a coordenação da bancada feminina da Câmara dos Deputados. Cumprimentos aos novos Líderes de partidos da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91feb74679031129181103c6cb9e239aa68961f6b80ebef7b356704d9842b27e
+size 155

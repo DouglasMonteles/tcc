@@ -1,1 +1,3 @@
-Posicionamento do orador sobre a criação da Estrada-Parque Caminho do Colono, no Parque Nacional do Iguaçu, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ba8835f44e9098b81162edfb739cc77434993bb49795e5367685be0471edbae
+size 129

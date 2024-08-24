@@ -1,1 +1,3 @@
-Construção de Unidades de Pronto Atendimento e ampliação de Unidades Básicas de Saúde em Municípios do Estado do Paraná, com recursos do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce6fe72b7171086f785252687a0a82681d05a51de786ac21ed89113dee66fcc8
+size 161

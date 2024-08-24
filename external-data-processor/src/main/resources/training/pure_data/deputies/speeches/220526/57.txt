@@ -1,1 +1,3 @@
-O Deputado agradeceu a presença na Casa do Pastor Delano, da Igreja Fonte de Vida, da Assembleia de Deus, elogiando-o por sua defesa dos valores e princípios cristãos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b469e2f77087e9106ba815cc0c295124d8f726385d8ad9d19411cd84c7d044f5
+size 170

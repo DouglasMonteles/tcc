@@ -1,1 +1,3 @@
-Reunião dos Governadores dos Estados da Região Nordeste com a Presidenta Dilma Rousseff para debate da pauta político-administrativa do Governo Federal, com vista à retomada do crescimento e à ampliação da distribuição de riquezas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b334b5f8a8d6c7a315f08c0c97196d349027d7672af331e0651de93eada325a
+size 240

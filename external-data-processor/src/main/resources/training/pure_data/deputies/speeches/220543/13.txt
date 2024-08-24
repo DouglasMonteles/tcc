@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Constituição e Justiça e de Cidadania, do Projeto de Lei nº 826, de 2019, sobre o Programa Nacional de Vacinação em Escolas Públicas. Perplexidade com o voto contrário à matéria por parte de Deputados membros do colegiado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:687d3804e99840ebe04a798ca33ad29206c079d611a0f956bb87381481e6d4dd
+size 263

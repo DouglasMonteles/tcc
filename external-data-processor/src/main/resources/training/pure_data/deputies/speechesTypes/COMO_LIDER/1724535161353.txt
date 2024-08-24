@@ -1,1 +1,3 @@
-Pesar pelo falecimento da ex-Primeira-Dama Marisa Letícia Lula da Silva. Apoio ao candidato do PMDB à 1ª Vice-Presidência da Câmara dos Deputados, Lucio Vieira Lima. Agradecimentos ao Deputado José Priante pela declaração de apoio à candidatura do Deputado Lucio Vieira Lima. Apoio do PMDB à candidatura do Deputado Rodrigo Maia à Presidência da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db029fda0f5d7c30023a8389f639b6049c885bc9f6cc4c3b0f7f4e88be83eb07
+size 363

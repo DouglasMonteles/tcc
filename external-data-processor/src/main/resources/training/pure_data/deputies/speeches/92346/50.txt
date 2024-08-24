@@ -1,1 +1,3 @@
-Apelo aos Senadores de aprovação de dispositivo da reforma política sobre a instituição do voto impresso nas urnas eletrônicas. Agradecimento ao povo paraense pela recepção ao Deputado Jair Bolsonaro em visita à capital do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81f10b4f570b0a012c096be38ce3a523097cf4280a5cff32d061e591c806462a
+size 239

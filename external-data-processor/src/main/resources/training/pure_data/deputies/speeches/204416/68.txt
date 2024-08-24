@@ -1,1 +1,3 @@
-Apoio ao pronunciamento do Deputado Marcel Van Hattem a respeito das medidas adotadas pelo Governador Eduardo Leite, para enfrentamento da epidemia de coronavírus no Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6beabb97f18519e59ea791418fb5eac7f0ee07cc9fb47b1c32a43afd1e33e0ea
+size 195

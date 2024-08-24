@@ -1,1 +1,3 @@
-Realização da campanha Outubro Rosa, sobre a conscientização acerca da importância da prevenção do câncer de mama. Enfrentamento do tráfico de drogas e violência no noroeste do Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6871e56fe5ff3693d9a2cb4c53c788d13abd9c27ffc9c01a818d6c0ffe995ee
+size 210

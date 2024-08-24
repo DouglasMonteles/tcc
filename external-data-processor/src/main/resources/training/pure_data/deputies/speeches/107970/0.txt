@@ -1,1 +1,3 @@
-Deficiência da atuação da Companhia Energética de Minas Gerais - CEMIG na área rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2467046dabae1a293e6a52aceb971ba0f2e393e1a76452b034f3319a1c060786
+size 90

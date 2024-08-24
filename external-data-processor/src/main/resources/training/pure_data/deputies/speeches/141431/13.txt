@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalho. Alerta sobre os riscos à continuidade do crescimento econômico brasileiro, representados pela inflação e pelo aumento nos preços do petróleo. Defesa da redução da carga tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28235d94c6f13f2f91ba94db8734e5f6aa562d503359ed4163b676f68bf2c60c
+size 220

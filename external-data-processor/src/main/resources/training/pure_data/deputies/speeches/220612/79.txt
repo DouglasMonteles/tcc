@@ -1,1 +1,3 @@
-Participação do orador em audiência do Governador do Estado da Bahia, Rui Costa, no Tribunal de Contas da União - TCU, destinada ao debate sobre a liberação das obras da Ferrovia de Integração Oeste-Leste. Anúncio de medidas pelo Governo Federal para o início da construção do Porto Sul, no Município de Ilhéus. Solidariedade a pleitos dos servidores públicos federais, estaduais e municipais, ao ensejo do transcurso do Dia do Servidor Público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad43415e2f51f5b53eb2774e88eaa1fc87840fcbda878635832b858741939343
+size 461

@@ -1,1 +1,3 @@
-Agradecimento à bancada federal do Estado do Espírito Santo pela escolha do orador para o cargo de Líder do PPS na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3168b8c52230675e2bef21db25abdfd49d7c0b23ffe6d2e6024f5594cb64a948
+size 140

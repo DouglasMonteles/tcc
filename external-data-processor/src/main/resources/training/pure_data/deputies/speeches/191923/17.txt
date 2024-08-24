@@ -1,1 +1,3 @@
-Posicionamento do orador com relação à Medida Provisória nº 873, de 2019, a respeito da contribuição sindical.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6cf3871a10e1bf3b324526ce818cf68f36b6779a5c1e1606090b88e343be109
+size 117

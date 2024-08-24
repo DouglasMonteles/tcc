@@ -1,1 +1,3 @@
-Filiação, ao PR, do Vice-Prefeito Ricardo Piorino, do Município de Pindamonhangaba, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77f86275f763c6d9e4442af850b8dead4bff88405fc8c7eda0cfb8a8fb7b4e1c
+size 108

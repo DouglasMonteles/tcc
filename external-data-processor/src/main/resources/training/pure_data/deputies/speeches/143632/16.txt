@@ -1,1 +1,3 @@
-Solidariedade ao Governador Cid Gomes pela manifestação a respeito da situação calamitosa das rodovias federais no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6c8c9f2bf97d4b5741638fa9947437abc70166f135f6ac76f68c84ed669683b
+size 136

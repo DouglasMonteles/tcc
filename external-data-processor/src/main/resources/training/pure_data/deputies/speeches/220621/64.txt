@@ -1,1 +1,3 @@
-O Deputado celebrou os 506 anos da Reforma Protestante, destacando a justiça pela fé no Evangelho. Reconheceu Martinho Lutero e sua influência, ressaltando o impacto divino na história religiosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c5335e0a45498a20ca7a3384eddaf68236ea680405a0669002299dde8b48932
+size 199

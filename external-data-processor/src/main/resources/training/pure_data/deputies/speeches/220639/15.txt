@@ -1,1 +1,3 @@
-Transcurso de aniversário do golpe militar de 1964. Lançamento, pelo governo petista, de Série sobre os crimes da ditadura militar. Apoio da empresa automobilística Volkswagen ao regime de exceção. Julgamento, pela Justiça, de ação instaurada contra a montadora de automóveis pelo crime de trabalho escravo praticado na década de 70. Julgamento, pela Comissão de Anistia, de processo movido pelo Deputado Ivan Valente, vítima do Ato Institucional nº 5, o AI-5, instrumento de repressão adotado contra opositores ao regime militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd58646076f25de5b81b12092ba3ddd5ed00cf3e040c4468281e66ad89afbd15
+size 545

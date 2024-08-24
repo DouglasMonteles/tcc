@@ -1,1 +1,3 @@
-Sessão Solene em Homenagem póstuma aos 90 anos de Leonel Brizola.(As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:0926e352a5097f1d228b4a764dc38382925e1dca9d9d69f54747cd02f344eff4
+size 200

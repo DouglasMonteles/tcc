@@ -1,1 +1,3 @@
-Solidariedade à Deputada Flordelis diante do assassinato do seu esposo. Contrariedade às concessões preconizadas no parecer oferecido pelo Relator Samuel Moreira à proposta de reforma previdenciária. Apoio ao texto da proposta de reformulação da Previdência Social, encaminhada à Casa pelo Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80dc4d44e677c45f6e348aa43cbcde2f7943e88035842cf131e172d9e833094d
+size 322

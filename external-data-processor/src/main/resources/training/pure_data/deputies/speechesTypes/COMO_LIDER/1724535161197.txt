@@ -1,1 +1,3 @@
-O Deputado expressou indignação sobre a falta de posicionamento do Ministério da Justiça e do Ministério dos Direitos Humanos frente a um caso de violência contra uma família. Criticou a indicação do Ministro da Justiça ao STF, alertando sobre riscos à liberdade de expressão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b793d54c0c0c092c3b9763c79fcdebbfb5bdd1981aaf3d96f76d99e812adf6a0
+size 288

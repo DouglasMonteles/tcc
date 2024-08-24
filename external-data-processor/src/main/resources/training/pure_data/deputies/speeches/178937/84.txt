@@ -1,1 +1,3 @@
-Informação à Deputada Bia Kicis sobre a celebração de acordo de Líderes para a votação do Projeto de Decreto Legislativo nº 1, de 2023, relativo à Mensagem nº 14, de 2023, sobre a intervenção federal da área de segurança pública de Brasília, nos termos do Decreto Presidencial nº 11.377, de 2023, com vista à reversão do grave comprometimento da ordem pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2758d67a6c9f30959f3e29fe211677f528bbea99bee3d0342e57688391525515
+size 381

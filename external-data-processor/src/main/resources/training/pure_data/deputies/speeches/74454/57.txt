@@ -1,1 +1,3 @@
-Avaliação dos efeitos e do enfrentamento da crise financeira mundial nos Estados Unidos da América e na União Europeia. Recuperação da economia brasileira. Confirmação das estimativas de perdas na safra agrícola de 2009 no Estado do Ceará em decorrência de fatores climáticos. Liberação pelo Banco do Brasil de recursos para operações de crédito rural da safra agrícola de 2009/2010.
+version https://git-lfs.github.com/spec/v1
+oid sha256:644ef606b5ced05d4f346963ed4a2608e6d99dc47031978b6f79ba1d461820ed
+size 401

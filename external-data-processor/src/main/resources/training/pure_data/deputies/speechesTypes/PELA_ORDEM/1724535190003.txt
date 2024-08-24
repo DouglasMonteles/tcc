@@ -1,1 +1,3 @@
-Instalação da CPI destinada à investigação de irregularidades em fundos de pensão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b8bf6abca5cc31056c25463de5d2fd7d9da124a782e5f788f2709c4bdbf7911
+size 88

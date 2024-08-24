@@ -1,1 +1,3 @@
-Posicionamento contrário do PDT à Emenda 5, do Senado, destacada, ao Projeto de Lei de Conversão 30 de 2008 (Medida Provisória 443 de 2008), que autoriza o Banco do Brasil S.A e a Caixa Econômica Federal a constituírem subsidiárias e a adquirirem participação em instituições financeiras sediadas no Brasil, que condiciona à aprovação prévia do Legislativo os negócios jurídicos referentes à aquisição pelo Banco do Brasil e  pela a Caixa Econômica Federal de participação em instituição financeira que implicarem  alienação de controle acionário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43fc18374e39e23c29aafe591068f4ffcfbbd19239578660a17b8bb22e6adabc
+size 575

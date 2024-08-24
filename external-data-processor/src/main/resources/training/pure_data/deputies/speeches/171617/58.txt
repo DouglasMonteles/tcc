@@ -1,1 +1,3 @@
-Reconhecimento mundial do caráter efetivo do Programa Bolsa Família na redução da pobreza e na promoção da seguridade social com a premiação conferida pela Associação Internacional de Seguridade Social - ISSA, na Suíça. Resultado de reunião da bancada federal nordestina com a Ministra do Desenvolvimento Social e Combate à Fome, Tereza Campello, destinada ao debate sobre o balanço dos 10 anos de implantação do Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:badb9585888f1e315f6b887934f0ed3ac59381ecd275f35ac8579d2b8f6c1ec0
+size 445

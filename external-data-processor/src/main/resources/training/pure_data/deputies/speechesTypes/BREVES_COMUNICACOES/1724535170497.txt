@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado pernambucano pela recondução do orador à Câmara dos Deputados. Continuidade da atuação parlamentar em defesa dos Municípios do Estado de Pernambuco, notadamente de Caruaru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:639a91fe00d31c616f65caf5cf5c1b22e472ea652b35d3f291afcdb6d9467a61
+size 207

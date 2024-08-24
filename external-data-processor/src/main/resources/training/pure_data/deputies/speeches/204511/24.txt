@@ -1,1 +1,3 @@
-Comemoração do 40º aniversário de fundação da Igreja Internacional da Graça de Deus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f37e767e198bb8fe262f9401255b7b72155d3e5ccb7330bdd2c17bdd8928848c
+size 91

@@ -1,1 +1,3 @@
-Expectativa de votação e aprovação pela Casa do projeto de lei que fixa em 30 horas semanais a jornada de trabalho dos profissionais de enfermagem. Solidariedade aos representantes da categoria presentes nas galerias da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e27a98965fa9c31e2ab402b9326ced5c38b07c4dac6c89ec40ad0ee91755323
+size 229

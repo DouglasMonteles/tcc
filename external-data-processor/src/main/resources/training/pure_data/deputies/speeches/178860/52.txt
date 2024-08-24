@@ -1,1 +1,3 @@
-Questão de ordem sobre a reconsideração, pela Presidência, da decisão proferida referente aos procedimentos plenários de representações oriundas do Conselho de Ética e Decoro Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84a0f64ccde648cd98ea27e0b1dd183bb6100d014a0064681fb4167b4923715a
+size 196

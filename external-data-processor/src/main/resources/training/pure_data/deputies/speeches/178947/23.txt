@@ -1,1 +1,3 @@
-Presença na Casa do Deputado Estadual do Rio de Janeiro Samuel Malafaia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93ad4f6c12899672205ddd266e423ea99d2a3e10635c517a80f135758e9dbfb
+size 73

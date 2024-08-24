@@ -1,1 +1,3 @@
-Apelo à Presidência de incorporação no texto de medida provisória da emenda apresentada pelo orador em parceria com o Deputado Luiz Carlos Hauly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a04afd7c2f48c78b8f0cd02487cbfd414d2db8f61513d2dc4ea48d8254e0d53
+size 150

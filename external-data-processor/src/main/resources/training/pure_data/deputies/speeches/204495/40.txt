@@ -1,1 +1,3 @@
-Lançamento da ação popular Empate dos Povos da Amazônia, sobre mobilização de organizações sociais representativas dos povos da Amazônia. Participação do orador na abertura do II Fórum Internacional sobre a Amazônia - FIA, na Universidade de Brasília - UnB, e em abraço simbólico ao Ministério do Meio Ambiente, para a sensibilização da população brasileira sobre a importância da defesa do patrimônio ambiental do País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:252d735f6558c1f50b002f38d7602ee5f69fe2fb42c558c3fa47fe115768dc56
+size 444

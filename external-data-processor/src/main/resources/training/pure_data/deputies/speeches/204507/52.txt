@@ -1,1 +1,3 @@
-Solidariedade à Deputada Julia Zanatta diante do assédio sexual praticado por Deputado do PCdoB. Defesa da punição de autores de violência política contra a mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ba41ddbcda1ee59c3de1c4f6f1b94bb6a41acf684bbf9a805d97fa43b5dbc87
+size 170

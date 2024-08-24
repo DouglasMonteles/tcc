@@ -1,1 +1,3 @@
-Falecimento da médica cubana Yaniet Marquez Campos, no Município de Ponta Grossa, Estado do Paraná. Transcurso do 136º aniversário de fundação do Município de Palmas, Estado do Paraná. Inauguração de obra do Instituto Federal do Paraná no Município de Jaguariaíva. Transcurso do 4º aniversário de inauguração da Universidade Tecnológica Federal do Paraná - UTFPR no Município de Guarapuava. Assunção pelo orador de vaga de membro titular da CPI da Máfia das Órteses e Próteses no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd9d286c7a31800e4aae637828d0064c87f619a7ad42f0a7e05487bb8a6bdd7b
+size 513

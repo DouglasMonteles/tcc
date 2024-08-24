@@ -1,1 +1,3 @@
-Inauguração da Vinícola Peruzzo, no Município de Bagé, Estado do Rio Grande do Sul. Empenho do orador na expansão da fruticultura e da vitivinicultura brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e028c779ee05f891938078e8813f1dfd82797931f15c111683059abb955e61ef
+size 169

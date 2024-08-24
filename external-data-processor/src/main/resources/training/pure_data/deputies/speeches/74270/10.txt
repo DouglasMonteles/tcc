@@ -1,1 +1,3 @@
-Presença na Casa do ex-Deputado Federal Agnaldo Timóteo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5e73697732f62efa3f06b83c4ae4347f768f0e8d5ad23f41c6d098b872af1a9
+size 58

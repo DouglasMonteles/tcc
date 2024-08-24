@@ -1,1 +1,3 @@
-Transcurso do 101º aniversário de fundação do Município de Aparecida de Goiás, Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd1bb44e0df699d5bc3ee901357e4de675aec7e1b381022848e62bbecfd6ccba
+size 102

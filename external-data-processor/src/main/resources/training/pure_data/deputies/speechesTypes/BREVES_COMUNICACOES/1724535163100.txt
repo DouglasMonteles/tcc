@@ -1,1 +1,3 @@
-Protesto contra os desmandos antidemocráticos e inconstitucionais da Suprema Corte brasileira. Apoio à criação de Comissão Geral para debate sobre a atuação do Ministro do Supremo Tribunal Federal, Alexandre de Moraes. Defesa da votação da proposta de reforma do Poder Judiciário. Pedido ao Presidente do Senado Federal, Rodrigo Pacheco, para votação de pedidos de impeachment contra ministros do STF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66afea38e2e4af1b20152d0a58730131414ad9079610d34af3561bb439171e07
+size 413

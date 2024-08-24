@@ -1,1 +1,3 @@
-Homenagem ao Vice-Presidente da República, José Alencar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6bcfc2edcceff8deb4d0eff185a4c43c07cb949e6154637fc49ac1034eb48dd
+size 58

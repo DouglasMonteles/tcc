@@ -1,1 +1,3 @@
-Encaminhamento da votação de requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.336, de 2021, sobre a alteração da Lei nº 9.615, de 1998, acerca da instituição das normas gerais do desporto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7873976883b6d99118edaee23c9844c418d46d0adf864212dca16a0558f2ab95
+size 222

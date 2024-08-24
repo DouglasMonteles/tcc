@@ -1,1 +1,3 @@
-O Deputado agradeceu a visita dos representantes da Associação dos Militares do Estado do Acre (AMEAC) e expressou apoio ao trabalho dos policiais militares em prol da segurança da sociedade. Desejou sucesso aos visitantes em seus estudos sobre a legislação relacionada à Polícia Militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cb06dc232a89422e5bf0a29931f581a150a168250bd02418e10aaeb9e911bd5
+size 295

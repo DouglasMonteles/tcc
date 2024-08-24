@@ -1,1 +1,3 @@
-Defesa de confirmação, pelo Supremo Tribunal Federal, da jurisprudência sobre a execução da pena após a condenação em segunda instância.
+version https://git-lfs.github.com/spec/v1
+oid sha256:949d9986033c7296340fdb9105645feaab18f6c38ee221ddb3528f00c4eb5a26
+size 145

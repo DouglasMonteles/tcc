@@ -1,1 +1,3 @@
-Conveniência de continuidade dos trabalhos nas Comissões até o início da Ordem do Dia. Convocação dos membros da base governista ao plenário para   votações nominais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9dfa78474486f0862dbfec52526db45ea2bf78b12ded8a1ab8b2b211ef0468
+size 175

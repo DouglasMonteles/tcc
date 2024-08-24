@@ -1,1 +1,3 @@
-Vacinação em torno de 100 milhões de brasileiros contra a Covid-19. Recrudescimento das desigualdades sociais brasileiras. Retomada das espirais inflacionárias. Cenário de miséria e fome reinante no País. Apelo ao Ministro da Economia, Paulo Guedes, de prorrogação do auxílio emergencial. Defesa de ampliação do número de contemplados e do valor do benefício do Programa Bolsa Família. Celeridade da Casa na apreciação da pauta social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35f0e3bbc41400348f5d0f551dfb6085cf19ed10e5862976da74002953a4d1db
+size 452

@@ -1,1 +1,3 @@
-Regozijo com a aprovação, pela Comissão de Segurança Pública, de requerimento de autoria do orador com vistas à oitiva do ex-Presidente Luiz Inácio Lula da Silva, do Presidente da Central Única dos Trabalhadores, Vagner Freitas, e do Prof. Mauro Iasi, do PCB, acerca do conceito de crime de ódio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ad2b53bfd78f56685428625361c2dceee19f53e842c93388e9b5053fa3e707e
+size 305

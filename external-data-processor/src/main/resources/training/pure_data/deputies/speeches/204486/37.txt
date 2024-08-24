@@ -1,1 +1,3 @@
-Não cumprimento, pelo Governo Jair Bolsonaro, da meta estabelecida para o déficit primário do setor público. Permanência do desiquilíbrio fiscal no Governo Federal, demonstrado no projeto sobre a Lei de Diretrizes Orçamentárias - LDO de 2019, encaminhado ao Congresso Nacional pelo Poder Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0522e3cfb5a071e5d39d224cfc6e90d17a6a51c6c1fcb32da2e7bd1bf7612afe
+size 306

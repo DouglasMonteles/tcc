@@ -1,1 +1,3 @@
-O Deputado demonstrou preocupação com a segurança pública do Distrito Federal, haja vista o aumento da criminalidade e a defasagem do quadro de servidores da Polícia Civil local, prejudicando inclusive o funcionamento das delegacias de polícia. Ademais, citou a sobrecarga dos servidores da segurança pública como um dos fatores para o aumento de casos de ansiedade e depressão entre os policiais. Por fim, solicita ao Governador do Distrito Federal, Ibaneis Rocha, a nomeação dos candidatos aprovados nos concursos públicos para ingresso nos quadros da instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0229f8e0aae5989299ea878a004ae544a864c0c43474ffffbedde45f96e10588
+size 580

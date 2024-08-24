@@ -1,1 +1,3 @@
-Implantação pela Comissão de Constituição e Justiça e de Cidadania de novo sistema de informática, destinado à garantia de transparência e segurança nas votações. Congratulações ao Presidente Henrique Eduardo Alves e a servidores da Casa pela iniciativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5df4714a52b152fcd0e3ce5aa6aa9627b5a02c0ab8f7f40bba9350cb1001521
+size 268

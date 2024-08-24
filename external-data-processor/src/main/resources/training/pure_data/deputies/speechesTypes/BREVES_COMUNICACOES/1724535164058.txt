@@ -1,1 +1,3 @@
-Transcurso de aniversário da criação do Bairro das Malvinas, no Município de Campina Grande, Estado da Paraíba. Imediata aprovação do projeto de lei sobre a redução da jornada de trabalho dos profissionais da enfermagem em 30 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e26da73d60826ca06d61a52688fbdc36c216675d12f4f46562ca678efe0f5c2
+size 250

@@ -1,1 +1,3 @@
-Dificuldades enfrentadas pelo setor de saúde no Município de Belém, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cca936c267689f807a4489088c704faf89e8dcb87750cc7596966f39f0c85fb5
+size 87

@@ -1,1 +1,3 @@
-Retomada do cargo pelo Governador do Distrito Federal, Ibaneis Rocha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f38ea0d566b6edd081184226d2e1f28b24ffda007e811ff9ab154f313dadd68
+size 69

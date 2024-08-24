@@ -1,1 +1,3 @@
-Apoio aos protestos e às reivindicações dos caminhoneiros no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9754b38d90a02a89cd5c7ce38365d9b0f12175e909b69a7c9d30ded2a82e61fb
+size 70

@@ -1,1 +1,3 @@
-Realização do 8º Seminário de Lésbicas, Gays, Bissexuais, Transexuais e Transgêneros - LGBT, no Auditório Nereu Ramos da Casa. Participação do Deputado Jean Wyllys no evento. Apoio à decisão do Supremo Tribunal Federal a favor da união estável entre pessoas do mesmo sexo. Repúdio às publicações da revista Veja, contrárias ao Movimento dos Trabalhadores Rurais Sem Terra - MST e à reforma agrária. Defesa da realização de obras de infraestrutura em assentamentos agrícolas e da concessão de linha de crédito aos trabalhadores assentados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23589d7460c95c0ad6d91141fc933b0b1da94df3f399dd55d9499fb058ea39ab
+size 563

@@ -1,1 +1,3 @@
-Razões da ausência da Deputada Rose de Freitas no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:711af7937a0b0b7e2c511e965dc02c49aa34dbdbe3f740f0b529882144bbf6be
+size 62

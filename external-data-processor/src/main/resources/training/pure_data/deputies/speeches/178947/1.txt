@@ -1,1 +1,3 @@
-Agradecimentos pela eleição do orador. Apoio à criação da CPI da PETROBRAS e à tramitação em regime de urgência da Proposta de Emenda à Constituição nº 300, de 2008, sobre a criação do piso salarial nacional de policiais e bombeiros militares. Compromisso de atuação parlamentar pela recuperação de dependentes químicos, valorização da vida e defesa da família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:104c722147cb81d0402ce1d789894e3dd83e7a4b04419756d60e75709eb04879
+size 384

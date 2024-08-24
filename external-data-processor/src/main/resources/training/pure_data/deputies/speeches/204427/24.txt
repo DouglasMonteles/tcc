@@ -1,1 +1,3 @@
-Prática de abuso de poder econômico pelo Prefeito Emerson Cordeiro na campanha à reeleição, Município de Poção, Estado de Pernambuco. Celeridade no julgamento de ação movida pelo Ministério Público contra o gestor municipal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e19d452fc45abb7048ac146f106a78a2505aa30d2ea2bc73fbb5ba55164b3726
+size 236

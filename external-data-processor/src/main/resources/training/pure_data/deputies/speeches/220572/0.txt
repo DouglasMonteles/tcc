@@ -1,1 +1,3 @@
-Homenagem póstuma à ex-Deputada Federal Íris de Araújo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:367b061ae66ea46569a49c00125c4960e070a4afa001b8774935f5c8ea092ee0
+size 59

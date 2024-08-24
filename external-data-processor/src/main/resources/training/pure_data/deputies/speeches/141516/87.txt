@@ -1,1 +1,3 @@
-Protesto contra o corte de recursos de emendas orçamentárias destinadas à realização de obras em municipalidades brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d0d8ce204296ea2a9943325cacbb9e38b502c67629fb32f7ab3d68aecc804bc
+size 130

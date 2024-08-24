@@ -1,1 +1,3 @@
-Realização de festividades no Município de Castanhal, Estado do Pará, pelo transcurso do Dia de São José.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2928f22384ab31a0f0d6411f8178ba92cf8847087dfe0915972883df4a94126f
+size 111

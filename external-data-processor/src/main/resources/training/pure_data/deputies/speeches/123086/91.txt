@@ -1,1 +1,3 @@
-Pesar pela não realização de sessão do Congresso Nacional para votação de proposição com vistas à destinação de recursos orçamentários para o Fundo de Financiamento Estudantil - FIES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ab4727e71e52f8f0557900598bf0e021a6a3d1c8bf8a17a6e74d949e48f3a8c
+size 196

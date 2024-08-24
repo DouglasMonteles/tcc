@@ -1,1 +1,3 @@
-Crises política e econômica reinantes no Brasil. Crítica às gestões dos ex-Governadores do Estado de Minas Gerais Aécio Neves e Antonio Anastasia. Apoio à administração do Governador Fernando Pimentel, de Minas Gerais. Equívoco da política de preços de combustíveis praticada pela empresa Petróleo Brasileiro S.A. - PETROBRAS. Impacto financeiro da redução do ICMS incidente sobre combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bcc8b420368480ad216dadcef584ab04d19f96e07c38e8bcf58a2da16562cfb
+size 411

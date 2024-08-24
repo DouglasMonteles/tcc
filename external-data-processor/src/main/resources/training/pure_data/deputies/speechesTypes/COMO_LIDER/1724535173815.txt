@@ -1,1 +1,3 @@
-Importância da votação e aprovação do Projeto de Lei nº 873, de 2020, sobre alteração da Lei nº 13.982, de 2020, com vista à mudança nas regras do auxílio emergencial; à vedação da suspensão de benefícios previdenciários e assistenciais concedidos aos idosos, às pessoas com deficiência ou com enfermidade grave, durante a pandemia da Covid-19. Aprovação pela Casa de proposições em benefício das pequenas e microempresas. Alerta sobre o superfaturamento na compra de equipamentos destinados à áea de saúde e à inclusão, por hospitais, de despesas alheias entre as medidas emergenciais de combate ao coronavírus. Indignação do orador com a prática de corrupção em meio às medidas de enfrentamento da Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93d9bdebcbbb8c78083029f2b5d57aa057b34725c9585ce9eb9d9059969d9edc
+size 746

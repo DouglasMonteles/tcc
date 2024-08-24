@@ -1,1 +1,3 @@
-Encaminhamento da votação, em segundo turno, da  PEC 336 de 2009 (Altera a redação do inciso IV do caput do art. 29 da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais), do Senado.Constitucionalidade de dispositivo que retroage os efeitos da emenda constitucional ao processo eleitoral de 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70f7fafb495e4e4b1b070871c945f34fb9b0ae7ee1b77567c3bf694549781c53
+size 352

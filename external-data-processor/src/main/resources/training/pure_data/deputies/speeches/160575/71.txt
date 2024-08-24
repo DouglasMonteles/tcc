@@ -1,1 +1,3 @@
-Participação da oradora no primeiro encontro sobre o impacto de grandes obras nos direitos de crianças e adolescentes, realizado no Estado de Rondônia. Elevação dos índices de criminalidade e de gravidez de menores nas proximidades de obras de usinas hidrelétricas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4d45ac205f646f40a9dc353dec4c7dd6534c7e633696ee750a37ddbec07d4c6
+size 273

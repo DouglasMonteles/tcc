@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº8, apresentada à Medida Provisória nº  872, de 2019, sobre a prorrogação do prazo de recebimento de gratificações pelos servidores ou empregados requisitados pela Advocacia-Geral da União; e sobre a cooperação federativa no âmbito da segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29bcd33f91c927c4de332aacde23fe0547c5efd9da7a9aaf037498a4e04d0839
+size 370

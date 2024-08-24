@@ -1,1 +1,3 @@
-Necessidade de aprovação da Proposta de Emenda à Constituição nº 23, de 2021, para o custeio do Auxílio Brasil de 400 reais e o parcelamento, em 240 meses, de débitos previdenciários das municipalidades brasileiras. Necessidade de esclarecimento, pelo ex-Presidente Rodrigo Maia, da sua gestão no tocante à execução orçamentária. Reflexos sobre os Municípios brasileiros advindos da suspensão, pelo Supremo Tribunal Federal, da execução das emendas de Relator, RP9.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9f6056da861492fd175b71a58343094c13e027937c1ff6dabb8b02e07ad7779
+size 484

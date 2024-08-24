@@ -1,1 +1,3 @@
-Vitória do orador na luta empreendida a favor da redução do reajuste de tarifa pela Companhia Energética de Minas Gerais - CEMIG.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1ede072d2bd446c76aff187a190d5919a47a7caa552071e8745032b118e529c
+size 133

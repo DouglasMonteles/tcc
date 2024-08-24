@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 3, apresentada ao Projeto de Lei nº 1.292, de 1995, sobre alteração da Lei nº 8.666, de 1993, a respeito da instituição de normas para licitações e contratos da administração pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5576db8f2921ee57e9d31e4f406ed03ba1cbf93e0617a07d85bf8bc4a3e84d32
+size 300

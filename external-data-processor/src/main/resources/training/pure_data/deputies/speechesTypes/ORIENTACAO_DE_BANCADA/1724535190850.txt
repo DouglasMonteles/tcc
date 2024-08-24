@@ -1,1 +1,3 @@
-Orientação da respectiva bancada do requerimento de destaque para votação da Emenda nº 63 apresentada à Medida Provisória nº 752, de 2016, que dispõe sobre diretrizes gerais para a prorrogação e a relicitação dos contratos de parceria que especifica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf52d0d5ff51d28102456ed3804f5b646cacbda40526633437ca799cf7ab2fcf
+size 263

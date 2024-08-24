@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do requerimento de prorrogação, por sessenta dias, do prazo de funcionamento da CPI destinada à investigação da origem e responsabilidades pelo vazamento de petróleo cru no litoral da Região Nordeste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e184bb266ef3b20965318653c970530c9cf0fb80c38935f8d19b49c20aacbb8a
+size 281

@@ -1,1 +1,3 @@
-Alerta para a ilegalidade de eventual lançamento de edital do Programa Mais Médicos em dissonância com o art. 22 da Lei do Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4925336d10d83672f98c63b91f72f1ae5f4f7f66f2ef7fa0a049c69e6b0d126e
+size 140

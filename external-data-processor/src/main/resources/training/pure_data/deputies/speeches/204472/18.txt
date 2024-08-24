@@ -1,1 +1,3 @@
-Perplexidade ante o posicionamento de jornalistas e analistas políticos a respeito do desarmamento da população.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1195f12ebe622b4ae302785245ef2a29a62f78ffb9bdb2797949822fa10f37f1
+size 115

@@ -1,1 +1,3 @@
-O Deputado parabenizou a cidade de Blumenau, Estado de Santa Catarina, pelo transcurso dos seus 173 anos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f5ec9a5942289ea287df8cbf79162d4ad378c238d71d579cb33e0ac0abb5a33
+size 105

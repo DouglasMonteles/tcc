@@ -1,1 +1,3 @@
-Saudações aos Deputados. Reassunção do mandato parlamentar pela oradora. Importância de aprovação do projeto de lei, elaborado pelo PCdoB, sobre a concessão de aumento real ao salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23a41237a1f55a409ccc0931ef68a78cfc2b99344ef25263851eaeb7718837a9
+size 201

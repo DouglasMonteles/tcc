@@ -1,1 +1,3 @@
-Preocupação com a situação calamitosa enfrentada pelas Santas Casas e hospitais filantrópicos do Brasil. Premente necessidade de reajuste da tabela do SUS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe47ef79e30f9af007d140c4a1b057fabc6e6603217b3f8a826c667dfe354dba
+size 160

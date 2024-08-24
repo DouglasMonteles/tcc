@@ -1,1 +1,3 @@
-Transcurso do Dia do Arquiteto e Urbanista. Homenagem póstuma aos arquitetos Oscar Niemeyer, João Filgueiras Lima e Miguel Pereira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efad05c7426f703243694a93e781b8406892023da48c729b1c8d1abcf9e3bbdd
+size 133

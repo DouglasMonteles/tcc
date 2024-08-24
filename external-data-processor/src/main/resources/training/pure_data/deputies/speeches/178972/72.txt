@@ -1,1 +1,3 @@
-Orientação da respectiva bancada para votação do Projeto de Lei de Conversão nº 2, de 2017, adotado pela Comissão Mista à Medida Provisória nº 751, de 2016, que cria o Programa Cartão Reforma.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e75b9c80ade8771fed45a8d6e536dbbf85fcdb8e3252c818e1d121ba392ebdcf
+size 203

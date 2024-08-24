@@ -1,1 +1,3 @@
-O Deputado anunciou a apresentação da Emenda nº 6 - que visa garantir aos mais pobres o atendimento presencial - ao Projeto de Lei nº 2.685, de 2022, que institui o Programa Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil. O orador enalteceu a inclusão digital promovida pelo Desenrola Brasil, mas considerou necessário observar a realidade da população sem acesso à tecnologia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03f9fcbb223df35983d6689b69f17531e3ec1374c3c0257fa333892e43d8abe3
+size 434

@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 46, apresentada à  Medida Provisória nº 893, de 2019, sobre a transformação do Conselho de Controle de Atividades Financeiras - COAF na Unidade de Inteligência Financeira, vinculada ao Banco Central do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6693329947e053862562c5e655c5caf8f0d24f584439359a5125aab36bd52e6a
+size 321

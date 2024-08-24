@@ -1,1 +1,3 @@
-Agradecimento aos eleitores cearenses pela eleição de Sarto Nogueira para o cargo de Prefeito Municipal de Fortaleza, e pela recondução de Bismark Maia à Prefeitura Municipal de Aracati. Agradecimento à empresa Azul Linhas Aéreas Brasileiras S/A pela inauguração de voo entre São Paulo e Aracati. Atrações turísticas e belezas naturais da municipalidade. Anúncio de votação pela Casa do Projeto de Lei Complementar nº 137, de 2020, sobre a criação de fonte de recursos para enfrentamento da calamidade pública decorrente da Covid-19, reconhecida pelo Congresso Nacional. Apelo aos Parlamentares de aprovação da Emenda nº 5 oferecida à proposição, para destinação de percentual de recursos ao setor escolar para conectividade e aquisição de equipamentos tecnológicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a5458744de2ced1a75664ad46e68c21802048109d11e3a8868ef1e8f75c7c1f
+size 797

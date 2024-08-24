@@ -1,1 +1,3 @@
-Transcurso do 66º aniversário de criação do Município de Mantena, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a084e0f8d80faa40abba1cb0e025d88d78127289a8c5c67293a27662b0b3a678
+size 94

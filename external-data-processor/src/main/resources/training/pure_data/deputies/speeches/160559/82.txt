@@ -1,1 +1,3 @@
-Participação de comitiva de produtores de tabaco dos Estados da Região Sul da 6ª edição da Conferência das Partes (COP 6) da Convenção-Quadro para Controle do Tabaco, na Rússia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:375afb388e2159293a69d0b510884fd011e5b6736df458351c879594b89f0722
+size 187

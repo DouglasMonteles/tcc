@@ -1,1 +1,3 @@
-Solicitação à Casa de apoio a projeto de lei destinado à criação do Dia Nacional de Prevenção ao Acidente Vascular Cerebral. Congratulações aos servidores públicos brasileiros, especialmente aos da área da saúde pública, ao ensejo do transcurso do Dia do Servidor Público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db34d858deff42070589e88fbefc54375e6bb79aa371eb687c7add740b4bd2b3
+size 287

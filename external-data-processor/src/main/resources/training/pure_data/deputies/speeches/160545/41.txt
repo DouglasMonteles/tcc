@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação da proposta de distribuição de royalties de petróleo aos Estados e Municípios. Contestação às críticas da imprensa à não destinação de recursos da exploração de petróleo para o setor educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:972590944554dc796d4171e8a40ddf8cbbaee6d327463d8d5691c36d695efe81
+size 252

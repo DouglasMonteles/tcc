@@ -1,1 +1,3 @@
-Associação às manifestações contrárias ao corte de recursos das universidades públicas. Transcurso do 184º aniversário do Município de Barra do Corda, no Estado do Maranhão. Realização de investimentos na municipalidade pelo Governador Flávio Dino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73889e8832e594e5ebc9ae081fb3fee012f760d406a0132073182db26ac7701a
+size 262

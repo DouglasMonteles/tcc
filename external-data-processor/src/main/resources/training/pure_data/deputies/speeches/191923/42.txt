@@ -1,1 +1,3 @@
-Falta de médicos intensivistas na rede hospitalar conveniada com o Sistema Único de Saúde - SUS. Urgente necessidade de vacinação do povo brasileiro contra a Covid-19. Necessidade de revisão do processo de formação médica no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5aaa565adcd618d1b4b15f9bbca3172d89120fd3a7d26db3ad86adb656d2038
+size 240

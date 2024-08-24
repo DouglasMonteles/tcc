@@ -1,1 +1,3 @@
-Posicionamento favorável do PP  ao Substitutivo ao Projeto de Lei 30 de 2007-CN (Estima Receita e fixa Despesa da União para o exercício financeiro de 2008 - Orçamento da União).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7415dee185b4004eaa5ebfb467da2f8840c037d87364ab3c06160ac01d30bc3a
+size 183

@@ -1,1 +1,3 @@
-O Deputado criticou o Ministro da Justiça e Segurança Pública, Flávio Dino, por suas declarações sobre supostas ameaças à sua segurança na Casa, o que considera um deboche e desrespeito à instituição legislativa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9720728d7ab501d88d655aff90baefaae3acedfc1623e907be36cfd5b3f297df
+size 224

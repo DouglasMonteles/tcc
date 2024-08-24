@@ -1,1 +1,3 @@
-Balanço da atuação do orador no cargo de Presidente Comissão de Meio Ambiente e Desenvolvimento Sustentável. Saudação ao Presidente da República interino, Michel Temer, e Ministros de Estado. Destaque à atuação da Mesa Diretora da Comissão e à colaboração do Departamento de Comissões, da Consultoria Legislativa e do corpo técnico da Comissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9303820ef8337fc04e81ca7054f68d754dbc0ea45a2576495ee54c77a7be92b1
+size 362

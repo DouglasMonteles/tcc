@@ -1,1 +1,3 @@
-Retomada do Programa Farmácia Popular e do Programa Minha Casa, Minha Vida. Lançamento do Programa Desenrola Brasil, destinado à renegociação de dívidas de pessoas físicas. Redução da carga tributária incidente sobre veículos e sobre o setor aéreo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dd562a0b4ded7ac7b082821f2aa8311ed4d77de4e865d57f94aed77fc1187d1
+size 260

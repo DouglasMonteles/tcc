@@ -1,1 +1,3 @@
-Apelo ao Ministério da Infraestrutura e ao Departamento Nacional de Infraestrutura de Transportes - DNIT, por imediata recuperação da BR-267 no Estado de Minas Gerais, especialmente no trecho Juiz de Fora-Bicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acb9fd2b2229446a19eff7ebba8c002d05a75694b3d9d5cb1df7eb4aa71c1053
+size 214

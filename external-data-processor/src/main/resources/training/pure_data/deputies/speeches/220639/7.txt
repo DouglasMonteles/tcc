@@ -1,1 +1,3 @@
-Contrariedade à política de paridade de preços de combustíveis praticada pela PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92de6cb4ea754bc6cfd79c2324dfb173347e279850cca3113707425fb1b7a195
+size 92

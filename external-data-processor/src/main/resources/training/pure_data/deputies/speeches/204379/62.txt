@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta do Projeto de Lei Complementar nº 112, de 2021, sobre a instituição do novo Código Eleitoral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d3ab13302576387b2920df97651c0674ea71bbab1fda8d93d6b192327862fb2
+size 171

@@ -1,1 +1,3 @@
-Omissão no registro do nome da oradora na ata da sessão anterior. Sucesso da 14ª Marcha a Brasília em Defesa dos Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec2f1dcf17f06345cc9ba87eaaec05fb9387e0777993b61cad554e04fe780afa
+size 129

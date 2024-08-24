@@ -1,1 +1,3 @@
-Manifestação de solidariedade aos familiares das vítimas da tragédia causada por fortes chuvas no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cb729d4a55b3750cc1e0d823bbd07041f4319cb30412d343bd32fa28e6f0667
+size 123

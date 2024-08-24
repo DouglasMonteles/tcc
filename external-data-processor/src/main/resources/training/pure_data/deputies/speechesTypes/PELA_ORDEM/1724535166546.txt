@@ -1,1 +1,3 @@
-Presença da Ministra da Mulher, da Família e dos Direitos Humanos, Damares Regina Alves, em Belo Horizonte, Estado de Minas Gerais, para entrega de kits e veículos a Conselhos Tutelares de Municípios da base eleitoral do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17055fd70d8db589bbbfc1f2897a3005a61cb87a24b57c1980b3219527b74833
+size 232

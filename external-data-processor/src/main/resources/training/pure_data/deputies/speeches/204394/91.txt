@@ -1,1 +1,3 @@
-Acerto da criação do auxílio emergencial de 600 reais. Protesto contra a inserção do novo auxílio emergencial no texto da Proposta de Emenda à Constituição nº 186, de 2019, a chamada PEC Emergencial, sobre a criação de mecanismos de ajuste fiscal. Apelo ao Plenário de aprovação de requerimentos de destaque destinados à melhoria do texto da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e844cf48cff031139849d87bc6a9d8ea2787e4a33596837567dd3187f7022ab4
+size 370

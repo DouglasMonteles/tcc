@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Avanços e desafios no combate à violência contra a mulher e na maior participação feminina na política nacional. Solicitação ao Presidente Henrique Eduardo Alves de inclusão na pauta do Projeto de Lei Complementar nº 275, de 2001, sobre a regulamentação da aposentadoria da mulher servidora policial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eaed8861b22927d9fcf644abe00c09574e961ecc630b7638e1d65564c138a9c
+size 355

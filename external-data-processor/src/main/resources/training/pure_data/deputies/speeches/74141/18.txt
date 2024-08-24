@@ -1,1 +1,3 @@
-Lançamento da 3ª fase do Plano de Expansão da Rede Federal de Educação Superior, Profissional e Tecnológica. Criação de novas universidades federais e de novas unidades do Instituto Federal de Educação, Ciência e Tecnologia - IFET, no Estado da Bahia. Vinculação entre os investimentos na educação e o  desenvolvimento socioeconômico. Alcance social do Programa Mulheres Mil, integrante do Plano Brasil Sem Miséria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acb4429f7c3eb2e5499da95fd3a8a8bfd0cc45f63b4d7087928f521ad2f06d83
+size 432

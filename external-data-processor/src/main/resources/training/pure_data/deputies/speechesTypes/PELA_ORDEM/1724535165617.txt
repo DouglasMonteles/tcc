@@ -1,1 +1,3 @@
-Associação a discurso do Deputado Alberto Fraga acerca da defesa da atuação da Polícia Militar do Estado de São Paulo em repressão a crime cometido por menores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:591217c5599002cecc3c7f5dc592652cd4c08fd0a8e384be1ddd41342e31fe42
+size 167

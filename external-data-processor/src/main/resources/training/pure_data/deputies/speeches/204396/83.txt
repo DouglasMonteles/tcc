@@ -1,1 +1,3 @@
-Transtornos e prejuízos decorrentes da operação-padrão realizada pela Secretaria Especial da Receita Federal do Brasil e pelo Ministério da Agricultura, Pecuária e Abastecimento na fronteira entre o Brasil e o Paraguai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce8a885920bf04e8f484fe19fe4cfdfb37852ca4d1e2617176d0247cf8e9ae81
+size 225

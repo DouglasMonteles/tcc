@@ -1,1 +1,3 @@
-Congratulações ao Presidente Luiz Inácio Lula da Silva pelo crescimento econômico do País. Conveniência de adoção pela Casa de medidas diante de reajustes das tarifas de energia elétrica. Presença, na Casa, do candidato do PR ao cargo de Prefeito Municipal de Cachoeirinha, Esmar Santos. Atuação do Deputado Inocêncio Oliveira no exercício da Presidência dos trabalhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:792e84aba953fc5acbc0ac79fdb7f06ffbeca0f4ac2b9a5b9d3304ba1a427dd6
+size 384

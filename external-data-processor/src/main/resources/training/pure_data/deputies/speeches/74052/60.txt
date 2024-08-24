@@ -1,1 +1,3 @@
-Saudações às Parlamentares e às mulheres brasileiras, em especial às sergipanas. Pedido à Casa de aprovação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 4.251, de 2021, sobre a criação do Programa Nacional de Proteção e Apoio à Mulher Vítima de Violência Doméstica ou Familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46915833a2d671d2ffbfefe8d94726bfc214ba52cf7bc6ac360fc74b4fc206f7
+size 325

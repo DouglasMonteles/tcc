@@ -1,1 +1,3 @@
-Congratulações aos funcionários da PETROBRAS pelo resultado financeiro positivo e aumento da produção de petróleo. Reerguimento da indústria naval brasileira pelos Governos Luiz Inácio Lula da Silva e Dilma Rousseff. Homenagem ao ex-Presidente da PETROBRAS, José Eduardo Dutra, pela contribuição para o crescimento da estatal. Matéria Petrobras teve lucro de R$ 5,3 bilhões no 1º trimestre, publicada pelo Portal Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19d8fb616af67d3d57e599bcb55a106b66e5e8894e0204bf4fbc02e6fd3bab9c
+size 434

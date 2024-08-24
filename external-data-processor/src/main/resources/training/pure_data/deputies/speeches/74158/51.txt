@@ -1,1 +1,3 @@
-Comissão Geral para debate sobre a crise financeira dos Municípios brasileiros - SOS Municípios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ba12d6a25b6d93d1824b178cd1924f18278c6da4624cf7696e44ebfa1edea6b
+size 99

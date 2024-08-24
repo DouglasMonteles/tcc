@@ -1,1 +1,3 @@
-Alcance social do dispositivo sobre o acesso virtual a perícias médicas do INSS, inserido no texto da Medida Provisória nº 1.006, de 2020, acerca do aumento da margem de crédito consignado dos titulares de benefícios de aposentadoria e pensão, mantidos pelo Regime Geral de Previdência Social, durante a epidemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a481b96c1af8db3fe2146f4e6a0f25cd142a2a1e55e94955ae643525d1ca83fa
+size 337

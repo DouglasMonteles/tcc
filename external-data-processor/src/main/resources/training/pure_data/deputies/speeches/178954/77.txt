@@ -1,1 +1,3 @@
-Convite aos Deputados para o ato de lançamento da Frente Parlamentar em Defesa da Regularização Fundiária Rural no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e03126d4ded17e9caff26b82cb02ef3254ed5a232b3a268ef54b13d2930330d0
+size 126

@@ -1,1 +1,3 @@
-Avaliação negativa dos 100 primeiros dias do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb4c4f0d4bca0b36cca411f739c998d570ea8278be795ca8cd42438289eb9278
+size 70

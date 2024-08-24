@@ -1,1 +1,3 @@
-O Deputado anunciou sua nomeação como coordenador da Frente Parlamentar Mista em Defesa da Reforma Psiquiátrica e da Luta Antimanicomial. Ele expressou preocupação com a persistência de uma lógica manicomial no Brasil, destacando casos de abusos em comunidades terapêuticas e questionando o financiamento público para essas instituições. O Deputado prometeu trabalhar em prol da Rede de Atenção Psicossocial e do direito à saúde mental, com o apoio dos movimentos, familiares e usuários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1939c644a826e369f61283564b36f6b83987d294b99ec2097c3987eeed100477
+size 503

@@ -1,1 +1,3 @@
-Apoio à manifestação do fotojornalista Sebastião Salgado quanto à obrigação de empresa mineradora de reparação do meio ambiente e de indenização das vítimas de acidente ambiental decorrente do rompimento de barragem de rejeitos minerais no Município de Mariana, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd5e00ab1627adc09ab8104c5bcef00d48e85590ca3c40615ad3746a9a236d2b
+size 298

@@ -1,1 +1,3 @@
-Transcurso do 155º aniversário de criação do Município de Três Pontas, Estado de Minas Gerais. Endividamento do setor cafeeiro nacional. Imediata liberação, pelo Governo Federal, de recursos para a construção do Conservatório Municipal de Três Pontas. Apresentação de projeto de lei sobre a continuidade do pagamento do benefício do Bolsa Família durante os três primeiros meses de ingresso do beneficiário no mercado de trabalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b55c0d194025d2d6fa634bfd733b83d72609e3a52d8d11d9aaf52ac5ad91a184
+size 448

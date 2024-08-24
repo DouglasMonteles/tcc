@@ -1,1 +1,3 @@
-Retomada pelo Brasil do protagonismo na diplomacia internacional e na defesa do meio ambiente. Discussão do Projeto de Decreto Legislativo nº 1.101, de 2021, sobre a aprovação do texto do Acordo-Quadro entre o Governo da República Federativa do Brasil e o Governo do Reino de Marrocos Sobre Cooperação em Matéria de Defesa, celebrado em Brasília, em 13 de junho de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea8e7cc7108155245a8bde31098a3c354b5fc4107f79cb7884368c74dce048d1
+size 379

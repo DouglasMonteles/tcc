@@ -1,1 +1,3 @@
-O Deputado parabenizou sua cidade natal, Igarassu, Estado de Pernambuco, por completar 488 anos. Ressaltou que os padroeiros da municipalidade são os Santos Cosme e Damião e que Igarassu é a cidade mais antiga do Brasil e tem a igreja mais antiga em atividade no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71cd35b15114b63a8684606d2f21e5f0fd9861ec1554c476dedf8426bbc7cf92
+size 272

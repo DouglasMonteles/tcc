@@ -1,1 +1,3 @@
-Decisão da Presidência de abertura da Ordem do Dia para suspensão dos trabalhos na Comissão de Segurança Pública e Combate ao Crime Organizado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecd729a9aa709c661a0c3ac6a1effdd8ec3b4e83fa236ad434a60d35ace3ce91
+size 149

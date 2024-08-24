@@ -1,1 +1,3 @@
-Contrariedade ao aumento de impostos. Defesa de realização de auditoria das contas do Estado do Rio Grande do Sul. Importância do combate à sonegação fiscal e ao contrabando de mercadorias com vistas ao aumento da arrecadação tributária. Inconformismo com o aumento da dívida do Estado com a União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bd4939d0dc493a2650d25ed3d109a80f3141c6b94f5d710d0dedf1abb90cfff
+size 309

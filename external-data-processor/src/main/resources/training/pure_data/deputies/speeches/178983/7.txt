@@ -1,1 +1,3 @@
-Posse da nova diretoria do Partido da República - PR nos Municípios de Potim e Cunha, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d507076a2282f5be5307f26ef0440cb3548145fc6ba2e45d23f7da0ecdddd291
+size 109

@@ -1,1 +1,3 @@
-Posicionamento contrário da Minoria  à Medida Provisória 402 de 2007 (Abre crédito extraordinário em favor de diversos órgãos do Poder Executivo, para os fins que especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:603dca4c98b1584e61d0f5227a00e7dbcb1ea5f1942e8b320e3f230153cd96f9
+size 182

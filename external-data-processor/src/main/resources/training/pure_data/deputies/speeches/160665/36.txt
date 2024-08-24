@@ -1,1 +1,3 @@
-Críticas à Proposta de Emenda à Constituição nº 5, de 2011, sobre equiparação dos subsídios do Presidente e do Vice-Presidente da República, dos Ministros de Estado, dos Senadores e dos Deputados Federais aos dos Ministros do Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03b17b99398edc915df622bf070efe74fe0b9db29b411639d48337bb67f06083
+size 261

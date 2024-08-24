@@ -1,1 +1,3 @@
-Apoio à pré-candidatura do Prefeito Municipal de Aparecida de Goiânia, Gustavo Mendanha, ao Governo do Estado de Goiás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3acac3fe0b9cb4dcedce9fe7257f7c40331415d453149371ef14ff47def63e2d
+size 123

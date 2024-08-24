@@ -1,1 +1,3 @@
-Presença na Casa do Prefeito Municipal de Itanhaém, Estado de São Paulo, Marco Aurélio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:245b14db8fee53a95a5cdc75043285563186ae0ba41ffaf7232e1d964f05a859
+size 91

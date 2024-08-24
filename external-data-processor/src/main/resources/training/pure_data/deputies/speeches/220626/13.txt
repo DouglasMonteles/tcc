@@ -1,1 +1,3 @@
-O Deputado registrou a presença no plenário dos Deputados Estaduais Dr. Paulo, Alberto Pinto Coelho (Betinho) e Rodrigo Lopes, da Assembleia Legislativa de Minas Gerais. Também mencionou a visita do Prefeito Rogilson Nogueira, do Município de Consolação, destacando a importância de unir esforços para elevar o Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2f7ff203e02bb50bb4fcf0dfc47d75899f3df0aeff24861e778b02e7cdd51e7
+size 326

@@ -1,1 +1,3 @@
-Precariedade dos serviços prestados pela rede pública de saúde do Estado da Paraíba. Apelo ao Governo Estadual para adoção de providências acerca do fechamento de centros de hemodiálise nos Municípios de Guarabira e Patos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0ba1d200a68b3c0d4ade76ffd3ebe19e3575eaad644c4061dafe1fdceda1276
+size 231

@@ -1,1 +1,3 @@
-Desafios impostos à educação brasileira. Indefinição das metas do Ministério da Educação. Improdutividade dos 100 primeiros dias do Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:064fd8f1f093b97fd366adeadc317740b8de69d2f5e98941c655e2eeaf65a575
+size 163

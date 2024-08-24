@@ -1,1 +1,3 @@
-Defesa de manutenção do Veto Parcial nº 17, de 2020, aposto ao Projeto de Lei  Projeto de Lei Complementar nº 39, de 2020, sobre o estabelecimento do Programa Federativo de Enfrentamento ao Coronavírus, e alteração da Lei Complementar nº 101, de 2000, (progressão funcional e reajuste salarial de servidores públicos).
+version https://git-lfs.github.com/spec/v1
+oid sha256:c29d0f07d3b54e1747d79f591ac40b8ec483b32f105895910a6ef46f3dea9737
+size 328

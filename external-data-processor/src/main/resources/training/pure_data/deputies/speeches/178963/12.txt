@@ -1,1 +1,3 @@
-Perplexidade com cortes do Governo Federal para a área da educação. Apoio à redução da maioridade penal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f323f71bd7ce4a8dbae59ed3093edb543b781d0df31216bd6b45caff2b7c450
+size 110

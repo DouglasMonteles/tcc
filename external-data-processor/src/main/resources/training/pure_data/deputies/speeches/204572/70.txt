@@ -1,1 +1,3 @@
-Defesa de votação da Proposta de Emenda à Constituição nº 372, de 2017, sobre a criação das polícias penais federal, estaduais e distrital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79153726cc89ee49df214ce9a289ab137f61faa7dbddac2ea097be06b5705ebc
+size 148

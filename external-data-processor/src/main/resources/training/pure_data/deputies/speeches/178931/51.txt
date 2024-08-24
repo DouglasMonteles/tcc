@@ -1,1 +1,3 @@
-Destaque ao posicionamento do Presidente Nacional do Partido da República, Carlos Siqueira, em defesa do impeachment como ferramenta democrática e constitucional. Críticas à Presidente da República, Dilma Rousseff, ante a concessão de entrevistas à imprensa internacional sobre ilegitimidade do processo de impeachment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbc10ec98d733141e438f76cb9f59d2cd13f6d988bf5cfae0a2eeedac2721cb1
+size 326

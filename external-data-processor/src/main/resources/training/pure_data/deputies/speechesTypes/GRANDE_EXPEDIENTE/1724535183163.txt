@@ -1,1 +1,3 @@
-Apelo ao Senado Federal de reativação do Conselho de Comunicação Social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a10c6eabd583c91d3e5ecdff59afc5659da563d50f026d6dbc4d307b05682805
+size 76

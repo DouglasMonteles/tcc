@@ -1,1 +1,3 @@
-Realização do Seminário Estadual de Reformulação do Ensino Médio, em Natal, Rio Grande do Norte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cc38b9f3322d3375b7815402881f5a46bc9cda6db2fc60e24bde9e016601f98
+size 102

@@ -1,1 +1,3 @@
-Crescimento do Produto Interno Bruto - PIB brasileiro. Acerto da política econômica brasileira. Desenvolvimento econômico do Estado do Ceará. Transcurso do 65º aniversário de criação do Bairro Monte Castelo, em Fortaleza. Reivindicações dos moradores do bairro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f5ff4ac5463bc36b4041c7be9ae864d6cdc271bc5ca9ee4b532f5f7b71c315a
+size 271

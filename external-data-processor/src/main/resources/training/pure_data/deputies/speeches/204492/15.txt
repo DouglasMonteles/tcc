@@ -1,1 +1,3 @@
-Excelência da gestão do ex-Presidente Luiz Inácio Lula da Silva. Repúdio à atuação do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31174b07e8d2a2d5ddd25abeb0133b041396d41ec2f59a9d734c81d13be0614e
+size 119

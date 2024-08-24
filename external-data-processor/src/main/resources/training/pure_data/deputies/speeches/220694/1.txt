@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Município de Ribeira do Pombal pela assunção do mandato parlamentar. Pedido ao Ministro da Educação, Camilo Santana, de criação de nova universidade federal no Estado da Bahia. Pavimentação asfáltica da BR-116. Discussão da saúde pública municipal. Revisão do teto do Piso da Atenção Básica - PAB e de Média e Alta Complexidade - MAC.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a16fa50a24af0333bc86e08b4c66878086819cf53adeb64d89f94ba82211391
+size 383

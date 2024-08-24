@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado do Estado de Minas Gerais pela eleição do orador. Realização das reformas política e tributária. Necessidade de regulamentação da Emenda Constitucional nº 29, de 2000, sobre a destinação de recursos para a saúde pública. Importância de aprovação da Proposta de Emenda à Constituição nº 300, de 2008, a respeito da criação do piso salarial nacional de policiais e bombeiros militares. Apoio à decisão da Presidenta Dilma Rousseff de distribuição de medicamentos aos portadores de hipertensão e diabetes, por meio do Programa Aqui Tem Farmácia Popular. Comprometimento do PSDB com as áreas de saúde, educação e segurança pública. Expectativa de aprovação pela Casa da proposta de reformulação do Código Florestal Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf4645ca6bc9e9e697f7ad595b289b9bf13f2e389ece4ceb273ed6f637ae08e0
+size 789

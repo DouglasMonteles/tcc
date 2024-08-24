@@ -1,1 +1,3 @@
-Saudações aos Prefeitos Municipais e Vereadores do Estado do Maranhão, participantes na 24ª Marcha a Brasília em Defesa dos Municípios sob o tema Pacto Federativo: um olhar para o futuro. Agradecimento ao Governador Carlos Brandão pela distribuição de cestas básicas aos desabrigados pelas chuvas. Contentamento com o retorno do ex-Presidente Jair Bolsonaro ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78d4fb164e1da88d84f77b1f08c03b24b509d3f45998f389ac85292f6d360e68
+size 378

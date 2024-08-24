@@ -1,1 +1,3 @@
-Reunião das bancadas federais cearense e piauiense com os Governadores dos respectivos Estados, para debate da construção do trecho da Ferrovia Transnordestina entre o Município de Eliseu Martins e o Porto de Pecém. Fortalecimento das relações do Conselho Federal de Engenharia e Agronomia - CONFEA com o Parlamento brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4bbf1efeb495687d947b12a4a04097d2e5843ea9606c0c20692da91da3989f2
+size 334

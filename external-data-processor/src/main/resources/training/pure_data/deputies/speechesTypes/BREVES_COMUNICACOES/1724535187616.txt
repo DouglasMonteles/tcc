@@ -1,1 +1,3 @@
-Relato de concessão de audiência ao orador pelo Ministro de Minas e Energia, Fernando Coelho Filho, destinado ao debate sobre a liberação de leilão para investimentos em geração de energia no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e469dff155fbeda7696bf0dc1abfb865a8a9714e60ea64a97692784dfd28f3e
+size 222

@@ -1,1 +1,3 @@
-Anúncio de realização, pela Comissão de Meio Ambiente e Desenvolvimento Sustentável, de audiência pública destinada ao debate da área de energia nuclear, com a participação do Presidente da empresa ELETROBRAS Eletronuclear, Almirante Othon Luiz Pinheiro da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9daace33543e48217719e5dc6894aa8e98d284735fdd992c1946704b7dd135bb
+size 273

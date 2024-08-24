@@ -1,1 +1,3 @@
-Repúdio aos ataques ao Deputado Nikolas Ferreira em face do discurso proferido no plenário, a respeito da perda das mulheres diante do transexualismo. Indignação do orador com a situação de mulheres presas ao arrepio da lei e de preceitos constitucionais, acusadas de participação em atos de vandalismo no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5c842dc3d5b139e96b27164e64bbf0fd5e2f79f1be300089e686a39793d8710
+size 331

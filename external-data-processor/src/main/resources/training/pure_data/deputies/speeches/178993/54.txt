@@ -1,1 +1,3 @@
-Solicitação à Casa de apoio a projeto de lei que institui o Fundo do Apostador. Esclarecimentos sobre a destinação de recursos do fundo à área da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9159b4a722ee2bb812982560c2c2c6e1b3f7052ffd6dda894de5d9fe14539e10
+size 160

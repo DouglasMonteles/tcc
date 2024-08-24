@@ -1,1 +1,3 @@
-Leitura de Atos da Presidência sobre a criação de Comissões Especiais destinadas ao exame do Projeto de Lei nº 16, de 1999, e ao Projeto de Lei Complementar nº 72, de 1999.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd649e0e23bc1dcaa3d081fb4e4ee8715e12ae38af3e227bb8eb532a43e8f9ae
+size 178

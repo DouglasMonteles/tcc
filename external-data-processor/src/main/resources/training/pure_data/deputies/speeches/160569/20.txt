@@ -1,1 +1,3 @@
-Encaminhamento de indicações ao Ministério da Educação para instalação de unidades do Instituto Federal de Educação, Ciência e Tecnologia - IFET nos Municípios de Brumado e Caetité, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:388eae2b77378efeedad70a6e377ee8b12da1599af653bc9558527a072357412
+size 210

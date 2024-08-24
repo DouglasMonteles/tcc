@@ -1,1 +1,3 @@
-Presença nas galerias dos alunos da escola Educação do Serviço Social do Comércio - EDUSESC, da Região Administrativa de Taguatinga, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff2f37e445d9535219b17440e8a0b49942b5813eff0cc9948c387440144872d5
+size 156

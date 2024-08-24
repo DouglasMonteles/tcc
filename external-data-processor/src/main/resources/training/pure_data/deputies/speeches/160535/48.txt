@@ -1,1 +1,3 @@
-Protesto contra o contingenciamento de recursos de emendas orçamentárias de parlamentar. Necessidade de apreciação da proposta de emenda à Constituição sobre a obrigatoriedade de execução dos créditos constantes de emendas orçamentárias de parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d7754c8d7d38fb655ca71043882df23f52a405a3066ccd0b8269f6059ab490a
+size 264

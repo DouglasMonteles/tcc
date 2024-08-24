@@ -1,1 +1,3 @@
-Visita do Ministro do Desenvolvimento, Indústria e Comércio Exterior, Armando Monteiro, a Buenos Aires, para debate sobre o livre comércio entre o Brasil e a Argentina no setor automotivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afe296934d1af62f7eeb1246ddc3d54b1659e0c4b0f63eabbb127a2655d2ab5f
+size 191

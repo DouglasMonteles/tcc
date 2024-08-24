@@ -1,1 +1,3 @@
-Transcurso do 70º aniversário do Hospital da Providência de Apucarana, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:976ea0ea18a2f3ec65b2a8858547ca92c2fdfa6881b660df5db1b080792e3218
+size 92

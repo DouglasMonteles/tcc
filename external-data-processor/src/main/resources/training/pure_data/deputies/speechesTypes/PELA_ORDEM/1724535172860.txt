@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado da Paraíba pela eleição do orador. Defesa de criação da Universidade do Sertão e do Hospital de Traumas do Sertão, na Paraíba. Implementação de políticas públicas de combate às drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1804556f49fc344e67ad6a6d6cc31829aa52427c928a3908c5a60214629fe8a6
+size 235

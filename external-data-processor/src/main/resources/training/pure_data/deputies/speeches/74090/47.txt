@@ -1,1 +1,3 @@
-Aprovação pela Casa da proposta de recomposição numérica das Câmaras Municipais brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2978af0a2e671632eb85350ebf99a58a1e911d45d233ac7d4e7ece875ce9522
+size 98

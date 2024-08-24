@@ -1,1 +1,3 @@
-Redução de tarifas de energia elétrica no Município de Colatina, Estado do Espírito Santo. Definição pela Agência Nacional de Energia Elétrica - ANEEL de novo modelo de consórcio para as empresas do setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d45951ee91c2813e91be9ddc1e1adba397f6fcdda08f376b86a2820b1f917e11
+size 215

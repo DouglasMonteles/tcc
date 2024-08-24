@@ -1,1 +1,3 @@
-Posicionamento favorável do PR  à Emenda Aglutinativa 2 ao  Substitutivo ao Projeto de Lei 5.941 de 2009 (Autoriza a União a ceder onerosamente à Petróleo Brasileiro S.A - PETROBRAS o exercício das atividades de pesquisa e lavra de petróleo, de gás natural e de outros hidrocarbonetos fluidos de que trata o inciso I do art. 177 da Constituição, e dá outras providências),  que trata da    aplicação dos recursos das contas vinculadas ao FGTS na aquisição de ações decorrentes do aumento de capital da PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da387575a9eafcb7276319af73faf9bd49ab6c3150647e06adec9ca957a7f33e
+size 530

@@ -1,1 +1,3 @@
-Expectativa quanto ao desenvolvimento econômico do País, especialmente da Região Nordeste. Realização de estudos sobre implantação de usinas geradoras de energia limpa e de baixo impacto ambiental na região do Vale do São Francisco. Investimentos do Governo Federal em geração de energia eólica e nuclear.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af9d0ebc83300ba0b8ffe3ff1a64851755303c677e8b1f941f79a54bb87b1e79
+size 317

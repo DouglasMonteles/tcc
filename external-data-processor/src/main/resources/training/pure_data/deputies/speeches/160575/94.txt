@@ -1,1 +1,3 @@
-Protesto contra a demolição do terreiro de umbanda Zélio de Moraes, no Município de São Gonçalo, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf85de60c37ab2eca353feafbcbcf3fb28d5cf4f9f1d343cb273c9b3e838abc3
+size 128

@@ -1,1 +1,3 @@
-Anúncio de apresentação de projeto de lei complementar sobre a exclusão de despesas com pessoal do Programa Saúde da Família dos limites estabelecidos pela Lei de Responsabilidade Fiscal. Instalação de novas unidades do Instituto Federal de Educação, Ciência e Tecnologia - IFET no Estado do Espírito Santo. Greve de professores dos IFETs no País. Solicitação ao Governo Federal de abertura de negociações com a categoria em greve.
+version https://git-lfs.github.com/spec/v1
+oid sha256:509a4c53b10cf5cc8db19fc9a3589f85d9c558f21bc01812678bdd553eefa2dc
+size 448

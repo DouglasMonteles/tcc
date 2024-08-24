@@ -1,1 +1,3 @@
-Necrológio do radialista Rui Alves de Araújo, conhecido como Rui Pimentel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b42d99af811bf3f9640ecb505f7929344ef7614063c6d323faaa94adcc8d87e7
+size 76

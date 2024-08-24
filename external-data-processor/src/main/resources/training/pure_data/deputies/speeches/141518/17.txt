@@ -1,1 +1,3 @@
-Solicitação à Presidência de encaminhamento, à Corregedoria da Casa, das notas taquigráficas do discurso do Deputado Fernando Chiarelli para investigação de denúncias apresentadas pelo Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9598c6013614edbc3459643bbd2079f7186c6c4e45b79578bd01f1c2dc024db
+size 206

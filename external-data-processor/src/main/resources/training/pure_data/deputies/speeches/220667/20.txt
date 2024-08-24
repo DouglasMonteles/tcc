@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de urgência para apreciação do Projeto de Lei nº 5.230, de 2023, que redefine a Política Nacional de Ensino Médio no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ababf9981b5c15556f8350873ace444301ad8e1f8cb7cfe5c96cc1167573e088
+size 189

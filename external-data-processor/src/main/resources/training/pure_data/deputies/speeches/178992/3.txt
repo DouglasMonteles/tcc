@@ -1,1 +1,3 @@
-Críticas ao PT pela corrupção e incompetência da gestão do País. Repúdio à corrupção na PETROBRAS. Inconformismo com o apoio do PT a proposição em prejuízo aos direitos dos trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da3e9d6bcda528c25b13f444805e05e138fe2a0e059ecd2395b4e10c0d7f6933
+size 200

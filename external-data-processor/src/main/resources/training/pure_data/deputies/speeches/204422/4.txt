@@ -1,1 +1,3 @@
-Transcurso do Dia da Conscientização da Violência Contra a Pessoa Idosa. Apoio à campanha Junho Violeta, destinada ao combate à violência contra os idosos. Repúdio aos comentários preconceituosos e à violência física e psicológica praticada contra as pessoas da terceira idade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d84a97823708369120a8ef3c7407858bf78519d39755cb8702e2f675aec13b1
+size 289

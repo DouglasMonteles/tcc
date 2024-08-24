@@ -1,1 +1,3 @@
-Encaminhamento da votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 3, de 2023, sobre a criação do Protocolo Não é Não, destinado ao atendimento à mulher vítima de violência sexual ou assédio em discotecas, estabelecimentos noturnos, eventos festivos, bares, restaurantes ou qualquer outro local de grande circulação de pessoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48ac02f84f6264da6d0797881d7b6f67d502fc5aa75850899dbdba81275078f6
+size 376

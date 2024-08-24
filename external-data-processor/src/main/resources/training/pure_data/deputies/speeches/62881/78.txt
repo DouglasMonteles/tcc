@@ -1,1 +1,3 @@
-Justificativa do voto do orador a favor do projeto de lei, oriundo do Senado Federal, acerca da distribuição de royalties de petróleo aos Estados e Municípios brasileiros. Razões da mobilização de Prefeitos Municipais e Vereadores, em Brasília, Distrito Federal. Efeitos da estiagem sobre Municípios do Estado do Ceará. Liberação pela Presidenta Dilma Rousseff de recursos para a realização de obras de combate à seca na Região Nordeste, especialmente no Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:031a34531983a66e049de2a2381b9819b5b3df61d5c2de81b6742ddb94ac11de
+size 478

@@ -1,1 +1,3 @@
-União entre os poderes constituídos e a sociedade civil organizada em prol da segurança das crianças e adolescentes no ambiente escolar. Dever inalienável dos pais de proteção dos seus filhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fe2d20b7ebc3ddbdc3cb5041a1165d4065ffb994bf4e76e83243c0791629f2b
+size 199

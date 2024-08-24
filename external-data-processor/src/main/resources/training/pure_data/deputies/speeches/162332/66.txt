@@ -1,1 +1,3 @@
-Transcurso da Semana da Pátria. Exortação à juventude brasileira para as comemorações cívicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:543fec14763c50bb09ca449187228b5c3f4f6cf0cbf625ca2f874faaf5dfed8f
+size 101

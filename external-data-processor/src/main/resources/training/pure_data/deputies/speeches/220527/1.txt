@@ -1,1 +1,3 @@
-Principais realizações do Governo Luiz Inácio Lula da Silva nos primeiros 37 dias de gestão. Saudações à militância petista pelo transcurso dos 43 anos de fundação do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1621e2c3067809dd99713db8f63de0543e43bf9b824068db4ba29f404283c4b
+size 180

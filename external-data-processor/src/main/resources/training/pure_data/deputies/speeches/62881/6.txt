@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial dos Direitos do Consumidor. Defesa de devolução aos consumidores brasileiros de valores cobrados a maior em tarifas de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6833e21427abb7c75db45ef0d97de5dd020b142cb884a3ec5c33e5ab99c7eeef
+size 165

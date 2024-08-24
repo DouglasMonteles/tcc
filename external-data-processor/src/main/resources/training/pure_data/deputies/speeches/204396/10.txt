@@ -1,1 +1,3 @@
-Congratulações à Deputada Flordelis pela realização, nas dependências da Caas, de debate sobre a adoção no País. Orientação de bancada na votação do requerimento de retirada de pauta da Medida Provisória nº 863, de 2018, sobre a abertura do setor aéreo ao capital estrangeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90c304cdc30b1495e407a684ac139e3019a501d478a0fb455d90732d4b9e7076
+size 292

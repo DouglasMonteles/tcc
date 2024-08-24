@@ -1,1 +1,3 @@
-Importância do reconhecimento internacional da qualidade do rebanho brasileiro. Recuperação das exportações de carne brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cebed613d1774043461838c888e0a5eee2e7d7b679dbbb16a486d14e103a037
+size 133

@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Decreto Legislativo nº 569, de 2020, (Mensagem nº 77, de 2020), acerca da aprovação do texto do Acordo sobre Serviços Aéreos entre a República Federativa do Brasil e o Reino dos Paises Baixos, com relação a Sint Maarten, assinado em Brasília, em 8 de julho de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e05aec924052f862046aab7d53669d14f8ec0e95ac81f14336670a119d3c580
+size 309

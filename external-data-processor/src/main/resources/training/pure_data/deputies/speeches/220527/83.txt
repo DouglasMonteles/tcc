@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento que solicita o adiamento, por uma sessão, da votação do Projeto de lei nº 3.780, de 2023, que altera o Decreto-Lei nº 2.848, de 07 de dezembro de 1940 – Código Penal, para aumentar as penas cominadas aos crimes de furto e roubo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e884e7d2f4a12c149e590157000eefcf57196f7fd742699888ac17efcef423d4
+size 295

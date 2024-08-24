@@ -1,1 +1,3 @@
-Intenção de encaminhamento de reclamação ao Supremo Tribunal Federal para manutenção das investigações contra o ex-Presidente da República Luiz Inácio Lula da Silva no âmbito da Operação Lava-Jato da Polícia Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67327cbf613aa472f188daa7b12307a1cf948c086f590e4c70cb1c0b869769b6
+size 230

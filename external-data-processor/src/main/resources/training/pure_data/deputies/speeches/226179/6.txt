@@ -1,1 +1,3 @@
-A Deputada destacou a importância da vacinação, especialmente a campanha de multivacinação que acontecerá em setembro no Brasil. Ressaltou a necessidade de aumentar a cobertura vacinal, mencionando a vacina contra a poliomielite, que teve apenas 77% de adesão em 2022, enquanto a meta era de 95%. A Parlamentar convocou seus colegas do Rotary Club e todos os responsáveis por crianças a se unirem para promover a campanha de vacinação, enfatizando que a vacina é essencial para prevenir doenças e proteger a saúde pública. Além disso, alertou sobre casos de poliomielite detectados na fronteira com o Peru, destacando a importância da ação conjunta para evitar o ressurgimento de doenças erradicadas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c28670b20297e04f6225231f7057859730d413d3ec31fe0a66b758d69c29b8e2
+size 720

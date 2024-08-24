@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional para Eliminação da Violência contra as Mulheres. Reunião de Deputados da bancada fluminense na Câmara dos Deputados com o Ministro da Saúde, Ricardo Barros, para solicitação de destinação de recursos para o setor de saúde naquele no Estado do Rio de Janeiro. Divulgação de pesquisa do Instituto Brasileiro de Geografia e Estatística - IBGE sobre índices educacionais no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37fb3966a92f3e9484aa809f3300dcf3233bc3cf8ead948ef8636fb2c98221e2
+size 423

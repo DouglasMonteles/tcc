@@ -1,1 +1,3 @@
-Acompanhamento pelo orador de políticas públicas implantadas no Estado do Ceará. Balanço das ações do Ministério do Desenvolvimento Social e Combate à Fome na Região Nordeste em 2007, especialmente no Estado do Ceará. Saudação ao Ministro Patrus Ananias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:807a0fa52a24d5d0a80f891cf0d23839ae8edf6a8e178912a09f9dde904ff2e4
+size 266

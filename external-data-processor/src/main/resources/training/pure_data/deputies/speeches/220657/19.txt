@@ -1,1 +1,3 @@
-Envolvimento de Ministra de Estado do Governo Luiz Inácio Lula da Silva com milicianos. Aliciamento de Parlamentares, pelo Presidente da República, para retirada de assinaturas do requerimento de criação da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República. Imediata instalação do órgão pelo Presidente do Congresso Nacional, Senador Rodrigo Pacheco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:accdc5f52cdc445a33cde9614309654b75e61ab19337265ab8baee096f8ce776
+size 420

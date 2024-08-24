@@ -1,1 +1,3 @@
-Seminário da Comissão Especial da Destinação de Recursos da CIDE na Assembleia Legislativa do Estado de São Paulo com vistas a debate sobre financiamento da tarifa do transporte público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a13e004a0bd0ddc0fb268899c632b6f3186028cf62d00645b30bb89e4afa833
+size 192

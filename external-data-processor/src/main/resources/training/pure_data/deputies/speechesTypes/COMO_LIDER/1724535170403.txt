@@ -1,1 +1,3 @@
-Urgente necessidade de aprovação da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f604713ca5c23cf24889ee5a33bd760b8840720e33e2ea6acbfc1f2f55884379
+size 134

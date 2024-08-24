@@ -1,1 +1,3 @@
-Saudação a alunos do ensino fundamental da Escola Classe 2 da Região Administrativa da Candangolândia, no Distrito Federal, presentes nas galerias do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df35d933c317a6b9d0b78ca836d8a403441026a29bd00053c4218895ce742780
+size 164

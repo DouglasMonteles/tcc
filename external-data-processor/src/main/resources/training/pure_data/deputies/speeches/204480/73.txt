@@ -1,1 +1,3 @@
-Envolvimento do agronegócio com incêndios criminosos na Amazônia. Expectativa de investigação do caso pela Procuradora-Geral da República, Raquel Dodge. Críticas ao Ministro da Justiça e Segurança Pública, Sérgio Moro, pela não convocação da Força Nacional de Segurança Pública para combate aos incêndios na região amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e77813048404ada712c0527ecd6382e4969a929681f0e37b4aa63bc4f631584
+size 345

@@ -1,1 +1,3 @@
-Presença do orador em reunião com membros da Comissão do Pacto Federativo e Prefeitos presentes em Brasília, Distrito Federal. Apoio à realização de reforma sobre o pacto federativo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03efd54beeb77faa3e53401936433120128f5f23098521174bb363989a23920d
+size 189

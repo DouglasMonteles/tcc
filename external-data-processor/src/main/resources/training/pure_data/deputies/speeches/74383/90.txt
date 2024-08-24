@@ -1,1 +1,3 @@
-Informação sobre o registro automático de presença na sessão dos Deputados que fizerem uso da palavra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e27f598b67cdb8fc597f0ef67e95d6dacc84d7b942ca785d98a749a9f1f0aded
+size 107

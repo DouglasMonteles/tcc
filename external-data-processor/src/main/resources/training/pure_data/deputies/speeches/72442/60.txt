@@ -1,1 +1,3 @@
-Saudação ao Deputado João H. Campos ao ensejo da sua despedida da Câmara dos Deputados, em face da sua eleição para o cargo de Prefeito Municipal de Recife, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2692d1aded65247b26063576e2a2e3c828873e7d47ebefe72e65b82485d18db1
+size 184

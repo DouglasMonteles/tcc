@@ -1,1 +1,3 @@
-Transcurso do 6º aniversário de criação do Projeto Saravida Sociedade Assistencial, destinado ao tratamento de dependentes químicos no Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edaa0a51be87c2fa9814c2600fdc794e24e361241e6839704813426ac193405c
+size 161

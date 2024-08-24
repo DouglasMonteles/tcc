@@ -1,1 +1,3 @@
-Repúdio à declaração do Governador do Estado Rio de Janeiro, Wilson Witzel, a respeito do assassinato de trabalhador por guarnição do Exército brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94891c22efb06647b38a20b9b8d241f0287ccf9a2c7eeb08ccb32b342c6474fb
+size 161

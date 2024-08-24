@@ -1,1 +1,3 @@
-Congratulações ao Deputado Eduardo da Fonte pela atuação na CPI destinada à investigação de reajustes nas tarifas de energia elétrica. Atuação do Ministério da Educação no combate ao analfabetismo e na expansão do ensino superior. Elogio ao Secretário-Executivo da Pasta, José Henrique Paim Fernandes. Importância do Programa Pró-jovem Trabalhador, do Ministério do Trabalho e Emprego, para a qualificação profissional  da juventude. Prisão de quadrilha acusada de exploração da mão-de-obra infantil no Estado da Paraíba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d90404988dfda3048c8291a996e99db29bdf1103b2ed67e2ef2ffc2eae54a08
+size 547

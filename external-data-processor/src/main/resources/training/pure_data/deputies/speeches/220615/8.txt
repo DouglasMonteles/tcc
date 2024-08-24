@@ -1,1 +1,3 @@
-Repúdio à visão elitista, preconceituosa e racista de Deputados bolsonaristas em relação ao Complexo da Maré, no Rio de Janeiro, Estado do Rio de Janeiro. Visita do Ministro da Justiça e Segurança Pública, Flávio Dino, à localidade. Comparecimento do Ministro da Justiça à Comissão de Constituição e Justiça e de Cidadania.
+version https://git-lfs.github.com/spec/v1
+oid sha256:728fa5d39e1846870ed6c86cbcf32bc940709a1c58e19871c2fde674a15bff61
+size 340

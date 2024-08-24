@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de quebra do interstício de 5 sessões para apreciação, em segundo turno, da Proposta de Emenda à Constituição nº 397, de 2017, relativa à convalidação de atos administrativos praticados no Estado do Tocantins entre 1º de janeiro de 1989 e 31 de dezembro de 1994. Determinação, pela CPI da Covid, da prisão de suspeito de fraude na compra de vacinas contra o coronavírus. Importância da celeridade na vacinação do povo brasileiro contra a Covid-19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ff616a1884e5d746e8afafa0e804116ab7cbde531cee46e36b264d79e88a836
+size 519

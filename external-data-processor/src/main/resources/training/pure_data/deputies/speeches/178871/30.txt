@@ -1,1 +1,3 @@
-Orientação de bancada do PV de voto contrário ao requerimento de retirada de pauta o Projeto de Lei nº 4.850-A, de 2016, que estabelece medidas contra a corrupção e demais crimes contra o patrimônio público e combate o enriquecimento ilícito de agentes públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd23688c3da0415fcf62be7c8eb2acf17be2c89342378fe992bbdace4321e72e
+size 272

@@ -1,1 +1,3 @@
-Transcurso do 1º ano de prisão do ex-Presidente Luiz Inácio Lula da Silva. Perseguição da Justiça contra o ex-Presidente da República. Denúncia de crimes cometidos pelo Ministro da Justiça e Segurança Pública, Sérgio Moro, e pelo Procurador da República Deltan Dallagnol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb90ce2de12fa4d9482ff0657e57bb97464753d500890890753bfb82ffd7bbfc
+size 284

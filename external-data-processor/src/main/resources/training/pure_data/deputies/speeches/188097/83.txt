@@ -1,1 +1,3 @@
-Perplexidade ante a realização de novo corte nas dotações orçamentárias do Ministério da Educação. Reflexos da redução dos recursos da Pasta sobre o Instituto Federal de Educação, Ciência e Tecnologia e a Universidade Federal do Piauí - UFPI. Defesa de retomada dos investimentos na área educacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35cbeef70dcbed0e0343d6461178898bee4fc0b654779484b42248d06e9386a6
+size 316

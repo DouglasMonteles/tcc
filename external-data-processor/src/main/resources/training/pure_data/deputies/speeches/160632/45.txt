@@ -1,1 +1,3 @@
-Congratulações à Presidenta Dilma Rousseff pela decisão de criação de entidade nacional destinada à coordenação do serviço de assistência técnica e extensão rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e89647fac71b06d9cc4ee14c1cabfdb8ec86fc033de11d1e07fc0f43b6ef134
+size 176

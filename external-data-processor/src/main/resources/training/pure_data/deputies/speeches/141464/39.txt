@@ -1,1 +1,3 @@
-Protesto contra críticas à atuação da Fundação Nacional de Saúde - FUNASA na área de saneamento básico. Desempenho do Presidente da FUNASA, Danilo Bastos Forte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b792b088b2840a36e716233a0a7d1e81deddd3bdf7f2b6b37996da3b7c39a8f4
+size 169

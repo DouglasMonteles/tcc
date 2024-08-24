@@ -1,1 +1,3 @@
-Falecimento do Pastor Joel Holder, patriarca da Igreja Evangélica Assembleia de Deus, em Porto Velho, Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f6df1e18969e7ae296d2d19a364407008bcfcb9cc3181de9656ccb4d4dafdfd
+size 123

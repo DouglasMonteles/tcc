@@ -1,1 +1,3 @@
-Crítica aos Governos do Partido dos Trabalhadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:350bebadae5ca8a26116cc8ab326dad8e7d317fbf4c49742d2028e576c6ceb01
+size 51

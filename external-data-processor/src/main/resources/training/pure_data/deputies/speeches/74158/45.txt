@@ -1,1 +1,3 @@
-Contestação ao discurso do Deputado Giovani Cherini a respeito do Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ecfb136bdd381d9978fbfe4c20e3cbff87be4eff129cfd21796bea608410549
+size 91

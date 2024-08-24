@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM  ao parecer pela admissibilidade da Medida Provisória 525 de 2011 (Altera a Lei 8.745 de 1993, no tocante à contratação de professores).
+version https://git-lfs.github.com/spec/v1
+oid sha256:75ca14a973a568ba4f64013f196b5df6044475872222ad0f34c5f42dba835b2d
+size 173

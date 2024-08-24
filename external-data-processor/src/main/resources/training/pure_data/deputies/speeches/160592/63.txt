@@ -1,1 +1,3 @@
-Realização de evento do Fórum Sindical Sul, em defesa do segmento têxtil, de confecção, couro e calçadista, no Município de Cianorte, Estado do Paraná. Início das atividades da Frente Parlamentar Mista José Alencar para o Desenvolvimento da Indústria Têxtil e da Confecção do Brasil. Importância do setor para a geração de empregos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02149538dafef3136f6c84ff9e7490c882612a564629f2bcc841b89eefa09f14
+size 359

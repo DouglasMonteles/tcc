@@ -1,1 +1,3 @@
-A Deputada abordou sobre a campanha Agosto Lilás, dedicada à conscientização sobre o combate à violência contra a mulher. Também se manifestou sobre os 17 anos de vigência da Lei Maria da Penha, que coíbe atos de violência doméstica contra a mulher. Ressaltou a importância de transformar essa conscientização em ações concretas, garantindo que as leis protejam todas as vítimas e que as políticas públicas promovam a igualdade de gênero. Reafirmou o compromisso de lutar pela dignidade e pelos direitos das mulheres, visando um futuro sem medo, violência e com igualdade de oportunidades. Para finalizar, conclamou todos a se tornarem agentes reais de mudanças nessa causa vital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:056e1f246da6b83168f3e13bc47a0f68db02aaca4efeb3d7efda90146d7e9157
+size 702

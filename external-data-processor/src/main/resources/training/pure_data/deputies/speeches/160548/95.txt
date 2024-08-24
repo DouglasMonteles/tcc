@@ -1,1 +1,3 @@
-Apoio à proibição do acréscimo de aromatizantes aos cigarros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55b07392d7720280e10cde172f5f73e057865857aa36d8daa230df994a591565
+size 65

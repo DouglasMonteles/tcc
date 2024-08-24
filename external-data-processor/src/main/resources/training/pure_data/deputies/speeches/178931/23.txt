@@ -1,1 +1,3 @@
-Discussão da Proposta de Emenda à Constituição nº 454, de 2009, sobre a organização da carreira única de Médico de Estado, durante o II Encontro Nacional dos Conselhos de Medicina, realizado em Maceió, Estado de Alagoas. Defesa de rapidez na apreciação e na aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ffac6b82d000a0ce88b9aeb489d2587e5cd14648344dcd83df2d476b75a3ab7
+size 294

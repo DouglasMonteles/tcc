@@ -1,1 +1,3 @@
-Realização, nas dependências da Casa, de seminário sobre a situação de quilombolas no País. Titulação de terras ocupadas por remanescentes de quilombos. Metas do Programa Brasil Quilombola. Solidariedade às comunidades quilombolas e suas lideranças.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc86300f3bc73bca318fe19be7bb03c72645a880a0f1fef481034071c5fd865e
+size 260

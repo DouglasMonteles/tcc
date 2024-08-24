@@ -1,1 +1,3 @@
-Apelo à Defesa Civil de adoção de medidas emergenciais para mitigação dos efeitos da estiagem na Região Nordeste. Necessidade de construção do Canal do Xingó para o abastecimento de água no sertão sergipano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68bf23bfaffb3c37d4a461f31896074da0b1a12bfda4eac3f3789ada87af6ce7
+size 218

@@ -1,1 +1,3 @@
-Solidariedade à população do Município de Mariana, Estado de Minas Gerais, vítima do rompimento de barragem de resíduos de mineração. Prejuízos ambientais causados à região. Defesa de fiscalização das empresas Vale S.A. e Samarco Mineração S.A., com vistas à apuração das responsabilidades pelo acidente.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6def4bd1e58a5ffa45434b52a9627984baeabbfd732826ef6ac2aa54703a35c9
+size 322

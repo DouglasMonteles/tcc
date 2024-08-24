@@ -1,1 +1,3 @@
-Cumprimentos ao Governador do Estado do Pará, Simão Jatene, e ao Secretário Estadual de Transportes, Kleber Menezes, pelo compromisso com o crescimento e o desenvolvimento do Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f09a85be63c97f985d1fe6740d924c9db277b5cc509be0633cbc2ce600cb3689
+size 185

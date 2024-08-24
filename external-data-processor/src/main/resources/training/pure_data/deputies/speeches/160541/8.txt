@@ -1,1 +1,3 @@
-Posicionamento  contrário do PP   ao Requerimento de retirada da pauta da Ordem do Dia  do Projeto de Lei 2.330 de 2011 (Dispõe sobre as medidas relativas à Copa das Confederações de 2013 e à Copa do Mundo FIFA 2014 que serão realizadas no Brasil- Lei Geral da Copa).
+version https://git-lfs.github.com/spec/v1
+oid sha256:606b111d15c2a8b177e4b3ca6169cf01fdee540516cff0484e501fd73c491690
+size 274

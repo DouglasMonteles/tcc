@@ -1,1 +1,3 @@
-O Deputado convidou o Deputado Helder Salomão para um grupo de trabalho que monitora a tragédia em Maceió. Anunciou a presença do prefeito JHC na discussão técnica na Câmara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdc197eb54b3b682329234cfe90c11d8140db99030d91c6e74654913681b7027
+size 181

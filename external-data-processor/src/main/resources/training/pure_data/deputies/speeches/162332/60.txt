@@ -1,1 +1,3 @@
-Sugestão ao Poder Executivo para encaminhamento ao Congresso Nacional de proposta de realização articulada das reformas administrativa e tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d27d3e8436640fceda204012a37b5d1cdbf16c7690fd1fedb443a81814e7ef8
+size 152

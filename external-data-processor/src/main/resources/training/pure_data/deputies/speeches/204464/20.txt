@@ -1,1 +1,3 @@
-Falta de conhecimento da educação brasileira pelo Ministro Abraham Weintraub.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49e2a1d8fff317fc12a1db8d14ab6617957d04930f1b0b6c9fe556e4acc95177
+size 79

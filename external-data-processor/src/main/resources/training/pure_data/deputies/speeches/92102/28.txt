@@ -1,1 +1,3 @@
-Defesa da aprovação da Medida Provisória nº 1.016, de 2020, sobre alteração da Lei nº 7.827, de 1989, para a disposição sobre a renegociação extraordinária de débitos no âmbito do Fundo Constitucional de Financiamento do Norte - FNO, do Fundo Constitucional de Financiamento do Nordeste - FNE e do Fundo Constitucional de Financiamento do Centro-Oeste FCO. Orientação da bancada na votação do requerimento de encerramento da discussão e do encaminhamento da votação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9efae881022d78e36ec171fdadb8434f08519a67209b16dc96e9b120d2a5d135
+size 499

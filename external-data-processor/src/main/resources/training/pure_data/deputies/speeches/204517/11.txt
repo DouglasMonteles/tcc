@@ -1,1 +1,3 @@
-Defesa da alocação de recursos no Orçamento Geral da União de 2020 para a recuperação de rodovias federais. Necessidade de conclusão das obras da BR-354, na região do Alto Paranaíba, e da BR-154, na região do Pontal do Triângulo Mineiro, Estado de Minas Gerais. Prioridade governamental na recuperação da BR-365, entre os Municípios de Uberlândia e Patos de Minas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94c7fddb7b501583dee78643b59b37ecc549ccc86d7982b1e98de589656c42b4
+size 379

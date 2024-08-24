@@ -1,1 +1,3 @@
-Esclarecimento ao Plenário do teor do Projeto de Lei nº 5.387, de 2019, sobre o mercado de câmbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no País e a prestação de informações ao Banco Central do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74c30bf212321ba8491478a697f7316212d4b12cea541eed85933d8ea63e53cd
+size 238

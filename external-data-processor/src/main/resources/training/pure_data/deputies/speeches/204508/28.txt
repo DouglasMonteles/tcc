@@ -1,1 +1,3 @@
-Orientação de bancada na votação do substitutivo oferecido pelo Relator da Comissão de Constituição e Justiça e de Cidadania ao Projeto de Lei nº 5.919, de 2019, acerca da criação do Tribunal Regional Federal da 6ª Região, com sede em Belo Horizonte, Estado de Minas Gerais, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8265480e413f2dec21bc5157bf58f0604c99e580ab3964fc70a170e61d8a0ecd
+size 313

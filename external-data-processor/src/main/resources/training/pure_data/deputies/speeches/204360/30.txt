@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 113, apresentada ao Projeto de Lei Complementar nº 39, de 2020, do Senado Federal, referente à instituição do Programa Federativo de Enfrentamento ao Coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62ed5a4e8fcd592c96eea278edc14df64e4a0cecdf09ac4fa4b0fd8dcabd533e
+size 273

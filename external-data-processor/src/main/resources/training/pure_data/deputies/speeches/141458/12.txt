@@ -1,1 +1,3 @@
-Parecer, pela Comissão Mista, à  Medida Provisória 466 de 2009 (Dispõe sobre os serviços de energia elétrica nos Sistemas Isolados e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3dcab31e6326753876cd321ee154baa2a2d3b0a440a36167086a71c8daacb89
+size 165

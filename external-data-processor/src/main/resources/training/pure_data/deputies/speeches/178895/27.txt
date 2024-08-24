@@ -1,1 +1,3 @@
-Premência de revisão do Estatuto do Desarmamento diante da escalada da criminalidade no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4febecbe8a8272102e7a62e9e0ed6c7cda89a162f08289bc66bfbb34bb8620a3
+size 96

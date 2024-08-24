@@ -1,1 +1,3 @@
-Responsabilidade do Governo Dilma Rousseff pelo elevado contingente de desempregados no País. Apoio à participação do capital estrangeiro em empresas aéreas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb8920d9e156754341ec663c875b5aa0ac30d5dea310d8804366032a7aa78d73
+size 174

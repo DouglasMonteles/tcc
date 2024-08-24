@@ -1,1 +1,3 @@
-Aprovação, pela Comissão de Constituição e Justiça e de Cidadania, do Projeto de Lei nº 4.538, de 2021, sobre a isenção aos causídicos do pagamento de custas processuais na cobrança de honorários advocatícios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:615d365d72d00b3563612d209a067a2878b76d783d15e6e3b99a706e3abec2e5
+size 222

@@ -1,1 +1,3 @@
-Crise da política neoliberal implantada no Brasil e países da América Latina. Promoção da desigualdade social pelo neoliberalismo. Ataques ao Estado Democrático de Direito na Bolívia e no Brasil. Cumprimento, pelo Supremo Tribunal Federal, de preceitos constitucionais na soltura do ex-Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7bb7da359feae917353e3aa46049c6931e38c212734d0beb44031d0f8eca282
+size 331

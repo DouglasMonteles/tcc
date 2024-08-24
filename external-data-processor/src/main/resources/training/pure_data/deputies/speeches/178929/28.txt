@@ -1,1 +1,3 @@
-Convite aos Deputados para participação na Comissão Geral destinada ao debate do projeto de lei de iniciativa popular sobre adoção de medidas de combate à corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e67a7c590fd16b8824967dc33a15b113fa6ffa76388d9b37ba047e6774af0a53
+size 173

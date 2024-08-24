@@ -1,1 +1,3 @@
-Expectativa de apresentação, pelo Ministério da Agricultura, Pecuária e Abastecimento, de proposta de repactuação de dívidas do setor agrícola. Transcurso do Dia Internacional da Mulher. Relevância do papel desenvolvido por mulheres na história do Estado do Rio Grande do Sul, notadamente a Marquesa de Alegrete e Ana Maria de Jesus, a Anita Garibaldi. Declamação do poema Anita Garibaldi, de autoria do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1788c28b0356da83b0695ace47f5c0ab0fd9e47b25b084a62941932e7a579464
+size 423

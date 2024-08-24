@@ -1,1 +1,3 @@
-Posicionamento favorável do PSDB ao Requerimento de retirada de pauta da Ordem do Dia da Medida Provisória 424 (Abre crédito extraordinário em favor de diversos  do Poder Executivo), para os fins que especifica. Utilização de ardil por parte do Governo para adiar a votação da regulamentação da Emenda Constitucional nº 29, de 2000, sobre os recursos mínimos para o financiamento dos serviços públicos de saúde, ao inserir no bojo do Projeto de Lei Complementar, a criação de um novo imposto, a Contribuição Social para a Saúde, CSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe633f555a574a187909d28d3949570f94708ca23ae861455f22f6bb98c4c3f8
+size 553

@@ -1,1 +1,3 @@
-Incoerência de discursos de Deputados oposicionistas contra o Governo Jair Bolsonaro. Orientação de bancada na votação do Projeto de Decreto Legislativo nº 859-B, de 2017, sobre a aprovação do texto do Protocolo Adicional ao Tratado de Amizade, Cooperação e Consulta entre a República Federativa do Brasil e a República Portuguesa, acerca da criação do Prêmio Monteiro Lobato de Literatura para a Infância e a Juventude, assinado em Salvador, Estado da Bahia
+version https://git-lfs.github.com/spec/v1
+oid sha256:628308693471963a75232c7d3ce5ebb5a22d4135aa79a379466c88e9d1cb57b6
+size 474

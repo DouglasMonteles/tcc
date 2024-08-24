@@ -1,1 +1,3 @@
-Solicitação ao Ministério da Saúde de destinação de maiores recursos ao Programa de Transplante de Medula Óssea. Apresentação de requerimento de inclusão na pauta da Proposta de Emenda à Constituição nº 555, de 2006, acerca da extinção da cobrança de contribuição previdenciária dos servidores públicos inativos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4427ea484153b1cc9f648a46d519007f07f89b877d6d012b8b386c35fc0a8888
+size 333

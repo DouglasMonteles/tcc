@@ -1,1 +1,3 @@
-O Deputado expressou seu apoio à taxação das offshores, contas bancárias no exterior usadas para evitar tributação no Brasil. Enfatizou a importância de todos os cidadãos contribuírem para o desenvolvimento do país e criticou a minoria que esconde grandes fortunas em paraísos fiscais. Destacou que esses recursos poderiam ser usados para beneficiar a população brasileira e combater desigualdades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebd6ac7d1d1dba311dcc0549d5ef0c80ee202f6418cde58b4fbc34b19d1181f7
+size 411

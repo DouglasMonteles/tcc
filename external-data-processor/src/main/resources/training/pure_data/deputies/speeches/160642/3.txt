@@ -1,1 +1,3 @@
-Saudações ao eleitorado do Estado de Pernambuco. Ampliação da bancada evangélica na Casa. Relevância do papel social desenvolvido pelas Igrejas Evangélicas no País. Discriminação praticada pelo Poder Público contra templos evangélicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db47ccf2211fdb71eacde651ee6c002d54b007d734b348ad0356a170f8a34bab
+size 247

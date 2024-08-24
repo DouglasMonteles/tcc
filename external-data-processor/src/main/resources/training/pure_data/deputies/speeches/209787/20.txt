@@ -1,1 +1,3 @@
-Conivência do Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, general Marco Edson Gonçalves Dias, com os atos antidemocráticos praticados contra as sedes dos Poderes da República. Adesão de novos Parlamentares à CPMI destinada à investigação do caso. Repúdio ao pedido da Esquerda de condenação criminal do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:567f68585c5c553afbc17eeb0280ca9e55a221bacf1c302efe2848d2f75cf9e0
+size 364

@@ -1,1 +1,3 @@
-Presença no plenário da Secretária Nacional da Juventude Rural, da Confederação Nacional dos Trabalhadores na Agricultura - CONTAG, Mônica Buffon. Anúncio de realização do 4º Festival Nacional da Juventude Rural. Recomposição das dotações orçamentárias do Programa de Aquisição de Alimentos - PPA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70e40f69e6d22860d8eaa68b1673ffcd7d7c997b8ee91337c309731047c43efd
+size 315

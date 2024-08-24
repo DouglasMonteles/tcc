@@ -1,1 +1,3 @@
-Proposta de manutenção da sessão até realização de acordo para votação de proposição de interesse dos pequenos empreendedores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:719b15566ba63e4af960fc76f9663578af8da7a766efac1199b72950313ccb7e
+size 136

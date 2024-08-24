@@ -1,1 +1,3 @@
-Registro da presença de convidado a sessão solene pelo transcurso do Dia Internacional da Síndrome de Down.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce7bb878e82d7d6d5b5e5ea5971e1a532c2699d008b371dc6883602d6756e992
+size 110

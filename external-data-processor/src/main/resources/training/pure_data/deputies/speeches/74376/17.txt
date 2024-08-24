@@ -1,1 +1,3 @@
-Apoio à realização, pela Polícia Federal, da Operação Diamante Negro destinada à coibição da exploração ilegal de carvão vegetal no Estado de Mato Grosso do Sul. Consonância entre o desenvolvimento econômico e a preservação dos recursos naturais brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:626792d9a1dfcded3013af83d8f162f0ed39c8a33e38cf6d8866cf6d1b320ab7
+size 274

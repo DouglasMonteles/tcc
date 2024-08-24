@@ -1,1 +1,3 @@
-Escalada da criminalidade no País, segundo dados do Atlas da Violência 2019. Prioridade da Casa na votação de projetos de lei destinados ao combate à violência. Assassinato de jovens no Município de Touros, Estado do Rio Grande do Norte. Realização do XV Encontro Nordestino do Setor de Leite e Derivados - ENEL, no Município de Parnamirim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2700912f34b5fe81c7eff236c61e81a1e1a542d212d3808a8df6e82d4022f381
+size 350

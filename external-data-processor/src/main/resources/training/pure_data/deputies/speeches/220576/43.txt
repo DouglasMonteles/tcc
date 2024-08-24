@@ -1,1 +1,3 @@
-O Deputado expressou indignação com a mineradora Braskem, que causou um desastre em Maceió, Alagoas. Destacou que a empresa é culpada por desalojar milhares de pessoas e causar danos à cidade. Pediu justiça e instou a Polícia Federal a investigar os responsáveis por esse crime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:116dfa19a42ec95ce0f4b3ef181f37d658f5edf2a1a8cb0797322f956d413867
+size 286

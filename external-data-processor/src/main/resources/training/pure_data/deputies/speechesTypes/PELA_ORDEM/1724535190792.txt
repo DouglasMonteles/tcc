@@ -1,1 +1,3 @@
-Inconformismo com a mudança dos critérios de concessão de bolsas universitárias. Críticas à Chefe do Executivo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81758d6ea9727abf5977eb47aee3a47f9b67011a5e136258306c0bed223939c0
+size 117

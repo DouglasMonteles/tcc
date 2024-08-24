@@ -1,1 +1,3 @@
-Ciência ao Plenário da decisão da Presidência sobre a Questão de Ordem nº 188, de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dfbc5afdec50f979678ff95d1c620526c2d6dc265426dfda181f976480363e1
+size 93

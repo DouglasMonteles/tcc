@@ -1,1 +1,3 @@
-Realização pela Casa de sessão solene pelo transcurso do 50º aniversário de fundação do PMDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccf6d9ce8a666e868ca1ca412a6d83ab86385c471300448113459d456b1ee785
+size 100

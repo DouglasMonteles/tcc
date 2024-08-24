@@ -1,1 +1,3 @@
-Prejuízos causados aos estudantes pela interrupção, de forma abrupta, das atividades educacionais do Centro Universitário - U:Verse, no Estado do Acre. Imediata adoção, pelo Ministério da Educação e pelo Ministério Público, de providências a respeito do caso. Pedido à Comissão de Educação da Casa de realização de audiência pública para debate da paralisação das atividades da U:Verse.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cdb598195d627da633e1ac5278db40ee150875181be9cc45fa356d89a63b5a1
+size 408

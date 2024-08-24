@@ -1,1 +1,3 @@
-Encaminhamento de indicação à Comissão de Direitos Humanos e Minorias, para a criação da Subcomissão Permanente de Defesa dos Idosos e Portadores de Deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d95b192c5027bd8ad853d45534988ea7ea0de0190a8b68a71d45071d4e36f764
+size 169

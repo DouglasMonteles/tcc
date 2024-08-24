@@ -1,1 +1,3 @@
-Necessidade de adoção, pelo Congresso Nacional, de providências a respeito das elevadas taxas cartorárias e judiciárias praticadas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bee422cd9d026748511c1952eac160475023b863b87a97d1b2cfcf157bcc4b51
+size 145

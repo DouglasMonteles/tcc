@@ -1,1 +1,3 @@
-Realização do 3º Ibirarema Rodeio Fest, no Município de Ibirarema, Estado de São Paulo. Saudação à municipalidade e região pelo prestigioso evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:400511f8e1791ee8eaadc03d847e742f91c7fc1d2575cbf7c0456992981e371a
+size 156

@@ -1,1 +1,3 @@
-Apoio ao movimento Outubro Rosa, destinado ao combate ao câncer de mama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1279dd73d6c6b837f48fc1e99fe0f9343720748b409f797a6de9bbf97a7ce67a
+size 73

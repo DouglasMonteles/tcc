@@ -1,1 +1,3 @@
-Realização do 26º Festival de Cultura Popular do Vale do Jequitinhonha - FESTIVALE, no Município de Capelinha, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7f44d07d72a8cfdd4be5d6b14590859aa69a14f2f5c6ba429e5e03b25891712
+size 138

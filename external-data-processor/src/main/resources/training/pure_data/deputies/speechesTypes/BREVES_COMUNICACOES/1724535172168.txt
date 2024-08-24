@@ -1,1 +1,3 @@
-O Deputado criticou a Esquerda política por suas posições em relação a Israel, aborto e ideologia de gênero. Afirmou que tais ideias ameaçam os valores da maioria da população brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13abde2c9c923b072f54610c08f4262653da90715fea8b8a796b984f637123ea
+size 196

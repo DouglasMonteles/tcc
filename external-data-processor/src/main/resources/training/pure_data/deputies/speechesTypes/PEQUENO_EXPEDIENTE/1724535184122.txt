@@ -1,1 +1,3 @@
-Transcurso do Dia do Professor. Saudações aos docentes brasileiros, especialmente aos do Estado do Maranhão, em nome da pesquisadora Graça Saraiva, genitora do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bd0516f96808471383a5d7058484e08c31625c4a367f12c70c364a4b09d2cb8
+size 171

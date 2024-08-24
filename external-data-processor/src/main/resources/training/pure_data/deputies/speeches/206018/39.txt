@@ -1,1 +1,3 @@
-A Deputada ressaltou a importância do Projeto de Lei nº 2.975, de 2023, que introduz a situação específica da mulher indígena na legislação de enfrentamento da violência e de promoção da saúde e da educação. Também parabenizou a presidente em exercício da Casa, Deputada Benedita da Silva, pela inclusão da matéria na pauta de votações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14aec606b781edee34bde99c39cd3ecbb005db968d5bb191401777ae4cc2a9b4
+size 356

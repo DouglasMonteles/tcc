@@ -1,1 +1,3 @@
-Orientação da respectiva bancada para votação do requerimento de retirada de pauta do Projeto de Lei Complementar nº 343, de 2017, que institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d676780f09336601afcd27f63baebfd64114dd7e1f319a2c5250958792693932
+size 216

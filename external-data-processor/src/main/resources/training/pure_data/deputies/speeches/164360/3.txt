@@ -1,1 +1,3 @@
-Assassinato de crianças em estabelecimento escolar no Rio de Janeiro, Estado do Rio de Janeiro. Transcurso do Dia Mundial da Saúde. Implementação de ações preventivas da saúde no País. Imediata regulamentação da Emenda Constitucional nº 29, de 2000, acerca da destinação de recursos para a saúde pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4859ccde05d9bd9edbbb9a21c03d94143895a8d5e34c11dfad7d72ed8d35fe1f
+size 319

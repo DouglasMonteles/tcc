@@ -1,1 +1,3 @@
-Repúdio à interferência do Governo Federal na gestão da empresa Vale. Apresentação, pela Comissão de Fiscalização Financeira e Controle, de requerimento de convocação do Ministro da Fazenda, Guido Mantega, para esclarecimento do assunto. Posicionamento do orador contrário à aprovação da Medida Provisória nº 511, de 2010, sobre o financiamento do Trem de Alta Velocidade - TAV, o chamado trem-bala. Conveniência de ampliação da rede de metrôs urbanos no País. Descaso do Governo Federal com a alocação de recursos para setores prioritários. Contrariedade ao aumento no repasse de recursos ao Governo da República do Paraguai, pelo Governo brasileiro, no âmbito do Tratado de Itaipu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:687068218cc342e251dbceca5e89d8b02e801eb43c8c9adab26fccc7a9358631
+size 710

@@ -1,1 +1,3 @@
-Atuação exemplar da empresa Dedine S/A Indústrias de Base, instalada no Município de Sertãozinho, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b67cebdc6c1fa9cd8d00ab00ff8229d34e39620b9c4f2a1e3229b6755f5b4e61
+size 124

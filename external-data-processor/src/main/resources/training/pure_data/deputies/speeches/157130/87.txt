@@ -1,1 +1,3 @@
-Congratulações à Deputada eleita Marina Silva e à Deputada Joenia Wapichana, da REDE. Importância da participação das mulheres na política do País. Orientação de bancada na votação da Medida Provisória nº 1.128, de 2022, sobre o tratamento tributário aplicável às perdas incorridas no recebimento de créditos decorrentes das atividades das instituições financeiras e das demais instituições autorizadas a funcionamento pelo Banco Central do Brasil, ressalvados os destaques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9d0b8272b9827efe7a43d70f681f3a071dff161529e9ca2102a4be3103e2b07
+size 497

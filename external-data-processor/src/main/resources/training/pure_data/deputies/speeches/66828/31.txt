@@ -1,1 +1,3 @@
-Orientação da respectiva bancada. Apoio à decisão do Supremo Tribunal Federal pelo não afastamento do Senador Renan Calheiros do cargo de Presidente do Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d15d0956530a31004b586910254285ddad50c285e902402b1a8647ddfbb3b6d
+size 172

@@ -1,1 +1,3 @@
-O Deputado discorreu sobre o trabalho realizado em sua cidade natal, Imperatriz, pelo Programa Maranhão Zero Catarata, que tem como objetivo fornecer cirurgias gratuitas para a população que não tem condições financeiras de custear o procedimento. Informou que mais de 7 mil pessoas recuperaram a visão em 45 municípios atendidos. Ressaltou a parceria com o Governo Carlos Brandão para ampliar o alcance do programa, realizando 300 cirurgias em um fim de semana O orador reafirmou seu compromisso de realizar 10 mil cirurgias de catarata até o final de 2023, destacando a importância dessa ação para melhorar a qualidade de vida das pessoas no Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d8f2b455bf912ece80fc40b556e67c13f44a6604c0a2a582f7969923cc5a254
+size 667

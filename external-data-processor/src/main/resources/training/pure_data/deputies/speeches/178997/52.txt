@@ -1,1 +1,3 @@
-Cumprimentos ao Presidente do Senado Federal, Eunício Oliveira, pela realização de reunião com Senadores da Região Nordeste para debate sobre a situação da carcinicultura no Brasil e sobre proposta do Ministério da Agricultura, Pecuária e Abastecimento de importação de camarão do Equador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f3feb5ee7f6b0c045adfd594e5561ed9cf5fe9e58fac213ac4543c1dc5f18d9
+size 301

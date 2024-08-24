@@ -1,1 +1,3 @@
-Relação direta entre o aumento do salário mínimo, a exclusão social e a elevação dos índices inflacionários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31b2317305cafef6a0057db1e51c4e7e4008e67394da410fdf012dd6529facab
+size 117

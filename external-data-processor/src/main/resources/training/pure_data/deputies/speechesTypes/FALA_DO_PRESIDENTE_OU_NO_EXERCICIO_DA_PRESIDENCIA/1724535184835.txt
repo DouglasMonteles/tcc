@@ -1,1 +1,3 @@
-Registro de presença, na Casa, da Vereadora do Município de Recife, Estado de Pernambuco, Isabella de Roldão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90d1ccb55511c0f59eabd843f44562a8828fa851135129cafb246ec9550ce28c
+size 112

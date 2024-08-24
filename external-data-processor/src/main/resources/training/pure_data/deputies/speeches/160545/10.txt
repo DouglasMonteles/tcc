@@ -1,1 +1,3 @@
-Obstrução  do DEM à votação do Requerimento de retirada da pauta da Ordem do Dia do Projeto de Decreto Legislativo  220 de 2011, em votação nominal por força de verificação de votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ae58705bc878ec97bf2050b5f55a4499b56303b83c466849e9d4b45035354d5
+size 196

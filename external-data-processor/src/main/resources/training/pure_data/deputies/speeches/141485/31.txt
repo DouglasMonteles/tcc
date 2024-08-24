@@ -1,1 +1,3 @@
-Descaso do Tribunal Superior Eleitoral com as denúncias de ocorrência de fraudes em urnas eletrônicas, nas últimas eleições. Defesa de reimplantação do sistema de impressão dos votos processados pelas urnas eletrônicas no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4b13fc2839f68f8018179c421f35e3e7ed0e039ab8d0705046213f1529bfd6e
+size 238

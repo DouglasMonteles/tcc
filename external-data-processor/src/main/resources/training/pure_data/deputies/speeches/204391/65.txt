@@ -1,1 +1,3 @@
-Relato da reunião da bancada do PODE com o Presidente Jair Bolsonaro, para debate da reforma previdenciária e da concessão e duplicação da Rodovia Belém-Brasília.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82547f301f515e1354568410d1aa9db481d5fed62833f0413f38851fee9b520d
+size 169

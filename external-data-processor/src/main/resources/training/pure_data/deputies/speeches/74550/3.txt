@@ -1,1 +1,3 @@
-Convocação  dos Deputados e Senadores ao plenário para votação do Orçamento da União para 2008.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55048469a911aab61a57b909993da041f2948eacc88e59382f7666f474df2430
+size 102

@@ -1,1 +1,3 @@
-Reflexo dos reajustes nos preços de combustíveis e nas tarifas de energia elétrica sobre as populações de baixa renda. Inconsistência da reforma tributária realizada pelo Governo do Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72e967cbe12b71f4eedbce2c39c0a5ffe76982d38837e2a3455f41653a1ee3cb
+size 210

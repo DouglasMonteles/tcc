@@ -1,1 +1,3 @@
-Congratulações à Presidência pela criação da Comissão Externa destinada a acompanhar as ações, inclusive as obras do Projeto de Integração do Rio São Francisco com as bacias e rios intermitentes do semi-árido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1921eaf6fd9a6d6199cc6ecf147d13e15de9906bb21a313839658100c7af2f82
+size 222

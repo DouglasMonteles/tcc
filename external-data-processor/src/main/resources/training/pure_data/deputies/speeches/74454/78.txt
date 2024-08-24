@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial da Água. Promulgação da Declaração Universal dos Direitos da Água pela Organização das Nações Unidas - ONU. Agressões ao meio ambiente na região amazônica. Apoio à política ambiental adotada pelo Presidente Luiz Inácio Lula da Silva. Instalação de parques eólicos no Estado do Ceará. Expectativa de instalação de usina de energia solar no Município de Tauá. Desempenho satisfatório do sistema de energia elétrica cearense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13d04e1e94e854355675aa313b714faa6f20ef4eeeec68021c8912f97db21446
+size 474

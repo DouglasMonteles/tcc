@@ -1,1 +1,3 @@
-Posicionamento contrário do PSOL ao Requerimento de encerramento da discussão e do encaminhamento da votação da   Medida Provisória 421 de 2008 (Dispõe sobre o salário mínimo a partir de 1º de março de 2008).
+version https://git-lfs.github.com/spec/v1
+oid sha256:699319b1010a71d3f733a3235a43cfe4717caf0781f70ae16c856b012e19aebf
+size 218

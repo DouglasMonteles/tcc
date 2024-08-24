@@ -1,1 +1,3 @@
-Realização, pela Corrente Afirmação Democrática do PMDB, de reunião destinada ao debate sobre a implantação do voto distrital misto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da001b354d7227eaa0cac394177aa9e18212220fb33050065fced821196667d6
+size 140

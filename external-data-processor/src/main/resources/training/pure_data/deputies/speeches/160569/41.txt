@@ -1,1 +1,3 @@
-Preocupação de organizações da sociedade civil do Município de Caetité, Estado da Bahia, com o transporte de carga radioativa para a municipalidade. Solicitação ao Ministro da Ciência e Tecnologia, Aloizio Mercadante, de concessão de audiência ao orador e aos Deputados Rui Costa e Josias Gomes para esclarecimento do assunto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f98d6bffcbc20f3f29d070f667120d9de4d64d7e2ef74656220324249cf8aecd
+size 337

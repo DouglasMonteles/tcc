@@ -1,1 +1,3 @@
-Posicionamento da população do Estado de Santa Catarina contrário ao armamento do cidadão civil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02675c4f51ead740a3b2026b34e38213f5cfbaf0492df80901b60d7e512a729c
+size 100

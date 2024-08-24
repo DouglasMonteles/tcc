@@ -1,1 +1,3 @@
-Natureza leviana de matéria publicada pela revista Veja a respeito do Movimento dos Trabalhadores Rurais Sem Terra - MST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a28eb3183f1525fe63d11852a722dd3e6e5a124c8ec577873035d3ff3fd00857
+size 122

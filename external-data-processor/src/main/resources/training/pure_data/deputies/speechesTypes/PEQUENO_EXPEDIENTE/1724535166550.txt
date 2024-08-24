@@ -1,1 +1,3 @@
-Encontro de trabalhadores rurais do Estado do Ceará com o Presidente do Banco do Nordeste do Brasil, Jurandir Santiago, para discussão do endividamento agrícola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbbc9e99c4d335d96f18617dc309dea819187700fc84344920d0a9254b9afce7
+size 164

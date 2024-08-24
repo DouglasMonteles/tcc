@@ -1,1 +1,3 @@
-Apoio à Proposta de Emenda à Constituição nº 383, de 2017, sobre a garantia de recursos mínimos para o financiamento do Sistema Único de Assistência Social - SUAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:924174276e64542a25117b4690ebd41a980d4b39fecca2d9a9560670fb365d1e
+size 171

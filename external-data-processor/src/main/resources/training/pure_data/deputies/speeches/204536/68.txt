@@ -1,1 +1,3 @@
-Contestação ao artigo contrário ao parecer oferecido pelo orador ao projeto relativo à Lei Geral do Licenciamento Ambiental, de autoria de ex-Ministros do Meio Ambiente, publicado pelo jornal Folha de S. Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c8075043c483a63543827821ce01cdb1989344e80107008754ffeb32e520526
+size 214

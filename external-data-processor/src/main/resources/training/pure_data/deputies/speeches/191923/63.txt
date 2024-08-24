@@ -1,1 +1,3 @@
-Agravamento do quadro de insegurança alimentar no Brasil, segundo estudo da Fundação Getúlio Vargas. Exclusão das famílias de baixa renda do programa econômico do Governo Federal. Necessidade da implantação de programa governamental de fortalecimento da agricultura familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7728286da75f5d407624f3a655ec4bfe9aa90dec4b6253fb2c92f28b91c8c437
+size 284

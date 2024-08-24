@@ -1,1 +1,3 @@
-Comissão Geral com a presença do Ministro das Cidades, Gilberto Kassab, para o debate de matérias referentes à pasta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a32fa8c3a9ed485aa704b079dbdf07fa0c00297094eca66060e7c1712b5527d5
+size 121

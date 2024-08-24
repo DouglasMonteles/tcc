@@ -1,1 +1,3 @@
-Solidariedade à luta de Suplentes de Vereador pela recomposição numérica das Câmaras Municipais brasileiras. Protesto contra demissões de trabalhadores por grandes empresas a pretexto de enfrentamento da crise econômico-financeira internacional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ac1ad5529944e6ffd6a3910fa903305113b67a3d71c456623f90b2bb9731acf
+size 252

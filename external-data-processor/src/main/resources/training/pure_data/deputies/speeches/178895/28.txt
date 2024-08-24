@@ -1,1 +1,3 @@
-Expectativa de votação, pela Casa, da Proposta de Emenda à Constituição nº 53, de 2007, que garante ao servidor de cargo em comissão, de livre nomeação e exoneração, direito a aviso prévio, seguro-desemprego, FGTS, entre outros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e623d102695e73b3d8996ab1ef7e28aa7f9ed71af5d7de4e5b423960078ff413
+size 240

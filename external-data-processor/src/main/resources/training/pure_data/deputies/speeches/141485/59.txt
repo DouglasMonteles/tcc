@@ -1,1 +1,3 @@
-O Deputado trouxe ao plenário a discussão sobre a liberação do aborto, tema que também está sendo debatido no Supremo Tribunal Federal. Questionou a argumentação de que um feto com 12 semanas não tem vida, citando o caso de Manushi, uma menina indiana que nasceu prematuramente com 12 semanas e sobreviveu. O Parlamentar criticou a Ministra Rosa Weber por sua posição sobre o assunto e apelou para a reflexão sobre a valorização da vida. Utilizou o caso da menina para demonstrar que há vida em um feto de 12 semanas e comparou a situação com o esforço coletivo que seria feito para salvar uma tartaruga.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0bae0b6271603ebd387a47014bb1515e7ce40a1e3ee78aa1bb5a0656c35b4be
+size 622

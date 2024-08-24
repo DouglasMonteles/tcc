@@ -1,1 +1,3 @@
-Agradecimento aos eleitores do Estado da Bahia pelos votos recebidos nas eleições de 2010. Importância econômica da Ferrovia de Integração Oeste-Leste. Vantagens da expansão do transporte ferroviário no País. Apelo à Presidenta Dilma Rousseff de apoio à construção do Complexo Intermodal Porto Sul, no Município de Ilhéus, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:170b5dca791e4c85a67746d79f2835ee896a605778902e5b87a8bccd52645a66
+size 354

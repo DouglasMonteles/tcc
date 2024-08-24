@@ -1,1 +1,3 @@
-Saudação a manifestações contra o PT no horário de programa televisivo do partido.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62f1796fcbdc56ce414b3f3c670c80a50518c15d94a2b8902e734e087bfd7bc1
+size 87

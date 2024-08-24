@@ -1,1 +1,3 @@
-Pedido à Casa de aprovação da Proposta de Emenda à Constituição nº 48, de 2019, sobre a transferência de recursos federais a Estados, ao Distrito Federal e a Municípios mediante emendas ao projeto de lei do orçamento anual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e240e06968d0f8395e88e40e6518e4ba862b410c6af6d2418f4e37f0a33ac807
+size 233

@@ -1,1 +1,3 @@
-Esclarecimento sobre o requerimento de destaque para votação em separado do art. 7º do texto original da Medida Provisória nº 795, de 2017, sobre o tratamento tributário das atividades de exploração e de desenvolvimento de campo de petróleo ou de gás natural e a instituição de regime tributário especial para as atividades de exploração, desenvolvimento e produção de petróleo, de gás natural e de outros hidrocarbonetos, com a finalidade de restabelecimento ao Projeto de Lei de Conversão nº 36, de 2017, em substituição, em votação. Congratulações ao Deputado Julio Lopes pelo trabalho como Relator da medida de provisória em votação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5344e13e6ad8307290cf399feec252bd8364b1a3683554c54b93e44f26385744
+size 667

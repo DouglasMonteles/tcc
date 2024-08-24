@@ -1,1 +1,3 @@
-Participação da oradora na Romaria de Bom Jesus da Lapa em companhia do Governador do Estado da Bahia, Jerônimo Rodrigues. Declaração da Romaria de Bom Jesus da Lapa como patrimônio cultural e material da Bahia. Inauguração do Comando Regional do Meio Oeste da Polícia Militar e do Aeroporto Regional de Bom Jesus da Lapa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e40d3ef7f8036b6ae664fc6ff914df750372cc0bdf1b72144051586dd961f906
+size 331

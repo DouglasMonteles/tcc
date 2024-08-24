@@ -1,1 +1,3 @@
-Conveniência de fixação pela Presidência de tempo de duração das votações no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0cb66a463a45a265bf7ce3738fd5cc3e1e9b9ba216f8f78877fa2d2dfe43f7e
+size 95

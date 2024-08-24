@@ -1,1 +1,3 @@
-Defesa de rejeição da Medida Provisória nº 897, de 2019, acerca da instituição do Fundo de Aval Fraterno; do patrimônio de afetação de propriedades rurais; da Cédula Imobiliária Rural; da escrituração de títulos de crédito e da concessão de subvenção econômica para empresas cerealistas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b743273db4906308ec610eff321dcc0aca1220bc515b89b433c881ce17cd6d1a
+size 306

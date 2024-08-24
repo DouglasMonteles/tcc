@@ -1,1 +1,3 @@
-Constatação em relatório do Tribunal de Contas da União de irregularidades na concessão de benefícios pelo Ministério do Desenvolvimento Social e Combate à Fome. Defesa do caráter transitório do Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16ad8c095796fb758c8a3a46fcfc190267985ddbeba22ee4740b21ff5aec91ea
+size 229

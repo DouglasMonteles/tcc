@@ -1,1 +1,3 @@
-Apoio à causa dos permissionários de agências lotéricas do País. Críticas ao PT pela priorização de políticas públicas assistencialistas, em detrimento da meritocracia e do trabalho. Expectativa de retomada do crescimento do País após o impeachment da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3f9b2bc3f5d56b202750a8c16fb2b89abd26d3910b92610ffec3acedfcfbc32
+size 290

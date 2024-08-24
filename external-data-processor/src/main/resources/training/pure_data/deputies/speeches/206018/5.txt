@@ -1,1 +1,3 @@
-Necessidade de combate à violência contra as mulheres brasileiras. Solidariedade às Deputadas Duda Salabert e Erika Hilton, diante de discurso proferido por Deputado ofensivo às transexuais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0031945cdd83c4188233fdd4b83575c730538e957941efec77ca448b6b68dabd
+size 194

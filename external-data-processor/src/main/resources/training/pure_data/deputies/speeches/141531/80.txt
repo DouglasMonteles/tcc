@@ -1,1 +1,3 @@
-Fortalecimento do Senador Aécio Neves, apesar da derrota no último pleito. Incoerência entre discurso e prática da atual Presidente da República. Falência econômica do Brasil no Governo Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fabfe67c62c9ff40129d1db4866e61da9039335931ab6f2bb6c439b2b792770
+size 208

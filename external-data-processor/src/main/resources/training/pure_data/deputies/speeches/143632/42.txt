@@ -1,1 +1,3 @@
-Regozijo com a classificação de Fortaleza, Estado do Ceará, em terceiro lugar no ranking do destino nacional turístico divulgado pelo jornal Folha de S.Paulo. Importância do turismo para o desenvolvimento econômico e social do Estado. Transcurso do Dia do Médico. Preocupação com a qualidade da formação do médico e do atendimento à população. Implementação de políticas de saúde e de avaliação de planos, programas e tecnologias utilizadas na área. Congratulações ao Fortaleza Esporte Clube pela passagem dos seus 93 anos de existência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bbfaa98c38894456853d1866bfa15ff22e703ad34a9739fb553013c09079eba
+size 562

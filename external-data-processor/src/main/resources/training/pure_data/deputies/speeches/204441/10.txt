@@ -1,1 +1,3 @@
-Críticas à decisão do Ministro do Supremo Tribunal Federal, Celso de Mello, sobre a Ação Direta de Inconstitucionalidade por Omissão nº 26, acerca da tipificação do crime de homofobia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:258197f6f5465bc0cbbccf0f899d66d2cdb5e4ca93ada6e3c96d15392867bfca
+size 193

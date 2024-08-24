@@ -1,1 +1,3 @@
-Lançamento de edição do Orgulho Capixaba pelo Conselheiro do Tribunal de Contas do Estado do Espírito Santo, Domingos Taufner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ccafea7bcd8f3c3ab64537d928fa6ee72ef994417577a94ff3f824b3140dc07
+size 130

@@ -1,1 +1,3 @@
-Necrológio do ex-Deputado Federal Euclides Scalco. Trajetória política do ex-Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e20eabaa6a0b59260f29c9bf2cfef8b5d7ed664ae32f4a5b9ea6f2a8e73403e4
+size 92

@@ -1,1 +1,3 @@
-Comemoração do 190º e do 10º aniversários, respectivamente, do estabelecimento da Nunciatura  Apostólica no Brasil e da celebração da Concordata entre o Brasil e a Santa Sé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b395337f99e5877c41e0c56e383157c07dba4ceaa8894c19bb9f1bb3dfda55a
+size 182

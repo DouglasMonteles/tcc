@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 12, apresentada à Medida Provisória nº 915, de 2019, relativa ao aprimoramento dos procedimentos de gestão e alienação de imóveis da União; à alteração das Leis de nºs 6.015, de 1973; 9.636, de 1998; 13.240, de 2015; 13.259, de 2016; 10.204, de 2001; bem como do Decreto-Lei nº 2.398, de 1987; e à revogação de dispositivos das Leis de nºs 9.702, de 1998; 11.481, de 2007; e 13.874, de 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58ed2b62014351f7a9e27fd4b1caf7a7b3418a496976a43a3fdc97b5fe12da68
+size 527

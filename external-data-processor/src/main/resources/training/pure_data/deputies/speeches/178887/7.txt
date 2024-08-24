@@ -1,1 +1,3 @@
-Criação da Academia Brasileira de Direito Eleitoral e Político - ABRADEP, em Belo Horizonte, Estado de Minas Gerais. Importância da entidade no debate da reforma política no País. Defesa do fim da reeleição para cargos executivos, do financiamento misto de campanhas eleitorais e da transparência na Justiça Eleitoral. Contrariedade à unificação do calendário eleitoral e ao financiamento público integral de campanhas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a85b380cb10900b8aa88bbc54ba014440e04524fb8a674ac119f5643374b5cf2
+size 434

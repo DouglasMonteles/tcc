@@ -1,1 +1,3 @@
-Apoio às mulheres participantes da Marcha das Margaridas, em Brasília, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78c51580058cf5c68b0b6c68c93d823c8a711d2657fe610244318c8911b3fcf0
+size 90

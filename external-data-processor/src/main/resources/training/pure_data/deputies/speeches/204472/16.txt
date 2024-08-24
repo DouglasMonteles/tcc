@@ -1,1 +1,3 @@
-Indignação do orador com as manifestações contrárias ao pedido do Ministro da Educação de gravação da execução do Hino Nacional nos estabelecimentos escolares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a93510c798334f62529647a5324e0e58af0113815064a653c1fdd8832d3735b
+size 170

@@ -1,1 +1,3 @@
-Transcurso dos 500 dias da prisão do ex-Presidente Luiz Inácio Lula da Silva. Caráter político da prisão do ex-Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5da9f6cf7897a636bf6fdaf6d57e4175620ed52782673d151fe789bae196e00b
+size 141

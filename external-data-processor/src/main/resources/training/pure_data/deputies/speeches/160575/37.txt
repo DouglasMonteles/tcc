@@ -1,1 +1,3 @@
-Lançamento da campanha Intérprete de LIBRAS não é só vocação. Valorize esta Profissão, pela Frente Parlamentar em Defesa dos Direitos da Pessoa com Deficiência. Conveniência de ampliação do número de intérpretes de LIBRAS na Casa. Congratulações ao Sindicato dos Trabalhadores Intérpretes, Guias-Intérpretes e Tradutores da Língua Brasileira de Sinais do Distrito Federal - SINPROLS/DF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:977d8109bced50d521f4ef4fffaf21f6b298e005279bd3b6dfc697d31120ecc7
+size 405

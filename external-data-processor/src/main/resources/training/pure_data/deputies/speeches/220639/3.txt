@@ -1,1 +1,3 @@
-Orientação de bancada na votação da Medida Provisória nº 1.138, de 2022, sobre alteração da Lei nº 12.249, de 2010, para disposição acerca da alíquota do imposto sobre a renda retido na fonte incidente sobre as operações constantes na proposição; e revogação de dispositivos das Leis nºs 12.810 de 2013; 12.844, de 2013; e 13.315 de 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4e4643d4694ba71c85c479e78705b830d88d14947ae62b4a9ee814757cc1cab
+size 357

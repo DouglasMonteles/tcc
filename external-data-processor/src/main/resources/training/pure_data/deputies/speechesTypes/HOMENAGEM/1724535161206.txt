@@ -1,1 +1,3 @@
-Sessão Solene em homenagem aos 100 anos de Fundação do Município de Crateús - Ceará.(As notas taquigráficas desta sessão solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:02b85970bf5a0c2a55d4bdc73cb390269da0e16f4fac933a7bec98c9f11efb93
+size 223

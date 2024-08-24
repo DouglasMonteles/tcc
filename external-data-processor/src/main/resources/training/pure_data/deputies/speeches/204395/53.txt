@@ -1,1 +1,3 @@
-Eleição do orador para o cargo de Presidente da Frente Parlamentar da Agropecuária. Baixos recursos orçamentários destinados ao setor agropecuário nacional. Preocupação do orador com o direito de propriedade, a regulação do agronegócio e a desestruturação do Ministério da Agricultura, Pecuária e Abastecimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ee28695473705fd9800b0f855fa71215b7b386f13b19efd0440485d5ad5af3a
+size 326

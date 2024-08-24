@@ -1,1 +1,3 @@
-Sessão solene em homenagem póstuma ao ex-Deputado Luís Eduardo Magalhães.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59019705b3c6164f3283236614ac42fa65e676e2ea27d8325c3b0df5516af98f
+size 226

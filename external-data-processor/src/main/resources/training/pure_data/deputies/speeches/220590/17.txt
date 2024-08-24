@@ -1,1 +1,3 @@
-O Deputado registrou a presença, na Casa, do Dr. Danilo Lovisaro, Procurador-Geral de Justiça do Estado do Acre, destacando seu trabalho exemplar à frente do Ministério Público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3316370bddd0eb246fe17fb0a2e3abf85c77e023341a2d4cbe34fa07dee35942
+size 182

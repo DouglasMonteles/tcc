@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar Mista da Juventude. Importância da realização de investimentos governamentais na educação; na juventude brasileira e no fortalecimento de políticas públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b5f1a4dce9cd390f581340dea4a45373d8134af13bd4a4dab8634bf1c244b57
+size 198

@@ -1,1 +1,3 @@
-O Deputado defendeu a votação do Projeto de Lei, de sua autoria, que institui agosto como mês de combate às desigualdades, solicitando o apoio da Oposição para a aprovação simbólica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f3008f3ba25a7827ffe43206b4334fd88771f9f06e3d990bdf5500d8f3212a2
+size 191

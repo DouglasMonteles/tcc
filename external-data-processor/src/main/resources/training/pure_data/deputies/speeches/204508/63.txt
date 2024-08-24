@@ -1,1 +1,3 @@
-Saudações aos Parlamentares em nome da Presidenta em exercício dos trabalhos. Aperfeiçoamento do Projeto de Lei nº 10.887, de 2018, relativo à alteração da Lei nº 8.429, de 1992, acerca da improbidade administrativa. Pedido à Presidência de inclusão na pauta da Proposta de Emenda à Constituição nº 333, de 2017, a respeito da alteração de dispositivos da Constituição Federal, com vista à extinção do foro especial por prerrogativa de função no caso de crimes comuns. Defesa de realização da reforma administrativa, especialmente quanto à redução de supersalários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac9344c73645ed1e6aee780a8ca41a980516c937936508f217caf9c83d103e32
+size 596

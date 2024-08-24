@@ -1,1 +1,3 @@
-Dificuldades financeiras enfrentadas pelas Prefeituras Municipais no Estado de Minas Gerais e no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b46c8a3aa3f0d2bdc4537e57823bf30b102c30aa98a71c13eec1f79fab799dc
+size 103

@@ -1,1 +1,3 @@
-Anúncio de realização do Congresso de Desertificação da Organização das Nações Unidas - ONU em Fortaleza, Estado do Ceará. Ameaça à segurança alimentar decorrente da degradação progressiva dos solos. Importância de intensificação das ações de combate à desertificação no País e no mundo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:859912dfad7bfb5ae5af3fdcd32b65ad7028d7d33284bb65897c1548f193e542
+size 311

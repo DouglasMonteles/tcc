@@ -1,1 +1,3 @@
-Apresentação de projetos de lei sobre a criação de Política Nacional de Promoção da Qualidade de Vida no Campo, o chamado  PAC Rural, e sobre a alteração do símbolo nacional Brasão da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75fa83cee7bb98e9a0a1bb429406ce5fd68ff392f0db8708ceb25fb892cb6536
+size 206

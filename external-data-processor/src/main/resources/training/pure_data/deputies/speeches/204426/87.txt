@@ -1,1 +1,3 @@
-Descaso do Presidente Jair Bolsonaro com a agricultura familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:074b997417ab0a94c18b6fd2cc8d9c09e77eaefc674144efb280607ee2b8d54b
+size 64

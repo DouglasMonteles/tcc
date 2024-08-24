@@ -1,1 +1,3 @@
-Agradecimento à população rondoniense pela manifestação de apoio ao orador e ao Governo Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46da9f796575dc3620ea321497fffd58f552131192874e824d8dcc050a597dc3
+size 108

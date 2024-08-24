@@ -1,1 +1,3 @@
-Defesa da agilização da votação do  Projeto de Lei 8 de 2009-CN (Abre ao Orçamento Fiscal da União crédito especial em favor de transferências a Estados, Distrito Federal e Municípios, para o fim que especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:939a446af0f91c796a8b0ed1b1d33f2fee32fd1f442252bcf686688e2dfa94a3
+size 221

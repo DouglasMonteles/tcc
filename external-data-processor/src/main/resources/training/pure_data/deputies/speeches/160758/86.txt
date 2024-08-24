@@ -1,1 +1,3 @@
-Êxito da participação da subcomissão especial destinada ao acompanhamento da cadeia produtiva de leite, nas negociações a respeito da redução das importações do produto da Argentina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82f5cdc514dce99a2f6ade53cbed8936aa60d139084b2435d18a214571edb65d
+size 192

@@ -1,1 +1,3 @@
-Orientação de bancada favorável do PSC ao Projeto de Lei nº 7220, de 2014, que altera o nome jurídico do art. 218-B do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal); e acrescenta inciso ao art. 1º da Lei nº 8.072, de 25 de julho de 1990, para classificar como hediondo o crime de favorecimento da prostituição ou de outra forma de exploração sexual de criança ou adolescente ou de vulnerável.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cb0aaa0925bd722758b07390690c82bd8bbd97724814d3cd7f24ca4be097ac6
+size 423

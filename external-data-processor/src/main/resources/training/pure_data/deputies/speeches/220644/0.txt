@@ -1,1 +1,3 @@
-Dedicação da oradora no enfrentamento dos desafios em relação à saúde pública e ao tratamento de pessoas com deficiência e pessoas com doenças raras. Pedido de apoio aos Parlamentares para a criação de frente parlamentar mista sobre inovação e tecnologia em saúde para as doenças raras. Transcurso do Dia Mundial das Doenças Raras durante o mês de fevereiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43655198d0209835073668bae91290ea73201ee1f7a2f1c5484b04247ec11b44
+size 375

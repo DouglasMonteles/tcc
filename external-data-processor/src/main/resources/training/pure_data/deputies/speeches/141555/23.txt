@@ -1,1 +1,3 @@
-Apresentação de emenda orçamentária em benefício da organização não governamental Associação Grupo Rio Vida - AGRIV, do Município de Nilópolis, Estado do Rio de Janeiro. Serviços prestados pela entidade na área da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1755eed8e4e27b27b07dd52099cb2229a8c7a961713a052da47d004f67d7804a
+size 235

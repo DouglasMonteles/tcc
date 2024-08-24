@@ -1,1 +1,3 @@
-Solicitação ao Secretário de Estado de Infraestrutura da Bahia, Marcus Benício Foltz Cavalcanti, de início das obras de pavimentação de estrada entre os Municípios de Licínio de Almeida e Urandi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f33f24e3068c00f9b3c6574d7f06116902d6a579b3e162d3037db355de319dc
+size 204

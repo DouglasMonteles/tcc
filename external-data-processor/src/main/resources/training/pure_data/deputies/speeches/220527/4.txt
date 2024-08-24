@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 1.883, de 2021, sobre a prioridade das instituições financeiras na concessão de condições especiais de financiamento a microempresas e empresas de pequeno porte dirigidas por mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aa88a0b832cf286a6a2db6d5487ec81a6e3dbb97c787a7d03a7c1b6eaee9fed
+size 222

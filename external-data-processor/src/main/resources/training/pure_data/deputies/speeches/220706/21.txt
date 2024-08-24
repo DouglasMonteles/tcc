@@ -1,1 +1,3 @@
-Solicitação ao Ministro da Justiça, José Eduardo Cardozo, de envio da Força Nacional para o município de Cascavel, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a851c71f72b54aca55d8872f1b0edb0bbace63452ff1c4d0e85a6571727aaa3f
+size 139

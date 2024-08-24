@@ -1,1 +1,3 @@
-Apelo à Câmara dos Deputados e ao Ministério das Relações Exteriores, por realização de negociações junto a países estrangeiros com vista à liberação do acesso a estudantes brasileiros. Aprovação do Projeto de Lei nº 2.112, de 2021, sobre a alteração da Lei nº 14.124, de 2021, com vista à inclusão, em grupo prioritário de vacinação contra a Covid-19, de gestantes, puérperas, e lactantes, bem como de crianças e adolescentes com deficiência permanente, com comorbidades, ou privados de liberdade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b0edc65e12059a51aa51b180086d024eac2922c172127dd8111a2cc100f090b
+size 525

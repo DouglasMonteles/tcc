@@ -1,1 +1,3 @@
-Possibilidade de crise econômica significativa no Brasil resultantes da falta de planejamento do Governo Luiz Inácio Lula da Silva. Expectativa de vitória de candidato da Direita nas eleições presidenciais da Argentina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:753386c4a24a17056a2afb39c278d2c28ae95cfafd6ad79fc2c2b10aa27a802b
+size 224

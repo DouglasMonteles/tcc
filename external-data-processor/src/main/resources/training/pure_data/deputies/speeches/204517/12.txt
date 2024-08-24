@@ -1,1 +1,3 @@
-Congratulação ao Ministério do Meio Ambiente pelo lançamento do Programa Nacional Lixão Zero. Implantação do Polo de Inovação do Agro, no Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39551dedf78af9adfe2f5f1df6bd409b71a3d129c4d804a27b1f7ab99d66b454
+size 170

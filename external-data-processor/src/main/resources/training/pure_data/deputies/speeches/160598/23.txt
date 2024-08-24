@@ -1,1 +1,3 @@
-Elogio à Presidenta Dilma Rousseff pelo lançamento de novo plano de combate ao crack, com o slogan Crack, é possível vencer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a69cbbf3de7675ac820085db52cd4963be4b2351de8918a5dad8cd28c5182a96
+size 128

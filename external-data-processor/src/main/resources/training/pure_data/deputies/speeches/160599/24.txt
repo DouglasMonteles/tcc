@@ -1,1 +1,3 @@
-Descontentamento da população brasileira com o sistema de segurança pública. Necessidade de implantação de políticas públicas para o setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c98fe233cc52712a91d6effef07362ddaa6b12396f613de1fa2cfb50f9875c9
+size 147

@@ -1,1 +1,3 @@
-Posicionamento favorável do SDD ao Requerimento de retira de pauta da Ordem do Dia da Medida Provisória nº 625, de 2013 (Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 60.000.000,00, para o fim que especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:853b439c61593ef2a388a832fdf72c73c819915a9479aa4aee6632c5a35f4176
+size 256

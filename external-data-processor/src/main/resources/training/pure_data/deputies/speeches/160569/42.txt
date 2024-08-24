@@ -1,1 +1,3 @@
-Saudações aos agricultores familiares do Estado da Bahia participantes no movimento Grito da Terra Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa0d1fe9a2766b67638d2693cc1aee9991756072b6fd11b5f13ec737f1849367
+size 108

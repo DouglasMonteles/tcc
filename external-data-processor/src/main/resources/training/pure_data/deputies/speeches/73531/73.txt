@@ -1,1 +1,3 @@
-Influência do poder econômico nas eleições municipais de São Paulo, Estado de São Paulo. Indignação com a indução de eleitores pela grande mídia e pelo poder econômico. Conveniência de adoção de novos critérios para publicação de pesquisas eleitorais e para debates políticos nas TVs. Crítica à Rede Globo de Televisão pelo cancelamento arbitrário de debates eleitorais, especialmente os programados com os candidatos à Prefeitura Municipal de São Paulo, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1377523e3c2c54cd9c2aba8e1ba32c2af9e89952deffa1257da71007ac00613
+size 501

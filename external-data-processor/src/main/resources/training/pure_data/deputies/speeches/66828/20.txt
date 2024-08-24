@@ -1,1 +1,3 @@
-Congratulação ao Deputado Silvio Torres pela apresentação de projeto destinado ao desenvolvimento do turismo rural. Solicitação ao PRB de apoio para aprovação da proposta. Sugestão à Mesa Diretora de revisão dos critérios para pagamento de sessões noturnas aos secretários parlamentares da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e70fc36b95b78a06a6d3f13124bc0e7b7061874e5b32f8693559a86cc663f51
+size 309

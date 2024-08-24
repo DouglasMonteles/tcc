@@ -1,1 +1,3 @@
-Ponderações sobre as manifestações do Deputado José Genoíno e do Deputado Miro Teixeira sobre a questão da revogação da Lei de Imprensa submetida ao STF mediante Argüição de Descumprimento de Preceito Fundamental, bem como sobre a oportunidade ou não de Casa dar andamento à tramitação de proposições que tratem da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88b542d295398b274aab6c764143e0f32a79bc8bc0188c64a7a40e0c2c616ad7
+size 342

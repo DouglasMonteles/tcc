@@ -1,1 +1,3 @@
-&nbsp;A Deputada celebrou o 33º aniversário de vigência da Lei nº 8.078/1990, que instituiu o Código de Proteção e Defesa do Consumidor. Destacou a importância dessa lei ao longo dos anos, que inicialmente gerou controvérsias, mas provou ser fundamental para regulamentar as práticas empresariais e proteger os consumidores no Brasil. Expressou preocupação com tentativas de enfraquecer a lei em nome da modernização, especialmente no contexto digital. A oradora ressaltou que é necessário proteger os consumidores, que enfrentam desafios como golpes online, e que é fundamental a luta para que o Código continue forte e o tema não sofra retrocessos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f14a601093908b7656b64b7ddd41c11e7915040f0a9ee7d2525a065cea7c24c9
+size 669

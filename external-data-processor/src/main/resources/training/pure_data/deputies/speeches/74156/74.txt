@@ -1,1 +1,3 @@
-Congratulações aos policiais e bombeiros militares pela aprovação dos textos das Propostas de Emenda à Constituição de nºs 446, de 2009, e 300, de 2008, sobre, respectivamente, a instituição do piso nacional de salário dos policiais militares e civis e dos bombeiros militares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ed6857d556363124f2219bd8c2053bc8978051bbdc592d58e5dd87c04ad4819
+size 288

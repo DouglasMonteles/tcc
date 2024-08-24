@@ -1,1 +1,3 @@
-Regozijo com a aprovação, em segundo turno, da proposta de emenda à Constituição de interesse dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3688df806c800fc7b518c07c19c9ca923cfe58fd6523c6655f5474fbdf3fe9f
+size 173

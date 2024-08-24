@@ -1,1 +1,3 @@
-Elogio ao Relator da Medida Provisória 540 de 2011, Deputado Renato Molling.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cf7acdbb26666760c501c12e7846721188659df113c98beba70553ae8c9307d
+size 77

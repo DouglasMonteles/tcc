@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 712, de 2019, sobre a instituição de subvenção econômica às concessionárias do serviço público de distribuição de energia elétrica de pequeno porte. Apoio ao Projeto de Lei nº 5.149, de 2020, relativo à alteração da Lei nº 8.989, de 1995, com vista à prorrogação da isenção do IPI incidente na aquisição de automóveis utilizados no serviço autônomo de passageiros e por portadores de deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:971fbee48bdc88f95d045c5aa612df505d9122b88e8aba38c5637d3bfa55b60b
+size 538

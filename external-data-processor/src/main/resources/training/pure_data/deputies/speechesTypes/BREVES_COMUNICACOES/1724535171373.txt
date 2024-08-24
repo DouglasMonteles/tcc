@@ -1,1 +1,3 @@
-A Deputada fez um balanço de suas atividades ao longo do ano de 2023. Destacou sua atuação na apresentação de projetos de lei, relatoria, requerimentos de informação e realização de audiência pública, focando em questões relacionadas aos direitos dos consumidores, mulheres, e do povo negro, bem como no desenvolvimento do Estado de Mato Grosso. Agradeceu aos colegas, ao Partido União Brasil e reafirmou o compromisso de continuar lutando pelo Brasil e por Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52045853c4150a5b11c83964144efd55c7193ac4cd8e36f8b75fedc381c360b2
+size 483

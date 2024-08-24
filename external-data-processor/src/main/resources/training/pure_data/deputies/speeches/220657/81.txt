@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 3.954, de 2023, que altera a Lei de Licitações e Contratos Administrativos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:295e80cfa6ff104d3d62e80435ee83513fe08474689257dd9f7d150f0d455766
+size 171

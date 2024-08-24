@@ -1,1 +1,3 @@
-Necessidade de ampliação dos debates acerca da distribuição dos recursos oriundos da exploração de petróleo na camada pré-sal. Solicitação aos Deputados de assinatura do requerimento de criação da Frente Parlamentar para o Fundo Social do Pré-Sal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec90a5ba6fba9b12cd76a3b0cfd2cc66e307d255427c3c903e402f3266365adb
+size 260

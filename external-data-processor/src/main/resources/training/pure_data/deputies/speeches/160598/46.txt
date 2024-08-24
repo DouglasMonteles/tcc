@@ -1,1 +1,3 @@
-Transcurso do centenário da Igreja Matriz do Divino Pai Eterno, no Município de Trindade, Estado de Goiás. Concessão do título de Basílica ao santuário pelo Papa Bento XVI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8895c280fc73d4dcc5c8ffe288aac9ebdbf401b833ec7192ef945d8b94f608a3
+size 179

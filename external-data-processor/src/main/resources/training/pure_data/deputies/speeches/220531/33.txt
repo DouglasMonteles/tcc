@@ -1,1 +1,3 @@
-Elevado número de estupro de menores de até 14 anos de idade no Brasil nos últimos anos. Realização da campanha Agosto Lilás, destinada ao enfrentamento à violência doméstica e familiar contra a mulher no País. União entre o Congresso Nacional, o Supremo Tribunal Federal e a Presidência da República em defesa e proteção das crianças.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d25f0adcfba2c5a3dbb6810e1de8b1f549206866156cedd39107913eee81ddfb
+size 351

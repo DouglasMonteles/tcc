@@ -1,1 +1,3 @@
-Excelência da atuação do Ministro da Saúde, Alexandre Padilha. Ampliação do Programa Farmácia Popular do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cf83f4502626fe73692d6382438c24916ad6d5c0a08528473a5b9a2fef318c5
+size 119

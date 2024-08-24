@@ -1,1 +1,3 @@
-Reflexões acerca da pesquisa divulgada pelo Datafolha sobre o índice de reprovação da Presidenta Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:456b235971e982db2f5ed3f6db1df32484085459264c7662c5a28954166b502f
+size 116

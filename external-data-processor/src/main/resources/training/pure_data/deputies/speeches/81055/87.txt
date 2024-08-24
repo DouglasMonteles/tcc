@@ -1,1 +1,3 @@
-Realização, pelo Fórum Nacional pela Democratização da Comunicação - FNDC, do Encontro Nacional pelo Direito à Comunicação, em São Luís, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59d2261fd29fdc3e9c6272abacb1cdc0e538c3c4715cf6a21f2ba29cec1c1602
+size 169

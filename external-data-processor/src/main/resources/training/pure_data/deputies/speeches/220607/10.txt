@@ -1,1 +1,3 @@
-Urgente necessidade de adoção, pelo Ministério da Saúde, de providências a respeito da falta de medicamentos para o tratamento de doenças raras no Estado no Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d656a34dfca25773c6b1f5a9d46ded503eaf19259fbcd5bcaa079d9601df0863
+size 178

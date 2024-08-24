@@ -1,1 +1,3 @@
-Realização pela Comissão de Desenvolvimento Urbano, em parceria com a Câmara Brasileira da Indústria da Construção - CBIC, de audiência pública para debate da situação habitacional do Brasil. Defesa da apreciação de proposta de emenda à Constituição sobre a fixação de percentual de receitas orçamentárias para o financiamento de habitações de interesse social.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b93a51d53f2ffb1f067bd878ed3443de85cdb734e7b1be1950790e1088581855
+size 383

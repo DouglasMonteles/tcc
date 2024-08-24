@@ -1,1 +1,3 @@
-Preocupação com a estiagem e a escassez de água nas reservas do Estado do Piauí. Necessidade de ação do Governo Federal para a construção de canais de condução de águas jorrantes do Vale do Gurgueia às regiões de seca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ece7305eec55012a19e5c11bbde802f60d684e216d63164adff7957711c3bb49
+size 231

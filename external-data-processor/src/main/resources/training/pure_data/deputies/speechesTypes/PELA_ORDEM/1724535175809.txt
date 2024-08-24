@@ -1,1 +1,3 @@
-Pedido às Lideranças partidárias de repartição de responsabilidade e de representação na Comissão Especial do impeachment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a6d9b1cd489c20e2a12fe6ac87305d37beb882990f9674db59fc794d568dee
+size 130

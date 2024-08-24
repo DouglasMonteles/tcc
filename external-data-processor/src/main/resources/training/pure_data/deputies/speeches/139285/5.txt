@@ -1,1 +1,3 @@
-Congratulações ao Governador do Estado da Bahia, Jaques Wagner, pela assinatura de convênio com o Ministério do Turismo para investimentos em acessibilidade e sinalização turística.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15819a125e0c8896c5f9a4d17a4d6ace3c5356383eb287667ff8ce7ac0bf5695
+size 188

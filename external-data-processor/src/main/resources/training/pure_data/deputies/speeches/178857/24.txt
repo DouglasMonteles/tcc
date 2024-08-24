@@ -1,1 +1,3 @@
-Posicionamento contrário do orador à cobrança dos usuários pelos serviços dos SUS, conforme proposta do Senador Renan Calheiros. Manobras da Oposição contra o Programa Mais Especialidades do Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ab4ffc7b2891703968f11325822a6e31e01bf979fee46b62b511df60332a3f3
+size 214

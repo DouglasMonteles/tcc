@@ -1,1 +1,3 @@
-Lançamento, pela empresa Valec - Engenharia, Construções e Ferrovias S.A., de edital de licitação para a elaboração dos projetos da Estrada de Ferro Paraná Oeste S.A. - Ferroeste e da Ferrovia Norte-Sul. Implantação do Programa Cidade Digital em municipalidades do Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e07fda062b48beb9ca409303eca17162fbf15dd235eb2cb7440de047d1b57d4b
+size 293

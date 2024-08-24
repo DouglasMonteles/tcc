@@ -1,1 +1,3 @@
-A Deputada anunciou a realização de audiência pública no Bairro da Restinga, em Porto Alegre, Estado do Rio Grande do Sul, para debater sobre a implantação, na zona sul da capital, do campus da Universidade da Integração Internacional da Lusofonia Afro-Brasileira - UNILAB. A oradora confirmou sua presença no debate e convidou a população da região para participar da luta pela garantia, por meio da educação, de um polo de desenvolvimento socioeconômico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:107e7498d36b7080c7b7e0da969ba6758ec266e0db445a7d0ab94d7929254dc4
+size 471

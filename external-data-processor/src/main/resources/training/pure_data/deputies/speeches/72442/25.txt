@@ -1,1 +1,3 @@
-Ambiente de ódio e extremismo reinante no País em decorrência do conflito entre a Esquerda e o Presidente Jair Bolsonaro. Dever do Parlamento brasileiro de aprovação de proposições destinadas à melhoria das condições de vida da população brasileira e à geração de emprego e renda. Desconexão entre a redução dos recursos orçamentários destinados às áreas de esporte e cultura, e a pretendida elevação das dotações do Fundo Especial de Assistência Financeira aos Partidos Políticos, denominado Fundo Partidário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63ea4b2fa7ac9c235998dc863a18cd61e9024cebbccac28b1e72bb48c396ccea
+size 539

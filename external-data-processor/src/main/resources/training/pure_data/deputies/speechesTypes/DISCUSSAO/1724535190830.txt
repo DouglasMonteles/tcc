@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 3.723-A, de 2019, sobre o registro, a posse e a comercialização de armas de fogo e munição; o Sistema Nacional de Armas - SINARM e a definição de crimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef14ca4cbbc61f872b433ab1b5845e9aa531c8cc0e58a96fc5579fe4d7ed1bdd
+size 192

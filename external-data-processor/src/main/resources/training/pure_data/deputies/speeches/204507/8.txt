@@ -1,1 +1,3 @@
-Inadmissibilidade de utilização da Comissão Externa destinada ao acompanhamento de casos de violência contra a mulher, como palanque para debate de questões de cunho ideológico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d357dbebedcb22ba42de4b149fa1c64dcd287bb923ca9c1ace1912f791252952
+size 183

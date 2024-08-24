@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de Lei nº 1.435, de 2023, que dispõe sobre a obrigatoriedade da afixação de cartazes ilustrativos sobre o método pré-hospitalar denominado Manobra de Heimlich nas instituições de ensino e para outros nos estabelecimentos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74f7b0ea15575007885aa84ffed363f5971f26c291882c12dbac41c033d505f6
+size 259

@@ -1,1 +1,3 @@
-Repúdio à determinação do Presidente Jair Bolsonaro de comemoração do aniversário da ditadura militar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8a8fd0659f359ec95c2645b7545a038866dfdea9ff3ef27ca0cc1e566905dad
+size 109

@@ -1,1 +1,3 @@
-Posicionamento favorável do PR  ao Requerimento de regime de urgência urgentíssima para o Projeto de Lei 382 de 2011 (Dispõe sobre o valor do salário mínimo em 2011, a sua política de valorização de longo prazo, e disciplina a representação fiscal para fins penais nos casos em que houve parcelamento do crédito tributário).
+version https://git-lfs.github.com/spec/v1
+oid sha256:fab3463a7f5ebdc7ef4af981e9c168ecb5704fbc88137eeb51b5a19b64feb2f0
+size 337

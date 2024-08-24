@@ -1,1 +1,3 @@
-Transcurso do 403º aniversário de fundação de São Luís, Estado do Maranhão. Cumprimentos à Deputada Rosângela Curado pela posse no mandato parlamentar. Apresentação de proposição com vistas à alteração do art. 20 da Lei nº 8.429, de 1992, quanto à possibilidade de perda do cargo e suspensão dos direitos políticos de agentes públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c0edd1214f1fb15e8d1cd0c1b86ab3d0b47b32112d42765d9c760de35204e4c
+size 356

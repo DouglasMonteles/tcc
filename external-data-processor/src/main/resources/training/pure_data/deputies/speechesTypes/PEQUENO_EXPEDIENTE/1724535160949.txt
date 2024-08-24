@@ -1,1 +1,3 @@
-Promoção da III Semana Nacional do Turismo. Transcurso do Dia Internacional do Turismo. Relato de atividades desenvolvidas pela Comissão de Turismo e Desporto da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ff9dcfff628f84ce5a0f567908af0388899b668a8888d13f237c5faab77feeb
+size 170

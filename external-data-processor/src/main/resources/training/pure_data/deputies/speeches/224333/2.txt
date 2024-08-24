@@ -1,1 +1,3 @@
-Importância da retomada do Programa Mais Médicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2107159a4da8a13c78c11821fb0380da8210053966cb14d785855404250b44b
+size 51

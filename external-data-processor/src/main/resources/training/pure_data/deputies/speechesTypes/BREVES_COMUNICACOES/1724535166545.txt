@@ -1,1 +1,3 @@
-Elevada carga tributária imposta aos contribuintes brasileiros. Necessidade de conscientização da população no que se refere à tributação incidente sobre produtos e serviços. Urgente realização da reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:328fc57f819f30e692edb2172cf4ed7ec6b96f0d3653df616084312628d4cc09
+size 228

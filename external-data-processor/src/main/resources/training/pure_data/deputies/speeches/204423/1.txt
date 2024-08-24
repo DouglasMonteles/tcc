@@ -1,1 +1,3 @@
-Realização de sessão solene pela Câmara dos Deputados ao ensejo do transcurso do centenário de fundação do Jornal do Commercio,  do Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89af6659d77ae6c152fbd79a682e02568ec23fd0280218d37409de04a9ae6732
+size 160

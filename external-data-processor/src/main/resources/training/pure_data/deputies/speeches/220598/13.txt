@@ -1,1 +1,3 @@
-Crise da educação no Município de Duque de Caxias, na Baixada Fluminense, Rio de Janeiro, Estado do Rio de Janeiro. Desvalorização dos docentes da rede municipal de ensino local.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e090bfcf5947c628ec0f5b928f566b5341ebfc15f6aacf698784bc0f4699d9ef
+size 183

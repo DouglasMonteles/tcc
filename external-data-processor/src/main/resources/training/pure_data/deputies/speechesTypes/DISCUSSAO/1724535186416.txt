@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei Complementar nº 11, de 2020, relativo à alteração da sistemática de cobrança do ICMS incidente sobre combustíveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88b6c7e2e5c76187e2e11878a6f5f4d5cee94b0c3f481b87f3cdabc38d649c7d
+size 150

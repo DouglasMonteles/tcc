@@ -1,1 +1,3 @@
-Transcurso do aniversário natalício do orador. Agradecimentos pelo lançamento do livro Sem Limite, de autoria do Parlamentar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:132007acf3bfc492557900185887c924ed4b54b8be49fc39acfa1cebc0240e49
+size 128

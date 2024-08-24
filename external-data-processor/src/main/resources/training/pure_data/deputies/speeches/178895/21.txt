@@ -1,1 +1,3 @@
-Reflexos do processo inflacionário no custo de vida do brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38d069ecd28d9c349b7f95de797e09043c2eccdc3676956045035dc6eb8850cc
+size 67

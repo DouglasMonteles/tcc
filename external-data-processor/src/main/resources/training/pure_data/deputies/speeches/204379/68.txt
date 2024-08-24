@@ -1,1 +1,3 @@
-Falecimento do ex-Deputado Sérgio Barcellos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e61668d53175dd98e2d6ab3acc8cac1cd4926305cdb3261c0f779420cf6e6e4e
+size 45

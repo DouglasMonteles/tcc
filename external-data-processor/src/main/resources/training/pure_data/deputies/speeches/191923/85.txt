@@ -1,1 +1,3 @@
-Temor dos Parlamentares da Oposição pela&nbsp;CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República. Saudações aos alunos do Estado de Goiás presentes na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57275d498d4acf1abb8ff817ab1cc643d438f7cc0188dbcd081b000c6a9067d9
+size 239

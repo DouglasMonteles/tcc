@@ -1,1 +1,3 @@
-Posse da Prefeita Mariângela Borges, do Município de Lajedo do Tabocal, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6c438d6f20ff78f68628d837412698505b9ba57e260e91dc2b81a6d87c024e6
+size 90

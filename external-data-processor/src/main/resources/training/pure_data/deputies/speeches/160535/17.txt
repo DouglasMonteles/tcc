@@ -1,1 +1,3 @@
-Posicionamento contrário do Bloco PSB/PCdoB/PMN/PRB à Emenda 345, destacada, ao Projeto de Lei de Conversão da Medida Provisória 449 de 2008 (Altera a legislação tributária federal relativa ao parcelamento ordinário de débitos tributários, concede remissão nos casos em que especifica, institui regime tributário de transição, e dá outras providências), que condiciona a concessão de empréstimo a empresa por banco oficial à manutenção de emprego por determinado período.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4dc34e341785314e315568d42d37cbde5a20849f8c34017b0ae796265082e61
+size 493

@@ -1,1 +1,3 @@
-Razões da apresentação de projeto de lei sobre a regulamentação do trabalho de diarista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:101925c415efa66323c7158f99e7fc505d84c937dbdfd0052a611e7bb2836307
+size 93

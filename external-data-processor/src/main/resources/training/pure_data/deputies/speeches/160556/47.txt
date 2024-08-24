@@ -1,1 +1,3 @@
-Excelência da atuação do ex-Líder da bancada do PT na Casa, Deputado Paulo Teixeira. Eleição do Deputado Jilmar Tatto para a Liderança do PT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1d04a336db84fee0bbeeda197252ad5106169699609f78a1b5e28f7d846d974
+size 148

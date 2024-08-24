@@ -1,1 +1,3 @@
-Comemoração do Dias da Mães. Saudações às mães brasileiras, em especial às da família do orador. Transcurso do 35º aniversário de emancipação político-administrativa dos Municípios de Tailândia e Santa Maria das Barreiras, no Estado do Pará. Saudações aos moradores de Tailândia, em nome do casal Maria Lucinete de Oliveira Ozaki e Massao Ozaki. Saudações aos Pastores Abdias Barros e William Diógenes, da Igreja Evangélica Assembleia de Deus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:820a78f8ca28e6b35048588cc1b38f87cc8c1bb8c837cb566b56931f5f349740
+size 467

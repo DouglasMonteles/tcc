@@ -1,1 +1,3 @@
-Alteração do perfil político do PT com relação à privatização dos portos. Despropósito da pretendida reestruturação dos portos meio de medida provisória. Incoerência de base governista no tocante à votação da matéria. Empenho do orador na instauração da CPI dos Portos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a52d6adc83340b99d07f47deca98f8391346663a13237cab5d3b75ac365b7295
+size 288

@@ -1,1 +1,3 @@
-Apresentação do Projeto de Lei nº 3.238, de 2015, que classifica como ato de improbidade administrativa o atraso superior a 30 dias na disponibilização de produtos referentes a material didático, merenda escolar e higiene pessoal dos alunos da rede pública de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:652180ea9d11a85ab84b3a054c68c3494a27ad530c51b42fa6bbbca948502e75
+size 274

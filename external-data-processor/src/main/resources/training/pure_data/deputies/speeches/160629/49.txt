@@ -1,1 +1,3 @@
-Necessidade de busca de solução para o endividamento dos produtores rurais brasileiros. Carta de Campina Grande, elaborada pelo Movimento dos Agricultores Endividados do Nordeste Brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d451aec6150232a425377b53aca0aa583267fc9a6c1583f1ad144e96c6a2f162
+size 192

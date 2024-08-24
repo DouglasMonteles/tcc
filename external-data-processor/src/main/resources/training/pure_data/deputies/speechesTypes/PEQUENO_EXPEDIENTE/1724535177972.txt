@@ -1,1 +1,3 @@
-Transcurso do 97º aniversário de emancipação político-administrativa do Município de Nova Russas, a capital do crochê, no Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6e881243861b00b9527bbeac6cef22e0bb6f283b4c3563d8cbd46083c9243ec
+size 146

@@ -1,1 +1,3 @@
-O Deputado destacou sua participação em solenidade no Palácio do Planalto com o Presidente Lula e outros ministros, onde foram anunciadas estratégias para fortalecer o Complexo Econômico-Industrial da Saúde no Brasil. O foco é a produção de insumos para o Sistema Único de Saúde, especialmente para doenças negligenciadas. Ressaltou a importância de fortalecer a produção local de insumos para a saúde, gerando empregos e oportunidades, além de garantir o atendimento adequado no sistema de saúde brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b364d6e6d1dd712c2eb5366e5b12147c3427f171201c7bd917d8113f5060b67a
+size 526

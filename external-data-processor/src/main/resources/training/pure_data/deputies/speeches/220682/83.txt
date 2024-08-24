@@ -1,1 +1,3 @@
-O Deputado destacou o início do ano de 2023 com a derrota de uma possível tentativa de golpe, e ao longo dos meses, testemunhou discursos pessimistas que não se concretizaram, como a quebra da PETROBRAS e a alta da inflação. Em contrapartida, observou que a bolsa de valores teve seu maior ganho histórico e que o país está crescendo. Elogiou o Governo do Presidente Lula e expressou otimismo em relação ao próximo ano.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bc057f1f82b44fc49e2389378be9f01118791dea60ff5907ee9cd3b74f6995f
+size 430

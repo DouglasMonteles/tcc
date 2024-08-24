@@ -1,1 +1,3 @@
-Comercialização no Brasil de agrotóxicos proibidos na Europa e nos Estados Unidos da América. Malefícios gerados pelo uso de agrotóxicos na agricultura brasileira. Necessidade de ampliação do quadro técnico da Agência Nacional de Vigilância Sanitária - ANVISA. Apoio ao desenvolvimento do modelo de agricultura ecológica. Apresentação do Projeto de Lei nº 1.814, de 2011, sobre a garantia de estabilidade do vínculo acadêmico de dirigentes estudantis em suas respectivas instituições de ensino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f50e26c8d2906d933827ba9667716a07e5c7e2c3b7582291a8466a329800c64
+size 514

@@ -1,1 +1,3 @@
-Questão de ordem sobre a não apreciação de requerimento do PSOL, para retirada de pauta da Proposta de Emenda à Constituição nº 3, de 2021, sobre a alteração dos arts. 14, 27, 53, 102 e 105 da Carta Magna, com vista ao resguardo de prerrogativas parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4cc1a0f5942f1929f9d9c01d9992086b401794dadc055e35760bd09b64ce82a
+size 270

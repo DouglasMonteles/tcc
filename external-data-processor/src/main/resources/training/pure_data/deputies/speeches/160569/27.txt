@@ -1,1 +1,3 @@
-Transcurso do 49º aniversário de emancipação político-administrativa dos Municípios de Boninal e Floresta Azul, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87e774ec43d3f7a1f2866334475757941e11e5b5f276dbb340a5199b637d6aa1
+size 134

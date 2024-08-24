@@ -1,1 +1,3 @@
-Assinatura de ordens de serviço para recuperação da BR-364, nos trechos Rio Branco a Riozinho do Andirá e Rio Liberdade a Feijó, no Estado do Acre. Necessidade de instalação, ao longo da rodovia, de balanças de controle de peso veicular.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73e29d956f5de549c5b1a45881979c81f2536807d526640d987f92e815228c07
+size 245

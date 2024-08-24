@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Apresentação do Projeto de Lei nº 510, de 2019, sobre a permissão do divórcio ou rompimento da união estável nos casos previstos na Lei 11.340, de 2006.  Importância da Lei Maria da Penha, destinada ao combate à violência doméstica contra a mulher.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01bf4727a248de19f54845e47863d9f81d900e790ebbf573a250309adfcef682
+size 302

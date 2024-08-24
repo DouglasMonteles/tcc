@@ -1,1 +1,3 @@
-Celebração dos 100 primeiros dias do Governo Jair Bolsonaro. Criação de CPI para investigação de ações promovidas pelo Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:265759c6ca7fffc37d19ce7ae59d1bfddd6c68311b6448f5735a860083c2570e
+size 189

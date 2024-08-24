@@ -1,1 +1,3 @@
-Congratulações ao Magnífico Reitor da Universidade Federal de Pernambuco, Carlos Calado, aos profissionais da área de medicina Olímpio Moraes e Sérgio Cabral e à direção do Centro Integrado de Saúde da Mulher — CISAN, pela decisão adotada acerca da gravidez de menor vítima de abuso sexual. Carta sobre a ação do Arcebispo de Olinda e Recife, Dom José Cardoso Sobrinho, a respeito da interrupção da gravidez da menor, de autoria da feminista Lena de Souza, republicada pelo jornal Correio da Bahia sob o título Uma Igreja que perdeu a razão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23bba8c0573e31367a7e1e4f51082333fff74cb039016c693d312d897297c2d7
+size 562

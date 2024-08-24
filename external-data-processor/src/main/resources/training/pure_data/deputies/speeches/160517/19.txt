@@ -1,1 +1,3 @@
-Instalação de nova Unidade de Pronto Atendimento - UPA no Município de Serra, Estado do Espírito Santo. Empenho na ampliação do quadro de professores do curso de Enfermagem no campus da Universidade Federal do Espírito Santo - UFES instalado no Município de São Mateus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e129e3858597bf3a0f70972f816934d99d93381c5b338596e419701e38faaec2
+size 278

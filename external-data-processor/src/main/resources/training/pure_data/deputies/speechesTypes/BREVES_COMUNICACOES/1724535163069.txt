@@ -1,1 +1,3 @@
-Protesto contra a liberação, pelo Governo Federal, do uso de novos agrotóxicos no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63f71c710251b9fd67614078ab5024146322095bf7f38cd5eecf99ec087794c5
+size 91

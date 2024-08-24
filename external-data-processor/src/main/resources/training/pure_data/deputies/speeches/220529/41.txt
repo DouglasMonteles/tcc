@@ -1,1 +1,3 @@
-Promoção pelo orador do Seminário Gestão de Riscos e Desastres - Captação de Recursos, em Vitória, Estado do Espírito Santo. Agradecimento aos participantes no evento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fe6e329ea4bb6422b9d72e81cca1732f6cf1a66ef329d0ee527b1b8eb6dd927
+size 175

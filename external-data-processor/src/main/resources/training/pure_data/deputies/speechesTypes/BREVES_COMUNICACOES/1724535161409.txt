@@ -1,1 +1,3 @@
-Ilegalidade do inquérito instaurado pelo Supremo Tribunal Federal contra o jornalista Allan dos Santos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f66a1815e69b0f298808cc0da35a6c74126f2b32a932c6cd1b704596dc151c1
+size 104

@@ -1,1 +1,3 @@
-Tragédia ocorrida na Baixada Santista, Estado de São Paulo, em decorrência do excesso de chuvas. Apelo ao Ministro do Desenvolvimento Regional de alocação de recursos para a construção de obras emergenciais de combate aos efeitos de enchentes na região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f1706cf2bfeb46171a36657c2fe337e4ed1ccfde3845a75d53f618ce9eb394f
+size 261

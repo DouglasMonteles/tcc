@@ -1,1 +1,3 @@
-Posicionamento favorável do PSC  ao Requerimento de preferência para votação da PEC 346 de 2013, apensada à PEC 556 de 2002 (Dá nova redação ao art. 54 do Ato das Disposições Constitucionais Transitórias, da Constituição Federal, para conceder   aos seringueiros (soldado da borracha) os mesmos direitos concedidos aos ex-combatentes).
+version https://git-lfs.github.com/spec/v1
+oid sha256:419d213e41879e4a98d6b06a812c701bc5190b70e28dd10743720a0f3e7a947e
+size 348

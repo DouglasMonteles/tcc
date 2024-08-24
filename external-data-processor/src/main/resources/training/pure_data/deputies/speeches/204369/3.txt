@@ -1,1 +1,3 @@
-Repúdio à instauração de inquérito pelo Supremo Tribunal Federal, para investigação de meios de comunicação do País. Anúncio da apresentação de representação junto à Procuradoria-Geral da República destinada à apuração de eventual abuso de autoridade e de crime de responsabilidade cometidos por Ministros da Suprema Corte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6f12093dc0ba2136a45b42a61320a34f6dd64fb90bba5d22efc67341470e7a7
+size 343

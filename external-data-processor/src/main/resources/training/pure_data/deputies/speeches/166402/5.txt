@@ -1,1 +1,3 @@
-Apoio à CPMI destinada à investigação de práticas criminosas do Sr. Carlos Augusto Ramos, conhecido como Carlinhos Cachoeira, desvendadas em operações da Polícia Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea70dc9d021fb6cc45cea5b0712201967d41ad727e774b9a72f2f1fb5f09483f
+size 178

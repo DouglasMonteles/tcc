@@ -1,1 +1,3 @@
-Retomada dos trabalhos da Comissão de Direitos Humanos e Minorias. Congratulação ao Presidente do órgão, Deputado Pastor Marco Feliciano. Eleição do 2º e do 3º Vice-Presidentes da Comissão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75d4c5fca2c51bdb3dc17cf38eff734504d5c0c979d8c9c6c0559ce9f715575c
+size 199

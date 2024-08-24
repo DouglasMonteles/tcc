@@ -1,1 +1,3 @@
-Relevância do Serviço de Triagem Neonatal desenvolvido pela Associação de Pais e Amigos dos Excepcionais — APAE, em Salvador, Estado da Bahia. Anúncio de apresentação de emenda orçamentária destinada à construção do Centro Avançado de Prevenção e Promoção à Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99a413d1e187248e5f8757ae1943fc194782e5ee7542f3a2ddf584f192f7c77d
+size 285

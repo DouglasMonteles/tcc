@@ -1,1 +1,3 @@
-Consternação com a morte de Tarcísio Wilker Gomes, Cabo da Polícia Militar do Estado de São Paulo, na tentativa de impedimento de roubo de empresa de valores por quadrilha no Município de Ribeirão Preto. Cobrança ao Governo paulista de providências para melhoria da segurança da população de Ribeirão Preto e região.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc2cf4543c062c0731812827c5b5bddff5c1580b9c598d348a957f9817c51500
+size 330

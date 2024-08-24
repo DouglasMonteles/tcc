@@ -1,1 +1,3 @@
-Comprovação pelo Exame Nacional de Desempenho dos Estudantes - ENADE da má qualidade do ensino nas faculdades privadas. Repúdio à transferência de recursos públicos da educação à iniciativa privada. Defesa da valorização e ampliação do ensino superior público.
+version https://git-lfs.github.com/spec/v1
+oid sha256:962f0da7bf28111c46bd4a19c00999b69d3c95323894a44c16f0ab919b9ab30e
+size 275

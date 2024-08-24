@@ -1,1 +1,3 @@
-Celebração de acordo sobre o pagamento de precatórios ao professorado brasileiro, no âmbito da Proposta de Emenda à Constituição nº 23, de 2021, acerca da alteração do regime de pagamento de precatórios pela União.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48fc0696884270cce22a53df280e1da8f97dea8c3b7d8240b355951db3884e46
+size 226

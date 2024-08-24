@@ -1,1 +1,3 @@
-A Deputada procedeu à leitura em plenário do parecer ao Projeto de Lei nº 1.213, de 2022, e de seu substitutivo, que altera a Lei nº 14.149, de 5 de maio de 2021, para dispor sobre a aplicação obrigatória do Formulário Nacional de Avaliação de Risco no âmbito das Polícias Civis dos Estados e do Distrito Federal, da relatora da matéria, Deputada Yandra Moura, pela Comissão de Constituição e Justiça e de Cidadania (CCJ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4510f670405d4d2a1daab294ca256ce52dd0821d1d7236790bf17d8fe3b1839f
+size 439

@@ -1,1 +1,3 @@
-Esclarecimento sobre o teor do discurso proferido pela oradora, a respeito do desvio de recursos destinados ao enfrentamento do coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da41038169987179a0efd43f7fc18b75c1808c00913253db202bcdfbaf92bdd9
+size 141

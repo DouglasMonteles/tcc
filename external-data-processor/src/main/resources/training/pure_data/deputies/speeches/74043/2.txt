@@ -1,1 +1,3 @@
-Solicitação de correção de erro em emenda ao projeto de lei orçamentária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b94c12717b88ea81ae1d10d58aaec6c11c6a38bb684d6f097c637c57c7db5ca8
+size 79

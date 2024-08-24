@@ -1,1 +1,3 @@
-Tendenciosidade do discurso da Esquerda sobre o assassinato da Vereadora Marielle Franco. Apoio à criação de CPMI para investigação de atos de vandalismo praticados contra às sedes dos Poderes da República. Avaliação positiva da gestão do ex-Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:356ed2b3020c40d5ca0e52ff9dd13b1482221ecfc55cae017e0197b291b38072
+size 278

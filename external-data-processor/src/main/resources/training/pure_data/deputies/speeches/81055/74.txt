@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado do § 3º do art. 33 do Substitutivo adotado pela Comissão Especial do  Projeto de Lei nº 1.292, de 1995, sobre a alteração da Lei nº 8.666, de 1993, acerca das normas de licitações e contratos da administração pública, com vista à sua inclusão na Subemenda Substitutiva Global apresentada no plenário. Manifesto da Comunidade Acadêmica do Maranhão em Apoio ao Acordo de Salvaguardas Tecnológicas Brasil-EUA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa29b8308c97c24bba20f6762d9679b3a40a332321e80ebe620d4a9a84bd0e43
+size 516

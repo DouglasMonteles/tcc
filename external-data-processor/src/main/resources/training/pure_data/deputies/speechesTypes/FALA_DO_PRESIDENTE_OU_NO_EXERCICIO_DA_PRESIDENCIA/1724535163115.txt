@@ -1,1 +1,3 @@
-Manifestação de boas-vindas aos visitantes de Salvador, Estado da Bahia, presentes nas galerias do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1d269ef9154c05547ea929261ccc6139fec9cbddbae1b70fdb9d9bb3c75bacf
+size 111

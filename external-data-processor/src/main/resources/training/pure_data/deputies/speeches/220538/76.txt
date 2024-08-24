@@ -1,1 +1,3 @@
-Inoportunidade de alteração, pelo Tribunal Superior Eleitoral, da representatividade na Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69792465213dadf7da13419d7704e447e0d6d2dcad2253b7485f53acc7ca70fc
+size 112

@@ -1,1 +1,3 @@
-Homenagem póstuma ao professor, advogado, escritor e membro da Academia Brasileira de Letras, Candido Mendes de Almeida. Solidariedade aos seus familiares, bem como aos integrantes do Centro Alceu Amoroso Lima para a Liberdade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe3e95db2fdcd831cbd76e06b23563b9eb19c79de2cce2dc3111b90089ba522b
+size 228

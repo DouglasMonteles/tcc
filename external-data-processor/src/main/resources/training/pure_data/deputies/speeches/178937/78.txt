@@ -1,1 +1,3 @@
-Desvio, pelo governo petista, de 15 bilhões de dólares do Complexo Petroquímico do Rio de Janeiro - COMPERJ. Atribuição ao governo do PT da responsabilidade pelo aumento nos preços de combustíveis, em face da não construção de refinarias de petróleo. Elevação dos preços de combustíveis no contexto mundial provocada pela guerra Federação Russa/Ucrânia. Defesa da criação de Comissão Externa para visita à COMPERJ, no Rio de Janeiro, Estado do Rio de Janeiro. Realização, pelo Governo Jair Bolsonaro, de investimentos na saúde municipal. Urgente adoção, pelo Governo Federal, de medidas de redução dos preços de combustíveis no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e3c74835726c6b34db4ed609c47409cb27c360291c2e1287e10b0d729180501
+size 665

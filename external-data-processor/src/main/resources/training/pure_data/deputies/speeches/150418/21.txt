@@ -1,1 +1,3 @@
-Posicionamento da Frente Parlamentar da Pesca e Aquicultura contrário à instrução normativa do Ministério da Pesca e Aquicultura sobre a aquisição, pelos pescadores artesanais, de equipamento de rastreamento por satélite para instalação em suas embarcações. Apoio do orador ao sistema de cotas raciais para acesso às universidades públicas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8beb5129b969a2dbcf1f7399535e91b43ffc4fd82e9edc698e4d46dee46e240
+size 354

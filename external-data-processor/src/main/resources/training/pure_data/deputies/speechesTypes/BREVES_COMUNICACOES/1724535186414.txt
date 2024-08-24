@@ -1,1 +1,3 @@
-Iminência do alcance da marca de 500 mil mortos pela Covid-19 no País. Lentidão do processo de vacinação no Brasil. Avanços na imunização da população em outros países. Defesa da aceleração do processo de liberação de novas vacinas pela Agência Nacional de Vigilância Sanitária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b1f9babaf31d8fad6bda02a54da7a3eefc32fff25784025a8a924b574aa6736
+size 296

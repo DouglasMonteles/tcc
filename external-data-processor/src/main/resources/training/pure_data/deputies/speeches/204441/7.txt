@@ -1,1 +1,3 @@
-Críticas ao PPS pelo ajuizamento no Supremo Tribunal Federal de ação direta de inconstitucionalidade por omissão, a respeito da não apreciação pelo Congresso Nacional de matéria relativa à criminalização da homofobia. Repúdio a argumentos utilizados pelo Ministro Celso de Mello no julgamento da ação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:416ab07cb3ba355e81a5c254cadd0cbfd9e3ed0cb41cabea813691d555228e21
+size 315

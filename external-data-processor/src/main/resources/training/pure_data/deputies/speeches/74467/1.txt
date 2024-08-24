@@ -1,1 +1,3 @@
-Urgente aprovação, pela Casa, da proposta de criação do Estatuto da Igualdade Racial. Desafios da Frente Parlamentar em Defesa do Profissional de Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cb835f48f7404430847153dd3709afe5c6d334ec174ba4698d3b9b6f0381598
+size 157

@@ -1,1 +1,3 @@
-Avaliação das causas da crise brasileira. Acerto das medidas do Governo Michel Temer para retomada do crescimento econômico. Defesa de revisão da finalidade da Universidade Federal da Integração Latino-Americana - UNLA, sediada no Município de Foz do Iguaçu, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1155cf23bbd2f17c3c67a3ae0697ea2bd9f4031ca6ae74d1a07e37e34a51d2c9
+size 285

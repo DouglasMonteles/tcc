@@ -1,1 +1,3 @@
-Transcurso do 147º aniversário de emancipação político-administrativa do Município de Campina Grande, Estado da Paraíba. Destaque da municipalidade nas áreas de educação, tecnologia, comércio e indústria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aad844316bdf4d105e5b9c5da88336512d8c6852480781925079711daa8aba10
+size 216

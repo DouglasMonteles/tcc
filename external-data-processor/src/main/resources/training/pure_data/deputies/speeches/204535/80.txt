@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda de Plenário nº 8, apresentada ao Projeto de Lei de Conversão nº 15, de 2020, da Medida Provisória nº 936, de 2020, acerca da instituição do Programa Emergencial de Manutenção do Emprego e da Renda, e de medidas trabalhistas complementares para enfrentamento do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 2020. Urgente necessidade de retomada do funcionamento do Conselho de Ética e Decoro Parlamentar, para exame de representações contra os Deputados Eduardo Bolsonaro e Bia Kicis. Solicitação à Presidência de tramitação dos pedidos de impeachment  do Presidente Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cafe75f90b07f4d13530a5323507b1eced9e3dfe7e38782926af3a91d1c3203f
+size 734

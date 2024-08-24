@@ -1,1 +1,3 @@
-Questionamentos às pautas do Governo Luiz Inácio Lua da Silva nos setores de educação, saúde, segurança e economia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:588df395417b86dd42dc98862f3fdeb44bd895571682a0295816227b79acea41
+size 121

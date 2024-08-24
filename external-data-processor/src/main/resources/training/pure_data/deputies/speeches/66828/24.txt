@@ -1,1 +1,3 @@
-Solicitação à Presidência de inclusão na pauta de votações de requerimento de apreciação em regime de urgência de proposição relativa ao reajuste salarial de servidores da Advocacia-Geral da União - AGU.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df6e90766ee2a597027ac28137b25976f8bba01ca084fe9e7e9f4f01a78b2dd6
+size 216

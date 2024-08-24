@@ -1,1 +1,3 @@
-Desempenho do PT nas eleições municipais de 2012 realizadas no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35c34680258e17fad4f8f56e30ef3dd0bf09970cca5b232df000375c57566e4d
+size 83

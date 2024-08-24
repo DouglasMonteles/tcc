@@ -1,1 +1,3 @@
-Corroboração do discurso proferido pelo orador sobre a perda de espaços da mulher na sociedade em face do transexualismo. Direito do orador de expressão de suas opiniões, com fulcro no art. 53 da Constituição Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27b6e37a02420b1147160e31194f7cb1097083b72351749eb65efeed4f1bf291
+size 224

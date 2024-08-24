@@ -1,1 +1,3 @@
-Conciliação entre a produção agrícola e a preservação do meio ambiente no processo de reformulação do Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63e4f38d0a0b6430578b7ac1e63da257d30336099440fba995f42b8107272d78
+size 140

@@ -1,1 +1,3 @@
-Registro de voto favorável à cassação do ex-Deputado Eduardo Cunha. Atuação parlamentar do orador no combate à corrupção. Expectativa de renovação da política no Município de Sobral, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d08b9a46422b736552280a8b0820bcb0de42039a864ec35cd79ac2144de912d
+size 213

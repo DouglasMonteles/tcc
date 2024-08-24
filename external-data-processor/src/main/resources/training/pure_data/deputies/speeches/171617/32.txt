@@ -1,1 +1,3 @@
-Congratulações à Casa pela aprovação da proposta de emenda à Constituição relativa à Defensoria Pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a992084eb48c7fa760415b832220713b42f28f272baad9628bbf3c26ae1ae9e5
+size 114

@@ -1,1 +1,3 @@
-Conveniência de apuração, pela Comissão de Direitos Humanos e Minorias, de denúncia de arbitrariedades praticadas pela Política Militar de São Paulo contra moradores da Favela de Paraisópolis, veiculada pelo jornal O Estado de S. Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfbe2f83a371ca5b247527dc69d6707372f0db7d1c34bd8b3a06ff27e476dd12
+size 244

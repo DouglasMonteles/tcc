@@ -1,1 +1,3 @@
-Exuberância das reservas de mármore e granito do Estado do Espírito Santo. Referência do Estado na produção de café conilon e de banana orgânica. Potencial turístico do Espírito Santo. Relevância do complexo portuário espírito-santense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b3a484036bd9cb52ed2a32e267449dc305bd738b96aa2547a54392adeddbd5f
+size 249

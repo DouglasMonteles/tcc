@@ -1,1 +1,3 @@
-Defesa de manutenção do Veto Parcial nº 52, de 2019, aposto ao Projeto de Lei do Congresso Nacional nº 51, de 2019, sobre a alteração da Lei nº 13.898, de 2019, acerca das diretrizes para elaboração e execução da Lei Orçamentária de 2020.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bdce7cb29651ca118507010c579600469106dfae4b9b454fe31c1daa406a76b
+size 251

@@ -1,1 +1,3 @@
-Encaminhamento da votação da Emenda 30, destacada, à Medida à Provisória 434 de 2008 (Dispõe sobre a estruturação do Plano de Carreiras e Cargos da Agência Brasileira de Inteligência - ABIN, cria as  Carreiras de Oficial de Inteligência, Oficial Técnico de Inteligência, Agente de Inteligência e Agente Técnico de Inteligência, e dá outras providências), que acresce às atribuições do cargo de Oficial Técnico de Inteligência, descritas no inciso I, do art. 11, a atividade de suporte às ações de inteligência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34917f4c00884e7b0e71322bfa96cf18add626dc6e2ceceeefee0f23f1e40c09
+size 537

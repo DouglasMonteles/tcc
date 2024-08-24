@@ -1,1 +1,3 @@
-Anúncio de apresentação, à Agência Nacional de Energia Elétrica - ANEEL, de recurso contra o índice de reajuste anual de tarifas concedido à Companhia Energética de Minas Gerais - CEMIG. Continuidade da luta pela devolução aos consumidores brasileiros de valores cobrados a maior em tarifas de energia elétrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc0015e4ad568b0752073983113ad057f388da6878de241b7cd34748ff6e8baf
+size 323

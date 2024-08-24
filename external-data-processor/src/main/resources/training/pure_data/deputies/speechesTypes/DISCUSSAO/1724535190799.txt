@@ -1,1 +1,3 @@
-Contrariedade à aprovação da proposta de reforma previdenciária. Discussão do Projeto de Lei nº 2.999, de 2019, sobre a antecipação do pagamento dos honorários periciais em ações do Instituto Nacional do Seguro Social - INSS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cda6883b8c42e96f7c794af0a915c27b3ecc6b8e6e8df0dba6e78ea532213946
+size 236

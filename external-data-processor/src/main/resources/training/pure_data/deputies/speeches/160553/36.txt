@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar pela Luta Contra a Tuberculose. Apoio do Secretário de Saúde do Estado da Bahia, Jorge Solla, a entidades dedicadas ao combate à doença.
+version https://git-lfs.github.com/spec/v1
+oid sha256:687cfa5dea2984ee8a28fb06891bb7ee9e1ea652e940c6aad23ac33b373dee9d
+size 172

@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com os conflitos em Israel e condenou os ataques do Hamas, destacando os horrores causados, especialmente entre jovens e idosos. Alertou sobre a repercussão global desses eventos e a possível interrupção do acordo entre Israel e a Arábia Saudita. Também questionou o apoio do PT ao grupo Hamas e criticou a postura do Brasil na Presidência do Conselho de Segurança da ONU. Concluiu pedindo ao Governo brasileiro que defenda o direito de autodefesa de Israel e lembrou a responsabilidade histórica do País na criação do Estado de Israel em 1947.
+version https://git-lfs.github.com/spec/v1
+oid sha256:930a1f576be28e53796fd2c876f080f5e77fa11d69e980987e04cb75f0c3fc69
+size 591

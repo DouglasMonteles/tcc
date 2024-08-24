@@ -1,1 +1,3 @@
-Apelo ao Governador do Estado de São Paulo, Tarcísio Gomes de Freitas, por instalação de Escola Técnica Estadual no Município de Lins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aabe116d80659251d19a2cdef94358aad224d92dc50da4020cac74f3181e46e1
+size 140

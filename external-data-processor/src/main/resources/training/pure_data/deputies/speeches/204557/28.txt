@@ -1,1 +1,3 @@
-Realização do Festival Folclórico de Parintins, no Estado do Amazonas. Apresentação, à Comissão de Integração Nacional e de Desenvolvimento Regional, de requerimento de realização de audiência pública em Manaus para debate da situação do sistema prisional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9a3aa66d4d14f2a6bb06301b53cacdb319e8e923c525fae85018f9b510f5eb5
+size 271

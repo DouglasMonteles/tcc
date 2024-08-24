@@ -1,1 +1,3 @@
-Visita do orador e de outros membros da Comissão de Direitos Humanos e Minorias aos Municípios de Uberlândia e Prata, Estado de Minas Gerais. Razões da apresentação, perante o Conselho Nacional de Justiça, de Representação contra membro do Poder Judiciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:753b8c5dc99aef47b01dd6b121b77b6dc0f35fcd06ad9ef10e415d31a62ed18a
+size 267

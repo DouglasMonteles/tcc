@@ -1,1 +1,3 @@
-Usurpação da prerrogativa legiferante do Parlamento brasileiro pelo Supremo Tribunal Federal. Repúdio ao ativismo jurídico da Suprema Corte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc42ead9f7417624fcc85c4aa0348e9b771eb287091f46c3bc23e8714703fab1
+size 144

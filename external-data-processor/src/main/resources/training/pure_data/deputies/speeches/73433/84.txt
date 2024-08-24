@@ -1,1 +1,3 @@
-Ponderações sobre proposta de acordo de procedimento para agilização da votação de matérias constantes da pauta da Ordem do Dia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67562d54f0cb80cdcf45a844ef4c6b0693bd59974e439bebf2ab9a5ee1350f31
+size 135

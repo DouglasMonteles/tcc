@@ -1,1 +1,3 @@
-Saudação aos policiais rodoviários federais presentes na Casa. Indicação do orador para a relatoria da Proposta de Emenda à Constituição nº 58, de 2015, que fixa parâmetros para a remuneração da Carreira de Policial Rodoviário Federal. Lançamento da Frente Parlamentar do Rodeio. Contrariedade à Proposta de Emenda à Constituição nº 149, de 2007, sobre o estabelecimento de reserva de vagas para licenciados do serviço militar inicial nas polícias militares. Solicitação ao Governador do Estado de São Paulo, Geraldo Alckmin, de revisão do projeto de melhorias do trecho da Rodovia Raposo Tavares localizado entre os Municípios de Itapetininga e Ourinhos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ed2e296a84e615eaa60221870f27880eff446e22c212108263636f1bc7235fc
+size 681

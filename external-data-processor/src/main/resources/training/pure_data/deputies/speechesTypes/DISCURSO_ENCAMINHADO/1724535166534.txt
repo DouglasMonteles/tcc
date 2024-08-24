@@ -1,1 +1,3 @@
-Realização da Plenária Nacional do PHS no Município de Foz do Iguaçu, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d62e3d3e30d9d00048eaa57234e240a96c3160a7fe2ff3d328c60bb2e5725b92
+size 93

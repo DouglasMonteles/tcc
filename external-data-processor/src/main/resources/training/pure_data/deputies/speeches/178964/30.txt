@@ -1,1 +1,3 @@
-Presença do orador no evento de abertura do 3º Festival da Juventude Rural da Confederação Nacional dos Trabalhadores na Agricultura - CONTAG, em Brasília, Distrito Federal. Participação de jovens gaúchos, organizados pela Federação dos Trabalhadores na Agricultura no Rio Grande do Sul - FETAG e Sindicatos de Trabalhadores Rurais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c60b1fd23335992fe19f5f066ed09c1cd7c7303ebf16418f8d8b6cc9d350be0
+size 342

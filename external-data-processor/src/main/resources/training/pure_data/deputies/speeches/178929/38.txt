@@ -1,1 +1,3 @@
-Orientação de bancada do PHS contrária ao Requerimento de Urgência nº 4.249, de 2016, de apreciação do Projeto de Lei nº 4.850, de 2016, que estabelece medidas contra a corrupção e demais crimes contra o patrimônio público e combate o enriquecimento ilícito de agentes públicos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75b1bd43eb056a08754b53c76c64e2d347c33f5134f65424e62922b1302f5e5a
+size 292

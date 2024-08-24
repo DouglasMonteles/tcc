@@ -1,1 +1,3 @@
-Congratulações ao Prefeito Paulo Celso Cola Pereira, do Município de Piúma, Estado do Espírito Santo, pelo sucesso das festas carnavalescas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78b3913b1de98e163b50f3bfd5d7cf575e80ff40a9362515fd0af45f4d4006a6
+size 145

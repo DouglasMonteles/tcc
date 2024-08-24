@@ -1,1 +1,3 @@
-Importância de aprovação da Medida Provisória nº 848, de 2018, sobre a utilização de recursos do Fundo de Garantia do Tempo de Serviço - FGTS para fnanciamento das Santas Casas de Misericórdia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcf94ead6b5bcadd3f74b26e61528b80a5aaf970ebcefbdf7515537604832378
+size 202

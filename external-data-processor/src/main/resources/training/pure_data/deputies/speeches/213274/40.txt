@@ -1,1 +1,3 @@
-Declaração de voto contrário à admissibilidade da Proposta de Emenda à Constituição nº 3, de 2021, sobre a alteração dos arts. 14, 27, 53, 102 e 105 da Carta Magna, com vista ao resguardo de prerrogativas parlamentares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54f9e9db7d10fa71008b943fcda49af26c58dc47ac6a36d8fdcfe63bd8c18bbb
+size 229

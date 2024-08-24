@@ -1,1 +1,3 @@
-Apresentação do Requerimento nº 413, de 2023, de votação pelo Plenário de medidas cautelares impostas ao Deputado Zé Trovão no bojo do Inquérito nº 4.879, instaurado pelo Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba3c515f1d0bfcec45681112e7687da8e42dd0a84b0c2601ee6e562078f31442
+size 206

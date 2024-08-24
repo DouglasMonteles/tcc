@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de retirada de pauta da Proposta de Emenda à Constituição nº 6, de 2019, sobre a reforma do sistema previdenciário. Presença no plenário do ex-Deputado Federal Babá. Realização de greve de servidores públicos por reajuste salarial, no Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c8be83e6c080239e5a99a3ab635381254f289c23bd927892666232d82fcb7c6
+size 317

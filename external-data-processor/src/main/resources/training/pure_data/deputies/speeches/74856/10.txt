@@ -1,1 +1,3 @@
-Falecimento do ex-preso político Luiz Fernando Victor. Solicitação à Presidência de inclusão na pauta de proposta de emenda à Constituição relativa à extinção do instituto da enfiteuse.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d0da82e496f67ba115ea4bf06aeb04a456111998626fc18b703b7f1855f20eb
+size 197

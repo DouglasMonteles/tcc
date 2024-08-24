@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Homenagem às mulheres da Igreja do Evangelho Quadrangular. Transcurso de aniversário da conquista do direito de voto pela mulher brasileira. Ampliação do espaço feminino na política nacional. Presença da mulher em variados campos de atividade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e68caca4edfb69a35baf732b3d8e0f5a17bf7c1af6a33b2deb33988a879208e4
+size 293

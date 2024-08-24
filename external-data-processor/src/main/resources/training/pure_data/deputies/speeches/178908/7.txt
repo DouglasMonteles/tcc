@@ -1,1 +1,3 @@
-Defesa de proposta de emenda à Constituição relativa à redução da maioridade penal para 16 anos de idade. Crítica aos Deputados contrários à aprovação da matéria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b50ab559d90547798159299fe6bcac7f7c5ff754f05a1c75d4c43414c9f2db04
+size 174

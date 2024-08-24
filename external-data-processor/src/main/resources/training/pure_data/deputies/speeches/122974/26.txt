@@ -1,1 +1,3 @@
-Orientação de bancada na votação do parecer da Comissão de Constituição e Justiça e de Cidadania sobre a admissibilidade da Proposta de Emenda à Constituição nº 10, de 2020, referente ao estabelecimento do regime extraordinário fiscal, financeiro e de contratações para enfrentamento da calamidade pública nacional decorrente da pandemia de coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b32868f4d8490142ed3fe57e2a5eab961f0cf61ebf3f99402c9c3e65545130f
+size 370

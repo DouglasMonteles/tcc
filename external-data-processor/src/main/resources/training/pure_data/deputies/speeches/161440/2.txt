@@ -1,1 +1,3 @@
-O Deputado saudou a presença na Câmara dos Deputados do Deputado Estadual Emerson Stein, ex-Prefeito de Porto Belo. Além disso, anunciou que a Assembleia Legislativa de Santa Catarina decidiu destinar trinta milhões de reais para os atingidos pelas chuvas no Estado e reafirmou o compromisso da bancada parlamentar federal catarinense com as vítimas das intempéries climáticas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f04eebdf50c3a8e329a3e6071c7dac9b51706507e6d9399de5085964de41a4e6
+size 384

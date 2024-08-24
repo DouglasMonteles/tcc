@@ -1,1 +1,3 @@
-Solicitação aos Deputados de apoio ao Projeto de Decreto Legislativo nº 167, de 2020, para sustação dos efeitos dos Editais de nºs 33 e 34, de  2020, relativos às datas de aplicação do Exame Nacional do Ensino Médio - ENEM, nos formatos impresso e digital, publicados pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP , do Ministério da Educação. Repúdio ao posicionamento do Presidente Jair Bolsonaro diante da pandemia de coronavírus. Participação do Presidente da República em atos contra o Congresso Nacional e o Supremo Tribunal Federal. Apoio à instalação de CPI destinada à investigação de denúncias contra Jair Bolsonaro, apresentadas pelo ex-Ministro da Justiça e Segurança Pública, Sergio Moro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c416dbc37e2a0d57e7219f3d7be0adb81c34e497013549a307f6b9b6ab774a5
+size 766

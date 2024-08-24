@@ -1,1 +1,3 @@
-Preocupação diante da possibilidade de não redução do número de Ministérios no eventual Governo Michel Temer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e414e6a61628fdef1912f79a8262090df88aa382cf073f775fa5c07d67ab1c20
+size 116

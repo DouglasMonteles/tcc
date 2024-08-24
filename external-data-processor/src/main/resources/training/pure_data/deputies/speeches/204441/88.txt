@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 1, do Senado Federal, ao Projeto de Lei nº 1.321, de 2019, sobre a autonomia dos partidos políticos. Congratulações à Secretaria Municipal de Educação do Estado do Rio de Janeiro, pela iniciativa de debate da Lei Maria da Penha no ambiente escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b7d444bf4bb4e6cbfffd92ed73406b34a7fb0af63ddee8dce0db7f9bb1f33ee
+size 361

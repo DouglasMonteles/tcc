@@ -1,1 +1,3 @@
-Importância da aprovação do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira. Defesa de votação do Projeto de Lei nº 2.295, de 2000, a respeito da fixação da jornada de trabalho dos enfermeiros em 30 horas semanais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:584245aaff5f87f01506342867c25df6ed21252d5530db760b0dd92f4e9df698
+size 303

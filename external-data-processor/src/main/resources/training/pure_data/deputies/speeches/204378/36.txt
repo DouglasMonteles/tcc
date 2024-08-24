@@ -1,1 +1,3 @@
-Maior participação feminina na política. Apoio às manifestações a favor do golpe militar de 1964. Solicitação aos Deputados oposicionistas de busca de conciliação em prol da aprovação de reformas constitucionais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f41eef71143aca3d42ca12e51aad365a64abf06c7f8e317ec384a4cc48e26ac
+size 224

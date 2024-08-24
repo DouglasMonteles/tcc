@@ -1,1 +1,3 @@
-Regozijo com a escolha do orador para Líder do PP. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45135c88bb926c91b7ef08a2761075c0a3b965d869db4c8c878f99a151c8aaad
+size 87

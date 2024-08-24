@@ -1,1 +1,3 @@
-Falecimento do ex-Senador Abdias Nascimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af558cb187d07c7d9fe3113a299218b12260fac4c1a7354c6659bc1ef8bbc519
+size 44

@@ -1,1 +1,3 @@
-Publicação, pelo Ministério do Meio Ambiente, da Portaria nº 217, de 2017, sobre a liberação da pesca de espécies consideradas vulneráveis. Criação de grupo de trabalho destinado à definição de espécies aquáticas vulneráveis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db91301cc9c5050db192cc4174ce06c4577ead294ff85f20655fc73fb736528b
+size 241

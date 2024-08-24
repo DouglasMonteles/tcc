@@ -1,1 +1,3 @@
-Homenagem aos profissionais de educação física.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cc4b59d9c47f09421817ff399d9773a4bee54dda7bdfc7e2c8b0b18b01f9e06
+size 50

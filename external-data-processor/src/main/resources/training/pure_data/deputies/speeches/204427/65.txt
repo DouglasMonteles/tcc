@@ -1,1 +1,3 @@
-Declaração de voto pela aprovação do requerimento de apreciação em regime de urgência do Projeto de Lei Complementar nº 93, de 2023, sobre a instituição do regime fiscal sustentável para garantia da estabilidade macroeconômica do País; e a criação de condições adequadas ao crescimento socioeconômico, nos termos do disposto no art. 6º da Emenda Constitucional nº 126, de 2022, (novo arcabouço fiscal).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4278549db9512ca836a81a337c5c818608aa30e20164f34bc6b19bd73fde3928
+size 423

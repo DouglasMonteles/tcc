@@ -1,1 +1,3 @@
-Conveniência de retomada do crédito associativo, suspenso após a instituição do Programa Minha Casa, Minha Vida. Resultados auspiciosos do Programa Casa da Gente, implantado pelo Prefeitura Municipal de Toledo, Estado do Paraná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1c6bae8e0a2c5e8eefe1c7789c20b39c7b8ca195fccd77a548873fa54863315
+size 234

@@ -1,1 +1,3 @@
-Agradecimento ao eleitorado acriano pela assunção do mandato parlamentar. Repúdio às agressões verbais desferidas por suposta professora contra motoboy, em Rio Branco, Estado do Acre. Precariedade da BR-364, trecho Rio Branco-Cruzeiro do Sul. Apelo ao Governo Federal por recuperação da rodovia. Indignação com os preços exorbitantes das passagens do voo Brasília-Rio Branco. Defesa de punição do Presidente da República por prejuízos causados ao País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1f95c360dfb8785605924788b5e219b7338dab98b0a37ef2de05108abbe991a
+size 468

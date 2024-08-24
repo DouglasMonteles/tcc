@@ -1,1 +1,3 @@
-Homenagem à Associação Nacional dos Servidores da Previdência Social - ANASPS, ao ensejo do transcurso do 21º aniversário de fundação da entidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:968462dbc98098fe9eb079f7724c440e7edfe732d9ce01b8e6d21859d83f42a2
+size 154

@@ -1,1 +1,3 @@
-Contrariedade à privatização da Fundação para o Remédio Popular - FURP. Despejo de famílias do Sítio São Francisco, na região do Pimentas, Município de Guarulhos, Estado de São Paulo. Apoio ao Movimento dos Trabalhadores Sem Teto - MTST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bc0987ad77e136d508693e4bb5f90a9a774e33f78995aa79ba052138ab3afb0
+size 249

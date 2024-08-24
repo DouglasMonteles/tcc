@@ -1,1 +1,3 @@
-Agradecimento a eleitores do Estado da Bahia pela reeleição do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7185e00d58f58a81ba704425a1a1cf2a0be39da9ff8449b8d8af8f7da8e7f04b
+size 72

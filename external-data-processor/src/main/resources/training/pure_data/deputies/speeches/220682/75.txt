@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com o autoritarismo no Estado do Paraná, atribuindo parte disso à influência da Operação Lava-Jato. Destacou casos como a acusação sem provas contra o ex-reitor Luiz Carlos Cancellier, que resultou em seu suicídio, e a condenação injusta do executivo Mateus Coutinho de Sá, da empreiteira OAS, que, após 7 anos, foi absolvido por unanimidade. Criticou a militarização de escolas no Paraná, mencionando uma consulta pública junto às comunidades escolares sobre a adesão ou não à gestão cívico-militar, que não permite o contraditório. Anunciou a intenção de solicitar ao Supremo Tribunal Federal (STF) que todas as irregularidades em curso sejam incluídas em uma Ação Direta de Inconstitucionalidade (ADIN).
+version https://git-lfs.github.com/spec/v1
+oid sha256:db01ea85f43ba2e94955609d03ca6481b79812795c1dd353468e0506b09be4b0
+size 770

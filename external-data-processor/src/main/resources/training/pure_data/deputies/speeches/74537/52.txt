@@ -1,1 +1,3 @@
-Escalada da violência no País. Necessidade de ações governamentais conjuntas para combate à criminalidade. Urgente discussão do tema pela Casa e pelo Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65531140d92bf59b0c81ba81098bbd219bca9edfa15f884481247090c83d399f
+size 171

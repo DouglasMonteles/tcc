@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 2.944, de 2019, sobre os emolumentos dos serviços notariais e de registros públicos, no âmbito do Distrito Federal e dos Territórios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b55e22e423810cf671455dfed56cb29ed526f3e9d0c69f914191d974a0aa29d
+size 251

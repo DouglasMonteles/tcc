@@ -1,1 +1,3 @@
-O Deputado expressou preocupação com a seca na Bahia e região nordeste e solicitou previsão orçamentária para garantir o abastecimento de água e contornar a crise hídrica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9247993111caf0da0153699bbe9e381acf70cf78b43b90a755d13b3d5ec74968
+size 179

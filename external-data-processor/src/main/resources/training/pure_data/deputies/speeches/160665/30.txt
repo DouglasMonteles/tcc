@@ -1,1 +1,3 @@
-Queda do desempenho econômico da Companhia Hidroelétrica do São Francisco - CHESF em 2011. Intenção do Governo Federal de desmantelamento da empresa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46182c7f5367b88f9c7f3a47df96c38f1cbcc54f09961cf7c958715cec7c96f0
+size 154

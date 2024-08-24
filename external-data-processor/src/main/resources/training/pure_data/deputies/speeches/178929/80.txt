@@ -1,1 +1,3 @@
-Orientação de bancada para votação de requerimento de destaque para transformação, em proposição autônoma, de dispositivos constantes no art. 2º do substitutivo oferecido à Proposta de Emenda à Constituição nº 77, de 2003 (a respeito da simultaneidade de pleitos eleitorais e a duração de mandatos parlamentares nas esferas federal, estadual e municipal), bem como no art. 4º da referida proposição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7ee885c4acdf4af2519dad6ca81a1c75e4eaa72a1c2967a319500835c4a177e
+size 419

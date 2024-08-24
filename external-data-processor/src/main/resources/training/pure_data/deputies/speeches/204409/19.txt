@@ -1,1 +1,3 @@
-Protesto contra a natureza abusiva das tarifas de pedágio praticadas na região sul do Estado do Rio Grande do Sul. Anúncio de realização de audiência pública destinada ao debate da criação de novas praças de pedágio na BR-116, no trecho localizado entre os Municípios de Camaquã e Porto Alegre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cae60af8f28e584fe6942a6c11136017a1a2449d988b33eea38567776bae97c8
+size 307

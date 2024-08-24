@@ -1,1 +1,3 @@
-Relevância da implantação, pelo Governo do Estado da Bahia, do Programa Saúde em Movimento destinado ao combate ao câncer de mama. Empenho do Governador Jaques Wagner na construção de novos hospitais no Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:898dc6ab19ea9f7dd2b3e904725e138d5cf28738acd8048e901fff8e56df2d71
+size 217

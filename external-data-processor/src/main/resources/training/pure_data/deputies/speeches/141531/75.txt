@@ -1,1 +1,3 @@
-Associação ao pronunciamento do Deputado Marcus Pestana  sobre o ex-Deputado Eduardo Azeredo. Solidariedade ao ex-Deputado Eduardo Azeredo diante da renúncia ao mandato parlamentar. Idoneidade do político do PSDB do Estado de Minas Gerais. Confiança na absolvição do ex-Parlamentar em julgamento de processo pelo Supremo Tribunal Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98665fa000a5cbaa1eb1136371e94bc0151ad61c65606d6cd4cd7c2684248077
+size 345

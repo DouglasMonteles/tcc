@@ -1,1 +1,3 @@
-Posicionamento do orador contrário à aprovação da proposta governamental de reforma tributária. Inadmissibilidade de aumento da carga tributária imposta ao setor agropecuário. Dificuldades financeiras enfrentadas pelo homem do campo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:649b3360848b5c95df2933deb8da3d599a4fa2d3c030cdc44258af0458fd5c07
+size 240

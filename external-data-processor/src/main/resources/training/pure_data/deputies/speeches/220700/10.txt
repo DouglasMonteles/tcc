@@ -1,1 +1,3 @@
-Realização dos festejos de Santo Antônio, no Município de Campo Maior, Estado do Piauí. Aprovação, pela Casa, da Medida Provisória nº 1.164, de 2023, sobre a instituição do Programa Bolsa Família. Contrariedade à extinção da Fundação Nacional de Saúde — FUNASA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dc3c1be9f0a906cd417456537e07b883487faf17bdaa05e4b447a812744ce3e
+size 281

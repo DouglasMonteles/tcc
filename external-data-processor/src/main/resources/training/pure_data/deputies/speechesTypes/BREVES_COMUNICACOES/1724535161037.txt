@@ -1,1 +1,3 @@
-Congratulações ao Deputado Osmar Terra pela apresentação de projeto de lei sobre a instituição do Sistema Nacional de Políticas sobre Drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83c4f21506c5b0ea031bf47ef1dfb22ec306f59e96769a1806d211f1db1c5f24
+size 148

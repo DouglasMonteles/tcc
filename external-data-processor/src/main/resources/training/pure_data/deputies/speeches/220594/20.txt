@@ -1,1 +1,3 @@
-O Deputado discorreu sobre a debilidade da política de segurança pública do Governo Lula. Criticou o Ministro da Justiça e Segurança Pública por parecer estar em plena campanha política. Afirmou que as dificuldades impostas pelo Governo Federal para o acesso a armas de fogo para defesa pessoal, da família e da propriedade causaram sérios prejuízos econômicos ao País e dificuldades de sobrevivência para quem atua no setor. Tratou do abandono das forças policiais, da inexistência de uma política nacional de combate ao crime organizado e do domínio da criminalidade nas cidades brasileiras, inclusive promovendo atentados. O orador defendeu a aprovação do Projeto de Lei nº 3.780, de 2023, que aumenta as penas para os crimes de furto e roubo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54cb4e5277f85961eb28ed4a6a20d9974682d2e0a2b942a967e7b15d33ad317c
+size 766

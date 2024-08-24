@@ -1,1 +1,3 @@
-Posicionamento  favorável do  PDT  à Emenda 26, destacada, ao Projeto de Lei de Conversão da Medida Provisória 475 de 2009 (Dispõe sobre o reajuste dos benefícios mantidos pela Previdência Social em 2010 e 2011), que extingue o fator previdenciário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a534c1392073f231665aba75a4a595b9916b7a810375edf444cbbe6a8f811f39
+size 257

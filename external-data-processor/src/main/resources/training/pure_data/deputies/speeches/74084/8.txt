@@ -1,1 +1,3 @@
-Aplausos ao Governador Helder Barbalho pelo lançamento do projeto Usina da Paz nos Municípios de Cametá, Barcarena, Bragança, Altamira, Paragominas, Marabá e Abaetetuba, no Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ec8279c6ab9fd8d4493001daacadcb7503b9b840fd7d5b39fc1c035a102f689
+size 194

@@ -1,1 +1,3 @@
-Registro de presença na Casa do ex-Deputado, Senador Davi Alcolumbre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeacf099a51094aac6d796c63434d9f5142253938b527b1c1f9da524cb516a12
+size 70

@@ -1,1 +1,3 @@
-Aplausos à Presidenta Dilma Rousseff pela assinatura de termo de compromisso para a construção de quadras esportivas cobertas e unidades de educação infantil por meio do PAC 2 e pela doação de bicicletas e capacetes a escolas públicas por meio do Programa Caminho da Escola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1deca85d56256e81a6f0f99c473c488d3137d142ca0da8a3bd14da060934ca7
+size 282

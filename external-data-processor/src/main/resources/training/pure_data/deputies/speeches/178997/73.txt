@@ -1,1 +1,3 @@
-Continuidade da Operação Carro-Pipa em municipalidades cearenses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b482f55698e2e1c833915b7dfacdfa714cb4f5a09288bf294cb8b7910d43c91c
+size 67

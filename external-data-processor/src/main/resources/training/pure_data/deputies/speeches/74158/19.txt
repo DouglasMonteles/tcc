@@ -1,1 +1,3 @@
-Urgente votação pela Casa da chamada PEC dos Vereadores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:769d10c511930d53a2aa589080751d3adab3f22970d49a16716b1eb1d4e0bce3
+size 58

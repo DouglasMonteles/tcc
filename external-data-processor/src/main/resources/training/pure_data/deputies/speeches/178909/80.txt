@@ -1,1 +1,3 @@
-Congratulações à Comissão de Constituição e Justiça e de Cidadania pela aprovação de projeto de lei sobre a regulamentação das atividades de agentes comunitários de saúde e agentes de combate às endemias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc6f3a104bdea029e1a5c3efda95046e491122dec798fb2290106b71e8d0633f
+size 218

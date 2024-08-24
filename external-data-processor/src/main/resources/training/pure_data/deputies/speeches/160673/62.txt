@@ -1,1 +1,3 @@
-Defesa de votação, pela Casa, do projeto de lei sobre a extinção do fator previdenciário. Elevado índice de acidentes de trânsito com vítimas fatais no Rio Grande do Sul. Agradecimento à Presidenta Dilma Rousseff pela duplicação da BR-116, no Estado. Defesa de duplicação da BR-386, trecho Porto Alegre-Iraí. Apresentação de projeto de lei acerca da designação do Padre Theodor Amstad para patrono do cooperativismo brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b332b2006c7aa2d1ef0c8157b32198f74376e094162df64c4780350c4f0fb319
+size 445

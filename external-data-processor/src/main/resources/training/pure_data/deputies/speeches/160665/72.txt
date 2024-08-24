@@ -1,1 +1,3 @@
-Paralisação das obras do Estádio Rio Doce, no Município de Olinda, Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8214e027c8b237c7330997b38034f4fa0a26ac7bca07b4edf1b595eb588a13a
+size 92

@@ -1,1 +1,3 @@
-Posicionamento contrário do PSB ao Requerimento de concessão de prazo até a sessão ordinária seguinte para apreciação da Medida Provisória 511 de 2010 (Dispõe sobre medidas para assegurar a sustentabilidade econômico-financeira do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, sobre autorização para garantia do financiamento do Trem de Alta Velocidade - TAV, no trecho entre os Municípios do Rio de Janeiro - RJ e Campinas - SP, e dá outras providências), em razão da apresentação de Projeto de Lei de Conversão pelo Relator.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98b4483715e5d83cbf61c9a56aff27c3652880f1fb26546bd85b4a014cdb29f0
+size 562

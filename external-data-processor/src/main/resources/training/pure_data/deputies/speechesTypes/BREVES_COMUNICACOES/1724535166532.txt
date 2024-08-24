@@ -1,1 +1,3 @@
-O Deputado anunciou a realização de audiência pública com o objetivo de trazer esclarecimentos da VIABAHIA e da ANTT sobre a prestação de serviços nas rodovias BR-324 e BR-116 no Estado da Bahia. Expressou insatisfação com o serviço atual da VIABAHIA e afirmou que a audiência visa atender às demandas da população baiana e buscar respostas da concessionária, com expectativa de melhorar os serviços prestados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab9d8b5c0a208adaf60f8b9c53e721db9af57b4a12c48e2e6c9e9cc363369ad3
+size 426

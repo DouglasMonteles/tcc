@@ -1,1 +1,3 @@
-Homenagem a mulheres maranhenses ao ensejo do transcurso do Dia Internacional da Mulher. Probidade da ex-Governadora do Estado do Maranhão Roseana Sarney.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f79935858541e4eec971392d7f5c20cac97b0cce07a47fb6a4816d073d4be31
+size 155

@@ -1,1 +1,3 @@
-Transcurso do 40º aniversário de emancipação político-administrativa do Município de Alvarães, Estado do Amazonas. Avanço da gestão do Prefeito Lucenildo de Souza Macedo. Adesão do Amazonas ao Sistema Brasileiro de Inspeção de Produtos de Origem Animal - SISBI/POA. Agradecimento à Ministra da Agricultura, Pecuária e Abastecimento, Teresa Cristina, e técnicos do Instituto de Desenvolvimento Agropecuário e Florestal Sustentável do Estado do Amazonas - IDAM, diante da vitória alcançada pelo agronegócio amazonense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da1dff78a0793aa30e0ecb45a5b8389927be88757ba9032b71986aeb13040289
+size 536

@@ -1,1 +1,3 @@
-Falecimento do empresário Airton José Vidal Queiroz, do Município de Fortaleza, Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8571e5d31a5d8df3fb28f32d6d1cf92df8ddd21a1fcb00ff55bf4335b703a70
+size 100

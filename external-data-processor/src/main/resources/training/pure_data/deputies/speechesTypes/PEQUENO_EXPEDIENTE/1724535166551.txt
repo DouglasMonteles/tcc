@@ -1,1 +1,3 @@
-Cobrança de resposta à  questão de ordem  suscitada pelo orador em sessão anterior sobre a competência para o desmembramento de dispositivos de projeto de lei.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19a992d37ff22a78227c0cbfec9ac58a5a7bc35f869bf979fa152ad981d31735
+size 164

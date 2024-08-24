@@ -1,1 +1,3 @@
-Visita do orador aos Municípios de Belém, Cametá e Baião, Estado do Pará. Regozijo com a decisão judicial pela revogação da nomeação do novo presidente da Fundação Cultural Palmares. Reação de profissionais da área cultural contra a exclusão de atividades do registro do MEI - Microempreendedor Individual. Impopularidade do Presidente Jair Bolsonaro. Rejeição popular dos Ministros da Justiça e Segurança Pública, Sérgio Moro, e da Economia, Paulo Guedes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d48f67037952c5686bc872c1d916df8154274f3e794443efcf73bd83326e159
+size 478

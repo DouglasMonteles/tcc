@@ -1,1 +1,3 @@
-Solicitação aos Ministros da Justiça e do Planejamento, Orçamento e Gestão de convocação de candidatos aprovados em concurso público para Polícia Rodoviária Federal. Transcurso do Dia Internacional do Consumidor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59a7d89a32b231b0a3735a51d73e0ca8f8f14e4f51529d025962e4d0f1cfd4db
+size 222

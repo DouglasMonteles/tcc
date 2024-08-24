@@ -1,1 +1,3 @@
-Realização do I Seminário Frei Tito de Alencar Lima: Vida e Obra, no Município de Barbalha, Estado do Ceará. Homenagem à memória do religioso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e19a8024194d0bb3132e3034c4a963340527283c14d8c3f9a8a8a0cc5b1134de
+size 149

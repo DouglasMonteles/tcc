@@ -1,1 +1,3 @@
-O Deputado expressou a necessidade de incluir no bojo do projeto de lei do Governo Federal que cria mecanismos para zerar a fila do INSS a nomeação de candidatos aprovados em concurso realizado pela instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c371ade97464d233f47281c00c46852132c8c0aad978745765e82990364daf31
+size 215

@@ -1,1 +1,3 @@
-Transcurso do centenário da Associação Brasileira de Imprensa - ABI. Importância da instituição na defesa dos direitos humanos e da liberdade de imprensa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3909652f68190be129b668ff82051f345d92dd33236ccfeae1c9ea40e536f835
+size 160

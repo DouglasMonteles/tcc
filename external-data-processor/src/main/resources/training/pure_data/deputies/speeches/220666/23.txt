@@ -1,1 +1,3 @@
-O Deputado convocou os Parlamentares da Casa a votarem a favor da Lei Geral da Polícia Civil, assim como foi a aprovação da lei orgânica das polícias militares e dos corpos de bombeiros militares. Destacou a relevância do papel da Polícia Civil em todo o Brasil, incluindo o Estado de Pernambuco.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a57a9210c02c7d8f5d7ea543aa83c5ce06aff3366cbf34e43532a9165fc4a9bc
+size 303

@@ -1,1 +1,3 @@
-Homenagem à Assembleia de Deus no Estado do Pará ao ensejo do transcurso do 104º aniversário de atuação da congregação religiosa no Estado. Congratulações aos Pastores Gilberto Marques, Samuel Câmara e Olivar Barbalho. Homenagem póstuma ao Pastor Francisco Ribeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac6155c56f8ef1d03371908342b7768abfa46475d27a71ecd3e36eefc8e4ceb3
+size 277

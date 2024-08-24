@@ -1,1 +1,3 @@
-Importância de desburocratização do processo de construção de cisternas, para viabilização da produção agrícola, comunitária e familiar na região semiárida.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32fb43aa2cee2ed0a0d426a741c600472492ab4077a9b519280f14ca43e0cc00
+size 169

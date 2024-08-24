@@ -1,1 +1,3 @@
-Declaração de voto favorável à aprovação da Proposta de Emenda à Constituição nº 410, de 2019,  sobre consideração da inculpabilidade até a confirmação de sentença penal condenatória em grau de recurso. Defesa de alteração do Código de Processo Penal, com vista à ampliação das ações de combate à impunidade e à corrupção. Prejuízos causados ao desenvolvimento socioeconômico do País pelas discussões parlamentares de cunho ideológico.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17c002deed605cabf6e18399b4536c23751541eb511f4b35308b684de2a02cde
+size 469

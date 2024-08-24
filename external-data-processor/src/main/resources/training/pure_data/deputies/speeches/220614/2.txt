@@ -1,1 +1,3 @@
-Prejuízo bilionário causado ao País diante da perda do prazo de validade de medicamentos estocados no Ministério da Saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:420127d6966567f68124cd32729e32b80713605c349ff9ae229fc0f940d5f649
+size 127

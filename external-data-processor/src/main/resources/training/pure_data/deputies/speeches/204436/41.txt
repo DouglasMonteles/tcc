@@ -1,1 +1,3 @@
-Questão de ordem sobre a apensação, ao Projeto de Lei Complementar nº 200, de 1989, do Projeto de Lei Complementar nº 19, de 2019, acerca da definição dos objetivos do Banco Central do Brasil, da sua autonomia, da nomeação e exoneração do Presidente e Diretores da instituição.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b215274e20f315f53a8c63ea77a944be8c14b65e521cbb0b1af6b09f61efab7
+size 290

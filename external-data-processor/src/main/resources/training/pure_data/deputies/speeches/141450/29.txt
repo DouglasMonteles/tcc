@@ -1,1 +1,3 @@
-Solidariedade à população dos Estados de Santa Catarina, Rio de Janeiro e Espírito Santo, atingida por enchentes. Necessidade de ações governamentais preventivas de tragédias provocadas por inundações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2de1f193e29139e062475174a713d9549e2cfae1fe5d1a2ae173b52659b45362
+size 210

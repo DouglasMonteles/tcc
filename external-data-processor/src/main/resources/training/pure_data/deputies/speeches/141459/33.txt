@@ -1,1 +1,3 @@
-Parecer favorável pela Comissão de Desenvolvimento Econômico, Indústria e Comércio ao projeto de Lei nº 6.727, de 2013, que dispõe sobre a prorrogação de prazo dos benefícios concedidos pela Lei nº 8.248, de 23 de outubro de 1991, e suas alterações.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7e2b4fc32d1ecf43ffc237522ce31128a776642fb1c2ab91dddf06837b70bcf
+size 262

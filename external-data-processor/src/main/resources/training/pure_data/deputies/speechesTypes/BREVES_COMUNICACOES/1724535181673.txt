@@ -1,1 +1,3 @@
-A Deputada destacou o sucesso da Surdolimpíada Nacional em Londrina, evento que reuniu surdoatletas de vários estados. Ressaltou a parceria com a Confederação Brasileira de Desportos de Surdos e a Prefeitura de Londrina, reafirmando o compromisso com o esporte na comunidade surda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79be79008b70fdb2ed395b083687cd83d839b629ed206ccee091f678aba03b1f
+size 285

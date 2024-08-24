@@ -1,1 +1,3 @@
-Presença, na Casa, dos Prefeitos eleitos Renê Caroca e Ailton Suassuna, dos Municípios paraibanos de São José de Espinharas e Tavares, respectivamente. Expectativa de sanção, pela Presidenta Dilma Rousseff, do projeto sobre a distribuição de royalties de petróleo a Municípios e Estados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fe377e50d9aef0ad3ae21df79599ff150cfcf008919310a1646bfe23a83cfc0
+size 298

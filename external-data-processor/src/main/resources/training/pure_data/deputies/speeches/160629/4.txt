@@ -1,1 +1,3 @@
-Greve de servidores da segurança pública no Estado da Paraíba. Apoio às Propostas de Emenda à Constituição de nºs 300, de 2008, e 308, de 2004, respectivamente, sobre a instituição do piso salarial nacional de policiais e bombeiros militares e a criação das polícias penitenciárias federal e estaduais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:677db9b5252175c33414b06f90860b793f8db4aa0c0cfb1d98a268d44f7e0cd2
+size 316

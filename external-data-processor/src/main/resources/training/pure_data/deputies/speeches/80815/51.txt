@@ -1,1 +1,3 @@
-O Deputado saudou a Vereadora Ireuda Silva, de Salvador, Bahia, presente na Casa. Também registrou sua gratidão à Câmara e aos líderes presentes, incluindo o Presidente Arthur Lira, por criarem uma Comissão Especial para discutir a gestão de desastres, abordando a prevenção, resposta e recuperação. Destacou a importância de criar um sistema nacional de proteção para apoiar pessoas afetadas por desastres, como as recentes enchentes no Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92169760078c8dbfbcd4f7b33b928f8d486c71081c3fc4dfb6603443bbf61558
+size 470

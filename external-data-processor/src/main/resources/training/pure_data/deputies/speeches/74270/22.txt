@@ -1,1 +1,3 @@
-Leitura de Ofício da Presidência do Congresso Nacional de convocação de sessão conjunta para o dia 28 de abril de 2015, às 19 horas, destinada à leitura de expedientes e à apreciação de vetos presidenciais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb126e92236e0d1ca7e0b2f50a363c275624193914ab99b167d743fcd78966d8
+size 216

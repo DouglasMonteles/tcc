@@ -1,1 +1,3 @@
-Anúncio de retomada da tarifa antidumping  incidente nas importações brasileiras de leite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dd530759d88afe5ae3cc26c4dc82e4f93752be014eb65f9086567add709a508
+size 93

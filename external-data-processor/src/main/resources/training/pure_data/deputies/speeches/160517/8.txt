@@ -1,1 +1,3 @@
-Satisfação do orador com a declarações prestadas à Comissão de Ciência e Tecnologia, Comunicação e Informática, pelo Ministro da Ciência e Tecnologia, Aloizio Mercadante, a respeito das ações e investimentos da Pasta no setor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:507d05ce543ad07ee672ac2af00dddb2e3b4380ee1faf192367fde7516908456
+size 239

@@ -1,1 +1,3 @@
-Discrepância da remuneração de servidores públicos do Poder Executivo. Criação de planos de cargos e salários da categoria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9d07edcb86624121337ec631cf71042664721f3b503192097a1849b70670b14
+size 130

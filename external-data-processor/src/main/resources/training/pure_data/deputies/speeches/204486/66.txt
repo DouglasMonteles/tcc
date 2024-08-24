@@ -1,1 +1,3 @@
-Incoerência do texto da proposta de emenda à Constituição, do Poder Executivo, sobre a desvinculação de receitas dos fundos constitucionais e não constitucionais, em tramitação no Senado Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b96d18da56c5eb744fde25fde5ec8dbea25cdb53d969985600763c870311a4b8
+size 204

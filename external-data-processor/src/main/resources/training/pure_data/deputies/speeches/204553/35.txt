@@ -1,1 +1,3 @@
-Protesto contra a aposição de veto presidencial à proposta contrária à cobrança de bagagens pelas empresas aéreas brasileiras. Pedido de retirada da Medalha Grã-Cruz concedida ao ensaísta Olavo de Carvalho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90f222fa30b242e5abe8d35b3c6f9189c1cbfbace4149b070ae2ad5294f52a4a
+size 215

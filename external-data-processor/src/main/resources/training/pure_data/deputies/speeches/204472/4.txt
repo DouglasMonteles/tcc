@@ -1,1 +1,3 @@
-Relevância dos acordos internacionais constantes da pauta, em especial com países integrantes do Mercado Comum do Sul - MERCOSUL. Apelo ao Congresso Nacional de regulamentação do processo de escolha da representação brasileira no Parlamento do MERCOSUL - PARLASUL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04e6fe6e09dc831020e68005bf913411b2cc550378c411953d6a645543dfc604
+size 270

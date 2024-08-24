@@ -1,1 +1,3 @@
-Visita do Vice-Governador do Estado de Pernambuco, João Lira, aos Hospitais Regionais de Jatobá e Petrolândia. Realização pelo Governo Estadual de investimentos nas unidades de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bea3dae9be6efaa59fafe4247107d6a7e69a6ede0b770ca2c6fcfea4786de647
+size 189

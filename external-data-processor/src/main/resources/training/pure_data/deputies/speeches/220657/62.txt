@@ -1,1 +1,3 @@
-O Deputado orientou a bancada na votação do requerimento de apreciação em regime de urgência do Projeto de Lei nº 309, de 2023, que dispõe sobre a capacitação das equipes de saúde em procedimentos humanizados e qualificados de atenção a mulheres vítimas de violência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b670229d4170f9951c432ad1721b78611903636ac9ffc81b3e5bfa5e0241d821
+size 281

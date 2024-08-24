@@ -1,1 +1,3 @@
-Preocupação do orador quanto à decisão do Supremo Tribunal Federal, a respeito da ação direta de inconstitucionalidade de dispositivos da Lei nº 13.103, de 2015, (Lei dos Caminhoneiros). Caráter ideológico da proposta governamental de reforma tributária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7057861d9244f6488a8b179ac78916bb75df89de4a6559397d6de7fd82b17a7
+size 264

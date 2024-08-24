@@ -1,1 +1,3 @@
-Destinação, pelo orador, de recursos de emendas orçamentárias para a realização de obras estruturantes no Município de Montes Claros, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9d4d3d67d6a00a878bbd7694dabe2aab69d17559db82e6f6bb1512cee2a92a1
+size 164

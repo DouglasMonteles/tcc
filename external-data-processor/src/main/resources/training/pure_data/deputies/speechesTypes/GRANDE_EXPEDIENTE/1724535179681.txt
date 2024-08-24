@@ -1,1 +1,3 @@
-Retomada, pelo Governador Jaques Wagner, do planejamento estratégico de desenvolvimento socioeconômico do Estado da Bahia. Ações e obras públicas em execução no Estado. União da bancada federal baiana em torno de uma pauta positiva para o Estado.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b45e389df687dda018c8d859d34543375369eec33600daf456037cb7e605c31e
+size 254

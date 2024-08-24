@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Publicação do livro Feminismo: perversão e subversão, de autoria da Deputada Estadual Ana Campagnolo, de Santa Catarina. Solidariedade ao Deputado Nikolas Ferreira, diante da tentativa de cerceamento de sua voz no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09628877392dbb9bf624e1c0071fa2991281d5b06d817e3598dd94d661dd6d20
+size 271

@@ -1,1 +1,3 @@
-Aprovação, pelas Comissões de Educação e Cultura e de Constituição e Justiça e de Cidadania, do Projeto de Lei nº 6.576, de 2006, sobre a instituição do dia 2 de julho como data histórica no calendário das efemérides nacionais. Defesa do restabelecimento do antigo nome do aeroporto de Salvador, Estado da Bahia: Aeroporto Internacional 2 de Julho. Exposição na Casa de arte baiana comemorativa da efeméride.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27764a425fc756ac5392901bcab47adb19172f7952af64ac758e3058397b55e6
+size 425

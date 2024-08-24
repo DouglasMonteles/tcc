@@ -1,1 +1,3 @@
-Posicionamento do orador contrário ao cancelamento de concursos públicos no Estado de Roraima, especialmente para a área de segurança pública. Empenho na reversão da crise financeira de Roraima.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc7806fdef4e5050fee51edd042b6dcd48c0791e01181f31629397d97f2adfb7
+size 200

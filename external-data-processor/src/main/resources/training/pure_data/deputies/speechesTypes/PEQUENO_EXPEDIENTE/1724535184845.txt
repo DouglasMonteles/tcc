@@ -1,1 +1,3 @@
-Repúdio à atuação da empresa Equatorial Energia, no Estado de Alagoas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39301fca5a9765f298345e5ec221b70d3de25591afaa5e423215c4d889c91716
+size 74

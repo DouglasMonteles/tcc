@@ -1,1 +1,3 @@
-O Deputado expressou seu repúdio aos atos de violência policial ocorridos na Assembleia Legislativa de São Paulo durante protestos contra a privatização da Companhia de Saneamento Básico do Estado de São Paulo (Sabesp). Criticou a decisão do Governador de privatizar a Sabesp e alertou que a população será prejudicada, pois os preços das contas de água provavelmente aumentarão. Acusou o Governo Estadual de priorizar os interesses empresariais em detrimento dos interesses da população, especialmente dos mais pobres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16ecb2bb38b350b83bf5362ccbe6a3056f5d07ce07cc579d380781181a0e7e63
+size 535

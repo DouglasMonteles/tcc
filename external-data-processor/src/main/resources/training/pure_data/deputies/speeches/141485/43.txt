@@ -1,1 +1,3 @@
-Sessão solene em homenagem aos 25 Anos da Companhia Nacional de Abastecimento - CONAB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83e680b5d9d20a966ca135a4f3e9054badec739634d20016bb07746b67302b45
+size 87

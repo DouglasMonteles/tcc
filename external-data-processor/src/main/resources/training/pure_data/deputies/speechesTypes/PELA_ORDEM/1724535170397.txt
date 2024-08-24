@@ -1,1 +1,3 @@
-Apoio ao Projeto de Lei nº 5.365, de 2020, sobre alteração do Decreto-Lei nº 2.848, de 1940 - Código Penal, para tipificação do crime de Domínio de Cidades, e alteração da Lei nº 8.072, de 1990 - Lei de Crimes Hediondos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28df112fd93dea6d101afd5951ee04bf09353eafaee44b3895bf7ec0accc502e
+size 231

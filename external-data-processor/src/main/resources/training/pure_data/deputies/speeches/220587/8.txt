@@ -1,1 +1,3 @@
-Anúncio de reunião dos Parlamentares da Região Norte para debate de ações prejudiciais aos pequenos produtores rurais, adotadas pelo Ministério do Meio Ambiente e Mudança do Clima em conjunto com o IBAMA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5934982c700bf8134e44de5ebb72e60e7215754732f7ba218c92ebfd564013ec
+size 211

@@ -1,1 +1,3 @@
-Discussão do Projeto de Lei nº 4.402, de 2016, sobre a alteração da Lei nº 13.146, de 2015, relativa à instituição da Lei Brasileira de Inclusão da Pessoa com Deficiência - Estatuto da Pessoa com Deficiência, com vista à validade de laudos médicos exigidos para participação de pessoas com deficiência em concursos públicos e processos seletivos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd8934982b09d85f91a12929c69e9e4f20d5c65d47e01f93dad64ca608ce2bdd
+size 363

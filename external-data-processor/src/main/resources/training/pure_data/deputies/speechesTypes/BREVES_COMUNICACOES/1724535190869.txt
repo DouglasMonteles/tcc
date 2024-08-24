@@ -1,1 +1,3 @@
-Defesa da integridade e dos valores dos povos indígenas da Região Norte. Transcurso do Dia Nacional de Luta dos Povos Indígenas. Defesa do acesso ao conforto oferecido pela tecnologia e ao direito de desenvolvimento econômico pelas populações originárias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:096badd33d49784eb370cacb56eb4cac11a5a282598575b42372a4ac63ce817f
+size 262

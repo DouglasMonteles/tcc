@@ -1,1 +1,3 @@
-Transcurso do 17º aniversário de emancipação político-administrativa do Município de Areal, Estado do Rio de Janeiro. Desenvolvimento socioeconômico da municipalidade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30aa6863c6d735e9d3a062221f7f13adabfe159c40244a245a019d95ea712c49
+size 174

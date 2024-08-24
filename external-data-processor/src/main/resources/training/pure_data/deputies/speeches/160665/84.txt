@@ -1,1 +1,3 @@
-Realização, pela Frente Parlamentar em Defesa da Engenharia, Agronomia e Arquitetura no Brasil , de encontro com o Presidente do Conselho Federal de Engenharia e Agronomia - CONFEA e com o Vice-Presidente da Associação Profissional dos Geógrafos - FENAGEO, destinado ao debate do estabelecimento do novo marco regulatório do setor de mineração no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf0c759ebf4dc1b91141dd787e477b383ef79313ef009cbb825077099bb9b4d9
+size 361

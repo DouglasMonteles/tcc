@@ -1,1 +1,3 @@
-Anúncio, pelo Presidente Rodrigo Maia, de instalação da Comissão Especial Mista destinada ao exame das Propostas de Emendas à Constituição de nºs 45 e 110, de 2019, relativas à reforma tributária. Defesa de criação do Fundo de Desenvolvimento Regional.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55cab837a134beb7121b7dd466d704bd3e55337a44587f4fc50ba330fc536d97
+size 264

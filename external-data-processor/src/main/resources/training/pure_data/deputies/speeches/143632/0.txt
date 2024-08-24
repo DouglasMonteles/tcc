@@ -1,1 +1,3 @@
-Eleição da Deputada Rose de Fretas para a 1ª Vice-Presidência da Casa. Agradecimento ao eleitorado do Estado do Ceará pela eleição do orador. Apresentação do Projeto de Resolução nº 3, de 2011, acerca de criação da Comissão Permanente da Juventude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6627638d3fa96f261028c8f3027f32f9315800598418b7d40e79a6d1c1a324e9
+size 263

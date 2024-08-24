@@ -1,1 +1,3 @@
-Falecimento do ex-Vice-Presidente da República José Alencar. Lançamento do programa Rede Cegonha, pela Presidenta Dilma Rousseff, destinado ao atendimento a gestantes e crianças de até 2 anos de idade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec95e122d20f006e26839bb13940c9de14915ae73f23c785898ca7391f54d251
+size 206

@@ -1,1 +1,3 @@
-Participação do orador em audiência pública na Comissão de Desenvolvimento Regional e Turismo, do Senado Federal, para discussão do endividamento de pequenos agricultores junto ao Banco do Nordeste do Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a096df235f15909ee652e6ef558065c449373833d081015ef9b81238099fbd9
+size 214

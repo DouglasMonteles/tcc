@@ -1,1 +1,3 @@
-Atentado à democracia com agressão contra o Deputado José Carlos Aleluia durante manifestação em favor do impeachment da Presidenta da República Dilma Rousseff em Salvador, Bahia. Solicitação aos Deputados de respeito à fala do orador. Realização, no dia 18 de março, de manifestação de apoio ao Governo de Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e420aa80a469ff04f1d8ae3301c88cacfad1ab60e538bb786f36719f40a718e
+size 336

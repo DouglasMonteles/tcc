@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque para votação em separado da Emenda nº 2662002, apresentada ao Projeto de Lei do Congresso Nacional nº 9, de 2020, sobre as diretrizes para elaboração e execução da Lei Orçamentária de 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d2a7479102fe916e2e94c7017bdecdb26f1919b636600ff9d8272c8b89f8e90
+size 264

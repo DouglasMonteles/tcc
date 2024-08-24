@@ -1,1 +1,3 @@
-Resposta à questão de ordem suscitada pelo Deputado Colbert Martins,  na sessão do dia 9 do corrente,  sobre a aplicação da norma regimental que veda a designação, para membros titulares ou suplentes, da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, de parlamentares membros ou suplentes que integraram a Comissão anterior, no caso de mudança de Legislatura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf476fc09c3cc262ed4230fb03cbd23650609ea437708f2a05f373a2de4b331a
+size 388

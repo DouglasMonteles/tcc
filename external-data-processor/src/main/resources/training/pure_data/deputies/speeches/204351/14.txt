@@ -1,1 +1,3 @@
-Falecimento da Sra.  Iolanda Bonfim. Desafios impostos aos Parlamentares em 2020, especialmente no tocante ao reexame de posicionamentos inadequados. Ações necessárias para combate à gravidez na adolescência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:566b2565d8c0ec7229669da180567c8fc4b1f85433313b947748eae052be7990
+size 213

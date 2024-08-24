@@ -1,1 +1,3 @@
-Competência de honradez do Governador do Estado da Bahia, Rui Costa. Lançamento, pelo Governador, do edital de construção da Ponte Salvador-Itaparica. Defesa da eleição de Rui Costa à Presidência da República. Transcurso do 186º aniversário de emancipação político-administrativa do Município de Feira de Santana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e35aa60e9600112c29aae150c130c1ce901f0d96fd9328c0b22ee7d421bfea6c
+size 328

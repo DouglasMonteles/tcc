@@ -1,1 +1,3 @@
-Exigência de identificação do autor  intelectual do atentado praticado contra o então candidato à Presidência da República, Jair Bolsonaro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50916ed8c95b4a936276f157cc4e6d7a485aa0031746fe2a38c5f26e92aec0ad
+size 146

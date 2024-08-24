@@ -1,1 +1,3 @@
-Apoio à candidatura do Deputado Lucio Vieira Lima, pelo PMDB, ao cargo de 1º Vice-Presidente da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75f9cf5040fbaa05aa6254ccf6b48baf037081afaf2bfb2688ed2359dfbf7fbb
+size 103

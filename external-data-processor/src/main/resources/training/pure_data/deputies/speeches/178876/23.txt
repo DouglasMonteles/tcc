@@ -1,1 +1,3 @@
-Congratulações aos prefeitos goianos participantes da XVIII Marcha a Brasília em Defesa dos Municípios. Solidariedade aos gestores municipais brasileiros diante da crise financeira imposta pelo Governo Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40e64d4c77d240ba2957021e1a88b2bce3bf469ed3824e7c604f5c32bab82ff9
+size 214

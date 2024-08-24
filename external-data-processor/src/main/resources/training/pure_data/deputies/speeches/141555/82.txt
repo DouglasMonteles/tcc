@@ -1,1 +1,3 @@
-Aprovação pela Comissão de Defesa do Consumidor da Proposta de Fiscalização e Controle nº 100, de 2009, sobre a fiscalização de atos de gestão administrativa efetuados pelo Banco Central do Brasil em favor da constitucionalidade de planos econômicos implantados nos Governos José Sarney e Fernando Collor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58e8c2b5b7893280402539d2198df0fa80f627313656059d7c99a5e2df0d218e
+size 316

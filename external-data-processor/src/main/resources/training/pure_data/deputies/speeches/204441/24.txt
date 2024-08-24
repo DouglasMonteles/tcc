@@ -1,1 +1,3 @@
-Indagações do jornalista Hélio Beltrão à Esquerda brasileira, por ocasião da prisão dos suspeitos do assassinato da Vereadora Marielle Franco, ocorrido no Rio de Janeiro, Estado do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77e6416396e9224aafe70009634bea5064b826faae468d0e086bcd0764426cc5
+size 203

@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Estado de Minas Gerais pelo seu aniversário.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51bebb09c376a01187140df0f7621c95d2c15f760d01010aab522d4296168a41
+size 225

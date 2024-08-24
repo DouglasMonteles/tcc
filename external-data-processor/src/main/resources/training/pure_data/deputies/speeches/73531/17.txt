@@ -1,1 +1,3 @@
-Matéria intitulada O Golpe Contra a Democracia e as Reformas, de autoria do Prof. Caio Navarro de Toledo, da Universidade Estadual de Campinas - UNICAMP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fb72e2abcff742359e8606927441df5040071e7eca812d1f6c76da79f84ba25
+size 154

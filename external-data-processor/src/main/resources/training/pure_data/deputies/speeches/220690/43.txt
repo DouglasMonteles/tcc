@@ -1,1 +1,3 @@
-O Deputado defendeu a liberdade de imprensa e expressão, se posicionando contra a responsabilização dos meios de comunicação por declarações de terceiros. Além disso, criticou a censura em redes sociais, apontando para casos em que vídeos são removidos sem justificativa. Também abordou uma matéria do jornal Estadão que apontava para a disseminação de fake news sobre gastos do Presidente Lula em viagens, destacando a importância de apurar informações antes de compartilhá-las. Expressou preocupação com o uso indevido de recursos públicos em viagens internacionais, criticando a postura do Governo e da imprensa diante desses fatos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e755e02338756b5eddea30b649dad519b28c24b864162d4b78e10779e66450c
+size 657

@@ -1,1 +1,3 @@
-Repúdio ao cancelamento de licitação para realização de obra de pavimentação de trecho da BR-226 e contorno rodoviário do Município de Timon, Estado do Maranhão.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83d02fefe70b352b7b012b2a90a7a9cd12f7a1dd663f2d65fc7536ab33ac8393
+size 171

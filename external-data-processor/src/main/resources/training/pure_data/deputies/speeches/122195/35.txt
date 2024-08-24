@@ -1,1 +1,3 @@
-Realização da reforma política. Crescimento do PSC no Estado da Paraíba e no País. Propósito do partido de apresentação de candidatura própria ao Governo do Estado em 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b86f18d957d680dbb15902a0ccc7716eea83620d429813d4245982241386165c
+size 181

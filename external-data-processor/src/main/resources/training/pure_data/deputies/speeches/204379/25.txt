@@ -1,1 +1,3 @@
-Orientação de bancada na votação do requerimento de destaque supressivo do art. 8º do Projeto de Lei Complementar nº 39, de 2020, do Senado Federal, referente à instituição do Programa Federativo de Enfrentamento ao Coronavírus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08e7557bae08e9e989db087c42194a4b8a114fcaa804a4388249f4123bcd38c8
+size 238

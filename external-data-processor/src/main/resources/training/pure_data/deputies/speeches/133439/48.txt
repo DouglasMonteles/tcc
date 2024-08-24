@@ -1,1 +1,3 @@
-Transferência de atribuições e competências do Ministério do Trabalho e Emprego para outros órgãos. Protesto contra a política de esvaziamento da Pasta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b4ca1868297f52957332db9998b428c8424d765d264308ed82437daeb781f23
+size 160

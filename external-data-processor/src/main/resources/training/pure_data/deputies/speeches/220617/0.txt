@@ -1,1 +1,3 @@
-Compromisso de atuação em defesa da população do Estado do Rio de Janeiro, especialmente das regiões norte e noroeste Agradecimento ao eleitorado fluminense pela expressiva votação alcançada pelo orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:041ae33d137db13a2dd2911de57d0878ef9cddc2d9742aea0a5945dc715e7d77
+size 211

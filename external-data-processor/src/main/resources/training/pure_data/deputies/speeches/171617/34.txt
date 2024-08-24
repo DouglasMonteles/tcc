@@ -1,1 +1,3 @@
-Participação em encontro com o Ministro de Minas e Energia, Edison Lobão, destinado ao debate da greve de eletricitários por reajuste salarial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbec6e73c3c2a162384ebb6bf839f39775f64b1a973f29463d05a9abbe857ed3
+size 147

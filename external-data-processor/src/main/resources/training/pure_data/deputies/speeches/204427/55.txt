@@ -1,1 +1,3 @@
-Atuação do orador para adoção de providências pela Polícia Civil e Ministério Público para apuração das circunstâncias e responsabilidade de motorista pela morte do entregador Pedro Tiago dos Santos Godoi em colisão de trânsito ocorrida no Município de Garanhuns, Estado de Pernambuco. Aquisição de ambulâncias e micro-ônibus pela Prefeitura Municipal de Garanhuns com recursos de emendas parlamentares destinadas para a área da saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c366c57d41230b1cc9732b954089b32236b02524d3d0dbbd511d154d3c7c3e31
+size 455

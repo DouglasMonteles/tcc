@@ -1,1 +1,3 @@
-Desempenho da bancada feminina na Casa. Transcurso do Dia Internacional da Mulher. Violência praticada contra adolescente durante cumprimento de medidas socioeducativas em cárcere da cidade de Pedra Azul, no Vale do Jequitinhonha, Estado de Minas Gerais. Anúncio de lançamento, pelo Presidente Luiz Inácio Lula da Silva, do 2º Plano Nacional de Políticas para as Mulheres.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa2a4846826b95f7ea26c6401c61f30ecca3440ecdd46010c04e5c6b23de1abf
+size 379

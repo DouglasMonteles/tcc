@@ -1,1 +1,3 @@
-O Deputado destacou a crise de energia em São Paulo, criticando a fragilidade do Estado mais rico do Brasil. Condenou a concessionária ENEL pelos prejuízos e possíveis mortes e denunciou a corrupção na autorização de corte de árvores. Exigiu ação imediata do Prefeito Ricardo Nunes contra a corrupção.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01a36a054b7828c5f9fd6baa210964e7cde083452fd9e265f0c8fe1fe2ed4256
+size 314

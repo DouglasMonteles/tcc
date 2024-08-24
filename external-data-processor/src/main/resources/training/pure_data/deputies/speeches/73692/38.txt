@@ -1,1 +1,3 @@
-Pedido aos membros da corrente Afirmação Democrática do PMDB de obstrução das votações até a deliberação da Casa sobre o projeto de lei a respeito da instituição do novo Código Florestal brasileiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62b5044e94b57048f5c7645bc7ce8dca94c329fc256d76cc0abbd2dddac58a88
+size 211

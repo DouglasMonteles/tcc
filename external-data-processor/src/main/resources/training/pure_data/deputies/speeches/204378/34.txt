@@ -1,1 +1,3 @@
-Agradecimento ao Ministro de Minas e Energia e outros pela confirmação da presença na audiência pública promovida pela Comissão de Minas e Energia, destinado ao debate do reajuste nas tarifas de energia elétrica no Estado de Rondônia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e6c3fa934bb8b1263d617e3caf96459ce02d0ef9cb7faecfd6f59c6becf54ad
+size 242

@@ -1,1 +1,3 @@
-Inauguração, pelo Presidente Jair Bolsonaro, de trecho duplicado da BR-116, Estado do Rio Grande do Sul. Garantia, pelo Presidente da República, de alocação de recursos para conclusão das obras da rodovia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4129b2ccbcea03fdeb02478c357b54b6ddef73d0782741a94e848bfba35a5c5
+size 211

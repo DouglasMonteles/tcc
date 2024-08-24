@@ -1,1 +1,3 @@
-Repúdio à criminalização do agronegócio brasileiro. Proteção ao meio ambiente e cumprimento da legislação trabalhista pelos agricultores no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8765a01df7eeaea1439a6c366843b31268cbb56f7d8059fbd655eb2e9cc09568
+size 155

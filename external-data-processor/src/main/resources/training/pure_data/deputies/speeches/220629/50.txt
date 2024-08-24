@@ -1,1 +1,3 @@
-A Deputada celebrou a posse do novo Conselho Nacional de Promoção da Igualdade Racial. Destacou seu orgulho por ter participado do referido Conselho, ressaltando a colaboração com a CPI que investigou as mortes de jovens negros e a luta contra o impeachment da ex-Presidente Dilma Roussef. Por fim, celebrou a criação da bancada negra no Congresso Nacional e reforçou sua cooperação com o Conselho Nacional de Promoção da Igualdade Racial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae31f2a3b745dd846cdb706e422030a3f7ee2bf4d8b982554b4a1e4970f47c40
+size 450

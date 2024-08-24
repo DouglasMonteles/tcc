@@ -1,1 +1,3 @@
-Denúncia de invasão, pelo Movimento dos Trabalhadores Rurais Sem Terra - MST,  de propriedades particulares no Município de Santa Terezinha de Itaipu, Estado do Paraná, com comprometimento dos trabalhos no corredor de biodiversidade às margens do Lago de Itaipu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:541b2f3e55b0cbdf66ce5a5042cf1716f446407cedda62d077afb2102428902a
+size 267

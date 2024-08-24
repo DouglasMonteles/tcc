@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Conquistas alcançadas pelas mulheres no País. Cenário alarmante de violência praticada contra a mulher, especialmente quanto à violência doméstica ou intrafamiliar. Implementação de efetivas políticas públicas de eliminação de discriminações e violência contra a classe feminina. Saudações às Parlamentares e às servidoras da Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80f2199f8d92978ecd7e76fb9040c8234d73d01dbd01393697d1211913a343c9
+size 411

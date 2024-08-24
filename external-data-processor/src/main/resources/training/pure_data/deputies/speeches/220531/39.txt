@@ -1,1 +1,3 @@
-Elogio à atuação do Líder do PSD, Deputado Antonio Britto. Expectativa quanto à instalação de Santa Casa de Misericórdia na cidade-satélite de Samambaia, Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ff9f7020571e70f6235ecb1d4ae82d0835fdc323f239219cdeea1fb79ca3da1
+size 180

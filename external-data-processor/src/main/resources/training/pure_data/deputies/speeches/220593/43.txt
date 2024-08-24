@@ -1,1 +1,3 @@
-Balanço negativo dos 100 primeiros dias do Governo Luiz Inácio Lula da Silva. Exigência de adoção pelo Ministro da Justiça e Segurança Pública, Flávio Dino, de providências contra a violência no ambiente escolar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd70ca6929f1b8dce150409424a769760c8f8208d2b19bd0b2198de56f96697c
+size 223

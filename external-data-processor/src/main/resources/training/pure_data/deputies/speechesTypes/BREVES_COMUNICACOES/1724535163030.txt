@@ -1,1 +1,3 @@
-Apoio ao pleito da delegação brasileira participante de encontro destinado ao debate da questão cambial e de medidas protecionistas adotadas pelos Estados Unidos da América, realizado em Seul, Coreia do Sul. Conveniência de realização, pela Casa, de Comissão Geral para debate  das políticas monetária e cambial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2fa4b454665cea62e5b2169666b5da6ec0ecd2462608fd792e505e777b5e5b2
+size 322

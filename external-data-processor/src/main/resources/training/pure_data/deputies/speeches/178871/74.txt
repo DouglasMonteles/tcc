@@ -1,1 +1,3 @@
-Realização da Festa de Nossa Senhora das Neves, no Município de Presidente Kennedy, Estado do Espírito Santo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0541ce925dc994282777e5435e768f92ef455403928e0e4a499ddd029d342d34
+size 113

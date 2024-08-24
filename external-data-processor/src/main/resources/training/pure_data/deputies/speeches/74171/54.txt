@@ -1,1 +1,3 @@
-Posicionamento favorável do PSOL  ao parecer pela admissibilidade da Medida Provisória 408 de 2007 (Abre crédito extraordinário em favor de diversos órgãos do Poder Executivo, para os fins que especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ded88295a63535cc4989cf74d916a72e7c86a14a4524fb5cd92945dbb4fff19
+size 211

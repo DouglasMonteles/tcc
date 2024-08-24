@@ -1,1 +1,3 @@
-Transcurso, respectivamente, do 247º e 139º aniversários de emancipação política dos Municípios de São Luiz do Paraitinga e Itapecerica da Serra, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f57e95bb1560ce81c5fe1ca4695e3dff29973ee58f18a95ce82fe3bb81f39ba6
+size 175

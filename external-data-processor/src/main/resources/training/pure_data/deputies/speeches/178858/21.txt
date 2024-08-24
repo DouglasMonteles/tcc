@@ -1,1 +1,3 @@
-Falecimento da Sra. Helena Passos, genitora do Vice-Prefeito Max Passos, do Município de Cruz das Almas, Estado da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9ff3c2eb948e81a6f25642a94cb90a0a2799a6ebe99ab6d5ba86fb13f5e60c7
+size 122

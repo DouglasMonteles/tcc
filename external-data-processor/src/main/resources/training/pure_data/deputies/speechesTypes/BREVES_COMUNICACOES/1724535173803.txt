@@ -1,1 +1,3 @@
-Solicitação à Presidência de adiamento da votação de projeto de lei constante da pauta relativo à prorrogação do prazo dos incentivos concedidos pela Lei de Informática.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a83cc3c28f90a80af3dc4930be659f720ead0f43f8251add6f6076c5eaf7b00
+size 179

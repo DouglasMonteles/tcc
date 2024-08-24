@@ -1,1 +1,3 @@
-Inadmissibilidade de tributação de instituições religiosas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4898aca051700dd573ad67f9ecdec7c324c609b40e134fe9c150f1e1b3596db
+size 63

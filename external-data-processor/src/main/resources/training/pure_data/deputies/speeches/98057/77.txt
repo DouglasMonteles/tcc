@@ -1,1 +1,3 @@
-Orientação de bancada na votação do Projeto de Lei nº 1.006, de 2020, sobre a prestação, pela União, de auxílio financeiro às Santas Casas de Misericórdia e hospitais filantrópicos diante da pandemia de coronavírus, ressalvados os destaques. Solicitação à Presidência de registro da presença do orador no plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a2d3995688cdd223c1ab23fad90d3443c397d3c72b4b2fb429b614f585f95b4
+size 333

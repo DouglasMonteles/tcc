@@ -1,1 +1,3 @@
-Apoio ao Projeto de Lei nº 5.598, de 2009, sobre as garantias e direitos fundamentais ao livre exercício da crença e dos cultos religiosos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b44c3cf02df2197ad69514fed4a1ed52853be5ab9cfe4b28671816a0f33f328d
+size 142

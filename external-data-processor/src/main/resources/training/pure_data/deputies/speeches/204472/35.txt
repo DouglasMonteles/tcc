@@ -1,1 +1,3 @@
-Inconsistência de pronunciamentos em protesto contra o contingenciamento de recursos orçamentários pelo Governo Federal. Orientação de bancada na votação em globo da admissibilidade dos destaques simples (Medida Provisória nº 861, de 2018, sobre a transferência, da União para o Distrito Federal, da Junta Comercial do Distrito Federal e das atividades de registro público de empresas mercantis e atividades afins no Distrito Federal e sobre a alteração da Lei nº 8.934, de 1994, relativa ao Registro Público de Empresas Mercantis e Atividades Afins).
+version https://git-lfs.github.com/spec/v1
+oid sha256:16e72ec9a28d2c0bdaae892443f0ef8f3c7261908925734e12d58bf42c7d20e6
+size 567

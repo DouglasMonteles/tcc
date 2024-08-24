@@ -1,1 +1,3 @@
-Empenho do orador, da Liderança do Governo na Casa e da Relatora Manuela D'Ávila na busca de consenso para a votação do Projeto de Lei 4.529 de 2004 (Dispõe sobre o  Estatuto da Juventude e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:55067ebe122fc5bd38f8463daee39a64038119863fe5b72ee7946dda21759669
+size 221

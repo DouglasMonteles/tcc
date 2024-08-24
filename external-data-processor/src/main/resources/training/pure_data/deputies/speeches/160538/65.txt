@@ -1,1 +1,3 @@
-Lançamento da Frente Parlamentar em Defesa da Previdência Social Rural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31aac1f19b745820da3871abb365fea90564a71f8cffa3b8b35d4032fc1e1c76
+size 73

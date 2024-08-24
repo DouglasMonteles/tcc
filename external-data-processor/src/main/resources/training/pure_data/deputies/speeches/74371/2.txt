@@ -1,1 +1,3 @@
-Apoio à CPMI destinada à investigação do envolvimento de Parlamentares com o contraventor Carlos Augusto Ramos, o Carlinhos Cachoeira. Congratulação ao Deputado Bohn Gass pelo discurso proferido sobre o fortalecimento da agricultura familiar. Preferência do eleitorado brasileiro pela Presidenta Dilma Rousseff e pelo ex-Presidente Luiz Inácio Lula da Silva, segundo pesquisa divulgada pelo Instituto Datafolha. Importância do ensino profissional e tecnológico. Visita do orador a Municípios do Estado de Goiás. Ações do Governo Federal em prol do desenvolvimento do Estado, em especial da recuperação e duplicação de rodovias federais. Construção da Ferrovia Norte-Sul. Ampliação do número de escolas técnicas profissionalizantes em Municípios goianos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7002d7e4192c1867df980592a1b8fac7494b9e1365d8102c2a4aa5c575534bdf
+size 778

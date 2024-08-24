@@ -1,1 +1,3 @@
-Solicitação ao Ministro da Saúde, Arthur Chioro, de providências para a liberação de recursos orçamentários para investimento na área de saúde básica do Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d74de97ae31826f8c08d5e473bf0569b3178ffccaa01923bed7b5daa15c9cd92
+size 184

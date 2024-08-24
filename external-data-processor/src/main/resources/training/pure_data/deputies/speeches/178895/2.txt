@@ -1,1 +1,3 @@
-Inconformismo do orador com o fechamento da Santa Casa de São Paulo. Necessidade de reajustamento da tabela de procedimentos do SUS. Crise na área de saúde pública no País. Necessidade de melhorias nas condições de trabalho e de valorização dos profissionais de saúde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a99060ac53d5c54c6ac428f31834395de5555133752c66a7fc3f2a5bcf0de505
+size 278

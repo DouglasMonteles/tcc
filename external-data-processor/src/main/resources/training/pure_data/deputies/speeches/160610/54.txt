@@ -1,1 +1,3 @@
-Necessidade de investigação e punição dos responsáveis pelo assassinato de trabalhadores rurais no País. Defesa de realização da reforma agrária. Desrespeito do Presidente da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural à decisão da maioria em processo de votação do requerimento de convocação do Ministro-Chefe da Casa Civil, Antonio Palocci..
+version https://git-lfs.github.com/spec/v1
+oid sha256:95ddc1e540967add8b7f551e65e0b4951be470384808beb20ce0098c8d181277
+size 389

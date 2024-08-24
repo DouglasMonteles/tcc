@@ -1,1 +1,3 @@
-Efeitos positivos da aplicação da Lei nº 11.705, de 2008, a chamada Lei Seca, inibidora do uso de bebidas alcoólicas por condutores de veículos automotores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:871a1ead7970feb5f6ae2a7b49b69a9d87505f7d98287a32e4fb978c53315add
+size 161

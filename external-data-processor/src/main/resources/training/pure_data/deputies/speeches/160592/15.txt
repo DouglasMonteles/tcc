@@ -1,1 +1,3 @@
-Concessão do título de Doutor Honoris Causa ao ex-Presidente Luiz Inácio Lula da Silva, pela Universidade Sciences Po, da França. Excelência da administração do ex-Presidente da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:444a799d7129689358a3ac67deb00ebcee7998c324f53208574d6da1d3a96302
+size 196

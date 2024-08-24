@@ -1,1 +1,3 @@
-Solicitação ao Governo Federal de asfaltamento e manutenção da BR-422, especialmente no trecho entre os Municípios de Tucuruí e Novo Repartimento, Estado do Pará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77a67dd85ba021f3a9a5824664115e33f96ad5760c002da1cb77b265231f8b08
+size 169

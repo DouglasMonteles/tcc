@@ -1,1 +1,3 @@
-Interpelação judicial da Presidente da República, Dilma Rousseff, pelo Supremo Tribunal Federal - STF, para identificação dos chamados golpistas e das instituições apoiadoras do chamado golpe denunciado pela Chefe do Poder Executivo Federal em face da admissibilidade da abertura do processo de impeachment pela Câmara dos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f854d14bf24e5769c4b70007a5804da4d5fe7c8eb4e393cda55672c3d990510d
+size 341

@@ -1,1 +1,3 @@
-Lançamento, pelo Governo Federal, do Programa Nacional de Segurança Pública com Cidadania - PRONASCI II. Enfrentamento de ataques do crime organizado pela Governadora do Estado do Rio Grande do Norte. Envio de efetivo da Força Nacional de Segurança Pública ao Estado, pelo Ministro da Justiça e Segurança Pública, Flávio Dino.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2cc680474665de5557d10e904e3ce8112dae78a539113ebe3a5c491b16bebf5
+size 336

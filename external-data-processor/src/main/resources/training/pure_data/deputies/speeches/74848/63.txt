@@ -1,1 +1,3 @@
-Repúdio às declarações do Ministro Gilmar Mendes, do Supremo Tribunal Federal, sobre a tentativa pelo ex-Presidente Luiz Inácio Lula da Silva de adiamento do julgamento de processo pela Suprema Corte, publicadas pela revista Veja.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d676bc1ffad44f6b1be6e058138598b3ce536311e3f9df897cf78ba53be1106e
+size 235

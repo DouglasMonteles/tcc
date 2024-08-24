@@ -1,1 +1,3 @@
-Protesto contra os processos de desintrusão de terras indígenas no Estado de Mato Grosso.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5bdcfe01f0d651468396e459f252a5f06e3782f9aca749f3a83494eebaf4d4e
+size 91

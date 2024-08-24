@@ -1,1 +1,3 @@
-Defesa da decisão do Supremo Tribunal Federal quanto à concessão de liminar contra rito de processo de impeachment na Câmara dos Deputados definido pelo Presidente Eduardo Cunha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ded4abcacf6eb0063bb0c144868ea2f8408b1fa72cd48e789eaac346702494fa
+size 182

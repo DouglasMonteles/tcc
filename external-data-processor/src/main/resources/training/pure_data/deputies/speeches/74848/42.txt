@@ -1,1 +1,3 @@
-Solicitação à Presidência de retirada da Proposta de Emenda à Constituição   98, de 2007, a chamada PEC da Música, da pauta da sessão extraordinária.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73429931df72324f9d22a2de3ade5f8f77e997eef3504b00b0f603673eef6638
+size 159

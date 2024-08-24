@@ -1,1 +1,3 @@
-Posicionamento das frentes parlamentares cristãs pela rejeição do Projeto de Lei nº 442, de 1991, sobre a regulamentação de jogos de azar no País.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dea9a53518949b7c61fb7634d29a452020470bee3c248cf0d11f0e2c749c522
+size 153

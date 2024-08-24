@@ -1,1 +1,3 @@
-Transcurso de aniversário de criação da Empresa Brasileira de Pesquisa Agropecuária — EMBRAPA. Acerto da decisão da Mesa Diretora sobre a utilização da cota de passagens aéreas pelos Deputados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c030704c1e59220dcaf09ad3c4c386b46989b43e3cd4b10c883b6aa6593edb2
+size 203

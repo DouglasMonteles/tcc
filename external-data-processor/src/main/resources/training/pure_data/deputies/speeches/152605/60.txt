@@ -1,1 +1,3 @@
-Retrospectiva da atuação parlamentar do orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d774d522ae5170a520581413e9b498329d60d9b6efc79e12eaa9349bce30e8a
+size 49

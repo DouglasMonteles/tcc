@@ -1,1 +1,3 @@
-Congratulações às autoridades governamentais e à sociedade do Município de Costa Marques, Estado de Rondônia, pelo acolhimento de famílias bolivianas atingidas por incêndio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32ef4e44744c71e447eb52a2ffc9aebd5d72312c8cfd34db05af521c52b02e05
+size 181

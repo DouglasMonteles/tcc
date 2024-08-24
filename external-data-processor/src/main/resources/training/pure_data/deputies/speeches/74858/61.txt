@@ -1,1 +1,3 @@
-O Deputado discutiu o Projeto de Lei nº 4.173, de 2023, que dispõe sobre a tributação da renda auferida por pessoas físicas residentes no País em aplicações financeiras, entidades controladas e trusts no exterior.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce6ad41047c6c67f464ee60dc84e19efb32adcce108567221d72cd8dd35927ed
+size 221

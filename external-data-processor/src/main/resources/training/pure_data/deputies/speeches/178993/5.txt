@@ -1,1 +1,3 @@
-Greve da Polícia Civil do Estado do Tocantins. Cumprimento da Lei de Responsabilidade Fiscal durante o exercício do orador no cargo de Governador Estadual tocantinense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d859b1a8e068291e4f771e5e65fd67f1b3263edbff7e7ea16a5ff0d43037392
+size 170

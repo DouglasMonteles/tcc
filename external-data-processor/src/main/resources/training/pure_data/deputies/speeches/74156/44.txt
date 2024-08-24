@@ -1,1 +1,3 @@
-Transcurso do Dia Mundial do Meio Ambiente. Apresentação do Projeto de Lei nº 5.226, de 2009, sobre a proteção das florestas e outras formas de vegetação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec123f6458c6ffdc137bb21c54a25828913a4429fc637ed5800efc016f16e7a8
+size 161

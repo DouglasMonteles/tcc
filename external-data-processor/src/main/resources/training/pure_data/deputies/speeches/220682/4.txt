@@ -1,1 +1,3 @@
-Manutenção pelo Banco Central de taxa de juros SELIC extorsiva. Vínculo do Presidente da instituição, Roberto Campos Neto com o mercado financeiro. Tentativa da Direita de inviabilização do cumprimento de propostas de campanha pelo Governo Luiz Inácio Lula da Silva com o apoio à política de juros do Banco Central.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94d4a4d7e931bd7b6417c97f0f2d4f50af27798d5f0a61713de8da2a14035bea
+size 325

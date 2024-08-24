@@ -1,1 +1,3 @@
-Indignação com o uso eleitoreiro de parecer do orador a projeto de lei do Deputado Sarney Filho sobre a ampliação da área de atuação da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba - CODEVASF. Expectativa de esclarecimento do assunto em audiência pública na Assembleia Legislativa do Estado do Ceará.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70bc02496557f5f371cd0f85af51be18781093eb932abd2d4565db84a554bbae
+size 337

@@ -1,1 +1,3 @@
-Preocupação com o desperdício de alimentos no mundo, especialmente no Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8dfc3122fbfdcd08a609eb2b99fe30040d0768d3b2064f183082fbda943493d
+size 80

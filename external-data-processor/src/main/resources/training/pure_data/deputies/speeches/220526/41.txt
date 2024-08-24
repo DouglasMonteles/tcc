@@ -1,1 +1,3 @@
-Protesto contra o aumento no preço dos combustíveis e contra possível queda na arrecadação dos municípios em face da reforma tributária. Questionamento das ações do Presidente Luiz Inácio Lula da Silva como líder político. Crítica à retomada do julgamento sobre a descriminalização do porte de drogas e a legalização do aborto pelo Supremo Tribunal Federal. Apelo ao Presidente do Senado Federal, Rodrigo Pacheco, e ao Presidente da Câmara dos Deputados, Arthur Lira, pela defesa das prerrogativas do Congresso Nacional contra interferências indevidas do Poder Judiciário. Posicionamento do orador e da população brasileira contrária à legalização das drogas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdf2abee3e1393dd5b6b1043689983cd546b7d74ecbb3532500f97ff0acf5019
+size 686

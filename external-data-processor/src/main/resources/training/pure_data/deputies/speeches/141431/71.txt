@@ -1,1 +1,3 @@
-Matéria Nordeste - Aqui o Brasil cresce mais rápido, publicada pela revista Exame.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8baace50a673543f0d3be40fd89f2445ce20ab147bae4ca650f69451158a876c
+size 84

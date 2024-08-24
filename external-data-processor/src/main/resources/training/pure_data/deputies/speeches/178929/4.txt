@@ -1,1 +1,3 @@
-Denúncia de deturpação da votação, via Internet, em pesquisa de opinião sobre definição de família com base na união entre homem e mulher. Pedido à Presidência de determinação à administração da Casa de publicação de nota, no Portal da Câmara dos Deputados, com esclarecimentos sobre os votos apurados. Iminência de apresentação de parecer ao Projeto de Lei nº 6.583, de 2013, sobre o Estatuto da Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbc61f98d4e9bbd93f93f58eae7144cbb57c5e34df934833bbecc8d0a3eb9143
+size 430

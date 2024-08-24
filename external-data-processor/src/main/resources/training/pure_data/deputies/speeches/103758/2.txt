@@ -1,1 +1,3 @@
-Realização da 24ª Marcha a Brasília em Defesa dos Municípios. Importância de atendimento à pauta municipalista. Realização do primeiro voo da empresa LATAM Airlines para o Município de Passo Fundo, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ce446d95a71e0dc33c424d684eba2968cb16b6a26ba1348f3a524f46f8c9f54
+size 236

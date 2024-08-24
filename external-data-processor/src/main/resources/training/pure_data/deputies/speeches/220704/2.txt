@@ -1,1 +1,3 @@
-Transcurso do Dia Internacional da Mulher. Apresentação do Projeto de Lei nº 725, de 2023, sobre a alteração de dispositivo da Lei nº 11.340, de 2006, (Lei Maria da Penha), e da Lei 9.784, de 1999, com vista à tramitação prioritária de processos administrativos de interesse de vítima de violência doméstica e familiar. Importância do Programa Bolsa Família.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04ccaca1ede768af33c4b34c95e6fb8c047bf284fc3324c2ebbaf491194bf8ec
+size 373

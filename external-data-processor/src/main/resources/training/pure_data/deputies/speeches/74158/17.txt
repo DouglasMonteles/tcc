@@ -1,1 +1,3 @@
-Conveniência de alteração de dispositivos regimentais sobre a concessão da palavra aos oradores no período do Grande Expediente. Urgente votação pela Casa de propostas relativas à extinção do fator previdenciário, à redução da jornada de trabalho para 40 horas semanais, à recomposição numérica das Câmaras Municipais e à reforma política. Compromisso de atuação parlamentar em defesa dos interesses do Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3cef1b21cbb850736ae72663da17760df97b13594739627e2283efb88e4bc28
+size 449

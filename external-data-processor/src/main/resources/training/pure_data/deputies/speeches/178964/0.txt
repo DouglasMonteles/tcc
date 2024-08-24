@@ -1,1 +1,3 @@
-Solicitação aos Parlamentares de apoio à criação da Frente Parlamentar Mista em Defesa da Agricultura Familiar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02f5c0fe82664668754c765d670994475e9e337f671e13756340d576fbcc6131
+size 116

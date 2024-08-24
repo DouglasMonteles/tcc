@@ -1,1 +1,3 @@
-Apoio à redução, pelo Governo Federal, da alíquota do Imposto de Importação sobre automóveis movidos a eletricidade ou hidrogênio. Defesa da concessão de isenção do Imposto sobre Produtos Industrializados na aquisição de veículos elétricos ou híbridos por taxistas, cooperativas e pessoas com deficiência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b53dd64b7f6a41d27329a84126b32e1d8cc7632eb7fa8c628e0ed3017ed66df8
+size 322

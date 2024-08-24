@@ -1,1 +1,3 @@
-Convocação da bancada do Solidariedade ao plenário. Orientação da respectiva bancada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55fe2fcf504e23d80bb6a7ae310bd67728833373d9830600b28d1cc4f98d6df3
+size 90

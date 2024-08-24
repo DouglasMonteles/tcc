@@ -1,1 +1,3 @@
-Falecimento do ex-Deputado Federal Antônio Ueno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5fec99e415f97bd159f53f1b4264ea4d18103175c942bf0caba7d2d08f6cb4d
+size 49

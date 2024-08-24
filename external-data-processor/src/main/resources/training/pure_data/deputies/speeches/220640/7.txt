@@ -1,1 +1,3 @@
-Repúdio à disseminação de fake news por Parlamentares oposicionistas. Excelência da gestão do Presidente Luiz Inácio Lula da Silva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4e8d222b3a89d56a2b5d19237ac7e205ea65725b86b66f441e02d880919e3ff
+size 138

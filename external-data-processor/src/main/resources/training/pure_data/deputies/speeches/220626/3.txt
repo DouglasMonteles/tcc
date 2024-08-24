@@ -1,1 +1,3 @@
-Repúdio ao tratamento dispensado pelo governo petista aos produtores rurais. Declarações do Presidente Luiz Inácio Lula da Silva ofensivas aos agricultores brasileiros. Dificuldades enfrentadas pelos produtores nacionais de leite, em face das importações exacerbadas de produtos lácteos. Defesa da implementação de políticas públicas de fortalecimento do setor agrícola e redução dos preços dos alimentos.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a5770805ed0d354baa3ac63a44fed0d537a288d08e42695f6c1a0b32b79f850
+size 420

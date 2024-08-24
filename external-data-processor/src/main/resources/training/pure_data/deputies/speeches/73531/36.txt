@@ -1,1 +1,3 @@
-Indignação do orador com a absolvição do mandante do assassinato da missionária Dorothy Stang. Adoção, pelo PSOL, de providências acerca de supostas irregularidades no contrato firmado entre a empresa GEC Alsthom Transporte do Brasil S/A e a Companhia do Metropolitano de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:261ea47c153e4f52e84614a03f86be6b89d39f5db566ba05b2b59b55267d837a
+size 291

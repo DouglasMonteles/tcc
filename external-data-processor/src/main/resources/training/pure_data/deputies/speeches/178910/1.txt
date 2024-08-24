@@ -1,1 +1,3 @@
-Matéria Rever pacto federativo é desafio do Pará, sobre mensagem do Govenador do Estado do Pará, Simão Jatene, lida na Assembleia Legislativa, publicada pelo jornal O Liberal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c272bdd9150f91661aed6c9a8a8544109a8ab6f8a6605747ce77a8d9350102c4
+size 180

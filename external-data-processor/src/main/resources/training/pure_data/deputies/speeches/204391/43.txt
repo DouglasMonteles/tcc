@@ -1,1 +1,3 @@
-Orientação da votação do requerimento de destaque para votação em separado da Emenda nº 216, apresentada à Medida Provisória nº 870, de 2019, sobre a organização da Presidência da República e dos Ministérios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74f28719fd1cb305df994e7917068d635a0884b4c096db60dfc34fe227138e91
+size 223

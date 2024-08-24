@@ -1,1 +1,3 @@
-Emissão de parecer à Emenda de Plenário nº 1, oferecida ao Projeto de Lei nº 8.833, de 2017, a respeito da tipificação como crime a indução de crianças e adolescentes ao suicídio e à automutilação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e16121f1b6f7b8829d5338eee3cf3c2d1676d6b68f273b8479c01a2eb83e4f5
+size 211

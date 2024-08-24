@@ -1,1 +1,3 @@
-Efeitos nocivos para a economia e para aos trabalhadores de baixa renda das medidas fiscais efetivadas no Governo da Presidente da República Dilma Rousseff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b495731d9655539ab0078d11fef2569d540326d5c473bf660edaf3450966c85
+size 157

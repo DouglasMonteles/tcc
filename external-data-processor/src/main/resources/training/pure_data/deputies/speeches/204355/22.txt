@@ -1,1 +1,3 @@
-Indicação do orador para Coordenador da bancada do Estado do Espírito Santo na Câmara dos Deputados. Necessidade de realização da reforma previdenciária. Compromisso do Ministro da Infraestrutura, Tarcísio Gomes de Freitas, de construção da Ferrovia EF-118 na região sul capixaba.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01dd773f320a1bf0d4535879e76bc05ba908aef58d73065c1ad10b08e22a3fcd
+size 291

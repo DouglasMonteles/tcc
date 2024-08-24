@@ -1,1 +1,3 @@
-Apelo ao Presidente do Senado Federal, Senador Rodrigo Pacheco, de votação do Projeto de Lei nº 2.564, de 2020, sobre a instituição do piso salarial nacional dos profissionais da enfermagem e da parteira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9adeadcb9664ce5fb8a5be1e069358ab47b09138b5477c88e42047afae969c5d
+size 209

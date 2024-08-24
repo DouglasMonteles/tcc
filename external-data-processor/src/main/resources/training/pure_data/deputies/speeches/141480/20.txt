@@ -1,1 +1,3 @@
-Presença nas galerias do plenário de alunos da Faculdade Católica Dom Orione, do Município de Araguaína, Estado do Tocantins.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3a8df97b42cfe6e0ded0417ea8fe51ccd85473963cbeb55e4da42e4da0d8cbb
+size 130

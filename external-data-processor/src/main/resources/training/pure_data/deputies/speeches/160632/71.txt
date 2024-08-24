@@ -1,1 +1,3 @@
-Trajetória do orador no exercício de cargos de Secretário de Estado de Minas Gerais no Governo Antônio Anastasia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6572b21ced283792a92dd485f46ad9ffdccf2701f6efd04376392f5699b6b2c
+size 117

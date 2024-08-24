@@ -1,1 +1,3 @@
-Acerto da decisão da Presidência de indeferimento da questão de ordem sobre o   impedimento regimental do Deputado Paulo Piau para relatar o Substitutivo do Senado ao Projeto  Lei 1876 de 1999, que trata do novo Código Florestal Brasileiro, por ser autor de projeto lei apensado ao 1876.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af86ca03327174f141b90512ac531e9b681d970daccff0d6dd708d600c01b799
+size 291

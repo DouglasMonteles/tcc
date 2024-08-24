@@ -1,1 +1,3 @@
-Extensão dos benefícios do Programa Bolsa-Família a famílias com filhos entre 16 e 17 anos de idade. Matéria Do Bolsa Família à Inclusão Social, publicada pelo jornal britânico The Economist. Empenho do Ministro da Educação, Fernando Haddad, no fortalecimento do ensino profissionalizante.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e51c49c8424e46e8c439403f951309a5c551571f4457a30edad79564f7b69be3
+size 300

@@ -1,1 +1,3 @@
-Posicionamento contrário do PSDB ao Requerimento de encerramento da discussão e do encaminhamento da votação da  Medida Provisória 424, de 2008 (Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo para os fins que especifica).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a7118581b749c594bfdf18026a68b6be1d6d3c6f8365b6518caaca65b2a30c5
+size 259

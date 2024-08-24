@@ -1,1 +1,3 @@
-Congratulações aos integrantes da nova Diretoria do PR Jovem de Mogi das Cruzes, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54adda4beeeb195bcb530cdba4f4959cfd2f684ec316ecb02546f47a7613e552
+size 104

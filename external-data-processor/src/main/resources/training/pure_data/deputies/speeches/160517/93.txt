@@ -1,1 +1,3 @@
-Realização, pela Agência Nacional de Energia Elétrica - ANEEL, de audiência pública no Município de Colatina, Estado do Espírito Santo, para debate das altas tarifas de energia elétrica cobradas pela Empresa Luz e Força Santa Maria S/A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f7ba1039dde496b89a01af68ae352e918087865274a327a2b105c43ef54dabd
+size 246

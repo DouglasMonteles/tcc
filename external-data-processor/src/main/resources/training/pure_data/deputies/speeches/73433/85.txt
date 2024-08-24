@@ -1,1 +1,3 @@
-Resposta ao Deputado Augusto Carvalho sobre distribuição de senhas para acesso de visitantes às galerias do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c78308ead36e178b5fec533931086b2705bd6df6bbbe138bea26e2144908eaa
+size 121

@@ -1,1 +1,3 @@
-Destaque das ações promovidas pelo movimento de consciência negra no País. Estabelecimento de políticas públicas destinadas à população negra brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dade821d4ec9843d4428aefccd80cebf0a6cae6fe409b4b67ae3b67faa3612a
+size 162

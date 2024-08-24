@@ -1,1 +1,3 @@
-Emissão de parecer ao Projeto de Lei nº 2.529, de 2020, sobre a alteração da Lei nº 10.880, de 2004, relativa ao Programa Nacional de Apoio ao Transporte do Escolar - PNATE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17f18078754450470279c9e05f2a7b06e02fa1f743c858ec75664bc523f88089
+size 178

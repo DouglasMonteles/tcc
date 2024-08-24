@@ -1,1 +1,3 @@
-Necessidade de ampliação do prazo de exame e discussão da proposta governamental de reforma tributária. Protesto contra o açodamento na apreciação da propositura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5942052aaa313be0b8763bfae1f01c52c1d3d5650c265b174d870eb510e74186
+size 169

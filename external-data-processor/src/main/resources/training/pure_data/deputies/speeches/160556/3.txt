@@ -1,1 +1,3 @@
-Necessidade de investigação de crimes praticados por setores da Polícia Militar do Estado de Minas Gerais. Apelo ao Governo Estadual de integração das Polícias Militar e Civil e de medidas em prol da área de segurança pública.
+version https://git-lfs.github.com/spec/v1
+oid sha256:217e5023c4e458d8ef7c6df4ee331cbeb86387376bf28504e238769de399f2dd
+size 235

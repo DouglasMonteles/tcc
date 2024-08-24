@@ -1,1 +1,3 @@
-Expectativa quanto ao desempenho do PT nas eleições municipais do Estado da Bahia, especialmente em Salvador. Desenvolvimento socioeconômico do Estado. Proficuidade dos Governos de Luiz Inácio Lula da Silva e Dilma Rousseff. Fracasso do modelo neoliberal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31fc286234383c3a062949c204432bbb2796d6951dc7efdb072052bcfcb2cd37
+size 259

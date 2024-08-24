@@ -1,1 +1,3 @@
-Congratulações ao Presidente Henrique Eduardo Alves pela iniciativa de apresentação de projeto de resolução relativo à mudança na contagem de prazo para apreciação de vetos presidenciais pelo Congresso Nacional. Expectativa de realização de acordo de Líderes para votação de vetos acumulados e de acolhimento da proposição da Presidência da Casa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e69fd87e0e98dfb21ec9863742cd4e40c6a17149d8fc62fe3e61b1f159d6087b
+size 364

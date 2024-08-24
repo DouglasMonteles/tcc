@@ -1,1 +1,3 @@
-O Deputado agradeceu ao Presidente Lula e à Ministra da Saúde, Nísia Trindade, pela liberação de 67 milhões de reais para investimentos em hospitais de Montes Claros, Estado de Minas Gerais, responsáveis pelo atendimento da população de mais de 150 cidades do norte mineiro, do Vale do Jequitinhonha e do sul da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f3f7bf5699473bb6d2911adbc32b81c1e5e0e0368e16e59d25379e9167149ca
+size 327

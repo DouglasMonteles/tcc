@@ -1,1 +1,3 @@
-Pedido de desculpas ao Deputado Pompeo de Mattos, no exercício da Presidência dos trabalhos, por desentendimento com relação à lista dos oradores inscritos para uso da palavra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed0078b6e4247dea048e704e7f00a2d84c2b321f97d6494c395152d7a25a6787
+size 181

@@ -1,1 +1,3 @@
-Balanço negativo dos 100 primeiros dias de Governo Luiz Inácio Lula da Silva. Vinculação entre a doutrina ideológica da Esquerda e a sequência de ataques a escolas brasileiras.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff7ab45c229ecd161d687d7c01cadfdb5974d847430a12bfbd69a0c2206e95ee
+size 182

@@ -1,1 +1,3 @@
-O Deputado agradeceu ao Presidente Arthur Lira por atender ao pedido de criação do Grupo de Trabalho sobre a Política de Combate à Violência nas Escolas Brasileiras. Goetten destacou a realização pelo Grupo de Trabalho de audiências públicas nos eixos de educação, segurança, legislação e saúde mental. O orador elogiou a participação ativa dos membros do Grupo de Trabalho e agradeceu aos consultores da Câmara dos Deputados pela contribuição no avanço do tema. Ele informou sobre a realização de audiências em Cambé, Estado do Paraná, Blumenau, Estado de Santa Catarina, e no Bairro do Realengo, na cidade do Rio de Janeiro, Estado do Rio de Janeiro, para ouvir autoridades, familiares e pessoas testemunhas de casos de violência nas escolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa98e5e115f5153958516143888830f1778452a37c14a4ebb0e302c917cea53e
+size 771

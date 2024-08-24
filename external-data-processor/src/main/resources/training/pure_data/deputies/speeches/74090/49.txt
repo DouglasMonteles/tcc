@@ -1,1 +1,3 @@
-Procedência das declarações do General Augusto Heleno, Comandante Militar da Amazônia, sobre os perigos que rondam a Amazônia. Urgente revisão da política indigenista brasileira. Maior rigor na fiscalização pelo Estado brasileiro das organizações não-governamentais atuantes na região amazônica.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f1a5350fd5294a3f2ed6a1b2feb73bdec0426dec8a61931bc0dada4fb4fe07e
+size 309

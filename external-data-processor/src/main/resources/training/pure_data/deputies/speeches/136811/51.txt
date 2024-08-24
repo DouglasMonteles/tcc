@@ -1,1 +1,3 @@
-Destinação de recursos orçamentários para a geração de novos empregos e para a área de saúde. Duplicação das verbas orçamentárias destinadas à política de preços mínimo de produtos agrícolas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a56ee37309ff30e09b0765bfe545f53c15826e0da24c8452459070d1cc56088
+size 208

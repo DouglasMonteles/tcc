@@ -1,1 +1,3 @@
-Reunião de lideranças políticas do norte do Estado de Minas Gerais com o Vice-Presidente da República, José Alencar,  para debate da situação das populações atingidas pela seca da região dos Vales do Jequitinhonha e do Mucuri.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3280cdc41a783362322761aa94281c797cce19f5a5debb6f63cc524584c4fab7
+size 236

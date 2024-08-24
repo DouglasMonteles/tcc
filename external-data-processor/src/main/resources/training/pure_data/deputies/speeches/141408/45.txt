@@ -1,1 +1,3 @@
-Reunião da Frente Parlamentar em Defesa dos Aposentados e Pensionistas para deliberação sobre a proposta de extinção do fator previdenciário e de extensão de reajustes do salário mínimo aos benefícios previdenciários.
+version https://git-lfs.github.com/spec/v1
+oid sha256:319d3b961cb51bfad56bdc3808f7a16a03aeacdf600e62d7893d6ed1e3df71fd
+size 228

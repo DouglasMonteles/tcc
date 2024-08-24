@@ -1,1 +1,3 @@
-Pedido de esclarecimento sobre a ligação, com o PT, do ex-policial militar Élcio Queiroz, acusado pelo assassinato da Vereadora Marielle Franco, e sobre as funções por ele exercidas na condição de funcionário da Prefeitura Municipal de Nova Iguaçu, Estado do Rio de Janeiro, na gestão do então Prefeito Lindbergh Farias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cf514025a82fb80effe7ef646a9f406ef917043bdba84ae86eab696262a9971
+size 331

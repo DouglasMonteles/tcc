@@ -1,1 +1,3 @@
-Presença, na Casa, dos Vereadores Eltin Enfermeiro e Simone de Tuniquim, do Município de Jaíba, Estado de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7d184204c1f6d15f625b9bf151fe73f81fb08e9461f64d5377d5c7e8a1f1800
+size 122

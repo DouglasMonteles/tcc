@@ -1,1 +1,3 @@
-Defesa de extinção, pelo Presidente da República, do Preço de Paridade de Importação - PPI adotado no cálculo dos preços de combustíveis. Alcance de lucros exorbitantes pela empresa Petróleo Brasileiro S/A - PETROBRAS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26bab3e9cd6c6e7e81d865aba8d7c79e6558728e18bbcd85d58f536af7475f52
+size 228

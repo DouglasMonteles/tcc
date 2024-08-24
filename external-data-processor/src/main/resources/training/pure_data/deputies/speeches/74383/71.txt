@@ -1,1 +1,3 @@
-Leitura de Ato da Presidência sobre a criação de Comissão Externa destinada ao acompanhamento e fiscalização das investigações sobre o caso de estupro coletivo ocorrido na cidade do Rio de Janeiro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb87619617f295134efffde6fbdc17494389eb31327944cd8230c41ea99ef013
+size 205

@@ -1,1 +1,3 @@
-Apoio do PDT à decisão da Presidência de adiamento da votação da proposta de emenda à Constituição sobre o orçamento impositivo. Defesa de votação do projeto de lei a respeito da destinação de recursos de royalties de petróleo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:435c27735acd0d2e4fd2514bfcca03c84ba5a2960259d9d9633d84fbb2b0d4d8
+size 241

@@ -1,1 +1,3 @@
-Assunção, pelo orador, aos cargos de Secretário de Estado de Esportes e da Juventude e de Subsecretário de Políticas Antidrogas do Governo de Minas Gerais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24bed96d79abf741edcfe86df86fb01d636893e317905344bc664437a7531a0c
+size 160

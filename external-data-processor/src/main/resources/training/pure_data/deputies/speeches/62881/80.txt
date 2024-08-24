@@ -1,1 +1,3 @@
-Congratulações à Comissão Memória, Verdade e Justiça, da Casa, e à Deputada Luiza Erundina, pela iniciativa da realização de sessão solene para a devolução simbólica do mandato dos Deputados Federais cassados pelo regime militar. Homenagem à memória do ex-Deputado Federal Martins Rodrigues.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bb297f1f492bcec82d2c866b7d6e7b1cecd02a4181ba3736666a9dd83047c13
+size 306

@@ -1,1 +1,3 @@
-Transcurso do 162º aniversário de emancipação político-administrativa do Município de Uruguaiana, Estado do Rio Grande do Sul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:981c87c8f474894fb9321fd0a8262b039a93b728a7851dd20e23433ef65ec4c6
+size 132

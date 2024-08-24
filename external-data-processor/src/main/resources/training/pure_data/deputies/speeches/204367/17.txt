@@ -1,1 +1,3 @@
-Avanços da Frente Parlamentar Mista em Defesa do Carvão Mineral. Manifestação de boas-vindas aos empresários Gabriel Zanetti e Frederico Zanetti, presentes no Distrito Federal em busca de apoio ao desenvolvimento do carvão mineral no Estado de Santa Catarina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:860b0f48910acdfb66ce5b92549b8c9d4dda1b777fb571a0aeb6d9a4e61a3b48
+size 265

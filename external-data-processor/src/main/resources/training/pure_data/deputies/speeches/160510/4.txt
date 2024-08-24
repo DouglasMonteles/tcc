@@ -1,1 +1,3 @@
-Sessão solene em homenagem ao Aniversário do Partido Trabalhista Nacional - PTN.As notas taquigráficas desta Sessão Não Deliberativa Solene poderão ser solicitadas ao Departamento de Taquigrafia, Revisão e Redação - DETAQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e30c7a9fc5ad0654d286c09f60d46ba03c9a7b08ead2be63d92cdcafabd01d9
+size 231

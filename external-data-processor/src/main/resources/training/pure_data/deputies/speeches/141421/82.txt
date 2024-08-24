@@ -1,1 +1,3 @@
-Apresentação de proposta de emenda à Constituição sobre o reajuste do benefício de aposentadoria de acordo com o salário mínimo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e8397b0c2533816a4cb623865e9c5b4035715700f9ad68ef5d62b89dde5c74f
+size 136

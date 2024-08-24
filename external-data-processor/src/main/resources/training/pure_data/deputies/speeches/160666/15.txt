@@ -1,1 +1,3 @@
-Promoção, pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq, do XXVII Prêmio Jovem Cientista.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d49fe8cbd4d5289299c4e650b3518d47297d104a8b4e396f39ad3d1175f240b9
+size 122

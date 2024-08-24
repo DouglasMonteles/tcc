@@ -1,1 +1,3 @@
-Proposta de realização de acordo à Relatora da matéria, Deputada Mara Gabrilli, para retirada do destaque pelo orador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89eb0a0e9f1bae9fb099d32745aaf97cf2914f2464eb804ae60bbc73b8d49411
+size 122

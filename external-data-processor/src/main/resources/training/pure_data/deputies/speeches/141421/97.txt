@@ -1,1 +1,3 @@
-Congratulações à     Presidenta Dilma Rousseff pela  edição de  medida provisória sobre a redução de tarifas de energia elétrica, ora em apreciação.
+version https://git-lfs.github.com/spec/v1
+oid sha256:861b82c0c658a9617dd811be227f7cf28735e18ad7a53fb80338777ca722f63b
+size 159

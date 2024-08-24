@@ -1,1 +1,3 @@
-Julgamento, pelo Supremo Tribunal Federal, de ação direta de inconstitucionalidade em relação ao art. 254 do Estatuto da Criança e do Adolescente, sobre a punição das emissoras de radiodifusão pela inobservância da classificação indicativa estabelecida pelo Ministério da Justiça.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b840fcfdaed4b9c57b9cff745e2e954a832a2ca0cad7e249f6eba3365676bc87
+size 293

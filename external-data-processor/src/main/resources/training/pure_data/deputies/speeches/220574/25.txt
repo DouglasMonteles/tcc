@@ -1,1 +1,3 @@
-Repúdio ao Governo Luiz Inácio Lula da Silva. Defesa de criação da CPMI destinada à investigação de atos antidemocráticos praticados contra as sedes dos Poderes da República.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bc4c7bd5e06282c0664fb1ce94380e57ec6c48183aea4048f539b05ae3b2e21
+size 183

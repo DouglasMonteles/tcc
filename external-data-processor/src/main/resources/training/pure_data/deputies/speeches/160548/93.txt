@@ -1,1 +1,3 @@
-Apreensão ante possíveis atrasos nos investimentos no Aeroporto Internacional de Viracopos, no Município de Campinas, Estado de São Paulo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:380e811f9a55e68c3e5067bc8579b9a2eaa9224e2bd0ace239be13455bbce72a
+size 142

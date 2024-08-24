@@ -1,1 +1,3 @@
-Posicionamento favorável do PSC   à Subemenda Substitutiva Global ao Projeto de Lei 5.546 de 2001 (Estabelece medidas de prevenção e regras para a persecução penal das práticas delituosas previstas na Lei nº 9.455,de 1997, e dá outras providências  - Institui o Sistema Nacional de Prevenção e Combate à Tortura; cria o Comitê Nacional de Prevenção e Combate à Tortura e o Mecanismo Nacional de Prevenção e Combate à Tortura; e dá outras providências).
+version https://git-lfs.github.com/spec/v1
+oid sha256:696c50d7faa4d5368a734e3456d8a49c223b3cfcba32cf829f1088874f6d18b2
+size 474

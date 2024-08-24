@@ -1,1 +1,3 @@
-Defesa de aprovação do Projeto de Lei do Congresso Nacional nº 2, de 2023, sobre a concessão de reajuste salarial aos servidores públicos federais. Apoio à Emenda nº 4 apresentada à proposição pelo Deputado Albuquerque.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57e5c6bdbadc666bf9fe057bce6140f1a8b13d3dc5f265f2bc6483200ab89eb4
+size 229

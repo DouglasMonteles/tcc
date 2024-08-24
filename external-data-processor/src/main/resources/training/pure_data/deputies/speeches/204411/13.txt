@@ -1,1 +1,3 @@
-Questão de ordem sobre a necessidade de adoção, pela Presidência, das medidas cabíveis para a manutenção da ordem nas instalações do plenário.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8562454f8d3017d692b7842aa7461385c413c0e048cba09dc0e7dd87d2e1ba2f
+size 152

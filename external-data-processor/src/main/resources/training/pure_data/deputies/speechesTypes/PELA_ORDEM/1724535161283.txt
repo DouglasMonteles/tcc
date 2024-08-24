@@ -1,1 +1,3 @@
-Intensificação das ações do Governo Federal contra a entrada de guerrilheiros das Forças Armadas Revolucionárias da Colômbia - FARC no território brasileiro. Defesa de reforço das tropas e de modernização dos equipamentos das Forças Armadas brasileiras nas regiões fronteiriças do País. Acerto do posicionamento adotado pelo Presidente Luiz Inácio Lula da Silva com relação à crise diplomática entre o Equador e a Colômbia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b7b06569047b1487bd5dca277e3a662de745144e5463032a5bb11c223cc4c6b
+size 444

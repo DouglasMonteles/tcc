@@ -1,1 +1,3 @@
-Criação da Frente Parlamentar em Defesa dos Aposentados e Pensionistas. Aprovação, pelo Senado Federal, de proposições sobre a extinção do fator previdenciário e sobre os critérios para a correção de benefícios de aposentados e pensionistas. Assinatura, pelo Governo Federal, de convênios com municípios do Estado do Maranhão, no âmbito do Plano de Desenvolvimento da Educação. Presença de Prefeitos Municipais do Estado do Maranhão no Distrito Federal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9b8d3ab308d3daec9cf04d98a16262a6a8ed31b772bf4e82a6b49165558c540
+size 474

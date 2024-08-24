@@ -1,1 +1,3 @@
-Realização de movimento grevista pelos trabalhadores da empresa Petróleo Brasileiro S/A - PETROBRAS contra a privatização da estatal. Dados consubstanciadores da inconsistência do discurso de atribuição ao governo petista da responsabilidade pela quebra da empresa. Fator determinante dos elevados preços de combustíveis e do Gás Liquefeito de Petróleo - GLP, o gás de cozinha, praticados no País. Solidariedade às reivindicações de petroleiros e caminhoneiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a91fb83370e6c84a61d712ee4ade73a9affebe3ac5ce55a25bc6a1d68a33be4
+size 478

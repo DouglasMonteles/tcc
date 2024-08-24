@@ -1,1 +1,3 @@
-Congratulações aos Deputados Rogério Marinho, Vanderlei Macris e Marcus Pestana por vitória de aliados nas eleições municipais de 2016, respectivamente, nos Estados do Rio Grande do Norte, São Paulo e Minas Gerais. Regozijo com vitórias do PSDB do Estado de Goiás no pleito municipal. Congratulações aos Prefeitos eleitos de Municípios goianos localizados na região do Entorno do Distrito Federal. Importância da liderança do Governador Marconi Perillo no fortalecimento do PSDB em Goiás. Expectativa de apresentação pelo Presidente da República, Michel Temer, de proposições necessárias ao Brasil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3594e99489456edb1371d254df8af619535cee65d41960fb4e86fc813e02363
+size 620

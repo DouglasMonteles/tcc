@@ -1,1 +1,3 @@
-Concessão de audiência ao orador pelo Ministro da Fazenda, Guido Mantega. Importância das reformas tributária e política.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5802c8e3f28db1e68aaae134b70bb50fad7e626c13b1a08af98cd3a361f2f4bc
+size 126

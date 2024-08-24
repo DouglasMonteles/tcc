@@ -1,1 +1,3 @@
-Posicionamento favorável do DEM ao Requerimento de retirada da pauta da Ordem do Dia do Projeto de  Resolução 178 de 2013 (Dispõe sobre a estrutura temporária da Liderança do Partido Social Democrático - PSD, e dá outras providências). Críticas ao projeto de resolução.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f105318667896d859d7c0ade3abfcbcbb183745aaa4547f079b2c113aecf9d57
+size 281

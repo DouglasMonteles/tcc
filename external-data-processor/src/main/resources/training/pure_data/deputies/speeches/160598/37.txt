@@ -1,1 +1,3 @@
-Transcurso do Dia do Trabalho. Vinculação entre o desenvolvimento socioeconômico brasileiro e a adoção de políticas macroeconômicas consistentes. Desafio do Governo brasileiro de implantação de ensino de qualidade no País. Saudações aos  trabalhadores brasileiros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:549dd77684273009e13ba61b6b14ad0175411a32be1dab2758e7d7e44379e54d
+size 276

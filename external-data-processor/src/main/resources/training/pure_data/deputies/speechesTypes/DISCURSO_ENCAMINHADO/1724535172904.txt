@@ -1,1 +1,3 @@
-Comemoração do 90º aniversário de fundação do PCdoB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edb55022923f654560826d9f017e6ed426c1d03027ef38fc866ab9dca8a9b8e7
+size 58

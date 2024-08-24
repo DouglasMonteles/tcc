@@ -1,1 +1,3 @@
-Natureza sarcástica da pretendida taxação do seguro-desemprego e de gorjetas dadas a garçons, preconizada na Medida Provisória nº 905, de 2019, sobre a instituição do Contrato de Trabalho Verde e Amarelo e a alteração da legislação trabalhista brasileira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aadc9211f1b5e9e72112b2ef48ee1bf941acc7d73585fe13ebbba0dbe5c4095
+size 267

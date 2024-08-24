@@ -1,1 +1,3 @@
-Aplausos ao Prefeito Antônio Gomes, do Município de Mari, Estado da Paraíba, pelo rateio de precatórios do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEF com os professores da rede municipal de ensino. Aplausos à Prefeita Raquel Lyra, do Município de Caruaru, Estado de Pernambuco, pela organização das festas juninas. Protesto contra os baixos recursos repassados pelo Governador Paulo Câmara à municipalidade para realização da Festa de São João.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5f4d82d1d31ae5e27c3d03273c388389b0c4be1518b16c4e3030eb436f25a93
+size 520

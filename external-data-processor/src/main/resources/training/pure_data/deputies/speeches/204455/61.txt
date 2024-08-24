@@ -1,1 +1,3 @@
-Regozijo com a promulgação da Lei nº 13.894, de 2019, sobre alteração da Lei nº 11.340, de 2006, (Lei Maria da Penha), com vista à atribuição aos Juizados de Violência Doméstica e Familiar contra a Mulher da competência para julgamento de ações de divórcio e de dissolução de união estável, a pedido da ofendida, bem como da Lei nº 13.105, de 2015 (Código de Processo Civil).
+version https://git-lfs.github.com/spec/v1
+oid sha256:369f7173b4d01b5c35e69296497b93e0dee7cce798d86e0da7312bb5b849cc2d
+size 396

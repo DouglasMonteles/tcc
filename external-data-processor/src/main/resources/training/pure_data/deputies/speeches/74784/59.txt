@@ -1,1 +1,3 @@
-Determinação aos partidos políticos, pelo Tribunal Superior Eleitoral, de reserva do percentual de 30% para candidaturas femininas em pleitos eleitorais.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e7234f02dd32bd0af8e09427446be6732484c9dd8efd44a0014a0bbfacfee7e
+size 156

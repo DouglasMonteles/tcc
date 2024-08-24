@@ -1,1 +1,3 @@
-O Deputado manifestou repúdio ao Projeto de Lei nº 2.245, de 2023, proposto pela Deputada Erika Hilton (PSOL - SP), que busca obrigar empresas com mais de 100 funcionários a contratar 3% de pessoas em situação de rua. O Parlamentar questionou se a Deputada, ou qualquer Deputada do PSOL ou do PT, empregaria no gabinete dela para demonstrar que empresários não devem ser obrigados a contratar moradores de rua, que, geralmente, enfrentam problemas relacionados a drogas. O orador protestou contra a aprovação de requerimento de apreciação da matéria em regime de urgência.
+version https://git-lfs.github.com/spec/v1
+oid sha256:938da2325a85b0780f64f94f66f14d0e4866b519717053db59cbb010de627944
+size 585

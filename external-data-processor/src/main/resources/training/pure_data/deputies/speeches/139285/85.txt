@@ -1,1 +1,3 @@
-Transcurso do 26º aniversário de fundação da Escola Olodum, do Dia do Servidor Público e dos 40 anos de fundação do jornal Tribuna da Bahia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46e3cf2b1a1498532991f4305b4e9e67cb595a49d97b405caacc34d3a7b45cdd
+size 147

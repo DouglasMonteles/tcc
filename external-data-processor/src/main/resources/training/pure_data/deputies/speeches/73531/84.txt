@@ -1,1 +1,3 @@
-Posicionamento contrário do PSOL ao Requerimento de adiamento, por duas sessões, da votação do  Projeto de Lei 3.674 de 2008 (Cria o Fundo Soberano do Brasil - FSB, dispõe sobre sua estrutura, fontes de recursos e aplicações, e dá outras providências).Razões do posicionamento contrário do Partido à criação do Fundo Soberano do Brasil - FSB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40e5662496c9eba6a494ce51864cc3acc9df361189c3117929d752bbcd0264d0
+size 356

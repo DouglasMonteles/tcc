@@ -1,1 +1,3 @@
-Equívoco da decisão do Tribunal de Contas da União em relação aos contratos firmados entre a Caixa Econômica Federal e os permissionários lotéricos. Necessidade de reversão do caso. Acerto da Casa na aprovação do projeto de lei sobre o Super-SIMPLES.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f69b67f060e7a68c951d0fb96b314491520fa37d93f22d74beea3d2a7a09189
+size 261

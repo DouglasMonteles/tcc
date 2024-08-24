@@ -1,1 +1,3 @@
-Lançamento do Plano Safra da Agricultura Familiar do Ceará 2009. Realização de novos investimentos no Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88387b2e7d7cedb287e930284fd9662f1b924a433226872961705493e5ecad00
+size 175
