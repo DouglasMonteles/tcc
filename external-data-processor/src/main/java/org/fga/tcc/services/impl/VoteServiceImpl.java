@@ -3,7 +3,7 @@ package org.fga.tcc.services.impl;
 import com.fasterxml.jackson.core.type.TypeReference;
 import org.fga.tcc.entities.DeputySpeech;
 import org.fga.tcc.entities.OpenDataBaseResponse;
-import org.fga.tcc.entities.Vote;
+import org.fga.tcc.entities.Voting;
 import org.fga.tcc.enums.OpenDataEndpoints;
 import org.fga.tcc.json.FetchJson;
 import org.fga.tcc.json.RouterManager;
@@ -28,14 +28,16 @@ public class VoteServiceImpl implements VoteService {
 //        }
 //        System.out.println("x="+x);
 
-        voteService.getVotes(2020);
+        for (int year = 2008; year < 2024; year++) {
+            voteService.getVotingByYear(year);
+        }
     }
 
     @Override
-    public List<Vote> getVotes(int year) {
+    public List<Voting> getVotingByYear(int year) {
         RouterManager routerManager = new RouterManager();
-        FetchJson<Vote> fetchJson = new FetchJson<>();
-        OpenDataBaseResponse<Vote> voteOpenDataBaseResponse = fetchJson.get(
+        FetchJson<Voting> fetchJson = new FetchJson<>();
+        OpenDataBaseResponse<Voting> voteOpenDataBaseResponse = fetchJson.getJson(
                 routerManager
                         .setUrl(OpenDataEndpoints.API_VOTES_URL.getPath())
                         .setJsonName(String.valueOf(year))

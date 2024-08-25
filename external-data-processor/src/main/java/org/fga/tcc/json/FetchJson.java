@@ -65,10 +65,74 @@ public class FetchJson<T> {
         return null;
     }
 
+    public OpenDataBaseResponse<T> getJson(String url, TypeReference<OpenDataBaseResponse<T>> typeReference) {
+        try {
+            // https://dadosabertos.camara.leg.br/arquivos/votacoes/json/votacoes-2023.json
+            int lastBarIndex = url.lastIndexOf('/');
+            String fileName = url.substring(lastBarIndex + 1);
+
+            int dashIndex = fileName.indexOf('-');
+            String directoryName = fileName.substring(0, dashIndex);
+
+            String filePath = ResourceUtils.RESOURCE_PATH + "/" + directoryName + "/" + fileName;
+
+            if (!FileUtils.isFileAlreadyCreated(filePath)) {
+                LOGGER.info("Sending GET request: " + url);
+                HttpClient client = HttpClient.newHttpClient();
+
+                HttpRequest request = HttpRequest.newBuilder()
+                        .uri(URI.create(url))
+                        .GET()
+                        .build();
+
+                HttpResponse<String> response = client
+                        .send(request, HttpResponse.BodyHandlers.ofString());
+
+                if (response.statusCode() == 200) {
+                    saveJsonInLocalCache(filePath, response.body());
+
+                    ObjectMapper mapper = new ObjectMapper();
+                    return mapper.readValue(response.body(), typeReference);
+                } else {
+                    LOGGER.error("Error sending request. Status code: " + response.statusCode() +
+                            ". Error message: " + response.body());
+                }
+            } else {
+                LOGGER.info("Using cached data in: " + filePath);
+                ObjectMapper mapper = new ObjectMapper();
+                return mapper.readValue(new File(filePath), typeReference);
+            }
+        } catch (JsonEOFException e) {
+            LOGGER.error("JSON unexpected end-of-input. Verify json file of " + url);
+        } catch (IOException e) {
+            LOGGER.error("Error writing data in json file");
+        } catch (InterruptedException e) {
+            LOGGER.error("Error feting data: " + e.getMessage());
+        }
+
+        return null;
+    }
+
     private void saveResponseInLocalCache(String url, String jsonResponseBody) {
         try {
             UriParams uriParams = extractUri(url);
             File file = getFile(uriParams);
+
+            // Save in cache only if response has some data
+            if (!jsonResponseBody.contains("\"dados\":[]")) {
+                FileUtils.saveFile(file.getPath(), jsonResponseBody);
+                LOGGER.info("JSON saved in: " + file.getAbsolutePath());
+            } else {
+                LOGGER.warn("No data to be saved in cache.");
+            }
+        } catch (IndexOutOfBoundsException e) {
+            LOGGER.error("Error saving response in local cache: Index out bounds exception in splitUri");
+        }
+    }
+
+    private void saveJsonInLocalCache(String filePath, String jsonResponseBody) {
+        try {
+            File file = FileUtils.createFile(filePath);
 
             // Save in cache only if response has some data
             if (!jsonResponseBody.contains("\"dados\":[]")) {
