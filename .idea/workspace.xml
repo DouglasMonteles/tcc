@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4467710-b66a-4c7b-bf15-5ed7e72708ea" name="Changes" comment="" />
+    <list default="true" id="b4467710-b66a-4c7b-bf15-5ed7e72708ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/entities/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/VoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/services/impl/VoteServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/enums/OpenDataEndpoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/enums/OpenDataEndpoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/RouterManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/RouterManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/application.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,29 +40,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DeputeServiceImpl.executor": "Run",
-    "Application.DeputesCsvToEntityImpl.executor": "Run",
-    "Application.DeputyServiceImpl.executor": "Run",
-    "Application.FetchCsv.executor": "Run",
-    "Application.FetchJson.executor": "Run",
-    "Application.GenerateTxtModel.executor": "Run",
-    "Application.ImdbReviewClassificationRNN.executor": "Debug",
-    "Application.PrepareWordVector.executor": "Run",
-    "Application.TestNews.executor": "Run",
-    "Application.TrainNews.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.politics-agents [clean,install].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/douglas/Documentos/www/politics-agents/external-data-processor/src/main/resources"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DeputeServiceImpl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeputesCsvToEntityImpl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeputyServiceImpl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FetchCsv.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FetchJson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenerateTxtModel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImdbReviewClassificationRNN.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PrepareWordVector.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestNews.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainNews.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VoteServiceImpl.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.politics-agents [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/douglas/Documentos/www/politics-agents/external-data-processor/src/main/resources&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/external-data-processor/src/main/resources" />
@@ -63,14 +73,14 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.fga.tcc.services.impl" />
       <recent name="org.fga.tcc.services" />
       <recent name="org.fga.tcc.word2vec" />
       <recent name="org.fga.tcc.utils" />
       <recent name="org.fga.tcc.sentimental.review" />
-      <recent name="org.fga.tcc.generate.text" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeputyServiceImpl">
+  <component name="RunManager" selected="Application.VoteServiceImpl">
     <configuration name="DeputyServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.fga.tcc.services.impl.DeputyServiceImpl" />
       <module name="external-data-processor" />
@@ -123,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrepareWordVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.fga.tcc.news.PrepareWordVector" />
-      <module name="trained-lstm" />
+    <configuration name="VoteServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fga.tcc.services.impl.VoteServiceImpl" />
+      <module name="external-data-processor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.fga.tcc.news.*" />
+          <option name="PATTERN" value="org.fga.tcc.services.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VoteServiceImpl" />
         <item itemvalue="Application.DeputyServiceImpl" />
         <item itemvalue="Application.FetchJson" />
         <item itemvalue="Application.ImdbReviewClassificationRNN" />
         <item itemvalue="Application.GenerateTxtModel" />
-        <item itemvalue="Application.PrepareWordVector" />
       </list>
     </recent_temporary>
   </component>
@@ -163,5 +173,16 @@
       <updated>1723319350746</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/external-data-processor/src/main/java/org/fga/tcc/json/FetchJson.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

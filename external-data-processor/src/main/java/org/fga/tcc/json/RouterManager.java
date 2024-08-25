@@ -75,6 +75,15 @@ public class RouterManager {
         return this;
     }
 
+    /*
+    * @param jsonName Name of json without .json
+    * */
+    public RouterManager setJsonName(String jsonName) {
+        this.url.append(jsonName);
+        this.url.append(".json");
+        return this;
+    }
+
     private void addSpecialCharacters() {
         // In case of this param to be the first
         if (this.url.indexOf("?") == -1) {

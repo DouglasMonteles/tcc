@@ -46,7 +46,8 @@ public class FetchJson<T> {
                     ObjectMapper mapper = new ObjectMapper();
                     return mapper.readValue(response.body(), typeReference);
                 } else {
-                    LOGGER.error("Error sending request. Status code: " + response.statusCode());
+                    LOGGER.error("Error sending request. Status code: " + response.statusCode() +
+                            ". Error message: " + response.body());
                 }
             } else {
                 LOGGER.info("Using cached data in: " + filePath);
@@ -89,7 +90,7 @@ public class FetchJson<T> {
             String fileName = uriParams.splitUri[0];
             filePath = resourcesPath + "/" + uriParams.splitUri[0] + "/" + fileName + ".json";
         } else {
-            String fileName = uriParams.splitUri[1];
+            String fileName = uriParams.splitUri[1]; // id property
             filePath = resourcesPath + "/" + uriParams.splitUri[0] + "/" + uriParams.splitUri[2] + "/" + fileName + ".json";
         }
 
